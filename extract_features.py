@@ -66,16 +66,17 @@ def extract_features(lines):
     Goes line by line and compiles a new list of extracted features, which
     it then appends to the original feature list.
     """
-    cluster_dict = get_cluster_dict()
+    cluster_dict = get_cluster_dict() # read in Brown cluster
     for i, line in enumerate(lines):
         token = line[1]
+        bio_tag = lines[i].pop()
         additional_features = [is_capitalized(token),
                                contains_digits(token),
                                contains_dollar_sign(token),
                                get_length(token),
                                get_word_shape(token),
                                get_brown_cluster(cluster_dict, token)]
-        lines[i].extend(additional_features)
+        lines[i].extend(additional_features + [bio_tag])
     return lines
 
 def write_to_file(filepath, lines):
@@ -88,10 +89,10 @@ def write_to_file(filepath, lines):
 if __name__ == "__main__":
     if len(sys.argv) < 2 or len(sys.argv) > 2:
         print "Specify a path to an input directory"
-    if len(sys.argv) ==  2:
+    else:
         input_directory = sys.argv[1]
-    filename = 'train.gold'
-    new_filename = 'new_train.gold'
-    lines = read_from_file(input_directory + filename)
-    new_lines = extract_features(lines)
-    write_to_file(input_directory + new_filename, new_lines)
+        filename = 'train.gold'
+        new_filename = 'new_train.gold'
+        lines = read_from_file(input_directory + filename)
+        new_lines = extract_features(lines)
+        write_to_file(input_directory + new_filename, new_lines)
