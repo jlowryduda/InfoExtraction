@@ -1,0 +1,14 @@
+# Unigram
+
+# Current word
+U00:%x[0,1]
+# Previous word
+U01:%x[-1,1]
+# Next word
+U02:%x[1,1]
+# Current POS
+U03:%x[0,2]
+# Previous POS
+U04:%x[-1,2]
+# Next POS
+U05:%x[1,2]
