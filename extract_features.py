@@ -14,6 +14,21 @@ def contains_dollar_sign(token):
 def get_length(token):
     return len(token)
 
+
+def get_word_shape(token):
+    shape = ''
+    for char in token:
+        if char.isdigit():
+            shape += '#'
+        elif char.isupper():
+            shape += 'A'
+        elif char.islower():
+            shape += 'a'
+        else:
+            shape += '.'
+    return shape
+            
+
 if __name__ == "__main__":
     if len(sys.argv) < 2 or len(sys.argv) > 2:
         print "Specify a path to an input directory"
