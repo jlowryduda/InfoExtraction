@@ -1,3 +1,4 @@
+from __future__ import division
 import nltk
 import sys
 import glob
@@ -28,6 +29,25 @@ def get_word_shape(token):
             shape += '.'
     return shape
 
+def get_cluster_dict():
+    cluster_dict = {}
+    with open("brown_c100.txt", "rb") as brown_cluster:
+        for line in brown_cluster:
+            token = line.split()[1]
+            cluster_no = line.split()[0]
+            cluster_dict[token] = cluster_no
+    return cluster_dict
+
+def get_brown_cluster(cluster_dict, token):
+    """
+    Returns an 8-bit representation of Brown cluster a given token belongs to.
+    If not found, returns "00000000"
+    """
+    if token.lower() in cluster_dict:
+        return cluster_dict[token.lower()][:8]
+    else:
+        return "00000000"
+
 def read_from_file(filepath):
     """
     Takes a filepath, reads in the lines, and does some basic processing
@@ -46,13 +66,15 @@ def extract_features(lines):
     Goes line by line and compiles a new list of extracted features, which
     it then appends to the original feature list.
     """
+    cluster_dict = get_cluster_dict()
     for i, line in enumerate(lines):
         token = line[1]
         additional_features = [is_capitalized(token),
                                contains_digits(token),
                                contains_dollar_sign(token),
                                get_length(token),
-                               get_word_shape(token)]
+                               get_word_shape(token),
+                               get_brown_cluster(cluster_dict, token)]
         lines[i].extend(additional_features)
     return lines
 
@@ -62,7 +84,6 @@ def write_to_file(filepath, lines):
     with open(filepath, 'w') as outfile:
         for line in lines:
             outfile.write(line)
-
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 or len(sys.argv) > 2:
