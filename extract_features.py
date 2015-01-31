@@ -19,11 +19,10 @@ def get_word_shape(token):
     for char in token:
         if char.isdigit():
             shape += '#'
-        elif char.isalpha():
-            if char.isupper():
-                shape += 'A'
-            else:
-                shape += 'a'
+        elif char.isupper():
+            shape += 'A'
+        elif char.islower():
+            shape += 'a'
         # Else, it's a non-alphanumeric symbol
         else:
             shape += '.'
@@ -74,4 +73,4 @@ if __name__ == "__main__":
     new_filename = 'new_train.gold'
     lines = read_from_file(input_directory + filename)
     new_lines = extract_features(lines)
-    write_to_file(input_directory + new_filename, lines)
+    write_to_file(input_directory + new_filename, new_lines)
