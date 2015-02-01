@@ -1,7 +1,5 @@
 from __future__ import division
-import nltk
 import sys
-import glob
 
 def is_capitalized(token):
     return '1' if token[0].isupper() else '0'
@@ -87,12 +85,11 @@ def write_to_file(filepath, lines):
             outfile.write(line)
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2 or len(sys.argv) > 2:
-        print "Specify a path to an input directory"
+    if len(sys.argv) < 3 or len(sys.argv) > 3:
+        print "Specify an input training file and an output filename"
     else:
-        input_directory = sys.argv[1]
-        filename = 'train.gold'
-        new_filename = 'new_train.gold'
-        lines = read_from_file(input_directory + filename)
+        filename = sys.argv[1]
+        new_filename = sys.argv[2]
+        lines = read_from_file(filename)
         new_lines = extract_features(lines)
-        write_to_file(input_directory + new_filename, new_lines)
+        write_to_file(new_filename, new_lines)

@@ -12,3 +12,13 @@ U03:%x[0,2]
 U04:%x[-1,2]
 # Next POS
 U05:%x[1,2]
+# Current is capitalized
+U06:%x[0,3]
+# Current contains digits
+U07:%x[0,4]
+# Current contains dollar sign
+U08:%x[0,5]
+# Current word shape
+U09:%x[0,6]
+# Current Brown cluster
+U10:%x[0,7]
