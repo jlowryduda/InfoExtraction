@@ -22,3 +22,5 @@ U08:%x[0,5]
 U09:%x[0,6]
 # Current Brown cluster
 U10:%x[0,7]
+# Bigrams
+B
