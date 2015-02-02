@@ -18,9 +18,10 @@ U06:%x[0,3]
 U07:%x[0,4]
 # Current contains dollar sign
 U08:%x[0,5]
-# Current word shape
+# Current word length
 U09:%x[0,6]
-# Current Brown cluster
+# Current word shape
 U10:%x[0,7]
+# Current Brown cluster
+U11:%x[0,8]
 # Bigrams
-B
