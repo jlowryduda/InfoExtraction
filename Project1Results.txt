@@ -1,0 +1,10 @@
+﻿F1 Measures
+Features
+	Dev
+	Test
+	w0 + w-1 + w1 + t0 + t-1 + t1 + caps0 + digits0 + $0 + shape0 + brown0
+	64.74%
+	
+
+	w0 + w-1 + w1 + t0 + t-1 + t1 + caps0 + digits0 + $0 + shape0 + brown0 + bigrams
+	67.12%
