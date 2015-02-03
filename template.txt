@@ -24,7 +24,11 @@ U09:%x[0,6]
 U10:%x[0,7]
 # Current Brown cluster
 U11:%x[0,8]
+# Previous Brown cluster
+U12:%x[-1,8]
 # Previous word capitalized
-U12:%x[-1,3]
+U13:%x[-1,3]
+# Previous BIO tag
+U14:%x[-1,9]
 # Bigrams
 B
