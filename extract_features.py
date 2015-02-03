@@ -73,7 +73,8 @@ def extract_features(lines):
                                contains_dollar_sign(token),
                                get_length(token),
                                get_word_shape(token),
-                               get_brown_cluster(cluster_dict, token)]
+                               get_brown_cluster(cluster_dict, token),
+                               bio_tag]
         lines[i].extend(additional_features + [bio_tag])
     return lines
 
