@@ -74,6 +74,15 @@ def get_loc_gazetteer():
 def is_in_loc_gazeteer(locations, token):
     return "1" if token.lower() in locations else "0"
 
+def get_last_names():
+    with open("last_names.txt", "rb") as names_file:
+        last_names = ["".join(line.split()) for i, line in enumerate(names_file) if i < 1000]
+        return last_names
+
+def is_last_name(last_names, token):
+    return "1" if token.lower() in last_names else "0"
+
+
 def extract_features(lines):
     """
     Goes line by line and compiles a new list of extracted features, which
@@ -81,6 +90,7 @@ def extract_features(lines):
     """
     cluster_dict = get_cluster_dict() # read in Brown cluster
     loc_gazetteer = get_loc_gazetteer() # read in GeoLite2 data
+    last_names = get_last_names() # read in a list of 2000 popular last names
     for i, line in enumerate(lines):
         token = line[1]
         bio_tag = lines[i].pop()
@@ -90,7 +100,8 @@ def extract_features(lines):
                                get_length(token),
                                get_word_shape(token),
                                get_brown_cluster(cluster_dict, token),
-                               is_in_loc_gazeteer(loc_gazetteer, token)]
+                               is_in_loc_gazeteer(loc_gazetteer, token),
+                               is_last_name(last_names, token)]
         lines[i].extend(additional_features + [bio_tag])
     return lines
 
