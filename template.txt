@@ -32,5 +32,7 @@ U13:%x[-1,3]
 #U14:%x[-1,9]
 # Current in location gazetteer
 U15:%x[0,9]
+# Current is a last name
+U16:%x[0,10]
 # Bigrams
 B
