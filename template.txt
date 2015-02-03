@@ -29,6 +29,8 @@ U12:%x[-1,8]
 # Previous word capitalized
 U13:%x[-1,3]
 # Previous BIO tag
-U14:%x[-1,9]
+#U14:%x[-1,9]
+# Current in location gazetteer
+U15:%x[0,9]
 # Bigrams
 B
