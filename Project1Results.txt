@@ -16,3 +16,9 @@ Features
 
 	w0 + w-1 + w1 + t0 + t-1 + t1 + caps0 + digits0 + $0 + shape0 + length0 + brown0 + caps-1 +bigrams
 	72.49%
+
+
+	
+
+	w0 + w-1 + w1 + t0 + t-1 + t1 + caps0 + digits0 + $0 + shape0 + length0 + brown0 + caps-1 + caps1 + bigrams
+	73.78%
