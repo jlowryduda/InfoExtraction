@@ -1,5 +1,6 @@
 from __future__ import division
 import sys
+import csv
 
 def is_capitalized(token):
     return '1' if token[0].isupper() else '0'
@@ -59,12 +60,46 @@ def read_from_file(filepath):
     lines = [line for line in lines if len(line) > 0]
     return lines
 
+def get_loc_gazetteer():
+    locations = []
+    with open("GeoLite2-City-Locations-en.csv") as csv_file:
+        loc_gazetter = csv.reader(csv_file)
+        for row in loc_gazetter:
+            country = row[5].lower()
+            state = row[7].lower()
+            city = row[10].lower()
+            locations.extend([country, state, city])
+    return set(locations)
+
+def is_in_loc_gazeteer(locations, token):
+    return "1" if token.lower() in locations else "0"
+
+def get_last_names():
+    with open('last_names.txt','r') as names_file:
+        last_names = names_file.readlines()
+    return last_names
+
+def is_last_name(last_names, token):
+    return "1" if token.lower() in last_names else "0"
+
+
+def get_leader_names():
+    with open('leader_names.txt', 'r') as names_file:
+        leader_names = names_file.readlines()
+    return leader_names
+
+def is_leader_name(leader_names, token):
+    return "1" if token.lower() in leader_names else "0"
+
 def extract_features(lines):
     """
     Goes line by line and compiles a new list of extracted features, which
     it then appends to the original feature list.
     """
     cluster_dict = get_cluster_dict() # read in Brown cluster
+    loc_gazetteer = get_loc_gazetteer() # read in GeoLite2 data
+    last_names = get_last_names() # read in a list of 2000 popular last names
+    leader_names = get_leader_names() # read in a list of world leaders and CEOs
     for i, line in enumerate(lines):
         token = line[1]
         bio_tag = lines[i].pop()
@@ -73,7 +108,10 @@ def extract_features(lines):
                                contains_dollar_sign(token),
                                get_length(token),
                                get_word_shape(token),
-                               get_brown_cluster(cluster_dict, token)]
+                               get_brown_cluster(cluster_dict, token),
+                               is_in_loc_gazeteer(loc_gazetteer, token),
+                               is_last_name(last_names, token),
+                               is_leader_name(leader_names, token)]
         lines[i].extend(additional_features + [bio_tag])
     return lines
 
@@ -93,3 +131,4 @@ if __name__ == "__main__":
         lines = read_from_file(filename)
         new_lines = extract_features(lines)
         write_to_file(new_filename, new_lines)
+
