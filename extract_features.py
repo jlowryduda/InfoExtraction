@@ -83,6 +83,14 @@ def is_last_name(last_names, token):
     return "1" if token.lower() in last_names else "0"
 
 
+def get_leader_names():
+    with open('leader_names.txt', 'r') as names_file:
+        leader_names = names_file.readlines()
+    return leader_names
+
+def is_leader_name(leader_names, token):
+    return "1" if token.lower() in leader_names else "0"
+
 def extract_features(lines):
     """
     Goes line by line and compiles a new list of extracted features, which
@@ -91,6 +99,7 @@ def extract_features(lines):
     cluster_dict = get_cluster_dict() # read in Brown cluster
     loc_gazetteer = get_loc_gazetteer() # read in GeoLite2 data
     last_names = get_last_names() # read in a list of 2000 popular last names
+    leader_names = get_leader_names() # read in a list of world leaders and CEOs
     for i, line in enumerate(lines):
         token = line[1]
         bio_tag = lines[i].pop()
@@ -101,7 +110,8 @@ def extract_features(lines):
                                get_word_shape(token),
                                get_brown_cluster(cluster_dict, token),
                                is_in_loc_gazeteer(loc_gazetteer, token),
-                               is_last_name(last_names, token)]
+                               is_last_name(last_names, token),
+                               is_leader_name(leader_names, token)]
         lines[i].extend(additional_features + [bio_tag])
     return lines
 
