@@ -75,8 +75,6 @@ def is_in_loc_gazeteer(locations, token):
     return "1" if token.lower() in locations else "0"
 
 def get_last_names():
-#    with open("last_names.txt", "rb") as names_file:
-#        last_names = ["".join(line.split()) for i, line in enumerate(names_file) if i < 1000]
     with open('last_names.txt','r') as names_file:
         last_names = names_file.readlines()
     return last_names
