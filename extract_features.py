@@ -104,14 +104,14 @@ def extract_features(lines):
         token = line[1]
         bio_tag = lines[i].pop()
         additional_features = [is_capitalized(token),
-                               contains_digits(token),
-                               contains_dollar_sign(token),
-                               get_length(token),
+                               #contains_digits(token),
+                               #contains_dollar_sign(token),
+                               #get_length(token),
                                get_word_shape(token),
                                get_brown_cluster(cluster_dict, token),
-                               is_in_loc_gazeteer(loc_gazetteer, token),
-                               is_last_name(last_names, token),
-                               is_leader_name(leader_names, token)]
+                               is_in_loc_gazeteer(loc_gazetteer, token)]
+                               #is_last_name(last_names, token)]
+                               #is_leader_name(leader_names, token)]
         lines[i].extend(additional_features + [bio_tag])
     return lines
 
