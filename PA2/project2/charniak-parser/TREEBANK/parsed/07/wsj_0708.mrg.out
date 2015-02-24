@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP Moscom) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN board)) (VP (VBD approved) (NP (NP (DT the) (NN repurchase)) (PP (IN of) (NP (NP (QP (RB as) (JJ many) (IN as) (CD 300,000)) (JJ common) (NNS shares)) (SBAR (WHADVP (WRB when)) (S (NP (NN market) (NNS conditions)) (VP (VBP are) (ADJP (JJ suitable)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (NN telecommunications) (NN management) (NNS systems)))) (VP (VBD had) (NP (NP (CD 6,420,268) (NNS shares)) (ADJP (JJ outstanding) (PP (IN as) (PP (IN of) (NP (NNP Sept.) (CD 30))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ over-the-counter) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NNP Moscom)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 4.375))) (, ,) (ADVP (RB up) (NP (CD 37.5) (NNS cents)))) (. .)))
+

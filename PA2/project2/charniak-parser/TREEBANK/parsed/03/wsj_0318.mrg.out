@@ -1,0 +1,10 @@
+(S1 (S (NP (NP (NP (NNP Lyphomed) (NNP Inc.)) (, ,) (NP (NP (NNP Rosemont)) (, ,) (NP (NNP Ill.)) (, ,)) (CC and) (NP (NNP Medco) (NNP Research) (NNP Inc.))) (, ,) (NP (NNP Los) (NNP Angeles)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP Food) (CC and) (NNP Drug) (NNP Administration)) (VP (VBD granted) (NP (NP (JJ full) (NN marketing) (NN approval)) (PP (IN for) (NP (NP (DT a) (JJ new) (NN drug)) (PP (IN for) (NP (NP (DT the) (NN treatment)) (PP (IN of) (NP (DT a) (NN condition) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT the) (NN heart) (VBZ beats)) (PP (IN between) (NP (CD 150) (CC and) (CD 200)))) (VP (VBZ beats) (NP (DT a) (NN minute)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN condition)) (, ,) (VP (VBN known) (PP (IN as) (NP (JJ paroxysmal) (JJ supraventricular) (NN tachycardia)))) (, ,)) (VP (VBZ leads) (PP (TO to) (NP (NN dizziness) (CC and) (NN fainting)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ typical) (JJ healthy) (NN heart)) (VP (VBZ beats) (NP (NP (CD 70) (NNS times)) (NP (DT a) (NN minute)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN drug)) (, ,) (VP (VBN called) (S (NP (NN adenocard)))) (, ,)) (VP (VBZ returns) (NP (NP (DT the) (NN heart)) (PP (TO to) (NP (NP (DT a) (JJ normal) (NN rhythm)) (PP (IN within) (NP (NNS seconds)))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Lyphomed))))) (. .)))
+
+(S1 (S (NP (NNP Medco) (NNP Research)) (VP (VP (VBD developed) (NP (DT the) (NN drug))) (CC and) (VP (VBD licensed) (NP (PRP it)) (PP (TO to) (NP (NNP Lyphomed))) (PP (IN for) (NP (NP (NN sale)) (PP (IN in) (NP (NP (DT the) (NNP U.S.)) (CC and) (NP (NNP Canada)))))))) (. .)))
+

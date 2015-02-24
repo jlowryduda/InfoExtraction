@@ -1,0 +1,14 @@
+(S1 (S (NP (JJ Federal) (NNS prosecutors)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP have) (VP (VBN obtained) (NP (NP (DT a) (JJ guilty) (NN plea)) (PP (IN from) (NP (NP (DT another) (NN person)) (PP (IN in) (NP (NP (NP (DT the) (NN government) (POS 's)) (JJ ongoing) (NN probe)) (PP (IN of) (NP (NP (JJ illegal) (NNS payments)) (PP (IN in) (NP (DT the) (NN record) (NN industry))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP William) (NNP Craig)) (, ,) (NP (DT an) (JJ independent) (NN record) (NN promoter)) (, ,)) (VP (VBD pleaded) (ADJP (JJ guilty) (PP (TO to) (NP (NN payola) (CC and) (JJ criminal) (NN tax) (NNS charges)))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT a) (NN statement)) (VP (VBN issued) (PP (IN by) (NP (NP (NNP Gary) (NNP Feess)) (, ,) (NP (NP (DT the) (NNP U.S.) (NN attorney)) (ADVP (RB here)))))))))) (. .)))
+
+(S1 (S (NP (NNP Payola)) (VP (VBZ is) (NP (NP (DT the) (NN practice)) (PP (IN of) (S (VP (VBG making) (NP (NP (JJ illegal) (, ,) (JJ undisclosed) (NNS payments)) (PP (TO to) (NP (NN radio) (NN station)))) (NP (NP (NNS personnel)) (PP (IN in) (NP (NP (NN return)) (PP (IN for) (S (VP (VBG getting) (S (NP (DT the) (NNS stations)) (VP (TO to) (VP (VB play) (NP (JJ certain) (NNS songs)) (PP (IN over) (NP (DT the) (NN air))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (NN part)) (PP (IN of) (NP (NP (PRP$ his) (NN plea) (NN agreement)) (PP (IN with) (NP (DT the) (NN government))))))) (, ,) (NP (DT the) (JJ 44-year-old) (NNP Mr.) (NNP Craig)) (VP (VBZ faces) (NP (NP (DT a) (NN maximum)) (PP (IN of) (NP (NP (CD three) (NNS years)) (PP (IN in) (NP (NN prison))))))) (. .)))
+
+(S1 (SINV (S (PP (IN In) (NP (NN return))) (, ,) (NP (NNP Mr.) (NNP Craig)) (VP (VBD agreed) (S (VP (TO to) (VP (VB cooperate) (PP (IN in) (NP (NP (DT the) (NN government) (POS 's)) (VBG continuing) (NN payola) (NN probe)))))))) (, ,) (VP (VBZ says)) (NP (NP (DT a) (NN spokeswoman)) (PP (IN for) (NP (NP (DT the) (NNP U.S.) (NN attorney) (POS 's)) (NN office)))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Craig)) (CC and) (NP (CD three) (NNS others))) (VP (VBD were) (VP (VBN indicted) (NP (JJ last) (NN year)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT that) (NN payola) (NN probe))))))) (. .)))
+
+(S1 (S (S (NP (CD Two) (JJ other) (NNS defendants)) (ADVP (RB previously)) (VP (VBD pleaded) (ADJP (JJ guilty)))) (, ,) (CC and) (S (NP (NP (NNS charges)) (PP (IN against) (NP (DT the) (JJ third)))) (VP (VBD were) (VP (VBN dropped)))) (. .)))
+

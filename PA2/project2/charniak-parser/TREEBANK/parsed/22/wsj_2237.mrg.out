@@ -1,0 +1,12 @@
+(S1 (S (NP (NNP Congress)) (VP (VBZ has) (VP (VBN been) (ADJP (JJ critical) (PP (IN of) (NP (DT the) (NNP Bush) (NN administration)))) (PP (IN for) (S (RB not) (VP (VBG sending) (NP (JJ enough) (NN aid)) (PP (TO to) (NP (NNP Poland)))))) (, ,) (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG getting) (ADJP (JJ ready) (S (VP (TO to) (VP (VB send) (NP (NP (PRP$ its) (JJ own) (NN version)) (PP (IN of) (NP (DT a) (NN CARE) (NN package)))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN month)) (, ,) (NP (DT the) (NNP Senate)) (VP (VBD voted) (S (VP (TO to) (VP (VB send) (NP (NP (DT a) (NN delegation)) (PP (IN of) (NP (NP (JJ congressional) (NNS staffers)) (PP (TO to) (NP (NNP Poland)))))) (S (VP (TO to) (VP (VB assist) (NP (NP (PRP$ its) (NN legislature)) (, ,) (NP (DT the) (NNP Sejm)) (, ,)) (PP (IN in) (NP (JJ democratic) (NNS procedures)))))))))) (. .)))
+
+(S1 (S (NP (NNP Senator) (NNP Pete) (NNP Domenici)) (VP (VBZ calls) (S (NP (DT this) (NN effort)) (`` `) (NP (NP (`` `) (DT the) (JJ first) (NN gift)) (PP (IN of) (NP (NN democracy)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NNPS Poles)) (VP (MD might) (VP (VB do) (ADVP (RBR better)) (S (VP (TO to) (VP (VB view) (NP (PRP it)) (PP (IN as) (NP (DT a) (NNP Trojan) (NN Horse)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT the) (JJ vast) (NN shadow) (NN government)) (PP (IN of) (NP (NP (CD 15,000) (JJ congressional) (NNS staffers)) (SBAR (WHNP (WDT that)) (S (VP (VBZ helps) (S (VP (VB create) (NP (NP (JJ such) (JJ legislative) (NNS atrocities)) (PP (IN as) (NP (NP (DT the) (ADJP (CD 1,376) (NN page)) (, ,) (JJ 13-pound) (NN reconciliation) (NN bill)) (SBAR (WHNP (WDT that)) (S (VP (VBD claimed) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (NN budget)) (PP (IN of) (NP (DT the) (NNP United) (NNPS States)))))))))))))))))))))) (. .)))
+
+(S1 (S (RB Maybe) (SBAR (IN after) (S (NP (DT the) (NNS staffers)) (VP (VB explain) (NP (PRP$ their) (NN work)) (PP (TO to) (NP (DT the) (NNPS Poles)))))) (, ,) (NP (PRP they)) (VP (MD 'd) (VP (VB be) (ADJP (JJ willing) (S (VP (TO to) (VP (VP (VB come) (ADVP (RB back))) (CC and) (VP (VB do) (NP (DT the) (JJ same)) (PP (IN for) (NP (DT the) (JJ American) (NNS people)))))))))) (. .)))
+

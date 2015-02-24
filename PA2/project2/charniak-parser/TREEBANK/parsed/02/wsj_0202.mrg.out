@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP BELL) (NNPS INDUSTRIES) (NNP Inc.)) (VP (VBD increased) (NP (PRP$ its) (NN quarterly)) (PP (TO to) (NP (CD 10) (NNS cents))) (PP (IN from) (NP (NP (CD seven) (NNS cents)) (NP (DT a) (NN share))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ new) (NN rate)) (VP (MD will) (VP (VB be) (ADJP (JJ payable) (NP (NNP Feb.) (CD 15))))) (. .)))
+
+(S1 (S (NP (DT A) (NN record) (NN date)) (VP (VBZ has) (RB n't) (VP (VBN been) (VP (VBN set)))) (. .)))
+
+(S1 (S (NP (NP (NNP Bell)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP Los) (NNP Angeles)))) (, ,)) (VP (VBZ makes) (CC and) (VBZ distributes) (NP (JJ electronic) (, ,) (NN computer) (CC and) (NN building) (NNS products))) (. .)))
+

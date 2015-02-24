@@ -1,0 +1,10 @@
+(S1 (S (NP (NP (NNP Erwin) (NNP Tomash)) (, ,) (NP (NP (NP (DT the) (JJ 67-year-old) (NN founder)) (PP (IN of) (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NN data) (NNS communications) (NNS products)))))) (CC and) (NP (DT a) (JJ former) (NN chairman) (CC and) (NN chief) (NN executive))) (, ,)) (VP (VBD resigned) (PP (IN as) (NP (DT a) (NN director)))) (. .)))
+
+(S1 (S (NP (NNP Dataproducts)) (VP (VBZ is) (VP (VBG fighting) (NP (NP (DT a) (JJ hostile) (NN tender) (NN offer)) (PP (IN by) (NP (NP (NNP DPC) (NNP Acquisition) (NNP Partners)) (, ,) (NP (NP (DT a) (NN group)) (VP (VBN led) (PP (IN by) (NP (NNP New) (NNP York-based) (NNP Crescott) (NNP Investments) (NNP Associates)))))))))) (. .)))
+
+(S1 (S (S (PP (IN Under) (NP (DT the) (NNS circumstances))) (, ,) (NP (NNP Dataproducts)) (VP (VBD said))) (, ,) (NP (NNP Mr.) (NNP Tomash)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ unable) (S (VP (TO to) (VP (VB devote) (NP (NP (DT the) (NN time)) (VP (VBN required) (PP (IN because) (IN of) (NP (JJ other) (NNS commitments))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Tomash)) (VP (MD will) (VP (VB remain) (PP (IN as) (NP (DT a) (NN director))) (NP (NN emeritus)))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD had) (NP (NP (DT no) (NN comment)) (PP (IN on) (SBAR (IN whether) (S (NP (DT a) (NN replacement)) (VP (MD would) (VP (VB be) (VP (VBN named))))))))) (. .)))
+

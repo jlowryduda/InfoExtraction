@@ -1,0 +1,10 @@
+(S1 (S (NP (NP (NNP CAMBREX) (NNP Corp.)) (, ,) (NP (NP (NNP Bayonne)) (, ,) (NP (NNP N.J.))) (, ,)) (VP (VBD declared) (NP (NP (PRP$ its) (JJ initial) (NN quarterly)) (PP (IN of) (NP (NP (CD five) (NNS cents)) (NP (DT a) (NN share)))) (, ,) (ADJP (JJ payable) (NP (NNP Dec.) (CD 1)) (PP (TO to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 10))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (NN specialty) (NNS chemicals)))) (VP (VBZ has) (NP (NP (QP (RB about) (CD 5.9) (CD million)) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (DT the) (NN move)) (VP (VBZ recognizes) (NP (PRP$ its) (JJ strong) (JJ financial) (NN position)))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNS profits)) (VP (VBD were) (`` `) (ADJP (`` `) (VBN squeezed) ('' ')) ('' ') (PP (IN in) (NP (CD 1989)))))) (, ,) (PP (ADVP (RB mainly)) (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (JJR higher) (NN raw-material) (NNS costs))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ confident) (PP (IN about) (NP (JJ future) (NNS earnings) (CC and) (NN cash) (NN flow)))) (UCP (PP (IN for) (NP (CD 1990))) (CC and) (ADVP (IN beyond))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ national) (JJ over-the-counter) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NNP Cambrex) (NNS shares)) (VP (VBD rose) (NP (CD 50) (NNS cents)) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP (NP ($ $) (CD 13)) (NP (DT a) (NN share)))))))) (. .)))
+

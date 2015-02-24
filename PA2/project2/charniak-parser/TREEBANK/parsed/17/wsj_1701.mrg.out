@@ -1,0 +1,8 @@
+(S1 (S (NP (NP (NNP Michael) (NNP F.) (NNP Harris)) (, ,) (NP (CD 53)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (JJ executive) (NN vice) (NN president)) (, ,) (NP (NNP North) (NNP America)) (, ,) (PP (IN for) (NP (NP (DT the) (NNP Financial) (NNPS Times)) (, ,) (NP (NP (DT the) (NN business) (NN newspaper)) (VP (VBN published) (PP (IN by) (NP (NP (DT this) (NN company)) (SBAR (WHNP (WDT that)) (S (ADVP (RB also)) (VP (VBZ has) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (NN book) (NN publishing)) (, ,) (NP (JJ fine) (NN china)) (, ,) (NP (NN oil) (NNS services)) (CC and) (NP (NN investment) (NN banking)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Harris)) (VP (VBD had) (VP (VBN been) (NP (NP (NN vice) (NN president)) (PP (IN for) (NP (NP (NP (DT the) (NN newspaper) (POS 's)) (NN advertising)) (PP (IN in) (NP (NNP New) (NNP York)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ takes) (NP (NP (JJ additional) (NN responsibility)) (PP (IN for) (NP (NP (NN newspaper) (NNS sales) (CC and) (NN distribution)) (PP (IN of) (NP (NP (DT the) (NNP Financial) (NNPS Times)) (PP (IN in) (NP (NNP North) (NNP America))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Laurance) (NNP V.) (NNP Allen)) (, ,) (NP (CD 44)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (NP (NN director)) (PP (IN for) (NP (NNP North) (NNP America)))))))) (, ,)) (VP (VBD resigned) (S (VP (TO to) (VP (VP (VB pursue) (NP (JJ other) (NN business) (NNS interests))) (CC and) (VP (VB do) (NP (DT some) (NN consulting))))))) (. .)))
+

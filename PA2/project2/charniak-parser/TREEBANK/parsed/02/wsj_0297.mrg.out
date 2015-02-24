@@ -1,0 +1,100 @@
+(S1 (S (S (NP (NN Everything)) (VP (VBN looked) (ADJP (JJ good) (PP (IN as) (NP (NN neurosurgeon)))))) (NP (NP (NNP Walter) (NNP Levy)) (CC and) (NP (NNS colleagues))) (VP (ADVP (RB carefully)) (VBD cut) (PRT (RP away)) (NP (NP (NP (DT a) (NN woman) (POS 's)) (JJ spinal) (NN tumor)) (PP (IN at) (NP (NP (DT the) (NNP Cleveland) (NNP Clinic)) (PP (IN in) (NP (CD 1978))))))) (. .)))
+
+(S1 (S (S (VP (VBG Using) (NP (NP (JJ small) (JJ electrical) (NNS shocks)) (VP (VBN applied) (PP (TO to) (NP (PRP$ her) (NNS feet))))))) (, ,) (NP (PRP they)) (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB monitor) (NP (JJ sensory) (NNS nerves))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS shocks)) (VP (VP (VBD generated) (NP (NP (NN nerve) (NNS impulses)) (SBAR (WHNP (WDT that)) (S (VP (VBD traveled) (PP (IN via) (NP (NN spine))) (PP (TO to) (NP (NN brain)))))))) (CC and) (VP (VBD showed) (PRT (RP up)) (ADVP (RB clearly)) (PP (IN on) (NP (DT a) (JJ brain-wave) (NN monitor))) (, ,) (S (VP (VBG indicating) (NP (NP (DT no) (NN damage)) (PP (TO to) (NP (DT the) (JJ delicate) (JJ spinal) (NN tissue)))))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (PRN (, ,) (SINV (VP (VBZ says)) (NP (NNP Dr.) (NNP Levy))) (, ,) (`` `)) (`` `) (NP (PRP she)) (VP (VBD woke) (ADVP (RB up)) (VP (VBN paralyzed))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (DT The) (NN damage)) (VP (VBD was) (PP (TO to) (NP (NP (PRP$ her) (NN motor) (NNS nerves)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD could) (RB n't) (VP (VB be) (VP (VBN monitored) (ADVP (IN along) (PP (IN with) (NP (DT the) (JJ sensory) (NNS nerves))))))))))))) (, ,) (NP (PRP he)) (VP (VBZ explains)) (. .)))
+
+(S1 (S (NP (DT The) (NN tragedy)) (, ,) (NP (PRP he)) (VP (VBZ adds) (, ,) (`` `) (S (`` `) (VP (VBD galvanized) (NP (PRP me))) ('' ')) ('' ') (S (VP (TO to) (VP (VB look) (PP (IN for) (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB prevent) (NP (JJ similar) (NNS cases)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Dr.) (NNP Levy) (POS 's)) (NN answer)) (VP (MD may) (VP (VB come) (PP (IN with) (NP (NP (DT a) (JJ new) (NN kind)) (PP (IN of) (NP (JJ magnetic) (NN brain) (NN probe))))) (, ,) (NP (NP (DT a) (NN device)) (SBAR (WHNP (WDT that)) (S (NP (NP (PRP he)) (CC and) (NP (NP (NNS dozens)) (PP (IN of) (NP (NNP U.S.) (NNS researchers))))) (VP (VBP are) (VP (VBG studying) (PP (IN with) (NP (JJ great) (NN hope)))))))))) (. .)))
+
+(S1 (S (PP (IN Besides) (S (VP (VBG holding) (NP (NP (DT the) (NN promise)) (PP (IN of) (NP (JJR safer) (JJ spinal) (NN surgery))))))) (, ,) (NP (DT the) (NN probe)) (VP (MD could) (VP (VB improve) (NP (NP (DT the) (NN diagnosis)) (PP (IN of) (NP (NP (NN brain) (CC and) (NN nerve) (NNS disorders)) (PP (JJ such) (IN as) (NP (NP (NNS strokes)) (CC and) (NP (JJ multiple) (NNS sclerosis))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Perhaps)) (ADJP (RBS most) (JJ exciting))) (, ,) (NP (DT the) (NN device)) (VP (VBZ is) (VP (VBG thrusting) (NP (JJ open) (DT a) (NN window)) (PP (TO to) (NP (NP (DT the) (NNS workings)) (PP (IN of) (NP (DT the) (NN brain))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN probe)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (ADJP (JJ painless)) (, ,) (ADJP (JJ non-invasive)) (CC and) (ADJP (RB apparently) (JJ harmless)))))) (, ,)) (VP (VBZ employs) (NP (NP (JJ strong) (JJ magnetic) (NNS fields)) (SBAR (S (VP (TO to) (VP (VB induce) (NP (NP (JJ small) (NNS whirlwinds)) (PP (IN of) (NP (NN electricity)))) (PP (IN within) (NP (DT the) (NN brain))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (VP (VBN positioned) (PP (IN over) (NP (NP (DT the) (NN brain) (POS 's)) (JJ motor-control) (NN area)))))) (, ,) (NP (DT the) (JJ hand-held) (NNS electromagnets)) (VP (VBP generate) (NP (NP (NN nerve) (NNS impulses)) (SBAR (WHNP (WDT that)) (S (VP (VB zip) (PRT (RP down)) (NP (NP (NN motor) (NNS nerves)) (CC and) (NP (NP (JJ activate) (NNS muscles)) (, ,) (PP (VBG making) (PRN (, ,) (S (VP (VB say))) (, ,)) (NP (DT a) (NN finger) (NN twitch)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN principle))) (, ,) (NP (PRP they)) (VP (MD will) (VP (VB enable) (S (NP (NNS doctors)) (VP (TO to) (VP (VB check) (NP (NP (DT the) (NN body) (POS 's)) (NN motor) (NN system)) (NP (NP (DT the) (NN way)) (SBAR (S (NP (DT an) (NN electrician)) (VP (VBZ tests) (NP (NP (DT a) (NN home) (POS 's)) (JJ electrical) (NNS circuits)))))) (PP (IN by) (S (VP (VBG running) (NP (NN current)) (PP (IN through) (NP (PRP them))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (PP (IN Until) (ADVP (RB now))) (, ,) (NP (PRP we)) (VP (VBP 've) (VP (VBD had) (NP (NP (DT no) (JJ objective) (NN way)) (PP (IN of) (NP (NN measuring) (NN motor) (NN function)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Keith) (NNP Chiappa)) (, ,) (NP (NP (DT a) (NN neurologist)) (VP (VBG conducting) (NP (NP (JJ clinical) (NNS tests)) (PP (IN with) (NP (DT the) (NNS devices)))) (PP (IN at) (NP (NP (NNP Boston) (POS 's)) (NNP Massachusetts) (NNP General) (NNP Hospital)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT All) (PRP we)) (VP (MD could) (VP (VB do) (VP (VBD was) (S (VP (VB tell) (NP (DT a) (NN patient)))))))) (, ,) (`` `) (VP (VB squeeze) (NP (PRP$ my) (NNS fingers)) (ADVP (RB as) (RB hard) (SBAR (IN as) (S (NP (PRP you)) (VP (MD can) (VP ('' ') (CC or) (`` `) (VB raise) (NP (PRP$ your) (NN arm)))))))) (. .) ('' ')))
+
+(S1 (S (`` `) (S (`` `) (PP (IN Under) (NP (DT the) (JJS best) (NNS circumstances))) (NP (JJ such) (NNS tests)) (VP (VBP are) (ADJP (JJ subjective)))) (: ;) (S (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN patient)) (VP (VBZ is) (ADJP (JJ unconscious))))) (, ,) (NP (PRP they)) (VP (VBP do) (RB n't) (VP (VB work) (ADVP (IN at) (DT all))))) (. .)))
+
+(S1 (S (NP (JJ Magnetic) (NN brain) (NN tweaking)) (VP (VBD started) (PP (IN in) (NP (DT the) (JJ early) (CD 1900s))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNS researchers)) (VP (VBD produced) (NP (NP (NNS flashes)) (PP (IN of) (NP (NP (NN light)) (PP (IN in) (NP (DT the) (JJ visual) (NN field)))))) (PP (IN with) (NP (NNS magnets))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNS 1960s))) (, ,) (NP (NP (NNP Mayo) (NNP Clinic)) (NNS researchers)) (VP (VBD developed) (NP (NP (JJ magnetic) (NNS devices)) (SBAR (S (VP (TO to) (VP (VB stimulate) (NP (NN motor) (NNS nerves)) (PP (IN in) (NP (NP (DT the) (NN hand)) (CC and) (NP (JJ other) (NNS limbs)))))))))) (. .)))
+
+(S1 (SINV (S (CC But) (PP (IN for) (NP (NN brain) (NNS tests))) (, ,) (NP (DT the) (JJ unwieldy) (NNS machines)) (`` `) (VP (`` `) (VP (MD would) (VP (VB have) (VP (VBN required) (S (NP (NNS patients)) (VP (TO to) (VP (VB stand) (PP (IN on) (NP (PRP$ their) (NNS heads))))))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Reginald) (NNP Bickford)) (, ,) (NP (NP (DT a) (NN researcher)) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP California))) (PP (IN at) (NP (NNP San) (NNP Diego))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN field)) (VP (VBD took) (PRT (RP off)) (PP (IN in) (NP (CD 1985))) (SBAR (IN after) (S (NP (NP (NNS scientists)) (PP (IN at) (NP (NP (NNP Britain) (POS 's)) (NNP Sheffield) (NNP University)))) (VP (VBD developed) (NP (NP (DT a) (JJ handy) (, ,) (JJ compact) (NN magnet)) (PP (IN for) (NP (NN brain) (NN stimulation)))))))) (. .)))
+
+(S1 (S (PP (IN Since) (NP (RB then))) (, ,) (S (NP (QP (IN at) (JJS least) (CD two)) (JJ commercial) (NNS versions)) (VP (VBP have) (VP (VBN been) (VP (VBN put) (PP (IN on) (NP (DT the) (NNP U.S.) (NN market))))))) (, ,) (CC and) (S (NP (DT an) (VBN estimated) (CD 500)) (VP (VBP have) (VP (VBN been) (VP (VBN sold))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP August))) (, ,) (NP (NP (DT a) (NNP Chicago) (NN conference)) (PP (IN on) (NP (JJ such) (NNS devices)))) (VP (VBD attracted) (NP (QP (JJR more) (IN than) (CD 100)) (NNS researchers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD reported) (NP (NP (NNS studies)) (PP (IN on) (NP (NP (NN everything)) (PP (IN from) (NP (NN brain) (NN mapping))) (PP (TO to) (NP (JJ physical) (NN therapy)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP We)) (VP (VBP do) (RB n't) (VP (VB feel) (SBAR (S (NP (PRP we)) (VP (MD can) (VP (VB use) (-LRB- -LCB-) (NP (DT the) (NNS devices)) (-RRB- -RCB-) (ADVP (RB routinely)) (PP (IN in) (NP (NN surgery))) (ADVP (RB yet))))))))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG getting) (ADJP (JJ close))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Dr.) (NNP Levy)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADVP (RB now)) (PP (IN with) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Pittsburgh))))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN problem)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ adds))) (, ,)) (VP (VBZ is) (SBAR (IN that) (S (NP (JJ anesthetized) (NNS brains)) (VP (VBP are) (ADJP (ADJP (RBR more) (JJ resistant) (PP (TO to) (NP (JJ magnetic) (NN stimulation)))) (PP (IN than) (NP (ADJP (RB awake)) (NNS ones)))))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NNS devices)) (VP (MD could) (VP (VB help) (VP (VB indicate) (SBAR (WHADVP (WRB when)) (S (NP (NN surgery)) (VP (MD would) (VP (VB help))))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Charles) (NNP Tator)) (, ,) (NP (DT a) (NAC (NNP University) (PP (IN of) (NP (NNP Toronto)))) (NN neurosurgeon))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (VBN paralyzed) (JJ car-crash) (NNS victims)) (ADVP (RB occasionally)) (VP (VB have) (NP (DT some) (ADJP (JJ intact) (JJ spinal)) (NNS tissues)) (SBAR (IN that) (S (, ,) (SBAR (IN if) (S (VP (VBN preserved) (PP (IN by) (NP (NN emergency) (NN surgery)))))) (, ,) (VP (VB enable) (NP (JJ partial) (NN recovery)))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ such) (NNS operations)) (ADVP (RB typically)) (VP (VBP are) (RB n't) (VP (VBN performed) (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (NN sign)) (PP (ADVP (RB right)) (IN after) (NP (DT an) (NN injury) (SBAR (IN that) (S (NP (NN surgery)) (VP (MD would) (VP (VB be) (ADJP (JJ beneficial))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NP (DT The) (NN cost)) (-LRB- -LCB-) (PP (IN of) (NP (JJ magnetic) (NNS stimulators))) (-RRB- -RCB-)) (VP (MD would) (VP (VB seem) (PP (IN like) (NP (NNS peanuts))) (SBAR (IN if) (S (NP (PRP we)) (VP (MD could) (VP (VB retrieve) (NP (NP (JJ limb) (NN function) (POS ')) ('' ') (PP (IN in) (NP (JJ such) (NNS people))))))))))) (, ,) (NP (NNP Dr.) (NNP Tator)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNS Scientists)) (VP (VBP caution) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (DT a) (NN chance) (SBAR (S (NP (DT the) (JJ magnet) (NN technique)) (VP (MD might) (VP (VB spark) (NP (NP (NNS seizures)) (PP (IN in) (NP (NNS epileptics))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT no) (JJ significant) (NNS problems)) (VP (VBP have) (VP (VBN been) (VP (VBN reported) (PP (IN among) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS people)) (VP (VBN tested) (PP (IN with) (NP (DT the) (NNS devices))))))))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (JJ main) (NN sensation)) (, ,) (PP (IN besides) (S (VP (VBG feeling) (SBAR (IN like) (S (NP (DT a) (NN puppet)) (VP (VBD jerked) (PP (IN with) (NP (JJ invisible) (NNS strings))))))))) (, ,) (VP (VBZ is) (`` `) (PP (`` `) (IN like) (NP (NP (DT a) (NN rap)) (PP (IN on) (NP (DT the) (NN head))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Sam) (NNP Bridgers)) (, ,) (NP (NP (DT a) (NN neurologist)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN studied) (NP (NP (DT the) (NN brain) (NNS stimulators)) (PP (IN at) (NP (NNP Yale) (NNP University)))))))))) (. .)))
+
+(S1 (S (NP (CD One) (JJ apparent) (NN side) (NN effect)) (VP (VBZ is) (NP (NP (DT a) (JJ minor) (NN increase)) (PP (IN in) (NP (DT a) (NN brain) (NN hormone))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (DT some) (NNS doctors)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN conducted) (NP (NP (NNS hours)) (PP (IN of) (NP (NNS tests)))) (PP (IN on) (NP (PRP themselves)))))))) (VP (VBP report) (NP (JJ temporary) (NNS headaches))) (. .)))
+
+(S1 (S (NP (NP (QP (IN At) (JJS least) (CD two)) (NNS companies)) (, ,) (NP (NP (NP (NNP Cadwell) (NNP Laboratories) (NNP Inc.)) (PP (IN of) (NP (NP (NNP Kennewick)) (, ,) (NP (NNP Wash.)) (, ,)))) (CC and) (NP (NP (NNP Novametrix) (NNP Medical) (NNPS Systems) (NNP Inc.)) (PP (IN of) (NP (NP (NNP Wallingford)) (, ,) (NP (NNP Conn.)))))) (, ,)) (ADVP (RB now)) (VP (VBP sell) (NP (NP (NNS versions)) (PP (IN of) (NP (DT the) (JJ magnetic) (NNS devices))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS machines)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN at) (NP ($ $) (CD 12,500))) (VP (VBP are) (ADJP (JJ inexpensive) (PP (IN by) (NP (JJ medical) (NNS standards))))))) (, ,)) (VP (VP (VBP have) (RB n't) (VP (VBN been) (VP (VBN approved) (PP (IN in) (NP (DT the) (NNP U.S.))) (PP (IN for) (NP (VBG marketing))) (PP (IN as) (NP (NN brain) (NNS stimulators)))))) (CC but) (VP (VBP are) (VP (VBN sold) (PP (IN for) (S (VP (VBG stimulating) (NP (NP (NNS nerves)) (PP (IN in) (NP (DT the) (NN hand) (, ,) (NNS legs) (CC and) (JJ other) (NN non-brain) (NNS areas)))))))))) (. .)))
+
+(S1 (S (NP (NNS Researchers)) (VP (MD can) (VP (VB apply) (PP (IN for) (NP (NN permission) (S (VP (TO to) (VP (VB use) (NP (DT the) (NNS probes)) (PP (IN for) (NP (NN brain) (NNS studies)))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Kentucky))))) (, ,) (NP (NP (DT a) (NN team)) (VP (VBN led) (PP (IN by) (NP (NP (NNP Dean) (NNP Currier)) (, ,) (NP (DT a) (JJ physical) (NN therapy) (NN researcher)) (, ,))))) (VP (VBZ is) (VP (VBG testing) (NP (NP (DT the) (NNS stimulators)) (PP (IN in) (NP (NP (NN conjunction)) (PP (IN with) (NP (JJ electric) (NNS shocks)))))) (S (VP (TO to) (VP (VB induce) (S (NP (NN muscle) (NNS contractions)) (VP (TO to) (VP (VB help) (S (VP (VB prevent) (S (VP (VBG wasting) (PP (IN of) (NP (JJ thigh) (NNS muscles))) (PP (IN after) (NP (NN knee) (NN surgery))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Similarly)) (, ,) (NP (NP (DT a) (NNP Purdue) (NNP University) (NN team)) (VP (VBN led) (PP (IN by) (NP (NN heart) (NN researcher) (NNP W.A.) (NNP Tacker))))) (VP (VBZ hopes) (S (VP (TO to) (VP (VB develop) (NP (NP (NNS ways)) (SBAR (S (VP (TO to) (VP (ADVP (RB magnetically)) (VB induce) (NP (JJ cardiac) (NN muscle) (NNS contractions))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNS devices)) (VP (MD might) (ADVP (RB someday)) (VP (VB serve) (PP (IN as) (NP (NP (JJ temporary) (NNS pacemakers)) (CC or) (NP (NP (NNS restarters)) (PP (IN for) (NP (VBN stopped) (NNS hearts))))))))) (, ,) (VP (VBZ says) (NP (NP (NNP Dr.) (NNP Tacker)) (, ,) (SBAR (WHNP (WP$ whose) (NN prototype)) (S (VP (VBD was) (VP (VBN dubbed) (S (NP (DT the) (`` `) (NX (`` `) (NNP Tacker) (NN whacker)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT The) (NNS devices) (POS ')) (ADJP (RBS most) (JJ remarkable)) (NNS possibilities)) (, ,) (ADVP (RB though)) (, ,) (VP (VBP involve) (NP (DT the) (NN brain))) (. .)))
+
+(S1 (S (S (VP (VBG Probing) (PP (IN with) (NP (DT the) (NNS stimulators))))) (, ,) (NP (NAC (NNP National) (NNPS Institutes) (PP (IN of) (NP (NNP Health)))) (NNS scientists)) (ADVP (RB recently)) (VP (VBD showed) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN brain)) (VP (VBZ reorganizes) (NP (JJ motor-control) (NNS resources)) (PP (IN after) (NP (DT an) (NN amputation))))))) (. .)))
+
+(S1 (S (NP (JJ Similar) (NNS studies)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB reveal) (SBAR (WHADVP (WRB how)) (S (NP (NP (NN stroke) (NNS patients) (POS ')) (NNS brains)) (VP (VB regroup) (: --) (NP (NP (DT a) (JJ first) (NN step)) (PP (IN toward) (S (VP (VBG finding) (NP (NP (NNS ways)) (SBAR (S (VP (TO to) (VP (VP (VB bolster) (NP (DT that) (NN process))) (CC and) (VP (VB speed) (NP (NN rehabilitation)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Scientists)) (ADVP (RB also)) (VP (VBP are) (VP (VBG exploring) (NP (NN memory) (CC and) (NN perception)) (PP (IN with) (NP (DT the) (JJ new) (NNS machines))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (DT the) (NNP State) (NNP University)) (PP (IN of) (NP (NNP New) (NNP York))) (PP (IN at) (NP (NNP Brooklyn))))) (, ,) (NP (NNS researchers)) (VP (VB flash) (NP (NP (CD two) (NNS groups)) (PP (IN of) (NP (JJ different) (NNS letters)))) (PP (IN on) (NP (NP (DT a) (NN computer) (NN screen)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (JJ human) (NN guinea) (NNS pigs)))))))) (. .)))
+
+(S1 (S (PP (IN Between) (NP (NNS flashes))) (, ,) (NP (NP (JJ certain) (NNS areas)) (PP (IN in) (NP (NP (NNS subjects) (POS ')) (NNS brains)))) (VP (VBP are) (VP (VBN jolted) (PP (IN with) (NP (DT a) (JJ magnetic) (NN stimulator))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN jolt)) (VP (VBZ is) (VP (VBN timed) (ADJP (RB just) (JJ right)))))) (, ,) (NP (DT the) (NNS subjects)) (VP (VBP do) (RB n't) (VP (VB recall) (S (VP (VBG seeing) (NP (NP (DT the) (JJ first) (NN group)) (PP (IN of) (NP (NNS letters)))))))) (. .)))
+
+(S1 (SINV (`` `) (SBARQ (`` `) (WHADVP (WRB Where)) (SQ (VBZ does) (NP (DT that) (JJ first) (NN stimulus)) (VP (VB go))) (. ?) ('' ')) ('' ') (VP (VBZ exclaims)) (NP (NN SUNY) (NN neurologist) (NNP Paul) (NNP Maccabee)) (. .)))
+
+(S1 (S (`` `) (`` `) (S (VP (VBG Trying) (S (VP (TO to) (VP (VB answer) (SBAR (IN that) (S (VP (VBZ is) (VP (VBG suggesting) (NP (NP (DT all) (NNS kinds)) (PP (IN of) (NP (NNS theories))))))))))))) (, ,) ('' ') (VP (POS ') (PP (JJ such) (IN as) (SBAR (WHADVP (RB precisely) (WRB where) (CC and) (WRB how)) (S (NP (DT the) (NN brain)) (VP (VBZ processes) (NP (NP (JJ incoming) (NNS signals)) (PP (IN from) (NP (DT the) (NNS eyes))))))))) (. .)))
+
+(S1 (S (NP (PRP He) (CC and) (NNS others)) (VP (VBP say) (SBAR (IN that) (S (NP (DT the) (NNS machines)) (VP (VBP are) (ADJP (JJ weak) (RB enough) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP do) (RB n't) (VP (VB jeopardize) (NP (DT the) (NN memory))))))))))) (. .)))
+
+(S1 (S (NP (NP (PDT Both) (DT the) (NN SUNY) (NN team) (CC and) (NNS researchers)) (PP (IN at) (NP (NP (DT the) (NNP National) (NNP Magnet) (NNP Laboratory)) (PP (IN in) (NP (NP (NNP Cambridge)) (, ,) (NP (NNP Mass.)) (, ,)))))) (VP (VBP are) (VP (VBG working) (PP (IN with) (NP (ADJP (RBR more) (JJ potent)) (JJ magnetic) (NN brain) (NNS stimulators))))) (. .)))
+
+(S1 (S (S (PP (IN Among) (NP (JJ other) (NNS things))) (, ,) (NP (DT the) (JJR stronger) (NNS devices)) (VP (MD may) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VP (VB summon) (PRT (RP forth)) (NP (JJ half-forgotten) (NNS memories))) (CC and) (VP (VB induce) (NP (NN mood) (NNS changes)))))))))) (, ,) (NP (NNS neurologists)) (VP (VBP say)) (. .)))
+

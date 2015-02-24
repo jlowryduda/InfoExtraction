@@ -1,0 +1,22 @@
+(S1 (SINV (VP (VBG Following)) (VP (VBZ is)) (NP (NP (NP (DT a) (JJ weekly) (NN listing)) (PP (IN of) (NP (NP (JJ unadited) (JJ net) (NN asset) (NNS values)) (PP (IN of) (NP (RB publicly) (JJ traded) (NN investment) (NN fund) (NNS shares)))))) (, ,) (VP (VBN reported) (PP (IN by) (NP (NP (DT the) (NNS companies)) (PP (IN as) (PP (IN of) (NP (NP (NNP Friday) (POS 's)) (NN close)))))))) (. .)))
+
+(S1 (SINV (VP (ADVP (RB Also)) (VBN shown)) (VP (VBZ is)) (NP (NP (NP (DT the) (VBG closing) (VBN listed) (NN market) (NN price)) (CC or) (NP (DT a) (JJ dealer-to-dealer) (JJ asked) (NN price))) (PP (IN of) (NP (NP (DT each) (NN fund) (POS 's)) (NNS shares))) (, ,) (PP (IN with) (NP (NP (DT the) (NN percentage)) (PP (IN of) (NP (NN difference)))))) (. .)))
+
+(S1 (NP (VBN Closed) (NNP End) (NNP Bond) (NNPS Funds)))
+
+(S1 (NP (NNP Flexible) (NNP Portfolio) (NNPS Funds)))
+
+(S1 (NP (NP (NNP Specialized) (NNP Equity)) (CC and) (NP (NNP Convertible) (NNPS Funds))))
+
+(S1 (NP (X (SYM a)) (: -) (NP (NN Ex-dividend)) (. .)))
+
+(S1 (NP (NP (SYM b)) (: -) (NP (NP (NNP As)) (PP (IN of) (NP (NP (NNP Thursday) (POS 's)) (NN close)))) (. .)))
+
+(S1 (FRAG (X (SYM c)) (: -) (VP (VBN Translated) (PP (IN at) (NP (NNP Commercial) (NNP Rand) (NN exchange) (NN rate)))) (. .)))
+
+(S1 (PP (X (SYM e)) (: -) (PP (IN In) (NP (JJ Canadian) (NNS dollars))) (. .)))
+
+(S1 (NP (NP (SYM f)) (: -) (NP (NP (NNP As)) (PP (IN of) (NP (NP (NNP Wednesday) (POS 's)) (NN close)))) (. .)))
+
+(S1 (FRAG (NP (NNP z)) (: -) (RB Not) (ADJP (JJ available)) (. .)))
+

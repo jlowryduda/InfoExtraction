@@ -1,0 +1,14 @@
+(S1 (S (NP (NNP OPPENHEIMER) (NNP CAPITAL) (NNP LIMITED) (NNP PARTNERSHIP)) (VP (VBD increased) (NP (DT the) (JJ quarterly) (NN distribution)) (PP (TO to) (NP (NP (CD 40) (NNS cents)) (NP (DT a) (JJ limited) (NN partnership) (NN unit)))) (PP (IN from) (NP (CD 36.25) (NNS cents)))) (. .)))
+
+(S1 (S (NP (DT The) (NN distribution)) (VP (VBZ represents) (NP (NP (JJ available) (NN cash) (NN flow)) (PP (IN from) (NP (NP (DT the) (NN partnership)) (PP (IN between) (NP (NP (NNP Aug.) (CD 1)) (CC and) (NP (NNP Oct.) (CD 31)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ payable) (NP (NNP Nov.) (CD 30)) (PP (TO to) (NP (NP (NNS units)) (PP (IN of) (NP (NN record))) (NP (NNP Oct.) (CD 31)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN money) (NN manager)) (VP (VBZ is) (VP (VBN controlled) (NP (CD 67.7) (NN %)) (PP (IN by) (NP (NP (PRP$ its) (NX (NX (JJ top) (NNS officers)) (CC and) (NX (JJ top) (NNS officers)))) (PP (IN of) (NP (NP (NNP Oppenheimer) (CC &) (NNP Co.)) (, ,) (NP (DT a) (NNS securities) (NN firm)))))))) (. .)))
+
+(S1 (S (NP (DT Both) (NNS firms)) (VP (VBP are) (PP (IN in) (NP (NNP New) (NNP York)))) (. .)))
+
+(S1 (S (NP (NNP Oppenheimer) (NNP Capital)) (VP (VBZ has) (NP (NP (QP (RB about) (CD 7.9) (CD million)) (JJ limited) (NN partnership) (NNS units)) (ADJP (JJ outstanding)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (NP (NN yesterday)) (, ,) (NP (DT the) (NNS units)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 15.125))) (, ,) (ADVP (RB up) (NP (CD 12.5) (NNS cents)))) (. .)))
+

@@ -1,0 +1,4 @@
+(S1 (S (NP (DT THE) (NNP YALE) (NNP POLITICAL) (NNP UNION)) (VP (VBZ does) (RB n't) (VP (VB pay) (NP (DT an) (NN honorarium)) (PP (TO to) (NP (NNS speakers))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNP Thursday) (POS 's)) (NN edition))) (, ,) (NP (PRP it)) (VP (VBD was) (ADVP (RB incorrectly)) (VP (VBN indicated) (SBAR (IN that) (S (NP (DT the) (NN union)) (VP (VBD had) (VP (VBN paid) (NP (DT a) (NN fee)) (PP (TO to) (NP (JJ former) (NNP House) (NNP Speaker) (NNP Jim) (NNP Wright))))))))) (. .)))
+

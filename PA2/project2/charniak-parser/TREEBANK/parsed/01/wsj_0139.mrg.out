@@ -1,0 +1,6 @@
+(S1 (SQ (VP (VB Hold) (NP (DT the) (NNP Putty))) (. !)))
+
+(S1 (S (S (PP (IN With) (NP (NNS lipsticks) (, ,) (NNS liners) (, ,) (NNS lotions) (CC and) (NNS creams))) (, ,) (NP (EX There)) (VP (VBP are) (ADVP (RB still)) (NP (NP (NN beauty) (NNS plans)) (VP (VBN left) (S (VP (TO to) (VP (VB tackle)))))))) (: :) (CC But) (S (SBAR (IN as) (S (NP (DT the) (NNS years)) (VP (VBP go) (PP (IN by))))) (, ,) (NP (PRP it)) (VP (VBZ seems) (SBAR (IN That) (S (PP (IN before) (NP (NNP I) (NN paint))) (, ,) (NP (PRP I)) (VP (MD should) (VP (VB spackle))))))) (. .)))
+
+(S1 (NP (: --) (NNP Pat) (NNP D') (NNP Amico) (. .)))
+

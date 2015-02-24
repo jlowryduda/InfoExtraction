@@ -1,0 +1,58 @@
+(S1 (S (NP (NP (NNP Richard) (NNP G.) (NNP Sim)) (, ,) (NP (NP (DT the) (NN man)) (VP (VBN credited) (PP (IN with) (S (VP (VBG transforming) (NP (NNP Applied) (NNP Power) (NNP Inc.)) (PP (IN from) (NP (DT an) (NN underachiever))) (PP (IN into) (NP (NP (DT a) (JJ feisty) (NN player)) (PP (IN in) (NP (NP (DT the) (JJ global) (NN market)) (PP (IN for) (NP (JJ hydraulic) (NNS tools)))))))))))) (, ,)) (VP (VBZ hopes) (S (VP (TO to) (VP (VB guide) (NP (DT a) (JJ similar) (NN turnaround)) (PP (IN at) (NP (NP (NP (DT the) (NN company) (POS 's)) (JJS latest) (NN acquisition)) (, ,) (NP (NNP Barry) (NNP Wright) (NNP Corp)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ 45-year-old) (JJ former) (NNP General) (NNP Electric) (NNP Co.)) (NP (NN executive))) (VP (VBZ figures) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (ADJP (JJR easier)) (NP (DT this) (NN time))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS analysts)) (, ,) (SBAR (IN while) (S (VP (VBG applauding) (NP (DT the) (NN acquisition))))) (, ,) (VP (VBP say) (SBAR (S (NP (NP (NNP Applied) (POS 's)) (JJ chief) (NN executive)) (VP (VBZ faces) (NP (DT a) (JJ tough) (NN challenge)) (PP (IN in) (S (VP (VBG integrating) (NP (DT the) (CD two) (NNS companies))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Barry) (NNP Wright)) (, ,) (VP (VBN acquired) (PP (IN by) (NP (NNP Applied))) (PP (IN for) (NP (QP ($ $) (CD 147) (CD million))))) (, ,)) (VP (VBZ makes) (NP (NP (NN computer-room) (NN equipment)) (CC and) (NP (JJ vibration-control) (NNS systems)))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NAC (NNP Watertown) (, ,) (NNP Mass.) (, ,)) (NN company) (POS 's)) (NNS sales)) (VP (VBP have) (VP (VBN been) (ADJP (JJ dormant))))) (CC and) (S (NP (PRP$ its) (NNS profits)) (VP (VBP have) (VP (VBN dropped)))) (. .)))
+
+(S1 (S (NP (NP (NP (JJ Last) (NN year) (POS 's)) (NNS earnings)) (PP (IN of) (NP (QP ($ $) (CD 1.3) (CD million)))) (, ,) (PP (VBG including) (NP (NP ($ $) (CD 815,000)) (PP (IN from) (NP (DT a) (NN restructuring) (NN gain))))) (, ,)) (VP (VBD were) (PP (ADVP (RB far)) (IN below) (NP (DT the) (JJ year-earlier) (QP ($ $) (CD 8.4) (CD million))))) (. .)))
+
+(S1 (S (PP (IN Besides) (S (VP (VBG spurring) (NP (NP (NP (NNP Barry) (NNP Wright) (POS 's)) (NNS sales)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (NP (NP (QP ($ $) (CD 201.7) (CD million))) (PP (IN in) (NP (CD 1988))))))))))) (, ,) (NP (NNP Mr.) (NNP Sim)) (VP (MD must) (VP (VB pare) (NP (NP (PRP$ its) (NNS costs)) (CC and) (NP (NN product) (NN line))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN question)) (VP (VBZ is) (SBAR (WHADVP (WRB how) (RB long)) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (NNP Barry) (NNP Wright)) (S (VP (TO to) (VP (VB make) (NP (DT a) (NN contribution))))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP F.) (NNP John) (NNP Mirek)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN at) (NP (NP (NNP Blunt) (NNP Ellis) (NNP Loewi)) (PP (IN in) (NP (NNP Milwaukee))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN answer)) (VP (MD will) (VP (VB help) (S (VP (VB determine) (SBAR (IN whether) (S (NP (NNP Applied)) (VP (VBZ continues) (S (VP (TO to) (VP (VB reach) (NP (NP (DT the) (JJ ambitious) (NNS goals)) (VP (VBN set) (PP (IN by) (NP (NNP Mr.) (NNP Sim))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NAC (NNP Butler) (, ,) (NNP Wis.) (, ,)) (NN manufacturer)) (VP (VBD went) (ADJP (JJ public)) (PP (IN at) (NP (NP ($ $) (CD 15.75)) (NP (DT a) (NN share)))) (PP (IN in) (NP (NNP August) (CD 1987))))) (, ,) (CC and) (S (NP (NP (NNP Mr.) (NNP Sim) (POS 's)) (NN goal)) (ADVP (RB then)) (VP (VBD was) (NP (DT a) (ADJP ($ $) (CD 29)) (JJ per-share) (NN price)) (PP (IN by) (NP (CD 1992))))) (. .)))
+
+(S1 (S (NP (JJ Strong) (NNS earnings) (NN growth)) (VP (VBD helped) (S (VP (VB achieve) (NP (DT that) (NN price)) (ADVP (RB far) (RB ahead) (PP (IN of) (NP (NN schedule)))) (, ,) (PP (IN in) (NP (NNP August) (CD 1988)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN stock)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN softened) (, ,) (S (VP (VP (VBG trading) (PP (IN around) (NP (NP ($ $) (CD 25)) (NP (DT a) (NN share)))) (NP (JJ last) (NN week))) (CC and) (VP (VBG closing) (NP (NN yesterday)) (PP (IN at) (NP (NP ($ $) (CD 23.00)) (PP (IN in) (NP (JJ national) (JJ over-the-counter) (NN trading)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Mr.) (NNP Sim)) (VP (VBZ has) (VP (VBN set) (NP (NP (DT a) (JJ fresh) (NN target)) (PP (IN of) (NP (NP ($ $) (CD 50)) (NP (DT a) (NN share))))) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of))))))))
+
+(S1 (S (S (VP (VBG Reaching) (NP (DT that) (NN goal)))) (, ,) (VP (VBZ says) (SBAR (S (NP (NP (NNP Robert) (NNP T.) (NNP Foote)) (, ,) (NP (NP (NNP Applied) (POS 's)) (JJ chief) (JJ financial) (NN officer)) (, ,)) (VP (MD will) (VP (VB require) (NP (`` `) (NP (`` `) (JJ efficient) (NN reinvestment) ('' ')) ('' ') (PP (IN of) (NP (NP (NP (NN cash)) (PP (IN by) (NP (NNP Applied)))) (CC and) (NP (NP (NN continuation)) (PP (IN of) (NP (PRP$ its) (JJ healthy) (ADJP (CD 19) (NN %)) (NN rate))) (PP (IN of) (NP (NP (NN return)) (PP (IN on) (NP (NN operating) (NN capital)))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Barry) (NNP Wright))) (, ,) (NP (NNP Mr.) (NNP Sim)) (VP (VBZ sees) (NP (NP (DT a) (NN situation)) (ADJP (`` `) (ADJP (`` `) (RB very) (JJ similar) ('' ')) ('' ') (PP (TO to) (NP (NP (DT the) (NN one)) (SBAR (S (NP (PRP he)) (VP (VBD faced) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD joined) (NP (NNP Applied)) (PP (IN as) (NP (NP (NN president)) (CC and) (NP (JJ chief) (VBG operating) (NN officer)))) (PP (IN in) (NP (CD 1985)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Applied)) (, ,) (ADVP (RB then)) (NP (DT a) (ADJP (RB closely) (VBN held)) (NN company)) (, ,)) (VP (VBD was) (VP (VBG stagnating) (PP (IN under) (NP (NP (DT the) (NN management)) (PP (IN of) (NP (PRP$ its) (JJ controlling) (NN family))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (S (ADJP (JJ profitable))) (, ,) (NP (PRP it)) (`` `) (VP (`` `) (VP (VBD was) (RB n't) (VP (VBG growing))) (CC and) (VP (VBD was) (RB n't) (VP (VBG providing) (NP (NP (DT a) (JJ satisfactory) (NN return)) (PP (IN on) (NP (VBN invested) (NN capital))))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Sim)) (VP (VBZ is) (ADJP (JJ confident) (SBAR (IN that) (S (NP (DT the) (NN drive) (S (VP (TO to) (VP (VB dominate) (NP (JJ certain) (NN niche) (NNS markets)))))) (VP (MD will) (VP (VB work) (PP (IN at) (NP (NNP Barry) (NNP Wright))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ has) (PP (IN at) (NP (NNP Applied)))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ professes) (S (NP (DT an) (`` `) (ADJP (`` `) (JJ evangelical) ('' ')) ('' ') (NN fervor)) (VP (TO to) (VP (VB develop) (NP (NP (DT a) (JJ corporate) (NN culture)) (SBAR (WHNP (WDT that)) (S (VP (VBZ rewards) (NP (NP (NNS managers)) (SBAR (SBAR (WHNP (WP who)) (S (VP (VBP produce)))) (CC and) (SBAR (WHADVP (WRB where)) (S (NP (NN decision-making)) (VP (VBZ is) (VP (VBN shared))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Sim)) (VP (VP (VBZ considers) (S (NP (NP (DT the) (JJ new) (NN unit) (POS 's)) (NNS operations)) (`` `) (ADJP (`` `) (ADJP (RB fundamentally) (JJ sound)) ('' ')) ('' '))) (CC and) (VP (VBZ adds) (SBAR (IN that) (S (NP (NNP Barry) (NNP Wright)) (VP (VBZ has) (VP (VBN been) (ADJP (RB fairly) (JJ successful) (PP (IN in) (S (VP (VBG moving) (PP (IN into) (NP (NP (NNS markets)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (RB n't) (VP (VBN interested) (NP (JJR larger) (NNS competitors)))))))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN With) (NP (DT a) (JJ little) (NN patience))) (, ,) (NP (DT these) (NNS businesses)) (VP (MD will) (VP (VB perform) (ADVP (RB very) (RB satisfactorily))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Sim)) (VP (VBZ says)) (. .)))
+
+(S1 (S (PP (IN Within) (NP (IN about) (CD six) (NNS months))) (, ,) (`` `) (S (`` `) (NP (NNS things)) (VP (MD will) (VP (VB be) (VP (VBG moving) (PP (IN in) (NP (DT the) (JJ right) (NN direction)))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ predicts)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Sim)) (VP (VBZ figures) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB be) (ADJP (JJR easier) (SBAR (S (VP (TO to) (VP (VB turn) (NP (NNP Barry) (NNP Wright)) (ADVP (RB around))))))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBZ 's) (ADVP (RB now)) (PP (IN in) (NP (NP (DT the) (NN driver) (POS 's)) (NN seat))))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP he)) (VP (VBD came) (PP (TO to) (NP (NNP Applied)))))) (, ,) (`` `) (S (`` `) (NP (PRP I)) (VP (VBD did) (RB n't) (VP (VB have) (NP (DT the) (NN power) (S (VP (TO to) (VP (VB execute) (SBAR (IN as) (S (NP (PRP I)) (VP (VBP do) (NP (NN today))))))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD was) (VP (VBN named) (S (NP (NP (JJ chief) (NN executive) (NN officer)) (PP (IN of) (S (VP (VP (NNP Applied) (PP (IN in) (NP (CD 1986)))) (CC and) (VP (VBD became) (NP (NN chairman)) (NP (JJ last) (NNP November)))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NNP Applied))) (, ,) (NP (NNP Mr.) (NNP Sim)) (VP (VBD set) (NP (NN growth)) (PP (IN as) (NP (PRP$ his) (JJ first) (NN objective)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD took) (NP (DT the) (NN company) (NN public)) (PP (IN in) (NP (DT an) (NN offering))) (SBAR (IN that) (S (VP (VBN netted) (NP (NNP Applied)) (NP (NP (QP (RB about) ($ $) (CD 12.6) (CD million))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD helped) (S (VP (VB launch) (NP (NP (DT the) (NN company) (POS 's)) (NN acquisition) (NN program)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD climbed) (PP (TO to) (NP (NP (DT an) (VBN estimated) (QP ($ $) (CD 245) (CD million))) (PP (IN in) (NP (JJ fiscal) (CD 1989))) (, ,) (VP (VBN ended) (NP (NNP Aug.) (CD 31))) (, ,))) (PP (IN from) (NP (QP ($ $) (CD 99.9) (CD million))) (PP (IN in) (NP (JJ fiscal) (CD 1985))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBZ expects) (SBAR (IN that) (S (NP (NP (NNS earnings)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (VP (VBD marched) (ADVP (RB steadily)) (ADVP (RB upward)) (PP (IN in) (NP (JJ recent) (NNS years))))))) (, ,)) (VP (VBD reached) (NP (NP (QP (RB about) ($ $) (CD 20.8) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.58)) (NP (DT a) (NN share))) (, ,)) (PP (IN in) (NP (NP (DT the) (JJ fiscal) (NN year)) (VP (ADVP (RB just)) (VBN ended)))) (, ,) (ADVP (IN up) (PP (IN from) (NP (NP (QP ($ $) (CD 15.2) (CD million))) (PP (IN in) (NP (NP (JJ fiscal) (CD 1988)) (CC and) (NP (QP ($ $) (CD 3.9) (CD million)))))) (PP (IN in) (NP (CD 1985))))))))) (. .)))
+

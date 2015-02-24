@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NNP HEALTHDYNE) (NNP Inc.)) (, ,) (NP (NNP Atlanta)) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ its) (NN subsidiary)) (, ,) (NP (NNP Home) (NNP Nutritional) (NNPS Services) (NNP Inc.)) (, ,)) (VP (VBN registered) (PP (IN with) (NP (DT the) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission))) (NP (NP (DT an) (JJ initial) (JJ public) (NN offering)) (PP (IN of) (NP (NP (QP (CD four) (CD million)) (NNS shares)) (PP (IN of) (NP (NN common)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ in-home) (NN health) (NN care) (NNS services) (NN provider)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB sell) (NP (NP (CD 1.8) (CD million)) (PP (IN of) (NP (DT the) (JJ new) (NNS shares)))) (, ,) (SBAR (IN while) (S (NP (NNP Home) (NNP Nutritional) (NNPS Services)) (VP (MD will) (VP (VB sell) (NP (DT the) (VBG remaining) (QP (CD 2.2) (CD million)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBZ estimates) (NP (DT the) (NN offering) (NN price)) (PP (IN at) (NP (NP (QP (IN between) ($ $) (CD 14) (CC and) ($ $) (CD 16))) (NP (DT a) (NN share))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB use) (NP (DT the) (NNS proceeds)) (S (VP (TO to) (VP (VP (VB repay) (NP (JJ certain) (NN bank) (NN debt))) (CC and) (VP (PP (IN for) (NP (NP (JJ general) (JJ corporate) (NNS purposes)) (, ,) (PP (VBG including) (S (VP (VBG establishing) (NP (NP (JJ new) (NN operating) (NNS centers)) (CC and) (NP (JJ possible) (NNS acquisitions))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Home) (NNP Nutritional)) (ADVP (RB currently)) (VP (VBZ has) (NP (NP (QP (CD 10) (CD million)) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD will) (VP (VB have) (NP (NP (QP (CD 11.8) (CD million)) (NNS shares)) (ADJP (JJ outstanding))) (PP (IN after) (NP (DT the) (NN offering))) (, ,) (PP (IN with) (S (NP (NNP Healthdyne)) (VP (VBG owning) (NP (NP (QP (RB about) (CD 65)) (NN %)) (PP (IN of) (NP (DT the) (NN total))))))))) (. .)))
+

@@ -1,0 +1,110 @@
+(S1 (S (NP (NN BROKERAGE) (NN HIRING)) (VP (VBZ languishes) (PP (IN amid) (NP (NN market) (NN turmoil)))) (. .)))
+
+(S1 (S (CC But) (NP (NNS survivors)) (VP (VBP earn) (NP (RBR more))) (. .)))
+
+(S1 (S (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc.)) (VP (VBZ counts) (PP (IN under) (NP (NP (CD 39,000) (NNS workers)) (, ,) (ADVP (RB down) (NP (CD 100)) (PP (IN from) (NP (NP (DT the) (NN start)) (PP (IN of) (NP (NP (DT the) (NN year)) (CC and) (ADVP (RB off) (NP (CD 8,500)) (PP (IN from) (PP (IN after) (NP (NP (PRP$ its) (NN merger)) (CC and) (NP (NP (DT the) (NN market) (NN collapse)) (ADVP (NP (CD two) (NNS years)) (RB ago))))))))))))))) (. .)))
+
+(S1 (S (NP (DT Another) (JJ major) (NN firm)) (VP (VBZ has) (VP (VBN cut) (NP (CD 6,000) (NNS workers)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN of) (NP (PRP$ its) (NN staff)))) (, ,) (PP (IN since) (NP (NNP Black) (NNP Monday))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Bureau)) (PP (IN of) (NP (NNP Labor) (NNPS Statistics)))) (VP (VBZ says) (SBAR (S (NP (NP (NNS securities) (NNS firms)) (PP (IN in) (NP (NNP New) (NNP York) (NNP City))) (ADVP (RB alone))) (VP (VBP have) (VP (VBN slashed) (NP (CD 17,000) (NNS jobs)) (PP (IN from) (NP (NP (DT the) (NNP December) (CD 1987) (NN peak)) (PP (IN of) (NP (CD 163,000)))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Average) (JJ annual) (NNS earnings)) (PP (IN of) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN hung) (PRT (RP on)) (PRN (, ,) (ADVP (RB though)) (, ,))))))))) (VP (VBD surged) (PP (TO to) (NP (NP ($ $) (CD 78,625)) (NP (JJ last) (NN year)))) (PP (IN from) (NP ($ $) (CD 69,553))) (PP (IN in) (NP (CD 1987)))) (. .)))
+
+(S1 (S (NP (DT Any) (NN hiring)) (VP (VBZ is) (VP (VBN confined) (PP (TO to) (NP (JJ retail) (NNS sales))))) (. .)))
+
+(S1 (S (NP (NNP Illinois) (NNP Company) (NNP Investments)) (VP (VBD had) (VP (VBN been) (VP (VBG trimming) (NP (PRP$ its) (NNS ranks)) (PP (IN until) (NP (JJ last) (NN summer)))))) (. .)))
+
+(S1 (S (CC But) (ADVP (RB then)) (NP (PRP it)) (VP (VBD was) (VP (VBN acquired) (PP (IN by) (NP (NN Household) (NNP International) (NNP Inc))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (NP (PRP it)) (VP (VBZ offers) (NP (JJR richer) (NNS commissions) (S (VP (TO to) (VP (VB lure) (NP (DT a) (NN broker)) (NP (DT a) (NN week))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Interstate\/Johnson) (NNP Lane) (NNP Inc.)) (NP (DT this) (NN year))) (VP (VBZ adds) (NP (NP (CD 70) (NNS people)) (PRN (: --) (NP (NP (CD 60)) (PP (IN of) (NP (PRP them))) (PP (IN in) (ADJP (JJ retail)))) (: --))) (PP (TO to) (NP (PRP$ its) (JJ 1,300-member) (NN staff)))) (. .)))
+
+(S1 (S (NP (NNP A.G.) (NNP Edwards) (CC &) (NNPS Sons)) (VP (VP (VBZ runs) (NP (NN training) (NNS classes))) (CC and) (VP (VBZ looks) (PP (IN for) (NP (JJ experienced) (NNS brokers))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 're) (ADVP (RB always)) (VP (VBG going) (S (VP (TO to) (VP (VB hire) (NP (NP (NN someone)) (SBAR (S (NP (PRP we)) (VP (VBP consider) (S (VP (TO to) (VP (VB be) (NP (DT a) (NN winner)))))))))))))) (, ,) ('' ')) ('' ') (NP (DT an) (NNP Edwards) (NN official)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (JJ SKILLED) (NNS WORKERS)) (ADVP (RB aplenty)) (VP (VBP are) (ADJP (JJ available) (S (VP (TO to) (VP (VB cope) (PP (IN with) (NP (NN earthquake) (NN damage)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB foresee) (NP (DT any) (NNS shortages)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS months))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Ken) (NNP Allen)) (, ,) (NP (NP (NP (NP (DT an) (NN official)) (PP (IN of) (NP (NN Operating) (NNPS Engineers)))) (NP (NNP Local) (CD 3))) (PP (IN in) (NP (NNP San) (NNP Francisco))))) (. .)))
+
+(S1 (S (ADVP (RB Ironically)) (, ,) (`` `) (S (PP (`` `) (RB up) (PP (IN until) (NP (DT the) (NN quake)))) (, ,) (NP (PRP we)) (ADVP (RB desperately)) (VP (VBD tried) (S (VP (TO to) (VP (VB fill) (NP (NNS jobs))))))) (, ,) ('' ') (PRN (: ') (PP (ADVP (RB especially)) (IN for) (NP (NN crane) (CC and) (NN bulldozer) (NNS operators)))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NAC (NNP Oct.) (CD 17)) (NN temblor)) (VP (VBD put) (NP (NP (DT a) (NN halt)) (PP (TO to) (NP (NP (JJ much) (JJ nonessential) (NN building)) (, ,) (CC and) (NP (NP (JJ heavy) (NNS rains)) (SBAR (S (NP (JJ last) (NN week)) (VP (VBD slowed) (NP (DT the) (NN rest)) (, ,) (S (VP (VBG freeing) (NP (NN construction) (NNS workers)) (PP (IN for) (NP (NN earthquake) (NNS repairs))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN supply)) (PP (IN of) (NP (JJ experienced) (JJ civil) (NNS engineers)))) (, ,) (ADVP (RB though)) (, ,) (VP (VBZ is) (ADJP (JJR tighter))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ recent) (NNS months))) (, ,) (NP (NP (NNP California) (POS 's)) (NNP Transportation) (NNP Department)) (VP (VBZ has) (VP (VBN been) (VP (VBG recruiting) (PP (IN in) (NP (NP (NNP Pennsylvania)) (, ,) (NP (NNP Arizona)) (CC and) (NP (NNP Texas)))) (PP (IN for) (NP (NP (NNS engineers)) (VP (VBN experienced) (PP (IN in) (NP (NN road) (CC and) (NN bridge) (NN design))))))))) (. .)))
+
+(S1 (SINV (S (CC But) (PRN (, ,) (PP (IN with) (NP (NP (NP (DT the) (NN state)) (VP (VBG offering) (NP (NP (RB only) ($ $) (CD 39,000)) (NP (DT a) (NN year))))) (CC and) (NP (NP (NP (NNP California) (POS 's)) (JJ high) (NN standard)) (PP (IN of) (NP (NN living)))))) (, ,) (`` `)) (`` `) (NP (EX there)) (VP (VBP are) (RB n't) (ADJP (RB too) (JJ many) (S (VP (TO to) (VP (VB choose) (PP (IN from))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Brent) (NNP Scott)) (, ,) (NP (DT a) (NN recruiting) (NN officer))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN department)) (VP (VP (ADVP (RB now)) (VBZ has) (NP (CD 75) (NNS openings))) (CC and) (VP (VBZ wants) (S (VP (TO to) (VP (VB hire) (NP (NP (CD 625) (JJ civil) (NNS engineers)) (PP (IN over) (NP (DT the) (JJ next) (CD 15) (NNS months)))))))))))) (. .)))
+
+(S1 (S (NP (DT THE) (NNP IRS)) (VP (MD may) (VP (VB taketh) (SBAR (WHNP (WP what)) (S (NP (DT the) (NNP Labor) (NNP Department)) (VP (VBZ giveth)))))) (. .)))
+
+(S1 (S (CC But) (VP (VB stay) (S (VP (VBN tuned)))) (. .)))
+
+(S1 (S (NP (JJ Employee-benefit) (NNS specialists)) (VP (VBD drew) (NP (NP (DT a) (JJ collective) (NN sigh)) (PP (IN of) (NP (NN relief)))) (PP (IN in) (NP (NP (JJ early) (NNP October)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP Labor) (NNP Department)) (VP (VBD backed) (ADVP (RB away) (PP (IN from) (NP (DT a) (NN proposal) (S (PP (IN that) (NP (NNS companies))) (VP (VB let) (NP (NP (JJ former) (NNS employees) (CC and) (NNS beneficiaries)) (PRN (: --) (PP (IN along) (PP (IN with) (NP (JJ active) (NNS workers)))) (: --))) (VP (VB borrow) (PP (IN against) (NP (NP (NP (NNS balances)) (PP (IN in) (NP (NP (CD 401)) (PRN (-LRB- -LRB-) (NP (NNP k)) (-RRB- -RRB-))))) (CC and) (NP (JJ similar) (NN savings) (NNS plans)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT an) (JJ advisory) (NN letter))) (, ,) (NP (DT the) (NN department)) (VP (VBD said) (SBAR (IN that) (, ,) (S (S (VP (VBG starting) (NP (NNP Oct.) (CD 18)))) (, ,) (NP (NNS loans)) (VP (MD could) (VP (VB be) (VP (VBN limited) (PP (TO to) (NP (`` `) (NP (`` `) (NP (NNS parties)) (PP (IN in) (NP (NN interest))) (, ,) ('' ')) ('' ') (SBAR (WHNP (WDT which)) (S (VP (VP (ADVP (RB generally)) (VBZ means) (NP (JJ active) (NNS workers))) (CC but) (VP (ADVP (RB also)) (VBZ includes) (NP (NP (NNS retirees)) (SBAR (WHNP (WP who)) (S (VP (VBP continue) (PP (IN as) (NP (NP (NNS directors)) (CC and) (NP (ADJP (CD 10) (NN %)) (NNS shareholders)))))))))))))))))))) (. .)))
+
+(S1 (SINV (ADVP (RB Now)) (VBZ comes) (NP (NN word) (SBAR (IN that) (S (NP (NP (NNP IRS) (NNS regulations)) (VP (VBG being) (VP (VBN drafted)))) (VP (MD could) (VP (VB put) (NP (NNS companies)) (PP (IN in) (NP (NP (NN violation)) (PP (IN of) (NP (DT the) (NN tax) (NN code))))) (SBAR (IN if) (S (NP (PRP they)) (VP (VP (VBP make) (NP (NP (NNS loans)) (PP (TO to) (NP (NP (NN retiree) (NNS shareholders)) (CC and) (NP (NNS directors)))))) (CC but) (VP (VBP do) (RB n't) (VP (VB make) (S (NP (PRP them)) (ADJP (JJ available) (PP (TO to) (NP (NP (JJ other) (JJ former) (NNS workers)) (SBAR (WHNP (WP who)) (S (ADVP (RB usually)) (VP (VBD earned) (NP (JJR less))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP IRS)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN question)) (VP (MD wo) (RB n't) (VP (VB be) (VP (VBN settled) (SBAR (IN until) (S (NP (DT the) (NNS regulations)) (VP (VBP are) (VP (VBN issued) (`` `) (`` `) (ADVP (RB shortly)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (NN violation)) (VP (MD could) (VP (VB bring) (NP (JJ substantial) (NN tax) (NNS penalties)) (PP (TO to) (NP (DT both) (NN employer) (CC and) (NNS employees))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (JJ severe) (NN case)) (PP (IN of) (NP (JJ regulatory) (NN whiplash))))) (, ,) ('' ')) ('' ') (VP (VBZ complains)) (NP (NP (NNP Henry) (NNP Saveth)) (PP (IN of) (NP (NN consultant) (NN A.) (NNP Foster) (NNP Higgins) (CC &) (NNP Co)))) (. .)))
+
+(S1 (S (NP (NP (NNP Frederick) (NNP Rumack)) (PP (IN of) (NP (NNP Buck) (NNPS Consultants)))) (VP (VBZ has) (VP (VBN asked) (NP (NNP Labor)) (S (VP (TO to) (VP (VB recraft) (NP (NP (PRP$ its) (NN rule)) (SBAR (S (VP (TO to) (VP (VB remove) (NP (DT the) (NNP IRS) (NN threat)))))))))))) (. .)))
+
+(S1 (S (NP (JJ CORPORATE) (NN DOWNSIZING)) (VP (VBZ digs) (ADJP (JJR deeper))) (. .)))
+
+(S1 (S (NP (NN Outplacement) (NN consultant) (NNP Right) (NNP Associates)) (VP (VBZ says) (SBAR (S (S (NP (NP (DT the) (JJ average) (NN pay)) (PP (IN of) (NP (PRP$ its) (NNS clients)))) (VP (VBD fell) (PP (TO to) (NP (NP ($ $) (CD 66,743)) (NP (JJ last) (NN year)))) (PP (IN from) (NP ($ $) (CD 70,765)) (PP (IN in) (NP (CD 1987)))))) (: ;) (S (NP (NN severance) (NN pay)) (VP (VBD dropped) (PP (TO to) (NP (CD 25) (NNS weeks))) (PP (IN from) (NP (CD 29)))))))) (. .)))
+
+(S1 (S (NP (DT Both)) (VP (VBP reflect) (NP (NP (DT the) (NN dismissal)) (PP (IN of) (NP (ADJP (JJ lower-level) (CC and) (JJ shorter-tenure)) (NNS executives))))) (. .)))
+
+(S1 (S (ADVP (RB FIRST)) (VP (VB TEACH) (ADJP (JJ THYSELF))) (. .)))
+
+(S1 (S (NP (NNS Executives)) (ADVP (RB universally)) (VP (VBP believe) (SBAR (S (NP (NNS workers)) (VP (MD should) (VP (VB know) (NP (PRP$ their) (JJ employer-sponsored) (NNS benefits))))))) (. .)))
+
+(S1 (S (S (CC But) (NP (QP (CD three) (IN out) (IN of) (CD four)) (NNS managers)) (VP (MD ca) (RB n't) (VP (ADVP (RB accurately)) (VB state) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (PRP$ their) (JJ own) (NNS packages))))))) (, ,) (NP (NN consultant) (NNP Noble) (NNP Lowndes)) (VP (VBZ says)) (. .)))
+
+(S1 (NP (NNP MEA) (NNP CULPA) (. .)))
+
+(S1 (S (NP (NP (RB Fully) (CD 62) (NN %)) (PP (IN of) (NP (NP (DT the) (NNS doctors)) (VP (VBN surveyed) (PP (IN for) (NP (NNP Metropolitan) (NNP Life) (NNP Insurance) (NNP Co.))))))) (VP (VBP think) (SBAR (S (NP (PRP$ their) (JJ fellow) (NNS physicians)) (VP (VBP are) (ADJP (JJ responsible) (PP (IN for) (NP (VBG rising) (NN health-care) (NNS costs)))) (, ,) (ADVP (RB ahead) (PP (IN of) (NP (NP (NNS hospitals)) (PRN (-LRB- -LRB-) (NP (CD 55) (NN %)) (-RRB- -RRB-)) (CC and) (NP (NNS patients)) (PRN (-LRB- -LRB-) (NP (CD 48) (NN %)) (-RRB- -RRB-))))))))) (. .)))
+
+(S1 (S (INTJ (UH NO)) (, ,) (NP (PRP YOU)) (VP (VBP WORK)) (. !)))
+
+(S1 (S (S (NP (NP (RB Only) (CD one)) (PP (IN in) (NP (NP (CD four) (NNS companies)) (PP (IN with) (NP (JJ flexible) (NN benefit) (NNS plans)))))) (VP (VBZ lets) (S (NP (NNS workers)) (VP (VB buy) (CC or) (VB sell) (NP (NN vacation) (NNS days)))))) (, ,) (NP (NN consultant) (NNP Towers) (NNP Perrin)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (NP (NNS Employees)) (VP (VBP like) (NP (DT the) (NN option)))) (CC but) (S (NP (NNS firms)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB too) (JJ tough)) (S (VP (TO to) (VP (VB run))))))))) (. .)))
+
+(S1 (S (NP (NNS STUDENTS)) (VP (VBP SHUN) (NP (NP (NN burger)) (VP (VBG flipping) (PP (IN for) (NP (NP (NNS jobs)) (VP (VBN tied) (PP (TO to) (NP (NNS careers))))))))) (. .)))
+
+(S1 (S (NP (DT Some)) (ADVP (RB even)) (VP (VBP study)) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NN Fast-food) (NNS jobs)) (VP (VBP are) (RB n't) (ADJP (JJ popular)) (ADVP (DT no) (NN matter) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP pay)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (DT a) (NNP Tufts) (NN official)) (. .)))
+
+(S1 (S (NP (NN Working) (NNS students)) (PRN (, ,) (S (NP (PRP she)) (VP (VBZ explains))) (, ,)) (VP (VBP want) (`` `) (NP (`` `) (DT some) (NN satisfaction))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NAC (NNP University) (PP (IN of) (NP (NNP Michigan)))) (NNS students)) (VP (VBP look) (PP (IN for) (NP (NP (NNS jobs)) (VP (VBN related) (PP (TO to) (NP (JJ planned) (NNS careers))))))) (. .)))
+
+(S1 (S (NP (NNP Carnegie) (NNP Mellon)) (, ,) (ADVP (RB though)) (, ,) (VP (VBZ says) (SBAR (S (NP (DT some) (NNS students)) (VP (VBP conclude) (SBAR (S (NP (PRP they)) (VP (MD can) (VP (VB help) (NP (PRP$ their) (NNS careers)) (ADVP (RBS most)) (PP (IN by) (S (VP (VBG hitting) (NP (DT the) (NNS books)) (: :) (`` `) (S (`` `) (NP (PRP They)) (VP (VBP 're) (VP (VBG opting) (S (VP (TO to) (VP (VB build) (NP (PRP$ their) (NNS resumes)) (PP (IN through) (NP (NP (JJ good) (NX (NX (NNS grades)) (CC and) (NX (NN leadership) (NNS roles)))) (PP (IN in) (NP (NNS fraternities)))))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (VBG Slowing) (NNS economies)) (PP (IN in) (NP (DT some) (NNS areas)))) (VP (VBP limit) (NP (NN student) (NN choice))) (. .)))
+
+(S1 (S (NP (NP (NN Student) (NN job) (NNS postings)) (PP (IN at) (NP (NNP Boston) (NNP University)))) (VP (VBP slip) (NP (NP (NP (CD 10) (NN %)) (NP (DT this) (NN year))) (PP (VBG following) (NP (NP (DT a) (ADJP (CD 10) (NN %)) (NN drop)) (PP (IN in) (NP (CD 1988))))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (DT the) (NN school)) (VP (VBZ says) (SBAR (S (S (NP (EX there)) (VP (VBP are) (NP (DT an) (JJ ample) (NN number)))) (CC and) (S (NP (NN pay)) (VP (VBZ is) (PP (IN up) (PP (TO to) (NP (NP ($ $) (CD 7.20)) (NP (DT an) (NN hour))) (PP (IN from) (NP (NP ($ $) (CD 6.90)) (NP (JJ last) (NN year))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP M.B.A.) (NNS candidates)) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Pittsburgh)))))) (VP (VBP earn) (PRT (RP up)) (PP (TO to) (NP (NP ($ $) (CD 15)) (NP (DT an) (NN hour)) (PP (IN on) (NP (NN marketing) (CC or) (NN computer) (NNS projects)))))) (. .)))
+
+(S1 (NP (NP (DT THE) (NN CHECKOFF)) (: :) (NP (JJ Fiery) (NN ambition)) (: :)))
+
+(S1 (S (NP (NNP Hyatt) (NNP Corp.)) (VP (VBZ hires) (NP (NP (DT a) (NAC (NNP University) (PP (IN of) (NP (NNP Wyoming)))) (NN graduate)) (PP (IN with) (NP (NP (NNS degrees)) (PP (IN in) (NP (NN geology) (CC and) (NN petroleum) (NN engineering))))) (PP (IN for) (NP (NP ($ $) (CD 7.50)) (NP (DT an) (NN hour))))) (S (VP (TO to) (VP (VB tend) (NP (NN wood) (NNS fires)) (PP (IN at) (NP (DT a) (NNP Colorado) (NN ski) (NN resort) (NN ..) (. .))))))) (. .)))
+
+(S1 (SQ (VBZ Is) (NP (NP (NN somebody)) (VP (VBG telling) (NP (PRP us)))) (NP (NN something)) (. ?)))
+
+(S1 (S (NP (NP (PRP$ Our) (NN copy)) (PP (IN of) (NP (NNP Racine) (PRN (-LRB- -LRB-) (NNP Wis) (. .) (-RRB- -RRB-)) (NNP Labor)))) (VP (VBZ comes) (PP (IN through) (NP (NP (DT the) (NN mail)) (VP (VBD wrapped) (PRT (RP around)) (NP (NP (CD two) (NNS sections)) (PP (IN of) (NP (NNP Baseball) (NNP Card) (NNP News)))))))) (. .)))
+

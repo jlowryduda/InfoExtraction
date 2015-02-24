@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (NNP General) (NNPS Motors) (NNP Corp.) (POS 's)) (NNP GMC) (NNP Truck) (NN division)) (VP (VBD put) (NP (DT a) (ADJP ($ $) (CD 750)) (NN cash) (NN incentive)) (PP (IN on) (NP (PRP$ its) (CD 1990) (JJ full-sized) (NNP Jimmy) (CC and) (NNP Suburban) (NNS trucks)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN program)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ runs) (PP (IN through) (NP (NNP Jan.) (CD 4)))))) (, ,)) (ADVP (RB also)) (VP (VBZ offers) (NP (JJ low-rate) (NN financing)) (PP (IN in) (NP (NP (NN lieu)) (PP (IN of) (NP (DT the) (NN cash) (NN rebate)))))) (. .)))
+

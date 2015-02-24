@@ -1,0 +1,8 @@
+(S1 (S (NP (NP (NNP Dow) (NNP Chemical) (NNP Co.)) (, ,) (NP (NP (NP (NNP Midland)) (, ,) (NP (NNP Mich.))) (, ,) (CC and) (NP (NNP Eli) (NNP Lilly) (CC &) (NNP Co.))) (, ,) (NP (NNP Indianapolis)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD completed) (NP (NP (NP (DT the) (NN formation)) (PP (IN of) (NP (NP (NNP Dow) (NNP Elanco)) (, ,) (NP (NP (DT a) (JJ joint) (NN venture)) (VP (VBG combining) (NP (PRP$ their) (JJ plant-sciences) (NNS businesses))))))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNP Dow) (POS 's)) (JJ industrial) (JJ pest-control) (NN business))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS companies)) (VP (VBD said) (SBAR (S (NP (NNP Dow) (NNP Elanco)) (VP (MD will) (VP (VB be) (NP (NP (DT the) (JJS largest) (JJ research-based) (JJ agricultural) (NN concern)) (PP (IN in) (NP (NNP North) (NNP America)))) (, ,) (PP (IN with) (NP (NP (VBN projected) (JJ first-year) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 1.5) (CD billion))))))))))) (. .)))
+
+(S1 (S (NP (NNP Dow)) (VP (MD will) (VP (VB own) (NP (NP (CD 60) (NN %)) (PP (IN of) (NP (NP (DT the) (NN venture)) (, ,) (PP (IN with) (NP (NP (NNP Eli) (NNP Lilly)) (VP (VBG holding) (NP (DT the) (NN rest)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN venture)) (VP (MD will) (VP (VB be) (VP (VBN based) (PP (IN in) (NP (NNP Indianapolis)))))) (. .)))
+

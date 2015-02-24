@@ -1,0 +1,12 @@
+(S1 (S (NP (NNP Benj) (. .) (NNP Franklin) (NNP Federal) (NNP Savings) (CC &) (NNP Loan) (NNP Association)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB post) (NP (NP (DT a) (JJ third-quarter) (JJ net) (NN loss)) (PP (IN of) (NP (NP (QP (RB about) ($ $) (CD 8) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.04)) (NP (DT a) (NN share))) (, ,)))) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (S (VP (VBG adding) (NP (NP (QP ($ $) (CD 11) (CD million))) (PP (IN in) (NP (JJ loan-loss) (NNS reserves)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NAC (NNP Portland) (, ,) (NNP Ore.) (, ,)) (NN thrift)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (QP ($ $) (CD 5.2) (CD billion))) (PP (IN of) (NP (NNS assets))))))) (, ,)) (VP (VBD had) (NP (NP (JJ net) (NN income)) (PP (IN in) (NP (NP (JJ last) (NN year) (POS 's)) (JJ third) (NN quarter))) (PP (IN of) (NP (NP (QP ($ $) (CD 1.8) (CD million))) (, ,) (CC or) (NP (NP (CD 23) (NNS cents)) (NP (DT a) (NN share))))))) (. .)))
+
+(S1 (S (NP (NNP Franklin)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB report) (NP (NP (NNS earnings)) (PP (IN for) (NP (DT the) (JJS latest) (NN quarter)))) (NP (JJ next) (NN week))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ additional) (NNS reserves)) (VP (VBP relate) (PP (TO to) (NP (NP (NP (JJ possible) (NNS write-downs)) (PP (IN of) (NP (NP (JJ certain) (NNS assets)) (VP (VBN held) (PP (IN by) (NP (NP (NNP Franklin)) (CC and) (NP (PRP$ its) (NNS subsidiaries)))))))) (CC and) (NP (NP (DT the) (NN default)) (PP (IN of) (NP (NP (DT a) (NN bond)) (PP (IN in) (NP (PRP$ its) (NN investment) (NN portfolio)))))))))) (, ,) (NP (DT the) (NN thrift)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (DT a) (NN spokeswoman)))) (, ,) (NP (PRP they)) (ADVP (RB also)) (VP (VBP relate) (PP (TO to) (NP (NP (NNS changes)) (SBAR (S (NP (NNP Franklin)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB make) (PRT (RP in)) (NP (NP (PRP$ its) (NN accounting) (NNS procedures)) (SBAR (S (VP (TO to) (VP (VB comply) (PP (IN with) (NP (NP (JJ new) (JJ federal) (NN capitalization) (NNS requirements)) (PP (IN for) (NP (NNS thrifts)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN company) (POS 's)) (NNS shares)) (VP (VBD closed) (NP (NN yesterday)) (PP (IN at) (NP ($ $) (CD 4.25))) (, ,) (ADVP (RB off) (NP (CD 25) (NNS cents))) (, ,) (PP (IN in) (NP (JJ national) (JJ over-the-counter) (NN trading)))) (. .)))
+

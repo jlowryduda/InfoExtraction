@@ -1,0 +1,34 @@
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NNP California) (NN crime) (NN saga)) (ADJP (JJ worthy) (PP (IN of) (NP (NP (DT an) (NNP Erle) (NNP Stanley) (NNP Gardner) (NN title)) (: :) (NP (NP (DT The) (NN Case)) (PP (IN of) (NP (DT the) (NNP Purloined) (NNP Palm) (NNP Trees))))))))) (. .)))
+
+(S1 (S (NP (NNP Edward) (NNP Carlson)) (VP (VBD awoke) (NP (CD one) (NN morning)) (NP (JJ last) (NN month)) (S (VP (TO to) (VP (VB find) (NP (CD eight) (NNS holes)) (PP (IN in) (NP (NP (PRP$ his) (JJ front) (NN yard)) (SBAR (WHADVP (WRB where)) (S (NP (NP (PRP$ his) (JJ prized) (JJ miniature) (NNS palms)) (, ,) (VP (VBN called) (S (NP (NNS cycads)))) (, ,)) (ADVP (RB once)) (VP (VBD stood)))))))))) (. .)))
+
+(S1 (S (ADVP (NP (NNS Days)) (RB later)) (, ,) (NP (DT the) (NNS thieves)) (VP (VBD returned) (CC and) (VBD dug) (PRT (RP out)) (NP (JJR more)) (, ,) (S (NP (DT this) (NN time)) (VP (VBG adding) (NP (NN insult)) (PP (TO to) (NP (NN injury)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (JJ second) (NN time))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (NP (PRP they)) (VP (VBD left) (NP (DT the) (NN shovel))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT No) (JJ garden-variety) (NN crime)) (, ,) (NP (JJ palm-tree) (NN rustling)) (VP (VBZ is) (VP (VBG sprouting) (PRT (RP up)) (NP (NP (DT all)) (PP (IN over) (NP (NNP Southern) (NNP California)))) (, ,) (S (VP (VBG bringing) (NP (JJ big) (NNS bucks)) (PP (TO to) (NP (NP (NNS crooks)) (SBAR (WHNP (WP who)) (S (VP (VBP know) (NP (PRP$ their) (NN botany))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Cycads)) (, ,) (SBAR (WHNP (NP (DT the) (ADJP (RBS most) (JJ popular))) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBZ is) (NP (DT the) (NNP Sago) (NNP Palm))))) (, ,)) (VP (VBP are) (NP (NP (JJ doll-sized) (NNS versions)) (PP (IN of) (NP (NP (NNP California) (POS 's)) (JJ famous) (JJ long-necked) (NNS palms)))) (, ,) (PP (IN with) (NP (NP (JJ stubby) (NNS trunks)) (CC and) (NP (JJ fern-like) (NNS fronds))))) (. .)))
+
+(S1 (S (SBAR (IN Because) (S (NP (DT the) (NNP Sago)) (VP (VP (VBZ is) (ADJP (RB relatively) (JJ rare))) (CC and) (VP (VBZ grows) (NP (NP (RB only) (DT a) (NN couple)) (PP (IN of) (NP (NP (NNS inches)) (NP (DT a) (NN year))))))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (JJ pricey) (NN lawn) (NN decoration)) (: :) (NP (NP (DT A) (NN two-foot)) (SBAR (S (NP (JJ tall) (NNP Sago)) (VP (MD can) (ADVP (JJ retail) (PP (IN for) (NP (NP ($ $) (CD 1,000)) (, ,) (CC and) (NP (JJR taller) (NNS ones))))) (ADVP (RB often)) (VP (VB fetch) (NP ($ $) (CD 3,000) (QP (CC or) (JJR more)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (ADVP (RB Evidently)) (, ,) (NP (NN somebody)) (VP (VBZ has) (VP (VBN realized) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJ easy) (NN money)) (SBAR (S (VP (TO to) (VP (VB steal) (NP (DT these) (NNS things)))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Loran) (NNP Whitelock)) (, ,) (NP (NP (DT a) (NN research) (NN associate)) (VP (VBG specializing) (PP (IN in) (NP (NP (NNS cycads)) (PP (IN at) (NP (DT the) (NNP Los) (NNP Angeles) (NNP State) (CC and) (NNP County) (NNP Arboretum)))))))) (. .)))
+
+(S1 (S (NP (RB Just) (JJ last) (NN week)) (, ,) (NP (JJ would-be) (NNS thieves)) (VP (VBD damaged) (NP (CD three) (NNS Sagos)) (PP (IN at) (NP (NP (NP (NNP Mr.) (NNP Whitelock) (POS 's)) (NN home)) (PP (IN in) (NP (DT the) (NNP Eagle) (NNP Rock) (NN section))))) (SBAR (IN before) (S (NP (NN something)) (VP (VBD frightened) (NP (PRP them)) (PRT (RP off)) (, ,) (S (VP (VBN foiled))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB think) (SBAR (S (NP (NN someone)) (VP (VBZ is) (VP (VBG raping) (NP (PRP$ your) (NN garden)))))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNS Police)) (VP (VBP suspect) (SBAR (IN that) (S (NP (NP (DT the) (NNS criminals)) (, ,) (SBAR (WHNP (WP who)) (S (VP (NN dig) (PRT (RP up)) (NP (NP (DT the) (NNS plants)) (PP (IN in) (NP (NP (DT the) (NN dead)) (PP (IN of) (NP (NN night))))))))) (, ,)) (VP (VBP are) (VP (VBG selling) (NP (PRP them)) (PP (TO to) (NP (NP (NNS nurseries)) (CC or) (NP (NNS landscapers))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Sago)) (VP (VBZ has) (VP (VBN become) (NP (NP (DT a) (JJ popular) (NN accent)) (PP (IN in) (NP (JJ tony) (JJ new) (NN housing) (NNS tracts)))) (, ,) (S (ADVP (RB apparently)) (VP (VBG giving) (NP (DT the) (NNS rustlers)) (NP (NP (DT a) (JJ ready) (NN market)) (PP (IN for) (NP (PRP$ their) (JJ filched) (NNS fronds)))))))) (. .)))
+
+(S1 (SINV (S (NP (NNS Thieves)) (VP (VBP are) (VP (VBG going) (S (VP (TO to) (VP (VB find) (`` `) (S (`` `) (NP (NP (NN anybody)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (NP (JJ enough) (NNS bucks)))))) (VP (TO to) (VP (VB plant) (NP (DT these) (NNS things)) (PP (IN in) (NP (PRP$ their) (NN front) (NN yard))))) (, ,) ('' ')) ('' '))))))) (VP (VBZ says)) (NP (NP (NNP William) (NNP Morrissey)) (, ,) (NP (NP (DT an) (NN investigator)) (PP (IN with) (NP (NP (DT the) (NN police) (NN department)) (PP (IN in) (NP (NP (NNP Garden) (NNP Grove)) (, ,) (NP (NNP Calif.)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (CD five) (JJ such) (NNS thefts)) (VP (VBP have) (VP (VBN been) (VP (VBN reported) (PP (IN in) (NP (DT the) (JJ past) (JJ several) (NNS weeks)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN department)) (VP (VBZ is) (VP (VBG advising) (NP (NNS residents)) (S (VP (TO to) (VP (VB plant) (NP (NNP Sagos))))) (, ,) (SBAR (IN if) (S (NP (PRP they)) (VP (VP (MD must) (, ,) (PP (IN in) (NP (DT the) (NN back) (NN yard)))) (CC and) (VP (VBG telling) (NP (NNS nurseries)) (S (VP (TO to) (VP (VB be) (PP (IN on) (NP (DT the) (NN lookout))) (PP (IN for) (NP (NP (NN anyone)) (VP (VBG trying) (S (VP (TO to) (VP (NN palm) (NP (NN one)) (ADVP (RB off))))))))))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN for) (NP (NP (DT those) (NNPS Californians)) (SBAR (WHNP (WP who)) (S (VP (VBP want) (NP (JJ exotic) (NNS gardens)) (PP (IN out) (NP (NP (NN front)) (SBAR (WHADVP (WRB where)) (S (NP (NNS neighbors)) (VP (MD can) (VP (VB appreciate) (NP (PRP them))))))))))))) (, ,) (NP (EX there)) (VP (VBZ 's) (ADVP (RB always)) (NP (NP (NNP Harold) (NNP Smith) (POS 's)) (NN approach))) (. .)))
+
+(S1 (S (SBAR (IN After) (S (NP (CD three) (NNS Sagos)) (VP (VBD were) (VP (VBN stolen) (PP (IN from) (NP (PRP$ his) (NN home))) (PP (IN in) (NP (NNP Garden) (NNP Grove))))))) (, ,) (`` `) (S (`` `) (NP (PRP I)) (VP (VP (VBD put) (NP (DT a) (JJ big) (NN iron) (NN stake)) (PP (IN in) (NP (DT the) (NN ground)))) (CC and) (VP (VBD tied) (NP (DT the) (NN tree)) (PP (TO to) (NP (NP (DT the) (NN stake)) (PP (IN with) (NP (DT a) (NN chain))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says) (ADVP (RB proudly))) (. .)))
+
+(S1 (S (`` `) (`` `) (CC And) (NP (PRP you)) (VP (MD ca) (RB n't) (VP (VB cut) (NP (DT this) (NN chain)) (PP (IN with) (NP (JJ bolt) (NNS cutters))))) (. .)))
+

@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP Edison) (NNP Brothers) (NNPS Stores) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (S (VP (TO to) (VP (VB buy) (NP (NP (CD 229) (NNP Foxmoor) (NNS women) (POS 's)) (NN apparel) (NNS stores)) (PP (IN from) (NP (NP (NNP Foxmoor) (NN Specialty) (NNP Stores) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Dylex) (NNP Ltd.)) (PP (IN of) (NP (NNP Toronto))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (NP (NNP Edison)) (VP (VBD said) (SBAR (S (NP (DT the) (VBN acquired) (NNS stores)) (VP (MD would) (VP (VB be) (VP (VBN integrated) (PP (IN into) (NP (PRP$ its) (JJ current) (NNS operations))))))))) (. .)))
+

@@ -1,0 +1,90 @@
+(S1 (S (SBAR (IN While) (S (NP (NN worry)) (VP (VBZ grows) (PP (IN about) (NP (NP (JJ big) (JJ Japanese) (NNS investments)) (PP (IN in) (NP (DT the) (NNP U.S.)))))))) (, ,) (NP (NP (NNP Japan) (POS 's)) (JJ big) (NN trading) (NNS companies)) (VP (VBP are) (VP (ADVP (RB rapidly)) (VBG increasing) (NP (NP (PRP$ their) (NN stake)) (PP (IN in) (NP (NP (NNP America) (POS 's)) (JJR smaller) (NN business)))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NNP Japan))) (, ,) (NP (DT the) (JJ controversial) (NN trend)) (VP (VBZ improves) (NP (NP (NN access)) (PP (TO to) (NP (NNP American) (NNS markets) (CC and) (NN technology))))) (. .)))
+
+(S1 (S (CC But) (PP (IN for) (NP (JJ small) (JJ American) (NNS companies))) (, ,) (NP (PRP it)) (ADVP (RB also)) (VP (VBZ provides) (NP (NP (NP (DT a) (VBG growing) (NN source)) (PP (IN of) (NP (NN capital)))) (CC and) (RB even) (NP (NN marketing) (NN help)))) (. .)))
+
+(S1 (S (VP (VB Take) (NP (NP (DT the) (NN deal)) (PP (IN with) (NP (NP (NNP Candela) (NNP Laser) (NNP Corp.)) (, ,) (NP (NP (DT a) (NAC (NNP Wayland) (, ,) (NNP Mass.) (, ,)) (NN manufacturer)) (PP (IN of) (NP (NP (JJ high-tech) (JJ medical) (NNS devices)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (NP (CD three) (NNS years)) (RB ago)) (VP (VBD set) (NP (PRP$ its) (NNS sights)) (PP (IN on) (NP (NNP Japan))) (PP (IN as) (NP (DT an) (NN export) (NN market))))))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Partly)) (VP (TO to) (VP (VB help) (S (VP (VB clear) (NP (NP (DT the) (JJ myriad) (NNS obstacles)) (VP (VBG facing) (NP (DT any) (JJ overseas) (NN company))) (VP (VBG trying) (S (VP (TO to) (VP (VB penetrate) (NP (NNP Japan)))))))))))) (, ,) (NP (JJ tiny) (NNP Candela)) (VP (VBD turned) (PP (TO to) (NP (NP (NNP Mitsui) (CC &) (NNP Co.)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP Japan) (POS 's)) (JJS largest) (NN trading) (NNS companies)))) (, ,))) (PP (IN for) (NP (NN investment)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (JJ joint-venture) (NN deal))) (, ,) (NP (NNP Mitsui)) (VP (VBN guided) (NP (NNP Candela)) (PP (IN through) (NP (NP (NNP Tokyo) (POS 's)) (JJ bureaucratic) (NN maze)))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB eventually)) (VP (VBD secured) (NP (NP (NAC (NNP Ministry) (PP (IN of) (NP (NNP Health)))) (NN import) (NN approval)) (PP (IN for) (NP (NP (CD two) (NNP Candela) (NN laser) (NNS products)) (: --) (NP (NP (NP (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ breaks) (PRT (RP up)) (NP (NN kidney) (NNS stones)))))) (CC and) (NP (NP (DT another)) (SBAR (WHNP (WDT that)) (S (VP (VBZ treats) (NP (NN skin) (NNS lesions))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (JJ last) (NN count))) (, ,) (NP (NNP Candela)) (VP (VBD had) (VP (VBN sold) (NP (NP (QP ($ $) (CD 4) (CD million))) (PP (IN of) (NP (PRP$ its) (JJ medical) (NNS devices)))) (PP (IN in) (NP (NNP Japan))))) (. .)))
+
+(S1 (S (NP (DT The) (NN deal)) (ADVP (RB also)) (VP (VBD gave) (NP (NP (NNP Mitsui) (NN access)) (PP (TO to) (NP (DT a) (JJ high-tech) (JJ medical) (NN product))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP They)) (VP (VBP view) (NP (DT this)) (PP (IN as) (NP (DT a) (NN growth) (NN area))) (SBAR (IN so) (S (NP (PRP they)) (VP (VBD went) (PP (IN about) (NP (PRP it))) (PP (IN with) (NP (DT a) (JJ systematic) (NN approach))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Richard) (NNP Olsen)) (, ,) (NP (DT a) (NNP Candela) (NN vice) (NN president))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (PP (IN for) (NP (JJ many) (JJ Japanese) (NN trading) (NNS companies))) (, ,) (NP (DT the) (JJ favorite) (NNP U.S.) (JJ small) (NN business)) (VP (VBZ is) (NP (NP (CD one)) (SBAR (WHNP (WP$ whose) (NP (NP (NN research)) (CC and) (NP (NN development)))) (S (VP (MD can) (VP (VB be) (VP (VBN milked) (PP (IN for) (NP (JJ future) (JJ Japanese) (NN use)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ Japanese) (NNS companies)) (VP (VB bankroll) (NP (NP (JJ many) (JJ small) (NNP U.S.) (NNS companies)) (PP (IN with) (NP (JJ promising) (NNS products) (CC or) (NNS ideas)))) (, ,) (S (ADVP (RB frequently)) (VP (VBG putting) (NP (PRP$ their) (NN money)) (PP (IN behind) (NP (NP (NNS projects)) (SBAR (WHNP (WDT that)) (S (NP (JJ commercial) (NNS banks)) (VP (MD wo) (RB n't) (VP (VB touch)))))))))) (. .)))
+
+(S1 (S (S (NP (JJ Japanese) (NNS companies)) (VP (VBP have) (VP (VBN financed) (NP (ADJP (JJ small) (CC and) (JJ medium-sized)) (NNP U.S.) (NNS firms)) (PP (IN for) (NP (NNS years)))))) (, ,) (CC but) (S (PP (IN in) (NP (JJ recent) (NNS months))) (, ,) (NP (DT the) (NN pace)) (VP (VBZ has) (VP (VBN taken) (PRT (RP off))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (CD 1989))) (ADVP (RB alone)))) (, ,) (NP (JJ Japanese) (NNS corporations)) (VP (VBD invested) (NP (NP (NP (QP ($ $) (CD 214) (CD million))) (PP (IN in) (NP (NP (NN minority) (NNS positions)) (PP (IN in) (NP (NNP U.S.) (NNS companies)))))) (, ,) (NP (NP (DT a) (ADJP (CD 61) (NN %)) (NN rise)) (PP (IN from) (NP (NP (DT the) (NN figure)) (PP (IN for) (NP (NP (DT all)) (PP (IN of) (NP (CD 1987)))))))) (, ,) (NP (NP (NNS reports)) (NP (NNP Venture) (NNP Economics) (NNP Inc))))) (. .)))
+
+(S1 (S (NP (DT The) (NAC (NNP Needham) (, ,) (NNP Mass.) (, ,)) (NN concern)) (VP (VBZ tracks) (NP (NP (NNS investments)) (PP (IN in) (NP (JJ new) (NNS businesses))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (PP (IN of) (NP (NN course))) (, ,) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (JJ Japanese) (NNS investments)))) (VP (VBD involved) (NP (NP (JJ outright) (NN purchase)) (PP (IN of) (NP (JJ small) (NNP U.S.) (NNS firms))))) (. .)))
+
+(S1 (S (NP (NP (VBN Heightened) (JJ Japanese) (NN interest)) (PP (IN in) (NP (NNP American) (JJ small) (NN business)))) (VP (VBZ parallels) (NP (NP (DT an) (NN acceleration)) (PP (IN of) (NP (NP (NNS investments)) (VP (VBG giving) (NP (JJ Japanese) (NNS companies)) (NP (NP (NN control)) (PP (IN of) (NP (JJ large) (, ,) (ADJP (RB highly) (JJ visible)) (NNP U.S.) (NNS corporations))))) (, ,) (PP (JJ such) (IN as) (NP (NNP Columbia) (NNPS Pictures) (NNP Entertainment) (NNP Inc))))))) (. .)))
+
+(S1 (S (NP (RB Only) (DT this) (NN week)) (, ,) (NP (PRP it)) (VP (VBD was) (VP (VBN announced) (SBAR (IN that) (S (NP (NNP Mitsubishi) (NNP Estate) (NNP Co.)) (VP (VBD had) (VP (VBN acquired) (NP (NP (DT a) (ADJP (CD 51) (NN %)) (NN stake)) (PP (IN in) (NP (NP (NNP Rockefeller) (NNP Group)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NP (NNP New) (NNP York) (POS 's)) (JJ prestigious) (NNP Rockefeller) (NNP Center)))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (DT the) (JJ small) (NNS deals)) (VP (VBP are) (ADJP (ADVP (RB far) (RBR less)) (JJ conspicuous))))) (, ,) (NP (PRP they)) (VP (VBP add) (PP (TO to) (NP (NP (JJ Japanese) (NN penetration)) (PP (IN of) (NP (DT the) (NNP U.S.) (NN market)))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (DT the) (NNS deals)) (ADVP (RB also)) (VP (VBP improve) (NP (NP (JJ Japanese) (NN access)) (PP (TO to) (NP (JJ American) (NN technology) (CC and) (NN market) (NN knowledge))))))) (, ,) (NP (PRP they)) (VP (VB feed) (NP (NP (NNP American) (NNS anxieties)) (PP (IN in) (NP (DT this) (NN area)))) (, ,) (ADVP (RB too))) (. .)))
+
+(S1 (S (NP (NP (RB Even) (DT a) (JJ low-tech) (NN product)) (PP (IN like) (NP (NN plate) (NN glass)))) (VP (MD can) (VP (VB catch) (NP (NP (DT a) (VBG trading) (NN company) (POS 's)) (NN fancy)) (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (JJ strategic) (NN fit))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Free) (NNP State) (NNP Glass) (NNP Industries)) (PP (IN of) (NP (NP (NNP Warrenton)) (, ,) (NP (NNP Va.))))) (, ,) (NP (NP (DT a) (JJ small) (NN fabricator)) (PP (IN of) (NP (JJ architectural) (NN glass)))) (, ,)) (VP (VBD was) (VP (VBG foundering) (PP (IN under) (NP (PRP$ its) (JJ original) (NN management))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (NP (NNP Mitsubishi) (NNP International) (NNP Corp.)) (, ,) (NP (NP (DT the) (ADJP (NNP New) (JJ York-based)) (NN arm)) (PP (IN of) (NP (NNP Mitsubishi) (NNP Corp.)))) (, ,)) (VP (VBD bought) (NP (NP (VBG controlling) (NN interest)) (PP (IN in) (NP (DT the) (NN glass) (NN company)))) (PP (IN in) (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN with) (NP (NP (NNP Ronald) (NNP Bodner)) (, ,) (NP (NP (DT a) (NN glass) (NN industry) (NN executive)) (CC and) (NP (NNP Mitsubishi) (NN consultant)))))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NN deal)) (VP (VBZ is) (ADVP (RB chiefly)) (VP (VBN designed) (S (VP (TO to) (VP (VB give) (NP (NNP Mitsubishi)) (NP (NP (DT a) (NN window)) (PP (IN on) (NP (DT the) (NNP U.S.) (NN glass) (NN industry)))))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Ichiro) (NNP Wakui)) (, ,) (NP (NP (DT an) (NN executive)) (PP (IN in) (NP (NP (NP (NNP Mitsubishi) (POS 's)) (JJ general) (NN merchandise) (NN department)) (PP (IN in) (NP (NNP New) (NNP York))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (RB not) (NP (NP (RB just) (DT a) (JJ simple) (NN investment)) (PP (IN in) (NP (DT a) (JJ small) (NN company)))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Wakui)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VB want) (S (VP (TO to) (VP (VB see) (NP (DT the) (NN glass) (NN market)) (PP (IN from) (NP (NP (DT the) (NN inside)) (, ,) (RB not) (NP (DT the) (NN outside)))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (S (NP (NP (NP (NNP Mitsubishi) (POS 's)) (NN investment)) (PP (IN in) (NP (NNP Free) (NNP State)))) (VP (VBZ is) (`` `) (NP (ADJP (`` `) (RB very) (JJ small)) (NN ..)) (. .) (ADJP (ADJP (JJR less)) (PP (IN than) (NP (QP ($ $) (CD 4) (CD million))))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Wakui)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Bodner)) (VP (VBZ declines) (S (VP (TO to) (VP (VB comment) (PP (IN on) (NP (DT the) (NN arrangement))))))) (. .)))
+
+(S1 (S (NP (NP (NN Trading) (NNS companies)) (PP (JJ such) (IN as) (NP (NP (NNP Mitsubishi) (, ,) (NNP Mitsui) (, ,) (NNP C.) (NNP Itoh) (CC &) (NNP Co.)) (CC and) (NP (NP (NNP Nissho-Iwai) (NNP Corp.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP make) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (JJ Japanese) (NNS investments)) (PP (IN in) (NP (JJ small) (NNP U.S.) (NNS concerns))))))))) (, ,))))) (VP (VBP have) (NP (DT no) (NNP U.S.) (NN counterpart))) (. .)))
+
+(S1 (S (NP (NP (DT These) (ADJP (RB vertically) (JJ integrated)) (NNS combines)) (, ,) (SBAR (WHNP (DT some) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBD got) (NP (PRP$ their) (NN start)) (PP (IN in) (NP (NP (NNP Japan) (POS 's)) (JJ feudal) (NN period)))))) (, ,)) (VP (VBP deal) (PP (ADVP (RB globally)) (IN in) (NP (NNS commodities) (, ,) (NN construction) (CC and) (NN manufacturing)))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP operate) (NP (NP (NNS ships)) (CC and) (NP (NNS banks)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PDT All) (DT the) (`` `) (NP (`` `) (NN sogo-shosha) ('' ')) ('' ')) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ new) (NN business))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Arthur) (NNP Klauser)) (, ,) (NP (NP (NN adviser)) (PP (TO to) (NP (NP (DT the) (NN president)) (PP (IN of) (NP (NP (NNP Mitsui)) (, ,) (NP (NNP U.S.A.)) (, ,))) (VP (VBG using) (NP (NP (DT the) (JJ Japanese) (NN term)) (PP (IN for) (NP (NP (DT the) (JJS largest)) (PP (IN of) (NP (DT the) (JJ global) (NN trading) (NNS houses))))))))))) (. .)))
+
+(S1 (SINV (VP (VBZ Adds)) (NP (NP (NNP Takeshi) (NNP Kondo)) (, ,) (NP (NP (JJ senior) (NN vice) (NN president)) (PP (IN of) (NP (NNP C.) (NNP Itoh) (NNP America) (NNP Inc.))))) (: :) (`` `) (S (`` `) (NP (PRP We)) (VP (VBP have) (NP (NP (DT a) (JJ great) (NN interest)) (PP (IN in) (S (VP (VBG making) (NP (NNS investments)))))) (, ,) (PP (ADVP (RB particularly)) (IN in) (NP (JJ new) (NNS ventures))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT A) (NN host)) (PP (IN of) (NP (NP (NNS electronics) (NNS firms)) (PP (IN in) (NP (NP (NNP California) (POS 's)) (NNP Silicon) (NNP Valley)))))) (VP (VBD were) (VP (VBN financed) (PP (IN with) (NP (JJ trading-company) (NN venture) (NN capital))))) (. .)))
+
+(S1 (S (NP (NN Profit)) (, ,) (PP (ADVP (IN at) (JJS least)) (IN in) (NP (DT the) (JJ short) (NN term))) (, ,) (VP (VBZ is) (ADVP (RB usually)) (NP (DT a) (JJ secondary) (NN goal))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (JJ Strategic) (NNS objectives)) (, ,) (RB not) (NP (JJ financial) (NN return)) (, ,)) (VP (VBP drive) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (NNS deals))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (DT a) (NNP Venture) (NNP Economics) (NN spokesman)) (. .)))
+
+(S1 (S (PP (IN In) (S (VP (VBG investing) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NP (JJ future) (NNS transactions)) (, ,) (VP (ADVP (NP (DT a) (NN role)) (RB often)) (VBN performed) (PP (IN by) (NP (NN merchant) (NNS banks))))))))))) (, ,) (NP (NN trading) (NNS companies)) (VP (MD can) (VP (VB cut) (PP (IN through) (NP (DT the) (NN logjam) (SBAR (IN that) (S (NP (JJ small-company) (NNS owners)) (ADVP (RB often)) (VP (VBP face) (PP (IN with) (NP (PRP$ their) (JJ local) (JJ commercial) (NNS banks)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the) (JJ classic) (NN problem)) (PP (IN of) (NP (DT the) (JJ small) (NN businessman))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Malcolm) (NNP Davies)) (, ,) (NP (NP (VBG managing) (NN director)) (PP (IN of) (NP (NNP Trading) (NNP Alliance) (NNP Corp.))) (PP (IN of) (NP (NNP New) (NNP York))))) (. .)))
+
+(S1 (FRAG (`` `) (S (`` `) (S (NP (NNS People)) (VP (VBP are) (VP (VBG queuing) (PP (IN at) (NP (DT the) (NN door))) (S (VP (TO to) (VP (VB take) (NP (PRP$ his) (NN product)))))))) (CC but) (S (NP (PRP he)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (NP (DT the) (VBG working) (NN capital)) (SBAR (S (VP (TO to) (VP (VB make) (NP (DT the) (NN thing)))))))))) (CC and) (S (NP (JJ commercial) (NNS banks)) (VP (VBP are) (ADJP (RB very) (JJ unsympathetic))))) (. .)))
+
+(S1 (S (S (NP (PRP They)) (VP (VBP want) (NP (NNS assets)))) (, ,) (S (NP (PRP they)) (VP (VBP want) (NP (NP (DT a) (NN balance) (NN sheet)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (DT no) (NN relation)) (PP (TO to) (NP (DT the) (NN business))) (SBAR (S (NP (DT a) (NN company)) (VP (MD can) (VP (VB generate)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (SINV (VP (VBZ Adds)) (NP (NP (NNP Mitsui) (POS 's)) (NNP Mr.) (NNP Klauser)) (: :) (`` `) (S (`` `) (PP (IN Unlike) (NP (NP (NNS corporations)) (PP (IN in) (NP (DT this) (NN country))))) (, ,) (NP (NN trading) (NNS companies)) (VP (VBP are) (RB n't) (ADVP (RB so) (RB much)) (ADJP (JJ interested) (PP (IN in) (NP (NP (DT a) (JJ high) (NN return)) (PP (IN on) (NP (NN investment)))))) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP are) (PP (IN on) (NP (VBG increasing) (NN trade) (NNS flows)))))))) (. .)))
+
+(S1 (S (PP (TO To) (NP (DT the) (NN extent) (SBAR (S (NP (PRP they)) (VP (MD can) (VP (VB do) (NP (DT this)))))))) (, ,) (NP (PRP they)) (VP (VBP 're) (ADJP (RB quite) (JJ content) (S (VP (TO to) (VP (VB get) (NP (NP (DT a) (NN return)) (PP (IN on) (NP (NP (NN investment)) (PP (IN of) (NP (QP (CD 1) (NN %) (TO to) (CD 2) (NN %)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Klauser)) (VP (VBZ says) (SBAR (S (NP (NNP Mitsui)) (VP (VBZ has) (NP (NP (CD 75) (NNP U.S.) (NNS subsidiaries)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (S (NP (PRP it)) (VP (VBZ holds) (NP (NP (ADJP (CD 35) (NN %)) (NN interest)) (QP (CC or) (JJR more))))) (CC and) (S (NP (DT the) (NN trading) (NN company)) (VP (VBZ hopes) (S (VP (TO to) (VP (VB double) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (PRP$ its) (NNP U.S.) (NNS affiliates)))) (PP (IN in) (NP (CD 1990))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Sales)) (PP (IN by) (NP (NP (DT these) (NNS subsidiaries)) (PP (IN in) (NP (NP (DT the) (JJ fiscal) (NN year)) (VP (VBG ending) (NP (JJ last) (NNP March)))))))) (VP (VBD were) (NP (QP (JJR more) (IN than) ($ $) (CD 17) (CD billion)))) (. .)))
+
+(S1 (S (NP (NP (DT A) (ADJP (QP (CD 1) (NN %) (TO to) (CD 2) (NN %))) (NN return)) (PP (IN on) (NP (QP ($ $) (CD 17) (CD billion))))) (`` `) (`` `) (S (VP (VBP ai) (RB n't) (NP (NNP hay)))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Klauser)) (VP (VBZ says)) (. .)))
+

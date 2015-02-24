@@ -1,0 +1,126 @@
+(S1 (S (NP (NP (JJ Few) (NNS people)) (PP (IN in) (NP (DT the) (NN advertising) (NN business)))) (VP (VBP have) (VP (VBD raised) (NP (NP (ADJP (RB as) (JJ many)) (NNS hackles)) (PP (IN as) (NP (NNP Alvin) (NNP A.) (NNP Achenbaum)))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ general) (NN public)) (VP (MD may) (RB not) (VP (VB know) (NP (PRP$ his) (NN name))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ 's) (ADJP (ADJP (ADJP (JJ famous)) (PRN (: --) (S (VP (VB make) (NP (DT that) (JJ infamous)))) (: --))) (PP (IN in) (NP (NN advertising) (NNS circles)))) (: :) (NP (NP (DT A) (NN marketing) (NN consultant)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD pioneered) (S (VP (VBG slashing) (NP (NN ad) (NN agency) (NNS commissions)))))) (, ,)) (PP (TO to) (NP (NP (DT the) (NN delight)) (PP (IN of) (NP (NP (NN advertising) (NNS clients)) (CC and) (NP (NP (DT the) (NN dismay)) (PP (IN of) (NP (NNS agencies))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (PP (IN after) (S (VP (VBG beating) (NP (PRP them))))) (, ,) (NP (NNP Mr.) (NNP Achenbaum)) (VP (VBZ is) (VP (VBG joining) (NP (PRP them)))) (. .)))
+
+(S1 (S (NP (NNP Backer) (NNP Spielvogel)) (NP (NNP Bates) (NNP Worldwide)) (VP (VBD named) (NP (NP (NP (NNP Mr.) (NNP Achenbaum)) (, ,) (NP (CD 62))) (, ,) (NP (NP (NN vice) (NN chairman)) (PP (IN of) (NP (JJ professional) (NNS services))))) (, ,) (S (VP (VBG reporting) (ADVP (RB directly)) (PP (TO to) (NP (NP (NNP Carl) (NNP Spielvogel)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ joins) (NP (NNP Nov.) (CD 13)) (, ,) (PP (VBG dissolving) (NP (NP (PRP$ his) (NN consulting) (NN firm)) (, ,) (NP (NNP Canter) (, ,) (NNP Achenbaum) (NNPS Associates))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNS years)) (ADJP (JJ past)))) (, ,) (NP (NP (DT the) (NN ad) (NN industry) (POS 's)) (JJS most) (JJ distinguished) (NNS executives)) (VP (VBD did) (RB n't) (VP (VB hesitate) (S (VP (TO to) (VP (VB excorciate) (NP (NNP Mr.) (NNP Achenbaum))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP have) (ADVP (RB since)) (VP (VBN mellowed) (, ,) (SBAR (IN although) (S (NP (CD one) (JJ senior) (NNP Young) (CC &) (NNP Rubicam) (JJ executive)) (, ,) (S (VP (VBG echoing) (NP (NNS others)))) (, ,) (VP (VBD said) (: :) (`` `) (S (`` `) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NN ad) (NNS agencies)) (VP (VBP owe) (NP (NP (NNP Carl)) (PRN (-LRB- -LCB-) (NP (NNP Spielvogel)) (-RRB- -RCB-)) (NP (NP (DT a) (NN vote)) (PP (IN of) (NP (NNS thanks))) (PP (IN for) (S (VP (VBG getting) (NP (PRP him)) (ADVP (RB out) (PP (IN of) (NP (DT the) (NN consulting) (NN business))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (NN industry) (NNS executives)) (ADVP (RB also)) (VP (VBP believe) (SBAR (S (NP (NN hiring) (NNP Mr.) (NNP Achenbaum)) (VP (VBZ is) (NP (NP (DT a) (JJ shrewd) (NN move)) (PP (IN for) (NP (NP (NNP Backer) (NNP Spielvogel)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Saatchi) (CC &) (NNP Saatchi))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Achenbaum)) (VP (VBZ has) (VP (VBN counted) (PP (IN among) (NP (PRP$ his) (NNS clients))) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ visible)) (JJ blue-chip) (NNS advertisers)) (PP (IN in) (NP (DT the) (NN country))) (, ,) (PP (VBG including) (NP (NNP Nissan) (, ,) (NNP Toyota) (, ,) (NNP Seagram) (CC and) (NNP Backer) (NNP Spielvogel) (NNS clients) (NNP Hyundai) (CC and) (NNP J.P.) (NNP Morgan)))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NNP Backer) (NNP Spielvogel))) (, ,) (NP (PRP he)) (VP (MD will) (VP (VB work) (PP (IN with) (NP (NP (NNS clients)) (CC and) (NP (JJ potential) (NNS clients)))) (PP (IN on) (NP (NN marketing) (NNS strategies))))) (: ;) (S (ADVP (RB aside) (PP (IN from) (NP (NN agency) (NN compensation) (NNS issues)))) (, ,) (NP (PRP he)) (VP (VBD helped) (S (NP (NNP Nissan)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (NP (PRP$ its) (NN positioning)) (CC and) (NP (NP (NN pricing)) (PP (IN for) (NP (PRP$ its) (JJ new) (NNP Infiniti) (NN line)))))))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN client) (NNS contacts)) (, ,) (ADVP (RB meanwhile)) (, ,) (VP (MD could) (VP (VB prove) (NP (DT a) (NN gold) (NN mine)) (PP (IN for) (NP (NP (DT an) (NN agency)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN had) (NP (NP (JJ few) (JJ new) (NN business) (NNS wins)) (PP (IN of) (NP (RB late)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done) (PP (IN over) (NP (NP (CD 40) (NN ad) (NN agency) (NNS searches)) (-LRB- -LCB-) (PP (IN for) (NP (NNS clients))) (-RRB- -RCB-)))))) (, ,) (IN so) (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT a) (ADJP (RB pretty) (JJ good)) (NN notion)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (NNS clients)) (VP (VBP are) (ADJP (JJ interested) (PP (IN in) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP look) (PP (IN for) (NP (DT an) (NN agency)))))))))))))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Achenbaum)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN consultant))) (, ,) (NP (PRP he)) (VP (VBZ has) (VP (VBN given) (NP (NP (NNS seminars)) (PP (IN at) (NP (NP (NNS agencies)) (PP (VBG including) (NP (NNP Ogilvy) (CC &) (NNP Mather)))))) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB win) (NP (JJ new) (NN business))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Spielvogel)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ hopes) (SBAR (S (NP (NNP Mr.) (NNP Achenbaum)) (VP (MD will) (VP (VB do) (NP (NP (DT some) (JJ strategic) (NN consulting)) (PP (IN at) (NP (DT the) (NN agency)))) (PP (IN for) (`` `) (NP (NP (`` `) (NNS non-clients) (, ,)) (PP (IN in) (NP (NNS hopes) (SBAR (IN that) (S (NP (PRP they)) (VP (VB become) (NP (NNS clients))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN At) (NP (NNP Backer) (NNP Spielvogel))) (, ,) (NP (NP (NNP Mr.) (NNP Spielvogel) (POS 's)) (NN hallmark)) (VP (VBZ has) (VP (VBN been) (NP (NP (JJ personal) (NN involvement)) (PP (IN with) (NP (DT all) (JJ major) (NNS clients)))))) (. .)))
+
+(S1 (S (NP (PRP He) (NNPS pampers)) (NP (PRP them)) (: ;) (S (NP (PRP he)) (VP (VBZ invites) (NP (PRP them)) (PP (TO to) (NP (JJ fabulous) (NNS parties))))) (: ;) (NP (PRP he)) (VP (NNS strokes) (NP (PRP them))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Achenbaum)) (, ,) (ADVP (RB too)) (, ,) (VP (VBZ delves) (PP (IN into) (NP (NP (PRP$ his) (NNS clients) (POS ')) (NN business)))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (NNP Carl)) (VP (VBZ has) (NP (NP (DT a) (ADJP (RB much) (JJR higher)) (NN degree)) (PP (IN of) (NP (NN intimacy)))) (PP (IN with) (NP (PRP$ his) (NNS clients))) (SBAR (IN than) (S (VP (VBZ is) (ADJP (JJ ordinary) (PP (IN for) (NP (DT an) (NN agency)))) (NP (PRP$ his) (NN size)))))) (. .)))
+
+(S1 (SINV (S (CC And) (PP (IN with) (NP (NP (NP (NP (NNP Al) (POS 's)) (NN record)) (PP (IN of) (S (VP (VBG being) (NP (DT a) (NN delver)))))) (CC and) (NP (DT a) (NN detail) (NN guy)))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB see) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (CD two)) (VP (VBP fit))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Alan) (NNP Gottesman)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP PaineWebber))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Achenbaum) (POS 's)) (NN move)) (VP (VBZ follows) (NP (NP (DT the) (NN announcement)) (NP (JJ last) (NN month)) (SBAR (IN that) (S (NP (NP (PRP$ his) (NN consulting) (NN partner)) (, ,) (NP (NP (NNP Stanley) (NNP Canter)) (, ,) (NP (CD 66))) (, ,)) (VP (MD would) (VP (VB retire))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN announcement)) (VP (VBD came) (PRT (RP out))))) (, ,) (`` `) (S (`` `) (NP (PRP I)) (VP (VP (VBD picked) (PRT (RP up)) (NP (DT the) (NN phone))) (CC and) (VP (VBD said) (, ,) (`` `) (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (RB n't) (NP (PRP you)) (VP (VB come) (PP (TO to) (NP (PRP us))))) (. ?) ('' ')) ('' ')))) ('' ') (NP (NNP Mr.) (NNP Spielvogel)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Achenbaum)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (VP (VBG considering) (S (VP (VP (VBG paring) (PRT (RP down)) (NP (PRP$ his) (NN firm))) (CC or) (VP (VBG merging) (NP (PRP it)) (PP (IN with) (NP (DT another) (JJ small) (VBG consulting) (NN outfit))))))))))) (, ,)) (ADVP (RB soon)) (VP (VBD agreed)) (. .)))
+
+(S1 (S (NP (DT The) (CD two) (NNS men)) (VP (VBP are) (NP (JJ longtime) (NNS friends) (CC and) (NN tennis) (NNS partners)) (, ,) (S (VP (VBG having) (VP (VBN met) (ADVP (NP (IN about) (CD 25) (NNS years)) (RB ago)))))) (. .)))
+
+(S1 (S (PP (IN Before) (S (VP (VBG becoming) (NP (DT a) (NN consultant)) (PP (IN in) (NP (CD 1974)))))) (, ,) (NP (NNP Mr.) (NNP Achenbaum)) (VP (VBD was) (NP (NP (DT a) (JJ senior) (NN executive)) (PP (IN at) (NP (NNP J.) (NNP Walter) (NNP Thompson) (NNP Co))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD spent) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ his) (NN career)))) (S (VP (VBG formulating) (NP (NN marketing) (NNS strategies))))) (, ,) (CC but) (VP (VBD became) (ADJP (JJ best-known) (PP (IN for) (S (VP (VBG chipping) (PRT (RP away)) (PP (IN at) (NP (NN ad) (NN agency))) (NP (NN compensation)))))))) (. .)))
+
+(S1 (S (S (NP (NN Ad) (NNS agencies)) (ADVP (RB typically)) (VP (VBN earned) (NP (DT a) (JJ straight) (ADJP (CD 15) (NN %)) (NN commission)))) (: ;) (S (SBAR (IN if) (S (NP (DT a) (NN client)) (VP (VBD spent) (NP (QP ($ $) (CD 100) (CD million))) (PP (IN on) (NP (NN TV) (NN time)))))) (, ,) (NP (DT the) (NN agency)) (VP (VBN made) (NP (QP ($ $) (CD 15) (CD million))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Mr.) (NNP Achenbaum)) (VP (VBD pioneered) (NP (NP (VBN negotiated) (NNS fees)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB often)) (VP (VBD worked) (PRT (RP out)) (PP (TO to) (NP (QP (JJR less) (IN than) (CD 15)) (NN %)))))))) (. .)))
+
+(S1 (S (ADVP (RBR More) (RB recently)) (, ,) (NP (PRP he)) (VP (VBD negotiated) (NP (NP (`` `) (ADJP (`` `) (JJ indemnification) ('' ')) ('' ') (NNS clauses)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT an) (NN ad) (NN agency)) (PP (IN in) (NP (DT some) (NNS cases)))) (VP (MD must) (VP (VB pay) (NP (DT a) (NN client)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ drops) (NP (DT the) (NN account))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB ultimately)) (VP (VBD became) (ADJP (ADJP (RB so) (JJ well-known) (PP (IN for) (S (VP (VBG cutting) (NP (NN compensation)))))) (PRN (, ,) (ADVP (RB however)) (, ,))) (SBAR (IN that) (S (NP (NNS clients)) (VP (VBD did) (RB n't) (VP (VB seek) (NP (PRP him)) (PP (IN out) (PP (IN for) (NP (NN anything) (RB else))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBD was) (ADJP (RB very) (JJ frustrated))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (NP (NP (`` `) (DT The) (NN fact)) (PP (IN of) (NP (DT the) (NN matter)))) (VP (VBZ is) (, ,) (S (NP (PRP I)) (VP (VBP am) (NP (DT a) (NN marketer))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT another) (NN reason)) (-LRB- -LCB-) (PP (IN for) (NP (DT the) (NNP Backer) (NNP Spielvogel) (NN job))) (-RRB- -RCB-))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD struck) (NP (PRP me)) (PP (IN as) (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB get) (ADVP (RB back) (PP (TO to) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP want) (S (VP (TO to) (VP (VB do)))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Spielvogel)) (VP (VBD added) (ADVP (RB pointedly)) (: :) (`` `) (S (`` `) (NP (NP (DT The) (NN pressure)) (PP (IN on) (NP (NNS commissions)))) (VP (VBD did) (RB n't) (VP (VB begin) (PP (IN with) (NP (NNP Al) (NNP Achenbaum))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Spielvogel)) (VP (VBD said) (SBAR (S (NP (NNP Mr.) (NNP Achenbaum)) (VP (MD will) (VP (VB work) (PP (IN with) (NP (NNS clients))) (S (VP (VP (TO to) (VP (VB determine) (NP (NP (DT the) (NN mix)) (PP (IN of) (NP (NN promotion) (, ,) (NN merchandising) (, ,) (NN publicity) (CC and) (JJ other) (NN marketing) (NNS outlets)))))) (, ,) (CC and) (VP (TO to) (VP (VB integrate) (NP (DT those) (NNS services))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (MD will) (VP (VB concentrate) (PP (IN on) (PRN (, ,) (PP (IN among) (NP (NNS others))) (, ,)) (NP (NP (NNP J.P.) (NNP Morgan)) (CC and) (NP (NNP Hyundai)))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Achenbaum)) (VP (VBD helped) (NP (NNP Morgan)) (PP (IN in) (NP (PRP$ its) (JJ recent) (NN agency) (NN search))))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBZ has) (NP (NP (DT a) (JJ long) (NN relationship)) (PP (IN with) (NP (NP (NNP Hyundai)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG having) (NP (JJ severe) (NNS troubles)) (, ,) (PP (VBG including) (NP (VBG declining) (NNS sales)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NP (DT The) (NN trail)) (PP (IN of) (NP (NN revenue)))) (VP (VBZ is) (ADVP (RB increasingly)) (VP (VP (VBG going) (ADVP (RB away) (PP (IN from) (NP (JJ pure) (NN advertising))))) (, ,) (CC and) (VP (VBG going) (PP (IN towards) (NP (JJ other) (NNS services)))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Spielvogel)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (RB Instead) (IN of) (S (VP (VBG being) (NP (RB just) (DT an) (NN ad) (NN agency))))) (, ,) (NP (PRP he)) (VP (VBD said) (: :) (`` `) (S (`` `) (NP (PRP We)) (VP (VBP have) (VP (VBN redefined) (NP (PRP$ our) (NN mission)) (ADVP (RB here)))))) (. .)))
+
+(S1 (S (NP (PRP$ Our) (NN mission)) (VP (VBZ is) (S (VP (VP (TO to) (VP (VB help) (S (NP (PRP$ our) (NNS clients)) (VP (VB grow))))) (, ,) (CC and) (VP (TO to) (VP (VB use) (NP (NP (DT every) (NN tool)) (PP (IN of) (NP (NN marketing) (NNS communications)))) (S (VP (TO to) (VP (VB accomplish) (NP (IN that)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NN Industry) (NNS executives)) (VP (VBP are) (VP (VBG wishing) (NP (NNP Mr.) (NNP Achenbaum)) (ADVP (RB well)))) (. .)))
+
+(S1 (S (NP (NP (NNP Leonard) (NNP Matthews)) (, ,) (NP (NP (NN then-president)) (PP (IN of) (NP (NP (DT the) (NNP American) (NNP Association)) (PP (IN of) (NP (NN Advertising) (NNS Agencies)))))) (, ,)) (VP (VBD called) (S (NP (NNP Mr.) (NNP Achenbaum) (NNP a)) (`` `) (ADJP (`` `) (JJ quisling) ('' ')) ('' ')) (PP (IN in) (NP (DT an) (JJ incendiary) (CD 1987) (NN speech)))) (. .)))
+
+(S1 (S (NP (NN Yesterday)) (, ,) (NP (NP (NNP Mr.) (NNP Matthews)) (, ,) (ADVP (RB now)) (NP (NP (DT a) (NN consultant)) (PP (IN with) (NP (DT the) (NAC (NNP Stamford) (, ,) (NNP Conn.) (, ,)) (NN firm) (NNP Matthews) (CC &) (NNP Johnston)))) (, ,)) (VP (VBD quipped) (, ,) (`` `) (S (`` `) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (MD 'll) (VP (VB be) (ADJP (RB very) (JJ good)) (PP (IN at) (NP (DT that) (-LRB- -LCB-) (JJ new) (NN job) (-RRB- -RCB-)))))))))) (. .)))
+
+(S1 (S (CC And) (ADVP (ADVP (RB much) (RBR better)) (PP (IN at) (NP (DT that))) (PP (IN than) (PP (IN at) (NP (-LRB- -LCB-) (NP (DT the) (NN price-cutting)) (-RRB- -RCB-))))) (NP (PRP he)) (VP (VBZ 's) (VP (VBN been) (VP (VBG doing) (ADVP (RB recently))))) (. .) ('' ') ('' ')))
+
+(S1 (NP (NP (NNP Cotton) (NNP Inc) (. .)) (NNP Campaign)))
+
+(S1 (S (NP (NP (NNP Cotton) (NNP Inc.)) (, ,) (NP (NP (DT the) (NN fiber) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (VBZ represents) (NP (NN cotton) (NNS growers)))))) (, ,)) (VP (MD will) (VP (VB begin) (NP (NP (DT a) (JJ new) (NN ad) (NN campaign)) (, ,) (VP (VBN developed) (PP (IN by) (NP (NP (NNP Ogilvy) (CC &) (NNP Mather)) (, ,) (NP (NNP Thanksgiving) (NNP Day)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP J.) (NNP Nicholas) (NNP Hahn)) (, ,) (NP (NP (NNP Cotton) (NNP Inc.) (POS 's)) (NN president) (CC and) (JJ chief) (NN executive)) (, ,)) (VP (VBD was) (NP (NP (DT an) (JJ outspoken) (NN critic)) (PP (IN of) (NP (NP (NP (NNP WPP) (NNP Group) (POS 's)) (NN acquisition)) (PP (IN of) (NP (NNP Ogilvy) (NNP Group))) (ADVP (RBR earlier) (NP (DT this) (NN year))))))) (. .)))
+
+(S1 (S (PP (IN During) (NP (DT the) (NN takeover))) (, ,) (NP (NNP Mr.) (NNP Hahn)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB put) (NP (PRP$ his) (NN account)) (PP (IN up) (PP (IN for) (NP (NN review)))) (SBAR (IN if) (S (S (NP (NP (NNP WPP) (POS 's)) (NN bid)) (VP (VBD were) (ADJP (JJ successful)))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD did) (RB n't)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Cotton) (NNP Inc.) (POS 's)) (JJ new) (ADJP (QP ($ $) (CD 9) (CD million))) (NN campaign)) (VP (VBZ calls) (S (VP (NN cotton) (NP (NP (DT the) (`` `) (`` `) (NN Fabric)) (PP (IN of) (NP (PRP$ Our) (NNS Lives))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN campaign)) (VP (VP (VBZ replaces) (NP (PRP$ its) (`` `) (S (`` `) (VP (VB Take) (NP (NN Comfort)) (PP (IN in) (NP (NNP Cotton) (POS '))))) ('' ') (NNS ads))) (CC and) (VP (VBZ marks) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (PRP$ its) (JJ national) (JJ cooperative) (NN advertising) (NNS efforts)))))) (. .)))
+
+(S1 (S (S (PP (IN For) (NP (NNS years))) (, ,) (NP (NP (DT the) (NN company) (POS 's)) (NNS ads)) (VP (VBD were) (VP (VBN tied) (PRT (RP in)) (PP (IN with) (NP (NP (NNS pitches)) (PP (IN for) (NP (NP (NNP Cannon) (NNS sheets)) (CC or) (NP (NNP Martex) (NNS towels)))))) (, ,) (PP (IN for) (NP (NN example)))))) (, ,) (CC and) (S (NP (NP (DT an) (NN announcer)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NNS ads)))))) (VP (MD would) (VP (VB tell) (NP (NNS customers)) (SBAR (WHADVP (WRB where)) (S (VP (TO to) (`` `) (VP (`` `) (VB find) (NP (DT the) (JJ true) (NN performance) (NN label))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN With) (NP (DT the) (JJ new) (NN TV) (NNS spots))) (, ,) (NP (NNP Ogilvy) (CC &) (NNP Mather)) (VP (VBZ has) (VP (VBD opted) (PP (IN for) (NP (NP (DT a) (NN family) (NN style)) (PP (IN with) (NP (NP (NP (NNS lots)) (PP (IN of) (NP (NN laughter)))) (, ,) (NP (NNS hugs)) (CC and) (NP (NNS tears)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 're) (VP (VBG making) (NP (NP (DT a) (ADJP (RB fairly) (JJ obvious)) (NN plea)) (PP (IN for) (NP (DT some) (JJ emotional) (NN reaction)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Tom) (NNP Rost)) (, ,) (NP (NP (JJ creative) (NN director)) (PP (IN at) (NP (NNP Ogilvy) (CC &) (NNP Mather))))) (. .)))
+
+(S1 (S (NP (NNP Cotton) (NNP Inc.)) (VP (MD will) (VP (VB spend) (NP (QP (RB nearly) ($ $) (CD 2) (CD million))) (PP (IN on) (NP (NN broadcasting))) (PP (IN on) (NP (NP (NNP Thanksgiving) (NNP Day)) (ADVP (RB alone)))) (, ,) (S (VP (VBG advertising) (PP (IN on) (NP (NP (JJ such) (NNS programs)) (PP (IN as) (NP (`` `) (NP (`` `) (NP (JJ Good) (NN Morning) (NNP America)) (, ,) ('' ')) ('' ') (`` `) (NP (`` `) (NP (NP (NNP Macy) (POS 's)) (NNP Thanksgiving) (NNP Day) (NNP Parade) (POS ')) ('' ') (CC and) (NP (DT the) (NNP NFL) (NN holiday) (NN game))))))))))) (. .)))
+
+(S1 (S (NP (NNP Frank) (NNP Mingo)) (VP (VBZ Dies) (PP (IN at) (NP (CD 49))))))
+
+(S1 (S (NP (NP (NNP Frank) (NNP L.) (NNP Mingo)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS pioneers)) (PP (IN of) (NP (NN advertising))))) (VP (VBN targeted) (PP (IN at) (NP (JJ black) (NNS audiences))))) (, ,)) (VP (VBD died) (PP (IN at) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (CD 49))))) (PP (IN after) (NP (DT a) (NN stroke)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Mingo)) (VP (VBD was) (NP (NP (JJ chief) (NN executive) (NN officer)) (PP (IN of) (NP (NP (DT the) (NNP Mingo) (NNP Group)) (, ,) (SBAR (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VBD founded) (PP (IN in) (NP (CD 1977)))))) (CC and) (SBAR (WHNP (WDT which)) (S (VP (VBD created) (NP (NP (NNS ads)) (PP (IN for) (NP (DT the) (JJ black) (NN market)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Clients)) (VP (VBP include) (NP (NP (NNP Miller) (NNP Brewing) (NNP Co.)) (CC and) (NP (NNP General) (NNP Motors)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Mingo)) (VP (VBD was) (VP (VP (VBN hospitalized) (NP (NNP Sept.) (CD 23))) (CC and) (VP (VBN died) (NP (NNP Monday))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNP Samuel) (NNP J.) (NNP Chisholm)) (, ,) (NP (NP (NP (DT the) (NN agency) (POS 's)) (NN president)) (CC and) (NP (NN chief) (VBG operating) (NN officer)))))))) (. .)))
+
+(S1 (NP (NP (NNP Ad) (NNPS Notes)) (NP (FW ..) (. .)) (. .)))
+
+(S1 (NP (NNS EARNINGS) (: :)))
+
+(S1 (S (NP (NP (NNP Omnicom) (NNP Group) (NNP Inc.)) (, ,) (NP (NNP New) (NNP York)) (, ,)) (VP (VBD reported) (SBAR (S (NP (JJ third-quarter) (JJ net) (NN income)) (VP (VBD rose) (NP (CD 54) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 5.6) (CD million))) (, ,) (CC or) (NP (NP (CD 22) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 3.6) (CD million))) (, ,) (CC or) (NP (NP (CD 15) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD increased) (NP (CD 20) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 246.6) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 204.8) (CD million))))) (. .)))
+

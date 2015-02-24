@@ -1,0 +1,10 @@
+(S1 (NP (NNS NEWSPAPERS) (: :)))
+
+(S1 (S (NP (NNP Media) (NNP General) (NNP Inc.)) (VP (VBZ intends) (S (VP (TO to) (VP (VB sell) (NP (NP (NP (CD two)) (PP (IN of) (NP (PRP$ its) (NNP West) (NNP Coast) (JJ weekly) (NN newspaper) (NNS chains)))) (, ,) (NP (NP (NNP Golden) (NNP West) (NNP Publishing) (NNP Inc.)) (CC and) (NP (NP (NNP Highlander) (NNP Publications)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB together)) (VP (VBP comprise) (NP (CD 31) (NNS papers)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Media) (NNP General)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VP (VBZ has) (VP (VBN had) (NP (NP (NNS inquiries)) (PP (IN from) (NP (JJ potential) (NNS buyers)))))) (CC and) (VP (VBZ expects) (S (VP (TO to) (VP (VB complete) (NP (NP (DT a) (NN sale)) (PP (IN in) (NP (CD 1989)))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD would) (RB n't) (VP (VB discuss) (NP (DT a) (NN price)))) (. .)))
+
+(S1 (S (NP (NNP Lee) (NNP Dirks) (CC &) (NNP Associates)) (VP (VBZ is) (S (VP (TO to) (VP (VB sell) (NP (DT the) (NNS chains)))))) (. .)))
+

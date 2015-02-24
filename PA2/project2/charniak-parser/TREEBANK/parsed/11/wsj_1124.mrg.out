@@ -1,0 +1,26 @@
+(S1 (S (NP (NP (NNP Wall) (NNP Street)) (NNS securities) (NN giant) (NNP Salomon) (NNP Inc.)) (VP (VBD posted) (NP (DT a) (JJ big) (, ,) (JJ unexpected) (NNS earnings) (NN gain)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (, ,) (S (VP (VBN buoyed) (PP (IN by) (NP (PRP$ its) (NX (NX (NNS securities) (NN trading)) (CC and) (NX (NN investment) (NN banking) (NNS activities)))))))) (. .)))
+
+(S1 (S (NP (NNP Salomon)) (VP (VBD said) (SBAR (S (NP (JJ net) (NN income)) (VP (VBD soared) (PP (TO to) (NP (NP (QP ($ $) (CD 177) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.28)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 65) (CD million))) (, ,) (CC or) (NP (NP (CD 38) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (ADVP (RBR more) (IN than)) (VBD doubled) (PP (TO to) (NP (QP ($ $) (CD 2.62) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 1.29) (CD billion))))) (. .)))
+
+(S1 (S (NP (DT A) (NNP Salomon) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ its) (NN stock) (, ,) (NN bond) (CC and) (JJ foreign) (NN exchange) (NN trading)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (PRP$ its) (NN investment) (NN banking) (NNS operations)) (, ,)) (VP (VBD were) (ADJP (RB mostly) (JJ responsible) (PP (IN for) (NP (DT the) (NNS earnings) (NN jump)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NNS earnings)) (VP (VBD were) (UCP (ADJP (JJ fine)) (CC and) (PP (IN above) (NP (NNS expectations))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Michael) (NNP W.) (NNP Blumstein)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN at) (NP (NNP First) (NNP Boston) (NNP Corp))))) (. .)))
+
+(S1 (S (ADVP (RB Nevertheless)) (, ,) (NP (NP (NNP Salomon) (POS 's)) (NN stock)) (VP (VBD fell) (NP ($ $) (CD 1.125)) (NP (NN yesterday)) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP (NP ($ $) (CD 23.25)) (NP (DT a) (NN share)))) (PP (IN in) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (PRP I)) (VP (VBP suspect) (SBAR (S (NP (NNP October)) (VP (VBD was) (RB n't) (ADJP (ADJP (RB as) (JJ good)) (PP (IN as) (NP (DT the) (JJ third) (NN quarter))))))))) (, ,) (CC and) (S (NP (PRP they)) (VP (MD 'll) (VP (VB have) (NP (NP (NN difficulty)) (VP (VBG matching) (NP (NP (DT the) (JJ third) (NN quarter)) (PP (IN in) (NP (DT the) (JJ fourth) (NN quarter))))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Blumstein)) (VP (VBD said)) (. .)))
+
+(S1 (S (CC But) (NP (DT some) (NNS analysts)) (VP (VBP say) (SBAR (S (NP (NNP Salomon)) (VP (VBZ has) (VP (VBD turned) (NP (DT the) (NN corner))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBD upgraded) (NP (DT the) (NN firm)) (PP (TO to) (NP (PRP$ my) (NN buy) (NN list))) (SBAR (IN because) (S (NP (PRP I)) (ADVP (RB certainly)) (VP (VBP see) (NP (NP (NNS signs)) (PP (IN of) (NP (NN improvement))))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Lawrence) (NNP Eckenfelder)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN at) (NP (NNP Prudential-Bache) (NNPS Securities))))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (DT The) (NN market)) (VP (VBZ has) (VP (VBN been) (ADJP (RB overly) (JJ harsh) (PP (TO to) (NP (PRP them))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBP say) (SBAR (S (NP (NNS investors)) (VP (VBP remain) (ADJP (JJ skittish) (PP (IN toward) (NP (NNP Salomon)))) (PP (IN because) (IN of) (NP (PRP$ its) (JJ volatile) (NNS earnings))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ first) (NN quarter))) (, ,) (NP (NNP Salomon)) (VP (VBD had) (NP (NP (DT a) (JJ record) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 28) (CD million)))) (PP (IN on) (NP (NP (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 1.54) (CD billion)))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (DT the) (JJ second) (NN quarter))) (, ,) (NP (NNP Salomon)) (VP (VBD posted) (NP (NP (DT a) (JJ record) (ADJP (QP ($ $) (CD 253) (CD million))) (NN net)) (PP (IN on) (NP (NP (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 2.33) (CD billion)))))))) (. .)))
+

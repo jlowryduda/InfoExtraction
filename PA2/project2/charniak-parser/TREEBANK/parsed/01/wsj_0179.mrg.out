@@ -1,0 +1,92 @@
+(S1 (S (NP (NN Junk-bond) (NNS markdowns)) (, ,) (NP (DT an) (JJ ongoing) (NP (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission)) (NN investigation)) (, ,) (NP (NP (DT a) (NNP Drexel) (NNP Burnham) (NNP Lambert) (NN connection)) (, ,) (NP (DT a))) (VP (VBD fizzled) (NP (JJ buy-out) (NN rumor))) (. .)))
+
+(S1 (S (NP (PDT All) (DT this)) (VP (VBZ has) (VP (VBN cast) (NP (DT a) (NN pall)) (PP (IN over) (NP (NP (NNP Columbia) (NNP Savings) (CC &) (NNP Loan) (NNP Association)) (CC and) (NP (NP (PRP$ its) (JJ high-rolling) (JJ 43-year-old) (NN chairman)) (, ,) (NP (NNP Thomas) (NNP Spiegel)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD built) (NP (NP (DT the) (ADJP (QP ($ $) (CD 12.7) (CD billion))) (NAC (NNP Beverly) (NNP Hills) (, ,) (NNP Calif.) (, ,)) (NN thrift)) (PP (IN with) (NP (JJ high-yield) (NN junk) (NNS bonds)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Bears)) (VP (VBP have) (VP (VBN targeted) (NP (NP (NP (NNP Columbia) (POS 's)) (NN stock)) (PP (IN because) (IN of) (NP (NP (NP (DT the) (NN thrift) (POS 's)) (NN exposure)) (PP (TO to) (NP (DT the) (JJ shaky) (NN junk) (NN market)))))))) (. .)))
+
+(S1 (S (CC And) (NP (DT some) (NNS investors)) (VP (NN fault) (SBAR (S (NP (NP (NP (NNP Mr.) (NNP Spiegel) (POS 's)) (NN life) (NN style)) (: ;) (NP (PRP he))) (VP (VBZ earns) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS dollars))) (NP (DT a) (NN year)))) (CC and) (VP (VBZ flies) (ADVP (RB around) (PP (IN in) (NP (NP (NNP Columbia) (POS 's)) (NN jet) (NNS planes)))))))) (. .)))
+
+(S1 (S (NP (NNP Columbia) (NN stock)) (ADVP (RB recently)) (VP (VBD hit) (NP (QP (CD 4) (CD 1\/8))) (, ,) (PP (IN after) (S (VP (VBG reaching) (NP (QP (CD 11) (CD 3\/4))) (NP (RBR earlier) (DT this) (NN year)) (PP (IN on) (NP (NNS rumors) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Spiegel)) (VP (MD would) (VP (VB take) (NP (DT the) (NN thrift)) (ADJP (JJ private)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (NN junk) (NNS professionals)) (VP (VBP think) (SBAR (S (NP (NP (NP (NNP Columbia) (POS 's)) (JJ huge) (JJ third-quarter) (NN markdown)) (PP (IN of) (NP (PRP$ its) (NN junk) (NN portfolio))) (PP (TO to) (NP (QP ($ $) (CD 4.4) (CD billion))))) (VP (VBD was) (RB n't) (ADJP (RB enough)) (, ,) (S (VP (NN meaning) (SBAR (S (NP (DT another) (NN markdown)) (VP (MD could) (VP (VB be) (VP (VBG coming)))))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (JJ recent) (NNS days))) (, ,) (NP (NNP Columbia)) (VP (VBZ has) (SBAR (S (VP (VBD edged) (ADVP (RB up)) (, ,) (S (VP (VBG closing) (PP (IN at) (NP (QP (CD 5) (CD 1\/4)))) (, ,) (ADVP (RB up) (NP (CD 3\/8))) (, ,) (PP (NP (NN yesterday)) (IN on) (NP (VBN revived) (NN speculation) (SBAR (IN that) (S (NP (DT the) (NN thrift)) (VP (MD might) (VP (VB restructure))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Spiegel) (POS 's)) (NNS fans)) (VP (VBP say) (SBAR (S (S (NP (NP (NNP Columbia) (POS 's)) (NNP Southern) (NNP California) (NNS branches)) (VP (VBP are) (ADJP (RB highly) (JJ salable)))) (, ,) (CC and) (S (NP (DT the) (NN thrift)) (VP (VBZ has) (NP (NP (QP ($ $) (CD 458) (CD million))) (PP (IN of) (NP (NNS shareholders)))) (NP (NP (NN equity)) (VP (VBG underlying) (NP (PRP$ its) (NNS assets))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NP (QP (RB almost) ($ $) (CD 10))) (PP (IN of) (NP (NN equity)))) (PP (IN for) (NP (DT each) (NNP Columbia) (NN share))) (, ,) (PP (VBG including) (NP (JJ convertible) (JJ preferred) (NNS shares)))) (, ,) (SBAR (IN though) (S (NP (JJR more) (NN junk) (NNS markdowns)) (VP (MD would) (VP (VB reduce) (NP (DT the) (NN cushion))))))) (. .)))
+
+(S1 (S (NP (NNP Columbia)) (VP (VBZ has) (NP (NP (QP (RB only) (IN about) (CD 10) (CD million)) (JJ common) (NNS shares)) (PP (IN in) (NP (JJ public) (NNS hands))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Spiegel) (NN family)) (VP (VBZ has) (NP (NP (NP (CD 25) (NN %)) (PP (IN of) (NP (DT the) (JJ common)))) (CC and) (NP (NP (CD 75) (NN %)) (PP (IN of) (NP (DT the) (NNS votes)))))) (. .)))
+
+(S1 (S (NP (JJ Other) (JJ big) (JJ common) (NNS holders)) (VP (VBP are) (NP (NP (NP (NNP Carl) (NNP Lindner) (POS 's)) (NNP American) (NNP Financial)) (, ,) (NP (NN investor) (NNP Irwin) (NNP Jacobs)) (CC and) (NP (NNP Pacific) (NNP Financial) (NNP Research))) (, ,) (SBAR (IN though) (S (NP (DT the) (JJ latter)) (VP (VBD cut) (NP (PRP$ its) (NN stake)) (NP (DT this) (NN summer)))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (JJ many) (NNS problems)) (VP (MD would) (VP (VB attend) (NP (NP (DT a) (NN restructuring)) (PP (IN of) (NP (NNP Columbia)))))))) (, ,) (NP (NNS investors)) (VP (VBP say) (SBAR (S (NP (NNP Mr.) (NNP Spiegel)) (VP (VBZ is) (VP (VBG mulling) (NP (PDT such) (DT a) (NN plan) (S (VP (TO to) (VP (VB mitigate) (NP (NP (NNP Columbia) (POS 's)) (NN junk) (NNS problems))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (NNP Columbia) (NNS executives)) (ADVP (RB recently)) (VP (VBD told) (NP (NNS reporters)) (SBAR (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG creating) (NP (NP (DT a) (JJ separate) (NN unit)) (SBAR (S (VP (TO to) (VP (VP (VB hold) (NP (NP (NNP Columbia) (POS 's)) (NN junk) (NNS bonds))) (CC and) (VP (ADVP (RB perhaps)) (VB do) (NP (NN merchant) (NN banking)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Columbia)) (VP (MD wo) (RB n't) (VP (VB comment) (PP (IN on) (NP (PDT all) (DT the) (NN speculation))))) (. .)))
+
+(S1 (S (CC But) (PP (IN like) (NP (JJ other) (NNS thrifts))) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBN expected) (S (VP (TO to) (VP (VB seek) (NP (NP (NNS regulators) (POS ')) (NN consent)) (SBAR (S (VP (TO to) (VP (VB create) (NP (DT a) (JJ distinct) (NN junk-bond) (NN entity))))))))))) (. .)))
+
+(S1 (S (NP (NNS Plans) (S (VP (TO to) (VP (VB do) (NP (DT this)))))) (VP (VBP are) (ADJP (JJ due) (S (VP (TO to) (VP (VB be) (VP (VBN filed) (PRT (RP in)) (NP (DT a) (NN week) (QP (CC or) (RB so))))))))) (. .)))
+
+(S1 (S (NP (JJ New) (NNS rules)) (VP (VBP force) (S (NP (NNS thrifts)) (VP (TO to) (VP (VP (VB write) (PRT (RP down)) (NP (PRP$ their) (NN junk)) (PP (TO to) (NP (NN market) (NN value)))) (, ,) (RB then) (VP (VB sell) (NP (DT the) (NNS bonds)) (PP (IN over) (NP (CD five) (NNS years)))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (NNP Columbia)) (VP (RB just) (VP (VBD wrote) (NP (NP (QP (RB off) ($ $) (CD 130) (CD million))) (PP (IN of) (NP (PRP$ its) (NN junk)))) (CC and) (VP (VBN reserved) (NP (QP ($ $) (CD 227) (CD million))) (PP (IN for) (NP (JJ future) (NN junk) (NNS losses))))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN if) (S (NP (NNP Columbia)) (VP (MD could) (VP (VB keep) (NP (NP (PRP$ its) (NN junk) (NNS bonds)) (PP (JJ separate) (IN from) (NP (DT the) (NN thrift)))) (SBAR (IN till) (S (NP (PRP they)) (VP (VBP mature)))))))) (PRN (: --) (PP (IN at) (NP (NP (JJ full) (NN value)) (, ,) (SBAR (IN unless) (S (NP (DT the) (NN issuer)) (VP (VP (VBZ goes) (NP (NN bust))) (CC or) (VP (VBZ restructures))))))) (: --)) (NP (DT the) (NN junk) (NN portfolio)) (VP (MD might) (VP (VB do) (ADJP (RB all) (JJ right)))) (. .)))
+
+(S1 (S (NP (NP (NNP Columbia)) (, ,) (NP (DT a) (JJ longtime) (NNP Drexel) (NN client)) (, ,)) (VP (MD wo) (RB n't) (VP (VB provide) (NP (NP (JJ current) (NN data)) (PP (IN on) (NP (PRP$ its) (NN junk)))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (PRP$ its) (CD 17) (JJ big) (NN junk) (NNS holdings)) (PP (IN at) (NP (NN year) (NN end)))) (VP (VBD showed) (NP (NP (QP (RB only) (DT a) (JJ few)) (NNS bonds)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN been) (ADVP (RB really)) (VP (VBN battered)))))))) (. .)))
+
+(S1 (S (NP (DT These)) (VP (VBD were) (SBAR (NP (NP (NNP Allied) (NNP Stores)) (, ,) (NP (NNP Western) (NNP Union)) (NP (NNP Telegraph)) (, ,) (NP (NNP Gillett) (NNP Holdings)) (, ,) (NP (NP (NNP SCI) (NNP Television)) (CC and) (NP (NNP Texas) (NNP Air))) (, ,)) (IN though) (S (NP (NP (ADJP (JJ many) (JJ other)) (NNS bonds)) (PP (IN in) (NP (NP (NNP Columbia) (POS 's)) (NN portfolio)))) (ADVP (RB also)) (VP (VBP have) (VP (VBN lost) (NP (NN value))))))) (. .)))
+
+(S1 (S (VP (ADVP (RB Possibly)) (VBG offsetting) (SBAR (WHNP (IN that)) (, ,) (S (NP (NNP Columbia)) (ADVP (RB recently)) (VP (VBD estimated) (SBAR (S (NP (PRP it)) (VP (VBZ has) (NP (NP (JJ unrealized) (NNS gains)) (PP (IN on) (NP (ADJP (RB publicly) (VBN traded)) (NN equity)))) (NP (NP (NNS investments)) (PP (IN of) (NP (QP (JJR more) (IN than) ($ $) (CD 70) (CD million)))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ hopes) (PP (IN for) (NP (NP (JJ ultimate) (NNS gains)) (PP (IN of) (NP (NP (QP (RB as) (JJ much) (IN as) ($ $) (CD 300) (CD million))) (PP (IN on) (NP (NP (NN equity) (NNS investments)) (PP (IN in) (NP (NP (NNS buy-outs)) (CC and) (NP (NNS restructurings))))))))))) (. .)))
+
+(S1 (S (NP (CD One) (NN trial) (NN balloon)) (NP (NNP Mr.) (NNP Spiegel)) (VP (VBZ is) (VP (VP (VBD said) (S (VP (TO to) (VP (VB have) (VP (VBD floated) (PP (TO to) (NP (NNS investors)))))))) (: :) (SBAR (S (NP (NNP Columbia)) (VP (MD might) (VP (VB be) (VP (VBN broken) (PRT (RP up))) (, ,) (SBAR (IN as) (S (NP (NNP Mellon) (NNP Bank)) (VP (VBD was) (VP (VBN split) (PP (IN into) (NP (NP (DT a) (JJ good) (NN bank)) (CC and) (NP (DT a) (JJ bad) (NN bank)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Columbia) (POS 's)) (JJ good) (NN bank)) (VP (MD would) (VP (VB be) (NP (DT a) (JJ regulated) (NN thrift)) (, ,) (SBAR (IN while) (S (NP (DT the) (JJ bad) (NN bank)) (VP (MD would) (VP (VB be) (NP (DT a) (JJ private) (NN investment) (NN company)) (, ,) (S (VP (VBG holding) (NP (NP (DT some)) (PP (IN of) (NP (NP (NP (NNP Columbia) (POS 's)) (NN junk) (NNS bonds)) (, ,) (NP (JJ real) (NN estate)) (CC and) (NP (NN equity) (NNS investments))))))))))))) (. .)))
+
+(S1 (S (NP (DT Some)) (VP (VBP think) (SBAR (S (NP (NP (NP (NNP Columbia) (POS 's)) (NN thrift)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB now)) (VP (VBZ is) (VP (VBG seeking) (NP (DT a) (JJ new) (NN chief) (NN operating) (NN officer)))))) (, ,)) (VP (MD might) (VP (VB be) (VP (VBN capitalized) (PP (IN at))) (, ,) (VP (VB say) (NP (QP ($ $) (CD 300) (CD million)))) (, ,) (CC and) (VP (VBN shopped) (PP (TO to) (NP (NP (DT a) (JJ commercial) (NN bank)) (SBAR (WHNP (WDT that)) (S (VP (VBZ wants) (NP (DT a) (NNP California) (NN presence))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN thrift)) (ADVP (RB surely)) (VP (MD could) (VP (VB be) (VP (VBN sold) (PP (IN for) (NP (NP (JJR more)) (PP (IN than) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (NP (PRP$ its) (NN equity)) (, ,) (SBAR (S (NP (JJ financial) (NN industry) (NNS executives)) (VP (VBP say))))))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (DT the) (JJ bad) (NN bank)) (PP (IN with) (NP (NP (NP (DT the) (NN junk)) (NP (NNS bonds))) (: --) (CC and) (NP (DT some) (NN capital)) (: --)))) (VP (MD might) (VP (VB be) (VP (VBN spun) (PRT (RP off)) (PP (TO to) (NP (NP (NP (NNP Columbia) (NNS shareholders)) (, ,) (PP (VBG including) (NP (NNP Mr.) (NNP Spiegel)))) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD might) (ADVP (RB then)) (VP (VB have) (NP (DT a) (JJ new) (NN career)))))))))))) (, ,) (NP (NNS investors)) (VP (VBP say)) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (RB n't) (ADJP (JJ clear)) (SBAR (WHNP (WRB how) (RB much)) (S (NP (DT a) (VBG restructuring)) (VP (MD would) (VP (VB help) (NP (NNP Columbia) (NNS stockholders))))))) (. .)))
+
+(S1 (S (CC But) (NP (`` `) (NP (`` `) (DT the) (NN concept))) (VP (VBZ is) (VP (JJ workable))) (. .)))
+
+(S1 (SINV (S (NP (PRP You)) (VP (VP (VB sell) (NP (DT the) (JJ good) (NN bank)) (PP (IN as) (NP (DT an) (JJ ongoing) (NN operation)))) (CC and) (VP (VB use) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS proceeds)))) (S (VP (TO to) (VP (VB capitalize) (NP (DT the) (JJ bad) (NN bank)))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NN thrift) (NN specialist) (NNP Lewis) (NNP Ranieri)) (PP (IN of) (NP (NP (NP (NNP Ranieri)) (NNPS Associates)) (PP (IN in) (NP (NNP New) (NNP York)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Spiegel) (POS 's)) (JJ next) (NN career) (NN move)) (VP (VBZ is) (NP (NP (DT a) (NN subject)) (PP (IN of) (NP (NP (NN speculation)) (PP (IN on) (NP (NNP Wall) (NNP Street))))))) (. .)))
+
+(S1 (S (NP (JJ Few) (NNS people)) (VP (VBP think) (SBAR (S (NP (NNP Mr.) (NNP Spiegel)) (VP (VBZ wants) (S (VP (TO to) (VP (VB run) (S (NP (NP (DT a) (JJ bread-and-butter) (NN thrift)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (JJ current) (NNS rules)) (VP (MD would) (VP (VB force) (NP (NNP Columbia))))))) (VP (TO to) (VP (VB become))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP They)) (VP (VBP are) (RB n't) (ADVP (RB really)) (NP (DT a) (NN thrift))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Jonathan) (NNP Gray)) (, ,) (NP (DT a) (NNP Sanford) (NNP C.) (NNP Bernstein) (NN analyst))) (. .)))
+
+(S1 (S (PP (IN Of) (NP (NN course))) (, ,) (NP (NNS regulators)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB approve) (NP (NP (NNP Columbia) (POS 's)) (NN reorganization))))))) (. .)))
+
+(S1 (S (CC And) (NP (DT some) (NN investment) (NNS bankers)) (VP (VBP say) (SBAR (S (NP (DT a) (NN restructuring)) (VP (VBZ is) (RB n't) (ADJP (JJ feasible)) (SBAR (IN while) (S (NP (DT the) (NNP SEC)) (ADVP (RB still)) (VP (VBZ is) (VP (VBG scrutinizing) (NP (NP (NNP Mr.) (NNP Spiegel) (POS 's)) (JJ past) (JJ junk-bond) (NNS trades)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Pauline) (NNP Yoshihashi)) (PP (IN in) (NP (NNP Los) (NNP Angeles)))) (VP (VBD contributed) (PP (TO to) (NP (DT this) (NN article)))) (. .)))
+
+(S1 (NP (NP (NNP Columbia) (NNP Savings) (CC &) (NNP Loan)) (PRN (-LRB- -LRB-) (NP (NNP NYSE)) (: ;) (NP (NP (NN Symbol)) (: :) (NP (NNP CSV))) (-RRB- -RRB-))))
+
+(S1 (NP (NP (NN Business)) (: :) (NP (NNS Savings) (CC and) (NN loan))))
+
+(S1 (NP (NP (NN Year)) (VP (VBN ended) (NP (NNP Dec.) (CD 31) (, ,) (CD 1988))) (: :) (NP (JJ Net) (NN income)) (: :) (NP (QP ($ $) (CD 65) (CD million))) (: ;) (CC or) (NP (NP ($ $) (CD 1.49)) (NP (DT a) (NN share)))))
+
+(S1 (FRAG (NP (NP (JJ Third) (NN quarter)) (, ,) (NP (NNP Sept.) (CD 30) (, ,) (CD 1989))) (: :) (NP (NP (NP (NP (JJ Net) (NN loss)) (: :) (NP (NP ($ $) (CD 11.57)) (NP (DT a) (NN share)))) (PP (CC vs.) (NP (JJ net) (NN income)))) (: :) (NP (NP (CD 37) (NNS cents)) (NP (DT a) (NN share))))))
+
+(S1 (NP (NP (JJ Average) (JJ daily) (NN trading) (NN volume)) (: :) (NP (CD 83,206) (NNS shares))))
+
+(S1 (NP (NP (NP (JJ Common) (NNS shares)) (ADJP (JJ outstanding))) (: :) (NP (QP (CD 19.6) (CD million)))))
+
+(S1 (FRAG (NP (NN Note)) (: :) (S (NP (DT All) (JJ per-share) (NNS figures)) (VP (VBP are) (VP (ADVP (RB fully)) (VBN diluted)))) (. .)))
+

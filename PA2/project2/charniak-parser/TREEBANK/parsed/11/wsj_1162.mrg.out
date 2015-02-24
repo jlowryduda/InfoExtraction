@@ -1,0 +1,100 @@
+(S1 (S (NP (NNS People)) (VP (VBP start) (NP (PRP$ their) (JJ own) (NNS businesses)) (PP (IN for) (NP (JJ many) (NNS reasons)))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT a) (NN chance)) (SBAR (S (VP (TO to) (VP (VB fill) (PRT (RP out)) (NP (NN sales-tax) (NNS records))))))) (VP (VBZ is) (ADVP (RB rarely)) (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))) (. .)))
+
+(S1 (S (NP (JJ Red) (NN tape)) (VP (VBZ is) (NP (NP (DT the) (NN bugaboo)) (PP (IN of) (NP (JJ small) (NN business))))) (. .)))
+
+(S1 (S (ADVP (RB Ironically)) (, ,) (NP (NP (DT the) (NN person)) (SBAR (WHNP (WP who)) (S (VP (VBZ wants) (S (VP (TO to) (VP (VB run) (NP (PRP$ his) (CC or) (PRP$ her) (JJ own) (NN business))))))))) (VP (VBZ is) (ADVP (RB probably)) (NP (NP (DT the) (JJ active) (, ,) (JJ results-oriented) (NN sort)) (ADJP (RBS most) (JJ likely) (S (VP (TO to) (VP (VBP hate) (VP (VBG meeting) (NP (NP (DT the) (NNS rules) (CC and) (JJ record-keeping) (NNS demands)) (PP (IN of) (NP (UCP (JJ federal) (, ,) (NN state) (CC and) (JJ local)) (NNS regulators))))))))))) (. .)))
+
+(S1 (S (CC Yet) (NP (DT every) (NN business) (NN owner)) (VP (VP (VBZ has) (S (VP (TO to) (VP (VB face) (NP (NP (DT the) (NN mound)) (PP (IN of) (NP (NNS forms) (CC and) (NNS regulations)))))))) (: --) (CC and) (VP (ADVP (RB often)) (VBZ is) (NP (NP (DT the) (JJ only) (CD one)) (ADJP (JJ available) (S (VP (TO to) (VP (VB tackle) (NP (PRP it))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN hope)) (PP (IN of) (NP (NN change))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN week)) (, ,) (NP (NP (NNP Sen.) (NNP Malcolm) (NNP Wallop)) (PRN (-LRB- -LRB-) (NP (NP (NNP R.)) (, ,) (NP (NNP Wyo) (. .))) (-RRB- -RRB-))) (VP (VBD held) (NP (NP (NNS hearings)) (PP (IN on) (NP (DT a) (NN bill) (S (VP (TO to) (VP (VB strengthen) (NP (NP (DT an) (VBG existing) (NN law)) (VP (VBN designed) (S (VP (TO to) (VP (VB reduce) (NP (NP (JJ regulatory) (NNS hassles)) (PP (IN for) (NP (JJ small) (NNS businesses)))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT A) (JJ great) (JJ many) (JJ federal) (NNS regulations)) (VP (VP (VBP are) (VP (VBN meant) (PP (IN for) (NP (JJR larger) (NNS entities))))) (CC and) (VP (VBP do) (RB n't) (ADVP (RB really)) (VP (VB apply) (PP (TO to) (NP (JJ small) (NNS businesses)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Marian) (NNP Jacob)) (, ,) (NP (NP (DT a) (JJ legislative) (NN aide)) (PP (TO to) (NP (NNP Sen.) (NNP Wallop))))) (. .)))
+
+(S1 (S (NP (JJ Other) (NNS lawmakers)) (VP (VBP are) (ADJP (JJ busy) (S (VP (VBG trying) (S (VP (TO to) (VP (VB revive) (NP (NP (DT the) (ADJP (RB recently) (JJ lapsed)) (NN Paperwork) (NNP Reduction) (NNP Act)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (JJ many)) (VP (VBP feel) (VP (VBN benefited) (S (NP (JJ small) (NNS enterprises))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Thus)) (, ,) (NP (JJ optimistic) (NNS entrepreneurs)) (VP (VBP await) (NP (NP (DT a) (VBN promised) (NN land)) (PP (IN of) (NP (JJR less) (JJ red) (NN tape)))) (PRN (: --) (ADVP (RB just)) (ADVP (ADVP (RB as) (RB soon)) (SBAR (IN as) (S (NP (NNP Uncle) (NNP Sam)) (VP (VBZ gets) (PRT (RP around)) (PP (TO to) (S (VP (VBG arranging) (NP (PRP it))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (PRP they)) (VP (VP (VB tackle) (NP (NP (DT the) (NNS mounds)) (PP (IN of) (NP (NN paper))))) (: --) (CC and) (VP (VB fantasize) (PP (IN about) (NP (NP (DT a) (NN dream) (NN world)) (SBAR (WHADVP (WRB where)) (S (NP (JJ bulk-mail) (NX (NX (JJ postal) (NNS regulations)) (CC and) (NX (NN government) (NNS inspectors)))) (VP (VBP are) (VP (VBN banished))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB find) (PRT (RP out)) (SBAR (WHNP (WP what)) (S (NP (JJ red) (NN tape)) (VP (VBZ riles) (NP (NP (NNS entrepreneurs)) (JJS most)))))))) (, ,) (NP (DT the) (NNP Journal)) (VP (VBD asked) (NP (NP (DT a) (ADJP (RB completely) (JJ unscientific)) (, ,) (JJ random) (NN sample)) (PP (IN of) (NP (NN business) (NNS owners)))) (S (VP (TO to) (VP (VB fantasize) (PP (IN about) (NP (NP (DT the) (NNS forms) (CC and) (NNS regulations)) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (ADVP (RBS most)) (VB like) (S (VP (TO to) (VP (VB get) (VP (VBN lost) (PP (IN in) (NP (DT the) (NN mail))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS entrepreneurs)) (VP (VBP say) (NP (NP (DT the) (JJ red) (NN tape)) (SBAR (S (NP (PRP they)) (VP (ADVP (RBS most)) (VBP love) (SBAR (S (TO to) (VP (VBP hate) (SBAR (S (VP (VBZ is) (NP (NP (JJ red) (NN tape)) (SBAR (S (NP (PRP they)) (VP (MD would) (ADVP (RB also)) (VP (VBP hate) (S (VP (TO to) (VP (VB lose)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP concede) (SBAR (IN that) (S (NP (NP (JJ much)) (PP (IN of) (S (NP (DT the) (NN government)) (VP (VBG meddling) (SBAR (DT that) (S (VP (VBZ torments) (NP (PRP them))))))))) (VP (VBZ is) (ADJP (JJ essential) (PP (PP (TO to) (NP (DT the) (JJ public) (NN good))) (, ,) (CC and) (RB even) (PP (TO to) (NP (PRP$ their) (JJ own) (NNS businesses))))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (NP (NNS Rules)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP set) (NP (NP (NNS standards)) (PP (IN for) (NP (NNS products))))) (CC or) (VP (VB govern) (NP (NN business) (NN behavior))))))) (, ,) (NP (NP (RB generally) (DT the) (ADJP (JJS best) (JJ regarded)) (NN form)) (PP (IN of) (NP (JJ red) (NN tape)))) (, ,)) (`` `) (VP (`` `) (VP (VB create) (NP (DT a) (NN level) (NN playing) (NN field))) (CC and) (VP (VB keep) (NP (JJ unscrupulous) (NNS competitors)) (ADVP (RB away))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Sidney) (NNP West)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP TechDesign) (NNP International) (NNP Inc.)) (, ,) (NP (NP (DT a) (NAC (NNP Springfield) (, ,) (NNP Va.) (, ,)) (NN business)) (SBAR (WHNP (WDT that)) (S (VP (VBZ designs) (NP (UCP (NN telecommunication) (CC and) (JJ other)) (NNS products)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP West)) (VP (VBZ cites) (NP (NP (DT the) (NNP Federal) (NNP Communications) (NNP Commission)) (CC and) (NP (PRP$ its) (NNS standards))) (PP (IN for) (NP (NN telecommunications) (NN equipment))) (: :) (`` `) (S (`` `) (NP (PRP They)) (VP (VP (VBP monitor) (NP (NN product) (NN quality))) (CC and) (VP (VB prevent) (NP (NN junk)) (PP (IN from) (S (VP (VBG flooding) (NP (DT the) (NN market))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (NP (DT Some) (NNS gripes)) (PP (IN about) (NP (JJ red) (NN tape)))) (VP (VBP are) (ADJP (JJ predictable)))) (: :) (S (NP (NNPS Architects)) (VP (VBP complain) (PP (IN about) (NP (NP (DT a) (NN host)) (PP (IN of) (NP (NN building) (NNS regulations) (, ,) (NN auto) (NN leasing) (NNS companies))))) (PP (IN about) (NP (NN car) (NN insurance) (NNS rules))))) (. .)))
+
+(S1 (SINV (S (VP (VBG Determining) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNS handicapped)) (SBAR (S (NP (NN access)) (VP (VBZ is) (VP (VBN required)))))) (VP (MD can) (VP (VB be) (NP (NP (DT a) (NN nightmare)) (PP (IN for) (NP (NNS architects)))))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Mark) (NNP Dooling)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Dooling) (CC &) (NNP Co.)) (, ,) (NP (DT a) (NAC (NNP Newton) (, ,) (NNP Mass.) (, ,)) (JJ architectural) (NN firm)))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (PDT such) (DT a) (NN maze)) (PP (IN of) (NP (UCP (JJ federal) (, ,) (NN state) (CC and) (JJ local)) (NNS codes))) (SBAR (IN that) (S (`` `) (S (`` `) (NP (NN building) (NNS inspectors)) (VP (VBP are) (VP (VBG backing) (ADVP (RB away) (PP (IN from) (S (VP (VBG interpreting) (NP (PRP them)))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Dooling)) (VP (VBZ says)))))) (. .)))
+
+(S1 (S (NP (NP (NN Taxi) (, ,) (NN leasing) (CC and) (JJ other) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP maintain) (NP (NP (NNS fleets)) (PP (IN of) (NP (NNS vehicles)))))))) (VP (VBP devote) (NP (JJ substantial) (NNS resources)) (PP (TO to) (S (VP (VBG complying) (PP (IN with) (NP (NP (NN state) (NN insurance) (NNS laws)) (CC and) (NP (NP (DT a) (NN host)) (PP (IN of) (NP (NNS agencies)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADJP (RB very) (JJ costly) (CC and) (JJ time-consuming))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Phil) (NNP Rosen)) (, ,) (NP (NP (DT a) (NN partner)) (PP (IN in) (NP (NP (NNP Fleet) (CC &) (NNP Leasing) (NNP Management) (NNP Inc.)) (, ,) (NP (DT a) (NNP Boston) (NN car-leasing) (NN company)))))) (. .)))
+
+(S1 (S (S (NP (NP (CD One) (JJ senior) (NN executive)) (PP (IN at) (NP (PRP$ his) (NN firm)))) (VP (VBZ spends) (NP (NP (QP (RB nearly) (CD 20)) (NN %)) (PP (IN of) (NP (PRP$ his) (NN time)))) (PP (IN on) (NP (NN insurance))))) (, ,) (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NP (JJ Other) (NNS forms)) (PP (IN of) (NP (JJ red) (NN tape)))) (VP (VBP are) (ADJP (RBR more) (JJ pervasive))) (. .)))
+
+(S1 (S (NP (DT The) (RBS most) (JJ onerous)) (PRN (, ,) (S (NP (JJ many) (NNS entrepreneurs)) (VP (VBP say))) (, ,)) (VP (VBZ is) (NP (NP (DT the) (ADJP (JJ record-keeping) (CC and) (VBG filing))) (VP (VBN required) (PP (IN by) (NP (NN tax) (NNS authorities)))))) (. .)))
+
+(S1 (S (S (VP (VBG Complying) (PP (IN with) (NP (UCP (JJ environmental) (CC and) (NN workplace)) (NNS regulations))))) (VP (VBZ runs) (NP (DT a) (JJ close) (NN second))) (. .)))
+
+(S1 (S (CC But) (NP (NNS gripes)) (VP (VBP run) (NP (DT the) (NN gamut))) (. .)))
+
+(S1 (SINV (ADVP (RB Here)) (VP (VBZ is)) (NP (NP (DT the) (JJ red) (NN tape)) (SBAR (WHNP (WDT that)) (S (VP (VBZ irks) (VP (VBN surveyed) (NP (NN business) (NNS owners)) (NP (DT the) (JJS most))))))) (: :)))
+
+(S1 (NP (NNP ENVIRONMENTAL) (NNS REGULATIONS) (: :)))
+
+(S1 (S (ADVP (JJ Next) (PP (TO to) (NP (JJ medical) (NN insurance)))) (, ,) (`` `) (NP (`` `) (NP (NNS costs)) (PP (IN of) (NP (NN compliance) (POS '))) ('' ')) (VP (VBP are) (NP (NP (DT the) (JJS fastest-growing) (NN expense)) (PP (IN at) (NP (NP (NNP Impco) (NNP Inc.)) (, ,) (NP (DT a) (NAC (NNP Providence) (, ,) (NNP R.I.) (, ,)) (NN chemical) (NN company)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Peter) (NNP Gebhard)) (, ,) (NP (NP (DT the) (NN company) (POS 's)) (NN owner)) (, ,)) (VP (VBZ says) (SBAR (S (NP (NP (NN spending)) (PP (IN on) (NP (NP (JJ regulatory) (NN paper) (NN work)) (CC and) (NP (NP (DT the) (NNS people)) (SBAR (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))) (PRN (: --) (S (RB mostly) (VP (TO to) (VP (VB comply) (PP (IN with) (NP (UCP (JJ federal) (, ,) (NN state) (CC and) (JJ local)) (JJ environmental) (NNS laws)))))) (: --))) (VP (MD will) (VP (VB rise) (NP (QP (RB almost) (CD 30)) (NN %)) (NP (DT this) (NN year)) (PP (TO to) (NP ($ $) (CD 100,000)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Gebhard)) (VP (VBZ adds) (SBAR (IN that) (S (NP (NP (VBG spending)) (PP (IN on) (NP (JJ environmental) (JJ red) (NN tape)))) (VP (VBZ amounts) (PP (TO to) (NP (NP (QP (IN between) (CD 6.5)) (NN %)) (CC and) (NP (NP (CD 7.5) (NN %)) (PP (IN of) (NP (NP (NNP Impco) (POS 's)) (JJ total) (NN operating) (NNS expenses)))))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (NNP Eastern) (NN Reproduction) (NNP Corp.)) (, ,) (NP (NP (DT a) (NAC (NNP Waltham) (, ,) (NNP Mass.) (, ,)) (NN maker)) (PP (IN of) (NP (JJ thin) (NN metal) (NN precision) (NNS parts)))) (, ,)) (VP (MD must) (VP (VB report) (PP (TO to) (NP (CD five) (UCP (JJ federal) (CC and) (NN state)) (NNS agencies))) (ADVP (RB as) (RB well) (IN as) (PP (TO to) (NP (JJ local) (NN fire) (, ,) (NN police) (, ,) (NN hospital) (CC and) (NN plumbing) (NNS authorities))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Robert) (NNP Maguire)) (, ,) (NP (NN president))) (. .)))
+
+(S1 (S (NP (CD One) (NN state) (JJ environmental) (NN regulator)) (VP (VBD returned) (NP (DT a) (NN report)) (SBAR (IN because) (S (`` `) (S (`` `) (S (NP (PRP it)) (VP (VBD was) (RB n't) (ADJP (JJ heavy) (RB enough)))) (, ,) (NP (PRP it)) (VP (MD could) (RB n't) (VP (VB have) (VP (VBN been) (ADJP (JJ correct))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Maguire)) (VP (VBZ says))))) (. .)))
+
+(S1 (NP (NN WITHHOLDING) (NNS RULES) (: :)))
+
+(S1 (S (S (NP (NNS Employers)) (VP (MD must) (VP (VP (NN deposit) (S (VP (VBG withholding) (NP (NP (NNS taxes)) (VP (VBG exceeding) (NP ($ $) (CD 3,000)))) (PP (IN within) (NP (NP (CD three) (NNS days)) (PP (IN after) (NP (NN payroll)))))))) (: --) (CC or) (VP (VB pay) (NP (JJ stiff) (NNS penalties)))))) (: --) (CC and) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ big) (NN problem)) (PP (IN for) (NP (JJ small) (NNS businesses)))))) (. .)))
+
+(S1 (SINV (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB especially) (JJ nettlesome) (`` `) (`` `) (SBAR (IN if) (S (S (NP (PRP you)) (VP (VBP 're) (PP (IN on) (NP (DT the) (NN road))))) (CC and) (S (NP (PRP you)) (VP (VBP 're) (S (NP (DT the) (NN one)) (ADJP (JJ responsible)))))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Eddie) (NNP Brown)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Brown) (NNP Capital) (NNP Management) (NNP Inc.)) (, ,) (NP (DT a) (NNP Baltimore) (NN money-management) (NN firm)))))) (. .)))
+
+(S1 (NP (NN EMPLOYEE) (NNS MANUALS) (: :)))
+
+(S1 (S (VP (VBG Revising) (NP (NP (NN employee) (NNS manuals)) (PP (IN on) (NP (NP (NNS pensions)) (, ,) (NP (NN health) (NN care)) (CC and) (NP (JJ other) (NNS subjects) (NNS costs))))) (PP (IN over) (NP (NP ($ $) (CD 25,000)) (NP (DT a) (NN year)))) (PP (IN for) (NP (NP (NNP Bert) (NNP Giguiere)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Professional) (NNP Agricultural) (NNP Management) (NNP Inc.)) (, ,) (NP (NP (DT a) (NAC (NNP Fresno) (, ,) (NNP Calif.) (, ,)) (NN provider)) (PP (IN of) (NP (NN business) (NNS services))) (PP (TO to) (NP (NNS farmers)))))))))) (. .)))
+
+(S1 (S (S (NP (DT An) (NN employer)) (VP (VBZ leaves) (S (NP (PRP itself)) (ADJP (JJ open) (PP (TO to) (NP (NP (DT a) (JJ great) (NN deal)) (PP (IN of) (NP (NN liability))))))) (SBAR (IN if) (S (NP (PRP$ its) (NN employee) (NNS manuals)) (VP (VBP do) (RB n't) (VP (VB reflect) (NP (DT the) (ADJP (RBS most) (JJ recent)) (NNS laws)))))))) (, ,) (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ ever-changing) (NNS laws)) (VP (VBP are) (ADVP (RB usually)) (ADJP (ADJP (RB so) (JJ complicated) (CC and) (JJ confusing)) (SBAR (IN that) (`` `) (S (`` `) (S (S (NP (PRP you)) (VP (VBP need) (S (NP (NNS professionals)) (VP (TO to) (VP (VB help) (NP (PRP you))))))) (: ;) (S (NP (PRP you)) (VP (MD ca) (RB n't) (VP (VB do) (NP (PRP it)) (NP (PRP yourself)))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ adds)))))) (. .)))
+
+(S1 (NP (NP (NN PENSION) (CC AND) (NN PROFIT-SHARING) (NNS RULES)) (: :)))
+
+(S1 (S (S (VP (VBG Complying) (PP (IN with) (NP (DT these))))) (VP (VBZ is) (ADJP (JJ enough) (S (VP (TO to) (VP (VB make) (S (NP (NN business) (NNS owners)) (VP (VB look) (PRT (RP forward)) (PP (TO to) (NP (PRP$ their) (JJ own) (NN pension) (NNS days)))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Yearly) (NNS changes)) (PP (IN in) (NP (JJ federal) (NN benefit) (NNS laws)))) (VP (VBP force) (S (NP (JJ small) (NNS businesses)) (VP (TO to) (VP (VP (ADVP (RB repeatedly)) (VB re-evaluate)) (CC and) (VP (VB redesign) (NP (VBG existing) (NNS plans))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Alice) (NNP Fixx)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ runs) (NP (PRP$ her) (JJ own) (NNS public-relations) (NN concern)) (PP (IN in) (NP (NNP New) (NNP York)))))) (, ,)) (VP (VBZ says) (SBAR (S (NP (PRP she)) (VP (VBZ has) (VP (VBN had) (S (VP (TO to) (VP (VB overhaul) (NP (PRP$ her) (NN pension) (CC and) (NN profit-sharing) (NNS plans)) (NP (CD three) (NNS times)) (PP (IN in) (NP (DT the) (JJ past) (CD three) (NNS years))))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (S (S (NP (PRP It)) (VP (VBZ does) (RB n't) (VP (VB increase) (NP (NNS benefits))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ costly) (CC and) (JJ time-consuming))))) (, ,) ('' ') ('' ') (NP (NNP Ms.) (NNP Fixx)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (NP (NN Compliance)) (VP (VBD added) (NP (CD 15) (NN %)) (PP (TO to) (NP (CD 20) (NN %))) (PP (TO to) (NP (NP (PRP$ her) (NN accounting) (NN bill)) (NP (JJ last) (NN year)))))) (, ,) (NP (PRP she)) (VP (VBZ says)) (. .)))
+
+(S1 (NP (JJ SALES) (NN TAX) (NNS RECORDS) (: :)))
+
+(S1 (S (S (NP (NP (NN Advertising) (NNS agencies)) (CC and) (NP (JJ other) (NN service) (NNS companies))) (VP (VBP are) (ADJP (JJ exempt) (PP (IN from) (NP (NN city) (CC and) (NN state) (NNS sales) (NN tax)))) (PP (IN in) (NP (JJS most) (NNS locales))))) (: --) (CC but) (S (NP (DT the) (NN exemption)) (VP (VBZ comes) (PP (IN at) (NP (NP (DT a) (NN price)) (PP (IN of) (NP (NP (JJ exhaustive) (NNS records)) (CC and) (NP (JJ rigorous) (NNS reviews)))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VP (VB justify) (NP (PRP$ their) (JJ exempt) (NN status))) (CC and) (VP (VB avoid) (NP (NNS penalties)))))) (, ,) (NP (DT these) (NNS businesses)) (VP (MD must) (VP (VB show) (NP (RB once) (DT a) (NN year)) (SBAR (IN that) (S (NP (NP (DT each)) (CC and) (NP (NP (DT every) (NN transaction)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB pay) (NP (NNS sales) (NN tax)))))))) (VP (VBD was) (NP (DT a) (JJ legitimate) (NN business) (NN expense))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP You)) (VP (VBP need) (S (NP (CD one) (NN person)) (VP (TO to) (ADVP (RB just)) (VP (VB take) (NP (NN care)) (PP (IN of) (NP (NNS sales) (NN tax))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Jennie) (NNP Tong)) (, ,) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN of) (NP (NP (NNP Lee) (NNP Liu) (CC &) (NNP Tong) (NNP Advertising) (NNP Inc.)) (, ,) (NP (NNP New) (NNP York)))))) (. .)))
+

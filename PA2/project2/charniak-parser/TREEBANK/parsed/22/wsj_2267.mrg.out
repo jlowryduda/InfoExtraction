@@ -1,0 +1,14 @@
+(S1 (S (NP (NNP DD) (NNP Acquisition) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD extended) (NP (NP (PRP$ its) (ADJP ($ $) (JJ 45-a-share)) (NN offer)) (PP (IN for) (NP (NP (NNP Dunkin) (POS ')) (NNP Donuts) (NNP Inc.)))) (PP (TO to) (NP (NNP Nov.) (CD 1))) (PP (IN from) (NP (RB yesterday))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN offer)) (VP (VBZ has) (NP (NP (DT an) (VBN indicated) (NN value)) (PP (IN of) (NP (QP ($ $) (CD 268) (CD million)))))) (. .)))
+
+(S1 (S (NP (NNP DD) (NNP Acquisition)) (VP (VBZ is) (NP (NP (DT a) (NN partnership)) (PP (IN of) (NP (NP (NP (NNP Unicorp) (NNP Canada) (NNP Corp.) (POS 's)) (NNP Kingsbridge) (NNP Capital) (NNP Group) (NN unit)) (CC and) (NP (NNP Cara) (NNP Operations) (NNP Ltd)))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (ADVP (RB previously)) (VP (VBN reported)))) (, ,) (PP (IN under) (NP (NP (DT the) (NNS terms)) (PP (IN of) (NP (NP (DT a) (NN confidentiality) (NN agreement)) (PP (IN with) (NP (NNP Dunkin) ('' ') (NNP Donuts))))))) (, ,) (NP (DT the) (NNS partners)) (VP (VBD agreed) (S (VP (VP (TO to) (VP (VB keep) (S (NP (PRP$ their) (NN offer)) (ADJP (JJ open) (PP (IN until) (NP (NNP Nov.) (CD 1))))))) (, ,) (CC and) (RB not) (VP (TO to) (VP (VB acquire) (NP (DT any) (JJ additional) (NNS shares)) (PP (IN except) (PP (IN through) (NP (NP (DT a) (NN tender) (NN offer)) (VP (VBG expiring) (PP (IN on) (NP (DT that) (NN date)))))))))))) (. .)))
+
+(S1 (S (NP (NNP DD) (NNP Acquisition)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (PRP it)) (ADVP (RB already)) (VP (VBZ owns) (NP (NP (CD 15) (NN %)) (PP (IN of) (NP (NP (DT the) (JJ common) (NNS shares)) (PP (IN of) (NP (DT the) (NN doughnut) (NN shop) (NN chain))))))))) (CC and) (SBAR (IN that) (S (PP (IN as) (PP (IN of) (NP (NP (DT the) (NN close)) (PP (IN of) (NP (NN business))) (NP (NNP Friday))))) (NP (DT an) (JJ additional) (CD 11) (NN %)) (VP (VBD had) (VP (VBN been) (VP (VBN tendered) (PP (TO to) (NP (PRP$ its) (NN offer)))))))))) (. .)))
+
+(S1 (S (NP (NNP Dunkin) ('' ') (NNP Donuts)) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Randolph)) (, ,) (NP (NNP Mass)))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Cara) (NNP Operations)) (, ,) (NP (DT a) (NN food) (NNS services) (NN concern)) (, ,)) (CC and) (NP (NP (NNP Unicorp)) (, ,) (NP (NP (DT a) (VBG holding) (NN company)) (PP (IN with) (NP (NP (NP (NNS interests)) (PP (IN in) (NP (NP (NN oil)) (CC and) (NP (JJ natural) (NN gas))))) (CC and) (NP (JJ financial) (NNS services))))) (, ,))) (VP (VBP are) (VP (VBN based) (PP (IN in) (NP (NNP Toronto))))) (. .)))
+

@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP Kellwood) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD completed) (NP (NP (DT a) (ADJP (RB previously) (VBN announced)) (NN acquisition)) (PP (IN of) (NP (NP (NNP Crowntuft) (NNP Manufacturing) (NNP Corp.)) (, ,) (NP (NP (DT a) (ADJP (NNP New) (JJ York-based)) (NN maker)) (PP (IN of) (NP (NP (JJ chenille) (NNS robes)) (CC and) (NP (NN lounge) (NN wear)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN apparel) (NN maker)) (VP (MD would) (RB n't) (VP (VB disclose) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NN agreement)))))) (. .)))
+
+(S1 (S (NP (NNP Kellwood)) (VP (VBD said) (SBAR (S (NP (NP (NNP Gabriel) (NNP Hakim) (NNP Sr.)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Crowntuft)))) (, ,)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB head) (NP (NP (NNP Crowntuft) (POS 's)) (NN management) (NN group)))))))))) (. .)))
+

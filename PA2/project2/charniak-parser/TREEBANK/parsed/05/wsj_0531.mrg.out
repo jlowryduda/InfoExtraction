@@ -1,0 +1,12 @@
+(S1 (S (NP (NNP Ferro) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB buy) (PRT (RP back)) (NP (QP (RB as) (JJ many) (IN as) (CD one) (CD million)) (JJ common) (NNS shares))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (UCP (NN chemical) (CC and) (JJ industrial)) (NNS materials)))) (VP (VBD did) (RB n't) (VP (VB say) (SBAR (SBAR (WHNP (WRB how) (RB much)) (S (NP (PRP it)) (VP (MD would) (VP (VB pay))))) (CC or) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (MD would) (VP (VB make) (NP (DT the) (NNS transactions))))))))) (. .)))
+
+(S1 (S (NP (NNP Ferro)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB cancel) (NP (NP (DT the) (JJ unused) (NN portion)) (PP (IN of) (NP (DT a) (CD 1987) (JJ buy-back) (NN plan)))) (PP (IN for) (NP (JJ administrative) (NNS reasons)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN plan)) (VP (VBZ calls) (SBAR (IN for) (S (NP (DT the) (NN company)) (VP (TO to) (VP (VB buy) (PRT (RP back)) (NP (NP (CD 2,250,000) (NNS shares)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ reflects) (NP (DT a) (JJ 3-for-2) (NN stock) (NN split)) (NP (DT this) (NN year))))))))))) (. .)))
+
+(S1 (S (ADVP (RB So) (RB far)) (NP (DT the) (NN company)) (VP (VBD had) (VP (VBN bought) (ADVP (RB back)) (NP (QP (CD 1.6) (CD million)) (NNS shares)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (NP (NNP Friday)) (, ,) (NP (NNP Ferro)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 25.25))) (, ,) (ADVP (RB down) (NP (CD 50) (NNS cents)))) (. .)))
+

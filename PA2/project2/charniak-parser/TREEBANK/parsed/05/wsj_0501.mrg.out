@@ -1,0 +1,62 @@
+(S1 (S (NP (JJ Japanese) (NNS companies)) (VP (VBP have) (ADVP (RB long)) (VP (VBN been) (VP (VBN accused) (PP (IN of) (S (VP (VBG sacrificing) (NP (NN profit)) (S (VP (TO to) (VP (VB boost) (NP (NNS sales))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Fujitsu) (NNP Ltd.)) (VP (VBZ has) (VP (VBN taken) (NP (DT that) (NN practice)) (PP (TO to) (NP (DT a) (JJ new) (NN extreme))))) (. .)))
+
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (JJS biggest) (NN computer) (NN maker)) (NP (JJ last) (NN week)) (VP (VBD undercut) (NP (CD seven) (NNS competitors)) (S (VP (TO to) (VP (VB win) (NP (DT a) (NN contract) (S (VP (TO to) (VP (VB design) (NP (DT a) (NN mapping) (NN system)) (PP (IN for) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NP (NNP Hiroshima) (POS 's)) (NN waterworks))))))))))))) (. .)))
+
+(S1 (NP (NP (PRP$ Its) (NN bid)) (: :) (NP (NP (CD one) (NN yen)) (, ,) (CC or) (NP (NP (JJR less)) (PP (IN than) (NP (DT a) (NNP U.S.) (NN penny))))) (. .)))
+
+(S1 (S (NP (DT The) (NN bid)) (VP (VBD created) (NP (PDT such) (DT a) (NN furor)) (SBAR (IN that) (S (NP (NNP Fujitsu)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB now)) (VP (VBG offering) (S (VP (TO to) (VP (VB withdraw) (PP (IN from) (NP (DT the) (NN project)))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN From) (NP (DT a) (NN common-sense) (NN viewpoint))) (, ,) (NP (PRP it)) (VP (VBD was) (RB not) (ADJP (RB socially) (JJ acceptable))) (, ,) ('' ')) ('' ') (NP (DT a) (NNP Fujitsu) (NN spokeswoman)) (VP (VBD said) (NP (NN yesterday))) (. .)))
+
+(S1 (S (NP (NNP Hiroshima) (NN city) (NNS officials)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (S (VP (TO to) (VP (VB find) (PRT (RP out)) (SBAR (IN whether) (S (NP (PRP they)) (VP (MD would) (VP (VB drop) (NP (NP (NNP Fujitsu) (POS 's)) (NN bid)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Fujitsu)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD issued) (NP (DT the) (JJ low) (NN bid)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBD wanted) (NP (DT a) (NN foot)) (PP (IN in) (NP (NP (DT the) (NN door)) (PP (IN of) (NP (DT a) (ADJP (RB potentially) (JJ lucrative)) (NN market)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (ADVP (RB desperately)) (VP (VBD wanted) (NP (DT the) (NN contract)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBP want) (NP (NP (NN experience)) (PP (IN in) (NP (DT the) (NN field)))))))) (, ,) ('' ')) ('' ') (NP (DT the) (NNP Fujitsu) (NN spokeswoman)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP expect) (NP (DT a) (JJ big) (NN market)) (PP (IN in) (NP (DT the) (NN future))))) (, ,) (IN so) (S (PP (IN in) (NP (DT the) (JJ long) (NN term))) (NP (PRP it)) (VP (MD will) (VP (VB be) (ADJP (JJ profitable))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN kind)) (PP (IN of) (NP (DT an) (NN investment))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Hiroshima) (POS 's)) (NN waterworks) (NN bureau)) (VP (VBD said) (SBAR (S (NP (DT the) (JJ municipal) (NN government)) (VP (VBD had) (VP (VBN budgeted) (NP (NP (QP (RB about) (CD 11) (CD million)) (NNS yen)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 77,500)) (-RRB- -RRB-))) (PP (IN for) (NP (DT the) (NN project)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBD was) (VP (VBN flabbergasted)))) (, ,) ('' ') ('' ') (NP (NP (NNP Tatsuhara) (NNP Yamane)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (DT the) (NN bureau)))) (, ,)) (VP (VBD was) (VP (VBN quoted) (PP (IN by) (NP (NNP Kyodo) (NN news) (NN service))) (PP (IN as) (S (VP (VBG saying)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VB understand) (NP (NP (DT the) (NN firm) (POS 's)) (NN enthusiasm)) (PP (IN in) (S (VP (VBG getting) (NP (DT the) (NN deal))))))) (, ,) (CC but) (S (NP (PDT such) (DT a) (JJ large) (NN company)) (VP (MD would) (VP (VB have) (VP (VBN been) (ADJP (JJR better) (RP off) (S (VP (VBG showing) (NP (DT a) (ADJP (RB little) (JJR more)) (NN discretion))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (NNP Fujitsu) (NNS officials)) (VP (VBD admitted) (SBAR (S (NP (PRP they)) (VP (MD may) (VP (VB have) (VP (VBN been) (ADJP (NP (DT a) (JJ little)) (JJ overzealous)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Fujitsu) (NN spokeswoman)) (VP (VBD said) (SBAR (S (NP (JJ headquarter) (NNS officials)) (VP (VP (VBD did) (RB n't) (VP (VB approve) (NP (NP (DT the) (NN bid)) (PP (IN in) (NP (NN advance)))))) (CC and) (VP (MD will) (VP (VB take) (NP (NNS measures)) (SBAR (IN so) (S (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN thing)))) (VP (VBZ does) (RB n't) (VP (VB happen) (PP (IN in) (NP (DT the) (NN future))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ contrary) (PP (TO to) (NP (JJ common) (NN sense)))))) (, ,) ('' ') ('' ') (NP (PRP she)) (VP (VBD added)) (. .)))
+
+(S1 (S (ADVP (RB Specifically)) (, ,) (NP (NNP Fujitsu)) (VP (VBD won) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB design) (NP (DT the) (NNS specifications)) (PP (IN for) (NP (NP (DT a) (JJ computerized) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB show) (NP (NP (NN water) (NNS lines)) (PP (IN throughout) (NP (DT the) (NN city))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN system)) (VP (MD could) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (DT a) (NN fire) (CC or) (NN earthquake))) (S (VP (TO to) (VP (VB locate) (NP (NP (NNS problems)) (, ,) (PP (IN among) (NP (JJ other) (NNS things)))))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN waterworks) (NN official)) (VP (VBD said) (SBAR (S (NP (NNP Fujitsu)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB design) (NP (DT the) (NN system))))) (SBAR (IN so) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (JJ compatible) (PP (IN with) (NP (NP (JJ other) (NNS makers) (POS ')) (NN equipment))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NN industry) (NNS officials)) (VP (VBD expressed) (NP (NN concern) (SBAR (IN that) (S (NP (DT the) (JJ initial) (NN project)) (VP (MD might) (VP (VB give) (NP (NNP Fujitsu)) (NP (NP (DT an) (NN edge)) (PP (IN in) (S (VP (VBG winning) (NP (ADJP (RBR more) (JJ lucrative)) (NNS contracts)) (ADVP (RB later)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Fujitsu)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ hopes) (SBAR (S (NP (DT the) (NNP Hiroshima) (NN contract)) (VP (MD will) (VP (VB help) (S (NP (PRP it)) (VP (VB secure) (NP (NP (NNS pacts)) (PP (IN with) (NP (JJ other) (NNS municipalities)))))))))))))) (. .)))
+
+(S1 (S (S (NP (JJ Japanese) (JJ local) (NNS governments)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB invest) (PP (ADVP (RB heavily)) (IN in) (NP (NN computer) (NNS systems))) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS years))))))))) (, ,) (CC and) (S (NP (JJ many) (NNS companies)) (VP (VBP expect) (S (NP (DT that) (NN field)) (VP (TO to) (VP (VB provide) (NP (JJ substantial) (NN revenue))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN In) (NP (DT the) (JJ near) (NN future))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB be) (NP (DT a) (JJ big) (NN market)) (, ,) (PP (CONJP (RB not) (RB just)) (PP (IN for) (NP (NN waterworks))) (, ,) (CC but) (PP (IN for) (NP (DT all) (VBG mapping) (NNS systems)))))) (, ,) ('' ')) ('' ') (NP (DT the) (NNP Fujitsu) (NN spokeswoman)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (MD can) (VP (VB expect) (NP (DT a) (JJ hundreds-of-billions-of-yen) (NN market)))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (DT No) (JJ foreign) (NNS companies)) (VP (VBD bid) (PP (IN on) (NP (DT the) (NNP Hiroshima) (NN project))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NN bureau))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (JJ Japanese) (NN practice)) (PP (IN of) (NP (NP (RB deep) (NN discounting)) (ADVP (RB often))))) (VP (VBZ is) (VP (VBN cited) (PP (IN by) (NP (NNPS Americans))) (PP (IN as) (NP (NP (DT a) (JJ classic) (NN barrier)) (PP (TO to) (NP (NP (NN entry)) (PP (IN in) (NP (NP (NNP Japan) (POS 's)) (NN market))))))))) (. .)))
+
+(S1 (S (ADVP (RBR Earlier) (NP (DT this) (NN year))) (, ,) (NP (DT the) (NNP U.S.)) (VP (VBD complained) (SBAR (IN that) (S (NP (NP (NNP Japan) (POS 's)) (NN supercomputer) (NNS makers)) (VP (VBD were) (ADVP (RB effectively)) (VP (VBG closing) (PRT (RP out)) (NP (JJ foreign) (NNS competitors)) (PP (IN by) (S (VP (VBG slashing) (NP (NNS prices)) (NP (NP (QP (RB as) (JJ much) (IN as) (CD 90)) (NN %)) (PP (IN for) (NP (NNS universities)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Fujitsu)) (VP (VBD was) (RB n't) (NP (NP (DT the) (JJ only) (NN company)) (ADJP (JJ willing) (S (VP (TO to) (VP (VB sacrifice) (NP (NP (NN profit)) (PP (IN on) (NP (DT the) (NN project)))))))))) (. .)))
+
+(S1 (S (NP (CD Three) (NNS competitors)) (VP (VBD bid) (NP (NP (QP (IN between) (CD 300,000)) (NNS yen)) (CC and) (NP (CD 500,000) (NNS yen))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NNP Hiroshima) (NN government) (NN office))))) (. .)))
+
+(S1 (S (NP (JJ Other) (NNS bids)) (VP (VBD ranged) (PP (PP (IN from) (NP (QP (RB about) (CD 10) (CD million)) (NNS yen))) (PP (TO to) (NP (QP (CD 29) (CD million)) (NNS yen))))) (. .)))
+

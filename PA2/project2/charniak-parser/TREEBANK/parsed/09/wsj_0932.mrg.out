@@ -1,0 +1,22 @@
+(S1 (S (NP (NP (DT The) (NN amount)) (PP (IN of) (NP (NN blood) (JJ surgical) (NNS patients)))) (VP (MD can) (VP (VB donate) (CC and) (VB store) (SBAR (IN before) (S (NP (NN surgery)) (VP (MD can) (VP (VB be) (VP (VBN increased) (PP (IN by) (NP (NP (DT the) (JJ new) (ADJP (RB genetically) (VBN engineered)) (NN drug)) (, ,) (NP (NNP EPO))))))))))) (. .)))
+
+(S1 (S (NP (NNP EPO) (, ,) (CC or) (NN erythropoietin) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NN protein)) (SBAR (S (NP (DT the) (JJ human) (NN body)) (VP (VBZ makes) (S (VP (TO to) (VP (VB stimulate) (NP (NP (DT the) (NN growth)) (PP (IN of) (NP (JJ red) (NN blood) (NNS cells)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (ADJP (RB genetically) (VBN engineered)) (NN version)) (PP (IN of) (NP (NP (DT the) (JJ human) (NN protein)) (VP (VBN developed) (PP (IN by) (NP (NP (NNP Amgen) (NNP Corp.)) (PP (IN of) (NP (NP (NNP Thousand) (NNPS Oaks)) (, ,) (NP (NNP Calif.)) (, ,))))))))) (ADVP (RB recently)) (VP (VBZ has) (VP (VBN been) (VP (VBN marketed) (PP (IN by) (NP (NP (DT the) (NNP Ortho) (NNP Pharmaceuticals) (NN division)) (PP (IN of) (NP (NNP Johnson) (CC &) (NNP Johnson)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (VBG competing) (NN version)) (PP (IN of) (NP (NNP EPO)))) (VP (VBZ is) (VP (VBG being) (VP (VBN developed) (PP (IN by) (NP (NP (NNP Genetics) (NNP Institute) (NNP Inc.)) (PP (IN in) (NP (NP (NNP Cambridge)) (, ,) (NP (NNP Mass))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN drug)) (VP (VBZ is) (VP (VBG being) (VP (VBN used) (ADVP (RB primarily)) (S (VP (TO to) (VP (VB treat) (NP (NNS anemias)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ new) (NN experiment)) (, ,) (VP (VBN reported) (PP (IN in) (NP (NP (NP (DT this) (NN week) (POS 's)) (NNP New) (NNP England) (NNP Journal)) (PP (IN of) (NP (NNP Medicine)))))) (, ,)) (VP (VBN involved) (S (VP (VBG giving) (NP (NP (NNS injections)) (PP (IN of) (NP (NP (NNP Amgen) (POS 's)) (NNP EPO)))) (PP (TO to) (NP (NP (CD 23) (NNS patients)) (SBAR (WHNP (WP who)) (S (VP (VBD wanted) (S (VP (TO to) (VP (VB store) (NP (NP (NNS units)) (PP (IN of) (NP (PRP$ their) (JJ own) (NN blood))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS patients)) (VP (VBD began) (S (VP (VBG receiving) (NP (NNP EPO) (NNS injections)) (PP (IN about) (NP (NP (DT a) (NN month)) (PP (IN before) (NP (PRP$ their) (VBN scheduled) (NN surgery)))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (ADVP (RB then)) (VP (VBD began) (S (VP (VBG donating) (NP (NN blood)))) (NP (RB twice) (DT a) (NN week)) (, ,) (S (VP (VBG receiving) (NP (DT an) (NNP EPO) (NN injection)) (NP (DT each) (NN time))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NNS tests)) (VP (VBD indicated) (NP (NP (DT a) (JJ low) (NN number)) (PP (IN of) (NP (JJ red) (NNS cells))))))) (, ,) (NP (NN blood)) (VP (VBD was) (RB n't) (VP (VBN taken))) (. .)))
+
+(S1 (S (NP (DT The) (JJ EPO-treated) (NNS patients)) (VP (VBD donated) (NP (NP (DT an) (NN average)) (PP (IN of) (NP (NP (CD 5.4) (NNS units)) (PP (IN of) (NP (NN blood))) (NP (DT each))))) (PP (VBN compared) (PP (IN with) (NP (NP (QP (RB only) (CD 4.1)) (NNS units)) (VP (VBN donated) (PP (IN by) (NP (NP (DT a) (JJ similar) (NN group)) (PP (IN of) (NP (NP (JJ surgical) (NNS patients)) (SBAR (WHNP (WP who)) (S (VP (VBD received) (NP (DT a) (JJ placebo) (NN injection)))))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN volume)) (PP (IN of) (NP (NP (JJ red) (NNS cells)) (VP (VBN donated) (PP (IN by) (NP (DT the) (JJ EPO-treated) (NNS patients))))))) (VP (VBD was) (ADJP (ADJP (NP (CD 41) (NN %)) (JJR higher)) (PP (IN per) (NP (NN donor)))))) (, ,) (NP (NP (DT the) (NN research) (NN team)) (VP (VBG representing) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS hospitals)) (CC and) (NP (NN blood) (NNS banks))))))) (VP (VBD reported)) (. .)))
+

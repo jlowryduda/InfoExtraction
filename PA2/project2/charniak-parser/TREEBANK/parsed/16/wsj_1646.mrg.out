@@ -1,0 +1,68 @@
+(S1 (S (NP (NP (NP (NNP China) (POS 's)) (NN slide)) (PP (IN toward) (NP (NN recession)))) (VP (VBZ is) (VP (VBG beginning) (S (VP (TO to) (VP (VB look) (PP (IN like) (NP (DT a) (JJ free) (NN fall)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN report)) (PP (IN on) (NP (NP (NNP China) (POS 's)) (VBG foundering) (NN economy))))) (, ,) (NP (DT the) (JJ official) (NNP State) (NNP Statistical) (NNP Bureau)) (VP (VBD disclosed) (SBAR (IN that) (S (NP (JJ industrial) (NN output)) (NP (JJ last) (NN month)) (VP (VBD rose) (NP (CD 0.9) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))) (: -) (NP (NP (DT the) (JJS lowest) (NN growth) (NN rate)) (PP (IN in) (NP (DT a) (NN decade))) (PP (IN for) (NP (NNP September)))))))) (. .)))
+
+(S1 (S (NP (JJ Retail) (NNS sales)) (VP (VBP are) (VP (VBG plummeting) (, ,) (SBAR (IN while) (S (NP (NN consumer) (NNS prices)) (ADVP (RB still)) (VP (VBP are) (VP (VBG rising))))))) (. .)))
+
+(S1 (S (NP (JJ Chinese) (CC and) (JJ foreign) (NNS economists)) (ADVP (RB now)) (VP (VBP predict) (NP (NP (JJ prolonged) (NN stagflation)) (: :) (NP (NP (JJ low) (NN growth)) (CC and) (NP (JJ high) (NN inflation))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN economy)) (VP (VBZ is) (VP (VBG crashing) (ADVP (RB hard)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (DT an) (JJ Asian) (NN economist)) (PP (IN in) (NP (NNP Beijing)))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (DT The) (NN slowdown)) (VP (VBZ is) (VP (VBG taking) (NP (NN hold)) (ADVP (ADVP (NP (DT a) (NN lot)) (RBR more)) (SBAR (ADVP (RB quickly) (CC and) (RB devastatingly)) (IN than) (S (NP (NN anyone)) (VP (VBD had) (VP (VBN expected))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (DT A) (JJ lengthy) (NN recession)) (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ materializes)))) (, ,) (VP (MD would) (VP (VP (VB drain) (NP (NN state) (NNS coffers))) (CC and) (VP (VB create) (NP (NP (JJ severe) (NNS hardships)) (PP (IN for) (NP (JJ urban) (NNS workers))))))) (. .)))
+
+(S1 (S (NP (NNS Experts)) (VP (VBP predict) (SBAR (S (NP (DT the) (JJ coming) (NN year)) (VP (MD will) (VP (VB be) (VP (VBN characterized) (PP (IN by) (NP (NP (ADJP (JJ flat) (CC or) (JJ negative)) (JJ industrial) (NN growth)) (, ,) (NP (VBG rising) (NN unemployment)) (CC and) (NP (DT a) (VBG widening) (NN budget) (NN deficit)))))))))) (. .)))
+
+(S1 (S (SBAR (IN Unless) (S (NP (DT the) (NN government)) (ADVP (RB suddenly)) (VP (VBZ reverses) (NP (NN course))))) (, ,) (NP (NP (NNS wages)) (PP (IN for) (NP (JJS most) (NNS workers)))) (VP (MD wo) (RB n't) (VP (VB keep) (NP (NN pace)) (PP (IN with) (NP (NN inflation))) (, ,) (S (VP (VBG creating) (NP (NP (DT a) (JJ potential) (NN source)) (PP (IN of) (NP (JJ urban) (NN unrest)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN economy) (POS 's)) (NN slowdown)) (VP (VBZ is) (ADJP (JJ due) (ADVP (RB only) (RB partly)) (PP (TO to) (NP (NP (DT the) (NN austerity) (NN program)) (VP (VBN launched) (PP (IN in) (NP (NNP September) (CD 1988))) (S (VP (TO to) (VP (VB cool) (NP (NP (DT an) (JJ overheated) (NN economy)) (CC and) (NP (JJ tame) (NN inflation))))))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (JJ Industrial) (NN output)) (VP (VBD surged) (NP (CD 21) (NN %)) (PP (IN in) (NP (CD 1988))) (, ,) (SBAR (IN while) (S (NP (NN inflation)) (VP (VBD peaked) (NP (JJ last) (NNP February)) (PP (IN at) (NP (QP (RB nearly) (CD 30)) (NN %))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (NP (DT The) (NN slowdown)) (ADVP (RB also)) (VP (VBZ results) (PP (IN from) (NP (NP (JJ chronic) (NN energy)) (CC and) (NP (NP (NNS raw-materials) (NNS shortages)) (SBAR (WHNP (WDT that)) (S (VP (VBP force) (S (NP (JJ many) (NNS factories)) (VP (TO to) (VP (VB restrict) (NP (NNS operations)) (PP (TO to) (NP (NP (QP (CD two) (CC or) (CD three)) (NNS days)) (NP (DT a) (NN week)))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ Western) (, ,) (JJ market-driven) (NNS countries))) (, ,) (NP (NNS recessions)) (ADVP (RB often)) (VP (VBP have) (NP (NP (DT a) (JJ bright) (NN side)) (: :) (S (VP (VBG prodding) (NP (DT the) (NN economy)) (PP (TO to) (NP (JJR greater) (NN efficiency))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP China))) (, ,) (ADVP (RB however)) (, ,) (NP (EX there)) (VP (VBZ is) (RB n't) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (NP (DT any) (NN silver) (NN lining)))))) (SBAR (IN because) (S (NP (DT the) (NN economy)) (VP (VBZ remains) (VP (VBN guided) (PP (ADVP (RB primarily)) (IN by) (NP (DT the) (NN state)))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (NNP China)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB shell) (PRT (RP out)) (NP (NP (JJ ever-greater) (NNS subsidies)) (PP (TO to) (NP (NP (PRP$ its) (JJ coddled) (JJ state-run) (NNS enterprises)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD ate) (PRT (RP up)) (NP (NP (QP ($ $) (CD 18) (CD billion))) (PP (IN in) (NP (NNS bailouts)))) (NP (JJ last) (NN year))))))))))))) (. .)))
+
+(S1 (SINV (CC Nor) (VBP are) (NP (NP (DT any)) (PP (IN of) (NP (NP (DT these) (JJ inefficient) (NNS monoliths)) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (VP (VBN allowed) (S (VP (TO to) (VP (VB go) (S (ADJP (JJ bankrupt)))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Rather)) (, ,) (NP (NP (DT the) (NN brunt)) (PP (IN of) (NP (DT the) (NN slowdown)))) (VP (MD will) (VP (VB be) (VP (VBN felt) (PP (IN in) (NP (NP (NP (DT the) (JJ fast-growing) (ADJP (JJ private) (CC and) (JJ semi-private)) (`` `) (NX (`` `) (NX (NN township)) ('' ')) (POS ')) (NNS enterprises)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (VP (VBN fallen) (PP (IN into) (NP (NN disfavor))) (SBAR (IN as) (S (NP (NP (NNP China) (POS 's)) (NNS leaders)) (VP (VBP re-emphasize) (NP (NP (DT an) (JJ orthodox) (JJ Marxist) (NN preference)) (PP (IN for) (NP (JJ public) (NN ownership)))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (WHADVP (WRB When)) (S (NP (DT the) (VBG going)) (VP (VBZ gets) (ADJP (JJ rough))))) (, ,) (NP (NNP China)) (VP (VP (VBZ penalizes) (NP (DT the) (JJ efficient))) (CC and) (VP (VBZ rewards) (NP (DT the) (JJ incompetent)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (DT a) (NNP Western) (NN economist)) (. .)))
+
+(S1 (S (NP (NP (NNS Reports)) (PP (IN of) (NP (NP (DT an) (NN economy)) (PP (IN near) (NP (NN recession)))))) (VP (VBP come) (SBAR (IN as) (S (NP (NNS officials)) (VP (VB prepare) (NP (DT a) (JJ major) (NNP Communist) (NNP Party) (NN plenum)) (PP (IN for) (ADVP (RB sometime))) (PP (IN in) (NP (DT the) (JJ next) (JJ few) (NNS weeks))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN meeting)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB call) (PP (IN for) (NP (JJ heightened) (NN austerity))) (PP (IN for) (NP (CD two) (NNS years)))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN with) (S (S (NP (JJ industrial) (NN growth)) (ADJP (JJ stagnant))) (CC and) (S (NP (NN inflation)) (VP (VBG showing) (NP (NP (NNS signs)) (PP (IN of) (NP (VBG easing)))))))) (, ,) (NP (DT some) (NNS voices)) (VP (MD may) (VP (VB call) (PP (IN for) (NP (NP (NNS measures)) (SBAR (S (VP (TO to) (VP (VB pump) (NP (JJ new) (NN life)) (PP (IN into) (NP (DT the) (NN economy))))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS analysts)) (VP (VBP believe) (SBAR (S (NP (NNP China)) (ADVP (RB soon)) (VP (MD will) (VP (VB begin) (S (VP (VBG relaxing) (NP (JJ economic) (NNS controls)))) (, ,) (PP (ADVP (RB particularly)) (IN by) (NP (NN loosening) (NN credit)))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (MD would) (VP (VB benefit) (NP (NP (JJ Chinese) (NNS enterprises)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ Sino-foreign) (JJ joint) (NNS ventures)) (, ,) (SBAR (WHNP (DT both) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBP have) (VP (VBN been) (VP (VBN plagued) (PP (IN by) (NP (NP (NNS shortages)) (PP (IN of) (NP (JJ working) (NN capital)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT A) (JJ dangerous) (NN buildup)) (NP (DT this) (NN year))) (PP (IN of) (NP (NP (NNS billions)) (PP (IN of) (NP (NP (NNS dollars)) (PP (IN in) (NP (JJ inter-company) (NNS debts)))))))) (VP (VBZ threatens) (PRN (, ,) (SBAR (IN if) (FRAG (ADJP (JJ unchecked)))) (, ,)) (S (VP (TO to) (VP (VB bring) (NP (DT the) (NN economy)) (PP (TO to) (NP (DT a) (NN collapse))))))) (. .)))
+
+(S1 (S (S (NP (NP (CD One) (NN sign)) (PP (IN of) (NP (NP (DT a) (JJ possible) (NN easing)) (PP (IN of) (NP (NN credit) (NN policy)))))) (VP (VBD was) (NP (DT the) (NN decision)) (NP (NP (DT this) (NN week)) (PP (IN of) (NP (NP (NP (NP (NNPS People) (POS 's)) (NNP Bank)) (PP (IN of) (NP (NNP China)))) (, ,) (NP (DT the) (JJ central) (NN bank)) (, ,)))) (S (VP (TO to) (VP (VB allocate) (NP (NP (QP ($ $) (CD 5.4) (CD billion))) (PP (IN in) (NP (JJ short-term) (NNS loans)))) (S (VP (TO to) (VP (VB pay) (NP (NNS farmers)) (PP (IN for) (NP (DT the) (NN autumn) (NN harvest))))))))))) (, ,) (NP (DT the) (JJ official) (NNP China) (NNP Daily)) (VP (VBD reported)) (. .)))
+
+(S1 (S (CC But) (SBAR (IN while) (S (S (VP (VBG pumping) (NP (JJR more) (NN money)) (PP (IN into) (NP (DT the) (NN economy))))) (VP (MD would) (VP (VB bring) (NP (NN relief)) (PP (TO to) (NP (JJ many) (NNS industries))))))) (, ,) (NP (PRP it)) (ADVP (RB also)) (VP (VBZ runs) (NP (NP (DT the) (NN risk)) (PP (IN of) (S (VP (VBG triggering) (NP (NP (DT another) (NN period)) (PP (IN of) (NP (NP (JJ runaway) (NN growth)) (CC and) (NP (JJ steep) (NN inflation)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN cycle)) (VP (VBZ has) (VP (VBN been) (VP (VBN repeated) (NP (JJ several) (NNS times)) (SBAR (IN since) (S (NP (NNP China)) (VP (VBD began) (S (VP (VBG reforming) (NP (PRP$ its) (JJ planned) (NN economy)))) (PP (IN in) (NP (CD 1979))))))))) (. .)))
+
+(S1 (S (S (CC And) (, ,) (SBAR (IN because) (S (NP (NP (NNP China) (POS 's)) (NNS leaders)) (VP (VBP have) (VP (VBN abandoned) (NP (NNS plans) (S (VP (TO to) (VP (ADVP (RB drastically)) (VB reform) (NP (DT the) (NN economy)))))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB continue))))))) (, ,) (NP (NNS analysts)) (VP (VBP say)) (. .)))
+
+(S1 (S (NP (NP (NP (DT The) (JJ statistical) (NN bureau) (POS 's)) (NN report)) (, ,) (VP (VBN cited) (PP (IN in) (NP (NNP China) (NNP Daily)))) (, ,)) (VP (VBZ notes) (SBAR (IN that) (S (NP (NP (JJ industrial) (NN output)) (PP (IN in) (NP (NNP September)))) (VP (VBD totaled) (NP (QP ($ $) (CD 29.4) (CD billion))) (, ,) (ADVP (NP (DT a) (NN rise)) (IN of) (NP (RB just) (CD 0.9) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))) (. .)))
+
+(S1 (S (NP (NN Output)) (VP (VBD declined) (PP (IN in) (NP (NP (JJ several) (NNS provinces)) (, ,) (PP (VBG including) (NP (NP (NNP Jiangsu) (CC and) (NNP Zhejiang)) (, ,) (NP (CD two) (JJ key) (JJ coastal) (NNS areas)) (, ,) (CC and) (NP (NP (NNP Sichuan)) (, ,) (NP (NP (DT the) (NN nation) (POS 's)) (JJ agricultural) (NN breadbasket)))))))) (. .)))
+
+(S1 (S (NP (NP (NN Production)) (PP (IN in) (NP (NP (NNP Shanghai)) (, ,) (NP (NP (NP (NNP China) (POS 's)) (JJ industrial) (NN powerhouse)) (CC and) (NP (NP (DT the) (JJS largest) (NN source)) (PP (IN of) (NP (NN tax) (NN revenue))) (PP (IN for) (NP (DT the) (JJ central) (NN government))))) (, ,)))) (VP (VBD fell) (NP (CD 1.8) (NN %)) (PP (IN for) (NP (DT the) (NN month)))) (. .)))
+
+(S1 (S (ADVP (RB Nationwide)) (, ,) (S (NP (NP (NN output)) (PP (IN of) (NP (JJ light) (JJ industrial) (NNS products)))) (VP (VBD declined) (NP (CD 1.8) (NN %)))) (: --) (S (NP (`` `) (NP (`` `) (NP (NP (DT the) (JJ first) (NN decline)) (PP (IN in) (NP (CD 10) (NNS years)))) (, ,) ('' ')) ('' ')) (NP (DT a) (NN bureau) (NN spokesman)) (VP (VBD told) (NP (NNP China) (NNP Daily)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT an) (ADJP (RB unusually) (JJ direct)) (NN statement))) (, ,) (NP (DT the) (NN bureau) (NN spokesman)) (VP (VBD recommended) (SBAR (IN that) (S (NP (NN state) (NNS banks)) (VP (VBP extend) (NP (JJR more) (NN credit)) (PP (TO to) (NP (NNS shopkeepers) (SBAR (RB so) (IN that) (S (NP (PRP they)) (VP (MD can) (VP (VB purchase) (NP (NP (NNS manufacturers) (POS ')) (NNS goods)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT This)) (VP (MD will) (VP (VB prevent) (NP (NP (DT a) (NN slide)) (PP (IN in) (NP (NP (JJ industrial) (NN production)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB otherwise)) (VP (VB cause) (NP (JJ new) (NN panic) (NNS buyings))))))))))) (, ,) ('' ')) ('' ') (NP (DT the) (NN spokesman)) (VP (VBD said)) (. .)))
+

@@ -1,0 +1,46 @@
+(S1 (S (NP (NP (NNP New) (NNP York)) (NN financier) (NNP Saul) (NNP Steinberg)) (VP (VBD sought) (NP (JJ federal) (NN permission)) (S (VP (TO to) (VP (VB buy) (NP (NP (JJR more)) (PP (IN than) (S (NP (NP (CD 15) (NN %)) (PP (IN of) (NP (NP (NP (NNP United) (NNPS Airlines) (POS ')) (NN parent)) (, ,) (NP (NNP UAL) (NNP Corp.)) (, ,)))) (VP (VBG saying) (SBAR (S (NP (PRP he)) (VP (MD might) (VP (VB seek) (NP (NP (NN control)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (JJ second-largest) (NN airline)))))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NN takeover) (NNS experts)) (VP (VBD said) (SBAR (S (S (NP (PRP they)) (VP (VBD doubted) (NP (NNP Mr.) (NNP Steinberg)))) (VP (MD will) (VP (VB make) (NP (NP (DT a) (NN bid)) (PP (IN by) (NP (PRP himself))))))))))) (, ,) (NP (NP (DT the) (NN application)) (PP (IN by) (NP (PRP$ his) (NNP Reliance) (NNP Group) (NNP Holdings) (NNP Inc.)))) (VP (MD could) (VP (VB signal) (NP (NP (PRP$ his) (NN interest)) (PP (IN in) (S (VP (VBG helping) (VP (VB revive) (NP (DT a) (JJ failed) (NN labor-management) (NN bid))))))))) (. .)))
+
+(S1 (S (NP (NP (PDT Such) (DT an) (NN application)) (PP (IN for) (NP (JJ federal) (JJ antitrust) (NN clearance)))) (VP (VBZ is) (ADJP (JJ necessary) (PP (IN for) (NP (NP (DT any) (NN investor)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (VB seek) (NP (NN control)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT some) (NNS investors)) (VP (VBP have) (VP (VBN used) (NP (JJ such) (NNS filings)) (S (VP (TO to) (VP (VB boost) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (PRP$ their) (NN stock) (NNS holdings))))) (, ,) (SBAR (WHNP (WDT which)) (PRN (: --) (SBAR (IN without) (S (VP (VBG buying) (NP (JJR more) (NN stock))))) (: --)) (S (NP (PRP they)) (VP (ADVP (RB then)) (VBD sold)))))))) (. .)))
+
+(S1 (S (NP (NN Takeover) (NN stock) (NNS traders)) (VP (VP (VBD were) (VP (VBN puzzled) (PP (IN by) (NP (DT the) (NNP Reliance) (NN filing))))) (CC and) (VP (VBD cautioned) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB mean) (NP (NNP Mr.) (NNP Steinberg))))))) (VP (MD will) (ADVP (RB definitely)) (VP (VB seek) (NP (NN control))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (RB Maybe) (PRP he)) (ADVP (RB just)) (VP (VBZ wants) (S (VP (VP (TO to) (VP (VB make) (NP (NN something)))) (VP (VB happen)))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (CD one) (NN takeover) (NN expert)) (. .)))
+
+(S1 (S (NP (CD One) (NN investment) (NN banker)) (VP (VBD said) (SBAR (S (NP (NNP Mr.) (NNP Steinberg)) (VP (MD may) (VP (VB be) (VP (VBG trying) (S (VP (TO to) (VP (VB position) (NP (PRP himself)) (PP (IN as) (NP (NP (DT a) (JJ friendly) (NN investor)) (SBAR (WHNP (WP who)) (S (VP (MD could) (VP (VB help) (SBAR (S (NP (NNP UAL) (NNP Chairman) (NNP Stephen) (NNP Wolf)) (VP (VBP revive) (NP (DT a) (JJ failed) (NN labor-management) (NN bid)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Steinberg)) (, ,) (NP (PRP he)) (VP (VBD suggested) (, ,) (SBAR (S (VP (MD could) (VP (VB replace) (NP (NP (NNP British) (NNP Airways) (NNP PLC)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN withdrawn) (PP (IN from) (NP (DT the) (NN buy-out) (NN group))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Reliance)) (VP (VBD had) (ADVP (RB already)) (VP (VBN bought) (CC and) (VBN sold) (NP (NNP UAL) (NN stock)) (PP (IN at) (NP (NP (DT a) (JJ big) (NN profit)) (PP (IN without) (S (VP (VBG making) (NP (DT an) (JJ antitrust) (NN filing))))) (PP (IN before) (NP (NP (DT the) (NN collapse)) (NP (NNP Oct.) (CD 13)) (PP (IN of) (NP (DT the) (ADJP (ADJP (QP ($ $) (CD 6.79) (CD billion))) (, ,) (ADJP ($ $) (JJ 300-a-share))) (NN labor-management) (NN buy-out))))))))) (. .)))
+
+(S1 (S (NP (NNP Reliance)) (VP (VP (VBD acquired) (NP (DT a) (ADJP (CD 7) (NN %)) (NNP UAL) (NN stake)) (NP (RB early) (DT this) (NN year)) (PP (IN at) (NP (NP (DT an) (JJ average) (NN cost)) (PP (IN of) (NP (NP ($ $) (CD 110)) (NP (DT a) (NN share))))))) (, ,) (CC and) (VP (VBD reduced) (NP (NP (PRP$ its) (NN stake)) (PP (TO to) (NP (CD 4.7) (NN %))) (SBAR (IN after) (S (NP (NNP UAL)) (VP (VBD accepted) (NP (DT the) (NN bid)) (PP (IN at) (NP (NP (NNS prices)) (ADJP (ADJP (JJR higher)) (PP (IN than) (NP (NP (QP ($ $) (CD 282))) (NP (DT a) (NN share))))))))))))) (. .)))
+
+(S1 (S (NP (NN Market) (NNS sources)) (VP (VP (VBD said) (SBAR (S (NP (NNP Reliance)) (VP (VBZ has) (ADVP (RB already)) (VP (VBN sold) (NP (PRP$ its) (NN entire) (NNP UAL) (NN stake))))))) (, ,) (CC and) (VP (ADVP (RB thus)) (MD would) (RB n't) (VP (VB have) (NP (NP (DT any) (NN reason)) (SBAR (S (VP (TO to) (VP (VB file) (NP (DT the) (NN application)) (S (ADVP (RB simply)) (VP (TO to) (VP (VB boost) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (PRP$ its) (NN stock))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (JJ exact) (NN amount)) (PP (IN of) (NP (NP (NNP Reliance) (POS 's)) (JJ current) (VBG holding)))) (VP (VBZ has) (RB n't) (VP (VBN been) (ADVP (RB formally)) (VP (VBN disclosed)))) (. .)))
+
+(S1 (S (NP (DT The) (NN filing)) (VP (VBZ adds) (NP (DT a) (JJ new) (NN twist)) (PP (TO to) (NP (NP (NN market) (NN speculation)) (SBAR (WHNP (IN that)) (S (NP (NP (NNP Coniston) (NNP Partners)) (, ,) (NP (DT a) (NNP New) (NNP York) (NN money) (NN manager)) (, ,)) (VP (VP (VBZ has) (VP (VBN bought) (NP (NP (QP (JJR more) (IN than) (CD 5)) (NN %)) (PP (IN of) (NP (NNP UAL) (NN stock)))))) (CC and) (VP (MD may) (VP (VB challenge) (NP (NP (DT the) (NNP UAL) (NN board) (POS 's)) (NN decision)) (S (NP (JJ last) (NN week)) (VP (TO to) (VP (VB remain) (ADJP (JJ independent))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Speculation)) (PP (IN about) (NP (NNP Coniston)))) (VP (VBZ has) (VP (VBN caused) (S (NP (DT the) (NN stock)) (VP (TO to) (VP (VB rebound) (PP (IN from) (NP (NP (DT a) (NN low)) (PP (IN of) (NP ($ $) (CD 145)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP UAL) (POS 's)) (NN announcement)) (VP (VBD came) (SBAR (IN after) (S (NP (DT the) (NN market)) (VP (VBN closed) (NP (NN yesterday)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ composite) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN trading))) (, ,) (NP (DT the) (NNS shares)) (VP (VBD closed) (PP (IN at) (NP (QP ($ $) (CD 177)))) (, ,) (ADVP (RB up) (NP ($ $) (CD 1.50)))) (. .)))
+
+(S1 (S (NP (NNP UAL)) (VP (MD would) (RB n't) (VP (VB elaborate) (PP (IN on) (NP (DT a) (NN statement) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD had) (VP (VBN been) (VP (VBN notified) (PP (IN of) (NP (NP (DT the) (NN filing)) (PP (IN by) (NP (NN Reliance)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Reliance)) (VP (VP (VBD confirmed) (NP (DT the) (NN filing))) (CC but) (VP (MD would) (RB n't) (VP (VB elaborate)))) (. .)))
+
+(S1 (S (NP (DT Some) (NN takeover) (NNS experts)) (VP (VBD were) (ADJP (JJ skeptical)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ possible)) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Steinberg)) (VP (VBD made) (NP (DT the) (NN filing)) (S (ADVP (RB only)) (VP (TO to) (VP (VB help) (VP (VB boost) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT any) (VBG remaining) (NNP Reliance) (NN stake)))) (PP (IN in) (NP (NNP UAL)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Steinberg)) (VP (VBZ is) (VP (VBN thought) (S (VP (TO to) (VP (VB be) (PP (IN on) (NP (JJ friendly) (NNS terms))) (PP (IN with) (NP (NP (NNP UAL) (POS 's)) (NNP Mr.) (NNP Wolf)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN investor)) (VP (VBD was) (ADJP (JJ instrumental) (PP (IN in) (S (VP (VBG tapping) (NP (NNP Mr.) (NNP Wolf)))))) (S (VP (TO to) (VP (VB run) (NP (NP (DT the) (NN air) (NN cargo) (NN unit)) (PP (IN of) (NP (NNP Tiger) (NNP International) (NNP Inc)))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Mr.) (NNP Wolf) (POS 's)) (NN success)) (PP (IN in) (NP (DT that) (NN job)))) (VP (VBD helped) (NP (PRP him)) (NP (NN land)) (PP (NP (NP (DT the) (JJ top) (NN job)) (PP (IN with) (NP (NNP UAL)))) (IN in) (NP (NNP December) (CD 1987)))) (. .)))
+
+(S1 (S (CC But) (NP (DT any) (JJ potential) (NN acquirer)) (VP (MD must) (VP (VB attempt) (S (VP (TO to) (VP (VB reach) (NP (NP (DT some) (NN kind)) (PP (IN of) (NP (NP (NP (NN accord)) (PP (IN with) (NP (NP (DT the) (NN company) (POS 's)) (NNS employees)))) (, ,) (NP (RB primarily) (PRP$ its) (NNS pilots)) (CC and) (NP (NP (DT the) (JJ powerful) (NP (NNS machinists) (POS ')) (NN union) (, ,)) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN opposed) (NP (DT a) (NN takeover))))))))))))))) (. .)))
+

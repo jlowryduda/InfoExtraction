@@ -1,0 +1,98 @@
+(S1 (S (NP (NP (DT The) (NN stock) (NN market) (NN correction)) (PP (IN of) (NP (NNP Oct.) (CD 13) (, ,) (CD 1989) (, ,)))) (VP (VBD was) (NP (NP (DT a) (JJ grim) (NN reminder)) (PP (IN of) (NP (DT the) (NAC (NNP Oct.) (CD 19) (, ,) (CD 1987)) (NN market) (NN collapse))))) (. .)))
+
+(S1 (S (SBAR (IN Since) (S (PRN (, ,) (PP (IN like) (NP (NNS earthquakes))) (, ,)) (NP (NN stock) (NN market) (NNS disturbances)) (VP (MD will) (ADVP (RB always)) (VP (VB be) (PP (IN with) (NP (PRP us))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ prudent) (S (VP (TO to) (VP (VB take) (NP (NP (DT all) (JJ possible) (NNS precautions)) (PP (IN against) (NP (DT another) (JJ such) (NN market) (NN collapse))))))))) (. .)))
+
+(S1 (S (PP (IN In) (ADJP (JJ general))) (, ,) (NP (NNS markets)) (VP (VP (VB function) (ADVP (RB well))) (CC and) (VP (VB adjust) (ADVP (RB smoothly)) (PP (TO to) (S (VP (VBG changing) (NP (ADJP (JJ economic) (CC and) (JJ financial)) (NNS circumstances))))))) (. .)))
+
+(S1 (S (CC But) (S (NP (EX there)) (VP (VBP are) (NP (NP (NNS times)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VB seize) (PRT (RP up)))))))) (, ,) (CC and) (S (NP (JJ panicky) (NNS sellers)) (VP (MD can) (RB not) (VP (VB find) (NP (NNS buyers))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB just)) (SBAR (WHNP (WP what)) (S (VP (VBD happened) (PP (IN in) (NP (DT the) (NNP October) (CD 1987) (NN crash))))))) (. .)))
+
+(S1 (S (S (SBAR (IN As) (S (NP (DT the) (NN market)) (VP (VBD tumbled)))) (, ,) (NP (JJ disorderly) (NN market) (NNS conditions)) (VP (VBD prevailed))) (: :) (S (NP (NP (DT The) (NNS margins)) (PP (IN between) (NP (NN buying) (NNS bids) (CC and) (NN selling) (NNS bids)))) (VP (VBD widened))) (: ;) (S (NP (NP (NN trading)) (PP (IN in) (NP (JJ many) (NNS stocks)))) (VP (VBD was) (VP (VBN suspended)))) (: ;) (S (NP (NNS orders)) (VP (VBD took) (ADJP (RB unduly) (JJ long)) (S (VP (TO to) (VP (VB be) (VP (VBN executed))))))) (: ;) (CC and) (S (NP (JJ many) (NNS specialists)) (VP (VBD stopped) (S (VP (VBG trading) (ADVP (RB altogether)))))) (. .)))
+
+(S1 (S (S (NP (NP (DT These) (NNS failures)) (PP (IN in) (NP (NN turn)))) (VP (VBD contributed) (PP (TO to) (NP (NP (DT the) (NN fall)) (PP (IN in) (NP (DT the) (NN market) (NNS averages))))))) (: :) (S (NP (NP (NN Uncertainty)) (PP (VBN extracted) (NP (NP (DT an) (JJ extra) (NN risk) (NN premium)) (CC and) (NP (NNS margin-calls))))) (VP (VBD triggered) (NP (JJ additional) (NN selling) (NNS pressures)))) (. .)))
+
+(S1 (S (NP (DT The) (NN situation)) (VP (VBD was) (PP (IN like) (NP (NP (DT that)) (PP (IN of) (NP (DT a) (NN skier))) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBN thrown) (ADVP (RB slightly)) (PP (IN off) (NP (NN balance))) (PP (IN by) (NP (NP (DT an) (JJ unexpected) (VB bump)) (PP (IN on) (NP (DT the) (NN slope)))))))))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NNS skis)) (VP (VBD spread) (ADVP (RBR farther) (CC and) (RBR farther) (RB apart)) (: --) (SBAR (SBAR (RB just) (IN as) (S (NP (NN buy-sell)) (VP (VBZ spreads) (VP (VB widen) (PP (IN during) (NP (DT a) (JJ financial) (NN panic))))))) (: --) (CC and) (SBAR (RB soon) (S (NP (PRP he)) (VP (VBZ is) (PRT (RP out)) (PP (IN of) (NP (NN control)))))))) (. .)))
+
+(S1 (S (S (ADJP (JJ Unable) (S (VP (TO to) (VP (VB stop) (NP (PRP$ his) (VBG accelerating) (NN descent))))))) (, ,) (NP (PRP he)) (VP (VBZ crashes)) (. .)))
+
+(S1 (S (PP (IN After) (NP (DT the) (CD 1987) (NN crash))) (, ,) (CC and) (S (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (DT the) (NNS recommendations)) (PP (IN of) (NP (JJ many) (NNS studies))))))) (, ,) (NP (`` `) (NP (`` `) (NN circuit) (NNS breakers) ('' ')) ('' ')) (VP (VBD were) (VP (VBN devised) (S (VP (TO to) (VP (VB allow) (S (NP (NN market) (NNS participants)) (VP (TO to) (VP (VP (VB regroup)) (CC and) (VP (VB restore) (NP (JJ orderly) (NN market) (NNS conditions)))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ doubtful)) (PRN (, ,) (ADVP (RB though)) (, ,)) (SBAR (IN whether) (S (NP (NN circuit) (NNS breakers)) (VP (VBP do) (NP (DT any) (JJ real) (JJ good)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ additional) (NN time))) (NP (PRP they)) (VP (VBP provide) (SBAR (S (NP (RB even) (JJR more) (NN order) (NNS imbalances)) (VP (MD might) (VP (VB pile) (PRT (RP up)))))) (, ,) (SBAR (IN as) (S (NP (JJ would-be) (NNS sellers)) (ADVP (RB finally)) (VP (VB get) (NP (PRP$ their) (NN broker)) (PP (IN on) (NP (DT the) (NN phone))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (DT an) (JJ appropriate) (NN institution)) (VP (MD should) (VP (VB be) (VP (VBN charged) (PP (IN with) (NP (NP (NP (DT the) (NN job)) (PP (IN of) (S (VP (VBG preventing) (NP (NN chaos)) (PP (IN in) (NP (DT the) (NN market))))))) (: :) (NP (DT the) (NNP Federal) (NNP Reserve))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN availability)) (PP (IN of) (NP (NP (JJ timely) (NN assistance)) (: --) (PP (IN of) (NP (DT a) (NN backstop))) (: --)))) (VP (MD can) (VP (VB help) (S (NP (NNS markets)) (VP (VB retain) (NP (PRP$ their) (NN resilience)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Fed)) (ADVP (RB already)) (VP (VBZ buys) (CC and) (VBZ sells) (S (NP (JJ foreign) (NN exchange)) (VP (TO to) (VP (VB prevent) (NP (NP (JJ disorderly) (NNS conditions)) (PP (IN in) (NP (JJ foreign-exchange) (NNS markets)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Fed)) (VP (VBZ has) (VP (VBN assumed) (NP (NP (DT a) (JJ similar) (NN responsibility)) (PP (IN in) (NP (DT the) (NN market)))) (PP (IN for) (NP (NN government) (NNS securities))))) (. .)))
+
+(S1 (S (NP (DT The) (NN stock) (NN market)) (VP (VBZ is) (NP (NP (DT the) (RB only) (JJ major) (NN market)) (PP (IN without) (NP (NP (DT a) (NN market-maker)) (PP (IN of) (NP (NP (JJ unchallenged) (NN liquidity)) (CC or) (NP (NP (DT a) (NN buyer)) (PP (IN of) (NP (JJ last) (NN resort)))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ does) (RB not) (VP (VB mean) (SBAR (IN that) (S (NP (DT the) (NNP Federal) (NNP Reserve)) (VP (VBZ does) (RB not) (ADVP (RB already)) (VP (VB play) (NP (NP (DT an) (JJ important) (JJ indirect) (NN role)) (PP (IN in) (NP (DT the) (NN stock) (NN market)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1987))) (, ,) (NP (PRP it)) (VP (VBD pumped) (NP (NNS billions)) (PP (IN into) (NP (DT the) (NNS markets))) (PP (IN through) (NP (NP (JJ open) (NN market) (NNS operations)) (CC and) (NP (DT the) (NN discount) (NN window))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VP (VBD lent) (NP (NN money)) (PP (TO to) (NP (NNS banks)))) (CC and) (VP (VBD encouraged) (S (NP (PRP them)) (VP (TO to) (VP (VB make) (S (NP (NNS funds)) (ADJP (JJ available) (PP (TO to) (NP (NN brokerage) (NNS houses)))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (, ,) (PP (IN in) (NP (NN turn))) (, ,) (VP (VBD lent) (NP (NN money)) (PP (TO to) (NP (NP (PRP$ their) (NNS customers)) (: --) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN supposed) (S (VP (TO to) (VP (VB recognize) (NP (DT the) (NN opportunity) (S (VP (TO to) (VP (VP (VB make) (NP (DT a) (NN profit)) (PP (IN in) (NP (DT the) (NN turmoil)))) (CC and) (VP (VB buy) (NP (NNS shares))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Fed)) (ADVP (RB also)) (VP (VBZ has) (NP (DT the) (NN power) (S (VP (TO to) (VP (VB set) (NP (NN margin) (NNS requirements))))))) (. .)))
+
+(S1 (SQ (CC But) (MD would) (RB n't) (NP (PRP it)) (VP (VB be) (ADJP (RBR more) (JJ efficient) (CC and) (JJ effective) (S (VP (TO to) (VP (VB supply) (NP (JJ such) (NN support)) (PP (TO to) (NP (DT the) (NN stock) (NN market))) (ADVP (RB directly))))))) (. ?)))
+
+(S1 (S (PP (RB Instead) (IN of) (S (VP (VP (VBG flooding) (NP (DT the) (JJ entire) (NN economy)) (PP (IN with) (NP (NN liquidity)))) (, ,) (CC and) (VP (ADVP (RB thereby)) (VBG increasing) (NP (NP (DT the) (NN danger)) (PP (IN of) (NP (NN inflation)))))))) (, ,) (NP (DT the) (NNP Fed)) (VP (MD could) (VP (VB support) (NP (DT the) (NN stock) (NN market)) (ADVP (RB directly)) (PP (IN by) (S (VP (VBG buying) (NP (NN market) (NNS averages)) (PP (IN in) (NP (DT the) (NNS futures) (NN market)))))) (, ,) (S (ADVP (RB thus)) (VP (VBG stabilizing) (NP (NP (DT the) (NN market)) (PP (IN as) (NP (DT a) (NN whole)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN stock) (NN market)) (VP (VBZ is) (ADVP (RB certainly)) (RB not) (ADJP (ADJP (RB too) (JJ big)) (SBAR (IN for) (S (NP (DT the) (NNP Fed)) (VP (TO to) (VP (VB handle))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN foreign-exchange) (CC and) (NN government) (NNS securities) (NNS markets)) (VP (VBP are) (ADJP (RB vastly) (JJR larger))) (. .)))
+
+(S1 (S (NP (NP (JJ Daily) (NN trading) (NN volume)) (PP (IN in) (NP (DT the) (NNP New) (NNP York) (JJ foreign) (NN exchange) (NN market)))) (VP (VBZ is) (NP (QP ($ $) (CD 130) (CD billion)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ daily) (NN volume)) (PP (IN for) (NP (NNP Treasury) (NNPS Securities)))) (VP (VBZ is) (NP (QP (RB about) ($ $) (CD 110) (CD billion)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (VBN combined) (NN value)) (PP (IN of) (NP (NP (JJ daily) (NN equity) (NN trading)) (PP (IN on) (NP (NP (DT the) (NNP New) (NNP York) (NNP Exchange)) (, ,) (NP (DT the) (NNP American) (NNP Stock) (NNP Exchange)) (CC and) (NP (DT the) (NNP NASDAQ) (JJ over-the-counter) (NN market))))))) (VP (VBZ ranges) (PP (IN between) (NP (QP ($ $) (CD 7) (CD billion) (CC and) ($ $) (CD 10) (CD billion))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (QP ($ $) (CD 13) (CD billion))) (SBAR (S (NP (DT the) (NNP Fed)) (VP (VBN injected) (PP (IN into) (NP (DT the) (NN money) (NNS markets))) (PP (IN after) (NP (DT the) (CD 1987) (NN crash))))))) (VP (VBZ is) (ADVP (RBR more) (IN than)) (ADJP (JJ enough) (S (VP (TO to) (VP (VB buy) (NP (NP (PDT all) (DT the) (NNS stocks)) (VP (VBN traded) (PP (IN on) (NP (DT a) (JJ typical) (NN day)))))))))) (. .)))
+
+(S1 (S (ADVP (RBR More) (RB carefully)) (NP (VBN targeted) (NN intervention)) (VP (MD might) (ADVP (RB actually)) (VP (VB reduce) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (NN government) (NN action)))))) (. .)))
+
+(S1 (S (CC And) (S (VP (VBG taking) (NP (ADJP (RBR more) (JJ direct)) (NN action)))) (VP (VBZ has) (NP (NP (DT the) (NN advantage)) (PP (IN of) (S (VP (VBG avoiding) (NP (NP (JJ sharp) (NNS increases)) (PP (IN in) (NP (DT the) (NN money) (NN supply))) (, ,) (PP (JJ such) (IN as) (S (VP (VBD happened) (PP (IN in) (NP (NNP October) (CD 1987)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Fed) (POS 's)) (NN stock) (NN market) (NN role)) (VP (MD ought) (RB not) (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ ambitious))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD should) (VP (VB seek) (S (ADVP (RB only)) (VP (TO to) (VP (VB maintain) (NP (NP (DT the) (VBG functioning)) (PP (IN of) (NP (NP (NNS markets)) (: --) (S (RB not) (VP (TO to) (VP (VB prop) (PRT (RP up)) (SBAR (S (NP (NP (DT the) (NNP Dow) (NNP Jones)) (CC or) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange))) (VP (NNS averages) (PP (IN at) (NP (DT a) (JJ particular) (NN level))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Fed)) (VP (MD should) (VP (NN guard) (PP (PP (IN against) (NP (JJ systemic) (NN risk))) (, ,) (CC but) (RB not) (PP (IN against) (NP (NP (DT the) (NNS risks)) (ADJP (JJ inherent) (PP (IN in) (NP (JJ individual) (NNS stocks))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (ADJP (JJ inappropriate) (PP (IN for) (NP (NP (DT the) (NN government)) (CC or) (NP (NP (DT the) (JJ central) (NN bank)) (SBAR (S (VP (TO to) (VP (VB buy) (CC or) (VB sell) (NP (NNP IBM) (CC or) (NNP General) (NNPS Motors) (NNS shares)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (DT the) (NNP Fed)) (VP (MD could) (VP (VB buy) (NP (DT the) (JJ broad) (NN market) (NNS composites)) (PP (IN in) (NP (DT the) (NNS futures) (NN market))))) (. .)))
+
+(S1 (S (NP (DT The) (VBN increased) (NN demand)) (VP (MD would) (VP (VP (VB normalize) (NP (NN trading))) (CC and) (VP (VB stabilize) (NP (NNS prices))))) (. .)))
+
+(S1 (S (S (VP (VBG Stabilizing) (NP (DT the) (JJ derivative) (NNS markets)))) (VP (MD would) (VP (VB tend) (S (VP (TO to) (VP (VB stabilize) (NP (DT the) (JJ primary) (NN market))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Fed)) (VP (MD would) (VP (VB eliminate) (NP (NP (NP (DT the) (NN cause)) (PP (IN of) (NP (NP (DT the) (JJ potential) (NN panic)) (PP (RB rather) (IN than) (S (VP (VBG attempting) (S (VP (TO to) (VP (VB treat) (NP (DT the) (NN symptom))))))))))) (: --) (NP (NP (DT the) (NN liquidity)) (PP (IN of) (NP (DT the) (NNS banks))))))) (. .)))
+
+(S1 (S (NP (JJ Disorderly) (NN market) (NNS conditions)) (VP (MD could) (VP (VB be) (VP (VBN observed) (ADVP (RB quite) (RB frequently)) (PP (IN in) (NP (JJ foreign) (NN exchange) (NNS markets))) (PP (IN in) (NP (DT the) (CD 1960s) (CC and) (CD 1970s)))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN since) (S (NP (NP (DT the) (NN member) (NNS countries)) (PP (IN of) (NP (DT the) (NNP International) (NNP Monetary) (NNP Fund)))) (VP (VBD agreed) (PP (TO to) (NP (DT the) (`` `) (NX (`` `) (NX (NX (NNS Guidelines)) (PP (TO to) (ADJP (JJ Floating)))) ('' ')) ('' '))) (PP (IN in) (NP (CD 1974)))))) (, ,) (NP (JJ such) (NNS difficulties)) (VP (VBP have) (VP (VBN been) (VP (VBN avoided)))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (MD can) (RB not) (VP (VB recall) (NP (NP (DT any) (NN disorder)) (PP (IN in) (NP (NN currency) (NNS markets)))) (SBAR (IN since) (S (NP (DT the) (CD 1974) (NNS guidelines)) (VP (VBD were) (VP (VBN adopted))))))) (. .)))
+
+(S1 (S (ADVP (RB Thus)) (, ,) (NP (NP (DT the) (JJ mere) (NN existence)) (PP (IN of) (NP (DT a) (JJ market-stabilizing) (NN agency)))) (VP (VBZ helps) (S (VP (TO to) (VP (VB avoid) (NP (NP (NN panic)) (PP (IN in) (NP (NNS emergencies)))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ old) (NN saying)) (VP (VBZ advises))) (: :) (`` `) (S (`` `) (SBAR (IN If) (S (NP (PRP it)) (VP (VBZ ai) (RB n't) (VP (VBD broke))))) (, ,) (VP (VB do) (RB n't) (VP (VB fix) (NP (PRP it))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (DT this)) (VP (MD could) (VP (VB be) (NP (NP (DT a) (NN case)) (SBAR (WHADVP (WRB where)) (S (NP (NP (PRP we)) (NP (DT all))) (VP (MD might) (VP (VB go) (ADJP (JJ broke)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (RB n't) (VP (VBN fixed)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Heller)) (, ,) (RRC (ADVP (RB now)) (PP (IN at) (NP (NNP VISA) (NNP International)))) (, ,)) (VP (VBD was) (NP (NP (DT a) (NN governor)) (PP (IN of) (NP (DT the) (NNP Federal) (NNP Reserve) (NNP Board)))) (PP (IN from) (NP (CD 1986))) (PP (IN until) (NP (RBR earlier) (DT this) (NN year)))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ is) (VP (VBN adapted) (PP (IN from) (NP (NP (DT a) (NN speech)) (PP (TO to) (NP (DT the) (NNP Commonwealth) (NNP Club)))) (PP (IN in) (NP (NNP San) (NNP Francisco)))))) (. .)))
+

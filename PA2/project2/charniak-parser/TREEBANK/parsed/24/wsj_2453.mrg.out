@@ -1,0 +1,26 @@
+(S1 (S (NP (NNP Intel) (NNP Corp.)) (VP (VBD reported) (NP (NP (DT a) (ADJP (CD 50) (NN %)) (NN drop)) (PP (IN in) (NP (JJ third-quarter) (JJ net) (NN income)))) (, ,) (PP (ADVP (RB partly)) (IN because) (IN of) (NP (NP (DT a) (JJ one-time) (NN charge)) (PP (IN for) (NP (VBN discontinued) (NNS operations)))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ big) (NN semiconductor) (CC and) (NN computer) (NN maker)) (, ,) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD had) (NP (NP (NN net)) (PP (IN of) (NP (NP (QP ($ $) (CD 72) (CD million))) (, ,) (CC or) (NP (CD 38) (NNS cents)) (, ,) (ADVP (RB down) (NP (CD 50) (NN %)) (PP (IN from) (NP (NP (QP ($ $) (CD 142.7) (CD million))) (, ,) (CC or) (NP (NP (CD 78) (NNS cents)) (NP (DT a) (NN share))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJR lower) (NN net)) (VP (VBD included) (NP (NP (DT a) (NN charge)) (PP (IN of) (NP (NP (QP ($ $) (CD 35) (CD million))) (, ,) (ADJP (JJ equal) (PP (TO to) (NP (NP (CD 12) (NNS cents)) (NP (DT a) (NN share))))))) (PP (IN on) (NP (DT an) (JJ after-tax) (NN basis)))) (, ,) (PP (IN for) (NP (NP (DT the) (NN cost)) (PP (IN of) (S (VP (VBG abandoning) (NP (NP (DT a) (NNS computer-systems) (JJ joint) (NN venture)) (PP (IN with) (NP (NP (NNP Siemens) (NNP AG)) (PP (IN of) (NP (NNP West) (NNP Germany)))))))))))) (. .)))
+
+(S1 (S (NP (NN Earning)) (ADVP (RB also)) (VP (VBD fell) (PP (IN from) (NP (DT the) (JJ year-ago) (NN period))) (PP (IN because) (IN of) (NP (VBG slowing) (NN microchip) (NN demand)))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD amounted) (PP (TO to) (NP (QP ($ $) (CD 771.4) (CD million)))) (, ,) (ADVP (RB down) (NP (CD 1.7) (NN %)) (PP (IN from) (NP (QP ($ $) (CD 784.9) (CD million)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Intel) (POS 's)) (NN stock)) (VP (VBD rose) (PP (IN in) (NP (JJ early) (JJ over-the-counter) (NN trading))) (NP (NNP Friday)) (, ,) (SBAR (IN as) (S (NP (NNS investors)) (VP (VBD appeared) (ADJP (JJ relieved)) (SBAR (IN that) (S (NP (NP (NP (DT the) (NN company) (POS 's)) (NN income)) (PP (IN from) (NP (VBG continuing) (NNS operations)))) (VP (VBD was) (UCP (CONJP (RB only) (RB slightly)) (PP (IN below) (NP (NP (NP (DT the) (JJ second) (NN quarter) (POS 's)) (NNS earnings)) (PP (IN of) (NP (NP (QP ($ $) (CD 99.3) (CD million))) (, ,) (CC or) (NP (NP (CD 53) (NNS cents)) (NP (DT a) (NN share))) (, ,))))) (CC and) (SBAR (IN that) (S (NP (NNS sales)) (ADVP (RB actually)) (VP (VBD exceeded) (NP (NP (DT the) (QP ($ $) (CD 747.3) (CD million))) (PP (IN for) (NP (DT the) (JJ second) (NN period))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Intel)) (ADVP (RB later)) (VP (VBD succumbed) (PP (TO to) (NP (NP (DT the) (NN stock) (NN market) (POS 's)) (NN plunge))) (, ,) (S (VP (VBG closing) (PP (IN at) (NP ($ $) (CD 31.75))) (, ,) (ADVP (RB down) (NP ($ $) (CD 2.125)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP August))) (, ,) (NP (NNP Intel)) (VP (VBD warned) (SBAR (IN that) (S (NP (JJ third-quarter) (NNS earnings)) (VP (MD might) (VP (VB be) (`` `) (ADJP (`` `) (JJ flat) (PP (TO to) (NP (RB down) (POS '))) ('' ') (PP (IN from) (NP (NP (DT the) (JJ previous) (NN period) (POS 's)) (PP (IN because) (IN of) (NP (NP (NP (VBG slowing) (NNS sales) (NN growth)) (PP (IN of) (NP (PRP$ its) (CD 80386) (NN microprocessor)))) (, ,) (NP (NP (JJ start-up) (NNS costs)) (VP (VBN associated) (PP (IN with) (NP (NP (DT a) (NN line)) (PP (IN of) (NP (NNS computers))))))) (CC and) (NP (NP (NNS costs)) (PP (IN of) (S (VP (VBG preparing) (PP (IN for) (NP (NP (NN mass) (NNS shipments)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (JJ new) (CD 80486) (NN chip))))) (PP (IN in) (NP (DT the) (JJ current) (NN quarter))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Friday))) (, ,) (NP (NP (NNP Andrew) (NNP S.Grove)) (, ,) (NP (NP (NNP Intel) (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,)) (VP (VBD said) (`` `) (S (`` `) (NP (NP (NNP Intel) (POS 's)) (NN business)) (VP (VBZ is) (ADJP (JJ strong))))) (. .)))
+
+(S1 (S (NP (PRP$ Our) (NNS bookings)) (VP (VBD improved) (SBAR (IN as) (S (S (NP (DT the) (NN quarter)) (VP (VBD progressed))) (CC and) (S (NP (NNP September)) (VP (VBD was) (ADJP (RB especially) (JJ good))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (JJ full) (NN quarter))) (, ,) (S (NP (PRP$ our) (NNS bookings)) (VP (VBD were) (ADJP (ADJP (JJR higher)) (PP (IN than) (NP (DT the) (JJ previous) (NN quarter)))))) (, ,) (CC and) (S (NP (PRP$ our) (JJ book-to-bill) (NN ratio)) (VP (VBD exceeded) (NP (CD 1.0)))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN For) (NP (DT the) (JJ nine-month) (NN period))) (, ,) (NP (NNP Intel)) (VP (VBD reported) (NP (NP (NN net)) (PP (IN of) (NP (NP (QP ($ $) (CD 268.3) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.43)) (NP (DT a) (NN share))) (, ,) (ADVP (RB down) (NP (CD 27) (NN %)) (PP (IN from) (NP (NP (QP ($ $) (CD 367.1) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 2.05)) (NP (DT a) (NN share)))))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD amounted) (PP (TO to) (NP (QP ($ $) (CD 2.23) (CD billion)))) (, ,) (ADVP (RB up) (RB slightly) (PP (IN from) (NP (QP ($ $) (CD 2.15) (CD billion)))))) (. .)))
+

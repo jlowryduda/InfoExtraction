@@ -1,0 +1,8 @@
+(S1 (NP (NN Money) (NN Market) (NNS Deposits) (: -) (NP (DT a) (CD 6.23) (NN %))))
+
+(S1 (NP (NP (DT a) (: -) (JJ Average) (NN rate)) (VP (VBN paid) (NP (NN yesterday)) (PP (IN by) (NP (CD 100) (JJ large) (NNS banks) (CC and) (NNS thrifts))) (PP (IN in) (NP (DT the) (CD 10) (JJS largest) (JJ metropolitan) (NNS areas))) (SBAR (IN as) (S (VP (VBN compiled) (PP (IN by) (NP (NNP Bank) (NNP Rate) (NNP Monitor))))))) (. .)))
+
+(S1 (FRAG (X (SYM b)) (: -) (NP (JJ Current) (JJ annual) (NN yield)) (. .)))
+
+(S1 (NP (NP (VBN Guaranteed) (NN minimum)) (NP (CD 6) (NN %)) (. .)))
+

@@ -1,0 +1,22 @@
+(S1 (S (NP (NNP Bankers) (NNP Trust) (NNP New) (NNP York) (NNP Corp.)) (VP (VBD won) (NP (NP (NN permission)) (PP (IN from) (NP (DT the) (NNP Federal) (NNP Reserve) (NNP Board))) (S (VP (TO to) (VP (VB move) (NP (NP (DT the) (NN company) (POS 's)) (JJ private) (NN placement) (NN department)) (PP (TO to) (NP (PRP$ its) (NN fledgling) (NNS securities) (NN subsidiary)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (ADJP (RB seemingly) (JJ mundane)) (NN action)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN opposed) (PP (IN by) (NP (NP (DT the) (NNP Securities) (NNP Industry) (NNP Association)) (, ,) (NP (DT a) (NN trade) (NN group)))))))) (, ,)) (VP (VBZ has) (NP (NP (JJ important) (NNS implications)) (PP (IN for) (NP (NP (NP (NNS banks) (POS ')) (JJ recent) (NN entry)) (PP (IN into) (NP (NP (DT the) (NN underwriting)) (PP (IN of) (NP (JJ corporate) (NNS securities))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Fed) (POS 's)) (NN action)) (VP (VBZ increases) (NP (NP (DT the) (NN volume)) (PP (IN of) (NP (ADJP (RB publicly) (VBN registered)) (NNS securities)))) (SBAR (IN that) (S (NP (NP (NNS banks) (POS ')) (NNS securities) (NNS affiliates)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB underwrite)))))))))) (. .)))
+
+(S1 (S (NP (JJ Several) (JJ other) (NNS banks)) (VP (VBP have) (NP (NP (JJ similar) (NNS applications)) (VP (VBG pending)))) (. .)))
+
+(S1 (S (PP (IN Over) (NP (DT the) (JJ past) (CD two) (NNS years))) (, ,) (NP (DT the) (NNP Fed)) (VP (VBZ has) (VP (VBN given) (NP (NP (DT a) (NN handful)) (PP (IN of) (NP (NP (NNS banks) (POS ')) (NNS securities) (NNS affiliates)))) (NP (NN permission) (S (VP (TO to) (VP (VP (VB underwrite)) (CC and) (VP (VB deal) (PP (IN in) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ corporate) (, ,) (JJ asset-backed) (CC and) (JJ municipal) (NNS securities))) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (ADVP (RB previously)) (VP (VBN been) (NP (NP (DT the) (JJ sole) (NN domain)) (PP (IN of) (NP (NNS securities) (NNS firms))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Securities) (NNS firms)) (VP (VBP have) (VP (VBN challenged) (NP (DT those) (NNP Fed) (NNS approvals)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP they)) (VP (VBP violate) (NP (NP (JJ federal) (NNS laws)) (VP (VBG separating) (NP (DT the) (NN banking) (CC and) (NNS securities) (NNS businesses))))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (DT the) (NNP Fed)) (VP (VBD limited) (NP (DT the) (NN revenue)) (SBAR (IN that) (S (NP (NNS banks)) (VP (MD could) (VP (VB earn) (PP (PP (IN from) (NP (DT these) (JJ new) (VBG underwriting) (NNS activities))) (PP (TO to) (NP (NP (QP (DT no) (RBR more) (IN than) (CD 10)) (NN %)) (PP (IN of) (NP (NP (DT the) (NN revenue)) (VP (VBN earned) (PP (IN from) (NP (NP (JJ other) (NNS securities) (NNS activities)) (ADJP (RB long) (JJ open) (PP (TO to) (NP (NNS banks)))) (, ,) (PP (JJ such) (IN as) (S (VP (VBG dealing) (PP (IN in) (NP (NNP U.S.) (NNPS Treasurys))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT some) (NNS banks))) (NP (DT that) (ADJP (CD 10) (NN %)) (NN ceiling)) (VP (VBD created) (NP (NNS problems))) (. .)))
+
+(S1 (S (CC But) (, ,) (PP (IN by) (S (VP (VBG allowing) (S (NP (NNP BT) (NNPS Securities) (NNP Inc.)) (VP (TO to) (VP (VB handle) (NP (JJ private) (NNS placements)))))))) (, ,) (NP (DT the) (NNP Fed)) (VP (VBD boosted) (NP (NP (DT the) (NN volume)) (PP (IN of) (NP (NP (JJ new) (NNS types)) (PP (IN of) (S (VP (VBG underwriting) (SBAR (IN that) (S (NP (DT the) (NN unit)) (VP (MD can) (VP (VB do)))))))))))) (. .)))
+
+(S1 (S (NP (JJ Private) (NNS placements)) (VP (VBP involve) (NP (NP (NN debt) (CC and) (NN equity) (NNS securities)) (PRN (, ,) (PP (ADVP (RB typically)) (IN in) (NP (NP (NNS denominations)) (PP (IN of) (NP (QP ($ $) (CD 1) (CD million)))))) (, ,)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP are) (VP (VBN sold) (PP (TO to) (NP (JJ institutional) (NNS investors))))) (CC and) (VP (VBP are) (RB n't) (VP (VBN registered) (PP (IN with) (NP (DT the) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission)))))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (NNP Bankers) (NNP Trust)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD placed) (NP (NP (QP ($ $) (CD 10) (CD billion))) (PP (IN of) (NP (NP (JJ corporate) (NN debt)) (CC and) (NP (NNS equities))))) (ADVP (RB privately)))))) (. .)))
+

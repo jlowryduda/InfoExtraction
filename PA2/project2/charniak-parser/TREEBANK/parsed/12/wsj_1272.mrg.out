@@ -1,0 +1,112 @@
+(S1 (S (NP (NNP Garry) (NNP Kasparov)) (VP (VP (VBD went) (S (VP (TO to) (VP (VB combat) (NP (NNP Sunday)) (PP (IN with) (NP (NP (DT the) (NN world) (POS 's)) (ADJP (RBS most) (JJ advanced)) (JJ chess) (NN computer))))))) (CC and) (VP (VBD kicked) (NP (PRP it)) (PRT (RP around)) (PRN (: --) (INTJ (RB symbolically)) (, ,) (RB anyway) (: --)) (SBAR (IN like) (S (NP (DT an) (JJ old) (NN tin)) (VP (MD can)))))) (. .)))
+
+(S1 (S (S (VP (VBG Playing) (ADVP (JJ black)) (PP (IN in) (NP (DT the) (JJ first) (NN game))))) (, ,) (NP (DT the) (JJ human) (NN champion)) (VP (VBN maneuvered) (NP (NP (JJ Deep) (NN Thought)) (, ,) (VP (VBN known) (PP (IN for) (NP (PRP$ its) (NN attacking) (NN prowess)))) (, ,)) (PP (IN into) (NP (DT a) (RB totally) (JJ passive) (NN position)))) (. .)))
+
+(S1 (S (RB Then) (NP (PRP he)) (VP (VBD unleashed) (NP (PRP$ his) (JJ own) (, ,) (ADJP (JJ unstoppable) (, ,)) (NN attack))) (. .)))
+
+(S1 (S (CC And) (PP (IN in) (NP (DT the) (JJ second) (NN game))) (, ,) (PP (IN with) (S (NP (NNP Mr.) (NNP Kasparov)) (VP (VBG advancing) (ADVP (RB ferociously)) (PP (IN as) (ADJP (JJ white)))))) (, ,) (NP (NNP D.T.)) (VP (VP (VBD offered) (NP (JJ feeble) (NN resistance))) (CC and) (VP (VBD lost) (ADVP (RB even) (RBR faster)))) (. .)))
+
+(S1 (S (ADVP (RB Well)) (, ,) (NP (NN mankind)) (VP (MD can) (VP (VB rest) (ADJP (JJR easier)) (PP (IN for) (NP (RB now))))) (. .)))
+
+(S1 (S (SBAR (IN Though) (S (NP (RB almost) (NN everybody)) (PP (IN at) (NP (DT the) (NN playing) (NN site))) (VP (VBD had) (VP (VBN been) (VP (VBG looking) (PP (IN for) (NP (DT the) (JJ 26-year-old) (NNP Soviet))) (S (VP (TO to) (VP (VB beat) (NP (DT the) (JJ Pennsylvania-based) (NN computer)))))))))) (, ,) (NP (PRP he)) (VP (VBD gave) (NP (DT the) (NN machine)) (NP (DT a) (ADJP (RB far) (JJR worse)) (NN drubbing) (SBAR (IN than) (S (NP (JJ many)) (VP (VBN expected)))))) (. .)))
+
+(S1 (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (NNP Mr.) (NNP Kasparov)) (VP (VBD strode) (PP (IN into) (NP (DT the) (NN playing) (NN hall)))))) (, ,) (NP (PRP he)) (VP (VBD called) (S (NP (DT the) (NN outcome)))) (. .)))
+
+(S1 (S (SBAR (IN As) (IN if) (S (NP (PRP he)) (VP (VBD were) (NP (NNP Iron) (NNP Mike)) (, ,) (S (RB about) (VP (TO to) (VP (VB enter) (NP (DT the) (NN ring)) (PP (IN with) (NP (DT a) (JJ 98-pound) (NN weakling))))))))) (, ,) (NP (PRP he)) (VP (VBD declared) (: :) (`` `) (S (`` `) (NP (PRP I)) (VP (MD 'll) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB beat) (NP (NP (DT any) (NN computer)) (PP (IN for) (NP (DT the) (JJ next) (CD five) (NNS years)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (NP (PRP$ His) (NN strategy)) (PP (IN against) (NP (NNP D.T.)))) (VP (VBD was) (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ thorough) (NN study)) (PP (IN of) (NP (NP (NNS dozens)) (PP (IN of) (NP (PRP$ its) (NNS games)))))))))) (, ,) (NP (PRP he)) (VP (VBD said) (, ,) (PP (VBG including) (NP (NP (PRP$ its) (JJ notorious) (NNS whippings)) (PP (IN of) (NP (NP (DT the) (NNS grandmasters)) (ADJP (JJ Bent) (NP (NP (NNP Larsen)) (PP (IN of) (NP (NP (NNP Denmark) (CC and) (NNP Robert) (NNP Byrne)) (PP (IN of) (NP (DT the) (NNP U.S.)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Kasparov)) (VP (VBD was) (VP (VBN underwhelmed))) (. .)))
+
+(S1 (S (S (`` `) (S (`` `) (NP (NP (DT The) (NN computer) (POS 's)) (NN mind)) (VP (VBZ is) (ADJP (ADJP (RB too) (JJ straight)) (, ,) (ADJP (RB too) (JJ primitive)))) (, ,) ('' ')) ('' ') (VP (VBG lacking) (NP (NP (DT the) (NN intuition) (CC and) (NN creativity)) (VP (VBN needed) (S (VP (TO to) (VP (VB reach) (NP (DT the) (NN top))))))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN champion)) (ADVP (RB apparently)) (VP (VBD was) (RB not) (ADJP (JJ worried) (PP (ADVP (IN at) (DT all)) (IN about) (NP (NP (NNP D.T.) (POS 's)) (JJ strong) (NNS points))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ Its) (NN chief) (NN builder)) (, ,) (NP (NNP Taiwan-born) (NNP Feng-hsiung) (NNP Hsu)) (, ,)) (VP (VBN nicknamed) (S (NP (PRP$ his) (NN brainchild)) (`` `) (NP (`` `) (NP (DT the) (NNP Weasel)) ('' ')) ('' ') (PP (IN for) (NP (PRP$ its) (JJ tactical) (NN flair)))) (PP (IN at) (S (VP (VBG wriggling) (PP (IN out) (PP (IN of) (NP (JJ horrible) (NNS positions)))))))) (. .)))
+
+(S1 (S (NP (NNP D.T.)) (ADVP (RB also)) (VP (VP (VBZ has) (NP (DT a) (ADJP (JJ prodigious) (CC and) (JJ flawless)) (NN memory))) (, ,) (VP (VBZ is) (ADJP (RB utterly) (JJ fearless))) (, ,) (CC and) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN distracted) (PP (IN by) (NP (NP (DT the) (JJ sexy) (JJ nude) (NNS sculptures)) (VP (VBN spread) (PP (IN around) (NP (DT the) (NN playing) (NN hall))))))))) (, ,) (PP (IN in) (NP (NP (DT the) (NNP New) (NNP York) (NNP Academy)) (PP (IN of) (NP (NNP Art)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN fact))) (, ,) (NP (NNP D.T.)) (VP (VP (ADVP (RB never)) (VBD left) (NP (NP (NN home)) (, ,) (NP (NP (NNP Carnegie) (NNP Mellon) (NNP University)) (PP (IN in) (NP (NNP Pittsburgh)))) (, ,))) (CC but) (VP (VBD communicated) (PP (IN with) (NP (PRP$ its) (JJ human) (NNS handlers))) (PP (IN by) (NP (NN telephone) (NN link))))) (. .)))
+
+(S1 (S (S (NP (PRP They)) (VP (VBD conceded) (SBAR (IN that) (S (NP (DT the) (NNS odds)) (VP (VBD favored) (NP (NNP Mr.) (NNP Kasparov))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBD put) (NP (PRP$ their) (NN hope)) (PP (IN in) (NP (NP (NP (NNP D.T.) (POS 's)) (ADJP (RB recently) (VBN enhanced)) (NN capacity)) (PP (IN for) (S (VP (VBG examining) (NP (NNS positions))))))) (: --) (PP (RP up) (PP (TO to) (NP (NP (DT a) (CD million)) (PP (IN per) (NP (NN second)))))) (, ,) (PP (IN from) (NP (CD 720,000))))) (. .)))
+
+(S1 (S (CC But) (S (NP (DT the) (NNS handlers)) (VP (ADVP (RB mistakenly)) (VBN stuck) (PP (IN with) (NP (NN silicon) (NNS chips))))) (: ;) (S (NP (PRP they)) (VP (VBD needed) (NP (NN kryptonite)))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBD became) (ADJP (JJ apparent)) (SBAR (IN as) (S (NP (NP (NN game) (CD one)) (, ,) (NP (NP (DT a) (NNP Sicilian) (NNP Defense)) (PP (IN by) (NP (NNP Mr.) (NNP Kasparov)))) (, ,)) (VP (VBD proceeded))))) (. .)))
+
+(S1 (S (S (NP (DT No) (NN human)) (VP (MD can) (VP (VB examine) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS moves))))))) (, ,) (CC but) (S (NP (NNP Mr.) (NNP Kasparov)) (, ,) (S (VP (VBG using) (NP (PRP$ his) (ADJP (RB ineffably) (JJ powerful)) (NN brain)))) (, ,) (ADVP (RB consistently)) (VP (VBD found) (NP (JJ very) (JJ good) (NNS ones)))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (CD eight) (NNS moves)) (PP (IN by) (NP (DT each) (NN side))))) (, ,) (NP (DT the) (NN board)) (VP (VBD was) (NP (NP (DT the) (JJ same)) (PP (IN as) (PP (IN in) (NP (NP (DT a) (NN game)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (NNP Nigel) (NNP Short)) (PP (IN of) (NP (NNP Great) (NNP Britain)))) (VP (VBD fought) (NP (DT the) (NN champion)) (PP (TO to) (NP (DT a) (NN draw))) (PP (IN in) (NP (CD 1980))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN computer)) (VP (VBD did) (RB n't) (VP (VB play) (NP (NP (NP (NNP Mr.) (NNP Short) (POS 's)) (JJ ninth) (NN move)) (, ,) (NP (DT a) (JJ key) (JJ pawn) (NN thrust)) (, ,) (CC and) (NP (NP (PRP$ its) (NN position)) (VP (VBN deteriorated) (ADVP (RB rapidly))))))) (. .)))
+
+(S1 (S (S (S (PP (RB Instead) (IN of) (S (VP (VBG castling)))) (, ,) (NP (DT a) (JJ standard) (NN measure)) (VP (TO to) (VP (VB safeguard) (NP (DT the) (NN king))))) (, ,) (NP (NNP D.T.)) (VP (VBD made) (NP (DT a) (JJ second-rate) (NN rook) (NN maneuver)) (PP (IN at) (NP (VB move) (CD 13))))) (: ;) (S (ADVP (RB then)) (NP (PRP it)) (VP (VBD put) (NP (DT a) (NN knight) (NN offside)) (PP (IN on) (NP (NN move) (CD 16))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (RB Only) (CD two) (NNS classes)) (PP (IN of) (NP (NNS minds)))) (VP (MD would) (VP (VB think) (PP (IN of) (NP (NP (DT this)) (: --) (NP (ADJP (RB very) (JJ weak)) (JJ human) (NNS players)) (, ,) (CC and) (NP (NNS computers)))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Edmar) (NNP Mednis)) (, ,) (NP (NP (DT the) (JJ expert) (NN commentator)) (PP (IN for) (NP (NP (DT the) (NN match)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN attended) (PP (IN by) (NP (NP (NNS hundreds)) (PP (IN of) (NP (JJ chess) (NNS fans))))))))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NN move) (CD 21))) (, ,) (NP (NNP D.T.)) (VP (VBD had) (VP (VBN fallen) (PP (IN into) (NP (DT a) (JJ deep) (JJ positional) (NN trap))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD allowed) (S (NP (NNP Mr.) (NNP Kasparov)) (VP (TO to) (VP (VB exchange) (NP (PRP$ his) (JJ dark-squared) (NNP bishop)) (PP (IN for) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP D.T.) (POS 's)) (NNS knights))))))))) (. .)))
+
+(S1 (S (S (NP (NNS Bishops)) (ADVP (RB usually)) (VP (VBP are) (ADJP (JJ worth) (NP (NP (RB slightly) (JJR more)) (PP (IN than) (NP (NNS knights))))))) (, ,) (CC but) (S (PP (IN in) (NP (DT this) (NN case))) (S (NP (NNP Mr.) (NNP Kasparov)) (VP (VBD was) (VP (VBN left) (PP (IN with) (NP (DT a) (ADJP (RB very) (JJ dangerous)) (NN knight)))))) (CC and) (S (NP (NP (NNP D.T.) (POS 's)) (VBG surviving) (NNP bishop)) (VP (VBD was) (VP (VBN reduced) (PP (TO to) (NP (NN passivity))))))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (PRP it)) (VP (VBD looked) (PP (RBR more) (IN like) (NP (NP (DT a) (NN pawn)) (, ,) (NP (DT a) (`` `) (NX (`` `) (NX (JJ tall) (NN pawn)) (, ,) ('' ')) ('' ')))) (SBAR (IN as) (S (NP (NNS spectators)) (VP (ADVP (RB snidely)) (VB put) (NP (PRP it)))))) (. .)))
+
+(S1 (S (ADVP (RB Consistently)) (, ,) (NP (NNP D.T.)) (VP (VBD was) (ADJP (JJ over-optimistic) (PP (IN about) (NP (NP (PRP$ its) (NNS chances)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (ADVP (RB continually)) (VP (VBD sized) (ADVP (RB up)) (, ,) (PP (IN in) (NP (JJ numerical) (NN form)))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (JJS most) (NNS spectators)) (VP (VBD thought) (S (NP (PRP$ its) (NN position)) (ADJP (JJ hopeless)))))) (, ,) (NP (DT the) (NN computer)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADVP (RB only)) (, ,) (PP (IN in) (NP (NN effect))) (, ,) (NP (NP (NN one-half)) (PP (IN of) (NP (NP (DT a) (NN pawn)) (ADVP (RB down))))))))) (. .)))
+
+(S1 (S (NP (JJ Such) (NNS evaluations)) (VP (VP (VBD met) (PP (IN with) (NP (NN derision)))) (, ,) (CC and) (VP (VBD kept) (NP (DT the) (NN machine)) (PP (IN from) (S (VP (VBG resigning) (ADVP (ADVP (RB as) (RB soon)) (SBAR (IN as) (S (NP (NNS humans)) (VP (MD would) (VP (VB have)))))) (: --) (S (VP (VBG prompting) (NP (JJR more) (NN derision))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NNP D.T.)) (VP (VBD shuffled) (NP (PRP$ its) (NN king)) (ADVP (RB back) (CC and) (RB forth)) (PP (IN in) (NP (DT a) (JJ defensive) (NN crouch)))))) (, ,) (NP (NNP Mr.) (NNP Kasparov)) (VP (VBN maneuvered) (NP (DT the) (NN knight)) (PP (TO to) (NP (DT a) (JJ dominant) (NN outpost)))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD launched) (NP (DT a) (JJ kingside) (NN storm)) (, ,) (S (VP (VBG sacrificing) (NP (DT a) (NN pawn)) (S (VP (TO to) (VP (VB denude) (NP (NP (NNP D.T.) (POS 's)) (NN king)))))))) (. .)))
+
+(S1 (S (NP (NP (DT No) (NN amount)) (PP (IN of) (NP (NN weasling)))) (VP (MD could) (VP (VB have) (VP (VBN saved) (NP (NP (DT this) (NN game)) (PP (IN for) (NP (NNP D.T))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (NN piece)) (IN down)) (, ,) (NP (DT the) (NN computer)) (VP (VBD resigned)) (. .)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (PP (IN with) (S (NP (NP (DT the) (NN crowd)) (PP (IN in) (NP (DT the) (NN analysis) (NN room)))) (VP (VBG smelling) (NP (JJ figurative) (NN blood))))) (, ,) (NP (DT the) (JJ only) (NN question)) (VP (VBD seemed) (S (VP (TO to) (VP (VB be) (SBAR (WHNP (WRB how) (JJ fast)) (S (NP (NNP Mr.) (NNP Kasparov)) (VP (MD could) (VP (VB win) (NP (NN game) (CD two)))))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (DT the) (NN advantage)) (PP (IN of) (S (VP (VBG playing) (NP (NP (NN white)) (PRN (-LRB- -LRB-) (SBAR (WHNP (WDT which)) (S (VP (VBZ moves) (ADVP (RB first))))) (-RRB- -RRB-)))))))) (, ,) (NP (NNP Mr.) (NNP Kasparov)) (VP (VBD followed) (PRT (RP up)) (ADVP (RB cleverly)) (PP (IN against) (NP (NP (DT the) (NN computer) (POS 's)) (NN defense))) (, ,) (S (NP (NP (DT a) (NNP Queen) (POS 's)) (NN Gambit)) (ADJP (JJ Accepted)))) (. .)))
+
+(S1 (S (ADVP (ADVP (RB As) (RB early)) (PP (IN as) (NP (NN move) (CD six)))) (, ,) (NP (NNP Mr.) (NNP Kasparov)) (VP (VBD deviated) (PP (IN from) (NP (NP (DT a) (JJ well-known) (NN sequence)) (PP (IN of) (NP (NNS moves))))) (, ,) (S (VP (VP (VBG developing) (NP (DT a) (NN knight))) (CONJP (RB instead) (IN of)) (VP (VBG making) (NP (NP (DT a) (JJ standard) (NNP bishop) (NN attack)) (PP (IN against) (NP (NP (DT the) (NN computer) (POS 's)) (JJ advanced) (NN knight)))))))) (. .)))
+
+(S1 (S (S (NP (DT This)) (VP (VBD left) (NP (DT the) (NN computer)) (PP (IN with) (NP (NP (DT a) (JJR broader) (NN range)) (PP (IN of) (NP (JJ plausible) (NNS replies))))))) (: --) (CC and) (S (NP (PRP it)) (ADVP (RB immediately)) (VP (VBD blundered) (PP (IN by) (S (VP (VBG moving) (NP (DT a) (JJ queenside) (NN pawn))))) (, ,) (PP (TO to) (NP (NP (DT the) (NN neglect)) (PP (IN of) (NP (NN kingside) (NN development))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (PP (IN In) (NP (DT a) (JJ new) (NN position))) (RB just) (IN after) (NP (DT the) (NN opening))) (, ,) (NP (DT a) (NN computer)) (VP (MD will) (VP (VB have) (NP (JJ serious) (NNS problems))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Kasparov)) (VP (VBD said) (ADVP (RBR later))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ such) (NNS positions))) (, ,) (NP (PRP he)) (VP (VBD explained) (, ,) (`` `) (S (`` `) (S (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB create) (NP (NN something) (JJ new))))))) (, ,) (CC and) (S (NP (DT the) (NN computer)) (VP (VBZ is) (RB n't) (ADJP (JJ able) (S (VP (TO to) (VP (VB do) (ADVP (RB that) (RB right) (RB now)))))))) (. .) ('' '))) ('' ')))
+
+(S1 (S (PP (IN After) (NP (NP (QP (RB only) (CD 11)) (NNS moves)) (PP (IN for) (NP (DT each) (NN side))))) (, ,) (NP (NP (DT the) (NN computer) (POS 's)) (NN position)) (VP (VBD was) (ADJP (JJ shaky))) (. .)))
+
+(S1 (S (ADVP (RB Greedily)) (, ,) (NP (PRP it)) (VP (VBD grabbed) (NP (DT a) (NN pawn)) (, ,) (PP (IN at) (NP (NP (DT the) (NN cost)) (PP (IN of) (S (VP (VBG facing) (NP (DT a) (JJ brutal) (NN attack)))))))) (. .)))
+
+(S1 (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ defensive) (NN move)) (VP (VBD was) (VP (VBN called) (PP (IN for)))))) (, ,) (NP (NNP D.T.)) (VP (VP (VBD passed) (PRT (RP up)) (NP (DT an) (JJ obvious) (JJ pawn) (NN move))) (CC and) (VP (ADVP (RB instead)) (VBD exposed) (NP (PRP$ its) (NN queen)) (PP (TO to) (NP (JJ immediate) (JJ tactical) (NNS threats))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Kasparov)) (VP (VBD remarked) (ADVP (RB later)) (SBAR (IN that) (S (NP (`` `) (NP (`` `) (RB even) (DT a) (JJ weak) (NN club) (NN player) ('' ')) ('' ')) (VP (MD would) (VP (VB have) (VP (VBN avoided) (NP (DT the) (NN queen) (NN move)))))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (PP (IN after) (NP (QP (RB only) (DT a) (NN dozen)) (NNS moves))) (, ,) (NP (NNS spectators)) (VP (VBD were) (VP (VBG looking) (PP (IN for) (NP (DT a) (NN mating) (NN combination))))) (. .)))
+
+(S1 (S (S (PP (IN On) (NP (DT a) (NN demonstration) (NN board))) (, ,) (NP (NN emcee) (NNP Shelby) (NNP Lyman)) (VP (VBD showed) (SBAR (S (NP (DT a) (JJ quick)) (VP (VB kill) (VP (VBN initiated) (PP (IN by) (NP (DT a) (NN knight) (NN sacrifice))))))))) (: ;) (S (NP (DT no) (NN spectator)) (VP (VBD refuted) (NP (NP (DT this) (NN line)) (PP (IN of) (NP (NN play)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Kasparov) (POS 's)) (NN continuation)) (VP (VBD was) (ADJP (ADJP (JJR slower)) (CC but) (PRN (, ,) (PP (IN in) (NP (DT the) (NN end))) (, ,)) (ADJP (RB just) (RB as) (JJ deadly)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD won) (NP (NP (NNP D.T.) (POS 's)) (NN queen)) (PP (IN for) (NP (NP (CD two) (JJ minor) (NNS pieces)) (CC and) (NP (NP (CD two) (NNS pawns)) (PRN (: --) (RB not) (NP (JJ enough) (NN compensation)) (, ,) (PP (IN in) (NP (DT this) (NN position))) (, ,))))) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN computer)) (NP (JJ much) (NN hope)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (JJ hopeless) (NN position))) (, ,) (NP (DT the) (NN computer)) (VP (VBD resigned) (PP (RB rather) (IN than) (VP (VB make) (NP (PRP$ its) (JJ 37th) (NN move))))) (. .)))
+
+(S1 (S (CC And) (NP (NNP Mr.) (NNP Kasparov)) (, ,) (PP (TO to) (NP (NNS cheers) (CC and) (NN applause))) (, ,) (VP (VBD marched) (ADVP (RB back) (PP (IN into) (NP (DT the) (NN analysis) (NN room))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN In) (NP (DT both) (NNS games))) (NP (PRP I)) (VP (VBD got) (SBAR (WHNP (RB exactly) (WP what)) (S (NP (PRP I)) (VP (VBD wanted))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (NP (PRP he)) (VP (VBD had) (VP (VBN demonstrated))))) (PRN (, ,) (S (NP (PRP he)) (VP (VBD added))) (, ,)) (VP (VBZ is) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ 's) (ADJP (ADJP (JJR more) (PP (TO to) (NP (NN chess)))) (PP (IN than) (NP (JJ sheer) (NN calculation)))))))) (. .)))
+
+(S1 (S (S (ADJP (JJ Undeterred))) (, ,) (NP (NP (NNP D.T.) (POS 's)) (NNS handlers)) (VP (VBD vowed) (S (VP (TO to) (VP (VB press) (PRT (RP on)))))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (NP (CD three)) (PP (IN of) (NP (PRP them)))) (VP (MD will) (VP (VB be) (VP (VBG building) (NP (DT a) (NN successor) (NN machine)) (PP (IN for) (NP (NNP International) (NNP Business) (NNP Machines) (NNP Corp)))))) (. .)))
+
+(S1 (SINV (VP (VBZ Promises)) (NP (NNP Feng-hsiung) (NNP Hsu)) (: :) (`` `) (S (`` `) (PP (IN In) (NP (CD three) (NNS years))) (NP (PRP we)) (VP (MD 'll) (VP (VB mount) (NP (DT a) (JJR better) (NN challenge)))) (. .) ('' ')) (: ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Tannenbaum)) (VP (VBZ is) (NP (NP (DT a) (NN reporter)) (PP (IN in) (NP (NP (DT the) (NNP Journal) (POS 's)) (NNP New) (NNP York) (NN bureau))))) (. .)))
+

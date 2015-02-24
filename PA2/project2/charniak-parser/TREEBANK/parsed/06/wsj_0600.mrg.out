@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (NNP Spencer) (NNP J.) (NNP Volk)) (, ,) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (VBG operating) (NN officer))) (PP (IN of) (NP (DT this) (NN consumer) (CC and) (JJ industrial) (NNS products) (NN company)))) (, ,)) (VP (VBD was) (VP (VBN elected) (S (NP (DT a) (NN director))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Volk)) (, ,) (ADJP (NP (CD 55) (NNS years)) (JJ old)) (, ,)) (VP (VBZ succeeds) (NP (NP (NNP Duncan) (NNP Dwight)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD retired) (PP (IN in) (NP (NNP September)))))))) (. .)))
+

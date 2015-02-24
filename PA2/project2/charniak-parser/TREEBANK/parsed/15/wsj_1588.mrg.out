@@ -1,0 +1,18 @@
+(S1 (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN appalled) (S (VP (TO to) (VP (VB read) (NP (NP (DT the) (NNS misstatements)) (PP (IN of) (NP (NNS facts)))) (PP (IN in) (NP (NP (PRP$ your) (NNP Oct.) (CD 13) (NN editorial)) (`` `) (NP (`` `) (NP (NNP Colombia) (POS 's)) (JJ Brave) (NN Publisher))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NP (DT the) (JJ right-wing) (NNS guerrillas)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBN aligned) (PP (IN with) (NP (DT the) (NN drug) (NNS traffickers)))))))) (, ,) (RB not) (NP (DT the) (JJ left) (NN wing)))) (. .)))
+
+(S1 (S (NP (DT This) (NN information)) (VP (VBD was) (VP (VBN gleaned) (PP (IN from) (NP (NP (PRP$ your) (JJ own) (NN news) (NNS stories)) (PP (IN on) (NP (DT the) (NN region))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Past) (JJ Colombian) (NN government) (NN tolerance)) (PP (IN of) (NP (DT the) (`` `) (`` `) (NP (NNS narcotraficantes) (POS ')) (POS ')))) (VP (VBD was) (ADJP (JJ due) (PP (TO to) (NP (DT the) (NN drug)))) (NP (NP (NP (NNPS lords) (POS ')) (NN history)) (PP (IN of) (S (VP (VBG wiping) (PRT (RP out)) (NP (NP (NNS leftists)) (PP (IN in) (NP (DT the) (NNS hinterlands))))))))) (. .)))
+
+(S1 (NP (NP (NNP Mary) (NNP Poulin)) (NP (NP (NNP Palo) (NNP Alto)) (, ,) (NP (NNP Calif.))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP suggest) (SBAR (IN that) (S (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal)) (PRN (-LRB- -LRB-) (PP (RB as) (RB well) (IN as) (NP (NP (JJ other) (NNP U.S.) (NN news) (NNS publications)) (PP (IN of) (NP (JJ like) (NN mind))))) (-RRB- -RRB-)) (VP (MD should) (VP (VP (VB put) (NP (PRP$ its) (NN money)) (SBAR (WHADVP (WRB where)) (S (NP (PRP$ its) (NN mouth)) (VP (VBZ is))))) (: :) (VP (VB Lend) (NP (NN computer) (NN equipment)) (S (VP (TO to) (VP (VP (VB replace) (SBAR (IN that) (S (VP (VBN damaged) (PP (IN at) (NP (NNP El) (NNP Espectador))))))) (, ,) (VP (VB buy) (NP (NN ad) (NN space))) (, ,) (VP (VB publish) (NP (NP (NNS stories)) (PP (IN under) (NP (NP (DT the) (NNS bylines)) (PP (IN of) (NP (NP (NNP El) (NNP Espectador)) (NNS journalists)))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Perhaps)) (NP (DT an) (NN arrangement)) (VP (MD could) (VP (VB be) (VP (VBN worked) (PRT (RP out)) (PP (TO to) (`` `) (NP (`` `) (NN sponsor) ('' ')) ('' ')) (NP (NNP El) (NNP Espectador) (NX (NX (NNS journalists)) (CC and) (NX (NN staff)))) (PP (IN by) (S (VP (VBG paying) (PP (IN for) (NP (JJ added) (NN security))) (PP (IN in) (NP (NP (NN exchange)) (PP (IN for) (NP (JJ exclusive) (NNS stories))))))))))) (. .)))
+
+(S1 (S (VP (VB Reward) (SBAR (S (NP (NNP El) (NNP Espectador)) (VP (VBZ 's) (NP (NP (NN courage)) (PP (IN with) (NP (JJ real) (NN support)))))))) (. .)))
+
+(S1 (NP (NNP Douglas) (NNP B.) (NNP Evans)))
+

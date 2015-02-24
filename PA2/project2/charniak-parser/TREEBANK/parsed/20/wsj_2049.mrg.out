@@ -1,0 +1,12 @@
+(S1 (S (NP (NNP Banc) (CD One) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NNP Frank) (NNP E.) (NNP McKinney)) (VP (VBZ plans) (S (VP (TO to) (VP (VB retire) (PP (IN as) (NP (NP (DT the) (NN bank) (VBG holding) (NN company) (POS 's)) (NN president))) (ADJP (JJ effective) (NP (NNP Jan.) (CD 12)))))))))) (. .)))
+
+(S1 (S (NP (NNP Banc) (CD One)) (VP (VBD said) (`` `) (S (`` `) (NP (PRP it)) (VP (VBZ is) (VP (VBN contemplated))) ('' ')) ('' ') (SBAR (IN that) (S (NP (NP (NNP John) (NNP B.) (NNP McCoy)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,)) (VP (MD will) (VP (VB assume) (NP (NP (DT the) (JJ additional) (NN position)) (PP (IN of) (NP (NN president)))) (PP (IN upon) (NP (NP (NNP Mr.) (NNP McKinney) (POS 's)) (NN retirement)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP McKinney)) (, ,) (ADJP (NP (CD 50) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NP (NNP American) (NNP Fletcher) (NNP Corp.)) (, ,) (NP (NNP Indianapolis)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT that) (NN bank) (VBG holding) (NN company)) (VP (VBD merged) (PP (IN into) (NP (NNP Banc) (NNP One))) (PP (IN in) (NP (NNP January) (CD 1987)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (NNP Mr.) (NNP McKinney)) (VP (VBZ plans) (S (VP (TO to) (VP (VB retire) (PP (IN because) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG affiliating) (NP (NNP American) (NNP Fletcher)) (PP (IN into) (NP (NNP Banc) (NNP One))) (`` `) (S (`` `) (VP (VBZ is) (VP (VBN considered) (VP (VBN completed))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP McKinney)) (VP (VP (MD will) (VP (VB continue) (PP (IN as) (NP (NP (NP (NP (NN chairman)) (PP (IN of) (NP (DT the) (NN board)))) (CC and) (NP (NN chairman))) (PP (IN of) (NP (NP (DT the) (JJ executive) (NN committee)) (PP (IN of) (NP (NP (NNP Banc) (NNP One) (NNP Indiana) (NNP Corp.)) (, ,) (NP (NP (DT the) (NN successor) (NN company)) (TO to) (NP (NNP American) (NNP Fletcher) (NNP Corp.))) (, ,))))))))) (CC but) (VP (MD will) (ADVP (RB no) (RB longer)) (VP (VB be) (ADJP (JJ active) (PP (IN in) (NP (JJ day-to-day) (NN management))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (MD will) (VP (VB remain) (PP (IN on) (NP (DT the) (NNP Banc) (CD One) (NN board))))) (. .)))
+

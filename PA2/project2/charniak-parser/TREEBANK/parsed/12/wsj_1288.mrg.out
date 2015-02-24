@@ -1,0 +1,42 @@
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (NNP Big) (CD Four) (NNS securities) (NNS firms)) (VP (VBD posted) (NP (NP (JJ first-half) (JJ unconsolidated) (NNS results)) (SBAR (WHNP (WDT that)) (S (VP (VBD mirrored) (NP (JJR softer) (NN performance)) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (JJR slower) (NN turnover)) (PP (IN on) (NP (DT the) (NNP Tokyo) (NNP Stock) (NNP Exchange))))))) (PP (IN during) (NP (NNP July) (CC and) (NNP August)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Figures)) (PP (IN for) (NP (NP (DT the) (NN period)) (VP (VBD ended) (NP (NNP Sept.) (CD 30)) (PP (IN for) (NP (NP (DT the) (CD four) (JJS largest) (NN brokerage) (NNS firms)) (: --) (NP (NP (NNP Nomura) (NNPS Securities) (NNP Co.)) (, ,) (NP (NNP Daiwa) (NNPS Securities) (NNP Co.)) (, ,) (NP (NNP Yamaichi) (NNPS Securities) (NNP Co.)) (CC and) (NP (NNP Nikko) (NNPS Securities))) (: --))))))) (ADVP (RB also)) (VP (VBD reflected) (NP (DT a) (NN changeover)) (PP (TO to) (NP (NP (DT a) (JJ fiscal) (NN year)) (VP (VBG ending) (NP (NNP March) (CD 31))))) (, ,) (S (VP (VBG replacing) (NP (NP (DT the) (JJ 12-month) (NN term)) (VP (ADVP (RB formerly)) (VBG finishing) (NP (NNP Sept.) (CD 30))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (PRN (, ,) (S (NP (NN brokerage) (NN house) (NNS officials)) (VP (VBD said))) (, ,)) (NP (NP (JJ appropriate) (NNS comparisons)) (PP (IN from) (NP (DT the) (JJ same) (NN period)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (VP (VBD were) (ADJP (JJ unavailable))) (. .)))
+
+(S1 (S (NP (NP (NP (NN Operating) (NN profit)) (, ,) (NP (JJ pretax) (NN profit)) (CC and) (NP (JJ net) (NN income))) (NNS results)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD were) (VP (VBN provided) (PP (IN for) (NP (DT the) (ADJP (RB immediately) (JJ preceding)) (JJ six-month) (NN period))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS statistics)) (VP (VBP follow) (NP (NP (DT a) (JJ year-on-year) (NN rebound)) (PP (IN in) (NP (NP (ADJP (JJ consolidated) (CC and) (JJ unconsolidated)) (NNS results)) (PP (IN in) (NP (NP (DT the) (JJ full) (JJ fiscal) (NN year)) (VP (VBN ended) (PP (IN in) (NP (NNP March) (CD 1989)))))) (, ,) (PP (VBG recovering) (PP (IN from) (NP (JJ dismal) (NNS results))))))) (PP (IN in) (NP (DT the) (JJ prior) (JJ fiscal) (NN year))) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (DT the) (NNP October) (CD 1987) (NN stock) (NN market) (NN crash)))))) (. .)))
+
+(S1 (S (NP (NNP Nomura)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ pretax) (NNS profits)) (VP (VBD inched) (ADVP (RB up) (NP (CD 0.9) (NN %)) (PP (TO to) (NP (NP (QP (CD 248.91) (CD billion)) (NNS yen)) (PRN (-LRB- -LRB-) (NP (NNP US) (QP ($ $) (CD 1.75) (CD billion))) (-RRB- -RRB-))))) (PP (IN from) (NP (QP (CD 246.60) (CD billion)) (NNS yen))) (PP (IN in) (NP (NP (DT the) (CD six) (NNS months)) (VP (VBN ended) (NP (NNP March) (CD 31))))))))) (. .)))
+
+(S1 (S (NP (JJ Total) (NN operating) (NN profit)) (VP (VBD fell) (NP (CD 3.1) (NN %)) (PP (TO to) (NP (QP (CD 486.1) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 501.61) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (NP (JJ Net) (NN income)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD rose) (NP (CD 3.7) (NN %)) (PP (TO to) (NP (QP (CD 107.87) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 103.98) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (NP (JJ Per-share) (NN net)) (VP (VBD rose) (PP (TO to) (NP (CD 55.10) (NNS yen))) (PP (IN from) (NP (CD 54.51) (NNS yen)))) (. .)))
+
+(S1 (S (NP (NNP Daiwa)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ pretax) (NNS profits)) (VP (VBD surged) (NP (CD 9.6) (NN %)) (PP (TO to) (NP (QP (CD 171.04) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 156.12) (CD billion)) (NNS yen))) (PP (IN in) (NP (DT the) (JJ preceding) (JJ six-month) (NN term))))))) (. .)))
+
+(S1 (S (NP (NN Operating) (NN profit)) (VP (VBD rose) (NP (CD 5.5) (NN %)) (PP (TO to) (NP (QP (CD 332.38) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 315.12) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (NP (JJ Net) (NN income)) (VP (VBD jumped) (NP (CD 21) (NN %)) (PP (TO to) (NP (QP (CD 79.03) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 65.53) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (NP (JJ Per-share) (NN net)) (VP (VBD rose) (PP (TO to) (NP (CD 62.04) (NNS yen))) (PP (IN from) (NP (CD 51.50) (NNS yen)))) (. .)))
+
+(S1 (S (NP (NNP Yamaichi)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ pretax) (NN profit)) (VP (VBD increased) (NP (CD 8.9) (NN %)) (PP (TO to) (NP (QP (CD 117.94) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 108.28) (CD billion)) (NNS yen))))))) (. .)))
+
+(S1 (S (NP (NN Operating) (NN profit)) (VP (VBD rose) (NP (CD 5.3) (NN %)) (PP (TO to) (NP (QP (CD 279.75) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 265.79) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (NP (JJ Net) (NN income)) (VP (VBD surged) (NP (CD 21) (NN %)) (PP (TO to) (NP (QP (CD 55.59) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 46.02) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (NP (JJ Per-share) (NN net)) (VP (VBD rose) (PP (TO to) (NP (CD 47.46) (NNS yen))) (PP (IN from) (NP (CD 39.31) (NNS yen)))) (. .)))
+
+(S1 (S (NP (NP (NNP Nikko) (POS 's)) (JJ pretax) (NN profit)) (VP (VBD rose) (NP (CD 1.6) (NN %)) (PP (TO to) (NP (QP (CD 130.25) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 128.19) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (NP (NN Operating) (NN profit)) (VP (VBD rose) (NP (CD 4) (NN %)) (PP (TO to) (NP (QP (CD 293.29) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 282.08) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (NP (JJ Net) (NN income)) (VP (VBD rose) (NP (CD 23) (NN %)) (PP (TO to) (NP (QP (CD 63.52) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 51.65) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (NP (JJ Per-share) (NN net)) (VP (VBD rose) (PP (TO to) (NP (CD 44.08) (NNS yen))) (PP (IN from) (NP (CD 36.13) (NNS yen)))) (. .)))
+

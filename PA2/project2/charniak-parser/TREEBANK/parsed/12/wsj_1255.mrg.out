@@ -1,0 +1,22 @@
+(S1 (S (NP (DT The) (NNP Food) (CC and) (NNP Drug) (NNP Administration)) (VP (VBD banned) (NP (NP (DT all) (NNS imports)) (PP (IN of) (NP (NNS mushrooms))) (PP (IN from) (NP (NNP China)))) (PP (IN in) (NP (NP (NN response)) (PP (TO to) (NP (NP (DT a) (NN rash)) (PP (IN of) (NP (NP (JJ food-poisoning) (NNS outbreaks)) (VP (VBN linked) (PP (TO to) (NP (JJ canned) (JJ Chinese) (NNS mushrooms))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (NN agency)) (VP (VBZ has) (VP (VBN concluded) (SBAR (IN that) (S (NP (NN contamination)) (VP (MD may) (VP (VB be) (ADJP (JJ widespread)) (PP (IN throughout) (NP (DT the) (JJ mushroom-processing) (NN industry))) (PP (IN in) (NP (NNP China))))))))) (, ,) ('' ')) ('' ') (NP (DT an) (NNP FDA) (NN spokesman)) (VP (VBD said) (NP (NN yesterday))) (. .)))
+
+(S1 (S (NP (DT The) (NN agency)) (VP (MD wo) (RB n't) (VP (VB allow) (S (NP (NP (NNS mushrooms)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD were) (ADJP (JJ canned))) (CC or) (VP (VBD packed) (PP (IN in) (NP (NN brine))) (PP (IN at) (NP (DT any) (JJ Chinese) (NN plant)))))))) (VP (TO to) (VP (VB enter) (NP (DT the) (NNP U.S.)) (SBAR (IN until) (`` `) (S (NP (`` `) (JJ satisfactory) (JJ sanitation-control) (NNS measures)) (VP (VBP are) (VP (VBN implemented) (PP (IN in) (NP (NNP China))) (S (VP (TO to) (VP (VB prevent) ('' ') (NP (: ') (JJ bacterial) (NN contamination)))))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP May) (CD 19))) (, ,) (NP (DT the) (NNP FDA)) (VP (VBD began) (S (VP (VBG detaining) (NP (NP (JJ Chinese) (NNS mushrooms)) (PP (IN in) (NP (NN 68-ounce) (NNS cans)))))) (SBAR (IN after) (S (NP (NP (QP (JJR more) (IN than) (CD 100)) (NNS people)) (PP (IN in) (NP (NP (NNP Mississippi)) (, ,) (NP (NNP New) (NNP York)) (CC and) (NP (NNP Pennsylvania))))) (VP (VBD became) (ADJP (RB ill)) (PP (IN from) (S (VP (VBG eating) (NP (JJ tainted) (NNS mushrooms))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ subsequent) (NNS tests))) (, ,) (NP (DT the) (NN agency)) (VP (VBD found) (NP (JJ smaller-size) (NNS cans)) (PP (IN from) (NP (NP (JJ several) (JJ Chinese) (NNS plants)) (SBAR (S (VP (TO to) (VP (VB be) (ADJP (RB similarly) (JJ contaminated))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS outbreaks)) (VP (VBD were) (VP (VBN traced) (PP (TO to) (NP (NP (FW staphylococcus) (FW aureus)) (, ,) (NP (NP (DT a) (NN type)) (PP (IN of) (NP (NP (NNS bacteria)) (SBAR (WHNP (WDT that)) (S (VP (VBZ produces) (NP (NP (DT a) (NN toxin)) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG surviving) (NP (NP (DT the) (JJ high) (NNS temperatures)) (VP (VBN used) (PP (IN in) (NP (NN canning) (NNS vegetables)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN recall)) (PP (IN of) (NP (NP (DT the) (NNS mushrooms)) (VP (VBN blamed) (PP (IN for) (NP (DT the) (NN food) (NN poisoning))))))) (VP (VBD began) (PP (IN in) (NP (JJ early) (NNP March)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1987))) (, ,) (NP (NNP China)) (VP (VBD exported) (NP (NP (QP (CD 65) (CD million)) (NNS pounds)) (PP (IN of) (NP (NP (NNS mushrooms)) (, ,) (VP (VBN valued) (PP (IN at) (NP (QP ($ $) (CD 47) (CD million))))) (, ,)))) (PP (TO to) (NP (DT the) (NNP U.S.)))) (. .)))
+
+(S1 (S (NP (DT The) (NNS shipments)) (VP (VBD went) (ADVP (RB mostly)) (PP (TO to) (NP (NP (NN food-service) (NNS distributors)) (SBAR (WHNP (WDT that)) (S (VP (VBP supply) (NP (NP (NNS pizzerias)) (CC and) (NP (NNS restaurants))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN spokesman)) (PP (IN for) (NP (DT the) (NNP Chinese) (NNP Embassy))) (ADVP (RB here))) (VP (VBD said) (SBAR (IN that) (S (NP (DT the) (NNP Beijing) (NN government)) (VP (VP (VBZ has) (VP (VBN taken) (NP (`` `) (NP (`` `) (JJ many) (JJ effective) (NNS measures) ('' ')) ('' ') (SBAR (S (VP (TO to) (VP (VB stop) (NP (DT the) (NN mushroom) (NN contamination))))))))) (CC and) (VP (VBZ is) (ADVP (RB further)) (VP (VBG investigating) (NP (DT the) (VBG underlying) (NNS causes)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD predicted) (SBAR (S (NP (DT the) (NN problem)) (VP (MD will) (VP (VB be) (VP (VBN solved) (`` `) (ADVP (`` `) (ADVP (RB very) (RB soon))))))))) (. .) ('' ') ('' ')))
+

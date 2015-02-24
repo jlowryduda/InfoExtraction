@@ -1,0 +1,102 @@
+(S1 (S (NP (NNP Iverson) (NNP Technology) (NNP Corp.)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ fastest-growing) (JJ small) (NNS companies)) (PP (IN in) (NP (NNP America)))))) (: --) (PP (IN until) (NP (JJ last) (NN year)))) (. .)))
+
+(S1 (S (NP (DT The) (NAC (NNP McLean) (, ,) (NNP Va.) (, ,)) (NN company)) (VP (VBZ modifies) (S (NP (NNS computers)) (VP (TO to) (VP (VB keep) (NP (JJ sensitive) (JJ military) (NNS data)) (PP (IN out) (PP (IN of) (NP (JJ unfriendly) (NNS hands)))))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (NP (CD 1984)) (PP (TO to) (NP (CD 1987))))) (, ,) (NP (PRP$ its) (NNS earnings)) (VP (VBD soared) (NP (NN six-fold)) (, ,) (PP (TO to) (NP (QP ($ $) (CD 3.8) (CD million)))) (, ,) (PP (IN on) (NP (NP (DT a) (JJ seven-fold) (NN increase)) (PP (IN in) (NP (NN revenue))))) (, ,) (PP (TO to) (NP (QP ($ $) (CD 44.1) (CD million))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (CD 1988))) (, ,) (NP (PRP it)) (VP (VBD ran) (PP (IN into) (NP (NP (DT a) (NN buzz) (NN saw)) (: :) (NP (DT a) (NNP Defense) (NNP Department) (NN spending) (NN freeze))))) (. .)))
+
+(S1 (S (NP (NP (NNP Iverson) (POS 's)) (NNS earnings)) (VP (VBD plunged) (NP (CD 70) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 1.2) (CD million))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS troubles)) (VP (VBD continued) (PP (IN in) (NP (NP (NP (DT this) (NN year) (POS 's)) (JJ first) (NN half)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NN profit)) (VP (VBD plunged) (NP (CD 81) (NN %)) (PP (TO to) (NP ($ $) (CD 302,000))))))))) (. .)))
+
+(S1 (S (NP (NNP Iverson) (NNP Technology)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (JJ many) (JJ small) (NN defense) (NNS contractors)) (VP (VBN besieged) (PP (IN by) (NP (NP (DT the) (NN slowdown)) (PP (IN in) (NP (NN defense) (NN spending)))))))))) (. .)))
+
+(S1 (S (PP (IN Unlike) (NP (NP (JJR larger) (NNS contractors)) (PP (IN with) (NP (NP (DT a) (JJ broad) (JJ enough) (NN base)) (SBAR (S (VP (TO to) (VP (VB weather) (NP (DT the) (NN downturn)) (ADVP (RB easily)))))))))) (, ,) (NP (DT these) (NNS companies)) (VP (VBP are) (VP (VBG suffering) (S (NP (NP (JJ big) (NNS drops)) (PP (IN in) (NP (NP (NN business)) (PP (IN as) (NP (NP (JJ once-lucrative) (NN specialty) (NNS niches)) (PP (IN in) (NP (DT the) (JJ massive) (JJ military) (NN market)))))))) (VP (VP (VB erode)) (CC or) (VP (ADVP (RB even)) (VB disappear)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Companies)) (SBAR (WHNP (WDT that)) (S (ADVP (RB only) (RB recently)) (VP (VBD were) (VP (VBG thriving)))))) (VP (VBP find) (S (NP (PRP themselves)) (VP (VBG scrambling) (S (VP (TO to) (VP (VB survive))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (PRP$ their) (VBN varied) (NNS strategies)) (VP (VBP suggest)))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (QP (JJR more) (IN than) (CD one)) (NN way)) (SBAR (S (VP (TO to) (VP (VB respond) (PP (TO to) (NP (DT a) (NN disaster)))))))) (: --) (SBAR (IN though) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB too) (RB soon)) (S (VP (TO to) (VP (VB tell) (SBAR (IN whether) (S (NP (DT the) (NNS changes)) (VP (MD will) (VP (VB pay) (PRT (RP off))))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (JJ many) (NNS companies))) (, ,) (NP (DT the) (JJ instinctive) (JJ first) (NN response)) (VP (VBZ is) (S (VP (TO to) (VP (VB cut) (NP (NNS costs)))))) (. .)))
+
+(S1 (S (NP (NNS Others)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB find) (S (NP (JJ specialty) (NN defense) (NN work)) (VP (VBN spared) (PP (IN by) (NP (NP (DT the) (NN slowdown)) (CC or) (NP (NP (JJ new) (NNS niches)) (VP (VBN created) (PP (IN by) (NP (NN budget-cutting)))))))))))))) (. .)))
+
+(S1 (S (NP (RBR More) (JJ venturesome) (NNS businesses)) (VP (VBP are) (VP (VBG applying) (NP (NP (PRP$ their) (NNS skills)) (PP (IN in) (NP (JJ commercial) (NNS fields)))))) (. .)))
+
+(S1 (S (NP (NP (NNP ERC) (NNP International) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ provides) (NP (JJ professional) (CC and) (JJ technical) (NNS services)) (PP (TO to) (NP (DT the) (NN military)))))) (, ,)) (VP (VBZ is) (VP (VP (VBG refining) (NP (PRP$ its) (NN defense) (NN niche))) (, ,) (RB not) (VP (VBG retreating) (PP (IN from) (NP (PRP it)))))) (. .)))
+
+(S1 (S (PP (IN After) (S (VP (NN quadrupling) (NP (NP (JJ annual) (NNS earnings)) (PP (IN over) (NP (CD four) (NNS years)))) (PP (TO to) (NP (QP ($ $) (CD 6.8) (CD million)))) (PP (IN in) (NP (CD 1988)))))) (, ,) (NP (DT the) (NAC (NNP Fairfax) (, ,) (NNP Va.) (, ,)) (NN company)) (, ,) (VP (VBD posted) (NP (NP (DT a) (ADJP (CD 23) (NN %)) (NN drop)) (PP (IN in) (NP (NP (NNS earnings)) (PP (IN for) (NP (NP (DT this) (NN year) (POS 's)) (JJ first) (NN half))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN belief) (SBAR (IN that) (S (NP (NP (NN development)) (PP (IN of) (NP (JJ advanced) (JJ military) (NN technology)))) (VP (MD will) (VP (VB remain) (NP (DT a) (JJ top) (NNP Defense) (NNP Department) (NN priority)))))))) (, ,) (NP (NNP ERC) (JJ last) (NN year)) (VP (VBD acquired) (NP (NP (NNP W.J.) (NNP Schafer) (NNP Associates)) (, ,) (NP (NP (DT a) (ADJP (JJ technical) (CC and) (JJ scientific)) (NN analysis) (NN company)) (PP (IN with) (NP (NP (NNS contracts)) (PP (IN under) (NP (DT the) (NNP Strategic) (NNP Defense) (NNP Initiative)))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (DT the) (NNP SDI) (JJ anti-missile) (NN program)) (VP (ADVP (RB recently)) (VBD awarded) (NP (NNP W.J.) (NNP Schafer)) (NP (NP (CD two) (NNS contracts)) (VP (VBG totaling) (NP (QP ($ $) (CD 13.4) (CD million)))))))) (, ,) (NP (NP (NP (NNP ERC) (POS 's)) (NX (NX (NN chairman)) (CC and) (NX (NN founder)))) (, ,) (NP (NNP Jack) (NNP Aalseth)) (, ,)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD bought) (S (NP (DT the) (NN company)) (`` `) (ADJP (`` `) (ADJP (JJ more)) (PP (IN for) (NP (PRP$ its) (NN technology))) (PP (IN than) (NP (PRP$ its) (NN customer))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP UNC) (NNP Inc.)) (, ,) (NP (NP (DT an) (NAC (NNP Annapolis) (, ,) (NNP Md.) (, ,)) (NN contractor)) (SBAR (WHNP (WDT that)) (S (VP (VBD earned) (NP (QP ($ $) (CD 23.8) (CD million))) (PP (IN on) (NP (NP (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 400.4) (CD million)))))) (PP (IN in) (NP (CD 1988))))))) (, ,)) (VP (VBZ has) (VP (VBN gone) (ADVP (RB even) (RB further)) (PP (IN in) (S (VP (VBG realigning) (NP (PRP$ its) (JJ military) (NN business))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NP (NNS orders)) (PP (IN for) (NP (PRP$ its) (NN aircraft) (CC and) (NN submarine) (NNS parts)))) (VP (VBD dwindled)))) (, ,) (NP (NP (CD three) (NNS years)) (PP (IN of) (NP (JJ steady) (NN growth)))) (VP (VBN ended) (PP (IN with) (NP (NP (DT a) (ADJP (CD 69) (NN %)) (NN drop)) (PP (IN in) (NP (NN income))))) (PP (IN in) (NP (NP (DT this) (NN year) (POS 's)) (JJ first) (NN half)))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD hit) (PP (IN on) (NP (DT a) (JJ new) (NN strategy)))) (: :) (SBARQ (SBAR (IN If) (S (NP (DT the) (NNP Defense) (NNP Department)) (VP (VBZ is) (ADJP (RB so) (JJ intent) (PP (IN on) (S (VP (VBG saving) (NP (NN money))))))))) (, ,) (WHADVP (WRB why)) (SQ (RB not) (VP (VB make) (NP (NN money)) (PP (IN off) (NP (DT that) (NN trend))))) (. ?))))
+
+(S1 (FRAG (PP (IN Among) (NP (NP (DT the) (NN company) (POS 's)) (JJ current) (NNS efforts))) (: :) (S (VP (VBG repairing) (NP (JJ old) (NNS parts)) (PP (IN at) (NP (NP (CD 25) (NN %)) (PP (IN of) (NP (NP (DT the) (NN cost)) (PP (IN of) (S (VP (VBG replacing) (NP (PRP them))))))))))) (. .)))
+
+(S1 (S (NP (NNP UNC)) (ADVP (RB also)) (VP (VBZ is) (VP (VBG selling) (NP (NP (JJ new) (NNS parts)) (PRN (, ,) (SBAR (IN if) (S (VP (VBN needed)))) (, ,))) (ADVP (RB directly)) (PP (PP (TO to) (NP (DT the) (NN military))) (CONJP (RB instead) (IN of)) (PP (IN through) (NP (DT a) (JJ prime) (NN contractor)))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (QP (RB as) (JJ little) (IN as) (JJ one-third))) (PP (IN of) (NP (NP (DT the) (NN government) (POS 's)) (NN cost))))) (, ,) (NP (DT the) (NN company)) (VP (VBZ is) (VP (VBG running) (NP (NP (DT a) (NN program)) (SBAR (S (VP (TO to) (VP (VB train) (NP (NNP Army) (NN helicopter) (NNS pilots))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (VP (VBG taking) (PRT (RP over)) (NP (NP (DT the) (NN maintenance)) (PP (IN of) (NP (NP (JJ certain) (NNP Navy) (NN aircraft)) (PP (IN with) (NP (NP (ADJP (NP (CD 40) (NN %)) (JJR fewer)) (NNS people)) (PP (IN than) (NP (NP (DT the) (NN military)) (VP (VBN used))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT another) (NN approach))) (, ,) (NP (JJ tiny) (NNP Iverson) (NNP Technology)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB resume) (NP (PRP$ its) (NN growth)) (PP (IN by) (S (VP (VBG braving) (NP (NP (DT the) (JJ new) (NN world)) (PP (IN of) (NP (JJ commercial) (NNS products)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Donald) (NNP Iverson)) (, ,) (NP (NN chairman)) (, ,)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ hopes) (SBAR (S (NP (DT the) (NN company)) (VP (MD can) (ADVP (RB eventually)) (VP (VB get) (PRT (RP up)) (PP (TO to) (NP (NP (DT half)) (PP (IN of) (NP (NP (PRP$ its) (NN revenue)) (PP (IN from) (NP (JJ commercial) (NNS markets))))))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (RB now))) (, ,) (NP (PRP he)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (NP (PRP we)) (VP (VBP 're) (VP (VBG looking) (PP (IN at) (S (VP (VBG buying) (NP (NP (DT some) (JJ small) (NNS companies)) (PP (IN with) (NP (NP (NN niche) (NNS markets)) (PP (IN in) (NP (DT the) (NN personal-computer) (NN business))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (RBR Earlier) (DT this) (NN month)) (, ,) (NP (NNP Mr.) (NNP Iverson)) (VP (VBD agreed) (S (VP (TO to) (VP (VB buy) (NP (NP (JJ exclusive) (NNS rights)) (PP (TO to) (NP (NP (DT a) (NN software) (NN system)) (VP (VBN developed) (PP (IN by) (NP (NP (NNP Visher) (NNPS Systems) (NNP Inc.)) (, ,) (NP (NNP Salt) (NNP Lake) (NNP City)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN product)) (VP (VBZ automates) (NP (NP (DT an) (NN array)) (PP (IN of) (NP (NP (NNS functions)) (VP (VBN performed) (PP (IN at) (NP (ADJP (JJ small) (TO to) (JJ medium-size)) (NN printing) (NNS companies)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Iverson)) (VP (VBZ says) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (NP (CD 5,000) (JJ potential) (NNS customers)) (PP (IN for) (NP (NP (DT the) (NN software)) (PP (IN in) (NP (DT the) (NAC (NNP Washington) (, ,) (NNP D.C.) (, ,)) (NN area))) (ADVP (RB alone))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP QuesTech) (NNP Inc.)) (, ,) (NP (NP (NNP Falls) (NNP Church)) (, ,) (NP (NNP Va.))) (, ,)) (ADVP (RB also)) (VP (VBZ has) (VP (VBN acquired) (NP (NP (DT some) (NNS companies)) (PP (IN outside) (NP (DT the) (JJ military) (NN market)))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBG trying) (S (VP (TO to) (VP (VB transfer) (NP (PRP$ its) (NN skill)) (PP (IN at) (S (VP (VBG designing) (NP (JJ military) (NN equipment))))) (PP (TO to) (NP (JJ commercial) (NNS ventures)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN partnership)) (PP (IN with) (NP (NP (DT a) (NAC (NNP Williamsburg) (, ,) (NNP Va.) (, ,)) (NN unit)) (PP (IN of) (NP (NNP Shell) (NNP Oil) (NNP Co.)))))) (ADVP (RB recently)) (VP (VBD patented) (NP (NP (DT a) (NN process)) (PP (IN for) (S (VP (VBG producing) (NP (NP (JJ plastic) (NN food) (NNS containers)) (SBAR (WHNP (WDT that)) (S (VP (MD wo) (RB n't) (VP (VB melt) (PP (IN in) (NP (NN microwave) (NNS ovens))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 're) (VP (VBG trying) (S (VP (TO to) (VP (VP (VB take) (NP (NP (DT the) (NN imagination) (CC and) (NN talent)) (PP (IN of) (NP (PRP$ our) (NNS engineers))))) (CC and) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (NP (JJ new) (NNS processes)) (PP (IN for) (NP (NN industry)))))))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Vincent) (NNP Salvatori)) (, ,) (NP (NP (NNP QuesTech) (POS 's)) (JJ chief) (NN executive))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (PRP It)) (VP (VBZ is) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB branch) (PRT (RP out)) (PP (IN from) (NP (NP (DT the) (NN government)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (RB very) (JJ difficult)) (PP (IN for) (NP (DT a) (NN defense) (NN contractor)))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Salvatori)) (VP (MD should) (VP (VB know))) (. .)))
+
+(S1 (S (PP (RB Instead) (IN of) (S (VP (VBG helping) (NP (PRP$ his) (NN company)) (PP (IN in) (NP (DT the) (NN defense) (NN spending) (NN slowdown)))))) (, ,) (NP (NP (JJ Dynamic) (NNP Engineering) (NNP Inc.)) (, ,) (NP (NP (DT a) (JJ troubled) (NN subsidiary)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NP (NN wind) (NNS tunnels)) (PP (IN for) (NP (DT the) (NN space) (NN industry)))))))) (, ,)) (VP (VBD contributed) (PP (TO to) (NP (NP (JJ much)) (PP (IN of) (NP (NP (NP (NNP QuesTech) (POS 's)) (ADJP (QP ($ $) (CD 3.3) (CD million))) (NN loss)) (PP (IN on) (NP (NP (QP ($ $) (CD 55.6) (CD million))) (PP (IN in) (NP (NP (NN revenue)) (NP (JJ last) (NN year))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP January))) (, ,) (NP (NNP Mr.) (NNP Salvatori)) (VP (VBD sold) (NP (DT the) (NN unit))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (PRP It)) (VP (VBD was) (NP (PRP$ our) (JJ first) (NN acquisition)))) (PRN (, ,) ('' ') ('' ') (S (NP (PRP he)) (VP (VBZ says))) (, ,) (`` `)) (`` `) (CC and) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN mistake))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT Some) (NNS companies)) (VP (VBP are) (VP (VP (VBG cutting) (NP (NNS costs))) (CC and) (VP (VBG hoping) (PP (IN for) (NP (DT the) (JJS best)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Telos) (NNP Corp.)) (, ,) (NP (NP (DT a) (NAC (NNP Santa) (NNP Monica) (, ,) (NNP Calif.) (, ,)) (NN provider)) (PP (IN of) (NP (NN software-development) (CC and) (NN hardware-maintenance) (NNS services))) (PP (TO to) (NP (DT the) (NN military)))) (, ,)) (VP (VBD enjoyed) (NP (JJ steady) (NN growth)) (PP (IN until) (NP (DT this) (NN year)))) (. .)))
+
+(S1 (S (S (VP (VBG Following) (NP (NP (DT a) (VBG tripling)) (PP (IN of) (NP (NNS earnings)))) (, ,) (PP (TO to) (NP (QP ($ $) (CD 3.9) (CD million)))) (, ,) (PP (IN on) (NP (NP (DT a) (NN doubling)) (PP (IN of) (NP (NN revenue))))) (, ,) (PP (TO to) (NP (QP ($ $) (CD 116) (CD million)))) (, ,) (PP (IN over) (NP (CD four) (NNS years))))) (, ,) (NP (NP (NNS earnings)) (PP (IN in) (NP (NP (DT the) (NN company) (POS 's)) (JJ fiscal) (JJ first) (NN quarter))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD ended) (NP (NNP June) (CD 30))))) (, ,)) (VP (VBD plunged) (NP (CD 90) (NN %)) (PP (TO to) (NP ($ $) (CD 45,000)))) (. .)))
+
+(S1 (S (S (NP (NP (DT A) (JJ one-time) (NN write-off)) (PP (IN for) (S (VP (VBG booking) (NP (JJ nonexistent) (NN revenue)))))) (VP (VBD was) (ADVP (RB partly)) (S (VP (TO to) (VP (VB blame)))))) (, ,) (CC but) (S (RB so) (VP (VBD were) (NP (NP (NP (JJR lower) (NNS profits)) (PP (IN from) (NP (NP (DT a) (NN stingier) (NN contract)) (PP (IN with) (NP (DT the) (NNP Army)))))) (CC and) (NP (NP (NNS delays)) (PP (IN in) (S (VP (VBG getting) (VP (VBN paid))))))))) (. .)))
+
+(S1 (SINV (S (NP (NNP Telos)) (VP (VP (VBD responded) (PP (IN by) (S (VP (VBG combining) (S (NP (NP (CD three)) (PP (IN of) (NP (PRP$ its) (CD five) (NNS divisions)))) (VP (TO to) (VP (VB reduce) (NP (NNS expenses))))))))) (CC and) (`` `) (S (`` `) (VP (VBP bring) (NP (JJR more) (NN focus)) (PP (TO to) (NP (ADJP (RB potentially) (JJR fewer)) (NN bidding) (NNS opportunities))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Lin) (NNP Conger)) (, ,) (NP (NP (NNP Telos) (NN chairman)) (CC and) (NP (JJ controlling) (NN shareholder)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ evident) (SBAR (S (NP (PRP we)) (VP (VBP 're) (VP (VBG entering) (NP (DT a) (ADJP (RBR more) (JJ competitive)) (NN era))))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NP (NNP TransTechnology) (NNP Corp.)) (, ,) (NP (NP (DT a) (NAC (NNP Sherman) (NNP Oaks) (, ,) (NNP Calif.) (, ,)) (NN defense) (NN contractor)) (SBAR (WHNP (WDT that)) (S (VP (VBD earned) (NP (QP ($ $) (CD 9.2) (CD million))) (PP (IN on) (NP (NP (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 235.2) (CD million)))))) (PP (IN in) (NP (CD 1988))))))) (, ,)) (VP (VBZ provides) (NP (NP (DT a) (ADJP (RBR more) (JJ dramatic)) (NN example)) (PP (IN of) (NP (NN cost-cutting))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (CONJP (RB not) (RB only)) (VP (VBD merged) (NP (CD three) (JJ military-electronics) (NN manufacturing) (NNS operations))) (, ,) (CONJP (CC but) (RB also)) (VP (VBD closed) (NP (NP (DT an) (JJ unrelated) (NN plant)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (NP (NP (NN ordnance) (NNS devices)) (VP (VBN used) (PP (IN in) (NP (NP (NN fighter) (NNS planes)) (CC and) (NP (NNS missiles)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN closing)) (VP (VBD contributed) (PP (TO to) (NP (NP (DT a) (ADJP (QP ($ $) (CD 3.4) (CD million))) (NN loss)) (PP (IN in) (NP (NP (DT the) (JJ fiscal) (JJ first) (NN quarter)) (VP (VBN ended) (NP (NNP July) (CD 31))))))) (: --) (NP (NP (PRP$ its) (JJ first) (JJ quarterly) (NN loss)) (PP (IN since) (NP (CD 1974))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP$ Our) (NN ordnance) (NN business)) (VP (VBZ has) (VP (VBN been) (VP (VBN hurt) (ADVP (RB very) (RB badly)) (PP (IN by) (NP (DT the) (NN slowdown)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NN Arch) (NNP Scurlock)) (, ,) (NP (NP (NNP TransTechnology) (POS 's)) (NN chairman))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP I)) (VP (MD would) (RB n't) (VP (VB say) (SBAR (S (NP (PRP we)) (VP (VBP 're) (PP (IN out) (PP (IN of) (NP (DT the) (NN business)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP we)) (VP (VBP 're) (RB not) (VP (VBG making) (NP (IN as) (JJ many) (-LRB- -LCB-) (JJ pyrotechnic) (NNS devices) (-RRB- -RCB-)) (SBAR (IN as) (S (NP (PRP we)) (VP (VBD used) (S (VP (TO to)))))))) (. .)))
+

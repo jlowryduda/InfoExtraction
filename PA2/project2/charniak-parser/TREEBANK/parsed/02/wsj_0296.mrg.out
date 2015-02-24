@@ -1,0 +1,132 @@
+(S1 (S (NP (NP (NNP Prime) (NNP Minister) (NNP Lee) (NNP Kuan) (NNP Yew)) (, ,) (NP (NP (NP (NNP Singapore) (POS 's)) (NN leader)) (CC and) (NP (NP (CD one)) (PP (IN of) (NP (NP (NP (NNP Asia) (POS 's)) (VBG leading) (NNS statesmen)) (PP (IN for) (NP (CD 30) (NNS years))))))) (, ,)) (ADVP (RB recently)) (VP (VBD announced) (NP (PRP$ his) (NN intention) (S (S (VP (TO to) (VP (VB retire) (NP (JJ next) (NN year))))) (: --) (S (PP (IN though) (ADVP (RB not) (RB necessarily))) (VP (TO to) (VP (VB end) (NP (PRP$ his) (NN influence)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ prime) (NN minister)) (, ,) (SBAR (SBAR (WHNP (WP$ whose) (NN hair)) (S (VP (VBZ is) (ADJP (JJ thinning) (CC and) (JJ gray))))) (CC and) (SBAR (WHNP (WP$ whose) (NN face)) (S (VP (VBZ has) (NP (DT a) (JJ perpetual) (NN pallor)))))) (, ,)) (ADVP (RB nonetheless)) (VP (VBZ continues) (S (VP (TO to) (VP (VB display) (NP (NP (DT an) (NN energy)) (, ,) (NP (NP (DT a) (NN precision)) (PP (IN of) (NP (NN thought)))) (CC and) (NP (DT a) (NN willingness) (S (VP (TO to) (VP (VB say) (ADVP (RB publicly)) (SBAR (WHNP (WP what)) (S (NP (JJS most) (JJ other) (JJ Asian) (NNS leaders)) (VP (MD dare) (VP (VB say) (ADVP (RB only)) (ADVP (RB privately))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ 66-year-old) (NNP Mr.) (NNP Lee)) (ADVP (RB recently)) (VP (VBD spent) (NP (DT an) (NN hour)) (S (VP (VBG discussing) (NP (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP Asia)))) (CC and) (NP (DT the) (NN world))) (PP (IN with) (NP (NP (CD two) (NNP Journal) (NNS reporters)) (PP (IN in) (NP (PRP$ his) (ADJP (RB plainly) (VBN furnished)) (, ,) (JJ wood-paneled) (NN office)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN interview)) (VP (VBD did) (RB not) (VP (VB touch) (PRT (RP on)) (NP (NP (NNP Singapore) (POS 's)) (JJ domestic) (NNS affairs)))) (. .)))
+
+(S1 (S (S (VP (VBG Skipping) (NP (JJ personal) (NNS pleasantries)))) (, ,) (NP (NNP Mr.) (NNP Lee)) (VP (VBD picked) (PRT (RP up)) (SBAR (WHADVP (RB exactly) (WRB where)) (S (NP (PRP he)) (VP (VBD left) (PRT (RP off)) (ADVP (ADVP (NP (JJ several) (NNS months)) (RBR earlier)) (PRN (: --) (PP (IN before) (NP (NP (DT the) (NN government) (NN crackdown)) (PP (IN in) (NP (NNP China))))) (: --)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD had) (VP (VBN warned) (SBAR (IN that) (S (NP (NP (DT the) (JJ orthodox) (NN leadership)) (PP (IN in) (NP (NNP Beijing)))) (VP (VBD feared) (NP (NP (DT a) (NN plurality)) (PP (IN of) (NP (NNS views)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Excerpts)) (VP (VBP follow)) (: :)))
+
+(S1 (S (PP (IN On) (NP (NP (NP (NNP China) (POS 's)) (NN turmoil)) (: :) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ unhappy)) (NN scene)))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBD took) (NP (NP (NNP Zhao) (NNP Ziyang)) (PRN (-LRB- -LRB-) (NP (JJ former) (NN premier) (CC and) (NN party) (NN chief)) (-RRB- -RRB-))) (NP (CD 10) (NNS years)) (S (VP (TO to) (VP (VB build) (NP (NP (DT a) (NN team)) (PP (IN of) (NP (NP (NNS economists)) (SBAR (WHNP (WP who)) (S (VP (VBD understood) (SBAR (WHADVP (WRB how)) (S (S (NP (DT the) (NNP Western) (NNS economies)) (VP (VBP work))) (CC and) (S (ADVP (RB now)) (NP (DT that) (NN team)) (VP (VBZ is) (NP (NP (NP (NN part)) (PP (IN in) (NP (NN exile)))) (, ,) (NP (NP (NN part)) (VP (VBG being) (VP (VBN rusticated)))) (CC and) (NP (NP (NN part)) (VP (VBG missing)))))))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (S (VP (VBG Rebuilding) (NP (DT that) (NN team)))) (PRN (, ,) (S (NP (NNP Mr.) (NNP Lee)) (VP (VBD predicted))) (, ,)) (VP (MD will) (VP (VB take) (NP (QP (DT another) (CD 10)) (NNS years)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT That)) (VP (VBZ 's) (ADJP (RB very) (JJ sad) (PP (PP (IN for) (NP (NNP China))) (CC and) (PP (IN for) (NP (NNP Asia))))) (SBAR (IN because) (S (NP (NNP China)) (VP (MD could) (VP (VB have) (VP (VBN been) (NP (DT a) (JJ good) (NN engine)) (PP (IN for) (NP (NN growth))) (, ,) (PP (CONJP (RB not) (RB just)) (PP (IN for) (NP (NP (NNP Hong) (NNP Kong)) (CC and) (NP (NNP Taiwan)))) (CC but) (PP (IN for) (NP (NP (NNP Japan)) (, ,) (NP (NNP Korea)) (CC and) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (NNP Asia))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (FRAG (PP (IN On) (NP (NP (NNS similarities)) (PP (IN between) (NP (NP (NNP China)) (CC and) (NP (DT the) (NNP Soviet) (NNP Union)))))) (: :) (`` `) (`` `) (S (PP (IN In) (NP (JJ important) (NNS particulars))) (, ,) (NP (DT the) (NNPS Soviets)) (VP (VBP are) (ADJP (JJ different) (PP (IN from) (NP (DT the) (NNPS Chinese)))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP are) (ADVP (RB already)) (VP (VBN industrialized) (NP (FW ..) (. .)))) (. .)))
+
+(S1 (S (NP (PRP$ Their) (NN problem)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (NN inefficiency)) (PP (IN of) (NP (DT an) (JJ industrial) (NN economy))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ Chinese) (NN problem)) (VP (VBZ is) (ADJP (RB much) (JJR greater)))) (: --) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB industrialize) (S (VP (TO to) (VP (VB begin) (ADVP (RB with))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (VP (VBN Asked) (SBAR (IN if) (S (NP (DT the) (NNPS Soviets)) (, ,) (PP (IN like) (NP (JJ Chinese) (NNS officials))) (, ,) (VP (MD wo) (RB n't) (S (NP (CD one) (NN day)) (VP (VB face) (NP (NP (DT a) (JJ similar) (NN conflict)) (PP (IN between) (NP (DT the) (NN desire) (S (VP (TO to) (VP (VP (VB liberalize) (ADVP (RB economically))) (CC and) (VP (ADVP (RB yet)) (VB retain) (NP (JJ political) (NN control)))))))))))))))) (, ,) (NP (NNP Mr.) (NNP Lee)) (VP (VBD said) (, ,) (`` `) (S (`` `) (S (NP (PRP I)) (VP (MD would) (VP (VB think) (SBAR (IN that) (S (NP (DT the) (NNPS Soviets)) (VP (VBP face) (NP (DT a) (JJR deeper) (NN dilemma)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP have) (VP (VBN been) (ADJP (JJR more)) (PP (IN in) (NP (NP (NNS blinkers)) (PP (IN than) (NP (DT the) (NNPS Chinese))))))))))))))) (: --) (NP (PRP I)) (VP (VBP mean) (VP (VBG keeping) (S (NP (PRP$ their) (NNS people)) (VP (VB cut) (PRT (RP off)) (PP (IN from) (NP (DT the) (JJ outside) (NN world))))))) (. .) ('' '))) ('' ')))
+
+(S1 (S (NP (NNP Mikhail) (NNP Gorbachev)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (VP (VBZ is) (ADVP (RB ahead) (PP (IN of) (NP (NP (NNP China) (POS 's)) (NNS leaders)))) (PP (IN in) (NP (NP (PRP$ his) (NN awareness)) (PP (IN of) (NP (DT the) (NN world)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (CC But) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT the) (JJ Soviet) (NNS peoples)) (VP (VBP are) (ADJP (RBR more) (JJ introverted) (PP (IN than) (NP (DT the) (NNPS Chinese)))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (ADVP (RB Regardless)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (NP (PRP he)) (ADVP (RB still)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NNP Soviet) (NNP Union)) (, ,) (SBAR (IN while) (S (VP (VBG falling) (ADJP (RB far) (RB short) (PP (IN of) (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (DT a) (NNP Western) (NN economy))))))))) (, ,) (VP (MD may) (ADVP (RB well)) (VP (VB manage) (S (VP (TO to) (VP (VB improve) (ADVP (RB considerably)))))))))) (. .)))
+
+(S1 (FRAG (PP (IN On) (NP (NNP Asia-Pacific))) (NP (NN prosperity)) (: :) (`` `) (S (`` `) (SBAR (IN If) (S (S (NP (NNP America)) (VP (MD can) (VP (VB keep) (PRT (RP up)) (NP (DT the) (JJ present) (NN situation))))) (: --) (S (NP (PRP$ her) (NNS markets)) (VP (VBP open) (PP (IN for) (NP (DT another) (CD 15) (NNS years))) (, ,) (PP (IN with) (NP (NNS adjustments))))) (, ,) (CC and) (S (NP (NNP Japan)) (VP (MD can) (VP (VP (VB grow)) (CC and) (RB not) (VP (VP (VB cut) (ADVP (RB back))) (, ,) (CC and) (VP (ADVP (RB so) (RB too)) (, ,) (NP (NNP Korea) (, ,) (NNP Taiwan) (, ,) (NNP Hong) (NNP Kong) (, ,) (NNP Singapore) (, ,) (NNP ASEAN) (, ,) (NNP Australia) (CC and) (NNP New) (NNP Zealand)))) (: --) (PP (ADVP (RB then)) (IN in) (NP (CD 15) (NNS years)))))))) (, ,) (NP (NP (DT the) (NNS economies)) (PP (IN of) (NP (DT these) (NNS countries)))) (VP (MD would) (VP (VB be) (ADVP (RB totally)) (VP (VBN restructured) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (ADVP (RB almost)) (VP (VB sustain) (NP (NN growth)) (PP (IN by) (NP (PRP themselves))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN In) (NP (PDT such) (DT an) (NN arrangement))) (, ,) (`` `) (S (`` `) (NP (DT all)) (VP (VB benefit)) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (`` `) (CC And) (SBAR (IN if) (S (NP (DT the) (NNPS Europeans)) (VP (VBP come) (PRT (RP in))))) (, ,) (NP (PRP they)) (VP (VB benefit) (ADVP (RB too))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (NP (DT a) (JJ zero-sum) (NN game))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (VP (VBN Asked) (PP (IN about) (NP (NP (DT the) (NN possibility)) (PP (IN of) (NP (NP (JJR greater) (JJ economic) (NN cooperation)) (PP (IN among) (NP (NNP Asia-Pacific) (NNS nations))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB be) (VP (VBN discussed) (NP (NNP Nov.) (CD 6) (CC and) (CD 7)) (PP (IN at) (NP (NP (DT a) (JJ ministerial) (NN meeting)) (PP (IN in) (NP (NNP Canberra)))))))))))))) (, ,) (NP (NNP Mr.) (NNP Lee)) (VP (VBD said) (SBAR (S (NP (DT the) (NN goal)) (`` `) (VP (`` `) (VBZ is) (S (VP (TO to) (VP (VB have) (NP (DT a) (ADJP (JJ free) (CC and) (JJ open)) (NN world) (NN trading) (NN system))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (DT An) (NNP Asian) (NN bloc)) (VP (VBZ is) (RB n't) (ADJP (JJ intended)))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT That)) (VP (VBZ 's) (RB not) (ADJP (JJ possible))) (. .) ('' ')) ('' ')))
+
+(S1 (FRAG (PP (IN On) (NP (JJ U.S.-Japan) (NNS relations))) (: :) (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (VP (VBN encouraged))) (. .))))
+
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NP (DT the) (RBR earlier) (JJ strident) (NNS notes)) (VP (VBN struck) (PP (IN by) (NP (NP (-LRB- -LCB-) (NNP U.S.) (NNP Commerce) (NNP Secretary) (NNP Robert) (-RRB- -RCB-) (NNP Mosbacher)) (CC and) (PRN (-LRB- -LCB-) (NP (NNP U.S.) (NNP Trade) (NNP Representative)) (-RRB- -RCB-)) (NP (NNP Carla) (NNP Hills)))))) (VP (VBP have) (VP (VBN been) (ADJP (RBR more) (VBN rounded))))))) (. .)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBP believe) (SBAR (S (NP (DT the) (NNP U.S.)) (VP (VBZ is) (VP (VBG becoming) (ADJP (ADJP (RBR more) (JJ patient)) (CC and) (ADJP (JJ circumspect))))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the) (JJ total) (NN relationship)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ important))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (DT The) (JJ total) (NN relationship)) (PRN (, ,) (SBAR (IN as) (S (NP (NNP Mr.) (NNP Lee)) (VP (VBZ sees) (NP (PRP it))))) (, ,)) (VP (VBZ is) (`` `) (SBAR (`` `) (S (S (NP (NP (DT the) (NN flow)) (PP (IN of) (NP (NNS dollars))) (PP (TO to) (NP (DT the) (NNP U.S.)))) (VP (TO to) (VP (VB fund) (NP (DT the) (NNS deficits))))) (, ,) (NP (DT the) (NNS investments)) (NP (DT the) (NNPS Japanese)) (VP (VBP are) (VP (VBG making) (PP (IN in) (NP (DT the) (NNP U.S.))) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB satisfy) (NP (JJ American) (NN demand)) (SBAR (IN that) (S (NP (NP (JJ American) (NNS products)) (VP (VBN consumed) (PP (IN in) (NP (NNP America))))) (VP (MD should) (VP (VB be) (VP (VBN made) (ADVP (ADVP (RB as) (RB much)) (PP (IN as) (ADJP (ADJP (JJ possible) (PP (IN in) (NP (NNP America)))) (PP (IN by) (NP (NP (NNPS Americans)) (PP (IN with) (NP (JJ Japanese) (NX (NX (NN technology)) (CC and) (NX (NN capital)))))))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (JJ recent) (JJ political) (NN turbulence)) (PRN (, ,) (S (NP (NNP Mr.) (NNP Lee)) (VP (VBD said))) (, ,)) (VP (MD may) (VP (VB mean) (SBAR (S (NP (NNP Japan)) (VP (MD will) (VP (VB slow) (NP (NN market) (NNS adjustments)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP They)) (VP (MD 'll) (VP (VB be) (ADJP (RBR more) (JJ timorous) (PP (IN in) (S (VP (VBG tackling) (NP (PRP$ their) (JJ own) (NNS voters)))))) (, ,) (PP (IN like) (S (VP (VBG opening) (PRT (RP up)) (NP (JJR more)) (PP (TO to) (NP (NP (JJ agricultural) (NNS imports)) (PP (IN from) (NP (NNP America)))))))) (, ,) (S (VP (VBG hurting) (NP (PRP$ their) (NNS farmers)))))) (. .) ('' ')) ('' ')))
+
+(S1 (FRAG (PP (IN On) (NP (NP (NNP U.S.) (JJ military) (NN presence)) (PP (IN in) (NP (NNP Asia))))) (: :) (S (VP (VBD Asked) (SBAR (IN if) (S (NP (PRP$ his) (NN offer)) (VP (TO to) (VP (VB allow) (S (NP (DT the) (NNP American) (NN military)) (VP (TO to) (VP (VB use) (SBAR (S (NP (NP (NNS facilities)) (PP (IN in) (NP (NNP Singapore)))) (VP (MD would) (VP (VB help) (S (VP (VB preserve) (NP (NP (NP (NNP America) (POS 's)) (NN presence)) (PP (IN in) (NP (NP (DT the) (NN region)) (PP (IN at) (NP (NP (NNS bases)) (PP (IN in) (NP (DT the) (NNPS Philippines)))))))) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,) (`` `)) (`` `) (SBAR (WHNP (WP What)) (S (NP (PRP we)) (VP (VBP have) (VP (VBN done) (SBAR (S (VP (VBZ is) (VP (VB make) (S (NP (PRP it)) (ADJP (RBR easier)) (SBAR (IN for) (S (NP (DT the) (NNP Philippines)) (VP (TO to) (VP (VB continue) (S (VP (TO to) (VP (NN host) (NP (NNP American) (NNS bases)) (PP (IN without) (S (NP (PRP it)) (VP (VBG being) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (NP (NP (NNS lackeys)) (PP (IN of) (NP (DT the) (NNS imperialists)))) (CC and) (NP (NP (DT the) (JJ only) (NNS ones)) (PP (PP (IN in) (NP (NNP Asia))) (CC or) (PP (IN in) (NP (NNP Southeast) (NNP Asia)))))))))))))))))))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP are) (ADJP (JJ willing) (S (VP (TO to) (VP (VB share) (NP (NP (DT the) (JJ political) (NN burden)) (PP (IN of) (S (VP (VBG being) (NP (NN host)))))) (PP (TO to) (NP (NNP America))) (, ,) (NP (DT an) (JJ imperial) (NN power))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ is) (RB n't) (NP (PDT such) (DT a) (JJ great) (NN burden)) (, ,) (SBAR (IN that) (S (S (NP (PRP it)) (VP (VBZ carries) (NP (DT no) (NN stigma)))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP are) (VP (VBN prepared) (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (PP (IN On) (NP (JJ U.S.-Philippine) (NNS relations))) (: :) (`` `) (S (`` `) (S (NP (PRP It)) (VP (VBZ 's) (NP (PDT such) (DT a) (JJ mixed-up) (NN relationship)))) (VP (VBG going) (ADVP (RB back)) (PP (IN into) (NP (NN history) (NN ..)))) (. .)) (. .)))
+
+(S1 (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP do) (RB not) (VP (VB understand) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (VBZ is) (SBAR (IN that) (S (NP (NNPS Filipinos)) (VP (VBP feel) (ADJP (ADVP (RB so) (RB passionately)) (VBN involved) (PP (IN in) (NP (DT this) (NN father) (NN figure)))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP want) (S (VP (TO to) (VP (VB dispose) (PP (IN of) (SBAR (CC and) (SBAR (RB yet) (S (NP (PRP they)) (VP (VBP need)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP do) (RB n't) (VP (VB understand) (NP (PRP it)))) (. .)))
+
+(S1 (S (NP (NP (PRP$ My) (NNS relationships)) (PP (IN with) (NP (DT the) (NNPS British)))) (VP (VBP are) (ADJP (RB totally) (JJ different))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD lorded) (NP (PRP it)) (PP (IN over) (NP (PRP me)))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD did) (NP (PRP me)) (NP (DT some) (NN good))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD did) (S (NP (PRP themselves)) (ADJP (ADVP (RB even) (RBR more)) (JJ good)))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VB let) (NP (PRP me)) (ADVP (RB down)) (S (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNPS Japanese)) (VP (VBD came) (ADVP (RB down))))) (PRN (-LRB- -LCB-) (PP (IN during) (NP (NNP World) (NNP War) (NNP II))) (-RRB- -RCB-)) (VP (VB ..)) (. .))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB feel) (UCP (ADVP (RB down)) (CC or) (VP (VBN done) (PRT (RP in)) (SBAR (IN because) (S (NP (PRP I)) (VP (VP (VBP show) (NP (NNP British) (NNS serials)) (PP (IN on) (NP (PRP$ my) (NN television) (NN network)))) (CC or) (VP (VBP read) (NP (PRP$ their) (NNS books)))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (DT a) (JJ normal) (NN adult) (NN relationship)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (CC But) (NP (NP (DT the) (NNPS Filipinos)) (CC and) (NP (DT the) (NNPS Americans))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP talk) (PP (TO to) (NP (PRP them)))))) (, ,) (NP (EX there)) (VP (POS 's) (NP (ADJP (RB so) (JJ much)) (NN passion)) (PP (IN about) (NP (NNP Filipino))))) (VP (VBD manhood) (VP (VBG being) (VP (VBN diminished) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (S (VP (VBG being) (VP (VBN squatted) (PRT (RP upon)) (UCP (PP (IN by) (NP (DT the) (NNPS Americans))) (CC and) (ADVP (RB so) (RB on)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ occasional) (NNP Englishman)) (VP (VBZ tries) (S (VP (TO to) (VP (VB put) (PRT (RP on)) (NP (VBZ airs) (S (CC but) (NP (PRP we)) (VP (VB let) (S (NP (PRP it)) (VP (VB pass) (ADVP (RB ..))))) (. .))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (ADJP (JJ comic)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP try) (S (VP (TO to) (VP (VB pretend) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADVP (RB still)) (NP (DT the) (NN master) (NN race)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Lee)) (VP (VBD added) (SBAR (IN that) (S (NP (DT the) (NNPS Filipinos)) (VP (VBP are) (`` `) (S (VP (`` `) (VP (VBG making) (S (NP (PRP it)) (ADJP (RB very) (JJ difficult)))) ('' '))) ('' ') (SBAR (IN for) (S (NP (DT the) (NNP U.S.) (JJ military) (NN presence)) (VP (TO to) (VP (VB last) (PP (IN beyond) (NP (CD five) (CC or) (CD 10) (NNS years))))))))))) (. .)))
+
+(S1 (SINV (PP (IN On) (NP (JJ military) (NNS alternatives))) (SBAR (IN if) (S (NP (DT the) (NNP U.S.)) (VP (VBZ pulls) (PRT (RP back)) (: :) (`` `) (S (`` `) (NP (DT The) (NNPS Soviets)) (ADVP (RB already)) (VP (VBP are) (ADJP (JJ present))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (ADVP (RB sooner) (CC or) (RB later)) (, ,) (NP (DT the) (NNPS Japanese)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB fill) (PRT (RP up)) (NP (NP (DT a) (JJ large) (NN part)) (PP (IN of) (NP (NP (DT the) (NN gap)) (PP (IN on) (NP (DT the) (JJ naval) (NN side)))))))))))))) (. .)))
+
+(S1 (S (NP (RB Maybe) (DT the) (NNPS Chinese)) (, ,) (ADVP (RB maybe)) (VP (VB even) (NP (DT the) (NNPS Indians))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (PP (IN On) (NP (NP (JJ economic) (NNS consequences)) (PP (IN of) (NP (DT a) (JJ diminished) (NNP U.S.) (NN presence))))) (: :) (`` `) (S (`` `) (NP (NNP America)) (VP (VBZ is) (NP (NP (DT the) (RB only) (JJ major) (NN power)) (PP (IN in) (NP (JJ recent) (NN history))) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN used) (NP (PRP$ its) (JJ military) (NN might)) (S (VP (TO to) (VP (VB sustain) (NP (NP (DT a) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ enables) (S (NP (DT all) (NNS participants)) (VP (TO to) (ADVP (RB equally)) (VP (VB benefit) (PP (IN without) (NP (PRP her)))))) (PP (IN as) (NP (NP (DT the) (NN provider)) (PP (IN of) (NP (NP (DT the) (NN security)) (VP (VBG taking) (NP (NNS royalties)))))))))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (S (VP (VBN Asked) (SBAR (WHADVP (WRB why)) (S (NP (ADJP (RB so) (JJ few)) (NNS nations)) (VP (VBP seem) (S (VP (TO to) (VP (VB share) (NP (NP (PRP$ his) (NNS views)) (PP (IN of) (NP (NNP America)))))))))))) (, ,) (NP (PRP he)) (VP (VBD said) (, ,) (`` `) (S (`` `) (NP (JJ Many) (NNS people)) (VP (VBP see) (S (NP (PRP it)) (NP (DT that) (NN way)))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP have) (ADVP (RB just)) (VP (VBN taken) (NP (PRP it)) (SBAR (IN for) (S (VP (JJ granted)))))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (PP (IN On) (NP (NNP Cambodia))) (: :) (`` `) (`` `) (S (NP (NNP Let) (POS 's)) (VP (VB assume) (SBAR (IN that) (S (-LRB- -LCB-) (NP (JJ former) (JJ Cambodian) (NN leader) (NNP Prince) (NNP Norodom) (-RRB- -RCB-) (NNP Sihanouk)) (VP (VBZ does) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN press)) (VP (VBZ wants) (S (NP (PRP him)) (VP (VP (TO to) (VP (VB do))) (CC and) (VP (VBZ joins) (PRT (RP up)) (PP (IN with) (PRN (-LRB- -LCB-) (NP (JJ Vietnamese-backed) (JJ Cambodian) (NN leader)) (-RRB- -RCB-)) (NP (NNP Hun) (NNP Sen)))))))))))))) (. .)))
+
+(S1 (SQ (VBZ Is) (NP (DT the) (NN trouble)) (ADJP (IN over)) (. ?)))
+
+(S1 (SQ (MD Can) (NP (NNP Sihanouk) (CC and) (NNP Hun) (NNP Sen)) (VP (VB knock) (PRT (RP off)) (S (NP (DT the) (NNP Khmer) (NNP Rouge)) (ADVP (RB still)) (VP (VBN supported) (PP (IN by) (NP (NNP China)))))) (. ?)))
+
+(S1 (S (NP (PRP He)) (VP (MD ca) (RB n't)) (. .)))
+
+(S1 (SBARQ (`` `) (`` `) (WHNP (WP What)) (SQ (VP (VBZ is) (NP (DT the) (NN way)) (ADVP (RB forward)))) (. ?)))
+
+(S1 (FRAG (S (VP (TO To) (VP (VB get) (NP (DT the) (NNP Khmer) (NNP Rouge)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NN process)) (PP (IN for) (NP (NNS elections)))))))))) (. .)))
+
+(S1 (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP lose)))) (, ,) (ADVP (RB then)) (NP (PRP we)) (VP (MD can) (VP (VB expect) (S (NP (NNP China)) (VP (TO to) (VP (VB stop) (NP (NN aid))))))) (. .)))
+
+(S1 (S (VP (VB Let) (S (VP (POS 's) (VP (VB put) (NP (PRP it)) (ADVP (RB bluntly)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Chinese)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN seen) (S (VP (TO to) (VP (VP (VB have) (VP (VBN made) (NP (NP (NN use)) (PP (IN of) (NP (DT the) (NNP Khmer) (NNP Rouge)))))) (CC and) (RB then) (VP (VB discard) (NP (PRP them))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Ms.) (NNP House)) (VP (VBZ is) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NNP Dow) (NNP Jones) (NNP International) (NNP Group))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Wain)) (VP (VBZ is) (NP (NP (NN editor)) (PP (IN of) (NP (DT The) (NNP Asian) (NNP Wall) (NNP Street) (NNP Journal))))) (. .)))
+

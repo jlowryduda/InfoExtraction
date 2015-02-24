@@ -1,0 +1,98 @@
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Rune) (NNP Andersson)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB revive) (NP (NP (JJ flagging) (JJ Swedish) (NN conglomerate) (NNP Trelleborg) (NNP AB)) (PP (IN in) (NP (DT the) (JJ early) (NNS 1980s)))))))))) (, ,) (NP (PRP he)) (VP (VBD spurned) (NP (NP (DT the) (NN advice)) (PP (IN of) (NP (JJ trendy) (NN management) (NNS consultants))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PDT All) (DT these) (NNS consultants)) (VP (VBD kept) (S (VP (VBG coming) (PP (IN around) (S (VP (VBG telling) (NP (PRP us)) (SBAR (S (NP (PRP we)) (VP (MD should) (VP (VP (VB concentrate) (PP (IN on) (NP (JJ high) (NN technology) (, ,) (NN electronics) (CC or) (NN biotechnology)))) (, ,) (CC and) (VP (VB get) (PP (IN out) (PP (IN of) (NP (JJ mature) (JJ basic) (NNS industries))))))))))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Andersson)) (VP (VBZ recalls)) (. .)))
+
+(S1 (S (CC Yet) (PP (IN under) (NP (PRP$ its) (JJ 45-year-old) (NN president))) (, ,) (NP (NNP Trelleborg)) (VP (VBD moved) (ADVP (RB aggressively)) (PP (IN into) (NP (NP (DT those) (JJ unfashionable) (NN base) (NNS industries)) (: --) (S (VP (VP (ADVP (RB first)) (VBG strengthening) (NP (PRP$ its) (VBG existing) (NN rubber) (CC and) (NNS plastics) (NN division))) (, ,) (ADVP (RB later)) (VP (VBG adding) (NP (NP (NN mining)) (CONJP (RB as) (RB well) (IN as)) (NP (NN building) (CC and) (NN construction) (NNS materials))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (JJ gutsy) (NN move)) (PP (IN for) (NP (NP (DT a) (JJ little-known) (NN executive)) (, ,) (VP (VBD fired) (PP (IN after) (NP (QP (RB only) (CD two)) (NNS months))) (PP (IN as) (NP (NP (NN president)) (PP (IN of) (NP (PRP$ his) (JJ previous) (NN company)))))))))) (. .)))
+
+(S1 (S (CC But) (S (VP (VBG going) (PP (IN against) (NP (DT the) (NN grain))))) (VP (VBZ has) (ADVP (RB never)) (VP (VBN bothered) (S (NP (NNP Mr.) (NNP Andersson))))) (. .)))
+
+(S1 (S (S (VP (VBG Stroking) (NP (PRP$ his) (NN trademark) (JJ white) (NN goatee)) (PP (IN during) (NP (DT a) (JJ recent) (NN interview))))) (, ,) (NP (DT the) (JJ diminutive) (NNP Swede)) (VP (VBZ quips) (: :) (`` `) (S (`` `) (NP (PRP It)) (VP (VBD turned) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (JJ lucky) (PP (IN for) (NP (PRP us)))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (JJ whole) (NN market)) (VP (VBZ thinks) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG doing)))))))) (VP (VBZ is) (ADJP (JJ crazy)) (SBAR (S (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB have) (NP (JJ much) (NN competition))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Andersson)) (VP (VBZ is) (ADJP (JJ anxious) (S (VP (TO to) (VP (VB strengthen) (NP (NP (NNP Trelleborg) (POS 's)) (NN balance) (NN sheet))))))) (. .)))
+
+(S1 (S (ADVP (RB Characteristically)) (, ,) (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB waste) (NP (NP (JJ much) (NN time)) (S (VP (VBG getting) (VP (VBN started))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Tuesday))) (, ,) (NP (NP (NNP Trelleborg) (POS 's)) (NNS directors)) (VP (VBD announced) (NP (NNS plans) (S (VP (TO to) (VP (VB spin) (PRT (RP off)) (NP (NP (CD two) (JJ big) (NNS divisions)) (PRN (: --) (NP (NP (NNS minerals) (NN processing)) (, ,) (CC and) (NP (NN building) (CC and) (NN distribution))) (: --)) (PP (IN as) (NP (RB separately) (VBN quoted) (NNS companies)))) (PP (IN on) (NP (NP (NNP Stockholm) (POS 's)) (NNP Stock) (NNP Exchange)))))))) (. .)))
+
+(S1 (S (S (PP (IN At) (NP (JJ current) (NN market) (NNS prices))) (, ,) (NP (NP (DT the) (JJ twin) (JJ public) (NNS offerings)) (VP (TO to) (VP (VB be) (VP (VBN completed) (NP (JJ next) (NN year)))))) (VP (MD would) (VP (VB add) (NP (DT an) (ADJP (VBN estimated) (NP (NP (QP (CD 2.5) (CD billion)) (JJ Swedish) (NNS kronor)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 386) (CD million))) (-RRB- -RRB-))))) (PP (TO to) (NP (NP (NNP Trelleborg) (POS 's)) (NNS coffers)))))) (, ,) (NP (NNS analysts)) (VP (VBP say)) (. .)))
+
+(S1 (S (NP (DT The) (NN board)) (VP (VBD had) (ADVP (RB also)) (VP (VBN been) (VP (VBN expected) (S (VP (TO to) (VP (VB approve) (NP (NP (DT a) (ADJP (CD SKr1.5) (CD billion)) (JJ international) (NN offering)) (PP (IN of) (NP (JJ new) (NNP Trelleborg) (NNS shares)))))))))) (. .)))
+
+(S1 (S (S (CC But) (NP (NP (DT that) (NN share) (NN issue)) (: --) (VP (VBN intended) (S (VP (TO to) (VP (VB make) (S (NP (NNP Trelleborg)) (ADJP (RBR better) (VBN known) (PP (IN among) (NP (JJ international) (NNS investors))))))))) (: --)) (VP (VBD was) (VP (VBN postponed) (SBAR (IN until) (S (NP (NN market) (NNS conditions)) (VP (VBP stabilize))))))) (, ,) (NP (NP (NNS people)) (ADJP (JJ familiar) (PP (IN with) (NP (DT the) (NN situation))))) (VP (VBP say)) (. .)))
+
+(S1 (S (NP (NP (NNP Trelleborg) (POS 's)) (ADJP (RB internationally) (VBN traded)) (`` `) (INTJ (`` `) (UH Bfree) ('' ')) ('' ') (NN series) (NN stock)) (VP (VBD plunged) (NP (NP (CD SKr29)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 4.48)) (-RRB- -RRB-))) (PP (TO to) (NP (NP (CD SKr205)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 31.65)) (-RRB- -RRB-)))) (PP (IN in) (NP (NP (JJ volatile) (NN trading)) (NP (NNP Monday)) (PP (IN in) (NP (NNP Stockholm)))))) (. .)))
+
+(S1 (S (NP (NNP Tuesday)) (, ,) (NP (DT the) (NNS shares)) (VP (VBD regained) (NP (CD SKr20)) (, ,) (S (VP (VBG closing) (PP (IN at) (NP (CD SKr225)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Andersson)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ is) (ADJP (JJ confident) (SBAR (IN that) (S (S (VP (VBG taking) (NP (NP (NNS parts)) (PP (IN of) (NP (DT the) (NN company) (JJ public)))))) (VP (MD will) (VP (VB help) (S (VP (VB erase) (NP (NP (DT the) (`` `) (NX (`` `) (NX (NN conglomerate) (NN stigma)) ('' ')) ('' ')) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN held) (PRT (RP down)) (NP (NP (NNP Trelleborg) (POS 's)) (NN share) (NN price)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Trelleborg)) (VP (VBZ plans) (S (VP (TO to) (VP (VB remain) (NP (NP (DT the) (JJ dominant) (NN shareholder)) (PP (IN with) (NP (NP (NNS stakes)) (PP (IN of) (NP (NP (QP (RB slightly) (JJR less) (IN than) (CD 50)) (NN %)) (PP (IN of) (NP (DT both) (NNS units)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN spinoff)) (VP (MD should) (VP (VB solve) (NP (NP (DT a) (NN problem)) (PP (IN for) (NP (DT the) (NN parent)))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN family) (NN foundation)) (VP (VBN set) (PRT (RP up)) (PP (IN by) (NP (JJ late) (NN founder) (NNP Henry) (NNP Dunker))))) (VP (VBZ controls) (NP (NP (CD 59) (NN %)) (PP (IN of) (NP (NP (NP (NNP Trelleborg) (POS 's)) (JJ voting) (NNS shares)) (ADJP (JJ outstanding)))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN foundation)) (VP (VBZ bylaws) (VP (VB require) (NP (DT the) (JJ entire) (NNP Trelleborg) (NN stake)) (S (VP (TO to) (VP (VB be) (VP (VBN sold) (PP (IN in) (NP (DT the) (JJ open) (NN market))) (SBAR (IN if) (S (NP (NN control)) (VP (VBZ drops) (PP (IN below) (NP (CD 50) (NN %)))))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN possibility)) (VP (VBD had) (VP (VBD crept) (ADVP (RBR closer) (PP (IN as) (NP (VBN repeated) (JJ new) (NN share) (NNS offerings)))) (S (VP (TO to) (VP (VB finance) (NP (NP (NP (NNP Trelleborg) (POS 's)) (JJ rapid) (NN growth)) (VP (ADVP (RB steadily)) (VBN diluted) (NP (NP (DT the) (NN foundation) (POS 's)) (NN holding))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN growth)) (VP (VBZ is) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (NP (NNP Mr.) (NNP Andersson) (POS 's)) (NN shopping) (NN spree)) (, ,) (SBAR (WHPP (IN during) (WHNP (WDT which))) (S (NP (PRP he)) (VP (VBZ has) (VP (VBN bought) (CC and) (VBN sold) (NP (QP (JJR more) (IN than) (CD 100)) (NNS companies)) (PP (IN during) (NP (DT the) (JJ past) (CD five) (NNS years))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (JJ new) (NNS additions)))) (VP (VBD were) (ADJP (RB barely) (JJ profitable)) (, ,) (SBAR (IN if) (FRAG (RB not) (NP (RB outright) (NN loss) (NNS makers))))) (. .)))
+
+(S1 (S (NP (VBG Applying) (NN prowess)) (VP (VP (VBD gained) (PP (IN during) (NP (NP (JJR earlier) (NNS stints)) (PP (IN at) (NP (NP (NN appliance) (NN maker) (NNP AB) (NNP Electrolux)) (, ,) (NP (NNP Mr.) (NNP Andersson)) (CC and) (NP (NP (DT a) (NN handful)) (PP (IN of) (NP (NP (JJ loyal) (NNS lieutenants)) (VP (ADVP (RB aggressively)) (VBN stripped) (PRT (RP away)) (NP (JJ dead) (NN wood))))))))))) (: --) (CC and) (VP (VBD got) (NP (JJ quick) (NNS results)))) (. .)))
+
+(S1 (S (NP (DT The) (NN treatment)) (VP (VBD turned) (NP (NNP Trelleborg)) (PP (IN into) (NP (NP (CD one)) (PP (IN of) (NP (NP (NP (NNP Scandinavia) (POS 's)) (JJS biggest) (CC and) (JJS fastest-growing)) (NX (JJ industrial) (NNS concerns))))))) (. .)))
+
+(S1 (S (PP (IN Between) (NP (CD 1985) (CC and) (CD 1988))) (, ,) (S (NP (NNS sales)) (VP (VBD multipled) (NP (QP (JJR more) (IN than) (CD 10)) (NNS times)))) (CC and) (S (NP (JJ pretax) (NN profit)) (VP (VBD surged) (ADJP (RB almost) (JJ twelvefold)))) (. .)))
+
+(S1 (S (NP (JJ Many) (NNS analysts)) (VP (VBP expect) (S (NP (NP (NNP Mr.) (NNP Andersson)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ owns) (NP (NP (CD 1.7) (NN %)) (PP (IN of) (NP (DT the) (NN company))))))) (, ,)) (VP (TO to) (VP (VB be) (VP (VBN named) (S (NP (NP (NNP Trelleborg) (POS 's)) (JJ new) (NN chairman))) (SBAR (WHADVP (WRB when)) (S (NP (NNP Ernst) (NNP Herslow)) (VP (VBZ steps) (ADVP (RB down) (NP (JJ next) (NN year))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN promotion)) (VP (VBZ is) (RB n't) (ADJP (JJ likely) (S (VP (TO to) (VP (VB alter) (NP (NP (DT a) (NN management) (NN style)) (SBAR (S (NP (NNP Mr.) (NNP Andersson)) (VP (VBZ describes) (PP (IN as) (`` `) (S (VP (`` `) (VBG being) (NP (NP (DT the) (VBG driving) (NN force)) (VP (VP (VBG leading) (NP (DT the) (NNS troops))) (, ,) (RB not) (VP (VBG managing) (PP (IN by) (S (VP (VBG sitting) (PRT (RP back)) (PP (IN with) (NP (NP (DT a) (NN cigar)) (VP (VBG waiting) (SBAR (IN for) (S (NP (NNS people)) (VP (TO to) (VP (VB bring) (NP (PRP me)) (NP (NNS ideas))))))))))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (JJ Last) (NN month)) (, ,) (PP (IN in) (NP (PRP$ his) (JJS boldest) (NN move) (RB yet))) (, ,) (NP (NNP Mr.) (NNP Andersson) (CC and) (NNP Trelleborg)) (VP (VBD joined) (NP (NNS forces)) (PP (IN with) (NP (NP (NNP Canada) (POS 's)) (NNP Noranda) (NNP Inc.))) (PP (IN in) (NP (NP (DT a) (JJ joint) (ADJP (QP ($ $) (CD 2) (CD billion))) (JJ hostile) (NN takeover)) (PP (IN of) (NP (NP (DT another) (JJ big) (JJ Canadian) (NN mining) (NN concern)) (, ,) (NP (NNP Falconbridge) (NNP Ltd))))))) (. .)))
+
+(S1 (S (NP (NN Industry) (NNS analysts)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NP (DT the) (JJS conquest)) (PP (IN of) (NP (NNP Falconbridge)))) (VP (MD could) (VP (NN vault) (NP (NNP Trelleborg)) (PP (IN from) (NP (DT a) (JJ regional) (NNP Scandinavian) (NN success) (NN story))) (PP (TO to) (NP (DT a) (JJ world-class) (NN mining) (NN concern)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP Trelleborg)) (VP (VBZ is) (RB n't) (PP (IN in) (NP (DT the) (JJ same) (NN league))) (ADVP (RB yet)) (PP (IN as) (NP (NP (NN mining) (NNS giants)) (PP (JJ such) (IN as) (NP (NP (NNP RTZ) (NNP Corp.)) (CC or) (NP (NNP Anglo-American) (NNP Corp.))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Mike) (NNP Kurtanjek)) (, ,) (NP (NP (DT a) (NN mining) (NN analyst)) (PP (IN at) (NP (NP (NNP James) (NNP Capel) (CC &) (NNP Co.)) (, ,) (NP (NNP London)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (CC But) (NP (PRP we)) (ADVP (RB certainly)) (VP (VBP like) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP 've) (VP (VBN seen) (ADVP (RB so) (RB far))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (CC But) (NP (NNP Trelleborg)) (ADVP (RB still)) (VP (MD must) (VP (VB clear) (NP (DT some) (JJ tough) (NNS hurdles)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Andersson)) (VP (VBZ acknowledges) (SBAR (IN that) (S (NP (NP (DT the) (NN company) (POS 's)) (NN mining) (NN division) (`` `)) (`` `) (VP (MD will) (VP (VB be) (ADJP (JJ busy)) (PP (IN for) (NP (NP (DT a) (NN while)) (VP (VBG digesting) (NP (PRP$ its) (JJ recent) (NN expansion)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (JJ Booming) (NNS metals) (NNS prices)) (VP (VBP have) (VP (VBN fueled) (NP (NP (NNP Trelleborg) (POS 's)) (JJ recent) (NN profit) (NN surge)) (, ,) (S (VP (VBG raising) (NP (NP (NP (NN mining) (POS 's)) (NN share)) (PP (IN of) (NP (JJ pretax) (NN profit)))) (PP (TO to) (NP (NP (CD 68) (NN %)) (NP (DT this) (NN year)))) (PP (IN from) (NP (NP (DT a) (JJ big) (NN loss)) (ADVP (NP (CD two) (NNS years)) (RB earlier)))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS analysts)) (VP (VBP caution) (SBAR (S (NP (NP (DT an) (JJ expected) (NN fall)) (PP (IN in) (NP (NP (NN metal) (NNS prices)) (NP (JJ next) (NN year))))) (VP (MD could) (VP (VB slow) (NP (NN profit) (NN growth))))))) (. .)))
+
+(S1 (S (NP (NN Mining)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB remain) (NP (NP (NNP Trelleborg) (POS 's)) (JJ main) (NN business))))))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBP say) (SBAR (S (NP (NP (PRP$ its) (NNS chances)) (PP (IN of) (NP (NN success)))) (VP (MD will) (ADVP (RB likely)) (VP (VB hinge) (PP (IN on) (SBAR (WHADVP (WRB how) (RB well)) (S (NP (NNP Trelleborg)) (VP (VBZ manages) (S (VP (TO to) (VP (VB cooperate) (PP (IN with) (NP (NNP Noranda))) (PP (IN in) (NP (DT the) (NNP Falconbridge) (NN venture))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Noranda) (CC and) (NNP Trelleborg)) (DT each) (VP (VBD came) (ADJP (JJ close) (PP (TO to) (S (VP (VBG winning) (NP (NNP Falconbridge)) (ADVP (RB alone)) (PP (IN before) (NP (DT the) (JJ successful) (JJ joint) (NN bid)))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS analysts)) (VP (VBP say) (SBAR (S (NP (NNP Noranda)) (VP (MD would) (VP (VB prefer) (S (VP (TO to) (VP (VB break) (PRT (RP up)) (NP (NP (NN Falconbridge)) (, ,) (CC and) (SBAR (IN that) (S (NP (NP (DT the) (NNPS Swedes)) (PRN (: --) (ADJP (RB relatively) (JJ inexperienced) (PP (IN in) (NP (JJ international) (NN mining) (NNS operations)))) (: --))) (VP (MD could) (VP (VB have) (NP (NP (NNS problems)) (S (VP (VBG holding) (NP (PRP$ their) (JJ own)) (PP (IN with) (NP (NP (DT a) (ADJP (RB much) (JJR bigger)) (NN partner)) (PP (IN like) (NP (NNP Noranda))))) (S (VP (VBG operating) (PP (IN on) (NP (PRP$ its) (NN home) (NN turf))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Andersson)) (VP (VBZ insists) (SBAR (IN that) (S (NP (NNP Trelleborg) (CC and) (NNP Noranda)) (VP (VBP have) (RB n't) (VP (VBN discussed) (NP (DT a) (NNP Falconbridge) (NN break-up))))))) (. .)))
+
+(S1 (S (NP (NNP Falconbridge)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ says))) (, ,)) (VP (MD will) (VP (VB continue) (S (VP (VBG operating) (PP (IN in) (NP (PRP$ its) (JJ current) (NN form))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (MD 'd) (VP (VB be) (ADJP (JJ reluctant) (S (VP (TO to) (VP (VB accept) (NP (NP (JJ 50-50) (NN ownership)) (PP (IN in) (NP (DT a) (VBG manufacturing) (NN company))))))))))) (. .)))
+
+(S1 (S (CC But) (S (NP (JJ such) (NNS partnerships)) (VP (VBP are) (ADJP (JJ common) (PP (IN in) (NP (NP (NN mining)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (EX there)) (VP (VBP are) (RB n't) (NP (NP (NNS problems) (CC or) (NN conflict)) (PP (IN of) (NP (NP (NN interest) (CC or) (NN risk)) (PP (IN of) (NP (NP (NN cheating)) (PP (IN by) (NP (DT a) (NN partner)))))))))))))))) (, ,) ('' ') ('' ') (NP (NP (NNP Trelleborg) (POS 's)) (NN president)) (VP (VBZ says)) (. .)))
+
+(S1 (S (ADJP (RB Perhaps) (RBR more) (JJ important)) (, ,) (NP (DT both) (NNS companies)) (VP (VBP share) (NP (NP (NP (NNP Mr.) (NNP Andersson) (POS 's)) (NN belief)) (PP (IN in) (NP (NP (DT the) (VBG coming) (NN renaissance)) (PP (IN of) (NP (NN base) (NNS industries))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN If) (S (NP (DT the) (CD 1980s)) (VP (VBD were) (NP (NP (DT a) (NN decade)) (PP (IN of) (NP (NN consumption))))))) (, ,) (NP (DT the) (NNS '90s)) (VP (MD will) (VP (VB be) (NP (DT the) (NN investment) (NN decade)))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Andersson)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (NP (`` `) (NP (NP (DT The) (NN whole)) (PP (IN of) (NP (NNP Europe)))) (CC and) (NP (DT the) (VBN industrialized) (NN world))) (VP (VBZ is) (VP (VBG suffering) (PP (IN from) (NP (NP (DT a) (NN breakdown)) (PP (IN in) (NP (NN infrastructure) (NN investment)))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (DT That)) (VP (VBZ 's) (VP (VBG beginning) (S (VP (TO to) (VP (VB change)))))) (. .)))
+
+(S1 (S (CC And) (NP (NN investment)) (VP (VBZ is) (NP (NP (DT the) (JJ key) (NN word)) (PP (IN for) (NP (NP (NN base) (NNS metals)) (, ,) (CC and) (NP (NP (RBS most) (JJ other) (NNS businesses)) (SBAR (S (NP (NNP Trelleborg)) (VP (VBZ is) (ADJP (IN in)))))))))) (. .)))
+

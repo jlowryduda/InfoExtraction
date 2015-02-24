@@ -1,0 +1,42 @@
+(S1 (S (PP (IN Despite) (NP (NP (NP (NNS politicians) (POS ')) (NN hand-wringing)) (PP (IN about) (NP (DT the) (JJ federal) (NN budget))))) (, ,) (NP (DT the) (NN government)) (VP (VBD ended) (NP (NP (NP (JJ fiscal) (CD 1989)) (PP (IN with) (NP (DT a) (ADJP (QP ($ $) (CD 152.08) (CD billion))) (NN deficit)))) (, ,) (NP (NP (RB about) (DT the) (JJ same)) (PP (IN as) (NP (DT the) (CD two) (JJ previous) (NNS years)))))) (. .)))
+
+(S1 (S (ADVP (RB Even)) (NP (NNP White) (NNP House) (NN budget) (NN director) (NNP Richard) (NNP Darman)) (VP (VBD had) (NP (NP (NN trouble)) (S (VP (VBG finding) (NP (DT a) (NN silver) (NN lining)) (PP (IN in) (NP (DT the) (NN report))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (PRP you)) (VP (MD could) (VP (VB say) (SBAR (S (NP (DT the) (JJ good) (NN news)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NNS deficits)) (VP (VBP are) (RB not) (VP (VBG heading) (PRT (RP up))))))))))))))) (PRN (, ,) ('' ') ('' ') (S (NP (PRP he)) (VP (VBD said))) (, ,) (`` `)) (`` `) (CC but) (S (NP (PRP you)) (VP (MD ca) (RB n't) (VP (VB be) (ADJP (JJ satisfied) (PP (IN with) (NP (NNS deficits)))) (PP (IN at) (NP (DT this) (NN level))))))) (CC and) (S (NP (PRP we)) (VP (VBP 're) (RB not))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (JJ federal) (NN deficit)) (VP (VBD was) (NP (NP (NP (QP ($ $) (CD 155.15) (CD billion))) (PP (IN in) (NP (CD 1988)))) (CC and) (NP (NP (QP ($ $) (CD 149.69) (CD billion))) (PP (IN in) (NP (CD 1987)))))) (. .)))
+
+(S1 (S (NP (DT The) (CD 1989) (NN deficit)) (VP (MD would) (VP (VB have) (VP (VBN been) (ADJP (ADJP (NP (QP (RB nearly) ($ $) (CD 10) (CD billion))) (JJR larger)) (SBAR (S (VP (VBD had) (NP (DT the) (NN government)) (VP (VBN been) (ADJP (JJ able) (S (VP (TO to) (VP (VB spend) (ADVP (ADVP (RB as) (RB much)) (SBAR (IN as) (S (NP (NNP Congress)) (VP (VBD intended) (PP (IN on) (S (VP (VBG cleaning) (PRT (RP up)) (NP (DT the) (NN thrift) (NN industry)) (PP (IN before) (NP (NP (DT the) (NN year)) (VP (VBN ended) (PP (IN on) (NP (NNP Sept.) (CD 30))))))))))))))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN Because) (S (NP (DT the) (NNP Resolution) (NNP Trust) (NNP Corp) (. .)) (VP (MD could) (RB n't) (VP (VB spend) (NP (DT the) (NN money)) (ADVP (RB fast) (RB enough)))))) (, ,) (NP (DT the) (NN savings-and-loan) (NNS outlays)) (VP (VBD were) (VP (VBN pushed) (PP (IN into) (NP (JJ fiscal) (CD 1990))))) (. .)))
+
+(S1 (S (ADVP (RB Nevertheless)) (, ,) (NP (DT the) (CD 1989) (NN deficit)) (VP (VP (ADVP (RB still)) (VBD exceeded) (NP (NP (DT the) (ADJP (QP ($ $) (CD 136) (CD billion))) (NN target)) (VP (VBN set) (PP (IN by) (NP (DT the) (NNP Gramm-Rudman) (NN deficit-reduction) (NN law))))) (PP (IN by) (NP (QP ($ $) (CD 16) (CD billion))))) (, ,) (NP (NP (DT a) (NN reminder)) (PP (IN of) (NP (NP (DT that) (NN law) (POS 's)) (NNS shortcomings))))) (. .)))
+
+(S1 (S (NP (DT The) (NN law)) (VP (VBZ sets) (NP (NP (DT a) (NN deficit) (NN target)) (PP (IN of) (NP (QP ($ $) (CD 100) (CD billion))))) (PP (IN for) (NP (JJ fiscal) (CD 1990)))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ partisan) (NN fight)) (PP (IN over) (S (VP (VBG cutting) (NP (JJ capital-gains) (NNS taxes)))))) (VP (VBZ has) (VP (VBN slowed) (NP (NP (DT the) (NN progress)) (PP (IN of) (NP (CD 1990) (NN deficit-reduction) (NN legislation)))) (PP (ADVP (RB almost)) (TO to) (NP (DT a) (NN halt))) (, ,) (S (VP (VBG triggering) (NP (NP (JJ across-the-board) (NN spending) (NNS cuts)) (PP (IN under) (NP (DT the) (NNP Gramm-Rudman) (NN law)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP White) (NNP House)) (CC and) (NP (NP (DT the) (JJ Democratic) (NN leadership)) (PP (IN in) (NP (NNP Congress))))) (VP (VBP blame) (NP (DT each) (JJ other)) (PP (IN for) (S (VP (VBG turning) (NP (JJ capital-gains) (NNS taxes)) (PP (IN into) (NP (NP (PDT such) (DT a) (JJ divisive) (NN issue)) (NP (DT this) (NN year)))))))) (. .)))
+
+(S1 (S (NP (DT Neither) (NN side)) (VP (VBD showed) (NP (NP (DT any) (NN sign)) (PP (IN of) (NP (VBG retreating))))) (. .)))
+
+(S1 (S (S (VP (VBG Meeting) (PP (IN with) (NP (NNS reporters))) (NP (NNP Friday)))) (, ,) (NP (NNP Mr.) (NNP Darman)) (VP (ADVP (RB again)) (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (ADVP (RB rather)) (VP (VB live) (PP (IN with) (NP (NP (JJ across-the-board) (NN spending) (NNS cuts)) (PP (IN than) (VP (VB accept) (NP (NP (DT a) (NN deficit-reduction) (NN bill)) (PP (IN like) (NP (DT the) (CD one))) (VP (VBN passed) (PP (IN by) (NP (NP (DT the) (NNP House)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD would) (VP (VB increase) (NP (NN spending)) (PP (IN in) (NP (JJ future) (NNS years)))))))))))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Underscoring) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NNS deficits))) (PP (IN of) (NP (DT the) (JJ past) (JJ few) (NNS years)))))) (, ,) (NP (DT the) (NNP Treasury) (NN report)) (VP (VBD showed) (SBAR (IN that) (S (PP (IN for) (NP (NP (DT the) (JJ first) (NN time) (NN interest)) (VP (VBN paid) (PP (IN on) (NP (DT the) (JJ public) (NN debt)))) (PRN (: --) (NP (QP ($ $) (CD 240.86) (CD billion))) (: --)))) (VP (VBD exceeded) (NP (NP (NN spending)) (PP (IN on) (NP (NP (NNP Social) (NNP Security)) (, ,) (NP (DT the) (ADJP (JJ single) (JJS largest)) (NN government) (NN program))))))))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (DT all))) (, ,) (NP (JJ federal) (NNS outlays)) (VP (VBD amounted) (PP (TO to) (NP (NP (QP ($ $) (CD 1.143) (CD trillion))) (PP (IN in) (NP (CD 1989))))) (, ,) (ADVP (RB up) (NP (CD 7.5) (NN %)) (PP (IN from) (NP (DT the) (JJ previous) (NN year)))))) (, ,) (NP (DT the) (NNP Treasury)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (JJ Federal) (NNS revenues)) (VP (VBD rose) (NP (CD 9) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 990.79) (CD billion))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Treasury)) (VP (VBD said) (SBAR (S (NP (NP (DT a) (NN surge)) (PP (IN in) (NP (NP (NN tax) (NNS receipts)) (VP (VBN noted) (ADVP (RBR earlier) (PP (IN in) (NP (DT the) (NN year)))))))) (VP (VBD did) (RB n't) (VP (VB turn) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (RB quite) (RB as) (JJ strong)) (SBAR (IN as) (S (NP (PRP it)) (ADVP (RB first)) (VP (VBD appeared))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Treasury)) (VP (VBD marked) (PRT (RP up)) (NP (PRP$ its) (NN forecast)) (PP (IN by) (NP (QP ($ $) (CD 17) (CD million)))) (PP (IN in) (NP (NNP July))))) (, ,) (CC but) (S (NP (DT that)) (VP (VBD proved) (S (VP (TO to) (VP (VB be) (NP (NP (QP (RB about) ($ $) (CD 5) (CD billion))) (ADJP (RB too) (JJ optimistic)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN government)) (VP (VBD ran) (NP (NP (DT a) (NN deficit)) (PP (IN of) (NP (QP ($ $) (CD 6.16) (CD billion))))) (PP (IN in) (NP (NNP September))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (DT a) (NN surplus)) (PP (IN of) (NP (QP ($ $) (CD 10.17) (CD billion)))) (PP (IN in) (NP (NNP September) (CD 1988))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Outlays)) (PP (IN for) (NP (DT the) (NN month)))) (VP (VBD totaled) (NP (QP ($ $) (CD 105.39) (CD billion))) (, ,) (ADVP (RB up) (PP (IN from) (NP (QP ($ $) (CD 87.57) (CD billion))) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+
+(S1 (S (NP (DT The) (NN increase)) (VP (VBZ reflects) (NP (NP (NP (NN spending)) (PP (IN on) (NP (DT the) (NNP S&L) (NN rescue) (CONJP (RB as) (RB well) (IN as)) (NN payroll)))) (CC and) (NP (NP (NNP Social) (NNP Security) (NNS checks)) (VP (ADVP (RB normally)) (VBN issued) (PP (IN in) (NP (NNP October)))) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN issued) (PP (IN in) (NP (NNP September))) (NP (DT this) (NN year)) (SBAR (IN because) (S (NP (NNP Oct.) (CD 1)) (VP (VBD fell) (PP (IN on) (NP (DT a) (NNP Sunday))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Revenues)) (VP (VBD were) (NP (NP (QP ($ $) (CD 99.23) (CD billion))) (, ,) (ADVP (RB up) (PP (IN from) (NP (QP ($ $) (CD 97.74) (CD billion))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))) (. .)))
+

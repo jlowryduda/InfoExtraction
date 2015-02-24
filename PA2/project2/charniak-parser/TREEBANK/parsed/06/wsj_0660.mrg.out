@@ -1,0 +1,14 @@
+(S1 (S (NP (NNP Montedison) (NNP S.p.A.)) (ADVP (RB definitively)) (VP (VBD agreed) (S (VP (TO to) (VP (VB buy) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT the) (ADJP (RB publicly) (VBN held)) (NNS shares)) (PP (IN of) (NP (NNP Erbamont) (NNP N.V.)))))) (PP (IN for) (NP (NP ($ $) (CD 37)) (NP (DT each)))))))) (. .)))
+
+(S1 (S (NP (NN Montedison)) (ADVP (RB now)) (VP (VBZ owns) (NP (NP (QP (RB about) (CD 72)) (NN %)) (PP (IN of) (NP (NP (NP (NNP Erbamont) (POS 's)) (NNS shares)) (ADJP (JJ outstanding)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS companies)) (VP (VBD said) (SBAR (S (NP (DT the) (NN accord)) (VP (VBD was) (ADVP (RB unanimously)) (VP (VBN approved) (PP (IN by) (NP (NP (DT a) (JJ special) (NN committee)) (PP (IN of) (NP (NP (NNP Erbamont) (NNS directors)) (ADJP (JJ unaffiliated) (PP (IN with) (NP (NNP Montedison))))))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT the) (NN pact))) (, ,) (NP (NNP Montedision)) (VP (MD will) (VP (VB make) (NP (NP (DT a) (ADJP ($ $) (JJ 37-a-share)) (NN tender) (NN offer)) (PP (IN for) (NP (NP (NNP Erbamont) (NN stock)) (ADJP (JJ outstanding))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN tender) (NN offer)) (VP (MD will) (VP (VB be) (VP (VBN followed) (PP (IN by) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (DT all)) (PP (IN of) (NP (NP (NNP Erbamont) (POS 's)) (NNS assets))))) (, ,) (ADJP (JJ subject) (PP (TO to) (NP (NP (DT all)) (PP (IN of) (NP (PRP$ its) (NNS liabilities)))))) (, ,) (PP (TO to) (NP (NNP Montedison)))))))) (. .)))
+
+(S1 (S (NP (NNP Erbamont)) (VP (MD will) (ADVP (RB then)) (VP (VB be) (VP (VBN liquidated) (, ,) (PP (IN with) (S (NP (DT any) (VBG remaining) (NNP Erbamont) (NNS holders)) (VP (VBG receiving) (NP (NP (DT a) (NN distribution)) (PP (IN of) (NP (NP ($ $) (CD 37)) (NP (DT a) (NN share))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS companies)) (VP (VBD said) (SBAR (S (NP (DT the) (NN transaction)) (VP (VBZ is) (VP (VBG being) (VP (VBN structured) (NP (DT this) (NN way)) (SBAR (IN because) (S (NP (NP (DT the) (NNS laws)) (PP (IN of) (NP (NP (DT the) (NNPS Netherlands) (NNPS Antilles)) (, ,) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (NNP Erbamont)) (VP (VBZ is) (ADJP (VBN organized))))) (, ,)))) (VP (VBP do) (RB n't) (VP (VB provide) (PP (IN for) (NP (NN merger) (NNS transactions))))))))))))) (. .)))
+

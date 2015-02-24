@@ -1,0 +1,48 @@
+(S1 (S (NP (NP (DT The) (NN stock) (NN market) (POS 's)) (NNS woes)) (VP (VP (VBD spooked) (NP (NN currency) (NNS traders))) (CC but) (VP (VBD prompted) (NP (NP (DT a) (JJ quiet) (JJ little) (NN party)) (PP (IN among) (NP (NN bond) (NNS investors)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Prices)) (PP (IN of) (NP (JJ long-term) (NNP Treasury) (NNS bonds)))) (VP (VBD moved) (ADVP (RB inversely)) (PP (TO to) (NP (DT the) (NN stock) (NN market))) (SBAR (IN as) (S (NP (NNS investors)) (VP (VBD sought) (NP (NN safety)) (PP (IN amid) (NP (VBG growing) (NN evidence) (SBAR (S (NP (DT the) (NN economy)) (VP (VBZ is) (VP (VBG weakening))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (JJ shaky) (JJ economic) (NN outlook)) (CC and) (NP (DT the) (JJ volatile) (NN stock) (NN market))) (VP (VBD forced) (S (NP (DT the) (NN dollar)) (ADJP (ADJP (JJR lower)) (PP (IN against) (NP (JJ major) (NNS currencies)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN bond) (NN market)) (VP (VBD got) (NP (DT an) (JJ early) (NN boost)) (PP (IN from) (NP (NP (DT the) (JJ opening-hour) (NN sell-off)) (PP (IN in) (NP (NNS stocks)))))) (. .)))
+
+(S1 (S (NP (DT That) (NN rout)) (VP (VBD was) (VP (VBN triggered) (PP (IN by) (NP (NP (NP (NNP UAL) (NNP Corp.) (POS 's)) (NN announcement)) (NP (JJ late) (NNP Monday)) (SBAR (WHNP (IN that)) (S (NP (DT the) (VBN proposed) (NN management-labor) (NN buy-out)) (VP (VBD had) (VP (VBN collapsed))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ 80-point) (NN decline)) (PP (IN in) (NP (DT the) (NNP Dow) (NNP Jones) (NNP Industrial) (NNP Average)))) (PP (IN during) (NP (DT the) (NN morning) (NN trading) (NN session))) (VP (VBD touched) (PRT (RP off)) (NP (NP (DT a) (NN flight)) (PP (TO to) (NP (NN safety))) (SBAR (WHNP (WDT that)) (S (VP (VBD saw) (S (NP (NNS investors)) (VP (VBG shifting) (NP (NNS assets)) (PP (PP (IN from) (NP (NNS stocks))) (PP (TO to) (NP (NNP Treasury) (NNS bonds))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (PRP$ its) (JJS strongest))) (, ,) (NP (NP (DT the) (NNP Treasury) (POS 's)) (NN benchmark) (JJ 30-year) (NN bond)) (VP (VBD rose) (NP (NP (QP (JJR more) (IN than) (DT a)) (NN point)) (, ,) (CC or) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 10))) (PP (IN for) (NP (DT each) (ADJP ($ $) (CD 1,000)) (NN face) (NN amount)))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (DT the) (NN stock) (NN market)) (VP (VBD recovered) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ its) (NNS losses)))) (ADVP (RB later) (PP (IN in) (NP (DT the) (NN day))))))) (, ,) (NP (NN bond) (NNS prices)) (VP (VBD retreated)) (. .)))
+
+(S1 (S (CC But) (NP (NNS analysts)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN combination)) (PP (IN of) (NP (NP (DT a) (JJ second) (JJ consecutive) (NN decline)) (PP (IN in) (NP (NP (JJ monthly) (NNS durable-goods) (NNS orders)) (CC and) (NP (JJ lackluster) (JJ mid-October) (NN auto) (NNS sales))))))) (VP (VBD helped) (VP (VB prop) (PRT (RP up)) (NP (DT the) (NNP Treasury) (NN market))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (VBG slowing) (NN economy)) (CC and) (NP (NP (DT the) (NN implication)) (PP (IN of) (NP (NP (JJR lower) (NN inflation)) (CC and) (NP (NN interest) (NNS rates)))))) (VP (VBP tend) (S (VP (TO to) (VP (VB bolster) (NP (NN bond) (NNS prices)))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT the) (NN surface))) (, ,) (NP (NP (DT the) (NN decline)) (PP (IN in) (NP (NP (NNP September) (JJ durable) (NNS goods)) (: --) (NP (QP (RB only) (CD 0.1)) (NN %)) (: --)))) (VP (VBD did) (RB n't) (VP (VB appear) (ADJP (RB very) (JJ weak)))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NP (NNS orders)) (PP (IN for) (NP (JJ non-defense) (NN capital) (NNS goods)))) (, ,) (NP (NP (DT a) (NN precursor)) (PP (IN of) (NP (JJ future) (NN plant) (CC and) (NN equipment) (NN spending)))) (, ,)) (VP (VBD were) (ADVP (RB off) (NP (CD 5.6) (NN %))) (PP (IN after) (S (VP (VBG falling) (NP (CD 10.3) (NN %)) (PP (IN in) (NP (NNP August))))))) (. .)))
+
+(S1 (S (NP (NN Auto) (NNS makers)) (VP (VBD reported) (SBAR (IN that) (S (NP (JJ mid-October) (NNS sales)) (VP (VBD were) (VP (VBG running) (PP (IN at) (NP (NP (DT an) (JJ annual) (NN rate)) (PP (IN of) (NP (NP (QP (RB about) (CD 5.8) (CD million)) (NNS units)) (, ,) (ADJP (ADJP (RB far) (JJR less)) (PP (IN than) (NP (NP (DT the) (QP (CD 6.6) (CD million)) (NNS units)) (SBAR (S (NP (NNS analysts)) (VP (VBD had) (VP (VBN expected))))))))))))))))) (. .)))
+
+(S1 (S (S (VP (VBN Taken) (ADVP (RB together)))) (, ,) (NP (DT the) (NNS auto-sales) (CC and) (NNS durable-goods) (NNS reports)) (VP (VBD confirmed) (NP (NNS perceptions) (SBAR (IN that) (S (NP (DT the) (NN economy)) (VP (VBZ is) (VP (VBG bogging) (PRT (RP down)))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNS analysts)) (VP (VBP do) (RB n't) (VP (VB expect) (S (NP (DT the) (NNP Federal) (NNP Reserve)) (VP (TO to) (VP (VB ease) (NP (NN credit) (NN policy)) (ADVP (RB soon))))))))) (, ,) (NP (NP (NNS reports)) (PP (IN like) (NP (DT those) (NN yesterday)))) (VP (VBP help) (S (VP (VB build) (NP (NP (DT the) (NN case)) (PP (IN for) (NP (JJR lower) (NNS rates))))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (NP (NN bond) (NNS investors)) (VP (VBP are) (VP (VBG looking) (PP (IN toward) (NP (NP (NP (NP (JJ next) (NN week) (POS 's)) (NN report)) (PP (IN from) (NP (JJ national) (VBG purchasing) (NNS managers)))) (CC and) (NP (NP (DT the) (NN government) (POS 's)) (NNP October) (NN employment) (NN report)))) (S (ADVP (RB as) (RB potentially)) (VP (VBG prompting) (S (NP (DT the) (NNP Fed)) (VP (TO to) (VP (VB lower) (NP (NNS rates))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN stock) (NN market) (POS 's)) (JJ precipitous) (NN drop)) (VP (VBD frightened) (NP (NP (JJ foreign) (NNS investors)) (, ,) (SBAR (WHNP (WP who)) (S (VP (ADVP (RB quickly)) (VBD bid) (S (NP (DT the) (NN dollar)) (ADJP (JJR lower)))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN as) (S (NP (NN stock) (NNS prices)) (VP (VBD recovered) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (JJ early) (NNS losses))))))) (, ,) (VP (ADVP (RB so)) (VBD did) (NP (DT the) (NNP U.S.) (NN currency))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNS dealers)) (VP (VBD said) (SBAR (SBAR (S (NP (NNS investors)) (VP (VBP are) (VP (VBG becoming) (ADJP (RBR more) (JJ bearish) (PP (IN toward) (NP (DT the) (NN dollar)))) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (NP (DT the) (NN stock) (NN market) (POS 's)) (JJ recent) (NNS troubles))))))))) (CC and) (SBAR (IN as) (S (NP (DT the) (NNP U.S.) (NN economy)) (VP (VBZ weakens)))))))) (, ,) (NP (DT the) (NN dollar)) (VP (VBD ended) (ADVP (RB down)) (ADVP (RB only) (RB modestly))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ major) (NN market) (NN activity))) (: :) (NP (NN Bond) (NNS prices)) (VP (VBD rose)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Treasury) (POS 's)) (NN benchmark) (JJ 30-year) (NN bond)) (VP (VBD gained) (NP (NP (RB nearly) (PDT half) (DT a) (NN point)) (, ,) (CC or) (NP (NP (QP (RB about) ($ $) (CD 5))) (PP (IN for) (NP (DT each) (ADJP ($ $) (CD 1,000)) (NN face) (NN amount)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN yield)) (PP (IN on) (NP (DT the) (NN issue)))) (VP (VBD slipped) (PP (TO to) (NP (CD 7.89) (NN %)))) (. .)))
+
+(S1 (S (NP (DT The) (NN dollar)) (VP (VBD retreated)) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ late) (NNP New) (NNP York) (NN trading))) (NP (DT the) (NN currency)) (VP (VBD was) (VP (VBN quoted) (PP (IN at) (NP (NP (CD 1.8355) (NNS marks)) (CC and) (NP (CD 141.45) (NNS yen)))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (CD 1.8470) (NNS marks)) (CC and) (NP (CD 141.90) (NNS yen))) (NP (NNP Monday)))))) (. .)))
+

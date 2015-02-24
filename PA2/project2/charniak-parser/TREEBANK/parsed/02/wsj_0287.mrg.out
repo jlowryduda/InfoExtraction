@@ -1,0 +1,12 @@
+(S1 (S (SBAR (IN As) (S (VP (VBN expected)))) (, ,) (NP (NP (NNP Warner) (NNP Bros) (. .)) (NNP Records)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (S (VP (TO to) (VP (VB form) (NP (NP (DT a) (ADJP (JJ recorded-music) (CC and) (JJ music-publishing)) (JJ joint) (NN venture)) (PP (IN with) (NP (JJ former) (NNP MCA) (NNP Records) (NNP Chairman) (NNP Irving) (NNP Azoff))))))))))) (. .)))
+
+(S1 (S (NP (NNP Warner)) (VP (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB provide) (NP (NP (NN financing)) (PP (IN for) (NP (DT the) (NN venture))))))))) (, ,) (CC but) (VP (VBD did) (RB n't) (VP (VB disclose) (NP (NNS terms))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Azoff)) (VP (VBZ has) (RB n't) (VP (VBN named) (NP (DT the) (NN company)) (ADVP (RB yet))))) (, ,) (CC but) (S (NP (NP (DT any) (NNS records)) (SBAR (S (NP (PRP it)) (VP (VBZ produces))))) (VP (MD will) (VP (VB be) (VP (VBN distributed) (PP (IN by) (NP (NNP Warner))))))) (. .)))
+
+(S1 (S (NP (NNP Warner)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NP (NNP Warner) (NNPS Communications) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (PP (IN in) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG being) (VP (VBN acquired) (PP (IN by) (NP (NNP Time) (NNP Warner) (NNP Inc)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Azoff)) (VP (VP (VBD resigned) (PP (IN as) (NP (NP (NN head)) (PP (IN of) (NP (NP (NNP MCA) (NNP Records)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP MCA) (NNP Inc.)))) (, ,))))) (PP (IN in) (NP (NNP September)))) (, ,) (CC and) (VP (VBD had) (VP (VBN been) (VP (VBG discussing) (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN with) (NP (DT both) (NNP Warner) (CC and) (NNP MCA)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NN statement))) (NP (NN yesterday)) (, ,) (NP (NNP Mr.) (NNP Azoff)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD chose) (NP (NP (NNP Warner)) (, ,) (NP (DT the) (JJS largest) (NN record) (NN company)) (, ,)) (SBAR (IN because) (`` `) (S (`` `) (NP (NP (PRP$ their) (NN standing)) (PP (IN in) (NP (DT the) (NN entertainment) (NN industry)))) (VP (VBZ is) (ADJP (JJ second) (PP (TO to) (NP (NN none))))))))))) (. .)))
+

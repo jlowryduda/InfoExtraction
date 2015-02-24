@@ -1,0 +1,40 @@
+(S1 (S (NP (NNP Rockwell) (NNP International) (NNP Corp.)) (VP (VBD reported) (NP (NP (JJ flat) (NN operating) (NNS earnings)) (PP (IN for) (NP (NP (DT the) (JJ fourth) (NN quarter)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ aerospace) (, ,) (JJ automotive) (NN supply) (, ,) (NNS electronics) (CC and) (NN printing-press) (NN concern)) (ADVP (RB also)) (VP (VBD indicated) (SBAR (IN that) (S (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (JJ fiscal) (CD 1990)))) (VP (MD could) (VP (VB be) (ADJP (JJ rough))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT an) (NN interview))) (, ,) (NP (NP (NNP Donald) (NNP Beall)) (, ,) (NP (NN chairman)) (, ,)) (VP (VBD said) (SBAR (S (NP (NN first-half) (NN profit)) (ADVP (RB certainly)) (VP (MD would) (VP (VB trail) (S (NP (DT the) (JJ past) (NN year)) (VP (VBZ 's) (, ,) (PP (ADVP (RB primarily)) (IN because) (IN of) (NP (NP (NN weakness)) (PP (IN in) (NP (DT the) (NN heavy-truck) (CC and) (JJ passenger-car) (NNS markets)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (PRP he)) (VP (VBD added) (, ,) (S (SBAR (IN if) (S (NP (DT the) (JJ industrial) (NN sector)) (VP (VBZ remains) (ADJP (RB relatively) (JJ stable))))) (, ,) (NP (NNP Rockwell)) (VP (MD should) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB recover) (UCP (PP (IN in) (NP (DT the) (JJ second) (NN half))) (CC and) (VP (ADVP (RB about)) (VB equal) (NP (JJ fiscal) (NP (CD 1989) (POS 's)) (NN operating) (NN profit)) (PP (IN of) (NP (QP ($ $) (CD 630.9) (CD million)))))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (NP (JJ fiscal) (CD 1989)) (POS 's)) (JJ fourth) (NN quarter))) (, ,) (NP (NP (NNP Rockwell) (POS 's)) (JJ net) (NN income)) (VP (VBD totaled) (NP (NP (QP ($ $) (CD 126.1) (CD million))) (, ,) (CC or) (NP (NP (CD 50) (NNS cents)) (NP (DT a) (NN share))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ compares) (PP (IN with) (NP (NP (NN operating) (NNS earnings)) (PP (IN of) (NP (NP (QP ($ $) (CD 132.9) (CD million))) (, ,) (CC or) (NP (NP (CD 49) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (ADVP (NP (DT the) (NN year)) (RBR earlier))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ prior-year) (NN period)) (VP (VBZ includes) (NP (NP (DT a) (JJ one-time) (JJ favorable) (NN tax) (NN adjustment)) (PP (IN on) (NP (NP (DT the) (JJ B-1B) (NN bomber) (NN program)) (CC and) (NP (NP (DT another) (NN gain)) (PP (IN from) (NP (NP (NN sale)) (PP (IN of) (NP (NP (DT the) (JJ industrial) (JJ sewing-machine) (NN business)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD made) (S (NP (NN net)) (NP (NP (QP ($ $) (CD 185.9) (CD million))) (, ,) (CC or) (NP (NP (CD 70) (NNS cents)) (NP (DT a) (NN share))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD rose) (NP (CD 4) (NN %)) (PP (TO to) (NP (NP ($ $) (CD 3.28) (CD billion)) (PP (IN from) (NP (QP ($ $) (CD 3.16) (CD billion))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Beall)) (VP (VBD said) (SBAR (IN that) (S (S (NP (PRP he)) (VP (VBD was) (ADVP (RB generally)) (VP (VBN pleased) (PP (IN with) (NP (DT the) (JJS latest) (NNS numbers)))))) (CC and) (S (VP (VBD cited) (NP (NP (DT a) (ADJP (RB particularly) (JJ strong)) (NN showing)) (PP (IN by) (NP (NP (DT the) (NN company) (POS 's)) (NN electronics) (NN segment))))))))) (. .)))
+
+(S1 (S (ADJP (JJ Overall)) (, ,) (NP (JJ pretax) (NN electronics) (NNS earnings)) (VP (VBD soared) (NP (CD 12) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 107.9) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 96.4) (CD million))))) (. .)))
+
+(S1 (S (NP (DT All) (CD four) (NNS areas)) (VP (VBD had) (NP (NP (JJR higher) (NN revenue)) (PP (IN for) (NP (NP (DT the) (CD three) (NNS months)) (VP (VBD ended) (NP (NNP Sept.) (CD 30))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (NN year))) (, ,) (NP (NNS electronics)) (VP (VBD emerged) (PP (IN as) (S (NP (NP (NP (NNP Rockwell) (POS 's)) (JJS largest) (NN sector)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS sales) (CC and) (NNS earnings)))))) (, ,) (VP (VBG muscling) (PRT (RP out)) (PP (NP (NN aerospace)) (IN for) (NP (DT the) (JJ first) (NN time))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS graphics) (NN business)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBD was) (VP (VBD singled) (PRT (RP out)) (PP (IN by) (NP (DT the) (NN chairman))) (PP (IN as) (NP (DT a) (NN positive))))))) (, ,)) (VP (VBD saw) (NP (NP (PRP$ its) (NN operating) (NNS earnings)) (PP (IN for) (NP (DT the) (NN quarter)))) (VP (VB jump) (NP (CD 79) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 42.1) (CD million))) (PP (IN from) (NP (QP ($ $) (CD 23.5) (CD million)))))))) (. .)))
+
+(S1 (S (S (PP (IN For) (NP (DT the) (NN year))) (, ,) (VP (VBN bolstered) (PP (IN by) (NP (NP (DT the) (NN introduction)) (PP (IN of) (NP (DT the) (ADJP (NNP Colorliner) (JJ newspaper-printing)) (NN press))))))) (, ,) (NP (NNS graphics) (NNS earnings)) (ADVP (RB almost)) (VP (VBD doubled)) (. .)))
+
+(S1 (S (S (NP (NN Aerospace) (NNS earnings)) (VP (VBD sagged) (NP (NP (NP (CD 37) (NN %)) (PP (IN for) (NP (DT the) (NN quarter)))) (CC and) (NP (NP (CD 15) (NN %)) (PP (IN for) (NP (NP (DT the) (NN year)) (, ,) (PP (ADVP (RB largely)) (RB due) (PP (TO to) (NP (JJR lower) (JJ B-1B) (NN program) (NN profit)))))))))) (: ;) (S (NP (NP (DT the) (JJ last)) (PP (IN of) (NP (DT the) (NNS bombers)))) (VP (VBD rolled) (PRT (RP out)) (PP (IN in) (NP (NNP April) (CD 1988))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBD was) (VP (ADVP (RB partially)) (VBN offset) (PP (IN by) (NP (NP (NP (NP (DT the) (NN resumption)) (PP (IN of) (NP (NN space)) (NP (NN shuttle) (NNS flights)))) (CC and) (NP (VBN increased) (NN demand))) (PP (IN for) (NP (JJ expendable) (JJ launch-vehicle) (NNS engines))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VBD took) (NP (NNS hits)) (PP (IN in) (NP (NP (NP (NP (DT the) (JJ fourth) (NNS quarters)) (PP (IN of) (NP (CD 1989)))) (CC and) (NP (NP (CD 1988)) (PP (IN on) (NP (DT a) (JJ fixed-price) (JJ weapons-modernization) (NN development) (NN program))))) (: --) (NP (RB probably) (DT the) (JJ C-130) (NN gunship)))) (, ,) (PP (VBG according) (PP (TO to) (NP (NNS analysts))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (JJ fiscal) (CD 1989))) (, ,) (NP (DT the) (NN company)) (VP (VBD posted) (NP (NP (NN net)) (PP (IN of) (NP (NP (QP ($ $) (CD 734.9) (CD million))) (, ,) (CC or) (NP (NP (QP ($ $) (CD 2.87))) (NP (DT a) (NN share))) (, ,) (ADVP (RB down) (PP (IN from) (NP (NP (QP ($ $) (CD 811.9) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 3.04)) (NP (DT a) (NN share))) (, ,)) (PP (IN in) (NP (JJ fiscal) (CD 1988))))))))) (. .)))
+
+(S1 (S (PP (VBG Excluding) (NP (NP (JJ one-time) (NNS additions)) (PP (TO to) (NP (NP (NN profit)) (PP (IN in) (NP (DT each) (NN year))))))) (, ,) (NP (NP (NNS earnings)) (PP (IN per) (NP (NN share)))) (VP (VBD were) (NP (NP ($ $) (CD 2.47)) (, ,) (ADVP (RB up) (NP (CD 7.4) (NN %)) (PP (IN from) (NP (NP ($ $) (CD 2.30)) (PP (IN in) (NP (JJ fiscal) (CD 1988)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Sales)) (PP (IN for) (NP (DT the) (NN year)))) (VP (VBD rose) (NP (CD 5) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 12.52) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 11.95) (CD billion))) (PP (IN in) (NP (JJ fiscal) (CD 1988))))) (. .)))
+

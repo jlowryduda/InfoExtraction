@@ -1,0 +1,166 @@
+(S1 (S (NP (NP (DT The) (NN debate)) (PP (IN over) (NP (NNP National) (NNP Service)))) (VP (VBZ has) (VP (VBN begun) (ADVP (RB again)))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (DT a) (NN decade)) (PP (IN in) (SBAR (WHNP (WDT which)) (S (S (NP (QP (JJR more) (IN than) (CD 50)) (NNS localities)) (VP (VBD established) (NP (PRP$ their) (JJ own) (NN service) (CC or) (NN conservation) (NN corps)))) (CC and) (S (NP (NP (NNS dozens)) (PP (IN of) (NP (NN school) (NNS systems)))) (VP (VBD made) (S (NP (NN community) (NN service)) (NP (NP (DT a) (NN prerequisite)) (PP (TO to) (NP (NN high-school) (NN graduation)))))))))))) (, ,) (NP (DT the) (NN focus)) (VP (VBZ has) (VP (VBN shifted) (PP (TO to) (NP (NNP Washington))))) (. .)))
+
+(S1 (S (NP (NP (QP (IN At) (JJS least) (CD 10)) (NNS bills)) (VP (VBG proposing) (NP (CD one) (CC or) (DT another) (JJ national) (NN program)))) (VP (VBD were) (VP (VBN introduced) (PP (IN in) (NP (NNP Congress))) (NP (DT this) (NN spring)))) (. .)))
+
+(S1 (S (NP (NP (NN One)) (, ,) (VP (VBN co-sponsored) (PP (IN by) (NP (NP (NP (NNP Sen.) (NNP Sam) (NNP Nunn)) (PRN (-LRB- -LRB-) (NP (NP (NNP D.)) (, ,) (NP (NNP Ga) (. .))) (-RRB- -RRB-))) (CC and) (NP (NP (NNP Rep.) (NNP Dave) (NNP McCurdy)) (PRN (-LRB- -LRB-) (NP (NP (NNP D.)) (, ,) (NP (NNP Okla.))) (-RRB- -RRB-)))))) (, ,)) (VP (MD would) (VP (VB have) (VP (VBN restricted) (NP (JJ federal) (NN college) (NNS subsidies)) (PP (TO to) (NP (NP (NNS students)) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN served)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT An) (JJ omnibus) (NN bill)) (VP (VP (VBN assembled) (PP (IN by) (NP (NP (NNP Sen.) (NNP Edward) (NNP Kennedy)) (PRN (-LRB- -LRB-) (NP (NNP D.)) (, ,) (NP (NNP Mass.)) (-RRB- -RRB-))))) (, ,) (CC and) (VP (VBG including) (NP (DT some) (JJ diluted) (JJ Nunn-McCurdy) (NNS provisions))))) (ADVP (RB along) (PP (IN with) (NP (NP (NNS proposals)) (PP (IN by) (NP (NP (JJ fellow) (NNP Democratic) (NNP Sens.) (NNP Claiborne) (NNP Pell)) (, ,) (NP (NNP Barbara) (NNP Mikulski)) (CC and) (NP (NNP Christopher) (NNP Dodd)) (, ,)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN reported) (PP (IN out) (PP (IN of) (NP (DT the) (NNP Senate) (NNP Labor) (NNP Committee))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD might) (ADVP (RB well)) (VP (VB win) (NP (NNP Senate) (NN passage)))) (. .)))
+
+(S1 (S (NP (NNP President) (NNP Bush)) (VP (VBZ has) (VP (VBN outlined) (NP (PRP$ his) (JJ own) (NN Youth) (VBG Entering) (NNP Service) (PRN (-LRB- -LRB-) (INTJ (UH YES)) (-RRB- -RRB-)) (NN plan)) (, ,) (SBAR (IN though) (S (NP (PRP$ its) (NNS details)) (VP (VBP remain) (S (VP (TO to) (VP (VB be) (VP (VBN specified)))))))))) (. .)))
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (VP (VBZ is) (NP (NP (CD one)) (SBAR (S (VP (TO to) (VP (VB think) (PP (IN of) (NP (PDT all) (DT this)))))))))) (. ?)))
+
+(S1 (S (NP (NP (NNP Doctrine)) (CC and) (NP (JJ special) (NNS interests))) (VP (VBP govern) (NP (DT some) (NNS responses))) (. .)))
+
+(S1 (S (NP (NP (NNS People)) (ADJP (JJ eager) (S (VP (TO to) (VP (VB have) (NP (NN youth)) (`` `) (S (`` `) (VP (VB pay) (NP (PRP$ their) (NNS dues)) (PP (TO to) (NP (NN society)))) ('' ') ('' '))))))) (VP (VBP favor) (NP (NP (NN service) (NNS proposals)) (: --) (RB preferably) (NP (JJ mandatory) (NNS ones)))) (. .)))
+
+(S1 (S (RB So) (VP (VB do) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP seek) (NP (NP (DT a) (`` `) (NX (`` `) (NP (JJ re-energized) (NN concept)) (PP (IN of) (NP (NN citizenship))) (, ,) ('' '))) (: ') (NP (NP (DT a) (NN concept)) (VP (VBG imposing) (NP (NP (JJ stern) (NNS obligations)) (CONJP (RB as) (RB well) (IN as)) (NP (VBG conferring) (NNS rights))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (NP (EX there)) (VP (VBP are) (NP (JJ instinctive) (NNS opponents))) (. .)))
+
+(S1 (S (PP (TO To) (NP (NNS libertarians))) (, ,) (S (NP (JJ mandatory) (NN service)) (VP (VBZ is) (NP (DT an) (NN abomination)))) (CC and) (S (NP (JJ voluntary) (NNS systems)) (VP (VBP are) (NP (NP (JJ illegitimate) (NNS uses)) (PP (IN of) (NP (NN tax) (NN money)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Devotees)) (PP (IN of) (NP (DT the) (NN market)))) (VP (VBP question) (SBAR (S (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (NN work) (JJ national) (NN service)))) (VP (MD would) (VP (VB perform)))))) (: :)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NN market)) (VP (MD wo) (RB n't) (VP (VB pay) (PP (IN for) (NP (PRP it))))))) (PRN (, ,) (S (NP (PRP they)) (VP (VBP argue))) (, ,)) (NP (PRP it)) (VP (MD ca) (RB n't) (VP (VB be) (ADJP (JJ worth) (NP (PRP$ its) (NN cost))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Elements)) (PP (IN of) (NP (DT the) (NN left)))) (VP (VBP are) (ADVP (RB also)) (ADJP (RB reflexively) (VBN opposed)))) (: ;) (S (NP (PRP they)) (VP (VP (VBP see) (NP (NN service)) (PP (IN as) (NP (NP (DT a) (NN cover)) (PP (IN for) (NP (DT the) (NN draft)))))) (, ,) (CC or) (VP (VP (VBP fear) (NP (NP (DT the) (NN regimentation)) (PP (IN of) (NP (NN youth))))) (, ,) (CC or) (VP (VBP want) (S (VP (TO to) (VP (VB see) (NP (NNS rights)) (NP (JJ enlarged) (, ,) (RB not) (NNS obligations))))))))) (. .)))
+
+(S1 (SBARQ (CC But) (WHNP (WP what)) (FRAG (PP (IN about) (NP (NP (DT those)) (PP (IN of) (NP (NP (PRP us)) (SBAR (WHNP (WP$ whose) (NNS views)) (S (VP (VBP are) (RB not) (VP (VBN predetermined) (PP (IN by) (NP (NP (NN formula)) (CC or) (NP (NN ideology))))))))))))) (. ?)))
+
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (MD should) (NP (PRP we)) (VP (VB think) (PP (IN about) (NP (JJ national) (NN service))))) (. ?)))
+
+(S1 (S (S (VP (VB Let) (S (NP (POS 's)) (VP (VB begin) (PP (IN by) (S (VP (VBG recognizing) (NP (NP (DT a) (JJ main) (NN source)) (PP (IN of) (NP (NN confusion))))))))))) (: --) (`` `) (S (NP (`` `) (NP (JJ national) (NN service) (POS ')) ('' ')) (VP (VBZ has) (NP (DT no) (JJ agreed) (NN meaning)))) (. .)))
+
+(S1 (SQ (MD Would) (NP (NN service)) (VP (VB be) (ADJP (JJ voluntary) (CC or) (JJ compulsory))) (. ?)))
+
+(S1 (FRAG (ADJP (JJ Short) (CC or) (JJ long)) (. ?)))
+
+(S1 (FRAG (ADJP (JJ Part-time) (CC or) (JJ full-time)) (. ?)))
+
+(S1 (FRAG (ADJP (VBN Paid) (CC or) (JJ unpaid)) (. ?)))
+
+(S1 (SQ (MD Would) (NP (NNS participants)) (VP (VP (VBP live) (PP (IN at) (NP (NN home) (CC and) (NN work))) (ADVP (RB nearby))) (CC or) (VP (VBP live) (PP (IN in) (NP (NP (NNS barracks)) (CC and) (NP (NP (NN work)) (PP (IN on) (NP (JJ public) (NNS lands)))))))) (. ?)))
+
+(S1 (SBARQ (WHNP (WHNP (WDT What) (NNS kinds)) (PP (IN of) (NP (NN work)))) (SQ (MD would) (NP (PRP they)) (VP (VB do))) (. ?)))
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (VBZ does) (NP (`` `) (ADJP (`` `) (JJ national) ('' ')) ('' ') (NN mean))) (. ?)))
+
+(S1 (SQ (MD Would) (NP (DT the) (NN program)) (VP (VB be) (VP (VBN run) (PP (PP (IN by) (NP (DT the) (JJ federal) (NN government))) (, ,) (PP (IN by) (NP (JJ local) (NNS governments))) (, ,) (CC or) (PP (IN by) (NP (JJ private) (JJ voluntary) (NNS organizations)))))) (. ?)))
+
+(S1 (SBARQ (CC And) (WHNP (WP who)) (SQ (MD would) (VP (VB serve))) (. ?)))
+
+(S1 (FRAG (NP (JJ Only) (NNS males)) (, ,) (PP (IN as) (PP (IN with) (NP (DT the) (NN draft))) (, ,) (CC or) (NP (DT both) (NNS sexes))) (. ?)))
+
+(S1 (FRAG (NP (NP (NN Youth) (RB only)) (CC or) (NP (DT all) (NNS ages))) (. ?)))
+
+(S1 (NP (NP (JJ Middle-class) (NNS people)) (, ,) (CC or) (NP (JJ poor) (NNS people)) (, ,) (CC or) (NP (DT a) (JJ genuine) (NN cross-section)) (. ?)))
+
+(S1 (FRAG (ADJP (JJ Many) (CC or) (JJ few)) (. ?)))
+
+(S1 (S (S (NP (DT Those)) (VP (VBP are) (RB not) (NP (JJ trivial) (NNS questions)))) (, ,) (CC and) (S (S (NP (DT the) (NN label)) (`` `) (NP (`` `) (JJ national) (NN service) ('' ')) ('' ')) (VP (VBZ answers) (NP (NP (NN none)) (PP (IN of) (NP (PRP them)))))) (. .)))
+
+(S1 (SBARQ (RB Then) (WHADVP (WRB how)) (SQ (MD should) (NP (PRP we)) (VP (VB think) (PP (IN about) (NP (JJ national) (NN service))))) (. ?)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN starting) (NN point))) (, ,) (ADVP (RB here)) (VP (VBP are) (NP (NP (CD five) (NNS propositions)) (: :) (S (LST (LS 1) (. .)) (VP (VB Consider) (NP (NP (DT the) (NNS ingredients)) (, ,) (RB not) (NP (DT the) (NN name))))))) (. .)))
+
+(S1 (S (S (VP (VB Ignore) (S (`` `) (NP (`` `) (JJ national) (NN service) ('' ')) ('' ') (PP (IN in) (NP (DT the) (JJ abstract)))))) (: ;) (S (VP (VB consider) (NP (JJ specific) (NNS proposals)))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (MD will) (VP (VB differ) (PP (IN in) (NP (JJ crucial) (NNS ways))))) (. .)))
+
+(S1 (S (NP (CD 2) (. .) (`` `) (NP (`` `) (NP (NNP Service) (POS ')) (POS '))) (VP (MD should) (VP (VB be) (NP (NN service)))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (VP (ADVP (RB commonly)) (VBN understood)))) (, ,) (NP (NN service)) (VP (VBZ implies) (NP (NN sacrifice))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ involves) (S (VP (VP (VBG accepting) (NP (NN risk))) (, ,) (CC or) (VP (VBG giving) (PRT (RP up)) (NP (NN income))) (, ,) (CC or) (VP (VBG deferring) (NP (DT a) (NN career)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ follows) (SBAR (IN that) (S (NP (NP (NNS proposals)) (PP (IN like) (NP (NP (NNP Nunn-McCurdy)) (, ,) (SBAR (WHNP (WHNP (WP$ whose) (NNS benefits)) (PP (TO to) (NP (NNS enrollees)))) (S (VP (VBP are) (ADJP (JJ worth) (NP (NP (DT some) ($ $) (CD 17,500)) (NP (DT a) (NN year))))))) (, ,)))) (VP (VBP do) (RB not) (VP (VB qualify)))))) (. .)))
+
+(S1 (S (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (NN rationale)) (PP (IN for) (NP (JJ such) (NNS bills)))))) (: :) (S (NP (NP (JJ Federal) (NNS subsidies)) (PP (TO to) (NP (NN college) (NNS students)))) (VP (VB amount) (PP (TO to) (NP (`` `) (NP (`` `) (NP (DT a) (JJ GI) (NN Bill)) (PP (IN without) (NP (DT the) (NN GI))) ('' ')) ('' '))))) (: ;) (S (ADVP (RB arguably)) (NP (DT those) (NNS benefits)) (VP (MD should) (VP (VB be) (VP (VBN earned) (, ,) (S (ADJP (RB not) (VBN given))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNS earnings)) (VP (VBP exceed) (PP (IN by) (NP (NP (NP (CD 20) (NN %)) (NP (DT the) (JJ average) (NN income))) (PP (IN of) (NP (NP (JJ young) (NN high-school) (NNS graduates)) (PP (IN with) (NP (JJ full-time) (NNS jobs)))))))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB Why)) (SQ (VP (VB call) (NP (DT that) (NN service)))) (. ?)))
+
+(S1 (S (LST (LS 3) (. .)) (S (NP (NN Encouragement)) (VP (VBZ is) (ADJP (JJ fine)))) (: ;) (S (NP (NN compulsion)) (VP (VBZ is) (RB not))) (. .)))
+
+(S1 (S (NP (VBN Compelled) (NN service)) (VP (VBZ is) (ADJP (JJ unconstitutional))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ unwise) (CC and) (JJ unenforceable))) (. .)))
+
+(S1 (SBARQ (-LRB- -LRB-) (WHNP (WP Who)) (SQ (MD will) (VP (VB throw) (NP (NP (QP (JJ several) (CD hundred) (CD thousand)) (NNS refusers)) (PP (IN in) (NP (NN jail))) (NP (DT each) (NN year))))) (. ?) (-RRB- -RRB-)))
+
+(S1 (S (CC But) (PP (PP (IN through) (NP (NN tax) (NN policy))) (CC and) (PP (IN in) (NP (JJ other) (NNS ways)))) (NP (DT the) (JJ federal) (NN government)) (VP (VBZ encourages) (NP (NP (JJ many) (NNS kinds)) (PP (IN of) (NP (NN behavior))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD should) (ADVP (RB also)) (VP (VB encourage) (NP (NN service)) (PRN (: --) (ADVP (RB preferably))) (PP (IN by) (NP (NP (DT all) (NNS classes)) (CC and) (NP (DT all) (NNS ages)))))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NN encouragement)) (VP (VP (MD should) (VP (VP (VB strengthen)) (CC and) (RB not) (VP (VB undercut) (NP (NP (DT the) (JJ strong) (NN tradition)) (PP (IN of) (S (VP (VBG volunteering) (PP (IN in) (NP (DT the) (NNP U.S.)))))))))) (, ,) (VP (MD should) (VP (VB build) (PP (IN on) (NP (NP (DT the) (NN service) (NNS programs)) (PP (ADVP (RB already)) (IN in) (NP (NN existence))))))) (, ,) (CC and) (VP (MD should) (VP (VB honor) (NP (NP (JJ local) (NNS convictions)) (SBAR (WHPP (IN about) (WHNP (WDT which))) (S (NP (NNS tasks)) (VP (ADVP (RBS most)) (VBP need) (VP (VBG doing))))))))) (. .)))
+
+(S1 (S (LST (LS 4) (. .)) (NP (JJ Good) (NNS programs)) (VP (VBP are) (RB not) (ADJP (JJ cheap))) (. .)))
+
+(S1 (S (S (NP (NNS Enthusiasts)) (VP (VBP assume) (SBAR (IN that) (S (NP (JJ national) (NN service)) (VP (MD would) (VP (VB get) (S (NP (JJ important) (NN work)) (VP (VBN done) (ADVP (RB cheaply)))))))))) (: :) (S (NP (NN forest) (NNS fires)) (VP (VBD fought) (, ,) (S (S (NP (NN housing)) (VP (VBN rehabilitated))) (, ,) (S (NP (NNS students)) (VP (VBN tutored))) (, ,) (S (NP (NN day-care) (NNS centers)) (VP (VBN staffed)))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (JJ important) (NN work)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN done) (, ,) (SBAR (S (S (CC and) (NP (VBG existing) (NN service) (CC and) (NN conservation) (NN corps)) (VP (VBP have) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (RB even) (NNS youths)) (SBAR (WHNP (WP who)) (S (VP (VBP start) (PP (IN with) (NP (JJ few) (NNS skills))))))) (VP (MD can) (VP (VB do) (NP (NP (JJ much)) (PP (IN of) (NP (PRP it)))) (ADVP (RB well))))))))) (: --) (CC but) (FRAG (RB not) (ADVP (RB cheaply)))))))))))) (. .)))
+
+(S1 (S (S (NP (JJ Good) (NN service) (NNS programs)) (VP (VBP require) (NP (NN recruitment) (, ,) (NN screening) (, ,) (NN training) (CC and) (NN supervision)))) (: --) (NP (NP (DT all)) (PP (IN of) (NP (JJ high) (NN quality)))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP involve) (NP (NP (NNS stipends)) (PP (TO to) (NP (NNS participants))))) (. .)))
+
+(S1 (S (S (NP (JJ Full-time) (JJ residential) (NNS programs)) (ADVP (RB also)) (VP (VBP require) (NP (UCP (NN housing) (CC and) (JJ full-time)) (NN supervision)))) (: ;) (S (NP (PRP they)) (VP (VBP are) (ADJP (RB particularly) (JJ expensive)) (: --) (NP (NP (JJR more)) (PP (IN per) (NP (NN participant))) (PP (IN than) (NP (NP (DT a) (NN year)) (PP (IN at) (NP (NNP Stanford) (CC or) (NNP Yale)))))))) (. .)))
+
+(S1 (S (S (NP (JJ Non-residential) (NNS programs)) (VP (VBP are) (ADJP (JJR cheaper)))) (, ,) (CC but) (S (NP (JJ good) (NNS ones)) (ADVP (RB still)) (VP (VBN come) (PP (TO to) (NP (NP (DT some) ($ $) (CD 10,000)) (NP (DT a) (NN year)))))) (. .)))
+
+(S1 (SQ (VBP Are) (NP (PRP they)) (ADJP (JJ worth) (RB that)) (. ?)))
+
+(S1 (S (NP (NNS Evaluations)) (VP (VBP suggest) (SBAR (IN that) (S (NP (JJ good) (NNS ones)) (VP (VBP are) (: --) (SBAR (ADVP (RB especially)) (IN so) (IN if) (S (NP (NP (DT the) (NNS effects)) (PP (IN on) (NP (NNS participants)))) (VP (VBP are) (VP (VBN counted))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNS calculations)) (VP (VBP are) (ADJP (JJ challengeable))) (. .)))
+
+(S1 (S (LST (LS 5) (. .)) (NP (JJ Underclass) (NN youth)) (VP (VBP are) (NP (DT a) (JJ special) (NN concern))) (. .)))
+
+(S1 (SQ (VBP Are) (NP (JJ such) (NNS expenditures)) (PP (JJ worthwhile) (, ,) (ADVP (RB then))) (. ?)))
+
+(S1 (FRAG (INTJ (UH Yes)) (, ,) (SBAR (IN if) (S (VP (VBN targeted)))) (. .)))
+
+(S1 (S (S (NP (NP (NNS People)) (PP (IN of) (NP (NP (DT all) (NNS ages)) (CC and) (NP (DT all) (NNS classes))))) (VP (MD should) (VP (VB be) (VP (VBN encouraged) (S (VP (TO to) (VP (VB serve)))))))) (, ,) (CC but) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ many) (NNS ways)) (SBAR (IN for) (S (NP (NP (NN middle-class) (NNS kids)) (, ,) (CC and) (NP (PRP$ their) (NNS elders)) (, ,)) (VP (TO to) (VP (VB serve) (PP (IN at) (NP (JJ little) (JJ public) (NN cost)))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (MD can) (VP (VP (VB volunteer) (PP (IN at) (NP (NP (DT any)) (PP (IN of) (NP (NP (NNS thousands)) (PP (IN of) (NP (JJ non-profit) (NNS institutions)))))))) (, ,) (CC or) (VP (VB participate) (PP (IN in) (NP (NP (NN service) (NNS programs)) (VP (VP (VBN required) (PP (IN by) (NP (JJ high) (NNS schools)))) (CC or) (VP (VBN encouraged) (PP (IN by) (NP (NNS colleges) (CC or) (NNS employers)))))))))) (. .)))
+
+(S1 (S (NP (JJ Underclass) (NN youth)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT those) (NNS opportunities)))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP are) (RB not) (VP (VBD enrolled) (PP (IN in) (NP (NP (JJ high) (NN school)) (CC or) (NP (NN college)))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP are) (ADJP (JJ unlikely) (S (VP (TO to) (VP (VB be) (VP (VBN employed))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBP have) (VP (VBN grown) (ADVP (RB up)) (PP (IN in) (NP (ADJP (RB unprecedentedly) (JJ grim)) (NNS circumstances))) (, ,) (PP (IN among) (S (NP (NN family) (NNS structures)) (VP (VBG breaking) (PRT (RP down))))) (, ,) (S (VP (VBN surrounded) (PP (IN by) (NP (NP (JJ self-destructive) (NNS behaviors)) (CC and) (NP (JJ bleak) (NNS prospects)))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (JJ many)) (PP (IN of) (NP (PRP them)))) (VP (MD can) (VP (VB be) (VP (ADVP (RB quite) (RB profoundly)) (VBN reoriented) (PP (IN by) (NP (ADJP (JJ productive) (CC and) (JJ disciplined)) (NN service)))))) (. .)))
+
+(S1 (S (S (NP (DT Some)) (VP (MD wo) (RB n't) (VP (VB accept) (NP (DT the) (NN discipline))))) (: ;) (S (NP (NNS others)) (VP (VBP drop) (PP (IN out) (PP (IN for) (NP (JJ other) (NNS reasons)))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT some)) (SBAR (WHNP (WP whom)) (S (NP (NP (NN nothing)) (ADJP (RB else))) (VP (VBZ is) (VP (VBG reaching)))))) (VP (VBP are) (VP (VBN transformed))) (. .)))
+
+(S1 (S (S (S (NP (NNP Learning) (NNS skills)) (, ,) (S (VP (VBG producing) (NP (NN something)) (ADVP (RB cooperatively)))) (, ,) (VP (VBG feeling) (ADJP (JJ useful)))) (, ,) (NP (PRP they)) (VP (VBP are) (ADVP (RB no) (RBR longer)) (ADJP (JJ dependent)))) (: --) (S (NP (NNS others)) (ADVP (RB now)) (VP (VBP depend) (PP (IN on) (NP (PRP them))))) (. .)))
+
+(S1 (S (SBAR (RB Even) (IN if) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJR cheaper) (S (VP (TO to) (VP (VB build) (NP (NP (NNS playgrounds) (CC or) (NN paint) (NNS apartments)) (CC or) (NP (NN plant) (NN dune-grass))) (PP (IN with) (NP (JJ paid) (NNS professionals)))))))))) (, ,) (NP (NP (DT the) (NNS effects)) (PP (IN on) (NP (NP (DT the) (JJ young) (NNS people)) (VP (VBG providing) (NP (DT those) (NNS services)))))) (VP (VB alter) (NP (DT the) (NN calculation))) (. .)))
+
+(S1 (S (S (VP (ADVP (RB Strictly)) (VBG speaking))) (, ,) (NP (DT these) (NN youth)) (VP (VBP are) (RB not) (VP (VBG performing) (NP (NN service)))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP are) (S (VP (VBG giving) (PRT (RP up)) (NP (DT no) (NN income)))) (, ,) (S (VP (VBG deferring) (NP (DT no) (NNS careers)))) (, ,) (S (VP (VBG incurring) (NP (DT no) (NN risk))))) (. .)))
+
+(S1 (S (CC But) (S (NP (PRP they)) (VP (VBP believe) (S (NP (PRP themselves)) (VP (TO to) (VP (VB be) (VP (VBG serving))))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBP begin) (S (VP (VP (TO to) (VP (VB respect) (NP (NP (PRP themselves)) (-LRB- -LRB-) (CC and) (NP (NNS others)) (-RRB- -RRB-)))) (, ,) (VP (TO to) (VP (VB take) (NP (NP (NN control)) (PP (IN of) (NP (PRP$ their) (NNS lives)))))) (, ,) (VP (TO to) (VP (VB think) (PP (IN of) (NP (DT the) (NN future))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (DT a) (NN service)) (PP (TO to) (NP (DT the) (NN nation))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (SBAR (WHNP (WP what)) (S (NP (JJ federal) (NN support)) (VP (MD should) (VP (VB try) (NP (NP (JJS hardest)) (SBAR (S (VP (TO to) (VP (VB achieve))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Szanton)) (, ,) (NP (DT a) (NNP Carter) (NN administration) (NN budget) (NN official)) (, ,)) (VP (VBZ heads) (NP (PRP$ his) (JJ own) (JJ Washington-based) (JJ strategic) (NN planning) (NN firm))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ is) (NP (NP (DT a) (NN co-author)) (PP (IN of) (`` `) (NP (`` `) (NNP National) (NNP Service))))) (: :) (SBARQ (WHNP (WP What)) (SQ (MD Would) (NP (PRP It)) (VP (VB Mean))) (. ?) ('' ') ('' '))))
+
+(S1 (NP (-LRB- -LRB-) (NP (NP (NNP Lexington) (NNP Books)) (, ,) (NP (CD 1986))) (-RRB- -RRB-) (. .)))
+

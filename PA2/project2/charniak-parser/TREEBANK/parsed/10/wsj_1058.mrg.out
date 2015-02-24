@@ -1,0 +1,126 @@
+(S1 (S (VP (VB Place) (NP (DT a) (NN phone) (NN order)) (PP (IN through) (NP (JJS most))) (SBAR (S (NP (DT any) (NN catalog) (CC and) (NNS chances)) (VP (VBP are) (NP (NP (DT the) (NN clerk)) (SBAR (WHNP (WP who)) (S (NP (NNS answers)) (VP (MD wo) (RB n't) (VP (VB be) (NP (DT the) (JJ only) (CD one)) (PP (IN on) (NP (DT the) (NN line)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Bosses)) (VP (VBP have) (NP (JJ big) (NNS ears)) (NP (DT these) (NNS days))) (. .)))
+
+(S1 (S (CC Or) (VP (VP (VB open) (PRT (RP up)) (NP (DT an) (NN electronics) (NN magazine))) (CC and) (VP (VBP peruse) (NP (NP (DT the) (NNS ads)) (PP (IN for) (NP (JJ sneaky) (NX (NX (NN tape) (NNS recorders)) (CC and) (NX (JJ other) (VBG snooping) (NNS gadgets)))))))) (. .)))
+
+(S1 (S (NP (DT Some)) (VP (MD would) (VP (VB make) (S (NP (RB even) (NNP James) (NNP Bond)) (ADJP (JJ green) (PP (IN with) (NP (NN envy))))))) (. .)))
+
+(S1 (S (NP (NP (NN Eavesdropping)) (PRN (: --) (ADJP (DT both) (JJ corporate) (CC and) (JJ private)) (: --))) (VP (VBZ is) (PP (IN on) (NP (DT the) (NN rise))) (, ,) (NP (NP (NNS thanks)) (PP (TO to) (NP (NP (DT the) (NN proliferation)) (PP (IN of) (NP (NN surveillance) (NNS technologies))))))) (. .)))
+
+(S1 (S (CC And) (SBAR (IN while) (S (NP (NP (NP (NNS sellers)) (PP (IN of) (NP (DT the) (NN equipment)))) (CC and) (NP (NNS companies) (`` `) (ADJP (`` `) (VBG monitoring) ('' ')) ('' ') (NNS employees))) (VP (VBP have) (NP (JJ few) (NNS qualms))))) (, ,) (NP (NP (NN right-to-privacy) (NNS advocates)) (CC and) (NP (DT some) (NNS lawmakers))) (VP (VBP are) (ADJP (VBN alarmed))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (JJ New) (NNS technologies)) (VP (VBP are) (VP (VBG changing) (NP (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP we)) (VP (VBP deal) (PP (IN with) (NP (DT each) (JJ other))))))) (CC and) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP we)) (VP (VBP work)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Janlori) (NNP Goldman)) (, ,) (NP (NP (DT a) (NN staff) (NN attorney)) (PP (IN at) (NP (DT the) (NNP American) (NNP Civil) (NNPS Liberties) (NNP Union))))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (NP (PRP$ Our) (NN expectation)) (PP (IN of) (NP (NN confidentiality)))) (VP (VBZ is) (VP (VBG being) (VP (VBN eroded))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN On) (NP (DT the) (JJ corporate) (NN side))) (, ,) (NP (NNS companies)) (VP (VBP claim) (SBAR (IN that) (S (S (VP (VBG monitoring) (NP (NN employee) (NN phone) (NNS conversations)))) (VP (VBZ is) (ADJP (DT both) (JJ legal) (CC and) (JJ necessary) (S (VP (TO to) (VP (VP (VB gauge) (NP (NN productivity))) (CC and) (VP (VB ensure) (NP (JJ good) (NN service))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN practice)) (VP (VBZ is) (ADJP (JJ common)) (PP (IN at) (NP (NP (NN catalog) (, ,) (NN insurance) (CC and) (NN phone) (NNS companies)) (, ,) (NP (NNS banks)) (CC and) (NP (NNS telemarketers)))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NN trade) (NNS groups)) (CC and) (NP (NN worker) (NNS organizations)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB also)) (ADJP (JJ widespread)) (PP (IN for) (NP (NP (NNS reservations) (NNS clerks)) (PP (IN in) (NP (DT the) (UCP (NN airline) (, ,) (JJ car-rental) (, ,) (NN hotel) (CC and) (NN railroad)) (NNS industries)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Communications) (NNP Workers)) (PP (IN of) (NP (NNP America))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ opposes) (NP (JJ such) (NN monitoring))))) (, ,)) (VP (VBZ says) (S (NP (NNS supervisors)) (VP (VB listen) (PP (IN in) (PP (IN on) (NP (NP (DT an) (VBN estimated) (QP (CD 400) (CD million)) (NNS calls)) (NP (DT each) (NN year)))))))) (. .)))
+
+(S1 (SINV (PP (IN Among) (NP (NP (NNS companies)) (VP (VBG saying) (S (NP (PRP they)) (VP (VBP monitor) (NP (NNS employees))))))) (VP (VBP are)) (NP (NP (NNP United) (NNP Airlines)) (, ,) (NP (NP (NNP American) (NNP Airlines)) (, ,) (NP (NNP United) (NNP Parcel) (NNP Service)) (, ,) (NP (NNP Nynex) (NNP Corp.)) (, ,) (NP (NNP Spiegel) (NNP Inc.)) (, ,)) (CC and) (NP (NP (DT the) (NN circulation) (NN department)) (PP (IN of) (NP (DT this) (NN newspaper))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNP Wall) (NNP Street) (NNS firms)) (VP (VBP monitor) (PP (IN for) (NP (NN recordkeeping) (NNS purposes)))) (. .)))
+
+(S1 (S (NP (NNP Dictaphone) (NNP Corp.)) (VP (VBZ says) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NP (DT a) (JJ big) (NN business) (NN demand)) (PP (IN for) (NP (NP (PRP$ its) (JJ voice-activated) (NN taping) (NNS systems)) (PRN (, ,) (PP (IN whether) (NP (NP (DT the) (JJ sophisticated) (NNP Veritrac) (CD 9000) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ costs) (PP (IN from) (NP (QP ($ $) (CD 10,000) (TO to) ($ $) (CD 120,000))))) (CC and) (VP (MD can) (VP (VB record) (NP (CD 240) (NNS conversations)) (ADVP (RB simultaneously))))))))) (, ,))))) (CC or) (NP (NP (JJ simple) (JJ handheld) (NNS units)) (VP (VBG selling) (PP (IN for) (NP ($ $) (CD 395)))))))))) (. .)))
+
+(S1 (SINV (S (NP (NNS Businesses)) (`` `) (VP (VP (`` `) (VB want) (S (VP (TO to) (VP (VB verify) (NP (NN information)))))) (CC and) (VP (VB ensure) (NP (NN accuracy))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP John) (NNP Hiltunen)) (, ,) (NP (NP (NP (NNP Dictaphone) (POS 's)) (NN manager)) (PP (IN of) (NP (NNS media) (NNS relations))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN state)) (PP (IN of) (NP (NNP Alaska)))) (ADVP (RB recently)) (VP (VBD bought) (NP (DT the) (NNP Veritrac) (NN system)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ says))) (, ,) (`` `)) (`` `) (S (VP (TO to) (VP (VB monitor) (NP (DT the) (NNP Exxon) (NN cleanup) (NN effort)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Merrill) (NNP Lynch) (CC &) (NNP Co.)) (CC and) (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc.))) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP use) (NP (JJ voice-activated) (NNS systems)) (S (VP (TO to) (VP (VB record) (CC and) (VB verify) (NP (NP (NNS orders)) (PP (IN between) (NP (NNS salesmen) (CC and) (NNS traders))))))))))) (. .)))
+
+(S1 (S (NP (NNP Shearson)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ has) (VP (VBN taped) (NP (NP (DT some)) (PP (IN of) (NP (NP (PRP$ its) (JJ institutional) (NN trading) (NNS desks)) (, ,) (PP (JJ such) (IN as) (NP (NNS commodities) (CC and) (NNS futures))) (, ,)))) (PP (IN for) (NP (QP (RB about) (CD four)) (NNS years)))))))) (. .)))
+
+(S1 (S (NP (DT Both) (NNS companies)) (VP (VBP stress) (SBAR (SBAR (IN that) (S (NP (NNS employees)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (VBG being) (VP (VBN recorded))))))))) (CC and) (SBAR (IN that) (S (NP (NN customer) (NNS conversations)) (VP (VBP are) (RB n't) (ADJP (VBN taped))))))) (. .)))
+
+(S1 (S (NP (NNP Kidder) (NNP Peabody) (CC &) (NNP Co.)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ monitors) (NP (NP (JJ bond-trading) (NNS conversations)) (PP (IN between) (NP (NNS brokers) (CC and) (NNS customers))) (SBAR (S (VP (TO to) (VP (VB safeguard) (NP (NN order) (NN accuracy))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Eavesdropping)) (PP (IN by) (NP (NNS individuals)))) (VP (VBZ is) (ADJP (JJR harder)) (S (VP (TO to) (VP (VB measure))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS devices)) (VP (VBP are) (ADVP (RB there)) (PP (IN for) (NP (NP (DT the) (NN asking)) (, ,) (UCP (IN whether) (PP (IN in) (NP (NNS stores))) (CC or) (PP (IN through) (NP (DT the) (NN mail))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ Counter) (NN Spy) (NN Shop)) (PP (IN in) (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C.))))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBZ offers) (NP (NP (DT the) (`` `) (ADJP (`` `) (JJ Secret) (NN Connection) ('' ')) ('' ') (NN attache) (NN case)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD can) (ADVP (RB surreptitiously)) (VP (VB record) (NP (NP (NNS conversations)) (PP (IN for) (NP (CD nine) (NNS hours)))) (PP (IN at) (NP (DT a) (NN stretch))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT That)) (CC and) (NP (JJ other) (JJ fancy) (NNS gizmos))) (VP (MD may) (VP (VB cost) (NP (NNS thousands))))) (, ,) (CC but) (S (NP (JJ simple) (JJ voice-activated) (NN tape) (NNS recorders)) (VP (VBP sell) (PP (IN for) (NP (QP (RB as) (JJ little) (IN as) ($ $) (CD 70)))) (PP (IN at) (NP (NP (NN electronics) (NNS stores)) (PP (IN like) (NP (NNP Radio) (NNP Shack))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (DT The) (ADJP (RBS most) (JJ common)) (NN use)) (PP (IN of) (NP (JJ spying) (NNS devices)))) (VP (VBZ is) (PP (IN in) (NP (NN divorce) (NNS cases))))) (, ,) (VP (VBP say)) (NP (JJ private) (NNS investigators)) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NP (NN tape) (NNS recordings)) (VP (TO to) (VP (VB uncover) (PRN (, ,) (INTJ (VB say)) (, ,)) (NP (NN infidelity))))) (VP (VBP are) (RB n't) (ADJP (JJ admissible)) (PP (IN in) (NP (NN court)))))) (, ,) (NP (PRP they)) (VP (MD can) (VP (VB mean) (NP (NP (NN leverage)) (PP (IN in) (NP (DT a) (NN settlement)))))) (. .)))
+
+(S1 (S (S (ADJP (JJ Concerned) (PP (IN with) (NP (NP (NP (DT the) (VBN increased) (NN availability)) (PP (IN of) (NP (NN surveillance) (NN technology)))) (CC and) (NP (NP (ADJP (JJR heavier)) (NN use)) (PP (IN of) (NP (PRP it)))))))) (, ,) (NP (NNS lawmakers)) (VP (VBP have) (VP (VBN proposed) (NP (NP (NNS laws)) (VP (VBG addressing) (NP (DT the) (NN issue)))))) (. .)))
+
+(S1 (S (NP (CD Nine) (NNS states)) (VP (VBP have) (VP (VBN introduced) (NP (NP (NNS bills)) (VP (VBG requiring) (SBAR (IN that) (S (NP (NNS workers) (CC and) (NNS customers)) (VP (VB be) (VP (VBN made) (S (ADJP (JJ aware) (PP (IN of) (S (VP (VBG monitoring)))))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (CD four) (NNS states)) (: --) (NP (NNP California) (, ,) (NNP Florida) (, ,) (NNP Michigan) (CC and) (NNP Pennsylvania)) (: --)) (VP (VBP have) (VP (VBN adopted) (NP (NNS rules) (SBAR (IN that) (S (NP (NP (DT all) (NNS parties)) (VP (VBN involved))) (VP (MD must) (VP (NN consent) (SBAR (WHADVP (WRB when)) (S (NP (NN phone) (NNS calls)) (VP (VBP are) (VP (VBN recorded)))))))))))) (. .)))
+
+(S1 (S (NP (NP (CD Two) (NNS bills)) (PP (IN in) (NP (NNP Congress)))) (VP (VBP hope) (S (VP (TO to) (VP (VB make) (NP (JJ such) (NNS restrictions)) (ADJP (JJ national)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP May))) (, ,) (NP (NP (NNP Rep.) (NNP Don) (NNP Edwards)) (PRN (-LRB- -LRB-) (NNP D.) (NNP Calif) (. .) (-RRB- -RRB-))) (VP (VBD introduced) (NP (NP (JJ congressional) (NN legislation)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB require) (NP (DT an) (JJ audible) (NN beeping))))))) (PP (IN during) (NP (DT any) (NN employee) (NN monitoring))) (, ,) (S (VP (VBG warning) (NP (NNS people)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (VP (VBG being) (VP (VBN heard))))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (DT The) (NN legislation)) (VP (VBZ is) (ADJP (JJ similar) (PP (TO to) (NP (NP (DT a) (CD 1987) (`` `) (NX (`` `) (NX (NN beeper) (NN bill)) ('' ')) ('' ')) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN defeated) (PP (IN after) (NP (NP (JJ heavy) (NN lobbying)) (PP (IN by) (NP (DT the) (NN telemarketing) (NN industry))))))))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (ADVP (RB Also)) (NP (JJ last) (NN spring)) (, ,) (NP (NP (NNP Rep.) (NNP Ron) (NNP Dellums)) (PRN (-LRB- -LRB-) (NP (NP (NNP D.)) (, ,) (NP (NNP Calif.))) (-RRB- -RRB-)) (, ,)) (VP (VBD introduced) (NP (NP (DT a) (NN bill)) (VP (VBG requiring) (NP (JJ universal) (JJ two-party) (NN consent)))) (PP (TO to) (NP (NP (DT any) (NNS tapings)) (PP (IN in) (NP (NP (NNS cases)) (SBAR (WHNP (WDT that)) (S (VP (VBP do) (RB n't) (VP (VB involve) (NP (NN law) (NN enforcement))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (NNS products)) (PP (JJ such) (IN as) (NP (JJ voice-activated) (NN tape) (NNS recorders)))) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB include) (NP (NP (JJ beep) (NNS tones) (CC and) (NNS labels)) (VP (VBG explaining) (NP (NP (JJ federal) (NNS laws)) (PP (IN on) (NP (NN eavesdropping))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN outlook)) (PP (IN on) (NP (DT both) (JJ federal) (NNS bills)))) (VP (VBZ is) (ADJP (JJ uncertain)) (, ,) (PP (RB especially) (VBG remembering) (NP (DT the) (CD 1987) (NN defeat)))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP ACLU) (CC and) (NN worker) (NNS organizations)) (VP (VBP back) (NP (JJR tighter) (NNS laws)))) (, ,) (CC but) (S (NP (NNS employers) (CC and) (NN device) (NNS manufacturers)) (VP (VBP object))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sympathetic) (PP (IN with) (NP (NP (NNS workers)) (SBAR (WHNP (WP who)) (S (VP (VBP feel) (PP (IN under) (NP (DT the) (NN gun)))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Richard) (NNP Barton)) (PP (IN of) (NP (NP (DT the) (NNP Direct) (NNP Marketing) (NNP Association)) (PP (IN of) (NP (NNP America))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG lobbying) (ADVP (RB strenuously)) (PP (IN against) (NP (DT the) (NNP Edwards) (NN beeper) (NN bill)))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (CC But) (NP (NP (DT the) (JJ only) (NN way)) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB find) (PRT (RP out)) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ your) (NNS people)) (VP (VBP are) (VP (VBG doing)))))))))) (VP (VBZ is) (PP (IN by) (S (VP (VBG listening))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT The) (JJ powerful) (NN group)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ represents) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (NNS telemarketers))))))) (, ,)) (VP (VBD was) (ADJP (JJ instrumental) (PP (IN in) (S (VP (VBG derailing) (NP (DT the) (CD 1987) (NN bill))))))) (. .)))
+
+(S1 (S (NP (NNP Spiegel)) (ADVP (RB also)) (VP (VBZ opposes) (NP (DT the) (NN beeper) (NN bill)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (NP (DT the) (NN noise)) (SBAR (S (NP (PRP it)) (VP (VBZ requires))))) (VP (MD would) (VP (VB interfere) (PP (IN with) (NP (NN customer) (NNS orders))) (, ,) (S (VP (VBG causing) (NP (NP (NN irritation)) (CC and) (NP (RB even) (NNS errors)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Laura) (NNP Dale)) (, ,) (NP (NP (NN center) (NN manager)) (PP (IN at) (NP (NP (NP (DT the) (NN catalog) (NN company) (POS 's)) (NN customer) (NN order) (NN center)) (PP (IN in) (NP (NP (NNP Reno)) (, ,) (NP (NNP Nev.))))))) (, ,)) (VP (VBZ defends) (VP (VBG monitoring))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP like) (S (VP (TO to) (VP (VP (VB follow) (PRT (RP up))) (CC and) (VP (VB make) (ADJP (JJ sure) (SBAR (S (NP (NNS operators)) (VP (VBP are) (VP (VBG achieving) (NP (NP (PRP$ our) (NNS standards)) (PP (IN of) (NP (NN company) (NN service)))))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Ms.) (NNP Dale)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ supervises) (NP (CD 350) (NNS operators)))))) (. .)))
+
+(S1 (S (NP (NP (NNP John) (NNP Bonomo)) (, ,) (NP (DT a) (NNP Nynex) (NN spokesman)) (, ,)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN telephone) (NN company)) (VP (VBZ needs) (S (VP (TO to) (VP (VB monitor) (NP (NP (NNS operators)) (SBAR (S (VP (TO to) (VP (VB evaluate) (NP (NP (NN performance)) (PP (IN during) (NP (DT the) (JJ first) (CD six) (NNS months)))) (PP (IN on) (NP (DT the) (NN job))))))))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (ADVP (RB Sometimes)) (PRN (, ,) ('' ') ('' ') (S (NP (PRP he)) (VP (VBZ says))) (, ,) (`` `)) (`` `) (NP (PRP we)) (VP (MD 'll) (VP (VB pull) (NP (NN someone)) (PRT (RP off)) (NP (NP (DT the) (NNS phones)) (PP (IN for) (NP (JJR more) (NN training)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (JJ Federal) (NN wiretap) (NNS statutes)) (VP (VBP recognize) (NP (NP (DT the) (NN right)) (PP (IN of) (NP (NNS employers))) (S (VP (TO to) (VP (VB monitor) (NP (NNS employees)) ('' ') (PP (IN for) (NP (NN evaluation) (NNS purposes)))))))) (. .)))
+
+(S1 (S (CC And) (PP (IN in) (NP (DT the) (NN past))) (, ,) (NP (NNP Congress)) (VP (VBZ has) (VP (VBN viewed) (PP (VBG monitoring) (PP (IN as) (NP (NP (DT an) (NN issue)) (VP (ADVP (RB best)) (VBN handled) (PP (IN in) (NP (NN union) (NNS negotiations))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNS opponents)) (, ,) (VP (VBN led) (PP (IN by) (NP (DT the) (NNP CWA)))) (, ,)) (VP (VBP say) (SBAR (S (NP (JJ new) (NNS laws)) (VP (VBP are) (VP (VBN needed) (SBAR (IN because) (S (S (NP (NN monitoring)) (VP (VBZ is) (ADJP (RB heavily) (JJ concentrated) (PP (IN in) (NP (NN service) (NNS industries)))))) (CC and) (S (NP (NP (CD 81) (NN %)) (PP (IN of) (NP (VBN monitored) (NNS workers)))) (VP (VBP are) (RB n't) (VP (VBN represented) (PP (IN by) (NP (NNS unions))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP CWA)) (VP (VBZ claims) (SBAR (IN that) (S (NP (NN monitoring)) (VP (CONJP (RB not) (RB only)) (VP (VBZ infringes) (PP (IN on) (NP (NN employee) (NN privacy)))) (, ,) (CC but) (VP (VBZ increases) (NP (NN stress))))))) (. .)))
+
+(S1 (S (NP (`` `) (NP (`` `) (NP (QP (CD Nine) (TO to) (CD Five))) (, ,) ('' ')) ('' ') (NP (NP (DT a) (JJ Cleveland-based) (NN office) (NNS workers) (NN organization)) (SBAR (WHNP (WDT that)) (S (VP (VBZ supports) (NP (DT the) (NN beeper) (NN bill))))))) (, ,) (ADVP (NP (CD six) (NNS months)) (RB ago)) (VP (VBD started) (NP (NP (DT a) (NN privacy) (JJ hot) (NN line)) (SBAR (S (VP (TO to) (VP (VB receive) (NP (NP (NNS reports)) (PP (IN of) (NP (JJ alleged) (NN monitoring) (NNS abuses)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (NNS supporters)) (PP (IN of) (NP (DT the) (NNP Dellums) (NN two-party) (NN consent) (NN bill)))) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBN needed) (PP (IN because) (IN of) (NP (NP (DT a) (JJ giant) (NN loophole)) (PP (IN in) (NP (DT the) (JJ one-party) (NN consent) (NN law)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Currently)) (, ,) (SBAR (IN if) (S (NP (DT the) (NN person) (NN taping)) (VP (VBZ is) (NP (NP (DT a) (NN party)) (PP (TO to) (NP (DT the) (NN conversation))))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (RB all) (JJ right)) (S (VP (TO to) (VP (VB record) (PP (IN without) (NP (NP (DT the) (NN knowledge)) (PP (IN of) (NP (DT the) (JJ other) (NN person))))) (PP (IN on) (NP (DT the) (NN line))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (NP (VBG Intercepting) (JJ other) (NNS people) (POS 's)) (JJ private) (NNS conversations)) (VP (VBZ is) (ADJP (ADJP (JJ illegal)) (CC and) (ADJP (JJ punishable) (PP (IN by) (NP (NP (NP (CD five) (NNS years)) (PP (IN in) (NP (NN prison)))) (CC and) (NP (NP (NNS fines)) (PP (IN of) (NP ($ $) (CD 10,000))))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (NP (DT The) (NN electronics) (NN industry)) (VP (VBZ is) (VP (ADVP (RB closely)) (VBG following) (NP (DT the) (NNP Dellums) (NN bill)))) (. .)))
+
+(S1 (S (NP (NP (DT Some) (NNS marketers)) (PP (IN of) (NP (NN surveillance) (NN gear))) (PRN (: --) (PP (VBG including) (NP (NP (NNP Communication) (NNP Control) (NNP System) (NNP Ltd.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ owns) (NP (DT the) (JJ Counter) (NN Spy) (NN Shop))) (CC and) (VP (NP (NNS others)) (PP (IN like) (NP (PRP it))))))))) (: --))) (ADVP (RB already)) (VP (VBP put) (NP (NN warning) (NNS labels)) (PP (IN in) (S (NP (PRP$ their) (NNS catalogs)) (VP (VBG informing) (NP (NP (NNS customers)) (PP (IN of) (NP (DT the) (JJ one-party) (NN law)))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS vendors)) (VP (VBP contend) (SBAR (IN that) (S (NP (PRP they)) (VP (MD ca) (RB n't) (VP (VB control) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ their) (NNS products)) (VP (VBP are) (VP (VBN used)))))))))) (. .)))
+
+(S1 (S (NP (NNP Radio) (NNP Shack)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ has) (NP (NP (DT a) (NN policy)) (PP (IN against) (S (VP (VBG selling) (NP (NNS products)) (SBAR (IN if) (S (NP (DT a) (NN salesperson)) (VP (VBZ suspects) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB be) (VP (VBN used) (ADVP (RB illegally)))))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (NN Everything)) (VP (VBN sold) (PP (IN at) (NP (NNP Radio) (NNP Shack))))) (VP (VBZ has) (NP (DT a) (JJ legal) (NN purpose))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Bernard) (NNP Appel)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (DT the) (NNP Tandy) (NNP Corp.) (NN subsidiary))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ says) (SBAR (SBAR (S (NP (PRP he)) (VP (VBZ has) (RB n't) (ADVP (RB yet)) (VP (VBN studied) (NP (DT the) (NNP Dellums) (NN bill)))))) (, ,) (CC but) (SBAR (IN that) (S (VP (VBG requiring) (NP (NP (DT a) (JJ beeping) (NN tone)) (PP (IN on) (NP (NNS recorders)))) (`` `) (S (`` `) (VP (MD would) (VP (VB be) (ADJP (JJ ludicrous)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (NNP Radio) (NNP Shack)) (VP (VBZ is) (ADJP (JJ aware) (SBAR (IN that) (S (NP (NP (DT some)) (PP (IN of) (NP (PRP$ its) (NNS products)))) (VP (VBP are) (ADJP (JJ controversial))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (JJ few) (NNS years)) (RB ago)) (, ,) (NP (DT the) (NN company)) (ADVP (RB voluntarily)) (VP (VBD stopped) (S (VP (VBG selling) (NP (`` `) (NP (`` `) (NP (DT The) (JJ Big) (NN Ear)) (, ,) ('' ')) ('' ') (NP (DT a) (JJ powerful) (NN microphone)))))) (. .)))
+
+(S1 (SINV (PP (IN With) (NP (PRP$ its) (NN ability) (S (VP (TO to) (VP (VB pick) (PRT (RP up)) (NP (NP (NNS rustlings)) (CC and) (NP (VBG flapping) (NNS wings)))))))) (, ,) (`` `) (S (`` `) (NP (PRP it)) (VP (VBD was) (VP (VBN meant) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN toy)) (PP (IN for) (NP (NNS children)))) (PP (IN for) (NP (NN bird) (NN watching)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NNP Mr.) (NNP Appel)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (CC But) (NP (PRP we)) (VP (VBD were) (VP (VBG getting) (NP (ADJP (RB too) (JJ many)) (NNS complaints)) (SBAR (IN that) (S (NP (NNS people)) (VP (VBD were) (VP (VBG using) (NP (PRP them)) (S (VP (TO to) (VP (VB eavesdrop) (PP (IN on) (NP (PRP$ their) (NNS neighbors)))))))))))) (. .) ('' ')) ('' ')))
+

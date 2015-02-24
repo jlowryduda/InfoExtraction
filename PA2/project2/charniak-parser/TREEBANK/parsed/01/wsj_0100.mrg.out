@@ -1,0 +1,84 @@
+(S1 (S (PP (IN For) (NP (CD six) (NNS years))) (, ,) (NP (NNP T.) (NNP Marshall) (NNP Hahn) (NNP Jr.)) (VP (VBZ has) (VP (VBN made) (NP (NP (JJ corporate) (NNS acquisitions)) (PP (IN in) (NP (NP (DT the) (NNP George) (NNP Bush) (NN mode)) (: :) (NP (NN kind) (CC and) (JJ gentle))))))) (. .)))
+
+(S1 (S (NP (DT The)) (VP (VBP question) (ADVP (RB now)) (: :) (SBAR (MD Can) (S (NP (PRP he)) (VP (VB act) (NP (JJR more)) (PP (IN like) (PP (NN hard-charging) (NP (NNP Teddy) (NNP Roosevelt)))))))) (. ?)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Hahn)) (, ,) (NP (NP (DT the) (JJ 62-year-old) (NX (NX (NN chairman)) (CC and) (NX (JJ chief) (JJ executive) (NN officer)))) (PP (IN of) (NP (NNP Georgia-Pacific) (NNP Corp.))))) (VP (VBZ is) (VP (VBG leading) (NP (NP (NP (DT the) (JJ forest-product) (NN concern) (POS 's)) (JJ unsolicited) (ADJP (QP ($ $) (CD 3.19) (CD billion))) (NN bid)) (PP (IN for) (NP (NNP Great) (NNP Northern) (NNP Nekoosa)) (NP (NNP Corp)))))) (. .)))
+
+(S1 (S (NP (NNP Nekoosa)) (VP (VBZ has) (VP (VBN given) (NP (DT the) (NN offer)) (NP (NP (DT a) (JJ public) (JJ cold) (NN shoulder)) (, ,) (NP (NP (DT a) (NN reaction)) (SBAR (S (NP (NNP Mr.) (NNP Hahn)) (VP (VBZ has) (RB n't) (VP (VBN faced) (PP (IN in) (NP (PRP$ his) (CD 18) (JJR earlier) (NNS acquisitions)))))))) (, ,) (SBAR (WHNP (NP (DT all)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBD were) (VP (VBN negotiated) (PP (IN behind) (NP (DT the) (NNS scenes)))))))))) (. .)))
+
+(S1 (S (ADVP (RB So) (RB far)) (, ,) (NP (NNP Mr.) (NNP Hahn)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB entice) (NP (NNP Nekoosa)) (PP (IN into) (S (VP (VBG negotiating) (NP (DT a) (JJ friendly) (NN surrender) (NN while))))) (VP (VBG talking) (ADJP (JJ tough)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP are) (VP (VBN prepared) (S (VP (TO to) (VP (VB pursue) (ADVP (RB aggressively)) (NP (NP (NN completion)) (PP (IN of) (NP (DT this) (NN transaction))))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (CC But) (S (NP (DT a) (NN takeover) (NN battle)) (VP (VBZ opens) (PRT (RP up)) (NP (NP (DT the) (NN possibility)) (PP (IN of) (NP (DT a) (NN bidding) (NN war)))))) (, ,) (SBAR (IN with) (S (NP (PDT all) (DT that)) (VP (VBZ implies)))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT a) (NN competitor)) (VP (VBZ enters) (NP (DT the) (NN game))))) (PRN (, ,) (PP (IN for) (NP (NN example))) (, ,)) (NP (NNP Mr.) (NNP Hahn)) (VP (VP (VP (MD could) (VP (VB face) (NP (NP (DT the) (NN dilemma)) (PP (IN of) (S (VP (VBG paying) (NP (NP (DT a) (NN premium)) (PP (IN for) (NP (NNP Nekoosa)))))))))) (CC or) (VP (VBG seeing) (NP (DT the) (NN company)))) (VP (VB fall) (PP (IN into) (NP (NP (DT the) (NNS arms)) (PP (IN of) (NP (DT a) (NN rival))))))) (. .)))
+
+(S1 (S (PP (VBN Given) (NP (DT that) (NN choice))) (, ,) (NP (NP (NNS associates)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Hahn)) (CC and) (NP (NN industry) (NNS observers))))) (VP (VBP say) (SBAR (S (NP (NP (DT the) (JJ former) (NN university) (NN president)) (: --) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN developed) (NP (NP (DT a) (NN reputation)) (PP (IN for) (S (RB not) (VP (VBG overpaying) (PP (IN for) (NP (NN anything))))))))))) (: --)) (VP (MD would) (VP (VB fold)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN price)) (PP (IN above) (SBAR (WHNP (WDT which)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ positive)))))) (SBAR (S (NP (NNP Marshall)) (VP (VBZ has) (S (NP (DT the) (NN courage)) (RB not) (VP (TO to) (VP (VB pay))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP A.D.) (NNP Correll)) (, ,) (NP (NP (NP (NNP Georgia-Pacific) (POS 's)) (JJ executive) (NN vice) (NN president)) (PP (IN for) (NP (NN pulp) (CC and) (NN paper))))) (. .)))
+
+(S1 (VP (VBZ Says) (NP (NP (JJ long-time) (NN associate) (NNP Jerry) (NNP Griffin)) (, ,) (NP (NP (NN vice) (NN president)) (, ,) (NP (JJ corporate) (NN development)) (, ,) (PP (IN at) (NP (NNP WTD) (NNPS Industries) (NNP Inc.))))) (: :) (`` `) (S (`` `) (NP (PRP He)) (VP (VBZ is) (RB n't) (PP (IN of) (NP (NP (DT the) (JJ old) (NN school)) (PP (IN of) (S (VP (VBG winning) (PP (IN at) (NP (DT any) (NN cost))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ is) (NP (DT a) (NN consensus) (NN manager)))) (, ,) (NP (NNS insiders)) (VP (VBP say)) (. .)))
+
+(S1 (S (NP (DT The) (NN decision) (S (VP (TO to) (VP (VB make) (NP (NP (DT the) (NN bid)) (PP (IN for) (NP (NNP Nekoosa)))))))) (PRN (, ,) (PP (IN for) (NP (NN example))) (, ,)) (VP (VBD was) (VP (VBN made) (SBAR (RB only) (IN after) (S (NP (NP (DT all) (CD six) (NNS members)) (PP (IN of) (NP (NP (NNP Georgia-Pacific) (POS 's)) (NN management) (NN committee)))) (VP (VBD signed) (PP (IN onto) (NP (DT the) (NN deal)))) (: --) (SBAR (RB even) (IN though) (S (NP (NNP Mr.) (NNP Hahn)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD wanted) (S (VP (VP (TO to) (VP (VB go) (PP (IN after) (NP (DT the) (NN company))) (ADVP (RB early) (RB on)))) (, ,) (VP (VBZ says) (NP (NNP Mr.) (NNP Correll))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Associates)) (VP (VBP say) (SBAR (S (NP (NNP Mr.) (NNP Hahn)) (VP (VBD picked) (PRT (RP up)) (NP (DT that) (JJ careful) (NN approach)) (PP (TO to) (NP (NN management))) (PP (IN as) (NP (NP (NN president)) (PP (IN of) (NP (NNP Virginia) (NNP Polytechnic) (NNP Institute))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Assuming) (NP (DT that) (NN post)) (PP (IN at) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (CD 35))))))) (, ,) (NP (PRP he)) (VP (VBD managed) (PP (IN by) (NP (NN consensus))) (, ,) (SBAR (IN as) (S (VP (VP (VBZ is) (NP (DT the) (NN rule)) (PP (IN in) (NP (NNS universities)))) (, ,) (VP (VBZ says) (NP (NP (NNP Warren) (NNP H.) (NNP Strother)) (, ,) (NP (NP (DT a) (NN university) (NN official)) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBG researching) (NP (NP (DT a) (NN book)) (PP (IN on) (NP (NNP Mr.) (NNP Hahn))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (ADVP (RB also)) (VP (VBD showed) (NP (DT a) (NN willingness) (S (VP (TO to) (VP (VB take) (NP (DT a) (JJ strong) (NN stand))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1970))) (, ,) (NP (NNP Mr.) (NNP Hahn)) (VP (VBD called) (PRT (RP in)) (NP (NN state) (NN police)) (S (VP (TO to) (VP (VB arrest) (NP (NP (NN student) (NNS protesters)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (PP (JJ occupying) (NP (DT a) (NN university) (NN building))))))))))) (. .)))
+
+(S1 (S (NP (IN That)) (VP (VBN impressed) (NP (NP (NP (NP (NNP Robert) (NNP B.) (NNP Pamplin)) (, ,) (NP (NP (NNP Georgia-Pacific) (POS 's)) (JJ chief) (NN executive))) (PP (IN at) (NP (DT the) (NN time)))) (, ,) (SBAR (WHNP (WP whom)) (S (NP (NNP Mr.) (NNP Hahn)) (VP (VBD had) (VP (VBN met) (PP (IN while) (NP (NP (NN fundraising)) (PP (IN for) (NP (DT the) (NN institute))))))))))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (CD 1975))) (, ,) (NP (NNP Mr.) (NNP Pamplin)) (VP (VBD enticed) (NP (NNP Mr.) (NNP Hahn)) (PP (IN into) (S (VP (VBG joining) (NP (DT the) (NN company)) (PP (IN as) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (NNS chemicals)))))))))))) (: ;) (S (NP (DT the) (NN move)) (VP (VBD befuddled) (NP (NP (JJ many)) (PP (IN in) (NP (NNP Georgia-Pacific)))) (SBAR (WHNP (WP who)) (S (VP (VBD did) (RB n't) (VP (VB believe) (SBAR (S (NP (DT a) (NN university) (NN administrator)) (VP (MD could) (VP (VB make) (NP (NP (DT the) (NN transition)) (PP (TO to) (NP (DT the) (JJ corporate) (NN world)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Mr.) (NNP Hahn)) (VP (VBD rose) (ADVP (RB swiftly)) (PP (IN through) (NP (DT the) (NNS ranks))) (, ,) (VP (VBG demonstrating) (NP (DT a) (JJ raw) (NN intelligence) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD knew) (NP (PRP he)) (VP (VBN possessed) (ADVP (RB early) (RB on)))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN son)) (PP (IN of) (NP (DT a) (NN physicist))))) (, ,) (NP (NNP Mr.) (NNP Hahn)) (VP (VBD skipped) (NP (JJ first) (NN grade)) (SBAR (IN because) (S (NP (PRP$ his) (NN reading) (NN ability)) (VP (VBD was) (ADVP (RB so) (RB far)) (PP (IN above) (NP (PRP$ his) (NNS classmates))))))) (. .)))
+
+(S1 (S (S (VP (VBG Moving) (ADVP (RB rapidly)) (PP (IN through) (NP (NN school))))) (, ,) (NP (PRP he)) (VP (VBD graduated) (NP (NP (NNP Phi) (JJ Beta) (NN Kappa)) (PP (IN from) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Kentucky))) (PP (IN at) (NP (NN age) (CD 18))))))) (, ,) (PP (IN after) (S (VP (VBG spending) (NP (QP (RB only) (CD 2) (CD 1\/2)) (NNS years)) (PP (IN in) (NP (NN college)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD earned) (NP (PRP$ his) (NN doctorate)) (PP (IN in) (NP (JJ nuclear) (NNS physics))) (PP (IN from) (NP (NP (DT the) (NNP Massachusetts) (NNP Institute)) (PP (IN of) (NP (NNP Technology)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Hahn)) (VP (VBZ agrees) (SBAR (IN that) (S (S (NP (PRP he)) (VP (VBZ has) (NP (DT a) (`` `) (ADJP (`` `) (JJ retentive) ('' ')) ('' ') (NN memory)))) (, ,) (CC but) (S (NP (NNS friends)) (VP (VBP say) (SBAR (IN that) (S (VP (POS 's) (NP (DT an) (NN understatement)))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP call) (S (NP (PRP it)) (`` `) (ADJP (`` `) (JJ photographic) ('' ')) ('' '))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Hahn)) (ADVP (RB also)) (VP (VBZ has) (VP (VBN engineered) (NP (NP (DT a) (JJ surprising) (NN turnaround)) (PP (IN of) (NP (NNP Georgia-Pacific)))))) (. .)))
+
+(S1 (S (S (VP (VBG Taking) (PRT (RP over)) (PP (IN as) (NP (NN chief) (NN executive) (NN officer))) (PP (IN in) (NP (CD 1983))))) (, ,) (NP (PRP he)) (VP (VBD inherited) (NP (NP (DT a) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VP (VBN mired) (PP (IN in) (NP (NN debt)))) (CC and) (VP (VBN hurt) (PP (IN by) (NP (NP (DT a) (JJ recession-inspired) (NN slide)) (PP (IN in) (NP (NP (PRP$ its) (NNS building-products)) (NP (NN business))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Hahn)) (VP (VBD began) (S (VP (VBG selling) (NP (NP (JJ non-core) (NNS businesses)) (, ,) (PP (JJ such) (IN as) (NP (NP (NP (NN oil)) (CC and) (NP (NN gas))) (CC and) (NP (NNS chemicals)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB even)) (VP (VBD sold) (NP (NP (CD one) (NN unit)) (SBAR (WHNP (WDT that)) (S (VP (VBD made) (NP (NP (NN vinyl) (NN checkbook)) (VP (VBZ covers)))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (PRP he)) (VP (VBD began) (S (VP (VBG building) (PRT (RP up)) (NP (NP (DT the) (NN pulp) (CC and) (NN paper) (NN segment)) (PP (IN of) (NP (DT the) (NN company)))))) (PP (IN while) (S (NP (NP (NP (NN refocusing)) (VP (VBG building) (NP (NNS products)) (PP (IN on) (NP (NP (NN home) (NN repair)) (CC and) (NP (NN remodeling)))))) (, ,) (CONJP (RB rather) (IN than)) (NP (NP (NNS materials)) (PP (IN for) (NP (JJ new-home) (NN construction)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN idea)) (VP (VBD was) (S (VP (TO to) (VP (VB buffet) (NP (NP (NN building) (NNS products)) (PP (IN from) (NP (NP (NNS cycles)) (PP (IN in) (NP (JJ new-home) (NN construction)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN formula)) (VP (VBZ has) (VP (VBN paid) (ADVP (RB off)) (, ,) (ADVP (RB so) (RB far)))) (. .)))
+
+(S1 (S (NP (NP (NNP Georgia-Pacific) (POS 's)) (NNS sales)) (VP (VBD climbed) (PP (TO to) (NP (NP (QP ($ $) (CD 9.5) (CD billion))) (NP (JJ last) (NN year)))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (QP ($ $) (CD 6) (CD billion))) (PP (IN in) (NP (CD 1983))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Mr.) (NNP Hahn)) (VP (VBD took) (NP (DT the) (NNS reins))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Profit)) (PP (IN from) (NP (VBG continuing) (NNS operations)))) (VP (VBZ has) (VP (VBN soared) (PP (TO to) (NP (NP (QP ($ $) (CD 467) (CD million))) (PP (IN from) (NP (QP ($ $) (CD 75) (CD million)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Hahn)) (VP (VBZ attributes) (NP (DT the) (NNS gains)) (PP (TO to) (NP (NP (DT the) (NN philosophy)) (PP (IN of) (S (VP (VBG concentrating) (PP (IN on) (SBAR (WHNP (WP what)) (S (NP (DT a) (NN company)) (VP (VBZ knows) (ADJP (JJS best)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NP (DT The) (NN record)) (PP (IN of) (NP (NP (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN diversified)))))))) (VP (VBZ is) (RB n't) (ADJP (RB all) (IN that) (JJ impressive))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNP Nekoosa)) (VP (MD would) (RB n't) (VP (VB be) (NP (DT a) (NN diversification)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB be) (NP (NP (NP (DT a) (JJ good) (NN match)) (PRN (, ,) (S (NP (NNP Mr.) (NNP Hahn) (CC and) (JJ many) (NNS analysts)) (VP (VBP say))) (, ,))) (PP (IN of) (NP (NP (CD two) (JJ healthy) (NNS companies)) (PP (IN with) (NP (NP (JJ high-quality) (NNS assets)) (CC and) (NP (JJ strong) (NN cash) (NNS flows))))))))) (. .)))
+
+(S1 (S (NP (DT The) (VBG resulting) (NN company)) (VP (MD would) (VP (VB be) (NP (NP (DT the) (JJS largest) (NNS forest-products) (NN concern)) (PP (IN in) (NP (DT the) (NN world)))) (PP (IN with) (NP (NP (JJ combined) (NNS sales)) (PP (IN of) (NP (QP (JJR more) (IN than) ($ $) (CD 13) (CD billion)))))))) (. .)))
+
+(S1 (SINV (CC But) (MD can) (NP (NNP Mr.) (NNP Hahn)) (VP (VB carry) (NP (PRP it)) (PRT (RP off))) (. ?)))
+
+(S1 (S (PP (IN In) (NP (DT this) (NN instance))) (, ,) (NP (NN industry) (NNS observers)) (VP (VBP say) (, ,) (SBAR (S (NP (PRP he)) (VP (VBZ is) (VP (VBG entering) (NP (JJ uncharted) (NNS waters))))))) (. .)))
+
+(S1 (SINV (VP (VBZ Says)) (NP (NP (NNP Kathryn) (NNP McAuley)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN at) (NP (NNP First) (NNP Manhattan) (NNP Co.))))) (: :) (`` `) (S (`` `) (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJS greatest) (NN acquisition) (NN challenge)) (SBAR (S (NP (PRP he)) (VP (VBZ has) (VP (VBN faced)))))))) (. .)))
+

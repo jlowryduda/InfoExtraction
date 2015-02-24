@@ -1,0 +1,54 @@
+(S1 (S (NP (NP (DT A) (JJ bitter) (NN conflict)) (PP (IN with) (NP (JJ global) (NNS implications)))) (VP (VBZ has) (VP (VBD erupted) (PP (IN between) (NP (NP (NNP Nomura) (NNPS Securities) (NNP Co.)) (CC and) (NP (NP (NP (NNP Industrial) (NNP Bank)) (PP (IN of) (NP (NNP Japan)))) (, ,) (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (ADJP (RBS most) (JJ powerful)) (JJ financial) (NNS companies))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN clash)) (VP (VBZ is) (NP (NP (DT a) (NN sign)) (PP (IN of) (NP (NP (DT a) (JJ new) (NN toughness) (CC and) (NN divisiveness)) (PP (IN in) (NP (NP (NNP Japan) (POS 's)) (JJ once-cozy) (JJ financial) (NNS circles))))))) (. .)))
+
+(S1 (S (S (CONJP (RB Not) (RB only)) (VP (VBP are) (S (NP (NP (NNP Japan) (POS 's)) (JJ financial) (NNS institutions)) (VP (VBG putting) (NP (PRP$ their) (JJ enormous) (NN clout)) (PP (TO to) (NP (VB work))))))) (: ;) (S (ADVP (RB increasingly)) (NP (PRP they)) (VP (VBP 're) (VP (VBG squaring) (PRT (RP off)) (PP (IN against) (NP (CD one) (DT another))) (PP (IN in) (NP (JJ unprecedented) (JJ public) (NN fashion)))))) (. .)))
+
+(S1 (S (ADVP (RB Already)) (, ,) (NP (DT the) (NNS consequences)) (VP (VBP are) (VP (VBG being) (VP (VBD felt) (PP (IN by) (NP (NP (NP (JJ other) (NNS players)) (PP (IN in) (NP (DT the) (JJ financial) (NNS markets)))) (: --) (RB even) (NP (NNS governments))))))) (. .)))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBD triggered) (NP (DT the) (JJS latest) (NN clash))))) (VP (VBD was) (NP (NP (DT a) (NN skirmish)) (PP (IN over) (NP (NP (DT the) (NN timing)) (PP (IN of) (NP (DT a) (NNP New) (NNP Zealand) (NN government) (NN bond) (NN issue))))))) (. .)))
+
+(S1 (S (NP (NNP Nomura)) (VP (VBD was) (VP (VBG attempting) (S (VP (TO to) (VP (VB organize) (NP (NP (DT the) (ADJP (ADJP (CD 50) (NN billion-yen)) (PRN (-LRB- -LRB-) (ADJP (QP ($ $) (CD 352) (CD million))) (-RRB- -RRB-))) (NN borrowing)) (PP (IN in) (NP (NNP Japan)))) (PP (IN at) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (JJ many) (JJ Japanese) (NNS banks)) (, ,) (VP (VBN led) (PP (IN by) (NP (NP (NNP Industrial) (NNP Bank)) (PP (IN of) (NP (NNP Japan)))))) (, ,)) (VP (VBD were) (S (VP (VBG pressuring) (S (NP (DT the) (NNP Wellington) (NN government)) (VP (TO to) (VP (VB help) (S (NP (PRP them)) (VP (VB recover) (NP (NP (NNS loans)) (VP (VBN made) (PP (TO to) (NP (NP (DT a) (JJ defunct) (NN investment) (NN bank)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (VP (VBN been) (VP (VBN owned) (PP (IN by) (NP (NP (NNP New) (NNP Zealand) (POS 's)) (JJ civil-service) (NN pension) (NN fund))))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (ADJP (JJ Unwilling) (S (VP (TO to) (VP (VB put) (PRT (RP up)) (NP (JJ new) (NN money)) (PP (IN for) (NP (NNP New) (NNP Zealand))) (SBAR (IN until) (S (NP (DT those) (NNS debts)) (VP (VBP are) (VP (VBN repaid))))))))) (, ,) (NP (JJS most) (NNS banks)) (VP (VBD refused) (S (RB even) (VP (TO to) (VP (VB play) (NP (JJ administrative) (NNS roles)) (PP (IN in) (NP (DT the) (JJ new) (NN financing)))))) (, ,) (S (VP (VBG forcing) (S (NP (DT an) (JJ embarrassed) (NNP Nomura)) (VP (TO to) (VP (VB postpone) (NP (PRP it)) (NP (DT this) (NN week)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN dispute)) (VP (VBZ shows) (ADVP (RB clearly)) (NP (NP (DT the) (JJ global) (NN power)) (PP (IN of) (NP (NP (NNP Japan) (POS 's)) (JJ financial) (NNS titans))))) (. .)))
+
+(S1 (S (ADVP (RB Aside) (PP (IN from) (NP (NP (NNP Nomura) (POS 's)) (JJ injured) (NN pride)))) (, ,) (NP (DT the) (JJS biggest) (NN victim)) (ADVP (RB so) (RB far)) (VP (VBZ has) (VP (VBN been) (NP (DT the) (NNP New) (NNP Zealand) (NN government)))) (. .)))
+
+(S1 (S (S (VP (VBN Barred) (PP (IN by) (NP (PRP$ its) (NN budget) (NN law))) (PP (IN from) (S (VP (VBG making) (NP (DT any) (JJ new) (JJ domestic) (NN bond) (NNS issues))))))) (, ,) (NP (NP (NNP Wellington) (POS 's)) (NNP Debt) (NNP Management) (NNP Office)) (VP (VBD had) (VP (VBN been) (VP (VBG casting) (ADVP (RB abroad)) (S (VP (TO to) (VP (VB raise) (NP (NP (DT the) (QP (CD 3) (CD billion)) (NNP New) (NNP Zealand) (NNS dollars)) (PRN (-LRB- -LRB-) (NP (NNP US) (QP ($ $) (CD 1.76) (CD billion))) (-RRB- -RRB-))) (S (VP (TO to) (VP (VB NZ) (NP (NP (QP ($ $) (CD 4) (CD billion))) (SBAR (S (NP (PRP it)) (VP (VBZ needs) (S (VP (TO to) (VP (VB come) (PRT (RP up)) (PP (IN with) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (PRP$ its) (JJ fiscal) (NN year)))))) (NP (JJ next) (NNP June) (CD 30)))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (NP (NNP Japan) (POS 's)) (JJ cash-flush) (NNS banks)) (VP (VBN aligned) (PP (IN against) (NP (PRP it)))))) (, ,) (ADVP (RB though)) (, ,) (S (VP (VBG raising) (NP (NN money)))) (VP (MD may) (VP (VB be) (ADJP (JJ difficult)))) (. .)))
+
+(S1 (S (CONJP (RB Not) (RB only)) (SINV (MD can) (NP (PRP they)) (VP (VB block) (NP (NNP Wellington)) (PP (IN from) (S (VP (VBG raising) (NP (NN money)) (PP (IN in) (NP (NNP Japan)))))))) (, ,) (S (NP (NNS bankers)) (ADVP (RB here)) (VP (VBP say))) (, ,) (CC but) (S (PP (IN as) (NP (NP (DT the) (JJS largest) (NNS underwriters)) (PP (IN in) (NP (DT the) (NNP Eurobond) (NN market))))) (, ,) (NP (PRP they)) (VP (MD might) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB scuttle) (NP (NNS borrowings)) (ADVP (RB there)))))) (, ,) (ADVP (RB too))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP New) (NNP Zealand) (POS 's)) (NN finance) (NN minister)) (, ,) (NP (NNP David) (NNP Caygill)) (, ,)) (VP (VBD lashed) (PRT (RP out)) (PP (IN at) (NP (JJ such) (NNS suggestions)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD told) (NP (NNS reporters)) (PP (IN in) (NP (NNP Wellington) (NNP Tuesday))) (SBAR (IN that) (S (NP (DT the) (NN government)) (VP (VP (VBD had) (RB n't) (VP (VBN guaranteed) (NP (NP (DT the) (NNS loans)) (PP (TO to) (NP (NP (NNP DFC) (NNP New) (NNP Zealand) (NNP Ltd.)) (, ,) (NP (NP (NP (DT an) (NN investment) (NN bank)) (NP (CD 80) (NN %))) (VP (VBN -owned) (PP (IN by) (NP (DT the) (NNP National) (NNP Provident) (NNP Fund)))))))))) (, ,) (CC and) (VP (MD would) (RB n't) (VP (VB bail) (NP (PRP it)) (PRT (RP out)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (MD may) (ADVP (RB very) (RB well)) (VP (VB be) (SBAR (WHNP (WP what)) (S (NP (DT the) (JJ Japanese) (NNS banks)) (VP (VBP want))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD told) (NP (NNP Radio) (NNP New) (NNP Zealand))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (JJ irresponsible)))))))) (CC and) (S (NP (PRP I)) (VP (VBP am) (RB not) (ADJP (RB about) (S (VP (TO to) (VP (VB be) (VP (VBN blackmailed) (PP (IN by) (NP (NP (JJ Japanese) (NNS banks)) (CC or) (NP (DT any) (JJ other) (JJ international) (NNS interests))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT No) (ADJP (RBR less) (JJ significant))) (PP (IN than) (NP (DT the) (JJ Japanese) (NNS banks) (POS ')))) (VP (VBP attempt) (S (VP (TO to) (VP (VB cut) (PRT (RP off)) (NP (NP (NNS funds)) (SBAR (S (VP (TO to) (VP (NN pressure) (NP (DT a) (JJ foreign) (NN government)) (S (VP (VBP are) (NP (NP (DT the) (NNS implications)) (PP (IN of) (NP (NP (DT a) (NN confrontation)) (PP (IN between) (NP (NNP Japan) (NNS securities) (CC and) (NN banking) (NNS industries))))))))))))))))) (. .)))
+
+(S1 (S (NP (NN Anxiety)) (VP (VBZ is) (VP (VBG rising) (PP (IN over) (NP (JJ recent) (NN government) (NNS proposals))) (S (VP (TO to) (ADVP (RB eventually)) (VP (VB lower) (NP (DT the) (JJ strict) (NNS barriers)) (SBAR (IN that) (S (ADVP (RB now)) (VP (VB separate) (: --) (CC and) (VB protect) (: --) (NP (DT the) (CD two) (NNS industries)) (PP (IN from) (NP (DT each) (JJ other))))))))))) (. .)))
+
+(S1 (S (S (NP (DT Both) (NNS sides)) (VP (VBP are) (ADVP (RB jealously)) (VP (VBG guarding) (NP (PRP$ their) (NN turf))))) (, ,) (CC and) (S (NP (NNS relations)) (VP (VBP have) (VP (VBN been) (PP (IN at) (NP (DT a) (NN flashpoint))) (PP (IN for) (NP (NNS months)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS banks)) (ADVP (RB badly)) (VP (VBP want) (S (VP (TO to) (VP (VB break) (PP (IN into) (NP (NP (DT all) (NNS aspects)) (PP (IN of) (NP (DT the) (NNS securities) (NN business))))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (DT the) (NNS securities) (NNS companies)) (PRN (: --) (ADJP (ADJP (NP (NP (JJS most)) (PP (IN of) (NP (PRP them)))) (JJR smaller)) (PP (IN than) (NP (DT the) (NNS banks)))) (: --)) (VP (VBP are) (VP (VBG seeking) (NP (NP (NN access) (RB only)) (PP (TO to) (NP (NP (JJ limited) (NNS kinds)) (PP (IN of) (NP (NN banking))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (RB n't) (VP (VB open) (NP (PRP them)) (PP (TO to) (NP (NP (DT the) (JJ full) (NN brunt)) (PP (IN of) (NP (NP (NN competition)) (PP (IN from) (NP (DT the) (NNS banks)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Nomura)) (, ,) (NP (NP (NP (DT the) (NN world) (POS 's)) (JJS biggest) (NNS securities) (NN company)) (PP (ADVP (RB largely)) (IN by) (NP (NP (NN virtue)) (PP (IN of) (NP (PRP$ its) (VBN protected) (NN home) (NN field)))))) (, ,)) (CC and) (NP (NP (NP (NNP Industrial) (NNP Bank)) (PP (IN of) (NP (NNP Japan)))) (, ,) (NP (NP (NP (NNP Japan) (POS 's)) (ADJP (RBS most) (JJ innovative) (CC and) (JJ aggressive)) (NN bank)) (PP (IN in) (NP (NP (NN capital) (NNS markets)) (ADVP (RB abroad))))) (, ,))) (VP (NN captain) (NP (DT the) (VBG opposing) (NNS sides))) (. .)))
+
+(S1 (S (CC And) (NP (NP (PRP$ their) (NNS suspicions)) (PP (IN of) (NP (DT each) (JJ other)))) (VP (VBP run) (ADJP (JJ deep))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ past) (NN year))) (, ,) (NP (DT both)) (VP (VBP have) (VP (VBN tried) (S (VP (TO to) (VP (VB stretch) (NP (NP (DT the) (NNS limits)) (PP (IN of) (NP (PRP$ their) (NNS businesses))))))))) (. .)))
+
+(S1 (S (NP (NNP Nomura)) (VP (VBD started) (NP (NP (DT a) (JJ credit-card) (NN venture)) (PP (IN with) (NP (NNP American) (NNP Express) (NNP Co.))) (SBAR (WHNP (WDT that)) (S (VP (VBD allowed) (S (NP (NNS cardholders)) (VP (TO to) (VP (VB use) (NP (PRP$ their) (NNP Nomura) (NNS securities) (NNS accounts)) (PP (IN like) (NP (DT a) (NN bank) (NN account)))))))))) (, ,) (S (VP (VBG attracting) (NP (NP (DT the) (NN wrath)) (PP (IN of) (NP (NNS banks))))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (NNP Industrial) (NNP Bank)) (PP (IN of) (NP (NNP Japan)))) (VP (VBD started) (PRT (RP up)) (NP (NP (DT a) (NNP London) (NNS securities) (NN subsidiary)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sells) (NP (JJ Japanese) (NNS stocks)) (PP (TO to) (NP (NP (JJ non-Japanese) (NNS institutions)) (ADVP (RB overseas)))) (, ,) (NP (NP (DT a) (NN move)) (SBAR (WHNP (WDT that)) (S (VP (VBD stirred) (NP (NP (DT the) (NN anger)) (PP (IN of) (NP (DT the) (NN stock) (NN brokerage) (NNS firms))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP New) (NNP Zealand) (NN bond) (NN issue)) (ADVP (RB simply)) (VP (VBZ has) (VP (VBN brought) (S (NP (DT the) (CD two) (NNS institutions)) (ADJP (JJ face-to-face))))) (. .)))
+

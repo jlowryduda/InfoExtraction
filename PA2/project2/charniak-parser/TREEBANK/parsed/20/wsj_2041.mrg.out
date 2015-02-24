@@ -1,0 +1,156 @@
+(S1 (S (NP (NNP Prime) (NNP Minister) (NNP Rajiv) (NNP Gandhi)) (VP (VBD set) (NP (NP (NP (DT a) (NN date)) (NP (JJ next) (NN month))) (PP (IN for) (NP (JJ general) (NNS elections)))) (SBAR (IN that) (S (NP (DT some) (NNS analysts)) (VP (VBP say) (SBAR (S (VP (MD could) (VP (VB cost) (NP (NP (PRP him)) (CC and) (NP (PRP$ his) (JJ ruling) (NNP Congress) (PRN (-LRB- -LRB-) (NP (PRP I)) (-RRB- -RRB-)) (NNP Party))) (NP (NN control)) (PP (IN of) (NP (DT the) (NN government))))))))))) (. .)))
+
+(S1 (S (NP (JJ Other) (NNS analysts)) (VP (VBP say) (SBAR (S (NP (DT the) (NNP Indian) (NN leader)) (VP (MD could) (VP (VP (VB retain) (NP (NP (NN control)) (PP (IN with) (NP (DT a) (JJ slim) (NN majority))))) (CC or) (VP (VB be) (VP (VBN forced) (S (VP (TO to) (VP (VB rule) (PP (IN as) (NP (NP (DT the) (JJ dominant) (NN partner)) (PP (IN in) (NP (NP (DT a) (NN coalition)) (PP (IN with) (NP (JJ other) (NNS parties))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Elections)) (PP (IN in) (NP (DT this) (ADJP (JJ large) (, ,) (JJ diverse) (CC and) (JJ passionate)) (NN nation)))) (VP (VBP are) (ADVP (RB always)) (ADJP (JJ hard) (SBAR (S (VP (TO to) (VP (VB predict))))))) (. .)))
+
+(S1 (S (NP (RB Much)) (VP (VBZ depends) (PP (IN on) (NP (NP (DT the) (NN opposition)) (, ,) (NP (NP (DT a) (JJ loose) (NN group)) (PP (IN of) (NP (JJ regional) (CC and) (JJ ideological) (NNS parties))) (VP (VBN led) (PP (IN by) (NP (JJ former) (NNP Gandhi) (NN cabinet) (NN minister) (NNP Vishwanath) (NNP Pratap) (NNP Singh)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJS biggest) (NN certainty)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NNS elections)) (VP (MD will) (VP (VB be) (NP (DT a) (NN vote)) (PP (IN for) (CC or) (IN against) (NP (NNP Mr.) (NNP Gandhi)) (CC and) (NP (NP (NP (PRP$ his) (CD five) (NNS years)) (PP (IN in) (NP (NN power)))) (: --) (NP (NP (CD five) (NNS years)) (PP (IN of) (NP (NP (NNS ups) (CC and) (NNS downs)) (, ,) (NP (NNS promises) (CC and) (NNS disappointments)) (CC and) (NP (NP (JJ wide) (NNS fluctuations)) (PP (IN in) (NP (NN popularity)))))))))))))) (. .)))
+
+(S1 (S (NP (NN Yesterday)) (, ,) (PP (NP (CD four) (NNS days)) (IN after) (NP (NP (DT an) (JJ unusual) (JJ parliamentary) (NN defeat)) (PP (IN for) (NP (DT the) (VBG ruling) (NN party))))) (, ,) (NP (NNP Mr.) (NNP Gandhi)) (VP (VBD called) (NP (NNS elections)) (PP (IN for) (NP (NP (DT the) (JJR lower) (NN house)) (PP (IN of) (NP (NNP Parliament))))) (PP (IN on) (NP (NNP Nov.) (CD 22) (CC and) (CD 24)))) (. .)))
+
+(S1 (S (NP (DT The) (NNS elections)) (VP (MD will) (VP (VB be) (VP (VBN held) (PP (IN in) (NP (JJ different) (NNS states))) (PP (IN on) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (CD two) (NNS days)))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (S (NP (NP (DT The) (JJR lower) (NN house) (POS 's)) (JJ five-year) (NN term)) (VP (VBZ expires) (PP (IN in) (NP (NNP January))))) (: ;) (S (NP (NP (DT the) (NNP Parliament) (POS 's)) (JJ upper) (NN house)) (VP (VBZ is) (ADJP (JJ appointed)))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (NP (DT The) (NNS elections)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (JJ rigorous) (NN test)) (PP (IN for) (NP (NP (DT the) (JJ 45-year-old) (JJ prime) (NN minister)) (CC and) (NP (NNP Congress) (PRN (-LRB- -LRB-) (NNP I) (-RRB- -RRB-)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (JJ various) (NNS forms))) (VP (VBZ has) (VP (VBN ruled) (PP (IN for) (NP (NP (CD 40)) (PP (IN of) (NP (NP (NP (NNP India) (POS 's)) (CD 42) (NNS years)) (PP (IN of) (NP (NN independence))))))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN After) (S (NP (DT a) (NN landslide)) (VP (VB win) (PP (IN in) (NP (CD 1984))) (PP (IN in) (NP (NP (NNS polls)) (VP (VBN held) (PP (IN after) (NP (NP (DT the) (NN assassination)) (PP (IN of) (NP (NP (PRP$ his) (NN mother)) (, ,) (NP (NNP Indira) (NNP Gandhi)))))))))))) (, ,) (NP (NNP Mr.) (NNP Gandhi)) (VP (VBD saw) (S (NP (PRP$ his) (NN popularity)) (VP (VB begin) (S (NP (DT a) (NN roller) (NN coaster)) (VP (VB ride)))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (JJ early) (NNS promises) (S (VP (TO to) (VP (VB make) (NP (NNP India)) (NP (DT a) (JJ modern) (NN nation)))))) (VP (VBP remain) (VP (VBD bogged) (PRT (RP down)) (PP (IN in) (NP (JJ bloated) (NN bureaucracy))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (NN pledge) (S (VP (TO to) (VP (VB clean) (PRT (RP up)) (NP (JJ local) (NN administration) (CC and) (NNP Indian) (NNS politics)))))) (, ,) (PP (VBG including) (NP (PRP$ his) (JJ own) (NN party))) (, ,)) (VP (VBD went) (ADJP (JJ unfulfilled))) (. .)))
+
+(S1 (S (NP (PRP$ His) (`` `) (S (`` `) (NP (NNP Mr.) (NNP Clean)) ('' ')) ('' ') (NN image)) (VP (VBD was) (VP (VBN muddied) (PP (IN by) (NP (NP (DT an) (JJ arms-kickback) (NN scandal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB be) (NP (DT a) (JJ major) (NN campaign) (NN issue)))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS analysts)) (VP (VBP predict) (SBAR (IN that) (S (NP (NP (NN disappointment) (SBAR (IN in) (S (NP (NP (NNP Mr.) (NNP Gandhi) (POS 's)) (JJ spent) (NN pledge)) (VP (TO to) (VP (VB reduce) (NP (NN corruption))))))) (CC and) (NP (JJ heavy-handed) (JJ local) (NN government))) (VP (MD will) (VP (NN crest) (PP (IN at) (NP (DT the) (NNS polls)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (JJ wide) (NN feeling)) (PP (IN of) (NP (NN indignation)))) (PP (IN across) (NP (DT the) (NN country)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Bhabani) (NNP Sen) (NNP Gupta)) (PP (IN of) (NP (NP (DT the) (NNP Center)) (PP (IN for) (NP (NNP Policy) (NNP Research))) (, ,) (PP (IN in) (NP (NNP New) (NNP Delhi)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT the) (NNS people)) (VP (MD will) (VP (VB be) (S (VP (VBG judging) (NP (DT the) (NN regime)) (PP (IN by) (NP (DT a) (JJ petty) (NN policeman))))))))))) (, ,) (PP (IN by) (NP (DT a) (JJ corrupt) (NN revenue) (NN collector))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (MD could) (VP (VB be) (NP (NP (DT a) (JJ big) (NN protest)) (PP (IN against) (NP (DT an) (JJ administrative) (NN failure)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (SBAR (RB Even) (IN if) (S (NP (NP (DT the) (NNP Congress)) (PRN (-LRB- -LRB-) (NP (NNP I)) (-RRB- -RRB-))) (VP (VBZ retains) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NN government))))))) (, ,) (NP (NP (NNP Mr.) (NNP Gandhi) (POS 's)) (NN ability) (S (VP (TO to) (VP (VB push) (PRT (RP through)) (NP (JJ major) (NNS initiatives)))))) (VP (MD might) (VP (VB be) (VP (VBN hobbled) (PP (IN by) (NP (DT a) (JJR thinner) (NN majority)))))) (. .)))
+
+(S1 (S (S (NP (JJ Economic) (NNS analysts)) (VP (VBP call) (S (NP (NP (PRP$ his) (JJ trail-blazing) (NN liberalization)) (PP (IN of) (NP (DT the) (NNP Indian) (NN economy)))) (ADJP (JJ incomplete))))) (, ,) (CC and) (S (NP (JJ many)) (VP (VBP are) (VP (VBG hoping) (PP (IN for) (NP (JJ major) (JJ new) (NNS liberalizations))) (SBAR (IN if) (S (NP (PRP he)) (VP (VBZ is) (VP (VBN returned) (ADVP (RB firmly)) (PP (TO to) (NP (NN power)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Lok) (NNP Sabha)) (, ,) (CC or) (NP (NP (JJR lower) (NN house)) (PP (IN of) (NP (NNP Parliament)))) (, ,)) (VP (VBZ has) (NP (CD 542) (JJ elected) (CC and) (CD two) (JJ appointed) (NNS seats))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1984))) (, ,) (NP (NP (DT the) (NNP Congress)) (PRN (-LRB- -LRB-) (NP (NNP I)) (-RRB- -RRB-))) (VP (VP (VBD captured) (NP (CD 405) (NNS seats))) (, ,) (NP (NP (DT the) (JJS largest) (NN victory)) (PP (IN in) (NP (NP (DT the) (NN history)) (PP (IN of) (NP (JJ Indian) (NN democracy))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN landslide)) (VP (VBD was) (VP (VBN fueled) (PP (IN by) (NP (NP (NN panic)) (SBAR (WHNP (WDT that)) (S (VP (VBD prevailed) (PP (IN in) (NP (NNP India))) (PP (IN at) (NP (DT the) (NN time)))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mrs.) (NNP Gandhi)) (VP (VBD had) (VP (VBN been) (VP (VBN assassinated) (PP (IN by) (NP (JJS separatist) (NNPS Sikhs))))))) (, ,) (CC and) (S (NP (JJ many) (NNPS Indians)) (VP (VBD feared) (SBAR (S (NP (PRP$ their) (NN country)) (VP (MD might) (VP (VB split) (ADVP (RB apart)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ previous) (CD three) (JJ general) (NNS elections))) (, ,) (NP (JJ similar) (JJ national) (NNS issues)) (VP (VBD clinched) (NP (DT the) (NN vote))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1971))) (, ,) (NP (DT the) (NNP Congress) (NNP Party)) (VP (VBD won) (PP (IN after) (NP (NP (NNP India) (POS 's)) (NN victory))) (PP (IN in) (NP (DT the) (NNP Bangladesh) (NN war)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1977))) (, ,) (S (NP (NNP Mrs.) (NNP Gandhi)) (VP (VBD was) (VP (VBN thrown) (PRT (RP out)) (PP (IN of) (NP (NN office))) (PP (IN after) (NP (PRP$ her) (JJ 19-month) (NN emergency) (NN rule)))))) (, ,) (CC and) (S (PP (IN in) (NP (CD 1980))) (, ,) (SBAR (IN after) (S (NP (PRP$ her) (NNS successors)) (VP (VBD made) (NP (NP (DT a) (NN mess)) (PP (IN of) (NP (NP (PRP$ their) (CD three) (NNS years)) (PP (IN in) (NP (NN power))))))))) (, ,) (NP (PRP she)) (VP (VBD was) (VP (VBN restored) (PP (TO to) (NP (NN office)))))) (. .)))
+
+(S1 (S (NP (JJS Most) (JJ political) (NNS analysts)) (VP (VBP say) (SBAR (IN that) (S (SBAR (IN if) (S (NP (NP (NNP Mr.) (NNP Gandhi) (POS 's)) (NN opposition)) (VP (VBZ unites) (S (VP (TO to) (VP (VB field) (NP (NP (JJ single) (NNS candidates)) (PP (IN in) (NP (JJS most) (NNS precincts)))))))))) (, ,) (NP (NP (DT the) (NNP Congress)) (PRN (-LRB- -LRB-) (NP (NNP I)) (-RRB- -RRB-))) (VP (MD will) (VP (VB lose) (ADJP (JJ big))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN if) (S (NP (DT the) (NN opposition)) (VP (VBZ remains) (ADJP (JJ fractured))))) (, ,) (NP (NP (DT the) (NNP Congress)) (PRN (-LRB- -LRB-) (NP (PRP I)) (-RRB- -RRB-))) (VP (MD could) (VP (VP (VB win) (NP (DT a) (JJ small) (NN majority))) (, ,) (CC or) (VP (VB lead) (NP (DT a) (NN coalition) (NN government))))) (. .)))
+
+(S1 (S (NP (NP (NNP Chimanbhai) (NNP Mehta)) (, ,) (NP (NP (DT a) (NN parliamentarian)) (CC and) (NP (JJ former) (NNP Gandhi) (NN ally))) (, ,)) (VP (VBZ predicts) (SBAR (S (NP (NP (NNP Congress)) (PRN (-LRB- -LRB-) (NP (NNP I)) (-RRB- -RRB-))) (VP (MD will) (VP (VB win) (NP (NP (RB only) (CD 150) (NNS seats)) (, ,) (NP (NP (DT a) (NN quarter)) (PP (IN of) (NP (DT the) (NN house))))) (, ,) (SBAR (IN if) (S (NP (DT the) (NN opposition) (NNS fields)) (VP (VBP single) (NP (NP (NNS candidates)) (PP (IN in) (NP (NP (CD 80) (NN %)) (PP (IN of) (NP (DT the) (NNS races)))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBP say) (SBAR (S (S (NP (DT the) (NN opposition)) (VP (MD will) (VP (VB struggle) (NP (DT this) (NN week)) (S (VP (TO to) (VP (VB unite))))))) (, ,) (CC and) (S (NP (PRP$ its) (NN success)) (VP (MD will) (VP (VB be) (ADJP (JJ clear)) (SBAR (WHADVP (RB only) (WRB when)) (S (NP (PRP it)) (VP (VBZ announces) (NP (NP (PRP$ its) (JJ final) (NN list)) (PP (IN of) (NP (JJ parliamentary) (NNS candidates))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ arms-kickback) (NN scandal)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ big) (NN talking) (NNS points)) (PP (IN in) (NP (DT the) (NN campaign)))))))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ unclear)) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN viewed) (PP (IN by) (NP (JJ average) (NNP Indian) (NNS voters))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1986))) (, ,) (NP (NNP India)) (VP (VBD signed) (NP (NP (DT a) (ADJP (QP ($ $) (CD 1.4) (CD billion))) (NN contract)) (PP (IN with) (NP (NP (NNP AB) (NNP Bofors)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Nobel) (NNPS Industries) (NNP Sweden) (NNP AB)))) (, ,)))) (S (VP (TO to) (VP (VB purchase) (NP (CD 400) (NN artillery) (NNS pieces)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN contract)) (VP (VP (VBD was) (VP (VBN negotiated) (PP (IN by) (NP (NP (DT the) (NNS countries) (POS ')) (CD two) (JJ prime) (NNS ministers))))) (, ,) (CC and) (VP (VBD was) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (ADJP (JJ free) (PP (IN of) (NP (NP (NNS commissions)) (CC or) (NP (NP (NNS agents) (POS ')) (NNS costs))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP April) (CD 1987))) (, ,) (NP (NN evidence)) (VP (VBD surfaced) (SBAR (IN that) (S (NP (NNS commissions)) (VP (VBD were) (VP (VBN paid)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN opposition)) (VP (VBD charged) (SBAR (IN that) (S (NP (DT the) (NN money)) (VP (VBD was) (VP (VBN used) (S (VP (TO to) (VP (VB bribe) (NP (NP (NNP Indian) (NN government) (NNS officials)) (, ,) (NP (NP (DT an) (NN allegation)) (VP (VBN denied) (PP (IN by) (NP (NP (NNP Mr.) (NNP Gandhi) (POS 's)) (NN administration)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (JJ many)) (PP (IN of) (NP (NP (PRP$ his) (NNS statements)) (PP (IN on) (NP (NP (DT the) (NN issue)) (PP (IN in) (NP (NNP Parliament)))))))) (ADVP (RB subsequently)) (VP (VBD were) (VP (VBN proven) (NP (ADJP (JJ wrong) (PP (IN by) (NP (NN documentary)))) (NN evidence)))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN scandal)) (VP (VBZ has) (VP (VBN faded) (CC and) (VBN flared)))) (, ,) (CC but) (S (NP (JJ recent) (NNS disclosures)) (VP (VBD propelled) (NP (PRP it)) (ADVP (RB back)) (PP (IN onto) (NP (DT the) (JJ front) (NNS pages))))) (, ,) (CC and) (S (NP (DT that)) (VP (VBZ has) (VP (VBN helped) (S (VP (VB galvanize) (NP (NP (DT the) (NN opposition)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (JJ last) (NN week)) (VP (VBD blocked) (NP (NP (NN passage)) (PP (IN of) (NP (CD two) (JJ constitutional) (NN amendment) (NNS bills))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN in) (NP (CD 20) (NNS years))) (SBAR (IN that) (S (NP (JJ such) (NN government) (NNS bills)) (VP (VBD were) (VP (VBN defeated))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN country)) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (NN bribe)) (VP (VBZ is) (VP (VBN needed) (S (VP (TO to) (VP (VB get) (NP (NP (DT a) (NN phone)) (, ,) (NP (NP (DT a) (NN job)) (, ,) (CC and) (RB even))) (PP (IN into) (NP (DT a) (NN school)))))))))))) (, ,) (NP (DT the) (NN name) (NNP Bofors)) (VP (VBZ has) (VP (VBN become) (NP (NP (DT a) (JJ potent) (VBG rallying) (NN cry)) (PP (IN against) (NP (DT the) (NN government)))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ illustrates) (NP (NP (DT the) (NN kind)) (PP (IN of) (NP (NN disappointment))) (SBAR (S (NP (JJ many) (NNPS Indians)) (VP (VBP feel) (PP (IN toward) (NP (NP (NNP Mr.) (NNP Gandhi)) (, ,) (SBAR (WHNP (WP whom)) (S (NP (PRP they)) (VP (VBP zestfully) (VP (VP (VBN elected)) (CC and) (VP (ADVP (RB enthusiastically)) (VBN supported) (PP (IN in) (NP (NP (PRP$ his) (JJ first) (CD two) (NNS years)) (PP (IN in) (NP (NN power))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN term)) (VP (VP (VBZ has) (VP (VBN produced) (NP (NP (DT no) (JJ spectacular) (NNS failures)) (PP (IN in) (NP (NNS politics)))) (, ,) (PP (PP (IN in) (NP (DT the) (NN economy))) (CC or) (PP (IN on) (NP (DT the) (JJ military) (NN front)))))) (, ,) (CC and) (VP (VBZ has) (VP (VBN chalked) (PRT (RP up)) (NP (DT some) (NNS successes))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ average) (NNP Indian)) (VP (VBD had) (NP (JJ tremendous) (NN hope)) (PP (IN in) (NP (DT the) (JJ youthful) (NN leader) (CC and) (PRP$ his) (NN promise) (S (VP (TO to) (VP (VB make) (S (NP (NP (DT both) (NN government)) (CC and) (NP (DT the) (VBG ruling) (NN party))) (ADJP (ADJP (RBR more) (JJ effective)) (CC and) (ADJP (RBR less) (JJ corrupt)))))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (NNS failures)) (PP (IN in) (NP (DT those) (CD two) (NNS areas)))) (VP (ADVP (ADVP (RB deeply)) (, ,) (CC and) (ADVP (RB sometimes) (RB bitterly)) (, ,)) (VBD disappointed) (NP (JJ many) (NNPS Indians))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP do) (RB n't) (VP (VB like) (NP (NP (DT the) (NNP Congress)) (PRN (-LRB- -LRB-) (NP (NNP I)) (-RRB- -RRB-))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Sooraji) (NNP Jath)) (, ,) (NP (NP (DT a) (NN farmer)) (PP (IN in) (NP (NP (DT the) (JJ western) (NN state)) (PP (IN of) (NP (NNP Gujarat))))))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (NP (DT The) (NNP Congress)) (NN government)) (VP (VBZ is) (VP (VP (VBG taking) (NP (NP (DT the) (NNS farmers) (POS ')) (NN bread))) (CC and) (RB not) (VP (VBG giving) (NP (PRP us)) (NP (DT any) (NN support))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (EX there)) (VP (VBP are) (ADVP (RB well)) (NP (NP (NNS problems)) (, ,) (NP (JJ light) (NNS problems)) (, ,) (NP (NN road) (NNS problems)))))) (, ,) (NP (DT the) (NN government)) (VP (VBZ tells) (NP (PRP us)) (S (VP (TO to) (VP (VB forget) (NP (PRP it)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT The) (JJS greatest) (NN thing)) (VP (VBG going) (PP (IN for) (NP (NP (NNP Mr.) (NNP Gandhi)) (CC and) (NP (DT the) (NNP Congress) (PRN (-LRB- -LRB-) (NNP I) (-RRB- -RRB-)) (NNP Party)))))) (VP (VBZ is) (NP (NP (DT the) (JJ poor) (NN reputation)) (PP (IN of) (NP (DT the) (NN opposition))))) (. .)))
+
+(S1 (S (SBAR (RB Even) (IN if) (S (NP (PRP it)) (VP (VBZ unites) (PP (IN for) (NP (DT the) (NNS elections)))))) (, ,) (NP (PRP$ its) (NN coherence)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (ADJP (JJ temporary))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NP (DT the) (NNP Congress)) (PRN (-LRB- -LRB-) (NP (NNP I)) (-RRB- -RRB-))) (VP (VBN lost) (NP (DT the) (CD 1977) (NN election)) (, ,) (PP (VBG following) (NP (NP (NNP Mrs.) (NNP Gandhi) (POS 's)) (JJ hated) (NN emergency) (NN rule)))))) (, ,) (NP (DT a) (JJ similar) (NN coalition)) (VP (VP (VBD took) (NP (NN power))) (CC and) (VP (ADVP (RB then)) (VBD disintegrated))) (. .)))
+
+(S1 (S (NP (JJ Many) (NNPS Indians)) (VP (VBP fear) (NP (NP (DT a) (NN repeat)) (PP (IN of) (NP (DT that) (NN experience))))) (. .)))
+
+(S1 (NP (NP (NNP March) (CD 24)) (, ,) (NP (CD 1986)) (: :)))
+
+(S1 (S (NP (NP (NNP AB) (NNP Bofors)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Nobel) (NNPS Industries) (NNP Sweden) (NNP AB)))) (, ,)) (VP (VBZ enters) (PP (IN into) (NP (NP (DT a) (ADJP (QP ($ $) (CD 1.4) (CD billion))) (NN contract)) (PP (IN with) (NP (NP (NNP India) (POS 's)) (NNP Defense) (NNP Ministry))) (S (VP (TO to) (VP (VB supply) (NP (CD 400) (NNPS Bofors) (JJ FH-77B) (NN 155-mm) (NN field) (NN howitzer) (NNS guns)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1985))) (, ,) (NP (NNP Prime) (NNP Minister) (NNP Rajiv) (NNP Gandhi)) (, ,) (PP (IN in) (NP (NP (PRP$ his) (NNS talks)) (PP (IN with) (NP (NP (RB then) (NNP Swedish) (NNP Prime) (NNP Minister)) (NP (NNP Olof) (NNP Palme)))))) (, ,) (VP (VBD imposed) (NP (NP (DT the) (NN condition)) (SBAR (IN that) (S (NP (DT the) (NN contract)) (VP (VB have) (NP (DT no) (NNS middlemen))))))) (. .)))
+
+(S1 (NP (NP (NNP April) (CD 16)) (, ,) (NP (CD 1987)) (: :)))
+
+(S1 (S (NP (NNP Swedish) (NNP National) (NNP Radio)) (VP (VBZ reports) (SBAR (IN that) (S (NP (NP (QP (RB about) ($ $) (CD 40) (CD million))) (PRN (: --) (NP (NP (QP (RB nearly) (CD 3)) (NN %)) (PP (IN of) (NP (DT the) (JJ total) (NN contract)))) (: --))) (VP (VBD was) (VP (VBN paid) (PP (IN by) (NP (NNP Bofors))) (PP (IN as) (NP (NP (NNS commissions)) (PP (TO to) (NP (NNS middlemen)))))))))) (. .)))
+
+(S1 (NP (NP (NNP June) (CD 1)) (, ,) (NP (CD 1987)) (: :)))
+
+(S1 (S (NP (NP (NNP Sweden) (POS 's)) (NNP National) (NNP Audit) (NNP Bureau)) (VP (VBZ releases) (S (NP (PRP$ its) (NN report)) (VP (VBG confirming) (NP (NP (NN payment)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 40) (CD million))))) (PP (TO to) (NP (JJ unidentified) (NNPS Indians)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN report)) (VP (VBZ says) (SBAR (IN that) (S (NP (NNS investigations)) (VP (VBD were) (VP (ADVP (RB severely)) (VBN hampered) (PP (IN by) (NP (NP (NN lack)) (PP (IN of) (NP (NP (NN cooperation)) (PP (IN from) (NP (NNP Bofors)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Bofors)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD ca) (RB n't) (VP (VB disclose) (NP (NP (DT the) (NNS names)) (PP (IN of) (NP (DT the) (NNS middlemen)))) (SBAR (IN because) (S (NP (PRP it)) (VP (MD would) (VP (VB jeopardize) (NP (JJ industrial) (NN confidentiality))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN portion)) (PP (IN of) (NP (NP (DT the) (NN report)) (VP (VBG containing) (NP (NP (NNS names)) (PP (IN of) (NP (DT the) (NNS middlemen)))))))) (VP (VBZ is) (VP (VBN withheld) (PP (IN by) (NP (NNS officials))) (S (VP (VBG citing) (NP (NN bank) (NN secrecy) (NNS requirements)))))) (. .)))
+
+(S1 (NP (NP (NNP Aug.) (CD 6)) (, ,) (NP (CD 1987)) (: :)))
+
+(S1 (S (S (NP (NNP Prime) (NNP Minister) (NNP Gandhi)) (VP (VBZ tells) (NP (NP (NP (DT the) (NNP Indian) (NNP Parliament)) (, ,) (`` `) (FRAG (`` `) (INTJ (UH ..)) (. .))) (CC neither) (NP (PRP I))))) (CC nor) (S (NP (NP (DT any) (NN member)) (PP (IN of) (NP (PRP$ my) (NN family)))) (VP (VBZ has) (VP (VBN received) (NP (DT any) (NN consideration)) (PP (IN in) (NP (DT these) (NNS transactions)))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (DT the) (NN truth))) (. .) ('' ') ('' ')))
+
+(S1 (NP (NP (NNP Aug.) (CD 26)) (, ,) (NP (CD 1987)) (: :)))
+
+(S1 (S (NP (NNP Bofors)) (VP (VBZ admits) (NP (NP (NNS payments)) (PP (IN of) (NP (QP ($ $) (CD 41) (CD million)))) (PP (TO to) (NP (NNS middlemen))))) (. .)))
+
+(S1 (NP (NP (NNP April) (CD 22)) (, ,) (NP (CD 1988)) (: :)))
+
+(S1 (S (NP (DT The) (NNP Hindu) (NN newspaper)) (VP (VBZ publishes) (NP (NP (NNS facsimiles)) (PP (IN of) (NP (NP (NP (NP (NN bank) (NNS documents)) (PP (IN for) (NP (NP (NN foreign-exchange) (NNS remittances)) (CC and) (NP (NP (NNS letters)) (PP (IN between) (NP (NNP Bofors))))))) (CC and) (NP (JJ certain) (JJ private) (NNS companies))) (VP (VBN related) (PP (TO to) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (DT the) (NNS guns))) (PP (TO to) (NP (NNP India)))))))))) (. .)))
+
+(S1 (NP (NP (NNP April) (CD 26)) (, ,) (NP (CD 1988)) (: :)))
+
+(S1 (S (NP (NP (DT A) (JJ parliamentary) (JJ investigative) (NN committee)) (VP (VBN dominated) (PP (IN by) (NP (DT the) (NNP Congress) (PRN (-LRB- -LRB-) (NP (PRP I)) (-RRB- -RRB-)) (NNP Party))))) (VP (VBZ concludes) (SBAR (IN that) (S (NP (EX there)) (VP (VBD were) (NP (NP (NP (DT no) (NNS middlemen)) (PP (IN in) (NP (DT the) (NN deal)))) (CC and) (NP (NP (DT no) (NN payment)) (PP (TO to) (NP (DT any) (NX (NX (NNP Indian) (NN individual)) (CC or) (NX (NN company))))))))))) (. .)))
+
+(S1 (NP (NP (NNP July) (CD 18) (, ,) (CD 1989)) (: :)))
+
+(S1 (S (NP (NP (DT The) (NN comptroller) (CC and) (NN auditor-general)) (PP (IN of) (NP (NNP India)))) (VP (VBZ reports) (NP (NP (JJ serious) (NNS lapses)) (PP (IN in) (NP (NP (NP (DT the) (NN government) (POS 's)) (ADJP (JJ technical) (CC and) (JJ financial)) (NN evaluation)) (PP (IN of) (NP (DT the) (NNP Bofors) (NN deal))))))) (. .)))
+
+(S1 (NP (NP (NNP Sept.) (CD 15)) (, ,) (NP (CD 1989)) (: :)))
+
+(S1 (S (NP (NP (JJ Retired) (NN army) (NN Chief)) (PP (IN of) (NP (NNP Staff) (NNP Krishnaswami) (NNP Sundarji)))) (VP (VBZ discloses) (PP (IN in) (NP (DT an) (NN interview))) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD suggested) (PP (IN in) (NP (NNP May) (CD 1987))) (SBAR (IN that) (S (NP (DT the) (NN government)) (VP (VB cancel) (NP (DT the) (NNP Bofors) (NN contract))))))))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NNP Gen.) (NNP Sundarji)))) (, ,) (NP (DT that)) (VP (MD would) (VP (VB have) (VP (VBN forced) (S (NP (NNP Bofors)) (VP (TO to) (VP (VB disclose) (NP (NP (DT the) (NNS names)) (PP (IN of) (NP (NP (DT the) (NNS middlemen)) (SBAR (WHNP (WP who)) (S (VP (VBD received) (NP (NNS kickbacks)) (PP (IN from) (NP (DT the) (NN company))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN recommendation)) (VP (VBD was) (VP (VBN rejected) (PP (IN by) (NP (DT the) (NN government))))) (. .)))
+
+(S1 (FRAG (NP (NNP Oct.) (CD 9.)) (NP (CD 1989)) (: :)))
+
+(S1 (S (NP (DT The) (NNP Hindu) (NN newspaper)) (VP (VBZ publishes) (NP (NP (NP (DT the) (VBN withheld) (NN portion)) (PP (IN of) (NP (DT the) (NNP Swedish) (NNP National) (NNP Audit) (NNP Bureau))) (POS 's)) (NN report))) (. .)))
+
+(S1 (S (NP (DT The) (NNS disclosures)) (VP (VBP state) (SBAR (IN that) (S (NP (NNS commissions)) (VP (VBD were) (VP (VBN paid) (PP (IN by) (NP (NNP Bofors))) (PP (TO to) (NP (NP (DT an) (NNP Indian) (NN agent)) (PP (IN of) (NP (DT the) (NNS arms) (NN company)))))))))) (. .)))
+

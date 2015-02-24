@@ -1,0 +1,8 @@
+(S1 (S (NP (NP (NNP AMERICAN) (NNPS BRANDS) (NNP Inc.)) (, ,) (NP (NP (NNP Old) (NNP Greenwich)) (, ,) (NP (NNP Conn.))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD increased) (NP (PRP$ its) (JJ quarterly) (CD 11) (NN %)) (PP (TO to) (NP (NP (CD 68) (NNS cents)) (NP (DT a) (NN share)))) (PP (IN from) (NP (NP (CD 61) (NNS cents)) (, ,) (ADJP (JJ payable) (NP (NNP Dec.) (CD 1)) (PP (TO to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 10))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN increase)) (VP (VP (VBZ follows) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN report)) (PP (IN of) (NP (NP (JJ strong) (NNS earnings)) (PP (IN for) (NP (DT the) (JJ third) (NN quarter))))))) (, ,) (CC and) (VP (VBZ reflects) (SBAR (WHNP (WP what)) (S (NP (NNP American) (NNP Brands)) (VP (VBD called) (NP (PRP$ its) (`` `) (NP (`` `) (NP (NN tradition)) (PP (IN of) (NP (VBG sharing) (NNS earnings) (NN growth))) ('' ')) ('' ') (PP (IN with) (NP (NNS shareholders))))))))) (. .)))
+
+(S1 (S (NP (NNP American) (NNP Brands)) (VP (VBZ is) (NP (NP (DT a) (NN consumer) (NNS products) (NN company)) (PP (IN with) (NP (JJ core) (NNS businesses)))) (PP (IN in) (NP (NP (NN tobacco)) (, ,) (NP (VBN distilled) (NNS spirits)) (CC and) (NP (NN life) (NN insurance))))) (. .)))
+
+(S1 (S (PP (IN As) (PP (IN of) (NP (NNP Sept.) (CD 30)))) (, ,) (NP (NNP American) (NNP Brands)) (VP (VBD had) (NP (NP (QP (CD 95.2) (CD million)) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
+

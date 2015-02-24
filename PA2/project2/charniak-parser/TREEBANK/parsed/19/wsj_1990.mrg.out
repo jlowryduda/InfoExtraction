@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Crown) (NNPS Resources) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD reached) (NP (DT a) (JJ definitive) (NN agreement) (S (VP (TO to) (VP (VB acquire) (NP (NP (NP (DT the) (NNP Gold) (NNP Texas) (NNPS Resources) (NNP Ltd.)) (NNS shares)) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB already)) (VP (VB own)))))))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT the) (JJ proposed) (NN agreement))) (, ,) (NP (NNP Gold) (NNP Texas) (NNS holders)) (VP (MD will) (VP (VB receive) (NP (CD 1.43) (NNP Crown) (NNS shares)) (PP (IN for) (NP (NP (DT each)) (PP (IN of) (NP (NP (DT the) (QP (CD 1.1) (CD million)) (NNP Gold) (NNP Texas) (NNS shares)) (VP (RB not) (VBN owned) (PP (IN by) (NP (NP (NNP Crown)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB already)) (VP (VBZ owns) (NP (CD 65) (NN %)))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN arrangement)) (VP (VBZ is) (ADJP (JJ subject) (PP (TO to) (NP (NP (NN approval)) (PP (IN by) (NP (NP (DT the) (NNP Supreme) (NNP Court)) (PP (IN of) (NP (NNP British) (NNP Columbia) (NN province)))))))))) (, ,) (NP (NNP Crown)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (NNP Gold) (NNP Texas)) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Vancouver)) (, ,) (NP (NNP British) (NNP Columbia))))))) (, ,) (CC and) (S (NP (NNP Crown) (NNPS Resources)) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NNP Denver)))))) (. .)))
+
+(S1 (S (NP (DT Both)) (VP (VBP are) (NP (NN mining) (NNS concerns))) (. .)))
+

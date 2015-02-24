@@ -1,0 +1,68 @@
+(S1 (S (NP (NP (NNP Revco) (NNPS D.S.) (NNP Inc.)) (, ,) (NP (NP (DT the) (NN drugstore) (NN chain)) (SBAR (WHNP (WDT that)) (S (VP (VBD filed) (PP (IN for) (NP (NN bankruptcy-court) (NN protection))) (NP (JJ last) (NN year)))))) (, ,)) (VP (VBD received) (NP (NP (DT a) (ADJP (QP ($ $) (CD 925) (CD million))) (NN offer)) (PP (IN from) (NP (NP (DT a) (NN group)) (VP (VBN led) (PP (IN by) (NP (NNP Texas) (NN billionaire) (NNP Robert) (NNP Bass)))))))) (. .)))
+
+(S1 (S (NP (NNP Revco)) (VP (VBD reacted) (ADVP (RB cautiously)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (DT the) (NN plan)) (VP (MD would) (VP (VB add) (NP (NP (QP ($ $) (CD 260) (CD million))) (PP (IN of) (NP (JJ new) (NN debt)))) (PP (TO to) (NP (DT the) (ADJP (RB highly) (JJ leveraged)) (NN company)))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (NP (NNP Revco) (POS 's)) (JJ huge) (NN debt)) (PP (IN from) (NP (PRP$ its) (ADJP (QP ($ $) (CD 1.3) (CD billion))) (JJ leveraged) (NN buy-out)))) (PP (IN in) (NP (CD 1986))) (SBAR (WHNP (WDT that)) (S (VP (VBD forced) (S (NP (PRP it)) (VP (TO to) (VP (VB seek) (NP (NP (NN protection)) (PP (IN under) (NP (NP (NNP Chapter) (CD 11)) (PP (IN of) (NP (DT the) (JJ federal) (NNP Bankruptcy) (NNP Code))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Revco)) (VP (VBZ insists) (SBAR (IN that) (S (NP (DT the) (NN proposal)) (VP (VBZ is) (ADVP (RB simply)) (NP (DT an) (`` `) (NX (`` `) (NP (NN expression)) (PP (IN of) (NP (NN interest))) (, ,) ('' ')) ('' ')) (SBAR (IN because) (S (PP (IN under) (NP (NNP Chapter) (CD 11))) (NP (NNP Revco)) (VP (VBZ has) (`` `) (NP (`` `) (NN exclusivity) (NNS rights) ('' ')) ('' ') (PP (IN until) (NP (NNP Feb.) (CD 28)))))))))) (. .)))
+
+(S1 (S (NP (DT Those) (NNS rights)) (VP (VBP prevent) (NP (NP (NN anyone)) (ADJP (JJ other) (PP (IN than) (NP (NNP Revco))))) (PP (IN from) (S (VP (VBG proposing) (NP (DT a) (NN reorganization) (NN plan)))))) (. .)))
+
+(S1 (S (PP (ADVP (RB Also)) (IN under) (NP (NNP Chapter) (CD 11))) (, ,) (NP (DT a) (NN reorganization) (NN plan)) (VP (VBZ is) (ADJP (JJ subject) (PP (TO to) (NP (NP (NN approval)) (PP (IN by) (NP (NNS bondholders) (, ,) (NNS banks) (CC and) (JJ other) (NNS creditors))))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT A) (JJ financial) (NN adviser)) (PP (IN for) (NP (NNP Revco) (NNS bondholders)))) (, ,) (NP (NP (NNP David) (NNP Schulte)) (, ,) (PP (IN of) (NP (NNP Chilmark) (NNPS Partners)))) (, ,)) (VP (VBD had) (NP (NP (JJ mixed) (NNS reactions)) (PP (TO to) (NP (DT the) (NN offer))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (SBAR (S (NP (PRP he)) (VP (VBD feared) (SBAR (S (NP (DT a) (NNP Revco) (NN reorganization)) (VP (MD might) (VP (VB force) (S (NP (NNS bondholders)) (VP (TO to) (VP (VB accept) (NP (DT a) (`` `) (NX (`` `) (NX (JJ cheap) (NN deal)) (, ,) ('' ')) ('' ')))))))))))) (CC and) (SBAR (IN that) (S (NP (NP (DT the) (NNP Bass) (NN group) (POS 's)) (NN offer)) (VP (MD would) (VP (VB give) (NP (PRP them)) (NP (JJR more) (NN money)))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (DT the) (NN group)) (VP (VBZ is) (VP (VBG offering) (S (VP (TO to) (VP (VB pay) (PRT (RP off)) (NP (NP (NNS bondholders)) (PP (IN in) (NP (NP (NN cash) (RB only)) (: --) (NP (QP ($ $) (CD 260.5) (CD million))) (: --) (CC and) (NP (DT no) (NN equity)))))))))) (. .)))
+
+(S1 (S (S (S (NP (DT The) (NNP Revco) (NNS bonds)) (VP (VBP are) (NP (JJ high-yield) (, ,) (JJ high-risk) (`` `) (`` `) (NP (NN junk) (POS ')) ('' ') (NNS bonds)))) (: ;) (S (NP (NNS holders)) (VP (VBP have) (NP (NP (QP ($ $) (CD 750) (CD million))) (PP (IN in) (NP (NP (NNS claims)) (PP (IN against) (NP (NNP Revco))))))))) (, ,) (NP (NNP Mr.) (NNP Schulte)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (NNP Revco)) (VP (VBD received) (NP (DT the) (NN offer)) (NP (NNP Oct.) (CD 20)))) (, ,) (CC but) (S (VP (VBD issued) (NP (DT a) (NN response)) (NP (NN yesterday)) (SBAR (RB only) (IN after) (S (NP (NP (DT a) (NN copy)) (PP (IN of) (NP (DT the) (NN proposal)))) (VP (VBD was) (VP (VBN made) (S (ADJP (JJ public) (PP (IN by) (NP (NNS bondholders))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Acadia) (NNP Partners) (NNP Limited) (NNP Partnership)) (, ,) (NP (NP (DT a) (NAC (NNP Fort) (NNP Worth) (, ,) (NNP Texas) (, ,)) (NN partnership)) (SBAR (WHNP (WDT that)) (S (VP (VBZ includes) (NP (DT the) (NNP Robert) (NNP M.) (NNP Bass) (NNP Group)))))) (, ,)) (VP (VBD made) (NP (DT the) (NN proposal))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Bass)) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NNP Fort) (NNP Worth))))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN nation) (POS 's)) (JJ second-largest) (NN drugstore) (NN chain)) (VP (VBD was) (NP (DT a) (JJ valuable) (NN company)) (, ,) (PP (IN despite) (NP (PRP$ its) (JJ financial) (NNS woes))))))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NN problem)) (PRN (, ,) (S (NP (PRP they)) (VP (VBP say))) (, ,)) (VP (VBZ is) (SBAR (IN that) (S (S (NP (NN management)) (VP (VBD paid) (NP (RB too) (JJ much)) (PP (IN in) (NP (DT the) (JJ leveraged) (NN buy-out))))) (CC and) (S (NP (DT the) (JJ current) (ADJP (QP ($ $) (CD 515) (CD million))) (NN debt) (NN load)) (VP (VBZ is) (VP (VBG keeping) (NP (NNP Revco)) (PP (IN in) (NP (DT the) (NN red))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (IN If) (S (VP (VBN bought) (PP (IN at) (NP (DT the) (JJ right) (NN price)))))) (, ,) (NP (PRP it)) (VP (MD could) (ADVP (RB still)) (VP (VB be) (ADJP (JJ profitable)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Jeffrey) (NNP Stein)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN at) (NP (NP (NNP McDonald) (CC &) (NNP Co.)) (, ,) (NP (NNP Cleveland)))))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (NP (NNP Revco) (POS 's)) (CD 1,900) (NNS stores)) (PP (IN in) (NP (CD 27) (NNS states)))) (VP (VBP represent) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ real) (NN estate)))))) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (CC and) (S (NP (NNS demographics)) (VP (VBP are) (VP (VBG helping) (NP (NNS pharmacies))))) (: :) (S (NP (NP (DT The) (NN nation) (POS 's)) (VBG aging) (NN population)) (VP (MD will) (VP (VB boost) (NP (NP (NN demand)) (PP (IN for) (NP (NN prescription) (NNS drugs))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN week)) (, ,) (NP (NP (NP (NNP Revco) (POS 's)) (NN parent) (NN company)) (, ,) (NP (NNP Anac) (NNP Holding) (NNP Corp.)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBD reported) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 16.2) (CD million)))) (PP (IN for) (NP (DT the) (JJ fiscal) (JJ first) (NN quarter)))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 27.9) (CD million))) (PP (IN in) (NP (DT the) (JJ year-earlier) (NN quarter)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD were) (NP (NP (QP ($ $) (CD 597.8) (CD million))) (, ,) (ADVP (RB up) (NP (CD 2.4) (NN %)) (PP (IN from) (NP (DT the) (JJ previous) (NN year)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN company)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Twinsburg)) (, ,) (NP (NNP Ohio))))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ its) (NN operating) (NN profit)) (PP (IN before) (NP (NN depreciation) (CC and) (NN amortization)))) (VP (VBD increased) (NP (CD 51) (NN %)) (, ,) (PP (TO to) (NP (QP ($ $) (CD 9.2) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 6.1) (CD million)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Acadia) (NNP Partners)) (CC and) (NP (DT the) (NNP Bass) (NNP Group))) (VP (VBD declined) (S (VP (TO to) (VP (VB comment))))) (. .)))
+
+(S1 (S (NP (DT The) (NN partnership)) (ADVP (RB also)) (VP (VBZ includes) (NP (NP (NNP American) (NNP Express) (NNP Co.)) (, ,) (NP (NP (NNP Equitable) (NNP Life) (NNP Assurance) (NNP Society)) (PP (IN of) (NP (DT the) (NNP U.S.)))) (CC and) (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc)))) (. .)))
+
+(S1 (S (NP (DT The) (NN offer)) (VP (VBZ consists) (PP (IN of) (NP (NP (QP ($ $) (CD 410.5) (CD million))) (PP (IN in) (NP (NP (NN cash)) (CC and) (NP (NP (DT the) (NN rest)) (PP (IN in) (NP (NNS notes))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Acadia)) (VP (MD would) (VP (VB sell) (NP (NP (QP (IN up) (TO to) (CD 10)) (NN %)) (PP (IN of) (NP (NP (DT the) (NN equity)) (PP (IN in) (NP (DT the) (VBN reorganized) (NN company)))))) (PP (TO to) (NP (NP (NNS creditors) (CC and) (NNS bondholders)) (PP (IN in) (NP (NP (NN exchange)) (PP (IN for) (NP (DT the) (NN cash) (NN distribution)))))))))) (, ,) (CC but) (S (NP (NNS creditors) (CC and) (NNS bondholders)) (VP (MD would) (VP (VB receive) (NP (DT no) (NN discount)) (PP (IN for) (NP (PRP$ their) (NNS shares)))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Revco) (POS 's)) (NX (NX (NN chairman)) (CC and) (NX (JJ chief) (JJ executive) (NN officer)))) (, ,) (NP (NNP Boake) (NNP A.) (NNP Sells)) (, ,)) (VP (VBD said) (SBAR (S (S (NP (DT both) (NP (DT the) (NN company)) (CC and) (NP (DT the) (NNS bondholders))) (VP (VBP have) (VP (VBN put) (ADVP (RB forth)) (NP (NN reorganization) (NNS plans))))) (, ,) (CC but) (S (NP (JJ little) (NN progress)) (VP (VBZ has) (VP (VBN been) (VP (VBN made) (SBAR (IN since) (S (NP (NNS negotiations)) (VP (VBD began) (NP (DT this) (NN summer)))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ has) (RB not) (VP (VBN met) (PP (IN with) (NP (NP (NNS representatives)) (PP (IN from) (NP (NNP Acadia)))))))))) (. .)))
+
+(S1 (S (NP (DT Any) (NN reorganization) (NN proposal)) (PRN (, ,) (S (NP (NNP Mr.) (NNP Sells)) (VP (VBD said))) (, ,)) (VP (VBZ is) (ADJP (JJ difficult) (SBAR (S (VP (TO to) (VP (VB assess) (SBAR (IN because) (S (NP (PRP it)) (VP (MD must) (VP (VB be) (VP (VBN agreed) (PRT (RP upon)) (PP (IN by) (NP (DT the) (NN company) (, ,) (NNS bondholders) (, ,) (NNS banks) (CC and) (JJ other) (NNS creditors)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Revco)) (VP (VBZ has) (NP (NP (QP ($ $) (CD 1.5) (CD billion))) (PP (IN in) (NP (NP (NNS claims)) (ADJP (JJ outstanding)))))) (. .)))
+
+(S1 (S (`` `) (`` `) (S (NP (PRP It)) (VP (VBZ 's) (RB not) (PP (IN like) (NP (DT the) (NN board))))) (VP (MD can) (VP (VB decide) ('' ') (PRN (: ') (PP (IN by) (NP (PRP itself))) (, ,) (S (NP (NNP Mr.) (NNP Sells)) (VP (VBD said) (, ,) (S (VP (VBG adding) (, ,) (`` `) (S (`` `) (NP (PRP we)) (VP (VBP 're) (ADJP (JJ indifferent) (PP (TO to) (NP (PRN (-LRB- -LRB-) (NP (DT the) (NNP Bass)) (-RRB- -RRB-)) (NN plan))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP We)) (ADVP (RB just)) (VP (VBP want) (NP (NP (DT a) (NN plan)) (SBAR (WHNP (IN that)) (S (VP (NNS satisfies) (NP (NNS creditors)))))))) (CC and) (S (PP (IN at) (NP (DT the) (NN end))) (VP (VBZ leaves) (NP (DT a) (JJ healthy) (NNP Revco)))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (NP (NNP Mr.) (NNP Schulte)) (, ,) (NP (NP (DT the) (NNS bondholders) (POS ')) (NN adviser)) (, ,)) (VP (VBD said) (SBAR (S (NP (NNP Revco)) (VP (VBD was) (S (VP (VBG dragging) (NP (PRP$ its) (NNS feet)) (PP (IN in) (S (VP (VBG responding) (PP (TO to) (NP (DT the) (NN proposal)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP They)) (VP (VBP want) (S (VP (TO to) (VP (VB pretend) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB exist))))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Schulte)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD met) (PP (IN with) (NP (NNP Acadia) (NNS representatives))) (PP (IN on) (NP (NNP Oct.) (CD 10)))))) (, ,)) (VP (VBD said) (, ,) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADVP (RB certainly)) (NP (DT a) (ADJP (JJ responsible)) (NN offer))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (RB not) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB steal) (NP (NP (DT the) (NN company) (POS ')) ('' ') (PP (IN in) (NP (NP (DT the) (NN middle)) (PP (IN of) (NP (DT the) (NN night))))))))))) (. .)))
+

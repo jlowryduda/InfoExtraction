@@ -1,0 +1,4 @@
+(S1 (S (NP (DT THE) (NP (NNP R.H.) (NNP MACY) (CC &) (NNP CO) (. .)) (NN department-store) (NN chain)) (VP (VBZ is) (RB n't) (PP (IN for) (NP (NN sale)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN yesterday) (POS 's)) (NN edition))) (, ,) (NP (PRP it)) (VP (VBD was) (VP (ADVP (RB incorrectly)) (VBN included) (SBAR (IN with) (S (NP (NP (DT a) (NN list)) (PP (IN of) (NP (NNP New) (NNP York)))) (VP (NNS chains) (PRT (RP up)) (PP (IN for) (NP (NN sale)))))))) (. .)))
+

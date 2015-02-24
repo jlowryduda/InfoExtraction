@@ -1,0 +1,216 @@
+(S1 (S (NP (DT The) (NNP Dallas) (NNPS Cowboys)) (VP (VBP are) (VP (VBG looking) (PP (IN at) (NP (DT a) (JJ long-yardage) (NN situation))) (, ,) (S (VP (VBG struggling) (S (VP (TO to) (VP (VB pull) (ADVP (RB ahead) (PP (IN of) (NP (DT the) (NNP Atlanta) (NNPS Falcons))))))))))) (. .)))
+
+(S1 (S (PP (IN Up) (PP (IN in) (NP (PRP$ his) (NN stadium) (NN box)))) (, ,) (NP (NP (PRP$ their) (JJ new) (CC and) (JJ controversial) (NN owner)) (, ,) (NP (JJ Jerral) (`` `) (NX (NP (`` `) (NP (NNP Jerry) (POS ')) (POS ')) (NNP Jones))) (, ,)) (VP (VBZ watches) (ADVP (RB anxiously)) (PP (IN as) (NP (NP (DT the) (NN team) (NNS bounds)) (ADVP (RB up) (PP (TO to) (NP (DT the) (NN scrimmage) (NN line))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Jones)) (VP (VBZ takes) (NP (NN heart))) (. .)))
+
+(S1 (S (NP (EX There) (PP (IN in) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NN pack)))))) (VP (VBZ is) (NP (NP (NN quarterback) (NNP Troy) (NNP Aikman)) (, ,) (NP (NP (DT the) (NN key)) (PP (TO to) (NP (NP (DT the) (NNPS Cowboys) (POS ')) (NN comeback) (NN strategy)))))) (. .)))
+
+(S1 (S (ADVP (RB So) (JJ key)) (, ,) (PP (IN in) (NP (NN fact))) (, ,) (NP (DT that) (NNP Mr.) (NNP Jones)) (VP (VP (VBD signed) (NP (PRP him)) (PP (IN in) (NP (NNP April))) (PP (IN for) (NP (NP (QP ($ $) (CD 11.4) (CD million))) (PP (IN over) (NP (DT the) (JJ next) (CD six) (NNS years)))))) (: --) (NP (NP (DT a) (NN record)) (PP (IN for) (NP (DT a) (NN rookie))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP He)) (VP (VBZ 's) (NP (DT a) (JJ genuine) (JJ Wheaties-box) (NN athlete))) (, ,) ('' ')) ('' ') (VP (VBZ gushes)) (NP (NNP Mr.) (NNP Jones)) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (CD three) (NNS minutes)) (VP (VBN left) (PP (IN on) (NP (DT the) (NN clock)))))) (, ,) (NP (NNP Mr.) (NNP Aikman)) (VP (VP (VBZ takes) (NP (DT the) (NN snap))) (, ,) (VP (VBZ steps) (ADVP (RB back))) (CC and) (VP (VBZ fires) (NP (DT a) (JJ 21-yard) (NN pass)) (: --) (PP (ADVP (RB straight)) (IN into) (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (DT an) (NNP Atlanta) (NN defensive))))) (ADVP (RB back)))) (. .)))
+
+(S1 (S (NP (DT The) (NN crowd)) (VP (VBZ groans) (PRN (, ,) (S (NP (NNP Mr.) (NNP Jones)) (VP (VBZ shakes) (NP (PRP$ his) (NN head)))) (, ,)) (S (NP (DT the) (NNPS Cowboys)) (VP (VB lose) (NP (DT the) (NN game))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ few) (NNS days)) (PP (IN after) (NP (DT that) (NAC (NNP Sept.) (CD 17)) (NN game)))) (, ,) (NP (NNP Mr.) (NNP Aikman)) (VP (VBD broke) (NP (DT a) (NN finger)) (, ,) (S (VP (VBG sidelining) (NP (PRP him)) (PP (IN for) (NP (NNS weeks)))))) (. .)))
+
+(S1 (FRAG (INTJ (UH Ah)) (, ,) (NP (NP (DT the) (NN glamour)) (PP (IN of) (NP (JJ professional) (NNS sports)))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NNP Mr.) (NNP Jones))) (, ,) (S (VP (VBG losing) (NP (PRP$ his) (NN quarterback)) (ADVP (RB temporarily)))) (VP (VBD was) (NP (NP (NP (RB just) (DT the) (JJS latest)) (PP (IN in) (NP (NP (DT a) (NN string)) (PP (IN of) (NP (NP (NNS setbacks)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN beset) (S (NP (DT the) (NNP Dallas) (NNPS Cowboys)))))))))))) (: --) (CC and) (PRN (, ,) (NP (DT this) (NN year)) (, ,)) (NP (NP (JJ much)) (PP (IN of) (NP (DT the) (NNP National) (NNP Football) (NNP League)))))) (. .)))
+
+(S1 (S (S (ADVP (RB Once)) (ADJP (JJ fat) (CC and) (JJ happy))) (, ,) (NP (DT the) (NNPS Cowboys)) (ADVP (RB now)) (VP (VBP are) (VP (VBG losing) (NP (NNS games) (, ,) (NNS fans) (CC and) (NN money)))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (DT the) (NN team)) (VP (VBD ended) (ADVP (RB up) (NP (NP (QP ($ $) (CD 2) (CD million))) (PP (IN in) (NP (DT the) (NN red))))) (PP (IN on) (NP (NP (QP ($ $) (CD 30) (CD million))) (PP (IN in) (NP (NN revenue)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ has) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (JJS highest) (NNS costs)) (PP (IN in) (NP (DT the) (NN league))))))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NN attendance)) (VP (VBZ is) (ADVP (IN off) (NP (CD 23) (NN %)) (PP (IN from) (ADVP (NP (CD six) (NNS years)) (RB ago))))) (. .)))
+
+(S1 (S (S (PP (IN At) (NP (DT the) (ADJP (RB very) (JJS least)))) (, ,) (NP (NP (NNP Mr.) (NNP Jones)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ cultivates) (NP (NP (DT the) (NN society) (NN circuit)) (CONJP (RB as) (RB eagerly) (IN as)) (NP (PRP$ his) (NN bench)))))) (, ,)) (VP (MD can) (VP (VB take) (NP (NN comfort)) (PP (IN in) (NP (CD one) (NN fact))) (: :) (NP (DT These) (NNS days))))) (, ,) (NP (PRP he)) (VP (VBZ is) (RB n't) (ADJP (RB alone))) (. .)))
+
+(S1 (S (NP (NP (RB Nearly) (PDT half) (DT the) (NNS owners)) (PP (IN of) (NP (DT the) (CD 28) (NNP National) (NNP Football) (NNP League)))) (NP (NNS teams)) (VP (VBP are) (VP (VBG losing) (NP (NP (NN money)) (, ,) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (JJ flat) (NN attendance)))) (, ,) (NP (VBG aging) (NNS stadiums)) (CC and) (PRN (: --) (NP (QP (JJR more) (IN than) (NN anything))) (: --)) (NP (VBG skyrocketing) (NNS salaries))) (PP (IN for) (NP (NP (JJ star) (NNS players)) (PP (IN like) (NP (NNP Mr.) (NNP Aikman))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (NP (DT the) (JJ top) (CD 12) (NNS players)) (PP (IN on) (NP (DT each) (NNP NFL) (NN team)))) (VP (VBD took) (ADVP (NN home)) (NP (NP (DT an) (JJ average) ($ $) (CD 536,000)) (, ,) (NP (NP (DT a) (NN figure)) (ADJP (ADJP (JJ comparable) (PP (TO to) (NP (NN baseball)))) (CC and) (ADJP (ADJP (JJR higher)) (PP (IN than) (PP (IN in) (NP (NN basketball))))))))) (. .)))
+
+(S1 (S (S (NP (JJ First-round) (NN draft) (NNS picks)) (VP (VBP have) (VP (VBN done) (ADJP (RB even) (JJR better))))) (: :) (S (NP (NP (JJ Average) (NNS salaries) (CC and) (NNS bonuses)) (PP (IN for) (NP (PRP them)))) (VP (VBD rose) (PP (TO to) (NP (NP ($ $) (CD 685,000)) (NP (DT this) (NN year)))) (, ,) (ADVP (RB up) (NP (CD 44) (NN %)) (PP (IN from) (NP (CD 1987)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (JJ vicious) (NN circle)))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Art) (NNP Modell)) (, ,) (NP (NP (NN owner)) (PP (IN of) (NP (DT the) (NNP Cleveland) (NNP Browns))))) (. .)))
+
+(S1 (S (`` `) (S (NP (`` `) (CD One) (NN team)) (VP (VBZ pays) (ADVP (RB so) (RB much)))) (CC and) (S (NP (DT the) (JJ other)) (VP (VBZ pays) (NP (JJR more)))) (. .)))
+
+(S1 (S (NP (PRP We)) (ADVP (RB just)) (VP (VBP do) (RB n't) (VP (VB have) (NP (NP (DT that) (NN kind)) (PP (IN of) (NP (NN income) (NN stream)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PDT All) (DT this)) (VP (VBZ is) (VP (VBG causing) (NP (NNS convulsions)) (PP (IN in) (NP (JJ professional) (NN football))))) (. .)))
+
+(S1 (S (NP (NNS Owners)) (, ,) (S (ADJP (RB largely) (JJ complacent)) (PP (IN in) (NP (DT the) (NN past)))) (, ,) (VP (VBP are) (ADVP (RB now)) (VP (VP (ADVP (RB almost) (RB desperately)) (VBG looking) (PP (IN for) (NP (NP (NNS ways)) (SBAR (S (VP (TO to) (VP (VP (VB lower) (NP (NNS costs))) (CC and) (VP (VB raise) (NP (NN revenue)))))))))) (: --) (VP (VBG embracing) (NP (NP (DT some) (JJ revolutionary) (NNS ideas)) (PP (IN in) (NP (DT the) (NN process))))))) (. .)))
+
+(S1 (S (SBAR (IN Though) (FRAG (RB not) (ADVP (RB intentionally)))) (, ,) (NP (NP (DT the) (NNPS Cowboys) (POS ')) (NNP Mr.) (NNP Jones)) (VP (VBZ has) (VP (VBN come) (S (VP (TO to) (VP (VB represent) (NP (NP (DT this) (JJ new) (NN breed)) (PP (IN of) (NP (NN owner))))))))) (. .)))
+
+(S1 (S (PP (ADVP (RB Shortly)) (IN after) (S (VP (VBG buying) (NP (NP (CD 66) (NN %)) (PP (IN of) (NP (DT the) (NN team)))) (PP (IN from) (NP (NP (NP (NNP H.R.)) (NP (`` `) (NP (`` `) (NP (NNP Bum) (POS ')) ('' ') (PP (JJ Bright) (IN for) (NP (QP ($ $) (CD 145) (CD million))))) (, ,) (CC and) (NP (JJ mindful)))) (PP (IN of) (NP (NP (DT the) (NNPS Cowboys) (POS ')) (JJ ragged) (NN bottom) (NN line)))))))) (, ,) (NP (DT the) (JJ 47-year-old) (NNP Mr.) (NNP Jones)) (VP (VBD set) (PRT (RP about)) (NP (NP (PRP$ his) (JJ own) (NN round)) (PP (IN of) (NP (NN team) (NNS cuts))))) (. .)))
+
+(S1 (S (ADVP (RB First)) (, ,) (NP (PRP he)) (ADVP (RB unceremoniously)) (VP (VBD sacked) (NP (NP (NNP Tom) (NNP Landry)) (, ,) (NP (NP (DT the) (JJ legendary) (NN coach)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (DT the) (NNPS Cowboys)) (PP (TO to) (NP (CD five))) (SBAR (S (NP (NNP Super)) (VP (VBZ Bowls)))))))) (CC and) (NP (CD 20) (JJ consecutive) (NN winning) (NNS seasons)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Dallas))) (, ,) (NP (NNP Mr.) (NNP Landry)) (VP (VBZ has) (NP (NP (DT a) (NN standing)) (ADJP (RB just) (JJ shy)) (PP (IN of) (NP (NN sainthood))))) (. .)))
+
+(S1 (S (NP (NP (JJ Anti-Jones) (NN sentiment)) (VP (VBN flooded) (FRAG (NP (DT the) (JJ local) (NN press)) (: :) (S (`` `) (NP (`` `) (NP (DT A) (JJ crude) (JJ obnoxious) (NN hick)) (, ,) ('' ')) ('' ') (VP (VBD said) (NP (CD one) (NN writer)))) (PRN (: ;) (S (NP (`` `) (NP (`` `) (NP (DT a) (JJ real) (NN oink)) (, ,) ('' ')) ('' ')) (VP (VBD said) (NP (DT another)))) (: ;)) (`` `) (`` `) (WP Who) (IN in) (S (NP (DT the) (NN hell)) (VP (VBZ does) (SBAR (S (NP (PRP he)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (VBZ is))))))))) (. ?) ('' ')) ('' '))) (VP (VBD wrote) (NP (DT a) (JJ third))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NNP Mr.) (NNP Jones))) (, ,) (NP (PRP it)) (VP (VBD was) (NP (RB just) (DT the) (NN beginning))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB quickly)) (VP (VP (VBD cut) (NP (NP (DT the) (NN team) (POS 's)) (JJ bloated) (JJ administrative) (NN staff)) (PP (IN by) (NP (NN half)))) (, ,) (VP (VBD shut) (PRT (RP down)) (NP (DT a) (JJ Cowboys-owned) (NN dance) (NN academy))) (CC and) (PRN (, ,) (PP (IN in) (NP (NNP July))) (, ,)) (VP (VBD announced) (NP (NNS plans) (S (VP (TO to) (VP (VB sell) (NP (NP (NNP Valley) (NNP Ranch)) (, ,) (NP (NP (NP (DT the) (NN team) (POS 's)) (JJ 30-acre) (NN practice) (NN camp)) (CC and) (NP (NP (DT the) (RBS most) (JJ lavish) (NN training) (NN facility)) (PP (IN in) (NP (DT the) (NNP NFL)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Jones)) (VP (VBZ calls) (S (NP (DT the) (NN ranch)) (`` `) (NP (`` `) (NP (DT the) (NNP Pentagon)) (PP (IN of) (NP (NNP Sportdom)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (NN maze)) (PP (IN of) (NP (NNS halls))) (SBAR (WHNP (WDT that)) (S (VP (VBZ connects) (NP (NP (NN film) (NNS rooms)) (, ,) (NP (JJ elaborate) (NNS spas)) (CC and) (NP (JJ weight-training) (NNS centers))) (SBAR (IN that) (S (VP (VB testify) (PP (TO to) (NP (DT a) (JJR richer) (, ,) (ADJP (RBR more) (JJ free-spending)) (NN era))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ likes) (S (VP (TO to) (VP (VB tell) (NP (NP (DT the) (NN yarn)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (PRP he)) (VP (VP (VBD got) (VP (VBN lost) (PP (IN on) (NP (DT the) (JJ expansive) (NN ranch))) (PP (IN during) (NP (DT an) (JJ early) (NN visit))))) (, ,) (VP (VBD took) (NP (NN refuge)) (PP (IN in) (NP (DT an) (NN office)))) (CC and) (VP (VBD called) (NP (DT the) (JJ front) (NN desk)) (PP (IN for) (NP (NN help))))))))))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP I)) (VP (VBD said) (, ,) (`` `) (S (NP (NN Somebody)) (VP (VB come) (VP (VB get) (NP (PRP me))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (PP (IN at) (NP (NN extension) (CD 29)))) (. .) ('' ') ('' ') ('' ')))
+
+(S1 (S (PP (IN With) (NP (NP (DT a) (JJ new) (NN day)) (VP (VBG dawning) (PP (IN on) (NP (DT the) (NN sport)))))) (, ,) (NP (NNP Mr.) (NNP Jones)) (VP (VBZ does) (RB n't) (VP (VB see) (NP (NP (DT a) (NN place)) (PP (IN for) (NP (NP (DT this) (NN sort)) (PP (IN of) (NP (NN luxury)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (RB not) (ADJP (NN cost) (JJ efficient)))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (DT The) (NN place)) (VP (VBZ costs) (NP (NP (QP (RB nearly) ($ $) (CD 2) (CD million))) (NP (DT a) (NN year))) (S (VP (TO to) (VP (VB maintain))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP he)) (VP (VBZ sells) (NP (PRP it))))) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ says))) (, ,)) (NP (DT the) (NNPS Cowboys)) (VP (MD will) (VP (VB move) (PP (TO to) (NP (NP (DT a) (ADJP (ADJP (RBR more) (JJ practical)) (PRN (: --) (ADVP (VB read) (JJ affordable)) (: --))) (NN grass) (NN practice) (NN field)) (PP (IN near) (NP (NNP Texas) (NNP Stadium))))))) (. .)))
+
+(S1 (S (CC And) (PP (IN as) (PP (IN for) (NP (NNP Tom) (NNP Landry)))) (, ,) (INTJ (UH well)) (, ,) (PP (IN in) (NP (NP (NNP Mr.) (NNP Jones) (POS 's)) (NN mind))) (, ,) (NP (PRP he)) (VP (VBD had) (VP (VBN played) (PP (IN out) (NP (PRP$ his) (VBG winning) (NNS years))))) (. .)))
+
+(S1 (S (S (PP (IN After) (S (VP (VBG posting) (NP (NP (VBG losing) (NNS seasons)) (PP (IN in) (NP (NP (DT each)) (PP (IN of) (NP (DT the) (JJ last) (CD three) (NNS years))))))))) (, ,) (NP (DT the) (NNPS Cowboys)) (VP (VBD needed) (NP (DT a) (NN change)))) (, ,) (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NN Football)) (VP (VBZ has) (ADVP (RB long)) (VP (VBN been) (NP (NP (NNP Mr.) (NNP Jones) (POS 's)) (NN passion)) (, ,) (PP (DT both) (IN on) (CC and) (IN off) (NP (DT the) (NN field))))) (. .)))
+
+(S1 (S (S (NP (DT An) (NNP Arkansas) (NN native))) (, ,) (NP (PRP he)) (VP (VBD started) (PP (IN at) (NP (NN guard))) (PP (IN on) (NP (DT the) (JJ undefeated) (CD 1964))) (NP (NP (NAC (NNP University) (PP (IN of) (NP (NNP Arkansas)))) (NN team)) (SBAR (WHNP (WDT that)) (S (VP (VBD won) (NP (DT a) (JJ national) (NN championship))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NN college))) (, ,) (NP (PRP he)) (VP (VP (VBD worked) (PP (IN at) (NP (NP (PRP$ his) (NN father) (POS 's)) (NN insurance) (NN company))) (PP (IN in) (NP (NNP Little) (NNP Rock)))) (, ,) (CC and) (VP (PP (IN in) (NP (CD 1966))) (VBD led) (NP (DT an) (JJ aborted) (NN attempt) (S (VP (TO to) (VP (VB buy) (NP (DT the) (NNP San) (NNP Diego) (NNP Chargers)))))))) (. .)))
+
+(S1 (S (ADVP (NP (NNS Years)) (RB later)) (, ,) (SBAR (IN with) (S (VP (NN cash) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (DT the) (NN insurance) (NN company)))))))) (, ,) (NP (PRP he)) (VP (VBD founded) (NP (NP (NNP Arkoma) (NNP Production) (NNP Corp.)) (, ,) (NP (NP (DT an) (NN oil) (CC and) (NN gas) (NN exploration) (NN company)) (VP (VBN based) (PP (IN in) (NP (NNP Little) (NNP Rock))))))) (. .)))
+
+(S1 (S (RB So) (NP (PRP it)) (VP (VBD was) (RB n't) (ADJP (JJ surprising) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Jones)) (VP (VBD returned) (PP (TO to) (NP (PRP$ his) (NNP Arkansas) (NNS roots))))))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD went) (VP (VBG looking) (PP (IN for) (NP (NP (DT a) (NN replacement)) (PP (IN for) (NP (NNP Mr.) (NNP Landry)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD tapped) (NP (NP (NNP Jimmy) (NNP Johnson)) (, ,) (NP (NP (NP (DT a) (NN teammate)) (PP (IN on) (NP (DT the) (CD 1964) (NAC (NNP University) (PP (IN of) (NP (NNP Arkansas)))) (NN squad)))) (CC and) (NP (NP (DT the) (JJ head) (NN coach)) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NP (NNP Miami)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD led) (NP (DT the) (NNS Hurricanes)) (PP (TO to) (NP (NP (CD five) (VBG winning) (NNS seasons)) (CC and) (NP (NP (DT a) (JJ national) (NN championship)) (PP (IN in) (NP (CD 1987))))))))))))))))) (. .)))
+
+(S1 (S (SBAR (WHNP (WDT Whatever)) (S (NP (NNP Mr.) (NNP Johnson)) (VP (VBZ 's) (NP (NP (NNS talents)) (, ,) (PP (IN in) (NP (NP (DT the) (NNS hearts) (CC and) (NNS minds)) (PP (IN of) (NP (JJ many) (NNP Dallas) (NNS fans))))))))) (, ,) (NP (PRP he)) (VP (VBZ is) (NP (DT no) (NNP Tom) (NNP Landry))) (. .)))
+
+(S1 (S (NP (NP (CD Seven) (NNS games)) (PRN (-LRB- -LRB-) (CC and) (, ,) (PP (IN after) (NP (NP (DT a) (NN loss)) (PP (TO to) (NP (DT the) (NNP Kansas) (NNP City) (NNPS Chiefs) (NN yesterday))))) (, ,) (NP (CD seven) (NNS losses)) (-RRB- -RRB-)) (PP (IN into) (NP (NP (DT the) (NN season)) (, ,) (NP (DT the) (`` `) (ADJP (`` `) (JJ new) ('' ')) ('' ') (NNP Cowboys))))) (VP (VBP are) (RB n't) (VP (VBG doing) (NP (NP (DT any) (JJR better)) (PP (IN than) (NP (DT the) (JJ old)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN fact))) (, ,) (NP (NP (DT the) (JJ last) (NN time)) (SBAR (S (NP (PRP they)) (VP (VBD played) (NP (DT this)) (ADVP (RB badly)))))) (VP (VP (VBD was) (PP (IN in) (NP (CD 1960)))) (, ,) (NP (PRP$ their) (VBG opening) (NN season))) (. .)))
+
+(S1 (S (NP (NP (NP (JJ Average) (NN attendance)) (PP (IN at) (NP (PRP$ their) (NNS games)))) (, ,) (NP (QP (IN about) (CD 49,000)) (JJ last) (NN year)) (, ,)) (VP (VBZ continues) (ADJP (JJ flat))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Jones)) (VP (VBZ is) (VP (VBG attacking) (NP (DT the) (NN problem)) (PP (IN on) (NP (JJ several) (NNS fronts))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ continues) (S (VP (TO to) (VP (NN reshuffle) (NP (DT the) (NN team)) (, ,) (S (VP (VBG trading) (VP (VBN famed) (VP (VBG running) (ADVP (ADVP (RB back) (NP (NNP Herschel) (NNP Walker)) (PP (TO to) (NP (DT the) (NNP Minnesota) (NNP Vikings)))) (NP (DT this) (NN month))) (PP (IN for) (NP (NP (DT a) (NN slew)) (PP (IN of) (NP (NP (NNS players)) (CC and) (NP (JJ future) (NN draft) (NNS picks)))))))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB try) (S (VP (TO to) (VP (VB draw) (NP (JJR more) (NNS fans)))))))) (, ,) (NP (PRP he)) (VP (VBZ has) (VP (VBN dropped) (NP (JJ end-zone) (NN ticket) (NNS prices)) (PP (IN from) (NP (QP ($ $) (CD 25) (TO to) ($ $) (CD 19)))))) (. .)))
+
+(S1 (S (S (CC But) (NP (DT the) (JJ general) (NN trend)) (, ,) (PP (VBN given) (NP (NP (VBG rising) (NNS costs)) (PP (IN in) (NP (DT the) (NN league))))) (, ,) (VP (VBZ has) (VP (VBN been) (S (VP (TO to) (VP (VB raise) (NP (NNS prices)))))))) (, ,) (CC and) (S (NP (NNP Mr.) (NNP Jones)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (ADVP (RB eventually)) (VB follow) (NP (NN suit)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ simple)))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Lamar) (NNP Hunt)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ owns) (NP (NP (DT the) (NNP Kansas) (NNP City) (NNPS Chiefs)) (CC and) (SBAR (S (NP (JJ last) (NN year)) (VP (VBD raised) (NP (NN ticket) (NNS prices)) (PP (IN by) (NP ($ $) (CD 2.40))) (PP (TO to) (NP (DT an) (JJ average) ($ $) (CD 17))))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (SBAR (IN If) (S (NP (PRP we)) (VP (VBD did) (RB n't) (VP (VB increase) (NP (NNS prices)))))) (, ,) (NP (PRP we)) (VP (MD 'd) (VP (VB be) (PP (IN in) (NP (DT the) (NN red))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Jones)) (VP (VBZ has) (ADVP (RB also)) (VP (VBD beefed) (PRT (RP up)) (NP (PRP$ his) (NN marketing) (NN staff)) (S (VP (TO to) (VP (VB sell) (NP (NP (DT the) (CD 118) (NN luxury) (NNS suites)) (VP (VBG topping) (NP (NP (NNP Texas) (NNP Stadium)) (PRN (-LRB- -LRB-) (NP (NP (PRP$ his) (NN deal)) (PP (IN with) (NP (NP (NNP Bum) (JJ Bright) (VBN included) (NN operating) (NNS rights)) (PP (IN for) (NP (DT the) (NN stadium)))))) (-RRB- -RRB-)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS suites)) (VP (VP (VBP are) (ADJP (JJ air-conditioned))) (, ,) (VP (VBP have) (NP (NP (JJ wet) (NNS bars)) (CC and) (NP (JJ plush) (NN seating)))) (, ,) (CC and) (VP (VBP offer) (NP (NP (NP (DT a) (JJ clear) (NN view)) (PP (IN of) (NP (DT the) (NN field)))) (: --) (NP (DT all))) (PP (IN for) (NP (NP (DT a) (NN sale) (NN price)) (PP (IN of) (NP (NP (QP ($ $) (CD 475,000) (TO to) ($ $) (CD 1) (CD million))) (, ,) (PP (VBG depending) (PP (IN on) (NP (PRP$ their) (NN size) (CC and) (NN location)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Jones)) (VP (VBZ has) (VP (VBN been) (VP (VBG taking) (NP (JJ prospective) (NN suite) (NNS owners)) (PP (IN onto) (NP (NP (DT the) (NN field)) (PP (IN during) (NP (NN practice))))) (S (VP (TO to) (VP (VB let) (NP (PRP them)) (VP (VBP rub) (NP (NP (NNS elbows)) (PP (IN with) (NP (NNS players))))) (, ,) (CC and) (VP (VBZ promises) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (ADVP (RB actually)) (VP (VBP buy) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS rooms)))) (NP (NP (NP (DT an) (NN insider) (POS 's)) (NN look)) (PP (IN at) (NP (NP (DT the) (NN team) (POS 's)) (NN strategy))))) (PP (IN before) (NP (NN game) (NN time)))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNS sales) (NN job)) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (VP (VBG paying) (PRT (RP off)))))))) (: :) (S (SBAR (WHADVP (WRB When)) (S (NP (PRP he)) (VP (VBD bought) (NP (DT the) (NN team))))) (, ,) (NP (NP (QP (RB only) (CD six))) (PP (IN of) (NP (DT the) (NNS suites)))) (VP (VBD had) (VP (VBN been) (VP (VBN sold))))) (. .)))
+
+(S1 (S (NP (NP (NN Today)) (, ,) (NP (CD 30))) (VP (VBP have)) (. .)))
+
+(S1 (S (NP (NN Gate) (NNS receipts)) (VP (VBP are) (ADVP (RB only)) (NP (NP (NP (DT the) (NNPS Cowboys) (POS ')) (JJ second) (JJS largest) (NN source)) (PP (IN of) (NP (NN cash))))) (. .)))
+
+(S1 (S (NP (DT The) (JJS biggest)) (VP (VBZ is) (NP (NP (NP (DT the) (NNP NFL) (POS 's)) (NN contract)) (PP (IN with) (NP (JJ national) (NN television))) (PP (IN for) (NP (NP (NN broadcast)) (PP (IN of) (NP (NP (DT the) (NN league) (POS 's)) (NNS games))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (NP (NP (DT the) (NNPS Cowboys) (POS ')) (NN share)) (PP (IN of) (NP (DT that) (NN pie)))) (VP (VBD came) (PP (TO to) (NP (QP ($ $) (CD 17.6) (CD million))))) (. .)))
+
+(S1 (S (NP (DT The) (NN team)) (ADVP (RB additionally)) (VP (VBZ earns) (NP (NP (QP (IN between) ($ $) (CD 2) (CD million))) (CC and) (NP (NP (QP ($ $) (CD 4) (CD million))) (PP (IN for) (NP (JJ local) (NN radio) (CC and) (NN television) (NN broadcast) (NNS rights)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Jones)) (VP (VBZ is) (ADVP (RB currently)) (VP (VBG trying) (S (VP (TO to) (VP (NN jack) (PRT (RP up)) (NP (NP (DT the) (NN price)) (PP (IN for) (NP (DT those) (JJ local) (NNS rights))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ is) (ADVP (RB also)) (VP (VBG trying) (S (VP (TO to) (VP (VB get) (NP (NP (JJR more) (NNS stations)) (PP (IN in) (NP (NP (NNP Mexico)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNPS Cowboys)) (VP (VBP have) (NP (DT a) (NN following)) (, ,) (S (VP (TO to) (VP (VB pick) (PRT (RP up)) (NP (DT the) (NNS games)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Jones)) (, ,) (SBAR (WHNP (WP$ whose) (JJ twangy) (NN voice) (CC and) (NN folksy) (NNS ways)) (S (VP (VB belie) (NP (NP (DT an) (JJ intense) (NN businessman)) (SBAR (WHNP (WP who)) (S (VP (VBZ works) (NP (JJ 16-hour) (NNS days))))))))) (, ,)) (VP (VBZ is) (VP (VBN resigned) (PP (TO to) (NP (NP (DT the) (JJ hefty) (NNS salaries)) (SBAR (S (NP (PRP he)) (VP (VBZ pays) (NP (PRP$ his) (NNS players)) (NP (DT these) (NNS days))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBZ calls) (S (NP (DT the) (NNS contracts)) (`` `) (ADJP (`` `) (JJ critical) (PP (TO to) (S (VP (VBG winning) (PP (IN in) (NP (DT the) (NNP NFL) (POS '))))))) ('' '))) (CC and) (VP (VBZ has) (VP (VBN played) (NP (NP (PRP$ his) (NN part)) (PP (IN in) (NP (DT the) (NN bidding) (NNS wars))))))) (. .)))
+
+(S1 (S (PP (IN Besides) (S (VP (VBG signing) (NP (NNP Mr.) (NNP Aikman)) (PP (TO to) (NP (DT a) (JJ sizable) (NN contract)))))) (, ,) (NP (NNP Mr.) (NNP Jones)) (VP (VBZ has) (VP (VBN agreed) (S (VP (TO to) (VP (VB pay) (NP (NN rookie) (NN quarterback) (NNP Steve) (NNP Walsh)) (NP (QP ($ $) (CD 4.1) (CD million))) (PP (IN over) (NP (DT the) (JJ next) (CD four) (NNS years)))))))) (. .)))
+
+(S1 (S (S (NP (DT This) (NN wage) (NN inflation)) (VP (VBZ is) (VP (VBG bleeding) (S (NP (DT the) (NNP NFL)) (ADJP (JJ dry)))))) (, ,) (NP (DT the) (NNS owners)) (VP (VBP contend)) (. .)))
+
+(S1 (SINV (S (ADVP (RB Soon)) (, ,) (NP (RB only) (JJ large) (NNS corporations)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB afford) (S (VP (TO to) (VP (VB buy) (CC and) (VB run) (NP (NN football) (NNS teams)))))))))))) (, ,) (VP (VBZ predicts)) (NP (NP (NNP John) (NNP J.) (NNP Veatch) (NNP Jr.)) (, ,) (NP (NP (DT an) (NN investment) (NN banker)) (PP (IN with) (NP (NNP Salomon) (NNP Brothers))) (SBAR (WHNP (WP who)) (S (VP (VBD handled) (NP (DT the) (NNP Cowboys) (NN sale))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB tackle) (NP (DT the) (NN problem))))) (, ,) (NP (NNP NFL) (NNS owners)) (VP (VBP have) (VP (VBN proposed) (VP (VBG setting) (NP (DT a) (NN rookie) (NN wage) (NN scale)) (S (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VB rein) (PRT (RP in)) (NP (NNS salaries))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Details)) (PP (IN of) (NP (NP (DT the) (NN plan)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD would) (VP (VB go) (PP (IN into) (NP (NN effect))) (PP (IN in) (NP (CD 1993))))))) (, ,)))) (VP (VBP are) (ADJP (JJ sketchy)))) (, ,) (CC but) (S (NP (DT each) (NN player)) (VP (MD would) (ADVP (RB apparently)) (VP (VB be) (VP (VBN paid) (NP (NP (DT a) (NN base) (NN salary)) (ADJP (JJ keyed) (PP (TO to) (NP (NP (PRP$ his) (NN position)) (CC and) (NP (NN ability)))))))))) (. .)))
+
+(S1 (S (NP (NNS Bonuses)) (VP (MD would) (VP (VB be) (VP (VBN paid) (PP (VBN based) (PP (IN on) (NP (NN playing) (NN time) (CC and) (NN performance))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP NFL) (NNS Players) (NN Association)) (, ,) (ADVP (RB meanwhile)) (, ,) (VP (VBZ contends) (SBAR (SBAR (IN that) (S (NP (NNS athletes)) (VP (VBP are) (VP (VBN paid) (NP (NP (DT a) (NN wage) (NN commensurate)) (PP (IN with) (NP (PRP$ their) (NN ability) (S (VP (TO to) (VP (VB draw) (NP (NNS fans)))))))))))) (, ,) (CC and) (SBAR (IN that) (S (NP (DT some) (NNS owners)) (VP (VBP are) (PP (IN in) (NP (JJ financial) (NN trouble))) (PP (IN because) (IN of) (NP (NP (JJ poor) (NN business) (NN management)) (, ,) (RB not) (NP (NP (NNS players) (POS ')) (NNS salaries))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS owners)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB boost) (NP (NP (NN profit)) (PP (IN in) (NP (JJ other) (NNS ways))) (, ,) (ADVP (RB too)))))))) (. .)))
+
+(S1 (S (NP (JJ Many)) (VP (VP (VBP have) (VP (VBN launched) (NP (NNS promotions) (S (VP (TO to) (VP (VB attract) (NP (JJ new) (NNS fans)))))))) (CC and) (VP (VBP are) (VP (VBG renegotiating) (NP (VBN dated) (NN stadium) (NNS contracts))))) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NNS owners)))) (VP (MD must) (VP (VB pay) (NP (NP (QP (RP up) (TO to) (CD 10)) (NN %)) (PP (IN of) (NP (JJ gross) (NN ticket) (NNS sales)))) (PP (IN for) (NP (NP (NNS leases)) (PP (IN on) (NP (NP (NNS stadiums)) (SBAR (S (NP (PRP they)) (VP (VBP say) (SBAR (S (VP (VBP are) (ADVP (RB either)) (ADJP (ADJP (RB too) (JJ small)) (CC or) (ADJP (RB too) (JJ old))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Chicago))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NN size)) (VP (VBZ is) (NP (DT the) (NN issue))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP have) (NP (NP (DT the) (JJS worst) (NN lease)) (PP (IN in) (NP (DT the) (NNP NFL))))) (, ,) ('' ')) ('' ') (VP (VBZ contends)) (NP (NP (NNP Michael) (NNP B.) (NNP McCaskey)) (, ,) (NP (NP (NP (NP (DT the) (NN president)) (PP (IN of) (NP (DT the) (NNP Chicago) (NNPS Bears)))) (CC and) (NP (DT a) (NN grandson))) (PP (IN of) (NP (NP (NNP George) (NNP Halas)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD founded) (NP (NP (DT the) (NNP NFL) (POS 's)) (NN predecessor) (NN organization))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 're) (PP (IN in) (NP (NP (DT a) (NN metro) (NN area)) (PP (IN with) (NP (NP (NNS millions)) (PP (IN of) (NP (NNP Bear) (NNS fans))))))))) (, ,) (CC and) (S (NP (RB only) (DT a) (JJ small) (NN number)) (VP (MD can) (VP (VB be) (VP (VBN accommodated))))) (. .) ('' ') ('' ')))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN lease)) (VP (VBZ expires) (PP (IN in) (NP (CD 1999)))))) (, ,) (NP (PRP he)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (VP (VBN got) (S (VP (TO to) (VP (VB be) (VP (VBN changed))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT This) (NN year)) (, ,) (NP (DT the) (NNP NFL)) (ADVP (RB also)) (VP (VBD imposed) (NP (DT an) (NN 80-player) (NN limit)) (PP (IN on) (S (NP (NNS teams)) (VP (VBG going) (PP (IN into) (NP (NN training) (NN camp)))))) (, ,) (ADVP (RB down) (PP (IN from) (NP (CD 120)))) (, ,) (PP (IN in) (NP (NP (DT a) (NN move)) (VP (VBN meant) (S (VP (TO to) (VP (VB trim) (NP (NN payroll) (NNS costs))))))))) (. .)))
+
+(S1 (S (CC And) (NP (DT the) (NN league)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB get) (NP (NP (JJR more)) (PP (IN for) (NP (NP (PRP$ its) (JJ three-year) (JJ national) (NN network) (NN contract)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ expires) (PP (IN after) (NP (DT this) (NN season)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ current) (NN contract)) (VP (VBZ pays) (NP (NP (DT the) (NNP NFL)) (ADJP (QP ($ $) (CD 1.4) (CD billion))))) (. .)))
+
+(S1 (S (NP (NNS Owners)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP expect) (S (NP (DT the) (NN league)) (VP (TO to) (VP (VB demand) (NP (DT a) (ADJP (CD 50) (NN %)) (NN increase))))) (, ,) (PP (IN despite) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (VBN televised) (NN football) (NNS games)) (VP (VBP have) (VP (VBN had) (NP (JJ lackluster) (NNS ratings)))))))))))) (. .)))
+
+(S1 (S (NP (DT An) (NNP NFL) (NN spokesman)) (ADVP (RB also)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN league)) (VP (MD will) (ADVP (RB probably)) (VP (VB expand) (NP (PRP$ its) (NNS offerings)) (PP (TO to) (NP (NP (NN cable) (NN TV) (NNS companies)) (PP (IN like) (NP (NNP ESPN)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS changes)) (VP (VBP have) (RB n't) (VP (VB come) (ADVP (RB easy)))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (NP (DT the) (NN game)) (PP (IN of) (NP (JJ professional) (NN football))))) (, ,) (NP (NP (DT the) (NNP NFL) (NN organization)) (NP (PRP itself))) (VP (VBZ is) (PP (IN in) (NP (NN turmoil)))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (JJ new) (NN breed)) (PP (IN of) (NP (NN team) (NN owner)))) (PRN (, ,) (S (NP (NNP Mr.) (NNP Jones)) (VP (VBD included))) (, ,)) (VP (VBZ has) (VP (VBN been) (VP (VBG fighting) (NP (DT the) (NNP NFL) (NN bureaucracy)) (PP (IN for) (NP (NP (DT a) (JJR greater) (NN say)) (PP (IN in) (NP (NN league) (NNS affairs))))))))) (, ,) (CC and) (S (NP (DT the) (NN battle)) (VP (VBZ has) (VP (VBN produced) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (JJ organizational) (NN gridlock))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP July))) (, ,) (NP (NP (CD 11) (NNP NFL) (NNS owners)) (, ,) (NP (NP (RB almost) (DT all)) (PP (IN of) (NP (PRP them) (JJ new)))) (, ,)) (VP (VBD blocked) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB install) (NP (NNP Jim) (NNPS Finks)) (PP (IN as) (NP (NP (DT a) (NN replacement)) (PP (IN for) (S (VP (VBG retiring) (NP (NN league) (NN commissioner) (NNP Pete) (NNP Rozelle)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Finks)) (VP (VBZ is) (VP (VBN perceived) (PP (IN by) (NP (DT some) (NNS owners))) (PP (IN as) (NP (NP (DT a) (NN standard-bearer)) (PP (IN for) (NP (DT the) (NNP Old) (NNP Guard))))))) (. .)))
+
+(S1 (S (ADVP (RBR Earlier) (NP (DT this) (NN month))) (, ,) (NP (DT another) (NN effort) (S (VP (TO to) (VP (VB choose) (NP (DT a) (NN commissioner)))))) (VP (VBD failed)) (. .)))
+
+(S1 (S (NP (DT The) (NNS owners)) (VP (VBP meet) (ADVP (RB again)) (NP (NN tomorrow))) (. .)))
+
+(S1 (S (PP (IN For) (NP (PRP$ his) (NN part))) (, ,) (NP (NNP Jerry) (NNP Jones)) (VP (VBZ says) (SBAR (S (S (NP (PRP he)) (VP (VBZ 's) (PP (IN in) (NP (DT the) (NN business))) (PP (IN for) (NP (DT the) (JJ long) (NN haul))))) (, ,) (CC and) (S (NP (PRP$ his) (NN work) (NN style)) (VP (VBZ seems) (S (VP (TO to) (VP (VB support) (NP (DT that)))))))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (VP (VBZ puts) (PP (IN in) (NP (JJ busy) (JJ six-day) (NNS weeks))) (PRN (-LRB- -LRB-) (PP (VBG excluding) (NP (NN game) (NNS days))) (-RRB- -RRB-)))) (, ,) (CC and) (S (PP (IN on) (NP (CD one) (JJ recent) (NN afternoon))) (VP (VBD fielded) (NP (NP (NNS questions)) (, ,) (PP (IN in) (NP (NP (DT the) (NN course)) (PP (IN of) (NP (DT an) (NN hour))))) (, ,) (PP (IN from) (NP (NP (DT a) (NN TV) (NN producer)) (, ,) (NP (PRP$ his) (JJ luxury-suite) (NN marketing) (NN manager)) (, ,) (NP (DT a) (VBN disgruntled) (NN customer)) (CC and) (NP (NP (DT a) (NN roomful)) (PP (IN of) (NP (NNP Arkansas) (NNS reporters))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB keep) (NP (PRP$ his) (NN schedule)) (PP (IN on) (NP (NN track)))))) (, ,) (NP (PRP he)) (VP (VBZ flies) (S (NP (CD two) (JJ personal) (NNS secretaries)) (PP (IN in) (PP (IN from) (NP (NNP Little) (NNP Rock)))) (VP (TO to) (VP (VB augment) (NP (NP (PRP$ his) (NN staff)) (PP (IN in) (NP (NNP Dallas)))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD made) (NP (DT this) (NN investment))))) (, ,) (NP (PRP I)) (VP (VBD made) (NP (PRP it)) (PP (IN on) (NP (DT a) (NN lifetime) (NN basis))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ explains)) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP I)) (VP (VBP 'm) (RB not) (ADVP (RB here)) (S (VP (TO to) (VP (VB make) (NP (NN money)) (PP (IN by) (S (VP (VBG reselling) (NP (NP (DT the) (NN team)) (ADVP (RB later) (RB on))))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (DT the) (NNPS Cowboys)) (VP (MD may) (RB not) (VP (VB be) (NP (DT the) (JJS best) (NN investment)) (ADVP (RB now)))))) (, ,) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB accept) (SBAR (S (NP (PRP they)) (VP (MD ca) (RB n't) (VP (VB be) (PP (IN in) (NP (DT the) (NN future))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Besides)) (, ,) (PP (TO to) (NP (DT a) (JJ large) (NN extent))) (, ,) (NP (NNP Mr.) (NNP Jones)) (VP (MD may) (ADVP (RB already)) (VP (VB be) (VP (VBG getting) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ wants) (PP (IN out) (PP (IN of) (NP (DT the) (NN team)))) (, ,) (SBAR (RB even) (IN though) (S (NP (PRP it)) (VP (VBZ keeps) (S (VP (VBG losing)))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Owning) (NP (DT the) (NNPS Cowboys)))) (VP (VBZ has) (VP (VBN bought) (S (NP (PRP him)) (ADJP (JJ entree) (PP (TO to) (NP (NP (DT a) (JJ glitzy) (NN life)) (SBAR (WHNP (WDT that)) (S (NP (NP (NN drilling)) (PP (IN for) (NP (NP (NN oil)) (PP (IN in) (NP (NNP Arkansas)))))) (ADVP (RB just)) (VP (VBD did) (RB n't) (VP (VB provide))))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT the) (JJ new) (JJ private) (NN jet)) (, ,) (NP (NP (DT the) (NN platoon)) (PP (IN of) (NP (NNS assistants)))) (, ,) (NP (NP (NNS invitations)) (PP (TO to) (NP (DT the) (JJS best) (NNS parties)))) (, ,) (CC and) (NP (NN television) (NNS appearances))) (PP (IN on) (NP (NP (NNS shows)) (PP (JJ such) (IN as) (`` `) (NP (`` `) (NNP Prime) (NNP Time) (NNP Live)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (NP (DT A) (JJ few) (NNS weeks)) (RB ago)) (, ,) (NP (NNP Mr.) (NNP Jones)) (ADVP (RB even)) (VP (VBN entertained) (NP (NNP Elizabeth) (NNP Taylor)) (PP (IN in) (NP (PRP$ his) (JJ private) (NN suite))) (PP (IN at) (NP (NNP Texas) (NNP Stadium)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP You)) (VP (VBP 're) (PP (IN in) (NP (DT the) (JJ catbird) (NN seat))) (NP (DT every) (NN day)) (PP (IN in) (NP (DT this) (NN job)))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+

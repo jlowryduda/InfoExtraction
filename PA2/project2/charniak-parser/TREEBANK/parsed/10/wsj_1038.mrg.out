@@ -1,0 +1,16 @@
+(S1 (S (NP (NNP Benjamin) (NNP Franklin) (NNP Federal) (NNP Savings) (CC &) (NNP Loan) (NNP Association)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ plans) (S (VP (TO to) (VP (NN restructure) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (NP (DT a) (JJ third-quarter) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 7.7) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.01)) (NP (DT a) (NN share))))) (, ,) (VP (VBG reflecting) (NP (NP (DT an) (ADJP (QP ($ $) (CD 11) (CD million))) (NN addition)) (PP (TO to) (NP (JJ loan-loss) (NNS reserves)))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NAC (NNP Portland) (, ,) (NNP Ore.) (, ,)) (NN thrift)) (VP (VBD said) (SBAR (S (NP (DT the) (NN restructuring)) (VP (MD should) (VP (VB help) (S (NP (PRP it)) (VP (VB meet) (NP (JJ new) (NN capital) (NNS standards)) (PP (IN from) (NP (DT the) (NNP Financial) (NNP Institution)) (NP (NNP Reform) (, ,) (NNP Recovery) (CC and) (NNP Enforcement) (NNP Act)))))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (NN year)) (RB ago)) (, ,) (NP (NNP Benjamin) (NNP Franklin)) (VP (VBD had) (NP (NP (NN profit)) (PP (IN of) (NP (NP (QP ($ $) (CD 1.8) (CD million))) (, ,) (CC or) (NP (NP (CD 23) (NNS cents)) (NP (DT a) (NN share))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ over-the-counter) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NNP Benjamin) (NNP Franklin)) (VP (VBD rose) (NP (CD 25) (NNS cents)) (PP (TO to) (NP ($ $) (CD 4.25)))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN restructuring) (POS 's)) (JJ initial) (NN phase)) (VP (MD will) (VP (VB feature) (NP (NP (DT a) (JJ gradual) (NN reduction)) (PP (IN in) (NP (NNS assets) (CC and) (NN staff) (NNS positions))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN plan)) (VP (MD may) (VP (VB include) (S (VP (VP (VBG selling) (NP (NNS branches)) (, ,) (S (VP (VP (VBG consolidating) (CC or) (VBG eliminating) (NP (NNS departments))) (, ,) (CC and) (VP (VBG winding) (ADVP (RB down)))))) (CC or) (VP (VBG disposing) (PP (IN of) (NP (JJ unprofitable) (NNS units))) (PP (IN within) (NP (CD 18) (NNS months)))))))) (. .)))
+
+(S1 (S (ADVP (RB Initially)) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VP (VB close) (NP (PRP$ its) (JJ commercial) (NN real-estate) (NN lending) (NN division))) (, ,) (CC and) (VP (VB stop) (S (VP (VBG originating) (NP (JJ new) (NNS leases)) (PP (IN at) (NP (PRP$ its) (JJ commercial) (NN lease) (NN subsidiary))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Details)) (PP (IN of) (NP (DT the) (NN restructuring)))) (VP (MD wo) (RB n't) (VP (VB be) (VP (VBN made) (S (ADJP (JJ final)) (SBAR (IN until) (S (NP (NNS regulators)) (VP (VB approve) (NP (NP (DT the) (NNS regulations)) (VP (VBN mandated) (PP (IN by) (NP (DT the) (JJ new) (JJ federal) (NN act))))))))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+

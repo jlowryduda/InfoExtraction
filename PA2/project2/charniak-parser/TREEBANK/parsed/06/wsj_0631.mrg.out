@@ -1,0 +1,14 @@
+(S1 (S (NP (NP (NNP Finnair)) (, ,) (NP (NP (NNP Finland) (POS 's)) (JJ state-owned) (NN airline)) (, ,)) (VP (VP (VBD joined) (NP (NP (DT the) (NN wave)) (PP (IN of) (NP (JJ global) (NN airline) (NNS alliances))))) (CC and) (VP (VBD signed) (NP (NP (DT a) (JJ wide-ranging) (NN cooperation) (NN agreement)) (PP (IN with) (NP (JJ archrival) (NNP Scandinavian) (NNP Airlines) (NNP System)))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT the) (NN accord))) (, ,) (NP (NNP Finnair)) (VP (VBD agreed) (S (VP (TO to) (VP (VB coordinate) (NP (NP (NNS flights) (, ,) (NN marketing) (CC and) (JJ other) (NNS functions)) (PP (IN with) (NP (NP (NNP SAS)) (, ,) (NP (NP (DT the) (ADJP (CD 50) (NN %)) (JJ -state-owned) (NN airline)) (PP (IN of) (NP (NNP Denmark) (, ,) (NNP Norway) (CC and) (NNP Sweden))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN pact)) (ADVP (RB also)) (VP (VBZ calls) (PP (IN for) (NP (NP (NN coordination)) (PP (IN between) (NP (NP (NP (NNP Finnair) (CC and) (NNP Switzerland) (POS 's)) (JJ national) (NN carrier)) (, ,) (NP (NNP Swissair)) (, ,) (SBAR (WHPP (IN with) (WHNP (WDT which))) (S (NP (NNP SAS)) (VP (VBD entered) (NP (DT a) (JJ similar) (NN alliance)) (NP (JJ last) (NN month)))))))))) (. .)))
+
+(S1 (S (NP (NNP Finnair) (CC and) (NNP SAS)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP plan) (S (VP (TO to) (VP (VB swap) (NP (NP (NNS stakes)) (PP (IN in) (NP (DT each) (JJ other))))))))))) (. .)))
+
+(S1 (S (NP (DT Neither)) (VP (VBD disclosed) (NP (NP (NNS details)) (PP (VBG pending) (NP (NN board) (NNS meetings)))) (NP (JJ next) (NN month))) (. .)))
+
+(S1 (S (NP (NNS Officials)) (VP (VBD hinted) (, ,) (ADVP (RB however)) (, ,) (SBAR (IN that) (S (NP (NNP SAS)) (VP (MD would) (VP (VB take) (NP (NP (DT a) (NN stake)) (PP (IN of) (NP (QP (IN at) (JJS least) (CD 6)) (NN %))) (PP (IN in) (NP (NNP Finnair))) (, ,) (VP (VBN valued) (PP (IN at) (NP (QP (RB about) ($ $) (CD 40) (CD million)))) (PP (IN at) (NP (JJ current) (NN market) (NNS prices)))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Finnair)) (VP (MD would) (VP (VB receive) (NP (NP (NNP SAS) (NNS shares)) (VP (VBN valued) (PP (IN at) (NP (DT the) (JJ same) (NN amount)))))))) (, ,) (NP (NNS officials)) (VP (VBD said)) (. .)))
+

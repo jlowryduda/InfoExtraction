@@ -1,0 +1,6 @@
+(S1 (S (NP (NP (NNP NEWHALL) (NNP LAND)) (CC &) (NP (NN FARMING) (NNP Co.))) (, ,) (NP (NP (NNP Valencia)) (, ,) (NP (NNP Calif.)) (, ,)) (VP (VP (VBD announced) (NP (NP (DT a) (JJ 2-for-1) (NN split)) (PP (IN in) (NP (DT the) (JJ real) (NN estate)))) (NP (NP (JJ limited) (NN partnership) (POS 's)) (NNS units))) (CC and) (VP (VBD increased) (NP (PRP$ its) (JJ regular) (JJ quarterly) (NN cash) (NN distribution)) (NP (CD 33) (NN %)) (, ,) (PP (TO to) (NP (NP (CD 40) (NNS cents)) (NP (DT a) (NN unit)))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ real) (NN estate)) (NP (JJ limited) (NN partnership)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB pay) (NP (NP (DT a) (JJ special) (JJ year-end) (NN cash) (NN distribution)) (PP (IN of) (NP (NP (CD 10) (NNS cents)) (NP (DT a) (NN unit)))))))))) (. .)))
+
+(S1 (S (NP (DT Both) (NNS distributions)) (VP (VBP are) (ADJP (JJ payable) (NP (NNP Dec.) (CD 4)) (PP (TO to) (NP (NP (JJ limited) (NNS partners)) (PP (IN of) (NP (NP (NN record)) (NP (NNP Nov.) (CD 3)))))))) (. .)))
+

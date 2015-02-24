@@ -1,0 +1,42 @@
+(S1 (S (NP (NNP Arthur) (NNP Price)) (ADVP (RB abruptly)) (VP (VBD quit) (PP (IN as) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NNP MTM) (NNP Entertainment) (NNP Inc.)) (, ,) (NP (NP (DT a) (NNP Los) (NNP Angeles) (NN production) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN fallen) (PP (IN on) (NP (JJ hard) (NNS times))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Price)) (, ,) (ADJP (NP (CD 61) (NNS years)) (JJ old)) (, ,)) (ADVP (RB also)) (VP (VBD stepped) (ADVP (RB down) (PP (IN from) (NP (NP (DT the) (NN board)) (PP (IN of) (NP (NP (NNP TVS) (NNP Entertainment) (NNP PLC)) (, ,) (NP (NP (DT the) (JJ British) (NN TV) (NN company)) (SBAR (WHNP (WDT that)) (S (NP (JJ last) (NN year)) (VP (VBD bought) (NP (NP (NNP MTM)) (, ,) (NP (NP (NN producer)) (PP (IN of) (NP (NP (JJ such) (NN TV) (NNS programs)) (PP (IN as) (`` `) (NP (`` `) (NP (NNP Hill) (NNP Street) (NNPS Blues) (POS ')) ('' ') (CC and) (`` `) (S (`` `) (NP (DT The) (NNP Mary) (NNP Tyler) (NNP Moore) (NNP Show))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT A) (NNP TVS) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB know) (NP (NP (NNP Mr.) (NNP Price) (POS 's)) (NNS plans))))))) (. .)))
+
+(S1 (S (NP (NP (NNP James) (NNP Gatward)) (, ,) (NP (NP (NNP TVS) (POS 's)) (JJ chief) (NN executive)) (, ,)) (VP (VBD said) (PP (IN in) (NP (DT a) (NN statement))) (SBAR (IN that) (S (NP (PRP he)) (VP (MD will) (`` `) (VP (`` `) (VB assume) (NP (JJ overall) (NN responsibility) ('' ')) ('' ') (PP (IN for) (NP (NP (NNP MTM) (POS 's)) (NNS operations))) (SBAR (IN until) (S (NP (DT a) (NN successor)) (VP (VBZ is) (VP (VBN named)))))))))) (. .)))
+
+(S1 (S (NP (NN Industry) (NNS analysts)) (VP (VBD speculated) (SBAR (IN that) (S (NP (NP (NNP Mr.) (NNP Price) (POS 's)) (JJ sudden) (NN departure)) (VP (MD may) (VP (VB have) (VP (VBD stemmed) (PP (IN from) (NP (NP (NNS conflicts)) (PP (IN with) (NP (NNP Mr.) (NNP Gatward))))))))))) (. .)))
+
+(S1 (SINV (S (NP (NNP Mr.) (NNP Price)) (`` `) (VP (`` `) (VP (VBD wanted) (S (VP (TO to) (VP (VB run) (NP (DT the) (NNP MTM) (NN business) (POS ')))))) ('' ') (CC and) (VP (MD may) (VP (VB have) (VP (VBD regretted) (S (VP (VBG selling) (NP (DT the) (NN company)) (PP (TO to) (NP (NNS TVS)))))))))) (, ,) (VP (VBD suggested)) (NP (NP (NNP Charles) (NNP Denton)) (, ,) (NP (NP (VBG managing) (NN director)) (PP (IN of) (NP (NP (NNP Zenith) (NNP Productions)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NP (NNP Carlton) (NNPS Communications) (NNP PLC)) (, ,) (NP (NNP London))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Gatward)) (VP (VBD declined) (S (VP (TO to) (VP (VB comment)))))) (, ,) (CC and) (S (NP (NNP Mr.) (NNP Price)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN on) (NP (NNP Friday))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNS TVS) (NN statement))) (, ,) (NP (NNP Mr.) (NNP Price)) (VP (VP (VBD said) (SBAR (`` `) (S (`` `) (S (S (VP (VBG leaving) (NP (NNP MTM)))) (VP (VBD was) (NP (DT a) (ADJP (RB very) (JJ difficult)) (NN decision)))) (, ,) ('' ')) ('' '))) (CC but) (VP (VBD added) (SBAR (IN that) (FRAG (`` `) (`` `) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB now)) (NP (NP (NN time)) (PP (IN for) (NP (NP (DT a) (NN change)) (ADVP (RB ..)))))) (. .)) (. .) ('' '))))) ('' ')))
+
+(S1 (S (NP (NP (DT The) (ADJP (QP ($ $) (CD 320) (CD million))) (NN purchase)) (PP (IN of) (NP (NNP MTM)))) (VP (VBD represented) (NP (NP (DT an) (JJ audacious) (JJ international) (NN move)) (PP (IN for) (NP (NP (NNS TVS)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB then)) (VP (VBD was) (NP (NP (QP (RB about) (PDT half)) (DT the) (NNP U.S.) (NN concern) (POS 's)) (NN size))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (NN time))) (, ,) (NP (NNP Mr.) (NNP Gatward)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ his) (NN friendship)) (PP (IN with) (NP (NNP Mr.) (NNP Price)))) (VP (VBD had) (VP (VBN smoothed) (NP (NP (DT the) (NN way)) (PP (IN for) (NP (NP (PRP$ its) (NN link)) (PP (IN with) (NP (DT the) (JJ small) (JJ British) (NN company))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS TVS)) (VP (VBD stunned) (NP (NN industry) (NNS analysts)) (NP (JJ last) (NN month)) (PP (IN by) (S (VP (VBG disclosing) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD expected) (S (NP (NNP MTM)) (VP (TO to) (VP (VB post) (NP (NP (DT an) (NN operating) (NN loss)) (PP (IN for) (NP (DT this) (NN year)))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT that) (NN announcement))) (, ,) (NP (NNS TVS)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG trimming) (NP (NN production) (NN finance) (CC and) (VBG hiring)) (NP (DT a) (JJ new) (NNP U.S.) (NNS sales) (NN manager))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Gatward)) (VP (VBZ has) (VP (VBN spent) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NN time)) (PP (IN since) (NP (JJ late) (NNP September)))))) (PP (IN at) (NP (NP (NNP MTM) (POS 's)) (NN headquarters)))))) (: ;) (S (NP (PRP he)) (VP (VP (VBD eliminated) (NP (CD three) (NNS departments))) (CC and) (VP (VBD fired) (NP (CD six) (NNS executives)) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NNS TVS) (NN spokesman))))))) (. .)))
+
+(S1 (S (S (NP (JJ Further) (NN staff) (NNS cuts)) (VP (VBP are) (ADJP (JJ likely)))) (, ,) (NP (DT the) (NN spokesman)) (VP (VBD indicated)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (ADVP (RB Obviously)) (, ,) (NP (PRP we)) (VP (VBP are) (VP (VBG looking) (PP (IN at) (S (VP (VBG making) (NP (NP (NNS economies)) (PP (IN across) (NP (DT the) (NN board))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NNP TVS)) (VP (VBZ blames) (NP (NP (NNS difficulties)) (PP (IN in) (S (VP (VBG peddling) (NP (NP (NNS reruns)) (PP (IN of) (NP (NNP MTM) (NNS shows)))) (PP (TO to) (NP (NNP U.S.) (NNS broadcasters))))))) (PP (IN for) (NP (NP (DT the) (NNS problems)) (PP (IN at) (NP (NNP MTM)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN market)) (PP (IN for) (NP (NP (NNS reruns)) (VP (VBN sold) (PP (TO to) (NP (JJ local) (NNP U.S.) (NNS broadcasters))))))) (VP (VBZ has) (VP (VBN been) (ADJP (JJ weak)) (PP (IN for) (NP (DT the) (JJ past) (QP (CD three) (CC or) (CD four)) (NNS seasons))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Price)) (VP (VBD co-founded) (NP (NNP MTM)) (PP (IN in) (NP (CD 1969))) (PP (IN with) (NP (NP (NNP U.S.) (NN actress) (NNP Mary) (NNP Tyler) (NNP Moore)) (CC and) (NP (NP (NNP Grant) (NNP Tinker)) (, ,) (NP (PRP$ her) (NN then-husband)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Tinker)) (ADVP (RB later)) (VP (VBD left) (S (VP (TO to) (VP (VB become) (NP (NP (NN chairman)) (PP (IN of) (NP (NNP National) (NNP Broadcasting) (NNP Co)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP TVS) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (NNP Mr.) (NNP Price)) (ADVP (RB still)) (VP (VBZ holds) (NP (NP (RB about) (DT an) (ADJP (CD 8) (NN %)) (NNP TVS) (NN stake)) (, ,) (VP (VBN acquired) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NNP MTM) (NN acquisition))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ late) (NN trading))) (PP (IN on) (NP (NP (NNP London) (POS 's)) (NNP Stock) (NNP Exchange))) (NP (NNP Friday)) (, ,) (NP (NNP TVS) (NNS shares)) (VP (VBD rose) (NP (CD four) (NN pence)) (PP (TO to) (NP (NP (CD 195) (NNS pence)) (NP (DT a) (NN share))))) (. .)))
+

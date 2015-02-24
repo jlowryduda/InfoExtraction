@@ -1,0 +1,26 @@
+(S1 (S (PP (IN In) (NP (NP (DT a) (JJ possible) (NN prelude)) (PP (TO to) (NP (NP (DT the) (NN resumption)) (PP (IN of) (NP (NP (NNS talks)) (PP (IN between) (NP (NP (NNP Boeing) (NNP Co.)) (CC and) (NP (JJ striking) (NNS Machinists) (NN union)))))))))) (NP (NNS members)) (, ,) (NP (DT a) (JJ federal) (NN mediator)) (VP (VBD said) (SBAR (S (NP (NP (NNS representatives)) (PP (IN of) (NP (DT the) (CD two) (NNS sides)))) (VP (MD will) (VP (VB meet) (PP (IN with) (NP (PRP him))) (NP (NN tomorrow))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP It)) (VP (MD could) (VP (VB be) (NP (DT a) (JJ long) (NN meeting))))) (CC or) (S (NP (PRP it)) (VP (MD could) (VP (VB be) (NP (DT a) (JJ short) (CD one))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Doug) (NNP Hammond)) (, ,) (NP (NP (DT the) (NN mediator)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD called) (S (NP (DT the) (NN agreement)) (VP (TO to) (VP (VB meet) (NP (NP (DT a) (JJ first) (NN step)) (PP (IN toward) (NP (NP (DT a) (NN resumption)) (PP (IN of) (NP (NNS negotiations)))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 're) (ADJP (JJ encouraged)) (SBAR (IN that) (S (S (NP (NNS talks)) (VP (VBP are) (VP (VBN scheduled) (ADVP (RB again))))) (CC but) (S (PP (IN beyond) (NP (DT that))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN made) (NP (NP (DT no) (NN expression)) (PP (IN of) (NP (NNS expectations)))))))))) (, ,) ('' ')) ('' ') (NP (DT a) (NNP Boeing) (NN spokesman)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NNS Machinists) (NN union)) (VP (VBZ has) (VP (VBN rejected) (NP (NP (DT a) (JJ three-year) (NN contract) (NN offer)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB have) (VP (VBN provided) (NP (NP (NP (DT a) (ADJP (CD 10) (NN %)) (NN wage) (NN increase)) (PP (IN over) (NP (NP (DT the) (NN life)) (PP (IN of) (NP (DT the) (NN pact)))))) (, ,) (CC plus) (NP (DT some) (NNS bonuses))))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Currently)) (, ,) (NP (NP (JJ average) (NN pay)) (PP (IN for) (NP (NNS machinists)))) (VP (VBZ is) (NP (NP ($ $) (CD 13.39)) (NP (DT an) (NN hour))))) (, ,) (NP (NNP Boeing)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (ADVP (RB Now)) (IN in) (NP (PRP$ its) (JJ 13th) (NN day))) (, ,) (NP (DT the) (NN strike)) (VP (VP (VBZ has) (VP (VBN idled) (PP (IN about) (NP (CD 55,000) (NNS machinists))))) (CC and) (VP (VBZ has) (VP (VBN started) (S (VP (TO to) (VP (VB delay) (NP (NP (NN delivery)) (PP (IN of) (NP (DT some) (NNS jetliners)))))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (DT a) (NN strike) (NN fund)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 100) (CD million)))))) (, ,) (NP (DT the) (NN union)) (VP (VBD had) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBN prepared) (PP (IN for) (NP (DT a) (JJ long) (NN strike))))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (DT the) (JJ third) (NN week)) (PP (IN on) (NP (NN strike))))) (, ,) (NP (NN union) (NNS members)) (VP (MD will) (VP (VB begin) (S (VP (VBG receiving) (NP (NP ($ $) (CD 100)) (NP (DT a) (NN week))) (PP (IN from) (NP (DT the) (NN fund))))))) (. .)))
+
+(S1 (S (NP (NP (NN Work)) (PP (IN at) (NP (NNP Boeing)))) (VP (VBZ continues) (PP (IN with) (S (NP (NP (NNS supervisors)) (CC and) (NP (JJ other) (JJ non-striking) (NNS personnel))) (VP (VBG manning) (NP (DT the) (NNS lines)))))) (. .)))
+
+(S1 (S (S (CC And) (PP (IN at) (NP (NP (DT the) (NN company) (POS 's)) (NAC (NNP Wichita) (, ,) (NNP Kan.) (, ,)) (NN plant))) (, ,) (NP (NP (QP (RB about) (CD 2,400))) (PP (IN of) (NP (DT the) (CD 11,700) (NNS machinists)))) (ADVP (RB still)) (VP (VBP are) (VP (VBG working)))) (, ,) (NP (NNP Boeing)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN Under) (NP (NNP Kansas) (NN right-to-work) (NNS laws))) (, ,) (NP (NNS contracts)) (VP (MD can) (RB not) (VP (VB require) (S (NP (NNS workers)) (VP (TO to) (VP (VB be) (NP (NN union) (NNS members))))))) (. .)))
+
+(S1 (S (NP (NNP Boeing)) (VP (VBZ has) (VP (VBN declined) (S (VP (TO to) (VP (VB say) (SBAR (WHADVP (WRB how)) (S (NP (JJ many) (NNS employees)) (VP (VBP are) (VP (VBG working) (PP (IN at) (NP (PRP$ its) (JJ giant) (NAC (NNP Renton) (, ,) (NNP Wash.) (, ,)) (NN plant)))))))))))) (. .)))
+
+(S1 (S (NP (NN Union) (NNS officials)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (NN comment)))))) (. .)))
+

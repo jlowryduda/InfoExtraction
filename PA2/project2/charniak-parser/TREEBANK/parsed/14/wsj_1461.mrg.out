@@ -1,0 +1,18 @@
+(S1 (S (NP (NNP Chicago) (NNS businessmen)) (NP (NP (NNP Bertram) (NNP M.) (NNP Lee)) (CC and) (NP (NNP Peter) (NNP Bynoe))) (VP (VBD signed) (NP (DT a) (JJ new) (NN agreement) (S (VP (TO to) (VP (VB purchase) (NP (DT the) (NNP Denver) (NNP Nuggets) (NN basketball) (NN team)) (, ,) (FRAG (CC but) (RB not) (PP (IN as) (NP (JJ principal) (NNS owners))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Saturday))) (, ,) (NP (DT the) (NNS partners)) (VP (VBD said) (SBAR (S (NP (DT the) (NN team)) (VP (MD would) (VP (VB be) (VP (VBN purchased) (PP (IN for) (NP (QP ($ $) (CD 54) (CD million)))) (PP (IN by) (NP (NP (DT a) (JJ new) (NN group)) (PP (VBG including) (NP (NP (NNP Comsat) (NNP Video) (NNP Enterprises) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Communications) (NNP Satellite) (NNP Corp.)))))) (VP (VBN based) (ADVP (RB here))))))))))) (. .)))
+
+(S1 (S (NP (NNP Comsat) (NNP Video)) (VP (MD will) (VP (VB pay) (NP (NP (QP ($ $) (CD 17) (CD million))) (PP (IN for) (NP (DT a) (ADJP (CD 62.5) (NN %)) (NN interest)))) (, ,) (PP (IN with) (S (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe)) (VP (VBG putting) (PRT (RP up)) (NP (NP (QP ($ $) (CD 8) (CD million))) (PP (IN for) (NP (NP (DT a) (ADJP (CD 37.5) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN team))))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NN sale))))) (, ,) (NP (NNP Nuggets) (NN owner) (NNP Sidney) (NNP Shlenker)) (VP (MD could) (VP (VB receive) (NP (NP (QP (IN up) (TO to) ($ $) (CD 11) (CD million))) (PP (IN in) (NP (NP (JJ additional) (NNS payments)) (PP (IN from) (NP (NP (DT the) (NN franchise) (POS 's)) (JJ future) (NNS earnings)))))))) (. .)))
+
+(S1 (S (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe)) (NP (JJ last) (NNP July)) (VP (VBD announced) (NP (NP (DT a) (NN deal)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB have) (VP (VBN made) (S (NP (PRP them)) (NP (NP (DT the) (JJ first) (JJ black) (JJ principal) (NNS owners)) (PP (IN of) (NP (DT a) (JJ major) (JJ professional) (NNS sports) (NN franchise)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN deal)) (VP (VBD fell) (PRT (RP apart)) (NP (JJ last) (NN week)) (PP (IN for) (NP (NP (NN lack)) (PP (IN of) (NP (NN financing)))))) (. .)))
+
+(S1 (S (NP (NNP Comsat) (NNP Video)) (VP (VBZ is) (VP (VBN headed) (PP (IN by) (NP (NP (NNP Robert) (NNP Wussler)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (NP (NP (PRP$ his) (NNP No.) (CD 2) (JJ executive) (NN post)) (PP (IN with) (NP (NNP Turner) (NNP Broadcasting) (NNP System) (NNP Inc.)))) (ADVP (NP (RB just) (CD two) (NNS weeks)) (RB ago)) (S (VP (TO to) (VP (VB take) (NP (DT the) (NNP Comsat) (NN position)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Comsat) (NNP Video)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ distributes) (NP (JJ pay-per-view) (NNS programs)) (PP (TO to) (NP (NN hotel) (NNS rooms)))))) (, ,)) (VP (VBZ plans) (S (VP (TO to) (VP (VB add) (NP (NNS Nuggets) (NNS games)) (PP (TO to) (NP (PRP$ their) (NNS offerings))) (, ,) (SBAR (IN as) (S (NP (NNP Mr.) (NNP Turner)) (VP (VBD did) (ADVP (RB successfully)) (PP (IN with) (NP (PRP$ his) (NNP Atlanta) (NNS Hawks) (CC and) (NNS Braves) (NNS sports) (NNS teams)))))))))) (. .)))
+
+(S1 (S (NP (NNPS Messrs.) (NNP Lee) (CC and) (NNP Bynoe)) (VP (MD will) (VP (VB manage) (NP (NP (DT the) (NNPS Nuggets) (POS ')) (JJ day-today) (NNS affairs)))) (. .)))
+

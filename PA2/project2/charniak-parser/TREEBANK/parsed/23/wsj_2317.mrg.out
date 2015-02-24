@@ -1,0 +1,28 @@
+(S1 (S (NP (NNP Elcotel) (NNP Inc.)) (VP (VP (VBZ expects) (S (NP (JJ fiscal) (JJ second-quarter) (NNS earnings)) (VP (TO to) (VP (VB trail) (NP (CD 1988) (NNS results)))))) (, ,) (CC but) (VP (VBZ anticipates) (SBAR (IN that) (S (NP (JJ several) (JJ new) (NNS products)) (VP (MD will) (VP (VB lead) (PP (TO to) (NP (NP (DT a) (`` `) (ADJP (`` `) (ADJP (RB much) (JJR stronger)) ('' ')) ('' ') (NN performance)) (PP (IN in) (NP (PRP$ its) (JJ second) (NN half))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Elcotel)) (, ,) (NP (DT a) (NNS telecommunications) (NN company)) (, ,)) (VP (VBD had) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP ($ $) (CD 272,000)) (, ,) (CC or) (NP (NP (CD five) (NNS cents)) (NP (DT a) (NN share))) (, ,)))) (PP (IN in) (NP (NP (PRP$ its) (JJ year-earlier) (JJ second) (NN quarter)) (, ,) (VP (VBN ended) (NP (NNP Sept.) (CD 30)))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD totaled) (NP (QP ($ $) (CD 5) (CD million)))) (. .)))
+
+(S1 (S (NP (NP (NNP George) (NNP Pierce)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,)) (VP (VBD said) (PP (IN in) (NP (DT an) (NN interview))) (SBAR (IN that) (S (NP (NP (NNS earnings)) (PP (IN in) (NP (DT the) (ADJP (RBS most) (JJ recent)) (NN quarter)))) (VP (MD will) (VP (VB be) (NP (NP (NP (QP (RB about) (CD two)) (NNS cents)) (NP (DT a) (NN share))) (PP (IN on) (NP (NP (NN revenue)) (PP (IN of) (NP (QP (RB just) (IN under) ($ $) (CD 4) (CD million)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJR lower) (NNS results)) (PRN (, ,) (S (NP (NNP Mr.) (NNP Pierce)) (VP (VBD said))) (, ,)) (VP (VBP reflect) (NP (NP (DT a) (JJ 12-month) (NN decline)) (PP (IN in) (NP (NP (NN industry) (NNS sales)) (PP (IN of) (NP (NP (ADJP (RB privately) (VBN owned)) (NN pay) (NNS telephones)) (, ,) (NP (NP (NNP Elcotel) (POS 's)) (JJ primary) (NN business)))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNP Mr.) (NNP Pierce)) (VP (VBZ expects) (S (NP (NP (DT that) (NN line)) (PP (IN of) (NP (NN business)))) (VP (TO to) (VP (VB strengthen) (PP (IN in) (NP (DT the) (JJ next) (NN year))))))))) (, ,) (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (NNP Elcotel)) (VP (MD will) (ADVP (RB also)) (VP (VB benefit) (PP (IN from) (S (VP (VBG moving) (PP (IN into) (NP (JJ other) (NNS areas))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (RB Foremost)) (PP (IN among) (NP (DT those)))) (VP (VBZ is) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN entrance)) (PP (IN into) (NP (DT the) (JJ public) (NN facsimile) (NN business)))))) (, ,) (NP (NNP Mr.) (NNP Pierce)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN Within) (NP (DT the) (JJ next) (NN year))) (, ,) (NP (NNP Elcotel)) (VP (VBZ expects) (S (VP (TO to) (VP (VB place) (NP (NP (CD 10,000) (NN fax) (NNS machines)) (, ,) (VP (VBN made) (PP (IN by) (NP (NNP Minolta))) (PP (IN in) (NP (NNP Japan)))) (, ,)) (PP (IN in) (NP (NP (NNS hotels)) (, ,) (NP (JJ municipal) (NNS buildings)) (, ,) (NP (NNS drugstores)) (CC and) (NP (NP (JJ other) (JJ public) (NNS settings)) (PP (IN around) (NP (DT the) (NN country)))))))))) (. .)))
+
+(S1 (S (NP (NNP Elcotel)) (VP (MD will) (VP (VB provide) (NP (DT a) (NN credit-card) (NN reader)) (PP (IN for) (NP (NP (NP (DT the) (NNS machines)) (SBAR (S (VP (TO to) (VP (VB collect)))))) (, ,) (NP (NN store)) (CC and) (NP (JJ forward) (NN billing) (NNS data)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Pierce)) (VP (VBD said) (SBAR (S (NP (NNP Elcotel)) (VP (MD should) (VP (VB realize) (NP (NP (DT a) (NN minimum)) (PP (IN of) (NP (NP (NP ($ $) (CD 10)) (PP (IN of) (NP (NP (VBG recurring) (JJ net) (NNS earnings)) (PP (IN for) (NP (DT each) (NN machine)))))) (NP (DT each) (NN month)))))))))) (. .)))
+
+(S1 (S (NP (NNP Elcotel)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN developed) (NP (NP (DT an) (JJ automatic) (NN call) (NN processor)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VP (VB make) (NP (NP (JJ further) (NN use)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NN system)))) (PP (IN for) (S (VP (VBG automating) (CC and) (VBG handling) (NP (NN credit-card) (NNS calls)))))) (CC and) (VP (VB collect) (NP (NNS calls)))))))))) (. .)))
+
+(S1 (S (NP (JJ Automatic) (JJ call) (NNS processors)) (VP (MD will) (VP (VB provide) (NP (DT that) (NN system)) (PP (IN for) (NP (NP (NP (RB virtually) (DT any) (NN telephone)) (PRN (, ,) (S (NP (NNP Mr.) (NNP Pierce)) (VP (VBD said))) (, ,))) (CONJP (RB not) (RB just)) (NP (NP (NNS phones)) (VP (VBN produced) (PP (IN by) (NP (NNP Elcotel))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (MD will) (ADVP (RB also)) (VP (VB be) (VP (VBG producing) (NP (NP (DT a) (JJ new) (NN line)) (PP (IN of) (NP (NP (NN convenience) (NNS telephones)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP do) (RB n't) (VP (VB accept) (NP (NNS coins))))))))) (, ,) (PP (IN for) (NP (NP (NN use)) (PP (IN in) (NP (NP (NN hotel) (NNS lobbies)) (, ,) (NP (NN office) (NNS lobbies)) (, ,) (NP (NN hospitality) (NNS lounges)) (CC and) (NP (JJ similar) (NNS settings))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Pierce)) (VP (VBD estimated) (SBAR (IN that) (S (NP (DT the) (NP (NNS processors)) (CC and) (NP (NN convenience) (NNS phones))) (VP (MD would) (VP (VB produce) (NP (NP (NP (QP (RB about) ($ $) (CD 5))) (PP (IN of) (NP (NP (VBG recurring) (JJ net) (NNS earnings)) (PP (IN for) (NP (DT each) (NN machine)))))) (NP (DT each) (NN month)))))))) (. .)))
+

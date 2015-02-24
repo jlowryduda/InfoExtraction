@@ -1,0 +1,8 @@
+(S1 (S (S (NP (NP (JJ Private) (NN housing) (NNS starts)) (PP (IN in) (NP (NNP Japan)))) (VP (VBD were) (ADJP (JJ unchanged) (PP (IN in) (NP (NNP September))) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (PP (IN at) (NP (CD 144,610) (NNS units))))) (, ,) (NP (DT the) (NNP Construction) (NNP Ministry)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (JJ flat) (NN report)) (VP (VBD followed) (NP (NP (DT a) (JJ four-month) (NN string)) (PP (IN of) (NP (NNS declines))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ down) (NN trend)) (VP (VBD was) (ADVP (RB partly)) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (JJR tighter) (NN credit))) (VP (VBN sparked) (PP (IN by) (NP (NP (DT a) (NN discount) (NN rate) (NN increase)) (PP (IN by) (NP (NP (DT the) (NNP Bank)) (PP (IN of) (NP (NNP Japan))))) (PP (IN in) (NP (NNP May)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ central) (NN bank)) (ADVP (RB also)) (ADVP (RB unexpectedly)) (VP (VBD raised) (NP (NP (DT the) (NN base) (NN rate)) (PP (IN by) (NP (PDT half) (DT a) (NN percentage) (NN point)))) (PP (TO to) (NP (NP (CD 3.75) (NN %)) (NP (NNP Oct.) (CD 11)))) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT an) (NN inflation-fighting) (NN move)) (SBAR (WHNP (WDT that)) (S (ADVP (RB indirectly)) (VP (VBZ increases) (NP (NP (NN interest) (NNS rates)) (VP (VBN charged) (PP (IN on) (NP (JJ new) (NN home) (NN construction) (NNS loans))))))))))))) (. .)))
+

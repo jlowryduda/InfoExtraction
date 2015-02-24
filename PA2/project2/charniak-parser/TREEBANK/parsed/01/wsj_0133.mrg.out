@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP Allergan) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD received) (NP (NP (NNP Food) (CC and) (NNP Drug) (NNP Administration) (NN approval)) (SBAR (S (VP (TO to) (VP (VB sell) (NP (DT the) (NNP PhacoFlex)) (NP (JJ intraocular) (NN lens)) (, ,) (NP (NP (DT the) (JJ first) (NN foldable)) (VP (VBN silicone) (NP (NN lens)) (S (ADJP (JJ available) (PP (IN for) (NP (NN cataract) (NN surgery)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP len) (POS 's)) (NN foldability)) (VP (VBZ enables) (S (NP (PRP it)) (VP (TO to) (VP (VB be) (VP (VBN inserted) (PP (IN in) (NP (JJR smaller) (NNS incisions))) (SBAR (IN than) (S (VP (VBP are) (ADVP (RB now)) (ADJP (JJ possible)) (PP (IN for) (NP (NP (NN cataract) (NN surgery)) (, ,) (NP (DT the) (NN eye) (NN care)) (CC and) (NP (NP (NN skin)) (SBAR (S (NP (NN care) (NN concern)) (VP (VBD said))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Cataracts)) (VP (VBP refer) (PP (TO to) (NP (NP (DT a) (NN clouding)) (PP (IN of) (NP (NP (DT the) (NN eye) (POS 's)) (JJ natural) (NN lens)))))) (. .)))
+

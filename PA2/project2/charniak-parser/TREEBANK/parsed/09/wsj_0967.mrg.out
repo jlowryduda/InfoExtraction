@@ -1,0 +1,18 @@
+(S1 (S (NP (NP (NNP Mercedes-Benz)) (PP (IN of) (NP (NP (NNP North) (NNP America) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Daimler-Benz) (NNP AG)))) (, ,)))) (VP (VBD paid) (NP (NNP Massachusetts)) (NP (NP (QP ($ $) (CD 9.1) (CD million))) (PP (IN in) (NP (NNS taxes)))) (, ,) (S (VP (VBG bringing) (PP (TO to) (NP (DT an) (NN end))) (NP (DT a) (JJ 10-month-long) (JJ corporate) (NN tax) (NN chase))))) (. .)))
+
+(S1 (S (NP (NP (NNS Officials)) (PP (IN at) (NP (NP (DT the) (NNP Department)) (PP (IN of) (NP (NN Revenue)))))) (VP (VP (VBD had) (VP (VBN dogged) (NP (DT the) (JJ foreign) (NN car) (NN maker)) (PP (IN for) (NP (NP (NNS taxes)) (VP (VBN owed) (PP (IN on) (NP (NN business) (NNS transactions)))))))) (CC and) (VP (VBD were) (VP (VBG proceeding) (S (VP (TO to) (VP (VB settle) (NP (DT the) (NN dispute)) (PP (IN in) (NP (NN court))))))))) (. .)))
+
+(S1 (SINV (CC But) (`` `) (S (`` `) (NP (DT the) (NN check)) (VP (VBD arrived) (PP (IN in) (NP (DT the) (NN mail)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Stephen) (NNP Kidder)) (, ,) (NP (NP (NNP Massachusetts) (NNP Commissioner)) (PP (IN of) (NP (NN Revenue))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mercedes-Benz)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD did) (RB n't) (VP (VB owe) (NP (NP (NNS taxes)) (PP (TO to) (NP (NNP Massachusetts)))) (UCP (SBAR (ADVP (RB partly)) (IN because) (S (NP (PRP it)) (VP (VBZ sells) (NP (PRP$ its) (NNS cars)) (PP (IN at) (NP (NP (DT a) (NN dock)) (PP (IN in) (NP (NNP Baltimore)))))))) (CC and) (PP (RB not) (IN in) (NP (NNP Massachusetts)))))))))))) (, ,)) (VP (VBD did) (RB n't) (VP (VB explain) (NP (NP (PRP$ its) (NN change)) (PP (IN of) (NP (NN heart)))))) (. .)))
+
+(S1 (S (S (NP (JJ Last) (NN month)) (, ,) (NP (NNP Mercedes-Benz) (NNS executives)) (VP (VBD approached) (NP (NP (NN state) (NN revenue) (NNS officials)) (VP (VBG complaining) (PP (IN about) (NP (JJ bad) (NN press))))))) (, ,) (NP (DT the) (NN commissioner)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN dispute)) (VP (VBD was) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (DT a) (NNP Wall) (NNP Street) (NNP Journal) (NN article)))) (PP (IN in) (NP (NNP August)))) (. .)))
+
+(S1 (S (NP (DT The) (NN amount)) (VP (VBZ covers) (NP (NP (NP (NNS taxes)) (, ,) (NP (NN interest)) (CC and) (NP (NNS penalties))) (VP (VBN owed))) (PP (PP (IN from) (NP (NP (CD 1966)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN state)) (VP (VBD began) (S (VP (VBG collecting) (NP (JJ corporate) (NNS taxes))))))) (, ,))) (PP (TO to) (NP (CD 1985))))) (. .)))
+
+(S1 (S (S (NP (NNP Mercedes-Benz)) (ADVP (RB also)) (VP (VBD agreed) (S (VP (TO to) (VP (VB pay) (NP (NP (NNS taxes)) (VP (VBN owed) (PP (IN for) (NP (NP (DT the) (NNS years)) (NP (CD 1986)))))) (PP (IN through) (NP (CD 1988)))))))) (, ,) (NP (NNP Mr.) (NNP Kidder)) (VP (VBD added)) (. .)))
+
+(S1 (S (PP (IN Under) (NP (NNP Massachusetts) (NN tax) (NNS laws))) (, ,) (NP (NNS corporations)) (VP (MD must) (VP (VB pay) (NP (NP (CD 9.5) (NN %)) (PP (IN of) (NP (NP (VBN estimated) (NNS profits)) (VP (VBG resulting) (PP (IN from) (NP (NP (NN business) (NNS transactions)) (PP (IN in) (NP (DT the) (NN state))))))))) (SBAR (IN if) (S (NP (DT the) (NN company)) (VP (VBZ conducts) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ non-sales) (NNS activities))) (, ,) (PP (VBG including) (NP (NP (NNS warranties)) (, ,) (NP (NN customer) (NNS complaints)) (CC and) (NP (NP (NNS relations)) (PP (IN with) (NP (JJ independent) (NNS dealerships)))))))))))) (. .)))
+

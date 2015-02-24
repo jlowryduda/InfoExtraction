@@ -1,0 +1,100 @@
+(S1 (S (NP (CD Two) (NNS gunmen)) (VP (VP (VBD entered) (NP (DT a) (NNP Maryland) (NN restaurant))) (, ,) (VP (VBD ordered) (NP (CD two) (NNS employees)) (S (VP (TO to) (VP (VB lie) (PP (IN on) (NP (DT the) (NN floor))))))) (CC and) (VP (VBD shot) (NP (PRP them)) (PP (IN in) (NP (NP (DT the) (NNS backs)) (PP (IN of) (NP (PRP$ their) (NNS heads))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS killers)) (VP (VBD fled) (PP (IN with) (NP (QP (JJR less) (IN than) ($ $) (CD 100))))) (. .)))
+
+(S1 (S (PP (VBG Describing) (NP (NP (DT this)) (CC and) (NP (JJ other) (JJ grisly) (NNS killings)))) (, ,) (NP (NP (NNP Sen.) (NNP Strom) (NNP Thurmond)) (PRN (-LRB- -LRB-) (NP (NP (NNP R.)) (, ,) (NP (NNP S.C) (. .))) (-RRB- -RRB-))) (ADVP (RB recently)) (VP (VBD urged) (NP (JJ fellow) (NNS lawmakers)) (S (VP (TO to) (VP (VB revive) (NP (DT a) (JJ broad) (JJ federal) (NN death) (NN penalty)))))) (. .)))
+
+(S1 (SBARQ (`` `) (`` `) (NP (DT The) (JJ ultimate) (NN punishment)) (PRN (, ,) ('' ') ('' ') (S (NP (PRP he)) (VP (VBD declared))) (, ,) (`` `)) (`` `) (SQ (MD will) (VP (VB protect) (NP (DT the) (NN law-abiding)) (PP (IN from) (NP (NP (DT the) (JJ vicious) (, ,) (JJ cruel) (NNS individuals)) (SBAR (WHNP (WP who)) (S (VP (VBP commit) (NP (DT these) (NNS crimes))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (QP (RB just) (CD one)) (NN problem)) (: :) (NP (NP (DT The) (NN law)) (SBAR (WHNP (IN that)) (S (NP (NNP Sen.) (NNP Thurmond)) (VP (VBZ is) (VP (VBG pushing) (SBAR (S (VP (MD would) (VP (VB be) (ADJP (JJ irrelevant)) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NP (DT the) (NNP Maryland) (NN restaurant) (NNS murders)) (CC and) (NP (ADJP (RB almost) (DT all)) (JJ other) (NNS killings))))))))))))))))) (. .)))
+
+(S1 (S (NP (JJS Most) (NNS murders)) (VP (VBP are) (NP (NN state) (NNS crimes)) (, ,) (SBAR (IN so) (S (NP (DT any) (JJ federal) (JJ capital-punishment) (NN law)) (ADVP (RB probably)) (VP (MD would) (VP (VB turn) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (NP (NP (JJR more) (NN symbolism)) (PP (IN than) (NP (NN substance)))))))))))) (. .)))
+
+(S1 (S (CC Yet) (NP (DT the) (NN bill)) (VP (VBZ is) (VP (VBG riding) (ADVP (RB high)) (PP (IN on) (NP (NP (DT the) (NN furor)) (PP (IN over) (NP (NN drug) (NN trafficking))))))) (. .)))
+
+(S1 (S (NP (NNP Senate) (NNPS Republicans)) (, ,) (PP (IN after) (S (ADVP (RB repeatedly)) (VP (VBG failing) (S (VP (TO to) (VP (VB attach) (NP (JJ death-penalty) (NNS amendments)) (PP (TO to) (NP (JJ unrelated) (NN legislation))))))))) (, ,) (VP (VBP have) (ADVP (RB finally)) (VP (VBN gotten) (NP (DT a) (JJ full-blown) (JJ death-penalty) (NN bill)) (PP (IN through) (NP (NN committee))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ Democratic) (NN leadership)) (VP (VBD agreed) (S (VP (TO to) (VP (VB allow) (NP (NP (DT a) (NN floor) (NN vote)) (PP (IN on) (NP (DT the) (NN issue)))) (PP (IN before) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year))))) (: --) (S (NP (DT a) (NN debate)) (ADJP (JJ certain)) (S (VP (TO to) (VP (VB focus) (PP (IN on) (NP (NP (DT the) (JJ alleged) (JJ racial) (NN inequality)) (PP (IN of) (NP (NN death) (NN sentencing))))))))))))) (. .)))
+
+(S1 (S (NP (RB Even) (DT some) (NNPS Democrats)) (VP (VBP concede) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (ADVP (RB probably)) (NP (NP (DT a) (NN majority)) (PP (IN in) (NP (DT the) (NNP Senate))) (SBAR (WHNP (WDT that)) (S (VP (VBZ favors) (NP (NP (DT some) (NN kind)) (PP (IN of) (NP (JJ broad) (JJ capital-punishment) (NN measure)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (VBG pending) (NN bill)) (, ,) (VP (VBN introduced) (PP (IN by) (NP (NNP Mr.) (NNP Thurmond)))) (, ,)) (VP (MD would) (VP (VB revive) (NP (DT the) (JJ long-dormant) (JJ federal) (JJ death-penalty) (NNS laws)) (PP (IN by) (S (VP (VBG instituting) (NP (NP (JJ legal) (NNS procedures)) (VP (VBN required) (PP (IN by) (NP (DT the) (NNP Supreme) (NNP Court)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1972))) (, ,) (NP (DT the) (JJ high) (NN court)) (VP (VBD swept) (PRT (RP aside)) (NP (NP (DT all) (JJ capital-punishment) (NNS laws)) (: --) (UCP (JJ federal) (CC and) (NN state))) (ADVP (RB alike)) (: --) (PP (IN as) (ADJP (JJ unconstitutional)))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (CD 1976))) (, ,) (NP (DT the) (NN court)) (VP (VBD permitted) (NP (NP (NN resurrection)) (PP (IN of) (NP (JJ such) (NNS laws)))) (, ,) (SBAR (IN if) (S (NP (PRP they)) (VP (VB meet) (NP (JJ certain) (JJ procedural) (NNS requirements)))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN instance))) (, ,) (NP (NNS juries)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB consider) (NP (JJ specific) (ADJP (`` `) (ADJP (`` `) (VBG aggravating) ('' ')) ('' ') (CC and) (`` `) (ADJP (`` `) (VBG mitigating) ('' ')) ('' ')) (NNS factors)) (PP (IN before) (S (VP (VBG deciding) (SBAR (IN whether) (S (VP (TO to) (VP (VB condemn) (NP (NN someone)) (PP (TO to) (NP (NN death))))))))))))))) (. .)))
+
+(S1 (S (PP (IN Since) (NP (DT that) (CD 1976) (NN ruling))) (, ,) (NP (CD 37) (NNS states)) (VP (VBP have) (VP (VBN reintroduced) (NP (DT the) (NN death) (NN penalty)))) (. .)))
+
+(S1 (S (CC But) (NP (JJ congressional) (NNPS Democrats)) (VP (VBP have) (VP (VBN blocked) (NP (DT the) (JJ same)) (PP (IN from) (S (VP (VBG occurring) (PP (IN at) (NP (DT the) (JJ federal) (NN level)))))) (, ,) (PP (IN with) (NP (NP (DT the) (NN exception)) (PP (IN of) (NP (NP (DT a) (CD 1988) (NN law)) (VP (VBG allowing) (NP (NP (NN capital) (NN punishment)) (PP (IN for) (NP (JJ certain) (JJ drug-related) (NNS homicides))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Thurmond) (NN bill)) (VP (MD would) (VP (VB establish) (NP (NP (DT a) (ADJP (RB federally) (VBN administered)) (NN death) (NN sentence)) (PP (IN for) (NP (NP (CD 23) (NNS crimes)) (, ,) (SBAR (WHNP (JJS most) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBD were) (ADVP (RB formerly)) (ADJP (JJ punishable) (PP (IN by) (NP (NN death)))) (PP (IN under) (NP (JJ federal) (NNS statutes))))))))) (SBAR (IN that) (S (NP (DT the) (NNP Supreme) (NNP Court)) (VP (VBD invalidated)))))) (. .)))
+
+(S1 (SINV (PP (IN Among) (NP (DT these) (NNS crimes))) (VP (VBP are)) (NP (NP (NP (NN murder)) (PP (IN on) (NP (JJ federal) (NN land)))) (, ,) (NP (JJ presidential) (NN assassination)) (CC and) (NP (NN espionage))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Thurmond) (NN bill)) (VP (MD would) (ADVP (RB also)) (VP (VB add) (NP (NP (CD five) (JJ new) (NNS crimes)) (ADJP (JJ punishable) (PP (IN by) (NP (NN death)))) (, ,) (PP (VBG including) (NP (NP (NN murder)) (PP (IN for) (NP (NN hire)))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (ADVP (RB Separately)) (, ,) (NP (DT the) (NNP Senate)) (NP (JJ last) (NN week)) (VP (VBD passed) (NP (NP (DT a) (NN bill)) (VP (VBG permitting) (NP (NP (NN execution)) (PP (IN of) (NP (NP (NNS terrorists)) (SBAR (WHNP (WP who)) (S (VP (VBP kill) (NP (NNPS Americans)) (ADVP (RB abroad))))))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (PP (IN Amid) (NP (NP (DT the) (NN swirl)) (PP (IN of) (NP (NP (JJ punitive) (NN rhetoric)) (VP (VBG surrounding) (NP (DT the) (NN issue))))))) (, ,) (NP (CD one) (JJ critical) (NN question)) (VP (VBZ involves) (SBAR (IN whether) (S (NP (DT a) (JJ federal) (NN death) (NN penalty)) (, ,) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (VBG existing) (NN state) (NNS laws))))) (, ,) (VP (MD would) (VP (VB deter) (NP (DT any) (JJ would-be) (NNS criminals))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (CD one) (NN thing))) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ unlikely)) (SBAR (IN that) (S (NP (JJ many) (NNS people)) (VP (MD would) (VP (VB receive) (NP (JJ federal) (NN death) (NNS sentences)))))))) (, ,) (VP (VB let) (S (NP (RB alone)) (VP (VB be) (VP (VBN executed))))) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (NP (DT the) (NNS crimes)) (VP (VBN incorporated) (PP (IN in) (NP (DT the) (NNP Thurmond) (NN bill))))))) (VP (VBP are) (ADJP (RB exceedingly) (JJ rare)) (: --) (S (VP (VP (VBG killing) (NP (NP (DT a) (NNP Supreme) (NNP Court) (NN justice)) (PRN (, ,) (PP (IN for) (NP (NN instance))) (, ,)))) (CC or) (VP (ADVP (RB deliberately)) (VBG causing) (NP (NP (DT a) (NN train) (NN wreck)) (SBAR (WHNP (WDT that)) (S (VP (VBZ results) (PP (IN in) (NP (DT a) (NN death))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN fact))) (, ,) (NP (QP (RB only) (CD 28)) (NNS defendants)) (VP (MD would) (VP (VB have) (VP (VBN been) (ADJP (JJ eligible) (PP (IN for) (NP (JJ federal) (NN death) (NNS sentences)))) (SBAR (IN if) (S (NP (DT the) (NNP Thurmond) (NN bill)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NN effect))) (PP (IN in) (NP (DT the) (JJ past) (CD three) (NNS years))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT a) (NN study)) (PP (IN by) (NP (NP (DT the) (NNP Senate) (NNP Judiciary) (NNP Committee) (POS 's)) (JJ Democratic) (NN staff))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ last) (JJ federal) (NN execution)) (PP (IN before) (NP (DT the) (NNP Supreme) (NNP Court)))) (VP (VBZ 's) (SBAR (S (NP (NP (CD 1972) (NN ruling)) (VP (VBG banning) (NP (DT the) (NN death) (NN penalty)))) (VP (VBD took) (NP (NN place)) (PP (IN in) (NP (CD 1963))) (, ,) (S (VP (VBG meaning) (SBAR (IN that) (S (NP (DT the) (JJ federal) (NN government)) (VP (VBD did) (RB n't) (VP (VB exercise) (NP (PRP$ its) (NN execution) (NN authority)) (PP (IN for) (NP (CD eight) (NNS years))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (PP (IN In) (NP (DT that) (NN sense))) (, ,) (NP (DT the) (JJ whole) (NN debate)) (VP (VBZ is) (NP (NP (NN sort)) (PP (IN of) (NP (DT a) (NN fraud))))) (, ,) ('' ')) ('' ') (VP (VBZ argues)) (NP (DT a) (NNP Democratic) (NNP Senate) (NN staff) (NN member)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (NP (JJ distracting) (NN attention)) (PP (IN from) (NP (JJ serious) (NNS issues)))) (, ,) (PP (IN like) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB make) (S (NP (NNP DEA) (, ,) (NNP FBI) (CC and) (NNP Customs)) (VP (VB work) (ADVP (RB together)))))))))) ('' ') ('' ')) (PP (IN on) (NP (NN drug) (NN enforcement))) (. .)))
+
+(S1 (S (S (NP (NNPS Republicans)) (VP (VBP acknowledge) (SBAR (IN that) (S (NP (JJ few) (NNS people)) (VP (MD would) (VP (VB be) (VP (VBN executed) (PP (IN under) (NP (DT the) (NNP Thurmond) (NN bill)))))))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBP contend) (SBAR (DT that) (S (VP (VBZ is) (RB n't) (NP (DT the) (NN point))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (JJ Many) (NNS scholars)) (VP (VBP are) (PP (IN of) (NP (DT the) (NN opinion) (SBAR (IN that) (S (NP (NP (DT the) (JJ mere) (NN existence)) (PP (IN of) (NP (DT the) (NN penalty)))) (VP (VBZ deters) (NP (NP (JJ many) (NNS people)) (PP (IN from) (NP (NP (DT the) (NN commission)) (PP (IN of) (NP (NN capital) (NNS crimes)))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Sen.) (NNP Orrin) (NNP Hatch)) (PRN (-LRB- -LRB-) (NP (NP (NNP R.)) (, ,) (NP (NNP Utah))) (-RRB- -RRB-))) (. .)))
+
+(S1 (S (S (NP (NNS Executions)) (, ,) (ADVP (RB regardless) (PP (IN of) (SBAR (WHADVP (WRB how) (RB frequently)) (S (NP (PRP they)) (VP (VBP occur)))))) (, ,) (VP (VBP are) (ADVP (RB also)) (NP (`` `) (NP (`` `) (JJ proper) (NN retribution) ('' ')) ('' ') (PP (IN for) (NP (JJ heinous) (NNS crimes)))))) (, ,) (NP (NNP Mr.) (NNP Hatch)) (VP (VBZ argues)) (. .)))
+
+(S1 (S (NP (NP (NNP Thomas) (NNP Boyd)) (, ,) (NP (DT a) (JJ senior) (NNP Justice) (NNP Department) (NN official)) (, ,)) (VP (VBZ says) (SBAR (S (NP (NP (DT the) (JJ new) (JJ federal) (JJ drug-related) (NNS crimes)) (ADJP (JJ punishable) (PP (IN by) (NP (NP (NN death)) (PP (IN since) (NP (JJ last) (NNP November))))))) (VP (MD may) (VP (VB result) (PP (IN in) (NP (NP (DT a) (NN jump)) (PP (IN in) (NP (NN capital) (NNS sentences))))) (, ,) (SBAR (IN though) (S (NP (DT that)) (VP (VBZ has) (RB n't) (VP (VBN happened) (ADVP (RB so) (RB far))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (S (VP (VBG resuscitating) (NP (NP (DT the) (JJ old) (NN issue)) (PP (IN of) (SBAR (IN whether) (S (NP (NN death) (NNS sentences)) (VP (VB deter) (NP (NNS criminals)))))))))))) (, ,) (NP (DT this) (NN bill)) (VP (VBZ has) (VP (VBN made) (S (NP (NN race)) (NP (NP (DT a) (JJ major) (NN part)) (PP (IN of) (NP (DT the) (JJ death-penalty) (NN debate))))))) (. .)))
+
+(S1 (S (SBAR (IN Before) (S (NP (DT the) (NN bill)) (VP (VBD left) (NP (NN committee))))) (, ,) (NP (NP (NNP Sen.) (NNP Edward) (NNP Kennedy)) (PRN (-LRB- -LRB-) (NP (NNP D.)) (, ,) (NP (NNP Mass) (. .)) (-RRB- -RRB-))) (VP (VBD attached) (NP (NP (DT an) (NN amendment)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB allow) (S (NP (DT a) (NN defendant)) (VP (TO to) (VP (VB escape) (PP (IN from) (NP (NP (DT a) (NN death) (NN sentence)) (PP (IN in) (NP (NP (NNS jurisdictions)) (VP (VBN shown) (S (VP (TO to) (VP (VB have) (VP (VBN meted) (PRT (RP out)) (NP (NNS executions)) (PP (IN in) (NP (DT a) (JJ racist) (NN manner))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN amendment)) (VP (VBD prompted) (NP (NP (DT an) (JJ ironic) (NN protest)) (PP (IN from) (NP (NP (NNP Mr.) (NNP Thurmond)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD complained) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (`` `) (VP (`` `) (VB kill) ('' ') ('' ') (NP (NN capital) (NN punishment))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ large) (NN number)) (PP (IN of) (NP (NNS studies)))) (VP (VBP suggest) (SBAR (IN that) (S (NP (NN state) (NNS judges) (CC and) (NNS juries)) (VP (VBP have) (VP (VBD imposed) (NP (DT the) (NN penalty)) (PP (IN in) (NP (DT a) (RB racially) (JJ discriminatory) (NN fashion)))))))) (. .)))
+
+(S1 (S (CC And) (NP (DT the) (NNP Kennedy) (NN amendment)) (VP (MD would) (VP (VB invade) (ADVP (RB not) (RB only)) (NP (UCP (JJ federal) (CC but) (NN state)) (NNS sentencings)) (, ,) (PP (IN in) (NP (CD two) (JJ important) (NNS ways))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD would) (VP (VB allow) (S (NP (DT all) (NNS defendants)) (VP (TO to) (VP (VB introduce) (NP (NP (JJ statistical) (NN evidence)) (VP (VBG showing) (NP (NP (RB racially) (JJ disproportionate) (NN application)) (PP (IN of) (NP (DT the) (NN death) (NN penalty)))))) (PP (IN in) (NP (DT the) (NN past)))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP it)) (VP (MD would) (VP (VB shift) (NP (DT the) (NN burden)) (PP (TO to) (NP (NNS prosecutors))) (S (VP (TO to) (VP (VB disprove) (SBAR (IN that) (S (NP (NN discrimination)) (VP (VBD caused) (NP (DT any) (JJ statistical) (JJ racial) (NNS disparities)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT That) (NN burden)) (VP (VBZ is) (ADJP (ADJP (RB very) (JJ difficult)) (, ,) (CONJP (IN if) (RB not)) (ADJP (JJ impossible)) (, ,) (SBAR (S (VP (TO to) (VP (VB meet))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NNP Mr.) (NNP Boyd)) (. .)))
+
+(S1 (SBARQ (`` `) (`` `) (WHADVP (WRB How)) (SQ (VBP do) (NP (PRP you)) (VP (VB prove) (NP (DT a) (JJ negative)))) (. ?) ('' ') ('' ')))
+
+(S1 (S (S (SBAR (IN Since) (S (NP (JJS most) (NNS prosecutors)) (VP (MD would) (RB n't) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB demonstrate) (SBAR (RB conclusively) (IN that) (S (NP (JJ racial) (NNS considerations)) (VP (VBD did) (RB n't) (VP (VB affect) (NP (NN sentencing)))))))))))))) (, ,) (NP (NNS executions)) (ADVP (RB everywhere)) (VP (MD might) (VP (VB come) (PP (TO to) (NP (DT a) (NN halt)))))) (, ,) (NP (NNP Mr.) (NNP Boyd)) (VP (VBZ explains)) (. .)))
+
+(S1 (S (NP (QP (IN At) (JJS least) (CD 15)) (JJ major) (NNS studies)) (VP (VBP purport) (S (VP (TO to) (VP (VB show) (SBAR (IN that) (S (NP (JJ particular) (NNS states)) (VP (VBP have) (VP (VBD imposed) (NP (DT the) (NN death) (NN penalty)) (PP (PP (ADVP (RB disproportionately)) (IN against) (NP (NP (NNS killers)) (PP (IN of) (NP (NNS whites))) (PP (VBN compared) (PP (IN with) (NP (NNS blacks)))))) (, ,) (CC and) (PP (IN against) (NP (NP (JJ black) (NNS defendants)) (PP (VBN compared) (PP (IN with) (NP (JJ white) (NNS defendants))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Conservatives)) (VP (VP (VBP question) (NP (NP (DT the) (NN validity)) (PP (IN of) (NP (DT the) (NNS studies))))) (CC and) (VP (VBP note) (SBAR (IN that) (S (NP (DT the) (NNP Supreme) (NNP Court)) (VP (VBD ruled) (PP (IN in) (NP (CD 1987))) (SBAR (IN that) (S (NP (JJ such) (NN research)) (, ,) (ADVP (RB regardless) (PP (IN of) (NP (PRP$ its) (NN accuracy)))) (, ,) (VP (VBZ is) (RB n't) (ADJP (JJ relevant) (PP (TO to) (NP (NP (DT a) (JJ constitutional) (NN attack)) (PP (IN on) (NP (DT a) (JJ particular) (NN death) (NN sentence)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Kennedy) (NN amendment)) (VP (MD would) (, ,) (PP (IN in) (NP (NN effect))) (, ,) (VP (VB legislate) (PP (IN around) (NP (DT the) (NNP Supreme) (NNP Court) (NN ruling))))) (. .)))
+
+(S1 (SINV (S (NP (NNS Lawyers)) (VP (MD would) (ADVP (RB eagerly)) (VP (VB seize) (PP (IN on) (NP (NP (DT the) (NN provision)) (PP (IN in) (NP (PRP$ their) (JJ death-penalty) (NNS appeals)))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Richard) (NNP Burr)) (, ,) (NP (NP (NP (NN director)) (PP (IN of) (NP (DT the) (NNP NAACP) (NNP Legal) (NNP Defense) (CC and) (NNP Educational) (NNP Fund))) (POS 's)) (JJ capital-punishment) (NN defense) (NN team))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Kennedy)) (VP (VBD failed) (S (VP (TO to) (VP (VB get) (NP (NP (PRP$ his) (NN amendment)) (VP (VBN incorporated) (PP (IN into) (NP (NP (JJ last) (NN year) (POS 's)) (JJ anti-drug) (NN legislation)))))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (ADVP (RB severely)) (VP (VBN attacked) (PP (IN on) (NP (DT the) (NNP Senate) (NN floor))) (ADVP (NP (DT this) (NN time)) (RB around)))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ survives)))) (, ,) (NP (PRP it)) (VP (MD could) (VP (VB prompt) (NP (JJ other) (JJ statutory) (NNS changes)) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NNP Mr.) (NNP Burr)))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (MD might) (VP (VB force) (S (NP (NP (NNP Congress)) (CC and) (NP (DT the) (NNS states))) (VP (TO to) (VP (VB narrow) (NP (DT the) (NN death) (NN penalty)) (PP (ADVP (RB only)) (TO to) (NP (NP (NNS convictions)) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (RB relatively) (JJ free) (PP (IN of) (NP (JJ racial) (NN imbalance)))))))))))))))) (: --) (S (NP (NNS murders)) (PP (IN by) (NP (NP (NN repeat) (NNS offenders)) (SBAR (WHNP (WP who)) (S (VP (VB torture) (NP (PRP$ their) (NNS victims)) (, ,) (ADVP (RB perhaps)))))))) (. .)))
+
+(S1 (S (S (VP (VBG Narrowing) (NP (DT the) (NN penalty)) (PP (IN in) (NP (DT this) (NN fashion))))) (VP (MD would) (VP (ADVP (RB clearly)) (VB reduce) (SBAR (WHNP (WDT whatever) (NN deterrent) (NN effect)) (S (NP (PRP it)) (ADVP (RB now)) (VP (VBZ has)))))) (. .)))
+
+(S1 (S (CC And) (NP (DT that)) (, ,) (PP (IN in) (NP (NN turn))) (, ,) (VP (MD would) (ADVP (RB only)) (VP (VB strengthen) (NP (NP (DT the) (NN argument)) (PP (IN of) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP oppose) (NP (NP (NN execution)) (PP (IN under) (NP (DT any) (NNS circumstances)))))))))))) (. .)))
+

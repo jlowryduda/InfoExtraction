@@ -1,0 +1,14 @@
+(S1 (NP (JJ Past) (JJ Due) (NN Impasse)))
+
+(S1 (S (S (NP (PRP I)) (ADVP (RB never)) (VP (VB pay) (NP (PRP$ my) (NNS bills)) (PP (IN Till) (NP (DT the) (JJ very) (JJ last) (NN day))))) (: ;) (S (NP (PRP I)) (VP (VBP lose) (NP (ADJP (RB far) (JJR less)) (NN interest)) (PP (IN By) (S (VP (VBG proceeding) (NP (DT that) (NN way))))))) (. .)))
+
+(S1 (S (CC But) (S (NP (PRP it) (DT all)) (VP (VBZ evens) (PRT (RP out)) (, ,) (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB so) (JJ easy)) (S (VP (TO to) (VP (VB see)))))))) (: :) (S (RB Not) (PP (IN till) (NP (DT the) (JJ last) (NN moment))) (NP (NNP Am) (NNP I)) (VP (VBN paid) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (JJ due) (NP (PRP me)))))))) (. .)))
+
+(S1 (NP (: --) (NNP Arnold) (NNP J.) (NNP Zarett) (. .)))
+
+(S1 (NP (NNP Rex) (NNP Tremendae)))
+
+(S1 (S (S (NP (DT The) (JJ effete) (NNP Tyrannosaurus) (NNP Rex)) (VP (VBD Had) (NP (NP (JJ strict) (JJ Cretaceous) (NNS views)) (PP (IN on) (NP (NN sex)))))) (, ,) (CC And) (S (NP (DT that)) (VP (VBZ is) (SBAR (WHADVP (WRB why)) (S (NP (PRP you)) (ADVP (RB only)) (VP (VBP see) (NP (NP (PRP him)) (VP (VBD Reproduced) (PP (IN in) (NP (DT the) (NN museum)))))))))) (. .)))
+
+(S1 (NP (: --) (NNP Laurence) (NNP W.) (NNP Thomas) (. .)))
+

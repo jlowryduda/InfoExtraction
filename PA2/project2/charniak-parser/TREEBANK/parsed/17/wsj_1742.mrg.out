@@ -1,0 +1,10 @@
+(S1 (S (NP (NP (NNP Sony) (NNP Corp.)) (, ,) (NP (NNP New) (NNP York)) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ its) (NNS bids)) (PP (IN for) (NP (NP (NNP Columbia) (NNP Pictures) (NNP Entertainment) (NNP Inc.)) (CC and) (NP (NNP Guber-Peters) (NNP Entertainment) (NNP Co.))))) (VP (VBP have) (VP (VBN been) (VP (VBN cleared) (PP (IN by) (NP (JJ federal) (JJ antitrust) (NNS regulators))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ Japanese) (NN company)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN waiting) (NN period)) (PP (IN under) (NP (NP (DT the) (NNP Hart-Scott-Rodino) (JJ antitrust) (NN act)) (PP (IN for) (NP (NP (NP (DT the) (ADJP (QP ($ $) (CD 3.4) (CD billion))) (NN bid)) (PP (IN for) (NP (NNP Columbia)))) (CC and) (NP (NP (DT the) (ADJP (QP ($ $) (CD 200) (CD million))) (NN offer)) (PP (IN for) (NP (NNP Guber-Peters))))))))) (VP (VBD expired) (NP (NNP Monday)))))) (. .)))
+
+(S1 (S (NP (NNP Sony)) (VP (VP (VBZ has) (VP (VBN agreed) (S (VP (TO to) (VP (VB buy) (NP (DT both) (NNS companies))))))) (, ,) (CC but) (VP (VBZ is) (PP (IN in) (NP (NP (DT a) (JJ legal) (NN battle)) (PP (IN with) (NP (NNP Warner) (NNPS Communications) (NNP Inc.))) (PP (IN over) (NP (NP (DT the) (NNS services)) (PP (IN of) (NP (NNS producers) (NNP Peter) (NNP Guber) (CC and) (NNP Jon) (NNP Peters))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN filing)) (PP (IN with) (NP (DT the) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission))))) (, ,) (NP (NNP Sony)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (CD two) (JJR more) (NNS suits)) (VP (VBP have) (VP (VBN been) (VP (VBN filed) (S (VP (VBG opposing) (NP (NP (DT the) (NN company) (POS 's)) (NN agreement) (S (VP (TO to) (VP (VB buy) (NP (NNP Columbia)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Sony)) (VP (VBD added) (SBAR (IN that) (S (NP (DT a) (NN hearing)) (VP (VBZ has) (VP (VBN been) (VP (VBN set) (PP (IN for) (NP (NNP Thursday))) (PP (IN in) (NP (NP (DT the) (NNP Delaware) (NNP Chancery) (NNP Court)) (PP (IN in) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS suits))))))))))))) (. .)))
+

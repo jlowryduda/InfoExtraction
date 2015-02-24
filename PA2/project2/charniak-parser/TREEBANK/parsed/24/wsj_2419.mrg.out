@@ -1,0 +1,8 @@
+(S1 (S (S (NP (DT The) (NN stock)) (VP (VBD was) (VP (VBN bought) (PP (IN on) (NP (NNP Thursday))) (PP (IN in) (NP (DT a) (ADJP (RB privately) (VBN negotiated)) (NN transaction)))))) (, ,) (NP (DT the) (NN filing)) (VP (VBD said)) (. .)))
+
+(S1 (S (SBAR (IN As) (S (ADVP (RB previously)) (VP (VBN reported)))) (, ,) (NP (NP (NNP Unitil)) (, ,) (NP (NP (NNP Exeter)) (, ,) (NP (NNP N.H.)) (, ,)) (CC and) (NP (NP (NNP Fitchburg) (NNP Gas) (CC &) (NNP Electric) (NNP Co.)) (, ,) (NP (NNP Fitchburg) (, ,) (NNP Mass.) (, ,)))) (VP (VBP are) (NP (NP (NNS targets)) (PP (IN of) (NP (NP (JJ unsolicited) (NN tender) (NNS offers)) (PP (IN from) (NP (JJ Boston-based) (NNP Eastern) (NNP Utilities) (NNP Associates))))))) (. .)))
+
+(S1 (S (NP (NNP Eastern) (NNPS Utilities)) (VP (VP (VBZ has) (VP (VBN offered) (NP (NP (NP ($ $) (CD 40)) (NP (DT a) (NN share)) (PP (IN for) (NP (NNP Unitil)))) (CC and) (NP (NP ($ $) (CD 36)) (NP (DT a) (NN share)))) (PP (IN for) (NP (NNP Fitchburg) (NNP Gas))))) (CC and) (VP (VBZ has) (VP (VBD extended) (NP (DT both) (NNS offers)) (PP (TO to) (NP (NNP Dec.) (CD 4)))))) (. .)))
+
+(S1 (S (NP (DT Both) (NNS companies)) (VP (VBD rejected) (NP (DT the) (NNS offers))) (. .)))
+

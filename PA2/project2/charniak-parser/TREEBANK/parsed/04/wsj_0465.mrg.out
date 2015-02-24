@@ -1,0 +1,190 @@
+(S1 (S (NP (JJ Medical) (NNS scientists)) (VP (VBP are) (VP (VBG starting) (S (VP (TO to) (VP (VB uncover) (NP (NP (DT a) (NN handful)) (PP (IN of) (NP (NP (NNS genes)) (SBAR (WHNP (WDT which)) (S (PRN (, ,) (SBAR (IN if) (FRAG (ADJP (JJ damaged)))) (, ,)) (VP (VB unleash) (NP (NP (DT the) (JJ chaotic) (NN growth)) (PP (IN of) (NP (NP (NNS cells)) (SBAR (WHNP (WDT that)) (S (VP (VBZ characterizes) (NP (NN cancer))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Scientists)) (VP (VBP say) (SBAR (S (NP (NP (DT the) (NN discovery)) (PP (IN of) (NP (DT these) (NNS genes))) (PP (IN in) (NP (JJ recent) (NNS months)))) (VP (VBZ is) (VP (VBG painting) (NP (NP (DT a) (ADJP (JJ new) (CC and) (JJ startling)) (NN picture)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (NN cancer)) (VP (VBZ develops))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT An) (VBG emerging) (NN understanding)) (PP (IN of) (NP (DT the) (NNS genes)))) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB produce) (NP (NP (DT an) (NN array)) (PP (IN of) (NP (NP (JJ new) (NNS strategies)) (PP (IN for) (NP (NP (JJ future) (NN cancer) (NN treatment)) (CC and) (NP (NN prevention)))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ is) (PP (IN for) (NP (DT the) (NN future)))) (. .)))
+
+(S1 (S (ADVP (RB Already)) (, ,) (NP (NNS scientists)) (VP (VBP are) (VP (VBG developing) (NP (NP (NNS tests)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (ADJP (RB newly) (VBN identified)) (NNS genes)) (SBAR (WHNP (WDT that)) (S (, ,) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (VP (MD can) (VP (VB predict) (SBAR (IN whether) (S (NP (DT an) (ADJP (RB otherwise) (JJ healthy)) (NN individual)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB get) (NP (NN cancer))))))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (JJ super-exciting) (NN set)) (PP (IN of) (NP (NNS discoveries))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Bert) (NNP Vogelstein)) (, ,) (NP (NP (DT a) (NNP Johns) (NNP Hopkins) (NNP University) (NN researcher)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (ADVP (RB just)) (VP (VBN found) (NP (NP (DT a) (NN gene)) (ADJP (JJ pivotal) (PP (TO to) (NP (NP (DT the) (VBG triggering)) (PP (IN of) (NP (NN colon) (NN cancer))))))))))))) (. .)))
+
+(S1 (S (`` `) (ADVP (NP (`` `) (RB Only) (DT a) (NN decade)) (RB ago)) (NP (NN cancer)) (VP (VBD was) (NP (NP (DT a) (JJ black) (NN box)) (SBAR (WHPP (IN about) (WHNP (WDT which))) (S (NP (PRP we)) (VP (VBD knew) (NP (NN nothing)) (PP (IN at) (NP (DT the) (JJ molecular) (NN level)))))))) (. .)))
+
+(S1 (S (NP (NN Today)) (, ,) (S (NP (PRP we)) (VP (VBP know) (SBAR (IN that) (S (NP (NP (DT the) (NN accumulation)) (PP (IN of) (NP (NP (JJ several)) (PP (IN of) (NP (DT these) (JJ altered) (NNS genes)))))) (VP (MD can) (VP (VP (VB initiate) (NP (DT a) (NN cancer))) (CC and) (, ,) (ADVP (RB then)))))))) (, ,) (VP (VB propel) (NP (PRP it)) (PP (IN into) (NP (DT a) (JJ deadly) (NN state)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNS Scientists)) (VP (VBP call) (S (NP (NP (DT the) (JJ new) (NN class)) (PP (IN of) (NP (NP (NNS genes) (NNS tumor-suppressors)) (, ,) (CC or) (RB simply) (NP (JJ anti-cancer) (NNS genes))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (VP (VBG functioning) (ADVP (RB normally))))) (, ,) (NP (PRP they)) (VP (VBP make) (NP (NP (NNS proteins)) (SBAR (WHNP (WDT that)) (S (VP (VBP hold) (NP (NP (NP (DT a) (NN cell) (POS 's)) (NN growth)) (PP (IN in) (NP (NN check))))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN if) (S (NP (DT the) (NNS genes)) (VP (VBP are) (VP (VBN damaged))))) (PRN (: --) (PP (RB perhaps) (PP (IN by) (NP (NP (NN radiation)) (, ,) (NP (DT a) (NN chemical)))) (CC or) (PP (IN through) (NP (NP (DT a) (NN chance) (NN accident)) (PP (IN in) (NP (NN cell) (NN division)))))) (: --)) (S (NP (PRP$ their) (JJ growth-suppressing) (NNS proteins)) (ADVP (RB no) (RB longer)) (VP (VBP work))) (, ,) (CC and) (S (NP (NP (NNS cells)) (PP (ADVP (RB normally)) (IN under) (NP (NN control)))) (VP (VBP turn) (ADJP (JJ malignant)))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (RB newly) (VBN identified)) (NNS genes)) (VP (VBP differ) (PP (IN from) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NP (NNS genes)) (VP (VBN discovered) (PP (IN in) (NP (DT the) (JJ early) (CD 1980s)))))) (VP (VBN called) (S (NP (NNS oncogenes))))))) (. .)))
+
+(S1 (S (S (NP (NNS Oncogenes)) (VP (MD must) (VP (VB be) (ADJP (JJ present)) (SBAR (IN for) (S (NP (DT a) (NN cell)) (VP (TO to) (VP (VB become) (ADJP (JJ malignant))))))))) (, ,) (CC but) (S (NP (NNS researchers)) (VP (VBP have) (VP (VP (VBN found) (NP (PRP them)) (PP (IN in) (ADJP (JJ normal)))) (CONJP (RB as) (RB well) (IN as)) (PP (IN in) (NP (JJ cancerous) (NNS cells))) (, ,) (S (VP (VBG suggesting) (SBAR (IN that) (S (NP (NNS oncogenes)) (VP (VBP do) (RB n't) (VP (VB cause) (NP (NN cancer)) (PP (IN by) (NP (PRP themselves)))))))))))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (JJ recent) (NNS months))) (, ,) (NP (NNS researchers)) (VP (VBP have) (VP (VBN come) (S (VP (TO to) (VP (VB believe) (SBAR (S (NP (NP (DT the) (CD two) (NNS types)) (PP (IN of) (NP (NN cancer) (NNS genes)))) (VP (VBP work) (PP (IN in) (NP (NN concert)))))))))))) (: :) (S (NP (DT An) (NN oncogene)) (VP (MD may) (VP (VB turn) (ADJP (NP (VBG proliferating) (NNS cells)) (JJ malignant)) (SBAR (RB only) (IN after) (S (NP (DT the) (NN tumor-suppressor) (NN gene)) (VP (VBZ has) (VP (VBN been) (VP (VBN damaged))))))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (DT all) (NNS genes))) (, ,) (NP (JJ tumor-suppressor) (NNS genes)) (VP (VBP are) (VP (VBN inherited) (PP (IN in) (NP (NP (CD two) (NNS copies)) (, ,) (NP (NP (CD one)) (PP (IN from) (NP (DT each) (NN parent)))))))) (. .)))
+
+(S1 (S (S (NP (DT Either) (NN copy)) (VP (MD can) (VP (VB make) (NP (NP (DT the) (NNS proteins)) (VP (VBN needed) (S (VP (TO to) (VP (VB control) (NP (NN cell) (NN growth)))))))))) (, ,) (CC so) (S (SBAR (IN for) (NN cancer) (S (VP (TO to) (VP (VB arise))))) (, ,) (NP (DT both) (NNS copies)) (VP (MD must) (VP (VB be) (VP (VBN impaired))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN person)) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBN born) (PP (PP (IN with) (NP (NP (CD one) (JJ defective) (NN copy)) (PP (IN of) (NP (DT a) (JJ suppressor) (NN gene))))) (, ,) (CC or) (PP (IN in) (SBAR (WHNP (WP whom)) (S (NP (CD one) (NN copy)) (VP (VBZ is) (VP (VBN damaged) (PP (ADVP (RB early)) (IN in) (NP (NN life)))))))) (, ,))))))) (VP (VBZ is) (ADJP (RB especially) (JJ prone) (PP (TO to) (NP (NN cancer)))) (SBAR (IN because) (S (NP (PRP he)) (VP (MD need) (ADVP (RB only)) (VP (VB lose) (NP (NP (DT the) (JJ other) (NN copy)) (PP (IN for) (NP (DT a) (NN cancer) (S (VP (TO to) (VP (VB develop)))))))))))) (. .)))
+
+(S1 (S (NP (VBG Emerging) (JJ genetic) (NNS tests)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB spot) (NP (JJ such) (JJ cancer-susceptible) (NNS individuals)) (, ,) (S (VP (VBG ushering) (PP (IN in) (SBAR (WHNP (WP what)) (S (NP (DT some) (NNS scientists)) (VP (VBP believe) (SBAR (S (VP (VBZ is) (NP (NP (DT a) (JJ new) (NN age)) (PP (IN of) (NP (JJ predictive) (NN cancer) (NN diagnosis))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Bill) (CC and) (NNP Bonnie) (NNP Quinlan)) (VP (VBP are) (PP (IN among) (NP (NP (DT the) (JJ first) (NNS beneficiaries)) (PP (IN of) (NP (DT the) (JJ new) (NNS findings)))))) (. .)))
+
+(S1 (S (NP (DT The) (NAC (NNP Dedham) (, ,) (NNP Mass.) (, ,)) (NN couple)) (VP (VBD knew) (SBAR (RB even) (IN before) (S (NP (NNP Bonnie)) (VP (VBD became) (ADJP (JJ pregnant)) (PP (IN in) (NP (CD 1987))) (SBAR (IN that) (S (NP (NP (DT any) (NN child)) (PP (IN of) (NP (PRP theirs)))) (VP (VBD had) (NP (NP (DT a) (ADJP (CD 50) (NN %)) (NN chance)) (PP (IN of) (S (VP (VBG being) (PP (IN at) (NP (NN risk)))))) (PP (IN for) (NP (NP (FW retinoblastoma)) (, ,) (NP (NP (DT an) (NN eye) (NN cancer)) (SBAR (WHNP (WDT that)) (S (VP (VBZ occurs) (PP (IN about) (NP (QP (RB once) (DT every) (CD 20,000)) (NNS births))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Quinlan)) (, ,) (ADJP (NP (CD 30) (NNS years)) (JJ old)) (, ,)) (VP (VBD knew) (SBAR (S (NP (PRP he)) (VP (VBD carried) (NP (DT a) (JJ damaged) (NN gene)) (, ,) (S (VP (VBG having) (VP (VBN lost) (NP (DT an) (NN eye)) (PP (TO to) (NP (NP (DT the) (JJ rare) (NN tumor)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (ADJP (NP (QP (RB only) (CD two)) (NNS months)) (JJ old))))))) (: --) (SBAR (IN after) (S (NP (PRP$ his) (NN mother)) (VP (VBD had) (VP (VBN suffered) (NP (DT the) (JJ same) (NN fate)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBD was) (NP (DT a) (NN baby)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN Because) (IN of) (NP (NP (DT the) (NN isolation)) (PP (IN of) (NP (DT the) (JJ retinoblastoma) (NN tumor-suppressor) (NN gene))))) (, ,) (NP (PRP it)) (VP (VBD became) (ADJP (JJ possible)) (NP (JJ last) (NNP January)) (S (VP (TO to) (VP (VB find) (PRT (RP out)) (SBAR (WHNP (WP what) (NN threat)) (S (NP (DT the) (NNP Quinlan) (NN baby)) (VP (VBN faced)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN test)) (PP (VBG using) (NP (JJ new) (`` `) (NP (`` `) (JJ genetic) (NNS probes) (POS ')) (POS ')))) (VP (VBD showed) (SBAR (IN that) (S (NP (JJ little) (NNP Will) (NNP Quinlan)) (VP (VP (VBD had) (RB not) (VP (VBN inherited) (NP (DT a) (JJ damaged) (NN retinoblastoma) (NN supressor) (NN gene)))) (CC and) (, ,) (ADVP (RB therefore)) (, ,) (VP (VBD faced) (NP (NP (DT no) (JJR more) (NN risk)) (PP (IN than) (NP (NP (JJ other) (NNS children)) (PP (IN of) (S (VP (VBG developing) (NP (DT the) (JJ rare) (NN cancer))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBD made) (NP (PRP$ our) (NNP New) (NN Year))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NNP Mr.) (NNP Quinlan)) (. .)))
+
+(S1 (S (NP (DT This) (NN test)) (VP (VBD was) (NP (NP (DT the) (JJ first)) (SBAR (S (VP (TO to) (VP (VB predict) (SBAR (ADVP (RB reliably)) (IN whether) (S (NP (DT an) (NN individual)) (VP (MD could) (VP (VB expect) (S (VP (TO to) (VP (VB develop) (NP (NN cancer))))))))))))))) (. .)))
+
+(S1 (S (S (ADJP (RB Equally) (JJ important))) (, ,) (NP (NP (DT the) (JJ initial) (NN discovery)) (PP (IN of) (NP (NP (DT the) (NN gene)) (SBAR (WHNP (WDT that)) (S (VP (VBZ controls) (NP (JJ retinal) (NN cell) (NN growth))))))) (, ,) (VP (VBN made) (PP (IN by) (NP (NP (DT a) (NNP Boston) (NN doctor)) (VP (VBN named) (NP (NNP Thaddeus) (NNP Dryja)))))) (, ,)) (VP (VBZ has) (VP (VBN opened) (NP (NP (DT a) (NN field)) (PP (IN of) (NP (NP (NN cancer) (NN study)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (JJ recent) (NNS months))) (VP (VBZ has) (VP (VBD exploded)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ turns) (PRT (RP out)) (SBAR (IN that) (S (S (VP (VBG studying) (NP (DT a) (ADJP (JJ tragic) (CC but) (JJ uncommon)) (NN tumor)))) (VP (VBD made) (S (VP (JJ possible) (NP (NP (DT some) (JJ fundamental) (NNS insights)) (PP (IN about) (NP (NP (DT the) (RBS most) (JJ basic) (NNS workings)) (PP (IN of) (NP (NN cancer)))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Samuel) (NNP Broder)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (DT the) (NNP National) (NNP Cancer) (NNP Institute))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PDT All) (DT this)) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ obvious) (PP (TO to) (NP (NP (DT the) (NN public)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN concerned) (PP (IN about) (NP (NP (NNS advances)) (PP (IN in) (NP (NN treatment))))))))))))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP am) (VP (VBN convinced) (SBAR (S (NP (DT this) (JJ basic) (NN research)) (VP (MD will) (VP (VB begin) (S (VP (VBG showing) (NP (NNS results)) (ADVP (RB there) (RB soon))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (TO To) (NP (NN date))) (, ,) (NP (NNS scientists)) (VP (VBP have) (VP (VBN fingered) (NP (NP (CD two)) (PP (IN of) (NP (DT these) (NNS cancer-suppressors)))))) (. .)))
+
+(S1 (S (NP (NNP Dr.) (NNP Dryja)) (VP (VBD made) (NP (PRP$ his) (NN retinoblastoma) (NN discovery)) (PP (IN in) (NP (CD 1986)))) (. .)))
+
+(S1 (S (RB Then) (NP (JJ last) (NN spring)) (, ,) (NP (NNS researchers)) (VP (VBD reported) (S (VP (VBG finding) (NP (NP (DT a) (NN gene)) (VP (VBN called) (S (NP (NP (CD p53)) (SBAR (WHNP (WDT which)) (S (, ,) (SBAR (IN if) (S (VP (VBN impaired)))) (, ,) (VP (VBZ turns) (NP (JJ healthy) (NN colon) (NNS cells)))))) (ADJP (JJ cancerous)))))))) (. .)))
+
+(S1 (S (PP (ADVP (RB Soon)) (IN after) (NP (DT that) (NN report))) (, ,) (NP (CD two) (JJ other) (NN research) (NNS teams)) (VP (VBD uncovered) (NP (NN evidence) (SBAR (IN that) (S (NP (DT the) (JJ same)) (VP (VBD damaged) (SBAR (S (NP (CD p53) (NN gene)) (VP (VBZ is) (ADJP (JJ present) (PP (IN in) (NP (NP (NN tissue)) (PP (IN from) (NP (NN lung) (CC and) (NN breast) (NNS cancers)))))))))))))) (. .)))
+
+(S1 (S (NP (NN Colon) (, ,) (NN lung) (CC and) (NN breast) (NNS cancers)) (VP (VBP are) (NP (NP (DT the) (RBS most) (JJ common) (CC and) (JJ lethal) (NNS forms)) (PP (IN of) (NP (DT the) (NN disease)))) (, ,) (S (ADVP (RB collectively)) (VP (VBG killing) (NP (NP (QP (RB almost) (CD 200,000)) (NNS Americans)) (NP (DT a) (NN year)))))) (. .)))
+
+(S1 (S (ADVP (RB Right) (RB now) (PP (IN about) (NP (DT a) (NN dozen) (NNS laboratories)))) (, ,) (PP (IN in) (NP (NP (DT the) (NNP U.S.)) (, ,) (NP (NNP Canada)) (CC and) (NP (NNP Britain)))) (, ,) (VP (VBP are) (VP (VBG racing) (S (VP (TO to) (VP (VB unmask) (NP (JJ other) (VBN suspected) (JJ tumor-suppressing) (NNS genes))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP have) (NP (QP (RB about) (CD seven)) (NNS candidates))) (. .)))
+
+(S1 (S (NP (NNS Researchers)) (VP (VBP say) (SBAR (S (NP (NP (DT the) (NN inactivation)) (PP (IN of) (NP (JJ tumor-suppressor) (NNS genes))) (, ,) (UCP (ADVP (RB alone)) (CC or) (PP (IN in) (NP (NN combination)))) (, ,)) (VP (VBZ appears) (ADJP (JJ crucial) (PP (TO to) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NP (JJ such) (NNS scourges)) (PP (IN as) (NP (NP (NP (NN cancer)) (PP (IN of) (NP (DT the) (NN brain)))) (, ,) (NP (DT the) (NN skin) (, ,) (NN kidney) (, ,) (NN prostate) (, ,) (CC and) (NN cervix))))))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NN evidence) (SBAR (IN that) (S (SBAR (IN if) (S (NP (NNS people)) (VP (VBP inherit) (NP (NP (JJ defective) (NNS versions)) (PP (IN of) (NP (DT these) (NNS genes))))))) (, ,) (NP (PRP they)) (VP (VBP are) (ADJP (RB especially) (JJ prone) (PP (TO to) (NP (NN cancer)))) (, ,) (S (ADVP (RB perhaps)) (VP (VBG explaining) (, ,) (ADVP (RB finally)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (DT some) (NNS cancers)) (VP (VBP seem) (S (VP (TO to) (VP (VB haunt) (NP (JJ certain) (NNS families))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN story)) (PP (IN of) (NP (JJ tumor-suppressor) (NNS genes)))) (VP (VBZ goes) (ADVP (RB back) (PP (TO to) (NP (NP (DT the) (NNS 1970s)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN pediatrician)) (VP (VBD named) (SBAR (S (NP (NNP Alfred) (NNP G.) (NNP Knudson) (NNP Jr.)) (VP (VBD proposed) (SBAR (IN that) (S (NP (NN retinoblastoma)) (VP (VBD stemmed) (PP (IN from) (NP (CD two) (JJ separate) (JJ genetic) (NNS defects)))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD theorized) (SBAR (IN that) (S (PP (IN in) (NP (DT the) (NN eye) (NN cancer))) (, ,) (NP (DT an) (NN infant)) (VP (VBD inherited) (NP (NP (DT a) (JJ damaged) (NN copy)) (PP (IN of) (NP (DT a) (NN gene)))) (PP (IN from) (NP (NP (CD one) (NN parent)) (CC and) (NP (DT a) (JJ normal) (NN copy)))) (PP (IN from) (NP (DT the) (JJ other))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN tumor)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD suggested))) (, ,)) (VP (VBD developed) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ second) (, ,) (JJ normal) (NN copy)) (ADVP (RB also)) (VP (VBD was) (VP (VBN damaged)))))) (. .)))
+
+(S1 (S (CC But) (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN way)) (SBAR (S (VP (TO to) (VP (VB prove) (NP (NP (NNP Dr.) (NNP Knudson) (POS 's)) (`` `) (ADJP (`` `) (JJ two-hit) ('' ')) ('' ') (NN theory)))))))) (. .)))
+
+(S1 (S (ADVP (RB Back) (RB then)) (, ,) (S (NP (NNS scientists)) (VP (VBD had) (NP (NP (DT no) (NN way)) (PP (IN of) (S (VP (VBG ferreting) (PRT (RP out)) (NP (JJ specific) (NNS genes)))))))) (, ,) (CC but) (S (PP (IN under) (NP (DT a) (NN microscope))) (NP (PRP they)) (VP (MD could) (VP (VB see) (NP (NP (DT the) (CD 23) (NNS pairs)) (PP (IN of) (NP (NP (NNS chromosomes)) (PP (IN in) (NP (NP (DT the) (NNS cells)) (SBAR (WHNP (WDT that)) (S (VP (VBP contain) (NP (DT the) (NNS genes))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Occasionally)) (, ,) (NP (JJ gross) (NN chromosome) (NN damage)) (VP (VBD was) (ADJP (JJ visible))) (. .)))
+
+(S1 (S (NP (NNP Dr.) (NNP Knudson)) (VP (VBD found) (SBAR (IN that) (S (NP (NP (DT some) (NNS children)) (PP (IN with) (NP (DT the) (NN eye) (NN cancer)))) (VP (VBD had) (VP (VBN inherited) (NP (NP (DT a) (JJ damaged) (NN copy)) (PP (IN of) (NP (NN chromosome) (NN No.) (CD 13)))) (PP (IN from) (NP (NP (DT a) (NN parent)) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN had) (NP (DT the) (NN disease))))))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT a) (NN microscope))) (NP (PRP he)) (VP (MD could) (ADVP (RB actually)) (VP (VB see) (SBAR (IN that) (S (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (NN chromosome) (CD 13)))) (VP (VBD was) (VP (VBG missing))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD assumed) (SBAR (S (NP (DT the) (VBG missing) (NN piece)) (VP (VBD contained) (NP (NP (DT a) (NN gene)) (CC or) (NP (NP (NNS genes)) (SBAR (WHNP (WP$ whose) (NN loss)) (S (VP (VBD had) (NP (NP (DT a) (JJ critical) (NN role)) (PP (IN in) (S (VP (VBG setting) (PRT (RP off)) (NP (DT the) (NN cancer))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB know) (SBAR (WHNP (WDT which)) (S (NP (NN gene) (CC or) (NNS genes)) (VP (VBD had) (VP (VBD disappeared))))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (, ,) (NP (NP (DT a) (JJ scientific) (NN team)) (VP (VBN led) (PP (IN by) (NP (JJ molecular) (NN geneticist) (NNP Webster) (NNP Cavenee)))) (PRN (, ,) (PP (ADVP (RB then)) (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Utah))))) (, ,))) (VP (VBD found) (NP (DT the) (NN answer))) (. .)))
+
+(S1 (S (NP (DT The) (NN team)) (VP (VBD used) (NP (NP (DT a) (NN battery)) (PP (IN of) (NP (NP (NP (DT the) (ADJP (RB newly) (VBN developed)) (`` `) (NX (`` `) (NX (NN gene) (NNS probes)) (, ,) ('' ')) (POS ')) (NNS snippets)) (PP (IN of) (NP (NP (JJ genetic) (NN material)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB track) (NP (NP (DT a) (NN gene) (POS 's)) (NN presence)) (PP (IN in) (NP (DT a) (NN cell))))))))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (VBG analyzing) (NNS cells)) (VP (VBN extracted) (PP (IN from) (NP (NN eye) (NNS tumors)))))) (, ,) (NP (PRP they)) (VP (VBD found) (NP (NP (NNS defects)) (PP (IN in) (NP (NP (DT the) (JJ second) (NN copy)) (PP (IN of) (NP (NN chromosome) (CD 13)))))) (PP (IN in) (NP (NP (DT the) (JJ exact) (NN area)) (PP (IN as) (PP (IN in) (NP (NP (DT the) (JJ first) (NN copy)) (PP (IN of) (NP (DT the) (NN chromosome))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN finding)) (VP (VBN riveted) (NP (NN medicine))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (NN anyone)) (VP (VBD had) (VP (VBN showed) (SBAR (IN that) (S (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NP (DT both) (NNS copies)) (PP (IN of) (NP (DT the) (JJ same) (NN gene)))))) (VP (MD could) (VP (VB lead) (PP (TO to) (NP (NP (DT the) (NN eruption)) (PP (IN of) (NP (DT a) (NN cancer))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBD was) (ADJP (RB extraordinarily) (JJ satisfying))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Dr.) (NNP Knudson)) (, ,) (RRC (ADVP (RB now)) (PP (IN at) (NP (NP (NNP Fox) (NNP Chase) (NNP Cancer) (NNP Research) (NNP Center)) (PP (IN in) (NP (NNP Philadelphia))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBD was) (VP (VBN convinced) (SBAR (IN that) (S (SBAR (WHNP (WP what)) (S (VP (VBD was) (ADJP (JJ true) (PP (IN of) (NP (NN retinoblastoma))))))) (VP (MD would) (VP (VB be) (ADJP (JJ true)) (PP (IN for) (NP (DT all) (NNS cancers)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (DT an) (JJ audacious) (NN claim))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (NNP Baltimore))) (, ,) (NP (NP (NNP Dr.) (NNP Vogelstein)) (, ,) (NP (NP (DT a) (JJ young) (JJ molecular) (NN biologist)) (PP (IN at) (NP (NNP Johns) (NNP Hopkins) (NNP Medical) (NNP School)))) (, ,)) (VP (VBD believed) (SBAR (S (NP (NNP Dr.) (NNP Knudson)) (VP (VP (VBD was) (ADJP (JJ right))) (, ,) (CC and) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB repeat) (NP (DT the) (NNP Cavenee) (NN experiment)) (PP (IN in) (NP (NP (NNS cells)) (PP (IN from) (NP (JJ other) (NNS cancers))))))))))))) (. .)))
+
+(S1 (S (NP (PRP His)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (CD two) (NN research) (NNS teams)))) (PP (IN in) (NP (CD 1984))) (S (VP (TO to) (VP (VB report) (NP (JJ dual) (JJ chromosome) (NNS losses)) (PP (IN for) (NP (NP (DT a) (JJ rare) (NN childhood) (NN cancer)) (PP (IN of) (NP (NP (DT the) (NN kidney)) (VP (VBN called) (S (NP (NP (NNP Wilm) (POS 's)) (NN tumor)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Dr.) (NNP Vogelstein)) (ADVP (RB next)) (VP (VBD turned) (NP (PRP$ his) (NN attention)) (PP (TO to) (NP (NP (NN colon) (NN cancer)) (, ,) (NP (NP (DT the) (JJ second) (JJS biggest) (NN cancer) (NN killer)) (PP (IN in) (NP (DT the) (NNP U.S.)))))) (PP (IN after) (NP (NN lung) (NN cancer)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD believed) (SBAR (S (NP (NN colon) (NN cancer)) (VP (MD might) (ADVP (RB also)) (VP (VB arise) (PP (IN from) (NP (NN multiple))) (NP (`` `) (NP (`` `) (NNS hits) ('' ')) ('' ') (PP (IN on) (NP (NN cancer) (NN suppressor) (NNS genes)))) (, ,) (SBAR (IN because) (S (NP (PRP it)) (ADVP (RB often)) (VP (VBZ seems) (S (VP (TO to) (VP (VB develop) (PP (IN in) (NP (NNS stages)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB often)) (VP (VBZ is) (VP (VBN preceded) (PP (IN by) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NP (NNS polyps)) (PP (IN in) (NP (NP (DT the) (NN bowel)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (DT some) (NNS cases))) (VP (VBP become) (ADJP (RB increasingly) (JJ malignant) (PP (IN in) (NP (NP (JJ identifiable) (NNS stages)) (PRN (: --) (PP (VBG progressing) (PP (IN from) (ADJP (RBR less) (JJ severe) (TO to) (JJ deadly)))) (: --))))) (SBAR (IN as) (IN though) (S (NP (NP (DT a) (NNP cascade)) (PP (IN of) (NP (JJ genetic) (NN damage)))) (VP (MD might) (VP (VB be) (VP (VBG occurring))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Dr.) (NNP Vogelstein)) (CC and) (NP (NP (DT a) (JJ doctoral) (NN student)) (, ,) (NP (NNP Eric) (NNP Fearon)) (, ,))) (VP (VBD began) (NP (NP (NNS months)) (PP (IN of) (ADJP (ADJP (JJ tedious)) (CC and) (ADJP (RB often) (JJ frustrating))))) (S (VP (VBG probing) (PP (IN of) (NP (NP (DT the) (NNS chromosomes)) (VP (VBG searching) (PP (IN for) (NP (NP (NNS signs)) (PP (IN of) (NP (JJ genetic) (NN damage))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD began) (S (VP (VBG uncovering) (NP (NP (DT a) (JJ confusing) (NN variety)) (PP (IN of) (NP (NP (JJ genetic) (NNS deletions)) (, ,) (NP (DT some) (JJ existing) (QP (RB only) (IN in) (JJ benign)) (NNS polyps)) (, ,) (NP (NP (NNS others)) (PP (IN in) (NP (NP (JJ malignant) (NNS cells)) (CC and) (NP (NP (JJ many)) (PP (IN in) (NP (DT both) (NNS polyps))))))) (CC and) (NP (JJ malignant) (NNS cells)))))))) (. .)))
+
+(S1 (S (ADVP (RB Gradually)) (, ,) (NP (NP (DT a) (NNP coherent) (NN picture)) (PP (IN of) (NP (NN cancer) (NN development)))) (VP (VBD emerged)) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NP (DT both) (NNS copies)) (PP (IN of) (NP (DT a) (JJ certain) (NN gene)))) (VP (VBD were) (VP (VBN knocked) (PRT (RP out)))))) (, ,) (NP (JJ benign) (NNS polyps)) (VP (MD would) (VP (VB develop))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NP (DT both) (NNS copies)) (PP (IN of) (NP (DT a) (JJ second) (NN gene)))) (VP (VBD were) (VP (ADVP (RB then)) (VBN deleted))))) (, ,) (NP (DT the) (NNS polyps)) (VP (MD would) (VP (VB progress) (PP (TO to) (NP (NN malignancy))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ clear) (SBAR (IN that) (S (NP (QP (JJR more) (IN than) (CD one)) (NN gene)) (VP (VBD had) (S (VP (TO to) (VP (VB be) (ADJP (JJ damaged) (PP (IN for) (NP (NN colon) (NN cancer))))))) (S (VP (TO to) (VP (VB develop))))))))) (. .)))
+
+(S1 (S (NP (PRP$ Their) (NN report)) (VP (VBD galvanized) (NP (JJ other) (JJ molecular) (NNS biologists))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (VBG confirming) (NN evidence)) (SBAR (S (NP (PRP we) (DT all)) (VP (VBD needed) (SBAR (IN that) (S (NP (-LRB- -LCB-) (NN gene) (-RRB- -RCB-) (NNS losses)) (VP (VBD were) (ADJP (JJ critical) (PP (TO to) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (DT a) (JJ common) (NN tumor)))))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Ray) (NNP White)) (PP (IN at) (NP (NP (NNP Howard) (NNP Hughes) (NNP Medical) (NNP Institute)) (PP (IN in) (NP (NNP Salt) (NNP Lake) (NNP City)))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Dr.) (NNP Vogelstein)) (VP (VBD had) (ADVP (RB yet)) (S (VP (TO to) (VP (VB nail) (NP (NP (DT the) (NN identity)) (PP (IN of) (NP (NP (DT the) (NN gene)) (SBAR (WHNP (WDT that)) (PRN (, ,) (SBAR (IN if) (FRAG (ADJP (JJ damaged)))) (, ,)) (S (VP (VBD flipped) (NP (DT a) (NN colon) (NN cell)) (PP (IN into) (NP (JJ full-blown) (NN malignancy))))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD focused) (PP (IN on) (NP (NN chromosome) (CD 17)))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NNS months))) (NP (DT the) (NNP Johns) (NNP Hopkins) (NNS researchers)) (, ,) (S (VP (VBG using) (NP (NN gene) (NNS probes)))) (, ,) (VP (ADVP (RB experimentally)) (VBD crawled) (PRT (RP down)) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (JJ chromosome) (CD 17)))) (, ,) (S (VP (VBG looking) (PP (IN for) (NP (NP (DT the) (JJS smallest) (JJ common) (NN bit)) (PP (IN of) (NP (NP (JJ genetic) (NN material)) (VP (VBN lost) (PP (IN in) (NP (DT all) (NN tumor) (NNS cells))))))))))) (. .)))
+
+(S1 (S (NP (NP (PDT Such) (DT a) (NN piece)) (PP (IN of) (NP (NNP DNA)))) (VP (MD would) (ADVP (RB probably)) (VP (VB constitute) (NP (DT a) (NN gene)))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP they)) (VP (VBD found) (S (NP (PRP it)) (NP (JJ last) (NN winter)))))) (, ,) (NP (NNP Dr.) (NNP Vogelstein)) (VP (VBD was) (ADJP (JJ dubious)) (SBAR (IN that) (S (NP (DT the) (NN search)) (VP (VBD was) (ADVP (RB over)))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NNS doubts)) (VP (VBD stemmed) (PP (IN from) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (NP (ADVP (NP (JJ several) (NNS years)) (RB earlier)) (DT a) (NNP Princeton) (NNP University) (NN researcher)) (, ,) (NP (NNP Arnold) (NNP Levine)) (, ,)) (VP (VBD had) (VP (VBN found) (PP (IN in) (NP (NP (NNS experiments)) (PP (IN with) (NP (NNS mice) (SBAR (IN that) (S (NP (NP (DT a) (NN gene)) (VP (VBD called) (NP (CD p53)))) (VP (MD could) (VP (VB transform) (NP (JJ normal) (NNS cells)) (PP (IN into) (NP (JJ cancerous) (NNS ones)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN deletion) (NNP Dr.) (NNP Vogelstein)) (VP (VBD found) (SBAR (S (VP (VBD was) (PP (IN in) (NP (NP (RB exactly) (DT the) (JJ same) (NN spot)) (PP (IN as) (NP (CD p53))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Mr.) (NNP Levine)) (VP (VBD had) (VP (VBN said) (NP (NP (DT the) (CD p53) (NN gene)) (VP (VBN caused) (NP (NN cancer)) (PP (IN by) (S (VP (VBG promoting) (NP (NN growth))))))) (, ,) (SBAR (IN whereas) (S (NP (DT the) (NNP Johns) (NNP Hopkins) (NNS scientists)) (VP (VBD were) (VP (VBG looking) (PP (IN for) (NP (DT a) (NN gene))) (NP (DT that) (VBN suppressed) (NN growth)))))))) (. .)))
+
+(S1 (S (S (PP (IN Despite) (NP (DT that))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP Johns) (NNP Hopkins) (NNS scientists)) (VP (VBN compared) (NP (NP (DT the) (NN gene)) (SBAR (S (NP (PRP they)) (VP (VBD had) (VP (VBN found) (PP (IN in) (NP (DT the) (JJ human) (NN cancer) (NNS cells))) (PP (IN with) (NP (NP (DT the) (NNP Mr.) (NNP Levine) (POS 's)) (CD p53) (NN gene))))))))))) (NP (PRP they)) (VP (VBD found) (SBAR (S (NP (DT the) (CD two)) (VP (VBD were) (ADJP (JJ identical))))))) (: ;) (S (NP (PRP it)) (VP (VBD turned) (PRT (RP out)) (SBAR (IN that) (S (PP (IN in) (NP (NP (NNP Mr.) (NNP Levine) (POS 's)) (NN cancer) (NNS studies))) (, ,) (NP (PRP he)) (VP (VBD had) (ADVP (RB unknowingly)) (VP (VBN been) (VP (VBG observing) (NP (NP (DT a) (JJ damaged) (NN form)) (PP (IN of) (NP (NP (CD p53)) (: --) (NP (DT a) (JJ cancer-suppressing) (NN gene)))))))))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NN discovery)) (`` `) (VP (`` `) (ADVP (RB suddenly)) (VP (VBZ puts) (NP (DT an) (JJ obscure) (NN gene)) (PP (ADVP (RB right)) (IN in) (NP (NP (DT the) (NN cockpit)) (PP (IN of) (NP (NN cancer) (NN formation)))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Robert) (NNP Weinberg)) (, ,) (NP (NP (DT a) (NN leader)) (PP (IN in) (NP (NP (JJ cancer-gene) (NN research)) (PP (IN at) (NP (NP (NNP Whitehead) (NNP Institute)) (PP (IN in) (NP (NP (NNP Cambridge)) (, ,) (NP (NNP Mass)))))))))) (. .)))
+
+(S1 (S (NP (NN Evidence)) (ADVP (RB now)) (VP (VBZ is) (VP (VBG emerging) (SBAR (IN that) (S (NP (DT the) (ADJP (CD p53) (NN suppressor)) (NN gene)) (VP (VBZ is) (VP (VBN involved) (PP (IN in) (NP (JJ other) (NNS cancers))) (, ,) (ADVP (RB too)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Researchers)) (PP (IN in) (NP (NP (NNP Edinburgh)) (, ,) (NP (NNP Scotland)) (, ,)))) (VP (VBP have) (VP (VBN found) (SBAR (IN that) (S (PP (IN in) (NP (NP (CD 23)) (PP (IN of) (NP (CD 38) (JJ breast) (NNS tumors))))) (, ,) (NP (NP (CD one) (NN copy)) (PP (IN of) (NP (JJ chromosome) (CD 17)))) (VP (VBD was) (VP (VBN mutated) (PP (IN at) (NP (NP (DT the) (NN spot)) (SBAR (WHADVP (WRB where)) (S (NP (NN gene) (CD p53)) (VP (VBZ lies)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS scientists)) (VP (VBP say) (SBAR (IN that) (S (SBAR (IN since) (S (NP (NN breast) (NN cancer)) (ADVP (RB often)) (VP (VBZ strikes) (NP (NP (JJ multiple) (NNS members)) (PP (IN of) (NP (JJ certain) (NNS families))))))) (, ,) (NP (NP (DT the) (NN gene)) (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBN inherited) (PP (IN in) (NP (DT a) (VBN damaged) (NN form)))))) (, ,)) (VP (MD may) (VP (VB predispose) (NP (NNS women)) (PP (TO to) (NP (DT the) (NN cancer)))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD p53) (NN gene)) (VP (VBZ has) (ADVP (RB just)) (VP (VBN been) (VP (VBN implicated) (PP (IN in) (NP (NN lung) (NN cancer)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN report)) (PP (IN out) (NP (JJ last) (NN week))))) (, ,) (NP (NP (NNP John) (NNP Minna)) (CC and) (NP (NP (NNS colleagues)) (PP (IN at) (NP (DT the) (NNP National) (NNP Cancer) (NNP Institute))))) (VP (VBP say) (SBAR (IN that) (S (NP (NP (QP (RB about) (PDT half)) (DT the) (NNS cells)) (VP (VBN taken) (PP (IN from) (NP (NP (NP (NN lung) (NN cancer)) (NN tissue)) (SBAR (S (NP (PRP they)) (VP (VBD tested)))))))) (VP (VBP are) (VP (VBG missing) (NP (DT this) (NN gene))))))) (. .)))
+
+(S1 (S (NP (EX There)) (ADVP (RB also)) (VP (VBP are) (NP (NP (NNS reports)) (PP (IN from) (NP (JJ several) (NNS labs)))) (, ,) (ADVP (RB as) (RB yet) (JJ unpublished)) (, ,) (PP (IN of) (S (VP (VBG missing) (NP (NP (CD p53) (NNS genes)) (PP (IN in) (NP (NP (NN tissue)) (VP (VBN taken) (PP (IN from) (NP (NN kidney) (, ,) (NN brain) (CC and) (NN skin) (NNS cancers))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (DT the) (NP (NNP Johns) (NNP Hopkins) (NN team)) (CC and) (NP (NNS others))) (VP (VBP are) (VP (VBG rushing) (S (VP (TO to) (VP (VB pinpoint) (NP (JJ other) (NN tumor-suppressor) (NNS genes))))))) (. .)))
+
+(S1 (S (NP (NNP Dr.) (NNP Vogelstein)) (VP (VBZ hopes) (S (ADVP (RB soon)) (VP (TO to) (VP (VBP isolate) (NP (CD one)) (PP (IN on) (NP (NN chromosome) (CD 18)))) (, ,) (ADVP (RB also)) (VP (VBN involved) (PP (IN in) (NP (NN colon) (NN cancer))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Ray) (NNP White)) (PP (IN in) (NP (NNP Utah)))) (CC and) (NP (NP (NNP Walter) (NNP Bodmer)) (, ,) (NP (NP (DT a) (NN researcher)) (PP (IN in) (NP (NNP Great) (NNP Britain)))) (, ,))) (VP (VBP are) (ADJP (JJ close) (S (VP (TO to) (VP (VBG finding) (NP (NP (DT another) (NN gene)) (VP (VBN involved) (PP (IN with) (NP (NP (DT some) (NNS types)) (PP (IN of) (NP (NN colon) (NN cancer))) (, ,) (VP (VBN thought) (S (VP (TO to) (VP (VB be) (PP (IN on) (NP (NN chromosome) (CD 5)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Dr.) (NNP Minna)) (VP (VBZ believes) (SBAR (S (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD inherit) (NP (NP (DT a) (JJ defective) (NN gene)) (ADVP (RB somewhere))) (PP (IN on) (NP (NP (CD one)) (PP (IN of) (NP (NP (PRP$ their) (CD two) (NNS copies)) (PP (IN of) (NP (NN chromosome) (CD 3))))))))))) (VP (VBP are) (ADJP (RB especially) (JJ prone) (PP (TO to) (NP (NN lung) (NN cancer)))))))) (. .)))
+
+(S1 (S (ADVP (RB Recently)) (, ,) (NP (NP (PRP he)) (CC and) (NP (NNS others))) (VP (VBD reported) (SBAR (IN that) (S (NP (DT the) (ADJP (FW retinoblastoma) (FW suppressor)) (NN gene)) (VP (MD may) (ADVP (RB also)) (VP (VB be) (VP (VBN involved) (PP (IN in) (NP (NP (DT some) (NN lung) (NNS cancers)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (JJ several) (JJ other) (ADJP (RBR more) (JJ common)) (NNS cancers)))) (, ,) (ADVP (RB too)))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB Where)) (S (NP (DT these) (NNS discoveries)) (VP (MD will) (VP (VB lead))))) (, ,) (NP (NNS scientists)) (VP (MD can) (ADVP (RB only)) (VP (VB speculate))) (. .)))
+
+(S1 (S (ADVP (RB Already)) (NP (NP (CD two) (JJ major) (JJ pharmaceutical) (NNS companies)) (, ,) (NP (NP (DT the) (NNP Squibb) (NN unit)) (PP (IN of) (NP (NP (NNP Bristol-Myers) (NNP Squibb) (NNP Co.)) (CC and) (NP (NNP Hoffmann-La) (NNP Roche) (NNP Inc.))))) (, ,)) (VP (VBP are) (VP (VBG collaborating) (PP (IN with) (NP (NN gene) (NNS hunters))) (S (VP (TO to) (VP (VB turn) (NP (NP (DT the) (JJ anticipated) (NNP cascade)) (PP (IN of) (NP (NNS discoveries)))) (PP (IN into) (NP (NP (JJ predictive) (NNS tests)) (CC and) (PRN (, ,) (ADVP (RB maybe)) (, ,)) (NP (JJ new) (NNS therapies))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS researchers)) (VP (VBP say) (SBAR (S (NP (NP (JJ new) (NN cancer) (NNS drugs)) (SBAR (S (VP (TO to) (VP (VB slow) (CC or) (VB reverse) (NP (NN tumor) (NN growth))))))) (VP (MD may) (VP (VB be) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ suppressor) (NNS proteins)) (VP (ADVP (RB normally)) (VBN produced) (PP (IN by) (NP (DT the) (NNS genes)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN idea)) (VP (MD would) (VP (VB be) (S (VP (TO to) (VP (VB administer) (PP (TO to) (NP (NNS patients))) (NP (NP (DT the) (JJ growth-controlling) (NNS proteins)) (VP (VBN made) (PP (IN by) (NP (NP (JJ healthy) (NNS versions)) (PP (IN of) (NP (DT the) (JJ damaged) (NNS genes)))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD may) (ADVP (RB even)) (VP (VB be) (ADJP (JJ possible) (S (VP (TO to) (VP (VB replace) (NP (JJ defective) (NNS genes)) (PP (IN with) (NP (JJ healthy) (NNS versions))))))) (, ,) (SBAR (IN though) (S (NP (DT no) (NN one)) (VP (VBZ has) (VP (VBN come) (ADJP (RB close) (PP (TO to) (S (VP (VBG doing) (NP (DT that)) (ADVP (RB so) (RB far)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT any) (NN case))) (PRN (, ,) (SINV (VP (VBZ says)) (NP (NP (NNP Dr.) (NNP Minna)) (PP (IN of) (NP (DT the) (NNP National) (NNP Cancer) (NNP Institute))))) (, ,) (`` `)) (`` `) (NP (PRP We)) (VP (VBP 're) (VP (VBG witnessing) (NP (NP (DT the) (NN discovery)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ important)) (NNS steps)) (PP (IN in) (NP (NP (DT the) (NN genesis)) (PP (IN of) (NP (NN cancer)))))))))))) (. .)))
+

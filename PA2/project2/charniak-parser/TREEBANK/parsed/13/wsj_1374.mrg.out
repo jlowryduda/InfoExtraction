@@ -1,0 +1,36 @@
+(S1 (S (NP (NNP Tandy) (NNP Corp.)) (, ,) (S (VP (VBG citing) (NP (NP (JJ sluggish) (NNS sales)) (PP (IN of) (NP (JJ consumer-electronics) (NNS goods)))))) (, ,) (VP (VBD said) (SBAR (S (NP (JJ net) (NN income)) (VP (VBD dropped) (NP (CD 3.3) (NN %)) (PP (IN for) (NP (NP (DT the) (JJ first) (NN quarter)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS results)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD represented) (NP (NP (DT the) (ADJP (JJ fifth) (JJ consecutive)) (NN quarter)) (PP (IN of) (NP (NP (JJ flat-to-lower) (NNS earnings)) (PP (IN for) (NP (DT the) (JJ big) (NNS electronics) (NN retailer))))))))) (, ,)) (VP (VBN disappointed) (NP (NNS analysts) (CC and) (NNS traders))) (. .)))
+
+(S1 (S (NP (NP (NNP Tandy) (POS 's)) (NN stock)) (VP (VBD fell) (NP (NP ($ $) (CD 1.375)) (NP (DT a) (NN share))) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP ($ $) (CD 44))) (PP (IN in) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))))))) (. .)))
+
+(S1 (S (NP (NP (NN Net)) (PP (IN for) (NP (DT the) (NN quarter)))) (VP (VBD was) (NP (NP (QP ($ $) (CD 62.8) (CD million))) (, ,) (CC or) (NP (NP (CD 73) (NNS cents)) (NP (DT a) (NN share))) (, ,) (ADVP (RB down) (PP (IN from) (NP (NP (QP ($ $) (CD 64.9) (CD million))) (, ,) (CC or) (NP (NP (CD 72) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (NNS earnings)) (VP (MD would) (VP (VB have) (VP (VBN increased) (SBAR (IN if) (S (NP (PRP it)) (VP (VBD had) (RB n't) (VP (VBN been) (ADVP (RB actively)) (S (VP (VBG repurchasing) (NP (PRP$ its) (NNS shares)))) (, ,) (S (ADVP (RB thus)) (VP (VP (VBG increasing) (NP (PRP$ its) (NN interest) (NN expense))) (CC and) (VP (VBG reducing) (NP (PRP$ its) (NN interest) (NN income))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Tandy)) (VP (VBD had) (NP (NP (QP (CD 86.3) (CD million)) (NNS shares)) (ADJP (JJ outstanding))) (PP (IN at) (NP (NNP Sept.) (CD 30))) (, ,) (ADVP (RB down) (PP (IN from) (NP (QP (CD 90) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (NP (CD 5) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 986) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 937) (CD million))))) (. .)))
+
+(S1 (S (NP (NNP Tandy)) (VP (VBD said) (SBAR (S (NP (NP (NN consumer) (NNS electronics) (NNS sales)) (PP (IN at) (NP (PRP$ its) (NNP Radio) (NNP Shack) (NNS stores)))) (VP (VBP have) (VP (VBN been) (ADJP (JJ slow)) (, ,) (PP (ADVP (RB partly)) (IN because) (IN of) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (JJ hot) (, ,) (JJ new) (NNS products)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP Radio) (NNP Shack)) (VP (VBZ continues) (S (VP (TO to) (VP (VB be) (ADJP (JJ lackluster))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Dennis) (NNP Telzrow)) (, ,) (NP (NP (NN analyst)) (PP (IN with) (NP (NP (NNP Eppler) (, ,) (NNP Guerin) (CC &) (NNP Turner)) (PP (IN in) (NP (NNP Dallas))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD said) (SBAR (S (NP (NNP Tandy)) (`` `) (VP (`` `) (VP (VBZ has) (VP (VBN done) (NP (DT a) (JJ decent) (NN job)) ('' '))) ('' ') (S (VP (VP (VBG increasing) (NP (NP (NNS sales)) (PP (IN by) (NP (NN manufacturing) (NNS computers))) (PP (IN for) (NP (NNS others))))) (CC and) (VP (VBG expanding) (NP (NP (NNS sales)) (PP (IN of) (NP (NP (PRP$ its) (NNP Grid) (NNPS Systems) (NNP Corp.) (NN subsidiary)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ sells) (NP (NNS computers)) (PP (TO to) (NP (JJR bigger) (NNS businesses)))))))))))))))) (, ,) (CC but) (`` `) (S (`` `) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (JJ enough) (S (VP (TO to) (VP (VB offset) (NP (NP (DT the) (NNS problems)) (PP (IN at) (NP (NNP Radio) (NNP Shack))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (NP (NNS Sales)) (PP (IN at) (NP (NP (NP (NNP Radio) (NNP Shack)) (NNS stores)) (ADJP (JJ open) (NP (QP (JJR more) (IN than) (DT a)) (NN year)))))) (VP (VBD grew) (NP (QP (RB only) (CD 2)) (NN %)) (PP (IN in) (NP (DT the) (NN quarter))) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NNP Mr.) (NNP Telzrow)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD cut) (NP (NP (PRP$ his) (JJ fiscal) (CD 1990) (JJ per-share) (NNS earnings) (NN estimate)) (PP (IN for) (NP (NNP Tandy)))) (PP (TO to) (NP ($ $) (CD 4.05))) (PP (IN from) (NP ($ $) (CD 4.20))))))) (. .)))
+
+(S1 (S (NP (NNP Tandy)) (VP (VBD earned) (NP (NP (QP ($ $) (CD 88.8) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 3.64)) (NP (DT a) (NN share))) (, ,)) (PP (IN in) (NP (NP (DT the) (NN year)) (VP (VBN ended) (NP (NNP June) (CD 30)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Barry) (NNP Bryant)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NNP Tandy)) (ADVP (RB also)) (VP (VBZ has) (VP (VBN suffered) (PP (IN from) (NP (NP (JJ lethargic) (NNS sales)) (PP (IN of) (NP (NP (PRP$ its) (NNS computers)) (VP (VBN aimed) (PP (IN at) (NP (NP (DT the) (NN home) (CC and) (NN small-office) (NN market)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (ADJP (ADJP (JJ less-advanced) (CC and) (JJR cheaper)) (PP (IN than) (NP (NP (NNS computers)) (VP (VBN aimed) (PP (IN at) (NP (DT the) (JJ corporate) (NN market)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Tandy)) (VP (VP (VBZ has) (VP (VBN added) (NP (JJ several) (JJ new) (NNS products)) (PP (TO to) (NP (DT that) (NN line))) (, ,) (PP (VBG including) (NP (NP (DT a) (JJ laptop) (NN computer)) (VP (VBN priced) (PP (IN around) (NP ($ $) (CD 1,000)))))))) (, ,) (CC and) (VP (VBZ is) (VP (VBG focusing) (NP (PRP$ its) (NN advertising)) (PP (IN on) (NP (NP (DT the) (JJ easy-to-use) (NN software)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN packaged) (PP (IN with) (NP (PRP$ its) (NNS machines)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Bryant)) (CC and) (NP (JJ other) (NNS analysts))) (VP (VBP hope) (SBAR (S (NP (PDT all) (DT those) (NNS moves)) (VP (MD will) (VP (VB combine) (S (VP (TO to) (VP (VB help) (S (NP (NP (NNP Tandy) (POS 's)) (NNS results)) (VP (VB improve) (PP (IN in) (NP (DT the) (JJ important) (NNP Christmas) (NN quarter))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP They)) (VP (VBP 've) (VP (VBN been) (VP (VBG promising) (NP (NP (QP (CD 13) (NN %) (TO to) (CD 15) (NN %)) (NN growth)) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ strategic) (NNS moves)) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN made)))))))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (`` `) (SBAR (IN If) (S (NP (DT the) (NNS earnings) (NN acceleration)) (VP (VBZ is) (S (VP (TO to) (VP (VB take) (NP (NN place)))))))) (, ,) (NP (DT that)) (VP (MD should) (VP (VB be) (NP (DT the) (NN quarter)))) (. .)))
+

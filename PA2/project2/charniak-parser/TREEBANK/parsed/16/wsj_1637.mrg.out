@@ -1,0 +1,8 @@
+(S1 (S (S (NP (JJ Canadian) (NN steel) (NN ingot) (NN production)) (VP (VBD totaled) (NP (CD 276,334) (JJ metric) (NNS tons)) (PP (IN in) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Oct.) (CD 14))))) (, ,) (ADVP (RB down) (NP (CD 5.3) (NN %)) (PP (IN from) (NP (NP (NP (DT the) (JJ preceding) (NN week) (POS 's)) (NN total)) (PP (IN of) (NP (CD 291,890) (NNS tons)))))))) (, ,) (NP (NP (NNPS Statistics) (NNP Canada)) (, ,) (NP (DT a) (JJ federal) (NN agency)) (, ,)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN week) (POS 's)) (NN total)) (VP (VBD was) (ADVP (RB down) (NP (CD 7.1) (NN %)) (PP (IN from) (NP (CD 297,446) (NNS tons)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+
+(S1 (S (NP (DT A) (NN metric) (NN ton)) (VP (VBZ is) (ADJP (JJ equal) (PP (TO to) (NP (CD 2,204.62) (NNS pounds))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ cumulative) (NN total)) (PP (IN in) (NP (CD 1989)))) (VP (VBD was) (NP (CD 12,283,217) (NNS tons)) (, ,) (ADVP (RB up) (NP (CD 7.5) (NN %)) (PP (IN from) (NP (CD 11,429,243) (NNS tons)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+

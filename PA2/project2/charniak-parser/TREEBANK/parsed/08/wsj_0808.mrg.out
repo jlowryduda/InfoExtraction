@@ -1,0 +1,26 @@
+(S1 (S (NP (NNP Dick) (NNP Darman)) (, ,) (VP (VB call) (NP (PRP$ your) (NN office))) (. .)))
+
+(S1 (S (S (VP (VBN Embedded) (PP (IN in) (NP (DT the) (`` `) (NP (`` `) (NN budget) ('' ')) ('' ') (VP (VBG being) (VP (VBN concocted) (PP (IN by) (NP (DT the) (NNP House-Senate) (NN conference) (NN committee))))))))) (VP (VBZ is) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ looks) (, ,) (VBZ smells) (CC and) (VBZ waddles) (PP (IN like) (NP (DT a) (NN duck)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (JJ nuisance) (NN tax)) (PP (IN on) (NP (NNS mergers))))) (. .)))
+
+(S1 (S (NP (NNP Congress)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB raise) (NP (QP ($ $) (CD 40) (CD million))) (PP (IN by) (S (VP (VBG charging) (NP (NP (NNS companies)) (ADJP ($ $) (CD 20,000))) (PP (IN for) (NP (NP (DT the) (NN honor)) (PP (IN of) (S (VP (VBG filing) (NP (DT the) (VBN required) (NNS papers)) (PP (IN under) (NP (DT the) (NNP Hart-Scott-Rodino) (NN law)))))))))))))))) (. .)))
+
+(S1 (S (SBAR (RB Ever) (IN since) (S (NP (NP (DT the) (JJ bad) (NNS days)) (PP (IN of) (NP (NNP Big)))) (VP (VBZ is) (NP (JJ Bad) (JJ antitrust) (NN enforcement))))) (, ,) (NP (DT this) (NN law)) (VP (VBZ has) (VP (VBN required) (SBAR (IN that) (S (NP (NP (NN anyone)) (VP (VBG proposing) (NP (DT a) (NN merger)))) (VP (MD must) (VP (VB make) (NP (NP (DT a) (NN filing)) (VP (VBG describing) (NP (NP (DT the) (NNS effects)) (PP (IN on) (NP (DT all) (JJ relevant) (NNS markets)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Hart-Scott) (NN filing)) (VP (VBZ is) (VP (VP (ADVP (RB then)) (VBN reviewed)) (CC and) (VP (ADVP (NP (DT any) (JJ antitrust) (NNS concerns)) (RB usually)) (VBN met)))) (. .)))
+
+(S1 (S (ADVP (RB Typically)) (, ,) (NP (NNP Hart-Scott)) (VP (VBZ is) (VP (VBN used) (ADVP (RB now)) (S (VP (TO to) (VP (VB give) (NP (NP (NNS managers)) (PP (IN of) (NP (NN target) (NNS firms)))) (NP (NP (JJ early) (NN news)) (PP (IN of) (NP (NP (DT a) (NN bid)) (CC and) (NP (DT a) (NN chance) (S (VP (TO to) (VP (VB use) (NP (JJ regulatory) (NN review)) (PP (IN as) (NP (DT a) (VBG delaying) (NN tactic))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (ADJP ($ $) (CD 20,000)) (NN tax)) (VP (MD would) (VP (VB be) (NP (NP (DT a) (JJ small) (NN cost)) (PP (IN in) (NP (DT a) (JJ multibillion-dollar) (NN deal))))))) (, ,) (CC but) (S (NP (NP (DT a) (JJ serious) (NN drag)) (PP (IN on) (NP (NP (NNS thousands)) (PP (IN of) (NP (JJ small) (, ,) (JJ friendly) (NNS deals))))))) (. .)))
+
+(S1 (S (NP (NP (CD One) (ADJP (RB especially) (JJ dangerous)) (NN aspect)) (PP (TO to) (NP (DT the) (JJ new) (NN tax)))) (VP (MD would) (VP (VB be) (SBAR (IN that) (S (NP (DT the) (NNS proceeds)) (VP (MD will) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB increase) (NP (NP (DT the) (NNS budgets)) (PP (IN of) (NP (NP (DT the) (JJ antitrust) (NN division)) (PP (IN at) (NP (NP (NNP Justice)) (CC and) (NP (DT the) (NNP Federal) (NNP Trade) (NNP Commission))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ amounts) (PP (TO to) (NP (NP (DT a) (NN bounty)) (PP (IN for) (NP (NNS regulators))))) (: --) (NP (NP (DT the) (JJR more)) (VP (VBG regulating) (SBAR (X (DT the) (RBR more)) (S (NP (PRP they)) (VP (VBP get) (S (VP (TO to) (VP (VB keep)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Also)) (, ,) (SBAR (IN as) (S (NP (JJ former) (NNP Reagan) (JJ antitrust) (NN chief) (NNP Charles) (NN Rule)) (VP (VBZ has) (VP (VBN noted))))) (, ,) (NP (DT this)) (VP (MD would) (`` `) (VP (`` `) (VB establish) (NP (NP (DT the) (NN precedent)) (SBAR (IN that) (S (NP (DT the) (NN government)) (VP (MD may) (VP (VB charge) (NP (NNS parties)) (PP (IN for) (NP (NP (DT the) (NN privilege)) (PP (IN of) (S (VP (VBG being) (VP (VBN sued) (ADVP (RB regardless) (PP (IN of) (SBAR (IN whether) (S (NP (DT the) (NN government)) (VP (VBZ prevails))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (RB Yet) (NP (DT another) (NN opportunity) (SBAR (IN for) (S (NP (NNP President) (NNP Bush)) (VP (TO to) (VP (VB respond) (, ,) (`` `) (S (`` `) (VP (VB Read) (NP (PRP$ my) (NNS lips))))))))) (. .)))
+
+(S1 (FRAG (NP (JJ Line-item) (NN veto)) (. .)))
+

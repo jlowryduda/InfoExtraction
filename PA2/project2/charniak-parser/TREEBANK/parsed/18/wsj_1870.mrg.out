@@ -1,0 +1,230 @@
+(S1 (S (PP (IN From) (NP (NP (DT a) (NN helicopter)) (PP (NP (QP (DT a) (CD thousand)) (NNS feet)) (IN above) (NP (NNP Oakland))) (PP (IN after) (NP (NP (DT the) (JJ second-deadliest) (NN earthquake)) (PP (IN in) (NP (NNP U.S.) (NN history))))))) (, ,) (NP (NP (DT a) (NN scene)) (PP (IN of) (NP (NN devastation)))) (VP (VBZ emerges) (: :) (S (NP (DT a) (NN freeway)) (VP (VBD crumbled) (PP (IN into) (NP (DT a) (JJ concrete) (NN sandwich))) (, ,) (S (NP (NNS hoses)) (VP (VBG pumping) (NP (NN water)) (PP (IN into) (NP (JJ once-fashionable) (NNS apartments))) (, ,) (VP (VBN abandoned) (NP (NNS autos)))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT this) (NN quake)) (VP (VBD was) (RB n't) (NP (NP (DT the) (JJ big) (CD one)) (, ,) (NP (NP (DT the) (NN replay)) (PP (IN of) (NP (CD 1906))) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN feared) (PP (IN for) (NP (ADJP (RB so) (JJ many)) (NNS years))))))))))) (. .)))
+
+(S1 (S (PP (IN Despite) (NP (NP (DT the) (JJ tragic) (NN loss)) (PP (IN of) (NP (NP (QP (JJR more) (IN than) (CD 270)) (NNS lives)) (, ,) (CC and) (NP (NP (NN damage)) (VP (VBN estimated) (PP (IN in) (NP (DT the) (NNS billions))))))))) (, ,) (NP (NP (JJS most) (NNS businesses)) (CC and) (NP (NP (PRP$ their) (NNS plants) (CC and) (NNS offices)) (PP (IN in) (NP (DT the) (NNP Bay) (NN area))))) (VP (VBD were) (RB n't) (VP (ADVP (RB greatly)) (VBN affected))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ economic) (NN life)) (PP (IN of) (NP (DT the) (NN region)))) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB revive) (PP (IN in) (NP (DT a) (NN day) (QP (CC or) (CD two))))))) (, ,) (SBAR (IN although) (S (NP (DT some) (NN transportation) (NNS problems)) (VP (MD may) (VP (VB last) (NP (NNS weeks) (CC or) (NNS months)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ main) (NN factor)) (ADJP (JJ mitigating))) (NP (ADJP (RBR more) (JJ widespread)) (NN damage)) (VP (VBD was) (NP (NP (NP (DT the) (NN location)) (PP (IN of) (NP (NP (DT the) (NN quake) (POS 's)) (NN epicenter)))) (: --) (NP (NP (NP (CD 20) (NNS miles)) (PP (IN from) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (DT the) (NNP Silicon) (NNP Valley)))))) (CC and) (NP (NP (QP (JJR more) (IN than) (CD 50)) (NNS miles)) (PP (IN from) (NP (NP (NN downtown) (NNP San) (NNP Francisco)) (CC and) (NP (NNP Oakland)))))))) (. .)))
+
+(S1 (S (ADVP (RB Also)) (, ,) (NP (NP (NP (DT the) (NN region) (POS 's)) (NN insistence)) (PP (IN on) (NP (JJ strict) (NN building) (NNS codes)))) (VP (VBD helped) (S (VP (VB prevent) (NP (JJR wider) (NN damage))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (JJ tremendous) (NN energy)) (PP (IN of) (NP (DT the) (NN quake)))) (VP (VBD was) (VP (VBN dissipated) (PP (IN by) (NP (DT the) (NN distance))) (, ,) (SBAR (RB so) (IN that) (S (NP (NP (NP (JJS most) (NNS parts)) (PP (IN of) (NP (DT the) (NN valley)))) (CC and) (NP (DT the) (JJ major) (NNS cities))) (VP (VBD suffered) (NP (ADJP (RB largely) (JJ cosmetic)) (NN damage)))))))) (: --) (S (NP (NP (JJ broken) (NNS windows)) (, ,) (PP (VBG falling) (NP (NN brick) (CC and) (NNS cornices))) (, ,)) (VP (VBD buckled) (NP (NN asphalt) (CC or) (NNS sidewalks)))) (. .)))
+
+(S1 (S (PP (IN Of) (NP (NN course))) (, ,) (NP (DT the) (NN quake)) (VP (VBD was) (NP (DT the) (JJS worst)) (SBAR (IN since) (S (NP (NP (DT the) (NN emergence)) (PP (IN of) (NP (DT the) (NN computer) (NN era)))) (VP (VBD turned) (NP (NNP Silicon) (NNP Valley)) (PP (IN into) (NP (NP (NP (DT the) (NN nation) (POS 's)) (NN capital)) (PP (IN of) (NP (JJ high) (NN technology))))))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (NP (JJ other) (JJ major) (JJ American) (NNS cities)) (, ,) (NP (DT the) (NNP San) (NNP Francisco)))) (: --) (NP (NNP Oakland) (NN area)) (VP (VBZ owes) (ADJP (ADJP (NP (PRP$ its) (JJ current) (NN prosperity)) (JJR more) (PP (TO to) (NP (NP (PRP$ its) (NN infrastructure)) (PP (IN of) (NP (NP (JJ fiber-optic) (NNS cables)) (VP (VBG linking) (NP (NP (NNS thousands)) (PP (IN of) (NP (NN computer) (NNS terminals) (CC and) (NNS telephones)))))))))) (PP (IN than) (PP (TO to) (NP (NP (PRP$ its) (NN location)) (PP (IN astride) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (JJ great) (JJ natural) (NNS harbors)))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NNS tremors)) (VP (VBN struck)))) (, ,) (NP (NP (DT the) (NN region) (POS 's)) (ADJP (RB largely) (JJ unseen)) (JJ high-tech) (NN fabric)) (VP (VBD held) (PRT (RP up)) (ADVP (RB surprisingly) (RB well)) (PP (IN despite) (NP (NP (DT the) (NN devastation)) (ADJP (JJ visible) (PP (IN from) (NP (DT the) (NN air))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Michael) (NNP L.) (NNP Bandler)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN for) (NP (NN network) (NN technology))) (PP (IN at) (NP (NNP Pacific) (NNP Bell) (NNP Telephone) (NNP Co.)))) (, ,)) (VP (VBZ says) (NP (NP (RB nearly) (DT all)) (SBAR (S (NP (NP (NP (DT the) (NN network) (POS 's)) (NN computer) (NNS switches)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP move) (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS calls))) (NP (DT a) (NN minute))) (PP (PP (IN from) (NP (CD one) (NN location))) (PP (TO to) (NP (DT another))))))) (, ,)) (VP (VBD changed) (PP (TO to) (NP (NN battery) (NN power))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN city)) (VP (VBD lost) (NP (NN power)))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN battery)) (VP (VBZ packs) (VP (VB have) (NP (JJ enough) (NN power)) (PP (IN for) (NP (QP (RB only) (CD three)) (NNS hours)))))) (, ,) (CC but) (S (NP (DT that)) (VP (VBD gave) (NP (NN emergency) (NNS crews)) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB turn) (PRT (RP on)) (NP (NP (DT an) (NN emergency) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ runs) (ADVP (RB primarily)) (PP (IN on) (NP (NN diesel) (NN fuel)))))))))))))) (. .)))
+
+(S1 (S (PP (IN Of) (NP (NP (QP (DT some) (CD 160)) (NNS switches)) (PP (IN in) (NP (NP (NNP Pacific) (NNP Bell) (POS 's)) (NN network))))) (, ,) (NP (RB only) (CD four)) (VP (VBD went) (ADVP (RB down))) (. .)))
+
+(S1 (S (NP (NP (CD One)) (PP (IN of) (NP (DT those)))) (VP (VBD was) (PP (IN in) (NP (NP (NNP Hollister)) (, ,) (NP (NNP Calif.)) (, ,))) (PP (IN near) (NP (NP (DT the) (NN earthquake) (POS 's)) (NN epicenter)))) (. .)))
+
+(S1 (S (NP (JJ Few) (NN telephone) (NNS lines)) (VP (VBD snapped)) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (IN because) (S (NP (DT the) (ADJP (RB widely) (VBN used)) (JJ fiber-optic) (NN cable)) (VP (VBZ has) (VP (VBN been) (VP (VBN installed) (ADVP (RB underground)) (PP (IN with) (NP (NP (CD 25) (JJ extra) (NNS feet)) (PP (IN of) (NP (NN cable))) (PP (IN between) (NP (NN junction) (NNS points))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN slack)) (VP (VBZ absorbs) (NP (NP (DT the) (VBG pulling) (NN strain)) (VP (VBN generated) (PP (IN by) (NP (DT an) (NN earthquake)))))) (. .)))
+
+(S1 (S (S (ADVP (RB Nevertheless)) (, ,) (NP (NN phone) (NN service)) (VP (VBD was) (ADJP (JJ sporadic)))) (: ;) (S (S (NP (JJ many) (NN computer) (NNS terminals)) (VP (VBD remained) (ADJP (JJ dark)))) (, ,) (CC and) (S (PP (IN by) (NP (JJ late) (NN yesterday))) (NP (NP (DT a) (JJ third)) (PP (IN of) (NP (NNP San) (NNP Francisco)))) (VP (VBD remained) (PP (IN without) (NP (NN power)))))) (. .)))
+
+(S1 (S (S (NP (NP (NN Business)) (PP (IN in) (NP (NP (DT the) (NN nation) (POS 's)) (JJ fourth-largest) (JJ metropolitan) (NN region)))) (VP (VBD was) (ADVP (RB nearly)) (VP (VBN paralyzed)))) (: ;) (S (NP (NP (QP (DT an) (JJ estimated) (CD one) (CD million)) (NNS members)) (PP (IN of) (NP (DT the) (NN work) (NN force)))) (VP (VBD stayed) (PP (IN at) (NP (NN home))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ economic) (NN dislocation)) (VP (VBD was) (ADJP (ADJP (RB as) (JJ abrupt)) (PP (IN as) (NP (NP (DT the) (NN earthquake)) (NP (PRP itself))))) (, ,) (SBAR (IN as) (S (NP (ADJP (RB virtually) (DT all)) (NNS businesses)) (VP (VBD shut) (PRT (RP down)))))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP ($ $) (JJ 125-billion-a-year)) (NNP Bay) (NN area) (NN economy)) (VP (VBZ represents) (NP (NP (NN one-fourth)) (PP (IN of) (NP (NP (DT the) (NN economy)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (ADJP (RBS most) (JJ populous)) (NN state) (CC and) (NNS accounts)))))) (PP (IN for) (NP (NP (QP (CD 2) (NN %) (TO to) (CD 3) (NN %))) (PP (IN of) (NP (NP (NP (DT the) (NN nation) (POS 's)) (JJ total) (NN output)) (PP (IN of) (NP (NNS goods) (CC and) (NNS services))))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT the) (NNP Center)) (PP (IN for) (NP (NP (NNP Continuing) (NNP Study)) (PP (IN of) (NP (DT the) (NNP California) (NN Economy))))) (PP (IN in) (NP (NNP Palo) (NNP Alto))))))) (. .)))
+
+(S1 (S (PP (IN In) (ADJP (JJ high-tech))) (, ,) (NP (DT the) (NNP Bay) (NN area)) (VP (VBZ accounts) (PP (IN for) (NP (NP (QP (CD 15) (NN %) (TO to) (CD 20) (NN %))) (PP (IN of) (NP (DT the) (NNP U.S.) (JJ computer-related) (NN industry)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT This)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (JJ major) (NN disruption)) (PP (IN for) (NP (DT the) (NNP Bay) (NN area) (NN economy)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Pauline) (NNP Sweezey)) (, ,) (NP (NP (DT the) (JJ chief) (NN economist)) (PP (IN at) (NP (NP (DT the) (NNP California) (NNP Department)) (PP (IN of) (NP (NNP Finance))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (ADVP (RB Obviously)) (, ,) (NP (NNS things)) (VP (VBP are) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB go) (PP (IN on) (NP (NN hold))) (PP (IN for) (NP (JJ many) (NNS companies))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (DT The) (NN damage)) (PP (TO to) (NP (NP (DT the) (NNP Bay) (NN area) (POS 's)) (NNS roadways)))) (VP (MD could) (VP (VB cause) (NP (JJ significant) (JJ economic) (NN hardship)))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN quarter)) (PP (IN of) (NP (QP (DT a) (CD million)) (NNS people)))) (VP (VBP cross) (NP (DT the) (NNP Bay) (NNP Bridge)) (NP (DT every) (NN day)) (, ,) (ADJP (ADJP (RB far) (JJR more)) (PP (IN than) (NP (NP (DT the) (CD 100,000)) (SBAR (WHNP (WDT that)) (S (VP (VBP use) (NP (NP (DT the) (NNP Bay) (NNP Area) (NNP Rapid) (NNP Transit) (NN system)) (PRN (-LRB- -LRB-) (NP (NNP BART)) (-RRB- -RRB-))) (: --) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD was) (VP (VBG working))) (CC but) (VP (VBD was) (RB n't) (VP (VBG stopping) (PP (IN in) (NP (NP (DT the) (NN city) (POS 's)) (NNP Financial) (NNP District) (NN yesterday) (NN afternoon))) (SBAR (IN because) (S (NP (NN electricity)) (VP (VP (VBD was) (VP (VBN shut) (PRT (RP off)))) (CC and) (VP (NP (DT the) (NN area)) (VBD was) (VP (VBG being) (VP (VBD checked) (PP (IN for) (NP (NN gas) (NNS leaks))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP California) (NN state) (NN transportation) (NNS officials)) (VP (VBN interviewed) (PP (IN by) (NP (NN telephone))))) (VP (VBP say) (SBAR (S (NP (PRP they)) (ADVP (RB nevertheless)) (VP (VBP do) (RB n't) (VP (VB expect) (NP (NP (JJ serious) (NNS problems)) (PP (IN for) (NP (NN commerce)))) (ADVP (IN in) (CC and) (IN out) (PP (IN of) (NP (DT the) (NNP Bay) (NN area))))))))) (. .)))
+
+(S1 (S (NP (NP (DT All) (JJ major) (NNS roadways)) (PP (IN except) (NP (NP (NP (NNP Interstate) (CD 880)) (, ,) (VP (VBN known) (PP (IN as) (NP (DT the) (NNP Nimitz) (NNP Freeway)))) (, ,)) (CC and) (NP (DT the) (NNP Bay) (NNP Bridge))))) (VP (VBD were) (ADJP (JJ open) (PP (IN by) (NP (CD 1) (NN p.m.)))) (NP (NN yesterday))) (. .)))
+
+(S1 (S (NP (NNS Officials)) (VP (VBP expect) (NP (NP (NN difficulty)) (S (VP (VBG routing) (NP (NN traffic)) (PP (IN through) (NP (NN downtown) (NNP San) (NNP Francisco))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN earthquake)) (VP (VBD caused) (S (NP (JJ many) (NNS streets)) (VP (TO to) (VP (VP (VB buckle)) (CC and) (VP (VB crack) (, ,) (S (VP (VBG making) (S (NP (PRP them)) (ADJP (JJ impassible)))))))))) (. .)))
+
+(S1 (S (S (NP (JJ Other) (NNS roads)) (VP (VBD were) (VP (VP (VBN obstructed) (PP (IN by) (NP (VBN collapsed) (NNS buildings)))) (CC and) (VP (VBN damaged) (NP (NN water) (CC and) (NN power) (NNS lines)))))) (, ,) (NP (DT an) (NN emergency) (NN relief) (NN spokesman)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNP San) (NNP Francisco) (NNP Mayor) (NNP Art) (NNP Agnos)) (VP (VBD estimated) (NP (NP (DT the) (NN damage)) (PP (TO to) (NP (PRP$ his) (NN city))) (ADVP (RB alone))) (PP (IN at) (NP (QP ($ $) (CD 2) (CD billion))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ many)) (VP (VBD predicted) (SBAR (IN that) (S (NP (DT the) (JJ commercial) (NN disruption)) (VP (MD would) (VP (VB be) (ADJP (JJ short-lived))))))) (. .)))
+
+(S1 (S (PP (IN Of) (NP (NP (DT the) (NNS scores)) (PP (IN of) (NP (NP (NNS companies)) (VP (VBN contacted) (PP (IN by) (NP (DT this) (NN newspaper)))))))) (, ,) (NP (JJ few)) (VP (VBD reported) (NP (DT any) (NN damage) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB expect) (S (VP (TO to) (VP (VB have) (VP (VBN remedied) (PP (IN within) (NP (DT a) (NN day) (QP (CC or) (CD two)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ possible)) (PRN (, ,) (PP (IN of) (NP (NN course))) (, ,)) (SBAR (IN that) (S (NP (NP (DT some)) (PP (IN of) (NP (DT the) (ADJP (ADVP (RBS most) (RB seriously)) (VBN damaged)) (NNS companies)))) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (, ,) (PP (ADVP (RB particularly)) (IN in) (NP (NP (NP (NNS areas)) (JJS nearest)) (NP (DT the) (NN epicenter)))))))))) (. .)))
+
+(S1 (SINV (ADJP (JJ Typical)) (, ,) (ADVP (RB perhaps)) (, ,) (VP (VBD was)) (NP (NP (DT the) (NN situation)) (PP (IN at) (NP (NP (NNP New) (NNP United) (NNP Motor) (NNP Manufacturing) (NNP Inc.)) (, ,) (NP (NP (DT the) (NNP General) (NNP Motors) (NNP Corp.-Toyota) (JJ joint-venture) (NN auto) (NN plant)) (PP (IN in) (NP (NP (NNP Fremont)) (, ,) (ADVP (NP (QP (RB about) (CD 35)) (NNS miles)) (RB south) (PP (IN of) (NP (NNP Oakland)))))))))) (. .)))
+
+(S1 (S (S (NP (NP (CD Ten)) (PP (IN of) (NP (NP (DT the) (NN plant) (POS 's)) (NNS workers)))) (VP (VBD were) (VP (VBN injured) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN quake)) (VP (VBD hit) (NP (NP (RB about) (DT a) (NN half-hour)) (PP (IN into) (NP (DT the) (NN afternoon) (NN shift)))))))))) (: ;) (S (NP (CD seven)) (VP (VBD were) (VP (VBN hospitalized)))) (. .)))
+
+(S1 (S (S (S (NP (NP (NN Metal) (NNS racks)) (PP (IN on) (NP (DT the) (NN plant) (NN floor)))) (VP (VBD fell) (PRT (RP over)))) (, ,) (CC and) (S (NP (NN water) (NNS mains)) (VP (VBD ruptured)))) (, ,) (NP (DT a) (NN spokeswoman)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (NP (DT The) (NN plant)) (VP (VBD was) (VP (VBN evacuated)))) (CC and) (S (NP (NNS workers)) (VP (VBD sent) (NP (NN home)))) (. .)))
+
+(S1 (S (CC But) (S (NP (DT the) (NN plant)) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB resume) (NP (NP (JJ limited) (NN production)) (PP (IN of) (NP (PRP$ its) (NX (NX (NNP Toyota) (NNP Corollas)) (CC and) (NX (NNP Geo) (NNP Prizms)))))) (PP (IN by) (NP (NP (CD 6) (NN a.m.)) (NP (NN yesterday)))))))))) (, ,) (CC and) (S (NP (NN absenteeism)) (VP (VBD was) (NP (NP (QP (RB only) (CD 7)) (NN %)) (PP (IN of) (NP (DT the) (NN work) (NN force)))) (, ,) (PP (RB about) (ADJP (RB twice) (JJ normal))))) (. .)))
+
+(S1 (S (NP (NP (NNP Computer) (NN maker) (NNP Hewlett-Packard) (NNP Co.)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP Palo) (NNP Alto)))) (, ,)) (VP (VBZ says) (SBAR (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (NNS buildings)))) (VP (VBD sustained) (NP (JJ severe) (NN damage)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD was) (VP (VBN knocked) (PP (IN off) (NP (PRP$ its) (NN foundation))))))))))) (. .)))
+
+(S1 (S (S (NP (JJ Other) (NNS buildings)) (VP (VBD had) (VP (VBN broken) (NP (NN glass)) (, ,) (PP (VBG dangling) (NP (NP (JJ light) (NNS fixtures)) (CC and) (NP (JJ broken) (NNS pipes))))))) (, ,) (NP (DT a) (NN spokesperson)) (VP (VBZ says) (, ,) (S (VP (VBG estimating) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN reconstruction)))) (`` `) (PP (`` `) (IN in) (NP (DT the) (NNS millions)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (JJS Most) (NNS banks)) (VP (VP (VBD were) (ADJP (JJ closed))) (CC but) (VP (VBD were) (VP (VBN expected) (S (VP (TO to) (VP (VB reopen) (NP (NN today)) (PP (IN with) (NP (NP (JJ few) (NNS problems)) (SBAR (S (VP (VBN anticipated)))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (DT the) (NNP Federal) (NNP Reserve) (NNP Bank)) (PP (IN of) (NP (NNP San) (NNP Francisco))))) (, ,) (NP (NNP Vice) (NNP President) (NNP Robert) (NNP Fienberg)) (VP (VBZ says) (SBAR (S (NP (NNS operations)) (VP (VBD were) (`` `) (ADJP (`` `) (JJ steaming) (PP (RB along) (IN as) (ADJP (JJ usual))) ('' ')) ('' ') (NP (NN yesterday) (NN afternoon)))))) (. .)))
+
+(S1 (S (`` `) (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN quake)) (VP (VBD hit)))) (, ,) (NP (PRP we)) (VP (VP (VBD turned) (PRT (RP on)) (NP (PRP$ our) (NN emergency) (NN generator))) (CC and) (VP (VBD brought) (NP (PRP$ our) (NNS computers)) (PRT (RP up))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (DT The) (NNP Fed)) (VP (VBZ serves) (PP (IN as) (NP (NP (DT a) (NN middleman)) (PP (IN for) (NP (NNS banks))))) (, ,) (S (VP (VP (VBG taking) (NP (NP (NNS checks)) (PP (IN from) (NP (CD one) (NN bank))))) (CC and) (VP (VBG sending) (NP (PRP them)) (PP (TO to) (NP (NP (DT another)) (, ,) (NP (NP (DT an) (NN operation)) (SBAR (WHNP (WDT that)) (S (NP (PRP it)) (VP (VBD handled) (ADVP (RB smoothly)) (NP (NNP Tuesday) (NN night)) (PP (IN after) (NP (DT the) (NN quake))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (NP (`` `) (NP (DT The) (NN volume)) (SBAR (S (NP (PRP we)) (VP (VBD received) (PP (IN from) (NP (DT the) (NNS banks))))))) (VP (VBD was) (ADJP (ADJP (NP (DT a) (NN lot)) (JJR lower)) (PP (IN than) (ADJP (JJ usual)))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (NP (NP (DT A) (NN disaster-contingency) (NN plan)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNP Los) (NNP Angeles) (NNP Fed)) (VP (MD would) (VP (VB come) (PP (TO to) (NP (NNP San) (NNP Francisco) (VBZ 's))) (NP (NN aid))))))) (VP (VBD was) (RB n't) (VP (VBN needed)))) (, ,) (NP (PRP he)) (VP (VBZ adds)) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (NP (DT the) (NN telephone) (NNS problems)) (PP (IN in) (NP (DT the) (JJ immediate) (NN aftermath)))))) (VP (VBD stemmed) (PP (IN from) (NP (NN congestion)))) (. .)))
+
+(S1 (S (NP (DT The) (NN telephone) (NN network)) (ADVP (RB simply)) (VP (MD could) (RB n't) (VP (VB handle) (NP (NP (DT the) (JJ large) (NN number)) (PP (IN of) (NP (NP (NNS people)) (VP (VBG seeking) (S (VP (TO to) (VP (VB make) (NP (NP (DT a) (NN call)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN volume)) (VP (VBD resulted) (PP (IN in) (NP (NP (JJ dial-tone) (NNS delays)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (ADVP (ADVP (RB as) (JJ short) (PP (IN as) (NP (CD 15) (NNS seconds)))) (CC and) (ADVP (RB as) (RB long)) (PP (IN as) (NP (CD five) (NNS minutes)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Bandler)) (VP (VBZ puts) (NP (NN traffic) (NN volume)) (PP (IN at) (NP (QP (CD 10) (TO to) (CD 50) (NNS times)) (JJ normal)))) (. .)))
+
+(S1 (S (NP (NP (NNP American) (NNP Telephone) (CC &) (NNP Telegraph) (NNP Co.)) (, ,) (NP (NNP MCI) (NNPS Communications) (NNP Inc.)) (CC and) (NP (NP (NNP United) (NNPS Telecommunications) (POS ')) (NNP U) (NNP S) (NNP Sprint) (NN unit))) (VP (VBD were) (VP (VBG blocking) (NP (NN phone) (NNS calls)) (PP (IN into) (NP (DT the) (NNP Bay) (NN area))) (S (VP (TO to) (VP (VB alleviate) (NP (NN congestion))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS companies)) (VP (VB block) (NP (NN traffic)) (SBAR (ADVP (RB much)) (IN as) (S (NP (NN highway) (NNS on-ramps)) (VP (VBP are) (VP (VBN blocked) (SBAR (WHADVP (WRB when)) (S (NP (NN traffic)) (VP (VBZ backs) (PRT (RP up)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP William) (NNP E.) (NNP Downing)) (, ,) (NP (NP (NP (NNP Pacific) (NNP Bell) (POS 's)) (NN vice) (NN president)) (PP (IN of) (NP (NP (NN customer) (NNS services)) (PP (IN for) (NP (DT the) (NNP Bay) (NN area)))))) (, ,)) (VP (VBZ says) (SBAR (S (NP (JJS most) (JJ long-distance) (NNS companies)) (VP (VBD were) (VP (VBG blocking) (NP (NP (QP (RB about) (CD 50)) (NN %)) (PP (IN of) (NP (DT all) (NNS calls))))))))) (. .)))
+
+(S1 (S (NP (NNP Pacific) (NNP Telesis)) (VP (VBZ says) (SBAR (S (NP (PRP$ its) (NNP Pacific) (NNP Bell) (NN unit)) (ADVP (RB also)) (VP (VBD was) (VP (VBG blocking) (NP (NP (QP (RB about) (CD 50)) (NN %)) (PP (IN of) (NP (PRP$ its) (NNS calls)))) (ADVP (RB locally))))))) (. .)))
+
+(S1 (S (ADVP (RB Ironically)) (, ,) (NP (NP (DT the) (JJ long-term) (NN effect)) (PP (IN of) (NP (DT the) (NN earthquake)))) (VP (MD may) (VP (VB be) (S (VP (TO to) (VP (VB bolster) (NP (NP (NP (DT the) (NNP Bay) (NN area) (POS 's)) (JJ economic) (NNS fortunes)) (CC and) (PRN (, ,) (ADVP (RB indeed)) (, ,)) (NP (NP (DT the) (NN nation) (POS 's)) (JJ gross) (JJ national) (NN product)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD may) (ADVP (RB also)) (VP (VB lead) (PP (TO to) (NP (NP (JJ new) (NNS safeguards)) (PP (IN in) (NP (NP (JJ major) (NN construction) (NNS projects)) (PP (JJ such) (IN as) (NP (JJ double-deck) (NNS highways))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (MD would) (PP (IN in) (NP (DT the) (JJ near-term))) (VP (VB give) (NP (DT a) (NN boost)) (PP (TO to) (NP (DT the) (NNP San) (NNP Francisco) (NN economy))) (SBAR (IN because) (S (NP (EX there)) (VP (MD will) (VP (VB be) (NP (NP (DT an) (NN influx)) (PP (IN of) (NP (NP (NNS people)) (SBAR (S (VP (TO to) (VP (VB help)))))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Beth) (NNP Burnham) (NNP Mace)) (, ,) (NP (NP (DT a) (JJ regional) (NN economist)) (PP (IN at) (NP (NP (NNP DRI\/McGraw) (NNP Hill)) (, ,) (NP (DT a) (NAC (NNP Lexington) (, ,) (NNP Mass.) (, ,)) (NN forecasting) (NN firm)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN construction) (NN industry)) (VP (VBZ is) (ADJP (JJ sure) (S (VP (TO to) (VP (VB feel) (NP (VBN increased) (NN demand))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (EX There)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (JJ big) (NN influx)) (PP (IN of) (NP (NP (JJ federal) (NNS dollars)) (CC and) (NP (NP (NNS gains)) (PP (IN in) (NP (UCP (NN state) (, ,) (JJ federal) (CC and) (JJ local)) (NN employment))))))))) (, ,) ('' ')) ('' ') (NP (NNP Ms.) (NNP Mace)) (VP (VBZ says)) (. .)))
+
+(S1 (SINV (VP (VBZ Adds)) (NP (NP (NNP Stacy) (NNP Kotman)) (, ,) (NP (NP (DT an) (NN economist)) (PP (IN at) (NP (NNP Georgia) (NNP State) (NNP University))))) (, ,) (`` `) (S (`` `) (S (NP (EX There)) (VP (VBZ 's) (NP (NP (NN nothing)) (ADJP (JJ positive) (PP (IN about) (NP (DT an) (NN earthquake))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (MD will) (ADVP (RB probably)) (VP (VB generate) (NP (JJR more) (NN construction) (NN activity))))) (. .) ('' ')) (: ')))
+
+(S1 (S (NP (NNP Wall) (NNP Street)) (VP (VBD reacted) (ADVP (RB swiftly)) (NP (NN yesterday)) (PP (TO to) (NP (DT the) (NN disaster))) (PP (IN by) (S (VP (NN bidding) (PRT (RP up)) (NP (NP (NNS stocks)) (PP (IN of) (NP (UCP (NN construction) (CC and) (JJ related)) (NNS companies)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Shares)) (PP (IN of) (NP (NP (NNP Lone) (NNP Star) (NNPS Industries) (NNP Inc.)) (, ,) (NP (DT a) (NN cement) (NN maker)) (, ,)))) (VP (VBD rose) (ADVP (RB sharply)) (PP (IN in) (NP (NP (NN anticipation)) (PP (IN of) (NP (JJ stepped-up) (NN demand)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NAC (NNP Greenwich) (, ,) (NNP Conn.) (, ,)) (NNP Lone) (NNP Star))) (NP (NN spokesman) (NNP Michael) (NNP London)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (ADVP (RB Obviously) (PP (IN with) (NP (NP (DT an) (NN earthquake)) (PP (IN of) (NP (DT this) (NN size)))))) (, ,) (NP (EX there)) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (NP (NP (NN construction) (NNS projects)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (RB n't) (ADVP (RB otherwise)) (VP (VB have) (VP (VBN been) (VP (VBN anticipated))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT any) (NN increase)) (VP (VBZ is) (RB n't) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (NP (NP (DT any) (NN kind)) (PP (IN of) (NP (DT a) (NN surge))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NN something)) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (VP (VBN spread) (PRT (RP out)) (PP (IN over) (NP (NP (DT a) (JJ long) (NN period)) (PP (IN of) (NP (NN time)))))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NN repair) (NN work)) (SBAR (WHNP (WDT that)) (S (VP (MD wo) (RB n't) (VP (VB require) (NP (NP (DT the) (NNS quantities)) (PP (IN of) (NP (NN cement) (CC or) (NN concrete)))) (SBAR (IN that) (S (NP (JJ new) (NN constructon)) (VP (MD would))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Lone) (NNP Star) (POS 's)) (NNP San) (NNP Francisco) (NNS facilities)) (VP (VBD were) (RB n't) (VP (VBN damaged) (PP (IN in) (NP (DT the) (NN quake))))) (. .)))
+
+(S1 (S (NP (DT The) (NN earthquake)) (VP (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB reduce) (NP (NNP GNP)) (ADVP (RB negligibly)))))) (PP (IN in) (NP (DT the) (JJ near) (NN term)))) (CC and) (VP (ADVP (RB then)) (MD could) (VP (VB raise) (NP (PRP it)) (NP (DT a) (NN bit)) (SBAR (IN as) (S (NP (VBG rebuilding)) (VP (VBZ begins))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ first) (NNS effects)) (VP (VBP are) (, ,) (PP (IN of) (NP (NN course))) (, ,) (ADJP (JJ negative) (SBAR (IN as) (S (S (NP (NN work)) (VP (VBZ is) (VP (VBN disrupted)))) (CC and) (S (NP (NNS people)) (VP (VP (VBP lose) (NP (NN income))) (CC and) (VP (VB cut) (NP (NN spending))))))))) (. .)))
+
+(S1 (S (NP (JJ Corporate) (NNS profits)) (VP (MD may) (ADVP (RB also)) (VP (VB dip) (ADVP (RB initially)))) (. .)))
+
+(S1 (S (S (NP (NP (JJ Many)) (PP (IN of) (NP (DT the) (VBN lost) (NN tourism) (NNS dollars)))) (VP (MD wo) (RB n't) (VP (VB be) (VP (VBN recovered))))) (: ;) (S (NP (JJ many) (NNS trips)) (VP (VBD delayed) (ADVP (RB never)) (VP (VB take) (NP (NN place))))) (. .)))
+
+(S1 (S (ADVP (RB Subsequently)) (, ,) (ADVP (RB however)) (, ,) (NP (DT the) (JJ ill) (NNS effects)) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (VP (VBN offset) (PRN (, ,) (PP (ADVP (IN at) (JJS least)) (IN in) (NP (JJ economic) (NNS terms))) (, ,)) (SBAR (IN as) (S (NP (NN construction) (NN activity)) (VP (VBZ begins)))))))))) (. .)))
+
+(S1 (S (PP (IN Because) (IN of) (NP (NP (DT the) (NN way)) (SBAR (S (NP (DT the) (NN government)) (VP (VBZ keeps) (NP (PRP$ its) (NNS books))))))) (, ,) (NP (NP (DT the) (NN damage)) (PP (TO to) (NP (DT the) (NNP Bay) (NNP Bridge))) (, ,) (ADJP (RB however) (JJ costly)) (, ,)) (VP (MD wo) (RB n't) (VP (VB be) (VP (VBN counted) (PP (IN as) (NP (DT a) (NN minus)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN money)) (VP (VBN spent) (PP (IN on) (NP (NNS repairs))))) (VP (MD will) (VP (VB be) (VP (VBN counted) (PP (IN as) (NP (DT a) (NN plus)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADJP (RB very) (JJ difficult)) (S (VP (TO to) (VP (NN model) (NP (NP (DT the) (JJ long-term) (NN impact)) (PP (IN of) (NP (DT this)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Andrew) (NNP Goldberg)) (, ,) (SBAR (WHNP (WP who)) (S (VP (NNS studies) (NP (NP (DT the) (ADJP (JJ public-policy) (CC and) (JJ crisis-management)) (NNS aspects)) (PP (IN of) (NP (NNS earthquakes)))) (PP (IN at) (NP (NP (DT the) (NNP Center)) (PP (IN for) (NP (NNP Strategic) (NNP International) (NNPS Studies))) (PP (IN in) (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C)))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (NP (PRP You)) (ADVP (RB certainly)) (VP (MD can) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADJP (RB extremely) (JJ severe))))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (ADVP (RB really)) (VP (VBP are) (VP (VBG talking) (PP (IN about) (S (VP (VBG shutting) (PRT (RP down)) (NP (DT a) (JJ major) (NNP American) (NN city)) (PP (IN for) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS days)) (, ,) (ADVP (RB maybe) (IN for) (NP (DT a) (JJ few) (NNS weeks)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Goldberg)) (VP (VBZ says) (SBAR (S (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (DT the) (NN earthquake)))) (VP (VP (MD will) (ADVP (RB definitely)) (VP (VB top) (NP (QP ($ $) (CD 1) (CD billion))))) (CC and) (VP (MD could) (VP (VB reach) (NP (QP ($ $) (CD 4) (CD billion))))))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (VP (VBZ cautions) (SBAR (IN that) (S (NP (JJ early) (NN damage) (NNS estimates)) (VP (VBP are) (ADVP (RB often)) (ADJP (JJ low))))))) (: ;) (S (NP (NP (DT the) (NN damage) (NNS totals)) (PP (IN in) (NP (NNP Hurricane) (NNP Hugo)))) (VP (VBD increased) (ADVP (RB tenfold)) (SBAR (IN as) (S (NP (JJR more) (NN information)) (VP (VBD was) (VP (VBN received))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN earthquake) (NN damage)) (, ,) (PP (IN of) (NP (NN course))) (, ,) (VP (MD would) (VP (VB have) (VP (VBN been) (ADJP (RB far) (JJR greater)) (SBAR (IN if) (S (NP (DT the) (NN epicenter)) (VP (VBD had) (VP (VBN been) (PP (IN in) (NP (NN downtown) (NNP San) (NNP Francisco)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ direct) (NN hit)) (PP (IN on) (NP (DT a) (JJ major) (NN city)))) (PRN (, ,) (S (NP (NNP Mr.) (NNP Goldberg)) (VP (VBZ figures))) (, ,)) (VP (MD would) (VP (VB cause) (NP (NP (QP ($ $) (CD 20) (CD billion) (TO to) ($ $) (CD 40) (CD billion))) (PP (IN of) (NP (NN damage)))))) (. .)))
+
+(S1 (S (S (NP (NNS Experts)) (VP (VBP caution) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB far) (RB too) (RB soon)) (PP (IN for) (NP (NP (JJ reliable) (NNS estimates)) (PP (IN of) (NP (NP (DT the) (NN quake) (POS 's)) (JJ total) (NN damage)))))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ clear)) (SBAR (IN that) (S (NP (NNS insurers)) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB pay) (PRT (RP out)) (NP (JJ enormous) (NNS sums))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Jack) (NNP Byrne)) (, ,) (NP (NP (DT the) (NN chairman)) (PP (IN of) (NP (NP (NP (NNP Fireman) (POS 's)) (NNP Fund) (NNP Corp.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Novato)) (, ,) (NP (NNP Calif.))))))))))) (, ,)) (VP (VBZ estimates) (SBAR (S (NP (NP (JJ insured) (NNS losses)) (VP (VBG resulting) (NP (DT the) (NN earthquake)))) (VP (MD could) (VP (VB total) (NP (QP ($ $) (CD 2) (CD billion)))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (DT The) (NN impact)) (PP (IN on) (NP (DT the) (NN insurance) (NN industry) (`` `)))) (`` `) (VP (MD will) (VP (VB be) (ADJP (ADJP (JJ big) (CC and) (JJ harsh) (, ,) (CC but) (JJR less)) (PP (IN than) (NP (-LRB- -LCB-) (NNP Hurricane) (-RRB- -RCB-) (NNP Hugo))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Mr.) (NNP Byrne)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD toured) (NP (DT the) (NNP Bay) (NN area)) (PP (IN by) (NP (NN car) (NN yesterday) (NN afternoon))) (S (VP (TO to) (VP (VB get) (NP (NP (DT a) (NN sense)) (PP (IN of) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN exposure)) (PP (TO to) (NP (DT the) (NN earthquake))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Byrne)) (VP (VBZ says) (SBAR (S (NP (NP (NNP Fireman) (POS 's)) (NNP Fund)) (VP (MD will) (ADVP (RB probably)) (VP (VB pay) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN in) (NP (JJ primary) (NNS claims)))))))))))) (, ,) (CC but) (S (, ,) (PP (IN after) (NP (NP (NNS taxes)) (CC and) (NP (NP (NN use)) (PP (IN of) (NP (PRP$ its) (NN reinsurance) (NNS lines)))))) (, ,) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN fourthquarter) (NN charge)) (PP (IN against) (NP (NNS earnings)))) (VP (MD should) (RB n't) (VP (VB top) (NP (QP ($ $) (CD 50) (CD million)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB assess) (NP (PRP$ its) (NN damage) (NN liability)) (ADVP (RB quickly)))))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (JJ computerized) (NNS maps)) (PP (IN of) (NP (NNP Northern) (NNP California))) (VP (VBG showing) (NP (NP (DT the) (JJ exact) (NNS locations)) (PP (IN of) (NP (NP (PDT all) (DT the) (NN property)) (SBAR (S (NP (PRP it)) (VP (VBZ insures))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Fireman) (POS 's)) (NNP Fund)) (VP (VP (VBD had) (NP (NNS claims) (NNS adjusters)) (PP (IN on) (NP (NP (DT the) (NNS streets)) (PP (IN of) (NP (NNP San) (NNP Francisco))))) (PP (ADVP (RB right)) (IN after) (NP (NN sunrise) (NN yesterday)))) (CC and) (VP (VBD was) (VP (VBG paying) (NP (ADJP (RB as) (JJ many)) (NNS claims) (SBAR (IN as) (S (NP (PRP it)) (VP (MD could) (VP (NN right) (PP (IN on) (NP (DT the) (NN spot))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Fireman) (POS 's)) (NNP Fund)) (VP (VBZ insures) (NP (NP (CD 37,300) (NNS homes) (CC and) (NNS autos)) (CC and) (NP (NP (CD 35,000) (NNS businesses)) (PP (IN in) (NP (DT the) (NNP Bay) (NN area)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (S (VP (VBG paying) (PP (IN for) (NP (NN earthquake) (CC and) (NN fire) (NN damage)))))))) (, ,) (NP (DT the) (NN insurer)) (VP (MD must) (VP (VB cover) (NP (NP (JJ worker-compensation) (NNS claims)) (CC and) (RB also) (NP (NP (NNS losses)) (ADJP (JJ due) (PP (TO to) (NP (NP (NNS businesses)) (VP (VBG being) (VP (VBN shut) (PRT (RP down)) (PP (IN by) (NP (NP (NN lack)) (PP (IN of) (NP (NN power) (CC or) (NN phone) (NN service)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ many) (NNPS Californians)) (VP (MD may) (RB not) (VP (VB have) (NP (NP (JJ adequate) (NN insurance) (NN coverage)) (SBAR (S (VP (TO to) (VP (VB pay) (PP (IN for) (NP (NP (NNS damages)) (PP (TO to) (NP (PRP$ their) (NN property)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Independent) (NNP Insurance) (NNPS Agents)) (PP (IN of) (NP (NNP America)))) (VP (VBZ says) (SBAR (S (NP (NP (QP (JJR fewer) (IN than) (CD one))) (PP (IN of) (NP (DT every) (CD five) (NNP California) (NNS homeowners)))) (VP (VBZ has) (NP (NN earthquake) (NN insurance)))))) (. .)))
+
+(S1 (S (S (NP (NP (DT A) (ADJP (RB somewhat) (JJR higher)) (NN percentage)) (PP (IN of) (NP (NP (NNS people)) (VP (VBG living) (PP (IN in) (NP (DT the) (NNP Bay) (NN area))))))) (VP (VBP have) (VP (VBN bought) (NP (DT the) (JJ additional) (NN insurance) (NN protection))))) (, ,) (CC but) (S (NP (DT the) (JJ great) (NN majority)) (VP (VBP are) (RB n't) (VP (VBN covered)))) (. .)))
+
+(S1 (S (NP (NN Earthquake) (NN insurance)) (ADVP (RB typically)) (VP (VBZ runs) (NP (NP (QP ($ $) (CD 200) (CC or) (JJR more))) (NP (DT a) (NN year))) (PP (IN for) (NP (DT a) (JJ small) (NN house)))) (. .)))
+
+(S1 (S (SBAR (WHNP (WDT Whatever)) (FRAG (NP (DT the) (JJ long-term) (JJ economic) (NN effect)))) (, ,) (NP (NP (DT the) (NN scene)) (PP (IN from) (NP (NP (DT the) (NN helicopter)) (PP (IN above) (NP (NNP Oakland)))))) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NN tragedy))))) (. .)))
+
+(S1 (S (NP (NP (JJ Gargantuan) (NNS sections)) (PP (IN of) (NP (DT a) (JJ double-decker) (NN freeway)))) (VP (VBP have) (VP (VBN been) (VP (VBN heaved) (PRT (RP about)) (PP (IN like) (NP (NN plastic) (NN building) (NNS blocks)))))) (. .)))
+
+(S1 (SINV (PP (IN Atop) (NP (PRP them))) (VP (VBP sit) (NP (NNS cars) (CC and) (NNS trucks)) (PP (VBN abandoned) (PP (IN in) (NP (DT a) (JJ terrifying) (NN scramble))) (PP (TO to) (NP (NN safety))))) (NP (NP (DT the) (NN day)) (ADVP (IN before))) (. .)))
+
+(S1 (FRAG (PP (IN In) (NP (NP (NNS areas)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN freeway)) (VP (VBD made) (S (NP (NP (JJ giant) (JJ concrete) (NNS sandwiches)) (PP (IN of) (NP (PRP itself)))) (VP (VB lie) (NP (NP (NNS cars)) (SBAR (WHNP (IN that)) (S (NP (NNS police)) (VP (VBP say) (SBAR (S (VP (VBP have) (VP (VBN been) (VP (VBN flattened) (PP (IN into) (NP (JJ foot-thick) (NNS slabs))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT the) (NN periphery))) (, ,) (NP (NN rescue) (NNS workers)) (VP (VBP seem) (, ,) (PP (IN from) (NP (DT the) (NN air))) (, ,) (S (VP (TO to) (VP (VB move) (PP (IN in) (NP (JJ slow) (NN motion))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (NNP peck) (PRT (RP away)) (PP (IN at) (NP (NP (DT the) (ADJP (CD 1) (JJ 1\/2-mile)) (NN section)) (PP (IN of) (NP (NN rubble))))) (, ,) (S (VP (VBG searching) (PP (IN for) (NP (NP (JJR more)) (PP (IN of) (NP (NP (DT the) (CD 250) (NNS people)) (VP (VBN thought) (S (VP (TO to) (VP (VB have) (VP (VBN died) (ADVP (RB here)))))))))))))) (. .)))
+
+(S1 (S (NP (QP (RB About) (CD 20)) (JJ other) (NNS deaths)) (VP (VBD were) (ADVP (RB also)) (VP (VBN attributed) (PP (TO to) (NP (DT the) (NN earthquake))))) (. .)))
+
+(S1 (S (S (NP (NP (NP (DT The) (NN heart)) (PP (IN of) (NP (DT the) (NN earthquake)))) (, ,) (NP (NP (CD 6.9)) (PP (IN on) (NP (DT the) (NNP Richter) (NN scale)))) (, ,)) (VP (VBD was) (NP (NP (CD 50) (NNS miles)) (PP (TO to) (NP (DT the) (NN south)))) (, ,) (PP (IN near) (NP (NNP Santa) (NNP Cruz))))) (, ,) (CC but) (S (NP (PRP$ its) (JJ terrible)) (ADVP (RB fist)) (VP (VBD struck) (ADVP (RB here)) (PP (IN on) (NP (NP (DT the) (NNP Nimitz) (NNP Freeway)) (, ,) (NP (NP (DT a) (JJ major) (NN artery)) (VP (VBG serving) (NP (NP (DT the) (NNP Bay) (NNP Bridge)) (PP (IN between) (NP (NP (NNP Oakland)) (CC and) (NP (NNP San) (NNP Francisco))))))))))) (. .)))
+
+(S1 (S (PP (IN Along) (NP (DT the) (NN way))) (, ,) (NP (DT the) (NN quake)) (VP (VP (VBD toppled) (NP (NP (DT a) (NN mall)) (PP (IN in) (NP (NNP Santa) (NNP Cruz))))) (, ,) (VP (VBD knocked) (PRT (RP down)) (NP (NP (NNS buildings)) (PP (IN in) (NP (NP (NNP San) (NNP Francisco) (POS 's)) (JJ fashionable) (NNP Marina) (NN District))))) (CC and) (VP (VBD sent) (NP (NP (DT a) (NN wall)) (PP (IN of) (NP (NNS bricks))) (PP (VBG crashing) (PP (IN on) (NP (NP (NNS motorists)) (PP (IN in) (NP (NP (DT the) (NN city) (POS 's)) (JJ Financial) (NN District))))))))) (. .)))
+
+(S1 (S (S (NP (NP (RB Just) (DT a) (JJ short) (NN span)) (PP (IN across) (NP (NP (DT the) (NN bay)) (PP (TO to) (NP (DT the) (NN west)))))) (, ,) (NP (DT the) (NN quake)) (ADVP (RB also)) (VP (VBD showed) (NP (PRP$ its) (NN mettle)))) (: :) (S (NP (NP (DT A) (JJ four-square-block) (NN area)) (PP (IN of) (NP (DT the) (NNP Marina) (NNP District)))) (VP (VBZ lies) (PP (VBG smoldering) (PP (IN under) (NP (NP (DT a) (JJ steady) (NN stream)) (PP (IN of) (NP (NP (NN seawater)) (VP (VBG being) (VP (VBN pumped) (PP (IN onto) (NP (NN rubble))) (S (VP (TO to) (VP (VB prevent) (NP (PRP it)) (PP (IN from) (S (VP (VBG blazing) (ADVP (RB anew))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Many)) (PP (IN of) (NP (NP (DT the) (NNS buildings)) (, ,) (NP (RB mostly) (NNS condominiums)) (CC and) (NP (NNS apartments)) (, ,)))) (VP (VBD were) (VP (VBN flattened) (ADVP (ADVP (RB almost) (RB instantly)) (SBAR (IN as) (S (NP (DT the) (JJ underlying) (NN soil) (PRN (: --) (ADJP (JJ much) (PP (IN of) (NP (PRP it) (NN landfill)))) (: --))) (VP (VBD was) (VP (ADVP (RB literally)) (VBN turned) (PP (TO to) (NP (NP (NN ooze)) (PP (IN by) (NP (NP (DT the) (NN quake) (POS 's)) (JJ intensive) (VBG shaking))))) (, ,) (S (VP (VBG rupturing) (NP (NN gas) (NNS lines))))))))))) (. .)))
+
+(S1 (S (NP (NNS Onlookers)) (VP (VBP say) (SBAR (S (NP (CD three) (NNS persons)) (VP (VBD died) (SBAR (WHADVP (WRB when)) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS buildings)))) (VP (VBD exploded) (PP (IN into) (NP (DT a) (NN fireball))) (SBAR (ADVP (RB shortly)) (IN after) (S (NP (DT the) (NN quake)) (VP (VBD struck))))))))))) (. .)))
+
+(S1 (S (NP (NNS Efforts) (S (VP (TO to) (VP (VB fight) (NP (DT the)))))) (VP (VBP blaze) (SBAR (S (VP (VBD were) (VP (VBN hampered) (SBAR (IN because) (S (NP (NN water) (NNS mains)) (VP (VBD were) (VP (VBN severed) (ADVP (RB as) (RB well))))))))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (DT the) (NN air))) (, ,) (NP (NP (NNS ribbons)) (PP (IN of) (NP (JJ yellow) (NN fire) (NN hose)))) (VP (VB carry) (NP (NP (NN water)) (PP (IN from) (NP (DT the) (NN bay)))) (PP (TO to) (NP (NP (JJ high-pressure) (NNS nozzles)) (VP (VBN trained) (PP (IN on) (NP (DT the) (NN site))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NNS onlookers)) (VP (VBP stand) (PP (IN behind) (NP (NNS barricades)))))) (, ,) (NP (NP (JJ helmeted) (NNS firemen)) (CC and) (NP (NN building) (NNS inspectors))) (VP (VP (VB survey) (NP (NP (NNS rows)) (PP (IN of) (NP (JJ nearby) (NNS buildings))) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN twisted) (PP (IN from) (NP (PRP$ their) (NNS foundations))))))))) (CC and) (VP (VB seem) (PP (IN on) (NP (NP (DT the) (NN verge)) (PP (IN of) (NP (NN collapse))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNP Marina) (NNP District))) (, ,) (NP (NNS residents)) (VP (VBD spent) (NP (NN yesterday)) (S (VP (VBG assessing) (NP (NN damage)))) (, ,) (S (VP (VP (VBG cleaning) (PRT (RP up))) (CC and) (VP (VBG trying) (S (VP (TO to) (VP (VB find) (NP (NNS friends) (CC and) (NNS neighbors))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Evelyn) (NNP Boccone)) (, ,) (ADJP (NP (CD 85) (NNS years)) (JJ old)) (, ,)) (VP (VBZ has) (VP (VBN lived) (PP (IN in) (NP (DT the) (NN district))) (NP (NP (JJS most)) (PP (IN of) (NP (PRP$ her) (NN life)))))) (. .)))
+
+(S1 (S (NP (PRP$ Her) (NNS parents)) (VP (VBN lost) (NP (NN everything)) (PP (IN in) (NP (DT the) (CD 1906) (NN earthquake)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (ADVP (RB Now)) (, ,) (NP (PRP we)) (VP (VBP realize) (SBAR (WHNP (WP what)) (S (NP (PRP$ our) (NNS mothers)) (VP (MD must) (VP (VB have) (VP (VBN gone) (ADVP (RB through))))))))) (, ,) ('' ') ('' ') (NP (PRP she)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (ADVP (RB always)) (VP (VBD heard) (PP (IN about) (NP (DT the) (NN earthquake))))) (, ,) (CC but) (S (PP (IN as) (NP (NNS children))) (NP (PRP we)) (VP (VBD did) (RB n't) (ADVP (RB always)) (VP (VB listen)))) (. .)))
+

@@ -1,0 +1,14 @@
+(S1 (S (NP (NNP AVON) (NNP RENT-A-CAR) (CC &) (NNP TRUCK) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD declared) (NP (NP (DT a) (NN dividend)) (PP (IN of) (NP (NP (CD one) (NN warrant)) (PP (IN for) (NP (NP (DT each) (CD three) (NNS shares)) (PP (IN of) (NP (JJ common) (NN stock)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Currently)) (, ,) (NP (NP (NNP Avon)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Santa) (NNP Monica)) (, ,) (NP (NNP Calif.))))) (, ,)) (VP (VBZ has) (NP (NP (QP (CD 3.3) (CD million)) (JJ common) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
+
+(S1 (S (S (NP (QP (RB About) (CD 1.1) (CD million)) (NNP Class) (NNP C) (NNS warrants)) (VP (VBD were) (VP (VBN issued)))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (DT Each)) (PP (IN of) (NP (DT the) (NNP Class) (NNP C) (NNS warrants)))) (VP (MD will) (VP (VB enable) (S (NP (DT the) (NNS holders)) (VP (TO to) (VP (VB purchase) (NP (NP (CD one) (NN share)) (PP (IN of) (NP (JJ common) (NN stock)))) (PP (IN at) (NP ($ $) (CD 5.50)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS warrants)) (VP (MD may) (VP (VB be) (VP (VBN exercised) (PP (IN until) (NP (NP (CD 90) (NNS days)) (PP (IN after) (NP (PRP$ their) (NN issue) (NN date)))))))) (. .)))
+
+(S1 (S (NP (NNP Avon)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB issue) (NP (NP (DT an) (JJ additional) (NN 243,677)) (PP (IN of) (NP (DT the) (NNP Class) (NNP C) (NNS warrants)))) (PP (TO to) (NP (NP (NNS holders)) (PP (IN of) (NP (NP (PRP$ its) (NNP Class) (NNP A)) (, ,) (NP (NNP Class) (NNP B)) (CC and) (NP (JJ unclassified) (NNS warrants))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Issuance)) (PP (IN of) (NP (DT those) (NNS warrants)))) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NN one-third) (NN warrant))))) (SBAR (IN for) (S (NP (DT each) (NN warrant)) (VP (VBN exercised)))))) (. .)))
+

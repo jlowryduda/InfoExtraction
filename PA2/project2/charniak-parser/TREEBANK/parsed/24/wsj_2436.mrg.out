@@ -1,0 +1,22 @@
+(S1 (S (NP (NP (NNP Roger) (NNP Rosenblatt)) (, ,) (NP (NP (NN editor)) (PP (IN of) (NP (NNP U.S.) (NNP News) (CC &) (NNP World) (NNP Report)))) (, ,)) (VP (VBD resigned) (NP (NNP Friday)) (PP (IN from) (NP (DT the) (JJ weekly) (NN news) (NN magazine)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Rosenblatt)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD resigned) (PP (IN because) (IN of) (NP (NP (NP (NNS difficulties)) (PP (IN with) (S (VP (VBG commuting) (PP (IN between) (NP (NP (PRP$ his) (NN home)) (PP (IN in) (NP (NNP New) (NNP York))))))))) (CC and) (NP (NP (NP (DT the) (NN magazine) (POS 's)) (NN editorial) (NNS offices)) (PP (IN in) (NP (NNP Washington)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (ADVP (NNP Frankly)) (, ,) (NP (PRP I)) (VP (VBD missed) (NP (PRP$ my) (NN family)))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NNP Mr.) (NNP Rosenblatt)) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNP Mr.) (NNP Rosenblatt) (POS 's)) (NN tenure))) (, ,) (NP (NP (NP (DT the) (NN magazine) (POS 's)) (VBG advertising) (NNS pages)) (CC and) (NP (NN circulation))) (VP (VBP have) (VP (VBN grown) (ADVP (RB significantly)))) (. .)))
+
+(S1 (S (CC But) (PP (IN at) (NP (QP (CD 2.3) (CD million)) (JJ weekly) (JJ paid) (NN circulation))) (, ,) (NP (NNP U.S.) (NNP News)) (ADVP (RB still)) (VP (VBZ ranks) (NP (JJ third)) (PP (IN behind) (NP (NP (NNP Time) (NNP Warner) (NNP Inc.) (POS 's)) (NNP Time) (NN magazine))) (, ,) (PP (IN with) (NP (NP (QP (CD 4.4) (CD million)) (NN circulation)) (, ,) (CC and) (NP (NP (NNP Washington) (NNP Post) (NNP Co.) (POS 's)) (NNP Newsweek)))) (, ,) (PP (IN with) (NP (QP (CD 3.3) (CD million)) (NN circulation)))) (. .)))
+
+(S1 (S (NP (NP (NNP Mortimer) (NNP B.) (NNP Zuckerman)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (NP (NN editor)) (PP (IN in) (NP (NN chief))))) (, ,)) (VP (VBD said) (SBAR (S (NP (NNP Mr.) (NNP Rosenblatt)) (VP (MD would) (VP (VB be) (VP (VBN succeeded) (PP (VBG starting) (NP (NN today))) (PP (IN by) (NP (NP (NP (NNP Michael) (NNP Ruby)) (, ,) (NP (NP (DT the) (NN magazine) (POS 's)) (NN executive) (NN editor)) (, ,)) (CC and) (NP (NP (NNP Merrill) (NNP McLoughlin)) (, ,) (NP (DT a) (JJ senior) (NN writer))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Ruby)) (CC and) (NP (NNP Ms.) (NNP McLoughlin))) (VP (VBP are) (ADJP (VBN married) (PP (TO to) (NP (DT each) (JJ other))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Zuckerman)) (VP (VBD said) (SBAR (S (NP (PRP$ his) (NN magazine)) (VP (MD would) (VP (VP (VB maintain) (NP (NP (PRP$ its) (JJ editorial) (NN format)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT a) (NN mix)) (PP (IN of) (NP (NN analysis))))))))) (CC and) (VP (VB trend) (NP (NP (NNS stories)) (PP (IN with) (NP (JJ service-oriented) (, ,) (JJ how-to) (NNS articles)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Rosenblatt)) (, ,) (NP (NP (DT a) (JJ senior) (NN writer)) (PP (IN at) (NP (NNP Time) (NN magazine))) (PP (IN before) (S (VP (VBG joining) (NP (NNP U.S.) (NNP News) (CC &) (NNP World) (NNP Report)))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD had) (NP (NP (JJ numerous) (NN job) (NNS offers)) (PP (IN from) (NP (JJ other) (NNS magazines)))) (SBAR (IN while) (S (NP (PRP he)) (VP (VBD was) (NP (NN editor))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS offers)) (VP (VBD were) (S (VP (TO to) (VP (VB work) (PP (IN as) (NP (NP (DT a) (NN writer)) (, ,) (RB not) (NP (DT an) (NN editor)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD will) (ADVP (RB now)) (VP (VB consider) (NP (DT those) (NNS offers))))))) (. .)))
+

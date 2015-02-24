@@ -1,0 +1,32 @@
+(S1 (S (NP (NAC (NNP Bank) (PP (IN of) (NP (NNP New) (NNP York)))) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (PP (IN in) (NP (NN principle))) (S (VP (TO to) (VP (VB acquire) (NP (NP (DT the) (NN credit-card) (NN business)) (PP (IN of) (NP (NP (JJ Houston-based) (NNP First) (NNP City) (NNP Bancorp.)) (PP (IN of) (NP (NNP Texas)))))) (PP (IN for) (NP (QP (IN between) ($ $) (CD 130) (CD million) (CC and) ($ $) (CD 134) (CD million))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN move)) (, ,) (ADJP (JJ subject) (PP (TO to) (NP (DT a) (JJ definitive) (NN agreement)))) (, ,)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NN trend)) (PP (IN by) (NP (NP (JJ big-city) (NNS banks)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN been) (VP (VBG buying) (PRT (RP up)) (NP (NN credit-card) (NNS portfolios)) (S (VP (TO to) (VP (VB expand) (NP (PRP$ their) (NN business)))))))))))))))) (. .)))
+
+(S1 (S (NP (RB Just) (JJ last) (NN month)) (, ,) (NP (DT a) (NAC (NNP Bank) (PP (IN of) (NP (NNP New) (NNP York)))) (NN subsidiary)) (VP (VP (VBD agreed) (S (VP (TO to) (VP (VB buy) (NP (NP (DT the) (NN credit-card) (NN operation)) (PP (IN of) (NP (NP (NNP Dreyfus) (NNP Corp.) (POS 's)) (NNP Dreyfus) (NNP Consumer) (NNP Bank)))) (PP (IN for) (NP (QP ($ $) (CD 168) (CD million)))))))) (, ,) (NP (NP (DT a) (NN transaction)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB be) (VP (VBN completed) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP First) (NNP City) (POS 's)) (NN portfolio)) (VP (VBZ includes) (NP (NP (QP (RB approximately) (CD 640,000)) (NNS accounts)) (PP (IN with) (NP (NP (QP (RB about) ($ $) (CD 550) (CD million))) (PP (IN in) (NP (NP (NNS loans)) (ADJP (JJ outstanding)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP First) (NNP City)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ issues) (NP (DT both) (NNP MasterCard) (CC and) (NNP Visa) (NNS cards))))) (, ,)) (VP (VBZ has) (VP (VBN agreed) (S (VP (TO to) (VP (VB act) (PP (IN as) (NP (DT an) (NN agent) (NN bank)))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (JJ third) (NN quarter))))) (, ,) (NP (NP (NAC (NNP Bank) (PP (IN of) (NP (NNP New) (NNP York)))) (POS 's)) (NN credit-card) (NN business)) (VP (VBD consisted) (PP (IN of) (NP (NP (QP (CD 2.4) (CD million)) (NNS accounts)) (PP (IN with) (NP (NP (QP ($ $) (CD 3.6) (CD billion))) (PP (IN in) (NP (NP (NNS loans)) (ADJP (JJ outstanding))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Bank)) (PP (IN of) (NP (NNP New) (NNP York)))) (VP (VBZ is) (ADVP (RB currently)) (NP (NP (DT the) (JJ seventh-largest) (NN issuer)) (PP (IN of) (NP (NP (NN credit) (NNS cards)) (PP (IN in) (NP (DT the)))))))))
+
+(S1 (S (NP (NNP First) (NNP City)) (VP (VBD said) (SBAR (IN that) (S (PP (IN because) (IN of) (NP (NP (VBN increased) (NN competition)) (PP (IN in) (NP (DT the) (NN credit-card) (NN business))))) (, ,) (NP (PRP it)) (VP (VP (VBD had) (VP (VBN decided) (NP (PRP it)))) (CC either) (VP (VBD had) (S (VP (TO to) (VP (VP (VB expand) (NP (PRP$ its) (JJ own) (NNS holdings)) (ADVP (RB substantially))) (CC or) (VP (VB sell) (NP (PRP them))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP think) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN prospect) (SBAR (IN that) (S (NP (NN competition)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB get) (ADJP (RB pretty) (JJ fierce) (PP (IN in) (NP (DT this) (NN market)))))))))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP James) (NNP E.) (NNP Day)) (, ,) (NP (DT a) (JJ First) (NNP City) (NN vice) (NN president))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VB see) (NP (PRP it)) (S (VP (VBG becoming) (NP (NP (DT a) (JJ bargain-basement) (NN kind)) (PP (IN of) (NP (NN business))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD estimated) (SBAR (IN that) (S (NP (DT the) (NN transaction)) (VP (MD would) (VP (VB enhance) (NP (PRP$ its) (NN book) (NN value)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD stood) (PP (IN at) (NP (NP ($ $) (CD 28.55)) (NP (DT a) (NN share)))) (PP (IN on) (NP (NNP Sept.) (CD 30))) (, ,) (PP (IN by) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 100) (CD million))) (, ,) (CC or) (NP (NP (QP (RB about) ($ $) (CD 4))) (NP (DT a) (NN share))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (DT the) (NN transaction)) (VP (MD would) (VP (VP (VB bolster) (NP (JJ after-tax) (NNS earnings)) (PP (IN by) (NP (NP ($ $) (CD 3.25)) (NP (DT a) (NN share)))) (SBAR (WHADVP (WRB when)) (S (VP (VBN completed))))) (CC and) (VP (VB boost) (NP (PRP$ its) (JJ primary) (NN capital) (NN ratio)) (PP (TO to) (NP (CD 7) (NN %))) (PP (IN from) (NP (CD 6.63) (NN %))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP First) (NNP City)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB recently)) (VP (VBD purchased) (NP (CD three) (JJ small) (NNP Texas) (NN banking) (NNS concerns))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB use) (NP (DT the) (NNS proceeds)) (S (VP (TO to) (VP (VB pursue) (NP (JJ additional) (NN expansion) (NNS opportunities)) (UCP (PP (IN in) (NP (DT the) (NNP Southwest))) (CC and) (ADVP (RB elsewhere))))))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (DT that) (NN possibility)) (PP (IN in) (NP (NN mind))))) (, ,) (NP (NNS analysts)) (VP (VBD said) (SBAR (S (NP (DT the) (NN transaction)) (VP (VBD was) (NP (NP (DT a) (JJ positive) (NN move)) (PP (IN for) (NP (NNP First) (NNP City)))))))) (. .)))
+
+(S1 (SINV (`` `) (`` `) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB move) (ADVP (RBR faster)) (S (VP (TO to) (VP (VB make) (NP (NP (NNS acquisitions)) (PP (IN in) (NP (NNP Texas))))))))))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Brent) (NNP Erensel)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP Donaldson) (, ,) (NNP Lufkin) (CC &) (NNP Jenrette))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN something)) (SBAR (S (NP (PRP they)) (VP (MD can) (VP (VB do) (ADVP (RB very) (RB well))))))))) (. .)))
+

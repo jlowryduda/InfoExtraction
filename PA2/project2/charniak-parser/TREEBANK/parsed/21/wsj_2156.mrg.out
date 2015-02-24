@@ -1,0 +1,50 @@
+(S1 (S (NP (NP (NNP PepsiCo) (NNP Inc.) (POS 's)) (NN chairman)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ is) (`` `) (UCP (`` `) (ADJP (ADVP (RBR more) (IN than)) (JJ comfortable) (PP (IN with) ('' '))) ('' ') (NP (NP (NP (NNS analysts) (POS ')) (NNS estimates)) (SBAR (WHNP (IN that)) (S (NP (JJ third-quarter) (NNS earnings)) (VP (VBD rose) (PP (TO to) (NP (QP (IN at) (JJS least) (CD 98)) (NNS cents))) (PP (TO to) (NP (NP ($ $) (CD 1)) (NP (DT a) (NN share)))) (PP (IN from) (NP (CD 91) (NNS cents)) (ADVP (NP (DT the) (NN year)) (RBR earlier)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP D.) (NNP Wayne) (NNP Calloway)) (, ,) (RB also) (NP (NP (JJ chief) (NN executive) (NN officer)) (PP (IN of) (NP (DT the) (NN company)))) (, ,)) (VP (VBD indicated) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ expects) (S (NP (NNS analysts)) (VP (TO to) (VP (VB raise) (NP (NP (PRP$ their) (NNS forecasts)) (PP (IN for) (NP (CD 1989)))) (SBAR (IN after) (S (NP (DT the) (NN company)) (VP (VBZ releases) (NP (PRP$ its) (NNS earnings) (NN today)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB So) (RB far)) (, ,) (NP (NNS analysts)) (VP (VBP have) (VP (VBN said) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP ($ $) (CD 3.30)) (TO to) (NP (NP ($ $) (CD 3.35)) (NP (DT a) (NN share))))))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (NN today) (POS 's)) (NN announcement))) (, ,) (NP (DT that) (NN range)) (VP (MD could) (VP (VB increase) (PP (TO to) (NP ($ $) (CD 3.35))) (PP (TO to) (NP (NP ($ $) (CD 3.40)) (NP (DT a) (NN share)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN official)) (VP (VBD said) (SBAR (S (NP (PRP he)) (ADVP (RB also)) (VP (MD would) (VP (VB be) (ADJP (JJ comfortable) (PP (IN with) (NP (DT that) (JJ new) (NN range))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1988))) (, ,) (NP (DT the) (NN soft-drink) (NN giant)) (VP (VBD earned) (NP (NP ($ $) (CD 2.90)) (NP (DT a) (NN share)))) (. .)))
+
+(S1 (S (NP (NP (NNS Results)) (PP (IN for) (NP (CD 1989)))) (VP (MD will) (VP (VB include) (NP (NP (QP (RB about) (CD 40)) (NNS cents)) (NP (DT a) (NN share))) (PP (IN from) (NP (NP (DT the) (JJ dilutive) (NNS effects)) (PP (IN of) (NP (NN snack-food) (CC and) (NN bottling) (NN company) (NNS acquisitions))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (JJ composite) (NN trading)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))) (, ,) (NP (DT the) (NN company)) (VP (VBD closed) (NP (NN yesterday)) (PP (IN at) (NP (NP ($ $) (CD 57.125)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB up) (NP ($ $) (CD 3.125)))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (JJ third-quarter) (NNS sales)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB increase) (NP (CD 25) (NN %)) (PP (IN from) (NP (NP (QP ($ $) (CD 3.12) (CD billion))) (PP (IN of) (NP (NP (JJ last) (NN year) (POS 's)) (JJ third) (NN quarter))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Domestic) (NN soft-drink) (NN bottler) (NN case) (NNS sales)) (VP (VBP are) (VP (VBN estimated) (S (VP (TO to) (VP (VB have) (VP (VBN risen) (NP (NP (QP (RB only) (CD 1)) (NN %)) (PP (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (: --) (PP (ADVP (RB well)) (IN below) (NP (NP (DT the) (ADJP (QP (CD 4) (NN %) (TO to) (CD 5) (NN %))) (NN growth)) (PP (IN of) (NP (JJ recent) (NNS years))))) (: --) (CC but) (IN about) (PP (IN in) (NP (NP (NN line)) (PP (IN with) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN soft-drink) (NN industry))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Calloway)) (VP (VBD blamed) (NP (DT the) (JJR slower) (NN volume)) (PP (IN on) (NP (NP (NNP rainier) (NN weather)) (, ,) (NP (NP (DT a) (NN dearth)) (PP (IN of) (NP (NP (JJ new) (NNS products)) (PP (IN in) (NP (DT the) (NN industry)))))) (CC and) (PRN (: --) (PP (TO to) (NP (DT a) (RB much) (JJR lesser) (NN extent))) (: --)) (NP (NN pricing))))) (. .)))
+
+(S1 (S (NP (NNP PepsiCo)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ soft-drink) (NNS prices)) (VP (VBD were) (ADJP (NP (QP (RB about) (CD 2)) (NN %)) (JJR higher)) (PP (IN in) (NP (DT the) (NN quarter))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Calloway)) (ADVP (RB also)) (VP (VBD noted) (SBAR (IN that) (S (NP (NN soft-drink) (NN volume)) (VP (VBD rose) (NP (DT a) (JJ hefty) (CD 9) (NN %)) (PP (IN in) (NP (NP (JJ last) (NN year) (POS 's)) (JJ third) (NN quarter))) (, ,) (S (VP (VBG making) (S (NP (DT the) (NN comparison)) (ADJP (RBR more) (JJ difficult))))))))) (. .)))
+
+(S1 (S (NP (JJ International) (NN soft-drink) (NN volume)) (VP (VBD was) (ADVP (RB up) (NP (QP (RB about) (CD 6)) (NN %)))) (. .)))
+
+(S1 (S (S (NP (JJ Snack-food) (NN tonnage)) (VP (VBD increased) (NP (DT a) (JJ strong) (CD 7) (NN %)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (, ,) (SBAR (IN while) (S (NP (JJ domestic) (NN profit)) (VP (VBD increased) (PP (IN in) (NP (JJ double) (NNS digits)))))))) (, ,) (NP (NNP Mr.) (NNP Calloway)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (VP (VBG Excluding) (NP (NP (DT the) (JJ British) (NN snack-food) (NN business)) (VP (VBD acquired) (PP (IN in) (NP (NNP July))))))) (, ,) (NP (JJ snack-food) (JJ international) (NN tonnage)) (VP (VBD jumped) (NP (CD 40) (NN %)) (, ,) (PP (IN with) (NP (NP (NNS sales) (JJ strong)) (PP (IN in) (NP (NNP Spain) (, ,) (NNP Mexico) (CC and) (NNP Brazil)))))) (. .)))
+
+(S1 (S (NP (JJ Total) (JJ snack-food) (NN profit)) (VP (VBD rose) (NP (CD 30) (NN %))) (. .)))
+
+(S1 (S (S (VP (VBN Led) (PP (IN by) (NP (NP (NNP Pizza) (NNP Hut)) (CC and) (NP (NNP Taco) (NNP Bell)))))) (, ,) (NP (NN restaurant) (NNS earnings)) (VP (VBD increased) (NP (QP (RB about) (CD 25)) (NN %)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (PP (IN on) (NP (DT a) (ADJP (CD 22) (NN %)) (NNS sales) (NN increase)))) (. .)))
+
+(S1 (S (NP (NP (CD Same-store) (NNS sales)) (PP (IN for) (NP (NNP Pizza) (NNP Hut)))) (VP (VBD rose) (NP (QP (RB about) (CD 13)) (NN %)) (, ,) (SBAR (IN while) (S (NP (NNP Taco) (NNP Bell) (POS 's)) (VP (VBD increased) (NP (CD 22) (NN %)) (, ,) (SBAR (IN as) (S (NP (DT the) (NN chain)) (VP (VBZ continues) (S (VP (TO to) (VP (VB benefit) (PP (IN from) (NP (PRP$ its) (NN price-value) (NN strategy))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Taco) (NNP Bell)) (VP (VBZ has) (VP (VBN turned) (PRT (RP around)) (NP (VBG declining) (NN customer) (NNS counts)) (PP (IN by) (S (ADVP (RB permanently)) (VP (VBG lowering) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (PRP$ its) (NNS tacos))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Same) (NNS store-sales)) (PP (IN for) (NP (NP (NNP Kentucky) (NNP Fried) (NNP Chicken)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN struggled) (PP (IN with) (NP (NP (NP (VBN increased) (NN competition)) (PP (IN in) (NP (DT the) (NN fast-food) (NN chicken) (NN market)))) (CC and) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (JJ new) (NNS products)))))))))) (, ,)))) (VP (VBD rose) (NP (QP (RB only) (CD 1)) (NN %))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN operation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (ADJP (JJ slow) (S (VP (TO to) (VP (VB respond) (PP (TO to) (NP (NP (NNS consumers) (POS ')) (VBG shifting) (NNS tastes))) (ADVP (RB away) (PP (IN from) (NP (VBN fried) (NNS foods)))))))))))) (, ,)) (VP (VBZ has) (VP (VBN been) (VP (VBG developing) (NP (NP (DT a) (JJ grilled-chicken) (NN product)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB be) (VP (VBN introduced) (ADVP (RB nationally)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (JJ next) (NN year)))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ new) (NN product)) (VP (VBZ has) (VP (VBN performed) (ADVP (RB well)) (PP (IN in) (NP (NP (DT a) (NN market) (NN test)) (PP (IN in) (NP (NP (NNP Las) (NNP Vegas)) (, ,) (NP (NNP Nev.))))))))) (, ,) (NP (NNP Mr.) (NNP Calloway)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (DT a) (JJ four-year) (, ,) (ADJP (QP ($ $) (CD 7.7) (CD billion))) (NN acquisition) (NN binge)) (SBAR (WHNP (WDT that)) (S (VP (VBD brought) (NP (NP (DT a) (JJ major) (NN soft-drink) (NN company)) (, ,) (NP (NN soda) (NNS bottlers)) (, ,) (NP (DT a) (NN fast-food) (NN chain)) (CC and) (NP (DT an) (JJ overseas) (NN snack-food) (NN giant))) (PP (TO to) (NP (NNP Pepsi)))))))) (, ,) (NP (NNP Mr.) (NNP Calloway)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ does) (RB n't) (VP (VB expect) (NP (NP (DT any) (JJ major) (NN acquisition)) (PP (IN in) (NP (DT the) (JJ next) (NN year) (QP (CC or) (RB so)))))))))) (. .)))
+
+(S1 (S (CC But) (, ,) (`` `) (S (`` `) (NP (PRP You)) (ADVP (RB never)) (VP (MD can) (VP (VB tell))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD added) (, ,) (`` `) (S (`` `) (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB take) (NP (NP (NN advantage)) (PP (IN of) (NP (NNS opportunities)))))))))) (. .)))
+

@@ -1,0 +1,14 @@
+(S1 (S (NP (NP (NNP Georgia) (NNP Gulf) (NNP Corp.)) (, ,) (VP (VBN hurt) (PP (IN by) (NP (NP (VBG declining) (NNS sales)) (CC and) (NP (VBG falling) (NN chemical) (NNS prices))))) (, ,)) (VP (VBD said) (SBAR (S (NP (JJ third-quarter) (NNS earnings)) (VP (VBD fell) (NP (CD 13) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 46.1) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 53.1) (CD million))) (PP (IN in) (NP (DT the) (JJ year-earlier) (NN period)))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD declined) (NP (CD 10) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 251.2) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 278.7) (CD million))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ Atlanta-based) (NN chemical) (NN manufacturer)) (VP (VBD said) (SBAR (S (NP (JJR lower) (NNS prices)) (VP (VB hurt) (NP (NP (NNS margins)) (PP (IN for) (NP (JJS most) (NNS products)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (PRP We)) (VP (VBD did) (VP (VB see) (NP (DT some) (NN relief)) (PP (IN in) (NP (JJ raw) (NN material) (NNS costs)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBD was) (RB n't) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB offset) (NP (NP (DT the) (NN drop)) (PP (IN in) (NP (NNS sales) (NNS prices)))))))))) (, ,) ('' ')) ('' ') (NP (NP (NNP James) (NNP R.) (NNP Kuse)) (, ,) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))) (VP (VBD said) (PP (IN in) (NP (DT a) (NN statement)))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT a) (JJ per-share) (NN basis))) (, ,) (NP (JJ quarterly) (NNS earnings)) (VP (VBD remained) (PP (IN at) (NP (NP ($ $) (CD 1.85)) (, ,) (NP (NP (DT the) (JJ same)) (PP (IN as) (NP (JJ last) (NN year)))) (, ,))) (PP (IN because) (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NN share) (NN buy-back) (NN program)))) (. .)))
+
+(S1 (S (NP (NNP Georgia) (NNP Gulf)) (VP (VBD had) (NP (NP (QP (CD 24.9) (CD million)) (NNS shares)) (ADJP (JJ outstanding))) (PP (IN on) (NP (NN average))) (PP (IN in) (NP (DT the) (NN quarter))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (QP (CD 28.6) (CD million))) (PP (IN in) (NP (NP (DT the) (JJ third) (NN quarter)) (PP (IN of) (NP (NP (CD 1988)) (, ,) (VP (VBN adjusted) (PP (IN for) (NP (NP (DT a) (NN stock) (NN split)) (VP (VBN paid) (PP (IN in) (NP (NNP January) (CD 1989))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ composite) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN trading))) (, ,) (NP (NP (NN stock)) (PP (IN in) (NP (NNP Georgia) (NNP Gulf))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN mentioned) (PP (IN as) (NP (DT a) (NN takeover) (NN candidate)))))))) (, ,)) (VP (VBD rose) (NP (NP ($ $) (CD 2.125)) (NP (DT a) (NN share))) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP ($ $) (CD 46.125))))))) (. .)))
+

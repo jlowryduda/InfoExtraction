@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Northgate) (NNP Exploration) (NNP Ltd.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG proposing) (S (VP (TO to) (VP (VB amalgamate) (NP (NP (CD four)) (PP (IN of) (NP (PRP$ its) (VBN associated) (NNS companies)))))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (NP (DT a) (VBN proposed) (JJ two-step) (NN amalgamation)) (VP (VBG involving) (NP (NN share) (NNS swaps))))) (, ,) (NP (NP (NNP ABM) (NNP Gold) (NNP Corp.)) (, ,) (NP (DT a) (NN gold) (NN exploration) (CC and) (NN management) (NN company)) (, ,)) (VP (MD will) (VP (VB merge) (PP (IN with) (NP (NP (NNP Neptune) (NNPS Resources) (NNP Corp.)) (, ,) (NP (NNP United) (NNP Gold) (NNP Corp.)) (CC and) (NP (NNP Inca) (NNPS Resources) (NNP Inc)))))) (. .)))
+
+(S1 (S (NP (NNP ABM)) (VP (MD will) (ADVP (RB also)) (VP (VB increase) (NP (NP (PRP$ its) (NN stake)) (PP (IN in) (NP (NNP Sonora) (NNP Gold) (NNP Corp.)))) (PP (TO to) (NP (CD 42) (NN %))) (PP (IN from) (NP (CD 26) (NN %))))) (. .)))
+
+(S1 (S (NP (NNP Northgate)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB own) (NP (NP (NP (QP (IN about) (CD 50)) (NN %)) (PP (IN of) (NP (DT the) (NN equity)))) (CC and) (NP (NP (CD 81) (NN %)) (PP (IN of) (NP (NP (DT the) (NNS votes)) (PP (IN of) (NP (NNP ABM))))))) (PP (IN after) (NP (DT the) (NN amalgamation)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS amalgamations)) (VP (VP (VBP are) (ADJP (JJ subject) (PP (TO to) (NP (JJ regulatory) (NN approval))))) (CC and) (VP (VBP require) (NP (NP (NN approval)) (PP (IN by) (NP (NP (NNS shareholders)) (PP (IN of) (NP (NNP ABM) (, ,) (NNP Inca) (, ,) (NNP United) (CC and) (NNP Neptune)))))) (PP (IN at) (NP (JJ special) (NNS meetings))) (PP (IN on) (NP (NNP Nov.) (CD 10))))) (. .)))
+

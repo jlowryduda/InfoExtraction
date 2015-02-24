@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP International) (NNPS Minerals) (CC &) (NNP Chemical) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (ADVP (RB definitively)) (S (VP (TO to) (VP (VB sell) (NP (PRP$ its) (JJ international) (NN fragrance) (NN business)) (PP (TO to) (NP (NP (NNP Bayer) (NNP AG)) (PP (IN of) (NP (NNP West) (NNP Germany)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (NN animal) (NN health) (CC and) (NN nutrition) (NNS products)))) (VP (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN business)) (, ,) (NP (NP (NP (NNS Creations) (NNP Aromatiques)) (PP (IN of) (NP (NP (NNP Port) (NNP Valais)) (, ,) (NP (NNP Switzerland)) (, ,) (CC and) (NP (NNP Woodside))))) (, ,) (NP (NNP N.Y.))) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NN division)) (PP (IN of) (NP (PRP$ its) (NNP Mallinckrodt) (NNP Inc.) (NN subsidiary)))))))) (CC and) (VP (VBD had) (NP (NP (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 30) (CD million)))) (PP (IN for) (NP (PRP$ its) (ADJP (RBS most) (JJ recent)) (NN year)))))) (. .)))
+
+(S1 (S (NP (NNP International) (NNP Minerals)) (VP (VBD said) (SBAR (S (NP (DT the) (NN sale)) (VP (MD will) (VP (VB allow) (S (NP (NNP Mallinckrodt)) (VP (TO to) (VP (VB focus) (NP (PRP$ its) (NNS resources)) (PP (IN on) (NP (NP (PRP$ its) (NN core) (NNS businesses)) (PP (IN of) (NP (NP (JJ medical) (NNS products)) (, ,) (NP (NN specialty) (NNS chemicals)) (CC and) (NP (NNS flavors)))))))))))))) (. .)))
+

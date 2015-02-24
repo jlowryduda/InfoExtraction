@@ -1,0 +1,288 @@
+(S1 (S (PP (IN In) (NP (DT the) (JJ long) (, ,) (JJ frightening) (NN night))) (PP (IN after) (NP (NP (NNP Tuesday) (POS 's)) (JJ devastating) (NN earthquake))) (, ,) (NP (NNP Bay) (NNP Area) (NNS residents)) (VP (VBD searched) (PP (IN for) (NP (NN comfort) (CC and) (NN solace))) (SBAR (WHADVP (WRB wherever)) (S (NP (PRP they)) (VP (MD could))))) (. .)))
+
+(S1 (S (NP (DT Some)) (VP (VBD found) (NP (PRP it)) (PP (IN on) (NP (NP (DT the) (NN screen)) (PP (IN of) (NP (DT a) (JJ personal) (NN computer)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Hundreds)) (PP (IN of) (NP (NNPS Californians)))) (VP (VP (VBN made) (NP (NP (PRP$ their) (NN way)) (PP (TO to) (NP (PRP$ their) (NNS computers)))) (PP (IN after) (NP (DT the) (NN quake)))) (, ,) (CC and) (VP (VBN checked) (PRT (RP in)) (PP (IN with) (NP (DT each) (JJ other))) (PP (IN on) (NP (NP (JJ electronic) (NN bulletin) (NNS boards)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP link) (S (NP (NNS computers)) (ADJP (JJ CB-radio-style)))))))) (, ,) (PP (IN via) (NP (NN phone) (NNS lines))))) (. .)))
+
+(S1 (S (NP (NP (DT Some)) (PP (IN of) (NP (DT the) (JJS most) (JJ vivid) (NNS bulletins)))) (VP (VBD came) (PRT (RP over)) (NP (NP (NNP The) (NNP Well)) (, ,) (NP (NP (DT a) (NAC (NNP Sausalito) (, ,) (NNP Calif.) (, ,)) (NN board)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS liveliest) (NNS outposts)) (PP (IN of) (NP (DT the) (JJ electronic) (JJ underground)))))))))))) (. .)))
+
+(S1 (S (NP (NP (QP (IN About) (NNS two-thirds))) (PP (IN of) (NP (NP (DT the) (NN Well) (POS 's)) (CD 3,000) (NNS subscribers)))) (VP (VBP live) (PP (IN in) (NP (DT the) (NNP Bay) (NNP Area)))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN quake)) (VP (VBD knocked) (NP (NNP The) (NNP Well)) (PRT (RP out)) (PP (IN for) (NP (CD six) (NNS hours))))) (, ,) (CC but) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD came) (ADVP (RB back) (RB up))))) (, ,) (NP (PRP it)) (VP (VBD teemed) (PP (IN with) (NP (JJ emotional) (JJ first-hand) (NNS reports))))) (. .)))
+
+(S1 (SINV (VP (VBG Following)) (VP (VBP are)) (NP (NP (NP (NNS excerpts)) (PP (IN from) (NP (DT the) (JJ electronic) (NN traffic)))) (NP (DT that) (NN night))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN time)) (VP (VBZ is) (NP (NNP Pacific) (NN Daylight) (NNP Time)))) (, ,) (CC and) (S (NP (DT the) (NNS initials) (CC or) (NNS nicknames)) (VP (VBP are) (SBAR (S (NP (DT those) (NNS subscribers)) (VP (VBP use) (S (VP (TO to) (VP (VB identify) (NP (PRP themselves)))))))))) (. .)))
+
+(S1 (NP (CD 11:54) (NN p.m) (. .)))
+
+(S1 (NP (NNS JCKC) (: :)))
+
+(S1 (INTJ (UH Wow) (. !)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (DT the) (NNP avenues))) (, ,) (PP (IN on) (NP (NP (DT the) (JJ third) (NN floor)) (PP (IN of) (NP (DT an) (JJ old) (NN building))))))) (, ,) (CC and) (S (PP (IN except) (PP (IN for) (NP (PRP$ my) (NN heart)))) (PRN (-LRB- -LRB-) (INTJ (VB Beat) (, ,) (VB BEAT) (. !)) (-RRB- -RRB-)) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ OK)))) (. .)))
+
+(S1 (S (S (S (VP (VBD Got) (ADVP (RB back) (PP (TO to) (NP (NNP Bolinas)))))) (, ,) (CC and) (S (NP (NN everything)) (VP (VBD had) (VP (VBN fallen))))) (: :) (FRAG (VP (VP (VBN broken) (NP (NP (NN poster) (NNS frames)) (PP (IN with) (NP (NN glass)))) (PP (IN on) (NP (DT the) (NN floor)))) (, ,) (VP (VB file) (S (NP (NNS cabinets)) (ADJP (JJ open)))) (CC or) (VP (VBD dumped) (PP (IN onto) (NP (DT the) (NN floor)))))) (. .)))
+
+(S1 (NP (CD 11:59) (NN p.m) (. .)))
+
+(S1 (NP (NNS JKD) (: :)))
+
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (PRP$ my) (JJ favorite) (NN watering) (NN hole))) (, ,) (S (VP (VBG waiting) (SBAR (IN for) (S (NP (DT the) (NN game)) (VP (TO to) (VP (VB start)))))))) (. .)))
+
+(S1 (S (S (NP (PRP I)) (VP (VP (VBD felt) (S (NP (DT the) (NN temblor)) (VP (VB begin)))) (CC and) (VP (VBD glanced) (PP (IN at) (NP (DT the) (NN table))) (ADVP (JJ next) (PP (TO to) (NP (NN mine))))))) (, ,) (S (VP (VBD smiled) (NP (DT that) (JJ guilty) (NN smile)))) (CC and) (S (NP (PRP we) (DT both)) (VP (VBD mouthed) (S (NP (NP (DT the) (NNS words)) (, ,) (`` `) (FRAG (`` `) (ADJP (JJ Earth-quake)) (. !) ('' ')) ('' ')) (ADVP (RB together))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB usually)) (SBAR (WHADVP (WRB how) (RB long)) (S (NP (PRP it)) (VP (VBZ takes) (SBAR (IN for) (S (NP (DT the) (NNS temblors)) (VP (TO to) (VP (VB pass))))))))) (. .)))
+
+(S1 (S (S (NP (DT This) (NN time)) (, ,) (NP (PRP it)) (ADVP (RB just)) (VP (VBD got) (ADJP (JJR stronger)))) (CC and) (S (ADVP (RB then)) (NP (DT the) (NN building)) (VP (VBD started) (VP (VBG shaking) (ADVP (RB violently)) (ADVP (RB up) (CC and) (RB down)) (SBAR (IN as) (IN though) (S (NP (PRP it)) (VP (VBD were) (NP (NP (NP (DT a) (NN child) (POS 's)) (NN toy) (NN block)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBG being) (VP (VBN tossed))))))))))))) (. .)))
+
+(S1 (NP (CD 12:06) (NN a.m) (. .)))
+
+(S1 (NP (NNS HRH) (: :)))
+
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (DT the) (NNP Berkeley) (JJ Main) (NN library))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD hit))))) (. .)))
+
+(S1 (S (NP (JJ Endless) (NNS seconds)) (VP (VBG wondering) (SBAR (IN if) (S (NP (DT those) (JJ huge) (NNS windows)) (VP (MD would) (VP (VB buckle) (CC and) (VB shower) (NP (PRP us)) (PP (IN with) (NP (NN glass)))))))) (. .)))
+
+(S1 (S (NP (QP (RB Only) (DT a) (JJ few)) (NNS books)) (VP (VBD fell) (PP (IN in) (NP (DT the) (NN reading) (NN room)))) (. .)))
+
+(S1 (S (RB Then) (NP (DT the) (NN auto) (NN paint) (NN shop) (NN fire)) (VP (VBD sent) (NP (NP (DT an) (JJ evil-looking) (NN cloud)) (PP (IN of) (NP (JJ black) (NN smoke)))) (PP (IN into) (NP (DT the) (NN air)))) (. .)))
+
+(S1 (NP (CD 12:07) (NN a.m) (. .)))
+
+(S1 (NP (NNP ONEZIE) (: :)))
+
+(S1 (S (NP (NP (PRP$ My) (JJR younger) (NN daughter)) (CC and) (NP (PRP I))) (VP (VBP are) (ADJP (JJ fine))) (. .)))
+
+(S1 (S (S (NP (DT This) (NN building)) (VP (VBD shook) (PP (IN like) (NP (NN hell))))) (CC and) (S (NP (PRP it)) (VP (VBD kept) (S (VP (VBG getting) (ADJP (JJR stronger)))))) (. .)))
+
+(S1 (S (PP (IN Except) (PP (IN for) (NP (NP (DT the) (NN gas) (NN tank)) (PP (IN at) (NP (NP (NP (NNP Hustead) (POS 's)) (NNP Towing) (NNP Service)) (VP (VBG exploding) (CC and) (VBG burning) (PP (IN in) (NP (JJ downtown) (NNP Berkeley))))))))) (, ,) (NP (NNS things)) (ADVP (RB here)) (VP (VBP are) (ADJP (RB quite) (JJ peaceful))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN lot)) (PP (IN of) (NP (NN car) (NNS alarms)))) (VP (VBD went) (ADVP (RB off))) (. .)))
+
+(S1 (S (NP (DT The) (NNS cats)) (VP (VBP are) (ADJP (JJ fine)) (, ,) (SBAR (IN although) (S (ADJP (JJ nervous))))) (. .)))
+
+(S1 (NP (CD 12:15) (NN a.m) (. .)))
+
+(S1 (NP (NNP DHAWK) (: :)))
+
+(S1 (S (NP (NP (JJ Huge) (NN fire)) (PP (IN from) (NP (JJ broken) (NN gas)))) (VP (JJ main) (PP (IN in) (NP (DT the) (NNP Marina))) (PP (IN in) (NP (CD SF)))) (. .)))
+
+(S1 (S (NP (NP (NNS Areas)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN made) (PP (IN of) (`` `) (S (VP (VB fill))) ('' '))))))) (VP (VB liquefy)) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN woman)) (PP (IN in) (NP (DT a) (JJ three-story) (NN apartment)))) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB walk) (PRT (RP out)) (NP (NP (DT the) (NN window)) (PP (IN of) (NP (DT the) (JJ third) (NN floor)))) (PP (IN onto) (NP (NN street) (NN level))))))) (PP (IN after) (NP (DT the) (NN quake)))) (. .)))
+
+(S1 (S (NP (DT The) (NN house)) (ADVP (RB just)) (VP (VBD settled) (ADVP (RB right) (RB down)) (PP (IN into) (NP (DT the) (NN ground)))) (. .)))
+
+(S1 (NP (CD 12:38) (NN a.m) (. .)))
+
+(S1 (NP (NNP DAYAC) (: :)))
+
+(S1 (S (NP (PRP I)) (VP (VBD was) (VP (VBG driving) (NP (NP (PRP$ my) (NN truck)) (, ,) (VP (VBN stopped) (PP (IN at) (NP (NP (DT a) (JJ red) (NN light)) (PP (IN at) (NP (NP (DT the) (NN corner)) (PP (IN of) (NP (NNP Shattuck) (CC and) (NNP Alcatraz))))))))) (PP (IN at) (NP (DT the) (NNP Oakland-Berkeley) (NN border))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD hit)))))) (. .)))
+
+(S1 (S (NP (JJS Worst) (NN part)) (VP (VBD was) (VP (VBG watching) (NP (NP (NP (NN power) (NNS lines)) (VP (VBG waving) (PP (IN above) (NP (PRP$ my) (NN head))))) (CC and) (NP (NP (DT no) (NN way)) (SBAR (S (VP (TO to) (VP (VB drive) (ADVP (RB away)))))))))) (. .)))
+
+(S1 (NP (CD 12:48) (NN a.m) (. .)))
+
+(S1 (NP (NNP LMEYER) (: :)))
+
+(S1 (S (VP (VBD Was) (ADJP (CD 300) (NN ft.)) (PP (IN out) (PP (IN on) (NP (NP (DT a) (NN pier)) (PP (IN in) (NP (NNP San) (NNP Rafael))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD flopped) (ADVP (DT all) (RB around)) (, ,) (ADVP (RB real) (JJ dramatic))) (. !)))
+
+(S1 (S (NP (JJ Many)) (VP (VBP hairline) (NP (NP (NNS cracks)) (PP (IN in) (NP (NP (DT the) (JJ concrete) (NNS slabs)) (ADVP (RB afterwards)))))) (. .)))
+
+(S1 (S (VP (VBN Ruined) (NP (DT the) (NN damn)) (NP (NN fishing))) (. !)))
+
+(S1 (NP (CD 1:00) (NN a.m) (. .)))
+
+(S1 (NP (NNP HEYNOW) (: :)))
+
+(S1 (S (NP (PRP I)) (VP (VBD rode) (NP (PRP it)) (ADVP (IN out) (PP (IN on) (NP (NP (DT the) (JJ second) (NN floor)) (PP (IN of) (NP (NP (NP (NNP Leo) (POS 's)) (PP (IN at) (NP (NN 55th)))) (CC and) (NP (NNP Telegraph))))))) (PP (IN in) (NP (NNP Oakland)))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBD heard) (NP (NP (NNS parts)) (PP (IN of) (NP (DT the) (NN building)))) (PP (IN above) (NP (PRP$ my) (NN head))) (NP (VBG cracking))) (. .)))
+
+(S1 (S (NP (PRP I)) (ADVP (RB actually)) (VP (VBD thought) (SBAR (IN that) (S (NP (PRP I)) (VP (MD might) (VP (VB die)))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (MD could) (RB n't) (VP (VB decide) (SBAR (IN if) (S (NP (PRP I)) (VP (MD should) (VP (VP (VB come) (ADVP (RB home)) (PP (TO to) (NP (NNP Marin)))) (, ,) (SBAR (IN because) (S (NP (PRP$ my) (NN house)) (VP (VBZ is) (PP (IN on) (NP (NNS stilts)))))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBD decided) (S (VP (TO to) (VP (JJ brave) (NP (DT the) (NN storm)))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (DT a) (JJ horrible) (NN smell)) (PP (IN of) (NP (NN gas)))) (SBAR (IN as) (S (NP (PRP I)) (VP (VBD passed) (NP (DT the) (NNP Chevron) (NN refinery)) (PP (IN before) (S (VP (VBG crossing) (NP (DT the) (NNP Richmond-San) (NNP Rafael) (NNP Bridge))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (MD could) (ADVP (RB also)) (VP (VB see) (NP (NP (DT the) (NNS clouds)) (PP (IN across) (NP (DT the) (NN bay)) (PP (IN from) (NP (NP (DT the) (JJ horrible) (NN fire)) (PP (IN in) (NP (NP (DT the) (NNP Marina) (NNP District)) (PP (IN of) (NP (NNP San) (NNP Francisco))))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP have) (VP (VBN felt) (NP (JJ many) (NNS aftershocks)))) (. .)))
+
+(S1 (S (S (NP (PRP$ My) (NN back)) (VP (VBZ is) (ADVP (RB still)) (PP (IN in) (NP (NNS knots))))) (CC and) (S (NP (PRP$ my) (NNS hands)) (VP (VBP are) (ADVP (RB still)) (VP (VBG shaking)))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NP (DT a) (JJ few)) (PP (IN of) (NP (DT the) (NNS aftershocks)))) (VP (MD might) (ADVP (RB just)) (VP (VB be) (S (NP (PRP$ my) (NN body)) (VP (VBG shaking)))))))) (. .)))
+
+(S1 (NP (CD 1:11) (NN a.m.) (. .)))
+
+(S1 (SINV (VBD GR8FLRED) (: :)))
+
+(S1 (S (NP (PRP I)) (VP (MD could) (VP (VB see) (NP (NP (DT the) (NNS flames)) (PP (IN from) (NP (NNP San) (NNP Francisco))) (PP (IN from) (NP (PRP$ my) (NN house)))) (PP (IN across) (NP (DT the) (NN bay))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB believe) (SBAR (S (NP (DT this)) (ADVP (RB really)) (VP (VBZ is) (VP (VBG happening))))))))) (. .)))
+
+(S1 (NP (CD 1:11) (NN a.m) (. .)))
+
+(S1 (NP (NNS RD) (: :)))
+
+(S1 (S (S (VP (VBG Building) (PP (IN on) (NP (NP (DT the) (NN corner)) (ADJP (RB severely) (JJ damaged)))))) (, ,) (RB so) (NP (NP (DT an) (JJ old) (NN lady)) (CC and) (NP (PRP$ her) (ADJP (RB very) (JJ old)) (NN mother))) (VP (VBP are) (PP (IN in) (NP (DT the) (NN guest) (NN room)))) (. .)))
+
+(S1 (FRAG (NP (NP (NNS Books) (CC and) (NN software)) (ADVP (RB everywhere))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBG being) (VP (VBN typed) (PP (IN in) (NP (DT a) (JJ standing) (NN position))))) (. .)))
+
+(S1 (NP (CD 1:20) (NN a.m) (. .)))
+
+(S1 (NP (NNP DGAULT) (: :)))
+
+(S1 (S (VP (NNP Bolinas) (: --) (PP (IN astride) (NP (DT the) (NNP San) (NNP Andreas) (NNP Fault)))) (. .)))
+
+(S1 (S (S (VP (VBD Did) (RB n't) (VP (VB feel) (NP (DT a) (NN thing))))) (, ,) (CC but) (S (VP (VBD noticed) (NP (DT some) (JJ strange) (NN bird) (NN behavior)))) (. .)))
+
+(S1 (S (NP (NN Duck)) (VP (VBZ swarms)) (. .)))
+
+(S1 (NP (CD 3:25) (NN a.m) (. .)))
+
+(S1 (NP (NN SAMURAI) (: :)))
+
+(S1 (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD felt) (NP (NP (DT another) (NN aftershock)) (ADVP (NP (DT a) (JJ few) (NNS seconds)) (RB ago)))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB just)) (NP (NN numb))) (. .)))
+
+(S1 (NP (CD 3:25) (NN a.m) (. .)))
+
+(S1 (NP (NN MACPOST) (: :)))
+
+(S1 (S (NP (NN Downtown) (NNP Bolinas)) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (NN part)) (PP (IN of) (NP (NN town))) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJS worst) (JJ off)))))))))) (. .)))
+
+(S1 (NP (NP (NP (DT No) (NN power)) (, ,) (NP (JJ minimal) (NNS phones)) (, ,) (CC and) (NP (NP (DT a) (NN mess)) (PP (IN of) (NP (NP (NN mayonnaise) (, ,) (NN wine) (, ,) (CC and) (NN everything)) (ADJP (RB else) (DT all)))))) (PP (IN over) (NP (NP (DT the) (NNS floors)) (PP (IN of) (NP (NP (DT the) (JJ big) (JJ old) (JJ general) (NN store)) (CC and) (NP (NP (DT the) (NNPS People) (POS 's)) (NN Co-op)))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNS quivers)) (VP (VBP move) (PP (IN through) (NP (PRP$ my) (NN house))) (PP (NP (DT every) (JJ few) (NNS minutes)) (IN at) (NP (JJ unpredictable) (NNS intervals))))) (, ,) (CC and) (S (NP (NP (DT the) (NN mouse)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN been) (VP (VBG living) (PP (IN in) (NP (PRP$ my) (NN kitchen))))))))) (VP (VBZ has) (VP (VBN taken) (NP (NN refuge)) (PP (IN under) (NP (PRP$ my) (NN desk)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VP (VBZ runs) (PP (IN out) (NP (RB frantically) (RB now) (CC and) (RB then)))) (, ,) (CC and) (VP (VBZ is) (ADVP (RB clearly)) (ADJP (RB pretty) (JJ distressed)))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NNP Stinson) (NNP Beach))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN quake)) (VP (VBD rolled) (PP (IN through) (NP (NN town))))))) (. .)))
+
+(S1 (S (PP (IN At) (ADJP (JJ first))) (, ,) (NP (PRP we)) (VP (VBD were) (ADJP (JJ unfazed))) (. .)))
+
+(S1 (S (RB Then) (SBAR (IN as) (S (NP (NNS things)) (VP (VBD got) (ADJP (JJR rougher))))) (, ,) (NP (PRP we)) (VP (VP (VBD ran) (PP (IN for) (NP (DT the) (NN door)))) (CC and) (VP (VBD spent) (NP (NP (DT the) (JJ next) (JJ few) (NNS minutes)) (PP (IN outside) (S (VP (VBG watching) (NP (DT the) (NN brick) (NN sidewalk)))))) (PP (IN under) (S (S (NP (PRP$ our) (NNS feet)) (VP (VBG oozing) (ADVP (RB up) (CC and) (RB down)))) (, ,) (CC and) (S (NP (DT the) (NNS flowers)) (VP (VBG waving) (PP (IN in) (NP (DT an) (JJ eerie) (NN rhythm))))))))) (. .)))
+
+(S1 (FRAG (ADJP (JJ Amazing)) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ does) (PP (TO to) (NP (NP (NP (CD one) (POS 's)) (NN heart) (NN rate)) (CC and) (NP (NP (CD one) (POS 's)) (JJ short-term) (NN memory))))))) (. .)))
+
+(S1 (S (S (NP (NN Everyone)) (VP (VBD looked) (ADJP (JJ calm)))) (, ,) (CC but) (S (NP (EX there)) (VP (VBD was) (NP (NP (DT this) (ADJP (JJ surreal) (JJ low)) (NN level)) (PP (IN of) (NP (NN confusion)))) (SBAR (IN as) (S (NP (DT the) (NNS aftershocks)) (VP (VBD continued)))))) (. .)))
+
+(S1 (NP (CD 4:02) (NN a.m) (. .)))
+
+(S1 (NP (NNP SHIBUMI) (: :)))
+
+(S1 (S (S (NP (NN Power)) (VP (VBZ is) (ADVP (RB back)) (PP (IN on)))) (, ,) (CC and) (S (NP (NP (NNP UCSF)) (PRN (-LRB- -LCB-) (NP (JJ medical) (NN center)) (-RRB- -RCB-))) (VP (VBZ seems) (S (VP (TO to) (VP (VB have) (VP (VBN quieted) (PRT (RP down)) (PP (IN for) (NP (NP (DT the) (NN night)) (PRN (-LRB- -LRB-) (S (NP (PRP they)) (VP (VBD were) (VP (VBG doing) (NP (NN triage)) (PRT (RP out)) (PP (IN in) (NP (DT the) (NN parking) (NN lot))) (PP (IN from) (NP (NP (DT the) (NN sound)) (CC and) (NP (NP (NNS lights)) (PP (IN of) (NP (PRP it))))))))) (-RRB- -RRB-)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN friend)) (PP (IN of) (NP (NN mine)))) (VP (VBD was) (PP (IN in) (NP (NP (DT an) (JJ underground) (NN computer) (NN center)) (PP (IN in) (NP (NN downtown) (NNS SF))))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN quake)) (VP (VBD hit))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS computers)))) (VP (VBD took) (NP (DT a) (JJ three-foot) (NN trip)) (S (VP (VBG sliding) (PP (IN across) (NP (DT the) (NN floor))))))))) (. .)))
+
+(S1 (S (NP (NN Today)) (VP (MD should) (VP (VB be) (ADJP (JJ interesting)) (SBAR (IN as) (S (NP (NNS people)) (VP (VBP realize) (SBAR (WHADJP (WRB how) (JJ hard)) (S (NP (NN life)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN for) (NP (DT a) (NN while))))))))))))))) (. .)))
+
+(S1 (NP (CD 4:30) (NN a.m) (. .)))
+
+(S1 (NP (NNP KIM) (: :)))
+
+(S1 (S (NP (PRP I)) (VP (VP (VBD got) (NP (NN home))) (, ,) (VP (VBD let) (NP (DT the) (NNS dogs)) (PP (IN into) (NP (DT the) (NN house)))) (CC and) (VP (VBD noticed) (SBAR (S (NP (DT some)) (VP (VBZ sounds) (PP (IN above) (NP (PRP$ my) (NN head))) (, ,) (SBAR (IN as) (IN if) (S (NP (NN someone)) (VP (VBD were) (VP (VBG walking) (PP (IN on) (NP (NP (DT the) (NN roof)) (, ,) (CC or) (RB upstairs)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (NP (PRP I)) (VP (VBD noticed) (SBAR (S (NP (DT the) (NN car)) (VP (VBD was) (VP (VBG bouncing) (ADVP (RB up) (CC and) (RB down)) (SBAR (IN as) (IN if) (S (NP (NN someone)) (VP (VBD were) (VP (VBG jumping) (PP (IN on) (NP (PRP it)))))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VP (VBD realized) (SBAR (WHNP (WP what)) (S (VP (VBD was) (VP (VBG happening)))))) (CC and) (VP (VBD screamed) (PP (IN into) (NP (DT the) (NN house))) (PP (IN for) (NP (DT the) (NNS dogs))))) (. .)))
+
+(S1 (S (S (NP (NNP Cupboard) (NNS doors)) (VP (VBD were) (VP (VBG flying)))) (, ,) (S (NP (DT the) (NN trash)) (VP (MD can) (PP (IN in) (NP (NP (DT the) (NN kitchen)) (VP (VBD walked) (NP (DT a) (JJ few) (NNS feet))))))) (, ,) (S (NP (DT the) (NNS dogs)) (VP (VBD came) (VP (VBG running)))) (, ,) (CC and) (S (NP (PRP I)) (VP (VP (VBD scooted) (NP (PRP them)) (PP (IN into) (NP (DT the) (NN dog) (NN run)))) (CC and) (VP (VBD stood) (PP (IN in) (NP (DT the) (NN doorway))) (NP (PRP myself)) (, ,) (S (VP (VBG watching) (S (NP (DT the) (JJ outside) (NN trash) (NNS cans)) (VP (VB dance) (PP (IN across) (NP (DT the) (NN concrete)))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD realized) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADVP (RB over)))))))) (, ,) (NP (PRP I)) (VP (VBD went) (CC and) (VBD stood) (PRT (RP out)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (DT the) (NN house))))) (, ,) (S (VP (VP (VBG waiting) (CC and) (VBG praying) (SBAR (IN for) (S (NP (NNP Merrill)) (VP (TO to) (VP (VB come) (ADVP (RB home))))))) (, ,) (VP (VBG shivering) (SBAR (IN as) (IN if) (S (NP (PRP it)) (VP (VBD were) (NP (CD 20)) (PP (IN below) (NP (CD zero))) (SBAR (IN until) (S (NP (PRP he)) (VP (VBD got) (ADVP (RB there)))))))))))) (. .)))
+
+(S1 (SINV (ADVP (RB Never) (PP (IN in) (NP (PRP$ my) (NN life)))) (VBP have) (NP (PRP I)) (VP (VBN been) (ADJP (RB so) (JJ frightened))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD saw) (NP (NP (DT the) (NNS pictures)) (PP (IN of) (NP (CD 880) (CC and) (DT the) (NNP Bay) (NNP Bridge))))))) (, ,) (NP (PRP I)) (VP (VBD began) (PP (TO to) (NP (NN cry)))) (. .)))
+
+(S1 (NP (CD 5:09) (NN a.m) (. .)))
+
+(S1 (NP (NNP JROE) (: :)))
+
+(S1 (S (NP (NP (DT The) (NNP Sunset)) (PRN (-LRB- -LCB-) (NP (NNP District)) (-RRB- -RCB-))) (VP (VBD was) (ADVP (RBR more) (CC or) (RBR less)) (PP (IN like) (NP (DT a) (NN pajama) (NN party))) (NP (DT all) (NN evening)) (, ,) (S (NP (NP (NNS lots)) (PP (IN of) (NP (NNS people) (CC &) (NNS dogs)))) (VP (VBG walking) (ADVP (RB around)) (, ,) (S (VP (VBG drinking) (NP (NN beer))))))) (. .)))
+
+(S1 (NP (CD 6:50) (NN a.m) (. .)))
+
+(S1 (NP (NNS CAROLG) (: :)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (VBG sitting) (PRT (RP down)) (S (VP (TO to) (VP (VB meet) (PP (IN with) (NP (NP (DT some) (JJ new) (NN therapy) (NNS clients)) (, ,) (NP (DT a) (NN couple)))))))))) (, ,) (CC and) (S (NP (DT the) (NN building)) (VP (VBD started) (VP (VBG shaking) (PP (IN like) (ADJP (JJ crazy)))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (JJ flimsy) (NN structure)) (, ,) (VP (VBN built) (PRT (RP up)) (PP (IN on) (NP (NNS supports))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBD was) (VP (ADVP (RB really)) (VBG rocking) (PRT (RP around))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (CD three)) (PP (IN of) (NP (PRP us)))) (VP (VBD stopped) (S (VP (VBG breathing) (PP (PP (IN for) (NP (DT a) (NN moment))) (, ,) (CC and) (RB then) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD kept) (PRT (RP on)) (S (VP (VBG coming) (SBAR (S (NP (PRP we)) (VP (VBD lunged) (PP (IN for) (NP (DT the) (NN doorway))))))))))))))) (. .)))
+
+(S1 (S (S (ADJP (JJ Needless) (S (VP (TO to) (VP (VB say)))))) (, ,) (NP (PRP it)) (VP (VBD was) (NP (DT an) (JJ interesting) (JJ first) (NN session))) (. !)))
+
+(S1 (NP (CD 7:13) (NN a.m) (. .)))
+
+(S1 (NP (NN CALLIOPE) (: :)))
+
+(S1 (S (NP (NNP Albany)) (VP (VBD escaped) (S (ADJP (RB embarrassingly) (JJ unscathed)))) (. .)))
+
+(S1 (S (NP (JJS Biggest) (NN trouble)) (VP (VP (VBD was) (VP (VBN scared) (NP (NP (NN family)) (SBAR (WHNP (WP who)) (S (VP (MD could) (RB n't) (VP (VB get) (NP (DT a) (NN phone) (NN line))))))) (PRT (RP through)))) (, ,) (CC and) (VP (VBD spent) (NP (DT a) (ADJP (RB really) (JJ horrible)) (NN hour)) (S (RB not) (VP (VBG knowing))))) (. .)))
+
+(S1 (NP (CD 8:01) (NN a.m) (. .)))
+
+(S1 (NP (NNS HLR) (: :)))
+
+(S1 (S (NP (NP (NNP Judy)) (CC and) (NP (PRP I))) (VP (VBD were) (PP (IN in) (NP (NP (PRP$ our) (JJ back) (NN yard)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN lawn)) (VP (VBD started) (VP (VBG rolling) (PP (IN like) (NP (NN ocean) (NNS waves)))))))))) (. .)))
+
+(S1 (S (S (NP (PRP We)) (VP (VBD ran) (PP (IN into) (NP (DT the) (NN house) (S (VP (TO to) (VP (VB get) (NP (NNP Mame))))))))) (, ,) (CC but) (S (NP (DT the) (JJ next) (NN tremor)) (VP (VP (VBD threw) (NP (PRP me)) (PP (IN in) (NP (DT the) (NN air)))) (CC and) (VP (VBD bounced) (NP (PRP me)) (SBAR (IN as) (S (NP (PRP I)) (VP (VBD tried) (S (VP (TO to) (VP (VB get) (PP (TO to) (NP (PRP$ my) (NNS feet)))))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP are) (RB all) (ADJP (JJ fine)) (ADVP (RB here)) (, ,) (SBAR (IN although) (S (NP (NNP Mame)) (VP (VBD was) (ADJP (RB extremely) (JJ freaked)))))) (. .)))
+
+(S1 (S (NP (NN Kitchen)) (ADJP (JJ full) (PP (IN of) (NP (JJ broken) (NN crystal)))) (. .)))
+
+(S1 (NP (NP (NNS Books) (CC and) (NNS tapes)) (PP (ADVP (DT all)) (IN over) (NP (PRP$ my) (NN room))) (. .)))
+
+(S1 (S (S (NP (NP (RB Not) (CD one) (NN thing)) (PP (IN in) (NP (DT the) (NN house)))) (VP (VBZ is) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN supposed) (S (VP (TO to) (VP (VB be)))))))))) (, ,) (CC but) (S (NP (DT the) (NN structure)) (VP (VBZ is) (ADJP (JJ fine)))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (PRP I)) (VP (VBD was) (VP (VBG standing) (PP (IN on) (NP (NP (DT the) (NN lawn)) (PP (IN with) (NP (NNP Mame))))) (, ,) (S (VP (VBG waiting) (PP (IN for) (NP (DT another) (NN tremor))))))))) (, ,) (NP (PRP I)) (VP (VBD noticed) (SBAR (IN that) (S (NP (PDT all) (DT the) (NNS earthworms)) (VP (VBD were) (VP (VP (VBG emerging) (PP (IN from) (NP (DT the) (NN ground)))) (CC and) (VP (VBG slithering) (PP (IN across) (NP (DT the) (NN lawn))))))))) (. !)))
+
+(S1 (NP (CD 9:31) (NN a.m.) (. .)))
+
+(S1 (SINV (VBD GR8FLRED) (: :)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ amazing)) (SBAR (WHADVP (WRB how)) (S (NP (CD one) (NN second)) (VP (MD can) (VP (ADVP (RB so) (RB completely)) (VB change) (NP (PRP$ your) (NN life))))))) (. .)))
+
+(S1 (NP (CD 9:38) (NN a.m) (. .)))
+
+(S1 (NP (NNP FIG) (: :)))
+
+(S1 (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB all)) (VP (VBG living) (ADJP (RB very) (RB tentatively)) (ADVP (RB here)) (, ,) (S (VP (VBG waiting) (PP (IN for) (NP (DT the) (VBN expected) (CC but) (VBN dreaded) (NN aftershock)))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB accept) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB over) (CC and) (RB only)) (VP (VBD took) (NP (CD 15) (NNS seconds)))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP wonder) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (MD 'll) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB relax)))))))))) (. .)))
+
+(S1 (NP (CD 9:53) (NN a.m) (. .)))
+
+(S1 (NP (NN PANDA) (: :)))
+
+(S1 (S (NP (NN Flesh)) (VP (VBZ goes) (PP (TO to) (NP (NP (JJ total) (NN alert)) (PP (IN for) (NP (NN flight) (CC or) (NN fight)))))) (. .)))
+
+(S1 (S (NP (NN Nausea)) (VP (VBZ seems) (NP (DT a) (JJ commonplace) (NN symptom))) (. .)))
+
+(S1 (S (NP (NNP Berkeley)) (ADVP (RB very)) (VP (VB quiet) (ADVP (RB right) (RB now))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBD walked) (PP (IN along) (NP (NP (NNP Shattuck)) (PP (IN between) (NP (NNP Delaware) (CC and) (NNP Cedar))))) (PP (IN at) (NP (NP (DT a) (JJ few) (NNS minutes)) (PP (IN before) (NP (CD eight))))) (NP (DT this) (NN morning))) (. .)))
+
+(S1 (S (ADJP (JJ Next) (PP (TO to) (NP (NNP Chez) (NNP Panisse)))) (S (NP (NP (DT a) (JJ homeless) (NN couple)) (, ,) (VP (VP (VBN bundled) (PP (IN into) (NP (DT a) (JJ blue) (NN sleeping) (NN bag)))) (, ,) (VP (VBD sat) (PRT (RP up))) (, ,) (VP (VBD said) (, ,) (`` `) (S (NP (`` `) (NP (JJ Good) (NN morning) (POS ')) (POS ') (CC and) (NP (RB then) (DT the) (NN woman))) (VP (VBD smiled))))) (, ,)) (VP (VBD said) (, ,) (`` `) (SQ (`` `) (VBZ Is) (RB n't) (NP (PRP it)) (ADJP (JJ great) (RB just) (S (VP (TO to) (VP (VB be) (ADJP (JJ alive)))))) (. ?) ('' ')) ('' ')))))
+
+(S1 (S (NP (PRP I)) (VP (VBD agreed)) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is)) (. .)))
+
+(S1 (S (ADJP (JJ Great)) (. .)))
+

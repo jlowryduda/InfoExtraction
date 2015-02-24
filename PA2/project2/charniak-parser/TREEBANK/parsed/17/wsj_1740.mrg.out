@@ -1,0 +1,16 @@
+(S1 (S (NP (NP (NNP PPG) (NNP Industries) (NNP Inc.)) (, ,) (VP (VBN hurt) (PP (IN by) (NP (NP (NN softness)) (PP (IN in) (NP (DT the) (NNP U.S.) (UCP (JJ automotive) (CC and) (NN construction)) (NNS industries)))))) (, ,)) (VP (VBD said) (SBAR (S (NP (JJ third-quarter) (JJ net) (NN income)) (VP (VBD fell) (NP (CD 5.5) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 106.7) (CD million))) (, ,) (CC or) (NP (NP (CD 97) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 112.9) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.03)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RB ago))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD were) (ADJP (RB nearly) (JJ identical) (PP (TO to) (NP (DT the) (JJ year-earlier) (QP ($ $) (CD 1.36) (CD billion)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN drop)) (PP (IN in) (NP (NNS earnings)))) (VP (VBD did) (RB n't) (VP (NN surprise) (NP (NP (NNS analysts)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (S (NP (DT the) (NNP Pittsburgh) (NN glass) (, ,) (NNS coatings) (CC and) (NN chemical) (NN concern)) (VP (VBD had) (VP (VBN been) (VP (VBG predicting) (NP (DT a) (JJ slow) (NN quarter)) (PP (IN because) (IN of) (NP (DT the) (JJ sluggish) (NN construction) (NN industry))) (, ,) (NP (NP (DT a) (JJ major) (NN market)) (PP (IN for) (NP (NP (DT the) (NN company) (POS 's)) (JJ flat) (NN glass))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Glass) (NNS sales)) (PP (TO to) (NP (NP (UCP (NNP Canadian) (CC and) (JJ European)) (NN auto) (NNS makers)) (CC and) (NP (NP (NNS sales)) (PP (IN of) (NP (NN replacement) (NN auto) (NN glass)))))) (PP (IN in) (NP (DT all) (NNS markets)))) (VP (VBD increased)) (. .)))
+
+(S1 (S (NP (DT The) (NN coating) (NN segment)) (ADVP (RB also)) (VP (VBD posted) (NP (NP (JJR higher) (NNS sales)) (PP (ADVP (RB particularly)) (IN in) (NP (NP (NNP North) (NNP America)) (CC and) (NP (NNP Europe)))))) (. .)))
+
+(S1 (S (S (CC But) (NP (NN sale) (NNS increases)) (VP (VBD were) (VP (VBN offset) (PP (IN by) (NP (NP (JJ slumping) (NNS sales)) (PP (IN in) (NP (JJ flat) (NN glass) (CC and) (NNS fiberglass) (NNS reinforcements)))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+
+(S1 (S (ADVP (RB Also)) (, ,) (NP (NNS chemicals) (NNS sales)) (VP (VBD were) (ADVP (RB slightly) (RB down)) (PP (IN because) (IN of) (NP (NP (JJR lower) (NNS prices)) (PP (IN for) (NP (NP (NN vinyl) (NN chloride) (NN monomer)) (CC and) (NP (JJ other) (NN chlorine) (NNS derivatives))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (, ,) (NP (NNP PPG)) (VP (VBD closed) (PP (IN at) (NP (NP ($ $) (CD 41)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB down) (NP (CD 37.5) (NNS cents)))) (. .)))
+

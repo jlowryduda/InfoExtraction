@@ -1,0 +1,48 @@
+(S1 (S (NP (NP (NNP Robert) (NNP L.) (NNP Bernstein)) (, ,) (NP (NP (NP (NN chairman)) (CC and) (NP (NN president))) (PP (IN of) (NP (NNP Random) (NNP House) (NNP Inc.)))) (, ,)) (VP (VBD announced) (NP (NP (PRP$ his) (NN resignation)) (PP (IN from) (NP (DT the) (NN publishing) (NN house)))) (SBAR (S (NP (PRP he)) (VP (VBZ has) (VP (VBN run) (PP (IN for) (NP (CD 23) (NNS years)))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN successor)) (VP (VBD was) (RB n't) (VP (VBN named) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD fueled) (NP (NN speculation) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Bernstein)) (VP (MD may) (VP (VB have) (VP (VBN clashed) (PP (IN with) (NP (NP (NNP S.I.) (NNP Newhouse) (NNP Jr.)) (, ,) (SBAR (WHNP (WP$ whose) (NN family)) (S (NP (NP (NN company)) (, ,) (NP (NNP Advance) (NNPS Publications) (NNP Inc.)) (, ,)) (VP (VBZ owns) (NP (NNP Random) (NNP House)))))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Abrupt) (NNS departures)) (VP (VBP are) (RB n't) (ADJP (JJ unheard) (PP (IN of))) (PP (IN within) (NP (DT the) (NNP Newhouse) (NN empire)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT an) (NN interview))) (, ,) (NP (NNP Mr.) (NNP Bernstein)) (VP (VBD said) (S (S (NP (PRP$ his) (NN departure)) (`` `) (VP (`` `) (VBD evolved) (ADVP (RB out)) (PP (IN of) (NP (NP (NNS discussions)) (PP (IN with) (NP (NNP Si) (NNP Newhouse))))))) (CC and) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NN decision)) (SBAR (S (NP (PRP I)) (VP (VBD reached))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBD declined) (S (VP (TO to) (VP (VB elaborate)))) (, ,) (S (ADVP (JJ other) (PP (IN than))) (VP (TO to) (VP (VB say) (, ,) (`` `) (S (`` `) (NP (PRP It)) (VP (ADVP (RB just)) (VBD seemed) (NP (DT the) (JJ right) (NN thing)) (S (VP (TO to) (VP (VB do) (PP (IN at) (NP (DT this) (NN minute)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Sometimes)) (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP go) (PP (IN with) (NP (PRP$ your) (NN gut))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Bernstein)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VP (VB stay) (PP (IN until) (NP (NNP Dec.) (CD 31)))) (CC and) (VP (NN work) (PP (IN with) (NP (NP (PRP$ his) (NN successor)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN named) (ADVP (RB soon))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Newhouse)) (, ,) (ADVP (RB meanwhile)) (, ,) (VP (VBD insisted) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ is) (RB n't) (ADJP (JJ unhappy) (PP (IN with) (NP (NP (NNP Mr.) (NNP Bernstein)) (CC or) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NNP Random) (NNP House)))) (, ,) (NP (NP (DT the) (JJS largest) (NN trade) (NN publishing) (NN house)) (PP (IN in) (NP (DT the) (NNP U.S.))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN publisher) (POS 's)) (JJ annual) (NNS sales)) (NP (NN volume)) (VP (VBD increased) (PP (TO to) (NP (QP ($ $) (CD 800) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 40) (CD million)))) (PP (IN during) (NP (NP (NNP Mr.) (NNP Bernstein) (POS 's)) (NN tenure))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP Bob)) (VP (VBZ has) (VP (VBN handled) (NP (NP (DT the) (JJ extraordinary) (NN growth)) (PP (IN of) (NP (DT the) (NN company)))) (ADVP (RB quite) (RB brilliantly))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NNP Mr.) (NNP Newhouse)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (NN company)) (VP (VBZ is) (VP (VBG doing) (ADVP (RB well))))) (, ,) (S (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ stable)))) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBD got) (NP (JJ good) (NNS people)))))) (. .)))
+
+(S1 (S (NP (NNP Bob)) (VP (VBZ has) (NP (DT an) (NN agenda) (SBAR (CC and) (S (NP (DT this)) (VP (VBD seemed) (PP (IN like) (NP (DT the) (JJ natural) (NN time)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NN Publishing) (NNS officials)) (VP (VBP believe) (SBAR (IN that) (S (SBAR (IN while) (S (NP (NNP Random) (NNP House)) (VP (VP (VBZ has) (VP (VBN enjoyed) (NP (JJ spectacular) (NN growth)))) (CC and) (VP (VBZ has) (VP (ADVP (RB smoothly)) (VBN integrated) (NP (NP (JJ many) (NNS acquisitions)) (PP (IN in) (NP (JJ recent) (NNS years))))))))) (, ,) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (ADJP (JJR bigger)) (NNS ones)))) (VP (VBP have) (RB n't) (VP (VBN been) (VP (VBN absorbed) (ADVP (IN so) (RB easily)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Crown) (NNP Publishing) (NNP Group)) (, ,) (VP (VBN acquired) (NP (JJ last) (NN year))) (, ,)) (VP (VBZ is) (VP (VBN said) (S (VP (TO to) (VP (VB be) (VP (VBG turning) (PP (IN in) (NP (JJ disappointing) (NNS results))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (JJ private) (NN company))) (, ,) (NP (NNP Random) (NNP House)) (VP (VBZ does) (RB n't) (VP (VB report) (NP (PRP$ its) (NNS earnings)))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Bernstein)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD succeeded) (NP (NNP Bennett) (NNP Cerf))))) (, ,)) (VP (VBZ has) (VP (VBN been) (NP (RB only) (DT the) (JJ second) (NN president)) (PP (IN of) (NP (NNP Random) (NNP House))) (SBAR (IN since) (S (NP (PRP it)) (VP (VBD was) (VP (VBN founded) (PP (IN in) (NP (CD 1925))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Speculation)) (PP (IN on) (NP (PRP$ his) (NN successor)))) (VP (VBZ centers) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NN division) (NNS heads)) (PP (IN at) (NP (DT the) (NN house)))))))) (. .)))
+
+(S1 (S (NP (JJ Possible) (NNS candidates)) (VP (VBP include) (NP (NP (NNP Susan) (NNP Petersen)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Ballantine\/Del) (NNP Rey\/Fawcett)) (, ,) (NP (NP (NP (NNP Random) (NNP House) (POS 's)) (JJ huge) (CC and) (JJ successful) (NN paperback)) (NN division))))))) (. .)))
+
+(S1 (S (NP (DT Some)) (VP (VBP say) (SBAR (S (NP (NP (NP (NNP Anthony) (NNP Cheetham)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (DT a) (ADJP (RB recently) (VBN acquired)) (JJ British) (NN company))))) (, ,) (NP (NNP Century) (NNP Hutchinson)) (, ,)) (VP (MD could) (VP (VB be) (VP (VBN chosen))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (ADVP (RB also)) (NP (NN speculation) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Newhouse)) (VP (MD could) (VP (VB bring) (PP (IN in) (NP (NP (DT a) (NN powerhouse) (NN businessman)) (CC or) (NP (DT another) (NNP Newhouse) (NN family) (NN member))))))))) (S (VP (TO to) (VP (VB run) (NP (NP (DT the) (NN business) (NN side)) (, ,) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NP (DT a) (NN publishing) (NN executive)) (PP (IN like) (NP (NP (NNP Robert) (NNP Gottlieb)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD left) (S (NP (NP (NNP Random) (NNP House) (POS 's)) (NNP Alfred) (NNP A.) (NNP Knopf)) (VP (TO to) (VP (VB run) (NP (NP (DT the) (NNP New) (NNP Yorker)) (, ,) (VP (ADVP (RB also)) (VBN owned) (PP (IN by) (NP (DT the) (NNP Newhouse) (NN family)))))))))))))))))))))) (. .)))
+
+(S1 (SINV (VP (RB Not) (VBN included) (PP (IN on) (NP (DT the) (NN most-likely-successor) (NN list)))) (VP (VBP are)) (NP (NP (NP (NP (NNP Joni) (NNP Evans)) (, ,) (VP (VBD recruited) (ADVP (NP (CD two) (NNS years)) (RB ago)) (S (VP (TO to) (VP (VB be) (NP (NP (NN publisher)) (PP (IN of) (NP (JJ adult) (NN trade) (NNS books)))) (PP (IN for) (NP (NNP Random) (NNP House))))))) (, ,)) (CC and) (NP (NNP Sonny) (NNP Mehta))) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (DT the) (JJ prestigious) (NNP Alfred) (NNP A.) (NNP Knopf)) (NP (NN unit)))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Ms.) (NNP Evans)) (VP (VBD took) (NP (PRP her) (NN job))))) (, ,) (NP (NP (JJ several) (JJ important) (NNS divisions)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (VP (VBN reported) (PP (TO to) (NP (PRP$ her) (NN predecessor)))))))) (VP (VBD were) (RB n't) (VP (VBN included) (SBAR (ADVP (RB partly)) (IN because) (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB wish) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ full-time) (NN administrator))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Mehta)) (VP (VBZ is) (VP (ADVP (RB widely)) (VBN viewed) (PP (IN as) (NP (NP (DT a) (JJ brilliant) (NN editor)) (PP (IN but) (NP (DT a) (JJ less-than-brilliant) (NN administrator)))))))) (CC and) (S (NP (PRP$ his) (JJ own) (NN departure)) (VP (VBD was) (VP (VBN rumored) (ADVP (RB recently))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Bernstein)) (, ,) (NP (NP (DT a) (JJ tall) (, ,) (JJ energetic) (NN man)) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (ADVP (RB widely)) (VBN respected) (PP (IN as) (NP (DT a) (NN publishing) (NN executive)))))))) (, ,)) (VP (VBZ has) (VP (VBN spent) (NP (NP (JJ much)) (PP (IN of) (NP (PRP$ his) (NN time)))) (PP (IN in) (NP (JJ recent) (NNS years))) (PP (IN on) (NP (JJ human) (NNS rights) (NNS issues))))) (. .)))
+

@@ -1,0 +1,90 @@
+(S1 (S (S (NP (NNS Americans)) (VP (VBP are) (VP (VBG drinking) (ADJP (JJR less))))) (, ,) (CC but) (S (NP (NP (JJ young) (NNS professionals)) (PP (PP (IN from) (NP (NNP Australia))) (PP (TO to) (NP (NNP West) (NNP Germany))))) (VP (VBP are) (VP (VBG rushing) (S (VP (TO to) (VP (VB buy) (NP (JJ premium-brand) (JJ American) (UCP (NN vodka) (, ,) (NN brandy) (CC and) (JJ other)) (NNS spirits)))))))) (. .)))
+
+(S1 (S (PP (IN In) (ADJP (JJ particular))) (, ,) (NP (JJ many)) (VP (VBP are) (NP (NP (NN snubbing)) (SBAR (S (NP (DT the) (NN scotch)) (VP (VP (VBN preferred) (PP (IN by) (NP (PRP$ their) (NNS parents)))) (CC and) (VP (VBG opting) (PP (IN for) (NP (NP (NN bourbon)) (, ,) (NP (NP (DT the) (JJ sweet) (NN firewater)) (PP (IN from) (NP (DT the) (NNP Kentucky) (NN countryside)))))))))))) (. .)))
+
+(S1 (S (PP (IN With) (S (NP (NNP U.S.) (NN liquor) (NN consumption)) (VP (VBG declining) (ADVP (RB steadily))))) (, ,) (NP (JJ many) (NNP American) (NNS producers)) (VP (VBP are) (VP (VBG stepping) (PRT (RP up)) (NP (NP (PRP$ their) (NN marketing) (NNS efforts)) (ADVP (RB abroad))))) (. .)))
+
+(S1 (S (S (CC And) (NP (DT those) (NNS efforts)) (VP (VBP are) (VP (VBG paying) (PRT (RP off))))) (: :) (S (NP (NNS Spirits) (NNS exports)) (VP (VBD jumped) (NP (QP (JJR more) (IN than) (CD 2) (CD 1\/2)) (NNS times)) (PP (TO to) (NP (NP (QP ($ $) (CD 157.2) (CD million))) (PP (IN in) (NP (CD 1988))))) (PP (IN from) (NP (QP ($ $) (CD 59.8) (CD million))) (PP (IN in) (NP (CD 1983)))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NP (NP (DT the) (JJ Distilled) (NNS Spirits)) (NNP Council)) (PP (IN of) (NP (DT the) (NNP U.S.)))) (, ,) (NP (DT a) (NN trade) (NN group))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNS Spirits) (NNS companies)) (ADVP (RB now)) (VP (VBP view) (NP (PRP themselves)) (PP (IN as) (NP (JJ global) (NNS marketers)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Michael) (NNP Bellas)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Beverage) (NNP Marketing) (NNP Corp.)) (, ,) (NP (DT a) (NN research) (CC and) (NN consulting) (NN firm)))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB be) (NP (DT a) (NN player)))))))) (, ,) (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (PP (IN in) (NP (NP (NNP America)) (, ,) (NP (NNP Europe)) (CC and) (NP (DT the) (NNP Far) (NNP East))))))))) (. .)))
+
+(S1 (S (NP (PRP You)) (VP (MD must) (VP (VB have) (NP (NP (JJ world-class) (NNS brands)) (, ,) (NP (DT a) (JJ long-term) (NN perspective)) (CC and) (NP (JJ deep) (NNS pockets))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT The) (NN internationalization)) (PP (IN of) (NP (DT the) (NN industry)))) (VP (VBZ has) (VP (VBN been) (VP (VBN hastened) (PP (IN by) (NP (NP (NP (JJ foreign) (NNS companies) (POS ')) (NNS acquisitions)) (PP (IN of) (NP (JJ many) (NNP U.S.) (NNS producers)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NP (NNP Grand) (NNP Metropolitan) (NNP PLC)) (PP (IN of) (NP (NNP Britain)))) (VP (VBD acquired) (NP (NNP Heublein) (NNP Inc.)) (, ,) (SBAR (IN while) (S (NP (NP (DT another) (JJ British) (NN company)) (, ,) (NP (NNP Guinness) (NNP PLC)) (, ,)) (VP (VBD took) (PRT (RP over)) (NP (NP (NNP United) (NNP Distillers) (NNP Group)) (CC and) (NP (NNP Schenley) (NNPS Industries) (NNP Inc))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN shift)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN been) (VP (VBN fueled) (PP (IN by) (NP (NN necessity)))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NP (JJ premium-brand) (NNS spirits)) (PP (IN like) (NP (NP (NNP Smirnoff) (NN vodka)) (CC and) (NP (NP (NNP Jack) (NNP Daniel) (POS 's)) (NN whiskey))))) (VP (VBP are) (VP (VBG riding) (ADVP (JJ high)) (PP (IN in) (NP (DT the) (NNP U.S.))))))) (, ,) (NP (JJ domestic) (NNS spirits) (NN consumption)) (VP (VBD fell) (NP (CD 15) (NN %)) (PP (TO to) (NP (NP (QP (CD 141.1) (CD million)) (NNS cases)) (PP (IN in) (NP (CD 1988))))) (PP (IN from) (NP (NP (QP (CD 166) (CD million)) (NNS cases)) (PP (IN in) (NP (CD 1979)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (NN growth)) (VP (VBZ has) (VP (VBN come) (PP (IN in) (NP (DT the) (JJ foreign) (NNS markets))))) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NN brandy) (NNS exports)) (VP (ADVP (RBR more) (IN than)) (VBD doubled) (NP (JJ last) (NN year)) (PP (TO to) (NP (CD 360,000) (NN proof) (NNS gallons))) (, ,) (NP (DT a) (JJ standard) (NN industry) (NN measure)) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNP Jobson) (NNP Beverage) (NNP Alcohol) (NNP Group)) (, ,) (NP (DT an) (NN industry) (NN association)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Exports)) (PP (IN of) (NP (NN rum)))) (VP (VBD surged) (NP (CD 54) (NN %)) (PP (TO to) (NP (CD 814,000) (NN proof) (NNS gallons)))) (. .)))
+
+(S1 (S (NP (NNP Mexico)) (VP (VBZ is) (NP (NP (DT the) (JJS biggest) (NN importer)) (PP (IN of) (NP (NP (DT both) (NN rum) (CC and) (NN brandy)) (PP (IN from) (NP (DT the) (NNP U.S.))))))) (. .)))
+
+(S1 (S (NP (NNP Japan)) (, ,) (PP (NP (NP (DT the) (NN world) (POS 's)) (JJ third-largest) (NN liquor) (NN market)) (IN after) (NP (NP (DT the) (NNP U.S.)) (CC and) (NP (NNP Britain)))) (, ,) (VP (VBD helped) (NP (JJ American) (NNS companies)) (PP (IN in) (NP (NNP April))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VP (VBD lowered) (NP (PRP$ its) (NN tax)) (PP (IN on) (NP (VBN imported) (NNS spirits)))) (CC and) (VP (VBD levied) (NP (NP (DT a) (NN tax)) (PP (IN on) (NP (JJ many) (JJ domestic) (NNS products))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP California) (NNS wineries)) (, ,) (VP (VBG benefiting) (PP (IN from) (NP (NP (VBN lowered) (NN trade) (NNS barriers)) (CC and) (NP (JJ federal) (NN marketing) (NNS subsidies))))) (, ,)) (VP (VBP are) (VP (VBG expanding) (ADVP (RB aggressively)) (PP (IN into) (NP (NP (NNP Japan)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NNP Canada) (CC and) (NP (NNP Great) (NNP Britain))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Japan))) (, ,) (NP (DT the) (NNS wineries)) (VP (VBP are) (VP (VP (VBG promoting) (NP (NP (PRP$ their) (NNS products) (POS ')) (NNP Pacific) (NNS roots))) (CC and) (VP (VBG courting) (NP (NP (NN restaurant) (CC and) (NN hotel) (NNS chefs)) (, ,) (SBAR (WHNP (WP$ whose) (NNS recommendations)) (S (VP (VBP carry) (NP (NN weight))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Australia) (, ,) (NNP Britain) (, ,) (NNP Canada) (CC and) (NNP Greece))) (, ,) (NP (NNP Brown-Forman) (NNP Corp.)) (VP (VBZ has) (VP (VBN increased) (NP (NP (PRP$ its) (NN marketing)) (PP (IN of) (NP (NNP Southern) (NN Comfort) (NNP Liqueur)))))) (. .)))
+
+(S1 (S (S (VP (VBG Using) (NP (NN cinema) (, ,) (NN television) (CC and) (NN print) (NNS ads)))) (, ,) (NP (DT the) (NN company)) (VP (VBZ pitches) (NP (NNP Southern) (NN Comfort)) (PP (IN as) (NP (NP (DT a) (JJ grand) (JJ old) (NN drink)) (PP (IN of) (NP (DT the) (NN antebellum))) (NP (NNP American) (NNP South))))) (. .)))
+
+(S1 (S (NP (DT The) (JJS biggest) (JJ foreign) (NNS inroads)) (, ,) (ADVP (RB though)) (, ,) (VP (VBP have) (VP (VBN been) (VP (VBN made) (PP (IN by) (NP (NN bourbon)))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NP (NNP U.S.) (NNS makers)) (PP (IN of) (NP (NP (NN vodka)) (, ,) (NP (NN rum)) (CC and) (NP (JJ other) (NNS spirits))))) (VP (VB compete) (PP (IN against) (NP (NP (NNS powerhouses)) (ADVP (RB abroad))))))) (, ,) (NP (NN trade) (NNS agreements)) (VP (VBP prohibit) (NP (DT any) (JJ other) (NN country)) (PP (IN from) (S (VP (VBG making) (NP (NN bourbon)))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (DT All) (NN bourbon)) (VP (VBZ comes) (PP (IN from) (NP (NNP Kentucky))) (, ,) (SBAR (IN though) (S (NP (NP (NNP Jack) (NNP Daniel) (POS 's)) (NNP Tennessee) (NN whiskey)) (ADVP (RB often)) (VP (VBZ is) (VP (VBN counted) (PP (IN as) (NP (NN bourbon))) (PP (IN because) (IN of) (NP (NP (NN similarity)) (PP (IN of) (NP (NN taste)))))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (SBAR (RB just) (IN as) (S (NP (NN vodka)) (VP (VBZ has) (VP (VBN acquired) (NP (DT an) (JJ upscale) (NN image)) (PP (IN in) (NP (DT the) (NNP U.S.))))))) (, ,) (NP (NN bourbon)) (VP (VBZ has) (VP (VBN become) (ADJP (JJ fashionable)) (PP (IN in) (NP (JJ many) (JJ foreign) (NNS countries))) (, ,) (S (NP (DT a) (JJ uniquely) (NNP American) (NN product)) (VP (VBN tied) (PP (TO to) (NP (NN frontier) (NN folklore))))))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (VBD was) (NP (DT the) (NNP West)) (VP (VBN won))) (. ?)))
+
+(S1 (FRAG (PP (IN With) (NP (NP (DT a) (NN six-shooter)) (PP (IN in) (NP (NP (CD one) (NN hand)) (CC and) (NP (NP (NN bourbon)) (PP (IN in) (NP (DT the) (JJ other)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VB imagine) (SBAR (IN with) (S (VP (NN bourbon) (NP (NP (DT the) (NNP Wild) (NNP West) (, ,) (NNP Western) (NN motion) (NNS pictures) (CC and) (NNS gunmen)) (VP (VBG appearing))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Kenji) (NNP Kishimoto)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NNP Suntory) (NNP International) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN division)) (PP (IN of) (NP (NP (NNP Suntory) (NNP Ltd.)) (, ,) (NP (NP (NNP Japan) (POS 's)) (JJS largest) (NN liquor) (NN company))))))))) (. .)))
+
+(S1 (S (NP (NNP Suntory)) (VP (VBZ distributes) (NP (NNP Brown-Forman) (NNS bourbons)) (PP (IN in) (NP (NNP Japan)))) (. .)))
+
+(S1 (S (S (NP (NNP Bourbon)) (VP (VBZ makes) (PRT (RP up)) (NP (NP (QP (RB just) (CD 1)) (NN %)) (PP (IN of) (NP (JJ world-wide) (NNS spirits) (NN consumption)))))) (, ,) (CC but) (S (S (NP (PRP it)) (VP (VBD represented) (NP (NP (CD 57) (NN %)) (PP (IN of) (NP (NNP U.S.) (NN liquor) (NNS exports)))) (NP (JJ last) (NN year)) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Jobson)))))) (: ;) (S (NP (DT no) (JJ other) (NN category)) (VP (VBD had) (NP (QP (JJR more) (IN than) (CD 19)) (NN %))))) (. .)))
+
+(S1 (S (NP (NNP Big) (NNP U.S.) (NNS distillers)) (VP (VBP are) (ADVP (RB fiercely)) (VP (VBG vying) (PP (IN for) (NP (NP (DT this) (NN market)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD grew) (PP (TO to) (NP (QP ($ $) (CD 77) (CD million)))) (NP (JJ last) (NN year)) (PP (IN from) (NP (QP ($ $) (CD 33) (CD million))) (PP (IN in) (NP (CD 1987)))) (, ,) (PP (VBG according) (PP (TO to) (NP (NN government) (NNS figures))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Jim) (NN Beam) (NNP Brands) (NNP Co.)) (, ,) (NP (NP (DT a) (NN division)) (PP (IN of) (NP (NNP American) (NNP Brands) (NNP Inc.)))) (, ,)) (VP (VP (VBZ is) (NP (NP (DT the) (VBG leading) (NN exporter)) (PP (IN of) (NP (NN bourbon))))) (CC and) (VP (VBZ produces) (NP (NP (CD 10) (JJ other) (NNS types)) (PP (IN of) (NP (NN liquor)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB increase) (NP (PRP$ its) (JJ international) (NN advertising)) (NP (NP (CD 35) (NN %)) (PP (IN in) (NP (CD 1990)))) (, ,) (PP (IN with) (NP (NP (NN bourbon)) (VP (VBG representing) (NP (NP (JJS most)) (PP (IN of) (NP (DT that) (NN amount)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Guinness) (POS 's)) (NNP Schenley) (NNPS Industries) (NN unit)) (VP (VP (VBZ has) (VP (VBN increased) (NP (PRP$ its) (NN TV) (NN advertising)) (PP (IN in) (NP (NNP Japan))))) (CC and) (VP (VBZ has) (VP (VBN built) (NP (NNS partnerships)) (PP (IN with) (NP (NP (JJ duty-free) (NNS shops)) (PP (IN throughout) (NP (NNP Asia))))) (, ,) (S (VP (VBG enabling) (S (NP (PRP it)) (VP (TO to) (VP (VB install) (NP (JJ prominent) (NN counter) (NNS displays)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN company) (POS 's)) (NNP I.W.) (NNP Harper) (NN brand)) (VP (VBZ is) (NP (NP (DT the) (VBG leading) (NN bourbon)) (PP (IN in) (NP (NNP Japan)))) (, ,) (PP (IN with) (NP (NP (CD 40) (NN %)) (PP (IN of) (NP (DT the) (NN market)))))) (. .)))
+
+(S1 (S (NP (NN Bourbon) (NNS exporters)) (VP (VBP have) (VP (VBN succeeded) (PP (IN in) (NP (NNP Japan))) (SBAR (WHADVP (WRB where)) (S (NP (JJ other) (NNS industries)) (VP (VBP have) (VP (VBN failed))))) (, ,) (S (VP (VBG avoiding) (NP (NP (JJ cultural) (NNS hitches)) (PP (IN in) (NP (NN marketing) (CC and) (NN distribution)))) (PP (IN by) (S (VP (VBG allying) (NP (PRP themselves)) (PP (IN with) (NP (JJ local) (NNS agents)))))))))) (. .)))
+
+(S1 (S (NP (NNP Jim) (NN Beam) (NNP Brands)) (VP (VBZ has) (NP (NP (DT a) (NN distribution) (NN partnership)) (PP (IN with) (NP (NP (NNP Nikka) (NN Whiskey) (NNP Co.)) (, ,) (NP (DT a) (NN distiller)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Seagram) (NNP Co.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ exports) (ADJP (NP (CD Four) (NNS Roses)) (JJ bourbon))))) (, ,)) (VP (VBZ has) (NP (NP (PDT such) (DT a) (NN link)) (PP (IN with) (NP (NNP Kirin) (NNP Brewery) (NNP Co))))) (. .)))
+
+(S1 (S (NP (DT Some) (NN bourbon) (NNS makers)) (VP (VBP advertise) (ADVP (RB abroad)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP do) (PP (IN at) (NP (NN home))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB promote) (NP (NP (NNP Jack) (NNP Daniel) (POS 's)) (NN overseas))))) (, ,) (NP (NNP Brown-Forman)) (VP (VBZ uses) (NP (NP (NP (DT the) (JJ same) (NNS photos)) (PP (IN of) (NP (NP (JJ front) (NNS porches)) (PP (IN from) (NP (NP (NNP Lynchburg)) (, ,) (NP (NNP Va.)) (, ,)))))) (CC and) (NP (JJ avuncular) (JJ old) (NNS men))) (PP (IN in) (NP (NP (NNS overalls)) (CC and) (NP (NNS hightops))))) (. .)))
+
+(S1 (S (NP (NNP Jim) (NN Beam) (NN print) (NNS ads)) (, ,) (ADVP (RB however)) (, ,) (VP (VBP strike) (NP (NP (JJ different) (NNS chords)) (PP (IN in) (NP (JJ different) (NNS countries))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNP Australia)) (, ,) (NP (NP (NN land)) (PP (IN of) (NP (DT the) (NN outback)))))) (, ,) (NP (NP (DT a) (NN snapshot)) (PP (IN of) (NP (NNP Jim) (NN Beam)))) (VP (VBZ lies) (PP (IN on) (NP (NP (DT a) (NN strip)) (PP (IN of) (NP (JJ hand-tooled) (NN leather)))))) (. .)))
+
+(S1 (S (NP (NNPS West) (NNPS Germans)) (VP (VBP get) (NP (NN glitz)) (, ,) (PP (IN with) (NP (NP (NP (NN bourbon)) (PP (IN in) (NP (DT the) (NN foreground)))) (CC and) (NP (NP (DT a) (JJ posh) (NNP Beverly) (NNP Hills) (NN hotel)) (PP (IN in) (NP (DT the) (NN background))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Ads)) (PP (IN for) (NP (NNP England)))) (VP (VBP are) (ADJP (JJ artsy) (CC and) (JJ irreverent))) (. .)))
+
+(S1 (S (NP (CD One) (NN ad)) (VP (VBZ features) (NP (NP (DT a) (JJ huge) (NN robot)) (VP (VBG carrying) (NP (NP (DT a) (JJ voluptuous) (NN woman)) (PP (IN in) (NP (DT a) (JJ faint))))))) (. .)))
+
+(S1 (NP (NP (DT The) (NN tagline)) (: :) (`` `) (S (`` `) (NP (PRP I)) (VP (ADVP (RB only)) (VBD asked) (SBAR (IN if) (S (NP (PRP she)) (VP (VBD wanted) (NP (DT a) (NNP Jim) (NN Beam))))))) (. .)))
+

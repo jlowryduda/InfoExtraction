@@ -1,0 +1,4 @@
+(S1 (S (NP (NNP NCNB) (NNP Corp.)) (VP (VBD raised) (NP (NP (QP ($ $) (CD 1) (CD billion))) (PP (IN in) (NP (JJ new) (NN capital)))) (PP (IN during) (NP (DT the) (JJ third) (NN quarter)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN yesterday) (POS 's)) (NN edition))) (, ,) (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (JJ new) (NN capital)))) (VP (VBD was) (VP (VBN misstated))) (. .)))
+

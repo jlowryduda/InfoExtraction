@@ -1,0 +1,86 @@
+(S1 (S (S (NP (NP (DT An) (JJ imaginative) (NN novelist)) (VP (VBG writing) (NP (DT a) (NN thriller)) (PP (IN about) (NP (JJ amateur) (NN spy-chasing))))) (VP (MD might) (VP (VB invent) (NP (DT a) (NNP Clifford) (NNP Stoll))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ unlikely)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB also)) (ADJP (JJ unnecessary))) (. .)))
+
+(S1 (S (NP (JJ Amateur) (NN spy-chaser) (NNP Clifford) (NNP Stoll)) (VP (VBZ is) (UCP (NP (DT a) (JJ real) (NN person)) (, ,) (CC or) (SBAR (IN as) (S (NP (PRP he)) (VP (VP (MD might) (RB waggishly) (VP (VB put) (NP (PRP it)))) (, ,) (NP (DT a) (JJ surreal) (NN person))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ is) (NP (NP (CD 37)) (, ,) (NP (NP (DT an) (NN astronomer)) (PP (IN with) (NP (JJ impressive) (NNS credentials)))) (, ,) (CC and) (NP (NP (NN something)) (PP (IN of) (NP (NP (DT a) (NN genius)) (PP (IN at) (S (VP (VBG making) (S (NP (NNS computers)) (VP (VB do) (NP (PRP$ his) (NN bidding)))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB once)) (VP (VP (VBD described) (NP (PRP himself)) (PP (IN as) (NP (DT a) (`` `) (NX (`` `) (NX (NNP Berkeley) (NN Hippie)) (, ,) ('' ')) ('' ')))) (CC and) (VP (VBD played) (NP (DT the) (NN role)) (ADVP (RB well)) (PRN (: ;) (S (NP (NP (JJ obligatory) (JJ ragged) (NNS jeans)) (, ,) (NP (NP (DT a) (NN thicket)) (PP (IN of) (NP (NP (JJ long) (NN hair) (CC and) (NN rejection)) (PP (IN of) (NP (NP (DT all) (NNS things)) (ADJP (JJ conventional))))))) (, ,)) (VP (VBG including) (, ,) (PP (IN for) (NP (NP (DT a) (NN time)) (PP (IN at) (NP (JJS least))))) (, ,) (NP (NP (JJ formal) (NN marriage)) (PP (TO to) (NP (NP (PRP$ his) (`` `) (NX (`` `) (NX (NN sweetheart)) (, ,) ('' ')) ('' ')) (NP (NNP Martha) (NNP Matthews)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ is) (NP (DT an) (JJ entertaining) (NN writer)) (, ,) (S (VP (VBG combining) (NP (NNS wisecracks) (CC and) (NN wordplay)) (PP (IN with) (NP (NP (JJ programmatic) (NN detail)) (CC and) (NP (NP (JJ lucid) (NNS explanations)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (NNS computers)) (VP (VBP work))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (`` `) (NP (`` `) (NP (NP (DT The) (NN Cuckoo) (POS 's)) (NNP Egg) (POS ')) ('' ') (PRN (-LRB- -LRB-) (NP (NNP Doubleday)) (, ,) (NP (CD 326) (NNS pages)) (, ,) (NP ($ $) (CD 19.95)) (-RRB- -RRB-)))) (, ,) (NP (PRP he)) (VP (VBZ spins) (NP (NP (DT a) (JJ remarkable) (NN tale)) (PP (IN of) (NP (NP (PRP$ his) (NNS efforts)) (PP (IN over) (NP (CD 18) (NNS months))) (S (VP (TO to) (VP (VB catch) (NP (DT a) (NN computer) (NN spy))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN result)) (NP (JJ last) (NN spring)) (VP (VBD was) (NP (NP (DT the) (NN arrest)) (PP (IN by) (NP (ADJP (NNP West) (NNP German)) (NNS authorities))) (PP (IN of) (NP (NP (CD five) (JJ young) (NNP West) (NNPS Germans)) (, ,) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG stealing) (NP (NP (NN information)) (PP (IN from) (NP (NP (NNS computers)) (PP (IN in) (NP (NP (DT the) (NNP U.S.)) (CC and) (NP (NNP Europe)))))))) (CC and) (VP (VBG selling) (NP (PRP it)) (PP (TO to) (NP (DT the) (NNP Soviet) (NNP KGB)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (CD One)) (PP (IN of) (NP (PRP them)))) (, ,) (NP (NP (JJ 25-year-old) (NNP Markus) (NNP Hess)) (PP (IN of) (NP (NNP Hannover)))) (, ,)) (ADVP (RB allegedly)) (VP (VBD used) (NP (DT the) (JJ international) (NN telecommunications) (NN network)) (S (VP (TO to) (VP (VB break) (PP (IN into) (NP (NP (QP (JJR more) (IN than) (CD 30)) (JJ high-security) (NNS computers)) (PP (IN in) (NP (DT the) (NNP U.S.))))) (, ,) (S (VP (VBG searching) (PP (IN for) (NP (NNS secrets))))))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (ADVP (RB probably)) (VP (VBD did) (RB n't) (VP (VB penetrate) (NP (DT any) (JJ top-secret) (NNS files))))) (, ,) (CC but) (S (NP (NP (DT the) (NNP KGB)) (PP (IN in) (NP (NNP East) (NNP Berlin)))) (VP (VBD was) (ADJP (JJ willing) (S (VP (TO to) (VP (VB pay) (NP (NP (NP (CD two)) (PP (IN of) (NP (PRP$ his) (NNS associates)))) (, ,) (NP (NNP Peter) (NNP Carl) (CC and) (NNP Dirk) (NNP Brezinski)) (, ,)) (NP ($ $) (CD 15,000)) (PP (IN for) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NN material)) (SBAR (S (NP (NNP Hess)) (VP (VBD collected)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD promised) (NP (NP (RB yet) (JJR more)) (PP (IN for) (NP (ADJP (RB really) (JJ good)) (NN stuff))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Stoll)) (VP (VBZ draws) (NP (NP (PRP$ his) (NN title)) (PP (IN from) (NP (NP (NP (DT the) (NN cuckoo) (POS 's)) (NN habit)) (PP (IN of) (S (VP (VBG laying) (NP (NNS eggs)) (PP (IN in) (NP (NP (DT the) (NNS nests)) (PP (IN of) (NP (JJ other) (NNS birds))))) (, ,) (S (VP (VBG making) (S (NP (PRP them)) (VP (NN surrogate) (NP (NNS parents))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN computer) (NN spy)) (VP (VBD had) (VP (VBN discovered) (SBAR (IN that) (S (NP (NP (DT a) (JJ popular) (JJ editing\/electronic) (NN mail) (NN program)) (VP (VBN called) (NP (NNP Gnu-Emacs)))) (VP (MD could) (VP (VB do) (NP (NNS tricks)) (PP (IN with) (NP (NP (DT the) (ADJP (RB widely) (VBN used)) (NNP Unix) (NN operating) (NN system)) (VP (VBN created) (PP (IN by) (NP (NNP AT&T)))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Using) (NP (NNP Gnu-Emacs)))) (, ,) (NP (DT the) (NN spy)) (VP (MD could) (VP (VB substitute) (NP (NP (DT a) (JJ bogus) (`` `) (ADJP (`` `) (JJ atrun) ('' ')) ('' ') (NN program)) (PP (IN for) (NP (DT the) (CD one))) (SBAR (WHNP (WDT that)) (S (ADVP (RB routinely)) (VP (VBZ cleans) (PRT (RP up)) (NP (DT the) (NNP Unix) (NN system)))))) (NP (DT every) (CD five) (NNS minutes)))) (. .)))
+
+(S1 (S (SBAR (IN Once) (S (NP (NP (PRP$ his) (NN cuckoo) (POS 's)) (NN egg)) (VP (VBD was) (VP (VBN laid))))) (, ,) (NP (PRP he)) (VP (MD could) (VP (VP (VB enter) (NP (NNP Unix))) (CC and) (VP (VB become) (NP (NP (DT a) (`` `) (NX (`` `) (NX (NN super-user)) (, ,) ('' ')) ('' ')) (PP (IN with) (NP (NP (NN access)) (PP (TO to) (NP (NN everything))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Stoll)) (VP (VBD was) (VP (VBG scanning) (NP (DT the) (NNS heavens)) (PP (IN at) (NP (NP (DT the) (NNP Keck) (NN observatory)) (PP (IN of) (NP (NP (DT the) (NNP Lawrence) (NNP Berkeley) (NNP Laboratory)) (PP (IN in) (NP (NP (CD 1986)) (SBAR (WHADVP (WRB when)) (S (S (NP (PRP$ his) (NN grant)) (VP (VBD ran) (ADJP (JJ low)))) (CC and) (S (NP (PRP he)) (VP (VBD was) (VP (VBN asked) (S (VP (TO to) (VP (VB switch) (PP (TO to) (S (VP (VBG helping) (S (VP (VB run) (NP (NP (DT the) (NN lab) (POS 's)) (NNS computers))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD discovered) (NP (DT a) (JJ 75-cent) (NN discrepancy)) (PP (IN in) (NP (NP (DT the) (NNS charges)) (VP (VBN made) (PP (TO to) (NP (JJ various) (NNS departments)))))) (PP (IN for) (NP (NN computer) (NN time)))) (CC and) (VP (VBD traced) (NP (PRP it)) (PP (TO to) (NP (NP (DT a) (NN user)) (VP (VBN named) (NP (`` `) (NP (`` `) (NP (NNP Hunter)) (, ,) ('' ')) ('' ') (SBAR (WHNP (WP who)) (S (VP (VBD had) (NP (DT no) (JJ valid) (NN billing) (NN address))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Stoll)) (VP (VBD suspected) (SBAR (S (NP (DT the) (NN intruder)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT those) (JJ precocious) (NNS students)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (NP (NN fun)))))))) (S (VP (VBG breaking) (PP (IN into) (NP (NNS computers))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN after) (NP (JJ much) (VBG tracking))) (, ,) (NP (PRP it)) (VP (VBD became) (ADJP (JJ evident) (PP (PP (TO to) (NP (NNP Mr.) (NNP Stoll))) (, ,) (PP (IN through) (NP (JJ various) (NNS clues))) (, ,))) (SBAR (IN that) (S (NP (DT the) (NN hacker)) (VP (VBD was) (RB not) (UCP (PP (IN on) (NP (DT the) (NNP Berkeley) (NN campus))) (CC or) (ADVP (RB even) (PP (IN in) (NP (NNP California))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Finding) (NP (PRP him)))) (VP (VBD became) (NP (NP (DT an) (NN obsession)) (PP (IN for) (NP (NNP Mr.) (NNP Stoll))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD made) (NP (NP (DT a) (NN midnight) (NN requisition)) (PP (IN of) (NP (PDT all) (DT the) (NNS printers) (SBAR (S (NP (PRP he)) (VP (MD could) (VP (VB lay) (NP (NNS hands)) (PP (IN on)) (SBAR (RB so) (IN that) (S (NP (PRP he)) (VP (MD could) (VP (VB monitor) (NP (NP (PDT all) (DT the) (NN telephone) (NNS lines)) (VP (VBG coming) (PP (IN into) (NP (NP (DT the) (NN lab) (POS 's)) (NNS computers))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN After) (S (VP (VBG discovering) (SBAR (IN that) (S (NP (DT the) (NN hacker)) (VP (VBD had) (VP (VBN taken) (PRT (RP over)) (NP (NP (DT the) (JJ dormant) (NN account)) (PP (IN of) (NP (NP (DT a) (JJ legitimate) (NN user)) (VP (VBN named) (S (NP (NNP Joe) (NNP Sventek)))))))))))))) (, ,) (NP (PRP he)) (VP (VBD rigged) (PRT (RP up)) (NP (NP (DT an) (NN alarm) (NN system)) (, ,) (PP (VBG including) (NP (DT a) (JJ portable) (NN beeper)))) (, ,) (S (VP (TO to) (VP (VB alert) (NP (PRP him)) (SBAR (WHADVP (WRB when)) (S (NP (NNP Sventek)) (VP (VBD came) (PP (IN on) (NP (DT the) (NN line)))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS nights)) (NP (PRP he)) (VP (VBD slept) (PP (IN under) (NP (PRP$ his) (NN desk)))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN boss)) (VP (VBD complained) (PP (IN about) (NP (NP (NN neglect)) (PP (IN of) (NP (JJ other) (NNS chores)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN hacker)) (VP (VBD was) (VP (VP (VBG pawing) (PRT (RP over)) (NP (DT the) (NNP Berkeley) (NNS files))) (CONJP (CC but) (RB also)) (VP (VBG using) (NP (NP (NNP Berkeley)) (CC and) (NP (JJ other) (ADJP (RB easily) (JJ accessible)) (NNS computers))) (PP (IN as) (S (VP (VBG stepping) (NP (NNS stones)) (PP (TO to) (NP (NP (DT the) (NN network)) (PP (IN of) (NP (NP (NNS computers)) (VP (VBN used) (PP (IN by) (NP (DT the) (ADJP (JJ military) (CC and) (JJ national)) (NN security) (NNS agencies)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP White) (NNP Sands) (NN missile) (NN range)) (CC and) (NP (NNP CIA) (NN contractor) (NNP Mitre) (NNP Inc.))) (VP (VBD were) (PP (IN among) (NP (DT the) (NNS targets)))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN hacker)) (VP (VBD moved)))) (, ,) (NP (NNP Mr.) (NNP Stoll)) (VP (VBD moved) (ADVP (RB too)) (, ,) (S (VP (VP (VBG calling) (PRT (RP up)) (NP (NP (JJ other) (NNS systems)) (SBAR (S (NP (NNS managers)) (VP (TO to) (VP (VB alert) (NP (PRP them)))))))) (CC but) (VP (VBG keeping) (S (NP (PRP$ his) (JJ own) (NN system)) (ADJP (JJ open) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG arousing) (NP (NN suspicion))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Sometimes)) (, ,) (SBAR (IN if) (S (NP (DT the) (NN hacker)) (VP (VBD seemed) (S (VP (TO to) (VP (VB be) (PP (IN into) (NP (DT a) (JJ sensitive) (NN file))))))))) (, ,) (NP (PRP he)) (VP (MD would) (VP (VB drag) (NP (PRP$ his) (NN keychain)) (PP (IN across) (NP (DT the) (NN terminal) (S (VP (TO to) (VP (VP (VB create) (ADJP (JJ static))) (CC or) (VP (VB slow) (NP (DT the) (NN system)) (PRT (RP down)) (S (VP (TO to) (VP (VB frustrate) (NP (PRP$ his) (NN quarry))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP FBI)) (ADVP (RB initially)) (VP (VBD showed) (NP (JJ little) (NN interest)))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBD had) (NP (DT the) (NN impression) (SBAR (S (NP (JJ other) (JJ federal) (NN security) (NNS agencies)) (VP (VBD were) (VP (VBN tangled) (PRT (RP up)) (PP (IN in) (NP (JJ legal) (JJ red) (NN tape)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP CIA)) (VP (VBD told) (NP (PRP him)) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB do) (NP (JJ domestic) (NN counterespionage))))))) (. .)))
+
+(S1 (S (NP (CD One)) (VP (VP (VBZ learns) (NP (NP (DT a) (NN lot)) (PP (IN from) (NP (DT this) (NN book))))) (, ,) (CC or) (VP (VBZ seems) (S (VP (TO to)))) (, ,) (PP (IN about) (NP (JJ crippling) (JJ federal) (NN bureaucracy)))) (. .)))
+
+(S1 (S (`` `) (VP (`` `) (VBZ Seems) (PP (TO to) ('' ')) ('' ') (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ possible)) (SBAR (IN that) (S (NP (NP (DT the) (NNP CIA)) (CC and) (NP (DT the) (NNP National) (NNP Security) (NNP Agency))) (VP (VBD were) (ADJP (ADJP (RBR more) (JJ interested)) (SBAR (IN than) (S (NP (PRP they)) (VP (VB let) (PRT (RP on)) (PP (TO to) (NP (NNP Mr.) (NNP Stoll)))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Finally)) (, ,) (NP (PRP he)) (VP (VBD got) (NP (NN help))) (. .)))
+
+(S1 (S (NP (NNP Tymnet)) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN network)) (VP (VBG linking) (NP (NNS computers))))) (. .)))
+
+(S1 (S (NP (NP (NP (CD One)) (PP (IN of) (NP (PRP$ its) (JJ international) (NNS specialists)))) (, ,) (NP (NNP Steve) (NNP White)) (, ,)) (VP (VBD took) (NP (NP (DT a) (JJ quick) (NN interest)) (PP (IN in) (NP (NP (NNP Mr.) (NNP Stoll) (POS 's)) (NN hunt)))) (, ,) (S (ADVP (RB ultimately)) (VP (VBG tracing) (NP (DT the) (NN hacker)) (PP (TO to) (NP (NNP West) (NNP Germany)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP West) (NNPS Germans)) (ADVP (RB then)) (VP (VP (VBD took) (PRT (RP over))) (CC and) (VP (ADVP (RB finally)) (VBD found) (NP (NNP Markus) (NNP Hess)))) (. .)))
+
+(S1 (S (ADVP (RB Eventually)) (, ,) (NP (NNP Mr.) (NNP Stoll)) (VP (VBD was) (VP (VBN invited) (PP (TO to) (NP (PDT both) (NP (DT the) (NNP CIA)) (CC and) (NP (NNP NSA)))) (S (VP (TO to) (VP (VB brief) (NP (JJ high-ranking) (NNS officers)) (PP (IN on) (NP (NN computer) (NN theft)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD savored) (NP (NP (DT the) (NN humor)) (PP (IN of) (NP (NP (PRP$ his) (JJ uncombed) (NN appearance)) (PP (IN among) (NP (DT these) (JJ buttoned-up) (NNS chaps))))))) (. .)))
+
+(S1 (S (ADVP (RB Back) (PP (IN in) (NP (NNP Berkeley)))) (, ,) (NP (PRP he)) (VP (VBD was) (VP (ADVP (RB violently)) (VBN scolded) (PP (IN by) (NP (NP (DT a) (JJ left-wing) (NN lady) (NN friend)) (PP (IN for) (S (VP (VBG consorting) (PP (IN with) (NP (JJ such) (NNS people)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD became) (ADJP (JJ angry)) (PP (IN in) (NP (NN return)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD had) (VP (VBN developed) (NP (NP (DT a) (NN hatred)) (PP (IN for) (NP (NP (DT the) (NN hacker)) (CC and) (NP (NP (DT a) (JJ grudging) (NN appreciation)) (PP (IN of) (NP (NP (DT the) (JJ federal) (`` `) (NX (`` `) (NNS spooks) ('' ')) ('' ')) (SBAR (WHNP (WP who)) (S (VP (VBP make) (NP (JJ national) (NN security)) (NP (PRP$ their) (NN business))))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (JJ several) (JJ different) (NNS levels))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ fascinating) (NN tale))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Melloan)) (VP (VBZ is) (NP (NP (NN deputy) (NN editor)) (PP (IN of) (NP (DT the) (NNP Journal))))) (. .)))
+

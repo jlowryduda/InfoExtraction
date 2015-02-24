@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (NNP Standard) (CC &) (NNP Poor) (POS 's)) (NNP Corp.)) (VP (VBD lowered) (PP (TO to) (NP (NN double-C))) (PP (IN from) (NP (NN triple-C))) (NP (NP (DT the) (NN rating)) (PP (IN on) (NP (NP (QP (RB about) ($ $) (CD 130) (CD million))) (PP (IN of) (NP (NN debt))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN rating) (NN concern)) (VP (VBD said) (S (NP (DT the) (NN textile) (CC and) (NN clothing) (NN company)) (VP (VBZ 's) (NP (NN interest) (NN expense)))))) (VP (VBZ exceeds) (NP (NP (NN operating) (NN profit)) (SBAR (S (NP (`` `) (NP (`` `) (NP (IN by) (DT a) (JJ wide) (NN margin)) ('' ')) ('' ') (CC and) (NP (PRP it))) (VP (VBD noted) (NP (NP (NP (NNP United) (POS 's)) (JJ estimated) (JJ after-tax) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 24) (CD million)))) (PP (IN for) (NP (NP (DT the) (NN year)) (VP (VBD ended) (NP (NNP June) (CD 30))))))))))) (. .)))
+

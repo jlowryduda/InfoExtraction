@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NNP General) (NNP Electric) (NNP Capital) (NNP Corp.) (POS 's)) (NNP Monogram) (NNP Bank) (NNP USA)) (VP (VBD acquired) (NP (DT a) (NNP Visa) (CC and) (NNP MasterCard) (NN portfolio)) (PP (IN from) (NP (NP (NNP Commercial) (NNP Federal) (NNP Savings) (CC &) (NNP Loan) (NNP Association)) (, ,) (NP (NP (DT an) (NAC (NNP Omaha) (, ,) (NNP Neb.) (, ,)) (NN unit)) (PP (IN of) (NP (NP (NNP Commercial) (NNP Federal) (NNP Corp.)) (PP (IN of) (NP (NNP Omaha))))))))) (. .)))
+
+(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN portfolio)) (ADVP (RB currently)) (VP (VBZ includes) (NP (NP (QP ($ $) (CD 95) (CD million))) (PP (IN in) (NP (NN receivables)))))) (, ,) (NP (NNP GE) (NNP Capital)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP GE) (NNP Capital)) (VP (VBZ is) (NP (NP (DT a) (JJ financial) (NNS services) (NN subsidiary)) (PP (IN of) (NP (NP (NNP General) (NNP Electric) (NNP Co.)) (PP (IN of) (NP (NP (NNP Fairfield)) (, ,) (NP (NNP Conn.)))) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBZ has) (NP (NN broadcasting) (CC and) (NNS electrical-products) (NNS businesses))))))))) (. .)))
+
+(S1 (S (NP (NNP GE) (NNP Capital)) (VP (VBD said) (SBAR (S (NP (NNP Commercial) (NNP Federal) (NNP Savings)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB market) (NP (NNP Visa) (CC and) (NNP MasterCard) (NNS programs)) (SBAR (IN while) (S (NP (NNP Monogram)) (VP (VP (VBZ provides) (`` `) (NP (`` `) (ADJP (JJ operational) (CC and) (VBG marketing)) (NN support) ('' ')) ('' ')) (CC and) (VP (ADVP (RB actually)) (VBZ owns) (NP (DT the) (NNS accounts)))))))))))))) (. .)))
+
+(S1 (S (S (PP (IN With) (NP (DT the) (NN acquisition))) (, ,) (NP (NP (NNP Monogram)) (, ,) (NP (NNP Blue) (NNP Ash)) (, ,) (NP (NNP Ohio)) (, ,)) (VP (VBZ has) (NP (QP (JJR more) (IN than) (CD 2.4) (CD million)) (JJ total) (NNS accounts)))) (, ,) (NP (NNP GE) (NNP Capital)) (VP (VBD added)) (. .)))
+

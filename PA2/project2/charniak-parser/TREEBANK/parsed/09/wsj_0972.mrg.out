@@ -1,0 +1,96 @@
+(S1 (S (NP (`` `) (NP (`` `) (NP (NNP Parenthood)) (, ,) ('' ')) ('' ') (NP (NP (NP (DT this) (NN summer) (POS 's)) (ADJP (JJ successful) (CC and) (JJ amusing)) (NN movie)) (PP (IN about) (NP (NNS parents) (CC and) (NNS children)))) (, ,)) (ADVP (RB apparently)) (VP (VBD was) (NP (RB only) (DT the) (NN beginning))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ seems) (SBAR (IN that) (S (NP (DT every) (NN day)) (NP (DT a) (JJ new) (NN movie)) (VP (VBZ opens) (VP (VBG featuring) (NP (DT a) (NN child)) (S (VP (VBG coping) (PP (IN with) (NP (NP (NP (DT a) (NN mother) (POS 's)) (NN death)) (, ,) (CC or) (NP (NN adoption)) (, ,) (CC or) (NP (VBG aging) (NNS parents)) (, ,) (CC or) (NP (NN pregnancy))))))))))) (. .)))
+
+(S1 (FRAG (CC And) (WRB why) (RB not) (. ?)))
+
+(S1 (S (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP$ our) (ADJP (JJS best) (CC and) (RBS most) (JJ idiosyncratic)) (NN film) (NNS makers))) (PRN (: --) (PP (PP (IN from) (NP (NNP Truffaut))) (PP (TO to) (NP (NNP Fellini))) (PP (TO to) (NP (NNP Woody) (NNP Allen)))) (: --))) (VP (VBP have) (VP (VBN taken) (NP (NP (DT a) (NN cue)) (PP (IN from) (NP (NNP Chekhov))))))) (: :) (S (SBAR (WHADVP (WRB When)) (S (NP (PRP it)) (VP (VBZ comes) (PP (TO to) (NP (JJ compelling) (NN drama)))))) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (DT no) (NN place)) (PP (IN like) (NP (NN home))))) (. .)))
+
+(S1 (S (CC Yet) (NP (NP (ADJP (RB too) (JJ many)) (NNS people)) (VP (VBG working) (PP (IN in) (NP (NNP Hollywood))) (NP (NN today)))) (VP (VBP seem) (S (VP (TO to) (VP (VB suffer) (PP (IN from) (NP (DT the) (NN delusion) (SBAR (IN that) (S (NP (NP (DT the) (NN drama)) (VP (VBN played) (PRT (RP out)) (PP (IN in) (NP (DT every) (NN home))))) (VP (MD will) (VP (VB be) (ADJP (JJ interesting) (PP (TO to) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP live) (ADVP (RB somewhere) (RB else)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ is) (RB not) (NP (DT the) (NN case))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS diaries)) (ADVP (RB simply)) (VP (VBP are) (RB n't) (ADJP (JJ worth) (SBAR (S (VP (VBG snooping) (PRT (RP in))))))) (. .)))
+
+(S1 (S (ADVP (RB Yet)) (NP (EX there)) (VP (MD will) (VP (VB be) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB sob) (PP (IN at) (NP (`` `) (NP (`` `) (NP (JJ Immediate) (NNP Family)) (, ,) ('' ')) ('' '))) (NP (NP (DT a) (ADJP (ADJP (RB limply) (VBN constructed)) (CC and) (ADJP (JJ offensive))) (NN movie)) (PP (IN about) (NP (NN adoption))))))))))) (. .)))
+
+(S1 (S (NP (DT These)) (VP (VBP are) (NP (NP (DT the) (JJ sensitive) (NNS souls)) (SBAR (WHNP (WP who)) (S (VP (MD can) (VP (VP (VB empathize) (PP (IN with))) (CC and) (VP (ADVP (RB even)) (VB enjoy) (S (VP (VBG hearing) (PP (IN about) (NP (NP (JJ other) (NNS people) (POS 's)) (NNS troubles))) (, ,) (ADVP (DT no) (NN matter) (SBAR (WHADVP (WRB how)) (S (NP (ADVP (RB haltingly) (CC or) (RB predictably)) (DT the) (JJ sad) (NN tale)) (VP (VBZ is) (VP (VBN told))))))))))))))) (. .)))
+
+(S1 (S (VP (VBN Written) (PP (IN by) (NP (NP (NNP Barbara) (NNP Benedek)) (, ,) (NP (NP (NN co-author)) (PP (IN of) (NP (`` `) (NP (`` `) (NP (DT The) (JJ Big) (NN Chill)) (, ,) ('' ')) ('' ') (`` `) (S (NP (`` `) (NP (JJ Immediate) (NN Family) (POS ')) ('' ')) (VP (VBZ takes) (NP (NP (DT the) (NN position)) (SBAR (WHNP (WDT that)) (S (NP (NP (RB only) (JJ rich) (NNS people)) (VP (VBG living) (PP (IN in) (NP (JJ nice) (NNS houses))))) (VP (MD should) (VP (VB have) (NP (NNS children))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN film) (NNS makers)) (VP (VBP have) (VP (VBN couched) (NP (DT this) (JJ offensive) (NN idea)) (PP (IN in) (NP (JJ pretty) (NN packaging))))) (. .)))
+
+(S1 (S (NP (NN Everyone)) (VP (VBZ is) (UCP (ADJP (RB very) (JJ nice) (CC and) (JJ good-looking)) (: --) (NP (NP (NP (DT the) (JJ adoptive) (NNS parents)) (PRN (-LRB- -LRB-) (NP (NP (NNP Glenn) (JJ Close)) (CC and) (NP (NNP James) (NNP Woods))) (-RRB- -RRB-))) (CC and) (NP (NP (DT the) (JJ teen-age) (NN couple)) (SBAR (WHNP (WP who)) (S (VP (VBP decide) (S (VP (TO to) (VP (VB give) (PRT (RP up)) (NP (PRP$ their) (NN baby)) (PP (IN for) (NP (NP (NN adoption)) (PRN (-LRB- -LRB-) (NP (NP (NNP Mary) (NNP Stuart) (NNP Masterson)) (CC and) (NP (NNP Kevin) (NNP Dillon))) (-RRB- -RRB-)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Linda)) (CC and) (NP (NP (NNP Michael)) (PRN (-LRB- -LRB-) (NP (NP (NP (NNP Ms.)) (ADVP (JJ Close))) (CC and) (NP (NNP Mr.) (NNP Woods))) (-RRB- -RRB-)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP seem) (S (VP (TO to) (VP (VB be) (VP (VBG pushing) (NP (CD 40))))))))) (, ,))) (VP (VBP live) (PP (IN in) (NP (NP (DT a) (ADJP (ADJP (JJ large)) (CC and) (ADJP (RB tastefully) (VBN decorated))) (NN home)) (PP (IN in) (NP (JJ suburban) (NNP Seattle)))))) (. .)))
+
+(S1 (S (S (S (NP (NP (DT All)) (PP (IN of) (NP (PRP$ their) (NNS friends)))) (VP (VB have) (NP (NNS children)))) (CC and) (S (NP (PRP they)) (VP (MD ca) (RB n't)))) (, ,) (CC so) (S (ADVP (RB now)) (NP (PRP they)) (VP (VBP want) (ADJP (ADJP (NP (DT a) (NN child)) (JJR more)) (PP (IN than) (NP (NP (NN anything)) (PRN (: --) (RB perhaps) (ADJP (ADJP (RB even) (JJR more)) (SBAR (IN than) (S (NP (NNP Michael)) (VP (VBD wanted) (NP (NP (PRP$ his) (JJ fancy) (NN convertible)) (CC or) (NP (PRP$ his) (JJ deluxe) (NN stereo) (NN equipment))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN idea)) (PP (IN of) (NP (DT a) (NN child-as-required-yuppie-possession)))) (VP (MD must) (VP (VB be) (VP (VBG motivating) (NP (PRP them)) (, ,) (SBAR (IN since) (S (NP (NP (DT the) (JJ wealthy) (NN offspring)) (PP (IN of) (NP (PRP$ their) (NNS friends)))) (VP (VBP are) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (NP (JJ rude) (NNS brats)) (, ,) (PP (IN in) (NP (NN therapy)))))) (PP (IN by) (NP (NN age) (CD five)))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Having) (VP (VBN exhausted) (NP (NP (DT all) (JJ modern) (NNS aids)) (PP (TO to) (NP (NN fertility))))))) (, ,) (NP (NNP Linda) (CC and) (NNP Michael)) (VP (VBP decide) (S (VP (TO to) (VP (VB adopt))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNS actors)) (VP (VBP wear) (VP (VBN pained) (NP (NNS expressions)) (S (VP (TO to) (VP (VB indicate) (NP (NP (PRP$ their) (JJ genuine) (NN longing)) (PP (IN for) (NP (DT a) (JJ little) (CD one)))))))))) (: --) (CC or) (ADVP (RB maybe)) (S (NP (PRP they)) (VP (VBP 're) (ADVP (RB not-so-subtly)) (VP (VBG commenting) (PP (IN on) (NP (NP (DT the) (NN inadequacy)) (PP (IN of) (NP (DT the) (NN script)))))))) (, ,) (CC and) (S (NP (NNP Jonathan) (NNP Kaplan)) (VP (VBZ 's) (NP (PRN (-LRB- -LRB-) (`` `) (NP (`` `) (NP (DT The) (VBN Accused) (POS ')) ('' ')) (-RRB- -RRB-)) (JJ dull) (NN direction)))) (. .)))
+
+(S1 (S (CC Or) (ADVP (RB maybe)) (NP (PRP they)) (VP (VBP are) (VP (VBN disgusted) (PP (IN by) (NP (DT the) (JJ literal-minded) (JJ musical) (NN score))) (: ;) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN character)) (VP (VBZ arrives) (PP (IN at) (NP (NP (DT a) (JJ major) (NN decision)) (SBAR (S (NP (PRP$ her) (NNS thoughts)) (VP (VBP are) (VP (VBN revealed) (PP (IN by) (NP (NP (DT the) (NN sound)) (SBAR (IN of) (`` `) (S (`` `) (NP (PRP I)) (VP (MD Can) (VP (VB See) (ADVP (RB Clearly) (RB Now))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (DT The) (NN adoption) (NN agency)) (VP (VBZ insists) (PP (IN on) (S (VP (VBG introducing) (NP (DT the) (VBG adopting) (NNS parents)) (PP (TO to) (NP (DT the) (NN birth) (NN mother)))))))) (, ,) (IN so) (S (NP (NNP Linda) (CC and) (NNP Michael)) (VP (VBP pay) (PP (IN for) (NP (NP (NP (JJ pregnant) (NNP Lucy) (POS 's)) (PRN (-LRB- -LRB-) (NP (NNP Ms.) (NNP Masterson)) (-RRB- -RRB-)) (NN bus) (NN ticket)) (PP (IN from) (NP (NNP Ohio))))))) (. .)))
+
+(S1 (SBARQ (-LRB- -LRB-) (WHADVP (WRB Why)) (PP (IN in) (NP (DT these) (NNS movies))) (SQ (VP (VBZ is) (NP (DT the) (JJ unwed) (JJ pregnant) (NN woman)) (ADVP (RB always) (PP (IN from) (NP (NNP Ohio)))))) (. ?)))
+
+(S1 (S (NP (PRP I)) (VP (VBP ask) (NP (DT this)) (ADVP (ADVP (RB not) (RB necessarily)) (PP (IN as) (NP (DT a) (JJ native) (NNP Ohioan))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (NP (NP (NNP Lucy)) (, ,) (PP (IN of) (NP (NN course))) (, ,)) (VP (VBZ is) (ADJP (JJ pretty) (CC and) (JJ smart) (, ,) (IN though) (JJ uneducated))) (. .)))
+
+(S1 (S (NP (NN Everyone)) (VP (VBZ falls) (PP (IN in) (NP (NP (NN love)) (PP (IN with) (NP (NP (NN everyone)) (ADJP (RB else))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT some) (NN pain)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Lucy)) (VP (VP (VBZ has) (NP (DT the) (NN baby))) (CC and) (`` `) (S (`` `) (VP (VBD did) (RB n't) (VP (VB know) (SBAR (S (NP (PRP she)) (VP (MD would) (VP (VB feel) (PP (IN like) (NP (DT this))))))))) ('' ')) ('' ') (CC and) (VP (VBZ wants) (S (VP (TO to) (VP (VB keep) (NP (DT the) (NN baby))))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (DT the) (NN end))) (, ,) (NP (NN everything)) (VP (VBZ turns) (PRT (RP out)) (PP (IN for) (NP (NP (DT the) (JJS best)) (, ,) (PP (IN in) (NP (NP (DT the) (NN film) (NNS makers) (POS ')) (JJ warped) (NN view)))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (NP (NNS lawyers)) (PP (IN in) (NP (DT the) (JJ hostile) (NN takeover) (NN field))))) (, ,) (NP (DT the) (NN baby)) (VP (VBZ goes) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN money)) (VP (VBZ is))))) (. .)))
+
+(S1 (SINV (PP (IN At) (NP (NP (DT the) (JJ other) (NN end)) (PP (IN of) (NP (DT the) (NN life) (NN cycle))))) (VP (VBZ is) (`` `) (NP (`` `) (NP (NN Dad)) (, ,) ('' ')) ('' ')) (NP (NP (NP (NNP Gary) (NNP David) (NNP Goldberg) (POS 's)) (NN adaptation)) (PP (IN of) (NP (DT the) (NNP William) (NNP Wharton) (NN novel)))) (. .)))
+
+(S1 (S (NP (DT This) (NN picture)) (VP (VBZ is) (PP (IN about) (NP (NP (DT a) (JJ middle-aged) (NN son)) (SBAR (WHNP (WP who)) (S (VP (VBZ makes) (ADJP (JJ sure) (SBAR (IN that) (S (NP (NP (PRP$ his) (JJ delayed) (NN bond)) (PP (IN with) (NP (PRP$ his) (NN father)))) (VP (MD will) (VP (VB last) (PP (IN by) (S (VP (VBG waiting) (S (VP (TO to) (VP (VB cement) (NP (PRP it)) (PP (IN until) (SBAR (RB just) (IN before) (S (NP (DT the) (JJ old) (NN man)) (VP (VBZ dies)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ glib) (JJ emotional) (NN style)) (SBAR (S (NP (NNP Mr.) (NNP Goldberg)) (VP (VBZ has) (VP (VBN perfected) (PP (IN on) (NP (NP (NN television) (POS 's)) (`` `) (NX (`` `) (NX (NN Family) (NNS Ties)) ('' ')) ('' ')))))))) (VP (VBZ does) (RB n't) (VP (VB benefit) (PP (IN from) (NP (NN magnification))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NNS characters)) (ADVP (RB practically)) (VP (VBP scamper) (PP (IN through) (NP (NP (DT a) (JJ vast) (NN range)) (PP (IN of) (NP (JJ human) (NNS emotions))))) (, ,) (PP (IN like) (S (NP (NNS travelers)) (VP (VBG doing) (NP (NP (CD 10) (NNS cities)) (PP (IN in) (NP (CD eight) (NNS days)))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (NN pause) (ADVP (RB only)) (S (VP (TO to) (VP (VB register) (NP (NP (JJ little) (NNS whimpers)) (PP (IN of) (NP (NP (NN distress) (CC and) (VBZ sighs)) (PP (IN of) (NP (NP (NN satisfaction)) (, ,) (PP (IN like) (NP (NP (NNS tourists)) (VP (VBG cataloging) (NP (NP (DT the) (NNS sights)) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN seen) (PP (IN from) (NP (NP (DT the) (NN window)) (PP (IN of) (NP (DT a) (NN bus)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (RB Not) (RB even) (NP (NNP Jack) (NNP Lemmon) (POS 's)) (NN expert) (JJ doddering)) (VP (VBZ makes) (NP (DT this) (NN trip)) (PP (IN worth) (S (VP (VBG taking))))) (. .)))
+
+(S1 (S (RB So) (NP (PRP it)) (VP (VBZ 's) (ADJP (RB entirely) (JJ possible)) (SBAR (IN that) (`` `) (S (S (`` `) (VP (VB Look) (SBAR (WHNP (WP Who)) (S (VP (VBZ 's) (VP (VBG Talking)))))) ('' ') ('' ')) (VP (VBZ is) (RB n't) (ADJP (ADJP (RB as) (JJ entertaining)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ seems) (PP (IN in) (NP (NP (NN comparison)) (PP (TO to) (NP (NP (DT the) (JJ turgid) (JJ other) (NNS films)) (VP (VBG opening) (ADVP (RB now))))))))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN by) (NP (NN comparison))) (, ,) (NP (DT this) (JJ fluffy) (NN comedy)) (VP (VBZ seems) (PP (IN like) (NP (DT a) (NN gem)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ starts) (PP (IN with) (NP (NN conception))) (, ,) (S (VP (VBG taking) (NP (NP (NP (DT the) (NN sperm) (POS 's)) (NN point)) (PP (IN of) (NP (NN view)))))) (, ,) (S (RB then) (VP (VBZ progresses) (PP (TO to) (NP (NP (NP (DT the) (NN baby) (POS 's)) (NN point)) (PP (IN of) (NP (NN view)))))))) (. .)))
+
+(S1 (S (S (NP (NP (NP (NNP Bruce) (NNP Willis) (POS 's)) (JJS best) (NN attribute)) (PP (IN as) (NP (DT an) (NN actor)))) (VP (VBZ is) (NP (PRP$ his) (JJ coy) (, ,) (JJ lazy) (NN voice)))) (, ,) (CC and) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT all)) (SBAR (S (NP (PRP you)) (VP (VBP get) (PP (IN of) (NP (PRP him))))))) (ADVP (RB here)) (, ,) (S (VP (VBG speaking) (PP (IN for) (NP (DT the) (NN baby))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Finally)) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (CD one) (NN family) (NN movie)) (SBAR (WHNP (WDT that)) (S (VP (ADVP (RB quite) (RB eloquently)) (VBZ explores) (NP (NP (DT the) (NN depth)) (PP (IN of) (NP (JJ human) (NN emotion)))))))))) (: --) (S (NP (RB only) (PRP$ its) (NNS stars)) (VP (VBP are) (NP (NNS bears)))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (JJ second) (NN time))) (, ,) (PP (IN in) (NP (NP (DT a) (NN movie)) (VP (VBN called) (S (`` `) (NP (`` `) (NP (DT The) (NNP Bear)) (, ,) ('' ')) ('' '))))) (NP (NNP French) (NN director) (NNP Jean-Jacques) (NNP Annaud)) (VP (VBZ demonstrates) (SBAR (WHNP (WHADJP (RB just) (WRB how) (JJ powerful)) (NNS pictures)) (S (VP (MD can) (VP (VB be)))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (`` `) (NP (`` `) (NNP Quest) (IN for) (NNP Fire) ('' ')) ('' ')) (VP (VBD was) (NP (DT the) (JJ first) (NN time))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (S (VP (TO To) (VP (VB be) (ADJP (JJ sure))))) (, ,) (NP (PRP one)) (VP (VBZ wonders) (SBAR (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NN man)))) (S (VP (VBZ is) (NP (NP (DT this)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ feels) (VP (VBN compelled) (S (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VP (VB understand) (NP (DT the) (ADJP (RBS most) (JJ primitive)) (NN longing))) (CC and) (VP (VB instinct) (PP (IN in) (NP (NP (DT a) (NN way)) (SBAR (WHNP (WDT that)) (S (VP (VBZ requires) (NP (NP (DT the) (ADJP (RBS most) (JJ sophisticated)) (NN appreciation)) (PP (IN of) (NP (JJ visual) (NN storytelling))))))))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Supposedly)) (, ,) (NP (PRP he)) (VP (VBD proposed) (NP (DT the) (NN movie)) (PP (TO to) (NP (NP (PRP$ his) (NN producer)) (, ,) (NP (NNP Claude) (NNP Berri)))) (, ,) (PP (IN in) (NP (CD four) (NNS lines)))) (: :)))
+
+(S1 (FRAG (`` `) (`` `) (NP (DT An) (JJ orphan) (NN bear) (NN cub)) (. .)))
+
+(S1 (FRAG (NP (DT A) (JJ big) (JJ solitary) (NN bear)) (. .)))
+
+(S1 (NP (NP (CD Two) (NNS hunters)) (PP (IN in) (NP (DT the) (NN forest))) (. .)))
+
+(S1 (S (NP (DT The) (NNS animals) (POS ')) (VP (VBP point) (PP (IN of) (NP (NN view)))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (ADVP (RB then)) (, ,) (NP (RB even) (DT a) (JJ great) (JJ many) (NNS words)) (VP (MD could) (RB n't) (VP (VB summarize) (S (NP (DT the) (JJ extraordinary)) (VP (VB pull) (PP (IN of) (NP (DT this) (NN movie))) (PP (IN about) (NP (NP (DT an) (JJ orphaned) (NN bear)) (SBAR (WHNP (WP who)) (S (VP (VBZ adopts) (NP (DT a) (NN parent))))))))))) (. .)))
+
+(S1 (NP (NN Video) (NN Tip) (: :)))
+
+(S1 (S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJS best) (NNS movies)) (PP (IN about) (NP (NP (DT the) (JJ child-parent) (NN thing)) (PP (IN in) (NP (JJ recent) (NNS years)))))))) (VP (VBD was) (`` `) (S (`` `) (VP (VBG Raising) (NP (NNP Arizona))) (, ,) ('' ')) ('' ') (NP (NP (DT the) (CD 1987) (NNP Coen) (NNS brothers) (POS ')) (NN comedy) (SBAR (IN that) (S (ADVP (RB definitely)) (VP (VBD was) (RB not) (PP (IN about) (NP (DT the) (NNS folks))) (NP (JJ next) (NN door))))))) (. .)))
+

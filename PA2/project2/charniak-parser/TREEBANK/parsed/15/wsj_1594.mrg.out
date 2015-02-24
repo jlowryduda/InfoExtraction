@@ -1,0 +1,58 @@
+(S1 (S (NP (NN Health-care) (NNS companies)) (VP (MD should) (VP (VB get) (ADJP (JJR healthier)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))))) (. .)))
+
+(S1 (S (S (NP (JJ Medical-supply) (NNS houses)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB report) (NP (NP (NNS earnings) (NNS increases)) (PP (IN of) (NP (QP (RB about) (CD 15)) (NN %)))) (PP (IN on) (NP (NN average))) (PP (IN for) (NP (DT the) (JJ third) (NN quarter)))))) (, ,) (PP (IN despite) (NP (NP (NNS sales) (NNS increases)) (PP (IN of) (NP (QP (JJR less) (IN than) (CD 10)) (NN %)))))))) (, ,) (NP (NNS analysts)) (VP (VBP say)) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB offset) (NP (JJ sluggish) (NNS sales) (NN growth))))) (, ,) (NP (NNS companies)) (VP (VBP have) (VP (VBN been) (S (VP (VP (VBG cutting) (NP (NN staff)) (, ,) (PP (ADVP (RB mostly)) (IN through) (NP (NN attrition)))) (, ,) (CC and) (VP (VBG slowing) (NP (NP (DT the) (NN growth)) (PP (IN in) (NP (NN research) (CC and) (NN development)))) (NP (NN spending))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Sales) (NN growth)) (PP (IN in) (NP (DT the) (NN quarter)))) (VP (VBD was) (VP (VBN slowed) (PP (IN by) (NP (NP (VBG mounting) (NN pressure)) (PP (IN from) (NP (NP (NNS groups)) (PP (IN of) (NP (NNS buyers))) (, ,) (PP (JJ such) (IN as) (NP (NNS hospitals))))))) (, ,) (S (VP (TO to) (VP (VB hold) (PRT (RP down)) (NP (NNS prices))))))) (. .)))
+
+(S1 (S (NP (NNS Suppliers)) (VP (VBD were) (ADVP (RB also)) (VP (VBN hurt) (PP (IN by) (NP (DT the) (JJR stronger) (NNP U.S.) (NN dollar))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (S (NP (NNS sales)) (ADJP (ADVP (RB abroad) (RBR more)) (JJ difficult)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT some) (NNS cases))) (, ,) (NP (NN competition)) (VP (VBZ has) (VP (VBD squeezed) (NP (NNS margins)))) (. .)))
+
+(S1 (S (NP (NNP Becton) (, ,) (NNP Dickinson) (CC &) (NNP Co.)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBZ faces) (NP (NP (JJ stiff) (NN competition)) (PP (IN from) (NP (NP (DT a) (JJ Japanese) (NN supplier)) (PP (IN in) (NP (DT the) (JJ important) (NN syringe) (NN market))))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NAC (NNP Franklin) (NNPS Lakes) (, ,) (NNP N.J.) (, ,)) (NN company)) (VP (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB report) (NP (NP (NNS sales) (NN growth)) (PP (IN of) (NP (QP (RB only) (CD 5) (NN %) (TO to) (CD 6) (NN %)))))))))) (, ,) (CC but) (VP (MD should) (ADVP (RB still)) (VP (VB maintain) (NP (NP (NNS earnings) (NN growth)) (PP (IN of) (NP (CD 10) (NN %)))))))) (, ,) (VP (VBZ says)) (NP (NP (NP (NNP Jerry) (NNP E.)) (JJR Fuller)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP Duff) (CC &) (NNP Phelps) (NNP Inc))))) (. .)))
+
+(S1 (S (PP (IN Among) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (DT the) (NN group) (S (VP (TO to) (VP (VB post) (NP (NNS results))))))))) (, ,) (NP (NNP Abbott) (NNP Laboratories)) (VP (VBD said) (SBAR (S (NP (JJ third-quarter) (JJ net) (NN income)) (VP (VBD jumped) (NP (CD 14) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 196) (CD million))) (, ,) (CC or) (NP (NP (CD 88) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 172) (CD million))) (, ,) (CC or) (NP (NP (CD 76) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Sales)) (PP (IN for) (NP (DT the) (NN company))) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Abbott) (NNP Park)) (, ,) (NP (NNP Ill.))))) (, ,)) (VP (VBD rose) (NP (CD 8.3) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 1.31) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 1.21) (CD billion))))) (. .)))
+
+(S1 (S (NP (NNP Baxter) (NNP International) (NNP Inc.)) (NP (NN yesterday)) (VP (VBD reported) (SBAR (S (NP (NN net)) (VP (VBD climbed) (NP (NP (CD 20) (NN %)) (PP (IN in) (NP (DT the) (JJ third) (NN period)))) (PP (TO to) (NP (NP (QP ($ $) (CD 102) (CD million))) (, ,) (CC or) (NP (NP (CD 34) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 85) (CD million))) (, ,) (CC or) (NP (NP (CD 28) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Sales)) (PP (IN for) (NP (DT the) (NAC (NNP Deerfield) (, ,) (NNP Ill.) (, ,)) (NN company)))) (VP (VBD rose) (NP (CD 5.8) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 1.81) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 1.71) (CD billion))))) (. .)))
+
+(S1 (S (CC But) (RB not) (NP (DT every) (NN company)) (VP (VBZ expects) (S (VP (TO to) (VP (VB report) (NP (VBN increased) (NNS earnings)))))) (. .)))
+
+(S1 (S (NP (NNP C.R.) (NNP Bard) (NNP Inc.)) (NP (NN yesterday)) (VP (VBD said) (SBAR (S (NP (JJ third-quarter) (NN net)) (VP (VBD plunged) (NP (CD 51) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 9.9) (CD million))) (, ,) (CC or) (NP (NP (CD 18) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 20) (CD million))) (, ,) (CC or) (NP (NP (CD 35) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD fell) (NP (CD 1.2) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 190.1) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 192.5) (CD million))))) (. .)))
+
+(S1 (S (NP (DT The) (NAC (NNP Murray) (NNP Hill) (, ,) (NNP N.J.) (, ,)) (NN company)) (VP (VBD said) (SBAR (S (NP (JJ full-year) (NNS earnings)) (VP (MD may) (VP (VB be) (PP (IN off) (NP (NP (CD 33) (NNS cents)) (NP (DT a) (NN share)))) (SBAR (IN because) (S (NP (DT the) (NN company)) (VP (VBD removed) (NP (DT a) (NN catheter)) (PP (IN from) (NP (DT the) (NN market))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1988))) (, ,) (NP (DT the) (NN company)) (VP (VBD earned) (NP (NP ($ $) (CD 1.38)) (NP (DT a) (NN share)))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Food) (CC and) (NNP Drug) (NNP Administration)) (VP (VBD had) (VP (VBN raised) (NP (NP (NNS questions)) (PP (IN about) (NP (NP (DT the) (NN device) (POS 's)) (NN design)))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS analysts)) (VP (VBP add) (SBAR (IN that) (S (NP (JJ third-party) (NNS pressures) (S (VP (TO to) (VP (VB reduce) (NP (NN health) (NNS costs)))))) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB bedevil) (NP (NP (NNS companies) (POS ')) (NN bottom) (NNS lines)))))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (NN Takeover) (NN speculation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (VP (VBG buoying) (NP (NP (NNS stocks)) (PP (IN of) (NP (NN supply) (NNS houses))))))))) (, ,)) (VP (MD may) (ADVP (RB also)) (VP (VB ease)))) (, ,) (VP (VBZ says)) (NP (NP (NNP Peter) (NNP Sidoti)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN As) (S (NP (DT that)) (VP (VBZ wanes)))) (, ,) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB see) (S (NP (DT the) (NNS stocks)) (ADVP (RB probably)) (VP (VB wane) (ADVP (RB as) (RB well)))))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNS Hospitals) (NNS companies)) (, ,) (ADVP (RB meanwhile)) (, ,) (VP (VBP are) (VP (VBG reporting) (NP (JJ improved) (NNS earnings)))) (. .)))
+
+(S1 (S (S (VP (VBN Bolstered) (PP (IN by) (NP (NP (JJ strong) (NNS performances)) (PP (IN by) (NP (PRP$ its) (JJ psychiatric) (NNS hospitals))))))) (, ,) (NP (NP (NNP National) (NNP Medical) (NNPS Enterprises) (NNP Inc.)) (, ,) (NP (NNP Los) (NNP Angeles)) (, ,)) (VP (VBD reported) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP (QP ($ $) (CD 50) (CD million))) (, ,) (CC or) (NP (NP (CD 65) (NNS cents)) (NP (DT a) (NN share))) (, ,)))) (PP (IN for) (NP (NP (DT the) (JJ first) (NN quarter)) (VP (VBN ended) (NP (NNP Aug.) (CD 31))))) (, ,) (ADVP (RB up) (PP (IN from) (NP (NP (QP ($ $) (CD 41) (CD million))) (, ,) (CC or) (NP (NP (CD 56) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+
+(S1 (S (NP (NNP Humana) (NNP Inc.)) (, ,) (NP (NP (NNP Louisville)) (, ,) (NP (NNP Ky.)) (, ,)) (ADVP (RB also)) (VP (VBD reported) (NP (JJ favorable) (NNS results)) (, ,) (PP (IN with) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP (QP ($ $) (CD 66.7) (CD million))) (, ,) (CC or) (NP (NP (CD 66) (NNS cents)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ fourth) (NN quarter)) (VP (VBN ended) (NP (NNP Aug.) (CD 31)))))) (, ,))) (ADVP (RB up) (PP (IN from) (NP (NP (QP ($ $) (CD 58.2) (CD million))) (, ,) (CC or) (NP (CD 59) (NNS cents)) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBP say) (SBAR (S (NP (NP (DT the) (NN handful)) (PP (IN of) (NP (NP (NN hospital) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB still)) (VP (ADVP (RB publicly)) (VBN traded)))))))) (VP (VBP are) (VP (VBG benefiting) (PP (IN from) (NP (JJ several) (NNS trends)))))))) (. .)))
+
+(S1 (S (ADJP (RBS Most) (JJ important)) (, ,) (NP (NN hospital) (NN admission) (NNS rates)) (VP (VBP are) (VP (VBG stabilizing) (PP (IN after) (NP (NP (JJ several) (NNS years)) (PP (IN of) (NP (NN decline))))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (NNS companies)) (VP (VP (VBP have) (VP (VBN sold) (PRT (RP off)) (NP (NP (JJ many)) (PP (IN of) (NP (PRP$ their) (JJR smaller) (, ,) (ADJP (JJ less-profitable)) (NNS hospitals)))))) (CC and) (VP (VBP have) (VP (VBN completed) (NP (JJ painful) (NNS restructurings))))) (. .)))
+
+(S1 (S (NP (NP (NNP Humana) (POS 's)) (NNS revenues)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBP are) (VP (VBG being) (VP (VBN boosted) (PP (IN by) (NP (NP (JJ large) (NNS increases)) (PP (IN in) (NP (NP (NNS enrollments)) (PP (IN in) (NP (NP (DT the) (NN company) (POS 's)) (NN health) (NN maintenance) (NNS organizations)))))))))) (. .)))
+
+(S1 (SINV (VP (VBZ Says)) (NP (NP (NNP Todd) (NNP Richter)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP Dean) (NNP Witter) (NNP Reynolds))))) (: :) (`` `) (S (`` `) (NP (NP (DT The) (NN shakeout)) (PP (IN in) (NP (DT the) (ADJP (RB publicly) (VBN traded)) (NNS companies)))) (VP (VBZ is) (ADJP (IN over)))) (. .)))
+

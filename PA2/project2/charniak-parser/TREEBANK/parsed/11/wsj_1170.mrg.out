@@ -1,0 +1,12 @@
+(S1 (S (NP (NNP Safeway) (NNPS Stores) (NNP Inc.)) (VP (VP (VBD reported) (NP (NP (DT a) (ADJP (CD 69) (NN %)) (NN decline)) (PP (IN in) (NP (NN profit)))) (PP (IN for) (NP (DT the) (JJ fiscal) (JJ third) (NN quarter)))) (, ,) (CC but) (VP (VBD said) (SBAR (S (NP (NN operating) (NNS improvements)) (VP (VBD were) (VP (VBN masked) (PP (IN by) (NP (NP (JJ unusual) (NNS gains)) (PP (IN in) (NP (DT the) (JJ year-earlier) (NN period))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Oakland) (NN grocery) (NN retailer)) (, ,) (VP (ADVP (RB closely)) (VBN held) (PP (IN since) (NP (NP (DT a) (ADJP (QP ($ $) (CD 4.2) (CD billion))) (JJ leveraged) (NN buy-out)) (PP (IN in) (NP (CD 1986)))))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (NN profit)) (PP (IN for) (NP (NP (DT the) (CD three) (NNS months)) (VP (VBN ended) (NP (NNP Sept.) (CD 9)))))) (VP (VBD was) (NP (NP (QP ($ $) (CD 7.1) (CD million))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (QP ($ $) (CD 23) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (VBD said) (SBAR (S (NP (DT the) (JJ year-earlier) (NNS results)) (VP (VBD included) (NP (NP (NNS gains)) (PP (IN of) (NP (QP ($ $) (CD 23.5) (CD million)))) (PP (IN from) (NP (NNS divestitures)))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD rose) (NP (CD 4.2) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 3.31) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 3.2) (CD billion))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (CD nine) (NNS months))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (NN profit)) (VP (VBD fell) (NP (CD 49) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 23.5) (CD million)))) (PP (IN from) (NP (NP (QP ($ $) (CD 46) (CD million))) (PP (IN in) (NP (NP (DT the) (JJ year-earlier) (NN quarter)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD included) (NP (NP (JJ divestiture-related) (NNS gains)) (PP (IN of) (NP (QP ($ $) (CD 50.6) (CD million)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD increased) (NP (CD 5.5) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 9.81) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 9.3) (CD billion))))) (. .)))
+

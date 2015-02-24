@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP MEDICINE) (NNP SHOPPE) (NNP INTERNATIONAL) (NNP Inc.)) (VP (VP (VBD declared) (NP (DT a) (JJ 3-for-2) (NN stock) (NN split))) (, ,) (CC and) (VP (ADVP (RB substantially)) (VBD boosted) (NP (DT the) (NN dividend) (NN payout)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN franchiser)) (PP (IN of) (NP (NNS pharmacies)))) (VP (VBD said) (SBAR (S (NP (DT the) (VBN added) (NNS shares)) (VP (MD will) (VP (VB be) (VP (VBN distributed) (NP (NNP Dec.) (CD 4)) (PP (TO to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 13)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VBD changed) (NP (NP (PRP$ its) (NN dividend) (NN policy)) (, ,) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (NNS holders)) (VP (VBD had) (VP (VBN received) (NP (DT an) (JJ annual) (ADJP (CD 10) (NN cents-a-share)) (NN payment)) (, ,) (PP (IN by) (S (VP (VBG declaring) (NP (NP (DT a) (JJ four-cents-a-share) (NN dividend)) (, ,) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN paid) (ADVP (RB quarterly)) (PP (IN on) (NP (JJ post-split) (NNS shares)))))))))))))))))) (. .)))
+

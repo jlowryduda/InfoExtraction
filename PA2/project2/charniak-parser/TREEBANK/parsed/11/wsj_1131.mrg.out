@@ -1,0 +1,132 @@
+(S1 (S (NP (JJ Few) (NNS people)) (VP (VBP are) (ADJP (JJ aware) (SBAR (IN that) (S (NP (DT the) (JJ federal) (NN government)) (VP (VBZ lends) (NP (ADJP (RB almost) (IN as) (JJ much)) (NN money)))))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ borrows))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (CD 1980) (TO to) (CD 1988))) (, ,) (SBAR (IN while) (S (NP (JJ federal) (NN budget) (NNS deficits)) (VP (VBD totaled) (NP (QP ($ $) (CD 1.41) (CD trillion)))))) (, ,) (NP (DT the) (NN government)) (VP (VBD issued) (NP (NP (QP ($ $) (CD 394) (CD billion))) (PP (IN of) (NP (NP (JJ new) (JJ direct) (NNS loans)) (CC and) (NP (NP (DT an) (JJ additional) (QP ($ $) (CD 756) (CD billion))) (PP (IN of) (NP (JJ new) (JJ primary) (NN loan) (NNS guarantees)))))))) (. .)))
+
+(S1 (S (NP (DT These) (NNS figures)) (VP (VBP omit) (NP (NP (JJ secondary) (NNS guarantees)) (, ,) (NP (NN deposit) (NN insurance)) (, ,) (CC and) (NP (NP (DT the) (NNS activities)) (PP (IN of) (NP (NP (JJ Government-Sponsored) (NNPS Enterprises)) (PRN (-LRB- -LRB-) (NP (NP (DT a) (JJ huge) (NN concern)) (PP (IN in) (NP (PRP$ its) (JJ own) (NN right))) (, ,) (SBAR (IN as) (S (VP (VBN detailed) (PP (IN on) (NP (DT this) (NN page))) (NP (NNP May) (CD 3)))))) (-RRB- -RRB-))))))) (. .)))
+
+(S1 (S (NP (JJ Federal) (NN credit) (NNS programs)) (VP (VP (VBP date) (ADVP (RB back)) (PP (TO to) (NP (DT the) (NNP New) (NNP Deal)))) (, ,) (CC and) (VP (VBD were) (VP (VBN meant) (S (VP (TO to) (VP (VB break) (ADVP (RB even)) (ADVP (RB financially)))))))) (. .)))
+
+(S1 (S (PP (IN Since) (NP (DT the) (CD 1950s))) (, ,) (NP (JJ federal) (NN lending)) (VP (VBZ has) (VP (VBN experienced) (NP (NP (JJ extraordinary) (NN growth)) (PP (IN in) (NP (NP (NN credit) (NN volume)) (, ,) (NP (NN subsidy) (NNS rates)) (, ,) (CC and) (NP (NN policy) (NNS applications)))) (, ,) (VP (VBD spurred) (PRT (RP on)) (PP (IN by) (NP (NP (NP (DT the) (NN growth)) (PP (IN of) (NP (NN government))) (PP (IN in) (ADJP (JJ general)))) (CC and) (NP (NP (NP (NN budget) (NNS gimmicks)) (CC and) (NP (JJ deceptive) (NN management))) (PP (IN in) (ADJP (JJ particular)))))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (PRP we)) (VP (MD will) (VP (VB see))))) (, ,) (NP (NP (JJ many)) (PP (IN of) (NP (DT these) (NNS obligations)))) (VP (VBP do) (RB n't) (VP (VB show) (PRT (RP up)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (JJ federal) (NN deficit))))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ recent) (NNS events)) (VP (VBP indicate) (SBAR (IN that) (S (NP (JJ federal) (NN credit)) (VP (VBZ is) (PP (IN out) (PP (IN of) (NP (NN control)))))))) (. .)))
+
+(S1 (S (S (NP (NN Student) (NN loan) (NNS defaults)) (VP (VBP remain) (ADJP (JJ high)) (PP (IN at) (NP (QP (RB about) (CD 12)) (NN %))))) (, ,) (CC and) (S (NP (DT the) (NN program)) (VP (VBZ has) (VP (VBN been) (VP (VBN rocked) (PP (IN by) (NP (NP (NNS allegations)) (PP (IN of) (NP (NN fraud) (CC and) (NN mismanagement))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NP (NNP Farmers) (NNP Home) (NNP Administration)) (PRN (-LRB- -LRB-) (NP (NNP FmHA)) (-RRB- -RRB-))) (NNS loans)) (VP (VBP have) (VP (VBN turned) (PP (IN into) (NP (ADJP (FW de) (FW facto)) (NN giveaway) (NNS programs)))))) (: ;) (S (NP (NP (NNS losses)) (PP (IN over) (NP (DT the) (JJ next) (CD three) (NNS years)))) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB exceed) (NP (QP ($ $) (CD 20) (CD billion))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Defaults)) (PP (IN on) (NP (NNP Veterans) (NNP Affairs) (NN loan) (NNS guarantees)))) (VP (VBP have) (VP (VBN quadrupled) (PP (IN in) (NP (DT the) (JJ past) (CD eight) (NNS years))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN month)) (, ,) (NP (DT the) (NNP General) (NNP Accounting) (NNP Office)) (VP (VBD reported) (SBAR (SBAR (IN that) (S (NP (NP (NNS defaults)) (PP (IN in) (NP (NNP Federal) (NNP Housing) (NNP Administration) (NNS guarantees)))) (VP (VBD were) (NP (CD five) (NNS times)) (ADVP (ADVP (RB as) (JJ high)) (PP (IN as) (ADJP (RB previously) (VBN estimated))))))) (, ,) (CC and) (SBAR (IN that) (S (NP (NP (NNP FHA) (POS 's)) (NN equity)) (VP (VBD fell) (PP (TO to) (NP (IN minus) (QP ($ $) (CD 2.9) (CD billion))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP GAO) (POS 's)) (NNS findings)) (VP (VP (VBP are) (ADJP (RB particularly) (JJ troubling)) (SBAR (IN because) (S (NP (DT the) (NNP FHA)) (VP (VBZ has) (NP (NP (QP (RB about) ($ $) (CD 300) (CD billion))) (PP (IN in) (NP (NP (NNS obligations)) (ADJP (JJ outstanding))))))))) (CC and) (VP (VBD had) (ADVP (RB previously)) (VP (VBN been) (VP (VBN considered) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (RB financially) (JJ secure)) (NN credit) (NNS programs)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Scores)) (PP (IN of) (NP (NP (JJ other) (NN credit) (NNS programs)) (, ,) (PP (VBG subsidizing) (NP (NP (NN agriculture)) (, ,) (NP (JJ small) (NN business)) (, ,) (NP (NNS exporters) (, ,) (NN defense) (, ,) (NN energy) (, ,) (NN transportation) (CC and) (NNS others)) (, ,)))))) (VP (VBP are) (UCP (ADJP (RBR less) (JJ visible)) (CC but) (PP (IN in) (NP (DT no) (JJR better) (NN shape))))) (. .)))
+
+(S1 (S (S (SBAR (IN If) (S (NP (DT the) (NNS programs)) (VP (VBP continue) (NP (PRP$ their) (JJ present) (NN path))))) (, ,) (NP (DT the) (JJ potential) (NN government) (NNS losses)) (VP (VBP are) (ADJP (JJ staggering)))) (: :) (S (NP (DT The) (JJ federal) (NN government)) (VP (VP (VBZ holds) (NP (NP (QP ($ $) (CD 222) (CD billion))) (PP (IN in) (NP (NP (JJ direct) (NNS loans)) (ADJP (JJ outstanding)))))) (CC and) (VP (VBZ backs) (NP (NP (DT an) (JJ additional) (QP ($ $) (CD 550) (CD billion))) (PP (IN in) (NP (JJ primary) (NNS guarantees))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (NP (JJ Secondary) (NNS guarantees)) (PP (IN of) (NP (NP (NNS pools)) (PP (IN of) (NP (NP (NNP FHA) (: -) (CC and) (JJ VA-backed) (NNS loans)) (PP (IN by) (NP (NP (DT the) (NN agency)) (VP (VBN known) (PP (IN as) (NP (NNP Ginnie) (NNP Mae))))))))))) (ADVP (RB currently)) (VP (VBP exceed) (NP (QP ($ $) (CD 330) (CD billion)))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (SBAR (IN Although) (S (NP (JJ external) (NNS events)) (VP (VBP have) (VP (VBN contributed) (PP (TO to) (NP (DT the) (NN morass))))))) (, ,) (NP (NP (DT the) (JJ principal) (NNS causes)) (PP (IN of) (NP (DT the) (JJ current) (NN crisis)))) (VP (VBP are) (ADJP (JJ internal) (CC and) (JJ generic) (PP (TO to) (NP (DT all) (NNS programs))))) (. .)))
+
+(S1 (S (S (S (VP (TO To) (VP (VB reduce) (NP (DT the) (NNS risks)) (SBAR (IN while) (S (ADVP (RB still)) (VP (VBG retaining) (NP (NP (DT the) (JJ legitimate) (NNS benefits)) (SBAR (S (NP (DT these) (NNS programs)) (VP (MD can) (VP (VB provide)))))))))))) (, ,) (NP (NN credit) (NN policy)) (VP (MD must))) (: :) (S (LST (LS 1) (. .)) (VP (VB Use) (NP (NN credit)) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN operation)) (PP (IN of) (NP (NP (NN capital) (NNS markets)) (, ,) (CONJP (RB not) (TO to) (VB provide)) (NP (NNS subsidies)))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (JJ fundamental) (NN conflict)) (PP (IN between) (S (VP (VP (VBG providing) (NP (DT a) (NN subsidy))) (CC and) (VP (VBG maintaining) (NP (NP (DT the) (NN integrity)) (PP (IN of) (NP (DT a) (NN credit) (NN program)))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NN program)) (VP (VBZ is) (VP (VBN meant) (S (VP (TO to) (VP (VB provide) (NP (DT a) (NN subsidy))))))))) (, ,) (S (VP (VBG collecting) (NP (DT the) (NN debt)))) (VP (VBZ defeats) (NP (DT the) (JJ original) (NN goal))) (. .)))
+
+(S1 (S (ADVP (RB Thus)) (, ,) (NP (JJ subsidized) (NNS loans)) (VP (VBP tend) (S (VP (TO to) (VP (VB turn) (PP (IN into) (NP (NN giveaway) (NNS programs))) (, ,) (PP (IN with) (S (VP (VBG increasing) (NP (NN subsidy) (CC and) (NN default) (NNS rates)) (PP (IN over) (NP (NN time)))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB avoid) (NP (DT this) (NN problem))))) (, ,) (NP (NN government)) (VP (MD should) (VP (VB issue) (NP (NN credit)) (SBAR (RB only) (IN if) (S (NP (PRP it)) (VP (VBZ intends) (S (VP (TO to) (VP (VB use) (NP (DT every) (JJ legal) (NN method)) (S (VP (TO to) (VP (VB collect)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN contrast))) (, ,) (NP (NN credit) (NNS programs)) (VP (MD can) (VP (VB be) (ADJP (JJ appropriate)) (S (NP (NNS tools)) (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN operation)) (PP (IN of) (NP (NN capital) (NNS markets))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (JJ legal) (NNS restrictions)) (PP (IN on) (NP (JJ interstate) (NN banking)))) (ADVP (RB once)) (VP (VBD inhibited) (NP (NP (DT the) (NN supply)) (PP (IN of) (NP (NN credit)))) (PP (TO to) (NP (DT the) (JJ agricultural) (NN sector)))) (. .)))
+
+(S1 (S (NP (NNP Farm) (NN lending)) (VP (VBD was) (VP (VBN enacted) (S (VP (TO to) (VP (VB correct) (NP (DT this) (NN problem)) (PP (IN by) (S (VP (VBG providing) (NP (NP (DT a) (JJ reliable) (NN flow)) (PP (IN of) (NP (JJ lendable) (NNS funds)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (DT this)) (PP (IN in) (NP (DT no) (NN way))) (VP (VBZ justifies) (NP (NP (DT the) (JJ huge) (NN government) (NNS subsidies) (CC and) (NNS losses)) (PP (IN on) (NP (JJ such) (NNS loans))))) (. .)))
+
+(S1 (S (NP (NN Credit) (NN policy)) (VP (MD should) (VP (VP (VB separate) (NP (DT these) (CD two) (VBG competing) (NNS objectives))) (CC and) (VP (VB eliminate) (NP (NP (NNS aspects)) (SBAR (WHNP (WDT that)) (S (VP (VBP provide) (NP (DT the) (NN subsidy))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (NN student) (NNS loans)) (ADVP (RB currently)) (VP (VBP attempt) (S (VP (TO to) (VP (VB subsidize) (NP (NP (NN college) (NN attendance) (CC and) (VB mitigate) (NNS problems)) (VP (VBN created) (PP (IN by) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (NP (NNS students) (POS ')) (JJ future) (NNS earnings)) (VP (VBP are) (RB not) (VP (VBN accepted) (PP (IN as) (NP (NN collateral))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN program)) (VP (VBZ provides) (NP (NP (ADJP (RB highly) (VBN subsidized)) (NNS loans)) (PP (TO to) (NP (NP (DT any) (NN student)) (SBAR (WHNP (WP$ whose) (NN family)) (S (VP (VBZ earns) (NP (NP (JJR less)) (PP (IN than) (NP (DT a) (JJ particular) (NN amount))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ High) (NN default) (NNS rates)) (, ,) (NP (DT a) (JJ low) (NN interest) (NN rate)) (, ,) (CC and) (NP (NP (NN government) (NN coverage)) (PP (IN of) (NP (NP (DT all) (NN interest) (NNS costs)) (SBAR (IN while) (S (NP (DT the) (NN student)) (VP (VBZ is) (PP (IN in) (NP (NN school)))))))))) (VP (VBP make) (S (NP (NN program) (NNS costs)) (ADJP (RB extremely) (JJ high)))) (. .)))
+
+(S1 (S (NP (NP (NNS Families)) (SBAR (WHNP (WDT that)) (S (VP (VBP do) (RB not) (VP (VB need) (NP (DT the) (NN loan))))))) (VP (MD can) (VP (VB make) (NP (NN money)) (PP (ADVP (RB simply)) (IN by) (S (VP (VP (VBG putting) (NP (DT the) (NN loan)) (PP (IN in) (NP (DT the) (NN bank)))) (CC and) (VP (VBG paying) (NP (PRP it))) (ADVP (RB back)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN student)) (VP (VBZ graduates))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN contrast))) (, ,) (NP (NP (DT a) (NN student) (NN loan) (NN program)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN meant) (ADVP (RB solely)) (S (VP (TO to) (VP (VB correct) (NP (JJ capital-market) (NNS imperfections)))))))))) (VP (MD would) (VP (VB allow) (NP (NNS loans)) (PP (IN for) (NP (DT any) (NN student))) (, ,) (ADVP (RB regardless) (PP (IN of) (NP (NN family) (NN income)))) (, ,) (PP (IN at) (NP (NN market) (CC or) (NN near-market) (NNS rates))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (DT the) (NN student)) (VP (VBD was) (PP (IN in) (NP (NN school)))))) (, ,) (NP (NN interest) (NNS costs)) (VP (MD would) (ADVP (RB either)) (VP (VB be) (VP (VP (VBN paid) (PP (IN by) (NP (DT the) (NN student)))) (CC or) (VP (VBN added) (PP (TO to) (NP (DT the) (NN loan) (NN balance))))))) (. .)))
+
+(S1 (S (NP (NP (DT This) (NN program)) (, ,) (VP (VBN combined) (PP (IN with) (NP (NP (NN cash) (NNS grants)) (PP (TO to) (NP (JJ needy) (NNS students)))))) (, ,)) (VP (MD would) (VP (VP (VB reduce) (NP (NN program) (NNS costs))) (CC and) (VP (ADVP (RB much) (RBR more) (RB effectively)) (VB target) (NP (DT the) (VBN intended) (NNS beneficiaries))))) (. .)))
+
+(S1 (S (LST (LS 2) (. .)) (VP (VBP Provide) (NP (JJR better) (NNS incentives))) (. .)))
+
+(S1 (S (PP (VBN Given) (NP (NP (DT the) (NN structure)) (PP (IN of) (NP (JJS most) (NN credit) (NNS programs))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ surprising)) (SBAR (IN that) (S (NP (NN default) (NNS rates)) (VP (VBP are) (RB not) (ADJP (RB even) (JJR higher)))))) (. .)))
+
+(S1 (S (NP (NN Guarantee) (NNS rates)) (VP (VBP are) (ADVP (RB typically) (NP (CD 100) (NN %))) (, ,) (S (VP (VBG giving) (NP (NNS lenders)) (NP (NP (JJ little) (NN reason)) (SBAR (S (VP (TO to) (VP (VB screen) (NP (NNS customers)) (ADVP (RB carefully)))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Reducing) (NP (DT those) (NNS rates)) (ADVP (RB moderately)))) (PRN (-LRB- -LRB-) (S (VP (VB say) (, ,) (PP (TO to) (NP (CD 75) (NN %))))) (-RRB- -RRB-)) (VP (MD would) (ADVP (RB still)) (VP (VB provide) (NP (JJ substantial) (NN assistance)) (PP (TO to) (NP (NNS borrowers))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (MD would) (ADVP (RB also)) (VP (VB encourage) (S (NP (NNS lenders)) (VP (TO to) (VP (VP (VB choose) (NP (JJR more) (NN creditworthy) (NNS customers))) (, ,) (CC and) (VP (VB go) (NP (NP (DT a) (JJ long) (NN way)) (PP (IN toward) (S (VP (VBG reducing) (NP (NNS defaults)))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (DT the) (NNP Small) (NNP Business) (NNP Administration)) (VP (VBZ has) (VP (VBN had) (NP (JJ reasonable) (NN success)) (PP (IN in) (S (VP (VBG reducing) (NP (DT both) (NN guarantee) (NNS rates) (CC and) (NN default) (NNS rates))))) (PP (IN in) (NP (NP (PRP$ its) (JJ Preferred) (NNS Lenders) (POS ')) (NN Program))))) (. .)))
+
+(S1 (S (NP (NP (NNS Borrowers) (POS ')) (NNS incentives)) (VP (VBP are) (ADJP (RB equally) (VBN skewed))) (. .)))
+
+(S1 (S (SBAR (IN Since) (S (NP (DT the) (NN government)) (VP (VBZ has) (NP (NP (DT a) (JJ dismal) (NN record)) (PP (IN of) (S (VP (VBG collecting) (NP (JJ bad) (NNS debts))))))))) (, ,) (NP (NP (DT the) (NNS costs)) (PP (TO to) (NP (NP (DT the) (NN borrower)) (PP (IN of) (NP (VBG defaulting)))))) (VP (VBP are) (ADVP (RB usually)) (ADJP (JJ low))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADVP (RB often)) (ADJP (JJ possible) (S (VP (TO to) (VP (VB obtain) (NP (DT a) (JJ new) (NN government) (NN loan)) (SBAR (RB even) (IN if) (S (NP (VBG existing) (NNS debts)) (VP (VBP are) (RB not) (VP (VBN paid) (PRT (RP off))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Simple) (NN policy) (NNS prescriptions)) (PP (IN in) (NP (DT this) (NN case)))) (VP (MD would) (VP (VB be) (S (VP (VP (TO to) (VP (VB improve) (NP (NP (NN debt) (NN collection)) (PRN (-LRB- -LRB-) (PP (VBG taking) (NP (NP (DT the) (NNS gloves)) (PP (IN off) (NP (VBN contracted) (NN collection) (NNS agencies))))) (-RRB- -RRB-))))) (CC and) (VP (TO to) (VP (VB deny) (NP (JJ new) (NN credit)) (PP (TO to) (NP (NNS defaulters))))))))) (. .)))
+
+(S1 (S (S (NP (DT These) (NNS provisions)) (VP (MD would) (VP (VB be) (ADJP (JJ difficult) (S (VP (TO to) (VP (VB enforce) (PP (IN for) (NP (NP (DT a) (NN program)) (VP (VBN intended) (S (VP (TO to) (VP (VB provide) (NP (DT a) (NN subsidy))))))))))))))) (, ,) (CC but) (S (VP (MD would) (VP (VB be) (ADJP (JJ reasonable) (CC and) (JJ effective)) (NNS devices) (PP (IN for) (NP (NP (NNS programs)) (SBAR (WHNP (WDT that)) (S (VP (VBP attempt) (S (VP (TO to) (VP (VB offset) (NP (NN market) (NNS imperfections))))))))))))) (. .)))
+
+(S1 (S (LST (LS 3) (. .)) (VP (VB Record) (NP (NP (DT the) (JJ true) (NNS costs)) (PP (IN of) (NP (NP (NN credit) (NNS programs)) (PP (IN in) (NP (DT the) (JJ federal) (NN budget))))))) (. .)))
+
+(S1 (S (SBAR (IN Since) (S (NP (DT the) (NN budget)) (VP (VBZ measures) (NP (NN cash) (NN flow))))) (, ,) (NP (DT a) (JJ new) (ADJP ($ $) (CD 1) (JJ direct)) (NN loan)) (VP (VBZ is) (VP (VBN treated) (PP (IN as) (NP (DT a) (ADJP ($ $) (CD 1)) (NN expenditure))) (, ,) (SBAR (RB even) (IN though) (S (NP (NP (ADVP (IN at) (JJS least)) (NN part)) (PP (IN of) (NP (DT the) (NN loan)))) (VP (MD will) (VP (VB be) (VP (VBN paid) (ADVP (RB back))))))))) (. .)))
+
+(S1 (S (NP (NN Loan) (NNS guarantees)) (VP (VBP do) (RB n't) (VP (VB appear) (ADVP (IN at) (DT all)) (PP (IN until) (NP (DT the) (NN borrower) (NNS defaults))) (, ,) (SBAR (IN so) (S (NP (JJ new) (NNS guarantees)) (VP (VBP do) (RB not) (VP (VB raise) (NP (DT the) (NN deficit)) (, ,) (SBAR (RB even) (IN though) (S (NP (PRP they)) (VP (VBP create) (NP (JJ future) (NNS liabilities)) (PP (IN for) (NP (DT the) (NN government)))))))))))) (. .)))
+
+(S1 (S (PP (IN By) (S (VP (VBG converting) (NP (DT an) (NN expenditure) (CC or) (NN loan)) (PP (TO to) (NP (DT a) (NN guarantee)))))) (, ,) (NP (DT the) (NN government)) (VP (MD can) (VP (VP (VB ensure) (NP (NP (DT the) (JJ same) (NN flow)) (PP (IN of) (NP (NNS resources))))) (CC and) (VP (VB reduce) (NP (DT the) (JJ current) (NN deficit))))) (. .)))
+
+(S1 (S (ADVP (RB Predictably)) (, ,) (NP (NP (NNS guarantees)) (ADJP (JJ outstanding))) (VP (VBP have) (VP (VBN risen) (PP (IN by) (NP (QP ($ $) (CD 130) (CD billion)))) (PP (IN since) (NP (CD 1985))) (, ,) (SBAR (IN while) (S (NP (NP (JJ direct) (NNS loans)) (ADJP (JJ outstanding))) (VP (VBP have) (VP (VBN fallen) (PP (IN by) (NP (QP ($ $) (CD 30) (CD billion)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ true) (JJ budgetary) (NN cost)) (PP (IN of) (NP (DT a) (NN credit) (NN subsidy)))) (VP (VBZ is) (NP (NP (DT the) (VBN discounted) (NN value)) (PP (IN of) (NP (NP (DT the) (JJ net) (NNS costs)) (PP (TO to) (NP (NN government))))))) (. .)))
+
+(S1 (S (NP (DT This) (NN figure)) (VP (MD could) (VP (VB be) (VP (VBN estimated) (S (VP (VBG using) (NP (NP (NNS techniques)) (VP (VBN employed) (PP (IN by) (NP (JJ private) (NNS lenders))))) (S (VP (TO to) (VP (VB forecast) (NP (NNS losses)) (, ,) (CC or) (VP (VBN determined) (PP (IN by) (S (VP (VBG selling) (NP (NP (NNS loans)) (PP (TO to) (NP (JJ private) (NNS owners)))) (-LRB- -LRB-) (PP (IN without) (NP (JJ federal) (NNS guarantees))) (-RRB- -RRB-))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT Neither) (NN technique)) (VP (VBZ is) (ADJP (JJ perfect)))) (, ,) (CC but) (S (NP (DT both)) (VP (VBP are) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (NP (DT the) (JJ current) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ misstates) (NP (NP (DT the) (NNS costs)) (PP (IN of) (NP (NP (JJ new) (NN credit) (NNS programs)) (PP (IN by) (NP (NP (NNS amounts)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP vary) (ADVP (RB substantially))) (CC and) (VP (VBP average) (NP (QP (RB about) ($ $) (CD 20) (CD billion))) (ADVP (RB annually)) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NNP Congressional) (NNP Budget) (NNP Office))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN budget)) (SBAR (WHNP (WDT that)) (S (VP (VBD reflected) (NP (NP (DT the) (JJ real) (NNS costs)) (PP (IN of) (NP (NN lending)))))))) (VP (VP (MD would) (VP (VB eliminate) (NP (NNS incentives) (S (VP (TO to) (VP (VB convert) (NP (NN spending) (CC or) (NN lending) (NNS programs)) (PP (TO to) (NP (NNS guarantees))))))))) (CC and) (VP (MD would) (VP (VB let) (S (NP (NNS taxpayers)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (NNP Congress)) (VP (VBZ is) (VP (VBG committing) (NP (PRP them)) (PP (TO to))))))))))) (. .)))
+
+(S1 (S (LST (LS 4) (. .)) (VP (VB Impose) (NP (JJ standard) (UCP (NN accounting) (CC and) (JJ administrative)) (NNS practices))) (. .)))
+
+(S1 (S (NP (JJ Creative) (NN accounting)) (VP (VBZ is) (NP (NP (DT a) (NN hallmark)) (PP (IN of) (NP (JJ federal) (NN credit))))) (. .)))
+
+(S1 (S (NP (JJ Many) (NNS agencies)) (VP (VBP roll) (PRT (RP over)) (NP (PRP$ their) (NN debt)) (, ,) (S (VP (VBG paying) (PRT (RP off)) (NP (JJ delinquent) (NNS loans)) (PP (IN by) (S (VP (VP (VBG issuing) (NP (JJ new) (NNS loans))) (, ,) (CC or) (VP (VBG converting) (NP (VBN defaulted) (NN loan) (NNS guarantees)) (PP (IN into) (NP (JJ direct) (NNS loans)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT any) (NN case))) (, ,) (NP (PRP they)) (VP (VB avoid) (S (VP (VBG having) (S (VP (TO to) (VP (VB write) (PRT (RP off)) (NP (DT the) (NNS loans)))))))) (. .)))
+
+(S1 (S (S (NP (DT Some) (NNS agencies)) (ADVP (RB simply)) (VP (VB keep) (NP (JJ bad) (NNS loans)) (PP (IN on) (NP (DT the) (NNS books))))) (: ;) (S (ADVP (ADVP (RB as) (RB late)) (PP (IN as) (NP (CD 1987)))) (, ,) (NP (DT the) (NNP Export-Import) (NNP Bank)) (VP (VBD held) (PP (IN in) (NP (PRP$ its) (NN portfolio))) (PP (IN at) (NP (NP (NN face) (NN value) (NNS loans)) (VP (VBN made) (PP (TO to) (NP (NNP Cuba))) (PP (IN in) (NP (DT the) (CD 1950s)))))))) (. .)))
+
+(S1 (S (ADVP (RBR More) (RB seriously)) (, ,) (NP (NNP FmHA)) (VP (VBZ has) (VP (VBD carried) (NP (NP (QP (JJ several) (CD billion)) (NNS dollars)) (PP (IN of) (NP (VBN defaulted) (NNS loans)))) (PP (IN at) (NP (NN face) (NN value))))) (. .)))
+
+(S1 (S (PP (IN Until) (NP (NP (NNP GAO) (POS 's)) (JJ recent) (NN audit))) (, ,) (NP (NNP FHA) (NNS books)) (VP (VBD had) (RB not) (VP (VBN been) (ADJP (JJ subject) (PP (TO to) (NP (DT a) (JJ complete) (JJ external) (NN audit)))) (PP (IN in) (NP (CD 15) (NNS years))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN administration)) (PP (IN of) (NP (JJ federal) (NN credit)))) (VP (MD should) (VP (ADVP (RB closely)) (VB parallel) (NP (NP (JJ private) (NN lending) (NNS practices)) (, ,) (PP (VBG including) (NP (NP (NP (DT the) (NN development)) (PP (IN of) (NP (DT a) (NN loan) (NN loss) (NN reserve)))) (CC and) (NP (JJ regular) (JJ outside) (NN audits))))))) (. .)))
+
+(S1 (S (S (VP (VBG Establishing) (NP (DT these) (NNS practices)))) (VP (MD would) (VP (VP (VB permit) (NP (NP (JJR earlier) (NN identification)) (PP (IN of) (NP (VBG emerging) (JJ financial) (NNS crises))))) (, ,) (VP (VB provide) (NP (JJR better) (NN information)) (PP (IN for) (NP (NN loan) (NNS sales) (CC and) (NN budgeting) (NNS decisions)))) (, ,) (CC and) (VP (VB reduce) (NP (NN fraud))))) (. .)))
+
+(S1 (S (NP (NN Government) (NN lending)) (VP (VBD was) (RB not) (VP (VBN intended) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VP (VB obfuscate) (NP (NN spending) (NNS figures))) (, ,) (VP (VB hide) (NP (JJ fraudulent) (NN activity))) (, ,) (CC or) (VP (VB provide) (NP (JJ large) (NNS subsidies))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS reforms)) (VP (VBD described) (ADVP (IN above)) (SBAR (S (VP (MD would) (VP (VB provide) (NP (NP (DT a) (ADJP (RBR more) (JJ limited) (, ,) (CC but) (JJR clearer) (, ,) (ADJP (JJR safer)) (CC and) (ADJP (RB ultimately) (RBR more) (JJ useful))) (NN role)) (PP (IN for) (NP (NN government)))) (PP (IN as) (NP (DT a) (NN lender)))))))) (. .)))
+
+(S1 (S (PP (IN Without) (NP (JJ such) (NNS reforms))) (, ,) (NP (NN credit) (NNS programs)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (JJ large-scale) (, ,) (JJ high-risk) (NN proposition)) (PP (IN for) (NP (NNS taxpayers))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Gale)) (VP (VBZ is) (NP (NP (DT an) (NN assistant) (NN professor)) (PP (IN of) (NP (NNS economics))) (PP (IN at) (NP (NNP UCLA))))) (. .)))
+

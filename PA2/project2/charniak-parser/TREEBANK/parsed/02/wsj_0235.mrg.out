@@ -1,0 +1,8 @@
+(S1 (S (NP (ADJP (NNP South) (NNP Korean)) (NN consumer) (NNS prices)) (VP (VBD rose) (NP (CD 5) (NN %)) (PP (IN in) (NP (NP (DT the) (JJ first) (CD 10) (NNS months)) (PP (IN of) (NP (DT this) (NN year))))) (, ,) (S (VP (VBG matching) (NP (NP (NP (DT the) (NN government) (POS 's)) (NN target)) (PP (IN for) (NP (DT the) (JJ entire) (NN year)))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NP (DT the) (NNP Bank)) (PP (IN of) (NP (NNP Korea)))) (CC and) (NP (DT the) (NNP Economic) (NNP Planning) (NNP Board)))))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NP (NNS reports)) (VP (VBN released) (PP (IN by) (NP (DT the) (CD two) (NN government) (NNS agencies))))))) (, ,) (NP (JJ domestic) (NN consumer) (CC and) (JJ wholesale) (NNS prices)) (DT each) (VP (VBD rose) (PP (IN by) (NP (NP (CD 0.2) (NN %)) (PP (IN in) (NP (NNP October))))) (PP (IN from) (NP (DT the) (JJ previous) (NN month)))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NN consumer) (NNS prices)) (PP (IN for) (NP (NP (DT the) (JJ first) (CD 10) (NNS months)) (PP (IN of) (NP (CD 1989))))) (VP (VBD surged) (PP (IN by) (NP (NP (CD 5) (NN %)) (CC and) (NP (JJ wholesale) (NNS prices)))) (PP (IN by) (NP (CD 1.3) (NN %)))) (. .)))
+
+(S1 (S (NP (DT The) (NNP South) (NNP Korean) (NN government)) (VP (VBD had) (VP (VBN been) (VP (VBG projecting) (NP (NP (DT a) (ADJP (CD 5) (NN %)) (NN consumer) (NN price) (NN increase)) (PP (IN for) (NP (DT the) (JJ entire) (NN year))))))) (. .)))
+

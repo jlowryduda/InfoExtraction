@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP John) (NNP E.) (NNP Hayes) (NNP Jr.)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (NN chairman)) (, ,) (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))) (, ,) (S (VP (VBG succeeding) (NP (NP (NNP David) (NNP S.) (NNP Black)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD retired))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Hayes)) (, ,) (ADJP (NP (CD 52) (NNS years)) (JJ old)) (, ,)) (VP (VBD left) (NP (NNP Southwestern) (NNP Bell) (NNP Telephone) (NNP Co.)) (PP (IN in) (NP (NP (NNP January)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD had) (VP (VBN been) (NP (NP (NN chairman)) (, ,) (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (, ,) (S (VP (TO to) (VP (VB join) (NP (NP (NNP Triad) (NNP Capital) (NNP Partners)) (, ,) (NP (NP (DT a) (NNP St.) (NNP Louis) (NN company)) (PP (IN with) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (JJ solid) (NN waste)) (CC and) (NP (NN recycling) (, ,) (NN telecommunications) (CC and) (JJ international) (NN venture) (NN capital)))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ has) (VP (VBD resigned) (NP (NP (PRP$ his) (NNS posts)) (PP (IN at) (NP (NNP Triad)))) (S (VP (TO to) (VP (VB take) (NP (DT the) (NNP Kansas) (NNP Power) (NNS positions))))))) (. .)))
+
+(S1 (S (NP (NNP Kansas) (NNP Power)) (VP (VBD said) (SBAR (S (NP (NP (NNP Mr.) (NNP Black)) (, ,) (NP (CD 61)) (, ,)) (VP (VBD chose) (NP (JJ early) (NN retirement)))))) (. .)))
+

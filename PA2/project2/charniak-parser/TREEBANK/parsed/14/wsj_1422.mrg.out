@@ -1,0 +1,46 @@
+(S1 (S (NP (NP (NP (NNP France) (POS 's)) (JJ national) (NN tobacco) (NN company)) (, ,) (VP (VBN known) (PP (IN for) (S (VP (VBG making) (NP (NP (JJ brown-tobacco) (NNS cigarettes)) (PP (JJ such) (IN as) (NP (NNPS Gauloises) (CC and) (NNPS Gitanes)))))))) (, ,)) (VP (VBZ is) (S (VP (NNP branching) (PRT (RP out))))) (. .)))
+
+(S1 (S (S (VP (VBN Concerned) (PP (IN by) (NP (NP (VBG dipping) (NN demand)) (PP (IN for) (NP (PRP$ its) (JJ traditional) (NNS products))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBG moving) (PP (CONJP (RB not) (RB only)) (PP (IN into) (NP (JJ blonde) (NNS cigarettes))) (, ,) (CONJP (CC but) (RB also)) (PP (IN into) (NP (NP (JJ electronic) (JJ car-parking) (NN payment) (NNS cards)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN sold) (PP (IN in) (NP (NN neighborhood) (NN tobacco) (NNS stores))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Brown) (NN tobacco)) (PP (IN in) (NP (NNP France)))) (VP (VBZ is) (NP (NP (DT a) (JJR more) (NN pungent)) (, ,) (ADJP (ADJP (JJR stronger) (NN grade)) (PP (IN than) (NP (NP (DT the) (JJR lighter) (NN grade)) (, ,) (CC or) (NP (JJ blonde) (NN tobacco))))) (, ,) (VP (VBN used) (PP (IN in) (NP (JJ so-called) (JJ American-style) (NNS cigarettes)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP are) (RB n't) (NP (NNP Philip) (NNP Morris) (NNPS Cos.))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Bertrand) (FW de) (NNP Galle)) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (NP (JJ government-owned) (NNP Societe) (NNP Nationale) (NN d') (NNP Exploitation) (NNP Industrielle) (FW des) (NNP Tabacs)) (CC &) (NP (NP (NNP Allumettes) (NNP S.A.)) (, ,) (VP (VBN known) (PP (IN as) (NP (NNP Seita))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ says) (SBAR (IN that) (S (SBAR (IN because) (S (NP (NP (NNP Seita) (POS 's)) (NNS profits)) (VP (VBP are) (VP (VBN limited) (PP (IN by) (NP (JJ government-controlled) (NN cigarette) (NNS prices))))))) (, ,) (NP (PRP he)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (NP (DT the) (NN cash)) (SBAR (S (VP (TO to) (VP (VB diversify) (ADVP (ADVP (RB as) (RB heavily) (PP (IN into) (NP (NN food) (CC and) (NN drink)))) (SBAR (IN as) (S (NP (DT the) (NNP U.S.) (NN concern)) (VP (VBZ has) (VP (VBN done)))))))))))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (JJ Last) (NN year)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NP (NNP Seita) (POS 's)) (JJ net) (NN profit)) (VP (VBD soared) (NP (CD 150) (NN %)) (PP (TO to) (NP (NP (QP (CD 461.6) (CD million)) (NNP French) (NNS francs)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 73.5) (CD million))) (-RRB- -RRB-)))) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (NP (QP (SYM FFr) (CD 27.68) (CD billion))) (: -) (NP (DT a) (ADJP (CD 1.7) (NN %)) (NN profit) (NN margin))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (ADVP (RB Instead)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said) (PP (IN in) (NP (DT an) (NN interview))))) (, ,)) (NP (PRP he)) (VP (VBZ is) (VP (VBG looking) (PP (IN for) (NP (NP (NNS ways)) (SBAR (S (VP (TO to) (VP (VB exploit) (NP (NP (NP (NNP France) (POS 's)) (NN network)) (PP (IN of) (NP (NP (CD 39,000) (NN tobacco) (NNS agents)) (, ,) (SBAR (WHNP (WHNP (JJS most)) (PP (IN of) (NP (PRP them)))) (S (VP (VBZ cafes))))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NNP Seita)) (VP (VBZ does) (RB n't) (VP (VB own) (NP (DT the) (NNP French) (NNS tabacs)))))) (, ,) (NP (NP (PRP$ its) (JJ close) (NN alliance)) (PP (IN with) (NP (PRP them)))) (VP (VBZ offers) (NP (NN distribution) (NNS possibilities))) (. .)))
+
+(S1 (S (NP (CD One) (NN proposal)) (VP (VBZ is) (S (VP (TO to) (VP (VB introduce) (NP (NP (DT a) (JJ new) (NN payment) (NN system)) (PP (IN for) (S (VP (VBG parking) (PP (IN in) (NP (NNP Paris))))))))))) (. .)))
+
+(S1 (S (PP (RB Instead) (IN of) (S (VP (VBG paying) (PP (IN for) (S (VP (VBG parking) (PP (IN by) (S (VP (VBG putting) (NP (NN money)) (PP (IN in) (NP (NP (DT the) (VBG existing) (NNS machines)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VB deliver) (NP (JJ little) (NN paper) (NNS receipts)))))))))))))))) (, ,) (NP (NNS drivers)) (VP (MD would) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB buy) (NP (NP (JJ electronic) (NNS cards)) (PP (IN in) (NP (JJ local) (NN tobacco) (NNS shops)))))))))) (. .)))
+
+(S1 (S (SBAR (RB Once) (S (VP (VBN activated)))) (, ,) (NP (DT the) (NN card)) (VP (MD would) (VP (VB sit) (PP (IN in) (NP (NP (DT the) (NN car) (POS 's)) (NN window))) (, ,) (S (VP (VBG showing) (NP (NN traffic) (NNS wardens)) (SBAR (WHADVP (WRB how) (JJ much) (NN time)) (S (NP (DT the) (NN motorist)) (VP (MD could) (VP (VB remain))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN motorist)) (VP (VBD returned) (PP (TO to) (NP (PRP$ his) (NN car)))))) (NP (PRP he)) (VP (MD could) (VP (VP (VB turn) (NP (DT the) (NN card)) (PRT (RP off))) (CC and) (PRN (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VBD showed) (NP (NP (NN time)) (VP (VBG remaining)))))) (, ,)) (VP (VB save) (NP (PRP it)) (PP (IN for) (ADVP (RB later)))))) (. .)))
+
+(S1 (S (NP (NNP Seita)) (VP (VBZ is) (NP (NP (DT a) (NN partner)) (PP (IN in) (NP (NP (DT the) (NN project)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN developed) (PP (IN by) (NP (NNP Matra) (NNP SA))) (S (VP (VBG using) (NP (JJ Japanese) (NN technology)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Seita) (CC and) (NNP Matra)) (ADVP (RB currently)) (VP (VBP are) (VP (VBG negotiating) (PP (IN with) (NP (NN city) (NNS officials))) (PP (IN for) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB begin) (NP (NN service))))))))) (. .)))
+
+(S1 (S (CC And) (NP (NNP Seita)) (VP (VBZ is) (VP (VBG considering) (NP (JJ further) (NN diversification)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VP (VBD wanted) (S (VP (TO to) (VP (VB buy) (NP (NP (NP (NNP RJR) (NNP Nabisco) (NNP Inc.) (POS 's)) (NNP French) (NN cracker) (NN subsidiary)) (, ,) (NP (NNP Belin)) (, ,)) (PP (IN in) (NP (NP (NNS hopes)) (PP (IN of) (S (VP (VBG selling) (NP (PRP$ its) (NNS products)) (PP (IN in) (NP (NN tobacco) (NNS stores)))))))))))) (, ,) (CC but) (VP (VBD lost) (NP (DT the) (NN bidding)) (PP (TO to) (NP (NN food) (NN group) (NNP BSN) (NNP SA))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB currently)) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG bidding) (PP (IN for) (NP (NNP Swedish) (VBP Match) (NNP Co))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ retains) (NP (NP (DT an) (NN interest)) (PP (IN in) (S (VP (VBG acquiring) (NP (NP (NNS candies)) (CC and) (NP (NP (JJ other) (NNS articles)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (VB be) (VP (VBN sold) (PP (IN in) (NP (NN tobacco) (NNS shops))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB shore) (PRT (RP up)) (NP (PRP$ its) (NN tobacco) (NN business))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Brown-tobacco) (NNS cigarettes)) (PP (JJ such) (IN as) (NP (NNPS Gauloises)))) (ADVP (RB now)) (VP (VBP make) (PRT (RP up)) (NP (NP (QP (RB just) (CD 40)) (NN %)) (PP (IN of) (NP (DT the) (JJ French) (NN tobacco) (NN market))) (, ,) (NP (NP (PDT half) (DT the) (NN level)) (PP (IN of) (ADVP (NP (QP (RB about) (CD two)) (NNS decades)) (RB ago)))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NNP Seita)) (VP (VBZ retains) (NP (NP (DT a) (VBG manufacturing) (NN monopoly)) (PP (IN in) (NP (NNP France))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBG being) (VP (VBN hurt) (PP (PP (IN by) (NP (JJ rising) (NNS imports))) (CC and) (PP (IN from) (NP (JJ waning) (NN cigarette) (NN demand))))))) (. .)))
+
+(S1 (S (IN So) (NP (NNP Seita)) (VP (VP (VBZ has) (VP (VBN introduced) (NP (JJ blonde) (NNS cigarettes)) (PP (IN under) (NP (DT the) (NNPS Gauloises) (NN label))))) (, ,) (CC and) (VP (VBZ intends) (S (VP (TO to) (VP (VB relaunch) (NP (DT the) (JJ unsuccessful) (NNP Gitanes) (NNS Blondes)) (PP (IN in) (NP (NP (JJ new) (NN packaging)) (, ,) (ADJP (JJ similar) (PP (TO to) (NP (NP (DT the) (NNS slide-packs)) (VP (VBN used) (PP (IN by) (NP (JJ brown-tobacco) (NNP Gitanes)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN aim)) (PRN (, ,) (SINV (VP (VBZ says)) (NP (NNP Mr.) (FW de) (NNP Galle))) (, ,)) (VP (VBZ is) (S (VP (VP (TO to) (VP (VB win) (NP (NN market) (NN share)) (PP (IN from) (NP (VBN imported) (NNS cigarettes))))) (, ,) (CC and) (VP (TO to) (VP (VB persuade) (NP (NP (NNS smokers)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG switching) (PP (TO to) (NP (JJ blonde) (NNS cigarettes)))))))) (S (VP (TO to) (VP (VB keep) (S (VP (VBG buying) (NP (NNPS French)))))))))))) (. .)))
+

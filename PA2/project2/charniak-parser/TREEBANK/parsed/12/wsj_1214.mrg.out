@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NNP BSB) (NNP BANCORP) (NNP Inc.)) (, ,) (NP (NNP Binghamton) (, ,) (NNP N.Y.)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD increased) (NP (PRP$ its) (JJ regular) (JJ quarterly) (NN dividend)) (NP (CD 50) (NN %)) (, ,) (PP (TO to) (NP (NP (CD 15) (NNS cents)) (NP (DT a) (NN share)))) (PP (IN from) (NP (CD 10) (NNS cents))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ payable) (NP (NNP Dec.) (CD 10)) (PP (TO to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 24)))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN move)) (VP (VBD was) (VP (VBN made) (PP (IN because) (IN of) (NP (NP (DT the) (JJ bank-holding) (NN company) (POS 's)) (VBN increased) (NN profitability)))))) (, ,) (NP (NNS officials)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ third) (NN quarter))) (, ,) (NP (NNP BSB)) (VP (VBD earned) (NP (NP (QP ($ $) (CD 2) (CD million))) (, ,) (ADVP (RB up) (PP (IN from) (NP (QP ($ $) (CD 1.8) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ national) (JJ over-the-counter) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NNP BSB)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 17.50))) (, ,) (ADVP (RB up) (NP (CD 12.5) (NNS cents)))) (. .)))
+
+(S1 (S (NP (NNP BSB)) (VP (VBZ has) (NP (NP (QP (CD 3.1) (CD million)) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
+

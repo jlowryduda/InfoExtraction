@@ -1,0 +1,44 @@
+(S1 (S (NP (NP (NP (NNS Retailers)) (PP (IN in) (NP (DT the) (NNP West)))) (CC and) (NP (NP (NNS parts)) (PP (IN of) (NP (DT the) (NNP South))))) (VP (VBP are) (VP (VBG entering) (NP (DT the) (JJ critical) (NNP Christmas) (NN shopping) (NN season)) (PP (IN with) (NP (NP (JJR more) (NN momentum)) (PP (IN than) (NP (NP (DT those)) (PP (IN in) (NP (JJ other) (NNS regions))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (JJ new) (NN report))) (, ,) (NP (NP (DT the) (NNP International) (NNP Council)) (PP (IN of) (NP (NN Shopping) (NNS Centers)))) (VP (VBD said) (SBAR (S (NP (NP (NNS sales)) (PP (IN of) (NP (NP (JJ general) (NN merchandise)) (PP (IN in) (NP (DT the) (NNP West))))) (PP (IN for) (NP (NP (DT the) (JJ first) (CD seven) (NNS months)) (PP (IN of) (NP (CD 1989)))))) (VP (VBD rose) (NP (CD 6.6) (NN %)) (PP (IN above) (NP (JJ year-earlier) (NNS levels))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VP (VBD increased) (NP (DT a) (ADJP (RBR more) (JJ modest)) (CD 4.8) (NN %)) (PP (IN in) (NP (DT the) (NNP South)))) (CC and) (VP (NP (CD 4.4) (NN %)) (PP (IN in) (NP (DT the) (NNP Midwest))))) (. .)))
+
+(S1 (S (S (CC But) (S (NP (NP (NNS sales)) (PP (IN in) (NP (NP (DT the) (JJ oil-patch) (NN state)) (PP (IN of) (NP (NNP Texas)))))) (VP (VBD surged) (NP (CD 12.9) (NN %)))) (CC and) (S (NP (NP (NNS sales)) (PP (IN in) (NP (NNP South) (NNP Carolina)))) (VP (VBD jumped) (NP (CD 10.6) (NN %)) (PP (IN in) (NP (DT the) (NN period)))))) (, ,) (NP (DT the) (NNP New) (NNP York) (NN trade) (NN group)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNP Northeast))) (, ,) (ADVP (RB however)) (, ,) (NP (NNS sales)) (VP (VBD declined) (NP (CD 0.4) (NN %)) (PP (IN in) (NP (DT the) (NN period))) (, ,) (PP (IN with) (S (NP (NP (NNS sales)) (PP (IN in) (NP (NNP New) (NNP England)))) (VP (VBG falling) (NP (CD 2.6) (NN %)))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NNS numbers)) (VP (VBP show) (SBAR (IN that) (S (`` `) (S (`` `) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT a) (JJ monolithic) (NN economy)))) (, ,) ('' ')) ('' '))))) (VP (VBD said)) (NP (NP (NNP Isaac) (NNP Lagnado)) (, ,) (NP (NN council) (NN research) (NN director))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (EX There)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (VB have) (CC and) (NN have-not) (NNS markets))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (NP (NNS Sales)) (ADVP (RB nationally))) (VP (VBD rose) (NP (CD 3.9) (NN %)) (PP (IN through) (NP (NNP July))) (, ,) (NP (NP (DT the) (JJS latest) (NN month)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (DT the) (NNS figures)) (VP (VBP are) (ADJP (JJ available)))))))) (, ,) (NP (DT the) (NN council)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Northern) (NNP California) (NN earthquake)) (CC and) (NP (NNP Hurricane) (NNP Hugo))) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (ADVP (RB temporarily)) (VB damp) (NP (NP (NNS sales) (NN growth)) (PP (IN in) (NP (DT the) (NNP West) (CC and) (NNP South) (NNP Carolina))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Mr.) (NNP Lagnado)) (VP (VBD predicted) (SBAR (S (NP (DT the) (JJ regional) (NNS trends)) (VP (MD would) (VP (VB continue) (PP (IN through) (NP (NNP Christmas)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (JJ big) (NNP mo)) (VP (VBZ is) (NP (NP (RB as) (JJ much)) (PP (IN of) (NP (NP (DT a) (NN factor)) (PP (IN in) (NP (NN retailing))))) (PP (IN as) (PP (IN in) (NP (NNS politics)))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NNP Christmas) (NN quarter)) (VP (VBZ is) (ADJP (JJ important) (PP (TO to) (NP (NNS retailers)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ represents) (NP (NP (NP (QP (RB roughly) (DT a) (JJ third))) (PP (IN of) (NP (PRP$ their) (NNS sales)))) (CC and) (NP (NP (QP (RB nearly) (NN half))) (PP (IN of) (NP (PRP$ their) (NNS profits))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN council) (POS 's)) (NN report)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNS data)) (SBAR (S (NP (DT the) (NN trade) (NN group)) (VP (VBZ buys) (PP (IN from) (NP (DT the) (NNP U.S.) (NNP Census) (NNP Bureau)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN information)) (PP (IN on) (NP (CD 125) (JJ metropolitan) (NNS markets)))) (VP (VBZ is) (VP (VBN supplied) (PP (IN by) (NP (NP (NP (NNS retailers)) (PP (JJ such) (IN as) (NP (NP (NNP Sears) (, ,) (NNP Roebuck) (CC &) (NNP Co.)) (CC and) (NP (NNP K) (NN mart) (NNP Corp.))))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (ADJP (RB closely) (VBN held)) (NNS concerns)) (PP (JJ such) (IN as) (NP (NP (NNP R.H.) (NNP Macy)) (CC &) (NP (NNP Co))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN council)) (VP (VBZ plans) (S (VP (TO to) (VP (VB release) (NP (PRP$ its) (JJ regional) (NNS reports)) (ADVP (RB monthly)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lagnado)) (VP (VBD said) (SBAR (S (NP (NP (NN strength)) (PP (IN in) (NP (NN employment)))) (VP (VBZ appears) (S (VP (TO to) (VP (VB have) (NP (NP (DT the) (JJS biggest) (NN impact)) (PP (IN on) (NP (NNS sales) (NN growth))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP El) (NNP Paso)) (, ,) (NP (NNP Austin) (CC and) (NNP Fort) (NNP Worth)) (, ,) (NP (NP (DT the) (CD three) (JJS strongest) (JJ retail) (NNS markets)) (PP (IN in) (NP (DT the) (NN nation)))) (, ,)) (VP (VBP are) (DT all) (VP (VBN located) (PP (IN in) (NP (NP (NNP Texas)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NN employment)) (VP (VBD grew) (NP (DT a) (ADJP (RB relatively) (JJ strong)) (CD 2) (NN %))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Massachusetts)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN lost) (NP (NP (NNS jobs)) (PP (IN in) (NP (DT the) (NN computer) (CC and) (JJ defense-related) (NNS industries)))))))) (, ,)) (VP (VBD was) (NP (NP (DT the) (JJS weakest) (NN link)) (PP (IN in) (NP (JJ bleak) (NNP New) (NNP England))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS results)) (VP (VBP reflect) (NP (NP (DT a) (NN reversal)) (PP (IN in) (NP (NP (DT the) (NNS fortunes)) (PP (IN of) (NP (DT the) (NNS regions)))))) (PP (IN during) (NP (DT the) (JJ past) (CD two) (NNS years)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1987))) (, ,) (S (NP (DT the) (NNP West)) (VP (VBD had) (NP (DT the) (JJS slowest) (NNS sales) (NN growth)))) (, ,) (CC and) (S (NP (NP (DT the) (NNPS South)) (CC and) (NP (DT the) (NNP Midwest))) (VP (VBD were) (ADJP (JJ first) (CC and) (JJ second)) (ADVP (RB respectively)) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NN council)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lagnado)) (VP (VBD said) (SBAR (IN that) (S (SBAR (IN although) (S (NP (NNS retailers)) (ADVP (RB probably)) (VP (MD wo) (RB n't) (ADVP (RB ever)) (VP (VB recover) (NP (NP (NNS sales)) (VP (VBN lost) (PP (IN because) (IN of) (NP (NP (DT the) (NNP California) (NN quake)) (CC and) (NP (NNP Hurricane) (NNP Hugo)))))))))) (, ,) (NP (PRP they)) (VP (MD could) (VP (VB see) (NP (DT some) (NNS benefits)) (ADVP (RB later) (RB on))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Stores)) (PP (JJ such) (IN as) (NP (NNP Sears))) (SBAR (WHNP (WDT that)) (S (VP (VBP sell) (NP (JJ big-ticket) (JJ durable) (NNS goods)))))) (VP (MD might) (ADVP (RB actually)) (VP (VB get) (NP (DT a) (NN boost)) (SBAR (IN as) (S (NP (NNS consumers)) (VP (VBP rush) (S (VP (TO to) (VP (VB replace) (NP (NP (NNS items)) (VP (VBN lost) (PP (IN in) (NP (DT the) (NNS disasters)))))))))))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+

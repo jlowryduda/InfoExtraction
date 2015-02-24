@@ -1,0 +1,50 @@
+(S1 (S (NP (DT The) (NNP Transportation) (NNP Department)) (, ,) (S (VP (VBG responding) (PP (TO to) (NP (NP (NN pressure)) (PP (IN from) (NP (NN safety) (NNS advocates))))))) (, ,) (VP (VBD took) (NP (JJ further) (NNS steps)) (S (VP (TO to) (VP (VB impose) (PP (IN on) (NP (JJ light) (NNS trucks) (CC and) (NNS vans))) (NP (NP (DT the) (NN safety) (NNS requirements)) (VP (VBN used) (PP (IN for) (NP (NNS automobiles))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN department)) (VP (VBD proposed) (S (VP (VBG requiring) (NP (JJR stronger) (NNS roofs)) (PP (IN for) (NP (NP (NN light) (NNS trucks)) (CC and) (NP (NNS minivans)))))) (, ,) (PP (VBG beginning) (PP (IN with) (NP (CD 1992) (NNS models))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBD issued) (NP (NP (DT a) (JJ final) (NN rule)) (VP (VBG requiring) (S (NP (NN auto) (NNS makers)) (VP (TO to) (VP (VB equip) (NP (NP (NN light) (NNS trucks)) (CC and) (NP (NNS minivans))) (PP (IN with) (S (NP (NP (JJ lap-shoulder) (NNS belts)) (PP (IN for) (NP (JJ rear) (NNS seats)))) (VP (VBG beginning) (PP (IN in) (NP (DT the) (CD 1992) (NN model) (NN year)))))))))))) (. .)))
+
+(S1 (S (NP (JJ Such) (NNS belts)) (ADVP (RB already)) (VP (VBP are) (VP (VBN required) (PP (IN for) (NP (NP (DT the) (NNS vehicles) (POS ')) (JJ front) (NNS seats))))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (S (`` `) (NP (NP (NNP Today) (POS 's)) (NN action)) (PRN (, ,) ('' ') ('' ') (S (NP (NNP Transportation) (NNP Secretary) (NNP Samuel) (NNP Skinner)) (VP (VBD said))) (, ,) (`` `)) (`` `) (VP (VBZ represents) (NP (NP (DT another) (NN milestone)) (PP (IN in) (NP (NP (DT the) (JJ ongoing) (NN program)) (SBAR (S (VP (TO to) (VP (VB promote) (NP (NP (NN vehicle) (NN occupant) (NN safety)) (PP (IN in) (NP (NP (NN light) (NNS trucks)) (CC and) (NP (NNS minivans))))) (PP (IN through) (NP (NP (PRP$ its) (NN extension)) (PP (IN of) (NP (NN passenger) (NN car) (NNS standards))))))))))))) (. .) ('' '))) ('' ')))
+
+(S1 (S (PP (IN In) (NP (NNP September))) (, ,) (NP (DT the) (NN department)) (VP (VBD had) (VP (VBN said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB require) (S (NP (NNS trucks) (CC and) (NNS minivans)) (VP (TO to) (VP (VB be) (VP (VBN equipped) (PP (IN with) (NP (NP (DT the) (JJ same) (JJ front-seat) (NNS headrests)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (ADVP (RB long)) (VP (VBN been) (VP (VBN required) (PP (IN on) (NP (NN passenger) (NNS cars)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Big) (NNP Three) (NN auto) (NNS makers)) (VP (VBD said) (SBAR (S (NP (DT the) (NN rule) (NNS changes)) (VP (VBD were) (RB n't) (ADJP (JJ surprising)) (SBAR (IN because) (S (NP (NNP Bush) (NN administration) (NNS officials)) (VP (VBP have) (ADVP (RB long)) (VP (VBN said) (SBAR (S (NP (PRP they)) (VP (VBD planned) (S (VP (TO to) (VP (VB impose) (NP (NP (NN car) (NN safety) (NNS standards)) (PP (IN on) (NP (JJ light) (NNS trucks) (CC and) (NNS vans)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Safety) (NNS advocates)) (, ,) (PP (VBG including) (NP (NP (DT some) (NNS members)) (PP (IN of) (NP (NNP Congress))))) (, ,)) (VP (VBP have) (VP (VBN been) (VP (VBG urging) (NP (NP (DT the) (NN department)) (PP (IN for) (NP (NNS years)))) (S (VP (TO to) (VP (VB extend) (NP (NN car-safety) (NNS requirements)) (PP (TO to) (NP (JJ light) (NNS trucks) (CC and) (NNS vans))) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB now)) (VP (VBP account) (PP (IN for) (NP (NP (RB almost) (NN one-third)) (PP (IN of) (NP (NP (DT all) (NN vehicle) (NNS sales)) (PP (IN in) (NP (DT the) (NNP U.S.)))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP say) (SBAR (IN that) (S (NP (NP (JJ many) (NNS vehicles)) (PP (JJ classed) (IN as) (NP (JJ commercial) (NN light) (NNS trucks)))) (VP (VP (ADVP (RB actually)) (VBP carry) (NP (JJR more) (NNS people)) (PP (IN than) (NP (NN cargo)))) (CC and) (VP (ADVP (RB therefore)) (MD should) (VP (VB have) (NP (NP (DT the) (JJ same) (NN safety) (NNS features)) (PP (IN as) (NP (NNS cars)))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD did) (RB n't) (VP (VB have) (NP (JJ much) (NN luck)) (PP (IN during) (NP (DT the) (NNP Reagan) (NN administration))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (CC But) (ADVP (RB now)) (, ,) (NP (EX there)) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (ADJP (RB fairly) (JJ systematic)) (NN effort)) (SBAR (S (VP (TO to) (VP (VB address) (NP (DT the) (NN problem)))))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Chuck) (NNP Hurley)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NNS communications)) (PP (IN for) (NP (NP (DT the) (NNP Insurance) (NNP Institute)) (PP (IN for) (NP (NNP Highway) (NNP Safety))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 're) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ different)) (JJ regulatory) (NN environment)))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (NNP Sen.) (NNP John) (NNP Danforth)) (PRN (-LRB- -LRB-) (NP (NNP R.)) (, ,) (NP (NNP Mo) (. .)) (-RRB- -RRB-))) (VP (VBD praised) (NP (NP (DT the) (NN department) (POS 's)) (NNS actions)) (, ,) (S (VP (VBG noting) (SBAR (IN that) (S (NP (NN rollover) (NNS crashes)) (VP (VBP account) (PP (IN for) (NP (NP (QP (RB almost) (NN half))) (PP (IN of) (NP (DT all) (JJ light-truck) (NNS deaths))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (MD could) (VP (VB prevent) (NP (NP (JJ many)) (PP (IN of) (NP (DT these) (NNS fatalities)))) (PP (IN with) (NP (JJ minimum) (JJ roof-crush) (NNS standards)))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Sen.) (NNP Danforth)) (CC and) (NP (NNS others))) (ADVP (RB also)) (VP (VBP want) (S (NP (DT the) (NN department)) (VP (TO to) (VP (VB require) (NP (NP (JJ additional) (NN safety) (NN equipment)) (PP (IN in) (NP (NP (NN light) (NNS trucks)) (CC and) (NP (NP (NNS minivans)) (, ,) (PP (VBG including) (NP (NP (NN air) (NNS bags)) (CC or) (NP (NP (JJ automatic) (NN seat) (NNS belts)) (PP (IN in) (NP (NP (JJ front) (NNS seats)) (CC and) (NP (JJ improved) (JJ side-crash) (NN protection))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN department) (POS 's)) (JJ roof-crush) (NN proposal)) (VP (MD would) (VP (VB apply) (PP (TO to) (NP (NP (NNS vehicles)) (VP (VBG weighing) (NP (CD 10,000) (NNS pounds) (QP (CC or) (JJR less)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS roofs)) (VP (MD would) (VP (VB be) (VP (VBN required) (S (VP (TO to) (VP (VB withstand) (NP (NP (DT a) (NN force)) (PP (IN of) (NP (NP (QP (CD 1.5) (NNS times)) (DT the) (JJ unloaded) (NN weight)) (PP (IN of) (NP (DT the) (NN vehicle)))))))))))) (. .)))
+
+(S1 (S (PP (IN During) (NP (DT the) (NN test))) (, ,) (NP (DT the) (NN roof)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN depressed) (NP (QP (RBR more) (IN than) (CD five)) (NNS inches))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Detroit))) (, ,) (NP (DT a) (NNP Chrysler) (NNP Corp.) (NN official)) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VP (ADVP (RB currently)) (VBZ has) (NP (DT no) (JJ rear-seat) (NN lap) (CC and) (NN shoulder) (NNS belts)) (PP (IN in) (NP (PRP$ its) (NN light) (NNS trucks)))) (, ,) (CC but) (VP (VBZ plans) (S (VP (TO to) (VP (VB begin) (S (VP (VBG phasing) (NP (PRP them)))) (PP (IN in) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (CD 1990) (NN model) (NN year)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (NNP Chrysler)) (ADVP (RB fully)) (VP (VBZ expects) (S (VP (TO to) (VP (VB have) (S (NP (PRP them)) (VP (VBN installed) (PP (IN across) (NP (NP (PRP$ its) (JJ light-truck) (NN line)) (PP (IN by) (NP (DT the) (NAC (NNP Sept.) (CD 1) (, ,) (CD 1991) (, ,)) (NN deadline)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Chrysler)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NNS trucks) (CC and) (NNS vans)) (ADVP (RB already)) (VP (VB meet) (NP (NP (DT the) (JJ roof-crush) (NN resistance) (NN standard)) (PP (IN for) (NP (NNS cars)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP John) (NNP Leinonen)) (, ,) (NP (NP (JJ executive) (NN engineer)) (PP (IN of) (NP (NP (NNP Ford) (NNP Motor) (NNP Co.) (POS 's)) (JJ auto-safety) (NN office)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NNP Ford) (NNS trucks)) (VP (VBP have) (VP (VBN met) (NP (NP (NN car) (NNS standards)) (PP (IN for) (NP (JJ roof-crush) (NN resistance)))) (PP (IN since) (NP (CD 1982)))))))) (. .)))
+
+(S1 (S (NP (NNP Ford)) (VP (VBD began) (S (VP (VBG installing) (NP (NP (DT the) (JJ rear-seat) (NNS belts)) (PP (IN in) (NP (NP (NNS trucks)) (PP (IN with) (NP (PRP$ its) (JJ F-series) (NN Crew) (NN Cab) (NNS pickups)))))) (PP (IN in) (NP (DT the) (CD 1989) (NN model) (NN year)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ new) (NNP Explorer) (NN sport-utility) (NN vehicle)) (, ,) (VP (VBN set) (PP (IN for) (NP (NN introduction))) (NP (JJ next) (NN spring))) (, ,)) (VP (MD will) (ADVP (RB also)) (VP (VB have) (NP (DT the) (JJ rear-seat) (NNS belts)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Leinonen)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ expects) (S (NP (NNP Ford)) (VP (TO to) (VP (VB meet) (NP (DT the) (NN deadline)) (ADVP (RB easily))))))))) (. .)))
+

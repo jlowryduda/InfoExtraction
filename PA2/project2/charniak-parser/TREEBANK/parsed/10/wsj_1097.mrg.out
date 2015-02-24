@@ -1,0 +1,38 @@
+(S1 (S (NP (NNP Goodyear) (NNP Tire) (CC &) (NNP Rubber) (NNP Co.)) (, ,) (S (VP (VBN buoyed) (PP (IN by) (NP (NP (VBN improved) (NN operating) (NN profit)) (PP (IN in) (NP (PRP$ its) (NN tire) (NN segment))))))) (, ,) (VP (VBD reported) (SBAR (DT that) (S (NP (JJ third-quarter) (JJ net) (NN income)) (VP (VBD rose) (NP (CD 11) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 70.5) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.22)) (NP (DT a) (NN share))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ year-ago) (NN period))) (, ,) (NP (NNP Goodyear)) (VP (VBD had) (NP (NP (NN net)) (PP (IN of) (NP (NP (QP ($ $) (CD 63.5) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.11)) (NP (DT a) (NN share))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD rose) (ADVP (RB slightly)) (PP (TO to) (NP (QP ($ $) (CD 2.68) (CD billion)))) (, ,) (PP (IN from) (NP (QP ($ $) (CD 2.66) (CD billion))))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBD had) (NP (NP (VBN mixed) (NNS responses)) (PP (TO to) (NP (DT the) (NNS results))))) (. .)))
+
+(S1 (S (NP (NP (NNP Donald) (NNP DeScenza)) (, ,) (NP (NP (DT an) (JJ independent) (NN analyst)) (PP (IN in) (NP (NP (NNP New) (NNP Canaan)) (, ,) (NP (NNP Conn.))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD was) (`` `) (VP (`` `) (JJ impressed) (PP (IN with) (NP (NP (DT the) (NN company) (POS 's)) (NN performance)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (NNS results)) (VP (VBD were) (ADJP (ADJP (JJR better)) (SBAR (IN than) (S (NP (PRP he)) (VP (VBD 'd) (VP (VP (VBN expected)) (CC and) (VP (VB indicate) (SBAR (IN that) (S (NP (NNP Goodyear)) (VP (VBZ is) (PP (IN in) (NP (NP (DT the) (NN midst)) (PP (IN of) (NP (NP (DT a) (NN turnaround)) (PP (IN from) (NP (NP (DT a) (NN string)) (PP (IN of) (NP (JJ lackluster) (NNS quarters))) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN plagued) (NP (NP (DT the) (NN company)) (PP (IN for) (NP (DT a) (NN year))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NP (NNP Harry) (NNP Millis)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN at) (NP (NP (NNP McDonald) (CC &) (NNP Co.)) (, ,) (NP (NNP Cleveland))))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (NNP Goodyear) (POS 's)) (NNS results)) (VP (`` `) (VP (`` `) (VBD fell) (PP (IN at) (NP (DT the) (NN bottom))) ('' ')) ('' ') (PP (IN of) (NP (NP (PRP$ his) (NN range)) (PP (IN of) (NP (NNS estimates))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Excluding) (NP (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (DT the) (NN tax) (NN rate)))) (CC and) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (JJ foreign) (NN currency) (NNS translations))))))) (, ,) (NP (NNP Mr.) (NNP Millis)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN company) (POS 's)) (NNS results)) (VP (`` `) (`` `) (VBD were) (ADVP (RB still)) (ADJP (NP (DT a) (JJ little)) (JJ disappointing)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NP (NNP Goodyear) (POS 's)) (NN stock)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (ADJP (JJ weak)) (PP (IN in) (NP (JJ recent) (NNS weeks))))))) (, ,)) (VP (VBD fell) (NP ($ $) (CD 2.875)) (NP (NN yesterday)) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP (NP ($ $) (CD 43.875)) (NP (DT a) (NN share)))) (PP (IN in) (NP (NP (JJ composite) (NN trading)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))))))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (NNP Akron) (, ,) (JJ Ohio-based)) (NN company)) (VP (VBD said) (SBAR (S (NP (NP (JJ pretax) (NN operating) (NN income)) (PP (IN in) (NP (PRP$ its) (NN tire) (NN segment)))) (VP (VBD jumped) (NP (QP (RB about) (CD 31)) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 196.2) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 150.2) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier))) (, ,) (S (VP (VBG reflecting) (NP (NP (NNS improvements)) (PP (IN in) (NP (NP (JJ raw) (NN material) (NNS costs)) (, ,) (NP (NP (NNS sales)) (PP (IN of) (NP (NN replacement) (NNS tires)))) (CC and) (NP (NN pricing))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP McDonald) (POS 's)) (NNP Mr.) (NNP Millis)) (VP (VBD said) (SBAR (S (NP (NNP Goodyear)) (VP (VBD appeared) (S (VP (TO to) (VP (VB have) (VP (VBN held) (CC or) (VBN gained) (NP (NP (DT some) (NN market) (NN share)) (PP (IN in) (NP (DT the) (NNP U.S.)))) (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN since) (NP (NP (DT the) (JJ second) (NN quarter)) (PP (IN of) (NP (CD 1988))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Goodyear)) (VP (VBD said) (SBAR (S (NP (JJ total) (NNP U.S.) (NN tire) (NN unit) (NNS sales)) (VP (VBD were) (ADVP (RB off) (NP (QP (RB about) (CD 2)) (NN %))))))) (. .)))
+
+(S1 (S (S (NP (JJ Total) (NN tire) (NN segment) (NNS sales)) (VP (VBD were) (ADVP (RB up) (NP (QP (RB only) (RB about) (CD 1) (NN %) (TO to) ($ $) (CD 2.2) (CD billion)))))) (, ,) (CC and) (S (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD reduced) (NP (NN manufacturing) (NNS levels)) (PP (IN at) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ its) (NNP U.S.) (NN tire) (NNS plants))))) (PP (IN because) (IN of) (NP (NP (NN inventory) (NNS adjustments)) (CC and) (NP (NP (VBN slackened) (NN production)) (PP (IN by) (NP (NN auto) (NNS makers))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJS latest) (NN quarter))) (, ,) (NP (NP (NNP Goodyear) (POS 's)) (NN tax) (NN rate)) (VP (VBD was) (NP (CD 51) (NN %)) (PP (VBN compared) (PP (IN with) (NP (CD 41) (NN %)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (JJ total) (NN tax) (NNS outlays)) (VP (VBD were) (NP (NP (QP ($ $) (CD 73.5) (CD million))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (QP ($ $) (CD 44.1) (CD million))) (ADVP (NP (DT the) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (CD nine) (NNS months))) (, ,) (NP (NN profit)) (VP (VBD skidded) (NP (QP (RB about) (CD 35)) (NN %)) (, ,) (S (VP (VBG reflecting) (NP (NP (NP (NNS charges)) (VP (VBN taken) (PP (IN in) (NP (NP (DT this) (NN year) (POS 's)) (JJ second) (NN quarter))))) (CC and) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NP (NNS translations)) (PP (IN of) (NP (JJR weaker) (JJ foreign) (NNS currencies))))))) (PP (IN into) (NP (DT the) (JJR stronger) (NNP U.S.) (NN dollar)))))) (. .)))
+
+(S1 (S (NP (NN Net)) (VP (VBD was) (NP (NP (QP ($ $) (CD 192.1) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 3.33)) (NP (DT a) (NN share))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (NN net)) (PP (IN of) (NP (NP (QP ($ $) (CD 293.7) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 5.13)) (NP (DT a) (NN share))) (, ,) (ADVP (NP (DT the) (NN year)) (RBR earlier))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJS latest) (CD nine) (NNS months)) (VP (VBD included) (NP (NP (NNS charges)) (PP (IN of) (NP (QP ($ $) (CD 95) (CD million)))) (VP (VBN related) (PP (TO to) (NP (NP (NP (DT the) (NN company) (POS 's)) (NNP South) (NNP African) (NN subsidiary)) (CC and) (NP (NP (JJ unused) (NN pipe)) (VP (VBN sold) (PP (IN by) (NP (PRP$ its) (JJ crude) (NN oil) (NN pipeline) (NN unit)))))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD rose) (NP (QP (RB nearly) (CD 2)) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 8.13) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 7.98) (CD billion))))) (. .)))
+

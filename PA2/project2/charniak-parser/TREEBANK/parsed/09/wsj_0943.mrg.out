@@ -1,0 +1,20 @@
+(S1 (S (NP (NNP Bell) (NNP Atlantic) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (ADVP (RB definitively)) (S (VP (TO to) (VP (VB acquire) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP Control) (NNP Data) (NNP Corp.) (POS 's)) (JJ computer-maintenance) (NNS businesses))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Terms)) (PP (IN of) (NP (DT the) (NN accord)))) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (NP (NNP Control) (NNP Data)) (VP (VBZ 's) (NP (NP (JJ third-party) (NN maintenance) (NN unit) (NNS services) (NNS products)) (VP (ADVP (RB primarily)) (VBN made) (PP (IN by) (NP (NP (NNP Digital) (NNP Equipment) (NNP Corp.)) (CC and) (NP (NNP International) (NNP Business) (NNP Machines) (NNP Corp))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN unit)) (VP (VP (VBZ has) (NP (CD 6,000) (NNS customers))) (CC and) (VP (, ,) (PP (VBG according) (PP (TO to) (NP (CD one) (NN analyst)))) (, ,) (VBD had) (NP (NP (CD 1988) (NN revenue)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 85) (CD million))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (NP (DT the) (NN agreement)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (VP (VBN been) (VP (ADVP (RB widely)) (VBN expected)))))))) (, ,) (NP (NNP Bell) (NNP Atlantic)) (VP (MD would) (VP (VB be) (VP (VBG buying) (NP (NP (NP (NNP Control) (NNP Data) (POS 's)) (NN customer) (NN base)) (CC and) (NP (NP (PRP$ its) (QP (RB approximately) (CD 100)) (NNP U.S.) (NN maintenance) (NNS facilities)) (PP (IN in) (NP (QP (RB about) (CD 33)) (NNS cities)))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NNP Control) (NNP Data)) (VP (MD would) (VP (VB continue) (S (VP (TO to) (VP (VB provide) (NP (NN maintenance) (NNS services)) (PP (IN for) (NP (NP (NNS customers)) (PP (IN of) (NP (PRP$ its) (NNP Cyber) (NN product) (NN line)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN unit)) (VP (VBZ represents) (NP (NP (DT a) (JJ small) (NN portion)) (PP (IN of) (NP (NP (NP (JJ Minneapolis-based) (NNP Control) (NNP Data) (POS 's)) (JJ overall) (JJ computer-servicing) (NN business)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (JJ last) (NN year)) (VP (VBD posted) (NP (NP (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 400) (CD million)))))))))))) (. .)))
+
+(S1 (S (ADVP (RBR Earlier) (NP (DT this) (NN year))) (, ,) (NP (DT the) (NN company)) (VP (VBD sold) (NP (DT a) (JJ similar) (NN unit)) (PP (IN in) (NP (NNP Europe))) (PP (IN for) (NP (QP (RB about) ($ $) (CD 25) (CD million))))) (. .)))
+
+(S1 (S (NP (NP (NNP Lawrence) (NNP Perlman)) (, ,) (NP (NP (NP (NNP Control) (NNP Data) (POS 's)) (NN president)) (CC and) (NP (JJ chief) (VBG operating) (NN officer))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN maintenance) (NN business)) (ADVP (RB no) (RB longer)) (VP (VBZ fits) (PP (IN into) (NP (NP (DT the) (NN company) (POS 's)) (`` `) (S (`` `) (NP (NN strategy)) (VP (TO to) (VP (VB be) (NP (DT a) (NN data) (NNS solutions) (NN company))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Thomas) (NNP Vassiliades)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Bell) (NNP Atlantic) (POS 's)) (NN customer) (NNS services) (NN division)))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN acquisition)) (VP (MD would) (VP (VB give) (NP (NP (DT the) (NN company) (POS 's)) (JJ Sorbus) (JJ computer-maintenance) (NN unit)) (NP (NP (VBN added) (NN expertise)) (PP (IN in) (`` `) (NP (`` `) (DT the) (RB increasingly) (JJ sophisticated) (NN workstation) (CC and) (JJ high-end) (NN mainframe) (NNS technologies))))))))) (. .)))
+

@@ -1,0 +1,4 @@
+(S1 (S (PP (IN As) (NP (NP (NN part)) (PP (IN of) (NP (DT a) (ADJP (RB previously) (JJ announced)) (NN transaction))))) (, ,) (NP (NNP Federal) (NN Mogul) (NNP Corp.)) (VP (VBZ has) (VP (VBN bought) (NP (NP (QP (RB approximately) (CD 565,000)) (NNS shares)) (PP (IN of) (NP (PRP$ its) (JJ common) (NN stock)))) (PP (IN from) (NP (NNP Nortek) (NNP Inc.))) (PP (IN at) (NP (NP ($ $) (CD 23.50)) (NP (DT a) (NN share)))))) (. .)))
+
+(S1 (S (NP (NNP Nortek)) (VP (VBZ has) (VP (VBN agreed) (S (S (RB not) (VP (TO to) (VP (VB acquire) (NP (NP (DT any) (NNS securities)) (PP (IN of) (NP (NNP Federal-Mogul)))) (PP (IN for) (NP (CD 10) (NNS years)))))) (CC and) (S (RB not) (VP (TO to) (VP (VB influence) (NP (NN company) (NNS affairs)) (PP (IN during) (NP (DT that) (NN period))))))))) (. .)))
+

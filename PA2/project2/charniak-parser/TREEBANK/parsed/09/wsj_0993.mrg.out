@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Parker) (NNP Hannifin) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (S (VP (TO to) (VP (VB sell) (NP (PRP$ its) (CD three) (JJ automotive) (NNS parts) (NNS divisions)) (PP (TO to) (NP (DT a) (JJ management-led) (NN investor) (NN group))) (PP (IN for) (NP (QP ($ $) (CD 80) (CD million))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN buy-out) (NN group)) (VP (VP (VBZ is) (VP (VBN headed) (PP (IN by) (NP (NP (NNP Paul) (NNP R.) (NNP Lederer)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Parker) (POS 's)) (JJ automotive) (NN group)))) (, ,))))) (CC and) (VP (VBZ includes) (NP (NP (JJ several) (JJ other) (NNS executives)) (PP (IN of) (NP (DT the) (CD three) (NNS divisions)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS units)) (VP (VBP are) (NP (DT the) (NNP Edelmann) (, ,) (NNP Ideal) (CC and) (NNP Plews) (NNS divisions))) (. .)))
+
+(S1 (S (NP (NP (JJ Net) (NNS sales)) (PP (IN for) (NP (DT the) (NNS units))) (PP (IN for) (NP (NP (DT the) (JJ fiscal) (NN year)) (VP (VBN ended) (NP (NNP June) (CD 30)))))) (VP (VBD were) (NP (QP ($ $) (CD 135.6) (CD million)))) (. .)))
+
+(S1 (S (NP (NNP Parker) (NNS officials)) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBZ is) (VP (VBG selling) (NP (DT the) (NNS units)) (S (VP (TO to) (VP (VB focus) (PP (IN on) (NP (PRP$ its) (JJ other) (NNS businesses))))))))))) (. .)))
+

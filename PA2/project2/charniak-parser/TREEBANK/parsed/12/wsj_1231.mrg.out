@@ -1,0 +1,8 @@
+(S1 (S (NP (DT This) (NAC (NNP Brooklyn) (, ,) (NNP N.Y.) (, ,)) (NN generic-drug) (NN maker)) (VP (VBD announced) (NP (NP (DT a) (ADJP (CD 5) (NN %)) (NN stock) (NN dividend)) (ADJP (JJ payable) (NP (NNP Dec.) (CD 15) (, ,)) (PP (TO to) (NP (NP (NNS holders)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 15))))))) (. .)))
+
+(S1 (S (PP (IN As) (PP (IN of) (NP (NNP Sept.) (CD 30)))) (, ,) (NP (NNP Halsey)) (VP (VBD had) (NP (NP (QP (CD 5.3) (CD million)) (JJ common) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
+
+(S1 (S (NP (NP (NNP Jay) (NNP Marcus)) (, ,) (NP (NN president)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN move)) (`` `) (VP (`` `) (VBZ reflects) (NP (NP (NP (DT the) (NN confidence)) (PP (IN of) (NP (PRP$ our) (NN board) (CC and) (NN management))) (PP (IN in) (NP (NP (NNP Halsey) (POS 's)) (JJ long-term) (NNS prospects)))) (CC and) (NP (PRP$ our) (NN desire) (S (VP (TO to) (VP (VB provide) (NP (PRP$ our) (NNS shareholders)) (PP (IN with) (NP (NP (DT an) (JJ attractive) (NN return)) (PP (IN on) (NP (PRP$ their) (NN investment)))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (NNP American) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (, ,) (NP (NNP Halsey)) (VP (VBD closed) (PP (IN at) (NP (NP ($ $) (CD 5.8125)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB up) (NP (CD 6.25) (NNS cents)))) (. .)))
+

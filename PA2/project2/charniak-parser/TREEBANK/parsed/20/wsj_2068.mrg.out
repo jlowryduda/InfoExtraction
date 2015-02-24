@@ -1,0 +1,16 @@
+(S1 (S (NP (NN Investor) (NNP Asher) (NNP Edelman)) (VP (VP (VBD increased) (NP (NP (PRP$ his) (NN stake)) (PP (IN in) (NP (NNP Intelogic) (NNP Trace) (NNP Inc.))))) (CC and) (VP (VBD cleared) (NP (NP (DT the) (NN way)) (PP (IN for) (NP (JJ additional) (NNS purchases)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB n't) (ADJP (JJ clear)) (, ,) (ADVP (RB however)) (, ,) (SBAR (IN whether) (S (NP (DT the) (NNS actions)) (VP (VBD were) (VP (VBN related) (PP (TO to) (NP (NP (DT a) (NN battle)) (PP (IN between) (NP (NP (DT the) (JJ corporate) (NN raider)) (CC and) (NP (NNP New) (NNP York) (NN attorney) (NNP Martin) (NNP Ackerman)))) (PP (IN for) (NP (NP (NN control)) (PP (IN of) (NP (NP (NNP Datapoint) (NNP Corp.)) (, ,) (NP (DT a) (ADJP (NNP San) (NNP Antonio) (, ,) (JJ Texas-based)) (JJ data-processing) (NNS systems) (NN maker))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Intelogic) (NNP Trace)) (, ,) (NP (DT a) (NN computer) (NNS services) (NN company)) (, ,)) (VP (VBD was) (VP (VBN spun) (PRT (RP off)) (PP (TO to) (NP (NNP Datapoint) (NNS holders)) (PP (IN in) (NP (CD 1985)))) (, ,) (SBAR (IN after) (S (NP (NNP Mr.) (NNP Edelman)) (VP (VBD gained) (NP (NN control))))))) (. .)))
+
+(S1 (S (SBAR (IN After) (S (NP (NNP Mr.) (NNP Ackerman)) (VP (VBD announced) (SBAR (S (NP (PRP he)) (VP (VBD was) (VP (VBG soliciting) (NP (NNS consents)) (PP (IN from) (NP (NNS shareholders))) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB wrest) (NP (NP (NN control)) (PP (IN of) (NP (NNP Datapoint)))) (PP (IN from) (NP (NNP Mr.) (NNP Edelman)))))))))))))) (, ,) (NP (DT the) (JJ corporate) (NN raider)) (VP (VBD purchased) (NP (NP (CD 30) (NN %)) (PP (IN of) (NP (NP (NNP Datapoint) (POS 's)) (NNS shares))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission) (NN filing))) (, ,) (NP (NNP Mr.) (NNP Edelman)) (VP (VBD said) (SBAR (S (PP (PP (IN from) (NP (NNP Sept.) (CD 29))) (PP (TO to) (NP (NNP Oct.) (CD 13)))) (, ,) (NP (PRP he)) (VP (VBD acquired) (NP (NP (CD 309,500) (NNS shares)) (PP (IN of) (NP (NNP Intelogic) (JJ common) (NNS shares)))) (PP (IN for) (NP ($ $) (CD 2.25))) (PP (TO to) (NP (NP ($ $) (CD 2.375)) (NP (DT each)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS purchases)) (VP (VBD increased) (NP (PRP$ his) (NN stake)) (PP (TO to) (NP (NP (CD 16.2) (NN %)) (PP (IN of) (NP (NP (DT the) (NNS shares)) (ADJP (JJ outstanding))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN filing)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (NP (JJ certain) (NNS provisions)) (SBAR (WHNP (WDT which)) (S (VP (VBP apply) (PP (TO to) (NP (NNS persons)))))) (VP (VBG acquiring) (NP (NP (QP (CD 20) (NN %) (CC or) (JJR more))) (PP (IN of) (NP (NNP Intelogic) (JJ common) (NN stock))))) (, ,)) (VP (VBD were) (VP (VBN waived) (PP (IN by) (NP (NNP Intelogic))) (PP (IN for) (NP (NP (NNP Mr.) (NNP Edelman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (NP (NN chairman)) (PP (IN of) (NP (DT the) (NN company)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Edelman)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (NN comment)))))) (. .)))
+

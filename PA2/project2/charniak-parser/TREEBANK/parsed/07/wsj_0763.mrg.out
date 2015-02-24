@@ -1,0 +1,18 @@
+(S1 (S (NP (DT The) (NNP Justice) (NNP Department)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG seeking) (S (VP (TO to) (VP (VB join) (NP (NP (DT a) (JJ private) (NN lawsuit)) (VP (VBG challenging) (NP (NP (NP (DT a) (NNP Pittsburgh) (NN suburb) (POS 's)) (NN zoning) (NN ordinance)) (SBAR (WHNP (WDT that)) (S (VP (ADVP (RB sharply)) (VBZ restricts) (S (NP (DT the) (NNS locations)) (ADJP (JJ available) (PP (TO to) (NP (NN group) (NNS homes))))))))) (PP (IN for) (NP (DT the) (VBN handicapped))))))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (MD would) (VP (VB be) (NP (NP (NP (DT the) (NN department) (POS 's)) (JJ first) (NN suit)) (VP (VBG challenging) (NP (NP (DT a) (JJ local) (NN zoning) (NN ordinance)) (PP (IN under) (NP (CD 1988) (NNS amendments)))) (PP (TO to) (NP (DT the) (NNP Fair) (NNP Housing) (NNP Act))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (NP (DT those) (NNS amendments)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD took) (NP (NN effect)) (PP (IN in) (NP (NNP March))) (PP (IN of) (NP (DT this) (NN year)))))))) (, ,) (NP (DT the) (JJ federal) (NN government)) (VP (MD can) (VP (VB intervene) (PP (IN in) (NP (JJ private) (JJ housing-discrimination) (NNS lawsuits))))) (. .)))
+
+(S1 (S (NP (DT The) (NN ordinance)) (, ,) (PP (IN in) (NP (NNP Moon) (NNP Township))) (, ,) (VP (VBZ prohibits) (VP (VBG locating) (NP (NP (DT a) (NN group) (NN home)) (PP (IN for) (NP (DT the) (VBN handicapped)))) (PP (IN within) (NP (NP (DT a) (NN mile)) (PP (IN of) (NP (DT another) (JJ such) (NN facility))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNS papers)) (VP (VBN filed) (PP (IN with) (NP (NP (DT the) (JJ federal) (NN district) (NN court)) (PP (IN in) (NP (NNP Pittsburgh)))))))) (, ,) (NP (DT the) (NNP Justice) (NNP Department)) (VP (VBD alleged) (SBAR (IN that) (S (NP (DT the) (NN ordinance)) (, ,) (PP (IN by) (S (VP (VBG limiting) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN group) (NNS homes))) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN established) (PP (IN in) (NP (DT the) (NN township)))))))))))) (, ,) (VP (VBZ makes) (S (NP (NN housing)) (ADJP (JJ unavailable) (PP (IN on) (NP (NP (NN account)) (PP (IN of) (NP (NN handicap))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ private) (NN suit)) (VP (VBD was) (VP (VBN brought) (PP (IN by) (NP (NP (CD three) (ADJP (RB mentally) (VBN retarded)) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP live) (PP (IN in) (NP (NP (DT a) (NN group) (NN home)) (PP (IN in) (NP (NNP Moon)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Greg) (NNP Smith)) (, ,) (NP (NNP Moon) (NNP Township) (NN manager)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN ordinance)) (VP (VBZ is) (VP (VBN intended) (S (VP (TO to) (VP (VB prevent) (NP (NP (DT the) (NN concentration)) (PP (IN of) (NP (NP (NN group) (NNS homes)) (PP (IN for) (NP (DT the) (RB mentally) (JJ retarded)))))) (PP (IN from) (S (VP (VBG changing) (`` `) (NP (`` `) (NP (DT the) (NN character) (CC and) (NN flavor)) (PP (IN of) (NP (DT the) (NN neighborhood))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (DT the) (NN ordinance)) (ADVP (RB also)) (VP (MD will) (VP (VB benefit) (NP (DT the) (ADJP (RB mentally) (VBN retarded)))))))) (. .)))
+
+(S1 (S (S (`` `) (S (`` `) (NP (PRP$ Our) (NN intent)) (VP (VBZ is) (S (VP (TO to) (VP (VB spread) (NP (PRP them)) (PRT (RP out)))))) ('' ')) ('' ') (VP (TO to) (VP (VB insure) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (ADVP (RB well)) (VBN integrated) (PP (IN into) (NP (DT the) (NN community)))))))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+

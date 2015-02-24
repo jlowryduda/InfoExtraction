@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (NNP VIACOM) (NNP Inc.) (POS 's)) (NN loss)) (VP (VBN narrowed) (PP (TO to) (NP (NP (QP ($ $) (CD 21.7) (CD million))) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))))) (PP (IN from) (NP (QP ($ $) (CD 56.9) (CD million))) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (NP (NNP Thursday) (POS 's)) (NN edition)) (VP (VBN misstated) (NP (DT the) (NN narrowing))) (. .)))
+

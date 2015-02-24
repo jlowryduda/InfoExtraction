@@ -1,0 +1,58 @@
+(S1 (S (NP (DT The) (NN dollar)) (VP (VBD finished) (ADVP (RB mostly)) (NP (JJR stronger) (NN yesterday)) (, ,) (S (VP (VBN boosted) (PP (IN by) (NP (NP (DT a) (JJ modest) (NN recovery)) (PP (IN in) (NP (NN share) (NNS prices)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Dow) (NNP Jones) (NNP Industrial) (NNP Average)) (VP (VBD climbed) (NP (CD 6.76) (NNS points)) (PP (IN in) (NP (NP (DT a) (NN spate)) (PP (IN of) (NP (NP (NN bargain-hunting)) (PP (VBG following) (NP (NP (JJ last) (NN week) (POS 's)) (NNS declines)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NN Attention)) (VP (VBZ is) (VP (VBN fixed) (PP (IN on) (NP (NP (DT the) (NN stock) (NN market)) (PP (IN for) (NP (NP (NN lack)) (PP (IN of) (NP (NP (NN anything)) (ADJP (RB else)))))))) (S (VP (TO to) (VP (VB sink) (NP (PRP$ our) (NNS teeth)) (PP (IN into))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Robert) (NNP White)) (, ,) (NP (NP (DT a) (NN vice) (NN president)) (PP (IN at) (NP (NP (NNP First) (NNP Interstate)) (PP (IN of) (NP (NNP California))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS analysts)) (VP (VBP predict) (SBAR (IN that) (S (PP (IN in) (NP (NP (DT the) (NN absence)) (PP (IN of) (NP (NP (JJ market-moving) (NN news)) (SBAR (S (VP (TO to) (VP (VB push) (NP (DT the) (NNP U.S.) (NN unit)) (ADJP (ADJP (RB sharply) (JJR higher)) (CC or) (ADJP (JJR lower))))))))))) (, ,) (NP (DT the) (NN currency)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB drift) (PP (IN below) (NP (NP (CD 1.80) (NNS marks)) (NP (DT this) (NN week)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS others)) (VP (VP (VBP reject) (NP (DT the) (NN view))) (, ,) (CC and) (VP (VBD forecast) (SBAR (S (NP (DT the) (NN dollar)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB hold) (NP (PRP$ its) (JJ current) (JJ tight) (NN trading) (NN pattern))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP argue) (SBAR (IN that) (S (NP (NP (NP (NN weakness)) (PP (IN in) (NP (PDT both) (DT the) (NN yen)))) (CC and) (NP (NN sterling))) (VP (VP (VBP have) (VP (VBN helped) (S (VP (VB offset) (NP (JJ bearish) (NNP U.S.) (JJ economic) (NN news)))))) (CC and) (VP (VBP have) (VP (VBN lent) (NP (NN support)) (PP (TO to) (NP (DT the) (NN dollar))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ late) (NNP New) (NNP York) (NN trading))) (NP (NN yesterday)) (, ,) (NP (DT the) (NN dollar)) (VP (VBD was) (VP (VBN quoted) (PP (PP (IN at) (NP (NP (CD 1.8340) (NNS marks)) (, ,) (ADVP (RB up) (PP (IN from) (NP (CD 1.8300) (NNS marks)))) (NP (JJ late) (NNP Friday)) (, ,))) (CC and) (PP (IN at) (NP (NP (CD 141.90) (NN yen)) (, ,) (ADVP (IN up) (PP (IN from) (NP (CD 141.65) (NNS yen)) (NP (JJ late) (NNP Friday))))))))) (. .)))
+
+(S1 (S (NP (NN Sterling)) (VP (VBD was) (VP (VBN quoted) (PP (IN at) (NP ($ $) (CD 1.5820))) (, ,) (ADVP (RB up) (PP (IN from) (NP ($ $) (CD 1.5795)) (NP (JJ late) (NNP Friday)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN dollar)) (VP (VBD rose) (PP (IN against) (NP (DT the) (NNP Swiss) (CC and) (NNP French) (NNS francs)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Tokyo))) (NP (NNP Tuesday)) (, ,) (NP (DT the) (NNP U.S.) (NN currency)) (VP (VBD opened) (PP (IN for) (NP (VBG trading))) (PP (IN at) (NP (NP (CD 142.32) (NN yen)) (, ,) (ADVP (IN up) (PP (IN from) (NP (NP (NP (NNP Monday) (POS 's)) (NNP Tokyo) (NN close)) (PP (IN of) (NP (CD 142.17) (NNS yen))))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN week)) (, ,) (NP (NP (DT the) (JJ surprise) (NN resignation)) (PP (IN of) (NP (NAC (NNP British) (NNP Chancellor) (PP (IN of) (NP (DT the) (NNP Exchequer)))) (NNP Nigel) (NNP Lawson)))) (VP (VBD sent) (NP (DT the) (JJ British) (NN pound)) (PP (IN into) (NP (DT a) (NN tailspin)))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NN sterling)) (VP (VBD bounced) (PRT (RP back)) (PP (IN from) (NP (NN session) (NNS lows))) (PP (IN in) (NP (NP (DT a) (NN bout)) (PP (IN of) (NP (NN short-covering))))) (NP (NN yesterday))))) (, ,) (NP (JJ foreign) (NN exchange) (NNS dealers)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (DT any) (NNS hopes)) (SBAR (WHNP (IN that)) (S (NP (DT the) (NN pound)) (VP (MD would) (ADVP (RB soon)) (VP (VB post) (NP (JJ significant) (NNS gains))))))) (VP (VBP have) (VP (VBD evaporated)))))) (. .)))
+
+(S1 (S (NP (NNS Traders)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (NNS statements)) (VP (VBN made) (PP (IN over) (NP (DT the) (NN weekend) (S (VP (TO to) (VP (VB quell) (NP (NP (NN concern)) (PP (IN about) (NP (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (NP (NNP Prime) (NNP Minister) (NNP Margaret) (NNP Thatcher) (POS 's)) (NN government)))) (CC and) (NP (NP (DT the) (NN future)) (PP (IN of) (NP (PRP$ her) (JJ economic) (NN program)))))))))))))) (ADVP (RB largely)) (VP (VBD failed) (S (VP (TO to) (VP (VP (VB reassure) (NP (NNS investors))) (CC and) (VP (VB bolster) (NP (DT the) (JJ flagging) (NNP British) (NN unit)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (PRP$ her) (JJ first) (JJ televised) (NN interview))) (PP (VBG following) (NP (NP (NNP Mr.) (NNP Lawson) (POS 's)) (NN resignation))) (, ,) (NP (NNP Mrs.) (NNP Thatcher)) (VP (VP (VBD reiterated) (NP (PRP$ her) (NN desire) (S (VP (TO to) (VP (VB keep) (S (NP (NN sterling)) (ADJP (JJ strong)))))))) (CC and) (VP (VBD warned) (ADVP (RB again)) (SBAR (IN that) (S (NP (NP (JJ full) (NN entry)) (PP (IN into) (NP (NP (NP (DT the) (NNP European) (NNP Monetary) (NNP System)) (POS 's)) (NN exchange) (NN rate) (NN mechanism)))) (VP (MD would) (VP (VB provide) (NP (DT no) (JJ easy) (NN solution)) (PP (TO to) (NP (NP (NNP Britain) (POS 's)) (JJ economic) (NNS troubles))))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (NP (DT the) (NN timing)) (PP (IN of) (NP (DT the) (NNP United) (NNP Kingdom))) (POS 's)) (NN entry)) (VP (MD would) (VP (VB depend) (PP (IN on) (NP (NP (DT the) (NN speed)) (SBAR (WHPP (IN with) (WHNP (WDT which))) (S (NP (JJ other) (NNS members)) (VP (VB liberalize) (NP (PRP$ their) (NNS economies)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mrs.) (NNP Thatcher) (POS 's)) (NNS remarks)) (VP (VBD were) (VP (VBN seen) (PP (IN as) (NP (NP (DT a) (NN rebuff)) (PP (TO to) (NP (NP (JJ several) (VBG leading) (NNS members)) (PP (IN of) (NP (PRP$ her) (JJ own) (NNP Conservative) (NNP Party))) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN called) (PP (IN for) (NP (NP (DT a) (ADJP (RBR more) (JJ clear-cut)) (NNP British) (NN commitment)) (PP (TO to) (NP (DT the) (NNP EMS))))))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (DT a) (JJ recent) (NN poll)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NNP Mrs.) (NNP Thatcher)) (VP (VBZ has) (VP (VBN hit) (NP (NP (DT the) (JJS lowest) (NN popularity) (NN rating)) (PP (IN of) (NP (DT any) (NNP British) (NN leader)))) (SBAR (IN since) (S (NP (NN polling)) (VP (VBD began) (ADVP (NP (CD 50) (NNS years)) (RB ago)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Comments)) (PP (IN by) (NP (NP (NNP John) (NNP Major)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN succeeded) (S (NP (NNP Mr.) (NNP Lawson))))))) (, ,)))) (ADVP (RB also)) (VP (VBD failed) (S (VP (TO to) (VP (VB damp) (NP (NN market) (NN concern)) (, ,) (PP (IN despite) (NP (PRP$ his) (NN pledge) (S (VP (TO to) (VP (VB maintain) (NP (RB relatively) (JJ high) (NNP British) (NN interest) (NNS rates))))))))))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (CD one) (JJ London-based) (NN analyst)))) (, ,) (NP (ADJP (RB even) (JJR higher)) (NN interest) (NNS rates)) (VP (MD wo) (RB n't) (VP (VB help) (NP (DT the) (NN pound)) (SBAR (IN if) (S (NP (NP (NNP Britain) (POS 's)) (NN government)) (VP (VBZ continues) (S (VP (TO to) (VP (VB appear) (ADJP (JJ unstable)))))))))) (. .)))
+
+(S1 (S (NP (CD One) (NNP U.S.) (NN trader)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD dismissed) (NP (NN sterling) (NNS doomsayers)) (SBAR (IN while) (S (VP (VBG acknowledging) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (JJ little) (JJ immediate) (JJ upside) (NN potential)) (PP (IN for) (NP (DT the) (NNP U.K.) (NN unit))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (EX There)) (VP (VBZ is) (NP (DT no) (NN question) (SBAR (IN that) (S (NP (DT the) (NN situation)) (VP (VBZ is) (ADJP (JJ bad)))))))) (, ,) (CC but) (S (NP (PRP we)) (VP (MD may) (VP (VB be) (VP (VBG painting) (NP (DT a) (JJR gloomier) (NN picture)) (SBAR (IN than) (S (NP (PRP we)) (VP (MD should)))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ predicts) (SBAR (S (NP (DT the) (NN pound)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB trade) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ volatile)) (NN fashion))) (, ,) (PP (IN with) (NP (`` `) (NP (`` `) (NP (NNS fits)) (PP (IN of) (S (VP (VBG being) (VP (VBN oversold) (CC and) (VBN overbought))))) ('' ')) ('' ') (PP (IN before) (S (VP (VBG recovering) (NP (PRP$ its) (NNS losses))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Dealers)) (ADVP (RB also)) (VP (VBP note) (SBAR (IN that) (S (NP (NP (DT the) (JJ general) (NN lack)) (PP (IN of) (NP (NP (NN enthusiasm)) (PP (IN for) (NP (DT the) (NN yen)))))) (VP (VBZ has) (VP (VBN helped) (S (VP (VB bolster) (NP (DT the) (NNP U.S.) (NN dollar))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP observe) (SBAR (IN that) (S (NP (NP (JJ persistent) (JJ Japanese) (NN investor) (NN demand)) (PP (IN for) (NP (NNS dollars))) (PP (IN for) (NP (DT both) (NN portfolio) (CC and) (JJ direct) (NN investment)))) (VP (VBZ has) (VP (VBN kept) (NP (NP (DT a) (NN base)) (PP (IN of) (NP (NP (NN support)) (PP (IN for) (NP (DT the) (NN dollar)))))) (PP (IN at) (NP (IN around) (CD 140) (NNS yen)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN dollar)) (VP (VBD began) (NP (NN yesterday)) (PP (IN on) (NP (NP (DT a) (NN firm) (NN note)) (PP (IN in) (NP (NNP Tokyo))))) (, ,) (S (VP (VBG closing) (ADVP (RBR higher)) (PP (IN in) (NP (JJ late) (NN trade)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Europe))) (, ,) (NP (DT the) (NN dollar)) (VP (VBD closed) (ADVP (RB slightly) (RB up)) (PP (IN in) (NP (NP (DT a) (NN market)) (VP (VBN dominated) (PP (IN by) (NP (NN cross) (NNS trades))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NP (DT the) (NNP Commodity) (NNP Exchange)) (PP (IN in) (NP (NNP New) (NNP York))))) (, ,) (NP (NP (NN gold)) (PP (IN for) (NP (JJ current) (NN delivery)))) (VP (VBD settled) (PP (IN at) (NP (NP ($ $) (CD 377.80)) (NP (DT an) (NN ounce)))) (, ,) (ADVP (RB down) (NP (CD 70) (NNS cents)))) (. .)))
+
+(S1 (S (NP (VBN Estimated) (NN volume)) (VP (VBD was) (NP (DT a) (JJ moderate) (QP (CD 3.5) (CD million)) (NNS ounces))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (JJ early) (NN trading)) (PP (IN in) (NP (NNP Hong) (NNP Kong))) (NP (NNP Tuesday)))) (, ,) (NP (NN gold)) (VP (VBD was) (VP (VBN quoted) (PP (IN at) (NP (NP ($ $) (CD 376.80)) (NP (DT an) (NN ounce)))))) (. .)))
+

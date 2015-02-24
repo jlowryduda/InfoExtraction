@@ -1,0 +1,12 @@
+(S1 (S (S (NP (NP (NN Spending)) (PP (IN by) (NP (NP (JJ average) (JJ Japanese) (NNS households)) (PP (IN in) (NP (NNP August)))))) (VP (VBD fell) (NP (DT an) (VBN adjusted) (CD 1.9) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (, ,) (NP (NP (DT the) (NNP Statistics) (NNP Bureau)) (PP (IN of) (NP (NP (DT the) (NNP Prime) (NNP Minister) (POS 's)) (NN Office)))) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN bureau)) (VP (VBD cited) (NP (NP (NNS typhoons)) (PP (IN in) (NP (DT the) (NN month) (SBAR (IN that) (S (VP (VBN discouraged) (NP (NN shopping) (CC and) (NN leisure) (NNS opportunities))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Spending)) (PP (IN by) (NP (JJ Japanese) (NNS households)))) (VP (VBD averaged) (NP (NP (CD 290,782) (NNS yen)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 2,052.10)) (-RRB- -RRB-))) (PP (IN in) (NP (NNP August)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ nominal) (NNS terms))) (NP (PRP it)) (VP (VBD rose) (NP (CD 0.6) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))) (PP (IN before) (NP (NN adjustment)))) (. .)))
+
+(S1 (S (NP (NP (JJ August) (JJ adjusted) (NN spending)) (PP (IN by) (NP (JJ wage-earning) (NNS families)))) (VP (VBD was) (ADVP (RB down) (NP (CD 0.6) (NN %)) (PP (TO to) (NP (CD 309,381) (NN yen))) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ real) (NN income)) (PP (IN of) (NP (NP (JJ wage-earning) (NNS families)) (PP (IN in) (NP (DT the) (NN month)))))) (VP (VBD eased) (NP (CD 1.2) (NN %)) (PP (TO to) (NP (CD 438,845) (NN yen))) (PP (IN from) (NP (DT the) (JJ previous) (NN year)))) (. .)))
+

@@ -1,0 +1,90 @@
+(S1 (S (NP (DT The) (NNP Senate) (NNP Agriculture) (NNP Committee)) (VP (VBZ is) (VP (VBG responding) (PP (TO to) (NP (NP (NN trading) (NNS abuses)) (PP (IN in) (NP (DT the) (NNS futures) (NNS markets))) (PP (IN with) (NP (NP (DT a) (JJ far-reaching) (NN bill)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB become) (NP (NP (DT the) (NNP Futures) (NNP Trading) (NNPS Practices) (NNP Act)) (PP (IN of) (NP (CD 1989)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (VBN proposed) (NN legislation)) (VP (VBZ has) (NP (NP (DT a) (JJ laudable) (NN goal)) (: :) (S (VP (TO to) (VP (VB assure) (NP (NP (DT the) (NN integrity)) (PP (IN of) (NP (DT the) (NNP U.S.) (NNS futures) (NNS markets))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (SBAR (IN as) (S (VP (VBZ is) (ADJP (JJ common) (PP (IN with) (NP (JJ sweeping) (NN legislation))))))) (, ,) (NP (DT the) (NN proposal)) (VP (VBZ contains) (NP (NP (JJ many) (NNS provisions)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB destroy) (NP (NP (JJ important) (NNS parts)) (PP (IN of) (NP (NP (DT the) (NN system)) (SBAR (S (NP (PRP it)) (VP (VBZ sets) (PRT (RP out)) (S (VP (TO to) (VP (VB preserve)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ complex) (NN bill)) (, ,) (VP (VBN introduced) (PP (IN by) (NP (NP (NP (NNP Sens.) (NNP Patrick) (NNP Leahy)) (PRN (-LRB- -LRB-) (NP (NNP D.)) (, ,) (NP (NNP Vt.)) (-RRB- -RRB-))) (, ,) (NP (NP (NNP Richard) (NNP Lugar)) (PRN (-LRB- -LRB-) (NP (NNP R.)) (, ,) (NP (NNP Ind.)) (-RRB- -RRB-))) (, ,) (CC and) (NP (NP (NNP Bob) (NNP Kerrey)) (PRN (-LRB- -LRB-) (NP (NNP D.)) (, ,) (NP (NNP Neb.)) (-RRB- -RRB-)))))) (, ,)) (VP (VBZ covers) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (NP (NNS provisions)) (SBAR (WHNP (WDT that)) (S (VP (VP (MD would) (VP (VB affect) (NP (NP (DT the) (NN funding) (CC and) (NN authority)) (PP (IN of) (NP (DT the) (NNP Commodity) (NNPS Futures) (NNP Trading) (NNP Commission)))))) (CC and) (VP (MD would) (RB profoundly) (VP (VB change) (NP (NP (DT the) (NN way)) (SBAR (S (NP (DT the) (NN industry)) (VP (VBZ is) (VP (VBN regulated))))))))))))))) (. .)))
+
+(S1 (S (NP (DT These)) (VP (VBP include) (NP (NP (NNS provisions)) (VP (VBG relating) (PP (TO to) (NP (NP (DT the) (NN technology) (CC and) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (MD must) (VP (VB be) (VP (VBN employed) (PP (IN by) (NP (NP (NNS exchanges)) (, ,) (NP (NN oversight)) (CC and) (NP (NP (JJ disciplinary) (NNS procedures)) (PP (IN for) (NP (NP (NN exchange) (NN trading) (NNS practices)) (, ,) (NP (NP (DT the) (NN relationship)) (PP (IN between) (NP (NP (NN commodity) (NN brokerage) (NNS firms)) (CC and) (NP (NN floor) (NNS traders))))) (, ,) (CC and) (NP (NN exchange) (NN governance))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN bill)) (ADVP (RB also)) (VP (VP (VBZ elevates) (NP (RB even) (JJ minor) (NN rule) (NNS infractions)) (PP (TO to) (NP (NNS felonies)))) (CC and) (VP (VBZ provides) (PP (IN for) (NP (NP (NN recovery)) (PP (IN of) (NP (JJ punitive) (NNS damages))) (PP (IN in) (NP (JJ civil) (NNS lawsuits) (CC and) (NN arbitration) (NNS cases))))) (PP (IN without) (NP (NP (DT any) (NN showing)) (PP (IN of) (NP (JJ willful) (NN misconduct))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Many) (NNS aspects)) (PP (IN of) (NP (DT the) (NN bill)))) (VP (VBP are) (ADJP (JJ salutary)) (, ,) (S (VP (VBG providing) (NP (NP (JJ appropriate) (JJ public) (NNS safeguards)) (SBAR (WHNP (WDT that)) (S (VP (VP (MD can)) (CC and) (VP (MD should) (VP (VB be) (VP (VBN instituted) (PP (IN throughout) (NP (DT the) (NN industry))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (NP (DT some)) (PP (IN of) (NP (NP (NP (DT the) (NN bill) (POS 's)) (NNS requirements)) (, ,) (PP (VBG including) (NP (NP (JJ broad) (NN representation)) (PP (IN on) (NP (NP (DT the) (NNS exchanges) (POS ')) (NNS boards))) (PP (IN of) (NP (NP (NNS directors)) (CC and) (NP (NP (JJ strong) (NNS measures)) (SBAR (S (VP (TO to) (VP (VB prevent) (NP (NP (NNS conflicts)) (PP (IN of) (NP (NN interest))))))))))))) (, ,)))) (ADVP (RB already)) (VP (VBP have) (VP (VBN been) (VP (VBN put) (PP (IN in) (NP (NN place))) (PP (IN by) (NP (NP (NP (DT the) (NNP Coffee)) (, ,) (NP (NNP Sugar)) (CC &) (NP (NN Cocoa) (NNP Exchange))) (CC and) (NP (JJ other) (NNS futures) (NNS exchanges))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Other) (NNS aspects)) (PP (IN of) (NP (DT the) (NN bill)))) (, ,) (ADVP (RB however)) (, ,) (VP (VBP are) (ADVP (RB either)) (VP (VBN structured) (PP (IN in) (NP (NP (NNS ways)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP create) (NP (NP (JJ unnecessary) (NNS burdens)) (PP (IN for) (NP (DT the) (NN industry))))) (CC or) (VP (ADVP (RB actually)) (VBP are) (ADJP (JJ harmful) (PP (TO to) (NP (NP (DT the) (NNS exchanges)) (, ,) (NP (DT the) (NN industry)) (CC and) (ADVP (RB ultimately)) (NP (DT the) (JJ general) (NN public))))))))))))) (. .)))
+
+(S1 (S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (ADJP (RBS most) (JJ prominent)) (NNS features)))) (VP (VBZ is) (NP (DT the) (NN requirement) (SBAR (IN that) (S (PP (IN in) (NP (CD three) (NNS years))) (NP (DT all) (NNS exchanges)) (VP (VBP have) (PP (IN in) (NP (NN place))) (NP (NP (DT a) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ records) (NP (DT all) (NNS trades)) (PP (IN by) (NP (NP (DT a) (NN source)) (ADJP (JJ independent) (PP (IN of) (NP (DT the) (VBG executing) (NN broker))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP New) (NNP York) (NNS futures) (NNS exchanges)) (VP (VBP have) (VP (VBN been) (VP (VBG working) (ADVP (RB together)) (S (VP (TO to) (VP (VB develop) (NP (DT a) (NN trade) (NN recording) (NN system)) (PP (ADVP (RB much)) (IN like) (NP (NP (DT the) (CD one)) (VP (VBN called) (PRT (RP for)) (PP (IN in) (NP (DT the) (NN bill)))))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (MD would) (VP (VB be) (ADJP (JJ delighted) (S (VP (TO to) (VP (VB have) (NP (NP (PDT such) (DT a) (NN system)) (PP (IN in) (NP (NN place)))) (NP (NN today)))))))) (. .)))
+
+(S1 (SQ (CC But) (VBZ is) (NP (PRP it)) (ADJP (ADJP (JJ realistic)) (SBAR (IN for) (S (NP (NNP Congress)) (VP (TO to) (VP (VB mandate) (PP (IN by) (NP (DT a) (JJ rigid) (NN deadline))) (NP (NP (DT a) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (RB not) (ADVP (RB yet)) (VP (VBN been) (VP (VBN subjected) (PP (TO to) (NP (NN feasibility) (NNS studies)))))))))))))) (. ?)))
+
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (DT the) (NN system)) (VP (VBZ does) (RB n't) (VP (VB work))))) (. ?)))
+
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (NP (DT the) (JJ only) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (NP (NN work)))))) (VP (VBZ is) (ADJP (RB so) (JJ expensive)) (SBAR (IN that) (, ,) (S (ADVP (IN at) (JJS best)) (, ,) (NP (RB only) (DT the) (JJS largest) (NNS exchanges)) (VP (MD can) (VP (VB afford) (NP (PRP it))))))))) (. ?)))
+
+(S1 (S (NP (NN Cost)) (VP (VBZ is) (NP (DT a) (JJ key) (NN consideration)) (PP (IN because) (IN of) (NP (NP (DT the) (JJ global) (NN sweep)) (PP (IN of) (NP (DT the) (JJ financial) (NNS markets)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP U.S.) (NNS futures) (NNS exchanges)) (VP (VBP compete) (ADJP (JJ world-wide) (PP (IN as) (ADVP (RB never) (RB before))))) (. .)))
+
+(S1 (S (NP (NN Today)) (, ,) (NP (NP (NN trading)) (PP (IN in) (NP (RB almost) (DT any) (NN commodity)))) (VP (MD can) (VP (VB be) (VP (VBN diverted) (PP (IN from) (NP (NNP U.S.) (NNS markets))) (PP (IN with) (NP (NP (QP (RB just) (DT a) (JJ few)) (NNS strokes)) (PP (IN of) (NP (DT a) (NN keyboard)))))))) (. .)))
+
+(S1 (S (NP (DT All) (JJ foreign) (NNS markets)) (VP (VBP are) (VP (ADVP (RB aggressively)) (VBG courting) (NP (NNP U.S.) (NN business)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN fact))) (, ,) (NP (JJ several) (NNP London) (NNS markets)) (ADVP (RB already)) (VP (VBP offer) (NP (NP (JJR lower) (NNS costs)) (PP (IN for) (NP (NP (VBG trading)) (PP (IN in) (NP (DT the) (ADJP (JJ same) (CC or) (RB very) (JJ similar)) (NNS contracts))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP U.S.) (NNS exchanges)) (VP (VBP need) (NP (DT both) (NX (NX (NN market) (NN integrity)) (CC and) (NX (NN cost-efficiency)))))) (: ;) (S (NP (JJ long-term) (NN growth)) (VP (VBZ depends) (PP (IN on) (NP (PRP it))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Senate) (NN bill)) (VP (VBZ contains) (NP (NP (JJ many) (NNS provisions)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB increase) (NP (NP (DT the) (NNS costs)) (PP (IN of) (NP (NN trading)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (RBS most) (JJ arbitrary)) (PP (IN of) (NP (DT these)))) (VP (VBZ is) (NP (NP (DT the) (NN imposition)) (PP (IN of) (NP (`` `) (NP (`` `) (NP (NN service) (NNS fees)) (, ,) ('' ')) ('' ') (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (ADVP (RB directly)) (VB widen) (NP (NP (DT the) (NN cost) (NN spread)) (PP (IN between) (NP (UCP (NNP U.S.) (CC and) (JJ foreign)) (NNS markets)))))))))))) (. .)))
+
+(S1 (S (NP (JJ Other) (NNS provisions)) (VP (VBP have) (NP (NP (DT a) (ADJP (ADJP (RBR more) (JJ subtle)) (, ,) (CC but) (ADJP (RB nonetheless) (JJ real) (CC and) (JJ detrimental))) (NN effect)) (PP (IN on) (NP (NP (DT the) (JJ international) (NN position)) (PP (IN of) (NP (NNP U.S.) (NNS exchanges))))))) (. .)))
+
+(S1 (S (NP (DT These)) (VP (VBP include) (NP (NP (DT the) (NN extension)) (PP (IN of) (NP (NN liability))) (PP (IN into) (NP (NP (NNS areas)) (PP (IN beyond) (NP (NP (DT those)) (VP (VBN established) (PP (IN by) (NP (NP (JJ judicial) (NN precedent)) (CC and) (NP (NP (DT the) (NN expansion)) (PP (IN of) (NP (NN liability)))))) (S (VP (TO to) (VP (VB include) (NP (JJ punitive) (NNS damages)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (S (VP (VBG increasing) (NP (NNS costs)) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (JJR greater) (JJ financial) (NN exposure)) (PP (IN for) (NP (NNS members)))))))))))) (, ,) (NP (DT these) (NNS measures)) (VP (MD could) (VP (VB have) (NP (JJ other) (, ,) (JJ far-reaching) (NNS repercussions)))) (. .)))
+
+(S1 (S (NP (NP (CD One) (NN section)) (PP (IN of) (NP (DT the) (NN bill)))) (VP (MD would) (VP (VB make) (S (NP (NP (DT all) (NN commodity) (NN brokerage) (NNS firms)) (CC and) (NP (NN floor) (NNS brokers))) (ADJP (JJ liable) (PP (IN for) (NP (NNS damages))))) (PP (IN without) (NP (JJ willful) (NN misconduct))))) (. .)))
+
+(S1 (S (NP (NP (RB Nowhere)) (PP (IN in) (NP (DT the) (JJ federal) (NNS securities) (NN law)))) (VP (VBZ is) (NP (NP (JJ simple) (NN negligence)) (CC or) (NP (JJ inadvertent) (NN action))) (NP (NP (DT a) (NN source)) (PP (IN of) (NP (NN liability)))) (PP (IN under) (NP (JJ similar) (NNS circumstances)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB only)) (ADJP (JJ logical) (S (VP (TO to) (VP (VB assume) (SBAR (IN that) (S (NP (NP (DT the) (NN enactment)) (PP (IN of) (NP (DT this) (NN provision)))) (VP (MD will) (VP (VB lead) (PP (TO to) (NP (JJ increased) (NN litigation)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT an) (ADJP (RB already) (JJ low-profitmargin)) (NN business))) (, ,) (NP (NN commodity) (NN brokerage) (NNS firms)) (VP (MD may) (ADVP (RB well)) (VP (VB decide) (S (VP (TO to) (VP (VB eliminate) (NP (NP (DT the) (NN risk)) (CC and) (NP (NP (NN expense)) (PP (IN of) (S (VP (VBG dealing) (PP (IN with) (NP (NP (DT the) (JJ retail) (NN public)) (, ,) (PP (VBG depriving) (NP (NP (DT the) (JJ private) (NN individual)) (PP (IN of) (NP (NP (NN access)) (PP (TO to) (NP (DT the) (NNS markets))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT Another) (NN measure)) (VP (VBZ makes) (S (NP (NN commodity) (NN brokerage) (NNS firms)) (ADJP (JJ liable) (PP (IN for) (NP (NP (NNS violations)) (VP (VBN committed) (PP (IN by) (NP (NP (JJ independent) (NN floor) (NNS brokers)) (SBAR (WHNP (WP who)) (S (VP (VB execute) (NP (NNS trades)) (PP (IN for) (NP (PRP them)))))))))))))) (. .)))
+
+(S1 (S (NP (DT This) (JJ untried) (NN concept)) (VP (MD would) (VP (VB expose) (NP (DT these) (NNS firms)) (PP (TO to) (NP (ADJP (RB potentially) (JJ astronomical)) (JJ punitive) (NNS damages))))) (. .)))
+
+(S1 (S (S (VP (VBN Faced) (PP (IN with) (NP (NP (DT the) (ADJP (RB virtually) (JJ impossible)) (NN task)) (PP (IN of) (S (VP (VBG supervising) (NP (NP (DT the) (NN execution)) (PP (IN of) (NP (DT each) (NN trade))))))))))) (, ,) (NP (JJ many) (NN commodity) (NN brokerage) (NNS firms)) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VP (VB stop) (S (VP (VBG doing) (NP (NN business)) (PP (IN with) (NP (NNS independents)))))) (CC and) (VP (ADVP (RB instead)) (VB hire) (NP (PRP$ their) (JJ own) (JJ salaried) (NN floor) (NNS brokers)))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (MD would) (VP (VB force) (ADVP (RP out) (PP (IN of) (NP (NN business)))) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NNS individuals) (CC and) (JJ small) (NNS firms)) (SBAR (WHNP (WDT that)) (S (VP (NN function) (PP (IN as) (NP (NN floor) (NNS brokers))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN consequence)) (PP (IN of) (NP (PRP$ their) (NN departure)))) (VP (MD could) (VP (VB be) (NP (NP (DT a) (JJ serious) (NN diminution)) (PP (IN of) (NP (NN market) (NN liquidity)))))) (. .)))
+
+(S1 (S (ADVP (RB Finally)) (, ,) (PP (IN under) (NP (DT the) (NN bill))) (, ,) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ legitimate) (, ,) (JJ longstanding) (NN business) (NNS practices)))) (VP (MD would) (VP (VB be) (VP (ADVP (RB arbitrarily)) (VBN banned) (, ,) (SBAR (IN unless) (S (NP (DT the) (NNP CFTC)) (VP (VBD were) (S (VP (TO to) (VP (VB take) (NP (JJ specific) (CC and) (JJ timely) (NN action)) (S (VP (TO to) (VP (VB permit) (S (NP (PRP them)) (VP (TO to) (VP (VB continue)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (NN regulation)) (VP (MD will) (VP (VB occur) (PP (PP (IN through) (NP (NN inaction) (CC and) (NN happenstance))) (, ,) (CONJP (RB rather) (IN than)) (PP (IN through) (NP (DT a) (JJ normal) (NN deliberative) (NN procedure)))))) (. .)))
+
+(S1 (S (NP (DT The) (VBN affected) (NNS practices)) (VP (VBP include) (NP (NP (DT the) (VBG placing)) (PP (IN of) (NP (NP (JJ oral) (NNS orders)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN way)) (SBAR (S (NP (RBS most) (JJ public) (NN customer) (NNS orders)) (VP (VBP are) (VP (VBN placed) (, ,) (CC and) (VP (VBG trading) (PP (IN between) (NP (VBN affiliated) (NNS brokers))) (, ,) (SBAR (RB even) (IN though) (S (PP (IN in) (NP (DT some) (NNS cases))) (NP (NP (NN trading)) (PP (IN with) (NP (NNS affiliates)))) (VP (MD may) (VP (VB be) (NP (NP (DT the) (JJ only) (NN way)) (SBAR (S (VP (TO to) (VP (VB obtain) (NP (NP (DT the) (JJS best) (NN execution)) (PP (IN for) (NP (DT a) (NN client)))))))))))))))))))))))))) (. .)))
+
+(S1 (SINV (ADVP (RB Also)) (VP (VBN precluded)) (VP (MD would) (VP (VB be) (NP (NP (JJ dual) (NN trading)) (, ,) (SBAR (WHADVP (WRB whereby)) (S (NP (DT a) (NN broker)) (VP (VBZ trades) (PP (IN for) (NP (NP (NNS customers)) (CONJP (RB as) (RB well) (IN as)) (NP (PRP$ his) (JJ own) (NN account))))))) (, ,)))) (NP (NP (DT a) (NN practice)) (SBAR (WHNP (WDT that)) (S (VP (VBZ provides) (NP (JJ needed) (NN liquidity)) (PP (TO to) (NP (DT the) (NNS markets))))))) (. .)))
+
+(S1 (S (NP (DT All) (NNP U.S.) (NNS futures) (NNS exchanges)) (VP (VBP agree) (SBAR (IN that) (S (NP (NP (DT these)) (CC and) (NP (JJ other) (NN trading) (NNS practices))) (VP (VBP require) (NP (NP (JJ proper) (NN regulation)) (CC and) (NP (NN supervision))))))) (. .)))
+
+(S1 (S (ADVP (RB Nonetheless)) (, ,) (NP (DT each)) (VP (VBZ has) (NP (NP (ADJP (RB too) (JJ much)) (JJ potential) (NN value)) (PP (TO to) (NP (DT the) (NN system) (S (VP (TO to) (VP (VB be) (VP (VBN banned) (PP (IN by) (NP (JJ legislative) (NNP fiat))) (SBAR (SBAR (RB before) (S (NP (DT the) (NNP CFTC)) (VP (ADVP (RB carefully)) (VBZ considers) (NP (NP (PDT all) (DT the) (NNS consequences)) (PP (IN of) (NP (DT a) (NN ban))))))) (CC and) (SBAR (WHNP (WP what)) (S (NP (DT the) (JJ regulatory) (NNS alternatives)) (VP (VBP are))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS markets)) (VP (VBP are) (ADJP (JJ complex)) (, ,) (SBAR (IN as) (S (VP (VBZ is) (NP (NP (DT the) (NN environment)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP they)) (VP (VB function))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNS problems)) (VP (NN surface)))) (, ,) (NP (DT the) (NN temptation)) (VP (VBZ becomes) (ADJP (JJ strong) (S (VP (TO to) (ADVP (RB summarily)) (VP (VB overhaul) (NP (NP (DT a) (NN market) (NN system)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN served) (PP (IN for) (NP (QP (JJR more) (IN than) (CD 100)) (NNS years))))))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN temptation)) (VP (MD must) (VP (VB be) (VP (VBN put) (PRT (RP aside)) (S (VP (VP (TO to) (VP (VB permit) (NP (NP (JJ careful) (NN consideration)) (PP (IN of) (NP (NP (PDT all) (DT the) (NNS implications)) (, ,) (ADJP (JJ positive) (CC and) (JJ negative)) (, ,))) (PP (IN of) (NP (DT the) (VBN proposed) (NNS resolutions)))) (PP (TO to) (NP (DT those) (NNS problems))))) (, ,) (CC and) (VP (TO to) (VP (VB avoid) (S (VP (VBG creating) (NP (NP (DT a) (NN marketplace)) (SBAR (WHADVP (WRB where)) (S (NP (DT no) (NN one)) (VP (NNS trades)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Nastro)) (VP (VBZ is) (NP (NP (NP (NN chairman)) (PP (IN of) (NP (NP (NP (DT the) (NNP Coffee)) (, ,) (NP (NNP Sugar)) (CC &) (NP (NN Cocoa) (NNP Exchange))) (PP (IN in) (NP (NNP New) (NNP York)))))) (CC and) (NP (NP (NN director)) (PP (IN of) (NP (NN commodity) (NN administration))) (PP (IN at) (NP (NNP Shearson) (NNP Lehman) (NNP Hutton)))))) (. .)))
+

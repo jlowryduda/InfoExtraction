@@ -1,0 +1,10 @@
+(S1 (S (NP (NP (DT The) (NNP Associated) (NNP Press) (POS 's)) (NN earthquake) (NN coverage)) (VP (VBD drew) (NP (NN attention)) (PP (TO to) (NP (NP (DT a) (NN phenomenon)) (SBAR (WHNP (WDT that)) (S (VP (VBZ deserves) (NP (NP (DT some) (NN thought)) (PP (IN by) (NP (NP (JJ public) (NNS officials)) (CC and) (NP (JJ other) (NN policy) (NNS makers))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Private) (NN relief) (NNS agencies)) (, ,) (PP (JJ such) (IN as) (NP (NP (DT the) (NNP Salvation) (NNP Army)) (CC and) (NP (NNP Red) (NNP Cross)))) (, ,)) (VP (VBN mobilized) (ADVP (RB almost) (RB instantly)) (S (VP (TO to) (VP (VB help) (NP (NNS people))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNP Washington) (NN bureaucracy)) (VP (`` `) (`` `) (VBD took) (NP (NP (NNS hours)) (VP (VBG getting) (PP (IN into) (NP (NN gear))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (CD One) (NN news) (NN show)) (SBAR (S (NP (PRP we)) (VP (VBD saw) (NP (NN yesterday)))))) (ADVP (RB even)) (VP (VBD displayed) (NP (NP (CD 25) (JJ federal) (NNS officials)) (VP (VBG meeting) (PP (IN around) (NP (DT a) (NN table)))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP recall) (SBAR (IN that) (S (NP (NP (DT the) (NN mayor)) (PP (IN of) (NP (NNP Charleston)))) (VP (VBD complained) (ADVP (RB bitterly)) (PP (IN about) (NP (NP (NP (DT the) (JJ federal) (NN bureaucracy) (POS 's)) (NN response)) (PP (TO to) (NP (NNP Hurricane) (NNP Hugo))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN sense)) (VP (VBZ grows) (SBAR (IN that) (S (NP (JJ modern) (JJ public) (NNS bureaucracies)) (ADVP (RB simply)) (VP (VBP do) (RB n't) (VP (VB perform) (NP (PRP$ their) (JJ assigned) (NNS functions)) (ADVP (RB well))))))) (. .)))
+

@@ -1,0 +1,96 @@
+(S1 (S (NP (NNP Sebastian) (NNP Guzman) (NNP Cabrera)) (VP (VBD took) (PRT (RP over)) (NP (DT the) (NN oil) (NNS workers) (NN union)) (, ,) (NP (NP (NP (NNP Mexico) (POS 's)) (ADJP (RBS most) (JJ powerful)) (NN labor) (NN organization)) (, ,) (RB only) (NP (JJ last) (NNP January)))) (. .)))
+
+(S1 (S (CC But) (PP (ADVP (RB even)) (IN in) (NP (DT that) (JJ short) (NN time))) (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera)) (VP (VBZ has) (VP (VBN become) (ADJP (RB as) (JJ controversial) (PP (IN in) (NP (PRP$ his) (JJ own) (NN way)))) (PP (IN as) (NP (NP (PRP$ his) (VBN deposed) (NN predecessor)) (, ,) (NP (NNP Joaquin) (NNP Hernandez) (NNP Galicia)) (, ,) (VP (VBN known) (PP (IN as) (NP (NNP La) (NNP Quina)))))))) (. .)))
+
+(S1 (S (NP (NNP President) (NNP Carlos) (NNP Salinas) (NNP de) (NNP Gortari)) (VP (VBD used) (NP (DT the) (NN army)) (S (VP (TO to) (VP (VB oust) (NP (NP (NNP La) (NNP Quina)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD reigned) (PP (IN for) (NP (NP (CD 28) (NNS years)) (PP (IN over) (NP (NP (DT a) (JJ graft-riddled) (NN empire)) (SBAR (WHNP (WDT that)) (S (VP (VBD made) (S (NP (JJ state-run) (NNP Petroleos) (NNP Mexicanos) (PRN (, ,) (CC or) (NNP Pemex) (, ,))) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (JJS most) (JJ inefficient) (NN oil) (NNS companies)))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera)) (VP (VBZ is) (VP (VBG facing) (NP (NNS accusations) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ 's) (ADVP (RB as) (RB much)) (NP (DT a) (NN company) (NN man)) (SBAR (IN as) (S (NP (NNP La) (NNP Quina)) (VP (VBD was) (NP (DT a) (NN crook))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (JJ recent) (NN contract) (NNS negotiations)) (PP (IN with) (NP (NNP Pemex) (NN management))))) (, ,) (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera)) (VP (VBD accepted) (NP (JJ major) (NNS concessions)) (SBAR (IN that) (S (ADVP (RB greatly)) (VP (VB curtail) (NP (NP (NP (DT the) (NN union) (POS 's)) (NN role)) (PP (IN in) (S (VP (VBG subcontracting) (, ,) (ADVP (RB long)) (NP (NP (DT a) (NN source)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN of) (NP (NP (NNS dollars)) (PP (IN in) (NP (JJ illicit) (NNS earnings)))))))))))))))) (. .)))
+
+(S1 (S (CC And) (PP (IN with) (S (NP (NP (DT the) (JJ quiet) (NN pragmatism)) (PP (IN of) (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera)))) (VP (VBG replacing) (NP (NP (DT the) (JJ prickly) (NN populism)) (PP (IN of) (NP (NNP La) (NNP Quina))))))) (, ,) (NP (NN government) (NNS technocrats)) (VP (VBP have) (VP (VBN been) (VP (VBN given) (NP (NP (DT a) (JJ free) (NN hand)) (SBAR (S (VP (TO to) (VP (VB open) (NP (DT the) (NN petrochemical) (NN sector)) (PP (TO to) (NP (JJR wider) (JJ private) (CC and) (JJ foreign) (NN investment))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera) (POS 's)) (JJ new) (NN order)) (VP (VBZ has) (RB n't) (VP (VBN arrived) (PP (IN without) (NP (NN resistance))))) (. .)))
+
+(S1 (S (NP (NP (NNS Brawls)) (PP (IN between) (NP (NN union) (NNS factions)))) (ADVP (RB still)) (VP (VB erupt) (PP (IN at) (NP (NNP Pemex) (NNS installations)))) (. .)))
+
+(S1 (S (NP (JJ Leftist) (NN leader) (NNP Cuauhtemoc) (NNP Cardenas)) (ADVP (RB publicly)) (VP (VBD questioned) (NP (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera) (POS 's)) (`` `) (NP (`` `) (JJ moral) (NN quality) (, ,) ('' ')) ('' ') (VP (VBG suggesting) (SBAR (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (DT a) (NN conspiracy) (S (VP (TO to) (VP (VB turn) (PRT (RP over)) (NP (NP (NP (DT the) (NN country) (POS 's)) (NN oil)) (, ,) (NP (NP (DT a) (NN symbol)) (PP (IN of) (NP (JJ Mexican) (NN nationalism)))) (, ,)) (PP (TO to) (NP (NNS foreigners))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ 61-year-old) (NNP Mr.) (NNP Guzman) (NNP Cabrera)) (VP (VBZ takes) (NP (NP (JJ such) (NNS criticisms)) (PP (IN in) (NP (NN stride))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT This)) (VP (VBZ is) (RB n't) (NP (NP (DT a) (JJ new) (NN kind)) (PP (IN of) (NP (NN union) (NN leadership)))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ new) (NNP Mexico))) (. .)))
+
+(S1 (S (S (NP (PRP We)) (VP (VBP 're) (ADVP (RB no) (RB longer)) (ADJP (JJ afraid) (PP (IN of) (S (VP (VBG associating) (PP (IN with) (NP (JJ private) (CC or) (JJ foreign) (NN capital))))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NP (NNP Pemex)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ produces) (NP (NP (CD 40) (NN %)) (PP (IN of) (NP (NN government) (NN revenue))))))) (, ,)) (VP (ADVP (RB desperately)) (VBZ needs) (NP (JJ new) (NN investment))) (. .)))
+
+(S1 (S (SBAR (IN Since) (S (NP (NN world) (NN oil) (NNS prices)) (VP (VBD collapsed) (PP (IN in) (NP (CD 1982)))))) (, ,) (NP (DT the) (NN government)) (VP (VBZ has) (VP (VBN siphoned) (NP (NP (NNP Pemex) (POS 's)) (NNS coffers)) (S (VP (TO to) (VP (VB make) (NP (NP (NNS payments)) (PP (IN on) (NP (NP (NNP Mexico) (POS 's)) (ADJP (QP ($ $) (CD 97) (CD billion))) (JJ foreign) (NN debt))))))))) (. .)))
+
+(S1 (S (NP (JJ Little) (NN money)) (VP (VBZ has) (VP (VBN been) (VP (VBN returned) (S (VP (TO to) (VP (VB upgrade) (NP (NP (NNP Pemex) (POS 's)) (VBG aging) (NNS facilities)))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (DT the) (NN government)) (VP (VBZ drains) (NP (NNP Pemex)) (PP (IN from) (NP (RB above)))))) (, ,) (NP (DT the) (NN union)) (VP (VBZ has) (VP (VBN drained) (NP (PRP it)) (PP (IN from) (ADVP (RB below))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ bloated) (UCP (NN payroll) (CC and) (JJ pervasive)) (NN graft)) (VP (VBD caused) (S (NP (NP (NNP Pemex) (POS 's)) (NN operating) (NNS costs)) (VP (TO to) (VP (VB balloon) (PP (TO to) (NP (NP (CD 95) (NNS cents)) (PP (IN of) (NP (NP (DT each) ($ $) (CD 1)) (PP (IN in) (NP (NNS sales))))) (, ,) (PP (ADVP (RB far)) (IN above) (NP (DT the) (NN industry) (NN norm))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS declines)) (PP (IN in) (NP (NN investment) (CC and) (NN efficiency)))) (VP (VB explain) (PP (IN in) (NP (NN part))) (SBAR (WHADVP (WRB why)) (S (NP (NNP Mexico)) (VP (VBZ has) (VP (VBN been) (VP (VBG importing) (NP (NN gasoline)) (NP (DT this) (NN year)))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS projections)) (VP (VBP show) (S (NP (NNP Mexico)) (VP (VBG importing) (NP (NN crude)) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN century))))) (, ,) (PP (VBG barring) (NP (NP (DT an) (NN overhaul)) (PP (IN of) (NP (NNS operations)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (WHNP (WDT Whatever)) (S (NP (PRP you)) (VP (VBD tried) (S (VP (TO to) (VP (VB change) (, ,) (SBAR (IN whether) (S (NP (PRP it)) (VP (VBD was) (VP (VP (VBG cutting) (NP (NNS costs))) (CC or) (VP (VBG attracting) (NP (JJ new) (NNS partners))))))))))))) (, ,) (NP (DT the) (JJ big) (NN obstacle)) (VP (VBD was) (NP (DT the) (JJ old) (NN union) (NN leadership)))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NN oil) (NN consultant) (NNP George) (NNP Baker)) (. .)))
+
+(S1 (S (VP (VB Enter) (NP (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (NP (NP (DT a) (JJ clear) (NN understanding)) (PP (IN of) (SBAR (WHADVP (WRB where)) (S (NP (NN union) (NNS leaders)) (VP (VBP fit) (PP (IN in) (NP (NP (DT the) (JJ pro-enterprise) (NN regime)) (PP (IN of) (NP (NNP President) (NNP Salinas))))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (NP (DT the) (JJ secretary-general)) (, ,) (SBAR (IN if) (S (NP (EX there)) (VP (VBZ is) (NP (CD one)))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says) (, ,) (S (VP (VBG greeting) (NP (NP (DT a) (NN visitor)) (PP (TO to) (NP (PRP$ his) (NN office))))))) (. .)))
+
+(S1 (S (PP (VBG Beginning) (PP (IN as) (NP (NP (DT a) (NN laborer)) (PP (IN in) (NP (DT a) (NN refinery)))))) (, ,) (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera)) (VP (VBD put) (PRT (RP in)) (NP (QP (JJR more) (IN than) (CD 40)) (NNS years)) (PP (IN at) (NP (NNP Pemex))) (PP (IN before) (S (VP (VBG being) (VP (VBN pushed) (PP (IN into) (NP (NN retirement))) (PP (IN by) (NP (NNP La) (NNP Quina))) (PP (IN after) (NP (NP (DT a) (NN dispute)) (ADVP (NP (CD two) (NNS years)) (RB ago))))))))) (. .)))
+
+(S1 (S (SBAR (IN Though) (S (NP (PRP he)) (ADVP (RB also)) (VP (ADVP (RB long)) (VBD benefited) (PP (IN from) (NP (NP (DT the) (NN system)) (VP (VBN built) (PP (IN by) (NP (NNP La) (NNP Quina))))))))) (, ,) (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera)) (VP (VBZ says) (SBAR (S (NP (NN union) (NNS perks)) (VP (VBN had) (ADVP (RB simply)) (VP (VBN gotten) (ADVP (IN out) (PP (IN of) (NP (NN hand))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP are) (SBAR (`` `) (S (`` `) (PP (IN at) (NP (NP (DT the) (NN base)) (PP (IN of) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT the) (NNS problems)) (PP (IN of) (NP (NN corruption))))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says))))) (. .)))
+
+(S1 (S (ADVP (RB Thus)) (, ,) (PP (IN in) (NP (JJ recent) (NN contract) (NNS negotiations))) (, ,) (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera)) (VP (VBD gave) (PRT (RP up)) (NP (NP (DT the) (NN union) (POS 's)) (NN right) (S (VP (TO to) (VP (VB assign) (NP (NP (CD 40) (NN %)) (PP (IN of) (NP (NP (DT all)) (PP (IN of) (NP (NP (NNP Pemex) (POS 's)) (JJ outside) (NNS contracts)))))) (: --) (NP (NP (DT an) (JJ enormous) (NN source)) (PP (IN of) (NP (NNS kickbacks))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN union)) (ADVP (RB also)) (VP (VBN ceded) (NP (NP (DT the) (ADJP (CD 2) (NN %)) (NN commission)) (SBAR (S (NP (PRP it)) (VP (VBD had) (VP (VBN received) (PP (IN on) (NP (DT all) (NNP Pemex) (NN maintenance) (NNS contracts))))))))) (. .)))
+
+(S1 (PRN (-LRB- -LRB-) (S (NP (DT The) (NN union)) (VP (MD will) (VP (VB keep) (NP (DT a) (ADJP (CD 2) (NN %)) (NN commission)) (PP (IN on) (NP (NN construction) (NNS projects)))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (NP (DT The) (JJ new) (NN contract)) (ADVP (RB also)) (VP (VBZ eliminates) (NP (NP (DT the) (ADJP ($ $) (CD 15)) (JJ monthly) (NN coupon)) (, ,) (ADJP (JJ good) (PP (ADVP (RB only)) (IN at) (NP (JJ union-owned) (NN grocery) (NNS stores)))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (NN salary)) (PP (IN of) (NP (DT every) (NN worker)))))) (, ,) (PP (PP (IN from) (NP (NN roughneck))) (PP (TO to) (NP (JJ chief) (NN executive))))))))) (. .)))
+
+(S1 (S (NP (NP (QP (RB About) (CD 9,800)) (JJ technical) (NNS workers)) (, ,) (RB notably) (NP (NNS chemists) (CC and) (NNS lawyers)) (, ,)) (VP (VBD were) (VP (VBN switched) (PP (TO to) (NP (JJ non-union) (NN status))))) (. .)))
+
+(S1 (S (S (ADVP (RB Also)) (, ,) (PP (IN because) (IN of) (NP (PRP$ its) (VBN reduced) (NN capital) (NN budget))) (, ,) (NP (NNP Pemex)) (VP (VBZ has) (VP (VBN phased) (PRT (RP out)) (PP (IN about) (NP (CD 50,000) (JJ transitory) (NN construction) (NNS workers))) (, ,) (S (VP (VBG reducing) (NP (DT the) (NN work) (NN force)) (PP (TO to) (NP (QP (RB about) (CD 140,000))))))))) (, ,) (NP (DT the) (NN union) (NN leader)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN union) (POS 's)) (VP (VBZ sacrifices) (SBAR (S (VP (MD will) (VP (VB be) (VP (VBN offset) (PP (IN by) (NP (NP (DT a) (NN wage) (CC and) (NN benefit) (NN package)) (SBAR (WHNP (WDT that)) (S (VP (VBZ amounts) (PP (TO to) (NP (NP (DT a) (ADJP (CD 22) (NN %)) (NN increase)) (PP (IN in) (NP (NN compensation))))))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Pemex) (NNS managers)) (VP (VBP are) (NP (NP (DT the) (NNS ones)) (VP (ADVP (RBS most)) (VBN thrilled) (PP (IN by) (NP (DT the) (NN contract)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP are) (VP (VBG retaking) (NP (NP (DT the) (NNS instruments)) (PP (IN of) (NP (NN administration)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Raul) (NNP Robles)) (, ,) (NP (DT a) (NNP Pemex) (NN subdirector))) (. .)))
+
+(S1 (S (S (NP (NNP Pemex) (NNS officials)) (VP (MD would) (RB n't) (VP (VB say) (SBAR (WHNP (WHADJP (WRB how) (JJ much)) (NN money)) (S (NP (DT the) (JJ new) (NN contract)) (VP (MD would) (VP (VB save) (NP (DT the) (NN company))))))))) (, ,) (CC but) (S (NP (CD one) (JJ previous) (NN government) (NN estimate)) (VP (VBN pegged) (NP (NNS savings)) (PP (IN at) (NP (NP (QP (IN around) ($ $) (CD 500) (CD million))) (NP (DT a) (NN year)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Pemex) (POS 's)) (NNS customers)) (ADVP (RB also)) (VP (VBP are) (ADJP (JJ pleased) (PP (IN with) (NP (NP (DT the) (NN company) (POS 's)) (JJ new) (NN spirit))))) (. .)))
+
+(S1 (S (NP (NP (NNP Grupo) (NNP Desc)) (, ,) (NP (DT a) (JJ big) (NN conglomerate)) (, ,)) (VP (VBZ has) (VP (ADVP (RB long)) (VBN depended) (PP (IN on) (NP (NNP Pemex) (NNS petrochemicals) (S (VP (TO to) (VP (VB produce) (NP (JJ plastic) (VBG packing) (NN material))))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP Pemex) (NN plant)) (VP (VBD shut) (PRT (RP down)) (PP (IN for) (NP (DT an) (JJ annual) (NN overhaul)))))) (, ,) (NP (PRP it)) (VP (MD would) (ADVP (RB never)) (VP (VB give) (NP (NN notice)) (PP (TO to) (NP (PRP$ its) (NNS customers))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN capriciousness)) (VP (MD would) (ADVP (RB completely)) (VP (VB disrupt) (NP (PRP$ our) (NNS operations)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Ernesto) (NNP Vega) (NNP Velasco)) (, ,) (NP (NP (NNP Desc) (POS 's)) (NN finance) (NN director))) (. .)))
+
+(S1 (S (NP (DT This) (NN year)) (, ,) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (NP (UCP (NNP Desc) (CC and) (JJ other)) (NNS customers)) (VP (VBD were) (VP (VBN consulted) (ADVP (RB well)) (PP (IN in) (NP (NP (NN advance)) (PP (IN of) (NP (NP (DT the) (NNP Pemex) (NN plant) (POS 's)) (NN shutdown) (S (VP (TO to) (VP (VB ensure) (NP (JJ minimal) (NN inconvenience))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Taming) (NP (DT the) (NN union)))) (VP (VBZ complements) (NP (NP (JJ previous) (NNS moves)) (PP (IN by) (NP (DT the) (NN government) (S (VP (TO to) (VP (VB attract) (NP (NP (JJ private) (NN investment)) (PP (IN in) (NP (NP (NNS petrochemicals)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP Mexico)) (VP (VBZ has) (VP (VBN been) (VP (VBN forced) (S (VP (TO to) (VP (VB import) (PP (IN in) (NP (JJ large) (NNS quantities))) (PP (IN in) (NP (JJ recent) (NNS years))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP May))) (, ,) (NP (DT the) (NN government)) (VP (VBD unveiled) (NP (NP (JJ new) (JJ foreign) (NN investment) (NNS regulations)) (SBAR (WHNP (WDT that)) (S (VP (VBP create) (NP (NP (JJ special) (NNS trusts)) (VP (VBG allowing) (S (NP (NP (NNS foreigners)) (, ,) (VP (ADVP (RB long)) (VBN limited) (PP (TO to) (NP (NP (DT a) (ADJP (CD 40) (NN %)) (NN stake)) (PP (IN in) (NP (JJ secondary) (NN petrochemical) (NNS companies)))))) (, ,)) (VP (TO to) (VP (VB own) (PRT (RP up)) (PP (TO to) (NP (CD 100) (NN %))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Later)) (, ,) (NP (DT the) (NN government)) (VP (VBD reclassified) (NP (JJ several) (JJ basic) (NNS petrochemicals)) (PP (IN as) (NP (JJ secondary) (NNS products)))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NP (NNP Pemex) (POS 's)) (NN courtship)) (PP (IN with) (NP (NP (JJ private) (NNS companies)) (, ,) (CC and) (RB especially) (NP (JJ foreign) (NNS ones)) (, ,)))) (VP (VBZ is) (ADJP (JJ controversial)) (PP (IN in) (NP (NP (DT a) (NN country)) (SBAR (WHADVP (WRB where)) (S (NP (NN oil)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (NN symbol)) (PP (IN of) (NP (JJ national) (NN sovereignty)))) (SBAR (IN since) (S (NP (JJ foreign) (NN oil) (NNS holdings)) (VP (VBD were) (VP (VBN nationalized) (PP (IN in) (NP (CD 1938)))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP They)) (VP (VBP are) (VP (VBG preparing) (NP (DT the) (NNS workers)) (PP (IN for) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG coming)))))) (: :) (NP (JJ foreign) (NN control)))) (, ,) ('' ')) ('' ') (VP (VBD wrote)) (NP (NP (NNP Heberto) (NNP Castillo)) (, ,) (NP (DT a) (JJ leftist) (NN leader))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Guzman) (NNP Cabrera)) (CC and) (NP (NN government) (NNS officials))) (VP (VBP insist) (SBAR (IN that) (S (NP (NNS foreigners)) (VP (MD will) (VP (VB be) (VP (VBN limited) (PP (TO to) (S (VP (VBG investing) (PP (IN in) (NP (JJ secondary) (NN petroleum) (NNS products)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ new) (NN union) (NN leader)) (VP (VBZ makes) (NP (NP (DT no) (NNS apologies)) (PP (IN for) (NP (NP (NNP Pemex) (POS 's)) (ADJP (RBR more) (JJ outward-looking)) (NN attitude))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN If) (S (NP (PRP we)) (VP (VBP do) (RB not) (VP (VB integrate) (PP (IN into) (NP (NP (DT this) (JJ new) (NN world)) (PP (IN of) (NP (NN interdependence))))))))) (, ,) (ADVP (RB sooner) (CC or) (RB later)) (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB become) (NP (NP (NNS victims)) (PP (IN of) (NP (PRP$ our) (JJ own) (NN isolation))))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+

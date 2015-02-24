@@ -1,0 +1,34 @@
+(S1 (S (NP (NP (NNP Merksamer) (NNPS Jewelers) (NNP Inc.)) (, ,) (NP (DT a) (JJ fast-growing) (NN jewelry) (NN store) (NN chain)) (, ,)) (VP (VBD filed) (PP (IN for) (NP (NNP Chapter) (CD 11) (NN bankruptcy-law) (NN protection))) (PP (IN from) (NP (NNS creditors))) (, ,) (S (ADVP (RB apparently)) (VP (TO to) (VP (VB speed) (NP (NP (DT a) (NN management) (NN buy-out)) (PP (IN of) (NP (DT the) (NN chain)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN filing)) (, ,) (VP (VBN made) (NP (NN yesterday)) (PP (IN in) (NP (NNP U.S.) (NNP Bankruptcy) (NNP Court))) (ADVP (RB here))) (, ,)) (VP (VBZ follows) (NP (NP (DT an) (NN agreement)) (PP (IN by) (NP (NP (NNP L.J.) (NNP Hooker) (NNP Corp.)) (, ,) (NP (NP (NNP Merksamer) (POS 's)) (NN owner)) (, ,))) (S (VP (TO to) (VP (VB sell) (NP (DT the) (NN chain)) (PP (TO to) (NP (NN management))) (PP (IN for) (NP (DT an) (JJ undisclosed) (NN price)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP GE) (NNP Capital) (NNP Corp.)) (, ,) (NP (NP (DT a) (JJ financial) (NNS services) (NN subsidiary)) (PP (IN of) (NP (NNP General) (NNP Electric) (NNP Co.)))) (, ,)) (VP (VBZ is) (VP (VBG providing) (NP (NNP Merksamer) (NN management)) (PP (IN with) (NP (NP (QP ($ $) (CD 15) (CD million))) (PP (IN in) (NP (NN financing))))))) (. .)))
+
+(S1 (S (NP (NP (NNP L.J.) (NNP Hooker)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP Atlanta)))) (, ,)) (VP (VP (VBD filed) (PP (IN for) (NP (NNP Chapter) (CD 11) (NN protection))) (PP (IN in) (NP (NNP August)))) (CC and) (VP (VBZ has) (RB also) (VP (VBD announced) (NP (PRP$ its) (NN intention) (S (VP (TO to) (VP (VB sell) (NP (PRP$ its) (NP (NNP B.) (NNP Altman) (CC &) (NNP Co.)) (NN department) (NN store) (NN chain))))))))) (. .)))
+
+(S1 (S (NP (NNP L.J.) (NNP Hooker)) (VP (VBZ is) (VP (VBN owned) (PP (IN by) (NP (NP (NNP Hooker) (NNP Corp.)) (, ,) (NP (NP (NNP Sydney)) (, ,) (NP (NNP Australia))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP itself)) (VP (VBZ is) (ADVP (RB currently)) (VP (VBG being) (VP (VBN managed) (PP (IN by) (NP (DT a) (JJ court-appointed) (JJ provisional) (NN liquidator)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP L.J.) (NNP Hooker) (POS 's)) (JJ planned) (NN sale)) (PP (IN of) (NP (NNP Merksamer)))) (VP (VBZ is) (ADJP (JJ subject) (PP (TO to) (NP (NP (NN approval)) (PP (IN by) (NP (NP (NNP Judge) (NNP Tina) (NNP Brozman)) (PP (IN of) (NP (NNP U.S.) (NNP Bankruptcy) (NNP Court))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Rumors)) (PP (TO to) (NP (DT the) (NN effect) (SBAR (IN that) (S (NP (DT the) (NNP Merksamer) (NN chain)) (VP (MD would) (VP (VB file) (PP (IN for) (NP (NNP Chapter) (CD 11)))))))))) (VP (VBD arose) (NP (JJ last) (NN week)) (PP (IN in) (NP (DT the) (NN jewelry) (NN industry)))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT that) (NN time))) (, ,) (NP (NP (NNP Sam) (NNP Merksamer)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (DT the) (NN chain)))) (, ,)) (ADVP (RB angrily)) (VP (VBD denied) (SBAR (IN that) (S (NP (PRP$ his) (NN company)) (VP (VBD was) (VP (IN about) (S (VP (TO to) (VP (VB file))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Merksamer)) (VP (VBZ is) (VP (VBG leading) (NP (DT the) (NN buy-out)))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NP (NNS executives)) (ADJP (JJ close) (PP (TO to) (NP (DT the) (NN situation))))))) (, ,) (NP (NNP Merksamer)) (VP (VBD filed) (PP (IN for) (NP (NNP Chapter) (CD 11))) (S (VP (TO to) (VP (VB speed) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (DT the) (NN chain)))))))) (. .)))
+
+(S1 (S (NP (CD One) (NN executive)) (VP (VBD said) (SBAR (S (NP (NP (DT an) (NN accord)) (VP (VBN signed) (PP (IN by) (NP (NP (DT the) (JJ unsecured) (NNS creditors)) (PP (IN of) (NP (NNP L.J.) (NNP Hooker) (NNP Corp.))))))) (VP (VBD had) (VP (VBN frozen) (PP (IN in) (NP (NN place))) (NP (NP (DT all)) (PP (IN of) (NP (NP (NNP L.J.) (NNP Hooker) (POS 's)) (NNS assets))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Merksamer) (NN bankruptcy-law) (NN filing)) (VP (VBZ appears) (S (VP (TO to) (VP (VB supersede) (NP (DT that) (NN agreement)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (PP (IN By) (S (VP (VBG filing) (PP (IN for) (NP (NNP Chapter) (CD 11)))))) (, ,) (NP (DT the) (NNP Merksamer) (NN chain)) (VP (MD will) (ADVP (RB only)) (VP (VB need) (NP (NP (NN approval)) (PP (IN from) (NP (DT a) (NN bankruptcy) (NN judge)))) (PP (IN for) (NP (NP (DT the) (NN sale)) (, ,) (RB not) (NP (NP (DT the) (NNS hundreds)) (PP (IN of) (NP (JJ unsecured) (NNS creditors)))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (DT this) (NN executive)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NP (DT The) (NN cash)) (PP (IN from) (NP (DT the) (NN sale)))) (VP (MD will) (VP (VB go) (PP (TO to) (NP (NNP L.J.) (NNP Hooker)))))) (, ,) (CC but) (S (NP (NP (DT the) (NN company)) (NP (PRP itself))) (VP (MD will) (VP (VB belong) (PP (TO to) (NP (NNP Sam) (NNP Merksamer)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Merksamer)) (CC and) (NP (NP (NNP Sanford) (NNP Sigoloff)) (, ,) (NP (NP (JJ chief) (NN executive)) (PP (IN of) (NP (NNP L.J.) (NNP Hooker)))) (, ,))) (VP (VBD were) (ADJP (JJ unavailable) (PP (IN for) (NP (NN comment))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NN statement))) (, ,) (NP (NNP Mr.) (NNP Merksamer)) (VP (VP (VBD described) (NP (DT the) (NN filing)) (PP (IN as) (NP (DT a) (`` `) (NX (`` `) (NX (JJ legal) (NN technicality)) (, ,) ('' ')) ('' ')))) (CC but) (VP (ADVP (RB also)) (VBD said) (SBAR (IN that) (`` `) (S (`` `) (NP (NP (PRP$ our) (NN inability) (S (VP (TO to) (VP (VB obtain) (NP (NN trade) (NN credit)))))) (, ,) (VP (VBN combined) (PP (IN with) (NP (DT a) (NN need) (S (VP (TO to) (VP (VB ensure) (SBAR (IN that) (S (NP (PRP$ our) (NNS stores)) (VP (VBD were) (VP (ADVP (RB properly)) (VBN stocked) (PP (IN for) (NP (DT the) (NNP Christmas) (NN season))))))))))))) (, ,)) (VP (VBN necessitated) (NP (PRP$ our) (NN filing)) (NP (NNP Chapter) (CD 11))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT The) (NN jewelry) (NN chain)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Sacramento)) (, ,) (NP (NNP Calif.)))))))) (, ,)) (VP (VBD had) (NP (NP (NP (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 62) (CD million))))) (CC and) (NP (NP (NN operating) (NN profit)) (PP (IN of) (NP (NP (QP ($ $) (CD 2.5) (CD million))) (PP (IN for) (NP (NP (DT the) (NN year)) (VP (VBN ended) (NP (NNP June) (CD 30)))))))))) (. .)))
+

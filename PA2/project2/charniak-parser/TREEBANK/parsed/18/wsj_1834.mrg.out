@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP General) (NNP Dynamics) (NNP Corp.)) (VP (VBD was) (VP (VBN awarded) (NP (NP (NNS contracts)) (VP (VBG totaling) (NP (QP ($ $) (CD 589) (CD million)))) (PP (PP (IN for) (NP (CD one) (NNP Navy) (NNP Trident) (NN submarine))) (CC and) (PP (IN for) (NP (NP (NNP Air) (NNP Force) (NN research)) (PP (IN on) (NP (DT the) (NNP National) (NNP Aerospace) (NN plane))))))))) (. .)))
+
+(S1 (S (NP (NNP Grumman) (NNP Corp.)) (VP (VBD won) (NP (NP (DT a) (ADJP (QP ($ $) (CD 58.9) (CD million))) (NNP Navy) (NN contract)) (PP (IN for) (NP (CD 12) (NN F-14) (NNS aircraft))))) (. .)))
+
+(S1 (S (NP (NNP Raytheon) (NNP Co.)) (VP (VBD was) (VP (VBN issued) (NP (NP (DT a) (ADJP (QP ($ $) (CD 19.2) (CD million))) (NNP Air) (NNP Force) (NN contract)) (PP (IN for) (NP (NP (NN support)) (PP (IN of) (NP (DT the) (NNP Milstar) (NNS communications) (NN satellite)))))))) (. .)))
+
+(S1 (S (NP (NNP McDonnell) (NNP Douglas) (NNP Corp.)) (VP (VBD got) (NP (NP (DT a) (ADJP (QP ($ $) (CD 12.5) (CD million))) (NNP Air) (NNP Force) (NN contract)) (PP (IN for) (NP (NP (NN support) (NN work)) (PP (IN on) (NP (DT the) (JJ National) (NN Aerospace) (NN plane))))))) (. .)))
+

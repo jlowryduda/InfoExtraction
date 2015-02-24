@@ -1,0 +1,34 @@
+(S1 (S (NP (DT This)) (VP (VBZ is) (PP (IN in) (NP (NP (NN response)) (PP (TO to) (NP (NP (NNP George) (NNP Melloan) (POS 's)) (NNP Business) (NNP World) (NN column) (`` `) (S (`` `) (NP (DT The) (NN Housing) (NN Market)) (VP (VBZ Is) (S (NP (NP (DT a) (JJR Bigger) (NN Mess)) (PP (IN Than) (NP (PRP You)))) (VP (VBP Think)))) ('' ')) ('' ') (PRN (-LRB- -LRB-) (NP (NP (JJ op-ed) (NN page)) (, ,) (NP (NNP Sept.) (CD 26))) (-RRB- -RRB-))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Houston))) (, ,) (NP (PRP we)) (VP (VBP have) (VP (VBN seen) (SBAR (WHADJP (WRB how) (JJ bad)) (S (NP (DT the) (NN housing) (NN problem)) (VP (MD can) (VP (VB become))))))) (. .)))
+
+(S1 (S (S (NP (JJ Unused) (NNS houses)) (VP (VBP deteriorate) (ADVP (RB rapidly)) (, ,) (S (VP (VBG affecting) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (JJ nearby) (NNS homes)))))))) (: ;) (S (PP (IN in) (NP (DT a) (NN domino) (NN effect))) (, ,) (NP (DT the) (JJ entire) (NN neighborhood)) (VP (MD can) (VP (VB fall) (NP (NN victim))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT this) (NN stage))) (NP (DT some) (NNS people)) (ADVP (RB just)) (VP (`` `) (VP (`` `) (VP (VB walk) (ADVP (RB away))) ('' ')) ('' ') (PP (IN from) (NP (NP (NNS homes)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN mortgage)) (VP (VBZ exceeds) (NP (JJ current) (NN market) (NN value)))))))) (. .)))
+
+(S1 (S (CC But) (S (NP (NP (JJS most)) (PP (IN of) (NP (PRP them)))) (VP (MD could) (VP (VB have) (VP (VBN afforded) (S (VP (TO to) (VP (VB keep) (PRT (RP up)) (NP (PRP$ their) (NNS payments))))))))) (: --) (S (NP (PRP they)) (VP (VBD chose) (S (RB not) (VP (TO to) (VP (VB do) (ADVP (RB so))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN problem)) (VP (VBZ is) (ADJP (RB so) (JJ vast)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB try) (NP (JJ innovative) (NNS solutions)) (: --) (PP (IN in) (NP (JJ small-scale) (NNS experiments)))))))))) (. .)))
+
+(S1 (SINV (ADVP (RB Here)) (VP (VBP are)) (NP (DT some) (NNS ideas)) (: :)))
+
+(S1 (S (LST (LS 1) (-RRB- -RRB-)) (NP (VBN Foreclosed) (NNS homes)) (VP (MD could) (VP (VB be) (VP (VBN sold) (PP (IN by) (NP (DT the) (NNP FHA))) (PP (IN for) (NP (NP (DT no) (JJ down) (NN payment)) (PRN (-LRB- -LRB-) (NP (NP (DT the) (JJS biggest) (NN obstacle)) (PP (TO to) (NP (JJ young) (NNS buyers)))) (-RRB- -RRB-)))) (, ,) (PP (CC but) (PP (IN with) (NP (NP (JJ personal) (NN liability)) (PP (IN for) (NP (DT the) (NN mortgage))))) (PRN (-LRB- -LRB-) (NP (NP (DT no) (VBG walking) (RP away)) (PP (IN by) (NP (NN choice)))) (-RRB- -RRB-)))))) (. .)))
+
+(S1 (S (LST (LS 2) (-RRB- -RRB-)) (VP (VB Encourage) (NP (JJ long-term) (NN occupancy)) (PP (IN by) (S (S (ADJP (JJ forgiving) (SBAR (S (NP (CD one) (NN month)) (VP (VBZ 's) (NP (NP (NN payment)) (PRN (-LRB- -LRB-) (PP (IN off) (NP (NP (DT the) (NN tail) (NN end)) (PP (IN of) (NP (DT the) (NN mortgage))))) (-RRB- -RRB-)) (PP (IN for) (NP (NP (DT every) (CD six) (NNS months)) (VP (VBN paid)))))))))) (: ;) (CC or) (SQ (VP (ADVP (RB perhaps)) (VB have) (S (S (NP (DT the) (JJ down) (NN payment)) (VP (VBN deferred) (PP (TO to) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NP (DT the) (NN mortgage)) (PRN (-LRB- -LRB-) (NP (NN balloon)) (-RRB- -RRB-)))))))) (, ,) (CC but) (S (ADJP (`` `) (ADJP (`` `) (VBN forgiven) ('' ')) ('' ') (PP (IN on) (NP (DT a) (JJ monthly) (JJ pro-rata) (NN basis)))))) (ADVP (RB as) (RB long) (SBAR (IN as) (S (NP (DT the) (NN owner)) (VP (VBZ remains) (NP (DT the) (NN occupant))))))))))) (. .)))
+
+(S1 (S (LST (LS 3) (-RRB- -RRB-)) (VP (VB Develop) (NP (NP (JJ rental) (NNS agreements)) (PP (IN with) (NP (NP (JJ exclusive) (NN purchase) (NNS options)) (PP (IN for) (NP (DT the) (NN renter))))))) (. .)))
+
+(S1 (S (NP (DT An) (NN occupant)) (VP (MD will) (, ,) (PP (IN in) (NP (JJS most) (DT every) (NN case))) (, ,) (VP (VB be) (ADJP (ADJP (JJR better)) (PP (IN for) (NP (DT the) (NN home) (CC and) (NN neighborhood))) (PP (IN than) (NP (DT a) (JJ vacant) (NN house)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT this) (NN way))) (, ,) (NP (DT the) (NN house)) (VP (VBZ is) (RB not) (VP (VBD dumped) (PRT (RP on)) (PP (TO to) (NP (DT a) (VBN glutted) (NN market))))) (. .)))
+
+(S1 (NP (NNP John) (NNP F.) (NNP Merrill)))
+
+(S1 (NP (NNP Houston)))
+
+(S1 (S (NP (NP (DT The) (NNP Federal) (NNP Housing) (NNP Administration)) (, ,) (NP (NNPS Veterans) (NNP Administration)) (CC and) (NP (NP (DT the) (NNP Department)) (PP (IN of) (NP (NNP Housing) (CC and) (NNP Urban) (NNP Development))))) (ADVP (RB further)) (VP (VBP aggravate) (NP (NP (DT the) (NN problem)) (PP (IN of) (NP (JJ affordable) (NN housing) (NN stock)))) (PP (IN by) (`` `) (S (VP (`` `) (VP (VBG buying) (PRT (RP in)) ('' ') ('' ') (PP (TO to) (NP (NP (PRP$ their) (VBN foreclosed) (NNS properties)) (SBAR (-LRB- -LRB-) (WHPP (IN of) (WHNP (WDT which))) (S (NP (EX there)) (VP (VBP are) (PRN (, ,) (INTJ (UH alas)) (, ,) (JJ many) (-RRB- -RRB-)) (PP (IN at) (NP (NP (DT an)) (VP (VBN inflated) (S (`` `) (VP (`` `) (VB balance) (ADVP (RB due)) ('' ')) ('' '))))) (PRN (: --) (S (VP (VB say) (NP ($ $) (CD 80,000)) (PP (IN on) (NP (NP (DT a) (NN house)) (PP (IN worth) (NP ($ $) (CD 55,000))))))) (: --)) (PP (RB instead) (IN of) (S (VP (VBG allowing) (S (NP (DT a) (JJ free) (NN market)) (VP (TO to) (VP (VB price) (NP (DT the) (NN house)) (PP (IN for) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB really) (JJ worth)))))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (JJR Worse)) (, ,) (NP (DT the) (NNS properties)) (ADVP (RB then)) (VP (VBP sit) (PP (IN around) (NP (S (VP (VP (VBG deteriorating) (PP (IN for) (NP (RB maybe) (DT a) (NN year) (QP (CC or) (RB so))))) (, ,) (CC but) (VP (VBP are) (VP (VBN resold) (ADVP (RB eventually)) (PRN (-LRB- -LRB-) (PP (IN because) (PP (IN of) (NP (NP (DT the) (NN attractiveness)) (PP (IN of) (NP (DT the) (JJ low) (JJ down) (NN payment) (, ,) (FW etc) (. .)))))) (-RRB- -RRB-)) (PP (TO to) (NP (NP (DT a) (JJ marginal) (NN buyer)) (SBAR (WHNP (WP who)) (S (VP (MD ca) (RB n't) (VP (VB afford) (NP (PDT both) (DT the) (NN mortgage) (CC and) (VBN needed) (NNS repairs)))))))))) (: ;) (CC and) (VP (VBG having) (NP (NP (JJ little) (JJ vested) (NN interest)) (SBAR (WHNP (WDT that)) (S (NP (NN buyer)) (VP (MD will) (VP (VB walk) (ADVP (RB away)))))))))) (CC and) (NP (NP (DT the) (JJ vicious) (NN cycle)) (NP (NNS repeats))))) (NP (PRP itself)) (ADVP (RB all) (RB over) (RB again))) (. .)))
+
+(S1 (NP (NNP Paul) (NNP Padget)))
+

@@ -1,0 +1,6 @@
+(S1 (S (NP (NP (NNP Michael) (NNP Grobstein)) (, ,) (ADJP (NP (CD 46) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NP (NN vice) (NN chairman)) (PP (IN for) (NP (NN planning) (, ,) (NN marketing) (CC and) (NN industry) (NNS services)))) (, ,) (NP (DT a) (JJ new) (NN post)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Grobstein)) (VP (VBD had) (VP (VBN been) (NP (NP (DT a) (NN vice) (NN chairman)) (PP (IN of) (NP (NP (NNP Ernst) (CC &) (NNP Whinney)) (, ,) (NP (NP (DT an) (NN accounting) (NN firm)) (SBAR (WHNP (WDT that)) (S (VP (VBD merged) (PP (IN with) (NP (JJ rival) (NNP Arthur) (NNP Young))) (PP (IN in) (NP (NNP July))) (S (VP (TO to) (VP (VB form) (NP (NP (NNP Ernst) (CC &) (NNP Young)) (, ,) (NP (DT a) (JJ major) (NN accounting) (, ,) (NN tax) (CC and) (NN management) (NN consulting) (NN firm))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Mr.) (NNP Grobstein) (POS 's)) (NN appointment)) (VP (VBZ formalizes) (NP (NP (DT a) (NN role)) (SBAR (S (NP (PRP he)) (VP (VBZ has) (VP (VBN been) (VP (VBG performing) (PP (IN since) (NP (DT the) (NN merger))))))))))) (, ,) (NP (DT a) (NN spokeswoman)) (VP (VBD said)) (. .)))
+

@@ -1,0 +1,4 @@
+(S1 (S (NP (DT The) (NNP Navy)) (VP (VBD awarded) (NP (NP (NP (NNP Litton) (NNPS Industries) (NNP Inc.) (POS 's)) (NNP Ingalls) (NNP Shipbuilding) (NN division)) (ADJP (QP ($ $) (CD 15.5) (CD million)))) (PP (IN for) (NP (NN shipyard) (NNS services))) (PP (IN on) (NP (DT the) (NNP Aegis) (NN cruiser) (NN program)))) (. .)))
+
+(S1 (S (NP (DT The) (NN award)) (VP (VBZ exercises) (NP (NP (DT a) (NNP Navy) (NN option)) (SBAR (S (VP (TO to) (VP (VB extend) (NP (NP (DT a) (NN contract)) (VP (VBN given) (PP (IN in) (NP (CD 1984))))))))))) (. .)))
+

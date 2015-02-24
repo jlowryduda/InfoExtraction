@@ -1,0 +1,294 @@
+(S1 (S (NP (NP (CD One) (NN day)) (NP (JJ last) (NNP March))) (, ,) (NP (NP (NNP CBS) (NNP Sports) (NNP President) (NNP Neal) (NNP Pilson)) (CC and) (NP (NNP Olympics) (NN superagent) (NNP Barry) (NNP Frank))) (VP (VBD met) (PP (IN for) (NP (NN lunch))) (PP (IN at) (NP (NP (DT the) (NNP Lotos) (NNP Club)) (ADVP (RB here))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Frank)) (VP (VBD told) (NP (NNP Mr.) (NNP Pilson)) (SBAR (IN that) (S (NP (NNP Olympics) (NNS officials)) (VP (VBD wanted) (NP (NP (NP (QP ($ $) (CD 290) (CD million) (CC or) (JJR more))) (PP (IN for) (NP (NP (NN TV) (NNS rights)) (PP (TO to) (NP (DT the) (CD 1994) (NNP Winter) (NNS Games)))))) (PP (IN in) (NP (NNP Norway)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP CBS) (NN official)) (VP (VBD said) (SBAR (S (NP (DT that) (NN price)) (VP (VBD sounded) (ADJP (JJ fine)))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT that) (NN price))) (, ,) (NP (NNP CBS)) (VP (VBD was) (NP (NP (DT the) (JJ only) (NN player)) (PP (IN at) (NP (DT the) (NN table)))) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNS negotiations)) (PP (IN with) (NP (DT the) (NNP International) (NNP Olympic) (NNP Committee)))) (VP (VBD started) (PP (IN in) (NP (NNP Toronto))) (NP (NNP Aug.) (CD 23)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Dick) (NNP Pound)) (, ,) (NP (DT a) (NN committee) (NN member)) (, ,)) (VP (VBD began) (PP (IN by) (S (VP (VBG disclosing) (SBAR (IN that) (S (NP (NNP ABC) (CC and) (NNP NBC)) (VP (VBD had) (VP (VBN refused) (S (VP (TO to) (ADVP (RB even)) (VP (VB bid)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (, ,) (NP (PRP he)) (VP (VP (VBD asked) (NP (NNP Mr.) (NNP Pilson)) (S (VP (TO to) (VP (VB raise) (NP (PRP$ his) (NN offer)) (ADVP (RB anyway)))))) (: :) (`` `) (S (`` `) (SBAR (IN If) (S (NP (PRP we)) (VP (MD can) (VP (VB have) (NP (NP (DT a) (NN number)) (SBAR (WHNP (WDT that)) (S (VP (VBZ starts) (PP (IN with) (NP (DT a) (CD three))))))))))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB have) (NP (DT a) (NNP dea)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Pilson)) (CC and) (NP (PRP$ his) (NN team))) (VP (VP (VBD huddled) (PP (IN in) (NP (DT a) (NN hallway)))) (CC and) (VP (VBD took) (NP (RB just) (CD 10) (NNS minutes)) (S (VP (TO to) (VP (VB return) (PP (IN with) (NP (DT a) (ADJP (QP ($ $) (CD 300) (CD million))) (NN offer)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Pound)) (VP (VBD responded) (, ,) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (NN deal))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT A) (NN beaming)) (NP (NNP Mr.) (NNP Pilson)) (VP (VBD announced) (NP (NP (PRP$ his) (JJS lastest) (NN coup)) (PP (IN at) (NP (DT a) (NN news) (NN conference)))) (NP (DT that) (NN afternoon))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Mr.) (NNP Pilson) (POS 's)) (NNS rivals)) (PP (IN at) (NP (NNP ABC) (CC and) (NNP NBC)))) (VP (VBN grimaced) (PP (IN at) (NP (DT the) (NN price)))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (MD could) (NP (NNP CBS)) (VP (VB get) (VP (VBN pushed) (PP (IN into) (S (VP (VBG outbidding) (NP (PRP itself)))))))) (. ?)))
+
+(S1 (S (INTJ (UH Well)) (, ,) (NP (NP (NNP CBS)) (, ,) (VP (VP (VBN mired) (PP (IN in) (NP (DT the) (NNS ratings))) (NP (NNP cellar))) (CC and) (VP (VBG looking) (PP (TO to) (NP (NP (NNS sports)) (PP (IN as) (NP (DT a) (NN way) (IN out))))))) (, ,)) (VP (VBD wanted) (S (VP (TO to) (VP (VP (VB close) (NP (DT the) (NN deal)) (ADVP (RB immediately))) (CC and) (VP (VB block) (NP (PRP$ its) (NNS rivals)) (PP (IN from) (S (VP (VBG getting) (NP (DT another) (NN chance) (S (VP (TO to) (VP (VB bid))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ has) (VP (VBN been) (VP (VBN put) (PP (IN in) (NP (NP (DT the) (JJ uncomfortable) (NN role)) (PP (IN of) (S (VP (VBG setting) (PRT (RP off)) (NP (NP (DT a) (NN bidding) (NN frenzy)) (PP (IN for) (NP (NP (NNS sports) (NNS rights)) (, ,) (NP (DT a) (NN frenzy)))))))) (SBAR (IN that) (S (NP (DT the) (NNS networks)) (VP (VBD had) (VP (VBN hoped) (S (VP (TO to) (VP (VB avoid))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (DT The) (NN price)) (PP (IN of) (NP (NN poker)))) (VP (VBZ has) (VP (VBN gone) (ADVP (RB up)))) (, ,) ('' ')) ('' ') (VP (VBZ crows)) (NP (NP (NNP Charles) (NNP M.) (NNP Neinas)) (, ,) (NP (NP (DT the) (NNP College) (NNP Football) (NNP Association) (POS 's)) (JJ executive) (NN director))) (. .)))
+
+(S1 (S (SBAR (IN With) (S (NP (NNP CBS) (NNP Inc.)) (PP (IN on) (NP (NP (DT a) (JJ spending) (NN spree)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB top) (NP (QP ($ $) (CD 2.5) (CD billion))) (PP (IN for) (NP (NP (CD four) (NNS years)) (PP (IN of) (NP (JJ major) (NNS sports) (NNS events))))))))))))) (, ,) (NP (NP (DT the) (JJ new) (NN bout)) (PP (IN of) (NP (NN hyperinflation)))) (VP (MD could) (VP (VB jolt) (NP (DT the) (JJ entire) (NN broadcast) (NN business)))) (. .)))
+
+(S1 (S (NP (NP (NNP CBS)) (NP (PRP itself))) (VP (MD could) (VP (VB run) (PRT (RP up)) (NP (NP (NNS losses)) (PP (IN of) (NP (DT a) (JJ few) (QP (CD hundred) (CD million)) (NNS dollars)))) (PP (IN on) (NP (NP (CD four) (NNS years)) (PP (IN of) (NP (JJ various) (NNS sports))))) (SBAR (IN if) (S (NP (PRP$ its) (JJ big) (NN gamble)) (VP (VBZ goes) (ADJP (JJ wrong))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP ABC)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Capital) (NNP Cities\/ABC) (NNP Inc.)))) (, ,)) (CC and) (NP (NP (NNP General) (NNP Electric) (NNP Co.) (POS 's)) (NNP National) (NNP Broadcasting) (NNP Co.))) (ADVP (RB also)) (VP (VBP risk) (NP (NNS losses)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBD outbid) (NP (NNP CBS)) (PP (IN for) (NP (JJ other) (NNS contracts))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NNS rights) (NNS fees)) (VP (VBP head) (ADVP (RB skyward))))) (, ,) (NP (NN ad) (NNS rates)) (VP (MD wo) (RB n't)) (. .)))
+
+(S1 (S (NP (NNS Advertisers)) (ADVP (RB already)) (VP (VBP are) (VP (VBG balking) (PP (IN at) (NP (JJR higher) (NNS prices))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NNS networks)) (VP (VBP are) (VP (VBG paying) (ADVP (RB too) (RB much)) (PP (IN for) (NP (NNS rights))))) (, ,) ('' ')) ('' ') (VP (VBZ warns)) (NP (NP (JJ adman) (NNP Paul) (NNP Isacsson)) (PP (IN of) (NP (NNP Young) (CC &) (NNP Rubicam)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN If) (S (NP (PRP they)) (VP (VBP ask) (NP (NNS advertisers)) (S (VP (TO to) (VP (VB absorb) (NP (DT the) (NNS costs)))))))) (, ,) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ likely) (S (VP (TO to) (VP (VB lose) (NP (NP (DT all)) (PP (CC but) (NP (NP (DT a) (JJ few)) (SBAR (WHNP (WP who)) (S (VP (VBP need) (NP (NP (NNS sports)) (, ,) (PP (IN above) (NP (DT all))))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NNS Viewers)) (VP (MD may) (RB not) (VP (VB be) (ADJP (VBG cheering)) (, ,) (ADVP (RB either)))) (. .)))
+
+(S1 (S (NP (VBG Soaring) (NNS rights) (NNS fees)) (VP (MD will) (VP (VB lead) (PP (TO to) (NP (NP (DT an) (ADJP (RB even) (JJR greater)) (NN clutter)) (PP (IN of) (NP (NNS commercials))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (DT some) (NNS sports) (NNS events)) (VP (MD will) (VP (VB move) (PP (PP (IN off) (NP (`` `) (ADJP (`` `) (JJ free) ('' ')) ('' ') (NN television))) (CC and) (PP (IN onto) (NP (NP (NN cable) (CC or) (NN pay-cable)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NP (PDT half) (DT the) (NN nation) (POS 's)) (NN TV) (NNS homes)) (VP (MD ca) (RB n't) (VP (VB see) (NP (PRP them))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP CBS)) (VP (VBZ has) (VP (VBN changed) (NP (DT the) (NNS rules)) (PP (IN by) (S (VP (VBG throwing) (PRT (RP out)) (NP (NP (DT the) (JJ old) (NN basis)) (PP (IN for) (NP (NNS sports) (NNS bids)))))))))) (: --) (SQ (SBAR (WHNP (WDT that)) (S (VP (VBZ is)))) (, ,) (MD can) (NP (DT the) (NN network)) (ADVP (RB alone)) (VP (VB make) (NP (DT a) (NN profit)) (PP (IN on) (NP (PRP it)))) (. ?))))
+
+(S1 (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ emphasizes) (NP (NP (DT the) (JJ ancillary) (NNS benefits)) (PP (IN of) (NP (NP (JJ positive) (NN press)) (, ,) (NP (JJ contented) (NN affiliate) (NNS stations)) (, ,) (NP (JJ enthusiastic) (NNS advertisers)) (CC and) (NP (JJ huge) (NNS audiences)))) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (VB stick) (PRT (RP around)) (S (VP (TO to) (VP (VB watch) (NP (JJ other) (NNP CBS) (NNS programs)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN game)) (VP (VBZ is) (ADJP (IN over)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ billion-dollar) (NN question)) (VP (VBZ is) (, ,) (SBARQ (WHADVP (WRB How) (RB much)) (SQ (VBP are) (NP (DT those) (NNS benefits)) (ADJP (JJ worth))))) (. ?)))
+
+(S1 (S (NP (DT Some) (NN TV) (NNS people)) (VP (VBP doubt) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VP (VB materialize)) (CC and) (VP (VB argue) (SBAR (IN that) (S (SBAR (RB even) (IN if) (S (NP (PRP they)) (VP (VBP do)))) (, ,) (NP (PRP they)) (VP (MD wo) (RB n't) (VP (VB offset) (NP (DT the) (JJ multimillion-dollar) (NNS deficits)) (SBAR (IN that) (S (NP (NNP CBS)) (VP (MD could) (VP (VB run) (PRT (RP up)))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (IN As) (NP (PRP we)) (VP (VBP 've) (VP (VBN seen) (PP (IN in) (NP (DT the) (CD '80s))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Roger) (NNP Werner)) (, ,) (NP (NP (DT the) (NN president)) (PP (IN of) (NP (NP (DT the) (NNP ESPN) (NNS sports) (NN channel)) (, ,) (`` `) (S (`` `) (NP (DT those) (NNS deals)) (VP (MD can) (VP (VB turn) (ADJP (JJ sour)) (SBAR (IN if) (S (NP (DT the) (NNS numbers)) (VP (VBP do) (RB n't) (VP (VB work)))))))))))) (. .)))
+
+(S1 (S (CC And) (ADVP (NP (CD three) (NNS years)) (RB later)) (, ,) (PP (IN in) (NP (NP (DT a) (NN sea)) (PP (IN of) (NP (JJ red) (NN ink))))) (, ,) (NP (DT the) (NNS heroes)) (VP (MD can) (VP (VB find) (NP (PRP themselves)) (PP (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG explaining) (S (VP (TO to) (VP (VB do))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP CBS)) (VP (VBZ pursues) (NP (NP (JJ top) (NNS sports)) (SBAR (S (`` `) (S (`` `) (S (TO to) (VP (VBP belie) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (RB n't) (VP (VBG supporting) (NP (NNS affiliates) (, ,) (NNS viewers) (CC and) (NNS advertisers))))))))) (, ,) ('' ')) ('' ') (VP (VBZ charges) (NP (NP (NNP Thomas) (NNP H.) (NNP Wyman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN ousted) (PP (IN as) (NP (NP (NN chairman)) (PP (IN of) (NP (NNP CBS) (NNP Inc.))))) (PP (IN after) (NP (NP (NNP Laurence) (NNP A.) (NNP Tisch)) (VP (VP (VBD bought) (NP (NP (DT a) (ADJP (CD 24.9) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN company))))) (CC and) (VP (VBD took) (PRT (RP over)) (ADVP (NP (CD three) (NNS years)) (RB ago)))))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP They)) (VP (VBD lost) (NP (DT the) (NN entertainment) (NN crown)))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBD needed) (NP (CD one)))) (. .)))
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBP 've) (VP (VBN bought) (NP (CD one)))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN On) (NP (QP (RB just) (CD three)) (JJ big) (NNS deals))) (PRN (: --) (PP (PP (IN for) (NP (NP (CD four) (NNS years)) (PP (IN of) (NP (NN baseball))))) (CC and) (PP (IN for) (NP (NP (DT the) (NNP Olympic) (NNP Winter) (NNS Games)) (PP (IN in) (NP (DT both) (CD 1992) (CC and) (CD 1994)))))) (: --)) (NP (NNP Pilson)) (VP (VBD bid) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP ($ $) (CD 1.64) (CD billion)))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB well)) (ADJP (ADJP (NP (QP (IN over) (PDT half) (DT a) (CD billion)) (NNS dollars)) (JJR more)) (SBAR (IN than) (S (NP (NNP ABC) (CC and) (NNP NBC)) (VP (VBD were) (ADJP (JJ willing) (S (VP (TO to) (VP (VB pay)))))))))) (. .)))
+
+(S1 (PRN (-LRB- -LRB-) (S (PP (IN After) (NP (CD 1992))) (, ,) (NP (DT the) (UCP (NN winter) (CC and) (NN summer)) (NNPS Olympics)) (VP (MD will) (VP (VB be) (VP (VBN held) (ADVP (NP (CD two) (NNS years)) (RB apart)) (, ,) (PP (IN with) (S (NP (DT the) (VBN revised) (NN schedule)) (VP (VBG beginning) (PP (IN with) (NP (NP (NP (DT the) (NN winter) (NNS games)) (PP (IN in) (NP (CD 1994)))) (CC and) (NP (DT the) (NN summer) (NNS games)))) (PP (IN in) (NP (CD 1996))))))))) (. .)) (-RRB- -RRB-)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (NP (NP (NNP Mr.) (NNP Pilson)) (: --) (NP (NP (DT a) (JJ former) (NN college) (NN basketball) (NN player)) (SBAR (WHNP (WP who)) (S (VP (VBZ says) (SBAR (S (NP (DT a) (JJ good) (NN negotiator)) (VP (VBZ needs) (`` `) (NP (`` `) (NP (DT a) (NN level)) (PP (IN of) (NP (NN focus) (CC and) (JJ intellectual) (NN attention))) ('' ')) ('' ')))))))) (ADJP (JJ similar) (PP (TO to) (NP (DT a) (JJ good) (NN athlete-s))))) (VP (VBZ is) (VP (VBG facing) (NP (NP (DT the) (NNS consequences)) (PP (IN of) (NP (PRP$ his) (JJ own) (NN aggressiveness)))))) (. .)))
+
+(S1 (S (NP (JJ Next) (NN month)) (, ,) (NP (NNS talks)) (VP (MD will) (VP (VB begin) (PP (IN on) (NP (NP (CD two) (JJ coveted) (NNP CBS) (NNS contracts)) (, ,) (PP (IN for) (NP (DT the) (NN pro) (CC and) (NN college) (NN basketball) (NNS finals))))))) (. .)))
+
+(S1 (S (NP (NNP CBS)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB spend) (SBAR (WHNP (WDT whatever)) (S (NP (PRP it)) (VP (VBZ takes) (S (VP (TO to) (VP (VB keep) (NP (PRP them))))))))))))) (. .)))
+
+(S1 (NP (NP (DT The) (JJ potential) (NN bill)) (: :) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 600) (CD million))) (PP (IN for) (NP (JJ several) (NNS seasons))) (, ,) (NP (DT an) (ADJP (CD 80) (NN %)) (NN jump))) (. .)))
+
+(S1 (S (S (ADVP (NP (DT A) (JJ few) (NNS months)) (RB later)) (, ,) (NP (NP (NNP CBS) (POS 's)) (NN college) (CC and) (NN pro) (NN football) (NNS contracts)) (VP (VB come) (PRT (RP up)) (PP (IN for) (NP (NN renewal))))) (: ;) (S (NP (PRP they)) (VP (MD could) (VP (VB go) (PP (IN for) (NP (NP (NP (QP (RB close) (TO to) ($ $) (CD 100) (CD million))) (ADJP (ADJP (JJR more)) (SBAR (IN than) (S (NP (NNP CBS)) (ADVP (RB now)) (VP (VBZ pays)))))) (, ,) (NP (DT a) (ADJP (QP (CD 40) (NN %) (TO to) (CD 50)) (NN %)) (NN rise))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (WHNP (WP What)) (S (VP (VBZ happens) (PP (TO to) (NP (DT those) (CD two) (NN basketball) (NNS contracts)))))) (VP (MD will) (VP (VB shape) (NP (NP (DT the) (JJ next) (CD five) (NNS years)) (PP (IN of) (NP (NN network) (NNS sports)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Peter) (NNP Lund)) (, ,) (NP (NP (DT a) (JJ former) (NNP CBS) (NNP Sports) (NN president)) (PP (ADVP (RB now)) (IN at) (NP (NNS Multimedia) (NNP Inc))))) (. .)))
+
+(S1 (S (NP (NP (NNP J.) (NNP William) (NNP Grimes)) (, ,) (NP (NP (JJ former) (NN president)) (PP (IN of) (NP (NNP ESPN)))) (, ,)) (VP (VBZ says) (SBAR (S (NP (NNP NBC)) (VP (MD may) (`` `) (VP (`` `) (VP (VB come) (ADVP (IN in)) (PP (IN with) (NP (NP (DT a) (JJ huge) (NN bid)) (PP (IN for) (NP (NN college) (NN basketball))) (S (VP (TO to) (VP (VB take) (NP (PRP it)) (ADVP (RB away) (PP (IN from) (NP (NNP CBS)))))))))) (CC and) (VP (VB say) (, ,) (`` `) (SBAR (S (NP (PRP We)) (VP (MD can) (VP (VB overbid) (, ,) (ADVP (RB too)))))))))))) (. .) ('' ')))
+
+(S1 (S (CC And) (NP (DT the) (NNS winners)) (VP (MD will) (VP (VB be) (NP (DT the) (NNS colleges)) (, ,) (NP (RB not) (DT either) (NN network)))) (. .)))
+
+(S1 (S (CC Nor) (, ,) (PP (IN by) (NP (DT the) (NN way))) (, ,) (VP (NNS advertisers)) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ is) (NP (DT an) (JJ unlikely) (JJ big) (NN spender))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (CD mid-1980s))) (, ,) (SBAR (IN after) (S (NP (NNP ABC)) (VP (VBD had) (ADVP (RB just)) (VP (VBN bid) (NP (NP (DT a) (NN record) (QP ($ $) (CD 309) (CD million))) (PP (IN for) (NP (DT the) (CD 1988) (NNP Winter) (NNS Games)))))))) (, ,) (NP (PRP he)) (VP (VBD sniped) (PP (IN at) (NP (NP (NNS rivals)) (PP (IN for) (S (VP (VBG paying) (NP (JJ reckless) (NNS prices)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP I)) (VP (VBP love) (NP (NNP Pilson)))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD was) (NP (NP (DT the) (NN guy)) (SBAR (WHNP (WP who)) (S (VP (VBD complained) (ADVP (ADVP (RBS most) (RB bitterly)) (CC and) (ADVP (RB loudly))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Robert) (NNP Wussler)) (, ,) (NP (DT a) (JJ former) (NNP CBS) (NNP Sports) (NN president))) (. .)))
+
+(S1 (S (`` `) (`` `) (CC And) (RB yet) (NP (PRP$ his) (NN company)) (VP (VBZ is) (NP (NP (CD one) (NN reason)) (SBAR (WHADVP (WRB why)) (S (NP (NNS rights)) (VP (VBP are) (ADJP (RB so) (JJ high)) (NP (NN today))))))) (. .) ('' ') ('' ')))
+
+(S1 (NP (NP (NP (NNS Rivals) (NN carp)) (PP (IN at) (NP (`` `) (NP (`` `) (NP (NP (DT the) (NN principle)) (PP (IN of) (NP (NNP Pilson)))) (, ,) ('' ')) ('' ') (SBAR (IN as) (S (NP (NP (NNP NBC) (POS 's)) (NNP Arthur) (NNP Watson)) (ADVP (RB once)) (VP (VBD put) (NP (PRP it)))))))) (: --) (`` `) (S (`` `) (S (NP (PRP he)) (VP (VBZ 's) (ADVP (RB always)) (VP (VBG expounding) (SBAR (IN that) (S (NP (NNS rights)) (VP (VBP are) (ADJP (RB too) (JJ high)))))))) (, ,) (ADVP (RB then)) (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (ADJP (JJ crazy))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (CC But) (NP (DT the) (JJ 49-year-old) (NNP Mr.) (NNP Pilson)) (VP (VBZ is) (ADVP (RB hardly)) (NP (NP (DT a) (NN man)) (SBAR (S (VP (TO to) (VP (VB ignore) (NP (DT the) (NNS numbers)))))))) (. .)))
+
+(S1 (S (NP (DT A) (NNP Yale) (NN law) (NN school) (NN graduate)) (, ,) (NP (PRP he)) (VP (VP (VBD began) (NP (PRP$ his) (NN career)) (PP (IN in) (NP (JJ corporate) (NN law)))) (CC and) (VP (ADVP (RB then)) (VBD put) (PP (IN in) (NP (NP (NNS years)) (PP (IN at) (NP (NP (NNP Metromedia) (NNP Inc.)) (CC and) (NP (DT the) (NNP William) (NNP Morris) (NN talent) (NN agency)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1976))) (, ,) (NP (PRP he)) (VP (VP (VBD joined) (S (NP (NNP CBS) (NNP Sports)) (VP (TO to) (VP (VB head) (NP (NN business) (NNS affairs)))))) (CC and) (VP (, ,) (ADVP (NP (CD five) (NNS years)) (RB later)) (, ,) (VBD became) (NP (PRP$ its) (NN president)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ says) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD spoke) (PRT (RP out)) (ADVP (NP (DT a) (JJ few) (NNS years)) (RB ago))))) (, ,) (`` `) (S (`` `) (NP (PRP I)) (VP (VBD did) (RB n't) (VP (VB say) (ADVP (RB forever))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD did) (RB n't) (VP (VB say) (NP (DT every) (NN property)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (DT The) (NN market)) (VP (VBD changed))) (, ,) (NP (PRP he)) (VP (VBZ adds)) (. .)))
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ is) (RB n't) (NP (NP (DT the) (RB only) (JJ big) (NN spender)) (: :) (S (S (NP (NNP NBC)) (VP (MD will) (VP (VB pay) (NP (DT a) (JJ record) (QP ($ $) (CD 401) (CD million))) (PP (IN for) (NP (DT the) (CD 1992) (NNP Summer) (NNS Games)))))) (, ,) (CC and) (S (NP (NNP ESPN)) (, ,) (S (NP (CD 80) (NN %)) (VP (VBN -owned) (PP (IN by) (NP (NNP Capital) (NNP Cities\/ABC))))) (, ,) (VP (MD will) (VP (VB shell) (PRT (RP out)) (NP (QP ($ $) (CD 400) (CD million))) (PP (IN for) (NP (NP (CD four) (NNS years)) (PP (IN of) (NP (NN baseball))))) (, ,) (S (VP (VBG airing) (NP (NP (CD 175) (JJ regular-season) (NNS games)) (NP (DT a) (NN year))))))))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP$ Our) (NNS competitors)) (VP (VBP say) (SBAR (S (NP (PRP we)) (VP (VBD overbid) (NP (PRP them))))))) (. .)))
+
+(S1 (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ cares))) (. ?)))
+
+(S1 (S (S (ADVP (RB Maybe)) (NP (PRP we)) (VP (VBP recognize) (NP (NNS values)) (SBAR (S (NP (DT the) (JJ other) (NNS guys)) (VP (VBP do) (RB n't)))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ 's) (NP (NP (`` `) (NP (`` `) (JJ Major) (NNS Events) (POS ')) ('' ') (NN strategy)) (VP (VBN jelled) (SBAR (IN after) (S (NP (NNP Mr.) (NNP Tisch)) (VP (VBD took) (PRT (RP over)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ recalls) (SBAR (IN that) (S (PP (IN in) (NP (NNP April) (CD 1986))) (, ,) (S (PP (IN after) (NP (NP (NP (NNP CBS) (POS 's)) (JJ annual) (NN meeting)) (PP (IN in) (NP (NNP Philadelphia))))) (, ,) (NP (NP (PRP he)) (CC and) (NP (NNP Mr.) (NNP Tisch))) (VP (VBD took) (NP (DT the) (JJ 90-minute) (NN train) (NN ride)) (ADVP (RB back) (PP (TO to) (NP (NNP New) (NNP York)))))) (, ,) (CC and) (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBD used) (NP (DT this) (JJ extended) (JJ private) (NN audience)) (S (VP (TO to) (VP (VB outline) (NP (PRP$ his) (NNS ambitions)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Tisch)) (, ,) (NP (NP (DT a) (NN billionaire)) (PP (IN in) (NP (NNS hotels) (CC and) (NN finance)))) (, ,)) (VP (VBD was) (VP (ADVP (RB just)) (VBG learning) (NP (DT the) (NN TV) (NN business)))) (. .)))
+
+(S1 (S (ADVP (NP (CD Five) (NNS months)) (RB later)) (, ,) (NP (NNP Mr.) (NNP Tisch)) (VP (VBD took) (PRT (RP over)) (PP (IN as) (NP (NP (NNP CBS) (POS 's)) (JJ chief) (NN executive)))) (, ,) (CC and) (S (ADVP (RB soon)) (NP (PRP he)) (VP (VBD was) (VP (VBG wielding) (NP (JJ sole) (NN approval)) (NP (NP (DT each) (NN time)) (SBAR (S (NP (NNP Mr.) (NNP Pilson)) (VP (VP (VBD scribbled) (NP (DT a) (ADJP (RB frighteningly) (JJ large)) (NN figure)) (PP (IN on) (NP (NP (DT a) (NN slip)) (PP (IN of) (NP (NN paper)))))) (, ,) (VP (VBN sealed) (NP (PRP it)) (PP (IN in) (NP (DT an) (NN envelope)))) (CC and) (VP (VBD gave) (NP (PRP it)) (PP (TO to) (NP (NNS sports) (NNS negotiators))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (, ,) (PP (IN in) (NP (NNP May) (CD 1988))) (, ,) (NP (NNP Mr.) (NNP Tisch)) (ADVP (RB urgently)) (VP (VBD needed) (S (VP (TO to) (VP (VB make) (NP (NP (DT a) (JJ bold) (NN statement)) (SBAR (S (VP (TO to) (VP (VB quell) (NP (NNS rumors) (SBAR (IN that) (S (NP (PRP he)) (VP (MD might) (VP (VB sell) (NP (DT the) (NN network)))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBD gave) (NP (PRP him)) (NP (CD one)))) (: :) (S (NP (PRP He)) (VP (VBD bid) (NP (QP ($ $) (CD 243) (CD million))) (PP (IN for) (NP (NP (NNS rights)) (PP (TO to) (NP (DT the) (CD 1992) (NNP Winter) (NNS Games))))) (PP (IN in) (NP (NP (NNP Albertville)) (, ,) (NP (NNP France)))))) (: ;) (S (NP (NNP ABC) (CC and) (NNP NBC)) (VP (MD would) (RB n't) (VP (VB bid) (ADVP (RB even)) (NP (QP ($ $) (CD 200) (CD million)))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBD started) (NP (DT the) (JJ still-raging) (NN bidding) (NNS wars))) (. .)))
+
+(S1 (S (NP (NP (DT The) (`` `) (NP (`` `) (JJ Major) (NNS Events) (POS ')) (POS ')) (NN strategy)) (PRN (, ,) (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ says))) (, ,)) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VB notch) (NP (NP (DT a) (NN place)) (PP (IN for) (NP (NNP CBS)))) (PP (IN on) (NP (NP (DT the) (VBN crowded) (NN TV) (NN dial)) (PP (IN of) (NP (DT the) (NNS 1990s)))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB also)) (NP (NP (DT a) (JJ fast) (NN fix)) (PP (IN for) (NP (DT an) (VBG ailing) (NN image))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ sees) (NP (JJ flashy) (NNS sports)) (PP (IN as) (NP (NP (DT the) (JJ only) (NN way)) (SBAR (S (NP (DT the) (NN last-place) (NN network)) (VP (MD can) (VP (VP (VB cut) (PP (IN through) (NP (NP (DT the) (NN clutter)) (PP (IN of) (NP (NN cable) (CC and) (NNS VCRs)))))) (, ,) (VP (VB grab) (NP (NP (NNS millions)) (PP (IN of) (NP (JJ new) (NNS viewers))))) (CC and) (VP (VB tell) (NP (PRP them)) (PP (IN about) (NP (NP (JJ other) (NNS shows)) (VP (VBG premiering) (ADVP (NP (DT a) (JJ few) (NNS weeks)) (RB later))))))))))))) (. .)))
+
+(S1 (S (PP (IN Next) (NP (NNP October))) (, ,) (NP (NNP CBS)) (, ,) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (VP (MD wo) (RB n't) (VP (VB have) (S (VP (TO to) (VP (VB start) (NP (NP (NP (DT the) (NN season)) (PP (IN against) (NP (DT the) (JJ much-watched) (NNP American) (CC and) (NNP National) (NN baseball) (NN league) (NNS championships)))) (CC and) (NP (DT the) (NNP World) (NNP Series)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG struggling) (PP (IN against) (NP (DT that))) (PP (IN for) (NP (NNS years)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Jonathan) (NNP Rodgers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ runs) (NP (NP (NNP WBBM-TV)) (, ,) (NP (NP (DT the) (JJ CBS-owned) (NN station)) (PP (IN in) (NP (NNP Chicago))))))))) (. .)))
+
+(S1 (S (SBAR (RB Even) (IN if) (S (NP (NN baseball)) (VP (VBZ triggers) (NP (NP (NNS losses)) (PP (IN at) (NP (NNP CBS))))))) (PRN (: --) (CC and) (S (NP (PRP he)) (VP (VBZ does) (RB n't) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (MD will))))))) (: --)) (`` `) (S (`` `) (NP (PRP I)) (VP (MD 'd) (ADVP (RB rather)) (VP (VB see) (NP (NP (DT the) (NNS games)) (PP (IN on) (NP (PRP$ our) (NN air)))) (PP (IN than) (PP (IN on) (NP (NNP NBC) (CC and) (NNP ABC))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ is) (RB n't) (ADJP (JJ surprising))) (. .)))
+
+(S1 (S (S (NP (JJ Regular) (NN TV) (NN series) (NNS ratings)) (VP (VBP have) (VP (VBN slumped) (PP (IN in) (NP (DT the) (JJ past) (CD five) (NNS years)))))) (, ,) (CC and) (S (NP (VBG premiering) (JJ new) (NNS shows)) (VP (VBZ is) (S (`` `) (S (`` `) (S (NP (DT a) (NN crap)) (VP (VBP shoot))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ says)))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ top) (NNS sports) (NNS events)) (VP (VBP are) (ADVP (RB still)) (NP (DT a) (JJ strong) (NN bet) (S (VP (TO to) (VP (VB lure) (NP (NP (NNS audiences)) (ADJP (ADJP (NP (QP (CD 30) (NN %) (CC or) (CD 40) (NN %))) (JJR larger)) (SBAR (IN than) (S (NP (DT those) (NNP CBS)) (ADVP (RB usually)) (VP (VBZ gets))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ says) (SBAR (S (NP (NP (NN baseball)) (CC and) (NP (DT the) (NNPS Olympics))) (VP (MD may) (VP (VB help) (S (NP (NNP CBS)) (VP (VB move) (PRT (RP up)) (PP (TO to) (NP (NP (NNP No.) (CD 2)) (PP (IN in) (NP (DT the) (NN household) (NNS ratings) (NN race))))) (, ,) (S (VP (VBG putting) (NP (NN pizazz)) (ADVP (RB back)) (PP (IN into) (NP (NP (DT the) (NN network) (POS 's)) (NN image)))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (DT the) (NNP Winter) (NNPS Olympics)) (VP (MD will) (VP (VB air) (PP (IN during) (NP (DT the) (NNP February))) (`` `) (S (`` `) (VP (VBZ sweeps)) (, ,) ('' ')) ('' ') (SBAR (WHADVP (WRB when)) (S (NP (NNS ratings)) (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB set) (NP (NN ad) (NNS rates)) (PP (IN for) (NP (JJ local) (NNS stations)))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (MD will) (VP (VB please) (NP (NP (JJ once-grumpy) (NNS affiliates)) (: --) (NP (NP (DT another) (NN aim)) (PP (IN of) (NP (DT the) (NNP Pilson) (NN plan))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (ADVP (RB gleefully)) (VP (VBP await) (NP (DT the) (`` `) (NP (`` `) (NN dream) (NN season) ('' ')) ('' ') (PP (IN in) (NP (CD 1990))))) (. .)))
+
+(S1 (S (NP (NNP CBS)) (VP (MD will) (VP (VB air) (NP (NP (DT the) (NNP Super) (NNP Bowl)) (, ,) (NP (NP (NN baseball) (NNS playoffs)) (, ,) (NP (NN college) (CC and) (NN pro) (NN basketball) (NNS finals)) (CC and) (NP (JJ other) (JJ premier) (NNS sports) (NNS events)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (VP (VBN made) (S (NP (PRP me)) (ADJP (RBR more) (JJ committed) (PP (TO to) (NP (NNP CBS))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Philip) (NNP A.) (NNP Jones)) (, ,) (NP (NP (DT the) (NN president)) (PP (IN of) (NP (NP (NP (NNP Meredith) (NNP Corp.) (POS 's)) (NN broadcast) (NN group)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (CD two) (NNP CBS) (NNS affiliates))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP CBS) (NN plan) (S (VP (TO to) (VP (VB use) (NP (JJ big-time) (NNS sports)) (PP (IN as) (NP (NP (DT a) (NN platform)) (PP (IN for) (NP (JJ other) (NNS series))))))))) (VP (VBZ carries) (NP (NP (DT no) (NN guarantee)) (PP (IN of) (NP (NN success)))) (, ,) (ADVP (RB however))) (. .)))
+
+(S1 (S (NP (NP (DT No) (NN amount)) (PP (IN of) (NP (NN hype)))) (VP (MD will) (VP (VB bring) (NP (NNS viewers)) (ADVP (RB back)) (SBAR (IN if) (S (NP (DT the) (NNS shows)) (VP (VBP are) (ADJP (JJ weak))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN In) (NP (NP (DT this) (NN market)) (PP (IN of) (NP (NP (CD 40) (NNS channels)) (, ,) (NP (JJ sophisticated) (NNS viewers)) (CC and) (NP (DT the) (JJ remote) (NN control)))))) (, ,) (NP (NN trial)) (VP (VBZ is) (RB n't) (NP (NP (DT a) (NN guarantee)) (PP (IN of) (NP (NN anything)))))) (, ,) ('' ') ('' ') (NP (NP (NNP ESPN) (POS 's)) (NNP Mr.) (NNP Werner)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN If) (S (NP (DT the) (NN show)) (VP (VBP ai) (RB n't) (NP (DT a) (NN killer))))) (, ,) (NP (PRP they)) (VP (VBP 're) (VP (VBN gone))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN During) (NP (DT the) (CD 1984) (NNP Summer) (NNS Games))) (, ,) (S (PP (IN for) (NP (NN example))) (, ,) (NP (NNP ABC)) (VP (VBD touted) (`` `) (NP (`` `) (NP (NP (NNP Call)) (TO to) (NP (NNP Glory))) (, ,) ('' ')) ('' '))) (CC but) (S (NP (DT the) (JJ military) (NN drama)) (VP (VBD was) (VP (VBG missing) (PRT (RP in)) (NP (NN action)) (PP (IN within) (NP (NNS weeks)))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NNP October)) (, ,) (PP (IN during) (NP (DT the) (CD 1988) (NNP Summer) (NNS Games))) (, ,) (NP (NNP NBC)) (ADVP (RB relentlessly)) (VP (VBD pitched) (NP (DT a) (JJ new) (NN series)) (, ,) (`` `) (S (`` `) (NP (NNP Tattingers)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (VP (VBD belly-flopped) (ADVP (RB anyway))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (NNS sports)) (VP (VBZ is) (ADVP (RB hardly)) (NP (NP (DT the) (JJS best) (NN way)) (SBAR (S (VP (TO to) (VP (VB lure) (NP (NN adult) (NNS women)))))))) (. .)))
+
+(S1 (S (SBAR (IN Though) (S (NP (NNP CBS)) (VP (MD might) (VP (VB move) (ADVP (RB up)) (PP (TO to) (NP (NP (NNP No.) (CD 2)) (PP (IN in) (NP (NN household) (NNS ratings))))))))) (, ,) (NP (JJS most) (NNS advertisers)) (VP (VBP buy) (VP (VBN based) (PP (IN on) (NP (NP (NNS ratings)) (PP (IN for) (NP (NP (NNS women)) (ADJP (VBN aged) (NP (QP (CD 18) (TO to) (CD 49)))))))))) (. .)))
+
+(S1 (S (NP (NNP CBS)) (VP (MD may) (VP (VB remain) (NP (NP (DT a) (JJ distant) (NN No.) (CD 3)) (PP (IN in) (NP (DT that) (NN regard)))))) (. .)))
+
+(S1 (SQ (CC Nor) (VBZ is) (NP (NNP CBS)) (NP (NP (DT a) (NN shoo-in)) (SBAR (S (VP (TO to) (VP (VB get) (NP (NN blockbuster) (NNS ratings))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ recent) (NNS years))) (, ,) (NP (NP (DT the) (NNP World) (NNP Series)) (CC and) (NP (DT the) (NNPS Olympics))) (VP (VBD were) (VP (VBN aired) (PP (IN against) (NP (NP (NNP CBS) (POS 's)) (JJ last-place) (NN lineup))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP CBS)) (VP (MD will) (VP (VB put) (NP (DT the) (NNS athletes)) (PRT (RP up)) (PP (IN against) (NP (NP (NNP Bill) (NNP Cosby)) (, ,) (NP (`` `) (NP (`` `) (NP (NNP Cheers) (POS ')) ('' ')) (CC and) (NP (NP (JJ other) (NNS shows)) (PP (IN in) (NP (NP (NNP NBC) (POS 's)) (NNP No.) (CD 1) (NN schedule))))))))) (. .)))
+
+(S1 (S (NP (NP (RB Even) (DT the) (NN boon)) (PP (TO to) (NP (NN affiliate) (NNS relations)))) (VP (MD may) (VP (VB be) (VP (VBN limited)))) (. .)))
+
+(S1 (S (NP (DT The) (NNS sports) (NN lineup)) (VP (MD may) (VP (VB add) (NP (QP (RB only) (CD 1) (NN %) (TO to) (CD 5) (NN %))) (PP (TO to) (NP (NP (DT a) (NN station) (POS 's)) (JJ annual) (NNS profits))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB alone)) (VP (VBZ is) (RB n't) (ADJP (JJ likely) (S (VP (TO to) (VP (VB stop) (NP (DT a) (NN station)) (PP (IN from) (S (VP (VBG dumping) (NP (NNP CBS) (NNS shows)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (NNP The) (NNP World) (NNP Series)) (, ,) (NP (CD seven) (NNS nights)) (, ,)) (VP (VBD was) (RB n't) (NP (NP (JJ enough)) (PP (IN of) (NP (DT an) (NN incentive))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Arnold) (NNP Klinsky)) (PP (IN of) (NP (NP (NN WHEC-TV)) (PP (IN in) (NP (NP (NNP Rochester)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD dropped) (NP (NNP CBS)) (PP (IN for) (NP (NNP NBC))) (ADVP (NP (CD six) (NNS weeks)) (RB ago)))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP You)) (VP (VBP 've) (VP (VBD got) (S (VP (TO to) (VP (VB judge) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN network)) (VP (MD will) (VP (VB be) (PP (IN in) (NP (CD three) (NNS years)))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (DT The) (JJ intangible) (NNS benefits)) (VP (MD may) (VP (VB prove) (ADJP (ADJP (RB extremely) (JJ costly)) (SBAR (IN if) (S (NP (NNP CBS)) (VP (MD ca) (RB n't) (VP (VB avoid) (NP (NP (JJ big) (NNS losses)) (PP (IN on) (NP (NP (DT the) (NNS sports) (NN coverage)) (NP (PRP itself)))))))))))) (. .)))
+
+(S1 (S (CC And) (S (VP (VBG avoiding) (NP (JJ such) (NNS losses)))) (VP (MD will) (VP (VB take) (NP (DT a) (JJ monumental) (NN effort)))) (. .)))
+
+(S1 (SINV (S (PP (IN On) (NP (NP (DT the) (ADJP (QP ($ $) (CD 1.06) (CD billion))) (NN baseball) (NN agreement)) (ADVP (RB alone)))) (, ,) (NP (NNP CBS)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB lose) (NP (NP (QP ($ $) (CD 250) (CD million))) (PP (IN in) (NP (CD four) (NNS years)))))))))) (, ,) (VP (VBZ contends)) (NP (NP (NNP Mr.) (NNP Wussler)) (, ,) (NP (NP (DT the) (JJ former) (NNP CBS) (NN man)) (PRN (, ,) (ADVP (RB now)) (PP (IN at) (NP (NNP Comsat) (NNP Inc)))))) (. .)))
+
+(S1 (S (ADVP (RB Nevertheless)) (, ,) (NP (PRP he)) (VP (VBZ deems) (S (NP (DT the) (NN deal)) (ADJP (`` `) (ADJP (`` `) (RB plain) (JJ smart) ('' ')) ('' ') (PP (IN for) (NP (PRP$ its) (JJ huge) (JJ promotional) (NN value)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ calls) (S (NP (DT that) (NN loss) (NN estimate)) (`` `) (ADJP (`` `) (RB wildly) (JJ inaccurate) (, ,) ('' ')) ('' ') (S (VP (VBG conceding) (SBAR (RB only) (IN that) (S (NP (NNP CBS)) (VP (MD will) (VP (VB lose) (NP (NN money)) (PP (IN on) (NP (NP (NN baseball)) (PP (IN in) (NP (DT the) (JJ first) (NN year))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADJP (RB too) (JJ early) (S (VP (TO to) (VP (VB tell) (: ') (SBARQ ('' ') (WHNP (WP what)) (SQ (VBZ happens) (PP (IN after) (NP (DT that))))))))))) (, ,) (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (CC But) (NP (NNP Mr.) (NNP Tisch)) (VP (VBZ expects) (NP (NP (NNS losses)) (PP (IN in) (NP (NP (DT all) (CD four) (NNS years)) (PP (IN of) (NP (DT the) (NN contract)))))))) (, ,) (NP (PRP he)) (VP (VBD told) (NP (NNP U.S.) (NNS senators)) (NP (JJ last) (NNP June))) (. .)))
+
+(S1 (S (S (NP (NNP CBS)) (VP (MD will) (VP (VB pay) (NP (NP (DT an) (NN average)) (PP (IN of) (NP (QP ($ $) (CD 82) (CD million))))) (NP (RBR more) (DT each) (NN year) (SBAR (IN than) (S (NP (NNP ABC) (CC and) (NNP NBC)) (VP (VBD had) (VP (VBN paid) (PRT (RP together)))))))))) (: --) (CC and) (S (NP (DT those) (CD two) (NNS networks)) (VP (VBP expect) (NP (NP (NNS losses)) (PP (IN on) (NP (NN baseball)))) (NP (DT this) (NN season)))) (. .)))
+
+(S1 (S (CC Yet) (NP (NNP CBS)) (VP (MD will) (VP (VB air) (NP (NP (QP (RB only) (CD 12)) (JJ regular-season) (NNS games)) (, ,) (ADJP (ADJP (NP (CD 26)) (JJR fewer)) (PP (IN than) (NP (NNP ABC) (CC and) (NNP NBC))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ has) (VP (VBN outraged) (NP (DT some) (NNS fans)))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ indicates) (NP (NP (DT a) (ADJP (QP ($ $) (CD 50) (CD million))) (NN drop)) (PP (IN in) (NP (NP (NN ad) (NNS sales)) (PP (IN for) (NP (JJ regular-season) (NNS games)))))))) (: --) (S (NP (DT a) (NN risk)) (NP (NNP CBS)) (VP (VBD took) (S (VP (TO to) (VP (VB get) (NP (NP (DT an) (JJ unprecedented) (NN lock)) (PP (IN on) (NP (DT all) (NN playoff) (NNS games))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NNS playoffs)) (VP (VBP end) (PP (IN in) (NP (ADJP (JJ four-game)) (VBZ sweeps)))))) (, ,) (NP (NNS losses)) (VP (MD could) (VP (VB soar))) (. .)))
+
+(S1 (S (NP (NNS Advertisers)) (VP (VBP are) (VP (VBG resisting) (NP (NP (JJR higher) (NNS prices)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD would) (VP (VB help) (S (VP (RB close) (NP (DT the) (NN gap))))))))))) (. .)))
+
+(S1 (S (NP (NNP CBS)) (VP (VBD signed) (S (NP (NP (NNP General) (NNP Motors)) (CC and) (NP (NNP Toyota))) (VP (TO to) (VP (VB be) (NP (NP (DT the) (JJ only) (JJ auto-maker) (NNS sponsors)) (PP (IN in) (NP (NN baseball)))) (PP (IN for) (NP (CD four) (NNS years))))))) (. .)))
+
+(S1 (NP (NP (NN Price)) (: :) (NP (QP ($ $) (CD 265) (CD million))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NN ad) (NNS executives)) (SBAR (WHNP (WP who)) (S (VP (VBD negotiated) (NP (DT the) (NN deal)))))) (VP (VBP say) (SBAR (IN that) (S (VP (VBZ works) (PRT (RP out)) (PP (TO to) (NP (QP (RB only) ($ $) (CD 275,000)))) (PP (IN for) (NP (NP (DT a) (JJ 30-second) (NN ad)) (PP (IN in) (NP (DT the) (NNP World) (NNP Series))))) (PP (IN through) (NP (NP (CD 1993)) (: --) (ADJP (ADJP (NP (CD 17) (NN %)) (JJR less)) (PP (IN than) (SBAR (WHNP (WP what)) (S (NP (NNP ABC)) (VP (VBZ is) (VP (VBG charging) (PP (IN for) (NP (DT the) (NNP Series))) (NP (DT this) (NN month)))))))))))))) (. .)))
+
+(S1 (SINV (S (ADVP (RB Moreover)) (, ,) (`` `) (S (`` `) (NP (EX there)) (VP (VBZ 's) (NP (DT no) (NN question) (SBAR (S (NP (NN ad) (NNS rates)) (VP (MD will) (VP (VB come) (PRT (RP down)) (ADVP (RB considerably)))))))) ('' ') ('' ')) (PP (IN from) (NP (DT the) (JJ GM-Toyota) (NN price)))) (, ,) (VP (VBZ says)) (NP (NP (NNP Arnold) (NNP Chase)) (PP (IN of) (NP (NNP Bozell) (NNP Inc)))) (. .)))
+
+(S1 (S (NP (JJ Other) (NNS admen)) (, ,) (ADVP (RB however)) (, ,) (VP (VBP say) (SBAR (S (NP (NNS rates)) (VP (MD could) (VP (VB rise) (ADVP (RB later)) (SBAR (IN if) (S (NP (NN ad) (NN spending)) (VP (VBZ surges))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Winter) (NNS Games) (NN outlook)) (ADVP (RB also)) (VP (VBZ is) (ADJP (JJ mixed))) (. .)))
+
+(S1 (S (S (NP (NNP CBS)) (VP (VBZ expects) (S (VP (TO to) (VP (VB make) (NP (JJ modest) (NNS profits))))))) (, ,) (CC but) (S (NP (NNS rivals)) (VP (VBP contend) (SBAR (IN that) (S (NP (PRP it)) (VP (MD will) (VP (VB take) (NP (DT a) (NN beating)))))))) (. .)))
+
+(S1 (S (NP (NNP ABC)) (VP (VBD lost) (NP (QP ($ $) (CD 75) (CD million))) (PP (IN on) (NP (DT the) (CD 1988) (NNP Winter) (NNS Games))) (, ,) (PP (ADVP (RB partly)) (IN because) (IN of) (NP (PRP$ its) (ADJP (QP ($ $) (CD 309) (CD million))) (NNS rights) (NN fee)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VP (VBD aired) (NP (NP (CD 94.5) (NNS hours)) (PP (IN of) (NP (NP (RB mostly) (JJ live) (NNS events)) (PP (IN in) (NP (NNP Calgary))))))) (PRN (: --) (S (VP (VBG helping) (S (VP (VB raise) (NP (NP (NNS ratings)) (PP (ADVP (RB slightly)) (IN from) (NP (CD 1984)))))))) (: --)) (CC but) (VP (ADVP (RB still)) (VBD failed) (S (VP (TO to) (VP (VB deliver) (NP (DT the) (NN audience)) (PP (VBN promised) (PP (TO to) (NP (NNS advertisers))))))))) (. .)))
+
+(S1 (S (S (NP (NNP CBS)) (VP (MD will) (VP (VB add) (NP (QP (CD 25) (CD 1\/2)) (NNS hours)) (PP (TO to) (NP (DT that) (NN load))) (PP (IN in) (NP (CD 1992)))))) (, ,) (CC and) (S (NP (NNS ratings)) (VP (MD could) (VP (VB be) (VP (VBN hurt) (PP (IN by) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (JJ live) (NNS events))))))))) (. .)))
+
+(S1 (S (NP (DT All) (NN prime-time) (NN fare)) (VP (MD will) (VP (VB be) (PP (IN on) (NP (NN tape-delay))) (PP (IN because) (IN of) (NP (NP (NN time) (NNS differences)) (PP (IN with) (NP (NNP Norway))))) (, ,) (SBAR (IN so) (S (NP (DT the) (NNS results)) (VP (MD can) (VP (VB be) (VP (VBN announced) (PP (IN on) (NP (DT the) (ADJP (QP (CD 6) (CD o')) (NN clock)) (NN news)))))))))) (. .)))
+
+(S1 (PRN (-LRB- -LRB-) (S (NP (NNP Turner) (NNP Broadcasting)) (VP (MD will) (VP (VB pay) (NP (NNP CBS)) (NP (QP ($ $) (CD 25) (CD million))) (S (VP (TO to) (VP (VB air) (NP (NP (NP (CD 50) (NNS hours)) (PP (IN of) (NP (NNP CBS) (NN coverage)))) (CC plus) (NP (NP (CD 50) (NNS hours)) (PP (IN of) (NP (JJ additional) (NNS events))))))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (NP (NP (NNP Barry) (NNP Frank)) (, ,) (NP (NP (DT the) (NN agent)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NNP Mr.) (NNP Pilson)) (PP (TO to) (NP (NN lunch))) (NP (JJ last) (NNP March)))))) (, ,)) (VP (VBZ says) (SBAR (IN that) (S (SBAR (RB even) (IN if) (S (NP (NNP CBS)) (VP (VBZ loses) (, ,) (INTJ (VB say)) (, ,) (NP (QP ($ $) (CD 10) (CD million)))))) (, ,) (NP (PRP it)) (VP (VBZ matters) (ADVP (RB little)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (CD Ten) (CD million)) (VP (VBP ai) (RB n't) (VP (VB jack) (, ,) (ADVP (NN man)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBD got) (NP (NP (QP ($ $) (CD 3) (CD billion))) (PP (VBG sitting) (PP (IN in) (NP (DT the) (NN bank))))))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Mr.) (NNP Frank)) (, ,) (NP (NP (JJ senior) (NN vice) (NN president)) (PP (IN at) (NP (NNP International) (NNP Management) (NNP Group))))) (, ,) (S (VP (VBG citing) (NP (NP (NNP CBS) (POS 's)) (JJ enormous) (NN cash) (NNS reserves)) (PP (IN from) (S (VP (VBG selling) (PRT (RP off)) (NP (JJ various) (NNS businesses))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ does) (RB n't) (VP (VB mean) (NP (NN anything))))) (: --) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN public-relations) (NN money)))) (. .) ('' ') ('' ')))
+
+(S1 (SINV (S (ADVP (RB Moreover)) (, ,) (NP (NNS sports)) (VP (VBZ has) (VP (`` `) (`` `) (VBD claimed) (NP (PRP$ its) (NN place) (POS ')) ('' ') (PP (IN as) (NP (DT a) (VBN guaranteed) (NN ratings-getter)))))) (, ,) (VP (VBZ says)) (NP (NP (NNP David) (NNP J.) (NNP Stern)) (, ,) (NP (NP (DT the) (NN commissioner)) (PP (IN of) (NP (DT the) (NNP National) (NN Basketball) (NNP Association))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT This)) (VP (VBZ is) (RB n't) (NP (JJ outlandish) (NN bidding)))) (: ;) (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT a) (NN situation)) (PP (IN of) (S (NP (ADJP (RB very) (JJ careful)) (NNS businessmen)) (VP (VP (VBG making) (NP (NP (NNS judgments)) (PP (IN about) (NP (NP (DT the) (NN worth)) (PP (IN of) (NP (NN product))))))) (CC and) (VP (VBG acting) (PP (IN on) (NP (PRP it))) (ADVP (RB ..)))) (. .)))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (MD would) (VP (VB tend) (S (VP (TO to) (VP (VB trust) (NP (PRP$ their) (NN judgment))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ easy)) (SBAR (IN for) (S (NP (PRP him)) (VP (TO to) (VP (VB say) (: :) (SBAR (S (NP (NP (NNP CBS) (POS 's)) (JJ four-year) (NNP NBA) (NN pact)) (PRN (, ,) (ADVP (RB now)) (PP (IN at) (NP (NP (QP ($ $) (CD 176) (CD million))) (PP (IN for) (NP (CD four) (NNS years))))) (, ,)) (VP (MD could) (VP (VB double) (PP (IN in) (NP (NN price))) (PP (IN by) (NP (NP (DT the) (NN time)) (SBAR (S (NP (NP (PRP$ his) (NNS talks)) (PP (IN with) (NP (NNP Mr.) (NNP Pilson)))) (VP (VBP are) (VP (VBN completed) (NP (RB later) (DT this) (NN month))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (MD would) (VP (VB cut) (PP (IN into) (NP (NP (NP (NP (NNP CBS) (POS 's)) (JJ slim) (NN margin)) (PP (IN for) (NP (NN profit)))) (: --) (CC and) (NP (NN error)))))) (. .)))
+
+(S1 (S (NP (NNP CBS) (NNPS Sports)) (VP (VBD earned) (NP (QP ($ $) (CD 50) (CD million) (CC or) (RB so)) (JJ last) (NN year))) (. .)))
+
+(S1 (S (CC And) (NP (NNP CBS)) (VP (VBZ takes) (PRT (RP in)) (NP (DT the) (JJS least) (NN money)) (PP (IN in) (NP (NP (JJ prime) (NN time)) (: ;) (NP (NP (NNP ABC) (CC and) (NNP NBC) (NN charge)) (NP (QP (CD 30) (NN %) (TO to) (CD 35) (NN %) (JJR more)))))) (PP (IN for) (NP (NNS ads))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT a) (NN Variety) (NN survey))))) (. .)))
+
+(S1 (S (CC But) (S (NP (NP (NNP CBS) (POS 's)) (NNS costs)) (VP (VBP are) (ADJP (JJ huge)))) (, ,) (CC and) (S (NP (DT the) (NNS risks)) (VP (VBP go) (PRT (RP up)) (PP (IN with) (NP (NP (DT each) (JJ new) (NNS sports) (NN package)) (SBAR (WHNP (IN that)) (S (NP (NNP CBS)) (VP (VBZ locks) (PRT (RP up))))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNS sports) (NNS officials)) (VP (VBP predict) (S (NP (NP (NNS jumps)) (PP (IN of) (NP (NP (QP (CD 50) (NN %) (TO to) (CD 100) (NN %))) (PP (IN in) (NP (DT the) (JJ major) (NNS contracts)))))) (VP (VBG coming) (PRT (RP up)) (PP (IN for) (NP (NN renewal)))))))) (, ,) (NP (NN ad) (NNS rates)) (VP (MD may) (VP (VB rise) (NP (QP (RB only) (CD 20)) (NN %)))) (. .)))
+
+(S1 (S (NP (NNP CBS)) (VP (VBZ hopes) (S (VP (TO to) (VP (VB save) (NP (NN money)) (PP (IN by) (S (VP (VBG ordering) (NP (NP (JJR fewer) (NNS episodes)) (PP (IN of) (NP (JJ regular) (NN series)))) (SBAR (IN because) (S (NP (NNS sports)) (VP (MD will) (VP (VB fill) (ADVP (RB up) (NP (DT a) (JJ few) (NNS weeks)) (PP (IN of) (NP (JJ prime) (NN time))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNS savings)) (VP (MD will) (VP (VB be) (ADJP (JJ minuscule)))) (. .)))
+
+(S1 (S (S (NP (NP (DT Each) (NN hour)) (PP (IN of) (NP (NP (NNP Olympics)) (CC and) (NP (NP (NN baseball)) (PP (IN in) (NP (JJ prime) (NN time))))))) (VP (MD will) (VP (VB cost) (NP (NNP CBS)) (NP (QP ($ $) (CD 2.6) (CD million) (TO to) ($ $) (CD 2.8) (CD million)))))) (: ;) (S (S (NP (DT an) (JJ hour-long) (NN drama)) (VP (VBZ costs) (ADVP (RB only)) (NP ($ $) (CD 900,000)))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN aired) (ADVP (RB twice)))))) (. .)))
+
+(S1 (S (NP (NNP CBS)) (VP (MD may) (VP (VB cushion) (NP (NNS losses)) (PP (IN with) (NP (NP (QP (RB about) ($ $) (CD 200) (CD million))) (NP (DT a) (NN year)))) (PP (IN in) (NP (NP (NN interest)) (VP (VBN earned) (PP (IN on) (NP (NP (NP (DT the) (NNS proceeds)) (PP (IN from) (S (VP (VBG selling) (NP (NNP CBS) (NNPS Records)))))) (CC and) (NP (JJ other) (NNS businesses))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (JJ media-stock) (NN analyst) (NNP Richard) (NNP J.) (NNP MacDonald)) (PP (IN of) (NP (NNP MacDonald) (NNP Grippo) (NNP Riely)))) (VP (VBZ says) (SBAR (S (NP (NNP Wall) (NNP Street)) (VP (MD wo) (RB n't) (VP (VB take) (ADVP (RB kindly)) (PP (TO to) (NP (DT that)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN On) (NP (DT a) (JJ stand-alone) (NN basis))) (, ,) (NP (DT the) (NN network)) (VP (MD ought) (S (VP (TO to) (VP (VB make) (NP (NN money))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Mr.) (NNP Pilson)) (VP (VBZ is) (VP (VBN asked) (ADVP (RB directly)))))) (PRN (: --) (SQ (MD can) (NP (PRP you)) (VP (VB make) (NP (NN money)) (PP (IN on) (NP (PDT all) (DT this)))) (. ?)) (: --)) (NP (PRP he)) (VP (VBZ does) (RB n't) (ADVP (RB exactly)) (VP (VB say) (NP (UH yes)))) (. .)))
+
+(S1 (S (`` `) (SQ (`` `) (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB really)) (VP (VBG asking))))) (VBZ is) (, ,) (VBP Are) (NP (DT the) (NN profit) (CC and) (NN loss) (NNS margins)) (VP (VBN anticipated) (PP (IN on) (NP (NP (DT the) (NNS events)) (ADJP (JJ acceptable) (PP (TO to) (NP (NN management))))))) (. ?) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (ADVP (RB Then)) (, ,) (NP (PRP he)) (VP (VBZ answers) (NP (PRP$ his) (JJ own) (NN question))) (. .)))
+
+(S1 (S (INTJ (`` `) (`` `) (UH Yes)) (, ,) (NP (PRP they)) (VP (VBP are)) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT the) (JJ only) (NN question)) (SBAR (S (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB address))))))))) (. .)))
+

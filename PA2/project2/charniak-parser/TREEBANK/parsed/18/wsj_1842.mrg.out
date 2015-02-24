@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (NNP Maurice) (NNP Warren)) (, ,) (NP (JJ 56-year-old) (NN group) (VBG managing) (NN director)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (JJ chief) (NN executive) (NN officer)) (PP (IN of) (NP (DT this) (NN food) (CC and) (NN agriculture) (NN group))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN post)) (PP (IN of) (NP (JJ chief) (NN executive)))) (VP (VBZ has) (VP (VBN been) (ADJP (JJ vacant)) (PP (IN since) (NP (NNP July))) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNP Terry) (NNP Pryce)) (, ,) (NP (CD 55)) (, ,)) (VP (VBD left) (NP (DT the) (NN company))))))) (. .)))
+

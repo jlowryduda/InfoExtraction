@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP Olympia) (NNP Broadcasting) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD did) (RB n't) (VP (VB make) (NP (DT a) (ADJP (QP ($ $) (CD 1.64) (CD million))) (JJ semiannual) (NN interest) (NN payment)) (NP (JJ due) (NN yesterday)) (PP (IN on) (NP (NP (QP ($ $) (CD 23.4) (CD million))) (PP (IN of) (NP (JJ senior) (VBN subordinated) (NNS debentures)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ radio-station) (NN owner) (CC and) (NN programmer)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG trying) (S (VP (TO to) (VP (VB obtain) (NP (JJ additional) (VBG working) (NN capital)) (PP (IN from) (NP (NP (PRP$ its) (JJ senior) (JJ secured) (NNS lenders)) (CC and) (NP (JJ other) (JJ financial) (NNS institutions)))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ needs) (S (VP (TO to) (VP (VB make) (NP (DT the) (NN payment)) (PP (IN by) (NP (NNP Dec.) (CD 1)))))) (S (VP (TO to) (VP (VB avoid) (NP (DT a) (NN default)) (SBAR (IN that) (S (VP (MD could) (VP (VB lead) (PP (TO to) (NP (NP (DT an) (NN acceleration)) (PP (IN of) (NP (DT the) (NN debt)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP September))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG seeking) (NP (NP (NNS offers)) (PP (IN for) (NP (PRP$ its) (CD five) (NN radio) (NNS stations)))) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB concentrate) (PP (IN on) (NP (PRP$ its) (NN programming))) (NP (NN business))))))))))) (. .)))
+

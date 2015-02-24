@@ -1,0 +1,66 @@
+(S1 (S (S (NP (DT The) (NNP U.S.) (NN economy)) (VP (VBD grew) (PP (IN at) (NP (DT a) (JJ moderate) (ADJP (CD 2.5) (NN %)) (JJ annual) (NN rate))) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))))) (, ,) (NP (NP (DT the) (JJ same) (NN pace)) (PP (IN as) (NP (DT the) (JJ second) (NN quarter)))) (, ,) (PP (IN despite) (NP (NP (DT the) (JJS worst) (NN trade) (NN performance)) (PP (IN in) (NP (CD six) (NNS years))))) (, ,) (NP (DT the) (NNP Commerce) (NNP Department)) (VP (VBD reported)) (. .)))
+
+(S1 (S (NP (JJ Personal) (NN spending)) (, ,) (S (VP (VBN buoyed) (PP (IN by) (NP (NP (DT a) (NN burst)) (PP (IN of) (NP (NN automobile) (NN buying))))))) (, ,) (VP (VBD was) (NP (NP (DT the) (JJ main) (NN catalyst)) (PP (TO to) (NP (NP (DT the) (NN economy) (POS 's)) (NN expansion))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NN trade)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (NP (DT the) (NN economy) (POS 's)) (JJ main) (NNS forces)) (PP (IN in) (NP (DT the) (JJ past) (JJ few) (NNS years)))))) (, ,)) (VP (VBD showed) (NP (DT a) (JJ sharp) (NN deterioration))) (. .)))
+
+(S1 (S (NP (NP (NNS Imports)) (PP (IN of) (NP (NNS goods) (CC and) (NNS services)))) (VP (VBD soared) (, ,) (SBAR (IN while) (S (NP (NNS exports)) (VP (VBD were) (ADJP (JJ flat)))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS economists)) (VP (VBD found) (S (NP (DT the) (NN mixture)) (ADJP (JJ ominous)))) (. .)))
+
+(S1 (S (`` `) (PP (`` `) (IN For) (NP (DT the) (JJ past) (CD two) (NNS years))) (, ,) (NP (DT the) (JJ foreign) (NN trade) (NN sector)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (JJ major) (NN contributor)) (PP (TO to) (NP (JJ economic) (NN growth)))))) (. .)))
+
+(S1 (SINV (S (NP (PRP You)) (VP (MD ca) (RB n't) (VP (VB rely) (ADVP (RB now)) (PP (ADVP (RB solely)) (IN on) (NP (NN consumer) (NN spending))) (S (VP (TO to) (VP (VB sustain) (NP (DT the) (NN economy)) (PP (IN on) (NP (DT a) (JJ solid) (NN growth) (NN path))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Norman) (NNP Robertson)) (, ,) (NP (NP (JJ chief) (NN economist)) (PP (IN at) (NP (NP (NNP Mellon) (NNP Bank)) (PP (IN in) (NP (NNP Pittsburgh))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (DT the) (NN economy)) (VP (VBD showed) (NP (NP (DT no) (NN change)) (PP (IN of) (NP (NN pace)))) (PP (IN from) (NP (DT the) (JJ second) (NN quarter)))))) (, ,) (NP (JJ many) (NNS analysts)) (VP (VBP expect) (S (NP (PRP it)) (VP (TO to) (VP (VB slow) (ADVP (RB considerably)) (PP (IN in) (NP (DT the) (JJ fourth) (NN quarter))) (SBAR (IN as) (S (NP (NP (NN demand)) (PP (IN for) (NP (NNS autos)))) (VP (VBZ falls))))))) (, ,) (PP (ADVP (RB partly)) (IN because) (IN of) (NP (NP (JJR higher) (NNS prices)) (PP (IN on) (NP (NP (NNS models)) (VP (VBD introduced) (NP (JJ last) (NN month)))))))) (. .)))
+
+(S1 (S (NP (JJ Many) (NNS economists)) (VP (VBP think) (SBAR (S (NP (NP (DT the) (NN rise)) (PP (IN in) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (NNP U.S.) (NN dollar))))) (NP (DT this) (NN year))) (VP (MD will) (ADVP (RB further)) (VP (VB crimp) (NP (NP (NN progress)) (PP (IN in) (NP (NN trade)))) (, ,) (SBAR (IN because) (S (S (NP (PRP it)) (VP (VBZ makes) (S (NP (NNS exports)) (ADJP (RBR more) (JJ expensive))))) (CC and) (S (NP (NNS imports)) (ADJP (JJR cheaper)))))))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (NN business) (NN investment)) (PRN (: --) (SBAR (WHNP (WDT which)) (S (VP (VBD slowed) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NN yesterday) (POS 's)) (NN report))))))) (: --))) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB continue) (S (VP (TO to) (VP (VB be) (ADJP (JJ sluggish)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ sharp) (NN reduction)) (PP (IN in) (NP (NN inflation)))) (VP (VBD was) (PP (IN by) (ADVP (RB far))) (NP (NP (DT the) (JJS brightest) (NN spot)) (PP (IN in) (NP (NP (DT the) (NN report)) (PP (IN on) (NP (DT the) (JJ real) (JJ gross) (JJ national) (NN product)))))) (: --) (NP (NP (DT the) (JJ inflation-adjusted) (NN market) (NN value)) (PP (IN of) (NP (PDT all) (DT the) (NNS goods) (CC and) (NNS services))) (SBAR (S (NP (DT the) (NN economy)) (VP (VBD produced)))))) (. .)))
+
+(S1 (S (NP (NP (DT An) (NN inflation) (NN gauge)) (SBAR (WHNP (WDT that)) (S (VP (VBZ measures) (NP (NP (DT the) (JJ quarterly) (NN change)) (PP (IN in) (NP (NP (NNS prices)) (PP (IN of) (NP (NP (DT an) (NN array)) (PP (IN of) (NP (NNS goods) (CC and) (NNS services)))))))))))) (VP (VBD slowed) (NP (PRP$ its) (NN growth)) (PP (TO to) (NP (NP (DT a) (ADJP (CD 2.9) (NN %)) (JJ annual) (NN rate)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))))) (PP (IN from) (NP (NP (CD 5) (NN %)) (PP (IN in) (NP (DT the) (JJ second)))))) (. .)))
+
+(S1 (S (S (NP (NP (JJ Much)) (PP (IN of) (NP (DT the) (NN moderation)))) (VP (VBD came) (PP (IN from) (NP (NP (VBG declining) (NN energy) (NNS prices)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (ADVP (IN since)) (VP (VBN turned) (PRT (RP up)) (NP (DT a) (NN bit)))))))))) (, ,) (NP (NNS analysts)) (VP (VBD said)) (. .)))
+
+(S1 (S (ADVP (RB Consequently)) (, ,) (NP (NP (NNP Michael) (NNP Darby)) (, ,) (NP (NP (NN undersecretary)) (PP (IN for) (NP (JJ economic) (NNS affairs))) (PP (IN at) (NP (DT the) (NNP Commerce) (NNP Department)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NN inflation)) (ADVP (RB probably)) (VP (MD will) (VP (VB edge) (ADVP (RB up) (PP (IN from) (NP (DT the) (JJ third-quarter) (NN rate)) (PP (IN in) (NP (NP (DT the) (JJ final) (CD three) (NNS months)) (PP (IN of) (NP (CD 1989)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ believes) (SBAR (S (NP (NP (DT the) (JJ second) (NN quarter) (POS 's)) (ADJP (CD 5) (NN %)) (NN rate)) (`` `) (VP (`` `) (VP (MD will) (VP (VB prove) (S (VP (TO to) (VP (VB have) (VP (VBN been) (NP (NP (DT this) (NN year) (POS 's)) (JJ peak) (JJ quarterly) (NN inflation) (NN rate))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Generally)) (, ,) (NP (DT the) (NNP Bush) (NN administration)) (VP (VBD expressed) (NP (NP (NN satisfaction)) (PP (IN with) (NP (NP (DT the) (NN economy) (POS 's)) (NN progress)))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ heads) (PP (IN into) (NP (NP (PRP$ its) (JJ eighth) (NN year)) (PP (IN of) (NP (NP (JJ sustained) (NN growth)) (NP (JJ next) (NN month)))))))))) (. .)))
+
+(S1 (S (NP (NNP Treasury) (NNP Secretary) (NNP Nicholas) (NNP Brady)) (VP (VBD called) (S (NP (DT the) (ADJP (CD 2.5) (NN %)) (NN pace)) (`` `) (NP (`` `) (NP (JJ good) (, ,) (JJ solid) (NN growth)) (, ,) ('' ')) ('' ')) (SBAR (IN although) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ expects) (S (NP (DT the) (NN expansion)) (VP (TO to) (VP (VB slow) (PP (IN in) (NP (DT the) (JJ fourth) (NN quarter))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD added) (: :) (`` `) (S (`` `) (NP (NN Inflation)) (VP (VBZ is) (ADJP (ADJP (JJR lower)) (SBAR (IN than) (S (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNS people)) (VP (VBD expected) (S (NP (PRP it)) (VP (TO to) (VP (VB be))))))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (JJ good) (NN news))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (NN administration) (NNS officials)) (VP (VBD were) (ADJP (VBN concerned) (PP (IN over) (NP (NP (DT the) (JJ bleak) (NN trade) (NN report)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD showed) (NP (NP (DT the) (NN deficit)) (PP (IN in) (NP (NP (DT the) (NN country) (POS 's)) (NN trade))) (PP (IN of) (NP (NNS goods) (CC and) (NNS services)))) (PP (VBG swelling) (PP (TO to) (NP (NP (DT a) (ADJP (QP ($ $) (CD 74) (CD billion))) (JJ annual) (NN rate)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter)))))) (PP (IN from) (NP (NP (DT a) (ADJP (QP ($ $) (CD 51) (CD billion))) (NN rate)) (PP (IN in) (NP (DT the) (JJ second) (NN quarter)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Darby)) (VP (VP (VBD called) (S (NP (PRP it)) (NP (DT a) (`` `) (NX (`` `) (NX (NN disappointment)) ('' ')) ('' ')))) (CC but) (VP (VBD predicted) (SBAR (S (NP (NNS exports)) (VP (MD will) (VP (VB pick) (PRT (RP up)) (ADVP (RB again)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBD were) (ADJP (JJ unprepared) (PP (IN for) (NP (NP (DT the) (NN deterioration)) (PP (IN in) (NP (JJ net) (NNS exports)))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Daniel) (NNP Van) (NNP Dyke)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NNP U.S.) (NN forecasting))) (PP (IN at) (NP (NP (NNP Bank)) (PP (IN of) (NP (NNP America))) (PP (IN in) (NP (NNP San) (NNP Francisco))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB believe) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB continue)))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD added) (, ,) (S (VP (VBG noting) (SBAR (IN that) (S (S (NP (NP (DT the) (NNS economies)) (PP (IN of) (NP (NP (DT the) (NN country) (POS 's)) (JJ major) (NN trading) (NNS partners)))) (VP (VBP are) (ADJP (JJ strong)))) (CC and) (S (NP (NP (NNS prices)) (PP (IN of) (NP (NNP U.S.) (NNS products)))) (VP (VBP are) (ADVP (RB still)) (ADJP (JJ competitive))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS analysts)) (ADVP (RB also)) (VP (VBD were) (VP (VBN disturbed) (PP (IN by) (NP (NP (DT a) (NN pickup)) (PP (IN in) (NP (NP (DT the) (NN growth)) (PP (IN of) (NP (NN business) (NNS inventories))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NP (DT a) (NN buildup)) (PP (IN of) (NP (DT these) (NNS stocks)))) (VP (VBZ adds) (PP (TO to) (NP (NNP GNP)))))) (, ,) (NP (PRP it)) (VP (MD can) (VP (VB hurt) (NP (DT the) (NN economy)) (SBAR (IN because) (S (NP (NP (DT a) (NN pileup)) (PP (IN of) (NP (JJ unsold) (NNS goods)))) (VP (MD can) (VP (VB lead) (PP (TO to) (NP (NP (NN production) (NNS cuts)) (CC and) (NP (NNS layoffs)))))))))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (DT the) (NN report)))) (, ,) (NP (NP (NNS inventories)) (PP (IN outside) (NP (DT the) (NN farm) (NN sector)))) (VP (VBD grew) (PP (IN at) (NP (NP (DT an) (JJ annual) (NN rate)) (PP (IN of) (NP (QP ($ $) (CD 24.6) (CD billion)))))) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (, ,) (ADVP (RB up) (PP (IN from) (NP (DT a) (ADJP (QP ($ $) (CD 19.5) (CD billion))) (NN pace)) (PP (IN in) (NP (DT the) (JJ second) (NN quarter)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Manufacturers) (POS ')) (NNS stocks)) (VP (VBN fattened) (PP (IN at) (NP (DT an) (ADJP (QP ($ $) (CD 18.4) (CD billion))) (JJ annual) (NN rate))) (, ,) (ADVP (RB up) (PP (IN from) (NP (QP ($ $) (CD 8.3) (CD billion)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT That)) (VP (VBZ suggests) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB little) (JJR more)) (NN inventory) (NN overhang)) (PP (IN than) (S (NP (DT some) (NNS people)) (VP (VBN expected)))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Edward) (NX (NN Boss))) (, ,) (NP (NP (JJ senior) (JJ financial) (NN economist)) (PP (IN at) (NP (NP (NNP Continental) (NNP Bank)) (PP (IN in) (NP (NNP Chicago))))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN anything)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB cause) (NP (NP (DT a) (NN downturn)) (PP (IN in) (NP (JJ economic) (NN activity)))))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (MD will) (VP (VB slow) (NP (NN production)))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (NP (NN Devastation)) (PP (IN from) (NP (NP (NNP Hurricane) (NNP Hugo)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD slammed) (PP (IN into) (NP (NP (DT the) (NNP Southeast) (NN coast)) (PP (IN in) (NP (JJ late) (NNP September)))))))) (, ,)))) (VP (VBN diminished) (NP (JJ personal) (NN income)) (PP (IN by) (NP (QP (RB about) ($ $) (CD 4) (CD billion)))))) (, ,) (NP (DT the) (NN department)) (VP (VBD said)) (, ,) (CC but) (S (NP (PRP it)) (VP (VBD called) (S (NP (NP (DT the) (NN effect)) (PP (IN on) (NP (DT the) (ADJP (QP (RB roughly) ($ $) (CD 5) (CD trillion))) (NN economy)))) (`` `) (ADJP (`` `) (JJ negligible))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN Except) (PP (IN for) (NP (NP (DT the) (NN loss)) (PP (IN from) (NP (DT the) (NN hurricane)))))) (, ,) (NP (PDT all) (DT the) (NNS figures)) (VP (VBD were) (VP (VBN adjusted) (PP (IN for) (NP (NP (JJ seasonal) (NNS factors)) (CC and) (NP (NN inflation)))))) (. .)))
+
+(S1 (S (NP (RB Here)) (VP (VBP are) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (JJ major) (NNS components)) (PP (IN of) (NP (DT the) (JJ gross) (JJ national) (NN product))) (VP (VBN expressed) (PP (IN in) (NP (NP (ADJP (RB seasonally) (VBN adjusted)) (JJ annual) (NNS rates)) (PP (IN in) (NP (NP (NNS billions)) (PP (IN of) (NP (JJ constant) (PRN (-LRB- -LRB-) (NP (CD 1982)) (-RRB- -RRB-)) (NNS dollars)))))))))))) (: :)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ third) (NN quarter))) (, ,) (NP (DT the) (JJ implicit) (NN price) (NN deflator)) (VP (VBD fell) (PP (TO to) (NP (NP (CD 2.9) (NN %)) (PP (IN of) (NP (DT the) (CD 1982) (NN average))))) (, ,) (PP (IN from) (NP (NP (CD 4.6) (NN %)) (PP (IN in) (NP (DT the) (JJ previous) (NN quarter)))))) (. .)))
+

@@ -1,0 +1,66 @@
+(S1 (S (NP (NNP Steve) (NNP Jobs)) (VP (VBD took) (NP (NP (DT a) (NN step)) (ADVP (RB back) (PP (IN from) (NP (NP (DT the) (NN frontier)) (PP (IN of) (NP (NN personal-computer) (NN technology)))) (PP (IN in) (NP (DT an) (NN effort) (S (VP (TO to) (VP (VB spur) (NP (NP (NNS sales)) (PP (IN of) (NP (NP (JJ Next) (NNP Inc.) (POS 's)) (JJ new) (NN machine))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Jobs)) (VP (VBD moved) (S (VP (TO to) (VP (VB remedy) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NP (PRP$ his) (NN computer) (POS 's)) (NNS drawbacks) (NN yesterday)))) (PP (IN by) (S (VP (VBG lowering) (NP (DT the) (JJ entry-level) (NN price)) (PP (IN for) (NP (DT a) (JJ Next) (NN machine))) (PP (IN by) (NP (NP ($ $) (CD 1,500)) (, ,) (CC or) (NP (CD 23) (NN %)) (, ,)))))) (SBAR (IN if) (S (NP (DT the) (NN buyer)) (VP (VBZ chooses) (NP (DT a) (NN hard-disk) (NN drive)) (PP (IN as) (NP (NP (DT an) (NN alternative)) (PP (TO to) (NP (NP (NNP Next) (POS 's)) (JJ optical-storage) (NN device)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ hard) (NN drive)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (NN storage) (NN device)) (PP (IN of) (NP (NN choice)))) (PP (IN for) (NP (ADJP (RB virtually) (DT every)) (NN desktop) (NN computer) (NN user)))))) (, ,)) (ADVP (RB also)) (ADVP (RB now)) (VP (MD will) (VP (VB supplement) (NP (NP (NNP Next) (POS 's)) (JJ futuristic) (JJ optical) (NN device)) (SBAR (IN if) (S (NP (NNS buyers)) (VP (VB pay) (NP (JJ full) (NN price))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Jobs)) (, ,) (NP (NP (NN co-founder)) (PP (IN of) (NP (NNP Apple) (NNP Computer) (NNP Inc.)))) (, ,)) (VP (VBD founded) (ADVP (NP (IN Next) (CD four) (NNS years)) (RB ago)) (PP (IN in) (NP (NP (DT the) (NNS hopes)) (PP (IN of) (S (VP (VBG fomenting) (NP (DT a) (NN revolution)) (PP (IN in) (NP (NP (DT the) (NN way)) (SBAR (S (NP (NN desktop) (NNS computers)) (VP (VBP are) (VP (VBN designed) (CC and) (VBN used))))))))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (JJ Next) (NN computer)) (, ,) (VP (VP (VBN introduced) (PP (IN about) (ADVP (NP (DT a) (NN year)) (RB ago)))) (CC and) (VP (VBN aimed) (ADVP (RB primarily)) (PP (IN at) (NP (NN university) (NN computer) (NNS users))))) (, ,)) (VP (NNS sports) (NP (NP (JJ snazzy) (NNS graphics)) (, ,) (NP (JJ digital) (NN sound)) (, ,) (NP (JJ built-in) (NN networking)) (CC and) (NP (DT a) (JJ sleek) (JJ black) (NN design)))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN computer)) (VP (VBD was) (VP (VBG proving) (NP (DT a) (JJ hard) (NN sell)) (PP (IN because) (IN of) (NP (NP (PRP$ its) (JJ high) (NN price)) (, ,) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (NN software)))) (CC and) (NP (NP (DT an) (JJ optical) (JJ data-storage) (NN device)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (RB too) (JJ slow)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN machine)) (VP (VBD began) (S (VP (VBG shipping) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (JJ last) (NN year)))))))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (RB closely) (VBN held)) (NN company)) (VP (VBZ has) (RB n't) (VP (VBN disclosed) (NP (NNS sales)))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NP (JJS most) (NNS universities)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN bought) (NP (DT the) (NNS machines))))))) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (VBG buying) (NP (JJ small) (NNS numbers)) (PP (IN for) (NP (NN evaluation) (NNS purposes)))))))) (. .)))
+
+(S1 (S (NP (NNS Universities)) (VP (MD can) (ADVP (RB now)) (VP (VB buy) (NP (DT a) (JJ Next) (NN computer)) (PP (IN without) (NP (DT an) (JJ optical) (NN storage) (NN device))) (PP (IN for) (NP ($ $) (CD 4,995))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN computer)) (PP (IN with) (NP (DT the) (JJ optical) (NN device)))) (VP (VP (MD will) (ADVP (RB still)) (VP (VB cost) (NP ($ $) (CD 6,495)))) (, ,) (CC but) (VP (PP (IN from) (NP (RB now))) (PP (IN on) (NP (NNP Next))) (MD will) (VP (VB outfit) (NP (NP (NP (DT every) (NN computer)) (PP (IN with) (NP (DT a) (JJ hard) (NN drive)))) (CC and) (NP (NN supply) (CD one))) (PP (IN at) (NP (NP (DT no) (NN cost)) (PP (TO to) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (ADVP (RB already)) (VP (VBN bought) (NP (JJ Next) (NNS machines))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Commercial) (NNS customers)) (VP (MD can) (VP (VB purchase) (NP (DT the) (JJ same) (NN system)) (PP (IN through) (NP (NP (NNP Businessland) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN computer) (NN retailer)) (VP (VBN based) (PP (IN in) (NP (NP (NNP San) (NNP Jose)) (, ,) (NP (NNP Calif.)) (, ,))))))) (PP (IN for) (NP (QP (RB roughly) ($ $) (CD 3,000)) (JJR more))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Jobs)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS changes)) (VP (VBD were) (VP (VBN prompted) (PP (IN by) (NP (NP (NNS requests)) (PP (IN from) (NP (NP (NNS customers)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBN frustrated) (PP (IN with) (NP (NP (DT the) (NN performance)) (PP (IN of) (NP (NP (DT the) (JJ optical) (NN device)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (RB n't) (VP (VBN offered) (PP (IN as) (NP (JJ standard) (NN equipment))) (PP (IN by) (NP (DT any) (NNS rivals)))))))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT Another) (NN factor)) (VP (VBD was) (SBAR (IN that) (S (NP (NNS customers)) (VP (VBD were) (S (VP (VBG asking) (, ,) (`` `) (SBARQ (`` `) (WHADVP (WRB Why)) (SQ (VBP do) (RB n't) (NP (PRP you)) (VP (VB give) (NP (PRP us)) (NP (DT a) (JJR cheaper) (NN system)))) (. ?) ('' ')) ('' ')))))))) (NP (NNP Mr.) (NNP Jobs)) (VP (VBD said) (PP (IN at) (NP (NP (DT a) (NN conference)) (PP (IN on) (NP (NN university) (NN computing))) (ADVP (RB here))))) (. .)))
+
+(S1 (S (NP (JJ Optical-storage) (NNS devices)) (VP (MD can) (VP (VP (VB handle) (NP (NP (RB very) (JJ large) (NNS amounts)) (PP (IN of) (NP (NNS data))))) (CC and) (VP (VB make) (S (NP (PRP it)) (ADJP (RB far) (JJR easier) (SBAR (S (VP (TO to) (VP (VB edit) (NP (NP (NN film) (NNS clips)) (CC or) (NP (JJ audio) (NNS recordings))) (PP (IN with) (NP (DT a) (NN computer)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN technology)) (, ,) (SBAR (IN while) (FRAG (ADJP (JJ reliable)))) (, ,) (VP (VBZ is) (ADJP (ADJP (RB far) (JJR slower)) (PP (IN than) (NP (DT the) (ADJP (RB widely) (VBN used)) (JJ hard) (NNS drives))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB get) (PP (IN around) (NP (NP (DT the) (NNS delays)) (VP (VBN caused) (PP (IN by) (NP (DT the) (JJ optical) (NN device))))))))) (, ,) (NP (NP (NNP Businessland)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (NP (NNP Next) (POS 's)) (JJ exclusive) (NN dealer)) (PP (TO to) (NP (NNS corporations))))))) (, ,)) (VP (VBZ has) (PP (IN for) (NP (NNS months))) (VP (VBN been) (VP (VBG advising) (NP (NNS customers)) (S (VP (TO to) (VP (VB purchase) (NP (JJ hard) (NNS drives)) (PP (IN with) (NP (DT the) (NNS machines))))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (JJ Next) (POS 's)) (NN decision) (S (VP (TO to) (VP (VB rely) (PP (IN on) (NP (NP (DT the) (JJ more-established) (JJ hard) (NN drive)) (PP (IN in) (NP (DT every) (JJ Next) (NN computer))))))))) (VP (VBZ does) (RB n't) (VP (VB signal) (NP (NP (DT a) (NN retreat)) (PP (IN from) (NP (JJ optical) (NN storage))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Mr.) (NNP Jobs)) (, ,) (SBAR (WHNP (WP who)) (S (PP (IN for) (NP (NNS years))) (VP (VBZ has) (VP (VBN said) (SBAR (S (NP (DT this) (NN technology)) (VP (MD will) (VP (VB play) (NP (DT a) (JJ crucial) (NN role)) (PP (IN in) (NP (DT the) (JJ next) (NN decade)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 're) (ADJP (RB extremely) (JJ committed) (PP (TO to) (NP (JJ optical) (NN storage) (NN technology))))) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP think) (SBAR (S (NP (NN everything)) (VP (MD will) (VP (VB go) (NP (DT this) (NN way)) (PP (IN in) (NP (DT a) (JJ few) (NNS years)))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (DT the) (JJ next) (NN generation)) (PP (IN of) (NP (JJ optical) (NNS drives)))) (VP (MD will) (VP (VB be) (ADVP (ADVP (RB as) (RB fast)) (PP (IN as) (NP (JJ hard) (NNS drives)))))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ depends) (PP (IN on) (NP (NP (JJ outside) (NNS suppliers)) (PP (IN for) (NP (DT the) (NNS devices))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NN university) (NN computer) (NNS specialists)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD welcomed) (NP (DT the) (NN move))))) (, ,)) (VP (VBD called) (S (NP (PRP it)) (NP (NP (DT a) (JJ necessary) (NN retreat)) (PP (IN from) (NP (NP (NP (DT the) (VBG cutting) (NN edge)) (PP (IN of) (NP (NN technology)))) (CC and) (NP (NP (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ likely) (S (VP (TO to) (VP (VB increase) (NP (NP (NP (NNP Next) (POS 's)) (NNS sales)) (PP (IN on) (NP (NNS campuses))))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (PP (IN From) (NP (NP (DT the) (NN standpoint)) (PP (IN of) (S (VP (VBG being) (PP (IN on) (NP (NP (DT the) (NN forefront)) (PP (IN of) (NP (NN technology)))))))))) (, ,) (NP (DT this)) (VP (VBZ is) (NP (NP (DT a) (NN step)) (ADVP (RB backward)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Jerry) (NNP W.) (NNP Sprecher)) (, ,) (NP (NP (DT a) (JJ senior) (NN computing) (NN manager)) (PP (IN for) (NP (DT the) (NNP California) (NN state) (NN university) (NN system))))) (. .)))
+
+(S1 (S (`` `) (`` `) (CC But) (NP (PRP it)) (VP (MD will) (ADVP (RB definitely)) (VP (VB boost) (NP (NP (NNP Next) (POS 's)) (NNS sales)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNS Universities)) (, ,) (ADVP (RB however)) (, ,) (VP (VBP say) (SBAR (S (NP (NP (NNP Next) (POS 's)) (NNS prices)) (VP (MD must) (VP (VB go) (ADVP (RB even) (RBR lower)) (SBAR (IN before) (S (NP (NP (JJ large) (NNS numbers)) (PP (IN of) (NP (NNS students)))) (VP (VB purchase) (NP (DT the) (NN machine)))))))))) (. .)))
+
+(S1 (SINV (S (`` `) (S (`` `) (NP (PRP We)) (VP (MD 'd) (ADVP (RB still)) (VP (VB like) (S (VP (TO to) (VP (VB see) (NP (DT a) (NN student) (NN model))))))) (, ,) ('' ')) ('' ') (VP (VBN priced) (PP (IN at) (NP (QP (RB about) ($ $) (CD 3,500)))))) (, ,) (VP (VBD said)) (NP (NP (NNP Ronald) (NNP Johnson)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (JJ academic) (NN computing))) (PP (IN at) (NP (NP (NP (NNP Minnesota) (POS 's)) (NNP Gustavus) (NNP Adolphus) (NNP College)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN bought) (NP (CD eight) (JJ Next) (NNS machines)))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Broad) (NN acceptance)) (PP (IN of) (NP (NP (NNP Next) (POS 's)) (NN computer)))) (ADVP (RB also)) (VP (VBZ is) (VP (VBN hindered) (PP (IN by) (NP (NP (NN difficulty)) (PP (IN in) (S (VP (VBG distributing) (NP (NP (NN software)) (PP (IN for) (NP (PRP it))))))))))) (. .)))
+
+(S1 (S (S (NP (JJS Most) (NN software)) (VP (VBZ is) (VP (VBN distributed) (PP (IN on) (NP (JJ cheap) (JJ floppy) (NNS disks)))))) (, ,) (CC but) (S (NP (DT the) (JJ Next) (NN computer)) (VP (VBZ does) (RB n't) (VP (VB come) (PP (IN with) (NP (NP (DT a) (NN device)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reads) (NP (PRP them)))))))))) (. .)))
+
+(S1 (S (S (NP (NP (JJ Next) (POS 's)) (NN computer)) (ADVP (RB also)) (VP (VBZ needs) (NP (JJR more) (NN software) (NNS applications)))) (, ,) (CC but) (S (NP (NNP Mr.) (NNP Jobs)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ expects) (NP (JJR more)) (ADVP (RB soon))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ expects) (S (NP (NNP Lotus) (NNP Development) (NNP Corp.)) (VP (TO to) (VP (VB introduce) (NP (NP (DT a) (JJ Next) (NN version)) (PP (IN of) (NP (PRP$ its) (JJ popular) (NNP 1-2-3) (NN spreadsheet) (NN program)))) (PP (IN in) (NP (CD 1990)))))))))) (. .)))
+
+(S1 (S (NP (NNS Educators)) (VP (VBD added) (SBAR (IN that) (S (NP (NNP Next)) (VP (VBZ needs) (S (VP (TO to) (VP (ADVP (RB soon)) (VB offer) (NP (NP (DT a) (NN color) (NN version)) (PP (IN of) (NP (PRP$ its) (NN computer))))))))))) (. .)))
+
+(S1 (S (NP (DT Every) (JJ major) (NN maker)) (VP (VBZ offers) (NP (NP (NNS computers)) (PP (IN with) (NP (NN color) (NNS displays))))) (. .)))
+
+(S1 (S (NP (JJ Next)) (VP (VP (MD wo) (RB n't) (VP (VB comment) (PP (IN on) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (MD will) (VP (VB do) (NP (DT the) (JJ same))))))))) (, ,) (CC but) (VP (VBZ is) (VP (VBN believed) (S (VP (TO to) (VP (VB have) (NP (DT a) (NN color) (NN model)) (PP (IN under) (NP (NN development))))))))) (. .)))
+

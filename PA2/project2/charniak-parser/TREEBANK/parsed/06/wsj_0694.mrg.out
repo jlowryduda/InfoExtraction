@@ -1,0 +1,28 @@
+(S1 (S (NP (PRP We)) (VP (VBP are) (RB deeply) (VP (VBN disturbed) (S (PP (IN that) (NP (NP (DT a) (JJ recent) (NN editorial)) (VP (VBN stated) (SBAR (IN that) (S (NP (DT the) (`` `) (NP (NP (`` `) (NP (NNPS Americans)) (PP (IN With) (NP (NP (NNPS Disabilities) (NNP Act)) (PP (IN of) (NP (CD 1989) (POS '))))) ('' ') (VP (VBD was)) (`` `)) (`` `) (VP (VBN crafted) (PP (ADVP (RB primarily)) (IN by) (NP (NP (NNP Democratic) (NNPS Senators) (NNP Kennedy)) (CC and) (NP (NNP Harkin) (POS ')))))) ('' ') (PP (IN with) (NP (DT a) (NN premise))) (`` `)) (`` `) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN presumption)) (PP (IN that) (S (NP (JJS most) (NNPS Americans)) (VP (VBP are) (ADJP (JJ hostile) (PP (TO to) (NP (DT the) (JJ disabled) (NN ..))))) (. .)))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (ADVP (RB Perhaps)) (ADJP (RB even) (RBR more) (JJ offensive))) (VP (VBZ is) (NP (DT the) (NN statement)) (, ,) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ is) (ADJP (JJ surprising)) (SBAR (IN that) (S (NP (NP (NP (NNP George) (NNP Bush)) (CC and) (NP (DT the) (NNP White) (NNP House))) (NP (JJ inner) (NN circle))) (VP (MD would) (VP (NN ally) (NP (PRP themselves)) (PP (IN with) (NP (DT this) (JJ crabby) (NN philosophy)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT This) (NN legislation)) (VP (VBD was) (RB not) (VP (VBN drafted) (PP (IN by) (NP (NP (DT a) (NN handful)) (PP (IN of) (NP (JJ Democratic) (`` `) (NX (`` `) (NNS do-gooders)))))))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (NP (RB Quite) (DT the) (NN contrary)) (: --) (S (NP (PRP it)) (VP (VBZ results) (PP (IN from) (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN work)) (PP (IN by) (NP (NP (NNS members)) (PP (IN of) (NP (NP (DT the) (NNP National) (NNP Council)) (PP (IN on) (NP (NP (DT the) (NNS Handicapped)) (, ,) (NP (NP (DT all)) (VP (VBN appointed) (PP (IN by) (NP (NNP President) (NNP Reagan))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP You)) (VP (VBP depict) (NP (DT the) (NN bill)) (PP (IN as) (NP (NP (NN something)) (UCP (NP (JJ Democratic) (NNS leaders)) (`` `) (ADJP (`` `) (JJ hoodwinked) ('' ')) ('' ') (NP (NP (DT the) (NN administration)) (PP (IN into) (NP (VBG endorsing)))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN opposite)) (VP (VBZ is) (ADJP (JJ true)))) (: :) (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the) (NN product)) (PP (IN of) (NP (NP (JJ many) (NNS meetings)) (PP (IN with) (NP (NP (NN administration) (NNS officials)) (, ,) (NP (NNP Senate) (NNS staffers)) (, ,) (NP (NNS advocates)) (, ,) (CC and) (NP (NN business) (CC and) (NN transportation) (NNS officials))))))))) (. .)))
+
+(S1 (S (NP (JJ Many) (NNS congressmen)) (VP (VBP are) (S (VP (VBG citing) (NP (NP (DT the) (NN compromise)) (PP (IN on) (NP (DT the) (`` `) (NP (`` `) (NP (NAC (NNPS Americans) (PP (IN With) (NP (NNPS Disabilities)))) (NNP Act)) (PP (IN of) (NP (CD 1989))) ('' ')) (POS ')))) (PP (IN as) (NP (NP (DT a) (NN model)) (PP (IN for) (NP (JJ bipartisan) (NNS deliberations)))))))) (. .)))
+
+(S1 (S (NP (JJS Most) (NNP National) (NNP Council) (NNS members)) (VP (VP (VBP are) (S (NP (PRP themselves)) (ADJP (JJ disabled)))) (CC or) (VP (VBP are) (NP (NP (NNS parents)) (PP (IN of) (NP (NP (NNS children)) (PP (IN with) (NP (NNS disabilities)))))))) (. .)))
+
+(S1 (S (S (NP (PRP We)) (VP (VBP know) (SBAR (RB firsthand) (S (NP (DT the) (NN discrimination)) (VP (VBN addressed) (PP (IN by) (NP (DT the) (NN act)))))))) (: :) (S (S (VP (TO to) (VP (VB be) (VP (VBN told) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT no) (NN place)) (PP (IN for) (NP (PRP$ your) (NN child)))) (PP (IN in) (NP (NN school)))))))))) (: ;) (S (VP (TO to) (VP (VB spend) (NP (JJ lonely) (NNS hours)) (PP (IN at) (NP (NN home))) (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (NN transportation)) (PP (IN for) (NP (NP (NN someone)) (PP (IN in) (NP (DT a) (NN wheelchair)))))))))))) (: ;) (S (VP (TO to) (VP (VB be) (VP (VBN denied) (NP (NN employment)) (SBAR (IN because) (S (NP (PRP you)) (VP (VBP are) (VP (VBN disabled)))))))))) (. .)))
+
+(S1 (S (NP (PRP$ Your) (NN editorial)) (ADVP (RB mockingly)) (VP (VBZ entitles) (NP (DT this) (NN legislation)) (NP (DT the) (`` `) (NX (`` `) (NP (NNP Lawyers) (POS ')) (NNP Employment) (NNP Act)))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN For) (NP (NP (NP (DT the) (QP (CD 43) (CD million)) (NNS people)) (PP (IN with) (NP (NNS disabilities)))) (CC and) (NP (PRP$ their) (NNS families)))) (, ,) (NP (DT this) (NN legislation)) (VP (VBZ is) (NP (DT the) (`` `) (NX (`` `) (NNP Emancipation) (NN Proclamation)))) (. .) ('' ') ('' ')))
+
+(S1 (NP (NNP Sandra) (NN Swift) (NNP Parrino)))
+
+(S1 (NP (NNP Chairperson)))
+
+(S1 (NP (NP (NNP National) (NNP Council)) (PP (IN on) (NP (DT the) (NNS Handicapped)))))
+

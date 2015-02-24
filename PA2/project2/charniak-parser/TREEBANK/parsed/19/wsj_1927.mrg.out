@@ -1,0 +1,80 @@
+(S1 (SBARQ (SBAR (IN Whether) (CC or) (RB not) (S (`` `) (S (`` `) (NP (JJ great) (NNS cases)) (VP (VB make) (NP (NN bad-law) ('' ')))) ('' '))) (PRN (: --) (SBAR (IN as) (S (NP (NNP Justice) (NNP Holmes)) (VP (VBD asserted)))) (: --)) (WHNP (WP who)) (SQ (VP (MD can) (VP (VB doubt) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (JJ great) (NN confirmation) (NNS hearings)) (VP (VBP turn) (PP (IN on) (NP (NP (NP (DT the) (NN nominee) (POS 's)) (NN response)) (PP (TO to) (NP (DT these) (JJ great) (NNS cases)))))))) (NP (PRP they)) (VP (VBP make) (NP (JJ bad) (JJ judicial) (NN history)))))))) (. ?)))
+
+(S1 (S (NP (NP (NNP Ethan) (NNP Bronner) (POS 's)) (NP (`` `) (NP (NP (`` `) (NNP Battle) (IN for) (NNP Justice)) (: :) (SBAR (WHADVP (WRB How)) (S (NP (DT the) (NNP Bork) (NN Nomination)) (VP (VBD Shook) (NP (NNP America) (POS ')))))) ('' ') (PRN (-LRB- -LRB-) (NP (NNP Norton)) (, ,) (NP (CD 399) (NNS pages)) (, ,) (NP ($ $) (CD 22.50)) (-RRB- -RRB-)))) (VP (VBZ is) (NP (NP (DT a) (JJ spirited) (NN narrative)) (PP (IN of) (NP (NP (DT the) (NN nastiest)) (PP (IN of) (NP (DT these) (NNS hearings)))))) (, ,) (S (VP (VBN done) (UCP (PP (IN with) (NP (JJ journalistic) (NN verve))) (, ,) (CC but) (PP (IN with) (NP (DT a) (JJ flawed) (JJ legal) (NN philosophy))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (DT the) (NN book)) (VP (ADVP (RB amply)) (VBZ justifies) (NP (PRP$ its) (NN subtitle))))) (, ,) (NP (NP (DT the) (NN title)) (NP (PRP itself))) (VP (VBZ is) (ADJP (JJ dubious))) (. .)))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBD shook) (NP (NNP America))))) (VP (VBD was) (RB not) (NP (NP (DT a) (NN battle)) (PP (PP (IN for) (NP (NN justice))) (CC but) (PP (IN for) (NP (NP (JJ naked) (NN power)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (DT an) (NN army)) (PP (IN of) (NP (JJ judicial) (NNS activists)))) (VP (VBD rolled) (PP (IN over) (NP (NP (DT a) (NN judge)) (SBAR (S (NP (PRP they)) (VP (VBD had) (VP (VBN demonized))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (PRP$ its) (JJ basic) (NN structure) (CC and) (NN style))) (NP (DT the) (NN book)) (VP (VBZ is) (ADJP (JJ novelistic)) (, ,) (PP (IN with) (NP (NP (JJ piquant) (NN character) (NN portrayal)) (, ,) (NP (JJ hard-wire) (NN action)) (CC and) (NP (NP (JJ devious) (NN intrigue)) (PP (IN of) (NP (NP (DT the) (NN sort)) (ADJP (RBR more) (JJ likely) (S (VP (TO to) (VP (VB be) (VP (VBN encountered) (PP (IN in) (NP (NP (DT a) (NNP Washington) (NN docudrama)) (PP (IN than) (PP (IN in) (NP (DT a) (JJ constitutional) (NN history))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Bronner)) (VP (VBZ seems) (S (VP (TO to) (VP (VB believe) (SBAR (IN that) (S (NP (DT the) (NNS hearings)) (VP (MD could) (VP (VB have) (VP (VBN gone) (NP (DT either) (NN way))))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP doubt) (NP (DT that))) (. .)))
+
+(S1 (S (PP (VBN Given) (NP (NP (NP (JJ Democratic) (NN frustration)) (PP (IN with) (NP (NP (DT the) (NNP Reagan) (NNS victories)) (CC and) (NP (NNP Court) (NNS appointments))))) (, ,) (NP (NP (DT the) (NN contingency) (NNS plans)) (PP (IN in) (NP (NN place)))) (, ,) (CC and) (NP (NP (NP (NNP Mr.) (NNP Bork) (POS 's)) (NN paper) (NN trail)) (PP (IN of) (NP (JJ vulnerable) (NNS writings)))))) (, ,) (NP (PRP it)) (VP (VBD was) (ADJP (RB pretty) (JJ clear)) (SBAR (IN that) (S (NP (NNP Judge) (NNP Bork)) (ADVP (RB never)) (VP (VBD stood) (NP (NP (JJ much) (NN chance)) (PP (IN of) (S (VP (VBG being) (VP (VBN confirmed)))))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NNP Mr.) (NNP Bronner) (PRP himself)) (VP (VBZ says)))) (, ,) (NP (NP (DT the) (NN smell)) (PP (IN of) (`` `) (NP (`` `) (JJ raw) (NN meat) ('' ')) ('' '))) (VP (VBD was) (PP (IN in) (NP (DT the) (NN air)))) (. .)))
+
+(S1 (S (SBAR (ADVP (RB Perhaps)) (IN because) (S (NP (PRP they)) (VP (VBD won)))) (, ,) (NP (NP (NNP Mr.) (NNP Bork) (POS 's)) (NNS attackers)) (VP (VBP come) (PP (IN through) (NP (NP (JJR more)) (PP (RB vividly) (IN than) (NP (PRP$ his) (NNS defenders)))))) (. .)))
+
+(S1 (S (NP (NNP Ralph) (NNP Neas)) (VP (VBD was) (NP (DT the) (VBG organizing) (NN genius)) (, ,) (S (VP (VBG whipping) (NP (NP (DT a) (NN conglomerate)) (PP (IN of) (NP (NN pressure) (NNS groups)))) (PP (IN into) (NP (DT an) (JJ irresistible) (VBG attacking) (NN force)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Harvard) (POS 's)) (NNP Laurence) (NNP Tribe)) (VP (VBD was) (NP (DT the) (JJ constitutional) (NN heavy)) (, ,) (S (VP (VP (VBG laying) (PRT (RP out)) (NP (NP (JJ legal) (NNS strategies)) (PP (IN for) (NP (DT the) (NNS senators))))) (CC and) (VP (NNS witnesses) (S (VP (TO to) (VP (VB follow)))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (VBD was) (NP (NP (NNP Ted) (NNP Kennedy)) (SBAR (WHNP (WP who)) (S (VP (VBD scored) (ADVP (RBS most) (RB effectively)) (PP (IN with) (NP (NP (PRP$ his) (JJ searing) (NN portrayal)) (PP (IN of) (`` `) (NP (`` `) (NP (NP (NNP Robert) (NNP Bork) (POS 's)) (NNP America) (POS ')) ('' ') (: --) (NP (NP (DT the) (NN parade)) (PP (IN of) (NP (NP (JJ imaginary) (NNS horribles)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB follow) (ADVP (RB logically)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD claimed))) (, ,)) (PP (IN from) (NP (NP (DT the) (NNS positions)) (SBAR (S (NP (NNP Mr.) (NNP Bork)) (VP (VBD had) (VP (VBN taken) (PRT (RP over)) (NP (NP (DT the) (NN space)) (PP (IN of) (NP (CD two) (NNS decades)))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Sen.) (NNP Kennedy)) (, ,) (ADVP (RB never)) (VP (VB mind) (NP (PRP$ his) (JJ dubious) (NNS credentials)) (PP (IN for) (NP (NP (DT the) (JJ moral) (JJ high) (NN ground)) (, ,) (VP (VBN emoted) (ADVP (RB brilliantly)))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP add) (NP (CD two) (NNS others))) (. .)))
+
+(S1 (S (NP (NP (NNP Republican) (NNP Sen.) (NNP Arlen) (NNP Specter)) (PP (IN of) (NP (NNP Pennsylvania)))) (VP (VBD engaged) (NP (DT the) (NN nominee)) (PP (IN in) (NP (NP (DT a) (JJ verbal) (NN contest)) (VP (VBN aimed) (PP (IN at) (S (VP (VBG showing) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Bork)) (VP (VBD was) (ADJP (JJ willing) (S (VP (TO to) (VP (VB stretch) (NP (DT the) (NNP Constitution)))))) (PP (IN in) (NP (CD one) (NN area))) (PRN (-LRB- -LRB-) (NP (JJ free) (NN speech)) (-RRB- -RRB-)) (SBAR (IN while) (S (VP (VBG remaining) (ADJP (JJ rigid) (PP (IN in) (NP (PDT all) (DT the) (NNS others))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VP (VBD achieved) (NP (DT a) (JJ good) (NNS media) (NN play))) (, ,) (CC and) (VP (VBD enabled) (S (NP (NP (NNP Sen.) (NNP Specter)) (CC and) (NP (NNS others))) (VP (TO to) (VP (VB vote) (PP (IN against) (NP (NNP Mr.) (NNP Bork))) (PP (IN out) (PP (IN of) (`` `) (NP (`` `) (NN conscience))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (JJ Further) (NN ammunition)) (VP (VBD came) (PP (IN from) (NP (JJ left) (JJ legal) (NN theorist)) (NP (NP (NNP Ronald) (NNP Dworkin)) (, ,) (SBAR (WHNP (WP who)) (S (PP (IN in) (NP (NP (DT the) (NNP New) (NNP York) (NNP Review)) (PP (IN of) (NP (NNPS Books))))) (VP (VBD painted) (NP (NP (DT a) (NN picture)) (PP (IN of) (NP (DT a) (JJ constitutional) (NNP zombie) (NN willfully)))) (S (VP (VBG reading) (NP (PRP$ his) (JJ personal) (NNS prejudices)) (PP (IN into) (NP (DT the) (NNP Constitution))))) (, ,) (PP (ADVP (RB particularly)) (IN in) (NP (NP (DT the) (NN area)) (PP (IN of) (`` `) (NP (`` `) (JJ original) (NN intent))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT The) (NN charge)) (PP (IN of) (S (VP (VBG being) (`` `) (NP (`` `) (NP (IN outside) (DT the) (NN mainstream) (POS ')) ('' ') (PP (IN of) (NP (JJ legal) (NN thought)))))))) (ADVP (RB gravely)) (VP (VB undercut) (NP (NP (NNP Mr.) (NNP Bork) (POS 's)) (JJ scholarly) (NN standing)) (, ,) (S (VP (VBG leaving) (NP (PRP him)) (VP (VBG bleeding) (PP (IN on) (NP (DT the) (NN platform))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN nomination)) (ADVP (RB still)) (VP (MD might) (VP (VB have) (VP (VBN been) (VP (VBN salvaged) (SBAR (IN if) (S (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (JJ Democratic) (NNS moderates)) (PP (IN in) (NP (DT the) (NNP South) (CC and) (NNP Southwest)))))) (VP (VBD had) (NP (JJ broken) (NN party) (NNS lines))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Democratic) (NNP Sen.) (NNP Bennett) (NNP Johnson)) (PP (IN of) (NP (NNP Louisiana)))) (VP (VBD reminded) (NP (DT the) (JJ little) (NN band)) (SBAR (IN that) (S (NP (JJ anti-Bork) (NNS blacks) (CC and) (NNS women)) (VP (MD could) (VP (VB furnish) (S (NP (DT the) (NN margin)) (VP (TO to) (VP (VB punish) (NP (PRP them)) (PP (IN in) (NP (PRP$ their) (JJ next) (NNP Senate) (NNS elections))))))))))) (. .)))
+
+(S1 (S (NP (NNS Demographics)) (VP (VP (VBN converged) (PP (IN with) (`` `) (ADJP (`` `) (JJ mainstream) ('' ')) ('' '))) (CC and) (VP (VBG demonizing) (S (VP (TO to) (VP (VB seal) (NP (NP (NNP Robert) (NNP Bork) (POS 's)) (NN fate))))))) (. .)))
+
+(S1 (FRAG (NP (DT The) (NN upshot)) (. ?)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Bork) (POS 's)) (NNS opponents)) (VP (VP (VBD chose) (NP (DT the) (NN battlefield))) (, ,) (VP (VBD held) (NP (PRP it))) (CC and) (VP (VBD kept) (NP (PRP it)))) (. .)))
+
+(S1 (S (RB Yet) (SBAR (IN with) (S (NP (NP (DT the) (JJ smooth) (NN confirmation)) (PP (IN of) (NP (NP (NNP Anthony) (NNP Kennedy)) (, ,) (NP (DT an) (`` `) (NP (`` `) (CD 80) (NN percenter) ('' ')) ('' '))))) (ADJP (ADJP (ADVP (RB only) (RB slightly)) (RBR less) (JJ supportive)) (PP (IN of) (NP (JJ judicial) (NN restraint))) (PP (IN than) (NP (NNP Mr.) (NNP Bork)))))) (, ,) (NP (DT the) (NNPS Democrats)) (VP (MD may) (VP (VB have) (VP (VP (VBD won) (NP (DT the) (NN battle))) (CC but) (VP (VBD lost) (NP (DT the) (NN war)))))) (. .)))
+
+(S1 (S (NP (DT Another) (NN upshot)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD was) (NP (NP (DT the) (JJ chilling) (NN message)) (SBAR (S (NP (DT the) (NNP Bork) (NNS hearings)) (VP (VBD sent) (PP (IN into) (NP (NP (DT the) (JJ judicial) (NN culture)) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (DT the) (NNP Supreme) (NNP Court)) (VP (VBZ draws) (NP (PRP$ its) (NN talent)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN word)) (VP (VBD went) (ADVP (RB forth)) (PP (TO to) (NP (NP (DT every) (NN law) (NN school)) (SBAR (WHNP (IN that)) (S (NP (NP (DT those)) (PP (IN with) (NP (JJ federal) (NN court) (NNS ambitions)))) (VP (MD must) (VP (VB travel) (NP (DT a) (JJ safe) (JJ constitutional) (NN journey)))))))) (, ,) (PP (IN with) (NP (NP (DT no) (NN paper) (NN trail)) (CC and) (NP (NP (DT no) (NN bite)) (PP (TO to) (NP (PRP$ their) (NN tongue) (CC or) (NN pen))))))) (. .)))
+
+(S1 (S (ADVP (RB Unfortunately)) (, ,) (NP (DT the) (NN author)) (ADVP (RB simply)) (VP (VBZ does) (RB n't) (VP (VB supply) (NP (NP (DT the) (JJ philosophical) (NN frame)) (SBAR (S (VP (TO to) (VP (VB sustain) (NP (PRP$ his) (JJ reportorial) (NNS talents))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ has) (ADVP (RB too) (RB readily)) (VP (VBN swallowed) (NP (NP (DT the) (NN case)) (PP (IN for) (NP (DT the) (JJ activist) (NN law) (NN school) (NN culture)))))) (. .)))
+
+(S1 (S (S (VP (VBG Probing) (ADVP (RBR more) (RB deeply)) (PP (IN into) (NP (NP (DT the) (NN doctrine)) (PP (IN of) (`` `) (NP (`` `) (NP (JJ judicial) (NN restraint)) (, ,) ('' ')) ('' ')))))) (NP (PRP he)) (VP (MD would) (VP (VB have) (VP (VBN found) (NP (NP (DT a) (JJ long) (NN history)) (VP (VBG going) (ADVP (RB back)) (PP (TO to) (NP (NP (DT the) (JJ great) (NNS decisions)) (PP (IN of) (NP (NNP Justice) (NNP Holmes)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (MD would) (VP (VB discover) (NP (PRP it)) (ADVP (RB also)) (PP (IN in) (NP (NP (NP (NNP Alexander) (NNP Bickel)) (, ,) (NP (DT a) (JJ subtle) (JJ constitutional) (NN scholar))) (, ,) (NP (NP (NP (NNP Mr.) (NNP Bork) (POS 's)) (JJS closest) (NN friend)) (PP (IN at) (NP (NNP Yale)))) (, ,) (SBAR (WHNP (WHNP (WP$ whose) (NN influence)) (PP (IN on) (NP (DT the) (NN judge)))) (S (VP (VBZ goes) (PP (ADVP (RB well)) (IN beyond) (NP (NP (NNP Mr.) (NNP Bronner) (POS 's)) (NN reporting)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (NP (DT the) (JJ long) (NN view)) (PP (IN of) (NP (NP (NNP Robert) (NNP Bork)) (PP (IN as) (NP (JJ constitutional) (NN thinker)))))) (VP (MD must) (VP (VB be) (NP (DT a) (JJ spotty) (CD one)))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN strength)) (VP (VBZ lies) (PP (IN in) (NP (NP (PRP$ his) (JJ majoritarian) (NN doctrine)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ keeps) (S (NP (DT the) (NN Court)) (ADJP (JJ clear) (PP (IN of) (NP (JJ transient) (NN group) (NNS pressures)))))) (CC and) (VP (VBZ leaves) (NP (JJS most) (NNS decisions)) (PP (IN in) (NP (NP (DT a) (NN democracy)) (PP (TO to) (NP (VBN elected) (NNS legislatures) (CC and) (NNS executives)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Unfortunately)) (, ,) (NP (NNP Mr.) (NNP Bork)) (VP (VBD failed) (S (VP (TO to) (VP (VB distinguish) (PP (IN between) (NP (NP (JJ such) (NNS pressures)) (CC and) (NP (NP (DT the) (NN emergence)) (PP (IN of) (NP (NP (JJ great) (NNS issues)) (ADJP (JJ critical) (PP (TO to) (NP (NP (DT a) (NN society)) (SBAR (WHNP (WDT that)) (S (VP (MD must) (VP (VB be) (VP (VBN settled) (SBAR (RB judicially) (IN if) (S (NP (PRP it)) (VP (VBZ is) (S (VP (TO to) (VP (VB cohere)))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN question)) (PP (IN of) (NP (VBD segregated) (NNS schools)))) (, ,) (PP (IN in) (NP (NP (NNP Brown) (FW vs.) (NNP Board)) (PP (IN of) (NP (NNP Education))))) (, ,) (VP (VBD was) (NP (PDT such) (DT an) (NN issue))) (. .)))
+
+(S1 (S (PP (IN In) (NP (PRP$ our) (NN time))) (NP (NN abortion)) (VP (VBZ has) (VP (VBN become) (NP (NP (DT another)) (, ,) (VP (ADVP (RB best)) (VBN left) (PP (PP (TO to) (NP (NP (DT a) (NN line)) (PP (IN of) (NP (NNP Supreme) (NNP Court) (NNS decisions))))) (CONJP (RB rather) (IN than)) (PP (TO to) (NP (NP (DT the) (NN chaos)) (PP (IN of) (NP (CD 50) (NN state) (NNS legislatures)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (ADJP (JJ reflective) (CC and) (VBG growing)) (NN consensus)) (PP (IN of) (NP (NNPS Americans)))) (ADVP (RB clearly)) (VP (VBZ wishes) (S (VP (TO to) (VP (VB apply) (NP (NP (DT the) (NN right)) (PP (TO to) (NP (NP (NN privacy)) (PP (IN in) (NP (JJ contraceptive) (NNS matters))) (PRN (-LRB- -LRB-) (VP (VBN decided) (PP (IN in) (NP (DT the) (NNP Griswold) (NN case)))) (-RRB- -RRB-)))) (PP (TO to) (NP (NN abortion)))) (ADVP (RB as) (RB well)))))) (. .)))
+
+(S1 (S (NP (PRP One)) (VP (MD can) (VP (VB understand) (SBAR (S (NP (NP (NNP Mr.) (NNP Bork) (POS 's)) (NN fear) (SBAR (IN that) (S (NP (NP (DT the) (JJ new) (NN right)) (PP (TO to) (NP (NN privacy)))) (VP (MD will) (VP (VB become) (ADJP (RB intolerably) (JJ stretched)) (, ,) (SBAR (IN though) (S (NP (DT a) (NNP Supreme) (NNP Court)) (VP (VBN composed) (PP (IN of) (NP (NP (NNS men) (CC and) (NNS women)) (PP (IN with) (NP (NP (NN realism)) (, ,) (NP (NNS guts)) (CC and) (NP (NP (DT a) (NN sense)) (PP (IN of) (NP (NNS limits)))))))))))))))) (VP (MD should) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB manage) (NP (PRP it)))))))))))) (. .)))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ is) (ADJP (JJ certain))))) (VP (VBZ is) (SBAR (IN that) (S (SBAR (IN if) (S (NP (NNPS Americans)) (VP (VBP allow) (DT another) (VP (VBG happening) (PP (IN like) (NP (DT the) (VBG degrading) (NNP Bork) (NN confirmation) (NN circus))))))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB be) (PP (IN at) (NP (PRP$ their) (NN peril)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lerner)) (VP (VBZ is) (NP (NP (DT a) (NN writer)) (CC and) (NP (NP (NN historian)) (VP (VBG living) (PP (IN in) (NP (NNP New) (NNP York))))))) (. .)))
+

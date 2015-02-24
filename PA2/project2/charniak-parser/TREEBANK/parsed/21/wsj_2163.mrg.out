@@ -1,0 +1,58 @@
+(S1 (S (NP (NNP K) (NNP mart) (NNP Corp.)) (VP (VBD agreed) (S (VP (TO to) (VP (VB acquire) (NP (NNP Pace) (NNP Membership) (NNP Warehouse)) (NP (NNP Inc.)) (PP (IN for) (NP (NP (NP ($ $) (CD 23)) (NP (DT a) (NN share))) (, ,) (CC or) (NP (QP ($ $) (CD 322) (CD million))) (, ,))) (PP (IN in) (NP (NP (DT a) (NN move)) (SBAR (S (VP (TO to) (VP (VB expand) (NP (NP (PRP$ its) (NN presence)) (PP (IN in) (NP (DT the) (ADJP (RB rapidly) (VBG growing)) (NN warehouse-club) (NN business)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (VBN proposed) (NN merger)) (VP (VBZ comes) (SBAR (IN as) (S (S (NP (NP (NP (NNP K) (NNP mart)) (POS 's)) (NN profit)) (VP (VBZ is) (VP (VBG declining)))) (CC and) (S (NP (NP (NNS sales)) (PP (IN at) (NP (PRP$ its) (NN core) (NN discount) (NNS stores)))) (VP (VBP are) (VP (VBG rising) (ADVP (RBR more) (RB slowly)) (PP (IN than) (PP (IN at) (NP (NP (JJ such) (NNS competitors)) (PP (IN as) (NP (NNP Wal-Mart) (NNPS Stores) (NNP Inc)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP K) (NNP mart)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Troy)) (, ,) (NP (NNP Mich.))))) (, ,)) (ADVP (RB recently)) (VP (VBD said) (SBAR (S (NP (JJ net) (NN income)) (VP (MD would) (VP (VB fall) (PP (IN for) (NP (DT the) (JJ third) (JJ consecutive) (NN quarter))) (, ,) (PP (IN after) (NP (NP (DT a) (ADJP (CD 16) (NN %)) (NN drop)) (PP (IN in) (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (PRP$ its) (JJ current) (JJ fiscal) (NN year)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (NN membership) (NN warehouse-club) (NN concept)) (VP (VBZ has) (NP (JJ great) (NN potential))) (, ,) ('' ')) ('' ') (NP (NP (NP (DT the) (NN company) (POS 's)) (NN chairman)) (, ,) (NP (NNP Joseph) (NNP E.) (NNP Antonini)) (, ,)) (VP (VBD said) (PP (IN in) (NP (DT a) (NN statement)))) (. .)))
+
+(S1 (S (NP (NN Warehouse) (NNS clubs)) (ADVP (RB typically)) (VP (VBP carry) (NP (NP (JJ general) (NN merchandise)) (CC and) (NP (NP (NN food) (NNS products)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP they)) (VP (VBP sell) (PP (IN for) (ADJP (JJ close) (PP (TO to) (NP (NP (JJ wholesale) (NNS prices)) (PP (IN in) (NP (JJ no-frills) (NNS stores))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Shoppers)) (, ,) (SBAR (WHNP (DT many) (WHPP (IN of) (WHNP (WP whom)))) (S (VP (VBP operate) (NP (JJ small) (NNS businesses))))) (, ,)) (VP (VB pay) (NP (NP (JJ annual) (NN membership) (NNS fees)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP provide) (NP (NP (DT an) (NN income) (NN base)) (PP (IN for) (NP (DT the) (NNS stores))))))))) (. .)))
+
+(S1 (S (NP (NNP K) (NNP mart)) (VP (VBD tested) (NP (DT the) (NN warehouse-club) (NN sector)) (NP (JJ last) (NN year)) (PP (IN with) (NP (NP (PRP$ its) (NN acquisition)) (PP (IN of) (NP (NP (DT a) (ADJP (CD 51) (NN %)) (NN interest)) (PP (IN in) (NP (NNP Makro) (NNP Inc)))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (NNP Makro) (NN chain)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ operates) (PP (IN as) (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN between) (NP (NP (NNP K) (NNP mart)) (CC and) (NP (NP (NNP SHV) (NNP Holdings) (NNP N.V.)) (PP (IN of) (NP (DT the) (NNP Netherlands))))))))))) (, ,)) (VP (VBZ has) (NP (NP (QP (RB only) (CD six)) (NNS stores)) (CC and) (NP (JJ annual) (NNS sales))) (SBAR (IN that) (S (NP (CD one) (NN analyst)) (VP (VBD estimated) (PP (IN at) (NP (QP (RB about) ($ $) (CD 300) (CD million)))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Six-year-old) (NNP Pace)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Aurora)) (, ,) (NP (NNP Colo.))))) (, ,)) (VP (VBZ operates) (NP (CD 41) (JJ warehouse-club) (NNS stores))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD had) (NP (NP (NNS losses)) (PP (IN for) (NP (JJ several) (NNS years)))) (PP (IN before) (S (VP (VBG turning) (ADJP (JJ profitable)) (PP (IN in) (NP (JJ fiscal) (CD 1988))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT the) (NN year)) (VP (VBN ended) (NP (NNP Jan.) (CD 31))))) (, ,) (S (NP (NNP Pace)) (VP (VBG rang) (PRT (RP up)) (NP (NP (NN profit)) (PP (IN of) (NP (NP (QP ($ $) (CD 9.4) (CD million))) (, ,) (CC or) (NP (NP (CD 72) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN after) (NP (DT a) (JJ tax-loss) (NN carry-forward))) (, ,) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 1.3) (CD billion))))))))) (, ,) (CC and) (S (NP (NNS analysts)) (VP (VBP expect) (S (NP (PRP$ its) (NNS results)) (VP (TO to) (VP (VB continue) (S (VP (TO to) (VP (VB improve))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN company)) (VP (VBN turned) (NP (DT the) (NN corner)) (ADVP (ADVP (RB fairly) (RB recently)) (PP (IN in) (NP (NN profitability))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Margo) (NNP McGlade)) (PP (IN of) (NP (NNP PaineWebber) (NNP Inc.))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (VP (VBG forecasting) (NP (NP (DT a) (ADJP (CD 46) (NN %)) (NN jump)) (PP (IN in) (NP (NP (NP (NNP Pace) (POS 's)) (JJ net) (NN income)) (PP (IN from) (NP (NP (NP (NNS operations)) (NP (DT this) (NN year))) (CC and) (NP (DT another) (ADJP (CD 42) (NN %)) (NN increase)))) (NP (JJ next) (NN year))))))))))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (NNP Warehouse) (NN productivity)) (VP (VBZ is) (ADVP (RB really)) (VP (VBG beginning) (S (VP (TO to) (VP (VB take) (PRT (RP off))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (DT some) (NNS analysts)) (VP (VBP contend) (SBAR (S (NP (NNP K) (NNP mart)) (VP (VBZ has) (VP (VBN agreed) (S (VP (TO to) (VP (VB pay) (NP (RB too) (JJ much)) (PP (IN for) (NP (NNP Pace))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (RB Even) (IN if) (S (NP (PRP you)) (VP (VBP look) (PP (IN at) (NP (PRP it))) (PP (IN as) (NP (DT a) (NN turnaround) (NN situation)))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ expensive))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Wayne) (NN Hood)) (PP (IN of) (NP (NNP Prudential-Bache) (NNPS Securities) (NNP Inc)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN In) (NP (PRP$ my) (NN opinion))) (, ,) (NP (PRP you)) (VP (MD would) (ADVP (RB only)) (VP (VB pay) (NP (NP (DT that) (NN kind)) (PP (IN of) (NP (NN price)))) (SBAR (IN if) (S (NP (PRP you)) (VP (VBD were) (VP (VBG getting) (NP (NP (DT a) (JJ premier) (NN player)) (PP (IN in) (NP (DT the) (NN industry)))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (NNP Ms.) (NNP McGlade)) (PP (IN of) (NP (NNP PaineWebber)))) (VP (VBD raised) (NP (NP (DT a) (ADJP (RBR more) (JJ fundamental)) (NN question)) (PP (IN about) (NP (DT the) (NN deal))))) (. .)))
+
+(S1 (SBARQ (`` `) (`` `) (SBAR (IN If) (S (NP (NNP K) (NNP mart)) (VP (MD ca) (RB n't) (VP (VB get) (NP (PRP$ its) (NN act)) (ADVP (RB together)) (PP (IN in) (S (VP (VBG discounting)))))))) (, ,) (WHADVP (WRB why)) (SQ (VBZ is) (NP (PRP it)) (VP (VBG spending) (NP (NP (NN time)) (S (VP (VBG worrying) (PP (IN about) (NP (JJ other) (VBG growing) (NNS markets)))))))) (. ?) ('' ') ('' ')))
+
+(S1 (S (NP (PRP She)) (VP (VBD said) (, ,) (`` `) (S (`` `) (NP (PRP I)) (VP (MD would) (VP (VB say) (SBAR (S (NP (NNP K) (NNP mart)) (VP (VBZ 's) (NP (NP (NN number)) (SBAR (S (NP (CD one) (NN job)) (VP (VBZ is) (S (VP (TO to) (VP (VB address) (NP (NP (PRP$ its) (JJ market-share) (NN loss)) (-LRB- -LCB-) (PP (IN in) (NP (NN discount) (NNS stores))) (-RRB- -RCB-) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (JJ longer-term)) (VP (MD will) (VP (VB lead) (PP (TO to) (NP (JJ improved) (NN profit) (NNS margins)))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT that) (NN point))) (, ,) (NP (RB perhaps) (NN diversification)) (VP (MD would) (VP (VB be) (ADJP (JJ appropriate)))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (NNP K) (NNP mart)) (VP (VBZ 's) (SBAR (S (NP (NNP Mr.) (NNP Antonini)) (VP (VBZ is) (ADJP (JJ intent) (PP (IN on) (S (VP (VBG pushing) (NP (DT the) (NN company)) (PP (IN into) (NP (JJ new) (JJ retail) (NNS businesses))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN instance))) (, ,) (NP (NNP K) (NNP mart)) (VP (VBZ is) (VP (VBG opening) (NP (NP (JJ big) (NN food) (CC and) (JJ general) (NN merchandise) (NNS stores)) (, ,) (NP (VBN called) (NNS hypermarkets)) (, ,) (CC and) (NP (NP (JJ warehouse-type) (NNS stores)) (VP (VBG specializing) (PP (IN in) (NP (NP (NN office) (NNS products)) (CC and) (NP (NN sporting) (NNS goods))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ operates) (NP (NP (NNS Waldenbooks)) (, ,) (NP (NN Pay)) (CC Less) (NP (NNP Drug) (NNPS Stores) (CC and) (NNP Builders) (NNP Square) (NN home) (NN improvement) (NNS stores)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (JJ composite) (NN trading)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))) (, ,) (NP (NNP K) (NNP mart)) (VP (VBD closed) (NP (NN yesterday)) (PP (IN at) (NP (NP ($ $) (CD 36)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB up) (NP (CD 12.5) (NNS cents)))) (. .)))
+
+(S1 (S (NP (NN Pace)) (VP (VBD rose) (NP ($ $) (CD 2.625)) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP (NP ($ $) (CD 22.125)) (NP (DT a) (NN share)))) (PP (IN in) (NP (JJ national) (JJ over-the-counter) (NN trading))))))) (. .)))
+
+(S1 (S (NP (DT A) (NNP K) (NNP mart) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (DT the) (NN acquisition)) (VP (MD would) (VP (VB be) (VP (VBN financed) (PP (IN with) (NP (JJ short-term) (NNS borrowings))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NN agreement))))) (, ,) (NP (DT a) (NNP K) (NNP mart) (NN subsidiary)) (VP (MD will) (ADVP (RB soon)) (VP (VB make) (NP (NP (DT a) (NN tender) (NN offer)) (PP (IN for) (NP (NNP Pace) (NNS shares)))))) (. .)))
+
+(S1 (S (PP (IN Among) (NP (NP (DT the) (NNS conditions)) (PP (IN of) (NP (DT the) (NN offer))))) (VP (VBZ is) (SBAR (IN that) (S (NP (NNP Pace) (NNS shareholders)) (VP (VB tender) (NP (NP (DT a) (NN majority)) (PP (IN of) (NP (NP (NP (DT the) (NN company) (POS 's)) (NNS shares)) (ADJP (JJ outstanding))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS companies)) (VP (VBD said) (SBAR (S (NP (NNP Pace)) (VP (MD would) (RB ill) (VP (VB continue) (S (VP (TO to) (VP (VB operate) (PP (IN under) (NP (PRP$ its) (JJ present) (NN management))))))))))) (. .)))
+

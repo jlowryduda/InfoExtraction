@@ -1,0 +1,10 @@
+(S1 (S (S (NP (NP (DT The) (ADJP (NNP West) (NNP German)) (NN machinery) (CC and) (NN plant) (NN equipment) (NN industry) (POS 's)) (NNS orders)) (VP (VBD rose) (NP (DT an) (JJ inflation-adjusted) (CD 1) (NN %)) (PP (IN in) (NP (NNP September))) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))) (PP (IN despite) (NP (NP (DT a) (JJ sharp) (NN drop)) (PP (IN in) (NP (JJ foreign) (NNS orders))))))) (, ,) (NP (NP (DT the) (NNP German) (NNP Association)) (PP (IN of) (NP (NN Machinery) (NNS Makers)))) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN Before) (NP (NP (NN adjustment)) (PP (IN for) (NP (NN inflation))))) (PRN (, ,) (S (NP (DT the) (NN association)) (VP (VBD said))) (, ,)) (NP (NNS orders)) (VP (VBD were) (ADVP (RB up) (NP (DT a) (JJ nominal) (CD 5) (NN %)))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (JJ domestic) (NNS orders)) (VP (VP (VBD climbed) (NP (DT an) (JJ adjusted) (CD 8) (NN %))) (CC and) (VP (NP (DT a) (JJ nominal) (CD 11) (NN %)) (PP (IN in) (NP (NNP September))))))) (, ,) (NP (JJ foreign) (NNS orders)) (VP (VBD declined) (NP (CD 4) (NN %)) (PP (IN after) (NP (NP (NN inflation)) (CC and) (NP (CD 1) (NN %)))) (PP (IN on) (NP (DT a) (JJ nominal) (NN basis)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ third) (NN quarter))) (, ,) (NP (NNS orders)) (VP (VBD rose) (NP (DT a) (JJ real) (CD 5) (NN %)) (CC and) (NP (DT a) (JJ nominal) (CD 9) (NN %))) (. .)))
+
+(S1 (S (NP (JJ Domestic) (NNS orders)) (VP (VBD were) (ADVP (RB up) (NP (NP (DT a) (JJ real) (CD 11) (NN %)) (CC and) (NP (DT a) (NN nominal) (CD 14) (NN %)))) (, ,) (SBAR (IN while) (S (NP (JJ foreign) (NNS orders)) (VP (VBD rose) (NP (NP (DT a) (JJ real) (CD 1) (NN %)) (CC and) (NP (DT a) (NN nominal))) (NP (CD 5) (NN %)))))) (. .)))
+

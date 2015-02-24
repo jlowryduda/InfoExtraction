@@ -1,0 +1,10 @@
+(S1 (S (NP (NP (NNP SciMed) (NNP Life) (NNPS Systems) (NNP Inc.)) (, ,) (NP (NNP Minneapolis)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT a) (JJ federal) (NNS appeals) (NN court)) (VP (VBD vacated) (NP (DT an) (JJR earlier) (NN summary) (NN judgment)) (PP (IN in) (NP (PRP$ its) (NN favor))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJR lower) (NN court)) (PP (IN in) (NP (NNP St.) (NNP Paul)))) (VP (VBD had) (VP (VBN ruled) (PP (IN in) (NP (NNP September) (CD 1988))) (SBAR (IN that) (S (NP (NP (DT a) (NN heart) (NN catheter)) (SBAR (S (NP (NNP SciMed)) (VP (VBZ manufactures))))) (VP (VBZ does) (RB n't) (VP (VB infringe) (PRT (RP on)) (NP (NP (DT a) (NN patent)) (VP (VBN owned) (PP (IN by) (NP (NP (NNP Advanced) (NNP Cardiovascular) (NNP Systems)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Eli) (NNP Lilly) (CC &) (NNP Co)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP SciMed)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS appeals) (NN court)) (VP (VBD remanded) (NP (DT the) (NN case)) (ADVP (RB back) (PP (TO to) (NP (DT the) (NN district) (NN court)))) (PP (IN for) (NP (JJ further) (NNS proceedings))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ national) (JJ over-the-counter) (NN trading))) (NP (NNP Friday)) (, ,) (NP (NNP SciMed) (NNS shares)) (VP (VBD tumbled) (NP ($ $) (CD 2.75)) (PP (TO to) (NP ($ $) (CD 43)))) (. .)))
+
+(S1 (S (NP (NNP SciMed)) (VP (VBD said) (SBAR (S (NP (PRP it)) (`` `) (VP (`` `) (VBZ remains) (ADJP (JJ committed))) ('' '))) ('' ') (PP (DT both) (PP (TO to) (SBAR (NP (DT the) (`` `) (NP (`` `) (JJ vigorous) (NN defense) (POS ')) ('' ') (PP (IN of) (NP (PRP$ its) (NN position)))) (IN that) (S (NP (DT the) (NN catheter)) (VP (VBZ does) (RB n't) (VP (VB infringe) (NP (NP (DT the) (NNP Lilly) (NN unit) (POS 's)) (NN patent))))))) (, ,) (CC and) (PP (TO to) (NP (NP (DT the) (NN pursuit)) (PP (IN of) (NP (PRP$ its) (JJ own) (NNS counterclaims))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP allege) (S (NP (NNP Lilly)) (VP (VBN engaged) (PP (IN in) (NP (NP (JJ antitrust) (NNS violations)) (CC and) (NP (JJ other) (JJ wrongful) (NNS acts))))))))))))) (. .)))
+

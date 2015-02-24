@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Humana) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB receive) (NP (NP (QP (RB about) ($ $) (CD 27) (CD million))) (PP (IN in) (NP (JJ federal) (NX (NX (NN income-tax) (NNS refunds)) (CC and) (NX (NN interest)))))) (PP (IN from) (NP (NP (DT a) (NN court) (NN ruling)) (PP (IN on) (NP (DT a) (NN tax) (NN dispute)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN health-care) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (NP (DT the) (NN refund)) (VP (TO to) (VP (VB be) (VP (VBN included) (PP (IN in) (NP (NP (DT the) (JJ first) (NN quarter)) (VP (VBG ending) (NP (NNP Nov.) (CD 30))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN refund)) (VP (VBZ is) (NP (QP (RB about) ($ $) (CD 9) (CD million)))) (. .)))
+
+(S1 (S (NP (NP (VBN Accrued) (NN interest)) (PP (IN on) (NP (DT the) (NN refund)))) (VP (VBD was) (NP (QP (RB about) ($ $) (CD 18) (CD million))) (PP (IN as) (PP (IN of) (NP (NNP Oct.) (CD 25))))) (. .)))
+
+(S1 (S (NP (DT The) (NN refund)) (VP (VBZ stems) (PP (IN from) (NP (NP (DT a) (NN court) (NN ruling)) (SBAR (WHNP (WDT that)) (S (VP (VBD found) (SBAR (S (NP (NP (JJ certain) (NNS payments)) (PP (IN by) (NP (NP (NNP Humana) (NNS subsidiaries)) (PP (PP (TO to) (NP (PRP$ its) (NN insurance) (NN subsidiary))) (PP (IN during) (NP (JJ fiscal) (CD 1977))))))) (PP (IN through) (NP (CD 1979))) (VP (VBD were) (ADJP (JJ deductible) (PP (IN as) (NP (NP (NNS premiums)) (PP (IN for) (NP (NN liability) (NN insurance))))))))))))))) (. .)))
+

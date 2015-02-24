@@ -1,0 +1,184 @@
+(S1 (S (NP (PRP YOU)) (VP (VP (VBD WENT) (PP (TO to) (NP (NN college)))) (CC and) (VP (VBD thought) (SBAR (S (NP (PRP you)) (VP (VBD got) (NP (DT an) (NN education))))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (NP (PRP you)) (VP (VBP discover) (SBAR (IN that) (S (NP (PRP you)) (ADVP (RB never)) (VP (VBD learned) (NP (DT the) (ADJP (RBS most) (JJ important)) (NN lesson)) (: :) (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB send) (NP (PRP$ your) (NNS kids)) (PP (TO to) (NP (NN college))))))))))) (. .)))
+
+(S1 (S (ADVP (JJ True)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBD went) (PP (TO to) (NP (NN college)))))) (, ,) (NP (EX there)) (VP (VBD was) (RB n't) (S (NP (DT that) (JJ much)) (VP (TO to) (VP (VB learn))))) (. .)))
+
+(S1 (S (VP (VP (VB Stick) (NP (DT some) (NN money)) (PP (IN in) (NP (DT an) (JJ interest-bearing) (NN account)))) (CC and) (VP (VB watch) (S (NP (PRP it)) (VP (VB grow))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (NP (NN investment) (NNS salesmen)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB take) (NP (DT some) (NNS risks)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (NP (NP (DT the) (NN kind)) (PP (IN of) (NP (NP (NNS returns)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB buy) (NP (PRP$ your) (NN toddler)) (S (NP (DT a) (NN ticket)) (VP (TO to) (VP (NN Prestige) (NP (NNP U.)) (PP (IN in) (NP (CD 18) (NNS years))))))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (ADJP (JJ short))) (, ,) (VP (VP (VB throw) (PRT (RP away)) (NP (DT the) (NN passbook))) (CC and) (VP (VB go) (PP (IN for) (NP (DT the) (NN glory))))) (. .)))
+
+(S1 (S (NP (DT The) (NN reason)) (VP (VBZ is) (NP (NN cost))) (. .)))
+
+(S1 (S (NP (NP (NN Nothing)) (PP (IN in) (NP (NP (DT the) (NNS annals)) (PP (IN of) (NP (NN tuition)))))) (VP (VBD readied) (NP (NP (NNS parents)) (PP (IN for) (NP (DT the) (CD 1980s))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Tuitions)) (PP (IN at) (NP (JJ private) (NNS colleges)))) (VP (VBD rose) (NP (CD 154) (NN %)) (PP (IN in) (NP (NP (DT the) (CD 10) (NNS years)) (VP (VBN ended) (PP (IN in) (NP (NP (NNP June)) (PP (IN of) (NP (DT this) (NN year)))))))))) (: ;) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (RB twice) (DT the) (ADJP (CD 77) (NN %)) (NN increase)) (PP (IN in) (NP (NP (NN consumer) (NNS prices)) (PP (IN for) (NP (DT the) (JJ same) (NN period)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN year)) (PP (IN at) (NP (NNP Harvard)))) (ADVP (RB now)) (VP (VBZ goes) (PP (IN for) (NP ($ $) (CD 19,395)))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (CD 2007)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT this) (NN year) (POS 's)) (NNS newborns)) (VP (VBD hit) (NP (NN campus))))))) (, ,) (NP (DT a) (JJ four-year) (NNP Ivy) (NNP League) (NN sheepskin)) (VP (MD will) (VP (VP (VB cost) (NP ($ $) (CD 300,000))) (, ,) (VP (VB give)) (CC or) (VP (VB take) (NP (DT a) (JJ few) (NN pizzas-with-everything)) (PP (IN at) (NP (NN exam) (NN time)))))) (. .)))
+
+(S1 (S (NP (NNP Stanford) (, ,) (NNP MIT) (CC and) (JJ other) (NNS utmosts)) (VP (MD will) (VP (VB cost) (NP (DT no) (JJR less)))) (. .)))
+
+(S1 (SBARQ (RB So) (WHNP (WP what)) (SQ (VP (VBZ 's) (NP (DT a) (NN parent)) (S (VP (TO to) (VP (VB do)))))) (. ?)))
+
+(S1 (S (NP (DT Some) (NN investment) (NNS advisers)) (VP (VBP are) (VP (VBG suggesting) (, ,) (PP (IN in) (NP (NN effect))) (, ,) (NP (NP (DT a) (NN bet)) (PP (IN on) (NP (DT a) (JJ start-up) (NN investment) (NN pool))) (PRN (: --) (ADVP (RB maybe)) (ADVP (RB even))) (PP (IN on) (NP (NN margin)))))) (. .)))
+
+(S1 (S (NP (NNS Others)) (VP (VBP prefer) (NP (JJ deep-discount) (JJ zero-coupon) (NNS bonds))) (. .)))
+
+(S1 (FRAG (ADVP (RB Still)) (SBAR (S (NP (NNS others)) (VP (VBP say)))) (, ,) (WHADVP (WRB Why)) (RB not) (VP (VB take) (NP (NP (DT a) (NN chance)) (PP (IN on) (NP (DT a) (JJ high-octane) (NN growth) (NN fund))))) (. ?)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP You)) (VP (VBP 're) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB make) (NP (PRP it)) (PP (IN in) (NP (DT a) (ADJP (CD 5) (NN %)) (NN bank) (NN account)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP James) (NNP Riepe)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (JJ mutual) (NNS funds))) (PP (IN at) (NP (NNP T.) (NNP Rowe) (NNP Price))))) (. .)))
+
+(S1 (SINV (S (VP (TO To) (VP (VB get) (NP (DT the) (JJ necessary) (NN growth))))) (, ,) (VP (VBZ adds)) (NP (NP (NNP Murray) (NNP Ruffel)) (, ,) (NP (NP (DT a) (NN marketing) (NN official)) (PP (IN at) (NP (DT the) (JJ Financial) (NNS Programs) (NN mutual-fund) (NN group))))) (, ,) (`` `) (S (`` `) (NP (PRP you)) (VP (VBP need) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (DT the) (NN stock) (NN market)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (DT a) (JJ little) (NN volatility)) (ADVP (RB never)) (VP (VBD hurt)) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB never)) (VP (VBD hurt) (NP (NP (NN anyone)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (, ,) (SBAR (IN unless) (S (NP (DT the) (NN growth) (NNS funds)) (VP (VBP do) (RB n't) (VP (VB grow) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP need) (NP (PRP them)) (S (VP (TO to))))))))))))))) (. .)))
+
+(S1 (S (CC Or) (NP (DT the) (JJ zero-coupon) (NNS bonds)) (VP (VBP turn) (ADVP (RB out)) (S (RB not) (VP (TO to) (VP (VB have) (VP (VBN been) (VP (VBN discounted) (ADVP (RB deeply) (RB enough) (S (VP (TO to) (VP (VB pay) (NP (NP (PRP$ your) (NN kid) (POS 's)) (NN tuition)))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT the) (NN dilemma)) (PP (IN for) (NP (NP (NN today) (POS 's)) (NN parent))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (JJ many) (NNS experts)) (VP (VBP are) (VP (VBG advising) (NP (NN risk)))))) (, ,) (NP (DT no) (NN one)) (VP (VBZ has) (NP (DT a) (JJ good) (NN answer)) (PP (IN for) (NP (PRP you))) (SBAR (IN if) (S (NP (DT the) (NN risk)) (VP (VBZ does) (RB n't) (VP (VB pay) (PRT (RP off))))))) (. .)))
+
+(S1 (S (NP (NN Help)) (VP (MD may) (VP (VB be) (PP (IN on) (NP (DT the) (NN way))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ antitrust) (NN division)) (PP (IN of) (NP (DT the) (NNP Justice) (NNP Department)))) (VP (VBZ is) (VP (VBG investigating) (NP (NP (DT the) (RB oddly) (JJ similar) (NN tuition) (NNS charges)) (CC and) (NP (NP (NNS increases)) (PP (IN among) (NP (DT the) (JJ top) (NNS schools))))))) (. .)))
+
+(S1 (S (NP (NP (NN Fear)) (PP (IN of) (NP (DT the) (NN price) (NN police)))) (VP (MD could) (VP (VB help) (S (VP (VB cool) (NP (NNS things)) (PRT (RP off)) (PP (IN in) (NP (DT the) (CD 1990s))))))) (. .)))
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (EX there)) (VP (VBZ 's) (ADVP (RB always)) (NP (NNP State) (NNP U))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NP (NNS parents) (POS ')) (NN craving)) (PP (IN for) (NP (NP (DT a) (JJ top-rated) (NN education)) (PP (IN for) (NP (PRP$ their) (NNS children)))))) (VP (VBZ is) (VP (VBG growing) (PP (IN like) (NP (PRP$ their) (NN taste))) (PP (IN for) (NP (NP (JJ fancy) (NNS wheels)) (CC and) (NP (JJ vintage) (NN wine)))))) (. .)))
+
+(S1 (S (S (ADVP (RB Belatedly)) (ADJP (JJ aware) (PP (IN of) (NP (JJ public) (NN concern))))) (, ,) (NP (NP (NNS lawmakers)) (CC and) (NP (JJ financial) (NNS middlemen))) (VP (VBP are) (VP (VBG working) (ADVP (RB overtime)) (S (VP (TO to) (VP (VB create) (CC and) (VB sell) (NP (NP (NN college) (NNS savings)) (CC and) (NP (NN investment) (NNS schemes)))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ Their) (NN message)) (, ,) (ADJP (JJ explicit) (CC or) (JJ implicit)) (, ,)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT a) (JJ good) (NN college)) (VP (MD will) (VP (VB cost) (NP (RB so) (RB much)) (PP (IN by) (SBAR (WHADVP (WRB whenever)) (S (NP (PRP you)) (VP (VBP want) (S (NP (PRP it)) (SBAR (IN that) (S (NP (DT the) (ADJP (JJ tried) (CC and) (JJ true))) (VP (MD wo) (RB n't) (VP (VB do) (ADVP (RB anymore)))))))))))))))) (. .)))
+
+(S1 (S (VP (VB Forget) (PP (IN about) (NP (NP (NNP Treasury) (NNS bills)) (CC or) (NP (DT a) (NN money-market) (NN fund))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJS latest) (NN wave)) (PP (IN of) (NP (NN marketing)))) (VP (VBZ is) (ADJP (JJ instructive))) (. .)))
+
+(S1 (S (NP (NP (JJ Several) (NN outfits)) (PRN (: --) (PP (VBG including) (NP (NP (DT the) (JJ Financial) (NNS Programs)) (, ,) (NP (NNP Franklin)) (, ,) (CC and) (NP (NP (NNP T.) (NNP Rowe) (NNP Price)) (JJ mutual-fund) (NNS groups)) (CC and) (NP (DT the) (NNP Edward) (NNP D.) (NNP Jones) (NN brokerage) (NN house)))) (: --))) (VP (VBP are) (VP (VBG advertising) (NP (`` `) (NP (`` `) (NN college) (NN planner) ('' ')) ('' ') (NP (NP (NNS tables) (CC and) (NNS charts)) (SBAR (WHNP (WDT that)) (S (VP (VBP tell) (NP (PRP you)) (SBAR (WHADVP (WRB how) (RB much)) (S (NP (PRP you)) (VP (VBP need) (S (VP (TO to) (VP (VB put) (PRT (RP aside)) (ADVP (RB regularly))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS calculations)) (ADVP (RB generally)) (VP (VBP rely) (PP (IN on) (NP (NP (NP (DT an) (JJ after-tax) (NN rate)) (PP (IN of) (NP (NN return))) (PP (IN of) (NP (NP (CD 8) (NN %)) (ADVP (RB annually))))) (: --) (NP (NP (DT a) (NN rate)) (ADJP (RB historically) (JJ obtainable) (PP (IN by) (NP (NP (DT the) (NN individual)) (PP (IN in) (NP (NP (QP (RB only) (CD one)) (NN place)) (, ,) (NP (DT the) (NN stock) (NN market))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NNS mailers)))) (VP (VBP are) (ADJP (JJ free)))) (, ,) (CC but) (S (NP (JJ Denver-based) (JJ Financial) (NNS Programs)) (VP (VBZ sells) (, ,) (PP (IN for) (NP ($ $) (CD 15))) (, ,) (NP (NP (DT a) (NN version)) (VP (VBN customized) (PP (TO to) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (NP (DT the) (NN child)) (CC and) (NP (NP (DT the) (NN college)) (PP (IN of) (NP (NN choice)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS figures)) (VP (VBP are) (ADJP (JJ shocking))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB build) (NP (NP (DT a) (NN nest) (NN egg)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB pay) (PP (IN for) (NP (NNP Stanford))) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ current) (NN first-grader)) (VP (VBZ reaches) (NP (NN college) (NN age))))))))))))) (, ,) (NP (NNS parents)) (VP (MD would) (VP (VB need) (S (VP (TO to) (VP (VB set) (PRT (RP aside)) (NP (NP ($ $) (CD 773.94)) (NP (DT a) (NN month)))))) (: --) (PP (IN for) (NP (CD 12) (NNS years))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (MD can) (VP (VB cut) (NP (DT this)) (PP (TO to) (NP (NP ($ $) (CD 691.09)) (NP (DT a) (NN month)))) (SBAR (IN if) (S (NP (DT the) (NN investing)) (VP (VBZ keeps) (PP (IN up) (PP (IN through) (NP (NN college))))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP they)) (VP (MD can) (VP (ADVP (RBR further)) (VB reduce) (NP (DT the) (JJ monthly) (NN amount)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP start) (VP (VBG saving) (ADVP (RBR earlier)) (: --) (SBAR (WHADVP (WRB when)) (S (NP (NN mother) (CC and) (NN child)) (VP (VBD come) (NP (NN home)) (PP (IN from) (NP (DT the) (NN hospital)))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Plugging) (NP (DT a) (JJR cheaper) (NN college)) (PP (IN into) (NP (DT the) (NNS formulas))))) (ADVP (RB still)) (VP (VBZ does) (RB n't) (VP (VB generate) (NP (NP (DT an) (NN installment)) (SBAR (S (NP (JJS most) (NNS people)) (VP (MD can) (VP (VB live) (PP (IN with))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Using) (NP (NP (DT a) (JJ recent) (JJ average) (JJ private-school) (NN cost)) (PP (IN of) (NP (NP (RB about) ($ $) (CD 12,500)) (NP (DT a) (NN year))))))) (, ,) (NP (NP (NP (NNP T.) (NNP Rowe) (NNP Price)) (POS 's)) (NN planner)) (VP (VBZ prescribes) (NP ($ $) (CD 450)) (ADVP (RB monthly)) (SBAR (IN if) (S (NP (DT the) (NN plan)) (VP (VBZ begins) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN child)) (VP (VBZ is) (NP (CD six))))))))) (. .)))
+
+(S1 (S (SBAR (IN Since) (S (NP (DT the) (NN formula)) (VP (VBZ assumes) (NP (NP (DT an) (ADJP (CD 8) (NN %)) (JJ before-tax) (NN return)) (PP (IN in) (NP (DT a) (JJ mutual) (NN fund))))))) (, ,) (NP (EX there)) (VP (MD would) (ADVP (RB also)) (VP (VB be) (NP (NP ($ $) (CD 16,500)) (PP (IN in) (NP (NP (NNS taxes)) (SBAR (S (VP (TO to) (VP (VB pay) (PP (IN over) (NP (DT the) (CD 12) (NNS years)))))))))))) (. .)))
+
+(S1 (S (NP (RB Not) (NN everyone)) (VP (VBZ is) (ADJP (RB so) (JJ pessimistic))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNS People)) (VP (VBP are) (ADVP (RB basically)) (VP (VBG peddling) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN fear)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Arthur) (NNP Hauptman)) (, ,) (NP (NP (DT a) (NN consultant)) (PP (TO to) (NP (NP (DT the) (NNP American) (NNP Council)) (PP (IN on) (NP (NP (NNP Education)) (PP (IN in) (NP (NNP Washington))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ takes) (NP (NP (NN issue)) (PP (IN with) (NP (NNS projections) (SBAR (IN that) (S (VP (VB do) (RB n't) (VP (VB factor) (PRT (RP in)) (NP (NP (NP (NNS students) (POS ')) (JJ own) (NN contribution)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ reduces) (NP (NP (JJS most) (NNS parents) (POS ')) (NN burden)) (ADVP (RB substantially)))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (PRP he)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT no) (JJ bad) (NN thing)))) ('' ') (VP (POS ') (SBAR (IN if) (S (NP (PDT all) (DT the) (NN marketing)) (VP (VBZ prods) (NP (NNS people)) (PP (IN into) (S (VP (VBG putting) (PRT (RP aside)) (NP (DT a) (RB little) (RBR more))))))))))) (. .)))
+
+(S1 (S (`` `) (S (NP (`` `) (NP (DT The) (NN situation)) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB avoid)))))))) (VP (VBZ is) (VP (VBG having) (S (NP (NN somebody)) (VP (RB not) (VP (VB save) (NP (NN anything))) (CC and) (VP (VB hope) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB do) (NP (PRP it)))))) (PP (IN out) (PP (IN of) (NP (JJ current) (NN income)))))))))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ crazy)))) (. .) ('' ')) ('' ')))
+
+(S1 (NP (NP (PRP$ His) (NN advice)) (: :) (S (VP (VBP Do) (RB n't) (VP (VB panic)))) (. .)))
+
+(S1 (S (NP (NNS Parents)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ says))) (, ,)) (VP (MD should) (VP (VB aim) (PP (IN at) (NP (NP (WDT whatever) (JJ regular) (NN investment) (NN sum)) (SBAR (S (NP (PRP they)) (VP (MD can) (VP (VB afford))))))))) (. .)))
+
+(S1 (S (S (NP (PDT Half) (DT the) (NN amount) (SBAR (IN that) (S (NP (DT the) (NN investment) (NNS tables)) (VP (VBP suggest))))) (VP (MD might) (VP (VB be) (NP (DT a) (JJ good) (NN goal))))) (, ,) (NP (PRP he)) (VP (VBZ adds)) (. .)))
+
+(S1 (S (NP (DT That) (NN way)) (, ,) (NP (NNS parents)) (VP (MD will) (VP (VB reduce) (NP (NNS borrowings) (CC and) (NNS outlays)) (PP (IN from) (NP (NP (JJ current) (NN income)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN time)) (VP (VBZ comes) (S (VP (TO to) (VP (VB pay) (NP (NN tuition)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Hauptman)) (VP (VBZ reckons) (SBAR (IN that) (S (NP (DT the) (JJS best) (NN investment) (NN choice)) (VP (VBZ is) (NP (JJ mutual) (NNS funds)) (SBAR (IN because) (S (NP (PRP they)) (VP (VP (VBP are) (ADJP (VBN managed))) (CC and) (VP (PP (IN over) (NP (NN time))) (VBP have) (VP (ADVP (RB nearly)) (VBD kept) (PRT (RP up)) (PP (IN with) (NP (DT the) (JJ broad) (NN stock) (NNS averages)))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ favors) (ADVP (RB either)) (NP (NP (DT an) (JJ all-stock) (NN fund)) (CC or) (NP (NP (DT a) (JJ balanced) (NN fund)) (SBAR (WHNP (WDT that)) (S (VP (VBZ mixes) (NP (DT both) (NNS stocks) (CC and) (NNS bonds)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (PRP$ their) (NN anxiety))) (, ,) (ADVP (RB however)) (, ,) (NP (NNS parents) (CC and) (JJ other) (NN student) (NNS benefactors)) (VP (VBP are) (VP (VBG flocking) (PP (TO to) (NP (JJ new) (NNS schemes))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP have) (VP (VBN laid) (PRT (RP out)) (NP (NP (QP (RB about) ($ $) (CD 1) (CD billion))) (PP (IN for) (NP (NP (JJ so-called) (JJ baccalaureate) (JJ zero-coupon) (JJ municipal) (NNS bonds) (: --)) (VP (ADVP (RB so) (RB far)) (VBN offered) (PP (IN by) (NP (NP (NNP Connecticut)) (, ,) (NP (NNP Illinois)) (, ,) (NP (NNP Virginia)) (CC and) (NP (CD eight) (JJ other) (NNS states)))))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBP have) (VP (VBN bought) (NP (NP (QP (RB about) ($ $) (CD 500) (CD million))) (PP (IN in) (NP (JJ prepaid-tuition) (NNS plans))) (, ,) (VP (VBN offered) (PP (IN in) (NP (NP (NNP Michigan)) (, ,) (NP (NNP Florida)) (CC and) (NP (NNP Wyoming)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ prepaid) (NNS plans)) (VP (VBP take) (NP (NN payment) (NN today)) (PRN (: --) (PP (RB usually) (PP (IN at) (NP (JJ current) (NNS tuitions))) (CC or) (PP (IN at) (NP (DT a) (JJ slight) (NN discount)))) (: --)) (PP (IN for) (NP (DT a) (NN promise) (SBAR (IN that) (S (NP (NN tuition)) (VP (MD will) (VP (VB be) (VP (VBN covered) (NP (NN tomorrow)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ baccalaureate) (NNS bonds)) (: --) (NP (NP (JJ tax-free)) (, ,) (VP (VBN offered) (PP (IN in) (NP (NP (JJ small) (NNS denominations)) (CC and) (S (ADVP (RB usually)) (VP (VBG containing) (NP (NP (DT a) (NN provision)) (SBAR (IN that) (S (NP (PRP they)) (VP (MD wo) (RB n't) (VP (VB be) (VP (VBN called) (PP (IN before) (NP (NN maturity))))))))))))))) (: --)) (VP (VBP seem) (S (VP (TO to) (VP (VB be) (ADJP (JJ tailor-made) (PP (IN for) (NP (NN college) (NNS savers)))))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (JJ other) (NNS zeros))) (, ,) (NP (PRP they)) (VP (VBP pay) (NP (PDT all) (PRP$ their) (NN interest)) (PP (IN at) (NP (NN maturity))) (, ,) (S (VP (VBG meaning) (SBAR (IN that) (S (NP (NNS buyers)) (VP (MD can) (VP (VB time) (NP (NNS things)) (SBAR (IN so) (IN that) (S (NP (PRP$ their) (NNS bonds)) (VP (VB pay) (PRT (RP off)) (SBAR (WHADJP (RB just) (WRB when) (JJ Junior)) (S (VP (VBZ graduates) (PP (IN from) (NP (JJ high) (NN school)))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP$ Their) (NN compounding) (NN effect)) (VP (VBZ is) (ADVP (RB also)) (VP (VBG alluring))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP June))) (, ,) (NP (NNP Virginia)) (VP (VBD sold) (NP (NP (NNS bonds)) (PP (IN for) (NP ($ $) (CD 268.98))) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB pay) (NP (NP ($ $) (CD 1,000)) (PP (IN in) (NP (CD 2009)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Richard) (NNP Anderson)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (NP (DT the) (NNP Forum)) (PP (IN for) (NP (NNP College) (NN Financing) (NNS Alternatives))))) (, ,) (PP (IN at) (NP (NP (NNP Columbia) (NNP University)) (, ,) (NP (NP (DT a) (NN research) (NN group)) (VP (ADVP (RB partly)) (VBN financed) (PP (IN by) (NP (DT the) (JJ federal) (NN government)))))))) (, ,)) (VP (VBZ says) (SBAR (S (NP (NNS zeros)) (VP (VBP are) (ADJP (RB particularly) (JJ ill-suited)))))) (. .)))
+
+(S1 (S (NP (PRP$ Their) (NN price)) (VP (VBZ falls) (ADVP (ADVP (RBR further)) (PP (IN than) (NP (NP (DT that)) (PP (IN of) (NP (JJ other) (NNS bonds)))))) (SBAR (WHADVP (WRB when)) (S (NP (NN inflation) (CC and) (NN interest) (NNS rates)) (VP (VBP kick) (PRT (RP up)))))) (. .)))
+
+(S1 (S (S (NP (DT That)) (VP (MD wo) (RB n't) (VP (VB matter) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP are) (VP (VBN held) (PP (TO to) (NP (NN maturity)))))))))) (, ,) (CC but) (S (SBAR (IN if) (S (, ,) (PP (IN for) (NP (DT any) (NN reason))) (, ,) (NP (DT the) (NNS parents)) (VP (VBP need) (S (VP (TO to) (VP (VB sell) (NP (PRP them)) (PP (IN before) (NP (RB then))))))))) (, ,) (NP (EX there)) (VP (MD could) (VP (VB be) (NP (NP (DT a) (JJ severe) (NN loss)) (PP (IN of) (NP (NN principal))))))) (. .)))
+
+(S1 (SINV (VBD Had) (NP (NNS zeros)) (VP (VP (VBN been) (ADJP (JJ available)) (PP (IN in) (NP (CD 1972)))) (CC and) (VP (VBD had) (SBAR (S (NP (NNS parents)) (VP (VBD bought) (NP (NP (DT a) (NN face) (NN amount)) (ADJP (JJ equal) (PP (TO to) (NP (NP (CD four) (NNS years) (POS ')) (NN tuition))))) (PP (IN at) (NP (DT the) (NN time))) (, ,) (S (VP (VBG aiming) (SBAR (S (PP (IN for) (NP (NP (PRP$ their) (NNS children) (POS 's)) (CD 1988) (NN enrollment))) (, ,) (NP (PRP they)) (VP (MD would) (VP (VB have) (VP (VBN been) (VP (VBN left) (PP (IN with) (NP (ADJP (RB only) (JJ enough) (S (VP (TO to) (VP (VB pay) (PP (IN for) (NP (CD two) (NNS years))) (, ,) (NP (NNP Mr.) (NNP Anderson)))))) (NNS figures)))))))))))))))) (. .)))
+
+(S1 (S (NP (JJS Most) (JJ other) (NNS bonds)) (, ,) (ADVP (RB however)) (, ,) (VP (MD would) (ADVP (RB probably)) (RB not) (VP (VB have) (VP (VBN fared) (ADJP (RB much) (JJR better))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ prepaid) (NNS plans)) (VP (MD may) (VP (VB be) (NP (DT a) (JJ good) (NN bet)) (, ,) (PP (VBN provided) (SBAR (S (NP (NP (DT the) (NN guarantee)) (PP (IN of) (NP (JJ future) (NN tuition)))) (VP (VBZ is) (ADJP (JJ secure)))))))) (. .)))
+
+(S1 (S (S (NP (VBG Issuing) (NNS states)) (ADVP (RB generally)) (VP (VB limit) (NP (DT the) (NNS guarantees)) (PP (TO to) (NP (JJ in-state) (NNS institutions))))) (, ,) (ADVP (RB however)) (, ,) (CC and) (S (NP (NNS buyers)) (VP (VB get) (NP (NNS refunds)) (PP (IN without) (NP (JJ much) (NN interest))) (SBAR (IN if) (S (NP (DT the) (NNS children)) (VP (VBP do) (RB n't) (VP (VB attend) (NP (DT the) (VBN specified) (NNS schools)))))))) (. .)))
+
+(S1 (S (NP (CD Two) (JJ private) (NNS groups)) (VP (VBP are) (VP (VBG seeking) (NP (NP (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission) (NN approval)) (PP (IN for) (NP (NP (NNS plans)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB be) (ADJP (ADVP (RBR more) (RB broadly)) (JJ transferable))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Anderson)) (VP (VBZ wants) (S (NP (DT the) (NN prestige) (NNS colleges)) (VP (TO to) (VP (NN sponsor) (NP (PDT such) (DT a) (NN plan)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN issue)) (ADVP (RB here)) (VP (MD may) (VP (VB be) (NP (NP (DT the) (NN soundness)) (PP (IN of) (NP (DT the) (NN guarantee)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Prepayments)) (, ,) (PP (JJ much) (IN like) (NP (JJ mutual-fund) (NNS purchases))) (, ,)) (VP (VBP are) (VP (VBN pooled) (PP (IN for) (NP (NN investment))))) (. .)))
+
+(S1 (S (NP (NNS Sponsors)) (VP (VBP are) (ADVP (RB naturally)) (VP (VBG counting) (PP (IN on) (NP (PRP$ their) (NN ability) (S (VP (TO to) (VP (VB keep) (ADVP (RB ahead) (PP (IN of) (NP (NN tuition) (NN inflation)))) (PP (IN with) (NP (NN investment) (NNS returns)))))))))) (. .)))
+
+(S1 (S (CC But) (S (NP (NNS buyers)) (VP (VBP are) (ADVP (RB essentially)) (VP (VBG betting) (PP (IN on) (NP (NP (DT a) (JJ start-up) (NN investment) (NN fund)) (PP (IN with) (NP (DT no) (NN track) (NN record)))))))) (: --) (CC and) (S (NP (DT some)) (VP (VBP have) (VP (VBN been) (VP (VBN encouraged) (S (VP (TO to) (VP (VB borrow) (S (VP (TO to) (VP (VB do) (ADVP (RB so)))))))))))) (. .)))
+
+(S1 (S (NP (CD One) (NN problem)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NNP Internal) (NNP Revenue) (NNP Service)) (VP (VBZ has) (VP (VBN decided) (SBAR (IN that) (S (NP (NP (DT the) (NN investment) (NNS earnings) (CC and) (NNS gains)) (PP (IN of) (NP (NP (DT the) (NNS sponsors) (POS ')) (NNS funds)))) (VP (VBP are) (ADJP (JJ taxable)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS colleges)) (, ,) (PP (IN as) (NP (JJ educational) (NNS institutions))) (, ,)) (VP (VBD had) (VP (VBN hoped) (SBAR (S (NP (DT that)) (VP (MD would) (RB n't) (VP (VB be) (NP (DT the) (NN case)))))))) (. .)))
+
+(S1 (S (PP (VBN Based) (PP (IN on) (NP (NP (JJ historical) (NNS rates)) (PP (IN of) (NP (NN return)))))) (, ,) (NP (NNP Mr.) (NNP Anderson)) (VP (VBZ reckons) (SBAR (S (NP (NP (DT a) (ADJP (CD 100) (NN %)) (NN stock) (NN portfolio)) (, ,) (ADJP (JJ indexed) (PP (TO to) (NP (DT the) (NN market)))) (, ,)) (VP (MD would) (VP (VB have) (VP (VBD kept) (PRT (RP up)) (PP (IN with) (NP (NN tuition) (CC and) (NNS taxes))) (PP (IN in) (NP (DT the) (JJ 20th) (NN century))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS sponsors)) (VP (MD might) (RB not) (VP (VB pick) (NP (NP (DT the) (NNS stocks)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB match) (NP (DT the) (NN market))))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBP 're) (VP (VBG leaning) (NP (NP (JJR more)) (PP (IN toward) (NP (NP (JJ fixed) (NN income)) (, ,) (SBAR (WHNP (WHNP (WP$ whose) (NNS returns)) (PP (IN after) (NP (NN tax)))) (S (VP (VBP have) (VP (VBD trailed) (NP (NN tuition) (NNS increases))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (RB not) (ADJP (JJ sure) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB make) (S (NP (PRP it)) (VP (VB work)))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NNP Mr.) (NNP Anderson)) (. .)))
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (VP (VBZ happens) (SBAR (IN if) (S (NP (DT the) (NNS sponsors)) (VP (VBP do) (RB n't) (VP (VB have) (NP (NP (DT the) (NN cash)) (SBAR (S (VP (TO to) (VP (VB pay) (NP (DT the) (NNS tuitions))))))))))))) (. ?)))
+
+(S1 (S (NP (NP (NNP Florida)) (CC and) (NP (NNP Wyoming))) (VP (VBP have) (VP (VBN backed) (PRT (RP up)) (NP (PRP$ their) (NNS guarantees)) (PP (IN with) (NP (NP (DT the) (JJ full) (NN faith) (CC and) (NN credit)) (PP (IN of) (NP (DT the) (NN state) (NNS governments))))) (, ,) (S (VP (VBG meaning) (SBAR (IN that) (S (NP (NNS taxpayers)) (VP (MD will) (VP (VB pick) (PRT (RP up)) (NP (DT any) (NN slack)))))))))) (. .)))
+
+(S1 (FRAG (ADVP (RB Not) (RB so)) (NP (NNP Michigan)) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NN plan)) (VP (VBZ is) (VP (VBN set) (PRT (RP up)) (PP (IN as) (NP (DT an) (JJ independent) (NN agency))))) (. .)))
+
+(S1 (S (NP (DT The) (NN state)) (VP (VBZ says) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT no) (NN worry)) (: --) (S (NP (NP (NN investment) (NNS returns)) (, ,) (VP (VBN combined) (PP (IN with) (NP (NP (NNS fees)) (CC and) (NP (NP (DT the) (NNS gains)) (PP (IN from) (NP (JJ unused) (NNS plans))))))) (, ,)) (VP (MD will) (VP (VB provide) (NP (NP (PDT all) (DT the) (NN cash)) (SBAR (S (NP (PRP it)) (VP (VBZ needs))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Putka)) (VP (VBZ covers) (NP (NN education)) (PP (IN from) (NP (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal) (POS 's)) (NNP Boston) (NN bureau)))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP start) (S (VP (VBG saving) (PP (IN for) (NP (NP (PRP$ your) (NN child) (POS 's)) (NN eduction))) (PP (IN on) (NP (NNP Jan.) (CD 1) (, ,) (CD 1990)))))))) (, ,) (NP (RB here)) (VP (VBZ 's) (NP (NP (DT the) (JJ monthly) (NN sum)) (SBAR (S (NP (PRP you)) (VP (MD will) (VP (VB need) (S (VP (TO to) (VP (VB invest) (S (VP (TO to) (VP (VB pay) (PP (IN for) (NP (NP (CD four) (NNS years)) (PP (IN at) (NP (NP (NNP Yale) (, ,) (NNP Notre) (NNP Dame) (CC and) (NNP University)) (PP (IN of) (NP (NNP Minnesota))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Figures)) (VP (VBP assume) (NP (NP (NP (DT a) (ADJP (CD 7) (NN %)) (JJ annual) (NN rise)) (PP (IN in) (NP (NN tuition) (, ,) (NNS fees) (, ,) (NN room) (CC and) (NN board)))) (CC and) (NP (DT an) (ADJP (CD 8) (NN %)) (JJ annual) (NN investment) (NN return)))) (. .)))
+
+(S1 (FRAG (NP (NN Note)) (: :) (S (NP (DT These) (NNS figures)) (VP (VP (VBP are) (ADVP (RB only)) (PP (IN for) (NP (JJ mandatory) (NNS charges)))) (CC and) (VP (VBP do) (RB n't) (VP (VB include) (NP (NP (NNS books)) (, ,) (ADJP (NN transportation) (FW etc))))))) (. .)))
+
+(S1 (NP (NP (NNP \) (NNP *)) (PP (IN For) (NP (JJ in-state) (NNS students)))))
+
+(S1 (NP (NP (NN Source)) (: :) (NP (NNP PaineWebber) (NNP Inc)) (. .)))
+

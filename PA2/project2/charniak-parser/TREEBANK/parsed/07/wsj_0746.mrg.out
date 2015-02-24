@@ -1,0 +1,18 @@
+(S1 (S (NP (JJ Swedish) (NN rolling-steel) (CC and) (NN ball-bearing) (NN group) (NNP AB) (NNP SKF)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ pretax) (NN profit)) (VP (VBD rose) (NP (CD 78) (NN %)) (PP (TO to) (NP (NP (QP (CD 1.78) (CD billion)) (NNS kronor)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 278) (CD million))) (-RRB- -RRB-)))) (PP (IN in) (NP (DT the) (JJ first) (CD nine) (NNS months))) (PP (IN from) (NP (NP (QP (CD one) (CD billion)) (NNS kronor)) (-LRB- -LRB-) (NP (QP ($ $) (CD 156) (CD million))) (-RRB- -RRB-)) (PP (IN in) (NP (NP (DT the) (JJ corresponding) (NN period)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))))) (. .)))
+
+(S1 (S (NP (NNP SKF)) (VP (VBD said) (SBAR (S (NP (NNS sales)) (VP (VBD increased) (NP (CD 17) (NN %)) (PP (TO to) (NP (QP (CD 18.46) (CD billion)) (NNS kronor))) (PP (IN from) (NP (CD 15.72) (CD billion))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Earnings)) (PP (IN per) (NP (NN share)))) (VP (VBD were) (NP (CD 10.35) (NNS kronor)) (PP (VBN compared) (PP (IN with) (NP (CD 5.80) (NNS kronor))))) (. .)))
+
+(S1 (S (NP (NNP SKF)) (VP (VBD said) (SBAR (S (NP (NP (NN demand)) (PP (IN for) (NP (NP (NP (DT the) (NN group) (POS 's)) (JJ main) (NN product)) (, ,) (VP (VBG rolling) (NP (NNS bearings))) (, ,)))) (VP (VBD remained) (ADJP (JJ favorable)) (PP (IN in) (NP (NP (NNP Europe)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ accounts) (PP (IN for) (NP (NP (QP (RB slightly) (JJR more) (IN than) (NNS two-thirds))) (PP (IN of) (NP (NN group) (NNS sales)))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Latin) (NNP American) (NNS markets)) (VP (VBD continued) (NP (PRP$ their) (NN recovery)) (PP (IN after) (NP (DT a) (JJ weak) (NN start))) (PP (TO to) (NP (DT the) (NN year))))) (, ,) (NP (NNP SKF)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN situation)) (PP (IN in) (NP (DT the) (NNP U.S.)))) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ uncertain) (SBAR (IN as) (S (NP (NP (JJ reduced) (NN production)) (PP (IN in) (NP (NP (DT the) (NN country) (POS 's)) (JJ automotive) (NN industry)))) (VP (VBZ has) (VP (VBN resulted) (PP (IN in) (NP (NP (VBN weakened) (NN demand)) (PP (IN for) (NP (NN rolling) (NNS bearings)))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBD said) (SBAR (S (NP (NP (NP (NNP SKF) (POS 's)) (NNS results)) (PP (IN for) (NP (DT the) (JJ first) (CD nine) (NNS months)))) (VP (VBD lived) (ADVP (RB up) (PP (TO to) (NP (NN market) (NNS expectations)))) (SBAR (IN as) (S (NP (NN brokerage) (NNS firms)) (VP (VBD had) (VP (VBN predicted) (NP (NP (DT a) (JJ pretax) (NN profit)) (PP (IN of) (NP (QP (CD 1.74) (CD billion))))) (PP (TO to) (NP (QP (CD 1.86) (CD billion)) (NNS kronor))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (CD three) (NN business) (NNS areas)) (VP (VBN engaged) (PP (IN in) (NP (VBG rolling) (VBG bearing) (NNS operations))))) (VP (VBD continued) (S (VP (TO to) (VP (VB show) (NP (JJ favorable) (JJ sales) (NN development)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Sales)) (PP (IN of) (NP (NN rolling) (NNS bearings)))) (VP (VBD increased) (NP (CD 19) (NN %)) (PP (TO to) (NP (QP (CD 15.7) (CD billion)) (NNS kronor))) (PP (IN from) (NP (QP (CD 13.2) (CD billion)) (NNS kronor)) (PP (IN in) (NP (NP (DT the) (JJ corresponding) (NN period)) (NP (DT the) (JJ previous) (NN year)))))) (. .)))
+

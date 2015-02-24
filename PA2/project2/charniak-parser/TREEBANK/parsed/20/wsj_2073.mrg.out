@@ -1,0 +1,18 @@
+(S1 (S (NP (NP (NNP Procter) (CC &) (NNP Gamble) (NNP Co.)) (, ,) (NP (NNP Cincinnati))) (, ,) (S (VP (VBG expanding) (NP (NP (PRP$ its) (NN presence)) (PP (IN in) (NP (DT the) (NN food) (NN service) (NN market)))))) (, ,) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD acquired) (NP (NP (NNP Maryland) (NNP Club) (NNP Foods)) (, ,) (NP (DT a) (NN coffee) (NN supplier)) (, ,)) (PP (IN from) (NP (NP (DT an) (NN investor) (NN group)) (VP (VBN led) (PP (IN by) (NP (NP (NNP F.) (NNP Philip)) (ADVP (JJ Handy) (PP (IN of) (NP (NP (NNP Winter) (NNP Park)) (, ,) (NP (NNP Fla)))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (NP (NP (JJ Houston-based) (NNP Maryland) (NNP Club) (NNP Foods)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 200) (CD million))))) (NP (JJ last) (NN year))))) (, ,)) (VP (VBZ sells) (NP (NP (NN coffee)) (PP (IN under) (NP (NP (DT the) (NNP Maryland) (NNP Club)) (CC and) (NP (JJ Butter-Nut) (NNS brands))))) (PP (TO to) (NP (NNS restaurants) (, ,) (NNS hotels) (, ,) (NNS offices) (CC and) (NNS airlines)))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN acquisition)) (`` `) (VP (`` `) (VP (VBZ gives) (NP (PRP us)) (NP (NP (NP (JJ additional) (NN production) (NN capacity)) (PP (IN for) (NP (DT the) (NN food) (NN service) (NN coffee) (NN business)))) (CC and) (NP (DT a) (JJR stronger) (NN distribution) (NN network)))))) (, ,) ('' ') ('' ') (NP (DT a) (NNP P&G) (NN spokesman)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP P&G)) (ADVP (RB already)) (VP (VBZ sells) (NP (PRP$ its) (NNP Folgers) (NN ground) (NN roast) (NN coffee)) (PP (PP (TO to) (NP (NN food) (NN service) (NNS concerns))) (, ,) (CONJP (CC but) (RB not)) (PP (TO to) (NP (NP (ADJP (RB as) (JJ many)) (NNS markets)) (PP (IN as) (NP (NNP Maryland) (NNP Club))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (NNP P&G)) (PP (IN up) (PP (IN until) (NP (RB now)))) (VP (VP (VBZ has) (RB n't) (VP (VBN sold) (NP (NP (NN coffee)) (PP (TO to) (NP (NNS airlines)))))) (CC and) (VP (VBZ does) (NP (RB only) (JJ limited) (NN business)) (PP (IN with) (NP (NP (NNS hotels)) (CC and) (NP (JJ large) (NN restaurant) (NNS chains)))))) (. .)))
+
+(S1 (S (NP (NNP Maryland) (NNP Club)) (ADVP (RB also)) (VP (VBZ distributes) (NP (NP (NN tea)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ fits) (PP (ADVP (RB well)) (IN with) (NP (NP (NP (NNP P&G) (POS 's)) (NN Tender) (NN Leaf) (NN brand)) (, ,) (CC and) (NP (JJ hot) (NN cocoa) (NNS products))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (DT the) (NN acquisition)) (VP (VBZ has) (VP (VBN been) (VP (VBN completed) (CC and) (VBN reviewed) (PP (IN by) (NP (DT the) (NNP Federal) (NNP Trade) (NNP Commission))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN purchase)) (VP (VBZ includes) (NP (NP (NP (DT a) (JJ coffee-roasting) (NN plant)) (PP (IN in) (NP (NP (NNP Omaha)) (, ,) (NP (NNP Neb.)) (, ,)))) (CC and) (NP (NP (DT a) (VBN leased) (NN facility)) (PP (IN in) (NP (NNP Houston)))))) (. .)))
+

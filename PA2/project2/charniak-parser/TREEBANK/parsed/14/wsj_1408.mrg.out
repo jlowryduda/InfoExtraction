@@ -1,0 +1,4 @@
+(S1 (S (NP (DT The) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)) (VP (VBD said) (SBAR (S (NP (DT a) (NN seat)) (VP (VBD was) (VP (VBN sold) (PP (IN for) (NP (NP ($ $) (CD 500,000)) (, ,) (ADJP (JJ unchanged) (PP (IN from) (NP (NP (DT the) (NN sale)) (NP (NNP Thursday)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Seats)) (VP (VBP are) (VP (VBN quoted) (PP (IN at) (NP (NP (NP ($ $) (CD 430,000)) (VP (NN bid))) (CC and) (NP (NP ($ $) (CD 525,000)) (VP (VBN asked))))))) (. .)))
+

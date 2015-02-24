@@ -1,0 +1,26 @@
+(S1 (S (NP (DT The) (NN Mouth)) (VP (VBZ is) (ADVP (RB back))) (. .)))
+
+(S1 (S (NP (NP (NNP Morton) (NNP Downey) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD self-destructed) (PP (RB as) (NP (DT a) (NN talk-show) (NN host)))) (CC and) (ADVP (RB frequently)) (VP (ADVP (RB verbally)) (VBN abused) (NP (PRP$ his) (NNS guests)))))) (, ,)) (VP (VBZ has) (VP (VBN been) (VP (VBN signed) (S (VP (TO to) (VP (VB co-host) (NP (NP (DT a) (JJ half-hour) (JJ nightly) (NN program)) (PP (IN on) (NP (NP (DT the) (NNP Consumer) (NNP News) (CC and) (NNP Business) (NNP Channel)) (, ,) (NP (NP (DT the) (NN cable) (NN channel)) (VP (ADVP (RB partly)) (VBN owned) (PP (IN by) (NP (NP (DT the) (NNP General) (NNP Electric) (NNP Co.) (POS 's)) (NNP National) (NNP Broadcasting) (NNP Co)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN premiere)) (PP (IN of) (NP (`` `) (NP (`` `) (NP (NN Showdown)) (, ,) ('' ')) ('' ') (PP (IN with) (NP (NP (NNP Mr.) (NNP Downey)) (CC and) (NP (NP (NNP Richard) (NNP G.) (NNP Carter)) (, ,) (NP (NP (DT a) (NN columnist)) (PP (IN with) (NP (DT the) (NNP New) (NNP York) (NNP Daily) (NNP News)))) (, ,))))))) (VP (VBZ is) (VP (VBN scheduled) (PP (IN for) (NP (NNP Dec.) (CD 4))) (PP (IN at) (NP (CD 8) (NN p.m))))) (. .)))
+
+(S1 (S (NP (NNP CNBC)) (VP (VBZ is) (ADJP (JJ available) (PP (TO to) (NP (QP (CD 13) (CD million)) (NN cable) (NNS households))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Downey)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ is) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB change) (NP (NP (PRP$ his) (NN style)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (DT some) (NNS critics)) (VP (VBD said) (SBAR (S (VP (VBD was) (NP (NP (JJ flamboyant)) (CC and) (NP (NP (NNS others)) (VP (VBN deemed) (ADJP (JJ offensive)))))))))))))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB proceed) (PP (IN in) (NP (DT a) (ADJP (RBR more) (JJ logical)) (NN way)))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (NP (NN anything)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (ADJP (JJ acceptable)) (PP (IN in) (NP (NP (NN anyone) (POS 's)) (NN home)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT that)) (VP (VBZ does) (RB n't) (VP (VB mean) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB get) (ADJP (JJ angry))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Michael) (NNP Eskridge)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP CNBC)))) (, ,)) (VP (VBD said) (SBAR (IN that) (S (SBAR (IN although) (S (NP (EX there)) (VP (MD will) (VP (VB be) (NP (DT a) (NN studio) (NN audience)))))) (, ,) (NP (NNS viewers)) (VP (MD will) (ADVP (RB no) (RB longer)) (VP (VB have) (S (VP (TO to) (VP (VB endure) (NP (NP (DT the) (VBG shouting)) (PP (IN of) (`` `) (NP (`` `) (NP (NP (NNP Mort) (. !)) (NP (NNP Mort) (. !) (NNP Mort))) (. !) ('' ')) ('' ')))))))))))))
+
+(S1 (SBARQ (CC But) (WHADVP (RB just) (WRB how)) (SQ (VBZ does) (NP (NP (NNP Mr.) (NNP Downey) (POS 's)) (NN unorthodox) (NN style)) (ADJP (NN mesh) (PP (IN with) (NP (NP (DT the) (JJ sedate) (NN tone)) (PP (IN of) (NP (NP (NNP CNBC) (POS 's)) (NN business) (NN programming))))))) (. ?)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (CD Ninety) (NN percent)) (PP (IN of) (NP (NP (NNP Mort) (POS 's)) (JJ old) (NN show)))) (VP (VBZ fits) (PP (IN into) (NP (PRP$ our) (NN style))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NNP Mr.) (NNP Eskridge)) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (DT That)) (VP (VBZ is) (NP (NN consumer) (NNS issues)))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (NP (NNP Mr.) (NNP Downey) (POS 's)) (JJ previous) (NN show)) (, ,) (NP (DT a) (JJ one-hour) (VB shout) (NN fest)) (, ,) (VP (VP (VBN syndciated) (PP (IN by) (NP (NNP MCA) (NNP Inc.)))) (CC and) (VP (VBN produced) (PP (IN by) (NP (NNP Quantum) (NNP Media) (NNP Inc.))))) (, ,)) (VP (VBD was) (VP (VBN canceled) (PP (IN in) (NP (NNP July))) (SBAR (IN after) (S (NP (NNS advertisers) (CC and) (NNS stations)) (VP (VBD abandoned) (NP (PRP it))))))) (. .)))
+

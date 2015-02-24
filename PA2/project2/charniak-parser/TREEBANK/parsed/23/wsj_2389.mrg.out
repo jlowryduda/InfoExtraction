@@ -1,0 +1,8 @@
+(S1 (S (S (NP (NP (JJ Sharp) (NNS increases)) (PP (IN in) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (JJ fresh) (NN produce)))))) (VP (VBD caused) (S (NP (NP (NNP Spain) (POS 's)) (NNP September) (NN consumer) (NN price) (NN index)) (VP (TO to) (VP (VB shoot) (PRT (RP up)) (NP (CD 1.1) (NN %)) (PP (IN from) (NP (DT the) (JJ previous) (NN month)))))) (, ,) (S (VP (VBG pushing) (NP (NP (DT the) (JJ annual) (NN rate)) (PP (IN of) (NP (NN inflation)))) (PP (TO to) (NP (CD 6.8) (NN %))))))) (, ,) (NP (NP (DT the) (NNP National) (NNP Institute)) (PP (IN of) (NP (NNP Statistics)))) (VP (VBD said) (NP (NNP Friday))) (. .)))
+
+(S1 (S (NP (DT The) (JJ monthly) (NN increase)) (VP (VBZ is) (NP (NP (DT the) (JJS highest)) (VP (VBN recorded) (PP (IN in) (NP (DT the) (JJ past) (CD four) (NNS years)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN index)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD registered) (NP (CD 156.8)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NNP September)))))))) (, ,)) (VP (VP (VBZ has) (NP (NP (DT a) (NN base)) (PP (IN of) (NP (CD 100))) (VP (VBN set) (PP (IN in) (NP (CD 1983)))))) (CC and) (VP (VBZ is) (RB n't) (ADJP (RB seasonally) (JJ adjusted)))) (. .)))
+
+(S1 (S (NP (NNS Prices)) (VP (VBP have) (VP (VBN risen) (NP (CD 5.9) (NN %)) (PP (IN in) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year))))) (, ,) (S (VP (VBG outstripping) (NP (NP (PDT both) (DT the) (JJ initial) (ADJP (CD 3) (NN %)) (NN inflation) (NN goal)) (VP (VBN set) (PP (IN by) (NP (NP (DT the) (NN government)) (PP (IN of) (NP (NP (NNP Socialist) (NNP Prime) (NNP Minister) (NNP Felipe) (NNP Gonzalez)) (CC and) (NP (NP (DT the) (JJ second) (, ,) (JJ revised) (NN goal)) (PP (IN of) (NP (CD 5.8) (NN %)))))))))))))) (. .)))
+

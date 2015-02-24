@@ -1,0 +1,44 @@
+(S1 (S (NP (NNP Procter) (CC &) (NNP Gamble) (NNP Co.)) (, ,) (S (VP (VBN helped) (PP (IN by) (NP (NP (NP (DT a) (NN gain)) (PP (IN from) (NP (DT a) (NN lawsuit) (NN settlement)))) (CC and) (NP (VBN continued) (NN growth) (RB overseas)))))) (, ,) (VP (VBD posted) (NP (NP (DT a) (ADJP (CD 38) (NN %)) (NN rise)) (PP (IN in) (NP (JJ fiscal) (JJ first-quarter) (JJ net) (NN income))))) (. .)))
+
+(S1 (S (NP (NP (NN Net)) (PP (IN for) (NP (NP (DT the) (NN quarter)) (VP (VBN ended) (NP (NNP Sept.) (CD 30)))))) (VP (VBD climbed) (PP (TO to) (NP (NP (QP ($ $) (CD 551) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.66)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 400) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.18)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (. .)))
+
+(S1 (S (NP (JJ Per-share) (NNS figures)) (VP (VBP have) (VP (VBN been) (VP (VBN adjusted) (PP (IN for) (NP (NP (DT a) (JJ 2-for-1) (NN stock) (NN split)) (ADJP (JJ effective) (NP (NNP Oct.) (CD 20)))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD increased) (NP (CD 6) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 5.58) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 5.27) (CD billion))))) (. .)))
+
+(S1 (S (NP (NP (NNS Earnings)) (PP (IN at) (NP (DT the) (NNS consumer-products) (NN giant)))) (VP (VBD were) (VP (VBN boosted) (PP (IN by) (NP (NP (DT a) (NN gain)) (PP (IN of) (NP (NP (QP ($ $) (CD 125) (CD million))) (, ,) (CC or) (NP (NP (QP (IN about) (CD 25)) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (VP (VBG stemming) (PP (IN from) (NP (NP (NP (JJ last) (NN month) (POS 's)) (NN settlement)) (PP (IN of) (NP (NN litigation))) (PP (IN with) (NP (NP (CD three)) (PP (IN of) (NP (NP (NP (NNP P&G) (POS 's)) (NNS competitors)) (PP (IN over) (NP (NP (NNS patents)) (PP (IN on) (NP (NP (NNP P&G) (POS 's)) (NNP Duncan) (NNP Hines) (NNS cookies)))))))))))))))) (. .)))
+
+(S1 (S (PP (VBG Excluding) (NP (DT the) (NN gain))) (, ,) (NP (NP (NNP P&G) (POS 's)) (NNS earnings)) (VP (VBD were) (ADJP (JJ close) (PP (TO to) (NP (NP (NP (NNS analysts) (POS ')) (NNS predictions)) (PP (IN of) (NP (NP (RB about) ($ $) (CD 1.40)) (NP (DT a) (NN share))))))) (PP (IN for) (NP (DT the) (NN quarter)))) (. .)))
+
+(S1 (S (NP (NNP Wall) (NNP Street)) (VP (VBD had) (VP (VBN expected) (S (NP (NP (NP (DT a) (JJ modest) (NN rise)) (PP (IN in) (NP (NP (DT the) (NN company) (POS 's)) (JJ domestic) (NNS sales) (CC and) (NNS earnings)))) (, ,) (CC and) (NP (NP (RBR more) (JJ substantial) (NNS increases)) (PP (IN in) (NP (JJ overseas) (NNS results)))))))) (. .)))
+
+(S1 (S (S (NP (NP (CD One) (NN factor)) (VP (VBG helping) (NP (NNS sales) (CC and) (NNS earnings)))) (VP (VBD was) (NP (NP (DT a) (ADJP (CD 3) (NN %)) (NN price) (NN rise)) (PP (IN for) (NP (JJS most) (NNP P&G) (NNS products)))) (, ,) (PP (IN except) (NP (NN coffee))))) (, ,) (NP (NNS analysts)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NN Unit) (NN volume)) (, ,) (CC or) (NP (NP (NN amount)) (PP (IN of) (NP (NP (NNS products)) (VP (VBN shipped))))) (, ,)) (VP (VBD rose) (NP (QP (RB about) (CD 11)) (NN %)) (PP (IN in) (NP (DT the) (JJ international) (NN segment))) (, ,) (SBAR (IN with) (S (NP (NNP P&G)) (VP (VBG continuing) (S (VP (TO to) (VP (VB win) (NP (NN market) (NN share)) (PP (IN in) (NP (NP (NNP Japan) (POS 's)) (NN diaper) (CC and) (NN detergent) (NNS markets)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Jay) (NNP Freedman)) (, ,) (NP (NP (NN analyst)) (PP (IN with) (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (NP (NNP P&G) (POS 's)) (ADJP (RB Always) (JJ sanitary)) (NN napkin)) (, ,) (VP (VBN sold) (PP (IN under) (NP (DT the) (NN Whisper) (NN name))) (PP (IN in) (NP (NNP Japan)))) (, ,)) (VP (VBZ has) (ADVP (RB firmly)) (VP (VBN established) (NP (PRP itself)) (PP (IN as) (NP (DT a) (VBG leading) (NN brand)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ figures) (SBAR (S (NP (NNP P&G)) (VP (MD will) (VP (VB expand) (NP (PRP$ its) (JJ personal-care) (NN product) (NN line)) (PP (IN in) (NP (NNP Japan))) (S (VP (TO to) (`` `) (VP (`` `) (VB continue) (NP (DT that) (NN momentum)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP P&G) (POS 's)) (NNP U.S.) (NNS shipments)) (VP (VBD were) (ADVP (RB up) (NP (QP (RB just) (CD 1)) (NN %))) (, ,) (SBAR (ADVP (RB partly)) (IN because) (S (NP (DT the) (NN company)) (VP (VBD decided) (S (VP (TO to) (VP (VB shift) (NP (NP (JJR more) (NNS promotions)) (CC and) (NP (NP (NNS sales)) (PP (IN for) (NP (NN health) (CC and) (NN beauty) (NNS products))))) (PP (TO to) (NP (DT the) (JJ fiscal) (JJ second) (NN quarter)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Hugh) (NNP Zurkuhlen)) (, ,) (NP (NP (NN analyst)) (PP (IN with) (NP (NNP Salomon) (NNP Bros.)))) (, ,)) (VP (VBZ predicts) (SBAR (S (NP (DT the) (NN shift)) (VP (MD will) (VP (VB mean) (SBAR (S (NP (NP (NP (NNP P&G) (POS 's)) (NNS sales) (NN growth)) (PP (IN in) (NP (DT the) (JJ second) (NN quarter)))) (VP (MD will) (VP (VB be) (`` `) (PP (`` `) (IN in) (NP (DT the) (JJ double) (NNS digits)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Also)) (NP (NP (VBG slowing) (NN growth)) (PP (IN in) (NP (DT the) (NNP U.S.)))) (VP (VBD were) (NP (NP (JJ lackluster) (NNS results)) (PP (IN for) (NP (NP (NP (NNP P&G) (POS 's)) (NN cooking) (NNS oils)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (DT a) (JJ strong) (JJ year-earlier) (JJ first) (NN quarter))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NP (JJ Last) (NN year) (POS 's)) (NN drought)) (PP (IN in) (NP (DT the) (NNP Midwest)))) (VP (VBD prompted) (S (NP (NNS retailers)) (VP (TO to) (VP (VB stock) (PRT (RP up)) (PP (IN on) (NP (NP (NNS oils)) (ADVP (RB ahead) (PP (IN of) (NP (VBN anticipated) (NN price) (NNS increases)))))) (, ,) (S (VP (VBG boosting) (NP (NP (NNS sales)) (PP (IN for) (NP (NNP Crisco) (CC and) (NNP Puritan) (NNS oils))))))))))) (, ,) (NP (NNS analysts)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN For) (NP (JJ fiscal) (CD 1990))) (, ,) (NP (NNS analysts)) (VP (VBP expect) (S (NP (NP (NNP P&G) (POS 's)) (NNS sales)) (VP (TO to) (VP (VB continue) (S (VP (TO to) (VP (VB grow)))) (, ,) (PP (IN with) (NP (NP (NNS earnings)) (VP (VBG climbing) (NP (QP (IN between) (CD 15) (NN %) (CC and) (CD 20) (NN %)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Lynne) (NNP Hyman)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NN equity) (NN research))) (PP (IN for) (NP (NNP First) (NNP Boston) (NNP Corp.)))) (, ,)) (VP (VBZ expects) (S (NP (NNP P&G)) (VP (TO to) (VP (VB post) (NP (NP (NN net)) (PP (IN of) (NP (NP (RB about) ($ $) (CD 4.20)) (NP (DT a) (NN share))))) (, ,) (PP (IN on) (NP (DT a) (JJ post-split) (NN basis))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (CC But) (NP (PRP I)) (VP (VBP 'm) (VP (VBG recognizing) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN chance) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB do) (ADVP (ADVP (NP (DT a) (NN bit)) (RBR better)) (PP (IN than) (NP (DT that)))))))))))))) (, ,) ('' ')) ('' ') (NP (PRP she)) (VP (VBZ says)) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ fiscal) (CD 1989))) (, ,) (NP (NNP P&G)) (VP (VBD earned) (NP (NP (NP ($ $) (CD 3.56)) (NP (DT a) (NN share))) (, ,) (VP (VBN adjusted) (PP (IN for) (NP (DT the) (NN stock) (NN split)))))) (. .)))
+
+(S1 (S (NP (NP (CD One) (JJ big) (NN factor)) (VP (VBG affecting) (NP (DT the) (JJ fiscal) (JJ second) (NN half)))) (VP (MD will) (VP (VB be) (NP (NP (DT the) (JJ new) (NN stewardship)) (PP (IN of) (NP (NP (NNP Edwin) (NNP L.) (NNP Artzt)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ becomes) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN in) (NP (NNP January)))))))))))) (. .)))
+
+(S1 (S (PP (IN Because) (IN of) (NP (PRP$ his) (JJ remarkable) (NN success) (S (VP (VBG turning) (PRT (RP around)) (NP (NP (NNP P&G) (POS 's)) (JJ international) (NNS operations)))))) (, ,) (NP (NNS analysts)) (VP (VBP have) (NP (NP (JJ high) (NNS hopes)) (PP (IN for) (NP (PRP$ his) (NN tenure))))) (. .)))
+
+(S1 (S (`` `) (`` `) (SBAR (IN If) (S (NP (PRP he)) (VP (VBZ does) (PP (TO to) (NP (DT the) (JJ domestic) (NNS operations))) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD did) (RB internationally))))))) (PRN (, ,) ('' ') ('' ') (SINV (VP (VBZ says)) (NP (NNP Mr.) (NNP Zurkuhlen))) (, ,) (`` `)) (`` `) (NP (DT this) (NN company)) (VP (MD will) (VP (VB earn) (NP (NP ($ $) (CD 6)) (CC or) (NP (NP ($ $) (CD 7)) (NP (DT a) (NN share)))) (PP (IN in) (NP (DT a) (JJ few) (NNS years))))) (. .)))
+

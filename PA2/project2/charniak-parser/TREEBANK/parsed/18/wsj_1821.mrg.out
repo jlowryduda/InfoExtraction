@@ -1,0 +1,14 @@
+(S1 (S (NP (NNP Tandy) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD signed) (NP (DT a) (JJ definitive) (NN agreement) (S (VP (TO to) (VP (VB acquire) (NP (NP (CD two) (NNS units)) (PP (IN of) (NP (NP (NNP Datatronic) (NNP AB)) (PP (IN of) (NP (NNP Stockholm)))))) (PP (IN for) (NP (NN cash))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN amount)) (VP (VBD was) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (NP (DT The) (NN electronics) (NN maker) (CC and) (NN retailer)) (ADVP (RB previously)) (VP (VBD estimated) (NP (DT the) (NN sale) (NN price)) (PP (IN at) (NP (NP (QP (IN between) ($ $) (CD 100) (CD million) (CC and) ($ $) (CD 200) (CD million))) (PP (IN for) (NP (NP (NNP Datatronic) (POS 's)) (NNP Victor) (NN microcomputer) (CC and) (JJ Micronic) (JJ hand-held) (NN computer) (NNS subsidiaries)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP Tandy)) (VP (MD will) (VP (VB acquire) (NP (NP (NNS rights)) (PP (TO to) (NP (DT the) (NNP Victor) (CC and) (NNP Micronic) (NNS names)))) (PP (IN for) (NP (NNS computers))))) (. .)))
+
+(S1 (S (PP (IN During) (NP (CD 1988))) (, ,) (NP (DT the) (NNP Datatronic) (NNS subsidiaries)) (VP (VBD had) (NP (NP (JJ combined) (NNS sales)) (PP (IN in) (NP (NP (NN excess)) (PP (IN of) (NP (QP ($ $) (CD 200) (CD million)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN transaction)) (VP (MD will) (VP (VB give) (NP (NNP Tandy)) (NP (NP (DT a) (JJ well-known) (JJ European) (NN computer) (NN brand)) (SBAR (WHNP (WDT that)) (S (VP (VBZ includes) (NP (CD 2,700) (NNS dealers) (CC and) (NNS distributors)) (PP (VBG marketing) (PP (TO to) (NP (JJ medium-sized) (NN business) (CC and) (JJ educational) (NNS institutions)))))))))) (. .)))
+
+(S1 (S (S (NP (NP (VBG Closing)) (PP (IN of) (NP (DT the) (NN transaction)))) (VP (VBZ is) (ADJP (JJ subject) (PP (TO to) (NP (NP (JJ certain) (NNS conditions)) (CC and) (NP (JJ regulatory) (NNS approvals))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+

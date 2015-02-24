@@ -1,0 +1,26 @@
+(S1 (S (NP (NNP Canadian) (NNP Pacific) (NNP Ltd.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD proposed) (S (VP (VBG acquiring) (NP (NP (DT the) (CD 44) (NN %)) (PP (IN of) (NP (NNP Soo) (NNP Line) (NNP Corp.))) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB already)) (VP (VB own) (PP (IN for) (NP (NP (NP ($ $) (CD 19.50)) (NP (DT a) (NN share))) (, ,) (CC or) (NP (QP (RB about) ($ $) (CD 81.9) (CD million))) (, ,))) (PP (IN after) (S (VP (VBG failing) (S (VP (TO to) (VP (VB find) (NP (NP (DT a) (NN buyer)) (PP (IN for) (NP (NP (PRP$ its) (NN majority) (NN stake)) (ADVP (RBR earlier) (NP (DT this) (NN year))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Soo) (NNP Line)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN board)) (VP (VBD appointed) (NP (NP (DT a) (JJ special) (NN committee)) (PP (IN of) (NP (JJ independent) (NNS directors)))) (S (VP (TO to) (VP (VB study) (NP (DT the) (NN proposal))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ troubled) (JJ Minneapolis-based) (NN railroad) (NN concern)) (VP (VBD said) (SBAR (S (NP (DT the) (NN committee)) (VP (VBZ has) (NP (DT the) (NN authority) (S (VP (TO to) (VP (VB hire) (NP (NP (ADJP (JJ financial) (CC and) (JJ legal)) (NNS advisers)) (SBAR (S (VP (TO to) (VP (VB assist) (NP (PRP it))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ proposed) (NN acquisition)) (VP (MD will) (VP (VB be) (ADJP (JJ subject) (PP (TO to) (NP (NP (NN approval)) (PP (IN by) (NP (DT the) (NNP Interstate) (NNP Commerce) (NNP Commission))))))))) (, ,) (NP (NNP Soo) (NNP Line)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NP (NNP Soo) (NNP Line)) (NNS shares)) (VP (VBD jumped) (PP (ADVP (RB well)) (IN above) (NP (DT the) (VBN proposed) (NN price))) (, ,) (S (VP (VBG closing) (PP (IN at) (NP ($ $) (CD 20.25))) (, ,) (ADVP (RB up) (NP ($ $) (CD 2.75)))))) (. .)))
+
+(S1 (S (NP (NNP Canadian) (NNP Pacific)) (VP (VP (VBD put) (NP (NP (PRP$ its) (ADJP (CD 56) (NN %)) (NN stake)) (PP (IN in) (NP (NNP Soo) (NNP Line)))) (PP (RP up) (PP (IN for) (NP (NP (NN sale)) (NP (JJ last) (NN year)))))) (CC but) (VP (MD could) (RB n't) (VP (VB find) (NP (DT any) (NNS takers))))) (. .)))
+
+(S1 (S (NP (NP (NNP Canadian) (NNP Pacific)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (NN transportation) (, ,) (NN telecommunications)) (, ,) (NP (NN forest) (NNS products)) (, ,) (NP (NN energy)) (CC and) (NP (JJ real) (NN estate)))))))) (, ,)) (ADVP (RB finally)) (VP (VBD took) (NP (PRP$ its) (NN majority) (NN block)) (PP (IN off) (NP (DT the) (NN market))) (NP (DT this) (NN spring))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBD turned) (PRT (RP out)) (SBAR (S (NP (PRP we)) (VP (MD could) (RB n't) (VP (VB sell) (NP (PRP it))))))) (, ,) ('' ')) ('' ') (NP (DT a) (NNP Canadian) (NNP Pacific) (NN official)) (VP (VBD said) (, ,) (S (VP (VBG adding) (SBAR (IN that) (S (S (VP (VBG acquiring) (NP (NP (DT the) (NN remainder)) (PP (IN of) (NP (NNP Soo) (NNP Line)))))) (VP (VBZ is) (ADVP (RB now)) (`` `) (NP (`` `) (NP (DT the) (JJS best) (NN way)) (SBAR (S (VP (TO to) (VP (VB rationalize) (NP (NNS operations))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Canadian) (NNP Pacific)) (VP (VP (VBZ is) (NP (NP (NNP Soo) (NNP Line) (POS 's)) (JJS biggest) (NN customer))) (CC and) (VP (VBZ has) (VP (VBN owned) (NP (NP (DT a) (NN majority) (NN stake)) (PP (IN in) (NP (DT the) (NNP U.S.) (NN railroad)))) (PP (IN since) (NP (CD 1947)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Canadian) (NNP Pacific)) (CC and) (NP (NNP Soo) (NNP Line))) (S (NP (NNS tracks)) (VP (VBP connect) (PP (IN at) (NP (NP (CD two) (NNS points)) (PP (IN in) (NP (DT the) (NNP West))))) (PP (IN on) (NP (DT the) (JJ Canada-U.S.) (NN border))))) (CC and) (S (NP (DT the) (CD two) (NNS companies)) (VP (VBP operate) (NP (DT a) (ADJP (RB very) (JJ successful)) (JJ Chicago-Montreal) (NN rail) (NN service)))) (. .)))
+
+(S1 (S (ADVP (RB Separately)) (, ,) (PP (IN for) (NP (DT the) (JJ first) (CD nine) (NNS months))) (, ,) (NP (NNP Soo) (NNP Line)) (VP (VBD reported) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (NP ($ $) (CD 398,000)) (, ,) (CC or) (NP (NP (CD four) (NNS cents)) (NP (DT a) (NN share)))))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP (QP ($ $) (CD 12.5) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.32)) (NP (DT a) (NN share))) (, ,))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD fell) (NP (CD 5.8) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 407.9) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 433.2) (CD million))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD had) (NP (NP (DT a) (NN loss)) (PP (IN from) (NP (NP (NNS operations)) (PP (IN of) (NP (QP ($ $) (CD 1.7) (CD million)))))))) (. .)))
+

@@ -1,0 +1,34 @@
+(S1 (S (NP (NNP Euro) (NNP Disneyland) (NNS shares)) (VP (VBD made) (NP (NP (DT a) (NN debut)) (PP (IN like) (NP (NNP Snow)))) (NP (JJ White) (NN yesterday)) (SBAR (IN while) (S (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NNP London) (NN stock) (NN market)))) (VP (VBD looked) (SBAR (IN like) (S (NP (PRP it)) (VP (VBD had) (VP (VBN eaten) (NP (NP (DT the) (JJ Evil) (NNP Queen) (POS 's)) (JJ poisoned) (NN apple)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (PRP$ its) (JJ first) (NN day)) (PP (IN of) (NP (JJ when-issued) (NN trading))) (ADVP (RB here)))) (, ,) (NP (NNP Euro) (NNP Disney)) (VP (VBD soared) (PP (IN like) (NP (NNP Dumbo))) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP (NP (CD 814) (NN pence)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 13.05)) (-RRB- -RRB-)))) (, ,) (ADVP (RB up) (NP (CD 15) (NN %)) (PP (IN from) (NP (PRP$ its) (JJ 707-pence) (NN offering) (NN price)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ overall) (NNP London) (NN market)) (, ,) (PP (VBG following) (NP (NP (NNP Wall) (NNP Street) (POS 's)) (JJ early) (JJ nosedive))) (, ,) (VP (VBD took) (NP (DT a) (JJ late) (NN beating))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Financial) (NNP Times-Stock) (NNP Exchange) (JJ 100-Share) (NN Index)) (VP (VBD plummeted) (NP (CD 40.4) (NNS points)) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP (CD 2149.3))))))) (. .)))
+
+(S1 (S (NP (NNS Traders)) (VP (VBD credited) (NP (NP (NNP Euro) (NNP Disney) (POS 's)) (NN share) (NN performance)) (PP (TO to) (NP (NP (DT the) (JJ tremendous) (VBG hyping)) (PP (IN of) (NP (DT the) (NN project))))) (SBAR (IN that) (S (NP (DT the) (NNS shares)) (VP (VBP are) (VP (VBN destined) (S (VP (TO to) (VP (VB help) (S (VP (VB finance) (NP (NP (: :) (NNP Walt) (NNP Disney) (NNP Co.) (POS 's)) (JJ 4,800-acre) (NN theme) (NN park)) (ADVP (NP (CD 20) (NNS miles)) (RB east) (PP (IN of) (NP (NNP Paris)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN park)) (VP (VBZ is) (VP (VBN slated) (S (VP (TO to) (VP (VB open) (PP (IN in) (NP (CD 1992)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (DT The) (NN issue)) (VP (VBD was) (ADJP (RB very) (JJ well-received)))) (: --) (S (NP (NNP Disney)) (VP (VBZ is) (NP (PDT such) (DT a) (JJ well-known) (PRN (, ,) (S (NP (PRP you)) (VP (MD can) (VP (VB say) (ADVP (RB world-wide))))) (, ,)) (NN name)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Vernon) (NNP Dempsey)) (, ,) (NP (NP (JJ head) (NN trader)) (PP (IN of) (NP (NNP European) (NNS equities))) (PP (IN at) (NP (NP (NNP Kleinwort) (NNP Benson) (NNP Ltd.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG making) (NP (NP (DT a) (NN market)) (PP (IN in) (NP (DT the) (NN issue)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Dempsey)) (VP (VBD estimated) (SBAR (IN that) (S (NP (NP (DT the) (NN issue) (POS 's)) (NNP London) (NN debut)) (VP (VBD was) (VP (VBN accompanied) (PP (IN by) (`` `) (NP (NP (ADJP (`` `) (RB very) (, ,) (RB very) (JJ heavy)) (NN turnover)) (: --) (NP (QP (IN between) (CD five) (CD million) (CC and) (CD six) (CD million)) (NNS shares))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NN buying)))) (VP (VBD was) (ADJP (JJ institutional)))) (, ,) (NP (PRP he)) (VP (VBD added)) (. .)))
+
+(S1 (S (NP (NP (JJ Official) (NN trading)) (PP (IN in) (NP (DT the) (NNS shares)))) (VP (MD will) (VP (VB start) (PP (IN in) (NP (NNP London) (, ,) (NNP Paris) (CC and) (NNP Brussels))) (PP (IN on) (NP (NP (NNP Nov.) (CD 6)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (JJ French-franc) (VBN denominated) (NN offering)) (, ,) (VP (VBN valued) (PP (IN at) (NP (NP (DT the) (NN equivalent)) (PP (IN of) (NP (QP (RB nearly) ($ $) (CD 1) (CD billion))))))) (, ,)) (VP (VBZ comes) (PP (TO to) (NP (NP (NN market)) (PP (IN in) (NP (DT the) (NNP European) (NNP Community)))))))))))) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NNS investors)) (VP (MD will) (VP (VB be) (VP (VBN permitted) (S (VP (TO to) (VP (VB buy) (NP (DT the) (NNS shares)) (PP (IN from) (NP (NNP EC) (NNS investors))) (ADVP (NP (CD 90) (NNS days)) (RB later)))))))) (. .)))
+
+(S1 (S (PP (IN Because) (IN of) (NP (NP (DT the) (NN interest)) (VP (VBN connected) (PP (IN with) (NP (DT the) (NN issue)))))) (, ,) (NP (DT the) (NNP London) (NN exchange)) (VP (VBD took) (NP (NP (DT the) (JJ unusual) (NN step)) (PP (IN of) (S (VP (VBG letting) (S (NP (NNS traders)) (VP (VB establish) (NP (DT an) (ADJP (RB officially) (VBN sanctioned)) (JJ when-issued) (NN market))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ volatile) (, ,) (JJ unofficial) (`` `) (ADJP (`` `) (JJ gray) ('' ')) ('' ') (NN market)) (PP (IN in) (NP (DT the) (NNS shares)))) (VP (VBZ has) (VP (VBN been) (VP (VBG operating) (PP (IN in) (NP (NNP Paris))) (PP (IN for) (NP (QP (RB about) (CD two)) (NNS weeks)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN contrast)) (PP (TO to) (NP (DT the) (NNP London) (NN performance))))) (, ,) (NP (NNP Euro) (NNP Disney) (EX there)) (VP (VBD closed) (ADVP (RB down) (NP (NP (CD three) (NNS francs)) (NP (NN yesterday)))) (, ,) (PP (IN at) (NP (NP (QP (CD 79) (CD 1\/2)) (NNS francs)) (PRN (-LRB- -LRB-) (NP ($ $) (CD 12.66)) (-RRB- -RRB-)))) (NP (NP (NN bid)) (, ,) (CC but) (NP (NP (QP (RB still) (IN about) (CD 10)) (NN %)) (PP (IN over) (NP (DT the) (JJ 72-franc) (NN offering) (NN price)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (DT A) (NN lot)) (PP (IN of) (NP (NNS people)))) (VP (VBP are) (VP (VBG getting) (VP (VBN hurt) (PP (IN on) (NP (DT this) (JJ wicked) (NN whipsawing)))))) (, ,) ('' ')) ('' ') (VP (VBD cautioned)) (NP (NP (NNP Alistair) (NNP Cuddeford)) (, ,) (NP (NP (DT a) (ADJP (JJ London-based) (NP (NNP Salomon) (NNP Brothers) (NNP International) (NNP Ltd.))) (NN trader)) (SBAR (WHNP (WP who)) (S (VP (VBZ makes) (NP (NP (DT a) (NN market)) (PP (IN in) (NP (JJ franc-denominated) (NNP Euro) (NNP Disney) (NNS shares))))))))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (EX There)) (VP (MD should) (VP (VB be) (NP (DT no) (JJ great) (NN rush)) (SBAR (IN for) (S (NP (NNS investors)) (VP (TO to) (VP (VB buy) (NP (DT this)))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT A) (NN lot)) (PP (IN of) (NP (NP (JJ big) (JJ European) (NNS banks)) (, ,) (RB mostly) (NP (NP (NNP French)) (, ,) (CC and) (NP (JJ Swiss) (NN arb) (NNS accounts)))))) (VP (VBP have) (VP (VBN been) (VP (VBG buying) (NP (DT the) (NN stock)) (ADVP (RB just)) (S (VP (TO to) (VP (VB flip) (NP (PRP it)) ('' ') ('' ') (PP (IN for) (NP (DT a) (JJ quick) (NN profit)))))))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+

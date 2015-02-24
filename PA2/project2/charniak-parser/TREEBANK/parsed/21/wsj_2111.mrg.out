@@ -1,0 +1,94 @@
+(S1 (S (NP (JJ Japanese) (NNS Firms)) (VP (VBP Push) (NP (JJ Posh) (NN Car) (NNS Showrooms)))))
+
+(S1 (S (NP (JJ JAPANESE) (NN luxury-car) (NNS makers)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB set) (NP (NP (JJ strict) (NN design) (NNS standards)) (PP (IN for) (NP (PRP$ their) (NNS dealerships))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT some) (NNS dealers)) (VP (VBP are) (VP (VBG negotiating) (NP (JJR looser) (NNS terms)) (, ,) (SBAR (IN while) (S (NP (NNS others)) (VP (VBP decline) (S (VP (TO to) (VP (VB deal) (ADVP (IN at) (DT all)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Nissan) (NNP Motor) (NNP Co.) (POS 's)) (NNP Infiniti) (NN division)) (VP (VBZ likes) (S (VP (TO to) (VP (VB insist) (SBAR (IN that) (S (NP (DT every) (NN dealer)) (VP (VB construct) (CC and) (VB furnish) (NP (NP (DT a) (NN building)) (PP (IN in) (NP (DT a) (JJ Japanese) (NN style))))))))))) (. .)))
+
+(S1 (S (NP (NNS Specifications)) (VP (VBP include) (NP (NP (NP (DT a) (JJ polished) (NN bronze) (NN sculpture)) (PP (IN at) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT each) (NN showroom)))))) (CC and) (NP (NP (DT a) (NN tile) (NN bridge)) (VP (VBG spanning) (NP (NP (DT a) (NN stream)) (SBAR (WHNP (WDT that)) (S (VP (VBZ flows) (PP (IN into) (NP (DT the) (NN building))) (PP (IN from) (NP (NN outside))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP Infiniti)) (VP (VBZ has) (NP (PRP it)) (PP (RP down) (PP (TO to) (NP (DT the) (NNS ashtrays))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Jay) (NNP Ferron)) (, ,) (NP (NP (DT a) (NN partner)) (PP (IN at) (NP (NP (NNP J.D.) (NNP Power) (CC &) (NNP Associates)) (, ,) (NP (DT an) (NN auto) (NN research) (NN firm)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Toyota) (NNP Motor) (NNP Corp.) (POS 's)) (NNP Lexus) (NN division)) (ADVP (RB also)) (VP (VBZ provides) (NP (NNS specifications))) (. .)))
+
+(S1 (S (CC But) (NP (NP (QP (RB only) (NNS two-thirds))) (PP (IN of) (NP (NNP Lexus) (NNS dealers)))) (VP (VBP are) (VP (VBG constructing) (NP (JJ new) (NNS buildings)) (PP (VBG according) (PP (TO to) (NP (DT the) (NNP Lexus) (NNS specs)))))) (. .)))
+
+(S1 (S (NP (DT Some)) (VP (VBP are) (ADVP (RB even)) (VP (VBG coming) (PRT (RP up)) (PP (IN with) (NP (PRP$ their) (JJ own) (JJ novel) (NNS designs))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNP Louisville)) (, ,) (NP (NNP Ky.)))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NNP David) (NNP Peterson)) (VP (VBZ has) (VP (VBN built) (NP (NP (DT a) (NNP Lexus) (NN dealership)) (PP (IN with) (NP (DT the) (NN showroom)))) (PP (IN on) (NP (DT the) (JJ second) (NN floor))))) (. .)))
+
+(S1 (S (CC Yet) (NP (DT some) (NNS dealers)) (VP (VBP have) (VP (VBN turned) (PRT (RP down)) (NP (NNP Infiniti) (CC or) (NNP Lexus) (NNS franchises)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ unwilling) (CC or) (JJ unable) (S (VP (TO to) (VP (VB meet) (NP (DT the) (NN design) (NNS requirements))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Lee) (NNP Seidman)) (PP (IN of) (NP (NNP Cleveland)))) (VP (VBZ says) (SBAR (S (NP (NNP Infiniti)) (`` `) (VP (`` `) (VP (VBD was) (NP (NP (DT a) (NN bear)) (PP (IN on) (NP (NNS interiors) (POS '))))) ('' ') (CC but) (VP (ADVP (IN at) (JJS least)) (VBD let) (S (NP (PRP him)) (VP (VB retrofit) (NP (DT an) (VBG existing) (NN building)) (: --) (PP (IN without) (NP (DT the) (NN stream)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Seidman)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD turned) (PRT (RP down)) (NP (DT a) (NNP Lexus) (NN franchise)) (PP (IN in) (NP (NN part))) (SBAR (IN because) (`` `) (S (`` `) (NP (DT the) (NN building)) (VP (VBD was) (ADJP (ADJP (JJ gorgeous)) (CC but) (ADJP (RB very) (JJ expensive)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (VP (TO To) (VP (VB head) (PRT (RP off)) (NP (NNS arguments))))) (, ,) (NP (NNP Infiniti)) (VP (VBZ offers) (NP (NNS dealers)) (NP (NP (NN cash) (NNS bonuses)) (CC and) (NP (JJ low-interest) (NN construction) (NNS loans)))) (. .)))
+
+(S1 (S (NP (NP (NN Dictation) (NN Device) (POS 's)) (NN Saga)) (VP (VBZ Plays) (ADVP (RB Back)) (NP (DT a) (NN Lesson)))))
+
+(S1 (S (NP (NP (NNP PRODUCTS) (NNP DON) (POS ')) (NN T)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (NP (NP (JJ first)) (SBAR (S (VP (TO to) (VP (VB be) (NP (NNS winners))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT the) (NN lesson)) (VP (VBN offered) (PP (IN through) (NP (NP (NP (CD one) (NN case)) (NP (NN study))) (VP (VBN featured) (PP (IN in) (NP (DT a) (NN design) (NN exhibit))))))))) (. .)))
+
+(S1 (S (NP (NNP Dictaphone) (NNP Corp.)) (VP (VBD was) (VP (VBN caught) (PP (IN off) (NP (NN guard))) (PP (IN in) (NP (CD 1974))) (SBAR (WHADVP (WRB when)) (S (NP (NP (PRP$ its) (JJ main) (NN competitor)) (, ,) (NP (NP (NNP Lanier) (NNP Office) (NNP Products)) (PP (IN of) (NP (NNP Japan)))) (, ,)) (VP (VBD introduced) (NP (DT a) (JJ microcassette) (NN dictation) (NN recorder)) (NP (NP (PDT half) (DT the) (NN size)) (PP (IN of) (NP (JJ standard) (NN cassette) (NNS devices))))))))) (. .)))
+
+(S1 (S (S (VP (VBN Blocked) (PP (IN by) (NP (NN patent) (NN protection))) (PP (IN from) (S (VP (VBG following) (NP (NN suit))))))) (, ,) (NP (NNP Dictaphone)) (VP (VBD decided) (S (VP (TO to) (VP (VP (VB go) (ADVP (NP (DT a) (NN step)) (RBR further))) (CC and) (VP (VB cut) (NP (NP (DT the) (NN cassette)) (PP (IN in) (NP (NN half)))) (ADVP (RB again)))))) (: --) (ADVP (RB down) (PP (TO to) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (DT a) (NN paperclip))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (CD 1979))) (, ,) (NP (NP (NNS designers) (CC and) (NNS engineers)) (PP (IN at) (NP (NP (NNP Dictaphone)) (, ,) (NP (DT a) (NNP Pitney) (NNP Bowes) (NN subsidiary)) (, ,)))) (VP (VBD had) (VP (VBN produced) (NP (NP (DT a) (VBG working) (NN model)) (PP (IN of) (NP (DT a) (`` `) (ADJP (`` `) (JJ picocassette) ('' ')) ('' ') (NN recorder)))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (CD 1982))) (, ,) (ADVP (RB however)) (, ,) (NP (NP (DT the) (NN patent) (NN status)) (PP (IN of) (NP (DT the) (NNP Lanier) (NN microcassette)))) (VP (VBD had) (VP (VBN changed) (, ,) (S (VP (VBG permitting) (NP (NNP Dictaphone)) (S (VP (TO to) (VP (VB develop) (NP (NP (PRP$ its) (JJ own) (JJ competitive) (NNP micro) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBD did)))))))))))) (. .)))
+
+(S1 (S (NP (NN Marketing) (CC and) (NNS sales) (NNS departments)) (ADVP (RB then)) (VP (VBD urged) (NP (NP (NN abandonment)) (PP (IN of) (NP (DT the) (NN pico) (NN project))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS others)) (VP (VBD said) (SBAR (S (NP (NN pico)) (VP (MD should) (VP (VB proceed)))))) (. .)))
+
+(S1 (S (NP (DT Both)) (VP (VBD were) (ADJP (JJ right))) (. .)))
+
+(S1 (S (S (NP (NNP Dictaphone)) (VP (VP (VBD went) (ADVP (RB ahead))) (CC and) (VP (VBD introduced) (NP (DT the) (NN pico)) (PP (IN in) (NP (CD 1985)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ has) (RB n't) (VP (VBN sold) (ADVP (RB well))))) (. .)))
+
+(S1 (S (PP (TO To) (NP (NN date))) (, ,) (VP (VBZ says) (SBAR (S (NP (NP (NNP Emil) (NNP Jachmann)) (, ,) (NP (DT a) (NNP Dictaphone) (NN vice) (NN president)) (, ,)) (NP (PRP it)) (VP (VBZ has) (VP (VP (`` `) (`` `) (VBN broken) (ADVP (RB even))) (CC or) (VP (VBN shown) (NP (DT a) (JJ small) (NN loss)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Nevertheless)) (, ,) (NP (DT the) (NN device)) (VP (VBZ has) (VP (VBN been) (ADJP (JJ successful) (PP (IN in) (NP (JJ other) (NNS ways)))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBD helped) (S (NP (NNP Dictaphone)) (VP (VB attract) (NP (JJR better) (NNS engineers)))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBD provided) (NP (JJ new) (NN technology)) (PP (IN for) (NP (JJ other) (NN company) (NNS products))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ picocassette) (NN recorder)) (ADVP (RB also)) (VP (VBD helped) (VP (VB transform) (NP (NP (DT the) (NN company) (POS 's)) (NN reputation)) (PP (PP (IN from) (NP (NN follower))) (PP (TO to) (NP (JJ leading-edge) (NN innovator)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBD gave) (NP (PRP me)) (NP (JJ great) (NN pride)) (S (VP (TO to) (VP (VB see) (S (NP (NP (DT the) (NN inventor)) (PP (IN of) (NP (NP (DT the) (NN microcassette)) (PP (IN in) (NP (NNP Japan)))))) (VP (VP (VB look) (PP (IN at) (NP (DT the) (NN pico)))) (CC and) (VP (VB shake) (NP (PRP$ his) (NN head))) (CC and) (VP (VB say) (`` `) (ADJP (JJ unbelievable)))))))))) (, ,) ('' ') ('' ') ('' ') (VP (VBZ says)) (NP (NNP Mr.) (NNP Jachmann)) (. .)))
+
+(S1 (S (NP (NP (NNP Dictaphone) (POS 's)) (JJ picocassette) (NN recorder)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (ADJP (CD 13) (NN case)) (NNS studies)) (PP (IN in) (NP (NP (DT the) (NNP TRIAD) (NNP Design) (NNP Project)) (, ,) (VP (VBN sponsored) (PP (IN by) (NP (NP (DT the) (NNP Design) (NNP Management) (NNP Institute)) (PP (IN of) (NP (NNP Boston) (CC and) (NNP Harvard) (NNP Business) (NNP School)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS studies)) (VP (VP (VBP are) (PP (IN on) (NP (NP (NN exhibit)) (PP (IN at) (NP (NNP Harvard))) (NP (DT this) (NN month))))) (CC and) (VP (MD will) (VP (VB travel) (PP (TO to) (NP (NP (NP (NNP Chicago) (POS 's)) (NNP Institute)) (PP (IN of) (NP (NP (NNP Design)) (CC and) (NP (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP California)))) (PP (IN at) (NP (NNP Berkeley))))))))))) (. .)))
+
+(S1 (NP (NP (NP (DT A) (NNP Rake) (POS 's)) (NNP Progress) (NNP Means)) (VP (VBG Branching) (ADVP (RB Out)))))
+
+(S1 (S (S (NP (NP (CD ONE) (NN DAY)) (NP (NNP Carl) (NNP Barrett)) (PP (IN of) (NP (NP (NNP Mobile)) (, ,) (NP (NNP Ala.)) (, ,)))) (VP (VBD was) (VP (VBG raking) (NP (DT some) (JJ sycamore) (NNS leaves))))) (, ,) (CC but) (S (NP (DT the) (NN rake)) (VP (VBD kept) (VP (VBG riding) (PRT (RP up)) (PP (IN over) (NP (DT the) (NNS piles)))))) (. .)))
+
+(S1 (S (SBAR (X (DT The) (JJR harder)) (S (NP (PRP he)) (VP (VBD tried) (S (VP (TO to) (VP (VB push) (NP (PRP them)) (PP (IN into) (NP (JJ large) (NNS piles))))))))) (, ,) (X (DT the) (RBR closer)) (NP (PRP he)) (VP (VBD came) (S (VP (TO to) (VP (VP (NN breaking) (NP (DT the) (NN rake))) (CC and) (VP (VBG straining) (NP (PRP$ his) (NN back))))))) (. .)))
+
+(S1 (S (IN So) (NP (NP (NNP Mr.) (NNP Barrett)) (, ,) (ADVP (RB then)) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (DT the) (NNP Alabama) (NNP Steamship) (NNP Association)))) (, ,)) (VP (VP (VBD took) (NP (DT a) (JJ steel-toothed) (NN garden) (NN rake))) (CC and) (VP (VBD taped) (NP (PRP it)) (PP (TO to) (NP (NP (DT the) (NN underside)) (PP (IN of) (NP (DT a) (NNP leaf) (NN rake))))) (PP (IN about) (NP (NP (CD nine) (NNS inches)) (ADVP (RB up)))))) (. .)))
+
+(S1 (S (S (NP (PRP$ His) (JJ crude) (NN device)) (VP (VBD worked))) (: :) (S (NP (DT The) (JJR lower) (NNS teeth)) (VP (VBD gathered) (NP (DT the) (NNS leaves)) (PP (IN into) (NP (DT a) (NN pile))) (, ,) (SBAR (IN while) (S (NP (DT the) (JJR higher) (, ,) (JJR harder) (NNS teeth)) (VP (VBD moved) (NP (NP (DT the) (NN top)) (PP (IN of) (NP (DT the) (NN pile))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Now)) (VP (VBN incorporated) (PP (IN into) (NP (DT a) (NN polypropylene) (NN rake))))) (, ,) (NP (NP (DT the) (JJ four-inch) (NNS prongs)) (, ,) (CC or) (`` `) (NX (`` `) (NX (NNS wonderbars)) (, ,) ('' ')) ('' ')) (ADVP (RB also)) (VP (VBP are) (VP (VBN supposed) (S (VP (TO to) (VP (VB aid) (PP (IN in) (S (VP (VBG picking) (PRT (RP up)) (NP (NNS leaves)))))))))) (. .)))
+
+(S1 (S (NP (NP (CD One) (NN customer)) (, ,) (NP (NP (NNP Donald) (NNP Blaggs)) (PP (IN of) (NP (NNP Mobile)))) (, ,)) (VP (VBZ says) (SBAR (S (NP (DT the) (NNP Barrett) (NNP Rake)) (VP (VBD allowed) (S (NP (PRP him)) (VP (TO to) (VP (VB do) (NP (PRP$ his) (NN lawn)) (S (PP (IN in) (NP (QP (CD 2) (CD 1\/2)) (NNS hours))) (, ,) (NP (CD two) (NNS hours)) (ADJP (ADJP (RBR less)) (PP (IN than) (ADJP (JJ usual)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ other) (NN rake) (NNS makers)) (VP (VBP have) (NP (PRP$ their) (NNS doubts))) (. .)))
+
+(S1 (S (NP (NP (NNP Richard) (NNP Mason)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Ames) (NNP Co.)) (PP (IN in) (NP (NP (NNP Parkersburg)) (, ,) (NP (NNP W.) (NNP Va.))))))) (, ,)) (VP (VBZ says) (SBAR (SBAR (S (NP (DT the) (NNP Barrett) (NN rake)) (`` `) (VP (`` `) (VBZ makes) (NP (NN sense)) (, ,) ('' ')) ('' '))) (CC but) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (`` `) (ADJP (`` `) (JJ tough) ('' ')) ('' ') (S (VP (TO to) (VP (VB explain) (PP (TO to) (NP (NNS consumers))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP John) (NNP Stoner)) (, ,) (NP (NP (NN marketing) (NN director)) (PP (IN for) (NP (NP (NNP True) (NNP Temper) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP Black) (CC &) (NNP Decker))))))) (, ,)) (VP (VBZ says) (SBAR (S (NP (NNS people)) (VP (VBP do) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB move) (NP (DT a) (NNP leaf) (NN pile)))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (S (NP (PRP They)) (ADVP (RB either)) (VP (VB pick) (NP (PRP it)) (PRT (RP up)))) (PRN (, ,) ('' ') ('' ') (S (NP (PRP he)) (VP (VBZ says))) (, ,) (`` `)) (`` `) (CC or) (S (NP (PRP they)) (VP (VBP start) (S (VP (VBG pulling) (PP (IN from) (NP (DT a) (JJ fresh) (NN direction))))))) (. .) ('' ') ('' ')))
+
+(S1 (NP (NNPS Odds) (CC and) (NNPS Ends)))
+
+(S1 (SINV (S (NP (RB NO) (JJR MORE)) (VP (VBD STUBBED) (NP (NP (NNS toes)) (CC or) (NP (JJ bruised) (NNS shins))))) (, ,) (VP (VBZ promises)) (NP (NP (NP (NNP Geste) (NNP Corp.)) (PP (IN of) (NP (NNP Goshen) (, ,) (NNP Ind.)))) (, ,) (NP (NP (DT the) (NN designer)) (PP (IN of) (NP (DT a) (NN bed) (NN support))) (SBAR (S (VP (TO to) (VP (VB replace) (NP (JJ traditional) (NNS frames)))))))) (. .)))
+
+(S1 (FRAG (NP (CD Four) (JJ tubular) (NN steel) (`` `) (NX (`` `) (NX (NNS Bedfellows)) (, ,) ('' ')) ('' ')) (S (NP (DT each)) (PP (ADVP (RB roughly)) (IN in) (NP (NP (DT the) (NN shape)) (PP (IN of) (NP (DT a) (`` `) (NP (`` `) (NP (NNP W)) (, ,) ('' ')) (POS '))))) (VP (VBP are) (VP (VBN attached) (PP (TO to) (NP (NP (DT the) (NN bottom)) (PP (IN of) (NP (NP (DT the) (NN box) (NN spring)) (PP (IN in) (NP (DT a) (JJ recessed) (NN position) (NN ..))))))))) (. .)) (. .)))
+
+(S1 (S (NP (NP (QP (RB Nearly) (DT half))) (PP (IN of) (NP (NNP U.S.) (NNS consumers)))) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (MD 'll) (VP (VB pay) (NP (QP (IN up) (TO to) (CD 5) (NN %) (JJR more))) (PP (IN for) (NP (NP (NN packaging)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VP (VBN recycled)) (CC or) (VP (VBZ is) (ADJP (JJ biodegradable))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT a) (NN survey)) (VP (VBN commissioned) (PP (IN by) (NP (NP (DT the) (NNP Michael) (NNP Peters) (NNP Group)) (, ,) (NP (DT a) (NN design) (NN consultant)))))))))))))))))))) (. .)))
+

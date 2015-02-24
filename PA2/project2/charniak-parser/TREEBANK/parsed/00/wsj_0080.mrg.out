@@ -1,0 +1,54 @@
+(S1 (S (NP (NP (NN Investor) (NNP Harold) (NNP Simmons)) (CC and) (NP (NNP NL) (NNPS Industries) (NNP Inc.))) (VP (VBD offered) (S (VP (TO to) (VP (VB acquire) (NP (NNP Georgia) (NNP Gulf) (NNP Corp.)) (PP (IN for) (NP (NP (NP ($ $) (CD 50)) (NP (DT a) (NN share))) (, ,) (CC or) (NP (QP (RB about) ($ $) (CD 1.1) (CD billion))) (, ,))) (VP (VBG stepping) (PRT (RP up)) (NP (NP (DT the) (NN pressure)) (PP (IN on) (NP (DT the) (NN commodity) (NNS chemicals) (NN concern))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN offer)) (VP (VBZ follows) (NP (NP (DT an) (JJR earlier) (NN proposal)) (PP (IN by) (NP (NNP NL) (CC and) (NNP Mr.) (NNP Simmons))) (S (VP (TO to) (VP (VB help) (S (NP (NNP Georgia) (NNP Gulf)) (VP (VP (VB restructure)) (CC or) (VP (VB go) (ADJP (JJ private) (PP (IN in) (NP (NP (DT a) (NN transaction)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB pay) (NP (NNS shareholders)) (NP (NP ($ $) (CD 55)) (NP (DT a) (NN share)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Georgia) (NNP Gulf)) (VP (VP (VBD rebuffed) (NP (DT that) (NN offer)) (PP (IN in) (NP (NNP September)))) (CC and) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB study) (NP (JJ other) (NNS alternatives)))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VBZ has) (RB n't) (ADVP (RB yet)) (VP (VBN made) (NP (NP (DT any) (NNS proposals)) (PP (TO to) (NP (NNS shareholders)))))) (. .)))
+
+(S1 (S (NP (JJ Late) (NN yesterday)) (, ,) (NP (NNP Georgia) (NNP Gulf)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBN reviewed) (NP (NP (DT the) (NNP NL) (NN proposal)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NNS interests)) (PP (IN from) (NP (`` `) (NP (`` `) (NP (JJ third) (NNS parties)) ('' ')) ('' ') (PP (VBG regarding) (NP (NN business) (NNS combinations))))))))))) (. .)))
+
+(S1 (S (NP (NNP Georgia) (NNP Gulf)) (VP (VBD said) (SBAR (SBAR (S (NP (PRP it)) (VP (VBZ has) (RB n't) (VP (VBD eliminated) (NP (DT any) (NNS alternatives)))))) (CC and) (SBAR (IN that) (`` `) (S (`` `) (S (NP (NNS discussions)) (VP (VBP are) (VP (VBG being) (VP (VBN held) (PP (IN with) (NP (JJ interested) (NNS parties))))))) (, ,) (CC and) (S (NP (NN work)) (VP (VBZ is) (ADVP (RB also)) (VP (VBG continuing) (PP (IN on) (NP (JJ other) (JJ various) (NNS transactions)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (VP (VBD did) (RB n't) (VP (VB elaborate))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBD saw) (NP (DT the) (JJS latest) (NN offer)) (PP (IN as) (NP (NN proof) (SBAR (IN that) (S (NP (NP (NNP Mr.) (NNP Simmons)) (, ,) (NP (DT an) (JJ aggressive) (CC and) (JJ persistent) (NN investor)) (, ,)) (VP (MD wo) (RB n't) (VP (VB leave) (NP (NNP Georgia) (NNP Gulf)) (ADVP (RB alone)) (SBAR (IN until) (S (NP (NP (DT some) (NN kind)) (PP (IN of) (NP (NN transaction)))) (VP (VBZ is) (VP (VBN completed)))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP He)) (VP (VBZ has) (VP (VBN clamped) (PP (IN on) (NP (NP (PRP$ their) (NN ankle)) (PP (IN like) (NP (DT a) (NN pit) (NN bull))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Paul) (NNP Leming)) (, ,) (NP (NP (DT a) (NN vice) (NN president)) (PP (IN with) (NP (NNP Morgan) (NNP Stanley) (CC &) (NNP Co))))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (PRP He)) (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (PP (IN in) (NP (PRP it))) (PP (IN for) (NP (DT the) (JJ long) (NN haul)))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Simmons)) (CC and) (NP (NNP NL))) (ADVP (RB already)) (VP (VBP own) (NP (NP (DT a) (ADJP (CD 9.9) (NN %)) (NN stake)) (PP (IN in) (NP (NNP Georgia) (NNP Gulf))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Simmons)) (VP (VBZ owns) (NP (NP (CD 88) (NN %)) (PP (IN of) (NP (NP (NNP Valhi) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (NN turn))) (VP (VBZ owns) (NP (NP (NNS two-thirds)) (PP (IN of) (NP (NNP NL))))))))))) (. .)))
+
+(S1 (S (NP (NNP NL)) (VP (VBZ is) (ADVP (RB officially)) (VP (VBG making) (NP (DT the) (NN offer)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Leming)) (VP (VBD was) (RB n't) (ADJP (JJ surprised) (PP (IN by) (NP (NP (DT the) (JJR lower) (NN price)) (VP (VBN cited) (PP (IN by) (NP (NNP NL))))))) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP he)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NP ($ $) (CD 55)) (NP (DT a) (NN share))) (VP (VBZ is) (`` `) (NP (NP (`` `) (DT the) (RBS most)) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB pay) (PP (IN for) (NP (NNP Georgia) (NNP Gulf))) (SBAR (IN before) (S (NP (PRP it)) (VP (VBZ becomes) (NP (DT a) (JJ bad) (NN acquisition))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Georgia) (NNP Gulf) (NN stock)) (VP (VBD rose) (NP (NP ($ $) (CD 1.75)) (NP (DT a) (NN share))) (NP (NN yesterday)) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP (NP ($ $) (CD 51.25)) (NP (DT a) (NN share)))) (, ,) (SBAR (IN while) (S (S (NP (NNP NL) (NNS shares)) (VP (VBD closed) (ADJP (JJ unchanged)) (PP (IN at) (NP ($ $) (CD 22.75))))) (CC and) (S (NP (NNP Valhi)) (VP (VBD rose) (NP (CD 62.5) (NNS cents)) (PP (TO to) (NP (NP ($ $) (CD 15)) (, ,) (NP (DT all)))) (PP (IN in) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP J.) (NNP Landis) (NNP Martin)) (, ,) (NP (NP (NNP NL) (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,)) (VP (VBD said) (SBAR (S (NP (NNP NL) (CC and) (NNP Mr.) (NNP Simmons)) (VP (VBD cut) (NP (NP (DT the) (NN price)) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG proposing) (PP (IN for) (NP (NNP Georgia) (NNP Gulf))) (SBAR (IN because) (S (NP (PRP they)) (ADVP (RB initially)) (VP (VBD planned) (NP (NP (DT a) (NN transaction)) (SBAR (WHNP (WDT that)) (S (VP (VBD included) (NP (NP (QP (RB about) ($ $) (CD 250) (CD million))) (PP (IN in) (NP (NP (NN equity)) (CC and) (NP (NP (DT a) (JJ substantial) (NN amount)) (PP (IN of) (NP (JJ high-yield) (JJ subordinated) (NN debt))))))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (DT the) (NN junk-bond) (NN market)) (VP (VBZ has) (VP (VBD collapsed) (PP (IN in) (NP (JJ recent) (NNS weeks))) (, ,) (S (VP (VBG lessening) (NP (DT the) (NN likelihood) (SBAR (IN that) (S (NP (PDT such) (DT a) (NN transaction)) (VP (MD would) (VP (VB succeed)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (NP (DT the) (NN group)) (VP (VBZ plans) (S (VP (TO to) (VP (VP (VB put) (PP (IN in) (`` `) (NP (`` `) (NP (JJ several) (QP (CD hundred) (CD million))) ('' ')) ('' ') (NP (NP (NNS dollars)) (PP (IN in) (NP (NN equity)))))) (CC and) (VP (VB finance) (NP (NP (DT the) (NN remainder)) (PP (IN with) (NP (NN bank) (NN debt))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD said) (SBAR (IN that) (S (NP (DT the) (NN group)) (VP (VBD reduced) (NP (PRP$ its) (NN offer)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBD was) (RB n't) (VP (VBN allowed) (S (VP (TO to) (VP (VB see) (NP (NP (NNP Georgia) (NNP Gulf) (POS 's)) (JJ confidential) (JJ financial) (NN information)) (PP (IN without) (S (VP (VBG agreeing) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (RB n't) (VP (VB make) (NP (DT an) (NN offer)) (SBAR (IN unless) (S (NP (PRP it)) (VP (VBD had) (NP (NP (NNP Georgia) (NNP Gulf) (POS 's)) (NN consent))))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN letter)) (PP (TO to) (NP (NNP Georgia) (NNP Gulf))))) (NP (NNP President) (NNP Jerry) (NNP R.) (NNP Satrum)) (, ,) (NP (NNP Mr.) (NNP Martin)) (VP (VBD asked) (NP (NNP Georgia) (NNP Gulf)) (S (VP (TO to) (VP (VB answer) (NP (NP (PRP$ its) (NN offer)) (PP (IN by) (NP (NNP Tuesday)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (RB n't) (ADJP (JJ clear)) (SBAR (WHADVP (WRB how)) (S (NP (NNP NL) (CC and) (NNP Mr.) (NNP Simmons)) (VP (MD would) (VP (VB respond) (SBAR (IN if) (S (NP (NNP Georgia) (NNP Gulf)) (VP (VBZ spurns) (NP (PRP them)) (ADVP (RB again)))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Martin)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP have) (RB n't) (ADVP (RB yet)) (VP (VBN decided) (SBAR (WHNP (WP what)) (S (NP (PRP$ their) (JJ next) (NN move)) (VP (MD would) (VP (VB be))))))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB rule) (PRT (RP out)) (NP (NP (DT the) (NN possibility)) (PP (IN of) (NP (NP (DT a) (NN consent) (NN solicitation)) (VP (VBN aimed) (PP (IN at) (S (VP (VBG replacing) (NP (NP (NNP Georgia) (NNP Gulf) (POS 's)) (NN board)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ other) (NNS transactions))) (, ,) (NP (NNP Mr.) (NNP Simmons)) (VP (VBZ has) (VP (VBN followed) (NP (JJ friendly) (NNS offers)) (PP (IN with) (NP (DT a) (JJ hostile) (NN tender) (NN offer))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNP Georgia) (NNP Gulf)) (VP (VBZ has) (RB n't) (VP (VBN been) (ADJP (JJ eager) (S (VP (TO to) (VP (VB negotiate) (PP (IN with) (NP (NP (NNP Mr.) (NNP Simmons)) (CC and) (NP (NP (NNP NL)) (, ,) (NP (DT a) (NN specialty) (NNS chemicals) (NN concern))))))))))))) (, ,) (NP (DT the) (NN group)) (ADVP (RB apparently)) (VP (VBZ believes) (SBAR (S (NP (NP (DT the) (NN company) (POS 's)) (NN management)) (VP (VBZ is) (ADJP (JJ interested) (PP (IN in) (NP (NP (DT some) (NN kind)) (PP (IN of) (NP (NN transaction)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN management) (NN group)) (VP (VP (VBZ owns) (NP (NP (QP (RB about) (CD 18)) (NN %)) (PP (IN of) (NP (DT the) (NN stock))) (, ,) (VP (ADVP (RBS most)) (VBN purchased) (PP (IN at) (NP (JJ nominal) (NNS prices)))))) (, ,) (CC and) (VP (MD would) (VP (VB stand) (S (VP (TO to) (VP (VB gain) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS dollars)))) (SBAR (IN if) (S (NP (DT the) (NN company)) (VP (VBD were) (VP (VBN sold))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ third) (NN quarter))) (, ,) (NP (NNP Georgia) (NNP Gulf)) (VP (VBD earned) (NP (NP (QP ($ $) (CD 46.1) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.85)) (NP (DT a) (NN share))) (, ,) (ADVP (RB down) (PP (IN from) (NP (NP (QP ($ $) (CD 53) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.85)) (NP (DT a) (NN share))))))) (PP (IN on) (NP (NP (JJR fewer) (NNS shares)) (ADJP (JJ outstanding))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD fell) (PP (TO to) (NP (QP ($ $) (CD 251.2) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 278.7) (CD million))))) (. .)))
+

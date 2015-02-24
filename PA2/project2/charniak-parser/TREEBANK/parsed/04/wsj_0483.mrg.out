@@ -1,0 +1,14 @@
+(S1 (S (NP (NP (NNP Bancroft) (NNP Convertible) (NNP Fund) (NNP Inc.)) (, ,) (NP (NNP New) (NNP York)) (, ,)) (ADVP (RB likely)) (VP (MD will) (VP (VB reject) (NP (NP (DT a) (VBN renewed) (NN offer)) (PP (IN from) (NP (NNP Florida) (NN investor) (NNP Robert) (NNP I.) (NNP Green))) (S (VP (TO to) (VP (VB buy) (NP (NNP Bancroft)) (PP (IN for) (NP (NP ($ $) (CD 18.95)) (NP (DT a) (NN share)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Sigmund) (NNP Levine)) (, ,) (NP (NP (NNP Bancroft) (NN secretary)) (CC and) (NP (NN treasurer))) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ closed-end) (NN fund) (POS 's)) (NNS directors)) (VP (MD will) (VP (VB consider) (NP (NP (NNP Mr.) (NNP Green) (POS 's)) (NN offer)) (PP (IN in) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS weeks))))) (PP (IN at) (NP (DT a) (JJ regular) (NN meeting)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP He)) (VP (VBZ has) (RB n't) (VP (VBN added) (NP (NN anything)))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Levine)) (VP (VBD said) (, ,) (S (VP (VBG predicting) (SBAR (S (NP (DT the) (NN board)) (VP (MD will) (ADVP (RB again)) (VP (VB reject) (NP (NP (NNP Mr.) (NNP Green) (POS 's)) (NN proposal))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission) (NN filing))) (, ,) (NP (NNP Mr.) (NNP Green)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VP (VBD had) (VP (VBN boosted) (NP (NP (PRP$ his) (NNS holdings)) (PP (IN in) (NP (NNP Bancroft) (NN common)))) (PP (TO to) (NP (CD 10.4) (NN %))) (PP (IN from) (NP (CD 8.5) (NN %))))) (, ,) (CC and) (VP (VBD renewed) (NP (NP (DT an) (NN offer)) (SBAR (S (NP (PRP he)) (VP (VBD made) (PP (IN in) (NP (NNP March))))))) (S (VP (TO to) (VP (VB acquire) (NP (DT the) (NN fund)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Levine)) (VP (VBD noted) (SBAR (IN that) (S (NP (NP (NNP Bancroft) (POS 's)) (NNS shares)) (VP (VBP have) (VP (VBN been) (VP (VBG trading) (PP (IN at) (CC or) (PP (IN above) (NP (NP (NNP Mr.) (NNP Green) (POS 's)) (NN offering) (NN price)))) (PP (IN for) (NP (DT the) (JJ last) (JJ several) (NNS months))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (NNP Bancroft) (NNS attorneys)) (VP (VBP are) (VP (VBN scheduled) (S (VP (TO to) (VP (VB meet) (PP (IN with) (NP (NP (NP (NNP Mr.) (NNP Green) (POS 's)) (NNS attorneys)) (PP (IN in) (NP (NNP Delaware) (NNP Chancery) (NNP Court))))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT this) (NN week))))) (S (VP (TO to) (VP (VB respond) (PP (TO to) (NP (NP (NP (DT the) (NN investor) (POS 's)) (NN request)) (PP (IN for) (NP (NN company) (NNS records))) (PP (IN for) (NP (DT the) (JJ past) (CD five) (NNS years)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Green)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached)))) (. .)))
+

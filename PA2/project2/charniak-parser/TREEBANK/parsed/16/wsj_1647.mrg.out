@@ -1,0 +1,98 @@
+(S1 (S (S (NP (NP (DT The) (CD 1986) (NN tax) (NN overhaul)) (, ,) (NP (NP (DT the) (JJS biggest) (NN achievement)) (PP (IN of) (NP (NP (NNP President) (NNP Reagan) (POS 's)) (JJ second) (NN term)))) (, ,)) (VP (VBZ is) (VP (VBG beginning) (S (VP (TO to) (VP (VB fall) (ADVP (RB apart)))))))) (, ,) (CC and) (S (NP (NN interest) (NNS groups)) (VP (VBP are) (NP (NP (NN lining)) (PP (IN up) (PP (IN for) (NP (NP (NN tax) (NNS goodies)) (PP (ADVP (DT all)) (IN over) (NP (NNP Capitol) (NNP Hill))))))))) (. .)))
+
+(S1 (S (NP (NN Real-estate) (NNS executives)) (VP (VBP are) (VP (VBG lobbying) (S (VP (TO to) (VP (VB ease) (NP (JJ anti-tax-shelter) (NNS rules))))))) (. .)))
+
+(S1 (S (NP (JJ Charitable) (NNS groups)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB reinstate) (NP (NP (DT the) (NN write-off)) (PP (IN for) (NP (NP (NNS contributions)) (VP (VBN made) (PP (IN by) (NP (NP (NNS individuals)) (SBAR (WHNP (WP who)) (S (VP (VBP do) (RB n't) (VP (VB itemize) (NP (PRP$ their) (NNS deductions))))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Big) (NN auction) (NNS houses)) (VP (VBP want) (S (VP (TO to) (VP (VB make) (S (NP (NNP collectibles)) (ADJP (JJ eligible) (PP (IN for) (NP (JJR lower) (JJ capital-gains) (NNS taxes))))))))) (. .)))
+
+(S1 (S (CC And) (NP (JJ heavy-industry) (NNS lobbyists)) (VP (VBP are) (ADVP (RB quietly)) (VP (VBG discussing) (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG reinstating) (NP (DT the) (NN investment) (NN tax) (NN credit)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NN Everything)) (VP (VBZ is) (PP (IN up) (PP (IN for) (NP (NNS grabs))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Theodore) (NNP Groom)) (, ,) (NP (NP (DT a) (NN lobbyist)) (PP (IN for) (NP (JJ mutual) (NN life-insurance) (NNS companies))))) (. .)))
+
+(S1 (SINV (VP (VBZ Adds)) (NP (NP (NNP Robert) (NNP Juliano)) (, ,) (NP (NP (DT the) (NN head) (NN lobbyist)) (PP (IN for) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (NNS interests)) (SBAR (WHNP (WDT that)) (S (VP (VBP want) (S (VP (TO to) (VP (VB protect) (NP (NP (DT the) (NN tax) (NN deduction)) (PP (IN for) (NP (NP (NN travel)) (CC and) (NP (NN entertainment) (NNS expenses))))))))))))))))) (: :) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ appears) (SBAR (IN as) (IN though) (S (NP (DT the) (JJ whole) (NN thing)) (VP (VBZ is) (RB wide) (ADJP (JJ open)) (ADVP (RB again)))))) (. .) ('' ')) (: ')))
+
+(S1 (S (NP (DT The) (NN catalyst)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (JJ congressional) (NN move)) (SBAR (S (VP (TO to) (VP (VB restore) (NP (NP (JJ preferential) (NN tax) (NN treatment)) (PP (IN for) (NP (NN capital) (NNS gains))))))))) (, ,) (NP (NP (DT an) (NN effort)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB succeed) (PP (IN in) (NP (DT this) (NNP Congress))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Other) (JJ fundamental) (`` `) (NX (`` `) (NNS reforms) ('' ')) ('' ')) (PP (IN of) (NP (DT the) (CD 1986) (NN act)))) (VP (VBP have) (VP (VBN been) (VP (VBN threatened) (ADVP (RB as) (RB well))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP House)) (ADVP (RB seriously)) (VP (VBD considered) (S (VP (VBG raising) (NP (NP (DT the) (JJ top) (NN tax) (NN rate)) (VP (VBN paid) (PP (IN by) (NP (NP (NNS individuals)) (PP (IN with) (NP (DT the) (JJS highest) (NNS incomes)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Senate) (NNP Finance) (NNP Committee)) (VP (VBD voted) (S (VP (VP (TO to) (VP (VB expand) (NP (NP (DT the) (NN deduction)) (PP (IN for) (NP (JJ individual) (NN retirement) (NNS accounts)))))) (, ,) (CC and) (ADVP (RB also)) (VP (TO to) (VP (VP (VB bring) (ADVP (RB back)) (NP (NN income) (NN averaging)) (PP (IN for) (NP (NNS farmers)))) (, ,) (NP (NP (DT a) (NN tax) (NN preference)) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (NP (NN income)) (VP (TO to) (VP (VB be) (VP (VBN spread) (PRT (RP out)) (PP (IN over) (NP (JJ several) (NNS years)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (JJ same) (NN bill))))) (, ,) (NP (DT the) (NN finance) (NN panel)) (ADVP (RB also)) (VP (VBD voted) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (NP (NNS billions)) (PP (IN of) (NP (NNS dollars))))))) (PP (IN in) (NP (NP (JJ narrow) (NN tax) (NNS breaks)) (PP (IN for) (NP (NNS individuals) (CC and) (NNS corporations))))) (, ,) (PP (IN in) (SBAR (WHNP (WP what)) (S (NP (NP (NN committee) (NN member) (NNP Sen.) (NNP David) (NNP Pryor)) (PRN (-LRB- -LRB-) (NP (NNP D.)) (, ,) (NP (NNP Ark) (. .)) (-RRB- -RRB-))) (VP (VBZ calls) (NP (DT a) (`` `) (NP (`` `) (NN feeding) (NN frenzy) ('' ')) ('' ') (PP (IN of) (NP (JJ special-interest) (NN legislating))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS beneficiaries)) (VP (MD would) (VP (VB range) (PP (PP (IN from) (NP (NP (NN pineapple) (NNS growers)) (PP (TO to) (NP (JJ rich) (NNS grandparents))))) (PP (TO to) (NP (JJ tuxedo-rental) (NNS shops)))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB be) (ADJP (JJ sure))))) (, ,) (NP (NP (DT the) (JJ full) (NNP Senate)) (, ,) (VP (VBG facing) (NP (NP (DT a) (JJ fast-approaching) (NN budget) (NN deadline)) (, ,) (NP (JJ last) (NNP Friday))))) (VP (VBN stripped) (PRT (RP away)) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT the) (NN tax) (NNS breaks)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN contained) (PP (IN in) (NP (DT the) (NNP Finance) (NNP Committee) (NN bill))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNS lawmakers)) (PP (IN of) (NP (DT both) (NNS parties)))) (VP (VBP agree) (SBAR (IN that) (S (NP (DT the) (NN streamlining)) (VP (VBD was) (ADJP (JJ temporary)))))) (. .)))
+
+(S1 (S (NP (JJ Other) (NNS bills)) (VP (MD will) (VP (VB be) (VP (VBG moving) (ADVP (RB soon)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB carry) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NN tax) (NNS cuts)) (, ,) (PP (VBG including) (NP (DT both) (DT the) (JJ capital-gains) (CC and) (NNP IRA) (NNS provisions)))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (EX There)) (VP (VBZ is) (RB n't) (NP (DT any) (NN doubt) (SBAR (IN that) (S (NP (NP (DT the) (NN thread)) (PP (IN of) (NP (DT the) (CD '86) (NN code)))) (VP (VBZ has) (VP (VBN been) (VP (VBN given) (NP (DT a) (JJ mighty) (NN tug))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Rep.) (NNP Thomas) (NNP Downey)) (PRN (-LRB- -LRB-) (NP (NNP D.)) (, ,) (NP (NNP N.Y) (. .)) (-RRB- -RRB-))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP You)) (VP (MD 'll) (VP (VB see) (NP (NP (DT the) (JJ annual) (NN unraveling)) (PP (IN of) (NP (PRP it)))))) (. .) ('' ')) ('' ')))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADVP (RB back) (PP (TO to) (NP (JJ tax-give-away) (NN time)))) (PP (IN for) (NP (DT the) (JJ select) (JJ few)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Rep.) (NNP William) (NNP Gray)) (PP (IN of) (NP (NP (NNP Pennsylvania)) (, ,) (NP (NP (DT the) (JJ third-ranking) (NNP Democrat)) (PP (IN in) (NP (DT the) (NNP House))))))) (. .)))
+
+(S1 (S (S (VP (VBG Referring) (PP (TO to) (NP (NP (DT the) (NNS chairmen)) (PP (IN of) (NP (DT the) (NNP Senate) (CC and) (NNP House) (JJ tax-writing) (NNS committees))))))) (, ,) (NP (PRP he)) (VP (VBZ adds) (, ,) (`` `) (S (S (`` `) (NP (JJ Next) (NN year))) (, ,) (NP (DT every) (JJ special-interest) (NN group)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB there)) (VP (VBG knocking) (PP (IN on) (NP (NP (NNP Lloyd) (NNP Bentsen) (POS 's)) (NN door))) (, ,) (PP (IN on) (NP (NP (NNP Danny) (NNP Rostenkowski) (POS 's)) (NN door))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (JJ Many) (NNS groups)) (VP (VBP are) (RB n't) (VP (VBG waiting) (S (NP (DT that)) (ADJP (RB long))))) (. .)))
+
+(S1 (S (NP (RB Just) (JJ last) (NN week)) (, ,) (NP (DT a) (NNP House) (NNP Ways) (CC and) (NNP Means) (NN subcommittee)) (VP (VBD held) (NP (NP (DT a) (JJ lengthy) (NN meeting)) (SBAR (S (VP (TO to) (VP (VB hear) (NP (NP (DT the) (NNS pleas)) (PP (IN of) (NP (NP (JJ individual) (NNS cities)) (, ,) (NP (NNS companies)) (CC and) (NP (NN interest) (NNS groups)))) (SBAR (WHNP (WP who)) (S (VP (VBP want) (S (VP (TO to) (VP (VB open) (NP (PRP$ their) (JJ own) (JJ special) (NNS loopholes))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (JJ Swiss-cheese) (NN factory)))) (CC and) (S (NP (DT the) (NN cheese)) (VP (VBZ smells) (ADJP (RB pretty) (JJ good))))) (, ,) ('' ') ('' ') (VP (VBD commented)) (NP (CD one) (JJ veteran) (NN lobbyist) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBG watching) (NP (DT the) (NNS proceedings))))))) (. .)))
+
+(S1 (S (NP (NP (NP (RB Even) (NNS lobbyists)) (PP (IN for) (NP (JJ heavy) (NN industry)))) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS interests)) (VP (VBN hit) (ADVP (RBS hardest)) (PP (IN in) (NP (DT the) (CD 1986) (NN bill))))))) (, ,)) (VP (VBP are) (ADJP (JJ encouraged))) (. .)))
+
+(S1 (SINV (S (NP (NP (DT The) (NN return)) (PP (IN of) (NP (NP (JJ pro-investment) (NN tax) (NNS breaks)) (PP (JJ such) (IN as) (NP (NP (DT those)) (PP (IN for) (NP (NP (NN capital) (NNS gains)) (CC and) (NP (NNS IRAs))))))))) (`` `) (VP (`` `) (VBZ creates) (NP (NP (JJR more)) (PP (IN of) (NP (NP (DT a) (NN mood)) (CC or) (NP (NP (DT a) (NN mindset)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ helpful) (PP (IN for) (S (VP (VBG getting) (NP (NP (NP (JJR better) (NN depreciation)) (PRN (-LRB- -LRB-) (NNS write-offs) (-RRB- -RRB-))) (CC or) (NP (NN investment) (NNS credits)))))))))))))) (, ,) ('' ')) ('' ')) (VP (VBZ says)) (NP (NP (NNP Paul) (NNP Huard)) (, ,) (NP (NP (DT a) (NN vice) (NN president)) (PP (IN for) (NP (NP (DT the) (NNP National) (NNP Association)) (PP (IN of) (NP (NNPS Manufacturers))))))) (. .)))
+
+(S1 (S (NP (JJ Corporate) (NN lobbyist) (NNP Charls) (NNP Walker)) (VP (VBZ is) (VP (VBG planning) (NP (DT a) (NN spring) (NN conference)) (S (VP (TO to) (VP (VB discuss) (SBAR (WHNP (WP what)) (S (NP (NN tax) (NNS changes)) (VP (TO to) (VP (VB make) (S (VP (TO to) (VP (VB improve) (`` `) (S (`` `) (NP (NN competitiveness))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (NP (NN reaction)) (PP (TO to) (NP (VBN proposed) (NNS capital-gains) (NN legislation))))) (, ,) (NP (NNS groups)) (VP (VBP are) (VP (VBG lobbying) (S (VP (TO to) (VP (VB make) (ADJP (JJ sure) (SBAR (S (NP (PRP they)) (VP (VBP are) (RB n't) (VP (VBN left) (PP (IN off) (NP (DT the) (NN gravy) (NN train))))))))))))) (. .)))
+
+(S1 (S (S (NP (NN Real-estate) (NNS interests)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBP are) (VP (VBG protesting) (NP (NP (DT an) (NN omission)) (PP (IN in) (NP (NP (NNP President) (NNP Bush) (POS 's)) (JJ capital-gains) (NN proposal))))))) (: :) (S (NP (PRP It)) (VP (VBZ does) (RB n't) (VP (VB include) (NP (NN real-estate) (NNS gains))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (IN If) (S (NP (EX there)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN tax) (NN scheme)) (SBAR (WHNP (WDT that)) (S (VP (VBZ contemplates) (NP (NP (JJR lower) (NN treatment)) (PP (IN of) (NP (NN capital) (NNS gains))))))))))))))) (, ,) (NP (PRP they)) (ADVP (RB certainly)) (VP (VBP want) (S (VP (TO to) (VP (VB be) (NP (NP (NN part)) (PP (IN of) (NP (PRP it)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NN real-estate) (NN lobbyist) (NNP Wayne) (NNP Thevenot)) (PP (IN of) (NP (NNP Concord) (NNPS Associates)))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (DT the) (JJ House-passed) (NN tax) (NN bill))) (, ,) (NP (NNP Mr.) (NNP Thevenot)) (VP (VBD got) (NP (PRP$ his) (NN wish)))) (: ;) (S (NP (NN real-estate) (NNS assets)) (VP (VBP are) (VP (VBN included) (PP (IN in) (NP (DT the) (NNS capital-gains) (NN provision)))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Sotheby) (POS 's)) (, ,) (NP (NNP Christie) (POS 's)) (CC and) (NP (NP (DT the) (NNP National) (NNP Association)) (PP (IN of) (NP (JJ Antique) (NNS Dealers))))) (VP (VBP are) (ADVP (RB still)) (VP (VBG trying) (S (VP (TO to) (VP (VB get) (NP (PRP theirs))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP have) (VP (VBN sent) (NP (NP (DT a) (NN letter)) (PP (TO to) (NP (JJ congressional) (NNS tax-writers))) (VP (VBG asking) (SBAR (IN that) (S (NP (NP (NNS gains)) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NNP collectibles)))))) (ADVP (RB also)) (VP (VB be) (VP (VBN given) (NP (JJ preferential) (NN treatment)))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNP Collectibles)) (VP (MD should) (VP (VB continue) (S (VP (TO to) (VP (VB be) (VP (VBN recognized) (PP (IN as) (NP (NN capital) (NNS assets)))))))))) (, ,) ('' ') ('' ') (NP (DT the) (NN letter)) (VP (VBZ states)) (. .)))
+
+(S1 (S (NP (NP (DT All)) (PP (IN of) (NP (DT this) (NN talk)))) (VP (VBZ is) (ADJP (JJ antithetical) (PP (TO to) (NP (NP (DT the) (NNP Tax) (NNP Reform) (NNP Act)) (PP (IN of) (NP (CD 1986))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN exchange)) (PP (IN for) (NP (ADJP (RB dramatically) (JJR lower)) (NN tax) (NNS rates))))) (, ,) (NP (NP (DT the) (NNS framers)) (PP (IN of) (NP (DT that) (NN legislation)))) (VP (VBD sought) (S (VP (TO to) (VP (VB eliminate) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (NNS exemptions) (, ,) (NNS deductions) (CC and) (NNS credits)) (SBAR (WHNP (WDT that)) (S (VP (VBD gave) (NP (DT some) (NNS taxpayers)) (NP (NP (DT an) (NN advantage)) (PP (IN over) (NP (NNS others)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN goal)) (VP (VBD was) (S (VP (VP (TO to) (VP (NN tax) (NP (NP (NNS people)) (PP (IN with) (NP (ADJP (RB roughly) (JJ equivalent)) (NNS incomes)))) (ADVP (RB equally)))) (, ,) (CC and) (VP (TO to) (VP (VB eliminate) (NP (NP (DT the) (JJ many) (NNS shelters)) (SBAR (WHNP (WDT that)) (S (VP (VBD allowed) (S (NP (DT the) (JJ wealthy)) (VP (TO to) (VP (VB escape) (NP (NNS taxes)))))))))))))) (. .)))
+
+(S1 (NP (NP (CD Two)) (PP (IN of) (NP (NP (DT the) (JJ major) (NNS ways)) (SBAR (WHNP (IN that)) (S (NP (NNS tax-writers)) (VP (VBD managed) (S (VP (TO to) (VP (VB attain) (SBAR (S (NP (DT these) (NNS ends)) (VP (VBD were) (S (VP (VP (TO to) (VP (VB scrap) (NP (NP (DT the) (JJ preferential) (NN treatment)) (PP (IN of) (NP (NN capital) (NNS gains)))))) (CC and) (VP (TO to) (VP (VB curtail) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN paper) (NNS losses))) (, ,) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (NP (JJ passive) (NNS losses)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBD made) (S (NP (JJ many) (NN tax) (NNS shelters)) (ADJP (JJ possible))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Many) (JJ other) (NN tax) (NNS benefits)) (ADVP (RB also)) (VP (VBD were) (VP (VBN swept) (ADVP (RB away)))) (. .)))
+
+(S1 (S (NP (DT This) (NN year) (NNP Congress)) (, ,) (PP (IN with) (NP (NP (VBG prodding)) (PP (IN from) (NP (NNP President) (NNP Bush))))) (, ,) (VP (VBZ has) (VP (VBN been) (ADJP (JJ busy) (S (VP (VBG trying) (S (VP (TO to) (VP (VB put) (NP (NP (JJ many)) (PP (IN of) (NP (DT these) (JJ same) (NN tax) (NNS preferences)))) (ADVP (RB back) (PP (IN into) (NP (DT the) (NN code)))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ appears) (ADJP (JJ likely)) (SBAR (WHNP (IN that)) (, ,) (NP (DT this) (NN year) (CC or) (JJ next)) (, ,) (S (NP (NP (DT some) (NN form)) (PP (IN of) (NP (NP (NNS capital-gains) (NN preference)) (CC and) (NP (JJ passive-loss) (NN restoration))))) (VP (MD will) (VP (VB be) (VP (VBN enacted))))))) (. .)))
+
+(S1 (S (NP (JJ Other) (NN tax) (NNS benefits)) (ADVP (RB probably)) (VP (MD will) (VP (VB be) (VP (VBN restored) (CC and) (VBN created)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ main) (NN obstacle)) (VP (VBZ is) (VP (VBG finding) (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB pay) (PP (IN for) (NP (PRP them)))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (CD '86) (NN act))) (VP (VBD was) (NP (DT a) (NN fluke))) (. .)))
+
+(S1 (SINV (S (S (NP (PRP They)) (VP (VBD wanted) (NP (NN reform)))) (CC and) (S (NP (PRP they)) (VP (VBD got) (NP (DT a) (NN revolution))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NN overhaul) (NN advocate) (NNP Rep.) (NNP Willis) (NNP Gradison)) (PRN (-LRB- -LRB-) (NP (NP (NNP R.)) (, ,) (NP (NNP Ohio))) (-RRB- -RRB-))) (. .)))
+
+(S1 (SBARQ (RB So) (, ,) (SQ (VBZ is) (NP (DT the) (NN tax) (NN code)) (ADVP (RB now)) (VP (VB open) (NP (NN game)) (ADVP (RB again)))) (. ?)))
+
+(S1 (S (NP (NNP Mr.) (NNP Juliano)) (VP (VBZ thinks) (ADJP (RB so))) (. .)))
+
+(S1 (S (NP (NP (CD One) (JJ recent) (NNP Saturday) (NN morning)) (SBAR (S (NP (PRP he)) (VP (VBD stayed) (PP (IN inside) (NP (DT the) (NNP Capitol) (NN monitoring) (NN tax-and-budget))))))) (VP (VBZ talks) (PP (RB instead) (IN of) (S (VP (VBG flying) (PP (TO to) (NP (NNP San) (NNP Francisco))) (UCP (PP (IN for) (NP (DT a) (NN fund-raiser))) (CC and) (ADVP (RB then) (PP (TO to) (NP (NP (PRP$ his) (NN hometown)) (PP (IN of) (NP (NNP Chicago))) (PP (IN for) (NP (NP (DT the) (JJ 30th) (NN reunion)) (PP (IN of) (NP (NNP St.) (NNP Ignatius) (NNP High) (NNP School))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (S (`` `) (NP (PRP I)) (VP (VBP 'm) (ADJP (RB too) (JJ old) (S (VP (TO to) (VP (VB waste) (NP (DT a) (NN weekend)))))))) (, ,) (CC but) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBD did))))))) (, ,) ('' ') ('' ') (NP (DT the) (JJ 48-year-old) (NNP Mr.) (NNP Juliano)) (VP (VBZ moans)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT These) (NNS days))) (, ,) (NP (NN anything)) (VP (MD can) (VP (VB happen))) (. .)))
+

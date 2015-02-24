@@ -1,0 +1,74 @@
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (NP (NNP Richard) (NNP Nixon) (POS 's)) (JJ first) (NN visit)) (PP (TO to) (NP (NNP China)))) (PP (IN in) (NP (CD 1972))) (SBAR (WHNP (WDT that)) (S (VP (VBD set) (PP (IN in) (NP (NN motion))) (NP (NP (DT the) (JJ historic) (NN rapprochement)) (PP (IN between) (NP (NP (NNP Beijing)) (CC and) (NP (NNP Washington))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NP (DT the) (JJ former) (NNP U.S.) (NN president) (POS 's)) (JJ sixth) (NN visit)) (PP (TO to) (NP (NNP China))) (, ,) (SBAR (WHPP (IN during) (WHNP (WDT which))) (S (NP (PRP he)) (VP (VBD spoke) (PP (IN at) (NP (NN length))) (PP (IN with) (NP (JJ Chinese) (NNS leaders)))))) (, ,)) (VP (VBD was) (ADVP (ADVP (RB nowhere) (RB near)) (SBAR (IN as) (FRAG (ADJP (JJ successful) (PP (IN at) (S (VP (VBG easing) (NP (NP (NNS strains)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (ADVP (RB recently)) (VP (VBN afflicted) (NP (DT the) (JJ Sino-U.S.) (NN relationship))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Nixon)) (PRN (, ,) (S (NP (DT the) (ADJP (RBS most) (JJ prominent)) (NNP American)) (VP (TO to) (VP (VB come) (PP (TO to) (NP (NP (NP (NP (NNP China)) (PP (IN since) (NP (NNP Beijing))) (POS 's)) (JJ bloody) (NN suppression)) (PP (IN of) (NP (JJ pro-democracy) (NNS demonstrators))))) (PP (IN in) (NP (NNP June)))))) (, ,)) (VP (VBD harped) (PP (IN on) (NP (NP (JJ international) (NN outrage)) (PP (IN over) (NP (DT the) (NN massacre)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Chinese)) (, ,) (PP (IN in) (NP (NN turn))) (, ,) (VP (VBD took) (NP (NN aim)) (PP (IN at) (NP (NNP American) (`` `) (NP (`` `) (NN interference) ('' ')) ('' ') (PP (IN in) (NP (NP (NNP China) (POS 's)) (JJ domestic) (NNS affairs)))))) (. .)))
+
+(S1 (S (NP (NP (CD One) (JJ official) (NN newspaper)) (, ,) (NP (NNP Legal) (NNP Daily)) (, ,)) (ADVP (RB even)) (VP (ADVP (RB directly)) (VBD criticized) (NP (NP (NNP Mr.) (NNP Nixon)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADVP (RB normally)) (VP (VBN referred) (PP (TO to) (NP (RB here))) (PP (IN as) (NP (DT an) (`` `) (NX (`` `) (NP (JJ old) (NN friend))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN paper)) (VP (VBD accused) (NP (PRP him)) (PP (IN of) (S (VP (VBG being) (NP (NP (DT a) (JJ leading) (NN proponent)) (PP (IN of) (NP (`` `) (NP (`` `) (JJ peaceful) (NN evolution) (, ,) ('' ')) ('' ') (NP (NP (DT a) (NN catch) (NN phrase)) (SBAR (S (VP (TO to) (VP (VB describe) (SBAR (WHNP (WP what)) (S (NP (NNP China)) (VP (VBZ believes) (SBAR (S (VP (VBZ is) (NP (NP (DT the) (NN policy)) (PP (IN of) (NP (NNP Western) (NNS countries) (S (VP (TO to) (VP (VB seduce) (NP (JJ socialist) (NNS nations)) (PP (IN into) (NP (DT the) (JJ capitalist) (NN sphere))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN tension)) (VP (VBD was) (ADJP (JJ evident)) (PP (IN on) (NP (NP (NNP Wednesday) (NN evening)) (PP (IN during) (NP (NP (NNP Mr.) (NNP Nixon) (POS 's)) (JJ final) (NN banquet) (NN toast))))) (, ,) (ADVP (RB normally)) (NP (NP (DT an) (NN opportunity)) (PP (IN for) (S (VP (VBG reciting) (NP (NP (NNS platitudes)) (PP (IN about) (NP (JJ eternal) (NN friendship))))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (NNP Mr.) (NNP Nixon)) (VP (VBD reminded) (NP (NP (PRP$ his) (NN host)) (, ,) (NP (NNP Chinese) (NNP President) (NNP Yang) (NNP Shangkun)) (, ,)) (SBAR (IN that) (S (NP (NNPS Americans)) (VP (VBP have) (RB n't) (VP (VBN forgiven) (NP (NP (NNP China) (POS 's)) (NNS leaders)) (PP (IN for) (NP (NP (DT the) (JJ military) (NN assault)) (PP (IN of) (NP (NNP June) (CD 3-4))) (SBAR (WHNP (WDT that)) (S (VP (VBD killed) (NP (NP (NNS hundreds)) (PRN (, ,) (CC and) (ADVP (RB perhaps)) (NP (NNS thousands)) (, ,)) (PP (IN of) (NP (NNS demonstrators)))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NP (JJ Many)) (PP (IN in) (NP (DT the) (NNP United) (NNPS States))) (, ,) (PP (VBG including) (NP (NP (JJ many) (NNS friends)) (PP (IN of) (NP (NNP China))))) (, ,)) (VP (VBP believe) (SBAR (S (NP (DT the) (NN crackdown)) (VP (VBD was) (ADJP (JJ excessive) (CC and) (JJ unjustified))))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Nixon)) (VP (VBD told) (NP (NP (NNP Mr.) (NNP Yang)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADJP (RB directly) (JJ involved) (PP (IN in) (S (VP (VBG ordering) (NP (DT the) (NN attack))))))))))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (NP (DT The) (NNS events)) (PP (IN of) (NP (NP (NNP April)) (PP (IN through) (NP (NNP June)))))) (VP (VBD damaged) (NP (NP (DT the) (NN respect) (CC and) (NN confidence)) (SBAR (WHNP (WDT which)) (S (NP (JJS most) (NNPS Americans)) (ADVP (RB previously)) (VP (VBD had) (PP (IN for) (NP (NP (DT the) (NNS leaders)) (PP (IN of) (NP (NNP China)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NNPS Chinese)) (VP (VBD responded) (PP (IN in) (NP (DT an) (ADJP (RB equally) (JJ undiplomatic)) (NN fashion)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNS talks)) (PP (IN with) (NP (NNP Mr.) (NNP Nixon))))) (, ,) (NP (JJ Chinese) (NNS leaders)) (VP (VP (VBD expressed) (NP (NP (DT no) (NN regret)) (PP (IN for) (NP (DT the) (NNS killings))))) (, ,) (CC and) (ADVP (RB even)) (VP (VBD suggested) (SBAR (IN that) (S (NP (DT the) (NNP U.S.)) (VP (VBD was) (ADVP (RB prominently)) (VP (VBN involved) (PP (IN in) (NP (DT the) (NNS demonstrations))) (NP (DT this) (NN spring)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN meeting)) (NP (NNP Tuesday)))) (, ,) (NP (NP (JJ supreme) (NN leader)) (, ,) (NP (NNP Deng) (NNP Xiaoping)) (, ,)) (VP (VBD told) (NP (NNP Mr.) (NNP Nixon)) (, ,) (`` `) (S (`` `) (S (VP (ADVP (RB Frankly)) (VBG speaking))) (, ,) (NP (DT the) (NNP U.S.)) (VP (VBD was) (VP (VBN involved) (ADVP (RB too) (RB deeply)) (PP (IN in) (NP (NP (DT the) (NX (NX (NN turmoil)) (CC and) (NX (JJ counterrevolutionary) (NN rebellion)))) (SBAR (WHNP (WDT which)) (S (VP (VBD occurred) (PP (IN in) (NP (NNP Beijing))) (ADVP (RB not) (RB long) (RB ago))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP China)) (VP (VBD was) (NP (DT the) (JJ real) (NN victim)))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ unjust) (S (VP (TO to) (VP (VB reprove) (NP (NNP China)) (PP (IN for) (NP (PRP it))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN Despite) (NP (DT the) (JJ harsh) (NNS exchanges))) (, ,) (NP (NP (DT the) (NNP U.S.)) (CC and) (NP (NNP China))) (ADVP (RB still)) (VP (VBP seem) (S (VP (TO to) (VP (VB be) (VP (VBG looking) (PP (IN for) (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB mend) (NP (NP (NNS relations)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (VP (VBN deteriorated) (PP (IN into) (SBAR (WHNP (WP what)) (S (NP (NNP Mr.) (NNP Nixon)) (VP (VBD referred) (PP (TO to)) (PP (IN as) (NP (`` `) (NP (`` `) (NP (DT the) (JJS greatest) (NN crisis)) (PP (IN in) (NP (JJ Chinese-American) (NNS relations))) ('' ')) ('' ') (PP (IN since) (NP (NP (PRP$ his) (JJ initial) (NN visit)) (PP (TO to) (NP (NNP China))) (ADVP (NP (CD 17) (NNS years)) (RB ago)))))))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (PRP$ his) (NN return) (NN toast)) (PP (TO to) (NP (NNP Mr.) (NNP Nixon))))) (, ,) (NP (NNP Mr.) (NNP Yang)) (VP (VBD said) (SBAR (S (NP (DT the) (NN relationship)) (VP (VBD had) (VP (VBN reached) (NP (DT a) (`` `) (`` `) (NN stalemate))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNS Relations)) (PP (IN between) (NP (NP (NNP China)) (CC and) (NP (DT the) (NNP U.S.))))) (VP (VBP have) (VP (VBN been) (ADJP (JJ tense)) (PP (IN since) (NP (NP (NNP June) (CD 7)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNP Chinese) (NN dissident) (NNP Fang) (NNP Lizhi)) (CC and) (NP (NP (PRP$ his) (NN wife)) (, ,) (NP (NNP Li) (NNP Shuxian)) (, ,))) (VP (VBD took) (NP (NN refuge)) (PP (IN in) (NP (NP (DT the) (NNP U.S.) (NNP Embassy)) (PP (IN in) (NP (NNP Beijing)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Shortly) (RB afterwards)) (, ,) (NP (NNP Mr.) (NNP Bush)) (VP (VBD imposed) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (JJ anti-China) (NNS sanctions)) (, ,) (PP (VBG including) (NP (NP (NN suspension)) (PP (IN of) (NP (JJS most) (JJ high-level) (NNS talks))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD could) (VP (VB be) (VP (VBN codified) (PP (IN in) (NP (NNP U.S.) (JJ congressional) (NN legislation))) (PP (IN in) (NP (DT the) (VBG coming) (NNS weeks)))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Nixon)) (VP (VBZ is) (VP (VBG traveling) (PP (IN in) (NP (NNP China))) (PP (IN as) (NP (DT a) (JJ private) (NN citizen)))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ has) (VP (VBN made) (S (ADJP (JJ clear)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ is) (NP (NP (DT an) (JJ unofficial) (NN envoy)) (PP (IN for) (NP (DT the) (NNP Bush) (NN administration))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Nixon)) (VP (VBD met) (NP (NP (NNP Mr.) (NNP Bush)) (CC and) (NP (NP (PRP$ his) (JJ national) (NN security) (NN adviser)) (, ,) (NP (NNP Brent) (NNP Scowcroft)) (, ,))) (PP (IN before) (S (VP (VBG coming) (PP (TO to) (NP (NNP China)))))) (PP (IN on) (NP (NNP Saturday)))) (. .)))
+
+(S1 (S (S (CC And) (NP (PRP he)) (VP (VBZ plans) (S (VP (TO to) (VP (VB brief) (NP (DT the) (NN president)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN week)))))))))) (, ,) (NP (NNP U.S.) (NNS sources)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Nixon)) (VP (VBD was) (S (VP (TO to) (VP (VB leave) (NP (NNP China)) (NP (NN today)))))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NP (DT an) (NNP American) (NN member)) (PP (IN of) (NP (DT the) (NNP Nixon) (NN party)))))) (, ,) (NP (DT the) (JJ former) (NN president)) (VP (VBD raised) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ controversial) (NNS issues)))) (PP (IN in) (NP (NP (PRP$ his) (CD 20) (NNS hours)) (PP (IN of) (NP (NP (NNS talks)) (PP (IN with) (NP (JJ top-level) (JJ Chinese) (NNS officials)))))))) (. .)))
+
+(S1 (S (NP (DT These)) (VP (VBD included) (NP (NP (NP (NNP China) (POS 's)) (JJ economic) (NNS policies)) (, ,) (NP (JJ human) (NNS rights)) (CC and) (NP (NP (DT the) (NN question)) (PP (IN of) (NP (NNP Mr.) (NNP Fang)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Nixon)) (ADVP (RB also)) (VP (VBD proposed) (SBAR (IN that) (S (NP (NNP China)) (VP (VB restore) (NP (NP (PRP$ its) (NN participation)) (PP (IN in) (NP (NP (DT the) (NNP Fulbright) (NNP Program)) (, ,) (NP (DT a) (NNP U.S.) (JJ government-funded) (JJ academic) (NN exchange))))))))) (. .)))
+
+(S1 (S (NP (NNP China)) (VP (VBD pulled) (PP (IN out) (PP (IN of) (NP (DT the) (NN program)))) (PP (IN in) (NP (NNP July)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (PRP$ his) (NNS talks))) (, ,) (NP (DT the) (JJ former) (NN president)) (VP (VBD urged) (NP (NP (NNP China) (POS 's)) (NNS leaders)) (S (VP (TO to) (VP (VP (VB acknowledge) (SBAR (IN that) (S (NP (PRP$ their) (NN nation)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN world) (NN community)))))))) (CC and) (VP (VB welcome) (NP (NP (DT the) (NN infusion)) (PP (IN of) (NP (JJ outside) (NNS contacts) (CC and) (NNS ideas))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (NNS Ideas)) (VP (VBP are) (VP (VBG going) (PP (IN over) (NP (NNS borders)))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT no) (NNP SDI) (JJ ideological) (NN weapon)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB shoot) (NP (PRP them)) (PRT (RP down)))))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD told) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNPS Americans)))) (PP (IN at) (NP (DT the) (NNP U.S.) (NNP Embassy))) (PP (IN on) (NP (NNP Wednesday)))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBP are) (NP (NP (DT no) (NNS signs)) (PRN (, ,) (ADVP (RB however)) (, ,)) (PP (IN of) (NP (NP (NNP China) (POS 's)) (VP (VBG yielding) (PP (IN on) (NP (JJ key) (NNS issues)))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (CD one) (JJ minor) (NN matter))) (, ,) (NP (NNP Mr.) (NNP Nixon)) (VP (VBZ appears) (S (VP (TO to) (VP (VB have) (VP (VBN gained) (NP (DT a) (NN concession))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN meeting)) (PP (IN with) (NP (NNP Premier) (NNP Li) (NNP Peng))) (PP (IN on) (NP (NNP Monday))))) (, ,) (NP (NNP Mr.) (NNP Nixon)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD hoped) (SBAR (S (NP (PRP he)) (VP (MD would) (RB n't) (VP (VB encounter) (NP (NP (NNS guards)) (PP (IN with) (NP (NN machine) (NNS guns)))) (PP (IN during) (NP (NP (PRP$ his) (NN visit)) (PP (TO to) (NP (DT the) (NNP U.S.) (NNP Embassy))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Sure) (RB enough)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD arrived) (PP (IN at) (NP (DT the) (NN embassy))) (ADVP (NP (CD two) (NNS days)) (RB later))))) (, ,) (NP (DT the) (JJ machine-gun-toting) (NNS guards)) (VP (VBD were) (VP (VBN gone) (: --) (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN in) (NP (CD five) (NNS months))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (JJ few) (NNS blocks)) (RB away)) (, ,) (PP (IN at) (NP (NP (DT the) (NNP U.S.) (NN ambassador) (POS 's)) (NN residence))) (, ,) (NP (NP (DT the) (NNS guards)) (VP (VBG encircling) (NP (DT the) (NN compound)))) (ADVP (RB also)) (VP (VBD had) (VP (VBN discarded) (NP (PRP$ their) (JJ Uzi-model) (NNS arms)) (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN since) (NP (JJ early) (NNP June))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NP (DT the) (NNS guards)) (SBAR (S (NP (EX there)) (VP (VBD retained) (NP (PRP$ their) (NNS pistols)))))) (, ,) (CC and) (NP (DT a) (JJ large) (ADJP (JJ contingent) (PP (IN of) (NP (NNS plainclothes)))) (NNS police))) (VP (VBD remained) (ADJP (JJ nearby)) (PP (IN in) (NP (JJ unmarked) (NNS cars)))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (NP (NNS police)) (CC and) (NP (NNS soldiers))) (VP (VBP continue) (S (VP (TO to) (VP (VB harass) (NP (NP (NNPS Americans)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN filed) (NP (JJ several) (NNS protests)) (PP (IN with) (NP (DT the) (NNP Foreign) (NNP Ministry))) (PP (IN in) (NP (DT the) (NN past) (NN week)))))))))))) (. .)))
+
+(S1 (S (NP (JJ Several) (NNS times)) (, ,) (NP (JJ Chinese) (NNS guards)) (VP (VBP have) (VP (VP (VBN pointed) (NP (PRP$ their) (JJ automatic) (NNS rifles)) (PP (IN at) (NP (NP (JJ young) (NNS children)) (PP (IN of) (NP (NNP U.S.) (NNS diplomats)))))) (CC and) (VP (VBN clicked) (NP (DT the) (NN trigger))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS rifles)) (VP (VBD were) (RB n't) (VP (VBN loaded))) (. .)))
+

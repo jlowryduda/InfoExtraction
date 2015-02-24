@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Bausch) (CC &) (NNP Lomb) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NNS pharmaceuticals) (NN subsidiary)) (VP (VBD agreed) (S (VP (TO to) (VP (VB supply) (NP (NNP collagen) (NNP corneal) (NNP shields)) (PP (IN for) (NP (NN animal) (NN eye) (NN surgery))) (PP (TO to) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP International) (NNPS Minerals) (CC &) (NNP Chemical) (NNP Corp)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (NP (DT The) (NN agreement)) (VP (VBZ marks) (NP (NP (NP (NP (NNP Bausch) (CC &) (NNP Lomb)) (POS 's)) (JJ first) (NN venture)) (S (VP (VBG selling) (NP (PRP$ its) (NN eye) (NN care) (NNS products)) (PP (IN for) (NP (NP (NN use)) (PP (IN by) (NP (NNS veterinarians))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP collagen) (JJ corneal) (NN shield)) (VP (VBZ helps) (VP (VB speed) (NP (NP (NN healing)) (PP (IN of) (NP (DT the) (NN cornea)))) (PP (IN after) (NP (NN eye) (NN surgery))))) (. .)))
+
+(S1 (S (NP (DT The) (NN product)) (VP (MD will) (VP (VB be) (VP (VBN distributed) (PP (IN by) (NP (NP (NNP Pitman-Moore) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP International) (NNP Minerals))))))))) (. .)))
+

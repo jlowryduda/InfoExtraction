@@ -1,0 +1,82 @@
+(S1 (S (NP (JJ Many) (NNS investors)) (VP (VBP give) (NP (NNP Michael) (NNPS Foods)) (PP (IN about)) (PP (IN as) (NP (NP (JJ much) (NN chance)) (PP (IN of) (S (VP (VBG getting) (S (NP (PRP it)) (ADVP (RB together) (PP (IN as) (NP (NNP Humpty) (NNP Dumpty))))))))))) (. .)))
+
+(S1 (S (CC But) (ADVP (RB now) (ADVP (IN at) (JJS least))) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN glimmer)) (PP (IN of) (NP (NP (NN hope)) (PP (IN for) (NP (DT the) (NN stock))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Burger) (NNP King)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ breaks) (NP (NP (NNS thousands)) (PP (IN of) (NP (JJ fresh) (NNS eggs)))) (NP (DT each) (NN morning))))) (, ,)) (VP (VBZ is) (ADVP (RB quietly)) (VP (VBG switching) (ADVP (RB over)) (PP (TO to) (NP (NP (DT an) (JJ alternative) (NN egg) (NN product)) (VP (VBN made) (PP (IN by) (NP (NNP Michael) (NNP Foods)))))))) (. .)))
+
+(S1 (S (S (VP (VBN Known) (PP (IN as) (NP (JJ Easy) (NNS Eggs))))) (, ,) (NP (DT the) (NN product)) (VP (VBZ has) (VP (VBN disappointed) (NP (NNS investors)))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN company)) (NP (DT this) (NN month)) (VP (VBD announced) (NP (NP (JJ lower-than-forecast) (NNS sales)) (PP (IN of) (NP (JJ Easy) (NNS Eggs))))))) (, ,) (NP (DT the) (NN stock)) (VP (VBD dropped) (NP (QP (RB nearly) (CD 19)) (NN %))) (. .)))
+
+(S1 (SINV (S (NP (NNP Michael)) (VP (MD wo) (RB n't) (VP (VB confirm) (NP (NP (DT the) (NNS identities)) (PP (IN of) (NP (DT any) (JJ Easy) (NNP Egg) (NNS customers))))))) (, ,) (CC nor) (MD will) (NP (PRP it)) (VP (VB say) (NP (NP (JJ much)) (PP (IN of) (NP (NP (NN anything)) (ADJP (RB else)))))) (. .)))
+
+(S1 (S (NP (NP (CD Two) (NNP Minneapolis) (NN shareholder) (NNS suits)) (PP (IN in) (NP (DT the) (JJ past) (NN month)))) (VP (VBP have) (VP (VBN accused) (NP (JJ top) (NNS officers)) (PP (IN of) (S (VP (VBG making) (`` `) (NP (`` `) (JJ various) (JJ untrue) (NNS statements))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT These) (JJ federal-court) (NNS suits)) (VP (VBP accuse) (NP (DT the) (NNS officers)) (PP (IN of) (S (VP (VBG failing) (S (VP (TO to) (VP (VB disclose) (SBAR (IN that) (S (NP (JJ Easy) (NNS Eggs)) (VP (VBD were) (ADJP (JJ unlikely) (S (VP (TO to) (VP (VB sell) (ADVP (RB briskly) (RB enough) (S (VP (TO to) (VP (VB justify) (NP (NP (DT all)) (PP (IN of) (NP (NP (NNP Michael) (POS 's)) (NN production) (NN capacity)))))))))))))))))))))) (. .)))
+
+(S1 (S (CC But) (ADVP (IN at) (JJS least)) (NP (NNP Burger) (NNP King)) (VP (VP (VBZ has) (VP (VBN signed) (PRT (RP on)))) (, ,) (CC and) (VP (VBZ says) (SBAR (IN that) (S (PP (IN by) (NP (NN year) (NN end))) (NP (PRP it)) (VP (MD wo) (RB n't) (VP (VB be) (VP (VBG using) (NP (DT any) (NN shell) (NNS eggs))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Miami) (NN fast-food) (NN chain)) (, ,) (VP (VBN owned) (PP (IN by) (NP (NP (NNP Grand) (NNP Metropolitan)) (PP (IN of) (NP (NNP Britain)))))) (, ,)) (VP (VBZ expects) (S (VP (TO to) (VP (VB consume) (NP (NP (QP (RB roughly) (CD 34) (CD million)) (NNS pounds)) (PP (IN of) (NP (VBN liquefied) (NNS eggs)))) (ADVP (RB annually)))))) (. .)))
+
+(S1 (S (IN So) (NP (EX there)) (VP (VBZ is) (NP (NP (NN reason)) (SBAR (S (VP (TO to) (VP (VB believe) (SBAR (IN that) (S (NP (NP (NP (NNP Michael) (POS 's)) (NNS hopes)) (PP (IN for) (NP (DT a) (JJ bacteria-free) (, ,) (JJ long-shelf-life) (NN egg)))) (VP (VBD were) (RB n't) (NP (DT all) (NN hype))))))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (JJ Easy) (NNS Eggs)) (VP (VBP are) (VP (VBN pasteurized) (PP (IN in) (NP (DT a) (JJ heat-using) (NN process))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (NN caution)) (VP (VBZ is) (ADJP (JJ advisable))) (. .)))
+
+(S1 (S (NP (DT A) (NN company) (NN official)) (VP (VBZ says) (SBAR (S (NP (NP (NP (NNP Michael) (POS 's)) (JJ break-even) (NN volume)) (PP (IN on) (NP (JJ Easy) (NNS Eggs)))) (VP (VBZ is) (NP (NP (NP (QP (RB around) (CD 60) (CD million)) (NNS pounds)) (NP (DT a) (NN year))) (: --) (CONJP (RB apparently) (RB well) (IN above)) (NP (JJ current) (NNS shipments)) (CC and) (NP (NP (DT a) (JJ far) (NN cry)) (PP (IN from) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN company)) (ADVP (RB once)) (VP (VBD suggested) (SBAR (S (VP (VBD was) (NP (NP (DT a) (JJ billion-pound) (NN market)) (VP (VBG waiting) (PP (IN for) (NP (PDT such) (DT a) (NN product)))))))))))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Perhaps)) (VP (TO to) (VP (VB debunk) (NP (NP (NP (DT the) (NNS analysts) (POS ')) (NN talk)) (PP (IN of) (NP (NN over-capacity))))))) (, ,) (NP (NNP Michael) (NN today)) (VP (MD will) (VP (VB take) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS skeptics)))) (PP (IN on) (NP (NP (DT a) (NN tour)) (PP (IN of) (NP (PRP$ its) (JJ new) (NAC (NNP Gaylord) (, ,) (NNP Minn.) (, ,)) (NN plant))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT no) (NN announcement)) (PP (IN of) (NP (DT the) (NNP Burger) (NNP King) (NN arrangement))) (PP (IN by) (NP (DT either) (NN party)))) (, ,) (PP (ADVP (RB possibly)) (IN for) (NP (NN fear) (SBAR (IN that) (S (NP (NP (NNP McDonald) (POS 's)) (CC and) (NP (JJ other) (NN fast-food) (NNS rivals))) (VP (MD would) (VP (VB seize) (PP (IN on) (NP (PRP it))) (PP (IN in) (NP (JJ scornful) (NN advertising))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Burger) (NNP King) (NNS operators)) (ADVP (RB independently)) (VP (VBP confirm) (VP (VBG using) (NP (NP (NNP Michael) (POS 's)) (NN product)))) (. .)))
+
+(S1 (S (NP (JJ Other) (JJ institutional) (NNS users)) (ADVP (RB reportedly)) (VP (VBP include) (NP (NP (NNP Marriott)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG moving) (ADVP (RB away) (PP (IN from) (NP (JJ fresh) (NNS eggs)))) (PP (IN on) (NP (DT a) (JJ region-by-region) (NN basis))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN extent)) (PP (IN of) (NP (NP (NNP Marriott) (POS 's)) (NN use)))) (VP (VBZ is) (RB n't) (VP (VBN known)))) (, ,) (CC and) (S (NP (NNP Marriott) (NNS officials)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (NN comment))))))) (. .)))
+
+(S1 (S (NP (NNP Michael) (NNPS Foods)) (VP (VBZ has) (VP (VBN attracted) (NP (NP (DT a) (JJ good) (JJ many) (NNS short-sellers)) (, ,) (NP (NP (DT the) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP sell) (NP (NP (VBN borrowed) (NNS shares)) (PP (IN in) (NP (DT a) (NN bet) (SBAR (IN that) (S (NP (DT a) (NN stock) (NN price)) (VP (MD will) (VP (VB drop) (CC and) (VB allow) (NP (NP (DT the) (NN return)) (PP (IN of) (NP (JJR cheaper) (NNS shares))) (PP (TO to) (NP (DT the) (NN lender)))))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Many) (NNS analysts)) (VP (VBP question) (NP (NP (NN management) (POS 's)) (NN credibility))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (DT The) (NN stock)) (, ,) (PP (IN in) (NP (PRP$ my) (NN opinion))) (, ,) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB go) (ADJP (JJR lower)) (, ,) (PP (ADVP (RB not) (RB only)) (IN because) (IN of) (NP (NP (JJ disappointing) (NNS earnings)) (SBAR (S (CC but) (PRN (-LRB- -LCB-) (IN because) (-RRB- -RCB-)) (NP (DT the) (NN credibility) (NN gap)) (VP (VBZ is) (ADVP (RB certainly)) (RB not) (VP (VBG closing))))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP L.) (NNP Craig) (NNP Carver)) (PP (IN of) (NP (NNP Dain) (NNP Bosworth)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Carver)) (VP (VBZ says) (SBAR (IN that) (S (PP (IN at) (NP (NP (DT a) (JJ recent) (JJ Dain-sponsored) (NN conference)) (PP (IN in) (NP (NNP New) (NNP York))))) (, ,) (NP (PRP he)) (VP (VBD asked) (NP (NP (NNP Michael) (POS 's)) (JJ chief) (NN executive) (NN officer)) (SBAR (IN if) (S (NP (DT the) (JJ fourth) (NN quarter)) (VP (MD would) (VP (VB be) (ADVP (RB down)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN CEO)) (, ,) (NP (NNP Richard) (NNP G.) (NNP Olson)) (, ,)) (VP (VP (VBD replied) (`` `) (NP (`` `) (UH yes) (, ,) ('' ')) ('' ')) (CC but) (VP (MD would) (RB n't) (VP (VB elaborate)))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (DT The) (NN company)) (VP (VBD did) (RB n't) (VP (VB put) (PRT (RP out)) (NP (DT a) (JJ public) (NN announcement)))) (. .)))
+
+(S1 (S (NP (DT A) (NN spokesman)) (VP (VBD said) (ADVP (RBR later)) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Olson)) (VP (VBD was) (VP (VBG being) (`` `) (ADJP (`` `) (JJ conservative) ('' ')) ('' ') (PP (IN in) (NP (PRP$ his) (NN estimate)))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN spokesman)) (VP (VBD added) (SBAR (IN that) (S (SBAR (IN while) (S (NP (NNP Michael)) (VP (MD will) (VP (VB earn) (ADJP (ADJP (JJR less)) (PP (IN than) (NP (NP (NP (JJ last) (NN year) (POS 's)) ($ $) (CD 1.20)) (NP (DT a) (NN share))))))))) (, ,) (NP (PRP it)) (VP (VBZ thinks) (SBAR (S (NP (NP (NNP Street) (NNS estimates)) (PP (IN of) (NP ($ $) (CD 1) (QP (CC or) (RB so))))) (VP (VBP are) (ADJP (JJ low))))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (NP (NP (NN Analyst) (NNP Robin) (NNP Young)) (PP (IN of) (NP (NP (NNP John) (NNP Kinnard) (CC &) (NNP Co.)) (, ,) (NP (NNP Minneapolis)) (, ,)))) (VP (VBZ calls) (S (NP (PRP himself)) (`` `) (NP (NP (`` `) (DT the) (JJ last) (VBG remaining) (NN bull)) (PP (IN on) (NP (DT the) (NN stock)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (PRP He)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NNP Michael) (NNPS Foods)) (VP (VBZ is) (ADJP (JJ misunderstood))))))) (: :) (`` `) (S (`` `) (NP (DT This)) (VP (VBZ is) (NP (NP (NP (DT a) (NN growth) (NN company)) (PP (IN in) (NP (DT the) (VBN packaged) (NN food) (NN industry)))) (: --) (NP (DT a) (JJ rare) (NN breed))) (, ,) (PP (IN like) (S (VP (VBG finding) (NP (DT a) (JJ white) (NN rhino))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNS Earnings)) (VP (VBP are) (RB n't) (VP (VBG keeping) (NP (NN pace)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ says))) (, ,)) (PP (IN because) (IN of) (NP (NP (JJ heavy) (NNS investments)) (PP (IN in) (NP (NP (DT the) (NN egg) (NNS technologies)) (CC and) (NP (NP (JJ drought-related) (NNS costs)) (PP (IN in) (NP (PRP$ its) (NN potato) (NN business)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Carver)) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ believes) (SBAR (S (NP (NP (DT the) (NN company) (POS 's)) (NN egg) (NN product)) (VP (MD wo) (RB n't) (VP (VB help) (NP (DT the) (JJ bottom) (NN line)) (PP (IN in) (NP (DT the) (JJ short) (NN run))) (, ,) (SBAR (RB even) (IN though) (S (S (NP (PRP it)) (`` `) (VP (`` `) (VBZ makes) (NP (NN sense)))) (: --) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RBR more) (JJ convenient)) ('' '))) (: ') (CC and) (S (VP (VBZ justifies) (NP (PRP$ its) (NN price)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (ADJP (JJR higher)) (PP (IN than) (NP (NN shell) (NNS eggs)))) (, ,) (PP (IN because) (IN of) (NP (NN health) (CC and) (NN sanitation) (NNS concerns))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Prospective) (NN competition)) (VP (VBZ is) (NP (CD one) (NN problem))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN week)) (NP (NP (DT a) (ADJP (RB closely) (JJ held)) (NNP New) (NNP Jersey) (NN concern)) (, ,) (NP (ADJP (NNP Papetti) (JJ High-Grade)) (NNP Egg) (NNPS Products) (NNP Co.)) (, ,)) (VP (VBD rolled) (PRT (RP out)) (NP (NP (DT an) (ADJP (RB aseptically) (VBN packaged)) (VBN liquefied) (NN item)) (VP (VBN called) (S (ADJP (NN Table)) (NP (NNP Ready)))))) (. .)))
+
+(S1 (S (NP (NN Company) (NNP President) (NNP Steve) (NNP Papetti)) (VP (VBZ says) (SBAR (S (NP (NNP Marriott)) (VP (MD will) (VP (VB be) (PP (IN among) (NP (PRP$ his) (NNS clients))) (ADVP (RB as) (RB well))))))) (. .)))
+
+(S1 (S (NP (NNP Michael) (NNS shares)) (VP (VBD closed) (PP (IN at) (NP (QP (CD 13) (CD 3\/4)))) (NP (NN yesterday)) (PP (IN in) (NP (JJ national) (JJ over-the-counter) (NN trading)))) (. .)))
+
+(S1 (SINV (VP (VBZ Says)) (NP (NP (ADJP (NNP New) (JJ York-based)) (JJ short) (NN seller) (NNP Mark) (NNP Cohodes)) (, ,) (`` `) (S (`` `) (PP (IN In) (NP (PRP$ my) (NN mind))) (NP (DT this)) (VP (VBZ is) (NP (DT a) (ADJP ($ $) (CD 7)) (NN stock))) (. .) ('' ')) ('' '))))
+
+(S1 (S (NP (NNP Michael)) (NP (JJ late) (NN yesterday)) (VP (VBD announced) (NP (DT a) (ADJP (QP ($ $) (CD 3.8) (CD million))) (NN stock) (NN buy-back) (NN program))) (. .)))
+
+(S1 (S (NP (NP (NNP Michael)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBZ processes) (NP (NNS potatoes))))) (, ,)) (ADVP (RB still)) (VP (VBZ relies) (PP (IN on) (NP (NNS spuds))) (PP (IN for) (NP (NP (QP (RB about) (DT a) (JJ fourth))) (PP (IN of) (NP (NP (PRP$ its) (NNS sales)) (CC and) (NP (QP (RB nearly) (PDT half)) (PRP$ its) (JJ pretax) (NN profit))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (JJ dry) (VBG growing) (NNS conditions)) (PP (IN in) (NP (NP (DT the) (NNP Red) (NNP River) (NNP Valley)) (PP (IN of) (NP (NP (NNP Minnesota)) (CC and) (NP (NNP North) (NNP Dakota))))))) (VP (VBP are) (VP (VBG pushing) (NP (NP (NN spot) (NNS prices)) (PP (IN of) (NP (NNS potatoes)))) (PP (IN beyond) (SBAR (WHNP (WP what)) (S (NP (NNP Michael)) (VP (VBD contracted) (S (VP (TO to) (VP (VB pay) (NP (JJ last) (NN spring))))))))))) (. .)))
+
+(S1 (S (NP (NN Company) (NNS lawyers)) (ADVP (RB recently)) (VP (VBD sent) (NP (NP (NNS letters)) (PP (TO to) (NP (NNS growers))) (VP (VBG saying) (SBAR (IN that) (S (NP (NNP Michael)) (`` `) (VP (`` `) (VP (MD would) (VP (VB take) (ADVP (RB very) (RB seriously)) (NP (DT any) (NN effort)) (ADVP (RB ..)))))))) (. .)) (S (VP (TO to) (VP (VB divert) (NP (PRP$ its) (JJ contracted-for) (NNS potatoes)) (PP (TO to) (NP (JJ other) (NNS outlets))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (NNS analysts)) (VP (VBP believe) (SBAR (IN that) (S (NP (NP (NN profit) (NNS margins)) (PP (IN in) (NP (DT the) (NN potato) (NN business)))) (VP (MD will) (VP (VB be) (PRT (RP down)) (NP (ADVP (RB again)) (DT this) (NN year))))))) (. .)))
+

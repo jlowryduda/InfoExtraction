@@ -1,0 +1,20 @@
+(S1 (S (S (NP (NNP McCaw) (NNP Cellular) (NNPS Communications) (NNP Inc.)) (VP (MD must) (VP (VB extend) (NP (NP (PRP$ its) (NN offer)) (PP (IN for) (NP (NNP LIN) (NNP Broadcasting) (NNP Corp.)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (`` `) (NP (NP (ADJP (`` `) (ADVP (RB not) (RB yet)) (VBN announced)) (VBN committed) (NN financing)) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB complete)))))) ('' ')))) (: ') (NP (DT the) (NN bid))))) (, ,) (NP (NNP LIN)) (VP (VBD said) (PP (IN in) (NP (NNP New) (NNP York)))) (. .)))
+
+(S1 (S (S (PP (VBG According) (PP (TO to) (NP (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission) (NNS rules)))) (, ,) (NP (NNP McCaw)) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB keep) (S (NP (NP (PRP$ its) (NN offer)) (PP (IN for) (NP (DT the) (NN cellular-phone) (CC and) (NN broadcasting) (NN concern)))) (ADJP (JJ open) (PP (IN for) (NP (NP (QP (IN at) (JJS least) (CD five)) (NN business) (NNS days)) (PP (IN after) (NP (NP (DT the) (NN announcement)) (PP (IN of) (NP (DT the) (NN financing))))))))))))))) (, ,) (NP (NNP LIN)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP McCaw) (POS 's)) (NN offer)) (VP (VBZ is) (VP (VBN scheduled) (S (VP (TO to) (VP (VB expire) (NP (NN tomorrow))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN week)) (, ,) (NP (NNP McCaw)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD obtained) (NP (`` `) (ADJP (`` `) (JJ firm) ('' ')) ('' ') (NN financing) (NNS commitments)) (PP (IN from) (NP (CD three) (JJ major) (NNS banks))) (PP (IN in) (NP (NP (NN regard)) (PP (TO to) (NP (PRP$ its) (NN bid) (S (VP (TO to) (VP (VB control) (NP (NNP LIN) (NNP Broadcasting))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNS banks)) (VP (ADVP (RB jointly)) (VBD committed) (NP (NP (QP ($ $) (CD 1.2) (CD billion))) (PP (IN of) (NP (NN financing))) (, ,) (ADJP (JJ subject) (PP (TO to) (NP (JJ certain) (NNS conditions))))))) (, ,) (NP (NNP McCaw)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN spokesman)) (PP (IN for) (NP (NNP McCaw)))) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBD was) (`` `) (VP (`` `) (VBG moving) (ADVP (RB forward)) (PP (IN with) (NP (PRP$ our) (NN financing)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBD added) (SBAR (IN that) (`` `) (S (`` `) (ADVP (RB hopefully)) (NP (NNP LIN)) (VP (MD will) (VP (VB conduct) (NP (DT a) (JJ fair) (NN auction))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP McCaw)) (VP (VBZ wants) (S (VP (TO to) (VP (VB buy) (NP (NP (QP (CD 22) (CD million)) (NNS shares)) (PP (IN of) (NP (NNP LIN)))) (PP (IN for) (NP (NP (NP ($ $) (CD 125)) (NP (DT each))) (, ,) (CC or) (NP (QP ($ $) (CD 2.75) (CD billion))) (, ,))) (SBAR (WHNP (WDT which)) (S (VP (MD would) (VP (VB result) (PP (IN in) (S (NP (NNP McCaw) (POS 's)) (VP (VBG owning) (NP (NP (CD 50.3) (NN %)) (PP (IN of) (NP (NNP LIN))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN offer)) (VP (VBZ is) (PP (IN in) (NP (NN limbo))) (, ,) (ADVP (RB however)) (, ,) (SBAR (IN because) (S (NP (NNP LIN)) (VP (VBZ has) (VP (VBN agreed) (S (VP (TO to) (VP (VB merge) (NP (PRP$ its) (NN cellular-phone) (NNS businesses)) (PP (IN with) (NP (NNP BellSouth) (NNP Corp))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ national) (JJ over-the-counter) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NNP LIN)) (VP (VBD rose) (NP (CD 50) (NNS cents)) (, ,) (PP (TO to) (NP ($ $) (CD 109.25)))) (. .)))
+

@@ -1,0 +1,18 @@
+(S1 (S (NP (NNP Fujitsu) (NNP Ltd.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ wants) (S (VP (TO to) (VP (VB withdraw) (NP (PRP$ its) (JJ controversial) (JJ one-yen) (NN bid) (S (VP (TO to) (VP (VB design) (NP (DT a) (NN waterworks) (NN computer) (NN system)) (PP (IN for) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NNP Hiroshima)))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (NNP Japan) (POS 's)) (NNP Fair) (NNP Trade) (NNP Commission)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG considering) (S (VP (VBG launching) (NP (NP (DT an) (NN investigation)) (PP (IN into) (SBAR (IN whether) (S (NP (NP (DT the) (NN bid)) (, ,) (NP (NP (DT the) (NN equivalent)) (PP (IN of) (NP (NP (JJR less)) (PP (IN than) (NP (DT a) (NN penny)))))) (, ,)) (VP (VBZ violates) (NP (JJ anti-monopoly) (NNS laws)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Hiroshima)) (NP (JJ last) (NN week)) (VP (VBD held) (NP (DT an) (NN auction) (S (VP (TO to) (VP (VB pick) (NP (DT the) (NN contractor)))))) (, ,) (S (VP (VBG expecting) (S (VP (TO to) (VP (VB pay) (NP (QP (RB about) (CD 11) (CD million)) (NNS yen)) (PP (IN for) (NP (DT the) (NN project))))))))) (. .)))
+
+(S1 (S (S (NP (CD Eight) (NNS companies)) (VP (VBN submitted) (NP (NNS bids)))) (, ,) (CC but) (S (NP (NNP Fujitsu)) (VP (VBD won) (NP (DT the) (NN contract)) (PP (IN by) (S (ADVP (RB essentially)) (VP (VBG saying) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB do) (NP (DT the) (NN job)) (PP (IN for) (ADJP (JJ free)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN News)) (PP (IN of) (NP (DT the) (NN bid)))) (VP (VBD drew) (NP (NP (JJ sharp) (NN criticism)) (PP (IN from) (NP (NP (JJ other) (NN computer) (NNS companies)) (CC and) (NP (NN industry) (NNS observers)))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Fujitsu)) (NP (PRP itself))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD said) (SBAR (S (NP (DT the) (NN bid)) (VP (VBD had) (RB n't) (VP (VBN been) (VP (VBN approved) (PP (IN by) (NP (PRP$ its) (NN headquarters))))))))))) (, ,)) (VP (VBD was) (ADJP (RB clearly) (JJ embarrassed))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN bid)) (VP (VBD was) (RB n't) (`` `) (ADJP (`` `) (RB socially) (JJ acceptable)))) (, ,) ('' ') ('' ') (NP (DT a) (NN company) (NN spokeswoman)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP Hiroshima) (NNS officials)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VP (ADVP (RB still)) (VBP consider) (NP (NP (DT the) (NN contract)) (PP (IN in) (NP (NN effect))))) (CC and) (VP (VBD had) (NP (DT no) (JJ immediate) (NNS plans) (S (VP (TO to) (VP (VB cancel) (NP (PRP it))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD wanted) (S (VP (TO to) (VP (VB wait) (PP (IN for) (NP (NP (DT the) (NN outcome)) (PP (IN of) (NP (DT any) (NN government) (NN investigation))))) (PP (IN before) (S (VP (VBG deciding) (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do))))))))))))))) (. .)))
+

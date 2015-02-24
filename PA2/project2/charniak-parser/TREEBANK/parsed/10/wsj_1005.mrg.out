@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Allied-Signal) (NNP Aerospace) (NNP Co.)) (VP (VBD received) (NP (DT a) (ADJP (QP ($ $) (CD 65) (CD million))) (NN contract) (S (VP (TO to) (VP (VB outfit) (NP (NP (NP (NNP Continental) (NNPS Airlines) (POS ')) (CD 393) (NNS planes)) (PP (IN with) (NP (NP (DT the) (NNP Bendix\/King) (NNP Traffic) (NNP Alert)) (CC and) (NP (NNP Collision) (NN Avoidance) (NNP System)))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ airborne) (NN system)) (VP (VBZ operates) (ADJP (JJ independent) (PP (IN of) (NP (NP (JJ ground-based) (NN radar) (NNS systems)) (, ,) (PP (VBG informing) (NP (NP (NNS pilots)) (PP (IN of) (NP (JJ nearby) (NN aircraft)))))))))) (, ,) (NP (NNP Allied-Signal)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN system)) (ADVP (RB also)) (VP (VBZ provides) (NP (JJ course-correction) (NNS advisories))) (. .)))
+
+(S1 (S (NP (NNP Allied-Signal)) (VP (VBZ is) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Allied-Signal) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN manufacturer)) (PP (IN with) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (NN aerospace)) (, ,) (NP (JJ automotive) (NNS products)) (CC and) (NP (JJ engineered) (NNS materials))))))))))) (. .)))
+
+(S1 (S (NP (NNP Continental) (NNPS Airlines)) (VP (VBZ is) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Texas) (NNP Air) (NNP Corp.)) (, ,) (NP (NNP Houston)))))) (. .)))
+

@@ -1,0 +1,88 @@
+(S1 (S (NP (DT The) (NNP Nasdaq) (JJ over-the-counter) (NN market)) (VP (VP (VBD did) (RB n't) (VP (ADVP (RB fully)) (VB recover) (PP (IN from) (NP (DT a) (NN selling) (NN stampede))))) (, ,) (CC and) (VP (VBD closed) (ADVP (RB down) (NP (CD 1.2) (NN %))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS effects)) (PP (IN on) (NP (NP (DT the) (NN market)) (PP (IN of) (NP (NP (DT the) (RB mostly) (JJ computer-driven) (NN sell-off)) (PP (IN among) (NP (JJ exchange-listed) (NNS stocks)))))))) (VP (VBN irked) (NP (NP (JJ many) (NN market) (NNS makers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD watched) (S (NP (DT the) (NNP Nasdaq) (NNP Composite) (NNP Index)) (VP (VB tumble) (PP (IN in) (NP (NP (NN sympathy)) (PP (IN with) (NP (DT the) (NNP Dow) (NNP Jones) (NNP Industrial) (NNP Average)))))))) (, ,) (CC and) (RB then) (VP (VBD saw) (S (NP (PRP it)) (VP (VB get) (VP (VBN left) (ADVP (IN behind)) (PP (IN in) (NP (DT the) (JJ subsequent) (NN rally)))))))))))) (. .)))
+
+(S1 (S (PP (IN After) (S (VP (VBG plummeting) (NP (CD 1.8) (NN %)) (PP (IN at) (NP (CD one) (NN point))) (PP (IN during) (NP (DT the) (NN day)))))) (, ,) (NP (DT the) (NN composite)) (VP (VP (VBD rebounded) (NP (DT a) (JJ little))) (, ,) (CC but) (VP (VBD finished) (ADVP (RB down) (NP (CD 5.52)))) (, ,) (PP (IN at) (NP (CD 461.70)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN contrast))) (, ,) (NP (DT the) (JJ industrial) (NN average)) (VP (VP (VBD recovered) (ADVP (RB almost) (RB completely)) (PP (IN from) (NP (PRP$ its) (VB skid)))) (CC and) (VP (VBD closed) (ADVP (RB down) (NP (CD 0.1) (NN %))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NNP Composite)) (VP (VBD was) (ADJP (NP (CD 0.4) (NN %)) (JJR lower)) (PP (IN for) (NP (DT the) (NN day)))) (. .)))
+
+(S1 (S (PP (IN As) (ADJP (JJ usual))) (, ,) (NP (NP (DT the) (JJ over-the-counter) (NN market) (POS 's)) (JJS biggest) (NN technology) (NNS stocks)) (VP (VBD were) (VP (ADVP (RBS hardest)) (VBN hit))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Microsoft)) (, ,) (VP (VBN battered) (PP (IN by) (S (NP (NN profit)) (VP (VBG taking) (PP (IN in) (NP (JJ recent) (NNS sessions))))))) (, ,)) (VP (VBD sank) (NP (QP (RB as) (JJ much) (IN as) (CD 4))))) (: ;) (CC but) (S (NP (PRP it)) (VP (VBD finished) (PP (IN at) (NP (QP (CD 80) (CD 7\/8)))) (, ,) (ADVP (RB down) (NP (NP (QP (CD 2) (CD 1\/4))) (PP (IN on) (NP (NP (NN volume)) (PP (IN of) (NP (QP (CD one) (CD million)) (NNS shares))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP MCI) (NNPS Communications)) (, ,) (NP (DT the) (ADJP (RBS most) (JJ active)) (NN issue)) (, ,)) (VP (VBD finished) (ADVP (RB down) (NP (CD 5\/8))) (PP (TO to) (NP (QP (CD 42) (CD 1\/8))))) (. .)))
+
+(S1 (S (NP (NNP MCI)) (VP (VBD traded) (ADVP (ADVP (RB as) (JJ low)) (PP (IN as) (NP (QP (CD 41) (CD 3\/8))))) (PP (IN during) (NP (DT the) (NN session)))) (. .)))
+
+(S1 (S (S (NP (JJ Other) (JJ active) (NNS stocks)) (VP (VBD included) (NP (NNP Jaguar)))) (, ,) (NP (WP$ whose) (JJ American) (NN depositary) (NNS receipts)) (VP (VBD added) (NP (CD 1\/8)) (PP (TO to) (NP (QP (CD 11) (CD 1\/4))))) (. .)))
+
+(S1 (S (S (NP (NNP Apple) (NNP Computer)) (VP (VBD improved) (NP (CD 7\/8)) (PP (TO to) (NP (QP (CD 47) (CD 5\/8)))))) (: ;) (S (NP (NNP Intel)) (VP (VBD slipped) (NP (CD 1\/4)) (PP (TO to) (NP (QP (CD 33) (CD 1\/4)))))) (, ,) (CC and) (S (NP (NNP Valley) (NNP National) (NNP Corp.)) (VP (VBD was) (ADVP (RB up) (NP (CD 1\/8)) (PP (TO to) (NP (QP (CD 15) (CD 1\/8))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN market)) (VP (VBD started) (PP (IN with) (NP (NP (JJ several) (NNS strikes)) (PP (IN against) (NP (PRP it))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Peter) (NNP DaPuzzo)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (JJ retail) (NN equity) (NN trading))) (PP (IN at) (NP (NNP Shearson) (NNP Lehman) (NNP Hutton))))) (, ,) (S (VP (VBG referring) (PP (TO to) (NP (NP (NN news) (SBAR (IN that) (S (NP (NP (DT the) (NN labor-management) (NN buy-out)) (PP (IN of) (NP (NNP UAL) (NNP Corp.)))) (VP (VBD continued) (S (VP (TO to) (VP (VB unravel)))))))) (, ,) (CC and) (NP (NNS reports) (SBAR (IN that) (S (NP (DT the) (NN junk-bond) (NN market)) (VP (VBZ is) (VP (VBG disintegrating)))))))))) (. .)))
+
+(S1 (S (S (CC But) (NP (NP (DT the) (JJ computer-guided) (NN selling)) (PP (IN in) (NP (NP (NN response)) (PP (TO to) (NP (DT those) (NNS developments)))))) (VP (VBD dealt) (NP (NP (DT a) (JJ serious) (NN blow)) (PP (TO to) (NP (DT the) (JJ over-the-counter) (NN market)))))) (, ,) (NP (NNP Mr.) (NNP DaPuzzo)) (VP (VBD said)) (. .)))
+
+(S1 (S (SBAR (RB Even) (IN though) (S (NP (DT the) (JJ over-the-counter) (NN market)) (ADVP (RB usually)) (VP (VBZ does) (RB n't) (VP (VB fall) (PP (IN by) (NP (NP (RB as) (JJ much)) (PP (IN as) (NP (VBN listed) (NNS stocks))))) (PP (IN during) (NP (JJ program-selling) (NNS blitzes))))))) (, ,) (NP (PRP he)) (VP (VBD said) (, ,) (`` `) (S (`` `) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN market)) (VP (VBZ does) (VP (VB recover))))) (, ,) (S (NP (DT the) (NN damage)) (VP (VBZ is) (VP (VBN done)))) (CC and) (S (NP (PRP it)) (VP (VBZ leaves) (NP (NNP Nasdaq)) (PP (IN down) (NP (NP (JJR more)) (PP (IN than) (NP (DT the) (NNP Big) (NNP Board))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP DaPuzzo)) (ADVP (RB also)) (VP (VBD complained) (SBAR (IN that) (S (NP (NP (DT the) (JJ sharp) (NNS swings)) (PP (IN in) (NP (NN stock) (NNS prices)))) (ADVP (RB lately)) (VP (VBZ is) (VP (VBG scaring) (PRT (RP away)) (NP (JJ retail) (CC and) (JJ foreign) (NNS investors))))))) (. .)))
+
+(S1 (S (S (SBAR (IN While) (S (NP (NNP Shearson)) (VP (VBZ does) (RB n't) (VP (VB do) (NP (NP (JJ computer-guided) (NN program) (NN trading)) (PP (IN for) (NP (PRP$ its) (JJ own) (NN account)))))))) (, ,) (NP (DT the) (NN firm)) (VP (VBZ does) (VP (VB execute) (NP (NP (NNS orders)) (PP (IN for) (NP (NP (NNS clients)) (VP (VBN involved) (PP (IN in) (NP (NP (DT the) (NN buying) (CC and) (NN selling)) (PP (IN of) (NP (NP (NNS shares)) (VP (VBN tied) (PP (TO to) (NP (NP (NNS movements)) (PP (IN in) (NP (JJ certain) (NN stock) (NNS indexes))))))))))))))))) (, ,) (NP (NNP Mr.) (NNP DaPuzzo)) (VP (VBD acknowledged)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN volatility)) (ADJP (JJ inherent) (PP (IN in) (NP (NN program) (NN trading))))) (VP (VBN troubled) (NP (JJ other) (NNS traders)) (, ,) (ADVP (RB too))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP do) (RB n't) (VP (VB like) (NP (NP (DT the) (NNS risks)) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (VBN forced) (S (VP (TO to) (VP (VB assume) (SBAR (WHADVP (WRB when)) (S (NP (NNS prices)) (VP (VB swing) (ADVP (RB so) (RB drastically))))))))))))))) (. .)))
+
+(S1 (S (NP (NN Market) (NNS makers)) (VP (VBP are) (VP (VBN supposed) (S (VP (TO to) (VP (VB keep) (NP (NP (NNS supplies)) (PP (IN of) (NP (NNS stocks)))) (PP (IN on) (NP (NN hand) (S (VP (TO to) (VP (VB maintain) (NP (JJ orderly) (NN trading)) (SBAR (WHADVP (WRB when)) (S (NP (NNS imbalances)) (VP (VBP occur)))))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ means) (SBAR (IN that) (S (PP (IN on) (NP (NP (NNS days)) (SBAR (WHADVP (WRB when)) (S (S (NP (NNS prices)) (VP (VBP are) (VP (VBG tumbling)))) (CC and) (S (NP (NNS sellers)) (VP (VBP abound) (SBAR (S (NP (PRP they)) (VP (MD must) (VP (VB be) (ADJP (JJ willing) (S (VP (TO to) (VP (VB buy) (NP (NNS shares)) (PP (IN from) (NP (NNS sellers))) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT no) (NN one)) (ADVP (RB else))) (VP (MD will))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (PDT such) (DT an) (NN environment))) (, ,) (NP (DT a) (NN market) (NN maker)) (VP (MD can) (VP (VB absorb) (NP (JJ huge) (NNS losses)))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (JJ recent) (NN volatility)) (PP (IN in) (NP (NP (NN stock) (NNS prices)) (VP (VBN caused) (PP (IN by) (NP (DT the) (NN program) (NN trading))))))) (VP (VBZ has) (VP (VBN made) (S (NP (DT some) (NN market) (NNS makers)) (ADJP (RBR less) (JJ willing) (S (VP (TO to) (VP (VB soak) (PRT (RP up)) (NP (NP (DT the) (NNS stocks)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (PP (IN for) (NP (NN sale)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN market) (NNS makers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (RB n't) (ADJP (JJ comfortable) (S (VP (VBG carrying) (NP (NP (JJ big) (NNS positions)) (PP (IN in) (NP (NNS stocks))))))) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP realize) (SBAR (S (NP (NNS prices)) (VP (MD can) (VP (VB tumble) (ADVP (RB quickly))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN situation)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (JJR harder)) (S (VP (TO to) (VP (VB buy) (CC and) (VB sell) (NP (NNS shares)) (ADVP (RB quickly)) (, ,) (S (VP (VBG exacerbating) (NP (NP (DT the) (NN rise) (CC and) (NN fall)) (PP (IN in) (NP (NN stock) (NNS prices)))) (PP (IN during) (NP (JJ program-dominated) (NN trading)))))))))) (. .)))
+
+(S1 (SINV (VP (VBD Groused)) (NP (NP (NNP Robert) (NNP Antolini)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (JJ over-the-counter) (NN trading))) (PP (IN at) (NP (NNP Donaldson) (, ,) (NNP Lufkin) (CC &) (NNP Jenrette))))) (: :) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (VP (VBG making) (S (NP (PRP it)) (ADJP (JJ tough)) (SBAR (IN for) (S (NP (NNS traders)) (VP (TO to) (VP (VB make) (NP (NN money))))))))) (. .) ('' ')) (: ')))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (NN sell) (NNS programs)) (VP (VBP kick) (PRT (RP in))))) (, ,) (NP (JJ many) (NNS traders)) (VP (VBP believe) (SBAR (IN that) (`` `) (S (`` `) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT no) (NN sense)) (PP (IN in) (S (VP (VBG sticking) (NP (PRP$ your) (NN nose)) (ADVP (RB out)))))) (SBAR (IN because) (S (NP (PRP you)) (VP (VBP 're) (NP (DT an) (JJ instant) (NN loser)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Kinder-Care) (NNP Learning) (NNPS Centers)) (VP (VBD added) (NP (CD 1\/4)) (PP (TO to) (NP (CD 4) (CD 7\/8))) (PP (IN on) (NP (CD 461,200) (NNS shares)))) (. .)))
+
+(S1 (S (NP (NNP Lodestar) (NNP Group)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (NP (DT a) (ADJP ($ $) (JJ 6-a-share)) (NN offer)) (PP (IN for) (NP (DT the) (VBG remaining) (NNP Kinder-Care) (NNP Learning) (NNP Center) (JJ common) (NN stock)))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ acquires) (NP (NP (DT a) (NN majority)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NNS shares)))) (PP (IN in) (NP (NP (DT a) (JJ pending) (NNS rights) (NN offering)) (PP (IN by) (NP (NP (NP (NNP Kinder-Care) (NNP Learning) (NNP Center) (POS 's)) (NN parent)) (, ,) (NP (NNP Kinder-Care) (NNP Inc)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Shares)) (PP (IN of) (NP (NNP KinderCare) (NNP Inc.)))) (VP (VBD closed) (PP (IN at) (NP (QP (CD 3) (CD 1\/2)))) (, ,) (ADVP (RB also) (NP (QP (IN up) (CD 1\/4)))) (, ,) (PP (IN on) (NP (NP (NN volume)) (PP (IN of) (NP (CD 700,000)))))) (. .)))
+
+(S1 (S (NP (NNP Ohio) (NNP Casualty)) (VP (VBD dropped) (NP (QP (CD 2) (CD 1\/8))) (PP (TO to) (NP (QP (CD 49) (CD 1\/2))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD posted) (NP (NP (JJ third-quarter) (NNS earnings)) (PP (IN of) (NP (NP (CD 95) (NNS cents)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB down) (PP (IN from) (NP ($ $) (CD 1.26)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD estimated) (SBAR (IN that) (S (NP (NP (NNS losses)) (PP (IN from) (NP (NNP Hurricane) (NNP Hugo)))) (VP (VBD reduced) (NP (JJ net) (NN income)) (PP (IN by) (NP (NP (CD 32) (NNS cents)) (NP (DT a) (NN share)))) (PP (IN in) (NP (DT the) (ADJP (RBS most) (JJ recent)) (NN quarter))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (SBAR (S (NP (NP (NNS losses)) (PP (IN from) (NP (NP (DT the) (NNP Oct.) (CD 17) (NN earthquake)) (PP (IN in) (NP (NNP California)))))) (VP (VBP have) (RB n't) (ADVP (RB yet)) (VP (VBN been) (VP (VBN determined)))))) (, ,) (CC but) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ provides) (NP (NN earthquake) (NN coverage)) (PP (TO to) (NP (NP (QP (IN about) (CD 1,400)) (NNS properties)) (PP (IN in) (NP (DT the) (JJ stricken) (NN area)))))))))) (. .)))
+
+(S1 (S (S (NP (DT Any) (JJ quake-related) (NNS losses)) (VP (MD will) (VP (VB be) (VP (VBN reported) (PP (IN in) (NP (DT the) (JJ fourth) (NN quarter))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP North) (NNP Atlantic) (NNPS Industries)) (VP (VBD jumped) (NP (CD 1)) (PP (TO to) (NP (QP (CD 5) (CD 3\/4))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ electronics-instruments) (NN maker)) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN acquired) (PP (IN by) (NP (NNP Asset) (NNP Management) (NNP Associates))) (PP (IN for) (NP (NP ($ $) (CD 7.25)) (NP (DT a) (NN share))))))))) (. .)))
+
+(S1 (S (NP (NNP LIN) (NNP Broadcasting)) (VP (VBD slid) (NP (QP (CD 1) (CD 3\/8))) (PP (TO to) (NP (QP (CD 108) (CD 3\/4)))) (, ,) (PP (IN despite) (S (VP (VBG reporting) (NP (NP (JJ third-quarter) (NN net)) (PP (IN of) (NP (NP (NP (CD 46) (NNS cents)) (NP (DT a) (NN share))) (, ,) (ADVP (RB up) (PP (IN from) (NP (CD 39) (NNS cents)) (NP (DT the) (JJ previous) (NN year))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (DT the) (JJS latest) (NN quarter)) (VP (VBD included) (NP (NP (QP (RB about) ($ $) (CD 3.4) (CD million))) (PP (IN in) (NP (NP (JJ special) (ADJP (JJ legal) (CC and) (JJ financial)) (NN advisory) (NNS costs)) (VP (VBN related) (PP (TO to) (NP (NP (NP (NP (NNP McCaw) (NNP Cellular) (NNPS Communications) (POS ')) (NN bid)) (PP (IN for) (NP (DT the) (NN company)))) (CC and) (NP (NP (NP (NNP LIN) (POS 's)) (NN merger) (NN pact)) (PP (IN with) (NP (NNP BellSouth)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP McCaw)) (VP (VBD was) (ADJP (JJ unchanged)) (PP (IN at) (NP (CD 40)))) (. .)))
+
+(S1 (S (NP (NNP XL\/Datacomp)) (VP (VBD slid) (NP (QP (CD 2) (CD 1\/4))) (PP (TO to) (NP (QP (CD 16) (CD 1\/2)))) (PP (IN amid) (NP (NP (VBG continuing) (NNS concerns)) (PP (IN about) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN contract) (NNS negotiations)) (PP (IN with) (NP (NNP International) (NNP Business) (NNP Machines)))))))) (. .)))
+
+(S1 (S (S (NP (NNP IBM)) (VP (VBZ is) (VP (VBG reviewing) (NP (PRP$ its) (JJ entire) (NNS business-partners) (NN program))))) (, ,) (CC and) (S (NP (NNP XL\/Datacomp)) (VP (VBD confirmed) (NP (RBR earlier) (DT this) (NN month)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD was) (PRT (RP in)) (NP (NP (NNS talks)) (PP (IN with) (NP (DT the) (NN company))) (PP (IN about) (NP (JJ possible) (NNS modifications)))) (PP (TO to) (NP (PRP$ its) (JJ current) (JJ IBM-remarketer) (NN contract)))))))) (. .)))
+
+(S1 (S (NP (NNS Remarketers)) (VP (VP (VBP make) (NP (NNS modifications)) (PP (TO to) (NP (NP (NNP IBM) (POS 's)) (NN computer) (NN hardware)))) (CC and) (VP (VB resell) (NP (DT the) (NNS products)))) (. .)))
+
+(S1 (S (NP (NNP Omni) (NNP Capital) (NNP Group)) (VP (VBD surged) (NP (QP (CD 1) (CD 3\/4))) (PP (TO to) (NP (QP (CD 16) (CD 1\/4))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (NN net)) (VP (VBD rose) (PP (TO to) (NP (NP (CD 38) (NNS cents)) (NP (DT a) (NN share)))) (PP (IN in) (NP (NP (PRP$ its) (JJ fiscal-first) (NN quarter)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))) (, ,) (PP (IN from) (NP (NP (CD 35) (NNS cents)) (NP (DT a) (NNS shares))) (ADVP (NP (DT a) (NN year)) (RB ago))))))) (. .)))
+

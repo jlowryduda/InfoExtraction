@@ -1,0 +1,92 @@
+(S1 (S (NP (JJ Genetic) (NN Defect)) (VP (VBN Spotted) (PP (IN In) (NP (JJ 3-Day-Old) (NN Embryo))))))
+
+(S1 (S (NP (NNS RESEARCHERS)) (VP (VBD diagnosed) (S (NP (NP (DT a) (JJ genetic) (NN defect)) (PP (IN in) (NP (NP (DT a) (JJ three-day-old) (NN mouse) (NN embryo)) (PP (IN in) (NP (DT an) (NN experiment)))))) (ADJP (RB directly) (JJ applicable) (PP (TO to) (NP (NNS humans)))))) (. .)))
+
+(S1 (S (NP (NP (NP (JJ Prenatal) (NN diagnosis)) (PP (IN of) (NP (JJ genetic) (NNS defects)))) (CONJP (RB as) (RB early) (IN as)) (NP (NP (DT the) (JJ sixth) (NN week)) (PP (IN of) (NP (NN pregnancy))))) (VP (VBZ is) (ADJP (RB increasingly) (JJ common)) (NP (NN today))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (NN mouse) (NN experiment)) (PP (IN at) (NP (NP (DT a) (NNP Medical) (NNP Research) (NNP Council) (NN laboratory)) (PP (IN in) (NP (NNP London)))))) (VP (VBZ shows) (SBAR (S (NP (JJ genetic) (NNS defects)) (VP (MD can) (VP (VB be) (VP (VBN detected) (PP (NP (CD three) (NNS days)) (IN after) (NP (NP (NN conception)) (VP (VBG using) (NP (DT a) (JJ new) (JJ American-developed) (JJ gene-copying) (NN technique))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN experiment)) (, ,) (ADJP (JJ applicable) (PP (TO to) (NP (JJ many) (JJ genetic) (NNS disorders)))) (, ,)) (VP (VBD involved) (NP (NP (NN beta-thalassemia)) (, ,) (NP (NP (DT a) (JJ severe) (NN blood) (NN anemia)) (VP (VBG resulting) (PP (IN from) (NP (DT a) (JJ missing) (NN hemoglobin) (NN gene))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT an) (VBN inherited) (JJ human) (NN disorder)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN been) (VP (VBN duplicated) (PP (IN in) (NP (NNS mice)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN experiment))) (, ,) (NP (NP (NNS mice)) (PP (IN with) (NP (DT the) (JJ defective) (NN gene)))) (VP (VBD were) (VP (VBN mated))) (. .)))
+
+(S1 (S (ADVP (NP (CD Three) (NNS days)) (RB later)) (, ,) (SBAR (IN before) (S (NP (DT the) (JJ new) (NN embryo)) (VP (VBD had) (VP (VBN become) (VP (VBD implanted) (PP (IN in) (NP (DT the) (NN uterus)))))))) (, ,) (NP (PRP it)) (VP (VBD was) (VP (VBD washed) (PRT (RP out)) (PP (IN of) (NP (DT the) (NN mother) (NN mouse))))) (. .)))
+
+(S1 (S (NP (DT The) (NN embryo)) (VP (VBD had) (VP (VBD progressed) (ADVP (RB only)) (PP (TO to) (NP (NP (DT a) (NN clump)) (PP (IN of) (NP (CD eight) (JJ identical) (NNS cells))))))) (. .)))
+
+(S1 (S (S (NP (CD One) (NN cell)) (VP (VBD was) (VP (VBN teased) (PRT (RP out))))) (, ,) (CC and) (S (NP (PRP$ its) (NN DNA)) (VP (VBD extracted))) (. .)))
+
+(S1 (S (S (VP (VBG Using) (NP (NP (DT the) (JJ new) (NN technique)) (VP (VBN developed) (PP (IN by) (NP (NP (NNP Cetus) (NNP Corp.)) (, ,) (VP (VBN called) (S (NP (DT the) (JJ polymerase) (NN chain) (NN reaction)))))))))) (, ,) (NP (DT the) (NNS scientists)) (VP (ADVP (RB rapidly)) (VBD made) (NP (NP (NNS millions)) (PP (IN of) (NP (NP (NNS copies)) (PP (IN of) (NP (NP (DT the) (NN section)) (PP (IN of) (NP (NNP DNA))) (SBAR (WHNP (WDT that)) (S (ADVP (RB ordinarily)) (VP (VBZ contains) (NP (NP (DT the) (JJ hemoglobin) (NN gene)) (, ,) (VP (VBG providing) (NP (JJ enough) (NNS copies)) (PP (TO to) (NP (NN test)))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT A) (JJ genetic) (NN probe)) (VP (VBD showed) (SBAR (S (NP (DT the) (NN hemoglobin) (NN gene)) (VP (VBD was) (VP (VBG missing))))))) (, ,) (NP (DT the) (NNS researchers)) (VP (VBP report) (PP (IN in) (NP (NP (DT the) (JJ medical) (NN journal)) (NP (NNP Lancet))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN report))) (, ,) (NP (CD two) (JJ molecular) (NNS biologists)) (VP (VBP suggest) (SBAR (S (NP (JJ such) (NN embryo) (NN diagnosis)) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN by) (NP (NP (NNS couples)) (PP (IN at) (NP (NP (JJ high) (NN risk)) (PP (IN of) (S (VP (VBG passing) (NP (DT a) (JJ genetic) (NN defect)) (PP (TO to) (NP (DT a) (NN child)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (JJ infertile) (NNS couples)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (NP (NP (NP (DT the) (NN woman) (POS 's)) (NNS eggs)) (VP (VBN fertilized) (PP (IN in) (NP (DT the) (NN test) (NN tube))))))))) (ADVP (RB usually)) (VP (VBP have) (NP (NP (JJ several) (NNS eggs)) (VP (VBN fertilized) (PP (IN at) (NP (DT a) (NN time)))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (VBN fertilized) (NNS cells)) (VP (VBP divide) (PP (TO to) (NP (CD eight) (NNS cells)))))) (, ,) (NP (NP (DT a) (JJ single) (NN cell)) (PP (IN from) (NP (DT each) (NN embryo)))) (VP (MD can) (VP (VB be) (VP (VBN tested) (PP (IN for) (NP (JJ genetic) (NNS defects)))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ healthy) (NN embryo)) (VP (MD can) (VP (VB be) (VP (VBN picked) (PP (IN for) (NP (NP (NN implantation)) (CC and) (NP (NP (JJ defective) (NNS ones)) (VP (VBN discarded)))))))) (. .)))
+
+(S1 (S (CC Or) (PP (IN in) (NP (JJ other) (NNS couples))) (, ,) (NP (DT the) (NN embryo)) (VP (MD could) (VP (VB be) (ADVP (RB temporarily)) (VP (VP (VBN taken) (PRT (RP out))) (CC and) (VP (VP (VBD tested) (NP (CD three) (NNS days)) (PP (IN after) (NP (NN conception)))) (CC and) (VP (VBD returned) (ADJP (IN if) (JJ healthy)))) (, ,) (CC or) (VP (VBN discarded) (SBAR (IN if) (FRAG (ADVP (RB not)))))))) (. .)))
+
+(S1 (S (VP (VB Yeast) (VP (VBN Adapted) (S (VP (TO to) (VP (VB Make) (NP (JJ Gene-Spliced) (NNS Drugs)))))))))
+
+(S1 (S (NP (DT AN) (NN OIL) (NN COMPANY)) (VP (VBZ finds) (NP (DT a) (NN sideline)) (PP (IN in) (NP (NP (DT the) (JJ microscopic) (NN world)) (PP (IN of) (NP (NN yeast)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ early) (CD 1970s))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (`` `) (NP (`` `) (NN world) (NN food) (NN crisis) ('' ')) ('' ')) (VP (VBD was) (NP (DT a) (JJ major) (NN worry))))) (, ,) (NP (NP (NNP Phillips) (NNP Petroleum) (NNP Co.)) (, ,) (PP (IN like) (NP (JJ several) (JJ other) (JJ big) (NNS companies))) (, ,)) (VP (VBD began) (S (VP (VBG developing) (NP (`` `) (NP (`` `) (JJ single-cell) (NN protein) (, ,) ('' ')) ('' ') (NP (NP (JJ edible) (NN protein)) (VP (VBN made) (PP (IN by) (S (NP (NNS microbes)) (VP (VBG feeding) (PP (IN on) (NP (JJ non-edible) (NNS materials)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Phillips)) (VP (VBD found) (CC and) (VBD improved) (NP (NP (DT a) (NN yeast)) (, ,) (NP (`` `) (NP (`` `) (NP (NNP Pichia) (NNP pastoris)) (, ,) ('' ')) ('' ') (SBAR (WHNP (WDT which)) (S (VP (VBD made) (NP (NN protein)) (PP (IN from) (NP (JJ natural) (JJ gas-derived) (NN alcohol))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (MD could) (VP (VB convert) (NP (NP (NN glucose)) (PP (IN from) (NP (NN farm) (NNS wastes)))) (PP (IN into) (NP (JJ edible) (NN protein))))) (. .)))
+
+(S1 (S (S (NP (JJ Single-cell) (NN protein)) (ADVP (RB never)) (VP (VBN panned) (PRT (RP out)))) (, ,) (CC and) (S (NP (JJS most) (NNS companies)) (VP (VBD abandoned) (NP (JJ such) (NN research)))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Phillips)) (VP (VBD persisted) (, ,) (S (VP (VBG calling) (PRT (RP in)) (NP (NP (NNS scientists)) (PP (IN from) (NP (DT the) (NNP Salk) (NNP Institute))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP 've) (ADVP (RB now)) (VP (VBN adapted) (NP (NP (DT the) (NN yeast)) (PP (TO to) (S (VP (VBG making) (NP (ADJP (RB genetically) (VBN engineered)) (NNS drugs)))))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (NP (DT the) (NNS bacteria)) (VP (VBN used) (PP (IN by) (NP (JJ genetic) (NNS engineers)))))) (, ,) (NP (DT the) (NN yeast)) (VP (MD can) (VP (VP (VB take) (PRT (RP in)) (NP (JJ human) (NNS genes))) (CC and) (VP (VBP churn) (PRT (RP out)) (NP (NP (JJ human) (NNS proteins)) (PP (IN for) (NP (JJ medical) (NN use))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ yeast) (JJ genetic) (NN apparatus)) (VP (VBZ is) (ADJP (ADJP (JJR more) (PP (IN like) (NP (NP (DT that)) (PP (IN of) (NP (NNS animals)))))) (PP (IN than) (NP (DT the) (JJ bacterial) (JJ genetic) (NN apparatus))))) (. .)))
+
+(S1 (S (ADVP (RB Thus)) (, ,) (NP (NP (DT the) (NNS proteins)) (PP (IN from) (NP (DT the) (NN yeast)))) (VP (VBP are) (ADJP (ADJP (RB molecularly) (JJR more) (PP (IN like) (NP (JJ human) (NNS proteins)))) (PP (IN than) (NP (NP (DT those)) (PP (IN from) (NP (NNS bacteria))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN oil) (NN company)) (VP (VBZ claims) (SBAR (S (NP (PRP$ its) (NN yeast) (NN system)) (ADVP (RB also)) (VP (VBZ is) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (NNS bacteria))) (PP (IN at) (NP (NP (JJ high-volume) (NN production)) (PP (IN of) (NP (ADJP (RB genetically) (VBN engineered)) (NNS drugs)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Chiron) (NNP Corp.)) (, ,) (NP (DT an) (NAC (NNP Emeryville) (, ,) (NNP Calif.) (, ,)) (NN biotechnology) (NN firm)) (, ,)) (VP (VBZ is) (VP (VBG seeing) (SBAR (IN if) (S (NP (DT the) (NNP Phillips) (NN yeast)) (VP (MD can) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB make) (NP (PRP$ its) (ADJP (RB genetically) (VBN engineered)) (JJ human) (NNS proteins)))))))))))) (. .)))
+
+(S1 (S (VP (VBG Peeking) (NP (JJ Inside) (NNS Arteries)) (PP (IN From) (NP (JJ Outside) (DT the) (NN Body))))))
+
+(S1 (S (S (VP (VBG VISUALIZING) (NP (NN BLOOD) (NNS vessels)) (PP (IN without) (S (VP (VBG poking) (NP (NNS catheters)) (PP (IN into) (NP (DT the) (NN body)))))))) (VP (MD may) (VP (VB come) (PP (IN out) (PP (IN of) (NP (NP (NN research)) (PP (IN at) (NP (NNP AT&T) (NNP Bell) (NNPS Laboratories)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Strokes)) (, ,) (NP (NN heart) (NNS attacks)) (, ,) (NP (NP (NN leg) (NNS pains)) (PRN (-LRB- -LRB-) (NP (JJ intermittent) (NN claudication)) (-RRB- -RRB-))) (CC and) (NP (JJ other) (NNS problems))) (VP (VBP stem) (PP (IN from) (NP (NP (NN clogging)) (PP (IN of) (NP (NP (DT the) (NNS arteries)) (PP (IN by) (NP (JJ cholesterol-rich) (NNS deposits)))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (JJ present))) (, ,) (NP (NNS doctors)) (VP (MD can) (VP (VB see) (SBAR (WHADVP (WRB how) (RB badly)) (S (NP (DT an) (NN artery)) (VP (VBZ is) (VP (VBN clogged) (PP (ADVP (RB only)) (IN by) (S (VP (VP (VBG inserting) (NP (DT a) (JJ thin) (NN catheter)) (PP (IN into) (NP (DT the) (NN artery)))) (CC and) (VP (VBG injecting) (NP (NP (DT a) (NN fluid)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (S (NP (DT the) (NNS arteries)) (ADJP (JJ visible))))))) (PP (IN on) (NP (NNS X-rays))))))))))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ non-invasive) (NN method)) (VP (VBZ is) (VP (VBG being) (VP (VBN researched) (PP (IN by) (NP (NP (NN biophysicist) (NNP Lynn) (NNP Jelinski)) (PP (IN at) (NP (DT the) (NNP AT&T) (NN unit)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ relies) (PP (IN on) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (JJ certain) (NNS atoms)) (VP (VBP give) (PRT (RP off)) (NP (JJ detectable) (NNS signals)) (SBAR (WHADVP (WRB when)) (S (VP (VBN subjected) (PP (TO to) (NP (DT an) (JJ intense) (JJ magnetic) (NN field)))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the) (JJ same) (NN phenomenon)) (VP (VBN used) (PP (IN in) (NP (NP (DT the) (JJ new) (NNP MRI) (PRN (-LRB- -LRB-) (NP (JJ magnetic) (NN resonance) (NN imaging)) (-RRB- -RRB-)) (NNS scanners)) (VP (VBG being) (VP (VBN used) (PP (IN in) (NP (NNS hospitals))) (PP (IN in) (NP (NN place))))) (SBAR (IN of) (S (NP (NN X-ray)) (VP (VBZ scans))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNP Bell) (NNS Labs) (NNS experiments))) (, ,) (NP (NP (DT an) (NN MRI-type)) (PP (IN of) (NP (NN machine))) (, ,) (PP (VBN synchronized) (PP (IN with) (NP (NP (DT the) (NN heartbeat)) (PP (IN via) (NP (DT an) (NN electrocardiogram)))))) (, ,)) (VP (VP (ADVP (RB rapidly)) (VBZ flashes) (NP (DT a) (JJ magnetic) (NN field)) (PP (IN on))) (CC and) (VP (ADVP (RB off) (IN as) (NN blood)) (VBZ passes) (NP (NP (DT a) (JJ certain) (NN point)) (PP (IN in) (NP (DT a) (NN vessel)))))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (RB rapidly) (VBG flashing)) (NN return)) (VP (VBZ signals) (SBAR (IN from) (S (NP (NP (JJ excited) (NN hydrogen) (NNS atoms)) (PP (IN in) (NP (DT the) (NN blood)))) (VP (VBP give) (NP (NP (DT a) (`` `) (ADJP (`` `) (JJ stop-motion) ('' ')) ('' ') (NN movie)) (PP (IN of) (NP (DT the) (JJ blood-filled) (NN vessel)))) (, ,) (PRN (-LRB- -LRB-) (SBAR (IN like) (S (NP (DT the) (`` `) (ADJP (`` `) (JJ stop-motion) ('' ')) (POS ')) (VP (VBN seen) (PP (IN in) (NP (NN disco) (NNS dancers))) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ strobe) (NN light)) (VP (VBZ is) (VP (VBG flashing)))))))) (-RRB- -RRB-)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS scientists)) (VP (VBP have) (VP (VBN experimented) (PP (IN on) (NP (NP (DT the) (JJ tiny) (NN neck) (NNS arteries)) (PP (IN of) (NP (NNS rats))))))) (. .)))
+
+(S1 (S (S (NP (PRP They)) (VP (VBP 've) (VP (VBN been) (ADJP (JJ able) (S (VP (TO to) (VP (VB measure) (NP (NP (DT the) (JJ minuscule) (NNS movements)) (PP (IN of) (NP (DT the) (NN artery) (NN wall)))))))) (SBAR (IN as) (S (NP (DT the) (NN beating) (NN heart)) (VP (VBZ raises) (CC and) (VBZ lowers) (NP (NP (DT the) (NN pressure)) (PP (IN of) (NP (NP (DT the) (JJ flowing) (NN blood)) (, ,) (NP (NP (DT a) (JJ first)) (PP (IN for) (NP (JJ such) (JJ tiny) (NN blood) (NNS vessels))))))))))))) (, ,) (NP (PRP they)) (VP (VBP report) (PP (IN in) (NP (NP (NNP Nature)) (, ,) (NP (DT a) (JJ scientific) (NN journal))))) (. .)))
+
+(S1 (S (NP (PRP They)) (ADVP (RB now)) (VP (VBP are) (VP (VBG experimenting) (PP (IN with) (S (VP (VBG measuring) (NP (NN blood) (NN flow))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ ultimate) (NN hope)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN technique)) (VP (MD could) (VP (VB identify) (NP (JJ diseased) (NNS vessels))))))) (. .)))
+
+(S1 (NP (NNPS Odds) (CC and) (NNPS Ends)))
+
+(S1 (S (NP (NP (NNS TESTS)) (PP (IN ON) (NP (NP (JJ 2,800-year-old) (NNS mummies)) (PP (IN from) (NP (NNP Chile)))))) (VP (VBP indicate) (SBAR (S (NP (JJ ancient) (NN wood) (NNS fires)) (VP (VBD did) (RB n't) (VP (VB produce) (NP (NP (NNS dioxins) (CC or) (NNS dibenzofurans)) (, ,) (PP (VBG contradicting) (NP (NP (DT a) (NN theory)) (SBAR (S (NP (DT the) (CD two) (NNS pollutants)) (NP (NN today)) (VP (VBP are) (VP (VBG coming) (PP (IN from) (NP (NP (NN wood) (NN burning)) (, ,) (SBAR (S (NP (NNP General) (NNP Electric) (NNP Co.)) (VP (VBZ reports) (PP (IN in) (NP (NNP Environmental) (NNP Science) (CC &) (NNP Technology) (NN magazine) (NN ..)))))))))) (. .))))))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (QP (RB Almost) (CD 40)) (NN %)) (PP (IN of) (NP (JJ schizophrenic) (NNS men)))) (VP (VBP have) (NP (NP (DT an) (VBN impaired) (NN sense)) (PP (IN of) (NP (NP (NN smell)) (CC vs.) (NP (NP (QP (JJR fewer) (IN than) (CD 10)) (NN %)) (PP (IN of) (NP (JJ schizophrenic) (NNS women))))))))) (, ,) (VP (VBZ reports)) (NP (NP (DT the) (NNP American) (NNP Journal)) (PP (IN of) (NP (NN Psychiatry)))) (. .)))
+

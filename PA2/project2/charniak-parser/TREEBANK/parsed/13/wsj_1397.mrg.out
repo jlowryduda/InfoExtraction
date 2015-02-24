@@ -1,0 +1,124 @@
+(S1 (S (SBAR (WHADVP (WRB When) (JJ last)) (S (NP (PRP we)) (VP (VBD left) (NP (PRP him))))) (, ,) (NP (NNP FBI) (NNP Agent) (NNP Nick) (NNP Mancuso)) (VP (VBD had) (VP (VBN solved) (S (NP (NP (DT a) (NN murder) (NN mystery)) (, ,) (VP (VP (VBN unraveled) (NP (DT a) (ADJP (NNP Washington) (JJ political)) (NN scandal))) (, ,) (CC and) (VP (VBD racked) (PRT (RP up)) (NP (DT some) (ADJP (RB pretty) (JJ good)) (NNS ratings) (NNS numbers)) (PP (IN in) (NP (DT the) (NN miniseries)))))) (`` `) (NP (`` `) (JJ Favorite) (NN Son))))) (. .) ('' ') ('' ')))
+
+(S1 (SBARQ (WHNP (WP What)) (FRAG (ADJP (JJ next) (PP (IN for) (NP (NP (DT the) (JJ crusty) (NNP FBI) (NN agent)) (PP (IN with) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (NN gold))))))))) (. ?)))
+
+(S1 (FRAG (NP (DT A) (NN spinoff) (NN series)) (, ,) (PP (IN of) (NP (NN course))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBP are) (NP (NP (NN plenty)) (PP (IN of) (NP (NP (JJR worse) (NNS inspirations)) (PP (IN for) (NP (NP (NNS shows)) (PRN (: --) (CC and) (S (NP (NP (JJS most)) (PP (IN of) (NP (PRP them)))) (VP (VBD had) (ADVP (RB already)) (VP (VBN made) (NP (DT the) (NN fall) (NN lineup)))))))))))) (: :)))
+
+(S1 (S (NP (DT a) (NN nun)) (VP (VBG raising) (NP (DT some) (JJ lovable) (NNS orphans))) (. .)))
+
+(S1 (S (NP (DT A) (NN den) (NN mother)) (VP (VBG raising) (NP (DT some) (JJ lovable) (JJ teen) (NNS models))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN bunch)) (PP (IN of) (NP (NP (NNS tans)) (CC and) (NP (JJ bathing) (NNS suits))))) (VP (VBG posing) (PP (IN as) (NP (JJ lovable) (NNS lifeguards)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT that) (NN context))) (, ,) (NP (NP (NP (NNP Robert) (NNP Loggia) (POS 's)) (JJ riveting) (NN performance)) (PP (IN as) (NP (DT the) (ADJP (ADJP (JJ unlovable)) (PRN (: --) (ADJP (RB even) (JJ crotchety)) (: --))) (NN veteran) (NN agent)))) (VP (VBZ seems) (NP (NP (DT a) (JJR better) (NN franchise)) (PP (IN for) (NP (NP (DT a) (NN series)) (PP (IN than) (NP (JJS most))))))) (. .)))
+
+(S1 (NP (NP (NN Week)) (PP (IN by) (NP (NN week))) (PP (IN on) (NP (`` `) (NP (`` `) (NP (NNP Mancuso) (NNP FBI) (POS ')) ('' ') (PRN (-LRB- -LRB-) (NP (NNP NBC)) (, ,) (NP (NNP Fridays)) (, ,) (NP (CD 10) (RB p.m) (. .) (FW ET)) (-RRB- -RRB-)) (, ,) (SBAR (S (NP (PRP he)) (VP (VBZ pokes) (PP (IN around) (NP (NP (DT the) (NN crime) (NNS styles)) (PP (IN of) (NP (NP (DT the) (ADJP (JJ rich) (, ,) (JJ famous) (CC and) (JJ powerful))) (PP (IN of) (NP (DT the) (NNP Washington) (NN scene))))))))))) (: --) (NP (NP (DT a) (JJ loose) (NNP cannon)) (PP (IN on) (NP (NP (NN deck)) (PP (IN at) (NP (DT the) (NNP FBI)))))))) (. .)))
+
+(S1 (S (PP (IN Over) (NP (DT the) (JJ first) (JJ few) (NNS weeks))) (, ,) (`` `) (NP (`` `) (NP (NNP Mancuso) (NNP FBI)) ('' ')) ('' ') (VP (VBZ has) (VP (VBN sprung) (ADVP (RB straight)) (PP (IN from) (NP (NP (DT the) (NNS headlines)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB either)) (NP (NP (NP (DT a) (JJ commendable) (NN stab)) (PP (IN at) (NP (NN topicality)))) (, ,) (CC or) (NP (NP (DT a) (NN lack)) (PP (IN of) (NP (NN imagination)))) (, ,) (CC or) (NP (DT both)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN opening) (NN show)) (VP (VBD featured) (S (NP (NP (DT a) (NN secretary)) (PP (IN of) (NP (NN defense)))) (VP (VB designate) (VP (VBN accused) (PP (IN of) (NP (NP (VBG womanizing)) (PRN (-LRB- -LRB-) (NP (NP (DT a)) (NP (DT la) (NNP John) (NNP Tower))) (-RRB- -RRB-)))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP$ his) (NN secretary)) (VP (VBZ is) (VP (VBN found) (S (ADJP (JJ floating) (JJ dead))) (PP (IN in) (NP (NP (DT the) (NNP pol) (POS 's)) (NN pool))))))) (, ,) (NP (NNP Mancuso)) (VP (VBZ is) (VP (VBN called) (PRT (RP in)) (S (VP (TO to) (VP (VB investigate)))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN week)) (, ,) (NP (DT a) (JJ young) (NN black) (NN girl)) (VP (VBD claimed) (SBAR (S (NP (PRP she)) (VP (VBD had) (VP (VBN been) (VP (VBN raped) (PP (IN by) (NP (NP (DT a) (JJ white) (NN police) (NN officer)) (PRN (-LRB- -LRB-) (NP (DT a) (FW la) (FW Tawana) (NNP Brawley)) (-RRB- -RRB-)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT this) (NN week) (POS 's)) (NN show))) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT an) (JJ unsafe) (JJ nuclear) (NN weaponsmaking) (NN facility)) (PRN (-LRB- -LRB-) (NP (DT a) (NNP la) (NNP Rocky) (NNS Flats)) (-RRB- -RRB-)))) (. .)))
+
+(S1 (S (PP (IN Along) (NP (DT the) (NN way))) (, ,) (NP (PRP we)) (VP (VBP 're) (VP (VBN introduced) (PP (TO to) (NP (NP (DT the) (VBG supporting) (NN cast)) (: :) (NP (NP (DT a) (JJ blond) (NN bombshell) (NN secretary)) (PRN (-LRB- -LRB-) (NP (NNP Randi)) (VP (VB Brazen) (NP (: --) (NP (NP (PRP$ her) (JJ real) (NN name)) (PRN (, ,) (JJ honest) (-RRB- -RRB-))) (, ,) (NP (NP (DT a) (VBG scheming) (JJ young) (NN boss)) (PRN (-LRB- -LRB-) (NP (NNP Fredric) (NNP Lehne)) (-RRB- -RRB-))) (, ,) (NP (NP (DT another) (JJ blonde) (NN bombshell)) (SBAR (WHNP (WP who)) (S (VP (VBZ 's) (RB also) (NP (NP (DT an) (JJ idealistic) (NN lawyer)) (PRN (-LRB- -LRB-) (NP (NNP Lindsay) (NNP Frost)) (-RRB- -RRB-))))))) (, ,) (CC and) (NP (DT a) (NNS forensics) (NN expert)))) (-LRB- -LRB-) (NP (NNP Charles) (NNP Siebert)) (-RRB- -RRB-))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NP (DT all)) (PP (IN of) (NP (DT this)))) (VP (VBZ seems) (ADJP (NP (DT a) (RB little)) (JJ stale))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBN redeemed) (PP (IN in) (NP (NN part))) (PP (IN by) (NP (DT some) (JJ tricky) (NN plot) (NNS twists))))) (: :)))
+
+(S1 (S (NP (DT The) (JJ usual) (NNS suspects)) (VP (VBP are) (VP (VBN found) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (JJ guilty)) (, ,) (ADJP (RB then) (RB not) (JJ guilty)) (, ,) (ADJP (RB then) (JJ guilty)))))) (: --) (FRAG (CC but) (PP (IN of) (NP (DT a) (JJ different) (NN crime)))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (PP (IN In) (NP (NP (JJ last) (NN week) (POS 's)) (NN rape) (NN case))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (S (NP (DT the) (NN girl)) (VP (VBZ turns) (PRT (RP out)) (S (VP (TO to) (VP (VB have) (VP (VBN been) (NP (NP (DT a) (NN victim)) (PP (IN of) (NP (NN incest)))))))))) (, ,) (CC and) (S (NP (DT the) (JJS biggest) (NNS villains)) (VP (VBP are) (NP (NP (DT the) (NNS politicians)) (SBAR (WHNP (WP who)) (S (VP (VB exploit) (NP (DT the) (NN case)))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (ADVP (RBS Most) (IN of) (DT all) (IN though)) (, ,) (NP (DT the) (NN show)) (VP (VBZ is) (VP (VBN redeemed) (PP (IN by) (NP (NP (DT the) (NN character)) (PP (IN of) (NP (NNP Mancuso))))))) (. .)))
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (VBZ makes) (NP (NP (DT the) (JJ veteran) (NNP FBI) (NN man)) (ADJP (RB so) (JJ endearing))) (VP (VBZ is) (NP (PRP$ his) (JJ hard-bitten) (NN cynicism)) (: --) (S (VP (VBN earned) (PRN (, ,) (S (NP (PRP we)) (VP (VBP discover))) (, ,)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN assigned) (PP (TO to) (NP (NP (DT the) (JJ civil) (NNS rights) (NN movement)) (PP (ADVP (RB back)) (IN in) (NP (DT the) (NNS 1960s))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (VP (VBD was) (RB n't) (VP (VBG protecting) (NP (DT the) (NNP Freedom) (NNPS Marchers))))) (: ;) (S (NP (PRP he)) (VP (VBD was) (VP (VBG tailing) (NP (PRP them)) (PP (IN as) (NP (NNS subversives)))))) (. .)))
+
+(S1 (S (S (NP (DT This)) (VP (VBZ is) (RB not) (NP (NP (NP (DT the) (`` `) (NX (`` `) (NX (NNP Mississippi) (NN Burning)) ('' ')) (POS ')) (NN scenario)) (SBAR (WHNP (WDT that)) (S (VP (VBZ thrills) (NP (PRP$ his) (JJ young) (NNS colleagues)))))))) (: :) (S (`` `) (`` `) (S (ADVP (NNP Kid)) (, ,) (NP (PRP you)) (VP (VBP 've) (VP (VBN been) (VP (VBG reading) (NP (NNP Classic) (NNPS Comics)) (ADVP (RB too) (JJ long)))))) (, ,) ('' ') ('' ') (NP (NNP Mancuso)) (VP (VBZ says))) (. .)))
+
+(S1 (S (`` `) (PP (`` `) (ADVP (RB Back)) (IN in) (NP (CD 1964))) (, ,) (NP (DT the) (NNP FBI)) (VP (VBD had) (NP (CD five) (JJ black) (NNS agents))) (. .)))
+
+(S1 (S (S (NP (CD Three)) (VP (VBD were) (NP (NP (NNS chauffeurs)) (PP (IN for) (NP (NNP J.) (NNP Edgar) (NNP Hoover)))))) (, ,) (CC and) (S (NP (CD two)) (VP (VBD cleaned) (NP (PRP$ his) (NN house)))) (. .) ('' ') ('' ')))
+
+(S1 (SINV (PP (IN At) (NP (NP (DT the) (NN core)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Loggia) (POS 's)) (NNP Mancuso))))) (VP (VBZ is)) (NP (PRP$ his) (JJ world-weary) (NN truculence)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ describes) (NP (DT a) (NN reporter)) (PP (IN as) (`` `) (NP (`` `) (NNP Miss) (NNP First) (NNP Amendment)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBZ describes) (NP (DT a) (VBN drowned) (NN corpse)) (PP (IN as) (`` `) (NP (`` `) (NNP Esther) (NNP Williams)))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (PRP he) (VBZ 's)) (VP (VBD told) (`` `) (S (`` `) (VP (VBP Try) (NP (DT a) (JJ little) (NN tenderness))) (, ,) ('' ')) ('' ')))) (NP (PRP he)) (VP (NNS shoots) (PRT (RP back)) (NP (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (ADVP (NN home)) (S (VP (TO to) (VP (VB try) (NP (DT a) (JJ little) (NN linguine))))))) (. .) ('' ')) ('' ')))))
+
+(S1 (S (CC Yet) (PP (IN for) (NP (PDT all) (PRP$ his) (NN cynicism))) (, ,) (NP (PRP he)) (VP (VBZ 's) (PP (IN at) (NP (NN heart))) (NP (NP (DT a) (NN closet) (NN idealist)) (, ,) (NP (NP (DT a) (NN softy)) (PP (IN with) (NP (NP (DT a) (JJ secret) (NN crush)) (PP (IN on) (NP (NN truth)))))) (, ,) (NP (NN justice)) (CC and) (NP (DT the) (NNP American) (NNP Way)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (DT the) (NN kind)) (PP (IN of) (NP (NN guy))) (SBAR (WHNP (WP who)) (S (VP (VBZ rescues) (VP (VBN trampled) (NP (NNS flags)))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (`` `) (NP (`` `) (NNP Mancuso) (NNP FBI) ('' ')) ('' ') (VP (VBZ has) (NP (DT an) (JJ intriguing) (JJ central) (NN character))))) (, ,) (NP (PRP it)) (ADVP (RB also)) (VP (VBZ has) (NP (DT a) (JJ major) (NN flaw))) (: :)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB wildly) (JJ overwritten))) (. .)))
+
+(S1 (S (NP (JJ Executive) (NNS Producers) (NX (NX (NNP Steve) (NNP Sohmer)) (CC and) (NX (NX (NNP Jeff) (NNP Bleckner)) (PRN (-LRB- -LRB-) (CC and) (VP (VBZ writer\/producers) (NP (NP (NNP Ken) (NNP Solarz)) (CC and) (NP (NNP Steve) (NNP Bello)))) (-RRB- -RRB-))))) (VP (VBP have) (VP (VBN revved) (NP (DT this) (NN show)) (ADVP (RB up) (PP (TO to) (NP (DT the) (NN breaking) (NN point)))))) (. .)))
+
+(S1 (S (S (S (VP (TO To) (VP (VB start)))) (, ,) (NP (EX there)) (VP (VBZ 's) (ADVP (RB always)) (NP (DT a) (NN crisis)))) (: --) (CC and) (S (NP (NN someone)) (ADVP (RB always)) (VP (VBZ worries) (, ,) (`` `) (FRAG (`` `) (WHNP (WP What)) (SBAR (IN if) (S (NP (DT the) (NN press)) (VP (VBZ gets) (NP (NP (DT a) (NN hold)) (PP (IN of) (NP (DT this))))))) (. ?) ('' ')))) ('' ')))
+
+(S1 (S (PP (ADVP (IN At) (JJS least)) (IN once) (NP (DT an) (NN episode))) (NP (PRP we)) (VP (VBP see) (NP (NP (NNS protestors)) (VP (VBG marching) (PP (IN around) (NP (VBG screaming) (NNS slogans)))))) (. .)))
+
+(S1 (FRAG (ADVP (ADVP (IN At) (JJS least)) (SBAR (IN once) (S (NP (NP (NNP Mancuso) (POS 's)) (NN boss)) (VP (VP (VBZ yells) (`` `) (S (`` `) (NP (NP (NNP In)) (ADVP (ADVP (RB here)) (: --) (ADVP (RB now)))) (, ,) ('' ')) ('' ')) (CC and) (VP (VBZ proceeds) (S (VP (TO to) (VP (VB dress) (NP (PRP$ his) (NN investigator)) (PRT (RP down)))))))))) (: :)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP You)) (VP (VBP are) (NP (DT a) (NN dinosaur) (NN ..)))) (. .) (NP (NP (DT a) (NN hangover)) (PP (IN in) (NP (DT a) (ADJP ($ $) (CD 10)) (NN suit)))) (VP (VBZ ..)) (. .)))
+
+(S1 (S (NP (NP (CD One) (JJR more) (NN word)) (CC and) (NP (PRP you))) (VP (VBP are) (PP (IN out) (PP (IN on) (NP (NP (DT a) (NN park) (NN bench)) (, ,) (NP (NN mister)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Finally)) (, ,) (PP (IN of) (NP (NN course))) (, ,) (S (NP (DT the) (NN boss)) (VP (VBZ gives) (PRT (RP in)))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ 's) (ADVP (RB still)) (VP (VBG yelling) (: :) (`` `) (S (`` `) (S (NP (PRP I)) (VP (VBP find) (NP (PRP myself)) (S (VP (VBG explaining) (NP (NN anything)) (PP (TO to) (NP (NNP Teddy) (NNP Kennedy))))))) (, ,) (S (NP (PRP you)) (VP (MD 'll) (VP (VB be) (VP (VBG chasing) (NP (VBN stolen) (NNS cars)) (PP (IN in) (NP (NNP Anchorage))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (NN fact))) (, ,) (S (PP (IN throughout) (NP (`` `) (NP (`` `) (NP (NNP Mancuso) (NNP FBI)) (, ,) ('' ')) ('' '))) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB get) (NP (NNS words) (CC or) (NNS lines))))) (: --) (S (NP (PRP we)) (VP (VBP get) (NP (NNS speeches)))) (. .)))
+
+(S1 (S (NP (NNS Witnesses)) (VP (VB shout) (, ,) (FRAG (X (NN scream) (, ,) (FW pontificate)) (: :) (`` `) (INTJ (`` `) (UH ..) (. .)) (NP (DT a) (NN dream) (SBAR (IN that) (S (NP (DT the) (NN planet)) (VP (MD could) (VP (VB be) (VP (VBN saved) (PP (PP (IN from) (NP (PRP itself))) (CC and) (PP (IN from) (NP (NP (DT the) (JJ sadistic) (JJ dumb) (NNS creatures)) (SBAR (WHNP (WP who)) (S (VP (VBP try) (S (VP (TO to) (VP (VB tear) (PRT (RP down)) (NP (NP (DT every) (JJ decent) (NN man)) (SBAR (WHNP (WP who)) (S (VP (VBZ raises) (NP (PRP$ his) (NN voice))))))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC And) (S (NP (NP (NNP Mancuso)) (NP (PRP himself))) (VP (VBZ is) (VP (VBG investigating) (PP (IN at) (NP (NP (DT the) (NN top)) (PP (IN of) (NP (PRP$ his) (NNS lungs)))))))) (: :) (S (`` `) (SBARQ (`` `) (WHADVP (WRB How) (NP (DT the) (NN hell))) (SQ (MD can) (NP (PRP you)) (VP (VB live) (PP (IN with) (NP (PRP yourself))))) (. ?) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ erupts) (PP (IN at) (NP (DT a) (NN politician))))) (. .)))
+
+(S1 (S (`` `) (`` `) (NP (PRP You)) (VP (NN twist) (NP (NP (NNS people) (POS 's)) (NN trust))) (. .)))
+
+(S1 (S (NP (PRP You)) (VP (VP (VBN built) (NP (PRP$ your) (NN career)) (PP (IN on) (NP (NN prejudice)))) (CC and) (VBP hate)) (. .)))
+
+(S1 (S (NP (DT The) (NNS scars)) (VP (MD will) (VP (VB be) (ADVP (RB here)) (PP (NP (NNS years)) (IN after) (NP (DT the) (NNS polls) (NN close))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (DT each) (NN show))) (, ,) (NP (NNP Mancuso)) (VP (VBZ gets) (S (TO to) (VP (VBP unleash) (NP (JJ similar) (NNS harangues))))) (: :)))
+
+(S1 (SBARQ (`` `) (`` `) (WHADVP (WRB Where) (NP (DT the) (NN hell))) (SQ (VBP are) (NP (PRP they)) (VP (VB gon) (S (VP (TO na) (VP (VB live) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNS people)) (PP (IN like) (NP (PRP you)))) (VP (VBP turn) (NP (DT the) (NN world)) (PP (IN into) (NP (DT a) (JJ big) (JJ toxic) (NN waste) (NN dump))))))))))) (. ?)))
+
+(S1 (S (NP (PRP You)) (VP (VBP 're) (SBAR (S (S (NP (DT the) (JJ real) (NN criminal)) (ADVP (RB here)) (VP (VBZ ..)) (. .)) (CC and) (S (S (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBD did)))) (VP (VBD was) (RB n't) (NP (RB just) (DT a) (NN murder)))) (: --) (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN crime)) (PP (IN against) (NP (NN humanity)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC And) (PRN (, ,) (PP (ADVP (IN at) (JJS least)) (IN once) (NP (DT a) (NN show))) (, ,)) (NP (NN someone)) (VP (VBZ delivers) (NP (NP (DT the) (NN line)) (`` `) (S (`` `) (VP (VB Get) (PRT (RP off)) (NP (DT that) (NN soapbox))) (. .) ('' ')) ('' ')))))
+
+(S1 (S (ADVP (RB Now)) (NP (DT that)) (VP (VBZ 's) (NP (NP (NN advice)) (SBAR (S (NP (DT the) (NNS writers)) (VP (MD should) (VP (VB take) (PP (TO to) (NP (NN heart))))))))) (. .)))
+
+(S1 (S (S (NP (PRP They)) (VP (VP (VBP have) (NP (NP (DT a) (NN series)) (PP (IN with) (NP (DT a) (JJ good) (NN character))))) (, ,) (NP (DT some) (JJ interesting) (, ,) (ADJP (ADVP (RB even) (RB occasionally)) (JJ surprising)) (NN plot) (NNS lines)))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG ruining) (NP (PRP it))))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB Why)) (PRN (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ key) (NN witness)) (VP (VBZ disappears)))) (, ,)) (SQ (VBZ does) (NP (NNP Mancuso)) (VP (NN trash) (NP (PRP$ her) (NN apartment)) (, ,) (S (VP (VP (VBG tearing) (PRT (RP down)) (NP (NNS drapes))) (, ,) (NP (NN smashing) (NNS walls)))))) (. ?)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (ADJP (JJ bizarre)) (CC and) (ADJP (RB totally) (JJ inappropriate))) (NN reaction)) (, ,) (RB all) (S (VP (TO to) (VP (VB add) (NP (JJR more) (NN pizzazz)) (PP (TO to) (NP (NP (DT a) (NN script)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB already)) (VP (VBG overdosing) (PP (IN on) (NP (NN pizzazz)))))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (RB not) (NP (NN plot))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (RB not) (NP (NN character))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (VP (VBG hyperventilating))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT a) (NN scene)) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN week) (POS 's)) (NN show))) (SBAR (WHADVP (WRB where)) (S (NP (NNP Mancuso)) (VP (VBZ attends) (NP (NP (DT the) (NN unveiling)) (PP (IN of) (NP (DT the) (NNP memorial))) (PP (TO to) (NP (PRP$ his) (JJ dead) (NN partner)))) (NP (NNP David))))))))) (. .)))
+
+(S1 (S (S (S (VP (VBN Asked) (S (VP (TO to) (VP (VB say) (NP (DT a) (JJ few) (NNS words))))))) (, ,) (NP (PRP he)) (VP (VP (VBZ pulls) (PRT (RP out)) (NP (NP (PRP$ his) (VBN crumpled) (NN piece)) (PP (IN of) (NP (NN paper))))) (CC and) (VP (VBZ tries) (S (VP (TO to) (VP (VB talk))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ 's) (ADVP (RB too)) (VP (VBD choked) (PRT (RP up)) (S (VP (TO to) (VP (VB get) (NP (DT the) (NNS words)) (PRT (RP out)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBZ bangs) (PP (IN on) (NP (NP (DT the) (NN piece)) (PP (IN of) (NP (NN paper))))) (PP (IN in) (NP (NN frustration)))) (, ,) (VP (ADVP (RB then)) (VBZ turns)) (CC and) (VP (VBZ walks) (ADVP (RB away)))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (ADJP (RB profoundly) (JJ moving)) (NN moment)) (PP (IN for) (NP (NN series) (NN television)))))) (, ,) (CC and) (S (NP (NNP Robert) (NNP Loggia)) (VP (VBZ 's) (VP (VBG acting) (VP (VBN resonated) (PP (IN in) (NP (DT the) (NN silence))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (RB pretty) (JJ good)) (NN program)) (PP (IN inside) (NP (NP (PDT all) (DT the) (NN noise)) (PP (IN of) (`` `) (NP (`` `) (NNP Mancuso) (NNP FBI))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (SBAR (IN If) (S (NP (NP (DT the) (NN show) (POS 's)) (NNS creators)) (VP (MD could) (ADVP (RB just)) (VP (VB let) (S (NP (PRP themselves)) (VP (VB be) (ADJP (JJ quiet) (PP (IN for) (NP (DT a) (JJ little)))))))))) (, ,) (NP (PRP they)) (VP (MD might) (ADVP (RB just)) (VP (VB hear) (NP (PRP it)))) (. .)))
+

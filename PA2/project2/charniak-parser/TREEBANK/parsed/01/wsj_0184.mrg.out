@@ -1,0 +1,32 @@
+(S1 (S (NP (NNP Upjohn) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB offer) (NP (DT an) (JJ early) (NN retirement)) (NP (NN package)) (PP (TO to) (NP (NP (RB as) (JJ many)) (PP (IN as) (NP (NP (CD 1,100) (NNS employees)) (PP (IN in) (NP (NP (DT a) (JJ cost-cutting) (NN move)) (VP (VBN expected) (S (VP (TO to) (VP (VB result) (PP (IN in) (NP (DT a) (JJ fourth-quarter) (NN charge)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Upjohn)) (NP (NNS officials)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD could) (RB n't) (VP (VB estimate) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (DT the) (NN charge)))) (PP (IN until) (NP (PRP they))) (S (VP (VB determine) (SBAR (WHNP (WDT which)) (S (NP (NNS employees)) (, ,) (SBAR (WHADVP (CC and) (WRB how)) (S (ADJP (JJ many)))) (, ,) (VP (MD will) (VP (VB participate) (PP (IN in) (NP (DT the) (NN retirement) (NN plan)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ pharmaceutical) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (`` `) (VP (`` `) (VBZ anticipates) (NP (NP (DT the) (JJ long-term) (NN savings)) (VP (VBG resulting) (PP (IN from) (NP (NP (NP (DT the) (NN plan) (POS 's)) (NN implementation)) (SBAR (S (VP (MD will) (VP (ADVP (RBR more) (IN than)) (VB offset) (NP (JJ short-term) (NNS costs)))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT The) (NN program)) (, ,) (ADJP (JJ available) (PP (TO to) (NP (NP (NNP Upjohn) (NNS employees)) (ADJP (ADJP (NP (CD 55) (NNS years)) (JJ old)) (CC or) (ADJP (JJR older)))))) (, ,)) (VP (MD could) (VP (VB increase) (NP (NP (DT an) (NN individual) (POS 's)) (NN retirement) (NNS benefits)) (NP (QP (CD 10) (NN %) (TO to) (CD 20) (NN %))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP Upjohn)) (VP (VBZ is) (VP (VBG offering) (NP (NP (DT a) (JJ one-time) (NN retirement) (NN bonus)) (ADJP (JJ equal) (PP (TO to) (NP (NP (CD six) (NNS months)) (PP (IN of) (NP (NN base) (NN pay))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Chairman)) (NP (NNP Theodore) (NNP Cooper))) (VP (VBD called) (NP (NP (DT the) (NN program) (S (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (JJ two-year) (NN strategy)))) (VP (TO to) (VP (VB implement) (NP (NN budget) (NNS constraints)))))) (CC and) (NP (`` `) (NP (`` `) (DT an) (JJ effective) (JJ headcount-control) (NN program))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (DT some) (NNS analysts)) (VP (VBD questioned) (SBAR (WHADVP (WRB how) (NP (NP (JJ much)) (PP (IN of) (NP (DT an) (NN impact))))) (S (NP (DT the) (NN retirement) (NN package)) (VP (MD will) (VP (VB have) (, ,) (SBAR (IN because) (S (NP (JJ few) (NNS jobs)) (VP (MD will) (VP (VB end) (PRT (RP up)) (S (VP (VBG being) (VP (VBN eliminated))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (JJ cosmetic) (NN move)))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Jonathan) (NNP S.) (NNP Gelles)) (PP (IN of) (NP (NNP Wertheim) (NNP Schroder) (CC &) (NNP Co)))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NP (NNP Upjohn) (POS 's)) (NNS estimates)))) (, ,) (NP (NP (QP (RB only) (CD 50) (NN %) (TO to) (CD 60) (NN %))) (PP (IN of) (NP (DT the) (CD 1,100) (JJ eligible) (NNS employees)))) (VP (MD will) (VP (VB take) (NP (NP (NN advantage)) (PP (IN of) (NP (DT the) (NN plan)))))) (. .)))
+
+(S1 (S (NP (NNP Upjohn)) (ADVP (RB further)) (VP (VBD estimated) (SBAR (IN that) (S (NP (NP (QP (IN about) (CD 50)) (NN %)) (PP (IN of) (NP (NP (DT the) (NNS employees)) (SBAR (WHNP (WP who)) (S (VP (VBP leave) (PP (IN for) (NP (JJ early) (NN retirement))))))))) (VP (MD may) (VP (VB be) (VP (VBN replaced))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NNP Upjohn)) (VP (MD will) (ADVP (RB likely)) (VP (VB trim) (NP (NP (QP (RB only) (IN about) (CD 275) (TO to) (CD 350))) (PP (IN of) (NP (NP (PRP$ its) (JJR more)) (PP (IN than) (NP (NP (CD 21,000) (NNS jobs)) (ADVP (JJ world-wide))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (JJ composite) (NN trading)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))) (NP (NN yesterday)))) (, ,) (NP (NNP Upjohn) (NNS shares)) (VP (VBD rose) (NP (CD 87.5) (NNS cents)) (PP (TO to) (NP (NP ($ $) (CD 38.875)) (NP (RB apiece))))) (. .)))
+
+(S1 (S (NP (DT An) (NNP Upjohn) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD had) (S (`` `) (S (`` `) (VP (VBD heard) (NP (NN nothing))) ('' ')) ('' ') (VP (TO to) (VP (VB suggest) (NP (DT the) (JJ early) (NN retirement) (SBAR (S (NP (NN package)) (VP (VBD was) (VP (VBN spurred) (PP (IN by) (NP (NP (NN shareholder) (NN pressure)) (CC or) (NP (NP (DT a) (JJ potential) (NN bidder)) (PP (IN for) (NP (NP (DT the) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB occasionally)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN target)) (PP (IN of) (NP (NN takeover) (NN speculation))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RBR earlier) (NP (DT this) (NN year))) (VP (VBD adopted) (NP (DT a) (JJ shareholder-rights) (NN plan) (S (VP (TO to) (VP (VB ward) (PRT (RP off)) (NP (JJ unwanted) (NNS suitors))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (JJ early) (NN retirement) (NN plan)) (VP (VBN offered) (PP (IN under) (NP (PRP$ its) (JJ two-year) (JJ cost-control) (NN strategy))))))))) (. .)))
+
+(S1 (S (S (NP (JJR Earlier) (NN staff-reduction) (NNS moves)) (VP (VBP have) (VP (VBN trimmed) (NP (QP (IN about) (CD 300)) (NNS jobs))))) (, ,) (NP (DT the) (NN spokesman)) (VP (VBD said)) (. .)))
+

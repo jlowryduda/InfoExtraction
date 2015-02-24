@@ -1,0 +1,24 @@
+(S1 (S (PP (IN Without) (NP (NP (JJ federal) (NNS subsidies)) (PP (TO to) (NP (NP (NNS developers)) (PP (IN of) (NP (NN beach) (NNS houses))))))) (, ,) (NP (NP (DT the) (JJ economic) (CC and) (JJ structural) (NN damage)) (PP (IN by) (NP (NP (NNP Hurricane) (NNP Hugo)) (PP (IN in) (NP (NNP South) (NNP Carolina)))))) (VP (MD would) (VP (VB have) (VP (VBN been) (ADJP (RB much) (JJR less)) (, ,) (SBAR (IN as) (S (VP (VBN highlighted) (PP (IN by) (S (NP (PRP$ your) (NNP Oct.) (CD 3) (NN editorial)) (`` `) (VP (`` `) (VBG Subsidizing) (NP (NN Disaster))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Congress)) (VP (MD should) (VP (VB stop) (S (VP (VBG throwing) (NP (NN tax) (NNS dollars)) (PRT (RP out)) (PP (TO to) (NP (NN sea))))) (PP (IN by) (S (VP (VBG subsidizing) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NN beach) (NNS communities)))) (PP (IN on) (NP (NP (ADJP (RB ecologically) (JJ fragile)) (JJ coastal) (NN barrier) (NNS islands)) (, ,) (PP (JJ such) (IN as) (NP (NP (DT the) (JJ hard-hit) (NNP Isle)) (PP (IN of) (NP (NNS Palms)))))))))) (PP (IN near) (NP (NNP Charleston))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (PRP you)) (VP (VBN mentioned)))) (, ,) (NP (NP (NNS subsidies)) (PP (IN for) (NP (NP (NN development)) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NN barrier) (NNS islands)))))))) (VP (VBD were) (VP (VBN curtailed) (PP (IN in) (NP (CD 1982))) (PP (IN by) (NP (DT the) (NNP Coastal) (NNP Barrier) (NNP Resource) (NNP System))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP National) (NNP Taxpayers) (NNP Union)) (VP (MD would) (VP (VB like) (S (NP (NNP Congress)) (VP (TO to) (VP (VB add) (NP (CD 800,000) (NNS acres)) (PP (TO to) (NP (NP (DT the) (CD 453,000)) (PP (IN of) (NP (NP (NN shoreline)) (PP (IN in) (NP (DT the) (NN system))))))) (PP (IN by) (S (VP (VBG enacting) (`` `) (S (`` `) (NP (NP (DT The) (NNP Coastal) (NNP Barrier) (NNP Improvement) (NNP Act)) (PP (IN of) (NP (CD 1989))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT This) (NN bill)) (ADVP (RB simply)) (VP (VBZ says) (SBAR (IN that) (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB develop) (NP (NN property)) (PP (IN on) (NP (DT a) (NN barrier) (NN island))))))))) (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB do) (ADVP (RB so)) (PP (IN without) (NP (NN taxpayer) (NN support)))))))))) (. .)))
+
+(S1 (S (NP (JJ Private-property) (NNS rights)) (VP (MD would) (VP (VB be) (VP (VBN upheld) (SBAR (IN because) (S (NP (DT the) (NN legislation)) (VP (MD would) (RB not) (VP (VB ban) (NP (JJ coastal) (NN development))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NN home) (NNS builders)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB bear) (NP (NP (DT the) (JJ full) (NNS costs)) (PP (IN of) (NP (JJ such) (JJ beach-house) (NN construction))))))))) (. .)))
+
+(S1 (S (NP (DT A) (NNP Taxpayers) (NNP Union) (NN study)) (VP (VBD concluded) (SBAR (S (NP (DT the) (NN bill)) (VP (MD would) (VP (VB save) (NP (NNS taxpayers)) (NP (NP (QP (IN up) (TO to) ($ $) (CD 9.3) (CD billion))) (PP (IN in) (NP (NP (JJ barrier-island) (NNS subsidies)) (PP (IN over) (NP (CD 20) (NNS years))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Already)) (, ,) (NP (DT the) (CD 1982) (NN legislation)) (VP (VBZ has) (VP (VBN saved) (NP (DT an) (VBN estimated) (QP ($ $) (CD 800) (CD million))))) (. .)))
+
+(S1 (NP (NNP Marshall) (NNP Y.) (NNP Taylor)))
+
+(S1 (NP (NNP Communications) (NNP Director)))
+
+(S1 (NP (NNP National) (NNP Taxpayers) (NNP Union)))
+

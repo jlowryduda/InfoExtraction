@@ -1,0 +1,36 @@
+(S1 (PRN (-LRB- -LRB-) (S (PP (IN During) (NP (PRP$ its) (NN centennial) (NN year))) (, ,) (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal)) (VP (MD will) (VP (VB report) (NP (NP (NNS events)) (PP (IN of) (NP (DT the) (JJ past) (NN century))) (SBAR (WHNP (WDT that)) (S (VP (VBP stand) (PP (IN as) (NP (NP (NNS milestones)) (PP (IN of) (NP (JJ American) (NN business) (NN history))))))))))) (. .)) (-RRB- -RRB-)))
+
+(S1 (S (NP (NNP LUTHER) (NNP BURBANK)) (VP (VBD CROSS-BRED) (NP (NNS PLANTS)) (S (VP (TO to) (VP (VB produce) (NP (DT the) (JJ billion-dollar) (NNP Idaho) (NN potato)))))) (. .)))
+
+(S1 (S (NP (NNS Bioengineers)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB duplicate) (NP (DT that) (NN feat)) (: --) (ADVP (RB scientifically) (CC and) (RB commercially)) (: --) (PP (IN with) (NP (JJ new) (NN life) (NNS forms))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1953))) (, ,) (NP (NP (NNP James) (NNP Watson)) (CC and) (NP (PRP$ his) (NNS colleagues))) (VP (VBD unlocked) (NP (NP (DT the) (JJ double) (NN helix)) (PP (IN of) (NP (NP (NNP DNA)) (PRN (-LRB- -LRB-) (NP (JJ deoxyribonucleic) (NN acid)) (-RRB- -RRB-)) (, ,) (NP (NP (DT the) (JJ genetic) (NN key)) (PP (TO to) (NP (NN heredity)))))))) (. .)))
+
+(S1 (S (ADVP (NP (CD Twenty) (NNS years)) (RB later)) (, ,) (NP (NP (CD two) (NNP California) (NNS academics)) (, ,) (NP (NP (NNP Stanley) (NNP Cohen)) (CC and) (NP (NNP Herbert) (NNP Boyer))) (, ,)) (VP (VBD made) (NP (`` `) (NP (`` `) (NN recombinant) ('' ')) ('' ')) (NP (NNP DNA)) (, ,) (S (VP (VBG transplanting) (NP (NP (DT a) (NN toad) (POS 's)) (NN gene)) (PP (IN into) (NP (NP (NNS bacteria)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB then)) (VP (VBN reproduced) (NP (JJ toad) (NNS genes)))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Boyer)) (VP (VBD met) (NP (NP (NNP Robert) (NNP Swanson)) (, ,) (NP (NP (DT an) (JJ M.I.T.-trained) (NN chemist-turned-entrepreneur)) (PP (IN in) (NP (CD 1976)))))))) (, ,) (NP (PRP they)) (VP (VBD saw) (NP (NN dollar) (NNS signs))) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (NP ($ $) (CD 500)) (NP (RB apiece))) (CC and) (NP (NP (DT an) (NN injection)) (PP (IN of) (NP (JJ outside) (NN capital)))))) (, ,) (NP (PRP they)) (VP (VBD formed) (NP (NNP Genentech) (NNP Inc))) (. .)))
+
+(S1 (S (NP (JJ Commercial) (NN gene-splicing)) (VP (VBD was) (VP (VBN born))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Genentech) (POS 's)) (JJ first) (NN product)) (, ,) (NP (NP (DT a) (NN brain) (NN protein)) (VP (VBN called) (S (NP (NN somatostatin))))) (, ,)) (VP (VBD proved) (NP (PRP$ its) (NN technology))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (JJ next) (S (VP (TO to) (VP (VB be) (VP (VBN cloned)))))) (, ,) (JJ human) (NN insulin)) (, ,) (VP (VBD had) (SBAR (S (NP (NP (NN market) (NN potential)) (CC and) (NP (NNP Genentech))) (VP (VBD licensed) (NP (PRP it)) (PP (TO to) (NP (NP (NNP Eli) (NNP Lilly)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD produced) (NP (NP (CD 80) (NN %)) (PP (IN of) (NP (NP (DT the) (NN insulin)) (VP (VBN used) (PP (IN by) (NP (QP (CD 1.5) (CD million)) (NNP U.S.) (NNS diabetics)))))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP$ Their) (NN laboratory) (NNS credentials)) (VP (VBD established))) (, ,) (NP (NNP Boyer) (CC and) (NNP Swanson)) (VP (VBD headed) (PP (IN for) (NP (NNP Wall) (NNP Street))) (PP (IN in) (NP (CD 1980)))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (NN time))) (, ,) (NP (NNP Genentech)) (VP (VBD had) (NP (NP (NP (QP (RB only) (CD one)) (JJ profitable) (NN year)) (PP (IN behind) (NP (NP (PRP it)) (PRN (-LRB- -LRB-) (NP (NP (DT a) (QP (JJ modest) ($ $) (CD 116,000))) (PP (IN on) (NP (NP (NN revenue)) (PP (IN of) (NP (NP (QP ($ $) (CD 2.6) (CD million))) (PP (IN in) (NP (CD 1979)))))))) (-RRB- -RRB-))))) (CC and) (NP (NP (DT no) (NN product)) (PP (IN of) (NP (PRP$ its) (JJ own))))) (PP (IN on) (NP (DT the) (NN market)))) (. .)))
+
+(S1 (S (ADVP (RB Nonetheless)) (, ,) (NP (NP (DT the) (ADJP (QP ($ $) (CD 36) (CD million))) (NN issue)) (SBAR (S (NP (PRP they)) (VP (VBD floated) (PP (IN in) (NP (CD 1980))))))) (VP (VP (VBD opened) (PP (IN at) (NP ($ $) (CD 35)))) (CC and) (VP (VBD leaped) (PP (TO to) (NP ($ $) (CD 89))) (PP (IN within) (NP (CD 20) (NNS minutes))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN trip)) (PP (IN from) (NP (DT the) (NN test) (NN tube)))) (VP (VBD was) (RB not) (PP (IN without) (NP (NNS snags)))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Boyer)) (CC and) (NP (NNP Cohen))) (, ,) (PP (IN for) (NP (NP (NN instance)) (, ,) (CC both) (RB still) (NP (NN university) (NNS researchers)))) (, ,) (VP (VBD had) (S (VP (TO to) (VP (VB be) (VP (VBN talked) (PP (IN into) (S (VP (VBG applying) (PP (IN for) (NP (NP (DT a) (NN patent)) (PP (IN on) (NP (PRP$ their) (JJ gene-splicing) (NN technique)))))))))))))) (: --) (CC and) (ADVP (RB then)) (S (NP (DT the) (NNP Patent) (NNP Office)) (VP (VBD refused) (S (VP (TO to) (VP (VB grant) (NP (PRP it))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN judgment)) (, ,) (PP (IN in) (NP (NN turn))) (, ,) (VP (VBD was) (VP (VBN reversed) (PP (IN by) (NP (DT the) (NNP U.S.) (NNP Supreme) (NNP Court))) (, ,) (S (VP (VBG leaving) (S (NP (NNP Cohen) (CC and) (NNP Boyer)) (VP (VBG holding) (NP (NP (DT the) (JJ first) (NNS patents)) (PP (IN for) (S (VP (VBG making) (NP (NP (JJ recombinant) (NNP DNA)) (PRN (-LRB- -LRB-) (VP (ADVP (RB now)) (VBN assigned) (PP (TO to) (NP (PRP$ their) (NNS schools)))) (-RRB- -RRB-))))))))))))) (. .)))
+
+(S1 (S (NP (NN Gene-splicing)) (ADVP (RB now)) (VP (VBZ is) (NP (NP (DT an) (JJ integral) (NN part)) (PP (IN of) (NP (DT the) (NN drug) (NN business))))) (. .)))
+
+(S1 (S (NP (NP (NNP Genentech) (POS 's)) (CD 1988) (NNS sales)) (VP (VBD were) (NP (NP (QP ($ $) (CD 335) (CD million))) (, ,) (PP (DT both) (PP (IN from) (NP (NN licensing))) (CC and) (NP (PRP$ its) (JJ own) (NNS products))))) (. .)))
+

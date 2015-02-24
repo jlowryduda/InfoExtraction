@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP Cetus) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN government)) (PP (IN of) (NP (NNP Spain)))) (VP (VBD approved) (NP (NP (DT the) (NN marketing)) (PP (IN of) (NP (PRP$ its) (NNP Proleukin) (JJ interleukin-2) (NN drug)))) (S (VP (TO to) (VP (VB treat) (NP (NN kidney) (NN cancer))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN biotechnology) (NN concern)) (VP (VBD said) (SBAR (SBAR (S (NP (JJ Spanish) (NNS authorities)) (VP (MD must) (ADVP (RB still)) (VP (VB clear) (NP (NP (DT the) (NN price)) (PP (IN for) (NP (DT the) (NN treatment)))))))) (, ,) (CC but) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB receive) (NP (JJ such) (NN approval)) (PP (IN by) (NP (NN year) (NN end))))))))))) (. .)))
+
+(S1 (S (NP (NP (CD Four) (JJ other) (NNS countries)) (PP (IN in) (NP (NNP Europe)))) (VP (VBP have) (VP (VBN approved) (NP (NNP Proleukin)) (PP (IN in) (NP (JJ recent) (NNS months))))) (. .)))
+
+(S1 (S (NP (NNP Cetus)) (VP (VBZ is) (ADVP (RB currently)) (VP (VBG trying) (S (VP (TO to) (VP (VB obtain) (NP (JJ federal) (JJ regulatory) (NN clearance)) (PP (IN for) (NP (NNP U.S.) (NN distribution)))))))) (. .)))
+

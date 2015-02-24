@@ -1,0 +1,12 @@
+(S1 (S (NP (JJ Criminal) (NNS charges)) (VP (VBD were) (VP (VBN filed) (PP (IN against) (NP (NP (NNP Diceon) (NNP Electronics) (NNP Inc.)) (CC and) (NP (CD two) (NN company) (NNS officials)))) (S (VP (VBG alleging) (NP (NN waste)) (NP (NP (NN disposal) (NNS violations)) (PP (IN in) (NP (PRP$ its) (NAC (NNP Chatsworth) (, ,) (NNP Calif.) (, ,)) (NN facility)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Los) (NNP Angeles) (NNP County) (NN district) (NN attorney) (POS 's)) (NN office)) (VP (VBD filed) (NP (NP (CD seven) (NN felony)) (CC and) (NP (CD five) (NN misdemeanor) (NNS counts))) (S (VP (VBG charging) (PP (IN that) (NP (NP (RB late) (JJ last) (NN year)) (CC and) (NP (RB early) (DT this) (NN year))) (NP (DT the) (ADJP (NNP Irvine) (, ,) (JJ Calif.-based)) (NN circuit-board) (NN manufacturer) (S (VP (VP (ADVP (RB illegally)) (VBN disposed) (PP (IN of) (NP (NN acid) (, ,) (JJ caustic) (CC and) (JJ heavy) (NNS metals))) (PP (IN into) (NP (DT the) (NN sewer) (NN system)))) (, ,) (CC and) (VP (VBD stored) (NP (JJ hazardous) (NNS materials)) (PP (IN in) (NP (ADJP (JJ leaky) (, ,) (JJ unlabeled) (CC or) (JJ open-top)) (NNS containers))))))))))) (. .)))
+
+(S1 (SINV (VP (VBN Named) (PP (IN as) (NP (NNS defendants)))) (VP (VBD were)) (NP (NP (NP (NNP Roland) (NNP Matthews)) (, ,) (NP (NN president)) (, ,)) (CC and) (NP (NP (NNP Peter) (NNP Jonas)) (, ,) (NP (NP (NP (JJ executive) (NN vice) (NN president)) (CC and) (NP (JJ chief) (JJ financial) (NN officer))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (DT a) (JJ former) (NN plant) (NN manager))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VP (VBD said) (SBAR (S (NP (JJ local) (NNS authorities)) (VP (VBD held) (NP (NP (NNS hearings)) (PP (IN on) (NP (DT the) (NNS allegations)))) (NP (JJ last) (NN spring)))))) (CC and) (VP (VBD had) (VP (VBN returned) (NP (DT the) (NN plant)) (PP (TO to) (`` `) (NP (`` `) (NP (JJ routine) (NN inspection)) ('' ')) ('' ')) (PP (IN in) (NP (NNP August)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (NN company)) (VP (VBZ does) (RB not) (VP (VB feel) (SBAR (IN that) (S (S (NP (NP (PRP it)) (CC or) (NP (NP (DT any)) (PP (IN of) (NP (DT the) (NNS individuals))))) (VP (VBD violated) (NP (DT any) (JJ criminal) (NN statute)))) (CC and) (S (NP (DT the) (NN company)) (VP (VBZ expects) (NP (NP (JJ full) (NN vindication)) (PP (IN in) (NP (NN court)))))))))) (. .) ('' ') ('' '))))
+
+(S1 (S (NP (NNS Arraignments)) (VP (VBP are) (VP (VBN scheduled) (PP (IN for) (NP (NNP Nov.) (CD 14))))) (. .)))
+

@@ -1,0 +1,14 @@
+(S1 (S (NP (NNP Nixdorf) (NNP Computer) (NNP AG)) (, ,) (S (VP (VBG citing) (NP (JJ continued) (NN profitability) (NNS problems)))) (, ,) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB reduce) (NP (NNS personnel)) (ADVP (RBR further)) (, ,) (ADVP (RB notably) (PP (IN in) (NP (NN research) (CC and) (NN development) (NNS sectors)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ troubled) (JJ West) (JJ German) (NN computer) (NN company)) (VP (VBD said) (, ,) (PP (IN in) (NP (NP (DT a) (NN statement)) (PP (TO to) (NP (PRP$ its) (NNS employees))))) (, ,) (SBAR (IN that) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS persons)) (VP (VBG working) (PP (IN in) (NP (NN product) (NN development))))))) (VP (MD will) (VP (VB be) (VP (VBN reduced) (ADVP (RB world-wide)) (PP (TO to) (NP (CD 2,440))) (PP (IN from) (NP (CD 2,888))) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 1990))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (NNS workers)) (PP (IN in) (NP (NN production) (NNS sectors)))))) (VP (MD will) (VP (VB be) (VP (VBN cut) (PP (IN by) (NP (CD 488))) (, ,) (PP (TO to) (NP (CD 5,200))) (PP (IN by) (NP (NNP September)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS cuts)) (VP (MD will) (VP (VB be) (VP (VBN made) (NP (NP (NN half)) (UCP (PP (IN within) (NP (NNP Germany))) (CC and) (ADVP (RB half) (RB abroad))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (CD 1989))))) (PRN (, ,) (S (NP (NNP Nixdorf)) (VP (VBD said))) (, ,)) (NP (NNS sales)) (VP (VBD rose) (NP (CD 5) (NN %)) (PP (IN amid) (NP (NP (JJ good) (NN growth)) (PP (IN in) (NP (NP (JJ selected) (NNS areas)) (PP (JJ such) (IN as) (NP (NP (NNS banks)) (CC and) (NP (NN trading) (NNS companies))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VP (VBD cited) (NP (NP (DT some) (NN success)) (PP (IN in) (S (VP (VBG damping) (NP (NN cost) (NNS increases))))))) (CC and) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ wants) (S (VP (TO to) (VP (VB return) (PP (TO to) (NP (NN profitability))) (PP (IN in) (NP (CD 1990))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD cited) (NP (NP (DT the) (JJ expected) (JJ beneficial) (NNS effects)) (PP (IN of) (NP (NP (DT a) (NN concentration)) (PP (IN on) (NP (NP (JJ key) (NNS products)) (, ,) (NP (NP (JJ further) (JJ structural) (NNS changes)) (PP (IN within) (NP (DT the) (NN group)))) (CC and) (NP (NP (NN cooperation) (NNS agreements)) (PP (IN with) (NP (JJ other) (NNS companies)))))))))) (. .)))
+

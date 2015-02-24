@@ -1,0 +1,22 @@
+(S1 (S (S (NP (NNP Northwest) (NNP Airlines)) (VP (VBD settled) (NP (NP (DT the) (VBG remaining) (NNS lawsuits)) (VP (VBN filed) (PP (IN on) (NP (NP (NN behalf)) (PP (IN of) (NP (NP (CD 156) (NNS people)) (VP (VBN killed)))))) (PP (IN in) (NP (DT a) (CD 1987) (NN crash))))))) (, ,) (CC but) (S (S (NP (NP (NNS claims)) (PP (IN against) (NP (NP (DT the) (NN jetliner) (POS 's)) (NN maker)))) (VP (VBP are) (VP (VBG being) (VP (VBN pursued))))) (, ,) (NP (DT a) (JJ federal) (NN judge)) (VP (VBD said))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Northwest)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP NWA) (NNP Inc.)))) (, ,)) (CC and) (NP (NP (NNP McDonnell) (NNP Douglas) (NNP Corp.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD made) (NP (DT the) (CD MD-80) (NN aircraft))))) (, ,))) (ADVP (RB also)) (VP (VBP are) (VP (VBG pursuing) (NP (NP (NNS counterclaims)) (PP (IN against) (NP (DT each) (JJ other)))) (PP (IN in) (NP (NP (DT the) (NN crash)) (PP (IN near) (NP (NNP Detroit) (NNP Metropolitan) (NNP Airport))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Terms)) (PP (IN of) (NP (NP (DT the) (NNS settlements)) (PP (IN for) (NP (NP (DT the) (VBG remaining) (CD 145) (NNS lawsuits)) (PP (IN against) (NP (NNP Northwest)))))))) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN total)) (PP (IN of) (NP (CD 157) (NNS lawsuits)))) (VP (VBD were) (VP (VBN filed) (PP (IN on) (NP (NP (NN behalf)) (PP (IN of) (NP (NN crash) (NNS victims))))))) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NNP District) (NNP Judge) (NNP Julian) (NNP A.) (NNP Cook) (NNP Jr.)) (VP (VBD announced) (NP (DT the) (NNS settlements)) (SBAR (IN as) (S (NP (DT the) (NN jury) (NN trial)) (VP (VBD was) (S (VP (TO to) (VP (VB begin) (NP (NN yesterday))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VB reset) (NP (VBG opening) (NNS arguments)) (PP (IN for) (NP (NN today)))) (. .)))
+
+(S1 (S (NP (DT The) (NN jury)) (VP (MD will) (VP (VB resolve) (NP (NP (DT the) (NNS claims)) (PP (IN against) (NP (NP (NNP McDonnell) (NNP Douglas)) (, ,) (NP (NP (NP (NNP Northwest) (POS 's)) (NN claim) (SBAR (IN that) (S (NP (NP (DT a) (NN defect)) (PP (IN in) (NP (DT the) (NN aircraft)))) (VP (VBD caused) (NP (DT the) (NN crash)))))) (, ,) (CC and) (NP (NP (NNP McDonnell) (NNP Douglas) (POS ')) (NN claim) (SBAR (IN that) (S (NP (DT the) (NN plane)) (VP (VBD was) (VP (ADVP (RB improperly)) (VBN flown)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP National) (NNP Transportation) (NNP Safety) (NNP Board)) (VP (VBD ruled) (SBAR (IN that) (S (NP (NNS pilots)) (VP (VP (VBD failed) (S (VP (TO to) (VP (VB set) (NP (NP (DT the) (NN plane) (POS 's)) (NN wing) (NNS flaps) (CC and) (NNS slats)) (ADVP (RB properly)) (PP (IN for) (NP (NN takeoff))))))) (CC and) (VP (VBD failed) (S (VP (TO to) (VP (VB make) (NP (NP (JJ mandatory) (JJ preflight) (NNS checks)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB have) (VP (VBN detected) (NP (DT the) (NN error)))))))))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Also)) (, ,) (NP (DT a) (NN cockpit) (VBG warning) (NN system)) (VP (VBD failed) (S (VP (TO to) (VP (VB alert) (NP (DT the) (NNS pilots))))) (SBAR (S (NP (DT the) (NNS flaps) (CC and) (NNS slats)) (VP (VBD were) (RB not) (VP (VBN set) (PP (IN for) (NP (NN takeoff))))))))) (, ,) (NP (DT the) (NNP NTSB)) (VP (VBD said)) (. .)))
+
+(S1 (NP (NP (DT The) (JJ only) (NN passenger)) (SBAR (WHNP (WP who)) (S (VP (VBD survived) (SBAR (S (NP (DT the) (NN crash)) (VP (VBD was) (NP (NP (NNP Cecelia) (NNP Cichan)) (, ,) (ADVP (RB then)) (NP (CD 4)) (, ,) (PP (IN of) (NP (NP (NNP Tempe)) (, ,) (NP (NNP Ariz.)) (, ,) (SBAR (WHNP (WP$ whose) (NNS parents) (CC and) (NN brother)) (S (VP (VBD died) (PP (IN in) (NP (DT the) (NN crash))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (ADVP (RB now)) (VP (VBZ lives) (PP (IN with) (NP (NP (NNS relatives)) (PP (IN in) (NP (NNP Alabama)))))) (. .)))
+

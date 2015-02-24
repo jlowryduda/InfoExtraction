@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Syms) (NNP Corp.)) (VP (VBD completed) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (PRP$ its) (NNP A.) (NNP Sulka) (CC &) (NNP Co.) (NN subsidiary)) (, ,) (NP (NP (DT a) (NNS men) (POS 's)) (NN luxury) (NN haberdashery)) (, ,))) (PP (TO to) (NP (NNP Luxco) (NNPS Investments))))) (. .)))
+
+(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (SINV (PP (IN As) (NP (NNP Syms) (POS 's))) (`` `) (S (`` `) (S (NP (NP (NN core) (NN business)) (PP (IN of) (NP (JJ off-price) (NN retailing)))) (VP (VBZ grows))) (, ,) (S (NP (NP (DT a) (JJ small) (NN subsidiary)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RB operationally) (JJ unrelated)))))) (VP (VBZ becomes) (NP (DT a) (JJ difficult) (NN distraction)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Marcy) (NNP Syms)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (DT the) (NN parent))))) (, ,) (PP (IN in) (NP (DT a) (NN statement))) (. .)))
+
+(S1 (S (NP (DT A) (NN spokeswoman)) (VP (VBD said) (SBAR (S (NP (NNP Sulka)) (VP (VBZ operates) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (CD seven) (NNS stores))) (UCP (PP (IN in) (NP (DT the) (NNP U.S.))) (CC and) (ADVP (RB overseas)))))))) (. .)))
+
+(S1 (S (NP (NNP Syms)) (VP (VBZ operates) (NP (NP (CD 25) (JJ off-price) (NN apparel) (NNS stores)) (PP (IN in) (NP (DT the) (NNP U.S.))))) (. .)))
+

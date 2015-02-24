@@ -1,0 +1,24 @@
+(S1 (S (NP (NNP Olin) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (JJ third-quarter) (JJ net) (NN income)) (VP (VBD rose) (NP (CD 26) (NN %)) (PP (IN on) (NP (NP (DT the) (NN strength)) (PP (IN of) (NP (PRP$ its) (NN chemical) (NN business))))))))) (. .)))
+
+(S1 (S (NP (NN Net)) (VP (VBD was) (NP (NP (QP ($ $) (CD 24) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.15)) (NP (DT a) (NN share))) (, ,) (ADVP (RB up) (PP (IN from) (NP (NP (QP ($ $) (CD 19) (CD million))) (, ,) (CC or) (NP (NP (CD 90) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD rose) (NP (CD 7.4) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 580) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 540) (CD million))))) (. .)))
+
+(S1 (S (NP (NNP Olin)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN chemical) (NN segment)) (VP (VBD had) (NP (NP (NN profit)) (PP (IN of) (NP (QP ($ $) (CD 22) (CD million)))) (, ,) (ADVP (IN up) (PP (IN from) (NP (QP ($ $) (CD 15) (CD million))) (ADVP (NP (DT a) (NN year)) (RB ago))))) (, ,) (PP (ADVP (RB largely)) (IN because) (IN of) (NP (NP (NNS gains)) (PP (IN in) (NP (NP (NNS electrochemicals)) (PP (JJ such) (IN as) (NP (JJ caustic) (NN soda))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS gains)) (VP (VBD were) (VP (VBN tied) (PP (TO to) (NP (NP (NN volume) (NNS increases)) (CC and) (NP (JJR higher) (NNS prices))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN market)) (PP (IN for) (NP (NNS electrochemicals)))) (VP (VBP include) (NP (DT the) (NN paper) (, ,) (NN water-purification) (CC and) (NN textile) (NNS industries))) (. .)))
+
+(S1 (S (NP (DT The) (NN chemical) (NN segment)) (VP (VBD had) (NP (NP (DT a) (ADJP (QP ($ $) (CD 6) (CD million))) (NN gain)) (PP (IN on) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NN ammonia) (CC and) (NN urea) (NNS businesses))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN offset) (PP (IN by) (NP (NP (DT a) (ADJP (QP ($ $) (CD 6) (CD million))) (NN charge)) (PP (IN for) (NP (JJ future) (JJ environmental) (NNS expenditures))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Profit)) (PP (IN in) (NP (NP (NNP Olin) (POS 's)) (NN defense) (CC and) (NN ammunition) (NN segment)))) (VP (VBD rose) (PP (TO to) (NP (QP ($ $) (CD 8) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 7) (CD million))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS metals) (NN segment)) (, ,) (VP (VBN hurt) (PP (IN by) (NP (DT a) (NN strike)))) (, ,)) (VP (VBD had) (NP (JJ break-even) (NNS results)) (, ,) (PP (IN against) (NP (NP (QP ($ $) (CD 3) (CD million))) (ADVP (NP (DT a) (NN year)) (RB ago))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ first) (CD nine) (NNS months))) (, ,) (NP (NN net)) (VP (VBD rose) (NP (CD 21) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 93) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 4.52)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 77) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 3.62)) (NP (DT a) (NN share)))) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD rose) (NP (CD 13) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 1.91) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 1.69) (CD billion))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (, ,) (NP (NNP Olin)) (VP (VBD closed) (PP (IN at) (NP (NP ($ $) (CD 58.50)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB down) (NP (CD 25) (NNS cents)))) (. .)))
+

@@ -1,0 +1,22 @@
+(S1 (S (NP (NNP MCA) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (JJ third-quarter) (NN net)) (VP (VBD fell) (NP (CD 6.3) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 50.8) (CD million))) (, ,) (CC or) (NP (NP (CD 69) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 54.3) (CD million))) (, ,) (CC or) (NP (NP (CD 74) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (NNP MCA)) (VP (VBD said) (SBAR (S (NP (NN revenue)) (VP (VBD rose) (NP (CD 14) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 918.4) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 806.7) (CD million)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN entertainment) (NN concern)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN success)) (PP (IN of) (NP (NP (JJ several) (NNS movies)) (VP (VBN released) (PP (IN during) (NP (DT the) (NN quarter)))) (, ,) (PP (VBG including) (`` `) (NP (`` `) (NP (NNP Parenthood) (POS ')) ('' ') (CC and) (`` `) (NP (`` `) (NP (NNP Uncle) (NNP Buck)) (, ,) ('' '))) ('' '))))) (VP (VBD contributed) (PP (TO to) (NP (NP (JJ record) (NN revenue)) (PP (IN for) (NP (PRP$ its) (NN film) (NN unit))))))))) (. .)))
+
+(S1 (S (NP (DT Both) (NP (NNP MCA) (POS 's)) (NN music-entertainment) (CC and) (JJ book-publishing) (NNS units)) (ADVP (RB also)) (VP (VBD posted) (NP (NP (JJ record) (NN revenue)) (CC and) (NP (NN operating) (NN profit)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ parent) (NN company) (POS 's)) (NN net)) (VP (VBD included) (NP (NP (DT a) (NN loss)) (PRN (: --) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBD did) (RB n't) (VP (VB specify))))) (: --)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN related) (PP (TO to) (NP (NP (NP (DT the) (NN company) (POS 's)) (ADJP (CD 50) (NN %)) (NN stake)) (PP (IN in) (NP (NNP Cineplex) (NNP Odeon) (NNP Corp))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Cineplex)) (, ,) (NP (DT a) (NNP Toronto) (NN theater) (NN chain)) (, ,)) (VP (VBD had) (NP (NP (DT a) (JJ second-quarter) (JJ net) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 38.7) (CD million)))))) (. .)))
+
+(S1 (S (NP (NNP MCA)) (VP (VBD said) (SBAR (S (NP (NN net)) (ADVP (RB also)) (VP (VBD included) (NP (NP (JJ certain) (NNS reserves)) (VP (VBN related) (PP (TO to) (NP (NP (DT the) (NN restructuring)) (PP (IN of) (NP (NP (PRP$ its) (NNP LJN) (NNPS Toys) (POS ')) (JJ international) (NNS operations))))))))))) (. .)))
+
+(S1 (S (NP (DT These) (NNS items)) (VP (VBD were) (VP (ADVP (RB partly)) (VBN offset) (PRN (, ,) (S (NP (NNP MCA)) (VP (VBD said))) (, ,)) (PP (IN by) (NP (NP (DT an) (JJ unspecified) (NN gain)) (PP (IN on) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (PRP$ its) (NNP Miller) (NNP International) (NN unit)) (, ,) (NP (NP (DT a) (NX (NX (NN maker)) (CC and) (NX (NN distributor)))) (PP (IN of) (NP (JJ budget-priced) (JJ audio) (NNS cassettes)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (, ,) (NP (NNP MCA)) (VP (VBD rose) (NP ($ $) (CD 1.50)) (PP (TO to) (NP ($ $) (CD 64)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (CD nine) (NNS months))) (, ,) (NP (NN net)) (VP (VBD rose) (NP (CD 35) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 120.1) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.64)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 89.2) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.22)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD increased) (NP (CD 22) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 2.5) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 2.1) (CD billion))))) (. .)))
+

@@ -1,0 +1,16 @@
+(S1 (S (NP (NP (PRP$ Your) (NNP Oct.) (CD 13) (NN page-one) (NN story)) (PP (IN on) (NP (NP (DT the) (VBN renewed) (NN plight)) (PP (IN of) (NP (NNP Western) (NNP Union)))))) (VP (VBZ says) (SBAR (IN that) (S (NP (NNP Western) (NNP Union)) (VP (VBD had) (VP (VBN lost) (NP (PRP$ its) (NN chance) (S (VP (TO to) (VP (VB be) (PP (IN in) (NP (DT the) (NN telephone) (NN business))) (PP (IN by) (S (VP (VBG turning) (PRT (RP down)) (NP (NP (NP (NNP Alexander) (NNP Graham) (NNP Bell) (POS 's)) (NN offer)) (PP (TO to) (NP (PRP it))) (PP (IN of) (NP (PRP$ his) (NN invention))))))))))) (, ,) (SBAR (IN because) (S (NP (PRP it)) (ADVP (RB supposedly)) (VP (VBD felt) (SBAR (IN that) (S (NP (NN voice) (NN communication)) (VP (MD would) (ADVP (RB never)) (VP (VB replace) (NP (DT the) (NNP telegraph)))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Such)) (VP (VBZ is) (ADVP (RB hardly)) (NP (DT the) (NN case))) (. .)))
+
+(S1 (S (NP (NP (NNP Bell) (POS 's)) (NN father-in-law)) (, ,) (NP (NP (NNP Gardner) (NNP G.) (NNP Hubbard)) (, ,) (ADJP (JJ wealthy) (CC and) (JJ well-connected)) (, ,)) (VP (VBD obtained) (NP (NN financing)) (S (VP (TO to) (VP (VB start) (NP (NP (NP (DT the) (NNP American) (NNP Bell) (NNP Telephone) (NNP Co.)) (PP (IN in) (NP (NNP Boston)))) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB even)) (VP (VBD had) (NP (NP (DT a) (NN subsidiary)) (PP (IN in) (NP (NNP New) (NNP York))) (VP (VBN called) (S (NP (NP (DT the) (NNP Telephone) (NNP Co.)) (PP (IN of) (NP (NNP New) (NNP York))))))))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ is) (SBAR (WHADVP (WRB where)) (S (NP (NP (NNP Bell) (POS 's)) (NNS patents)) (VP (VBD went))))) (. .)))
+
+(S1 (S (NP (NNP Western) (NNP Union)) (ADVP (RB indeed)) (VP (VBD wanted) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN telephone) (NN business))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VP (VBD acquired) (NP (NP (NNP Thomas) (NNP Edison) (POS 's)) (NN microphone) (NN patent))) (CC and) (VP (ADVP (RB then)) (ADVP (RB immediately)) (VBD sued) (NP (DT the) (NNP Bell) (NNP Co.)) (S (VP (VBG claiming) (SBAR (IN that) (S (NP (NP (NP (DT the) (NN microphone)) (VP (VBN invented) (PP (IN by) (NP (PRP$ my) (NN grandfather))))) (, ,) (NP (NNP Emile) (NNP Berliner)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (VP (VBN been) (VP (VBN sold) (PP (TO to) (NP (NNP Bell))) (PP (IN for) (NP (DT a) (JJ princely) ($ $) (CD 50,000)))))))) (, ,)) (VP (VBD infringed) (PP (IN upon) (NP (NP (NNP Western) (NNP Union) (POS 's)) (NNP Edison) (NN patent)))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Bell)) (VP (VBD established) (SBAR (IN that) (S (NP (DT the) (NNP Berliner) (NN patent) (NN caveat)) (VP (VBD was) (VP (VBN registered) (NP (CD 10) (NNS days)) (PP (IN before) (NP (NP (NNP Edison) (POS 's)) (NN application)))))))))) (, ,) (NP (NNP Western) (NNP Union)) (VP (VP (VBD dropped) (NP (DT the) (NN lawsuit))) (CC and) (VP (VBD agreed) (S (ADVP (RB never)) (VP (TO to) (VP (VP (VB enter) (NP (DT the) (NN telephone) (NN business))) (: --) (NP (NP (DT the) (NN basis)) (PP (IN for) (NP (NP (DT the) (NN company) (POS 's)) (JJ current) (NN plight))))))))) (. .)))
+
+(S1 (NP (NP (NNP Oliver) (NNP Berliner)) (NP (NP (NNP Beverly) (NNP Hills)) (, ,) (NP (NNP Calif))) (. .)))
+

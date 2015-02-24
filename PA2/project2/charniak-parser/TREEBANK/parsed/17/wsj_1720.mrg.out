@@ -1,0 +1,20 @@
+(S1 (S (NP (NP (CD Three) (JJ savings-and-loan) (NNS institutions)) (PP (IN in) (NP (NP (NNP Kansas)) (CC and) (NP (NNP Texas))))) (VP (VBD were) (VP (VBN added) (PP (TO to) (NP (NP (DT the) (NNP Resolution) (NNP Trust) (NNP Corp.) (POS 's)) (NN conservatorship) (NN program))) (SBAR (IN after) (S (NP (JJ federal) (NNS regulators)) (VP (VP (VBD declared) (S (NP (DT the) (NNS thrifts)) (ADJP (JJ insolvent)))) (CC and) (VP (VBD named) (S (NP (DT the) (NNP RTC)) (NP (PRP$ their) (NN receiver))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS deposits) (, ,) (NNS assets) (CC and) (JJ certain) (NNS liabilities)) (PP (IN of) (NP (DT the) (CD three) (NNS thrifts)))) (VP (VBD were) (VP (VBN transferred) (PP (TO to) (NP (ADJP (RB newly) (JJ chartered)) (JJ federal) (JJ mutual) (NNS institutions))))) (. .)))
+
+(S1 (S (NP (DT The) (CD three) (NNS institutions)) (VP (VBP are) (: :) (NP (NP (NP (JJ Mid) (NNP Kansas) (NNP Federal) (NNPS Savings) (CC &) (NNP Loan) (NNP Association)) (, ,) (NP (NNP Wichita)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (QP ($ $) (CD 830.5) (CD million))) (PP (IN in) (NP (NNS assets)))))))) (: ;) (NP (NP (NP (NNP Valley) (NNP Federal) (NNP Savings) (CC &) (NNP Loan) (NNP Association)) (PP (IN of) (NP (NP (NNP McAllen)) (, ,) (NP (NNP McAllen)) (, ,) (NP (NNP Texas)) (, ,)))) (PP (IN with) (NP (NP (QP ($ $) (CD 582.6) (CD million))) (PP (IN in) (NP (NNS assets)))))) (: ;) (CC and) (NP (NP (NNP Surety) (NNP Savings) (NNP Association)) (, ,) (NP (NNP El) (NNP Paso)) (, ,) (PP (IN with) (NP (NP (QP ($ $) (CD 309.3) (CD million))) (PP (IN in) (NP (NNS assets)))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD three) (JJ insolvent) (NNS thrifts)) (VP (MD will) (VP (VB maintain) (NP (NP (JJ normal) (NN business) (NNS hours)) (CC and) (NP (NP (NNS operations)) (PP (IN under) (NP (JJ RTC-appointed) (NN managing) (NNS agents))))) (, ,) (SBAR (IN while) (S (NP (DT the) (NNP RTC)) (VP (VBZ tries) (S (VP (TO to) (VP (VB negotiate) (NP (JJ permanent) (NNS resolutions)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Separately)) (, ,) (NP (NP (NNP Century) (NNP Bank)) (, ,) (NP (NNP Phoenix) (, ,) (NNP Ariz.)) (, ,)) (VP (VBD was) (VP (VBN closed) (PP (IN by) (NP (NNP Arizona) (NN banking) (NNS officials))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Federal) (NNP Deposit) (NNP Insurance) (NNP Corp.)) (VP (VBD approved) (NP (NP (DT the) (NN assumption)) (PP (IN of) (NP (NP (NP (NNP Century) (POS 's)) (NNS deposits)) (CC and) (NP (NP (RB fully) (JJ secured) (NNS liabilities)) (PP (IN by) (NP (NP (DT a) (ADJP (RB newly) (JJ chartered)) (NN subsidiary)) (PP (IN of) (NP (NP (NNP Valley) (NNP Capital) (NNP Corp.)) (, ,) (NP (NNP Las) (NNP Vegas))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ new) (NN institution)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN called) (S (NP (NNP Century) (NNP Bank)))))) (, ,) (CC and) (S (NP (NP (DT the) (VBN failed) (NN bank) (POS 's)) (CD five) (NNS offices)) (VP (MD will) (VP (VB reopen) (NP (NN today))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ failed) (NN bank)) (VP (VBD had) (NP (NP (NNS assets)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 129.6) (CD million)))))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (RB newly) (JJ chartered)) (NN bank)) (VP (MD will) (VP (VP (VB assume) (NP (NP (QP (RB about) ($ $) (CD 125.7) (CD million))) (PP (IN in) (NP (CD 10,300) (NN deposit) (NNS accounts))))) (CC and) (VP (VB pay) (NP (DT the) (NNP FDIC)) (NP (NP (DT a) (NN purchase) (NN premium)) (PP (IN of) (NP (QP ($ $) (CD 2.9) (CD million)))))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (ADVP (RB also)) (VP (MD will) (VP (VB buy) (NP (NP (QP (RB about) ($ $) (CD 91.7) (CD million))) (PP (IN of) (NP (NNS assets))))))) (, ,) (CC and) (S (NP (DT the) (NNP FDIC)) (VP (MD will) (VP (VB advance) (NP (QP ($ $) (CD 31.8) (CD million))) (PP (TO to) (NP (DT the) (VBG assuming) (NN bank)))))) (. .)))
+

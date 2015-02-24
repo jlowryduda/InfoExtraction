@@ -1,0 +1,108 @@
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Thomas) (NNP W.) (NNP Wathen)) (VP (VBD went) (NP (JJ big) (NN league)) (NP (JJ last) (NN year))))) (, ,) (NP (PRP he)) (VP (VBD acquired) (NP (NP (DT a) (NN treasure-trove)) (PP (IN of) (NP (NNS Americana)))) (PP (IN along) (PP (IN with) (NP (NP (DT a) (ADJP (JJ well-known) (CC but) (VBG ailing)) (NN security) (NN business)) (: :) (NP (NP (NNP Pinkerton) (POS 's)) (NNP Inc)))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (DT a) (VBN wanted) (NN poster)) (VP (VBG offering) (NP (NP (`` `) (NP (NP (NP (`` `) (NP (NP (NNS Rewards)) (PP (IN for) (NP (NP (DT the) (NN Arrest)) (PP (IN of) (NP (NNP Express) (CC and) (NNP Train) (NNS Robbers) (NNP Frank) (NNP James) (CC and) (NNP Jesse) (NNP W.) (NNP James) (POS ')))))) (POS ') (CC and) (NP (DT the) (JJ original) (NNP Pinkerton) (POS 's))) (NN logo)) (PP (IN with) (NP (DT an) (JJ open) (NN eye)))) (CC and) (NP (DT the) (NN inscription))) (`` `) (NP (`` `) (NP (PRP We) (NNP Never) (NNP Sleep)) (, ,) ('' ')) ('' ') (SBAR (WHNP (WDT which)) (S (VP (VBD inspired) (S (NP (DT the) (NN phrase)) (`` `) (NP (`` `) (JJ private) (NN eye)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Then)) (NP (EX there)) (VP (VBD were) (NP (NP (CD two) (JJ gold) (NNS watches)) (VP (ADVP (RB once)) (VBN owned) (PP (IN by) (NP (NP (NNP Allan) (NNP Pinkerton)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD founded) (NP (DT the) (NN company)) (PP (IN in) (NP (NNP Chicago))) (PP (IN in) (NP (CD 1850))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (EX there)) (VP (VBD were) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (NP (NP (CD three)) (, ,) (NP (NP (NNP Mr.) (NNP Wathen) (POS 's)) (NN company) (NNS claims)))))))) (. .)))
+
+(S1 (S (NP (DT The) (VBG missing) (NN watch)) (VP (VBZ is) (ADJP (JJ emblematic) (PP (IN of) (NP (NP (DT the) (NNS problems)) (SBAR (S (NP (NNP Mr.) (NNP Wathen)) (VP (VBD encountered) (PP (IN in) (S (VP (VBG building) (NP (PRP$ his) (ADJP (RB closely) (VBN held)) (NNP California) (NNP Plant) (NNP Protection) (NNP Security) (NNP Service)) (PP (IN into) (NP (NP (DT the) (JJS largest) (NN detective) (CC and) (NN security) (NN agency)) (PP (IN in) (NP (DT the) (NNP U.S.))))) (PP (IN through) (NP (NNS acquisitions))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ ever-optimistic) (NNP Mr.) (NNP Wathen)) (VP (VBZ has) (VP (VBN learned) (SBAR (IN that) (S (SBAR (IN while) (S (S (VP (VBG acquiring) (NP (DT a) (JJ big) (JJ brand-name) (NN company)))) (VP (MD can) (VP (VB be) (NP (NP (DT a) (NN shortcut)) (PP (TO to) (NP (NN growth)))))))) (, ,) (NP (PRP it)) (VP (MD can) (ADVP (RB also)) (VP (VB bring) (NP (NP (DT a) (NN host)) (PP (IN of) (NP (JJ unforeseen) (NNS problems)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBD cleared) (PRT (RP out)) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NNS rats) (POS ')) (NNS nests)))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (DT the) (JJ 60-year-old) (NN security) (NN veteran)) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Wathen)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD started) (NP (PRP$ his) (NN career)) (PP (IN as) (NP (DT an) (NNP Air) (NNP Force) (NN investigator)))) (CC and) (VP (VBD worked) (PP (IN as) (NP (DT a) (NN security) (NN officer))) (PP (IN for) (NP (JJ several) (JJ large) (NNS companies))))))) (, ,)) (VP (VBD built) (NP (NP (PRP$ his) (NNP California) (NNP Plant) (NN Protection)) (PP (IN from) (NP (NP (DT a) (JJ tiny) (JJ mom-and-pop) (NN security) (NN patrol) (NN firm)) (ADVP (RB here) (PP (IN in) (NP (DT the) (NNP San) (NNP Fernando) (NNP Valley)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD joined) (NP (DT the) (NN firm)) (PP (IN in) (NP (CD 1963)))) (CC and) (VP (VBD bought) (NP (PRP it)) (PP (IN from) (NP (DT the) (NNS owners)) (NP (DT the) (JJ next) (NN year))))) (. .)))
+
+(S1 (S (PP (IN Over) (NP (DT the) (JJ next) (CD 20) (NNS years))) (, ,) (NP (NNP California) (NNP Plant) (NNP Protection)) (VP (VBD opened) (NP (CD 125) (NNS offices)) (PP (IN around) (NP (DT the) (NN country)))) (. .)))
+
+(S1 (S (RB Yet) (PP (IN although) (NP (NNP California) (NNP Plant) (NNP Protection))) (VP (VBD was) (VP (VP (VBG netting) (NP (ADJP (JJR bigger) (CC and) (JJR bigger)) (NNS clients))) (PRN (: --) (S (NP (DT the) (NN firm)) (VP (VBD provided) (NP (NP (NN security)) (PP (IN for) (NP (DT the) (CD 1984) (NNPS Summer) (NNPS Olympics)))) (PP (IN in) (NP (NNP Los) (NNP Angeles))))) (: --)) (SBAR (S (NP (PRP it)) (ADVP (RB still)) (VP (VBD did) (RB n't) (VP (VB have) (NP (NP (DT the) (NN name) (NN recognition)) (PP (IN of) (NP (NNP Pinkerton) (POS 's)))))))))) (. .)))
+
+(S1 (S (RB So) (SBAR (WHADVP (WRB when)) (S (NP (NNP American) (NNPS Brands) (NNP Inc.)) (VP (VBD decided) (S (VP (TO to) (VP (VB sell) (NP (DT the) (NN unit)) (PP (IN in) (NP (CD 1987))) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NN divestiture)) (PP (IN of) (NP (PRP$ its) (NN food) (CC and) (NN security) (NNS industries))))))) (NP (NNS operations)))))))) (, ,) (NP (NNP Mr.) (NNP Wathen)) (VP (VBD saw) (NP (DT a) (NN chance) (S (VP (TO to) (VP (VB accomplish) (NP (JJ several) (NNS objectives))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD decided) (SBAR (S (NP (PRP he)) (VP (MD could) (ADVP (RB easily)) (VP (VB merge) (NP (NP (NNP Pinkerton) (POS 's)) (NNS operations)) (PP (IN with) (NP (PRP$ his) (JJ own))) (SBAR (IN while) (S (VP (VBG slashing) (NP (NN overhead) (NNS costs)) (SBAR (IN because) (S (NP (DT the) (CD two)) (ADVP (RB already)) (VP (VBD operated) (PP (IN in) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (JJ same) (NNS cities)))))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (VP (MD could) (VP (VB acquire) (NP (NP (DT a) (NN staff)) (PP (IN of) (NP (NP (JJ loyal) (NNP Pinkerton) (POS 's)) (NNS employees)))) (, ,) (SBAR (WHNP (WHNP (JJ many)) (WHPP (IN of) (WHNP (WP whom)))) (S (VP (VBD had) (VP (VBN spent) (NP (PRP$ their) (JJ entire) (NNS careers)) (PP (IN with) (NP (DT the) (NN firm)))))))))) (, ,) (S (NP (PRP he)) (VP (MD could) (VP (VB eliminate) (NP (DT a) (NN competitor))))) (CC and) (S (NP (PRP he)) (VP (MD could) (VP (VB get) (NP (NP (DT the) (NN name) (NN recognition)) (SBAR (S (NP (PRP he)) (VP (VBD 'd) (VP (VBN wanted))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Wathen)) (ADVP (RB also)) (VP (VBD relished) (NP (DT the) (NN chance) (S (VP (TO to) (VP (VB demonstrate) (SBAR (S (NP (NP (DT an) (NN entrepreneur)) (PP (IN like) (NP (PRP himself))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD 'd) (VP (VBN spent) (NP (PRP$ his) (JJ whole) (NN career)) (PP (IN in) (NP (DT the) (NN security) (NN business))))))) (, ,)) (VP (MD could) (VP (VB run) (ADVP (ADVP (NP (NNP Pinkerton) (POS 's)) (RBR better)) (PP (IN than) (NP (DT an) (NX (NX (JJ unfocused) (NN conglomerate)) (CC or) (NX (NN investment) (NN banker))))))))))))))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (DT The) (NN security) (NN business)) (VP (VBZ is) (NP (PRP$ my) (JJ favorite) (NN subject))) (. .)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBP love) (NP (DT this) (NN business)))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (NP (NP (`` `) (JJS Most)) (PP (IN of) (NP (DT the) (NNP LBO) (NNS guys)))) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB run) (NP (DT a) (NN business)) (ADVP (RB anyway)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (EX there)) (VP (VBD were) (NP (NP (NNS hitches)) (, ,) (SBAR (WHNP (NP (RB not) (DT the) (JJS least)) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBD was) (SBAR (IN that) (S (PRN (, ,) (S (NP (NNP Mr.) (NNP Wathen)) (VP (VBZ says))) (, ,)) (NP (PRP he)) (VP (VBD proceeded) (ADVP (RB almost) (RB blindly)) (PP (IN in) (S (VP (VBG doing) (NP (NP (DT the) (ADJP (QP ($ $) (CD 95) (CD million))) (NN acquisition)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN completed) (PP (IN in) (NP (NNP January) (CD 1988))))))))))))))))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP We)) (VP (VBD were) (RB n't) (VP (VBN allowed) (S (VP (TO to) (VP (VB do) (NP (DT any) (JJ due) (NN diligence)) (PP (IN because) (IN of) (NP (JJ competitive) (NNS reasons))))))))) (. .)))
+
+(S1 (S (S (SBAR (IN If) (S (NP (PRP we)) (VP (VBD had)))) (, ,) (NP (PRP it)) (VP (MD might) (VP (VB have) (VP (VBN scared) (NP (PRP us)) (ADVP (RB off)))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (NP (NP (CD Five) (NNS years)) (PP (IN of) (NP (NP (JJ rapid) (NN expansion)) (PP (IN under) (NP (NNP American) (NNPS Brands)))))) (, ,) (PP (IN with) (NP (NP (DT an) (NN emphasis)) (PP (IN on) (S (VP (VP (VBG marketing) (NP (NP (DT the) (NN agency) (POS 's)) (NNS services))) (CONJP (RB instead) (IN of)) (VP (VBG improving) (NP (PRP them)))))))) (, ,) (VP (VBD had) (VP (VBN hurt) (NP (NP (NNP Pinkerton) (POS 's)) (NNS profits))))) (, ,) (NP (NNP Mr.) (NNP Wathen)) (VP (VBZ claims)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (PRP$ his) (NN team)) (VP (MD could) (RB n't) (VP (VB tell) (SBAR (IN whether) (S (NP (NNS accounts) (NN receivable)) (VP (VBD had) (VP (VBN been) (VP (VBN paid))))) (CC or) (RB not))))))) (. .)))
+
+(S1 (S (S (NP (NNP Pinkerton) (POS 's)) (VP (VBD had) (VP (VBN locked) (NP (PRP itself)) (PP (IN into) (NP (NP (JJ low-price) (NNS contracts) (S (VP (TO to) (VP (VB win) (NP (JJ new) (NN business)))))) (, ,) (PP (IN with) (NP (NP (DT no) (NN hope)) (PP (IN of) (NP (NN profitability))))))) (SBAR (IN until) (S (NP (DT the) (NNS contracts)) (VP (VBD expired))))))) (, ,) (NP (PRP he)) (VP (VBZ adds)) (. .)))
+
+(S1 (S (CC And) (S (NP (JJ regional) (NNS offices)) (VP (VBD were) (`` `) (ADJP (`` `) (RB egregiously) (VBN overstaffed)))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ claims)) (. .)))
+
+(S1 (S (S (NP (CD One) (NN office)) (VP (VBD had) (NP (NP (CD 19) (NNS people)) (VP (VBG doing) (NP (NP (DT the) (NN work)) (PP (IN of) (NP (CD three)))))))) (, ,) (`` `) (S (`` `) (CC and) (NP (NP (DT half)) (PP (IN of) (NP (DT the) (NNS employees)))) (VP (VBD had) (NP (NN company) (NNS automobiles))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NNP American) (NNPS Brands)) (VP (VBD declined) (S (VP (TO to) (VP (VB comment) (PP (IN on) (NP (NP (NNP Mr.) (NNP Wathen) (POS 's)) (NNS accusations))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN acquisition)) (VP (VBN combined) (NP (NP (NP (DT the) (NN country) (POS 's)) (JJ second-largest) (NN security) (NN company)) (, ,) (NP (NNP Pinkerton) (POS 's)) (, ,)) (PP (IN with) (NP (NP (CD 1987) (NNS sales)) (PP (IN of) (NP (NP (QP ($ $) (CD 410) (CD million))) (, ,) (CC and) (NP (NP (DT the) (JJ fourth) (JJS largest)) (, ,) (NP (NNP California) (NNP Plant) (NNP Protection)) (, ,)))))) (PP (IN with) (NP (NP (QP ($ $) (CD 250) (CD million))) (PP (IN in) (NP (NNS sales))))) (, ,) (S (VP (VBG creating) (NP (NP (NP (DT the) (NN industry) (POS 's)) (JJS biggest) (NN firm)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD took) (PRT (RP on)) (NP (NP (DT the) (NNP Pinkerton) (POS 's)) (NN name))))))))) (. .)))
+
+(S1 (S (S (PP (ADVP (RB Even)) (IN after) (S (VP (VBG divesting) (NP (PRP itself)) (PP (IN of) (NP (NP (QP ($ $) (CD 120) (CD million))) (PP (IN of) (NP (JJ unprofitable) (NN business)))))))) (, ,) (NP (DT the) (JJ new) (NNP Pinkerton) (POS 's)) (VP (MD will) (VP (VB have) (S (NP (NP (NP (NNS sales)) (PP (IN of) (NP (NP (QP (RB about) ($ $) (CD 610) (CD million))) (NP (DT this) (NN year))))) (CC and) (NP (NN operating) (NN profit))) (VP (ADVP (RB roughly)) (VB double) (NP (NP (DT the) (NN industry) (NN average)) (PP (IN of) (NP (NP (NP (CD 2) (NN %)) (JJ -3) (NN %)) (PP (IN of) (NP (NNS sales))))))))))) (, ,) (VP (VBZ says) (NP (NP (NNP Lloyd) (NNP Greif)) (PP (IN of) (NP (NP (NNP Sutro) (CC &) (NNP Co.)) (PP (IN in) (NP (NNP Los) (NNP Angeles))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD arranged) (NP (NP (DT the) (NNP Pinkerton) (POS 's)) (NN acquisition))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Wathen)) (VP (VBZ says) (SBAR (S (NP (PRP$ his) (NN turnaround) (NN strategy)) (VP (VBZ has) (VP (VBN been) (ADJP (JJ simple)))))))) (: :) (S (ADVP (RB just)) (VP (VB hack) (PRT (RP away)) (PP (IN at) (NP (DT the) (NN fat))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD began) (PP (IN by) (S (VP (VBG closing) (NP (NP (CD 120)) (PP (IN of) (NP (NP (DT the) (VBN combined) (NNS companies) (POS ')) (CD 260) (NNS offices)))) (PP (IN in) (NP (CD two) (NNS months))) (, ,) (S (VP (VBG eliminating) (NP (NP (QP (RB about) (CD 31)) (NN %)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (JJ 2,500-person) (NN adminstrative) (NN staff))) (, ,) (PP (VBG including) (NP (QP (JJR more) (IN than) (CD 100)) (NNS sales) (NNS positions)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD shut) (PRT (RP down)) (NP (NP (DT the) (NN company) (POS 's)) (JJ tony) (NNP New) (NNP York) (NN headquarters))) (. .)))
+
+(S1 (S (NP (NP (NNP Pinkerton) (POS 's)) (NN world) (NN headquarters) (NN today)) (VP (VBZ is) (NP (NP (DT a) (JJ nondescript) (, ,) (JJ two-story) (NN office) (NN building)) (PP (IN across) (NP (DT the) (NN street)) (PP (IN from) (NP (DT the) (JJ small) (NNP Van) (NNP Nuys) (NNP Airport)))))) (. .)))
+
+(S1 (S (ADVP (JJ Next)) (, ,) (NP (NNP Mr.) (NNP Wathen)) (VP (VBD raised) (NP (NP (NP (NNP Pinkerton) (POS 's)) (NNS rates)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (ADJP (ADJP (JJ 75-cents-an-hour) (JJR lower)) (PP (IN than) (NP (NP (NP (NNP California) (NNP Plant) (NNP Protection) (POS 's)) (JJ average) (NN rate)) (PP (IN of) (NP (QP (IN around) ($ $) (CD 8.63)))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBD got) (ADJP (JJ rid) (PP (IN of) (NP (NP (JJ low-margin) (NNS businesses)) (SBAR (WHNP (WDT that)) (S (ADVP (RB just)) (VP (VBD were) (RB n't) (VP (VBG making) (NP (NP (NN money)) (PP (IN for) (NP (DT the) (NN company)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Wathen)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ says) (SBAR (S (NP (NNP Pinkerton) (POS 's)) (VP (VBD had) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (QP (RB nearly) ($ $) (CD 8) (CD million))))) (PP (IN in) (NP (CD 1987))) (PP (IN under) (NP (NNP American) (NNPS Brands))))))))) (, ,)) (VP (VBZ boasts) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN made) (SBAR (S (NP (NNP Pinkerton)) (VP (VBZ 's) (ADJP (JJ profitable)) (ADVP (RB again)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Mr.) (NNP Wathen) (POS 's)) (NN team)) (ADVP (RB still)) (VP (MD must) (VP (VB pay) (PRT (RP down)) (NP (NP (QP (RB about) ($ $) (CD 82) (CD million))) (PP (IN of) (NP (JJ long-term) (NN bank) (NN debt)))) (PP (IN from) (NP (NP (DT the) (NN acquisition)) (PP (IN within) (NP (DT the) (JJ next) (CD four) (NNS years))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (S (NP (NP (NNS earnings)) (PP (IN of) (NP (DT the) (VBN combined) (NNS companies)))) (VP (VBD did) (RB n't) (VP (VB cover) (NP (NN debt) (NN service))))) (CC and) (S (NP (NNP Pinkerton) (POS 's)) (VP (VBD was) (VP (VBN forced) (S (VP (TO to) (VP (VB borrow) (NP (NP (QP ($ $) (CD 20) (CD million))) (PP (IN of) (NP (JJ subordinated) (NN debt)))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (MD would) (RB n't) (VP (VB have) (VP (VBD had) (S (VP (TO to) (VP (VB refinance) (SBAR (IN if) (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT the) (NNS problems)))) (VP (VBD had) (RB n't) (VP (VBN been) (ADVP (RB there)))))))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Wathen)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (DT This) (NN year)) (, ,) (NP (NNP Mr.) (NNP Wathen)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN firm)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VP (VB service) (NP (NN debt))) (CC and) (VP (ADVP (RB still)) (VB turn) (NP (DT a) (JJ modest) (NN profit)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (NP (NNP Pinkerton) (POS 's)) (VP (MD could) (VP (VB become) (ADJP (JJ entangled) (PP (IN in) (NP (NP (DT a) (JJ protracted) (JJ legal) (NN fracas)) (PP (IN with) (NP (PRP$ its) (JJ former) (NN parent)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RB recently)) (VP (VBD filed) (NP (NN suit)) (PP (IN in) (NP (NP (NN state) (NN court)) (PP (IN in) (NP (NNP Los) (NNP Angeles))))) (PP (IN against) (NP (NNP American) (NNPS Brands))) (, ,) (S (VP (VBG seeking) (NP (NP (QP (IN at) (JJS least) ($ $) (CD 40) (CD million))) (PP (IN in) (NP (NP (NNS damages)) (PP (IN from) (NP (DT the) (ADJP (NNP Old) (NNP Greenwich) (, ,) (JJ Conn.-based)) (NN company))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN suit)) (VP (VBZ alleges) (SBAR (IN that) (S (NP (NNP American) (NNPS Brands)) (VP (VP (VBD misrepresented) (NP (NP (DT the) (JJ financial) (NN condition)) (PP (IN of) (NP (NNP Pinkerton) (POS 's)))) (PP (IN before) (NP (DT the) (NN sale)))) (, ,) (VP (VBD failed) (S (VP (TO to) (VP (VB disclose) (NP (NP (NP (VBG pending) (NNS lawsuits)) (CC and) (NP (NN material) (NNS contracts))) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNP Pinkerton) (POS 's)) (VP (VBD was) (PP (IN in) (NP (NN default))))))))))) (, ,) (VP (VBD had) (RB n't) (VP (VBN registered) (NP (NP (DT the) (NNP Pinkerton) (POS 's)) (NN name) (CC and) (NN trademark)) (PP (IN in) (NP (DT the) (NNP United) (NNP Kingdom))))) (CC and) (VP (VBD did) (RB n't) (VP (VB tell) (NP (NNP California) (NNP Plant) (NNP Protection)) (PP (IN about) (NP (DT some) (NN labor) (NNS controversies))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP We)) (VP (VBP have) (ADVP (RB previously)) (VP (VBN had) (NP (NP (NNS discussions)) (PP (IN with) (NP (NP (NNS representatives)) (PP (IN of) (NP (NP (NNP Pinkerton) (POS 's)) (NNP Inc.))))) (PP (VBG concerning) (NP (DT the) (-LRB- -LCB-) (NP (NP (NN sale)) (PP (IN of) (NP (DT the) (NN company)))) (-RRB- -RCB-))))))) (CC and) (S (NP (PRP we)) (VP (VBD concluded) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD did) (RB not) (VP (VB have) (NP (NN liability)) (PP (IN under) (NP (DT the) (NN contract))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NNP American) (NNPS Brands)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN As) (S (NP (DT this)) (VP (VBZ is) (ADVP (RB now)) (NP (DT a) (NN litigation) (NN matter))))) (, ,) (NP (PRP we)) (VP (VB have) (NP (DT no) (JJ further) (NN comment))) (. .) ('' ')) ('' ')))
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (DT the) (VBG missing) (NN gold) (NN watch))))) (. .)))
+
+(S1 (S (NP (DT The) (NN lawsuit)) (VP (VBZ alleges) (SBAR (IN that) (S (NP (NP (DT an) (NN inventory)) (PP (IN of) (NP (NP (NNP Pinkerton) (POS 's)) (NNS memorabilia)))) (VP (VBD disclosed) (SBAR (IN that) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS watches)))) (VP (VBD had) (RB n't) (VP (VBN been) (VP (VBD forked) (PRT (RP over)) (PP (IN by) (NP (NNP American) (NNPS Brands)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NP (JJ American) (NN Brand) (POS 's)) (NN failure) (S (VP (TO to) (VP (VB surrender) (SBAR (S (NP (DT the) (NN gold) (NN watch)) (VP (VBZ has) (VP (VBN damaged) (NP (JJ new) (NNP Pinkerton) (POS 's)) (PP (IN in) (NP (DT an) (NN amount))) (ADVP (RB as) (RB yet)) (PRN (-LRB- -LCB-) (S (VP (TO to) (VP (VB be)))) (-RRB- -RCB-)))))))))) (VP (VP (VBD determined)) (CC and) (VP (VBD deprived) (NP (PRP it)) (PP (IN of) (NP (NP (DT a) (JJ valuable) (NN artifact)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (PRP it)) (VP (VBD had) (VP (VBN bargained))))))))) (, ,) ('' ')) ('' ') (NP (DT the) (NN suit)) (VP (VBZ charges)) (. .)))
+
+(S1 (SINV (S (NP (NP (DT The) (NN key)) (PP (TO to) (NP (NP (NNP Pinkerton) (POS 's)) (NN future)))) (VP (MD will) (VP (VB be) (ADJP (JJ sticking) (PP (TO to) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ does) (ADJP (JJS best))))))) (: --) (S (VP (VBG being) (NP (DT a) (NN security) (NN company))))))) (, ,) (VP (VBZ says)) (NP (NNP Mr.) (NNP Wathen)) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBZ is) (ADVP (RB also)) (VP (VBG renewing) (NP (PRP$ its) (NN emphasis)) (PP (IN on) (NP (NP (NNS investigations)) (, ,) (ADVP (RB particularly)) (NP (NP (JJ undercover) (NNS investigations)) (PP (IN for) (NP (NNS corporations)))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNS investigations)) (ADVP (RB now)) (VP (VBP account) (PP (IN for) (NP (NP (QP (RB only) (IN about) (CD 5)) (NN %)) (PP (IN of) (NP (NP (NNP Pinkerton) (POS 's)) (JJ total) (NN revenue)))))))) (, ,) (S (NP (NP (DT that) (NN side)) (PP (IN of) (NP (DT the) (NN business)))) (VP (VBZ has) (ADVP (RB traditionally)) (VP (VBN been) (ADJP (ADVP (DT the) (RBR more)) (`` `) (ADJP (`` `) (JJ glamorous) ('' ')) ('' ') (PP (IN of) (NP (DT the) (CD two))))))) (CC and) (S (NP (PRP it)) (VP (VBZ carries) (NP (ADJP (JJ historical) (CC and) (JJ sentimental)) (NN value)))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (NP (NN Author) (NNP Dashiell) (NNP Hammett)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD wrote) (`` `) (NP (`` `) (NP (DT The) (NNP Maltese) (NNP Falcon)) (, ,) ('' ')) ('' '))))) (VP (VBD was) (NP (DT a) (JJ former) (NP (NNP Pinkerton) (POS 's)) (NN detective))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (S (NP (NNP American) (NNPS Brands)) (`` `) (VP (`` `) (ADVP (RB just)) (VP (VBD had) (NP (DT a) (JJ different) (NN approach))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Wathen)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP$ Their) (NN approach)) (VP (VBD did) (RB n't) (VP (VB work)))) (: ;) (NP (PRP mine)) (VP (VBZ is)) (. .)))
+

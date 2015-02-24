@@ -1,0 +1,80 @@
+(S1 (S (NP (NP (DT The) (JJS hottest) (NN rivalry)) (PP (IN in) (NP (DT the) (NN computer) (NN industry)))) (VP (VBD intensified) (ADVP (RB sharply)) (NP (NN yesterday)) (SBAR (IN as) (S (NP (NNP Digital) (NNP Equipment) (NNP Corp.)) (VP (VBD announced) (NP (NP (PRP$ its) (JJ first) (NN line)) (PP (IN of) (NP (NN mainframe) (NNS computers)))) (, ,) (S (VP (VBG targeting) (NP (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.) (POS 's)) (JJS largest) (NN market)))))))) (. .)))
+
+(S1 (S (NP (NNP IBM)) (VP (VBD fired) (ADVP (RB back)) (PP (IN with) (NP (NP (JJ new) (NNS mainframes)) (PP (IN of) (NP (PRP$ its) (JJ own))))) (, ,) (S (VP (VBG extending) (NP (NP (DT the) (JJ long-dominant) (CD 3090) (NN line)) (PP (IN with) (NP (DT a) (ADJP (QP (CD 7) (NN %) (TO to) (CD 14) (NN %))) (NN power) (NN boost))))))) (. .)))
+
+(S1 (S (PP (IN Up) (PP (TO to) (NP (RB now)))) (, ,) (NP (NP (DT the) (JJ intense) (NN competition)) (PP (IN between) (NP (NNP IBM) (CC and) (NNP Digital)))) (VP (VBZ has) (VP (VBN been) (VP (VBN confined) (ADVP (RB largely)) (PP (TO to) (NP (NP (DT the) (JJ broad) (NN midrange)) (PP (IN of) (NP (NP (DT the) (NN computer) (NN market)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNP Digital)) (VP (VBD sought) (S (VP (TO to) (VP (VB exploit) (NP (NP (NNP IBM) (POS 's)) (NNS weaknesses)) (PP (IN in) (NP (NN networking)))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NP (NNP Digital) (POS 's)) (NN move)) (PP (IN into) (NP (NNS mainframes)))) (VP (MD will) (VP (VB target) (NP (NP (NP (NNP IBM) (POS 's)) (NN home) (NN turf)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (DT a) (VBG commanding) (ADJP (CD 70) (NN %)) (NN share)) (PP (IN of) (NP (DT the) (NN market)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Digital)) (, ,) (NP (NP (NNP Maynard)) (, ,) (NP (NNP Mass.)) (, ,))) (VP (VBD insisted) (NP (NN yesterday)) (SBAR (IN that) (S (NP (PRP$ its) (NN marketing) (NN focus)) (VP (MD would) (VP (VB differ) (ADVP (RB sharply)) (PP (IN from) (NP (NNP IBM) (POS 's)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT This)) (VP (VBZ is) (RB not) (NP (NP (PRP$ your) (NN father) (POS 's)) (NN mainframe))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Allan) (NNP McGuire)) (, ,) (NP (DT a) (NNP Digital) (NN spokesman))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (JJ whole) (JJ new) (NN generation))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ gets) (NP (QP (RB about) (PDT half)) (PRP$ its) (NN revenue))) (CC and) (VP (NP (QP (JJR more) (IN than) (PDT half)) (PRP$ its) (NN profit)) (PP (IN from) (NP (NNS mainframes))))))) (, ,)) (ADVP (RB also)) (VP (VBD announced) (NP (VBN upgraded) (NN operating) (NN system) (NN software)) (SBAR (IN that) (S (, ,) (PP (ADVP (RB together)) (IN with) (NP (DT the) (JJ new) (NN hardware))) (, ,) (VP (VBZ lets) (S (NP (NNS customers)) (VP (VB do) (NP (JJ so-called) (NN batch) (VBG processing)) (ADVP (NP (QP (RB as) (JJ much) (IN as) (CD 60)) (NN %)) (RBR faster)))))))) (. .)))
+
+(S1 (S (NP (NN Batch) (NN processing)) (VP (VBZ is) (NP (NP (DT the) (JJ high-volume) (, ,) (JJ single-job) (NNS data)) (VP (VBG processing) (SBAR (IN that) (S (NP (JJS most) (NNS mainframes)) (ADVP (RB typically)) (VP (VB chug) (PRT (RP through)) (PP (IN at) (NP (NN night))))))) (, ,) (PP (JJ such) (IN as) (S (VP (VBG updating) (NP (NP (NNS accounts)) (PP (IN at) (NP (NNS banks))))))))) (. .)))
+
+(S1 (S (NP (NNP IBM)) (VP (VBD said) (SBAR (S (NP (DT the) (CD 16) (JJ new) (NNP J) (CC and) (NNP JH) (NNS models)) (VP (MD will) (ADVP (RB generally)) (VP (VB be) (ADJP (JJ available) (RB immediately)) (, ,) (SBAR (IN though) (S (NP (CD three)) (VP (MD wo) (RB n't) (VP (VB ship) (PP (IN until) (NP (NP (DT the) (JJ third) (NN quarter)) (PP (IN of) (NP (JJ next) (NN year)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Prices)) (PP (IN on) (NP (NP (DT the) (JJR larger) (NNS models)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP range) (ADJP (ADJP (RB as) (JJ high)) (PP (IN as) (NP (QP ($ $) (CD 13) (CD million))))) (, ,) (ADVP (RB generally)))))))) (VP (MD wo) (RB n't) (VP (VB change))) (. .)))
+
+(S1 (S (NP (NP (JJ Small) (NNS models)) (, ,) (SBAR (WHNP (WP$ whose) (NN performance)) (S (VP (VBD increased) (NP (QP (RB as) (JJ much) (IN as) (CD 46)) (NN %))))) (, ,)) (VP (MD will) (VP (VB carry) (NP (JJR higher) (NNS prices)))) (. .)))
+
+(S1 (S (NP (NP (NNS Upgrades)) (PP (TO to) (NP (JJR bigger) (NNS models)))) (ADVP (RB also)) (VP (MD will) (VP (VB be) (ADJP (JJR costlier)))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Digital) (POS 's)) (NNP VAX) (CD 9000) (NNS mainframes)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBD claimed) (SBAR (S (VP (VBD were) (PP (IN among) (NP (DT the) (JJS fastest))) (ADJP (JJ available)))))))) (, ,)) (VP (VBD were) (VP (VBN priced) (PP (IN from) (NP (NP (QP ($ $) (CD 1.2) (CD million) (TO to) ($ $) (CD 3.9) (CD million))) (, ,) (ADJP (ADJP (RB sharply) (JJR lower)) (PP (IN than) (NP (NP (NNP IBM) (NNS models)) (PP (IN of) (NP (JJ comparable) (NN power)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ first) (NNS models)) (VP (MD will) (VP (VB ship) (PP (IN in) (NP (DT the) (NN spring))) (, ,) (PP (IN with) (NP (NP (DT the) (JJS largest) (NN following)) (PP (IN in) (NP (DT the) (NN fall))))))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBD were) (VP (VBN disappointed) (SBAR (IN that) (S (NP (NP (NNP Digital) (POS 's)) (JJ new) (NN line)) (ADVP (RB apparently)) (VP (MD wo) (RB n't) (VP (VB contribute) (ADVP (RB much)) (PP (TO to) (NP (NP (NNS earnings)) (PP (IN before) (NP (DT the) (JJ next) (JJ fiscal) (NN year))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ begins) (PP (IN in) (NP (NNP July)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Jay) (NNP Stevens)) (PP (IN of) (NP (NNP Dean) (NNP Witter) (NNP Reynolds) (NNP Inc.)))) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD may) (VP (VB cut) (NP (NP (PRP$ his) (NNS earnings) (NN estimate)) (PP (IN for) (NP (DT the) (JJ current) (JJ fiscal) (NN year)))) (SBAR (IN because) (S (NP (PRP he)) (VP (VBD had) (VP (VBN expected) (NP (ADVP (IN at) (JJS least)) (DT some) (JJ mainframe) (NN profit)) (NP (DT this) (NN year))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD added) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD expected) (S (VP (TO to) (VP (VB raise) (NP (NP (PRP$ his) (NN estimate)) (PP (IN for) (NP (JJ fiscal) (CD 1991)))) (PP (IN at) (NP (DT the) (JJ same) (NN time)))))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (DT the) (NN announcement)) (NP (NN yesterday)))) (, ,) (NP (NNP Digital) (NNS shares)) (VP (VBD gained) (NP ($ $) (CD 1.25)) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP ($ $) (CD 89.875))) (PP (IN in) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))))))) (. .)))
+
+(S1 (S (NP (NNP IBM) (NNS shares)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 103))) (, ,) (ADVP (RB down) (NP (CD 50) (NNS cents))) (, ,) (PP (IN in) (NP (NNP Big) (NNP Board) (NN trading)))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBP have) (VP (VBN predicted) (NP (NP (JJ strong) (JJ pent-up) (NN demand)) (PP (IN for) (NP (NP (DT the) (JJ new) (NN line)) (PP (IN among) (NP (NP (NNP Digital) (POS 's)) (NNS customers)))))))) (. .)))
+
+(S1 (S (NP (JJ Large) (NNP Digital) (NNS buyers)) (VP (VBP say) (SBAR (S (NP (DT the) (JJ new) (NNP VAX)) (VP (MD will) (VP (VB let) (S (NP (PRP them)) (VP (VB stay) (PP (IN with) (NP (NNP Digital))))) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP need) (NP (NP (DT the) (NN power)) (PP (IN of) (NP (DT a) (NN mainframe))))))) (, ,) (PP (RB instead) (IN of) (S (VP (VBG turning) (PP (TO to) (NP (NNP IBM))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (ADJP (VBN convinced) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ huge) (NN market)) (PP (IN for) (NP (DT this) (NN machine))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Stephen) (NNP Smith)) (PP (IN of) (NP (NNP PaineWebber) (NNP Inc)))) (. .)))
+
+(S1 (S (NP (NNP Digital)) (ADVP (RB also)) (VP (VBZ plans) (S (VP (TO to) (VP (VB compete) (ADVP (RB fiercely)) (PP (IN with) (NP (NNP IBM))) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN giant) (POS 's)) (NNS customers)) (VP (VBP are) (VP (VBG computerizing) (NP (NP (JJ new) (NNS aspects)) (PP (IN of) (NP (PRP$ their) (NNS businesses)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Digital)) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ does) (RB n't) (VP (VB expect) (S (VP (TO to) (VP (VB displace) (NP (NNP IBM) (NNS mainframes) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB already)) (VP (VBN installed) (PP (IN at) (NP (JJ big) (NNS companies))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (NP (JJ commercial) (NNS markets))))) (, ,) (NP (NP (NNP Digital) (POS 's)) (JJ new) (NN line)) (VP (VBZ targets) (NP (NP (DT the) (JJ low) (NN end)) (PP (IN of) (NP (DT the) (UCP (NN engineering) (CC and) (JJ scientific)) (NN supercomputer) (NN market))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN packaged) (PP (IN with) (NP (NP (DT an) (JJ optional) (NN supercharger)) (, ,) (VP (VBN known) (PP (IN as) (NP (DT a) (NN vector) (NN processor)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Digital) (POS 's)) (NN push)) (PP (IN into) (NP (NNS mainframes)))) (VP (VBZ comes) (PP (IN at) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ its) (JJ mainstay) (NN minicomputer) (NN line)) (VP (VBZ is) (PP (IN under) (NP (NP (VBG growing) (NN pressure)) (PP (IN from) (NP (NP (JJR smaller) (JJ personal) (NNS computers)) (CC and) (NP (NP (NNS workstations)) (SBAR (WHNP (WDT that)) (S (VP (VBP operate) (PP (PP (IN on) (NP (JJ standard) (VBG operating) (NNS systems))) (CONJP (RB rather) (IN than)) (PP (IN on) (NP (NP (DT the) (JJ proprietary) (NNS systems)) (SBAR (WHNP (WDT that)) (S (NP (JJR older) (NNS minicomputers)) (VP (VBP use))))))))))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNP Digital)) (VP (VBZ has) (VP (VBN staked) (PRT (RP out)) (NP (NP (DT a) (JJ major) (NN presence)) (PP (IN in) (NP (DT the) (JJ booming) (NN workstation) (NN market)))))))) (, ,) (NP (NP (NN profit) (NNS margins)) (PP (IN in) (NP (DT that) (NN market)))) (VP (VBP are) (ADJP (ADJP (RB much) (JJR slimmer)) (PP (IN than) (PP (IN for) (NP (NNS mainframes)))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ slow-growing) (NN mainframe) (NN market)) (ADVP (RB also)) (VP (VBZ has) (VP (VBN shown) (NP (NP (JJ new) (NNS signs)) (PP (IN of) (NP (NN life)))) (ADVP (RB lately)))) (. .)))
+
+(S1 (S (NP (NP (NNP IBM) (POS 's)) (NN mainframe) (NNS sales)) (VP (VBP have) (VP (VBD held) (PRT (RP up)) (ADVP (ADVP (RBR better)) (SBAR (IN than) (S (VP (VBN expected) (NP (DT this) (NN year)) (, ,) (PP (IN with) (S (NP (NNS analysts)) (VP (VBG estimating) (SBAR (S (NP (PRP they)) (VP (VBP have) (VP (VBN risen) (NP (QP (CD 10) (NN %) (TO to) (CD 12) (NN %)))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (NN Demand)) (PP (IN for) (NP (DT these) (NNS systems)))) (VP (VBZ has) (VP (VBN been) (ADJP (RB very) (, ,) (RB very) (JJ strong)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Bill) (NNP Grabe)) (, ,) (NP (DT a) (JJ senior) (NNP IBM) (NN marketing) (NN executive))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP have) (NP (NP (DT a) (JJ good) (JJ strong) (NN backlog)) (PP (IN for) (NP (DT the) (JJ fourth) (NN quarter)))) (ADVP (RB even)) (PP (IN without))) ('' ') ('' ')) (FRAG (NP (NP (DT the) (NNS systems)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN announced) (NP (NN yesterday)))))))) (. .)))
+
+(S1 (S (S (CC But) (NP (DT the) (CD 3090) (NN line)) (VP (VBZ is) (ADJP (NP (QP (RB nearly) (CD five)) (NNS years)) (JJ old)))) (PRN (: --) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBG getting) (PRT (RP up)) (ADVP (RB there)) (PP (IN in) (NP (JJ mainframe) (NNS years))))))) (: --)) (CC and) (S (NP (PRP$ its) (NN growth)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB slow) (PP (IN in) (NP (CD 1990))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP IBM)) (, ,) (NP (NP (NNP Armonk)) (, ,) (NP (NNP N.Y.))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD wanted) (S (VP (TO to) (VP (VB bring) (PRT (RP out)) (NP (DT the) (NNS mainframes)) (ADVP (ADVP (RB as) (RB soon)) (SBAR (IN as) (S (NP (PRP it)) (VP (MD could) (S (VP (TO to) (VP (VB spark) (NP (ADJP (RB as) (JJ many)) (NNS sales)) (PP (IN as) (ADJP (JJ possible))) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ fourth) (NN quarter)) (VP (VBZ is) (ADVP (RB always)) (NP (NP (NP (NNP IBM) (POS 's)) (JJS biggest)) (PP (IN by) (ADVP (RB far)))) (, ,) (PP (IN with) (S (NP (JJS most) (NNS sales)) (VP (VBG coming) (PP (IN in) (NP (NNP December))) (SBAR (IN as) (S (NP (NNS customers)) (VP (VBP seek) (S (VP (TO to) (VP (VB use) (NP (NNS budgets)) (PP (IN before) (NP (NN year) (NN end))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (NP (NNP Steve) (NNP Cohen)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN at) (NP (NNP SoundView) (NNP Financial) (NNP Group) (NNP Inc.)))) (, ,)) (VP (VBD said) (, ,) (`` `) (S (`` `) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB see) (SBAR (IN that) (S (NP (DT this)) (VP (MD will) (VP (VB be) (ADJP (JJ sufficient) (S (VP (TO to) (VP (VB give) (NP (NNP IBM)) (NP (NP (DT a) (JJ significant) (NN kick)) (PP (IN in) (NP (DT the) (JJ fourth) (NN quarter)))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP IBM)) (VP (VBZ has) (ADVP (RB already)) (VP (VBN indicated) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB have) (NP (NP (NNS problems)) (PP (IN in) (NP (DT the) (NN quarter)))) (, ,) (PP (ADVP (RB partly)) (IN because) (IN of) (NP (NP (DT a) (NN delay)) (UCP (PP (IN in) (S (VP (VBG shipping) (NP (DT a) (JJ high-end) (NN disk) (NN drive))))) (CC and) (SBAR (ADVP (RB partly)) (IN because) (S (NP (DT the) (JJ strong) (NN dollar)) (VP (MD will) (VP (VB cut) (ADVP (RB significantly)) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (NP (NNP IBM) (POS 's)) (JJ overseas) (NNS earnings)))) (SBAR (WHADVP (WRB when)) (S (VP (VBN translated) (PP (IN into) (NP (NNS dollars))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS analysts)) (VP (VBP have) (VP (VBN estimated) (SBAR (S (NP (NP (NNP IBM) (POS 's)) (JJ fourth-quarter) (JJ per-share) (NNS earnings)) (VP (MD will) (VP (VB fall) (NP (CD 10) (NN %)) (PP (TO to) (NP (NP ($ $) (CD 3.57)) (NP (DT a) (NN share)))) (PP (IN from) (NP (NP ($ $) (CD 3.97)) (NP (DT a) (NN share))) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (NP (DT the) (JJ new) (NN mainframe) (NN hardware) (CC and) (NN software))))) (, ,) (NP (NNP IBM)) (VP (VBD announced) (NP (NP (DT a) (JJ magnetic-tape) (NN system)) (PP (IN for) (NP (NNS data) (NN storage)))) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD said) (SBAR (S (VP (VP (VBZ occupies) (NP (DT half) (ADJP (RB as) (JJ much)) (NN floor) (NN space)) (PP (IN as) (NP (JJR older) (NNS systems)))) (CC but) (VP (MD can) (VP (VB store) (NP (CD five) (NNS times)) (PP (IN as) (NP (NP (JJ much) (NN data)) (PP (IN on) (NP (DT a) (JJ single) (NN cartridge)))))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (MD should) (VP (VB help) (S (NP (NNP IBM)) (VP (VB address) (NP (DT the) (NN damage) (SBAR (IN that) (S (NP (DT a) (JJ resurgent) (NNP Storage) (NNP Technology) (NNP Corp.)) (VP (VBZ has) (VP (VBD inflicted) (PP (IN in) (NP (DT that) (NN market)))))))))))) (. .)))
+

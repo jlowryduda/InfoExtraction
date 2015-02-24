@@ -1,0 +1,16 @@
+(S1 (S (NP (NNP South) (NNP Korean) (NNP President) (NNP Roh) (NNP Tae) (NNP Woo)) (, ,) (S (VP (VBG brushing) (PRT (RP aside)) (NP (NNS suggestions) (SBAR (IN that) (S (NP (DT the) (NN won)) (VP (VB be) (VP (VBN revalued) (ADVP (RB again))))))))) (, ,) (VP (VBD said) (SBAR (S (NP (NP (NP (DT the) (NN currency) (POS 's)) (JJ current) (NN level)) (PP (IN against) (NP (DT the) (NN dollar)))) (VP (VBZ is) (`` `) (ADJP (`` `) (JJ appropriate)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (PRP$ His) (NNS comments)) (, ,) (VP (VBN made) (PP (IN in) (NP (NP (NN response)) (PP (TO to) (NP (NP (NP (NNS reporters) (POS ')) (NNS questions)) (PP (IN at) (NP (NP (DT the) (NNP National) (NNP Press) (NNP Club)) (ADVP (RB here))))))))) (, ,)) (VP (VBD signaled) (SBAR (IN that) (S (NP (NNP Seoul)) (VP (VBZ is) (VP (VBG resisting) (NP (NNP U.S.) (NN pressure)) (PP (IN for) (NP (NP (DT a) (JJ further) (NN rise)) (PP (IN in) (NP (NP (DT the) (NN currency) (POS 's)) (NN value)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP U.S.)) (VP (VBZ wants) (S (NP (DT a) (JJR higher) (NN won)) (VP (TO to) (VP (VP (VB make) (S (NP (NP (NNP South) (NNP Korea) (POS 's)) (NNS exports)) (ADJP (RBR more) (JJ expensive)))) (CC and) (VP (VB help) (S (VP (VB trim) (NP (NP (NNP Seoul) (POS 's)) (NN trade) (NN surplus))))))))) (. .)))
+
+(S1 (S (NP (JJ Many) (ADJP (NNP South) (NNP Korean)) (NN business) (NNS people)) (VP (VBP want) (NP (DT a) (NN devaluation)) (PRT (RB instead)) (, ,) (S (VP (VBG arguing) (SBAR (IN that) (S (NP (NP (DT the) (NN won) (POS 's)) (JJ recent) (NNS gains)) (ADVP (RB already)) (VP (VBP have) (VP (VBN weakened) (NP (NP (DT the) (NN country) (POS 's)) (NN export) (NN performance))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Roh)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (NNP South) (NNP Korea)) (VP (VBZ is) (VP (VBG taking) (NP (NP (NNS steps)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB free) (S (NP (DT the) (NN won)) (VP (TO to) (VP (VB respond) (PP (TO to) (NP (NN market) (NNS forces)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Seoul)) (VP (VBZ has) (VP (VBN pointed) (PP (TO to) (NP (NP (PRP$ its) (NN lack)) (PP (IN of) (NP (DT a) (JJ foreign) (NN exchange) (NN market))))) (PP (IN as) (NP (NP (CD one) (NN reason)) (SBAR (S (NP (NP (DT the) (NN won) (POS 's)) (NN value)) (VP (VBZ remains) (ADJP (RB heavily) (JJ controlled))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Roh)) (VP (VP (VBD said) (SBAR (S (NP (NP (DT a) (NNP U.S.) (NN demand)) (PP (IN for) (NP (NP (DT the) (NN removal)) (PP (IN of) (NP (ADJP (NNP South) (NNP Korean)) (NN import) (NNS quotas))))) (PP (IN on) (NP (NN beef)))) (VP (MD will) (VP (VB be) (VP (VBN resolved) (S (`` `) (ADJP (`` `) (ADJP (RB satisfactorily)) ('' ')) ('' ')))))))) (CC but) (VP (VBD gave) (NP (DT no) (NN hint)) (SBAR (WHADVP (WRB when)) (S (NP (DT that)) (VP (MD will) (VP (VB happen))))))) (. .)))
+
+(S1 (S (S (VP (VBG Speaking) (PP (TO to) (NP (NP (DT a) (JJ joint) (NN meeting)) (PP (IN of) (NP (NNP Congress))) (ADVP (RBR earlier)))))) (, ,) (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (NNP South) (NNP Korea)) (VP (MD ca) (RB n't) (VP (VB move) (ADVP (RB quickly)) (PP (IN on) (NP (JJ such) (JJ agricultural) (NN trade) (NNS issues))) (PP (`` `) (`` `) (IN without) (S (VP (VBG causing) (NP (ADJP (JJ political) (CC and) (JJ social)) (NN trauma)))))))))) (. .)))
+

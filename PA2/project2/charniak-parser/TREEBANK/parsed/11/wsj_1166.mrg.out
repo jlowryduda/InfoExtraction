@@ -1,0 +1,52 @@
+(S1 (S (NP (NP (NNS Yields)) (PP (IN on) (NP (NP (NNS certificates)) (PP (IN of) (NP (NN deposit))))) (PP (IN at) (NP (JJ major) (NNS banks)))) (VP (VBD were) (ADJP (RB little) (JJ changed)) (PP (IN in) (NP (DT the) (JJS latest) (NN week)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ average) (NN yield)) (PP (IN on) (NP (NP (JJ six-month) (NNS CDs)) (PP (IN of) (NP ($ $) (CD 50,000) (QP (CC and) (JJR less))))))) (VP (VBD slipped) (PP (TO to) (NP (CD 7.96) (NN %))) (PP (IN from) (NP (CD 8.00) (NN %))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNP Banxquote) (NNP Money) (NNPS Markets)) (, ,) (NP (NP (DT an) (NN information) (NN service)) (VP (VBN based) (ADVP (RB here)))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NP (JJ one-year) (NNS CDs)) (PP (IN of) (NP ($ $) (CD 50,000) (QP (CC and) (JJR less)))))) (, ,) (NP (DT the) (NN average)) (VP (VBD slid) (PP (TO to) (NP (CD 8.02) (NN %))) (PP (IN from) (NP (CD 8.06) (NN %)))) (. .)))
+
+(S1 (S (NP (DT Both) (NNS issues)) (VP (VBP are) (PP (IN among) (NP (NP (DT the) (ADJP (RBS most) (JJ popular))) (PP (IN with) (NP (JJ individual) (NNS investors)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (PP (IN Because) (IN of) (NP (NP (NN shrinkage)) (PP (IN in) (NP (DT the) (NN economy))))) (, ,) (NP (NNS rates)) (VP (MD can) (VP (VB be) (VP (VBN expected) (S (VP (TO to) (VP (VB decline) (PP (IN over) (NP (DT a) (JJ one-year) (NN horizon))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Norberto) (NNP Mehl)) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (NNP Banxquote))))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ unclear)) (SBAR (SBAR (WHNP (WRB how) (RB much)) (S (NP (NNS rates)) (VP (MD can) (VP (VB fall))))) (CC and) (SBAR (WHADVP (WRB how)) (FRAG (ADVP (RB soon))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (NNS Changes)) (PP (IN in) (NP (NP (NN CD) (NNS yields)) (PP (IN in) (NP (NP (DT the) (NN week)) (VP (VBD ended) (NP (NNP Tuesday)))))))) (VP (VBD were) (PP (IN in) (NP (NP (NN line)) (PP (IN with) (NP (NNS blips))))) (ADVP (RB up) (CC and) (RB down)) (PP (IN within) (NP (DT a) (ADJP (RB fairly) (JJ narrow)) (NN range))) (PP (IN for) (NP (DT the) (JJ last) (CD two) (NNS months)))) (. .)))
+
+(S1 (S (NP (NN Interest) (NNS rates)) (ADVP (RB generally)) (VP (VBD began) (S (VP (VBG declining) (NP (JJ last) (NN spring)) (PP (IN after) (S (VP (VBG moving) (ADVP (RB steadily)) (ADVP (RB upward))))) (PP (IN for) (NP (QP (JJR more) (IN than) (DT a)) (NN year)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ average) (NN yield)) (PP (IN on) (NP (NN small-denomination) (JJ three-month) (NNS CDs)))) (VP (VBD moved) (PRT (RP up)) (NP (NP (NNS two-hundredths)) (PP (IN of) (NP (DT a) (NN percentage) (NN point)))) (PP (IN in) (NP (DT the) (JJS latest) (NN week))) (PP (TO to) (NP (CD 7.85) (NN %)))) (. .)))
+
+(S1 (S (NP (JJ Long-term) (NNS CDs)) (VP (VBD declined) (NP (RB just) (DT a) (NN fraction))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ average) (NN yield)) (PP (IN on) (NP (NP (DT both) (JJ two-year) (NNS CDs)) (CC and) (NP (JJ five-year) (NNS CDs))))) (VP (VBD was) (NP (CD 7.98) (NN %))) (. .)))
+
+(S1 (S (NP (NP (JJ Only) (NNS CDs)) (VP (VBN sold) (PP (IN by) (NP (JJ major) (NN brokerage) (NNS firms))))) (VP (VBD posted) (NP (NP (JJ significant) (NNS increases)) (PP (IN in) (NP (JJ average) (NNS yields)))) (PP (IN in) (NP (DT the) (JJS latest) (NN week))) (, ,) (S (VP (VBG reflecting) (NP (NP (VBN increased) (NNS yields)) (PP (IN on) (NP (NP (NNP Treasury) (NNS bills)) (VP (VBN sold) (PP (IN at) (NP (NP (NNP Monday) (POS 's)) (NN auction)))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (JJ average) (NN yield)) (PP (IN on) (NP (JJ six-month) (JJ broker-sold) (NNS CDs)))) (VP (VBD rose) (PP (TO to) (NP (CD 8.29) (NN %))) (PP (IN from) (NP (CD 8.05) (NN %))))) (CC and) (S (PP (IN on) (NP (JJ one-year) (NNS CDs))) (NP (DT the) (JJ average) (NN yield)) (VP (VBD rose) (PP (TO to) (NP (CD 8.30) (NN %))) (PP (IN from) (NP (CD 8.09) (NN %))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN brokerage) (NNS firms)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VB negotiate) (NP (NNS rates)) (PP (IN with) (NP (NP (DT the) (NNS banks) (CC and) (NNS thrifts)) (SBAR (WHNP (WP$ whose) (NNS CDs)) (S (NP (PRP they)) (VP (VBP sell))))))))) (, ,)) (ADVP (RB generally)) (VP (VBP feel) (SBAR (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB offer) (NP (NNS clients)) (ADVP (ADVP (RBR more)) (SBAR (IN than) (S (NP (PRP they)) (VP (MD can) (VP (VB get) (PP (PP (IN on) (NP (NNS T-bills))) (CC or) (PP (IN from) (NP (NNS banks) (CC and) (NNS thrifts)))) (ADVP (RB directly)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS T-bills)) (VP (VBN sold) (PP (IN at) (NP (NP (NNP Monday) (POS 's)) (NN auction))))) (VP (VBD yielded) (NP (NP (NP (CD 7.90) (NN %)) (PP (IN for) (NP (CD six) (NNS months)))) (CC and) (NP (CD 7.77) (NN %))) (PP (IN for) (NP (CD three) (NNS months))) (, ,) (ADVP (IN up) (PP (IN from) (NP (NP (NP (CD 7.82) (NN %)) (CC and) (NP (CD 7.61) (NN %)) (, ,) (ADVP (RB respectively)) (, ,)) (ADVP (NP (DT the) (NN week)) (RB before)))))) (. .)))
+
+(S1 (S (NP (NP (JJ So-called) (JJ jumbo) (NNS CDs)) (, ,) (UCP (PP (ADVP (RB typically)) (IN in) (NP (NP (NNS denominations)) (PP (IN of) (NP ($ $) (CD 90,000))))) (CC and) (ADVP (IN up))) (, ,)) (ADVP (RB also)) (ADVP (RB usually)) (VP (VBP follow) (NP (NP (NNS T-bills)) (CC and) (NP (NP (NN interest) (NN rate) (NNS trends)) (PP (IN in) (NP (NN general))))) (ADVP (ADVP (RBR more)) (PP (IN than) (NP (NP (DT those)) (VP (VBN aimed) (PP (IN at) (NP (JJ small) (NNS investors)))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS jumbos)) (VP (VBD posted) (NP (NP (JJ fractional) (NNS changes)) (PP (IN in) (NP (JJ average) (NNS yields)))) (NP (DT this) (NN week)) (, ,) (ADVP (DT both) (RB up) (CC and) (RB down))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ average) (NN yield)) (PP (IN on) (NP (JJ threemonth) (NNS jumbos)))) (VP (VBD rose) (PP (TO to) (NP (CD 8.00) (NN %))) (PP (IN from) (NP (CD 7.96) (NN %))) (, ,) (SBAR (IN while) (S (NP (DT the) (JJ two-year) (NN average)) (VP (VBD fell) (PP (IN by) (NP (DT the) (JJ same) (NN amount))) (PP (TO to) (NP (CD 7.89) (NN %))))))) (. .)))
+
+(S1 (S (NP (JJ Six-month) (CC and) (JJ oneyear) (NNS yields)) (VP (VBD were) (ADJP (JJ unchanged)) (, ,) (PP (IN on) (NP (NN average)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (-LRB- -LRB-) (NN CD) (-RRB- -RRB-) (NN market)) (VP (VBZ is) (VP (VBN unsettled) (ADVP (RB right) (RB now)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Banxquote) (POS 's)) (NNP Mr.) (NNP Mehl)) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (PRP It)) (VP (VBZ 's) (VP (ADVP (RB very) (RB easily)) (VBN influenced) (PP (IN by) (NP (NP (NNS changes)) (PP (IN in) (NP (NP (DT the) (NN stock) (NN market)) (CC and) (NP (DT the) (NN junk) (NN bond) (NN market))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (DT The) (JJ small) (NNS changes)) (PP (IN in) (NP (NNS averages)))) (VP (VBP reflect) (NP (ADJP (RB generally) (JJ unchanged)) (NNS yields)) (PP (IN at) (NP (JJ many) (JJ major) (NNS banks)))) (. .)))
+
+(S1 (S (NP (DT Some)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD lowered) (NP (NNS yields)) (ADVP (RB significantly))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (NNP Chase) (NNP Manhattan) (NNP Bank)) (PP (IN in) (NP (NNP New) (NNP York))))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NP (DT the) (NN yield)) (PP (IN on) (NP (DT a) (JJ small) (NN denomination) (JJ six-month) (NN CD)))) (VP (VBD fell) (PP (IN about) (NP (NP (DT a) (NN quarter)) (PP (IN of) (NP (DT a) (NN percentage) (NN point))))) (PP (TO to) (NP (CD 8.06) (NN %)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP California))) (, ,) (NP (NP (NNP Bank)) (PP (IN of) (NP (NNP America)))) (VP (VBD dropped) (NP (NP (DT the) (NN yield)) (PP (IN on) (NP (DT both) (JJ six-month) (CC and) (JJ one-year) (`` `) (`` `) (NP (NNS savings) (POS ')) ('' ') (NNS CDs)))) (PP (TO to) (NP (CD 8.33) (NN %))) (PP (IN from) (NP (CD 8.61) (NN %)))) (. .)))
+
+(S1 (S (NP (NP (NNS Yields)) (PP (IN on) (NP (NN money-market) (NNS deposits)))) (VP (VBD were) (ADJP (JJ unchanged)) (PP (IN at) (NP (NP (NP (DT an) (JJ average) (CD 6.96) (NN %)) (PP (IN for) (NP ($ $) (CD 50,000) (QP (CC and) (JJR less))))) (CC and) (ADVP (RB down)) (NP (NP (RB just) (DT a) (NN hundredth)) (PP (IN of) (NP (DT a) (NN percentage) (NN point))) (PP (TO to) (NP (CD 7.41) (NN %))) (PP (IN for) (NP (JJ jumbo) (NNS deposits))))))) (. .)))
+

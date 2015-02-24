@@ -1,0 +1,26 @@
+(S1 (S (NP (NNP Spiegel) (NNP Inc.)) (, ,) (S (VP (VBG citing) (NP (NP (VBG continuing) (NN improvement)) (PP (IN in) (NP (DT the) (NN apparel) (NN market)))))) (, ,) (VP (VBD said) (SBAR (S (NP (JJ third-quarter) (JJ net) (NN income)) (VP (VBD jumped) (NP (CD 65) (NN %)) (PP (IN from) (NP (DT the) (JJ soft) (JJ year-earlier) (NN period))) (, ,) (PP (IN on) (NP (NP (DT an) (ADJP (CD 11) (NN %)) (NN increase)) (PP (IN in) (NP (NN revenue))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN catalog) (NN retailer)) (VP (VBD reported) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP (QP ($ $) (CD 10.8) (CD million))) (, ,) (CC or) (NP (NP (CD 21) (NNS cents)) (NP (DT a) (NN share))) (, ,) (ADVP (RB up) (RB sharply) (PP (IN from) (NP (NP (QP ($ $) (CD 6.6) (CD million))) (, ,) (CC or) (NP (NP (CD 13) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (PP (TO to) (NP (QP ($ $) (CD 372.1) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 336.4) (CD million))))) (. .)))
+
+(S1 (S (NP (NNP Spiegel)) (VP (VBD said) (SBAR (S (NP (NNS margins)) (VP (VBD improved) (PP (IN because) (NP (NP (PRP$ its) (NN inventory) (NN position)) (SBAR (S (NP (DT this) (NN year)) (VP (VBD did) (RB n't) (VP (VB need) (NP (NP (DT the) (JJ costly) (NNS markdowns)) (VP (VBN required) (S (VP (TO to) (VP (VB trim) (NP (NP (JJ last) (NN year) (POS 's)) (JJ swollen) (NNS levels))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN spokeswoman)) (VP (VBD said) (SBAR (S (NP (DT the) (NN apparel) (NN market)) (VP (VP (VBD troughed) (PP (IN in) (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (CD 1988)))))) (, ,) (RB then) (VP (VBD began) (S (VP (VBG showing) (NP (NP (NN improvement)) (PP (IN in) (NP (NP (DT the) (JJ second) (NN half)) (PP (IN of) (NP (JJ last) (NN year))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 've) (VP (VBN seen) (NP (NP (JJ continued) (NN improvement)) (PP (IN in) (NP (CD 1989)))))) (, ,) ('' ')) ('' ') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (JJ year-ago) (NN quarter) (POS 's)) (NNS results)) (VP (VBD were) (VP (VBN crimped) (PP (IN by) (NP (NP (NNS expenses)) (VP (VBN associated) (PP (IN with) (NP (NP (NP (NNP Spiegel) (POS 's)) (ADJP (QP ($ $) (CD 260) (CD million))) (NN acquisition)) (PP (IN of) (NP (NN catalog-clothing-merchandiser))) (NP (NNP Eddie) (NNP Bauer)))))))))) (, ,) (NP (NNP Spiegel)) (VP (VBD noted)) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (JJ ongoing) (JJ cost-cutting) (NNS efforts)) (VP (VBD contributed) (PP (TO to) (NP (NP (DT the) (JJS latest) (NN period) (POS 's)) (NNS earnings) (NN upturn))))))) (. .)))
+
+(S1 (S (NP (NNP Spiegel)) (VP (VBZ is) (NP (NP (CD 84) (NN %)) (VP (VBN -controlled) (PP (IN by) (NP (NP (DT the) (NNP Otto) (NN family)) (PP (IN of) (NP (NNP West) (NNP Germany)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ national) (JJ over-the-counter) (NN trading))) (, ,) (NP (NP (DT the) (NN company) (POS 's)) (NNS shares)) (VP (VBD climbed) (NP (CD 37.5) (NNS cents)) (PP (TO to) (NP ($ $) (CD 20.375)))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (JJS latest) (CD nine) (NNS months))) (, ,) (NP (NP (NNP Spiegel) (POS 's)) (NN net)) (VP (VBD climbed) (NP (DT a) (JJ solid) (CD 47) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 23.8) (CD million))) (, ,) (CC or) (NP (NP (CD 46) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 16.2) (CD million))) (, ,) (CC or) (NP (CD 34) (NNS cents))))) (. .)))
+
+(S1 (S (PP (IN Unlike) (NP (NP (NP (DT the) (NN quarter) (POS 's)) (NNS results)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (VP (VBN based) (PP (IN on) (NP (NP (ADJP (RB roughly) (JJ equal)) (NNS shares)) (ADJP (JJ outstanding)))))))))) (, ,) (NP (JJ nine-month) (JJ per-share) (NNS figures)) (VP (VBP reflect) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NP (JJ average) (JJ common) (NNS shares)) (ADJP (JJ outstanding) (PP (TO to) (NP (QP (CD 51.9) (CD million))))))) (PP (IN from) (NP (QP (CD 47) (CD million)))))) (. .)))
+
+(S1 (S (NP (JJ Nine-month) (NN revenue)) (VP (VBD was) (NP (NP (QP ($ $) (CD 1.02) (CD billion))) (, ,) (ADVP (RB up) (NP (CD 22) (NN %)) (PP (IN from) (NP (QP ($ $) (CD 841.5) (CD million))))))) (. .)))
+

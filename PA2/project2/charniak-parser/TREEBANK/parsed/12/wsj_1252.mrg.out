@@ -1,0 +1,22 @@
+(S1 (NP (JJ Well-Seasoned) (NN Reasoning)))
+
+(S1 (FRAG (-LRB- -LRB-) (`` `) (FRAG (`` `) (NP (NP (NNP Food) (NN manufacturer) (NNS changes)) (VP (VBG spelling) (PP (IN of) (ADJP (`` `) (JJ catsup) ('' ') (PP (TO to) (NP (`` `) (NP (NN ketchup)) (, ,) ('' ') (VP (VBG saying) (SBAR (S (NP (DT that)) (VP (VBZ 's) (SBAR (S (NP (DT the) (VBG spelling) (NNS people)) (ADVP (RB now)) (VP (VBP prefer)))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (PRN (: --) (NNP WSJ) (NNP Business) (NN Bulletin) (-RRB- -RRB-)))
+
+(S1 (S (S (NP (JJ Public) (NN preference)) (VP (VBZ is) (ADJP (JJ important)))) (, ,) (IN So) (S (NP (NN product) (NNS names)) (VP (MD should) (VP (VB match) (PRT (RP up))))) (, ,) (CC And) (S (NP (NP (NNS firms)) (SBAR (WHNP (WDT that)) (S (VP (VBP find) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG lagging) (PP (IN behind))))))))) (VP (MD Should) (ADVP (RB now)) (VP (VB take) (NP (NNS steps)) (PP (TO to) (NP (NN ketchup)))))) (. !)))
+
+(S1 (NP (: --) (NNP George) (NNP O.) (NNP Ludcke) (. .)))
+
+(S1 (FRAG (NP (NN Judge)) (ADJP (RB Not))))
+
+(S1 (FRAG (SBAR (WHADJP (WRB How) (JJ easy)) (S (NP (PRP it)) (VP (VBZ is) (S (VP (TO To) (VP (VB attack) (NP (NP (NNS others) (POS ')) (NNS views)) (PP (IN Without) (S (ADVP (RB ever)) (VP (VBG setting) (NP (NP (DT A) (NN foot)) (PP (IN in) (NP (PRP$ their) (NNS shoes))))))))))))) (. !)))
+
+(S1 (NP (: --) (NNP G.) (NNP Sterling) (NNP Leiby) (. .)))
+
+(S1 (NP (NN Daffynition)))
+
+(S1 (NP (NP (JJ Money-making) (NN course)) (: :) (NP (NN wad-working)) (. .)))
+
+(S1 (NP (: --) (NNP Thomas) (NNP Henry) (. .)))
+

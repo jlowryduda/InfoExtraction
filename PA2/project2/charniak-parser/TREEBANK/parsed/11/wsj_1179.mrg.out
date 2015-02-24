@@ -1,0 +1,14 @@
+(S1 (S (NP (NP (NNP Honeywell) (NNP Inc.)) (, ,) (NP (NNP Minneapolis)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD completed) (NP (NP (PRP$ its) (ADJP (RB previously) (VBN announced)) (NN sale)) (PP (IN of) (NP (CD 16) (NN %))) (PP (IN of) (NP (NP (DT the) (NNS shares)) (ADJP (JJ outstanding))))) (PP (IN in) (NP (NP (PRP$ its) (JJ Japanese) (JJ joint) (NN venture)) (, ,) (NP (NNP Yamatake-Honeywell)) (, ,))) (PP (IN for) (NP (QP ($ $) (CD 280) (CD million)))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN stake)) (VP (VBD was) (VP (VBN acquired) (PP (IN by) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NP (NP (CD 10) (JJ Japanese) (JJ financial) (NNS institutions)) (CC and) (NP (JJ industrial) (NNS corporations))) (, ,) (ADVP (RB primarily)) (NP (NN insurance) (NNS companies))))))))) (, ,) (NP (NNP Honeywell)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNS Proceeds)) (VP (MD will) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB repurchase) (NP (NP (QP (RB as) (JJ many) (IN as) (CD 10) (CD million)) (NNS shares)) (PP (IN of) (NP (NP (NNP Honeywell) (NN stock)) (, ,) (IN as) (ADJP (RB previously) (VBN announced))))))))))) (. .)))
+
+(S1 (S (NP (NNP Honeywell)) (VP (VBD said) (SBAR (S (NP (NP (DT a) (JJ second) (NN sale)) (PP (IN of) (NP (NNP Yamatake-Honeywell)))) (VP (VBZ is) (ADVP (RB still)) (VP (VBG being) (VP (VBN negotiated))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB now)) (VP (VBZ holds) (NP (NP (DT a) (ADJP (CD 34) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN venture))))))) (, ,)) (VP (VBZ has) (VP (VBN indicated) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ intends) (S (VP (TO to) (VP (VB retain) (NP (ADVP (IN at) (JJS least)) (DT a) (ADJP (CD 20) (NN %)) (NN stake)) (NP (JJ long) (NN term)))))))))) (. .)))
+
+(S1 (S (NP (DT A) (ADJP (CD 20) (NN %)) (NN stake)) (VP (MD would) (VP (VB allow) (S (NP (NNP Honeywell)) (VP (TO to) (VP (VB include) (NP (NNP Yamatake) (NNS earnings)) (PP (IN in) (NP (PRP$ its) (NNS results)))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN company) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN gain)) (PP (IN on) (NP (DT the) (NN sale)))) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN estimated) (SBAR (IN until) (S (NP (DT the) (`` `) (`` `) (NN tax) (NN treatment)) (VP (VBZ has) (VP (VBN been) (VP (VBN determined)))))))))))) (. .)))
+

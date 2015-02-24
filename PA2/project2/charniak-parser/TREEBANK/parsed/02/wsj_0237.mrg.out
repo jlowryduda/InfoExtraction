@@ -1,0 +1,6 @@
+(S1 (S (NP (NP (NNP Thomas) (NNP A.) (NNP Donovan)) (, ,) (ADJP (NP (CD 37) (NNS years)) (JJ old)) (, ,) (NP (ADVP (RB formerly)) (NP (NN vice) (NN president)) (, ,) (NP (NNP West) (NNP Coast) (NNS operations)) (, ,) (PP (IN at) (NP (DT this) (JJ hazardous-waste-site) (NN remediation) (NN concern)))) (, ,)) (VP (VBD was) (VP (VBN named) (NP (NP (NP (NP (JJ executive) (NN vice) (NN president)) (CC and) (NP (NN chief) (VBG operating) (NN officer))) (, ,) (NP (DT both) (ADJP (RB newly) (VBN created)) (NNS posts)) (, ,)) (CC and) (NP (DT a) (NN director))) (, ,) (S (VP (VBG filling) (NP (DT a) (NN vacancy)))))) (. .)))
+
+(S1 (S (NP (NNP Canonie)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ anticipates) (S (VP (VBG naming) (S (NP (NNP Mr.) (NNP Donovan)) (VP (TO to) (VP (VB succeed) (NP (NP (NNP Richard) (NNP F.) (NNP Brissette)) (, ,) (NP (CD 55)) (, ,)) (PP (IN as) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,) (ADJP (JJ effective) (NP (NNP March) (CD 1)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Brissette)) (VP (VP (MD will) (VP (VB remain) (NP (DT a) (NNP Canonie) (NN board) (NN member)))) (CC and) (VP (MD will) (VP (VB be) (NP (NP (DT a) (NN consultant)) (PP (TO to) (NP (DT the) (NN company))))))) (. .)))
+

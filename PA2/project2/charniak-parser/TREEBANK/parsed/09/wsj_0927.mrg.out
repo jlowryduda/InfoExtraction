@@ -1,0 +1,58 @@
+(S1 (S (NP (NNP H.) (NNP Marshall) (NNP Schwarz)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NP (NNP U.S.) (NNP Trust) (NNP Corp.)) (, ,) (NP (NP (DT a) (JJ private-banking) (NN firm)) (PP (IN with) (NP (NP (NNS assets)) (PP (IN under) (NP (NP (NN management)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 17) (CD billion))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Schwarz)) (, ,) (ADJP (NP (CD 52) (NNS years)) (JJ old)) (, ,)) (VP (MD will) (VP (VB succeed) (NP (NNP Daniel) (NNP P.) (NNP Davison)) (NP (NNP Feb.) (CD 1)) (, ,) (SBAR (RB soon) (IN after) (S (NP (NNP Mr.) (NNP Davison)) (VP (VBZ reaches) (NP (NP (NP (DT the) (NN company) (POS 's)) (JJ mandatory) (NN retirement) (NN age)) (PP (IN of) (NP (CD 65))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Schwarz)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (NP (NN president)) (PP (IN of) (NP (NNP U.S.) (NNP Trust))))))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN succeeded) (PP (IN in) (NP (DT that) (NN post))) (PP (IN by) (NP (NP (NNP Jeffrey) (NNP S.) (NNP Maurer)) (, ,) (NP (CD 42)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NN asset-management) (NN group)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP U.S.) (NNP Trust)) (, ,) (NP (NP (DT a) (JJ 136-year-old) (NN institution)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS earliest) (JJ high-net) (JJ worth) (NNS banks)) (PP (IN in) (NP (DT the) (NNP U.S.)))))))))) (, ,)) (VP (VBZ has) (VP (VBN faced) (NP (NP (VBG intensifying) (NN competition)) (PP (IN from) (NP (NP (JJ other) (NNS firms)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN established) (, ,) (CC and) (ADVP (RB heavily)) (VBN promoted) (, ,) (S (VP (VBG private-banking) (NP (NP (NNS businesses)) (PP (IN of) (NP (PRP$ their) (JJ own))))))))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (NNP U.S.) (NNP Trust) (POS 's)) (NNS earnings)) (VP (VBP have) (VP (VBN been) (VP (VBN hurt)))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Mr.) (NNP Schwarz)) (VP (VBZ welcomes) (NP (NP (DT the) (NN competition)) (PP (IN in) (NP (NP (NNP U.S.) (NNP Trust) (POS 's)) (NN flagship) (NNS businesses)))) (, ,) (S (VP (VBG calling) (S (NP (PRP it)) (`` `) (ADJP (`` `) (JJ flattery)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Schwarz)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN competition)) (`` `) (VP (`` `) (VBZ broadens) (NP (NP (DT the) (NN base)) (PP (IN of) (NP (NN opportunity))) (PP (IN for) (NP (PRP us)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (JJ Other) (NNS firms)) (VP (`` `) (`` `) (VBP are) (VP (VBG dealing) (PP (IN with) (NP (DT the) (NNS masses))))) (. .)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB believe) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (NP (DT the) (NN culture) (POS ')) ('' ') (SBAR (S (VP (TO to) (VP (ADVP (RB adequately)) (VB service) (NP (JJ high-net-worth) (NNS individuals))))))))))))) (, ,) (NP (PRP he)) (VP (VBZ adds)) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NNP Trust)) (ADVP (RB recently)) (VP (VBD introduced) (NP (NP (JJ certain) (JJ mutual-fund) (NNS products)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP allow) (S (NP (PRP it)) (VP (TO to) (VP (VB serve) (NP (NNS customers)) (PP (IN with) (NP (NP (NN minimum) (NNS deposits)) (PP (IN of) (NP ($ $) (CD 250,000))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Previously)) (, ,) (NP (DT the) (NN company)) (VP (VBD advertised) (PP (IN at) (NP (DT the) (ADJP (QP ($ $) (CD 2) (CD million))) (NN level)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (PRP We)) (VP (VBP have) (ADVP (RB always)) (VP (VBN taken) (NP (JJR smaller) (NNS accounts))))) (, ,) (CC but) (S (ADVP (RB now)) (NP (PRP we)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (JJR smaller) (NNS accounts)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB grow)))))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Schwarz)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP$ Our) (NN bread) (CC and) (NN butter)) (VP (VBZ is) (ADVP (RB still)) (NP (DT the) (ADJP (QP ($ $) (CD 2) (CD million) (TO to) ($ $) (CD 20) (CD million))) (NN account))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (DT The) (JJ new) (NNS services)) (VP (VBP allow) (S (NP (NNP U.S.) (NNP Trust)) (VP (TO to) (VP (VB cater) (PP (TO to) (NP (DT the) (`` `) (NX (`` `) (NX (JJ new) (NN wealth)) (, ,) ('' ')) ('' ') (PRN (S (NP (NNP Mr.) (NNP Schwarz)) (VP (VBZ says)))))))))) (. .)))
+
+(S1 (S (NP (JJ Quarterly) (JJ net) (NN income)) (NP (DT this) (NN year)) (VP (VBZ has) (VP (VBN risen) (PP (RB just) (IN over) (NP (JJ comparable) (NNS periods))) (PP (IN in) (NP (NP (CD 1988)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (JJ year-end) (NN net)) (VP (VBD was) (PP (IN below) (NP (DT the) (CD 1987) (NN level)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT this) (NN year) (POS 's)) (JJ third) (NN quarter))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NN net)) (VP (VBD was) (NP (NP (QP ($ $) (CD 10.5) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.05)) (NP (DT a) (NN share))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (QP ($ $) (CD 10.3) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.02)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Assets)) (PP (IN as) (PP (IN of) (NP (NNP Sept.) (CD 30))))) (VP (VBD fell) (PP (TO to) (NP (QP ($ $) (CD 2.46) (CD billion)))) (PP (IN from) (NP (QP (RB about) ($ $) (CD 2.77) (CD billion))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (MD will) (VP (VB have) (NP (DT a) (ADJP (RB reasonably) (JJ flat)) (NN year)) (NP (DT this) (NN year)))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Schwarz)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Schwarz)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (NP (NNS costs)) (VP (VBN associated) (PP (IN with) (NP (NP (NP (NNP U.S.) (NNP Trust) (POS 's)) (VBN planned) (NN move)) (PP (TO to) (NP (JJ midtown) (NNP Manhattan))) (PP (IN from) (NP (NNP Wall) (NNP Street))))))) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN drag)) (PP (IN on) (NP (NNS earnings)))) (PP (IN through) (NP (CD 1990))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Mr.) (NNP Schwarz) (POS 's)) (NN great-grandfather)) (VP (VBD founded) (NP (DT the) (NNP New) (NNP York) (NN toy) (NN store)) (NP (NNP F.A.O.) (NNP Schwarz)))) (, ,) (CC but) (S (NP (PRP$ his) (NN family)) (ADVP (RB no) (RB longer)) (VP (VBZ has) (NP (NP (NNS ties)) (PP (TO to) (NP (DT the) (NN company)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Schwarz) (POS 's)) (NN father)) (VP (VBD was) (NP (DT a) (NNP U.S.) (NNP Trust) (NN trustee)) (PP (IN until) (NP (CD 1974)))) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NNP Trust)) (ADVP (RB also)) (VP (VBD created) (NP (NP (DT a) (JJ four-member) (NN office)) (PP (IN of) (NP (DT the) (NN chairman))) (, ,) (ADJP (JJ effective) (NP (NNP Feb.) (CD 1))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD will) (VP (VB include) (NP (NNP Messrs.) (NNP Schwarz) (CC and) (NNP Maurer)))) (. .)))
+
+(S1 (S (NP (NP (NNP Donald) (NNP M.) (NNP Roberts)) (, ,) (NP (CD 54)) (, ,) (NP (NN treasurer)) (, ,) (CC and) (NP (NP (NNP Frederick) (NNP S.) (NNP Wonham)) (, ,) (NP (CD 58)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ takes) (NP (NP (NN responsibility)) (PP (IN for) (NP (DT the) (JJ funds-service) (NN group)))))))) (, ,)) (VP (VBD were) (VP (VP (VBN named) (NP (NN vice) (NNS chairmen))) (CC and) (VP (MD will) (VP (VB serve) (PP (IN in) (NP (NP (DT the) (NN office)) (PP (IN of) (NP (DT the) (NN chairman))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Roberts)) (VP (VBZ continues) (PP (IN as) (NP (NN treasurer))))) (, ,) (CC and) (S (NP (NNP Mr.) (NNP Wonham)) (VP (VBZ remains) (ADJP (JJ responsible) (PP (IN for) (NP (NP (DT the) (NNS offices)) (PP (IN of) (NP (NN comptroller) (, ,) (NN planning) (, ,) (NN marketing) (CC and) (NN general) (NNS services)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Frederick) (NNP B.) (NNP Taylor)) (, ,) (NP (CD 48)) (, ,)) (ADVP (RB also)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NP (DT a) (NN vice) (NN chairman)) (CC and) (NP (JJ chief) (NN investment) (NN officer))) (, ,) (NP (DT a) (JJ new) (NN post)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB previously)) (VP (VBD held) (NP (JJ similar) (NNS responsibilities))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Taylor)) (ADVP (RB also)) (VP (VBD was) (VP (VBN named) (S (NP (DT a) (NN director))) (, ,) (S (VP (VP (VBG increasing) (NP (DT the) (NN board)) (PP (TO to) (NP (CD 22)))) (, ,) (CC but) (VP (VBZ is) (RB not) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (JJ new) (NN office)) (PP (IN of) (NP (DT the) (NN chairman))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP James) (NNP E.)) (NP (NN Bacon))) (, ,) (NP (CD 58)) (, ,) (NP (NP (JJ executive) (NN vice) (NN president)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN directed) (NP (DT the) (JJ funds-service) (NN group))))))) (, ,)) (VP (MD will) (VP (VB retire))) (. .)))
+

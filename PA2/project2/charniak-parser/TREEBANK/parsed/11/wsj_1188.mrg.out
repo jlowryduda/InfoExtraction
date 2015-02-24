@@ -1,0 +1,14 @@
+(S1 (S (NP (NP (NP (NNS Directors)) (PP (IN of) (NP (NP (NNP Bergen) (NNP Bank)) (CC and) (NP (NN Den) (NNP Norske) (NNP Creditbank))))) (, ,) (NP (NP (CD two)) (PP (IN of) (NP (NP (NNP Norway) (POS 's)) (VBG leading) (NNS banks)))) (, ,)) (VP (VBD announced) (SBAR (S (NP (PRP they)) (VP (VBD had) (VP (VBN agreed) (PP (TO to) (NP (NP (DT the) (JJ formal) (NN merger)) (PP (IN of) (NP (DT the) (NNS banks)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN merger)) (VP (MD would) (VP (VB create) (NP (NP (NP (NNP Scandinavia) (POS 's)) (ADJP (JJ seventh) (JJS largest)) (NN bank)) (, ,) (PP (IN with) (NP (NP (VBN combined) (NNS assets)) (PP (IN of) (NP (NP (NP (QP (CD 210) (CD billion))) (NP (NNP Norwegian) (NN kroner))) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 30.3) (CD billion))) (-RRB- -RRB-))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS banks)) (VP (VBD said) (NP (NP (DT an) (NN application)) (PP (IN for) (NP (DT a) (NN concession) (S (VP (TO to) (VP (VB merge) (PP (IN into) (NP (CD one) (NN entity)))))))) (S (VP (TO to) (VP (VB be) (VP (VBN called) (S (NP (NN Den) (NNP Norske) (NNP Bank))) (SBAR (IN AS) (S (VP (VBD was) (VP (VBN sent) (NP (NNP Monday)) (PP (TO to) (NP (DT the) (NNP Finance) (NNP Ministry))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD two) (NNS boards)) (VP (VBD said) (PP (IN in) (NP (NP (DT a) (JJ joint) (NN statement)) (SBAR (WHNP (IN that)) (S (NP (DT the) (VBN proposed) (NN merger) (NN agreement)) (VP (VBD was) (VP (VBN considered) (PP (IN in) (NP (JJ separate) (NN board) (NNS meetings))))))) (PP (IN in) (NP (NN Oslo))))) (NP (NNP Monday))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD said) (SBAR (S (NP (DT the) (NN agreement)) (VP (MD will) (VP (VB be) (VP (VBN submitted) (PP (TO to) (NP (PRP$ their) (JJ respective) (NN supervisory) (NNS boards))) (NP (JJ next) (NNP Wednesday)))))))) (. .)))
+
+(S1 (S (NP (JJ Extraordinary) (JJ general) (NNS meetings)) (, ,) (S (VP (TO to) (VP (VB be) (VP (VBN held) (NP (NNP Nov.) (CD 28)))))) (, ,) (VP (MD will) (VP (VB decide) (NP (DT the) (NN share) (NN exchange) (NN ratio)))) (. .)))
+
+(S1 (S (NP (DT The) (NN merger)) (VP (VBZ requires) (NP (NP (DT the) (NN approval)) (PP (IN of) (NP (JJ Norwegian) (NNS authorities))))) (. .)))
+

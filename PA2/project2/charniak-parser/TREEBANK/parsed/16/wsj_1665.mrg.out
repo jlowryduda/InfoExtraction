@@ -1,0 +1,20 @@
+(S1 (S (NP (NNP Reebok) (NNP International) (NNP Ltd.)) (VP (VBD posted) (NP (NP (DT a) (ADJP (CD 35) (NN %)) (NN increase)) (PP (IN in) (NP (JJ third-quarter) (JJ net) (NN income)))) (PP (IN despite) (NP (NP (DT a) (JJ slight) (NN decline)) (PP (IN in) (NP (NNS sales)))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ athletic) (NN footwear) (NN maker)) (VP (VBD said) (SBAR (S (NP (NN net)) (VP (VBD rose) (PP (TO to) (NP (NP (QP ($ $) (CD 49.9) (CD million))) (, ,) (CC or) (NP (NP (CD 44) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 37.1) (CD million))) (, ,) (CC or) (NP (NP (CD 32) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD declined) (NP (CD 3) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 524.5) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 539.4) (CD million))))) (. .)))
+
+(S1 (S (NP (NP (NNP Paul) (NNP Fireman)) (, ,) (NP (NP (NNP Reebok) (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,)) (VP (VBD said) (, ,) (`` `) (S (`` `) (NP (NP (PRP$ Our) (NNS gains)) (PP (IN in) (NP (NNS earnings)))) (VP (VBP provide) (NP (JJ further) (NN evidence) (SBAR (IN that) (S (NP (NP (DT the) (NNS controls)) (SBAR (S (NP (PRP we)) (VP (VBP have) (VP (VBN put) (PP (IN in) (NP (NP (NN place)) (CC and) (NP (PRP$ our) (NNS sales) (NN mix))))))))) (VP (VBP are) (VP (VBG continuing) (S (VP (TO to) (VP (VB improve) (NP (NP (DT the) (NN company) (POS 's)) (JJ overall) (NN profit) (NN performance))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (NP (NNS sales)) (VP (TO to) (VP (VB improve) (ADJP (JJ due) (PP (TO to) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (JJ new) (NNS products)) (, ,) (PP (VBG including) (NP (NP (DT a) (`` `) (S (VP (`` `) (VBP pump) ('' '))) ('' ') (NN basketball) (NN shoe)) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB be) (VP (VBN inflated) (S (VP (TO to) (ADVP (RBR better)) (VP (VB fit) (NP (DT the) (NN foot)))))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ first) (CD nine) (NNS months))) (, ,) (NP (NN net)) (VP (VBD was) (NP (NP (QP ($ $) (CD 140) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.23)) (NP (DT a) (NN share))) (, ,)) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 1.44) (CD billion))))))) (. .)))
+
+(S1 (S (ADVP (RB Separately)) (, ,) (NP (NNP Reebok)) (VP (VBD completed) (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NP (NP (NNP CML) (NNP Group)) (NP (NP (NNP Inc.) (POS 's)) (NNP Boston) (NNP Whaler) (NN unit))) (, ,) (NP (NP (DT a) (NN builder)) (PP (IN of) (NP (NN power) (NNS boats)))))))) (. .)))
+
+(S1 (S (ADVP (RB CML)) (, ,) (NP (NP (NNP Acton)) (, ,) (NP (NNP Mass.)) (, ,)) (VP (VBD had) (VP (VBN agreed) (S (VP (TO to) (VP (VB sell) (NP (DT the) (NN unit)) (PP (TO to) (NP (NNP Reebok))) (PP (IN for) (NP (QP (RB about) ($ $) (CD 42) (CD million))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN agreement)) (ADVP (RB also)) (VP (VBD called) (SBAR (IN for) (S (NP (NNP Reebok)) (VP (TO to) (VP (VB receive) (NP (NP (NNS warrants)) (SBAR (S (VP (TO to) (VP (VB purchase) (NP (NP (CD 400,000) (NNS shares)) (PP (IN of) (NP (CD CML) (NN common)))) (PP (IN at) (NP (NP (NP ($ $) (CD 31.25)) (NP (DT a) (NN share))) (, ,) (ADJP (JJ exercisable) (PP (IN at) (NP (NP (DT any) (NN time)) (PP (IN before) (NP (NNP July) (CD 1)))))) (, ,)))))))))))))))
+
+(S1 (S (NP (NP (DT An) (JJ outside) (NN spokesman)) (PP (IN for) (NP (NNP CML)))) (VP (VP (VBD said) (SBAR (S (NP (DT the) (NNS terms)) (VP (VBD were) (VP (VBN changed) (PP (TO to) (NP (DT a) (JJ minor) (NN extent)))))))) (CC but) (VP (MD would) (RB n't) (VP (VB disclose) (SBAR (WHNP (WP what)) (S (NP (DT those) (NNS changes)) (VP (VBD were))))))) (. .)))
+

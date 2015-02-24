@@ -1,0 +1,14 @@
+(S1 (S (S (NP (NP (NN Farm) (NNS prices)) (PP (IN in) (NP (NNP October)))) (VP (VBD edged) (ADVP (RB up) (NP (CD 0.7) (NN %)) (PP (IN from) (NP (NNP September)))) (SBAR (IN as) (S (NP (JJ raw) (NN milk) (NNS prices)) (VP (VBD continued) (NP (PRP$ their) (NN rise))))))) (, ,) (NP (DT the) (NNP Agriculture) (NNP Department)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (NP (NN Milk)) (VP (VBN sold) (PP (TO to) (NP (NP (DT the) (NN nation) (POS 's)) (NN dairy) (NNS plants) (CC and) (NNS dealers))))) (VP (VBD averaged) (NP ($ $) (CD 14.50)) (PP (IN for) (NP (QP (DT each) (CD hundred)) (NNS pounds))) (, ,) (ADVP (RB up) (NP (CD 50) (NNS cents)) (PP (IN from) (NP (NNP September)))))) (CC and) (S (ADVP (RB up) (NP ($ $) (CD 1.50)) (PP (IN from) (NP (NNP October) (CD 1988)))) (, ,) (NP (DT the) (NN department)) (VP (VBD said))) (. .)))
+
+(S1 (S (S (NP (NP (JJ Commercial) (NNS vegetables)) (, ,) (VP (VBN led) (PP (IN by) (NP (NN lettuce) (CC and) (NNS tomatoes)))) (, ,)) (VP (VBD rose) (NP (CD 19) (NN %)) (PP (IN in) (NP (NNP October))))) (: ;) (S (NP (NP (NNS oranges)) (CC and) (NP (JJ other) (NNS fruits))) (VP (VBD rose) (NP (CD 5) (NN %)))) (. .)))
+
+(S1 (S (NP (NN Broiler) (NNS prices)) (VP (VBD fell) (NP (CD 6.5) (NNS cents)) (PP (IN in) (NP (NNP October))) (PP (TO to) (NP (NP (CD 30.6) (NNS cents)) (NP (DT a) (NN pound)))) (, ,) (SBAR (IN while) (S (NP (NNP turkey) (NNS prices)) (VP (VBD rose) (NP (NP (CD 1.2) (NNS cents)) (NP (DT a) (NN pound))) (PP (TO to) (NP (CD 38.5) (NNS cents))))))) (. .)))
+
+(S1 (S (NP (NN Egg) (NNS prices)) (VP (VBD averaged) (NP (NP (CD 64.2) (NNS cents)) (NP (DT a) (NN dozen))) (, ,) (ADVP (RB down) (NP (CD 0.2) (NN cent)) (PP (IN from) (NP (NNP September))))) (. .)))
+
+(S1 (S (NP (NNS Hogs)) (VP (VBD rose) (NP ($ $) (CD 3.40)) (PP (TO to) (NP (NP ($ $) (CD 46.80)) (NP (DT a) (NN hundredweight)))) (PP (IN in) (NP (NNP October))) (, ,) (SBAR (IN while) (S (S (NP (NN beef) (NNS cattle)) (VP (VBD slipped) (NP (CD 80) (NNS cents)) (PP (TO to) (NP ($ $) (CD 67.40))) (PP (IN for) (NP (QP (DT each) (CD hundred)) (NNS pounds))))) (CC and) (S (NP (NNS calves)) (VP (VBD dropped) (NP (CD 90) (NNS cents)) (PP (TO to) (NP ($ $) (CD 90.20)))))))) (. .)))
+
+(S1 (S (NP (NNS Soybeans)) (VP (VBD averaged) (NP (NP (NP ($ $) (CD 5.28)) (NP (DT a) (NN bushel))) (, ,) (ADVP (RB down) (NP (CD 42) (NNS cents)) (PP (IN from) (NP (NNP September)))))) (: ;) (S (NP (NN corn)) (VP (VBD averaged) (NP ($ $) (CD 2.20)) (, ,) (ADVP (RB down) (NP (CD seven) (NNS cents)))) (, ,) (CC and) (S (NP (NN sorghum) (NN grain)) (VP (VBD averaged) (NP ($ $) (CD 3.61)) (PP (IN for) (NP (QP (DT each) (CD hundred)) (NNS pounds))) (, ,) (ADVP (RB down) (NP (CD 19) (NNS cents))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NN department))))))) (. .)))
+

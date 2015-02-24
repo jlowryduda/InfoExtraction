@@ -1,0 +1,34 @@
+(S1 (S (NP (NNP Mobil) (NNP Corp.)) (VP (VBZ is) (VP (VBG preparing) (S (VP (TO to) (VP (VB slash) (NP (NP (DT the) (NN size)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force)))) (PP (IN in) (NP (DT the) (NNP U.S.))) (PRN (, ,) (ADVP (RB possibly)) (ADVP (ADVP (RB as) (RB soon)) (PP (IN as) (NP (JJ next) (NN month)))) (, ,)) (S (VP (VB say) (NP (NP (NNS individuals)) (ADJP (JJ familiar) (PP (IN with) (NP (NP (DT the) (NN company) (POS 's)) (NN strategy)))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN size)) (PP (IN of) (NP (DT the) (NNS cuts)))) (VP (VBZ is) (RB n't) (ADJP (VBN known)))) (, ,) (CC but) (S (NP (PRP they)) (VP (MD 'll) (VP (VB be) (VP (VBN centered) (PP (IN in) (NP (NP (DT the) (NN exploration) (CC and) (NN production) (NN division)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ responsible) (PP (IN for) (S (VP (VP (VBG locating) (NP (NN oil) (NNS reserves))) (, ,) (VP (VBG drilling) (NP (NNS wells))) (CC and) (VP (VBG pumping) (NP (NP (NN crude) (NN oil)) (CC and) (NP (JJ natural) (NN gas))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Employees)) (VP (VBP have) (RB n't) (ADVP (RB yet)) (VP (VBN been) (VP (VBN notified)))) (. .)))
+
+(S1 (S (NP (NNS Sources)) (VP (VBD said) (SBAR (IN that) (S (NP (NNS meetings) (S (VP (TO to) (VP (VB discuss) (NP (DT the) (NN staff) (NNS reductions)))))) (VP (VBP have) (VP (VBN been) (VP (VBN scheduled) (PP (IN for) (NP (NNP Friday))) (PP (IN at) (NP (NP (NNP Mobil) (NNS offices)) (PP (IN in) (NP (NP (NNP New) (NNP Orleans)) (CC and) (NP (NNP Denver)))))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (MD would) (VP (VB be) (NP (NP (DT a) (JJ second) (NN round)) (PP (IN of) (NP (NP (NNS cuts)) (PP (IN by) (NP (NP (NNP Mobil)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN along) (PP (IN with) (NP (NP (JJ other) (NN oil) (NNS producers)) (CC and) (NP (NNS refiners))))) (VP (VBD reduced) (NP (PRP$ its) (NN work) (NN force)) (PP (IN by) (NP (QP (CD 15) (NN %) (TO to) (CD 20) (NN %)))) (PP (IN during) (NP (DT the) (NNS mid-1980s))) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT an) (JJ industrywide) (NN shakeout))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mobil) (POS 's)) (JJS latest) (NN move)) (VP (MD could) (VP (VB signal) (NP (NP (DT the) (NN beginning)) (PP (IN of) (NP (JJ further) (NNS reductions)))) (PP (IN by) (NP (NP (JJ other) (NN oil) (NNS companies)) (PP (IN in) (NP (PRP$ their) (JJ domestic) (JJ oil-producing) (NNS operations))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN yesterday) (POS 's)) (JJ third-quarter) (NNS earnings) (NN report))) (, ,) (NP (DT the) (NN company)) (VP (VBD alluded) (PP (TO to) (NP (NP (DT a) (ADJP (QP ($ $) (CD 40) (CD million))) (NN provision)) (PP (IN for) (NP (NP (NN restructuring) (NNS costs)) (VP (VBG involving) (NP (NNP U.S.) (NN exploration) (CC and) (NN production) (NNS operations)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN report)) (VP (VBZ says) (SBAR (IN that) (`` `) (S (`` `) (NP (DT the) (NN restructuring)) (VP (VP (MD will) (VP (VB take) (NP (NN place)) (PP (IN over) (NP (DT a) (JJ two-year) (NN period))))) (CC and) (VP (MD will) (RB principally) (VP (VB involve) (NP (NP (DT the) (NN transfer) (CC and) (NN termination)) (PP (IN of) (NP (NP (NNS employees)) (PP (IN in) (NP (PRP$ our) (NNP U.S.) (NNS operations)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT A) (NN company) (NN spokesman)) (, ,) (VP (VBN reached) (PP (IN at) (NP (PRP$ his) (NN home))) (NP (JJ last) (NN night))) (, ,)) (VP (MD would) (ADVP (RB only)) (VP (VB say) (SBAR (IN that) (S (NP (EX there)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (JJ public) (NN announcement)) (PP (IN of) (NP (DT the) (NN reduction) (NN program)))) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN week))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJS Most) (NN oil) (NNS companies)) (, ,) (PP (VBG including) (NP (NNP Mobil))) (, ,)) (VP (VBP have) (VP (VBN been) (VP (VBG reporting) (NP (JJR lower) (JJ third-quarter) (NNS earnings)) (, ,) (PP (ADVP (RB largely)) (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (JJR lower) (NNS earnings)) (PP (IN from) (NP (NP (NNS chemicals)) (CONJP (RB as) (RB well) (IN as)) (NP (NN refining) (CC and) (NN marketing) (NNS businesses))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Individuals)) (ADJP (JJ familiar) (PP (IN with) (NP (NP (NNP Mobil) (POS 's)) (NN strategy))))) (VP (VBP say) (SBAR (IN that) (S (NP (NNP Mobil)) (VP (VBZ is) (VP (VBG reducing) (NP (PRP$ its) (NNP U.S.) (NN work) (NN force)) (PP (IN because) (IN of) (NP (VBG declining) (NNP U.S.) (NN output)))))))) (. .)))
+
+(S1 (S (NP (NN Yesterday)) (, ,) (NP (NNP Mobil)) (VP (VBD said) (SBAR (S (NP (JJ domestic) (NN exploration) (CC and) (NN production) (NNS operations)) (VP (VBD had) (NP (DT a) (ADJP (QP ($ $) (CD 16) (CD million))) (NN loss)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (, ,) (SBAR (IN while) (S (NP (JJ comparable) (JJ foreign) (NNS operations)) (VP (VBD earned) (NP (QP ($ $) (CD 234) (CD million)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Industrywide)) (, ,) (NP (NP (NN oil) (NN production)) (PP (IN in) (NP (DT this) (NN country)))) (VP (VBD fell) (PP (IN by) (NP (NP (CD 500,000) (NNS barrels)) (NP (DT a) (NN day)))) (PP (TO to) (NP (QP (CD 7.7) (CD million)) (NNS barrels))) (PP (IN in) (NP (NP (DT the) (JJ first) (CD eight) (NNS months)) (PP (IN of) (NP (DT this) (NN year)))))) (. .)))
+
+(S1 (S (NP (JJ Daily) (NN output)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB decline) (PP (IN by) (NP (NP (QP (IN at) (JJS least) (DT another) (CD 500,000)) (NNS barrels)) (NP (JJ next) (NN year))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNP Mobil) (NNS executives)) (VP (VBD were) (VP (VBN dismayed) (SBAR (IN that) (S (NP (NP (DT a) (NN reference)) (PP (TO to) (NP (DT the) (NNS cutbacks)))) (VP (VBD was) (VP (VBN included) (PP (IN in) (NP (DT the) (NNS earnings) (NN report))) (SBAR (IN before) (S (NP (NNS workers)) (VP (VBD were) (VP (VBN notified))))))))))) (. .)))
+
+(S1 (S (NP (CD One) (NNP Mobil) (NN executive)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (DT the) (ADJP (QP ($ $) (CD 40) (CD million))) (NN charge)) (VP (VBN related) (PP (TO to) (NP (DT the) (NN action))))) (VP (VBZ indicates) (SBAR (S (NP (NP (`` `) (NP (`` `) (DT a) (JJ substantial) (POS ')) ('' ') (NN number)) (PP (IN of) (NP (NNS people)))) (VP (MD will) (VP (VB be) (VP (VBN involved)))))))))) (. .)))
+
+(S1 (S (NP (DT Some)) (VP (MD will) (ADVP (RB likely)) (VP (VB be) (VP (VBN offered) (NP (NN severance) (NNS packages)) (SBAR (IN while) (S (NP (NNS others)) (VP (MD will) (VP (VB be) (VP (VBN transferred) (PP (TO to) (NP (JJ overseas) (NNS operations))))))))))) (. .)))
+

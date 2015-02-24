@@ -1,0 +1,16 @@
+(S1 (S (NP (NP (NNP Varian) (NNPS Associates) (NNP Inc.)) (, ,) (NP (NP (NNP Palo) (NNP Alto)) (, ,) (NP (NNP Calif.))) (, ,)) (VP (VBD reported) (SBAR (S (NP (JJ fiscal) (JJ fourth-quarter) (NN profit)) (VP (VBD plunged) (NP (QP (JJR more) (IN than) (CD 95)) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 1) (CD million))) (, ,) (CC or) (NP (NP (CD five) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 24.2) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.10)) (NP (DT a) (NN share))) (, ,))) (PP (IN in) (NP (DT the) (JJ year-earlier) (NN quarter))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ diversified) (NNS electronics) (NN company)) (VP (VBD blamed) (NP (NP (DT the) (NN decline)) (PP (IN in) (NP (NP (DT the) (NN quarter)) (VP (VBN ended) (NP (NNP Sept.) (CD 29)))))) (, ,) (PP (IN on) (NP (NP (ADJP (RB previously) (VBN reported)) (VBG operating) (NNS problems)) (PP (IN in) (NP (PRP$ its) (NNP Electron) (NNPS Devices) (CC &) (NNPS Systems) (NNP Group)))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (JJ full) (JJ fiscal) (NN year))) (, ,) (NP (NNP Varian)) (VP (VBD posted) (NP (NP (DT a) (ADJP (CD 13) (NN %)) (NN profit) (NN rise)) (PP (TO to) (NP (NP (QP ($ $) (CD 31.5) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.53)) (NP (DT a) (NN share))) (, ,) (ADVP (RB up) (PP (IN from) (NP (NP (QP ($ $) (CD 27.8) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.27)) (NP (DT a) (NN share))) (, ,)) (NP (JJ last) (NN year)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Sales)) (PP (IN for) (NP (DT the) (NN year)))) (VP (VBD rose) (NP (QP (RB almost) (CD 15)) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 1.34) (CD billion)))) (PP (IN from) (NP (NP (QP ($ $) (CD 1.17) (CD billion))) (NP (JJ last) (NN year))))) (. .)))
+
+(S1 (S (NP (DT A) (NN profit)) (NP (JJ last) (NN year)) (PP (IN in) (NP (PDT both) (NP (DT the) (NN quarter)) (CC and) (NP (NN year)))) (VP (VBD included) (NP (NP (DT a) (JJ net) (NN gain)) (PP (IN of) (NP (NP (QP ($ $) (CD 9.6) (CD million))) (, ,) (CC or) (NP (NP (CD 44) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (DT a) (NN division))))))) (. .)))
+
+(S1 (S (ADVP (RB Additionally)) (, ,) (NP (DT the) (JJ full-year) (NN profit)) (NP (JJ last) (NN year)) (VP (VBD reflected) (NP (NP (DT an) (JJ after-tax) (NN restructuring) (NN charge)) (PP (IN of) (NP (NP (QP ($ $) (CD 22.8) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.04)) (NP (DT a) (NN share))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Shares)) (PP (IN of) (NP (NNP Varian))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (JJ last) (NN month)) (VP (VBD warned) (SBAR (S (NP (EX there)) (VP (MD would) (VP (VB be) (NP (DT a) (JJ fourth-quarter) (NN plunge))))))))) (, ,)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 22.75))) (, ,) (ADVP (RB down) (NP (CD 62.5) (NNS cents))) (PP (IN in) (NP (NP (JJ composite) (NN trading)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD rose) (NP (NP (CD 18) (NN %)) (PP (IN in) (NP (DT the) (JJ fiscal) (JJ fourth) (NN quarter)))) (PP (TO to) (NP (QP ($ $) (CD 364.1) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 307.9) (CD million)))) (PP (IN on) (NP (NP (DT the) (NN strength)) (PP (IN in) (NP (NP (NNS semiconductors)) (CC and) (NP (JJ other) (NNS products))))))) (. .)))
+

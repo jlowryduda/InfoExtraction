@@ -1,0 +1,36 @@
+(S1 (S (NP (NNP LSI) (NNP Logic) (NNP Corp.)) (VP (VBD reported) (NP (DT a) (JJ surprise) (ADJP (QP ($ $) (CD 35.7) (CD million))) (NN third-quarter) (JJ net) (NN loss)) (, ,) (PP (VBG including) (NP (NP (DT a) (JJ special) (NN restructuring) (NN charge)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reflects) (NP (NP (DT a) (VBG continuing) (JJ industry-wide) (NN slowdown)) (PP (IN in) (NP (NN semiconductor) (NN demand)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP September))) (, ,) (NP (DT the) (NN custom-chip) (NN maker)) (VP (VBD said) (SBAR (S (NP (NP (JJ excess) (NN capacity)) (CC and) (NP (VBG lagging) (NNS billings))) (VP (MD would) (VP (VB result) (PP (IN in) (NP (NP (DT an) (ADJP (QP (VBN estimated) ($ $) (CD 2) (CD million) (TO to) ($ $) (CD 3) (CD million))) (JJ net) (NN loss)) (PP (IN for) (NP (DT the) (JJ third) (NN quarter)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NN company) (NNS officials)) (VP (VBD said) (NP (NN yesterday)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD decided) (S (VP (TO to) (VP (VB take) (NP (NP (DT a) (ADJP (QP ($ $) (CD 43) (CD million))) (JJ pretax) (NN charge)) (PP (IN for) (NP (DT the) (NN period)))) (S (VP (TO to) (VP (VB cover) (NP (NP (DT a) (NN restructuring)) (PP (IN of) (NP (JJ world-wide) (NN manufacturing) (NNS operations))))))))))))) (, ,) (S (VP (VBG citing) (NP (NP (NP (VBN extended) (NN weakness)) (PP (IN in) (NP (DT the) (NN market)))) (CONJP (RB as) (RB well) (IN as)) (NP (DT a) (NN decision) (S (VP (TO to) (VP (VB switch) (PP (TO to) (NP (ADJP (RBR more) (JJ economical)) (NN production) (NNS techniques))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (PP (IN Over) (NP (DT the) (NN summer) (NNS months))) (, ,) (NP (EX there)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (NN slowing)) (PP (IN in) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NP (JJ new) (NNS orders)) (PP (IN from) (NP (DT the) (NN computer) (NN sector)))))))) (, ,) (NP (PRP$ our) (JJ primary) (NN market))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Wilfred) (NNP J.) (NNP Corrigan)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (JJ recent) (NN industry) (NNS forecasts)) (PP (IN for) (NP (CD 1990)))) (VP (VBP indicate) (NP (DT a) (JJ slow) (NN environment)) (, ,) (PP (ADVP (IN at) (JJS least)) (IN until) (NP (NN midyear)))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD decided) (S (VP (TO to) (VP (VP (VB phase) (PRT (RP out)) (NP (PRP$ its) (JJS oldest) (NN capacity))) (CC and) (`` `) (VP (`` `) (VB make) (NP (JJ appropriate) (NNS reductions)) ('' ')) ('' ') (PP (IN in) (NP (NN operating) (NNS expenses)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (QP ($ $) (CD 35.7) (CD million))) (JJ net) (NN loss)) (VP (VBZ equals) (NP (NP (CD 86) (NNS cents)) (NP (DT a) (NN share)))) (. .)))
+
+(S1 (S (S (VP (RB Not) (VBG counting) (NP (DT the) (JJ extraordinary) (NN charge)))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB have) (VP (VBD had) (NP (NP (DT a) (JJ net) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 3.1) (CD million))) (, ,) (CC or) (NP (NP (CD seven) (NNS cents)) (NP (DT a) (NN share)))))))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (NN year)) (RBR earlier)) (, ,) (NP (PRP it)) (VP (VBD had) (NP (NP (NN profit)) (PP (IN of) (NP (NP (QP ($ $) (CD 7.5) (CD million))) (, ,) (CC or) (NP (NP (CD 18) (NNS cents)) (NP (DT a) (NN share))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (NP (CD 42) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 133.7) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 94) (CD million))))) (. .)))
+
+(S1 (S (NP (DT The) (NN charge)) (VP (ADVP (RB partly)) (VBZ reflects) (NP (NP (DT a) (NN switch)) (PP (PP (IN from) (NP (JJR older) (JJ five-inch))) (PP (TO to) (NP (NP (JJ more-efficient) (JJ six-inch) (NN silicon) (NNS wafers)) (SBAR (WHPP (IN with) (WHNP (WDT which))) (S (VP (TO to) (VP (VB fabricate) (NP (NNS chips))))))))))) (. .)))
+
+(S1 (S (S (VP (VBN Related) (PP (TO to) (NP (DT that) (NN decision))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG converting) (NP (PRP$ its) (NAC (NNP Santa) (NNP Clara) (, ,) (NNP Calif.) (, ,)) (NN factory)) (PP (TO to) (NP (DT a) (NN research) (CC and) (NN development) (NN facility)))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN spokesman)) (VP (VBD declined) (S (VP (TO to) (VP (VB speculate) (PP (IN about) (NP (NP (JJ possible) (NNS reductions)) (PP (IN in) (NP (NN force))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN invested) (PP (IN in) (NP (NN capacity) (NNS additions))) (ADVP (ADVP (RBR more) (RB aggressively)) (PP (IN than) (NP (DT any) (JJ other) (NN company)))) (PP (IN in) (NP (DT the) (NN industry)))))))))) (CC and) (ADVP (RB now)) (S (NP (DT the) (NN industry)) (VP (VBZ is) (VP (VBG growing) (ADVP (RBR more) (RB slowly))))) (CC and) (S (NP (PRP they)) (VP (VBP are) (ADVP (RB suddenly)) (VP (ADVP (RB poorly)) (VBN positioned))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Michael) (NNP Stark)) (, ,) (NP (NP (NN chip) (NN analyst)) (PP (IN at) (NP (NNP Robertson) (, ,) (NNP Stephens) (CC &) (NNP Co))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT the) (NN stock)) (VP (VBZ is) (NP (NP (JJ dead) (NN money)) (PP (IN for) (NP (DT a) (NN while)))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (NN Yesterday) (POS 's)) (NN announcement)) (VP (VBD was) (VP (VBN made) (SBAR (IN after) (S (NP (NNS markets)) (VP (VBD closed)))))) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NN chip) (NNS makers)) (VP (VBP are) (VP (VBG facing) (NP (NP (VBN continued) (JJ slack) (NN demand)) (VP (VBG following) (NP (DT a) (ADJP (RB traditionally) (JJ slow)) (NN summer)))))) (. .)))
+
+(S1 (S (NP (NP (NN Part)) (PP (IN of) (NP (DT the) (NN problem)))) (VP (VBZ is) (SBAR (IN that) (S (NP (NN chip) (NNS buyers)) (VP (VBP are) (VP (VBG keeping) (NP (NNS inventories)) (PP (ADVP (RB low)) (IN because) (IN of) (NP (NP (NNS jitters)) (PP (IN about) (NP (NP (DT the) (NN course)) (PP (IN of) (NP (DT the) (NNP U.S.) (NN economy)))))))))))) (. .)))
+

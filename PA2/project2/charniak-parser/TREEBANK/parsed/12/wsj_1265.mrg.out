@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP MCA) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ toy-making) (NN unit)) (VP (VBD agreed) (S (VP (TO to) (VP (VB buy) (NP (NN Buddy) (NN L)) (NP (NP (NNP Corp.)) (, ,) (NP (NP (NN producer)) (PP (IN of) (NP (NP (DT a) (NN line)) (PP (IN of) (NP (NP (NN toy) (NNS vehicles)) (CC and) (NP (JJ preschool) (NNS products))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN price)) (VP (VBD was) (RB n't) (VP (VBN disclosed)))) (, ,) (CC but) (S (NP (NP (DT an) (NN executive)) (PP (IN of) (NP (NP (NNP LJN) (NNPS Toys) (NNP Ltd.)) (, ,) (NP (DT the) (NNP MCA) (NN unit)) (, ,)))) (VP (VBD said) (SBAR (S (NP (DT the) (ADJP (RB closely) (VBN held)) (NN Buddy) (NN L)) (VP (VBD had) (NP (NP (JJ annual) (NNS sales)) (PP (IN in) (NP (NP (NN excess)) (PP (IN of) (NP (QP ($ $) (CD 20) (CD million)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ 40-year-old) (NN Buddy) (NN L) (NN concern)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP New) (NNP York)))) (, ,)) (VP (VBZ designs) (CC and) (VBZ develops) (NP (NNS toys)) (PP (IN under) (NP (NP (DT the) (NNS names)) (SBAR (S (NP (`` `) (NP (`` `) (NN Buddy) (NN L) (POS ')) ('' ') (CC and) (`` `) (NP (`` `) (NP (PRP$ My) (JJ First) (NN Buddy)) (, ,) ('' ')) ('' ')) (NP (PRP he)) (VP (VBD said))))))) (. .)))
+
+(S1 (S (NP (NNP MCA)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (NP (DT the) (JJ proposed) (NN transaction)) (VP (TO to) (VP (VB be) (VP (VBN completed) (`` `) (ADVP (`` `) (ADVP (DT no) (RBR later)) (PP (IN than) (NP (NNP Nov.) (CD 10)))))))))))) (. .)))
+

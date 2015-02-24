@@ -1,0 +1,92 @@
+(S1 (S (NP (PRP It)) (VP (VBD was) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ routine) (NN courtesy) (NN call))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN half-dozen) (JJ Soviet) (NN space) (NNS officials)) (, ,) (PP (IN in) (NP (NP (NNP Tokyo)) (PP (IN in) (NP (NNP July))) (PP (IN for) (NP (DT an) (NN exhibit))))) (, ,) (VP (VBD stopped) (PRT (RP by)) (S (VP (TO to) (VP (VB see) (NP (NP (PRP$ their) (NNS counterparts)) (PP (IN at) (NP (NP (DT the) (NNP National) (NNP Space) (NNP Development) (NNP Agency)) (PP (IN of) (NP (NNP Japan)))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN after) (NP (DT a) (JJ few) (NNS pleasantries))) (, ,) (NP (DT the) (NNPS Soviets)) (ADVP (RB unexpectedly)) (VP (VBP got) (ADJP (JJ serious))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNPS Soviets)) (VP (VBP have) (NP (DT a) (JJ world-leading) (NN space) (NN program)))) (, ,) (NP (DT the) (NNS guests)) (VP (VBD noted)) (. .)))
+
+(S1 (SQ (MD Would) (RB n't) (NP (DT the) (NNP Japanese)) (VP (VB like) (NP (NP (DT a) (NN piece)) (PP (IN of) (NP (PRP it))))) (. ?)))
+
+(S1 (S (NP (DT The) (NNS visitors)) (ADVP (RB then)) (VP (VBD listed) (NP (NP (NNS technologies)) (PP (IN up) (PP (IN for) (NP (NN sale)))) (, ,) (PP (VBG including) (NP (NP (NN launch) (NNS services)) (CC and) (NP (NN propulsion) (NN hardware)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBD were) (ADJP (RB just) (JJ surprised))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NN Tad) (NNP Inada)) (, ,) (NP (NP (NP (NNP NASDA) (POS 's)) (NN director)) (PP (IN for) (NP (JJ international) (NNS affairs))))) (. .)))
+
+(S1 (SBARQ (`` `) (`` `) (FRAG (ADJP (JJ Shocked))) (. .) ('' ') ('' ')))
+
+(S1 (S (SBAR (IN That) (S (NP (NNP Moscow)) (, ,) (PP (IN with) (NP (PRP$ its) (JJ dilapidated) (JJ economic) (NN machine))) (, ,) (VP (MD would) (VP (VB try) (S (VP (TO to) (VP (VB sell) (NP (JJ high) (NN technology)) (PP (TO to) (NP (NNP Japan)))))))))) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (JJ high-tech) (NNS leaders)))) (, ,) (VP (VBZ sounds) (PP (IN like) (NP (DT a) (JJ coals-to-Newcastle) (NN notion)))) (. .)))
+
+(S1 (SINV (CC But) (`` `) (S (`` `) (NP (DT the) (NNP Soviet) (NNP Union)) (VP (VBZ has) (NP (NP (NNS areas)) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBZ is) (RB n't) (PP (IN behind) (NP (NNP Japan)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Mikhail) (NNP Shapovalov)) (PP (IN of) (NP (NP (DT the) (NNP Soviet) (NNP Ministry)) (PP (IN of) (NP (NNP Foreign) (NNP Economic) (NNPS Relations)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VB have) (VP (VBN obtained) (PP (IN through) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NP (NNP Cosmos) (PRN (-LRB- -LCB-) (NP (DT the) (NNP Soviet) (NN space) (NN program)) (-RRB- -RCB-)) (NNS technologies)) (SBAR (S (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB see) (NP (RB anywhere) (RB else)))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (DT The) (NNS sales) (NN pitch)) (VP (MD might) (RB n't) (VP (VB be) (ADJP (ADJP (RB as) (JJ farfetched)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ seems))))))) (. .)))
+
+(S1 (S (S (NP (JJ Japan-U.S.) (NN trade) (NNS relations)) (VP (VBP are) (VP (JJ bumpy) (NP (DT these) (NNS days))))) (, ,) (CC and) (S (NP (DT some) (NNPS Japanese)) (VP (VBP favor) (S (VP (VBG decreasing) (NP (NP (PRP$ their) (NN reliance)) (PP (IN on) (NP (NNP U.S.) (NN technology)))) (PP (IN in) (NP (NP (NN light)) (PP (IN of) (NP (NP (DT the) (NNP FSX) (JJ fighter-plane) (NN flap)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP U.S.) (NNS officials)) (VP (VP (VBD reversed) (NP (DT an) (JJR earlier) (NN decision))) (CC and) (VP (VBD refused) (S (VP (TO to) (VP (VB share) (NP (JJ certain) (JJ crucial) (JJ fighter-plane) (NN technology))))))))))))))))) (. .)))
+
+(S1 (S (CC And) (, ,) (PP (IN despite) (NP (NP (PRP$ its) (NN image)) (PP (IN as) (NP (DT a) (NN technology) (NN superpower))))) (, ,) (NP (NNP Japan)) (VP (VBZ has) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS weaknesses))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN world) (NN leader)) (PP (IN in) (NP (NNS semiconductors)))) (PRN (, ,) (CC but) (PP (IN behind) (NP (DT the) (NNP U.S.)))) (PP (IN in) (S (VP (VBG making) (NP (NP (DT the) (NNS computers)) (SBAR (WHNP (WDT that)) (S (VP (VBP use) (NP (DT those) (NNS chips)))))))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN world) (NN leader)) (PP (IN in) (NP (NN auto) (NN manufacturing)))))) (, ,) (CC but) (S (NP (PRP$ its) (NN aviation) (NN industry)) (VP (VBZ is) (VP (VBG struggling)))) (, ,) (CC and) (S (NP (PRP$ its) (NN space) (NN program)) (VP (VBZ is) (NP (NP (NNS years)) (PP (IN behind) (NP (NP (DT the) (NNP U.S.)) (, ,) (NP (DT the) (NNPS Europeans)) (CC and) (NP (DT the) (NNPS Soviets))))))) (. .)))
+
+(S1 (S (NP (NP (CD One) (NN question)) (VP (VBG being) (VP (VBN debated) (PP (IN in) (NP (DT the) (NNP Soviet) (NNP Union)))))) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB use) (NP (NP (NP (DT the) (NN defense) (NN sector) (POS 's)) (JJ research-and-production) (NN expertise)) (PP (IN in) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN economy))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Many) (NNS plants)) (SBAR (WHNP (WDT that)) (S (VP (VBD used) (S (VP (TO to) (VP (VB make) (NP (JJ military) (NN equipment))))))))) (VP (VBP are) (ADVP (RB now)) (VP (VBG being) (VP (VBN ordered) (S (VP (TO to) (VP (VB produce) (NP (NP (NNS televisions)) (, ,) (NP (NN videocassette) (NNS recorders)) (, ,) (NP (JJ small) (NNS tractors)) (CC and) (NP (NN food-processing) (NN machinery))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Soviets)) (ADVP (RB also)) (VP (VBP hope) (S (VP (TO to) (VP (VB make) (NP (NP (JJR better) (NN use)) (PP (IN of) (NP (NP (PRP$ their) (JJ considerable) (NN expertise)) (PP (IN in) (NP (NP (JJ theoretical) (NN science)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN helped) (S (NP (PRP them)) (VP (VB win) (NP (NP (QP (RB twice) (RB as) (JJ many)) (NNP Nobel) (NN science) (NNS prizes)) (PP (IN as) (NP (DT the) (NNPS Japanese))))))))))))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB Where)) (S (NP (PRP they)) (VP (VBP lag) (PP (IN behind) (NP (DT the) (NNPS Japanese)))))) (VP (VBZ is) (PP (IN in) (S (VP (VBG turning) (NP (DT the) (JJ scientific) (NN inventiveness)) (PP (IN into) (NP (VBN improved) (NN production))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NN contrast))) (, ,) (NP (DT the) (NNPS Japanese)) (VP (VBP have) (VP (VBN proved) (ADJP (JJ adept) (PP (IN at) (S (VP (VBG making) (NP (NP (NN use)) (PP (IN of) (NP (NNP Soviet) (NNS inventions)))))))))) (. .)))
+
+(S1 (S (NP (NNP Kobe) (NNP Steel) (NNP Ltd.)) (VP (VP (VBD adopted) (NP (NP (JJ Soviet) (NN casting) (NN technology)) (PP (IN in) (NP (CD 1966))))) (CC and) (VP (VBD used) (NP (PRP it)) (PP (IN for) (NP (CD 14) (NNS years))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBD developed) (NP (PRP$ its) (JJ own) (NN system))))))) (. .)))
+
+(S1 (S (NP (NNP Kawasaki) (NNP Steel) (NNP Corp.)) (VP (VP (VBD bought) (NP (DT a) (JJ Soviet) (JJ steel-casting) (NN patent)) (ADVP (NP (CD two) (NNS years)) (RB ago))) (CC and) (VP (VBZ has) (ADVP (RB jointly)) (VP (VBN developed) (NP (NP (DT the) (NN system)) (PP (IN with) (NP (DT the) (NNPS Soviets))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1991))) (, ,) (NP (DT the) (NNPS Soviets)) (VP (MD will) (VP (VB take) (NP (NP (DT a) (JJ Japanese) (NN journalist)) (PP (IN into) (NP (NN space)))) (, ,) (S (NP (DT the) (JJ first) (NNPS Japanese)) (VP (TO to) (VP (VB go) (PP (IN into) (NP (NN orbit)))))))) (. .)))
+
+(S1 (S (NP (JJ Soviet) (NNS efforts) (S (VP (TO to) (VP (VB sell) (NP (PRP$ their) (NN technology)) (ADVP (RB abroad)))))) (VP (VBP do) (RB n't) (VP (VB appear) (S (VP (TO to) (VP (VB worry) (NP (NP (DT the) (NNP U.S.)) (, ,) (NP (NP (NNP Japan) (POS 's)) (JJ principal) (NN ally)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP have) (ADVP (RB never)) (VP (VBN opposed) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (NP (JJ economic) (NNS relations)) (PP (IN between) (NP (NP (PRP$ our) (NNS allies)) (CC and) (NP (DT the) (NNP Soviet) (NNP Union))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (DT a) (NNP State) (NNP Department) (NN official)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (ADVP (RB Frankly)) (, ,) (NP (PRP I)) (VP (MD would) (RB n't) (VP (VB expect) (S (NP (DT the) (NNPS Japanese)) (VP (TO to) (VP (VB get) (ADJP (JJ hooked) (PP (IN on) (NP (NP (NP (NN anybody) (POS 's)) (NN technology)) (, ,) (NP (NP (JJS least)) (PP (IN of) (NP (PDT all) (DT the) (NNPS Soviets)))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN Under) (NP (NP (NNP Mikhail) (NNP Gorbachev) (POS 's)) (FW perestroika))) (, ,) (NP (DT the) (NNPS Soviets)) (VP (VBP have) (VP (VBN sought) (NP (NP (JJ economic) (NNS ties)) (PP (ADVP (DT all)) (IN over) (NP (DT the) (NN world))) (, ,) (PP (VBG including) (NP (JJ new) (NN export) (NNS markets)))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP believe) (SBAR (S (S (NP (NN technology)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ their) (JJS best) (NNS bets)))))) (, ,) (CC and) (S (NP (DT some) (JJ Soviet) (NNS officials)) (VP (VBP say) (SBAR (S (NP (NNP Moscow)) (VP (MD will) (ADVP (RB even)) (VP (VB consider) (S (VP (VBG declassifying) (NP (JJ military) (NN know-how)))) (SBAR (IN if) (S (NP (DT the) (NN price)) (VP (VBZ is) (ADJP (JJ right)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Soviets)) (VP (VBD held) (NP (NP (NN export) (NNS exhibitions)) (SBAR (WHNP (WDT that)) (S (VP (VBD included) (NP (NP (JJ high-tech) (NNS items)) (PP (IN in) (NP (NP (NNP New) (NNP York)) (CC and) (NP (NNP West) (NNP Germany)))))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN week)) (, ,) (NP (DT a) (NNP Soviet) (NN delegation)) (VP (VBD came) (PP (TO to) (NP (NNP Japan))) (S (VP (TO to) (VP (VB push) (NP (JJR more) (NN space) (NNS technologies)))))) (. .)))
+
+(S1 (S (NP (NNP Japan)) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN target)) (PP (IN for) (NP (DT the) (NNPS Soviets))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP August))) (, ,) (NP (NP (NNS representatives)) (PP (IN of) (NP (NP (NNP Keidanren)) (, ,) (NP (NP (NNP Japan) (POS 's)) (JJS largest) (NN business) (NN organization)) (, ,)))) (VP (VBD visited) (NP (NNP Moscow)) (S (VP (TO to) (VP (VB explore) (NP (NP (NNS exports) (CC and) (NNS investments)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB help) (NP (DT the) (JJ Soviet) (NN economy))))))))))) (. .)))
+
+(S1 (S (PP (IN Out) (PP (IN of) (NP (DT the) (NN blue)))) (, ,) (NP (NP (DT the) (NNP Soviet) (NNP Chamber)) (PP (IN of) (NP (NNP Commerce)))) (VP (VBD handed) (PRT (RP over)) (NP (NP (NNS details)) (PP (IN on) (NP (CD 59) (NNS technologies)))) (SBAR (IN that) (S (NP (DT the) (NNPS Japanese)) (VP (MD might) (VP (VB want) (S (VP (TO to) (VP (VB buy))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT These) (ADJP (RB mainly) (VBN involved)) (JJ such) (NNS areas)) (PP (IN as) (NP (NNS materials)))) (: --) (NP (NP (VBN advanced) (VBG soldering) (NNS machines)) (, ,) (PP (IN for) (NP (NN example)))) (: --) (CC and) (NP (JJ medical) (NNS developments))) (VP (VBN derived) (PP (IN from) (NP (NP (NN experimentation)) (PP (IN in) (NP (NN space))) (, ,) (PP (JJ such) (IN as) (NP (JJ artificial) (NN blood) (NNS vessels)))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ main) (NN motive)) (VP (VBZ is) (NP (JJ hard) (NN cash))) (. .)))
+
+(S1 (S (CC But) (, ,) (SBAR (IN while) (S (NP (DT the) (NNPS Soviets)) (VP (MD ca) (RB n't) (VP (VB expect) (NP (NP (JJ direct) (NN technology) (NN flow)) (PP (IN from) (NP (NNP Japan)))))))) (, ,) (NP (PRP they)) (ADVP (RB also)) (VP (VBP hope) (S (VP (TO to) (VP (VB benefit) (PP (IN from) (NP (JJ Japanese) (NN manufacturing) (NN expertise))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (DT The) (NNP Soviet) (NNP Union)) (VP (VBZ has) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN know-how)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (ADJP (JJ difficult) (S (VP (TO to) (VP (VB put) (NP (DT that)) (PP (IN into) (NP (JJ actual) (NN production))))))) (PP (IN because) (IN of) (NP (NP (JJ various) (JJ structural) (NNS problems)) (PP (IN in) (NP (DT the) (NN economy)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Mr.) (NNP Shapovalov)) (, ,) (NP (DT the) (NNP Foreign) (NNP Ministry) (NN official))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Soviets)) (VP (VBP are) (`` `) (S (`` `) (VP (VBG contemplating) (NP (NP (DT a) (JJ flexible) (NN system)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (JJ possible) (S (VP (VP (TO to) (VP (VB develop) (-LRB- -LCB-) (NP (NN technology)) (-RRB- -RCB-) (ADVP (RB jointly)))) (CC and) (ADVP (RB even)) (VP (TO to) (VP (VB market) (NP (PRP it)) (ADVP (RB jointly))))))))))))) (, ,) ('' ')) ('' ') (SBAR (S (NP (PRP he)) (VP (VBZ says))))) (. .)))
+
+(S1 (S (SBAR (RB Even) (IN if) (S (NP (DT the) (NNPS Japanese)) (VP (VBP find) (S (NP (NNP Soviet) (NN technology)) (ADJP (JJ desirable)))))) (, ,) (NP (JJ such) (NNS discussions)) (VP (MD would) (VP (VB be) (ADJP (JJ fraught) (PP (IN with) (NP (JJ political) (NNS complications)))))) (. .)))
+
+(S1 (S (S (VP (ADVP (RB Still)) (JJ stinging) (PP (PP (IN from) (NP (NP (DT the) (JJ international) (NN backlash)) (PP (IN over) (NP (NP (DT the) (NN sale)) (PP (ADVP (NP (CD two) (NNS years)) (RB ago)) (IN of) (NP (JJ sensitive) (JJ military) (NN technology))))))) (PP (TO to) (NP (DT the) (NNPS Soviets)))) (PP (IN by) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NP (NNP Japan) (POS 's)) (NNP Toshiba) (NNP Corp.))))))) (, ,) (NP (JJ many) (NNPS Japanese)) (VP (VBP are) (ADJP (JJ eager) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG appearing) (S (VP (TO to) (VP (VB help) (NP (DT the) (NNPS Soviets)) (PP (IN in) (NP (DT any) (NN way))))))))))))) (. .)))
+
+(S1 (S (NP (DT Another) (NN hurdle)) (VP (VBZ concerns) (NP (NP (NNP Japan) (POS 's)) (NNS attempts) (S (VP (TO to) (VP (VB persuade) (NP (DT the) (NNP Soviet) (NNP Union)) (S (VP (TO to) (VP (VB relinquish) (NP (NP (PRP$ its) (ADJP (JJ post-World) (NP (NNP War) (NNP II))) (NN control)) (PP (IN of) (NP (NP (CD four) (NNS islands)) (ADVP (RB north) (PP (IN of) (NP (NNP Japan))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB So) (RB far)) (, ,) (NP (DT the) (NNPS Soviets)) (VP (VBP have) (VP (VBN provided) (NP (NP (RB only) (DT the) (JJS sketchiest) (NN information)) (PP (IN about) (NP (PRP$ their) (NN technology) (CC and) (NN business) (NNS plans)))))) (. .)))
+
+(S1 (S (CC And) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP have) (VP (VBN shown))))) (VP (VBZ is) (RB n't) (ADJP (JJ impressive))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP$ My) (NN impression)) (VP (VBZ is) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (RB n't) (NP (NP (NN anything)) (SBAR (WHNP (WDT which)) (S (VP (VBZ arouses) (NP (PRP$ our) (NN interest)) (PP (IN at) (NP (JJ first) (NN glance))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (DT an) (NN official)) (PP (IN from) (NP (NP (NP (NNP Japan) (POS 's)) (NNP Ministry)) (PP (IN of) (NP (NNP International) (NNP Trade) (CC and) (NNP Industry)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Peter) (NNP Gumbel)) (PP (IN in) (NP (NNP Moscow)))) (VP (VBD contributed) (PP (TO to) (NP (DT this) (NN article)))) (. .)))
+

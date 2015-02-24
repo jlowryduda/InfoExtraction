@@ -1,0 +1,4 @@
+(S1 (S (NP (NNP CNW) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ final) (NN step)) (PP (IN in) (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (DT the) (NN company)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN completed) (PP (IN with) (NP (NP (DT the) (NN merger)) (PP (IN of) (NP (NNP CNW))) (PP (IN with) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NP (NNP Chicago)) (CC &) (NP (NNP North) (NNP Western) (NNPS Holdings) (NNP Corp)))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (VP (VBN reported)))) (, ,) (NP (NNP CNW)) (VP (VBD agreed) (S (VP (TO to) (VP (VB be) (VP (VBN acquired) (PP (IN by) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS investors))) (VP (VBN led) (PP (IN by) (NP (NNP Blackstone) (NNP Capital) (NNP Partners) (NNP Limited) (NNP Partnership)))))) (PP (IN for) (NP (NP (NP ($ $) (CD 50)) (NP (DT a) (NN share))) (, ,) (CC or) (NP (QP (RB about) ($ $) (CD 950) (CD million)))))))))) (. .)))
+

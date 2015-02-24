@@ -1,0 +1,124 @@
+(S1 (S (NP (DT The) (NN scene)) (VP (VBZ opens) (SBAR (IN with) (S (NP (NP (JJ pinstripe-suited) (NNS executives)) (: --) (NP (NP (NNP Easterners)) (, ,) (ADVP (RB obviously))) (: --)) (VP (VP (VBN glued) (PP (TO to) (NP (JJ cellular) (NNS phones)))) (CC and) (VP (VBG hightailing) (NP (PRP it)) (PP (IN out) (PP (IN of) (NP (NP (NN town)) (PP (IN in) (NP (JJ chauffeur-driven) (NNS limousines))))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (NP (DT The) (NNS carpetbaggers)) (PRN (, ,) ('' ') ('' ') (S (VP (VBZ snorts) (NP (NP (DT the) (NN narrator)) (PP (IN with) (NP (DT a) (NNP Texas) (NN twang)))))) (, ,) (`` `)) (`` `) (VP (VB have) (VP (VP (VBN packed) (NP (PRP$ their) (NNS bags))) (CC and) (VP (VBD went)))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ continues))) (, ,) (`` `)) (`` `) (NP (PRP They)) (VP (VBP 're) (VP (VBG forgetting) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (DT all) (NNPS Texans))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Lone) (NNP Star)) (VP (VBZ is) (PP (IN on) (NP (DT the) (NN rise))) (ADVP (RB again))) (. .) ('' ') ('' ')))
+
+(S1 (S (SBAR (IN As) (S (NP (DT the) (NN music)) (VP (VBZ swells)))) (, ,) (NP (NNS viewers)) (VP (VBP discover) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG watching) (NP (NP (DT a) (NN commercial)) (PP (IN for) (NP (NP (NNP Lone) (NNP Star) (NNP Beer)) (, ,) (NP (NP (DT the) (NN pride)) (PP (IN of) (NP (NP (NNP Texas)) (, ,) (NP (NP (DT a) (NN product)) (PP (IN of) (NP (NP (NNP G.) (NNP Heileman) (NNP Brewing) (NNP Co.)) (, ,) (NP (NP (DT a) (NAC (NNP La) (NNP Crosse) (, ,) (NNP Wis.) (, ,)) (NN unit)) (PP (IN of) (NP (NNP Bond) (NNP Corp)))))))))))))))))) (. .)))
+
+(S1 (S (S (SBAR (IN As) (S (NP (NP (DT the) (NN ad) (POS 's)) (NN tone)) (VP (VBZ implies)))) (, ,) (NP (DT the) (NNP Texas) (NN spirit)) (VP (VBZ is) (ADJP (RB pretty) (JJ xenophobic)) (NP (DT these) (NNS days)))) (, ,) (CC and) (S (NP (NNP Lone) (NNP Star)) (VP (VBZ is) (RB n't) (ADJP (RB alone) (PP (IN in) (S (VP (VBG trying) (S (VP (TO to) (VP (VB take) (NP (NN advantage)) (PP (IN of) (NP (DT that)))))))))))) (. .)))
+
+(S1 (S (PP (PP (IN From) (NP (NNP Chevy) (NNS trucks))) (PP (TO to) (NP (NP (NNP Lipton) (JJ iced) (NN tea)) (PP (TO to) (NP (NP (DT a) (NN host)) (PP (IN of) (NP (VBG battling) (NNS banks)))))))) (, ,) (NP (DT the) (NN state)) (VP (VBZ has) (VP (VBN been) (VP (VBN inundated) (PP (IN with) (NP (NP (NP (NN broadcast) (NNS commercials)) (CC and) (NP (NN print) (NN advertising) (NNS campaigns))) (VP (VP (VBG celebrating) (NP (NNPS Texans))) (CC and) (VP (VBG castigating) (NP (NNS outsiders))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NNS advertisers)) (VP (VBP have) (ADVP (RB long)) (VP (VBN appealed) (PP (TO to) (NP (NP (NP (NNPS Texans) (POS ')) (NN state) (NN pride)) (CC and) (NP (NNS prejudices)))))))) (, ,) (NP (DT the) (JJS latest) (NN trend)) (VP (VBZ has) (VP (VBN been) (VP (VBN sparked) (, ,) (PP (IN in) (NP (NN part))) (, ,) (PP (IN by) (NP (NP (DT the) (NN state) (POS 's)) (JJ recent) (JJ hard) (JJ economic) (NNS times)))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ has) (VP (VBN taken) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN swagger)))) (PP (IN out) (PP (IN of) (NP (NP (NNS natives)) (SBAR (WHNP (WP who)) (S (VP (VBP like) (S (VP (TO to) (VP (VB brag) (SBAR (IN that) (S (S (NP (NNP Texas)) (VP (VBZ is) (NP (NP (DT the) (JJ only) (NN state)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB once)) (NP (DT a) (NN nation)))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN increased) (NP (NP (PRP$ their) (JJ legendary) (NN resentment)) (PP (IN of) (NP (NNS outsiders)))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN past))) (PRN (, ,) (SINV (VP (VBZ writes)) (NP (NNP Houston) (NNP Chronicle) (NN columnist) (NNP Jim) (NNP Barlow))) (, ,)) (S (NP (NNS outlanders)) (VP (VBD were) (VP (VBN accepted) (PP (ADVP (RB only)) (IN after) (S (VP (VBG passing) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS tests)))) (S (VP (TO to) (VP (VB prove) (SBAR (S (NP (PRP they)) (VP (VBD had) (NP (NP (DT the) (`` `) (NX (`` `) (NX (NN right)) ('' ')) (POS ')) (NNP Texas) (NNS attitudes)))))))))))))) (CC and) (`` `) (S (`` `) (PP (IN of) (NP (NN course))) (NP (PRP they)) (VP (VBD had) (S (VP (TO to) (VP (VB be) (VP (VBD dipped) (PP (IN for) (NP (NNS parasites)))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (DT no) (JJ small) (NN irony)) (PP (IN in) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (NP (DT some)) (PP (IN of) (NP (DT the) (JJ most-jingoistic) (NN advertising)))) (VP (VBZ comes) (NP (NP (NN courtesy)) (PP (IN of) (NP (PRN (: --) (S (NP (PRP you)) (VP (VBD guessed) (NP (PRP it)))) (: --)) (NNS outsiders)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Lone) (NNP Star) (POS 's)) (NNP Bond) (NNP Corp.) (NN parent)) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBZ hails) (PP (IN from) (NP (NP (NNP Perth)) (, ,) (NP (NNP Australia))))) (. .)))
+
+(S1 (S (NP (NP (NNP North) (NNPS Carolinians)) (, ,) (NP (NNP New) (NNPS Yorkers) (, ,) (NNPS Californians) (, ,) (NNPS Chicagoans) (CC and) (NNPS Ohioans))) (VP (VBP own) (NP (NNP Texas) (NNS banks))) (. .)))
+
+(S1 (S (NP (NP (DT All) (NNS kinds)) (PP (IN of) (NP (JJ landmark) (NNP Texas) (JJ real) (NN estate)))) (VP (VBZ has) (VP (VBN been) (VP (VBN snapped) (PRT (RP up)) (PP (IN by) (NP (NNS out-of-staters)))))) (. .)))
+
+(S1 (S (NP (RB Even) (DT the) (JJ beloved) (NNP Dallas) (NNPS Cowboys)) (VP (VBD were) (VP (VBN bought) (PP (IN by) (NP (DT an) (NNP Arkansas) (NN oil) (NN man))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP Texas)) (VP (VBZ has) (VP (VBN lost) (NP (PRP$ its) (NN distinctiveness)) (, ,) (S (VP (VBG leaving) (NP (NNPS Texans)) (PP (IN with) (NP (DT a) (NN hunger) (S (VP (TO to) (VP (VB feel) (ADJP (JJ proud) (PP (IN about) (NP (PRP themselves))))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Stephen) (NNP Klineberg)) (, ,) (NP (NP (DT a) (NN sociology) (NN professor)) (PP (IN at) (NP (NP (NNP Rice) (NNP University)) (, ,) (NP (NNP Houston)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT This)) (VP (VBZ plays) (ADVP (RB right)) (PP (IN into) (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (DT the) (NN advertising) (NNS agencies)))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (DT the) (JJ iced-tea) (NN radio) (NN campaign)) (PP (IN for) (NP (NP (NNP Thomas) (NNP J.) (NNP Lipton) (NNP Co.)) (, ,) (NP (NP (DT an) (NAC (NNP Englewood) (NNPS Cliffs) (, ,) (NNP N.J.) (, ,)) (NN unit)) (PP (IN of) (NP (NNP Anglo-Dutch) (NNP Unilever) (NNP Group)))) (, ,)))) (ADVP (RB emphatically)) (VP (VBZ proclaims) (: :) (`` `) (S (`` `) (NP (JJ Real) (NNPS Texans)) (VP (VBP do) (RB not) (VP (VB wear) (NP (NP (NNS dock-siders)) (: --) (ADVP (RB ever))))))) (. .)))
+
+(S1 (S (S (NP (JJ Real) (NNPS Texans)) (VP (VBP do) (RB n't) (VP (VB play) (NP (NN paddleball))))) (, ,) (ADVP (IN at) (JJS least)) (NP (PRP I)) (VP (VBP hope) (RB not)) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NN football) (NN country))) (. .)))
+
+(S1 (S (FRAG (CC And) (NP (DT another) (NN thing))) (: --) (S (NP (JJ real) (NNPS Texans)) (VP (VB drink) (NP (NNP Lipton) (JJ iced) (NN tea)))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (PP (IN In) (S (VP (VBG developing) (NP (NP (DT that) (NN theme)) (PP (IN at) (NP (NP (NNP Interpublic) (NNP Group)) (PP (IN of) (NP (NNP Cos)))))))) (. .) ('' ')) (NP (NNP Lintas)) (: :) (NP (NP (NNP New) (NNP York) (NN unit)) (, ,) (NP (NP (NN account) (NN supervisor)) (SBAR (S (NP (NNP Lisa) (NNP Buksbaum)) (VP (VBZ says) (SBAR (S (NP (PRP she)) (VP (VP (VBD made) (NP (DT a) (`` `) (NP (`` `) (NP (NN couple)) (PP (IN of) (NP (NN phone) (NNS calls))) ('' ')) ('' ') (PP (TO to) (NP (NNP Dallas) (NN ad) (NNS friends))))) (CC and) (VP (VBD reported) (NP (PRP$ her) (`` `) (NX (`` `) (NNS findings) ('' ')) ('' ')) (PP (TO to) (NP (NP (DT a) (NN team)) (PP (IN of) (NP (NNS writers)))))))))))))) (. .)))
+
+(S1 (FRAG (NP (PRP$ Her) (NNS findings)) (. ?)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP You)) (VP (VBP know)) (, ,) ('' ')) ('' ') (NP (PRP she)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (NP (JJ stereotypical) (NN stuff)) (VP (VBP like) (NP (NNS armadillos) (, ,) (NNS cowboys) (CC and) (NN football))))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (ADVP (RB Not) (RB exactly)) (NP (JJ sophisticated) (NN market) (NN research)) (, ,) (CC but) (SBAR (WHNP (WP who)) (S (VP (VBZ cares) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (DT the) (NNS campaigns)) (VP (VBP work)))))))) (. .)))
+
+(S1 (S (CC And) (NP (NN ad) (NNS agencies)) (VP (VBP insist) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP do))))) (. .)))
+
+(S1 (S (NP (NP (NNP Stan) (NNP Richards)) (PP (IN of) (NP (NP (NNP Richards) (NNP Group) (NNP Inc.)) (, ,) (NP (NNP Dallas)) (, ,)))) (VP (VBZ tells) (PP (IN of) (NP (NP (DT the) (NNP Texan)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD saw) (NP (NP (NP (DT the) (NN agency) (POS 's)) (JJ tear-jerking) (NN commercial)) (PP (IN for) (NP (NP (NNP First) (NNP Gibraltar) (NNP Bank) (NNP F.S.B.)) (PRN (: --) (ADJP (JJ complete) (PP (IN with) (NP (NP (DT the) (NN state) (POS 's)) (NNP anthem)))) (: --)))))) (CC and) (VP (ADVP (RB promptly)) (VBD invested) (NP ($ $) (CD 100,000)) (PP (IN in) (NP (NP (DT the) (NN thrift) (POS 's)) (NNS CDs)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Never)) (VP (VB mind) (SBAR (IN that) (S (NP (NNP First) (NNP Gibraltar)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (VBN failed) (NNP Texas) (NNS thrifts))) (VP (VBN taken) (PRT (RP over)) (PP (IN by) (NP (NNS outsiders))) (: --) (PP (IN in) (NP (DT this) (NN case))))) (, ,) (NP (NP (DT an) (NN investor) (NN group)) (VP (VBN headed) (PP (IN by) (NP (NNP New) (NNP York) (NN financier) (NNP Ronald) (NNP Perelman)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP North) (NNP Texas) (NNP Chevy) (NNP Dealers)) (ADVP (RB recently)) (VP (VBD had) (NP (NP (DT a) (NN record) (NNS sales) (NN month)) (PP (IN after) (NP (NP (DT the) (NN debut)) (PP (IN of) (NP (NP (NN ad) (NN campaign)) (SBAR (WHNP (IN that)) (S (VP (NNS thumbs) (NP (PRP$ its) (NN nose)) (PP (IN at) (NP (JJ elite) (NNPS Easterners)))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (NNS deposits)) (PP (IN at) (NP (NP (NNP NCNB) (NNP Texas) (NNP National) (NNP Bank)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP NCNB) (NNP Corp.)) (, ,) (NP (NP (NNP Charlotte)) (, ,) (NP (NNP N.C.)))))) (, ,)))) (VP (VBP have) (VP (VBN increased) (NP (QP ($ $) (CD 2) (CD billion))) (PP (IN since) (NP (JJ last) (NN year))) (PP (IN after) (NP (NP (JJ heavy) (NN advertising) (VBG stressing) (NN commitment)) (PP (TO to) (NP (NNP Texas))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (ADVP (RB Obviously)) (, ,) (NP (NN pride)) (VP (VBZ sells) (PP (IN in) (NP (NNP Texas)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (DT a) (NN spokeswoman)) (PP (IN for) (NP (NP (NNP Bozell) (NNP Inc.)) (, ,) (NP (NP (NNP Omaha)) (, ,) (NP (NNP Neb.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ represents))))))))))
+
+(S1 (S (NP (DT The) (NN ad) (NNS campaigns)) (ADVP (RB usually)) (VP (VBP follow) (NP (NP (CD one)) (PP (IN of) (NP (CD three) (NNS tracks)))) (: --) (S (VP (VBG stressing) (NP (NP (NP (DT the) (NN company) (POS 's)) (`` `) (NX (NNP Texasness)) (, ,) ('' ')) (VP (VP (VBG pointing) (PRT (RP out)) (NP (NP (NP (DT the) (NN competition) (POS 's)) (NN lack)) (ADVP (RB thereof)))) (, ,) (CC or) (VP (VBG trying) (S (VP (TO to) (VP (VB be) (NP (NP (JJR more) (NN Texan)) (PP (IN than) (NP (NNPS Texans))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Ford) (NNS trucks)) (VP (MD may) (VP (VB outsell) (NP (NNP Chevy) (NNS trucks)) (PP (IN in) (NP (NP (NNS places)) (PP (IN like) (NP (`` `) (NP (`` `) (NP (NP (NNP Connecticut)) (CC and) (NP (NNP Long) (NNP Island))) (, ,) ('' ')) ('' ') (VP (VBZ sniffs) (NP (NP (DT a) (NN commercial)) (PP (IN for) (NP (NP (NNP Chevrolet)) (, ,) (NP (NP (DT a) (NN division)) (PP (IN of) (NP (NNP General) (NNPS Motors) (NNP Corp)))))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN commercial)) (, ,) (VP (VBN created) (PP (IN by) (NP (NP (NNP Bateman) (, ,) (NNP Bryan) (CC &) (NNP Galles) (NNP Inc.)) (, ,) (PP (IN of) (NP (NNP Dallas)))))) (, ,)) (VP (VBZ adds) (ADVP (RB derisively)))) (: :) (`` `) (S (`` `) (NP (PRP I)) (VP (VBP bet) (SBAR (S (NP (PRP it)) (VP (VBZ takes) (NP (DT a) (JJ real) (JJ tough) (NN truck)) (S (VP (TO to) (VP (VB haul) (NP (PRP$ your) (NNP Ivy) (NNP League) (VBZ buddies)) (PP (TO to) (NP (DT the) (NN yacht) (NN club))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (SBAR (IN Because) (S (NP (PRP they)) (VP (VBP want) (NP (NP (DT a) (NN truck)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (`` `) (NP (`` `) (NP (NP (NNP Texas)) (JJ tough)) (, ,) ('' ')) ('' ') (SBAR (S (NP (DT the) (NN commercial)) (VP (VBZ concludes) (, ,) (`` `) (S (`` `) (NP (NNPS Texans)) (VP (VBP drive) (NP (NNP Chevy))) (. .) ('' ')) ('' '))))))))))))))
+
+(S1 (S (NP (NP (NNP J.C.) (NNP Penney) (NNP Co.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBN relocated) (PP (PP (IN from) (NP (NNP New) (NNP York))) (PP (TO to) (NP (NP (JJ suburban) (NNP Dallas)) (ADVP (NP (CD two) (NNS years)) (RB ago)))))))) (, ,)) (ADVP (RB gently)) (VP (VBZ wraps) (NP (PRP itself)) (PP (IN in) (NP (NP (NNP Texas) (NN pride)) (PP (IN through) (NP (DT a) (JJ full-page) (NN magazine) (NN ad))))) (: :) (`` `) (S (`` `) (S (S (VP (VBG Taking) (S (NP (DT the) (JJ long-range) (NN view)) (VP (TO to) (VP (VB conserve) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (PP (IN of) (NP (NN value))) (PP (TO to) (NP (JJ future) (NNS generations))))))))))) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NNP Lone) (NNP Star) (NN lifestyle)))))) (, ,) ('' ') ('' ') (NP (DT the) (NN ad)) (VP (VBZ reads)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (NP (NN part)) (PP (IN of) (NP (PRP$ our) (NN style)))) (, ,) (ADVP (RB too))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (JJ several) (NN ad-agency) (NNS sources)))) (, ,) (NP (NP (NNS newcomers)) (PP (TO to) (NP (DT the) (NNP Texas) (NN banking) (NN market)))) (VP (VBP are) (VP (VBG spending) (NP (DT a) (VBN combined) (QP ($ $) (CD 50) (CD million))) (S (NP (DT this) (NN year)) (VP (TO to) (VP (VB woo) (NP (NNPS Texans))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (VBG surviving) (NNP Texas) (NN banking) (NNS institutions)) (VP (VBP are) (VP (ADVP (RB busily)) (VBG pitching) (NP (PRP themselves)) (PP (IN as) (NP (NP (DT the) (JJ only) (NNS lenders)) (SBAR (WHNP (WP who)) (S (ADVP (RB truly)) (VP (VBP care) (PP (IN about) (NP (DT the) (NN state)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ most-strident) (JJ anti-outsider) (NN sentiment)) (PP (IN among) (NP (NNS bankers)))) (VP (VBZ comes) (PP (IN from) (NP (NP (DT the) (NNP Independent) (NNPS Bankers) (NNP Association)) (PP (IN of) (NP (NNP Texas))))) (, ,) (SBAR (IN although) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard)) (S (VP (TO to) (VP (VB tell) (PP (IN from) (NP (NP (NNS previews)) (PP (IN of) (NP (NP (DT the) (ADJP (QP ($ $) (CD 5) (CD million))) (`` `) (`` `) (NP (DT The) (NN I) (POS 's)) (PP (IN of) (NP (NNP Texas) (POS '))) (POS ')) (NN TV) (NN campaign)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Commercials)) (VP (MD will) (VP (VB highlight) (NP (NP (NP (JJ heart-rending) (NNS scenes)) (PP (IN of) (NP (NNP Texas)))) (CC and) (NP (JJ chest-swelling) (, ,) (JJ ain't-it-great-to-be-a-Texan) (NN music))))) (. .)))
+
+(S1 (S (NP (VBG Supporting) (NNS banks)) (VP (MD will) (VP (VB sign) (NP (NP (DT a) (`` `) (NX (`` `) (NNP Texas) (NN Declaration))) (PP (IN of) (NP (NNS Independents)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (PP (IN in) (NP (NP (JJ introductory) (NN material)) (PP (IN for) (NP (DT the) (NN campaign))))) (, ,) (NP (DT the) (NN trade) (NN group)) (VP (VBZ urges) (NP (NP (NNS members)) (PP (TO to) (NP (`` `) (NP (`` `) (NN arm) ('' ')) ('' ') (PP (IN for) (NP (NP (DT a) (`` `) (NX (`` `) (NP (NN revolution) ('' '))) ('' ')) (PP (IN against) (NP (JJ big) (, ,) (JJ out-of-state) (JJ bank-holding) (NNS companies))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN video)) (VP (VBN sent) (PP (TO to) (NP (NN association) (NNS members)))) (, ,) (VP (VBG featuring) (NP (NP (NP (NNS shots)) (PP (IN of) (NP (DT the) (NNP Alamo)))) (, ,) (NP (NNS cowboys)) (, ,) (NP (NNS fajitas)) (CC and) (NP (NP (DT a) (NN statue)) (PP (IN of) (NP (NNP Sam) (NNP Houston)))))) (, ,)) (VP (VBZ does) (RB n't) (VP (VB mince) (NP (NNS words)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNPS Texans)) (VP (MD can) (VP (VB sniff) (NP (DT a) (JJ phony)) (ADVP (NP (DT a) (NN mile)) (RB away)))) (, ,) ('' ')) ('' ') (NP (DT the) (NN narrator)) (VP (VBZ warns) (NP (NNS outsiders))) (. .)))
+
+(S1 (SBARQ (`` `) (`` `) (RB So) (, ,) (SQ (VBP do) (RB n't) (VP (VP (VB come)) (CC and) (VP (VB try) (S (VP (TO to) (VP (NN con) (NP (PRP us)) (PP (IN with) (NP (NP (DT a) (NN howdy)) (VP (VBG y') (NP (NP (DT all)) (CC or) (NP (DT a) (NN cowboy) (NN hat)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (NP (NP (NNP Young) (CC &) (NNP Rubicam) (POS 's)) (NNP Pact)))
+
+(S1 (S (NP (NNP Young) (CC &) (NNP Rubicam)) (, ,) (S (VP (VBG fighting) (NP (NNS charges) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD bribed) (NP (JJ Jamaican) (NNS officials)) (S (VP (TO to) (VP (VB win) (NP (DT the) (NNP Jamaica) (NNP Tourist) (NNP Board) (NN ad) (NN account))))) (PP (IN in) (NP (CD 1981))))))))) (, ,) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (ADVP (RB no) (RB longer)) (VP (VB create) (NP (NP (DT the) (NN tourist) (NN board) (POS 's)) (NN advertising))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NN statement))) (, ,) (NP (NP (NNP Alex) (NNP Kroll)) (, ,) (NP (NP (NNP Young) (CC &) (NNP Rubicam) (POS 's)) (NN chairman)) (, ,)) (VP (VBD said) (`` `) (S (`` `) (PP (IN under) (NP (DT the) (JJ present) (NNS circumstances))) (-LRB- -LCB-) (NP (PRP we)) (-RRB- -RCB-) (VP (VBP have) (VP (VBN agreed) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ prudent) (S (VP (TO to) (VP (VB discontinue) (NP (DT that) (NN contract))))))))))) (. .) ('' '))) ('' ')))
+
+(S1 (S (NP (NNP Young) (CC &) (NNP Rubicam)) (VP (VBZ has) (VP (VBN pleaded) (ADJP (JJ innocent) (PP (TO to) (NP (DT the) (NNS charges)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN board)) (VP (MD would) (RB n't) (VP (VB comment) (PP (IN on) (NP (NP (PRP$ its) (JJ impending) (NN search)) (PP (IN for) (NP (NP (DT a) (JJ new) (NN ad) (NN agency)) (SBAR (S (VP (TO to) (VP (VB handle) (NP (PRP$ its) (VBN estimated) (ADJP (QP ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 6) (CD million))) (NN account)))))))))))) (. .)))
+
+(S1 (NP (NP (NNP Ad) (NNPS Notes)) (NP (FW ..) (. .)) (. .)))
+
+(S1 (NP (JJ NEW) (NN ACCOUNT) (: :)))
+
+(S1 (S (NP (NP (NN Sunshine) (NNP Biscuits) (NNP Inc.)) (, ,) (NP (NP (NNP Woodbridge)) (, ,) (NP (NNP N.J.))) (, ,)) (VP (VBD awarded) (NP (PRP$ its) (VBN estimated) (ADJP (QP ($ $) (CD 5) (CD million))) (NN account)) (PP (TO to) (NP (NP (NNP Waring) (CC &) (NNP LaRosa)) (, ,) (NP (NNP New) (NNP York))))) (. .)))
+
+(S1 (S (NP (DT The) (NN account)) (VP (VBD had) (VP (VBN been) (PP (IN at) (NP (NP (NNP Della) (NNP Femina) (NNP McNamee) (NNP WCRS)) (, ,) (NP (NNP New) (NNP York)))))) (. .)))
+
+(S1 (NP (NN MEDIA) (NN POLICY) (: :)))
+
+(S1 (S (NP (NP (NNP MacNamara) (NNP Clapp) (CC &) (NNP Klein)) (, ,) (NP (DT a) (JJ small) (NNP New) (NNP York) (NN shop)) (, ,)) (VP (VBZ is) (VP (VBG asking) (NP (NN magazine) (NN ad) (NNS representatives)) (S (VP (TO to) (VP (VB tell) (NP (PRP it)) (SBAR (WHADVP (WRB when)) (S (NP (JJ major) (NN advertising) (NNS inserts)) (VP (MD will) (VP (VB run) (PP (IN in) (NP (PRP$ their) (NNS publications)))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD may) (VP (VB pull) (NP (NP (NP (PRP$ its) (NNS clients) (POS ')) (NNS ads)) (PP (IN from) (NP (DT those) (NNS magazines))))))))) (. .)))
+
+(S1 (NP (NNP COKE) (NNPS ADS) (: :)))
+
+(S1 (S (NP (NNP Coca-Cola) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD produced) (NP (NP (DT a) (JJ new) (NN version)) (PP (IN of) (NP (PRP$ its) (CD 1971) (`` `) (S (`` `) (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB teach) (NP (DT the) (NN world)) (S (VP (TO to) (VP (VB sing))))))))) ('' ')) ('' ') (NN commercial)))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN ad)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NP (NNP Classic) (NNP Coke) (POS 's)) (CD 1990) (NN ad) (NN campaign)))))) (PRN (, ,) (PP (IN with) (NP (DT the) (NN tag) (NN line))) (, ,) (`` `)) (`` `) (VP (MD Ca) (RB n't) (VP (VB beat) (NP (DT the) (JJ Real) (NN Thing)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NN Basketball) (NN star) (NNP Michael) (NNP Jordan)) (CC and) (NP (NN singer) (NNP Randy) (NNP Travis))) (VP (VBP have) (ADVP (RB also)) (VP (VBN agreed) (S (VP (TO to) (VP (VB appear) (PP (IN in) (NP (NNS ads)))))))) (. .)))
+

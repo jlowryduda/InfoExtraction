@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP Doskocil) (NNP Cos.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ bank-debt) (NNS payments)) (VP (VBP have) (VP (VBN been) (VP (VBN extended) (PP (IN until) (NP (NNP May) (CD 31) (, ,) (CD 1990) (, ,))) (S (VP (TO to) (VP (VB give) (NP (PRP it)) (NP (NP (JJR more) (NN time)) (SBAR (S (VP (TO to) (VP (VB sell) (NP (NP (PRP$ its) (NNP Wilson) (NNPS Foods) (NNP Corp.)) (JJ retail) (CC and) (JJ fresh) (NN meat) (NNS operations)))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD was) (S (VP (TO to) (VP (VP (VB repay) (NP (NP (QP ($ $) (CD 58) (CD million))) (PP (IN in) (NP (NN debt)))) (PP (IN on) (NP (NNP Dec.) (CD 31)))) (CC and) (VP (NP (QP ($ $) (CD 15) (CD million))) (PP (IN on) (NP (NNP March) (CD 31)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD acquired) (NP (DT the) (NN debt)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD paid) (NP (QP ($ $) (CD 155) (CD million))) (S (VP (TO to) (VP (VB purchase) (NP (NNP Wilson)) (NP (JJ last) (NN year))))))))) (. .)))
+
+(S1 (S (NP (DT An) (NN agreement) (S (VP (TO to) (VP (VB sell) (NP (DT the) (NNP Wilson) (NNS assets)) (PP (IN for) (NP (NP (QP ($ $) (CD 150) (CD million))) (PP (IN in) (NP (NP (NN cash)) (CC and) (NP (NNS notes)))))))))) (VP (VBD collapsed) (PP (IN in) (NP (NP (JJ late) (NNP September)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN buyer)) (, ,) (NP (NP (DT a) (NN company)) (VP (VBN controlled) (PP (IN by) (NP (NNP George) (NNP Gillett))))) (, ,)) (VP (MD could) (RB n't) (VP (VB secure) (NP (NN financing))))))))) (. .)))
+

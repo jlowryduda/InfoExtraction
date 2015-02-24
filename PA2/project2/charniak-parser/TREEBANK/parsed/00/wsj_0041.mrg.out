@@ -1,0 +1,140 @@
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (NN year)) (SBAR (S (NP (NP (DT the) (JJ negative) (NN ad)) (, ,) (RRC (PP (IN for) (NP (NNS years))) (NP (NP (DT a) (JJ secondary) (NN presence)) (PP (IN in) (NP (RBS most) (JJ political) (NNS campaigns))))) (, ,)) (VP (VBD became) (NP (DT the) (JJ main) (NN event))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN irony)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (NN attack) (NN commercial)) (, ,) (PP (IN after) (S (VP (VBG getting) (NP (NP (DT a) (NN boost)) (PP (IN in) (NP (NP (JJ last) (NN year) (POS 's)) (JJ presidential) (NN campaign))))))) (, ,) (VP (VBZ has) (VP (VBN come) (PP (IN of) (NP (NN age))) (PP (IN in) (NP (NP (DT an) (JJ off-off) (NN election) (NN year)) (PP (IN with) (NP (NP (QP (RB only) (DT a) (JJ few)) (NNS contests)) (VP (VBN scattered) (PP (IN across) (NP (DT the) (NN country))))))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (NP (DT the) (CD three) (JJ leading) (JJ political) (NNS contests)) (PP (IN of) (NP (CD 1989))))) (, ,) (NP (DT the) (JJ negative) (NNS ads)) (VP (VBP have) (VP (VBN reached) (NP (NP (JJ new) (NNS levels)) (PP (IN of) (NP (NN hostility)))) (, ,) (S (VP (VBG raising) (NP (NNS fears) (SBAR (IN that) (S (NP (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN mudslinging)))) (, ,) (NP (NP (JJ empty)) (PP (IN of) (NP (JJ significant) (NNS issues)))) (, ,)) (VP (VBZ is) (VP (VBG ushering) (PP (IN in) (NP (NP (DT a) (JJ new) (NN era)) (PP (IN of) (NP (NP (NNS campaigns)) (PP (IN without) (NP (NN content)))))))))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (ADVP (RB Now)) (PRN (, ,) ('' ') ('' ') (S (VP (VBZ says) (NP (NP (NNP Joseph) (NNP Napolitan)) (, ,) (NP (NP (DT a) (NN pioneer)) (PP (IN in) (NP (JJ political) (NN television))))))) (, ,) (`` `)) (`` `) (NP (DT the) (NN idea)) (VP (VBZ is) (S (VP (TO to) (VP (VB attack) (UCP (ADJP (JJ first) (, ,) (JJ last)) (CC and) (ADVP (RB always))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT A) (NN trend)) (SBAR (WHNP (WDT that)) (S (VP (VBD started) (PP (IN with) (NP (NP (DT the) (JJ first) (NNS stirrings)) (PP (IN of) (NP (NNS politics))))))))) (, ,) (S (VP (VP (VBN accelerated) (PP (IN with) (NP (NP (DT the) (NN dawn)) (PP (IN of) (NP (DT the) (NN television) (NN age)))))) (CC and) (VP (VBD became) (NP (DT a) (JJ sometimes-tawdry) (NN art) (NN form)) (PP (IN in) (NP (CD 1988)))))) (, ,) (VP (VBZ has) (VP (VBN reached) (NP (DT an) (ADJP (RB entirely) (JJ new)) (NN stage)))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (VP (TO To) (VP (VB get) (NP (NP (NNS people) (POS 's)) (NN attention)) (NP (DT these) (NNS days))))) (PRN (, ,) ('' ') ('' ') (S (VP (VBZ says) (NP (NP (NNP Douglas) (NNP Bailey)) (, ,) (NP (DT a) (JJ political) (NN consultant))))) (, ,) (`` `)) (`` `) (S (S (NP (PRP$ your) (NN TV) (NN ad)) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (ADJP (JJ bold) (CC and) (JJ entertaining))))))) (, ,) (CC and) (, ,) (S (ADVP (RBR more) (RB often) (PP (IN than) (NP (RB not)))) (, ,) (NP (WDT that)) (VP (VBZ means) (ADJP (JJ confrontational))))) (. .)))
+
+(S1 (S (CC And) (, ,) (PP (IN unlike) (ADVP (NP (DT a) (JJ few) (NNS years)) (RB ago))) (, ,) (NP (PRP you)) (VP (VBP do) (RB n't) (ADVP (RB even)) (VP (VB have) (S (VP (TO to) (VP (VB worry) (SBAR (IN whether) (S (NP (DT the) (NN ad)) (VP (VBZ is) (ADJP (JJ truthful)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (CD 1989))) (, ,) (ADVP (ADVP (RB as) (RB often)) (PP (IN as) (RB not))) (, ,) (NP (NP (DT the) (JJ principal) (NNS fights)) (PP (IN in) (NP (DT the) (JJ major) (NNS campaigns)))) (VP (VBP are) (VP (VBN prompted) (PP (IN by) (NP (NP (DT the) (NNS ads)) (ADVP (PRP themselves)))))) (. .)))
+
+(S1 (S (VP (VB Take) (NP (DT a) (NN look)) (, ,) (ADVP (RB then)) (, ,) (PP (IN at) (NP (NP (NP (DT the) (JJ main) (NN attack) (NNS commercials)) (SBAR (WHNP (WDT that)) (S (VP (VB set) (NP (DT the) (NN tone)) (PP (IN for) (NP (NP (NP (NNP Tuesday) (POS 's)) (NNS elections)) (PP (IN in) (NP (NNP New) (NNP York) (NNP City))))))))) (, ,) (NP (NP (NNP New) (NNP Jersey)) (CC and) (NP (NNP Virginia)))))) (: :)))
+
+(S1 (NP (NNP New) (NNP York) (NNP City) (: :)))
+
+(S1 (S (NP (DT The) (NN screen)) (VP (VBZ fills) (PP (IN with) (NP (NP (DT a) (JJ small) (, ,) (JJ tight) (JJ facial) (NN shot)) (PP (IN of) (NP (NP (NNP David) (NNP Dinkins)) (, ,) (NP (NP (JJ Democratic) (NN candidate)) (PP (IN for) (NP (NN mayor)))))) (PP (IN of) (NP (NNP New) (NNP York) (NNP City)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNP David) (NNP Dinkins)) (VP (VBD failed) (S (VP (TO to) (VP (VB file) (NP (PRP$ his) (NN income) (NNS taxes)) (PP (IN for) (NP (CD four) (JJ straight) (NNS years)))))))) (, ,) ('' ') ('' ') (VP (VBZ says) (NP (DT a) (JJ disembodied) (JJ male) (NN voice))) (. .)))
+
+(S1 (S (CC And) (RB then) (NP (NP (DT this) (NN television) (NN commercial)) (, ,) (VP (VP (VBN paid) (PP (IN for)) (PP (IN by) (NP (NNP Republican) (NNP Rudolph) (NNP Giuliani) (POS 's) (NN campaign)))) (CC and) (VP (VBN produced) (PP (IN by) (NP (NP (NNP Roger) (NNP Ailes)) (, ,) (NP (NP (DT the) (NN master)) (PP (IN of) (NP (JJ negative) (NN TV) (NNS ads)))))))) (, ,)) (ADVP (RB really)) (VP (VBZ gets) (ADVP (RP down) (PP (TO to) (NP (NN business))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Mr.) (NNP Dinkins)) (, ,) (NP (DT the) (NN ad) (NNS charges)) (, ,)) (ADVP (RB also)) (VP (VBD failed) (S (VP (TO to) (VP (VB report) (NP (PRP$ his) (NN campaign) (NNS contributions)) (ADVP (RB accurately))))))) (, ,) (VP (VP (VBD hid) (NP (NP (PRP$ his) (NNS links)) (PP (TO to) (NP (DT a) (VBG failing) (NN insurance) (NN company))))) (CC and) (VP (VBD paid) (NP (DT a) (VBN convicted) (NN kidnapper)) (`` `) (PP (`` `) (IN through) (NP (NP (NP (DT a) (JJ phony) (NN organization)) (PP (IN with) (NP (DT no) (NNS members)))) (, ,) (NP (DT no) (NNS receipts)) (CC and) (NP (DT no) (NN office)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (`` `) (NP (`` `) (NP (NNP David) (NNP Dinkins)) (, ,) ('' ')) ('' ') (VP (VBZ says) (UCP (NP (DT the) (NN kicker)) (, ,) (`` `) (SBARQ (`` `) (WHADVP (WRB Why)) (SQ (VBZ does) (NP (PRP he)) (ADVP (RB always)) (VP (VB wait) (SBAR (IN until) (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN caught))))))) (. ?) ('' ')) ('' ')))))
+
+(S1 (SINV (`` `) (S (`` `) (NP (JJ Nasty) (NNS innuendoes))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP John) (NNP Siegal)) (, ,) (NP (NP (NNP Mr.) (NNP Dinkins) (POS 's)) (NNS issues) (NN director))) (, ,) (`` `) (SBARQ (`` `) (SQ (VP (VBN designed) (S (VP (TO to) (VP (VB prosecute) (NP (NP (DT a) (NN case)) (PP (IN of) (NP (NP (JJ political) (NN corruption)) (SBAR (WHNP (WDT that)) (S (ADVP (RB simply)) (VP (VBZ does) (RB n't) (VP (VB exist))))))))))))) (. .) ('' ') ('' '))))
+
+(S1 (S (S (VP (VBN Stung) (PP (IN by) (NP (DT the) (NNP Giuliani) (NNS ads))))) (, ,) (NP (NP (NP (NNP Mr.) (NNP Dinkins) (POS 's)) (NN TV) (NNS consultants)) (, ,) (NP (NP (NNP Robert) (NNP Shrum)) (CC and) (NP (NNP David) (NNP Doak))) (, ,)) (ADVP (RB finally)) (VP (VBD unleashed) (NP (NP (DT a) (JJ negative) (NN ad)) (PP (IN of) (NP (PRP$ their) (JJ own))))) (. .)))
+
+(S1 (S (NP (DT The) (NN screen)) (VP (VBZ shows) (NP (NP (CD two) (JJ distorted) (, ,) (JJ unrecognizable) (NNS photos)) (, ,) (ADVP (RB presumably) (PP (IN of) (NP (CD two) (NNS politicians)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (VP (VB Compare) (NP (NP (CD two) (NNS candidates)) (PP (IN for) (NP (NN mayor)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (DT the) (NN announcer)) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (CD One)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (PP (IN for) (S (VP (VBG banning) (NP (JJ cop-killer) (NNS bullets))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ other)) (VP (VBZ has) (VP (VBN opposed) (NP (NP (DT a) (NN ban)) (PP (IN on) (NP (JJ cop-killer) (NNS bullets)))))) (. .)))
+
+(S1 (S (NP (CD One)) (VP (VBZ claims) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (ADJP (JJ pro-choice)))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ other)) (VP (VBZ has) (VP (VBN opposed) (NP (NP (DT a) (NN woman) (POS 's)) (NN right) (S (VP (TO to) (VP (VB choose))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (`` `) (NP (`` `) (NP (JJ Funny) (NN thing)) (, ,) ('' ')) ('' ') (VP (VBZ says) (NP (DT the) (NN kicker)) (, ,) (`` `) (S (`` `) (NP (DT both) (DT these) (NNS candidates)) (VP (VBP are) (VP (VBN named) (S (NP (NNP Rudolph) (NNP Giuliani))))) (. .) ('' ')) ('' '))))
+
+(S1 (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ 's) (VP (VBG telling) (NP (DT the) (NN truth))))) (. ?)))
+
+(S1 (NP (NP (NN Everybody)) (PRN (: --) (CC and) (NP (NN nobody))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (JJ classic) (NN situation)) (PP (IN of) (NP (NP (NNS ads)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (UCP (ADJP (JJ true)) (CC but) (RB not) (ADVP (RB always)) (ADJP (RB fully) (JJ accurate)))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Dinkins)) (VP (VBD did) (VP (VB fail) (S (VP (TO to) (VP (VB file) (NP (PRP$ his) (NN income) (NNS taxes)) (PP (IN for) (NP (CD four) (NNS years))))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ insists) (SBAR (S (NP (PRP he)) (VP (ADVP (RB voluntarily)) (VBD admitted) (NP (DT the) (`` `) (NX (`` `) (NX (NN oversight)) ('' ')) ('' ')) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (VP (VBG being) (VP (VBN considered) (PP (IN for) (NP (DT a) (NN city) (NN job))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (VP (VBD was) (PP (IN on) (NP (NP (DT the) (NN board)) (PP (IN of) (NP (NP (DT an) (NN insurance) (NN company)) (PP (IN with) (NP (JJ financial) (NNS problems))))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ insists) (SBAR (S (NP (PRP he)) (VP (VBD made) (NP (NP (DT no) (NN secret)) (PP (IN of) (NP (PRP it))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN city) (POS 's)) (NNP Campaign) (NNP Finance) (NNP Board)) (VP (VBZ has) (VP (VBN refused) (S (VP (TO to) (VP (VB pay) (NP (NNP Mr.) (NNP Dinkins)) (NP (NP ($ $) (CD 95,142)) (PP (IN in) (NP (VBG matching) (NNS funds)))) (SBAR (IN because) (S (NP (PRP$ his) (NN campaign) (NNS records)) (VP (VBP are) (ADJP (JJ incomplete)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN campaign)) (VP (VBZ has) (VP (VBN blamed) (NP (DT these) (NN reporting) (NNS problems)) (PP (IN on) (NP (NN computer) (NNS errors))))) (. .)))
+
+(S1 (S (CC And) (PRN (, ,) (SINV (VP (VBZ says)) (NP (NNP Mr.) (NNP Dinkins))) (, ,)) (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB know) (SBAR (S (NP (NP (DT the) (NN man)) (SBAR (S (NP (PRP$ his) (NN campaign)) (VP (VBD paid) (PP (IN for) (NP (DT a) (JJ get-out-the-vote) (NN effort))))))) (VP (VBD had) (VP (VBN been) (VP (VBN convicted) (PP (IN of) (NP (NN kidnapping)))))))))) (. .)))
+
+(S1 (S (SINV (CC But) (, ,) (VP (VBP say)) (NP (NP (NNP Mr.) (NNP Dinkins) (POS 's)) (NNS managers))) (, ,) (S (NP (PRP he)) (VP (VBD did) (VP (VB have) (NP (DT an) (NN office))))) (CC and) (S (NP (PRP$ his) (NN organization)) (VP (VBD did) (VP (VB have) (NP (NNS members))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Mr.) (NNP Giuliani) (POS 's)) (NN campaign) (NN chairman)) (, ,) (NP (NNP Peter) (NNP Powers)) (, ,)) (VP (VBZ says) (SBAR (S (NP (DT the) (NNP Dinkins) (NN ad)) (VP (VBZ is) (`` `) (ADJP (`` `) (JJ deceptive)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (JJ other) (NN side)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ argues))) (, ,) (`` `)) (`` `) (VP (VBZ knows) (SBAR (S (NP (NNP Giuliani)) (VP (VBZ has) (ADVP (RB always)) (VP (VBN been) (ADJP (JJ pro-choice)) (, ,) (SBAR (RB even) (IN though) (S (NP (PRP he)) (VP (VBZ has) (NP (JJ personal) (NNS reservations)))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP know) (SBAR (SBAR (S (NP (PRP he)) (VP (VBZ is) (VP (ADVP (RB generally)) (VBN opposed) (PP (TO to) (NP (JJ cop-killer) (NNS bullets))))))) (, ,) (CC but) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD had) (NP (NP (DT some) (NNS reservations)) (PP (IN about) (NP (NP (DT the) (NN language)) (PP (IN in) (NP (DT the) (NN legislation))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (NP (NNP Virginia) (: :)))
+
+(S1 (S (NP (NNP Democratic) (NNP Lt.) (NNP Gov.) (NNP Douglas) (NNP Wilder)) (VP (VBD opened) (NP (NP (PRP$ his) (JJ gubernatorial) (NN battle)) (PP (IN with) (NP (NNP Republican) (NNP Marshall) (NNP Coleman)))) (PP (IN with) (NP (NP (DT an) (NN abortion) (NN commercial)) (VP (VBN produced) (PP (IN by) (NP (NNP Frank) (NNP Greer)))))) (SBAR (IN that) (S (NP (NP (NNS analysts)) (PP (IN of) (NP (DT every) (JJ political) (NN persuasion)))) (VP (VBP agree) (SBAR (S (VP (VBD was) (NP (NP (DT a) (NN tour)) (PP (IN de) (NP (NN force))))))))))) (. .)))
+
+(S1 (S (PP (IN Against) (NP (NP (DT a) (NN shot)) (PP (IN of) (NP (NNP Monticello))) (VP (VBN superimposed) (PP (IN on) (NP (DT an) (JJ American) (NN flag)))))) (, ,) (NP (DT an) (NN announcer)) (VP (VBZ talks) (PP (IN about) (NP (DT the) (`` `) (NX (`` `) (NP (JJ strong) (NN tradition)) (PP (IN of) (NP (NP (NN freedom)) (CC and) (NP (JJ individual) (NN liberty) (POS '))))) ('' '))) (SBAR (IN that) (S (NP (NNPS Virginians)) (VP (VBP have) (VP (VBD nurtured) (PP (IN for) (NP (NNS generations)))))))) (. .)))
+
+(S1 (S (RB Then) (, ,) (SBAR (RB just) (IN as) (S (NP (NP (DT an) (NN image)) (PP (IN of) (NP (NP (DT the) (NN statue)) (PP (IN of) (NP (NNP Thomas) (NNP Jefferson)))))) (VP (VBZ dissolves) (PP (IN from) (NP (DT the) (NN screen)))))) (, ,) (NP (DT the) (NN announcer)) (VP (VBZ continues) (: :) (`` `) (S (`` `) (PP (IN On) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NN abortion))))) (, ,) (NP (NNP Marshall) (NNP Coleman)) (VP (VBZ wants) (S (VP (TO to) (VP (VB take) (PRT (RP away)) (NP (PRP$ your) (NN right) (S (VP (TO to) (VP (VB choose) (CC and) (VB give) (NP (PRP it)) (PP (TO to) (NP (DT the) (NNS politicians))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT That) (NN commercial)) (PRN (: --) (SBAR (WHNP (WDT which)) (S (VP (VBD said) (SBAR (S (NP (NNP Mr.) (NNP Coleman)) (VP (VBD wanted) (S (VP (TO to) (VP (VB take) (PRT (RP away)) (NP (NP (DT the) (NN right)) (PP (IN of) (NP (NN abortion)))) (SBAR (`` `) (S (`` `) (PP (ADVP (RB even)) (IN in) (NP (NP (NNS cases)) (PP (IN of) (NP (NN rape) (CC and) (NN incest))))) (, ,) ('' ') ('' ') (NP (NP (DT a) (NN charge)) (NNP Mr.) (NNP Coleman)) (VP (VBZ denies))))))))))))) (: --))) (VP (VBD changed) (NP (NP (DT the) (NNS dynamics)) (PP (IN of) (NP (DT the) (NN campaign)))) (, ,) (S (VP (VBG transforming) (NP (PRP it)) (, ,) (PP (ADVP (IN at) (JJS least)) (IN in) (NP (NN part))) (, ,) (PP (IN into) (NP (NP (DT a) (NN referendum)) (PP (IN on) (NP (NN abortion)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN ad)) (VP (VBD prompted) (S (NP (NP (NNP Mr.) (NNP Coleman)) (, ,) (NP (DT the) (JJ former) (NNP Virginia) (NN attorney) (NN general)) (, ,)) (VP (TO to) (VP (VB launch) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (NNS advertisements)) (VP (VP (VBN created) (PP (IN by) (NP (NNP Bob) (NNP Goodman)))) (CC and) (VP (VBN designed) (S (VP (TO to) (VP (VB shake) (NP (NP (NP (NNP Mr.) (NNP Wilder) (POS 's)) (NN support)) (PP (IN among) (NP (NP (DT the) (JJ very) (NNS women)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN attracted) (PP (IN by) (NP (DT the) (NN abortion) (NN ad)))))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Coleman)) (VP (VB counterattack) (VP (VBN featured) (NP (NP (DT a) (NN close-up)) (PP (IN of) (NP (DT a) (JJ young) (NN woman)))) (PP (IN in) (NP (NNS shadows)))))) (CC and) (S (NP (DT the) (NN ad)) (VP (VBD suggested) (SBAR (IN that) (S (NP (PRP she)) (VP (VBD was) (VP (VBG recalling) (NP (DT an) (JJ unpleasant) (NN courtroom) (NN ordeal)))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN voice)) (VP (VBZ says) (, ,) (`` `) (SQ (`` `) (INTJ (UH C') (NN mon) (, ,) (RB now)) (, ,) (VBP do) (RB n't) (NP (PRP you)) (VP (VBP have) (NP (NNS boyfriends))) (. ?) ('' ')) ('' '))))
+
+(S1 (S (RB Then) (NP (DT an) (NN announcer)) (VP (VBZ interjects) (: :) (`` `) (S (`` `) (NP (PRP It)) (VP (VBD was) (NP (NP (NNP Douglas) (NNP Wilder)) (SBAR (WHNP (WP who)) (S (VP (VBD introduced) (NP (NP (DT a) (NN bill)) (SBAR (S (VP (TO to) (VP (VB force) (S (NP (NP (NN rape) (NNS victims)) (UCP (NP (NN age) (CD 13)) (CC and) (ADJP (JJR younger)))) (VP (TO to) (VP (VB be) (VP (VBN interrogated) (PP (IN about) (NP (PRP$ their) (JJ private) (NNS lives))) (PP (IN by) (NP (NP (NNS lawyers)) (PP (IN for) (NP (VBN accused) (NNS rapists))))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN So) (NP (NP (DT the) (JJ next) (NN time)) (SBAR (S (NP (NNP Mr.) (NNP Wilder)) (VP (VBZ talks) (PP (IN about) (NP (NP (DT the) (NNS rights)) (PP (IN of) (NP (NNS women)))))))))) (, ,) (VP (VB ask) (NP (PRP him)) (PP (IN about) (NP (NP (DT this) (NN law)) (SBAR (S (NP (PRP he)) (VP (VBD tried) (S (VP (TO to) (VP (VB pass)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Wilder)) (VP (VBD did) (VP (VB introduce) (NP (JJ such) (NN legislation)) (ADVP (NP (CD 17) (NNS years)) (RB ago))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD did) (ADVP (RB so)) (PP (IN at) (NP (NP (DT the) (NN request)) (PP (IN of) (NP (NP (DT a) (NN constituent)) (, ,) (NP (NP (DT a) (JJ common) (JJ legislative) (NN technique)) (VP (VBN used) (PP (IN by) (NP (NNS lawmakers))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN legislation)) (NP (PRP itself))) (VP (VBD noted) (SBAR (IN that) (S (S (NP (PRP it)) (VP (VBD was) (VP (VBN introduced) (S (`` `) (NP (`` `) (NP (NP (IN by)) (NN request)) (, ,) ('' ')) ('' '))))) (CC and) (S (PP (IN in) (NP (CD 1983))) (NP (NNP Mr.) (NNP Wilder)) (VP (VBD introduced) (NP (NP (DT a) (NN bill)) (SBAR (S (VP (TO to) (VP (VB protect) (NP (NN rape) (NNS victims)) (PP (IN from) (NP (JJ unfounded) (NN interrogation))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (NNS People)) (VP (VBP have) (VP (VBN grown) (ADJP (JJ tired) (PP (IN of) (NP (DT these) (NNS ads))))))) (CC and) (S (NP (NNP Coleman)) (VP (VBZ has) (VP (VBN gotten) (NP (NP (DT the) (NN stigma)) (PP (IN of) (S (VP (VBG being) (NP (DT a) (JJ negative) (NN campaigner))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Mark) (NNP Rozell)) (, ,) (NP (NP (DT a) (JJ political) (NN scientist)) (PP (IN at) (NP (NNP Mary) (NNP Washington) (NNP College))))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (NNP Wilder)) (VP (VBZ has) (VP (VBN managed) (S (VP (TO to) (VP (VB get) (PRT (RP across)) (NP (DT the) (NN idea) (SBAR (IN that) (S (NP (NNP Coleman)) (VP (MD will) (VP (VB say) (NP (NP (NN anything)) (SBAR (S (VP (VP (TO to) (VP (VB get) (NP (JJ elected) (NN governor)))) (CC and) (PRN (: --) (ADJP (RBR more) (JJ important)) (: --)) (VP (VBZ has) (VP (VBN been) (ADJP (JJ able) (S (VP (TO to) (VP (VB put) (NP (NP (DT the) (NN onus)) (PP (IN for) (NP (PDT all) (DT the) (JJ negative) (NN campaigning)))) (PP (IN on) (NP (NNP Coleman)))))))))))))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Coleman)) (VP (VBD said) (NP (DT this) (NN week)) (SBAR (IN that) (S (NP (PRP he)) (VP (MD would) (VP (VB devote) (NP (NP (DT the) (NN remainder)) (PP (IN of) (NP (DT the) (JJ political) (NN season)))) (PP (TO to) (NP (JJ positive) (NN campaigning))))))))) (, ,) (CC but) (S (NP (DT the) (NN truce)) (VP (VBD lasted) (NP (JJ only) (NNS hours)))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NNP Tuesday) (NN night))) (, ,) (NP (NN television) (NNS stations)) (VP (VBD were) (VP (VBG carrying) (NP (NP (JJ new) (NNS ads)) (VP (VBG featuring) (NP (NP (NNP Mr.) (NNP Coleman)) (NP (PRP himself)) (S (VP (VBG raising) (NP (NP (NNS questions)) (PP (IN about) (NP (NP (NP (NNP Mr.) (NNP Wilder) (POS 's)) (NN sensitivity)) (PP (TO to) (NP (NN rape) (NNS victims))))))))))))) (. .)))
+
+(S1 (NP (NNP New) (NNP Jersey) (: :)))
+
+(S1 (S (NP (DT The) (NNS attacks)) (VP (VBD began) (SBAR (WHADVP (WRB when)) (S (NP (NNP Democratic) (NNP Rep.) (NNP James) (NNP Florio)) (VP (VBD aired) (NP (NP (DT an) (NN ad)) (VP (VBG featuring) (NP (NP (NP (DT a) (NN drawing)) (PP (IN of) (NP (NNP Pinocchio)))) (CC and) (NP (NP (DT a) (NN photograph)) (PP (IN of) (NP (NP (NP (NNP Mr.) (NNP Florio) (POS 's)) (NN rival)) (, ,) (NP (NNP Republican) (NNP Rep.) (NNP Jim) (NNP Courter)))))))))))) (. .)))
+
+(S1 (SINV (`` `) (SBARQ (`` `) (SQ (VP (VB Remember) (NP (NNP Pinocchio)))) (. ?) ('' ')) ('' ') (VP (VBZ says)) (NP (DT a) (JJ female) (NN voice)) (. .)))
+
+(S1 (S (`` `) (VP (`` `) (VB Consider) (NP (NNP Jim) (NNP Courter))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (NP (DT this) (NN commercial)) (, ,) (VP (VBN produced) (PP (IN by) (NP (NNP Bob) (NNP Squier)))) (, ,)) (VP (VBZ gets) (ADVP (RP down) (PP (TO to) (NP (PRP$ its) (JJ own) (ADJP (JJ mean) (CC and) (JJ dirty)) (NN business))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Pictures)) (PP (IN of) (NP (JJ rusted) (NN oil) (NNS drums)))) (VP (VBP swim) (PP (IN into) (NP (NN focus))))) (, ,) (CC and) (S (NP (DT the) (JJ female) (NN voice)) (VP (VBZ purrs) (, ,) (`` `) (S (`` `) (NP (NP (DT That) (JJ hazardous) (NN waste)) (PP (IN on) (NP (PRP$ his) (PRN (-LRB- -LCB-) (NP (NNP Mr.) (NNP Courter) (POS 's)) (-RRB- -RCB-)) (NN property))))))) (: --) (S (NP (DT the) (NNS neighbors)) (VP (VBP are) (VP (VBG suing) (PP (IN for) (NP (NN consumer) (NN fraud)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC And) (NP (NP (DT the) (NN nose)) (PP (IN on) (NP (NP (NNP Mr.) (NNP Courter) (POS 's)) (NN face)))) (VP (VBZ grows)) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (JJ only) (NN fraud)) (VP (VBN involved))) (PRN (, ,) (S (VP (VB cry) (NP (NP (NNP Mr.) (NNP Courter) (POS 's)) (NNS partisans)))) (, ,)) (VP (VBZ is) (NP (NP (DT the) (NNP Florio) (NN commercial)) (NP (PRP itself))))) (, ,) (CC and) (S (ADVP (RB so)) (NP (DT the) (NNP Courter) (NN campaign)) (VP (VBZ has) (VP (VBN responded) (PP (IN with) (NP (NP (PRP$ its) (JJ own) (NNP Pinocchio) (NN commercial)) (, ,) (VP (VBN produced) (PP (IN by) (NP (NNP Mr.) (NNP Ailes))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT this) (CD one))) (, ,) (NP (DT the) (NN screen)) (VP (VBZ fills) (PP (IN with) (NP (NP (NNS photographs)) (PP (IN of) (NP (DT both) (NNS candidates)))))) (. .)))
+
+(S1 (SINV (`` `) (SBARQ (`` `) (WHNP (WP Who)) (SQ (VBZ 's) (ADVP (RB really)) (VP (VBG lying))) (. ?) ('' ')) ('' ') (VP (VBZ asks)) (NP (DT a) (JJ female) (NN voice)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (NNP Florio)) (VP (VBZ 's) (ADJP (VBG lying)))) (, ,) ('' ') ('' ') (NP (DT the) (NN voice)) (VP (VBZ goes) (ADVP (RB on)) (, ,) (SBAR (IN because) (`` `) (S (`` `) (NP (NP (DT the) (NN barrel)) (PP (IN on) (NP (NP (NNP Courter) (POS 's)) (NN land)))) (VP (VBZ ..))))) (. .)) (VP (VBD contained) (SBAR (S (NP (NN heating) (NN oil)) (, ,) (VP (VP (VBD was) (VP (VBN cleaned) (PRT (RP up)))) (CC and) (VP (VBD caused) (NP (DT no) (NN pollution))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Courter) (POS 's)) (JJ long) (NN nose)) (VP (VBZ shrinks) (SBAR (IN while) (S (NP (NNP Mr.) (NNP Florio) (POS 's)) (VP (VBZ grows))))) (. .)))
+
+(S1 (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ 's) (VP (VBG telling) (NP (DT the) (NN truth))))) (. ?)))
+
+(S1 (S (NP (NP (NNP Stephen) (NNP Salmore)) (, ,) (NP (NP (DT a) (JJ political) (NN scientist)) (PP (IN at) (NP (NP (NNP New) (NNP Jersey) (POS 's)) (NNP Eagleton) (NNP Institute)))) (, ,)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT another) (NN example)) (PP (IN of) (NP (NP (DT an) (NN ad)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (ADJP (JJ true)) (CC but) (ADJP (RB not) (RB fully) (JJ accurate))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNS Barrels)) (VP (VBD were) (VP (VBN dumped) (PP (IN on) (NP (DT the) (NNP Courter) (NN property)))))) (, ,) (S (NP (DT a) (NN complaint)) (VP (VBD was) (VP (VBN made)))) (, ,) (CC but) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (NN evidence)) (SBAR (S (NP (DT the) (NNS barrels)) (VP (VBD were) (NP (NP (DT a) (JJ serious) (NN threat)) (PP (TO to) (NP (DT the) (NN environment)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Even) (RB so)) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Mr.) (NNP Salmore)))) (, ,) (NP (DT the) (NN ad)) (VP (VBD was) (`` `) (ADJP (`` `) (VBG devastating) ('' ')) ('' ') (SBAR (IN because) (S (NP (PRP it)) (VP (VBD raised) (NP (NP (NNS questions)) (PP (IN about) (NP (NP (NNP Mr.) (NNP Courter) (POS 's)) (NN credibility)))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (VBZ 's) (VP (VBG building) (PP (IN on) (NP (DT a) (JJ long) (NN tradition))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1966))) (, ,) (PP (IN on) (NP (NP (NN route)) (PP (TO to) (NP (NP (DT a) (NN re-election) (NN rout)) (PP (IN of) (NP (NNP Democrat) (NNP Frank) (NNP O') (NNP Connor))))))) (, ,) (NP (NP (NNP GOP) (NNP Gov.) (NNP Nelson) (NNP Rockefeller)) (PP (IN of) (NP (NNP New) (NNP York)))) (VP (VBD appeared) (PP (IN in) (NP (NN person))) (S (VP (VBG saying) (, ,) (`` `) (S (`` `) (SBAR (IN If) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB keep) (NP (NP (DT the) (NN crime) (NNS rates)) (ADJP (JJ high))))))))) (, ,) (NP (NNP O') (NNP Connor)) (VP (VBZ is) (NP (PRP$ your) (NN man))))))) (. .) ('' ') ('' ')))
+

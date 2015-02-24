@@ -1,0 +1,18 @@
+(S1 (S (NP (NP (NP (NNP DD) (NNP Acquisition) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN partnership)) (PP (IN of) (NP (NP (NNP Unicorp) (NNP Canada) (NNP Corp.) (POS 's)) (NNP Kingsbridge) (NNP Capital) (NNP Group))))) (CC and) (NP (NNP Cara) (NNP Operations) (NNP Ltd.)) (, ,)) (VP (VBD extended) (PP (TO to) (NP (NNP Nov.) (CD 20))) (NP (NP (NP (PRP$ its) (ADJP ($ $) (JJ 45-a-share)) (NN offer)) (PP (IN for) (NP (NP (DT all) (NNP Dunkin) (POS ')) (NNP Donuts) (NNP Inc.)))) (NP (NP (NNS shares)) (ADJP (JJ outstanding))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN offer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADJP (JJ due) (S (VP (TO to) (VP (VB expire) (NP (NN yesterday))))))))) (, ,)) (VP (VBZ is) (ADJP (JJ conditional) (PP (PP (IN on) (NP (NP (CD 50.1) (NN %)) (PP (IN of) (NP (NP (NP (NNP Dunkin) (POS ')) (JJ common) (NNS shares)) (, ,) (PP (IN on) (NP (DT a) (ADJP (RB fully) (VBN diluted)) (NN basis))) (, ,) (VP (VBG being) (VP (VBN tendered))))))) (CC and) (PP (IN on) (NP (NP (DT the) (NN withdrawal)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NN poison) (NN pill))))) (NP (NNS rights) (NN plan))))) (. .)))
+
+(S1 (S (S (NP (NNP DD) (NNP Acquisition)) (VP (VBZ has) (VP (VBN launched) (NP (NP (DT a) (NN suit)) (PP (IN in) (NP (DT a) (NNP Delaware) (NN court)))) (S (VP (VBG seeking) (NP (NP (DT the) (NN withdrawal)) (PP (IN of) (NP (NP (NNP Dunkin) (POS 's)) (NN poison) (NN pill)))) (NP (NNS rights))))))) (CC and) (S (NP (NP (NN employee) (NN stock) (NN ownership) (NNS plans)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBZ claims))))) (VP (VBD were) (VP (VBN put) (PP (IN in) (NP (NP (NN place)) (SBAR (S (VP (TO to) (VP (VB deter) (NP (NNS bidders))))))))))) (. .)))
+
+(S1 (S (NP (NNP DD) (NNP Acquisition)) (VP (VBD said) (SBAR (S (NP (NP (QP (CD 2.2) (CD million)) (NNS shares)) (, ,) (CC or) (NP (NP (RB about) (CD 38.5) (NN %)) (PP (IN of) (NP (NP (DT the) (NNS shares)) (ADJP (JJ outstanding))))) (, ,)) (VP (VBP have) (VP (VBN been) (VP (VBN tendered) (PP (IN under) (NP (PRP$ its) (NN offer))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS partners)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (ADVP (RB already)) (VBP hold) (NP (NP (CD 15) (NN %)) (PP (IN of) (NP (NP (DT all) (NNS shares)) (ADJP (JJ outstanding))))))))) (. .)))
+
+(S1 (S (NP (NNP Dunkin) (POS ')) (VP (VBZ has) (VP (VBN set) (NP (NNP Nov.) (CD 10)) (PP (IN as) (NP (NP (DT the) (NN deadline)) (PP (IN for) (NP (NP (DT the) (NN receipt)) (PP (IN of) (NP (DT any) (VBG competing) (NNS bids))))))))) (. .)))
+
+(S1 (S (NP (NNP DD) (NNP Acquisition)) (VP (VBD said) (SBAR (S (NP (DT the) (NN extension)) (VP (VBZ is) (S (VP (TO to) (VP (VB allow) (S (NP (DT this) (NN process)) (VP (TO to) (VP (VB be) (VP (VBN completed)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Dunkin) (POS ')) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Randolph)) (, ,) (NP (NNP Mass)))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Cara)) (, ,) (NP (DT a) (NN food) (NNS services) (NN chain) (NN operator))) (CC and) (NP (NP (NNP Unicorp)) (, ,) (NP (DT a) (VBG holding) (NN company)) (, ,))) (VP (VBP are) (VP (VBN based) (PP (IN in) (NP (NNP Toronto))))) (. .)))
+

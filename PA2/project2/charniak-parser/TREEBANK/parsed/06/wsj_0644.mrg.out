@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (NNP Bruce) (NNP W.) (NNP Wilkinson)) (, ,) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,)) (VP (VBD was) (VP (VBN named) (PP (TO to) (NP (NP (DT the) (JJ additional) (NN post)) (PP (IN of) (NP (NP (NN chairman)) (PP (IN of) (NP (DT this) (JJ architectural) (CC and) (NN design) (NNS services) (NN concern))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Wilkinson)) (, ,) (ADJP (NP (CD 45) (NNS years)) (JJ old)) (, ,)) (VP (VBZ succeeds) (NP (NP (NNP Thomas) (NNP A.) (NNP Bullock)) (, ,) (NP (CD 66)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBZ is) (VP (VBG retiring) (PP (IN as) (NP (NN chairman))))) (CC but) (VP (MD will) (VP (VB continue) (PP (IN as) (NP (NP (DT a) (NN director)) (CC and) (NP (NP (NN chairman)) (PP (IN of) (NP (DT the) (JJ executive) (NN committee))))))))))))) (. .)))
+

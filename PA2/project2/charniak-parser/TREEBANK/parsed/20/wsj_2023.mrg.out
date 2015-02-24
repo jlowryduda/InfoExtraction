@@ -1,0 +1,46 @@
+(S1 (SINV (S (NP (NNP L.J.) (NNP Hooker) (NNP Corp.)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB reach) (NP (NP (DT an) (NN agreement)) (PP (IN in) (NP (NN principle)))) (NP (DT this) (NN week) (S (VP (TO to) (VP (VB sell) (NP (NNP Merksamer) (NNPS Jewelers) (NNP Inc.)) (PP (TO to) (NP (NN management))))))))))))) (, ,) (VP (VBP say)) (NP (NP (NNS executives)) (ADJP (JJ familiar) (PP (IN with) (NP (DT the) (NNS talks))))) (. .)))
+
+(S1 (S (NP (NP (NNP L.J.) (NNP Hooker)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP Atlanta)))) (, ,)) (VP (VBN filed) (PP (IN for) (NP (NNP Chapter) (CD 11) (NN bankruptcy) (NN protection))) (NP (RBR earlier) (DT this) (NN year))) (. .)))
+
+(S1 (S (ADVP (RB Currently)) (, ,) (NP (NP (PRP$ its) (NN parent) (NN company)) (, ,) (NP (NP (NNP Hooker) (NNP Corp.)) (PP (IN of) (NP (NP (NNP Sydney)) (, ,) (NP (NNP Australia))))) (, ,)) (VP (VBZ is) (VP (VBG being) (VP (VBN managed) (PP (IN by) (NP (DT a) (JJ court-appointed) (NN liquidator)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (VP (VBN expected) (SBAR (IN that) (S (NP (NP (NNP GE) (NNP Capital) (NNP Corp.)) (, ,) (NP (NP (DT a) (JJ financial-services) (NN subsidiary)) (PP (IN of) (NP (NNP General) (NNP Electric) (NNP Co.)))) (, ,)) (VP (MD will) (VP (VB provide) (NP (NP (JJ much)) (PP (IN of) (NP (NP (DT the) (NN funding)) (PP (IN for) (NP (NP (DT the) (VBN proposed) (NN leveraged) (NN buy-out)) (PP (IN of) (NP (NP (NNP Merksamer)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Sacramento)) (, ,) (NP (NNP Calif)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN spokesman)) (PP (IN for) (NP (NNP GE) (NNP Capital)))) (VP (VBD declined) (S (VP (TO to) (VP (VB comment))))) (. .)))
+
+(S1 (S (NP (NNP GE) (NNP Capital)) (VP (VBZ has) (NP (NP (DT a) (VBG working) (NN relationship)) (PP (IN with) (NP (NNP L.J.) (NNP Hooker))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VP (VBZ is) (VP (VBG providing) (NP (NP (QP ($ $) (CD 50) (CD million))) (PP (IN in) (NP (NN emergency) (NN financing)))) (PP (TO to) (NP (DT the) (NN company))))) (CC and) (VP (VBZ has) (VP (VBN agreed) (S (VP (TO to) (VP (VB buy) (NP (NP (QP (RB as) (JJ much) (IN as) ($ $) (CD 75) (CD million))) (PP (IN in) (NP (NNS receivables)))) (PP (IN from) (NP (NP (NNP B.) (NNP Altman) (CC &) (NNP Co.)) (CC and) (NP (NP (NNP Bonwit) (NNP Teller)) (, ,) (NP (NP (NNP L.J.) (NNP Hooker) (POS 's)) (CD two) (ADJP (RB fully) (VBN owned)) (NN department-store) (NNS chains))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Sam) (NNP Merksamer)) (, ,) (NP (NP (JJ chief) (NN executive) (NN officer)) (PP (IN of) (NP (DT the) (JJ nationwide) (NN jewelry) (NN chain)))) (, ,)) (CC and) (NP (NP (NNP Sanford) (NNP Sigoloff)) (, ,) (NP (NP (JJ chief) (NN executive)) (PP (IN of) (NP (NNP L.J.) (NNP Hooker) (NNP Corp.)))) (, ,))) (DT both) (VP (VBD declined) (S (VP (TO to) (VP (VB comment))))) (. .)))
+
+(S1 (S (S (ADVP (RB Currently)) (, ,) (NP (NNP Mr.) (NNP Merksamer)) (VP (VBZ owns) (NP (NP (CD 20) (NN %)) (PP (IN of) (NP (DT the) (NN company)))))) (: ;) (S (NP (NNP L.J.) (NNP Hooker)) (VP (VBD acquired) (NP (NP (PRP$ its) (ADJP (CD 80) (NN %)) (NN interest)) (PP (IN in) (NP (DT the) (NN firm)))) (PP (IN in) (NP (NNP May) (CD 1986))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (NN time))) (, ,) (NP (DT the) (NNP Merksamer) (NN chain)) (VP (VBD had) (NP (CD 11) (NNS stores)) (PP (IN in) (NP (NN operation)))) (. .)))
+
+(S1 (S (NP (NN Today)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (CD 77) (NNS units)) (, ,) (NP (NP (DT all)) (VP (VBN located) (PP (IN in) (NP (NN shopping) (NNS malls))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ recent) (NNS weeks))) (NP (NNP Mr.) (NNP Merksamer)) (VP (VBZ has) (VP (VP (VBN approached) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (PRP$ his) (NNS suppliers))))) (CC and) (VP (VBD asked) (NP (PRP them)) (S (VP (TO to) (VP (VB provide) (NP (NP (NNS letters)) (PP (IN of) (NP (NN intent) (S (VP (VBG saying) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VP (VB continue) (S (VP (VBG shipping) (NP (NP (NN merchandise)) (PP (TO to) (NP (DT the) (NN chain)))) (PP (VBG following) (NP (DT the) (NN buy-out)))))) (, ,) (VP (VB say) (NP (NP (DT those)) (ADJP (JJ familiar) (PP (IN with) (NP (DT the) (NN situation))))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT This) (NN year)) (, ,) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ retail) (JJ leveraged) (NNS buyouts)))) (VP (VBP have) (VP (VBN failed) (, ,) (S (VP (VBG causing) (NP (NNS jitters)) (PP (IN among) (NP (NNS suppliers)))))))) (, ,) (CC and) (S (NP (NNP Mr.) (NNP Merksamer)) (ADVP (RB apparently)) (VP (VBD wanted) (NP (NNS assurances) (SBAR (IN that) (S (NP (PRP he)) (VP (MD wo) (RB n't) (VP (VB have) (NP (NN delivery) (NNS problems))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (DT the) (NN year)) (VP (VBN ended) (NP (NNP June) (CD 30) (, ,) (CD 1989))))) (, ,) (NP (NNP Merksamer) (NNP Jewelers)) (VP (VBD had) (NP (NP (QP ($ $) (CD 62) (CD million))) (PP (IN of) (NP (NP (NN revenue)) (CC and) (NP (NP (NN operating) (NN profit)) (PP (IN of) (NP (QP ($ $) (CD 2.5) (CD million))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN jewelery) (NN chain)) (VP (VBD was) (VP (VBN put) (PRT (RP up)) (PP (IN for) (NP (NN sale))) (PP (IN in) (NP (NNP June))))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NP (DT those)) (ADJP (JJ familiar) (PP (IN with) (NP (DT the) (NN situation))))))) (, ,) (NP (JJ other) (NNS bidders)) (VP (VBD included) (NP (NP (NNP Ratners) (NNP Group) (NNP PLC)) (PP (IN of) (NP (NP (NNP London)) (CC and) (NP (NNP Kay) (NNPS Jewelers) (NNP Inc)))))) (. .)))
+
+(S1 (S (NP (NNP First) (NNP Boston) (NNP Corp.)) (VP (VBZ is) (VP (VBG advising) (NP (NNP L.J.) (NNP Hooker)) (PP (IN on) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (DT the) (NNP Merksamer) (NN business))))))) (. .)))
+
+(S1 (S (NP (NNP Merksamer)) (VP (VBD was) (NP (NP (DT the) (JJ first)) (PP (IN in) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (JJ retail) (NNS acquisitions)) (VP (VBN made) (PP (IN by) (NP (NNP L.J.) (NNP Hooker)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD was) (VP (VBN founded) (PP (IN in) (NP (NNP Sacramento))) (PP (IN in) (NP (CD 1929))) (PP (IN by) (NP (NP (CD two) (NNS brothers)) (, ,) (NP (NNP Ralph) (CC and) (NNP Walter) (NNP Merksamer)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD operated) (PP (IN as) (NP (NP (NNP DeVon) (POS 's)) (NNP Jewelers)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1979))) (, ,) (NP (DT the) (NN pair)) (VP (VBD split) (NP (DT the) (NN company)) (PP (IN in) (NP (NN half))) (, ,) (PP (IN with) (NP (NP (NNP Walter) (CC and) (PRP$ his) (NN son)) (, ,) (NP (NNP Sam)))) (, ,) (S (VP (VBG agreeing) (S (VP (TO to) (VP (VB operate) (PP (IN under) (NP (DT the) (NNP Merksamer) (NNP Jewelery) (NN name))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN sale)) (PP (IN of) (NP (NNP Merksamer) (NNP Jewelers)))) (VP (VBZ is) (ADJP (JJ subject) (PP (TO to) (NP (NP (NN approval)) (PP (IN by) (NP (NP (NNP Judge) (NNP Tina) (NNP Brozman)) (PP (IN of) (NP (NNP U.S.) (NNP Bankruptcy) (NNP Court))))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (VP (ADVP (RB earlier)) (VBN reported)))) (, ,) (NP (NNP L.J.) (NNP Hooker)) (NP (DT this) (NN week)) (VP (VBD received) (NP (NP (NP (DT a) (ADJP (QP ($ $) (CD 409) (CD million))) (NN bid)) (PP (IN for) (NP (PRP$ its) (CD three) (NN shopping) (NNS malls)))) (, ,) (CC plus) (NP (JJ other) (NNS properties))) (PP (IN from) (NP (NP (DT a) (NN consortium)) (VP (VBN led) (PP (IN by) (NP (NP (NNP Honolulu) (NN real-estate) (NN investor) (NNP Jay) (NNP Shidler)) (CC and) (NP (NP (NNP A.) (NNP Boyd) (NNP Simpson)) (, ,) (NP (NP (DT an) (NNP Atlanta) (NN developer)) (CC and) (NP (JJ former) (NNP L.J.) (NNP Hooker) (JJ senior) (NN executive)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN offer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD did) (RB n't) (VP (VB include) (NP (DT the) (NNP Merksamer) (NN chain)))))) (, ,)) (VP (VBZ is) (VP (VBG being) (VP (VBN reviewed) (PP (IN by) (NP (NNP Mr.) (NNP Sigoloff)))))) (. .)))
+

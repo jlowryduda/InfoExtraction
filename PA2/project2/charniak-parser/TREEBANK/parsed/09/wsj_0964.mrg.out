@@ -1,0 +1,42 @@
+(S1 (S (NP (DT The) (NNP White) (NNP House)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB push) (PP (IN for) (NP (NP (NNS changes)) (PP (IN in) (NP (NN pesticide) (NN law))) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN designed) (S (VP (TO to) (VP (VB speed) (NP (NP (DT the) (NN removal)) (PP (IN of) (NP (JJ harmful) (NNS chemicals))) (PP (IN from) (NP (NP (DT the) (NN nation) (POS 's)) (NN food) (NN supply)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (VBN proposed) (NNS changes)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN scheduled) (S (VP (TO to) (VP (VB be) (VP (VBN announced) (NP (NN today)))))))))) (, ,)) (VP (MD would) (VP (VB apply) (PP (TO to) (NP (NP (NNS pesticides)) (CC and) (NP (NP (JJ other) (NNS substances)) (VP (VBN found) (PP (IN on) (NP (ADJP (JJ fresh) (CC and) (JJ processed)) (NNS foods))))))) (, ,) (PP (VBG according) (PP (TO to) (NP (JJ federal) (NNS officials)))))) (. .)))
+
+(S1 (S (NP (JJ Environmental) (NNS groups)) (VP (VP (VBP have) (VP (VBN been) (VP (VBG calling) (PP (IN for) (NP (NP (JJR faster) (NN action)) (PP (IN on) (NP (JJ dangerous) (NNS pesticides)))))))) (CC and) (VP (MD may) (VP (VB welcome) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN proposal))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP are) (ADVP (RB already)) (VP (VBG objecting) (PP (TO to) (PRN (, ,) (PP (IN among) (NP (JJ other) (NNS things))) (, ,)) (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB give) (NP (JJR more) (NN weight)) (PP (TO to) (NP (JJ cost-benefit) (NNS considerations))) (PP (IN in) (S (VP (VBG evaluating) (NP (NNS pesticides)))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (JJ tremendous) (NN disappointment))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Janet) (NNP Hathaway)) (, ,) (NP (NP (DT an) (NN attorney)) (PP (IN with) (NP (DT the) (NNP Natural) (NNPS Resources) (NNP Defense) (NNP Council))))) (. .)))
+
+(S1 (S (`` `) (`` `) (S (VP (VBG Allowing) (S (NP (DT the) (NNP EPA)) (VP (TO to) (VP (VB condone) (NP (NP (VBN continued) (NN use)) (PP (IN of) (NP (DT a) (JJ chemical)))) (SBAR (WHADVP (WRB whenever)) (S (NP (DT the) (NNS benefits)) (VP (VBP outweigh) (NP (DT the) (NNS risks)))))))))) (VP (VBZ is) (RB absolutely) (NP (NP (NN anathema)) (PP (TO to) (NP (DT the) (JJ environmental) (NN community))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NNP Bush) (NN administration)) (VP (VBZ plans) (S (VP (VP (TO to) (VP (VB announce) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NNS principles)))))) (CC and) (VP (TO to) (VP (VB work) (PP (IN with) (NP (NP (JJ congressional) (NNS leaders)) (PP (IN in) (S (VP (VBG writing) (NP (NP (JJ specific) (JJ legislative) (NNS proposals)) (SBAR (WHNP (WDT that)) (S (VP (VBP embody) (NP (PRP them)))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS principles)) (VP (MD would) (VP (VB give) (NP (DT the) (NNP Environmental) (NNP Protection) (NNP Agency)) (NP (NP (VBN increased) (NN authority) (CC and) (NN flexibility)) (PP (IN in) (S (VP (VBG regulating) (NP (NP (NNS pesticides)) (, ,) (PP (IN with) (NP (NP (DT the) (NN aim)) (PP (IN of) (S (VP (VBG enabling) (S (NP (DT the) (NN agency)) (VP (TO to) (VP (VB move) (ADVP (RBR more) (RB quickly))))))))))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (ADVP (RB already)) (VP (VBP are) (NP (NP (NNS proposals)) (VP (VBG pending) (PP (IN in) (NP (NNP Congress))) (S (VP (TO to) (VP (VB overhaul) (NP (NN pesticide) (NN law)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Moves)) (SBAR (S (VP (TO to) (VP (VB accelerate) (NP (NP (DT the) (NN removal)) (PP (IN of) (NP (JJ dangerous) (NNS pesticides))))))))) (VP (VBN gained) (NP (JJ new) (NN impetus)) (PP (IN during) (NP (NP (DT this) (NN year) (POS 's)) (NNP Alar) (NN scare))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP EPA)) (VP (VBD was) (VP (ADVP (RB harshly)) (VBN criticized) (PP (IN for) (S (VP (VBG failing) (S (VP (TO to) (VP (VB yank) (NP (NP (DT the) (JJ possible) (NN carcinogen)) (, ,) (NP (NP (DT a) (NN growth) (NN regulator)) (VP (VBN used) (S (VP (TO to) (VP (VB make) (S (NP (NNS apples)) (ADJP (JJR redder) (CC and) (JJR crunchier)))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN agency)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN acted) (S (VP (TO to) (VP (VB remove) (NP (NNP Alar)) (PP (IN from) (NP (NP (DT the) (NN nation) (POS 's)) (NN grocery) (NNS shelves))) (PP (IN by) (NP (NNP May) (CD 31) (, ,) (CD 1991))))))))) (, ,) (CC and) (S (NP (DT the) (NN apple) (NN industry)) (VP (VBZ has) (VP (VBN said) (SBAR (IN that) (S (NP (NNS growers)) (ADVP (RB already)) (VP (VBP have) (VP (VBN stopped) (S (VP (VBG using) (NP (DT the) (NN chemical))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NNS principles)) (VP (VBP attempt) (S (VP (TO to) (VP (VB eliminate) (NP (DT the) (JJ so-called) (NNP Delaney) (NN Paradox)))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (NP (DT the) (NNP Delaney) (NN clause)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ applies) (PP (TO to) (NP (VBN processed) (NN food)))))))) (, ,) (NP (DT a) (NN chemical)) (VP (VBZ is) (VP (VBN banned) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ causes) (NP (NP (NN cancer)) (PP (IN in) (NP (NN laboratory) (NNS animals))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (NP (JJ other) (NNS laws)) (VP (VBG applying) (PP (TO to) (NP (NN pesticide) (NN use)))))) (, ,) (ADVP (RB however)) (, ,) (NP (DT that) (JJ same) (NN chemical)) (VP (MD could) (VP (VB be) (VP (VBN allowed) (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN on) (NP (JJ fresh) (NN food))))))) (SBAR (IN if) (S (NP (PRP it)) (VP (VBD fell) (PP (IN within) (NP (NP (DT the) (NNP EPA) (POS 's)) (NN tolerance) (NN level))))))))) (. .)))
+
+(S1 (S (PP (IN Among) (NP (JJ other) (NNS changes))) (, ,) (NP (DT the) (NNP White) (NNP House)) (VP (VBZ wants) (S (VP (TO to)))) (: :)))
+
+(S1 (FRAG (: --) (VP (VP (VB Give) (NP (DT the) (NNP EPA)) (NP (JJR more) (NN flexibility) (S (VP (TO to) (VP (VB declare) (NP (DT a) (NN pesticide)) (NP (DT an) (JJ imminent) (NN hazard))))))) (CC and) (VP (VB pull) (NP (PRP it)) (PP (IN from) (NP (DT the) (NN marketplace))))) (. .)))
+
+(S1 (FRAG (: --) (VP (VB Speed) (PRT (RP up)) (NP (NP (DT the) (NN process)) (PP (IN for) (S (VP (VBG removing) (NP (NP (DT a) (NN pesticide)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB n't) (NP (DT an) (JJ imminent) (NN hazard))))))))))) (. .)))
+
+(S1 (S (: --) (NP (NNP Bar)) (VP (VBZ states) (PP (IN from) (S (VP (VBG setting) (NP (ADJP (RBR more) (JJ stringent)) (NN tolerance) (NNS levels)) (PP (IN for) (NP (DT a) (NN pesticide)))))) (SBAR (IN once) (S (NP (DT the) (JJ federal) (NN government)) (VP (VBZ has) (VP (VBN set) (NP (DT a) (NN standard))))))) (. .)))
+
+(S1 (FRAG (: --) (VP (VB Give) (NP (NP (DT the) (NNP EPA) (VBD added) (NN discretion)) (SBAR (S (VP (TO to) (VP (VB set) (NP (`` `) (ADJP (`` `) (JJ negligible) (NN risk) ('' ')) ('' ') (NNS levels)) (PP (IN for) (NP (NP (NN pesticide) (NNS residues)) (PP (IN in) (NP (VBN processed) (NN food))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Chemicals)) (SBAR (WHNP (WDT that)) (S (VP (VBP exceed) (NP (DT these) (NN risk) (NNS levels)))))) (VP (MD would) (VP (VB be) (VP (VBN barred))))) (, ,) (CC but) (S (NP (NP (DT those)) (SBAR (WHNP (WDT that)) (S (VP (VBP fall) (PP (IN below) (NP (DT these) (NNS levels))))))) (VP (MD would) (VP (VB be) (VP (VBN allowed))))) (. .)))
+
+(S1 (FRAG (: --) (VP (VB Allow) (S (NP (DT the) (NNP EPA)) (VP (TO to) (VP (VB permit) (NP (NP (DT the) (VBN continued) (NN use)) (PP (IN of) (NP (NP (NNS pesticides)) (SBAR (WHNP (WDT that)) (S (VP (VBP exceed) (NP (PRP$ its) (JJ negligible) (NN risk) (NN standard)) (SBAR (IN if) (S (NP (NP (DT the) (NNS benefits)) (PP (IN of) (S (VP (VBG doing) (ADVP (RB so)))))) (VP (VBP outweigh) (NP (DT the) (NN cost))))))))))))))) (. .)))
+

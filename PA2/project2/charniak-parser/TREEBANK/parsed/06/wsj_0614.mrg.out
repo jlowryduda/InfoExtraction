@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (NP (NNP QUANTUM) (NNP CHEMICAL) (NNP Corp.) (POS 's)) (NN plant)) (PP (IN in) (NP (NP (NNP Morris)) (, ,) (NP (NNP Ill.)) (, ,)))) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB resume) (NP (NN production)) (PP (IN in) (NP (JJ early) (CD 1990)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN year)) (VP (VBD was) (VP (VBN misstated) (PP (IN in) (NP (NP (NNP Friday) (POS 's)) (NNS editions))))) (. .)))
+

@@ -1,0 +1,88 @@
+(S1 (S (NP (NP (JJ Japanese) (NN investment)) (PP (IN in) (NP (NNP Southeast) (NNP Asia)))) (VP (VBZ is) (VP (VBG propelling) (NP (DT the) (NN region)) (PP (IN toward) (NP (JJ economic) (NN integration))))) (. .)))
+
+(S1 (S (NP (NP (NNS Interviews)) (PP (IN with) (NP (NP (NNS analysts) (CC and) (NN business) (NNS people)) (PP (IN in) (NP (DT the) (NNP U.S.)))))) (VP (VBP suggest) (SBAR (IN that) (S (NP (JJ Japanese) (NN capital)) (VP (MD may) (VP (VB produce) (NP (DT the) (JJ economic) (NN cooperation) (SBAR (IN that) (S (NP (NNP Southeast) (NNP Asian) (NNS politicians)) (VP (VBP have) (VP (VBN pursued) (PP (IN in) (NP (NP (NNS fits) (CC and) (VBZ starts)) (PP (IN for) (NP (NNS decades))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NP (NNP Japan) (POS 's)) (NN power)) (PP (IN in) (NP (DT the) (NN region)))) (ADVP (RB also)) (VP (VBZ is) (VP (VP (VBG sparking) (NP (NP (NNS fears)) (PP (IN of) (NP (NN domination))))) (CC and) (VP (VBG posing) (NP (JJ fresh) (NN policy) (NNS questions))))) (. .)))
+
+(S1 (SINV (S (NP (NP (DT The) (NN flow)) (PP (IN of) (NP (JJ Japanese) (NNS funds)))) (VP (VBZ has) (VP (VBN set) (PP (IN in) (NP (NN motion)))))) (`` `) (`` `) (NP (NP (DT a) (NN process)) (SBAR (WHADVP (WRB whereby)) (S (NP (DT these) (NNS economies)) (VP (MD will) (VP (VB be) (VP (VBN knitted) (ADVP (RB together)) (PP (IN by) (NP (DT the) (JJ great) (JJ Japanese) (NN investment) (NN machine))))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Robert) (NNP Hormats)) (, ,) (NP (NP (NN vice) (NN chairman)) (PP (IN of) (NP (NNP Goldman) (NNP Sachs) (NNP International) (NNP Corp))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ past) (CD five) (NNS years))) (, ,) (NP (JJ Japanese) (NNS companies)) (VP (VBP have) (VP (VBN tripled) (NP (NP (PRP$ their) (NNS commitments)) (PP (IN in) (NP (NNP Asia)))) (PP (TO to) (NP (QP ($ $) (CD 5.57) (CD billion)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Thailand))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NP (NP (DT the) (NN government) (POS 's)) (NNP Board)) (PP (IN of) (NP (NNP Investment)))) (VP (VBD approved) (NP (NP (QP ($ $) (CD 705.6) (CD million))) (PP (IN of) (NP (NP (JJ Japanese) (NN investment)) (PP (IN in) (NP (NP (CD 1988)) (, ,) (NP (NP (QP (CD 10) (NNS times)) (DT the) (NNP U.S.) (NN investment) (NN figure)) (PP (IN for) (NP (DT the) (NN year)))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Japan) (POS 's)) (NN commitment)) (PP (IN in) (NP (NNP Southeast) (NNP Asia)))) (ADVP (RB also)) (VP (VBZ includes) (NP (NP (JJ steep) (NNS increases)) (PP (IN in) (NP (JJ foreign) (NN assistance) (CC and) (NN trade))))) (. .)))
+
+(S1 (S (NP (NP (NNP Asia) (POS 's)) (JJ other) (JJ cash-rich) (NNS countries)) (VP (VBP are) (VP (VP (VBG following) (NP (NP (NNP Japan) (POS 's)) (NN lead))) (CC and) (VP (VBG pumping) (NP (NN capital)) (PP (IN into) (NP (DT the) (NN region)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NNP Taiwan)) (CC and) (NP (NNP South) (NNP Korea)))) (, ,) (NP (VBG rising) (NNS wages)) (VP (VBP are) (VP (VBG forcing) (S (NP (NNS manufacturers)) (VP (TO to) (VP (VB seek) (NP (NP (JJ other) (JJ overseas) (NNS sites)) (PP (IN for) (NP (JJ labor-intensive) (NN production))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT These) (NNS nations)) (, ,) (VP (VBN known) (PP (IN as) (NP (NP (NNP Asia) (POS 's)) (`` `) (NX (`` `) (NX (JJ little) (NNS tigers)) (, ,) ('' ')) ('' '))))) (ADVP (RB also)) (VP (VBP are) (VP (VBG contributing) (PP (TO to) (NP (NP (NNP Southeast) (NNP Asia) (POS 's)) (NN integration)))))) (, ,) (CC but) (S (NP (PRP$ their) (NN influence)) (VP (MD will) (VP (VB remain) (ADJP (JJ subordinate) (PP (TO to) (NP (NNP Japan) (POS 's))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (JJ recipient) (NNS countries)) (PP (JJ such) (IN as) (NP (NNP Thailand) (CC and) (NNP Malaysia))))) (, ,) (NP (DT the) (NN investment)) (VP (MD will) (VP (VP (VB provide) (NP (VBN needed) (NNS jobs))) (CC and) (VP (VB spur) (NP (NN growth))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NP (NNP Asian) (NNS nations) (POS ')) (JJ harsh) (NNS memories)) (PP (IN of) (NP (NP (PRP$ their) (JJ military) (NN domination)) (PP (IN by) (NP (NNP Japan))) (PP (IN in) (NP (NP (DT the) (JJ early) (NN part)) (PP (IN of) (NP (DT this) (NN century)))))))) (VP (VBP make) (S (NP (PRP them)) (ADJP (JJ fearful) (PP (IN of) (S (VP (VBG falling) (PP (IN under) (NP (JJ Japanese) (JJ economic) (NN hegemony))) (ADVP (RB now)))))))) (. .)))
+
+(S1 (S (PP (IN Because) (IN of) (NP (NP (NN budget) (NNS constraints)) (PP (IN in) (NP (NNP Washington))))) (, ,) (NP (DT the) (NNP U.S.)) (VP (VBZ encourages) (S (NP (NNP Japan)) (VP (TO to) (VP (VB share) (NP (NP (JJ economic) (NNS burdens)) (PP (IN in) (NP (DT the) (NN region)))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (VBZ resists) (VP (VBG yielding) (NP (JJ political) (NN ground)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ coming) (NN decade))) (PRN (, ,) (S (NP (NNS analysts)) (VP (VBP say))) (, ,)) (NP (JJ U.S.-Japanese) (NNS relations)) (VP (MD will) (VP (VB be) (VP (VBN tested) (SBAR (IN as) (S (NP (NNP Tokyo)) (VP (VBZ comes) (PP (TO to) (NP (NP (NNS terms)) (PP (IN with) (NP (NP (PRP$ its) (JJ new) (NN status)) (PP (IN as) (NP (NP (DT the) (NN region) (POS 's)) (JJ economic) (NN behemoth))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Japan) (POS 's)) (VBG swelling) (NN investment)) (PP (IN in) (NP (NNP Southeast) (NNP Asia)))) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (PRP$ its) (JJ economic) (NN evolution))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ past) (NN decade))) (, ,) (NP (JJ Japanese) (NNS manufacturers)) (VP (VBD concentrated) (PP (IN on) (NP (NP (JJ domestic) (NN production)) (PP (IN for) (NP (NN export)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (CD 1990s))) (, ,) (S (VP (VBN spurred) (PP (IN by) (NP (NP (VBG rising) (NN labor) (NNS costs)) (CC and) (NP (DT the) (JJ strong) (NN yen)))))) (, ,) (NP (DT these) (NNS companies)) (VP (MD will) (ADVP (RB increasingly)) (VP (VB turn) (NP (PRP themselves)) (PP (IN into) (NP (NP (NNS multinationals)) (PP (IN with) (NP (NP (NNS plants)) (PP (IN around) (NP (DT the) (NN world))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB capture) (NP (DT the) (NN investment))))) (, ,) (NP (ADJP (JJ Southeast) (JJ Asian)) (NNS nations)) (VP (MD will) (VP (VB move) (S (VP (TO to) (VP (VB accommodate) (NP (JJ Japanese) (NN business))))))) (. .)))
+
+(S1 (SINV (S (NP (DT These) (NP (NNS nations) (POS ')) (JJ internal) (NNS decisions)) (`` `) (VP (`` `) (VP (MD will) (VP (VB be) (VP (VBN made) (PP (IN in) (NP (NP (DT a) (NN way)) (SBAR (S (RB not) (VP (TO to) (VP (VB offend) (NP (NP (PRP$ their) (JJS largest) (NN aid) (NN donor)) (, ,) (NP (JJS largest) (JJ private) (NN investor)) (CC and) (NP (JJS largest) (NN lender)))))))))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Richard) (NNP Drobnick)) (, ,) (NP (NP (NP (NP (NN director)) (PP (IN of) (NP (DT the) (JJ international) (NN business)))) (CC and) (NP (NN research) (NN program))) (PP (IN at) (NP (NP (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Southern) (NNP California))) (POS 's)) (NNP Graduate) (NNP School)) (PP (IN of) (NP (NNP Business))))))) (. .)))
+
+(S1 (S (NP (JJ Japanese) (NN money)) (VP (MD will) (VP (VB help) (S (VP (VB turn) (NP (NNP Southeast) (NNP Asia)) (PP (IN into) (NP (DT a) (RBR more) (JJ cohesive) (JJ economic) (NN region))))))) (. .)))
+
+(S1 (S (CC But) (PRN (, ,) (S (NP (NNS analysts)) (VP (VBP say))) (, ,)) (NP (JJ Asian) (NN cooperation)) (VP (VBZ is) (RB n't) (ADJP (JJ likely) (S (VP (TO to) (VP (VB parallel) (NP (DT the) (NNP European) (NNP Common) (NNP Market) (NN approach))))))) (. .)))
+
+(S1 (SINV (S (ADVP (RB Rather)) (, ,) (NP (JJ Japanese) (NN investment)) (VP (MD will) (VP (VB spur) (NP (NP (NN integration)) (PP (IN of) (NP (JJ certain) (NNS sectors))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Kent) (NNP Calder)) (, ,) (NP (NP (DT a) (NN specialist)) (PP (IN in) (NP (NP (ADJP (NNP East) (NNP Asian)) (NNS economies)) (PP (IN at) (NP (NP (DT the) (NNP Woodrow) (NNP Wilson) (NNP School)) (PP (IN for) (NP (NNP Public) (CC and) (NNP Internatonal) (NNPS Affairs))) (PP (IN at) (NP (NNP Princeton) (NNP University))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNS electronics))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (DT a) (JJ Japanese) (NN company)) (VP (MD might) (VP (VP (VB make) (NP (NP (NN television) (NN picture) (NNS tubes)) (PP (IN in) (NP (NNP Japan))))) (, ,) (VP (VB assemble) (NP (NP (DT the) (NNS sets)) (PP (IN in) (NP (NNP Malaysia))))) (CC and) (VP (VB export) (NP (PRP them)) (PP (TO to) (NP (NNP Indonesia)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN effect)) (VP (MD will) (VP (VB be) (S (VP (TO to) (VP (VB pull) (NP (NNP Asia)) (ADVP (RB together)) (PP (RB not) (PP (IN as) (NP (DT a) (JJ common) (NN market))) (CC but) (PP (IN as) (NP (DT an) (VBN integrated) (NN production) (NN zone))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Goldman) (NNP Sachs) (POS 's)) (NNP Mr.) (NNP Hormats)) (. .)))
+
+(S1 (S (NP (NP (NNS Countries)) (PP (IN in) (NP (DT the) (NN region)))) (ADVP (RB also)) (VP (VBP are) (VP (VBG beginning) (S (VP (TO to) (VP (VB consider) (NP (NP (DT a) (NN framework)) (PP (IN for) (NP (JJR closer) (ADJP (JJ economic) (CC and) (JJ political)) (NNS ties))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (ADJP (JJ economic) (CC and) (JJ foreign)) (NNS ministers)) (PP (IN of) (NP (CD 12) (NNP Asian) (CC and) (NNP Pacific) (NNS nations)))) (VP (MD will) (VP (VB meet) (PP (IN in) (NP (NNP Australia))) (NP (JJ next) (NN week)) (S (VP (TO to) (VP (VB discuss) (NP (NP (JJ global) (NN trade) (NNS issues)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ regional) (NNS matters)) (PP (JJ such) (IN as) (NP (NP (NN transportation)) (CC and) (NP (NNS telecommunications))))))))))) (. .)))
+
+(S1 (S (NP (NNS Participants)) (VP (MD will) (VP (VB include) (NP (NP (DT the) (NNP U.S.) (, ,) (NNP Australia) (, ,) (NNP Canada) (, ,) (NNP Japan)) (, ,) (NP (NNP South) (NNP Korea)) (CC and) (NP (NNP New) (NNP Zealand)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NP (DT the) (CD six) (NNS members)) (PP (IN of) (NP (NP (DT the) (NNP Association)) (PP (IN of) (NP (NNP Southeast) (NNP Asian) (NNPS Nations)))))) (: --) (NP (NP (NNP Thailand) (, ,) (NNP Malaysia) (, ,) (NNP Singapore)) (, ,) (NP (NNP Indonesia)) (, ,) (NP (DT the) (NNPS Philippines)) (CC and) (NP (NNP Brunei))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NNP U.S.)) (NP (DT this) (NN year)) (VP (VBD offered) (NP (NP (PRP$ its) (JJ own) (NN plan)) (PP (IN for) (NP (NP (NN cooperation)) (PP (IN around) (NP (DT the) (NNP Pacific) (NN rim)))))) (PP (IN in) (NP (NP (DT a) (JJ major) (NN speech)) (PP (IN by) (NP (NP (NNP Secretary)) (PP (IN of) (NP (NP (NNP State) (NNP James) (NNP Baker)) (, ,) (VP (VBG following) (PRT (RP up)) (NP (NP (DT a) (NN proposal)) (VP (VBN made) (PP (IN in) (NP (NNP January))) (PP (IN by) (NP (NP (NNP Australian) (NNP Prime) (NNP Minister)) (NP (NNP Bob) (NNP Hawke)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Baker) (NN proposal)) (VP (VBZ reasserts) (NP (NP (NNP Washington) (POS 's)) (NN intention) (S (VP (TO to) (VP (VB continue) (S (VP (VBG playing) (NP (NP (DT a) (JJ leading) (JJ political) (NN role)) (PP (IN in) (NP (DT the) (NN region))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN In) (NP (NNP Asia))) (, ,) (PP (IN as) (PP (IN in) (NP (NNP Europe)))) (, ,) (NP (DT a) (JJ new) (NN order)) (VP (VBZ is) (VP (VBG taking) (NP (NN shape)))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Baker)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (NP (NP (`` `) (DT The) (NNP U.S.)) (, ,) (PP (IN with) (NP (PRP$ its) (JJ regional) (NNS friends))) (, ,)) (VP (MD must) (VP (VB play) (NP (DT a) (JJ crucial) (NN role)) (PP (IN in) (S (VP (VBG designing) (NP (PRP$ its) (NN architecture))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (S (VP (VBG maintaining) (NP (NNP U.S.) (NN influence)))) (VP (MD will) (VP (VB be) (ADJP (JJ difficult)) (PP (IN in) (NP (NP (DT the) (NN face)) (PP (IN of) (NP (NP (JJ Japanese) (NN dominance)) (PP (IN in) (NP (DT the) (NN region))))))))) (. .)))
+
+(S1 (S (NP (NNP Japan)) (VP (CONJP (RB not) (RB only)) (VP (VBZ outstrips) (NP (DT the) (NNP U.S.)) (PP (IN in) (NP (NN investment) (NNS flows)))) (CONJP (CC but) (RB also)) (VP (VBZ outranks) (NP (PRP it)) (PP (IN in) (NP (NP (NN trade)) (PP (IN with) (NP (JJS most) (NNP Southeast) (NNP Asian) (NNS countries))) (PRN (-LRB- -LRB-) (SBAR (IN although) (S (NP (DT the) (NNP U.S.)) (VP (VBZ remains) (NP (NP (DT the) (VBG leading) (NN trade) (NN partner)) (PP (IN for) (NP (NP (DT all)) (PP (IN of) (NP (NNP Asia))))))))) (-RRB- -RRB-)))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (DT the) (JJ Japanese) (NN government)) (, ,) (S (ADVP (RB now)) (NP (NP (DT the) (NN world) (POS 's)) (JJS largest) (NN aid) (NN donor))) (, ,) (VP (VBZ is) (VP (VBG pumping) (NP (ADJP (RB far) (JJR more)) (NN assistance)) (PP (IN into) (NP (DT the) (NN region) (SBAR (IN than) (S (NP (DT the) (NNP U.S.)) (VP (VBZ is)))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NNP U.S.) (NNS officials)) (VP (VB voice) (NP (NN optimism)) (PP (IN about) (NP (NP (NP (NNP Japan) (POS 's)) (JJ enlarged) (NN role)) (PP (IN in) (NP (NNP Asia)))))))) (, ,) (NP (PRP they)) (ADVP (RB also)) (VP (VB convey) (NP (NP (DT an) (NN undertone)) (PP (IN of) (NP (NN caution))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (EX There)) (VP (VBZ 's) (NP (NP (DT an) (NN understanding)) (PP (IN on) (NP (NP (DT the) (NN part)) (PP (IN of) (NP (DT the) (NNP U.S.))))) (SBAR (IN that) (S (NP (NNP Japan)) (VP (VBZ has) (S (VP (TO to) (VP (VB expand) (NP (NP (PRP$ its) (NNS functions) (POS ')) ('' ') (PP (IN in) (NP (NNP Asia))))))))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP J.) (NNP Michael) (NNP Farren)) (, ,) (NP (NP (NN undersecretary)) (PP (IN of) (NP (NN commerce))) (PP (IN for) (NP (NN trade))))) (. .)))
+
+(S1 (S (`` `) (`` `) (SBAR (IN If) (S (NP (PRP they)) (VP (VBP approach) (NP (PRP it)) (PP (IN with) (NP (DT a) (JJ benevolent) (, ,) (JJ altruistic) (NN attitude)))))) (, ,) (NP (EX there)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (JJ net) (NN gain)) (PP (IN for) (NP (NN everyone)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT Some) (JJ Asian) (NNS nations)) (VP (VBP are) (ADJP (JJ apprehensive) (PP (IN about) (NP (NP (NNP Washington) (POS 's)) (NN demand) (SBAR (IN that) (S (NP (NNP Tokyo)) (VP (VB step) (PRT (RP up)) (NP (PRP$ its) (JJ military) (NN spending)) (S (VP (TO to) (VP (VB ease) (NP (DT the) (NNP U.S.) (NN security) (NN burden)) (PP (IN in) (NP (DT the) (NN region))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN issue)) (VP (VBZ is) (VP (RBR further) (VBN complicated) (PP (PP (IN by) (NP (NP (NN uncertainty)) (PP (IN over) (NP (NP (DT the) (NN future)) (PP (IN of) (NP (NP (NP (DT the) (NNP U.S.) (POS 's)) (NNS leases)) (PP (IN on) (NP (NP (JJ military) (NNS bases)) (PP (IN in) (NP (DT the) (NNPS Philippines))))))))))) (CC and) (PP (IN by) (NP (NP (DT a) (JJ possible) (NNP U.S.) (NN troop) (NN reduction)) (PP (IN in) (NP (NNP South) (NNP Korea)))))))) (. .)))
+
+(S1 (S (NP (JJ Many) (NNPS Asians)) (VP (VBP regard) (NP (DT a) (NNP U.S.) (NN presence)) (PP (IN as) (NP (NP (DT a) (JJ desirable) (NN counterweight)) (PP (TO to) (NP (JJ Japanese) (NN influence)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT No) (NN one)) (VP (VBZ wants) (S (NP (DT the) (NNP U.S.)) (VP (VP (TO to) (VP (VB pick) (PRT (RP up)) (NP (PRP$ its) (NNS marbles)))) (CC and) (VP (VBP go) (NP (NN home))))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Hormats)) (VP (VBZ says)) (. .)))
+
+(S1 (S (PP (IN For) (NP (PRP$ their) (NN part))) (, ,) (NP (NP (NNP Taiwan)) (CC and) (NP (NNP South) (NNP Korea))) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB step) (PRT (RP up)) (NP (PRP$ their) (JJ own) (NNS investments)) (PP (IN in) (NP (DT the) (JJ next) (NN decade) (S (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VB slow) (NP (DT the) (JJ Japanese) (NN juggernaut))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP They)) (VP (VBP do) (RB n't) (VP (VB want) (S (NP (NNP Japan)) (VP (TO to) (VP (VP (VB monopolize) (NP (DT the) (NN region))) (CC and) (VP (VB sew) (NP (PRP it)) (PRT (RP up)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Chong-sik) (NNP Lee)) (, ,) (NP (NP (NN professor)) (PP (IN of) (NP (NNP East) (NNP Asian) (NNS politics))) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Pennsylvania))))))) (. .)))
+

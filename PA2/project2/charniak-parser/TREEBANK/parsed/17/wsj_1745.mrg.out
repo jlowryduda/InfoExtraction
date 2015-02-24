@@ -1,0 +1,4 @@
+(S1 (S (NP (NNP LOTUS) (NNP DEVELOPMENT)) (NP (NP (NNP Corp.) (POS 's)) (JJ net) (NN income)) (VP (VBD rose) (NP (CD 61) (NN %)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))) (PP (IN from) (NP (DT the) (JJ year-earlier) (NN period)))) (. .)))
+
+(S1 (S (NP (NP (NN Yesterday) (POS 's)) (NN edition)) (VP (VBN misstated) (NP (DT the) (NN percentage) (NN increase))) (. .)))
+

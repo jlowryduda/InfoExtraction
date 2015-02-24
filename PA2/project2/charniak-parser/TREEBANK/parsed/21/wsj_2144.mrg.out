@@ -1,0 +1,38 @@
+(S1 (PRN (-LRB- -LRB-) (S (PP (IN During) (NP (PRP$ its) (NN centennial) (NN year))) (, ,) (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal)) (VP (MD will) (VP (VB report) (NP (NP (NNS events)) (PP (IN of) (NP (DT the) (JJ past) (NN century))) (SBAR (WHNP (WDT that)) (S (VP (VBP stand) (PP (IN as) (NP (NP (NNS milestones)) (PP (IN of) (NP (JJ American) (NN business) (NN history))))))))))) (. .)) (-RRB- -RRB-)))
+
+(S1 (S (NP (JJ SOFT) (NN CONTACT) (NNS LENSES)) (VP (VP (VBD WON) (NP (JJ federal) (NN blessing)) (PP (IN on) (NP (NNP March) (CD 18) (, ,) (CD 1971) (, ,)))) (CC and) (VP (ADVP (RB quickly)) (VBD became) (NP (NP (NN eye) (NNS openers)) (PP (IN for) (NP (PRP$ their) (NNS makers)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Food) (CC and) (NNP Drug) (NNP Administration)) (NP (DT that) (NN day)) (VP (VBD said) (SBAR (S (NP (NNP Bausch) (CC &) (NNP Lomb)) (VP (MD could) (VP (VB start) (S (VP (VBG selling) (NP (PRP them)) (PP (IN in) (NP (DT the) (NNP U.S.)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ cornflake-size) (NN product)) (VP (VBD was) (ADJP (ADJP (RBR more) (JJ comfortable)) (CC and) (ADJP (RBR less) (JJ prone) (PP (TO to) (S (VP (VBG falling) (ADVP (IN out) (PP (IN than) (NP (NP (JJ hard) (NN contact) (NNS lenses)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (VP (VBN been) (ADVP (RB around)) (PP (IN since) (NP (CD 1939)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Bausch) (CC &) (NNP Lomb)) (VP (VBD sold) (NP (DT the) (NNS softies)) (PP (IN under) (NP (NP (DT a) (NN sublicense)) (PP (IN from) (NP (NP (NNP National) (NNP Patent) (NNP Development)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (VP (VBN gained) (NP (NP (DT the) (NNS rights)) (PP (IN from) (NP (NP (DT the) (NNP Czechoslovakia) (NNP Academy)) (PP (IN of) (NP (NNPS Sciences))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Otto) (NNP Wichterle)) (, ,) (NP (DT a) (JJ Czech)) (, ,)) (VP (VBD invented) (NP (PRP them)) (PP (IN in) (NP (CD 1962)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ plastic) (NN lens)) (VP (VBZ wraps) (NP (PRP itself)) (PP (IN over) (NP (DT the) (NN cornea))) (, ,) (S (VP (VBG absorbing) (NP (NN eye) (NN moisture)) (SBAR (IN while) (S (VP (VBG permitting) (NP (NN oxygen)) (S (VP (TO to) (VP (VB pass) (PP (IN through))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ new) (NN lens)) (VP (VBD became) (NP (NP (DT the) (NN eye)) (PP (IN of) (NP (DT a) (NN storm))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP September) (CD 1971))) (NP (NNP California) (NNS officials)) (VP (VBD seized) (NP (NP (`` `) (ADJP (`` `) (JJ bootlegged) ('' ')) ('' ') (NNS lenses)) (: --) (VP (VBN made) (PP (IN by) (NP (JJ unlicensed) (NNS companies)))) (: --)) (SBAR (IN after) (S (NP (DT some)) (VP (VBD showed) (NP (NP (NNS traces)) (PP (IN of) (NP (NNS bacteria)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP October))) (NP (NNS doctors)) (VP (VBD were) (VP (VBG debating) (NP (NP (DT the) (NN product) (POS 's)) (NN safety)) (, ,) (S (NP (DT some)) (VP (VBG claiming) (SBAR (S (NP (PRP it)) (VP (VBD caused) (NP (NNS infections))))))))) (. .)))
+
+(S1 (S (CC And) (NP (EX there)) (VP (VBD were) (NP (NP (NNP Senate) (NNS hearings)) (PP (IN on) (NP (DT the) (NNS questions)))) (PP (IN in) (NP (NNP July) (CD 1972)))) (. .)))
+
+(S1 (S (NP (DT The) (NN product)) (VP (VP (VBD overcame) (NP (DT the) (JJ bad) (NN publicity))) (CC and) (VP (VBD kept) (VP (VBG evolving)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ early) (JJ soft) (NNS lenses)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD cost) (NP (NP ($ $) (CD 300)) (NP (DT a) (NN set)))))) (, ,)) (VP (VBD were) (VP (VBN expected) (S (VP (TO to) (VP (VB last) (PP (IN for) (NP (DT a) (NN year)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1983))) (NP (NP (`` `) (ADJP (`` `) (JJ extended) (NN wear) ('' ')) ('' ') (NNS versions)) (, ,) (VP (VBN designed) (S (VP (TO to) (VP (VB be) (ADJP (JJ worn) (PP (IN for) (NP (CD 30) (NNS days)))) (PP (IN at) (NP (DT a) (NN time))))))) (, ,)) (VP (VBP wree) (VP (VBN offered))) (. .)))
+
+(S1 (S (S (ADVP (NP (CD Eighteen) (NNS months)) (RB ago)) (NP (DT a) (`` `) (ADJP (`` `) (JJ disposable) ('' ')) ('' ') (JJ seven-day) (NN model)) (VP (VBD bowed))) (: ;) (S (NP (NP (DT a) (NN year) (POS 's)) (NN supply)) (VP (VBZ costs) (NP (QP (RB about) ($ $) (CD 500))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN month)) (NP (NP (DT the) (NNP FDA)) (CC and) (NP (NN Contact) (NNP Lens) (NNP Institute))) (VP (VBD cautioned) (NP (NNS users)) (SBAR (IN that) (S (NP (JJ serious) (NN eye) (NNS infections)) (VP (MD could) (VP (VB result) (PP (IN from) (S (VP (VBG wearing) (NP (NP (NNS lenses)) (NP (QP (JJR more) (IN than) (CD seven)) (NNS days)) (PP (IN at) (NP (DT a) (NN stretch)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Today)) (NP (NP (QP (CD 20) (CD million))) (PP (IN of) (NP (NP (DT the) (QP (CD 25) (CD million)) (NNPS Americans)) (VP (VBG using) (NP (NN contact) (NNS lenses))))))) (VP (VBP are) (VP (VBG using) (NP (DT the) (JJ soft) (NN type)))) (. .)))
+
+(S1 (S (PP (VBG Including) (NP (DT the) (JJ accesory) (NN eye) (NN care) (NNS products))) (, ,) (NP (NNS contacts)) (VP (VBP account) (PP (IN for) (NP (NP (QP ($ $) (CD 2) (CD billion))) (PP (IN in) (NP (JJ annual) (JJ retail) (NNS sales)))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNP Bausch)) (VP (VBZ remains) (NP (NP (DT the) (NN leader)) (PP (IN among) (NP (DT the) (CD six) (NNS majors))))))) (, ,) (NP (NP (NNP Johnson) (CC &) (NNP Johnson)) (, ,) (PP (IN with) (NP (PRP$ its) (JJ new) (NNS disposables))) (, ,)) (VP (VBZ is) (VP (VBG coming) (PRT (RP on)) (ADVP (RB fast)))) (. .)))
+

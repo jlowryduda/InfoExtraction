@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NN Oil) (NNS imports)) (PP (TO to) (NP (NNP Japan)))) (VP (VBD rose) (NP (CD 12) (NN %)) (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (JJ year-earlier) (NNS levels))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNS statistics)) (VP (VBN released) (PP (IN by) (NP (NP (DT the) (NN government) (POS 's)) (NAC (NNP Ministry) (PP (IN of) (NP (NNP International) (NNP Trade) (CC and) (NNP Industry))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS imports)) (, ,) (VP (VBG totaling) (NP (QP (CD 98.5) (CD million)) (NNS barrels))) (, ,)) (VP (VBD were) (ADJP (ADJP (NP (CD 11) (NN %)) (JJR lower)) (PP (IN than) (NP (NNP August) (NNS levels))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ year-on-year) (NN rise)) (VP (VBD was) (PP (RB partly) (PP (IN because) (IN of) (NP (NP (JJR higher) (NN demand)) (PP (IN for) (NP (NN petroleum) (NNS products))))) (, ,) (CC and) (RB partly) (PP (IN because) (IN of) (NP (NP (NN tax) (NNS changes)) (PP (IN in) (NP (CD 1988))) (SBAR (WHNP (WDT that)) (S (VP (VBD left) (NP (NP (NN oil) (NNS companies)) (PP (IN with) (NP (JJ high) (NNS inventories)))) (PP (IN in) (NP (DT the) (JJ late-summer\/early-FALL) (NN PERIOD)))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Imports)) (PP (IN of) (NP (NN crude))) (PP (IN from) (NP (DT the) (NNP Middle) (NNP East)))) (VP (VBD grew) (NP (CD 17) (NN %)) (PP (IN from) (NP (JJ year-earlier) (NNS levels))))) (, ,) (CC and) (S (NP (NNP Southeast) (NNP Asian) (NN crude) (NNS imports)) (VP (VBD grew) (NP (CD 43) (NN %)))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NNP Mideast) (NN crude) (NNS imports)) (VP (VBD were) (ADJP (JJR higher)) (PP (VBN compared) (PP (IN with) (NP (JJ year-earlier) (NNS levels))))))) (, ,) (NP (PRP they)) (VP (VBD fell) (NP (CD 18) (NN %)) (PP (VBN compared) (PP (IN with) (NP (NNP August) (NNS imports))))) (. .)))
+
+(S1 (S (NP (NNP Southeast) (NNP Asian) (NN crude) (NNS imports)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD were) (ADJP (ADJP (NP (CD 3.6) (NN %)) (JJR higher)) (PP (IN than) (NP (NNP August))))) (. .)))
+

@@ -1,0 +1,82 @@
+(S1 (NP (NP (NNP ARTICLE) (PRP I) (, ,) (NNP SECTION) (CD 7)) (, ,) (NP (NN CLAUSE) (CD 2)) (: :)))
+
+(S1 (FRAG (NP (NP (DT Every) (NNP Bill)) (SBAR (WHNP (WDT which)) (S (VP (VP (MD shall) (VP (VB have) (VP (VBD passed) (NP (NP (NP (DT the) (NNP House)) (PP (IN of) (NP (NNPS Representatives)))) (CC and) (NP (DT the) (NNP Senate)))))) (, ,) (VP (MD shall) (PRN (, ,) (SBAR (IN before) (S (NP (PRP it)) (VP (VBZ becomes) (NP (DT a) (NN Law))))) (, ,)) (VP (VB be) (VP (VBN presented) (PP (TO to) (NP (NP (DT the) (NNP President)) (PP (IN of) (NP (DT the) (NNP United) (NNPS States)))))))) (: ;) (SBAR (IN If) (S (NP (PRP he)) (VP (VBP approve) (SBAR (S (NP (PRP he)) (VP (MD shall) (VP (VB sign) (NP (PRP it))))))))))))) (, ,) (CC but) (SBAR (IN if) (S (NP (RB not) (PRP he)) (VP (MD shall) (VP (VB return) (NP (PRP it)))))) (, ,) (PP (IN with) (NP (NP (PRP$ his) (NNS Objections)) (PP (TO to) (NP (DT that) (NN House) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP it)) (VP (MD shall) (VP (VB have) (VP (VBN originated)))))))) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD shall) (VP (VP (VB enter) (NP (NP (DT the) (NNS Objections)) (PP (IN at) (ADJP (JJ large)))) (PP (IN on) (NP (PRP$ their) (NN Journal)))) (, ,) (CC and) (VP (VB proceed) (S (VP (TO to) (VP (VB reconsider) (NP (PRP it)))))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (PP (IN after) (NP (JJ such) (NN Reconsideration))) (NP (NP (CD two) (NNS thirds)) (PP (IN of) (NP (DT that) (NNP House)))) (VP (MD shall) (VP (VB agree) (S (VP (TO to) (VP (VB pass) (NP (DT the) (NN Bill))))))))) (, ,) (NP (PRP it)) (VP (MD shall) (VP (VB be) (VP (VBN sent) (, ,) (ADVP (RB together) (PP (IN with) (NP (DT the) (NNS Objections)))) (, ,) (PP (TO to) (NP (NP (DT the) (JJ other) (NN House)) (, ,) (SBAR (WHPP (IN by) (WHNP (WDT which))) (S (S (NP (PRP it)) (VP (MD shall) (ADVP (RB likewise)) (VP (VB be) (VP (VBN reconsidered))))) (, ,) (CC and) (S (SBAR (IN if) (S (VP (VBN approved) (PP (IN by) (NP (NP (CD two) (NNS thirds)) (PP (IN of) (NP (DT that) (NNP House)))))))) (, ,) (NP (PRP it)) (VP (MD shall) (VP (VB become) (NP (DT a) (NNP Law) (NN ..)))) (. .))))))))) (. .)))
+
+(S1 (NP (NP (NNP ARTICLE) (PRP I) (, ,) (NNP SECTION) (CD 7)) (, ,) (NP (NN CLAUSE) (CD 3)) (: :)))
+
+(S1 (S (NP (NP (DT Every) (NNP Order) (, ,) (NNP Resolution) (, ,) (CC or) (NN Vote)) (SBAR (WHPP (TO to) (WHNP (WDT which))) (S (NP (NP (DT the) (NN Concurrence)) (PP (IN of) (NP (DT the) (NNP Senate) (CC and) (NNP House))) (PP (IN of) (NP (NNPS Representatives)))) (VP (MD may) (VP (VB be) (ADJP (JJ necessary)) (PRN (-LRB- -LRB-) (PP (IN except) (PP (IN on) (NP (NP (DT a) (NN question)) (PP (IN of) (NP (NN Adjournment)))))) (-RRB- -RRB-))))))) (VP (VP (MD shall) (VP (VB be) (VP (VBN presented) (PP (TO to) (NP (NP (DT the) (NNP President)) (PP (IN of) (NP (DT the) (NNP United) (NNPS States)))))))) (: ;) (CC and) (VP (SBAR (IN before) (S (NP (DT the) (JJ Same)) (VP (MD shall) (VP (VP (VB take) (NP (NN Effect))) (, ,) (VP (MD shall) (VP (VB be) (VP (VBN approved) (PP (IN by) (NP (PRP him)))))) (, ,) (CC or) (VP (VBG being) (VP (VBN disapproved) (PP (IN by) (NP (PRP him))))))))) (, ,) (MD shall) (VP (VB be) (VP (VBN repassed) (PP (IN by) (NP (NP (CD two) (NNS thirds)) (PP (IN of) (NP (DT the) (NNP Senate) (CC and) (NNP House))) (PP (IN of) (NP (NNPS Representatives))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT the) (NNS Rules) (CC and) (NNS Limitations)) (VP (VBN prescribed) (PP (IN in) (NP (NP (DT the) (NN Case)) (PP (IN of) (NP (DT a) (NN Bill))))))))))))) (. .)))
+
+(S1 (S (NP (NNP President) (NNP Bush)) (VP (VBD told) (NP (NNS reporters)) (ADVP (NP (DT a) (JJ few) (NNS months)) (RB ago)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD was) (VP (VBG looking) (PP (IN for) (NP (DT the) (JJ right) (NN test) (NN case))) (S (VP (TO to) (VP (VB see) (SBAR (IN whether) (S (NP (PRP he)) (ADVP (RB already)) (VP (VBZ has) (NP (DT the) (JJ line-item) (NN veto))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Vice) (NNP President) (NNP Quayle)) (CC and) (NP (NNP Budget) (NNP Director) (NNP Darman))) (VP (VBD said) (ADVP (RB recently)) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN joined) (NP (DT the) (NN search))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Tuesday))) (, ,) (NP (DT the) (NN subject)) (VP (VBD came) (PRT (RP up)) (ADVP (RB again)) (SBAR (WHADVP (WRB when)) (S (NP (NNP Marlin) (NNP Fitzwater)) (VP (VBD explained) (NP (DT the) (JJ constitutional) (NN argument)) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NNS provisions)) (ADJP (JJ above) (PP (TO to) (NP (DT the) (NNP White) (NNP House) (NN press) (NN corps))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP President) (NNP Bush)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (NP (DT any) (NN provision)) (PP (IN in) (NP (NN mind))))))) (, ,) (CC but) (S (NP (JJ line-item-veto) (NN bait)) (VP (MD will) (VP (VB be) (PP (IN like) (NP (NP (NNS earthworms)) (PP (IN at) (NP (NN midnight))))) (PP (IN in) (NP (DT the) (VBG coming) (JJ Continuing) (NN Resolution)))))) (. .)))
+
+(S1 (S (NP (DT The) (JJR harder) (NN question)) (VP (VBZ is) (SBAR (IN whether) (S (NP (NN anyone)) (ADVP (RB yet)) (VP (VBZ understands) (SBAR (IN that) (S (NP (NP (NP (NNP Mr.) (NNP Bush) (POS 's)) (NN fight)) (PP (IN for) (NP (PRP$ his) (JJ constitutional) (NNS prerogatives)))) (VP (VBZ is) (PP (IN about) (NP (NNS politics))) (ADVP (ADVP (RB as) (RB much)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ is) (PP (IN about) (NP (NN law)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (VP (VBN persuaded) (PP (IN by) (NP (NP (DT the) (JJ constitutional) (NN argument)) (PP (IN for) (NP (DT the) (JJ inherent) (JJ line-item) (NN veto))))) (PP (IN since) (NP (NP (CD 1987)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NN lawyer) (NNP Stephen) (NNP Glazier)) (ADVP (RB first)) (VP (VBD made) (NP (DT the) (NN case)) (PP (IN on) (NP (DT this) (NN page))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD 1974) (NN budget)) (S (`` `) (NP (`` `) (NP (NN reform)) (, ,) ('' ')) ('' ') (VP (VBN passed) (PP (IN over) (NP (NP (NNP President) (NNP Nixon) (POS 's)) (NN veto))))) (, ,) (VP (VBD took) (PRT (RP away)) (NP (DT the) (JJ presidential) (NN impoundment) (NN power)) (, ,) (S (VP (VP (ADVP (RB thereby)) (VBG introducing) (NP (JJ monstrous) (NNP CRs))) (CC and) (VP (VBG eviscerating) (NP (DT the) (JJ presidential) (NN veto)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Glazier)) (VP (VBD discovered) (SBAR (IN that) (S (NP (DT the) (NNP Founders)) (VP (VBD had) (VP (VBN worried) (SBAR (IN that) (S (NP (NNP Congress)) (VP (MD might) (VP (VB take) (NP (DT the) (NNP President)) (PP (IN out) (PP (IN of) (NP (DT the) (NN loop))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Article) (PRP I) (, ,) (NNP Section) (CD 7)) (, ,) (NP (NN Clause) (CD 3))) (VP (VBZ says) (SBAR (IN that) (S (SBAR (IN whether) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN called) (NP (DT an) (`` `) (NP (`` `) (NN order) (, ,) (NN resolution) (CC or) (NN vote) ('' ')) ('' ') (CC or) (NP (NN anything) (RB else))))))) (, ,) (NP (NNPS Presidents)) (VP (MD must) (VP (VB have) (NP (DT the) (NN chance)) (S (VP (TO to) (VP (VB veto))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Labeling) (NP (DT an) (NN omnibus) (NN budget)) (NP (DT a) (`` `) (NX (`` `) (NX (NN bill)) ('' ')) ('' ')))) (VP (MD ca) (RB n't) (VP (VB deprive) (NP (DT the) (NNP President)) (PP (IN of) (NP (PRP$ his) (NN power) (S (VP (TO to) (VP (VB veto) (NP (NNS items))))))))) (. .)))
+
+(S1 (S (S (S (VP (VBG Finding) (NP (DT a) (NN test) (NN case)))) (VP (MD should) (RB n't) (VP (VB be) (ADJP (JJ hard))))) (, ,) (CC but) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBD said) (PP (IN for) (S (VP (VBG picking) (S (NP (DT the) (JJS best) (NN one)) (ADJP (JJ possible)))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP White) (NNP House)) (VP (VBD had) (NP (DT the) (JJ perfect) (NN case)))) (, ,) (CC but) (S (NP (NNP Congress)) (VP (VBD blinked) (SBAR (IN before) (S (NP (PRP it)) (VP (MD could) (VP (VB go) (PP (TO to) (NP (NN court))))))))) (. .)))
+
+(S1 (S (SBAR (IN After) (S (NP (DT the) (NNP HUD) (CC and) (NNP S&L) (NNS stories)) (VP (VBD broke)))) (, ,) (NP (DT some) (NNPS Congressmen)) (VP (VBD began) (S (VP (TO to) (VP (VB worry) (SBAR (IN that) (S (NP (NP (PRP$ their) (NN influence) (NN peddling)) (PP (IN at) (NP (JJ executive-branch) (CC and) (JJ independent) (NNS agencies)))) (VP (MD might) (NP (DT some) (NN day)) (VP (VB get) (NP (PRP them)) (PP (IN in) (NP (NN trouble))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD worried) (PP (IN about) (NP (NP (DT an) (NNP Interior) (NNP Department) (NN directive)) (PP (TO to) (S (VP (NN log) (NP (NP (DT all) (NNS communications)) (PP (IN with) (NP (NP (NNS Members)) (CC or) (NP (PRP$ their) (NNS staffs))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Congress)) (VP (VBN inserted) (NP (DT the) (NN following)) (PP (IN into) (NP (DT the) (NNP Interior) (NN appropriation))))) (: :) (`` `) (S (`` `) (NP (NP (NN None)) (PP (IN of) (NP (DT the) (NNS funds)))) (ADJP (JJ available)) (SBAR (IN under) (S (NP (DT this) (NN title)) (VP (MD may) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB prepare) (NP (NP (NNS reports)) (PP (IN on) (NP (NP (NNS contacts)) (PP (IN between) (NP (NP (NNS employees)) (PP (IN of) (NP (NP (NP (DT the) (NNP Dept.)) (PP (IN of) (NP (DT the) (NNP Interior) (CC and) (NNP Members)))) (CC and) (NP (NP (NNS committees)) (PP (IN of) (NP (NP (NNP Congress)) (CC and) (NP (PRP$ their) (NN staff))))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NNP White) (NNP House)) (VP (VBD warned) (SBAR (IN that) (S (NP (DT this)) (VP (MD would) (VP (VB be) (NP (NP (DT an) (JJ unconstitutional) (NN usurpation)) (PP (IN of) (NP (PRP$ its) (NN power))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP it)) (VP (VBD threatened) (S (VP (TO to) (VP (VB use) (NP (DT this) (NN provision)) (PP (IN as) (NP (DT the) (NN test))) (PP (IN for) (NP (DT a) (JJ line-item) (NN veto))))))))) (, ,) (NP (NNP Congress)) (VP (VBD caved)) (. .)))
+
+(S1 (S (NP (DT The) (NN fear)) (NP (NNP Congress)) (VP (VBZ has) (PP (IN of) (NP (DT any) (JJ line-item-veto) (NN test))) (VP (VBN led) (S (NP (NNP Members)) (VP (TO to) (VP (VB add) (NP (DT the) (JJ single) (ADJP (RBS most) (JJ contorted) (CC and) (JJ ridiculous)) (NN provision)) (NP (DT this) (NN year)) (, ,) (`` `) (S (`` `) (NP (DT This) (NN section)) (VP (MD shall) (VP (VB be) (ADJP (JJ effective) (PP (ADVP (RB only)) (IN on) (NP (NNP Oct.) (CD 1) (, ,) (CD 1989)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT This)) (VP (VBZ means) (SBAR (S (NP (NNP Interior) (NNS contacts)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN logged) (PP (ADVP (RB only)) (IN on) (NP (NP (CD one) (NN day)) (: --) (NP (NP (DT a) (NNP Sunday)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (ADVP (RB already)) (VP (VBN passed)))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NNP White) (NNP House)) (VP (VBZ is) (VP (VBG looking) (PP (IN for) (NP (DT another) (JJ unconstitutional) (NN bill))))))) (, ,) (NP (NNP Rep.) (NNP John) (NNP Dingell)) (VP (VBZ is) (VP (VBG trying) (ADVP (RB again)) (S (VP (TO to) (VP (VB raise) (NP (DT the) (NN Fairness) (NN Doctrine)) (PP (IN from) (NP (DT the) (NN dead)))))))) (. .)))
+
+(S1 (S (NP (NNP President) (NNP Reagan)) (VP (VBD vetoed) (NP (DT this)) (PP (IN as) (NP (DT a) (NNP First) (NNP Amendment) (NN violation)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (`` `) (ADJP (`` `) (NN Fairness) ('' ')) ('' ') (NNP Doctrine) (POS 's)) (NNS enthusiasts)) (VP (VBP are) (NP (NP (NNS incumbents)) (PP (IN in) (NP (DT the) (NNP House))) (SBAR (WHNP (WP who)) (S (VP (VBP know) (SBAR (S (NP (DT the) (NNS rules)) (VP (VBP squelch) (NP (JJ lively) (NNS discussions)) (PP (IN on) (NP (NNS broadcasts))) (, ,) (S (VP (VBG deterring) (NP (JJ feisty) (NNS challengers)))))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBP are) (ADVP (RB also)) (NP (NP (JJ other) (NNS provisions)) (VP (VBG requiring) (S (NP (NNPS Congressmen)) (VP (TO to) (VP (VB join) (NP (NP (JJ treaty-negotiating) (NNS teams)) (CC and) (NP (NP (JJ new) (NNS restrictions)) (PP (IN on) (NP (NNP OMB))))))))))) (. .)))
+
+(S1 (S (S (NP (JJ Unconstitutional) (NNS bills)) (VP (VBP make) (NP (JJ good) (JJ legal) (NNS targets)))) (, ,) (CC but) (S (NP (DT the) (JJ line-item) (NN veto)) (VP (VBZ is) (VP (ADVP (RB better)) (VBN understood) (PP (IN as) (NP (NP (DT a) (JJ political) (NN opportunity)) (PP (IN than) (PP (IN as) (NP (NP (JJ mere) (NN fodder)) (PP (IN for) (NP (NNS lawyers))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Commenting) (PP (IN on) (NP (DT the) (NN budget) (NN mess))) (NP (DT this) (NN week)))) (, ,) (NP (NNP President) (NNP Bush)) (VP (VBD said) (: :) (`` `) (S (`` `) (NP (NP (DT The) (NN perception)) (ADVP (RB out) (RB there))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT the) (NN fault)) (PP (IN of) (NP (NNP Congress)))))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP you)) (VP (MD can) (VP (VP (VB look) (PP (TO to) (NP (DT the) (NN leadership)))) (CC and) (VP (VB ask) (NP (PRP them)) (SBAR (WHADVP (WRB why)) (S (NP (DT that)) (VP (VBZ is) (NP (NP (DT the) (NN perception)) (PP (IN of) (NP (DT the) (JJ American) (NNS people)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (ADVP (RB Exactly)) (RB right) (. .)))
+
+(S1 (S (NP (RB Now)) (VP (VBZ 's) (NP (NP (DT the) (NN time)) (SBAR (S (VP (TO to) (VP (VB make) (NP (DT the) (JJ political) (NN case) (SBAR (IN that) (S (NP (NNPS Presidents)) (VP (VBP need) (NP (DT the) (JJ line-item) (NN weapon)) (S (VP (TO to) (VP (VB restore) (NP (NN discipline)) (PP (TO to) (NP (DT the) (NN budget)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Congress)) (VP (VBZ is) (PP (IN in) (NP (NP (DT no) (NN position)) (SBAR (S (VP (TO to) (VP (VB naysay) (NP (NNP Mr.) (NNP Bush)) (SBAR (RB now) (IN that) (S (NP (PRP we)) (VP (VBP 're) (PP (IN into) (NP (NP (NNP Gramm-Rudman) (POS 's)) (NN sequestration))))))))))))) (. .)))
+
+(S1 (S (NP (RB Just) (DT this) (NN week)) (, ,) (NP (DT the) (NNP House-Senate) (NN conference)) (VP (VP (VBD met)) (: --) (NP (NP (CD 231) (NNS conferees)) (, ,) (VP (VBN divided) (PP (IN into) (NP (CD 26) (JJ different) (NNS subconferences)))))) (. .)))
+
+(S1 (S (NP (NNP Senator) (NNP Daniel) (NNP Inouye)) (VP (VBD agreed) (S (VP (TO to) (VP (VB close) (NP (NP (DT some) (NNS bases)) (PP (IN in) (NP (NNP Hawaii))) (PP (IN in) (NP (NP (NN exchange)) (PP (IN for) (NP (NP (JJ such) (NNS goodies)) (PP (IN as) (NP (QP ($ $) (CD 11) (CD million)))))) (PP (IN for) (NP (DT a) (NN parking) (NN lot)))))) (PP (IN at) (NP (NNP Walter) (NNP Reed) (NNP Hospital))))))) (. .)))
+
+(S1 (S (NP (NN Conference) (NN negotiator) (NNP Rep.) (NNP Bill) (NNP Hefner)) (VP (VP (VBD pulled) (ADVP (RB down) (NP (QP ($ $) (CD 40) (CD million)))) (PP (IN in) (NP (JJ military) (NNS bases))) (PP (IN for) (NP (NNP North) (NNP Carolina)))) (CC and) (ADVP (RB graciously)) (VP (VBD allowed) (NP (NP (NNP Senator) (NNP James) (NNP Sasser)) (NP (NP (QP ($ $) (CD 70) (CD million))) (PP (IN for) (NP (NP (NNS bases)) (PP (IN in) (NP (NNP Tennessee))))))))) (. .)))
+
+(S1 (S (NP (NNP President) (NNP Bush)) (VP (MD should) (VP (VP (VB take) (NP (DT the) (NNP Constitution)) (PP (IN in) (NP (NP (CD one) (NN hand)) (CC and) (NP (NP (DT a) (NN budget) (NN ax)) (PP (IN in) (NP (DT the) (JJ other))))))) (CC and) (VP (VB get) (S (VP (TO to) (VP (VB work))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (MD should) (VP (VB chop) (PRT (RP out)) (NP (DT both) (NX (NX (JJ unconstitutional) (NNS provisions)) (CC and) (NX (NN budget) (NN pork)))))) (. .)))
+
+(S1 (S (S (NP (NNP Congress)) (VP (MD may) (VP (VB have) (VP (VBN lost) (NP (NP (DT any) (NN sense)) (PP (IN of) (NP (NN discipline)))))))) (, ,) (CC but) (S (NP (DT that)) (VP (VBZ does) (RB n't) (VP (VB mean) (SBAR (S (NP (DT the) (NN country)) (VP (MD must) (VP (VB learn) (S (VP (TO to) (VP (VB live) (ADVP (RB forever)) (PP (IN with) (NP (DT this) (NN mess))))))))))))) (. .)))
+
+(S1 (S (NP (NNP President) (NNP Bush)) (VP (VBZ has) (NP (DT the) (NN power) (S (VP (TO to) (VP (VB change) (SBAR (WHADVP (WRB how)) (S (NP (NNP Washington)) (VP (VBZ works)))) (, ,) (SBAR (IN if) (RB only) (S (NP (PRP he)) (VP (MD will) (VP (VB use) (NP (PRP it))))))))))) (. .)))
+

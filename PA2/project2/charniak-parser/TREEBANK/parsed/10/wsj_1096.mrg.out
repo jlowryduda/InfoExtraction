@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP Ford) (NNP Motor) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG consolidating) (NP (NP (NN control)) (PP (IN of) (NP (PRP$ its) (NNP Asian) (NNS operations)))) (PP (IN under) (NP (NP (DT a) (JJ new) (NN organization)) (ADVP (RB here)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB be) (VP (VBN headed) (PP (IN by) (NP (NNP W.) (NNP Wayne) (NNP Booker))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Ford) (NNP Asia-Pacific)) (VP (MD will) (VP (VB coordinate) (NP (NP (DT the) (NNS activities)) (PP (IN of) (NP (NP (NNP Ford) (NNS subsidiaries)) (PP (IN in) (NP (NP (NNP Japan)) (, ,) (NP (NNP Australia) (, ,) (NNP Taiwan) (CC and) (NNP New) (NNP Zealand)) (CC and) (NP (NP (NN work)) (PP (IN with) (NP (NP (NNP Ford) (NN business) (NNS associates)) (PP (IN throughout) (NP (DT the) (NN region))))))))))))) (. .)))
+
+(S1 (S (NP (DT These) (NNS functions)) (VP (VBP are) (ADVP (RB currently)) (VP (VBN performed) (ADVP (IN out) (PP (PP (IN of) (NP (NP (NNP Melbourne)) (, ,) (NP (NNP Australia)) (, ,))) (CC and) (PP (IN at) (NP (NP (NP (NNP Ford) (POS 's)) (NN headquarters)) (PP (IN in) (NP (NP (NNP Dearborn)) (, ,) (NP (NNP Mich)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Booker)) (, ,) (NP (NP (JJ executive) (NN director)) (PP (IN of) (NP (NP (NNP Ford) (POS 's)) (NNP Latin) (NNP America) (NNP Automotive) (NNP Operations))) (PP (IN since) (NP (NNP December) (CD 1988)))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NNP Ford) (NNP Asia-Pacific))))))) (. .)))
+

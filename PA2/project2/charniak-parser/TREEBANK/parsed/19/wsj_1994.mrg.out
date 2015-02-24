@@ -1,0 +1,14 @@
+(S1 (S (NP (NP (NNP U.S.) (NN steel) (NNS imports)) (PP (IN in) (NP (NNP August)))) (VP (VBD fell) (NP (CD 14) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))) (PP (TO to) (NP (CD 1,531,000) (NNS tons))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NNP American) (NNP Iron) (CC and) (NNP Steel) (NNP Institute))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT The) (NN trade) (NN group) (POS 's)) (NN compilation)) (PP (IN of) (NP (NNP Commerce) (NNP Department) (NNS data)))) (VP (VBD showed) (SBAR (IN that) (S (NP (NP (NNP August) (NNS imports)) (, ,) (NP (NP (DT the) (ADJP (JJ second) (JJS largest)) (JJ monthly) (NN total)) (PP (IN of) (NP (DT the) (NN year)))) (, ,)) (VP (VBD were) (ADVP (RB up) (NP (CD 5) (NN %)) (PP (PP (IN from) (NP (NP (NNP July) (POS 's)) (CD 1,458,000) (NNS tons))) (CC but) (PP (IN below) (NP (NP (NP (JJ last) (NN year) (POS 's)) (NN high)) (PP (IN of) (NP (CD 1,979,000) (NNS tons))) (PP (IN in) (NP (NNP June) (CD 1988))))))))))) (. .)))
+
+(S1 (S (NP (NNP August) (NNS imports)) (VP (VBD claimed) (NP (NP (CD 18.5) (NN %)) (PP (IN of) (NP (DT the) (NNP U.S.) (NN market)))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (NP (CD 19.3) (NN %)) (PP (IN in) (NP (NNP July)))) (CC and) (NP (NP (CD 20.5) (NN %)) (PP (IN in) (NP (NNP August) (CD 1988)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJS latest) (NN month) (POS 's)) (NNS figures)) (VP (VBP show) (SBAR (IN that) (S (NP (NP (NNS imports)) (PP (IN of) (NP (NN steel))) (PP (IN from) (NP (NNP European) (NNP Community) (NNS nations)))) (VP (VBD fell) (PP (TO to) (NP (CD 466,000) (NNS tons))) (PP (IN from) (NP (CD 481,000)) (ADVP (NP (DT a) (NN month)) (RBR earlier))) (, ,) (SBAR (IN while) (S (NP (NP (NNS imports)) (PP (IN from) (NP (NNP Japan)))) (VP (VBD rose) (PP (TO to) (NP (CD 323,000) (NNS tons))) (PP (IN from) (NP (CD 288,000)) (PP (IN in) (NP (NNP July))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Imports)) (PP (IN from) (NP (NNP Canada)))) (VP (VBD rose) (PP (TO to) (NP (CD 272,000) (NNS tons))) (PP (IN in) (NP (NNP August))) (PP (IN from) (NP (CD 209,000)) (PP (IN in) (NP (NNP July))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP American) (NNP Institute)) (PP (IN for) (NP (VBN Imported) (NN Steel)))) (VP (VBD said) (SBAR (S (NP (NP (NNS imports)) (PP (IN for) (NP (NP (DT the) (JJ first) (CD eight) (NNS months)) (PP (IN of) (NP (CD 1989)))))) (VP (VBD were) (PP (IN below) (NP (NP (DT the) (NN level)) (VP (VBN allowed) (PP (IN by) (NP (DT the) (JJ Voluntary) (NN Restraint) (NN Agreement) (NN program)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN institute)) (VP (VBD said) (SBAR (IN that) (S (, ,) (PP (VBG excluding) (NP (VBN semifinished) (NN steel) (NNS products))) (, ,) (NP (JJ year-to-date) (NNS imports)) (VP (VBD represented) (NP (NP (CD 15.2) (NN %)) (PP (IN of) (NP (NN consumption)))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (DT a) (VBN permitted) (NN maximum)) (PP (IN of) (NP (CD 18.5) (NN %)))))))))) (. .)))
+

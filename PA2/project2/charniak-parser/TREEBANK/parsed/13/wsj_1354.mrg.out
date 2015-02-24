@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP CMS) (NNS Enhancements)) (NP (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ estimates) (SBAR (IN that) (S (NP (NP (NNS sales) (CC and) (NNS earnings)) (PP (IN for) (NP (NP (DT the) (JJ fiscal) (JJ first) (NN quarter)) (VP (VBN ended) (NP (NNP Sept.) (CD 30)))))) (VP (VBD fell) (ADVP (RB somewhat)) (PP (IN from) (NP (DT the) (JJ year-earlier) (NN period)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Jim) (NNP Farooquee)) (, ,) (NP (NP (JJ chief) (NN executive) (NN officer)) (PP (IN of) (NP (DT the) (NAC (NNP Tustin) (, ,) (NNP Calif.) (, ,)) (NN computer) (NNS accessories) (NN supplier)))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (`` `) (ADJP (`` `) (JJ comfortable) ('' ')) ('' ') (PP (IN with) (NP (NP (NNS analysts) (POS ')) (NNS expectations) (SBAR (IN that) (S (NP (NNP CMS)) (VP (MD would) (VP (VB earn) (PP (IN between) (NP (NP (NP (CD six) (NNS cents)) (CC and) (NP (NP (CD eight) (NNS cents)) (NP (DT a) (NN share)))) (PP (IN on) (NP (NP (NN revenue)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 42) (CD million))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (NN year)) (RBR earlier)) (, ,) (NP (NNP CMS)) (VP (VBD posted) (NP (NP (NN profit)) (PP (IN of) (NP (NP (QP ($ $) (CD 1.1) (CD million))) (, ,) (CC or) (NP (NP (CD 13) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 48) (CD million)))))))) (. .)))
+
+(S1 (S (NP (DT This) (NN time)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (ADJP (NP (CD 30) (NN %)) (JJR more)) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Farooquee)) (VP (VBD attributed) (NP (DT the) (NN decline)) (PP (TO to) (NP (NP (DT an) (JJ industrywide) (NN softening)) (PP (IN of) (NP (NP (NN demand)) (PP (IN for) (NP (NN computer) (NN enhancement) (NNS products)))))))) (. .)))
+

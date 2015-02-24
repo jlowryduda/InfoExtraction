@@ -1,0 +1,14 @@
+(S1 (S (NP (NP (NNP Heritage) (NNP Media) (NNP Corp.)) (, ,) (NP (NNP New) (NNP York)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD offered) (S (VP (TO to) (VP (VB buy) (NP (NP (DT the) (NNS shares)) (PP (IN of) (NP (NNP POP) (NNP Radio) (NNP Corp.))) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB already)) (VP (JJ own)))))) (PP (IN in) (NP (DT a) (NN stock) (NN swap)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Heritage)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NP (CD 51) (NN %)) (PP (IN of) (NP (NP (NP (NNP POP) (POS 's)) (QP (CD 3.6) (CD million)) (NNS shares)) (ADJP (JJ outstanding)))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB exchange) (NP (NP (CD one) (NN share)) (PP (IN of) (NP (DT a) (JJ new) (VBN preferred) (NN stock)))) (PP (IN for) (NP (NP (DT each) (NN POP) (JJ common) (NN share)) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB already)) (VP (JJ own)))))))))))) (. .)))
+
+(S1 (S (PP (VBG Depending) (PP (IN upon) (SBAR (WHADVP (WRB how) (JJ many)) (S (NP (NNS warrants) (CC and) (NNS options)) (VP (VBP are) (VP (VBN exercised) (PP (RB prior) (TO to) (NP (NP (NN completion)) (PP (IN of) (NP (DT the) (NN transaction))))))))))) (, ,) (NP (NNP Heritage)) (VP (MD would) (VP (VB issue) (NP (NP (QP (IN between) (CD 1.8) (CD million) (CC and) (CD 2.35) (CD million)) (JJ preferred) (NNS shares)) (, ,) (SBAR (S (NP (DT a) (NNP Heritage) (NN spokesman)) (VP (VBD estimated))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ national) (JJ over-the-counter) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NN POP)) (VP (VBD plunged) (NP (QP ($ $) (CD 4) (TO to) ($ $) (CD 14.75)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ preferred) (NN stock)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD would) (VP (VB have) (NP (NP (DT a) (NN dividend) (NN rate)) (PP (IN of) (NP (NP ($ $) (CD 1.76)) (NP (DT a) (NN year))))))))) (, ,)) (VP (MD would) (VP (VB be) (ADJP (JJ convertible) (PP (IN into) (NP (NNP Heritage) (JJ common))) (PP (IN at) (NP (NP (DT a) (NN rate)) (PP (IN of) (NP (NP (CD four) (JJ common) (NNS shares)) (PP (IN for) (NP (DT each) (JJ preferred)))))))))) (. .)))
+
+(S1 (S (NP (ADJP (NNP New) (JJ York-based)) (NNP POP) (NNP Radio)) (VP (VBZ provides) (, ,) (PP (IN through) (NP (DT a) (JJ national) (, ,) (JJ in-store) (NN network))) (, ,) (NP (NP (DT a) (JJ customized) (NN music) (, ,) (NN information) (CC and) (NN advertising) (NN service)) (SBAR (WHNP (WDT which)) (S (VP (VBZ simulates) (NP (JJ live) (NN radio))))))) (. .)))
+
+(S1 (S (NP (NNP Heritage)) (VP (VBZ owns) (CC and) (VBZ operates) (NP (NP (NP (NN television) (CC and) (NN radio) (NNS stations)) (CC and) (NP (JJ in-store) (NN advertising))) (CC and) (NP (NN promotion) (NNS programs)))) (. .)))
+

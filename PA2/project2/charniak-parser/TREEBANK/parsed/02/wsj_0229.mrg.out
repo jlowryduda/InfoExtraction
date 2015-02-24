@@ -1,0 +1,18 @@
+(S1 (S (NP (NNP SFE) (NNP Technologies)) (VP (VBD said) (SBAR (S (NP (NNP William) (NNP P.) (NNP Kuehn)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (DT this) (JJ troubled) (NNS electronics) (NNS parts) (NN maker)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ 45-year-old) (NNP Mr.) (NNP Kuehn)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (NP (NP (DT a) (NN background)) (PP (IN in) (NP (NN crisis) (NN management))))))) (, ,)) (VP (VBZ succeeds) (NP (NP (NNP Alan) (NNP D.) (NNP Rubendall)) (, ,) (NP (CD 45)))) (. .)))
+
+(S1 (S (NP (NP (NNP Jerome) (NNP J.) (NNP Jahn)) (, ,) (NP (NP (JJ executive) (NN vice) (NN president)) (CC and) (NP (JJ chief) (JJ financial) (NN officer))) (, ,)) (VP (VBD said) (SBAR (S (NP (NNP Mr.) (NNP Rubendall)) (VP (VBD was) (VP (VBG resigning) (PP (IN by) (NP (`` `) (NP (`` `) (JJ mutual) (NN agreement) ('' ')) ('' ') (PP (IN with) (NP (DT the) (NN board)))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP He)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB pursue) (NP (JJ other) (NNS interests))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Jahn)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Rubendall)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Kuehn)) (PRN (, ,) (S (NP (DT the) (NN company)) (VP (VBD said))) (, ,)) (VP (MD will) (VP (VB retain) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (JJ current) (NN management) (NN team)))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (DT the) (CD nine) (NNS months)) (VP (VBN ended) (NP (NNP July) (CD 29))))) (, ,) (NP (NNP SFE) (NNP Technologies)) (VP (VBD reported) (NP (NP (DT a) (JJ net) (NN loss)) (PP (IN of) (NP ($ $) (CD 889,000))) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 23.4) (CD million)))))))) (. .)))
+
+(S1 (S (NP (IN That)) (VP (VBN compared) (PP (IN with) (NP (NP (DT an) (NN operating) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 1.9) (CD million)))) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (NP (QP ($ $) (CD 27.4) (CD million))) (PP (IN in) (NP (DT the) (JJ year-earlier) (NN period)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ national) (JJ over-the-counter) (NN trading))) (, ,) (NP (NNP SFE) (NNPS Technologies) (NNS shares)) (VP (VBD closed) (NP (NN yesterday)) (PP (IN at) (NP (NP (CD 31.25) (NNS cents)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB up) (NP (CD 6.25) (NNS cents)))) (. .)))
+

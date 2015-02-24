@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Clarcor) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB sell) (NP (PRP$ its) (NNP J.L.) (NNP Clark) (NNP Inc.) (NN subsidiary)) (PP (TO to) (NP (NP (DT a) (NN group)) (VP (VBN headed) (PP (IN by) (NP (NNP Anderson) (NNPS Industries) (NNP Inc.)))))) (PP (IN for) (NP (QP ($ $) (CD 70.3) (CD million)))))))) (VP (VBZ has) (VP (VBN been) (VP (VBN terminated))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Clarcor)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NN packaging) (CC and) (NN filtration) (NNS products)))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (CD two) (NNS companies)) (VP (MD could) (RB n't) (VP (VB agree) (PP (IN on) (NP (NP (NNS terms)) (PP (IN of) (NP (DT a) (JJ definitive) (NN agreement)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN sale) (NN price)) (PP (IN of) (NP (NP (DT the) (NN unit)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NN packaging) (NNS products))))) (, ,)))) (VP (VBD was) (S (VP (TO to) (VP (VB consist) (PP (IN of) (NP (NP (NN cash)) (, ,) (NP (NNS notes)) (CC and) (NP (DT an) (NN amount) (S (VP (TO to) (VP (VB be) (VP (VBN determined) (PP (IN by) (NP (NP (DT the) (NN unit) (POS 's)) (JJ future) (NN performance)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Clarcor)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG inviting) (NP (NP (NNS proposals)) (PP (IN from) (NP (NP (JJ other) (JJ prospective) (NNS purchasers)) (PP (IN of) (NP (DT the) (NN unit))))))))))) (. .)))
+
+(S1 (S (NP (DT Both) (NNP Clarcor) (CC and) (NNP Anderson)) (VP (VBP are) (VP (VBN based) (PP (IN in) (NP (NP (NNP Rockford)) (, ,) (NP (NNP Ill)))))) (. .)))
+

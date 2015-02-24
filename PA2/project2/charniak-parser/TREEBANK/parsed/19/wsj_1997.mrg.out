@@ -1,0 +1,10 @@
+(S1 (S (NP (NP (NNP Blinder) (NNP International) (NNPS Enterprises) (NNP Inc.)) (, ,) (NP (NP (DT the) (NN parent)) (PP (IN of) (NP (JJ beleaguered) (NN penny-stockbroker) (NNP Blinder) (, ,) (NNP Robinson) (CC &) (NNP Co.)))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NNS shareholders)) (VP (VBD approved) (NP (DT a) (ADJP (RB previously) (VBN announced)) (NN name) (NN change)) (PP (TO to) (NP (NNP Intercontinental) (NNPS Enterprises) (NNP Inc))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN parent) (NN company)) (VP (VBZ is) (VP (VBG diversifying) (PP (IN into) (NP (JJ other) (NNS industries))) (PP (IN around) (NP (DT the) (NN world))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NN president) (NNP Meyer) (NNP Blinder)) (PP (IN in) (S (VP (VBG explaining) (NP (DT the) (NN name) (NN change))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (NNP Everytime) (S (NP (PRP we)) (VP (VBD talked) (PP (IN about) (NP (NNP Blinder) (NNP International)))))) (, ,) (-LRB- -LCB-) (NP (NNS people)) (-RRB- -RCB-) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (DT the) (NN brokerage) (NN house)))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Blinder)) (VP (VBD said) (SBAR (S (NP (DT the) (NN change)) (VP (VBD was) (RB n't) (ADJP (VBN related) (PP (TO to) (NP (NP (DT the) (NN brokerage) (POS 's)) (JJ recent) (NNS troubles)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (VP (VBN included) (NP (NP (NP (JJ sharp) (NNS declines)) (PP (IN in) (NP (NNS earnings)))) (, ,) (NP (NP (NNS run-ins)) (PP (IN with) (NP (DT the) (NNS securities) (NNS regulators)))) (CC and) (NP (NNS lawsuits))) (PP (IN by) (NP (JJ former) (NNS customers))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (NP (DT the) (NN name) (NN change)) (VP (TO to) (VP (VB take) (NP (NN effect)) (PP (IN within) (NP (DT a) (NN week)))))))))) (. .)))
+

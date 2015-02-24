@@ -1,0 +1,6 @@
+(S1 (S (NP (NP (NNP John) (NNP A.) (NNP Conlon) (NNP Jr.)) (, ,) (NP (CD 45)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (DT a) (VBG managing) (NN director)) (PP (IN at) (NP (DT this) (NN investment-banking) (NN company))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (MD will) (VP (VB be) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (NP (NN research)) (, ,) (NP (NN equity) (NNS sales) (CC and) (NN trading)) (, ,) (CC and) (NP (NP (DT the) (NN syndicate) (NN operation)) (PP (IN of) (NP (NNP Rothschild)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Conlon)) (VP (VBD was) (NP (NP (JJ executive) (NN vice) (NN president)) (CC and) (NP (NP (NN director)) (PP (IN of) (NP (NP (DT the) (NN equity) (NN division)) (PP (IN of) (NP (NP (DT the) (JJ international) (NN division)) (PP (IN of) (NP (NNP Nikko) (NNP Securities) (NNP Co)))))))))) (. .)))
+

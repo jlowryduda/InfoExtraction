@@ -1,0 +1,8 @@
+Location: /usr/local/parseIt/
+
+Command:
+
+/usr/local/parseIt/PARSE/parseIt /usr/local/parseIt/DATA/EN/ 
+  sample-sentences.txt
+
+use -P for pretty print

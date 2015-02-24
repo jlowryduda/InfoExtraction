@@ -1,0 +1,100 @@
+(S1 (S (PP (IN Of) (NP (NP (PDT all) (DT the) (JJ one-time) (NNS expenses)) (VP (VBN incurred) (PP (IN by) (NP (NP (DT a) (NN corporation)) (CC or) (NP (JJ professional) (NN firm))))))) (, ,) (NP (JJ few)) (VP (VBP are) (ADJP (ADJP (JJR larger) (CC or) (JJR longer) (NN term)) (PP (IN than) (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (NP (JJ real) (NN estate)) (CC or) (NP (NP (DT the) (NN signing)) (PP (IN of) (NP (DT a) (JJ commercial) (NN lease)))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB take) (NP (NP (JJ full) (NN advantage)) (PP (IN of) (NP (NP (DT the) (JJ financial) (NNS opportunities)) (PP (IN in) (NP (DT this) (NN commitment))))))))) (, ,) (ADVP (RB however)) (, ,) (NP (NP (DT the) (NN corporation)) (CC or) (NP (JJ professional) (NN firm))) (VP (MD must) (VP (VB do) (NP (NP (JJR more)) (PP (IN than) (VP (VB negotiate) (NP (NP (DT the) (JJS best) (NN purchase) (NN price)) (CC or) (NP (NN lease) (NNS terms)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD must) (ADVP (RB also)) (VP (VB evaluate) (NP (DT the) (NN real-estate) (NN market)) (PP (IN in) (NP (NP (DT the) (VBN chosen) (NN location)) (PP (IN from) (NP (DT a) (JJ new) (NN perspective))))))) (. .)))
+
+(S1 (S (ADVP (RB Specifically)) (, ,) (NP (PRP it)) (VP (MD must) (VP (VB understand) (SBAR (WHADVP (WRB how)) (S (NP (NN real-estate) (NNS markets)) (VP (VP (VB overreact) (PP (TO to) (NP (NP (NNS shifts)) (PP (IN in) (NP (JJ regional) (NNS economies)))))) (CC and) (RB then) (VP (VB take) (NP (NP (NN advantage)) (PP (IN of) (NP (DT these) (NNS opportunities)))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT a) (JJ regional) (NN economy)) (VP (VBZ catches) (ADJP (JJ cold))))) (, ,) (NP (DT the) (JJ local) (NN real-estate) (NN market)) (VP (VBZ gets) (NP (NN pneumonia))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (NP (NN real-estate) (NN market) (NNS indicators)) (, ,) (PP (JJ such) (IN as) (NP (NP (NN building) (NNS permits)) (CC and) (NP (NN leasing) (NN activity)))) (, ,)) (VP (VBP plummet) (ADJP (ADJP (RB much) (JJR further)) (PP (IN than) (NP (NP (DT a) (JJ local) (NN economy)) (PP (IN in) (NP (NN recession))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBD was) (VP (VBN seen) (PP (IN in) (NP (NP (NP (DT the) (JJ late) (NNS 1960s)) (PP (IN in) (NP (NNP Los) (NNP Angeles)))) (CC and) (NP (NP (DT the) (NNS mid-1970s)) (PP (IN in) (NP (NNP New) (NNP York)))))))) (. .)))
+
+(S1 (S (CC But) (S (NP (DT the) (NN reverse)) (VP (VBZ is) (ADVP (RB also)) (ADJP (JJ true)))) (: :) (S (SBAR (WHADVP (WRB When)) (S (NP (NP (DT a) (NN region) (POS 's)) (NN economy)) (VP (VBZ rebounds) (PP (IN from) (NP (DT a) (NN slowdown)))))) (, ,) (NP (DT these) (NN real-estate) (NNS indicators)) (VP (MD will) (VP (VB rebound) (ADJP (ADJP (RB far) (JJR faster)) (PP (IN than) (NP (DT the) (VBG improving) (NN economy))))))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (JJ local) (NN real-estate) (NNS markets)) (VP (VB overreact) (PP (TO to) (NP (JJ regional) (JJ economic) (NNS cycles))))) (. ?)))
+
+(S1 (FRAG (SBAR (IN Because) (S (NP (NN real-estate) (NNS purchases) (CC and) (NNS leases)) (VP (VBP are) (NP (NP (JJ such) (JJ major) (JJ long-term) (NNS commitments)) (SBAR (WHNP (WDT that)) (S (NP (JJS most) (NNS companies) (CC and) (NNS individuals)) (VP (VBP make) (NP (DT these) (NNS decisions)) (SBAR (WHADVP (RB only) (WRB when)) (FRAG (ADJP (JJ confident) (PP (IN of) (NP (NP (JJ future) (JJ economic) (NN stability)) (CC and) (NP (NN growth)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Metropolitan) (NNP Detroit)) (VP (VBD was) (VP (VBN written) (PRT (RP off)) (ADVP (RB economically)) (PP (IN during) (NP (DT the) (JJ early) (CD 1980s))) (, ,) (SBAR (IN as) (S (NP (DT the) (JJ domestic) (NN auto) (NN industry)) (VP (VBD suffered) (NP (NP (DT a) (JJ serious) (NNS sales) (NN depression)) (CC and) (NP (NN adjustment)))))))) (. .)))
+
+(S1 (S (S (NP (NN Area) (NN employment)) (VP (VBD dropped) (PP (IN by) (NP (CD 13) (NN %))) (PP (IN from) (NP (PRP$ its) (CD 1979) (NN peak))))) (CC and) (S (NP (JJ retail) (NNS sales)) (VP (VBD were) (ADVP (RB down) (NP (CD 14) (NN %))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (DT the) (NN real-estate) (NN market)) (VP (VBD was) (VP (VBN hurt) (ADVP (RB even) (RBR more)))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (JJ residential) (NN building) (NNS permits)) (PP (IN in) (NP (DT the) (NN trough) (NN year))) (PP (IN of) (NP (CD 1982)))) (VP (VBD were) (ADVP (IN off) (NP (CD 76) (NN %)) (PP (IN from) (NP (DT the) (ADJP (CD 1979) (NN peak)) (NN level))))) (. .)))
+
+(S1 (S (SBAR (IN Once) (S (NP (NP (JJ metropolitan) (NNP Detroit) (POS 's)) (NN economy)) (VP (VBD rallied) (PP (IN in) (NP (DT the) (NNS mid-1980s)))))) (, ,) (NP (JJ real) (NN estate)) (VP (VBD rebounded)) (. .)))
+
+(S1 (S (NP (NN Building) (NNS permits)) (PRN (, ,) (PP (IN for) (NP (NN example))) (, ,)) (VP (VBD soared) (NP (DT a) (JJ staggering) (CD 400) (NN %)) (PP (IN between) (NP (NP (CD 1982)) (CC and) (NP (NP (DT the) (JJ peak) (NN year)) (PP (IN of) (NP (CD 1986))))))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB Where)) (PRN (, ,) (S (NP (NP (JJ savvy) (NNS corporations)) (CC and) (NP (JJ professional) (NNS firms))) (VP (VBP are) (ADVP (RB now)) (VP (VBG asking)))) (, ,)) (SQ (VP (VBP are) (NP (NP (NN today) (POS 's)) (NNS opportunities)))) (. ?)))
+
+(S1 (S (VP (VB Look) (ADVP (ADVP (DT no) (RBR further)) (PP (IN than) (NP (NP (JJ metropolitan) (NNP Houston)) (CC and) (NP (NP (NNP Denver)) (, ,) (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (ADJP (ADJP (RBS most) (JJ depressed)) (, ,) (ADJP (JJ overbuilt)) (CC and) (ADJP (RB potentially) (JJ undervalued))) (NN real-estate) (NNS markets)) (PP (IN in) (NP (DT the) (NN nation))))))))))) (. .)))
+
+(S1 (S (PP (IN Of) (NP (NN course))) (, ,) (NP (DT some) (NNS observers)) (VP (VBP have) (VP (VBN touted) (NP (NP (NNP Houston)) (CC and) (NP (NNP Denver))) (PP (IN for) (NP (DT the) (JJ past) (CD five) (NNS years))) (PP (IN as) (NP (DT a) (JJ counter-cyclical) (NN play))))) (. .)))
+
+(S1 (S (CC But) (NP (RB now)) (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (NN time)) (SBAR (S (VP (TO to) (VP (VB act)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Metropolitan) (NNP Houston) (POS 's)) (NN economy)) (VP (VBD did) (VP (VP (VB drop)) (CC and) (RB then) (VP (VB flatten) (PP (IN in) (NP (NP (DT the) (NNS years)) (PP (IN after) (NP (PRP$ its) (CD 1982) (NN peak)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNS mid-1980s))) (, ,) (S (NP (NN employment)) (VP (VBD was) (ADVP (RB down) (NP (QP (RB as) (JJ much) (IN as) (CD 5)) (NN %))) (PP (IN from) (NP (DT the) (CD 1982) (NN peak))))) (CC and) (S (NP (JJ retail) (NNS sales)) (VP (VBD were) (ADVP (RB off) (NP (CD 13) (NN %))))) (. .)))
+
+(S1 (S (NP (DT The) (NN real-estate) (NN market)) (VP (VBN suffered) (NP (ADJP (RB even) (JJR more)) (JJ severe) (NNS setbacks))) (. .)))
+
+(S1 (S (NP (NN Office) (NN construction)) (VP (VBD dropped) (NP (CD 97) (NN %))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN vacancy) (NN rate)) (VP (VBD soared) (NP (QP (JJR more) (IN than) (CD 20)) (NN %)) (PP (IN in) (NP (ADJP (RB nearly) (DT every)) (NN product) (NN category))))) (, ,) (CC and) (S (NP (NP (QP (JJR more) (IN than) (CD 30)) (NN %)) (PP (IN of) (NP (NN office) (NN space)))) (VP (VBD was) (ADJP (JJ vacant)))) (. .)))
+
+(S1 (S (PP (TO To) (NP (DT some) (NNS observers))) (, ,) (NP (NP (DT the) (JJ empty) (NN office) (NNS buildings)) (PP (IN of) (S (NP (NNP Houston) (POS 's)) (`` `) (NP (`` `) (JJ see-through) (NN skyline) ('' ')) ('' ')))) (VP (VBD were) (ADJP (JJ indicative) (PP (IN of) (NP (DT a) (ADJP (RB very) (JJ troubled)) (NN economy))))) (. .)))
+
+(S1 (S (PP (IN As) (ADJP (JJ usual))) (, ,) (NP (DT the) (NN real-estate) (NN market)) (VP (VBD had) (VP (VBN overreacted))) (. .)))
+
+(S1 (S (ADVP (RB Actually)) (, ,) (NP (NP (DT the) (NN region) (POS 's)) (NN economy)) (VP (VBD retained) (NP (DT a) (JJ firm) (NN foundation))) (. .)))
+
+(S1 (S (NP (NP (NNP Metropolitan) (NNP Houston) (POS 's)) (NN population)) (VP (VBZ has) (VP (VBD held) (ADVP (RB steady)) (PP (IN over) (NP (DT the) (JJ past) (CD six) (NNS years))))) (. .)))
+
+(S1 (S (CC And) (NP (JJ personal) (NN income)) (, ,) (PP (IN after) (S (VP (VBG slumping) (PP (IN in) (NP (DT the) (NNS mid-1980s)))))) (, ,) (VP (VBZ has) (VP (VBN returned) (PP (TO to) (NP (PRP$ its) (CD 1982) (NN level))) (PP (IN in) (NP (JJ real) (NN dollar) (NNS terms))))) (. .)))
+
+(S1 (S (NP (NN Today)) (, ,) (NP (NP (JJ metropolitan) (NNP Houston) (POS 's)) (NN real-estate) (NN market)) (VP (VBZ is) (VP (VBN poised) (PP (IN for) (NP (DT a) (JJ significant) (NN turnaround))))) (. .)))
+
+(S1 (S (NP (QP (JJR More) (IN than) (CD 42,000)) (NNS jobs)) (VP (VBD were) (VP (VBN added) (PP (PP (IN in) (NP (NN metro) (NNP Houston) (JJ last) (NN year))) (, ,) (RB primarily) (PP (IN in) (NP (NP (NN biotechnology)) (, ,) (NP (NN petrochemical) (NN processing)) (, ,) (CC and) (NP (DT the) (NN computer) (NN industry))))))) (. .)))
+
+(S1 (S (NP (DT This) (NN growth)) (VP (VBZ puts) (NP (NNP Houston)) (PP (IN in) (NP (NP (DT the) (JJ top) (CD five) (NN metro) (NNS areas)) (PP (IN in) (NP (NP (DT the) (NN nation)) (NP (JJ last) (NN year))))))) (. .)))
+
+(S1 (S (CC And) (NP (NNS forecasts)) (VP (VBP project) (NP (NP (DT a) (ADJP (QP (CD 2.5) (NN %) (TO to) (CD 3)) (NN %)) (NN growth) (NN rate)) (PP (IN in) (NP (NNS jobs)))) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS years))) (: --) (NP (RB nearly) (RB twice) (DT the) (JJ national) (NN average))) (. .)))
+
+(S1 (S (NP (NNP Denver)) (VP (VBZ is) (NP (NP (DT another) (JJ metropolitan) (NN area)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ commercial) (NN real-estate) (NN market)) (VP (VBZ has) (VP (VBN overreacted) (PP (TO to) (NP (NP (DT the) (NN region) (POS 's)) (JJ economic) (NNS trends))) (, ,) (SBAR (IN although) (S (NP (NNP Denver)) (VP (VBZ has) (RB not) (VP (VBN experienced) (PP (IN as) (NP (NP (JJ severe) (DT an) (JJ economic) (NN downturn)) (PP (IN as) (NP (NNP Houston))))))))))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (DT some) (NNS measures))) (, ,) (NP (NP (JJ metropolitan) (NNP Denver) (POS 's)) (NN economy)) (VP (VBZ has) (ADVP (RB actually)) (VP (VBN improved) (PP (IN in) (NP (DT the) (JJ past) (CD four) (NNS years))))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NN population)) (VP (VBZ has) (VP (VBN continued) (S (VP (TO to) (VP (VB increase) (PP (IN since) (NP (NP (CD 1983)) (, ,) (NP (NP (DT the) (JJ peak) (NN year)) (PP (IN of) (NP (DT the) (JJ economic) (NN cycle))))))))))) (. .)))
+
+(S1 (S (NP (NN Employment)) (VP (VBZ is) (ADVP (RB now)) (ADJP (ADJP (NP (CD 4) (NN %)) (JJR higher)) (PP (IN than) (PP (IN in) (NP (CD 1983)))))) (. .)))
+
+(S1 (S (NP (NP (NN Buying) (NN income)) (PP (IN in) (NP (JJ real) (NNS dollars)))) (ADVP (RB actually)) (VP (VBD increased) (NP (CD 15) (NN %)) (PP (IN between) (NP (NP (CD 1983)) (CC and) (NP (NP (CD 1987)) (-LRB- -LRB-) (NP (NP (DT the) (ADJP (RBS most) (JJ recent)) (NN year)) (ADJP (JJ available))) (-RRB- -RRB-))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NNS rates)) (PP (IN of) (NP (NN increase)))) (, ,) (ADVP (RB however)) (, ,) (VP (VBP are) (NP (ADJP (ADJP (JJR less)) (PP (IN than) (NP (NP (DT the) (JJ rapid) (NN growth)) (PP (IN of) (NP (DT the) (NN boom)))))) (NNS years)))) (, ,) (CC and) (S (NP (DT this)) (VP (VBZ has) (VP (VBN resulted) (PP (IN in) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (NP (NN confidence)) (PP (IN in) (NP (DT the) (NN economy)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (JJ self-fulfilling) (NN prophecy))) (, ,) (ADVP (RB therefore)) (, ,) (NP (NP (DT the) (NN region) (POS 's)) (NN real-estate) (NN market)) (VP (ADVP (DT all) (CC but)) (VBD collapsed) (PP (IN in) (NP (JJ recent) (NNS years)))) (. .)))
+
+(S1 (S (NP (NN Housing) (NN building) (NNS permits)) (VP (VBP are) (ADVP (RB down) (NP (QP (JJR more) (IN than) (CD 75)) (NN %)) (PP (IN from) (NP (PRP$ their) (CD 1983) (NNS peaks))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (DT no) (PRP one)) (VP (MD can) (VP (VB predict) (SBAR (WHADJP (WRB when) (JJ metropolitan)) (S (NP (NP (NNP Denver) (POS 's)) (NN real-estate) (NN market)) (VP (MD will) (VP (VB rebound))))))))) (, ,) (NP (NP (JJ major) (JJ public) (NNS works) (NNS projects)) (VP (VBG costing) (NP (QP (JJ several) (CD billion)) (NNS dollars)))) (VP (VBP are) (PP (IN under) (NP (NP (NP (NN way) (CC or) (JJ planned)) (PRN (: --) (PP (JJ such) (IN as) (NP (DT a) (JJ new) (NN convention) (NN center))) (, ,) (NP (DT a) (JJ major) (NNP beltway)) (VP (VBG encircling) (NP (DT the) (JJ metropolitan) (NN area))) (, ,))) (CC and) (NP (DT a) (JJ new) (JJ regional) (NN airport))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NP (NNP Denver) (POS 's)) (JJ regional) (NN economy)) (VP (VBZ begins) (S (VP (TO to) (VP (VB grow) (ADVP (RBR faster)))))))) (PRN (: --) (S (NP (PDT such) (DT a) (NN recovery)) (VP (MD could) (VP (VB occur) (ADVP (ADVP (RB as) (RB early)) (PP (IN as) (NP (JJ next) (NN year))))))) (: --)) (S (NP (NN business) (CC and) (NN consumer) (NN confidence)) (VP (MD will) (VP (VB return)))) (, ,) (CC and) (S (NP (NP (DT the) (VBG resulting) (NN explosion)) (PP (IN of) (NP (NN real-estate) (NN activity)))) (VP (MD will) (VP (VB dwarf) (NP (DT the) (JJ general) (JJ economic) (NN rebound))))) (. .)))
+
+(S1 (SBARQ (WHNP (WP What) (NN real-estate) (NN strategy)) (SQ (MD should) (NP (PRP one)) (VP (VB follow) (PP (IN in) (NP (NP (DT a) (JJ metropolitan) (NN area)) (SBAR (WHNP (WP$ whose) (JJ economic) (NN health)) (S (VP (VBZ is) (RB not) (ADJP (RB as) (JJ easy) (SBAR (S (VP (TO to) (VP (VB determine) (PP (IN as) (NP (NP (NNP Houston) (POS 's)) (CC or) (NP (NNP Denver) (POS 's)))))))))))))))) (. ?)))
+
+(S1 (S (ADVP (RB Generally)) (, ,) (NP (NP (NN overcapacity)) (PP (IN in) (NP (JJ commercial) (JJ real) (NN estate)))) (VP (VBZ is) (VP (VBG dropping) (PP (PP (IN from) (NP (PRP$ its) (NNS mid-1980s) (NN peak))) (, ,) (RB even) (PP (IN in) (NP (NP (JJ such) (ADJP (RB economically) (JJ healthy)) (JJ metropolitan) (NNS areas)) (PP (IN as) (NP (NP (NNP Washington)) (, ,) (NP (NNP New) (NNP York)) (CC and) (NP (NNP Los) (NNP Angeles))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Vacancy) (NNS rates)) (PP (IN in) (NP (DT the) (ADJP (QP (CD 15) (NN %) (TO to) (CD 19) (NN %))) (NN range)))) (NP (NN today)) (VP (MD may) (ADVP (RB easily)) (VP (VB rise) (PP (TO to) (NP (DT the) (ADJP (JJ low) (PP (TO to) (NP (CD mid-20) (NN %)))) (NN range))) (PP (IN in) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT these) (NNS conditions))) (, ,) (NP (NP (RB even) (DT a) (NN flattening)) (PP (IN out) (PP (IN of) (NP (JJ economic) (NN growth)))) (PRN (: --) (NP (`` `) (NP (`` `) (VBG catching) (NN cold) ('' ')) ('' ')) (: --)) (PP (IN in) (NP (DT the) (JJ healthy) (JJ metropolitan) (NNS areas)))) (VP (MD will) (VP (VB create) (NP (JJ significant) (NNS opportunities)) (PP (IN for) (NP (NP (NNS corporations)) (CC and) (NP (NP (JJ professional) (NN service) (NNS firms)) (VP (VBG looking) (PP (IN for) (NP (NP (NNS bargains)) (PP (IN as) (NP (DT the) (JJ realestate) (NN industry) (NNS catches) (NN pneumonia))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT Those)) (VP (VBG looking) (PP (IN for) (NP (NP (NN real-estate) (NNS bargains)) (PP (IN in) (NP (JJ distressed) (JJ metropolitan) (NNS areas))))))) (VP (MD should) (VP (VP (VB lock) (PP (IN in) (NP (NNS leases)))) (CC or) (VP (VB buy) (ADVP (RB now)))))) (: ;) (S (NP (NP (DT those)) (VP (VBG looking) (PP (IN in) (NP (JJ healthy) (JJ metropolitan) (NNS areas))))) (VP (MD should) (VP (VP (VB take) (NP (DT a) (JJ short-term) (PRN (-LRB- -LRB-) (JJ three-year) (-RRB- -RRB-)) (NN lease))) (CC and) (VP (VB wait) (PP (IN for) (NP (NP (DT the) (NNS bargains)) (ADVP (RB ahead)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Leinberger)) (VP (VBZ is) (NP (NP (NN managing) (NN partner)) (PP (IN of) (NP (NP (DT a) (NN real-estate) (NN advisory) (NN firm)) (VP (VBN based) (PP (IN in) (NP (NP (NNP Beverly) (NNP Hills)) (, ,) (NP (NNP Calif))))))))) (. .)))
+

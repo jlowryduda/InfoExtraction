@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (DT The) (NNP British) (NNP Department)) (PP (IN of) (NP (NNP Trade) (CC and) (NNP Industry)))) (VP (VBD ordered) (SBAR (S (NP (NP (DT an) (NN investigation)) (PP (IN of) (NP (NP (DT the) (JJ competitive) (NN impact)) (PP (IN of) (NP (NP (NNP Michelin) (NNP Tyre)) (NP (NNP PLC) (POS 's))))))) (VP (VBD planned) (NP (NP (NN acquisition)) (PP (IN of) (NP (NNP National) (NNP Tyre) (NNP Service) (NNP Ltd)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN department)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD referred) (NP (DT the) (NN takeover)) (PP (TO to) (NP (DT the) (NNP Monopolies) (CC and) (NNP Mergers) (NNP Commission))) (PP (RB because) (IN of) (NP (NP (NP (DT the) (NN purchase) (POS 's)) (JJ possible) (NNS effects)) (PP (IN on) (NP (NP (DT the) (NNP U.K.) (NN market)) (PP (IN for) (NP (NP (NN distribution)) (PP (IN of) (NP (NN replacement) (NNS tires))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP BTR) (NNP PLC)) (, ,) (NP (DT a) (NNP U.K.) (JJ industrial) (NN conglomerate)) (, ,)) (VP (VBD said) (PP (IN in) (NP (NNP June))) (SBAR (S (NP (PRP it)) (VP (VBD had) (VP (VBD sold) (NP (PRP$ its) (NNP National) (NNP Tyre) (NNP Service) (NN business)) (PP (TO to) (NP (NP (NNP Michelin) (NNP Investment) (NNP Ltd.)) (, ,) (NP (NP (DT a) (NNP U.K.) (NN unit)) (PP (IN of) (NP (DT the) (NN tire) (NN maker)))) (, ,))) (PP (IN for) (NP (NP (QP (# #) (CD 140) (CD million))) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 221.4) (CD million))) (-RRB- -RRB-))))))))) (. .)))
+
+(S1 (S (NP (NNP Michelin) (NNP Tyre)) (VP (VBZ is) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP France) (POS 's)) (NNP Michelin) (NNP S.A))))) (. .)))
+
+(S1 (S (NP (NNP Michelin) (NNS officials)) (VP (MD could) (RB n't) (ADVP (RB immediately)) (VP (VB comment) (PP (IN on) (NP (DT the) (NN referral))))) (, ,) (CC but) (NP (PRP they)) (VP (VBD noted) (SBAR (S (NP (NP (DT the) (NN purchase)) (PP (IN from) (NP (NNP BTR)))) (VP (VBZ has) (ADVP (RB already)) (VP (VBN been) (VP (VBN concluded))))))) (. .)))
+
+(S1 (S (NP (NP (NNP National) (NNP Tyre)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (CD 420) (NNS branches)) (PP (IN throughout) (NP (DT the) (NNP U.K.))))))) (, ,)) (VP (VBD had) (NP (NP (CD 1988) (JJ pretax) (NN profit)) (PP (IN of) (NP (QP (# #) (CD 8.5) (CD million)))))) (. .)))
+

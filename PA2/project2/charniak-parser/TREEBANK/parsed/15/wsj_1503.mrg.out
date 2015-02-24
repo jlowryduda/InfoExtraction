@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP MGM) (NNP Grand) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD filed) (NP (DT a) (NN registration) (NN statement)) (PP (IN with) (NP (DT the) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission))) (PP (IN for) (NP (NP (DT a) (JJ public) (NN offering)) (PP (IN of) (NP (QP (CD six) (CD million)) (JJ common) (NNS shares))))))))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (NNP Beverly) (NNP Hills) (, ,) (JJ Calif.-based)) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB have) (NP (NP (QP (CD 26.9) (CD million)) (JJ common) (NNS shares)) (ADJP (JJ outstanding))) (PP (IN after) (NP (DT the) (NN offering)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN hotel) (CC and) (NN Gaming) (NN company)) (VP (VBD said) (SBAR (S (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets)) (VP (MD will) (VP (VB lead) (NP (DT the) (NNS underwriters))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Proceeds)) (PP (IN from) (NP (DT the) (NN sale)))) (VP (MD will) (VP (VB be) (VP (VBN used) (PP (PP (IN for) (NP (NN remodeling) (CC and) (NN refurbishing) (NNS projects))) (, ,) (CONJP (RB as) (RB well) (IN as)) (PP (IN for) (NP (DT the) (VBN planned) (NNP MGM) (NNP Grand) (NN hotel\/casino) (CC and) (NN theme) (NN park))))))) (. .)))
+

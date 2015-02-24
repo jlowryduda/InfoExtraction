@@ -1,0 +1,54 @@
+(S1 (S (NP (NNP Time) (NNP Warner) (NNP Inc.)) (VP (VBD reported) (NP (NP (DT a) (JJ third-quarter) (JJ net) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 176) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 2.88) (NNS cents)) (NP (DT a) (NN share)))))) (, ,) (S (VP (VBG reflecting) (NP (NP (NN acquisition) (NNS costs)) (PP (IN for) (NP (NP (DT a) (ADJP (CD 59.3) (NN %)) (NN stake)) (PP (IN in) (NP (NP (NNP Warner) (NNPS Communications) (NNP Inc.)) (CC and) (NP (NP (DT the) (NN purchase) (NN method)) (PP (IN of) (S (VP (VBG accounting) (PP (IN for) (NP (DT the) (NN transaction))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Separately)) (, ,) (NP (NNP Warner)) (VP (VBD reported) (NP (NP (DT a) (JJ net) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 106) (CD million))) (, ,) (CC or) (NP (NP (CD 56) (NNS cents)) (NP (DT a) (NN share))))) (, ,) (PP (VBG including) (NP (NP (NN merger) (NNS expenses)) (PP (IN of) (NP (NP (QP ($ $) (CD 100) (CD million))) (CC and) (NP (NP (QP ($ $) (CD 120) (CD million))) (PP (IN in) (NP (NP (NNS charges)) (VP (VBN associated) (PP (IN with) (NP (JJ stock-appreciation-based) (NN compensation) (NNS plans))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Time) (NNP Warner)) (VP (VBZ is) (PP (IN in) (NP (NP (DT the) (NN process)) (PP (IN of) (S (VP (VBG completing) (NP (NP (PRP$ its) (NN acquisition)) (PP (IN of) (NP (DT the) (VBG remaining) (NNP Warner) (NNS shares)))))))))) (. .)))
+
+(S1 (S (NP (NNP Time) (NNP Warner)) (VP (VBD emphasized) (PP (IN in) (NP (DT a) (NN news) (NN release))) (SBAR (IN that) (S (NP (PRP it)) (VP (MD should) (VP (VB be) (VP (VBN evaluated) (PP (VBN based) (PP (IN on) (NP (NP (PRP$ its) (NN cash) (NN flow)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (DT the) (NN company)) (VP (VBN defined) (PP (IN as) (NP (NP (NNS earnings)) (PP (IN before) (NP (NN interest) (, ,) (NNS taxes) (, ,) (NN depreciation) (CC and) (NN amortization))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT a) (JJ pro-forma) (NN basis))) (, ,) (PP (VBG assuming) (NP (DT the) (NN merger))) (VP (VBD was) (ADJP (JJ effective) (NP (NNP Jan) (CD 1) (, ,) (CD 1988))) (, ,) (PP (VBG including) (NP (NP (NP (DT the) (NNS results)) (PP (IN from) (NP (DT both) (NNP Time) (NNP Inc.)))) (CC and) (NP (NP (DT all)) (PP (IN of) (NP (NP (NNP Warner)) (, ,) (SBAR (WHNP (WDT that)) (S (NP (NP (NN cash) (NN flow)) (NN figure)) (VP (MD would) (VP (VB be) (NP (NP (NP (QP ($ $) (CD 526) (CD million))) (PP (IN for) (NP (DT the) (JJS latest) (NN quarter)))) (, ,) (NP (NP (ADVP (RBR more) (IN than) (RB double)) (DT the) (JJ comparable) (NN figure)) (ADVP (NP (DT a) (NN year)) (RB ago))) (, ,) (CC or) (NP (QP ($ $) (CD 242) (CD million)))) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Time) (NNP Warner)))))))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS analysts)) (ADVP (IN at) (JJS least)) (VP (VP (VBP are) (VP (VBG buying) (NP (DT that) (NN argument)))) (, ,) (CC and) (VP (VBD were) (RB n't) (ADJP (VBN alarmed) (PP (IN by) (NP (DT the) (NNS losses)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (WHNP (WP What)) (S (ADVP (RB really)) (VP (VBZ matters) (SBAR (S (VP (VBZ is) (NP (NP (DT the) (VBG operating) (NN income)) (PP (IN of) (NP (DT the) (NNS divisions))))))) (: :) (S (S (NP (PRP I)) (VP (VBP look) (PP (IN at) (NP (DT these) (NNS numbers))))) (CC and) (S (NP (PRP I)) (VP (VBP say))))))) (, ,) (NP (DT these) (NNS businesses)) (VP (VBP are) (VP (VBG doing) (ADVP (RB well)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Mark) (NNP Manson)) (, ,) (NP (NP (DT a) (NN vice) (NN president)) (PP (IN of) (NP (NNP Donaldson) (, ,) (NNP Lufkin) (CC &) (NNP Jenrette) (NNPS Securities) (NNP Corp))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (PP (IN For) (NP (NN example))) (, ,) (NP (NNP Warner)) (VP (VBD made) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 100) (CD million))) (PP (IN from) (NP (VBN filmed) (NN entertainment)))) (PP (IN in) (NP (CD three) (NNS months))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (JJ big) (NN number))) (. .)))
+
+(S1 (S (NP (NNP Warner)) (ADVP (RB also)) (VP (VBD had) (NP (NP (DT a) (NN gain)) (PP (IN of) (NP (QP (JJR more) (IN than) (CD 13)) (NN %))) (PP (IN from) (NP (NP (NNS records)) (CC and) (NP (NN music) (NN publishing))))) (, ,) (SBAR (RB even) (IN though) (S (NP (DT the) (JJ domestic) (NN record) (NN business)) (VP (VBD was) (ADJP (JJ sluggish)) (NP (DT this) (NN summer)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ year-ago) (JJ third) (NN quarter))) (, ,) (NP (NNP Time)) (PP (IN on) (NP (PRP$ its) (JJ own))) (VP (VBD reported) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP (QP ($ $) (CD 81) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.42)) (NP (DT a) (NN share))))))) (. .)))
+
+(S1 (S (NP (NP (VBN Combined) (NN revenue)) (PP (IN for) (NP (DT the) (JJS latest) (NN quarter))) (PP (IN of) (NP (NNP Time) (NNP Warner)))) (VP (VBD was) (NP (NP (QP ($ $) (CD 2.2) (CD billion))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (DT the) (JJ year-ago) (NNP Time) (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 1.1) (CD billion))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NP (DT a) (FW pro) (FW forma) (NN basis)) (, ,) (PP (VBG including) (NP (NP (DT all)) (PP (IN of) (NP (NP (NNP Warner) (POS 's)) (NNS earnings))))))) (, ,) (NP (NNP Time) (NNP Warner)) (VP (VBD had) (NP (NP (DT a) (JJ third-quarter) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 217) (CD million))))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (DT a) (ADJP (QP ($ $) (CD 342) (CD million))) (NN loss)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT the) (JJ same) (NN basis))) (, ,) (NP (NN revenue)) (VP (VBD rose) (PP (TO to) (NP (QP ($ $) (CD 2.7) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 2.2) (CD billion))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (JJ third) (NN quarter))) (, ,) (NP (NP (NNP Warner) (POS 's)) (ADJP (QP ($ $) (CD 106) (CD million))) (NN loss)) (VP (VBN compared) (PP (IN with) (NP (NP (DT a) (JJ year-ago) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 113) (CD million))) (, ,) (CC or) (NP (NP (CD 90) (NNS cents)) (NP (DT a) (NN share)))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (PP (TO to) (NP (QP ($ $) (CD 1.5) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 1.1) (CD billion))))) (. .)))
+
+(S1 (S (NP (DT The) (CD 1988) (NNS figures)) (VP (VBD were) (VP (VBN restated) (S (VP (TO to) (VP (VB include) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (NNP Lorimar) (NNPS Telepictures) (NNP Corp.)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP Warner)) (VP (VBD acquired) (PP (IN in) (NP (NNP January)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Time) (NNP Warner) (POS 's)) (NN operating) (NNS earnings)) (VP (VBD got) (NP (DT a) (NN boost)) (PP (IN from) (NP (NP (NNP Warner) (POS 's)) (NN record) (NN box-office) (NNS results)))) (. .)))
+
+(S1 (S (`` `) (S (NP (`` `) (NP (NNP Batman) (POS ')) ('' ') (ADVP (RB alone))) (VP (VBZ has) (VP (VBN racked) (PRT (RP up)) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 247) (CD million))) (PP (IN in) (NP (NN box-office) (NNS receipts)))) (PP (TO to) (NP (NN date))) (, ,) (S (VP (VBG making) (S (NP (PRP it)) (NP (NNP Warner) (NNP Bros)))))))) (. .) ('' ') (NP (JJS largest)) (VP (VBG grossing) (NP (NN film)) (ADVP (RB ever))) (. .)))
+
+(S1 (S (NP (`` `) (NP (NP (`` `) (JJ Lethal) (NN Weapon)) (NP (NNP II) (POS '))) ('' ')) (VP (VBD was) (ADVP (RB also)) (NP (DT a) (JJ big) (NN hit))) (. .)))
+
+(S1 (S (S (NP (NNP Warner)) (ADVP (RB also)) (VP (VBD contributed) (NP (NP (NN record) (NNS results)) (PP (IN from) (NP (NP (PRP$ its) (NN music) (NN business)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NP (NN unit) (NNS sales)) (PP (IN of) (NP (JJ compact) (NNS discs)))) (VP (VBD rose) (NP (QP (JJR more) (IN than) (CD 50)) (NN %)) (PP (IN from) (NP (DT a) (NN year)) (ADVP (RB ago))))))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said) (, ,) (S (VP (VBN helped) (PP (IN by) (NP (NP (NNP Prince) (POS 's)) (`` `) (NX (`` `) (NX (NNP Batman) (POS '))) ('' ') (NN soundtrack)))))) (. .)))
+
+(S1 (S (NP (NNP Time) (NNP Warner)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN cable) (NN division)) (VP (VBD turned) (PRT (RP in)) (NP (NP (DT a) (ADJP (CD 77) (NN %)) (NN increase)) (PP (IN in) (NP (NN operating) (NN cash) (NN flow))) (, ,) (PP (TO to) (NP (QP ($ $) (CD 166) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 94) (CD million))))) (, ,) (S (VP (VBG reflecting) (NP (JJR higher) (NN per-subscriber) (NN revenue)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (CD 1988) (NNS results)) (VP (VBD included) (NP (NP (DT a) (ADJP (QP ($ $) (CD 20) (CD million))) (NN charge)) (VP (VBG reflecting) (NP (NP (DT a) (NN reserve)) (PP (IN for) (NP (NP (NN relocation) (VBN related) (NNS expenses)) (PP (IN at) (NP (NNP American) (NNP Television) (CC &) (NNPS Communications) (NNP Corp))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (NNP Time) (NNP Warner)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN operating) (NN cash) (NN flow)) (VP (VBD declined) (PP (IN in) (NP (DT the) (NN quarter))) (PP (IN for) (NP (NP (PRP$ its) (NN magazine) (NN division)) (, ,) (NP (PRP$ its) (NNS books) (NN division)) (CC and) (NP (NP (DT the) (NNP Home) (NNP Box) (NNP Office)) (NP (NN programming) (NN division))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNS magazines))) (, ,) (NP (NP (JJR higher) (NN advertising) (NNS revenues)) (PP (IN at) (NP (NP (NNP Sports) (NNP Illustrated)) (CC and) (NP (NNP Fortune))))) (VP (VBD were) (VP (VBN offset) (PP (IN by) (NP (NP (JJR lower) (NN ad) (NN revenue)) (PP (IN for) (NP (JJ other) (JJ major) (NNS magazines))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN programming) (NN division)) (VP (VBD saw) (NP (NP (DT a) (NN decline)) (PP (IN in) (NP (NN operating) (NN cash) (NN flow)))) (SBAR (SBAR (IN because) (S (NP (DT the) (JJ year-ago) (NN quarter)) (VP (VBD included) (NP (NP (DT a) (ADJP (QP ($ $) (CD 12) (CD million))) (NN dividend)) (PP (IN from) (NP (NNP Turner) (NNP Broadcasting) (NNP System))))))) (CC and) (SBAR (IN because) (S (NP (DT the) (NN quarter)) (VP (VBZ includes) (NP (NP (NNS expenses)) (VP (VBN associated) (PP (IN with) (NP (NP (DT the) (NNP Nov.) (CD 15) (NN launch)) (PP (IN of) (NP (NP (NNP HBO) (POS 's)) (NN Comedy) (NNP Channel)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (, ,) (NP (NNP Time) (NNP Warner)) (VP (VBD closed) (PP (IN at) (NP (NP ($ $) (CD 138.625)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB up) (NP ($ $) (CD 1.875))) (, ,) (SBAR (IN while) (S (NP (NNP Warner)) (VP (VBD closed) (PP (IN at) (NP (NP ($ $) (CD 63.875)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB up) (NP (CD 12.5) (NNS cents))))))) (. .)))
+

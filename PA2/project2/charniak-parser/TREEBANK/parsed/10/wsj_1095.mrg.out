@@ -1,0 +1,22 @@
+(S1 (S (NP (NP (NP (NNP Christopher) (NNP Cox) (POS 's)) (NNP Oct.) (CD 13) (JJ editorial-page) (NN article) (`` `)) (`` `) (S (IN Toward) (NP (JJR More) (JJ Crippling) (NNS Lawsuits)) (VP (VBP ..)) (. .) ('' ')) ('' ')) (VP (VBZ misses) (NP (DT the) (NN point))) (. .)))
+
+(S1 (S (NP (NP (DT The) (CD 1989) (NNPS Americans)) (PP (IN With) (NP (NNPS Disabilities) (NNP Act)))) (VP (VBZ is) (PP (IN about) (S (VP (VBG eliminating) (NP (JJ discriminatory) (NNS barriers)))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP we)) (VP (VBP look) (ADVP (RB closely)) (PP (IN at) (NP (PRP$ our) (JJ own) (NN history)))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ clear)) (SBAR (IN that) (S (NP (PRP$ our) (ADJP (RB constitutionally) (VBN mandated)) (JJ civil) (NNS rights)) (VP (VBP have) (VP (VBN evolved) (PP (RB not) (PP (IN through) (NP (NP (DT the) (NN goodness)) (PP (IN of) (NP (NP (NNS people) (POS 's)) (NNS hearts))))) (CC but) (PP (IN through) (NP (NP (NN legislation)) (CC and) (NP (JJ constitutional) (NNS amendments)))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (NP (JJ American) (NNS women)) (VP (VBD won) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB vote))))))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP it)) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (NP (NP (NNS African-Americans)) (CC and) (NP (JJ other) (NN minority) (NNS groups))) (VP (VBD were) (VP (VBN guaranteed) (NP (PRP$ their) (JJ equal) (NNS rights)) (SBAR (IN as) (S (NP (NNS citizens)) (PP (IN in) (NP (DT this) (NN nation)))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (DT the) (QP (JJR more) (IN than) (CD 43) (CD million)) (NNPS Americans)) (PP (IN with) (NP (NNS disabilities))))) (, ,) (NP (NP (DT the) (CD 1989) (NNPS Americans)) (PP (IN With) (NP (NNPS Disabilities) (NNP Act)))) (VP (VBZ provides) (NP (DT the) (VBG missing) (NN piece))) (. .)))
+
+(S1 (S (NP (JJ Disabled) (NNPS Americans)) (VP (VBP have) (VP (VBD had) (NP (NP (PRP$ their) (JJ civil) (NNS rights)) (VP (VBN guaranteed) (PP (IN in) (NP (DT all) (ADJP (RB federally) (VBN funded)) (NNS programs))))) (SBAR (IN since) (S (NP (NNP Section) (CD 504)) (VP (VBD was) (VP (VBN passed) (PP (IN as) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (DT the) (CD 1973) (NNP Rehabilitation) (NNP Act))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD 1989) (NN act)) (ADVP (RB simply)) (VP (VBZ extends) (NP (DT these) (NNS guarantees)) (PP (TO to) (NP (DT the) (JJ private) (NN sector)))) (. .)))
+
+(S1 (S (NP (NP (DT Those)) (SBAR (WHNP (WP who)) (S (VP (VBP fear) (NP (NP (DT a) (NN plethora)) (PP (IN of) (NP (NP (NNS suits)) (VP (VBG paralyzing) (NP (PRP$ our) (JJ legal) (NN system)))))))))) (VP (MD need) (ADVP (RB only)) (VP (VB look) (PP (IN at) (NP (NP (DT the) (NN record)) (PP (IN on) (NP (DT the) (NNP Rehabilitation) (NNP Act))))))) (. .)))
+
+(S1 (S (PP (IN Without) (NP (JJ legal) (NN recourse))) (, ,) (NP (EX there)) (VP (VBP are) (NP (NP (DT no) (NNS guarantees)) (PP (IN of) (NP (NP (JJ civil) (NNS rights)) (PP (IN for) (NP (NN anyone))))))) (. .)))
+
+(S1 (NP (NNP John) (NNP R.) (NNP Garrison) (NNP President) (NNP National) (NNP Easter) (NN Seal) (NNP Society)))
+

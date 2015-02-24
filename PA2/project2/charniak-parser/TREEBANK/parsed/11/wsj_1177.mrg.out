@@ -1,0 +1,16 @@
+(S1 (S (NP (NNP Combustion) (NNP Engineering) (NNP Inc.)) (VP (VBD said) (NP (NP (JJ third-quarter) (JJ net) (NN income)) (PP (IN of) (NP (QP ($ $) (CD 22.8) (CD million))))) (, ,) (S (VP (VBG reversing) (NP (DT a) (ADJP (QP ($ $) (CD 91.7) (CD million))) (JJ year-earlier) (NN loss))))) (. .)))
+
+(S1 (S (NP (DT The) (NAC (NNP Stamford) (, ,) (NNP Conn.) (, ,)) (NN power-generation) (NNS products) (CC and) (NNS services) (NN company)) (VP (VBD said) (SBAR (S (NP (JJ per-share) (NNS earnings)) (VP (VBD were) (NP (CD 56) (NNS cents)) (PP (VBN compared) (PP (IN with) (NP (NP (DT the) (JJ year-ago) (NN loss)) (PP (IN of) (NP ($ $) (CD 2.39)))))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD fell) (NP (CD 1.5) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 884) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 897.2) (CD million))))) (. .)))
+
+(S1 (S (NP (NP (JJ Strong) (NN profit)) (PP (IN in) (NP (NP (DT the) (NN process) (NNS industries)) (, ,) (PP (VBG including) (NP (NN chemical) (CC and) (NN pulp) (CC and) (NN paper))) (, ,)))) (VP (VBD were) (VP (VBN offset) (PP (PP (IN by) (NP (JJR higher) (NN interest) (NN expense))) (CC and) (PP (IN by) (NP (NP (JJR lower) (NNS earnings)) (SBAR (IN as) (S (NP (DT the) (NN company)) (VP (VBD closed) (PRT (RP out)) (NP (JJ certain) (JJ long-term) (NNS contracts)))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Combustion)) (VP (VBD reported) (NP (JJ improved) (NNS profits)) (PP (IN in) (NP (PRP$ its) (NN automation) (CC and) (NN control) (NNS products) (NNS businesses))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBD narrowed) (NP (PRP$ its) (NNS losses)) (PP (IN in) (NP (PRP$ its) (NX (NX (JJ public) (NN sector)) (CC and) (NX (JJ environmental) (NN segment))))))) (. .)))
+
+(S1 (S (S (NP (NN Power) (NN generation)) (VP (VBD had) (NP (NP (JJR higher) (NNS sales)) (CC but) (NP (JJR lower) (NNS earnings))))) (: ;) (S (NP (DT the) (NN company)) (VP (VBD cited) (NP (NP (NNS factors)) (PP (VBG including) (NP (NP (NN work)) (PP (IN on) (NP (JJ certain) (JJ low) (JJ profit-margin) (NNS contracts)))))) (PP (IN from) (NP (JJ previous) (NNS years))))) (. .)))
+
+(S1 (S (NP (NP (NN Net)) (PP (IN in) (NP (DT the) (JJS latest) (NN quarter)))) (VP (VBD included) (NP (NP (DT a) (JJ pretax) (NN gain)) (PP (IN of) (NP (QP ($ $) (CD 22.4) (CD million)))) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (NP (NNP Combustion) (POS 's)) (NN minority) (NN interest)) (PP (IN in) (NP (NNP Stein) (NNP Industrie))))) (PP (TO to) (NP (NP (NNP GEC) (NNP Alsthom) (NNP N.V.)) (PP (IN of) (NP (DT the) (NNP Netherlands))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Last) (NN year) (POS 's)) (NNS results)) (VP (VBD reflected) (NP (NP (DT a) (NN gain)) (PP (IN of) (NP (QP ($ $) (CD 28.2) (CD million)))) (PP (IN on) (NP (NP (NP (NN disposition)) (PP (IN of) (NP (NNS assets)))) (CC and) (NP (NP (DT a) (ADJP (QP ($ $) (CD 165) (CD million))) (JJ pretax) (NN provision)) (PP (ADVP (RB mainly)) (IN from) (NP (NP (NNS costs)) (PP (IN of) (S (VP (VBG completing) (NP (JJ certain) (JJ waste-to-energy) (CC and) (JJ other) (NN power) (NNS plants)))))))))))) (. .)))
+

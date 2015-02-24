@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Millicom) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (CD two) (NNS companies)) (SBAR (S (VP (TO to) (VP (VB receive) (NP (DT a) (NN license) (S (VP (TO to) (VP (VB introduce) (CC and) (VB operate) (NP (NP (DT a) (JJ cellular) (JJ mobile) (NN telephone) (NN system)) (PP (IN in) (NP (NNP Pakistan))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN market)) (PP (IN during) (NP (DT the) (NN start-up)))) (VP (VBZ is) (VP (VBN estimated) (NP (QP (IN at) (CD 25,000)) (NNS subscribers)))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN spokeswoman)) (PP (IN for) (NP (NP (NNP Millicom)) (, ,) (NP (DT a) (NN telecommunications) (NN company)) (, ,)))) (VP (VBD said) (SBAR (S (NP (PRP she)) (VP (VBD did) (RB n't) (VP (VB know) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT the) (NN contract))))))))) (. .)))
+
+(S1 (S (NP (NNP Cable) (CC &) (NNP Wireless)) (NP (NP (NNP PLC)) (PP (IN of) (NP (NNP Britain)))) (VP (VBD won) (NP (DT the) (JJ other) (NN license))) (. .)))
+
+(S1 (S (NP (NNP Millicom)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB build) (CC and) (VB operate) (NP (NP (DT the) (NN system)) (PP (IN in) (NP (NNP Pakistan)))) (PP (IN with) (NP (NP (NP (NNP Comvik) (NNP International) (NNP AB)) (, ,) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NNP Kinnevik) (NN group))) (PP (IN of) (NP (NNP Sweden)))) (, ,)) (CC and) (NP (NP (NNP Arfeen) (NNP International)) (, ,) (NP (NNP Pakistan)))))))))) (. .)))
+

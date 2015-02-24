@@ -1,0 +1,14 @@
+(S1 (S (NP (DT The) (NNP Arizona) (NNS Corporations) (NN Commission)) (VP (VBD authorized) (NP (DT an) (ADJP (CD 11.5) (NN %)) (NN rate) (NN increase)) (PP (IN at) (NP (NNP Tucson) (NNP Electric) (NNP Power) (NNP Co.))) (, ,) (ADJP (ADJP (RB substantially) (JJR lower)) (SBAR (IN than) (S (VP (VBN recommended) (NP (JJ last) (NN month)) (PP (IN by) (NP (NP (DT a) (NN commission) (NN hearing) (NN officer)) (CC and) (NP (NP (RB barely) (PDT half) (DT the) (NN rise)) (VP (VBN sought) (PP (IN by) (NP (DT the) (NN utility)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN ruling)) (VP (VBZ follows) (NP (NP (NP (DT a) (NN host)) (PP (IN of) (NP (NP (NNS problems)) (PP (IN at) (NP (NNP Tucson) (NNP Electric))) (, ,) (PP (VBG including) (NP (JJ major) (NNS write-downs)))))) (, ,) (NP (NP (DT a) (CD 60) (NN %) (VB slash)) (PP (IN in) (NP (DT the) (JJ common) (NN stock) (NN dividend)))) (CC and) (NP (NP (DT the) (NN departure)) (PP (IN of) (NP (JJ former) (NNP Chairman) (NNP Einar) (NNP Greve))))) (PP (IN during) (NP (NP (DT a) (NN company) (NN investigation)) (PP (IN of) (NP (PRP$ his) (NN stock) (NNS sales)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Arizona) (JJ regulatory) (NN ruling)) (VP (VBZ calls) (PP (IN for) (NP (NP (QP ($ $) (CD 42) (CD million))) (PP (IN in) (NP (VBN added) (NN revenue))) (ADJP (JJ yearly)) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (DT a) (ADJP (QP ($ $) (CD 57) (CD million))) (NN boost)) (VP (VBN proposed) (PP (IN by) (NP (DT the) (NN commission) (NN hearing) (NN officer)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD had) (VP (VBN sought) (NP (NP (NNS increases)) (VP (VBG totaling) (NP (NP (QP ($ $) (CD 80.3) (CD million))) (, ,) (CC or) (NP (CD 22) (NN %))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN decision)) (VP (VBD was) (VP (VBN announced) (SBAR (IN after) (S (NP (NN trading)) (VP (VBD ended)))))) (. .)))
+
+(S1 (S (NP (NNP Tucson) (NNP Electric)) (VP (VBD closed) (PP (IN at) (NP (NP ($ $) (CD 20.875)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB down) (NP (CD 25) (NNS cents))) (, ,) (PP (IN in) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))) (. .)))
+
+(S1 (S (NP (DT A) (NNP Tucson) (NNP Electric) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (DT the) (NN utility)) (VP (VBD was) (VP (VP (VBN disappointed) (PP (IN by) (NP (NP (DT the) (NN commission) (POS 's)) (NN decision)))) (CC and) (`` `) (VP (`` `) (JJ concerned) (PP (IN about) (NP (NP (DT the) (JJ financial) (NN integrity)) (PP (IN of) (NP (DT the) (NN company))))))))))) (. .)))
+

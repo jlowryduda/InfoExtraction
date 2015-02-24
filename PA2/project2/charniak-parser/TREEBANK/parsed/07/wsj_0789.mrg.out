@@ -1,0 +1,8 @@
+(S1 (S (S (NP (NP (JJ Initial) (NNS claims)) (PP (IN for) (NP (NN state) (NN unemployment) (NNS benefits)))) (VP (VBD fell) (PP (TO to) (NP (DT a) (ADJP (RB seasonally) (VBN adjusted)) (CD 332,000))) (PP (IN for) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Oct.) (CD 14))))) (PP (IN from) (NP (CD 396,000)) (NP (DT the) (JJ previous) (NN week))))) (, ,) (NP (DT the) (NNP Labor) (NNP Department)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (NNS people)) (VP (VBG receiving) (NP (NN state) (NNS benefits)) (PP (IN in) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Oct.) (CD 7))))))))) (VP (VBD fell) (PP (TO to) (NP (NP (DT a) (ADJP (RB seasonally) (VBN adjusted)) (CD 2,202,000)) (, ,) (CC or) (NP (NP (CD 2.1) (NN %)) (PP (IN of) (NP (NP (DT those)) (VP (VBN covered) (PP (IN by) (NP (NN unemployment) (NN insurance))))))) (, ,))) (PP (IN from) (NP (CD 2,205,000)) (NP (DT the) (JJ previous) (NN week))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (VBN insured) (NN unemployment) (NN rate)) (VP (VBD was) (NP (CD 2.2) (NN %)))))) (. .)))
+
+(S1 (S (PP (VBG Counting) (NP (DT all) (UCP (NN state) (CC and) (JJ federal)) (NN benefit) (NNS programs))) (, ,) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS people)) (VP (VBG receiving) (NP (NN unemployment) (NNS benefits)) (PP (IN in) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Oct.) (CD 7))))))))) (VP (VBD fell) (PP (TO to) (NP (CD 1,784,400))) (PP (IN from) (NP (CD 1,810,700)) (ADVP (NP (DT a) (NN week)) (RBR earlier)))) (. .)))
+
+(S1 (S (NP (DT These) (NNS figures)) (VP (VBP are) (RB n't) (VP (ADVP (RB seasonally)) (VBN adjusted))) (. .)))
+

@@ -1,0 +1,48 @@
+(S1 (S (NP (NN Consumer) (NN confidence)) (VP (VBD stayed) (ADJP (JJ strong)) (PP (IN in) (NP (NNP October)))) (, ,) (PP (IN despite) (NP (NP (DT the) (JJ unsettling) (NNS gyrations)) (PP (IN of) (NP (DT the) (NN stock) (NN market))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (DT The) (JJ sharp) (NN stock) (NN market) (NN decline)) (PP (IN in) (NP (JJ late) (NNP October)))) (VP (VBZ appears) (S (VP (TO to) (VP (VB have) (VP (VBD had) (NP (ADJP (JJ little) (CC or) (DT no)) (NN effect)) (PP (IN on) (NP (NNS consumers))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Fabian) (NNP Linden)) (, ,) (NP (NP (JJ executive) (NN director)) (PP (IN of) (NP (NP (DT the) (NNP Conference) (NNP Board) (POS 's)) (NN consumer) (NN research) (NN center))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NN Survey)) (VP (VBZ returns) (VP (VBN received) (SBAR (IN after) (S (NP (NP (DT the) (NN drop)) (PP (IN in) (NP (DT the) (NNP Dow) (NNP Jones) (NNP average)))) (VP (VBD were) (ADJP (IN about) (DT the) (JJ same) (PP (IN as) (NP (NP (DT the) (NNS views)) (VP (VBN expressed) (PP (RB prior) (TO to) (NP (DT that) (NN event))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (JJ nonprofit) (, ,) (JJ industry-supported) (NN group)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN Consumer) (NN Confidence) (NN Index)) (VP (VBD was) (NP (CD 116.4)) (PP (IN in) (NP (NNP October))) (, ,) (VP (ADVP (RB barely)) (VBN changed) (PP (IN from) (NP (NP (DT a) (VBN revised) (NN 116.3)) (PP (IN in) (NP (NNP September)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN index)) (VP (VP (VBD was) (NP (CD 116.9)) (PP (IN in) (NP (NNP October) (CD 1988)))) (CC and) (VP (PP (IN in) (NP (DT the) (NN past) (NN year))) (VBZ has) (VP (VBN ranged) (PP (IN from) (NP (NP (DT a) (NN low)) (PP (IN of) (NP (CD 112.9))))) (PP (TO to) (NP (NP (DT a) (JJ high)) (PP (IN of) (CD 120.7))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ uses) (NP (NP (DT a) (NN base)) (PP (IN of) (NP (CD 100)))) (PP (IN in) (NP (CD 1985)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP October))) (, ,) (NP (JJR more) (NNS people)) (VP (VBD said) (SBAR (IN that) (S (NP (JJ present) (NN business) (NNS conditions)) (VP (VBD were) (ADJP (`` `) (ADJP (`` `) (JJ good) ('' ')) ('' ') (PP (IN than) (PP (IN in) (NP (NNP September))))))))) (. .)))
+
+(S1 (S (NP (NP (DT An) (JJ equal) (NN number)) (PP (IN in) (NP (DT each) (NN month)))) (VP (VBD said) (SBAR (IN that) (S (NP (NN employment) (NNS conditions)) (VP (VBD were) (ADJP (JJ good)))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (CD 19.6) (NN %)) (PP (IN of) (NP (NP (NNS consumers)) (VP (VBN contacted))))) (VP (VBD believed) (SBAR (S (NP (NN business) (NNS conditions)) (VP (MD will) (VP (VB improve) (PP (IN in) (NP (NP (DT the) (JJ coming) (CD six) (NNS months)) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (CD 18.3) (NN %)) (PP (IN in) (NP (NNP September))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Also)) (, ,) (NP (JJR more) (NNS people)) (VP (VBD said) (SBAR (S (NP (NNS conditions)) (VP (MD will) (VP (VB worsen) (PP (IN in) (NP (DT the) (NN period)))))))) (. .)))
+
+(S1 (PRN (-LRB- -LRB-) (FRAG (ADJP (JJR Fewer)) (S (VP (VBD said) (SBAR (S (NP (NNS conditions)) (VP (MD wo) (RB n't) (VP (VB change))))))) (. .)) (-RRB- -RRB-)))
+
+(S1 (S (PP (IN In) (NP (NNP October) (CD 1988))) (, ,) (NP (CD 21.1) (NN %)) (VP (VBD said) (SBAR (S (NP (NN business) (NNS conditions)) (VP (MD would) (VP (VB improve)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP October) (CD 1989))) (, ,) (NP (CD 16.9) (NN %)) (VP (VBD said) (SBAR (S (NP (JJR more) (NNS jobs)) (VP (MD will) (VP (VB be) (VP (VBN created) (PP (IN in) (NP (DT the) (JJ coming) (CD six) (NNS months)))))))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (NP (CD 17.4) (NN %)) (PP (IN in) (NP (NNP September)))) (CC and) (NP (NP (CD 18.6) (NN %)) (PP (IN in) (NP (NNP October) (CD 1988)))))))) (. .)))
+
+(S1 (S (NP (NP (RB Only) (CD 26.8) (NN %)) (PP (IN in) (NP (NNP October))) (, ,) (VP (VBN compared) (PP (IN with) (NP (NP (NP (CD 28.5) (NN %)) (PP (IN in) (NP (NNP September)))) (CC and) (NP (NP (CD 26.8) (NN %)) (PP (IN in) (NP (NNP October) (CD 1988))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (NN income)) (VP (MD would) (VP (VB increase)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (DT The) (JJ sustained) (NN level)) (PP (IN of) (NP (NN confidence)))) (VP (MD can) (VP (VB be) (VP (VBN attributed) (PP (TO to) (NP (NP (DT the) (VBN continued) (JJ favorable) (NNS circumstances)) (SBAR (WHNP (WDT which)) (S (VP (VBP affect) (NP (NP (DT the) (NN consumer) (POS 's)) (JJ day-to-day) (JJ economic) (NN life))))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NNP Mr.) (NNP Linden)) (. .)))
+
+(S1 (S (`` `) (`` `) (S (NP (NN Unemployment)) (VP (VBZ continues) (PP (IN at) (NP (DT a) (ADJP (RB relatively) (JJ low)) (NN level))) (, ,) (VP (VBG providing) (NP (NP (DT a) (NN sense)) (PP (IN of) (NP (NN job) (NN security))))))) (, ,) (CC and) (S (NP (DT a) (JJ low) (NN inflation) (NN rate)) (VP (VBZ has) (VP (VBN kept) (NP (NP (DT the) (VBG purchasing) (NN power)) (PP (IN of) (NP (NP (DT the) (JJ weekly) (NN paycheck)) (ADJP (RB reasonably) (JJ strong)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN consumer) (NN confidence)) (NP (NN survey)) (, ,) (S (VP (VBG covering) (NP (CD 5,000) (NNP U.S.) (NNS households)))) (, ,) (VP (VBZ is) (VP (VBN conducted) (PP (IN in) (NP (NP (DT the) (JJ first) (CD two) (NNS weeks)) (PP (IN of) (NP (DT each) (NN month))))) (PP (IN for) (NP (DT the) (NNP Conference) (NNP Board))) (PP (IN by) (NP (NP (NNP National) (NNP Family) (NNP Opinion) (NNP Inc.)) (, ,) (NP (DT a) (NAC (NNP Toledo) (, ,) (NNP Ohio) (, ,)) (NN market) (NN researcher)))))) (. .)))
+
+(S1 (S (NP (NN Buying) (NNS plans)) (VP (VBD were) (ADJP (JJ mixed)) (PP (IN in) (NP (NNP October))) (, ,) (PP (IN with) (NP (NP (JJR fewer) (NNS households)) (VP (VBG indicating) (VP (VBZ plans) (S (VP (TO to) (VP (VB buy) (NP (NNS cars)))))) (CC and) (ADVP (RBR more)) (VP (VBG saying) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB buy) (NP (NNS homes) (CC and) (NNS appliances)) (PP (IN in) (NP (DT the) (JJ coming) (CD six) (NNS months)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP October))) (, ,) (NP (NP (CD 6.7) (NN %)) (PP (IN of) (NP (NNS respondents)))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB buy) (NP (DT a) (NN car)) (, ,) (S (VP (VBG easing) (PP (IN from) (NP (NNP September))) (SBAR (WHADVP (WRB when)) (S (NP (CD 8.1) (NN %)) (VP (VBD anticipated) (NP (DT a) (NN purchase)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP October) (CD 1988))) (, ,) (NP (CD 7.3) (NN %)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB buy) (NP (DT a) (NN car))))))) (. .)))
+
+(S1 (S (NP (NN Home) (NN purchase) (NNS plans)) (VP (VBD increased) (PP (TO to) (NP (CD 3.3) (NN %))) (PP (IN from) (NP (CD 3.1) (NN %))) (PP (IN in) (NP (DT the) (CD two) (JJ recent) (NNS months)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP October) (CD 1988))) (, ,) (NP (CD 3.7) (NN %)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB buy) (NP (DT a) (NN house))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1989))) (, ,) (NP (NN home) (NN purchase) (NNS plans)) (VP (VBP have) (VP (VBN ranged) (ADVP (RB monthly)) (PP (PP (IN from) (NP (CD 2.9) (NN %))) (PP (TO to) (NP (NP (CD 3.7) (NN %)) (PP (IN of) (NP (NNS respondents)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP October))) (, ,) (NP (CD 30.6) (NN %)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD will) (VP (VB buy) (NP (NNS appliances)) (PP (IN in) (NP (DT the) (JJ coming) (CD six) (NNS months))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (NP (CD 27.4) (NN %)) (PP (IN in) (NP (NNP September)))) (CC and) (NP (NP (CD 26.5) (NN %)) (PP (IN in) (NP (NNP October) (CD 1988)))))))))))) (. .)))
+

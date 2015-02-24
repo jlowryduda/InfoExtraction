@@ -1,0 +1,88 @@
+(S1 (S (PP (IN In) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ first) (JJ indoor) (NN air-pollution) (NNS cases)) (SBAR (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (NN trial))))))))))) (, ,) (NP (DT a) (JJ state-court) (NN jury)) (VP (VBD decided) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (NP (DT the) (NN defendant)) (, ,) (NP (NNP Burlington) (NNPS Industries) (NNP Inc))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN verdict)) (, ,) (VP (VBN reached) (NP (RB late) (JJ last) (NN week)) (PP (IN in) (NP (NNP Cincinnati)))) (, ,)) (VP (MD may) (VP (VB end) (NP (NP (DT an) (JJ eight-year) (JJ legal) (NN battle)) (PP (IN for) (NP (DT the) (NAC (NNP Greensboro) (, ,) (NNP N.C.) (, ,)) (NN carpet) (NN maker)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Glenn) (CC and) (NNP Sharon) (NNP Beebe)) (PP (IN of) (NP (NNP Cincinnati)))) (VP (VBD had) (VP (VBN sued) (PP (NP (DT the) (NN com) (: -) (NN pany)) (IN in) (NP (NP (CD 1981)) (PP (IN after) (S (VP (VBG installing) (NP (NNP Burlington) (NNS carpets)) (PP (IN in) (NP (PRP$ their) (NN office)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Beebes)) (VP (VBD alleged) (SBAR (IN that) (S (NP (NN toxic)) (VP (VBZ fumes) (PP (IN from) (NP (NP (DT the) (NNS carpets)) (VP (VBN made) (S (NP (PRP them)) (ADJP (JJ sick)))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (PRP$ their) (NN illness))))) (PRN (, ,) (S (NP (DT the) (NNP Beebes)) (VP (VBD said))) (, ,)) (NP (PRP they)) (VP (VBD lost) (NP (NP (QP ($ $) (CD 1.8) (CD million))) (PP (IN in) (NP (NNS wages) (CC and) (NNS earnings))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP they)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (NNS months)) (PP (IN of) (NP (NP (NN exposure)) (PP (TO to) (NP (DT the) (NNS chemicals)))))) (VP (VBZ has) (VP (VBN left) (S (NP (PRP them)) (ADJP (JJ sensitive) (PP (TO to) (NP (NP (DT a) (JJ wide) (NN range)) (PP (IN of) (NP (ADJP (RB commonly) (VBN used)) (NNS substances)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN case)) (VP (VBD had) (VP (VBN been) (VP (ADVP (RB closely)) (VBN watched) (SBAR (IN because) (S (NP (NNS attorneys)) (VP (VBP anticipate) (NP (NP (VBG increasing) (NN litigation)) (ADVP (RB nationally)) (PP (IN over) (NP (DT the) (JJ so-called) (NN sick-building) (NN syndrome)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Plaintiffs) (POS ')) (NNS lawyers)) (VP (VBP say) (SBAR (IN that) (S (NP (NNS buildings)) (VP (VBP become) (`` `) (ADJP (`` `) (JJ sick) ('' ')) ('' ') (SBAR (WHADVP (WRB when)) (S (NP (NP (JJ inadequate) (JJ fresh) (NN air)) (CC and) (NP (JJ poor) (NN ventilation) (NNS systems))) (VP (VBP lead) (S (NP (NNS pollutants)) (VP (TO to) (VP (VB build) (PRT (RP up)) (ADVP (RB inside)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Anthony) (NNP J.) (NNP Iaciofano)) (, ,) (NP (NP (DT a) (NN lawyer)) (PP (IN for) (NP (NNP Burlington)))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBZ believes) (SBAR (S (NP (NP (DT the) (NNPS Beebes) (POS ')) (NNS symptoms)) (VP (VBD were) (RB not) (VP (VBN related) (PP (TO to) (NP (DT the) (NN carpeting))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (NP (JJ ill) (NNS effects)) (PP (IN from) (NP (JJ new) (NNS carpets)))) (VP (JJ manifest) (NP (PRP themselves)) (ADVP (RB immediately))))) (CC but) (SBAR (IN that) (S (NP (NP (DT the) (NNPS Beebes) (POS ')) (NNS symptoms)) (VP (VBD appeared) (ADVP (NP (NNS months)) (RB later))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Catherine) (NNP Adams)) (, ,) (NP (NP (DT the) (NNPS Beebes) (POS ')) (NN lawyer)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN verdict)) (VP (MD would) (RB not) (VP (VB discourage) (NP (JJ other) (NNS plaintiffs)) (PP (IN from) (S (VP (VBG filing) (NP (JJ such) (NNS suits)))))))))) (. .)))
+
+(S1 (S (S (S (NP (NNS Scientists)) (VP (VBP are) (ADVP (RB only)) (VP (VBG beginning) (S (VP (TO to) (VP (VB understand) (SBAR (WHNP (WP what)) (S (VP (VBZ causes) (NP (JJ sick-building) (NN syndrome))))))))))) (CC and) (S (NP (NP (JJ much)) (PP (IN of) (NP (DT that) (NN research)))) (VP (VBD was) (ADJP (JJ unavailable)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNPS Beebes)) (VP (VBD filed) (NP (DT the) (NN case)))))))) (, ,) (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Beebes)) (ADVP (RB now)) (VP (VBP believe) (SBAR (IN that) (S (NP (NP (DT a) (JJ prime) (NN culprit)) (PP (IN for) (NP (PRP$ their) (NNS injuries)))) (VP (VBD was) (SBAR (S (VP (VBZ fumes) (PP (IN from) (NP (NP (DT an) (NN adhesive)) (VP (VBN used) (PP (IN in) (NP (DT the) (NN carpeting))))))))))))) (. .)))
+
+(S1 (S (S (CC But) (NP (DT the) (NNPS Beebes)) (VP (VBD did) (RB n't) (VP (VBN come) (PP (TO to) (NP (DT that) (NN conclusion) (SBAR (IN until) (S (NP (NN time) (NNS limits)) (VP (VBD had) (VP (VBN elapsed) (PP (IN for) (S (VP (VBG adding) (NP (DT the) (NNS adhesives) (NN maker))))) (PP (IN as) (NP (DT a) (NN defendant))))))))) (PP (IN in) (NP (DT the) (NN case)))))) (, ,) (NP (NNP Ms.) (NNP Adams)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Beebes)) (VP (VBP have) (RB not) (ADVP (RB yet)) (VP (VBN decided) (SBAR (IN whether) (S (VP (TO to) (VP (VB appeal))))))) (. .)))
+
+(S1 (S (NP (NNP TIMES) (NNP SQUARE) (NN development) (NNS opponents)) (VP (VBP are) (VP (VBN dealt) (NP (NN setback)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Appellate) (NNP Division)) (PP (IN of) (NP (NNP New) (NNP York)))) (NP (NNP State) (NNP Supreme) (NNP Court)) (VP (VBD dismissed) (NP (NP (CD six) (NNS lawsuits)) (VP (VBG attempting) (S (VP (TO to) (VP (VB block) (NP (NP (DT a) (ADJP (QP ($ $) (CD 2.5) (CD billion))) (NN project)) (VP (VBN planned) (PP (IN for) (NP (NNP 42nd) (NNP Street))))) (PP (IN in) (NP (NNP Manhattan))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Opponents)) (PP (IN of) (NP (DT the) (NN project)))) (VP (VBD had) (VP (VBN claimed) (SBAR (IN that) (S (NP (NP (NP (DT the) (NN city)) (CC and) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (NNP New) (NNP York))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBG co-sponsoring) (NP (DT the) (NN project)))))) (, ,)) (VP (VBD had) (VP (VBN failed) (S (VP (TO to) (VP (VB adhere) (PP (TO to) (NP (JJ environmental) (NNS guidelines)))))))))))) (. .)))
+
+(S1 (S (NP (NP (QP (DT All) (CC but) (CD two))) (PP (IN of) (NP (NP (DT the) (QP (CD 40) (CC or) (RB so)) (NNS lawsuits)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN been) (VP (VBN filed) (PP (IN since) (NP (NP (DT the) (NN project) (POS 's)) (CD 1984) (NN approval))))))))))) (VP (VBP have) (VP (VBN been) (VP (VBN dismissed) (PP (IN before) (NP (DT the) (NN trial) (NN stage)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (CD two)) (SBAR (WHNP (WDT that)) (S (VP (VBP remain))))) (VP (VBP have) (RB n't) (ADVP (RB yet)) (VP (VBN reached) (NP (DT the) (JJ pre-trial) (JJ fact-finding) (NN stage)))) (. .)))
+
+(S1 (S (NP (NN State) (NNS officials)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN court) (POS 's)) (NN ruling)) (VP (VBZ clears) (NP (NP (DT the) (NN way)) (SBAR (IN for) (S (NP (NNS proceedings)) (VP (TO to) (VP (VB condemn) (NP (NP (NNS buildings)) (PP (IN in) (NP (DT the) (NN area))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT This) (NN project)) (VP (VBZ is) (ADJP (JJ ready) (S (VP (TO to) (VP (VB move)))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NNP State) (NNP Urban) (NNP Development) (NNP Corp.) (NNP Chairman) (NNP Vincent) (NNP Tese)) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNS developers)) (PP (IN of) (NP (CD four) (JJ planned) (NN office) (NNS towers)))) (VP (VBD cautioned) (SBAR (IN that) (S (NP (NNS obstacles)) (ADVP (RB still)) (VP (VBP remain))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (NN agreement)) (PP (IN with) (NP (DT the) (NN state))))))) (, ,) (NP (NP (DT the) (NNS developers)) (: --) (NP (NP (DT a) (NN partnership)) (PP (IN of) (NP (NP (NNP Park) (NNP Tower) (NNP Realty)) (CC and) (NP (NP (NNP Prudential) (NNP Insurance) (NNP Co.)) (PP (IN of) (NP (NNP America))))))) (: --)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD would) (RB not) (VP (VB proceed) (PP (IN with) (NP (NN condemnation) (NNS proceedings))) (SBAR (IN while) (S (NP (EX there)) (VP (VBD was) (NP (`` `) (NP (`` `) (JJ significant) (NN litigation) ('' ')) ('' ') (ADJP (JJ pending))))))))))) (. .)))
+
+(S1 (S (NP (NNP Park) (NNP Tower) (NNP General) (NNP Counsel) (NNP Matthew) (NNP Mayer)) (VP (VBD said) (SBAR (S (NP (DT the) (NN development) (NN team)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB review) (NP (CD two) (JJ additional) (NNS lawsuits)) (PP (IN before) (S (VP (VBG putting) (PRT (RP up)) (NP (NP (DT a) (ADJP (QP ($ $) (CD 155) (CD million))) (NN letter)) (PP (IN of) (NP (NN credit)))) (S (VP (TO to) (VP (VB cover) (NP (NN condemnation) (NNS costs)))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Also)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (NP (DT the) (NN partnership)) (VP (VBZ is) (VP (VBG waiting) (S (VP (TO to) (VP (VB see) (SBAR (IN whether) (S (NP (NP (DT the) (JJ appellate) (NN division) (POS 's)) (NN ruling)) (VP (MD will) (VP (VB be) (VP (VBN appealed))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN plan)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN plagued) (PP (IN with) (NP (NP (NNS delays)) (CC and) (NP (JJ business-related) (NNS setbacks))))))))) (, ,)) (VP (VBZ seeks) (S (VP (TO to) (VP (VB transform) (NP (DT the) (NN area)) (PP (IN from) (NP (NP (DT a) (JJ seedy) (NN thoroughfare)) (PP (TO to) (NP (NP (DT a) (ADJP (RBR more) (JJ wholesome)) (NN office)) (CC and) (NP (NN theater) (NN district)))))))))) (. .)))
+
+(S1 (S (NP (NN State) (CC and) (NN city) (NNS officials)) (VP (VBP are) (ADVP (RB still)) (VP (VBG negotiating) (PP (IN with) (NP (NNS developers))) (S (VP (TO to) (VP (VP (VB renovate) (NP (JJ historic) (NNS theaters))) (CC and) (VP (VB build) (CC and) (VB operate) (NP (DT a) (NX (NX (NN merchandise) (NN mart)) (CC and) (NX (NN hotel)))))))))) (. .)))
+
+(S1 (S (NP (JJ FEDERAL) (NN JUDGE)) (VP (VBZ EXPANDS) (NP (NP (NN role)) (PP (IN of) (NP (NNP U.S.) (NNS courts)))) (PP (IN in) (NP (NN extradition) (NNS decisions)))) (. .)))
+
+(S1 (S (NP (NP (NNP U.S.) (NNP District) (NNP Judge) (NNP Jack) (NNP B.) (NNP Weinstein)) (PP (IN of) (NP (NP (NNP Brooklyn)) (, ,) (NP (NNP N.Y.)) (, ,)))) (VP (VBD ruled) (SBAR (IN that) (S (NP (NP (DT a) (NN man)) (VP (VBN implicated) (PP (IN in) (NP (NP (DT an) (NN attack)) (PP (IN on) (NP (NP (DT an) (JJ Israeli) (NN passenger) (NN bus)) (PP (IN in) (NP (CD 1986))))))))) (VP (MD can) (VP (VB be) (VP (VBN extradited) (PP (TO to) (NP (NNP Israel))) (PP (IN for) (NP (NN trial))))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN magistrate)) (VP (VBD had) (ADVP (RB initially)) (VP (VBN refused) (NP (DT the) (NN request)) (, ,) (S (VP (VBG ruling) (SBAR (IN that) (S (NP (DT the) (NN attack)) (VP (VBD had) (VP (VBN been) (NP (NP (DT a) (JJ political) (NN act)) (SBAR (WHPP (IN for) (WHNP (WDT which))) (S (NP (NP (DT the) (NN man)) (, ,) (NP (NNP Mahmoud) (NNP El-Abed) (NNP Ahmad)) (, ,)) (VP (MD would) (VP (VB be) (ADJP (JJ exempt) (PP (IN from) (NP (NN extradition))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NNP Judge) (NNP Weinstein)) (VP (VBD wrote) (PP (IN in) (NP (PRP$ his) (NN opinion))) (NP (RB late) (JJ last) (NN month)) (SBAR (IN that) (S (NP (NP (NN terrorism) (CC and) (NNS acts)) (PP (IN of) (NP (NP (NN war)) (PP (IN against) (NP (NNS civilians)))))) (VP (MD can) (RB not) (VP (VB be) (VP (VBN defined) (PP (IN as) (NP (JJ political) (NNS acts))))))))) (. .)))
+
+(S1 (S (NP (NNP Judge) (NNP Weinstein)) (ADVP (RB also)) (VP (VBD ruled) (SBAR (IN that) (S (NP (NNS judges)) (VP (MD must) (VP (VB consider) (ADVP (RB prior) (PP (TO to) (NP (NN extradition)))) (SBAR (IN whether) (S (NP (DT the) (NN defendant)) (VP (MD will) (VP (VB be) (VP (VBN treated) (ADVP (RB fairly)) (PP (IN in) (NP (DT a) (JJ foreign) (NN court))))))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB do) (ADVP (RB so))))) (PRN (, ,) (S (NP (DT the) (NN judge)) (VP (VBD said))) (, ,)) (NP (DT the) (NNP U.S.) (NNS courts)) (VP (MD must) (VP (VB review) (NP (NP (DT the) (JJ judicial) (NN process)) (PP (IN in) (NP (DT the) (JJ foreign) (NN country)))) (ADVP (RB independently) (PP (IN of) (NP (NP (DT the) (NNP State) (NNP Department) (POS 's)) (NN assessment)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (PP (IN in) (NP (DT this) (NN case))) (NP (PRP he)) (VP (VBD concurred) (PP (IN with) (NP (NP (DT the) (NNP State) (NNP Department) (POS 's)) (NN decision))) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Ahmad)) (VP (MD should) (VP (VB be) (VP (VBN extradited)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Ahmad) (POS 's)) (NN lawyer)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB appeal)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Lawyers)) (ADJP (RB close) (PP (TO to) (NP (DT the) (NN case))))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD believed) (SBAR (S (NP (DT the) (NN ruling)) (VP (VBD was) (ADJP (JJ unprecedented))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (PP (`` `) (RB Up) (IN until) (NP (RB now))) (NP (DT the) (NNS courts)) (VP (VBP have) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (RB not) (NP (PRP$ their) (NN role) (S (VP (TO to) (VP (VB supervise) (NP (NP (DT the) (JJ foreign) (NN country) (POS 's)) (NNS courts)))))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Jacques) (NNP Semmelman)) (, ,) (NP (NP (DT the) (JJ assistant) (NNP U.S.) (NN attorney)) (PP (IN on) (NP (DT the) (NN case))))) (. .)))
+
+(S1 (S (NP (NP (JJ FORMER) (JJ CANADIAN) (NN AMBASSADOR)) (PP (TO to) (NP (DT the) (NNP U.S.) (NNP Allan) (NNP E.) (NNP Gotlieb)))) (VP (VBZ has) (VP (VBN joined) (NP (NP (DT the) (NNP Philadelphia) (NN law) (NN firm)) (PP (IN of) (NP (NNP Pepper) (, ,) (NNP Hamilton) (CC &) (NNP Scheetz)))) (PP (IN as) (NP (DT a) (NN consultant))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Gotlieb)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ serves) (PP (IN as) (NP (NP (DT a) (NN consultant)) (PP (TO to) (NP (NP (NNP Stikeman) (, ,) (NNP Elliott)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP Canada) (POS 's)) (JJS biggest) (NN law) (NNS firms))))))))))) (, ,)) (VP (VBZ is) (VP (VBG advising) (NP (NP (NNP Pepper) (NNP Hamilton) (POS 's)) (NNP Washington) (NN office)) (PP (IN on) (NP (NP (JJ legal) (NNS matters)) (VP (VBN related) (PP (TO to) (NP (NP (JJ Canadian-U.S.) (NN investment)) (, ,) (NP (JJ corporate) (NN finance)) (CC and) (NP (JJ international) (NNS transactions))))))))) (. .)))
+
+(S1 (NP (NNP QUOTABLE) (: :)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN speech)) (VP (VBN prepared) (PP (IN for) (NP (NP (NN delivery)) (PP (IN in) (NP (NNP New) (NNP York) (NN yesterday)))))))) (, ,) (NP (JJ retired) (NNP Justice) (NNP Lewis) (NNP Powell)) (VP (VBN contested) (S (SBAR (NP (DT the) (NN notion)) (IN that) (S (NP (DT the) (JJ last) (NNP Supreme) (NNP Court) (NN term)) (VP (VBD marked) (NP (NP (DT a) (NN turn)) (PP (IN toward) (NP (NN conservatism))))))) (: :) (`` `) (NP (NP (`` `) (NNS Commentators)) (SBAR (WHNP (WP who)) (S (VP (VBD agreed) (PP (IN on) (ADJP (JJ little) (SBAR (S (RB else) (ADVP (RB unanimously)) (VP (VBD proclaimed) (NP (NP (DT a) (`` `) (NN shift)) (PP (IN in) (NP (NP (NN direction) ('' ')) (PP (IN on) (NP (DT the) (NN court) (NN ..))))))) (. .))))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP take) (NP (DT these) (NNS pronouncements)) (, ,) (PP (IN like) (NP (NP (JJ many)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN preceded) (NP (PRP them)) (PP (IN in) (NP (JJ past) (NNS years))) (, ,) (PP (IN with) (NP (NP (DT a) (NN grain)) (PP (IN of) (NP (NN salt)))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT an) (NN era)) (PP (IN of) (NP (UCP (`` `) (S (NP (NN sound)) (VP (VBZ bites))) ('' ') (CC and) (JJ instant)) (NN opinion) (NNS polls))))) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ dangerous) (S (VP (TO to) (VP (VB apply) (NP (JJ broad) (NNS labels)) (PP (TO to) (NP (DT a) (JJ single) (NN term)))))))) (. .)))
+

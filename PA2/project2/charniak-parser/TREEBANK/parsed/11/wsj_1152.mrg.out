@@ -1,0 +1,10 @@
+(S1 (S (NP (`` `) (NP (`` `) (NP (NNP Lifestyles)) (PP (IN of) (NP (DT the) (NNP Rich) (CC and) (NNP Famous))) ('' ')) ('' ')) (VP (MD may) (VP (VB be) (VP (VBG visiting) (NP (DT some) (JJ new) (NNS venues)) (PP (IN in) (NP (DT the) (JJ near) (NN future)))))) (. .)))
+
+(S1 (S (NP (NNP Judge) (NNP Robert) (PRN (-LRB- -LRB-) (`` `) (NP (`` `) (NP (JJ Maximum) (NNP Bob) (POS ')) ('' ')) (-RRB- -RRB-)) (NNP Potter)) (VP (VBD sentenced) (NP (NNP Jim) (NNP Bakker)) (PP (TO to) (NP (CD 45) (NNS years))) (PP (IN in) (NP (DT the) (JJ big) (NN house) (NN yesterday))) (, ,) (SBAR (IN while) (S (NP (DT a) (NNP Beverly) (NNPS Hills) (NN judge)) (VP (VBN tucked) (PRT (RP away)) (NP (NNP Zsa) (NNP Zsa) (NNP Gabor)) (PP (IN for) (NP (NP (CD three) (NNS days)) (, ,) (CC plus) (NP (NP (CD 120) (NNS hours)) (PP (IN of) (NP (NP (NN work)) (PP (IN with) (NP (JJ homeless) (NNS women)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Miss) (NNP Gabor)) (VP (VBN recanted) (NP (NP (PRP$ her) (JJ earlier-expressed) (NN fear)) (PP (IN of) (NP (JJ jailhouse) (NNS lesbians))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Bakker)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ guilty) (PP (IN of) (NP (NP (NN sin)) (CONJP (CC but) (RB not)) (NP (NN fraud))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (MD can) (ADVP (RB only)) (VP (VB wonder) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB be) (NP (NP (DT the) (JJ next) (VBN lost) (NN soul)) (VP (VBN chosen) (S (VP (TO to) (VP (VB be) (S (NP (NP (NNP America) (POS 's)) (NN Celebrity)) (VP (VB Convict)))))))))))))) (. .)))
+

@@ -1,0 +1,10 @@
+(S1 (S (NP (NP (NNP Burmah) (NNP Oil) (NNP PLC)) (, ,) (NP (DT a) (JJ British) (JJ independent) (NN oil) (NN company)) (, ,)) (VP (VBD said) (NP (PRP$ its) (NNP West) (NNP German) (NN subsidiary)) (SBAR (S (NP (NNP Castrol)) (VP (VBZ has) (NP (NP (DT a) (ADJP (CD 49) (NN %)) (NN share)) (PP (IN in) (NP (NP (NNP Explonaft) (NNP G.m.b.H.)) (, ,) (NP (DT a) (JJ new) (JJ Polish) (NNS lubricants) (NN company))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (VBG remaining) (CD 51) (NN %)) (PP (IN of) (NP (DT the) (JJ joint) (NN venture)))) (VP (MD will) (VP (VB be) (VP (VBN controlled) (PP (IN by) (NP (NP (JJ Polish) (NNS lubricants) (NNS manufacturers)) (, ,) (NP (NNS refiners)) (CC and) (NP (JJ technical) (NN institutes))))))) (. .)))
+
+(S1 (S (NP (NNP Explonaft)) (VP (MD will) (VP (VP (VB develop) (NP (NN application) (NNS guidelines)) (PP (IN for) (NP (NNS lubricants)))) (, ,) (VP (VB sell) (NP (JJ high-quality) (NN mineral) (NNS oils))) (, ,) (CC and) (VP (VB offer) (NP (NNS services)) (PP (IN in) (NP (JJ industrial) (UCP (NN cleaning) (CC and) (JJ related)) (NNS fields)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Burmah)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (DT a) (JJ strong) (NN market) (NN position)) (VP (VBG supplying) (NP (NP (JJ marine) (NNS lubricants)) (CC and) (NP (NP (JJ metal-working) (NNS fluids)) (PP (IN in) (NP (NNP Poland)))))))))) (, ,)) (VP (VBD described) (NP (DT the) (JJ joint) (NN venture)) (PP (IN as) (`` `) (ADJP (`` `) (RB fairly) (JJ small)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (VP (VBD did) (RB n't) (VP (VB provide) (NP (NP (NNS details)) (PP (IN of) (NP (NN setup) (NNS costs)))))) (. .)))
+

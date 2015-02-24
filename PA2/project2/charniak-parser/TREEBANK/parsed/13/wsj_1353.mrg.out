@@ -1,0 +1,64 @@
+(S1 (S (NP (NNP SHEVARDNADZE)) (VP (VBD ADMITTED) (SBAR (IN that) (S (NP (NNP Moscow)) (VP (VBD violated) (NP (DT the) (CD 1972) (NNP ABM) (NN treaty)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN foreign-policy) (NN address)) (PP (IN before) (NP (DT the) (JJ Soviet) (NN legislature))))) (, ,) (NP (DT the) (JJ foreign) (NN minister)) (VP (VP (VBD conceded) (SBAR (IN that) (S (NP (NP (DT the) (NN radar) (NN station)) (PP (IN in) (NP (NNP Krasnoyarsk)))) (VP (VBN breached) (NP (DT the) (NN superpower) (NNP Anti-Ballistic) (NNP Missile) (NN treaty)))))) (CC and) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN dismantled)))))))) (. .)))
+
+(S1 (S (NP (NNP Shevardnadze)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD took) (NP (NP (NNP Gorbachev) (POS 's)) (NN government) (CD four) (NNS years)) (S (VP (TO to) (VP (VB determine) (SBAR (IN that) (S (NP (NP (NP (DT the) (NN station) (POS 's)) (NN location)) (PP (IN in) (NP (NNP Siberia)))) (VP (VBD violated) (NP (DT the) (NN accord)) (, ,) (SBAR (IN as) (S (NP (NNP Western) (NN arms-control) (NNS officials)) (VP (VBP have) (ADVP (RB long)) (VP (VBN contended))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD denounced) (NP (NP (NP (NNP Moscow) (POS 's)) (JJ nine-year) (NN involvement)) (PP (IN in) (NP (DT the) (NN war))) (PP (IN in) (NP (NNP Afghanistan)))) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP it)) (VP (VBD involved) (`` `) (X (`` `) (NP (NP (JJ gross) (NNS violations)) (PP (IN of) (NP (NNS ..)))) (. .)) (NP (NP (JJ civil) (NNS norms)) (CC and) (NP (NNS ethics))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NN Secretary)) (PP (IN of) (NP (NNP State) (NNP Baker)))) (, ,) (PP (IN in) (NP (PRP$ his) (JJ first) (JJ major) (NN arms-control) (NN speech))) (, ,) (VP (VBD called) (SBAR (IN for) (S (NP (NP (DT a) (JJ new) (JJ military) (NN relationship)) (PP (IN with) (NP (NNP Moscow)))) (VP (TO to) (VP (VB reduce) (NP (`` `) (ADJP (`` `) (JJ first) (NN strike) ('' ')) ('' ') (JJ nuclear) (NNS arms))))))) (. .)))
+
+(S1 (S (NP (NNP BAY) (NN AREA) (NNS COMMUTERS)) (VP (VBD BATTLED) (NP (JJ earthquake-related) (NN transportation) (NNS snarls))) (. .)))
+
+(S1 (S (S (NP (NNS Travelers)) (VP (VP (VBD crowded) (PP (IN into) (NP (NNS subways)))) (, ,) (VP (VBD sat) (PP (IN in) (NP (NP (NN traffic) (NNS jams)) (PP (IN on) (NP (JJ major) (NNS freeways)))))) (CC or) (VP (VBD waited) (PP (IN for) (NP (NNS buses))) (PP (IN in) (NP (DT the) (NN rain)))))) (, ,) (CC but) (S (NP (NP (DT the) (JJ massive) (NN gridlock)) (VP (VBN anticipated) (PP (IN by) (NP (NP (NNS officials)) (PP (IN in) (NP (DT the) (NNP San) (NNP Francisco) (NNP Bay) (NN area))))))) (ADVP (RB never)) (VP (VBD materialized))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NP (DT the) (NN death) (NN toll)) (PP (IN from) (NP (NP (JJ last) (NN week) (POS 's)) (NN temblor)))) (VP (VBD climbed) (PP (TO to) (NP (CD 61))) (, ,) (SBAR (S (NP (NP (DT the) (NN condition)) (PP (IN of) (NP (NP (NN freeway) (NN survivor) (NNP Buck) (NN Helm)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD spent) (NP (CD four) (NNS days)) (S (VP (VBN trapped) (PP (IN under) (NP (NN rubble)))))))) (, ,)))) (VP (VBN improved))))))) (, ,) (NP (NN hospital) (NNS officials)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NN Rescue) (NNS crews)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD gave) (PRT (RP up)) (NP (NN hope) (SBAR (IN that) (S (NP (NNS others)) (VP (MD would) (VP (VB be) (VP (VBN found) (S (ADJP (JJ alive) (PP (IN under) (NP (DT the) (VBN collapsed) (NN roadway)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP House) (NNP Appropriations) (NNP Committee)) (VP (VBD approved) (NP (NP (DT a) (ADJP (QP ($ $) (CD 2.85) (CD billion))) (NN aid) (NN package)) (PP (IN for) (NP (DT the) (NN quake) (NN region))) (, ,) (ADJP (ADJP (JJR less)) (PP (IN than) (NP (NP (DT the) (QP ($ $) (CD 3.8) (CD billion))) (VP (VBN sought) (PP (IN by) (NP (NNP California) (NNS officials))))))))) (. .)))
+
+(S1 (S (NP (NNP Hungary)) (VP (VBD declared) (NP (PRP itself)) (UCP (NP (DT a) (NN democracy)) (CC and) (PP (IN for) (NP (DT the) (JJ first) (NN time)))) (ADVP (RB openly)) (VP (VBN commemorated) (NP (NP (DT the) (NN anniversary)) (PP (IN of) (NP (NP (DT the) (ADJP (CD 1956) (NN anti-Stalinist)) (NN uprising)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN crushed) (PP (IN by) (NP (DT the) (NNP Soviet) (NNP Union)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN crowd)) (VP (VBN estimated) (PP (IN at) (NP (CD 100,000))))) (VP (VBD held) (NP (DT a) (JJ torch-lit) (NN march)) (PP (IN through) (NP (NNP Budapest))) (PP (IN as) (S (VP (VBG Acting) (SBAR (S (NP (NNP President) (NNP Szuros)) (VP (VBD delivered) (NP (DT a) (ADJP (RB nationally) (VBN televised)) (NN address)) (S (VP (VBG rejecting) (NP (JJ communist) (NN dominance))))))))))) (. .)))
+
+(S1 (S (S (NP (QP (RB About) (CD 200,000)) (NNP East) (NNPS Germans)) (VP (VBD marched) (PP (IN in) (NP (NNP Leipzig))))) (CC and) (S (NP (NNS thousands) (JJR more)) (VP (VBD staged) (NP (NP (NNS protests)) (PP (IN in) (NP (CD three) (JJ other) (NNS cities)))) (PP (IN in) (NP (NP (DT a) (JJ fresh) (NN challenge)) (PP (TO to) (NP (DT the) (NNP Communist) (NN leadership))))) (S (VP (TO to) (VP (VB introduce) (NP (JJ democratic) (NNS freedoms))))))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (DT an) (NNP East) (NNP Berlin) (NN suburb))) (, ,) (ADVP (RB meanwhile)) (, ,) (NP (NP (NNS employees)) (PP (IN at) (NP (NP (DT an) (NNS electronics) (NN plant)) (VP (VBN formed) (NP (DT an) (JJ independent) (NN trade) (NN union)))))) (VP (VBD called) (NP (NNP Reform)))) (, ,) (NP (DT a) (NN worker) (NN spokesman)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN space) (NN shuttle) (NNP Atlantis)) (VP (VBD landed) (PP (IN at) (NP (NP (DT a) (NN desert) (NN air) (NN strip)) (PP (IN at) (NP (NP (NNP Edwards) (NNP Air) (NNP Force) (NNP Base)) (, ,) (NP (NNP Calif.)) (, ,))) (VP (VBG ending) (NP (NP (DT a) (JJ five-day) (NN mission)) (SBAR (WHNP (WDT that)) (S (VP (VBD dispatched) (NP (DT the) (JJ Jupiter-bound) (NNP Galileo) (NN space) (NN probe)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD five) (NNS astronauts)) (VP (VBD returned) (PP (TO to) (NP (NNP Earth))) (ADVP (NP (QP (RB about) (CD three)) (NNS hours)) (RB early)) (SBAR (IN because) (S (NP (JJ high) (NNS winds)) (VP (VBD had) (VP (VBN been) (VP (VBN predicted) (PP (IN at) (NP (DT the) (NN landing) (NN site))))))))) (. .)))
+
+(S1 (S (NP (NN Fog)) (VP (VBD shrouded) (NP (DT the) (NN base)) (PP (IN before) (NP (NN touchdown)))) (. .)))
+
+(S1 (S (NP (NNS Explosions)) (VP (VBD shook) (NP (NP (DT a) (NNP Phillips) (NNP Petroleum) (NNP Co.) (NNS plastics) (NN plant)) (PP (IN near) (NP (NP (NNP Pasadena)) (, ,) (NP (NNP Texas))))) (, ,) (S (VP (VP (VBG hurling) (NP (NN debris))) (CC and) (VP (VBG causing) (NP (NP (DT a) (NN fire)) (ADJP (JJ visible) (PP (IN from) (ADVP (NP (CD 10) (NNS miles)) (RB away))))))))) (. .)))
+
+(S1 (S (S (NP (QP (JJR More) (IN than) (CD 100)) (NNS people)) (VP (VBD were) (VP (VBN injured)))) (, ,) (CC and) (S (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS workers)))) (VP (VBD were) (VP (VBG missing)))) (. .)))
+
+(S1 (S (NP (NP (NNS Parts)) (PP (IN of) (NP (DT the) (NNP Houston) (NN Ship) (NN Channel)))) (VP (VBD were) (ADJP (JJ closed))) (. .)))
+
+(S1 (S (NP (DT The) (NNP White) (NNP House)) (VP (VBD said) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (VP (VBG conferring) (PP (IN with) (NP (NP (NNS leaders)) (PP (IN of) (NP (DT the) (NNP Senate) (NNP Intelligence) (NNP Committee))))) (S (VP (TO to) (VP (VB ease) (NP (NP (NNS differences)) (PP (IN over) (NP (NP (NNS guidelines)) (PP (IN for) (NP (NNP CIA) (NNS agents)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN statement)) (VP (VBD came) (SBAR (IN after) (S (NP (NNS officials)) (VP (VBD said) (SBAR (S (NP (NNP Bush)) (VP (VBD complained) (PP (IN at) (NP (NP (DT a) (JJ private) (NN meeting)) (NP (JJ last) (NN week)))) (SBAR (IN that) (S (NP (NP (DT a) (JJ strict) (NN interpretation)) (PP (IN of) (NP (DT a) (NN policy)))) (VP (VBZ requires) (S (NP (DT the) (NNP U.S.)) (VP (TO to) (VP (VB notify) (NP (JJ foreign) (NNS dictators)) (PP (IN of) (NP (JJ certain) (NN coup) (NNS plots)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Lebanon) (POS 's)) (NNP Gen.) (NNP Aoun)) (VP (VBD placed) (NP (NP (NNP Christian) (JJ military) (NNS forces)) (PP (IN on) (ADJP (JJ alert)))) (PP (IN in) (NP (NP (NN case)) (PP (IN of) (NP (NP (VBN renewed) (VBG fighting)) (PP (IN with) (NP (JJ Syrian-backed) (NNPS Moslems))))))) (SBAR (IN after) (S (NP (NP (NNP Lebanon) (POS 's)) (CD two) (JJ main) (NNP Shiite) (NNS militias)) (VP (VBD rejected) (NP (DT an) (JJ Arab-sponsored) (NN peace) (NN accord)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN plan)) (, ,) (VP (VP (VBN approved) (PP (IN by) (NP (NNS lawmakers)))) (CC and) (VP (VBN rejected) (NP (NNP Sunday)) (PP (IN by) (NP (NNP Aoun))))) (, ,)) (VP (VBZ includes) (NP (NP (JJ political) (NNS changes)) (VP (VBN aimed) (PP (IN at) (S (VP (VBG ending) (NP (DT the) (JJ 14-year-old) (JJ civil) (NN war)))))))) (. .)))
+
+(S1 (S (NP (NNP NATO) (NN defense) (NNS ministers)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB call) (PP (IN for) (NP (NP (DT a) (NN reduction)) (PP (IN in) (NP (JJ nuclear) (NNS forces))) (PP (IN in) (NP (NP (NNP Europe)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN alliance) (POS 's)) (JJ nuclear) (NN planning) (NN group)) (VP (VBZ convenes) (NP (NP (DT a) (JJ two-day) (NN session) (NN today)) (PP (IN in) (NP (NNP Portugal)))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS ministers)) (VP (VBP are) (S (VP (TO to) (VP (VB reshape) (NP (NP (NP (NNP NATO) (POS 's)) (NNS defenses)) (PP (IN in) (NP (NNP Western) (NNP Europe)))) (PP (IN amid) (NP (NP (JJ fast-paced) (NNS changes)) (PP (IN in) (NP (DT the) (NNP Soviet) (NN bloc))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Iran) (POS 's)) (NNP President) (NNP Rafsanjani)) (VP (VP (VBD offered) (S (VP (TO to) (VP (VB help) (S (VP (VB gain) (NP (NP (NN freedom)) (PP (IN for) (NP (NP (JJ Western) (NNS hostages)) (PP (IN in) (NP (NNP Lebanon)))))))))))) (, ,) (CC but) (VP (VBD said) (SBAR (S (NP (DT the) (NN assistance)) (VP (VBD was) (ADJP (JJ contingent) (PP (IN on) (NP (NP (NNP U.S.) (NN aid)) (PP (IN in) (S (VP (VBG resolving) (NP (NP (NP (DT the) (NNS cases)) (PP (IN of) (NP (NP (CD three) (NNPS Iranians)) (VP (VBN kidnapped) (PP (IN in) (NP (NNP Lebanon))) (PP (IN in) (NP (CD 1982))))))) (CC or) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (VBN frozen) (NNP Iranian) (NNS assets)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Washington)) (VP (VBD rejected) (NP (DT the) (NN bid)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (DT the) (NNS hostages)) (VP (VBD were) (RB n't) (VP (VBN linked) (PP (TO to) (NP (JJ other) (NNS issues)))))))))) (. .)))
+
+(S1 (S (S (NP (NNP PLO) (NN leader) (NNP Arafat)) (VP (VBD asked) (NP (NNP Egypt)) (S (VP (TO to) (VP (VB seek) (NP (NP (NNS clarifications)) (PP (IN from) (NP (DT the) (NNP U.S.))) (PP (IN on) (NP (NP (NAC (NNP Secretary) (PP (IN of) (NP (NNP State) (NNP Baker)))) (POS 's)) (NN plan)))) (PP (IN for) (NP (NNP Mideast) (NN peace))) (NP (NNS talks))))))) (, ,) (NP (NP (DT an) (NN aide)) (PP (TO to) (NP (JJ Egyptian) (NNP President) (NNP Mubarak)))) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN official)) (VP (VBD stressed) (SBAR (IN that) (S (NP (DT the) (NNP PLO)) (VP (VBZ has) (RB n't) (VP (VBN rejected) (NP (DT the) (JJ five-point) (NN formula))))))) (. .)))
+
+(S1 (S (NP (NNP Commonwealth) (NNS leaders)) (VP (VBD turned) (PP (TO to) (NP (NP (NNS issues)) (VP (VBG ranging) (PP (PP (IN from) (NP (NNS drugs))) (PP (TO to) (NP (DT the) (NN world) (NN economy))))))) (SBAR (IN after) (S (NP (NP (NNP Zimbabwe) (POS 's)) (NNP President) (NNP Mugabe)) (VP (VBD called) (S (NP (NP (NP (NNP Thatcher) (POS 's)) (NNS views)) (PP (IN on) (NP (NNP South) (NNP Africa)))) (`` `) (ADJP (`` `) (JJ despicable))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN At) (NP (NP (DT a) (NN meeting)) (PP (IN in) (NP (NNP Malaysia))))) (, ,) (NP (NP (NNP Australia)) (CC and) (NP (NNP Canada))) (ADVP (RB also)) (VP (VBD assailed) (NP (NP (DT the) (JJ British) (JJ prime) (NN minister)) (PP (IN for) (S (VP (VBG criticizing) (NP (NP (NP (DT the) (JJ 49-nation) (NN group) (POS 's)) (NN call)) (PP (IN for) (NP (NNP Pretoria)))) (S (VP (TO to) (VP (VB ease) (NP (NN apartheid)))))))))) (. .)))
+

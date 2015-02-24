@@ -1,0 +1,46 @@
+(S1 (S (NP (NP (NNP Southern) (NNP Co.) (POS 's)) (NNP Gulf) (NNP Power) (NNP Co.) (NN unit)) (VP (MD may) (VP (VB plead) (ADJP (JJ guilty) (NP (DT this) (NN week)) (PP (TO to) (NP (NNS charges) (SBAR (IN that) (S (NP (PRP it)) (VP (ADVP (RB illegally)) (VBD steered) (NP (NN company) (NN money)) (PP (TO to) (NP (NNS politicians))) (PP (IN through) (NP (JJ outside) (NNS vendors))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNS individuals)) (ADJP (JJ close) (PP (TO to) (NP (NP (DT an) (NN investigation)) (PP (IN of) (NP (DT the) (NN utility) (VBG holding) (NN company))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT The) (JJ tentative) (NN settlement)) (PP (IN between) (NP (NP (NNP Gulf) (NNP Power)) (, ,) (NP (DT a) (NAC (NNP Pensacola) (, ,) (NNP Fla.) (, ,)) (JJ electric) (NN company)) (, ,)))) (CC and) (NP (JJ federal) (NNS prosecutors))) (VP (MD would) (VP (VB mark) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NP (CD one) (NN part)) (PP (IN of) (NP (NP (DT a) (JJ wide-ranging) (NN inquiry)) (PP (IN of) (NP (NP (NNP Southern) (NNP Co.)) (PP (IN in) (NP (DT the) (JJ past) (NN year)))))))))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ grand) (NN jury)) (VP (VBZ has) (VP (VBN been) (VP (VBG investigating) (SBAR (IN whether) (S (NP (NP (NNS officials)) (PP (IN at) (NP (NNP Southern) (NNP Co.)))) (VP (VBD conspired) (S (VP (TO to) (VP (VB cover) (PRT (RP up)) (NP (NP (PRP$ their) (NN accounting)) (PP (IN for) (NP (JJ spare) (NNS parts)))) (S (VP (TO to) (VP (VB evade) (NP (JJ federal) (NN income) (NNS taxes)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ grand) (NN jury)) (VP (VBZ has) (ADVP (RB also)) (VP (VBN been) (VP (VBG investigating) (SBAR (IN whether) (S (NP (NNP Gulf) (NNP Power) (NNS executives)) (VP (VBD violated) (NP (NP (DT the) (JJ federal) (NNP Utility) (NNP Holding) (NNP Company) (NNP Act)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ prohibits) (NP (JJ certain) (NNS utilities)) (PP (IN from) (S (VP (VBG making) (NP (JJ political) (NNS contributions))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS individuals)) (VP (VBD said) (SBAR (S (NP (NP (NNP Gulf) (NNP Power)) (CC and) (NP (JJ federal) (NNS prosecutors))) (VP (VBP are) (VP (VBG considering) (NP (NP (DT a) (NN settlement)) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (DT the) (NN company)) (VP (MD would) (VP (VP (VB plead) (ADJP (JJ guilty) (PP (TO to) (NP (CD two) (NN felony) (NNS charges))))) (CC and) (VP (VB pay) (NP (NP (NNS fines)) (VP (VBG totaling) (NP (QP (IN between) ($ $) (CD 500,000) (CC and) ($ $) (CD 1.5) (CD million)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (CD one) (NN count))) (, ,) (NP (NNP Gulf) (NNP Power)) (VP (MD would) (VP (VB plead) (ADJP (JJ guilty) (PP (TO to) (S (VP (VBG conspiring) (S (VP (TO to) (VP (VB violate) (NP (DT the) (NNP Utility) (NNP Holding) (NNP Company) (NNP Act))))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT the) (JJ second) (NN count))) (, ,) (NP (DT the) (NN company)) (VP (MD would) (VP (VB plead) (ADJP (JJ guilty) (PP (TO to) (S (VP (VBG conspiring) (S (VP (TO to) (VP (VB evade) (NP (NNS taxes))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ guilty) (NNS pleas)) (VP (MD would) (VP (VB be) (VP (VBN made) (PP (ADVP (RB solely)) (IN by) (NP (NNP Gulf) (NNP Power))))))) (, ,) (NP (DT the) (NNS individuals)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT No) (NN employee) (CC or) (NN vendor)) (VP (MD would) (VP (VB be) (VP (VBN involved)))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN spokesman)) (PP (IN for) (NP (NNP Southern) (NNP Co.)))) (VP (MD would) (VP (VB say) (SBAR (RB only) (IN that) (S (NP (NNS discussions)) (VP (VBP are) (VP (VBG continuing) (PP (IN between) (NP (NP (NNP Gulf) (NNP Power)) (CC and) (NP (JJ federal) (NNS prosecutors)))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP have) (NP (NP (DT no) (JJ further) (NNS developments)) (SBAR (S (VP (TO to) (VP (VB report))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNS Officials)) (PP (IN at) (NP (NNP Gulf) (NNP Power)))) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (NN comment)))))) (. .)))
+
+(S1 (S (CC And) (NP (NNS prosecutors)) (VP (VBD declined) (S (VP (TO to) (VP (VB comment))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NNP Southern) (NNP Co.)) (VP (VBZ has) (VP (VBN been) (ADJP (JJ reluctant) (S (VP (TO to) (VP (VB discuss) (NP (DT the) (JJ grand) (NN jury)) (NP (NNS investigations)))))))))) (, ,) (NP (NP (NNP Edward) (NNP L.) (NNP Addison)) (, ,) (NP (JJ chief) (JJ executive) (NN officer)) (, ,)) (VP (VBZ has) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBZ is) (ADJP (JJ prepared) (S (VP (TO to) (VP (VB defend) (NP (PRP$ its) (NN tax) (CC and) (NN acccounting) (NNS practices)) (SBAR (IN if) (S (NP (DT any) (NNS charges)) (VP (VBP are) (VP (VBN brought) (PP (IN against) (NP (PRP it)))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Morever)) (, ,) (NP (NNP Mr.) (NNP Addison)) (VP (VBZ has) (VP (VBD said) (SBAR (S (NP (NP (NNP Southern) (NNP Co.)) (CC and) (NP (PRP$ its) (NNS units))) (VP (VBP do) (RB n't) (VP (VB condone) (NP (JJ illegal) (JJ political) (NNS contributions)))))))) (. .)))
+
+(S1 (S (NP (CC Neither) (NP (NNP Mr.) (NNP Addison)) (CC nor) (NP (DT any) (JJ other) (NNP Southern) (NNP Co.) (NN official))) (VP (VBZ has) (VP (VBN been) (VP (VBN charged) (PP (IN with) (NP (DT any) (NN wrongdoing))) (PP (IN in) (NP (NP (NN connection)) (PP (IN with) (NP (DT the) (JJ current) (NNS inquiries)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN probe)) (PP (IN of) (NP (NNP Southern) (NNP Co.)))) (VP (VBZ has) (VP (VBD attracted) (NP (JJ considerable) (NN attention)) (NP (DT this) (NN year)) (PP (IN because) (IN of) (NP (NP (JJ several) (NNS events)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN befallen) (NP (DT the) (NN company)) (, ,) (PP (VBG including) (NP (NP (DT the) (NN death)) (PP (IN of) (NP (DT a) (NNP Gulf) (NNP Power) (NN executive))) (PP (IN in) (NP (NP (DT a) (NN plane) (NN crash)) (CC and) (NP (NP (DT the) (NN disappearance)) (PP (IN of) (NP (DT a) (NN company) (NN vendor))) (SBAR (WHNP (WP who)) (S (VP (VBD was) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ key) (JJ grand) (NN jury) (NN witness))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Witnesses)) (VP (VBP have) (VP (VBD said) (SBAR (S (NP (DT the) (JJ grand) (NN jury)) (VP (VBZ has) (VP (VBD asked) (NP (NP (JJ numerous) (NNS questions)) (PP (IN about) (NP (NP (NNP Jacob) (NNP F.) (`` `) (S (NP (`` `) (NNP Jake) ('' '))) ('' ') (NNP Horton)) (, ,) (NP (NP (DT the) (JJ senior) (NN vice) (NN president)) (PP (IN of) (NP (NNP Gulf) (NNP Power))) (SBAR (WHNP (WP who)) (S (VP (VBD died) (PP (IN in) (NP (DT the) (NN plane) (NN crash))) (PP (IN in) (NP (NNP April)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Horton)) (VP (VBD oversaw) (NP (NP (NNP Gulf) (NNP Power) (POS 's)) (JJ governmental-affairs) (NNS efforts))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NP (DT the) (NN morning)) (PP (IN of) (NP (DT the) (NN crash))))) (, ,) (NP (PRP he)) (VP (VBD had) (VP (VBN been) (VP (VBN put) (PP (IN on) (NP (NN notice) (SBAR (IN that) (S (NP (DT an) (NN audit) (NN committee)) (VP (VBD was) (VP (VBG recommending) (NP (PRP$ his) (NN dismissal)) (PP (IN because) (IN of) (NP (NP (VBG invoicing) (NNS irregularities)) (PP (IN in) (NP (DT a) (NN company) (NN audit)))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Investigators)) (VP (VBP have) (VP (VBN been) (VP (VBG trying) (S (VP (TO to) (VP (VB determine) (SBAR (IN whether) (S (NP (DT the) (NN crash)) (VP (VBD was) (NP (DT an) (NN accident) (, ,) (NN sabotage) (CC or) (NN suicide))))))))))) (. .)))
+
+(S1 (S (NP (NNP Gulf) (NNP Power)) (VP (VBD said) (PP (IN in) (NP (NNP May))) (SBAR (IN that) (S (NP (DT an) (JJ internal) (NN audit)) (VP (VBD had) (VP (VBN disclosed) (SBAR (IN that) (S (NP (QP (IN at) (JJS least) (CD one)) (NN vendor)) (VP (VBD had) (VP (VBN used) (NP (JJ false) (NNS invoices)) (S (VP (TO to) (VP (VB fund) (NP (JJ political) (NNS causes)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (DT the) (JJ political) (NNS contributions)) (VP (VBD had) (VP (VBN been) (VP (VBN made) (ADVP (NP (QP (JJR more) (IN than) (CD five)) (NNS years)) (RB ago)))))))) (. .)))
+

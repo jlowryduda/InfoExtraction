@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NNP Interface) (NNPS Systems) (NNP Inc.)) (, ,) (NP (NP (NNP Ann) (NNP Arbor)) (, ,) (NP (NNP Mich.))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB report) (SBAR (S (NP (NP (JJ net) (NN income)) (PP (IN for) (NP (NP (DT the) (JJ fourth) (NN quarter)) (VP (VBN ended) (NP (NNP Sept.) (CD 30)))))) (VP (VBD fell) (PP (TO to) (NP (NP ($ $) (CD 470,000)) (, ,) (CC or) (NP (NP (CD 11) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP ($ $) (CD 805,000)) (, ,) (CC or) (NP (NP (CD 19) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))))))) (. .)))
+
+(S1 (S (NP (NNP Chairman) (NNP Carl) (NNP L.) (NNP Bixby)) (VP (VBD said) (SBAR (S (NP (DT the) (NN decline)) (VP (VBD occurred) (SBAR (IN although) (S (NP (NN revenue)) (VP (VBD rose) (NP (CD 30) (NN %)) (PP (TO to) (NP (QP (JJR more) (IN than) ($ $) (CD 8.3) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 6.4) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NN computer) (NNS parts)))))) (VP (VBD said) (SBAR (S (NP (JJ fiscal) (CD 1989) (NNS earnings)) (VP (VBD were) (`` `) (ADVP (`` `) (RB down) (RB slightly) ('' ')) ('' ') (PP (IN from) (NP (NP (QP ($ $) (CD 3.2) (CD million))) (, ,) (CC or) (NP (NP (CD 74) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (PP (IN in) (NP (JJ fiscal) (CD l988)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (JJ fiscal) (CD 1989) (NN revenue)) (VP (VBD increased) (NP (QP (IN about) (CD 30)) (NN %)) (PP (TO to) (NP (QP (JJR more) (IN than) ($ $) (CD 32) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 25.3) (CD million)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Bixby)) (VP (VBD said) (SBAR (IN that) (S (NP (JJ early) (NNS signs)) (VP (VBP point) (PP (TO to) (NP (NP (JJ improved) (NNS earnings)) (CC and) (NP (NP (NN revenue)) (PP (IN in) (NP (NP (DT the) (JJ first) (NN quarter)) (PP (IN of) (NP (JJ fiscal) (CD 1990)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NP (DT The) (JJ current) (NN backlog)) (PP (IN of) (NP (NNS orders)))) (VP (VBZ is) (ADJP (JJ strong)) (PP (IN throughout) (NP (DT the) (NN corporation)))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+

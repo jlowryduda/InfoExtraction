@@ -1,0 +1,88 @@
+(S1 (NP (NP (NP (DT a) (JJ tragicomic) (NN monologue)) (PP (IN by) (NP (NP (DT an) (ADJP (JJ idealistic) (, ,) (RB not) (JJ unheroic) (, ,) (IN though) (ADJP (RB sadly) (JJ self-deceived))) (NNP English) (NNP butler)) (PP (IN in) (NP (PRP$ his) (NNS sixties)))))) (: --) (NP (NP (NNS proceeds)) (SBAR (IN as) (IN if) (S (NP (NP (DT the) (JJ realistic) (NNP English) (NN novel)) (PP (IN of) (NP (NP (NNS manners)) (, ,) (PP (IN like) (NP (NP (NNP Britannia)) (NP (PRP herself)))) (, ,)))) (VP (ADVP (RB still)) (VBN ruled) (NP (DT the) (NNS waves)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN fact))) (, ,) (NP (NP (NNP Kazuo) (NNP Ishiguro) (POS 's)) (`` `) (S (`` `) (NP (NP (DT The) (NNS Remains)) (PP (IN of) (NP (DT the) (NN Day) (POS '))))) ('' ') (PRN (-LRB- -LRB-) (NP (NNP Knopf)) (, ,) (NP (CD 245) (NNS pages)) (, ,) (NP ($ $) (CD 18.95)) (-RRB- -RRB-))) (VP (VBZ is) (NP (NP (PDT both) (DT an) (NN homage)) (PP (TO to) (NP (NP (JJ traditional) (JJ English) (NNS forms)) (CC and) (NP (NP (DT a) (JJ dramatic) (NN critique)) (PP (IN of) (NP (PRP them)))))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBZ implies) (SBAR (IN that) (S (NP (DT the) (NNP British) (NNP Empire)) (VP (VBD was) (VP (VBN rooted) (PP (IN in) (NP (NP (PRP$ its) (NNS subjects) (POS ')) (NNS minds) (, ,) (NNS manners) (CC and) (NNS morals))))))))) (, ,) (CC and) (S (VP (VBZ argues) (, ,) (ADVP (RB tacitly)) (, ,) (SBAR (IN that) (S (NP (PRP$ its) (JJ self-destructive) (NNS flaws)) (VP (VBD were) (VP (VBN embodied) (PP (IN in) (NP (NP (DT the) (JJ defensive) (NN snobbery)) (, ,) (NP (JJ willful) (NN blindness)) (, ,) (NP (NN role-playing)) (CC and) (NP (NP (RB especially) (DT the) (NNS locutions)) (PP (IN of) (NP (PRP$ its) (JJ domestic) (NNS servants)))))))))))) (. .)))
+
+(S1 (S (IN As) (NP (NP (DT the) (NN narrator) (NNP Stevens)) (, ,) (NP (NP (DT the) (JJ solitary) (NNP butler)) (PP (IN of) (NP (NNP Darlington) (NNP Hall)))) (, ,)) (VP (VBZ mulls) (PP (IN over) (NP (NP (JJ such) (JJ hallowed) (NNS terms)) (PP (IN as) (NP (`` `) (NP (`` `) (NP (FW greatness)) (, ,) ('' ')) ('' ') (`` `) (NP (`` `) (NP (NN dignity)) (, ,) ('' ')) ('' ') (`` `) (NP (`` `) (NP (NN service) (POS ')) (POS ') (CC and) (`` `) (NP (`` `) (NP (NN loyalty))) (, ,) ('' ')) ('' ') (SBAR (S (NP (PRP we)) (VP (VBP see) (SBAR (WHADVP (WRB how)) (S (NP (JJ pious) (NN cant)) (VP (VBZ subverts) (NP (DT the) (NN soul))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Stevens) (POS 's)) (JJ dutiful) (NN conflation)) (PP (IN of) (NP (DT the) (ADJP (JJ public) (CC and) (JJ private)) (NNS realms)))) (PRN (: --) (PP (IN like) (NP (PRP$ his) (JJ beloved) (NN master) (POS 's))) (: --)) (VP (VBZ destroys) (SBAR (DT all) (S (NP (PRP it)) (VP (VBD was) (VP (VBN designed) (S (VP (TO to) (VP (VB preserve))))))))) (. .)))
+
+(S1 (S (NP (JJ Such) (NN armor)) (VP (VBZ crushes) (NP (DT the) (NN soldier))) (. .)))
+
+(S1 (S (NP (DT The) (NN mask)) (VP (VBZ cuts) (PP (TO to) (NP (DT the) (JJ quick)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (CD 1956)) (, ,) (NP (NP (DT the) (NN year)) (SBAR (S (NP (DT the) (NNP Suez) (NN crisis)) (VP (VBD marked) (NP (NP (DT the) (JJ final) (NN end)) (PP (IN of) (NP (NNP Empire)))))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBZ stands) (PP (IN on) (NP (NP (NP (DT a) (NN hill)) (PP (IN at) (NP (NP (DT the) (NN beginning)) (PP (IN of) (NP (NP (DT a) (JJ six-day) (NN motor) (NN expedition)) (PP (IN from) (NP (NNP Oxfordshire))) (PP (TO to) (NP (NNP Cornwall))))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (JJ former) (NN housekeeper)) (VP (VBZ resides))))))) (, ,) (ADVP (RB perhaps)) (NP (NP (DT the) (NN victim)) (PP (IN of) (NP (DT an) (JJ unhappy) (JJ 20-year) (NN marriage)))) (, ,))) (ADVP (RB perhaps)) (PRN (-LRB- -LRB-) (S (NP (PRP he)) (VP (VBZ hopes) (PP (IN with) (NP (NP (JJR more) (NN fervor)) (SBAR (IN than) (S (NP (PRP he)) (VP (MD will) (ADVP (RB ever)) (VP (VB acknowledge))))))))) (-RRB- -RRB-)) (RB not) (VP (VBN disinclined) (S (VP (TO to) (VP (VB return) (PP (TO to) (NP (JJ domestic) (NN service)))))))))) (, ,) (NP (NNP Stevens)) (VP (VP (VBZ surveys) (NP (DT the) (NN view))) (CC and) (VP (ADVP (RB thereby)) (VBZ provides) (NP (NP (DT a) (NN self-portrait)) (, ,) (NP (DT a) (NN credo)) (CC and) (NP (NP (NP (DT the) (NN author) (POS 's)) (NN metaphor)) (PP (IN for) (NP (NP (DT the) (JJ aesthetic)) (PP (IN of) (NP (NP (DT the) (NN novel)) (SBAR (S (NP (PRP we)) (VP (VBP 're) (VP (VBG reading))))))))))))) (: :)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP call) (NP (NP (DT this) (NN land)) (PP (IN of) (NP (JJ ours) (NNP Great) (NNP Britain)))))) (, ,) (CC and) (S (NP (EX there)) (VP (MD may) (VP (VB be) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP believe) (S (NP (DT this)) (NP (DT a) (ADJP (RB somewhat) (JJ immodest)) (NN practice)))))))))) (. .)))
+
+(S1 (S (CC Yet) (NP (PRP I)) (VP (MD would) (VP (VB venture) (SBAR (IN that) (S (NP (NP (DT the) (NN landscape)) (PP (IN of) (NP (PRP$ our) (NN country)))) (ADVP (RB alone)) (VP (MD would) (VP (VB justify) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (DT this) (JJ lofty) (JJ adjective) (NN ..)))))) (. .))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NP (DT the) (JJ very) (NN lack)) (PP (IN of) (NP (JJ obvious) (NN drama)))) (CC or) (NP (NP (NN spectacle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sets) (NP (NP (DT the) (NN beauty)) (PP (IN of) (NP (PRP$ our) (NN land)))) (ADVP (RB apart)))))))) (. .)))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ is) (ADJP (JJ pertinent))))) (VP (VBZ is) (NP (NP (DT the) (NN calmness)) (PP (IN of) (NP (DT that) (NN beauty)))) (, ,) (NP (NP (PRP$ its) (NN sense)) (PP (IN of) (NP (NN restraint))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (SBAR (IN as) (IN though) (S (NP (DT the) (NN land)) (VP (VP (VBZ knows) (PP (IN of) (NP (NP (PRP$ its) (JJ own) (NN beauty)) (, ,) (PP (IN of) (NP (PRP$ its) (JJ own) (NN greatness))) (, ,)))) (CC and) (VP (VBZ feels) (NP (DT no) (NN need) (S (VP (TO to) (VP (NN shout) (NP (PRP it))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN comparison))) (, ,) (NP (NP (DT the) (NNS sorts)) (PP (IN of) (NP (NNS sights)))) (VP (VBD offered) (SBAR (S (PP (IN in) (NP (NP (JJ such) (NNS places)) (PP (IN as) (NP (NNP Africa) (CC and) (NNP America))))) (, ,) (SBAR (IN though) (S (ADVP (RB undoubtedly)) (ADJP (RB very) (JJ exciting)))) (, ,) (VP (MD would) (VP (PRN (, ,) (S (NP (PRP I)) (VP (VBP am) (ADJP (JJ sure)))) (, ,)) (VB strike) (NP (NP (DT the) (JJ objective) (NN viewer)) (ADJP (RB as) (JJ inferior))) (PP (IN on) (NP (NP (NN account)) (PP (IN of) (NP (PRP$ their) (JJ unseemly) (NN demonstrativeness)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (NP (DT An) (JJ effusive) (NN landscape)) (. ?)))
+
+(S1 (FRAG (NP (DT An) (JJ ill-mannered) (NN mountain)) (. ?)))
+
+(S1 (S (CC But) (S (VP (VB let) (S (NP (NNP Stevens)) (VP (VB continue) (PP (IN in) (NP (NP (PRP$ his) (JJ unwitting) (JJ comic) (NN manner)) (PRN (-LRB- -LRB-) (NP (NP (PRP$ his) (JJ conscious) (NNS efforts)) (PP (IN at) (NP (`` `) (NP (`` `) (NP (NN banter) (POS ')) ('' ') (VP (ADVP (RB always)) (VB fail)))))) (: --) (ADVP (RBS most) (RB comically)) (-RRB- -RRB-)))) (: :) (`` `) (S (`` `) (NP (DT This) (JJ whole) (NN question)) (VP (VBZ is) (ADJP (RB very) (JJ akin) (PP (TO to) (NP (NP (DT the) (NN question)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN caused) (NP (JJ much) (NN debate)) (PP (IN in) (NP (NP (PRP$ our) (NN profession)) (PP (IN over) (NP (DT the) (NNS years)))))))))))))))))) (: :) (SBARQ (WHNP (WP what)) (SQ (VP (VBZ is) (NP (DT a) (`` `) (JJ great) ('' ') (NNP butler)))) (. ?) ('' ') ('' '))))
+
+(S1 (S (NP (PRP$ His) (NN answer)) (VP (VBZ is) (NP (NP (CD one)) (`` `) (VP (`` `) (VBN possessed) (PP (IN of) (NP (NP (DT a) (NN dignity)) (PP (IN in) (NP (NP (VBG keeping)) (PP (IN with) (NP (PRP$ his) (NN position)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (JJ Such) (NN dignity)) (UCP (`` `) (SBARQ (`` `) (SQ (VP (VBZ has) (S (VP (TO to) (VP (VB do) (ADVP (RB crucially)) (PP (IN with) (NP (NP (DT a) (NNP butler) (POS 's)) (NN ability) (S (RB not) (VP (TO to) (VP (VB abandon) (NP (NP (DT the) (JJ professional) (NN being)) (SBAR (S (NP (PRP he)) (VP (VBZ inhabits))))))))))))))) (. .) ('' ')) ('' '))))
+
+(S1 (S (NP (PRP He)) (VP (`` `) (`` `) (VP (MD will) (RB not) (VP (VB be) (VP (VBN shaken) (PRT (RP out)) (PP (IN by) (NP (NP (JJ external) (NNS events)) (, ,) (ADJP (RB however) (JJ surprising)) (, ,) (VP (JJ alarming) (CC or) (VBG vexing) (NP (NNS ..))) (. .))))))) (. .)))
+
+(S1 (S (NP (NNS Continentals)) (VP (VBP are) (ADJP (JJ unable) (S (VP (TO to) (VP (VB be) (NP (NNS butlers)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP are) (ADJP (NP (RB as) (DT a) (NN breed)) (JJ incapable) (PP (IN of) (NP (NP (DT the) (JJ emotional) (NN restraint)) (SBAR (WHNP (WDT which)) (S (NP (RB only) (DT the) (JJ English) (NN race)) (VP (VBP are) (ADJP (JJ capable) (PP (IN of))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN Despite) (NP (PRP$ his) (JJ racial) (NN advantage))) (, ,) (S (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ great) (NNP butler))))) (VP (VBZ is) (NP (DT a) (JJ heroic) (NN calling)))) (: ;) (S (NP (NP (CD one) (POS 's)) (NN pantry)) (VP (VBZ is) (`` `) (PP (`` `) (RB not) (IN unlike) (NP (NP (NP (NN general) (POS 's)) (NN headquarters)) (PP (IN during) (NP (DT a) (NN battle)))) (. .) ('' ')) ('' ')))))
+
+(S1 (S (SBAR (IN If) (S (, ,) (PP (IN for) (NP (NN example))) (, ,) (PP (IN in) (NP (NP (DT the) (NN midst)) (PP (IN of) (NP (NP (NP (DT a) (JJ great) (JJ social) (NN occasion)) (PRN (-LRB- -LRB-) (PP (JJ such) (IN as) (NP (NP (DT an) (JJ international) (NN conference)) (PP (IN on) (S (VP (VBG revising) (NP (NP (DT the) (NNP Versailles) (NNP Treaty)) (PP (IN in) (NP (CD 1923))))))))) (-RRB- -RRB-))) (, ,) (NP (NP (CD one) (POS 's)) (JJ 72-yearold) (NN father)) (, ,) (NP (NP (PRP himself)) (NP (NP (DT a) (JJ great) (NNP butler)) (ADVP (RB once)))))))) (, ,) (VP (MD should) (VP (VB happen) (S (VP (TO to) (VP (VB die) (PP (IN of) (NP (DT a) (NN stroke)))))))))) (, ,) (NP (PRP one)) (VP (MD must) (VP (VB continue) (S (VP (TO to) (VP (VB serve) (NP (DT the) (NN port)) (: :) (`` `) (S (`` `) (INTJ (UH Please)) (VP (VB do) (RB n't) (VP (VB think) (NP (PRP me)) (ADVP (RB unduly) (JJ improper)) (PP (IN in) (S (RB not) (VP (VBG ascending) (S (VP (TO to) (VP (VB see) (NP (PRP$ my) (NN father)) (PP (IN in) (NP (PRP$ his) (JJ deceased) (NN condition)))))) (PP (ADVP (RB just)) (IN at) (NP (DT this) (NN moment)))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP You)) (VP (VBP see))) (, ,) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP$ my) (NN father)) (VP (MD would) (VP (VB have) (VP (VBN wished) (S (NP (PRP me)) (VP (TO to) (VP (VB carry) (PRT (RP on)) (NP (RB just) (RB now)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN dignity) (CC and) (NN restraint))) (SBAR (WHNP (WDT that)) (S (VP (VBZ allows) (S (NP (NNP Stevens)) (VP (TO to) (VP (VB declare) (: :) (`` `) (S (`` `) (S (PP (IN For) (NP (PDT all) (PRP$ its) (JJ sad) (NNS associations))) (, ,) (SBAR (WHADVP (WRB whenever)) (S (NP (PRP I)) (VP (VBP recall) (NP (DT that) (NN evening) (NN today))))) (, ,) (NP (PRP I)) (VP (VBP find) (SBAR (S (NP (PRP I)) (VP (VBP do) (ADVP (RB so)) (PP (IN with) (NP (NP (DT a) (JJ large) (NN sense)) (PP (IN of) (NP (NN triumph))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP We)) (VP (VBP note) (NP (NP (DT the) (JJ imperial) (JJ public) (NN word)) (VP (VBN used) (S (VP (TO to) (VP (VB deny) (NP (JJ private) (NN rage) (CC and) (NN sorrow)))))))) (. .)))
+
+(S1 (S (S (NP (NP (IN That) (NNP Stevens)) (NP (PRP himself))) (VP (VBZ is) (RB not) (ADJP (JJ grotesque) (CC or) (JJ repellent)))) (, ,) (CC but) (S (UCP (ADJP (JJ funny) (CC and) (JJ sad)) (CC and) (VP (VBG enlightening))) (, ,) (VP (VBZ is) (ADVP (RB entirely)) (NP (NP (DT the) (NN author) (POS 's)) (NN triumph)))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Ishiguro) (POS 's)) (NN ability) (S (VP (TO to) (VP (VB create) (NP (NP (DT a) (JJ fallible) (NN narrative) (NN voice)) (SBAR (WHNP (WDT that)) (S (VP (VBZ permits) (S (NP (PRP him)) (VP (TO to) (VP (VB explore) (NP (JJ such) (JJ intertwining) (ADJP (JJ domestic) (, ,) (JJ cultural) (CC and) (JJ political)) (NNS themes))))))))))))) (VP (VBD was) (ADJP (RB abundantly) (JJ clear)) (PP (IN in) (NP (NP (PRP$ his) (JJ previous) (NN novel)) (, ,) (NP (`` `) (NP (`` `) (NP (NP (DT An) (NNP Artist)) (PP (IN of) (NP (DT the) (JJ Floating) (NN World)))) (, ,) ('' ')) ('' ') (VP (VBN set) (PP (IN in) (NP (NNP Japan))))))) (PP (IN after) (NP (DT the) (NN war)))) (. .)))
+
+(S1 (S (S (S (ADVP (RB Now)) (VP (VBG shifting) (NP (NP (PRP$ his) (NN scene)) (PP (IN from) (NP (DT the) (NN country))) (SBAR (S (NP (PRP he)) (VP (VBD left) (PP (IN at) (NP (CD five))))))) (PP (TO to) (NP (DT the) (NNP England))))) (NP (PRP he)) (VP (VBZ has) (VP (VBD lived) (PRT (RP in)) (PP (IN for) (NP (QP (RB nearly) (CD 30)) (NNS years)))))) (, ,) (NP (PRP he)) (VP (VBZ has) (VP (VBN fashioned) (NP (DT a) (NN novel)) (PP (IN in) (NP (NP (DT the) (NN mode)) (PP (IN of) (NP (NNP Henry) (NNP James) (CC and) (NNP E.M.) (NNP Forster))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (JJ great) (NN aplomb))) (NP (PRP he)) (VP (VBZ considers) (RB not) (NP (RB only) (NP (NP (JJ filial) (NN devotion)) (CC and) (PRN (-LRB- -LRB-) (ADJP (RB utterly) (VBN repressed)) (-RRB- -RRB-)) (NP (JJ sexual) (NN love))) (, ,) (CC but) (NP (JJ British) (NN anti-Semitism)) (, ,) (NP (NP (NP (DT the) (NN gentry) (POS 's)) (NN impatience)) (PP (IN with) (NP (NP (NN democracy)) (CC and) (NP (NP (NN support)) (PP (IN of) (NP (NNP Hitler))))))) (, ,) (CC and) (NP (NP (DT the) (JJ moral) (NN problematics)) (PP (IN of) (NP (NN loyalty))))) (: :) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ is) (, ,) (PP (IN in) (NP (NN practice))) (, ,) (ADJP (RB simply) (RB not) (JJ possible) (SBAR (S (VP (TO to) (VP (VB adopt) (NP (PDT such) (DT a) (JJ critical) (NN attitude)) (PP (PP (IN towards) (NP (DT an) (NN employer))) (CC and) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (SBAR (S (VP (VBP provide) (NP (JJ good) (NN service) (NNS ..)))))))))))))) (. .))) (. .)))
+
+(S1 (S (`` `) (NP (DT This) (NN employer)) (VP (VBZ embodies) (NP (NP (DT all)) (SBAR (WHNP (WDT that)) (S (NP (PRP I)) (VP (VBP find) (ADJP (JJ noble) (CC and) (JJ admirable))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (MD will) (ADVP (RB hereafter)) (VP (VB devote) (NP (PRP myself)) (PP (TO to) (S (VP (VBG serving) (NP (PRP him))))))) (. .)))
+
+(S1 (S ('' ') (NP (DT This)) (VP (VBZ is) (NP (NP (NN loyalty)) (VP (ADVP (RB intelligently)) (VBN bestowed)))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN end))) (, ,) (PP (IN after) (NP (NP (NN meeting)) (PP (IN with) (NP (DT the) (JJ former) (NN housekeeper))))) (, ,) (NP (NNP Stevens)) (VP (VP (VBZ sits) (PP (IN by) (NP (DT the) (NN seashore))) (PP (IN at) (NP (NP (NN dusk)) (, ,) (VP (VBG thinking) (PP (PP (IN of) (NP (PRP her))) (CC and) (PP (IN of) (NP (PRP$ his) (NN employer))))) (, ,)))) (CC and) (VP (VBZ declares) (`` `) (S (`` `) (NP (PRP I)) (VP (VBD trusted))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBD trusted) (PP (IN in) (S (NP (NP (PRP$ his) (NN lordship) (POS 's)) (NN wisdom)) (VP (VBG ..)) (. .)))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (MD ca) (RB n't) (ADVP (RB even)) (VP (VB say) (SBAR (S (NP (PRP I)) (VP (VBD made) (NP (PRP$ my) (JJ own) (NNS mistakes))))))) (. .)))
+
+(S1 (SBARQ (RB Really) (PRN (: --) (S (NP (PRP one)) (VP (VBZ has) (S (VP (TO to) (VP (VB ask) (ADJP (JJ oneself))))))) (: --)) (WHNP (WP what) (NN dignity)) (SQ (VBZ is) (NP (EX there)) (PP (IN in) (NP (DT that)))) (. ?) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (JJ loyal) (NN servant)) (VP (VBZ has) (VP (VBN come) (NP (JJ full) (NN circle)))) (. .)))
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (VP (VBZ is) (NP (NN greatness)))) (. ?)))
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (VP (VBZ is) (NP (NN dignity)))) (. ?)))
+
+(S1 (S (S (NP (PRP We)) (VP (VBP understand) (SBAR (S (NP (JJ such) (JJ rueful) (NN wisdom)) (VP (MD must) (VP (VB be) (NP (NN retrospective)))))))) (: :) (S (NP (NP (DT The) (NN owl)) (PP (IN of) (NP (NNP Minerva)))) (ADVP (RB only)) (VP (VBZ spreads) (NP (PRP$ her) (NNS wings)) (PP (IN at) (NP (NN dusk))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN as) (S (`` `) (NP (`` `) (NP (NP (DT The) (NNS Remains)) (PP (IN of) (NP (DT the) (NN Day)))) ('' ')) ('' ') (VP (ADVP (RB so) (RB eloquently)) (VBZ demonstrates) (PP (IN with) (NP (JJ quiet) (NN virtuosity)))))) (, ,) (NP (JJ such) (NN wisdom)) (VP (MD can) (VP (VB be) (VP (ADVP (RB movingly)) (VBN embodied) (PP (IN in) (NP (NN art)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Locke)) (VP (VBZ teaches) (NP (ADJP (JJ English) (CC and) (JJ comparative)) (NN literature)) (PP (IN at) (NP (NNP Columbia) (NNP University)))) (. .)))
+

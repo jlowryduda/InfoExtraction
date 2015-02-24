@@ -1,0 +1,60 @@
+(S1 (S (NP (NP (NP (NNP Ford) (NNP Motor) (NNP Co.) (POS 's)) (NNP Merkur)) (, ,) (NP (NP (NP (DT the) (NN company) (POS 's)) (JJ first) (JJ new) (NN car) (NN franchise)) (PP (IN in) (NP (DT the) (NNP U.S.))) (SBAR (IN since) (S (NP (DT the) (NNP Edsel)) (VP (VBD was) (VP (VBN unveiled) (PP (IN in) (NP (CD 1957)))))))) (, ,)) (ADVP (RB now)) (VP (MD will) (VP (VB share) (NP (NP (NNP Edsel) (POS 's)) (NN fate)))) (. .)))
+
+(S1 (S (NP (NNP Ford)) (VP (VBD said) (NP (NN yesterday)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB halt) (NP (NP (NNS imports)) (PP (IN of) (NP (NP (DT the) (NNP Merkur) (NNP Scorpio)) (, ,) (NP (NP (DT a) (ADJP ($ $) (CD 28,000)) (NN luxury) (NN sedan)) (VP (VBN built) (PP (IN by) (NP (NNP Ford))))))) (PP (IN of) (NP (NNP Europe)))) (PP (IN in) (NP (NNP West) (NNP Germany)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS cars)) (VP (VBP are) (VP (VBN sold) (PP (IN under) (NP (NP (DT a) (JJ separate) (NN franchise)) (PP (IN with) (NP (PRP$ its) (JJ own) (NN sign))))) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (JJ Lincoln-Mercury) (NNS dealers))))) (: --) (SBAR (IN as) (S (VP (VBN opposed) (PP (TO to) (NP (NP (JJ new) (NNS models)) (PP (JJ such) (IN as) (NP (NP (NNP Taurus)) (CC or) (NP (NP (NNP Escort)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN sold) (PP (IN under) (NP (VBG existing) (NNP Ford) (NNS divisions))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN move)) (SBAR (S (VP (TO to) (VP (VB halt) (NP (NNS imports)))))) (: --) (VP (VBN announced) (NP (NP (CD 29) (NNS years)) (CC and) (NP (NP (CD 11) (NNS months)) (PP (TO to) (NP (DT the) (NN day) (SBAR (IN after) (S (NP (NNP Henry) (NNP Ford) (NNP II)) (VP (VBD declared) (SBAR (IN that) (S (NP (NP (DT the) (NNP Edsel) (NN division)) (CC and) (NP (PRP$ its) (JJ gawky) (NN car))) (VP (MD would) (VP (VB be) (VP (VBN scrapped)))))))))))))) (: --)) (VP (VBZ kills) (NP (NP (DT the) (JJ four-year-old) (NNP Merkur) (NN brand)) (PP (IN in) (NP (DT the) (NNP U.S.) (NN market))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB be) (VP (VBN sold) (PP (IN in) (NP (DT the) (JJ European) (NN market))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Merkur) (POS 's)) (NN death)) (VP (VBZ is) (RB n't) (ADJP (ADJP (RB nearly) (RB as) (JJ costly) (PP (TO to) (NP (NNP Ford)))) (SBAR (IN as) (S (VP (VBD was) (NP (DT the) (NNP Edsel) (NN debacle)) (, ,) (SBAR (IN because) (S (NP (NNP Merkur)) (VP (VBD was) (NP (NP (DT a) (ADJP (RB relatively) (JJ low-budget)) (NN project)) (PP (IN with) (NP (JJ limited) (NNS sales) (NNS goals)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (NP (NNP Merkur) (POS 's)) (NN demise)) (VP (VBZ is) (NP (NP (DT a) (NN setback)) (PP (IN for) (NP (NNP Ford)))) (PP (IN at) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NP (DT the) (NN company) (POS 's)) (NN image)) (PP (IN as) (NP (DT the) (NNP U.S.) (NN auto) (NN maker))) (PP (IN with) (NP (DT the) (JJ golden) (NN touch)))) (VP (VBZ is) (VP (VBG showing) (NP (NP (NNS signs)) (PP (IN of) (NP (NN strain))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN No.) (CD 2) (NN auto) (NN maker)) (VP (VBZ 's) (SBAR (S (S (NP (JJ new) (NNP Thunderbird) (CC and) (NNP Mercury) (NNP Cougar) (NNS models)) (VP (VBP have) (RB n't) (VP (VBN met) (NP (NP (NNS sales) (NNS expectations)) (PP (IN in) (NP (DT the) (NN year)))) (SBAR (IN since) (S (NP (PRP they)) (VP (VBD were) (VP (VBN introduced)))))))) (, ,) (CC and) (S (NP (NP (NNP Ford) (POS 's)) (NNS trucks)) (VP (VBP are) (VP (VBG losing) (NP (NN ground)) (PP (TO to) (NP (PRP$ their) (NNP GM) (NNS rivals))))))))) (. .)))
+
+(S1 (S (NP (DT This) (NN fall)) (, ,) (NP (NNP Ford)) (VP (VBD introduced) (NP (NP (QP (RB only) (CD one)) (JJ new) (NN product)) (: :) (NP (NP (DT A) (VBN restyled) (NN version)) (PP (IN of) (NP (PRP$ its) (JJ hulking) (NNP Lincoln) (NNP Town) (NNP Car) (NN luxury) (NN model)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN demise)) (PP (IN of) (NP (NP (NNP Merkur)) (PRN (-LRB- -LRB-) (NP (JJ pronounced) (NN mare-COOR)) (-RRB- -RRB-))))) (VP (VBZ comes) (PP (IN after) (NP (NP (DT a) (NNP September)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD 670) (NNP Merkur) (NNS dealers)) (VP (VBD managed) (S (VP (TO to) (VP (VB sell) (NP (QP (RB only) (CD 93)) (NNPS Scorpios))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Total) (NNP Merkur) (NNS sales)) (PP (IN for) (NP (DT the) (JJ first) (CD nine) (NNS months)))) (VP (VBD dropped) (NP (CD 46) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RB ago))) (PP (TO to) (NP (QP (RB just) (CD 6,320)) (NNS cars)))) (. .)))
+
+(S1 (S (NP (NNP Merkur)) (VP (VBZ is) (RB n't) (NP (NP (DT the) (JJ only) (JJ European) (NN luxury) (NN brand)) (S (VP (VBG having) (NP (NP (NNS problems)) (PP (IN in) (NP (DT the) (NNP U.S.)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ Japanese) (NN assault)) (PP (IN on) (NP (DT the) (NN luxury) (NN market)))) (VP (VBZ is) (VP (ADVP (RB rapidly)) (VBG overshadowing) (NP (NP (JJ such) (JJ European) (NNS makes)) (PP (IN as) (NP (NP (NNP Audi) (CC and) (NNP Saab)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (IN at) (JJS least)) (VP (VBP have) (NP (JJ clear) (NN brand) (NNS images)))))))))) (. .)))
+
+(S1 (S (NP (NNP Merkur)) (, ,) (PP (IN as) (NP (NP (DT an) (NN import)) (PP (IN on) (NP (JJ domestic) (NN car) (NNS lots))))) (, ,) (VP (VBD suffered) (PP (IN from) (NP (NP (DT the) (JJ same) (NN sort)) (PP (IN of) (NP (NP (NN image) (NN confusion)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBG hobbling) (NP (NP (NNS sales)) (PP (IN of) (NP (NNS imports)))) (PP (IN at) (NP (NP (NNP General) (NNPS Motors) (NNP Corp.)) (CC and) (NP (NNP Chrysler) (NNP Corp))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Merkur)) (VP (VBD was) (ADVP (RB originally)) (VP (VBN aimed) (PP (IN at) (S (VP (VBG enticing) (PP (IN into) (NP (JJ Lincoln-Mercury) (NNS dealerships))) (NP (NP (NP (DT the) (NN kind)) (PP (IN of) (NP (NP (JJ young) (, ,) (JJ affluent) (NNS buyers)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB be) (VP (VBN caught) (S (ADJP (JJ dead) (PP (IN in) (NP (DT a) (NNP Town) (NN Car))))))))))))) (: --) (NP (NP (DT a) (NN vehicle)) (ADJP (RB so) (JJ bargelike)))) (SBAR (IN that) (S (NP (NNP Ford)) (VP (VBZ is) (VP (VBG staging) (NP (DT a) (NN press) (NN event)) (NP (JJ next) (NN month)) (PP (VBG linking) (NP (NP (NP (DT the) (NNP Town) (NNP Car) (POS 's)) (NN launch)) (PP (TO to) (NP (NP (DT the) (VBG commissioning)) (PP (IN of) (NP (DT a) (JJ new) (NN aircraft) (NN carrier))) (PP (IN in) (NP (NNP Norfolk) (, ,) (NNP Va)))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN brand)) (VP (VBD had) (NP (NN trouble)) (PP (IN from) (NP (DT the) (NN start)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ first) (NNP Merkur)) (, ,) (NP (DT the) (NNP XR4Ti)) (, ,)) (VP (VBD went) (PP (IN on) (NP (NN sale))) (PP (IN in) (NP (JJ early) (CD 1985)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ sporty) (NN coupe)) (VP (VBD foundered) (SBAR (PP (IN in) (NP (NN part))) (IN because) (S (NP (JJ American) (NNS buyers)) (VP (VBD did) (RB n't) (VP (VB go) (PP (IN for) (NP (NP (DT the) (NN car) (POS 's)) (JJ unusual) (JJ double-wing) (JJ rear) (NN spoiler)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP May) (CD 1987))) (, ,) (NP (NNP Ford)) (VP (VBD began) (S (VP (VBG importing) (NP (DT the) (NNP Scorpio) (NN sedan)) (PP (IN from) (NP (NNP West) (NNP Germany))) (S (VP (TO to) (VP (VB sell) (ADVP (JJ next) (PP (TO to) (NP (NP (DT a) (VBN redesigned) (NNS XR4Ti)) (PP (IN in) (NP (NNS showrooms)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Ford) (NNS officials)) (VP (VBD said) (SBAR (S (S (NP (PRP they)) (VP (VBD expected) (SBAR (S (NP (DT the) (CD two) (NNS Merkurs)) (VP (MD would) (VP (VB sell) (NP (NP (QP (RB about) (CD 15,000)) (NNS cars)) (NP (DT a) (NN year))))))))) (, ,) (CC and) (S (PP (IN in) (NP (CD 1988))) (NP (PRP they)) (VP (VBD reached) (NP (DT that) (NN goal)) (, ,) (SBAR (IN as) (S (NP (NNS sales)) (VP (VBD hit) (NP (CD 15,261) (NNS cars)))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ downhill)) (PP (IN from) (NP (RB there))) (, ,) (ADVP (RB however))) (. .)))
+
+(S1 (S (NP (CD One) (JJ major) (NN factor)) (VP (VBD was) (NP (NP (DT the) (NN decline)) (PP (IN of) (NP (DT the) (NN dollar)))) (PP (IN against) (NP (NP (DT the) (NN mark)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD began) (NP (QP (JJR less) (IN than) (DT a)) (NN year)) (PP (IN after) (NP (NP (NNP Merkur) (POS 's)) (CD 1985) (NN launch))))))))) (. .)))
+
+(S1 (SINV (SBAR (IN As) (S (NP (DT the) (ADJP (NNP West) (NNP German)) (NN currency)) (VP (VBD rose)))) (, ,) (ADVP (RB so)) (VP (VBD did)) (NP (NNP Merkur) (NNS prices)) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Merkur) (NNS cars)) (ADVP (RB also)) (VP (VBD suffered) (PP (IN from) (NP (JJ spotty) (NN quality))))) (, ,) (NP (DT some) (NNS dealers)) (VP (VBP say)) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBD was) (PP (IN like) (NP (NP (DT a) (NN comedy)) (PP (IN of) (NP (NNS errors)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Martin) (NNP J.) (`` `) (ADJP (`` `) (JJ Hoot) ('' ')) ('' ') (NNP McInerney)) (, ,) (NP (NP (DT a) (JJ big) (NN dealer)) (SBAR (WHNP (WHNP (WP$ whose) (ADJP (NNP Star) (JJ Lincoln-Mercury-Merkur)) (NN operation)) (PP (IN in) (NP (NP (NNP Southfield)) (, ,) (NP (NNP Mich.)) (, ,)))) (S (VP (VBD sold) (ADVP (RBR more) (NP (NNP XR4Ti) (POS 's)) (PP (IN than) (NP (DT any) (JJ other) (NN dealership))))))))) (. .)))
+
+(S1 (S (S (CC But) (PP (IN by) (NP (NP (DT the) (JJ third) (NN quarter)) (PP (IN of) (NP (CD 1988))))) (, ,) (NP (NNP Scorpios)) (VP (VBD had) (NP (DT a) (JJ high) (NN satisfaction) (NN rating)) (PP (IN in) (NP (JJ internal) (NNP Ford) (NNS studies))))) (, ,) (NP (DT a) (NN spokesman)) (VP (VBD said)) (. .)))
+
+(S1 (S (ADVP (RB Apparently)) (, ,) (ADVP (RB however)) (, ,) (NP (DT the) (NN improvement)) (VP (VBD came) (ADVP (RB too) (RB late))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN fall)) (, ,) (NP (NNP Ford)) (VP (VBD announced) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB discontinue) (NP (DT the) (NNP XR4Ti)) (PP (IN in) (NP (DT the) (NNP U.S.))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (CD 1989) (NN model) (NN year)))))))))) (. .)))
+
+(S1 (S (NP (NNP Ford)) (VP (VBD said) (ADVP (RB then)) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB keep) (NP (DT the) (NNP Scorpio))))))) (. .)))
+
+(S1 (S (S (NP (DT This) (NN year)) (, ,) (NP (NNP Scorpio) (NNS sales)) (VP (VBD plummeted))) (, ,) (CC and) (S (PP (IN at) (NP (DT the) (JJ current) (NNS sales) (NN pace))) (NP (PRP it)) (VP (MD would) (VP (VB take) (NP (NNP Ford) (CD 242) (NNS days)) (S (VP (TO to) (VP (VB sell) (PRT (RP off)) (NP (NP (DT the) (JJ current) (NNP Scorpio) (NN inventory)) (PP (IN of) (NP (QP (RB about) (CD 4,600)) (NNS cars)))))))))) (. .)))
+

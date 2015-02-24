@@ -1,0 +1,6 @@
+(S1 (S (NP (DT The) (NNP Treasury)) (VP (NNS plans) (S (VP (TO to) (VP (VB raise) (NP (NP (QP ($ $) (CD 700) (CD million))) (PP (IN in) (NP (JJ new) (NN cash)))) (PP (IN with) (NP (NP (DT the) (NN sale)) (NP (NNP Tuesday)) (PP (IN of) (NP (NP (QP (RB about) ($ $) (CD 10) (CD billion))) (PP (IN in) (NP (JJ two-year) (NNS notes))))) (SBAR (S (VP (TO to) (VP (VB redeem) (NP (NP (QP ($ $) (CD 9.29) (CD billion))) (PP (IN in) (NP (VBG maturing) (NNS notes)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN offering)) (VP (MD will) (VP (VP (VB be) (VP (VBN dated) (NP (NNP Oct.) (CD 31)))) (CC and) (VP (VB mature) (NP (NNP Oct.) (CD 31))))) (, ,)))
+
+(S1 (S (NP (NP (NNS Tenders)) (PP (IN for) (NP (DT the) (NNS notes))) (, ,) (ADJP (JJ available) (PP (IN in) (NP (JJ minimum) (ADJP ($ $) (CD 5,000)) (NNS denominations)))) (, ,)) (VP (MD must) (VP (VB be) (VP (VBN received) (PP (IN by) (NP (NP (CD 1) (RB p.m.) (NNP EDT)) (NP (NNP Tuesday)))) (PP (PP (IN at) (NP (DT the) (NNP Treasury))) (CC or) (PP (IN at) (NP (NNP Federal) (NNP Reserve) (NNS banks) (CC or) (NNS branches))))))) (. .)))
+

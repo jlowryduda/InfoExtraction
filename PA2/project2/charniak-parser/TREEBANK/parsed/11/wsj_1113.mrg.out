@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Falcon) (NNP Holding) (NNP Group) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (S (VP (TO to) (VP (VB acquire) (NP (NP (QP (RB about) (CD 54,000)) (NNS subscribers)) (PP (IN from) (NP (NNP First) (NNP Carolina) (NNP Cable) (NNP TV) (NNP Limited) (NNP Partnership)))) (PP (IN for) (NP (NP (QP (RB about) ($ $) (CD 100) (CD million))) (, ,) (CC or) (NP (NP (QP (RB roughly) ($ $) (CD 2,000))) (NP (DT a) (NN subscriber)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS subscribers)) (VP (VBP are) (PP (IN in) (NP (NP (CD 52) (JJ different) (NNS communities)) (PP (IN in) (NP (NNP Georgia) (, ,) (NNP Alabama) (CC and) (NNP Mississippi)))))) (. .)))
+
+(S1 (S (S (NP (NP (NN Completion)) (PP (IN of) (NP (DT the) (NN sale)))) (VP (VBZ is) (VP (VBN expected) (NP (RB early) (JJ next) (NN year))))) (, ,) (NP (NNP Falcon)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (ADVP (RB Currently)) (, ,) (NP (NNP Falcon)) (VP (VBZ has) (NP (NP (QP (RB about) (CD 750,000)) (NN cable-television) (NNS subscribers)) (PP (IN around) (NP (DT the) (NN nation)))))) (: ;) (S (NP (NP (DT the) (NN company) (POS 's)) (NN cable-television) (NN unit)) (VP (VBD reported) (NP (NP (CD 1988) (NN revenue)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 100) (CD million))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (JJ composite) (NN trading)) (PP (IN on) (NP (DT the) (NNP American) (NNP Stock) (NNP Exchange))))) (, ,) (NP (NNP Falcon)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 20))) (, ,) (ADJP (JJ unchanged))) (. .)))
+

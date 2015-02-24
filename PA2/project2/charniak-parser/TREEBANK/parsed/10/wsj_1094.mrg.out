@@ -1,0 +1,110 @@
+(S1 (S (PP (IN As) (NP (NP (DT a) (JJ presidential) (NN candidate)) (PP (IN in) (NP (CD 1980))))) (, ,) (NP (NNP George) (NNP Bush)) (ADVP (RB forthrightly)) (VP (VBD expressed) (NP (NP (PRP$ his) (NN position)) (PP (IN on) (NP (NN abortion)))) (PP (IN in) (NP (NP (DT an) (NN interview)) (PP (IN with) (NP (NP (NNP Rolling) (NNP Stone) (NN magazine)) (VP (VBN published) (NP (IN that) (NNP March)))))))) (. .)))
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP he)) (VP (VB think) (PP (IN of) (S (NP (NP (DT the) (NNP Supreme) (NNP Court) (POS 's)) (NN decision)) (VP (VBG legalizing) (NP (NN abortion))))))) (. ?)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP happen) (S (VP (TO to) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ right))))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Bush)) (VP (VBD said) (ADVP (RB flatly))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (JJ few) (NNS months)) (RB later)) (, ,) (NP (NNP Mr.) (NNP Bush)) (VP (VBD became) (NP (NP (NNP Ronald) (NNP Reagan) (POS 's)) (VBG running) (NN mate))) (. .)))
+
+(S1 (S (ADVP (RB Suddenly)) (, ,) (NP (NP (NNP George) (NNP Bush)) (NP (DT the) (JJ pro-choice) (NN advocate))) (VP (VBD became) (NP (NNP George) (NNP Bush)) (NP (DT the) (NN anti-abortionist))) (. .)))
+
+(S1 (S (CC And) (NP (DT the) (NN vacillation)) (VP (VBD did) (RB n't) (VP (VB end) (ADVP (RB there)))) (. .)))
+
+(S1 (S (ADVP (NP (RB Just) (DT a) (NN month)) (RB ago)) (, ,) (NP (NNP Mr.) (NNP Bush)) (ADVP (RB sternly)) (VP (VBD threatened) (S (VP (TO to) (VP (VB veto) (NP (DT a) (VBG pending) (NN welfare) (NN bill)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBD provided) (NP (DT any) (NN abortion) (NNS funds)) (, ,) (SBAR (IN except) (S (VP (TO to) (VP (VB save) (NP (NP (DT a) (NN woman) (POS 's)) (NN life))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (, ,) (ADVP (NP (CD two) (NNS weeks)) (RB ago)) (PRN (: --) (S (VP (VBG declaring) (SBAR (IN that) (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG looking) (PP (IN for) (NP (NP (DT any) (NN conflict)) (PP (IN over) (NP (DT this))))))) ('' ') ('' '))))) (: --)) (NP (DT the) (NN president)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB consider) (NP (NP (DT a) (NN compromise)) (SBAR (S (VP (TO to) (VP (VB fund) (NP (NP (NNS abortions)) (PP (IN for) (NP (NP (JJ poor) (NNS women)) (PP (IN in) (NP (NP (NNS cases)) (PP (IN of) (NP (NN rape) (CC and) (NN incest)))))))))))))))))) (. .)))
+
+(S1 (S (CC But) (PP (NP (RB only) (CD four) (NNS days)) (IN after) (NP (DT that))) (, ,) (NP (NNP Mr.) (NNP Bush)) (VP (VBN resurrected) (NP (DT the) (NN veto) (NN threat))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP do) (RB not) (VP (VB support) (NP (NP (JJ federal) (NN funding)) (PP (IN for) (NP (NNS abortions)))) (PP (IN except) (SBAR (WHADVP (WRB where)) (S (NP (NP (DT the) (NN mother) (POS 's)) (NN life)) (VP (VBZ is) (VP (VBN threatened)))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VP (VBD proclaimed)) (, ,) (CC and) (VP (ADVP (RB finally)) (VBD vetoed) (NP (DT the) (NN measure)) (NP (JJ last) (NN weekend)))) (. .)))
+
+(S1 (SBARQ (RB So) (WHNP (WP what)) (SQ (VBZ does) (NP (NNP George) (NNP Bush)) (ADVP (RB really)) (VP (VB believe))) (. ?)))
+
+(S1 (S (NP (DT The) (NN answer)) (VP (VBZ is) (ADJP (ADJP (RB so) (JJ murky)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG beginning) (S (VP (TO to) (VP (VB get) (NP (DT this) (JJ popular) (NN president)) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (NP (DT each)) (PP (IN of) (NP (NP (DT the) (ADJP (RB increasingly) (JJ vocal)) (, ,) (ADJP (RB increasingly) (JJ powerful)) (NNS sides)) (PP (IN of) (NP (DT the) (NN abortion) (NN issue)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN result)) (VP (VBZ is) (NP (NP (NN mistrust)) (CC and) (NP (NP (NN criticism)) (PP (IN from) (ADVP (DT all) (IN around)))))) (. .)))
+
+(S1 (S (NP (JJ Anti-abortion) (NNS forces)) (VP (VBP regard) (NP (PRP him)) (PP (IN as) (NP (ADVP (IN at) (JJS best)) (DT an) (JJ uncertain) (NN ally)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (PP (IN In) (NP (DT all) (NN honesty))) (IN if) (S (NP (PRP you)) (VP (VBP ask) (NP (PRP me))))) (, ,) (`` `) (SQ (VBZ Is) (NP (DT this) (NN man)) (NP (DT a) (JJ true) (NN believer)) (. ?)) ('' ') (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know)))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP John) (NNP Fowler)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (NP (DT the) (JJ Washington-based) (NNP Ad) (FW Hoc) (NNP Committee)) (PP (IN in) (NP (NNP Defense))))) (PP (IN of) (NP (NNP Life) (NNP Inc))))) (. .)))
+
+(S1 (S (CC Yet) (NP (JJ abortion-rights) (NNS forces)) (VP (VBP remain) (ADJP (RB bitterly) (JJ critical))) (. .)))
+
+(S1 (S (NP (NP (NNP Douglas) (NNP Gould)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NNS communications)) (PP (IN for) (NP (DT the) (NNP Planned) (NNP Parenthood) (NNP Federation))))) (PP (IN of) (NP (NNP America)))) (, ,)) (VP (VBZ calls) (NP (NP (NP (NNP Mr.) (NNP Bush) (POS 's)) (NN position)) (PP (IN on) (NP (NP (DT the) (JJ abortion-funding) (NN issue)) (ADJP (`` `) (ADJP (`` `) (RB extremely) (JJ cruel) (, ,) ('' ')) ('' '))))) (S (VP (VBG adding) (: :) (`` `) (S (`` `) (NP (DT The) (NN guy)) (VP (VBZ has) (RB n't) (VP (VBN done) (NP (NP (CD one) (NN thing)) (PP (IN about) (NP (NN prevention)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ 's) (VP (ADVP (RB totally)) (VBN geared) (PP (TO to) (NP (DT a) (JJ punitive) (NN position))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Bush)) (VP (VBZ is) (ADVP (RB plainly)) (ADJP (JJ uncomfortable) (PP (IN with) (NP (DT the) (JJ entire) (NN abortion) (NN question))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (JJ past) (CD nine) (NNS years))))) (, ,) (NP (PRP he)) (VP (VBZ has) (VP (VBN striven) (S (VP (TO to) (VP (VB convince) (NP (NP (JJ anti-abortion) (NNS activists)) (PP (IN of) (NP (NP (PRP$ his) (JJ stalwart) (NN support)) (PP (IN for) (NP (PRP$ their) (NN position))))))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (RB ever) (IN since) (S (NP (DT the) (NNP Supreme) (NNP Court)) (VP (VBZ 's) (NP (NNP Webster) (FW vs.) (NNP Reproductive) (NNP Health) (NNPS Services)) (NP (NP (NN decision)) (SBAR (S (NP (DT this) (NN year)) (VP (VBN changed) (NP (NP (DT the) (JJ political) (NN landscape)) (PP (IN of) (NP (DT the) (NN abortion) (NN issue))))))))))) (, ,) (NP (DT the) (NN president)) (ADVP (RB seemingly)) (VP (VBZ has) (VP (VBN tried) (ADVP (RB just) (RB as) (RB hard)) (S (VP (TO to) (VP (VB avoid) (S (VP (VBG saying) (NP (NP (NN anything)) (ADJP (ADJP (JJR more)) (SBAR (IN unless) (S (VP (VBN pressed) (PP (TO to) (NP (DT the) (NN wall))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Many) (NNPS Americans)) (ADVP (RB still)) (VP (VBP agonize) (PRT (RP over)) (NP (NP (PRP$ their) (JJ own) (JJ personal) (NNS feelings)) (PP (IN about) (NP (NN abortion))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Bush) (POS 's)) (NN problem)) (VP (VBZ is) (RB n't) (NP (RB so) (JJ much)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (VP (VBG agonizing) (PP (IN over) (NP (DT the) (NN issue))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ seems) (S (VP (TO to) (VP (VB vacillate) (PP (IN on) (NP (PRP it)))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ political) (NN risk)) (VP (MD would) (VP (VB be) (ADJP (RB far) (JJR less)) (SBAR (IN if) (S (NP (DT the) (NN president)) (VP (VP (VBD drew) (NP (DT a) (JJ firm) (NN line))) (CC and) (VP (VBD hewed) (PP (TO to) (NP (PRP it)))))))))) (, ,) (NP (NNS experts)) (VP (VBP insist)) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (IN If) (S (NP (PRP you)) (VP (VBP have) (NP (DT a) (NN position))))) (, ,) (NP (PRP you)) (VP (VBP 're) (ADJP (ADJP (JJR better) (RP off) (S (VP (TO to) (VP (VB stick) (PP (IN with) (NP (PRP it))))))) (SBAR (IN than) (S (VP (TO to) (VP (VB move) (ADVP (RB around)) (ADVP (RB very) (RB much)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NNP Republican) (NN strategist) (NNP John) (NNP Sears)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN need)) (PP (IN for) (NP (NN consistency)))) (VP (VBZ is) (ADJP (RB especially) (JJ acute) (PP (IN for) (NP (NP (NNP Mr.) (NNP Bush)) (, ,) (SBAR (WHNP (WP who)) (S (PRN (, ,) (S (NP (NNP Mr.) (NNP Sears)) (VP (VBZ maintains))) (, ,)) (VP (VBZ lacks) (NP (DT a) (JJ strong) (JJ ideological) (NN base))))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (PRP$ his) (JJ moderate) (NNP Republican) (NN heritage)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NNS warnings)) (PP (IN of) (NP (NP (JJ political) (NNS advisers)) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (DT the) (NN issue)) (VP (VBZ is) (ADJP (JJ vital) (PP (TO to) (NP (JJR younger) (NNS voters))))))))))))))) (, ,) (NP (DT the) (NN president)) (VP (MD might) (VP (VB seem) (S (VP (TO to) (VP (VB have) (NP (NP (ADVP (IN at) (JJS least)) (DT some) (NN sympathy)) (PP (IN with) (NP (JJ abortion-rights) (NNS arguments))))))))) (. .)))
+
+(S1 (S (CC Yet) (NP (PRP he)) (VP (VP (VBZ is) (ADVP (RB also)) (VP (ADVP (RB firmly)) (VBN bound) (PP (IN by) (NP (PRP$ his) (JJ hard-line) (NN rhetoric))))) (CC and) (VP (VBZ promises) (SBAR (S (NP (PRP he)) (VP (VBD made) (PP (TO to) (NP (JJ anti-abortion) (NNS activists))) (PP (IN during) (NP (NP (PRP$ his) (JJ long) (NN pursuit)) (PP (IN of) (NP (DT the) (NNP White) (NNP House)))))))))) (. .)))
+
+(S1 (FRAG (PP (IN On) (NP (JJ many) (NNS issues))) (: --) (NP (NN flag-burning)) (, ,) (PP (IN for) (NP (NN instance))) (: --) (S (NP (PRP$ his) (JJ keen) (JJ political) (NNS sensitivities)) (VP (VB overcome) (NP (JJ such) (NNS conflicts)))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Mr.) (NNP Bush)) (CC and) (NP (PRP$ his) (NNS advisers))) (VP (VBD miscalculated) (NP (NP (DT the) (NNS politics)) (PP (IN of) (NP (DT the) (NN abortion) (NN issue)))) (, ,) (S (VP (VBG failing) (S (VP (TO to) (VP (VB grasp) (SBAR (WHADVP (WRB how) (RB dramatically)) (S (NP (DT the) (NNS abortion-rights) (NN movement)) (VP (MD would) (VP (VB be) (VP (VBN aroused) (PP (VBG following) (NP (NP (JJ last) (NN summer) (POS 's)) (NNP Supreme) (NNP Court) (NN decision))) (S (VP (TO to) (VP (VB restrict) (NP (DT those) (NNS rights)) (PP (IN in) (NP (DT the) (NNP Webster) (NN case))))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS quickest) (NNS changes)) (PP (IN in) (NP (JJ public) (NNS attitudes))) (SBAR (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB ever)) (VP (VBN seen))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (JJ former) (NNP Reagan) (NN pollster) (NNP Richard) (NNP Wirthlin)) (. .)))
+
+(S1 (S (NP (DT These) (NNS days)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNS others)) (VP (VBP raise) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (NN abortion))))))) (, ,) (NP (DT the) (ADJP (RB usually) (JJ loquacious)) (NN president)) (VP (MD can) (VP (VB be) (ADJP (JJ close-mouthed) (RB almost) (PP (TO to) (NP (NP (DT the) (NN point)) (PP (IN of) (NP (NN curtness)))))))) (. .)))
+
+(S1 (S (ADVP (NP (CD Ten) (NNS days)) (RB ago)) (NP (PRP he)) (VP (VBD was) (VP (VBN asked) (S (VP (TO to) (VP (VB amplify) (NP (NP (DT the) (NNS reasons)) (PP (IN behind) (NP (PRP$ his) (JJ anti-abortion) (NN stance))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP$ My) (NN position)) (VP (VBZ is) (ADJP (JJ well-known) (CC and) (JJ well-stated)))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD replied)) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ close) (NN look)) (PP (IN at) (NP (NP (PRP$ his) (NN record)) (PP (IN over) (NP (DT the) (JJ last) (CD 15) (NNS years)))))) (VP (VBZ suggests) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Bush)) (VP (VBZ has) (VP (VBN well-stated) (NP (NP (PRP$ his) (NNS views)) (: --) (PP (IN on) (NP (NP (DT all) (NNS sides)) (PP (IN of) (NP (DT the) (NN issue))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1974))) (, ,) (PP (PP (IN as) (NP (DT the) (NNP U.S.) (NN representative))) (PP (TO to) (NP (DT the) (NNP United) (NNPS Nations)))) (, ,) (NP (PRP he)) (VP (VBD wrote) (NP (NP (DT an) (NN introduction)) (PP (TO to) (NP (NP (DT a) (NN book)) (PP (IN on) (NP (NP (NN world) (NN population)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (PRP he)) (VP (VBD boasted)))))))) (PP (IN of) (NP (PRP$ his) (NN leadership)))) (PP (IN during) (NP (PRP$ his) (NN term))) (PP (IN in) (NP (NNP Congress))) (PP (IN in) (S (VP (VBG expanding) (NP (JJ family-planning) (NNS services)) (PP (IN for) (NP (DT the) (JJ poor))))))) (. .)))
+
+(S1 (S (S (VP (VBG Running) (PP (IN for) (NP (NN president))) (PP (IN in) (NP (JJ early) (CD 1980))))) (, ,) (NP (PRP he)) (VP (VBD was) (ADVP (RB also)) (VP (VBN quoted) (PP (IN as) (S (VP (VBG supporting) (NP (NP (JJ federal) (NN funding)) (PP (IN for) (NP (NP (NNS abortions)) (PP (IN in) (NP (NP (NNS cases)) (PP (IN of) (NP (NP (NN rape)) (, ,) (NP (NN incest)) (CC and) (S (VP (TO to) (VP (VB save) (NP (NP (DT the) (NN life)) (PP (IN of) (NP (DT the) (NN mother))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (PRP$ his) (NNP Rolling) (NNP Stone) (NN interview))) (PP (IN in) (NP (CD 1980))) (, ,) (NP (NNP Mr.) (NNP Bush)) (VP (VBD volunteered) (NP (PRP$ his) (NNS abortion-rights) (NNS remarks)) (PP (TO to) (NP (NN contrast))) (S (NP (PRP himself)) (PP (IN with) (NP (NP (PRP$ his) (NN rival)) (, ,) (NP (NNP Ronald) (NNP Reagan)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (S (VP (VBG supporting) (NP (DT the) (JJ landmark) (NNP Roe) (FW vs.) (NNP Wade)) (S (NP (NNP Supreme) (NNP Court) (NN decision)) (VP (VBG legalizing) (NP (NN abortion))))))))) (, ,) (NP (NNP Mr.) (NNP Bush)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD opposed) (NP (NP (DT the) (JJ constitutional) (NN ban)) (PP (IN on) (NP (NN abortion)))) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Reagan)) (VP (VBD was) (VP (VBG promising) (S (VP (TO to) (VP (VB promote)))))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (NNP Mr.) (NNP Reagan) (POS 's)) (VBG running) (NN mate))) (, ,) (ADVP (RB though)) (, ,) (NP (NNP Mr.) (NNP Bush)) (VP (VBD plunged) (NP (NN headlong)) (PP (IN into) (NP (DT the) (JJ anti-abortion) (NN position))) (, ,) (S (VP (VBG endorsing) (NP (NP (DT a) (JJ constitutional) (NN amendment)) (VP (VBG outlawing) (NP (NN abortion))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD acknowledged) (NP (QP (RB only) (CD one)) (NN difference)) (PP (IN with) (NP (NNP Mr.) (NNP Reagan))) (: --) (SBAR (IN that) (S (NP (DT the) (NN amendment)) (VP (MD ought) (S (VP (VP (TO to) (VP (VB have) (NP (NP (NNS exceptions)) (PP (IN for) (NP (NN rape) (CC and) (NN incest)))))) (CONJP (RB as) (RB well) (IN as)) (VP (TO to) (VP (VB save) (NP (NP (DT a) (NN woman) (POS 's)) (NN life)))))))))) (. .)))
+
+(S1 (S (PP (IN Throughout) (NP (DT the) (JJ early) (NNS 1980s))) (, ,) (NP (NNP Mr.) (NNP Bush)) (VP (VBD was) (VP (VBN quoted) (ADVP (RB sometimes)) (S (VP (VP (VBG supporting) (NP (NP (JJ federal) (NN funding)) (PP (IN for) (NP (NN abortion)))) (PP (IN in) (NP (NP (NNS cases)) (PP (IN of) (NP (NN rape) (CC and) (NN incest)))))) (CC and) (VP (ADVP (RB sometimes)) (VBG opposing) (NP (PRP it))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP April) (CD 1986))) (, ,) (NP (NNP then-Vice) (NNP President) (NNP Bush)) (VP (VBD had) (S (NP (PRP$ his) (NN staff)) (VP (VB write) (NP (NP (DT a) (NN letter)) (VP (VBG spelling) (PRT (RP out)) (SBAR (SBAR (IN that) (S (NP (PRP he)) (VP (MD would) (VP (VB support) (NP (NP (DT a) (JJ constitutional) (NN amendment)) (VP (VBG banning) (NP (NP (NNS abortions)) (PP (IN except) (PP (IN in) (NP (NP (NNS cases)) (PP (IN of) (NP (NP (NN rape)) (, ,) (NP (NN incest)) (CC and) (NP (NN life) (NN endangerment)))))))))))))) (, ,) (CC but) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD opposed) (NP (NP (JJ federal) (NN funding)) (PP (IN in) (NP (NP (DT all)) (PP (CC but) (NP (DT the) (JJ latter) (NN case))))))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (NNP GOP) (NN convention))) (NP (JJ last) (NN year)) (, ,) (NP (PRP he)) (ADVP (RB again)) (VP (VBD came) (PRT (RP out)) (PP (IN for) (NP (DT an) (NN amendment))) (PP (IN with) (NP (NP (NNS exceptions)) (PP (IN for) (NP (NP (NN rape)) (, ,) (NP (NN incest)) (CC and) (NP (NN life) (NN endangerment))))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN rhetoric)) (VP (VBD gathered) (NP (NN momentum)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD rolled) (PP (IN into) (NP (NN office))) (, ,) (S (VP (VBG affirming) (NP (PRP$ his) (`` `) (NX (`` `) (NP (JJ firm) (NN support)) (PP (IN of) (NP (PRP$ our) (NN cause)))) ('' ')) ('' ') (PP (IN during) (NP (NP (DT an) (JJ anti-abortion) (NN rally)) (NP (CD three) (NNS days)) (PP (IN after) (NP (NP (PRP$ his) (NN inauguration)) (NP (JJ last) (NNP January)))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB again)) (VP (VBD urged) (NP (NP (NN passage)) (PP (IN of) (NP (DT a) (JJ constitutional) (NN amendment)))) (S (VP (VBG outlawing) (NP (NN abortion))))) (. .)))
+
+(S1 (S (CC But) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ high) (NN court)) (VP (VBD ruled) (PP (IN in) (NP (DT the) (NNP Webster) (NN case))) (PP (IN in) (NP (NNP July)))))) (, ,) (NP (DT the) (NN president)) (VP (VBD began) (S (VP (TO to) (VP (VB lower) (NP (DT the) (NN volume)))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN ruling)) (VP (VBD was) (VP (VBN handed) (PRT (RP down)))))) (, ,) (NP (DT the) (VBG vacationing) (NN president)) (VP (VBD dispatched) (NP (NP (NN Chief)) (PP (IN of) (NP (NNP Staff)))) (S (NP (NNP John) (NNP Sununu)) (VP (TO to) (VP (VP (VB issue) (NP (DT a) (NN statement))) (CC and) (VP (VBD refused) (S (VP (TO to) (VP (VB answer) (NP (NNS questions)) (NP (PRP himself)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD did) (RB later) (VP (VB threaten) (NP (NP (NNS vetoes)) (PP (PP (IN over) (NP (NP (NN legislation)) (VP (VBG restoring) (NP (NP (NP (DT the) (NNP District)) (PP (IN of) (NP (NNP Columbia))) (POS 's)) (NN right) (S (VP (TO to) (VP (VB use) (NP (PRP$ its) (JJ own) (NN tax) (NN money)) (S (VP (TO to) (VP (VB fund) (NP (NP (NNS abortions)) (PP (IN for) (NP (JJ poor) (NNS women)))))))))))))) (CC and) (PP (IN over) (S (VP (VBG restoring) (NP (NN funding)) (PP (TO to) (NP (DT the) (NNP United) (NNPS Nations) (NNP Population) (NNP Fund)))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (NP (DT the) (NNS months)) (PP (IN since) (NP (RB then))))) (, ,) (SBAR (IN while) (S (VP (VBG trying) (S (VP (TO to) (VP (VB drum) (PRT (RP up)) (NP (NP (NN support)) (PP (IN for) (NP (JJ other) (NNS issues)))))))))) (PRN (: --) (PP (JJ such) (IN as) (NP (DT an) (JJ anti-flag-burning) (JJ constitutional) (NN amendment))) (: --)) (NP (PRP he)) (VP (VBZ has) (VP (VBN shied) (ADVP (RB away) (PP (IN from) (S (VP (VBG talking) (PP (IN about) (NP (NN abortion))))))))) (. .)))
+
+(S1 (SBAR (WHNP (WP What) (JJ few) (NNS comments)) (S (NP (PRP he)) (VP (VBZ has) (VP (VBN initiated) (SBAR (S (VP (VBP have) (VP (VBN been) (NP (NP (NN oblique)) (, ,) (PP (JJ such) (IN as) (S (VP (VBG urging) (`` `) (NP (`` `) (NP (NP (JJR greater) (NNS efforts)) (PP (IN toward) (NP (DT the) (NN protection))) (PP (IN of) (NP (JJ human) (NN life)))) ('' ')) ('' ') (PP (IN at) (NP (NP (DT a) (NN meeting)) (PP (IN of) (NP (NP (NNP Catholic) (NNS lawyers)) (PP (IN in) (NP (NNP Boston))))) (NP (JJ last) (NN month))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP White) (NNP House)) (VP (VBZ has) (ADVP (RB likewise)) (VP (VBN avoided) (NP (NP (DT any) (NN involvement)) (PP (IN in) (NP (NP (NP (NNP Florida) (POS 's)) (JJ recent) (JJ special) (JJ legislative) (NN session)) (PP (IN on) (NP (NN abortion))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (JJ anti-abortion) (NNS forces)) (VP (VBD had) (VP (VBN regarded) (PP (IN as) (NP (NP (DT a) (JJ key) (NN test)) (PP (IN of) (NP (PRP$ their) (NN ability) (S (VP (TO to) (VP (VB get) (S (NP (NN state) (NNS lawmakers)) (VP (TO to) (VP (VB toughen) (NP (NN abortion) (NNS restrictions))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN session)) (VP (VBD failed) (S (VP (TO to) (VP (VB enact) (NP (DT any) (JJ new) (NNS curbs)))))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (NP (DT some)) (VP (VBP see) (S (NP (NNP Mr.) (NNP Bush)) (VP (VBN trapped) (PP (IN in) (NP (NP (DT a) (NN position)) (SBAR (S (NP (PRP he)) (VP (VBZ is) (ADJP (ADJP (RB neither) (JJ comfortable) (PP (IN with))) (CC nor) (ADJP (JJ able) (S (VP (TO to) (VP (VB escape)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Ken) (NNP Ruberg)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (DT the) (NNP Republican) (NN Mainstream) (NN Committee)))) (, ,) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NN party) (NNS moderates)))) (, ,)) (VP (VBZ observes) (: :) (`` `) (S (`` `) (NP (DT The) (NN administration)) (VP (VBZ finds) (NP (PRP itself)) (PP (IN in) (NP (NP (DT an) (JJ ideological) (NN cul)) (PP (IN de) (NP (NN sac) (SBAR (IN that) (S (NP (PRP it)) (VP (MD will) (VP (VB find) (S (NP (PRP it)) (ADJP (JJ difficult) (PRN (: --) (SBAR (IN if) (FRAG (ADJP (RB not) (JJ impossible)))) (: --)) (S (VP (TO to) (VP (VB get) (NP (PRP itself)) (PRT (RP out)) (PP (IN of)))))))))))))))))) (. .)))
+

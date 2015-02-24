@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NNP NATIONWIDE) (NNP HEALTH) (NNPS PROPERTIES)) (, ,) (NP (NP (NNP Pasadena)) (, ,) (NP (NNP Calif.))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (RB n't) (VP (VB pay) (NP (PRP$ its) (JJ fourth-quarter) (NN dividend)) (, ,) (PP (IN despite) (NP (NP (DT a) (ADJP (CD 44) (NN %)) (NN increase)) (PP (IN in) (NP (JJ third-quarter) (NNS earnings))))) (, ,) (PP (TO to) (NP (NP (QP ($ $) (CD 3.5) (CD million))) (, ,) (CC or) (NP (NP (CD 42) (NNS cents)) (NP (DT a) (NN share)))))))))) (. .)))
+
+(S1 (S (S (NP (JJ Net) (NN income)) (VP (VBD included) (NP (NP (DT a) (NN gain)) (PP (IN of) (NP ($ $) (CD 708,000))) (PP (IN on) (NP (NN asset) (NNS sales)))))) (, ,) (NP (DT the) (JJ real) (NN estate) (NN investment) (NN trust)) (VP (VBD said)) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (NN year)) (RBR earlier)) (, ,) (NP (NNP Nationwide) (NNP Health)) (VP (VBD earned) (NP (NP (QP ($ $) (CD 2.4) (CD million))) (, ,) (CC or) (NP (NP (CD 29) (NNS cents)) (NP (DT a) (NN share))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (NP (CD 3) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 9) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 8.8) (CD million))))) (. .)))
+
+(S1 (S (NP (NNP Nationwide) (NNP Health)) (VP (VBD said) (SBAR (IN that) (S (SBAR (IN although) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (DT the) (NN cash)) (SBAR (S (VP (TO to) (VP (VB cover) (NP (DT the) (JJ 25-cent-a-share) (NN dividend)))))))))) (, ,) (NP (PRP$ its) (NNS banks)) (VP (VBP have) (VP (VBN denied) (NP (NP (DT the) (NN company) (POS 's)) (NN request) (S (VP (TO to) (VP (VB pay) (NP (PRP it)))))) (SBAR (IN because) (S (NP (DT the) (NN trust)) (VP (VBZ has) (RB n't) (VP (VBN met) (NP (JJ certain) (NNS terms))))))))))) (. .)))
+
+(S1 (S (NP (NNP Nationwide) (NNP Health)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ has) (`` `) (NP (`` `) (JJ numerous) (NN financing) (NNS activities) ('' ')) ('' ') (PP (IN under) (NP (NP (NN way)) (SBAR (S (VP (TO to) (VP (VP (VB remedy) (NP (DT the) (NN problem))) (CC and) (VP (MD will) (VP (VB make) (PRT (RP up)) (NP (DT the) (NN dividend) (NN payment)) (ADVP (RB later)) (SBAR (IN if) (FRAG (ADJP (JJ possible)))))))))))))))) (. .)))
+

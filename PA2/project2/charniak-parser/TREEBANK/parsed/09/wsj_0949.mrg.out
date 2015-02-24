@@ -1,0 +1,18 @@
+(S1 (S (NP (DT An) (NN investment) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD offered) (S (VP (TO to) (VP (VB acquire) (NP (NP (NP (NNP Arby) (POS 's)) (NNP Inc.)) (, ,) (NP (DT the) (NN fast-food) (NN operator)) (, ,)) (PP (IN for) (NP (QP ($ $) (CD 205) (CD million))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN proposal)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD was) (ADVP (RB immediately)) (VP (VBN rebuffed) (PP (IN by) (NP (NP (NP (NNP Arby) (POS 's)) (NN parent)) (, ,) (NP (NNP DWG) (NNP Corp)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP Arby) (POS 's)) (VP (VBZ is) (RB n't) (PP (IN for) (NP (NN sale)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Renee) (NNP Mottram)) (, ,) (NP (NP (JJ senior) (NN vice) (NN president)) (PP (IN at) (NP (NNP DWG))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ new) (NN suitor)) (, ,) (NP (NNP Stevric) (NNP Equity) (NNPS Ventures) (NNP Inc.)) (, ,) (PP (IN of) (NP (NP (NNP Mineola)) (, ,) (NP (NNP N.Y.)))) (, ,)) (VP (VBD characterized) (NP (PRP$ its) (NN proposal)) (PP (IN as) (NP (NP (DT the) (`` `) (ADJP (`` `) (RB first) (RB truly) (JJ independent)) (NN offer)) (SBAR (WHNP (WDT which)) (S (VP (VBZ does) (RB not) (VP (VB pit) (NP (CD one) (NN interest) (NN group)) (PP (IN against) (NP (DT another))) (PP (IN within) (NP (NP (DT the) (NNP Arby) (POS 's)) (NN franchisee) (NN community)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (NNP September))) (, ,) (NP (NP (NNP DWG)) (, ,) (NP (NP (DT a) (NAC (NNP Miami) (NNP Beach) (, ,) (NNP Fla.) (, ,)) (VBG holding) (NN company)) (VP (VBN controlled) (PP (IN by) (NP (NN financeer) (NNP Victor) (NNP Posner))))) (, ,)) (VP (VBD rejected) (NP (NP (DT an) (NN offer)) (PP (IN from) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NP (NNP Arby) (POS 's)) (NNS franchisees))))) (S (VP (TO to) (VP (VB acquire) (NP (NNP Arby) (POS 's)) (PP (IN for) (NP (QP ($ $) (CD 200) (CD million))))))))) (. .)))
+
+(S1 (S (PP (IN Since) (NP (RB then))) (, ,) (NP (NP (DT a) (JJ second) (NN group)) (PP (IN of) (NP (NNS franchisees)))) (VP (VBZ has) (VP (VBN banded) (ADVP (RB together)) (S (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VB wrestle) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NN unit)))) (PP (IN from) (NP (NNP Mr.) (NNP Posner))))))))))) (. .)))
+
+(S1 (S (NP (NNP Arby) (POS 's)) (VP (VBZ is) (NP (NP (DT the) (NN marketing) (, ,) (VBG franchising) (CC and) (NN service) (NN company)) (PP (IN for) (NP (NP (DT the) (CD 2,100) (NNS restaurants)) (PP (IN in) (NP (DT the) (NN chain))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Stevric) (POS 's)) (NNS principals)) (, ,) (NP (NNP Richard) (CC and) (NNP Steven) (NNP Buckley)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD led) (NP (NP (DT the) (NN acquisition) (NN group)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBD acquired) (NP (NP (DT the) (NNP Nathan) (POS 's)) (NNP Famous) (NNP Inc.) (NN restaurant) (NN chain))) (CC and) (VP (ADVP (RB subsequently)) (VBD served) (PP (IN as) (NP (NP (DT the) (JJ top) (NNS officers)) (PP (IN of) (NP (DT the) (NN company)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Richard) (NNP Buckley)) (VP (VBD said) (SBAR (S (NP (NP (NP (NNP Stevric) (POS 's)) (NN acquisition)) (PP (IN of) (NP (NNP Arby) (POS 's)))) (`` `) (VP (`` `) (VP (MD would) (VP (VB allow) (S (NP (NP (NP (JJ seasoned) (NNS franchisers)) (CC and) (NP (JJ food-service) (NNS operators))) (, ,) (PP (IN with) (NP (NP (DT no) (NNS conflicts)) (PP (IN of) (NP (NN interest))))) (, ,)) (VP (TO to) (VP (VP (VB stabilize) (NP (NN franchisee) (NNS relations))) (CC and) (VP (ADVP (RB properly)) (VB refocus) (NP (NP (DT the) (NN company) (POS 's)) (NNS energies)) (PP (IN toward) (NP (NN growth))))))))))))) (. .)))
+

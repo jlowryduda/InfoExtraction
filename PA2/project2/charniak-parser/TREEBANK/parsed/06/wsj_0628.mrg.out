@@ -1,0 +1,64 @@
+(S1 (S (S (NP (NN Factory) (NNS owners)) (VP (VBP are) (VP (VBG buying) (NP (JJ new) (NN machinery)) (PP (IN at) (NP (DT a) (JJ good) (NN rate))) (NP (DT this) (NN fall))))) (PRN (, ,) (S (NP (NN machine) (NN tool) (NNS makers)) (VP (VBP say))) (, ,)) (CC but) (S (NP (NP (JJ sluggish) (NNS sales)) (PP (IN of) (NP (JJ new) (NNS cars) (CC and) (NNS trucks)))) (VP (VBP raise) (NP (NP (NNS questions)) (PP (IN about) (NP (NP (JJ fourth-quarter) (NN demand)) (PP (IN from) (NP (DT the) (JJ important) (JJ automotive) (NN industry)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP September) (NNS orders)) (PP (IN for) (NP (NN machine) (NNS tools)))) (VP (VP (VBD rebounded) (PP (IN from) (NP (DT the) (NN summer) (NN doldrums)))) (, ,) (CC but) (VP (VBD remained) (NP (CD 7.7) (NN %)) (PP (IN below) (NP (JJ year-earlier) (NNS levels)))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NP (NNS figures)) (PP (IN from) (NP (NNP NMTBA)))) (: --) (NP (NP (DT the) (NNP Association)) (PP (IN for) (NP (NNP Manufacturing) (NNP Technology)))))))) (. .)))
+
+(S1 (S (S (NP (JJ Domestic) (NN machine) (NN tool) (NNS plants)) (VP (VBD received) (NP (NP (QP ($ $) (CD 303) (CD million))) (PP (IN of) (NP (NNS orders)))) (NP (JJ last) (NN month)) (, ,) (ADVP (RB up) (NP (CD 33) (NN %)) (PP (IN from) (NP (NP (NNP August) (POS 's)) (QP ($ $) (CD 227.1) (CD million))))))) (, ,) (CC but) (S (ADVP (RB still) (PP (IN below) (NP (NP (DT the) (QP ($ $) (CD 328.2) (CD million))) (PP (IN of) (NP (NNP September) (CD 1988)))))) (, ,) (NP (NNP NMTBA)) (VP (VBD said))) (. .)))
+
+(S1 (S (NP (NN Machine) (NNS tools)) (VP (VBP are) (NP (NP (JJ complex) (NNS machines)) (VP (VBG ranging) (PP (PP (IN from) (NP (NNS lathes))) (PP (TO to) (NP (NP (JJ metal-forming) (NNS presses)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN used) (S (VP (TO to) (VP (VB shape) (NP (JJS most) (NN metal) (NNS parts))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (JJ Overall) (NN demand)) (ADVP (RB still)) (VP (VBZ is) (ADJP (RB very) (JJ respectable))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Christopher) (NNP C.) (NNP Cole)) (, ,) (NP (NP (NN group) (NN vice) (NN president)) (PP (IN at) (NP (NP (NNP Cincinnati) (NNP Milacron) (NNP Inc.)) (, ,) (NP (NP (DT the) (NN nation) (POS 's)) (JJS largest) (NN machine) (NN tool) (NN producer)))))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (DT The) (NN outlook)) (VP (VBZ is) (ADJP (JJ positive) (PP (IN for) (NP (DT the) (ADJP (JJ intermediate) (PP (TO to) (NP (JJ long) (NN term))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (NNP September) (NNS orders)) (PP (IN for) (NP (DT all) (NNP U.S.) (NNS producers)))) (, ,) (PP (IN in) (NP (NN fact))) (, ,) (VP (VBD were) (ADVP (RB slightly)) (PP (IN above) (NP (NP (DT the) (JJ monthly) (NN average)) (PP (IN for) (NP (NP (CD 1988)) (, ,) (NP (NP (DT a) (JJ good) (NN year)) (PP (IN for) (NP (DT the) (NN industry))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNP Aerospace) (NNS orders)) (VP (VBP are) (ADJP (RB very) (JJ good))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Cole)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (`` `) (CC And) (NP (NN export) (NN business)) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ good))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (DT some) (JJ automotive) (NNS programs)) (VP (VBP have) (VP (VBN been) (VP (VBN delayed)))))) (, ,) (NP (PRP they)) (VP (VBP have) (RB n't) (VP (VBN been) (VP (VBN canceled)))) (. .) ('' ') ('' ')))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP September)) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS biggest) (NN order) (NNS months)) (PP (IN in) (NP (PRP$ our) (NN history))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP James) (NNP R.) (NNP Roberts)) (, ,) (NP (NP (NN vice) (NN president)) (, ,) (NP (JJ world-wide) (NNS sales) (CC and) (NN marketing)) (, ,) (PP (IN for) (NP (NP (NNP Giddings) (CC &) (NNP Lewis) (NNP Inc.)) (, ,) (NP (NP (JJ Fond) (NNP du) (NNP Lac)) (, ,) (NP (NNP Wis))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (DT a) (JJ recent) (NN meeting)) (PP (IN of) (NP (NN manufacturing) (NNS executives))))) (, ,) (`` `) (S (`` `) (NP (NP (NN everybody)) (SBAR (S (NP (PRP I)) (VP (VBD talked) (PP (IN with)))))) (VP (VBD was) (ADJP (RB very) (JJ positive))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (JJS Most)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP plan) (S (VP (TO to) (VP (VB spend) (NP (NP (JJR more)) (PP (IN on) (NP (NN factory) (NN equipment)))) (PP (IN in) (NP (CD 1990))) (PP (IN than) (PP (IN in) (NP (CD 1989))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNS sales)) (PP (IN of) (NP (NNP North) (JJ American-made) (NN 1990-model) (NNS cars)))) (VP (VBP are) (VP (VBG running) (PP (IN at) (NP (NP (DT an) (JJ annual) (NN rate)) (PP (IN of) (NP (NP (QP (RB only) (CD six) (CD million))) (, ,) (ADVP (RB down) (PP (IN from) (NP (QP (CD 7.1) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))))) (. .)))
+
+(S1 (S (CC And) (NP (NN truck) (NNS sales)) (ADVP (RB also)) (VP (VBP are) (ADJP (RB off) (NP (QP (JJR more) (IN than) (CD 20)) (NN %)))) (. .)))
+
+(S1 (S (S (NP (NP (NN Auto) (NNS makers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD began) (S (VP (VBG deferring) (NP (DT some) (NN equipment) (NNS purchases)))) (NP (JJ last) (NN spring))))) (, ,)) (VP (MD can) (VP (VB be) (VP (VBN expected) (S (VP (TO to) (VP (VB remain) (ADJP (JJ cautious) (PP (IN about) (NP (VBG spending)))) (SBAR (IN if) (S (NP (PRP$ their) (NNS sales)) (VP (VBP do) (RB n't) (VP (VB pick) (PRT (RP up))))))))))))) (, ,) (NP (NN machine) (NN tool) (NNS builders)) (VP (VBP say)) (. .)))
+
+(S1 (S (NP (NN Machine) (NN tool) (NNS executives)) (VP (VBP are) (ADJP (JJ hopeful)) (, ,) (ADVP (RB however)) (, ,) (SBAR (IN that) (S (NP (NP (JJ recent) (NNS developments)) (PP (IN in) (NP (NNP Eastern) (NNP Europe)))) (VP (MD will) (VP (VB expand) (NP (NNS markets)) (PP (IN for) (NP (NP (JJ U.S.-made) (NN machine) (NNS tools)) (PP (IN in) (NP (DT that) (NN region)))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN demand)) (PP (IN for) (NP (JJ state-of-the-art) (NN machine) (NNS tools)))) (PP (PP (IN in) (NP (DT the) (NNP Soviet) (NNP Union))) (CC and) (PP (IN in) (NP (JJ other) (NNP Eastern) (NNP European) (NNS countries)))) (SBAR (IN as) (S (NP (DT those) (NNS nations)) (VP (VBP strive) (S (VP (TO to) (VP (VB improve) (NP (NP (NP (DT the) (NN efficiency)) (PP (IN of) (NP (PRP$ their) (VBG ailing) (NNS factories)))) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (PRP$ their) (NNS goods)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (VBG continuing) (NN dispute)) (PP (IN between) (NP (NP (NN machine) (NN tool) (NNS makers)) (CC and) (NP (DT the) (NNP Defense) (NNP Department)))) (PP (IN over) (SBAR (IN whether) (S (NP (JJ sophisticated) (NNP U.S.) (NN machine) (NNS tools)) (VP (MD would) (VP (VB increase) (NP (NP (DT the) (NNP Soviet) (NNP Union) (POS 's)) (JJ military) (NN might))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (DT The) (NNP Commerce) (NNP Department)) (VP (VBZ says) (S (VP (VB go))))) (, ,) (CC and) (S (NP (DT the) (NNP Defense) (NNP Department)) (VP (VBZ says) (S (VP (VB stop))))) (, ,) ('' ')) ('' ') (VP (VBZ complains)) (NP (CD one) (NN machine) (NN tool) (NN producer)) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT that) (NN controversy)) (VP (VBZ continues)))) (PRN (, ,) (S (NP (NNP U.S.) (NN machine) (NN tool) (NNS makers)) (VP (VBP say))) (, ,)) (NP (NNP West) (NNP German) (CC and) (JJ other) (JJ foreign) (NNS producers)) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB grab) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (NNS sales)) (PP (IN in) (NP (NNP Eastern) (NNP Europe))))))))))) (. .)))
+
+(S1 (S (S (S (NP (NP (NP (NP (NNP September) (NNS orders)) (PP (IN for) (NP (NP (NN machining) (NNS centers)) (, ,) (NP (NNS lathes)) (, ,) (NP (VBG milling) (NNS machines)) (, ,) (NP (NNS grinders)) (, ,) (NP (JJ boring) (NNS mills)) (CC and) (NP (JJ other) (NNS machines))))) (NP (DT that) (NN shape) (NN metal))) (PP (IN by) (NP (NN cutting)))) (VP (VBD totaled) (NP (QP ($ $) (CD 192.9) (CD million))) (, ,) (ADVP (RB down) (NP (CD 28) (NN %)) (PP (IN from) (NP (QP ($ $) (CD 266.5) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))) (, ,) (CC but) (S (NP (NP (DT a) (ADJP (CD 23) (NN %)) (NN increase)) (PP (IN from) (NP (NNP August)))) (VP (VBZ 's) (NP (QP ($ $) (CD 156.3) (CD million)))))) (, ,) (NP (NNP NMTBA)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNS Orders)) (VP (VB last) (NP (NN month) (SBAR (IN for) (S (NP (NP (JJ metal-forming) (NNS presses)) (CC and) (NP (JJ other) (NN machinery))) (VP (TO to) (VP (VB form) (NP (NN metal)) (PP (IN with) (NP (NP (NP (NN pressure)) (VP (VBN surged) (PP (TO to) (NP (QP ($ $) (CD 110.1) (CD million)))))) (, ,) (NP (NP (DT a) (ADJP (CD 78) (NN %)) (NN rise)) (PP (IN from) (NP (QP ($ $) (CD 61.7) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (CC and) (NP (NP (DT a) (ADJP (CD 55) (NN %)) (NN gain)) (PP (IN from) (NP (NP (QP ($ $) (CD 70.9) (CD million))) (PP (IN in) (NP (NNP August)))))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NN Today) (POS 's)) (NNS presses)) (VP (VBP are) (NP (ADJP (JJ large) (CC and) (JJ costly)) (NNS machines)))) (, ,) (CC and) (S (NP (DT a) (JJ few) (NNS orders)) (VP (MD can) (VP (VB produce) (NP (NP (DT a) (JJ high) (NN total)) (PP (IN for) (NP (NP (CD one) (NN month)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (RB n't) (ADVP (RB necessarily)) (VP (VB indicate) (NP (DT a) (NN trend)))))))))))) (. .)))
+
+(S1 (S (NP (NN Machine) (NN tool) (NNS shipments)) (NP (JJ last) (NN month)) (VP (VBD were) (NP (NP (QP ($ $) (CD 281.2) (CD million))) (, ,) (NP (NP (NP (DT a) (ADJP (CD 24) (NN %)) (NN rise)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (CC and) (NP (NP (DT a) (ADJP (CD 25) (NN %)) (NN increase)) (PP (IN from) (NP (NNP August))))))) (. .)))
+
+(S1 (S (NP (NNS Shipments)) (VP (VBP have) (VP (VBN run) (PP (RB well) (RB ahead) (IN of) (NP (CD 1988))) (NP (DT all) (NN year)) (, ,) (PP (IN as) (NP (NP (NN machine) (NN tool)) (SBAR (S (NP (NNS builders)) (VP (VBP produce) (PP (IN against) (NP (ADJP (RB relatively) (JJ good)) (NNS backlogs)))))))))) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NNS producers)) (VP (VBD had) (NP (NP (DT a) (ADJP (QP ($ $) (CD 2.15) (CD billion))) (NN backlog)) (PP (IN of) (NP (JJ unfilled) (NNS orders)))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NNP September)))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBD was) (ADVP (RB up) (NP (CD 2.8) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (, ,) (SBAR (RB even) (IN though) (S (NP (NP (NNS orders)) (PP (IN for) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (CD 1989)))))) (VP (VBD were) (ADVP (RB down) (NP (CD 19) (NN %)) (PP (IN from) (NP (DT the) (JJ comparable) (CD 1988) (NN period)))))))) (. .)))
+
+(S1 (NP (NP ($ $) (CD 2,057,750,000)) (. .)))
+
+(S1 (NP (NP ($ $) (CD 675,400,000)) (. .)))
+
+(S1 (NP (NP ($ $) (CD 1,048,500,000)) (. .)))
+
+(S1 (NP (NP ($ $) (CD 588,350,000)) (. .)))
+

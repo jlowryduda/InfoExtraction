@@ -1,0 +1,20 @@
+(S1 (NP (JJ Base) (NNP Data)))
+
+(S1 (S (NP (NP (NP (NNS Computers)) (SBAR (WHNP (WDT that)) (S (ADVP (RB once)) (VP (VBD were) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (DT the) (NN art)))))))) (, ,) (NP (NP (DT The) (NNS marvels)) (VP (VBN bought) (ADVP (NP (CD three) (NNS years)) (RB ago)))) (, ,)) (VP (VBP Are) (ADVP (RB now)) (ADJP (JJ obsolete))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (PRP we)) (VP (ADVP (RB queasily)) (VBP start) (NP (NP (DT The) (NN search)) (PP (IN for) (NP (NNS replacements))))))) (, ,) (NP (PRP we)) (VP (VBP know) (NP (NP (DT The) (JJ new) (NN one)) (SBAR (S (NP (PRP we)) (VP (VBP purchase) (PP (IN in) (NP (NNS hopes) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB do))))))) (, ,) (PP (IN Despite) (S (FRAG (NP (DT every) (NN wonder) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN stated)))))) (, ,) (NP (ADJP (NP (NNPS Means)) (JJR more)) (NN speed)) (, ,) (NP (JJR more) (NNS graphics)) (, ,) (NP (JJR more) (NN memory)) (, ,) (ADVP (RB too)) (, ,) (CC But) (ADVP (RB also) (RBR more)) (ADVP (RB quickly) (RB out))) (: -) (S (ADJP (JJ dated)))))))))) (. !)))
+
+(S1 (NP (: --) (NNP Bern) (NNP Sharfman) (. .)))
+
+(S1 (NP (JJ Curdling) (NN Confession)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBP know) (SBAR (WHADVP (WRB when)) (S (NP (NNS dividends)) (VP (VBP are) (ADJP (JJ due)) (: ;) (SBAR (WHADVP (WRB When)) (S (NP (NNS bonds)) (VP (MD should) (VP (VB be) (VP (VBN retired))))))))))) (: ;) (CC But) (S (SBAR (WHNP (WP what)) (S (VP (VBZ gets) (PP (IN by) (NP (PRP me)))))) (NP (DT every) (NN time)) (VP (VBZ Is) (SBAR (S (VP (VBZ has) (NP (NP (DT the) (NN milk)) (VP (VBN expired)))))))) (. ?)))
+
+(S1 (NP (: --) (NNP Ralph) (NNP Shaffer) (. .)))
+
+(S1 (NP (NN Daffynition)))
+
+(S1 (NP (NP (NNP Tithing)) (: :) (NP (NP (NNP Obedience)) (TO to) (NP (JJ one-tenth) (NNP Commandment))) (. .)))
+
+(S1 (NP (: --) (NNP Len) (NNP Elliott) (. .)))
+

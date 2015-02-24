@@ -1,0 +1,78 @@
+(S1 (S (NP (NNP Wall) (NNP Street)) (VP (MD would) (VP (VB like) (S (NP (NP (NNP UAL) (NNP Corp.) (POS 's)) (NN board)) (VP (TO to) (VP (VB change) (NP (PRP$ its) (NN mind)) (PP (IN about) (S (VP (VBG keeping) (S (NP (DT the) (NN company)) (ADJP (JJ independent))))))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (WHNP (WP what)) (S (VP (VBZ happens) (ADVP (RB next)) (PP (IN in) (NP (DT the) (VBG continuing) (NN takeover) (NN drama)))))) (VP (MD may) (VP (VB depend) (ADVP (RBR more)) (PP (IN on) (NP (NP (NP (DT the) (NN company) (POS 's)) (CD two) (ADJP (RBS most) (JJ powerful) (CC and) (JJ fractious)) (NNS unions)) (: :) (NP (NP (DT the) (NNS pilots)) (CC and) (NP (NNS machinists))))))) (. .)))
+
+(S1 (S (NP (NP (DT Some) (NNS people)) (ADJP (JJ familiar) (PP (IN with) (NP (DT the) (NN situation))))) (VP (VBP believe) (SBAR (IN that) (S (NP (NP (DT the) (NN collapse)) (PP (IN of) (NP (NP (DT the) (JJ previous) (ADJP (QP ($ $) (CD 6.79) (CD billion))) (NN buy-out)) (PRN (, ,) (PP (IN if) (NP (NN anything))) (, ,))))) (VP (MD may) (VP (VB have) (VP (VBN strengthened) (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (DT these) (CD two) (NN labor) (NNS groups)))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (DT both)) (VP (MD may) (ADVP (RB now)) (VP (VB have) (NP (NP (JJ virtual) (NN veto) (NN power)) (PP (IN over) (NP (DT any) (NNP UAL) (NN transaction)))))) (. .)))
+
+(S1 (NP (NP (CD One) (NN reason)) (: :) (S (NP (NP (NNS banks)) (: --) (ADJP (JJ likely) (S (VP (TO to) (VP (VB react) (PP (TO to) (NP (NP (DT any) (JJ new) (NNP UAL) (NN deal)) (PP (IN with) (NP (NP (ADJP (RB even) (JJR more)) (NN caution)) (PP (IN than) (NP (NP (DT the) (JJ first) (NN time)) (ADVP (RP around)))))))))))) (: --)) (ADVP (RB probably)) (VP (MD will) (VP (VB insist) (PP (IN on) (NP (NN labor) (NN harmony))) (SBAR (IN before) (S (NP (PRP they)) (VP (VBP agree) (S (VP (TO to) (VP (VB put) (PRT (RP up)) (NP (NP (NP (NN cash)) (PP (IN for) (NP (DT any) (JJ new) (NN bid)))) (CC or) (RB even) (NP (DT a) (JJ less-ambitious) (NN recapitalization) (NN plan)))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP United) (NNS pilots)) (VP (VBP have) (VP (VBN shown) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NP (NNS occasions)) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ willing) (CC and) (JJ able) (S (VP (TO to) (VP (VB strike)))))))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (DT an) (NN executive)) (PP (IN at) (NP (NP (NNP Fuji) (NNP Bank)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP UAL) (POS 's)) (JJ large) (NNS lenders))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN If) (S (NP (PRP you)) (VP (VBP have) (NP (DT both) (-LRB- -LCB-) (NN labor) (-RRB- -RCB-) (NNS groups)) (PP (IN on) (NP (NN strike)))))) (, ,) (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (NP (DT no) (NN revenue))))) (CC and) (S (NP (DT that)) (VP (VBZ 's) (NP (DT a) (ADJP (RB very) (JJ scary)) (NN thing)) (SBAR (IN for) (S (NP (DT a) (NN bank)) (VP (TO to) (VP (VB be) (VP (VBG looking) (PP (IN at))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (RB Just) (DT this) (JJ past) (NN week)) (, ,) (NP (DT a) (JJ leading) (JJ Japanese) (NN bank)) (VP (VBD asked) (PP (IN for) (NP (NP (DT a) (NN meeting)) (PP (IN with) (NP (NP (DT the) (NNS machinists) (POS ')) (NN union) (NNS leaders))))) (S (VP (TO to) (VP (VB determine) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN union)) (VP (MD would) (VP (VB stand) (SBAR (IN if) (S (NP (NP (DT another) (NN bid)) (CC or) (NP (NN recapitalization))) (VP (VBD became) (ADJP (JJ possible))))))))))))) (. .)))
+
+(S1 (FRAG (NP (DT Another) (NN reason)) (: :) (S (S (VP (VBN Emboldened) (PP (IN by) (NP (NP (PRP$ their) (NN success)) (PP (IN in) (S (VP (VBG helping) (S (VP (TO to) (VP (VB scuttle) (NP (DT the) (JJ previous) (NN transaction)))))))))))) (, ,) (NP (DT the) (NNS machinists)) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (ADJP (RBR more) (JJ aggressive)) (SBAR (IN if) (S (NP (DT a) (JJ second) (NN buy-out) (NN attempt)) (VP (VBZ occurs)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD two) (NNS unions)) (ADVP (RB already)) (VP (VBD had) (NP (JJ significant) (NN leverage)) (SBAR (ADVP (RB simply)) (IN because) (S (NP (PRP$ their) (NN employer)) (VP (VBZ has) (ADVP (RB yet)) (S (VP (TO to) (VP (VB settle) (PP (IN with) (NP (NP (DT either)) (PP (IN on) (NP (JJ new) (NNS contracts)))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ gives) (NP (NP (PRP them)) (NP (DT both))) (NP (NP (DT the) (NN threat)) (PP (IN of) (NP (NP (DT a) (NN strike)) (CC and) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB resist) (NP (NP (DT any) (NN wage) (NNS concessions)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB be) (ADJP (JJ necessary) (S (VP (TO to) (VP (VB make) (S (NP (DT a) (NN transaction)) (VP (VB work)))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Thus)) (, ,) (NP (NP (RB even) (NNS investors)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG pushing) (PP (IN for) (NP (DT the) (NN board))) (S (VP (TO to) (VP (VB do) (NP (NP (DT a) (NN recapitalization)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VP (VB pay) (NP (NNS shareholders)) (NP (DT a) (JJ special) (NN dividend))) (CC and) (VP (ADVP (RB possibly)) (VB grant) (NP (NNS employees)))))))) (NP (DT an) (NN ownership) (NN stake)))))))))) (VP (VBP acknowledge) (SBAR (IN that) (S (NP (DT the) (NNS unions)) (VP (VBP are) (ADJP (JJ key)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (EX There)) (VP (VBZ 's) (NP (NP (JJR less) (NN likelihood)) (PP (IN of) (S (VP (VBG creating) (CC and) (VBG completing) (NP (DT a) (NN transaction)) (PP (IN without) (NP (NP (DT the) (NNS unions) (POS ')) (NN cooperation) (CC and) (NN wage) (NNS concessions))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Richard) (NNP Nye)) (, ,) (PP (IN of) (NP (NP (NNP Baker) (, ,) (NNP Nye) (NNPS Investments)) (, ,) (NP (DT a) (NNP New) (NNP York) (NN takeover) (NN stock-trader))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Nye)) (VP (VBZ thinks) (SBAR (S (NP (DT the) (NNP UAL) (NN board)) (VP (MD should) (VP (VB be) (VP (VBN ousted) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB move) (ADVP (RB soon)) (S (VP (TO to) (VP (VB increase) (NP (NN shareholder) (NN value))))))))))))))) (. .)))
+
+(S1 (S (NP (DT Both) (NP (DT the) (NNS pilots)) (CC and) (NP (NNS machinists))) (VP (VBP have) (VP (VBN made) (S (NP (PRP it)) (ADJP (JJ clear)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP intend) (S (VP (TO to) (VP (VB block) (NP (NP (DT any) (NN transaction)) (SBAR (S (NP (PRP they)) (VP (VBP do) (RB n't) (VP (VB like))))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (NNS pilots)) (VP (MD will) (VP (VB be) (VP (VBN involved) (PP (IN in) (NP (NP (DT any) (NN transaction)) (SBAR (WHNP (WDT that)) (S (VP (VBZ takes) (NP (NN place)) (PP (IN around) (NP (RB here))))))))))) (, ,) ('' ')) ('' ') (NP (NN pilot) (NN union) (NN chairman) (NNP Frederick) (NNP C.) (NNP Dubinsky)) (VP (VBD declared) (NP (NN yesterday))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN whether) (S (NP (DT the) (NNS pilots)) (VP (MD can) (VP (VB team) (PRT (RP up)) (PP (IN with) (NP (NP (PRP$ their) (NN longtime) (NNS adversaries)) (, ,) (NP (DT the) (NNS machinists)) (, ,))))))) (VP (VBZ is) (NP (DT another) (NN question))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS pilots) (POS ')) (NNP Mr.) (NNP Dubinsky)) (VP (VBZ says) (SBAR (S (NP (PRP$ his) (NN union)) (VP (MD would) (VP (VB like) (NP (NP (NN majority) (NN ownership)) (PP (IN for) (NP (NNS employees))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (ADJP (RB very) (JJS least)))) (, ,) (NP (DT the) (NNS pilots)) (VP (VBP want) (NP (NP (DT some) (NN form)) (PP (PP (IN of) (NP (NP (NN control)) (PP (IN over) (NP (DT the) (NN airline))))) (, ,) (RB perhaps) (PP (IN through) (NP (JJ super-majority) (NN voting) (NNS rights)))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT the) (JJ other) (NN hand))) (, ,) (NP (DT the) (NNS machinists)) (VP (VBP have) (ADVP (RB always)) (VP (VBN opposed) (NP (NP (NN majority) (NN ownership)) (PP (IN in) (NP (NN principle)))) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP they)) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (NNS employees)) (VP (MD should) (VP (VB be) (NP (NNS owners)))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (PP (IN in) (NP (JJ recent) (NNS days))) (, ,) (NP (NP (NNS machinists) (POS ')) (NN union) (NNS leaders)) (VP (VBP have) (VP (VBN shown) (NP (DT some) (JJ new) (NN flexibility)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (MD may) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB reach) (NP (NP (NP (DT a) (NN tradeoff)) (SBAR (WHADVP (WRB where)) (S (NP (PRP we)) (VP (MD can) (VP (VB accommodate) (NP (-LRB- -LCB-) (NP (DT the) (NN pilot) (NN union) (POS 's)) (-RRB- -RCB-) (NNS concerns))))))) (CC and) (NP (JJ ours)))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Brian) (NNP M.) (NNP Freeman)) (, ,) (NP (NP (DT the) (NNS machinists) (POS ')) (JJ financial) (NN adviser))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Freeman)) (VP (VBD said) (SBAR (S (NP (NP (NNS machinists) (POS ')) (NN union) (NNS advisers)) (VP (VBP plan) (S (VP (TO to) (VP (VB meet) (NP (DT this) (NN week)) (S (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VB draw) (PRT (RP up)) (NP (NP (DT a) (NN blueprint)) (PP (IN for) (NP (NP (DT some) (NN form)) (PP (IN of) (NP (NP (NN recapitalization)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB include) (NP (NP (NP (DT a) (JJ special) (NN dividend)) (PP (IN for) (NP (NNS shareholders)))) (, ,) (NP (DT an) (NN employee) (NN stake)) (CC and) (PRN (, ,) (ADVP (RB perhaps)) (, ,)) (NP (NP (DT an) (NN equity) (NN investment)) (PP (IN by) (NP (DT a) (JJ friendly) (NN investor))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT a) (NN compromise)) (VP (MD ca) (RB n't) (VP (VB be) (VP (VBN reached)))))) (, ,) (NP (DT the) (NNS pilots)) (VP (VBP maintain) (SBAR (S (NP (PRP they)) (VP (MD can) (VP (VB do) (NP (DT a) (NN transaction)) (PP (IN without) (NP (NP (DT the) (NN support)) (PP (IN of) (NP (DT the) (NNS machinists)))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN at) (NP (DT this) (NN point))) (, ,) (NP (DT that)) (VP (MD may) (ADVP (RB just)) (VP (VB be) (NP (JJ wishful) (NN thinking)))) (. .)))
+
+(S1 (S (NP (DT The) (NNS machinists)) (VP (VBN lobbied) (ADVP (RB heavily)) (PP (IN against) (NP (NP (DT the) (JJ original) (NN bid)) (PP (IN from) (NP (NNP UAL) (NNS pilots) (CC and) (NN management))) (PP (IN for) (NP (DT the) (NN company)))))) (. .)))
+
+(S1 (S (NP (PRP$ Their) (NN opposition)) (VP (VBD helped) (S (VP (VB scare) (PRT (RP off)) (NP (DT some) (JJ Japanese) (NNS banks))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT The) (NNS pilots) (POS ')) (NN insistence)) (PP (IN on) (NP (NN majority) (NN ownership)))) (ADVP (RB also)) (VP (MD may) (VP (VB make) (S (NP (NP (DT the) (NN idea)) (PP (IN of) (NP (DT a) (NN recapitalization)))) (ADJP (JJ difficult) (SBAR (S (VP (TO to) (VP (VB achieve))))))))) (. .)))
+
+(S1 (SINV (`` `) (SBARQ (`` `) (WHNP (WP Who)) (SQ (VP (VBZ wants) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (JJ public) (NN shareholder) (NN investing)) (PP (IN in) (NP (NP (DT a) (NN company)) (VP (VBN controlled) (PP (IN by) (NP (NP (DT the) (NNS pilots) (POS ')) (NN union)))))))))))) (. ?) ('' ')) ('' ') (VP (VBZ asks)) (NP (NP (NNP Candace) (NNP Browning)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN at) (NP (NNP Wertheim) (NNP Schroeder) (CC &) (NNP Co))))) (. .)))
+
+(S1 (S (`` `) (SBARQ (`` `) (WHNP (WP Who)) (SQ (MD would) (NP (DT the) (NN board)) (VP (VB be) (VP (VBG working) (PP (IN for) (: --) (NP (NP (DT the) (JJ public) (NNS shareholders)) (CC or) (NP (DT the) (NNS pilots))))))) (. ?) ('' ')) ('' ') (NP (PRP she)) (VP (VBZ adds)) (. .)))
+
+(S1 (S (NP (NNP Ms.) (NNP Browning)) (VP (VBZ says) (SBAR (S (NP (PRP she)) (VP (VBZ believes) (SBAR (S (NP (NP (DT a) (NN recapitalization)) (VP (VBG involving) (NP (NN employee) (NN ownership)))) (VP (MD would) (VP (VB succeed) (SBAR (RB only) (IN if) (S (NP (DT the) (NNS pilots)) (VP (VBP relent) (PP (IN on) (NP (NP (PRP$ their) (NN demand)) (PP (IN for) (NP (NN control)))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (ADVP (RB also)) (VP (VBZ notes) (SBAR (IN that) (S (SBAR (RB even) (IN if) (S (NP (DT the) (NNS pilots)) (VP (VBP accept) (NP (DT a) (NN minority) (NN stake)) (ADVP (RB now))))) (, ,) (NP (PRP they)) (ADVP (RB still)) (VP (MD could) (VP (VP (VB come) (ADVP (RB back)) (PP (IN at) (NP (DT a) (JJ later) (NN time)))) (CC and) (VP (VB try) (S (VP (TO to) (VP (VB take) (NP (NN control))))))))))) (. .)))
+
+(S1 (S (NP (DT Another) (NN possibility)) (VP (VBZ is) (SBAR (IN for) (S (NP (DT the) (NNS pilots) (POS ')) (VP (TO to) (VP (VB team) (PRT (RP up)) (PP (IN with) (NP (NP (DT an) (JJ outside) (NN investor)) (SBAR (WHNP (WP who)) (S (VP (MD might) (VP (VB try) (S (VP (TO to) (VP (VB force) (NP (NP (DT the) (NN ouster)) (PP (IN of) (NP (DT the) (NN board)))) (PP (IN through) (NP (NP (DT the) (NN solicitation)) (PP (IN of) (NP (NNS consents))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT that) (NN way))) (, ,) (NP (DT the) (NNS pilots)) (VP (MD may) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB force) (S (NP (DT the) (NN board)) (VP (VP (TO to) (VP (VB approve) (NP (NP (DT a) (NN recapitalization)) (SBAR (WHNP (WDT that)) (S (VP (VBZ gives) (NP (NNS employees)) (NP (DT a) (NN majority) (NN stake)))))))) (, ,) (CC or) (VP (TO to) (VP (VB consider) (NP (NP (DT the) (JJ labor-management) (NN group) (POS 's)) (JJS latest) (NN proposal)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN group)) (VP (VP (VBD did) (RB n't) (VP (VB make) (NP (DT a) (JJ formal) (NN offer)))) (, ,) (CC but) (ADVP (RB instead)) (VP (VBD told) (NP (NP (NP (NNP UAL) (POS 's)) (NNS advisers)) (PP (IN before) (NP (DT the) (JJ most-recent) (NN board) (NN meeting)))) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD was) (VP (VBG working) (PP (IN on) (NP (NP (DT a) (NN bid)) (VP (VBN valued) (PP (IN at) (NP (NP (QP (IN between) ($ $) (CD 225) (CC and) ($ $) (CD 240))) (NP (DT a) (NN share))))))))))))) (. .)))
+
+(S1 (S (CC But) (ADVP (RB again)) (, ,) (NP (PRP they)) (VP (MD may) (VP (VB need) (NP (NP (DT the) (NN help)) (PP (IN of) (NP (DT the) (NNS machinists)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NP (DT the) (NNS dynamics)) (PP (IN of) (NP (DT this) (NN situation)))) (VP (VBP are) (SBAR (IN that) (S (NP (NN something)) (VP (VBZ 's) (VP (VBD got) (S (VP (TO to) (VP (VB happen)))))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (CD one) (NN official)) (ADJP (JJ familiar) (PP (IN with) (NP (DT the) (NN situation))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN board)) (CC and) (NP (NP (NNP UAL) (POS 's)) (NN management))) (, ,) (NP (PRP he)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (VP (MD ca) (RB n't) (VP (VB go) (ADVP (RB back)))) ('' ')) ('' ') (PP (TO to) (NP (NP (NN business)) (ADJP (RB as) (JJ usual))))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (DT The) (NNS pilots)) (VP (MD wo) (RB n't) (VP (VB let) (NP (PRP them)))) (. .)))
+

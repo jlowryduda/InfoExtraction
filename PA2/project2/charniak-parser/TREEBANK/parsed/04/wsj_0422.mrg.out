@@ -1,0 +1,82 @@
+(S1 (S (NP (NP (DT The) (ADJP (RB recently) (VBN revived)) (NN enthusiasm)) (PP (IN among) (NP (JJ small) (NNS investors))) (PP (IN for) (NP (NN stock) (JJ mutual) (NNS funds)))) (VP (VBZ has) (VP (VBN been) (VP (VBP damped) (PP (IN by) (NP (DT a) (JJ jittery) (NN stock) (NN market)))) (CC and) (VP (NP (DT the) (NN tumult)) (PP (IN over) (NP (NN program) (NN trading)))))) (. .)))
+
+(S1 (S (PP (IN After) (S (VP (VBG hitting) (NP (JJ two-year) (NNS highs)) (NP (DT this) (NN summer))))) (, ,) (NP (NP (JJ net) (NNS sales)) (PP (IN of) (NP (NN stock) (NNS funds)))) (VP (VBD slowed) (PP (IN in) (NP (NNP September))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT the) (NNP Investment) (NNP Company) (NNP Institute)) (, ,) (NP (DT a) (NN trade) (NN group)))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNS sales) (NN recovery)) (VP (VBD screeched) (PP (TO to) (NP (DT a) (NN halt))) (NP (DT this) (NN month)))) (, ,) (NP (DT some) (NNS analysts)) (VP (VBP say)) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NN Confidence)) (VP (VBD was) (VP (VBG starting) (S (VP (TO to) (VP (VB come) (ADVP (RB back)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD did) (RB n't) (VP (VB have) (NP (ADJP (RB wildly) (JJ volatile)) (NNS days))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Tyler) (NNP Jenks)) (, ,) (NP (NP (NN research) (NN director)) (PP (IN for) (NP (NP (NNP Kanon) (NNP Bloch) (NNP Carre) (CC &) (NNP Co.)) (, ,) (NP (DT a) (NNP Boston) (NN research) (NN firm)))))) (. .)))
+
+(S1 (S (`` `) (NP (NP (`` `) (NP (NNP Now) (NN everything) (POS ')) ('' ') (PRN (: --) (PP (JJ such) (IN as) (NP (NP (NN program) (NN trading)) (CC and) (NP (JJ wide) (NN stock) (NN market) (NNS swings)))) (: --))) (`` `) (S (`` `) (S (NP (DT that) (NN everyone)) (VP (VBD had) (VP (VBN pushed) (PRT (RP back)) (PP (IN in) (NP (PRP$ their) (NN consciousness)))))) (VP (VBZ is) (ADVP (RB just)) (VP (VBG sitting) (ADVP (RB right) (RB there)))) (. .) ('' ')) ('' '))))
+
+(S1 (S (S (NP (NP (JJ Net) (NNS sales)) (PP (IN of) (NP (NN stock) (NNS funds))) (PP (IN in) (NP (NNP September)))) (VP (VBD totaled) (NP (QP ($ $) (CD 839.4) (CD million))) (, ,) (ADVP (RB down) (PP (IN from) (NP (QP ($ $) (CD 1.1) (CD billion))) (PP (IN in) (NP (NNP August))))))) (, ,) (NP (DT the) (NN institute)) (VP (VBD said)) (. .)))
+
+(S1 (S (CC But) (SBAR (IN if) (S (NP (VBN reinvested) (NNS dividends)) (VP (VBP are) (VP (VBN excluded))))) (, ,) (NP (NNS investors)) (VP (VBP put) (PRT (RP in)) (NP (NP (QP (RB only) ($ $) (CD 340) (CD million)) (JJR more)) (SBAR (IN than) (S (NP (PRP they)) (VP (VBD pulled) (ADVP (RB out)) (PP (IN for) (NP (DT the) (NN month)))))))) (. .)))
+
+(S1 (S (S (NP (NP (NP (NNP October) (POS 's)) (NNS numbers)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD wo) (RB n't) (VP (VB be) (VP (VBN released) (PP (IN for) (NP (DT a) (NN month)))))))) (, ,)) (VP (VBP are) (S (ADVP (RB down) (ADVP (RBR further)))))) (, ,) (NP (JJ mutual) (NN fund) (NNS executives)) (VP (VBP say)) (. .)))
+
+(S1 (S (NP (NP (NNS Investors)) (PP (IN in) (NP (NN stock) (NNS funds)))) (VP (VBD did) (RB n't) (VP (NN panic) (NP (DT the) (NN weekend)) (PP (IN after) (NP (NP (NN mid-October) (POS 's)) (JJ 190-point) (NN market) (NN plunge))))) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (DT those))) (SBAR (WHNP (WP who)) (S (VP (VBD left) (NP (NN stock) (NNS funds)))))) (ADVP (RB simply)) (VP (VBN switched) (PP (IN into) (NP (NN money) (NN market) (NNS funds)))) (. .)))
+
+(S1 (S (CC And) (NP (DT some) (NN fund) (NNS groups)) (VP (VBD said) (SBAR (S (NP (NNS investors)) (ADVP (RB actually)) (VP (VBD became) (NP (JJ net) (NNS buyers)))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN stock) (NN market) (NNS swings)) (VP (VBP have) (VP (VBN continued))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (JJ recent) (NN outcry)) (PP (IN over) (NP (NN program) (NN trading)))) (VP (MD will) (VP (VB cast) (NP (DT a) (NN pall)) (PP (IN over) (NP (NP (DT the) (JJ stock-fund) (NN environment)) (PP (IN in) (NP (DT the) (VBG coming) (NNS months)))))))) (, ,) (NP (DT some) (NNS analysts)) (VP (VBP say)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (NN public)) (VP (VBZ is) (ADJP (RB very) (RB close) (PP (TO to) (S (VP (VBG having) (VP (VBD had) (NP (PRP it)))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Jenks)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNS Investors)) (VP (VBD pulled) (ADVP (RB back) (PP (IN from) (NP (NN bond) (NNS funds)))) (PP (IN in) (NP (NNP September))) (, ,) (ADVP (RB too))) (. .)))
+
+(S1 (S (NP (NP (JJ Net) (NNS sales)) (PP (IN of) (NP (NP (NN bond) (NNS funds)) (PP (IN for) (NP (DT the) (NN month)))))) (VP (VBD totaled) (NP (QP ($ $) (CD 1.1) (CD billion))) (, ,) (ADVP (RB down) (NP (NNS two-thirds)) (PP (IN from) (NP (QP ($ $) (CD 3.1) (CD billion))) (PP (IN in) (NP (NNP August)))))) (. .)))
+
+(S1 (NP (NP (DT The) (JJ major) (NN reason)) (: :) (NP (NP (JJ heavy) (NNS outflows)) (PP (IN from) (NP (CD high-risk) (, ,) (JJ high-yield) (NN junk) (NN bond) (NNS funds)))) (. .)))
+
+(S1 (S (NP (NP (JJ Big) (NNS withdrawals)) (PP (IN from) (NP (DT the) (NN junk) (NNS funds)))) (VP (VBP have) (VP (VBN continued) (NP (DT this) (NN month)))) (. .)))
+
+(S1 (S (S (ADVP (RB Overall)) (, ,) (NP (NP (JJ net) (NNS sales)) (PP (IN of) (NP (DT all) (JJ mutual) (NNS funds)))) (, ,) (S (VP (VBG excluding) (NP (NN money) (NN market) (NNS funds)))) (, ,) (VP (VBD fell) (PP (TO to) (NP (QP ($ $) (CD 1.9) (CD billion)))) (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (NP (QP ($ $) (CD 4.2) (CD billion))) (PP (IN in) (NP (NNP August))))))) (, ,) (NP (DT the) (NN trade) (NN group)) (VP (VBD said)) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (JJ Small) (JJ net) (NNS inflows)) (PP (IN into) (NP (NN stock) (CC and) (NN bond) (NNS funds)))) (VP (VBD were) (VP (VBN offset) (PP (IN by) (NP (NP (JJ slight) (NNS declines)) (PP (IN in) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (JJ mutual) (NN fund) (NN stock) (CC and) (NN bond) (NNS portfolios))) ('' '))) ('' ') (VP (VBG stemming) (PP (IN from) (NP (VBG falling) (NNS prices))))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Jacob) (NNP Dreyer)) (, ,) (NP (NP (DT the) (NN institute) (POS 's)) (JJ chief) (NN economist))) (. .)))
+
+(S1 (S (NP (JJ Many) (JJ small) (NNS investors)) (VP (VBD went) (PP (IN for) (NP (NP (DT the) (NN safety)) (PP (IN of) (NP (NN money) (NN market) (NNS funds)))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Assets)) (PP (IN of) (NP (ADJP (DT these) (CC and) (JJ other)) (JJ short-term) (NNS funds)))) (VP (VBD surged) (NP (QP (JJR more) (IN than) ($ $) (CD 5) (CD billion))) (PP (IN in) (NP (NNP September))))) (, ,) (NP (DT the) (NN institute)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBP say) (SBAR (S (NP (JJ additional) (NNS investors)) (VP (VBD transferred) (NP (PRP$ their) (NNS assets)) (PP (IN into) (NP (NN money) (NNS funds))) (NP (DT this) (NN month)))))) (. .)))
+
+(S1 (SINV (S (PP (IN At) (NP (NP (NNP Fidelity) (NNP Investments)) (, ,) (NP (NP (DT the) (NN nation) (POS 's)) (JJS largest) (NN fund) (NN group)))) (, ,) (NP (NN money) (NNS funds)) (VP (VBP continue) (S (VP (TO to) (VP (VB draw) (NP (DT the) (JJS most) (NN business))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Michael) (NNP Hines)) (, ,) (NP (NP (NN vice) (NN president)) (, ,) (NP (NN marketing)))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (NNP October))) (, ,) (NP (NP (JJ net) (NNS sales)) (PP (IN of) (NP (NN stock) (NNS funds))) (PP (IN at) (NP (NNP Fidelity)))) (VP (VBD dropped) (ADVP (RB sharply)))) (, ,) (NP (NNP Mr.) (NNP Hines)) (VP (VBD said)) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD emphasized) (SBAR (IN that) (S (NP (NP (JJ new) (NNS accounts)) (, ,) (NP (JJ new) (NNS sales)) (, ,) (NP (NNS inquiries)) (CC and) (NP (NP (JJ subsequent) (NNS sales)) (PP (IN of) (NP (NN stock) (NNS funds))))) (VP (VBP are) (RB all) (ADVP (RB up) (NP (DT this) (NN month)) (PP (IN from) (NP (NP (NNP September) (POS 's)) (NN level)))))))) (. .)))
+
+(S1 (S (NP (NP (NN Investor) (NN interest)) (PP (IN in) (NP (NN stock) (NNS funds)))) (`` `) (`` `) (S (VP (VBZ has) (RB n't) (VP (VBN stalled) (ADVP (IN at) (DT all))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Hines)) (VP (VBZ maintains)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ notes) (SBAR (IN that) (S (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (JJ net) (NNS sales) (NN drop)))) (VP (VBD stemmed) (PP (IN from) (NP (NP (DT a) (JJ three-day) (NN period)) (PP (VBG following) (NP (DT the) (NAC (NNP Friday) (DT the) (JJ 13th)) (NN plunge))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN If) (S (NP (DT that)) (VP (VBZ follows) (PRT (RP through)) (NP (JJ next) (NN month))))) (, ,) (ADVP (RB then)) (NP (PRP it)) (VP (MD will) (VP (VB be) (NP (DT a) (JJ different) (NN story)))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (CC But) (PRN (, ,) (S (NP (NNP Mr.) (NNP Hines)) (VP (VBZ adds))) (, ,)) (NP (NNS sales)) (`` `) (`` `) (S (VP (VBN based) (PP (IN on) (NP (NP (DT a) (JJ few) (NNS days) (POS ')) (NNS events))))) (VP (VB do) (RB n't) (VP (VB tell) (NP (PRP you)) (ADVP (RB much)) (PP (IN about) (NP (NP (NNP October) (POS 's)) (NNS trends))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (CD One) (NN trend)) (SBAR (WHNP (WDT that)) (S (VP (VBZ continues))))) (VP (VBZ is) (NP (NP (NN growth)) (PP (IN in) (NP (NP (DT the) (NN money)) (VP (VBN invested) (PP (IN in) (NP (NNS funds)))))))) (. .)))
+
+(S1 (S (S (VP (VBN Buoyed) (PP (IN by) (NP (NP (DT the) (VBN continued) (NNS inflows)) (PP (IN into) (NP (NN money) (NNS funds))))))) (, ,) (NP (NP (NNS assets)) (PP (IN of) (NP (DT all) (JJ mutual) (NNS funds)))) (VP (VBD swelled) (PP (TO to) (NP (DT a) (NN record) (QP ($ $) (CD 953.8) (CD billion)))) (PP (IN in) (NP (NNP September))) (, ,) (ADVP (RB up) (ADVP (RB fractionally)) (PP (IN from) (NP (QP ($ $) (CD 949.3) (CD billion))) (PP (IN in) (NP (NNP August)))))) (. .)))
+
+(S1 (S (NP (NN Stock-fund) (NNS managers)) (, ,) (ADVP (RB meantime)) (, ,) (VP (VBD went) (PP (IN into) (NP (NNP October))) (PP (IN with) (NP (NP (JJR less) (NN cash)) (PP (IN on) (NP (NN hand))))) (SBAR (IN than) (S (NP (PRP they)) (VP (VBD held) (NP (RBR earlier) (DT this) (NN year)))))) (. .)))
+
+(S1 (S (NP (DT These) (NNS managers)) (VP (VBD held) (NP (NP (CD 9.8) (NN %)) (PP (IN of) (NP (NNS assets)))) (PP (IN in) (NP (NN cash))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NNP September))))) (, ,) (ADVP (RB down) (PP (IN from) (NP (NP (NP (CD 10.2) (NN %)) (PP (IN in) (NP (NNP August)))) (CC and) (NP (CD 10.6) (NN %))) (PP (IN in) (NP (NNP September) (CD 1988)))))) (. .)))
+
+(S1 (S (NP (JJ Large) (NN cash) (NNS positions)) (VP (VP (VBP help) (S (VP (VB buffer) (NP (NNS funds)) (PP (IN from) (NP (NN market) (NNS declines)))))) (CC but) (VP (MD can) (VP (VB cut) (ADVP (RP down)) (PP (IN on) (NP (NP (NNS gains)) (PP (IN in) (NP (VBG rising) (NNS markets)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Managers)) (PP (IN of) (NP (NN junk) (NNS funds)))) (VP (VBD were) (VP (VBG bolstering) (NP (PRP$ their) (NN cash) (NNS hoards)) (PP (IN after) (NP (NP (DT the) (NNP September) (NN cash) (NN crunch)) (PP (IN at) (NP (NNP Campeau) (NNP Corp))))))) (. .)))
+
+(S1 (S (NP (NN Junk-portfolio) (NNS managers)) (VP (VBD raised) (NP (PRP$ their) (NN cash) (NN position)) (PP (TO to) (NP (NP (CD 9.4) (NN %)) (PP (IN of) (NP (NNS assets)))) (PP (IN in) (NP (NNP September)))) (PP (IN from) (NP (NP (CD 8.3) (NN %)) (PP (IN in) (NP (NNP August)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP September) (CD 1988))) (, ,) (NP (DT that) (NN level)) (VP (VBD was) (NP (CD 9.5) (NN %))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Investors)) (PP (IN in) (NP (DT all) (NNS funds)))) (VP (MD will) (VP (VB seek) (NP (NN safety)) (PP (IN in) (NP (DT the) (VBG coming) (NNS months)))))) (, ,) (NP (DT some) (NNS analysts)) (VP (VBP say)) (. .)))
+
+(S1 (S (S (PP (IN Among) (NP (NN stock) (NNS funds))) (, ,) (NP (DT the) (JJ conservative) (JJ growth-and-income) (NNS portfolios)) (ADVP (RB probably)) (VP (MD will) (VP (VB remain) (ADJP (JJ popular))))) (, ,) (NP (NN fund) (NNS specialists)) (VP (VBP say)) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (EX There)) (VP (MD will) (VP (VB be) (NP (NP (DT a) (NN continuation) (CC and) (ADJP (RB possibly) (JJR greater)) (NN focus)) (PP (IN on) (NP (JJ conservative) (NN equity) (NNS funds)))) (, ,) (PP (IN at) (NP (NP (DT the) (NN expense)) (PP (IN of) (NP (NN growth) (CC and) (JJ aggressive) (NN growth) (NNS funds))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Avi) (NNP Nachmany)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN at) (NP (NP (NNP Strategic) (NNP Insight)) (, ,) (NP (DT a) (NNP New) (NNP York) (NN fund-research) (NN concern)))))) (. .)))
+

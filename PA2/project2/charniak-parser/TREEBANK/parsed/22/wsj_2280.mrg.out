@@ -1,0 +1,28 @@
+(S1 (S (NP (NNP Chicago) (NN investor) (NNP William) (NNP Farley)) (VP (VBD agreed) (S (VP (TO to) (VP (VB sell) (NP (NP (CD three) (NNS divisions)) (PP (IN of) (NP (NNP Cluett) (NNP Peabody) (CC &) (NNP Co.)))) (PP (IN for) (NP (QP (RB about) ($ $) (CD 600) (CD million)))) (PP (TO to) (NP (NP (NNP Bidermann) (NNP S.A.)) (, ,) (NP (NP (DT a) (ADJP (RB closely) (JJ held)) (NN clothing) (NN maker)) (VP (VBN based) (PP (IN in) (NP (NNP Paris))))))))))) (. .)))
+
+(S1 (S (PP (ADVP (RB Shortly)) (IN after) (S (VP (VBG completing) (NP (NP (DT the) (ADJP (QP ($ $) (CD 1.56) (CD billion))) (NN acquisition)) (PP (IN of) (NP (NP (NNP West) (NNP Point-Pepperell) (NNP Inc.)) (PP (IN in) (NP (NNP April))))))))) (, ,) (NP (NP (NP (NNP Mr.) (NNP Farley) (POS 's)) (VBG holding) (NN company)) (, ,) (NP (NNP Farley) (NNP Inc.)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG considering) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (NNP Cluett)) (, ,) (NP (NP (DT a) (VBG leading) (NN shirt) (NN maker)) (CC and) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP West) (NNP Point-Pepperell) (POS 's)) (JJS biggest) (NNS units))))))))))))) (. .)))
+
+(S1 (SINV (VP (VBN Included) (PP (IN in) (NP (DT the) (NN sale)))) (VP (VBP are)) (NP (NP (NP (NNP Cluett) (NNS units)) (SBAR (WHNP (WDT that)) (S (VP (VBP make) (NP (NP (NNS men) (POS 's)) (NNS shirts)) (PP (IN under) (NP (DT the) (NNP Arrow) (NN name))))))) (, ,) (NP (NP (NNS socks)) (PP (IN under) (NP (DT the) (NNP Gold) (NN Toe) (NN name)))) (CC and) (NP (NP (NN menswear)) (PP (IN through) (NP (DT the) (NNP Schoeneman) (NN division))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS companies)) (VP (VBD said) (SBAR (S (NP (DT the) (NN agreement)) (VP (VBZ is) (ADJP (JJ subject) (PP (PP (TO to) (NP (NP (NP (NNP Bidermann) (POS 's)) (NN receipt)) (PP (IN of) (NP (NN financing))))) (CC and) (PP (TO to) (NP (JJ regulatory) (CC and) (JJ other) (NNS approvals))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD said) (SBAR (S (NP (DT the) (NN sale)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB be) (VP (VBN concluded) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NNP November)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Farley)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (CD three)) (PP (IN of) (NP (NP (NP (NNP Cluett) (POS 's)) (CD four) (JJ main) (NNS divisions)) (CC plus) (NP (JJ other) (`` `) (ADJP (`` `) (JJ anticipated) ('' ')) ('' ') (NNP West) (NNP Point-Pepperell) (NN asset) (NNS sales)))))) (PP (IN by) (NP (NNP December)))) (, ,) (VP (MD should) (VP (VB bring) (PRT (RP in)) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 700) (CD million)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD did) (RB n't) (VP (VB elaborate) (PP (IN on) (NP (NP (JJ other) (NN asset) (NNS sales)) (VP (VBG being) (VP (VBN considered))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Farley)) (VP (VBD followed) (NP (NP (DT a) (JJ similar) (NN pattern)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD acquired) (NP (NNP Northwest) (NNPS Industries) (NNP Inc.))) (CC and) (VP (ADVP (RB then)) (VBD sold) (NP (NP (JJ much)) (PP (IN of) (NP (PRP$ its) (NNS assets)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD kept) (NP (NP (NNP Fruit)) (PP (IN of) (NP (NP (DT the) (NNP Loom) (NNP Inc.)) (, ,) (NP (DT the) (NN underwear) (NN maker))))) (SBAR (IN that) (S (NP (PRP he)) (VP (VP (ADVP (RB still)) (VBZ controls)) (CC and) (VP (VBZ serves) (PP (IN as) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (NN executive))))))))) (. .)))
+
+(S1 (S (NP (NNP Cluett)) (VP (VBD was) (NP (DT an) (JJ independent) (NN company)) (SBAR (IN until) (S (NP (NNP West) (NNP Point-Pepperell)) (VP (VBD acquired) (NP (PRP it)) (PP (IN for) (NP (QP ($ $) (CD 375) (CD million)))) (PP (IN in) (NP (NP (NN cash)) (CC and) (NP (NP (NN stock)) (PP (IN in) (NP (CD 1986)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT the) (JJ fiscal) (NN year)) (VP (VBN ended) (NP (NNP Sept.) (CD 30) (, ,) (CD 1988))))) (, ,) (NP (NNP Cluett)) (VP (VBD had) (NP (NP (NN operating) (NN profit)) (PP (IN of) (NP (QP ($ $) (CD 37) (CD million)))) (PP (IN on) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 757) (CD million)))))))) (. .)))
+
+(S1 (S (NP (NNP Bidermann)) (VP (VBZ sells) (NP (NP (NNS clothes)) (PP (IN under) (NP (JJ various) (NNS labels))) (, ,) (PP (VBG including) (NP (NP (NP (NNP Yves) (NNP Saint) (NNP Laurent) (CC and) (NNP Bill) (NNP Robinson)) (PP (IN for) (NP (NNS men)))) (CC and) (NP (NNP Ralph) (NNP Lauren))))) (PP (IN for) (NP (NNS women)))) (. .)))
+
+(S1 (S (NP (DT A) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBD had) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 400) (CD million))))) (PP (IN in) (NP (CD 1988))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (, ,) (NP (NNP West) (NNP Point-Pepperell)) (VP (VBD fell) (NP (CD 25) (NNS cents)) (PP (TO to) (NP ($ $) (CD 53.875)))) (. .)))
+

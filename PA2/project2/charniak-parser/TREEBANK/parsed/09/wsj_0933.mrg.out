@@ -1,0 +1,38 @@
+(S1 (PRN (-LRB- -LRB-) (S (PP (IN During) (NP (PRP$ its) (NN centennial) (NN year))) (, ,) (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal)) (VP (MD will) (VP (VB report) (NP (NP (NNS events)) (PP (IN of) (NP (DT the) (JJ past) (NN century))) (SBAR (WHNP (DT that)) (S (VP (NN stand) (PP (IN as) (NP (NP (NNS milestones)) (PP (IN of) (NP (JJ American) (NN business) (NN history))))))))))) (. .)) (-RRB- -RRB-)))
+
+(S1 (S (S (NP (NN TAX) (NNS SHELTERS)) (VP (VBN CALLED) (NP (NNP Individual) (NNP Retirement) (NNPS Accounts)))) (, ,) (CC or) (S (NP (`` `) (NP (`` `) (NNS IRAs) (, ,) ('' ')) ('' ')) (VP (VBD were) (VP (VP (VBN created) (PP (IN without) (NP (NP (NN fanfare)) (PP (IN on) (NP (NNP Sept.) (CD 2) (, ,) (CD 1974) (, ,)))))) (CC but) (VP (VBD grew) (PP (IN beyond) (NP (NNS expectations))) (PP (IN as) (NP (NP (DT an) (NN inducement)) (PP (TO to) (NP (JJ personal) (NN saving))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NNP Labor) (NN Day)) (, ,) (PP (IN in) (NP (PRP$ his) (JJ first) (JJ major) (NN act))) (PP (IN after) (S (VP (VBG succeeding) (NP (DT the) (JJ resigned) (NNP Richard) (NNP Nixon)) (PP (IN as) (NP (NN president)))))) (, ,) (NP (NNP Gerald) (NNP R.) (NNP Ford)) (VP (VBD signed) (NP (DT the) (NNP Employee) (NNP Retirement) (NNP Income) (NNP Security) (NNP Act))) (. .)))
+
+(S1 (S (NP (NN Pension) (NN reform)) (VP (VBD was) (NP (PRP$ its) (JJ main) (NN thrust))) (. .)))
+
+(S1 (S (NP (NN Labor) (CC and) (NN business) (NNS leaders)) (, ,) (S (VP (VBN quoted) (PP (IN at) (NP (DT the) (NNP White) (NNP House))) (NP (NNP Rose) (NNP Garden) (NNS rites)))) (, ,) (VP (VBD hailed) (NP (NP (PRP$ its) (NNS provisions)) (PP (IN for) (S (VP (VBG insuring) (NP (JJ corporate) (NN pension) (NNS benefits))))))) (. .)))
+
+(S1 (S (NP (NNS IRAs)) (VP (VBD were) (PP (IN like) (NP (NP (NNS stepchildren)) (ADVP (RB there))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP IRA) (POS 's)) (NN conception)) (VP (VBZ is) (ADJP (JJ murky))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1972))) (, ,) (RB then) (NP (NP (NNP Treasury) (NNP Secretary) (NNP George) (NNP Shultz)) (, ,) (PP (IN with) (NP (NP (DT the) (JJ key) (NN support)) (PP (IN of) (NP (NNP Sen.) (NNP Carl) (NNP Curtis))))) (, ,)) (VP (VBD sought) (NP (NP (DT some) (NN form)) (PP (IN of) (NP (NP (NNS pensions)) (PP (IN for) (NP (NP (DT the)) (VP (VBN uncovered)))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN year)) (NP (NP (DT a) (JJ four-man) (NN group)) (VP (VBN headed) (PP (IN by) (NP (NP (NNP William) (NNP Lieber)) (PP (IN in) (NP (NP (DT the) (NN Legislation) (CC and) (NNS Regulations) (NN division)) (PP (IN of) (NP (NP (DT the) (NNP Office)) (PP (IN of) (NP (DT the) (NNP Chief) (NNP Counsel))))))))) (PP (IN for) (NP (DT the) (NNP Internal) (NNP Revenue) (NNP Service)))) (, ,)) (VP (VBD was) (VP (VBN assigned) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG designing) (NP (DT a) (NN plan)))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD used) (NP (NP (DT the) (CD 1962) (NNP Keogh) (NNP Plan)) (, ,) (NP (NP (DT a) (NN pension) (NN plan)) (VP (VBN created) (PP (IN by) (NP (NP (DT a) (NNP New) (NNP York) (NN congressman)) (PP (IN for) (NP (DT the) (JJ self-employed))))))) (, ,)) (PP (IN as) (NP (DT a) (JJ partial) (NN model)))) (. .)))
+
+(S1 (S (NP (DT This) (NN team)) (ADVP (RB initially)) (VP (VP (VBD called) (NP (PRP$ its) (JJ new) (NN model)) (NP (NNP Personal) (NNP Retirement) (NNP Account))) (, ,) (CC or) (`` `) (S (`` `) (NP (NNP PRA)))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (VBD did) (RB n't) (VP (VB sing))) (. .)))
+
+(S1 (S (IN So) (NP (PRP they)) (VP (VBD opted) (PP (IN for) (NP (NNP IRA))) (, ,) (S (VP (VBG naming) (NP (PRP it)) (PP (IN after) (NP (NP (NNP Ira) (NNP Cohen)) (, ,) (NP (NP (DT a) (JJ brilliant) (NNP IRS) (NN actuary)) (SBAR (WHNP (WP who)) (S (VP (VBD helped) (NP (PRP them))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Ira)) (, ,) (NP (PRP himself)) (, ,)) (VP (VBZ confirms) (NP (DT this) (NN account))) (. .)))
+
+(S1 (S (NP (NNP IRA) (NNS rules)) (VP (VBP have) (VP (VBN been) (VP (VBN changed) (PP (IN over) (NP (DT the) (NNS years)))))) (. .)))
+
+(S1 (S (NP (NP (CD One)) (PP (IN in) (NP (CD 1981)))) (VP (VP (VBD raised) (PP (TO to) (NP (NP ($ $) (CD 2,000)) (NP (DT a) (NN year)))) (PP (IN from) (NP (NP ($ $) (CD 1,500)) (NP (NP (DT the) (NN amount)) (SBAR (S (NP (DT a) (NN person)) (VP (MD could) (VP (VB put) (, ,) (ADVP (JJ tax-deductible)) (, ,) (PP (IN into) (NP (DT the) (JJ tax-deferred) (NNS accounts))))))))))) (CC and) (VP (VBD widened) (NP (NN coverage)) (PP (TO to) (NP (NP (NNS people)) (PP (IN under) (NP (NN employer) (NN retirement) (NNS plans))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBN caused) (NP (NP (DT an) (NN explosion)) (PP (IN of) (NP (NNP IRA) (NNS promotions)))) (PP (IN by) (NP (NP (NNS brokers)) (, ,) (NP (NNS banks)) (, ,) (NP (JJ mutual) (NNS funds)) (CC and) (NP (NNS others))))) (. .)))
+
+(S1 (S (CC But) (S (PP (IN in) (NP (CD 1986))) (NP (NNP Congress)) (VP (ADVP (RB sharply)) (VBD reduced) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (MD could) (VP (VB qualify) (PP (IN for) (NP (PRP$ its) (NNS benefits)))))))))))) (CC and) (S (NP (NNP IRA) (NNS tax-deductions)) (VP (VBD slowed) (NP (PRP$ their) (VBG roaring) (NN growth)))) (. .)))
+
+(S1 (S (NP (NNP IRA) (NN account) (NNS assets)) (VP (VBP have) (VP (VBN grown) (PP (TO to) (NP (QP (RB about) ($ $) (CD 400) (CD billion)))) (PP (IN from) (NP (NP (NP (QP ($ $) (CD 393) (CD billion))) (NP (JJ last) (NN year))) (CC and) (NP (NP (QP (RB just) ($ $) (CD 26) (CD billion))) (PP (IN in) (NP (CD 1981)))))))) (. .)))
+

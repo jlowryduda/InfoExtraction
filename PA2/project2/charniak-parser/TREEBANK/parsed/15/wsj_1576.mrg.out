@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP Hoechst) (NNP AG)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB stop) (S (VP (VBG producing) (NP (NP (NN fertilizer)) (PP (IN in) (NP (CD 1990)))))) (PP (IN because) (IN of) (NP (NP (JJ continued) (NNS losses)) (CC and) (NP (DT a) (JJ bleak) (NN outlook))))))))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (NNP West) (NNP German)) (NN chemical) (NN concern)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB close) (NP (NP (DT the) (JJ last) (VBG remaining) (NN fertilizer) (NN plant)) (PP (IN in) (NP (NNP Oberhausen)))) (PP (IN in) (NP (NP (DT the) (NN fall)) (PP (IN of) (NP (JJ next) (NN year)))))))))) (. .)))
+
+(S1 (S (NP (NNP Hoechst)) (VP (VBD said) (SBAR (S (NP (DT the) (NN fertilizer) (NN market)) (VP (VBZ faces) (NP (NP (NN overcapacity)) (PP (IN in) (NP (NNP Western) (NNP Europe))) (, ,) (UCP (NP (NP (VBG rising) (NNS imports)) (PP (IN from) (NP (NNP East) (NN bloc) (NNS countries)))) (CC and) (ADVP (RB overseas))) (, ,) (CC and) (NP (VBG declining) (NN demand))))))) (. .)))
+

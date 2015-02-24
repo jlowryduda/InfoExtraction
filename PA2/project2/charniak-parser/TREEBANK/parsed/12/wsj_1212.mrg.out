@@ -1,0 +1,18 @@
+(S1 (NP (NP (NN Child) (POS 's)) (NNP Game)))
+
+(S1 (S (S (NP (EX There)) (VP (VBD was) (NP (ADJP (RB very) (JJ slow)) (NN play)) (PP (IN on) (NP (DT the) (NN market) (NN today))) (, ,) (SBAR (S (NP (PRP They)) (VP (VBD were) (VP (VP (VBG selling)) (CC and) (VP (VBG buying) (SBAR (IN by) (S (VP (VBZ halves))))))))))) (: ;) (S (PP (RB Instead) (IN of) (S (VP (VBG trading) (PP (IN like) (NP (NP (NNPS Bears)) (CC and) (NP (NNS Bulls))))))) (, ,) (NP (PRP They)) (VP (VBD behaved) (PP (IN like) (NP (NP (NNP cubs)) (CC and) (NP (NNS calves)))))) (. .)))
+
+(S1 (NP (: --) (NNP George) (NNP O.) (NNP Ludcke) (. .)))
+
+(S1 (NP (NNP Politrick)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBP 've) (VP (VBN learned) (NP (CD one) (NN thing)) (PP (IN from) (NP (NNS candidates))) (, ,) (NP (NP (DT A) (NN technique)) (VP (ADVP (RB so) (RB deftly)) (VBN done)))))) (: :) (S (SBAR (IN If) (S (NP (DT a) (NN question)) (VP (MD ca) (RB n't) (VP (VB be) (VP (VBN answered)))))) (, ,) (ADVP (RB Strongly)) (VP (VBP answer) (NP (DT an) (JJ unasked) (CD one)))) (. !)))
+
+(S1 (NP (: --) (NNP Mimi) (NNP Kay) (. .)))
+
+(S1 (NP (NNP Foresight)))
+
+(S1 (S (S (NP (PRP We)) (VP (VBP need) (S (VP (TO to) (VP (VB get) (NP (NP (DT a) (NN space) (NN platform)) (VP (VBN set) (PRT (RP up)) (ADVP (RB soon))))))))) (: --) (S (ADVP (RB just)) (PP (IN in) (NP (NN case))) (NP (PRP we)) (VP (VBP want) (S (VP (TO to) (VP (VB step) (PRT (RP out)) (PP (IN for) (NP (NP (DT a) (NN breath)) (PP (IN of) (NP (JJ fresh) (NN air)))))))))) (. .)))
+
+(S1 (NP (: --) (NNP Ivern) (NNP Ball) (. .)))
+

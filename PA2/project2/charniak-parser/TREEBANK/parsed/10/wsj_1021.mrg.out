@@ -1,0 +1,18 @@
+(S1 (S (NP (NP (DT A) (NN group)) (PP (VBG including) (NP (NP (NNP New) (NNP York)) (NP (NNS investors)) (NP (NNP Douglas) (NNP A.) (NNP Kass)) (CC and) (NP (NNP Anthony) (NNP Pedone))))) (VP (VBZ holds) (NP (NP (DT the) (NN equivalent)) (PP (IN of) (NP (NP (DT a) (ADJP (CD 12.6) (NN %)) (NN stake)) (PP (IN in) (NP (NP (NP (NNP H.H.) (NNP Robertson) (NNP Co.) (POS 's)) (JJ common) (NNS shares)) (ADJP (JJ outstanding))))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT a) (NN filing)) (PP (IN with) (NP (DT the) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Officials)) (PP (IN of) (NP (NP (JJ Pittsburgh-based) (NNP H.H.) (NNP Robertson)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NP (NN steel) (NNS roofs)) (, ,) (NP (NN store) (NNS fronts)) (CC and) (NP (NN building) (NNS parts)))))) (, ,)))) (VP (VBD declined) (NP (NN comment))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (VP (VBN reported) (NP (JJ last) (NN month))))) (, ,) (NP (NNP Mr.) (NNP Kass)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG making) (NP (DT an) (NN offer) (S (VP (TO to) (VP (VB buy) (NP (NNP H.H.) (NNP Robertson)) (PP (IN for) (NP (NP ($ $) (CD 13)) (NP (DT a) (NN share)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNP SEC) (NN filing))) (, ,) (NP (DT the) (NNP Kass-Pedone) (NN group)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ intends) (S (VP (TO to) (VP (VB acquire) (NP (JJ additional) (NNP H.H.) (NNP Robertson) (NNS shares)) (`` `) (PP (`` `) (IN with) (NP (NP (DT a) (NN view)) (PP (IN towards) (NP (NP (DT a) (JJ possible) (NN change)) (PP (IN in) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NN company)))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (VP (VBZ has) (RB not) (PRN (, ,) (ADVP (RB however)) (, ,)) (VP (VBN made) (NP (DT a) (JJ formal) (NN proposal)))) (. .)))
+
+(S1 (S (S (S (NP (DT The) (NN group)) (ADVP (RB also)) (VP (VBZ is) (VP (VBN engaged) (PP (IN in) (NP (NP (NNS talks)) (PP (IN with) (NP (JJ third) (NNS parties))))) (PP (VBG regarding) (S (VP (VBG obtaining) (NP (NN financing)) (S (VP (TO to) (VP (VB buy) (NP (JJR more) (NNS shares))))))))))) (, ,) (CC but) (S (NP (DT no) (NNS agreements)) (VP (VBP have) (ADVP (RB yet)) (VP (VBN been) (VP (VBN reached)))))) (, ,) (NP (DT the) (NN filing)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN group)) (VP (VBZ controls) (NP (NP (CD 795,900) (NNP H.H.) (NNP Robertson) (JJ common) (NNS shares)) (, ,) (PP (VBG assuming) (NP (NP (NN exercise)) (PP (IN of) (NP (NP (DT an) (NN option)) (SBAR (S (NP (PRP it)) (VP (VBD acquired) (PP (IN from) (NP (NNP Executive) (NNP Life) (NNP Insurance) (NNP Co.))) (S (VP (TO to) (VP (VB buy) (NP (CD 497,400) (NNS shares)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NN stake)) (VP (VBZ includes) (NP (NP (CD 106,100) (NNS shares)) (VP (VBD bought) (PP (IN in) (NP (DT the) (JJ open) (NN market))) (PP (PP (IN from) (NP (NNP Aug.) (CD 30))) (PP (TO to) (NP (NNP Oct.) (CD 18)))) (PP (IN for) (NP (NP (QP ($ $) (CD 10.375) (TO to) ($ $) (CD 12.125))) (NP (DT a) (NN share))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NNP H.H.) (NNP Robertson)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 11.625))) (, ,) (ADVP (RB up) (NP (CD 62.5) (NNS cents)))) (. .)))
+

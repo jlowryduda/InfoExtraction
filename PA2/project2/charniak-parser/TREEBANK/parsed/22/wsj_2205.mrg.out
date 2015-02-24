@@ -1,0 +1,118 @@
+(S1 (S (NP (NP (NNP Steve) (NNP Clark)) (, ,) (NP (DT a) (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc.) (NN trader)) (, ,)) (VP (VBD reported) (PP (IN for) (NP (NP (NP (NN work)) (PP (IN at) (NP (CD 5) (RB a.m.)))) (, ,) (NP (CD two)) (CC and) (NP (NP (DT a) (JJ half) (NNS hours)) (PP (IN before) (NP (DT the) (JJ usual) (NNP Monday) (NN morning) (NN strategy) (NN meeting))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NNP Jefferies) (CC &) (NNP Co.))) (, ,) (S (NP (NNP J.) (NNP Francis) (NNP Palamara)) (VP (VBD did) (RB n't) (VP (VB reach) (NP (DT the) (NN office)) (PP (IN until) (NP (CD 5:30) (RB a.m.)))))) (, ,) (CC but) (S (ADVP (RB then)) (NP (PRP he)) (VP (VBD had) (VP (VBN been) (PRT (RP up)) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN night)))) (PP (IN at) (NP (NN home)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBD had) (NP (NP (NNS calls)) (PP (ADVP (NP (DT all) (NN night)) (RB long)) (IN from) (NP (DT the) (NNPS States))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP I)) (VP (VBD was) (VP (VBN woken) (PRT (RP up)) (NP (DT every) (NN hour))))) (: --) (FRAG (NP (NP (CD 1:30)) (, ,) (NP (CD 2:30)) (, ,) (NP (CD 3:30)) (, ,)) (NP (CD 4:30))) (. .)))
+
+(S1 (S (S (NP (NNS People)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (JJ possible) (NNS opportunities))) (S (VP (TO to) (VP (VB buy))))))) (, ,) (CC but) (S (NP (NN nobody)) (VP (VBZ wants) (S (VP (TO to) (VP (VB stick) (NP (PRP$ their) (NN chin)) (PRT (RP out))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN For) (NP (NP (JJ many)) (PP (IN of) (NP (NP (NNP London) (POS 's)) (NNS securities) (NNS traders))))) (, ,) (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN day)) (SBAR (WHNP (WDT that)) (S (VP (VBD started) (ADVP (RB nervously)) (PP (IN in) (NP (DT the) (JJ small) (NNS hours)))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NN lunchtime))) (, ,) (NP (DT the) (NN selling)) (VP (VBD was) (PP (IN at) (NP (NN near-panic) (NN fever)))) (. .)))
+
+(S1 (S (CC But) (PP (IN as) (NP (NP (DT the) (NN day)) (VP (VBN ended) (PP (IN in) (NP (DT a) (JJ frantic) (NNP Wall) (NNP Street-inspired) (NN rally)))))) (, ,) (NP (DT the) (NNP City)) (VP (VBD breathed) (NP (NP (DT a) (NN sigh)) (PP (IN of) (NP (NN relief))))) (. .)))
+
+(S1 (S (CC So) (NP (PRP it)) (VP (VBD went) (NP (NN yesterday)) (PP (IN in) (NP (NP (DT the) (NN trading) (NNS rooms)) (PP (IN of) (NP (NP (NNP London) (POS 's)) (JJ financial) (NN district)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (NP (NP (NNP Wall) (NNP Street) (POS 's)) (NN plunge)) (NP (JJ last) (NNP Friday)))))) (, ,) (NP (DT the) (NNP London) (NN market)) (VP (VBD was) (VP (VBN considered) (S (ADJP (RB especially) (JJ vulnerable))))) (. .)))
+
+(S1 (S (CC And) (PP (IN before) (NP (NP (DT the) (NN opening)) (PP (IN of) (NP (NP (NN trading)) (ADVP (RB here)) (NP (NN yesterday)))))) (, ,) (NP (DT all) (NNS eyes)) (VP (VBD were) (PP (IN on) (NP (NP (JJ early) (NN trading)) (PP (IN in) (NP (NNP Tokyo))))) (PP (IN for) (NP (NP (DT a) (NN clue)) (PP (IN as) (PP (TO to) (SBAR (WHADJP (WRB how) (JJ widespread)) (S (NP (DT the) (NN fallout)) (VP (MD might) (VP (VB be)))))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (DT the) (NN time)) (SBAR (S (NP (NN trading)) (ADVP (RB officially)) (VP (VBD got) (PP (IN under) (NP (NN way))) (PP (IN at) (NP (CD 9) (NN a.m.)))))))) (, ,) (NP (NP (DT the) (NN news)) (PP (IN from) (NP (NNP Asia)))) (VP (VBD was) (ADVP (RB in))) (. .)))
+
+(S1 (S (CC And) (NP (PRP it)) (VP (VBD left) (NP (NP (VBN mixed) (NNS signals)) (PP (IN for) (NP (NNP London))))) (. .)))
+
+(S1 (S (S (NP (NNP Tokyo) (NNS stocks)) (VP (VBD closed) (ADVP (RB off) (NP (DT a) (ADJP (JJ significant) (CC but) (JJ less-than-alarming)) (CD 1.8) (NN %))) (PP (IN on) (NP (JJ thin) (NN volume))))) (: ;) (S (NP (NP (NNP Hong) (NNP Kong)) (NNS stocks)) (VP (VBD declined) (NP (CD 6.5) (NN %)) (PP (IN in) (NP (JJ orderly) (NN trading))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (NP (NNP Jefferies) (POS ')) (NN trading) (NN room)) (PP (IN on) (NP (NP (NNP Finsbury) (NNP Circus)) (, ,) (NP (NP (DT a) (JJ stately) (NN circle)) (PP (IN at) (NP (NP (DT the) (NN edge)) (PP (IN of) (NP (DT the) (JJ financial) (NN district)))))))))) (, ,) (NP (JJ desktop) (NN computer) (NNS screens)) (VP (VBD displayed) (NP (NP (NP (DT the) (NNP London) (NN market) (POS 's)) (JJ major) (NN barometer)) (: --) (NP (DT the) (NNP Financial) (NNP Times-Stock) (NNP Exchange) (CD 100) (NNP Share) (NNP Index)))) (. .)))
+
+(S1 (S (NP (NP (JJ Red) (NNS figures)) (PP (IN on) (NP (DT the) (NNS screens)))) (VP (VBD indicated) (S (VP (VBG falling) (NP (NP (NNS stocks)) (: ;) (NP (JJ blue) (NNS figures))))) (, ,) (S (VP (VBG rising) (NP (NNS stocks))))) (. .)))
+
+(S1 (S (ADVP (RB Right) (RB away)) (, ,) (NP (DT the) (NNS reds)) (VP (VBD outnumbered) (NP (DT the) (NNS blues)) (, ,) (ADVP (ADVP (CD 80) (TO to) (CD 20)) (, ,) (SBAR (IN as) (S (NP (DT the) (NN index)) (VP (VBD opened) (PP (IN at) (NP (CD 2076.8))) (, ,) (ADVP (RB off) (NP (NP (CD 157.1) (NNS points)) (, ,) (CC or) (NP (CD 7) (NN %))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (S (`` `) (NP (PRP I)) (VP (VBP see) (NP (NN concern)))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB see) (NP (DT any) (NN panic)))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Mr.) (NNP Palamara)) (, ,) (NP (DT a) (JJ big) (, ,) (JJ good-humored) (NNP New) (NNP York) (NN native)) (SBAR (WHNP (WP who)) (S (VP (VBZ runs) (NP (DT the) (JJ 15-trader) (NN office)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Jefferies) (NN office)) (, ,) (NP (NP (DT a) (NN branch)) (PP (IN of) (NP (DT the) (ADJP (NNP Los) (JJ Angeles-based)) (NN firm)))) (, ,)) (VP (VBD played) (NP (PRP it)) (ADVP (RB conservatively)) (, ,) (S (VP (VBG seeking) (S (VP (TO to) (VP (VB avoid) (NP (NN risk)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT This)) (VP (VBZ is) (RB not) (NP (NP (DT the) (NN sort)) (PP (IN of) (NP (NN market))) (SBAR (S (VP (TO to) (VP (VB have) (NP (DT a) (JJ big) (NN position)) (PP (IN in)))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP David) (NNP Smith)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ heads) (NP (NP (NN trading)) (PP (IN in) (NP (DT all) (JJ non-U.S.) (NNS stocks)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP tend) (S (VP (TO to) (VP (VB run) (NP (DT a) (ADJP (RB very) (JJ tight)) (NN book)))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (S (NP (NNP Jefferies)) (VP (VBD spent) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ its) (NNS energies)) (PP (IN in) (NP (DT the) (NN morning)))))) (S (VP (VBG trying) (S (VP (TO to) (VP (VB match) (NP (NNS buyers) (CC and) (NNS sellers))))))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBD were) (RB n't) (NP (JJ many) (NNS buyers)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NP (PDT All) (DT the) (NN takeover) (NNS stocks)) (: --) (NP (NP (NNP Scottish) (CC &) (NNP Newcastle)) (, ,) (NP (NNP B.A.T)) (, ,) (NP (NNP DRG))) (: --)) (VP (VBP are) (VP (VBG getting) (VP (ADVP (RB pretty) (RB well)) (VBN pasted) (NP (DT this) (NN morning))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Smith)) (VP (VBD said)) (. .)))
+
+(S1 (S (ADVP (NP (NNS Seconds)) (RB later)) (, ,) (NP (NP (DT a) (JJ 7,500-share) (`` `) (S (VP (`` `) (VB sell) ('' '))) ('' ') (NN order)) (PP (IN for) (NP (NNP Scottish) (CC &) (NNP Newcastle)))) (VP (VBD came) (PRT (RP in))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (JJ third) (NN time))) (PP (IN in) (NP (CD 15) (NNS minutes))) (, ,) (NP (NP (DT a) (NN trader)) (ADVP (JJ next) (PP (TO to) (NP (NNP Mr.) (NNP Smith))))) (VP (VBD left) (NP (DT the) (NNP no-smoking) (NN area)) (S (VP (TO to) (VP (VB have) (NP (DT a) (NN cigarette)))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT the) (NNS screens))) (, ,) (S (NP (QP (RB only) (CD two)) (JJ forlorn) (JJ blue) (NNS figures)) (VP (VBD remained))) (, ,) (CC but) (S (NP (DT the) (NN index)) (VP (VP (VBD had) (VP (VBN recovered) (NP (DT a) (JJ few) (NNS points)))) (CC and) (VP (VBD was) (ADVP (RB off) (NP (QP (IN about) (CD 140))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN Because) (S (NP (NNP Tokyo)) (VP (VBD did) (RB n't) (VP (VB collapse))))) (, ,) (VP (VB let) (S (NP (POS 's)) (VP (VB pick) (PRT (RP up)) (NP (DT a) (JJ little) (NN stock)))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Smith)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD targeted) (NP (NP (CD 7,500) (NNS shares)) (PP (IN of) (NP (NNP Reuters))))) (CC and) (VP (VBD punched) (NP (DT a) (NN button) (S (VP (TO to) (VP (VB call) (PRT (RP up)) (PP (IN on) (NP (PRP$ his) (NN screen))) (NP (NP (JJ other) (NNS dealers) (POS ')) (NN price) (NNS quotes)))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (ADJP (JJ vivid) (JJ yellow)) (NNS figures)) (VP (VBD showed) (NP (DT the) (JJS best) (NN price)) (PP (IN at) (NP (NP (CD 845) (NN pence)) (PRN (, ,) (-LRB- -LRB-) (NP ($ $) (CD 13.27)) (-RRB- -RRB-)))))) (CC and) (S (NP (NP (NNP Mr.) (NNP Smith) (POS 's)) (NNS traders)) (VP (VBD started) (S (VP (VBG putting) (PRT (RP out)) (NP (NNS feelers)))))) (. .)))
+
+(S1 (S (CC But) (S (NP (DT the) (NN market)) (VP (VBD sensed) (NP (NP (DT a) (JJ serious) (NN buyer)) (PP (IN on) (NP (NP (DT a) (NN day)) (VP (VBN dominated) (PP (IN by) (S (VP (VBG selling)))))))))) (, ,) (CC and) (S (NP (DT the) (NNS quotes)) (ADVP (RB immediately)) (VP (VBD jumped) (PP (TO to) (NP (CD 850) (NNS pence))))) (. .)))
+
+(S1 (S (`` `) (S (S (`` `) (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB buy))))))) (, ,) (NP (PRP they)) (VP (VBP run) (PP (IN from) (NP (PRP you))))) (: --) (S (NP (PRP they)) (VP (VBP keep) (VP (VBG changing) (NP (PRP$ their) (NNS prices)))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Smith)) (VP (VBD said)) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB very) (JJ frustrating)))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (PRP He)) (ADVP (RB temporarily)) (VP (VBD abandoned) (NP (NP (PRP$ his) (NN search)) (PP (IN for) (NP (DT the) (NNP Reuters) (NNS shares))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (DT this) (NN time))) (, ,) (S (NP (PRP it)) (VP (VBD was) (NP (NP (CD 4:30) (RB a.m.)) (PP (IN in) (NP (NNP New) (NNP York)))))) (, ,) (CC and) (S (NP (NNP Mr.) (NNP Smith)) (VP (VBD fielded) (NP (NP (DT a) (NN call)) (PP (IN from) (NP (NP (DT a) (NNP New) (NNP York) (NN customer)) (VP (VBG wanting) (NP (NP (DT an) (NN opinion)) (PP (IN on) (NP (NP (DT the) (JJ British) (NN stock) (NN market)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (VP (VBN been) (VP (VBG having) (NP (NP (NNS troubles)) (PP (IN of) (NP (PRP$ its) (JJ own)))) (PP (ADVP (RB even)) (IN before) (NP (NP (NNP Friday) (POS 's)) (NNP New) (NNP York) (NN market) (NN break))))))))))))))))) (. .)))
+
+(S1 (S (`` `) (FRAG (`` `) (NP (ADJP (RB Fundamentally) (JJ dangerous)) (NN ..)) (. .) (PRN (, ,) ('' ') ('' ') (S (NP (NNP Mr.) (NNP Smith)) (VP (VBD said) (, ,) (PP (ADVP (RB almost)) (IN in) (NP (DT a) (NN whisper))))) (, ,) (`` `)) (`` `) (INTJ (UH ..) (. .)) (. .) (FRAG (RB fundamentally) (NP (JJ weak) (NN ..)) (. .)) (ADVP (RB fairly)) (ADJP (JJ vulnerable)) (ADVP (RB still) (NP (CD ..))) (. .)) (ADVP (RB extremely) (RB dangerously)) (VP (VBN poised) (ADVP (RB ..))) (. .)))
+
+(S1 (S (NP (PRP we)) (VP (VBP 're) (PP (IN in) (PP (IN for) (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN turbulence)))) (VP (VBG ..)) (. .))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBD was) (ADJP (JJ right))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NN midday))) (, ,) (NP (DT the) (NNP London) (NN market)) (VP (VBD was) (PP (IN in) (NP (JJ full) (NN retreat)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (VP (VBG falling) (PP (IN like) (NP (DT a) (NN stone))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NP (NNP Danny)) (NP (VB Linger))) (, ,) (NP (NP (DT a) (NN pit) (NN trader)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBG standing) (PP (IN outside) (NP (DT the) (NNP London) (NNP International) (NNP Financial) (NNPS Futures) (NNP Exchange))))))))) (. .)))
+
+(S1 (S (NP (RB Only) (PDT half) (DT the) (JJ usual) (JJ lunchtime) (NN crowd)) (VP (VBD gathered) (PP (IN at) (NP (DT the) (JJ tony) (NNP Corney) (CC &) (NNP Barrow) (NN wine) (NN bar))) (PP (IN on) (NP (NNP Old) (NNP Broad) (NNP Street))) (ADVP (RB nearby))) (. .)))
+
+(S1 (S (NP (NN Conversation)) (VP (VBD was) (VP (VBN subdued) (SBAR (IN as) (S (NP (JJS most) (NNS patrons)) (VP (VBD watched) (NP (DT the) (JJS latest) (NN market) (NNS statistics)) (PP (IN on) (NP (NN television)))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (CD 12:49) (NN p.m.))) (, ,) (NP (DT the) (NN index)) (VP (VBD hit) (NP (NP (PRP$ its) (NN low)) (, ,) (NP (NP (CD 2029.7)) (, ,) (ADVP (RB off) (NP (CD 204.2) (NNS points)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNP France)) (VP (VBD opened) (NP (DT the) (NN limit)) (PRT (RP down)) (, ,) (ADVP (ADVP (RB off) (NP (QP (IN at) (JJS least) (CD 10)) (NN %))) (SBAR (IN if) (S (NP (PRP you)) (VP (MD could) (VP (VB calculate) (NP (DT the) (NN index))))))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP you)) (VP (MD could) (RB n't))))) (, ,) ('' ')) ('' ') (NP (NP (NNP Mr.) (NNP Clark)) (, ,) (NP (DT the) (NNP Shearson) (NN trader)) (, ,)) (VP (VBD said) (PP (ADVP (RB early)) (IN in) (NP (DT the) (NN afternoon)))) (. .)))
+
+(S1 (S (`` `) (`` `) (S (NP (NNP Spain)) (VP (VBZ is) (UCP (ADVP (RB down) (NP (CD 10) (NN %))) (CC and) (VP (VBN suspended))))) (, ,) (S (NP (NNP Sweden) (POS 's)) (NP (QP (IN down) (CD 8)) (NN %))) (, ,) (S (NP (NNP Norway)) (NP (CD 11) (NN %))) (. .)))
+
+(S1 (S (NP (DT This) (NN market)) (VP (VBZ has) (VP (VBN been) (VP (ADVP (RB very) (RB badly)) (VBN damaged)))) (. .) ('' ') ('' ')))
+
+(S1 (S (SBAR (IN As) (S (NP (NP (CD 2:30) (RB p.m.)) (: --) (NP (NP (NNP Wall) (NNP Street) (POS 's)) (NN opening) (NN time)) (: --)) (VP (VBD neared)))) (, ,) (NP (NNP Shearson) (NNS traders) (CC and) (NNS salesmen)) (VP (VBD traded) (NP (NP (NNS bets)) (PP (IN on) (SBAR (WHNP (WRB how) (JJ low)) (S (NP (DT the) (NNP New) (NNP York) (NN market)) (VP (MD would) (VP (VB open)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NN trading) (NN floor))))) (, ,) (NP (NP (NN chief) (NN trader) (NNP Roger) (NNP Streeter)) (CC and) (NP (CD two) (NNS colleagues))) (VP (VBN scrambled) (PP (IN for) (NP (DT the) (NNS telephones))) (ADVP (ADVP (RB as) (RB soon)) (SBAR (IN as) (S (NP (DT the) (NNP New) (NNP York) (NN market)) (VP (VBD opened) (: --) (S (VP (VBG plummeting) (NP (QP (JJR more) (IN than) (CD 60)) (NNS points)) (PP (IN in) (NP (DT the) (JJ first) (JJ few) (NNS minutes)))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD saw) (NP (NP (DT an) (NN opportunity)) (VP (VBN created) (PP (IN by) (NP (DT the) (NN sell-off)))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NNP Wall) (NNP Street) (NNS traders)) (VP (VBD dumped) (NP (NP (NNP American) (NNP Depositary) (NNPS Receipts)) (PP (IN in) (NP (NNP Jaguar) (NNP PLC))))))) (, ,) (NP (NP (NNP Mr.) (NNP Streeter)) (CC and) (NP (NN trader) (NNP Sam) (NNP Ruiz))) (VP (VBD bought) (S (NP (PRP them)) (VP (TO to) (VP (VB resell) (PP (IN in) (NP (DT the) (NNP U.K))))))) (. .)))
+
+(S1 (S (NP (NNS Investors)) (ADVP (RB here)) (ADVP (RB still)) (VP (VBP expect) (S (NP (NP (NNP Ford) (NNP Motor) (NNP Co.)) (CC or) (NP (NNP General) (NNPS Motors) (NNP Corp.))) (VP (TO to) (VP (VB bid) (PP (IN for) (NP (NNP Jaguar))))))) (. .)))
+
+(S1 (S (ADVP (RB Suddenly)) (, ,) (PP (IN after) (NP (IN about) (CD 45) (NNS minutes))) (, ,) (NP (DT the) (NNP U.S.) (NNS markets)) (VP (VBD rallied)) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NNP MMI)) (VP (VBZ has) (VP (VBN gone) (ADVP (RBR better))))) (, ,) ('' ') ('' ') (VP (VBD shouted)) (NP (NP (CD one) (NN trader)) (PP (IN at) (NP (NP (IN about) (CD 3:15)) (NP (NNP London) (NN time))))) (, ,) (SBAR (IN as) (S (NP (DT the) (NNP U.S.) (NNP Major) (NNPS Markets) (NNP Index) (NN contract)) (ADVP (RB suddenly)) (VP (VBD indicated) (NP (DT a) (NN turnabout))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NNP Wall) (NNP Street)) (VP (VBD strengthened)))) (, ,) (NP (DT the) (NNP London) (NN trading) (NN room)) (VP (VBD went) (ADJP (JJ wild))) (. .)))
+
+(S1 (S (NP (NNS Traders)) (VP (VBD shouted) (SBAR (IN as) (S (NP (PRP$ their) (NNS screens)) (VP (VBD posted) (NP (NP (DT an) (JJ ever-narrowing) (NN loss)) (PP (IN on) (NP (NNP Wall) (NNP Street)))))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (, ,) (ADVP (NP (CD nine) (NNS minutes)) (RB later)) (, ,) (NP (NNP Wall) (NNP Street)) (ADVP (RB suddenly)) (VP (VBD rebounded) (PP (TO to) (NP (NP (DT a) (NN gain)) (PP (IN on) (NP (DT the) (NN day)))))) (. .)))
+
+(S1 (SINV (`` `) (FRAG (`` `) (NP (NNP Rally)) (. !) (NP (NNP Rally)) (. !) (NP (NNP Rally)) (. !) ('' ')) ('' ') (VP (VBD shouted)) (NP (NNP Shearson) (NN trader) (NNP Andy) (NNP Rosen)) (, ,) (S (VP (VBG selling) (NP (JJR more) (NNP Jaguar) (NNS shares)))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (DT This)) (VP (VBZ is) (NP (NN panic) (NN buying)))) (. !) ('' ')) ('' ')))
+
+(S1 (S (SBAR (IN As) (S (NP (DT the) (NNP London) (NN market)) (VP (VBD rallied)))) (, ,) (NP (DT some)) (VP (VBD wondered) (SBAR (IN whether) (S (NP (NP (DT the) (NN weekend)) (PP (IN of) (NP (NP (VBG worrying)) (CC and) (NP (NNS jitters))))) (VP (VBD had) (VP (VBN been) (ADJP (JJ worth) (NP (PRP it)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP London) (NN index)) (VP (VBD closed) (PP (IN at) (NP (NP (CD 2163.4)) (, ,) (NP (NP (PRP$ its) (NN high)) (PP (IN for) (NP (DT the) (NN day)))))) (, ,) (ADVP (RB off) (NP (NP (CD 70.5)) (, ,) (CC or) (NP (QP (RB about) (CD 3.3)) (NN %))))) (. .)))
+

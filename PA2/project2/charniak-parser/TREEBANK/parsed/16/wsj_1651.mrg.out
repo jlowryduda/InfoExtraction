@@ -1,0 +1,94 @@
+(S1 (S (NP (NP (NNP Bell) (NNP Atlantic) (NNP Corp.)) (CC and) (NP (NNP Southern) (NNP New) (NNP England) (NNP Telecommunications))) (VP (VBD posted) (NP (NP (JJ strong) (NN profit) (NNS gains)) (PP (IN for) (NP (DT the) (JJ third) (NN quarter)))) (, ,) (SBAR (IN while) (S (NP (NP (NNP Nynex) (NNP Corp.)) (, ,) (NP (NNP Pacific) (NNP Telesis) (NNP Group)) (CC and) (NP (NNP U) (NNP S) (NNP West) (NNP Inc.))) (VP (VBD reported) (NP (NP (NNS earnings) (NNS declines)) (PP (IN for) (NP (DT the) (NN period)))))))) (. .)))
+
+(S1 (S (NP (NP (NN Rate) (NNS settlements)) (PP (IN in) (NP (NNP Minnesota) (CC and) (NNP Colorado)))) (VP (VBD depressed) (NP (NP (NP (NNP U) (NNP S) (NNP West)) (POS 's)) (NN third-quarter) (NN profit))) (. .)))
+
+(S1 (S (NP (JJ Denver-based) (NNP U) (NNP S) (NNP West)) (VP (VBD said) (SBAR (S (NP (JJ net) (NN income)) (VP (VBD dropped) (NP (CD 8.9) (NN %)) (, ,) (S (VP (VBG noting) (SBAR (IN that) (S (NP (DT the) (JJ year-ago) (NN quarter)) (VP (VBD included) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (DT a) (NN building)) (PP (IN by) (NP (PRP$ its) (NNP BetaWest) (NNP Properties) (NN unit))))))))))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD dropped) (NP (CD 4.3) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 2.3) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 2.4) (CD billion)))) (, ,) (S (VP (VBG reflecting) (NP (NP (NNS declines)) (PP (IN in) (NP (PRP$ its) (NX (NX (JJ consumer-telephone) (NN sector)) (, ,) (NX (JJ long-distance) (NN carrier) (NN business)) (CC and) (NX (JJ diversified) (NN division))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Revenue)) (PP (IN from) (NP (JJ business-telephone) (NNS operations)))) (VP (VBD grew) (NP (CD 3.3) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 618.9) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 599.4) (CD million))) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (JJ New) (NN telephone) (NNS lines)) (VP (VBN posted) (NP (JJ healthy) (NN growth))) (. .)))
+
+(S1 (S (ADVP (RB Overall)) (NP (PRP they)) (VP (VBD increased) (NP (CD 2.8) (NN %)) (PP (TO to) (NP (QP (CD 12.1) (CD million)))) (, ,) (S (VP (VBG putting) (NP (NNP U) (NNP S) (NNP West)) (PP (IN over) (NP (DT the) (ADJP (CD 12) (CD million)) (NN mark))) (PP (IN for) (NP (DT the) (JJ first) (NN time)))))) (. .)))
+
+(S1 (S (NP (NN Business) (NNS lines)) (VP (VBD increased) (NP (CD 3.7) (NN %)) (PP (TO to) (NP (QP (CD 3.3) (CD million))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (PP (IN On) (NP (DT a) (RB truly) (JJ comparable) (NN basis))) (, ,) (NP (PRP we)) (VP (VBP 've) (VP (VBN seen) (NP (JJ modest) (NNS earnings) (NN growth)) (NP (DT this) (NN year)) (PP (IN from) (NP (NP (DT the) (NNS operations)) (PP (IN of) (NP (PRP$ our) (NN company))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Jack) (NNP MacAllister)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (DT The) (JJ major) (JJ negative) (NN factor)) (VP (VBD was) (NP (NP (DT the) (JJ cumulative) (NN impact)) (PP (IN of) (NP (JJ regulatory) (NN activity)))) (PP (IN over) (NP (DT the) (JJ past) (CD two) (NNS years)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBZ expects) (S (VP (TO to) (VP (VB be) (NP (`` `) (NP (`` `) (PP (IN on) (NP (NN target))) (POS ')) ('' ') (PP (IN with) (NP (NP (NNS analysts) (POS ')) (NNS projections)))) (PP (IN by) (NP (NN year) (NN end)))))))))) (CC but) (VP (VBD conceded) (SBAR (IN that) (S (NP (DT the) (JJ fourth) (NN quarter)) (VP (VBZ represents) (`` `) (NP (`` `) (DT a) (JJ significant) (NN challenge))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNS Expenses)) (PP (IN in) (NP (DT the) (NN quarter)))) (VP (VBD dropped) (NP (CD 11.2) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 664.3) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 747.7) (CD million))) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (NN Yesterday)) (, ,) (NP (NP (NNP U) (NNP S) (NNP West)) (NNS shares)) (VP (VBD rose) (NP (CD 75) (NNS cents)) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP ($ $) (CD 71.25))) (PP (IN in) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))))))) (. .)))
+
+(S1 (S (NP (JJ Philadelphia-based) (NNP Bell) (NNP Atlantic)) (VP (VBD said) (SBAR (S (NP (NN net)) (VP (VBD rose) (NP (CD 6.5) (NN %)) (, ,) (S (VP (VBN aided) (PP (IN by) (NP (NP (NP (JJ strong) (NN growth)) (PP (IN in) (NP (DT the) (NNS network-services) (NN business)))) (CC and) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ new) (NN telephone) (NNS lines)))))))))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD jumped) (NP (CD 5.6) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 2.9) (CD billion)))) (PP (IN from) (NP (NP (QP ($ $) (CD 2.8) (CD billion))) (PP (IN in) (NP (DT the) (JJ year-ago) (NN quarter)))))) (. .)))
+
+(S1 (S (NP (NP (NN Revenue)) (PP (IN from) (NP (JJ financial) (CC and) (NN real-estate) (NNS services)))) (VP (VBD jumped) (NP (CD 23) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 177.4) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 144.1) (CD million))) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (NP (JJ Network-access) (NN revenue)) (PP (IN from) (NP (JJ long-distance) (NN telephone) (NNS companies)))) (VP (VBD increased) (NP (CD 6.4) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 618.6) (CD million))))) (. .)))
+
+(S1 (S (NP (NNP Bell) (NNP Atlantic)) (VP (VBD added) (NP (NP (CD 148,000) (JJ new) (NN telephone) (NNS lines)) (PP (IN in) (NP (DT the) (NN quarter)))) (PP (IN for) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (CD 16.9) (CD million)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (JJ per-share) (NNS earnings)) (VP (VBD were) (ADVP (RB slightly)) (VP (VBN reduced) (PP (IN by) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (QP (CD 4.1) (CD million)) (NNS shares)) (PP (IN of) (NP (NN treasury) (NN stock))))) (PP (TO to) (NP (NP (DT the) (NN company) (POS 's)) (ADJP (RB newly) (VBN formed)) (NNP Employee) (NNP Stock) (NNP Ownership) (NNP Plans)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (JJ composite) (NN trading)) (PP (IN on) (NP (DT the) (NNP Big) (NNP Board))))) (, ,) (NP (NNP Bell) (NNP Atlantic)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 100.625))) (, ,) (ADVP (RB up) (NP (NP ($ $) (CD 1.50)) (NP (DT a) (NN share))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NNP Nynex))) (, ,) (NP (NN net)) (VP (VBD slumped) (NP (CD 14.8) (NN %)) (, ,) (PP (ADVP (RB primarily)) (IN because) (IN of) (NP (NP (DT a) (VBG continuing) (NN strike)) (PP (IN by) (NP (NP (CD 60,000) (NNS employees)) (, ,) (NP (NP (JJ lower-than-expected) (NN profit)) (PP (IN at) (NP (PRP$ its) (NNP New) (NNP York) (NNP Telephone) (NN unit)))) (CC and) (NP (ADJP (RB significantly) (JJR higher)) (NNS taxes) (CC and) (NNS costs))))))) (. .)))
+
+(S1 (S (NP (UCP (NN State) (CC and) (JJ local)) (NNS taxes)) (VP (VBD increased) (PP (TO to) (NP (QP ($ $) (CD 131.3) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 99.1) (CD million))) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (NNP Nynex)) (VP (VBD said) (SBAR (S (NP (NNS expenses)) (VP (VBD rose) (NP (CD 4.5) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 2.73) (CD billion)))) (PP (IN from) (NP (NP (QP ($ $) (CD 2.61) (CD billion))) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 119) (CD million))) (NN increase)))))))) (. .)))
+
+(S1 (S (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (JJR higher) (NNS costs)))) (VP (VBD were) (VP (VBN associated) (PP (IN with) (NP (NP (NNS acquisitions)) (CC and) (NP (NP (NN growth)) (PP (IN in) (NP (JJ nonregulated) (NN business) (NNS units))))))))) (, ,) (NP (PRP it)) (VP (VBD added)) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP$ Our) (JJ net) (NN income)) (VP (VBZ is) (RB n't) (SBAR (WHADVP (WRB where)) (S (NP (PRP we)) (VP (MD would) (VP (VB want) (S (NP (PRP it)) (VP (TO to) (VP (VB be) (PP (IN at) (NP (DT this) (NN point))))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP William) (NNP C.) (NNP Ferguson)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))) (. .)))
+
+(S1 (S (`` `) (NP (NP (`` `) (DT This) (NN deviation)) (PP (IN from) (NP (PRP$ our) (JJ past) (NN growth) (NNS patterns)))) (VP (VBZ is) (VP (VBN caused) (ADVP (RB largely)) (PP (IN by) (NP (NP (JJR lower) (NNS earnings)) (PP (IN at) (NP (NNP New) (NNP York) (NNP Telephone))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Ferguson)) (VP (VBD said) (SBAR (S (NP (NP (DT a) (JJ continued) (NN softness)) (PP (IN in) (NP (NP (NP (NP (NNP New) (NNP York)) (NNP City) (NN area) (POS 's)) (NN economy)) (CC and) (NP (NP (VBN increased) (NN competition)) (PRN (, ,) (PP (ADVP (RB particularly)) (IN in) (NP (DT the) (JJ private-line) (NN market))) (, ,)))))) (VP (VBD took) (NP (NP (DT a) (JJ heavy) (NN toll)) (PP (IN on) (NP (NNS earnings)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ three-month-old) (NN strike)) (PP (IN at) (NP (NNP Nynex)))) (ADVP (RB seriously)) (VP (VBD hurt) (NP (NP (DT the) (NN installation)) (PP (IN of) (NP (NP (JJ new) (NN telephone) (NNS lines)) (PP (IN in) (NP (DT the) (NN quarter))))))) (. .)))
+
+(S1 (S (NP (NNP Nynex)) (VP (VBD said) (SBAR (S (NP (NP (NN access) (NNS lines)) (PP (IN in) (NP (NN service))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN quarter)))))) (VP (VBD were) (ADVP (RB off) (NP (CD 18,000))) (PP (IN from) (NP (NP (DT the) (JJ previous) (NN quarter)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD reported) (NP (NP (DT an) (NN increase)) (PP (IN of) (NP (CD 160,000) (JJ new) (NN access) (NNS lines))))))))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (PP (TO to) (NP (QP ($ $) (CD 3.31) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 3.18) (CD billion))) (, ,) (ADVP (RB mostly))) (PP (IN from) (NP (NP (NN acquisition)) (PP (IN of) (NP (NP (NNS AGS) (NNS Computers)) (CC and) (NP (JJ robust) (JJ non-regulated) (NNS businesses))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Big) (NNP Board) (JJ composite) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NNP Nynex) (NN common)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 81.125))) (, ,) (ADVP (RB up) (NP ($ $) (CD 1.625)))) (. .)))
+
+(S1 (S (NP (NP (NNP Southern) (NNP New) (NNP England) (NNP Telecommunications)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBN bolstered) (NP (NP (PRP$ its) (NN marketing) (NNS efforts)) (PP (IN for) (NP (NN telephone) (CC and) (NN non-telephone) (NNS subsidiaries))))))) (, ,)) (VP (VBD reported) (SBAR (IN that) (S (NP (NN net)) (VP (VBD increased) (NP (CD 8.1) (NN %)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Walter) (NNP H.) (NNP Monteith) (NNP Jr.)) (, ,) (NP (NP (NN SNET) (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,)) (VP (VBD said) (: :) (`` `) (S (`` `) (NP (NP (JJ Innovative) (NN marketing)) (PP (IN of) (NP (PRP$ our) (NNS products) (CC and) (NNS services)))) (VP (VBD contributed) (S (VP (TO to) (VP (VB increase) (NP (NN revenue)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NN Revenue) (CC and) (NNS sales)) (VP (VBD increased) (NP (CD 7.5) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 423.9) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 394.4) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (. .)))
+
+(S1 (S (NP (NP (JJ Yellow) (NNS pages)) (VP (VBG advertising) (NP (NNS sales)))) (VP (VBD rose) (NP (CD 11.8) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 41.2) (CD million))))) (. .)))
+
+(S1 (S (NP (NP (NN Cost) (CC and) (NNS expenses)) (PP (IN for) (NP (DT the) (NN quarter)))) (, ,) (PP (VBG excluding) (NP (NN interest))) (, ,) (VP (VBD increased) (NP (CD 6.1) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 333.3) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 314) (CD million))) (ADVP (NP (DT the) (NN year)) (IN before)))) (. .)))
+
+(S1 (S (NP (NNP SNET) (NN common)) (VP (VBD rose) (NP (NP (QP ($ $) (CD 1.25) (TO to) ($ $) (CD 85.50))) (NP (DT a) (NN share))) (NP (NN yesterday)) (PP (IN in) (NP (JJ composite) (NN trading))) (PP (IN on) (NP (DT the) (NNP Big) (NNP Board)))) (. .)))
+
+(S1 (S (NP (ADJP (NNP San) (JJ Francisco-based)) (NNP Pacific) (NNP Telesis)) (VP (VBD said) (SBAR (S (NP (NN net)) (VP (VBD declined) (NP (CD 12.6) (NN %)) (, ,) (PP (ADVP (RB primarily)) (IN because) (IN of) (NP (JJ regulatory) (NN action))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD was) (NP (QP (RB about) (JJ flat) (IN at) ($ $) (CD 2.4) (CD billion)))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD was) (VP (VBN reduced) (NP (QP ($ $) (CD 33) (CD million))) (PP (IN by) (NP (NP (CD three) (JJ extraordinary) (NNS items)) (: :) (NP (NP (NP (NP (DT a) (NNP California) (NNP Public) (NNP Utilities) (NNP Commission) (NN refund)) (PP (IN for) (NP (DT an) (NNP American) (NNP Telephone) (CC &) (NNP Telegraph) (NNP Co.)))) (NP (NN billing) (NN adjustment))) (: ;) (S (NP (NP (DT a) (NN provision)) (PP (IN for) (NP (NN productivity)))) (VP (VBG sharing) (S (VP (TO to) (VP (VB be) (VP (VBN paid) (PP (TO to) (NP (NP (NP (NNS customers)) (PP (IN in) (NP (CD 1990)))) (CC and) (NP (NP (DT a) (JJ one-time) (NN accrual)) (PP (IN for) (NP (NP (DT a) (NN toll) (NN settlement)) (PP (IN with) (NP (JJ long-distance) (NN telephone) (NNS companies))))))))))))))))))) (. .)))
+
+(S1 (S (PP (VBG Excluding) (NP (DT the) (JJ one-time) (NNS charges))) (, ,) (NP (DT the) (NN company)) (VP (MD would) (VP (VB have) (NP (NP (VBN posted) (NNS earnings)) (PP (IN of) (NP (NP (QP ($ $) (CD 298) (CD million))) (, ,) (CC or) (NP (NP (CD 73) (NNS cents)) (NP (DT a) (NN share)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VBD was) (VP (VBN hurt) (PP (IN by) (NP (NP (DT a) (ADJP (QP ($ $) (CD 289) (CD million))) (NN rate) (NN reduction)) (SBAR (WHNP (WDT that)) (S (VP (VBD went) (PP (IN into) (NP (NN effect))) (PP (IN in) (NP (CD 1989)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ good) (NN quarter)) (PP (IN for) (NP (PRP us)))) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (PRP$ our) (NN business) (NNS fundamentals)))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Sam) (NNP Ginn)) (, ,) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))) (. .)))
+
+(S1 (S (NP (NNP Pacific) (NNP Telesis)) (VP (VBD said) (SBAR (S (S (NP (JJ new) (NN telephone) (NNS lines)) (VP (VBD increased) (NP (CD 4.5) (NN %)) (PP (IN for) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 13.5) (CD million)))))) (PP (IN for) (NP (DT the) (NN quarter))))) (: ;) (S (NP (NN toll) (NNS calls)) (VP (VBD increased) (NP (CD 9.6) (NN %)) (PP (TO to) (NP (QP (CD 807) (CD million)))))) (CC and) (S (NP (NP (NNS minutes)) (PP (IN of) (NP (NN telephone) (NN usage)))) (VP (VBD increased) (PP (TO to) (NP (QP (CD 9.9) (CD billion))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Big) (NNP Board) (JJ composite) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NNP Pacific) (NNP Telesis) (NN common)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 45.50))) (, ,) (ADVP (RB up) (NP (CD 87.5) (NNS cents)))) (. .)))
+
+(S1 (X (NP (SYM a)) (: -) (FRAG (VP (VBZ Includes) (NP (NP (DT a) (JJ one-time) (NN gain)) (PP (IN of) (NP (QP ($ $) (CD 88.7) (CD million)))) (PP (IN from) (NP (NP (DT a) (JJ commonstock) (NN sale)) (PP (IN by) (NP (NP (NP (NNP U) (NNP S) (NNP West) (POS 's)) (NNP U) (NNP S) (NNP West)) (NNP New) (NNP Vector) (NNP Group)))))))) (. .)))
+
+(S1 (S (LST (LS b)) (: -) (VP (VBZ Includes) (NP (NP (DT a) (ADJP (QP ($ $) (CD 41.3) (CD million))) (NN gain)) (PP (IN on) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NNP FiberCom))))))) (. .)))
+

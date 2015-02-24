@@ -1,0 +1,16 @@
+(S1 (S (NP (NNP CBS) (NNP Inc.)) (VP (VBZ is) (VP (VBG cutting) (`` `) (NP (`` `) (NP (NNP The) (NNP Pat) (NNP Sajak) (NNP Show)) ('' ')) ('' ') (PP (RP down) (PP (TO to) (NP (CD one) (NN hour)))) (PP (IN from) (NP (PRP$ its) (JJ current) (CD 90) (NNS minutes))))) (. .)))
+
+(S1 (S (NP (NNP CBS)) (VP (VBD insisted) (SBAR (S (NP (DT the) (NN move)) (VP (VBD was) (RB n't) (NP (NP (DT a) (NN setback)) (PP (IN for) (NP (NP (DT the) (NN program)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (NP (DT the) (NN network) (POS 's)) (JJ first) (NN entry)) (PP (IN into) (NP (NP (DT the) (JJ late-night) (NN talk) (NN show)) (VP (NN format) (PP (IN since) (NP (CD 1972))))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP have) (NP (NP (DT every) (NN intention)) (PP (IN of) (S (VP (VP (VBG making) (S (NP (DT this)) (NP (DT the) (ADJP (JJS best) (JJ possible)) (NN show)))) (CC and) (VP (VBG having) (S (NP (PRP it)) (VP (VB run) (SBAR (S (NP (CD one) (NN hour)) (VP (VBZ is) (NP (NP (DT the) (JJS best) (NN way)) (PP (TO to) (NP (PRP it))))))))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Rod) (NNP Perth)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN named) (S (NP (NP (NN vice) (NN president)) (PP (IN of) (S (NP (JJ late) (NN night)) (VP (NN entertainment) (PP (IN in) (NP (NNP August))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT This)) (VP (MD will) (VP (VB raise) (NP (NP (DT the) (NN energy) (NN level)) (PP (IN of) (NP (DT the) (NN show)))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NNP CBS)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB program) (S (NP (JJ action-adventure) (NNS shows)) (VP (TO to) (VP (VB follow) (NP (DT the) (NNP Sajak) (NN hour)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP CBS) (NNP News)) (VP (MD will) (VP (VP (VB extend) (NP (PRP$ its) (JJ four-hour) (`` `) (NX (`` `) (NX (NNP Nightwatch) (POS ')) ('' '))) (PP (IN by) (NP (CD 30) (NNS minutes)))) (CC and) (VP (VB begin) (PP (IN at) (NP (CD 1:30) (RB a.m)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN show)) (, ,) (PP (IN despite) (NP (DT a) (JJ promising) (NN start))) (, ,) (VP (VBZ has) (VP (VBN slipped) (ADVP (RB badly)) (PP (IN in) (NP (DT the) (JJ weekly) (NNS ratings))) (PP (IN as) (S (VP (VBN compiled) (PP (IN by) (NP (NNP A.C.) (NNP Nielsen) (NNP Co.))) (, ,) (S (VP (VBG finishing) (PP (RB far) (PP (IN below) (NP (`` `) (NP (`` `) (NP (NNP Tonight) (POS ')) ('' ') (PP (IN on) (NP (NP (NNP NBC)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNP Electric) (NNP Co.))))))) (, ,) (CC and) (`` `) (NP (`` `) (NP (NNP Nightline) (POS ')) ('' ') (PP (IN on) (NP (NP (NNP ABC-TV)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Capital) (NNP Cities\/ABC) (NNP Inc))))))))))))))))) (. .)))
+
+(S1 (S (S (VP (ADVP (RB Further)) (VBG fractioning) (NP (DT the) (JJ late-night) (NN audience)))) (VP (VBZ is) (NP (NP (DT the) (NN addition)) (PP (IN of) (NP (DT the) (`` `) (NP (`` `) (NP (NNP Arsenio) (NNP Hall) (NNP Show)) (, ,) ('' ')) ('' ') (VP (VBN syndicated) (PP (IN by) (NP (NNP Paramount) (NNPS Communications) (NNP Inc)))))))) (. .)))
+

@@ -1,0 +1,6 @@
+(S1 (S (NP (NP (NNP George) (NNP L.) (NNP Manzanec)) (, ,) (ADJP (NP (CD 53) (NNS years)) (JJ old)) (, ,) (NP (NP (JJ senior) (NN vice) (NN president)) (PP (IN of) (NP (NNP Texas) (NNP Eastern) (NNP Corp.)))) (, ,)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (DT a) (NN group) (NN vice) (NN president)) (PP (IN of) (NP (DT this) (JJ natural-gas-pipeline) (NN concern))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Manzanec)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ succeeds) (VP (VBG retiring) (NP (NNP Richard) (NNP C.) (NNP Dixon)))))) (, ,)) (VP (MD will) (VP (VB be) (ADJP (JJ responsible) (PP (IN for) (NP (NP (NN gas) (NN supply)) (, ,) (NP (JJ regulatory) (NNS affairs)) (, ,) (CC and) (NP (NN marketing) (CC and) (NN transportation)) (CC and) (NP (NP (NN exchange)) (PP (IN for) (NP (NP (NNP Panhandle) (NNP Eastern) (NNP Pipe) (NNP Line) (NNP Co.)) (, ,) (NP (NNP Trunkline) (NNP Gas) (NNP Co.)) (, ,) (NP (NNP Texas) (NNP Eastern) (NNP Transmission) (NNP Corp.)) (CC and) (NP (NNP Algonquin) (NNP Gas) (NNP Transmission) (NNP Co)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT All)) (PP (IN of) (NP (DT the) (NNS companies)))) (VP (VBP are) (NP (NP (NNS units)) (PP (IN of) (NP (NP (NNP Panhandle) (NNP Eastern) (NNP Corp.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD acquired) (NP (NNP Texas) (NNP Eastern) (NNP Corp.)) (NP (RBR earlier) (DT this) (NN year))))))))) (. .)))
+

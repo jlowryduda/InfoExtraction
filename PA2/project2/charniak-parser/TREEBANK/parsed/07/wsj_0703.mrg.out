@@ -1,0 +1,4 @@
+(S1 (S (S (NP (NP (NNP France) (POS 's)) (NN unemployment) (NN rate)) (VP (VBD was) (ADJP (JJ steady)) (PP (IN at) (NP (DT a) (ADJP (RB seasonally) (VBN adjusted)) (CD 9.5) (NN %))) (PP (IN in) (NP (NNP September))))) (, ,) (NP (DT the) (NNP Social) (NNP Affairs) (NNP Ministry)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP September))) (, ,) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (JJ jobless)))) (VP (VBD rose) (NP (CD 0.1) (NN %)) (PP (PP (IN from) (NP (DT the) (JJ previous) (NN month))) (PP (TO to) (NP (QP (CD 2.5) (CD million))))) (PP (IN on) (NP (DT a) (ADJP (RB seasonally) (VBN adjusted)) (NN basis)))) (. .)))
+

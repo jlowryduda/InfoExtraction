@@ -1,0 +1,28 @@
+(S1 (S (NP (NP (NN Program) (NN trading)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))) (PP (IN in) (NP (NNP September))) (VP (VBD rose) (PP (TO to) (NP (NP (PRP$ its) (JJS highest) (JJ recorded) (NN level)) (PP (IN as) (NP (NP (DT a) (NN percentage)) (PP (IN of) (NP (JJ total) (JJ monthly) (NN trading) (NN volume)))))))) (. .)))
+
+(S1 (S (NP (NNP September) (NN program) (NN trading)) (VP (VBD amounted) (PP (TO to) (NP (NP (CD 13.8) (NN %)) (PP (IN of) (NP (JJ average) (JJ daily) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN volume))) (PP (IN of) (NP (QP (CD 151.8) (CD million)) (NNS shares))))) (, ,) (NP (NP (DT the) (JJS largest) (NN percentage)) (SBAR (IN since) (S (NP (DT the) (NN exchange)) (VP (VBD began) (S (VP (VBG making) (S (NP (JJ such) (NNS figures)) (ADJP (JJ public))))) (PP (IN in) (NP (NNP July) (CD 1988)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ daily) (NN average)) (PP (IN of) (NP (QP (CD 20.9) (CD million)) (NNS shares)))) (VP (VBD traded) (PP (IN in) (NP (NN program) (NNS strategies))) (PP (IN in) (NP (NNP September))) (, ,) (NP (NP (DT the) (JJ second-highest) (NN level)) (ADVP (RB ever)))) (. .)))
+
+(S1 (S (NP (DT The) (JJS highest) (NN level)) (VP (VBD was) (PP (IN in) (NP (NP (NNP June) (CD 1989)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT a) (JJ daily) (NN average)) (PP (IN of) (NP (QP (CD 22.1) (CD million)) (NNS shares)))) (VP (VBD traded) (PP (IN in) (NP (NN program) (NNS strategies))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Average) (JJ daily) (NN trading) (NN volume)) (PP (IN in) (NP (NNP June))) (PP (IN of) (NP (QP (CD 180.3) (CD million)) (NNS shares)))) (VP (VBD was) (ADJP (ADJP (RB considerably) (JJR higher)) (PP (IN than) (PP (IN in) (NP (NNP September)))))) (. .)))
+
+(S1 (S (NP (NN Program) (NN trading)) (VP (VBD amounted) (PP (TO to) (NP (NP (CD 12.3) (NN %)) (PP (IN of) (NP (NP (JJ average) (JJ daily) (NN volume)) (PP (IN in) (NP (NNP June)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Big) (NNP Board)) (VP (VBZ says) (SBAR (S (NP (NN program) (NN trading)) (VP (VBZ describes) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (NNS strategies)) (PP (VBG involving) (NP (NP (DT the) (NN purchase) (CC or) (NN sale)) (PP (IN of) (NP (NP (DT a) (NN basket)) (PP (IN of) (NP (QP (CD 15) (CC or) (JJR more)) (NNS stocks)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (ADJP (RBS most) (JJ controversial))) (PP (IN of) (NP (DT these)))) (VP (VBZ is) (NP (NP (NN stock-index) (NN arbitrage)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNS traders)) (VP (VP (VBP buy) (CC or) (VBP sell) (NP (NP (NNS baskets)) (PP (IN of) (NP (NNS stocks))))) (CC and) (VP (VBP offset) (NP (NP (DT the) (NN position)) (PP (IN with) (NP (NP (DT an) (JJ opposite) (NN trade)) (PP (IN in) (NP (NN stock-index) (NNS futures)))))) (S (VP (TO to) (VP (VB lock) (PRT (RP in)) (NP (NNS profits))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the) (ADJP (RBS most) (JJ controversial)) (NN form)) (PP (IN of) (NP (NN program) (NN trading)))) (SBAR (IN because) (S (NP (PRP it)) (VP (MD can) (VP (VB create) (NP (JJ abrupt) (NN price) (NNS swings)) (PP (IN in) (NP (DT the) (NN stock) (NN market)))))))) (. .)))
+
+(S1 (S (S (NP (NNP Salomon) (NNPS Brothers) (NNP Inc.)) (VP (VBD was) (NP (NP (DT the) (JJ top) (NN program) (NN trader)) (PP (IN in) (NP (NNP September)))))) (, ,) (CC but) (S (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (NN firm) (POS 's)) (NN activity)))) (VP (VBD involved) (NP (NP (NN portfolio) (NN trading) (NNS strategies)) (ADJP (JJ other) (PP (IN than) (NP (NN stock-index) (NN arbitrage))))))) (. .)))
+
+(S1 (S (ADVP (RB Overall)) (, ,) (NP (NNP Salomon)) (VP (VBD reported) (NP (NP (NN program) (NN trading) (NN volume)) (PP (IN of) (NP (QP (CD 75.2) (CD million)) (NNS shares))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ top) (NN stock-index) (NN arbitrage) (NN firm)) (NP (JJ last) (NN month)) (VP (VBD was) (NP (NP (NNP Morgan) (NNP Stanley)) (CC &) (NP (NNP Co)))) (. .)))
+
+(S1 (S (PP (IN Of) (NP (NNP Morgan) (NNP Stanley) (VBZ 's))) (NP (NP (QP (CD 66.8) (CD million)) (NNS shares)) (PP (IN in) (NP (NP (NN program) (NNS trades)) (PP (IN for) (NP (DT the) (NN month)))))) (, ,) (NP (CD 53.1) (CD million)) (VP (VBD were) (PP (IN in) (NP (JJ stock-index) (NN arbitrage) (NNS trades)))) (. .)))
+
+(S1 (S (PP (IN Behind) (NP (NN second-place))) (NP (NNP Morgan) (NNP Stanley)) (VP (VBD were) (NP (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.)) (, ,) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co.)) (CC and) (NP (NP (NNP CS) (NNP First) (NNP Boston) (NNP Inc.) (POS 's)) (NNP First) (NNP Boston) (NNP Corp.) (NN unit)))) (. .)))
+

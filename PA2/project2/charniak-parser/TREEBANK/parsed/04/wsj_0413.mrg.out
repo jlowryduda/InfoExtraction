@@ -1,0 +1,168 @@
+(S1 (S (SBAR (IN If) (S (NP (EX there)) (VP (VBZ 's) (ADJP (JJ somethin))))) (VP (POS ') (ADJP (JJ strange) (PP (IN in) (NP (PRP$ your) (NN neighborhood) (NN ..))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NP (NN something) ('' ')) (ADJP (JJ weird))) (CC and) (NP (PRP it)))))) (VP (VB do) (RB n't) (VP (VB look) (ADJP (JJ good)))) (. .)))
+
+(S1 (SBARQ (WHNP (WP Who)) (SQ (VBZ ya) (VP (VBG gon) (S (VP (TO na) (VP (VB call)))))) (. ?)))
+
+(S1 (S (PP (IN For) (NP (NNS starters))) (, ,) (NP (DT some) (NNS people)) (VP (VBP call) (S (NP (NNP Ed) (CC and) (NNP Lorraine) (NNP Warren)))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP it)) (VP (VBZ comes) (PP (TO to) (NP (JJ busting) (NNS ghosts)))))) (, ,) (NP (DT the) (NAC (NNP Monroe) (, ,) (NNP Conn.) (, ,)) (NN couple)) (VP (VBP are) (NP (JJ perfect) (NNS demons))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP claim) (S (VP (TO to) (VP (VB have) (NP (NP (JJ busted) (NNS spirits) (, ,) (NNS poltergeists) (CC and) (JJ other) (NNS spooks)) (PP (IN in) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS houses)) (PP (IN around) (NP (DT the) (NN country)))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP say) (SBAR (S (NP (PRP they)) (ADVP (RB now)) (VP (VBP get) (NP (NP (CD three) (CC or) (CD four) (`` `) (ADJP (`` `) (JJ legitimate) ('' ')) ('' ') (NNS calls)) (NP (DT a) (NN week)) (PP (IN from) (NP (NP (NNS people)) (VP (VBN harried) (PP (IN by) (NP (NNS haunts))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (ADVP (RB firmly)) (VBP believe) (PP (IN in) (NP (NNPS angels) (, ,) (NNS devils) (CC and) (NNS ghosts)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Mr.) (NNP Warren)) (, ,) (SBAR (WHNP (WP$ whose) (NN business) (NN card)) (S (VP (VBZ identifies) (NP (PRP him)) (PP (IN as) (NP (DT a) (`` `) (NX (`` `) (NP (NN demonologist))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (SBAR (IN If) (S (S (NP (NNS psychics)) (VP (VBP do) (RB n't) (VP (VB work)))) (, ,) (CC but) (S (NP (PRP$ your) (NN house)) (ADVP (RB still)) (VP (VBZ seems) (ADJP (JJ haunted)))))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB call) (NP (NP (DT any) (CD one)) (PP (IN of) (NP (NP (DT a) (VBG swelling) (NN band)) (PP (IN of) (NP (NP (NNS skeptics)) (PP (JJ such) (IN as) (NP (NNP Richard) (NNP Busch)))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT A) (JJ professional) (NN magician)) (CC and) (NP (NN musician)))) (, ,) (NP (PRP he)) (VP (VBZ heads) (NP (NP (DT the) (NNP Pittsburgh) (NN branch)) (PP (IN of) (NP (NP (DT the) (NNP Committee)) (PP (IN for) (NP (NP (DT the) (NNP Scientific) (NNP Investigation)) (PP (IN of) (NP (DT the) (NNP Paranormal))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Busch)) (VP (VBZ says) (SBAR (S (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ scientific) (NN explanation)) (PP (IN for) (NP (DT all) (NNS haunts)))))) (, ,) (CC and) (S (NP (PRP he)) (VP (MD can) (ADVP (RB even)) (VP (VB tell) (NP (PRP you)) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB encourage) (NP (DT the) (NNS spirits)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (ADVP (DT All)) (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB do) (VP (VBZ is) (S (VP (VB eat) (NP (DT a) (JJ big) (NN pizza))))) (, ,) (CC and) (RB then) (VP (VB go) (PP (TO to) (NP (NN bed)))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP You)) (VP (MD 'll) (VP (VB have) (NP (JJ weird) (NNS dreams)) (, ,) (ADVP (RB too)))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (DT Either) (NN way)) (, ,) (NP (DT the) (NN ghostbusting) (NN business)) (VP (VBZ is) (VP (VBG going) (PP (IN like) (NP (NNS gangbusters))))) (. .)))
+
+(S1 (S (NP (NP (NNS Tales)) (PP (IN of) (NP (NNS haunts) (CC and) (NNS horrors)))) (VP (VBP are) (VP (VBG proliferating) (PP (IN beyond) (NP (NP (DT the) (NN nation) (POS 's)) (NNP Elm) (NNS Streets) (CC and) (NNS Amityvilles))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VB get) (NP (NP (NNS calls)) (NP (RB nearly) (DT every) (NN day))) (PP (IN from) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (NP (NP (NNS ghosts)) (PP (IN in) (NP (PRP$ their) (NN house)))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Raymond) (NNP Hyman)) (, ,) (NP (NP (DT a) (ADJP (JJ skeptical)) (NN psychology) (NN professor)) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Oregon))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (JJ public) (NN opinion))) (NP (NP (NN poll)) (VP (VBN published) (PP (IN in) (NP (NP (DT the) (NNP October) (NN issue)) (PP (IN of) (NP (NNP Parents) (NNP Magazine))))))) (, ,) (NP (NP (DT a) (JJ third)) (PP (IN of) (NP (NP (DT those)) (VP (VBN queried))))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP believe) (SBAR (IN that) (S (NP (NNS ghosts) (CC or) (NNS spirits)) (VP (VBP make) (NP (PRP themselves)) (PP (VBN known) (PP (TO to) (NP (NNS people))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (DT The) (NNS movies)) (, ,) (NP (NP (DT the) (NNS books)) (, ,) (NP (DT the) (NNS tabloids)) (: --) (RB even) (NP (NNP Nancy) (NNP Reagan)))) (VP (VBZ is) (VP (VBG boosting) (NP (DT this) (NN stuff)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Paul) (NNP Kurtz)) (, ,) (NP (NP (DT a) (NN philosophy) (NN professor)) (PP (IN at) (NP (NP (DT the) (NNP State) (NNP University)) (PP (IN of) (NP (NNP New) (NNP York))))) (PP (IN at) (NP (NP (NNP Buffalo)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ heads) (NP (NP (DT the) (NN Committee)) (PP (IN for) (NP (NP (DT the) (NNP Scientific) (NNP Investigation)) (PP (IN of) (NP (DT the) (NNP Paranormal))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN committee)) (, ,) (VP (VBN formed) (PP (IN in) (NP (CD 1967)))) (, ,)) (ADVP (RB now)) (VP (VBZ has) (NP (NP (CD 60) (NNS chapters)) (PP (IN around) (NP (DT the) (NN world))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS spirits)) (, ,) (PP (IN of) (NP (NN course))) (, ,) (VP (MD could) (ADVP (RB hardly)) (VP (VB care) (ADVP (RBR less)) (SBAR (IN whether) (S (NP (NNS people)) (VP (VP (VBP do)) (CC or) (VP (VBP do) (RB n't) (VP (VB believe) (PP (IN in) (NP (PRP them)))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP do) (RB n't) (ADVP (RB even)) (VP (VB give) (NP (NP (DT a) (NN nod)) (PP (TO to) (NP (JJ human) (NNS sensibilities)))) (PP (IN by) (S (VP (VBG celebrating) (NP (NNP Halloween))))))) (. .)))
+
+(S1 (S (S (PP (IN For) (NP (DT the) (NNS spooks))) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (DT another) (NN day)) (PP (IN of) (NP (NP (JJ ectoplasmic) (NN business)) (ADJP (RB as) (JJ usual)))) (, ,) (SBAR (S (NP (NNP ghostbusters)) (VP (VBP say))))))) (: ;) (S (NP (DT the) (NN holiday)) (VP (VBZ seems) (S (VP (TO to) (VP (VB occasion) (NP (NP (DT no) (JJ unusual) (NN number)) (PP (IN of) (NP (NN ghost) (NNS reports))))))))) (. .)))
+
+(S1 (S (NP (NP (CD One)) (PP (IN of) (NP (DT the) (JJS busiest) (NNP ghostbusters)))) (VP (VBZ is) (NP (NP (NNP Robert) (NNP Baker)) (, ,) (NP (DT a) (JJ 68-year-old) (JJ semi-retired) (NAC (NNP University) (PP (IN of) (NP (NNP Kentucky)))) (NN psychology) (NN professor)) (SBAR (WHNP (WP$ whose) (JJ bushy) (JJ gray) (NNS eyebrows)) (S (VP (NN arch) (PP (IN at) (NP (NP (DT the) (JJ mere) (NN mention)) (PP (IN of) (NP (DT a) (NN ghost)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Baker)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ has) (ADVP (RB personally)) (VP (VBN bested) (NP (QP (JJR more) (IN than) (CD 50)) (NNS haunts)) (, ,) (PP (PP (IN from) (NP (NNS aliens))) (PP (TO to) (NP (NNS poltergeists))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Baker)) (VP (VBZ heads) (NP (DT the) (NAC (NNP Kentucky) (NNP Association) (PP (IN of) (NP (NNP Science)))) (NNS Educators) (CC and) (NNS Skeptics))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (NP (NNP Hollywood) (POS 's)) (NNP Ghostbusters))) (, ,) (NP (NNP Kentucky) (POS 's)) (VP (VBP stand) (ADJP (JJ ready) (S (VP (TO to) (VP (VB roll) (SBAR (WHADVP (WRB when)) (S (NP (NNS haunts)) (VP (VBP get) (PP (IN out) (PP (IN of) (NP (NN hand)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP do) (RB n't) (VP (VP (VB careen) (PRT (RP around)) (PP (IN in) (NP (DT an) (JJ old) (NNP Cadillac)))) (, ,) (VP (VB wear) (NP (JJ funny) (NNS suits))) (CC or) (VP (VB blast) (PRT (RP away)) (PP (IN at) (NP (JJ slimy) (NNS spirits)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Baker)) (VP (VP (VBZ drives) (NP (DT a) (CD 1987) (NNP Chevy))) (CC and) (VP (ADVP (RB usually)) (VBZ wears) (NP (DT a) (NNP tweed) (NN jacket)) (PP (IN on) (NP (PRP$ his) (NN ghostbusting) (NNS forays))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN met) (NP (NP (DT a) (NN ghost)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (RB n't) (VP (VB be) (VP (VBN explained) (PRT (RP away)) (PP (IN by) (NP (RB perfectly) (JJ natural) (NNS means))))))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT a) (NNP Louisville) (NN woman)) (VP (VBD complained) (SBAR (IN that) (S (NP (DT a) (NN ghost)) (VP (VBD was) (VP (VBG haunting) (NP (PRP$ her) (NN attic))))))))) (, ,) (NP (NNP Mr.) (NNP Baker)) (VP (VBD discovered) (NP (NP (DT a) (NN rat)) (VP (VBG dragging) (NP (DT a) (NN trap)) (PP (IN across) (NP (DT the) (NNS rafters)))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ foul-smelling) (NN demon)) (ADVP (RB supposedly)) (VP (VBD plagued) (NP (NP (DT a) (NN house)) (PP (IN in) (NP (NP (NNP Mannington)) (, ,) (NP (NNP Ky)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Baker)) (VP (VBD found) (NP (NP (DT an) (NN opening)) (PP (IN under) (NP (DT the) (NN house))) (SBAR (WHNP (WDT that)) (S (VP (VBD led) (PP (TO to) (NP (DT a) (JJ fume-filled) (NN coal) (NN mine)))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN weather)) (VP (VBZ cools)))) (PRN (, ,) (S (NP (NNP Mr.) (NNP Baker)) (VP (VBZ says))) (, ,)) (NP (NNS hobos)) (ADVP (RB often)) (VP (NN hole) (PRT (RP up)) (PP (IN in) (NP (VBN abandoned) (NNS houses)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (NNS People)) (VP (VBP see) (NP (NP (NP (NN activity)) (PP (IN in) (NP (RB there)))) (, ,) (CC and) (NP (NP (DT the) (JJ next) (NN thing)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))) (, ,) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (NP (DT a) (VBG haunting))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT a) (JJ recent) (NN afternoon))) (, ,) (NP (NP (NNP Mr.) (NNP Baker)) (CC and) (NP (DT a) (NN reporter))) (VP (VBP go) (ADJP (JJ ghost-busting)) (, ,) (S (VP (VBG visiting) (NP (NP (NNP Kathleen) (NNP Stinnett)) (, ,) (NP (NP (DT a) (NNP Lexington) (NN woman)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN phoned) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Kentucky)))) (S (VP (TO to) (VP (VB report) (NP (NP (JJ mysterious) (NNS happenings)) (PP (IN in) (NP (PRP$ her) (NN house)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mrs.) (NNP Stinnett)) (VP (VBZ says) (SBAR (S (NP (PRP she)) (ADVP (RB never)) (VP (VBD believed) (PP (IN in) (NP (NNS ghosts))) (SBAR (IN before) (, ,) (S (S (CC but) (ADVP (RB lately)) (NP (NP (PRP$ her) (NN vacuum)) (JJR cleaner)) (VP (VBD turned) (NP (PRP itself)) (PRT (RP on)))) (, ,) (S (NP (DT a) (NN telephone)) (VP (VBD flew) (PRT (RP off)) (NP (PRP$ its) (NN stand)))) (, ,) (S (NP (NNS doors)) (VP (VBD slammed) (ADVP (RB inexplicably)))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBD heard) (NP (NP (NNS footsteps)) (PP (IN in) (NP (PRP$ her) (JJ empty) (NN kitchen)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (S (`` `) (NP (PRP I)) (VP (VP (VBD was) (VP (VBG doing) (NP (DT the) (NN laundry)))) (CC and) (VP (ADVP (RB nearly)) (VBD broke) (S (NP (PRP$ my) (NN neck) (VBG running) (NN upstairs)) (VP (TO to) (VP (VB see) (SBAR (WHNP (WP who)) (S (VP (VBD was) (ADVP (RB there))))))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBD was) (NP (NN nobody))))) (, ,) ('' ') ('' ') (NP (PRP she)) (VP (VBZ says) (, ,) (S (NP (NNS eyes)) (ADJP (JJ wide) (PP (IN at) (NP (DT the) (NN recollection)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Baker)) (VP (VP (VBZ hears) (NP (PRP her)) (PRT (RP out))) (, ,) (VP (VBZ pokes) (PP (IN around) (NP (DT a) (NN bit)))) (, ,) (VP (VBZ asks) (NP (DT a) (JJ few) (NNS questions))) (CC and) (VP (VBZ proposes) (NP (DT some) (NNS explanations)))) (. .)))
+
+(S1 (S (PP (IN Of) (NP (NP (DT the) (JJ self-starting) (NN vacuum)) (JJR cleaner))) (, ,) (NP (PRP he)) (VP (VBZ says) (: :) (`` `) (S (`` `) (VP (MD Could) (VP (VB be) (NP (NNP Cuddles)) (, ,) (PRN (-LRB- -LCB-) (NP (NP (NNP Mrs.) (NNP Stinnett) (POS 's)) (NN dog)) (-RRB- -RCB-)))))) (. .) ('' ') ('' ')))
+
+(S1 (NP (NP (DT The) (VBG flying) (NN telephone)) (: :) (`` `) (S (`` `) (S (NP (PRP You)) (VP (NN tangle) (NP (DT the) (NN base) (NN cord)) (PP (IN around) (NP (DT a) (NN chair) (NN leg))))) (, ,) (CC and) (S (NP (DT the) (NN receiver)) (VP (VBZ does) (VP (VB seem) (S (VP (TO to) (VP (VB fly) (PRT (RP off)))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (S (NP (DT The) (NN ghostly)) (VP (VBZ footsteps) (: :) (`` `) (S (`` `) (NP (NNP Interstate) (CD 64)) (VP (VBZ is) (ADVP (NP (DT a) (NN block)) (RB away)))))) (, ,) (CC and) (S (NP (JJ heavy) (NN traffic)) (VP (MD can) (ADVP (RB sure)) (VP (VB set) (NP (DT a) (NN house)) (PP (TO to) (NP (NN vibrating)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (RB not) (ADJP (JJ sure) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN explained) (NP (NN everything)))))))) (, ,) ('' ')) ('' ') (NP (NNP Mrs.) (NNP Stinnett)) (VP (VBZ says) (ADVP (RB grudgingly))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (EX There)) (VP (VBP are) (NP (NP (DT some) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN gone) (ADVP (IN on) (RB here)) (SBAR (IN that) (S (NP (NN nobody)) (VP (MD can) (VP (VB explain))))))))))) (, ,) ('' ')) ('' ') (NP (PRP she)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Baker)) (VP (VBZ promises) (S (VP (TO to) (VP (VB return) (SBAR (IN if) (S (NP (DT the) (VBG haunting)) (VP (VBZ continues)))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (RB especially) (JJ stubborn) (NNS haunts))) (, ,) (NP (NNP Mr.) (NNP Baker)) (VP (VBZ carries) (NP (NP (DT a) (JJ secret) (NN weapon)) (, ,) (NP (NP (DT a) (NN vial)) (PP (IN of) (NP (NN cornstarch)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP tell) (NP (NNS people)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT the) (JJ groundup) (NNS bones)) (PP (IN of) (NP (NNS saints)))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP sprinkle) (NP (DT a) (JJ little)) (PP (IN around)))) (CC and) (S (VP (VB tell) (NP (DT the) (NNS demons)) (S (VP (TO to) (VP (VB leave)))))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBZ 's) (ADJP (VBG reassuring)))) (, ,) (CC and) (S (NP (PRP it)) (ADVP (RB usually)) (VP (VBZ works))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Oregon) (POS 's)) (NNP Mr.) (NNP Hyman)) (VP (VP (VBZ has) (VP (VBN investigated) (NP (NP (NNS claims)) (PP (IN of) (NP (NP (VBG flying) (NNS cats)) (, ,) (NP (NNS apparitions)) (CC and) (NP (VBG bouncing) (NNS chandeliers))))))) (CC and) (VP (VBZ has) (VP (VBN come) (PRT (RP up)) (PP (IN with) (NP (NP (DT a) (JJ plausible) (NN explanation)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ says))) (, ,)) (PP (IN for) (NP (DT every) (CD one)))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (ADVP (RB Invariably)) (PRN (, ,) ('' ') ('' ') (S (NP (PRP he)) (VP (VBZ says))) (, ,) (`` `)) (`` `) (NP (NNS eyewitnesses)) (VP (VBP are) (ADJP (JJ untrustworthy))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (NP (CD Two) (NNS years)) (RB ago)) (, ,) (NP (DT a) (NNP Canadian) (NN reader)) (VP (VBD bet) (NP (NNP Omni) (NNP Magazine)) (NP ($ $) (CD 1,000)) (SBAR (S (IN that) (NP (PRP it)) (VP (MD could) (RB n't) (VP (VB debunk) (NP (NP (DT the) (JJ uncanny) (NN goings-on)) (PP (IN in) (`` `) (NP (`` `) (NP (DT the) (NNP Oregon) (NN Vortex)) (, ,) ('' ')) ('' '))) (NP (NP (DT a) (JJ former) (JJ Indian) (NN burial) (NN ground)) (PP (IN in) (NP (JJ southern) (NNP Oregon))))))))) (. .)))
+
+(S1 (S (PP (TO To) (NP (NP (NNS viewers)) (PP (IN from) (NP (DT a) (NN distance))))) (, ,) (NP (NP (NNS visitors)) (PP (TO to) (NP (DT the) (NN spot)))) (VP (VBD seemed) (S (VP (TO to) (VP (VB shrink) (ADVP (RB disproportionately)) (, ,) (ADVP (JJ relative) (PP (TO to) (NP (DT the) (NN background)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN magazine)) (VP (VBD called) (PP (IN in) (NP (NNP Mr.) (NNP Hyman))) (PP (IN as) (NP (DT a) (NN consultant)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD showed) (PRT (RP up)) (PP (IN with) (NP (NP (DT a) (NNP carpenter) (POS 's)) (NN level)))) (, ,) (VP (ADVP (RB carefully)) (VBN measured) (NP (DT every) (NN surface))) (CC and) (VP (VBD showed) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ apparent) (NN shrinkage)) (VP (VBD was) (VP (VBN caused) (PP (IN by) (NP (DT the) (NN perspective))))))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (NP (DT A) (ADJP (RB very) (JJ striking)) (NN illusion)) (PRN (, ,) ('' ') ('' ') (S (NP (NNP Mr.) (NNP Hyman)) (VP (VBZ says) (ADVP (RB now)) (, ,) (S (NP (PRP$ his) (NN voice)) (VP (VBG dripping) (PP (IN with) (NP (NN skepticism))))))) (, ,) (`` `)) (`` `) (CC but) (NP (NP (DT an) (NN illusion)) (ADVP (RB nevertheless))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NNP Canadian)) (VP (VB wound) (PRT (RP up)) (S (VP (VBG writing) (NP (DT a) (NN check))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NNP Rev.) (NNP Alphonsus) (NNP Trabold)) (, ,) (NP (NP (DT a) (NX (NX (NN theology) (NN professor)) (CC and) (NX (NN exorcism) (NN expert)))) (PP (IN at) (NP (NNP St.) (NNP Bonaventure) (NNP University))) (PP (IN in) (NP (NP (NNP Olean)) (, ,) (NP (NNP N.Y.))))) (, ,)) (ADVP (RB frequently)) (VP (VBZ is) (VP (VBN asked) (S (VP (TO to) (VP (VB exorcise) (NP (JJ unruly) (NNS spirits)))))))) (, ,) (CC and) (S (NP (PRP he)) (ADVP (RB often)) (VP (VBZ obliges))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN On) (NP (JJ certain) (NNS occasions))) (NP (DT a) (NN spirit)) (VP (MD could) (VP (VP (VB be) (ADJP (JJ earthbound))) (CC and) (VP (VB make) (S (NP (PRP itself)) (ADJP (VBN known)))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (PRP It)) (VP (VBZ happens))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NNP Father) (NNP Trabold)) (ADVP (RB often)) (VP (VBZ uses) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ calls) (NP (`` `) (NP (`` `) (DT a) (JJ therapeutic) (NN exorcism) ('' ')) ('' ') (: :) (NP (NP (DT a) (JJ few) (NNS prayers)) (CC and) (NP (NP (DT an) (NN admonition)) (PP (TO to) (NP (DT the) (NN spirit)))))) (S (VP (TO to) (VP (VB leave)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN If) (S (NP (DT the) (NN person)) (VP (VBZ believes) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (DT an) (JJ evil) (NN spirit)))))))) (, ,) (NP (PRP you)) (VP (VBP ask) (NP (PRP it)) (S (VP (TO to) (VP (VB be) (VP (VBN gone)))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (NP (NP (`` `) (DT The) (NN suggestion)) (NP (PRP itself))) (VP (MD may) (VP (VB do) (NP (DT the) (NN healing)))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (ADJP (RB sometimes) (RBR more) (JJ energetic)) (NNS attacks)) (VP (VBP are) (VP (VBN required))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB wrestle) (PP (IN with) (NP (NP (DT a) (NN demon)) (PP (IN in) (NP (NP (DT a) (NN house)) (VP (VBN owned) (PP (IN by) (NP (DT a) (NAC (NNP Litchfield) (, ,) (NNP Conn.) (, ,)) (NN woman))))))))))) (, ,) (NP (DT the) (NNPS Warrens)) (ADVP (RB recently)) (VP (VBD called) (PP (IN in) (NP (NP (DT an) (NN exorcist)) (, ,) (NP (NP (DT the) (NNP Rev.) (NNP Robert) (NNP McKenna)) (, ,) (NP (NP (DT a) (JJ dissident) (NN clergyman)) (SBAR (WHNP (WP who)) (S (VP (VBZ hews) (PP (TO to) (NP (NP (DT the) (NNP Catholic) (NNP Church) (POS 's)) (JJ old) (NNP Latin) (NN liturgy))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBP attend))) (, ,) (CC and) (SINV (ADVP (RB so)) (VP (VBZ does)) (NP (NP (DT a) (NN television) (NN crew)) (PP (IN from) (NP (NNP New) (NNP York) (NNP City))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Warren)) (VP (VBZ pronounces) (NP (DT the) (NNP Litchfield) (NN case)) (`` `) (S (`` `) (NP (PRP$ your) (JJ typical) (JJ demonic) (NN infestation)))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (S (NP (DT A) (NNP Scottish)) (VP (VBP dwarf) (VP (VBN built) (NP (DT the) (JJ small) (JJ red) (NN house)) (ADVP (NP (CD 110) (NNS years)) (RB ago))))) (CC and) (S (ADVP (RB now)) (NP (PRP$ his) (JJ demonic) (NN ghost)) (VP (VBZ haunts) (NP (PRP it))))) (, ,) (NP (NNP Mr.) (NNP Warren)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN owner)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ begs) (NP (NN anonymity))))) (, ,)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (NP (DT the) (VB dwarf)) (, ,) (VP (VBG appearing) (PP (IN as) (NP (DT a) (JJ dark) (NN shadow)))) (, ,)) (VP (VBZ has) (VP (VBN manhandled) (NP (PRP her)) (, ,) (S (VP (VP (VBG tossing) (NP (PRP her)) (PP (IN around) (NP (DT the) (VBG living) (NN room)))) (CC and) (VP (VBG yanking) (PRT (RP out)) (NP (NP (DT a) (NN hank)) (PP (IN of) (NP (NN hair)))))))))))) (. .)))
+
+(S1 (S (NP (CD Two) (JJ previous) (NNS exorcisms)) (VP (VBP have) (VP (VBN failed))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT This)) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ tenacious)) (NN ghost))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Warren)) (VP (VBZ says) (ADVP (RB darkly))) (. .)))
+
+(S1 (S (NP (NNP Father) (NNP McKenna)) (VP (VBZ moves) (PP (IN through) (NP (DT the) (NN house))) (S (VP (VP (VBG praying) (PP (IN in) (NP (NNP Latin)))) (, ,) (VP (VBG urging) (NP (DT the) (NN demon)) (S (VP (TO to) (VP (VB split)))))))) (. .)))
+
+(S1 (S (ADVP (RB Suddenly)) (NP (DT the) (NN woman)) (VP (VBZ begins) (S (VP (VP (VBG swaying)) (CC and) (VP (ADVP (RB then)) (VBG writhing))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP She)) (VP (VBZ 's) (VP (VBG being) (VP (VBN attacked) (PP (IN by) (NP (DT the) (NN demon)))))) (, ,) ('' ')) ('' ') (NP (NNP Mrs.) (NNP Warren)) (VP (VBZ stagewhispers) (SBAR (IN as) (S (S (NP (DT the) (NN priest)) (VP (VBZ sprinkles) (NP (NP (JJ holy) (NN water)) (PP (IN over) (NP (DT the) (JJ squirming) (NN woman)))))) (, ,) (CC and) (S (NP (DT the) (NN television) (NN camera)) (VP (VBZ grinds)))))) (. .)))
+
+(S1 (S (S (ADVP (NP (DT A) (NN half-hour)) (RB later)) (, ,) (NP (DT the) (NN woman)) (VP (VBZ is) (VP (VBG smiling) (CC and) (VBG chatting)))) (: ;) (S (NP (DT the) (NN demon)) (VP (VBZ seems) (S (VP (TO to) (VP (VB have) (VP (VBN gone))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Mr.) (NNP Warren)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN woman)) (VP (VBZ has) (NP (`` `) (NP (`` `) (JJ psychic) (NNS burns) ('' ')) ('' ') (PP (IN on) (NP (NP (PRP her)) (ADVP (RB back) (PP (IN from) (NP (DT the) (NN confrontation))))))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBZ declines) (S (VP (TO to) (VP (VB show) (NP (PRP them)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT This)) (VP (VBD was) (NP (NP (DT an) (JJ invisible) (, ,) (JJ powerful) (NN force)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (RB almost) (JJ impossible) (SBAR (IN for) (S (NP (DT a) (NN layman)) (VP (TO to) (VP (VB contemplate))))))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Warren)) (VP (VBZ says) (SBAR (RB solemnly) (IN as) (S (NP (DT the) (NN ghostbusting) (NN entourage)) (VP (VBZ packs) (PRT (RP up)) (S (VP (TO to) (VP (VB leave)))))))) (. .)))
+
+(S1 (S (`` `) (ADVP (NP (`` `) (DT This) (NN time)) (RB though)) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP we)) (VP (VBD got) (NP (PRP it)))))))) (. .) ('' ') ('' ')))
+
+(S1 (NP (NP (NNS Lyrics)) (PP (IN from) (`` `) (NP (`` `) (NP (NNP Ghostbusters) (POS ')) ('' ') (PP (IN by) (NP (NP (NNP Ray) (NNP S.) (NNP Parker) (NNP Jr.) (CD 1984)) (PP (IN by) (NP (NP (NP (NNP Golden) (NN Torch) (NNP Music) (NNP Corp.)) (PRN (-LRB- -LRB-) (NP (NNP ASCAP)) (-RRB- -RRB-))) (CC and) (NP (NP (NNP Raydiola) (NNP Music)) (PRN (-LRB- -LRB-) (NP (NNP ASCAP)) (-RRB- -RRB-))))))))) (. .)))
+
+(S1 (S (NP (NP (DT All) (JJ administrative) (NNS rights)) (PP (IN for) (NP (DT the) (NNP U.S.)))) (VP (ADVP (RB jointly)) (VBN controlled) (PP (IN by) (NP (DT both) (NNS companies)))) (. .)))
+
+(S1 (S (NP (JJ International) (NN copyright)) (VP (VBD secured)) (. .)))
+
+(S1 (S (VP (VBN Made) (PP (IN in) (NP (NNP USA)))) (. .)))
+
+(S1 (S (NP (DT All) (NNS rights)) (VP (VBN Reserved)) (. .)))
+
+(S1 (S (VP (VBN Reprinted) (PP (IN by) (NP (NN permission)))) (. .)))
+

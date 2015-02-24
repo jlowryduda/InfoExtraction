@@ -1,0 +1,34 @@
+(S1 (S (NP (NP (NNS Yields)) (PP (IN on) (NP (JJ money-market) (JJ mutual) (NNS funds)))) (VP (VBD continued) (S (VP (TO to) (VP (VB slide)))) (, ,) (PP (IN amid) (NP (NNS signs) (SBAR (IN that) (S (NP (NN portfolio) (NNS managers)) (VP (VBP expect) (NP (NP (JJ further) (NNS declines)) (PP (IN in) (NP (NN interest) (NNS rates)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ average) (JJ seven-day) (NN compound) (NN yield)) (PP (IN of) (NP (NP (DT the) (CD 400) (JJ taxable) (NNS funds)) (VP (VBN tracked) (PP (IN by) (NP (NP (NNP IBC) (POS 's)) (NNP Money) (NNP Fund) (NNP Report))))))) (VP (VBD eased) (NP (NP (DT a) (NN fraction)) (PP (IN of) (NP (DT a) (NN percentage) (NN point)))) (PP (TO to) (NP (CD 8.45) (NN %))) (PP (IN from) (NP (NP (CD 8.47) (NN %)) (PP (IN for) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Tuesday)))))))) (. .)))
+
+(S1 (S (NP (NN Compound) (NNS yields)) (VP (VBP assume) (UCP (NP (NP (NN reinvestment)) (PP (IN of) (NP (NNS dividends)))) (CC and) (SBAR (IN that) (S (NP (DT the) (JJ current) (NN yield)) (VP (VBZ continues) (PP (IN for) (NP (DT a) (NN year)))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Average) (NN maturity)) (PP (IN of) (NP (NP (DT the) (NNS funds) (POS ')) (NNS investments)))) (VP (VBN lengthened) (PP (IN by) (NP (NP (NP (DT a) (NN day)) (TO to) (NP (CD 41) (NNS days))) (, ,) (NP (NP (DT the) (JJS longest)) (PP (IN since) (NP (JJ early) (NNP August)))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Donoghue) (POS 's))))) (. .)))
+
+(S1 (S (NP (JJR Longer) (NNS maturities)) (VP (VBP are) (VP (VBN thought) (S (VP (TO to) (VP (VB indicate) (NP (VBG declining) (NN interest) (NNS rates)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP permit) (S (NP (NN portfolio) (NNS managers)) (VP (TO to) (VP (VB retain) (NP (NP (RB relatively) (JJR higher) (NNS rates)) (PP (IN for) (NP (DT a) (JJR longer) (NN period))))))))))))))) (. .)))
+
+(S1 (S (NP (JJR Shorter) (NNS maturities)) (VP (VBP are) (VP (VBN considered) (NP (NP (DT a) (NN sign)) (PP (IN of) (NP (VBG rising) (NNS rates)))) (SBAR (IN because) (S (NP (NN portfolio) (NNS managers)) (VP (MD can) (VP (VB capture) (NP (JJR higher) (NNS rates)) (ADVP (RBR sooner)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ average) (NN maturity)) (PP (IN for) (NP (NP (NNS funds)) (ADJP (JJ open) (PP (ADVP (RB only)) (TO to) (NP (NNS institutions)))) (, ,) (VP (VBN considered) (PP (IN by) (NP (DT some))) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJR stronger) (NN indicator)) (SBAR (IN because) (S (NP (DT those) (NNS managers)) (VP (VBP watch) (NP (DT the) (NN market)) (ADVP (RB closely))))))))) (, ,)))) (VP (VBD reached) (NP (NP (NP (DT a) (JJ high) (NN point)) (PP (IN for) (NP (DT the) (NN year)))) (: --) (NP (CD 33) (NNS days)))) (. .)))
+
+(S1 (SINV (ADVP (RB Nevertheless)) (, ,) (VP (VBD said)) (NP (NP (NNP Brenda) (NNP Malizia) (NNP Negus)) (, ,) (NP (NP (NN editor)) (PP (IN of) (NP (NP (NNP Money) (NNP Fund) (NNP Report)) (, ,) (NP (NP (NNS yields)) (SBAR (S (VP (`` `) (VP (`` `) (VP (MD may) (VP (NN blip) (PRT (RP up)) (SBAR (RB again) (IN before) (S (NP (PRP they)) (VP (NN blip) (PRT (RP down))))))) ('' ')) ('' ') (PP (IN because) (IN of) (NP (NP (JJ recent) (NNS rises)) (PP (IN in) (NP (JJ short-term) (NN interest) (NNS rates))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN yield)) (PP (IN on) (NP (NP (JJ six-month) (NNP Treasury) (NNS bills)) (VP (VBN sold) (PP (IN at) (NP (NP (NNP Monday) (POS 's)) (NN auction))))))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBD rose) (PP (TO to) (NP (CD 8.04) (NN %))) (PP (IN from) (NP (CD 7.90) (NN %)))) (. .)))
+
+(S1 (S (PP (IN Despite) (NP (NP (JJ recent) (NNS declines)) (PP (IN in) (NP (NNS yields))))) (, ,) (NP (NNS investors)) (VP (VBP continue) (S (VP (TO to) (VP (VB pour) (NP (NN cash)) (PP (IN into) (NP (NN money) (NNS funds))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Assets)) (PP (IN of) (NP (DT the) (CD 400) (JJ taxable) (NNS funds)))) (VP (VBD grew) (PP (IN by) (NP (QP ($ $) (CD 1.5) (CD billion)))) (PP (IN during) (NP (DT the) (JJS latest) (NN week))) (, ,) (PP (TO to) (NP (QP ($ $) (CD 352.7) (CD billion))))) (. .)))
+
+(S1 (S (ADVP (RB Typically)) (, ,) (NP (NN money-fund) (NNS yields)) (VP (VBP beat) (NP (JJ comparable) (JJ short-term) (NNS investments)) (SBAR (IN because) (S (NP (NN portfolio) (NNS managers)) (VP (MD can) (VP (VP (VB vary) (NP (NNS maturities))) (CC and) (VP (VB go) (PP (IN after) (NP (DT the) (JJS highest) (NNS rates))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ top) (NN money) (NNS funds)) (VP (VBP are) (ADVP (RB currently)) (VP (VBG yielding) (NP (QP (RB well) (IN over) (CD 9)) (NN %)))) (. .)))
+
+(S1 (S (NP (NP (NNP Dreyfus) (JJ World-Wide) (NNP Dollar)) (, ,) (NP (DT the) (JJ top-yielding) (NN fund)) (, ,)) (VP (VBD had) (NP (NP (DT a) (JJ seven-day) (NN compound) (NN yield)) (PP (IN of) (NP (CD 9.37) (NN %)))) (PP (IN during) (NP (DT the) (JJS latest) (NN week))) (, ,) (ADVP (RB down) (PP (IN from) (NP (CD 9.45) (NN %)) (ADVP (NP (DT a) (NN week)) (RBR earlier))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VP (VBZ invests) (ADVP (RB heavily)) (PP (IN in) (NP (NP (JJ dollar-denominated) (NNS securities)) (ADVP (RB overseas))))) (CC and) (VP (VBZ is) (ADVP (RB currently)) (VP (VP (VBG waiving) (NP (NN management) (NNS fees))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ boosts) (NP (PRP$ its) (NN yield)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ average) (JJ seven-day) (JJ simple) (NN yield)) (PP (IN of) (NP (DT the) (CD 400) (NNS funds)))) (VP (VBD was) (NP (CD 8.12) (NN %)) (, ,) (ADVP (RB down) (PP (IN from) (NP (CD 8.14) (NN %))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ 30-day) (JJ simple) (NN yield)) (VP (VBD fell) (PP (TO to) (NP (DT an) (JJ average) (CD 8.19) (NN %))) (PP (IN from) (NP (CD 8.22) (NN %))))) (: ;) (S (NP (DT the) (JJ 30-day) (NN compound) (NN yield)) (VP (VBD slid) (PP (TO to) (NP (DT an) (JJ average) (CD 8.53) (NN %))) (PP (IN from) (NP (CD 8.56) (NN %))))) (. .)))
+

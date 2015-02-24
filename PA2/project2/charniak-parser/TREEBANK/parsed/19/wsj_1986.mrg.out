@@ -1,0 +1,112 @@
+(S1 (S (`` `) (NP (NP (`` `) (NP (DT The) (NNP New) (NN Crowd) (POS ')) ('' ') (PP (IN by) (NP (NP (NNP Judith) (NNP Ramsey) (NNP Ehrlich)) (CC and) (NP (NNP Barry) (NNP J.) (NNP Rehfeld))))) (PRN (-LRB- -LRB-) (NP (NNP Little)) (, ,) (NP (NNP Brown)) (, ,) (NP (CD 444) (NNS pages)) (, ,) (NP ($ $) (CD 19.95)) (-RRB- -RRB-)) (, ,)) (VP (VBZ describes) (NP (NP (DT the) (NN displacing)) (PP (IN of) (NP (NP (DT the) (JJ old) (`` `) (NX (`` `) (NP (PRP$ our) (NN crowd) (POS '))) ('' ')) (JJ Jewish) (NNP Wall) (NNP Street) (NN banking) (NNS grandees))) (PP (IN by) (NP (JJ such) (JJ new) (NN business) (NNS barons)))) (PP (IN as) (NP (NP (NNP Saul) (NNP Steinberg)) (, ,) (NP (NNP Carl) (NNP Icahn)) (, ,) (NP (NNP Sanford) (NNP Weill)) (CC and) (NP (NNP Bruce) (NNP Wasserstein))))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (JJ many) (JJ lively) (NNS stories)) (VP (VBP include) (NP (DT the) (NNP Gutfreund-Postel) (NN holiday) (NN cheer) (NN imbroglio))) (. .)))
+
+(S1 (S (NP (DT These) (CD two) (NNP New) (NN Crowd) (NNS families)) (VP (VBN lived) (PP (IN in) (NP (DT the) (JJ same) (NN apartment) (NN building))) (, ,) (PP (IN with) (NP (NP (DT the) (NNP Postel) (NN penthouse)) (VP (VBN perched) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (DT the) (NNP Gutfreund) (NN duplex))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN penthouse) (NN elevator)) (VP (VBD started) (PRT (RP up)) (PP (IN from) (NP (DT the) (NNP Gutfreund) (NN landing))))) (, ,) (CC and) (S (NP (NNP Susan) (NNP Gutfreund)) (VP (VBD used) (S (VP (TO to) (VP (VB turn) (PRT (RP off)) (NP (PRP$ its) (NN light)) (, ,) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN impression) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (NP (DT no) (JJR higher) (NN floor)))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Eventually)) (, ,) (NP (NNP Mr.) (NNP Postel)) (VP (VBD broke) (NP (PRP$ his) (NN toe)) (PP (IN in) (NP (DT the) (NN dark)))) (. .)))
+
+(S1 (S (RB Then) (NP (DT the) (NNPS Gutfreunds)) (VP (VBD determined) (S (VP (TO to) (VP (VB put) (PRT (RP up)) (NP (NP (DT a) (JJ 22-foot) (NNP Christmas) (NN tree)) (, ,) (VP (VBG weighing) (NP (NP (DT a) (NN quarter)) (PP (IN of) (NP (DT a) (NN ton))))) (, ,) (S (VP (TO to) (VP (VB amaze) (NP (PRP$ their) (NN holiday) (NNS guests)))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT this))) (, ,) (NP (DT a) (NN crane)) (VP (VBN needed) (S (VP (TO to) (VP (VB be) (VP (VBN mounted) (PP (IN on) (NP (NP (DT the) (NNPS Postels) (POS ')) (NNP terrace)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Postels)) (VP (VBD did) (RB not) (VP (VB give) (NP (NN permission)))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNP Gutfreund) (NNS workers)) (VP (VBD went) (ADVP (RB ahead)) (ADVP (RB anyway)) (, ,) (S (ADVP (RB only)) (VP (TO to) (VP (VB be) (ADJP (VBN captured) (`` `) (ADJP (`` `) (RB in) (JJ flagrante) ('' ')) ('' ') (PP (IN by) (NP (NP (NNP Joan) (NNP Postel)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD called) (S (NP (DT the) (NN police))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN Before) (S (NP (DT the) (NNPS Gutfreunds)) (ADVP (RB finally)) (VP (VBD left) (NP (NP (NP (DT this) (JJ unfriendly) (NN environment)) (PP (IN for) (NP (NP (DT a) (JJ prodigious) (NN duplex)) (PP (IN on) (NP (NNP Fifth) (NNP Avenue)))))) (CC and) (NP (DT an) (JJ 18th-century) (NN mansion))) (PP (IN with) (NP (NP (DT a) (ADJP (RB specially) (VBN excavated)) (ADJP (QP ($ $) (CD 1) (CD million))) (NN garage)) (PP (IN in) (NP (NNP Paris)))))))) (, ,) (NP (DT the) (NNP Postels)) (VP (VP (VBD had) (VP (VBN obtained) (NP (DT an) (NN injunction) (S (VP (TO to) (VP (VB prevent) (NP (NP (DT any) (JJ future) (NN hoisting)) (PP (IN of) (NP (NNS trees)))))))))) (, ,) (CC and) (VP (PP (IN in) (NP (DT a) (JJ neighborly) (NN spirit))) (VBD hit) (NP (PDT both) (NP (DT the) (NNPS Gutfreunds)) (CC and) (NP (NP (DT the) (NN building)) (PP (IN with) (NP (DT a) (ADJP (QP ($ $) (CD 35) (CD million))) (NN lawsuit))))))) (. .)))
+
+(S1 (S (NP (NP (NN Nothing)) (ADJP (RBR less))) (PRN (, ,) (S (NP (PRP it)) (VP (VBD seemed))) (, ,)) (VP (MD could) (VP (VB console) (NP (PRP them)) (PP (IN for) (NP (PRP$ their) (NNS traumas))))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB Where)) (SQ (VBD had) (NP (PDT all) (DT the) (NN money)) (VP (VBN come) (PP (IN from)))) (. ?)))
+
+(S1 (S (NP (DT The) (JJ young) (NNP John) (NNP Gutfreund)) (VP (VBD had) (VP (VBN been) (VP (VBN discovered) (PP (IN by) (NP (NP (NNP Billy) (NNP Salomon)) (PP (IN of) (NP (NP (NNP Salomon) (NNP Bros.)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD was) (ADVP (RB still)) (NP (DT a) (JJ bearded) (NN liberal))) (, ,) (CC and) (VP (VBD put) (S (VP (TO to) (VP (VB work) (PP (PP (IN as) (NP (DT a) (NN trader))) (, ,) (CC and) (RB then) (PP (IN as) (NP (DT a) (JJ rough-and-tumble) (NN syndicator)))))))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (`` `) (VP (VB Get) (PRT (RP off)) (NP (PRP$ your) (NN ..))) (. .)) (, ,) ('' ') (NP (PRP he)) (VP (MD would) (VP (VB bellow)))) (, ,) ('' ') ('' ') (VP (VBP say)) (NP (DT the) (NNS authors)) (. .)))
+
+(S1 (S (PP (VBG Rising) (PP (IN in) (NP (DT the) (NN firm)))) (, ,) (NP (PRP he)) (VP (VBD became) (ADJP (JJ powerful) (CC and) (JJ bland)) (, ,) (SBAR (IN though) (S (NP (NP (PRP$ his) (JJ new) (NN wife)) (, ,) (NP (NNP Susan)) (, ,)) (VP (VBD made) (NP (PRP him)) (NP (NN shine)) (PP (IN in) (NP (NP (DT the) (NN gossip) (NNS columns)) (PP (IN with) (NP (PRP$ her) (NX (NX (JJ profligate) (NN spending) (NNS habits)) (CC and) (NX (JJ flamboyant) (NNS frocks))))))))))) (. .)))
+
+(S1 (S (SBAR (IN After) (S (NP (PRP he)) (VP (VBD had) (VP (VBN been) (NP (NP (NN head)) (PP (IN of) (NP (DT the) (NN company)))) (PP (IN for) (NP (QP (CD 3) (CD 1\/2)) (NNS years))))))) (, ,) (NP (NP (PRP he)) (CC and) (NP (PRP$ his) (NNS partners))) (VP (VBD sold) (NP (PRP it)) (PP (TO to) (NP (NP (NNP Phibro)) (, ,) (NP (DT a) (JJ powerful) (NN commodity) (NN trading) (NN outfit)) (, ,))) (PP (IN for) (NP (NP (QP ($ $) (CD 550) (CD million))) (PP (IN in) (NP (NNP Phibro) (NN stock)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Limited) (NN partner) (NNP Billy) (NNP Salomon)) (, ,) (SBAR (SBAR (WHNP (WP$ whose) (NN family) (NN name)) (S (VP (VBD had) (VP (VBN been) (PP (IN on) (NP (NP (DT the) (NN firm) (POS 's)) (NN door))) (PP (IN for) (NP (CD 70) (NNS years))))))) (CC and) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN hoped) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADVP (RB there)) (ADVP (RB forever))))))))))) (, ,)) (VP (VBD was) (RB not) (VP (VBN consulted))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Gutfreund)) (VP (VBD collected) (NP (QP ($ $) (CD 32) (CD million))) (, ,) (SBAR (IN while) (S (NP (NNP Billy) (NNP Salomon)) (VP (VBD got) (NP (NP (QP ($ $) (CD 10) (CD million))) (, ,) (ADJP (ADJP (RB much) (JJR less)) (PP (IN than) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD had) (VP (VBN conducted) (NP (DT the) (NN sale))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBD felt) (VP (VBN betrayed))) (, ,) ('' ')) ('' ') (NP (PRP he)) (ADVP (RB later)) (VP (VBD said)) (. .)))
+
+(S1 (S (ADVP (JJR Worse)) (, ,) (NP (NP (NNP Salomon) (POS 's)) (NN timing)) (VP (VBD had) (VP (VBN been) (PRT (RP off)))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NNS profits)) (PRN (, ,) (PP (IN unlike) (NP (NNP Phibro) (POS 's))) (, ,)) (VP (VP (VBD soared) (PP (IN over) (NP (DT the) (JJ next) (CD two) (NNS years)))) (, ,) (CC and) (VP (VBD had) (SBAR (S (NP (PRP it)) (VP (VBD held) (PRT (RP out)) (, ,) (SBAR (S (NP (NNP Salomon)) (VP (MD could) (VP (VB have) (VP (VBN gotten) (NP (DT an) (ADJP (RB even) (JJR bigger)) (NN bundle)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN book)) (ADVP (RB also)) (VP (VBZ recounts) (NP (NP (DT the) (RB not) (JJ dissimilar) (NNS maneuvers)) (VP (VBG surrounding) (NP (NP (DT the) (VBG changing)) (PP (IN of) (NP (NP (DT the) (NN guard)) (PP (IN at) (NP (NP (NNP Lehman) (NNP Bros.)) (CC and) (NP (JJ other) (JJ grand) (JJ old) (NNS firms)))))))))) (. .)))
+
+(S1 (FRAG (ADVP (RB Often)) (SBAR (S (NP (DT the) (JJ genteel) (, ,) (JJ conservative) (, ,) (JJ long-term-oriented) (NN investment) (NNS bankers)) (VP (VBD were) (VP (VBN displaced) (PP (IN by) (NP (NN crude) (NNS traders))))))) (: :) (`` `) (S (`` `) (S (SBAR (WHADVP (WRB When)) (S (VP (VBN angered)))) (, ,) (NP (PRP he)) (VP (VBD cursed) (ADVP (ADVP (RB so) (RB forcefully)) (SBAR (IN that) (S (S (NP (PRP$ his) (NN face)) (VP (VBD reddened))) (CC and) (S (NP (PRP$ his) (JJ pale-blue) (NNS eyes)) (VP (VBD narrowed) (PP (IN into) (NP (JJ tiny) (NNS slits)))))))))) (, ,) ('' ') ('' ') (NP (DT the) (NNS authors)) (VP (VBP say) (PP (IN of) (NP (NP (NNP Lehman) (POS 's)) (NNP Lewis) (NNP Glucksman))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT The) (JJR earlier) (NN generation)) (PP (IN of) (`` `) (NP (`` `) (NP (PRP$ our) (NN crowd) (POS ')) ('' ') (NNS bankers)))) (: --) (NP (NNP Belmonts) (, ,) (NNP Warburgs) (, ,) (NNP Lehmans) (, ,) (NNP Baches) (CC and) (NNPS Schiffs)) (: --)) (VP (VBD had) (VP (VBD stressed) (PP (IN above) (NP (DT all) (NN probity) (, ,) (NN tradition) (, ,) (NN continuity) (CC and) (NN reputation))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD were) (NP (NP (JJ old-fashioned) (JJ elegant) (NNS gentlemen)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD happened) (S (VP (TO to) (VP (VB be) (PP (IN of) (NP (ADJP (NNP German) (NNP Jewish)) (NN extraction))))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (NP (DT the) (JJ harsh) (NN world)) (PP (IN of) (NP (NP (NN today) (POS 's)) (NNP Wall) (NNP Street))))) (NP (PRP they)) (VP (VBP have) (VP (VBN lost) (PRT (RP out)) (PP (TO to) (NP (ADJP (ADJP (RBR more) (JJ aggressive)) (CC and) (ADJP (RB sometimes) (RBR less) (JJ scrupulous))) (NNS successors))))) (. .)))
+
+(S1 (S (NP (DT The) (NN cuckoo)) (VP (VP (VBZ prefers) (NP (NP (DT the) (NNS nests)) (PP (IN of) (NP (JJ other) (NNS birds))))) (CC and) (VP (VBZ heaves) (PRT (RP out)) (NP (PRP$ their) (NNS eggs)))) (. .)))
+
+(S1 (S (CC But) (S (NP (DT the) (JJ old) (NN guard)) (VP (VBD hired) (NP (DT the) (NNP New) (NN Crowd)) (NP (NNS people)))) (: :) (S (NP (PRP It)) (VP (VBD brought) (PRT (RP in)) (NP (PRP$ its) (JJ own) (NNS cuckoos)))) (. .)))
+
+(S1 (S (RB So) (, ,) (SBAR (IN as) (S (NP (DT the) (JJ Old) (NN Crowd)) (VP (VBD toppled) (PP (IN from) (NP (DT the) (NN branch)))))) (, ,) (NP (PRP it)) (VP (MD should) (RB n't) (VP (VB have) (VP (VBN been) (ADJP (RB too) (JJ surprised))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ old) (NN guard)) (VP (VBD had) (NP (NP (DT every) (NN right)) (PRN (, ,) (ADVP (RB however)) (, ,)) (SBAR (S (VP (TO to) (VP (NN disdain) (NP (NP (NP (DT the) (NNS newcomers) (POS ')) (JJ new) (NNS ways)) (PP (IN of) (S (VP (VBG making) (NP (NN money))))) (, ,) (PP (JJ such) (IN as) (NP (NN greenmail)))))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (S (NP (NP (DT A) (NNP Fortune) (NN article)) (PP (IN on) (NP (NNP Saul) (NNP Steinberg)))) (VP (VBD was) (VP (VBN entitled)))) (, ,) (FRAG (`` `) (FRAG (`` `) (NP (NP (NN Fear)) (CC and) (NP (NP (NN Loathing)) (PP (IN in) (NP (DT the) (JJ Corporate) (NNS Boardrooms))))) (. .) ('' ')) ('' ') (-RRB- -RRB-))))
+
+(S1 (S (NP (PRP$ Their) (JJ other) (NN staple)) (VP (VBZ has) (VP (VBN been) (UCP (NP (JJ corporate) (NNS takeovers)) (, ,) (ADJP (RB often) (JJ hostile)) (CC and) (VP (VBN financed) (PP (IN by) (NP (NN junk) (NNS bonds))))))) (. .)))
+
+(S1 (S (NP (JJ Hostile) (NNS takeovers)) (VP (VBP are) (NP (RB quite) (DT a) (JJ new) (NN phenomenon))) (. .)))
+
+(S1 (S (S (ADVP (RB Sometimes)) (NP (PRP they)) (VP (VBP are) (ADJP (JJ constructive)))) (, ,) (CC but) (FRAG (ADVP (RB often)) (ADVP (RB not))) (. .)))
+
+(S1 (S (ADVP (RB First)) (, ,) (PP (IN by) (S (VP (VBG making) (S (NP (NN management)) (VP (VB focus) (PP (IN on) (NP (JJ short-term) (NNS results)))))))) (, ,) (NP (PRP they)) (VP (VBP inhibit) (VP (VBG building) (PP (IN for) (NP (DT the) (NN future))) (: --) (NP (NP (RB just) (DT the) (NN opposite)) (PP (IN of) (NP (NNP Japan)))))) (. .)))
+
+(S1 (S (ADVP (JJ Second)) (, ,) (S (NP (NP (DT a) (JJ long-term) (NN shareholder)) (PP (IN of) (NP (DT a) (JJ good) (NN company)))) (VP (MD need) (RB n't) (VP (VB worry) (ADVP (RB too) (RB much)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN stock) (NN price)) (VP (VBZ drops) (ADVP (RB temporarily)))))))) (: :) (S (NP (PRP It)) (VP (MD will) (VP (VB bounce) (ADVP (RB back))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN if) (S (NP (DT a) (NN raider)) (VP (VBZ takes) (PRT (RP over)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN stock)) (VP (VBZ is) (ADJP (JJ weak)))))))) (, ,) (NP (DT the) (NN shareholder)) (ADVP (RB never)) (VP (VBZ gets) (NP (PRP$ his) (NN recovery))) (. .)))
+
+(S1 (S (NP (DT The) (NNS raiders)) (, ,) (ADVP (RB meanwhile)) (, ,) (VP (VBP have) (VP (VBN evolved) (NP (PRP$ their) (JJ own) (NN pattern)) (PP (IN for) (S (VP (VBG spending) (NP (PRP$ their) (JJ new) (NNS millions))))))) (. .)))
+
+(S1 (S (S (SBAR (IN As) (S (VP (VBN described) (PP (IN in) (`` `) (NP (`` `) (NP (DT The) (JJ New) (NN Crowd)) (, ,) ('' ')) ('' '))))) (NP (PRP they)) (VP (VBP take) (PRT (RP on)) (NP (JJ ambitious) (JJ new) (NNS wives)))) (, ,) (NP (NP (NN move)) (PP (TO to) (NP (NP (NP (NP (NNP Greenwich)) (, ,) (NP (NNP Conn.)) (, ,)) (CC or) (NP (NNP Bedford))) (, ,) (NP (NNP N.Y.)) (, ,)))) (VP (VP (VB buy) (NP (NN OK) (NNS pictures))) (, ,) (CC and) (VP (VB let) (S (NP (PRP$ their) (NNS wives)) (VP (VBP share) (NP (NP (DT the) (NN wealth)) (PP (IN with) (NP (NNS decorators)))))))) (. .)))
+
+(S1 (S (S (VP (VBG Having) (VP (VBN donated) (ADVP (RB heavily)) (PP (TO to) (NP (NNS museums)))))) (, ,) (NP (PRP they)) (VP (VBP demand) (NP (NP (DT a) (NN place)) (PP (IN on) (NP (PRP$ their) (NNS boards))))) (. .)))
+
+(S1 (S (NP (DT The) (NN book)) (VP (VBZ is) (VP (VBG patronizing) (PP (IN about) (NP (NP (DT this) (JJ nouveau) (NN riche) (NN struggle)) (PP (IN for) (NP (NN respectability))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (PRP$ its) (JJ tawdry) (NNS aspects))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (PP (IN on) (NP (NN balance))) (, ,) (NP (DT the) (NN charity) (NN game)) (VP (VBZ helps) (NP (NNP America))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (NP (DT the) (NN money)))))) (VP (VBP do) (RB n't) (VP (VB get) (ADJP (VBN involved) (PP (IN with) (NP (NP (DT the) (NNS museums)) (CC and) (NP (DT the) (NNS charities))))))))) (, ,) (ADVP (RB then)) (NP (NNP City) (NNP Hall)) (VP (MD will) (VP (VB do) (NP (PRP it)) (, ,) (ADVP (RB badly)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ has) (VP (VBN been) (ADJP (RB rightly) (JJ observed) (SBAR (IN that) (S (NP (NP (DT the) (JJ main) (NN thing)) (ADJP (JJ wrong) (PP (IN with) (NP (JJ tainted) (NN money))))) (VP (VBZ is) (, ,) (S (NP (NN t)) ('' ') (VP (VBP ai) (RB nt) (ADJP (RB enough) (PP (IN of) (NP (PRP it)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN handful)) (PP (IN of) (NP (DT the) (NNP New) (NN Crowd) (NNS operators)))) (VP (VP (VBP have) (VP (VBN crossed) (NP (DT the) (NN line)) (PP (PP (IN from) (NP (DT the) (JJ immoral))) (PP (TO to) (NP (DT the) (JJ illegal)))))) (, ,) (CC and) (VP (VBP have) (VP (VBN ended) (PRT (RP up)) (PP (IN in) (NP (NP (DT the) (NN slammer)) (CC or) (S (VP (VBG paying) (NP (JJ huge) (NNS fines))))))))) (: :)))
+
+(S1 (NP (NP (NNP Ivan) (NNP Boesky)) (, ,) (NP (NP (NNP Dennis) (NNP Levine)) (, ,) (NP (NNP Martin) (NNP Siegel)) (, ,) (NP (NNP Victor) (CC and) (NNP Steven) (NNP Posner)) (, ,) (CC and) (ADVP (RB now)) (NP (NNP Michael) (NNP Milken)) (CC and) (ADVP (RB perhaps)) (NP (NNP Leona) (NNP Helmsley))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ glitzy) (NN office)) (SBAR (WHNP (WDT that)) (S (NP (NNP Ivan) (NNP Boesky)) (VP (VBD vacated) (PP (IN for) (NP (DT a) (NN prison) (NN cell))))))) (VP (VBD had) (ADVP (RB previously)) (VP (VBN contained) (NP (NP (NP (NN commodity) (NNS operators)) (NX (NX (NNP Marc) (NNP Rich)) (CC and) (NX (`` `) (NP (`` `) (NP (NNP Pinky) (POS ')) ('' ')) (NNP Green)))) (, ,) (NP (NP (NN today) (NNS fugitives)) (PP (IN from) (NP (NP (DT a) (JJ potential) (NN century)) (ADVP (RB apiece)) (PP (IN of) (NP (NN jail) (NNS sentences))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ Old) (NN Crowd)) (VP (VBZ is) (ADJP (RB deeply) (JJ concerned) (PP (IN by) (NP (NP (DT the) (NN backlash)) (PP (IN from) (NP (PDT all) (DT this))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (DT the) (NN phenomenon)) (VP (VBZ is) (RB not) (ADJP (RB specifically) (JJ Jewish))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ has) (ADVP (RB always)) (VP (VBN been) (ADJP (JJ true)) (SBAR (SBAR (IN that) (S (NP (NP (DT those)) (PP (IN outside) (NP (DT the) (NN club)))) (VP (VBP want) (S (VP (TO to) (VP (VB climb) (ADVP (RB in)))))))) (, ,) (CC and) (SBAR (IN that) (S (NP (DT a) (JJ few)) (VP (MD will) (VP (VB cut) (NP (NNS corners)) (PP (IN in) (NP (DT the) (NN process)))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (ADJP (RB pretty) (JJ seamy)) (NN stuff)) (VP (VP (VBN built) (NP (NP (NP (DT the) (JJ turn-of-the-century) (NNS families) (POS ')) (NNP Fifth) (NNP Avenue)) (CC and) (NP (NNP Newport) (NNP palazzi)))) (CC and) (VP (VBN endowed) (NP (NP (PRP$ their) (NNS daughters) (POS ')) (NNS weddings)) (PP (TO to) (NP (JJ foreign) (NNS noblemen))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Boesky)) (VP (VBD was) (NP (NP (NP (DT a) (NN piker)) (PP (VBN compared) (PP (TO to) (NP (NP (NNP Jay) (NNP Gould)) (CC and) (NP (NNP Jim) (NNP Fiske)))))) (, ,) (CC and) (NP (NP (NNP Commodore) (NNP Vanderbilt) (VBD thought) (NN nothing)) (PP (IN of) (NP (NP (VBG bribing) (NNS judges)) (CC and) (NP (NNS legislators))))))) (. .)))
+
+(S1 (SBARQ (RB So) (WHNP (WP who)) (SQ (VP (VBZ knows))) (. ?)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NN generation) (QP (CC or) (CD two)))) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNP New) (NN Crowd)))) (VP (MD may) (VP (VB attain) (NP (JJ true) (NN respectability)) (, ,) (ADVP (RB perhaps)) (S (VP (TO to) (VP (VB be) (VP (VBN displaced) (PP (IN in) (NP (NN turn))) (PP (IN by) (NP (NP (DT a) (JJ later) (NN flock)) (PP (IN of) (NP (JJ unscrupulous) (NNS raptors))))))))))) (. .)))
+
+(S1 (S (CC Or) (ADVP (RB perhaps)) (NP (NP (NNP Wall) (NNP Street)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ has) (VP (VBN suffered) (NP (RB enough)))))) (, ,)) (VP (MD will) (VP (VB realize) (SBAR (IN that) (S (VP (VB finance) (VP (VBZ is) (NP (DT a) (NN service) (NN industry))) (, ,) (CC and) (VP (VB change) (NP (PRP$ its) (NN ethos)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Train)) (VP (VBZ is) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Train)) (, ,) (NP (NNP Smith) (NNP Investment) (NNP Counsel)) (, ,) (NP (NNP New) (NNP York)))))) (. .)))
+

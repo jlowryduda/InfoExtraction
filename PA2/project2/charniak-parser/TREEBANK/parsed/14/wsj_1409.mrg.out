@@ -1,0 +1,46 @@
+(S1 (S (NP (NNS Bureaucrats)) (VP (MD may) (VP (VB deserve) (NP (PRP$ their) (JJ bad) (NN reputation)) (, ,) (PP (IN after) (NP (DT all))))) (. .)))
+
+(S1 (S (NP (NP (NNP Matthew) (NNP Lesko)) (, ,) (NP (NP (NN something)) (PP (IN of) (NP (NP (DT a) (JJ professional) (NN defender)) (PP (IN of) (NP (NN government)))))) (, ,)) (VP (VBD thought) (SBAR (S (NP (PRP he)) (VP (VBD had) (NP (DT a) (JJ sure-fire) (NN winner)) (NP (JJ last) (NN summer)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD offered) (NP ($ $) (CD 5,000)) (PP (IN for) (NP (NP (DT the) (JJS best)) (`` `) (NX (`` `) (NP (JJ verifiable) (NN story)) (PP (IN of) (NP (NP (CD 250) (NNS words) (QP (CC or) (JJR less))) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (NN government) (NN bureaucrat)) (VP (VBD helped) (NP (PRP you)))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBD sent) (PRT (RP out)) (NP (NP (NNS thousands)) (PP (IN of) (NP (NP (NN news) (NNS releases)) (PP (IN from) (NP (PRP$ his) (NAC (NNP Kensington) (, ,) (NNP Md.) (, ,)) (NN office))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD plugged) (NP (DT the) (NN contest)) (PP (IN on) (NP (NP (NNP Larry) (NNP King) (POS 's)) (NN radio) (NN show))) (, ,) (PP (PP (IN on) (NP (NP (NNP Pat) (NNP Sajak) (POS 's)) (NN television) (VB show))) (CC and) (PP (IN on) (NP (DT the) (NNP C-SPAN) (NN cable) (NN television) (NN network))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD talked) (PP (IN about) (NP (PRP it))) (PP (IN in) (NP (NP (DT every) (NN speech)) (SBAR (S (NP (PRP he)) (VP (VBD made) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD roamed) (S (NP (DT the) (NN country)) (VP (VBG promoting) (NP (NP (PRP$ his) (NNS books)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VB dispense) (NP (NP (JJ handy) (JJ how-to) (NN advice)) (PP (IN on) (S (VP (VBG using) (NP (NN government) (NN information)) (PP (IN for) (NP (NN fun) (CC and) (NN profit)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lesko)) (VP (VBD figured) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB be) (VP (VBN flooded) (PP (IN with) (NP (NNS entries))) (PP (IN by) (NP (RB now))))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (DT all))) (, ,) (NP (PRP he)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (PP (IN like) (NP (QP (CD 15) (CD million)) (NNS bureaucrats))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC And) (PP (IN in) (NP (NP (NN addition)) (PP (TO to) (NP (DT the) ($ $) (CD 5,000))))) (, ,) (NP (PRP he)) (VP (VBZ has) (VP (VP (VBN promised) (NP (DT the) (NN winner)) (NP (DT a) (`` `) (S (`` `) (NP (PRP$ My) (JJ Favorite) (NN Bureaucrat)) ('' ')) ('' ') (NN plaque))) (CC and) (VP (VBD offered) (NP (NP (DT each)) (PP (IN of) (NP (CD two) (NN runners-up)))) (NP ($ $) (CD 500))))) (. .)))
+
+(S1 (S (ADVP (RB So) (RB far)) (, ,) (ADVP (RB though)) (, ,) (NP (NNP Mr.) (NNP Lesko)) (VP (VBZ has) (VP (VBN received) (NP (QP (RB only) (CD one)) (NN entry)))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB make) (S (NP (NNS matters)) (ADJP (JJR worse)))))) (, ,) (NP (DT the) (JJ lone) (NN nomination)) (VP (VBD came) (PP (IN from) (NP (NP (DT another) (NN bureaucrat)) (: :) (NP (NP (DT A) (NN woman)) (PP (IN from) (NP (DT the) (NNP New) (NNP York) (NNP State) (NNP Department))) (PP (IN of) (NP (NNP Taxation) (CC and) (NNP Finance))) (SBAR (WHNP (WP who)) (S (VP (VBD nominated) (S (NP (PRP$ her) (NN boss)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Lesko)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBG making) (NP (DT the) (NNS rules)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBZ goes)))))))) (, ,)) (VP (VBZ has) (VP (VBN determined) (SBAR (IN that) (S (NP (NNS bureaucrats)) (VP (VBP are) (ADJP (JJ eligible) (PP (IN for) (NP (NP (NN nomination)) (PP (IN by) (NP (JJ other) (NNS bureaucrats))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB prefer) (S (VP (TO to) (VP (VB get) (NP (NP (NNS nominations)) (PP (IN from) (NP (JJ rank-and-file) (NNS folks)))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ admits) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ has) (RB n't) (VP (VBN had) (NP (JJ much) (NN luck)) (S (VP (VBG generating) (NP (NP (JJ free) (NN publicity)) (PP (IN for) (NP (PRP$ his) (NN contest))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Newspapers)) (, ,) (PP (VBG including) (NP (DT this) (CD one))) (, ,)) (VP (VBP have) (VP (ADVP (RB generally)) (VBN ignored) (NP (PRP$ his) (NN news) (NNS releases)))) (. .)))
+
+(S1 (S (NP (NN Talk) (NN show)) (VP (VBZ hosts) (VP (ADVP (RB quickly)) (VB change) (NP (DT the) (NN topic)))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Mr.) (NNP Lesko) (POS 's)) (NN staff)) (VP (VBZ is) (VP (VBG beginning) (S (VP (TO to) (VP (VB wonder) (SBAR (IN whether) (S (NP (EX there)) (VP (VBZ is) (RB n't) (NP (NP (DT some) (JJR larger) (NN phenomenon)) (VP (VBG foiling) (NP (DT the) (NN contest)))))))))))) (. .)))
+
+(S1 (SINV (`` `) (SBARQ (`` `) (SQ (VBZ Is) (NP (DT the) (NN government)) (VP (RB not) (VBG helping) (NP (NN anybody)))) (. ?) ('' ')) ('' ') (VP (VBZ asks)) (NP (NP (NNP Toni) (NNP Murray)) (, ,) (NP (NP (DT an) (NN assistant)) (PP (TO to) (NP (NNP Mr.) (NNP Lesko))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Lesko)) (NP (PRP himself))) (VP (VBZ is) (RB n't) (ADVP (RB yet)) (VP (VBN prepared) (S (VP (TO to) (VP (VB accept) (NP (DT that) (NN explanation))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNS People)) (VP (VBP hate) (S (VP (TO to) (VP (VB write))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (RB Maybe) (NNS people)) (VP (VBP do) (RB n't) (VP (VB believe) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB give) (NP (DT this) (NN money)) (PRT (RP away)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Maybe)) (NP (NNPS Americans)) (VP (VBP are) (ADVP (RB just)) (ADJP (ADJP (RB so) (VBN annoyed)) (PP (IN with) (NP (NN government))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (RB n't) (ADJP (JJ interested) (PP (IN in) (S (VP (VBG admitting) (SBAR (IN that) (S (NP (NNS bureaucrats)) (VP (VBP come) (PP (IN in) (ADJP (JJ handy))) (ADVP (RB once)) (PP (IN in) (NP (DT a) (NN while))))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (PRP he)) (VP (VBD sponsored) (NP (DT a) (NN contest)) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (NN bureaucrat)) (VP (VBD mishandled) (NP (NN something))))))))) (PRN (, ,) (S (NP (NNP Mr.) (NNP Lesko)) (VP (VBZ admits))) (, ,) (`` `)) (`` `) (NP (PRP I)) (VP (MD 'd) (VP (VB get) (NP (CD 5,000) (NNS entries)))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Now)) (NP (EX there)) (VP (VBZ 's) (NP (DT an) (NN idea))) (. .)))
+

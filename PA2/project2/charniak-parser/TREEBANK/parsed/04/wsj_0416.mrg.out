@@ -1,0 +1,86 @@
+(S1 (S (NP (NNP Hospital) (NNP Regulation)) (VP (VBZ Sparks) (NP (NNP Kentucky) (NN Feud)))))
+
+(S1 (NP (SBAR (WHNP (WDT WHICH)) (S (VP (VBZ IS) (NP (NP (DT the) (JJS best) (NN medicine)) (PP (IN for) (NP (JJ runaway) (NN health) (NNS costs))))))) (: :) (NP (NP (NN competition)) (CC or) (NP (NN regulation))) (. ?)))
+
+(S1 (S (NP (DT The) (NN question)) (VP (VBZ is) (PP (IN at) (NP (NP (DT the) (NN root)) (PP (IN of) (NP (NP (DT a) (NN brawl)) (PP (IN between) (NP (NP (NP (NNP Humana) (NNP Inc.)) (, ,) (NP (DT the) (JJ big) (JJ for-profit) (NN hospital) (CC and) (NN insurance) (NN company)) (, ,)) (CC and) (NP (NP (PRP$ its) (JJ not-for-profit) (NNS brethren)) (PP (IN in) (NP (NP (PRP$ its) (NN home) (NN state)) (PP (IN of) (NP (NNP Kentucky))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN battle)) (VP (VBZ focuses) (PP (IN on) (NP (NP (NP (DT the) (NN state) (POS 's)) (JJ certificate-of-need) (NN law)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ regulates) (NP (NP (NN investment)) (PP (IN in) (NP (JJ new) (JJ medical) (NN technology)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN law)) (VP (VBZ has) (VP (VBN prevented) (NP (NP (QP ($ $) (CD 216) (CD million))) (PP (IN of) (NP (JJ unnecessary) (NNS expenditures)))) (PP (IN since) (NP (CD 1986))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNP William) (NNP S.) (NNP Conn)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (DT the) (NNP Kentucky) (NNP Hospital) (NNP Association))))))))) (. .)))
+
+(S1 (S (CC But) (PP (VBG according) (PP (TO to) (NP (NP (NNP David) (NNP Jones)) (, ,) (NP (NP (NNP Humana) (POS 's)) (JJ chief) (NN executive))))) (, ,) (NP (PRP it)) (VP (VP (VBZ promotes) (NP (NN technology) (NNS monopolies))) (, ,) (VP (VBZ stifles) (NP (NN innovation))) (CC and) (VP (VBZ raises) (NP (NNS prices)))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NN Legislature)) (VP (VBZ does) (RB n't) (VP (VB repeal) (NP (NP (DT the) (NN law)) (, ,) (ADJP (JJ due) (PP (IN for) (NP (NN revision))))) (PP (IN in) (NP (CD 1990))))))) (, ,) (NP (NNP Mr.) (NNP Jones)) (VP (VBZ says) (SBAR (S (NP (NNP Humana)) (VP (MD may) (VP (VB move) (NP (NP (PRP$ its) (NN insurance) (NNS operations)) (, ,) (PP (VBG including) (NP (NP (CD 3,000) (NNS jobs)) (PP (IN in) (NP (NNP Louisville))))) (, ,)) (PP (TO to) (NP (DT another) (NN state)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBZ complains) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD paid) (NP (QP ($ $) (CD 10) (CD million))) (PP (TO to) (NP (JJ non-Humana) (NNS hospitals))) (PP (IN in) (NP (PRP$ its) (JJS latest) (JJ fiscal) (NN year))) (PP (IN for) (NP (NP (NNS services)) (VP (VBN provided) (PP (TO to) (NP (PRP$ its) (NN insurance) (NN plan) (NNS members)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Humana)) (VP (VBZ says) (SBAR (S (NP (PRP$ its) (JJ own) (NNS facilities)) (VP (MD could) (VP (VB serve) (NP (NP (PRP$ its) (NN insured)) (PP (IN for) (NP (JJR less)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBD were) (VP (ADVP (RB properly)) (VBN equipped)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Conn)) (VP (VBZ charges) (SBAR (IN that) (S (NP (NP (NNP Humana) (POS 's)) (JJ own) (NNS actions)) (VP (VBP undermine) (NP (PRP$ its) (NN argument)))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NP (DT a) (NN hospital)) (PP (IN in) (NP (NNP Lexington)))) (VP (VBN installed) (NP (DT a) (NN lithotripter)) (NP (JJ last) (NN year))))) (, ,) (NP (NP (NN demand)) (PP (IN for) (NP (NP (DT a) (JJ similar) (JJ kidney-stone) (VBG smashing) (NN machine)) (PP (IN at) (NP (NP (DT a) (NNP Humana) (NNP hospital)) (PP (IN in) (NP (NNP Louisville)))))))) (VP (VBD fell) (NP (CD 34) (NN %))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Humana) (NN hospital)) (VP (VBD responded) (PP (IN by) (S (VP (VBG jacking) (PRT (RP up)) (NP (NNS prices)) (S (VP (TO to) (VP (VB make) (PRT (RP up)) (NP (UCP (PP (IN for) (NP (NP (VBN lost) (NN revenue)) (PRN (, ,) (S (NP (NNP Mr.) (NNP Conn)) (VP (VBZ says))) (, ,)))) (CC and) (ADVP (RB now))) (NNS charges)) (ADVP (ADVP (RB as) (RB much)) (PP (IN as) (NP ($ $) (CD 8,000)))) (PP (IN for) (NP (NP (DT the) (NN procedure)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ costs) (NP (NP (QP (RB only) (IN about) ($ $) (CD 3,500))) (PP (IN in) (NP (NNP Lexington)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Humana)) (VP (VBZ contends) (SBAR (SBAR (IN that) (S (NP ($ $) (CD 8,000)) (VP (VBZ represents) (NP (DT an) (JJ extreme) (NN case))))) (CC and) (SBAR (IN that) (S (NP (NP (PRP$ its) (JJ regular) (NN charge)) (PP (IN for) (NP (NN lithotripsy)))) (VP (VBZ is) (NP ($ $) (CD 4,900))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (NP (DT another) (NN hospital) (POS 's)) (NN proposal)) (PP (IN for) (NP (DT a) (NN new-generation) (NN lithotripter)))) (VP (VBZ is) (VP (VBG pending) (PP (IN before) (NP (NP (DT the) (NN board)) (SBAR (WHNP (WDT that)) (S (VP (VBZ administers) (NP (DT the) (JJ certificate-of-need) (NN law))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Humana)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ wants) (S (VP (TO to) (VP (VB acquire) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ new) (NNS machines)))) (NP (PRP itself)))))))) (, ,)) (VP (VBZ is) (PP (IN on) (NP (DT the) (NN record))) (SBAR (IN as) (S (VP (VBN opposed) (PP (TO to) (NP (DT the) (NN proposal))))))) (. .)))
+
+(S1 (S (NP (JJ Debt-Burdened) (NNS Doctors)) (VP (VBP Seek) (S (NP (NNP Financial) (NNP Security))))))
+
+(S1 (S (NP (JJ HEALTH-CARE) (NNS experts)) (VP (VBP have) (ADVP (RB long)) (VP (VBN worried) (SBAR (IN that) (S (NP (NP (JJ young) (NNS doctors)) (VP (VBG emerging) (PP (IN from) (NP (JJ medical) (NN school))) (PP (IN with) (NP (NP (DT a) (NN mountain)) (PP (IN of) (NP (NN debt))))))) (VP (MD will) (VP (VB choose) (NP (NP (NNS careers)) (PP (IN in) (NP (NP (JJ high-paying) (NNS specialties)) (PP (RB instead) (IN of) (NP (NP (JJ primary) (NN care)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJR more) (NNS physicians)) (VP (VBP are) (VP (VBN needed) (ADVP (RBS most))))))))))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Now)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ new) (NN wrinkle)) (PP (IN in) (SBAR (WHNP (WP what)) (S (NP (JJ young) (NNS doctors)) (VP (VBP want)))))))) (: :) (S (NP (NP (QP (JJR More) (IN than) (NN half))) (PP (IN of) (NP (NP (CD 300) (NNS residents)) (VP (VBG responding) (PP (TO to) (NP (JJ recent) (NN survey))))))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD 'd) (VP (VB prefer) (NP (NP (DT a) (VBN guaranteed) (NN salary)) (PP (IN over) (NP (JJ traditional) (JJ fee-for-service) (NN compensation)))) (PP (IN in) (NP (PRP$ their) (JJ first) (JJ professional) (NN position))))))))) (. .)))
+
+(S1 (S (CC And) (NP (CD 81) (NN %)) (VP (VBN preferred) (NP (NP (DT a) (NN group) (NN practice)) (CC or) (NP (NN health) (NN maintenance) (NN organization))) (, ,) (SBAR (IN while) (S (NP (QP (RB just) (CD 11)) (NN %)) (VP (VBD favored) (NP (NN solo) (NN practice)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (ADVP (NP (CD Ten) (NNS years)) (RB ago)) (, ,) (NP (DT a) (NN physician)) (VP (MD would) (VP (VP (VB go) (PP (TO to) (NP (DT a) (NN town)))) (CC and) (VP (VB take) (PRT (RP out)) (NP (DT a) (NN loan) (PRN (-LRB- -LRB-) (S (VP (TO to) (VP (VB start) (NP (DT a) (NN practice))))) (-RRB- -RRB-)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP James) (NNP Merritt)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Merritt) (, ,) (NNP Hawkins) (CC &) (NNPS Associates)) (, ,) (NP (NP (DT an) (NAC (NNP Irvine) (, ,) (NNP Calif.) (, ,)) (NN physician) (NN recruiter)) (SBAR (WHNP (WDT that)) (S (VP (VBD conducted) (NP (DT the) (NN survey)))))))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP They)) (VP (MD wo) (RB n't) (VP (VB do) (NP (DT that) (ADVP (RB very) (RB often)) (NN today)) (ADVP (IN at) (DT all))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP 're) (VP (VBG looking) (PP (IN for) (NP (NP (NN something)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (RB very) (JJ safe))))))))) (. .) ('' ') ('' ')))
+
+(S1 (SINV (S (NP (NP (DT The) (NNS numbers)) (PP (IN behind) (NP (JJ such) (NNS fears)))) (: :) (NP (NP (DT The) (JJ average) (NN debt)) (PP (IN of) (NP (NP (JJ medical) (NN school) (NNS graduates)) (SBAR (WHNP (WP who)) (S (VP (VBD borrowed) (S (VP (TO to) (VP (VB pay) (PP (IN for) (NP (PRP$ their) (NN education)))))))))))) (VP (VBD jumped) (NP (CD 10) (NN %)) (PP (TO to) (NP (NP ($ $) (CD 42,374)) (NP (DT this) (NN year)))) (PP (IN from) (NP ($ $) (CD 38,489)) (PP (IN in) (NP (CD 1988)))))) (, ,) (VP (VBZ says)) (NP (NP (DT the) (NNP Association)) (PP (IN of) (NP (NP (NNP American) (NNP Medical)) (NNS Colleges)))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (ADJP (ADJP (NP (CD 115) (NN %)) (JJR more)) (PP (IN than) (PP (IN in) (NP (CD 1981)))))) (. .)))
+
+(S1 (S (NP (NN Money)) (VP (VBZ is) (RB n't) (NP (NP (DT the) (JJ only) (NN reason)) (PP (IN for) (NP (NP (DT the) (NN shift)) (PP (IN in) (NP (NN practice) (NNS preferences))))))) (. .)))
+
+(S1 (SINV (S (NP (PRP It)) (VP (VBZ reflects) (NP (NP (NNS values)) (PP (IN of) (NP (NP (DT a) (NN generation)) (SBAR (WHNP (WDT that)) (S (VP (VBZ wants) (NP (NP (JJR more) (NN time)) (PP (IN for) (NP (NP (NNS families)) (CC and) (NP (JJ personal) (NNS interests))))))))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP John) (NNP H.) (NNP Moxley) (NNP III)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ directs) (NP (NP (JJ physician-executive) (NNS searches)) (PP (IN for) (NP (NNP Korn\/Ferry) (NNP International)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN change)) (PP (IN in) (NP (NP (DT the) (JJ social) (NN fabric)) (PP (IN of) (NP (NN medicine))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (NP (NNP Related) (NNP Roommates) (NNP Trim) (NNP Hospital) (NNPS Bills)))
+
+(S1 (S (SBAR (WHADVP (WRB WHEN)) (S (NP (NNP Catherine) (NNP Bobar)) (VP (VBD spent) (NP (JJ several) (NNS weeks)) (PP (IN at) (NP (NP (DT the) (NNP Medical) (NNP Center)) (PP (IN of) (NP (NNP Vermont))))) (PP (ADVP (RB recently)) (IN with) (NP (NP (DT a) (JJ bone) (NN infection)) (PP (IN in) (NP (PRP$ her) (NN toe)))))))) (, ,) (NP (PRP she)) (VP (VBD shared) (NP (NP (DT a) (NN room)) (PP (ADVP (RB just)) (IN like) (NP (JJS most) (NNS patients))))) (. .)))
+
+(S1 (S (CC But) (PP (IN unlike) (NP (JJS most) (NNS patients))) (, ,) (NP (PRP$ her) (NN roommate)) (VP (VBD was) (NP (PRP$ her) (NN husband))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBD was) (ADVP (RB certainly)) (ADJP (JJ good) (S (VP (TO to) (VP (VB have) (S (NP (PRP him)) (ADJP (JJ handy)))))))) (, ,) ('' ')) ('' ') (NP (NNP Mrs.) (NNP Bobar)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (DT The) (JJ 12-bed) (`` `) (ADJP (`` `) (JJ cooperative) (NN care) ('' ')) ('' ') (NN unit)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (QP (RB about) (CD 18))))) (ADVP (RB nationwide)) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (NN family) (NN member) (CC or) (NN friend)) (VP (VBZ helps) (S (VP (VB care) (PP (IN for) (NP (NP (DT a) (NN patient)) (PP (IN in) (NP (DT the) (NN hospital))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN philosophy)) (VP (VBZ is) (S (VP (TO to) (VP (VB make) (S (NP (NP (DT the) (NN patient)) (CC and) (NP (DT the) (NN family))) (ADJP (RB very) (JJ responsible) (PP (IN for) (NP (NP (DT a) (NN portion)) (PP (IN of) (NP (PRP$ their) (JJ own) (NN care))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Anthony) (NNP J.) (NNP Grieco)) (, ,) (NP (NP (JJ medical) (NN director)) (PP (IN of) (NP (JJ cooperative) (NN care))) (PP (IN at) (NP (NP (NP (NNP New) (NNP York)) (NNP University) (NNP Medical) (NNP Center)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN concept)) (VP (VBD began) (ADVP (NP (CD 10) (NNS years)) (RB ago))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ helps) (NP (PRP us)))) (, ,) (CC and) (S (NP (PRP them))) (, ,) (SBAR (IN while) (S (NP (PRP they)) (VP (VBP 're) (ADVP (RB here))))) (, ,) (CC and) (S (NP (PRP it)) (ADVP (RB certainly)) (VP (VBZ makes) (S (NP (PRP them)) (NP (NP (DT a) (JJR better) (NN health-care) (NN team)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP get) (NP (NN home))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ saves) (NP (NN money))) (. .)))
+
+(S1 (S (SBAR (IN Because) (S (NP (NNS patients)) (VP (VBP require) (NP (JJR less) (NN attention)) (PP (IN from) (NP (NP (NNS nurses)) (CC and) (NP (JJ other) (NN staff))))))) (, ,) (NP (NN room) (NNS charges)) (VP (VBP are) (ADJP (ADJP (JJR lower)) (: --) (ADJP (NP (QP (RB about) ($ $) (CD 100))) (JJR less)) (PP (IN per) (NP (NN day))) (PP (IN than) (NP (NP (DT a) (JJ regular) (NN room)) (PP (IN at) (NP (DT the) (NNP Vermont) (NN hospital))))))) (. .)))
+
+(S1 (S (S (NP (NN Cancer) (NNS patients)) (VP (VBG needing) (NP (JJ prolonged) (NN radiation) (NN therapy)))) (, ,) (S (NP (NNS diabetics)) (VP (VBG learning) (S (VP (TO to) (VP (VB manage) (NP (PRP$ their) (NN blood) (NN sugar) (NNS levels))))))) (, ,) (CC and) (S (NP (JJ cardiac)) (VP (VB bypass) (SBAR (S (NP (NNS patients)) (VP (VBP are) (PP (IN among) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP spend) (NP (NN time)) (PP (IN on) (NP (JJ cooperative-care) (NNS units))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN approach)) (VP (VBZ has) (VP (VBN generated) (NP (ADJP (RB so) (JJ much)) (NN interest)) (SBAR (IN that) (S (NP (NNP NYU)) (VP (VBZ is) (NP (NP (NN host)) (PP (TO to) (NP (NP (DT the) (JJ first) (NN conference)) (PP (IN on) (NP (JJ cooperative) (NN care))) (NP (NNP Nov.) (CD 30)))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADVP (RB really)) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (NN hospital)) (PP (IN of) (NP (DT the) (JJ 21st) (NN century))))))) (, ,) ('' ')) ('' ') (NP (NNP Dr.) (NNP Grieco)) (VP (VBZ says)) (. .)))
+
+(S1 (NP (NNPS Odds) (CC and) (NNPS Ends)))
+
+(S1 (S (S (NP (DT THE) (JJ CHIEF) (NN NURSING) (NN officer)) (VP (MD can) (VP (VB be) (ADJP (JJ responsible) (PP (IN for) (NP (NP (QP (JJR more) (IN than) (CD 1,000)) (NNS employees)) (CC and) (NP (NP (ADVP (IN at) (JJS least)) (NN one-third)) (PP (IN of) (NP (NP (DT a) (NN hospital) (POS 's)) (NN budget)))))))))) (: ;) (S (NP (DT a) (NN head) (NN nurse)) (ADVP (RB typically)) (VP (VBZ oversees) (NP (QP (IN up) (TO to) (CD 80) (NNS employees) (CC and) ($ $) (CD 8) (CD million))))) (. .)))
+
+(S1 (SINV (ADVP (RB So)) (VBZ says) (NP (NP (DT the) (NNP Commonwealth) (NNP Fund)) (, ,) (NP (NP (DT a) (NNP New) (NNP York) (NN philanthropist)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG sponsoring) (NP (NP (DT a) (ADJP (QP ($ $) (CD 1) (CD million))) (NN project)) (SBAR (S (VP (TO to) (VP (VB develop) (NP (NP (JJ joint) (NNS masters)) (PP (IN in) (NP (NP (NN business) (CC and) (NN nursing) (NNS programs)) (PP (IN at) (NP (CD 10) (NNS universities)))))) (ADVP (RB ..)))))))))))) (. .)) (. .)))
+
+(S1 (S (NP (NP (NNP Meharry) (NNP Medical) (NNP College)) (PP (IN in) (NP (NP (NNP Nashville)) (, ,) (NP (NNP Tenn.)) (, ,)))) (VP (VBZ launches) (NP (NP (NP (DT a) (JJ new) (NN research) (NN publication)) (PP (IN in) (NP (DT the) (NN spring)))) (: :) (NP (NP (DT the) (NNP Journal)) (PP (IN on) (NP (NNP Health) (NNP Care))))) (PP (IN for) (NP (DT the) (NNP Poor) (CC and) (NNP Underserved)))) (. .)))
+

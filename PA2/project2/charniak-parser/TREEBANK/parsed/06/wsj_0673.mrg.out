@@ -1,0 +1,14 @@
+(S1 (S (NP (NNP Lockheed) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB trim) (NP (PRP$ its) (NNP Aeronautical) (NNPS Systems) (NN work) (NN force)) (PP (IN in) (NP (NP (NNP California)) (CC and) (NP (NNP Georgia)))) (PP (IN by) (NP (QP (JJ several) (CD hundred)) (NNS workers))) (, ,) (S (VP (VBG reflecting) (NP (NP (DT the) (NN defense) (NN industry) (POS 's)) (NN decline))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Lockheed) (NN unit)) (VP (VBZ has) (NP (CD 24,000) (NNS workers)))) (: ;) (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB make) (NP (DT the) (NNS cuts)) (PP (IN through) (NP (NP (DT a) (NN combination)) (PP (IN of) (NP (NNS furloughs) (, ,) (NN attrition) (CC and) (NNS retirements)))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNS reductions)) (VP (MD should) (VP (VB be) (ADJP (JJ complete)) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN year)))))))) (, ,) (NP (DT a) (NN spokesman)) (VP (VBD said) (, ,) (S (VP (VBG adding) (SBAR (IN that) (S (NP (DT the) (JJ exact) (NN number) (S (VP (TO to) (VP (VB be) (VP (VBN cut)))))) (VP (VBZ has) (RB n't) (VP (VBN been) (VP (VBN determined))))))))) (. .)))
+
+(S1 (S (NP (NNP Lockheed)) (VP (VBD reported) (NP (DT a) (ADJP (QP ($ $) (CD 32) (CD million))) (NN third-quarter) (JJ net) (NN loss)) (, ,) (PP (ADVP (RB largely)) (IN because) (IN of) (NP (NP (NN cost) (NNS overruns)) (PP (IN on) (NP (JJ fixed-price) (JJ military) (NNS contracts)))))) (. .)))
+
+(S1 (S (S (VP (VBG Noting) (SBAR (IN that) (S (NP (JJ other) (NN defense) (NNS contractors)) (VP (VBP are) (VP (VBG complaining) (PP (IN of) (NP (NP (NNS losses)) (PP (IN on) (NP (JJ such) (NNS contracts))))))))))) (, ,) (NP (NNS analysts)) (VP (VBP say) (SBAR (S (NP (NNS taxpayers)) (VP (VBP have) (VP (VBN been) (VP (VBG getting) (NP (JJ illusionary) (NNS bargains)) (PP (IN on) (NP (NNS weapons) (NNS systems))) (PP (IN in) (NP (JJ recent) (NNS years))))))))) (. .)))
+
+(S1 (SINV (S (NP (NN Defense) (NNS contractors)) (`` `) (VP (`` `) (VP (MD can) (RB not) (VP (VB continue) (S (VP (TO to) (VP (VB get) (NP (NNS contracts)) (PP (IN on) (NP (DT that) (NN basis)))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Howard) (NNP Rubel)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NP (NNP C.J.) (NNP Lawrence) (, ,) (NNP Morgan) (NNP Grenfell) (NNP Inc.)) (PP (IN in) (NP (NNP New) (NNP York))))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (DT The) (NN pain)) (VP (VBZ is) (ADJP (RB too) (JJ great)))) (. .)))
+

@@ -1,0 +1,50 @@
+(S1 (S (NP (DT The) (VBG following) (NNP U.S.) (NNP Treasury) (, ,) (JJ corporate) (CC and) (JJ municipal) (NNS offerings)) (VP (VBP are) (ADVP (RB tentatively)) (VP (VBN scheduled) (PP (IN for) (NP (NN sale))) (NP (DT this) (NN week)) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Dow) (NNP Jones) (NNP Capital) (NNPS Markets) (NNP Report)))))) (: :)))
+
+(S1 (NP (NP (QP ($ $) (CD 15.6) (CD billion))) (PP (IN of) (NP (JJ three-month) (CC and) (JJ six-month) (NNS bills))) (. .)))
+
+(S1 (NP (NP (QP ($ $) (CD 2) (CD billion))) (PP (IN of) (NP (JJ 51-day) (NN cash) (NN management) (NNS bills))) (. .)))
+
+(S1 (NP (NP (NNP Associated) (NNP Natural) (NNP Gas) (NNP Corp.)) (: --) (NP (QP (CD 1.4) (CD million)) (JJ common) (NNS shares)) (, ,) (PP (IN via) (NP (NNP Dillon) (NNP Read) (CC &) (NNP Co))) (. .)))
+
+(S1 (NP (NP (NNP B) (CC &) (NNP H) (NNP Crude) (NNPS Carriers) (NNP Ltd.)) (: --) (NP (QP (CD Four) (CD million)) (JJ common) (NNS shares)) (, ,) (PP (IN via) (NP (NNP Salomon) (NNPS Brothers) (NNP Inc))) (. .)))
+
+(S1 (NP (NP (NNP Chemical) (NNP Banking) (NNP Corp.)) (: --) (NP (QP (CD 14) (CD million)) (JJ common) (NNS shares)) (, ,) (PP (IN via) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co))) (. .)))
+
+(S1 (NP (NP (NNP Chemex) (NNPS Pharmaceuticals) (NNP Inc.)) (: --) (NP (NP (NP (QP (CD 1.2) (CD million)) (NNS units)) (VP (VBG consisting) (PP (IN of) (NP (NP (CD two) (NNS shares)) (PP (IN of) (NP (JJ common) (NN stock))))))) (CC and) (NP (CD one) (JJ common) (NN warrant))) (, ,) (PP (IN via) (NP (NNP PaineWebber) (NNP Inc))) (. .)))
+
+(S1 (NP (NP (NNP Comcast) (NNP Corp.)) (: --) (NP (QP ($ $) (CD 150) (CD million)) (JJ convertible) (NNS debentures)) (, ,) (PP (IN via) (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets))) (. .)))
+
+(S1 (NP (NP (NNP Energy) (NNP Service) (NNP Co.)) (: --) (NP (QP (CD 9.5) (CD million)) (JJ common) (NNS shares)) (, ,) (PP (IN via) (NP (NNP Alex))) (. .)))
+
+(S1 (NP (NP (NNP Brown) (CC &) (NNPS Sons)) (NP (NNP Inc)) (. .)))
+
+(S1 (NP (NP (NNP Harmonia) (NNP Bancorp) (NNP Inc.)) (: --) (NP (CD 4,750,000) (JJ common) (NNS shares)) (, ,) (PP (IN via) (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc))) (. .)))
+
+(S1 (NP (NP (NNP Healthsource) (NNP Inc.)) (: --) (NP (QP (CD Two) (CD million)) (JJ common) (NNS shares)) (, ,) (PP (IN via) (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co))) (. .)))
+
+(S1 (NP (NP (NNP Immune) (NNP Response) (NNP Corp.)) (: --) (NP (QP (CD Three) (CD million)) (JJ common) (NNS shares)) (, ,) (PP (IN via) (NP (NNP Merrill) (NNP Lynch))) (. .)))
+
+(S1 (NP (NP (NNP Marsam) (NNPS Pharmaceuticals) (NNP Inc.)) (: --) (NP (QP (CD 1.3) (CD million)) (JJ common) (NNS shares)) (, ,) (PP (IN via) (NP (NNP Smith) (NNP Barney) (NNP Harris) (NNP Upham) (CC &) (NNP Co))) (. .)))
+
+(S1 (NP (NP (NP (NNP Potash) (NNP Corp.)) (PP (IN of) (NP (NNP Saskatchewan) (NNP Inc.)))) (: --) (NP (QP (CD 13) (CD million)) (JJ common) (NNS shares)) (, ,) (PP (IN via) (NP (NNP Merrill) (NNP Lynch))) (. .)))
+
+(S1 (NP (JJ Municipal)))
+
+(S1 (NP (NP (NNP New) (NNP Jersey) (NNP Wastewater) (NNP Treatment) (NNP Trust)) (: --) (NP (NP ($ $) (CD 75,075,000)) (PP (IN of) (NP (JJ various) (NNS bonds))) (, ,) (PP (VBG including) (NP (NP (NP (QP ($ $) (CD 40.86) (CD million)) (NN Wastewater) (NN Treatment) (JJ insured) (NNS bonds)) (, ,) (NP (NNP Series) (NNP 1989A)) (, ,)) (CC and) (NP (NP (ADJP ($ $) (CD 34,215,000)) (NNP Wastewater) (NNP Treatment) (NNS bonds)) (, ,) (NP (NNP Series) (NNP 1989B)) (, ,) (PP (IN via) (NP (JJ competitive) (NN bid))))))) (. .)))
+
+(S1 (NP (NP (NP (NNP Eastern) (NNP Municipal) (NNP Water) (NNP District)) (, ,) (NP (NNP Calif.))) (: --) (NP (NP ($ $) (CD 56,565,000)) (PP (IN of) (NP (NP (CD 1989) (NNS certificates)) (PP (IN of) (NP (NN participation))) (PRN (-LRB- -LRB-) (NN treatment) (NN plant) (NNS projects) (-RRB- -RRB-))))) (, ,) (PP (IN via) (NP (JJ competitive) (NN bid))) (. .)))
+
+(S1 (NP (NP (NNP California) (NNP Health) (NNP Facilities) (NNP Financing) (NNP Authority)) (: --) (NP (NP (QP ($ $) (CD 114) (CD million))) (PP (IN of) (NP (NP (NP (NN health) (NN facility) (NN revenue) (NNS bonds)) (PRN (-LRB- -LRB-) (NP (NNP Catholic) (NNP Healthcare) (NNP West)) (-RRB- -RRB-))) (, ,) (NP (NNP Series) (NNP 1989A))))) (, ,) (PP (IN via) (NP (DT a) (NNP First) (NNP Boston) (NNP Corp.) (NN group))) (. .)))
+
+(S1 (NP (NP (NNP Detroit)) (: --) (NP (NP (QP ($ $) (CD 130) (CD million))) (PP (IN of) (NP (JJ distributable) (NN state) (NN aid) (NNS bonds)))) (, ,) (PP (IN via) (NP (DT a) (NNP Chemical) (NNP Securities) (NNP Inc.) (NN group))) (. .)))
+
+(S1 (NP (NP (NP (NNP Maryland) (NNP Community) (NNP Development) (NNP Administration)) (, ,) (NP (NP (NNP Department)) (PP (IN of) (NP (NP (NNP Housing)) (CC and) (NP (NNP Community) (NNP Development)))))) (: --) (NP (NP (QP ($ $) (CD 80) (CD million))) (PP (IN of) (NP (NP (NN single-family) (NN program) (NNS bonds)) (, ,) (NP (CD 1989) (JJ 4th) (CC and) (JJ 5th) (NNP Series))))) (, ,) (PP (IN via) (NP (DT a) (NNP Merrill) (NNP Lynch) (NN group))) (. .)))
+
+(S1 (NP (NP (NP (NNP Matagorda) (NNP County) (NNP Navigation) (NNP District) (NNP No.) (CD 1)) (, ,) (NP (NNP Texas))) (: --) (NP (NP ($ $) (CD 70,315,000)) (PP (IN of) (NP (NP (NN pollution) (NN control) (NN revenue) (NNP Alternative) (NNP Minimum) (NNP Tax) (PRN (-LRB- -LRB-) (NNP AMT) (-RRB- -RRB-)) (NNS bonds)) (-LRB- -LRB-) (NP (NP (NNP South) (NNP Texas) (NNP Project) (NNS Units)) (NP (NNP No.) (CD 1) (CC and) (CD 2))) (-RRB- -RRB-)))) (, ,) (PP (IN via) (NP (DT a) (NNP Goldman) (NNP Sachs) (NN group))) (. .)))
+
+(S1 (NP (NP (NNP New) (NNP York) (NNP City)) (: --) (NP (NP ($ $) (CD 786,860,000)) (PP (IN of) (NP (NP (NNS bonds)) (, ,) (NP (NNP Fiscal) (CD 1990) (NNP Series) (NNP C) (CC and) (NNP D)))) (, ,) (PP (VBG including) (NP (NP (ADJP (QP ($ $) (CD 729.04) (CD million))) (JJ tax-exempt) (NNS bonds)) (CC and) (NP (ADJP (QP ($ $) (CD 57.82) (CD million))) (JJ taxable) (NNS bonds))))) (, ,) (PP (IN via) (NP (DT a) (NNP Goldman) (NNP Sachs) (NN group))) (. .)))
+
+(S1 (NP (NP (NP (NNP Santa) (NNP Ana)) (NP (NNP Redevelopment) (NNP Agency))) (: --) (NP (NP (QP ($ $) (CD 107) (CD million))) (PP (IN of) (NP (NP (NN tax) (NN allocation) (NNS bonds)) (, ,) (NP (CD 1989) (NNP Series)))) (ADJP (JJ A-D)) (, ,) (PP (IN via) (NP (NP (DT a) (NNP Donaldson) (NNP Lufkin) (CC &) (NNP Jenrette)) (NNP Securities) (NNP Corp.) (NN group)))) (. .)))
+
+(S1 (NP (NP (NP (VBG Pending) (NNP Shelby) (NNP County)) (, ,) (NP (NNP Tenn.))) (: --) (NP (NP (QP ($ $) (CD 80) (CD million))) (PP (IN of) (NP (NP (NN refunding) (NNS bonds)) (, ,) (NP (NNP Series) (CD 1989)))) (, ,) (PP (IN via) (NP (DT a) (NNP First) (NNP Tennessee) (NNP Bank) (NN group)))) (. .)))
+

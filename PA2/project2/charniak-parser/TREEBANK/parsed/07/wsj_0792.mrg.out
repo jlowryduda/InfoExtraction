@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP Weirton) (NNP Steel) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD reached) (NP (NP (DT a) (JJ tentative) (NN agreement)) (PP (IN on) (NP (NP (DT a) (JJ 48-month) (NN labor) (NN contract)) (PP (IN with) (NP (DT the) (NNP Independent) (NNPS Steelworkers) (NNP Union))))) (VP (VBG covering) (NP (NN production) (CC and) (NN maintenance) (NNS employees)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN agreement)) (, ,) (ADJP (JJ subject) (PP (TO to) (NP (NP (NN approval)) (PP (IN of) (NP (NN union) (NNS members)))))) (, ,)) (VP (MD would) (VP (VB cover) (NP (QP (RB about) (CD 6,000)) (NNS workers)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ tentative) (NN agreement)) (VP (VBZ provides) (PP (PP (IN for) (NP (NP (NN wage) (NNS increases)) (PP (IN of) (NP (NP (CD 85) (NNS cents)) (NP (DT an) (NN hour) (NN retroactive)) (PP (TO to) (NP (NNP Sept.) (CD 25) (, ,) (CD 1989))))))) (, ,) (CC and) (PP (IN for) (NP (NP (NNS increases)) (PP (IN of) (NP (NP (NP (NP (CD 19) (NNS cents)) (, ,) (NP (CD 70) (NNS cents)) (CC and) (NP (CD 35) (NNS cents))) (NP (DT an) (NN hour))) (JJ effective) (NNP Jan.) (CD 1) (, ,) (CD 1991) (, ,) (CD 1992) (CC and) (NP (CD 1993)) (, ,) (ADVP (RB respectively)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ provides) (SBAR (IN for) (S (NP (NP (NN benefit) (NNS adjustments)) (, ,) (PP (VBG including) (NP (NP (DT a) (JJ partial) (NN restoration)) (PP (IN of) (NP (NNS vacations) (CC and) (NNS holidays))))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (JJ work-rule) (NNS changes))) (VP (TO to) (VP (VB increase) (NP (NN productivity))))))) (. .)))
+

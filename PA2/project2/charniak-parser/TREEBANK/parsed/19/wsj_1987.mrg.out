@@ -1,0 +1,16 @@
+(S1 (S (NP (NNP Dallas) (NN investor) (NNP Harold) (NNP C.) (NNP Simmons)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD raised) (NP (NP (PRP$ his) (NN stake)) (PP (IN in) (NP (NNP Lockheed) (NNP Corp.)))) (PP (TO to) (NP (CD 10.62) (NN %))) (PP (IN from) (NP (NP (NP (CD 10.43) (NN %)) (PP (IN of) (NP (DT the) (NN aerospace) (CC and) (NNS electronics) (NN concern))) (POS 's)) (JJ common) (NNS shares))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission) (NN filing))) (, ,) (NP (NNP Mr.) (NNP Simmons)) (VP (VBD said) (SBAR (S (NP (NP (NP (PRP he) (CC and) (NNS companies)) (SBAR (S (NP (PRP he)) (VP (VBZ controls))))) (, ,) (NP (NP (NNP NL) (NNPS Industries) (NNP Inc.)) (CC and) (NP (NNP NL) (NNPS Chemicals) (NNP Inc.))) (, ,)) (VP (VBP hold) (NP (NP (CD 6,744,600) (NNS shares)) (PP (IN of) (NP (NNP Lockheed))) (, ,) (PP (IN of) (NP (NP (NNP Calabasas)) (, ,) (NP (NNP Calif))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP include) (NP (NP (CD 122,700) (NNS shares)) (VP (VBD bought) (NP (NNP Friday)) (PP (IN for) (NP (NP (QP (IN between) ($ $) (CD 47.125) (CC and) ($ $) (CD 48))) (NP (DT each))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (JJ composite) (NN trading)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))) (, ,) (NP (NNP Lockheed)) (VP (VBD closed) (PP (IN at) (NP (NP ($ $) (CD 46.125)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB down) (NP (CD 12.5) (NNS cents)))) (. .)))
+
+(S1 (S (ADVP (RBR Earlier) (NP (DT this) (NN week))) (, ,) (NP (NNP Mr.) (NNP Simmons)) (VP (VBD objected) (PP (TO to) (NP (NP (VBN published) (NNS reports)) (VP (VBG quoting) (NP (PRP him))))) (PP (IN as) (S (VP (VBG saying) (SBAR (S (NP (PRP he)) (VP (VBD planned) (S (VP (TO to) (VP (VB sell) (NP (PRP$ his) (NNP Lockheed) (NN stake)) (SBAR (IN because) (`` `) (S (`` `) (NP (DT the) (NN defense) (NN industry)) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (VP (VBG getting) (ADJP (RBR more) (JJ uncertain))))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Valhi) (NNP Inc.)) (, ,) (NP (NP (DT another)) (PP (IN of) (NP (NP (NNP Mr.) (NNP Simmons) (POS ')) (NNS companies)))) (, ,)) (VP (VBD responded) (PP (TO to) (NP (DT an) (NN article))) (NP (NNP Monday)) (PP (IN in) (NP (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD credited) (NP (NP (DT a) (NN story)) (PP (IN in) (NP (DT the) (NNP Sunday) (NNP Los) (NNP Angeles) (NNP Daily) (NNP News)))))))))) (. .)))
+
+(S1 (S (NP (NNP Valhi)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS articles)) (VP (VBD did) (RB n't) (VP (ADVP (RB accurately)) (VB reflect) (NP (NNP Valhi) (CC and) (NP (PRP$ its) (NNS affiliates) (POS ')) (NNS intentions)) (PP (IN toward) (NP (NNP Lockheed)))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (PRN (, ,) (S (NP (NNP Valhi)) (VP (VBD said))) (, ,)) (NP (PRP they)) (VP (MD may) (VP (VB increase) (, ,) (VB decrease) (CC or) (VB retain) (NP (PRP$ their) (NNP Lockheed) (NNS holdings)) (, ,) (S (VP (VBG depending) (PP (IN on) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS conditions))))))))) (. .)))
+

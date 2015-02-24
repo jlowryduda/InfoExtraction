@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Dataproducts) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD filed) (NP (NP (DT a) (NN lawsuit)) (PP (IN in) (NP (NNP Delaware) (NNP Chancery) (NNP Court))) (SBAR (S (VP (TO to) (VP (VB block) (NP (NP (DT a) (NN tender) (NN offer)) (PP (IN by) (NP (NNP DPC) (NNP Acquisition) (NNPS Partners))))))))) (, ,) (S (VP (VBG alleging) (SBAR (IN that) (S (NP (DT the) (JJ hostile) (NN offer)) (VP (VBZ violates) (NP (NP (DT a) (JJ standstill) (NN agreement)) (PP (IN between) (NP (DT the) (CD two) (NNS concerns))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP DPC)) (, ,) (NP (NP (DT an) (NN investor) (NN group)) (VP (VBN led) (PP (IN by) (NP (NNP New) (NNP York-based) (NNP Crescott) (NNP Investment) (NNPS Associates))))) (, ,)) (VP (VBD had) (SBAR (S (NP (PRP itself)) (VP (VBD filed) (NP (DT a) (NN suit)) (PP (IN in) (NP (NP (NN state) (NN court)) (PP (IN in) (NP (NNP Los) (NNP Angeles))))) (S (VP (VBG seeking) (S (VP (TO to) (VP (VB nullify) (NP (DT the) (NN agreement))))))))))) (. .)))
+
+(S1 (S (ADVP (RBR Earlier) (NP (DT this) (NN year))) (, ,) (NP (NNP Dataproducts)) (VP (VBD had) (VP (VBN rejected) (NP (NP (DT a) (ADJP (NP ($ $) (CD 15)) (NP (DT a) (NN share))) (NN offer)) (PP (IN from) (NP (NNP DPC)))) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP it)) (VP (VBD was) (RB n't) (VP (ADVP (RB adequately)) (VBN financed))))))))) (. .)))
+
+(S1 (S (NP (NNP DPC)) (NP (JJ last) (NN week)) (VP (VBD launched) (NP (NP (DT a) (JJ new) (, ,) (ADJP ($ $) (JJ 10-a-share)) (NN offer)) (PP (IN for) (NP (DT the) (ADJP (NNP Woodland) (NNP Hills) (, ,) (JJ Calif.-based)) (NN computer) (NN printer) (NN maker))))) (. .)))
+
+(S1 (S (NP (NNP DPC)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD could) (RB n't) (VP (VB comment) (PP (IN on) (NP (DT the) (NN suit)))))))) (. .)))
+

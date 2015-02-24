@@ -1,0 +1,16 @@
+(S1 (S (NP (NP (NNP Waterford) (NNP Wedgwood) (NNP PLC)) (, ,) (NP (NP (DT a) (ADJP (RB financially) (JJ troubled)) (NNP Irish) (NN maker)) (PP (IN of) (NP (NP (JJ fine) (NN crystal)) (CC and) (NP (NNP Wedgwood) (NN china))))) (, ,)) (VP (VBD reported) (SBAR (IN that) (S (NP (NP (PRP$ its) (JJ pretax) (NN loss)) (PP (IN for) (NP (DT the) (JJ first) (CD six) (NNS months)))) (VP (VBD widened) (PP (TO to) (NP (NP (QP (CD 10.6) (CD million)) (JJ Irish) (NNS punts)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 14.9) (CD million))) (-RRB- -RRB-)))) (PP (IN from) (NP (QP (CD 5.8) (CD million)) (JJ Irish) (NNS punts)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS results)) (PP (IN for) (NP (DT the) (NN half)))) (VP (VBD were) (ADJP (ADJP (JJR worse)) (PP (IN than) (NP (NP (NN market) (NNS expectations)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD suggested) (NP (NP (DT an) (JJ interim) (NN loss)) (PP (IN of) (NP (QP (RB around) (CD 10) (CD million)) (JJ Irish) (NNS punts))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (ADJP (RB sharply) (JJR weaker)) (NNP London) (NN market))) (NP (NN yesterday)) (, ,) (NP (NNP Waterford) (NNS shares)) (VP (VBD were) (PRT (RP down)) (NP (CD 15) (NN pence)) (PP (IN at) (NP (NP (CD 50) (NN pence)) (PRN (-LRB- -LRB-) (NP (CD 79) (NNS cents)) (-RRB- -RRB-))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD reported) (NP (NP (DT a) (NN loss)) (PP (IN after) (NP (NP (NN taxation)) (CC and) (NP (NN minority) (NNS interests)))) (PP (IN of) (NP (QP (CD 14) (CD million)) (JJ Irish) (NNS punts)))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (NP (QP (CD 9.3) (CD million)) (JJ Irish) (NNS punts)) (PP (IN for) (NP (DT the) (JJ year-earlier) (NN period))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBD were) (RB n't) (NP (DT any) (JJ extraordinary) (NNS items))) (. .)))
+
+(S1 (S (NP (NP (NNS Sales)) (PP (IN for) (NP (DT the) (JJ total) (NN group)))) (VP (VBD rose) (NP (CD 27) (NN %)) (PP (TO to) (NP (NP (QP (CD 168.1) (CD million)) (JJ Irish) (NNS punts)) (PP (VBN compared) (PP (IN with) (NP (QP (CD 132.6) (CD million)) (JJ Irish) (NNS punts)) (ADVP (NP (DT a) (NN year)) (RB ago))))))) (. .)))
+
+(S1 (S (NP (NNP Waterford)) (VP (VBZ has) (VP (VBN decided) (PP (IN against) (S (VP (VBG paying) (NP (DT an) (JJ interim) (NN dividend))))))) (. .)))
+
+(S1 (S (NP (NNP Waterford)) (VP (VBD said) (SBAR (S (NP (NP (NP (DT the) (NN appointment)) (PP (IN of) (NP (DT a) (JJ new) (NN management) (NN team)))) (CC and) (NP (NP (DT the) (NN signing)) (PP (IN of) (NP (DT a) (JJ comprehensive) (NN labor) (NN agreement))))) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB enhance) (NP (NP (DT the) (NN company) (POS 's)) (JJ long-term) (NNS prospects)))))))))) (. .)))
+

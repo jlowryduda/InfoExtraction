@@ -1,0 +1,14 @@
+(S1 (S (NP (NP (NNP Sharp) (NNP Corp.)) (, ,) (NP (NNP Tokyo)) (, ,)) (VP (VBD said) (SBAR (S (NP (NP (JJ net) (NN income)) (PP (IN in) (NP (PRP$ its) (JJ first) (NN half)))) (VP (VBD rose) (NP (CD 59) (NN %)) (PP (TO to) (NP (NP (QP (CD 18.32) (CD billion)) (NNS yen)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 128.9) (CD million))) (-RRB- -RRB-)))) (PP (IN from) (NP (QP (CD 11.53) (CD billion)) (NNS yen)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN consumer) (NNS electronics) (, ,) (NN home) (NNS appliances) (CC and) (NN information-processing) (NN concern)) (VP (VBD said) (SBAR (S (NP (NP (NN revenue)) (PP (IN in) (NP (NP (DT the) (CD six) (NNS months)) (VP (VBN ended) (NP (NNP Sept.) (CD 30)))))) (VP (VBD rose) (NP (CD 8.9) (NN %)) (PP (TO to) (NP (QP (CD 517.85) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 475.6) (CD billion)) (NNS yen))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Sales)) (PP (IN of) (NP (NP (JJ information-processing) (NNS products)) (CC and) (NP (JJ electric) (NNS parts))))) (VP (VP (VBD increased) (NP (DT a) (JJ strong) (CD 22) (NN %)) (PP (TO to) (NP (QP (CD 236.23) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 194.24) (CD billion)) (NNS yen)))) (CC and) (VP (VBN accounted) (PP (IN for) (NP (NP (CD 46) (NN %)) (PP (IN of) (NP (JJ total) (NNS sales))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN audio) (NN equipment))) (, ,) (NP (NNS sales)) (VP (VBD rose) (NP (CD 13) (NN %)) (PP (TO to) (NP (QP (CD 44.3) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 39.19) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Sales)) (PP (IN of) (NP (JJ electric) (NNS appliances)))) (VP (VBD were) (ADJP (JJ flat)))) (, ,) (CC and) (S (NP (NP (NNS sales)) (PP (IN of) (NP (JJ electronic) (NN equipment)))) (VP (VBD declined) (ADVP (RB slightly)))) (. .)))
+
+(S1 (S (NP (NNP Sharp)) (VP (VBD projected) (NP (NP (NNS sales)) (PP (IN for) (NP (NP (DT the) (JJ current) (NN year)) (VP (VBG ending) (NP (NNP March) (CD 31)))))) (PP (IN at) (NP (NP (NP (QP (CD 1.6) (CD trillion)) (NN yen)) (, ,) (NP (DT a) (ADJP (CD 7) (NN %)) (NN increase))) (NP (DT the) (JJ previous) (JJ fiscal) (NN year))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (NP (NN net)) (VP (TO to) (VP (VB rise) (NP (CD 45) (NN %)) (PP (TO to) (NP (QP (CD 380) (CD billion)) (NNS yen)))))))))) (. .)))
+

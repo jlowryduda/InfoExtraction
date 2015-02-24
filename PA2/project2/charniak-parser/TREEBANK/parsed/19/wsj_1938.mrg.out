@@ -1,0 +1,18 @@
+(S1 (S (NP (NP (NNP Ciba-Geigy) (NNP Ltd.)) (CC and) (NP (NNP Chiron) (NNP Corp.))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD extended) (NP (NP (PRP$ their) (NN offer)) (PP (IN for) (NP (NNP Connaught) (NNP BioSciences) (NNP Inc.))) (, ,) (VP (VBN valued) (PP (IN at) (NP (NP (QP (CD 866) (CD million)) (JJ Canadian) (NNS dollars)) (PRN (-LRB- -LRB-) (NP (NNP US) (QP ($ $) (CD 736) (CD million))) (-RRB- -RRB-)))))) (PP (TO to) (NP (NNP Oct.) (CD 27))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS companies)) (ADVP (RB earlier)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD did) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB raise) (NP (NP (PRP$ their) (NN offer) (S (VP (TO to) (VP (VB match) (NP (DT a) (JJ rival) (NN bid)))))) (PP (IN by) (NP (NP (NNP Institut) (NNP Merieux) (NNP S.A.)) (PP (IN of) (NP (NNP C)))))) (NP (NP (NP ($ $) (CD 37)) (NP (DT a) (NN share))) (, ,) (CC or) (NP (SYM C))) (NP (QP ($ $) (CD 942) (CD million))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP they)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NNP C) (ADJP ($ $) (JJ 30-a-share)) (NN bid)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADJP (JJ due) (S (VP (TO to) (VP (VB expire) (NP (NNP Monday))))))))) (, ,)) (VP (MD may) (ADVP (RB still)) (VP (VB be) (VP (VP (VBN extended)) (CC or) (VP (VBN varied)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Merieux)) (, ,) (NP (NP (DT a) (NN vaccine) (NN manufacturer)) (VP (VBN based) (PP (IN in) (NP (NP (NNP Lyon)) (, ,) (NP (NNP France)))))) (, ,)) (VP (VBZ is) (ADJP (NP (CD 51) (NN %)) (JJ -held) (PP (IN by) (NP (ADJP (JJ French) (JJ state-owned)) (NNP Rhone-Poulenc) (NNP S.A))))) (. .)))
+
+(S1 (S (NP (NNP Ciba-Geigy)) (VP (VBZ is) (NP (NP (DT a) (JJ major) (JJ pharmaceutical) (NN concern)) (VP (VBN based) (PP (IN in) (NP (NP (NNP Basel)) (, ,) (NP (NNP Switzerland))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Chiron)) (, ,) (NP (DT another) (JJ pharmaceutical) (NN concern)) (, ,)) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Emeryville)) (, ,) (NP (NNP Calif)))))) (. .)))
+
+(S1 (S (NP (NNP Connaught)) (VP (VBZ is) (NP (DT a) (NN biotechnology) (NN research) (CC and) (NN vaccine) (NN manufacturing) (NN concern))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Institut) (NNP Merieux) (POS 's)) (NN bid)) (PP (IN for) (NP (NNP Toronto-based) (NNP Connaught)))) (VP (VBZ has) (VP (VBN run) (PP (IN into) (NP (NP (NNS problems)) (PP (IN with) (NP (NP (DT the) (JJ Canadian) (NN government)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD told) (NP (NNP Merieux)) (NP (JJ last) (NN week)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD was) (RB n't) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (DT the) (VBN proposed) (NN acquisition)) (VP (MD would) (VP (VB be) (PP (IN of) (NP (`` `) (NP (`` `) (JJ net) (NN benefit) ('' ')) ('' ') (PP (TO to) (NP (NNP Canada)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Merieux) (NNS officials)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB meet) (PP (IN with) (NP (NP (JJ federal) (NNS officials)) (PP (IN in) (NP (NNP Ottawa))))) (NP (NN today)) (S (VP (TO to) (VP (VB discuss) (NP (DT the) (NN decision)))))))))) (. .)))
+

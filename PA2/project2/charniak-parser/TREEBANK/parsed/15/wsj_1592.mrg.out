@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Viatech) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD received) (NP (NP (NN approval)) (PP (IN from) (NP (DT the) (JJ French) (NN government)))) (PP (IN for) (NP (NP (PRP$ its) (VBN proposed) (ADJP (QP ($ $) (CD 44.7) (CD million))) (NN acquisition)) (PP (IN of) (NP (NNP Ferembal) (NNP S.A))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN approval)) (VP (VBZ satisfies) (NP (NP (DT the) (VBG remaining) (NNS conditions)) (PP (IN of) (NP (NP (DT the) (NN purchase)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB close) (PP (IN within) (NP (CD two) (NNS weeks)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP erembal)) (, ,) (NP (NP (DT the) (JJ second-largest) (NN maker)) (PP (IN of) (NP (NP (NN food) (NNS cans)) (PP (IN in) (NP (NNP France)))))) (, ,)) (VP (VBD had) (NP (NP (CD 1988) (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 150) (CD million)))))) (. .)))
+
+(S1 (S (NP (NNP Ferembal)) (VP (VBZ has) (NP (NP (CD 930) (NNS workers)) (PP (IN at) (NP (NP (CD four) (NN canning) (NN manufacturing) (NNS plants)) (CC and) (NP (CD one) (JJ plastic) (NN container) (NN facility)))))) (. .)))
+
+(S1 (S (NP (NNP Viatech)) (VP (VBZ makes) (NP (NP (JJ flexible) (NN packaging) (NNS films) (CC and) (NN machinery)) (, ,) (CC and) (NP (NP (NNS materials)) (PP (IN for) (NP (DT the) (UCP (NN food) (CC and) (JJ pharmaceutical)) (NNS industries)))))) (. .)))
+

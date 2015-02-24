@@ -1,0 +1,78 @@
+(S1 (S (ADVP (RB Certainly)) (NP (JJ conservative) (NNS environmentalists)) (VP (MD can) (VP (VB defend) (NP (PRP$ their) (JJ limited) (NN government) (NN position)) (PP (IN by) (S (VP (VBG differentiating) (PP (IN between) (NP (NP (JJ Old) (NN Environmentalism)) (CC and) (NP (NP (NNP New) (NN Environmentalism)) (PRN (-LRB- -LRB-) (NP (`` `) (NP (`` `) (NP (NP (NNS Journalists)) (CC and) (NP (NNS Others))) (PP (IN for) (S (VP (VBG Saving) (NP (DT the) (NN Planet))))) (, ,) ('' ')) ('' ') (PP (IN by) (NP (NNP David) (NNP Brooks)))) (, ,) (NP (NP (NN editorial) (NN page)) (, ,) (NP (NNP Oct.) (CD 5))) (-RRB- -RRB-)))))))))) (. .)))
+
+(S1 (S (NP (JJ Old) (NN Environmentalism)) (VP (VBD involved) (NP (NP (NN microbe) (NNS hunters)) (CC and) (NP (NNS sanitationists)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD started) (PP (IN with) (NP (NP (NNS improvements)) (PP (IN in) (NP (NN hygiene))) (VP (VBN made) (S (ADJP (JJ possible) (PP (IN by) (NP (NP (JJ affordable) (NN soap)) (CC and) (NP (JJ washable) (NN underwear))))))))) (PP (IN during) (NP (DT the) (NNP Industrial) (NNP Revolution)))) (. .)))
+
+(S1 (S (RB Then) (NP (NP (NN cast-iron) (NN sewer) (NN pipe)) (CC and) (NP (DT the) (JJ flush) (NN toilet))) (VP (VBD were) (VP (VBN followed) (PP (IN by) (NP (NP (ADJP (NN sewage) (: -) (CC and) (JJ water-treatment)) (NNS plants)) (PP (IN toward) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (JJ 19th) (NN century))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Medicine)) (PP (IN in) (NP (DT the) (JJ 19th) (NN century)))) (VP (VBD was) (VP (VBN dedicated) (PP (ADVP (RB mostly)) (TO to) (NP (NP (VBG combating) (NNS sepsis)) (CC and) (NP (JJ diagnostic) (NN analysis)))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (NP (DT the) (JJ 20th) (NN century)) (VP (VBD saw) (NP (NP (DT the) (NN evolution)) (PP (IN of) (NP (NP (JJ private-sector) (NN wonder) (NNS drugs)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD promulgated) (NP (JJ medical) (NN therapy))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN process)) (VP (VP (ADVP (RB dramatically)) (VBD increased) (NP (PRP$ our) (JJ average) (NN life) (NN expectancy))) (, ,) (VP (VBD eliminated) (NP (JJ much) (NN pain))) (CC and) (VP (ADVP (RB constantly)) (VBD improved) (NP (NN health) (CC and) (NN well-being)))) (. .)))
+
+(S1 (S (NP (JJS Most) (JJ public-health) (NNS measures)) (VP (VBD were) (VP (VBN handled) (PP (IN at) (NP (DT the) (JJ local) (NN level))))) (. .)))
+
+(S1 (S (NP (JJ New) (NN Environmentalism)) (ADVP (RB probably)) (VP (VBD started) (PP (IN in) (NP (CD 1962))) (PP (IN with) (NP (NP (DT the) (NN publication)) (PP (IN of) (NP (NP (NP (NNP Rachel) (NNP Carson) (POS 's)) (NN book)) (`` `) (NP (`` `) (JJ Silent) (NN Spring))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Shortly) (RB thereafter)) (, ,) (NP (JJ hysterical) (NNS articles)) (VP (VBD began) (S (VP (TO to) (VP (VB appear) (S (VP (VBG predicting) (SBAR (IN that) (S (NP (JJ advanced) (JJ industrial) (NNS societies)) (VP (MD would) (VP (VB produce) (NP (DT a) (VBN blackened) (, ,) (JJ uninhabitable) (NN planet)) (ADVP (RB possibly)) (PP (IN by) (NP (NP (DT the) (NN turn)) (PP (IN of) (NP (DT the) (NN century))))))))))))))) (. .)))
+
+(S1 (S (NP (DT These) (JJ apocalyptic) (NNS predictions)) (VP (VBD were) (VP (VBN advanced) (PP (IN by) (NP (NP (JJ such) (NNS stalwarts)) (PP (IN as) (NP (NP (NNP Paul) (NNP Ehrlich)) (, ,) (NP (NNP Barry) (NNP Commoner)) (, ,) (NP (NNP Rene) (NNP Dubois)) (CC and) (NP (NNP George) (NNP Wald)))))))) (. .)))
+
+(S1 (S (S (PP (VBG Writing) (PP (IN in) (NP (DT the) (NNS 1960s)))) (NP (NNP Ms.) (NNP Carson)) (VP (VBD suggested) (SBAR (IN that) (S (NP (DT the) (JJ human) (NN race)) (VP (MD could) (VP (VB be) (VP (VBN eliminated) (PP (IN in) (NP (CD 20) (NNS years)))))))))) (, ,) (CC and) (S (NP (NNP Mr.) (NNP Wald)) (VP (VBD suggested) (SBAR (IN that) (S (NP (NP (NN life)) (PP (IN on) (NP (NN earth)))) (VP (MD might) (VP (VB end) (PP (IN by) (NP (CD 1985))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Ehrlich)) (VP (VBD predicted) (NP (JJ unprecedented) (NN famine)) (PP (IN by) (NP (CD 1980)))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBD were) (NP (JJ many) (JJR more))) (. .)))
+
+(S1 (S (NP (NP (NNS Thousands)) (PP (IN of) (NP (NN chemical) (NNS products)))) (VP (VBD were) (VP (VBN categorized) (PP (IN as) (ADJP (JJ carcinogenic))) (, ,) (PP (IN with) (NP (NNS recommendations) (SBAR (IN that) (S (NP (PRP they)) (VP (VB be) (VP (VBN banned) (PP (IN from) (NP (JJ industrial) (NN use))) (SBAR (IN because) (S (NP (PRP they)) (VP (VBD produced) (NP (NP (JJ malignant) (NNS tumors)) (PP (IN in) (NP (JJ overdosed) (NNS rats))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Unknown)) (PP (IN before) (NP (CD 1960)))) (VP (VBD were) (NP (NP (DT the) (JJ inconclusive) (NNS effects)) (PP (IN of) (NP (NP (NN acid) (NN rain)) (, ,) (NP (NN greenhouse) (NN warming)) (CC and) (NP (NN ozone) (NN depletion)))) (, ,) (SBAR (WHNP (DT all) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBD required) (NP (NP (VBG burgeoning) (JJ political) (NN power)) (CC and) (NP (JJ gargantuan) (NN expense)))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (DT the) (NNP New) (NNS Environmentalists)) (ADVP (RB systematically)) (VP (VBD opposed) (NP (NP (DT the) (NNS methods)) (PP (IN of) (NP (DT the) (JJ Old) (NNS Environmentalists))))) (. .)))
+
+(S1 (S (NP (JJ Local) (NN pollution) (NNS problems)) (VP (VBP require) (NP (NP (JJ cheap) (NN energy) (CC and) (NN capital)) (PP (IN for) (NP (PRP$ their) (NN solution))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNP New) (NNS Environmentalists)) (VP (VBP oppose) (NP (NP (JJ private) (NN wealth) (NN creation)) (PRN (-LRB- -LRB-) (SBAR (WHNP (WDT which)) (S (PRN (, ,) (S (NP (PRP they)) (VP (VBP claim))) (, ,)) (VP (VBZ depletes) (NP (JJ natural) (NNS resources))))) (-RRB- -RRB-)) (CC and) (NP (JJ nuclear) (NN power)) (PRN (-LRB- -LRB-) (SBAR (RB even) (IN though) (S (NP (PRP it)) (VP (MD would) (VP (VB counteract) (NP (DT the) (NN greenhouse) (NN effect)))))) (-RRB- -RRB-)))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VP (VBP are) (PP (IN in) (NP (NP (DT the) (NN forefront)) (PP (IN of) (S (VP (VBG opposing) (NP (NP (DT the) (NN search)) (PP (IN for) (NP (JJ new) (NNS landfills) (CC and) (NNS methods))))))) (PP (IN of) (NP (NN incineration)))))) (CC and) (VP (ADVP (RB even)) (VBP oppose) (NP (NP (JJ new) (NNS methods)) (PP (IN of) (NP (NN research))) (PP (JJ such) (IN as) (NP (JJ genetic) (NN engineering)))))) (. .)))
+
+(S1 (S (NP (JJ New) (NN Environmentalism)) (VP (VBZ is) (NP (NP (DT an) (JJ emotional) (NN attack)) (PP (IN on) (NP (NP (JJ proven) (NNS methods)) (PP (IN of) (S (VP (VBG improving) (NP (NP (NP (PRP$ our) (NN quality)) (PP (IN of) (NP (NN life)))) (CC and) (NP (NP (DT a) (NN bid)) (PP (IN for) (NP (JJ political) (NN power)))))))))))) (. .)))
+
+(S1 (S (VP (VB Let) (S (NP (POS 's)) (VP (VB rationalize) (NP (PRP$ our) (NNS priorities)) (PP (IN by) (S (VP (VBG solving) (NP (NN pollution) (NNS problems)) (PP (IN at) (NP (NP (DT the) (JJ local) (NN level)) (PP (IN as) (NP (NN heretofore))))))))))) (. .)))
+
+(S1 (NP (NP (NNP Harry) (NNP Lee) (NNP Smith) (NNP Alpharetta)) (, ,) (NP (NNP Ga)) (. .)))
+
+(S1 (S (NP (PRP$ Your) (NN story)) (VP (VBD missed) (NP (NP (DT some) (JJ essential) (NNS points)) (PP (IN of) (NP (DT the) (NN conference)))) (PP (IN on) (`` `) (NP (`` `) (NP (DT The) (JJ Global) (NN Environment)) (: :) (SQ (VBP Are) (NP (PRP We)) (VP (VBG Overreacting)) (. ?) ('' '))) ('' ')))))
+
+(S1 (S (ADVP (RB First) (CC and) (RB foremost)) (, ,) (NP (NP (DT the) (NNS vignettes)) (VP (VBN presented) (PP (IN by) (NP (DT the) (JJ various) (NNS scientists))))) (VP (VBP represent) (NP (NP (DT a) (JJ general) (NN consensus)) (PP (IN among) (NP (NP (NNS specialists)) (VP (VBG working) (PP (IN in) (NP (NP (DT the) (JJ respective) (NNS aspects)) (PP (IN of) (NP (DT the) (JJ global) (NN environment)))))))))) (. .)))
+
+(S1 (S (S (VP (VB Consider) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NP (DT the) (NN greenhouse) (NN effect)) (CC and) (NP (NN climate) (NN change))))) (: ;) (S (NP (NP (JJ numerous) (JJ blue-ribbon) (JJ scientific) (NNS committees)) (, ,) (PP (VBG including) (NP (NP (CD one)) (PP (IN from) (NP (NP (DT the) (NNP National) (NNP Academy)) (PP (IN of) (NP (NNP Science))))))) (, ,)) (VP (VBP judge) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (ADJP (QP (JJR greater) (IN than) (CD 50)) (NN %)) (NN probability)) (PP (IN of) (NP (NP (DT a) (JJ grave) (NN problem)) (PP (IN in) (NP (DT the) (NN offing))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN point)) (VP (VBD was) (S (VP (TO to) (VP (VB answer) (NP (NP (DT the) (NN question)) (PP (IN in) (NP (DT the) (NN conference) (NN title))))))) (, ,) (S (RB not) (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VB create) (NP (NP (NN news) (NNS stories)) (PP (IN for) (NP (DT the) (NN event)))) (NP (PRP itself))))))))) (. .)))
+
+(S1 (SINV (CC Nor) (VBD was) (NP (PRP it)) (VP (VBN intended) (S (VP (TO to) (VP (VB dictate) (NP (NP (DT a) (NN set)) (PP (IN of) (NP (JJ prescriptive) (NNS solutions))))))) (, ,) (SBAR (IN although) (S (NP (JJ various) (NNS points)) (VP (VBD were) (VP (VBN raised)))))) (. .)))
+
+(S1 (S (NP (DT Each) (NN speaker)) (VP (VBD was) (VP (VBN asked) (S (VP (TO to) (VP (VP (NN address) (NP (DT a) (JJ specific) (NN topic))) (, ,) (RB not) (VP (VB deliver) (NP (NP (DT a) (NN point)) (PP (IN of) (NP (NN view)))))))))) (. .)))
+
+(S1 (S (NP (DT Each) (NN scientist)) (ADVP (RB independently)) (VP (VBD concluded) (SBAR (S (NP (NN society) (CC and) (NN government)) (VP (VBP are) (VP (VBG underreacting) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ comes) (PP (TO to) (NP (JJ substantive) (NN policy) (NN change))))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ leads) (PP (TO to) (NP (NP (DT a) (RB very) (JJ special) (NN sense)) (PP (IN of) (NP (NN urgency)))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NNS media)) (VP (VBP decide) (S (VP (TO to) (VP (VB work) (ADVP (RBR harder)) (PP (IN at) (S (VP (VBG educating) (NP (DT the) (NN public)) (PP (IN about) (NP (DT these) (ADJP (JJ complex) (CC and) (JJ technical)) (NNS issues)))))))))))) (, ,) (NP (DT that)) (ADVP (RB hardly)) (VP (MD can) (VP (VB be) (VP (VBN termed) (NP (JJ non-objective) (NN journalism))))) (. .)))
+
+(S1 (S (NP (DT The) (NN environment)) (VP (MD can) (ADVP (RB no) (RB longer)) (VP (VB be) (NP (DT a) (JJ normal) (NN issue)) (, ,) (S (VP (TO to) (VP (VB be) (VP (VBN dealt) (PP (IN with) (PP (IN on) (NP (DT a) (JJ business-as-usual) (NN basis)))) (PP (IN with) (NP (NP (JJ comfortable) (NNS increments)) (PP (IN of) (NP (NN change))))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP have) (ADVP (RB literally)) (VP (VBN altered) (NP (NP (DT the) (NN chemistry) (CC and) (NN physics)) (PP (IN of) (NP (NP (PRP$ our) (NN planet) (POS 's)) (NN atmosphere)))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ portends) (NP (NP (NNS consequences)) (PP (IN from) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP have) (ADVP (RB already)) (VP (VBN done)))))) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB be) (ADJP (RB very) (JJ destabilizing) (PP (TO to) (NP (ADJP (JJ social) (CC and) (JJ economic)) (NNS systems)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS problems)) (PP (IN of) (NP (DT the) (NN environment)))) (VP (VBP are) (ADJP (ADJP (RB so) (JJ interrelated)) (, ,) (RB so) (ADJP (RB inextricably) (VBN entwined) (PP (IN with) (NP (NP (PRP$ our) (JJ current) (NN way)) (PP (IN of) (NP (NN life)))))) (CC and) (ADJP (RB so) (JJ large))) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ unlikely) (SBAR (S (NP (PRP we)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB address) (NP (PRP them)) (ADVP (RB effectively)) (SBAR (IN unless) (S (NP (JJ major) (NNS changes)) (VP (VBP are) (VP (VBN made) (PP (IN in) (NP (QP (JJR less) (IN than) (CD 10)) (NNS years)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN consensus)) (PP (IN from) (NP (DT the) (JJ scientific) (NN community)))) (VP (VBZ is) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NP (JJ sufficient) (NN evidence)) (SBAR (S (VP (TO to) (VP (VB advise) (NP (JJ major) (NN policy) (NNS changes))))))))))) (. .)))
+
+(S1 (S (INTJ (RB No)) (, ,) (NP (PRP we)) (VP (VBP are) (RB not) (VP (VBG overreacting))) (. .)))
+
+(S1 (NP (NP (NP (NNP Thomas) (NNP E.) (NNP Lovejoy) (NNP Assistant) (NNP Secretary)) (PP (IN for) (NP (NNP External) (NNPS Affairs)))) (NP (NNP Smithsonian) (NNP Institution))))
+

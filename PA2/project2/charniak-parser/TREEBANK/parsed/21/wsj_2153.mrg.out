@@ -1,0 +1,128 @@
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Nucor) (NNP Corp.)) (VP (VBZ begins) (VP (VBG shipping) (NP (NP (NN steel)) (PP (IN from) (NP (NP (DT the) (NN world) (POS 's)) (JJ first) (NN thin-slab) (NN plant)))) (NP (DT this) (NN month)))))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB begin) (S (VP (VBG testing) (NP (NP (DT the) (JJ competitive) (NN mettle)) (PP (IN of) (NP (PRP$ its) (JJ giant) (NNS competitors)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ new) (NN technology)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ creates) (NP (NP (DT a) (ADJP (RB very) (JJ thin)) (NN piece)) (PP (IN of) (NP (NN steel))))))) (, ,)) (ADVP (RB radically)) (VP (VBZ reduces) (NP (NP (DT the) (NNS costs)) (PP (IN of) (S (VP (VBG making) (NP (JJ flat-rolled) (NNS sheets))))))) (. .)))
+
+(S1 (S (NP (NP (DT An) (JJ ebullient) (NNP Kenneth) (NNP Iverson)) (, ,) (NP (NP (NNP Nucor) (POS 's)) (NN chairman)) (, ,)) (VP (VBZ says) (SBAR (S (NP (NP (DT the) (NN company) (POS 's)) (NN plant)) (ADVP (RB eventually)) (VP (MD will) (VP (VB make) (NP (NP (DT a) (NN ton)) (PP (IN of) (NP (NN steel)))) (PP (IN in) (NP (QP (CD 1.5) (NN man)) (NNS hours))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (QP (CD four) (TO to) (CD six)) (NN man) (NNS hours)) (PP (IN at) (NP (DT a) (JJ conventional) (NN mill))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 've) (VP (VBD had) (NP (DT the) (NNPS Russians) (CC and) (NNPS Chinese)))) (, ,) (CC and) (S (NP (NP (NNS people)) (PP (IN from) (NP (NNP India)))) (VP (VBG visiting) (NP (PRP us)))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Iverson)) (VP (VBZ beams)) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (NP (NN Everyone)) (PP (IN in) (NP (DT the) (NN world)))) (VP (VBZ is) (VP (VBG watching) (NP (PRP us)) (ADVP (RB very) (RB closely))))) (. .) ('' ')) ('' ')))
+
+(S1 (FRAG (ADVP (RB Especially)) (NP (NP (PRP$ his) (NNS neighbors)) (, ,) (NP (DT the) (JJ major) (NNP U.S.) (NNS steelmakers))) (. .)))
+
+(S1 (S (ADVP (RB Already)) (, ,) (NP (NP (NNP USX) (NNP Corp.)) (CC and) (NP (NNP Armco) (NNP Inc.))) (VP (VBP are) (VP (VBG studying) (NP (NP (NNP Nucor) (POS 's)) (NN technology) (S (VP (TO to) (VP (VB see) (SBAR (IN if) (S (NP (PRP they)) (VP (MD can) (VP (VB adopt) (NP (PRP it)))))))))))) (. .)))
+
+(S1 (SINV (VP (VBZ Says)) (NP (NP (DT the) (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (DT a) (JJ major) (NNP Midwest) (NN steel) (NN company)))) (: :) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADJP (RB damn) (JJ worrisome)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (JJ once-staid) (NN steel) (NN industry)) (VP (VBZ is) (VP (IN about) (S (VP (TO to) (VP (VB be) (VP (VBN turned) (ADJP (JJ topsy-turvy) (PP (IN by) (NP (DT a) (NNS 1990s) (NN technology) (NN revolution)))))))))) (. .)))
+
+(S1 (S (NP (ADJP (NNP New) (, ,) (JJ efficient) (CC and) (JJ sophisticated)) (NNS processes)) (VP (VBP make) (S (NP (PRP it)) (ADJP (JJR easier)) (SBAR (IN for) (S (NP (JJR smaller) (, ,) (RBR less) (JJ cash-rich) (NNS companies)) (VP (TO to) (VP (VB make) (NP (NN steel)) (PP (IN at) (NP (NP (DT a) (NN fraction)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (NNP Big) (NNP Steel)) (VP (VBD paid) (ADVP (NP (NNS decades)) (RB ago)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ enables) (S (NP (NNS minimills)) (ADVP (RB finally)) (VP (TO to) (VP (VB get) (NP (NP (DT a) (NN toehold)) (PP (IN in) (NP (NP (DT the) (JJ flat-rolled) (NN steel) (NN market)) (: --) (NP (NP (DT the) (JJ major) (NNS steelmakers) (POS ')) (JJS largest) (, ,) (ADJP (RBS most) (VBN prized)) (, ,) (CC and) (PP (IN until) (NP (RB now))) (, ,) (NN untouchable) (, ,) (NN market))))))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ such) (NN thin-slab) (NN technology)) (VP (VBZ is) (NP (RB only) (DT the) (NN beginning))) (. .)))
+
+(S1 (S (NP (JJ Eager) (NNS engineers)) (VP (VBP espouse) (NP (NP (JJ direct-steelmaking) (CC and) (JJ direct) (NN casting)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NNS 1990s))))) (VP (MD will) (VP (VP (VB enable) (NP (NN production)) (PP (IN without) (NP (NN coke) (NNS ovens)))) (CC and) (VP (VB blast) (NP (NNS furnaces))))))))) (. .)))
+
+(S1 (S (NP (DT Those) (JJ massive) (NNS structures)) (, ,) (SBAR (IN while) (S (VP (VBG posing) (NP (UCP (NN cost) (CC and) (JJ environmental)) (NNS headaches))))) (, ,) (ADVP (RB effectively)) (VP (VBN locked) (PRT (RP out)) (NP (NP (DT all)) (PP (IN but) (NP (NP (JJ deep-pocketed) (NNS giants)) (PP (IN from) (NP (NN steelmaking))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN revolution)) (ADVP (RB ahead) (PP (IN of) (NP (PRP us)))) (SBAR (WHNP (WDT that)) (S (VP (MD will) (ADVP (RB ultimately)) (VP (VP (VB change) (NP (DT the) (NN way)) (NP (PRP we) (NN market))) (CC and) (VP (VB distribute) (NP (NN steel))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP William) (NNP Dennis)) (, ,) (NP (NP (NN vice) (NN president)) (, ,) (NP (NP (NN manufacturing)) (CC and) (NP (NN technology))) (, ,) (PP (IN for) (NP (DT the) (NNP American) (NNP Iron) (NNP Ore) (CC and) (NNP Steel) (NNP Institute))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (RB n't) (SBAR (IN that) (S (NP (JJ major) (NNS steelmakers)) (VP (VBP have) (VP (ADVP (RB blithely)) (VBN ignored) (NP (JJ high) (NN technology))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN fact))) (, ,) (NP (PRP they)) (VP (VBP 've) (VP (VBN spent) (NP (NP (NNS billions)) (PP (IN of) (NP (NNS dollars)))) (S (VP (TO to) (VP (VB boost) (NP (NP (DT the) (NN percentage)) (PP (IN of) (NP (ADJP (RB continously) (VBN cast)) (NN steel)))) (PP (TO to) (NP (CD 60.9) (NN %))) (PP (IN in) (NP (CD 1988))) (, ,) (PP (IN from) (NP (CD 39.6) (NN %)) (ADVP (NP (CD five) (NNS years)) (IN before)))))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (PRP$ their) (NN balance) (NNS sheets)) (VP (VBP are) (ADJP (JJ rich) (PP (IN with) (NP (NN diversity)))) (, ,) (S (S (NP (PRP$ their) (JJ old) (NNS plants)) (ADJP (JJ shuttered))) (, ,) (CC and) (S (NP (NN work) (NNS forces)) (ADJP (JJ lean))))) (. .)))
+
+(S1 (S (CC But) (NP (DT that)) (VP (MD wo) (RB n't) (VP (VB suffice))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB no) (RBR longer)) (ADJP (JJ enough) (S (VP (TO to) (VP (VB beat) (NP (DT the) (NN guy)) (PP (IN down) (NP (DT the) (NN street))))))))) (. .)))
+
+(S1 (SINV (S (NP (PRP You)) (VP (VBP have) (S (VP (TO to) (VP (VB beat) (NP (NP (NN everyone)) (PP (IN around) (NP (DT the) (NN world))))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NNP Mr.) (NNP Dennis)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ wants) (S (VP (TO to) (VP (VB see) (S (NP (NNS steelmakers)) (ADJP (RBR more) (VBN involved) (PP (IN in) (NP (NP (NNS computers)) (CC and) (NP (JJ artificial) (NN intelligence)))))))))) (. .)))
+
+(S1 (NP (NP (DT The) (NN problem)) (: :) (S (NP (PRP They)) (VP (VBP 're) (VP (VBN saddled) (PP (IN with) (NP (NP (JJ huge) (NNS plants)) (SBAR (WHNP (WDT that)) (S (VP (VBP require) (NP (JJ costly) (NN maintenance)))))))))) (. .)))
+
+(S1 (S (CC And) (VP (VB try) (VP (VBG plying) (NP (JJ new) (NNS dollars)) (ADVP (JJ free)) (PP (IN in) (NP (NP (DT a) (NN market)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBG softening)) (, ,) (S (VP (VP (VBN hurt) (PP (IN by) (NP (DT a) (JJ strong) (NN dollar)))) (CC and) (VP (VBN concerned) (PP (IN about) (NP (NP (NN overcapacity)) (: --) (NP (NP (DT the) (NN industry) (POS 's)) (NNP Darth) (NNP Vadar)))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN technology) (NN revolution)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ threatening) (PP (TO to) (NP (VBN established) (NNS producers))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Peter) (NNP Marcus)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP PaineWebber) (NNP Inc))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP They)) (VP (VBP 've) (VP (VBN got) (ADJP (ADVP (RB too) (RB much)) (VBN invested) (PP (IN in) (NP (DT the) (JJ old) (NN stuff))))))) (CC and) (S (NP (PRP they)) (VP (MD ca) (RB n't) (VP (VB get) (S (NP (PRP$ their) (NNS workers)) (VP (TO to) (VP (VB be) (ADJP (JJ flexible)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT No) (NN one)) (VP (VBZ expects) (S (NP (NNS minimills)) (VP (TO to) (VP (VB eclipse) (NP (NP (JJ major) (VBN integrated) (NNS steelmakers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP remain) (NP (NP (DT the) (JJ undisputed) (NNS kings)) (PP (IN of) (NP (NP (JJ highest-quality) (NN steel)) (VP (VBN used) (PP (IN for) (NP (NNS autos) (CC and) (NNS refrigerators))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NP (NNP Nucor) (POS 's)) (NN plant)) (PP (IN in) (NP (NP (NNP Crawfordsville)) (, ,) (NP (NNP Ind.)) (, ,)))) (ADVP (RB ultimately)) (VP (MD will) (VP (VB produce) (NP (NP (QP (RB only) (CD one) (CD million)) (NNS tons)) (ADVP (RB annually))) (, ,) (NP (NP (DT a) (NN drop)) (PP (IN in) (NP (DT the) (JJ 40-million-ton-a-year) (JJ flat-rolled) (NN steel) (NN bucket))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (NP (NNS years)) (SBAR (IN before) (S (NP (JJ such) (NNS plants)) (VP (MD can) (VP (VB compete) (PP (IN in) (NP (DT the) (JJ high-profit) (NN market)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (JJ flat-rolled)) (VP (VBZ is) (NP (NP (NP (DT the) (NN steel) (NN industry) (POS 's)) (NN bread) (CC and) (NN butter)) (, ,) (VP (VBG representing) (NP (NP (QP (RB about) (NN half))) (PP (IN of) (NP (NP (DT the) (QP (CD 80) (CD million)) (NNS tons)) (PP (IN of) (NP (NP (NN steel)) (VP (VBN expected) (S (VP (TO to) (VP (VB be) (VP (VBN shipped) (NP (DT this) (NN year))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NN process)) (VP (VBZ is) (RB n't) (PP (IN without) (NP (PRP$ its) (NNS headaches)))) (. .)))
+
+(S1 (S (SBAR (IN Because) (S (NP (DT all) (NNS operations)) (VP (VBP are) (VP (VBN connected))))) (, ,) (NP (CD one) (NN equipment) (NN failure)) (VP (VBZ forces) (NP (DT a) (JJ complete) (NN plant) (NN shutdown))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT some) (NNS days))) (, ,) (NP (DT the) (NNP Nucor) (NN plant)) (VP (VBZ does) (RB n't) (VP (VB produce) (NP (NN anything)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (PP (IN At) (NP (DT this) (NN point))) (, ,) (NP (DT the) (NN minimill) (NN capacity)) (VP (MD wo) (RB n't) (VP (VB make) (NP (NP (DT a) (JJ great) (NN dent)) (PP (IN in) (NP (DT the) (JJ integrated) (NN market))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ does) (VP (VB challenge) (S (NP (PRP them)) (VP (TO to) (VP (VB develop) (NP (JJ new) (NNS markets)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP James) (NNP McCall)) (, ,) (NP (NP (NN vice) (NN president)) (, ,) (NP (NNS materials)) (, ,) (PP (IN at) (NP (NP (NNP Battelle)) (, ,) (NP (NP (DT a) (NN technology) (CC and) (NN management-research) (NN giant)) (VP (VBN based) (PP (IN in) (NP (NP (NNP Columbus)) (, ,) (NP (NNP Ohio)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (SBAR (IN with) (S (NP (NP (NN demand)) (PP (IN for) (NP (NN steel)))) (RB not) (VP (VBG growing) (ADVP (RB fast) (RB enough) (S (VP (TO to) (VP (VB absorb) (NP (NN capacity))))))))) (, ,) (NP (NNS steelmakers)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP they)) (VP (VBP do) (NP (NN business))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN past))) (PRN (, ,) (SINV (VP (VBZ says) (NP (NP (NNP Armco) (POS 's)) (NN chief) (NN economist))) (NP (NNP John) (NNP Corey))) (, ,)) (NP (NNS steelmakers)) (VP (VP (VBD made) (NP (DT a) (NN product))) (CC and) (VP (VBD set) (NP (PRP it)) (PP (IN out) (PP (IN on) (NP (DT the) (VBG loading) (NN dock)))))) (. .)))
+
+(S1 (S (`` `) (`` `) (S (NP (PRP We)) (VP (VBD said) (: :) (`` `) (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (DT a) (NN product))))) (: :) (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (NP (PRP it))))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB buy) (NP (PRP it)))))))) (, ,) ('' ') ('' ') ('' ') (NP (PRP he)) (VP (VBZ says) (, ,) (S (VP (VBG adding) (: :) (`` `) (S (`` `) (ADVP (RB Now)) (NP (PRP we)) (VP (VBP 're) (S (VP (VBG figuring) (PRT (RP out)) (SBAR (WHNP (WP what)) (S (NP (NNS people)) (VP (VP (VBP need)) (, ,) (CC and) (VP (VBP are) (VP (VBG going) (ADVP (RB back)) (S (VP (TO to) (VP (VB make) (NP (PRP it))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Armco) (POS 's)) (NNS sales) (NNS representatives)) (VP (VBP visit) (NP (NP (NP (NP (DT the) (NNP General) (NNPS Motors) (NNP Corp.) (POS 's)) (NNP Fairfax)) (NN assembly) (NN plant)) (PP (IN in) (NP (NP (NNP Kansas) (NNP City)) (, ,) (NP (NNP Mo.)) (, ,)))) (NP (NP (QP (CD two) (CC or) (CD three)) (NNS days)) (NP (DT a) (NN week)))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP they)) (VP (VBD determined) (SBAR (IN that) (S (NP (NNP GM)) (VP (VBD needed) (NP (NNS parts)) (ADVP (RBR more) (RB quickly)))))))) (, ,) (NP (NNP Armco)) (VP (VBN convinced) (NP (DT a) (NN steel) (NN service) (NN center)) (S (VP (TO to) (VP (VB build) (NP (DT a) (NN processing) (NN plant)) (ADVP (RB nearby)) (SBAR (IN so) (S (NP (NNS shipments)) (VP (MD could) (VP (VB be) (VP (VBN delivered) (PP (IN within) (NP (CD 15) (NNS minutes)))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Cementing) (NP (NP (JJ such) (NNS relationships)) (PP (IN with) (NP (NP (JJ major) (NNS clients)) (: --) (NP (NN car) (CC and) (NN appliance) (NNS makers)) (: --)))))) (VP (VBZ is) (NP (NP (DT a) (NN means)) (PP (IN of) (NP (NP (NN survival)) (, ,) (SBAR (WHADVP (RB especially) (WRB when)) (S (NP (DT those) (JJ key) (NNS clients)) (VP (VBP are) (S (VP (VP (VBG relying) (PP (IN on) (NP (NP (DT a) (JJR smaller) (NN pool)) (PP (IN of) (NP (NNS producers)))))) (CC and) (VP (VBG flirting) (PP (IN with) (NP (NN plastic) (CC and) (NN aluminum) (NNS makers))))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Detroit)) (VP (VBD began) (S (VP (VBG talking) (PP (IN about) (NP (JJ plastic-bodied) (NNS cars)))))))) (, ,) (NP (DT the) (NNP American) (NNP Iron) (CC and) (NNP Steel) (NNP Institute)) (VP (VBD began) (NP (DT a) (JJ major) (VBG lobbying) (NN effort)) (S (VP (TO to) (VP (VB show) (NP (NN auto) (NNS makers)) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (MD could) (VP (VB use) (NP (NN steel)) (ADVP (RBR more) (RB efficiently)) (PP (IN by) (S (ADVP (RB simply)) (VP (VBG redesigning) (SBAR (WHADVP (WRB how)) (S (NP (DT a) (NN car) (NN door)) (VP (VBZ is) (VP (VBN assembled)))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS steelmakers)) (VP (MD must) (ADVP (RB also)) (VP (VB find) (NP (JJ new) (NNS markets)))) (. .)))
+
+(S1 (S (PP (IN After) (S (VP (VBG letting) (S (NP (NNS aluminum-makers)) (VP (VB take) (NP (DT the) (NN recycling) (NN lead))))))) (, ,) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (JJS largest) (NNS steelmakers)))) (VP (VBD started) (S (NP (DT a) (VBG recycling) (NN institute)) (VP (TO to) (VP (VB promote) (NP (NN steel) (NNS cans)) (PP (TO to) (NP (DT an) (ADJP (RB environmentally) (JJ conscious)) (NN nation))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Battelle) (POS 's)) (NNP Mr.) (NNP McCall)) (VP (VBZ thinks) (SBAR (S (NP (NNS steelmakers)) (VP (MD should) (VP (VB concentrate) (ADVP (RBR more)) (PP (IN on) (NP (NN construction)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Weirton) (NNP Steel) (NNP Corp.)) (, ,) (NP (NP (NNP Weirton)) (, ,) (NP (NNP W.) (NNP Va.)))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBZ is) (VP (VBG touting) (PP (TO to) (NP (NNS homeowners))) (NP (JJ fashionable) (NN steel) (NNS doors)) (, ,) (PP (IN with) (NP (JJ leaded) (NN glass) (NNS inserts))) (, ,) (PP (IN as) (NP (NP (DT a) (ADJP (JJ secure) (CC and) (JJ energy-efficient)) (NN alternative)) (PP (TO to) (NP (JJ wooden) (CC or) (NN aluminum) (NNS ones))))))) (. .)))
+
+(S1 (S (NP (JJ Other) (NNS steelmakers)) (VP (VB envision) (NP (NP (NN steel) (NNS roofs)) (VP (VBG covering) (NP (NNS suburbia))))) (. .)))
+
+(S1 (S (NP (RB Still) (NNS others)) (VP (VBP are) (VP (VBG looking) (PP (IN at) (NP (JJ overseas) (NNS markets))))) (. .)))
+
+(S1 (S (NP (NNP USX)) (VP (VBZ is) (VP (VBG funneling) (NP (NN drilling) (NN pipe)) (PP (TO to) (NP (JJ steel-hungry) (NNP Soviet) (NNP Union))))) (. .)))
+
+(S1 (S (NP (DT This) (NN year)) (, ,) (NP (NP (DT the) (NN nation) (POS 's)) (JJS largest) (NN steelmaker)) (VP (VBD reactivated) (NP (PRP$ its) (JJ overseas) (NNS sales) (NN operation))) (. .)))
+
+(S1 (S (NP (NNS Producers)) (ADVP (RB also)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB differentiate) (PP (IN by) (S (VP (VBG concentrating) (PP (IN on) (NP (NP (JJ higher-profit) (NN output)) (, ,) (PP (JJ such) (IN as) (NP (JJ coated) (CC and) (JJ electrogalvanized) (NNS products))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP remain) (PP (IN beyond) (NP (NP (DT the) (NN reach)) (PP (IN of) (NP (NNS minimills)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (RB Almost) (DT all) (JJ capital-improvement) (NNS programs)) (VP (VBN announced) (PP (IN by) (NP (JJ major) (NNS steelmakers))) (PP (IN within) (NP (DT the) (JJ past) (NN year))))) (VP (VBP involve) (S (VP (VBG building) (NP (NP (NN electrogalvanizing) (NNS lines)) (, ,) (VP (VBN used) (S (VP (TO to) (VP (VB produce) (NP (NN steel)) (PP (IN for) (NP (NP (JJ such) (NNS products)) (PP (IN as) (NP (NP (NN household) (NNS appliances)) (CC and) (NP (NN car) (NNS doors)))))))))))))) (. .)))
+
+(S1 (S (CC But) (ADVP (RB unfortunately)) (, ,) (NP (DT that) (NN segment)) (VP (VBZ is) (ADJP (ADJP (RB much) (JJR smaller)) (PP (IN than) (NP (DT the) (JJ bread-and-butter) (JJ flat-rolled) (NN steel))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (PP (IN like) (S (NP (NN everyone)) (VP (VP (VBG climbing) (PP (IN out) (PP (IN of) (NP (DT the) (NNP QE) (NNP II))))) (CC and) (VP (VBG getting) (PP (IN into) (NP (DT a) (NN lifeboat)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP John) (NNP Jacobson)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP AUS) (NNPS Consultants))))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (PP (IN After) (NP (DT a) (NN while))) (, ,) (NP (NN someone)) (VP (VBZ has) (S (VP (TO to) (VP (VB go) (PP (IN over) (NP (DT the) (NN side)))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (SBAR (IN Although) (S (NP (PRP he)) (VP (VBZ does) (RB n't) (VP (VB expect) (NP (DT any) (NNS bankruptcies)))))) (, ,) (NP (PRP he)) (VP (VBZ does) (VP (VB see) (S (NP (JJR more) (NNS plants)) (VP (VBG being) (VP (VBN sold) (CC or) (VBN closed)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Robert) (NNP Crandall)) (, ,) (PP (IN with) (NP (DT the) (NNP Brookings) (NNP Institute))) (, ,)) (VP (VBZ agrees)) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (SBAR (IN Unless) (S (NP (EX there)) (VP (VBZ is) (NP (NP (NP (DT an) (JJ enormous) (NN rate)) (PP (IN of) (NP (JJ economic) (NN growth)))) (CC or) (NP (NP (DT a) (JJ further) (NN drop)) (PP (IN in) (NP (DT the) (NN dollar)))))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ unlikely)) (SBAR (IN that) (S (NP (NP (NN consumption)) (PP (IN of) (NP (NNP U.S.))) (VP (VBN produced) (NP (NN steel)))) (VP (MD will) (VP (VB grow) (ADVP (RB sufficiently) (S (VP (TO to) (VP (VB offset) (NP (NP (DT the) (NN growth)) (PP (IN of) (NP (NNS minimills)))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (FRAG (RB Not) (VP (TO to) (VP (VB mention) (NP (NP (DT the) (NN incursion)) (PP (IN of) (NP (NNS imports)))))) (. .)))
+
+(S1 (S (NP (NP (ADJP (JJ Japanese) (CC and) (JJ European)) (NNS steelmakers)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP have) (VP (VBN led) (NP (DT the) (JJ recent) (NN technology) (NNS developments)))))) (, ,)) (VP (VBP are) (ADVP (RB anxiously)) (VP (VBG awaiting) (NP (NP (DT the) (NN lifting)) (PP (IN of) (NP (NP (NN trade) (NNS restraints)) (PP (IN in) (NP (CD 1992)))))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (DT the) (NNP U.S.)) (VP (MD can) (VP (VB expect) (NP (NP (NP (JJR more) (NN competition)) (PP (IN from) (NP (JJ low-cost) (VBG producing) (NNP Pacific) (NN Rim)))) (CC and) (NP (NNP Latin) (NNP American) (NNS countries))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ Taiwanese) (NN steelmaker)) (ADVP (RB recently)) (VP (VBD announced) (NP (NNS plans) (S (VP (TO to) (VP (VB build) (NP (DT a) (JJ Nucor-like) (NN plant))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNS People)) (VP (VBP think) (PP (IN of) (NP (DT the) (NN steel) (NN business))) (PP (IN as) (NP (DT an) (ADJP (JJ old) (CC and) (JJ mundane)) (NN smokestack) (NN business)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NNP Mr.) (NNP Iverson)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP They)) (VP (VBP 're) (ADJP (JJ dead)) (ADVP (JJ wrong))) (. .) ('' ')) ('' ')))
+
+(S1 (NP (NP (NNP \) (NNP *) (NNP USX)) (, ,) (NP (NNP LTV)) (, ,) (NP (NNP Bethlehem) (, ,) (NNP Inland) (, ,) (NNP Armco) (, ,) (NNP National) (NNP Steel))))
+
+(S1 (S (NP (NNP \) (NNP *) (NNP \) (NNP *)) (ADJP (JJ Projected))))
+

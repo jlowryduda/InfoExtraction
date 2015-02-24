@@ -1,0 +1,6 @@
+(S1 (S (S (NP (NP (NP (NNP Japan) (POS 's)) (NNS exports)) (PP (IN of) (NP (NNS cars) (, ,) (NNS trucks) (CC and) (NNS buses)))) (VP (VBD declined) (NP (CD 2.4) (NN %)) (PP (TO to) (NP (NP (CD 535,322) (NNS units)) (PP (IN in) (NP (NNP September))))) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (, ,) (NP (DT the) (NNP Japan) (NNP Automobile) (NNP Manufacturers) (NNP Association)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NN association)) (VP (VBD attributed) (NP (DT the) (NN drop)) (PP (TO to) (NP (NP (DT a) (NN trend)) (PP (IN among) (NP (NP (NN auto) (NNS makers)) (SBAR (S (VP (TO to) (VP (VB move) (NP (VBG manufacturing) (NNS operations)) (ADVP (RB overseas))))))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (DT the) (NN exception)) (PP (IN of) (NP (NP (NNP August)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNS exports)) (VP (VBD rose) (NP (CD 2.1) (NN %))))))))) (, ,) (NP (NNS exports)) (VP (VBP have) (VP (VBN declined) (NP (DT every) (NN month)) (PP (IN from) (NP (JJ year-earlier) (NNS levels))) (PP (IN since) (NP (NNP March))))) (. .)))
+

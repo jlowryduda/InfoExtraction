@@ -1,0 +1,140 @@
+(S1 (S (NP (NP (NP (NNP Georgia-Pacific) (NNP Corp.) (POS 's)) (JJ unsolicited) (ADJP (QP ($ $) (CD 3.19) (CD billion))) (NN bid)) (PP (IN for) (NP (NNP Great) (NNP Northern) (NNP Nekoosa) (NNP Corp.)))) (VP (VBD was) (VP (VBN hailed) (PP (IN by) (NP (NNP Wall) (NNP Street))) (PP (IN despite) (NP (NP (DT a) (JJ cool) (NN reception)) (PP (IN by) (NP (DT the) (NN target) (NN company))))))) (. .)))
+
+(S1 (S (NP (NP (NNP William) (NNP R.) (NNP Laidig)) (, ,) (NP (NP (NP (NNP Nekoosa) (POS 's)) (NN chairman)) (, ,) (NP (JJ chief) (JJ executive) (NN officer)) (CC and) (NP (NN president))) (, ,)) (VP (VP (VBD characterized) (NP (DT the) (ADJP ($ $) (JJ 58-a-share)) (NN bid)) (PP (IN as) (`` `) (ADJP (`` `) (JJ uninvited) ('' ')) ('' '))) (CC and) (VP (VBD said) (SBAR (S (NP (NP (NNP Nekoosa) (POS 's)) (NN board)) (VP (MD would) (VP (VB consider) (NP (DT the) (NN offer)) (`` `) (PP (`` `) (IN in) (NP (JJ due) (NN course))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP T.) (NNP Marshall) (NNP Hahn) (NNP Jr.)) (, ,) (NP (NP (NP (NNP Georgia-Pacific) (POS 's)) (NN chairman)) (CC and) (NP (JJ chief) (NN executive))) (, ,)) (VP (VBD said) (PP (IN in) (NP (DT an) (NN interview))) (SBAR (IN that) (S (NP (NP (DT all) (NNS terms)) (PP (IN of) (NP (DT the) (NN offer)))) (VP (VBP are) (ADJP (JJ negotiable)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD added) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD had) (VP (VBN spoken) (PP (IN with) (NP (NP (NNP Mr.) (NNP Laidig)) (, ,) (SBAR (WHNP (WP whom)) (S (NP (PRP he)) (VP (VBD referred) (PP (TO to)) (PP (IN as) (NP (DT a) (NN friend)))))) (, ,))) (PP (IN by) (NP (NN telephone))) (NP (NNP Monday) (NN evening))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ hopeful) (SBAR (IN that) (S (NP (PRP we)) (VP (MD 'll) (VP (VB have) (NP (JJ further) (NNS discussions)))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Hahn)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Wall) (NNP Street))) (, ,) (NP (NN takeover) (NN stock) (NNS traders)) (VP (VBD bid) (NP (NP (NNP Nekoosa) (POS 's)) (NN stock)) (PP (ADVP (RB well)) (IN above) (NP (DT the) (NNP Georgia-Pacific) (NN bid))) (, ,) (S (VP (VBG assuming) (SBAR (IN that) (S (NP (NNP Nekoosa) (POS 's)) (VP (MD will) (ADVP (RB either)) (VP (VB be) (VP (VBN sold) (PP (PP (TO to) (NP (DT a) (JJ rival) (NN bidder))) (CC or) (PP (TO to) (NP (NNP Georgia-Pacific)))) (PP (IN at) (NP (NP (DT a) (JJR higher) (NN price)) (: --) (NP (NP (QP (RB as) (JJ much) (IN as) ($ $) (CD 75))) (NP (DT a) (NN share))))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT some) (NNS estimates)))))))))))) (. .)))
+
+(S1 (S (NP (NN Yesterday)) (, ,) (NP (NNP Nekoosa) (NN common)) (VP (VBD closed) (PP (IN in) (NP (JJ composite) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN trading))) (PP (IN at) (NP ($ $) (CD 62.875))) (, ,) (ADVP (RB up) (NP ($ $) (CD 20.125))) (, ,) (PP (IN on) (NP (NP (NN volume)) (PP (IN of) (NP (QP (RB almost) (CD 6.3) (CD million)) (NNS shares)))))) (. .)))
+
+(S1 (S (NP (NNP Georgia-Pacific)) (VP (VBD closed) (ADVP (RB down) (NP ($ $) (CD 2.50))) (, ,) (PP (IN at) (NP (NP ($ $) (CD 50.875)) (PP (IN in) (NP (NNP Big) (NNP Board) (NN trading)))))) (. .)))
+
+(S1 (S (NP (NN Takeover) (NN stock) (NNS traders)) (VP (VBD noted) (SBAR (IN that) (S (S (PP (IN with) (NP (NP (DT the) (NN junk-bond) (NN market)) (PP (IN in) (NP (NN disarray))))) (, ,) (NP (NP (NNP Georgia-Pacific) (POS 's)) (NN bid)) (VP (VBZ is) (NP (NP (DT an) (NN indication)) (PP (IN of) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN takeover) (NN game)) (VP (VBZ is) (VP (VBN headed))))))))) (: :) (S (ADVP (RB namely)) (, ,) (S (NP (JJ industrial) (NNS companies)) (VP (MD can) (VP (VB continue) (S (VP (VBG bidding) (PP (IN for) (NP (CD one) (DT another)))))))) (, ,) (CC but) (S (NP (NP (JJ financial) (NNS buyers)) (PP (JJ such) (IN as) (NP (JJ leveraged) (NN buy-out) (NNS firms)))) (VP (MD will) (VP (VB be) (PP (IN at) (NP (NP (DT a) (NN disadvantage)) (PP (IN in) (S (VP (VBG obtaining) (NP (NN financing)))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (NP (DT The) (NN way)) (SBAR (S (NP (DT the) (NN world)) (VP (VBZ is) (VP (VBG shaping) (PRT (RP up))))))) (, ,) (NP (DT the) (JJ strategic) (NN buyer)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (NP (DT the) (NN rule)))))))) (CC and) (S (NP (DT the) (JJ financial) (NN buyer)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (NP (DT the) (NN exception))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (CD one) (NN trader)) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (NN paper) (NN industry))) (ADVP (RB specifically)) (, ,) (NP (JJS most) (NNS analysts)) (VP (VBD said) (SBAR (S (NP (DT the) (NN deal)) (VP (MD will) (VP (VB spur) (NP (NP (DT a) (NN wave)) (PP (IN of) (NP (NP (JJ paper-company) (NNS takeovers)) (, ,) (ADVP (RB possibly)))) (VP (VBG involving) (NP (NP (JJ such) (NNS companies)) (PP (IN as) (NP (NP (NNP Union) (NNP Camp) (NNP Corp.)) (, ,) (NP (NNP Federal) (NN Paperboard) (NNP Co.)) (CC and) (NP (NNP Mead) (NNP Corp)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS analysts)) (VP (VBD argued) (SBAR (IN that) (S (NP (NP (NP (NNP Georgia-Pacific) (POS 's)) (NN offer)) (, ,) (SBAR (S (NP (NP (DT the) (JJ first) (JJ hostile) (NN bid)) (PP (ADVP (RB ever)) (IN among) (NP (JJ major) (NNS players)))) (PP (IN in) (NP (DT the) (NN paper) (NN industry))))) (, ,)) (VP (VP (VBZ ends) (NP (NP (DT the) (JJ unwritten) (NN taboo)) (PP (IN on) (NP (JJ hostile) (NNS bids))))) (, ,) (CC and) (VP (MD will) (VP (VB push) (NP (NNS managements)) (S (VP (TO to) (VP (VB look) (ADVP (RB closely)) (PP (IN at) (NP (NP (DT the) (NN industry) (POS 's)) (JJ several) (JJ attractive) (NN takeover) (NNS candidates)))))))))))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (NN Consolidation)) (VP (VBZ has) (VP (VBN been) (ADJP (RB long) (JJ overdue)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (RB just) (DT the) (NN culture)) (PP (IN of) (NP (NP (DT the) (NN industry)) (SBAR (WHNP (WDT that)) (S (VP (VBD kept) (NP (PRP it)) (PP (IN from) (S (VP (VBG happening))))))))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NNP Georgia-Pacific) (NN offer)) (VP (VBZ has) (ADVP (RB definitely)) (VP (VBD changed) (NP (DT the) (NN landscape))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Gary) (NNP Palmero)) (PP (IN of) (NP (NNP Oppenheimer) (CC &) (NNP Co)))) (. .)))
+
+(S1 (SINV (VP (VBD Added)) (NP (NP (NNP Mark) (NNP Rogers)) (PP (IN of) (NP (NNP Prudential-Bache) (NNPS Securities) (NNP Inc.)))) (: :) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADJP (RB much) (JJR easier)) (S (VP (TO to) (VP (VB be) (NP (JJ second)))))) (. .) ('' ')) (: ')))
+
+(S1 (S (NP (NP (DT A) (NNP Georgia-Pacific) (NN acquisition)) (PP (IN of) (NP (NNP Nekoosa)))) (VP (MD would) (VP (VB create) (NP (DT the) (JJS largest) (NNP U.S.) (NNS forest-products) (NN company)))) (. .)))
+
+(S1 (S (PP (VBN Based) (PP (IN on) (NP (CD 1988) (NNS sales)))) (, ,) (NP (NNP Georgia-Pacific)) (VP (VBD ranked) (NP (NP (QP (JJ third) (IN at) ($ $) (CD 9.51) (CD billion))) (, ,) (PP (IN behind) (NP (NP (NP (NNP Weyerhaeuser) (NNP Co.)) (PP (IN at) (NP (QP ($ $) (CD 10) (CD billion))))) (CC and) (NP (NNP International) (NNP Paper) (NNP Co.))))) (PP (IN at) (NP (QP ($ $) (CD 9.53) (CD billion))))) (. .)))
+
+(S1 (S (NP (NNP Nekoosa)) (VP (VBD ranked) (ADJP (JJ 11th) (PP (IN with) (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 3.59) (CD billion)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ combined) (NN company)) (VP (MD would) (VP (VB have) (VP (VBD had) (NP (NP (CD 1988) (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 13.1) (CD billion)))))))) (. .)))
+
+(S1 (S (CC But) (NP (PDT such) (DT a) (NN combination)) (ADVP (RB also)) (VP (VBZ presents) (NP (JJ great) (NNS risks))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (JJS most) (NNS analysts) (CC and) (NN industry) (NNS consultants)) (VP (VBP say) (SBAR (S (NP (NN pulp) (CC and) (NN paper) (NNS prices)) (VP (VBP are) (VP (VBG heading) (PP (IN for) (NP (DT a) (NN dive)))))))))))) (, ,) (S (VP (VBG adding) (NP (NP (NN capacity)) (CC and) (NP (NN debt))))) (VP (MD could) (VP (VB squeeze) (NP (NNP Georgia-Pacific)) (SBAR (IN if) (S (NP (DT the) (NN industry)) (VP (VBZ declines) (ADJP (ADJP (JJR more)) (SBAR (IN than) (S (NP (DT the) (NN company)) (VP (VBZ expects)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (NP (DT any) (JJ unexpected) (NN strengthening)) (PP (IN of) (NP (DT the) (NN dollar)))) (VP (MD would) (VP (VB hurt) (NP (NNP Georgia-Pacific)) (SBAR (IN because) (S (NP (NP (NP (CD two)) (PP (IN of) (NP (NP (NNP Nekoosa) (POS 's)) (JJ major) (NN product) (NNS lines)))) (: --) (NP (NP (NN containerboard)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB make) (S (VP (VBG shipping) (NP (NP (NNS boxes)) (, ,) (CC and) (NP (NN market) (NN pulp))))))))))))) (: --)) (VP (VBP are) (VP (VBN exported) (PP (IN in) (NP (JJ large) (NNS quantities))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NN Nobody)) (VP (VBZ knows) (SBAR (WHADJP (WRB how) (JJ deep)) (S (NP (DT the) (NN cycle)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Rod) (NNP Young)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NNP Resource) (NNP Information) (NNPS Systems) (NNP Inc.)) (, ,) (NP (DT a) (NAC (NNP Bedford) (, ,) (NNP Mass.) (, ,)) (JJ economic-forecasting) (NN firm)))))) (. .)))
+
+(S1 (S (`` `) (`` `) (S (VP (VBG Depending) (PP (IN on) (SBAR (WHADVP (WRB how) (ADJP (RB far) (RB down))) (S (NP (PRP you)) (VP (VBP go))))))) (, ,) (NP (PRP it)) (VP (MD may) (VP (VB be) (ADJP (JJ difficult) (SBAR (S (VP (TO to) (VP (VB pay) (PRT (RP off)) (NP (DT that) (NN debt))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (CD One) (NN person)) (ADJP (JJ familiar) (PP (IN with) (NP (NNP Georgia-Pacific))))) (VP (VBD said) (SBAR (S (NP (DT the) (NN acquisition)) (VP (MD would) (VP (ADVP (RBR more) (IN than)) (VB double) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN debt)) (PP (IN of) (NP (QP (RB almost) ($ $) (CD 3) (CD billion)))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (MD could) (VP (VB be) (NP (NP (DT a) (NN drag)) (PP (IN on) (NP (NNP Georgia-Pacific) (NNS earnings)))) (SBAR (IN because) (S (NP (NP (DT the) (QP (RB roughly) ($ $) (CD 1.5) (CD billion))) (PP (IN in) (NP (NN goodwill))) (PRN (: --) (NP (NP (DT the) (NN amount)) (SBAR (WHPP (IN by) (WHNP (WDT which))) (S (NP (DT the) (NN bid)) (VP (VBZ exceeds) (NP (NP (NP (NNP Nekoosa) (POS 's)) (NN book) (NN value)) (PP (IN of) (NP (QP ($ $) (CD 1.5) (CD billion))))))))) (: --))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB be) (VP (VBD subtracted) (PP (IN from) (NP (NNS earnings))) (PP (IN over) (NP (NP (DT a) (NN period)) (PP (IN of) (NP (NNS decades))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Georgia-Pacific) (POS 's)) (NNP Mr.) (NNP Hahn)) (VP (VBD said) (SBAR (IN that) (S (NP (DT a) (VBN combined) (NN operation)) (VP (MD would) (VP (VB allow) (NP (NNS savings)) (PP (IN in) (NP (JJ many) (NNS ways)))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD two) (NNS companies)) (DT each) (VP (VBP produce) (NP (NP (NN market) (NN pulp)) (, ,) (NP (NN containerboard)) (CC and) (NP (JJ white) (NN paper)))) (. .)))
+
+(S1 (S (S (NP (DT That)) (VP (VBZ means) (SBAR (S (NP (NNS goods)) (VP (MD could) (VP (VB be) (VP (VBN manufactured) (ADVP (RBR closer) (PP (TO to) (NP (NNS customers))))))))) (, ,) (S (VP (VBG saving) (NP (NN shipping) (NNS costs)))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (NN production) (NNS runs)) (VP (MD would) (VP (VB be) (ADJP (JJR longer)) (, ,) (S (VP (VBG cutting) (NP (NNS inefficiencies)) (PP (IN from) (S (VP (VBG adjusting) (NP (NP (NN machinery)) (PP (IN between) (NP (NN production) (NNS cycles))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (NNP Georgia-Pacific)) (VP (MD could) (VP (VB save) (NP (NN money)) (PP (IN in) (NP (NN selling) (NN pulp))) (, ,) (SBAR (IN because) (S (NP (DT the) (NN company)) (VP (VBZ uses) (NP (PRP$ its) (JJ own) (NNS sales) (NN organization)) (SBAR (IN while) (S (NP (NNP Nekoosa)) (VP (VBZ employs) (NP (JJ higher-cost) (NNS agents)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Hahn)) (VP (VBD said) (SBAR (S (NP (NNP Georgia-Pacific)) (VP (VBZ has) (VP (VBN accounted) (PP (IN in) (NP (PRP$ its) (NN strategy))) (PP (IN for) (NP (DT a) (`` `) (NP (`` `) (JJ significant) (NN downturn) ('' ')) ('' ') (PP (IN in) (NP (NP (DT the) (NN pulp) (CC and) (NN paper) (NN industry)) (, ,) (NP (NP (DT an) (NN event)) (SBAR (WHNP (IN that)) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (VP (MD would) (VP (ADVP (RB temporarily)) (VB dilute) (NP (NNS earnings))))))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD said) (SBAR (IN that) (S (PP (ADVP (RB even)) (IN under) (NP (DT those) (NNS conditions))) (, ,) (NP (DT the) (NN company)) (ADVP (RB still)) (VP (MD would) (VP (VB realize) (NP (NP (DT a) (NN savings)) (PP (IN of) (NP (NP (NNS tens)) (PP (IN of) (NP (NP (NNS millions)) (PP (IN of) (NP (NNS dollars)))))))) (PP (IN in) (NP (NP (DT the) (JJ first) (NN year)) (VP (VBG following) (NP (DT a) (NN merger)))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (NP (DT The) (NN fit)) (VP (VBZ is) (ADJP (RB so) (JJ good)))) (, ,) (NP (PRP we)) (VP (VBP see) (NP (DT this)) (PP (IN as) (NP (NP (DT a) (NN time)) (PP (IN of) (NP (NN opportunity)))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Georgia-Pacific)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN suspended) (NP (PRP$ its) (JJ stock-repurchase) (NN program)))))) (, ,)) (VP (MD would) (VP (VB finance) (NP (NP (DT the) (NN acquisition)) (PP (IN with) (NP (DT all) (NN bank) (NN debt))) (, ,) (VP (VBN provided) (PP (IN by) (NP (NP (NNS banks)) (VP (VBN led) (PP (IN by) (NP (NNP BankAmerica) (NNP Corp)))))))))) (. .)))
+
+(S1 (S (NP (NNP Georgia-Pacific)) (VP (VP (VBZ owns) (NP (CD 349,900) (NNP Nekoosa) (NNS shares))) (CC and) (VP (MD would) (VP (VB need) (NP (JJ federal) (JJ antitrust) (NN clearance)) (S (VP (TO to) (VP (VB buy) (NP (QP (JJR more) (IN than) ($ $) (CD 15) (CD million)) (NN worth)))))))) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NN clearance)) (ADVP (RB also)) (VP (VBZ is) (VP (VBN needed) (PP (IN for) (NP (DT the) (JJ proposed) (NN acquisition))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NNP Nekoosa))) (, ,) (NP (NN defense) (NNS options)) (VP (MD may) (VP (VB be) (VP (VBN undercut) (ADVP (RB somewhat)) (PP (IN by) (NP (NP (DT the) (JJ precarious) (NN state)) (PP (IN of) (NP (DT the) (NN junk-bond) (NN market))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ limits) (SBAR (WHNP (WRB how) (JJ much) (NN value)) (S (NP (DT the) (NN target)) (VP (MD could) (VP (VB reach) (PP (IN in) (NP (DT a) (JJ debt-financed) (NN recapitalization))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NP (DT The) (NN company) (POS 's)) (NN chairman)) (, ,) (NP (NNP Mr.) (NNP Laidig)) (, ,)) (CC and) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS advisers))))) (VP (VBD met) (PP (IN at) (NP (NP (DT the) (NNS offices)) (PP (IN of) (NP (NP (NNP Wachtel) (NNP Lipton) (NNP Rosen) (CC &) (NNP Katz)) (, ,) (NP (NP (DT a) (NN law) (NN firm)) (VP (VBG specializing) (PP (IN in) (NP (NN takeover) (NN defense)))))))))) (. .)))
+
+(S1 (S (NP (NNP Nekoosa)) (ADVP (RB also)) (VP (VBZ is) (VP (VBG being) (VP (VBN advised) (PP (IN by) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Georgia-Pacific) (POS 's)) (NNS advisers)) (VP (VBP are) (NP (NP (NP (NNP Wasserstein) (, ,) (NNP Perella) (CC &) (NNP Co.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ stands) (S (VP (TO to) (VP (VB receive) (NP (DT a) (ADJP (QP ($ $) (CD 15) (CD million))) (NN fee)) (SBAR (IN if) (S (NP (DT the) (NN takeover)) (VP (VBZ succeeds)))))))))) (, ,)) (CC and) (NP (NP (DT the) (NN law) (NN firm)) (PP (IN of) (NP (NNP Shearman) (CC &) (NNP Sterling)))))) (. .)))
+
+(S1 (S (NP (NP (NNS People)) (ADJP (JJ familiar) (PP (IN with) (NP (NNP Nekoosa))))) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN board)) (VP (VBZ is) (RB n't) (ADJP (JJ likely) (S (VP (TO to) (VP (VB meet) (PP (IN before) (NP (DT the) (NN week))) (SBAR (IN after) (FRAG (ADJP (JJ next) (S (VP (TO to) (VP (VB respond) (PP (TO to) (NP (DT the) (NN bid))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN board)) (VP (VBZ has) (NP (NP (CD 10) (NN business) (NNS days)) (SBAR (S (VP (TO to) (VP (VB respond))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN addition)) (PP (TO to) (NP (NP (DT the) (JJ usual) (NN array)) (PP (IN of) (NP (NNS defenses))) (, ,) (PP (VBG including) (NP (NP (DT a) (JJ so-called) (NN poison) (NN pill)) (CC and) (NP (DT a) (JJ staggered) (NN board)))))))) (, ,) (NP (NNP Nekoosa)) (VP (VBZ has) (NP (NP (DT another) (NN takeover) (NN defense)) (: :) (NP (NP (DT a) (NNP Maine) (NN state) (NN law)) (VP (VBG barring) (NP (JJ hostile) (NNS bidders)) (PP (IN from) (S (VP (VBG merging) (VP (VBN acquired) (NP (NNS businesses)) (PP (IN for) (NP (CD five) (NNS years))))))))))) (. .)))
+
+(S1 (S (NP (NNP Nekoosa)) (VP (VBZ is) (VP (VBN incorporated) (PP (IN in) (NP (NNP Maine))))) (. .)))
+
+(S1 (S (NP (NNP Georgia-Pacific)) (VP (VBZ has) (VP (VBN filed) (NP (DT a) (NN lawsuit)) (PP (IN in) (NP (NP (JJ federal) (NN court)) (PP (IN in) (NP (NNP Maine))))) (VP (VBG challenging) (NP (NP (DT the) (NN poison) (NN pill)) (CC and) (NP (DT the) (NNP Maine) (NN merger) (NN law)))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Nekoosa) (POS 's)) (NN poison) (NN pill)) (VP (VBZ allows) (S (NP (NNS shareholders)) (VP (TO to) (VP (VB vote) (S (VP (TO to) (VP (VB rescind) (NP (PRP it)))))))))) (, ,) (CC but) (S (NP (NNP Georgia-Pacific)) (VP (VBZ is) (RB n't) (ADJP (JJ likely) (S (VP (TO to) (VP (VB pursue) (NP (PDT such) (DT a) (NN course)) (ADVP (RB immediately)))))) (SBAR (IN because) (S (NP (DT that)) (VP (VP (MD would) (VP (VB take) (NP (QP (CD 90) (TO to) (CD 120)) (NNS days)))) (, ,) (CC and) (VP (MD would) (RB n't) (VP (VB affect) (NP (NP (DT the) (NNS provisions)) (PP (IN of) (NP (DT the) (NNP Maine) (NN law))))))))))) (. .)))
+
+(S1 (SINV (PP (IN Among) (NP (NP (NNS companies)) (VP (VBN mentioned) (PP (IN by) (NP (NP (NNS analysts)) (PP (IN as) (NP (NP (JJ possible) (NNS counterbidders)) (PP (IN for) (NP (NNP Nekoosa)))))))))) (VP (VBP are)) (NP (NP (NNP International) (NNP Paper)) (, ,) (NP (NNP Weyerhaeuser)) (, ,) (NP (NNP Canadian) (NNP Pacific) (NNP Ltd.)) (CC and) (NP (NNP MacMillan) (NNP Bloedel) (NNP Ltd))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure) (SBAR (S (NP (NN everybody) (RB else)) (VP (VBZ is) (VP (VBG putting) (NP (NN pencil)) (PP (TO to) (NP (NN paper))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Kathryn) (NNP McAuley)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP First) (NNP Manhattan) (NNP Co))))) (. .)))
+
+(S1 (S (NP (NP (NNP International) (NNP Paper)) (CC and) (NP (NNP Weyerhaeuser))) (VP (VBD declined) (S (VP (TO to) (VP (VB comment))))) (. .)))
+
+(S1 (S (S (NP (NNP Canadian) (NNP Pacific)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (NN comment))))))) (, ,) (CC and) (S (NP (NNP MacMillan) (NNP Bloedel)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ has) (RB n't) (NP (DT any) (NNS plans) (S (VP (TO to) (VP (VB make) (NP (NP (DT a) (NN bid)) (PP (IN for) (NP (NNP Nekoosa))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Investors)) (VP (VBD were) (ADJP (JJ quick) (S (VP (TO to) (VP (VB spot) (NP (NP (JJ other) (JJ potential) (NN takeover) (NNS candidates)) (, ,) (SBAR (WHNP (DT all) (WHPP (IN of) (WHNP (WDT which)))) (S (VP (VBP have) (NP (NP (JJ strong) (NN cash) (NNS flows)) (CC and) (NP (JJ low-cost) (NNS operations)))))))))))) (. .)))
+
+(S1 (SINV (PP (IN Among) (NP (NP (NN paper) (NN company) (NNS stocks)) (SBAR (WHNP (WDT that)) (S (VP (VBD rallied) (PP (IN on) (NP (DT the) (NNP Big) (NNP Board))) (PP (IN because) (IN of) (NP (DT the) (NN offer)))))))) (VP (VBD were) (NP (NP (NNP Union) (NNP Camp)) (, ,) (NP (NP (QP (IN up) ($ $) (CD 2.75) (TO to) ($ $) (CD 37.75))) (, ,) (NP (JJ Federal) (NN Paperboard)) (, ,) (NP (QP (IN up) ($ $) (CD 1.75) (TO to) ($ $) (CD 27.875)))) (, ,))) (NP (NP (NNP Mead)) (, ,) (NP (QP (IN up) ($ $) (CD 2.375) (TO to) ($ $) (CD 38.75))) (, ,) (CC and) (NP (NNP Temple) (NNP Inland) (NNP Inc.)) (, ,) (ADVP (RB up) (NP (QP ($ $) (CD 3.75) (TO to) ($ $) (CD 62.25))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ over-the-counter) (JJ national) (NN trading))) (, ,) (NP (NNP Bowater) (NNP Inc.)) (VP (VBD jumped) (NP ($ $) (CD 1.50)) (PP (TO to) (NP ($ $) (CD 27.50)))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS analysts)) (VP (VBD argued) (SBAR (IN that) (S (NP (EX there)) (VP (MD wo) (RB n't) (VP (VB be) (NP (NP (DT a) (NN flurry)) (PP (IN of) (NP (NNS takeovers)))) (SBAR (IN because) (S (NP (NP (DT the) (NN industry) (POS 's)) (VBG continuing) (NN capacity-expansion) (NN program)) (VP (VBZ is) (VP (VBG eating) (PRT (RP up)) (NP (JJ available) (NN cash))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (DT some) (NNS analysts)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP expect) (S (NP (NP (DT a) (JJ foreign) (NN paper) (NN company)) (PP (IN with) (NP (NP (JJR deeper) (NNS pockets)) (PP (IN than) (NP (NNP Georgia-Pacific)))))) (VP (TO to) (VP (VB end) (PRT (RP up)) (S (VP (VBG acquiring) (NP (NNP Nekoosa)))) (, ,) (S (VP (VBG signaling) (PP (TO to) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN industry))))) (SBAR (IN that) (S (NP (JJ hostile) (NNS bids)) (VP (VBP are) (ADJP (JJ unproductive)))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ one-time) (NN event))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Lawrence) (NNP Ross)) (PP (IN of) (NP (NNP PaineWebber) (NNP Inc.)))) (, ,) (S (VP (VBG referring) (PP (TO to) (NP (DT the) (NNP Georgia-Pacific) (NN bid))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ many) (NNS analysts)) (VP (VBP believe) (SBAR (IN that) (, ,) (S (PP (VBN given) (NP (NP (NP (DT the) (NN attractiveness)) (PP (IN of) (NP (NP (NN paper) (NNS companies) (POS ')) (NN cash) (NNS flows)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (JJ frantic) (NN consolidation)) (PP (IN of) (NP (DT the) (NN paper) (NN industry))) (PP (IN in) (NP (NNP Europe)))))) (, ,) (NP (EX there)) (VP (MD will) (VP (VB be) (NP (NP (ADJP (QP (IN at) (JJS least) (DT a) (JJ few)) (JJR more)) (JJ big) (JJ hostile) (NNS bids)) (PP (IN for) (NP (NNP U.S.) (NNS companies)))) (PP (IN within) (NP (DT the) (JJ next) (JJ several) (NNS months)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS buyers)) (PRN (, ,) (S (NP (DT these) (NNS analysts)) (VP (VBD added))) (, ,)) (VP (MD could) (VP (VB be) (NP (DT either) (ADJP (JJ foreign) (CC or) (JJ other)) (NNP U.S.) (NNS concerns)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NNP Georgia-Pacific) (NN bid)) (VP (MD may) (VP (VB open) (NP (NP (DT the) (NN door)) (PP (TO to) (NP (NP (DT a) (JJ new) (NN era)) (PP (IN of) (NP (NN consolidation))) ('' ')))) ('' ') (PP (IN in) (NP (DT the) (NN paper) (NN industry)))))) (, ,) (VP (VBD said)) (NP (NP (NNP Mark) (NNP Devario)) (PP (IN of) (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (NN anyone)) (VP (VBZ is) (ADVP (RB now)) (ADJP (JJ immune) (PP (IN from) (NP (NN takeover))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Robert) (NNP Schneider)) (PP (IN of) (NP (NP (NNP Duff) (CC &) (NNP Phelps) (NNP Inc.)) (, ,) (NP (NNP Chicago))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD added) (: :) (`` `) (S (`` `) (NP (DT Every) (NN paper) (NN company) (NN management)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (S (VP (VBG saying) (PP (TO to) (NP (PRP itself))) (, ,) (`` `) (S (SBAR (IN Before) (S (NP (NN someone)) (VP (VBZ comes) (PP (IN after) (NP (PRP me)))))) (, ,) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB go) (PP (IN after) (NP (NN somebody))))))))))))))) (. .) ('' '))) (: ') ('' ')))
+
+(S1 (S (NP (NP (NNP Prudential-Bache) (POS 's)) (NNP Mr.) (NNP Rodgers)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ does) (RB n't) (VP (VB see) (NP (NP (DT the) (NN industry) (POS 's)) (JJ capacity-expansion) (NN program) (VBG hindering) (NN takeover) (NN activity))))))) (. .)))
+
+(S1 (S (NP (JJ Several) (NNS projects)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (VP (VBP are) (ADVP (RB still)) (PP (IN on) (NP (DT the) (NN drawing) (NN board)))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (`` `) (S (`` `) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (ADJP (JJR cheaper) (CC and) (JJR quicker)) (SBAR (S (VP (TO to) (VP (VB buy) (NP (DT a) (NN plant) (SBAR (IN than) (S (VP (TO to) (VP (VB build) (NP (CD one))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS analysts)))) (VP (VBD said) (SBAR (IN that) (S (NP (JJ Japanese) (NN paper) (NNS companies)) (VP (VBP are) (ADJP (JJ hungry) (S (VP (TO to) (VP (VB acquire) (NP (JJ additional) (NN manufacturing) (NN capacity)) (ADVP (RB anywhere) (PP (IN in) (NP (DT the) (NN world)))))))))))) (. .)))
+
+(S1 (S (NP (DT Some)) (VP (VBD predicted) (SBAR (IN that) (S (NP (NNP Nekoosa)) (VP (MD will) (VP (VB end) (PRT (RP up)) (S (VP (VBG being) (VP (VBN owned) (PP (IN by) (NP (DT a) (JJ Japanese) (NN company))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (NNP Shearson) (NNP Lehman) (POS 's)) (NNP Mr.) (NNP Devario)) (VP (VBD said) (SBAR (IN that) (, ,) (S (S (VP (TO to) (VP (VB stay) (ADJP (JJ competitive))))) (, ,) (NP (DT the) (NNP U.S.) (NN paper) (NN industry)) (VP (VBZ needs) (S (VP (TO to) (VP (VB catch) (PRT (RP up)) (PP (IN with) (NP (DT the) (JJ European) (NN industry)))))))))) (. .)))
+
+(S1 (S (S (SBAR (IN Since) (S (NP (NP (DT the) (JJS most-recent) (NN wave)) (PP (IN of) (NP (JJ friendly) (NNS takeovers)))) (VP (VBD was) (VP (VBN completed) (PP (IN in) (NP (DT the) (NNP U.S.))) (PP (IN in) (NP (CD 1986))))))) (, ,) (NP (EX there)) (VP (VBP have) (VP (VBN been) (NP (NP (QP (JJR more) (IN than) (CD 100)) (NNS mergers) (CC and) (NNS acquisitions)) (PP (IN within) (NP (DT the) (JJ European) (NN paper) (NN industry))))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+

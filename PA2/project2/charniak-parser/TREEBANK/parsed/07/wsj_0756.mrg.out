@@ -1,0 +1,92 @@
+(S1 (S (SBAR (IN As) (S (NP (DT the) (NNP Soviet) (NNP Union)) (VP (VBZ grapples) (PP (IN with) (NP (PRP$ its) (VBG worsening) (NN economy)))))) (, ,) (NP (JJ leading) (NNS reformers)) (VP (VBP have) (VP (VBN drawn) (PRT (RP up)) (NP (NP (DT a) (NN blueprint)) (PP (IN for) (NP (NN change))) (VP (VBN designed) (S (VP (TO to) (VP (VB push) (NP (DT the) (NN nation)) (ADJP (RB much) (JJR closer) (PP (TO to) (NP (DT a) (JJ free-market) (NN system))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS proposals)) (VP (VBP go) (PP (ADVP (RB far)) (IN beyond) (NP (NP (DT the) (NN current)) (CC and) (NP (NP (ADJP (RB rather) (VBN confused)) (NNS policies)) (PP (IN of) (NP (NP (FW perestroika)) (, ,) (NP (NP (NP (NNP Mikhail) (NNP Gorbachev) (POS 's)) (NN restructuring)) (PP (IN of) (NP (DT the) (NN economy)))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD lay) (PRT (RP out)) (NP (NP (NP (DT a) (JJ clear) (NN timetable)) (CC and) (NP (NN methodology))) (PP (IN for) (S (VP (VBG liberalizing) (NP (NP (DT the) (NN system)) (PP (IN of) (S (VP (VP (VBG setting) (NP (NNS prices))) (, ,) (VP (VBG breaking) (PRT (RP up)) (NP (JJ huge) (JJ industrial) (NNS monopolies))) (CC and) (VP (VBG putting) (NP (JJ unprofitable) (JJ state-owned) (NNS companies)) (PP (IN out) (PP (IN of) (NP (NN business)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (ADVP (RB also)) (VP (VP (VB address) (NP (ADJP (JJ such) (JJ taboo)) (NNS subjects)) (PP (IN as) (NP (NP (DT the) (NN likelihood)) (PP (IN of) (NP (NN unemployment) (CC and) (JJ high) (NN inflation)))))) (, ,) (CC and) (VP (VB recommend) (NP (NP (NNS ways)) (SBAR (S (VP (TO to) (VP (VB soften) (NP (DT the) (JJ social) (NNS consequences))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NP (JJ many) (NNS solutions)) (PP (TO to) (NP (NP (DT the) (NN nation) (POS 's)) (JJ economic) (NNS troubles)))) (VP (VBP are) (VP (VBG being) (VP (VBN discussed)))))) (, ,) (NP (DT the) (NN blueprint)) (VP (VBZ is) (VP (VBG attracting) (NP (JJ widespread) (NN attention)) (PP (ADVP (RB here)) (IN because) (IN of) (NP (PRP$ its) (NX (NX (NN comprehensiveness)) (CC and) (NX (VBN presumed) (JJ high-level) (NN authorship))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (PRP it)) (VP (VBD was) (VP (VBN published) (VP (VBN unsigned) (PP (IN in) (NP (NP (DT the) (JJS latest) (NN edition)) (PP (IN of) (NP (DT the) (JJ weekly) (NNP Ekonomicheskaya) (NNP Gazeta)))))))))) (, ,) (NP (NNP Soviet) (NNS sources)) (VP (VBP say) (SBAR (S (NP (DT the) (NN article)) (VP (VBD was) (VP (VBN written) (PP (IN by) (NP (NP (NNP Leonid) (NNP Abalkin)) (CC and) (NP (NP (DT a) (JJ small) (NN group)) (PP (IN of) (NP (NNS colleagues))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Abalkin)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (DT the) (NNP Academy))) (PP (IN of) (NP (NP (NP (NNP Science) (POS 's)) (NNP Institute)) (PP (IN of) (NP (NNP Economics)))))) (, ,)) (VP (VBD was) (ADVP (RB recently)) (VP (VBN appointed) (S (NP (NP (NP (NN deputy) (NN chairman)) (PP (IN of) (NP (DT the) (JJ Soviet) (NN government)))) (CC and) (NP (NN head)) (PP (IN of) (NP (NP (DT a) (NN state) (NN commission)) (PP (IN on) (NP (JJ economic) (NN reform))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADVP (RB clearly)) (NP (NP (DT a) (NN manifesto)) (PP (IN for) (NP (DT the) (JJ next) (NN stage))) (PP (IN of) (NP (FW perestroika)))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (CD one) (NN analyst)) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ economic) (NNS ideas)) (PP (IN in) (NP (DT the) (NN document)))) (VP (VBP are) (ADJP (ADJP (RB much) (JJR bolder)) (PP (IN than) (NP (JJ current) (NNS policies))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (NP (DT the) (VBN proposed) (NN overhaul)) (PP (IN of) (NP (NNS prices)))) (: --) (NP (DT an) (ADJP (RB extremely) (JJ sensitive)) (JJ political) (NN topic)) (: --)) (VP (VBZ is) (ADJP (ADVP (RB far) (RBR more)) (JJ precise) (PP (IN than) (NP (NP (DT the) (JJ vague) (NNS plans)) (VP (VP (VBN announced) (PP (IN by) (NP (NNP Mr.) (NNP Gorbachev))) (PP (IN in) (NP (CD 1987)))) (CC and) (VP (ADVP (RB later)) (VBN dropped))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNS proposals)) (ADVP (RB also)) (VP (VBP display) (ADJP (JJ political) (JJ savvy)) (, ,) (S (VP (VBG couching) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ controversial)) (NNS ideas)) (PP (IN in) (NP (NP (JJ cautious) (NN language)) (CONJP (RB so) (RB as) (RB not) (TO to) (VB alienate)) (NP (NP (JJ powerful) (NNS conservatives)) (PP (IN in) (NP (DT the) (NN government))) (SBAR (WHNP (WP who)) (S (VP (VBP stand) (S (VP (TO to) (VP (VB lose) (PRT (RP out)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP are) (VP (VBN implemented)))))))))))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Seeking) (NP (DT a) (JJ middle) (NN path)) (PP (IN between) (NP (NP (NP (NNS opponents)) (PP (IN of) (NP (NN change)))) (CC and) (NP (NP (NNS radicals)) (SBAR (WHNP (WP who)) (S (VP (VBP demand) (NP (JJ overnight) (NNS solutions)))))))))) (, ,) (NP (DT the) (NN article)) (VP (VBZ advocates) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ calls) (NP (DT a) (ADJP (`` `) (`` `) (JJ radical-moderate)) (NN approach)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN document)) (VP (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN discussed) (PP (IN at) (NP (NP (DT a) (NN conference)) (PP (IN of) (NP (VBG leading) (NNS economists))))) (NP (RB late) (DT this) (NN month))))))) (, ,) (CC and) (VP (MD will) (ADVP (RB probably)) (VP (VB be) (VP (VBN presented) (PP (TO to) (NP (DT the) (NNP Soviet) (NNP Parliament))) (PP (IN for) (NP (NP (NN consideration)) (NP (DT this) (NN year)))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NNS policy-makers)) (VP (VB draw) (PRT (RP up)) (NP (NP (NNS proposals)) (PP (IN for) (NP (NP (DT the) (JJ next) (JJ five-year) (NN plan)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ starts) (PP (IN in) (NP (CD 1991)))))))))))) (, ,) (NP (DT the) (NN blueprint)) (VP (VBZ represents) (NP (NP (DT a) (JJ powerful) (JJ first) (NN shot)) (PP (IN in) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (JJ fierce) (NN battle)) (PP (IN over) (NP (JJ economic) (NN reform)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS authors)) (VP (VP (VBP make) (NP (NP (DT a) (JJ gloomy) (NN assessment)) (PP (IN of) (NP (DT the) (NN economy))))) (CC and) (VP (VBP concede) (SBAR (IN that) (`` `) (S (NP (NP (ADJP (`` `) (JJ quick) (CC and) (JJ easy)) (NNS paths)) (PP (TO to) (NP (NN success)))) (ADVP (RB simply)) (VP (VBP do) (RB n't) (VP (VB exist))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (PRP they)) (VP (VB map) (PRT (RP out)) (NP (NP (DT a) (NN strategy)) (PP (IN in) (NP (JJ several) (NNS phases)))) (PP (IN from) (NP (RB now))) (PP (IN until) (NP (CD 1995)))) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NNS measures)))) (VP (MD would) (ADVP (RB probably)) (ADVP (RB only)) (VP (VB start) (S (VP (TO to) (VP (VB have) (NP (NP (DT an) (NN effect)) (PP (IN on) (NP (JJ beleaguered) (JJ Soviet) (NNS consumers)))) (PP (IN in) (NP (QP (CD two) (TO to) (CD three)) (NNS years)))))) (PP (IN at) (NP (DT the) (JJS earliest))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ key) (NNS steps)) (VP (VBN advocated))) (VP (VBP include) (: :) (: --) (NP (NN PROPERTY))) (. .)))
+
+(S1 (S (NP (NP (JJ Rigid) (JJ ideological) (NNS restrictions)) (PP (IN on) (NP (NN property) (NN ownership)))) (VP (MD should) (VP (VB be) (VP (VBN abandoned)))) (. .)))
+
+(S1 (S (NP (DT The) (NN document)) (VP (VBZ proposes) (S (VP (VP (VBG breaking) (PRT (RP up)) (NP (NP (DT the) (JJ monolithic) (NN system)) (PP (IN of) (NP (JJ state-owned) (NNS enterprises) (CC and) (NNS farms))))) (CC and) (VP (VBG allowing) (NP (NP (DT a) (JJ big) (JJ private) (NN sector)) (SBAR (S (VP (TO to) (VP (VB flourish))))))))) (, ,) (S (VP (VBN helped) (PP (IN by) (NP (JJ tough) (JJ anti-monopoly) (NN legislation)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN economy)) (VP (MD would) (VP (VB be) (VP (VBN thrown) (ADJP (JJ open) (PP (TO to) (NP (NP (JJ numerous) (NNS types)) (PP (IN of) (NP (NP (NN ownership)) (PP (IN between) (NP (NP (RB now)) (CC and) (NP (CD 1992)))))) (, ,) (PP (VBG including) (NP (NP (NNS factories)) (VP (VP (VBN leased) (PP (IN by) (NP (NNS workers)))) (CC or) (VP (VBN owned) (PP (IN by) (NP (NP (NNS shareholders)) (, ,) (NP (NNS cooperatives)) (CC and) (NP (JJ joint) (NNS ventures)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT Some) (NNS forms)) (PP (IN of) (NP (JJ private) (NN property)))) (VP (MD would) (VP (VB be) (VP (VBN sanctioned)))) (. .)))
+
+(S1 (S (NP (JJ Such) (NNS moves)) (VP (MD would) (VP (ADVP (RB greatly)) (VB reduce) (NP (NP (DT the) (NN power)) (PP (IN of) (NP (NP (NN government) (NNS ministries)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB now)) (VP (VP (ADVP (RB jealously)) (NN guard) (NP (PRP$ their) (NN turf))) (CC and) (VBP are) (VP (VBN seen) (PP (IN as) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ major) (NNS obstacles)) (VP (VBG blocking) (NP (JJ economic) (NN reform)))))))))))))))) (. .)))
+
+(S1 (S (: --) (NP (NNS FINANCES)) (. .)))
+
+(S1 (S (NP (NN Emergency) (NNS measures)) (VP (MD would) (VP (VB be) (VP (VBN introduced) (S (VP (TO to) (VP (VB ease) (NP (NP (NP (DT the) (NN country) (POS 's)) (JJ financial) (NN crisis)) (, ,) (RB notably) (NP (PRP$ its) (ADJP (QP ($ $) (CD 200) (CD billion))) (NN budget) (NN deficit))))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (JJ next) (NN year))))) (, ,) (NP (DT all) (JJ loss-making) (NN state) (NNS enterprises)) (VP (MD would) (VP (VB be) (VP (VP (VBN put) (PRT (RP out)) (PP (IN of) (NP (NN business)))) (CC or) (VP (VBD handed) (PRT (RP over)) (PP (TO to) (NP (NP (NNS workers)) (SBAR (WHNP (WP who)) (S (VP (MD would) (VP (VP (VB buy) (CC or) (VB lease) (NP (PRP them))) (CC or) (VP (VB turn) (NP (PRP them)) (PP (IN into) (NP (NNS cooperatives)))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Similar) (NNS steps)) (VP (MD would) (VP (VB be) (VP (VBN taken) (S (VP (TO to) (VP (VB liquidate) (NP (JJ unprofitable) (UCP (NN state) (CC and) (JJ collective)) (NNS farms)) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 1991))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ unified) (NN system)) (PP (IN of) (NP (NN taxation)))) (VP (MD should) (VP (VB be) (VP (VBN introduced) (ADVP (RB rapidly))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB mop) (PRT (RP up)) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (QP (CD 300) (CD billion)) (NNS rubles)) (PP (IN in) (NP (NN circulation))))))))) (, ,) (NP (DT the) (NN government)) (VP (MD should) (VP (VB encourage) (NP (NN home) (NN ownership)) (, ,) (PP (VBG including) (S (VP (VBG issuing) (NP (NP (NNS bonds)) (SBAR (WHNP (WDT that)) (S (VP (VBP guarantee) (NP (NNS holders)) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB purchase) (NP (DT an) (NN apartment))))))))))))))) (. .)))
+
+(S1 (S (: --) (NP (NN LABOR)) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ genuine) (NN market)) (PP (IN for) (NP (NN labor) (CC and) (NNS wages)))) (VP (MD would) (VP (VB replace) (NP (DT the) (JJ present) (JJ rigid) (, ,) (JJ centralized) (NN system)))) (. .)))
+
+(S1 (S (S (VP (VBG Departing) (PP (IN from) (NP (NP (NNS decades)) (PP (IN of) (NP (JJ Soviet) (NN dogma))))))) (, ,) (NP (DT the) (JJ new) (NN system)) (VP (MD would) (VP (VB lead) (PP (PP (TO to) (NP (NP (JJ big) (NNS differences)) (PP (IN in) (NP (NN pay))) (PP (IN between) (NP (NNS workers))))) (CC and) (PP (ADVP (RB almost) (RB certainly)) (TO to) (NP (NN unemployment)))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB cushion) (NP (DT the) (NNS blows))))) (, ,) (NP (DT the) (NN government)) (VP (MD would) (VP (VB introduce) (NP (NP (DT a) (JJ minimum) (NN wage)) (CC and) (NP (NN unemployment) (NNS benefits))))) (. .)))
+
+(S1 (S (: --) (NP (NNS PRICES)) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (JJ entire) (NN system)) (PP (IN of) (NP (ADJP (RB centrally) (VBN set)) (NNS prices)))) (VP (MD would) (VP (VB be) (VP (VBN overhauled))))) (, ,) (CC and) (S (NP (NN free-market) (NNS prices)) (VP (VBD introduced) (PP (IN for) (NP (NP (ADJP (RBS most) (JJ wholesale)) (NN trade)) (CC and) (NP (DT some) (JJ retail) (NN trade)))))) (. .)))
+
+(S1 (S (S (NP (NNS Consumers)) (VP (MD would) (ADVP (RB still)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB buy) (NP (DT some) (NN food) (CC and) (NN household) (NNS goods)) (PP (IN at) (NP (JJ subsidized) (NNS prices)))))))))) (, ,) (CC but) (S (NP (NP (NN luxury) (CC and) (VBN imported) (NNS items)) (, ,) (PP (VBG including) (NP (NN food))) (, ,)) (VP (MD would) (VP (VB be) (VP (VBN sold) (PP (IN at) (NP (NN market) (NNS prices))))))) (. .)))
+
+(S1 (S (NP (JJ Wholesale) (NNS prices)) (VP (MD would) (VP (VB be) (VP (VBN divided) (PP (IN into) (NP (NP (CD three) (NNS categories)) (: :) (NP (NP (JJ raw) (NNS materials)) (VP (VBN sold) (PP (IN at) (NP (NP (JJ fixed) (NNS prices)) (ADJP (JJ close) (PP (TO to) (NP (NN world) (NNS levels))))))) (: ;) (NP (NP (JJ government-set) (NN procurement) (NNS prices)) (PP (IN for) (NP (NP (DT a) (JJ small) (NN number)) (PP (IN of) (NP (JJ key) (NNS products)))))) (: ;) (CC and) (NP (NP (JJ free) (NNS prices)) (PP (IN for) (NP (NP (NN everything)) (SBAR (S (RB else) (VP (TO to) (VP (VB be) (VP (VBN determined) (PP (IN by) (NP (NP (NNS contracts)) (PP (IN between) (NP (NNS suppliers) (CC and) (NNS purchasers))))))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Inflation-adjusted) (JJ social) (NNS benefits)) (VP (MD would) (VP (VB ensure) (SBAR (IN that) (S (NP (DT the) (JJ poor) (CC and) (JJ elderly)) (VP (VBP do) (RB n't) (VP (VB suffer) (ADVP (RB unduly)))))))) (. .)))
+
+(S1 (NP (: --) (NNP FOREIGN) (NNP TRADE) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ current) (NN liberalization) (CC and) (NN decentralization)) (PP (IN of) (NP (JJ foreign) (NN trade)))) (VP (MD would) (VP (VB be) (VP (VBN taken) (ADVP (RB much) (RB further))))) (. .)))
+
+(S1 (S (NP (JJ Soviet) (NNS companies)) (VP (VP (MD would) (VP (VB face) (NP (NP (JJR fewer) (NNS obstacles)) (PP (IN for) (NP (NNS exports)))))) (CC and) (VP (MD could) (ADVP (RB even)) (VP (VB invest) (NP (PRP$ their) (JJ hard) (NN currency)) (ADVP (RB abroad))))) (. .)))
+
+(S1 (S (NP (NNS Foreigners)) (VP (MD would) (VP (VB receive) (NP (JJR greater) (NNS incentives) (S (VP (TO to) (VP (VB invest) (PP (IN in) (NP (DT the) (NNP U.S.S.R.))))))))) (. .)))
+
+(S1 (S (PP (IN Alongside) (NP (DT the) (JJ current) (JJ non-convertible) (NN ruble))) (, ,) (NP (DT a) (JJ second) (NN currency)) (VP (MD would) (VP (VB be) (VP (VBN introduced) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB be) (ADVP (RB freely)) (VP (VBN exchanged) (PP (IN for) (NP (NP (NNS dollars)) (CC and) (NP (JJ other) (JJ Western) (NNS currencies)))))))))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ domestic) (JJ foreign) (NN exchange) (NN market)) (VP (MD would) (VP (VB be) (VP (VBN set) (PRT (RP up)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT an) (NN overhaul)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (NN banking) (NN system)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN blueprint)) (VP (VBZ is) (PP (IN at) (NP (PRP$ its) (NN vaguest))) (SBAR (WHADVP (WRB when)) (S (VP (VBG referring) (PP (TO to) (NP (NP (DT the) (NN fate)) (PP (IN of) (NP (NP (DT the) (CD two) (JJ powerful) (JJ economic) (NNS institutions)) (SBAR (WHNP (WDT that)) (S (VP (VBP seem) (ADJP (JJ likely) (S (VP (TO to) (VP (VB oppose) (NP (JJ such) (JJ sweeping) (NNS plans)))))) (: :) (NP (NP (NP (DT the) (NNP State) (NNP Planning) (NNP Committee)) (, ,) (VP (VBN known) (PP (IN as) (NP (NNP Gosplan))))) (, ,) (CC and) (NP (NP (DT the) (NNP State) (NNP Committee)) (PP (IN for) (NP (NN Material) (NN Supply)))) (, ,) (CC or) (NP (NNP Gossnab)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (NNS hints) (SBAR (ADVP (RB strongly)) (IN that) (S (NP (DT both) (NNS organizations)) (VP (MD would) (ADVP (RB increasingly)) (VP (VB lose) (NP (PRP$ their) (NN clout)) (SBAR (IN as) (S (NP (NP (DT the) (NNS changes)) (, ,) (ADVP (RB particularly)) (NP (NP (NP (DT the) (NN introduction)) (PP (IN of) (NP (JJ wholesale) (NN trade)))) (CC and) (NP (NP (DT the) (NN breakup)) (PP (IN of) (NP (NN state) (NNS monopolies))))) (, ,)) (VP (VBP take) (NP (NN effect)))))))))) (. .)))
+

@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP USG) (NNP Corp.)) (VP (VP (VBD agreed) (S (VP (TO to) (VP (VB sell) (NP (PRP$ its) (NN headquarters) (NN building)) (ADVP (RB here)) (PP (TO to) (NP (NP (NNPS Manufacturers) (NNP Life) (NNP Insurance) (NNP Co.)) (PP (IN of) (NP (NNP Toronto))))))))) (, ,) (CC and) (VP (MD will) (VP (VB lease) (NP (DT the) (JJ 19-story) (NN facility)) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ moves) (PP (TO to) (NP (NP (DT a) (JJ new) (NNS quarters)) (PP (IN in) (NP (CD 1992))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS building-materials) (NN concern)) (VP (VBD did) (RB n't) (VP (VB disclose) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (DT the) (NN sale)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB close) (PP (IN in) (NP (NP (DT the) (JJ first) (NN quarter)) (PP (IN of) (NP (JJ next) (NN year)))))))))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (NNS Proceeds)) (PP (IN from) (NP (NP (DT the) (JJ planned) (NN sale)) (PP (IN of) (NP (DT the) (JJ 250,000-square-foot) (NN building)))))) (`` `) (VP (`` `) (VP (MD will) (VP (VB help) (VP (VB reduce) (NP (NP (DT the) (NN debt)) (VP (VBN incurred) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (PRP$ our) (NNP July) (CD 1988) (NN recapitalization)))))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (DT a) (NNP USG) (NN official)) (. .)))
+

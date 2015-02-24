@@ -1,0 +1,46 @@
+(S1 (S (PP (IN In) (SBAR (WHNP (WP what)) (S (VP (MD could) (VP (VB prove) (NP (NP (DT a) (JJ major) (NN addition)) (PP (TO to) (NP (NP (DT the) (NNPS Philippines) (POS ')) (JJ foreign-investment) (NN portfolio))))))))) (, ,) (NP (DT a) (JJ Taiwanese) (NN company)) (VP (VBD signed) (NP (NP (DT a) (ADJP (QP ($ $) (CD 180) (CD million))) (NN construction) (NN contract)) (SBAR (S (VP (TO to) (VP (VB build) (NP (NP (DT the) (NN centerpiece)) (PP (IN of) (NP (DT a) (VBN planned) (NN petrochemical) (NN complex)))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Taiwan) (POS 's)) (NNP USI) (NNP Far) (NNPS East) (NNP Corp.)) (, ,) (NP (DT a) (NN petrochemical) (NN company)) (, ,)) (VP (VBD initialed) (NP (NP (DT the) (NN agreement)) (PP (IN with) (NP (DT an) (JJ unidentified) (JJ Japanese) (NN contractor))) (S (VP (TO to) (VP (VB build) (NP (DT a) (NN naphtha) (NN cracker)))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNP Alson) (NNP Lee)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ heads) (SBAR (S (NP (DT the) (NNP Philippine) (NN company)) (VP (VBD set) (PRT (RP up)) (S (VP (TO to) (VP (VB build) (CC and) (VB operate) (NP (DT the) (NN complex))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Lee)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Luzon) (NNP Petrochemical) (NNP Corp.)))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN contract)) (VP (VBD was) (VP (VBN signed) (NP (NNP Wednesday)) (PP (IN in) (NP (NNP Tokyo))) (PP (IN with) (NP (NNP USI) (NNP Far) (NNP East) (NNS officials)))))))) (. .)))
+
+(S1 (S (NP (NN Contract) (NNS details)) (, ,) (ADVP (RB however)) (, ,) (VP (VBP have) (RB n't) (VP (VBN been) (VP (VBN made) (S (ADJP (JJ public)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN complex)) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (VP (VBN located) (PP (IN in) (NP (NP (NNP Batangas)) (, ,) (ADVP (NP (QP (RB about) (CD 70)) (NNS miles)) (RB south) (PP (IN of) (NP (NNP Manila))))))))))) (. .)))
+
+(S1 (S (NP (NNP USI) (NNP Far) (NNP East)) (VP (MD will) (VP (VB hold) (NP (NP (DT a) (ADJP (CD 60) (NN %)) (NN stake)) (PP (IN in) (NP (NNP Luzon) (NNP Petrochemical)))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNS papers)) (VP (VBN signed) (PP (IN with) (NP (NP (NP (DT the) (NNP Philippine) (NN government) (POS 's)) (NNP Board)) (PP (IN of) (NP (NNP Investments))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (VBN proposed) (NN petrochemical) (NN plant)) (VP (MD would) (VP (VB use) (NP (NN naphtha)) (S (VP (TO to) (VP (VB manufacture) (NP (NP (DT the) (NNS petrochemicals) (NN propylene) (CC and) (NN ethylene)) (CC and) (NP (PRP$ their) (NN resin) (NNS derivatives) (, ,) (NN polypropylene) (CC and) (NN polyethylene)))))))) (. .)))
+
+(S1 (S (NP (DT These)) (VP (VBP are) (NP (NP (DT the) (JJ raw) (NNS materials)) (VP (VBN used) (PP (IN in) (S (VP (VBG making) (NP (NNS plastics)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN contract) (NN signing)) (VP (VBD represented) (NP (NP (DT a) (JJ major) (NN step)) (PP (IN in) (NP (DT the) (JJ long-planned) (NN petrochemical) (NN project))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT an) (VBN estimated) (QP ($ $) (CD 360) (CD million)))) (, ,) (NP (DT the) (NN project)) (VP (MD would) (VP (VB represent) (NP (NP (DT the) (ADJP (JJ single) (JJS largest)) (JJ foreign) (NN investment)) (PP (IN in) (NP (DT the) (NNPS Philippines)))) (SBAR (IN since) (S (NP (NNP President) (NNP Corazon) (NNP Aquino)) (VP (VBD took) (NP (NN office)) (PP (IN in) (NP (NNP February) (CD 1986)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ is) (VP (VBN considered) (ADJP (JJ critical) (PP (TO to) (NP (NP (DT the) (NN country) (POS 's)) (NNS efforts) (S (VP (TO to) (VP (DT both) (VP (VB attract) (NP (NP (JJ other) (NN investment)) (PP (IN from) (NP (NNP Taiwan))))) (CC and) (VP (VB raise) (NP (JJ heavy) (NN industry) (NNS capabilities))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN project)) (VP (VBZ has) (VP (VBN been) (ADVP (IN in) (CC and) (IN out) (PP (IN of) (NP (DT the) (NN pipeline)))) (PP (IN for) (NP (QP (JJR more) (IN than) (DT a)) (NN decade))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NNS workers)) (VP (MD ca) (RB n't) (VP (VB break) (NP (NN ground)) (SBAR (IN until) (S (NP (JJ legal) (NNS maneuvers) (S (VP (TO to) (VP (VB block) (NP (DT the) (NN complex)))))) (VP (VBP are) (VP (VP (VBN resolved)) (, ,) (NP (NP (NNS moves)) (SBAR (WHNP (WDT which)) (S (VP (VBD caused) (S (NP (DT the) (NN signing)) (VP (TO to) (VP (VB remain) (ADJP (JJ questionable)) (PP (IN up) (PP (TO to) (NP (DT the) (JJ last) (NN moment))))))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (ADVP (RB previously)) (VP (VBN reported)))) (, ,) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (NP (DT the) (NNPS Philippines) (POS ')) (NNP House)) (PP (IN of) (NP (NNPS Representatives)))))) (VP (VBZ has) (VP (VBN sued) (S (VP (TO to) (VP (VB stop) (NP (DT the) (NN plant))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN legislator)) (, ,) (NP (NNP Enrique) (NNP Garcia)) (, ,)) (VP (VBD had) (VP (VP (ADVP (RB actively)) (VBN backed) (NP (DT the) (NN plant))) (, ,) (CC but) (VP (PP (IN at) (NP (NP (DT the) (JJ original) (NN site)) (PP (IN in) (NP (NP (PRP$ his) (NN constituency) (NN northwest)) (PP (IN of) (NP (NNP Manila)))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN country) (POS 's)) (NNP Supreme) (NNP Court)) (VP (VBD dismissed) (NP (DT the) (NN suit)))) (, ,) (CC but) (S (NP (NNP Mr.) (NNP Garcia)) (NP (RB late) (JJ last) (NN month)) (VP (VBD filed) (PP (IN for) (NP (DT a) (NN reconsideration))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP President) (NNP Aquino)) (VP (VBZ has) (ADVP (RB yet)) (S (VP (TO to) (VP (VB sign) (PP (IN into) (NP (NN law))) (NP (DT a) (NN bill)) (S (VP (VBG removing) (NP (NP (NP (DT a) (JJ stiff) (ADJP (CD 48) (NN %)) (NN tax)) (PP (IN on) (NP (NN naphtha)))) (, ,) (NP (NP (DT the) (JJ principal) (JJ raw) (NN material)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (DT the) (NN cracker)))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (PP (IN at) (NP (NP (DT a) (NN news) (NN conference)) (NP (NNP Thursday)))) (, ,) (NP (NNP Mrs.) (NNP Aquino)) (VP (VP (VBD backed) (NP (DT the) (NN project))) (CC and) (VP (VBD said) (SBAR (S (NP (PRP$ her) (NN government)) (VP (VBD was) (VP (VBG attempting) (S (VP (TO to) (VP (VB soothe) (NP (NP (DT the) (NNS feelings)) (PP (IN of) (NP (NNS residents)))) (PP (IN at) (NP (DT the) (JJ original) (NN site))) (, ,) (ADVP (JJ adjacent) (PP (TO to) (NP (NP (NP (DT the) (NN government) (POS 's)) (JJ major) (NN petroleum) (NN refinery)) (PP (IN in) (NP (NNP Bataan) (NN province))))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP have) (VP (VBN tried) (NP (PRP$ our) (JJS best)) (S (VP (TO to) (VP (VB tell) (NP (NP (DT the) (NNS people)) (PP (IN in) (NP (NNP Bataan)))) (SBAR (IN that) (S (S (ADVP (RB maybe)) (NP (DT this) (NN time)) (NP (PRP it)) (VP (MD will) (RB not) (VP (VB go) (PP (TO to) (NP (PRP them)))))) (, ,) (CC but) (S (ADVP (RB certainly)) (NP (PRP we)) (VP (MD will) (VP (VB do) (NP (PRP$ our) (JJS best)) (S (VP (TO to) (VP (VB encourage) (S (NP (JJ other) (NNS investors)) (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (NN province)))))))))))))))))))) (, ,) ('' ') ('' ') (NP (NNP Mrs.) (NNP Aquino)) (VP (VBD told) (NP (JJ Manila-based) (JJ foreign) (NNS correspondents))) (. .)))
+
+(S1 (S (NP (DT The) (NN project)) (VP (VBD appeared) (S (VP (TO to) (VP (VB be) (PP (IN on) (NP (DT the) (NNS rocks)))))) (NP (RBR earlier) (DT this) (NN month)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NP (DT the) (JJ other) (JJ major) (NN partner)) (PP (IN in) (NP (DT the) (NN project)))) (, ,) (NP (NNP China) (NNP General) (NNS Plastics) (NNP Corp.)) (, ,)) (VP (VBD backed) (PRT (RP out)))))) (. .)))
+
+(S1 (S (NP (NP (NNP China) (NNP General) (NNS Plastics)) (, ,) (NP (DT another) (JJ Taiwanese) (NN petrochemical) (NN manufacturer)) (, ,)) (VP (VBD was) (S (VP (TO to) (VP (VB have) (NP (NP (DT a) (ADJP (CD 40) (NN %)) (NN stake)) (PP (IN in) (NP (NNP Luzon) (NNP Petrochemical)))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NNP Mr.) (NNP Lee)) (VP (VBD said) (SBAR (IN that) (S (NP (NNP USI) (NNP Far) (NNP East)) (VP (VBZ is) (ADJP (JJ confident) (SBAR (S (NP (JJ other) (NNS investors)) (VP (MD will) (VP (VB take) (PRT (RP up)) (NP (DT the) (NN slack))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (NNP USI) (NNP Far) (NNP East)) (VP (VBZ has) (VP (VBN applied) (PP (TO to) (NP (PDT both) (NP (DT the) (NNP Asian) (NNP Development) (NNP Bank)) (CC and) (NP (NP (DT the) (NNP World) (NNP Bank) (POS 's)) (NNP International) (NNP Finance) (NNP Corp.)))) (PP (IN for) (NP (NP (NN financing)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB include) (NP (NN equity) (NNS stakes))))))))))))) (. .)))
+

@@ -1,0 +1,36 @@
+(S1 (PRN (-LRB- -LRB-) (S (PP (IN During) (NP (PRP$ its) (NN centennial) (NN year))) (, ,) (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal)) (VP (MD will) (VP (VB report) (NP (NP (NNS events)) (PP (IN of) (NP (DT the) (JJ past) (NN century))) (SBAR (WHNP (WDT that)) (S (VP (VBP stand) (PP (IN as) (NP (NP (NNS milestones)) (PP (IN of) (NP (JJ American) (NN business) (NN history))))))))))) (. .)) (-RRB- -RRB-)))
+
+(S1 (S (NP (NP (NNP MORGAN) (NNP STANLEY)) (, ,) (NP (DT THE) (ADJP (RB ONCE) (JJ STODGY)) (NN investment) (NN house)) (, ,)) (PP (IN in) (NP (CD 1974))) (VP (VBD helped) (S (NP (DT a) (JJ corporate) (NN client)) (VP (VB complete) (NP (DT a) (NN hostile) (NN takeover))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (NN start)) (PP (IN of) (NP (NP (DT a) (NN boom)) (PP (IN in) (NP (JJ unfriendly) (PRN (, ,) (ADVP (RB even) (RB ungentlemanly)) (, ,)) (NNS mergers))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP July) (CD 18) (, ,) (CD 1974))) (, ,) (NP (NP (NP (NNP International) (NNP Nickle)) (PP (IN of) (NP (NNP Canada)))) (PRN (: --) (VP (VBN advised) (PP (IN by) (NP (NNP Morgan)))) (: --))) (VP (VBD offered) (NP (NP (NP ($ $) (CD 28)) (NP (DT a) (NN share))) (, ,) (ADJP (JJ equal) (PP (TO to) (NP (QP ($ $) (CD 157) (CD million))))) (, ,)) (PP (IN for) (NP (NP (NNP ESB)) (, ,) (NP (DT a) (NNP Philadelphia) (NN battery) (NN maker))))) (. .)))
+
+(S1 (S (NP (NNP ESB)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBN given) (NP (NP (RB only) (DT a) (JJ three-hour) (NN advance)) (VP (VBG warning) (PP (IN on) (NP (DT a) (`` `) (S (`` `) (VP (VP (VB take) (NP (PRP it))) (CC or) (VP (VB leave) (NP (PRP it)))) ('' ')) ('' ') (NN basis))) (PP (IN from) (NP (NNP Inco))) (, ,) (SBAR (IN as) (S (NP (DT the) (NNP Toronto) (NN company)) (VP (VBZ is) (VP (VBN called)))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP ESB)) (VP (VBZ is) (ADJP (JJ aware) (SBAR (IN that) (S (NP (DT a) (JJ hostile) (NN tender) (NN offer)) (VP (VBZ is) (VP (VBG being) (VP (VBN made) (PP (IN by) (NP (DT a) (JJ foreign) (NN company))))))))) (PP (IN for) (NP (NP (DT all)) (PP (IN of) (NP (NP (NNP ESB) (POS 's)) (NNS shares)))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP F.J.) (NNP Port)) (, ,) (NP (NP (NNP ESB) (POS 's)) (NN president))) (. .)))
+
+(S1 (S (S (`` `) (ADJP (`` `) (JJ Hostile) ('' ')) ('' ')) (ADVP (RB thus)) (VP (VBD entered) (NP (DT the) (JJ merger-acquisition) (NN lexicon))) (. .)))
+
+(S1 (S (NP (NP (NNP Joseph) (NNP Flom)) (, ,) (PP (IN of) (NP (NNP Skadden) (, ,) (NNP Arps) (, ,) (NNP Slote) (, ,) (NNP Meagher) (CC &) (NNP Flom))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD became) (NP (NP (DT a) (VBG leading) (JJ legal) (NN firm)) (PP (IN in) (NP (NN merger) (NNS cases))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN case)) (`` `) (VP (`` `) (VBD made) (NP (NP (NNS takeovers)) (ADJP (JJ respectable))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (NNP ESB)) (VP (VBD spurned) (NP (NNP Inco)))) (CC and) (S (PP (IN within) (NP (CD five) (NNS days))) (NP (NNP ESB)) (VP (VBD had) (NP (NP (DT a) (ADJP (`` `) (ADJP (`` `) (JJ white) (NN knight) ('' ')) ('' '))) (SBAR (IN as) (S (NP (NP (NNP United) (NNP Aircraft)) (: --) (VP (VBN headed) (PP (IN by) (NP (NP (NNP Harry) (NNP Gray)) (, ,) (NP (NP (DT a) (RB shrewdly) (JJ friendly) (NN acquirer)) (PP (IN of) (NP (NNS companies))))))) (: --)) (VP (VBD offered) (NP (NP ($ $) (CD 34)) (NP (DT a) (NN share))))))))) (. .)))
+
+(S1 (S (NP (NNP Gray)) (VP (VBD was) (VP (VBN advised) (PP (IN by) (NP (NP (NNP Goldman) (NNP Sachs)) (CC and) (NP (NNP Merrill) (NNP Lynch)))))) (. .)))
+
+(S1 (S (S (NP (NNP ESB) (NNS directors)) (ADVP (RB warmly)) (VP (VBD accepted))) (, ,) (CC but) (S (NP (DT a) (NN whirlwind) (NN bidding) (NN match)) (VP (VBD ensued))) (. .)))
+
+(S1 (S (S (PP (IN Within) (NP (NP (DT a) (JJ few) (NNS days)) (PP (IN in) (NP (NNP July))))) (, ,) (NP (NNP Inco)) (VP (VBD raised) (NP (PRP$ its) (NN bid)) (PP (TO to) (NP ($ $) (CD 36))))) (CC and) (S (NP (NNP United)) (VP (VBD matched) (NP (PRP it)))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT a) (JJ single) (NN day))) (NP (NNP Inco)) (VP (VP (VBD lifted) (NP (PRP$ its) (NN offer)) (PP (TO to) (NP ($ $) (CD 38)))) (CC and) (VP (ADVP (RB then)) (PP (TO to) (NP (NP ($ $) (CD 41)) (, ,) (ADJP (JJ equal) (PP (TO to) (NP (QP ($ $) (CD 225.5) (CD million))))))))) (. .)))
+
+(S1 (S (NP (NNP United)) (VP (VP (VBD met) (NP (DT the) ($ $) (CD 38))) (CC but) (VP (ADVP (RB then)) (VBD withdrew))) (. .)))
+
+(S1 (S (NP (NNP ESB)) (PP (IN on) (NP (NNP July) (CD 29))) (VP (VBD accepted) (NP (DT the) (NNP Inco) (NN offer))) (CC and) (S (NP (NP (DT the) (JJ brief) (NN battle)) (PRN (: --) (PP (IN unlike) (NP (NP (DT the) (ADJP (JJ intricate) (CC and) (JJ lengthy)) (JJ big) (NNS takeovers)) (PP (IN of) (NP (CD 1984-1989))))) (: --))) (VP (VBD was) (ADVP (RB over)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ new) (JJ gritty) (NN game)) (VP (VBD became) (NP (DT a) (NN money) (NN maker)) (PP (IN for) (NP (NP (NNP Wall) (NNP Street) (POS 's)) (ADJP (RB once) (JJ austere)) (JJ old-name) (NNS houses)))) (. .)))
+
+(S1 (S (NP (NNP Inco)) (VP (VBD paid) (NP (NNP Morgan)) (NP (NP (DT an) (JJ advisory) (NN fee)) (PP (IN of) (NP (NP (RB about) ($ $) (CD 250,000)) (, ,) (NP (NP (DT a) (JJ paltry) (NN figure)) (PP (IN by) (NP (NP (NN today) (POS 's)) (NNS measures)))))))) (. .)))
+
+(S1 (S (NP (RB Early) (DT this) (NN year)) (NP (NP (NNP Morgan)) (CC and) (NP (CD three) (JJ other) (NN investment) (NNS houses))) (VP (DT each) (VP (VBD received) (NP (NP (QP ($ $) (CD 25) (CD million))) (PP (IN in) (NP (NN advisory) (NNS fees)))) (PP (IN from) (NP (NP (NNP Kohlberg) (NNP Kravis) (CC &) (NNP Roberts)) (PP (IN in) (NP (NP (PRP$ its) (ADJP (QP ($ $) (CD 25) (CD billion))) (JJ friendly) (NN buy-out)) (PP (IN of) (NP (NNP RJR) (NNP Nabisco))))))))) (. .)))
+

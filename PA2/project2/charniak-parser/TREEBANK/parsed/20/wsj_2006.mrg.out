@@ -1,0 +1,20 @@
+(S1 (S (NP (NNP US) (NNP Facilities) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NNP Robert) (NNP J.) (NNP Percival)) (VP (VBD agreed) (S (VP (TO to) (VP (VB step) (PRT (RP down)) (PP (IN as) (NP (NP (NN vice) (NN chairman)) (PP (IN of) (NP (DT the) (NN insurance) (VBG holding) (NN company)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (EX There)) (VP (VBD was) (NP (NP (DT a) (NN difference)) (PP (IN of) (NP (NN opinion)))) (PP (IN as) (PP (TO to) (NP (NP (DT the) (JJ future) (NN direction)) (PP (IN of) (NP (DT the) (NN company))))))) (, ,) ('' ')) ('' ') (NP (DT a) (NN spokeswoman)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Percival)) (VP (VBD declined) (S (VP (TO to) (VP (VB comment))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NN statement))) (, ,) (NP (NNP US) (NNP Facilities)) (VP (VBD said) (SBAR (S (NP (NP (NNP Mr.) (NNP Percival) (POS 's)) (NN employment) (NN contract)) (VP (VBZ calls) (SBAR (IN for) (S (NP (PRP him)) (VP (TO to) (VP (VB act) (PP (IN as) (NP (NP (DT a) (NN consultant)) (PP (TO to) (NP (DT the) (NN company))))) (PP (IN for) (NP (CD two) (NNS years))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (VP (MD will) (ADVP (RB also)) (VP (VB remain) (NP (DT a) (NN director))))) (PRN (, ,) (S (NP (NNP US) (NNP Facilities)) (VP (VBD said))) (, ,)) (CC but) (S (VP (MD wo) (RB n't) (VP (VB serve) (PP (IN on) (NP (DT any) (NN board) (NNS committees)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Percival)) (VP (MD will) (VP (VB be) (VP (VBN succeeded) (PP (IN on) (NP (DT an) (JJ interim) (NN basis))) (PP (IN by) (NP (NP (NNP George) (NNP Kadonada)) (, ,) (NP (NP (NNP US) (NNP Facilities) (NN chairman)) (CC and) (NP (NN president)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ same) (NN statement))) (, ,) (NP (NNP US) (NNP Facilities)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD had) (VP (VBN bought) (ADVP (RB back)) (NP (NP (CD 112,000)) (PP (IN of) (NP (PRP$ its) (JJ common) (NNS shares)))) (PP (IN in) (NP (DT a) (JJ private) (NN transaction)))))))) (. .)))
+
+(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (NP (DT The) (NN buy-back)) (VP (VBZ represents) (NP (NP (QP (IN about) (CD 3)) (NN %)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NNS shares))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (QP (CD 3.7) (CD million)) (NNS shares)) (ADJP (JJ outstanding)) (PP (IN as) (PP (IN of) (NP (NNP Sept.) (CD 30))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ national) (JJ over-the-counter) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NNP US) (NNP Facilities)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 3.625))) (, ,) (ADVP (JJ unchanged))) (. .)))
+

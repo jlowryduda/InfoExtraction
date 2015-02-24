@@ -1,0 +1,6 @@
+(S1 (S (NP (NP (PRP$ Your) (NNP Sept.) (CD 25) (NN criticism)) (PP (IN of) (NP (NN credit-card) (NN foreign-exchange) (NNS charges)))) (VP (VBZ is) (ADJP (JJ unwarranted))) (. .)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBP have) (ADVP (RB just)) (VP (VBN returned) (PP (IN from) (NP (NNP France)))))) (, ,) (CC and) (S (NP (NP (DT the) (JJ net) (NN exchange) (NN rate)) (VP (VBN charged) (PP (IN on) (NP (PRP$ my) (NNP Visa) (NN account))))) (VP (VBD was) (ADJP (ADJP (RBR more) (JJ favorable)) (SBAR (IN than) (S (NP (PRP I)) (VP (VBD obtained) (PP (IN for) (NP (NP (NN traveler) (POS 's)) (NNS checks))) (PP (IN in) (NP (NP (DT any)) (PP (IN of) (NP (NP (DT the) (JJ several) (NNS banks)) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD converted) (NP (PRP them))))))))))))))) (. .)))
+
+(S1 (NP (NP (NNP Vincent) (NNP Jolivet) (NNP Kenmore)) (, ,) (NP (NNP Wash)) (. .)))
+

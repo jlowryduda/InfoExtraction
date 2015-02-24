@@ -1,0 +1,44 @@
+(S1 (S (NP (JJ Blue-chip) (NNS advertisers)) (VP (VBP have) (NP (NP (NN plenty)) (PP (IN of) (NP (NP (NNS complaints)) (PP (IN about) (NP (NP (DT the) (NNS magazines)) (SBAR (S (NP (PRP they)) (VP (VBP advertise) (PRT (RP in))))))) (, ,) (VP (VBG ranging) (PP (PP (IN from) (NP (JJ inadequate) (NN consumer) (NN research))) (PP (TO to) (NP (NN ad) (`` `) (NP (`` `) (NN clutter) ('' ')) (POS ') (CC and) (NP (NP (DT a) (ADJP (RB seemingly) (JJ unchecked)) (NN proliferation)) (PP (IN of) (NP (JJ special) (NN interest) (NNS magazines)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Criticism)) (PP (IN from) (NP (NP (JJ such) (JJ big) (NNS advertisers)) (PP (IN as) (NP (NP (NNP Estee) (NNP Lauder) (NNP Inc.)) (, ,) (NP (NNP Colgate-Palmolive) (NNP Co.)) (CC and) (NP (NNP Seagram) (NNP Co.))))))) (VP (VBN put) (NP (DT a) (NN damper)) (PP (IN on) (NP (NP (DT the) (NN euphoria)) (PP (IN at) (NP (NP (DT the) (NNP American) (NNP Magazine) (NNP Conference)) (ADVP (RB here))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN conference)) (VP (VBD opened) (NP (NNP Monday)) (PP (IN with) (S (VP (VBG glowing) (NP (NP (NNS reports)) (PP (IN about) (NP (NP (NP (NN consumer) (NNS magazines) (POS ')) (NN growth)) (PP (IN in) (NP (NN circulation) (CC and) (NN advertising) (NN revenue))) (PP (IN in) (NP (DT the) (JJ past) (NN year)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNS Magazines)) (VP (VBP are) (RB not) (VP (VBG providing) (NP (NP (PRP us) (JJ in-depth) (NN information)) (PP (IN on) (NP (NN circulation)))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Edgar) (NNP Bronfman) (NNP Jr.)) (, ,) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (VBG operating) (NN officer))) (PP (IN of) (NP (NNP Seagram))))) (, ,) (PP (IN in) (NP (DT a) (NN panel) (NN discussion))) (. .)))
+
+(S1 (SBARQ (`` `) (`` `) (WHADVP (WRB How)) (SQ (VBP do) (NP (NNS readers)) (VP (VBP feel) (PP (IN about) (NP (DT the) (NN magazine))))) (. ?)))
+
+(S1 (SBARQ (WHADVP (WRB How) (RB deeply)) (SQ (VBP do) (NP (PRP they)) (VP (VB read) (NP (PRP it)))) (. ?)))
+
+(S1 (S (NP (NN Research)) (VP (VBZ does) (RB n't) (VP (VB tell) (NP (PRP us)) (SBAR (IN whether) (S (NP (NNS people)) (ADVP (RB actually)) (VP (VBP do) (VP (VBN read) (NP (NP (DT the) (NNS magazines)) (SBAR (S (NP (PRP they)) (VP (VBP subscribe) (PP (TO to)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Reuben) (NNP Mark)) (, ,) (NP (NP (JJ chief) (NN executive)) (PP (IN of) (NP (NNP Colgate-Palmolive)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NNS advertisers)) (VP (VBP lack) (NP (NP (JJ detailed) (ADJP (JJ demographic) (CC and) (JJ geographic)) (NNS breakdowns)) (PP (IN of) (NP (NP (NNS magazines) (POS ')) (NNS audiences)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP need) (NP (NP (NN research)) (SBAR (WHNP (WDT that)) (S (VP (VBZ convinces) (NP (PRP us)))))) (SBAR (IN that) (S (NP (NNS magazines)) (VP (VBP are) (NP (NP (DT a) (JJ real) (NN value)) (PP (IN in) (NP (NP (NNP reader) (POS 's)) (NNS lives)))) (, ,) (SBAR (IN that) (S (NP (NNS readers)) (VP (VBP are) (ADVP (RB really)) (VP (VBN involved))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (DT The) (NNS critics)) (ADVP (RB also)) (VP (VBD lambasted) (NP (NP (DT the) (NN magazine) (NN industry)) (SBAR (IN for) (S (NP (NN something) (NNS executives)) (ADVP (RB often)) (VP (VBP are) (ADJP (RB very) (JJ proud) (PP (IN of)))))) (: :) (NP (NP (DT the) (NN growth)) (PP (IN in) (NP (NN magazine) (NNS titles))))) (PP (IN during) (NP (DT the) (CD 1980s)))) (. .)))
+
+(S1 (S (NP (NP (NNP Leonard) (NNP Lauder)) (, ,) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP Estee) (NNP Lauder)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NN consumer) (NNS magazines)) (VP (VBP are) (VP (VBG suffering) (PP (IN from) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD called) (S (`` `) (NP (`` `) (NP (NN niche-itis)) (, ,) ('' ')) ('' ')))))) (NP (NP (DT the) (VBG increasing) (NN number)) (PP (IN of) (NP (NNS magazines))) (SBAR (WHNP (WDT that)) (S (VP (VBP target) (NP (NP (DT the) (JJ idosyncratic) (NNS interests)) (PP (IN of) (NP (NNS readers))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP Niche-itis)) (VP (NNS fragments) (NP (PRP$ our) (NN advertising) (NNS dollars))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NNP Mr.) (NNP Lauder)) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP We)) (VP (VBP are) (VP (VBG being) (VP (VBN over-magazined))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP are) (ADVP (RB constantly)) (VP (VBN faced) (PP (IN with) (S (VP (VBG deciding) (NP (NP (WDT which) (NNS partnerships)) (-LRB- -LCB-) (PP (IN with) (NP (NNS magazines))) (-RRB- -RCB-)) (SBAR (S (NP (PRP we)) (VP (MD can) (VP (VB keep)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBD added) (: :) (`` `) (S (S (`` `) (NP (EX There)) (VP (VBZ 's) (ADVP (RB probably)) (NP (NP (RB even) (DT a) (NN magazine)) (PP (IN for) (NP (JJ left-handed) (NNS golfers) (NNS ..))))) (. .)) (CC but) (S (NP (DT the) (JJ general) (NN interest) (NN magazine)) (VP (VBZ is) (NP (NP (NN something)) (SBAR (S (S (NP (PRP we)) (ADVP (DT all)) (VP (VBP miss))) (, ,) (CC and) (S (NP (PRP it)) (VP (MD should) (VP (VB come) (ADVP (RB back)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Lauder)) (ADVP (RB also)) (VP (VBD attacked) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ sees) (PP (IN as) (NP (NP (DT the) (JJ wide) (NN imitation)) (PP (IN of) (NP (NP (NNP Elle)) (, ,) (NP (NP (DT a) (NN fashion) (NN magazine)) (VP (VP (VBN published) (PP (IN by) (NP (NNP Diamandis) (NNPS Communications) (NNP Inc.)))) (, ,) (CC and) (VP (VBN criticized) (NP (NP (DT the) (NN practice)) (PP (IN of) (S (VP (VBG stacking) (NP (NNS ads)) (PP (IN at) (NP (NP (DT the) (NN front)) (PP (IN of) (NP (NNS magazines)))))))))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNS Readers)) (VP (VBP do) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB face) (NP (PDT all) (DT those) (NN ad) (NNS pages)) (PP (IN at) (NP (NP (DT the) (NN front)) (PP (IN of) (NP (DT a) (NN magazine)))))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NN Magazine) (NNS editors)) (VP (VBD did) (RB not) (VP (VB take) (NP (NP (DT the) (NNS criticisms)) (VP (VBG lying) (ADVP (RB down)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP spend) (NP (DT a) (NN fortune)) (PP (IN on) (NP (NN research) (NN information)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Steve) (NNP Burzon)) (, ,) (NP (NP (NN publisher)) (PP (IN of) (NP (NP (NNP Meredith) (NNP Corp.) (POS 's)) (NP (NNP Metropolitan) (NNP Home)))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (NNP Tina) (NNP Brown)) (, ,) (NP (NP (NN editor)) (PP (IN of) (NP (NP (NP (NNP Conde) (NNP Nast) (NNPS Publications) (NNP Inc.)) (POS 's)) (NNP Vanity) (NNP Fair)))) (, ,)) (VP (VBD said) (SBAR (S (NP (NNS advertisers)) (VP (VBP are) (ADVP (RB frequently)) (VP (VBN asked) (S (VP (TO to) (VP (VB take) (NP (NP (NN advertising) (NNS positions)) (PP (IN in) (NP (NP (DT the) (NN back)) (PP (IN of) (NP (PRP$ her) (NN magazine)))))) (S (VP (TO to) (VP (VB relieve) (NP (NN ad) (NN clutter))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (CC But) (NP (NNS advertisers)) (VP (MD would) (RB n't) (VP (VB think) (PP (IN of) (NP (PRP it))))) (, ,) ('' ')) ('' ') (NP (PRP she)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Bernard) (NNP Leser)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Conde) (NNP Nast)))) (, ,)) (VP (VBD added) (: :) (`` `) (S (`` `) (NP (PRP$ Our) (NN research)) (VP (VBZ shows) (SBAR (S (NP (PRP we)) (VP (VBP sell) (SBAR (ADVP (JJR more) (IN of) (S (NP (PRP$ our) (JJR heavier) (NNS issues)) (VP (VBG ..)) (. .))) (IN because) (S (NP (NNS readers)) (VP (VBP believe) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (VBG getting) (NP (NP (JJR more)) (PP (IN for) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP pay) (PP (IN for)))))))))))))))))))) (. .)))
+

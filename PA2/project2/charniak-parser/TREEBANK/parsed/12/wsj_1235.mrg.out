@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP MCI) (NNPS Communications) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD received) (NP (DT a) (ADJP (QP ($ $) (CD 12) (CD million))) (NN contract) (S (VP (TO to) (VP (VB provide) (NP (JJ virtual) (NN network) (NNS services)) (PP (TO to) (NP (NP (NP (NNP Woolworth) (NNP Corp.) (POS 's)) (CD 5,600) (ADJP (JJ corporate) (CC and) (JJ retail)) (NNS sites)) (PP (IN in) (NP (DT the)))))))))))))))
+
+(S1 (S (NP (DT The) (NN contract)) (ADVP (RB also)) (VP (VBZ provides) (PP (IN for) (NP (JJ advanced) (NN billing) (CC and) (NN network) (NN management) (NNS services)))) (. .)))
+
+(S1 (S (NP (NNP Woolworth)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB expand) (NP (NP (NN usage)) (PP (IN of) (NP (DT the) (NNP MCI) (NNS services)))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ adds) (NP (QP (RB about) (CD 6,000)) (NN business) (NNS locations)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS years))))))))))))) (. .)))
+

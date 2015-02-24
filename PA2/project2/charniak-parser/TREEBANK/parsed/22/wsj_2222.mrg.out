@@ -1,0 +1,74 @@
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBD happened) (NP (NNP Friday))))) (VP (VBZ shows) (SBAR (IN that) (S (NP (JJ financial) (NNS markets)) (VP (VBP are) (RB not) (ADVP (RB yet)) (ADJP (RB sufficiently) (VBN coordinated) (S (VP (TO to) (VP (VB handle) (NP (NP (DT another) (NN meltdown)) (PP (IN in) (NP (NNS prices)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT No) (NN fiddling)) (PP (IN with) (NP (NNS systems) (CC and) (NNS procedures)))) (VP (MD will) (ADVP (RB ever)) (VP (VB prevent) (NP (NNS markets)) (PP (IN from) (S (VP (VBG suffering) (NP (NP (DT a) (NN panic) (NN wave)) (PP (IN of) (NP (NN selling))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS markets)) (VP (MD can) (VP (VB operate) (PP (IN with) (NP (JJR greater) (CC or) (JJR lesser) (NN efficiency))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (DT the) (CD 1987) (NN plunge))) (, ,) (NP (NNS markets)) (VP (VBD agreed) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (JJ wise) (S (VP (TO to) (VP (VB halt) (NP (NN trading)))))) (SBAR (WHADVP (WRB whenever)) (S (NP (NN panic) (NNS conditions)) (VP (VBD arose))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)) (VP (VBD adopted) (NP (CD two) (JJ specific) (NN circuit) (NNS breakers)))) (: :) (S (SBAR (IN If) (S (NP (DT the) (NNP Dow) (NNP Jones) (NN index)) (VP (VBZ falls) (NP (CD 250) (NNS points)) (PP (IN in) (NP (DT a) (NN day)))))) (, ,) (NP (DT the) (NN exchange)) (VP (MD will) (VP (VB halt) (NP (NN trading)) (PP (IN for) (NP (CD one) (NN hour)))))) (: ;) (S (SBAR (IN if) (S (NP (DT the) (NN decline)) (VP (VBZ hits) (NP (CD 400) (NNS points))))) (, ,) (NP (DT the) (NN exchange)) (VP (MD will) (VP (VB close) (PP (IN for) (NP (DT an) (JJ additional) (CD two) (NNS hours)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN rationale)) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (DT an) (NN interruption)) (PP (IN of) (NP (NN trading)))) (VP (MD will) (VP (VB allow) (S (NP (NNS investors)) (VP (TO to) (VP (VP (VB reconsider) (NP (PRP$ their) (NNS strategies))) (, ,) (VP (VB calm) (NP (NNS sellers))) (CC and) (VP (VB lead) (NP (NNS buyers) (S (VP (TO to) (VP (VB enter) (NP (DT the) (NN market)) (PP (IN at) (NP (VBN indicated) (JJ new) (NN price) (NNS levels)))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ impossible) (SBAR (S (VP (TO to) (VP (VB know) (SBAR (IN whether) (S (NP (DT that) (NN theory)) (VP (VBZ is) (ADJP (JJ realistic))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ temporary) (NN cessation)) (PP (IN of) (NP (NN trading)))) (VP (MD may) (ADVP (RB indeed)) (VP (VB discourage) (NP (DT a) (NN selling) (NN panic)) (PP (IN from) (S (VP (VBG feeding) (PP (IN on) (NP (PRP itself)))))))) (. .)))
+
+(S1 (S (CC But) (NP (EX there)) (VP (VBZ is) (ADVP (RB also)) (NP (DT the) (NN possibility) (SBAR (IN that) (S (S (VP (VBG shutting) (PRT (RP down)) (NP (NNS markets)))) (VP (MD will) (VP (VP (VB intensify) (NP (NNS fears))) (CC and) (VP (VB cause) (NP (NP (DT an) (ADJP (ADVP (RB even) (RBR more)) (JJ abrupt)) (NN slide)) (PP (IN in) (NP (NNS prices))))))))))) (. .)))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBD happened) (NP (NNP Friday))))) (VP (VBD was) (NP (NP (DT the) (JJS worst)) (PP (IN of) (NP (DT all) (NNS worlds))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS futures) (NNS exchanges)) (VP (VP (VBD followed) (NP (PRP$ their) (JJ own) (JJ pre-set) (NN circuit) (NNS breakers))) (CC and) (VP (VBD shut) (PRT (RP down)) (PP (IN at) (NP (RB about) (CD 3) (NN p.m.))) (PP (IN for) (NP (CD 30) (NNS minutes))) (, ,) (SBAR (IN after) (S (NP (NP (DT the) (NNP Standard) (CC &) (NNP Poor) (POS 's)) (CD 500) (NN stock) (NN index)) (VP (VBD had) (VP (VBN fallen) (NP (NP (CD 12) (NNS points)) (, ,) (CC or) (NP (QP (RB about) (CD 100)) (NNS points))) (PP (IN on) (NP (DT the) (NNP Dow) (NNP Jones) (NN index))))))))) (. .)))
+
+(S1 (S (NP (NNS Options) (NNS markets)) (VP (VBD stopped) (S (VP (VBG trading) (PP (IN in) (NP (JJ many) (NNS securities)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)) (, ,) (PP (IN under) (NP (PRP$ its) (JJ own) (NNS rules))) (, ,) (VP (VBD remained) (ADJP (JJ open))) (. .)))
+
+(S1 (S (PP (IN With) (ADJP (RB nowhere) (RB else) (S (VP (TO to) (VP (VB go)))))) (, ,) (NP (NP (NNS sellers)) (, ,) (CC and) (ADVP (RB particularly)) (NP (NN program) (NNS traders)) (, ,)) (VP (VBN focused) (NP (PDT all) (PRP$ their) (NN selling)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NP (NN liquidity)) (PP (IN on) (NP (DT that) (NN market)))) (VP (VBN weakened)))) (, ,) (NP (NNS prices)) (VP (VBD fell) (ADVP (RB sharply))) (. .)))
+
+(S1 (SINV (VBD Had) (NP (DT the) (NNS futures) (CC and) (NNS options) (NNS markets)) (VP (VBN been) (ADJP (JJ open)) (, ,) (SBAR (S (NP (JJ additional) (NN liquidity)) (VP (MD would) (VP (VB have) (VP (VBN been) (VP (VBN provided) (SBAR (S (CC and) (NP (DT the) (NN decline)) (, ,) (ADVP (RBS most) (RB probably)) (, ,) (VP (MD would) (VP (VB have) (VP (VBN been) (ADJP (RBR less) (JJ intense)))))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (CD 3:30))) (, ,) (PP (IN after) (NP (NP (NP (JJ intense) (NN telephone) (NNS negotiations)) (PP (IN between) (NP (DT the) (NN trading) (NNS markets)))) (CC and) (NP (NNP Washington)))) (, ,) (NP (DT the) (NNS futures) (NNS exchanges)) (VP (VBD reopened)) (. .)))
+
+(S1 (S (NP (NNS Futures) (NN trading)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD was) (VP (VBN halted) (ADVP (RB altogether)) (PP (IN at) (NP (CD 3:45))) (, ,) (SBAR (IN after) (S (NP (DT the) (NNS futures) (NNS markets)) (VP (VBD had) (VP (VBN dropped) (NP (NP (DT an) (JJ additional) (CD 30) (NNS points)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (JJ daily) (NN limit)) (PP (IN for) (NP (NN price) (NNS declines)))))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT this) (NN point))) (, ,) (NP (DT the) (NNS options) (NNS markets)) (ADVP (RB also)) (VP (VP (VBD shut) (PRT (RP down))) (CC and) (VP (ADVP (RB once) (JJR more)) (VBD left) (S (NP (DT all) (NNS sales)) (VP (TO to) (VP (VB be) (VP (VBN handled) (PP (IN by) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB recognize) (SBAR (IN that) (S (NP (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)) (, ,) (NP (DT the) (NNS futures) (NNS markets)) (CC and) (NP (NP (DT the) (NNS options) (NNS markets)) (PRN (, ,) (SBAR (IN though) (FRAG (ADJP (RB physically) (JJ separate)))) (, ,)))) (VP (VBP have) (ADVP (RB actually)) (VP (VBN become) (VP (ADVP (RB so) (RB closely)) (VBN intertwined) (SBAR (IN as) (S (VP (TO to) (VP (VB constitute) (NP (CD one) (NN market)) (ADVP (RB effectively))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Traders)) (VP (MD can) (VP (VP (VB vary) (NP (PRP$ their) (NNS strategies))) (CC and) (VP (VB execute) (NP (PRP$ their) (NNS orders)) (PP (IN in) (NP (NP (DT any) (CD one)) (PP (IN of) (NP (PRP them)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB therefore)) (VP (VBZ makes) (NP (DT no) (NN sense) (SBAR (IN for) (S (NP (DT each) (NN market)) (VP (TO to) (VP (VB adopt) (NP (JJ different) (NN circuit) (NNS breakers)))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VP (VB achieve) (NP (JJ maximum) (NN liquidity))) (CC and) (VP (VB minimize) (NP (NN price) (NN volatility)))))) (, ,) (NP (RB either) (DT all) (NNS markets)) (VP (MD should) (VP (VB be) (ADJP (JJ open) (PP (TO to) (NP (NN trading) (CC or) (NN none)))))) (. .)))
+
+(S1 (S (S (S (VP (VBN Synchronized) (NP (NN circuit) (NNS breakers)))) (VP (MD would) (RB not) (VP (VB have) (VP (VBN halted) (NP (NP (DT the) (NN slide)) (PP (IN in) (NP (NNS prices)))) (PP (IN on) (NP (NNP Friday))))))) (, ,) (CC but) (S (NP (PRP they)) (ADVP (RB probably)) (VP (MD would) (VP (VB have) (VP (VBN made) (PP (IN for) (NP (JJR smoother) (, ,) (ADJP (RBR less) (JJ volatile)) (NNS executions))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NN time)) (PP (IN for) (NP (NP (DT the) (NNS exchanges)) (CC and) (NP (DT the) (NNP Securities) (CC and) (NNP Exchange) (NNP Commission)))) (SBAR (S (VP (TO to) (VP (VB agree) (PP (IN on) (NP (NP (JJ joint) (NNS conditions)) (PP (IN for) (S (VP (VP (VBG halting) (NP (NN trading))) (CC or) (VP (VBG staying) (PRT (RP open)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Let)) (VP (VBZ 's) (RB not) (VP (VB have) (S (S (NP (CD one) (NN market)) (VP (VBN shut) (PRT (RP down)) (PP (IN for) (NP (CD 30) (NNS minutes))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP Dow)) (VP (VBZ declines) (NP (CD 100) (NNS points))))))) (CC and) (S (NP (DT another)) (VP (VBD shut) (PRT (RP down)) (PP (IN for) (NP (NP (DT an) (NN hour)) (PP (IN after) (NP (DT a) (JJ 250-point) (NN decline)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN need)) (PP (IN for) (NP (NP (JJ hurried) (JJ last-minute) (NN telephone) (NNS negotiations)) (PP (IN among) (NP (NN market) (NNS officials)))))) (VP (MD will) (VP (VB disappear) (SBAR (IN once) (S (NP (NNS rules)) (VP (VBP are) (PP (IN in) (NP (NN place))) (SBAR (WHNP (WDT that)) (S (VP (VBP synchronize) (NP (NP (NN circuit) (NNS breakers)) (PP (IN in) (NP (DT all) (NNS markets)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ new) (NN circuit) (NNS breakers)) (, ,) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP are) (S (VP (TO to) (VP (VB be) (VP (VBN applied) (ADVP (IN at) (DT all))))))))) (, ,) (VP (MD will) (VP (VB require) (S (NP (DT that) (NNS futures) (CC and) (NNS options) (NN trading)) (VP (VB continue) (ADVP (ADVP (RB as) (RB long)) (SBAR (IN as) (S (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)) (VP (VBZ remains) (ADJP (JJ open)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS rules)) (VP (MD should) (VP (VB be) (VP (VBN established) (PP (IN by) (NP (NP (NN agreement)) (PP (IN of) (NP (NP (DT the) (NNS officials)) (PP (IN of) (NP (NP (DT all) (JJ affected) (NNS exchanges)) (VP (VBG acting) (PP (PP (IN under) (NP (DT the) (NN oversight))) (CC and) (PP (IN with) (NP (NP (DT the) (NN approval)) (PP (IN of) (NP (DT the) (NN government) (JJ regulatory) (NNS agencies)))))))))))))))) (. .)))
+
+(S1 (SQ (MD Should) (NP (NP (DT the) (NNP SEC)) (CC and) (NP (NP (DT the) (NNP Commodities) (NNP Futures) (NNP Trading) (NNP Commission)) (PRN (-LRB- -LRB-) (SBAR (WHNP (WDT which)) (PRN (, ,) (PP (IN with) (NP (DT the) (NNP SEC))) (, ,)) (S (VP (VBZ regulates) (NP (DT the) (NNP Chicago) (NN stock-index) (NNS markets))))) (-RRB- -RRB-)))) (VP (VB be) (ADJP (JJ unable) (S (VP (TO to) (VP (VB agree) (, ,) (SBAR (S (NP (DT the) (NN issue)) (VP (MD may) (VP (VB have) (S (VP (TO to) (VP (VB be) (VP (VBN resolved) (PP (IN by) (NP (NP (NN decision)) (PP (IN of) (NP (DT the) (NNP Treasury) (NN secretary)))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ many) (NNS ways))) (, ,) (NP (PRP$ our) (JJ financial) (NNS markets)) (VP (VBP are) (ADJP (RBR better) (JJ prepared) (S (NP (NN today)) (VP (TO to) (VP (VB handle) (NP (DT a) (NN decline) (SBAR (IN than) (S (NP (PRP they)) (VP (VBD were) (ADVP (NP (CD two) (NNS years)) (RB ago))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)) (ADVP (RB now)) (VP (VBZ has) (NP (DT the) (NN capacity) (S (VP (TO to) (VP (VB handle) (NP (NP (DT a) (NN volume)) (PP (IN of) (NP (NP (QP (RB nearly) (DT a) (CD billion)) (NNS shares)) (NP (DT a) (NN day)))))))))) (. .)))
+
+(S1 (S (S (NP (NN Telephone) (NN service)) (VP (VBZ has) (VP (VBN been) (VP (VBN improved) (PP (IN for) (NP (NP (NNS customers)) (VP (VBG trying) (S (VP (TO to) (VP (VB reach) (NP (PRP$ their) (NNS brokers)))))))))))) (, ,) (CC and) (S (NP (NP (NNS specialists)) (: --) (SBAR (WHNP (WP who)) (S (NP (PRP I)) (VP (VBP believe) (SBAR (S (VP (MD should) (VP (VB stay))))) (, ,) (PP (IN despite) (NP (NP (DT the) (NNS urgings)) (PP (IN of) (NP (DT some) (JJ post-crash) (NNS critics)))))))) (: --)) (VP (VBP have) (NP (JJR larger) (NN capital) (NNS positions)))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (PP (IN Of) (NP (NN course))) (, ,) (NP (NP (NP (NNS specialists) (POS ')) (NNS actions)) (ADVP (RB alone))) (VP (MD can) (ADVP (RB never)) (VP (VB prevent) (NP (DT a) (JJ major) (NN crack)) (PP (IN in) (NP (NN stock) (NNS prices))))) (. .)))
+
+(S1 (S (VP (VB Witness) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (NP (NN trading)) (PP (IN in) (NP (DT some) (NNS stocks)))) (VP (VP (VBD closed) (NP (JJ early) (NNP Friday))) (CC and) (VP (VBD opened) (NP (JJ late) (NNP Monday)) (PP (IN because) (IN of) (NP (NP (DT an) (NN excess)) (PP (IN of) (NP (NN sell) (NNS orders))))))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (CC But) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG improving) (NP (NN market) (NN performance)))))) (VP (VBZ remains) (ADJP (JJ unfinished))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Freund)) (, ,) (NP (NP (JJ former) (JJ chief) (NN economist)) (PP (IN of) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NN professor)) (PP (IN of) (NP (NNS economics))) (PP (IN at) (NP (NP (NP (NNP Pace) (NNP University) (POS 's)) (NN business) (NN school)) (PP (IN in) (NP (NNP New) (NNP York))))))) (. .)))
+

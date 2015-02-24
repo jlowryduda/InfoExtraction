@@ -1,0 +1,82 @@
+(S1 (S (NP (NP (JJ Many)) (PP (IN in) (NP (NNP Washington)))) (VP (VBP say) (SBAR (S (NP (NNP President) (NNP Bush)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB raise) (NP (NNS taxes)) (S (VP (TO to) (VP (VB pay) (PP (IN for) (NP (NP (PRP$ his) (NN war)) (PP (IN on) (NP (NNS drugs)))))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP We)) (VP (VBP have) (NP (DT a) (JJR better) (NN idea)))) (: :) (S (VP (VB Dismantle) (S (NP (NNP HUD)) (VP (TO to) (VP (VB pay) (PP (IN for) (NP (NP (DT the) (NN war)) (PP (IN on) (NP (NNS drugs)))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Housing) (CC and) (NNP Urban) (NNP Development)) (POS 's)) (NN budget)) (VP (VBZ is) (NP (QP ($ $) (CD 17) (CD billion)))) (. .)))
+
+(S1 (S (PP (IN From) (SBAR (WHNP (WP what)) (S (NP (NP (PRP we)) (CC and) (NP (DT the) (NN nation))) (VP (VBP have) (VP (VBN been) (VP (VBG reading))))))) (, ,) (NP (DT the) (NN money)) (VP (VBZ is) (RB n't) (VP (VBG being) (VP (VBN spent) (ADVP (RB very) (RB well))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (ADJP (JJ single) (RBS most) (JJ important)) (NN contribution)) (SBAR (S (NP (DT the) (NN government)) (VP (MD could) (VP (VB make) (ADVP (RB now)) (S (VP (TO to) (VP (VB help) (NP (DT the) (JJ poor)))))))))) (VP (VBZ is) (S (VP (TO to) (VP (VB get) (NP (NP (DT the) (NN specter)) (PP (IN of) (NP (NNS drugs)))) (PP (IN out) (PP (IN of) (NP (PRP$ their) (NNS neighborhoods)))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT that)) (VP (VBZ takes) (NP (NN money))))) (, ,) (VP (VB take) (NP (PRP it)) (ADVP (RB away) (PP (IN from) (NP (DT this) (VBN discredited) (JJ federal) (NN department))))) (. .)))
+
+(S1 (S (CC But) (PP (IN of) (NP (NN course))) (NP (NP (DT the) (NNPS Democrats)) (VP (VBG pillorying) (NP (NNP HUD)) (PP (PP (IN in) (NP (NNS hearings))) (CC and) (PP (IN in) (NP (DT the) (NN press)))))) (VP (VBP have) (NP (DT no) (JJ such) (NN solution)) (PP (IN in) (NP (NN mind)))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (PRP they)) (VP (VBP 're) (VP (VBG scrambling) (S (VP (TO to) (VP (VB protect) (NP (DT the) (JJ very) (NNS programs)) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (DT the) (NNP HUD) (NN scandal)))))))))) (. .)))
+
+(S1 (S (NP (DT This) (NN month)) (, ,) (NP (NNP HUD) (NNP Secretary) (NNP Jack) (NNP Kemp)) (VP (VBD unveiled) (NP (NP (DT a) (NN series)) (PP (IN of) (NP (NP (VBN proposed) (NNS reforms)) (SBAR (S (VP (TO to) (VP (VB improve) (NP (NP (NN management)) (PP (IN at) (NP (NNP HUD)))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT No) (ADJP (RB doubt) (JJ many))) (PP (IN of) (NP (PRP$ his) (NNS ideas)))) (VP (VBP are) (ADJP (JJ worthy)))) (, ,) (CC but) (S (ADVP (RB ultimately)) (NP (PRP he)) (VP (VBZ is) (VP (VBG proposing) (S (VP (TO to) (VP (VB make) (S (NP (ADJP (RB fundamentally) (VBN flawed)) (NNS programs)) (VP (VB work) (ADVP (RB slightly) (RBR more) (RB fairly) (CC and) (RB efficiently)))))))))) (. .)))
+
+(S1 (S (NP (NNP Congress)) (VP (VBZ is) (ADJP (JJ unlikely) (S (VP (TO to) (VP (VB go) (ADVP (RB even)) (ADVP (RB that) (RB far))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN week)) (, ,) (NP (NNP Secretary) (NNP Kemp)) (VP (VBD ran) (PP (IN into) (NP (NP (DT a) (NN buzzsaw)) (PP (IN of) (NP (NP (NN criticism)) (PP (IN from) (NP (NNP House) (NNP Banking) (NNP Committee) (NNS members)))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD were) (VP (VBN appalled) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD wanted) (S (VP (TO to) (VP (VP (VB target) (NP (JJR more)) (PP (IN of) (NP (DT the) (ADJP (QP ($ $) (CD 3) (CD billion))) (NNP Community) (NNP Development) (NNP Block) (NNP Grant) (PRN (-LRB- -LRB-) (NP (NNP CDBG)) (-RRB- -RRB-)) (NN program))) (PP (TO to) (NP (JJ low-income) (NNS projects)))) (CC and) (VP (NN zero) (PRT (RP out)) (NP (NP (DT the) (JJ notorious) (`` `) (ADJP (`` `) (JJ discretionary) ('' ')) ('' ') (NNS funds)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN allowed) (S (NP (NNP HUD) (NNS officials)) (VP (TO to) (VP (VB steer) (NP (NNS contracts)) (PP (TO to) (NP (JJ political) (NNS cronies)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT These) (NN development) (NNS grants)) (VP (ADVP (RB mainly)) (VBP enrich) (NP (NP (NNS developers)) (SBAR (WHNP (WP who)) (S (VP (VBP want) (S (VP (TO to) (VP (VB put) (PRT (RP up)) (NP (NP (NN shopping) (NNS centers)) (CC and) (NP (NN parking) (NNS garages))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP They)) (ADVP (RB also)) (VP (VB give) (NP (NP (DT those)) (PP (IN in) (NP (NNP Congress)))) (NP (JJ political) (NN credit)) (PP (IN for) (S (VP (VBG bringing) (ADVP (NN home)) (NP (DT the) (NN pork))))))) (, ,) (CC and) (RB so) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ popular) (PP (IN with) (NP (NP (JJ such) (NNS Members)) (PP (IN as) (NP (NNP Mary) (NNP Rose) (NNP Oakar)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Rep.) (NNP Oakar)) (, ,) (NP (NP (DT a) (NNP Democrat)) (PP (IN from) (NP (NNP Cleveland)))) (, ,)) (VP (VBZ wants) (NP (NP (DT a) (ADJP (QP ($ $) (CD 6.9) (CD million))) (NN grant)) (SBAR (IN so) (S (NP (NNP Cleveland)) (VP (MD can) (VP (VB build) (NP (NP (DT an) (JJ 18-story) (NNP Rock) (CC and) (NNP Roll) (NNP Hall)) (PP (IN of) (NP (NNP Fame)))))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD 'd) (VP (VP (VB create) (NP (CD 600) (NNS jobs))) (CC and) (VP (VB bring) (NP (NNP Cleveland) (NN tourist) (NN revenue)))))))) (. .)))
+
+(S1 (S (S (NP (NNP HUD)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN project)) (VP (VBZ does) (RB n't) (VP (VB qualify))))))) (, ,) (CC and) (S (NP (NNP Mr.) (NNP Kemp)) (VP (VBZ says) (SBAR (IN that) (S (NP (NP (NN rock) (CC 'n') (NN roll) (NNS musicians)) (CC and) (NP (DT the) (NN music) (NN industry))) (VP (MD ought) (S (VP (TO to) (VP (VB put) (PRT (RP up)) (NP (DT the) (NN money)))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (NN hearing))) (, ,) (NP (NNP Rep.) (NNP Oakar)) (VP (VBD started) (S (VP (VBG wailing) (PP (IN about) (NP (`` `) (NP (`` `) (JJ phoney) (NN baloney) (NNS regulations) ('' ')) ('' ') (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VP (VB stand) (PP (IN between) (NP (PRP her)))) (CC and) (`` `) (VP (`` `) (NN housing) (PP (IN for) (NP (JJ downtown) (NNP Cleveland))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Rep.) (NNP Chalmers) (NNP Wylie)) (, ,) (NP (DT an) (NNP Ohio) (NNP Republican)) (, ,)) (VP (VBD rallied) (PP (TO to) (NP (DT the) (NN cause))) (: :) (`` `) (S (`` `) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT the) (NN gentlelady)) (VP (VBZ is) (VP (VBG making) (NP (DT an) (JJ important) (NN statement))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN implication) (SBAR (WHNP (IN that)) (S (SBAR (IN if) (S (NP (DT a) (NN congressman)) (VP (VBZ calls) (PP (IN about) (NP (NP (DT a) (NN project)) (PP (IN in) (NP (NP (PRP$ his) (NN district)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NN something)) (ADJP (JJ wrong))))))))))))) (, ,) (NP (PRP I)) (VP (VBP think))))) (VP (VBZ is) (ADJP (RBS most) (JJ unfortunate))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP We)) (VP (VBP 're) (ADJP (JJ sure) (SBAR (S (NP (DT some) (NN theologian)) (VP (MD can) (VP (VB explain) (NP (NP (DT the) (NN difference)) (PP (IN between) (SBAR (SBAR (WHNP (WP what)) (S (NP (DT the) (JJ Republican) (NNS consultants)) (VP (VBP have) (VP (VBN been) (VP (VBG doing) (PP (IN with) (NP (NNP HUD)))))))) (CC and) (SBAR (WHNP (WP what)) (S (NP (DT these) (NNS gentleladies) (CC and) (NNS gentlemen)) (VP (VBP want) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (NNP HUD)))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP$ Our) (NN view)) (VP (VBZ is) (SBAR (IN that) (S (S (VP (VBN given) (NP (NP (NP (NNP Congress) (POS 's)) (NN attitude)) (PP (IN toward) (NP (NNP HUD)))))) (, ,) (NP (DT the) (NN place)) (ADVP (RB probably)) (VP (VBZ is) (PP (IN beyond) (NP (NN reform))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (QP (JJR more) (IN than) (CD 50)) (NNS years))) (NP (DT the) (JJ federal) (NN government)) (VP (VBZ has) (VP (VBN tried) (NP (NP (JJ various) (NNS ways)) (SBAR (S (VP (TO to) (VP (VP (VB provide) (NP (NN housing)) (PP (IN for) (NP (DT the) (JJ poor)))) (CC and) (VP (VB revive) (NP (NNS cities)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN process))) (NP (NNP HUD)) (VP (VBZ has) (VP (VBN wasted) (NP (NP (JJ untold) (NNS billions)) (, ,) (NP (VBN created) (NNS slums)) (CC and) (NP (VBN invited) (NN corruption))))) (. .)))
+
+(S1 (S (NP (NP (JJ Much)) (PP (IN of) (NP (NP (NNP HUD) (POS 's)) (NN spending)))) (ADVP (RB actually)) (VP (VBZ is) (NP (NP (JJ disguised) (NN welfare)) (PP (IN for) (NP (NP (NNS developers)) (CC or) (NP (DT the) (JJ middle) (NN class)))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ includes) (NP (NP (DT the) (JJ CDBG) (NNS funds)) (CC and) (NP (NP (DT the) (NNP Federal) (NNP Housing) (NNP Administration)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (NNS loans) (PRT (RP out)) (NP (NP (NN money)) (PP (IN for) (NP (JJ private) (NN home) (NNS mortgages))))) (CC and) (VP (VBZ has) (ADVP (RB just)) (VP (VBN been) (VP (VBN discovered) (S (VP (TO to) (VP (VB be) (NP (NP (QP ($ $) (CD 4) (CD billion))) (PP (IN in) (NP (DT the) (NN hole)))))))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Selling) (NP (NP (DT the) (NNP FHA) (POS 's)) (NN loan) (NN portfolio)) (PP (TO to) (NP (DT the) (JJS highest) (NN bidder))))) (VP (MD would) (VP (VB save) (NP (DT the) (NNS taxpayers)) (NP (NP (JJ untold) (NNS billions)) (PP (IN in) (NP (JJ future) (NNS losses)))))) (. .)))
+
+(S1 (S (S (NP (DT Some) (NNP HUD) (NN money)) (ADVP (RB actually)) (VP (VBZ does) (VP (VB trickle) (ADVP (IN down) (PP (TO to) (NP (DT the) (JJ poor))))))) (, ,) (CC and) (S (S (VP (VBG zeroing) (PRT (RP out)) (NP (NN housing) (NNS middlemen)))) (VP (MD would) (VP (VB free) (PRT (RP up)) (NP (NP (JJR more) (NN money)) (PP (IN for) (NP (JJ public) (NN housing) (NNS tenants))) (SBAR (S (VP (TO to) (VP (VP (VB manage)) (CC and) (VP (ADVP (RB even)) (VB own) (NP (PRP$ their) (NNS units))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN rest)) (VP (MD ought) (S (VP (TO to) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB clean) (PRT (RP out)) (NP (NNS drugs)) (PP (IN from) (NP (DT the) (NNS neighbhorhoods))))))))))) (. .)))
+
+(S1 (S (NP (JJ Rival) (NNS gangs)) (VP (VBP have) (VP (VBN turned) (NP (NNS cities)) (PP (IN into) (NP (NN combat) (NNS zones))))) (. .)))
+
+(S1 (S (NP (NP (RB Even) (JJ suburban) (NP (NNP Prince) (NNP George) (POS 's)) (NNP County)) (, ,) (NP (NNP Md.)) (, ,)) (VP (VBD reported) (NP (JJ last) (NN week)) (SBAR (S (NP (EX there)) (VP (VBP have) (VP (VBN been) (NP (NP (DT a) (NN record)) (ADVP (NP (CD 96) (NNS killings)) (RB there))) (NP (DT this) (NN year)) (, ,) (S (NP (NP (JJS most)) (PP (IN of) (NP (PRP them)))) (ADJP (JJ drug-related)))))))) (. .)))
+
+(S1 (S (NP (JJ Innocent) (NNS bystanders)) (ADVP (RB often)) (VP (VBP are) (NP (DT the) (NNS victims))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN man)) (PP (IN in) (NP (DT a) (NN wheelchair)))) (VP (VBD was) (VP (VBN gunned) (PRT (RP down)) (PP (IN in) (NP (NP (DT the) (NNP crossfire)) (PP (IN of) (NP (DT a) (NNP Miami) (NN drug) (NN battle))))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ three-year-old) (NNP Brooklyn) (NN boy)) (VP (VBD was) (VP (VBN used) (PP (IN as) (NP (DT a) (NN shield))) (PP (IN by) (NP (DT a) (NN drug) (NN dealer))))) (. .)))
+
+(S1 (S (NP (NP (JJ Decent) (NN life)) (PP (IN in) (NP (DT the) (JJ inner) (NNS cities)))) (VP (MD wo) (RB n't) (VP (VB be) (VP (VBN restored) (SBAR (IN unless) (S (NP (DT the) (NN government)) (VP (VBZ reclaims) (NP (NP (DT the) (NNS streets)) (PP (IN from) (NP (DT the) (NN drug) (NNS gangs)))))))))) (. .)))
+
+(S1 (S (PP (IN Until) (NP (RB then))) (, ,) (NP (NP (DT the) (NNS billions)) (SBAR (S (NP (NNP HUD)) (VP (VBZ spends) (PP (IN on) (NP (JJ inner-city) (NN housing))) (ADVP (RB simply)))))) (VP (VBZ is) (VP (VBN wasted))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB still)) (ADJP (JJ unclear)) (SBAR (IN whether) (S (NP (NNP Secretary) (NNP Kemp)) (VP (VBZ wants) (S (VP (TO to) (VP (VP (ADVP (RB completely)) (VB overhaul) (NP (NP (DT the) (NN engine) (NN room)) (PP (IN at) (NP (NNP HUD))))) (CC or) (VP (ADVP (RB just)) (VB tighten) (NP (NP (DT a) (JJ few) (NNS screws)) (ADVP (RB here) (CC and) (RB there))))))))))) (. .)))
+
+(S1 (NP (DT No) (NN doubt) (SBAR (S (NP (PRP he)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NN place)) (VP (MD can) (VP (VB be) (VP (VBN salvaged))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Having) (VP (VBN seen) (NP (NP (DT the) (NN hypocrisy)) (SBAR (WHPP (IN with) (WHNP (WDT which))) (S (NP (NNP Congress)) (VP (VBZ has) (VP (VBN addressed) (NP (DT the) (NNP HUD) (NNS scandals)))))))))) (, ,) (NP (PRP we)) (VP (VBP disagree)) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VP (VB scrap) (NP (NP (DT the) (ADJP (RB politically) (VBN infested)) (NN spending) (NN machine)) (SBAR (S (NP (NNP HUD)) (VP (VBZ has) (VP (VBN become))))))) (CC and) (VP (VB channel) (NP (DT the) (NNS resources)) (PP (IN into) (NP (DT the) (NN drug) (NN war)))))))))) (. .)))
+

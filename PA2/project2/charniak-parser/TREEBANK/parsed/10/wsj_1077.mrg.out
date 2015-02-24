@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (NNP Hughes) (NNP Aircraft) (NNP Co.)) (, ,) (NP (DT a) (NNP General) (NNPS Motors) (NNP Corp.) (NN unit)) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP Intelsat) (CD VI) (JJ commercial) (NNS communications) (NN satellite)) (VP (VBZ is) (VP (VBN set) (S (VP (TO to) (VP (VB be) (VP (VBN launched) (NP (NNP Friday))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN satellite)) (, ,) (VP (VBN built) (PP (IN by) (NP (NP (NNP Hughes)) (PP (IN for) (NP (DT the) (NNP International) (NNP Telecommunications) (NNP Satellite) (NNP Organization)))))) (, ,)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (ADJP (QP ($ $) (CD 700) (CD million))) (NN contract)) (VP (VBN awarded) (PP (TO to) (NP (NP (NNP Hughes)) (PP (IN in) (NP (CD 1982)))))) (S (VP (TO to) (VP (VB develop) (NP (NP (CD five)) (PP (IN of) (NP (DT the) (JJ three-ton) (NNS satellites))))))))))) (. .)))
+

@@ -1,0 +1,24 @@
+(S1 (S (NP (NNP Golden) (NNP Nugget) (NNP Inc.)) (VP (VBD reported) (NP (NP (DT a) (JJ third-quarter) (JJ net) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 13.1) (CD million))) (, ,) (CC or) (NP (NP (CD 76) (NNS cents)) (NP (DT a) (NN share))))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (NP (QP (CD 17.2) (CD million)) (JJ common) (NNS shares)) (CC and) (NP (JJ dilutive) (NNS equivalents))) (ADJP (JJ outstanding))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS results)) (VP (VBP compare) (PP (IN with) (NP (NP (DT a) (JJ year-earlier) (JJ net) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 1.5) (CD million))) (, ,) (CC or) (NP (NP (CD seven) (NNS cents)) (NP (DT a) (NN share))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (QP (CD 20.3) (CD million)) (JJ common) (CC and) (JJ dilutive) (NNS equivalents)) (ADJP (JJ outstanding)))))))))) (. .)))
+
+(S1 (S (NP (NN Operating) (NN revenue)) (VP (VBD rose) (NP (CD 25) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 52.1) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 41.8) (CD million))) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (NP (NNS Results)) (PP (IN for) (NP (DT the) (JJS latest) (NN quarter)))) (VP (VBP include) (NP (NP (VBG nonoperating) (NNS items)) (PP (IN of) (NP (NP (QP ($ $) (CD 23.9) (CD million))) (, ,) (PP (IN versus) (NP (NP (QP ($ $) (CD 8.4) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NNS expenses)))) (VP (VBP stem) (PP (IN from) (NP (NP (NP (DT the) (NN company) (POS 's)) (JJ huge) (NNP Mirage) (NN resort-casino)) (VP (VBN scheduled) (S (VP (TO to) (VP (VB open) (NP (JJ next) (NN month)) (PP (IN along) (NP (NP (DT the) (NNP Strip)) (, ,) (CC and) (NP (DT an) (NNP April) (CD 1989) (NN financing)))) (PP (IN by) (NP (NP (NNS units)) (VP (VBG operating) (NP (DT the) (JJ downtown) (NNP Golden) (NNP Nugget)) (NP (NN property)))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (CD nine) (NNS months))) (, ,) (NP (NNP Golden) (NNP Nugget)) (VP (VBD reported) (NP (NP (DT a) (JJ net) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 11.4) (CD million))) (, ,) (CC or) (NP (NP (CD 69) (NNS cents)) (NP (DT a) (NN share))))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (QP (CD 16.6) (CD million)) (JJ common) (CC and) (JJ dilutive) (NNS equivalents)) (ADJP (JJ outstanding))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT The) (NN year)) (RBR earlier)) (, ,) (NP (DT the) (NN company)) (VP (VBD had) (NP (NP (DT a) (JJ net) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 4.3) (CD million))) (, ,) (CC or) (NP (NP (CD 20) (NNS cents)) (NP (DT a) (NN share))))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (NP (QP (CD 21) (CD million)) (JJ common) (NNS shares)) (CC and) (NP (JJ dilutive) (NNS equivalents))) (ADJP (JJ outstanding))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD 1988) (NNS results)) (VP (VBP include) (NP (NP (DT a) (ADJP (QP ($ $) (CD 10.7) (CD million))) (NN charge)) (VP (VBG stemming) (PP (IN from) (NP (DT a) (NN litigation) (NN judgment)))))) (. .)))
+
+(S1 (S (ADVP (RB Separately)) (, ,) (NP (DT the) (NN casino) (NN operator)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN board)) (VP (VBD approved) (NP (DT a) (NN plan) (S (VP (TO to) (VP (NN buy-back) (NP (QP (RB as) (JJ many) (IN as) (CD three) (CD million)) (JJ common) (NNS shares)) (PP (IN from) (NP (NN time))) (PP (TO to) (NP (NN time))) (, ,) (PP (CC either) (PP (IN in) (NP (DT the) (JJ open) (NN market))) (CC or) (PP (IN through) (NP (JJ private) (NNS transactions)))))))))))) (. .)))
+
+(S1 (S (NP (DT An) (JJ additional) (CD 299,000) (NNS shares)) (VP (VBP are) (VP (VBN authorized) (PP (IN for) (NP (NP (NN repurchase)) (PP (IN under) (NP (DT an) (JJR earlier) (NN stock) (NN buy-back) (NN program))))))) (. .)))
+
+(S1 (S (NP (NP (NNP John) (NNP Uphoff)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP Raymond) (NNP James) (CC &) (NNP Associates)))) (, ,)) (VP (VP (VBD said) (SBAR (S (NP (DT the) (NNS results)) (VP (VBD were) (RB n't) (ADJP (JJ surprising)))))) (, ,) (CC and) (VP (VBD attributed) (NP (DT the) (NN buy-back)) (PP (TO to) (NP (NP (NP (NN management) (POS 's)) (NN confidence)) (PP (IN in) (NP (NP (DT the) (NNP Mirage) (POS 's)) (NN ability) (S (VP (TO to) (VP (VB generate) (NP (NP (JJ strong) (NN cash) (NN flow)) (PP (IN in) (NP (CD 1990))))))))))))) (. .)))
+
+(S1 (S (NP (NN Yesterday)) (, ,) (PP (IN in) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (, ,) (NP (NNP Golden) (NNP Nugget) (NN common)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 28.25))) (, ,) (ADVP (RB up) (NP ($ $) (CD 2)))) (. .)))
+

@@ -1,0 +1,4 @@
+(S1 (S (NP (NNP NCR) (NNP Corp.)) (VP (VP (VBD unveiled) (NP (NP (NP (CD two) (NNS models)) (PP (IN of) (NP (PRP$ its) (NN Tower) (NN line)))) (PP (IN of) (NP (NN midrange)) (NP (NNS computers))))) (CC and) (VP (VBD introduced) (NP (NP (JJ advanced) (VBG networking) (NN software)) (SBAR (S (VP (TO to) (VP (VB allow) (S (NP (DT the) (NNP Tower) (NN family)) (VP (TO to) (VP (VB operate) (PP (IN as) (NP (NP (DT a) (JJ central) (NN hub)) (PP (IN in) (NP (NP (DT a) (NN network)) (PP (IN of) (NP (NNS computers))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ new) (NN software)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (NNP Novell) (NNP Inc.) (POS 's)) (NNP NetWare) (NN network) (NN operating) (NN system) (NN software))))) (. .)))
+

@@ -1,0 +1,200 @@
+(S1 (S (NP (NP (DT The) (JJ crowning) (NN moment)) (PP (IN in) (NP (NP (DT the) (NN career)) (PP (IN of) (NP (NNP Joseph) (NNP F.) (NNP O') (NNP Kicki)))))) (VP (VBD came) (SBAR (IN as) (S (NP (CD 300) (UCP (JJ local) (CC and) (NN state)) (NNS dignitaries)) (VP (VBD packed) (PP (IN into) (NP (NP (PRP$ his) (JJ elegant) (, ,) (JJ marble-columned) (NN courtroom)) (ADVP (RB here)))) (NP (JJ last) (NN year)) (PP (IN for) (NP (NP (PRP$ his) (NN swearing)) (PP (IN in) (NP (IN as) (NNP President) (NNP Judge) (IN of) (NNP Cambria) (NNP County))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Baskets)) (PP (IN of) (NP (NNPS roses) (CC and) (JJ potted) (NNS palms)))) (VP (VBN adorned) (NP (PRP$ his) (NN bench))) (. .)))
+
+(S1 (S (NP (DT The) (JJ local) (NNP American) (NN Legion) (NN color) (NN guard)) (VP (VBD led) (NP (DT the) (NN way))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (DT the) (NN judge)) (VP (VBD marched) (PP (IN down) (NP (DT the) (NN center) (NN aisle))) (PP (IN in) (NP (PRP$ his) (JJ flowing) (JJ black) (NN robe)))))) (, ,) (NP (PRP he)) (VP (VBD was) (VP (VBN heralded) (PP (IN by) (NP (DT a) (VBP trumpet) (NN fanfare))))) (. .)))
+
+(S1 (S (PP (TO To) (NP (JJ many))) (, ,) (NP (PRP it)) (VP (VBD was) (ADVP (NP (DT a) (NN ceremony)) (JJR more)) (VP (VBG befitting) (NP (DT a) (NN king) (SBAR (IN than) (S (NP (DT a) (JJ rural) (NN judge)) (VP (VBN seated) (PP (IN in) (NP (NP (DT the) (VBN isolated) (NNS foothills)) (PP (IN of) (NP (DT the) (JJ southern) (NNP Allegheny) (NNS Mountains))))))))))) (. .)))
+
+(S1 (S (CC But) (RB then) (NP (NNP Judge) (NNP O') (NNP Kicki)) (ADVP (RB often)) (VP (VBD behaved) (PP (IN like) (NP (NP (NP (DT a) (NN man)) (SBAR (WHNP (WP who)) (S (VP (MD would) (VP (VB be) (NP (NN king))))))) (: --) (CC and) (PRN (, ,) (S (NP (DT some)) (VP (VBP say))) (, ,)) (NP (DT an) (ADJP (JJ arrogant) (CC and) (JJ abusive)) (CD one))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (PRP$ his) (NN case)) (VP (MD may) (VP (VB be) (ADJP (JJ extreme)))))) (, ,) (NP (PRP it)) (VP (VBZ reflects) (NP (NP (DT the) (NN vulnerability)) (PP (IN of) (NP (JJ many) (JJ small) (NNS communities))) (PP (TO to) (S (VP (VBG domineering) (NP (NNS judges))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NNP March)) (, ,) (NP (CD nine) (NNS months)) (PP (IN after) (NP (NP (DT the) (NN judge) (POS 's)) (NN swearing-in))) (, ,) (NP (NP (DT the) (NN state) (NN attorney) (NN general) (POS 's)) (NN office)) (VP (VBD indicted) (NP (PRP him)) (PP (IN on) (NP (NP (DT a) (JJ sweeping) (NN array)) (PP (IN of) (NP (NP (NNS charges)) (VP (VBG alleging) (NP (NP (QP (JJR more) (IN than) (CD 10)) (NNS years)) (PP (IN of) (`` `) (NP (`` `) (NP (JJ official) (NN oppression) (POS ')) ('' ') (PP (IN in) (NP (NP (NNP Cambria) (NNP County)) (, ,) (NP (NP (DT a) (JJ depressed) (NN steel) (CC and) (NN mining) (NN community)) (PP (IN in) (NP (JJ western) (NNP Pennsylvania))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS allegations)) (, ,) (VP (VBG ranging) (PP (PP (IN from) (NP (NN theft) (CC and) (NN bribery))) (PP (TO to) (NP (NN coercion) (CC and) (NN lewdness))))) (, ,)) (VP (VBP paint) (NP (DT a) (JJ disquieting) (NN picture))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NP (NN testimony)) (PP (IN in) (NP (NP (DT a) (JJ public) (, ,) (JJ 80-page) (JJ grand-jury) (NN report)) (VP (VBD handed) (PRT (RP up)) (PP (TO to) (NP (DT the) (NN state) (NN attorney) (NN general))))))))) (, ,) (NP (NNP Judge) (NNP O') (NNP Kicki)) (VP (VBD extorted) (NP (NP (NN cash)) (PP (IN from) (NP (NP (NNS lawyers)) (, ,) (NP (NP (JJ muscled) (JJ favorable) (NNS loans)) (PP (IN from) (NP (NP (NNS banks)) (CC and) (NP (JJ bullied) (JJ local) (NNS businesses))))))) (PP (IN for) (NP (NP (JJR more)) (PP (IN than) (NP (DT a) (NN decade))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Prosecutors)) (, ,) (SBAR (IN in) (S (NP (DT an) (NN indictment)) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (JJ grand) (NN jury) (POS 's)) (NN report)))))) (, ,)) (VP (VBP maintain) (SBAR (IN that) (S (PP (IN at) (NP (NP (JJ various) (NNS times)) (PP (IN since) (NP (CD 1975))))) (, ,) (NP (PRP he)) (VP (VP (VBD owned) (NP (NP (DT a) (ADJP (JJ secret) (CC and) (JJ illegal)) (NN interest)) (PP (IN in) (NP (DT a) (NN beer) (NN distributorship))))) (: ;) (VP (VBD plotted) (NP (NP (VBN hidden) (NN ownership) (NNS interests)) (PP (IN in) (NP (NP (JJ real) (NN estate)) (SBAR (WHNP (WDT that)) (S (VP (VBD presented) (NP (NP (DT an) (JJ alleged) (NN conflict)) (PP (IN of) (NP (NN interest))))))))))) (: ;) (VP (VBD set) (PRT (RP up)) (S (NP (DT a) (NN dummy) (NN corporation)) (VP (TO to) (VP (VB buy) (NP (DT a) (NN car)) (S (VP (CC and) (VP (VB obtain) (NP (NN insurance)) (PP (IN for) (NP (NP (PRP$ his) (JJ former) (NN girlfriend)) (PRN (-LRB- -LRB-) (RB now) (NP (PRP$ his) (JJ second) (NN wife)) (-RRB- -RRB-)) (: ;)))) (CC and) (VP (VBD maintained) (NP (CD 54) (NNS accounts)) (PP (IN in) (NP (NP (CD six) (NNS banks)) (PP (IN in) (NP (NNP Cambria) (NNP County)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN testimony)) (VP (VBN recorded) (PP (IN in) (NP (DT the) (JJ grand) (NN jury) (NN report)))))) (, ,) (NP (NN court) (NNS employees)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN judge)) (, ,) (ADJP (RB now) (NP (CD 59) (NNS years)) (JJ old)) (, ,)) (VP (VP (VBD harassed) (NP (PRP$ his) (NNS secretaries))) (, ,) (VP (VBD made) (NP (NP (JJ imperial) (NNS demands)) (PP (IN on) (NP (PRP$ his) (NN staff))))) (CC and) (VP (VBD hounded) (NP (NP (NN anyone)) (SBAR (WHNP (WP who)) (S (VP (VBD crossed) (NP (PRP him))))))))))) (. .)))
+
+(S1 (S (NP (NNS Bailiffs)) (VP (VBD claimed) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBN required) (S (VP (TO to) (VP (VP (NN chauffeur) (NP (PRP him)) (PP (TO to) (CC and) (IN from) (NP (NN work)))) (, ,) (VP (VB mow) (NP (PRP$ his) (NN lawn))) (, ,) (VP (VB chop) (NP (PRP$ his) (NN wood))) (, ,) (VP (VB fix) (NP (PRP$ his) (NN car))) (CC and) (VP (ADVP (RB even)) (VB drop) (PP (IN by) (NP (PRP$ his) (NN house) (S (VP (TO to) (VP (VB feed) (NP (NP (PRP$ his) (CD two) (JJ grown) (NNS mutts)) (, ,) (NP (NP (NNP Dixie)) (CC and) (NP (JJ Husky)))))))))))))))))) (. .)))
+
+(S1 (S (NP (CD One) (JJ former) (NN bailiff)) (VP (VBD charged) (SBAR (IN that) (S (NP (DT the) (NN judge)) (VP (VBD double-crossed) (NP (PRP him)) (PP (IN by) (S (VP (VBG reneging) (PP (IN on) (NP (NP (DT a) (NN promise)) (PP (IN of) (NP (DT a) (ADJP (JJR better) (VBG paying)) (NN job)))))))) (PP (IN after) (S (VP (VBG pocketing) (NP (DT a) (ADJP ($ $) (CD 500)) (NN bribe))))))))) (. .)))
+
+(S1 (S (NP (NP (DT Some)) (PP (IN of) (NP (DT the) (NNS allegations)))) (VP (VBP are) (ADJP (RB simply) (JJ bizarre))) (. .)))
+
+(S1 (S (NP (CD Two) (JJ former) (NNS secretaries)) (VP (VBD told) (NP (DT the) (JJ grand) (NN jury)) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBN summoned) (PP (TO to) (NP (NP (DT the) (NN judge) (POS 's)) (NNS chambers))) (PP (IN on) (NP (JJ separate) (NNS occasions))) (S (VP (TO to) (VP (VB take) (NP (NN dictation)) (, ,) (S (ADVP (RB only)) (VP (TO to) (VP (VB find) (NP (NP (DT the) (NN judge)) (PP (IN in) (NP (PRP$ his) (NNP bikini) (NN underwear))))))))))))))) (. .)))
+
+(S1 (S (NP (CD One) (NN secretary)) (VP (VBD testified) (SBAR (IN that) (S (NP (DT the) (NN judge)) (ADVP (RB once)) (VP (VBD called) (NP (PRP her)) (PP (TO to) (NP (PRP$ his) (NN office))) (SBAR (IN while) (S (VP (VBG wearing) (NP (NP (NN nothing)) (ADVP (IN at) (DT all)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN judge)) (, ,) (VP (VBD suspended) (PP (IN from) (NP (PRP$ his) (NN bench))) (S (VP (VBG pending) (SBAR (S (NP (NP (PRP$ his) (NN trial)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD began) (NP (DT this) (NN week))))) (, ,)) (VP (ADVP (RB vehemently)) (VBZ denies) (NP (NP (PDT all) (DT the) (NNS allegations)) (PP (IN against) (NP (PRP him)))) (, ,) (S (VP (VP (VBG calling) (S (NP (PRP them)) (ADJP (`` `) (ADJP (`` `) (JJ ludicrous) ('' ')) ('' ') (CC and) (`` `) (ADJP (`` `) (JJ imaginative))))) (, ,) (NP (JJ political) (NN demagoguery)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBZ blames) (NP (DT the) (NN indictment)) (PP (IN on) (NP (NP (JJ local) (JJ political) (VBG feuding)) (, ,) (NP (NP (NN unhappiness)) (PP (IN with) (NP (NP (PRP$ his) (JJ aggressive) (NNS efforts)) (SBAR (S (VP (TO to) (VP (VB clear) (NP (NP (NP (DT the) (NN courthouse) (POS 's)) (NN docket)) (CC and) (NP (NP (DT a) (NN vendetta)) (PP (IN by) (NP (NP (NN state) (NNS investigators)) (CC and) (NP (NP (NNS prosecutors)) (VP (VBN angered) (PP (IN by) (NP (NP (DT some)) (PP (IN of) (NP (NP (PRP$ his) (NNS rulings)) (PP (IN against) (NP (PRP them))))))))))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (WHNP (WP$ whose) (NNS toes)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD stepped) (PRT (RP on)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (DT the) (NN judge)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (MD 'll) (VP (VB find) (PRT (RP out)) (, ,) (ADVP (RB eventually)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD pushed) (SBAR (S (NP (DT the) (NN state) (NN police)) (VP (NNS buttons) (PP (IN into) (NP (NN action))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (SBAR (RB Even) (IN if) (S (NP (NP (RB only) (DT some)) (PP (IN of) (NP (DT the) (NNS allegations)))) (VP (VBP stand) (PRT (RP up))))) (, ,) (ADVP (RB however)) (, ,) (NP (PRP they)) (VP (VBP provide) (NP (NP (JJ ample) (NN testimony)) (PP (TO to) (NP (NP (DT the) (JJ awesome) (NN power)) (PP (IN of) (NP (NP (NNS judges)) (PP (IN in) (NP (JJ rural) (NNS communities))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN power)) (VP (MD can) (ADVP (RB sometimes)) (VP (VB be) (VP (VBN abused) (, ,) (SBAR (ADVP (RB particularly)) (IN since) (S (NP (NP (NNS jurists)) (PP (IN in) (NP (JJR smaller) (NNS jurisdictions)))) (VP (VBP operate) (PP (IN without) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NNS restraints)) (SBAR (WHNP (WDT that)) (S (VP (VBP serve) (PP (IN as) (NP (NP (JJ corrective) (NNS measures)) (PP (IN in) (NP (JJ urban) (NNS areas)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Lawyers)) (CC and) (NP (NP (PRP$ their) (NNS clients)) (SBAR (WHNP (WP who)) (S (ADVP (RB frequently)) (VP (VBP bring) (NP (NN business)) (PP (TO to) (NP (DT a) (NN country) (NN courthouse)))))))) (VP (MD can) (VP (VB expect) (S (VP (TO to) (VP (VB appear) (PP (IN before) (NP (DT the) (JJ same) (NN judge))) (NP (NN year)) (PP (IN after) (NP (NN year)))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (NN Fear)) (PP (IN of) (S (VP (VBG alienating) (NP (DT that) (NN judge)))))) (VP (VBZ is) (ADJP (JJ pervasive)))) (, ,) (VP (VBZ says)) (NP (NP (NNP Maurice) (NNP Geiger)) (, ,) (NP (NP (NN founder)) (CC and) (NP (NP (NN director)) (PP (IN of) (NP (NP (DT the) (NNP Rural) (NNP Justice) (NNP Center)) (PP (IN in) (NP (NP (NNP Montpelier)) (, ,) (NP (NP (NNP Vt.)) (, ,) (NP (NP (DT a) (JJ public) (NN interest) (NN group)) (SBAR (WHNP (WDT that)) (S (VP (VBZ researches) (NP (JJ rural) (NN justice) (NNS issues)))))))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (PRN (, ,) (SINV (VP (VBZ says)) (NP (NNP Mr.) (NNP Geiger))) (, ,)) (NP (NNS lawyers)) (VP (VB think) (ADVP (RB twice)) (PP (IN before) (S (VP (VBG appealing) (NP (NP (DT a) (NN judge) (POS 's)) (NN ruling)))))) (, ,) (VP (VP (VBP are) (ADJP (JJ reluctant) (S (VP (TO to) (VP (VB mount) (NP (PRN (, ,) (CC or) (NP (RB even) (NN support)) (, ,)) (NNS challenges)) (PP (IN against) (NP (PRP him))) (PP (IN for) (NP (NN re-election)))))))) (CC and) (VP (VBP are) (ADVP (RB usually)) (ADJP (JJ loath) (S (VP (TO to) (VP (VB file) (NP (NP (NNS complaints)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (VB impugn) (NP (NP (DT a) (NN judge) (POS 's)) (NN integrity))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Judge) (NNP O') (NNP Kicki)) (, ,) (NP (DT a) (UCP (NNP stern) (CC and) (JJ forbidding-looking)) (NN man)) (, ,)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT a) (NN fixture)) (PP (IN in) (NP (DT the) (JJ local) (JJ legal) (NN community)))) (PP (IN for) (NP (QP (JJR more) (IN than) (CD two)) (NNS decades))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN son)) (PP (IN of) (NP (NP (DT an) (JJ immigrant) (NN stonemason)) (PP (IN of) (NP (NNP Slovenian) (NN descent)))))) (, ,) (NP (PRP he)) (VP (VBD was) (VP (VP (VBN raised) (PP (IN in) (NP (NP (DT a) (JJ small) (NN borough)) (PP (IN outside) (NP (NP (NNP Ebensburg)) (, ,) (NP (DT the) (NNP Cambria) (NNP County) (NN seat)) (, ,)))))) (CC and) (VP (VBD put) (NP (PRP himself)) (PP (IN through) (NP (DT the) (NAC (NNP University) (PP (IN of) (NP (NNP Pittsburgh)))) (NNP Law) (NNP School)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBN graduated) (PP (IN near) (NP (NP (DT the) (NN top)) (PP (IN of) (NP (PRP$ his) (NN class))))) (, ,) (S (VP (VBG serving) (PP (IN on) (NP (NP (DT the) (NN school) (NN law) (NN review)) (PP (IN with) (NP (NP (NNP Richard) (NNP Thornburgh)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD went) (PRT (RP on)) (S (VP (TO to) (VP (VB become) (NP (NP (NN governor)) (PP (IN of) (NP (NP (NNP Pennsylvania)) (CC and) (PRN (, ,) (ADVP (RB now)) (, ,)) (NP (NNP U.S.) (NNP Attorney) (NNP General)))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADVP (RB also)) (PP (IN in) (NP (NN law) (NN school))) (SBAR (IN that) (S (NP (NP (NNP Mr.) (NNP O') (NNP Kicki)) (CC and) (NP (PRP$ his) (JJ first) (NN wife))) (VP (VBD had) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD seven) (NNS daughters)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBN divorced) (NP (PRP$ his) (JJ first) (NN wife)) (ADVP (NP (CD three) (NNS years)) (RB ago))) (CC and) (VP (VBN married) (NP (NP (DT the) (NN daughter)) (PP (IN of) (NP (PRP$ his) (NN court) (NN clerk)))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (NNP Pennsylvania) (NNP Supreme) (NNP Court) (NNP Justice) (NNP John) (NNP P.) (NNP Flaherty)) (VP (VBD called) (S (NP (NNP Mr.) (NNP O') (NNP Kicki)) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS finest) (NNS judges)) (PP (PP (`` `) (ADVP (`` `) (RB not) (RB only)) (IN in) (NP (NNP Pennsylvania))) (CC but) (PP (IN in) (NP (DT the) (NNP United) (NNPS States))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Clearly)) (, ,) (NP (DT the) (NN judge)) (VP (VBZ has) (VP (VBN had) (NP (NP (PRP$ his) (NN share)) (PP (IN of) (NP (NNS accomplishments)))))) (. .)))
+
+(S1 (S (S (PP (IN After) (S (VP (VBG practicing) (NP (NN law)) (ADVP (RB locally))))) (, ,) (NP (PRP he)) (VP (VBD was) (VP (VBN elected) (PP (TO to) (NP (PRP$ his) (JJ first) (JJ 10-year) (NN term))) (PP (IN as) (NP (NP (NN judge)) (PP (IN in) (NP (CD 1971)))))))) (: ;) (S (PP (IN in) (NP (CD 1981))) (, ,) (NP (PRP he)) (VP (VBD was) (VP (ADVP (RB effectively)) (JJ re-elected)))) (. .)))
+
+(S1 (S (ADVP (NP (CD Six) (NNS years)) (RB ago)) (, ,) (NP (NNP Judge) (NNP O') (NNP Kicki)) (VP (VBD was) (VP (VBN voted) (S (NP (NP (NN president)) (PP (IN of) (NP (DT the) (NNP Pennsylvania) (NNP Conference))) (PP (IN of) (NP (NP (NNP State) (NNP Trial) (NNPS Judges)) (PP (IN by) (NP (NP (DT the) (NN state) (POS 's)) (CD 400) (NNS judges))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ has) (VP (VBN been) (VP (VBN considered) (NP (JJ several) (NNS times)) (PP (IN for) (NP (NP (NNS appointments)) (PP (TO to) (NP (NP (NP (JJ federal) (NN district) (CC and) (NN appellate) (NN court)) (NP (NNS vacancies))) (PP (IN in) (NP (NNP Pennsylvania)))))))))) (. .)))
+
+(S1 (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD ran) (ADVP (RB unsuccessfully)) (PP (IN for) (NP (DT a) (NN state) (NN appellate) (NN court) (NN seat))) (PP (IN in) (NP (CD 1983)))))) (, ,) (NP (DT the) (NNP Pennsylvania) (NNP Bar) (NNP Association)) (VP (VBD rated) (S (NP (PRP him)) (`` `) (NP (`` `) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (RBS best) (JJ available)))) (, ,) ('' ')) ('' ') (PP (IN after) (S (VP (VBG interviewing) (NP (JJ local) (NNS lawyers))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP He)) (ADVP (RB probably)) (VP (VBD was) (NP (NP (DT the) (JJS smartest) (NN guy)) (SBAR (WHNP (WP who)) (S (ADVP (RB ever)) (VP (VBD sat) (PP (IN on) (NP (PRP$ our) (NN bench)))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (DT a) (JJ former) (NN president)) (PP (IN of) (NP (NP (NNP Cambria) (NNP County) (POS 's)) (JJ 150-member) (NN bar) (NN association))) (, ,) (SBAR (WHNP (WP who)) (S (, ,) (PP (IN like) (NP (NP (JJS most) (NNS lawyers)) (PP (IN in) (NP (NNP Cambria) (NNP County))))) (, ,) (VP (VBZ refuses) (S (VP (TO to) (VP (VB talk) (PP (IN about) (NP (DT the) (NN judge))) (ADVP (RB publicly))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (NP (PRP He)) (VP (VBZ 's) (ADJP (JJ sharp) (PP (IN as) (NP (DT a) (NN tack))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (MD could) (VP (VB grasp) (NP (DT an) (NN issue)) (PP (IN with) (NP (NP (DT the) (NN blink)) (PP (IN of) (NP (DT an) (NN eye))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN For) (NP (QP (JJR more) (IN than) (DT a)) (NN decade))) (, ,) (NP (RB virtually) (DT no) (PRP one)) (VP (VBD complained) (PP (IN about) (NP (NNP Judge) (NNP O') (NNP Kicki)))) (. .)))
+
+(S1 (SINV (`` `) (SBARQ (`` `) (WHNP (WP What)) (SQ (RB about) (NP (NP (DT those) (NNS institutions)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (NP (NP (NP (DT the) (NN bedrock)) (PP (IN of) (NP (NN society)))) (, ,) (NP (DT the) (NNS banks)) (CC and) (NP (DT the) (NN bar) (NN association) (NN ..) (. .)))))))))))) (. ?) ('' ')) ('' ') (VP (VBD wrote)) (NP (NP (DT a) (NN columnist)) (PP (IN for) (NP (NP (DT the) (NNP Tribune-Democrat)) (, ,) (NP (NP (DT a) (NN newspaper)) (PP (IN in) (NP (JJ nearby) (NNP Johnstown))))))) (, ,) (SBAR (ADVP (RB shortly)) (IN after) (S (NP (DT the) (NN scandal)) (VP (VBD became) (ADJP (JJ public))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN If) (S (NP (NP (RB only) (DT a) (NN banker)) (CC or) (NP (DT a) (NN lawyer))) (VP (VBD had) (VP (VBN spoken) (PRT (RP out)) (ADVP (NP (NNS years)) (RB ago)))))) (, ,) (NP (DT the) (JJ judicial) (NN process)) (VP (MD would) (RB n't) (VP (VB be) (PP (IN under) (NP (NP (DT the) (NN taint)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (NN today))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (NNS Officials)) (PP (IN with) (NP (NP (DT the) (NNP Pennsylvania) (NX (NX (JJ Judicial) (NN Inquiry)) (CC and) (NX (NNP Review) (NNP Board)))) (, ,) (NP (NP (DT the) (NN arm)) (PP (IN of) (NP (NP (DT the) (NN state)) (SBAR (WHNP (WDT that)) (S (VP (VBZ investigates) (NP (JJ judicial) (NN misconduct)))))))) (, ,)))) (VP (VBP counter) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD had) (NP (NP (DT no) (NN inkling)) (PP (IN of) (NP (NP (NN anything) (JJ amiss)) (PP (IN in) (NP (NNP Ebensburg)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (NN Nobody)) (VP (VBD told) (NP (PRP us)))) (: ;) (S (NP (NN nobody)) (VP (VBD called) (NP (PRP us)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (DT an) (NN official)) (ADJP (JJ close) (PP (TO to) (NP (NP (DT the) (NN case)) (SBAR (WHNP (WP who)) (S (VP (VBD asked) (S (RB not) (VP (TO to) (VP (VB be) (VP (VBN named)))))))))))) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (NN Nobody)) (VP (VBD had) (NP (NP (DT the) (NNS guts)) (SBAR (S (VP (TO to) (VP (VB complain))))))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (ADVP (RB Certainly)) (RB not) (NP (DT the) (NNS lawyers)) (. .)))
+
+(S1 (S (S (NP (NNP Johnstown) (NN attorney) (NNP Richard) (NNP J.) (NNP Green) (NNP Jr.)) (VP (VBD shelled) (PRT (RP out)) (NP (NP ($ $) (CD 500)) (PP (IN in) (NP (NP (NNS loans)) (PP (TO to) (NP (DT the) (NN judge)))))) (PP (IN over) (NP (CD five) (NNS years))))) (, ,) (NP (PRP he)) (VP (VBD said) (PP (IN in) (NP (NP (NN testimony)) (PP (TO to) (NP (DT the) (JJ grand) (NN jury)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN judge)) (ADVP (RB never)) (VP (VBD made) (NP (NP (DT a) (NN pretense)) (PP (IN of) (S (VP (VBG repaying) (NP (DT the) (NN money)))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NNP Mr.) (NNP Green)) (. .)))
+
+(S1 (S (ADVP (RB Eventually)) (PRN (, ,) (S (NP (NNP Mr.) (NNP Green)) (VP (VBD testified))) (, ,)) (NP (PRP he)) (VP (VBD began) (S (VP (VP (VBG ducking) (PRT (RP out)) (PP (IN of) (NP (PRP$ his) (NN office)))) (CONJP (RB rather) (IN than)) (VP (NN face) (NP (DT the) (NN judge))))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD visited))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NNP Mr.) (NNP Green)) (VP (VBD won) (NP (NP (DT a) (ADJP ($ $) (CD 240,000)) (NN verdict)) (PP (IN in) (NP (NP (DT a) (NN land) (NN condemnation) (NN case)) (PP (IN against) (NP (DT the) (NN state)))))) (PP (IN in) (NP (NNP June) (CD 1983)))))) (, ,) (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (NNP Judge) (NNP O') (NNP Kicki)) (ADVP (RB unexpectedly)) (VP (VBD awarded) (NP (PRP him)) (NP (DT an) (JJ additional) ($ $) (CD 100,000)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Green)) (VP (VBD thought) (NP (JJ little)) (PP (IN of) (NP (PRP it))) (PRN (, ,) (S (NP (PRP he)) (VP (VBD told) (NP (DT the) (JJ grand) (NN jury)))) (, ,)) (SBAR (IN until) (S (NP (DT the) (NN judge)) (VP (VP (VBD walked) (PRT (RP up)) (PP (TO to) (NP (PRP him))) (SBAR (IN after) (S (NP (DT the) (NN courtroom)) (VP (VBD had) (VP (VBN cleared)))))) (CC and) (VP (VBD suggested) (NP (DT a) (NN kickback))))))) (. .)))
+
+(S1 (S (`` `) (SQ (`` `) (VBP Do) (RB n't) (NP (PRP you)) (VP (VBP think) (SBAR (S (S (NP (PRP I)) (VP (MD ought) (S (VP (TO to) (VP (VB get) (NP (DT a) (NN commission) (NN ..)))))) (. .)) (CC or) (S (NP (NP (NN part)) (PP (IN of) (NP (PRP$ your) (NN fee)))) (PP (IN in) (NP (DT this) (NN case))))))) (. ?) ('' ')) ('' ') (NP (NNP Mr.) (NNP Green)) (VP (VBD said) (SBAR (S (NP (DT the) (NN judge)) (VP (VBD asked) (NP (PRP him)))))) (. .)))
+
+(S1 (S (S (S (VP (VBN Appalled))) (, ,) (NP (NNP Mr.) (NNP Green)) (ADVP (RB never)) (VP (VBD paid) (NP (DT the) (NN money)))) (, ,) (NP (PRP he)) (VP (VBD testified)) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB complain) (PP (TO to) (NP (NP (NP (DT the) (NN state) (POS 's)) (JJ Judicial) (NN Inquiry)) (CC and) (NP (NNP Review) (NNP Board)))) (, ,) (ADVP (RB either)) (, ,) (S (VP (VBG saying) (ADVP (RB later)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD feared) (NP (NN retribution))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP O') (NNP Kicki)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB respond) (PP (TO to) (NP (NP (NP (NNP Mr.) (NNP Green) (POS 's)) (NN allegation)) (PP (IN at) (NP (PRP$ his) (NN trial)))))))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (NP (JJS most)) (PP (IN of) (NP (NP (NP (NNP Cambria) (NNP County) (POS 's)) (NNS lawyers) (CC and) (NNS residents)) (SBAR (WHNP (WP who)) (S (VP (VBD had) (NP (NP (NNS dealings)) (PP (IN with) (NP (DT the) (NN judge))))))))))) (, ,) (NP (NNP Mr.) (NNP Green)) (VP (VBD declined) (S (VP (TO to) (VP (VB be) (VP (VBN interviewed) (PP (IN for) (NP (DT this) (NN article)))))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (DT no) (NN one)) (PP (IN with) (NP (NP (DT a) (NN complaint)) (PP (IN about) (NP (DT the) (NN judge)))))) (VP (MD would) (VP (VB allow) (S (NP (PRP$ his) (NN name)) (VP (TO to) (VP (VB be) (VP (VBN printed))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB have) (NP (NP (NN anything) (RB much)) (SBAR (S (VP (TO to) (VP (VB say))))))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB find) (PP (IN from) (NP (NP (NN everyone) (RB else)) (SBAR (S (NP (PRP you)) (VP (VBP talk) (PP (TO to) (NP (RB up) (RB here)))))))))))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (JJ local) (NN attorney) (NNP Edward) (NNP F.) (NNP Peduzzi)) (. .)))
+
+(S1 (SINV (VP (VBZ Says)) (NP (DT another) (NN lawyer)) (: :) (`` `) (S (`` `) (NP (NP (DT The) (NN practice)) (PP (IN of) (NP (NN law)))) (VP (VBZ is) (NP (NP (DT a) (NN matter)) (PP (IN of) (S (VP (VBG biting) (SBAR (S (NP (PRP one)) (VP (VBZ 's) (ADJP (JJ lip)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP live) (PP (IN in) (NP (DT a) (JJ small) (NN community))))))))))))))) (. .)))
+
+(S1 (S (NP (CD One)) (VP (VBD had) (VP (ADVP (JJS best)) (RB not) (VP (VB dance) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (DT a) (NN coffin))))) (SBAR (IN until) (S (NP (DT the) (NN lid)) (VP (VBZ is) (VP (VBN sealed) (VP (ADVP (RB tightly)) (VBN shut))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (DT The) (NN judge)) (VP (VBD was) (VP (VBN considered) (S (ADJP (JJ imperious) (, ,) (JJ abrasive) (CC and) (JJ ambitious)))))) (, ,) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBD practiced) (PP (IN before) (NP (PRP him))))))) (VP (VBP say)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD sipped) (NP (NN tea)) (PP (VBN sweetened) (PP (IN with) (NP (NN honey)))) (PP (IN from) (NP (NP (PRP$ his) (JJ high-backed) (NN leather) (NN chair)) (PP (IN at) (NP (PRP$ his) (NN bench))))) (, ,) (SBAR (IN while) (S (NP (JJ scribbling) (NNS notes)) (VP (VBG ordering) (NP (NNS spectators)) (S (VP (VP (TO to) (VP (VB stop) (S (VP (VBG whispering))))) (CC or) (VP (TO to) (VP (VB take) (PRT (RP off)) (NP (PRP$ their) (NNS hats)) (PP (IN in) (NP (PRP$ his) (NN courtroom))))))))))) (. .)))
+
+(S1 (S (ADVP (NP (CD Four) (NNS years)) (RB ago)) (, ,) (NP (PRP he)) (VP (VBN jailed) (NP (NP (DT all) (CD nine) (NNS members)) (PP (IN of) (NP (DT the) (NNP Cambria) (NNP County) (NNP School) (NNP Board)))) (PP (IN for) (NP (JJ several) (NNS hours))) (SBAR (IN after) (S (NP (PRP they)) (VP (VBD defied) (NP (PRP$ his) (NN order) (S (VP (TO to) (VP (VB extend) (NP (DT the) (NN school) (NN year)) (PP (IN by) (NP (JJ several) (NNS weeks))))))) (S (VP (TO to) (VP (VB make) (PRT (RP up)) (PP (IN for) (NP (NP (NN time)) (VP (VBN lost) (PP (IN during) (NP (NP (DT a) (NNS teachers) (POS ')) (NN strike))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Visitors)) (PP (IN in) (NP (PRP$ his) (NNS chambers)))) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (MD could) (VP (VB cite) (NP (NP (RB precisely) (DT the) (NNS years) (, ,) (NNS months) (, ,) (NNS weeks) (CC and) (NNS days)) (VP (VBG remaining) (PP (IN until) (NP (NP (JJ mandatory) (NN retirement)) (SBAR (S (VP (MD would) (VP (VB force) (PRT (RP aside)) (NP (NP (DT the) (JJ presiding) (NN president) (NN judge)) (, ,) (VP (VBG giving) (NP (NNP Judge) (NNP O') (NNP Kicki)) (NP (NP (DT the) (NN seniority)) (VP (VBN required) (S (VP (TO to) (VP (VB take) (PRT (RP over)) (PP (IN as) (NP (NP (DT the) (NN county) (POS 's)) (JJ top) (NN court) (NN administrator))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN judge)) (PRN (, ,) (S (NP (PRP they)) (VP (VBP say))) (, ,)) (VP (VBD was) (ADJP (RB fiercely) (JJ proud) (PP (IN of) (NP (PRP$ his) (NNS abilities) (CC and) (NNS accomplishments))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP$ My) (NN name)) (VP (VBZ is) (NP (NN judge)))) (, ,) ('' ') ('' ') (NP (NNP Judge) (NNP O') (NNP Kicki)) (VP (VBD told) (NP (NP (DT a) (NN car) (NN salesman)) (PP (IN in) (NP (NNP Ebensburg)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD bought) (NP (DT a) (JJ new) (NN red)) (NP (NNP Pontiac) (NNP Sunbird)) (PP (IN in) (NP (NNP October) (CD 1984))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (JJ grand-jury) (NN report)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN dealership)) (ADVP (RB dutifully)) (VP (VBD recorded) (NP (NP (DT the) (NN sale)) (PP (IN under) (NP (DT the) (NN name)))) (`` `) (S (`` `) (NP (NNP Judge) (NNP O') (NNP Kicki)))) (. .) ('' ') ('' ')))
+
+(S1 (SINV (S (ADVP (RB Yet)) (, ,) (PP (IN despite) (NP (NP (DT the) (NN judge) (POS 's)) (JJ imperial) (NN bearing))) (, ,) (NP (DT no) (NN one)) (ADVP (RB ever)) (VP (VBD had) (NP (NN reason) (S (VP (TO to) (VP (VB suspect) (NP (JJ possible) (NN wrongdoing)))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP John) (NNP Bognato)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Cambria) (NNP County) (POS 's)) (JJ 150-member) (NN bar) (NN association))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (NP (DT The) (NN arrogance)) (PP (IN of) (NP (DT a) (NN judge)))) (, ,) (NP (PRP$ his) (NN demeanor)) (, ,) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP he)) (VP (VBZ handles) (NP (NNS people))))))) (VP (VBP are) (RB not) (NP (NP (DT a) (NN basis)) (PP (IN for) (S (VP (VBG filing) (NP (DT a) (NN complaint))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NNP Mr.) (NNP Bognato)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (SBAR (IN Until) (S (NP (DT this)) (VP (VP (VBD came) (PRT (RP up))) (CC and) (VP (VBD hit) (NP (DT the) (NN press)))))) (, ,) (NP (EX there)) (VP (VBD was) (ADVP (RB never)) (NP (DT any) (NN indication) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD was) (VP (VBG doing) (NP (NP (NN anything)) (ADJP (JJ wrong))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NN State) (NNS investigators)) (VP (VBP dispute) (NP (DT that) (NN view)) (ADVP (RB now)) (, ,) (PP (ADVP (RB particularly)) (IN in) (NP (NP (NN light)) (PP (IN of) (NP (NP (NP (DT the) (NN judge) (POS 's)) (JJ various) (NN business) (NNS dealings)) (PP (IN in) (NP (NNP Cambria) (NNP County)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN judge)) (VP (VBD came) (PP (IN under) (NP (NN scrutiny))) (PP (IN in) (NP (JJ late) (CD 1987))) (, ,) (SBAR (IN after) (S (NP (NP (DT the) (NN state) (NN attorney) (NN general) (POS 's)) (NN office)) (VP (VBD launched) (NP (NP (DT an) (JJ unrelated) (NN investigation)) (PP (IN into) (NP (NP (NN corruption)) (PP (IN in) (NP (NNP Cambria) (NNP County)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN inquiry)) (ADVP (RB soon)) (VP (VBD focused) (PP (IN on) (NP (DT the) (NN judge)))) (. .)))
+
+(S1 (S (NP (RB Even) (PRP$ his) (JJ routine) (NN business) (NNS transactions)) (VP (VBD caused) (NP (NN trouble)) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (JJ grand) (NN jury) (NN report))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN judge)) (VP (VBD bought) (NP (PRP$ his) (JJ new) (NNP Sunbird)) (PP (IN from) (NP (NP (NNP James) (NNP E.) (NNP Black) (NNP Pontiac-Cadillac)) (PP (IN in) (NP (NNP Ebensburg))))) (ADVP (NP (CD five) (NNS years)) (RB ago))))) (, ,) (NP (DT the) (NN dealership)) (VP (VBD had) (NP (`` `) (NP (`` `) (JJ certain) (NNS apprehensions) ('' ')) ('' ') (PP (IN about) (NP (NP (DT the) (NN judge) (POS 's)) (NN reputation)))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (JJ grand-jury) (NN report))))) (. .)))
+
+(S1 (S (NP (DT The) (NN dealership)) (VP (VBD took) (NP (NP (DT the) (JJ extra) (NN step)) (PP (IN of) (S (VP (VBG having) (NP (PDT all) (DT the) (NN paper) (NN work)) (SBAR (IN for) (S (NP (DT the) (NN transaction)) (VP (JJ pre-approved) (PP (IN by) (NP (NP (NP (NNP Ebensburg) (POS 's)) (JJ local) (NN lender)) (, ,) (NP (NNP Laurel) (NNP Bank)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Then)) (, ,) (PP (IN as) (NP (DT an) (JJ additional) (NN precaution))) (, ,) (NP (DT the) (NN car) (NN dealership)) (VP (VBD took) (NP (NP (DT the) (NN judge) (POS 's)) (NN photograph)) (SBAR (IN as) (S (NP (PRP he)) (VP (VP (VBD stood) (ADVP (JJ next) (PP (TO to) (NP (PRP$ his) (JJ new) (NN car)))) (PP (IN with) (NP (NP (NNS sales) (NNS papers)) (PP (IN in) (NP (NN hand)))))) (: --) (NP (NN proof) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD had) (VP (VBN received) (NP (DT the) (NN loan) (NNS documents))))))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN judge)) (VP (VBD received) (NP (PRP$ his) (NN payment) (NN book))))) (, ,) (NP (PRP he)) (VP (VBD disavowed) (NP (DT the) (NN deal))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (S (NP (EX There)) (VP (VBD was) (NP (DT no) (NN loan)))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (DT no) (NN loan)))) (, ,) (NP (EX there)) (ADVP (RB never)) (VP (MD shall) (VP (VB be) (NP (DT a) (NN loan)))) (, ,) ('' ')) ('' ') (NP (DT the) (NN judge)) (VP (VBD wrote) (NP (DT the) (NN bank)) (PP (IN on) (NP (PRP$ his) (JJ judicial) (NN stationery))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NN report))))) (. .)))
+
+(S1 (S (ADVP (RB Later)) (, ,) (NP (DT the) (NN judge)) (VP (VBD went) (ADVP (NP (DT a) (NN step)) (RBR farther))) (. .)))
+
+(S1 (S (SBAR (IN After) (S (NP (NNP Laurel) (NNP Bank)) (VP (VBD tried) (S (VP (TO to) (VP (VB repossess) (NP (DT the) (NN car)))))))) (, ,) (NP (DT a) (NN vice) (NN president)) (VP (VBD asked) (NP (PRP him)) (S (VP (TO to) (VP (VB intervene) (PP (IN in) (NP (NP (DT an) (JJ unrelated) (JJ legal) (NN dispute)) (VP (VBG involving) (NP (DT a) (NN trust) (NN account))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN judge)) (VP (VBD wrote) (ADVP (RB again))) (. .)))
+
+(S1 (S (`` `) (S (S (`` `) (NP (PRP I)) (VP (VBP find) (NP (PRP myself)) (PP (IN in) (NP (NP (DT an) (NN adversary) (NN relationship)) (PP (IN with) (NP (NNP Laurel) (NNP Bank))))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP am) (RB not) (VP (VBN inclined) (S (VP (TO to) (VP (VB extend) (NP (PRP myself)) (ADVP (ADVP (RB as) (RB far)) (SBAR (IN as) (S (NP (DT any) (NNS favors)) (VP (VBP are) (VP (VBN concerned))))))))))))) (, ,) ('' ') ('' ') (NP (DT the) (NN judge)) (VP (VBD wrote) (ADVP (RB back)) (PP (IN in) (NP (NP (DT a) (NN letter)) (VP (VBN attached) (PP (TO to) (NP (NP (DT the) (JJ grand) (NN jury) (POS 's)) (NN report))))))) (. .)))
+
+(S1 (S (`` `) (SBAR (`` `) (ADVP (RB Perhaps)) (IN if) (S (NP (PRP$ my) (JJ personal) (NNS matters)) (VP (MD can) (VP (VB be) (VP (VBN resolved) (PP (IN with) (NP (NNP Laurel) (NN bank))) (PP (IN in) (NP (DT the) (JJ near) (NN future)))))))) (, ,) (NP (PRP I)) (VP (MD may) (VP (VB be) (ADJP (VBN inclined) (S (VP (TO to) (VP (VB reconsider) (S (NP (PRP$ your) (NN request)) (VP (VBN ..)) (. .)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN judge)) (ADVP (RB now)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBD was) (`` `) (ADJP (`` `) (JJ unfortunate) ('' ')) ('' ') (SBAR (IN that) (S (NP (PRP he)) (VP (VBD chose) (S (VP (VP (TO to) (VP (VB write) (NP (DT the) (NN letter)))) (CC but) (VP (VBZ says) (`` `) (S (`` `) (NP (EX there)) (VP (VBD was) (ADVP (RB certainly)) (NP (DT no) (NN intent) (S (VP (TO to) (VP (VB extort) (ADVP (RB there)))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN bank)) (VP (VBD acquiesced)) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBN refinanced) (NP (NP (DT the) (NN judge) (POS 's)) (NN loan))) (, ,) (VP (VP (VBD lowered) (NP (PRP$ its) (NN interest) (NN rate))) (CC and) (VP (VBD accepted) (NP (NP (NP (DT a) (NN trade-in)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (RB n't) (ADVP (RB originally)) (VP (VBN been) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN deal))))))))) (: --) (NP (DT a) (NN beat))) (ADVP (IN up) (NP (NP (CD 1981)) (NP (NNP Chevy) (NNP Citation)))) (SBAR (S (NP (DT the) (NN dealer)) (VP (VBD had) (S (VP (TO to) (VP (VB repair) (SBAR (IN before) (S (NP (PRP it)) (VP (MD could) (VP (VB be) (VP (VBN resold)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN incident)) (VP (VBD was) (RB n't) (NP (NP (DT the) (JJ only) (NN time)) (SBAR (S (NP (DT the) (NN judge)) (VP (VBD got) (NP (JJ special) (NN treatment)) (PP (IN from) (NP (PRP$ his) (JJ local) (NN bank)))))))) (. .)))
+
+(S1 (S (ADVP (NP (CD Two) (NNS years)) (RB later)) (, ,) (NP (PRP he)) (VP (VBD wrote) (S (VP (TO to) (VP (VB complain) (SBAR (IN that) (S (NP (NP (DT the) (NN interest)) (SBAR (S (NP (PRP he)) (VP (VBD was) (VP (VBG paying) (PP (IN on) (NP (DT an) (JJ unsecured) (ADJP ($ $) (CD 10,000)) (NN loan)))))))) (VP (VBD was) (`` `) (ADJP (`` `) (RB absolutely) (JJ onerous))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Paul) (NNP L.) (NNP Kane)) (, ,) (NP (NP (NP (NNP Laurel) (POS 's)) (NN president)) (PP (IN at) (NP (DT the) (NN time)))) (, ,)) (ADVP (RB quickly)) (VP (VBD responded)) (. .)))
+
+(S1 (S (NP (DT The) (NN bank)) (, ,) (NP (PRP he)) (VP (VP (VBD wrote) (ADVP (RB back))) (, ,) (VP (VBD was) (`` `) (ADVP (`` `) (RB immediately) ('' ')) ('' ') (S (VP (VBG lowering) (NP (DT the) (NN rate)) (PP (IN by) (NP (CD 3.5) (NN %)))))) (, ,) (`` `) (S (`` `) (PP (PP (IN as) (NP (DT a) (NN concession))) (PP (TO to) (NP (PRP you)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN judge)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (MD ca) (RB n't) (VP (VB discuss) (PP (IN in) (NP (NN detail))) (SBAR (WHADVP (WRB how)) (S (NP (PRP he)) (VP (MD will) (VP (VB defend) (NP (PRP himself)) (PP (IN at) (NP (PRP$ his) (NN trial))) (, ,) (SBAR (IN although) (S (NP (PRP he)) (VP (VBZ contends) (SBAR (IN that) (S (SBAR (IN if) (S (NP (PRP he)) (VP (VBD were) (ADJP (ADJP (RB as) (JJ corrupt)) (SBAR (IN as) (S (NP (NN state) (NNS prosecutors)) (VP (VBP believe)))))))) (, ,) (NP (PRP he)) (VP (MD would) (VP (VB be) (ADJP (ADJP (RB far) (JJR wealthier)) (SBAR (IN than) (S (NP (PRP he)) (VP (VBZ is))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (JJ seven-bedroom) (NN cedar) (CC and) (NN brick) (NN house)) (ADVP (JJ outside) (PP (IN of) (NP (NNP Johnstown))))) (VP (VBZ is) (PP (IN up) (PP (IN for) (NP (NN sale)))) (S (VP (TO to) (VP (VB pay) (PP (IN for) (NP (PRP$ his) (NNS lawyers))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN judge)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ is) (ADJP (JJ confident) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB return) (PP (TO to) (NP (PRP$ his) (JJ old) (NN bench)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Already)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ notes))) (, ,)) (NP (NP (DT the) (CD 76) (NNS charges)) (VP (ADVP (RB originally)) (VBN filed) (PP (IN against) (NP (PRP him))))) (VP (VBP have) (VP (VBN been) (VP (VBN trimmed) (PP (TO to) (NP (CD 27)))))) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (NP (DT the) (NNS allegations)) (VP (ADVP (RB no) (RB longer)) (VBG pending))))) (VP (VBD were) (NP (NP (NNS ethics) (NNS charges)) (VP (VBN withdrawn) (PP (IN by) (NP (NN state) (NNS prosecutors))) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (DT a) (JJ pre-trial) (NN agreement)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN heart)) (PP (IN of) (NP (DT the) (NN case))) (PRN (: --) (NP (`` `) (NP (`` `) (JJ official) (NN oppression) ('' ')) ('' ')) (: --))) (VP (VBZ remains) (ADJP (JJ intact))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (IN If) (S (NP (PRP I)) (VP (VBP lose)))) (, ,) (NP (PRP I)) (VP (VBP lose) (NP (NP (PRP$ my) (NN position)) (, ,) (NP (PRP$ my) (NN career)) (, ,) (NP (PRP$ my) (NN pension)) (, ,) (NP (PRP$ my) (NN home)) (CC and) (NP (PRP$ my) (NNS investments)))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (DT the) (NN judge)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNP My) (NNP God))) (CC and) (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBP am) (ADJP (JJ correct) (CC and) (JJ innocent))))))) (. .)))
+

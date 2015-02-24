@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (DT THE) (NN STOCK)) (PP (IN of) (NP (NP (NNP Applied) (NNP Power) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD split) (ADVP (JJ 2-for-1)) (PP (IN in) (NP (NNP May)))))) (, ,)))) (VP (VBZ has) (VP (VBN risen) (PP (IN since) (NP (NNP August) (CD 1988))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN yesterday) (POS 's)) (NN edition))) (, ,) (NP (PRP it)) (VP (VBD was) (VP (ADVP (RB incorrectly)) (VBN stated) (SBAR (IN that) (S (NP (NP (DT the) (NN company) (POS 's)) (NN share) (NN price)) (VP (VBZ has) (VP (VBN softened) (PP (IN since) (NP (NNP August) (CD 1988))))))))) (. .)))
+

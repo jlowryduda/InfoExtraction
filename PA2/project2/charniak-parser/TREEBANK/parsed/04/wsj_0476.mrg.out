@@ -1,0 +1,66 @@
+(S1 (S (NP (DT The) (JJ following)) (VP (VBD were) (PP (IN among) (NP (NP (NP (NN yesterday) (POS 's)) (NNS offerings) (CC and) (NNS pricings)) (PP (IN in) (NP (DT the) (UCP (NNP U.S.) (CC and) (JJ non-U.S.)) (NN capital) (NNS markets))))) (, ,) (PP (IN with) (NP (NP (NNS terms)) (CC and) (NP (NN syndicate) (NN manager)))) (, ,) (SBAR (IN as) (S (VP (VBN compiled) (PP (IN by) (NP (NNP Dow) (NNP Jones) (NNP Capital) (NNPS Markets) (NNP Report))))))) (: :)))
+
+(S1 (NP (NNP New) (NNP York) (NNP City) (: --)))
+
+(S1 (S (NP (NP (QP ($ $) (CD 813.4) (CD million))) (PP (IN of) (NP (NP (JJ general) (NN obligation) (NNS bonds)) (, ,) (NP (JJ Fiscal) (CD 1990) (NNP Series) (NNP C) (CC and) (NNP D)) (, ,)))) (VP (VBG including) (NP (NP (NP (QP ($ $) (CD 757.4) (CD million))) (PP (IN of) (NP (JJ tax-exempt) (NNS bonds)))) (CC and) (NP (NP (QP ($ $) (CD 56) (CD million))) (PP (IN of) (NP (NP (JJ taxable) (NNS bonds)) (, ,) (VP (ADVP (RB tentatively)) (VBN priced) (PP (IN by) (NP (DT a) (NNP Goldman) (NNP Sachs) (CC &) (NNP Co.) (NN group))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Yields)) (PP (IN for) (NP (JJ tax-exempt) (NNS bonds)))) (VP (VBP range) (PP (PP (IN from) (NP (NP (QP (CD 6) (CD 1\/2)) (NN %)) (PP (IN in) (NP (CD 1990))))) (PP (TO to) (NP (CD 7.88) (NN %)))) (PP (IN in) (NP (CD 2003-2005)))) (. .)))
+
+(S1 (S (NP (NP (NNS Yields)) (PP (IN for) (NP (JJ taxable) (NNS bonds)))) (VP (VBP range) (PP (PP (IN from) (NP (NP (QP (CD 9) (CD 1\/8)) (NN %)) (PP (IN in) (NP (CD 1994))))) (PP (TO to) (NP (NP (CD 9.90) (NN %)) (PP (IN in) (NP (CD 2009) (CC and) (CD 2010))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS bonds)) (VP (VBP are) (DT all) (VP (VBN rated) (ADJP (JJ single-A)) (PP (IN by) (NP (NP (NNP Moody) (POS 's)) (NNPS Investors) (NNP Service) (NNP Inc))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS underwriters)) (VP (VBP expect) (NP (NP (DT a) (JJ single-A-minus) (NN rating)) (PP (IN from) (NP (NP (NP (NNP Standard) (CC &) (NNP Poor) (POS 's)) (NNP Corp.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (DT the) (NN issue)) (PP (IN under) (NP (NN review)))))))))) (. .)))
+
+(S1 (NP (JJ Collateralized) (NNP Mortgage) (NNP Securities) (NNP Corp.) (: --)))
+
+(S1 (NP (NP (QP ($ $) (CD 150) (CD million))) (PP (IN of) (NP (NNP Remic) (NN mortgage) (NNS securities))) (VP (VBN offered) (PP (IN in) (NP (CD 12) (NNS classes))) (PP (IN by) (NP (NNP First) (NNP Boston) (NNP Corp)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN offering)) (, ,) (NP (NNP Series) (CD 1989-3)) (, ,)) (VP (VBZ is) (PP (IN by) (NP (NP (DT a) (NN company)) (VP (VBN established) (PP (IN by) (NP (NNP First) (NNP Boston)))))) (PP (IN for) (NP (NP (NN issuing) (NNS Remics)) (CC and) (NP (JJ other) (JJ derivative) (NN mortgage) (NNS securities))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (VP (VBN backed) (PP (IN by) (NP (NP (NNP Government) (NNP National) (NNP Mortgage) (NNP Association) (ADJP (QP (CD 9) (CD 1\/2)) (NN %)) (NNS securities)) (PP (IN with) (NP (NP (DT a) (JJ weighted) (NN average) (VBG remaining) (NN term)) (PP (TO to) (NP (NN maturity))) (PP (IN of) (NP (NP (CD 29) (NNS years)) (CC and) (S (VP (VBG being) (VP (VBN offered) (PP (IN at) (NP (NN market) (NNS prices)))))))))))))) (. .)))
+
+(S1 (NP (NNP Beneficial) (NNP Corp.) (: --)))
+
+(S1 (NP (NP (QP ($ $) (CD 248.3) (CD million))) (PP (IN of) (NP (NNS securities))) (VP (VBN backed) (PP (IN by) (NP (JJ home-equity) (NNS loans))) (PP (IN through) (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNPS Markets)))) (. .)))
+
+(S1 (S (NP (DT The) (NN offering)) (, ,) (PP (IN with) (NP (NP (DT an) (JJ expected) (JJ average) (NN life)) (PP (IN of) (NP (CD 3.2) (NNS years))))) (, ,) (VP (MD will) (VP (VB float) (ADVP (RB monthly)) (PP (IN at) (NP (NP (CD 20) (NN basis) (NNS points)) (PP (IN above) (NP (NP (DT the) (NN rate)) (PP (IN on) (NP (NP (DT an) (NN index)) (PP (IN of) (NP (JJ 30-day) (JJ double-A-rated) (JJ commercial) (NN paper))) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB now)) (VP (VBZ yields) (NP (RB about) (CD 8.50) (NN %))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN issue)) (VP (VBZ has) (NP (NP (NP (DT an) (JJ expected) (JJ final) (NN maturity)) (NN date)) (PP (IN of) (NP (CD 1998))))) (. .)))
+
+(S1 (S (NP (DT The) (NN offering)) (VP (VBZ is) (VP (VP (VBN rated) (ADJP (JJ triple-A)) (PP (IN by) (NP (NNP Moody) (POS 's) (CC and) (NNP S&P))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (JJ underlying) (NN home) (NN equity) (NNS loans))))))) (CC and) (VP (NP (NP (DT a) (NN letter)) (PP (IN of) (NP (NN credit))) (VP (VBG covering) (NP (NP (CD 10) (NN %)) (PP (IN of) (NP (DT the) (NN deal)))))) (PP (IN from) (NP (NP (NNP Union) (NNP Bank)) (PP (IN of) (NP (NNP Switzerland)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN offering)) (VP (VBZ is) (VP (VBG being) (VP (VBN made) (PP (IN through) (NP (NP (NNP BCI) (NNP Home) (NNP Equity) (NNP Loan) (NNP Asset-Backed) (NNPS Certificates)) (, ,) (NP (NNP Series) (CD 1989-1))))))) (. .)))
+
+(S1 (NP (NNP Rochester) (NNP Community) (NNP Savings) (NNP Bank) (: --)))
+
+(S1 (S (NP (NP (QP ($ $) (CD 200) (CD million))) (PP (IN of) (NP (NP (ADJP (CD 8.85) (NN %)) (NNS certificates)) (VP (VBN backed) (PP (IN by) (NP (NN automobile) (NNS loans))))))) (VP (VBN priced) (S (VP (TO to) (VP (VB yield) (NP (CD 8.99) (NN %)) (PP (IN via) (NP (NNP First) (NNP Boston) (NNP Corp))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN issue)) (PRN (, ,) (PP (IN through) (NP (NNP RCSB) (NNP 1989-A) (NNP Grantor) (NNP Trust))) (, ,)) (VP (VBD was) (VP (VBN priced) (PP (IN at) (NP (NP (DT a) (NN yield) (NN spread)) (PP (IN of) (NP (NP (CD 100) (NN basis) (NNS points)) (PP (IN above) (NP (NP (DT the) (NNP Treasury) (ADJP (QP (CD 7) (CD 3\/4)) (NN %)) (NN note)) (ADJP (JJ due) (NP (NNP July) (CD 1991))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN offering)) (VP (VBZ has) (NP (NP (NP (DT an) (JJ expected) (JJ average) (NN life)) (PP (IN of) (NP (CD 1.7) (NNS years)))) (CC and) (NP (NP (DT a) (JJ final) (NN maturity) (NN date)) (PP (IN of) (NP (NNP May) (CD 15) (, ,) (CD 1995)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN issue)) (VP (VBZ is) (VP (VP (VBN rated) (ADJP (JJ triple-A)) (PP (IN by) (NP (NNP Moody) (POS 's))) (, ,) (PP (VBN based) (PP (IN on) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (JJ underlying) (NN auto) (NNS loans))))))) (CC and) (VP (NP (NP (DT a) (NN letter)) (PP (IN of) (NP (NN credit))) (VP (VBG covering) (NP (NP (CD 13) (NN %)) (PP (IN of) (NP (DT the) (NN deal)))))) (PP (IN from) (NP (NNP Credit) (NNP Suisse)))))) (. .)))
+
+(S1 (NP (NP (NNP South) (NNP Australian) (NNP Government) (NNP Finance) (NNP Authority)) (PRN (-LRB- -LRB-) (NP (NN agency)) (-RRB- -RRB-)) (: --)))
+
+(S1 (NP (NP (QP (CD 125) (CD million)) (JJ Australian) (NNS dollars)) (PP (IN of) (NP (JJ zero-coupon) (NNPS Eurobonds))) (ADJP (JJ due) (NP (NNP Dec.) (CD 12) (, ,) (CD 1994))) (, ,) (VP (VBN priced) (PP (IN at) (NP (CD 50.9375))) (S (VP (TO to) (VP (VB yield) (NP (NP (NP (CD 15.06) (NN %)) (NP (JJR less) (NNS fees))) (PP (IN via) (NP (NNP Hambros) (NNP Bank) (NNP Ltd)))))))) (. .)))
+
+(S1 (S (VP (VBN Guaranteed) (PP (IN by) (NP (DT the) (NNP South) (NNP Australian) (NNP Treasury)))) (. .)))
+
+(S1 (NP (NNS Fees) (CD 1) (CD 3\/8) (. .)))
+
+(S1 (NP (NP (NP (NN Government) (NNP Insurance) (NNP Office)) (PP (IN of) (NP (NNP New) (NNP South) (NNP Wales)))) (PRN (-LRB- -LRB-) (NP (NN agency)) (-RRB- -RRB-)) (: --)))
+
+(S1 (NP (NP (NP (QP (DT A) ($ $) (CD 50) (CD million))) (PP (IN of) (NP (ADJP (QP (CD 17) (CD 1\/2)) (NN %)) (NNS Eurobonds)))) (ADJP (JJ due) (NP (NNP Dec.) (CD 4) (, ,) (CD 1991))) (, ,) (VP (VBN priced) (PP (IN at) (NP (CD 101.95))) (S (VP (TO to) (VP (VB yield) (NP (QP (CD 17.06) (JJR less)) (NNS fees)) (PP (IN via) (NP (NNP Westpac) (NNP Banking) (NNP Corp))))))) (. .)))
+
+(S1 (NP (NP (NNS Fees)) (NP (QP (CD 1) (CD 1\/4))) (. .)))
+
+(S1 (NP (NP (NNP Swedish) (NNP Export) (NNP Credit) (NNP Corp) (. .)) (PRN (-LRB- -LRB-) (NP (NNP Sweden)) (-RRB- -RRB-)) (: --)))
+
+(S1 (S (NP (NP (QP (CD 100) (CD million)) (JJ Swiss) (NNS francs)) (PP (IN of) (NP (QP (CD 6) (CD 1\/8)) (NN %)))) (ADVP (RB privately)) (VP (VBD placed) (NP (NP (NNS notes)) (ADJP (JJ due) (NP (NNP Sept.) (CD 30) (, ,) (CD 1996))) (, ,) (VP (VBN priced) (PP (IN at) (NP (CD 100) (CD 3\/4))) (S (VP (TO to) (VP (VB yield) (NP (CD 5.99) (NN %)) (PP (IN via) (NP (NNP Citicorp) (NNP Investment) (NNP Bank) (NNP Switzerland))))))))) (. .)))
+
+(S1 (S (VP (VB Call) (PP (IN from) (NP (NNP Sept.) (CD 30) (, ,) (CD 1993) (, ,))) (PP (IN at) (NP (NP (QP (CD 100) (CD 3\/16))) (, ,) (VP (VBG declining) (PP (PP (IN by) (NP (NP (CD 1\/16) (NN point)) (NP (DT a) (NN year)))) (PP (TO to) (PP (TO to) (NP (NN par))))))))) (. .)))
+
+(S1 (NP (NP (NNS Fees)) (NP (QP (CD 1) (CD 3\/4))) (. .)))
+

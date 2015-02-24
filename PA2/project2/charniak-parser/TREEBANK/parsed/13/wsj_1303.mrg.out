@@ -1,0 +1,82 @@
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (NNP Daiwa) (NNPS Securities) (NNP Co.)) (VP (VBD named) (S (NP (NNP Masahiro) (NNP Dozen)) (VP (NN president)))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Dozen)) (VP (VBZ succeeds) (NP (NP (NNP Sadakane) (NX (FW Doi))) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB become) (NP (NN vice) (NN chairman)))))))) (. .)))
+
+(S1 (S (NP (NNP Yoshitoki) (NNP Chino)) (VP (VBZ retains) (NP (NP (PRP$ his) (NN title)) (PP (IN of) (NP (NP (NN chairman)) (PP (IN of) (NP (NP (NNP Daiwa)) (, ,) (NP (NP (NNP Japan) (POS 's)) (JJ second-largest) (NNS securities) (NN firm)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ Japanese) (NNS firms))) (, ,) (NP (DT the) (NN president)) (ADVP (RB usually)) (VP (VBZ is) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (JJ day-to-day) (NNS operations))))) (, ,) (SBAR (IN while) (S (NP (NP (DT the) (NN chairman) (POS 's)) (NN role)) (VP (VBZ is) (ADVP (RBR more)) (NP (DT a) (JJ ceremonial) (CD one)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN title)) (PP (IN of) (NP (NN chief) (NN executive) (NN officer)))) (VP (VBZ is) (RB n't) (VP (VBN used))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NP (NNS people)) (PP (IN within) (NP (NNP Daiwa) (, ,) (ADVP (RB particularly)) (NP (NNS internationalists)) (, ,)))) (VP (VBD expected) (SBAR (IN that) (S (NP (NP (NNP Mr.) (NNP Dozen)) (, ,) (NP (CD 52)) (, ,)) (VP (MD would) (ADVP (RB eventually)) (VP (VB become) (NP (NP (NNP Daiwa) (POS 's)) (NN president))))))))) (, ,) (NP (NP (DT the) (NN speed)) (PP (IN of) (NP (PRP$ his) (NN promotion)))) (VP (VBD surprised) (NP (JJ many))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (RB only) (RBR earlier) (DT this) (NN year)) (SBAR (IN that) (S (NP (NP (DT the) (JJ jovial) (, ,) (JJ easygoing) (NN executive)) (PRN (: --) (S (NP (PRP he)) (VP (VBZ likes) (S (VP (TO to) (VP (NN joke) (PP (IN with) (NP (NP (NNPS Americans)) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (PRP$ his) (NN name)) (VP (VBZ is) (ADJP (JJ synonymous) (PP (IN with) (NP (CD twelve))))))))))))))) (: --))) (VP (VBD was) (VP (VBN appointed) (S (NP (NN deputy) (NN president)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Dozen)) (VP (VBZ is) (VP (VBG taking) (PRT (RP over)) (NP (NP (DT the) (NNS reins)) (PP (IN of) (NP (NP (DT a) (NNS securities) (NN company)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (ADVP (RB very) (RB well)) (PP (IN in) (NP (PRP$ its) (JJ domestic) (NN market)))))) (CC but) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB still)) (VP (VBG seeking) (S (VP (TO to) (VP (VB realize) (NP (PRP$ its) (NN potential)) (PP (IN in) (NP (NP (JJ global) (NN investment) (NN banking)) (CC and) (NP (NNS securities) (NN dealing))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Daiwa)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NN world) (POS 's)) (JJS largest) (NNS securities) (NNS firms))))) (. .)))
+
+(S1 (S (PP (IN As) (PP (IN of) (NP (NNP March) (CD 31)))) (, ,) (NP (DT the) (NNP Daiwa) (NN group)) (VP (VBD had) (NP (NP (NN shareholder) (NN equity)) (PP (IN of) (NP (NP (QP (CD 801.21) (CD billion)) (NNS yen)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 5.64) (CD billion))) (-RRB- -RRB-)))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (DT the) (CD six) (NNS months)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))) (, ,) (NP (NNP Daiwa)) (VP (VBD reported) (NP (NP (JJ unconsolidated) (PRN (-LRB- -LRB-) (NP (NN parent) (NN company)) (-RRB- -RRB-)) (JJ net) (NN income)) (PP (IN of) (NP (NP (QP (CD 79.03) (CD billion)) (NNS yen)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 556.5) (CD million))) (-RRB- -RRB-)))) (PP (IN on) (NP (NP (NN revenue)) (PP (IN of) (NP (NP (QP (CD 332.38) (CD billion)) (NNS yen)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 2.34) (CD billion))) (-RRB- -RRB-)))))))) (. .)))
+
+(S1 (S (NP (DT Both) (NNS figures)) (VP (VBD were) (NP (JJ record) (NNS highs))) (. .)))
+
+(S1 (S (NP (JJ Several) (NNS observers)) (VP (VBD interpreted) (NP (NP (NNP Mr.) (NNP Dozen) (POS 's)) (NN appointment)) (PP (IN as) (NP (NP (DT an) (NN attempt)) (PP (IN by) (NP (NNP Daiwa))) (S (VP (TO to) (VP (VB make) (S (NP (PRP$ its) (JJ international) (NNS operations)) (ADJP (RBR more) (JJ profitable))) (SBAR (IN while) (S (VP (VBG preparing) (NP (DT the) (NN firm)) (PP (IN for) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (NP (DT the) (VBG continuing) (NN deregulation)) (PP (IN of) (NP (NP (NP (NNP Japan) (POS 's)) (JJ domestic) (NNS markets)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD should) (VP (VB mean) (NP (JJ increased) (NN competition))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT All)) (PP (IN of) (NP (NP (NP (NNP Japan) (POS 's)) (JJ so-called) (NNP Big) (NNP Four) (NNS securities) (NNS firms)) (: --) (NP (NP (NP (NNP Nomura) (NNP Securities) (NNP Co.) (NNP Ltd.)) (, ,) (NP (NP (DT the) (NN world) (POS 's)) (JJS largest))) (, ,) (NP (NNP Nikko) (NNP Securities) (NNP Co.) (NNP Ltd.)) (, ,) (NP (NNP Yamaichi) (NNP Securities) (NNP Co.) (NNP Ltd.)) (CC and) (NP (NNP Daiwa))) (: --)))) (VP (VBP have) (VP (VBN suffered) (NP (NP (NNS setbacks)) (PP (IN in) (NP (PRP$ their) (NNS attempts) (S (VP (TO to) (VP (VB break) (PP (IN into) (NP (JJ foreign) (NNS markets))))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (PRP they)) (VP (VBP have) (VP (VBN moved) (PP (TO to) (NP (DT the) (NN fore))) (PP (IN in) (NP (VBG underwriting) (NN fixed-income) (NNS securities))) (PP (IN in) (NP (DT the) (NNP Eurobond) (NN market))))))) (PRN (: --) (PP (ADVP (RB mostly)) (IN for) (NP (JJ Japanese) (NNS firms))) (: --)) (NP (PRP they)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB only) (RB marginally) (JJ profitable)) (, ,) (IN if) (PP (IN at) (NP (DT all)))) (, ,) (PP (IN in) (NP (DT the) (NNP U.S.))))) (. .)))
+
+(S1 (S (NP (JJ American) (JJ institutional) (NNS investors)) (VP (VBP have) (ADVP (RB never)) (VP (VBN had) (NP (NP (DT a) (JJ large) (NN appetite)) (PP (IN for) (NP (JJ Japanese) (NNS equities)))))) (. .)))
+
+(S1 (S (CC And) (SBAR (IN while) (S (NP (DT the) (NNPS Japanese)) (VP (VBP have) (VP (VBD stepped) (PRT (RP up)) (NP (NP (PRP$ their) (NNS purchases)) (PP (IN of) (NP (NNP U.S.) (NNS shares)))) (PP (IN in) (NP (DT the) (JJ past) (JJ several) (NNS months))))))) (, ,) (NP (PRP they)) (VP (VBP have) (VP (VBN shown) (NP (PRP themselves)) (PP (IN in) (NP (DT the) (NN past) (S (VP (TO to) (VP (VB be) (NP (JJ fickle) (NNS investors))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (NP (NNP Daiwa)) (CC and) (NP (PRP$ its) (NNS brethren))) (VP (VBP have) (VP (VBN faced) (NP (NP (JJ stiff) (NN competition)) (PP (IN from) (NP (NP (JJ well-entrenched) (JJ American) (NNS competitors)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN prevented) (NP (PRP them)) (PP (IN from) (S (VP (VBG building) (NP (NP (JJ strong) (NNS links)) (PP (TO to) (NP (NP (NNP U.S.) (NNS corporations)) (CC and) (NP (JJ institutional) (NNS investors))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Dozen)) (VP (VBZ knows) (NP (DT these) (NNS problems)) (ADVP (RB firsthand))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP he)) (VP (VBD arrived) (PP (IN in) (NP (DT the) (NNP U.S.))) (PP (IN in) (NP (CD 1969))) (PRN (: --) (NP (NP (DT the) (NN start)) (PP (IN of) (NP (DT an) (JJ eight-year) (NN tour)))) (: --))))) (NP (PRP he)) (VP (VBD tried) (S (VP (VBG selling) (NP (JJ Japanese) (JJ yen-denominated) (NNS bonds)) (PP (TO to) (NP (NNP U.S.) (NNS investors)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP He)) (VP (VBD made) (NP (JJ desperate) (NNS efforts)) (, ,) (S (VP (VBG using) (NP (NP (DT the) (JJ yellow) (NNS pages)) (PP (IN from) (NP (NN beginning)))) (S (VP (TO to) (VP (VB end)))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Koji) (NNP Yoneyama)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Daiwa) (POS 's)) (NNP U.S.) (NN unit))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (CC But) (RB not) (NP (NP (DT a) (JJ single) (NN piece)) (PP (IN of) (NP (NN paper)))) (VP (VBD was) (VP (VBN sold))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN By) (NP (PRP$ his) (JJ own) (NN account))) (, ,) (NP (NNP Mr.) (NNP Dozen)) (VP (VBD did) (RB n't) (VP (VB do) (ADVP (RB much) (RBR better)) (PP (IN with) (NP (NNP U.S.) (NNS bonds))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT an) (NN interview))) (ADVP (NP (DT a) (JJ few) (NNS months)) (RB ago)) (, ,) (NP (PRP he)) (VP (VBD recalled) (SBAR (WHADVP (WRB how)) (S (PP (IN after) (NP (NP (DT some) (NN training)) (PP (IN at) (NP (NNP Salomon) (NNP Brothers) (NNP Inc.))))) (, ,) (NP (PRP he)) (ADVP (RB successfully)) (VP (VBD bid) (PP (IN for) (NP (DT the) (NN opportunity) (S (VP (TO to) (VP (VB sell) (NP (NP (NNS portions)) (PP (IN of) (NP (CD 20) (NNP U.S.) (JJ corporate) (NN bond) (NNS issues))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (MD could) (RB n't) (VP (VB sell) (NP (DT any)))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (JJ Japanese) (NN stock) (NNS salesmen)) (VP (VBG selling) (NP (NNP American) (NNS bonds)))) (. ?)))
+
+(S1 (S (S (ADVP (RB Maybe)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ crazy)))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Dozen)) (ADVP (RB even)) (VP (VBD related) (SBAR (S (NP (DT the) (NN indignity)) (VP (VBD suffered) (SBAR (WHADVP (WRB when)) (S (NP (NP (PRP he)) (CC and) (NP (CD two) (NNS colleagues))) (VP (VP (VBD went) (PP (IN on) (NP (DT an) (JJ overnight) (NN fishing) (NN expedition))) (PP (IN off) (NP (DT the) (NNP New) (NNP Jersey) (NN shore)))) (CC and) (VP (VBD caught) (NP (NN nothing)))))))))) (. .)))
+
+(S1 (S (PP (IN Upon) (S (VP (VBG returning) (PP (TO to) (NP (NNP New) (NNP York))) (, ,) (`` `) (S (`` `) (S (S (VP (VBN Exhausted))) (, ,) (NP (PRP I)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN taxicab))))) (, ,) (CC and) (S (NP (DT the) (NN woman) (NN driver)) (VP (VBD said) (: :) (`` `) (S (NP (NNPS Americans)) (VP (VBP make) (NP (JJR better) (NNS fishermen)))))) (, ,) ('' ')) ('' ')))) (: ') (NP (PRP he)) (VP (VBD recalled)) (. .)))
+
+(S1 (S (S (VP (VBN Undaunted))) (, ,) (NP (NNP Mr.) (NNP Dozen)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (NNP Daiwa) (POS 's)) (NN goal)) (VP (VBZ is) (S (VP (TO to) (VP (VB build) (`` `) (NP (NP (`` `) (DT a) (JJ high-technology) (VBN oriented) (JJ international) (NN organization)) (PP (IN with) (NP (NP (RB maybe) (DT some) (JJ Japanese) (NN flavor)) (PP (TO to) (NP (PRP it))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD was) (ADJP (RB particularly) (JJ interested) (PP (IN in) (S (NP (PRP$ his) (NN firm)) (VP (VBG gaining) (NP (NN expertise)) (PP (IN in) (NP (NP (NNS futures)) (, ,) (NP (NNS options)) (, ,) (NP (JJ mortgaged-backed) (NNS securities)) (, ,) (NP (JJ computerized) (NN trading) (CC and) (NN investment) (NNS systems)) (CONJP (RB as) (RB well) (IN as)) (NP (NNS mergers) (CC and) (NNS acquisitions)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Dozen)) (VP (VBD said) (SBAR (S (NP (NP (NNP Daiwa) (POS 's)) (NNS strengths)) (VP (VBD were) (NP (NP (PRP$ its) (JJ large) (NN capital) (NN base)) (, ,) (NP (NP (PRP$ its) (JJ influential) (NN position)) (PP (IN in) (NP (DT the) (NNP Tokyo) (NN market)))) (CC and) (NP (NP (PRP$ its) (NNS links)) (PP (TO to) (NP (NP (JJ Japanese) (NNS corporations)) (CC and) (NP (JJ institutional) (NNS investors)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Dozen)) (VP (VBD joined) (NP (NNP Daiwa)) (PP (IN upon) (NP (NP (PRP$ his) (NN graduation)) (PP (IN from) (NP (NNP Kyoto) (NNP University))))) (PP (IN in) (NP (CD 1959)))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (NP (JJ many) (JJ young) (NNS recruits)) (PP (IN in) (NP (JJ Japanese) (NNS securities) (NNS firms))))) (, ,) (NP (PRP he)) (VP (VBD began) (NP (PRP$ his) (NN career)) (S (VP (VBG peddling) (NP (NN stock)) (PP (TO to) (NP (JJ individual) (NNS investors)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (PRP$ his) (NN climb)) (PP (TO to) (NP (DT the) (NN top))))) (, ,) (NP (NNP Mr.) (NNP Dozen)) (ADVP (RB also)) (VP (VBD headed) (NP (NP (NP (DT the) (NN company) (POS 's)) (JJ stock-exchange) (NN division)) (, ,) (NP (PRP$ its) (JJ fixed-income) (NNS units)) (CC and) (NP (PRP$ its) (JJ international) (NNS operations)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP He)) (VP (VBD was) (ADVP (RB constantly)) (VP (VBG picking) (PRT (RP up)) (NP (JJ new) (NNS things)) (S (VP (TO to) (VP (VB fill) (PRT (RP out)) (NP (PRP$ his) (NN experience)))))))) (: ;) (S (NP (PRP he)) (VP (VBZ is) (ADJP (RB very) (JJ well-balanced)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Takuro) (NNP Isoda)) (, ,) (NP (NP (NN chairman)) (PP (IN of) (NP (NP (NP (NNP Daiwa) (POS 's)) (NNP U.S.) (NN unit)) (PP (IN in) (NP (NNP New) (NNP York))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (NP (NP (NP (NNP Mr.) (NNP Dozen) (POS 's)) (NN experience)) (PP (IN as) (NP (NP (DT a) (NN salesman)) (SBAR (WHNP (WDT that)) (S (VP (VBD enabled) (S (NP (PRP him)) (VP (TO to) (VP (VB gain) (NP (DT the) (JJ political) (NN support))))))))))) (PRN (: --) (PP (ADVP (RB particularly)) (PP (IN from) (NP (DT the) (JJ retail) (NNS sales) (NN force)))) (: --)) (S (VP (TO to) (VP (VB accede) (PP (TO to) (NP (DT the) (NN presidency))))))) (. .)))
+
+(S1 (S (NP (NP (NN Commission) (NN income)) (PP (IN from) (NP (JJ domestic) (NN stock) (CC and) (NN bond) (NNS sales) (NNS accounts)))) (VP (VB form) (NP (NP (DT a) (JJ large) (NN portion)) (PP (IN of) (NP (JJ Japanese) (NNS securities) (NP (NNS companies) (POS ')) (NNS earnings))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (NN anybody)) (SBAR (WHNP (WP who)) (S (VP (VBD lacked) (NP (NP (DT the) (NN backing)) (PP (IN of) (NP (DT the) (JJ retail) (NNS sales) (NN force)))) (`` `) (S (`` `) (VP (MD would) (VP (VB be) (ADJP (JJ fragile)))) (, ,) ('' ')) ('' '))))) (VP (VBD said) (NP (DT a) (NNP Daiwa) (NN executive))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (NNP Mr.) (NNP Dozen)) (VP (VBZ has) (NP (DT a) (NN weakness))))) (, ,) (NP (PRP it)) (VP (MD may) (VP (VB be) (NP (PRP$ his) (NN golf) (NN game)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP He)) (VP (VBZ digs) (PP (IN in) (NP (DT the) (NN sand))) (PP (RB instead) (IN of) (S (VP (VBG hitting) (NP (DT the) (NN ball))))) (, ,) (PP (IN like) (NP (DT a) (NN farmer))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NNP Mr.) (NNP Yoneyama)) (. .)))
+

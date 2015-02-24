@@ -1,0 +1,16 @@
+(S1 (S (NP (NNP Nelson) (NNP Holdings) (NNP International) (NNP Ltd.)) (NP (NNS shareholders)) (VP (VBD approved) (NP (NP (DT a) (JJ 1-for-10) (NN consolidation)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (JJ common) (NN stock)))) (PP (IN at) (NP (DT a) (JJ special) (NN meeting)))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (NNS shareholders)) (VP (VBD approved) (NP (NP (DT the) (NN adoption)) (PP (IN of) (NP (NP (DT a) (NNS rights) (NN plan)) (CC and) (NP (DT a) (NN super-majority) (NN voting) (NN approval) (NN requirement)))))) (. .)))
+
+(S1 (S (NP (PRP They)) (ADVP (RB also)) (VP (VBD approved) (NP (NP (DT the) (NN relocation)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (JJ registered) (NN office))) (PP (TO to) (NP (NNP Toronto)))) (PP (PP (IN from) (NP (NP (NNP Vancouver)) (CC and) (NP (DT a) (NN name) (NN change)))) (PP (TO to) (NP (NNP NHI) (NNP Nelson) (NNP Holdings) (NNP International) (NNP Ltd))))) (. .)))
+
+(S1 (S (PP (VBG Following) (NP (DT the) (NN consolidation))) (, ,) (NP (NP (DT the) (NN entertainment) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (NN film) (CC and) (NN television) (NNS operations)) (PP (IN in) (NP (NP (NNP Beverly) (NNP Hills)) (, ,) (NP (NNP Calif.)))))))) (, ,)) (VP (MD will) (VP (VB have) (NP (NP (QP (RB about) (CD 4.1) (CD million)) (NNS shares)) (ADJP (JJ outstanding))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (JJ authorized) (JJ common) (NNS shares)))) (VP (MD will) (VP (VB remain) (PP (IN at) (NP (QP (CD 100) (CD million)))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT the) (NNS rights) (NN plan))) (, ,) (NP (NNS holders)) (VP (MD will) (VP (VB have) (NP (NP (CD one) (NN right)) (PP (IN for) (NP (DT each) (JJ common) (NN share))) (VP (VBN held))) (, ,) (PP (IN with) (NP (NP (DT each) (JJ right)) (VP (VBG entitling) (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (CD one) (JJ common) (NN share))) (PP (IN for) (NP (CD 100) (JJ Canadian) (NNS dollars))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS rights) (NN plan)) (VP (MD would) (VP (VB be) (VP (VBN triggered) (SBAR (IN if) (S (NP (DT a) (NN person) (CC or) (NN group)) (VP (VBZ acquires) (NP (NP (QP (CD 20) (NN %) (CC or) (JJR more))) (PP (IN of) (NP (NP (DT the) (JJ common) (NNS shares)) (ADJP (JJ outstanding))))) (PP (IN without) (S (VP (VBG making) (NP (DT an) (NN offer)) (PP (TO to) (NP (DT all) (NNS shareholders)))))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT the) (NN super-majority) (NN amendment))) (, ,) (NP (JJ certain) (NNS mergers) (CC and) (JJ other) (NNS transactions)) (VP (MD would) (VP (VB require) (NP (NP (NN approval)) (PP (IN of) (NP (NP (NNS holders)) (PP (IN of) (NP (NP (CD 80) (NN %)) (PP (IN of) (NP (NP (NP (DT the) (NN company) (POS 's)) (JJ common) (NNS shares)) (ADJP (JJ outstanding))))))))))) (. .)))
+

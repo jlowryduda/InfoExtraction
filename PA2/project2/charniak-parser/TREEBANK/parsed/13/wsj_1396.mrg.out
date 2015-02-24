@@ -1,0 +1,34 @@
+(S1 (S (NP (DT The) (NNP Senate)) (VP (VBD convicted) (NP (NP (NNP U.S.) (NNP District) (NNP Judge) (NNP Alcee) (NNP Hastings)) (PP (IN of) (NP (NNP Florida)))) (PP (IN of) (NP (CD eight) (NN impeachment) (NNS articles))) (, ,) (S (VP (VBG removing) (NP (DT the) (JJ 53-year-old) (NN judge)) (PP (IN from) (NP (PRP$ his) (ADJP ($ $) (JJ 89,500-a-year) (, ,)) (NN lifetime) (NN job)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Hastings) (POS 's)) (NN case)) (VP (VBD was) (ADJP (RB particularly) (JJ nettlesome)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBD marked) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (DT a) (JJ federal) (NN official)) (VP (VBD was) (VP (VP (VBN impeached)) (CC and) (VP (VBN removed) (PP (IN from) (NP (NN office)))) (PP (IN on) (NP (NNS charges) (SBAR (WHPP (IN of) (WHNP (WDT which))) (S (NP (DT a) (NN jury)) (VP (VBD had) (VP (VBN acquitted) (NP (PRP him))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1983))) (, ,) (NP (NNP Mr.) (NNP Hastings)) (VP (VBD was) (VP (VBN found) (S (ADJP (RB not) (JJ guilty) (PP (IN of) (S (VP (VBG accepting) (NP (DT a) (ADJP ($ $) (CD 150,000)) (NN bribe)) (PP (IN in) (NP (DT a) (NN case))) (PP (IN before) (NP (PRP him))) (, ,) (NP (NP (DT the) (JJ central) (NN charge)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (DT the) (NNP Senate)) (VP (VBD convicted) (NP (PRP him))))))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD was) (SBAR (S (NP (RB only) (DT the) (JJ sixth) (JJ federal) (NN judge)) (ADVP (RB ever)) (VP (VBD ousted) (PP (IN from) (NP (NN office))) (PP (IN after) (NP (DT an) (NN impeachment) (NN trial))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (DT no) (NN floor) (NN debate))) (, ,) (NP (DT the) (NNP Senate)) (PP (IN on) (NP (NNP Friday))) (VP (VBD voted) (ADVP (CD 69-26)) (S (VP (TO to) (VP (VB convict) (NP (NNP Mr.) (NNP Hastings)) (PP (IN of) (NP (NP (NN perjury)) (CC and) (S (VP (VBG conspiring) (S (VP (TO to) (VP (VB accept) (NP (NP (DT a) (NN bribe)) (, ,) (VP (ADVP (NP (CD five) (NNS votes)) (RBR more) (IN than)) (VBN needed)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Conviction)) (PP (IN on) (NP (DT any) (JJ single) (NN impeachment) (NN article)))) (VP (VBD was) (ADJP (JJ enough) (S (VP (TO to) (VP (VB remove) (NP (NNP Judge) (NNP Hastings)) (PP (IN from) (NP (NN office)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD was) (VP (VBN found) (S (ADJP (RB not) (JJ guilty) (PP (IN of) (NP (NP (CD three) (NNS charges)) (, ,) (VP (VBG involving) (NP (NNS accusations) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD had) (VP (ADVP (RB improperly)) (VBN disclosed) (NP (NP (NN information)) (PP (IN about) (NP (DT a) (ADJP (JJ sensitive) (, ,)) (NN government) (NN investigation)))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Senate)) (VP (VBD did) (RB n't) (VP (VB vote) (PP (IN on) (NP (CD six) (JJR lesser) (NNS charges))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNP Mr.) (NNP Hastings)) (VP (VBD had) (VP (VBN been) (VP (VBN acquitted) (PP (IN by) (NP (DT a) (NN jury)))))))) (, ,) (NP (NP (NNS lawmakers)) (VP (VBG handling) (NP (NP (DT the) (NN prosecution)) (PP (IN in) (NP (NNP Congress)))))) (VP (VBD had) (VP (VBN argued) (SBAR (IN that) (S (NP (NP (DT the) (NN purpose)) (PP (IN of) (NP (NN impeachment)))) (VP (VBZ is) (RB n't) (S (VP (TO to) (VP (VB punish) (NP (DT an) (NN individual)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (PRP they)) (VP (VBD argued) (SBAR (IN that) (S (NP (NN impeachment)) (VP (VBZ aims) (S (VP (TO to) (VP (VB protect) (NP (JJ public) (NNS institutions)) (PP (IN from) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN abused) (NP (NP (PRP$ their) (NNS positions)) (PP (IN of) (NP (NN trust)))) (, ,) (S (ADJP (JJ irrespective) (PP (IN of) (NP (NP (DT the) (NN outcome)) (PP (IN of) (NP (JJ prior) (JJ criminal) (CC or) (JJ civil) (NNS cases)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Hastings)) (VP (VP (VBD faced) (NP (DT the) (NNS senators))) (CC and) (VP (VBD sat) (ADVP (RB impassively)) (PP (IN during) (NP (DT the) (JJ first) (CD two) (NN roll-call) (NNS votes)))) (, ,) (RB then) (VP (ADVP (RB quickly)) (VBD left) (NP (DT the) (NN chamber)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT an) (JJ impromptu) (NN news) (NN conference)) (PP (IN on) (NP (DT the) (NNP Capitol) (NNS steps))))) (, ,) (NP (PRP he)) (VP (VBD denounced) (NP (NP (DT the) (NNS senators) (POS ')) (NN action))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP$ Their) (NN opinion)) (VP (VBZ is) (ADJP (JJ devoid) (PP (IN of) (NP (NP (DT the) (NN wisdom)) (PP (IN of) (NP (NP (NP (DT the) (NNS forefathers) (POS ')) (NN teaching)) (VP (VBG regarding) (NP (NN impeachment))))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Hastings)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (NN future))) (, ,) (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB run) (PP (IN for) (NP (NP (NN governor)) (PP (IN of) (NP (NNP Florida)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Hastings)) (VP (VP (VBD was) (VP (VBN appointed) (PP (TO to) (NP (DT the) (JJ federal) (NN bench))) (PP (IN by) (NP (NNP President) (NNP Carter))) (PP (IN in) (NP (CD 1979))))) (CC and) (VP (VBD was) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ few) (JJ black) (JJ federal) (NNS judges)))) (PP (IN in) (NP (DT the) (NN country))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (PRP he)) (VP (VBD packed) (NP (NP (DT the) (NNP Senate) (NN gallery)) (PP (IN with) (NP (PRP$ his) (NNS supporters)))) (PP (IN during) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN impeachment) (NN trial)))))))) (, ,) (NP (JJS most) (JJ civil) (NNS rights) (NNS groups)) (VP (VBD kept) (NP (PRP$ their) (NN distance)) (PP (IN from) (NP (PRP$ his) (NN case)))) (. .)))
+
+(S1 (S (PP (VBG Following) (NP (DT the) (NN impeachment) (NN conviction))) (, ,) (S (NP (NP (NNP Dr.) (NNP Benjamin) (VBZ Hooks)) (, ,) (NP (NP (JJ executive) (NN director)) (PP (IN of) (NP (NP (DT the) (NNP National) (NNP Association)) (PP (IN for) (NP (DT the) (NN Advancement))))) (PP (IN of) (NP (VBN Colored) (NNS People)))) (, ,)) (VP (VBD issued) (NP (DT a) (JJ restrained) (NN statement)))) (, ,) (S (VP (VBG warning) (SBAR (IN that) (S (NP (DT the) (NNP Hastings) (NN case)) (VP (MD could) (VP (VB set) (NP (DT a) (`` `) (NX (`` `) (NX (JJ dangerous) (NN precedent)) (, ,) ('' ')) ('' ')))))))) (CC but) (S (VP (VBG adding) (, ,) (`` `) (S (`` `) (NP (PRP We)) (VP (MD must) (VP (VB respect) (NP (NP (DT the) (JJ considered) (NN judgment)) (PP (IN of) (NP (DT the) (NNP Senate))))))))) (. .)))
+

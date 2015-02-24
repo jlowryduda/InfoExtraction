@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP E.W.) (NNP Scripps) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ has) (VP (VBN acquired) (NP (NP (DT a) (NNP Georgia) (NN cable) (NN television) (NN company)) (CC and) (NP (DT a) (NNP Massachusetts) (NN publishing) (NN firm)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Terms)) (PP (IN on) (NP (DT both) (NNS deals)))) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (NP (DT The) (NNS media) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD purchased) (NP (NP (NNP Cable) (NNP USA) (NNP Inc.)) (, ,) (NP (DT a) (ADJP (RB privately) (VBN held)) (NN cable) (NN television) (NN system))) (PP (IN in) (NP (NP (NP (NNP Carroll) (NNP County)) (, ,) (NP (NNP Ga.))) (, ,) (NP (NP (DT a) (NN suburb)) (PP (IN of) (NP (NNP Atlanta)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN system)) (VP (VP (VBZ is) (ADVP (RB still)) (PP (IN under) (NP (NN construction)))) (CC and) (VP (MD will) (VP (VB serve) (NP (NP (DT a) (NN market)) (PP (IN of) (NP (CD 7,600) (NNS homes))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VBZ has) (VP (VBN acquired) (NP (NP (NNP Sundance) (NNPS Publishers) (CC and) (NNS Distributors)) (SBAR (S (NP (NNP Inc.)) (, ,) (NP (DT a) (NN family)) (VP (VBD owned) (NP (NP (NN producer) (CC and) (NN distributor)) (PP (IN of) (NP (JJ educational) (NNS materials))) (PP (IN in) (NP (NP (NNP Littleton)) (, ,) (NP (NNP Mass))))))))))) (. .)))
+

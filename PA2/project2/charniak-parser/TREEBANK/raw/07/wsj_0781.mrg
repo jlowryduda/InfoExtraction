@@ -1,0 +1,50 @@
+<s> Intel Corp. 's most powerful computer chip has flaws that could delay several computer makers ' marketing efforts , but the `` bugs '' are n't expected to hurt Intel and most computer makers . </s>
+<s> Computer experts familiar with the flaws , found in Intel 's 80486 chip , say the defects do n't affect the average user and are likely to be cleared up before most computers using the chip as their `` brains '' appear on the market sometime next year . </s>
+<s> Intel said that last week a customer discovered two flaws in its 80486 microprocessor chip 's `` floating-point unit '' , a set of circuits that do certain calculations . </s>
+<s> On Friday , Intel began notifying customers about the bugs which cause the chip to give wrong answers for some mathematical calculations . </s>
+<s> But while International Business Machines Corp. and Compaq Computer Corp. say the bugs will delay products , most big computer makers said the flaws do n't affect them . </s>
+<s> `` Bugs like this are just a normal part of product development , '' said Richard Archuleta , director of Hewlett-Packard Co. 's advanced systems development . </s>
+<s> Hewlett announced last week that it planned to ship a computer based on the 486 chip early next year . </s>
+<s> `` These bugs do n't affect our schedule at all , '' he said . </s>
+<s> Likewise , AST Research Inc. and Sun Microsystems Inc. said the bugs wo n't delay their development of 486-based machines . </s>
+<s> `` We have n't modified our schedules in any way , '' said a Sun spokesman . </s>
+<s> To switch to another vendor 's chips , `` would definitely not be an option , '' he said . </s>
+<s> Nonetheless , concern about the chip may have been responsible for a decline of 87.5 cents in Intel 's stock to $ 32 a share yesterday in over-the-counter trading , on volume of 3,609,800 shares , and partly responsible for a drop in Compaq 's stock in New York Stock Exchange composite trading on Wednesday . </s>
+<s> Yesterday , Compaq plunged further , closing at $ 100 a share , off $ 8.625 a share , on volume of 2,633,700 shares . </s>
+<s> Most of Compaq 's decline is being attributed to a third-quarter earnings report that came in at the low end of analysts ' expectations . </s>
+<s> Intel said it had corrected the problems and would start producing bugless chips next week . </s>
+<s> `` We should not be seeing any more , '' said Bill Rash , Intel 's director for the 486 chip . </s>
+<s> What 's more , the bugs only emerge on esoteric applications such as computer-aided design and scientific calculations , he said , and then very seldom . </s>
+<s> `` These errata do not affect business programs , '' he said . </s>
+<s> The bugs will cause problems in `` specific and rare circumstances that will not occur in typical applications '' such as word-processing and spreadsheets , said Michael Slater , editor of the Microprocessor Report , an industry newsletter . </s>
+<s> Sun , Hewlett-Packard and others say Intel is n't wholly to blame for the snafu . </s>
+<s> The real culprits , they said , are computer makers such as IBM that have jumped the gun to unveil 486-based products . </s>
+<s> `` The reason this is getting so much visibility is that some started shipping and announced early availability , '' said Hewlett-Packard 's Mr. Archuleta . </s>
+<s> `` You can do that but you 're taking a risk . </s>
+<s> Those companies are paying the price for taking the risk . '' </s>
+<s> In late September , IBM began shipping a plug-in card that converts its PS\/2 model 70-A21 from a 80386 machine to an 80486 machine . </s>
+<s> An IBM spokeswoman said the company told customers Monday about the bugs and temporarily stopped shipping the product . </s>
+<s> IBM has no plans to recall its add-on cards , the spokeswoman said , and could probably circumvent the bugs without long product delays . </s>
+<s> `` We do n't look at this as a major problem for us , '' she said . </s>
+<s> Compaq , which said it discovered the bugs , still plans to announce new 486 products on Nov. 6 . </s>
+<s> Because of the glitch , however , the company said it does n't know when its machine will be commercially available . </s>
+<s> That 's a break from Compaq tradition , because the company does n't announce products until they 're actually at the dealers . </s>
+<s> The problem is being ballyhooed , experts say , because the 486 is Intel 's future flagship . </s>
+<s> Intel 's microprocessors are the chips of choice in many of today 's personal computers and the 80486 microprocessor is the spearhead of the company 's bid to guard that spot in the next generation of machines . </s>
+<s> `` Although these sorts of bugs are not at all uncommon , the 486 is an extremely high-profile product , '' said Mr. Slater , the newsletter editor . </s>
+<s> Intel 's 80486 chip is the Corvette of Intel 's microprocessors , a super-fast , super-expensive chip that only the most power-hungry computer users are likely to buy for at least several years . </s>
+<s> Unveiled last April , the chip crams 1.2 million transistors on a sliver of silicon , more than four times as many as on Intel 's earlier model , 80386 . </s>
+<s> Intel clocks the chip 's speed at 15 million instructions per second , or MIPs . </s>
+<s> That 's four times as fast as the 386 . </s>
+<s> Machines using the 486 are expected to challenge higher-priced work stations and minicomputers in applications such as so-called servers , which connect groups of computers together , and in computer-aided design . </s>
+<s> But while the chip 's speed in processing power is dazzling , it 's real strength lies in its software inheritance . </s>
+<s> The 486 is the descendant of a long series of Intel chips that began dominating the market ever since IBM picked the 16-bit 8088 chip for its first personal computer . </s>
+<s> -LRB- A 16-bit microprocessor processes 16 pieces of data at a time and is slower than newer , 32-bit chips . -RRB- </s>
+<s> Since then , Intel has cornered a large part of the market with successive generations of 16-bit and 32-bit chips , all of which can run software written for previous models . </s>
+<s> That 's what will keep computer makers coming in spite of the irritation of bugs . </s>
+<s> Big personal computer makers and many makers of engineering workstations are developing 486-based machines , which are expected to reach the market early next year . </s>
+<s> Of the big computer makers , only Apple Computer Co. bases its machines on Motorola chips instead . </s>
+<s> `` The 486 is going to have a big impact on the industry , '' said Hewlett-Packard 's Mr. Archuleta . </s>
+<s> `` It 's going to be the leading edge technology in personal computers for the next few years . </s>
+<s> This bug is not going to have any affect on that at all . '' </s>
+<s> Andy Zipser in Dallas contributed to this article . </s>

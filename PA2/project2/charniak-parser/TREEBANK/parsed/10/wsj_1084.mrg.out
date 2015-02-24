@@ -1,0 +1,10 @@
+(S1 (S (NP (JJ French) (NN consumer) (NNS prices)) (VP (VBD rose) (NP (CD 0.2) (NN %)) (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (NNP August))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (JJ provisional) (NNS estimates)) (PP (IN by) (NP (DT the) (NNP National) (NNPS Statistics) (NNP Institute))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN agency)) (VP (VBD noted) (SBAR (IN that) (S (PP (IN because) (IN of) (NP (NP (DT a) (NN strike)) (PP (IN by) (NP (NP (NNP Finance) (NNP Ministry)) (NNS personnel))))) (NP (DT the) (JJ provisional) (NN estimate)) (VP (VBZ does) (RB n't) (VP (VB correspond) (ADVP (RB exactly)) (PP (TO to) (NP (NP (DT the) (NN consumer) (NN price) (NN index)) (VP (ADVP (RB usually)) (VBN published))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN agency)) (VP (VBD noted) (, ,) (ADVP (RB however)) (, ,) (SBAR (S (NP (DT the) (NN estimate)) (VP (MD will) (ADVP (RB likely)) (VP (VB be) (VP (VBN confirmed))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN institute)) (VP (VBD did) (RB n't) (VP (VB estimate) (NP (NP (JJ annual) (NN price) (NN growth)) (PP (IN in) (NP (NNP September))))))) (, ,) (CC but) (S (NP (NP (DT a) (ADJP (CD 0.2) (NN %)) (NN rise)) (PP (IN by) (NP (DT the) (NN consumer) (NN price) (NN index)))) (VP (MD would) (VP (VB put) (NP (NN growth)) (PP (IN at) (NP (NP (RB either) (CD 178.8) (CC or) (CD 178.9)) (, ,) (ADVP (RB up) (NP (NP (CD 3.3) (NN %)) (CC or) (NP (CD 3.4) (NN %))) (PP (IN from) (NP (NP (DT the) (JJ year-earlier) (NN level)) (PP (IN of) (NP (CD 173.1))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN index)) (VP (VP (VBD was) (NP (CD 178.5)) (PP (IN in) (NP (NNP August)))) (CC and) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (NP (CD 1980)) (VP (VBG equaling) (NP (CD 100)))))))) (. .)))
+

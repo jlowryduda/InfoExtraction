@@ -1,0 +1,86 @@
+(S1 (S (NP (NNP Federal) (NNP Reserve) (NNS critics)) (VP (VBD used) (S (VP (TO to) (VP (VB complain) (PP (IN of) (`` `) (NP (NP (`` `) (NP (VB stop) (CC and) (VB go) (POS ')) (POS ')) (JJ monetary) (NNS policies))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD claimed) (SBAR (IN that) (S (NP (DT the) (NNP Fed)) (VP (MD would) (ADVP (RB first)) (VP (VP (VB give) (NP (DT a) (JJ green) (NN light)) (PP (TO to) (NP (DT the) (NN economy))) (PP (IN by) (S (VP (VBG making) (S (NP (NN credit)) (ADJP (RB readily) (JJ available))))))) (CC and) (RB then) (VP (VP (VB turn) (PP (IN on) (NP (DT the) (NN red)))) (CC and) (VP (VB bring) (NP (NN growth)) (PP (TO to) (NP (DT a) (VBG screeching) (NN halt)))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN under) (NP (NNP Alan) (NNP Greenspan))) (NP (DT that)) (VP (VBZ has) (VP (VBN changed))) (. .)))
+
+(S1 (S (NP (DT A) (ADJP (RB supremely) (JJ cautious)) (NN man)) (, ,) (NP (DT the) (NNP Fed) (NN chairman)) (VP (VBZ is) (ADVP (RB forever)) (VP (VBG blinking) (ADJP (JJ yellow)))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (PRP$ his) (NN caution)) (VP (VBZ has) (VP (VBN become) (ADJP (JJ legendary)) (PP (IN within) (NP (DT the) (NN government))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ fusses) (ADVP (RB endlessly)) (PP (IN over) (NP (JJ economic) (NNS statistics))) (, ,) (S (VP (VBG dissecting) (NP (PRP them)) (PP (IN in) (NP (NP (NNS dozens)) (PP (IN of) (NP (NNS ways))))) (, ,) (S (VP (VBG probing) (PP (IN for) (NP (NP (NNS hours)) (PP (IN in) (NP (NP (NN search)) (PP (IN of) (NP (JJ potential) (NNS problems)))))))))))) (. .)))
+
+(S1 (S (PP (IN After) (S (VP (ADVP (RB thoroughly)) (VBG digesting) (NP (NP (NNS reams)) (PP (IN of) (NP (NN information))))))) (, ,) (NP (PRP he)) (ADVP (RB often)) (VP (VBZ concludes) (SBAR (IN that) (S (S (NP (JJR more) (NNS data)) (VP (VBP are) (VP (VBN needed)))) (, ,) (CC and) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (ADVP (RB finally)) (VP (VBZ decides) (S (VP (TO to) (VP (VB act))))))) (, ,) (NP (PRP$ his) (NNS movements)) (ADVP (RB sometimes)) (VP (VBP seem) (ADJP (RB excrutiatingly) (JJ small))))))) (. .)))
+
+(S1 (S (NP (JJ Such) (NN caution)) (VP (VBD was) (ADJP (JJ evident)) (PP (IN after) (NP (DT the) (JJ recent) (JJ Friday-the-13th) (NN stock) (NN market) (NN plunge)))) (. .)))
+
+(S1 (S (NP (DT Some) (NNP Bush) (NN administration) (NNS officials)) (VP (VBD urged) (NP (NNP Mr.) (NNP Greenspan)) (S (VP (TO to) (VP (VB make) (NP (NP (DT an) (JJ immediate) (JJ public) (NN announcement)) (PP (IN of) (NP (PRP$ his) (NNS plans) (S (VP (TO to) (VP (VB provide) (NP (JJ ample) (NN credit)) (PP (TO to) (NP (DT the) (NNS markets))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD refused) (, ,) (S (VP (VBG claiming) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD wanted) (S (VP (TO to) (VP (VB see) (SBAR (WHNP (WP what)) (S (VP (VBD happened) (NP (NNP Monday) (NN morning))))) (PP (IN before) (S (VP (VBG making) (NP (DT any) (JJ public) (NN statement)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Greenspan) (POS 's)) (NN decision) (S (VP (TO to) (VP (VB keep) (S (VP (VB quiet))))))) (ADVP (RB also)) (VP (VBD prompted) (NP (NP (DT a) (NN near-mutiny)) (PP (IN within) (NP (NP (DT the) (NNP Fed) (POS 's)) (NNS ranks))))) (. .)))
+
+(S1 (S (NP (DT A) (`` `) (NP (`` `) (JJ senior) (NNP Fed) (NN official) ('' ')) ('' ')) (VP (VBD spoke) (PP (IN on) (NP (NNP Saturday))) (PP (IN after) (NP (NP (DT the) (NN market) (NN swoon)) (PP (TO to) (NP (DT both) (NP (DT the) (NNP Washington) (NNP Post)) (CC and) (NP (DT the) (NNP New) (NNP York) (NNP Times)))))) (, ,) (S (VP (VBG saying) (SBAR (S (NP (DT the) (NNP Fed)) (VP (VBD was) (VP (VBN prepared) (S (VP (TO to) (VP (VB provide) (NP (ADJP (RB as) (JJ much)) (NN credit))))) (SBAR (IN as) (S (NP (DT the) (NNS markets)) (VP (VBN needed))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN statement)) (VP (VBD angered) (NP (NNP Chairman) (NNP Greenspan)))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBD was) (VP (VBN greeted) (PP (IN with) (NP (NN applause))) (PP (IN by) (NP (NP (DT the) (NNP Bush) (NN administration)) (CC and) (NP (DT the) (JJ financial) (NNS markets))))))) (. .)))
+
+(S1 (S (CC And) (, ,) (SBAR (IN while) (S (NP (DT the) (JJ mutinous) (NNP Fed) (NN member)) (VP (VBZ has) (RB n't) (VP (VBN gone) (S (ADJP (JJ public))))))) (, ,) (NP (NP (DT some) (NNP Fed) (NNS governors)) (, ,) (ADVP (RBS most) (RB notably)) (NP (NNP Vice) (NNP Chairman) (NNP Manuel) (NNP Johnson)) (, ,)) (VP (VBP are) (VP (VBN known) (S (VP (TO to) (VP (VB have) (VP (VBD disagreed) (PP (IN with) (NP (NP (DT the) (NN chairman) (POS 's)) (NN decision) (S (VP (TO to) (VP (VB remain) (ADJP (JJ silent))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Ironically)) (, ,) (NP (NP (DT the) (JJ anonymous) (NN official) (POS 's)) (NNS comments)) (VP (VBP have) (VP (VBN earned) (NP (NP (DT some) (NNS plaudits)) (PP (IN for) (NP (NP (NNP Mr.) (NNP Greenspan)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADVP (RB mistakenly)) (VP (VBN seen) (PP (IN as) (NP (DT the) (NN source)))))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT a) (NN hearing))) (NP (JJ last) (NN week)) (, ,) (NP (NP (NNP Democratic) (NNP Sen.) (NNP Chris) (NNP Dodd)) (PP (IN of) (NP (NNP Connecticut)))) (VP (VBD told) (NP (NNP Treasury) (NNP Secretary) (NNP Nicholas) (NNP Brady)) (SBAR (IN that) (S (NP (NP (`` `) (NP (`` `) (NP (NNP Chairman) (NNP Greenspan) (POS 's)) (POS ')) ('' ') (NN announcement)) (PP (IN over) (NP (DT the) (NNP Oct.) (CD 13) (NN weekend)))) (VP (VBD was) (NP (DT a) (`` `) (ADJP (`` `) (RB very) (JJ important)) (NN statement)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Brady)) (VP (ADVP (RB hesitantly)) (VBD replied) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD was) (RB n't) (ADJP (JJ sure) (SBAR (SBAR (IN whether) (S (NP (NNP Mr.) (NNP Greenspan)) (`` `) (VP (`` `) (VBD made) (NP (NP (DT a) (NN statement)) (NP (PRP himself)))))) (, ,) (CC or) (SBAR (IN whether) (S (NP (DT that)) (VP (VBD was) (NP (DT a) (NN newspaper) (NN report))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT The) (NNP Fed) (NN chairman) (POS 's)) (NN caution)) (VP (VBD was) (ADJP (JJ apparent)) (PP (ADVP (RB again)) (IN on) (NP (DT the) (NNP Monday) (NN morning))) (PP (IN after) (NP (NP (NP (DT the) (NN market) (POS 's)) (NN plunge)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ central) (NN bank)) (VP (VBD took) (NP (NP (RB only) (JJ modest) (NNS steps)) (SBAR (S (VP (TO to) (VP (VB aid) (NP (DT the) (NNS markets))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (ADJP (RB surprisingly) (JJ small)) (NN amount)) (PP (IN of) (NP (NNS reserves)))) (VP (VBD was) (VP (VBN added) (PP (TO to) (NP (DT the) (NN banking) (NN system))))) (. .)))
+
+(S1 (S (CC And) (, ,) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT that) (NN week))))) (, ,) (NP (NP (DT the) (JJ key) (JJ federal) (NNS funds) (NN interest) (NN rate)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB largely)) (VP (VBN controlled) (PP (IN by) (NP (DT the) (NNP Fed))))))) (, ,)) (VP (VBD had) (VP (VBN settled) (PP (IN at) (NP (CD 8.75) (NN %))) (, ,) (S (ADJP (RB barely) (VBN changed) (PP (IN from) (NP (NP (DT the) (NN level)) (PP (IN of) (NP (NP (QP (RB just) (IN under) (CD 9)) (NN %)) (SBAR (WHNP (WDT that)) (S (VP (VBD prevailed) (NP (DT the) (JJ previous) (NN week))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Bush) (NN administration) (NNS officials)) (VP (VBP appear) (ADJP (RB increasingly) (JJ concerned) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Greenspan)) (VP (VBZ is) (ADJP (JJ cautious) (PP (TO to) (NP (DT a) (NN fault))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Signs)) (PP (IN of) (NP (NP (VBG growing) (NN weakness)) (PP (IN in) (NP (DT the) (NN economy))))) (, ,) (VP (VBN paired) (PP (IN with) (NP (NNS indications) (SBAR (IN that) (S (NP (NN inflation)) (VP (VBZ is) (VP (VBG staying) (PP (ADVP (RB well)) (IN under) (NP (NN control)))))))))) (, ,)) (VP (VBP have) (VP (VBN caused) (NP (PRP them)) (S (VP (TO to) (VP (VB wonder) (SBAR (WHADVP (WRB why)) (S (NP (DT the) (NNP Fed) (NN chairman)) (VP (VBZ is) (ADJP (RB so) (JJ grudging) (PP (IN in) (S (VP (VBG reducing) (NP (NNS rates)))))))))))))) (. .)))
+
+(S1 (S (NP (DT Those) (NNS concerns)) (VP (VBP are) (RB n't) (VP (VBN expressed) (PP (IN in) (NP (NN public))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN fact))) (, ,) (NP (NP (DT the) (NN administration)) (CC and) (NP (DT the) (NNP Fed))) (VP (VBP have) (VP (VBN been) (VP (VBG going) (PP (IN out) (PP (IN of) (NP (NP (PRP$ their) (NN way)) (PP (IN in) (NP (DT the) (JJ past) (CD two) (NNS weeks)))))) (S (VP (TO to) (VP (VB dispel) (NP (DT any) (NN impression) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (PP (IN at) (NP (NNS odds))) (, ,) (S (VP (VBG fearing) (NP (NP (NNS stories)) (PP (IN about) (NP (NP (DT an) (JJ administration-Fed) (NN split)) (VP (VBN added) (PP (TO to) (NP (NP (DT the) (NN stock) (NN market) (POS 's)) (NNS jitters))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (DT the) (NN split)) (VP (VBZ is) (ADVP (RB there))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN administration) (POS 's)) (NNS concerns)) (VP (VBP are) (ADJP (JJ understandable))) (. .)))
+
+(S1 (S (NP (DT The) (NN economy)) (VP (VBZ is) (VP (VBG showing) (NP (NP (NNS signs)) (PP (IN of) (NP (NP (NN weakness)) (PRN (, ,) (PP (ADVP (RB particularly)) (IN among) (NP (NNS manufacturers))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Exports)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD played) (NP (DT a) (JJ key) (NN role)) (PP (IN in) (S (VP (VBG fueling) (NP (NN growth)) (PP (IN over) (NP (DT the) (JJ last) (CD two) (NNS years))))))))) (, ,)) (VP (VBP seem) (S (VP (TO to) (VP (VB have) (VP (VBN stalled)))))) (. .)))
+
+(S1 (S (S (NP (NP (NN Factory) (NNS payrolls)) (CC and) (NP (NN production))) (VP (VBD fell) (PP (IN in) (NP (NNP September))))) (, ,) (CC and) (S (NP (NP (DT the) (NN auto) (NN industry)) (CC and) (NP (NN housing))) (VP (VBP are) (PP (IN in) (NP (DT a) (JJ severe) (NN crunch))))) (. .)))
+
+(S1 (S (CC But) (NP (NNP Mr.) (NNP Greenspan)) (VP (VBZ remains) (ADJP (JJ reluctant) (S (VP (TO to) (VP (VB loosen) (NP (NN policy)))))) (, ,) (SBAR (ADVP (RB partly)) (IN because) (S (NP (PRP he)) (VP (VBZ faces) (NP (NP (DT a) (NN phalanx)) (PP (IN of) (NP (NP (NNS presidents)) (PP (IN of) (NP (NP (JJ regional) (NNP Fed) (NNS banks)) (SBAR (WHNP (WP who)) (S (VP (VBP oppose) (NP (NN credit) (NN easing)))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (DT the) (NN chairman)) (VP (VBZ has) (NP (NP (DT a) (JJ wary) (NN eye)) (VP (VBN aimed) (NP (DT a) (NN year) (QP (CC or) (CD two))))) (PP (IN down) (NP (DT the) (NN road)))) (. .)))
+
+(S1 (S (NP (NN Inflation)) (VP (MD may) (VP (VB be) (ADJP (JJ stable)) (PP (IN at) (NP (DT the) (NN moment))) (, ,) (S (VP (VBG running) (PP (IN at) (NP (QP (RB about) (CD 4.5)) (NN %))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN if) (S (NP (DT the) (NNP Fed)) (VP (VBZ eases) (ADVP (RB too) (RB soon))))) (PRN (, ,) (S (NP (NNP Mr.) (NNP Greenspan)) (VP (VBZ fears))) (, ,)) (NP (NNS prices)) (VP (MD may) (VP (VB begin) (S (VP (TO to) (VP (VB accelerate) (ADVP (RB again))))) (NP (JJ next) (NN year)))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (SBAR (IN if) (S (NP (DT the) (NNP Fed)) (VP (VBZ holds) (ADJP (JJ tight))))) (, ,) (NP (PRP it)) (VP (MD may) (VP (VB be) (ADJP (JJ able) (S (ADVP (RB gradually)) (VP (TO to) (VP (VB reduce) (NP (NN inflation)))))) (, ,) (S (VP (VBG moving) (PP (IN toward) (NP (NP (DT the) (JJ zero-inflation) (NN goal)) (SBAR (WHNP (WDT that)) (S (NP (DT the) (NNP Fed) (NN chairman)) (VP (VBD embraced) (PP (IN in) (NP (NP (NN testimony)) (PP (TO to) (NP (NNP Congress))))) (NP (JJ last) (NN week))))))))))) (. .)))
+
+(S1 (S (ADVP (RB So) (RB far)) (, ,) (NP (NP (NP (NNP Mr.) (NNP Greenspan) (POS 's)) (JJ cautious) (NN approach)) (PP (TO to) (NP (NN policy)))) (VP (VBZ has) (VP (VBN served) (NP (DT both) (NP (PRP him)) (CC and) (NP (DT the) (NN nation))) (ADVP (RB well)))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (NN hand)) (PP (IN on) (NP (DT the) (JJ monetary) (NN tiller)))) (VP (VBZ seems) (NP (NP (CD one) (NN reason)) (SBAR (WHADVP (WRB why)) (S (NP (NP (DT the) (NN economy)) (NP (JJ next) (NN month))) (VP (VBZ seems) (ADJP (RB highly) (JJ likely) (S (VP (TO to) (VP (VB begin) (NP (NP (DT an) (JJ unprecedented) (JJ eighth) (NN year)) (PP (IN of) (NP (NN peacetime) (NN growth)))) (PP (IN without) (NP (DT a) (NN recession)))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP We)) (VP (VBP 've) (VP (VBN gotten) (PP (IN through) (NP (CD two) (NN stock) (NN market) (NNS crashes)))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP 've) (VP (VBN gone) (PP (IN through) (NP (DT an) (NN election))) (PP (IN without) (NP (DT any) (JJ major) (NNS problems)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP David) (NNP Hale)) (, ,) (NP (NP (DT an) (NN economist)) (PP (IN of) (NP (NNP Kemper) (NNP Financial) (NNPS Services))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB give) (NP (NNP Greenspan)) (NP (DT a) (JJ good) (NN rating))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (CC But) (NP (JJ such) (NN caution)) (VP (VBZ is) (NP (NP (DT no) (NN guarantee)) (PP (IN against) (NP (NNS mistakes))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Fed) (POS 's)) (NN reluctance) (S (VP (TO to) (VP (VB ease) (NP (NN credit)))))) (ADVP (RB now)) (VP (MD could) (VP (VB be) (VP (VBG laying) (NP (NP (DT the) (NN groundwork)) (PP (IN for) (NP (DT a) (JJ new) (NN recession)))) (, ,) (S (ADVP (RB perhaps)) (VP (VBG starting) (NP (RB early) (JJ next) (NN year))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT that)) (VP (VBZ happens)))) (, ,) (NP (NNP Chairman) (NNP Greenspan)) (VP (MD could) (ADVP (RB well)) (VP (VB become) (NP (DT an) (JJ open) (NN target)))) (. .)))
+
+(S1 (S (ADVP (RB Already)) (, ,) (NP (NNP Congress)) (VP (VBZ is) (VP (VBG toying) (PP (IN with) (NP (NP (NN legislation)) (SBAR (S (VP (TO to) (VP (VB curb) (NP (NP (DT the) (NNP Fed) (POS 's)) (NN independence)))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (DT the) (NN economy)) (VP (VBZ turns) (PRT (RP down))))) (, ,) (NP (JJ such) (NNS proposals)) (VP (MD could) (VP (VB gain) (NP (JJ strong) (NN momentum)))) (. .)))
+

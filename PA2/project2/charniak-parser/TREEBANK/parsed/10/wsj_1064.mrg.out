@@ -1,0 +1,26 @@
+(S1 (S (NP (NNP American) (NNP Telephone) (CC &) (NNP Telegraph) (NNP Co.)) (VP (VBD unveiled) (NP (NP (JJ new) (JJ optical) (NN transmission) (NNS systems)) (PP (IN for) (NP (NNS data) (, ,) (NN video) (CC and) (NN voice) (NNS communications))))) (. .)))
+
+(S1 (S (S (NP (NP (CD Two) (NNS products)) (PP (IN in) (SBAR (WHNP (WP what)) (S (NP (DT the) (NNS telecommunications) (NN giant)) (VP (VBD called) (NP (NP (DT a) (JJ new) (NN generation)) (PP (IN of) (NP (JJ such) (NN equipment))))))))) (VP (VBP are) (ADJP (JJ available)) (ADVP (RB now)))) (PRN (, ,) (S (NP (NNP AT&T)) (VP (VBD said))) (, ,)) (CC and) (S (NP (CD three) (NNS others)) (VP (MD will) (VP (VB be) (VP (VBN introduced) (PP (IN in) (NP (CD 1990) (CC and) (CD 1991))))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NNS products)) (VP (VBP are) (VP (VBN aimed) (PP (IN at) (NP (NP (DT a) (NN market)) (VP (VBN expected) (S (VP (TO to) (VP (VB total) (NP (NP (QP (JJR more) (IN than) ($ $) (CD 1) (CD billion))) (NP (DT a) (NN year)) (PP (IN in) (NP (NNS sales)))) (PP (IN by) (NP (CD 1995)))))))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Morgan) (NNP Buchner) (NNP Jr.)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NN transmission) (NNS systems)) (PP (IN for) (NP (NNP AT&T))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS products)) (ADJP (RB already) (JJ available))) (VP (VBP are) (NP (NP (JJ cross-connect) (NNS systems)) (, ,) (VP (VBN used) (PP (RB instead) (IN of) (NP (NP (NNS mazes)) (PP (IN of) (NP (NN wiring))))) (S (VP (TO to) (VP (VB interconnect) (NP (JJ other) (NN telecommunications) (NN equipment)))))))) (. .)))
+
+(S1 (S (S (NP (DT This)) (VP (VBZ cuts) (ADVP (RB down) (RB greatly)) (PP (IN on) (NP (NN labor))))) (, ,) (NP (NNP Mr.) (NNP Buchner)) (VP (VBD said)) (. .)))
+
+(S1 (SINV (S (VP (TO To) (VP (VB be) (VP (VBN introduced) (ADVP (RB later)))))) (VP (VBP are)) (NP (NP (DT a) (NN multiplexer)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB allow) (NP (JJ several) (NNS signals)) (S (VP (TO to) (VP (VB travel) (PP (IN along) (NP (NP (DT a) (JJ single) (JJ optical) (NN line)) (: ;) (NP (NP (DT a) (JJ light-wave) (NN system)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ carries) (NP (NN voice) (NNS channels)))))) (: ;) (CC and) (NP (NP (DT a) (NN network) (NN controller)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ directs) (NP (NN data) (NN flow)) (PP (IN through) (NP (JJ cross-connect) (NNS systems))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP AT&T)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS products)) (, ,) (PP (IN unlike) (NP (JJ previous) (NNS generations))) (, ,) (VP (MD will) (VP (VB meet) (NP (NP (JJ so-called) (NNP Sonet) (NN compatability) (NNS standards)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP AT&T)) (VP (VBZ expects) (S (VP (TO to) (VP (VB be) (ADJP (RB broadly) (VBN adopted)))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Sonet) (PRN (, ,) (CC or) (NX (JJ synchronous) (JJ optical) (NN network)) (, ,)) (NNS products)) (VP (VBP have) (NP (NP (JJR more) (NN capacity)) (PP (IN than) (NP (JJR earlier) (NNS models))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT These) (NNS products)) (VP (VBP are) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (PRP$ our) (JJ transmission-product) (NN line))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Buchner)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD declined) (S (VP (TO to) (VP (VB disclose) (NP (JJ specific) (NNS prices)))))) (, ,) (CC but) (VP (VBD said) (SBAR (S (NP (DT each) (NN product)) (VP (VBZ costs) (PP (IN in) (NP (NP (DT the) (NNS tens)) (PP (IN of) (NP (NP (NNS thousands)) (, ,) (CC or) (RB even) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS thousands)) (, ,) (PP (IN of) (NP (NNS dollars))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP AT&T)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB beat) (PP (TO to) (NP (DT the) (NN marketplace))) (NP (NP (CD two) (NNS rivals)) (, ,) (NP (NP (NNP Northern) (NNP Telecom) (NNP Ltd.)) (PP (IN of) (NP (NP (NP (NNP Canada) (CC and) (NNP France) (POS 's)) (NNP Alcatel) (NNP N.V.)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBP have) (VP (VBN announced) (NP (JJ Sonet-based) (NNS products))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP AT&T)) (VP (VBD predicted) (NP (NP (JJ strong) (NN growth)) (PP (IN in) (NP (NP (NN demand)) (PP (IN for) (NP (JJ such) (NNS products))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD noted) (SBAR (IN that) (S (NP (NP (JJ last) (NNP July)) (, ,) (NP (NNP Nippon) (NNP Telegraph)) (CC &) (NP (NP (NNP Telephone) (NNP Corp.)) (PP (IN of) (NP (NNP Japan))))) (VP (VBD selected) (S (NP (NNP AT&T)) (VP (TO to) (VP (VB supply) (NP (NP (QP ($ $) (CD 154) (CD million))) (PP (IN of) (NP (JJ such) (NN equipment)))) (PP (IN over) (NP (DT a) (JJ four-year) (NN period))) (S (VP (VBG starting) (NP (JJ next) (NN year))))))))))) (. .)))
+

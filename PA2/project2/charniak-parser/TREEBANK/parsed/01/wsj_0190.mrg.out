@@ -1,0 +1,10 @@
+(S1 (S (NP (NP (NNS Companies)) (VP (VBN listed) (ADVP (IN below)))) (VP (VBN reported) (NP (NP (JJ quarterly) (NN profit)) (ADJP (RB substantially) (JJ different) (PP (IN from) (NP (NP (DT the) (NN average)) (PP (IN of) (NP (NP (NNS analysts) (POS ')) (NNS estimates)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS companies)) (VP (VP (VBP are) (VP (VBN followed) (PP (IN by) (NP (QP (IN at) (JJS least) (CD three)) (NNS analysts))))) (, ,) (CC and) (VP (VBD had) (NP (NP (DT a) (JJ minimum) (JJ five-cent) (NN change)) (PP (IN in) (NP (NP (JJ actual) (NNS earnings)) (PP (IN per) (NP (NN share)))))))) (. .)))
+
+(S1 (S (NP (NP (ADJP (JJ Estimated) (CC and) (JJ actual)) (NNS results)) (VP (VBG involving) (NP (NNS losses)))) (VP (VBP are) (VP (VBN omitted))) (. .)))
+
+(S1 (S (NP (DT The) (NN percent) (NN difference)) (VP (VBZ compares) (NP (JJ actual) (NN profit)) (PP (IN with) (NP (NP (DT the) (JJ 30-day) (NN estimate)) (SBAR (WHADVP (WRB where)) (S (NP (QP (IN at) (JJS least) (CD three)) (NNS analysts)) (VP (VB have) (VP (NNS issues) (NP (NNS forecasts)) (PP (IN in) (NP (DT the) (JJ past) (CD 30) (NNS days)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Otherwise)) (, ,) (NP (JJ actual) (NN profit)) (VP (VBZ is) (VP (VBN compared) (PP (IN with) (NP (DT the) (JJ 300-day) (NN estimate))))) (. .)))
+

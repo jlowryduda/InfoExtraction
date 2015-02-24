@@ -1,0 +1,20 @@
+(S1 (S (NP (NNP Cray) (NNP Research) (NNP Inc.)) (VP (VBD won) (NP (NN government) (NN clearance)) (PP (IN for) (NP (NP (PRP$ its) (JJ proposed) (NN reorganization)) (PP (IN of) (NP (NP (NN founder) (NNP Seymour) (NNP Cray) (POS 's)) (NN supercomputer) (NN design) (NN team))) (PP (IN into) (NP (DT a) (JJ separate) (NN company)))))) (. .)))
+
+(S1 (S (NP (NNP Internal) (NNP Revenue) (NNP Service)) (NP (NP (NN approval)) (PP (IN of) (NP (NP (DT the) (NN move)) (PP (IN as) (NP (DT a) (JJ tax-free) (NN transaction)))))) (VP (VBD was) (NP (DT the) (JJ last) (NN hurdle) (S (VP (TO to) (VP (JJ splitting) (PRT (RP up)) (NP (NP (NP (DT the) (NN world) (POS 's)) (JJ dominant) (NN maker)) (PP (IN of) (NP (NP (NNS supercomputers)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP Mr.) (NNP Cray)) (VP (VBD founded) (PP (IN in) (NP (CD 1974)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Cray) (POS 's)) (NNS directors)) (VP (VBN set) (NP (NNP Nov.) (CD 15)) (PP (IN as) (NP (NP (DT the) (NN record) (NN date)) (PP (IN for) (NP (NP (NN distribution)) (PP (IN of) (NP (NP (NNS shares)) (PP (IN in) (NP (DT the) (JJ new) (NN company))))))))) (, ,) (S (VP (TO to) (VP (VB be) (VP (VBN called) (S (NP (NNP Cray) (NNP Computer)) (NP (NNP Corp)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD will) (VP (VB trade) (PP (IN over) (NP (DT the) (NN counter))) (PP (IN under) (NP (NP (DT the) (NN symbol)) (NP (NNP CRAY)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN plan)) (VP (VBZ calls) (PP (IN for) (NP (NNP Cray) (NNP Research))) (S (NP (NNS holders)) (VP (TO to) (VP (VB receive) (NP (NP (CD one) (NN share)) (PP (IN in) (NP (DT the) (JJ new) (NN company)))) (PP (IN for) (NP (NP (DT every) (CD two) (NNS shares)) (VP (VBN held)))))))) (. .)))
+
+(S1 (S (S (NP (DT An) (VBN estimated) (QP (CD 14.7) (CD million)) (NNP Cray) (NNP Computer) (NNS shares)) (VP (MD will) (VP (VB be) (VP (VBN distributed))))) (, ,) (NP (NNP Cray) (NNP Research)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT the) (NN accord))) (, ,) (NP (NNP Cray) (NNP Research)) (VP (MD will) (VP (VB transfer) (PP (TO to) (NP (NP (NP (NNP Mr.) (NNP Cray) (POS 's)) (NN fledgling) (NN operation)) (NP (NP (QP ($ $) (CD 53.3) (CD million))) (PP (IN of) (NP (NP (NNS assets)) (VP (ADVP (RB primarily)) (VBN related) (PP (TO to) (NP (NP (DT the) (NNP Cray-3) (NN development) (NN project)) (SBAR (S (NP (PRP$ his) (NN team)) (VP (VP (VBZ is) (NP (NN undertaking))) (CC and) (VP (MD will) (VP (VB lend) (NP (NNP Cray) (NNP Computer)) (NP (QP ($ $) (CD 98.6) (CD million)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Cray) (NNP Research)) (VP (MD will) (VP (VB retain) (NP (NP (DT a) (ADJP (CD 10) (NN %)) (NN interest)) (PP (IN in) (NP (NP (DT the) (JJ new) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB be) (VP (VBN based) (PP (IN in) (NP (NP (NNP Colorado) (NNPS Springs)) (, ,) (NP (NNP Colo)))))))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP it)) (VP (VBD announced) (NP (DT the) (JJ planned) (NN breakup)) (PP (IN in) (NP (NNP May)))))) (, ,) (NP (NNP Cray) (NNP Research)) (VP (VBD said) (SBAR (S (NP (NP (NN development) (NNS costs)) (PP (IN of) (NP (JJ several) (VBG competing) (NNS projects)))) (VP (VBD were) (VP (VBG squeezing) (NP (PRP$ its) (NNS earnings) (NN growth))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (DT the) (NN split))) (, ,) (NP (DT the) (CD two) (NNS companies)) (ADVP (RB presumably)) (VP (MD will) (VP (VB be) (NP (NP (NNS rivals)) (PP (IN for) (NP (NP (NNS orders)) (PP (IN from) (NP (UCP (NN government) (CC and) (JJ commercial)) (NNS customers)))))))) (. .)))
+

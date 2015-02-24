@@ -1,0 +1,74 @@
+(S1 (S (NP (JJ Many) (JJ skittish) (JJ mutual) (NN fund) (NNS investors)) (VP (VP (VBD picked) (PRT (RP up)) (NP (DT the) (NN phone)) (NP (NN yesterday))) (, ,) (CC but) (VP (VBD decided) (S (RB not) (VP (TO to) (VP (VB cash) (PRT (RP in)) (NP (PRP$ their) (NNS chips)) (PP (IN after) (NP (DT all)))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (DT the) (NN stock) (NN market)) (VP (VBD bounced) (PRT (RP back))))) (, ,) (NP (NP (NNS withdrawals)) (PP (IN of) (NP (NP (NN money)) (PP (IN from) (NP (NN stock) (NNS funds)))))) (VP (VBD amounted) (PP (TO to) (NP (DT a) (JJ mere))) (VP (VB trickle) (PP (VBN compared) (PP (IN with) (NP (NP (NNP Black) (NNP Monday)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNS investors)) (VP (VBD dumped) (NP (NP (QP ($ $) (CD 2.3) (CD billion))) (, ,) (CC or) (NP (NP (QP (RB about) (CD 2)) (NN %)) (PP (IN of) (NP (NN stock-fund) (NNS assets))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Fidelity) (NNP Investments)) (, ,) (NP (NP (DT the) (NN nation) (POS 's)) (JJS largest) (NN fund) (NN company)) (, ,)) (VP (VBD said) (SBAR (S (NP (NN phone) (NN volume)) (VP (VP (VBD was) (ADJP (ADJP (JJR more)) (PP (IN than) (NP (RB double) (PRP$ its) (JJ typical) (NN level))))) (, ,) (CC but) (ADVP (RB still)) (VP (NN half) (NP (NP (DT that)) (PP (IN of) (NP (NNP Oct.) (CD 19) (, ,) (CD 1987))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Net) (NNS outflows)) (PP (IN from) (NP (NP (NNP Fidelity) (POS 's)) (NN stock) (NNS funds)))) (VP (VBD stood) (PP (IN at) (NP (NP (QP (JJR less) (IN than) ($ $) (CD 300) (CD million))) (, ,) (CC or) (NP (NP (QP (IN below) (CD 15)) (NN %)) (PP (IN of) (NP (NP (DT the) (ADJP (QP ($ $) (CD 2) (CD billion))) (NN cash) (NN position)) (PP (IN of) (NP (NP (DT the) (NN firm) (POS 's)) (NN stock) (NNS portfolios))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Much)) (PP (IN of) (NP (DT the) (NN money)))) (VP (VBD was) (VP (VBN switched) (PP (IN into) (NP (NP (DT the) (NN firm) (POS 's)) (NN money) (NN market) (NNS funds))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Outflows)) (PP (IN since) (NP (NP (DT the) (NN close)) (PP (IN of) (NP (NN trading))) (NP (NNP Friday))))) (VP (VBP remain) (PP (IN below) (NP (NP (RB one-third) (PRP$ their) (NN level)) (PP (IN of) (ADVP (NP (CD two) (NNS years)) (RB ago))))))) (, ,) (NP (NNP Fidelity)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (JJ Other) (JJ mutual) (NN fund) (NNS companies)) (VP (VBD reported) (NP (ADJP (RB even) (JJR lighter)) (NN withdrawal) (NNS requests))) (. .)))
+
+(S1 (S (CC And) (NP (NP (DT some) (NNS investors)) (UCP (PP (IN at) (NP (NNP Fidelity))) (CC and) (ADVP (RB elsewhere)))) (ADVP (RB even)) (VP (VBD began) (S (VP (VBG buying) (NP (NN stock) (NNS funds)) (PP (IN during) (NP (DT the) (NN day)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (ADVP (NP (CD Two) (NNS years)) (RB ago)) (, ,) (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NN redemption) (NN activity)) (CC and) (NP (NP (NN trouble)) (PP (IN with) (NP (NP (NNS people)) (VP (VBG getting) (PP (IN through) (PP (IN on) (NP (DT the) (NN phone))))))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Kathryn) (NNP McGrath)) (, ,) (NP (NP (NN head)) (PP (IN of) (NP (DT the) (NN investment) (NN management) (NN division))) (PP (IN of) (NP (DT the) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission))))) (. .)))
+
+(S1 (NP (NP (DT This) (NN time)) (, ,) (`` `) (S (`` `) (NP (PRP We)) (VP (VBP do) (RB n't) (VP (VB have) (NP (DT that)) (ADVP (IN at) (DT all)))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN Of) (NP (NN course))) (, ,) (NP (DT the) (JJ relative) (NN calm)) (VP (MD could) (VP (VB be) (VP (VBN jolted) (SBAR (IN if) (S (NP (DT the) (NN market)) (VP (VBZ plunges) (ADVP (RB again)))))))) (. .)))
+
+(S1 (S (CC And) (NP (NP (DT any) (JJ strong) (NN surge)) (PP (IN in) (NP (NNS redemptions)))) (VP (MD could) (VP (VB force) (S (NP (DT some) (NNS funds)) (VP (TO to) (VP (VB dump) (NP (NNS stocks)) (S (VP (TO to) (VP (VB raise) (NP (NN cash)) (, ,) (SBAR (IN as) (S (NP (DT some)) (VP (VBD did) (PP (IN during) (NP (NNP Black) (NNP Monday)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NNS funds)) (ADVP (RB generally)) (VP (VBP are) (ADVP (RB better)) (VP (VBN prepared) (NP (DT this) (NN time) (RP around)))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN group))) (, ,) (NP (NP (NP (PRP$ their) (NN cash) (NN position)) (PP (IN of) (NP (NP (CD 10.2) (NN %)) (PP (IN of) (NP (NP (NNS assets)) (PP (IN in) (NP (NNP August)))))))) (: --) (NP (NP (DT the) (JJS latest) (NN figure)) (ADJP (JJ available))) (: --)) (VP (VBZ is) (ADJP (ADJP (NP (CD 14) (NN %)) (JJR higher)) (PP (IN than) (ADVP (NP (CD two) (NNS years)) (RBR earlier))))) (. .)))
+
+(S1 (S (NP (JJ Many) (NN fund) (NNS managers)) (VP (VBP have) (VP (VBN boosted) (NP (PRP$ their) (NN cash) (NNS levels)) (PP (IN in) (NP (JJ recent) (NNS weeks))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJS biggest) (NN flurry)) (PP (IN of) (NP (NN investor) (NN activity)))) (VP (VBD came) (ADVP (RB early) (PP (IN in) (NP (DT the) (NN day))))) (. .)))
+
+(S1 (S (NP (NNP Vanguard) (NNP Group) (NNP Inc.)) (VP (VBD saw) (NP (NP (JJ heavy) (NNS exchanges)) (PP (IN from) (NP (NN stock) (NNS funds)))) (PP (IN into) (NP (NN money) (NN market) (NNS funds))) (SBAR (IN after) (S (NP (DT the) (NN telephone) (NNS lines)) (VP (VBD opened) (PP (IN at) (NP (CD 8:30) (RB a.m))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN In) (NP (DT the) (JJ first) (NN hour))) (, ,) (NP (DT the) (JJ real) (JJ nervous) (NNS folks)) (VP (VBD came) (ADVP (RB along))) (, ,) ('' ')) ('' ') (NP (DT a) (NN spokesman)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (CC But) (NP (NP (DT the) (JJ horrendous) (NN pace)) (PP (IN of) (NP (NP (NN call) (NN volume)) (PP (IN in) (NP (DT the) (JJ first) (NN half-hour)))))) (VP (VBD slowed) (ADVP (RB considerably))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN At) (NP (NNP Scudder) (, ,) (NNP Stevens) (CC &) (NNP Clark))) (NP (NNP Inc.)) (, ,) (NP (NN phone) (NNS calls)) (VP (VBD came) (PRT (RP in)) (PP (IN at) (ADJP (ADJP (NP (CD 40) (NN %)) (JJR more)) (PP (IN than) (NP (DT the) (JJ normal) (NN pace))))) (PP (IN through) (NP (JJ early) (NN afternoon)))) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT that) (NN increase)))) (VP (VBD came) (PP (IN in) (NP (DT the) (JJ first) (NN hour))) (SBAR (IN after) (S (NP (DT the) (NN phone) (NNS lines)) (VP (VBD opened) (PP (IN at) (NP (CD 8) (RB a.m))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NNS stocks)) (VP (VBP rose)))) (, ,) (PP (IN in) (NP (NN fact))) (, ,) (NP (DT some) (NNS investors)) (VP (VP (VBD changed) (NP (NN course))) (CC and) (VP (VBD reversed) (NP (PRP$ their) (NN sell) (NNS orders)))) (. .)))
+
+(S1 (S (NP (JJ Many) (NNS funds)) (VP (VBP allow) (S (NP (NNS investors)) (VP (TO to) (VP (VB void) (NP (NNS orders)) (PP (IN before) (NP (NP (DT the) (NN close)) (PP (IN of) (NP (NN trading))))))))) (. .)))
+
+(S1 (S (PP (PP (IN At) (NP (NNP Scudder))) (CC and) (PP (IN at) (NP (NP (DT the) (JJR smaller) (NNP Ivy) (NNS funds) (NN group)) (PP (IN in) (NP (NP (NNP Hingham)) (, ,) (NP (NNP Mass.))))))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (NP (DT some) (NNS shareholders)) (VP (VP (VBD called) (S (ADVP (RB early) (PP (IN in) (NP (DT the) (NN morning)))) (VP (TO to) (VP (VB switch) (NP (NP (NN money)) (PP (IN from) (NP (NN stock) (NNS funds)))) (PP (TO to) (NP (NN money) (NN market) (NNS funds))))))) (, ,) (CC but) (ADVP (RB later)) (VP (VBD called) (PRT (RP back)) (S (VP (TO to) (VP (VB reverse) (NP (DT the) (NNS switches))))))) (. .)))
+
+(S1 (S (SBAR (IN Because) (S (NP (JJ mutual) (NN fund) (NNS trades)) (VP (VBP do) (RB n't) (VP (VB take) (NP (NN effect)) (PP (IN until) (NP (DT the) (NN market) (NN close))))))) (PRN (: --) (PP (PP (IN in) (NP (DT this) (NN case))) (, ,) (PP (IN at) (NP (CD 4) (NN p.m.)))) (: --)) (NP (DT these) (NNS shareholders)) (ADVP (RB effectively)) (VP (VBD stayed) (VP (VBN put))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NP (NP (NNP Fidelity) (POS 's)) (NN office)) (PP (IN in) (NP (JJ downtown) (NNP Boston))))) (, ,) (NP (NNP Gerald) (NNP Sherman)) (VP (VP (VBD walked) (PRT (RP in)) (PP (ADVP (RB shortly)) (IN after) (NP (CD 7:30) (NN a.m.)))) (CC and) (VP (VBD placed) (NP (DT an) (NN order)) (S (VP (TO to) (VP (VB switch) (NP (PRP$ his) (NN retirement) (NNS accounts)) (PP (PP (IN out) (PP (IN of) (NP (CD three) (NN stock) (NNS funds)))) (CC and) (PP (IN into) (NP (DT a) (NN money) (NN market) (NN fund))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN by) (NP (CD 3:15) (NN p.m.))) (, ,) (SBAR (IN with) (S (NP (DT the) (NN market)) (ADVP (RB comfortably) (RB ahead)) (PP (IN for) (NP (DT the) (NN day))))) (, ,) (NP (NNP Mr.) (NNP Sherman)) (VP (VBD was) (VP (VBG preparing) (S (VP (TO to) (VP (VB undo) (NP (PRP$ his) (NN switch))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (JJ nice) (NN feeling) (S (VP (TO to) (VP (VB know) (SBAR (IN that) (S (NP (NNS things)) (VP (VBD stabilized))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Mr.) (NNP Sherman)) (, ,) (NP (NP (DT the) (JJ 51-year-old) (NN co-owner)) (PP (IN of) (NP (DT a) (NN discount) (NN department) (NN store))))) (. .)))
+
+(S1 (S (CC But) (NP (DT some) (NNS investors)) (VP (VBD continued) (S (VP (TO to) (VP (VB switch) (PP (IN out) (PP (IN of) (NP (JJ high-risk) (, ,) (JJ high-yield) (NN junk) (NNS funds))))))) (PP (IN despite) (NP (NP (NP (NN yesterday) (POS 's)) (NN rebound)) (PP (IN from) (NP (NP (DT that) (NN market) (POS 's)) (JJ recent) (NN price) (NNS declines)))))) (. .)))
+
+(S1 (S (NP (NNS Shareholders)) (VP (VBP have) (VP (VBN been) (VP (ADVP (RB steadily)) (VBG bailing) (PP (IN out) (PP (IN of) (NP (JJ several) (JJ big) (NN junk) (NNS funds)))) (SBAR (NP (DT the) (JJ past) (JJ several) (NNS weeks)) (IN as) (S (NP (DT the) (ADJP (QP ($ $) (CD 200) (CD billion))) (NN market)) (VP (VBD was) (VP (VBN jolted) (PP (IN by) (NP (NP (NP (DT a) (NN cash) (NN crunch)) (PP (IN at) (NP (NNP Campeau) (NNP Corp.)))) (CC and) (NP (ADJP (RB steadily) (VBG declining)) (NNS prices))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (JJ Much)) (PP (IN of) (NP (DT the) (NN money)))) (VP (VBZ has) (VP (VBN been) (VP (VBN switched) (PP (IN into) (NP (NN money) (NN market) (NNS funds))))))) (, ,) (NP (NN fund) (NNS executives)) (VP (VBP say)) (. .)))
+
+(S1 (S (PP (RB Instead) (IN of) (S (VP (VBG selling) (NP (NNS bonds)) (S (VP (TO to) (VP (VB meet) (NP (NNS redemptions)))))))) (, ,) (ADVP (RB however)) (, ,) (NP (DT some) (NNS funds)) (VP (VBP have) (VP (VBN borrowed) (PP (IN from) (NP (NNS banks))) (S (VP (TO to) (VP (VB meet) (NP (NN withdrawal) (NNS requests))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ avoids) (VP (VBG knocking) (PRT (RP down)) (NP (NNS prices)) (ADVP (RB further)))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (ADJP (QP ($ $) (CD 1.1) (CD billion))) (NNP T.) (NNP Rowe) (NNP Price) (NNP High) (NNP Yield) (NNP Fund)) (VP (VBD was) (PP (IN among) (NP (NP (DT the) (NNS funds)) (SBAR (WHNP (WDT that)) (S (VP (VBD borrowed) (PP (IN during) (NP (DT the) (NNP Campeau) (NN crisis)))))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP George) (NNP J.) (NNP Collins)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP T.) (NNP Rowe) (NNP Price)) (NP (NNP Associates) (NNP Inc)))))) (. .)))
+
+(S1 (S (NP (DT That) (NN way)) (, ,) (NP (NNP Mr.) (NNP Collins)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (NP (PRP We)) (VP (VBD did) (RB n't) (VP (VB have) (S (VP (TO to) (VP (VB sell) (NP (NNS securities)) (PP (IN in) (NP (DT a) (JJ sloppy) (NN market)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN market)) (VP (VBD stabilized)))) (PRN (, ,) (S (NP (PRP he)) (VP (VBD added))) (, ,)) (NP (DT the) (NN firm)) (VP (VP (VBD sold) (NP (DT the) (NNS bonds))) (CC and) (ADVP (RB quickly)) (VP (VBD paid) (NP (DT the) (NNS loans)) (ADVP (RB back)))) (. .)))
+
+(S1 (S (NP (NNP Tom) (NNP Herman)) (VP (VBD contributed) (PP (TO to) (NP (DT this) (NN article)))) (. .)))
+

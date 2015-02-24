@@ -1,0 +1,18 @@
+(S1 (S (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal) (`` `) (NX (`` `) (NP (NNP American) (NNP Way)) (PP (IN of) (NP (NNP Buying) (POS ')))) ('' ') (NN Survey)) (VP (VBZ consists) (PP (IN of) (NP (NP (CD two) (JJ separate) (, ,) (JJ door-to-door) (JJ nationwide) (NNS polls)) (VP (VBN conducted) (PP (IN for) (NP (DT the) (NNP Journal))) (PP (IN by) (NP (NP (NNP Peter) (NNP D.) (NNP Hart) (NNP Research) (NNPS Associates)) (CC and) (NP (DT the) (NNP Roper) (NNP Organization)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (CD two) (NNS surveys)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD asked) (NP (JJ different) (NNS questions))))) (, ,)) (VP (VBD were) (VP (VBN conducted) (S (VP (VBG using) (NP (JJ national) (JJ random) (NN probability) (NNS samples)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN poll)) (VP (VBN conducted) (PP (IN by) (NP (NNP Peter) (NNP D.) (NNP Hart) (NNP Research) (NNPS Associates))))) (VP (VBD interviewed) (NP (NP (CD 2,064) (NNS adults)) (ADJP (NN age) (CD 18) (CC and) (JJR older))) (PP (PP (IN from) (NP (NNP June) (CD 15))) (PP (TO to) (NP (NNP June) (CD 30) (, ,) (CD 1989))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN poll)) (VP (VBN conducted) (PP (IN by) (NP (DT the) (NNP Roper) (NNP Organization))))) (VP (VBD interviewed) (NP (NP (CD 2,002) (NNS adults)) (ADJP (NN age) (CD 18) (CC and) (JJR older))) (PP (PP (IN from) (NP (NNP July) (CD 7))) (PP (TO to) (NP (NNP July) (CD 15) (, ,) (CD 1989))))) (. .)))
+
+(S1 (S (NP (NNS Responses)) (VP (VBD were) (VP (VBN weighted) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NN age) (CC and) (NN gender))))) (S (VP (TO to) (VP (VB conform) (PP (IN with) (NP (NNP U.S.) (NNP Census) (NNS data)))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT each) (NN poll))) (, ,) (NP (DT the) (NNS odds)) (VP (VBP are) (NP (NP (CD 19)) (PP (IN out) (PP (IN of) (NP (CD 20))))) (SBAR (IN that) (S (SBAR (IN if) (S (NP (NNS pollsters)) (VP (VBD had) (VP (VBN sought) (S (VP (TO to) (VP (VB survey) (NP (NP (DT every) (NN household)) (PP (IN in) (NP (DT the) (NNP U.S.)))) (S (VP (VBG using) (NP (DT the) (JJ same) (NN questionnaire))))))))))) (, ,) (NP (DT the) (NNS findings)) (VP (MD would) (VP (VB differ) (PP (IN from) (NP (DT these) (JJ poll) (NNS results))) (PP (IN by) (NP (NP (QP (DT no) (JJR more) (IN than) (CD 2) (CD 1\/2)) (NN percentage) (NNS points)) (PP (IN in) (NP (DT either) (NN direction)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN margin)) (PP (IN of) (NP (NN error))) (PP (IN for) (NP (NP (NNS subgroups)) (PRN (: --) (PP (IN for) (NP (NN example))) (, ,) (NP (NP (JJ married) (NNS women)) (PP (IN with) (NP (NP (NNS children)) (PP (IN at) (NP (NN home)))))) (: --))))) (VP (MD would) (VP (VB be) (ADJP (JJR larger)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (PP (IN in) (NP (DT any) (NN survey))) (, ,) (NP (EX there)) (VP (VBZ is) (ADVP (RB always)) (NP (DT the) (NN chance) (SBAR (IN that) (S (NP (NP (JJ other) (NNS factors)) (PP (JJ such) (IN as) (NP (NN question) (NN wording)))) (VP (MD could) (VP (VB introduce) (NP (NNS errors)) (PP (IN into) (NP (DT the) (NNS findings))))))))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (VP (VB See) (NP (NP (VBN related) (NN story)) (: :) (`` `) (S (`` `) (NP (NP (DT The) (NNP American) (NNP Way)) (PP (IN of) (NP (NP (NN Buying)) (: :) (SQ (VBZ Is) (VP (VBG Buying) (NP (DT a) (NN Car)) (NP (NP (DT a) (NN Choice)) (CC or) (NP (DT a) (NN Chore)))) (. ?)))))))) (: --)))
+

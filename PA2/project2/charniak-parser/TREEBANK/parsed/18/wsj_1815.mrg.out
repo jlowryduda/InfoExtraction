@@ -1,0 +1,78 @@
+(S1 (S (NP (DT The) (NN government)) (VP (VBD said) (SBAR (S (NP (NP (NP (CD 13.1) (NN %)) (PP (IN of) (NP (NNPS Americans)))) (, ,) (CC or) (NP (QP (CD 31.9) (CD million)) (NNS people)) (, ,)) (VP (VBD were) (VP (VBG living) (PP (IN in) (NP (NN poverty))) (PP (IN in) (NP (CD 1988)))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NP (JJ last) (NN year) (POS 's)) (NN figure)) (VP (VP (VBD was) (ADVP (RB down) (PP (IN from) (NP (CD 13.4) (NN %)))) (PP (IN in) (NP (CD 1987)))) (CC and) (VP (VBD marked) (NP (NP (DT the) (JJ fifth) (JJ consecutive) (JJ annual) (NN decline)) (PP (IN in) (NP (DT the) (NN poverty) (NN rate)))))))) (, ,) (NP (DT the) (NNP Census) (NNP Bureau)) (VP (VBD said) (SBAR (S (NP (DT the) (CD 1988) (NN drop)) (VP (VBD was) (RB n't) (ADJP (RB statistically) (JJ significant)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN bureau) (POS 's)) (NN report)) (ADVP (RB also)) (VP (VBD showed) (SBAR (IN that) (S (SBAR (IN while) (S (NP (NP (DT some) (NNS measures)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (JJ economic) (NN well-being)))) (VP (VBD improved) (ADVP (RB modestly)) (PP (IN in) (NP (CD 1988)))))) (, ,) (NP (NP (DT the) (NNS fruits)) (PP (IN of) (NP (NN prosperity)))) (VP (VBD were) (VP (VBN shared) (ADVP (ADVP (RBR less) (RB equitably)) (PP (IN than) (ADVP (NP (DT the) (NN year)) (RB before))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Summarizing) (NP (NP (NNS data)) (VP (VBN derived) (PP (IN from) (NP (NP (DT a) (NAC (NNP March) (CD 1989)) (NN survey)) (PP (IN of) (NP (CD 58,000) (NNS households))))))))) (, ,) (NP (NP (NNP William) (NNP Butz)) (, ,) (NP (NP (JJ associate) (NN director)) (PP (IN of) (NP (DT the) (NNP Census) (NNP Bureau)))) (, ,)) (VP (VBD said) (SBAR (IN that) (`` `) (S (NP (`` `) (JJS most) (NNS groups)) (VP (ADVP (RB either)) (VBD stayed) (NP (DT the) (ADJP (JJ same) (CC or) (VBN improved))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (PRN (, ,) (S (NP (PRP he)) (VP (VBD added))) (, ,) (`` `)) (`` `) (PP (IN Since) (NP (DT the) (JJ late) (NNS 1960s))) (, ,) (NP (NP (DT the) (NN distribution)) (PP (IN of) (NP (NN income)))) (VP (VBZ has) (VP (VBN been) (ADVP (RB slowly)) (VP (VBG getting) (ADJP (RBR less) (JJ equal))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBD was) (NP (NP (DT no) (NN reversal)) (-LRB- -LCB-) (PP (IN of) (NP (DT that) (NN trend))) (-RRB- -RCB-)) (PP (IN between) (NP (CD 1987) (CC and) (CD 1988)))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN Per) (NP (NN capita) (NN income))) (, ,) (NP (NP (DT a) (ADJP (RB widely) (VBN used)) (NN measure)) (PP (IN of) (NP (NP (DT a) (NN nation) (POS 's)) (JJ economic) (NN health))) (, ,)) (VP (VBD hit) (NP (NP (DT a) (NN record)) (PP (IN in) (NP (CD 1988)))) (, ,) (S (VP (VBG rising) (NP (CD 1.7) (NN %)) (PP (IN after) (NP (NP (NN inflation) (NN adjustment)) (PP (TO to) (NP ($ $) (CD 13,120)))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (JJ median) (NN income)) (PP (IN of) (NP (JJ American) (NNS families)))) (VP (VP (VBD fell) (NP (CD 0.2) (NN %))) (, ,) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP it)) (VP (VBZ has) (VP (VBN failed) (S (VP (TO to) (VP (VB rise) (PP (IN since) (NP (CD 1982)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Butz)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN divergence)) (PP (IN in) (NP (DT the) (CD two) (NNS measures)))) (VP (VBZ reflects) (NP (NP (NNS changes)) (PP (IN in) (NP (NN family) (NN size) (CC and) (NN structure))) (, ,) (PP (VBG including) (NP (NP (NP (DT the) (VBG rising) (NN number)) (PP (IN of) (NP (JJ female-headed) (NNS families)))) (CC and) (NP (NP (DT a) (JJ sharp) (NN increase)) (PP (IN in) (NP (NP (NN income)) (VP (VBN reported) (PP (IN by) (NP (NP (NNPS Americans)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (RB n't) (VP (VBG living) (PP (IN in) (NP (NNS families)))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (JJ last) (NN year) (POS 's)) (NN decline))))) (, ,) (NP (NP (NP (DT the) (NN government) (POS 's)) (NN estimate)) (PP (IN for) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS people)) (VP (VBG living) (PP (IN below) (NP (DT the) (NN poverty) (NN line))))))))) (VP (VBD declined) (PP (IN by) (NP (QP (RB about) (CD 500,000))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN poverty) (NN threshold)) (, ,) (VP (VBN defined) (PP (IN as) (NP (QP (CD three) (NNS times)) (NN food) (NNS expenses))) (SBAR (IN as) (S (VP (VBN calculated) (PP (IN by) (NP (DT the) (NNP Agricultural) (NNP Department))))))) (, ,)) (NP (JJ last) (NN year)) (VP (VBD was) (NP ($ $) (CD 12,092)) (PP (IN for) (NP (NP (DT a) (NN family)) (PP (IN of) (NP (CD four)))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNP Census) (NNP Bureau)) (VP (VBZ counts) (NP (DT all) (NN cash) (NN income)) (PP (IN in) (S (VP (VBG determining) (SBAR (IN whether) (S (NP (NNS families)) (VP (VBP are) (PP (IN below) (NP (DT the) (NN line))))))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB consider) (NP (NP (JJ other) (NN government) (NNS benefits)) (, ,) (PP (JJ such) (IN as) (NP (NNP Medicare))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Thanks)) (PP (ADVP (RB largely)) (TO to) (NP (NP (DT the) (VBN continued) (NN growth)) (PP (IN of) (NP (DT the) (NNP U.S.) (NN economy))))))) (, ,) (S (NP (DT the) (NN poverty) (NN rate)) (VP (VBZ is) (ADVP (RB now)) (ADJP (ADJP (RB substantially) (JJR lower)) (PP (IN than) (NP (NP (DT the) (CD 1983) (NN peak)) (PP (IN of) (NP (CD 15.3) (NN %)))))))) (, ,) (CC but) (S (NP (DT the) (NNS improvements)) (VP (VBP have) (VP (VBN been) (ADJP (JJ modest)) (PP (IN in) (NP (NP (DT the) (JJ past) (NN couple)) (PP (IN of) (NP (NNS years)))))))) (. .)))
+
+(S1 (S (NP (NN Poverty)) (VP (VBZ remains) (ADJP (ADJP (ADVP (RB far) (RBR more)) (JJ widespread) (PP (IN among) (NP (NNS blacks)))) (PP (IN than) (NP (JJ other) (NNPS Americans))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1988))) (, ,) (NP (NP (CD 31.6) (NN %)) (PP (IN of) (NP (NNS blacks)))) (VP (VBD lived) (PP (IN in) (NP (NN poverty))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (NP (CD 10.1) (NN %)) (PP (IN for) (NP (NNS whites)))) (CC and) (NP (NP (CD 26.8) (NN %)) (PP (IN for) (NP (NNPS Hispanics)))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNS two-thirds)) (PP (IN of) (NP (DT all) (JJ poor) (NNPS Americans)))) (VP (VBD were) (ADJP (JJ white))) (. .)))
+
+(S1 (S (S (NP (NP (QP (JJR More) (IN than) (NN half))) (PP (IN of) (NP (JJ poor) (NNS families)))) (VP (VBD were) (VP (VBN headed) (PP (IN by) (NP (NP (NNS women)) (VP (VBG living) (PP (IN without) (NP (NNS men))))))))) (, ,) (NP (DT the) (NN bureau)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (QP (RBR More) (IN than) (JJ three-fourths))) (PP (IN of) (NP (JJ poor) (JJ black) (NNS families)))) (VP (VBD were) (VP (VBN headed) (PP (IN by) (NP (NNS women))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN poverty) (NN rate)) (PP (IN of) (NP (NP (NNS children)) (PP (IN under) (ADJP (NP (CD 18) (NNS years)) (JJ old)))))) (VP (VBD dropped) (NP (JJ last) (NN year)) (PP (TO to) (NP (CD 19.7) (NN %))) (PP (IN from) (NP (CD 20.5) (NN %)) (PP (IN in) (NP (CD 1987)))))) (, ,) (CC but) (S (VP (VBD remained) (ADJP (ADJP (RB far) (JJR higher)) (PP (IN than) (ADVP (NP (DT a) (NN decade)) (RB ago)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN rate)) (PP (IN among) (NP (DT the) (JJ elderly))) (PRN (: --) (NP (NP (CD 12) (NN %)) (PP (IN in) (NP (CD 1988)))) (: --))) (VP (VBD was) (RB n't) (ADJP (ADJP (RB significantly) (JJR lower)) (PP (IN than) (ADVP (NP (DT the) (NN year)) (RB before))))) (. .)))
+
+(S1 (S (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD were) (RB n't) (PP (IN for) (NP (NNP Social) (NNP Security) (NNS payments)))))) (, ,) (NP (QP (JJR more) (IN than) (CD three) (NNS times) (IN as) (JJ many)) (JJ elderly)) (VP (MD would) (VP (VB be) (PP (IN below) (NP (DT the) (NN poverty) (NN line)))))) (, ,) (NP (NNP Mr.) (NNP Butz)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NNP Census) (NNP Bureau)) (ADVP (RB also)) (VP (VBD said)) (: :)))
+
+(S1 (S (: --) (NP (NP (QP (DT Some) (CD 17.2)) (NN %)) (PP (IN of) (NP (NP (DT all) (NN money) (NN income)) (VP (VBN received) (PP (IN by) (NP (NP (NNS families)) (PP (IN in) (NP (CD 1988))))))))) (VP (VBD went) (PP (TO to) (NP (NP (DT the) (JJ wealthiest) (CD 5) (NN %)) (PP (IN of) (NP (DT all) (NNS families))))) (, ,) (ADVP (RB up) (PP (IN from) (NP (CD 16.9) (NN %)) (PP (IN in) (NP (CD 1987)))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ is) (NP (NP (DT the) (JJS greatest) (NN share)) (VP (VBN reported) (PP (IN for) (NP (DT any) (NN year))) (PP (IN since) (NP (CD 1950))) (, ,) (SBAR (IN although) (S (NP (NP (VBG changing) (NNS definitions)) (PP (IN over) (NP (DT the) (NNS years)))) (VP (VB distort) (NP (DT the) (NN comparison)))))))) (. .)))
+
+(S1 (S (: --) (NP (NP (DT The) (JJ top) (JJ fifth)) (PP (IN of) (NP (DT all) (NNS families)))) (VP (VBD got) (NP (NP (CD 44) (NN %)) (PP (IN of) (NP (DT the) (NN income))) (, ,) (ADVP (RB up) (PP (IN from) (NP (CD 41.5) (NN %)) (ADVP (NP (DT a) (NN decade)) (RBR earlier)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ bottom) (JJ fifth)) (PP (IN of) (NP (DT all) (NNS families)))) (VP (VBD got) (NP (NP (CD 4.6) (NN %)) (PP (IN of) (NP (DT the) (NN income))) (, ,) (ADVP (IN down) (PP (IN from) (NP (CD 5.2) (NN %)) (ADVP (NP (DT a) (NN decade)) (RBR earlier)))))) (. .)))
+
+(S1 (S (: --) (S (S (VP (VBG Confirming) (NP (NP (JJ other) (NN government) (NNS data)) (VP (VBG showing) (SBAR (IN that) (S (NP (NNS wages)) (VP (VBP are) (RB n't) (VP (VBG keeping) (NP (NN pace)) (PP (IN with) (NP (NN inflation))))))))))) (, ,) (NP (NP (NNS earnings)) (PP (IN of) (NP (JJ year-round) (, ,) (JJ full-time) (NN male) (NNS workers)))) (VP (VBD fell) (NP (CD 1.3) (NN %)) (PP (IN in) (NP (CD 1988))) (PP (IN after) (S (VP (VBG adjusting) (PP (IN for) (NP (JJR higher) (NNS prices)))))) (, ,) (NP (NP (DT the) (JJ first) (JJ such) (NN drop)) (PP (IN since) (NP (CD 1982)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Earnings)) (PP (IN of) (NP (JJ female) (NNS workers)))) (VP (VBD were) (ADJP (JJ unchanged))) (. .)))
+
+(S1 (S (: --) (NP (NP (NNS Women)) (VP (VBG working) (ADJP (JJ full-time)))) (VP (VBD earned) (NP (NP (CD 66) (NNS cents)) (PP (IN for) (NP (NP (DT every) (NN dollar)) (VP (VBN earned) (PP (IN by) (NP (NNS men))))))) (, ,) (ADVP (ADVP (NP (DT a) (NN penny)) (JJR more)) (PP (IN than) (PP (IN in) (NP (NP (CD 1987)) (CC and) (NP (NP (CD seven) (NNS cents)) (ADVP (RBR more) (PP (IN than) (PP (IN in) (NP (CD 1978))))))))))) (. .)))
+
+(S1 (S (: --) (NP (NP (JJ Median) (NN household) (NN income)) (PRN (: --) (SBAR (WHNP (WDT which)) (S (VP (VBZ includes) (NP (NP (PDT both) (DT those)) (VP (VBG living) (PP (IN in) (NP (NP (NNS families)) (CC and) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (RB n't)))))))))))) (: --))) (VP (VBD rose) (NP (NP (CD 0.3) (NN %)) (NP (JJ last) (NN year))) (PP (TO to) (NP ($ $) (CD 27,225))) (PP (IN after) (NP (NN inflation)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VP (VBD rose) (ADVP (RB sharply)) (PP (IN in) (NP (DT the) (NNP Northeast) (CC and) (NNP Midwest)))) (CC and) (VP (VBD fell) (ADVP (RB slightly)) (PP (IN in) (NP (DT the) (NNP South) (CC and) (NNP West))))) (. .)))
+
+(S1 (S (NP (JJ Median) (NN family) (NN income)) (VP (VBD was) (NP ($ $) (CD 32,191)) (, ,) (ADVP (RB down) (NP (CD 0.2) (NN %)))) (. .)))
+
+(S1 (S (NP (: --) (NP (NP (IN Per) (NN capita) (NN income)) (PP (IN of) (NP (NNS blacks)))) (, ,) (CONJP (IN though) (RB still)) (NP (NP (QP (RB only) (CD 60)) (NN %)) (PP (DT that) (IN of) (NP (NNS whites)))) (, ,)) (VP (VBD rose) (NP (CD 3.9) (NN %)) (PP (IN in) (NP (CD 1988))) (, ,) (SBAR (IN while) (S (NP (NP (IN per) (NN capita) (NN income)) (PP (IN of) (NP (NNS whites)))) (VP (VBD rose) (NP (RB only) (CD 1.5) (NN %)))))) (. .)))
+
+(S1 (S (: --) (PP (IN Among) (NP (JJ married) (NNS couples))) (, ,) (NP (NP (DT the) (NN gap)) (PP (IN between) (NP (NNS blacks) (CC and) (NNS whites)))) (VP (VBD narrowed) (ADVP (RB sharply)) (, ,) (SBAR (IN as) (S (NP (NP (NN income)) (PP (IN of) (NP (JJ black) (NNS families)))) (VP (VBD shot) (ADVP (RB up)) (NP (CD 6.8) (NN %)) (SBAR (IN while) (S (NP (NP (NN income)) (PP (IN of) (NP (NNS whites)))) (VP (VBD did) (RB n't) (VP (VB budge))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Fueling) (NP (NP (DT a) (NN controversy)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN been) (VP (VBG simmering) (PP (IN for) (NP (NNS years))))))))))) (, ,) (NP (DT the) (NNP Census) (NNP Bureau)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NNS figures)) (VP (MD would) (VP (VB look) (ADJP (RB far) (JJR rosier)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBD recalculated) (NP (NP (DT the) (NN poverty) (NN threshold)) (VP (VBG using) (NP (NP (DT an) (VBN improved) (JJ consumer-price) (NN measure)) (VP (VBN adopted) (PP (IN in) (NP (CD 1983))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN bureau)) (VP (VBD said) (SBAR (S (S (NP (DT some) (ADJP (QP (CD 3.5) (CD million)) (JJR fewer)) (NNS people)) (VP (MD would) (VP (VB have) (VP (VBN fallen) (PP (IN below) (NP (DT the) (NN poverty) (NN line))) (PP (IN in) (NP (CD 1988))))))) (: --) (CC and) (S (NP (DT the) (NN poverty) (NN rate)) (VP (MD would) (VP (VB have) (VP (VBN been) (NP (CD 10.5) (NN %)) (PP (RB instead) (IN of) (NP (CD 13.1) (NN %))) (: --) (PP (IN under) (NP (DT the) (JJ alternative) (NN calculation)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Critics)) (PP (IN on) (NP (DT the) (ADJP (JJ left) (CC and) (JJ right))))) (VP (VBP have) (VP (VBN been) (VP (VBG calling) (PP (IN for) (NP (NP (DT all) (NNS sorts)) (PP (IN of) (NP (NP (NNS revisions)) (PP (TO to) (NP (DT the) (NN measure))))))) (PP (IN for) (NP (NNS years)))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN report)) (PP (IN by) (NP (NP (DT the) (NN staff)) (PP (IN of) (NP (DT the) (NNP Joint) (NNP Economic) (NNP Committee))) (PP (IN of) (NP (NNP Congress))))) (VP (VBN released) (NP (NN yesterday)))) (VP (VBD concluded) (, ,) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ is) (ADJP (JJ misleading) (S (VP (TO to) (VP (VB make) (NP (DT this) (NN change)) (PP (IN without) (S (VP (VBG adjusting) (PP (IN for) (NP (JJ other) (NNS changes))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (JJ official) (NN poverty) (NN threshold)) (VP (VBZ is) (VP (VBN set) (PP (IN by) (NP (NP (DT the) (NNP Office)) (PP (IN of) (NP (NNP Management) (CC and) (NNP Budget))))))) (. .)))
+

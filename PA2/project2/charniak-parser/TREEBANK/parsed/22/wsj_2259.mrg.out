@@ -1,0 +1,10 @@
+(S1 (S (NP (NP (NNP Omnicare) (NNP Inc.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ intends) (S (VP (TO to) (VP (VB expand) (NP (NP (PRP$ its) (NN position)) (PP (IN in) (NP (DT the) (JJ medical) (CC and) (JJ dental) (NNS markets)))))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD acquired) (NP (DT a) (NN cotton) (CC and) (NN gauze) (NNS products) (NN division)) (PP (IN from) (NP (ADJP (RB closely) (VBN held)) (JJ Sterile) (NNP Products) (NNP Corp.))) (PP (IN for) (NP (QP ($ $) (CD 8.2) (CD million)))))))) (. .)))
+
+(S1 (S (NP (NNP Omnicare)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (NP (DT the) (NN division)) (VP (VP (TO to) (VP (VB add) (`` `) (NP (`` `) (JJ substantial) (NNS sales) (NN volume)))) (CC and) (VP (TO to) (VP (VB make) (NP (NP (DT a) (JJ positive) (NN contribution)) (PP (TO to) (NP (PRP$ our) (NNS earnings)))) (PP (IN in) (NP (CD 1990) (CC and) (IN beyond))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (CD 1988))) (NP (DT the) (NNP Cincinnati) (NN company)) (VP (VBD earned) (NP (NP (QP ($ $) (CD 3.1) (CD million))) (, ,) (CC or) (NP (NP (CD 32) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (PP (IN on) (NP (NP (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 148.5) (CD million))))))) (. .)))
+
+(S1 (S (NP (NNP Omnicare)) (VP (VBD said) (SBAR (S (NP (DT the) (NN division)) (VP (VP (VBZ operates) (PP (IN under) (NP (NP (DT the) (NN trade) (NN name)) (NP (NNP ACCO))))) (CC and) (VP (VBZ supplies) (NP (DT the) (JJ medical) (CC and) (JJ dental) (NNS markets))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN business)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP St.) (NNP Louis)))) (, ,)) (VP (VBD had) (NP (NP (NNS sales)) (PP (IN of) (NP (QP (JJR more) (IN than) ($ $) (CD 14) (CD million))))) (PP (IN in) (NP (NP (DT the) (JJ fiscal) (NN year)) (VP (VBN ended) (NP (NNP March) (CD 31))))))) (, ,) (NP (NNP Omnicare)) (VP (VBD said)) (. .)))
+

@@ -1,0 +1,22 @@
+(S1 (S (NP (NNP Mattel) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (JJ third-quarter) (JJ net) (NN income)) (VP (VBD rose) (NP (CD 73) (NN %)) (, ,) (PP (TO to) (NP (NP (QP ($ $) (CD 38) (CD million))) (, ,) (CC or) (NP (NP (CD 76) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 21.9) (CD million))) (, ,) (CC or) (NP (NP (CD 45) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RB ago))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (NP (CD 34) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 410) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 306.6) (CD million))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (NNP Mattel) (POS 's)) (JJ world-wide) (NN volume)) (VP (VBZ has) (VP (VBN grown) (NP (CD 25) (NN %)) (PP (IN in) (NP (NP (DT a) (NN climate)) (PP (IN of) (NP (ADJP (RB relatively) (JJ flat)) (NN industry) (NNS sales))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP John) (NNP W.) (NNP Amerman)) (, ,) (NP (NN chairman))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN toy) (NN company) (POS 's)) (`` `) (NX (`` `) (NNS prospects) (PP (IN for) (NP (DT a) (JJ strong) (JJ fourth) (NN quarter) ('' ')))) ('' ')) (VP (VBP are) (ADVP (RB also)) (ADJP (JJ good)))))) (. .)))
+
+(S1 (S (NP (NNP Mattel)) (VP (VBD attributed) (NP (NP (DT the) (NN jump)) (PP (IN in) (NP (NN quarter) (NN net)))) (PP (TO to) (NP (NP (NP (JJ strong) (JJ world-wide) (NNS sales)) (PP (IN of) (NP (PRP$ its) (NNP Barbie) (NN doll)))) (, ,) (NP (JJ Hot) (NNS Wheels) (NNS cars)) (, ,) (NP (NNP Disney) (NNS toys)) (CC and) (NP (JJ other) (JJ well-known) (NN toy) (NNS lines))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (ADVP (RB also)) (VP (VBD cited) (NP (NP (JJ retail) (NN trade) (CC and) (NN consumer) (NN demand)) (PP (IN for) (NP (NP (JJ new) (NNS products)) (VP (VBN introduced) (NP (DT this) (NN year))) (, ,) (PP (JJ such) (IN as) (NP (NP (NNP Cherry) (NNP Merry) (NNP Muffin)) (CC and) (NP (NN Turtle) (NNPS Tots)))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (CD nine) (NNS months))) (, ,) (NP (NNP Mattel) (NN net)) (VP (ADVP (RBR more) (IN than)) (VBD doubled) (PP (TO to) (NP (NP (QP ($ $) (CD 58.9) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.19)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 25.4) (CD million))) (, ,) (CC or) (NP (NP (CD 53) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (NP (CD 25) (NN %)) (, ,) (PP (TO to) (NP (QP ($ $) (CD 877.6) (CD million)))) (, ,) (PP (IN from) (NP (QP ($ $) (CD 702.4) (CD million))))) (. .)))
+
+(S1 (S (NP (NNP Mattel)) (VP (VBD said) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN sale)) (PP (IN of) (NP (NNS rights))) (PP (TO to) (NP (NN land) (CC and) (NNS buildings)))) (PP (IN at) (NP (NP (PRP$ its) (NN Hawthorne)) (, ,) (NP (NNP Calif.)) (, ,))) (SBAR (S (NP (NNS headquarters)) (VP (VBD resulted) (PP (IN in) (NP (NP (DT a) (ADJP (QP ($ $) (CD 13) (CD million))) (NN charge)) (PP (TO to) (NP (JJ third-quarter) (NN operating) (NN profit))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN charge)) (VP (VBD did) (RB n't) (VP (VB affect) (NP (NP (NN net)) (PP (IN for) (NP (DT the) (NN quarter)))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD was) (VP (VBN offset) (PP (IN by) (NP (NN tax) (NNS benefits))))))))) (. .)))
+
+(S1 (S (NP (NNP Mattel)) (VP (VBZ has) (VP (VBN purchased) (S (NP (NP (DT a) (JJ new) (NN headquarters) (NN building)) (PP (IN in) (NP (NP (NNP El) (NNP Segundo)) (, ,) (NP (NNP Calif.)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (MD will) (VP (VB occupy) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (JJ next) (NN year))))))))))))))) (. .)))
+

@@ -1,0 +1,38 @@
+(S1 (PRN (-LRB- -LRB-) (S (PP (IN During) (NP (PRP$ its) (NN centennial) (NN year))) (, ,) (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal)) (VP (MD will) (VP (VB report) (NP (NP (NNS events)) (PP (IN of) (NP (DT the) (JJ past) (NN century))) (SBAR (WHNP (WDT that)) (S (VP (VBP stand) (PP (IN as) (NP (NP (NNS milestones)) (PP (IN of) (NP (JJ American) (NN business) (NN history))))))))))) (. .)) (-RRB- -RRB-)))
+
+(S1 (S (NP (NP (NNS PUTS) (CC AND) (NNS CALLS)) (, ,) (NP (NP (NN STOCK) (NN MARKET) (NN PATOIS)) (PP (IN for) (NP (NP (NNS options)) (SBAR (S (VP (TO to) (VP (VP (VB sell)) (CC or) (VP (VB buy) (NP (NP (DT a) (NN company) (POS 's)) (NNS shares)))))))))) (, ,)) (VP (VBD were) (ADVP (RB long)) (NP (NP (DT an) (JJ arcane) (NNP Wall) (NNP Street) (NN art)) (VP (ADVP (RBS best)) (VBN left) (PP (TO to) (NP (NP (DT the) (NNS experts)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD used) (NP (PRP them)) (PP (RB either) (PP (IN as) (NP (DT a) (NN hedge))) (CC or) (PP (IN for) (NP (JJ pure) (NN speculation)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Options)) (VP (VBD lost) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ their) (NN mystery)))) (PP (IN in) (NP (CD 1973))) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NNP Chicago) (NNP Board)) (PP (IN of) (NP (NNP Trade)))) (VP (VBD set) (PRT (RP up)) (NP (DT a) (JJ special) (NN exchange)) (S (VP (TO to) (VP (VB deal) (PP (IN in) (NP (PRP them)))))))))) (. .)))
+
+(S1 (S (PP (IN Until) (NP (RB then))) (, ,) (NP (NNS options)) (VP (VBD had) (VP (VBN been) (VP (VBN traded) (PP (RB only) (PP (IN in) (NP (DT the) (JJ over-the-counter) (NN market))) (, ,) (RB mostly) (PP (IN in) (NP (NNP New) (NNP York))) (, ,) (CC and) (PP (IN in) (NP (DT an) (ADJP (RB almost) (JJ invisible)) (JJ secondary) (NN market) (VBG operating)))) (ADVP (RB chiefly)) (PP (IN by) (NP (NN telephone)))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT The) (NNP Chicago) (NNP Board)) (PP (IN of) (NP (NNP Trade)))) (, ,) (NP (DT the) (NNP No.) (CD 1) (NNP U.S.) (NN grain) (NN market)) (, ,)) (VP (VBD had) (ADVP (RB long)) (VP (VBN chafed) (PP (IN under) (NP (NP (DT the) (NN attention)) (VP (VBN won) (PP (IN by) (NP (NP (PRP$ its) (JJ innovative) (NN archrival)) (, ,) (NP (DT the) (JJ livestock-dealing) (NNP Mercantile) (NNP Exchange))))))))) (. .)))
+
+(S1 (S (IN So) (NP (NP (DT the) (NNS men)) (SBAR (WHNP (WP who)) (S (VP (VBD ran) (NP (DT the) (NN grain) (NNS pits)))))) (VP (VBD listened) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNP Joseph) (NNP Sullivan)) (, ,) (NP (DT a) (JJ 35-year-old) (JJ former) (NNP Wall) (NNP Street) (NNP Journal) (NN newsman)) (, ,)) (VP (VBD offered) (NP (PRP them)) (NP (NP (DT the) (NN idea)) (PP (IN of) (NP (JJ all-options) (NN trading)))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (CD four) (NN year)) (PP (IN of) (NP (NP (NN tinkering)) (CC and) (NP (NP (QP ($ $) (CD 2.4) (CD million))) (PP (IN in) (NP (NN seed) (NN money)))))))) (, ,) (NP (DT the) (NN board)) (VP (VP (VBD set) (PRT (RP up)) (NP (NP (DT the) (JJ new) (NN marketplace)) (, ,) (VP (VBN titled) (S (NP (PRP it)) (NP (DT the) (NNP Chicago) (NNP Board) (NNP Options) (NNP Exchange)))))) (, ,) (CC and) (VP (VBN named) (S (NP (NNP Sullivan)) (NP (PRP$ its) (JJ first) (NN president))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS beginnings)) (VP (VBD were) (ADJP (JJ modest))) (. .)))
+
+(S1 (S (NP (DT The) (NNP CBOE)) (VP (VBD opened) (PP (IN for) (NP (NN business))) (PP (IN on) (NP (NNP April) (CD 26) (, ,) (CD 1973))) (, ,) (PP (IN in) (SBAR (WHNP (WP what)) (S (VP (VBD had) (VP (VBN been) (NP (DT a) (NAC (NNP Board) (PP (IN of) (NP (NNP Trade)))) (NN lunchroom)))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD listed) (NP (NP (QP (RB just) (CD 16)) (NNS options)) (SBAR (S (VP (TO to) (VP (VB buy) (NP (DT a) (`` `) (NP (`` `) (NN pilot) (NN list) ('' ')) ('' ') (PP (IN of) (NP (NNS stocks)))) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))))))) (. .)))
+
+(S1 (PRN (-LRB- -LRB-) (S (NP (NP (NNS Puts)) (, ,) (CC or) (NP (NN sell) (NNS options)) (, ,)) (VP (MD would) (RB not) (VP (VB be) (VP (VBN added) (PP (IN until) (NP (CD 1977))))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (NP (DT The) (CD 282) (NNS members)) (VP (VBD had) (VP (VBN paid) (NP (NP ($ $) (CD 10,000)) (ADVP (RB apiece))) (PP (IN for) (NP (NNS seats))))) (. .)))
+
+(S1 (PRN (-LRB- -LRB-) (NP (NP (DT The) (CD 1989) (NN price)) (: :) (NP ($ $) (CD 250,000)) (. .)) (-RRB- -RRB-)))
+
+(S1 (S (NP (NP (DT The) (JJ first) (NN day) (POS 's)) (NN business)) (VP (VBD was) (NP (NP (CD 911) (NNS contracts)) (PRN (-LRB- -LRB-) (NP (NP (DT each)) (PP (IN for) (NP (NP (CD 100) (NNS shares)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ listed) (NNS stocks)))))))) (-RRB- -RRB-)))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 1973))))) (, ,) (S (NP (NP (DT the) (NN number)) (PP (IN of) (`` `) (ADJP (`` `) (JJ underlying) ('' ')) ('' ') (NP (NNP Big) (NNP Board) (NNS stocks)))) (VP (VBD had) (VP (VBN been) (VP (VBN increased) (PP (TO to) (NP (CD 50))))))) (CC and) (S (NP (DT the) (NNS options) (NN exchange)) (VP (VBD had) (VP (VBN run) (PP (IN up) (NP (NP (NN volume)) (PP (IN of) (NP (QP (CD 1.1) (CD million)) (NNS contracts)))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (NN year)) (RB later)) (, ,) (NP (PRP it)) (VP (VBD was) (NP (QP (CD 5.7) (CD million)))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (NP (QP (JJR more) (IN than) (CD 1,800)) (NNS traders)) (PP (IN on) (NP (DT the) (NNP CBOE)))) (VP (VBD bought) (CC and) (VBD sold) (NP (QP (CD 112) (CD million)) (NNS contracts)) (PP (IN on) (NP (CD 178) (JJ listed) (NNS stocks))) (, ,) (NP (NP (CD 60) (NN %)) (PP (IN of) (NP (DT all) (NNP U.S.) (JJ listed) (NNS options) (NN trading))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ new) (NN exchange)) (VP (VBD drew) (NP (JJ instant) (NN recognition)) (PP (IN from) (NP (DT an) (JJ unwelcome) (NN quarter)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN government)) (, ,) (NP (NP (NN campaigning)) (PP (IN against) (NP (VBN fixed) (NN brokerage) (NNS commissions)))) (, ,)) (ADVP (RB promptly)) (VP (VBD sued) (NP (DT the) (NNP CBOE)) (PP (IN over) (NP (PRP$ its) (JJ minimum-fee) (NN system)))) (. .)))
+

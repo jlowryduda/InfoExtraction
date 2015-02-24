@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NNP Meson) (NNP Investment) (NNP Ltd.)) (, ,) (NP (DT a) (ADJP (NNP Vancouver) (, ,) (JJ B.C.-based)) (NN investment) (NN firm)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD raised) (NP (NP (PRP$ its) (NN stake)) (PP (IN in) (NP (NNP Verit) (NNPS Industries)))) (PP (TO to) (NP (NP (CD 8.9) (NN %)) (PP (IN of) (NP (NP (DT the) (JJ common) (NNS shares)) (ADJP (JJ outstanding)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission) (NN filing))) (, ,) (NP (NNP Meson)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ holds) (NP (NP (CD 67,400) (NNP Verit) (JJ common) (NNS shares)) (, ,) (PP (VBG including) (NP (NP (JJ net) (NNS purchases)) (PP (IN of) (NP (CD 8,100) (NNS shares))) (VP (VBN bought) (PP (PP (IN from) (NP (NNP Oct.) (CD 10) (, ,) (CD 1988) (, ,))) (PP (TO to) (NP (NNP Oct.) (CD 11) (, ,) (CD 1989) (, ,)))) (PP (IN for) (NP (QP ($ $) (CD 3.875) (TO to) ($ $) (CD 7)) (DT each))))))))))) (. .)))
+
+(S1 (S (NP (NNP Meson)) (VP (VBZ is) (NP (NP (DT the) (JJ personal) (VBG holding) (NN company)) (PP (IN of) (NP (NP (NNP Steven) (NNP Morfey)) (, ,) (NP (DT a) (NNP Vancouver) (NNS securities) (NN dealer)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (DT the) (NN transaction)) (VP (VBD was) (VP (VBN made) (PP (IN for) (NP (NN investment) (NNS purposes)))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Officials)) (PP (IN for) (NP (ADJP (NNP Sun) (NNP Valley) (, ,) (JJ Calif.-based)) (NNP Verit)))) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (NN comment)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (JJ composite) (NN trading)) (PP (IN on) (NP (DT the) (NNP American) (NNP Stock) (NNP Exchange))))) (, ,) (NP (NNP Verit)) (VP (VBD closed) (ADJP (JJ unchanged)) (NP (NN yesterday)) (PP (IN at) (NP (NP ($ $) (CD 3.875)) (NP (DT a) (NN share))))) (. .)))
+

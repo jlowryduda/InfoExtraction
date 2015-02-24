@@ -1,0 +1,14 @@
+(S1 (S (NP (DT The) (NNP New) (NNP York) (NNP Times) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD reached) (NP (NP (DT a) (NN settlement)) (PP (IN with) (NP (JJ independent) (NN home) (NN delivery) (NNS dealers)))) (PP (IN in) (NP (DT the) (JJ metropolitan) (NNP New) (NNP York) (NN area))) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB free) (NP (DT the) (NN newspaper)) (S (VP (TO to) (VP (VB expand) (NP (NN home) (NN delivery) (NN circulation))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN settlement)) (VP (VBD stemmed) (PP (IN from) (NP (NP (DT a) (NN lawsuit)) (SBAR (S (NP (DT the) (NNS dealers)) (VP (VBD filed) (PP (IN in) (NP (NP (CD 1982)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP Times)) (VP (VBD began) (NP (PRP$ its) (JJ own) (JJ competing) (JJ direct) (NN delivery) (NN service))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN pact)) (VP (VBZ calls) (SBAR (IN for) (S (NP (DT the) (NNP Times)) (VP (TO to) (VP (VB pay) (NP (NNS dealers)) (NP (QP ($ $) (CD 3.6) (CD million))) (PP (IN over) (NP (NP (CD six) (NNS years)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ other) (NNS payments)) (PP (IN in) (NP (NP (DT the) (NN form)) (PP (IN of) (NP (NNS subsidies))))) (PP (IN over) (NP (CD three) (NNS years))) (, ,) (VP (VBN based) (PP (IN on) (NP (NP (DT the) (NN number)) (PP (IN of) (SBAR (`` `) (S (`` `) (NP (JJ new) (NNS customers)) (VP (VBN started) (PP (PP (IN by) (NP (DT the) (NNS dealers))) (CC and) (PP (IN on) (NP (NN pricing) (NNS structures))))) (, ,) ('' ')) ('' ') (S (NP (DT the) (NNPS Times)) (VP (VBD said)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN amount)) (PP (IN of) (NP (DT the) (NN settlement)))) (VP (MD will) (VP (VB be) (VP (VBN taken) (PP (IN as) (NP (NP (DT a) (NN charge)) (PP (IN against) (NP (NP (NNS earnings)) (PP (IN in) (NP (DT the) (JJ fourth) (NN quarter)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN settlement)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ involves) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (CD 300) (JJ independent) (NN newspaper) (NNS dealers)) (PP (IN in) (NP (DT the) (NNP New) (NNP York) (NN area))))))))) (, ,)) (VP (MD will) (VP (VB allow) (S (NP (DT the) (NNP Times)) (VP (TO to) (VP (ADVP (RB freely)) (VB operate) (NP (PRP$ its) (JJ own) (JJ direct) (NN home) (NN delivery) (NN system))))))) (. .)))
+
+(S1 (S (NP (NN Home) (NN delivery)) (VP (VBZ is) (NP (NP (DT the) (ADJP (JJS fastest) (VBG growing)) (NN segment)) (PP (IN of) (NP (NP (DT the) (NNP Times) (POS 's)) (ADJP (QP (CD 1.1) (CD million)) (NN daily)) (NN circulation))))) (. .)))
+
+(S1 (S (ADVP (RB Currently)) (, ,) (NP (NP (QP (RB about) (CD 60)) (NN %)) (PP (IN of) (NP (NP (NN home) (NN delivery) (NNS subscribers)) (PP (IN in) (NP (DT the) (NNP New) (NNP York) (NN area)))))) (VP (VBP receive) (NP (DT the) (NN paper)) (ADVP (RB directly)) (PP (IN from) (NP (DT the) (NNP Times)))) (. .)))
+

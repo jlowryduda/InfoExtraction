@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NNP Paramount) (NNPS Communications) (NNP Inc.)) (, ,) (NP (NNP New) (NNP York)) (, ,)) (VP (VBD completed) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (PRP$ its) (NNP Associates) (NNP Corp.) (NN consumer) (CC and) (JJ commercial) (NN finance) (NN subsidiary))) (PP (TO to) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Ford) (NNP Motor) (NNP Co.)))))) (PP (IN for) (NP (QP ($ $) (CD 3.35) (CD billion))))) (. .)))
+
+(S1 (S (NP (NP (NNP Paramount)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD agreed) (S (VP (TO to) (VP (VB sell) (NP (DT the) (NN unit)) (PP (IN in) (NP (NNP July))))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB realize) (NP (NP (JJ net) (NNS proceeds)) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (QP ($ $) (CD 2.6) (CD billion))))))) (, ,) (PP (IN with) (NP (NP (DT an) (JJ after-tax) (NN gain)) (PP (IN of) (NP (QP ($ $) (CD 1.2) (CD billion))))))))))) (. .)))
+
+(S1 (S (NP (NNP Paramount)) (VP (VBD said) (SBAR (S (NP (DT the) (NN gain)) (VP (MD would) (VP (VB be) (VP (VBN recorded) (PP (IN in) (NP (NP (PRP$ its) (JJ fourth) (NN quarter)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD ended) (NP (NN yesterday))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Paramount)) (VP (VBD said) (SBAR (S (NP (DT the) (NN sale)) (`` `) (VP (`` `) (VP (VBZ completes) (NP (DT the) (JJ strategic) (NN restructuring))) ('' ')))))) (: ') (S (NP (PRP it)) (VP (VP (VBD began) (PP (IN in) (NP (CD 1983)))) (, ,) (CC and) (VP (MD would) (VP (VB enable) (S (NP (PRP it)) (VP (TO to) (VP (VB focus) (PP (IN on) (NP (PRP$ its) (NN entertainment) (CC and) (NN publishing) (NNS businesses)))))))))) (. .)))
+
+(S1 (S (NP (NNP Ford)) (VP (VBD said) (PP (IN in) (NP (NNP July))) (SBAR (S (NP (PRP it)) (VP (VBD planned) (S (VP (TO to) (VP (VB operate) (NP (NP (NNP Associates)) (, ,) (VP (VBN based) (PP (IN in) (NP (NNP Dallas)))) (, ,)) (PP (IN as) (NP (NP (DT a) (JJ separate) (NN entity)) (PP (IN in) (NP (PRP$ its) (NNP Ford) (NNP Financial) (NNPS Services) (NNP Group)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Paramount)) (VP (VBD said) (SBAR (S (NP (NNP Associates)) (VP (VBZ has) (NP (NP (QP (RB about) ($ $) (CD 14) (CD billion))) (PP (IN in) (NP (JJ total) (NNS assets)))) (, ,) (S (VP (VBG making) (S (NP (PRP it)) (ADJP (JJ third-largest) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NP (NNS assets)) (PP (IN among) (NP (NP (JJ independent) (NN finance) (NNS companies)) (PP (IN in) (NP (DT the) (NNP U.S.))))))))))))))))) (. .)))
+

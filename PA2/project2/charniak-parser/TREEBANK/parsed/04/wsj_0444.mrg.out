@@ -1,0 +1,40 @@
+(S1 (S (NP (NN Bargain) (NNS hunters)) (VP (VBD helped) (S (NP (NN stock) (NNS prices)) (VP (VB break) (NP (DT a) (JJ weeklong) (NN losing) (NN streak)) (SBAR (IN while) (S (NP (NP (NN bond) (NNS prices)) (CC and) (NP (DT the) (NN dollar))) (VP (VBD inched) (ADVP (JJR higher)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Dow) (NNP Jones) (NNP Industrial) (NNP Average)) (VP (VBD gained) (NP (CD 6.76) (NNS points)) (PP (TO to) (NP (CD 2603.48)) (PP (IN in) (NP (JJ light) (NN trading)))) (PP (IN after) (S (VP (VBG losing) (NP (QP (JJR more) (IN than) (CD 92)) (NNS points)) (NP (JJ last) (NN week)))))) (. .)))
+
+(S1 (S (NP (NN Bond) (NNS prices)) (VP (VBD continued) (S (VP (TO to) (VP (VB edge) (ADVP (RBR higher)) (PP (IN in) (NP (NP (NN anticipation)) (PP (IN of) (NP (NP (JJR more) (NN news)) (VP (VBG showing) (NP (DT a) (JJR slower) (NN economy))))))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (DT the) (NN dollar)) (VP (VBD rose) (ADVP (RB slightly)) (PP (IN against) (NP (JJS most) (JJ major) (NNS currencies)))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN currency) (NNS markets)))) (VP (VBD was) (PP (IN on) (NP (NP (DT the) (JJ beleaguered) (JJ British) (NN pound)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD gained) (ADVP (RB slightly)) (PP (IN against) (NP (DT the) (NN dollar))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Trading) (NN volume)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))) (VP (VBD dwindled) (PP (TO to) (NP (QP (RB only) (CD 126.6) (CD million)) (NNS shares))) (NP (NN yesterday)) (SBAR (IN as) (S (NP (JJ major) (NN brokerage) (NNS firms)) (VP (VBD continued) (S (VP (TO to) (VP (VB throw) (PRT (RP in)) (NP (DT the) (NN towel)) (PP (IN on) (NP (NN program) (NN trading)))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Kidder) (NNP Peabody)) (VP (VBD became) (NP (NP (DT the) (ADJP (RBS most) (JJ recent)) (NN firm)) (SBAR (S (VP (TO to) (VP (VBP swear) (PP (IN off) (NP (JJ stock-index) (NN arbitrage) (NN trading)))))))) (PP (IN for) (NP (PRP$ its) (JJ own) (NN account))))) (, ,) (CC and) (S (NP (NNP Merrill) (NNP Lynch)) (NP (JJ late) (NN yesterday)) (VP (VBD took) (NP (NP (DT the) (JJ major) (NN step)) (PP (IN of) (S (VP (VBG renouncing) (NP (NP (DT the) (NN trading) (NN strategy) (RB even)) (PP (IN for) (NP (PRP$ its) (NNS clients)))))))))) (. .)))
+
+(S1 (S (CC Yet) (NP (DT that)) (VP (VBD did) (RB n't) (VP (VB eliminate) (NP (NN program) (NN trading)) (PP (IN from) (NP (DT the) (NN market))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Dow) (NNS industrials)) (VP (VBD shot) (ADVP (RB up) (NP (CD 23) (NNS points))) (PP (IN in) (NP (DT the) (VBG opening) (NN hour))) (, ,) (PP (ADVP (IN at) (JJS least)) (IN in) (NP (NP (NN part)) (PP (RB because) (IN of) (NP (NP (NN buy) (NNS programs)) (VP (VBN generated) (PP (IN by) (NP (NP (NN stock-index) (NN arbitrage)) (, ,) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NN program) (NN trading))) (VP (VBG involving) (NP (NNS futures) (NNS contracts)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NN interest)) (VP (VBD waned) (SBAR (IN as) (S (S (NP (DT the) (NN day)) (VP (VBD wore) (ADVP (RB on)))) (CC and) (S (NP (NNS investors)) (VP (VBD looked) (ADVP (RB ahead)) (PP (TO to) (NP (NP (DT the) (NN release)) (NP (RB later) (DT this) (NN week)) (PP (IN of) (NP (CD two) (JJ important) (JJ economic) (NNS reports)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ first)) (VP (VBZ is) (NP (NP (NP (NNP Wednesday) (POS 's)) (NN survey)) (PP (IN of) (NP (VBG purchasing) (NNS managers))) (, ,) (VP (VBN considered) (S (NP (NP (DT a) (JJ good) (NN indicator)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (NP (DT the) (NN nation) (POS 's)) (NN manufacturing) (NN sector)) (VP (VBD fared) (PP (IN in) (NP (NNP October)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ other)) (VP (VBZ is) (NP (NP (NP (NNP Friday) (POS 's)) (NN measure)) (PP (IN of) (NP (NNP October) (NN employment)))) (, ,) (NP (NP (DT an) (NN indicator)) (PP (IN of) (NP (NP (DT the) (JJR broader) (NN economy) (POS 's)) (NN health))))) (. .)))
+
+(S1 (S (NP (DT Both)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB show) (NP (NP (JJ continued) (NN sluggishness)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD would) (VP (VB be) (ADJP (JJ good) (PP (IN for) (NP (NP (NNS bonds)) (CC and) (NP (NP (JJ bad)) (PP (IN for) (NP (NNS stocks))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ major) (NN market) (NN activity))) (: :) (NP (NNP Stock) (NNS prices)) (VP (VBD rose) (PP (IN in) (NP (JJ light) (NN trading)))) (. .)))
+
+(S1 (S (CC But) (S (NP (NP (VBG declining) (NNS issues)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))) (VP (VBD outnumbered) (NP (NNS gainers)) (ADVP (CD 774) (TO to) (CD 684)))) (, ,) (CC and) (S (NP (JJR broader) (NN market) (NNS indexes)) (VP (VBD were) (ADJP (RB virtually) (JJ unchanged)))) (. .)))
+
+(S1 (S (NP (NN Bond) (NNS prices)) (VP (VBN crept) (ADVP (RBR higher))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Treasury) (POS 's)) (NN benchmark) (JJ 30-year) (NN bond)) (VP (VBD gained) (NP (NP (QP (RB about) (DT an) (NN eighth))) (PP (IN of) (NP (NP (DT a) (NN point)) (, ,) (CC or) (NP (NP (QP (RB about) ($ $) (CD 1.25))) (PP (IN for) (NP (DT each) (ADJP ($ $) (CD 1,000)) (NN face) (NN amount)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN yield)) (PP (IN on) (NP (DT the) (NN issue)))) (VP (VBD slipped) (PP (TO to) (NP (CD 7.92) (NN %)))) (. .)))
+
+(S1 (S (NP (DT The) (NN dollar)) (VP (VBN gained)) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ late) (NNP New) (NNP York) (NN trading))) (NP (DT the) (NN dollar)) (VP (VBD was) (VP (VBN quoted) (PP (IN at) (NP (NP (CD 1.8340) (NNS marks)) (CC and) (NP (CD 141.90) (NN yen)))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (NP (CD 1.8300) (NNS marks)) (CC and) (NP (CD 141.65) (NNS yen))) (NP (NNP Friday))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ British) (NN pound)) (, ,) (VP (VBN pressured) (PP (IN by) (NP (NP (NP (JJ last) (NN week) (POS 's)) (NNS resignations)) (PP (IN of) (NP (JJ key) (NNP Thatcher) (NN administration) (NNS officials)))))) (, ,)) (ADVP (RB nevertheless)) (VP (VBD rose) (NP (NNP Monday)) (PP (TO to) (NP ($ $) (CD 1.5820))) (PP (IN from) (NP (NP (NNP Friday) (POS 's)) ($ $) (CD 1.5795)))) (. .)))
+

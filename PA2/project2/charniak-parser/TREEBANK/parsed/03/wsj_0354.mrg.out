@@ -1,0 +1,34 @@
+(S1 (S (NP (NNP Avery) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD completed) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NNP Uniroyal) (NNP Chemical) (NNP Holding) (NNP Co.))) (PP (TO to) (NP (NP (DT a) (NN group)) (VP (VBN led) (PP (IN by) (NP (NN management)))))) (PP (IN of) (NP (NP (NNP Uniroyal) (NNP Chemical) (NNP Co.)) (, ,) (NP (NP (DT the) (NN unit) (POS 's)) (JJ main) (NN business))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD valued) (NP (DT the) (NN transaction)) (PP (IN at) (NP (QP ($ $) (CD 800) (CD million))))) (. .)))
+
+(S1 (S (NP (NP (NNP Avery)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ continues) (S (VP (TO to) (VP (VB operate) (NP (NP (DT a) (NN coal) (NN company)) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB sell) (PP (IN at) (NP (DT a) (NN loss)))))))))))))))) (, ,)) (VP (VBD said) (PP (IN in) (NP (NN proxy) (NNS materials))) (SBAR (S (NP (PRP it)) (VP (VBZ intends) (S (VP (TO to) (VP (VB seek) (NP (NP (NN control)) (PP (IN of) (NP (QP (CD one) (CC or) (JJR more)) (NNS companies))))))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (NNS fees)) (CC and) (NP (NP (NN repayment)) (PP (IN of) (NP (NN debt)))))) (, ,) (NP (NNP Avery)) (VP (VBZ is) (VP (VBN left) (PP (IN with) (NP (NP (QP (RB about) ($ $) (CD 24) (CD million))) (PP (IN in) (NP (NP (NN cash)) (CC and) (NP (NP (NNS securities)) (PP (IN from) (NP (DT the) (NNP Uniroyal) (NN sale)))))))))) (. .)))
+
+(S1 (S (NP (NNP Avery)) (VP (VBD paid) (NP (NP (QP ($ $) (CD 750) (CD million))) (, ,) (PP (VBG including) (NP (JJ various) (JJ legal) (CC and) (NN financing) (NNS fees))) (, ,) (SBAR (S (VP (TO to) (VP (VB acquire) (NP (NP (NNP Uniroyal) (NNP Chemical)) (, ,) (NP (NP (NNP Middlebury)) (, ,) (NP (NNP Conn.))) (, ,)) (PP (IN in) (NP (CD 1986))) (: --) (NP (NP (DT a) (NN move)) (SBAR (WHNP (IN that)) (S (VP (VBN burdened) (NP (NNP Avery)) (PP (IN with) (NP (NN debt))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ over-the-counter) (NN trading))) (, ,) (NP (NNP Avery) (NNS shares)) (VP (VBD were) (VP (VBN quoted) (NP (NN yesterday)) (PP (IN at) (NP (NP (DT a) (NN bid) (NN price)) (PP (IN of) (NP (NP (CD 93.75) (NNS cents)) (NP (DT a) (NN share)))))))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NNP Avery)))) (, ,) (PP (IN for) (NP (NP (DT the) (NN year)) (VP (VBN ended) (NP (NNP Sept.) (CD 30) (, ,) (CD 1988))))) (, ,) (NP (NNP Uniroyal) (NNP Chemical)) (VP (VBD had) (NP (NP (NP (NNS sales)) (PP (IN of) (NP (QP ($ $) (CD 734.2) (CD million))))) (CC and) (NP (NP (DT a) (JJ net) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 47.1) (CD million))))))) (. .)))
+
+(S1 (S (NP (DT An) (NNP Avery) (NN spokesman)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (DT the) (NN loss)) (VP (VBD was) (VP (VBN magnified) (PP (IN by) (NP (NN accounting) (NNS adjustments))))))) (CC and) (SBAR (IN that) (S (NP (NP (DT the) (NN company) (POS 's)) (NN loss)) (VP (VBD was) (ADJP (ADJP (JJR smaller)) (PP (IN on) (NP (DT a) (NN cash) (NN basis))))))))) (. .)))
+
+(S1 (S (NP (NNP Uniroyal)) (VP (VBZ has) (NP (NP (CD 2,600) (NNS employees)) (CC and) (NP (NP (NNS facilities)) (PP (IN in) (NP (DT the) (NNP U.S.) (, ,) (NNP Canada) (, ,) (NNP Brazil) (, ,) (NNP Italy) (CC and) (NNP Taiwan)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (JJ related) (NN development))) (, ,) (NP (NNP Avery)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD completed) (NP (NP (DT a) (NN recapitalization)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NP (NP (PRP$ its) (VBG controlling) (NNS shareholders)) (CC and) (NP (JJ top) (NNS officers))) (, ,) (NP (NP (NNP Nelson) (NNP Peltz)) (CC and) (NP (NNP Peter) (NNP W.) (NNP May))) (, ,)) (VP (VBD surrendered) (NP (NP (NNS warrants)) (CC and) (NP (VBN preferred) (NN stock))))))) (PP (IN in) (NP (NP (NN exchange)) (PP (IN for) (NP (NP (DT a) (JJR larger) (NN stake)) (PP (IN in) (NP (NP (NNP Avery) (POS 's)) (JJ common) (NNS shares))))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT a) (ADJP (RB fully) (VBN diluted)) (NN basis))) (, ,) (NP (DT the) (CD two)) (VP (VBD raised) (NP (PRP$ their) (NN stake)) (PP (TO to) (NP (CD 68) (NN %))) (PP (IN from) (NP (CD 51) (NN %)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP December) (CD 1988))) (, ,) (NP (NNPS Messrs.) (NNP Peltz) (CC and) (NNP May)) (VP (VBD sold) (NP (NP (PRP$ their) (NN stock)) (PP (IN in) (NP (NP (NNP Triangle) (NNPS Industries) (NNP Inc.)) (, ,) (NP (NP (DT a) (NN packaging) (NN company)) (SBAR (S (NP (PRP they)) (VP (VBD controlled))))) (, ,)))) (PP (TO to) (NP (NP (NNP Pechiney) (NNP Corp.)) (PP (IN of) (NP (NNP France)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS executives)) (VP (VBD had) (VP (VBD profited) (ADVP (RB handsomely)) (PP (IN by) (S (VP (VBG building) (NP (NP (NNP American) (NNP National) (NN Can) (NNP Co.)) (, ,) (NP (NP (NNP Triangle) (POS 's)) (NN chief) (NN asset)))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP January) (CD 1989))) (, ,) (NP (DT the) (CD two) (NNS men)) (VP (VBD acquired) (NP (NP (DT the) (JJ non-packaging) (NNS assets)) (PP (IN of) (NP (NNP Triangle)))) (, ,) (PP (VBG including) (NP (NP (DT a) (VBG controlling) (NN stake)) (PP (IN in) (NP (NP (NNP Avery)) (CC and) (PRN (, ,) (PP (IN by) (NP (NN extension))) (, ,)) (NP (NNP Uniroyal) (NNP Chemical))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNP August) (NN proxy) (NN material))) (, ,) (NP (NNP Avery)) (VP (VBD said) (SBAR (IN that) (S (S (SBAR (IN unless) (S (NP (PRP it)) (VP (VBD sold) (NP (NNP Uniroyal))))) (, ,) (NP (PRP$ its) (NN ability) (S (VP (TO to) (VP (VB service) (NP (NN debt)))))) (VP (MD would) (VP (VB be) (VP (VBN hurt))))) (CC and) (S (NP (NP (NNP Avery) (POS 's)) (NN shareholder) (NN value)) (VP (MD would) (`` `) (VP (`` `) (VB continue) (S (VP (TO to) (VP (VB erode)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (SBAR (IN Until) (S (NP (NNP Avery)) (VP (VBZ makes) (NP (DT an) (NN acquisition))))) (, ,) (NP (NNPS Messrs.) (NNP Peltz) (CC and) (NNP May)) (VP (MD will) (VP (VB waive) (NP (PRP$ their) (JJ direct) (NNS salaries) (CC and) (NNS bonuses))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+
+(S1 (S (PP (IN For) (NP (ADVP (IN at) (JJS least)) (DT the) (JJ next) (CD six) (NNS months))) (, ,) (ADVP (RB however)) (, ,) (NP (NNP Avery)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB pay) (NP (NP ($ $) (CD 200,000)) (NP (DT a) (NN month))) (PP (IN for) (NP (NN management) (NNS services))) (PP (TO to) (NP (NP (DT a) (NN company)) (VP (VBN controlled) (PP (IN by) (NP (NNP Messrs.) (NNP Peltz) (CC and) (NNP May)))))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NN proxy) (NN material))))))))) (. .)))
+

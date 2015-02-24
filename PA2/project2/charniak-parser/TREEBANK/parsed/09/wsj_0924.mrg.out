@@ -1,0 +1,14 @@
+(S1 (S (NP (NNP Dominion) (NN Textile) (NNP Inc.) (NNS holders)) (VP (VBD adopted) (NP (DT a) (JJ shareholder-rights) (NN plan)) (PP (IN at) (NP (DT the) (JJ annual) (NN meeting)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ so-called) (NN poison) (NN pill)) (VP (VBD took) (NP (NN effect)) (NP (NNP Aug.) (CD 9)) (PP (VBG pending) (NP (NP (NN ratification)) (PP (IN by) (NP (NNS holders)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Rights)) (VP (VBN attached) (PP (TO to) (NP (NP (DT the) (NN company) (POS 's)) (JJ common) (NNS shares))))) (VP (VBD were) (VP (VBN issued) (SBAR (IN that) (S (VP (VBP are) (VP (VBN triggered) (SBAR (IN if) (S (NP (DT a) (JJ hostile) (NN bidder)) (VP (VBZ acquires) (NP (NP (QP (JJR more) (IN than) (CD 20)) (NN %)) (PP (IN of) (NP (NP (DT the) (NNS shares)) (ADJP (JJ outstanding)))))))))))))) (. .)))
+
+(S1 (S (SBAR (RB Once) (S (VP (VBN triggered)))) (, ,) (NP (DT the) (NNS rights)) (VP (VBP allow) (S (NP (NNS holders)) (VP (TO to) (VP (VB buy) (NP (JJ additional) (NNS shares)) (PP (PP (IN at) (NP (NP (CD 50) (NN %)) (PP (IN of) (NP (DT the) (RB then) (JJ current) (NN market) (NN price))))) (CC or) (PRN (, ,) (PP (IN at) (NP (NP (DT the) (NN board) (POS 's)) (NN discretion))) (, ,))) (S (VP (TO to) (VP (VB receive) (NP (NNS securities) (CC or) (NNS assets))))))))) (. .)))
+
+(S1 (S (ADVP (RB Separately)) (, ,) (NP (NNP Dominion) (JJ Textile)) (VP (VBD posted) (NP (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP (QP (CD 4.7) (CD million)) (JJ Canadian) (NNS dollars)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 4) (CD million))) (-RRB- -RRB-))))) (, ,) (CC or) (NP (NP (CD 12) (JJ Canadian) (NNS cents)) (NP (DT a) (NN share)))) (, ,) (PP (IN for) (NP (NP (DT the) (JJ fiscal-first) (NN quarter)) (VP (VBN ended) (NP (NNP Sept.) (CD 30)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD had) (NP (NP (DT a) (JJ net) (NN loss)) (PP (IN of) (NP (NNP C)))) (NP (NP (QP ($ $) (CD 2.3) (CD million))) (, ,) (CC or) (NP (NP (CD 14) (JJ Canadian) (NNS cents)) (NP (DT a) (NN share))) (, ,) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD were) (VP (SYM C) (NP (NP (QP ($ $) (CD 348.2) (CD million))) (PP (VBN compared) (PP (IN with) (NP (NNP C)) (NP (NP ($ $) (CD 307.2)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))) (. .)))
+

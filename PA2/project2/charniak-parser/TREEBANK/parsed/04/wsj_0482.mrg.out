@@ -1,0 +1,16 @@
+(S1 (S (NP (NP (NNP Mercury) (NNP Savings) (CC &) (NNP Loan) (NNP Association)) (, ,) (NP (NP (NNP Huntington) (NNP Beach)) (, ,) (NP (NNP Calif.))) (, ,)) (VP (VBD reported) (NP (NP (DT a) (JJ third-quarter) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 3.9) (CD million))) (, ,) (CC or) (NP (NP (CD 61) (NNS cents)) (NP (DT a) (NN share))))) (, ,) (PP (VBN compared) (PP (IN with) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP (QP ($ $) (CD 1.4) (CD million))) (, ,) (CC or) (NP (NP (CD 22) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN in) (NP (DT the) (JJ year-earlier) (NN quarter)))))))) (. .)))
+
+(S1 (S (NP (NNP Mercury)) (VP (VBD attributed) (NP (DT the) (NN loss)) (PP (TO to) (NP (NP (JJ rapid) (NNS prepayments)) (PP (IN of) (NP (NP (NNS loans)) (CC and) (NP (NP (NNS costs)) (VP (VBN incurred) (PP (IN in) (S (VP (VBG refinancing) (NP (JJ many) (NN house) (NNS loans)) (NP (NP (DT this) (JJ past) (NN spring) (CC and) (NN summer)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NN interest) (NNS rates)) (VP (VBD dipped))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN thrift)) (VP (VBD hired) (NP (DT an) (NN investment) (NN banker)) (NP (RBR earlier) (DT this) (NN month)) (S (VP (TO to) (VP (VB advise) (NP (PRP it)) (PP (VBG regarding) (NP (NP (DT a) (JJ possible) (NN sale)) (CC or) (NP (NN merger)))))))) (. .)))
+
+(S1 (S (NP (NNP Mercury)) (ADVP (RB also)) (VP (VBZ is) (VP (VBG shrinking) (NP (PRP itself)) (, ,) (NP (NP (NN part)) (PP (IN of) (NP (PRP$ its) (NN plan) (S (VP (TO to) (VP (VB change) (NP (PRP$ its) (NN emphasis)) (PP (IN from) (S (VP (VBG buying) (NP (NN mortgage) (NNS loans)) (PP (PP (IN from) (NP (NN mortgage) (NNS brokers))) (PP (TO to) (S (VP (VBG making) (NP (NNS loans)) (ADVP (RB directly))))))))))))))))) (. .)))
+
+(S1 (SINV (S (NP (PDT Such) (DT a) (NN focus)) (VP (VP (VBZ is) (`` `) (ADJP (`` `) (ADJP (RBR more) (JJ profitable)) (, ,) (ADJP (RBR more) (JJ efficient)))) (CC and) (VP (VBZ gives) (NP (PRP us)) (NP (NP (DT a) (JJR greater) (NN sense)) (PP (IN of) (NP (NN control))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP William) (NNP A.) (NNP Shane)) (, ,) (NP (NP (NNP Mercury) (POS 's)) (JJ senior) (JJ executive) (NN vice) (NN president))) (. .)))
+
+(S1 (S (PP (IN As) (PP (IN of) (NP (NNP Sept.) (CD 30)))) (, ,) (NP (NP (NNP Mercury) (POS 's)) (NNS assets)) (VP (VBD were) (NP (NP (QP ($ $) (CD 2.25) (CD billion))) (, ,) (ADVP (RB down) (PP (IN from) (NP (QP ($ $) (CD 2.62) (CD billion))) (ADVP (NP (DT a) (NN year)) (RB ago)))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (CD nine) (NNS months))) (, ,) (NP (NNP Mercury)) (VP (VBD posted) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (NP (QP ($ $) (CD 5.4) (CD million))) (, ,) (CC or) (NP (NP (CD 86) (NNS cents)) (NP (NN share))) (, ,)))) (PP (IN against) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP (QP ($ $) (CD 4) (CD million))) (, ,) (CC or) (NP (NP (CD 63) (NNS cents)) (NP (NN share))) (, ,))) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+
+(S1 (S (NP (NNP Mercury) (NNS shares)) (VP (VBD closed) (NP (NN yesterday)) (PP (IN at) (NP ($ $) (CD 4.625))) (, ,) (ADVP (RB up) (NP (CD 50) (NNS cents))) (, ,) (PP (IN in) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))) (. .)))
+

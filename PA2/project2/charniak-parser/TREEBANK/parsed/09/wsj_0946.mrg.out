@@ -1,0 +1,68 @@
+(S1 (S (NP (NP (JJ Legal) (NNS controversies)) (PP (IN in) (NP (NNP America)))) (VP (VBP have) (NP (NP (DT a) (NN way)) (PP (IN of) (S (VP (VBG assuming) (NP (DT a) (JJ symbolic) (NN significance)) (PP (RB far) (S (VP (VBG exceeding) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ particular) (NN case))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP speak) (NP (NP (NNS volumes)) (PP (IN about) (NP (NP (DT the) (NN state)) (PP (IN of) (NP (PRP$ our) (NN society)))))) (PP (IN at) (NP (DT a) (VBN given) (NN moment)))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ has) (ADVP (RB always)) (VP (VBN been) (ADJP (RB so)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNS 1920s))) (, ,) (NP (NP (DT a) (JJ young) (NN schoolteacher)) (, ,) (NP (NNP John) (NNP T.) (NNP Scopes)) (, ,)) (VP (VBD volunteered) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN guinea) (NN pig)) (PP (IN in) (NP (NP (DT a) (NN test) (NN case)) (VP (VBN sponsored) (PP (IN by) (NP (DT the) (NNP American) (NNP Civil) (NNPS Liberties) (NNP Union))) (S (VP (TO to) (VP (VB challenge) (NP (NP (DT a) (NN ban)) (PP (IN on) (NP (NP (DT the) (NN teaching)) (PP (IN of) (NP (NN evolution))) (VP (VBN imposed) (PP (IN by) (NP (DT the) (NNP Tennessee) (NN Legislature)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN result)) (VP (VBD was) (S (NP (DT a) (JJ world-famous) (NN trial)) (VP (VBG exposing) (NP (NP (JJ profound) (JJ cultural) (NNS conflicts)) (PP (IN in) (NP (NNP American) (NN life)))) (PP (IN between) (NP (DT the) (`` `) (NX (`` `) (NX (JJ smart) (NN set)) (, ,) ('' ')) ('' ') (SBAR (WHNP (WP$ whose) (NN spokesman)) (S (VP (VBD was) (NP (NP (NNP H.L.) (NNP Mencken)) (, ,) (CC and) (NP (NP (DT the) (JJ religious) (NNS fundamentalists)) (, ,) (SBAR (WHNP (WP whom)) (S (NP (NNP Mencken)) (VP (VBN derided) (PP (IN as) (NP (JJ benighted) (NNS primitives)))))))))))))))) (. .)))
+
+(S1 (S (S (NP (JJ Few)) (ADVP (RB now)) (VP (VBP recall) (NP (DT the) (JJ actual) (NN outcome)))) (: :) (S (S (NP (NNP Scopes)) (VP (VBD was) (VP (VP (VBN convicted)) (CC and) (VP (VBN fined) (NP ($ $) (CD 100)))))) (, ,) (CC and) (S (NP (PRP$ his) (NN conviction)) (VP (VBD was) (VP (VBN reversed) (PP (IN on) (NP (NN appeal))) (SBAR (IN because) (S (NP (DT the) (NN fine)) (VP (VBD was) (ADJP (JJ excessive)) (PP (IN under) (NP (NNP Tennessee) (NN law)))))))))) (. .)))
+
+(S1 (S (RB So) (NP (PRP it)) (VP (VBD was) (PP (IN with) (NP (DT the) (NNP Hiss) (NN case))) (ADVP (NP (DT a) (NN generation)) (RB later)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Alger) (NNP Hiss)) (VP (VBD became) (NP (NP (DT a) (NN lightning) (NN rod)) (PP (IN for) (NP (NP (NP (DT the) (NNS anxieties)) (PP (IN of) (NP (DT the) (NNP Cold) (NNP War)))) (CC and) (NP (NP (JJ conflicting) (NNS attitudes)) (PP (IN toward) (NP (DT the) (NNP New) (NNP Deal))))))) (SBAR (S (NP (PRP he)) (VP (VBD had) (VP (VBN served))))))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NNS trials)) (VP (VBN aroused) (NP (JJ public) (NNS passions)) (PP (IN out) (PP (IN of) (NP (NP (DT all) (NN proportion)) (PP (TO to) (NP (NP (DT the) (RB rather) (JJ banal) (NNS secrets)) (SBAR (S (NP (PRP he)) (ADVP (RB allegedly)) (VP (VBD had) (VP (VBN passed) (PP (TO to) (NP (NNP Soviet) (NN intelligence))))))))))))) (. .)))
+
+(S1 (S (CC And) (ADVP (RB so)) (NP (PRP it)) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (PP (IN with) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NP (NNP Elizabeth) (NNP Morgan)) (, ,) (NP (NP (DT the) (NAC (NNP Washington) (, ,) (NNP D.C.) (, ,)) (NN plastic) (NN surgeon)) (VP (VBN jailed) (PP (IN in) (NP (NP (DT a) (NN child) (NN custody) (NN case)) (PP (IN for) (S (VP (VBG refusing) (S (VP (TO to) (VP (VB reveal) (NP (NP (DT the) (NN whereabouts)) (PP (IN of) (NP (PRP$ her) (NN daughter)))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Dr.) (NNP Morgan)) (VP (VBZ has) (ADVP (RB just)) (VP (VBN emerged) (PP (IN from) (NP (NP (NP (DT the) (NNP D.C.) (NN jail)) (PP (IN after) (NP (QP (JJR more) (IN than) (CD two)) (NNS years)))) (: ') (NP (NP (NN confinement)) (PP (IN for) (NP (NN contempt))) (PP (IN of) (NP (NN court)))) (, ,) (NP (NP (DT a) (NN heroine)) (PP (TO to) (NP (PRP$ her) (JJ many) (NNS supporters)))))))) (. .)))
+
+(S1 (S (PP (TO To) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (PRP us))))) (, ,) (NP (DT the) (NN case)) (VP (VBZ is) (NP (DT a) (NN puzzle))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (SBAR (WHNP (WP what)) (S (NP (NNS lawyers)) (VP (VBP call) (S (`` `) (NP (`` `) (NN fact) (JJ intensive))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (VP (VBZ presents) (NP (NP (DT no) (JJ great) (NN issue)) (PP (IN of) (NP (JJ legal) (NN principle)))) (, ,) (NP (NP (DT no) (JJ overriding) (NN question)) (PP (IN of) (NP (NP (NN family) (NN law)) (CC or) (NP (NP (DT the) (NN law)) (PP (IN of) (NP (NN contempt)))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (, ,) (NP (PRP it)) (VP (VBZ turns) (PP (IN on) (NP (NP (DT the) (ADJP (JJ disputed) (CC and) (JJ elusive)) (NNS facts)) (PP (IN of) (`` `) (SBARQ (`` `) (WHNP (WP who)) (SQ (VP (VBD did) (NP (WP what)) (PP (TO to) (NP (WP whom))))) (. .) ('' ')) ('' ')))))))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (ADJP (JJ difficult)) (, ,) (CONJP (IN if) (RB not)) (ADJP (JJ impossible)) (, ,) (SBAR (IN for) (S (NP (NP (NN anyone)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (RB not) (VP (VBN pored) (PP (IN over) (NP (NP (DT the) (NNS thousands)) (PP (IN of) (NP (NP (NNS pages)) (PP (IN of) (NP (NN court) (NNS pleadings) (CC and) (NNS transcripts)))))))))))) (VP (TO to) (VP (VB have) (NP (NP (DT a) (JJ worthwhile) (NN opinion)) (PP (IN on) (NP (NP (DT the) (VBG underlying) (NNS merits)) (PP (IN of) (NP (DT the) (NN controversy)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Certainly)) (NP (PRP I)) (VP (VBP do) (RB not)) (. .)))
+
+(S1 (S (IN So) (NP (PRP we)) (VP (MD must) (VP (VB look) (ADVP (RB elsewhere)) (PP (IN for) (NP (NP (DT an) (NN explanation)) (PP (IN of) (NP (NP (DT the) (JJ unusual) (NN power)) (SBAR (S (NP (DT this) (NN case)) (VP (VBZ has) (VP (VBN exerted) (UCP (PP (IN over) (NP (NP (DT the) (NNS minds)) (PP (IN of) (NP (JJ many))))) (, ,) (CONJP (RB not) (RB just)) (PP (IN in) (NP (NNP Washington))) (CC but) (ADVP (RB elsewhere) (PP (IN in) (NP (NP (DT the) (NN country)) (CC and) (NP (RB even) (DT the) (NN world)))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP suggest) (SBAR (IN that) (S (NP (CD three) (NNS themes)) (VP (VBP have) (VP (VBN come) (PRT (RP together)) (PP (IN in) (NP (NP (DT the) (JJ strange) (NN case)) (PP (IN of) (NP (NNP Dr.) (NNP Morgan)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ first)) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ represents) (NP (NP (DT an) (JJ intense) (NN battle)) (PP (IN in) (SBAR (WHNP (WP what)) (S (NP (NNP James) (NNP Thurber)) (VP (VBD used) (S (VP (TO to) (VP (VB caricature) (PP (IN as) (`` `) (NP (NP (`` `) (DT the) (NN war)) (PP (IN between) (NP (DT the) (NNS sexes))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (SBAR (IN although) (S (NP (NNP Thurber)) (VP (VBD did) (ADVP (RB so)) (ADVP (RB gently) (CC and) (RB lightheartedly))))) (, ,) (NP (NP (JJ many)) (PP (IN of) (NP (NP (NNP Dr.) (NNP Morgan) (POS 's)) (NNS supporters)))) (VP (VBP have) (VP (VBN taken) (S (NP (NP (NNP Thurber) (POS 's)) (JJ memorable) (NN title)) (`` `) (NP (`` `) (NP (DT The) (JJ Male) (NN Animal)) ('' ')) ('' ')) (ADVP (RB quite) (RB literally)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN vehemence)) (PP (IN of) (NP (NP (DT the) (NNS emotions)) (VP (VBN aroused) (PP (IN by) (NP (DT the) (NN case))))))) (VP (VBZ testifies) (PP (TO to) (NP (NP (PRP$ its) (JJ symbolic) (NN importance)) (PP (IN in) (NP (DT the) (NN war))))) (SBAR (IN that) (S (NP (NNP Thurber)) (VP (VBD accepted) (PP (IN as) (NP (NP (DT an) (JJ eternal) (NN part)) (PP (IN of) (NP (DT the) (JJ human) (NN condition))))))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ second) (NN theme)) (VP (VBZ is) (NP (NP (DT the) (NN undercurrent)) (PP (IN of) (NP (NP (JJ social) (NN class)) (CC and) (NP (NN race))))) (PP (IN in) (NP (NP (DT the) (JJ public) (NN reaction)) (PP (TO to) (NP (DT the) (NNP Morgan) (NN case)))))) (. .)))
+
+(S1 (S (NP (NNP Dr.) (NNP Morgan)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB highly) (VBN educated)) (JJ white) (NN professional)) (SBAR (WHNP (WP who)) (S (VP (VBD attended) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (`` `) (ADJP (`` `) (ADJP (JJS best)) ('' ')) ('' ') (NNS schools))))))))) (. .)))
+
+(S1 (SQ (SBAR (IN As) (S (NP (NP (NNS members)) (PP (IN of) (NP (NP (DT the) (NNP Black) (NNP Caucus)) (PP (IN in) (NP (NNP Congress)))))) (VP (VBD asked) (PP (IN during) (NP (NP (DT the) (NN debate)) (PP (IN on) (NP (NP (DT the) (NN legislation)) (SBAR (WHNP (WDT that)) (S (VP (VBD freed) (NP (NNP Dr.) (NNP Morgan)))))))))))) (, ,) (VBZ does) (NP (NN anyone)) (ADVP (RB seriously)) (VP (VB believe) (SBAR (IN that) (S (SBAR (IN if) (S (NP (PRP she)) (VP (VBD were) (NP (DT an) (JJ uneducated) (, ,) (JJ black) (, ,) (JJ working-class) (NN woman))))) (, ,) (NP (NNP Congress)) (VP (MD would) (VP (VB have) (VP (VBN rushed) (S (VP (TO to) (VP (VB pass) (NP (NP (DT a) (JJ private) (NN relief) (NN bill)) (VP (VBG freeing) (NP (PRP her))))))))))))) (. ?)))
+
+(S1 (FRAG (CC Or) (SBAR (IN that) (S (NP (DT the) (NN president)) (VP (MD would) (VP (VB have) (ADJP (JJ hurried) (S (VP (TO to) (VP (VB sign) (NP (DT the) (NN bill)) (`` `) (PP (`` `) (RB out) (IN of) (NP (NP (NNP compassion)) (PP (IN for) (NP (PRP$ her) (NN plight)))) ('' ')) ('' '))))))))) (. ?)))
+
+(S1 (S (S (VP (TO To) (VP (VB ask) (NP (DT those) (NNS questions))))) (VP (VBZ is) (S (VP (TO to) (VP (VB answer) (NP (PRP them)))))) (. .)))
+
+(S1 (S (ADVP (RB Finally)) (, ,) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NNP Dr.) (NNP Morgan)))) (VP (VBD gave) (NP (NNP Congress)) (NP (DT an) (NN opportunity) (S (VP (VP (TO to) (VP (VB act) (PP (IN with) (NP (JJ unaccustomed) (NN decisiveness))))) (CC and) (VP (TO to) (VP (VB engage) (PP (IN in) (NP (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (JJ favorite) (NNS pastimes)))) (: --) (NP (NP (NN bashing)) (NP (NP (DT the) (NNP District)) (PP (IN of) (NP (NNP Columbia) (NN government))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ local) (NN government)) (VP (VBZ is) (VP (VBN discredited) (PP (IN in) (NP (NP (DT the) (NNS eyes)) (PP (IN of) (NP (JJ many) (NNS residents))))) (PP (IN for) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS reasons)))))))) (, ,) (CC and) (S (NP (NNS congressmen)) (VP (VP (VBP read) (NP (DT the) (JJ same) (NNS newspapers))) (CC and) (VP (VBP watch) (NP (DT the) (JJ same) (NN TV) (NNS newscasts))) (SBAR (IN as) (S (NP (NP (JJ other) (NNS people)) (PP (IN in) (NP (DT the) (NN area)))) (VP (VBP do)))))) (. .)))
+
+(S1 (S (NP (NN Bashing)) (NP (DT the) (NNP D.C.) (NN government)) (VP (VBZ is) (ADJP (JJ risk-free) (PP (IN for) (NP (NP (NNS members)) (PP (IN of) (NP (NNP Congress))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP do) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB answer) (PP (TO to) (NP (PRP$ their) (JJ own) (NNS constituents))) (PP (IN for) (NP (PRP it)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Congress)) (VP (VBZ is) (VP (VBN paralyzed) (PP (IN from) (S (VP (VBG acting) (PP (IN on) (NP (NP (JJ such) (JJ great) (NNS issues)) (PP (IN of) (NP (DT the) (NN day))))) (PP (IN as) (NP (DT the) (JJ federal) (NN budget) (NN deficit)))))))) (. .)))
+
+(S1 (S (CC Yet) (NP (NP (DT a) (NN bill)) (VP (VBN tailored) (PP (TO to) (NP (NP (DT the) (NNS interests)) (PP (IN of) (NP (DT a) (JJ single) (NN individual))))))) (VP (VP (VBD passed) (NP (NNP Congress)) (PP (IN with) (NP (RB almost) (JJ unimaginable) (NN speed))) (, ,) (SBAR (IN before) (S (NP (DT the) (JJ judicial) (NN process)) (VP (VBD had) (VP (VBN run) (NP (PRP$ its) (NN course))))))) (, ,) (CC and) (, ,) (ADVP (RB indeed)) (, ,) (SBAR (IN while) (S (NP (DT the) (NNP Morgan) (NN case)) (VP (VBD was) (VP (VBG awaiting) (NP (NP (DT a) (NN ruling)) (PP (IN by) (NP (DT the) (JJ appellate) (NN court))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Morgan) (NN case)) (ADVP (RB thus)) (VP (VBZ tells) (NP (PRP us)) (ADVP (RB much) (RBR more)) (PP (IN about) (NP (NP (DT the) (JJ current) (NN state)) (PP (IN of) (NP (NN sex) (, ,) (NN class) (, ,) (NN race) (CC and) (NNS politics))))) (PP (IN in) (NP (PRP$ our) (NN society) (SBAR (IN than) (S (NP (PRP it)) (VP (VBZ does) (PP (IN about) (NP (NP (DT the) (NNS facts)) (PP (IN of) (NP (NP (NNP Dr.) (NNP Morgan) (POS 's)) (JJ particular) (NN situation))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD may) (VP (VB stand) (PP (IN as) (NP (NP (DT a) (NN metaphor)) (PP (IN for) (SBAR (WHADJP (WRB how) (JJ wide) (CC and) (JJ deep)) (S (NP (NP (DT the) (NNS divisions)) (PP (IN in) (NP (DT that) (NN society)))) (VP (VBP continue) (S (VP (TO to) (VP (VB be) (SBAR (WHADVP (WRB however)) (S (NP (PRP we)) (VP (VBP try) (S (VP (TO to) (VP (VB deny) (NP (PRP$ their) (NN existence))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Rezneck)) (VP (VBZ is) (NP (NP (DT a) (NN lawyer)) (PP (IN in) (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C)))))) (. .)))
+

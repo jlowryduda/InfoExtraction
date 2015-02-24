@@ -1,0 +1,10 @@
+(S1 (S (S (NP (NP (NNP Japan) (POS 's)) (NN steel) (NNS exports)) (VP (VP (VBD fell) (NP (CD 12.2) (NN %)) (PP (IN in) (NP (NNP September))) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (CC and) (VP (VBD were) (ADVP (RB down) (NP (CD 1.1) (NN %)) (PP (IN from) (NP (DT the) (JJ previous) (NN month))))))) (, ,) (NP (DT the) (NNP Japan) (NNP Iron) (CC and) (NNP Steel) (NNP Federation)) (VP (VBD reported)) (. .)))
+
+(S1 (S (NP (NNP September)) (VP (VBD was) (NP (NP (DT the) (JJ 10th) (JJ consecutive) (NN month)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NN steel) (NNS exports)) (VP (VBD failed) (S (VP (TO to) (VP (VB reach) (NP (DT the) (JJ year-earlier) (NN level)))))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN federation) (NN official)) (VP (VBD attributed) (NP (DT the) (NN decline)) (PP (TO to) (NP (NP (JJ brisk) (NN demand)) (PP (IN from) (NP (NP (JJ domestic) (NNS industries)) (VP (VBN backed) (PP (IN by) (S (VP (VBG continuing) (NP (NP (JJ economic) (NN expansion)) (PP (IN in) (NP (NNP Japan))))))))))))) (. .)))
+
+(S1 (S (S (NP (JJ Japanese) (NN steel) (NNS companies)) (VP (VBP are) (ADVP (RB apparently)) (VP (VBG focusing) (PP (IN on) (NP (JJ domestic) (NNS sales)))))) (, ,) (CC but) (S (NP (DT the) (NN official)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ does) (RB n't) (ADVP (RB necessarily)) (VP (VB mean) (SBAR (IN that) (S (NP (JJ local) (NNS sales) (NNS contracts)) (VP (VBP are) (VP (VBG increasing) (SBAR (IN that) (FRAG (ADVP (RB markedly)))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP They)) (VP (VBP are) (ADVP (RB just)) (ADJP (RB too) (JJ busy) (S (VP (TO to) (VP (VP (VB meet) (NP (JJ domestic) (NN demand))) (CC and) (VP (VB have) (NP (NP (JJ little) (NN room)) (PP (IN for) (NP (JJ overseas) (NNS shipments)))))))))) (, ,) ('' ')) ('' ') (NP (DT the) (NN official)) (VP (VBD said)) (. .)))
+

@@ -1,0 +1,154 @@
+(S1 (S (NP (NNP Japan)) (VP (VBZ is) (VP (VBG going) (PP (IN on) (NP (NP (DT a) (JJ capital-spending) (NN binge)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB make) (S (NP (PRP$ its) (NN trade) (NNS surpluses)) (ADJP (RB even) (JJR harder) (SBAR (S (VP (TO to) (VP (VB shrink))))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP$ Its) (NN capital) (NN spending)) (VP (VBZ is) (VP (VBG growing) (PP (IN at) (NP (NP (JJ double-digit) (NNS rates)) (PP (IN for) (NP (DT the) (JJ second) (NN year))) (PP (IN in) (NP (DT a) (NN row)))))))) (, ,) (CC and) (S (NP (NP (PRP$ its) (JJ superefficient) (NNS producers)) (PP (IN of) (NP (NP (NN everything)) (PP (IN from) (NP (NNS cars))) (PP (TO to) (NP (NN computer) (NNS chips)))))) (VP (VBP are) (VP (VBG rushing) (S (VP (TO to) (VP (VP (VB expand) (NP (NN capacity))) (, ,) (VP (VB modernize) (NP (NNS factories))) (CC and) (VP (VB develop) (NP (JJ new) (NNS products))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN boom)) (VP (VBZ 's) (ADJP (RB so) (JJ huge))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Mitsuru) (NNP Saito)) (, ,) (NP (NP (DT an) (NN economist)) (PP (IN at) (NP (NP (NNP Sanwa) (NNP Research) (NNP Institute)) (, ,) (NP (`` `) (S (`` `) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP you)) (VP (VB think) (PP (IN of) (NP (DT the) (NNP Golden) (NNS '60s)))))) (, ,) ('' ')) ('' ') (SBAR (WHADVP (WRB when)) (S (NP (NNP Japan)) (VP (VBD developed) (ADVP (RB rapidly)))))))))) (. .)))
+
+(S1 (S (S (X (X (DT The) (JJR more)) (NP (NP (NNS factories) (CC and) (NNS robots)) (SBAR (S (NP (JJ Japanese) (NNS manufacturers)) (VP (VBP add)))))) (, ,) (X (DT the) (JJR more)) (NP (PRP they)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB export)))))))) (, ,) (CC and) (S (X (DT the) (JJR less)) (NP (PRP$ their) (JJ domestic) (NNS customers)) (VP (MD will) (VP (VB need) (S (VP (TO to) (VP (VB import))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (NNP Canon) (NNP Inc.))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NNS sales)) (VP (VBP are) (ADVP (RB up) (NP (NP (NP (QP (RB nearly) (CD 20)) (NN %)) (NP (DT this) (NN year))) (PRN (: ;) (S (S (ADVP (RB so)) (, ,) (NP (NP (DT the) (NN maker)) (PP (IN of) (NP (NNS cameras) (CC and) (NN computer) (NNS printers)))) (VP (VBZ is) (VP (VBG doing) (SBAR (WHNP (WP what)) (S (NP (DT any) (JJ Japanese) (NN company)) (VP (MD would) (VP (VB do) (PP (IN under) (NP (DT the) (NNS circumstances)))))))))) (: :) (S (NP (PRP It)) (VP (VBZ is) (VP (VBG increasing) (NP (NN capital) (NN spending)))))) (: --))) (PP (IN by) (NP (CD 60) (NN %))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (VP (VBG building) (PRN (, ,) (PP (IN among) (NP (JJ other) (NNS things))) (, ,)) (NP (NP (DT a) (JJ new) (NN laser-beam-printer) (NN factory)) (PP (IN in) (NP (JJ western) (NNP Japan))) (SBAR (WHNP (WDT that)) (S (VP (MD can) (VP (VB produce) (PRT (RP up)) (PP (TO to) (NP (NP (CD 150,000) (NNS printers)) (NP (JJ next) (NN year))))))))))) (. .)))
+
+(S1 (S (NP (NP (QP (DT Some) (CD 70)) (NN %)) (PP (IN of) (NP (PRP them)))) (VP (VBP are) (S (VP (TO to) (VP (VB be) (VP (VBN exported) (PP (TO to) (NP (DT the) (NNP U.S.)))))))) (. .)))
+
+(S1 (S (NP (NP (RB Even) (NNS companies)) (PP (IN in) (NP (NP (NN smokestack) (NNS industries)) (VP (VBG wrestling) (PP (IN with) (NP (JJ world-wide) (NN overcapacity))))))) (VP (VBP are) (VP (VBG joining) (NP (DT the) (NN boom)))) (. .)))
+
+(S1 (S (NP (NP (NNP Japan) (POS 's)) (NNS steelmakers)) (VP (VBP are) (VP (VBG raising) (NP (NP (NP (NN capital) (NN spending)) (NP (CD 22) (NN %))) (NP (DT this) (NN year))) (PP (TO to) (NP (QP ($ $) (CD 4.8) (CD billion)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Hitachi) (NNP Zosen) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN shipbuilder)) (VP (VBN buried) (PP (IN in) (NP (NN debt))) (ADVP (NP (RB just) (DT a) (JJ few) (NNS years)) (RB ago)))) (, ,)) (VP (MD will) (VP (VB build) (NP (NP (DT a) (NN machinery) (NN plant)) (, ,) (NP (PRP$ its) (JJ first) (NN expansion))) (PP (IN in) (NP (CD 14) (NNS years))))) (. .)))
+
+(S1 (S (NP (RB So) (JJ big)) (VP (VBZ is) (NP (NP (DT the) (JJ capital-spending) (NN boom)) (SBAR (WHNP (WDT that)) (S (NP (NP (JJ Japanese) (NNS companies) (POS ')) (NNS outlays)) (PP (IN in) (NP (NNP Japan))) (VP (VBD topped) (NP (NP (NNP American) (NNS companies) (POS ')) (JJ domestic) (NNS outlays)) (PP (IN by) (NP (NP (QP ($ $) (CD 521.4) (CD billion) (TO to) ($ $) (CD 494.8) (CD billion))) (PP (IN in) (NP (NP (DT the) (CD 12) (NNS months)) (VP (VBN ended) (NP (NNP March) (CD 31))))))) (SBAR (RB even) (IN though) (S (NP (NP (NP (NNP Japan) (POS 's)) (JJ total) (NN output)) (PP (IN of) (NP (NNS goods) (CC and) (NNS services)))) (VP (VBZ is) (ADJP (ADJP (JJR less)) (PP (IN than) (NP (NP (NNS two-thirds)) (NP (NNP America) (POS 's))))))))))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (DT a) (JJ financial) (NN standpoint))) (, ,) (NP (DT the) (NN boom)) (VP (MD could) (RB n't) (VP (VB come) (PP (IN at) (NP (DT a) (JJR better) (NN time))))) (. .)))
+
+(S1 (S (S (NP (JJ Many) (JJ Japanese) (NNS companies)) (VP (VBP expect) (NP (JJ record) (NNS profits)) (NP (DT this) (JJ fiscal) (NN year)))) (, ,) (CC and) (S (NP (JJ Japanese) (NN interest) (NNS rates)) (, ,) (ADVP (IN though) (PP (IN up) (ADVP (NP (DT a) (NN bit)) (RB recently)))) (, ,) (VP (VBP are) (ADVP (RB still)) (ADJP (JJ low)))) (. .)))
+
+(S1 (S (CC And) (PP (IN in) (NP (NP (DT a) (NN business) (NN system)) (SBAR (WHADVP (WRB where)) (S (NP (NNS shareholders)) (VP (VP (VB have) (NP (JJ few) (NNS rights))) (CC and) (VP (VB expect) (NP (RB only) (JJ modest) (NNS dividends)))))))) (, ,) (NP (NNS companies)) (VP (MD can) (VP (VB plow) (NP (PRP$ their) (NNS profits)) (ADVP (RB back) (PP (IN into) (NP (NN plant) (CC and) (NN equipment)))))) (. .)))
+
+(S1 (S (CC But) (NP (DT some) (NX (NX (NNS economists)) (CC and) (NX (NN government) (NNS officials)))) (ADVP (RB here)) (VP (VBP are) (RB n't) (VP (VBG applauding))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP fear) (SBAR (IN that) (S (S (NP (DT the) (NN boom)) (VP (MD may) (VP (VB be) (ADJP (RB too) (JJ big) (PP (IN for) (NP (NNP Japan) (POS 's))))))) (CC or) (S (NP (NN anyone) (JJ else)) (VP (VBZ 's) (ADJP (JJ good))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT an) (JJ explosive) (NN cocktail) (POS ')) ('' ') (VP (VBN thrown) (PP (IN at) (NP (DT the) (NN world))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Kenneth) (NNP Courtis)) (, ,) (NP (NP (JJ senior) (NN economist)) (PP (IN at) (NP (NP (DT the) (NNP Tokyo) (NN unit)) (PP (IN of) (NP (NNP Deutsche) (NNP Bank) (NNP Group))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP Ministry)) (PP (IN of) (NP (NNP International) (NNP Trade) (CC and) (NNP Industry)))) (VP (VBZ is) (ADJP (RB so) (JJ concerned)) (SBAR (IN that) (S (NP (PRP it)) (ADVP (RB recently)) (VP (VBD took) (NP (NP (DT the) (JJ unusual) (NN step)) (PP (IN of) (S (VP (VBG urging) (NP (JJ Japanese) (NN auto) (NNS companies)) (S (VP (TO to) (VP (VB exercise) (NP (NN caution)) (PP (IN in) (NP (NN capital) (NN spending)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP MITI) (NNS officials)) (VP (VBP hope) (S (VP (TO to) (VP (VB avoid) (NP (NP (JJ yet-another) (NN source)) (PP (IN of) (NP (NN trade) (NN friction)))) (PP (IN with) (NP (DT the) (NNP U.S.))) (SBAR (RB even) (IN though) (S (NP (NN export) (NNS restraints)) (ADVP (RB currently)) (VP (VBP limit) (NP (NP (JJ Japanese) (NN car) (NNS exports)) (PP (TO to) (NP (DT the) (NNP U.S.))))))))))) (. .)))
+
+(S1 (S (NP (RB Not) (NN everyone)) (VP (VBZ is) (ADJP (JJ worried)) (, ,) (ADVP (RB however))) (. .)))
+
+(S1 (S (NP (NP (DT Some) (NNS economists)) (: --) (CC and) (NP (JJ many) (JJ Japanese) (NNS companies)) (: --)) (VP (VBP are) (VP (VBD puzzled) (PP (IN by) (NP (DT the) (NNS warnings))))) (. .)))
+
+(S1 (S (NP (DT The) (NN investment) (NN boom)) (VP (VP (VBZ is) (VP (ADVP (RB mainly)) (VBN sparked) (PRN (, ,) (S (NP (PRP they)) (VP (VBP say))) (, ,)) (PP (IN by) (NP (JJ strong) (JJ domestic) (NN demand))))) (CC and) (VP (VBZ is) (RB n't) (ADJP (JJ likely) (S (VP (TO to) (VP (VB increase) (NP (NNS exports)) (ADVP (RB sharply)))))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (JJ much) (NN investment)) (VP (VBZ is) (RB n't) (VP (VBN aimed) (PP (IN at) (NP (JJ increasing) (NN capacity))))) (. .)))
+
+(S1 (S (S (PP (VBG According) (PP (TO to) (NP (NP (DT a) (NN survey)) (PP (IN of) (NP (DT some) (CD 2,400) (JJ large) (NNS companies))) (PP (IN by) (NP (DT the) (NNP Japan) (NNP Development) (NNP Bank)))))) (, ,) (NP (JJ expanded) (NN capacity)) (VP (VBZ is) (NP (NP (DT the) (NN goal)) (PP (IN of) (NP (NP (QP (RB just) (CD 51.8)) (NN %)) (PP (IN of) (NP (DT the) (NNS outlays)))))))) (: ;) (S (PP (IN for) (NP (NP (NNS manufacturers)) (ADVP (RB alone)))) (, ,) (NP (DT the) (NN figure)) (VP (VBZ is) (NP (CD 32) (NN %)))) (. .)))
+
+(S1 (S (NP (DT The) (NNS manufacturers)) (VP (VBD said) (SBAR (S (NP (NP (CD 14.2) (NN %)) (PP (IN of) (NP (PRP$ their) (NN spending)))) (VP (VBZ is) (VP (VBN designed) (S (VP (TO to) (VP (VP (VB improve) (NP (NNS products))) (CC or) (VP (VB add) (NP (JJ new) (NNS ones))) (, ,) (SBAR (S (S (S (NP (CD 17.5) (NN %)) (VP (VBZ is) (S (VP (TO to) (VP (VB cut) (NP (NNS costs))))))) (, ,) (NP (CD 12.5) (NN %)) (VP (VBZ is) (PP (IN for) (NP (NN research) (CC and) (NN development))))) (, ,) (CC and) (S (NP (DT the) (NN rest)) (VP (VBZ is) (PP (IN for) (NP (UCP (NN maintenance) (CC and) (JJ other)) (NNS purposes))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNS worriers)) (VP (VBP remain) (ADJP (JJ unconvinced))) (. .)))
+
+(S1 (S (PP (IN With) (S (NP (NNP Japan)) (VP (VBG running) (NP (JJ enormous) (NN trade) (NNS surpluses)) (PP (IN against) (NP (NP (JJ much)) (PP (IN of) (NP (DT the) (NN world)))))))) (, ,) (NP (PRP they)) (VP (VBP think) (SBAR (IN that) (S (NP (NNP Japan)) (VP (MD should) (VP (VB meet) (NP (DT the) (VBN increased) (JJ domestic) (NN demand)) (PP (IN by) (S (VP (VBG importing) (NP (JJR more)))))))))) (. .)))
+
+(S1 (S (CC And) (ADVP (RB eventually)) (PRN (, ,) (S (NP (PRP they)) (VP (VBP contend))) (, ,)) (NP (JJ domestic) (NN demand)) (VP (MD will) (VP (VB weaken) (, ,) (S (VP (VBG forcing) (S (NP (NNS companies)) (VP (TO to) (VP (VB emphasize) (NP (NNS exports)) (ADVP (RB again))))))))) (. .)))
+
+(S1 (S (`` `) (`` `) (SBAR (IN If) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (JJ further) (NN drive)) (S (VP (TO to) (VP (VB export))))))) (PRN (, ,) ('' ') ('' ') (S (VP (VBZ says) (NP (NP (NNP Nobuyuki) (NNP Arai)) (, ,) (NP (NP (DT an) (NN economist)) (PP (IN at) (NP (DT the) (NNP Japan) (NNP Development) (NNP Bank))))))) (, ,) (`` `)) (`` `) (NP (DT that)) (VP (MD 'll) (VP (VB be) (NP (DT a) (NN problem)))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (ADVP (RB Even)) (IN in) (NP (DT the) (JJ short) (NN run))) (, ,) (S (NP (DT the) (NN investment) (NN boom)) (VP (MD could) (VP (VB exacerbate) (NP (DT a) (JJ disturbing) (NN trend))))) (: :) (S (NP (JJ Japanese) (NNS exports)) (VP (VBP are) (VP (VBG showing) (NP (ADJP (RB surprisingly) (JJ little)) (NN tendency) (S (VP (TO to) (VP (VB ease)))))))) (. .)))
+
+(S1 (S (NP (JJ Japanese) (NN auto) (NNS makers)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBP are) (VP (VBG increasing) (NP (NP (PRP$ their) (NN production) (NN capacity)) (PP (IN in) (NP (DT the) (NNP U.S.)))))) (: ;) (S (NP (DT the) (JJ additional) (NN production)) (VP (MD should) (PRN (, ,) (PP (IN in) (NP (NN part))) (, ,)) (VP (VB replace) (NP (VBN imported) (NNS vehicles)) (PP (IN with) (NP (RB locally) (VBN manufactured) (NNS ones)))))) (. .)))
+
+(S1 (S (S (CC But) (SBAR (IN although) (S (NP (JJ Japanese) (NNS companies)) (VP (VBD increased) (NP (NP (PRP$ their) (NNP U.S.) (NN auto) (NN output)) (PP (IN by) (NP (CD 42) (NN %))) (PP (IN from) (NP (NNP January)))) (PP (TO to) (NP (NNP September))) (PP (VBN compared) (PP (IN with) (NP (DT the) (JJ year-earlier) (NN period))))))) (, ,) (NP (NP (PRP$ their) (NNS exports)) (PP (TO to) (NP (DT the) (NNP U.S.)))) (VP (MD will) (VP (VB drop) (NP (QP (RB only) (CD 9)) (NN %)) (NP (DT this) (NN year))))) (, ,) (NP (NNP Nikko) (NNP Research) (NNP Center)) (VP (NNS estimates)) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN contrast)) (PP (TO to) (NP (JJ previous) (JJ economic) (NNS booms))))) (, ,) (NP (JJ Japanese) (NN auto) (NNS companies)) (VP (VBP are) (RB n't) (ADVP (RB just)) (VP (VBG trying) (S (VP (TO to) (VP (VB boost) (NP (NN production))))))) (. .)))
+
+(S1 (S (NP (JJ Many)) (VP (VBP are) (VP (VBG pouring) (NP (NN money)) (PP (IN into) (S (VP (VBG developing) (NP (JJ high-quality) (NNS products))))) (S (VP (VP (TO to) (VP (VB target) (NP (JJ affluent) (NNS consumers)))) (CC and) (PRN (, ,) (PP (TO to) (NP (DT some) (NN extent))) (, ,)) (VP (TO to) (VP (VB avoid) (NP (NP (JJ direct) (NN combat)) (PP (IN with) (NP (NP (JJR cheaper) (NNS cars)) (PP (IN from) (NP (NP (NNP South) (NNP Korea)) (CC and) (NP (NNP Taiwan))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Others)) (VP (VBP are) (VP (VBG replacing) (NP (JJR older) (NNS facilities)) (PP (IN with) (NP (NP (JJ flexible) (NN assembly) (NNS lines)) (SBAR (WHPP (IN on) (WHNP (WDT which))) (S (NP (JJ different) (NNS models)) (VP (MD can) (VP (VB be) (VP (VBN turned) (PRT (RP out)) (PP (IN at) (NP (RB once)))))))))))) (. .)))
+
+(S1 (S (RB So) (NP (JJ many) (NNS companies)) (VP (VBP are) (VP (VBG investing) (PP (IN in) (NP (NP (JJ high-tech) (NN machinery)) (SBAR (WHNP (WDT that)) (S (NP (NP (NNP Fanuc) (NNP Ltd.)) (, ,) (NP (DT a) (NN robot) (NN maker)) (, ,)) (ADVP (RB also)) (VP (VBD had) (S (VP (TO to) (VP (VB build) (NP (DT a) (JJ new) (NN plant)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN buildup)) (VP (VBZ is) (SBAR (`` `) (S (`` `) (S (VP (VBG making) (S (NP (NNP Japan)) (ADJP (ADJP (RB clearly) (RBR more) (JJ efficient)) (, ,) (ADJP (JJR more) (RB technologically) (JJ advanced)) (CC and) (ADJP (RBR more) (JJ competitive)))))) (, ,) ('' ') ('' ') (VP (VBZ declares) (NP (NP (DT a) (JJ Western) (NN diplomat)) (PP (IN in) (NP (NNP Tokyo)))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (WHNP (WDT whatever)) (FRAG (NP (NP (PRP$ its) (NNS effects)) (PP (IN on) (NP (NNS exports) (CC and) (NNS imports)))))) (, ,) (NP (NP (NP (NNP Japan) (POS 's)) (NN investment) (NN boom)) (PP (IN during) (NP (DT the) (JJ past) (CD two) (NNS years)))) (VP (VBZ has) (VP (VBN been) (VP (VBN stimulated) (PP (ADVP (ADVP (IN at) (JJS least)) (RB partly)) (IN by) (NP (VBG soaring) (JJ domestic) (NN demand)))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Japan) (POS 's)) (NNP marathon) (NN economy)) (, ,) (PP (VBG growing) (PP (IN at) (NP (NP (CD 4.3) (NN %)) (NP (DT this) (NN year))))) (, ,) (VP (VBZ is) (ADVP (RB now)) (PP (IN in) (NP (NP (PRP$ its) (JJ 35th) (NN month)) (PP (IN of) (NP (NN expansion))))))) (, ,) (CC and) (S (NP (DT some) (NNS economists)) (VP (VBP are) (VP (VBG betting) (SBAR (IN that) (S (NP (DT the) (NN boom)) (VP (MD will) (VP (VB outlast) (NP (NP (DT the) (JJ record) (JJ 57-month) (NN expansion)) (PP (IN in) (NP (DT the) (JJ late) (NNS 1960s))))))))))) (. .)))
+
+(S1 (S (NP (JJ Japanese) (NNS consumers)) (VP (VBP are) (ADVP (RB increasingly)) (ADJP (JJ eager) (S (VP (TO to) (VP (VB spend) (NP (PRP$ their) (NN money)))))) (, ,) (PP (ADVP (RB especially)) (IN on) (NP (NP (JJ high-priced) (NNS goods)) (PP (JJ such) (IN as) (NP (NP (JJ 29-inch) (NN television) (NNS sets)) (CC and) (NP (NN luxury) (NNS cars))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Nissan) (NNP Motor) (NNP Co.) (POS 's)) (JJ domestic) (NN auto) (NNS sales)) (VP (VBP are) (ADVP (RB up) (NP (CD 20) (NN %))) (SBAR (ADVP (NP (DT this) (NN year)) (RB largely)) (IN because) (S (NP (PRP$ its) (JJ expensive) (NNP Cima) (, ,) (NNP Sylvia) (CC and) (NNP Cefiro) (NNS models)) (VP (VBP are) (PP (IN in) (NP (JJ heavy) (NN demand))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (CD One) (NN dealer)) (VP (VBD told) (NP (PRP me)) (SBAR (IN that) (S (SBAR (IN if) (S (NP (PRP he)) (VP (VBD had) (NP (JJR more) (NNS cars))))) (, ,) (NP (PRP he)) (VP (MD 'd) (VP (VB sell) (NP (PRP them)) (ADVP (RB right) (RB away))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Takuro) (NNP Endo)) (, ,) (NP (NNP Nissan) (JJ executive) (NN vice) (NN president))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ adds) (SBAR (IN that) (S (NP (DT the) (NN company)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (NP (NN demand)) (`` `) (ADJP (`` `) (RB by) (JJ overworking) ('' ')) ('' '))) (NP (PRP$ its) (NNS employees)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Similarly)) (, ,) (NP (NP (NNP Honda) (NNP Motor) (NNP Co.) (POS 's)) (NNS sales)) (VP (VBP are) (ADJP (ADJP (RB so) (JJ brisk)) (SBAR (IN that) (S (NP (NNS workers)) (VP (VBP grumble) (SBAR (S (NP (PRP they)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (DT a) (NNP Saturday)) (ADVP (RB off)) (PP (IN in) (NP (NNS years))) (, ,) (PP (IN despite) (NP (NP (NP (DT the) (NN government) (POS 's)) (NN encouragement)) (PP (IN of) (NP (JJR more) (NN leisure) (NN activity)))))))))))))) (. .)))
+
+(S1 (S (PP (IN With) (S (NP (NN demand)) (VP (VBG growing) (NP (CC and) (NP (NNS workers))) (PP (IN in) (NP (JJ short) (NN supply)))))) (, ,) (NP (JJ many) (JJ Japanese) (NNS manufacturers)) (VP (VBP are) (VP (VBG spending) (ADVP (RB heavily)) (PP (IN on) (NP (NN automation))))) (. .)))
+
+(S1 (SINV (PP (IN Among) (NP (PRP them))) (VP (VP (VBP are) (NP (NP (DT the) (NNS shipbuilders)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (VP (VBN halved) (NP (PRP$ their) (NN shipyard) (NN work) (NNS forces)) (S (VP (TO to) (VP (VB cut) (NP (NNS costs)) (PP (IN during) (NP (NP (DT a) (JJ prolonged) (NN slump)) (PP (IN in) (NP (NN demand)))))))))))))) (CC but) (VP (ADVP (RB now)) (VBP are) (VP (VBG capturing) (NP (NP (DT an) (VBN increased) (NN share)) (PP (IN of) (NP (DT the) (VBG strengthening) (JJ global) (NN market))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Sasebo) (NNP Heavy) (NNP Industries) (NNP Co.)) (, ,) (NP (DT a) (JJ medium-sized) (NN shipbuilder)) (, ,)) (VP (VBZ expects) (S (NP (PRP$ its) (NNS sales)) (VP (TO to) (VP (VB increase) (NP (CD 30) (NN %)) (NP (DT this) (NN year))))) (, ,) (PP (ADVP (RB largely)) (IN because) (IN of) (NP (NP (VBG rising) (NN demand)) (PP (IN for) (NP (NN oil) (NNS tankers)))))) (. .)))
+
+(S1 (S (SBAR (RB Once) (S (NP (CD one) (JJ Japanese) (NN company)) (VP (VBZ steps) (PRT (RP up)) (NP (PRP$ its) (NNS investments))))) (, ,) (NP (DT the) (JJ whole) (NN industry)) (VP (VBZ follows)) (. .)))
+
+(S1 (S (SBAR (IN Because) (S (NP (JJS most) (NNS businesses)) (VP (VBP put) (NP (NN market) (NN share)) (PP (IN above) (NP (NN profitability)))))) (, ,) (S (VP (TO to) (VP (VB let) (S (NP (NP (NP (DT a) (NN competitor) (POS 's)) (NN addition)) (PP (TO to) (NP (NN capacity)))) (VP (VB go) (VP (VBN unmatched))))))) (VP (VBZ is) (S (VP (TO to) (VP (VB concede) (NP (NN defeat)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN emphasis)) (PP (IN on) (NP (NN market) (NN share)))) (VP (VBZ is) (ADJP (JJ evident)) (PP (IN at) (NP (NP (NNP Daikin) (NNPS Industries) (NNP Ltd.)) (, ,) (NP (NP (NP (NNP Japan) (POS 's)) (JJS biggest) (NN maker)) (PP (IN of) (NP (JJ industrial) (NN air) (NNS conditioners))))))) (. .)))
+
+(S1 (S (S (VP (VBG Seeing) (S (S (NP (JJ new) (NN office) (NNS buildings)) (VP (VB sprout) (PRT (RP up)))) (CC and) (S (NP (PRP$ its) (NNS sales)) (VP (VB soar)))))) (, ,) (NP (NNP Daikin)) (VP (VBZ is) (VP (VBG building) (NP (NP (DT another) (NN plant)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB lift) (NP (NP (PRP$ its) (NN production) (NN capacity)) (ADJP (CD 50) (NN %)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN expansion)) (VP (VBZ is) (VP (VBN aimed) (PP (CONJP (RB not) (RB just)) (PP (IN at) (S (VP (VBG meeting) (NP (NN demand))))) (CONJP (CC but) (RB also)) (PP (IN at) (S (VP (VBG expanding) (NP (NP (DT the) (NN company) (POS 's)) (NN market) (NN share)) (PP (TO to) (NP (CD 30) (NN %))) (PP (IN from) (NP (NP (CD 27) (NN %)) (ADVP (RB currently)))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Besides)) (, ,) (NP (NP (NP (NNP Daikin) (POS 's)) (JJ major) (NNS competitors)) (, ,) (NP (NP (NNP Hitachi) (NNP Ltd.)) (CC and) (NP (NNP Mitsubishi) (NNP Heavy) (NNPS Industries) (NNP Ltd.))) (, ,)) (`` `) (VP (`` `) (VBP are) (RB all) (VP (VBG adding) (NP (NN production) (NNS lines))))) (, ,) ('' ') ('' ') (NP (DT a) (NNP Daikin) (NN spokesman)) (VP (VBZ says)) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (PP (IN Until) (ADVP (RB now))) (, ,) (NP (PRP we)) (VP (VBD were) (VP (VBG trying) (S (VP (TO to) (VP (VB increase) (NP (NN productivity)) (PP (IN with) (NP (NP (DT the) (NNS facilities)) (SBAR (S (NP (PRP we)) (ADVP (RB already)) (VP (VBD had)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB produce) (NP (RB enough)) (ADVP (RB anymore)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN competition)) (VP (VBZ is) (ADJP (ADVP (RB even) (RBR more)) (JJ heated) (PP (IN in) (NP (NP (DT the) (NN auto) (NN industry)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS companies)) (VP (VBP are) (VP (VBG racing) (NP (NP (CD one) (DT another)) (PP (IN in) (NP (DT a) (JJ world-wide) (NN market)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Nissan)) (VP (VBZ aims) (S (VP (TO to) (VP (VB expand) (NP (NP (PRP$ its) (ADJP (CD 25) (NN %)) (NN share)) (PP (IN of) (NP (DT the) (NN market)))) (PP (TO to) (NP (CD 30) (NN %))) (PP (IN by) (S (VP (VBG spending) (NP (QP ($ $) (CD 141) (CD million))) (PP (IN on) (NP (NP (DT a) (NN plant)) (PP (IN in) (NP (JJ southern) (NNP Japan))) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB make) (NP (NP (QP (RB as) (JJ many) (IN as) (CD 240,000)) (NNS cars)) (NP (DT a) (NN year)))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (S (NP (NP (NNP Toyota) (NNP Motor) (NNP Corp.) (POS 's)) (ADJP (QP ($ $) (CD 247) (CD million))) (NN buildup)) (VP (VBZ is) (VP (VBG increasing) (NP (NP (PRP$ its) (JJ annual) (NN capacity)) (PP (IN by) (NP (CD 180,000) (NNS cars))))))) (, ,) (CC and) (S (NP (NNP Honda)) (VP (VBZ is) (VP (VBG spending) (NP (QP ($ $) (CD 317) (CD million))) (PP (IN on) (NP (NN expansion)))))) (. .)))
+
+(S1 (S (S (NP (NNP Mazda) (NNP Motor) (NNP Corp.)) (VP (VBZ is) (ADVP (RB still)) (VP (VBG considering) (NP (PRP$ its) (NNS options))))) (, ,) (CC but) (S (NP (PRP it)) (ADVP (RB boldly)) (VP (VBZ aims) (S (VP (TO to) (VP (VB double) (NP (NP (PRP$ its) (JJ annual) (JJ domestic) (NNS sales)) (TO to) (NP (CD 800,000) (NNS cars))) (PP (IN in) (NP (DT the) (JJ next) (CD four) (NNS years)))))))) (. .)))
+
+(S1 (S (NP (NP (DT Those)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (RB n't) (ADJP (JJ worried) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (NP (JJ Japanese) (NNS manufacturers) (POS ')) (NNS investments)) (VP (MD will) (VP (VB affect) (NP (NN trade)))))))))))) (VP (VBP note) (SBAR (IN that) (S (NP (JJ many) (JJ new) (NNS products)) (VP (VBP are) (RB n't) (NP (NP (NNS replacements)) (PP (IN for) (NP (NNS imports)))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNS imports)) (VP (VBP account) (PP (IN for) (NP (NP (QP (JJR less) (IN than) (CD 1)) (NN %)) (PP (IN of) (NP (NP (NN beer) (NNS sales)) (PP (IN in) (NP (NNP Japan)))))))))) (, ,) (NP (NP (NNP Asahi) (NNS Breweries) (NNP Ltd.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (VP (VBG gaining) (NP (NN share)) (PP (IN with) (NP (PRP$ its) (JJ popular) (JJ dry) (NN beer)))))))) (, ,)) (VP (VBZ plans) (S (VP (TO to) (VP (VB fend) (PRT (RP off)) (NP (JJ Japanese) (NNS competitors)) (PP (IN by) (S (VP (VBG pouring) (NP (QP ($ $) (CD 1.06) (CD billion))) (PP (IN into) (NP (NP (NNS facilities)) (SBAR (S (VP (TO to) (VP (VB brew) (NP (ADJP (NP (CD 50) (NN %)) (JJR more)) (NN beer))))))))))))))) (. .)))
+
+(S1 (S (CC But) (S (NP (NN new-product) (NN development)) (VP (MD will) (VP (VB make) (S (NP (JJ Japanese) (NNS companies)) (ADJP (JJR stronger)))))) (, ,) (CC and) (S (NP (NP (JJ big) (NNS investments)) (PP (IN in) (NP (NP (`` `) (ADJP (`` `) (JJ domestic) ('' ')) ('' ') (NNS industries)) (PP (JJ such) (IN as) (NP (NN beer)))))) (VP (MD will) (VP (VB make) (S (NP (PRP it)) (ADJP (RB even) (JJR tougher)) (SBAR (IN for) (S (NP (JJ foreign) (NNS competitors)) (VP (TO to) (VP (VB crack) (NP (DT the) (JJ Japanese) (NN market)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Moreover)) (, ,) (NP (NP (JJ much)) (PP (IN of) (NP (DT the) (NN investment) (NN boom)))) (VP (VBZ is) (PP (IN in) (NP (NP (JJ high-tech) (NNS fields)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (S (NP (JJ Japanese) (NNS companies)) (VP (VBP have) (ADVP (RB only)) (VP (VBN limited) (NP (JJ foreign) (NN competition))))) (: ;) (S (ADVP (RB so)) (, ,) (NP (JJR more) (NN investment)) (ADVP (RB practically)) (VP (VBZ assures) (NP (JJR more) (NNS exports))))))))) (. .)))
+
+(S1 (S (NP (NNP Toshiba) (NNP Corp.)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBZ is) (VP (VBG spending) (NP (QP ($ $) (CD 986) (CD million))) (PP (IN on) (NP (CD two) (JJ new) (NNS plants))) (S (VP (TO to) (VP (VB build) (NP (NP (JJ four-megabit) (JJ dynamic) (JJ random) (NN access) (NNS memories)) (, ,) (NP (NP (DT the) (JJ next) (NN generation)) (PP (IN of) (NP (NN computer) (NNS chips)))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN product)) (VP (VBZ is) (RB n't) (ADJP (RB widely) (JJ used)) (ADVP (RB yet)))) (, ,) (CC but) (S (NP (NP (NNP Toshiba)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (ADVP (RB already)) (VP (VBN beaten) (NP (NP (NN everyone)) (ADJP (JJ else) (PP (IN in) (S (VP (VBG producing) (NP (DT the) (JJ current-generation) (JJ one-megabit) (NNS DRAMs))))))))))) (, ,)) (VP (VBZ believes) (SBAR (IN that) (S (NP (PRP$ its) (JJ early) (NN investment)) (VP (MD will) (VP (VB heighten) (NP (NP (PRP$ its) (NNS chances)) (PP (IN of) (S (VP (VBG beating) (NP (PRP$ its) (NNS competitors)) (ADVP (RB again)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ important)) (S (VP (TO to) (VP (VB gain) (NP (NN leadership))))))) (, ,) ('' ') ('' ') (NP (DT a) (NNP Toshiba) (NN spokesman)) (VP (VBZ says)) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (NP (NNP Toshiba) (POS 's)) (JJ Japanese) (NNS rivals)) (, ,) (NP (NP (NNP Hitachi) (, ,) (NNP Fujitsu) (NNP Ltd.)) (CC and) (NP (NNP NEC) (NNP Corp.))) (, ,)) (VP (VBP are) (RB n't) (VP (VBG sitting) (ADVP (RB still)))) (. .)))
+
+(S1 (S (PP (IN After) (S (VP (VBG doubling) (NP (NP (NN production)) (PP (IN in) (NP (CD one) (NN plant))))))) (, ,) (NP (NNP NEC)) (VP (VBZ is) (VP (VBG spending) (NP (QP ($ $) (CD 275) (CD million))) (S (VP (TO to) (VP (VB build) (NP (NP (DT another) (NN plant)) (SBAR (WHNP (WDT that)) (S (, ,) (PP (IN in) (NP (CD two) (NNS years))) (, ,) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB make) (NP (NP (QP (DT a) (CD million)) (JJ four-megabit) (NNS DRAMs)) (NP (DT a) (NN year))))))))))))))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (JJ new) (NN chip) (NNS plants)) (`` `) (VP (`` `) (VP (MD wo) (RB n't) (VP (VB be) (NP (JJ excessive) (NN investment)))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Hajime) (NNP Sasaki)) (, ,) (NP (DT an) (NNP NEC) (NN vice) (NN president))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VB have) (NP (NP (JJ enough) (NNS products)) (SBAR (S (S (VP (TO to) (VP (VB make)))) (CC and) (S (NP (DT the) (NNS markets)) (VP (TO to) (VP (VB sell) (NP (DT these) (NNS products))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (DT Some)) (PP (IN of) (NP (NP (NNP Japan) (POS 's)) (NNS goods))) (VP (VBG being) (VP (VBN produced) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (DT the) (NN investment) (NN boom)))))))) (VP (VBP are) (ADVP (RB already)) (ADJP (JJ successful)) (ADVP (RB overseas))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Toyota) (POS 's)) (ADJP ($ $) (CD 35,000)) (NNP Lexus) (NN automobile)) (, ,) (NP (NP (DT a) (NN luxury) (NN model)) (SBAR (WHNP (WDT that)) (S (NP (PRP it)) (VP (VBD started) (S (VP (VBG shipping) (PP (TO to) (NP (DT the) (NNP U.S.))))) (NP (RB only) (JJ last) (NN month)))))) (, ,)) (VP (VBZ is) (VP (VBG racking) (PRT (RP up)) (NP (NNS orders)) (PP (IN at) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (JJ U.S.-made) (NN luxury-car) (NNS sales)) (VP (VBP are) (ADJP (JJ slow))))))))) (. .)))
+
+(S1 (S (NP (NNP Toyota)) (VP (VBZ plans) (S (VP (TO to) (VP (VB raise) (NP (NNP Lexus) (NNS exports)) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ new) (NN plant)) (VP (VBZ starts) (PRT (RP up)) (NP (JJ next) (NN year))))))))) (. .)))
+
+(S1 (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP$ its) (NNS sales)) (VP (VBP weaken) (ADVP (RB someday))))) (. ?)))
+
+(S1 (S (NP (JJ Japanese) (NNS companies)) (VP (VBP have) (NP (DT a) (NN caveat) (NN competitor) (NN attitude))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (JJ excess) (NN capacity)) (VP (VBZ develops)))) (PRN (, ,) (S (NP (PRP they)) (VP (VBP say))) (, ,)) (NP (RB not) (NN everyone)) (VP (MD will) (VP (VB suffer))) (. .)))
+
+(S1 (S (S (NP (DT The) (NNS losers)) (VP (MD will) (VP (VB be) (NP (NP (DT those)) (PP (IN with) (NP (DT the) (ADJP (JJS least) (JJ attractive)) (NNS products))))))) (, ,) (CC and) (S (NP (NP (JJ many)) (PP (IN of) (NP (PRP them))) (PRN (, ,) (S (NP (NNS analysts)) (VP (VBP think))) (, ,))) (VP (MD will) (VP (VB be) (NP (JJ foreign) (NNS companies))))) (. .)))
+

@@ -1,0 +1,114 @@
+(S1 (S (NP (NNP Exxon) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ third-quarter) (NNS earnings)) (VP (VBD slipped) (NP (CD 9) (NN %)) (SBAR (IN as) (S (NP (NP (NNS profits)) (PP (IN from) (NP (NP (CD two)) (PP (IN of) (NP (PRP$ its) (CD three) (JJ major) (NNS businesses)))))) (VP (VBD sagged)))))))) (. .)))
+
+(S1 (S (S (NP (NP (DT All) (NN cleanup) (NNS costs)) (PP (IN from) (NP (NP (JJ last) (NN spring) (POS 's)) (JJ Alaskan) (NN oil) (NN spill)))) (VP (VBD were) (VP (VBN reflected) (PP (IN in) (NP (JJR earlier) (NNS results)))))) (, ,) (NP (PRP it)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NP (NNP Phillips) (NNP Petroleum) (NNP Co.)) (CC and) (NP (NNP Atlantic) (NNP Richfield) (NNP Co.))) (ADVP (RB also)) (VP (VBD reported) (NP (NP (NNS declines)) (PP (IN in) (NP (JJ quarterly) (NN profit)))) (, ,) (SBAR (IN while) (S (NP (NNP Ashland) (NNP Oil) (NNP Inc.)) (VP (VBD posted) (NP (NP (DT a) (NN loss)) (PP (IN for) (NP (DT the) (JJS latest) (NN quarter)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Amerada) (NNP Hess) (NNP Corp.)) (CC and) (NP (NNP Occidental) (NNP Petroleum) (NNP Corp.))) (VP (VBD reported) (NP (JJR higher) (NNS earnings))) (. .)))
+
+(S1 (NP (NNP Exxon)))
+
+(S1 (S (SBAR (IN Although) (S (NP (NNP Exxon)) (VP (VBD spent) (ADVP (RB heavily)) (PP (IN during) (NP (DT the) (JJS latest) (NN quarter))) (S (VP (TO to) (VP (VB clean) (PRT (RP up)) (NP (NP (DT the) (JJ Alaskan) (NN shoreline)) (VP (VBN blackened) (PP (IN by) (NP (PRP$ its) (JJ huge) (NN oil) (NN spill))))))))))) (, ,) (NP (NP (DT those) (NNS expenses)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (DT a) (JJ continuing) (JJ spill-related) (NN program))))) (VP (VBP are) (VP (VBN covered) (PP (IN by) (NP (NP (QP ($ $) (CD 880) (CD million))) (PP (IN in) (NP (NP (NNS charges)) (VP (VBN taken) (PP (IN during) (NP (DT the) (JJ first) (NN half)))))))))) (. .)))
+
+(S1 (S (NP (DT An) (NNP Exxon) (NN official)) (VP (VBD said) (SBAR (IN that) (S (PP (IN at) (NP (DT this) (NN time))) (NP (DT the) (NN oil) (NN company)) (VP (VBZ does) (RB n't) (VP (VB anticipate) (NP (NP (DT any) (JJ additional) (NNS charges)) (PP (TO to) (NP (JJ future) (NNS earnings))) (VP (VBG relating) (PP (TO to) (NP (NP (DT the) (NN cleanup)) (PP (IN of) (NP (NP (NN oil)) (VP (VBD spilled) (SBAR (WHADVP (WRB when)) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (NNS tankers)))) (VP (VBD rammed) (PP (IN into) (NP (DT an) (NN underwater))) (NP (NNP reef))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD added) (, ,) (ADVP (RB however)) (, ,) (SBAR (IN that) (S (NP (NP (NNS charges)) (VP (ADVP (RB already)) (VBN taken))) (VP (VBP do) (RB n't) (VP (VB take) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (JJ potential) (NN effect)) (PP (IN of) (NP (NP (NN litigation)) (VP (VBG involving) (NP (DT the) (NN oil) (NN spill))))))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD said) (SBAR (S (NP (DT that) (NN impact)) (VP (MD ca) (RB n't) (VP (VB be) (VP (ADVP (RB reasonably)) (VBN assessed) (ADVP (RB yet)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Exxon) (POS 's)) (JJ net) (NN income)) (PP (IN during) (NP (DT the) (JJ third) (NN quarter))) (VP (VBD dropped) (PP (TO to) (NP (NP (QP ($ $) (CD 1.11) (CD billion))) (, ,) (CC or) (NP (NP (CD 87) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 1.22) (CD billion))) (, ,) (CC or) (NP (NP (CD 93) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (NP (CD 8.1) (NN %)) (, ,) (PP (TO to) (NP (QP ($ $) (CD 23.65) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 21.88) (CD billion))))) (. .)))
+
+(S1 (S (PP (IN During) (NP (DT the) (JJ third) (NN quarter))) (, ,) (NP (NNP Exxon)) (VP (VBD purchased) (NP (NP (QP (CD 8.34) (CD million)) (NNS shares)) (PP (IN of) (NP (PRP$ its) (NN stock)))) (PP (IN at) (NP (NP (DT a) (NN cost)) (PP (IN of) (NP (QP ($ $) (CD 373) (CD million))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Exxon) (POS 's)) (NN profitability)) (, ,) (PP (IN like) (NP (NP (DT that)) (PP (IN of) (NP (JJ many) (JJ other) (NN oil) (NNS companies))))) (, ,) (VP (VBD was) (VP (VBN hurt) (PP (IN during) (NP (DT the) (JJ third) (NN quarter))) (PP (IN by) (NP (NP (VBG declining) (NNS returns)) (PP (IN from) (NP (DT the) (NNS chemicals) (CC and) (NN refining) (CC and) (NN marketing) (NNS businesses))))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Exxon) (POS 's)) (NNS earnings)) (PP (IN from) (NP (NNS chemicals) (NNS operations)))) (VP (VBD fell) (NP (QP ($ $) (CD 90) (CD million))) (, ,) (PP (TO to) (NP (QP ($ $) (CD 254) (CD million)))) (, ,) (SBAR (IN while) (S (NP (NN refining) (CC and) (NN marketing) (NNS profits)) (VP (VBD declined) (NP (QP ($ $) (CD 180) (CD million))) (, ,) (PP (TO to) (NP (QP ($ $) (CD 357) (CD million)))))))) (. .)))
+
+(S1 (SINV (S (SBAR (IN Although) (S (NP (JJ crude) (NN oil) (NNS prices)) (VP (VBD were) (ADJP (RB significantly) (JJR higher)) (NP (DT this) (NN year))))) (, ,) (NP (PRP they)) (VP (VBD were) (RB n't) (ADJP (JJ strong) (RB enough) (S (VP (TO to) (VP (VB offset) (NP (DT the) (VBG declining) (NNS profits)))))) (PP (IN in) (NP (DT those) (NN business) (NNS sectors))) (PP (IN at) (NP (JJS most) (NN oil) (NNS companies))))) (, ,) (VP (VBD said)) (NP (NP (NNP William) (NNP Randol)) (, ,) (NP (NP (NN oil) (NN analyst)) (PP (IN for) (NP (NNP First) (NNP Boston) (NNP Corp))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ estimates) (SBAR (IN that) (S (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NP (NNP West) (NNP Texas) (NNP Intermediate)) (, ,) (NP (DT the) (NNP U.S.) (NN benchmark) (NN crude)) (, ,)))) (VP (VBD was) (ADJP (ADJP (NP (NP ($ $) (CD 4.04)) (NP (DT a) (NN barrel))) (JJR higher) (PP (IN during) (NP (NP (DT the) (JJ third) (NN quarter)) (PP (IN of) (NP (DT this) (NN year)))))) (PP (IN than) (PP (IN in) (NP (NP (DT the) (JJ same) (NN period)) (NP (JJ last) (NN year)))))))))) (. .)))
+
+(S1 (NP (NNP Ashland) (NNP Oil)))
+
+(S1 (S (NP (NP (DT A) (NN rash)) (PP (IN of) (NP (JJ one-time) (NNS charges)))) (VP (VBD left) (NP (NNP Ashland) (NNP Oil)) (PP (IN with) (NP (NP (DT a) (NN loss)) (PP (IN of) (NP (QP ($ $) (CD 39) (CD million)))) (PP (IN for) (NP (PRP$ its) (JJ fiscal) (JJ fourth) (NN quarter)))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (NN year)) (RBR earlier)) (, ,) (NP (DT the) (NN refiner)) (VP (VBD earned) (NP (NP (QP ($ $) (CD 66) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.19)) (NP (DT a) (NN share))))) (. .)))
+
+(S1 (S (NP (JJ Quarterly) (NN revenue)) (VP (VBD rose) (NP (CD 4.5) (NN %)) (, ,) (PP (TO to) (NP (QP ($ $) (CD 2.3) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 2.2) (CD billion))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (NN year))) (, ,) (NP (JJ net) (NN income)) (VP (VBD tumbled) (NP (CD 61) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 86) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.55)) (NP (DT a) (NN share)))))) (. .)))
+
+(S1 (S (NP (DT The) (NAC (NNP Ashland) (, ,) (NNP Ky.) (, ,)) (NN oil) (NN company)) (VP (VBD reported) (NP (NP (DT a) (ADJP (QP ($ $) (CD 38) (CD million))) (NN charge)) (VP (VBG resulting) (PP (IN from) (NP (NP (NN settlement)) (PP (IN of) (NP (NP (DT a) (JJ 10-year) (NN dispute)) (PP (IN with) (NP (DT the) (NNP National) (NNP Iranian) (NNP Oil) (NNP Co.))) (PP (IN over) (NP (NP (NNS claims)) (SBAR (WHNP (IN that)) (S (NP (NNP Ashland)) (VP (VBD did) (RB n't) (VP (VB pay) (PP (IN for) (NP (NP (JJ Iranian) (NN crude)) (SBAR (S (NP (PRP it)) (VP (VBD had) (VP (VBN received)))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP September))) (, ,) (NP (NNP Ashland)) (VP (VBD settled) (NP (DT the) (JJ long-simmering) (NN dispute)) (PP (IN by) (S (VP (VBG agreeing) (S (VP (TO to) (VP (VB pay) (NP (NNP Iran)) (NP (QP ($ $) (CD 325) (CD million)))))))))) (. .)))
+
+(S1 (S (NP (NNP Ashland)) (ADVP (RB also)) (VP (VBD took) (NP (NP (DT a) (ADJP (QP ($ $) (CD 25) (CD million))) (JJ after-tax) (NN charge)) (SBAR (S (VP (TO to) (VP (VB cover) (NP (NP (VBN anticipated) (NNS costs)) (SBAR (S (VP (TO to) (VP (VB correct) (NP (NP (NNS problems)) (PP (IN with) (NP (NP (NNS boilers)) (VP (VBN built) (PP (IN by) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (NNS subsidiaries)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN oil) (NN refiner)) (ADVP (RB also)) (VP (VBD booked) (NP (NP (DT a) (ADJP (QP ($ $) (CD 15) (CD million))) (NN charge)) (PP (IN for) (S (VP (VBG selling) (NP (NP (NNP Ashland) (NNP Technology) (NNP Corp.)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ its) (NNS subsidiaries)))) (, ,)) (PP (IN at) (NP (DT a) (NN loss)))))))) (. .)))
+
+(S1 (NP (NNP Amerada) (NNP Hess)))
+
+(S1 (S (NP (NP (JJ Third-quarter) (NNS earnings)) (PP (IN at) (NP (NNP Amerada) (NNP Hess)))) (VP (ADVP (RBR more) (IN than)) (VBD tripled) (PP (TO to) (NP (NP (QP ($ $) (CD 51.81) (CD million))) (, ,) (CC or) (NP (NP (CD 64) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 15.7) (CD million))) (, ,) (CC or) (NP (NP (CD 20) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD climbed) (NP (CD 28) (NN %)) (, ,) (PP (TO to) (NP (QP ($ $) (CD 1.18) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 925) (CD million))))) (. .)))
+
+(S1 (S (NP (NNS Profits)) (VP (VBD improved) (PP (IN across) (NP (NP (NNP Hess) (POS 's)) (NNS businesses)))) (. .)))
+
+(S1 (S (S (NP (NN Refining) (CC and) (NN marketing) (NNS earnings)) (VP (VBD climbed) (PP (TO to) (NP (QP ($ $) (CD 33.3) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 12.9) (CD million)))))) (, ,) (CC and) (S (NP (NN exploration) (CC and) (NN production) (NNS earnings)) (VP (VBD rose) (PP (TO to) (NP (QP ($ $) (CD 37.1) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 17.9) (CD million)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Hess) (POS 's)) (NNS earnings)) (VP (VBD were) (ADVP (RB up) (PP (IN despite) (NP (NP (DT a) (ADJP (QP ($ $) (CD 30) (CD million))) (NN charge)) (SBAR (S (VP (TO to) (VP (VB cover) (NP (NP (DT the) (NN cost)) (PP (IN of) (S (VP (VBG maintaining) (NP (NNS operations)) (PP (IN after) (NP (NNP Hurricane) (NNP Hugo)))))))))))))) (VP (ADVP (RB heavily)) (VBN damaged) (NP (NP (DT the) (NN company) (POS 's)) (NN refinery)) (PP (IN at) (NP (NNP St.) (NNP Croix))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADJP (RB widely) (VBN known) (PP (IN within) (NP (NN industry) (NNS circles))) (SBAR (IN that) (S (NP (NNP Hess)) (VP (VBD had) (S (VP (TO to) (VP (VB buy) (NP (NN oil) (NNS products)) (PP (IN in) (NP (DT the) (JJ high-priced) (NN spot) (NNS markets)))))) (S (VP (TO to) (VP (VB continue) (S (VP (VBG supplying) (NP (PRP$ its) (NNS customers)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Hess)) (VP (VBD declined) (S (VP (TO to) (VP (VB comment))))) (. .)))
+
+(S1 (NP (NNP Phillips) (NNP Petroleum)))
+
+(S1 (S (NP (NP (NNP Phillips) (NNP Petroleum) (POS 's)) (JJ third-quarter) (NNS earnings)) (VP (VBD slid) (NP (CD 60) (NN %)) (, ,) (PP (TO to) (NP (NP (QP ($ $) (CD 87) (CD million))) (, ,) (CC or) (NP (NP (CD 36) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 215) (CD million))) (, ,) (CC or) (NP (NP (CD 89) (NNS cents)) (NP (DT a) (NN share)))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (NP (CD 6.9) (NN %)) (, ,) (PP (TO to) (NP (QP ($ $) (CD 3.1) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 2.9) (CD billion))))) (. .)))
+
+(S1 (SINV (S (NP (NP (VBG Shrinking) (NN profit) (NNS margins)) (PP (IN in) (NP (NN chemical) (CC and) (NN refining) (CC and) (NN marketing) (NNS sectors)))) (VP (VBD accounted) (PP (IN for) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN decline))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Chairman) (NNP C.J.) (NNP Silas)) (PP (IN in) (NP (DT a) (NN statement)))) (. .)))
+
+(S1 (S (PP (IN Despite) (NP (JJR higher) (NN oil) (NNS prices))) (, ,) (NP (NN exploration) (CC and) (NN production) (NNS profits)) (VP (VBD were) (ADVP (RB off)) (PP (IN because) (IN of) (NP (NP (NN foreign-currency) (NNS losses)) (CC and) (NP (NP (DT some) (NN construction) (NNS costs)) (VP (VBN incurred) (PP (IN in) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP Phillips) (POS ')) (NNP North) (NNP Sea) (NN oil) (NNS fields)))))))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (NN year)) (RB ago)) (, ,) (NP (NNS results)) (VP (VBD were) (VP (VBN buoyed) (PP (IN by) (NP (NP (DT a) (ADJP (QP ($ $) (CD 20) (CD million))) (JJ after-tax) (NN gain)) (PP (IN from) (NP (DT an) (NN asset) (NN sale))))))) (. .)))
+
+(S1 (NP (NNP Occidental) (NNP Petroleum)))
+
+(S1 (S (NP (NP (NNP Occidental) (NNP Petroleum) (POS 's)) (JJ third-quarter) (JJ net) (NN income)) (VP (VBD rose) (NP (CD 2.9) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 108) (CD million))) (, ,) (CC or) (NP (NP (CD 39) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 105) (CD million))) (, ,) (CC or) (NP (NP (CD 38) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))) (. .)))
+
+(S1 (S (NP (DT The) (JJS latest) (NN quarter)) (VP (VBD included) (NP (NP (DT an) (JJ after-tax) (NN gain)) (PP (IN of) (NP (QP ($ $) (CD 71) (CD million)))) (PP (IN from) (NP (JJ non-recurring) (NNS items))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD dropped) (NP (CD 2) (NN %)) (, ,) (PP (TO to) (NP (QP ($ $) (CD 4.8) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 4.9) (CD billion))))) (. .)))
+
+(S1 (S (NP (DT The) (JJS latest) (NN period)) (VP (VBD included) (NP (NP (DT a) (ADJP (QP ($ $) (CD 54) (CD million))) (NN gain)) (PP (IN from) (NP (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (JJ various) (NN oil) (CC and) (NN gas) (NNS properties)))) (, ,) (NP (NP (DT a) (ADJP (QP ($ $) (CD 22) (CD million))) (NN charge)) (PP (IN from) (NP (DT the) (NN restructuring))) (PP (IN of) (NP (NP (NNP Occidental) (POS 's)) (JJ domestic) (NN oil) (CC and) (NN gas) (NNS operations)))) (, ,) (CC and) (NP (NN tax) (NNS credits)))) (PP (IN of) (NP (QP ($ $) (CD 42) (CD million)))))) (. .)))
+
+(S1 (S (NP (DT Both) (NNS periods)) (VP (VBD included) (NP (NP (JJ non-recurring) (NNS charges)) (PP (IN of) (NP (QP ($ $) (CD 3) (CD million)))) (PP (IN for) (NP (NP (JJ early) (NN retirement)) (PP (IN of) (NP (NN debt))))))) (. .)))
+
+(S1 (S (NP (NNP Occidental)) (VP (VBD said) (SBAR (S (NP (NN oil) (CC and) (NN gas) (NNS earnings)) (VP (VBD fell) (PP (TO to) (NP (QP ($ $) (CD 17) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 20) (CD million)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJS latest) (NN period)) (VP (VBZ includes) (NP (NP (JJ net) (NNS gains)) (PP (IN of) (NP (NP (QP ($ $) (CD 32) (CD million))) (PP (IN in) (NP (JJ non-recurring) (NNS credits))))) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (NNS properties)) (, ,) (VP (VBG indicating) (NP (NP (NN operating) (NNS losses)) (PP (IN for) (NP (DT the) (NN quarter))) (PP (IN in) (NP (DT the) (NN oil) (CC and) (NN gas) (NN division))))))))))) (. .)))
+
+(S1 (S (NP (NN Chemical) (NNS earnings)) (VP (VBD fell) (NP (CD 10) (NN %)) (, ,) (S (VP (VBG reflecting) (NP (NP (NN softening)) (PP (IN of) (NP (NN demand))))))) (. .)))
+
+(S1 (NP (NNP Atlantic) (NNP Richfield)))
+
+(S1 (S (S (VP (VBG Citing) (NP (NP (PRP$ its) (VBN reduced) (NN ownership)) (PP (IN in) (NP (DT the) (NNP Lyondell) (NNP Petrochemical) (NNP Co.)))))) (, ,) (NP (NNP Atlantic) (NNP Richfield)) (VP (VBD reported) (SBAR (S (NP (DT that) (JJ net) (NN income)) (VP (VBD slid) (NP (NP (CD 3.1) (NN %)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter)))) (PP (TO to) (NP (NP (QP ($ $) (CD 379) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 2.19)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 391) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 2.17)) (NP (DT a) (NN share))) (, ,)) (PP (IN for) (NP (NP (DT the) (JJ comparable) (NN period)) (NP (JJ last) (NN year))))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD fell) (NP (CD 20) (NN %)) (, ,) (PP (TO to) (NP (QP ($ $) (CD 3.7) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 4.6) (CD billion))))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Arco) (POS 's)) (NNS earnings)) (PP (IN from) (NP (NP (PRP$ its) (ADJP (CD 49.9) (NN %)) (NN stake)) (PP (IN in) (NP (NNP Lyondell)))))) (VP (VBD fell) (PP (TO to) (NP (QP ($ $) (CD 37) (CD million)))) (PP (IN from) (NP (NP (QP ($ $) (CD 156) (CD million))) (PP (IN for) (NP (NP (DT the) (JJ same) (NN period)) (NP (JJ last) (NN year)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Lyondell)) (VP (VBD was) (ADJP (RB wholly) (VBN owned)))))))))) (. .)))
+
+(S1 (S (S (S (VP (VBG Offsetting) (NP (NP (DT the) (JJR lower) (NN stake)) (PP (IN in) (NP (NNP Lyondell)))))) (VP (VBD were) (NP (NP (JJR higher) (JJ crude) (NN oil) (NNS prices)) (, ,) (NP (VBN increased) (JJ natural) (NN gas) (NNS volumes)) (CC and) (NP (JJR higher) (NN coke) (NNS prices))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (NN Coal) (NNS earnings)) (VP (VBD rose) (PP (TO to) (NP (QP ($ $) (CD 26) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 21) (CD million))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (CD nine) (NNS months))) (, ,) (NP (NNP Arco)) (VP (VBD reported) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP (QP ($ $) (CD 1.6) (CD billion))) (, ,) (CC or) (NP (NP ($ $) (CD 8.87)) (NP (DT a) (NN share))) (, ,) (ADVP (RB up) (NP (CD 33) (NN %)) (PP (IN from) (NP (NP (QP ($ $) (CD 1.2) (CD billion))) (, ,) (CC or) (NP (NP ($ $) (CD 6.56)) (NP (DT a) (NN share)))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD were) (NP (QP ($ $) (CD 12) (CD billion))) (, ,) (ADVP (IN off) (NP (CD 13) (NN %)) (PP (IN from) (NP (QP ($ $) (CD 13.8) (CD billion)))))) (. .)))
+
+(S1 (S (NP (NNP Jeff) (NNP Rowe)) (VP (VBD contributed) (PP (TO to) (NP (DT this) (NN article)))) (. .)))
+

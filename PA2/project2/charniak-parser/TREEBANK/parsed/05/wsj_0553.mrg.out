@@ -1,0 +1,122 @@
+(S1 (S (NP (PRP We)) (VP (VBP 're) (ADJP (JJ sorry) (S (VP (TO to) (VP (VB see) (NP (NP (NP (NNP Nigel) (NNP Lawson) (POS 's)) (NN departure)) (PP (IN from) (NP (DT the) (JJ British) (NN government))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ is) (NP (NP (DT a) (NN politician)) (PP (PP (IN with) (NP (NP (DT the) (NN courage)) (PP (IN of) (NP (JJ true) (NN conviction))))) (, ,) (RB as) (PP (IN in) (S (VP (VP (ADVP (RB summarily)) (VBG sacking) (NP (NN exchange) (NNS controls))) (CC and) (VP (PP (IN in) (NP (JJ particular))) (VBG slashing) (NP (NP (DT the) (JJ top) (NN rate)) (PP (IN of) (NP (NN income) (NN taxation)))) (PP (TO to) (NP (CD 40) (NN %)))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (DT the) (NN end))) (NP (NP (PRP$ his) (NN resignation)) (PP (IN as) (NP (NNP Chancellor))) (PP (IN of) (NP (DT the) (NNP Exchequer)))) (VP (MD may) (VP (VB be) (NP (DT a) (JJ good) (NN thing)) (, ,) (SBAR (ADVP (RB especially)) (IN if) (S (NP (PRP it)) (VP (VBZ works) (SBAR (IN as) (S (NP (PRP he)) (NP (DT no) (NN doubt)) (VP (VBZ intends) (: --) (PP (IN by) (S (VP (VBG forcing) (S (NP (NP (NNP Prime) (NNP Minister) (NNP Thatcher)) (CC and) (NP (NP (PRP$ her) (NNS counterparts)) (ADVP (RB elsewhere)))) (VP (TO to) (VP (VBP confront) (NP (NP (DT the) (JJ genuine) (JJ intellectual) (NNS issues)) (VP (VBN involved))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ early) (NNS omens)) (PRN (, ,) (S (NP (PRP we)) (VP (VBP admit))) (, ,)) (ADVP (RB scarcely)) (VP (VBP suggest) (ADJP (RB so) (JJ wholesome)) (NP (DT an) (NN outcome))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Fleet) (NNP Street) (NN reaction)) (VP (VBD was) (VP (VBN captured) (PP (IN in) (NP (NP (DT the) (NNP Guardian) (NN headline)) (, ,) (`` `) (S (`` `) (NP (NN Departure)) (VP (VBZ Reveals) (S (NP (NNP Thatcher)) (ADJP (JJ Poison))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (JJ British) (NNS politicians)) (VP (VBP divide) (PP (IN into) (NP (NP (CD two) (NNS groups)) (PP (IN of) (NP (NNS chickens))) (, ,) (NP (NP (NP (DT those)) (PP (IN with) (NP (PRP$ their) (NNS necks) (NN cut)))) (CC and) (NP (NP (DT those)) (VP (VBG screaming) (SBAR (S (NP (DT the) (NN sky)) (VP (VBZ is) (VP (VBG falling))))))))))) (. .)))
+
+(S1 (FRAG (ADVP (RB So) (RB far)) (SBAR (IN as) (S (NP (PRP we)) (VP (MD can) (VP (VB see) (SBAR (S (NP (RB only) (CD two) (NNS persons)) (VP (VBP are) (VP (VBG behaving) (PP (IN with) (NP (NP (DT a) (NN dignity)) (VP (VBG recognizing) (NP (NP (DT the) (NN seriousness)) (PP (IN of) (NP (NP (DT the) (NNS issues)) (: :) (NP (NP (NNP Mr.) (NNP Lawson)) (CC and) (NP (NP (NNP Sir) (NNP Alan) (NNP Walters)) (, ,) (NP (NP (DT the) (NN counterpoint)) (PP (IN of) (NP (NP (NP (DT the) (NNP Chancellor) (POS 's)) (NNS difficulties)) (, ,) (SBAR (WHNP (WP who)) (S (ADVP (RB also)) (VP (VBD resigned) (PP (IN as) (NP (NP (JJ personal) (NN adviser)) (PP (TO to) (NP (NNP Mrs.) (NNP Thatcher))))))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN problem)) (VP (VBZ is) (SBAR (IN that) (S (PP (IN on) (NP (NP (DT the) (JJ vital) (NN issue)) (PP (IN of) (NP (NP (JJ monetary) (NN policy)) (CC and) (NP (NN exchange) (NNS rates)))))) (, ,) (NP (JJ conservative) (, ,) (JJ free-market) (NNS economists)) (VP (VBP divide) (PP (IN into) (NP (QP (IN at) (JJS least) (CD three)) (JJ incompatible) (NNS camps))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBP are) (NP (NP (DT the) (JJ strict) (NNS monetarists)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP believe) (SBAR (IN that) (S (NP (VBG floating) (NN exchange) (NNS rates)) (VP (VB free) (NP (DT an) (NN economy) (S (VP (TO to) (VP (VB stabilize) (NP (PRP$ its) (NN price) (NN level)) (PP (IN by) (S (VP (VBG stabilizing) (NP (DT the) (JJ monetary) (NNS aggregates))))))))))))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBP are) (NP (NP (DT the) (JJ supply-side) (NNS globalists)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP seek) (S (VP (TO to) (VP (VB spread) (NP (NP (DT the) (NNS advantages)) (PP (IN of) (NP (DT a) (JJ common) (NN currency)))) (PP (IN through) (NP (VBN fixed) (NN exchange) (NNS rates))))))))))) (. .)))
+
+(S1 (S (CC And) (NP (EX there)) (VP (VBP are) (NP (NP (DT the) (JJ twin-deficit) (NNP Keynesians)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP predict\/advocate) (S (NP (NNS devaluations)) (VP (TO to) (VP (VB balance) (NP (NN trade) (NNS flows)))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN problem)) (PP (CONJP (RB not) (RB only)) (PP (IN for) (NP (NNP Prime) (NNP Minister) (NNP Thatcher))) (CC but) (PP (IN for) (NP (NNP President) (NNP Bush))))) (, ,) (SBAR (IN as) (S (VP (VBN shown) (PP (IN in) (NP (NP (DT the) (JJ ongoing) (NN bickering)) (PP (IN over) (NP (DT the) (NN dollar))) (PP (IN between) (NP (NP (DT the) (NNP Federal) (NNP Reserve)) (CC and) (NP (DT the) (NNP Mulford) (NNP Treasury)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NNP British) (NN case))) (, ,) (NP (NNP Mr.) (NNP Lawson)) (VP (VBZ is) (NP (NP (DT the) (JJS closest) (NN thing)) (PP (IN in) (NP (NNP London))) (PP (TO to) (NP (DT a) (JJ supply-side) (NN globalist))))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (ADVP (RB not) (RB only)) (VP (VBD slashed) (NP (JJ marginal) (NN tax) (NNS rates)) (, ,) (S (ADVP (RB initially)) (VP (VBG sparking) (NP (NP (JJ fresh) (NN growth)) (PP (IN in) (NP (NNP Britain)))))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD wanted) (S (VP (TO to) (VP (VB regulate) (NP (JJ monetary) (NN policy)) (PP (IN by) (NP (VBG targeting) (NN exchange) (NNS rates))) (, ,) (S (ADVP (RB indeed)) (VP (VBG joining) (NP (DT the) (NNP European) (NNP Monetary) (NNP System))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (DT no) (NN doubt)) (VP (VBG agreeing) (PP (IN with) (NP (NNP Mr.) (NNP Lawson))) (PP (IN on) (NP (NN everything) (RB else)))))) (, ,) (NP (NNP Sir) (NNP Alan)) (VP (VBZ is) (NP (NP (DT a) (JJ dyed-in-the-wool) (NN monetarist)) (, ,) (VP (VBN inclined) (S (VP (TO to) (VP (VB defend) (NP (JJ floating) (NNS rates)) (PP (TO to) (NP (DT the) (NN death))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB make) (S (NP (NNS matters)) (ADJP (ADVP (RB even) (RBR more)) (JJ confusing)))))) (, ,) (NP (DT the) (JJR earlier) (NNP U.S.) (NN experience)) (VP (VBD made) (S (ADJP (JJ clear)) (SBAR (IN that) (S (NP (NP (NNP Mr.) (NNP Lawson) (POS 's)) (NN tax) (NNS cuts)) (VP (MD would) (VP (VB have) (NP (NP (NP (JJ profound) (NNS effects)) (PP (IN on) (NP (NP (NNP Britain) (POS 's)) (JJ international) (NNS accounts)))) (CC and) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (NN sterling))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VP (VBD increased) (NP (NP (DT the) (JJ after-tax) (NN rate)) (PP (IN of) (NP (NN return))))) (CC and) (VP (VBD made) (S (NP (NNP Britain)) (NP (NP (DT a) (ADJP (ADVP (RB far) (RBR more)) (JJ attractive)) (NN place)) (SBAR (S (VP (TO to) (VP (VB invest) (, ,) (S (VP (VBG producing) (NP (JJ sudden) (NN capital) (NNS inflows)))))))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NN accounting) (NNS definitions))) (, ,) (NP (DT this)) (VP (VBD had) (S (VP (TO to) (VP (VB produce) (NP (DT a) (JJ sudden) (NN trade) (NN deficit)))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (PP (IN in) (NP (DT the) (NNP U.S.))) (, ,) (NP (PRP it)) (ADVP (RB also)) (VP (VBD produced) (NP (NP (DT a) (JJ sudden) (NN burst)) (PP (IN in) (NP (NP (DT the) (NN demand)) (PP (IN for) (NP (NN sterling))))))))) (, ,) (NP (DT that)) (VP (VBZ is) (NP (NP (NP (DT a) (NN surge)) (PP (IN in) (NP (DT the) (JJ sterling) (JJ monetary) (NNS aggregates)))) (, ,) (NP (NNP M-Whatever)))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT this) (NN point))) (, ,) (NP (DT the) (NNS options)) (VP (VBD were) (NP (: :) (NN Crunch) (NN money)) (S (VP (TO to) (VP (VP (VB stop) (NP (NP (DT the) (NN boost)) (PP (IN in) (NP (DT the) (NNS aggregates))))) (PRN (, ,) (SBAR (IN as) (S (NP (NNP Sir) (NNP Alan)) (ADVP (RB surely)) (VP (VBN advised)))) (, ,)) (CC and) (VP (VB forget) (NP (DT the) (VBG soaring) (NN pound))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB push) (NP (DT the) (NN pound)) (ADVP (RB even) (RBR lower)) (S (VP (VBG trying) (S (VP (TO to) (VP (VB cure) (NP (DT the) (NN trade) (NN deficit)))))))))) (, ,) (NP (DT a) (NN policy) (NNP Britain)) (VP (VBZ has) (ADVP (RB repeatedly)) (VP (VBN proved) (ADJP (JJ disastrous)))) (. .)))
+
+(S1 (FRAG (CC Or) (SBAR (S (VP (TO to) (VP (VB supply) (NP (JJ enough) (NN money) (S (VP (TO to) (VP (VP (VB meet) (NP (DT the) (VBN increased) (NN demand))) (CC and) (VP (VB stabilize) (NP (DT the) (NN exchange) (NN rate)) (, ,) (SBAR (IN as) (S (NP (DT the) (NNP Chancellor)) (VP (VBD argued))))) (, ,) (CC and) (VP (VB ensure) (NP (NP (DT the) (NN permanence)) (PP (IN of) (NP (DT this) (NN policy))))))))) (PP (IN by) (S (VP (VBG joining) (NP (DT the) (NNP EMS))))))))) (. .)))
+
+(S1 (S (S (VP (VBN Faced) (PP (IN with) (NP (DT a) (JJ similar) (NN situation))))) (, ,) (NP (NNP Paul) (NNP Volcker)) (VP (VBD let) (S (NP (DT the) (NN dollar)) (VP (VB soar) (PRN (, ,) (-LRB- -LRB-) (SBAR (IN though) (S (NP (JJ monetary) (NNS aggregates)) (ADVP (RB also)) (VP (VBD grew) (ADVP (RB so) (RB rapidly)) (NP (NP (NNS monetarists)) (VP (VBN issued) (NP (NP (JJ egg-on-the-face) (NNS warnings)) (PP (IN of) (NP (NN inflation))))))))) (-RRB- -RRB-))))) (. .)))
+
+(S1 (S (CC But) (NP (DT this)) (VP (VBN devastated) (S (NP (DT the) (NNP U.S.) (NN manufacturing) (NN sector))) (, ,) (S (VP (VBG laying) (NP (NP (DT the) (NNS seeds)) (PP (IN of) (NP (NN protectionism))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lawson)) (, ,) (SBAR (IN though) (S (RB not) (VP (VBD allowed) (S (VP (TO to) (VP (VB join) (NP (DT the) (NNP EMS)))))))) (, ,) (VP (VBD chose) (S (VP (TO to) (`` `) (VP (`` `) (VB shadow) ('' ') (S (VP (POS ') (NP (DT the) (FW deutsche) (NN mark)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBN reaped) (S (NP (NN inflation)) (PP (IN along) (PP (IN with) (NP (JJ rapid) (NN growth))))) (, ,) (S (NP (DT no) (NN doubt)) (VP (VBG validating) (NP (NP (NP (NNP Sir) (NNP Alan) (POS 's)) (NNS predictions)) (PP (IN in) (NP (NP (DT the) (NNP Prime) (NNP Minister) (POS 's)) (NN mind))))))) (. .)))
+
+(S1 (S (CC But) (ADVP (RBR more) (RB recently)) (, ,) (NP (DT the) (NN pound)) (VP (VBZ has) (VP (VBN been) (VP (VBG falling) (PP (IN with) (NP (NP (JJ high) (NN inflation)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (ADVP (RB also)) (VP (VBN seemed) (S (ADJP (RB almost) (JJ impervious) (PP (TO to) (NP (NP (DT the) (JJ high) (NN interest) (NNS rates)) (SBAR (S (NP (NNP Mr.) (NNP Lawson)) (VP (VBN deployed) (S (VP (TO to) (VP (VB stop) (NP (PRP it))))))))))))))))))))) (. .)))
+
+(S1 (S (RB So) (NP (DT the) (JJ British) (NN experience)) (VP (VBZ presents) (NP (NP (DT a) (JJ genuine) (NN puzzle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reaches) (PP (ADVP (RB far)) (IN beyond) (NP (NP (DT the) (NNP shores)) (PP (IN of) (NP (NNP Albion)))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBD had) (VP (VBN been) (VP (VP (VBG soliciting) (NP (NP (NNS opinions)) (PP (IN on) (NP (PRP it)))) (PP (ADVP (RB long)) (IN before) (NP (NP (NNP Mr.) (NNP Lawson) (POS 's)) (NN resignation)))) (, ,) (CC and) (VP (VB offer) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN collection)))) (PP (IN for) (NP (NP (DT the) (NN benefit)) (PP (IN of) (NP (NP (PRP$ his) (NN successor) (CC and) (JJ one-time) (NN deputy)) (, ,) (NP (NNP John) (NNP Major)))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB begin) (PRT (RP with))))) (, ,) (NP (PRP we)) (VP (MD should) (VP (VB note) (SBAR (IN that) (S (PP (IN in) (NP (NP (NN contrast)) (PP (TO to) (NP (DT the) (NNP U.S.) (NN deficit))))) (, ,) (NP (NNP Britain)) (VP (VBZ has) (VP (VBN been) (VP (VBG running) (NP (JJ largish) (NN budget) (NNS surpluses))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN pursuit)) (PP (IN of) (NP (DT this) (NN mystery))))) (, ,) (NP (NP (JJ Keynesian) (NNS adepts)) (CC and) (NP (JJ twin-deficit) (NNS mavens))) (VP (VBP need) (RB not) (VP (VB apply))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (MD should) (ADVP (RB also)) (VP (VB add) (NP (NP (NNP Mr.) (NNP Lawson) (POS 's)) (JJ own) (NN explanation)) (, ,) (SBAR (IN as) (S (NP (PRP we)) (VP (VBP understand) (NP (PRP it))))))) (. .)))
+
+(S1 (S (PP (IN Unlike) (NP (DT the) (NNP U.S.))) (, ,) (NP (NNP Britain)) (ADVP (RB never)) (VP (VBD achieved) (NP (NP (RB even) (DT a) (JJ momentary) (NN reduction)) (PP (IN in) (NP (JJ real) (NNS wages))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN wage) (NN stickiness)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP OECD) (NNS studies)) (VP (VBP confirm) (SBAR (S (VP (VBZ is) (ADJP (RB particularly) (JJ high)) (PP (IN in) (NP (NNP Britain))))))))) (, ,)) (VP (VBZ gives) (NP (PRP$ its) (NN economy)) (NP (NP (DT a) (JJ structural) (NN bias)) (PP (IN toward) (NP (NN inflation))))) (. .)))
+
+(S1 (S (NP (NN Inflation)) (VP (VBZ is) (ADJP (ADJP (JJR easier) (SBAR (S (VP (TO to) (VP (VB spark)))))) (CC and) (ADJP (JJR harder) (SBAR (S (VP (TO to) (VP (VB control)))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (MD should) (ADVP (RB also)) (VP (VB concede) (SBAR (IN that) (S (PP (IN in) (NP (DT the) (JJ British) (NN experience))) (NP (DT the) (JJS monetarist) (NN cause)) (VP (VBZ regains) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NN credibility)) (SBAR (S (NP (PRP it)) (VP (VBD lost) (PP (IN in) (NP (DT the) (NNP U.S.) (NN experience)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Nearby) (NNP Paul) (NNP Craig) (NNP Roberts)) (, ,) (NP (NP (DT a) (JJ distinguished) (NN supply-sider)) (PP (IN with) (NP (JJS monetarist) (NNS sympathies)))) (, ,)) (VP (VBZ argues) (NP (NP (DT the) (NN case)) (PP (IN for) (NP (NNP Sir) (NNP Alan))))) (. .)))
+
+(S1 (S (ADVP (RB Perhaps)) (NP (NP (DT the) (JJ fiscal) (NN shock)) (PP (IN of) (NP (NN tax) (NNS cuts)))) (VP (VBZ is) (VP (ADVP (IN after) (DT all) (RBS best)) (VBN absorbed) (PP (IN by) (NP (VBG floating) (NNS rates))) (, ,) (SBAR (IN though) (S (PP (IN of) (NP (NN course))) (PP (IN in) (NP (DT the) (NN event))) (NP (NNP Mr.) (NNP Lawson)) (VP (VBD resigned) (PP (IN over) (SBAR (IN whether) (S (VP (TO to) (VP (VP (VB support) (NP (DT a) (JJ weak) (NN pound))) (, ,) (RB not) (VP (VB restrain) (NP (DT a) (JJ strong) (CD one))))))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP recall) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Roberts)) (VP (CONJP (RB not) (RB only)) (VP (VBZ chides) (NP (DT the) (NNP Chancellor)) (PP (IN for) (S (VP (VBG being) (ADJP (RB too) (JJ easy)) (PP (IN because) (IN of) (NP (DT a) (NN desire) (S (VP (TO to) (VP (VB constrain) (NP (NN sterling))))))))))) (, ,) (CONJP (CC but) (RB also)) (VP (VBD led) (NP (NP (DT the) (NN chorus)) (VP (VBG saying) (SBAR (IN that) (S (NP (NNP Mr.) (NNP Volcker)) (VP (VBD was) (ADJP (RB too) (JJ tight)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD let) (S (NP (DT the) (NN dollar)) (VP (VB rise)))))))))))))))) (. .)))
+
+(S1 (FRAG (ADVP (RB Somewhere) (RB in)) (SBAR (IN between) (S (NP (EX there)) (VP (MD must) (VP (VB be) (NP (DT a) (JJ golden) (NN mean)) (, ,) (S (S (ADVP (RB perhaps)) (VP (VBN measured) (PP (IN by) (NP (NNP M-Whatever))))) (, ,) (CC but) (S (ADVP (RB perhaps)) (VP (VBN measured) (PP (IN by) (S (VP (VBG purchasing) (NP (NN power) (NN parity)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS globalists)) (VP (VBP tend) (S (VP (TO to) (VP (VB think) (SBAR (S (NP (NNP Mr.) (NNP Lawson)) (VP (VBD ran) (PP (IN onto) (NP (JJ technical) (NNS reefs)))))))))) (. .)))
+
+(S1 (S (PP (IN In) (S (VP (VBG fixing) (NP (NNS rates)) (SBAR (S (NP (NP (DT the) (NN choice)) (PP (IN of) (NP (JJ initial) (NNS parities)))) (VP (VBZ is) (ADJP (JJ crucial)))))))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (CC and) (ADVP (RB perhaps)) (NP (PRP he)) (VP (VBD picked) (NP (DT the) (JJ wrong) (NN pound-DM) (NN rate))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT that) (NN matter))) (, ,) (ADVP (RB perhaps)) (NP (PRP he)) (VP (VBN fixed) (PP (TO to) (NP (DT the) (JJ wrong) (NN currency)))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBP sympathize) (PP (IN with) (NP (NP (NNP Mrs.) (NNP Thatcher) (POS 's)) (NN reluctance) (S (VP (TO to) (VP (VB tie) (NP (PRP$ her) (NN currency)) (PP (TO to) (NP (NP (CD one)) (VP (VBN governed) (PP (IN by) (NP (NP (DT the) (JJ domestic) (JJ political) (NNS imperatives)) (PP (IN of) (NP (NNP West) (NNP Germany)))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Perhaps)) (NP (DT the) (NN shock)) (VP (MD would) (VP (VB have) (VP (VBN been) (ADJP (ADJP (JJR less)) (SBAR (IN if) (S (NP (PRP they)) (VP (VBD 'd) (VP (VBN fixed) (PP (TO to) (NP (DT another) (JJ low-tax) (, ,) (JJ deregulated) (, ,) (JJ supply-side) (NN economy))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Alan) (NNP Reynolds)) (PP (IN of) (NP (NNP Polyconomics)))) (VP (VBZ adds) (NP (PRP$ his) (NN suspicion)) (SBAR (IN that) (S (NP (DT the) (JJ unrecognized) (JJ inflationary) (NN culprit)) (VP (VBZ is) (NP (DT the) (NN budget) (NN surplus)))))) (. .)))
+
+(S1 (S (NP (NP (DT Those)) (SBAR (WHNP (WP who)) (S (VP (MD can) (VP (VB shake) (NP (JJ Keynesian) (NNS ghosts)) (PP (IN out) (PP (IN of) (NP (PRP$ their) (NNS heads))))))))) (VP (MD might) (VP (VB recognize) (SBAR (IN that) (S (NP (NP (DT the) (NN retirement)) (PP (IN of) (NP (NP (NNS gilts)) (PP (IN for) (NP (NN cash)))))) (VP (VBZ is) (ADJP (JJ equivalent) (PP (TO to) (NP (DT an) (JJ expansionary) (JJ open-market) (NN operation)))) (, ,) (ADVP (RB indeed)) (, ,) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (DT an) (JJ open) (NN market) (NN operation))) (S (VP (TO to) (VP (VB expand) (NP (DT the) (NN money) (NN supply)))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Reynolds)) (ADVP (RB also)) (VP (VBZ notes) (SBAR (IN that) (S (SBAR (IN since) (S (NP (JJ British) (NNS banks)) (VP (VBP have) (NP (DT no) (NN reserve) (NNS requirements))))) (, ,) (NP (JJ high) (NN interest) (NNS rates)) (VP (VBP are) (ADJP (RBR less) (JJ likely) (S (VP (TO to) (VP (VB curb) (NP (NN inflation) (SBAR (IN than) (S (VP (TO to) (VP (VB cause) (NP (NN recession))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (MD would) (VP (VB add) (SBAR (IN that) (S (PP (IN in) (NP (JJ political) (NNS terms))) (, ,) (NP (NP (NNP Mrs.) (NNP Thatcher) (POS 's)) (NN problem)) (VP (VBD was) (S (VP (VBG failing) (S (VP (TO to) (VP (VB decide) (PP (IN between) (NP (NP (DT the) (NN Chancellor)) (CC and) (NP (PRP$ her) (NN adviser)))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN end))) (, ,) (S (NP (DT neither) (NN policy)) (VP (VBD was) (VP (VBN followed)))) (, ,) (CC and) (S (PP (RB instead) (IN of) (S (VP (VBG learning) (NP (NN anything))))) (NP (PRP we)) (VP (VBP are) (VP (VBN left) (PP (IN with) (NP (DT a) (NN mystery)))))) (. .)))
+
+(S1 (S (PP (IN In) (ADJP (JJ particular))) (, ,) (`` `) (ADJP (`` `) (JJ shadowing) ('' ')) ('' ') (S (NP (DT a) (NN currency)) (VP (VBZ is) (UCP (NP (NN anything)) (CC but) (VP (VBG fixing))))) (: ;) (S (NP (PRP it)) (VP (VBZ is) (NP (DT an) (JJ open) (NN announcement) (SBAR (IN that) (S (NP (DT the) (NN exchange) (NN rate) (NN target)) (VP (VBZ has) (NP (DT no) (NN credibility)))))))) (. .)))
+
+(S1 (S (NP (PDT All) (DT the) (JJR more) (RB so) (WRB when) (JJ strong) (NNS voices)) (VP (VBP are) (VP (VBN heard) (VP (VBG opposing) (NP (DT the) (NN policy))))) (. .)))
+
+(S1 (FRAG (ADJP (RBR Better)) (S (VP (TO to) (VP (VB have) (NP (DT a) (JJ true) (JJ monetarist) (NN policy)) (, ,) (PP (RB just) (IN for) (NP (DT the) (NN experience)))))) (. .)))
+
+(S1 (S (IN So) (NP (NNP Mr.) (NNP Lawson)) (VP (VBD had) (S (VP (TO to) (VP (VB resign))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN end))) (NP (PRP$ his) (NN move)) (VP (VBD was) (VP (VBN sparked) (PP (IN by) (NP (NP (NNS remarks)) (PP (IN in) (NP (NP (NNS excerpts)) (PP (IN from) (NP (NP (NP (NNP Sir) (NNP Alan) (POS 's)) (NN autobiography)) (PP (IN in) (NP (NP (NNP The) (NNP American) (NNP Economist)) (, ,) (NP (DT a) (JJ 10,000-circulation) (JJ academic) (NN journal)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (JJ underlying) (NN situation)) (SBAR (WHNP (WDT that)) (S (VP (VBD became) (ADJP (JJ intolerable))))))) (. .)))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (NP (NNP Mr.) (NNP Major) (CC and) (NNP Mrs.) (NNP Thatcher)) (VP (MD will) (VP (VB do) (ADVP (RB now)))))) (VP (VBZ remains) (S (VP (TO to) (VP (VB be) (VP (VBN seen)))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP confront) (NP (NP (JJ stubborn) (NN inflation)) (CC and) (NP (NP (DT a) (VBG sagging) (NN economy)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (S (VP (TO to) (VP (VB say))))))) (, ,))) (NP (NN stagflation))) (. .)))
+
+(S1 (S (S (NP (DT This)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN solved) (PP (IN by) (S (VP (VBG provoking) (NP (DT a) (JJ further) (NN downturn))))))))) (: ;) (S (S (VP (VBG reducing) (NP (NP (DT the) (NN supply)) (PP (IN of) (NP (NNS goods)))))) (VP (VBZ does) (RB not) (VP (VB solve) (NP (NN inflation))))) (. .)))
+
+(S1 (S (S (NP (PRP$ Our) (NN advice)) (VP (VBZ is) (NP (DT this)))) (: :) (S (VP (VP (ADVP (RB Immediately)) (VB return) (NP (DT the) (NN government) (NNS surpluses)) (PP (TO to) (NP (DT the) (NN economy))) (PP (IN through) (NP (JJ incentive-maximizing) (NN tax) (NNS cuts)))) (, ,) (CC and) (VP (VB find) (NP (DT some) (JJ monetary) (NN policy) (NN target) (SBAR (IN that) (S (VP (NNS balances) (NP (NP (DT both) (NN supply) (CC and) (NN demand)) (PP (IN for) (NP (NP (NN money)) (PRN (-LRB- -LRB-) (SBAR (WHNP (WDT which)) (S (NP (DT neither) (NNS aggregates) (CC nor) (NN interest) (NNS rates)) (VP (MD can) (VP (VB do))))) (-RRB- -RRB-)))))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBD was) (NP (NP (DT the) (NN version)) (PP (IN of) (NP (JJ supply-side) (NNS economics)))) (SBAR (IN that) (S (, ,) (PP (IN in) (NP (NP (DT the) (JJ late) (NNS 1970s)) (CC and) (NP (JJ early) (NNS '80s)))) (, ,) (VP (VP (VBN worked) (PP (IN in) (NP (NNP America)))) (CC and) (VP (ADJP (JJ world-wide) (S (VP (TO to) (VP (VB solve) (NP (DT a) (ADJP (RB far) (JJR more)) (JJ serious) (NN stagflation)))))) (PP (IN than) (S (VP (VBZ afflicts) (NP (NNP Britain)) (NP (NN today)))))))))) (. .)))
+

@@ -1,0 +1,154 @@
+(S1 (S (NP (NP (NNP Albert) (NNP Engelken)) (CC and) (NP (NNP Robert) (NNP Thomson))) (VP (VBD had) (ADVP (RB never)) (VP (VBN met) (, ,) (SBAR (IN though) (S (PP (IN for) (NP (CD 38) (NNS years))) (NP (PRP$ their) (NNS lives)) (VP (VBD had) (VP (VBN been) (VP (VBN intertwined) (PP (IN in) (NP (NP (DT a) (NN way)) (ADJP (JJ peculiar) (PP (TO to) (NP (DT the) (NNS sports) (NN world))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Engelken)) (, ,) (NP (NP (ADVP (RB now)) (DT a) (JJ transit-association) (NN executive)) (PP (IN in) (NP (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C.)) (, ,)) (CC and) (NP (NP (NNP Mr.) (NNP Thomson)) (, ,) (NP (NP (DT a) (NNS paper-products) (NN salesman)) (PP (IN in) (NP (NP (NNP Montvale)) (, ,) (NP (NNP N.J.))))))))) (, ,)) (VP (VBD had) (RB n't) (ADVP (RB even)) (VP (VBN talked) (PP (TO to) (NP (DT each) (JJ other))))) (. .)))
+
+(S1 (S (CC But) (NP (CD one) (JJ recent) (NN day)) (, ,) (NP (PRP they)) (VP (VBD became) (ADJP (RB much) (JJR closer))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Engelken)) (, ,) (NP (DT a) (JJ rabid) (NN baseball) (NN fan)) (, ,)) (VP (VBZ pores) (PP (IN over) (NP (DT the) (NNS sports) (NNS pages))) (S (VP (TO to) (VP (VB chart) (NP (NP (DT the) (VBZ exploits)) (PP (IN of) (`` `) (NP (`` `) (NP (PRP$ my) (UCP (JJ favorite) (CC and) (JJ not-so-favorite)) (NNS teams)) (CC and) (NP (NNS players))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (ADVP (RB often)) (VP (VBZ groans)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ says))) (, ,)) (PP (IN at) (NP (NP (DT the) (`` `) (NP (`` `) (NN clutter) ('' ')) ('' ') (PP (IN of) (NP (NP (NNS sports) (NNS stories)) (PP (IN about) (NP (NNS drugs))))) (, ,) (NP (NN alcohol)) (, ,) (NP (NN gambling)) (CC and) (NP (NP (DT some) (NN player) (POS 's)) (NN lament))) (`` `) (S (`` `) (PP (IN about) (NP (DT the) (JJ miserly) (NNS millions))) (NP (PRP he)) (VP (VBZ is) (VP (VBN offered) (S (VP (TO to) (VP (VB play) (NP (DT the) (NN game))))))) (. .) ('' ')) ('' ')))))
+
+(S1 (S (NP (NP (PRP$ His) (NN morning) (NN paper)) (, ,) (NP (DT the) (NNP Washington) (NNP Post)) (, ,)) (ADVP (RB even)) (VP (VBZ carries) (NP (NP (DT a) (NNS sports) (NN column)) (VP (VBN called) (S (NP (`` `) (NP (`` `) (NN Jurisprudence) ('' ')) ('' ') (SBAR (WHNP (WDT that)) (S (VP (VBZ recounts) (NP (NP (DT the) (JJS latest) (NNS arrests) (CC and) (NNS convictions)) (PP (IN of) (NP (NP (NNS players)) (CC and) (NP (NN team) (NNS managers))))))))))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (JJ many) (NNS sports) (NNS buffs))) (, ,) (NP (NNP Mr.) (NNP Engelken)) (VP (VBZ has) (VP (VBN turned) (ADJP (JJ cynic)))) (. .)))
+
+(S1 (S (CC But) (NP (PRP$ his)) (VP (VBZ is) (NP (NP (DT a) (NN story)) (PP (PP (IN about) (NP (NP (DT a) (NN hero)) (PP (IN in) (NP (NP (DT an) (NN era)) (PP (IN of) (NP (NNS sports) (NNS anti-heroes))))))) (, ,) (CC and) (PP (IN about) (SBAR (WHNP (WP what)) (S (NP (NP (NNP Babe) (NNP Ruth)) (PRN (, ,) (S (NP (NNP Mr.) (NNP Engelken)) (VP (VBZ reminds) (NP (PRP us)))) (, ,))) (ADVP (RB once)) (VP (VBD called) (S (`` `) (NP (NP (`` `) (DT the) (RB only) (JJ real) (NN game)) (PP (IN in) (NP (DT the) (NN world)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (TO To) (NP (NNP Mr.) (NNP Engelken))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT a) (NN story)) (`` `) (PP (`` `) (IN about) (NP (NN love)))) (, ,) (SBAR (IN because) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBN blessed) (S (VP (TO to) (VP (VB have) (NP (NP (DT a) (NN wife)) (SBAR (WHNP (WP who)) (S (ADVP (RB still)) (VP (VBZ thinks) (SBAR (S (NP (NP (PRP$ her) (RB slightly) (JJ eccentric) (NN husband) (POS 's)) (JJ 50th) (NN birthday)) (VP (VBZ deserves) (NP (DT the) (JJ ultimate) (NN present))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (VP (TO To) (VP (VB understand) (SBAR (WHNP (WP what)) (S (NP (NNP Mr.) (NNP Engelken)) (VP (VBZ means))))))) (, ,) (NP (PRP one)) (VP (MD must) (VP (VB go) (ADVP (RB back) (PP (TO to) (NP (DT a) (JJ sunny) (NNP October) (NN afternoon)))) (PP (IN in) (NP (NP (CD 1951)) (PP (IN at) (NP (NP (NNP New) (NNP York) (POS 's)) (NNP Polo) (NNS Grounds) (NN stadium))) (, ,) (SBAR (WHADVP (WRB where)) (PRN (, ,) (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN argued))))) (, ,)) (S (NP (NP (DT the) (ADJP (RBS most) (JJ dramatic)) (NN moment)) (PP (IN in) (NP (NN baseball) (NN history)))) (VP (VBD was) (VP (VBN played) (PRT (RP out)))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT the) (JJ ninth) (NN inning)) (PP (IN of) (NP (DT the) (JJ third) (NN game))) (PP (IN of) (NP (NP (DT a) (JJ three-game) (NN playoff)) (PP (IN between) (NP (NP (DT the) (NNP Brooklyn) (NNP Dodgers)) (CC and) (NP (NP (DT the) (NNP New) (NNP York) (NNP Giants)) (PRN (-LRB- -LRB-) (NP (NP (DT the) (NN predecessor)) (PP (TO to) (NP (DT the) (NNP San) (NNP Francisco) (NNP Giants))) (VP (VBN scheduled) (S (VP (TO to) (VP (VB play) (PP (IN in) (NP (NP (NN tonight) (POS 's)) (NN world) (NN series)))))))) (-RRB- -RRB-))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NN Baseball) (NNS fans)) (PP (IN throughout) (NP (NNP New) (NNP York)))) (VP (VBD had) (VP (VBN sweated) (PRT (RP out)) (NP (DT a) (JJ long) (NN summer)) (PP (IN with) (NP (PRP$ their) (NNS teams)))))) (, ,) (CC and) (S (ADVP (RB now)) (NP (PRP it)) (VP (VBD had) (VP (VBN come) (PP (TO to) (NP (NP (DT this)) (: :) (NP (NP (DT a) (NN battle)) (PP (IN between) (NP (DT the) (CD two))) (PP (IN for) (NP (DT the) (NNP National) (NNP League) (NN pennant)))) (: --) (ADVP (RB down) (PP (TO to) (NP (NP (DT the) (JJ last) (NN inning)) (PP (IN of) (NP (DT the) (JJ last) (NN game)))))))) (, ,) (ADVP (RB no) (RBR less))))) (. .)))
+
+(S1 (S (NP (DT Some) (CD 34,320) (NNS fans)) (VP (VP (VBD jammed) (NP (DT the) (NNS stands))) (, ,) (CC and) (VP (VBD shouted) (PP (IN at) (NP (NP (DT the) (NN top)) (PP (IN of) (NP (PRP$ their) (NNS lungs))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Engelken)) (VP (VBD was) (VP (VBG doing) (NP (DT the) (JJ same)) (PP (IN across) (NP (DT the) (NNP Hudson) (NNP River))) (PP (IN in) (NP (NP (NNP New) (NNP Jersey)) (, ,) (SBAR (WHADVP (WRB where)) (PRN (, ,) (SBAR (IN with) (S (NP (PRP$ his) (NN nose)) (VP (VBN pressed) (PP (IN against) (NP (NP (DT the) (JJ front) (NN window)) (PP (IN of) (NP (DT the) (NNP Passaic-Clifton) (NNP National) (NNP Bank)))))))) (, ,)) (S (NP (PRP he)) (VP (VBD watched) (NP (DT the) (NN duel)) (PP (IN on) (NP (NP (DT a) (NN television) (NN set)) (SBAR (S (NP (DT the) (NN bank)) (VP (VBD set) (PRT (RP up)) (PP (IN for) (NP (DT the) (NN event))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN playoff) (NN series)) (VP (VBD had) (VP (VBD riveted) (NP (DT the) (JJ 12-year-old) (NNP Giants)) (NP (NN fan)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (NNPS Giants)) (VP (VBD struck) (ADVP (RB first)) (, ,) (S (VP (VBG winning) (S (NP (NP (DT the) (NN opener)) (, ,) (ADJP (JJ 3-1)) (, ,) (PP (IN on) (NP (DT a) (NN two-run)))) (VP (VB homer) (PP (IN off) (NP (NNP Dodger) (JJ right-hander) (NNP Ralph) (NNP Branca))))))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Engelken)) (VP (VBZ recalls) (PP (IN with) (NP (NN precision))) (NP (NN today))) (. .)))
+
+(S1 (S (`` `) (`` `) (NP (DT The) (NNPS Giants)) (VP (VP (VBD got) (VP (VBN swamped) (PP (IN in) (NP (DT the) (JJ second) (NN game))) (, ,) (ADVP (CD 100)))) (, ,) (CC and) (VP (VBD trailed) (ADJP (JJ 4-1) (PP (VBG going) (PP (IN into) (NP (NP (DT the) (NN bottom)) (PP (IN of) (NP (DT the) (JJ ninth))) (PP (IN of) (NP (DT the) (UCP (JJ third) (CC and) (VBG deciding)) (NN game))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Giants)) (VP (VP (VBD scored) (ADVP (RB once))) (CC and) (VP (VBD had) (NP (NP (NNS runners)) (PP (IN on) (NP (NP (JJ second) (-LRB- -LCB-) (NNP Whitey) (NNP Lockman) (-RRB- -RCB-)) (CC and) (NP (JJ third) (-LRB- -LCB-) (NNP Clint) (NNP Hartung) (-RRB- -RCB-))))) (SBAR (IN as) (S (NP (NNP Bobby) (NNP Thomson)) (VP (VBD advanced) (PP (TO to) (NP (DT the) (NN plate)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN rest)) (PRN (, ,) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP say)))) (, ,)) (VP (VBZ is) (NP (NN history))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Thomson)) (, ,) (NP (DT a) (JJ tall) (, ,) (JJ Scottish-born) (, ,) (JJ right-hand) (NN hitter)) (, ,)) (VP (VBD stepped) (PP (IN into) (NP (NP (DT the) (VB batter) (POS 's)) (NN box)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNP Thomson)) (VP (VBD took) (NP (DT a) (VBN called) (NN strike)))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Engelken)) (VP (VBZ recounts)) (. .)))
+
+(S1 (S (NP (DT The) (NN tension)) (VP (VBD mounted) (SBAR (IN as) (S (NP (NNP Ralph) (NNP Branca)) (, ,) (PP (ADVP (RB again)) (IN on) (NP (DT the) (NN mound))) (, ,) (VP (VBD stared) (ADVP (RB down) (NP (DT the) (VB batter))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD wound) (PRT (RP up))) (CC and) (VP (VBD let) (ADVP (RB loose) (NP (DT a) (NN fastball))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN pitch)) (VP (VBD sailed) (PP (IN toward) (NP (NNP Bobby) (NNP Thomson))) (ADVP (JJ high) (CC and) (JJ inside)))) (CC and) (S (ADVP (RB then)) (, ,) (PP (IN with) (NP (NP (DT a) (NN crack)) (PP (IN of) (NP (DT the) (NN bat))))) (, ,) (VP (VBD was) (VP (VBN sent) (S (VP (VBG rocketing) (ADVP (RB back)) (PP (IN into) (NP (DT the) (JJR lower) (JJ leftfield) (NNS stands)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NNP Giants) (NNS fans)) (VP (VBD went) (PP (IN into) (NP (NN euphoria))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NNP Mr.) (NNP Engelken)) (. .)))
+
+(S1 (S (CC And) (NP (NNP Bobby) (NNP Thomson)) (VP (VBD was) (VP (VBN made) (NP (DT a) (NN legend)))) (. .)))
+
+(S1 (S (NP (DT The) (JJ same) (NNP Bobby) (NNP Thomson)) (, ,) (NP (PRP it)) (VP (VBZ turns) (PRT (RP out)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ sells) (NP (NP (DT those) (NNS paper-goods)) (NP (NN today))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (MD ca) (RB n't) (VP (VB be) (NP (NP (DT an) (JJR older) (NN baseball) (NN fan)) (ADVP (RB alive)) (SBAR (SBAR (WHNP (WP who)) (S (VP (VBZ does) (RB n't) (ADVP (RB clearly)) (VP (VB remember) (S (NP (DT that) (NNP Bobby) (NNP Thomson)) (VP (VB homer))))))) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD ca) (RB n't) (VP (VB tell) (NP (PRP you)) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD heard) (NP (NP (DT the) (JJ famous) (NNP Russ) (NNP Hodges) (NN radio) (NN broadcast)) (: --) (NP (NP (DT the) (NN one)) (SBAR (WHNP (WDT that)) (S (VP (VBD concluded) (PP (IN with) (NP (NNP Mr.) (NNP Hodges) (NN shouting))) (, ,) (ADVP (IN over) (CC and) (IN over)) (, ,) (`` `) (S (`` `) (S (NP (DT The) (NNPS Giants)) (VP (VBP win) (NP (DT the) (NN pennant)))) (, ,) (NP (DT the) (NNPS Giants)) (VP (VB win) (NP (DT the) (NN pennant))))))))))))))))))))))) (. !) ('' ') ('' ')))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Engelken) (CC and) (NNP Mr.) (NNP Thomson)) (VP (VBD drifted) (PP (IN in) (NP (JJ different) (NNS directions))) (PP (IN in) (NP (DT the) (JJ subsequent) (NNS years))))) (, ,) (CC and) (S (NP (NP (DT the) (NNP Polo) (NNS Grounds)) (, ,) (VP (VBN located) (PP (IN under) (NP (NP (NP (NNP Coogan) (POS 's)) (NNP Bluff)) (PP (IN in) (NP (JJ upper) (NNP Manhattan)))))) (, ,)) (VP (VBD was) (VP (VBN replaced) (PP (IN by) (NP (DT a) (JJ public-housing) (NN project)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Thomson)) (VP (VBD played) (NP (NP (NN outfield)) (CC and) (NP (JJ third) (NN base))) (PP (IN until) (NP (CD 1960))) (, ,) (S (VP (VBG posting) (NP (NP (DT a) (NN lifetime) (CD .270) (NN batting) (NN average)) (CC and) (S (VP (VBG chalking) (PRT (RP up)) (NP (CD 264) (NN home) (NNS runs)) (PP (IN before) (S (VP (VBG retiring) (CC and) (VBG going) (PP (IN into) (NP (JJ paper-goods) (NNS sales)))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP Mr.) (NNP Engelken)) (VP (VBD moved) (ADVP (JJ south)) (PP (TO to) (NP (NNP Washington))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBD took) (PP (IN with) (NP (PRP him))) (S (VP (VBG enduring) (NP (NP (NNS memories)) (PP (IN of) (NP (NP (DT the) (VB homer)) (PP (IN of) (NP (CD 1951)))))))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (NP (PRP$ his) (NN wife)) (, ,) (NP (NNP Betsy)) (, ,)) (VP (VBD came) (PP (IN down) (NP (DT the) (NN aisle))) (PP (IN on) (NP (PRP$ their) (JJ wedding) (NN day))) (PP (IN in) (NP (CD 1966)))))) (, ,) (NP (NP (NNP Mr.) (NNP Engelken)) (: --) (NP (NP (DT no) (NN slouch)) (PP (IN on) (NP (DT the) (JJ romantic) (NN front)))) (: --)) (VP (VBD gave) (NP (PRP her)) (NP (DT the) (JJ ultimate) (NN compliment)) (: :) (`` `) (S (`` `) (NP (PRP You)) (VP (VBP look) (ADJP (ADJP (JJR prettier)) (PP (IN than) (NP (NP (NNP Bobby) (NNP Thomson) (POS 's)) (NN home) (NN run))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NP (DT The) (NN couple) (POS 's)) (JJ first) (NN dog)) (, ,) (NP (VB Homer)) (, ,)) (VP (VBD was) (VP (VBN named) (PP (IN after) (NP (DT the) (NNP Great) (NNP Event))) (, ,) (SBAR (IN though) (S (NP (JJ unwitting) (NNS friends)) (VP (VBD assumed) (SBAR (S (NP (PRP he)) (VP (VBD was) (NP (NP (DT the) (NN namesake)) (PP (IN of) (NP (DT the) (NN poet)))))))))))) (. .)))
+
+(S1 (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (NP (NP (NNP Mr.) (NNP Engelken) (POS 's)) (NN sister)) (, ,) (NP (NNP Martha)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN born) (PP (NP (CD two) (NNS days)) (IN before) (NP (DT the) (NN home) (NN run))))))) (, ,)) (VP (VBD reached) (NP (PRP$ her) (JJ 25th) (NN birthday))))) (, ,) (NP (NNP Mr.) (NNP Engelken)) (VP (VBD wrote) (NP (NP (PRP$ his) (NNS sports) (NN hero) (S (VP (TO to) (VP (VB tell) (NP (PRP him)))))) (PP (IN of) (NP (NP (DT the) (NN coincidence)) (PP (IN of) (NP (NNS events))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Thomson)) (VP (VBD sent) (PRT (RP off)) (NP (DT a) (NN card)) (PP (TO to) (NP (NNP Martha))) (: :) (`` `) (S (`` `) (S (NP (PRP It)) (VP (VBZ does) (RB n't) (VP (VB seem) (PP (IN like) (NP (CD 25) (NNS years))) (SBAR (IN since) (S (NP (PRP I)) (VP (VBD hit) (NP (DT that) (NN home) (NN run)) (S (VP (TO to) (VP (VB celebrate) (NP (PRP$ your) (NN birth))))))))))) (, ,) ('' ') ('' ') (NP (PRP it)) (VP (VB read)))) (. .)))
+
+(S1 (S (NP (NNP Martha)) (VP (VBD was) (ADJP (ADJP (JJ pleased)) (, ,) (CC but) (ADVP (RB nowhere) (JJ near) (PP (IN as) (NP (NP (JJ much)) (PP (IN as) (NP (NNP Mr.) (NNP Engelken)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN family) (NN license) (NN plate)) (VP (VBZ reads) (`` `) (UCP (`` `) (ADJP (JJ ENG) (NP (CD 23))) (, ,) ('' ') ('' ') (NP (NP (NP (DT the) (JJ first) (CD three) (NNS letters)) (PP (IN of) (NP (DT the) (NN family) (NN name)))) (CC and) (PRN (: --) (NP (NP (DT no) (NN surprise)) (ADVP (RB here))) (: --)) (NP (NP (NNP Bobby) (NNP Thomson) (POS 's)) (JJ uniform) (NN number))))) (. .)))
+
+(S1 (S (CC And) (PP (IN on) (NP (NP (NNP Mr.) (NNP Engelken) (POS 's)) (JJ 40th) (NN birthday))) (, ,) (NP (PRP$ his) (NN wife)) (VP (VP (VBD bought) (NP (NP (DT a) (NN book)) (VP (VBG detailing) (NP (DT the) (JJ big) (VB homer))))) (CC and) (VP (VBD sent) (NP (PRP it)) (ADVP (RB off)) (PP (TO to) (NP (NNP Mr.) (NNP Thomson))) (S (VP (TO to) (VP (VB be) (VP (VBN autographed))))))) (. .)))
+
+(S1 (SINV (`` `) (SBARQ (`` `) (WHNP (WP What)) (SQ (MD could) (VP (VB have) (VP (VBN been) (ADJP (JJR better))))) (. ?) ('' ')) ('' ') (VP (VBZ asks)) (NP (NNP Mr.) (NNP Engelken)) (. .)))
+
+(S1 (S (NP (NNP Betsy) (NNP Engelken)) (VP (VBD asked) (NP (DT the) (JJ same) (NN question)) (ADVP (RBR earlier) (NP (DT this) (NN year))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ her) (NN husband)) (VP (VBD was) (VP (IN about) (S (VP (TO to) (VP (VB turn) (NP (CD 50)))))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VBD had) (NP (DT an) (NN idea))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NP (NP (PRP$ her) (NN husband) (POS 's)) (JJ 50th) (NN birthday)) (PRN (-LRB- -LRB-) (S (PP (IN after) (NP (NP (DT an) (JJ auspicious) (CD 23) (NNS years)) (PP (IN of) (NP (NN marriage))))) (, ,) (NP (PRP it)) (VP (MD should) (VP (VB be) (VP (VBN noted))))) (-RRB- -RRB-)))) (, ,) (NP (NP (NNP Betsy)) (, ,) (NP (NNP Al)) (CC and) (NP (PRP$ their) (JJ college-bound) (NN son))) (VP (VBD set) (PRT (RP out)) (PP (IN for) (NP (NNP New) (NNP York))) (S (VP (TO to) (VP (VB visit) (NP (NNP Fordham) (NNP University)))))) (. .)))
+
+(S1 (S (NP (NNP Mrs.) (NNP Engelken)) (VP (VBD had) (VP (VBN scheduled) (NP (NP (DT a) (NN stop)) (PP (IN on) (NP (DT the) (NNP New) (NNP Jersey) (NNP Turnpike)))) (S (VP (TO to) (VP (PRN (, ,) (S (NP (PRP she)) (VP (VBD told) (NP (PRP$ her) (NN husband)))) (, ,)) (VB pick) (PRT (RP up)) (NP (NP (DT some) (NNS papers)) (PP (IN for) (NP (DT a) (NN neighbor))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS papers)) (VP (MD would) (VP (VB be) (VP (VBN handed) (PRT (RP over)) (PP (IN at) (NP (NP (DT a) (NN bank)) (PP (IN of) (NP (NN telephone) (NNS booths))))) (PP (ADVP (RB just)) (RB off) (NP (NN Exit) (CD 10)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBD sounded) (PP (IN like) (NP (NP (NN something)) (PP (IN out) (PP (IN of) (NP (NNP Ian) (NNP Fleming)))))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Engelken)) (VP (VBZ recalls)) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (VBN appointed) (NN exit))) (, ,) (S (NP (DT the) (NN family)) (VP (VBD pulled) (ADVP (RP over)))) (, ,) (CC and) (S (NP (NNP Mrs.) (NNP Engelken)) (VP (VBD went) (S (VP (TO to) (VP (VB get) (NP (PRP$ her) (NNS papers))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Engelken)) (VP (VP (VBD turned) (PRT (RP off)) (NP (DT the) (NN motor))) (CC and) (VP (VBD rolled) (PRT (RP down)) (NP (DT the) (NN window)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (NNS minutes))))) (, ,) (NP (PRP she)) (VP (VBD was) (ADVP (RB back)) (, ,) (PP (IN with) (NP (NP (DT a) (JJ tall) (, ,) (JJ silver-haired) (NN man)) (PP (IN in) (NP (NN tow)))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (VP (VBN crouched) (PRT (RP down)) (PP (IN by) (NP (DT the) (NN car) (NN window)))) (CC and) (VP (VBD addressed) (NP (PRP$ her) (NN husband)) (PP (IN with) (NP (PRP$ her) (JJ favorite) (NN nickname))))) (: :)))
+
+(S1 (FRAG (`` `) (`` `) (NP (NNP Bertie)) (PRN (, ,) ('' ') ('' ') (S (NP (PRP she)) (VP (VBD said))) (, ,) (`` `)) (`` `) (NP (ADJP (JJ Happy) (JJ 50th)) (NN Birthday)) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NNP Bobby) (NNP Thomson))) (. .) ('' ') ('' ')))
+
+(S1 (SINV (`` `) (S (`` `) (CC And) (ADVP (RB there)) (NP (PRP he)) (VP (VBD was))) (, ,) ('' ') ('' ') (VP (VBZ recalls)) (NP (NNP Mr.) (NNP Engelken)) (. .)))
+
+(S1 (X (`` `) (`` `) (NP (NP (DT The) (NN hero)) (PP (IN of) (NP (PRP$ my) (NN youth)))) (, ,) (NP (NP (DT the) (CD one) (NN person)) (PP (IN in) (NP (NN history) (SBAR (S (NP (PRP I)) (VP (MD 'd) (ADVP (RBS most)) (VP (VB like) (S (VP (TO to) (VP (VB meet))))))))))) (. .)))
+
+(S1 (S (S (VP (VB Keep) (NP (PRP$ your) (NX (NX (NNP Thomas) (NNPS Jeffersons)) (, ,) (CC or) (NX (NNP St.) (NNPS Augustines) (CC or) (NNPS Michelangelos)))))) (: ;) (S (NP (PRP I)) (VP (MD 'd) (VP (VB take) (NP (NP (NN baseball) (POS 's)) (NNP Flying) (NNP Scot)) (PP (IN without) (NP (NN hesitation)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP They)) (VP (VBD talked) (PP (IN of) (NP (DT the) (NN home) (NN run)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN in) (NP (DT the) (JJ upper) (NN deck)))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Bobby) (NNP Thomson)) (, ,) (ADJP (RB now) (NP (CD 66) (NNS years)) (JJ old))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD talked) (PP (IN of) (NP (DT the) (NN aftermath)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (ADVP (RB never)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB become) (ADJP (RB so) (JJ momentous)))))))) (, ,) ('' ') ('' ') (NP (NNP Bobby)) (VP (VBD remarked)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Engelken)) (PRN (, ,) (S (VP (VBZ says) (NP (PRP$ his) (NN wife)))) (, ,) (`` `)) (`` `) (VP (VBD was) (VP (VBN overwhelmed) (PP (IN by) (NP (DT the) (JJ whole) (NN thing))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ worth) (NP (PRP it)) (, ,) (PP (ADVP (RB just)) (IN for) (NP (DT the) (NN look)))) (PP (IN on) (NP (NP (NNP Albert) (POS 's)) (NN face)))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (DT The) (CD two) (NNS men)) (VP (VBD spent) (NP (DT an) (NN hour)) (PP (IN at) (NP (NN Exit) (CD 10))) (, ,) (S (VP (VBG rehashing) (NP (DT the) (NN event)))))) (, ,) (`` `) (S (`` `) (S (S (VP (VBG fulfilling) (NP (NP (DT the) (JJ lifelong) (NN dream)) (PP (IN of) (NP (DT a) (JJ young) (NN boy)))) (ADVP (RB now)))) (VP (VBD turned) (NP (CD 50)))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Engelken)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN hero)) (VP (VP (VBD signed) (S (NP (NP (NNS photographs)) (PP (IN of) (NP (DT the)))) (VP (VB homer)))) (CC and) (VP (ADVP (RB diplomatically)) (VBD called) (NP (NNP Ralph) (NNP Branca)) (`` `) (S (`` `) (NP (DT a) (ADJP (RB very) (JJ fine)) (NN pitcher))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (NNP Mr.) (NNP Engelken)) (VP (VBD asked) (NP (PRP him)) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBD took) (NP (NN time)) (ADVP (IN off) (PP (IN from) (NP (NN work)))) (PP (IN for) (NP (NP (NN somebody)) (SBAR (S (NP (PRP he)) (VP (VBD did) (RB n't) (ADVP (RB even)) (VP (VB know))))))))))))) (, ,) (NP (NNP Bobby) (NNP Thomson)) (VP (VBD replied) (: :) (`` `) (S (`` `) (S (NP (PRP You)) (VP (VBP know))) (, ,) (NP (NNP Albert)) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT the) (NN chance)) (PP (IN in) (NP (NN life)))) (S (VP (TO to) (VP (VB make) (S (NP (NN somebody)) (ADJP (DT this) (JJ happy))))))))) (, ,) (NP (PRP you)) (VP (VBP have) (NP (DT an) (NN obligation) (S (VP (TO to) (VP (VB do) (NP (PRP it))))))) (. .) ('' '))) ('' ')))
+
+(S1 (S (PP (IN In) (NP (DT an) (NN interview))) (, ,) (NP (NP (NNP Mr.) (NNP Thomson)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBZ is) (VP (VBN married))) (CC and) (VP (VBZ has) (NP (CD three) (JJ grown) (NNS children)))))) (, ,)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ has) (NP (NP (JJ few) (NNS ties)) (PP (TO to) (NP (NP (NP (NN baseball)) (NP (DT these) (NNS days))) (, ,) (ADJP (JJ other) (PP (IN than) (S (VP (VBG playing) (NP (NNS old-timers) (NNS games)) (ADVP (RB now) (CC and) (RB again))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP$ his) (NNS fans)) (, ,) (PP (TO to) (NP (PRP$ his) (JJ constant) (NN amazement))) (, ,) (ADVP (RB never)) (VP (VB let) (S (NP (PRP him)) (VP (VB forget) (NP (DT the) (JJ famous) (NN four-bagger))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN mail)) (ADVP (RB regularly)) (VP (VP (VBZ recalls) (`` `) (NP (`` `) (NP (PRP$ my) (CD one) (NN event)) (, ,) ('' ')) ('' ')) (CC and) (VP (VBZ has) (VP (VBN been) (VP (VBG growing) (PP (IN in) (NP (JJ recent) (NNS years))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN response)) (PP (TO to) (NP (DT the) (NNS letters))))) (, ,) (NP (NNP Mr.) (NNP Thomson)) (VP (VP (ADVP (RB usually)) (VBZ sends) (NP (NP (DT an) (VBN autographed) (NN photo)) (PP (IN with) (NP (DT a) (JJ polite) (NN note))))) (, ,) (CC and) (VP (ADVP (RB rarely)) (VBZ arranges) (NP (DT a) (NN rendezvous)))) (. .)))
+
+(S1 (S (CC But) (SBAR (WHADVP (WRB when)) (S (NP (NNP Betsy) (NNP Engelken)) (VP (VBD wrote) (NP (PRP him)) (, ,) (S (VP (VBG saying) (SBAR (S (NP (PRP she)) (VP (MD could) (VP (VB stop) (PP (IN near) (NP (PRP$ his) (NNP New) (NNP Jersey) (NN home)))))))))))) (, ,) (NP (PRP it)) (VP (VBD seemed) (ADJP (JJ different))) (. .)))
+
+(S1 (S (`` `) (SBAR (`` `) (WHNP (WP What) (DT a) (JJ good) (NN feeling)) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (SBAR (IN for) (S (NP (PRP me)) (VP (TO to) (VP (VB do) (NP (DT that)))))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBD thought))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NNP Engelken) (NN family)) (VP (VBD got) (PRT (RP back)) (PP (IN from) (NP (NP (PRP$ its) (NN trip)) (ADVP (RB up) (RB north))))))) (, ,) (NP (NNP Mr.) (NNP Engelken)) (VP (VBD wrote) (S (NP (PRP it)) (ADVP (DT all) (IN down))) (, ,) (S (ADVP (RB just)) (VP (TO to) (VP (VB make) (ADJP (JJ sure) (SBAR (S (NP (DT no) (NN detail)) (VP (VBD was) (VP (VBN missed)))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN On) (NP (NP (DT the) (NN way)) (ADVP (RB home))))) (, ,) ('' ') ('' ') (NP (PRP$ his) (NNS notes)) (VP (VB recall) (, ,) (`` `) (S (`` `) (NP (PRP it)) (VP (VBD took) (NP (JJ concentrated) (NN effort)) (S (VP (TO to) (VP (VB keep) (S (NP (DT that) (NN car)) (VP (VBN pointed) (ADVP (RB south)))))))))) (. .)))
+
+(S1 (S (NP (PRP$ My) (NN mind)) (VP (VBD was) (ADVP (NP (NNS miles)) (RB north)) (PP (IN at) (NP (NP (DT a) (NN place)) (VP (VBN called) (S (NP (NP (NP (NNP Coogan) (POS 's)) (NNP Bluff)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (JJ real) (NNS sports) (NN hero)) (VP (VBD had) (VP (VBN captured) (NP (NP (DT the) (NN imagination)) (PP (IN of) (NP (NP (DT a) (NN kid)) (SBAR (WHNP (WP who)) (S (ADVP (RB never)) (VP (VP (ADVP (RB fully)) (VBD grew) (PRT (RP up))) (CC and) (VP (VBZ is) (ADVP (PDT all) (DT the) (JJR richer)) (PP (IN for) (NP (PRP it)))))))))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (VP (VB Take) (NP (NN heart) (, ,) (NNS sports) (NNS fans)))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD wrote)) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (JJ Real) (NNS heroes)) (VP (VBP exist))) (. .)))
+
+(S1 (S (NP (PRP You)) (VP (MD might) (RB not) (VP (VB find) (NP (NP (CD one)) (PP (IN in) (NP (DT the) (`` `) (NN Jurisprudence) ('' ') (NN column)))))) (. .)))
+
+(S1 (SBARQ (CC But) (WHNP (WP who)) (SQ (VP (VBZ knows))) (. ?)))
+
+(S1 (S (NP (PRP You)) (VP (MD might) (VP (VB meet) (PRT (RP up)) (PP (IN with) (NP (PRP him))) (PP (IN at) (NP (NP (DT that) (NN bank)) (PP (IN of) (NP (NP (NN telephone) (NNS booths)) (PP (ADVP (RB just)) (RB off) (NP (NN Exit) (CD 10))) (PP (IN of) (NP (DT the) (NNP New) (NNP Jersey) (NNP Turnpike))))))))) (. .)))
+

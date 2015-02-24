@@ -1,0 +1,38 @@
+(S1 (S (NP (NNP Tandy) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD wo) (RB n't) (VP (VB join) (NP (NP (NNP U.S.) (NNPS Memories)) (, ,) (NP (NP (DT the) (NN group)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seeks) (S (VP (TO to) (VP (NN battle) (NP (DT the) (NNPS Japanese)) (PP (IN in) (NP (NP (DT the) (NN market)) (PP (IN for) (NP (NN computer) (NN memory) (NNS chips)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Tandy) (POS 's)) (NN decision)) (VP (VBZ is) (NP (NP (DT a) (JJ second) (NN setback)) (PP (IN for) (NP (NNP U.S.) (NNPS Memories))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN month)) (, ,) (NP (NNP Apple) (NNP Computer) (NNP Inc.)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (RB n't) (VP (VB invest) (PP (IN in) (NP (DT the) (NN group)))))))) (. .)))
+
+(S1 (S (NP (NNP Apple)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP$ its) (NN money)) (VP (MD would) (VP (VB be) (VP (ADVP (RB better)) (VBN spent) (PP (IN in) (NP (NP (NNS areas)) (PP (JJ such) (IN as) (NP (NN research) (CC and) (NN development))))))))))) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NNPS Memories)) (VP (VBZ is) (VP (VBG seeking) (S (NP (JJ major) (NNS investors)) (VP (TO to) (VP (VB back) (NP (PRP$ its) (NN attempt)) (S (VP (TO to) (VP (VB crack) (NP (NP (NP (DT the) (ADJP (QP ($ $) (CD 10) (CD billion))) (NN market)) (PP (IN for) (NP (JJ dynamic) (JJ random) (NN access) (NN memory) (NNS chips)))) (, ,) (NP (NP (DT a) (NN market)) (VP (VBN dominated) (PP (IN by) (NP (DT the) (NNP Japanese)))))))))))))) (. .)))
+
+(S1 (S (NP (DT Those) (NNS chips)) (VP (VBD were) (PP (IN in) (NP (NP (JJ dire) (NN shortage)) (NP (JJ last) (NN year)))) (, ,) (S (VP (VBG hurting) (NP (NP (JJ many) (NNP U.S.) (NN computer) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (RB n't) (VP (VB get) (NP (JJ sufficient) (JJ Japanese-supplied) (NNS chips)))))))))) (. .)))
+
+(S1 (S (NP (NNP Tandy)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ its) (NN experience)) (PP (IN during) (NP (DT the) (NN shortage)))) (VP (VBD did) (RB n't) (VP (VB merit) (NP (NP (DT the) (ADJP (QP ($ $) (CD 5) (CD million) (TO to) ($ $) (CD 50) (CD million))) (NN investment)) (SBAR (S (NP (NNP U.S.) (NNPS Memories)) (VP (VBZ is) (VP (VBG seeking) (PP (IN from) (NP (DT each) (NN investor))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (PP (IN At) (NP (DT this) (NN time))) (, ,) (NP (PRP we)) (VP (VBD elected) (S (RB not) (VP (TO to) (VP (VB get) (ADJP (VBN involved) (SBAR (IN because) (S (NP (PRP we)) (VP (VBP have) (VP (VBN been) (ADJP (JJ able) (S (VP (TO to) (VP (VB satisfy) (NP (NP (PRP$ our) (NN need)) (-LRB- -LCB-) (PP (IN for) (NP (NNS DRAMs))) (-RRB- -RCB-)) (PP (IN from) (NP (DT the) (NN market))))))) (PP (IN as) (NP (DT a) (NN rule))))))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Ed) (NNP Juge)) (, ,) (NP (NP (NP (NNP Tandy) (POS 's)) (NN director)) (PP (IN of) (NP (NN market) (NN planning))))) (. .)))
+
+(S1 (S (NP (NP (NNP Sanford) (NNP Kane)) (, ,) (NP (NNP U.S.) (NNPS Memories) (NN president)) (, ,)) (VP (VP (VBD said) (SBAR (S (NP (DT the) (NN decision)) (VP (VBD was) (`` `) (ADJP (`` `) (JJ disappointing)) (, ,) ('' '))))) ('' ') (CC but) (VP (VBZ does) (RB n't) (VP (VB presage) (NP (NP (NNP U.S.) (NNPS Memories) (POS ')) (NN failure))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB have) (VP (VBD had) (NP (PRP them)))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (CC But) (`` `) (`` `) (S (NP (PRP they)) (VP (VBD were) (RB n't) (PP (IN on) (NP (NP (PRP$ my) (NN list)) (PP (IN of) (NP (NP (NNS companies)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADJP (JJ critical) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN part)) (PP (IN of) (NP (PRP it))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Kane)) (VP (VBD became) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP U.S.) (NNPS Memories)))) (NP (JJ last) (NNP June)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN group)) (VP (VBD was) (VP (VBN formed) (PP (IN by) (NP (NP (CD seven) (NNS electronics) (NNS companies)) (: :) (NP (NP (NNP Advanced) (NNP Micro) (NNPS Devices) (NNP Inc.)) (, ,) (NP (NNP Digital) (NNP Equipment) (NNP Corp.)) (: ;) (NP (NNP Hewlett-Packard) (NNP Co.)) (: ;) (NP (NNP Intel) (NNP Corp.)) (: ;) (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.)) (: ;) (NP (NP (NNP LSI) (NNP Logic) (NNP Corp.)) (CC and) (NP (NNP National) (NNP Semiconductor) (NNP Corp))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Kane)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ expects) (S (NP (QP (CD two) (CC or) (CD three)) (JJ major) (NNS corporations)) (VP (TO to) (VP (VB announce) (NP (NP (PRP$ their) (NN participation)) (PP (IN in) (NP (NNP U.S.) (NNPS Memories)))) (SBAR (RB soon) (IN after) (S (NP (DT the) (NN group)) (VP (VBZ finishes) (NP (NP (DT a) (NN business) (NN plan)) (, ,) (RB probably) (NP (RB late) (DT this) (NN week))))))))))))) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NNPS Memories)) (VP (VBZ needs) (NP (NP (DT a) (NN catalyst)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,))) (S (VP (TO to) (VP (VB inspire) (S (NP (NNS others)) (VP (TO to) (VP (VB join)))))))) (. .)))
+
+(S1 (S (CC But) (ADVP (RB so) (RB far)) (, ,) (NP (JJS most) (JJ potential) (NNS participants)) (VP (VBP have) (RB n't) (VP (VBN decided))) (. .)))
+
+(S1 (S (NP (NNP Sun) (NNPS Microsystems) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VP (VBZ 's) (ADVP (RB still)) (VP (ADVP (RB actively)) (VBG evaluating) (NP (NNP U.S.) (NNPS Memories)))) (CC and) (VP (VBZ plans) (S (VP (TO to) (VP (VB meet) (PP (IN with) (NP (NNP U.S.) (NNPS Memories) (NNS representatives))) (NP (RB later) (DT this) (NN week)))))))))) (. .)))
+
+(S1 (S (NP (NNP American) (NNP Telephone) (CC &) (NNP Telegraph) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (VP (VBG waiting) (S (VP (TO to) (VP (VB see) (NP (NP (NNP U.S.) (NNPS Memories) (POS ')) (NN business) (NN plan)))))))))) (. .)))
+
+(S1 (S (NP (NN Personal-computer) (NN maker) (NNP AST) (NNP Research) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB still)) (VP (VBG studying) (NP (DT the) (NN situation))))))) (. .)))
+
+(S1 (S (NP (DT A) (NP (NNP Compaq) (NNP Computer) (NNP Corp.)) (NN spokeswoman)) (VP (VBD said) (SBAR (IN that) (S (NP (DT the) (NN company)) (VP (VBZ has) (RB n't) (VP (VBN made) (NP (DT a) (NN decision)) (ADVP (RB yet)) (, ,) (SBAR (IN although) (`` `) (`` `) (S (NP (PRP it)) (VP (VBZ is) (RB n't) (PP (IN under) (NP (JJ active) (NN consideration))))))))))) (. .)))
+

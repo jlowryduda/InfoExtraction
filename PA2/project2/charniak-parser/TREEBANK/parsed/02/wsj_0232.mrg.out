@@ -1,0 +1,12 @@
+(S1 (S (NP (JJ French) (NN consumer) (NNS prices)) (VP (VP (VBD rose) (NP (CD 0.2) (NN %)) (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (DT the) (JJ previous) (NN month)))) (CC and) (VP (VBD were) (ADVP (RB up) (NP (CD 3.4) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (JJ definitive) (NNS figures)) (PP (IN from) (NP (DT the) (NNP National) (NNPS Statistics) (NNP Institute))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN state) (NN agency) (POS 's)) (NNS figures)) (VP (VP (VBP confirm) (NP (JJ previous) (NNS estimates))) (CC and) (VP (VB leave) (NP (DT the) (NN index)) (PP (IN at) (NP (NP (CD 178.9)) (, ,) (ADVP (RB up) (PP (IN from) (NP (NP (NP (CD 178.5)) (PP (IN in) (NP (NNP August)))) (CC and) (NP (CD 173.1))) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN index)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (S (NP (CD 1980)) (VP (VBG equaling) (NP (CD 100))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN breakdown)) (VP (VBD showed) (SBAR (IN that) (S (NP (NN food) (NNS prices)) (VP (VBD were) (NP (NP (DT the) (ADJP (RBS most) (JJ active)) (NN part)) (PP (IN of) (NP (NN growth)))) (PP (IN with) (NP (NP (DT a) (NN rise)) (PP (IN of) (NP (CD 0.6) (NN %))))))))) (. .)))
+
+(S1 (S (NP (DT An) (NN official)) (VP (VBD linked) (NP (NP (DT the) (NN gain)) (ADVP (RB essentially))) (PP (TO to) (NP (NP (JJR higher) (NNS prices)) (PP (IN for) (NP (NN beef) (CC and) (NN pork)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (NP (NN summer) (NN drought) (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (VP (VBN hit) (NP (JJ several) (JJ southern) (JJ agricultural) (NNS regions))))))) (VP (VBD had) (VP (VBN stopped) (S (VP (VBG being) (NP (NP (DT a) (JJ major) (NN source)) (PP (IN of) (NP (NN price) (NN pressure)))) (PP (IN in) (NP (NNP September)))))))))) (. .)))
+

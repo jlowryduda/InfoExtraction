@@ -1,0 +1,16 @@
+(S1 (S (S (NP (CD Three) (JJ new) (NNS issues)) (VP (VBP begin) (NP (NP (NN trading)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))) (NP (NN today)))) (, ,) (CC and) (S (NP (CD one)) (VP (VBD began) (S (VP (VBG trading) (PP (IN on) (NP (DT the) (NNP Nasdaq\/National) (NNP Market) (NNP System))) (NP (JJ last) (NN week)))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT the) (NNP Big) (NNP Board))) (, ,) (NP (NP (NP (NNP Crawford) (CC &) (NNP Co.)) (, ,) (NP (NNP Atlanta)) (, ,)) (PRN (-LRB- -LRB-) (NP (NNP CFD)) (-RRB- -RRB-))) (VP (VBZ begins) (NP (NN trading) (NN today))) (. .)))
+
+(S1 (S (NP (NNP Crawford)) (VP (VP (VBZ evaluates) (NP (NN health) (NN care) (NNS plans))) (, ,) (VP (VBZ manages) (NP (NP (UCP (JJ medical) (CC and) (NN disability)) (NNS aspects)) (PP (IN of) (NP (NP (NN worker) (POS 's)) (NN compensation) (NNS injuries))))) (CC and) (VP (VBZ is) (VP (VBN involved) (PP (IN in) (NP (NP (NNS claims) (NNS adjustments)) (PP (IN for) (NP (NN insurance) (NNS companies)))))))) (. .)))
+
+(S1 (SINV (ADVP (RB Also)) (VP (VBG beginning) (NP (NN trading) (NN today)) (PP (IN on) (NP (DT the) (NNP Big) (NNP Board)))) (VP (VBP are) (NP (NP (NP (NP (NNP El) (NNP Paso)) (NN Refinery) (NNP Limited) (NNP Partnership)) (, ,) (NP (NP (NNP El) (NNP Paso)) (, ,) (NP (NNP Texas)) (, ,)) (PRN (-LRB- -LRB-) (NP (NNP ELP)) (-RRB- -RRB-))) (CC and) (NP (NNP Franklin) (NNP Multi-Income) (NNP Trust)) (, ,))) (NP (NP (NP (NNP San) (NNP Mateo)) (, ,) (NP (NNP Calif.)) (, ,)) (PRN (-LRB- -LRB-) (NP (NNP FMI)) (-RRB- -RRB-))) (. .)))
+
+(S1 (S (NP (NNP El) (NNP Paso)) (VP (VBZ owns) (CC and) (VBZ operates) (NP (DT a) (NN petroleum) (NN refinery))) (. .)))
+
+(S1 (S (NP (NNP Franklin)) (VP (VBZ is) (NP (DT a) (JJ closed-end) (NN management) (NN investment) (NN company))) (. .)))
+
+(S1 (S (PP (IN On) (NP (DT the) (NNP Nasdaq) (JJ over-the-counter) (NN system))) (, ,) (NP (NP (NNP Allied) (NNP Capital) (NNP Corp.)) (, ,) (NP (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C.)) (, ,)) (PRN (-LRB- -LRB-) (NP (NNP ALII)) (-RRB- -RRB-)))) (VP (VBD began) (S (VP (VBG trading) (NP (JJ last) (NNP Thursday))))) (. .)))
+
+(S1 (S (NP (NNP Allied) (NNP Capital)) (VP (VBZ is) (NP (NP (DT a) (JJ closed-end) (NN management) (NN investment) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB operate) (PP (IN as) (NP (DT a) (NN business) (NN development) (NN concern))))))))) (. .)))
+

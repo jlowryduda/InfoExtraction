@@ -1,0 +1,28 @@
+(S1 (S (NP (NP (NP (NNP John) (NNP Lehman) (POS 's)) (NN editorial-page) (NN article)) (PP (IN on) (NP (DT the) (NNP Pentagon)))) (PP (IN as) (NP (DT a) (JJ haunted) (NN house))) (VP (VBZ omits) (NP (NP (DT the) (JJ real) (NNS roots)) (PP (IN of) (NP (NP (PRP$ its) (NN ghost) (NN population)) (PRN (-LRB- -LRB-) (`` `) (S (`` `) (PP (IN In) (NP (DT the) (NNP Pentagon))) (, ,) (NP (DT the) (NNP Undead)) (VP (VB Walk)) (, ,) ('' ')) ('' ') (NP (NNP Oct.) (CD 18)) (-RRB- -RRB-)))))) (. .)))
+
+(S1 (S (S (S (NP (NP (NP (DT The) (NNS media) (POS 's)) (NN treatment)) (PP (IN of) (NP (DT the) (NNP Defense) (NNP Department)))) (PP (IN during) (NP (DT the) (NNP Vietnam) (NNP War)))) (, ,) (NP (DT the) (NNP Carter) (NN administration)) (VP (VBZ 's) (NP (NP (NN denigration)) (PP (IN of) (NP (DT the) (NN military)))))) (, ,) (CC and) (S (NP (NP (DT the) (JJ public) (NN scapegoating)) (PP (IN of) (NP (NNP Lt.) (NNP Col.) (NNP Oliver) (NNP North)))) (VP (VBP have) (DT all) (VP (VBN served) (S (VP (TO to) (VP (VB emasculate) (NP (NP (DT the) (JJ poor) (NNS souls)) (SBAR (WHNP (WP who)) (S (VP (VBP live) (ADVP (RB there)))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (VBG resulting) (JJ haunted) (NN house)) (VP (VBZ tends) (S (VP (TO to) (VP (VB reward) (NP (NP (NN followership)) (, ,) (RB not) (NP (NN leadership)))))))) (, ,) (NP (PRP it)) (VP (VP (VBZ creates) (NP (NP (NN guilt)) (PP (IN about) (S (VP (VBG wearing) (NP (DT the) (NN uniform))))))) (, ,) (CC and) (VP (VBZ raises) (NP (NP (NN doubt)) (PP (IN about) (S (VP (VBG having) (S (NP (DT the) (NN will)) (VP (TO to) (VP (VB fulfill) (NP (NP (NP (DT the) (NNS ghosts) (POS ')) (NN role)) (PRN (, ,) (FW i.e.) (, ,))) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB win) (SBAR (IN if) (S (VP (VBN called) (PRT (RP on))))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Perhaps)) (NP (DT the) (NNP Halloween) (NN season)) (VP (VBZ is) (NP (NP (DT a) (JJ good) (NN time)) (SBAR (IN for) (S (NP (NNP Congress)) (VP (TO to) (VP (VB be) (VP (VBG looking) (PP (IN at) (NP (NP (NN funding)) (PP (IN for) (NP (DT some) (NN ghostbusting) (NN equipment)))))))))))) (. .)))
+
+(S1 (NP (NP (NNP Mike) (NNP Greece) (NNP Former) (NNP Air) (NNP Force)) (NP (NN Career) (NNP Officer) (NNP New) (NNP York))))
+
+(S1 (SBARQ (WHADVP (WRB Where)) (SQ (VBZ does) (NP (NNP Mr.) (NNP Lehman)) (VP (VB get) (PP (IN off) (S (VP (VBG castigating) (NP (NNP Gen.) (NNP George) (NNP Marshall)) (PP (IN for) (S (VP (VBG muscling) (PRT (RP in)) (PP (IN on) (NP (JJ naval) (NNS prerogatives))))))))))) (. ?)))
+
+(S1 (S (PP (RB Ever) (IN since) (NP (NP (DT the) (NNS days)) (PP (IN of) (NP (NP (NP (NNP Alfred) (NNP Thayer) (NNP Mahan)) (-LRB- -LRB-) (NP (NP (NNP U.S.) (JJ naval) (NN officer)) (CC and) (NP (JJ naval) (NN historian))) (-RRB- -RRB-)) (CC and) (NP (NNP Teddy) (NNP Roosevelt)))))) (NP (DT the) (NNP Navy)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN service)) (VP (ADVP (RBS most)) (VBN favored) (PP (IN by) (NP (NNP Washington) (NN officialdom))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lehman)) (VP (VBZ overlooks) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (DT the) (NNP Navy)) (VP (VBZ possesses) (NP (NP (PRP$ its) (JJ own) (NN air) (NN force)) (PRN (-LRB- -LRB-) (NP (DT the) (NN carrier) (NN fleet)) (-RRB- -RRB-)) (CC and) (NP (PRP$ its) (JJ own) (NN army)) (PRN (-LRB- -LRB-) (NP (DT the) (NNPS Marines)) (-RRB- -RRB-)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (NN turn))) (VP (VBZ has) (NP (PRP$ its) (JJ own) (NN air) (NN force))))))))))) (. .)))
+
+(S1 (S (S (PP (IN Of) (NP (NN course))) (NP (DT these) (NN turf) (NNS battles)) (VP (VP (VBP are) (ADJP (ADJP (JJ unseemly)) (, ,) (ADJP (JJ wasteful)) (CC and) (ADJP (RB potentially) (JJ dangerous)))) (CC and) (VP (MD should) (VP (VB be) (VP (VBN resolved) (PP (IN in) (NP (NP (DT the) (NN interest)) (PP (IN of) (NP (JJ national) (NN security)))))))))) (, ,) (CC but) (S (NP (NNP Mr.) (NNP Lehman)) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (NP (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN problem)))) (CONJP (RB rather) (IN than)) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN answer)))))))))) (. .)))
+
+(S1 (NP (NP (NNP L.H.) (NNP Blum) (NNP Beaumont)) (, ,) (NP (NNP Texas))))
+
+(S1 (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (NP (NNP Mr.) (NNP Lehman)) (ADJP (CD 100) (NN %))))) (. !)))
+
+(S1 (SQ (VBZ Is) (NP (RB n't) (DT this)) (NP (NP (DT the) (JJ same) (NN guy)) (SBAR (WHNP (WP who)) (S (VP (VBD resigned) (PP (IN as) (NP (NNP Navy) (NN secretary))) (SBAR (IN because) (S (NP (PRP he)) (VP (MD could) (RB n't) (VP (VB get) (NP (PRP$ his) (JJ 1,000-ship) (NNP Navy)))))))))) (. ?)))
+
+(S1 (S (S (NP (PRP I)) (ADVP (RB personally)) (VP (VBP do) (RB not) (VP (VB want) (S (VP (TO to) (VP (VB hasten) (NP (NP (NNP Mr.) (NNP Lehman) (POS 's)) (NN demise)))))))) (, ,) (CC but) (S (NP (PRP I)) (VP (MD can) (VP (VB see) (S (NP (PRP him)) (VP (VBG figuring) (ADVP (RB prominently)) (PP (IN in) (NP (PRP$ his) (JJ own) (NN article)))))))) (. .)))
+
+(S1 (NP (NP (NNP Carl) (NNP Banerian) (NNP Jr) (. .)) (NP (NP (NNP Birmingham)) (, ,) (NP (NNP Mich))) (. .)))
+

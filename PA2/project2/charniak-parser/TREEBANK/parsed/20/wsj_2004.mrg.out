@@ -1,0 +1,38 @@
+(S1 (S (NP (NNS Arbitragers)) (VP (VBD were) (RB n't) (NP (NP (DT the) (JJ only) (JJ big) (NNS losers)) (PP (IN in) (NP (NP (DT the) (NN collapse)) (PP (IN of) (NP (NNP UAL) (NNP Corp.) (NN stock))))))) (. .)))
+
+(S1 (S (VP (VB Look) (PP (IN at) (SBAR (WHNP (WP what)) (S (VP (VBD happened) (PP (TO to) (NP (NP (NP (NP (NP (NNP UAL) (POS 's)) (NN chairman)) (, ,) (NP (NNP Stephen) (NNP M.) (NNP Wolf)) (, ,)) (CC and) (NP (PRP$ its) (JJ chief) (JJ financial) (NN officer))) (, ,) (NP (NNP John) (NNP C.) (NNP Pope))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NP (DT a) (NN day)) (SBAR (S (NP (DT some) (NNP United) (NNPS Airlines) (NNS employees)) (VP (VBD wanted) (SBAR (S (S (NP (NNP Mr.) (NNP Wolf)) (VP (VBD fired))) (CC and) (S (NP (NN takeover) (NN stock) (NNS speculators)) (VP (VBD wanted) (NP (PRP$ his) (NN scalp))))))))))) (, ,) (NP (NP (NNP Messrs.) (NNP Wolf)) (CC and) (NP (NNP Pope))) (VP (VBD saw) (SBAR (S (NP (PRP$ their) (JJ prospective) (JJ personal) (NNS fortunes)) (VP (VBP continue) (S (VP (TO to) (VP (VB plummet) (SBAR (IN as) (S (NP (NP (NNS shares)) (PP (IN of) (NP (NP (NNP UAL)) (, ,) (NP (NP (NNP United) (POS 's)) (NN parent) (NN company)) (, ,)))) (VP (VBD dived) (NP ($ $) (CD 24.875)) (PP (IN on) (NP (DT the) (NNP Big) (NNP Board))) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP ($ $) (CD 198)))))))))))))))) (. .)))
+
+(S1 (S (PP (VBG Including) (NP (NP (NNP Monday) (POS 's)) (NN plunge))) (, ,) (NP (DT that)) (VP (VBZ has) (VP (VBN given) (NP (DT the) (CD two) (NNS executives)) (NP (NP (NN paper) (NNS losses)) (PP (IN of) (NP (QP ($ $) (CD 49.5) (CD million))))) (, ,) (PP (VBN based) (PP (IN on) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (MD would) (VP (VB have) (VP (VBN realized) (SBAR (S (VP (VBD had) (NP (NP (DT the) (NNS pilots)) (CC and) (NP (NP (JJ management-led) (NN buy-out)) (PP (IN of) (NP (NNP UAL))))) (VP (VBN gone) (PP (IN through)) (PP (IN at) (NP (NP ($ $) (CD 300)) (NP (DT a) (NN share))))))))))))))))) (. .)))
+
+(S1 (SINV (SBAR (WHADVP (WRB When)) (S (NP (NP (NN bank) (NN financing)) (PP (IN for) (NP (DT the) (NN buy-out)))) (VP (VBD collapsed) (NP (JJ last) (NN week))))) (, ,) (ADVP (RB so)) (VP (VBD did)) (NP (NP (NNP UAL) (POS 's)) (NN stock)) (. .)))
+
+(S1 (S (SBAR (RB Even) (IN if) (S (NP (DT the) (NNS banks)) (VP (VB resurrect) (NP (DT a) (NN financing) (NN package)) (PP (IN at) (NP (NP ($ $) (CD 250)) (NP (DT a) (NN share))))))) (, ,) (NP (DT the) (CD two) (NNS executives)) (VP (MD would) (ADVP (RB still)) (VP (VB get) (ADJP (ADJP (NP (QP (RB about) ($ $) (CD 25) (CD million))) (JJR less)) (SBAR (IN than) (S (NP (PRP they)) (VP (VBD stood) (S (VP (TO to) (VP (VB gain) (PP (IN in) (NP (DT the) (JJ initial) (NN transaction)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Wolf)) (VP (VP (VBZ owns) (NP (CD 75,000) (NNP UAL) (NNS shares))) (CC and) (VP (VBZ has) (NP (NP (NNS options)) (SBAR (S (VP (TO to) (VP (VB buy) (NP (QP (DT another) (CD 250,000))) (PP (IN at) (NP (NP ($ $) (CD 83.3125)) (NP (DT each))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (ADJP ($ $) (JJ 300-a-share)) (NN buyout))) (, ,) (NP (DT that)) (VP (VBD totaled) (NP (QP (RB about) ($ $) (CD 76.7) (CD million)))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (NP (NN yesterday) (POS 's)) (NN close)) (PP (IN of) (NP (NN trading))))) (, ,) (NP (PRP it)) (VP (VBD was) (ADJP (JJ good) (PP (IN for) (NP (DT a) (JJ paltry) (QP ($ $) (CD 43.5) (CD million)))))) (. .)))
+
+(S1 (S (PP (IN Of) (NP (NN course))) (, ,) (NP (NP (NNP Mr.) (NNP Wolf)) (, ,) (ADJP (NP (CD 48) (NNS years)) (JJ old)) (, ,)) (VP (VBZ has) (NP (DT some) (NNS savings))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (VP (VBD left) (NP (NP (PRP$ his) (JJ last) (CD two) (NNS jobs)) (PP (IN at) (NP (NP (NNP Republic) (NNP Airlines)) (CC and) (NP (NNP Flying) (NNP Tiger))))) (PP (IN with) (NP (NP (VBN combined) (NN stock-option) (NNS gains)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 22) (CD million)))))))) (, ,) (CC and) (S (NP (NNP UAL)) (VP (VBD gave) (NP (PRP him)) (NP (NP (DT a) (ADJP (QP ($ $) (CD 15) (CD million))) (NN bonus)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD hired) (NP (PRP him)))))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (CD 1988) (NN salary)) (VP (VBD was) (NP ($ $) (CD 575,000)) (, ,) (PP (IN with) (NP (DT a) (ADJP ($ $) (CD 575,000)) (NN bonus)))) (. .)))
+
+(S1 (S (NP (DT The) (ADJP (JJ 40-year) (JJ old)) (NNP Mr.) (NNP Pope)) (VP (VBZ has) (RB n't) (VP (VBN changed) (NP (NNS jobs)) (NP (NP (JJ enough)) (PRN (: --) (NP (ADVP (IN at) (JJS least)) (DT the) (JJ right) (NNS ones)) (: --)) (SBAR (S (VP (TO to) (VP (VB stash) (PRT (RP away)) (NP (NP (DT that) (NN kind)) (PP (IN of) (NP (NN money))))))))))) (. .)))
+
+(S1 (S (S (NP (NNP United)) (VP (VBD paid) (NP (PRP him)) (NP (DT a) (ADJP ($ $) (CD 375,000)) (NN bonus)) (S (VP (TO to) (VP (VB lure) (NP (PRP him)) (ADVP (RB away) (PP (IN from) (NP (NNP American) (NNP Airlines))))))))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBD was) (VP (VBN paid) (NP (NP (DT a) (NN salary)) (PP (IN of) (NP (NP ($ $) (CD 342,122)) (NP (JJ last) (NN year))))) (PP (IN with) (NP (DT a) (ADJP ($ $) (CD 280,000)) (NN bonus)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Pope)) (VP (VP (VBZ owns) (NP (CD 10,000) (NNP UAL) (NNS shares))) (CC and) (VP (VBZ has) (NP (NP (NNS options)) (SBAR (S (VP (TO to) (VP (VB buy) (NP (DT another) (CD 150,000)) (PP (IN at) (NP (NP ($ $) (CD 69)) (NP (DT each))))))))))) (. .)))
+
+(S1 (S (S (NP (DT That)) (VP (VBD came) (PP (TO to) (NP (DT a) (VBN combined) (QP ($ $) (CD 37.7) (CD million)))) (PP (IN under) (NP (DT the) (ADJP ($ $) (JJ 300-a-share)) (NN buy-out))))) (, ,) (CC but) (S (NP (QP (RB just) ($ $) (CD 21.3) (CD million))) (PP (IN at) (NP (NP (NN yesterday) (POS 's)) (NN close)))) (. .)))
+
+(S1 (S (S (PP (IN Of) (NP (DT the) (VBN combined) (QP ($ $) (CD 114.4) (CD million)))) (NP (DT the) (CD two) (NNS men)) (VP (VBD were) (VP (VBN scheduled) (S (VP (TO to) (VP (VB reap) (PP (IN under) (NP (DT the) (NN buy-out))))))))) (, ,) (NP (PRP they)) (VP (VBD agreed) (S (VP (TO to) (VP (VB invest) (PP (IN in) (NP (DT the) (NN buy-out))) (NP (QP (RB just) ($ $) (CD 15) (CD million))) (, ,) (S (VP (VBG angering) (S (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT the) (NNS thousands)) (PP (IN of) (NP (NNS workers)))))) (VP (VBN asked) (S (VP (TO to) (VP (VB make) (NP (NN pay) (NNS concessions)) (SBAR (IN so) (S (NP (DT the) (NN buy-out)) (VP (MD would) (VP (VB be) (NP (DT a) (NN success))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP United) (POS 's)) (NNS directors)) (VP (VBD voted) (S (NP (NP (PRP themselves)) (, ,) (CC and) (NP (PRP$ their) (NNS spouses)) (, ,)) (VP (NN lifetime) (NP (NP (NP (NN access)) (PP (TO to) (NP (DT the) (JJ Friendly) (NNS Skies)))) (: --) (NP (JJ free) (JJ first-class) (NN travel)) (, ,) (CC and) (NP (NP (NP ($ $) (CD 20,000)) (NP (DT a) (NN year))) (PP (IN for) (NP (NP (NN life)) (ADVP (RB as) (RB well))))))))) (. .)))
+
+(S1 (S (ADVP (RB Conceivably)) (, ,) (PP (IN in) (NP (DT a) (JJ scaled-back) (NN buy-out))) (, ,) (NP (PRP they)) (VP (MD could) (VP (VB be) (VP (VBD bumped) (ADVP (RB back)) (S (VP (TO to) (VP (VB coach) (NP (NP (NNS seats)) (PP (IN for) (NP (NN life)))))))))) (. .)))
+

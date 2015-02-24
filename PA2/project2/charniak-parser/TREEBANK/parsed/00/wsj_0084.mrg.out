@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NP (NNP Hudson) (NNP General) (NNP Corp.) (POS 's)) (NN president) (CC and) (JJ chief) (NN executive) (NN officer)) (, ,) (NP (NNP Alan) (NNP J.) (NNP Stearn)) (, ,)) (VP (VBD resigned)) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Stearn)) (, ,) (ADJP (NP (CD 46) (NNS years)) (JJ old)) (, ,)) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (NN comment)))))) (. .)))
+
+(S1 (S (NP (DT A) (NN company) (NN spokesman)) (VP (VBD declined) (S (VP (TO to) (VP (VB elaborate) (PP (IN on) (NP (DT the) (NN departure))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNP Hudson) (NNP General)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ provides) (NP (NN maintenance) (, ,) (VBG fueling) (CC and) (JJ other) (NNS services)) (PP (TO to) (NP (NNS airlines) (CC and) (NNS airports)))))) (, ,)) (VP (VBD reported) (NP (NP (DT a) (NN loss)) (PP (IN for) (NP (PRP$ its) (ADJP (RBS most) (JJ recent)) (JJ fiscal) (NN year)))))) (CC and) (S (NP (JJ last) (NN month)) (VP (VBD omitted) (NP (DT the) (JJ semiannual) (NN dividend)) (PP (IN on) (NP (PRP$ its) (JJ common) (NNS shares))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Stearn)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD had) (VP (VBN been) (PP (IN with) (NP (DT the) (NN company))) (ADVP (RBR more) (IN than) (NP (CD 20) (NNS years))))) (CC and) (VP (VBD had) (VP (VBN been) (NP (NN president)) (PP (IN since) (NP (CD 1984)))))))) (, ,)) (VP (MD will) (VP (VB act) (PP (IN as) (NP (NP (DT a) (NN consultant)) (PP (TO to) (NP (NNP Hudson) (NNP General))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (NNS duties)) (PP (IN as) (NP (JJ chief) (NN executive)))) (VP (MD will) (VP (VB be) (VP (VBN assumed) (PP (IN by) (NP (NNP Chairman) (NNP Jay) (NNP B.) (NNP Langner)))))) (. .)))
+

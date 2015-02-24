@@ -1,0 +1,20 @@
+(S1 (S (NP (NP (NNP J.C.) (NNP PENNEY) (NNP Co.)) (, ,) (NP (NNP Dallas)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD issued) (NP (NP (QP ($ $) (CD 350) (CD million))) (PP (IN of) (NP (NP (NNS securities)) (VP (VBN backed) (PP (IN by) (NP (JJ credit-card) (NN receivables))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN offering)) (VP (VBD was) (VP (VBN priced) (PP (IN with) (NP (DT an) (ADJP (CD 8.95) (NN %)) (NN coupon) (NN rate))) (PP (IN at) (NP (CD 99.1875) (NN %))) (S (VP (TO to) (VP (VB yield) (NP (CD 9.19) (NN %))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN retailer)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS securities)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB be) (VP (VBN rated) (S (ADJP (JJ triple-A) (PP (IN by) (NP (NP (NP (NNP Standard) (CC &) (NNP Poor) (POS 's)) (NNP Corp.)) (CC and) (NP (NNP Aaa)))))) (PP (IN by) (NP (NP (NNP Moody) (POS 's)) (NNPS Investors) (NNP Service) (NNP Inc)))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP pay) (NP (NN interest)) (PP (ADVP (RB only)) (IN for) (NP (CD 115) (NNS months))) (, ,) (PP (IN with) (S (NP (NN principal) (NNS payments)) (VP (VBG beginning) (ADVP (RB thereafter)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (VBN expected) (JJ average) (NN life)) (PP (IN of) (NP (DT the) (NNS certificates)))) (VP (VBZ is) (NP (CD 10) (NNS years)) (, ,) (PP (IN with) (NP (NP (DT the) (JJ final) (VBN scheduled) (NN payment)) (PP (IN in) (NP (NP (NNP October)) (, ,) (NP (CD 2001))))))) (. .)))
+
+(S1 (S (NP (NNP First) (NNP Boston) (NNP Corp.)) (VP (VBZ is) (NP (JJ sole) (NN underwriter))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN transaction))))) (, ,) (NP (NNP J.C.) (NNP Penney)) (VP (MD will) (VP (VB sell) (NP (NP (DT a) (NN portion)) (PP (IN of) (NP (PRP$ its) (JJ credit-card) (NN receivables)))) (PP (TO to) (NP (NP (PRP$ its) (ADJP (CD JCP) (NN Receivables)) (NNP Inc.) (NN unit)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (ADVP (RB then)) (VP (VB transfer) (NP (PRP them)) (PP (TO to) (NP (DT a) (NN master) (NN trust))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN trust)) (VP (MD will) (VP (VB issue) (NP (DT the) (NNS certificates)))) (. .)))
+
+(S1 (S (NP (NN Credit) (NN support)) (VP (MD will) (VP (VB be) (VP (VBN provided) (PP (IN by) (NP (NP (DT a) (NN letter)) (PP (IN of) (NP (NN credit) (NN facility))) (PP (IN from) (NP (NP (NP (NNP Credit) (NNP Suisse)) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (DT the) (NN trustee)))))) (, ,) (NP (NNP Fuji) (NNP Bank)) (CC &) (NP (NNP Trust) (NNP Co.)))))) (, ,) (PP (IN for) (NP (NP (DT the) (NN benefit)) (PP (IN of) (NP (DT the) (NN certificate) (NNS holders)))))))) (. .)))
+
+(S1 (S (NP (NNP J.C.) (NNP Penney)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB service) (NP (DT the) (NN receivables))))))) (. .)))
+

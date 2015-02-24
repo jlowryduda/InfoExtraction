@@ -1,0 +1,104 @@
+(S1 (S (PP (IN In) (NP (NP (DT this) (NN era)) (PP (IN of) (NP (NP (JJ frantic) (NN competition)) (PP (IN for) (NP (NN ad) (NNS dollars))))))) (, ,) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ revenue-desperate) (NNS magazines)))) (VP (VP (VBP are) (VP (VBG getting) (ADJP (RB pretty) (JJ cozy) (PP (IN with) (NP (NNS advertisers)))))) (: --) (S (VP (VP (VBG fawning) (PRT (RP over)) (NP (PRP them)) (PP (IN in) (NP (NNS articles)))) (CC and) (VP (VBG offering) (NP (NP (NNS pages)) (PP (IN of) (NP (JJ advertorial) (NN space)))))))) (. .)))
+
+(S1 (SBARQ (RB So) (SQ (MD can) (NP (DT a) (NN magazine)) (VP (VB survive) (PP (IN by) (S (RB downright) (VP (VBG thumbing) (NP (PRP$ its) (NN nose)) (PP (IN at) (NP (JJ major) (NNS advertisers)))))))) (. ?)))
+
+(S1 (S (NP (NP (NN Garbage) (NN magazine)) (, ,) (VP (VBN billed) (PP (IN as) (`` `) (NP (`` `) (NP (DT The) (JJ Practical) (NNP Journal)) (PP (IN for) (NP (DT the) (NNP Environment))) (, ,) ('' ')) ('' ')))) (VP (VBZ is) (VP (IN about) (S (VP (TO to) (VP (VB find) (PRT (RP out))))))) (. .)))
+
+(S1 (S (S (VP (VBN Founded) (PP (IN by) (NP (NP (NP (NNP Brooklyn)) (, ,) (NP (NNP N.Y.))) (, ,) (NP (NN publishing) (NN entrepreneur) (NNP Patricia) (NNP Poore)))))) (, ,) (NP (NNP Garbage)) (VP (VBD made) (NP (PRP$ its) (NN debut)) (NP (DT this) (NN fall)) (SBAR (IN with) (S (NP (DT the) (NN promise)) (VP (TO to) (VP (VB give) (NP (NNS consumers)) (NP (NP (DT the) (JJ straight) (NN scoop)) (PP (IN on) (NP (DT the) (NNP U.S.) (NN waste) (NN crisis))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN magazine)) (VP (VBZ combines) (NP (NP (NP (JJ how-to) (NNS pieces)) (PP (IN on) (NP (NP (NNS topics)) (PP (IN like) (NP (NN backyard) (NN composting)))))) (, ,) (NP (NP (JJ explanatory) (NNS essays)) (PP (IN on) (NP (NP (JJ such) (NNS things)) (PP (IN as) (SBAR (WHNP (WP what)) (S (VP (VBZ happens) (SBAR (IN after) (S (NP (PRP you)) (VP (VB flush) (NP (PRP$ your) (NN toilet)))))))))))) (, ,) (CC and) (NP (NP (JJ hard-hitting) (NNS pieces)) (PP (IN on) (NP (JJ alleged) (JJ environmental) (NNS offenders)))))) (. .)))
+
+(S1 (S (NP (NN Garbage) (NNS editors)) (VP (VBP have) (VP (VBN dumped) (NP (JJ considerable) (NN energy)) (PP (IN into) (NP (NP (DT a) (JJ whirling) (NN rampage)) (PP (IN through) (NP (NP (NN supermarket) (NNS aisles)) (PP (IN in) (NP (DT a) (NN bid) (S (VP (TO to) (VP (VB identify) (NP (JJ corporate) (NX (NNP America) (POS 's) (NX (JJ good) (NNS guys)) (CC and) (NX (JJ bad) (NNS boys))))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD one) (NN feature))) (, ,) (VP (VBD called) (SBAR (`` `) (S (`` `) (PP (IN In) (NP (DT the) (NNP Dumpster))) (, ,) ('' ') ('' ') (NP (NNS editors)) (VP (VBP point) (PRT (RP out)) (NP (NP (DT a) (NN product)) (SBAR (S (NP (PRP they)) (VP (VBP deem) (S (VP (TO to) (VP (VB be) (NP (DT a) (ADJP (RB particularly) (JJ bad)) (NN offender))))))))))))) (. .)))
+
+(S1 (S (PP (IN From) (NP (DT an) (NN advertising) (NN standpoint))) (, ,) (NP (DT the) (NN problem)) (VP (VBZ is) (SBAR (S (NP (DT these) (NNS offenders)) (VP (VBP are) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (JJ same) (NNS folks)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (NP (JJ major) (NN magazine) (NNS advertisers)) (NP (DT these) (NNS days)))))))))))))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (NP (RB only) (CD two) (NNS issues)) (PP (IN under) (NP (PRP$ its) (NN belt))))) (, ,) (NP (NNP Garbage)) (VP (VBZ has) (VP (VP (VBN alienated) (NP (DT some) (JJ would-be) (NNS advertisers))) (CC and) (VP (VBD raised) (NP (NP (DT the) (NN ire)) (PP (IN of) (NP (NNS others))))))) (. .)))
+
+(S1 (S (NP (NNP Campbell) (NNP Soup)) (, ,) (PP (IN for) (NP (CD one))) (, ,) (VP (VBZ is) (ADJP (JJ furious) (SBAR (S (NP (PRP$ its) (NNP Souper) (NNP Combo) (NN microwave) (NN product)) (VP (VBD was) (VP (VBN chastised) (PP (IN in) (NP (DT the) (NN premiere))) (S (`` `) (NP (`` `) (PP (IN In) (NP (DT the) (NNP Dumpster) (POS '))) ('' ') (NN column))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN magazine) (POS 's)) (NNS editors)) (VP (VBD ran) (NP (NP (DT a) (JJ giant) (NN diagram)) (PP (IN of) (NP (DT the) (NN product)))) (PP (IN with) (S (NP (NNS arrows)) (VP (VBG pointing) (PP (TO to) (NP (NP (DT the) (NN packaging) (POS 's)) (NN polystyrene) (NN foam) (, ,) (NN polyproplene) (CC and) (NN polyester) (NN film)))))) (: --) (NP (NP (DT all) (NN plastic) (NNS items)) (SBAR (S (NP (PRP they)) (VP (VBP say) (SBAR (S (VP (VBP are) (ADJP (JJ non-biodegradable)))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ 's) (NP (NP (RB precisely) (DT the) (NN kind)) (PP (IN of) (NP (NN product))) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN created) (S (NP (DT the) (JJ municipal) (NN landfill) (NN monster)))))))))) (, ,) ('' ') ('' ') (NP (DT the) (NNS editors)) (VP (VBD wrote)) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (S (NP (DT this) (NN magazine)) (VP (VBZ is) (RB not) (ADVP (RB only)) (VP (VBN called) (S (NP (NNP Garbage)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG practicing) (NP (JJ journalistic) (NN garbage)))))))) (, ,) ('' ')) ('' ') (VP (NNS fumes)) (NP (NP (DT a) (NN spokesman)) (PP (IN for) (NP (NNP Campbell) (NNP Soup)))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (NNP Campbell)) (VP (VBD was) (RB n't) (VP (ADVP (RB even)) (VBN contacted) (PP (IN by) (NP (NP (DT the) (NN magazine)) (PP (IN for) (NP (DT the) (NN opportunity) (S (VP (TO to) (VP (VB comment))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNS Modifications)) (VP (VBD had) (VP (VBN been) (VP (VBN made) (PP (TO to) (NP (DT the) (NNP Souper) (NNP Combo) (NN product))) (PP (IN at) (NP (NP (DT the) (NN time)) (SBAR (S (NP (DT the) (NN issue)) (VP (VBD was) (VP (VBN printed))))))))))) (, ,) (NP (PRP he)) (VP (VBZ says) (, ,) (S (VP (VBG making) (S (NP (PRP it)) (ADJP (RBR less) (DT an) (JJR offender) (SBAR (IN than) (S (VP (VBD was) (VP (VBN portrayed)))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ admits) (, ,) (SBAR (IN though) (, ,) (S (NP (PRP it)) (VP (VBZ is) (RB n't) (NP (NP (CD one)) (PP (IN of) (NP (NP (NP (NNP Campbell) (NNP Soup) (POS 's)) (JJR better) (NNS products)) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN recyclability)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Campbell) (NNP Soup)) (, ,) (ADVP (RB not) (RB surprisingly)) (, ,) (VP (VBZ does) (RB n't) (VP (VB have) (NP (DT any) (NNS plans) (S (VP (TO to) (S (VP (VBP advertise) (PP (IN in) (NP (DT the) (NN magazine))) (, ,) (PP (VBG according) (PP (TO to) (NP (PRP$ its) (NN spokesman))))))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS media) (NNS experts)) (VP (VBP question) (SBAR (IN whether) (S (NP (DT a) (JJ young) (NN magazine)) (VP (MD can) (VP (VB risk) (S (VP (VBG turning) (PRT (RP off)) (NP (NP (NNP Madison) (NNP Avenue) (POS 's)) (JJ big) (NNS spenders))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP You)) (ADVP (RB really)) (VP (VBP need) (NP (NP (DT the) (NNP Campbell) (NNS Soups)) (PP (IN of) (NP (DT the) (NN world)))) (S (VP (TO to) (VP (VB be) (ADJP (JJ interested) (PP (IN in) (NP (PRP$ your) (NN magazine)))) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB make) (NP (NP (DT a) (NN run)) (PP (IN of) (NP (PRP it))))))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Mike) (NNP White)) (, ,) (NP (NP (JJ senior) (NN vice) (NN president)) (CC and) (NP (NP (NNS media) (NN director)) (PP (IN at) (NP (NP (NNP DDB) (NNP Needham)) (, ,) (NP (NNP Chicago))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NP (DT The) (NNS economics)) (PP (IN of) (NP (NN magazine) (NN publishing)))) (ADVP (RB pretty) (RB much)) (VP (VBP require) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (JJ pretty) (JJ solid) (NN base) ('' ')) ('' ') (PP (IN of) (NP (JJ big-time) (NN ad) (NNS spenders))))))))) (, ,) (NP (PRP he)) (VP (VBZ adds)) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ first) (CD two) (NNS issues)) (VP (VBD featured) (NP (NP (NNS ads)) (PP (IN from) (NP (NP (RB only) (DT a) (NN handful)) (PP (IN of) (NP (JJ big) (NNS advertisers))))) (, ,) (PP (VBG including) (NP (NP (NNP General) (NNP Electric)) (CC and) (NP (NNP Adolph) (NNP Coors))))))) (, ,) (CC but) (S (NP (DT the) (NN majority)) (VP (VBD were) (PP (IN from) (NP (NP (NNS companies)) (PP (IN like) (NP (NP (NNP Waste) (NNP Management) (NNP Inc.)) (CC and) (NP (NP (NNP Bumkins) (NNP International)) (, ,) (NP (NP (NNS firms)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP do) (RB n't) (VP (VB spend) (NP (JJ much) (NN money) (NN advertising)))) (CC and) (VP (MD ca) (RB n't) (VP (VB be) (VP (VBN relied) (PRT (RP on)) (S (VP (TO to) (VP (VB support) (NP (NP (DT a) (NN magazine)) (PP (IN over) (NP (DT the) (JJ long) (NN haul))))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT A) (NNP Waste) (NNP Management) (NN spokeswoman)) (VP (VBZ says) (SBAR (S (NP (NP (PRP$ its) (NN ad)) (PP (IN in) (NP (DT the) (JJ premiere) (NN issue)))) (VP (VBD was) (NP (DT a) (JJ one-time) (NN purchase))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (DT any) (NNS plans) (S (VP (TO to) (S (VP (VBP advertise) (PP (IN in) (NP (JJ future) (NNS issues))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP do) (RB n't) (VP (VB spend) (NP (RB much)) (PP (IN on) (NP (NN print) (NN advertising))))) (, ,) ('' ')) ('' ') (NP (PRP she)) (VP (VBZ says)) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Ms.) (NNP Poore)) (, ,) (NP (NP (DT the) (NN magazine) (POS 's)) (NN editor) (CC and) (NN publisher)) (, ,)) (VP (VBZ contends) (SBAR (S (NP (NNP Garbage)) (VP (MD can) (VP (VB survive) (, ,) (ADVP (ADVP (IN at) (JJS least)) (RB initially)) (, ,) (PP (IN on) (NP (NN subscription) (NNS revenues)))))))) (. .)))
+
+(S1 (S (S (NP (NP (JJ Individual) (NNS copies)) (PP (IN of) (NP (DT the) (NN magazine)))) (VP (VBP sell) (PP (IN for) (NP ($ $) (CD 2.95))))) (CC and) (S (NP (JJ yearly) (NNS subscriptions)) (VP (VBP cost) (NP ($ $) (CD 21)))) (. .)))
+
+(S1 (S (-LRB- -LRB-) (NP (PRP It)) (VP (VBZ is) (, ,) (PP (IN of) (NP (NN course))) (, ,) (VP (VBN printed) (PP (IN on) (NP (JJ recycled) (NN paper))))) (. .) (-RRB- -RRB-)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NNP Ms.) (NNP Poore)))) (, ,) (NP (NP (NNP Old-House) (NNP Journal) (NNP Corp.)) (, ,) (NP (PRP$ her) (NN publishing) (NN company)) (, ,)) (VP (VBD printed) (CC and) (VBD sold) (NP (NP (DT all) (CD 126,000) (NNS copies)) (PP (IN of) (NP (DT the) (JJ premiere) (NN issue))))) (. .)))
+
+(S1 (S (S (NP (DT The) (ADJP (JJ first) (CC and) (JJ second)) (NNS issues)) (VP (VBD sold) (PRT (RP out)) (PP (IN on) (NP (NNS newsstands))))) (PRN (, ,) (S (NP (PRP she)) (VP (VBZ says))) (, ,)) (CC and) (S (NP (DT the) (NN magazine)) (VP (VBZ has) (NP (NP (NNS orders)) (PP (IN for) (NP (CD 93,000) (NNS subscriptions)))))) (. .)))
+
+(S1 (S (S (VP (VBN Asked) (SBAR (IN whether) (S (NP (JJ potential) (NNS advertisers)) (VP (MD will) (VP (VB be) (VP (VBN scared) (PRT (RP away)) (PP (IN by) (NP (NP (DT the) (NN magazine) (POS 's)) (JJ direct) (NN policy)))))))))) (, ,) (NP (NNP Ms.) (NNP Poore)) (VP (VBZ replies) (: :) (`` `) (S (`` `) (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (CC and) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB care))))))))) (. .)))
+
+(S1 (S (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG saying) (SBAR (S (NP (NN advertising) (NN revenue)) (VP (VBZ is) (RB n't) (ADJP (JJ important)))))))) (, ,) ('' ') ('' ') (NP (PRP she)) (VP (VBZ says) (, ,) (`` `) (S (`` `) (CC but) (NP (PRP I)) (VP (MD could) (RB n't) (VP (VB sleep) (PP (IN at) (NP (NN night) (POS '))) ('' ') (SBAR (IN if) (S (NP (DT the) (NN magazine)) (VP (VBD bowed) (PP (TO to) (NP (DT a) (NN company))) (SBAR (IN because) (S (NP (PRP they)) (ADVP (RB once)) (VP (VBD took) (PRT (RP out)) (NP (DT an) (NN ad)))))))))))) (. .)))
+
+(S1 (NP (NP (NNP Ad) (NNPS Notes)) (NP (FW ..) (. .)) (. .)))
+
+(S1 (FRAG (NP (NNP INTERPUBLIC)) (PP (IN ON) (NP (NN TV))) (: :)))
+
+(S1 (S (NP (NNP Interpublic) (NNP Group)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ its) (NN television) (NN programming) (NNS operations)) (: --) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBD expanded) (NP (RBR earlier) (DT this) (NN year))))) (: --)) (VP (VBD agreed) (S (VP (TO to) (VP (VB supply) (NP (NP (QP (JJR more) (IN than) (CD 4,000)) (NNS hours)) (PP (IN of) (NP (JJ original) (NN programming)))) (PP (IN across) (NP (NP (NNP Europe)) (PP (IN in) (NP (CD 1990)))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NNS programs)) (, ,) (RB largely) (NP (NN game) (NNS shows)) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN provided) (PP (IN by) (NP (NP (PRP$ its) (NNP E.C.) (NNP Television) (NN unit)) (PP (IN along) (PP (IN with) (NP (NP (NNP Fremantle) (NNP International)) (, ,) (NP (NP (DT a) (NN producer) (CC and) (NN distributor)) (PP (IN of) (NP (NP (NN game) (NNS shows)) (SBAR (WHPP (IN of) (WHNP (WDT which))) (S (NP (PRP it)) (ADVP (RB recently)) (VP (VBD bought) (NP (CD 49) (NN %))))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD said) (SBAR (IN that) (S (NP (NN volume)) (VP (VBZ makes) (S (NP (PRP it)) (NP (NP (DT the) (JJS largest) (NN supplier)) (PP (IN of) (NP (JJ original) (NN TV) (NN programming)))) (PP (IN in) (NP (NNP Europe)))))))) (. .)))
+
+(S1 (S (NP (NNP Interpublic)) (VP (VBZ is) (VP (VBG providing) (NP (NP (DT the) (NN programming)) (PP (IN in) (NP (NN return)))) (PP (IN for) (NP (NP (NN advertising) (NN time)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBD said) (SBAR (S (VP (MD will) (VP (VB be) (VP (VBN valued) (PP (IN at) (NP (NP (NP (QP (JJR more) (IN than) ($ $) (CD 75) (CD million))) (PP (IN in) (NP (CD 1990)))) (CC and) (NP (NP (QP ($ $) (CD 150) (CD million))) (PP (IN in) (NP (CD 1991)))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ plans) (S (VP (TO to) (VP (VB sell) (NP (DT the) (NN ad) (NN time)) (PP (TO to) (NP (PRP$ its) (NNS clients))) (PP (IN at) (NP (DT a) (NN discount))))))) (. .)))
+
+(S1 (NP (JJ NEW) (NN ACCOUNT) (: :)))
+
+(S1 (S (NP (NP (NNPS CoreStates) (NNP Financial) (NNP Corp.)) (, ,) (NP (NNP Philadelphia)) (, ,)) (VP (VBD named) (NP (NP (NNP Earle) (NNP Palmer) (NNP Brown) (CC &) (NNP Spiro)) (, ,) (NP (NNP Philadelphia)) (, ,)) (PP (IN as) (NP (NP (NN agency)) (PP (IN of) (NP (NN record))) (PP (IN for) (NP (PRP$ its) (ADJP (QP ($ $) (CD 5) (CD million))) (NN account)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN business)) (VP (VBD had) (VP (VBN been) (VP (VBN handled) (PP (IN by) (NP (NP (NNP VanSant) (NNP Dugdale)) (, ,) (NP (NNP Baltimore))))))) (. .)))
+
+(S1 (NP (NNP AT&T) (NNP FAX) (: :)))
+
+(S1 (S (NP (NNP American) (NNP Telephone) (CC &) (NNP Telegraph)) (VP (VBZ 's) (SBAR (S (NP (NP (NNP General) (NNP Business) (NNP Systems) (NN division)) (, ,) (NP (NNP New) (NNP York)) (, ,)) (VP (VBD awarded) (NP (NP (DT the) (NN ad) (NN account)) (PP (IN for) (NP (PRP$ its) (NNP Fax) (NN product) (NN line)))) (PP (TO to) (NP (NP (NNP Ogilvy) (CC &) (NNP Mather)) (, ,) (NP (NNP New) (NNP York)) (, ,) (NP (DT a) (NNP WPP) (NNP Group) (NN agency)))))))) (. .)))
+
+(S1 (S (NP (NNS Billings)) (VP (VBD were) (RB n't) (VP (VBN disclosed) (PP (IN for) (NP (NP (DT the) (JJ small) (NN account)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (VP (VBN been) (VP (VBN serviced) (PP (IN at) (NP (NP (NNP Young) (CC &) (NNP Rubicam)) (, ,) (NP (NNP New) (NNP York))))))))))))) (. .)))
+
+(S1 (NP (JJ FIRST) (NN CAMPAIGN) (: :)))
+
+(S1 (S (NP (NNP Enterprise) (NNP Rent-A-Car) (NNP Inc.)) (VP (VBZ breaks) (NP (PRP$ its) (JJ first) (JJ national) (NN ad) (NN campaign)) (NP (DT this) (NN week))) (. .)))
+
+(S1 (S (NP (DT The) (NNP St.) (NNP Louis) (NN firm)) (VP (VBZ specializes) (PP (IN in) (NP (NP (JJ replacement-car) (NNS rentals)) (, ,) (NP (NP (DT those)) (VP (VBN provided) (PP (IN by) (NP (NN insurance) (NNS companies))) (PP (IN for) (NP (NP (NNS cars)) (VP (VBN damaged) (PP (IN in) (NP (NNS accidents))))))))))) (. .)))
+
+(S1 (S (S (VP (VBN Developed) (PP (IN by) (NP (NP (NNP Avrett) (, ,) (NNP Free) (CC &) (NNP Ginsberg)) (, ,) (NP (NNP New) (NNP York)))))) (, ,) (NP (DT the) (ADJP (QP ($ $) (CD 6) (CD million))) (NN campaign)) (VP (VBZ pitches) (NP (NP (NP (NNP Enterprise) (POS 's)) (JJ consumer-driven) (NN service)) (CC and) (NP (PRP$ its) (JJ free) (NN pick-up) (CC and) (NN drop-off) (NN service)))) (. .)))
+
+(S1 (NP (NNP LANDOR) (NNPS ASSOCIATES) (: :)))
+
+(S1 (S (NP (NNP Young) (CC &) (NNP Rubicam)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD completed) (NP (NP (PRP$ its) (NN acquisition)) (PP (IN of) (NP (NP (NNP Landor) (NNPS Associates)) (, ,) (NP (DT a) (NNP San) (NNP Francisco) (NN identity-management) (NN firm))))))))) (. .)))
+
+(S1 (NP (NNP ACQUISITION) (: :)))
+
+(S1 (S (NP (NP (NNP Ketchum) (NNP Communications)) (, ,) (NP (NNP Pittsburgh)) (, ,)) (VP (VBD acquired) (NP (NP (NNP Braun) (CC &) (NNP Co.)) (, ,) (NP (DT a) (NNP Los) (NNP Angeles) (JJ investor-relations) (CC and) (JJ marketing-communications) (NN firm)))) (. .)))
+
+(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+

@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP New) (NNP Canaan) (NNPS Investments) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD closed) (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NNP Carr-Lowrey) (NNP Glass) (NNP Co.))) (PP (IN from) (NP (NP (NNP Newell) (NNP Co.)) (, ,) (NP (NP (DT a) (NAC (NNP Freeport) (, ,) (NNP Ill.) (, ,)) (NN maker)) (PP (IN of) (NP (JJ do-it-yourself) (NN home) (NNS products))))))))))) (. .)))
+
+(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
+
+(S1 (S (NP (NP (NNP Carr-Lowrey)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NN glass) (NNS bottles)) (PP (IN for) (NP (DT the) (NNS cosmetics) (CC and) (NNS toiletries) (NNS industries)))))) (, ,)) (VP (VBD had) (NP (NP (NNS sales)) (NP (JJ last) (NN year)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 40) (CD million)))))) (. .)))
+
+(S1 (S (NP (NNP New) (NNP Canaan) (NNP Investments)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB closely) (VBN held)) (NN investment) (NN partnership)) (PP (IN with) (NP (NP (NNS interests)) (PP (ADVP (RB primarily)) (IN in) (NP (DT the) (NN packaging) (NN industry))))))) (. .)))
+

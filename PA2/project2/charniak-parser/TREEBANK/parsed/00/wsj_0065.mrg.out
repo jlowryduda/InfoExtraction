@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP Consolidated) (NNP Rail) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB spend) (NP (QP (JJR more) (IN than) ($ $) (CD 30) (CD million))) (PP (IN on) (NP (NP (CD 1,000) (VBN enclosed) (NNS railcars)) (PP (IN for) (NP (VBG transporting) (NNS autos)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ multilevel) (NNS railcars)) (, ,) (VP (VBN scheduled) (PP (IN for) (NP (NP (NN delivery)) (PP (IN in) (NP (CD 1990)))))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN made) (PP (IN by) (NP (NP (NN Thrall) (NNP Manufacturing) (NNP Co.)) (, ,) (NP (NP (DT a) (NAC (NNP Chicago) (NNP Heights) (, ,) (NNP Ill.) (, ,)) (NN division)) (PP (IN of) (NP (NP (ADJP (RB closely) (VBN held)) (NNP Duchossois) (NNP Industries) (NNP Inc.)) (, ,) (NP (NP (NNP Elmhurst)) (, ,) (NP (NNP Ill))))))))))) (. .)))
+
+(S1 (S (NP (DT This) (NN year)) (, ,) (NP (DT the) (NN railroad) (VBG holding) (NN company)) (VP (VBD acquired) (NP (CD 850) (JJ such) (NNS railcars))) (. .)))
+

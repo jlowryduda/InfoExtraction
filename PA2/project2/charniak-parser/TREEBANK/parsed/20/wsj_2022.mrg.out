@@ -1,0 +1,48 @@
+(S1 (S (NP (NNP Coca-Cola) (NNPS Enterprises) (NNP Inc.)) (, ,) (S (VP (VBG fulfilling) (NP (NP (PRP$ its) (JJ dismal) (NNS earnings) (NN forecast)) (PP (IN for) (NP (CD 1989)))))) (, ,) (VP (VBD said) (SBAR (S (NP (PRP$ its) (JJ third-quarter) (JJ net) (NN income)) (VP (VBD fell) (NP (CD 68) (NN %)) (PP (IN on) (NP (JJ flat) (NN revenue))))))) (. .)))
+
+(S1 (S (S (VP (VBN Stung) (PP (IN by) (NP (NP (JJR higher) (NN marketing) (NNS costs)) (CC and) (NP (VBG slowing) (NN volume) (NN growth)))))) (, ,) (NP (DT the) (JJ giant) (NNP Coke) (NN bottling) (NN operation)) (VP (VBD said) (SBAR (S (NP (NN net)) (VP (VBD fell) (PP (TO to) (NP (NP (QP ($ $) (CD 12.7) (CD million))) (, ,) (CC or) (NP (NP (CD six) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 39.9) (CD million))) (, ,) (CC or) (NP (NP (CD 26) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT the) (NN year)) (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS results)) (VP (VBD met) (NP (NP (NNS estimates)) (PP (IN of) (NP (NP (NNS analysts)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (ADVP (RB already)) (VP (VBN slashed) (NP (PRP$ their) (NNS projections)) (SBAR (IN after) (S (NP (DT the) (NN company)) (VP (VBD said) (PP (IN in) (NP (JJ late) (NNP August))) (SBAR (IN that) (S (NP (PRP$ its) (CD 1989) (NNS earnings)) (VP (MD could) (VP (VB tumble) (ADVP (ADVP (RB as) (RB much)) (PP (IN as) (NP (CD 37) (NN %))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN company) (NN spokesman)) (VP (VBD said) (NP (NN yesterday)) (SBAR (IN that) (S (NP (NNP Coca-Cola) (NNP Enterprises)) (VP (VBZ sticks) (PP (IN by) (NP (PRP$ its) (CD 1989) (NN forecast))))))) (. .)))
+
+(S1 (S (NP (JJ Third-quarter) (NN revenue)) (VP (VBD was) (ADJP (JJ flat)) (PP (IN at) (NP (QP ($ $) (CD 1.02) (CD billion))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ year-ago) (NNS results)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD included) (NP (NP (DT the) (NNS operations)) (PP (IN of) (NP (NP (DT a) (VBG bottling) (NN business)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN sold) (NP (JJ last) (NNP December)))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Excluding) (NP (DT that) (VBG bottling) (NN business)))) (, ,) (NP (NP (NP (NNP Coca-Cola) (NNPS Enterprises) (POS ')) (NN volume)) (, ,) (VP (VBN measured) (PP (IN by) (NP (NP (NNS cases)) (PP (IN of) (NP (NN soda)))))) (, ,)) (VP (VBD rose) (NP (QP (RB only) (CD 1)) (NN %))) (. .)))
+
+(S1 (S (NP (DT The) (NN volume)) (VP (VBZ is) (UCP (PP (ADVP (RB well)) (IN below) (NP (NP (NP (DT the) (NN industry) (POS 's)) (ADJP (QP (CD 4) (NN %) (TO to) (CD 5) (NN %))) (NN growth) (NN rate)) (PP (IN of) (NP (JJ recent) (NNS years))))) (, ,) (CC but) (PP (IN in) (NP (NP (NN line)) (PP (IN with) (NP (NP (JJ other) (NN soft-drink) (NNS companies)) (PP (IN for) (NP (DT the) (JJ third) (NN quarter))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJS latest) (NN third-quarter) (NN volume)) (ADVP (RB also)) (VP (VBZ compares) (PP (IN with) (NP (NP (DT a) (ADJP (RB very) (JJ strong)) (ADJP (CD 10) (NN %)) (NN growth)) (PP (IN in) (NP (DT the) (JJ year-ago) (NN quarter)))))) (. .)))
+
+(S1 (S (NP (NNP Coca-Cola) (NNP Enterprises)) (VP (VBD blamed) (NP (DT the) (JJR lower) (NN volume)) (PP (IN on) (NP (NP (PRP$ its) (NN soft-drink) (NNS prices)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (ADJP (NP (QP (IN about) (CD 3)) (NN %)) (JJR higher)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))))))))) (. .)))
+
+(S1 (S (NP (NNS Consumers)) (VP (VBP have) (VP (VBN been) (VP (VBN accustomed) (PP (TO to) (S (VP (VBG buying) (NP (NNS soft-drinks)) (PP (IN at) (NP (JJ discounted) (NNS prices))) (PP (IN for) (NP (JJ several) (NNS years))))))))) (. .)))
+
+(S1 (S (NP (NNP Coca-Cola) (NNP Enterprises)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD had) (S (VP (TO to) (VP (VB boost) (NP (NP (NN spending)) (PP (IN for) (NP (NP (NN trade) (CC and) (NN dealer) (NNS incentives)) (SBAR (S (VP (TO to) (VP (VB try) (S (VP (TO to) (VP (VB keep) (NP (NNS volumes)) (PP (IN from) (S (VP (VBG slipping))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (SBAR (S (NP (NNS consumers)) (VP (MD will) (VP (VB adjust) (PP (TO to) (NP (JJ higher-priced) (JJ soft) (NNS drinks))))))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN spokesman)) (VP (VBD attributed) (NP (NP (DT the) (NN bulk)) (PP (IN of) (NP (NP (DT a) (ADJP (CD 14) (NN %)) (NN increase)) (PP (IN in) (NP (UCP (NN selling) (, ,) (JJ administrative) (CC and) (JJ general)) (NNS expenses))) (PRN (: --) (PP (TO to) (NP (QP ($ $) (CD 324.9) (CD million)))) (: --))))) (PP (TO to) (NP (NN marketing) (NNS costs)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB out) (RB there)) (VP (VBG promoting) (PP (IN like) (ADJP (JJ crazy)))))) (, ,) (S (VP (VBG trying) (S (VP (TO to) (VP (VB get) (NP (NNS prices)) (PRT (RP up)) (PP (IN by) (NP (NN promotion)))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Roy) (NNP Burry)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (CD nine) (NNS months))) (, ,) (NP (NP (NNP Coca-Cola) (NNPS Enterprises) (POS ')) (NN net)) (VP (VBD fell) (NP (CD 31) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 65) (CD million))) (, ,) (CC or) (NP (NP (CD 39) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 93.8) (CD million))) (, ,) (CC or) (NP (NP (CD 63) (NNS cents)) (NP (DT a) (NN share)))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD was) (ADJP (JJ flat)) (PP (IN at) (NP (QP (RB about) ($ $) (CD 2.97) (CD billion))))) (. .)))
+
+(S1 (S (NP (NP (NNP Coca-Cola) (NNP Enterprises)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (CD 49) (NN %)) (VP (VBN -owned) (PP (IN by) (NP (NNP Coca-Cola) (NNP Co.)))))))) (, ,)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD repurchased) (NP (NP (QP (RB about) (CD 1.2) (CD million))) (PP (IN of) (NP (PRP$ its) (JJ common) (NNS shares)))) (PP (IN during) (NP (DT the) (JJ third) (NN quarter))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN buy-back)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (JJ 25-million-share) (NN repurchase) (NN plan)) (, ,) (SBAR (WHPP (IN under) (WHNP (WDT which))) (S (NP (NNP Coca-Cola) (NNP Enterprises)) (ADVP (RB so) (RB far)) (VP (VBZ has) (VP (VBN acquired) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP (CD 9.7) (CD million)) (NNS shares)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Separately)) (, ,) (NP (NP (ADJP (NNP Purchase) (, ,) (JJ N.Y.-based)) (NNP PepsiCo) (NNP Inc.)) (, ,) (SBAR (RB as) (S (VP (VBN expected)))) (, ,)) (VP (VBD said) (SBAR (S (NP (JJ fiscal) (JJ third-quarter) (NN net)) (VP (VBD rose) (NP (CD 11) (NN %)) (PP (TO to) (NP (NP (QP ($ $) (CD 269.3) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.02)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 241.6) (CD million))) (, ,) (CC or) (NP (NP (CD 91) (NNS cents)) (NP (DT a) (NN share))))))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD rose) (NP (CD 25) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 3.90) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 3.13) (CD billion))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ year-ago) (NN quarter) (POS 's)) (NNS results)) (VP (VBP include) (NP (NP (DT an) (JJ after-tax) (NN charge)) (PP (IN of) (NP (NP (QP ($ $) (CD 5.9) (CD million))) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (DT a) (NN winery)) (PP (IN in) (NP (NNP Spain))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (JJ composite) (NN trading)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))) (, ,) (NP (NNP Coca-Cola) (NNP Enterprises)) (VP (VBD closed) (PP (IN at) (NP (NP ($ $) (CD 16.375)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB down) (NP (CD 62.5) (NNS cents)))) (. .)))
+
+(S1 (S (NP (NNP PepsiCo)) (VP (VBD closed) (PP (IN at) (NP (NP ($ $) (CD 58.50)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB up) (NP ($ $) (CD 1.375)))) (. .)))
+

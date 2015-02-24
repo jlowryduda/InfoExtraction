@@ -1,0 +1,60 @@
+(S1 (S (NP (NP (NNP Senate) (NNPS Democrats)) (VP (VBG favoring) (NP (NP (DT a) (NN cut)) (PP (IN in) (NP (DT the) (NNS capital-gains) (NN tax)))))) (VP (VBP have) (VP (VBN decided) (, ,) (PP (IN under) (NP (NP (NN pressure)) (PP (IN from) (NP (PRP$ their) (NNS leaders))))) (, ,) (S (RB not) (VP (TO to) (VP (VB offer) (NP (PRP$ their) (JJ own) (NN proposal)) (, ,) (S (VP (VBG placing) (NP (NP (DT another) (NN obstacle)) (PP (IN in) (NP (NP (DT the) (NN path)) (PP (IN of) (NP (NP (NNP President) (NNP Bush) (POS 's)) (JJ legislative) (NN priority))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN core) (NN group)) (PP (IN of) (NP (QP (CD six) (CC or) (RB so)) (JJ Democratic) (NNS senators)))) (VP (VBZ has) (VP (VBN been) (VP (VBG working) (PP (IN behind) (NP (DT the) (NNS scenes))) (S (VP (TO to) (VP (VB develop) (NP (DT a) (NN proposal) (S (VP (TO to) (VP (VB reduce) (NP (NP (DT the) (NN tax)) (PP (IN on) (NP (NP (DT the) (NN gain)) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NNS assets)))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN plan)) (VP (VBD was) (ADJP (JJ complete) (PP (IN except) (PP (IN for) (NP (JJ finishing) (NNS touches))))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBD was) (NP (NP (NN talk)) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (VP (VBN unveiled) (ADVP (ADVP (RB as) (RB early)) (PP (IN as) (NP (NN yesterday)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Senate) (NNP Majority) (NNP Leader) (NNP George) (NNP Mitchell)) (PRN (-LRB- -LRB-) (NP (NNP D.)) (, ,) (NP (NNP Maine)) (-RRB- -RRB-)) (, ,) (NP (NP (DT a) (JJ vigorous) (NN opponent)) (PP (IN of) (NP (DT the) (NNS capital-gains) (NN tax) (NN cut)))) (, ,)) (VP (VP (VBD called) (S (NP (DT the) (NN group)) (VP (TO to) (VP (VB meet) (PP (IN with) (NP (PRP him))) (NP (NNP Wednesday) (NN night)))))) (CC and) (VP (RB again) (NP (NN yesterday)))) (. .)))
+
+(S1 (S (NP (NNP Sen.) (NNP Mitchell)) (VP (VBD urged) (NP (PRP them)) (S (VP (TO to) (VP (VB desist))))) (. .)))
+
+(S1 (S (ADVP (RB Afterward)) (, ,) (NP (NP (NNS leaders)) (PP (IN of) (NP (DT the) (JJ dissident) (NNPS Democrats)))) (VP (VP (VBD relented)) (, ,) (CC and) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (MD would) (RB n't) (VP (VB offer) (NP (PRP$ their) (JJ own) (NN proposal)) (SBAR (IN as) (S (NP (PRP they)) (VP (VBD had) (VP (VBN planned))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN decision)) (VP (VBZ is) (NP (NP (DT a) (NN setback)) (PP (IN for) (NP (NP (NNP President) (NNP Bush)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ needs) (NP (NP (DT the) (NN support)) (PP (IN of) (NP (NNPS Democrats)))) (S (VP (TO to) (VP (VB pass) (NP (DT the) (NN tax) (NN cut)) (PP (IN through) (NP (DT the) (JJ Democratic-controlled) (NNP Senate))))))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Having) (NP (NP (DT a) (NN proposal)) (VP (VBN sponsored) (PP (IN by) (NP (NNPS Democrats))))))) (VP (MD would) (VP (VB have) (VP (VBN given) (NP (DT the) (NN president)) (NP (DT an) (NN advantage))))) (. .)))
+
+(S1 (S (S (VP (VBG Having) (ADVP (RB only)))) (NP (DT a) (NNP Republican) (NN measure)) (VP (VBZ makes) (S (NP (DT the) (NN task)) (ADJP (JJR harder)))) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (NP (NP (NNP Sen.) (NNP Bob) (NNP Packwood)) (PRN (-LRB- -LRB-) (NP (NNP R.)) (, ,) (NP (NNP Ore.)) (-RRB- -RRB-)) (, ,) (NP (NP (DT the) (JJ lead) (NN sponsor)) (PP (IN of) (NP (DT the) (NNP Republican) (NNS capital-gains) (NN amendment)))) (, ,)) (VP (VBD predicted) (SBAR (IN that) (S (NP (DT the) (NN tax) (NN cut)) (VP (MD would) (VP (VB be) (VP (VBN enacted) (NP (DT this) (NN year)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (SBAR (SBAR (S (NP (NP (DT a) (JJ clear) (NN majority)) (PP (IN of) (NP (NNS senators)))) (VP (VBP back) (NP (DT the) (NN tax) (NN reduction))))) (CC and) (SBAR (IN that) (S (ADVP (RB ultimately)) (NP (EX there)) (VP (MD would) (VP (VB be) (ADJP (JJ enough) (S (NP (NNS senators)) (VP (TO to) (VP (VB overcome) (NP (DT any) (JJ procedural) (NN hurdle) (SBAR (S (NP (DT the) (JJ Democratic) (NN leadership)) (VP (MD might) (VP (VB erect)))))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NNP Sen.) (NNP Mitchell)) (, ,) (VP (VBN buoyed) (PP (IN by) (NP (NP (PRP$ his) (NN victory)) (PP (IN among) (NP (JJ fellow) (NNPS Democrats)))))) (, ,)) (VP (ADVP (RB strongly)) (VBD disagreed)) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Mitchell)) (VP (VBZ has) (VP (VBN been) (VP (VBG predicting) (SBAR (IN that) (S (NP (NP (DT the) (NN president) (POS 's)) (NN initiative)) (VP (MD would) (VP (VB fail) (NP (DT this) (NN year))))))))) (. .)))
+
+(S1 (S (NP (NN Yesterday)) (, ,) (PP (IN in) (NP (DT an) (NN interview))) (, ,) (NP (PRP he)) (VP (VBD added) (SBAR (IN that) (S (NP (NP (DT the) (NNPS Democrats) (POS ')) (NN decision)) (`` `) (VP (`` `) (VBZ increases) (NP (DT the) (NN likelihood) (SBAR (IN that) (S (NP (DT a) (NNS capital-gains) (NN tax) (NN cut)) (VP (MD will) (RB not) (VP (VB pass) (NP (DT this) (NN year))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Mitchell) (POS 's)) (JJ first) (NN victory)) (VP (VBD came) (NP (JJ last) (NN week)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP Senate)) (VP (VBD passed) (NP (NP (DT a) (NN deficit-reduction) (NN bill)) (SBAR (WHNP (WDT that)) (S (VP (VBD did) (RB n't) (VP (VB contain) (NP (DT a) (NNS capital-gains) (NN provision))))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN vote)) (VP (VBD made) (S (NP (PRP it)) (ADJP (JJ unlikely)) (SBAR (IN that) (S (NP (DT a) (NNS capital-gains) (NN tax) (NN cut)) (VP (MD would) (VP (VB be) (VP (VBN included) (PP (IN in) (NP (NP (DT the) (JJ final) (NN bill)) (, ,) (VP (ADVP (RB now)) (VBG being) (VP (VBN drafted) (PP (IN by) (NP (NNP House) (CC and) (NNP Senate) (NNS negotiators)))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP House) (NN version)) (PP (IN of) (NP (DT the) (NN bill)))) (VP (VBZ does) (VP (VB include) (NP (DT the) (NN tax) (NN cut)))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (NP (JJ Republican) (NNS leaders)) (VP (VBP are) (VP (VBG concentrating) (PP (IN on) (S (VP (VBG attaching) (NP (NP (NP (DT a) (JJ capital-gains) (NN amendment)) (PP (TO to) (NP (NP (DT some) (JJ other) (NN bill)) (, ,) (RB perhaps) (NP (NP (DT a) (NN measure)) (VP (VBG raising) (NP (DT the) (JJ federal) (NN borrowing) (NN limit))))))) (CC or) (NP (NP (DT a) (JJ second) (NN tax) (NN bill)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB follow) (PP (IN on) (NP (NP (DT the) (NNS heels)) (PP (IN of) (NP (DT the) (NN deficit-reduction) (NN legislation)))))))))))))))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB help) (S (VP (VB lay) (NP (NP (DT the) (NN groundwork)) (PP (IN for) (NP (DT that) (NN fight))))))))) (, ,) (NP (NNP President) (NNP Bush)) (VP (VBZ plans) (S (NP (RB early) (JJ next) (NN week)) (VP (TO to) (VP (VB meet) (PP (IN at) (NP (DT the) (NNP White) (NNP House))) (PP (IN with) (NP (NP (QP (DT some) (CD 20)) (JJ Democratic) (NNS senators)) (SBAR (WHNP (WP who)) (S (VP (VP (VBP favor) (S (VP (VBG cutting) (NP (DT the) (NNS capital-gains) (NN tax))))) (CC or) (VP (VBP are) (VP (VBN undecided) (PP (IN on) (NP (DT the) (NN issue)))))))))))))) (. .)))
+
+(S1 (S (S (S (NP (DT The) (NN president)) (ADVP (RB apparently)) (VP (MD will) (VP (VB have) (S (NP (QP (RB only) (CD one)) (NN bill)) (VP (TO to) (VP (VB push))))))) (, ,) (NP (NNP Sen.) (NNP Packwood)) (VP (VBZ 's))) (, ,) (CC and) (S (ADVP (IN at) (JJS least)) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (JJ dissident) (NNPS Democrats)))) (VP (VBP plan) (S (VP (TO to) (VP (VB support) (NP (PRP it))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (MD may) (VP (VB want) (S (VP (TO to) (VP (VB offer) (NP (JJ additional) (NNS amendments)) (S (VP (TO to) (VP (VB improve) (NP (PRP it)))))))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN bill)) (VP (VBZ comes) (PP (TO to) (NP (DT the) (NN floor))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NP (NNP Sen.) (NNP David) (NNP Boren)) (PRN (-LRB- -LRB-) (NP (NNP D.)) (, ,) (NP (NNP Okla.)) (-RRB- -RRB-))) (, ,) (NP (NP (DT a) (NN leader)) (PP (IN of) (NP (DT those) (NNPS Democrats))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Packwood) (NN plan)) (PRN (, ,) (SBAR (IN as) (S (VP (VBN expected)))) (, ,)) (VP (MD would) (VP (VB allow) (S (NP (NNS individuals)) (VP (TO to) (VP (VB exclude) (PP (IN from) (NP (NN income))) (NP (NP (CD 5) (NN %)) (PP (IN of) (NP (NP (DT the) (NN gain)) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (DT a) (NN capital) (NN asset)) (VP (VBN held) (PP (IN for) (NP (QP (JJR more) (IN than) (CD one)) (NN year)))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN exclusion)) (VP (MD would) (VP (VB rise) (NP (NP (CD five) (NN percentage) (NNS points)) (PP (IN for) (NP (NP (DT each) (NN year)) (SBAR (S (NP (DT the) (NN asset)) (VP (VBD was) (VP (VBN held)))))))) (, ,) (SBAR (IN until) (S (NP (PRP it)) (VP (VBD reached) (NP (NP (DT a) (NN maximum)) (PP (IN of) (NP (CD 35) (NN %)))) (PP (IN after) (NP (CD seven) (NNS years)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN exclusion)) (VP (MD would) (VP (VB apply) (PP (TO to) (NP (NP (NNS assets)) (VP (VBN sold) (PP (IN after) (NP (NNP Oct.) (CD 1)))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT an) (NN alternative))) (, ,) (NP (NNS taxpayers)) (VP (MD could) (VP (VBD chose) (S (VP (TO to) (VP (VB reduce) (NP (PRP$ their) (NNS gains)) (PP (IN by) (NP (DT an) (NN inflation) (NN index)))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NNS corporations))) (, ,) (NP (NP (DT the) (JJ top) (NN tax) (NN rate)) (PP (IN on) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (NNS assets)) (VP (VBN held) (PP (IN for) (NP (QP (JJR more) (IN than) (CD three)) (NNS years))))))))) (VP (MD would) (VP (VB be) (VP (VBN cut) (PP (TO to) (NP (CD 33) (NN %))) (PP (IN from) (NP (NP (DT the) (JJ current) (JJ top) (NN rate)) (PP (IN of) (NP (CD 34) (NN %)))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN rate)) (VP (MD would) (VP (ADVP (RB gradually)) (VB decline) (PP (TO to) (NP (QP (RB as) (JJ little) (IN as) (CD 29)) (NN %))) (PP (IN for) (NP (NP (JJ corporate) (NNS assets)) (VP (VBN held) (PP (IN for) (NP (CD 15) (NNS years)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Packwood) (NN plan)) (ADVP (RB also)) (VP (MD would) (VP (VB include) (NP (NP (DT a) (NN proposal)) (, ,) (VP (VBN designed) (PP (IN by) (NP (NP (NNP Sen.) (NNP William) (NNP Roth)) (PRN (-LRB- -LRB-) (NP (NNP R.)) (, ,) (NP (NNP Del.)) (-RRB- -RRB-))))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB create) (NP (JJ new) (NN tax) (NNS benefits)) (PP (IN for) (NP (JJ individual) (NN retirement) (NNS accounts)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Roth) (NN plan)) (VP (MD would) (VP (VB create) (NP (NP (DT a) (JJ new) (, ,) (JJ non-deductible) (NNP IRA)) (SBAR (WHPP (IN from) (WHNP (WDT which))) (S (NP (NN money)) (VP (MD could) (VP (VB be) (VP (VBN withdrawn) (ADVP (JJ tax-free)) (PP (CONJP (RB not) (RB only)) (PP (IN for) (NP (NN retirement))) (, ,) (CONJP (CC but) (RB also)) (PP (IN for) (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (NP (DT a) (JJ first) (NN home)) (, ,) (NP (NN education) (NNS expenses)) (CC and) (NP (JJ medical) (NNS expenses))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Current) (NNS IRAs)) (VP (VP (MD could) (VP (VB be) (VP (VBN rolled) (PRT (RP over)) (PP (IN into) (NP (DT the) (JJ new) (NNS IRAs)))))) (, ,) (CC but) (VP (MD would) (VP (VB be) (ADJP (JJ subject) (PP (TO to) (NP (NP (VB tax)) (PP (IN though) (NP (DT no) (NN penalty))))))))) (. .)))
+

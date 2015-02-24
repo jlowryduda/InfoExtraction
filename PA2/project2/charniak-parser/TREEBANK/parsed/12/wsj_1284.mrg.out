@@ -1,0 +1,94 @@
+(S1 (S (PP (IN In) (NP (NP (NP (NNP Poland) (POS 's)) (JJ rapid) (NN shift)) (PP (PP (IN from) (NP (NN socialism))) (PP (TO to) (NP (DT an) (JJ undefined) (NN alternative)))))) (, ,) (NP (JJ environmental) (NNS issues)) (VP (VBP have) (VP (VBN become) (NP (NP (DT a) (NN cutting) (NN edge)) (PP (IN of) (NP (JJR broader) (NNS movements) (S (VP (TO to) (VP (VP (VB restructure) (NP (DT the) (NN economy))) (, ,) (VP (VB cut) (NP (JJ cumbersome) (NNS bureaucracies))) (, ,) (CC and) (VP (VB democratize) (NP (JJ local) (NNS politics))))))))))) (. .)))
+
+(S1 (S (NP (JJ Initial) (NNS steps)) (VP (VBD were) (VP (VBN taken) (PP (IN at) (NP (NP (NP (NNP Poland) (POS 's)) (JJ first) (JJ international) (JJ environmental) (NN conference)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP I)) (VP (VBD attended) (NP (JJ last) (NN month))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN conference)) (, ,) (VP (VBN held) (PP (IN in) (NP (NNP Lower) (NNP Silesia)))) (, ,)) (VP (VBD was) (VP (VP (VBN co-sponsored) (PP (IN by) (NP (NP (DT the) (NNP Environment) (NNP Ministry)) (, ,) (NP (DT the) (NNP Rockefeller) (NNP Brothers) (NNP Fund)) (, ,) (CC and) (NP (DT the) (JJ Polish) (JJ Ecological) (NNP Club)) (, ,)))) (CC and) (VP (VBD was) (VP (VBN attended) (PP (IN by) (NP (NP (CD 50) (NNPS Poles)) (PP (IN from) (NP (NN government) (CC and) (NN industry))))) (, ,) (ADVP (RB as) (RB well) (PP (IN as) (NP (NNPS Hungarians) (, ,) (NNPS Czechs) (, ,) (NNPS Russians) (, ,) (NNPS Japanese) (CC and) (NNPS Americans)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN conference)) (VP (VBD was) (VP (VBN entitled) (`` `) (NP (`` `) (JJ Economic) (NNS Mechanisms)) (PP (IN for) (NP (JJ Environmental) (NN Protection))) (, ,) ('' ') (S (VP (POS ') (NP (NP (DT a) (JJ significant) (NN departure)) (PP (IN from) (NP (NP (NP (NNP East) (NNP Bloc)) (NP (NN usage))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ recognizes) (NP (NP (QP (RB only) (CD one)) (JJ economic) (NN mechanism)) (: --) (NP (JJ central) (NN planning)) (: --) (SBAR (S (VP (TO to) (VP (VB direct) (NP (JJ industrial) (NN behavior))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (RB Even) (RBR more) (RB remarkably)) (, ,) (NP (PRP it)) (VP (VBD focused) (PP (IN on) (NP (NP (NNS emissions) (NN trading)) (CC and) (NP (JJ similar) (NN market) (NNS approaches)))) (S (VP (TO to) (VP (VB address) (NP (NN pollution)) (, ,) (PP (IN notwithstanding) (NP (NP (NP (NNP Poland) (POS 's)) (NN lack)) (PP (IN of) (NP (VBG functioning) (NNS markets))))))))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (NNP East) (NNP Bloc) (NNS participants)) (ADVP (RB unanimously)) (VP (VB endorse) (NP (JJ market-based) (NN pollution) (NNS approaches)))) (. ?)))
+
+(S1 (S (NP (DT The) (NN answer)) (VP (VBZ lies) (PP (DT both) (IN in) (NP (NP (NP (DT the) (JJ degraded) (NN environment)) (PP (IN of) (NP (DT these) (NNS countries)))) (CC and) (NP (NP (DT the) (VBN perceived) (NNS causes)) (PP (IN of) (NP (DT that) (NN degradation))))))) (. .)))
+
+(S1 (S (PP (IN Like) (NP (JJ other) (NNP East) (NNP Bloc) (NNS countries))) (, ,) (NP (NNP Poland)) (VP (VBZ possesses) (NP (NP (JJ environmental) (NNS laws)) (ADJP (ADJP (RBR more) (VBN honored) (PP (IN in) (NP (PRP$ their) (NN breach)))) (PP (IN than) (PP (IN in) (NP (PRP$ their) (NN observance))))))) (. .)))
+
+(S1 (S (PP (VBG According) (PP (TO to) (NP (NP (DT a) (JJ detailed) (NN report)) (PP (IN by) (NP (NP (NNP Zbigniew) (NNP Bochniarz)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NP (NNP Minnesota) (POS 's)) (NNP Hubert) (NNP Humphrey) (NNP Institute)))))))))) (, ,) (NP (CD 27) (NNS areas)) (VP (VBG containing) (SBAR (S (NP (NP (DT a) (JJ third)) (PP (IN of) (NP (NP (NNP Poland) (POS 's)) (NN population)))) (VP (VBP are) (VP (VBN regarded) (PP (IN as) (NP (`` `) (NP (`` `) (JJ ecological) (NNS hazards) ('' ')) ('' ') (ADJP (JJ due) (PP (TO to) (NP (NP (JJ multiple) (NNS violations)) (PP (IN of) (NP (NNS standards))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Norms)) (VP (VBP are) (VP (ADVP (RB consistently)) (VBN exceeded) (PP (IN at) (NP (NP (NP (CD 60) (NN %)) (PP (IN of) (NP (JJ nitrogen) (NN oxide) (NN monitoring) (NNS sites)))) (CC and) (NP (NP (CD 80) (NN %)) (PP (IN of) (NP (NP (DT those)) (PP (IN for) (NP (NN dust) (CC and) (NN soot) (NNS emissions)))))))))) (. .)))
+
+(S1 (S (S (NP (NP (NNS Four-fifths)) (PP (IN of) (NP (NP (NNP Poland) (POS 's)) (NNS soils)))) (VP (VBP have) (VP (VBN become) (ADJP (RB highly) (JJ acidified))))) (: ;) (S (NP (NP (CD 70) (NN %)) (PP (IN of) (NP (PRP$ its) (JJ southern) (NNS forests)))) (VP (VBP are) (VP (VBN projected) (S (VP (TO to) (VP (VB die) (PP (IN by) (NP (NP (NN century) (POS 's)) (NN end))))))))) (. .)))
+
+(S1 (S (PP (IN Between) (NP (CD 1965) (CC and) (CD 1985))) (, ,) (NP (JJ Polish) (NNS waters)) (VP (VBP fit) (SBAR (IN for) (S (NP (JJ human) (NN consumption)) (VP (VBD dropped) (PP (IN from) (NP (CD 33) (NN %))) (PP (TO to) (NP (NP (CD 6) (NN %)) (PP (IN of) (NP (DT all) (NN surface) (NNS waters))))) (, ,) (SBAR (IN while) (S (NP (NP (DT those) (NN unfit)) (PP (ADVP (RB even)) (IN for) (NP (NN industry) (NN use)))) (VP (ADVP (RB nearly)) (VBD doubled)))))))) (. .)))
+
+(S1 (S (NP (NNP Poland)) (VP (VBZ produces) (NP (NP (NP (ADJP (ADJP (QP (RB about) (CD 20) (NNS times)) (RBR more) (JJ soot)) (CC and) (ADJP (QP (CD five) (NNS times)) (JJR more))) (NN sulfur) (NN dioxide)) (CC and) (NP (JJ solid) (NN waste))) (PP (IN per) (NP (NP (NN unit)) (PP (IN of) (NP (JJ gross) (JJ national) (NN product))))) (SBAR (IN than) (S (VP (VBZ does) (NP (NNP Western) (NNP Europe))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ Its) (NN mortality) (NN rate)) (PP (IN for) (NP (NP (NNS males)) (PP (IN over) (NP (CD 35)))))) (VP (VBZ is) (ADJP (ADJP (ADJP (NP (QP (RB about) (CD 50)) (NN %)) (JJR higher)) (PP (IN than) (NP (NNP West) (NNP Germany) (POS 's)))) (, ,) (CC and) (ADJP (ADJP (NP (CD 50) (NN %)) (JJR higher)) (PP (IN in) (NP (NN hazard) (NNS areas))) (PP (IN than) (NP (DT the) (JJ national) (NN average)))))) (. .)))
+
+(S1 (S (PP (IN Since) (NP (CD 1978))) (, ,) (NP (NP (JJ average) (JJ annual) (NN growth) (NNS rates)) (PP (IN for) (NP (JJS most) (NNS pollutants)))) (VP (VBP have) (VP (VBD outstripped) (NP (NP (DT the) (NN growth)) (PP (IN of) (NP (NNP GNP)))))) (. .)))
+
+(S1 (S (S (NP (NN Conference) (NNS participants)) (VP (VBD saw) (NP (DT these) (NNS effects)) (PP (IN as) (S (VP (VBG flowing) (ADVP (RB directly)) (PP (IN from) (NP (NP (PRN (-LRB- -LRB-) (NP (DT a)) (-RRB- -RRB-)) (JJ Marxist) (NN devaluation)) (PP (IN of) (NP (JJ environmental) (NNS resources)))))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (RB not) (VP (VBN produced) (PP (IN by) (NP (NN labor))))))))) (: ;) (S (LST (-LRB- -LRB-) (LS b) (-RRB- -RRB-)) (VP (VBD planned) (S (NP (NP (NNS economies) (POS ')) (NN inability)) (VP (TO to) (VP (VB control) (NP (NN pollution)) (SBAR (WHADVP (WRB where)) (S (NP (NNS enterprises)) (VP (VBP are) (ADJP (JJ state-owned) (SBAR (S (CC and) (NP (NNS penalties)) (VP (VBP are) (VP (VBN paid) (PP (IN by) (NP (NP (DT the) (NN government)) (: ;) (CC and) (PRN (-LRB- -LRB-) (NP (NNP c)) (-RRB- -RRB-)) (NP (NP (DT the) (VBG continuing) (JJ Stalinist) (NN emphasis)) (PP (IN on) (NP (JJ heavy) (NN industry)))))) (PP (IN for) (NP (JJ economic) (NN development))) (, ,) (S (VP (VBG producing) (NP (NP (DT a) (ADJP (ADJP (RB far) (JJR heavier)) (CC and) (ADJP (RBR more) (JJ wasteful))) (NN use)) (PP (IN of) (NP (NN energy) (CC and) (JJ natural) (NNS resources))) (PP (IN than) (PP (IN in) (NP (DT the) (NNP West)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (ADVP (RB repeatedly)) (VP (VBD noted) (SBAR (IN that) (S (NP (JJ environmental) (NN progress)) (VP (MD could) (RB not) (VP (VB be) (VP (VBN secured) (PP (IN without) (NP (NP (JJ true) (NN ownership)) (, ,) (NP (NP (JJ genuine) (NN competition)) (VP (VBN based) (PP (IN on) (NP (NN market) (NNS factors))))) (, ,) (CC and) (NP (NP (DT the) (NN risk)) (PP (IN of) (NP (NN bankruptcy)))))) (SBAR (IN if) (S (NP (DT a) (NN business)) (VP (VBZ makes) (NP (DT the) (JJ wrong) (NNS decisions))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS solutions)) (NP (PRP they)) (VP (ADVP (RB formally) (VBN proposed)) (VBD included) (NP (NP (JJ lead\/sulfur) (NNS taxes) (, ,) (NN conservation) (CC and) (NN recycling) (NNS incentives)) (, ,) (NP (NN reforestation) (NNS offsets)) (, ,) (NP (JJ transferable) (NN pollution) (NNS permits)) (, ,) (NP (DT an) (JJ ecological) (NN bank) (S (VP (TO to) (VP (VB finance) (NP (JJ pollution-reduction) (NNS credits)))))) (, ,) (CC and) (NP (JJ debt-for-environment) (NNS swaps)))) (. .)))
+
+(S1 (S (CC But) (NP (PRP$ their) (ADJP (RBS most) (JJ fundamental)) (NN recommendation)) (VP (VBD was) (S (VP (TO to) (VP (VB separate) (NP (NN industry)) (PP (IN from) (NP (DT the) (NN state)))))) (, ,) (S (VP (VBG making) (S (NP (PRP it)) (ADJP (RB fully) (JJ accountable) (PP (IN for) (NP (NN pollution) (NN control)))))))) (. .)))
+
+(S1 (S (NP (DT A) (NN revolution)) (VP (VBZ takes) (NP (NP (JJR more)) (PP (IN than) (NP (NN conference) (NNS manifestos))))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (NN skepticism)) (VP (VBD was) (ADVP (RB amply)) (VP (VBN captured) (PP (IN by) (NP (NP (DT a) (NN joke)) (VP (VBD told) (PP (IN by) (NP (NP (NNPS Poles)) (PP (IN at) (NP (DT the) (NN conference))))) (: :) (`` `) (S (`` `) (NP (DT The) (NN world)) (VP (MD must) (VP (VB be) (VP (VBG coming) (PP (TO to) (NP (DT an) (NN end)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Russians)) (VP (VBP are) (VP (VBG talking) (NP (NN peace)))) (. .)))
+
+(S1 (S (NP (DT The) (NNPS Palestinians)) (VP (VBP are) (VP (VBG talking) (NP (NNS elections)))) (. .)))
+
+(S1 (S (CC And) (NP (DT the) (NNPS Poles)) (VP (VBP are) (VP (VBN engaged) (PP (IN in) (NP (NN commerce))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC But) (NP (NP (DT the) (NNS implications)) (PP (IN of) (NP (NP (PDT such) (DT a) (NN shift)) (PP (TO to) (NP (NN market) (NNS approaches)))))) (VP (VBP go) (PP (ADVP (RB well)) (IN beyond) (NP (DT the) (NN fact) (SBAR (SBAR (IN that) (S (NP (NNP Poland)) (VP (VBZ is) (ADVP (RB already)) (VP (VBG working) (PP (IN on) (NP (JJ nationwide) (NNS emissions) (NNS trades))) (S (VP (TO to) (VP (VB reduce) (NP (NN smelter) (NN pollution))))))))) (, ,) (CC or) (SBAR (IN that) (S (NP (DT the) (NNPS Soviets)) (VP (VBP plan) (S (VP (TO to) (VP (VB introduce) (NP (NP (JJ marketable) (NN pollution) (NNS permits)) (PP (IN in) (NP (DT some) (NNS republics)))) (NP (JJ next) (NN year)))))))))))) (. .)))
+
+(S1 (S (NP (DT Those) (NNS implications)) (VP (VBP include) (: :) (: --) (NP (NNP Privatization))) (. .)))
+
+(S1 (S (S (VP (VBN Faced) (PP (IN with) (NP (NP (DT a) (ADJP (QP ($ $) (CD 40) (CD billion))) (JJ foreign) (NN debt)) (CC and) (NP (VBG skyrocketing) (NN inflation)))))) (, ,) (NP (NNP Poland)) (VP (MD must) (VP (VP (VB privatize) (NP (NN industry))) (CC and) (VP (VB eliminate) (NP (NP (NNS subsidies)) (SBAR (S (VP (TO to) (VP (VP (VB stabilize) (NP (PRP$ its) (NN currency))) (CC and) (VP (VB qualify) (PP (IN for) (NP (JJ international) (NN assistance)))))))))))) (. .)))
+
+(S1 (S (NP (JJ Market-based) (NN pollution) (NN control)) (VP (MD may) (VP (VB consume) (NP (NP (DT some) (NN capital)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (ADVP (RB otherwise)) (VP (VB purchase) (NP (NN state) (NNS industries))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP it)) (VP (MD could) (ADVP (RB also)) (VP (VB accelerate) (ADJP (`` `) (ADJP (`` `) (JJ marketization) ('' ')) ('' ') (PP (IN by) (S (VP (VP (VBG reinforcing) (NP (JJ industrial) (NN accountability))) (, ,) (VP (VBG breaking) (PRT (RP up)) (NP (NN state) (NNS monopolies))) (, ,) (VP (VBG giving) (NP (NNS managers)) (NP (NP (DT a) (NN stake)) (PP (IN in) (NP (NNS solutions))))) (, ,) (CC and) (VP (VBG ensuring) (SBAR (IN that) (S (NP (NN modernization)) (VP (VBZ is) (RB not) (ADJP (JJ reversible)) (SBAR (IN for) (S (NP (NN failure)) (VP (TO to) (VP (VB address) (NP (JJ environmental) (NNS effects)))))))))))))))) (. .)))
+
+(S1 (NP (: --) (NP (JJ Least-cost) (NNS solutions)) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NNS conferees)) (VP (VBD noted)))) (, ,) (NP (JJ scarce) (NN capital)) (VP (VBZ means) (SBAR (S (NP (NP (DT the) (NNS costs)) (PP (IN of) (NP (NN control)))) (VP (MD must) (VP (VB be) (VP (VBN minimized) (PP (IN through) (NP (NP (DT a) (JJ broad) (NN menu)) (PP (IN of) (NP (NP (NN compliance) (NNS choices)) (PP (IN for) (NP (JJ individual) (NNS firms))))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ means) (NP (ADJP (JJ simple) (, ,) (JJ clear)) (NNS rules)) (SBAR (IN that) (S (VP (VB secure) (NP (NP (DT the) (JJ first) (JJ large) (NNS blocks)) (PP (IN of) (NP (NN reduction))))))) (, ,) (S (VP (VBG deferring) (NP (NP (ADJP (RBR more) (JJ complex)) (NNS issues)) (PP (JJ such) (IN as) (NP (NN risk))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ means) (NP (NP (NN use)) (PP (IN of) (NP (NP (JJ quantity-based) (NN pollution) (NNS limits)) (PP (JJ such) (IN as) (NP (NP (JJ transferable) (NNS permits)) (, ,) (CONJP (RB rather) (IN than)) (NP (NP (JJ price-based) (NNS limits)) (PP (JJ such) (IN as) (NP (JJ effluent) (NNS fees)))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (SBAR (IN because) (S (NP (JJ quota-trained) (NNS managers)) (VP (MD will) (ADVP (RB likely)) (VP (VB respond) (ADJP (ADJP (JJR better)) (PP (TO to) (NP (NN quantity))) (PP (IN than) (PP (TO to) (NP (NN price) (NNS signals)))))))))) (. .)))
+
+(S1 (NP (: --) (JJ Creative) (NN financing) (. .)))
+
+(S1 (S (NP (RB Even) (JJ least-cost) (JJ environmental) (NNS solutions)) (VP (MD will) (VP (VB require) (NP (NP (NNS billions)) (PP (IN of) (NP (NNS dollars)))))) (. .)))
+
+(S1 (S (NP (NP (JJ New) (NNS types)) (PP (IN of) (NP (NN financing)))) (VP (MD must) (VP (VB make) (S (NP (NNS funds)) (ADJP (JJ available))) (PP (IN without) (S (VP (VBG draining) (NP (NP (NNP Poland) (POS 's)) (JJ hard-currency) (NNS reserves))))))) (. .)))
+
+(S1 (NP (: --) (NN Democratization) (. .)))
+
+(S1 (S (NP (NNP East) (NNP Bloc) (NN pollution) (NNS data)) (ADVP (RB typically)) (VP (VBP have) (VP (VBN been) (NP (NN state) (NNS secrets)))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (JJ Polish) (NNS data)) (VP (VBP have) (VP (VBN been) (ADJP (RB freely) (JJ available)) (PP (IN since) (NP (CD 1980))))))) (, ,) (NP (PRP it)) (VP (VBD was) (NP (DT no) (NN accident) (SBAR (IN that) (S (NP (NNS participants)) (VP (VBD urged) (NP (NP (DT the) (JJ free) (NN flow)) (PP (IN of) (NP (NN information))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (RB once) (NN information) (NNS flows))) (, ,) (S (NP (JJ public) (NN participation)) (VP (VBZ follows))) (CC and) (S (NP (NN repression)) (VP (VBZ becomes) (ADJP (JJ difficult) (SBAR (S (VP (TO to) (VP (VB reimpose)))))))) (. .)))
+
+(S1 (NP (: --) (JJ Global) (NN reciprocity) (. .)))
+
+(S1 (S (NP (CD One) (NN participant)) (ADVP (RB prematurely)) (VP (VBD declared) (SBAR (IN that) (S (NP (NNP America)) (VP (VBZ has) (VP (VBN had) (NP (NP (NP (DT a) (JJ free) (NN market)) (PP (IN in) (NP (NNS goods)))) (CC but) (NP (DT a) (JJ planned) (NN economy))) (PP (IN for) (NP (JJ environmental) (NN protection))) (, ,) (SBAR (IN while) (S (NP (NNP Poland)) (VP (VBZ represents) (NP (DT the) (JJ opposite)))))))))) (. .)))
+
+(S1 (NP (NP (PRP$ His) (NN point)) (: :) (S (NP (PRP It)) (VP (MD will) (VP (VB be) (ADJP (RB increasingly) (JJ difficult) (SBAR (IN for) (S (NP (DT the) (NNP U.S.)) (VP (TO to) (VP (VBP cling) (PP (TO to) (NP (JJ command-and-control) (NNS measures)))))))) (SBAR (IN if) (RB even) (S (NP (DT the) (NNP East) (NNP Bloc)) (VP (VBZ steps) (PP (TO to) (NP (DT a) (JJ different) (NN drummer))))))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (DT the) (NN moment))) (, ,) (NP (NNP Poland)) (VP (VBZ resembles) (NP (JJ 19th-century) (NNP Pittsburgh)) (ADVP (ADVP (RBR more)) (PP (IN than) (NP (DT a) (JJ modern) (JJ industrial) (NN society)))) (: --) (PP (IN with) (NP (NP (JJ antiquated) (NN production)) (, ,) (NP (JJ inadequate) (JJ environmental) (NN management)) (, ,) (CC and) (NP (JJ little) (JJ ecological) (NN awareness))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (VBG continuing) (NNS pressures)) (PP (IN for) (NP (JJ free-market) (NNS economics)))) (VP (VBP suggest) (SBAR (S (NP (NP (DT the) (NN conference) (POS 's)) (NN vision)) (VP (VBD was) (RB not) (NP (DT all) (NN fantasy)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Levin)) (, ,) (NP (NP (JJ former) (NN head)) (PP (IN of) (NP (NP (NNP EPA) (POS 's)) (JJ regulatory) (NN reform) (NN staff)))) (, ,)) (VP (VBD adapted) (NP (DT this)) (PP (IN from) (NP (NP (PRP$ his) (NNP November) (NN column)) (PP (IN for) (NP (NP (DT the) (NNP Journal)) (PP (IN of) (NP (DT the) (NNP Air) (CC and) (NNP Waste) (NNP Management) (NNP Association)))))))) (. .)))
+

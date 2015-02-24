@@ -1,0 +1,6 @@
+(S1 (S (S (NP (NP (DT The) (JJ current) (NN account) (NN deficit)) (PP (IN on) (NP (NP (NP (NNP France) (POS 's)) (NN balance)) (PP (IN of) (NP (NNS payments)))))) (VP (VBD narrowed) (PP (TO to) (NP (NP (QP (CD 1.48) (CD billion)) (NNP French) (NNS francs)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 236.8) (CD million))) (-RRB- -RRB-))) (PP (IN in) (NP (NNP August)))) (PP (IN from) (NP (DT a) (VBN revised) (QP (CD 2.1) (CD billion)) (NNS francs)) (PP (IN in) (NP (NNP July)))))) (, ,) (NP (DT the) (NNP Finance) (NNP Ministry)) (VP (VBD said)) (. .)))
+
+(S1 (S (ADVP (RB Previously)) (, ,) (NP (DT the) (NNP July) (NN figure)) (VP (VBD was) (VP (VBN estimated) (PP (IN at) (NP (NP (DT a) (NN deficit)) (PP (IN of) (NP (QP (CD 613) (CD million)) (NNS francs))))))) (. .)))
+
+(S1 (S (NP (NP (ADJP (RB Seasonally) (VBN adjusted)) (NNS figures)) (PP (IN for) (NP (NNP August)))) (VP (VBD were) (RB n't) (ADJP (JJ available)) (PP (IN because) (IN of) (NP (NP (DT a) (JJ recent) (NN strike)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (VP (VBN disrupted) (NP (NP (DT the) (NN ministry) (POS 's)) (NN data) (NN collection))))))))) (. .)))
+

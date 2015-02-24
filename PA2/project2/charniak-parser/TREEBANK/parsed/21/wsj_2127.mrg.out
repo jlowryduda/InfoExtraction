@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP CONTINENTAL) (NNP MORTGAGE) (CC &) (NNP EQUITY) (NNP TRUST)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB resume) (NP (NN dividend) (NNS payments)) (PP (IN with) (NP (NP (DT a) (JJ 10-cent-a-share) (NN payout)) (PP (IN on) (NP (NNP Nov.) (CD 6))) (PP (TO to) (NP (NP (NNS shares)) (PP (IN of) (NP (NN record))) (NP (NNP Oct.) (CD 25))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Dallas) (JJ real) (NN estate) (NN investment) (NN trust)) (ADVP (RB last)) (VP (VBD paid) (NP (NP (DT a) (NN dividend)) (PP (IN on) (NP (NNP Dec.) (CD 31) (, ,) (CD 1987))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNS shareholders)) (VP (VBD received) (NP (NP ($ $) (CD 1)) (NP (DT a) (NN share)))))))) (. .)))
+
+(S1 (S (PP (IN Despite) (NP (NP (VBG continuing) (NNS troubles)) (PP (IN with) (NP (NP (NN problem) (NNS assets)) (CC and) (NP (JJ nonperforming) (NNS loans)))))) (, ,) (NP (DT the) (NN trust)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB maintain) (CC or) (VB increase) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NNS distributions)))) (PP (IN because) (IN of) (NP (NP (NNS operations)) (PP (IN of) (NP (JJ joint-venture) (NNS properties)))))))))))))))) (. .)))
+

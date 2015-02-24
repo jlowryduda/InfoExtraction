@@ -1,0 +1,126 @@
+(S1 (S (NP (NNP Nelson) (NNP Bunker) (NNP Hunt)) (VP (VBZ 's) (NP (JJ attempted) (NN corner) (SBAR (IN on) (S (NP (NP (NN silver)) (ADVP (NP (DT a) (NN decade)) (RB ago))) (VP (VBZ is) (ADVP (RB still)) (VP (VBG haunting) (NP (NP (DT the) (NN market)) (PP (IN in) (NP (DT this) (NN metal)))))))))) (. .)))
+
+(S1 (S (NP (NN Silver)) (, ,) (S (ADVP (RB now)) (VP (VBG trading) (PP (IN around) (NP (NP ($ $) (CD 5)) (NP (DT an) (NN ounce)))))) (, ,) (VP (VBD surged) (PP (TO to) (NP (NP (DT an) (JJ all-time) (NN peak)) (PP (IN of) (NP (NP ($ $) (CD 50)) (NP (DT an) (NN ounce)))) (PP (IN in) (NP (NNP January) (CD 1980))))) (PP (IN from) (NP (NP (QP (IN around) ($ $) (CD 9))) (PP (IN in) (NP (CD mid-1979)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (NNP Mr.) (NNP Hunt) (POS 's)) (NN attempt) (S (VP (TO to) (VP (VB squeeze) (NP (DT the) (NN silver) (NN market)) (ADVP (NP (CD 10) (NNS years)) (RB ago)))))) (VP (VBZ is) (ADVP (RB still)) (ADVP (RB indirectly)) (S (VP (TO to) (VP (VB blame) (PP (IN for) (NP (NP (NN today) (POS 's)) (NN market) (NN depression))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Lesley) (NNP Edgar)) (, ,) (NP (NP (VBG managing) (NN director)) (PP (IN of) (NP (NP (NNP Sharps) (NNP Pixley) (NNP Ltd.)) (, ,) (NP (NNP London) (NN bullion) (NNS brokers)))))) (. .)))
+
+(S1 (S (S (SBAR (IN While) (S (NP (NP (DT some) (QP (CD 100) (CD million)) (NNS ounces)) (PP (IN of) (NP (NP (NN silver)) (VP (ADVP (RB once)) (VBN held) (PP (IN by) (NP (NP (NNP Mr.) (NNP Hunt)) (CC and) (NP (NNP Middle) (NNP Eastern) (NNS associates)))))))) (VP (VBP are) (RB n't) (VP (VBG hanging) (PP (IN over) (NP (DT the) (NN market))) (ADVP (RB anymore)))))) (, ,) (NP (NP (DT the) (NN price) (NN surge)) (PP (IN of) (NP (CD 1979-80)))) (VP (VP (VBD precipitated) (NP (NP (DT an) (NN expansion)) (PP (IN of) (NP (NP (JJ mine) (NN production)) (CC and) (NP (NN scrap) (NN recovery)))))) (CC and) (VP (VBD encouraged) (S (NP (JJ silver) (NNS consumers)) (VP (TO to) (VP (VB economize) (PP (IN on) (NP (NN silver) (NN use))))))))) (, ,) (NP (NNP Mr.) (NNP Edgar)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (JJ Photographic) (NNS developers)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBD bought) (NP (NP (NN equipment)) (SBAR (S (VP (TO to) (VP (VB recover) (NP (NN silver)) (PP (IN from) (NP (NP (VBN spent) (NNS photographs)) (, ,) (NP (NNS negatives)) (CC and) (NP (NN processing) (NNS solutions)))))))))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (DT the) (JJ photographic) (NN industry)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ accounts) (PP (IN for) (NP (NP (CD 44) (NN %)) (PP (IN of) (NP (NN silver) (NN consumption)))))))) (, ,)) (VP (VBZ continues) (S (VP (TO to) (VP (VB look) (PP (IN for) (NP (NNS substitutes))))))) (. .)))
+
+(S1 (S (S (NP (NNP Japanese) (CC and) (NNP U.S.) (JJ photographic) (NNS firms)) (VP (VBP are) (VP (VBG beginning) (S (VP (TO to) (VP (VB produce) (NP (NP (JJ electronic) (NNS cameras) (CC and) (NNS X-rays)) (SBAR (WHNP (WDT that)) (S (VP (VBP do) (RB n't) (VP (VB require) (NP (NN silver))))))))))))) (, ,) (NP (NNS dealers)) (VP (VBP say)) (. .)))
+
+(S1 (S (S (NP (NP (NP (NNP Silver) (POS 's)) (NN history)) (PP (IN of) (NP (NN volatility)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBG discouraging) (NP (NNS investors))))) (, ,) (NP (NNS dealers)) (VP (VBP say)) (. .)))
+
+(S1 (S (S (PP (ADVP (RB Even)) (IN in) (NP (DT the) (JJ present) (JJ uncertain) (NN investment) (NN climate))) (, ,) (NP (NNS investors)) (VP (VBP are) (VP (VBG preferring) (NP (`` `) (NP (`` `) (NN quality) (NNS assets) ('' ')) ('' ') (PP (JJ such) (IN as) (NP (NP (NNP Treasury) (NNS bills)) (CC and) (NP (NNS bonds))))) (PP (TO to) (NP (NN gold) (, ,) (NN silver) (CC and) (NN platinum)))))) (, ,) (NP (NNS dealers)) (VP (VBP say)) (. .)))
+
+(S1 (S (S (SBAR (IN Although) (S (NP (NNS prices)) (VP (VBD rallied) (ADVP (RB briefly)) (PP (VBG following) (NP (NP (NP (DT the) (NN tumble)) (PP (IN on) (NP (NN world) (NN stock) (NNS markets))) (NP (RBR earlier) (DT this) (NN month))) (CC and) (NP (NP (DT the) (JJ related) (NN decline)) (PP (IN of) (NP (DT the) (NN dollar))))))))) (, ,) (NP (JJ precious) (NNS metals)) (VP (VBP are) (PRT (RP out)) (PP (IN of) (NP (NP (NN favor)) (PP (IN for) (NP (DT the) (NN moment))))) (PP (IN because) (IN of) (NP (NP (JJ high) (NN interest) (NNS rates)) (CC and) (NP (NP (DT a) (NN determination)) (PP (IN by) (NP (JJ industrial) (NNS nations) (S (VP (TO to) (VP (VB curb) (NP (NN inflation)))))))))))) (, ,) (NP (NNS dealers)) (VP (VBP say)) (. .)))
+
+(S1 (S (NP (NN Silver)) (, ,) (ADVP (RB however)) (VP (VBZ is) (PP (IN in) (NP (NP (DT a) (JJR deeper) (NN slump)) (SBAR (IN than) (S (VP (VBP are) (NP (NN gold) (CC and) (NN platinum)))))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS analysts)) (VP (VBP contend) (SBAR (IN that) (S (NP (NN silver)) (VP (VBZ is) (ADJP (JJ cheap)) (ADVP (RB now)) (SBAR (IN that) (S (NP (NNS prices)) (VP (VBP are) (VP (VBG languishing) (PP (IN at) (NP (NP (NNS levels)) (VP (ADVP (RB last)) (VBN seen) (PP (IN in) (NP (DT the) (CD mid-1970s)))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NN Bargain) (NNS hunters)) (VP (VBP believe) (SBAR (IN that) (S (NP (NN silver)) (VP (VBZ offers) (NP (DT the) (JJS best) (NN value)) (NP (JJS amongst) (JJ precious) (NNS metals)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Frederick) (NNP R.) (NNP Demler)) (, ,) (NP (NP (NN analyst)) (PP (IN at) (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc))))) (. .)))
+
+(S1 (S (S (NP (NP (DT A) (JJ further) (NN decline)) (PP (IN in) (NP (NNS prices)))) (VP (MD will) (VP (VB lead) (PP (TO to) (NP (NP (JJ mine) (NN production) (NNS cuts)) (PP (IN in) (NP (DT the) (NNP U.S.)))))))) (, ,) (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NN Scrap) (NNS merchants)) (VP (VBP are) (VP (VBG converting) (NP (NP (JJR smaller) (NNS quantities)) (PP (IN of) (NP (NN metal)))) (PP (IN into) (NP (NN silver))) (, ,) (SBAR (IN while) (S (NP (JJ low) (NNS prices)) (VP (VBP are) (VP (VBG discouraging) (NP (NNS exports)) (PP (IN from) (NP (NP (NNP India)) (CC and) (NP (DT the) (NNP Soviet) (NNP Union)))))))))) (. .)))
+
+(S1 (S (S (NP (NN Silver) (NNS prices)) (VP (MD could) (ADVP (RB also)) (VP (VB be) (VP (VBN boosted) (PP (IN by) (NP (NP (NNS strikes)) (PP (IN in) (NP (VBG leading) (VBG producing) (NNS nations) (NNP Peru) (CC and) (NNP Mexico))))))))) (, ,) (NP (NNP Mr.) (NNP Demler)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (ADVP (RB Meanwhile)) (, ,) (NP (NP (JJ total) (NN fabrication) (NN demand)) (PP (IN for) (NP (NN silver)))) (VP (VBZ has) (VP (VBN risen) (NP (NP (CD six) (NNS years)) (PP (IN in) (NP (DT a) (NN row))))))) (, ,) (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (NP (JJ Japanese) (NN demand)) (VP (VBD grew) (PP (IN by) (NP (CD 70) (NN %))) (PP (IN in) (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (DT this) (NN year))))))) (CC and) (S (NP (DT the) (NN nation)) (VP (VBZ plans) (NP (NP (DT an) (NN issue)) (PP (IN of) (NP (NP (DT a) (NN silver) (NN commemorative) (NN coin)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB require) (NP (QP (CD 4.5) (CD million)) (NNS ounces))))))))))) (. .)))
+
+(S1 (S (S (PP (VBN Compared) (PP (IN with) (NP (NP (JJ huge) (JJ annual) (NNS surpluses)) (PP (IN of) (NP (NP (QP (JJR more) (IN than) (CD 100) (CD million)) (NNS ounces)) (PP (IN in) (NP (NP (DT the) (JJ first) (NN half)) (PP (IN of) (NP (DT the) (CD 1980s)))))))))) (, ,) (NP (NP (NN world) (NN silver) (NNS supplies)) (CC and) (NP (NN consumption))) (VP (VBP are) (ADVP (RB now)) (PP (ADVP (RB nearly)) (IN in) (NP (NN balance))))) (, ,) (NP (NNP Mr.) (NNP Demler)) (VP (VBZ says)) (. .)))
+
+(S1 (S (PP (IN Despite) (NP (NP (JJ intermittent) (NNS rallies)) (PP (IN in) (NP (DT the) (JJ past) (JJ few) (NNS years))))) (, ,) (NP (NP (NNS improvements)) (PP (IN in) (NP (DT the) (JJ supply-demand) (NN balance)))) (VP (VBP have) (RB n't) (VP (VBN managed) (S (VP (TO to) (VP (VB push) (NP (NN silver) (NNS prices)) (PP (IN into) (NP (DT a) (JJR higher) (NN range)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (EX There)) (VP (VBZ 's) (NP (RB just) (ADJP (RB too) (JJ much)) (NN silver)) (ADVP (RB around))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Tom) (NNP Butler)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN at) (NP (NP (NNP Samuel) (NNP Montagu) (CC &) (NNP Co.)) (, ,) (NP (DT a) (NNP London) (NN bullion) (NN house)))))) (. .)))
+
+(S1 (SINV (S (NP (NP (DT A) (JJ huge) (NN silver) (S (VP (VB stockpile) (PP (IN at) (NP (NP (NNS exchanges)) (, ,) (NP (NNS refiners)) (, ,) (NP (NN consuming) (NNS industries)) (CC and) (NP (NN government) (NNS warehouses))))))) (PP (IN of) (NP (QP (IN at) (JJS least) (CD 617) (CD million)) (NNS ounces)))) (VP (VBZ is) (NP (DT the) (NN market) (NN depressant)))) (, ,) (VP (VBZ says)) (NP (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc.)) (PP (IN in) (NP (DT a) (NN report)))) (. .)))
+
+(S1 (SINV (S (ADVP (NP (DT This) (NN year)) (RB alone)) (, ,) (NP (NP (NNS inventories)) (PP (IN at) (NP (NP (DT the) (NNP Commodity) (NNP Exchange)) (PP (IN of) (NP (NNP New) (NNP York)))))) (VP (VP (VBD jumped) (`` `) (NP (`` `) (PP (IN by) (NP (NP (DT a) (JJ staggering) (CD 46) (CD million)) (PP (TO to) (NP (QP (CD 221) (CD million)) (NNS ounces))))) (POS ')) ('' ') (PP (IN because) (IN of) (NP (NN producer) (NNS deliveries)))) (, ,) (VP (ADJP (JJ de-stocking) (PP (IN by) (NP (NNS fabricators) (CC and) (NNS sales)))) (PP (IN by) (NP (JJ disenchanted) (NNS investors)))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Rhona) (NNP O') (NNP Connell)) (, ,) (NP (NP (JJ London-based) (JJ precious) (NNS metals) (NN analyst)) (PP (IN at) (NP (NNP Shearson) (NNP Lehman) (NNP Hutton))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNP Silver) (NN production)) (VP (VBZ is) (ADVP (RB also)) (PP (IN in) (NP (DT an) (JJ inexorable) (JJ upward) (NN trend)))) (, ,) ('' ')) ('' ') (NP (NNP Ms.) (NNP O') (NNP Connell)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (ADVP (RB Moreover)) (, ,) (SBAR (IN while) (S (NP (NNP Asian) (CC and) (NNP Middle) (NNP Eastern) (NNS investors)) (VP (VP (NN hoard) (NP (NN gold))) (CC and) (VP (VB help) (S (VP (VB underpin) (NP (PRP$ its) (NN price)))))))) (, ,) (NP (NN silver)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (DT the) (JJ same) (NN mystique))))) (, ,) (NP (NNS dealers)) (VP (VBP say)) (. .)))
+
+(S1 (SINV (S (NP (NNS Investors)) (VP (VBP have) (VP (VBN gotten) (VP (VBN burned) (PP (IN on) (NP (NN silver))) (ADVP (ADVP (RB so) (RB often)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (ADJP (ADVP (RB far) (RBR more)) (JJ partial) (PP (TO to) (NP (NN gold)))))))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Urs) (NNP Seiler)) (, ,) (NP (NP (JJ senior) (NN vice) (NN president)) (PP (IN at) (NP (NP (NNP Union) (NNP Bank)) (PP (IN of) (NP (NNP Switzerland))))))) (. .)))
+
+(S1 (S (S (CC Yet) (SBAR (IN if) (S (NP (NN gold) (NNS prices)) (VP (VBP improve)))) (, ,) (NP (NN silver) (NNS prices)) (VP (MD could) (VP (VB rally) (ADVP (RB sharply))))) (, ,) (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NNS dealers)) (VP (VBP caution) (SBAR (IN that) (S (NP (DT any) (NN increase)) (VP (MD would) (VP (VB be) (NP (QP ($ $) (CD 1) (TO to) ($ $) (CD 2))) (PP (IN at) (NP (RBS most)))))))) (. .)))
+
+(S1 (S (VP (VBG Looking) (ADVP (RB ahead)) (PP (TO to) (NP (NP (JJ other) (NN commodity) (NNS markets)) (NP (DT this) (NN week))))) (: :)))
+
+(S1 (NP (NNP Livestock) (CC and) (NNPS Meats)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBP expect) (S (NP (NP (DT the) (NNS prices)) (PP (IN of) (NP (JJ live) (NNS cattle) (NNS futures) (NNS contracts)))) (VP (TO to) (VP (VB rise) (PP (IN in) (NP (NP (NN trading)) (NP (NN today)) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (NP (DT a) (NN government) (JJ quarterly) (NN census)) (SBAR (WHNP (WDT that)) (S (VP (VBD found) (NP (NP (JJ fewer-than-expected) (NNS cattle)) (PP (IN on) (NP (NNS feedlots))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (NP (DT the) (NN close)) (PP (IN of) (NP (NN trading))) (NP (NNP Friday)))) (, ,) (NP (DT the) (NNP Agriculture) (NNP Department)) (VP (VBD reported) (SBAR (IN that) (S (NP (NP (NNS feedlots)) (PP (IN in) (NP (DT the) (CD 13) (JJS biggest) (NN ranch) (NNS states)))) (VP (VBD held) (NP (QP (CD 8.06) (CD million)) (NNS cattle)) (PP (IN on) (NP (NNP Oct.) (CD 1))) (, ,) (ADVP (RB down) (NP (CD 6) (NN %)) (PP (IN from) (NP (DT that) (NN date)) (ADVP (NP (DT a) (NN year)) (RBR earlier)))))))) (. .)))
+
+(S1 (S (NP (JJS Most) (NNS analysts)) (VP (VBD had) (VP (VBN expected) (S (NP (DT the) (NN government)) (VP (TO to) (VP (VB report) (NP (DT a) (ADJP (CD 4) (NN %)) (NN decline))))))) (. .)))
+
+(S1 (S (S (NP (NNS Feedlots)) (VP (VBP fatten) (NP (JJ young) (NNS cattle)) (PP (IN for) (NP (NN slaughter))))) (, ,) (IN so) (S (NP (DT a) (NN decline)) (VP (VBZ signals) (NP (NP (DT a) (VBG tightening) (NN supply)) (PP (IN of) (NP (NN beef)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN government)) (VP (VBD reported) (SBAR (IN that) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (JJ young) (NNS cattle)) (VP (VBN placed) (PP (IN on) (NP (NNS feedlots))) (PP (IN during) (NP (DT the) (NN quarter))))))) (VP (VBD dropped) (NP (CD 5) (NN %)) (PP (VBN compared) (PP (IN with) (NP (DT the) (JJ year-earlier) (NN quarter)))))))) (. .)))
+
+(S1 (S (NP (JJ Many) (NN industry) (NNS analysts)) (VP (VBD had) (VP (VBN been) (VP (VBG projecting) (NP (NP (DT a) (ADJP (CD 3) (NN %)) (NN decline)) (PP (IN in) (NP (NNS placements)))) (PP (IN for) (NP (DT the) (NN quarter)))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (CD 1988) (NN quarter))) (, ,) (NP (JJ many) (NNS farmers)) (VP (VBD were) (VP (VBN forced) (S (VP (TO to) (VP (VB sell) (NP (PRP$ their) (NNS cattle)) (PP (TO to) (NP (JJ feedlot) (NNS operators)))))) (SBAR (IN because) (S (NP (DT the) (NN drought)) (VP (VBD dried) (PRT (RP out)) (NP (NP (DT the) (NN pasture)) (PP (IN on) (NP (PRP$ their) (NNS ranches))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN number)) (PP (IN of) (NP (NP (NNS cattle)) (VP (VBG moving) (PP (IN onto) (NP (NNS feedlots))) (PP (IN in) (NP (DT the) (JJ recent) (NN quarter))))))) (VP (VBD was) (ADVP (RB also)) (ADJP (JJR lower)) (SBAR (IN because) (S (S (VP (VBG fattening) (NP (NNS cattle)))) (VP (VBZ is) (ADJP (RBR less) (JJ profitable)))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN shortage)) (PP (IN of) (NP (JJ young) (NNS cattle)))) (VP (VBZ has) (VP (VBN made) (S (NP (PRP them)) (ADJP (RBR more) (JJ expensive) (SBAR (IN for) (S (NP (JJ feedlot) (NNS operators)) (VP (TO to) (VP (VB buy))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Agriculture) (NNP Department)) (ADVP (RB also)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (VBN fattened) (NNS cattle)) (VP (VBN slaughtered) (PP (IN in) (NP (DT the) (NN quarter))))))) (VP (VBD dropped) (NP (QP (IN by) (CD 5)) (NN %)) (PP (IN from) (NP (NP (DT the) (CD 1988) (NN quarter)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (PP (IN in) (NP (NP (NN line)) (PP (IN with) (NP (NP (NNS projections)) (PP (IN by) (NP (NNS analysts)))))))))))))))) (. .)))
+
+(S1 (NP (NN Energy)))
+
+(S1 (S (NP (NP (NP (NNP Friday) (POS 's)) (JJ 44-cent-a-barrel) (NN price) (NN drop)) (PP (TO to) (NP ($ $) (CD 19.98))) (PP (IN in) (NP (NP (DT the) (VBG expiring) (NNP November) (NN contract)) (PP (IN for) (NP (NNP West) (NNP Texas) (NNP Intermediate) (NN crude)))))) (VP (MD may) (ADVP (RB well)) (VP (VB set) (NP (NP (DT the) (NN tone)) (PP (IN for) (S (VP (VBG trading) (NP (DT this) (NN week)) (PP (IN in) (NP (NN petroleum) (NNS futures))))))) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Mercantile) (NNP Exchange))))) (. .)))
+
+(S1 (S (NP (JJS Most) (NNS traders) (CC and) (NNS analysts)) (VP (VBD attributed) (NP (DT the) (NN decline)) (PP (TO to) (NP (NP (JJ technical) (NNS factors)) (VP (VBN associated) (PP (IN with) (S (NP (DT the) (NN contract) (POS 's)) (VP (VBG going) (PP (IN off) (NP (DT the) (NN board)))))))))) (. .)))
+
+(S1 (S (NP (NNS Others)) (VP (VBD said) (SBAR (SBAR (IN that) (S (NP (DT the) (NN drop)) (VP (VBD continued) (NP (NP (DT the) (JJ downward) (NN correction)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN been) (ADJP (JJ due) (PP (IN in) (NP (DT the) (NN petroleum) (NNS pits)))))))))))) (CC and) (SBAR (IN that) (S (NP (PDT such) (DT a) (NN trend)) (VP (MD could) (ADVP (RB well)) (VP (VB continue) (PP (IN in) (NP (DT the) (JJ next) (JJ several) (NN trading) (NNS sessions))))))))) (. .)))
+
+(S1 (S (S (VP (VBG Barring) (NP (DT any) (JJ petroleum-related) (NN news) (NNS events)))) (, ,) (NP (NP (NN trading)) (PP (IN in) (NP (DT the) (NNS days))) (ADVP (RB ahead))) (VP (MD should) (ADVP (RB further)) (VP (VB test) (NP (NP (JJ recent) (NNS projections)) (PP (IN by) (NP (NP (NN oil) (NNS economists)) (CC and) (NP (JJ other) (NN market) (NNS watchers)))) (SBAR (IN that) (S (NP (JJ strong) (JJ fourth-quarter) (NN demand)) (VP (MD will) (VP (VB keep) (S (NP (NNS prices)) (VP (JJ firm)))))))))) (. .)))
+
+(S1 (NP (NN Copper)))
+
+(S1 (S (NP (NN Copper) (NNS prices)) (VP (VBD fell) (ADVP (RB sharply)) (NP (NNP Friday) (NN afternoon))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (NN copper)) (PP (IN for) (NP (NNP December) (NN delivery)))) (VP (VBD settled) (ADVP (NP (CD 4.5) (NNS cents)) (JJR lower)) (PP (IN at) (NP (NP ($ $) (CD 1.2345)) (NP (DT a) (NN pound))))) (. .)))
+
+(S1 (S (NP (NN Pressure)) (VP (VBD came) (PP (IN from) (NP (NP (JJ several) (NNS developments)) (PP (VBG including) (NP (NP (DT the) (NN settlement)) (PP (IN of) (NP (CD two) (JJ long-term) (NNS strikes)))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Friday))) (PRN (, ,) (S (NP (CD one) (NN analyst)) (VP (VBD said))) (, ,)) (NP (JJ rank-and-file) (NNS workers)) (VP (VBD ratified) (NP (NP (DT a) (JJ new) (NN labor) (NN agreement)) (VP (VBG ending) (NP (NP (DT a) (JJ three-month) (NN strike)) (PP (IN at) (NP (NP (DT the) (NNP Highland) (NNP Valley) (NN mine)) (PP (IN in) (NP (NNP British) (NNP Columbia))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Mexico))) (PRN (, ,) (S (NP (DT the) (NN analyst)) (VP (VBD added))) (, ,)) (NP (NP (NNS employees)) (PP (IN at) (NP (DT the) (NNP Cananea) (NN mine))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN been) (PRT (RP out)) (PP (IN of) (NP (NN work))) (PP (IN since) (NP (NP (JJ late) (NNP August)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN mine)) (VP (VBD was) (VP (VBN declared) (S (ADJP (JJ bankrupt) (PP (IN by) (NP (DT the) (NN government))))))))))))))) (, ,)) (VP (VBD accepted) (NP (NP (DT a) (ADJP (CD 35) (NN %)) (NN cut)) (PP (IN in) (NP (DT the) (JJ 3,800-man) (NN work) (NN force))))) (. .)))
+
+(S1 (S (NP (DT The) (NN mine)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB return) (PP (TO to) (NP (NP (NN production)) (PP (IN in) (NP (QP (RB about) (DT a)) (NN week)))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Friday))) (, ,) (NP (NN selling)) (VP (VBD dominated) (NP (DT the) (NN afternoon) (`` `) (INTJ (`` `) (VB curb) ('' ')) ('' ') (NN session)) (PP (IN in) (NP (NP (NNP London)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ takes) (NP (NN place)) (PP (IN at) (NP (NP (NN noon)) (NP (NNP EDT)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN premium)) (PP (IN of) (NP (NN cash) (NN copper))) (PP (TO to) (NP (DT the) (JJ three-month) (RP forward) (NNS offerings)))) (VP (VBN narrowed) (, ,) (S (VP (VBG indicating) (NP (NP (JJR weaker) (NN demand)) (PP (IN for) (NP (NN cash) (NN copper))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Long-term) (NN support)) (PP (IN for) (NP (DT the) (NNP December) (NN contract)))) (VP (VBD was) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (PP (IN at) (NP (NP ($ $) (CD 1.25)) (NP (DT a) (NN pound))))))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ technical) (NN analyst)) (VP (VBD said) (SBAR (S (NP (EX there)) (VP (VBD were) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NN stop-loss) (NNS orders)))) (PP (IN under) (NP (NP (DT that) (NN level)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN touched) (PRT (RP off)) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN contract) (POS 's)) (NN price)) (VP (VBD fell) (PP (IN below) (NP (PRP it)))))))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBD brought) (PRT (RP in)) (NP (NP (JJ considerable) (NN fund) (NN selling)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD continued) (PP (IN until) (NP (NP (DT the) (NN close)) (PP (IN of) (NP (NN trading)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (PP (IN In) (ADJP (JJ general))) (, ,) (NP (PRP it)) (VP (VBD was) (NP (DT a) (JJ bearish) (NN close)))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Ben) (NNP Hanauer)) (, ,) (NP (NP (DT a) (NN copper) (NN trader)) (PP (IN at) (NP (NP (NNP Rudolph) (NNP Wolff) (CC &) (NNP Co.)) (, ,) (NP (DT a) (JJ major) (NNS commodities) (NN trading) (CC and) (NN brokerage) (NN firm)))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN whether) (S (NP (DT this) (NN price) (NN break)) (VP (VBZ has) (NP (NP (NNS implications)) (PP (IN for) (NP (DT this) (NN week))))))) (, ,) (NP (PRP he)) (VP (VBD said) (, ,) (`` `) (S (`` `) (NP (PRP we)) (VP (MD will) (VP (VB know) (ADVP (RBR more)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP London) (NNP Metal) (NNP Exchange) (NN copper) (NN stock) (NNS levels)) (VP (VBP are) (VP (VBN released) (NP (NNP Monday) (NN morning)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT Another) (NN analyst)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD expected) (S (NP (NNP LME) (NNS inventories)) (VP (TO to) (VP (VB be) (PRT (RP down)) (PP (IN by) (NP (QP (IN about) (CD 15,000)) (NNS tons))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ weekly) (NN report)) (VP (VBZ is) (VP (VBN issued)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Bernard) (NNP Savaiko)) (, ,) (NP (NP (JJ senior) (NNS commodities) (NN analyst)) (PP (IN at) (NP (NNP PaineWebber) (NNP Inc.)))) (, ,)) (VP (VBD said) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (NNS traders)) (VP (VBD saw) (SBAR (S (NP (DT the) (NN market)) (VP (VBD was) (RB n't) (VP (VBG reacting) (ADVP (RB positively)) (PP (TO to) (NP (NP (DT the) (NNS forecasts)) (PP (IN of) (NP (JJR lower) (NNP LME) (NNS stocks)))))))))))) (, ,) (NP (PRP they)) (VP (VBD perceived) (NP (DT a) (JJ bearish) (NN sign)))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD noted) (SBAR (IN that) (S (NP (NP (DT the) (NNPS Japanese)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (VP (VBG buying) (PP (IN at) (NP (NP (NNS prices)) (PP (ADVP (RB just)) (IN above) (NP (DT the) (ADJP ($ $) (CD 1.25)) (NN level)))))))))) (, ,)) (ADVP (RB apparently)) (VP (VBD pulled) (ADVP (RB back)) (PP (IN from) (NP (DT the) (NN market))) (PP (IN on) (NP (NNP Friday))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Savaiko)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ sees) (NP (NP (DT a) (NN possibility)) (PP (IN of) (S (NP (DT the) (NNP December) (NN contract)) (VP (VBG dropping) (PP (TO to) (NP (NP ($ $) (CD 1.05)) (NP (DT a) (NN pound)))))))))))) (. .)))
+

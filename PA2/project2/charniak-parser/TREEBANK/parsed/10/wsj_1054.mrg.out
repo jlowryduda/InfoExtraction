@@ -1,0 +1,16 @@
+(S1 (S (VP (VB Follow) (PP (IN With) (NP (NNP Care))))))
+
+(S1 (S (`` `) (S (`` `) (VP (VB Work) (ADVP (RB hard)))) (, ,) (NP (NN play)) (ADJP (JJ hard)) ('' ') ('' ') (VP (VBZ is) (NP (NP (NN advice)) (VP (ADVP (RB Best)) (VBN taken) (PP (IN with) (NP (DT some) (NN caution))))) (, ,) (SBAR (IN For) (S (NP (PRP it)) (VP (MD can) (VP (VB bring) (NP (NP (NN fitness) (CC and) (NN success)) (CC Or) (NP (NP (DT a) (NN state)) (PP (IN of) (NP (JJ total) (NN exhaustion)))))))))) (. .)))
+
+(S1 (NP (: --) (NNP Edward) (NNP F.) (NNP Dempsey) (. .)))
+
+(S1 (NP (JJ Double) (NN Check)))
+
+(S1 (S (S (NP (DT The) (NN guest)) (VP (VBD paid) (NP (PRP$ his) (NN bill)) (PP (IN at) (NP (DT the) (NN resort) (NN hotel))))) (, ,) (CC and) (RB as) (S (NP (PRP he)) (VP (VBD departed) (SBAR (S (NP (PRP he)) (VP (VBD noticed) (NP (NP (DT a) (NN sign)) (VP (VBG saying) (, ,) (`` `) (SQ (`` `) (VBP Have) (NP (PRP You)) (VP (VBN Left) (NP (NN Anything))) (. ?) ('' '))))))))) ('' ')))
+
+(S1 (S (S (NP (DT The) (NN man)) (VP (VP (VBD went) (ADVP (RB back))) (CC and) (VP (VBD spoke) (PP (TO to) (NP (DT the) (NN desk) (NN clerk)))))) (: :) (S (`` `) (S (`` `) (NP (DT That) (NN sign)) (VP (VBZ is) (ADJP (JJ wrong)))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD said))) (. .)))
+
+(S1 (SBARQ (`` `) (SBAR (`` `) (S (NP (PRP It)) (VP (MD should) (VP (VB read))))) (, ,) (`` `) (`` `) (SQ (VP (VBP Have)) (NP (PRP You)) (NP (NNP Anything) (NNP Left))) (. ?) ('' ') ('' ')))
+
+(S1 (NP (: --) (NNP Sam) (NNP Ewing) (. .)))
+

@@ -1,0 +1,46 @@
+(S1 (S (NP (NP (NNP Dentsu) (NNP Inc.)) (, ,) (NP (NP (NP (DT the) (NN world) (POS 's)) (JJS largest) (NN advertising) (NN agency)) (PP (IN on) (NP (NP (DT the) (NN strength)) (PP (IN of) (NP (NP (PRP$ its) (NN dominance)) (PP (IN in) (NP (DT the) (JJ Japanese) (NN market)))))))) (, ,)) (VP (VBZ is) (VP (VBG setting) (NP (PRP$ its) (NNS sights)) (PP (IN on) (NP (RB overseas) (NN expansion))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (NNP Dentsu)) (VP (VBD started) (NP (NP (NNP HDM)) (, ,) (NP (NP (DT a) (JJ joint) (NN network)) (PP (IN with) (NP (NP (NNP U.S.) (NN ad) (NN agency)) (NP (NNP Young) (CC &) (NNP Rubicam))))) (CC and) (NP (NP (NNP Eurocom)) (PP (IN of) (NP (NNP France)))))) (. .)))
+
+(S1 (S (ADVP (NP (DT A) (JJ few) (NNS months)) (RB ago)) (, ,) (NP (NNP Dentsu)) (VP (VBD acquired) (NP (NP (CD 69) (NN %)) (PP (IN of) (NP (JJ Australian) (NN agency) (NNP Fortune) (NNP Communication) (NNP Holdings) (NNP Ltd.)))) (PP (IN for) (NP (NP (QP (CD 5.9) (CD million)) (JJ Australian) (NNS dollars)) (PRN (-LRB- -LRB-) (ADJP (NP (PRP US)) (QP ($ $) (CD 4.6) (CD million))) (-RRB- -RRB-))))) (. .)))
+
+(S1 (S (S (NP (NNP Dentsu)) (VP (VBZ has) (NP (NNP U.S.) (NNS subsidiaries)))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBP keep) (NP (JJ low) (NNS profiles)))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (NP (NP (DT the) (JJ giant) (NN marketing) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ holds) (NP (NP (CD 25) (NN %)) (PP (IN of) (NP (NP (NP (NNP Japan) (POS 's)) (NP (NP (QP (CD 4.4) (CD trillion)) (NN yen)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 30.96) (CD billion))) (-RRB- -RRB-)))) (NN advertising) (NN industry))))))) (, ,)) (VP (VBZ is) (VP (VBG considering) (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NP (DT an) (NN advertising) (NN network)) (PP (IN in) (NP (NP (DT the) (NNP U.S.)) (CC or) (NP (NNP Europe))))))))) (. .)))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ is) (VP (VBG driving) (NP (NP (NNP Dentsu) (POS 's)) (JJ international) (NN expansion)) (ADVP (RB largely)))))) (VP (VBZ is) (NP (DT the) (NN need) (S (VP (TO to) (VP (VB keep) (PRT (RP up)) (PP (IN with) (NP (PRP$ its) (JJ Japanese) (NNS clients))) (SBAR (IN as) (S (NP (PRP they)) (VP (VBP grow) (PP (IN in) (NP (NP (DT the) (NNP U.S.)) (CC and) (NP (NNP Europe)))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (FRAG (SBAR (IN If) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB do) (NP (NN something)) (ADVP (RB ..)))))) (. .)) (NP (PRP we)) (VP (MD wo) (RB n't) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB catch) (PRT (RP up)) (PP (IN with) (NP (NN demand)))))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (DT a) (NNP Dentsu) (NN spokesman)) (. .)))
+
+(S1 (S (`` `) (NP (`` `) (NNP Our) (NN president)) (VP (VBD said) (SBAR (S (NP (NN acquisition)) (VP (VBZ is) (NP (DT an) (JJ effective) (NN method)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (JJ Last) (NN year)) (, ,) (NP (NP (NNP Dentsu) (POS 's)) (JJ foreign) (NN business)) (VP (VBD accounted) (PP (IN for) (NP (NP (QP (JJR less) (IN than) (CD 10)) (NN %)) (PP (IN of) (NP (JJ total) (NNS billings))))))) (, ,) (CC but) (S (NP (DT the) (NN company)) (VP (VBZ is) (VP (VBG aiming) (PP (IN at) (NP (NP (CD 20) (NN %)) (PP (IN in) (NP (DT the) (JJ near) (NN future)))))))) (. .)))
+
+(S1 (S (ADVP (RB So) (RB far)) (, ,) (NP (PRP it)) (VP (VBZ appears) (ADJP (JJ cautious) (PP (IN about) (S (VP (VBG taking) (NP (DT the) (JJ big) (NN step))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN example))) (, ,) (NP (DT the) (NN spokesman)) (VP (VBZ says) (SBAR (S (NP (NNP Dentsu)) (VP (VBZ has) (VP (VBN been) (VP (VBN approached) (PP (IN by) (NP (NNS banks) (CC and) (NNS securities) (NNS companies))) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS times))) (SBAR (S (VP (TO to) (VP (VB invest) (PP (IN in) (NP (DT the) (JJ troubled) (NNP British) (NN marketing) (NN group) (NNP Saatchi) (CC &) (NNP Saatchi) (NNP PLC)))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (NNP Dentsu)) (VP (VBZ has) (RB n't) (VP (VBN looked) (ADVP (RB seriously)) (PP (IN at) (NP (NNP Saatchi)))))))) (. .)))
+
+(S1 (S (SBAR (IN Though) (S (NP (NNP Dentsu)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ has) (NP (DT no) (JJ concrete) (NX (NX (NN acquisition) (NNS plans)) (CC or) (NX (NNS deadlines)))))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBG laying) (NP (NP (DT the) (NN groundwork)) (PP (IN for) (NP (JJ international) (NN growth)))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (VP (VP (VBG setting) (PRT (RP up)) (NP (NP (DT a) (JJ special) (NN team)) (PP (IN in) (NP (NP (NN charge)) (PP (IN of) (NP (JJ international) (NNS markets))))))) (CC and) (VP (VBG training) (NP (NNS workers)) (S (VP (TO to) (VP (VB do) (NP (NN business)) (ADVP (RB abroad)))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (DT the) (NN year)) (VP (VBN ended) (NP (NNP March) (CD 31))))) (, ,) (S (NP (NNP Dentsu) (NNS sales)) (VP (VBD rose) (NP (CD 19) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 8.9) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 7.5) (CD billion)))))) (, ,) (CC and) (S (NP (JJ net) (NN income)) (VP (VBD jumped) (NP (CD 59) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 102) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 64) (CD million)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Dentsu) (POS 's)) (NNS billings)) (NP (JJ last) (NN year)) (VP (VBD were) (ADJP (ADJP (JJR larger)) (PP (IN than) (NP (NP (DT those)) (PP (IN of) (NP (NP (NNP Young) (CC &) (NNP Rubicam)) (, ,) (NP (NP (DT the) (NN world) (POS 's)) (JJ second-largest) (NN ad) (NN agency))))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT a) (NN survey)) (PP (IN by) (NP (DT the) (NN publication))) (NP (NNP Advertising) (NNP Age)))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NN success) (RB overseas)) (PP (IN in) (NP (JJ unfamiliar) (NNS markets)))) (VP (MD could) (VP (VB be) (ADJP (ADJP (JJR trickier)) (PP (IN than) (PP (IN for) (NP (NP (JJ other) (NNS industries)) (PP (JJ such) (IN as) (NP (NNS manufacturers))))))))) (. .)))
+
+(S1 (S (PP (IN On) (NP (PRP$ its) (JJ own))) (, ,) (NP (NP (NP (NNP Dentsu) (POS 's)) (NN muscle)) (PP (IN in) (NP (NNP Japan)))) (VP (MD may) (VP (VB count) (PP (IN for) (NP (NP (RB little)) (PP (IN in) (NP (JJ major) (JJ foreign) (NNS markets))))) (SBAR (WHADVP (WRB when)) (S (VP (VBG seeking) (NP (JJ non-Japanese) (NNS clients))))))) (. .)))
+
+(S1 (S (ADVP (RB Thus)) (, ,) (NP (DT an) (NN acquisition)) (VP (MD may) (VP (VB prove) (NP (DT the) (JJ necessary) (NN course)))) (. .)))
+
+(S1 (S (CC But) (NP (JJ Japanese) (NNS agencies)) (VP (VBP are) (ADJP (JJ cautious) (PP (IN about) (S (VP (VBG expanding) (ADVP (RB abroad)))))) (SBAR (IN because) (S (NP (NN client) (NNS relationships)) (VP (VBP are) (ADJP (JJ different)))))) (. .)))
+
+(S1 (S (S (NP (JJ Japanese) (NNS agencies)) (VP (VBP do) (NP (NN business)) (PP (IN with) (NP (NP (JJ rival) (NNS clients)) (PP (IN in) (NP (DT the) (JJ same) (NN industry))))))) (, ,) (NP (NP (DT a) (NN practice)) (`` `) (S (`` `) (NP (DT that)) (VP (MD would) (VP (VB be) (ADJP (JJ unacceptable)) (PP (IN by) (NP (JJ traditional) (JJ Western) (NN conflict) (NNS rules))))) (, ,) ('' ')) ('' ')) (VP (VBZ says) (NP (NP (NNP Roy) (NNP Warman)) (, ,) (NP (NP (DT the) (NNP London) (NN chief) (NN executive)) (PP (IN of) (NP (NP (NNP Saatchi) (CC &) (NNP Saatchi) (POS 's)) (NNS communications) (NN division)))))) (. .)))
+
+(S1 (SINV (S (SBAR (IN Although) (S (S (VP (VBG acquiring) (NP (DT a) (JJ foreign) (NN company)))) (VP (MD would) (VP (VB expand) (NP (NP (JJ Japanese) (NN advertising) (NNS agencies) (POS ')) (NN business)) (PP (TO to) (NP (JJ foreign) (NNS clients))))))) (, ,) (NP (JJ many) (NNS clients)) (VP (MD would) (ADVP (RB also)) (VP (VB be) (S (NP (JJ Japanese) (NNS companies)) (VP (VBG expanding) (ADVP (RB overseas))))))) (, ,) (VP (VBZ says)) (NP (DT the) (NNP Dentsu) (NN spokesman)) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ different) (NN business) (NN system)) (VP (MD would) (VP (VB make) (S (NP (PRP it)) (ADJP (JJ hard)) (SBAR (IN for) (S (NP (NNP Dentsu)) (VP (TO to) (VP (VB provide) (NP (DT these) (JJ Japanese) (NNS companies)) (NP (NP (DT the) (JJ same) (NN kind)) (PP (IN of) (NP (NNS services))) (SBAR (S (NP (PRP they)) (VP (VBP do) (PP (IN in) (NP (NNP Japan)))))))))))))) (. .)))
+

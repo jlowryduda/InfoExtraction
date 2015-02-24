@@ -1,0 +1,6 @@
+(S1 (S (NP (DT The) (NNP Philippine) (NN government)) (VP (VBD awarded) (NP (NP (NNP Finland) (POS 's)) (NNP Outokumpu) (NNP Oy)) (NP (DT the) (NN contract) (S (VP (TO to) (VP (VB upgrade) (NP (NP (DT the) (NNS facilities)) (PP (IN of) (NP (NP (NNP Philippine) (NNP Associated) (NNP Smelting)) (CC &) (NP (NN Refining) (NNP Corp.))))))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNS documents)) (PP (IN from) (NP (NP (NNP National) (NNP Development) (NNP Corp.)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (JJ Philippine) (NN company) (POS 's)) (NNS owners)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN project)) (VP (VP (VBZ costs) (NP (QP ($ $) (CD 46.8) (CD million)))) (, ,) (CC and) (VP (VBZ is) (VP (VBN intended) (S (VP (TO to) (VP (VB boost) (NP (NP (DT the) (NN company) (POS 's)) (NN production) (NN capacity)) (PP (IN by) (NP (CD 25) (NN %))) (PP (TO to) (NP (NP (NP (CD 34,500) (JJ metric) (NNS tons)) (PP (IN of) (NP (NN copper) (NN cathode)))) (NP (DT a) (NN year)))))))))) (. .)))
+
+(S1 (S (NP (NNP Outokumpu)) (VP (VBZ is) (NP (DT a) (NN mining) (, ,) (NN trading) (CC and) (NN construction) (NN concern))) (. .)))
+

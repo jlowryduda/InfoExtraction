@@ -1,0 +1,154 @@
+(S1 (S (PP (IN In) (NP (NP (DT the) (NN aftermath)) (PP (IN of) (NP (NP (DT the) (NNP Beijing) (NN massacre)) (PP (IN on) (NP (NNP June) (CD 4))))))) (, ,) (NP (NNS economists)) (VP (VBD advanced) (NP (ADJP (RB wildly) (JJ divergent)) (NNS views)) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (NNP Hong) (NNP Kong)) (VP (MD would) (VP (VB be) (VP (VBN affected)))))))) (. .)))
+
+(S1 (SINV (PP (IN Among) (NP (DT the) (ADJP (RBS most) (JJ upbeat)))) (VP (VBD was)) (NP (NNP BT) (NNP Brokerage) (PRN (-LRB- -LRB-) (NP (NNP Asia)) (-RRB- -RRB-)) (NNP Ltd)) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT a) (NNP June) (CD 5) (NN reaction))) (, ,) (NP (DT the) (NNP Bankers) (NNP Trust) (NNP Co.) (NN unit)) (VP (VBD proclaimed) (S (NP (DT the) (NN economy)) (`` `) (ADJP (`` `) (JJ shockproof)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNS Others)) (VP (VBD were) (ADJP (RBR more) (JJ cautious))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (NNP July) (NN analysis) (VBN titled) (`` `)) (`` `) (PP (PP (IN From) (NP (NN Euphoria))) (PP (TO to) (NP (NN Despair)))))) (, ,) ('' ') ('' ') (NP (NP (NNP W.I.) (NNP Carr) (PRN (-LRB- -LRB-) (NP (NNP Far) (NNP East)) (-RRB- -RRB-)) (NNP Ltd.)) (, ,) (NP (DT another) (NNS securities) (NN firm)) (, ,)) (VP (VBD said) (SBAR (IN that) (S (NP (VBG eroding) (NN confidence)) (VP (MD might) (VP (VB undermine) (NP (JJ future) (JJ economic) (NN development))))))) (. .)))
+
+(S1 (S (NP (NN Today)) (, ,) (PP (IN with) (S (NP (NP (NN business) (NN activity)) (PP (IN in) (NP (NNP Hong) (NNP Kong)))) (VP (VBG staggering) (PRT (RP along)) (PP (IN at) (NP (DT an) (JJ uneven) (NN pace)))))) (, ,) (NP (NP (DT the) (NN economy)) (NP (PRP itself))) (VP (VBZ seems) (ADJP (VBN locked) (PP (IN in) (NP (NP (DT a) (NN struggle)) (PP (IN between) (NP (NN hope) (CC and) (NN fear))))))) (. .)))
+
+(S1 (S (NP (NNS Manufacturers)) (VP (VBP have) (VP (VBD survived) (S (NP (NP (DT the) (NN turmoil)) (PP (IN in) (NP (NNP China)))) (ADJP (RB largely) (JJ unscathed))))) (. .)))
+
+(S1 (S (NP (NP (NNS Signs)) (PP (IN of) (NP (NN revival)))) (VP (VBP seem) (ADJP (JJ evident) (PP (IN in) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (JJ hard-hit) (NN hotel) (NN sector))))) (. .)))
+
+(S1 (S (CC But) (PP (IN in) (NP (DT the) (NN stock) (CC and) (NN real-estate) (NNS markets))) (, ,) (NP (NN activity)) (VP (VBZ remains) (ADJP (JJ spotty)) (SBAR (RB even) (IN though) (S (NP (NNS prices)) (VP (VBP have) (VP (VBN regained) (NP (NP (JJ much)) (PP (IN of) (NP (PRP$ their) (JJ lost) (NN ground))))))))) (. .)))
+
+(S1 (S (NP (NP (VBG Waning) (NN demand)) (VP (VBN reported) (PP (IN by) (NP (NP (NNS importers)) (, ,) (NP (NNS retailers)) (CC and) (RB even) (NP (JJ fancy) (NNS restaurants)))))) (DT all) (VP (VB reinforce) (NP (NP (DT a) (NN profile)) (PP (IN of) (NP (NP (DT a) (NN community)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (ADVP (RB sharply)) (VBG tightening) (NP (PRP$ its) (NN belt)))))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NP (JJ many) (NNS economists)) (CC and) (NP (NNS businessmen))) (VP (VBP see) (NP (PRP it))))) (, ,) (NP (DT those) (NNS incongruities)) (VP (VBP underscore) (NP (NP (DT a) (NN paradox)) (SBAR (WHNP (WDT that)) (S (VP (VBZ seems) (ADJP (JJ likely) (S (VP (TO to) (VP (VB bedevil) (NP (DT the) (NN economy)) (PP (IN throughout) (NP (DT the) (CD 1990s)))))))))))) (. .)))
+
+(S1 (S (NP (DT That) (NN paradox)) (VP (VBZ is) (NP (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (ADJP (ADJP (RB economically) (JJ rewarding)) (CC yet) (ADJP (RB politically) (JJ perilous))) (NN relationship)) (PP (IN with) (NP (NNP China))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (DT a) (NN model)) (PP (IN of) (NP (NP (JJ capitalist) (NN efficiency)) (PP (IN on) (NP (NP (JJ southern) (NNP China) (POS 's)) (NN doorstep))))))) (, ,) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (NNS prospects)) (VP (VBP look) (ADJP (JJ good))) (. .)))
+
+(S1 (S (NP (NP (NNP China) (POS 's)) (NN land) (CC and) (NN labor)) (VP (VBP offer) (NP (NP (JJ inexpensive) (NNS alternatives)) (PP (TO to) (NP (JJ local) (NN industry))))) (. .)))
+
+(S1 (S (NP (JJ China-bound) (NN freight)) (VP (VBZ streams) (PP (IN through) (NP (NP (DT the) (NN territory) (POS 's)) (NN port)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (NN decade) (SBAR (IN since) (S (NP (DT the) (JJ communist) (NN nation)) (VP (VBD emerged) (PP (IN from) (NP (NN isolation)))))))) (, ,) (NP (NP (PRP$ its) (VBG burgeoning) (NN trade)) (PP (IN with) (NP (DT the) (NNP West)))) (VP (VBZ has) (VP (VBN lifted) (NP (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (NN status)) (PP (IN as) (NP (DT a) (JJ regional) (NN business) (NN center)))))) (. .)))
+
+(S1 (S (NP (DT These) (NNS benefits)) (VP (VBP seem) (ADJP (JJ secure)) (PP (IN despite) (NP (NP (NNP China) (POS 's)) (JJ current) (ADJP (JJ economic) (CC and) (JJ political)) (NNS troubles)))) (. .)))
+
+(S1 (S (CC But) (PP (TO to) (NP (NNP Hong) (NNP Kong))) (, ,) (NP (NNP China)) (VP (VBZ is) (RB n't) (ADVP (RB purely)) (NP (NN business))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB also)) (NP (NP (DT the) (JJ sovereign) (NN power)) (SBAR (WHNP (WDT that)) (S (, ,) (PP (VBN come) (NP (CD 1997))) (, ,) (VP (MD will) (VP (VB take) (PRT (RP over)) (NP (DT this) (JJ British) (NN colony)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP China) (POS 's)) (NNS leaders)) (VP (VBP have) (VP (VBN promised) (NP (NP (JJ generous) (NNS liberties)) (PP (IN for) (NP (JJ post-1997) (NNP Hong) (NNP Kong)))))) (. .)))
+
+(S1 (S (NP (DT That) (NN promise)) (VP (VBZ sounds) (ADJP (JJ shaky)) (ADVP (RB now)) (SBAR (IN that) (S (NP (DT those) (JJ same) (NNS leaders)) (VP (VP (VBP have) (VP (VBN fallen) (ADVP (RB back)) (PP (IN on) (NP (JJ Marxist) (NN dogma))))) (CC and) (VP (VBP brute) (VP (VB force) (S (VP (TO to) (VP (VB crush) (NP (NP (PRP$ their) (NN nation) (POS 's)) (NN democracy) (NN movement))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Outflows)) (PP (IN of) (NP (NNS people) (CC and) (NN capital))) (PP (IN from) (NP (NNP Hong) (NNP Kong)))) (VP (VBP have) (VP (VBN been) (VP (VBG growing) (SBAR (IN since) (S (NP (DT the) (NN sovereignty) (NN issue)) (ADVP (RB first)) (VP (VBD arose) (PP (IN in) (NP (DT the) (JJ early) (CD 1980s))))))))) (. .)))
+
+(S1 (S (NP (DT A) (ADJP (RB widely) (VBN held)) (NN assumption)) (ADVP (RB all) (RB along)) (VP (VBZ has) (VP (VBN been) (SBAR (IN that) (, ,) (S (PP (VBN given) (NP (PRP$ its) (JJ robust) (NN economy))) (, ,) (NP (NNP Hong) (NNP Kong)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB attract) (NP (NP (JJ sufficient) (NX (NX (JJ foreign) (NN money)) (CC and) (NX (NN talent)))) (SBAR (S (VP (TO to) (VP (ADVP (RB comfortably)) (VB offset) (NP (DT the) (NNS outflows))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN With) (S (NP (NP (NN interest)) (PP (IN in) (NP (NN emigration) (CC and) (NN investment)))) (VP (ADVP (RB abroad)) (VBG soaring) (PP (IN since) (NP (NNP June) (CD 4)))))) (, ,) (NP (DT that) (NN assumption)) (ADVP (RB no) (RB longer)) (VP (VBZ seems) (ADJP (RB so) (JJ safe))) (. .)))
+
+(S1 (S (NP (NN Investment) (CC and) (NN emigration) (NNS plans)) (VP (VBP take) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB come) (PP (TO to) (NP (NN fruition))))))))) (. .)))
+
+(S1 (S (S (NP (RB Only) (CD four) (NNS months)) (VP (VBP have) (VP (VBN passed) (PP (IN since) (NP (DT the) (NNP Beijing) (NN massacre)))))) (, ,) (CC and) (S (NP (JJ few)) (VP (VBP are) (ADJP (JJ prepared) (S (VP (TO to) (VP (VB predict) (NP (PRP$ its) (JJ ultimate) (NN impact)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ only) (NN consensus)) (VP (VBZ is) (SBAR (IN that) (S (NP (JJR more) (NN money) (CC and) (NNS people)) (VP (MD may) (VP (VB leave) (NP (NNP Hong) (NNP Kong)) (SBAR (IN than) (S (VP (VBD had) (VP (VBN been) (VP (VBN thought) (S (ADJP (RB likely))))))))))))) (. .)))
+
+(S1 (S (NP (DT This) (VBN expected) (NN blow)) (VP (VBZ has) (VP (VBN cast) (NP (DT a) (NN pall)) (PP (IN over) (NP (NP (DT the) (NN economy) (POS 's)) (NNS prospects))))) (. .)))
+
+(S1 (S (NP (DT The) (NN question)) (PRN (, ,) (SBAR (IN as) (S (NP (JJ many) (NNS people)) (VP (VBP see) (NP (PRP it))))) (, ,)) (VP (VBZ is) (SBAR (WHADVP (WRB how) (RB long)) (S (NP (JJ such) (NN uncertainty)) (VP (MD will) (VP (VB last)))))) (. .)))
+
+(S1 (S (NP (NP (NNP Maureen) (NNP Fraser)) (, ,) (NP (NP (DT an) (NN economist)) (PP (IN with) (NP (NP (NNP W.I.) (NNP Carr)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NP (NNP France) (POS 's)) (NNP Banque) (NNP Indosuez))))))) (, ,)) (VP (VBZ believes) (SBAR (IN that) (S (NP (DT the) (NN territory)) (VP (MD may) (RB not) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB regain) (NP (PRP$ its) (NN momentum)) (PP (IN until) (NP (NP (DT some) (NN time)) (PP (IN after) (NP (CD 1997)))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (MD may) (VP (VB experience) (NP (DT an) (NN upswing) (QP (CC or) (CD two))) (PP (IN in) (PP (IN between))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN with) (S (NP (JJ local) (NNS investors)) (VP (VBN shaken) (PP (IN by) (NP (NP (NNP China) (POS 's)) (ADJP (JJ political) (CC and) (JJ economic)) (NN turmoil)))))) (PRN (, ,) (S (NP (PRP she)) (VP (VBZ says))) (, ,)) (NP (DT a) (JJ genuine) (NN recovery)) (VP (MD may) (RB not) (VP (VB arrive) (SBAR (IN until) (S (NP (NNP Hong) (NNP Kong)) (VP (MD can) (VP (VB prove) (S (NP (PRP itself)) (VP (VB secure) (PP (IN under) (NP (JJ Chinese) (NN sovereignty))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (NNS Investors)) (VP (VBP have) (S (VP (TO to) (VP (VB accept) (NP (NP (DT the) (NN possibility)) (PP (IN of) (NP (NP (DT a) (JJ significant) (NN slowdown)) (PP (IN in) (NP (JJ economic) (NN activity)))))) (PP (IN in) (NP (NP (DT the) (NN runup)) (PP (TO to) (NP (CD 1997))))))))) (, ,) ('' ')) ('' ') (NP (PRP she)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN Over) (NP (DT the) (JJ next) (JJ few) (NNS years))) (, ,) (NP (PRP I)) (VP (MD would) (VP (VB advise) (NP (NN caution)))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN In) (NP (NP (DT a) (JJ soon-to-be) (JJ published) (NN book)) (PP (IN on) (NP (DT the) (NN territory))))) (, ,) (NP (NP (DT a) (JJ political) (NN economist)) (, ,) (NP (NNP Miron) (NNP Mushkat)) (, ,)) (VP (VBZ has) (VP (VBN derived) (NP (CD three) (JJ future) (NNS scenarios)) (PP (IN from) (NP (NP (NNS interviews)) (PP (IN with) (NP (NP (CD 41) (NNP Hong) (NNP Kong) (NN government) (NNS officials)) (CC and) (NP (NNS businessmen)))))))) (. .)))
+
+(S1 (S (NP (NP (QP (RB Nearly) (NN half))) (PP (IN of) (NP (PRP them)))) (VP (VBP argue) (SBAR (IN that) (S (NP (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (JJ uneasy) (NN relationship)) (PP (IN with) (NP (NNP China)))) (VP (MD will) (VP (VB constrain) (PRN (: --) (SBAR (IN though) (S (RB not) (VP (VB inhibit)))) (: --)) (NP (JJ long-term) (JJ economic) (NN growth))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN rest)) (VP (VBP are) (VP (VBN split) (ADVP (RB roughly)) (PP (IN between) (NP (NP (NNS optimists)) (SBAR (WHNP (WP who)) (S (VP (VBP expect) (S (NP (NNP Hong) (NNP Kong)) (VP (TO to) (VP (NN hum) (PP (IN along) (NP (NP (RB as) (RB before)) (CC and) (NP (NP (NNS pessimists)) (SBAR (WHNP (WP who)) (S (VP (VBP foresee) (NP (JJ irreparable) (NN chaos)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS interviews)) (VP (VBD took) (NP (NN place)) (ADVP (NP (CD two) (NNS years)) (RB ago))) (. .)))
+
+(S1 (S (SBAR (IN Since) (S (NP (DT the) (NNP China) (NN crisis)) (VP (VBD erupted)))) (PRN (, ,) (S (NP (NNP Mr.) (NNP Mushkat)) (VP (VBZ says))) (, ,)) (NP (DT the) (NN scenario) (SBAR (IN as) (S (VP (VBN depicted) (PP (IN by) (NP (DT the) (JJ middle-of-the-road) (NN group))))))) (VP (VBZ bears) (NP (NP (DT a) (JJ remarkable) (NN resemblance)) (PP (TO to) (NP (NP (DT the) (NNS difficulties)) (SBAR (S (NP (NNP Hong) (NNP Kong)) (ADVP (RB currently)) (VP (VBZ faces)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN consensus)) (PP (IN of) (NP (NP (DT this) (NN group)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VBZ dubs) (`` `) (NP (`` `) (NP (NNS realists)) (, ,) ('' ')) ('' '))))))) (VP (VBZ is) (SBAR (IN that) (S (NP (DT the) (JJ local) (NN economy)) (VP (MD will) (VP (VB grow) (PP (IN through) (NP (DT the) (CD 1990s))) (PP (IN at) (NP (NP (JJ annual) (NNS rates)) (VP (VBG averaging) (NP (QP (IN between) (CD 3) (NN %) (CC and) (CD 5) (NN %))))))))))) (. .)))
+
+(S1 (S (NP (NP (PDT Such) (DT a) (NN pace)) (PP (IN of) (NP (NN growth)))) (PRN (, ,) (SBAR (IN though) (S (ADJP (JJ respectable) (PP (IN for) (NP (JJ mature) (JJ industrialized) (NNS economies)))))) (, ,)) (VP (MD would) (VP (VB be) (ADJP (RB unusually) (JJ slow)) (PP (IN for) (NP (NNP Hong) (NNP Kong))))) (. .)))
+
+(S1 (SINV (ADVP (RB Only) (RB twice)) (PP (IN since) (NP (DT the) (CD 1960s))) (VBZ has) (NP (JJ annual) (JJ gross) (JJ domestic) (NN product) (NN growth)) (VP (ADVP (RB here)) (VBN fallen) (PP (IN below) (NP (NP (CD 5) (NN %)) (PP (IN for) (NP (QP (CD two) (CC or) (JJR more)) (JJ consecutive) (NNS years)))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ first) (NN instance)) (VP (VBD occurred) (PP (IN in) (NP (NP (CD 1967-68)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNP China) (POS 's)) (JJ Cultural) (NN Revolution)) (VP (VBD triggered) (NP (NP (JJ bloody) (NN street) (NN rioting)) (PP (IN in) (NP (DT the) (NN colony)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ other)) (VP (VBD came) (PP (IN in) (NP (CD 1974-75))) (PP (IN from) (NP (NP (DT the) (JJ combined) (NN shock)) (PP (IN of) (NP (NP (NN world) (NN recession)) (CC and) (NP (DT a) (JJ severe) (JJ local) (NN stock) (NN market) (NN crash))))))) (. .)))
+
+(S1 (S (PP (IN During) (NP (DT the) (JJ past) (CD 10) (NNS years))) (, ,) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (JJ economic) (NN growth)) (VP (VBZ has) (VP (VBN averaged) (ADVP (NP (CD 8.3) (NN %)) (RB annually)))) (. .)))
+
+(S1 (S (S (VP (VBN Given) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (NN record)))) (, ,) (NP (NP (NNP Mr.) (NNP Mushkat) (POS 's)) (`` `) (NX (`` `) (NNS realists) ('' ')) ('' ')) (VP (MD might) (VP (VB have) (VP (VBD sounded) (ADVP (RB unduly) (JJ conservative)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS interviews)) (VP (VBD took) (NP (NN place)) (ADVP (NP (CD two) (NNS years)) (RB ago)))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT the) (JJ current) (NNS circumstances))) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ says))) (, ,)) (NP (PRP$ their) (NN scenario)) (ADVP (RB no) (RB longer)) (VP (VBZ seems) (ADJP (JJ unrealistic))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (DT The) (NN city)) (VP (MD could) (VP (VB lose) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ its) (JJ entrepreneurial) (NN flavor))))))) (. .)))
+
+(S1 (SINV (S (NP (PRP It)) (VP (MD could) (VP (VB lose) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ its) (NN dynamism))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Mr.) (NNP Mushkat)) (, ,) (NP (NP (DT a) (NN director)) (PP (IN of) (NP (NP (NNP Baring) (NNP Securities) (PRN (-LRB- -LRB-) (NP (NNP Hong) (NNP Kong)) (-RRB- -RRB-)) (NNP Ltd.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Britain) (POS 's)) (NNP Barings) (NNP PLC)))))))) (. .) (`` `) (`` `)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ does) (RB n't) (VP (VB have) (S (VP (TO to) (VP (VB be) (NP (DT a) (NN disaster))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB just)) (VP (VBZ means) (SBAR (IN that) (S (NP (NNP Hong) (NNP Kong)) (VP (MD would) (VP (VB become) (NP (DT a) (ADJP (RBR less) (JJ exciting)) (NN place))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (VP (VBG Going) (PP (IN by) (NP (NP (NP (JJ official) (NNS forecasts)) (PP (IN of) (NP (NP (NNP GDP)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ measures) (NP (NP (NP (DT the) (NN colony) (POS 's)) (NN output)) (PP (IN of) (NP (NNS goods) (CC and) (NNS services))))))) (, ,)))) (CC minus) (NP (JJ foreign) (NN income)))))) (, ,) (NP (NP (NNP Mr.) (NNP Mushkat) (POS 's)) (`` `) (NX (`` `) (NNS realists) ('' ')) ('' ')) (VP (VBP seem) (ADJP (RB relatively) (RB close) (PP (TO to) (NP (DT the) (NN mark))))) (. .)))
+
+(S1 (S (PP (IN After) (S (VP (VBG taking) (PP (IN into) (NP (NN account))) (NP (NP (DT the) (NN fallout)) (PP (IN from) (NP (DT the) (NNP China) (NN crisis))))))) (, ,) (NP (DT the) (NN government)) (VP (VBZ has) (VP (VBN projected) (NP (NP (CD 1989) (NNP GDP) (NN growth)) (PP (IN of) (NP (CD 5) (NN %)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (VBN updated) (NN forecast)) (, ,) (VP (VBN published) (NP (NNP Aug.) (CD 25))) (, ,)) (VP (VBZ compares) (PP (IN with) (NP (NP (DT an) (JJR earlier) (NN forecast)) (PP (IN of) (NP (NP (NP (CD 6) (NN %)) (VP (VBN published) (NP (NNP March) (CD 1)))) (CC and) (NP (NP (DT a) (ADJP (CD 7.4) (NN %)) (NN rate)) (VP (VBN achieved) (PP (IN in)))))))))))
+
+(S1 (S (NP (NNP Sir) (NNS Piers)) (PRN (S (NP (NP (NNP Jacobs)) (, ,) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (JJ financial) (NN secretary)) (, ,)) (VP (VBZ says) (NP (DT a) (JJ further) (JJ downward) (NN revision))))) (VP (MD may) (VP (VB be) (VP (VBN justified) (SBAR (IN unless) (S (NP (DT the) (NN economy)) (VP (NNS stages) (NP (DT a) (ADJP (RBR more) (JJ convincing)) (NN rally)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP are) (RB n't) (VP (VBG looking) (PP (IN at) (NP (NP (NN anything)) (PP (IN like) (NP (DT a) (JJ doomsday) (NN scenario))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (CC But) (ADVP (RB clearly)) (NP (PRP we)) (VP (VBP 're) (VP (VBG entering) (NP (DT a) (JJ difficult) (NN period)))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (JJ Many) (NNS factors)) (PP (IN besides) (NP (NP (DT a) (NN dread)) (PP (IN of) (NP (CD 1997)))))) (VP (MD will) (VP (VB have) (NP (NP (DT a) (NN bearing)) (PP (IN on) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (NN economy)))))) (. .)))
+
+(S1 (S (NP (NN One)) (VP (VBZ concerns) (NP (JJ Japanese) (NNS investors))) (. .)))
+
+(S1 (S (ADVP (ADVP (RB Barely) (JJ visible) (PP (IN on) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (NN property) (NN scene)))) (PP (IN in) (NP (CD 1985)))) (, ,) (PP (IN by) (NP (JJ last) (NN year))) (NP (NNP Japan)) (VP (VBD had) (VP (VBN become) (NP (DT the) (JJ top) (JJ foreign) (NN investor)) (, ,) (S (VP (VBG spending) (NP (QP ($ $) (CD 602) (CD million))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN market)) (VP (VBZ has) (VP (VBN grown) (ADJP (RB relatively) (JJ quiet)) (PP (IN since) (NP (DT the) (NNP China) (NN crisis))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN if) (S (NP (DT the) (NNPS Japanese)) (VP (VBP return) (PP (IN in) (NP (NN force)))))) (, ,) (NP (PRP$ their) (JJ financial) (NN might)) (VP (MD could) (VP (VB compensate) (PP (TO to) (NP (NP (DT some) (NN extent)) (PP (IN for) (NP (NP (JJ local) (NNS investors) (POS ')) (VBG waning) (NN commitment))))))) (. .)))
+
+(S1 (S (NP (DT Another) (PRN (: --) (CC and) (JJ critical) (: --)) (NN factor)) (VP (VBZ is) (NP (NP (DT the) (NNP U.S.)) (, ,) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (JJS biggest) (NN export) (NN market)))) (. .)))
+
+(S1 (S (PP (ADVP (RB Even)) (IN before) (NP (DT the) (NNP China) (NN crisis))) (, ,) (NP (JJ weak) (NNP U.S.) (NN demand)) (VP (VBD was) (VP (VBG slowing) (NP (JJ local) (JJ economic) (NN growth)))) (. .)))
+
+(S1 (S (ADVP (RB Conversely)) (, ,) (NP (NP (JJ strong) (NN consumer) (NN spending)) (PP (IN in) (NP (DT the) (NNP U.S.)))) (ADVP (NP (CD two) (NNS years)) (RB ago)) (VP (VBD helped) (S (VP (VB propel) (NP (DT the) (JJ local) (NN economy)) (PP (IN at) (NP (QP (RBR more) (IN than) (JJ twice)) (PRP$ its) (JJ current) (NN rate)))))) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (DT a) (JJ few) (NNS economists)) (VP (VBP maintain) (SBAR (IN that) (S (NP (JJ global) (NNS forces)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB govern) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (JJ economic) (NN rhythm)))))))))) (. .)))
+
+(S1 (S (SBAR (RB Once) (S (NP (NP (JJ external) (NNS conditions)) (, ,) (PP (JJ such) (IN as) (NP (NNP U.S.) (NN demand))) (, ,)) (VP (VBP swing) (PP (IN in) (NP (NP (DT the) (NN territory) (POS 's)) (NN favor)))))) (PRN (, ,) (S (NP (PRP they)) (VP (VBP argue))) (, ,)) (NP (JJ local) (NNS businessmen)) (VP (MD will) (ADVP (RB probably)) (VP (VP (VB overcome) (NP (PRP$ their) (CD 1997) (NNS worries))) (CC and) (VP (VB continue) (S (VP (VBG doing) (NP (NN business)))) (PP (IN as) (ADJP (JJ usual)))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (JJ economic) (NNS arguments)) (, ,) (ADJP (RB however) (JJ solid)) (, ,)) (VP (MD wo) (RB n't) (ADVP (RB necessarily)) (VP (VB impress) (SBAR (S (NP (NNP Hong) (NNP Kong)) (VP (VBZ 's) (NP (QP (CD 5.7) (CD million)) (NNS people))))))) (. .)))
+
+(S1 (S (NP (JJ Many)) (VP (VBP are) (NP (NNS refugees)) (, ,) (S (VP (VBG having) (VP (VBN fled) (NP (NP (NP (NNP China) (POS 's)) (JJ unending) (NNS cycles)) (PP (IN of) (NP (JJ political) (NN repression) (CC and) (NN poverty)))) (SBAR (IN since) (S (NP (DT the) (NNP Communist) (NNP Party)) (VP (VBD took) (NP (NN power)) (PP (IN in) (NP (CD 1949)))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (DT a) (NN result))) (, ,) (NP (NP (JJ many)) (PP (IN of) (NP (NP (DT those)) (VP (ADVP (RB now)) (VBG planning) (S (VP (TO to) (VP (VB leave) (NP (NNP Hong) (NNP Kong))))))))) (VP (MD ca) (RB n't) (ADVP (RB easily)) (VP (VB be) (VP (VBN swayed) (PP (IN by) (NP (NP (JJ momentary) (NNS improvements)) (PP (IN in) (NP (NP (DT the) (NN colony) (POS 's)) (ADJP (JJ political) (CC and) (JJ economic)) (NN climate)))))))) (. .)))
+
+(S1 (S (NP (NN Emigration) (NNS applications)) (VP (VBD soared) (PP (IN in) (NP (NP (CD 1985)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Britain) (CC and) (NNP China)) (VP (VBD ratified) (NP (PRP$ their) (NN accord))))))) (PP (IN on) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (NN future)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (CD 1987))) (, ,) (NP (NP (NNP Hong) (NNP Kong) (POS 's)) (ADJP (RBS most) (JJ prosperous)) (NN year) (PP (IN for) (NP (NP (DT a) (NN decade)) (, ,) (NP (CD 30,000))))) (VP (VBD left) (, ,) (ADVP (RB up) (NP (CD 58) (NN %)) (PP (IN from) (NP (DT the) (JJ previous) (NN year))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (CD 45,000)) (VP (VBD went)) (. .)))
+
+(S1 (S (NP (DT The) (NN government)) (VP (VBZ predicts) (SBAR (IN that) (S (NP (JJ annual) (NNS outflows)) (VP (MD will) (VP (VB level) (PRT (RP off)) (PP (IN over) (NP (DT the) (JJ next) (JJ few) (NNS years))) (PP (IN at) (NP (NP (QP (RB as) (JJ much) (IN as) (CD 60,000))) (: --) (NP (NP (DT a) (NN projection)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADVP (RB widely)) (VP (VBN regarded) (PP (IN as) (ADJP (RB unrealistically) (JJ low))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ large) (NN number)) (PP (IN of) (NP (DT those) (VBG leaving)))) (VP (VBP are) (NP (NNS managers) (CC and) (NNS professionals))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (DT no) (NN one)) (VP (VBZ professes) (S (VP (TO to) (VP (VB know) (NP (NP (DT the) (JJ exact) (NN cost)) (PP (IN of) (NP (PDT such) (DT a) (`` `) (NP (`` `) (NN brain) (NN drain) ('' ')) ('' ') (PP (TO to) (NP (DT the) (NN economy)))))))))))) (, ,) (ADVP (RB hardly)) (NP (NN anyone)) (VP (VBZ doubts) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ poses) (NP (DT a) (NN threat)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN economy)) (VP (VBZ loses) (NP (NP (DT a) (JJ big) (NN portion)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))) (SBAR (WHNP (WDT that)) (S (ADVP (RB also)) (VP (VBZ happens) (S (VP (TO to) (VP (VB include) (NP (PRP$ its) (ADJP (RBS most) (JJ productive)) (NNS members)))))))))))) (, ,) (NP (JJ economic) (NN growth)) (VP (VBZ is) (ADJP (VBN bound) (S (VP (TO to) (VP (VB be) (VP (VBN affected))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Anthong) (NNP Wong)) (, ,) (NP (NP (DT an) (NN economist)) (PP (IN with) (NP (NNP Hang) (NNP Seng) (NNP Bank))))) (. .)))
+

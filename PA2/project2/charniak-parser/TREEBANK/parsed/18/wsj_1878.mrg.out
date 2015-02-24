@@ -1,0 +1,40 @@
+(S1 (S (SBAR (IN As) (S (NP (NP (NP (DT the) (NNS citizens)) (PP (IN of) (NP (NNP San) (NNP Francisco)))) (CC and) (NP (VBG surrounding) (NNS communities))) (VP (VBD began) (S (VP (VBG assessing) (NP (NP (DT the) (NN damage)) (PP (IN from) (NP (NP (NNP Tuesday) (POS 's)) (VBG devastating) (NN earthquake))))))))) (, ,) (NP (NNP NBC) (NNP News)) (VP (VBD began) (S (VP (VBG assessing) (NP (NP (DT the) (NN damage)) (PP (IN from) (SBAR (WHNP (WP what)) (S (NP (DT some)) (VP (VBD said) (SBAR (S (VP (VBD was) (NP (DT a) (NN failure) (S (VP (TO to) (VP (VB provide) (NP (JJ comprehensive) (NN coverage)) (PP (IN in) (NP (NP (DT the) (NN earthquake) (POS 's)) (JJ initial) (NNS moments)))))))))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (PP (IN In) (NP (NP (NNS terms)) (PP (IN of) (NP (NN coverage))))) (, ,) (NP (PRP it)) (VP (VBD was) (NP (NP (DT a) (NN disaster)) (ADJP (JJ equal) (PP (TO to) (NP (DT the) (NNS earthquakes))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Eric) (NNP Premner)) (, ,) (NP (NP (NN president)) (PP (IN for) (NP (NN broadcasting))) (PP (IN of) (NP (NP (NNP King) (NNP Broadcasting) (NNP Co.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NP (DT the) (NNP NBC) (NN affiliate)) (PP (IN in) (NP (NP (NNP Seattle)) (, ,) (NP (NNP Wash)))))))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (JJ rival) (NNP ABC) (NNP News)) (VP (VBD outstripped) (NP (NP (DT the) (NN competition)) (PP (IN in) (NP (NP (JJ live) (NN coverage)) (PP (IN of) (NP (NP (DT the) (NN event)) (PP (IN by) (NP (JJ sheer) (NN luck))))))))))) (PRN (: --) (S (NP (DT the) (NN network)) (VP (VBD was) (VP (VBG broadcasting) (NP (DT the) (NNP World) (NNP Series)) (PP (IN from) (NP (NNP Candlestick) (NNP Park))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN quake)) (VP (VBD struck))))))) (: --)) (NP (NNP NBC) (NNP News)) (VP (VBD was) (ADJP (JJ unable) (S (VP (TO to) (VP (VB get) (NP (PRP$ its) (NN signal)) (PP (IN out) (PP (IN of) (NP (NNP San) (NNP Francisco)))) (PP (IN for) (NP (NP (DT the) (JJ first) (NN hour)) (PP (IN after) (NP (DT the) (NN quake)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (NN attribute) (NP (DT the) (JJ lackluster) (NN performance)) (PP (TO to) (NP (DT a) (JJ natural) (NN disaster))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NNP Mr.) (NNP Premner)) (. .)))
+
+(S1 (S (`` `) (SBAR (`` `) (RB So) (IN before) (S (NP (PRP I)) (VP (VBP start) (S (VP (TO to) (VP (VB be) (ADJP (RB really) (JJ critical) (PP (IN of) (NP (NNP NBC)))))))))) (, ,) (NP (PRP I)) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB know) (NP (JJR more)) (PP (IN about) (SBAR (WHNP (WP what)) (S (VP (VBD happened)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (EX There)) (VP (VBD were) (NP (NP (DT no) (NNS complaints)) (PP (IN from) (NP (NP (NNS affiliates)) (PP (IN of) (NP (NP (NNP CBS) (NNP Inc.)) (CC and) (NP (NP (NNP Cable) (NNP News) (NNP Network)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Turner) (NNP Broadcasting) (NNP System) (NNP Inc))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT that)) (VP (VBD was) (RB not) (NP (DT the) (NN case)) (PP (IN at) (NP (NP (NNP NBC) (NNP News)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN dogged) (PP (IN with) (NP (NP (DT the) (NN image)) (PP (IN of) (S (RB not) (VP (VBG being) (ADJP (JJ aggressive)) (PP (IN on) (NP (JJ major) (NN breaking) (NNS stories)))))))))))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN summer)) (, ,) (NP (DT the) (NNS affiliates)) (ADVP (RB bitterly)) (VP (VBD complained) (PP (TO to) (NP (NN network) (NNS executives))) (PP (IN about) (NP (NP (DT the) (JJ poor) (NN coverage)) (PP (IN of) (NP (NP (DT the) (NN student) (NN uprising)) (PP (IN in) (NP (NNP China)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP I)) (VP (VBD was) (RB not) (ADJP (JJ pleased) (PP (IN with) (NP (DT the) (JJ slow) (NN start)))))) (, ,) (CC and) (S (NP (DT neither)) (VP (VBD was) (NP (NNP NBC) (NNP News)))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Guy) (NNP Hempel)) (, ,) (NP (NP (JJ general) (NN manager)) (PP (IN of) (NP (NP (NNP NBC) (NN affiliate) (NN WAVE)) (PP (IN in) (NP (NP (NNP Louisville)) (, ,) (NP (NNP Ky)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN spokesman)) (PP (IN for) (NP (NP (NNP National) (NNP Broadcasting) (NNP Co.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNP Electric) (NNP Co.)))) (, ,)))) (VP (VBD said) (SBAR (S (NP (DT the) (NN network)) (VP (VBD was) (`` `) (VP (`` `) (VBG looking) (PP (IN into) (SBAR (WHNP (WP what)) (S (VP (VBD happened)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NNS stations)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ pleased) (PP (IN with) (NP (DT the) (JJ extended) (NN coverage)))) (NP (NN yesterday)) (, ,) (PP (VBG including) (NP (NP (DT a) (JJ special) (JJ five-hour) (NN edition)) (PP (IN of) (`` `) (NP (`` `) (NP (NNP Today)) (. .) ('' ')) ('' '))))))))))
+
+(S1 (S (NP (NP (NNP Don) (NNP Browne)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (NN news))) (PP (IN at) (NP (NNP NBC) (NNP News)))) (, ,)) (VP (VBD said) (PP (IN in) (NP (DT an) (NN interview))) (SBAR (IN that) (`` `) (S (`` `) (NP (PRP we)) (VP (MD could) (RB n't) (VP (VB get) (NP (DT a) (NN signal)) (PP (IN out) (PP (IN of) (NP (NNP San) (NNP Francisco))))))))) (. .)))
+
+(S1 (S (NP (PRP We)) (VP (VBD were) (PP (IN out) (PP (IN of) (NP (DT the) (NN box))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ horrible))) (. .)))
+
+(S1 (S (S (NP (NP (DT The) (NN comment)) (SBAR (S (NP (PRP we)) (VP (VBP 're) (VP (VBG hearing)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD were) (ADJP (JJ slow)) (PP (IN out) (PP (IN of) (NP (DT the) (NN box))))))))) (, ,) (CC but) (S (VP (VB beat) (NP (NP (NN everyone) (RB else)) (PP (IN in) (NP (DT the) (NN stretch)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP NBC)) (VP (VP (VBD broadcast) (PP (IN throughout) (NP (DT the) (JJ entire) (NN night)))) (CC and) (VP (VBD did) (RB not) (VP (VB go) (PP (RP off) (NP (DT the) (NN air))) (PP (IN until) (NP (NN noon) (NN yesterday)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN quake)) (VP (VBD postponed) (NP (NP (DT the) (ADJP (JJ third) (CC and) (JJ fourth)) (NNS games)) (PP (IN of) (NP (DT the) (NNP World) (NNP Series))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NP (NN place)) (PP (IN of) (NP (DT the) (NNS games))))) (, ,) (NP (NNP ABC)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD planned) (S (VP (TO to) (VP (VB broadcast) (NP (NP (NP (JJ next) (NN week) (POS 's)) (NNS episodes)) (PP (IN of) (NP (PRP$ its) (NN prime-time) (NNP Wednesday) (CC and) (NNP Thursday)))) (NP (NNS lineups)) (, ,) (PP (IN except) (PP (IN for) (NP (NP (DT a) (JJ one-hour) (NN special)) (PP (IN on) (NP (NP (DT the) (NN earthquake)) (PP (IN at) (NP (CD 10) (NN p.m.))) (NP (JJ last) (NN night)))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN series)) (VP (VBZ is) (VP (VBN scheduled) (S (VP (TO to) (VP (VB resume) (NP (NNP Tuesday) (NN evening)) (PP (IN in) (NP (NNP San) (NNP Francisco)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (EX There)) (VP (VBP are) (NP (DT no) (NNS commercials) (S (VP (TO to) (VP (VB make) (PRT (RP up)) (PP (IN for)) (SBAR (IN since) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (ADVP (RB eventually)) (VP (VB broadcast) (NP (DT the) (NNP World) (NNP Series)))))))))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (DT a) (NN network) (NN spokesman)) (. .)))
+

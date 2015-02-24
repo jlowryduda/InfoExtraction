@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NP (DT This) (JJ British) (UCP (NN banking) (CC and) (NNS financial-services)) (NN group) (POS 's)) (NN investment-banking) (NN arm)) (, ,) (NP (NP (NNP Barclays) (IN de) (NNP Zoete) (NNP Wedd)) (NP (NNP Group))) (, ,)) (VP (VBD announced) (NP (DT the) (JJ following) (NNS appointments)) (PP (IN at) (NP (PRP$ its) (JJ merchant-banking) (NN subsidiary) (NNP Barclays) (IN de) (NNP Zoete) (NNP Wedd))) (NP (NNP Ltd))) (. .)))
+
+(S1 (S (NP (NP (NNP John) (NNP Padovan)) (, ,) (ADJP (NP (CD 51) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (DT a) (JJ deputy) (NN chairman))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Padovan)) (VP (VBZ is) (ADVP (RB currently)) (NP (NP (DT a) (NN director)) (PP (IN at) (NP (NNP Barclays) (FW de) (NNP Zoete) (NNP Wedd) (NNP Ltd))))) (. .)))
+
+(S1 (S (NP (NP (NNP Graham) (NNP Pimlott)) (, ,) (NP (CD 40)) (, ,)) (VP (VBD was) (VP (VBN named) (PP (TO to) (NP (NP (DT the) (JJ new) (NN post)) (PP (IN of) (NP (NP (JJ chief) (NN executive) (NN officer)) (PP (IN of) (NP (DT the) (JJ merchant-banking) (JJ corporate-finance) (NN division))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Callum) (NNP McCarthy)) (, ,) (NP (CD 45)) (, ,)) (VP (VBD was) (VP (VBN named) (PP (TO to) (NP (NP (DT the) (JJ new) (NN post)) (PP (IN of) (NP (NP (NN deputy) (NN head)) (PP (IN of) (NP (NP (DT the) (JJ corporate-finance) (NN division)) (CC and) (NP (DT a) (VBG managing) (NN director)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Pimlott)) (CC and) (NP (NNP Mr.) (NNP McCarthy))) (VP (VBP join) (NP (NP (NNP Barclay) (POS 's)) (PP (IN from) (NP (NP (NNP Kleinwort) (NNP Benson) (NNP Ltd.)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD served) (PP (IN as) (NP (NNS directors)))))))))) (. .)))
+

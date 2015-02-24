@@ -1,0 +1,116 @@
+(S1 (S (NP (NNP Kidder) (, ,) (NNP Peabody) (CC &) (NNP Co.)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB struggle) (ADVP (RB back))))))) (. .)))
+
+(S1 (S (ADVP (NP (RB Only) (DT a) (JJ few) (NNS months)) (RB ago)) (, ,) (NP (DT the) (JJ 124-year-old) (NNS securities) (NN firm)) (VP (VBD seemed) (S (VP (TO to) (VP (VB be) (PP (IN on) (NP (NP (DT the) (NN verge)) (PP (IN of) (NP (NP (DT a) (NN meltdown)) (, ,) (VP (VBN racked) (PP (IN by) (NP (NP (JJ internal) (NNS squabbles)) (CC and) (NP (NNS defections))))))))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ Its) (NN relationship)) (PP (IN with) (NP (NN parent) (NNP General) (NNP Electric) (NNP Co.)))) (VP (VBD had) (VP (VBN been) (VP (VBN frayed) (PP (IN since) (NP (NP (DT a) (JJ big) (NNP Kidder) (NN insider-trading) (NN scandal)) (ADVP (NP (CD two) (NNS years)) (RB ago))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Chief) (NNS executives)) (CC and) (NP (NNS presidents))) (VP (VBD had) (VP (VBN come) (CC and) (VBN gone))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (NP (DT the) (NN firm)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN at) (NP (DT a) (VBG turning) (NN point))))))) (. .)))
+
+(S1 (S (PP (IN By) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT this) (NN year))))) (, ,) (NP (NP (JJ 63-year-old) (NNP Chairman) (NNP Silas) (NNP Cathcart)) (: --) (NP (NP (DT the) (JJ former) (NN chairman)) (PP (IN of) (NP (NP (NNP Illinois) (NNP Tool) (NNP Works)) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBD derided) (PP (IN as) (NP (DT a) (`` `) (NP (`` `) (NP (JJ tool-and-die) (NN man) (POS ')) ('' ') (SBAR (WHADVP (WRB when)) (S (NP (NNP GE)) (VP (VBD brought) (NP (PRP him)) (PP (IN in) (S (VP (TO to) (VP (VB clean) (PRT (RP up)) (NP (NNP Kidder)) (PP (IN in) (NP (CD 1987)))))))))))))))))))) (: --)) (VP (VP (VBZ retires) (PP (TO to) (NP (PRP$ his) (NAC (NNP Lake) (NNP Forest) (, ,) (NNP Ill.) (, ,)) (NN home)))) (, ,) (RB possibly) (VP (TO to) (VP (VB build) (NP (DT a) (NN shopping) (NN mall)) (PP (IN on) (NP (NP (DT some) (NN land)) (SBAR (S (NP (PRP he)) (VP (VBZ owns))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 've) (VP (VBN done) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBD came) (S (VP (TO to) (VP (VB do))))))))) ('' ') ('' ') (PP (IN at) (NP (NNP Kidder)))) (, ,) (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (CC And) (NP (DT that)) (VP (VBZ means) (SBAR (S (NP (NP (JJ 42-year-old) (NNP Michael) (NNP Carpenter)) (, ,) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN since) (NP (NNP January)))) (, ,)) (VP (MD will) (VP (VP (PP (IN for) (NP (DT the) (JJ first) (NN time))) (VB take) (NP (NP (JJ complete) (NN control)) (PP (IN of) (NP (NNP Kidder))))) (CC and) (VP (VB try) (S (VP (TO to) (VP (VB make) (ADJP (JJ good) (PP (IN on) (NP (DT some) (JJ grandiose) (NNS plans))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Carpenter)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (MD will) (VP (VB return) (NP (NNP Kidder)) (PP (TO to) (NP (NP (NN prominence)) (PP (IN as) (NP (DT a) (JJ great) (NN investment) (NN bank)))))))))) (. .)))
+
+(S1 (S (NP (NNP Wall) (NNP Street)) (VP (VBZ is) (ADJP (RB understandably) (JJ skeptical))) (. .)))
+
+(S1 (S (PP (IN Through) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year))))) (, ,) (NP (NNP Kidder)) (VP (VBZ ranks) (NP (DT a) (JJ distant) (JJ 10th)) (PP (IN among) (NP (NP (NNS underwriters)) (PP (IN of) (NP (NNP U.S.) (NNS stocks) (CC and) (NNS bonds))))) (, ,) (PP (IN with) (NP (NP (DT a) (ADJP (CD 2.8) (NN %)) (NN market) (NN share)) (, ,) (ADVP (RB up) (RB slightly) (PP (IN from) (NP (CD 2.5) (NN %)) (PP (IN in) (NP (DT the) (JJ year-earlier) (NN period))))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Securities) (NNP Data) (NNP Co))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB quite)) (NP (NP (DT a) (NN fall)) (PP (IN from) (NP (DT the) (JJ early) (NNS 1980s)))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Kidder)) (ADVP (RB still)) (VP (VBD was) (VP (VBN counted) (PP (IN as) (NP (DT an) (JJ investment-banking) (NN powerhouse)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Gary) (NNP S.) (NNP Goldstein)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (DT the) (NNP Whitney) (NNP Group)) (, ,) (NP (DT an) (NN executive) (NN search) (NN firm))))) (, ,)) (VP (VBD said) (: :) (`` `) (S (`` `) (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB see) (S (-LRB- -LRB-) (NP (NNP Kidder)) (-RRB- -RRB-) (VP (VB succeed)))))))))) (. .)))
+
+(S1 (S (CC But) (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB attract) (NP (NP (JJ good) (JJ senior) (NNS bankers)) (SBAR (WHNP (WP who)) (S (VP (MD can) (VP (VB bring) (PRT (RP in)) (NP (DT the) (NN business)) (PP (IN from) (NP (NN day) (CD one)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (CD 1988))) (, ,) (NP (NNP Kidder)) (VP (VBD eked) (PRT (RP out)) (NP (DT a) (ADJP (QP ($ $) (CD 46) (CD million))) (NN profit)) (, ,) (PP (ADVP (RB mainly)) (IN because) (IN of) (NP (JJ severe) (NN cost) (NN cutting)))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NN 1,400-member) (NN brokerage) (NN operation)) (VP (VBD reported) (NP (DT an) (VBN estimated) (ADJP (QP ($ $) (CD 5) (CD million))) (NN loss)) (NP (JJ last) (NN year)) (, ,) (SBAR (IN although) (S (NP (NNP Kidder)) (VP (VBZ expects) (S (NP (PRP it)) (VP (TO to) (VP (VB turn) (NP (DT a) (NN profit)) (NP (DT this) (NN year))))))))) (. .)))
+
+(S1 (S (S (PP (IN In) (NP (NN fact))) (, ,) (NP (NNP Kidder)) (VP (VBZ is) (NP (NP (DT a) (JJ minor) (NN player)) (PP (IN in) (NP (RB just) (IN about) (DT every) (NN business))) (SBAR (S (NP (PRP it)) (VP (VBZ does) (PP (IN except) (NP (JJ computer-driven) (NN program) (NN trading))))))))) (: ;) (S (PP (IN in) (NP (DT that) (JJ controversial) (NN business))) (, ,) (NP (RB only) (NNP Morgan) (NNP Stanley) (CC &) (NNP Co.)) (VP (VBZ rivals) (NP (NNP Kidder)))) (. .)))
+
+(S1 (S (CC But) (NP (RB even) (DT that) (NN niche)) (VP (VBZ is) (PP (IN under) (NP (NN attack))) (, ,) (SBAR (IN as) (S (NP (JJ several) (NNP Wall) (NNP Street) (NNS firms)) (VP (VBD pulled) (ADVP (RB back) (PP (IN from) (NP (NN program) (NN trading)))) (NP (JJ last) (NN week)) (PP (IN under) (NP (NP (NN pressure)) (PP (IN from) (NP (JJ big) (NNS investors))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Carpenter)) (, ,) (NP (NP (DT a) (JJ former) (JJ consulting-firm) (NN executive)) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (NP (NP (DT a) (NN love)) (PP (IN for) (`` `) (NP (`` `) (NP (NN task) (NNS forces)) (, ,) ('' ')) ('' ')))))))) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ has) (VP (VBN done) (NP (DT a) (`` `) (NP (`` `) (JJ complete) (VB rethink) (POS ')) ('' ') (PP (IN of) (NP (NNP Kidder)))) (PP (IN in) (NP (JJ recent) (NNS months)))))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBP have) (VP (VBN been) (NP (NP (DT a) (JJ dizzying) (NN parade)) (PP (IN of) (NP (NP (NNS studies)) (PP (IN of) (NP (NP (DT the) (NN firm) (POS 's)) (NNS operations)))))))) (. .)))
+
+(S1 (S (NP (NP (QP (JJR More) (IN than) (CD 20)) (JJ new) (NN managing) (NNS directors)) (CC and) (NP (JJ senior) (NN vice) (NNS presidents))) (VP (VBP have) (VP (VBN been) (VP (VBN hired) (PP (IN since) (NP (NNP January)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN firm) (POS 's)) (NN brokerage) (NN force)) (VP (VBZ has) (VP (VBN been) (VP (VP (VBN trimmed)) (CC and) (VP (NP (PRP$ its) (JJ mergers-and-acquisitions) (NN staff)) (VBN increased) (PP (TO to) (NP (NP (DT a) (NN record)) (NP (CD 55) (NNS people)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Carpenter)) (VP (VBZ says) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBZ assumes) (NP (JJ full) (NN control))))) (, ,) (NP (NNP Kidder)) (VP (MD will) (ADVP (RB finally)) (VP (VB tap) (NP (NP (DT the) (NNS resources)) (PP (IN of) (NP (NNP GE))))))))) (. .)))
+
+(S1 (S (NP (NP (CD One)) (PP (IN of) (NP (NP (NP (NNP GE) (POS 's)) (NNS goals)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD bought) (NP (NP (CD 80) (NN %)) (PP (IN of) (NP (NNP Kidder)))) (PP (IN in) (NP (CD 1986))))))))) (VP (VBD was) (S (VP (TO to) (VP (VB take) (NP (NP (NN advantage)) (PP (IN of) (NP (`` `) (NP (`` `) (NNS syngeries) ('' ')) ('' ') (PP (IN between) (NP (NP (NNP Kidder) (CC and) (NNP General) (NNP Electric) (NNP Capital) (NNP Corp.)) (, ,) (NP (NP (NNP GE) (POS 's)) (JJ corporate-finance) (NN unit)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (QP ($ $) (CD 42) (CD billion))) (PP (IN in) (NP (NNS assets)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ leveraged) (NN buy-out) (NN group)) (PP (IN of) (NP (NNP GE) (NNP Capital)))) (ADVP (RB now)) (VP (VBZ reports) (PP (TO to) (NP (NNP Mr.) (NNP Carpenter)))) (. .)))
+
+(S1 (S (ADVP (RB So) (RB far)) (, ,) (PP (RB instead) (IN of) (S (VP (VBG teaming) (PRT (RP up))))) (, ,) (NP (NNP GE) (NNP Capital) (NNS staffers) (CC and) (NNP Kidder) (NN investment) (NNS bankers)) (VP (VBP have) (VP (VBN bickered))) (. .)))
+
+(S1 (S (ADVP (RB Yet)) (PRN (, ,) (SINV (VP (VBZ says)) (NP (NNP Mr.) (NNP Carpenter))) (, ,) (`` `)) (`` `) (NP (PRP We)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN started) (S (VP (TO to) (VP (VB exploit) (NP (NP (DT the) (NN synergy)) (PP (IN between) (NP (NP (NNP GE) (NNP Capital)) (CC and) (NP (NNP Kidder) (NNP Peabody)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NNS units)) (VP (VBP have) (VP (VBN worked) (PP (IN on) (NP (CD 37) (NN investment) (NN banking) (NNS deals))) (NP (DT this) (NN year)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ says))) (, ,)) (SBAR (IN though) (S (NP (NP (RB not) (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VBP have) (VP (VBD panned) (PRT (RP out)))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 've) (VP (VBN had) (NP (NP (DT a) (JJ good) (NN relationship)) (PP (IN with) (NP (NP (NNP GE)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP you)) (VP (MD could) (VP (VB say) (NP (DT that)))))))))))))))) (: --) (S (INTJ (UH uh)) (, ,) (VP (VB let) (NP (PRP me)) (VP (VB withdraw) (NP (DT that))))) (. .)))
+
+(S1 (SINV (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (ADJP (RB steadily) (VBG improving)) (NN relationship))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NNP Mr.) (NNP Carpenter)) (. .)))
+
+(S1 (S (ADVP (RB Still)) (, ,) (SBAR (IN without) (S (NP (JJ many) (JJ actual) (NNS deals)) (VP (TO to) (VP (VB show) (PRT (RP off)))))) (, ,) (NP (NNP Kidder)) (VP (VBZ is) (VP (VBN left) (S (VP (TO to) (VP (VB stress) (SBAR (SBAR (IN that) (S (NP (PRP it)) (ADVP (RB finally)) (VP (VBZ has) (`` `) (NP (`` `) (NP (DT a) (NN team)) ('' ')) ('' ') (PP (IN in) (NP (NN place)))))) (, ,) (CC and) (SBAR (IN that) (S (NP (NN everyone)) (VP (VBZ works) (ADVP (RBR harder))))))))))) (. .)))
+
+(S1 (S (S (ADVP (NP (DT A) (NN month)) (RB ago)) (, ,) (NP (DT the) (NN firm)) (VP (VBD started) (VP (VBG serving) (NP (NN dinner)) (PP (IN at) (NP (NP (QP (RB about) (CD 7:30))) (NP (DT each) (NN night))))))) (: ;) (S (NP (NP (QP (RB about) (CD 50) (TO to) (CD 60))) (PP (IN of) (NP (NP (DT the) (CD 350) (NNS people)) (PP (IN in) (NP (DT the) (NN investment) (VBG banking) (NN operation)))))) (VP (VBP have) (ADVP (RB consistently)) (VP (VBN been) (PP (IN around) (NP (DT that) (RB late)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP are) (VP (VBG working) (ADJP (ADJP (RB significantly) (JJR longer)) (CC and) (ADJP (JJR harder) (SBAR (IN than) (S (VP (VBZ has) (VP (VBN been) (NP (DT the) (NN case)) (PP (IN in) (NP (DT the) (NN past))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Scott) (NNP C.) (NNP Newquist)) (, ,) (NP (NP (NP (NNP Kidder) (POS 's)) (NN head)) (PP (IN of) (NP (NN investment) (NN banking))) (PP (IN since) (NP (NNP June))))) (. .)))
+
+(S1 (S (ADVP (RB Everywhere)) (, ,) (NP (NNP Kidder)) (VP (VBZ stresses) (NP (DT the) (`` `) (ADJP (`` `) (RB always) (JJ working) ('' ')) ('' ') (NN theme))) (. .)))
+
+(S1 (S (NP (NP (DT A) (JJ new) (JJ in-house) (NN magazine)) (, ,) (NP (NP (NNP Kidder) (NNP World)) (: --) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB focus) (PP (IN on) (NP (NP (DT the) (NN firm) (POS 's)) (NN synergy) (NN strategy)))))))) (, ,)) (VP (VBZ says) (S (NP (NNP Mr.) (NNP Carpenter)) (: --) (VP (VBZ confides) (SBAR (IN that) (S (PP (IN on) (NP (NNS weekends))) (NP (NNP Mr.) (NNP Newquist)) (`` `) (VP (`` `) (ADVP (RB often)) (VP (VBZ gets) (NP (JJ value-added) (NNS ideas)) (SBAR (IN while) (S (VP (VBG flying) (NP (PRP$ his) (JJ single-engine) (NNP Cessna) (NNP Centurion)) (PP (IN on) (NP (NP (DT the) (NN way)) (PP (TO to) (NP (NNP Nantucket))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NP (NP (DT The) (NN firm) (POS 's)) (JJ new) (NN head)) (PP (IN of) (NP (NNS mergers) (CC and) (NNS acquisitions))) (PP (IN under) (NP (NNP Mr.) (NNP Newquist)))) (, ,) (NP (NNP B.J.) (NNP Megargel)) (, ,)) (VP (VBZ talks) (PP (IN of) (NP (DT the) (NN opportunity) (S (VP (TO to) (VP (`` `) (VP (`` `) (VB rebuild) (NP (DT a) (NN franchise)) ('' ')) ('' ') (PP (IN at) (NP (NNP Kidder))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (NNP Kidder) (NN name)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (RB only) (CD six) (CC or) (CD seven))) (SBAR (WHNP (WDT that)) (S (NP (DT every) (NNP CEO)) (VP (VBZ recognizes) (PP (IN as) (NP (DT a) (JJ viable) (NN alternative))) ('' '))))) ('' ') (SBAR (WHADVP (WRB when)) (S (VP (VBG considering) (NP (DT a) (NN merger) (NN deal))))))) (, ,) (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (ADVP (RB Now)) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT a) (NNP Kidder) (NNP World) (NN story)) (PP (IN about) (NP (NNP Mr.) (NNP Megargel)))))) (, ,) (NP (PDT all) (DT the) (NN firm)) (VP (VBZ has) (S (VP (TO to) (VP (VB do) (SBAR (S (VP (VBZ is) (`` `) (S (`` `) (VP (VB position) (NP (PRP ourselves)) (ADVP (RBR more)) (PP (IN in) (NP (DT the) (NN deal) (NN flow)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (FRAG (PP (IN With) (NP (NP (NN investment) (NN banking)) (PP (IN as) (NP (NP (NNP Kidder) (POS 's)) (`` `) (NX (`` `) (NX (JJ lead) (NN business)) (, ,) ('' ')) ('' ') (SBAR (WHADVP (WRB where)) (S (S (VP (VB do) (NP (NP (NNP Kidder) (POS 's)) (JJ 42-branch) (NN brokerage) (NN network)))) (CC and) (S (NP (PRP$ its) (CD 1,400) (NNS brokers)) (VP (VB fit) (PRT (RP in)))))))))) (. ?)))
+
+(S1 (S (NP (NNP Mr.) (NNP Carpenter)) (NP (DT this) (NN month)) (VP (VBD sold) (PRT (RP off)) (NP (NP (NP (NNP Kidder) (POS 's)) (CD eight) (NN brokerage) (NNS offices)) (PP (IN in) (NP (NP (NNP Florida)) (CC and) (NP (NNP Puerto) (NNP Rico))))) (PP (TO to) (NP (NNP Merrill) (NNP Lynch) (CC &) (NNP Co.))) (, ,) (S (VP (VBG refueling) (NP (NN speculation) (SBAR (IN that) (S (NP (NNP Kidder)) (VP (VBZ is) (VP (VBG getting) (PP (IN out) (PP (IN of) (NP (DT the) (NN brokerage) (NN business)) (ADVP (RB entirely)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Carpenter)) (VP (VBZ denies) (NP (DT the) (NN speculation))) (. .)))
+
+(S1 (S (S (VP (TO To) (VP (VB answer) (NP (DT the) (NN brokerage) (NN question))))) (, ,) (NP (NP (NNP Kidder)) (, ,) (PP (IN in) (NP (JJ typical) (NN fashion))) (, ,)) (VP (VBD completed) (NP (DT a) (JJ task-force) (NN study))) (. .)))
+
+(S1 (NP (NP (DT The) (NN result)) (: :) (S (NP (NNP Kidder)) (VP (MD will) (VP (VB focus) (PP (IN on) (NP (NP (JJ rich) (JJ individual) (NNS investors)) (CC and) (NP (JJ small) (NNS companies)))) (, ,) (ADJP (ADJP (RB much) (JJR closer) (PP (TO to) (NP (NP (DT the) (NNS clientele)) (PP (IN of) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co.)))))) (PP (IN than) (NP (NP (DT a) (JJ serve-the-world) (NN firm)) (PP (IN like) (NP (NP (NNP Merrill) (NNP Lynch)) (CC or) (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Carpenter)) (VP (VBZ notes) (SBAR (IN that) (S (NP (NP (DT these) (NNS types)) (PP (IN of) (NP (NNS investors)))) (ADVP (RB also)) (VP (VBP are) (ADJP (`` `) (ADJP (`` `) (JJ sophisticated) ('' ')) ('' ') (RB enough) (S (RB not) (VP (TO to) (VP (VB complain) (PP (IN about) (NP (NP (NP (NNP Kidder) (POS 's)) (JJ aggressive) (NN use)) (PP (IN of) (NP (NN program) (NN trading))))))))))))) (. .)))
+
+(S1 (S (PP (IN As) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (JJ upscale) (NN push))))) (, ,) (NP (NNP Kidder)) (VP (VBZ is) (VP (VBG putting) (NP (NNS brokers)) (PP (IN through) (NP (DT a) (JJ 20-week) (NN training) (NN course))) (, ,) (S (VP (VBG turning) (NP (PRP them)) (PP (IN into) (NP (`` `) (NP (`` `) (NN investment) (NNS counselors) ('' ')) ('' ') (PP (IN with) (NP (NP (NN knowledge)) (PP (IN of) (NP (JJ corporate) (NN finance))))))))))) (. .)))
+
+(S1 (SINV (S (NP (PRP They)) (VP (MD will) (VP (VB get) (`` `) (NP (`` `) (JJ new) (CC and) (JJ improved) (NNS tools)) (S (VP (TO to) (VP (VB sell)))) (, ,) (PP (RB particularly) (PP (TO to) (NP (DT the) (JJ affluent) (NN investor))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NN brokerage) (NN chief) (NNP Charles) (NNP V.) (NNP Sheehan)) (. .)))
+
+(S1 (S (ADVP (RB Theoretically)) (, ,) (NP (DT the) (NNS brokers)) (VP (MD will) (ADVP (RB then)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB funnel) (`` `) (NP (`` `) (NNS leads) ('' ')) ('' ') (PP (IN on) (NP (JJ corporate) (NN finance) (NNS opportunities))) (PP (TO to) (NP (NP (NNP Kidder) (POS 's)) (NN investment) (NNS bankers))) (, ,) (S (VP (ADVP (RB possibly)) (VBG easing) (NP (NP (DT the) (JJ longstanding) (NN tension)) (PP (IN between) (NP (DT the) (CD two) (NNS camps)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NNS skeptics)) (VP (VBP caution) (SBAR (IN that) (S (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NP (NN cross-pollination)) (PP (IN between) (NP (NNS brokers) (CC and) (NN investment) (NNS bankers)))))) (VP (VP (VBZ looks) (ADJP (JJ great)) (PP (IN on) (NP (NN paper)))) (, ,) (CC but) (VP (VBZ does) (RB n't) (ADVP (RB always)) (VP (VB happen))))))) (. .)))
+
+(S1 (S (NP (NNP Kidder) (NNS competitors)) (VP (VBP are) (RB n't) (ADJP (RB outwardly) (JJ hostile) (PP (TO to) (NP (DT the) (NN firm)))) (, ,) (SBAR (IN as) (S (NP (JJ many)) (VP (VBP are) (PP (TO to) (NP (NP (DT a) (JJ tough) (NN competitor)) (PP (IN like) (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.))) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (RB n't) (VP (VB have) (NP (NP (NNP Kidder) (POS 's)) (JJ long) (NN history)))))))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (NP (NNS competitors)) (VP (VBP say) (SBAR (IN that) (S (NP (NP (NP (NP (NNP Kidder) (POS 's)) (VBG hiring) (NN binge)) (VP (VBG involving) (NP (JJ executive-level) (NNS staffers)))) (, ,) (NP (NP (DT some)) (PP (IN with) (NP (JJ multiple-year) (NN contract) (NNS guarantees)))) (, ,)) (VP (MD could) (VP (VB backfire) (SBAR (IN unless) (S (NP (EX there)) (VP (VBP are) (NP (NNS results)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (VBG departing) (NNP Mr.) (NNP Cathcart)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ has) (NP (NP (DT no) (NNS worries)) (PP (IN about) (NP (NP (NNP Kidder) (POS 's)) (NN future)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Mr.) (NNP Cathcart)) (, ,) (SBAR (WHNP (WP who)) (S (VP (MD will) (VP (VB return) (PP (TO to) (NP (NP (DT the) (NNP Quaker) (NN Oats) (NNP Co.) (NN board)) (PP (IN of) (NP (NNS directors)))))))))) (, ,) (PP (IN in) (NP (NP (NN addition)) (PP (TO to) (NP (PRP$ his) (JJ personal) (NNS ventures))))) (, ,) (VP (VBZ is) (VP (VBN credited) (PP (IN with) (S (VP (VBG bringing) (NP (DT some) (JJ basic) (NN budgeting) (CC and) (NN planning) (NN discipline)) (PP (TO to) (NP (RB traditionally) (JJ free-wheeling) (NNP Kidder)))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (ADVP (RB also)) (VP (VBD improved) (NP (NP (NP (DT the) (NN firm) (POS 's)) (NN compliance) (NNS procedures)) (PP (IN for) (NP (VBG trading))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Cathcart)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ has) (VP (VBN had) (NP (`` `) (NP (`` `) (NP (DT a) (NN lot)) (PP (IN of) (NP (NN fun))) ('' ')) ('' ') (PP (IN at) (NP (NNP Kidder)))))))) (, ,) (S (VP (VBG adding) (NP (NP (DT the) (NN crack)) (PP (IN about) (S (NP (PRP$ his)) (VP (VBG being) (NP (DT a) (`` `) (NP (`` `) (JJ tool-and-die) (NN man) ('' ')) ('' ') (SBAR (S (ADVP (RB never)) (VP (VBD bothered) (NP (PRP him))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP It)) (VP (VBD was) (NP (NP (DT an) (ADJP (RB absolutely) (JJ marvelous)) (NN line)) (CC and) (NP (NP (CD one)) (SBAR (S (NP (PRP I)) (VP (VBD used) (NP (JJ many) (NNS times)))))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (VP (VBG Smiling) (SBAR (ADVP (RB broadly)) (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBZ talks) (PP (IN about) (NP (NNP Mr.) (NNP Carpenter)))))))) (, ,) (NP (NNP Mr.) (NNP Cathcart)) (VP (VBZ says) (SBAR (S (NP (DT the) (JJ new) (NNP Kidder) (NN chief)) (VP (VBZ is) (`` `) (VP (`` `) (VBG going) (S (VP (TO to) (VP (VB be) (VP (VBN recognized) (ADVP (RB shortly)) (PP (IN as) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ real) (NNS leaders)) (PP (IN in) (NP (DT the) (JJ investment-banking) (NN business)))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN In) (NP (VBG coming) (NNS years))) (, ,) (NP (NNP Mr.) (NNP Cathcart)) (VP (VBZ says) (, ,) (S (NP (NNP Kidder)) (VP (VBZ is) (`` `) (VP (`` `) (VBG gon) (S (VP (TO na) (VP (VB hum)))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (CC Or) (, ,) (PP (IN as) (NP (NNP Mr.) (NNP Carpenter))) (, ,) (S (VP (ADVP (RB again)) (VBG drawing) (PP (IN on) (NP (PRP$ his) (JJ consulting-firm) (NN background))))) (, ,) (VP (VBZ puts) (NP (PRP it)) (: :) (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 're) (ADJP (JJ ready) (S (VP (TO to) (VP (VB implement) (PP (IN at) (NP (DT this) (NN point)))))))))) (. .)))
+

@@ -1,0 +1,8 @@
+(S1 (S (NP (NNP American) (NNP Medical) (NNP International) (NNP Inc.)) (VP (VBD was) (VP (VBN dropped) (PP (IN from) (NP (DT the) (NN health) (NN care) (NNS providers))) (NP (NP (NN industry) (NN group)) (PP (IN of) (NP (DT the) (NNP Dow) (NNP Jones) (NNP Equity) (NNP Market) (NNP Index)))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBZ is) (VP (VBG being) (VP (VBN acquired)))) (. .)))
+
+(S1 (S (NP (NNP U.S.) (NNP Healthcare) (NNP Inc.)) (VP (VBD was) (VP (VBN added) (PP (TO to) (NP (DT the) (NN health) (NN care) (NNS providers))) (NP (NN group)))) (. .)))
+
+(S1 (S (NP (DT Both) (NNS moves)) (VP (VBP are) (ADJP (JJ effective) (NP (NN today)))) (. .)))
+

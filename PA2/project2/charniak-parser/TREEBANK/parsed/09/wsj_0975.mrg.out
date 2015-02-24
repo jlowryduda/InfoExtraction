@@ -1,0 +1,100 @@
+(S1 (SINV (S (NP (NP (DT A) (VBN proposed) (NN conflict-of-interest) (NN policy)) (PP (IN for) (NP (ADJP (RB federally) (VBN funded)) (JJ biomedical) (NNS researchers)))) (VP (MD may) (VP (VB thwart) (NP (JJ many) (JJ high-technology) (JJ new) (NNS ventures))))) (, ,) (VP (VBP say)) (NP (NP (NNS financiers)) (, ,) (NP (NNS researchers)) (CC and) (NP (NN university) (NNS administrators))) (. .)))
+
+(S1 (S (NP (DT The) (NAC (NNP National) (NNPS Institutes) (PP (IN of) (NP (NNP Health)))) (NN policy)) (VP (MD would) (VP (VB require) (S (NP (NNS researchers)) (VP (TO to) (VP (VP (VB cut) (NP (NP (JJ financial) (NNS ties)) (PP (IN with) (NP (JJ health-care) (NNS businesses))))) (: --) (CC or) (VP (VB lose) (NP (PRP$ their) (NN government) (NN money)))))))) (. .)))
+
+(S1 (S (PP (IN Among) (NP (JJ other) (NNS concerns))) (, ,) (NP (DT the) (NN agency)) (VP (VBZ says) (SBAR (S (NP (NP (NNS researchers)) (PP (IN with) (NP (NN business) (NNS ties)))) (VP (VBP are) (ADJP (RBR more) (JJ likely) (S (VP (TO to) (VP (VB falsify) (NP (NNS findings)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB tout) (NP (JJ new) (NNS drugs)))))))))))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (NP (NNS ties)) (PP (IN between) (NP (NP (NN academia)) (CC and) (NP (NN venture) (NN capital))))) (VP (VBP have) (VP (VBD blossomed) (PP (IN in) (NP (JJ recent) (NNS years))))))) (, ,) (NP (NP (JJ governmental) (NN fear)) (PP (IN of) (NP (NN abuse)))) (VP (VBZ has) (VP (VBN risen))) (. .)))
+
+(S1 (SINV (S (CC But) (NP (DT the) (NNS guidelines)) (VP (MD could) (`` `) (VP (`` `) (VB make) (S (NP (PRP it)) (ADJP (JJ impossible) (S (VP (TO to) (VP (VB commercialize) (NP (NN research)))))))))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Kenneth) (NNP Smith)) (, ,) (NP (NP (NP (NP (NN associate)) (NP (NNP provost))) (CC and) (NP (NP (NN vice) (NN president)) (PP (IN for) (NP (NN research))))) (PP (IN at) (NP (NP (NNP Massachusetts) (NNP Institute)) (PP (IN of) (NP (NNP Technology))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP NIH)) (VP (VBZ is) (VP (VBG asking) (NP (NP (NN grant) (NNS recipients)) (CC and) (NP (NNS others))) (PP (IN for) (NP (NP (NNS comments)) (PP (IN on) (NP (DT the) (VBN proposed) (NNS guidelines))))) (PP (IN until) (NP (NNP Dec.) (CD 15))))) (. .)))
+
+(S1 (S (PP (IN After) (NP (DT that))) (, ,) (NP (PRP it)) (VP (MD will) (VP (VB make) (NP (NP (DT a) (JJ final) (NN decision)) (PP (IN on) (NP (DT the) (NN policy)))))) (. .)))
+
+(S1 (SINV (S (NP (DT The) (NNS guidelines)) (VP (MD could) (VP (VB foil) (NP (NP (JJ future) (NNS arrangements)) (ADJP (JJ similar) (PP (TO to) (NP (NP (DT the) (NN deal)) (PP (IN behind) (NP (NP (NNP Lithox) (NNP Inc.)) (, ,) (NP (DT a) (NAC (NNP Salem) (, ,) (NNP Mass.) (, ,)) (NN start-up))))))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Robert) (NNP Daly)) (, ,) (NP (NP (DT a) (VBG managing) (NN partner)) (PP (IN of) (NP (NP (NNP TA) (NNPS Associates)) (, ,) (NP (DT a) (JJ venture-capital) (NN firm)))))) (. .)))
+
+(S1 (S (PP (IN With) (NP (QP ($ $) (CD 2.3) (CD million)))) (, ,) (NP (NP (PRP he)) (CC and) (NP (JJ other) (NNS investors))) (VP (VBD launched) (NP (NNP Lithox)) (NP (JJ last) (NN year)) (SBAR (S (VP (TO to) (VP (VB market) (NP (NP (DT a) (JJ gallstone) (NN cure)) (VP (VBG being) (VP (VBN developed) (PP (IN by) (NP (NP (NNS researchers)) (PP (IN of) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP California))) (PP (IN at) (NP (NNP San) (NNP Diego))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS researchers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG being) (VP (VBN financed) (PP (IN by) (NP (DT the) (NNP Lithox) (NNS funds)))))))) (, ,)) (VP (MD will) (VP (VB receive) (NP (NP (DT a) (NN royalty) (, ,) (CC or) (NN percentage)) (PP (IN of) (NP (NNS sales)))) (, ,) (SBAR (IN if) (S (NP (PRP$ their) (NN research)) (VP (VBZ yields) (NP (DT a) (JJ commercial) (NN product))))))) (. .)))
+
+(S1 (S (S (CC But) (SBAR (IN because) (S (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP California)))) (, ,) (PP (IN like) (NP (JJ many) (JJ other) (NNS universities))) (, ,) (VP (VBZ shares) (NP (PRP$ its) (NNS royalties)) (PP (IN with) (NP (NNS researchers)))))) (, ,) (NP (PRP it)) (VP (MD may) (VP (VB disqualify) (NP (PRP itself)) (PP (IN from) (NP (JJ federal) (NNS funds))) (PP (IN under) (NP (DT the) (VBN proposed) (NNS guidelines)))))) (, ,) (NP (NNP Mr.) (NNP Daly)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (DT The) (JJ high-tech) (NN industry)) (VP (VBZ is) (ADJP (JJ full) (PP (IN of) (NP (NP (DT the) (NN kind)) (PP (IN of) (NP (NN arrangement)))))) (SBAR (IN that) (S (NP (DT the) (JJ new) (NNS guidelines)) (VP (MD would) (VP (VB affect)))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NN instance))) (, ,) (NP (NP (NNP Commonwealth) (NNPS BioVentures) (NNP Inc.)) (, ,) (NP (DT a) (NN venture-capital) (NN concern)) (, ,)) (NP (JJ last) (NN month)) (VP (VBD invested) (NP ($ $) (CD 600,000)) (S (VP (TO to) (VP (VB launch) (NP (NP (NNP Amira) (NNP Inc.)) (, ,) (NP (NP (DT a) (NAC (NNP Worcester) (, ,) (NNP Mass.) (, ,)) (NN concern)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB produce) (NP (NNS pharmaceuticals)))))))))))) (. .)))
+
+(S1 (S (NP (NNS Scientists) (NNP Rima) (NNP Kaddurah-Daouk) (CC and) (NNP Paul) (NNP Schimmel)) (VP (VBD conducted) (NP (NP (DT the) (JJ initial) (NN research)) (PP (IN at) (NP (NP (DT the) (NNP Massachusetts) (NNP Institute)) (PP (IN of) (NP (NNP Technology))))))) (. .)))
+
+(S1 (S (SBAR (IN While) (S (NP (NNP Ms.) (NNP Kaddurah-Daouk)) (VP (VBD left) (NP (NNP MIT)) (S (VP (TO to) (VP (VB head) (NP (NNP Amira)))))))) (, ,) (NP (NNP Prof.) (NNP Schimmel)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VP (VB work) (PP (IN at) (NP (NNP MIT)))) (, ,) (VP (VB serve) (PP (IN on) (NP (NP (NNP Amira) (POS 's)) (NN board)))) (CC and) (VP (VB own) (NP (NP (DT a) (JJ small) (NN equity) (NN stake)) (PP (IN in) (NP (DT the) (NN company)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Amira) (NN transaction)) (VP (VBZ is) (ADJP (JJ typical) (PP (IN of) (NP (NP (DT the) (NN way)) (SBAR (S (NP (NN venture-capital) (NNS firms)) (VP (VBP are) (VP (VBG approaching) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG commercializing) (NP (NN biotechnology) (NN research)))))))))))))) (. .)))
+
+(S1 (SINV (S (SBAR (IN While) (S (NP (NNS universities)) (VP (VBP develop) (NP (DT the) (JJ basic) (NN research))))) (, ,) (`` `) (NP (`` `) (NN venture) (NNS capitalists)) (VP (VBP are) (ADVP (NP (DT the) (NNS ones)) (RB best)) (VP (VBN positioned) (S (VP (TO to) (VP (VB finance) (NP (PRP$ its) (NN commercialization))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Gloria) (NNP W.) (NNP Doubleday)) (PP (IN of) (NP (NNP Commonwealth)))) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJS best) (NN way)) (SBAR (S (VP (TO to) (VP (VB transfer) (NP (NN technology)) (PP (ADVP (RB straight)) (IN off) (NP (NP (DT the) (NNS campuses)) (PP (IN of) (NP (NNS universities)))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (S (CC But) (NP (DT the) (JJ new) (NNS guidelines)) (VP (MD could) (VP (VB prevent) (NP (NP (NNS scientists)) (PP (IN like) (NP (NNP Prof.) (NNP Schimmel)))) (PP (IN from) (S (VP (VBG being) (ADJP (VBN involved) (PP (IN with) (NP (NP (NNS start-ups)) (PP (JJ such) (IN as) (NP (NNP Amira)))))))))))) (, ,) (NP (NN venture) (NNS capitalists)) (VP (VBP point) (PRT (RP out))) (. .)))
+
+(S1 (S (S (CC And) (SBAR (IN if) (S (NP (DT that)) (VP (VBZ happens)))) (, ,) (NP (NP (DT the) (JJ entire) (NN process)) (PP (IN of) (S (VP (VBG transferring) (NP (NN technology)) (PP (TO to) (NP (DT the) (NN marketplace))))))) (VP (MD could) (VP (VB be) (VP (VBN harmed))))) (, ,) (NP (PRP they)) (VP (VBP say)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS stakes)) (PP (IN in) (NP (DT the) (NN controversy)))) (VP (VBP are) (ADJP (JJ large))) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (NP (NN venture) (NNS capitalists)) (VP (VBD spent) (NP (NP (DT an) (JJ estimated) (QP ($ $) (CD 600) (CD million))) (SBAR (S (VP (TO to) (VP (VB finance) (NP (NP (JJ start-up) (NNS companies)) (PP (IN in) (NP (JJ medical) (CC and) (NN biotechnology) (NNS businesses))))))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT the) (NNP National) (NNP Venture) (NNP Capital) (NNP Association)) (, ,) (NP (DT a) (NN trade) (NN group)))))) (. .)))
+
+(S1 (S (NP (NP (JJ Many)) (PP (IN of) (NP (DT the) (NNS deals)))) (VP (VBN involved) (NP (NP (NNS transactions)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (JJ scientific) (NNS institutions) (CC or) (NNS researchers)) (VP (VBD agreed) (S (VP (TO to) (VP (VB commercialize) (NP (PRP$ their) (NN work)) (PP (IN in) (NP (NP (NN return)) (PP (IN for) (NP (NP (DT an) (NN equity) (NN stake)) (CC or) (NP (NNS royalties)))))))))))))) (. .)))
+
+(S1 (SINV (S (PP (IN In) (NP (NP (JJ many)) (PP (IN of) (NP (DT these) (NNS deals))))) (, ,) (`` `) (NP (`` `) (NN venture) (NNS capitalists)) (VP (VBD had) (NP (DT the) (JJ inside) (NN track)))) (, ,) ('' ') ('' ') (VP (VBZ says)) (NP (NP (NNP Lawrence) (NNP Bock)) (PP (IN of) (NP (NP (NNP Avalon) (NNPS Ventures)) (, ,) (NP (NP (NNP La) (NNP Jolla)) (, ,) (NP (NNP Calif)))))) (. .)))
+
+(S1 (S (NP (NNS Investors)) (VP (VBD were) (ADJP (JJ willing) (S (VP (TO to) (VP (VB gamble) (PP (IN on) (NP (JJ new) (NNS technologies))))))) (SBAR (IN because) (S (`` `) (S (`` `) (NP (PRP we)) (VP (VBD had) (NP (NP (JJ exclusive) (NNS rights)) (PP (TO to) (NP (DT those) (NNS technologies))))) (, ,) ('' ')) ('' ') (NP (PRP he)) (VP (VBZ adds))))) (. .)))
+
+(S1 (S (CC But) (PP (IN under) (NP (DT the) (VBN proposed) (NNS guidelines))) (, ,) (NP (DT all) (ADJP (RB federally) (VBN funded)) (NN research)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB be) (VP (VBN reported) (ADVP (RB publicly)) (SBAR (RB so) (IN that) (S (NP (NN anyone)) (VP (MD can) (VP (VB capitalize) (PP (IN on) (NP (DT the) (NN work))))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (PP (IN Without) (NP (DT the) (NN exclusivity))) (, ,) (NP (JJS most) (NN venture) (NNS capitalists)) (VP (MD wo) (RB n't) (VP (VB have) (NP (DT the) (NN incentive) (S (VP (TO to) (VP (VB invest) (PP (IN in) (NP (JJ such) (NNS deals))))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Bock)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (JJ Last) (NN year)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NP (NNP Avalon)) (CC and) (NP (NNS others))) (VP (VBD invested) (NP (NP (QP ($ $) (CD 14) (CD million))) (PP (IN in) (NP (NP (NNP Athena) (NNPS Neurosciences) (NNP Inc.)) (, ,) (NP (NP (NNP South) (NNP San) (NNP Francisco)) (, ,) (NP (NNP Calif.)) (, ,))))) (S (VP (TO to) (VP (VB license) (CC and) (VB develop) (NP (NP (NN technology)) (PP (IN for) (NP (NP (NN delivery)) (PP (IN of) (NP (NNS drugs)))))) (PP (TO to) (NP (DT the) (NN brain))))))) (. .)))
+
+(S1 (S (CC But) (SBAR (IN before) (S (NP (NNP Athena)) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB get) (NP (DT an) (JJ exclusive) (NN license)) (PP (TO to) (NP (DT the) (NN technology)))))))))) (PRN (, ,) (S (NP (DT the) (NNP Federal) (NNP Register)) (VP (VBD published) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NNS details)))))) (, ,) (`` `)) (`` `) (S (VP (VBG giving) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (JJ potential) (NNS competitors)))) (NP (DT a) (NN chance) (S (VP (TO to) (VP (VB exploit) (NP (PRP it)))))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Bock)) (VP (VBZ says)) (. .)))
+
+(S1 (S (NP (NNP Athena)) (ADVP (RB eventually)) (VP (VP (VBD acquired) (NP (NP (JJ exclusive) (NNS rights)) (PP (TO to) (NP (DT the) (NN technology))))) (CC and) (VP (ADVP (RB currently)) (VBZ is) (VP (VBG developing) (NP (PRP it))))) (. .)))
+
+(S1 (S (CC But) (PRN (, ,) (SINV (VP (VBZ says)) (NP (NNP Mr.) (NNP Bock))) (, ,) (`` `)) (`` `) (NP (PRP It)) (VP (VBD was) (NP (DT a) (JJ close) (NN call))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (DT The) (VBN proposed) (NNS guidelines)) (VP (MD could) (ADVP (RB also)) (VP (VP (VB delay) (NP (NN commercialization))) (: --) (CC and) (VP (VB force) (S (NP (JJ small) (NNS companies)) (VP (TO to) (VP (VB waste) (NP (JJ scarce) (NN capital))))))))) (, ,) (NP (NNS entrepreneurs)) (VP (VBP say)) (. .)))
+
+(S1 (SINV (S (SBAR (IN If) (S (NP (NNS start-ups)) (VP (MD ca) (RB n't) (VP (VB have) (S (NP (NP (JJ early) (NN access)) (PP (TO to) (NP (NN research)))) (VP (VBG being) (VP (VBN conducted) (PP (IN at) (NP (NNS institutions)))))))))) (, ,) (`` `) (S (`` `) (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VP (VB replicate) (NP (PRP it)) (NP (PRP ourselves))) (CC or) (VP (VB do) (PP (IN without) (NP (DT the) (NN research)))))))) (, ,) ('' ')) ('' ')) (VP (VBZ says)) (NP (NP (NNP Ruth) (NNP Emyanitoff)) (, ,) (NP (NP (NN manager)) (PP (IN of) (NP (NN business) (NN development))) (PP (IN at) (NP (NP (NNP Applied) (NN bioTechnology) (NNP Inc.)) (, ,) (NP (DT a) (NAC (NNP Cambridge) (, ,) (NNP Mass.) (, ,)) (NN concern)))))) (. .)))
+
+(S1 (S (S (NP (JJ Duplicating) (NN research)) (VP (VBZ is) (ADJP (DT both) (JJ costly) (CC and) (JJ time-consuming)) (PP (IN for) (NP (DT a) (NN start-up))))) (, ,) (NP (NNP Ms.) (NNP Emyanitoff)) (VP (VBZ says)) (. .)))
+
+(S1 (S (PP (IN For) (NP (PRP$ its) (NN part))) (, ,) (NP (NNP NIH)) (VP (VBZ insists) (SBAR (IN that) (S (NP (PRP$ its) (NNS guidelines)) (`` `) (VP (`` `) (VP (MD should) (RB not) (VP (VB stifle) (NP (NP (NN research) (NN creativity) (CC or) (NN technology) (NN transfer)) (PP (IN from) (NP (DT the) (NN research) (NN laboratory))) (PP (TO to) (NP (JJ commercial) (NN use)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (SINV (S (NP (NP (NNS Universities)) (PP (JJ such) (IN as) (NP (NP (NNP Harvard)) (CC and) (NP (NNP MIT))))) (VP (MD should) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB develop) (NP (NP (DT a) (NN way)) (SBAR (S (VP (TO to) (VP (VB act) (PP (IN as) (NP (NNS brokers))) (PP (IN for) (NP (DT the) (JJ individual) (NNS scientists))))))))))))))) (, ,) (VP (VBZ says)) (NP (NP (NNP Katherine) (NNP Bick)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ oversees) (NP (DT the) (JJ huge) (NNP NIH) (NNS grants) (NN program)) (PP (IN as) (NP (NP (PRP$ its) (NN deputy) (NN director)) (PP (IN for) (NP (JJ extramural) (NN research))))))))) (. .)))
+
+(S1 (S (NP (NNP NIH) (NN staff) (NNS members)) (VP (VBP believe) (SBAR (S (NP (DT the) (NNS guidelines)) (VP (VBP are) (ADJP (JJ essential) (S (VP (TO to) (VP (VB prevent) (NP (NP (DT the) (NN escalation)) (PP (IN of) (NP (NP (NNS problems)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (ADVP (RB already)) (VP (VBN begun) (S (VP (TO to) (VP (VB surface) (PP (IN in) (NP (JJ scientific) (NNS ventures))))))))))))))))))))) (. .)))
+
+(S1 (S (ADVP (NP (RB Not) (RB long)) (RB ago)) (, ,) (NP (NP (NNS scientists)) (VP (VBG holding) (NP (NN stock)) (PP (IN in) (NP (NNP Spectra) (NNP Pharmaceutical) (NNPS Services) (NNP Inc.))))) (VP (VBD were) (VP (VBN accused) (PP (IN of) (S (VP (VBG falsifying) (NP (NP (NN research)) (SBAR (S (VP (TO to) (VP (VB boost) (NP (DT the) (NN stock)))))))))))) (. .)))
+
+(S1 (S (NP (JJ Many) (NNS officials)) (VP (VBP are) (ADVP (RB also)) (ADJP (JJ concerned) (PP (IN about) (S (NP (NNS companies)) (VP (VBG getting) (NP (DT a) (`` `) (NP (`` `) (JJ free) (NN ride) ('' ')) ('' ') (PP (IN on) (NP (JJ government-sponsored) (NN research))))))))) (. .)))
+
+(S1 (S (NP (DT A) (JJ congressional) (NN subcommitee)) (VP (VBZ has) (VP (VBN been) (VP (VBG investigating) (NP (NP (DT the) (JJ potential) (NN abuse)) (PP (IN from) (S (NP (NNS researchers)) (VP (VBG holding) (NP (NN stock)) (PP (IN in) (NP (NP (NNS companies)) (VP (VBG exploiting) (NP (PRP$ their) (NN research)))))))))))) (. .)))
+
+(S1 (S (PP (IN Among) (NP (JJ other) (NNS provisions))) (, ,) (NP (DT the) (NNP NIH) (NNS guidelines)) (VP (MD would) (VP (VB prohibit) (NP (NP (NNS researchers) (CC and) (NNS members)) (PP (IN of) (NP (PRP$ their) (JJ immediate) (NNS families)))) (PP (IN from) (S (VP (VBG holding) (NP (NN stock)) (PP (IN in) (NP (NP (DT any) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN affected) (PP (IN by) (NP (NP (DT the) (NN outcome)) (PP (IN of) (NP (PRP$ their) (NN research)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Ms.) (NNP Bick)) (, ,) (NP (DT the) (NNP NIH) (NN administrator)) (, ,)) (VP (VBZ says) (SBAR (S (NP (DT the) (NN business) (CC and) (JJ scientific) (NN community)) (VP (VBZ is) (VP (VBG overreacting) (PP (TO to) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN agency)) (ADVP (RB merely)) (VP (VBD meant) (S (VP (TO to) (VP (VB be) (`` `) (S (`` `) (NP (NP (NNS ideas)) (PP (IN for) (NP (NN discussion))))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (NP (DT The) (NNS predictions)) (PP (IN of) (NP (NN doom)))) (VP (VBP are) (`` `) (ADJP (`` `) (JJ premature)))) (, ,) ('' ') ('' ') (NP (PRP she)) (VP (VBZ says)) (. .)))
+
+(S1 (S (S (CC But) (SBAR (WHADVP (WRB when)) (S (NP (NP (NNS agencies)) (PP (IN like) (NP (DT the) (NNP NIH)))) (VP (VB circulate) (NP (NNS guidelines))))) (, ,) (NP (PRP they)) (VP (VBP 've) (ADVP (RB often)) (VP (ADVP (RB already)) (VBN formulated) (NP (NN policy))))) (, ,) (NP (JJ veteran) (NNS scientists)) (VP (VBP say)) (. .)))
+
+(S1 (S (ADVP (RB Indeed)) (, ,) (NP (NNS institutions)) (ADVP (RB already)) (VP (VBP are) (VP (VBG taking) (NP (NN note)))) (. .)))
+
+(S1 (S (PP (IN On) (NP (NNP Sept.) (CD 14))) (, ,) (NP (NNP Harvard)) (VP (VBD began) (S (VP (VBG circulating) (NP (NP (DT a) (NN conflict-of-interest) (NN policy) (NN statement)) (SBAR (WHNP (WDT that)) (S (, ,) (PP (IN in) (NP (NN effect))) (, ,) (VP (MD would) (VP (VB follow) (NP (DT the) (NNP NIH) (NNS guidelines)) (ADVP (RB faithfully)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP University)) (PP (IN of) (NP (NNP California))) (PP (IN at) (NP (NNP San) (NNP Francisco)))) (VP (VBZ is) (ADVP (RB also)) (VP (VBG circulating) (NP (DT a) (NN memo)) (PP (IN among) (NP (NP (PRP$ its) (JJ scientific) (NN faculty)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB restrict) (NP (NP (NN contact)) (PP (IN with) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN business)))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ many) (JJ other) (NNS institutions))) (, ,) (NP (NNS scientists)) (VP (VBP are) (VP (VBG shunning) (NP (NP (NNS contacts)) (PP (IN with) (NP (JJ venture) (NNS investors)))) (SBAR (IN until) (S (NP (DT the) (NNP NIH) (NN policy)) (VP (VBZ is) (VP (VBN settled))))))) (. .)))
+
+(S1 (SINV (VP (VBZ Says)) (NP (NP (NNP Mr.) (NNP Daly)) (, ,) (NP (DT the) (NN venture) (NN capitalist))) (: :) (`` `) (S (`` `) (NP (PRP It)) (VP (VBZ does) (RB n't) (VP (VB matter) (SBAR (IN whether) (S (NP (PRP they)) (VP (VBP call) (S (NP (PRP it)) (NP (NNS guidelines) (CC or) (NN policy))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN damage)) (VP (VBZ is) (ADVP (RB already)) (VP (VBN done))) (. .)))
+

@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (PRP$ Your) (NNP Oct.) (CD 5) (NN editorial)) (`` `) (NP (`` `) (DT A) (JJ Democratic) (NN Tax) (NN Cut) ('' ')) ('' ')) (VP (VBD contained) (NP (DT an) (NN error))) (. .)))
+
+(S1 (S (PP (IN In) (NP (DT the) (JJ third) (NN paragraph))) (NP (PRP it)) (VP (VBD referred) (PP (TO to) (NP (DT the) (NNS senators))) (S (VP (VBG seeking) (NP (NN loophole) (NNS suggestions)) (PP (IN from) (NP (NP (NNS lobbyists)) (PP (IN for) (NP (NP (JJ various) (NNS sectors)) (PP (IN of) (NP (DT the) (NN economy)))))))))) (. .)))
+
+(S1 (FRAG (PP (IN Among) (NP (PRP them))) (, ,) (`` `) (FRAG (`` `) (NP (NN banana) (NNS farmers)) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NP (DT The) (RB only) (JJ significant) (JJ commercial) (NN banana) (NNS farmers)) (PP (IN in) (NP (DT the) (NNP U.S.)))) (VP (VBP are) (PP (IN in) (NP (NNP Hawaii)))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Hawaii) (NN Banana) (NNP Industry) (NNP Association)) (, ,) (PP (TO to) (SBAR (WHNP (WDT which)) (S (NP (NP (RB nearly) (DT all)) (PP (IN of) (NP (PRP them)))) (VP (VBP belong))))) (, ,) (VP (VBZ has) (NP (DT no) (NN lobbyist))) (. .)))
+
+(S1 (NP (NP (NNP Thomas) (NNP V.) (NNP Reese) (NNP Sr) (. .)) (NP (NNP Maui) (NN Banana) (NNP Co)) (. .)))
+

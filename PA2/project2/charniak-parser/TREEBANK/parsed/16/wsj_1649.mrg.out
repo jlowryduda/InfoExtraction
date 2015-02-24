@@ -1,0 +1,54 @@
+(S1 (S (NP (NNP Raymond) (NNP Chandler)) (, ,) (PP (IN in) (NP (NP (DT a) (CD 1950) (NN letter)) (VP (VBG defending) (NP (DT a) (JJ weak) (NNP Hemingway) (NN book))))) (, ,) (VP (VBN likened) (NP (DT a) (JJ champion) (NN writer)) (PP (TO to) (NP (DT a) (NN baseball) (NN pitcher)))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NN champ)) (VP (VBZ has) (VP (VBN lost) (NP (PRP$ his) (NN stuff)))))) (, ,) (NP (DT the) (JJ great) (NN mystery) (NN novelist)) (VP (VBD wrote) (, ,) (`` `) (S (`` `) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (MD can) (ADVP (RB no) (RB longer)) (VP (VB throw) (NP (DT the) (JJ high) (JJ hard) (NN one)))))) (, ,) (NP (PRP he)) (VP (VBZ throws) (NP (PRP$ his) (NN heart)) (ADVP (RB instead))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ throws) (NP (NN something))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ does) (RB n't) (ADVP (RB just)) (VP (VB walk) (PP (IN off) (NP (DT the) (NN mound) (CC and) (NN weep))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Chandler)) (VP (MD might) (VP (VB have) (VP (VBN been) (VP (VBG predicting) (NP (NP (DT the) (NN course)) (PP (IN of) (NP (PRP$ his) (JJ own) (NN career)))))))) (. .)))
+
+(S1 (S (NP (NP (PRP$ His) (JJ last) (JJ published) (NN novel)) (VP (VBG featuring) (NP (NP (JJ private) (NN detective) (NNP Philip) (NNP Marlowe)) (, ,) (NP (DT the) (JJ inferior) (`` `) (NP (`` `) (NP (NNP Playback) (POS ')) ('' ') (PRN (-LRB- -LRB-) (NP (CD 1958)) (-RRB- -RRB-)))) (, ,)) (PP (IN at) (NP (NNS times))))) (VP (VBD read) (PP (RB almost) (IN like) (NP (NP (DT a) (NN parody)) (PP (IN of) (NP (PRP$ his) (JJ previous) (NN work)))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (NP (PRP he)) (VP (VBD died) (PP (IN in) (NP (CD 1959)))))) (, ,) (NP (NNP Chandler)) (VP (VBD left) (PRT (RP behind)) (NP (NP (CD four) (NNS chapters)) (PP (IN of) (NP (NP (ADJP (RB yet) (DT another)) (NNP Marlowe) (NN book)) (, ,) (NP (`` `) (NP (`` `) (NP (NNP The) (NNP Poodle) (NNPS Springs) (NNP Story)) (, ,) ('' ')) ('' ') (SBAR (WHNP (WDT which)) (S (VP (VBD seemed) (S (VP (TO to) (VP (VB go) (PP (IN beyond) (NP (NN parody))) (PP (IN into) (NP (NP (NN something)) (PP (IN like) (NP (NN burlesque)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (`` `) (NP (`` `) (NP (NNP Champ) (POS ')) ('' ') (NNP Chandler)) (POS 's)) (JJ last) (NN pitch)) (, ,) (ADVP (RB apparently)) (, ,) (VP (VBD was) (NP (DT a) (NN screwball))) (. .)))
+
+(S1 (S (ADVP (RB Now)) (NP (NP (NNP Robert) (NNP Parker)) (, ,) (NP (NP (NN author)) (PP (IN of) (NP (NP (ADJP (JJ several) (JJS best)) (NNS sellers)) (VP (VBG featuring) (NP (NP (NNP Spenser)) (, ,) (NP (NP (DT a) (JJ contemporary) (JJ private) (NN eye)) (PP (IN in) (NP (DT the) (NNP Marlowe) (NN mold))))))))) (, ,)) (VP (VBZ has) (PP (IN with) (NP (NP (DT the) (NNS blessings)) (PP (IN of) (NP (DT the) (NNP Chandler) (NN estate))))) (VP (VBN been) (VP (VBN hired) (S (VP (TO to) (VP (VB complete) (`` `) (S (`` `) (NP (NNP The) (NNP Poodle) (NNPS Springs) (NNP Story))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NN result)) (, ,) (`` `) (S (NP (`` `) (NP (NNP Poodle) (NNPS Springs) (POS ')) ('' ') (PRN (-LRB- -LRB-) (NP (NNP Putnam) (POS 's)) (, ,) (NP (CD 288) (NNS pages)) (, ,) (NP ($ $) (CD 18.95)) (-RRB- -RRB-))) (VP (VBZ is) (NP (DT an) (JJ entertaining))) (, ,) (ADVP (RB easy)) (S (VP (TO to) (VP (VB read))))) (CC and) (S (NP (NP (RB fairly) (JJ graceful) (NN extension)) (PP (IN of) (NP (DT the) (NNP Marlowe) (NN chronicle))) (, ,)) (ADJP (JJ full) (PP (IN of) (NP (JJ hard-boiled) (NNS wisecracks) (CC and) (NNP California) (NN color))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBZ does) (RB not) (ADVP (RB quite)) (VP (VB have) (NP (NP (NNP Chandler) (POS 's)) (JJ special) (NN magic)) (: --) (ADVP (RB well)))))) (, ,) (PP (IN at) (NP (DT the) (NN end))) (, ,) (NP (DT neither)) (VP (VBD did) (NP (NNP Chandler))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (NP (DT the) (NN book)) (VP (VBZ begins)))) (, ,) (NP (DT a) (ADJP (RB newly) (VBN wed)) (NNP Marlowe)) (VP (VBZ roars) (PP (IN into) (NP (NP (DT the) (NN desert) (NN resort)) (PP (IN of) (NP (NP (NNP Poodle) (PRN (-LRB- -LRB-) (NP (NNP a.k.a) (. .) (NNP Palm)) (-RRB- -RRB-)) (NNP Springs)) (PP (IN at) (NP (NP (DT the) (NN wheel)) (PP (IN of) (NP (DT a) (NNP Cadillac) (NNP Fleetwood)))))))))) (. .)))
+
+(S1 (S (NP (PRP$ His) (NN bride)) (VP (VBZ is) (NP (NP (DT the) (ADJP (JJ rich) (CC and) (JJ beautiful)) (NNP Linda) (NNP Loring)) (, ,) (NP (NP (DT a) (NN character)) (SBAR (WHNP (WP who)) (S (ADVP (RB also)) (VP (VBD appeared) (PP (IN in) (NP (NNP Chandler) (POS 's))) (S (`` `) (NP (`` `) (NP (DT The) (NNP Long) (NNP Goodbye) (POS ')) ('' ') (CC and) (`` `) (S (`` `) (NP (NNP Playback))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Philip) (CC and) (NNP Linda)) (VP (VP (VBP move) (PP (IN into) (NP (PRP$ her) (NN mansion)))) (CC and) (VP (MD ca) (RB n't) (VP (VB keep) (NP (PRP$ their) (NNS hands)) (PP (IN off) (NP (DT each) (JJ other))) (, ,) (PP (ADVP (RB even)) (IN in) (NP (NP (NN front)) (PP (IN of) (NP (DT the) (NNP Hawaiian\/Japanese) (NN houseman)))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NNS lovebirds)) (VP (VBP have) (NP (DT a) (NN conflict))) (. .)))
+
+(S1 (S (S (NP (PRP He)) (VP (VBZ wants) (S (VP (TO to) (VP (VB continue) (S (VP (VBG being) (NP (DT a) (JJ low-paid) (JJ private) (NN eye))))))))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBZ wants) (S (NP (PRP him)) (VP (TO to) (VP (VB live) (PRT (RP off)) (NP (NP (DT the) (CD million) (NNS dollars)) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN settled) (PP (IN on) (NP (PRP him))))))))))))) (. .)))
+
+(S1 (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NNP Chandler) (POS 's)) (NN setup))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Parker)) (VP (VBZ spins) (NP (PRP it)) (PP (IN into) (NP (NP (DT a) (ADJP (RB pretty) (JJ satisfying)) (NN tale)) (VP (VBG involving) (NP (NP (NNP Poodle) (NNPS Springs) (JJ high) (NN life)) (, ,) (NP (NNP Hollywood) (JJ low) (NN life)) (CC and) (NP (NP (JJ various) (NN folk)) (SBAR (WHNP (WP who)) (S (VP (VB hang) (NP (PRP$ their) (NNS hats)) (PP (IN in) (NP (DT both) (NNS worlds)))))))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (JJ supporting) (NN lineup)) (VP (VBZ is) (ADJP (JJ solid)))) (, ,) (S (NP (DT the) (NN patter)) (VP (VBZ is) (ADJP (JJ amusing)))) (CC and) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB even)) (NP (NP (DT a) (NN cameo)) (PP (IN by) (NP (NP (NNP Bernie) (NNP Ohls)) (, ,) (NP (NP (DT the) (`` `) (NP (`` `) (JJ good) (NN cop) ('' ')) ('' ') (PP (IN of) (NP (JJ previous) (NNP Chandler) (NNS books)))) (SBAR (WHNP (WP who)) (S (ADVP (RB still)) (VP (VBZ does) (RB n't) (VP (VB hesitate) (S (VP (TO to) (VP (VB have) (S (NP (NNP Marlowe)) (VP (VBN jailed) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (NNS suits) (NP (PRP$ his) (NNS purposes)))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN style)) (ADVP (IN throughout)) (VP (VBZ bears) (NP (NP (DT a) (JJ strong) (NN resemblance)) (PP (TO to) (NP (NP (NNP Chandler) (POS 's)) (NN prose)))) (PP (IN at) (NP (PRP$ its) (JJS most))) (VP (VBN pared) (PRT (RP down)))) (. .)))
+
+(S1 (S (ADVP (DT All) (VBD told)) (, ,) (NP (NNP Mr.) (NNP Parker)) (VP (VBZ does) (NP (NP (DT a) (JJR better) (NN job)) (PP (IN of) (S (VP (VBG making) (NP (DT a) (NN novel)) (ADVP (IN out) (PP (IN of) (NP (DT this) (VBN abandoned) (NN fragment))))))) (SBAR (IN than) (S (NP (NN anyone)) (VP (MD might) (VP (VB have) (VP (VBN had) (NP (DT a) (NN right) (S (VP (TO to) (VP (VB expect)))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (EX there)) (VP (VBP are) (NP (NP (NNS grounds)) (PP (IN for) (NP (NN complaint))))) (. .)))
+
+(S1 (S (PP (IN At) (NP (CD one) (NN point))) (, ,) (S (NP (DT the) (NN reader)) (VP (VBZ is) (ADVP (NP (CD two) (NNS steps)) (RB ahead) (PP (IN of) (NP (NNP Marlowe)))) (PP (IN in) (S (VP (VBG catching) (PRT (RP on)) (PP (TO to) (NP (DT a) (JJ double) (NN identity) (NN scam)))))))) (: --) (CC and) (S (NP (NNP Marlowe)) (VP (VBZ is) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (NP (DT the) (NN pro)))))))) (. .)))
+
+(S1 (S (S (ADJP (RBR More) (JJ bothersome))) (, ,) (NP (EX there)) (VP (VBP are) (NP (JJ several) (JJ apparent) (NNS anachronisms))) (. .)))
+
+(S1 (S (NP (NP (NN Contact) (NNS lenses)) (, ,) (NP (NN tank) (NNS tops)) (, ,) (NP (NP (NNS prostitutes)) (VP (ADVP (RB openly)) (VBG working) (NP (NP (DT the) (NNS streets)) (PP (IN of) (NP (NNP Hollywood)))))) (CC and) (NP (DT the) (NNP Tequila) (NN Sunrise) (NN cocktail))) (DT all) (VP (VBP seem) (PP (IN out) (PP (IN of) (NP (NP (NN place)) (PP (IN in) (NP (DT the) (CD 1950s))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (ADJP (RB little) (JJR more)) (NN care)) (PP (IN in) (S (VP (VBG re-creating) (NP (NP (NNP Marlowe) (POS 's)) (NN universe)))))) (VP (MD would) (VP (VB have) (VP (VBN made) (S (NP (DT the) (NN book)) (ADJP (ADVP (IN that) (RB much)) (RBR more) (JJ enjoyable)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Nolan)) (VP (VBZ is) (NP (NP (DT a) (JJ contributing) (NN editor)) (PP (IN at) (NP (NNP Los) (NNP Angeles) (NN Magazine))))) (. .)))
+

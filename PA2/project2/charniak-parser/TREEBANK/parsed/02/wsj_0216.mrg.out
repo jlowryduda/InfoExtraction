@@ -1,0 +1,6 @@
+(S1 (S (NP (NNP Stewart) (CC &) (NNP Stevenson) (NNPS Services) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD received) (NP (NP (CD two) (NNS contracts)) (VP (VBG totaling) (NP (QP ($ $) (CD 19) (CD million))))) (S (VP (TO to) (VP (VB build) (NP (JJ gas-turbine) (NNS generators))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ separate) (NNS contracts)) (VP (VBD were) (PP (IN from) (NP (NNP Paragould) (NNP Light) (CC &) (NNP Water) (NNP Commission)) (, ,) (NP (NP (DT a) (NN utility)) (PP (IN in) (NP (NP (NP (NNP Paragould)) (, ,) (NP (NNP Ark.)) (, ,)) (CC and) (NP (NP (NNP PSE) (NNP Inc.)) (, ,) (NP (NP (DT a) (JJ cogeneration-plant) (NN operator)) (PP (IN in) (NP (NNP Houston)))))))))) (. .)))
+
+(S1 (S (NP (NNP Stewart) (CC &) (NNP Stevenson)) (VP (VBZ makes) (NP (NP (NN equipment)) (VP (VBN powered) (PP (IN with) (NP (NN diesel) (CC and) (NN gas) (NNS turbines)))))) (. .)))
+

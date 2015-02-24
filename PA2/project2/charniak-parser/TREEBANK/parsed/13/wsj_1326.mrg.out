@@ -1,0 +1,6 @@
+(S1 (S (NP (NP (NNP Norimasa) (NNP Furuta)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP Japan) (POS 's)) (NNP Mazda) (NNP Motor) (NNP Corp.)))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (JJ Japanese) (NN car) (NN maker)) (VP (VBZ is) (VP (VBG planning) (S (NP (NP (JJ joint) (NN production)) (PP (IN with) (NP (NP (NNP Ford) (NNP Motor) (NNP Co.)) (PP (IN in) (NP (NNP Europe)))))) (ADVP (RB ahead) (PP (IN of) (NP (NP (DT the) (NNP European) (NNP Community) (POS 's)) (CD 1992) (NN integration)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Furuta)) (VP (VP (VBD did) (RB n't) (VP (VB disclose) (NP (NP (JJ further) (NNS details)) (PP (IN of) (NP (NP (DT the) (NN arrangement)) (PP (IN at) (NP (DT a) (NN news) (NN conference)))))))) (, ,) (CC but) (VP (VBD said) (SBAR (S (NP (DT the) (NN project)) (VP (MD would) (VP (VB be) (VP (VBN undertaken) (PP (IN with) (NP (NP (NNP Ford) (POS 's)) (NNP European) (NN subsidiary)))))))))) (. .)))
+
+(S1 (S (NP (DT A) (NNP Ford) (NN official)) (VP (VBD confirmed) (PP (IN in) (NP (NNP Tokyo))) (SBAR (IN that) (S (NP (DT the) (NNP U.S.) (NN motor) (NN vehicle) (NN maker)) (VP (VBZ is) (VP (VBG studying) (NP (PDT such) (DT an) (NN arrangement))))))) (. .)))
+

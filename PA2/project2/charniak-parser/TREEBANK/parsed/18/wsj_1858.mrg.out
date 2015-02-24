@@ -1,0 +1,8 @@
+(S1 (S (NP (NP (NNP Silicon) (NNP Graphics) (NNP Inc.) (POS 's)) (JJ first-quarter) (NN profit)) (VP (VBD rose) (ADVP (RB sharply)) (PP (TO to) (NP (NP (QP ($ $) (CD 5.2) (CD million))) (, ,) (CC or) (NP (NP (CD 28) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 1) (CD million))) (, ,) (CC or) (NP (NP (CD six) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RB ago)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (NN computer) (NNS workstations)))) (VP (VBD said) (SBAR (S (NP (NP (DT a) (NN surge)) (PP (IN of) (NP (NN government) (NNS orders)))) (VP (VBD contributed) (PP (TO to) (NP (DT the) (NN increase))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD rose) (NP (CD 95) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 86.4) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 44.3) (CD million))) (ADVP (NP (DT the) (NN year)) (RBR earlier)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ national) (JJ over-the-counter) (NN trading))) (, ,) (NP (DT the) (NN company)) (VP (VBD closed) (NP (NN yesterday)) (PP (IN at) (NP (NP ($ $) (CD 23.25)) (NP (DT a) (NN share)))) (, ,) (ADVP (RB down) (NP (CD 25) (NNS cents)))) (. .)))
+

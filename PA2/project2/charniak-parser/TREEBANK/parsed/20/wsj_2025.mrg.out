@@ -1,0 +1,42 @@
+(S1 (S (NP (DT The) (NNS days)) (VP (MD may) (VP (VB be) (VP (VBN numbered) (PP (IN for) (NP (NP (JJ animated) (NNS shows)) (VP (VBG featuring) (NP (NP (NNP Alf)) (, ,) (NP (DT the) (NNP Karate) (NNP Kid)) (CC and) (NP (DT the) (NNPS Chipmunks))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP NBC)) (, ,) (NP (NP (NP (DT a) (NN leader)) (PP (IN in) (NP (NN morning) (, ,) (NN prime-time) (CC and) (JJ late) (NN night) (NNS programs)))) (CC but) (NP (NP (DT an) (NN also-ran)) (PP (IN on) (NP (NNP Saturday) (NNS mornings))))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNS children)) (VP (VBP rule) (NP (DT the) (NN TV) (NN set))))) (, ,)) (VP (VBZ is) (VP (VBG contemplating) (S (VP (VBG getting) (PP (IN out) (PP (IN of) (NP (DT the) (NN cartoon) (NN business)))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead)) (PRN (, ,) (S (NP (NN network) (NNS officials)) (VP (VBP say))) (, ,)) (NP (PRP it)) (VP (MD may) (`` `) (INTJ (`` `) (UH counterprogram) ('' ')) ('' ') (PP (IN with) (NP (NP (NP (NNS shows)) (PP (IN for) (NP (NP (DT an) (NN audience)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (ADVP (RB virtually)) (VBN ignored) (PP (IN in) (NP (DT that) (NN time) (NN period)))))))))) (: :) (NP (NNS adults))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN talk)) (PP (IN of) (NP (DT some) (NN revamping)))))) (CC and) (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB certainly)) (VP (VBG heading) (PP (IN in) (NP (NP (DT the) (NN direction)) (PP (IN of) (NP (ADJP (JJR less) (CC and) (JJR less)) (NN animation))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NP (NNP Joseph) (NNP S.) (NNP Cicero)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (NP (NN finance) (CC and) (NN administration)) (PP (IN for) (NP (NP (NNP National) (NNP Broadcasting) (NNP Co.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP General) (NNP Electric) (NNP Co)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Cicero)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (NNP NBC) (NNP Entertainment) (NN president) (NNP Brandon) (NNP Tartikoff)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD declined) (S (VP (TO to) (VP (VB be) (VP (VBN interviewed)))))))) (, ,)) (VP (VBZ is) (`` `) (VP (VP (`` `) (VBG looking) (PP (IN at) (NP (NNS options))) (ADVP (RB now))) (CC and) (VP (MD may) (VP (VB put) (NP (DT some) (NNS things)) (PP (IN into) (NP (NP (DT the) (NN schedule)) (PP (IN by) (NP (NN mid-season)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VBD declined) (S (VP (TO to) (VP (VB elaborate))))) (. .)))
+
+(S1 (S (NP (NP (NNP NBC) (POS 's)) (NNS options)) (VP (MD could) (VP (VB range) (PP (PP (IN from) (NP (JJ news-oriented) (NN programming))) (PP (TO to) (NP (NNS sports) (NNS shows)))) (, ,) (SBAR (IN although) (S (NP (DT the) (NN network)) (VP (VBD declined) (S (VP (TO to) (VP (VB comment))))))))) (. .)))
+
+(S1 (S (NP (NP (CD One) (JJ major) (NNP NBC) (NN affiliate)) (, ,) (NP (NP (NNP KCRA)) (PP (IN in) (NP (NNP Sacramento)))) (, ,)) (VP (VBZ plans) (S (VP (TO to) (VP (VP (VB cancel) (NP (DT the) (NNP NBC) (NNP Saturday) (NN morning) (NN line-up)) (PP (IN as) (PP (IN of) (NP (NNP January))))) (CC and) (VP (VB replace) (NP (PRP it)) (PP (IN with) (NP (DT a) (JJ local) (NN newscast)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ one-hour) (NN program)) (VP (MD will) (VP (VB be) (VP (VBN repeated) (PP (IN with) (NP (NP (NNS updates)) (PP (IN throughout) (NP (NNP Saturday) (NNS mornings)))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (PRP We)) (VP (VBP feel) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT an) (NN opportunity)) (PP (IN for) (NP (NP (DT an) (NN audience)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (RB not) (VP (VBG being) (VP (VBN served) (PP (IN by) (NP (DT any) (NN network)))))))))))))))) (, ,) (CC so) (S (NP (PRP we)) (VP (VBP want) (S (VP (TO to) (VP (VB take) (NP (DT the) (NN lead))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NP (NNP KCRA) (POS 's)) (JJ general) (NN manager)) (, ,) (NP (NNP John) (NNP Kueneke))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP do) (RB n't) (VP (VB need) (NP (NNS cartoons)) (ADVP (RB anymore))))) (. .)))
+
+(S1 (S (NP (PRP They)) (ADVP (RB only)) (VP (VBD accounted) (PP (IN for) (NP (NP (CD 5) (NN %)) (, ,) (ADVP (IN at) (JJS best)) (, ,) (PP (IN of) (NP (NP (DT the) (NN station) (POS 's)) (JJ total) (NNS revenues)))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT An) (NNP NBC) (NN spokesman)) (VP (VP (VBZ says) (SBAR (S (NP (DT the) (NN network)) (VP (MD will) (`` `) (VP (`` `) (ADVP (RB closely)) (VB monitor) ('' ') ('' ') (NP (DT the) (NNP Sacramento) (NN situation))))))) (, ,) (CC and) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (NP (DT the) (JJ only) (NN station)) (PP (TO to) (NP (NN defect))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Spokesmen)) (PP (IN for) (NP (NP (DT the) (NN television) (NNS networks)) (PP (IN of) (NP (NP (NNP CBS) (NNP Inc.)) (CC and) (NP (NNP Capital) (NNP Cities\/ABC) (NNP Inc.))))))) (, ,) (VP (VBP say) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (DT no) (NNS plans) (S (VP (TO to) (VP (VB alter) (NP (NP (NP (DT the) (NNS children) (POS 's)) (NN line-up)) (PP (IN on) (NP (NNP Saturday) (NNS mornings)))))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJ youthful) (NN audience)) (PP (IN for) (NP (NNP Saturday) (NN programming)))) (VP (VBZ is) (ADVP (RB no) (RB longer)) (ADJP (JJ dependent) (PP (IN on) (NP (DT the) (NNS networks))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ has) (VP (VBN been) (NP (NP (NP (DT a) (NN surge)) (PP (IN in) (NP (NP (JJ syndicated) (NNS children) (POS 's)) (NNS shows))) (PP (TO to) (NP (JJ independent) (NNS stations)))) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NP (NN competition)) (PP (IN from) (NP (NNS videocassettes))))) (PP (PP (IN for) (NP (NNS kids))) (CC and) (PP (IN from) (NP (NP (NN cable) (NNS outlets)) (PP (JJ such) (IN as) (NP (NP (NNP Nickelodeon)) (CC and) (NP (DT the) (NNP Disney) (NNP Channel))))))))) (. .)))
+
+(S1 (S (S (PP (IN At) (NP (DT the) (JJ same) (NN time))) (, ,) (NP (EX there)) (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN market)) (PP (IN for) (NP (JJ news-oriented) (NN programming))))))))) (: ;) (S (NP (NP (NNP Turner) (NNP Broadcasting) (NNP System) (NNP Inc.) (POS 's)) (NNP Cable) (NNP News) (NNP Network)) (VP (VBZ has) (NP (NP (PRP$ its) (JJS highest) (NNS ratings) (, ,) (ADVP (JJ outside) (PP (IN of) (NP (JJ prime) (NN time)))) (, ,)) (PP (IN on) (NP (NNP Saturday) (NNS mornings)))))) (. .)))
+
+(S1 (S (NP (NNP NBC)) (VP (VBZ has) (PP (IN on) (NP (JJ previous) (NNS occasions))) (VP (VBN considered) (S (VP (VBG replacing) (NP (NNS cartoons)) (PP (IN with) (NP (NP (DT a) (NNP Saturday) (NN version)) (PP (IN of) (NP (`` `) (NP (`` `) (NP (NNP Today)) (, ,) ('' ')) ('' ') (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN produced) (PP (IN by) (NP (NNP NBC) (NNP News))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NP (DT The) (NN network) (POS 's)) (JJ own) (NN production) (NN company)) (, ,) (NP (NNP NBC) (NNPS Productions)) (, ,)) (VP (VBZ supplies) (NP (NP (DT a) (JJ half-hour) (JJ family-oriented) (NN show)) (VP (VBN titled) (`` `) (VP (`` `) (VBN Saved) (PP (IN By) (NP (NNP The) (NNP Bell))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP NBC) (NNPS Productions) (CC or) (NNP NBC) (NNP News)) (VP (MD could) (VP (VB supply) (NP (DT the) (NN network)) (PP (IN with) (NP (JJ other) (NNP Saturday) (NN morning) (NNS shows))) (, ,) (NP (NP (DT a) (NN move)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB control) (NP (NNS costs))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Animated) (NNS shows)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (VP (VBN made) (PP (IN by) (NP (JJ outside) (NN production) (NNS companies))))))) (, ,)) (VP (VBP cost) (NP (NP (DT the) (NN network)) (PP (IN about) (NP (NP ($ $) (CD 300,000)) (PP (IN per) (NP (NN episode))))))) (. .)))
+

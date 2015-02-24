@@ -1,0 +1,18 @@
+(S1 (S (NP (DT A) (NN state) (JJ appellate) (NN court)) (VP (VBD reinstated) (NP (NP (DT the) (CD 1987) (NNS convictions)) (PP (IN of) (NP (NP (NNP Pymm) (NNP Thermometer) (NNP Corp.)) (CC and) (NP (NP (CD two)) (PP (IN of) (NP (PRP$ its) (NNS executives)))))) (PP (IN on) (NP (NP (NNS charges)) (PP (IN of) (NP (NN assault))) (PP (IN for) (S (VP (VBG exposing) (NP (NNS workers)) (PP (TO to) (NP (JJ toxic) (NNP mercury) (NNS vapors)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN indictment)) (VP (VBD charged) (SBAR (IN that) (S (NP (NNP Pymm)) (VP (VBD operated) (NP (NP (DT a) (NN machine)) (SBAR (S (VP (TO to) (VP (VP (VB crush) (NP (JJ broken) (NNS thermometers))) (CC and) (VP (VB recover) (NP (DT the) (NNP mercury)) (PP (IN in) (NP (DT an) (JJ illegal) (NN workroom))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS charges)) (VP (VBD said) (SBAR (IN that) (S (NP (CD one) (NN worker)) (VP (VBD suffered) (NP (NP (JJ permanent) (NN brain) (NN damage)) (PP (IN from) (NP (NNP mercury) (NN exposure)))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN judge)) (VP (VBG handling) (NP (DT the) (NN case)) (PP (IN in) (NP (NP (NN state) (NNP Supreme) (NNP Court)) (, ,) (NP (DT a) (NN trial) (NN court)) (, ,))))) (VP (VBD had) (VP (VBN tossed) (PRT (RP out)) (NP (DT the) (NN jury) (NNS verdicts)) (, ,) (S (VP (VBG ruling) (SBAR (IN that) (S (NP (DT the) (NN matter)) (VP (MD should) (VP (VB have) (VP (VBN been) (VP (VBN handled) (PP (IN under) (NP (JJ federal) (NNP Occupational) (NNP Safety) (CC and) (NNP Health) (NNP Administration) (NNS rules))))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (NP (DT the) (NNP Appellate) (NNP Division)) (PP (IN of) (NP (NNP State) (NNP Supreme) (NNP Court)))) (VP (VBD held) (SBAR (IN that) (S (NP (JJ federal) (NN law)) (VP (VBD did) (RB n't) (VP (VB pre-empt) (NP (NP (DT the) (NNS states)) (PP (IN from) (NP (PDT such) (DT a) (NN prosecution))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Elizabeth) (NNP Holtzman)) (, ,) (NP (NP (NN district) (NN attorney)) (PP (IN for) (NP (NP (NNP Brooklyn)) (, ,) (NP (NNP N.Y.))))) (, ,)) (VP (VBD said) (, ,) (`` `) (S (`` `) (NP (DT The) (JJ appellate) (NN division)) (VP (VBZ has) (VP (VBN agreed) (PP (IN with) (NP (PRP$ our) (NN view))) (SBAR (IN that) (S (PP (IN despite) (NP (JJ federal) (JJ worker-safety) (NNS laws))) (, ,) (NP (NN state) (NNS prosecutors)) (VP (VBP have) (NP (DT the) (NN power) (S (VP (TO to) (VP (VB protect) (NP (VBG working) (NNS people))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNS Lawyers)) (PP (IN for) (NP (NP (DT the) (NN company)) (CC and) (NP (NNS executives))))) (VP (MD could) (RB n't) (VP (VB be) (VP (VBN reached) (PP (IN for) (NP (NN comment)))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS executives)) (VP (VBP face) (NP (NP (NP (QP (CD five) (TO to) (CD 15)) (NNS years)) (PP (IN in) (NP (NN prison)))) (CC and) (NP (NP (NNS fines)) (PP (IN of) (NP (NP (QP ($ $) (CD 5,000) (CC or) (RB double)) (DT the) (NN profit)) (VP (VBN made) (PP (IN by) (S (VP (VBG failing) (S (VP (TO to) (VP (VB comply) (PP (IN with) (NP (DT the) (NNS rules))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (MD could) (VP (VB be) (VP (VBN fined) (NP (NP (DT a) (NN maximum)) (PP (IN of) (NP ($ $) (CD 10,000))))) (, ,) (CC or) (VP (VB double) (NP (DT the) (NN profit))))) (. .)))
+

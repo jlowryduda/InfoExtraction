@@ -1,0 +1,40 @@
+(S1 (S (NP (PRP They)) (VP (VBP want) (NP (NP (JJ late-night) (NNS shuttles)) (PP (TO to) (NP (DT the) (NN biology) (NNS labs))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP want) (NP (DT a) (JJ 24-hour) (NN library))) (. .)))
+
+(S1 (S (CC And) (PP (IN like) (NP (NP (NN college) (NNS radicals)) (ADVP (RB everywhere)))) (, ,) (NP (PRP they)) (VP (VBP are) (VP (VBG talking) (PP (IN about) (NP (NP (DT a) (NN demonstration)) (: --) (SBAR (WHADVP (WRB where)) (S (NP (NNS protesters)) (VP (MD would) (VP (VP (VB gather) (ADVP (RB quietly)) (PP (IN near) (NP (DT the) (NN science) (NN building)))) (CC and) (VP (VB raise) (NP (PRP$ their) (NNS hands))) (, ,) (NP (NN classroom) (NN style)))))))))) (. .)))
+
+(S1 (S (NP (JJ Such)) (VP (VBZ is) (NP (NP (DT the) (NN fiber)) (PP (IN of) (NP (DT the) (NN wool) (SBAR (IN that) (S (NP (JJ woolly) (NNS intellectuals)) (VP (VB let) (S (VP (VB fly) (PP (IN at) (NP (NP (NNS gatherings)) (PP (IN of) (NP (NP (NP (NNP Harvard) (NNP University) (POS 's)) (JJ new) (NNP Society)) (PP (IN of) (NP (NP (NNPS Nerds) (CC and) (NNPS Geeks)) (, ,) (CC or) (NP (NN SONG))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (NNS SONGsters)) (VP (VBP are) (ADJP (JJ mad) (PP (IN as) (NP (NN heck))) (PP (IN about) (NP (NN campus) (NN anti-intellectualism)))))) (CC and) (S (NP (PRP they)) (VP (VBP are) (RB n't) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP it)) (ADVP (ADVP (RB anymore)) (, ,) (ADVP (IN at) (JJS least) (RB not))) (PP (IN without) (S (VP (VBG trying) (ADVP (NP (DT a) (JJ few) (ADJP (RB really) (JJ neat)) (NNS ideas)) (RB first))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (S (S (NP (PRP We)) (VP (MD could) (VP (VB have) (VP (VBN called) (S (NP (PRP ourselves)) (NP (DT the) (JJ Academic) (JJ Intellectual) (NN Society))))))) (, ,) (CC but) (S (NP (RB then) (NN everyone)) (VP (MD would) (VP (VB have) (VP (VBD said) (, ,) (`` `) (INTJ (UH Oh))))))) (, ,) (NP (PRP you)) (VP (VBP mean) (NP (DT the) (JJ nerd-and-geek) (NN club)))) (, ,) ('' ') ('' ') ('' ') (NP (NP (NNP Leonid) (NNP Fridman)) (, ,) (NP (NP (NN SONG) (POS 's)) (JJ graduate-student) (NN adviser)) (, ,)) (VP (VBD told) (NP (CD 19) (NNS attendees)) (PP (IN at) (NP (NP (DT the) (NN club) (POS 's)) (JJ inaugural) (NN meeting))) (NP (RBR earlier) (DT this) (NN month))) (. .)))
+
+(S1 (S (NP (NN Membership)) (VP (VBZ has) (ADVP (IN since)) (VP (VBN swelled) (PP (TO to) (NP (QP (IN between) (CD 20) (CC and) (CD 25)))))) (. .)))
+
+(S1 (S (NP (DT Some) (NNS people)) (VP (MD may) (VP (VB think) (PP (IN of) (NP (NP (NNS nerds)) (PP (IN as) (NP (NP (JJ calculator-toting) (, ,) (ADJP (RB socially) (JJ awkward)) (NNS individuals)) (PP (IN with) (NP (NP (JJ shirt-pocket) (NNS liners)) (PP (IN for) (NP (NP (PRP$ their) (NNS pencils)) (CC and) (NP (NP (DT a) (NN preoccupation)) (PP (IN with) (NP (NP (NNS computers)) (CC and) (NP (NP (NNS matters)) (ADJP (JJ numerical)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Geeks)) (, ,) (PP (IN by) (NP (QP (IN at) (JJS least) (CD one)) (NN definition))) (, ,) (VP (VBP are) (NP (JJ chicken-mutilating) (NN circus) (NNS freaks))) (. .)))
+
+(S1 (S (CC But) (NP (NP (NN SONG) (NN founder) (NNP Jeremy) (NNP Kahn)) (, ,) (ADJP (NP (DT a) (NNP Harvard)) (JJ junior)) (, ,)) (VP (VBZ thinks) (PP (IN of) (NP (NNS nerds) (CC and) (NNS geeks))) (PP (RBR more) (IN as) (NP (`` `) (NP (`` `) (NP (NNS nonconformists)) (, ,) ('' ')) ('' ') (ADVP (IN albeit) (PP (IN with) (NP (DT a) (JJ studious) (NN bent))))))) (. .)))
+
+(S1 (S (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (NN group) (POS 's)) (JJ first) (NNS projects)))) (VP (VBZ is) (NP (DT a) (`` `) (NP (`` `) (JJ procrastination) (JJ hot) (NN line) ('' ')) ('' ') (SBAR (IN that) (S (NP (NNS students)) (VP (MD could) (VP (VB call) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP have) (NP (DT an) (NN urge) (S (VP (TO to) (VP (VB delay) (NP (VBG studying))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN club)) (VP (VBZ plans) (S (VP (TO to) (VP (VB show) (NP (NP (JJ nerdy) (NNS movies)) (, ,) (PP (JJ such) (IN as) (NP (`` `) (NP (`` `) (JJ Real) (NN Genius) (, ,) ('' ')) ('' ') (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (S (NP (NNS physics) (NNS whizzes)) (VP (VBP pop) (NP (NN corn)) (PP (IN with) (NP (NNS lasers))))) (: ;) (CC and) (S (ADVP (RB naturally)) (, ,) (NP (DT the) (`` `) (NX (`` `) (NX (NX (NN Revenge)) (PP (IN of) (NP (DT the) (NNPS Nerds)))) (, ,) ('' ')) ('' ')) (NP (NP (DT a) (NN tale)) (PP (IN of) (NP (NP (NN college) (NNS males)) (PP (IN with) (NP (NP (NN runny) (NNS noses)) (CC and) (NP (JJ ill-fitting) (NNS pants))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ its) (`` `) (NP (`` `) (RBR more) (JJ ambitious) (NNS goals) ('' ')) ('' ')))) (VP (VBZ is) (S (VP (TO to) (VP (VB get) (NP (NP (NNP Jaime) (NNP Escalante)) (, ,) (NP (NP (DT the) (NNP Los) (NNP Angeles) (NN high-school) (NN mathematics) (NN teacher)) (VP (VBN featured) (PP (IN in) (NP (DT the) (NN film) (S (`` `) (S (`` `) (S (VP (VB Stand) (CC and) (VB Deliver))) (, ,) ('' ')) ('' ') (VP (TO to) (VP (VB come) (PP (TO to) (NP (NNP Harvard))) (PP (IN for) (NP (DT a) (NN guest) (NN lecture))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Nerds) (CC and) (NNS geeks)) (ADVP (RB sometimes)) (VP (VBP find) (NP (PRP themselves)) (NP (NP (DT a) (NN bit)) (VP (VBN isolated) (PP (IN at) (NP (NNP Harvard)))))) (. .)))
+
+(S1 (S (IN So) (NP (NNP Mr.) (NNP Kahn)) (VP (VBZ says) (SBAR (S (NP (JJ high) (NN priority)) (VP (VBZ is) (VP (VBG being) (VP (VBN given) (PP (TO to) (S (VP (VBG creating) (NP (NP (DT a) (JJ computerized) (NN matchmaking) (NN service)) (`` `) (SBARQ (`` `) (WHADVP (WRB where)) (S (ADVP (RB instead) (PP (IN of) (S (VP (VBG being) (VP (VBN matched) (PP (IN for) (NP (NN eye) (NN color)))))))) (, ,) (NP (PRP you)) (VP (MD could) (VP (VB be) (VP (VBN matched) (PP (IN for) (NP (JJ similar) (JJ intellectual) (NNS interests)))))) (. .) ('' '))) ('' ')))))))))))))
+
+(S1 (FRAG (PP (IN For) (NP (NN instance))) (. ?)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP I)) (VP (VBP 'm) (NP (DT a) (NN math) (NN major)))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB know) (PP (IN about) (NP (NN psychobiology)))))))) (. .)))
+
+(S1 (S (ADVP (RB Hopefully)) (, ,) (NP (PRP I)) (VP (MD 'd) (VP (VB find) (NP (NP (NN someone)) (PP (IN in) (NP (NN psychobiology))) (SBAR (WHNP (WP who)) (S (VP (VBD wanted) (S (VP (TO to) (VP (VB know) (NP (QP (JJR more) (IN about) (NN mathematics)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP It)) (VP (MD could) (VP (VB work))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (S (VP (VBG finding) (NP (DT a) (NN volunteer) (S (VP (TO to) (VP (VB write) (NP (DT the) (NN computer) (NN program)))))))) (VP (VBZ is) (RB n't) (NP (DT a) (NN problem))) (. .)))
+

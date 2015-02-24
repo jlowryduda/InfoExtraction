@@ -1,0 +1,26 @@
+(S1 (S (NP (NP (NP (DT The) (NN nation) (POS 's)) (JJS largest) (NN pension) (NN fund)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ oversees) (NP (NP (QP ($ $) (CD 80) (CD billion))) (PP (IN for) (NP (NN college) (NNS employees))))))) (, ,)) (VP (VBZ plans) (S (VP (TO to) (VP (VB offer) (NP (CD two) (JJ new) (NN investment) (NNS options)) (PP (TO to) (NP (PRP$ its) (QP (CD 1.2) (CD million)) (NNS participants))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS Teachers) (NN Insurance) (CC and) (NN Annuity)) (NP (NNP Association-College) (NNP Retirement) (NNS Equities) (NN Fund))) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB introduce) (NP (NP (NP (DT a) (NN stock) (CC and) (NN bond) (NN fund)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB invest) (PP (IN in) (NP (`` `) (ADJP (`` `) (RB socially) (JJ responsible) ('' ')) ('' ') (NNS companies)))))))) (, ,) (CC and) (NP (DT a) (NN bond) (NN fund)))))))) (. .)))
+
+(S1 (S (NP (DT Both) (NNS funds)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB begin) (NP (NN operation)) (PP (IN around) (NP (NNP March) (CD 1))) (, ,) (ADJP (JJ subject) (PP (TO to) (NP (NNP Securities) (CC and) (NNP Exchange) (NNP Commission) (NN approval))))))))) (. .)))
+
+(S1 (S (SBAR (IN For) (S (NP (PRP$ its) (NNS employees)) (VP (TO to) (VP (VB sign) (PRT (RP up)) (PP (IN for) (NP (DT the) (NNS options))))))) (, ,) (NP (DT a) (NN college)) (ADVP (RB also)) (VP (MD must) (VP (VB approve) (NP (DT the) (NN plan)))) (. .)))
+
+(S1 (S (NP (DT Some) (CD 4,300) (NNS institutions)) (VP (VBP are) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN pension) (NN fund))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ new) (NNS options)) (VP (VBP carry) (PRT (RP out)) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT an) (NN agreement)) (SBAR (WHNP (WDT that)) (S (NP (DT the) (NN pension) (NN fund)) (, ,) (PP (IN under) (NP (NN pressure) (S (VP (VP (TO to) (VP (VB relax) (NP (PRP$ its) (JJ strict) (NN participation) (NNS rules)))) (CC and) (VP (TO to) (VP (VB provide) (NP (JJR more) (NN investment) (NNS options)))))))) (, ,) (VP (VBD reached) (PP (IN with) (NP (DT the) (NNP SEC))) (PP (IN in) (NP (NNP December)))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ new) (`` `) (ADJP (`` `) (JJ social) (NN choice) ('' ')) ('' ') (NN fund)) (VP (MD will) (VP (VBP shun) (NP (NP (NNS securities)) (PP (IN of) (NP (NP (NNS companies)) (VP (VBN linked) (PP (TO to) (NP (NP (NNP South) (NNP Africa)) (, ,) (NP (NP (JJ nuclear) (NN power)) (PP (CC and) (PP (IN in) (NP (DT some) (NNS cases))))) (, ,) (NP (NNP Northern) (NNP Ireland)))))))))) (. .)))
+
+(S1 (S (S (ADVP (RB Also)) (VP (VBN excluded))) (VP (MD will) (VP (VB be) (NP (NP (NNS investments)) (PP (IN in) (NP (NP (NNS companies)) (PP (IN with) (NP (NP (`` `) (ADJP (`` `) (JJ significant) ('' ')) ('' ') (NN business)) (VP (VBG stemming) (PP (IN from) (NP (NP (NNS weapons) (NN manufacture)) (, ,) (NP (JJ alcoholic) (NNS beverages)) (CC or) (NP (NN tobacco)))))))))))) (. .)))
+
+(S1 (S (NP (NP (CD Sixty) (NN percent)) (PP (IN of) (NP (DT the) (NN fund)))) (VP (MD will) (VP (VB be) (ADJP (VBN invested) (PP (IN in) (NP (NNS stocks)))) (, ,) (SBAR (IN with) (S (NP (DT the) (NN rest)) (VP (VBG going) (PP (IN into) (NP (NP (NNS bonds)) (CC or) (NP (JJ short-term) (NNS investments))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN bond) (NN fund)) (VP (MD will) (VP (VB invest) (PP (IN in) (NP (NP (NP (ADJP (JJ high-grade) (CC or) (JJ medium-grade)) (NNS bonds)) (, ,) (NP (NNS mortgages)) (CC or) (NP (JJ asset-backed) (NNS securities))) (, ,) (PP (VBG including) (NP (NP (QP (RB as) (JJ much) (IN as) (CD 15)) (NN %)) (PP (IN in) (NP (JJ foreign) (NNS securities))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN fund)) (ADVP (RB also)) (VP (MD might) (VP (VB buy) (CC and) (VB sell) (NP (NP (NNS futures) (CC and) (NNS options) (NNS contracts)) (, ,) (ADJP (JJ subject) (PP (TO to) (NP (NP (NN approval)) (PP (IN by) (NP (DT the) (NNP New) (NNP York) (NNP State) (NNP Insurance) (NNP Department))))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (CD two) (JJ new) (NNS features))) (, ,) (NP (NNS participants)) (VP (MD will) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VP (VB transfer) (NP (NN money)) (PP (PP (IN from) (NP (DT the) (JJ new) (NNS funds))) (PP (TO to) (NP (JJ other) (NN investment) (NNS funds))))) (CC or) (PRN (, ,) (SBAR (IN if) (S (NP (PRP$ their) (NNS jobs)) (VP (VBP are) (VP (VBN terminated))))) (, ,)) (VP (VB receive) (NP (NN cash)) (PP (IN from) (NP (DT the) (NNS funds)))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN investment) (NNS choices)) (VP (VBN offered) (PP (IN by) (NP (DT the) (NN pension) (NN fund))))) (ADVP (RB currently)) (VP (VBP are) (VP (VBN limited) (PP (TO to) (NP (NP (DT a) (NN stock) (NN fund)) (, ,) (NP (DT an) (NN annuity)) (CC and) (NP (DT a) (JJ money-market) (NN fund)))))) (. .)))
+

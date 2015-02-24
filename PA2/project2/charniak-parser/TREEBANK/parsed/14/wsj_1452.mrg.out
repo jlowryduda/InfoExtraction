@@ -1,0 +1,6 @@
+(S1 (FRAG (NP (JJ Former) (NNP U.N.) (NNP Ambassador) (NNP Jeane) (NNP Kirkpatrick)) (, ,) (PP (IN in) (NP (DT a) (NNP CNN) (`` `) (NP (`` `) (NNP Capital) (NN Gang) (POS ')) ('' ') (NN discussion))) (NP (NP (NNP Oct.) (CD 7)) (PP (IN of) (NP (NP (NNP House) (NN action)) (PP (IN on) (NP (JJ federal) (NN catastrophic-illness) (NN insurance)))))) (: :)))
+
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT this) (NN repeal)) (VP (VBD was) (NP (NP (NN kind)) (PP (IN of) (NP (DT a) (JJ thoughtless) (NN action))) (, ,) (PP (IN as) (NP (NP (DT a) (NN matter)) (PP (IN of) (NP (NN fact) (NNS ..))))) (. .)))))) (. .)))
+
+(S1 (S (S (NP (PRP They)) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB revisit) (NP (DT this) (NN issue)))))))) (, ,) (CC and) (S (NP (PRP they)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB revisit) (NP (PRP it)) (PP (IN before) (NP (JJ long))))))))) (. .)))
+

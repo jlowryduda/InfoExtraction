@@ -1,0 +1,94 @@
+(S1 (S (S (NP (NP (DT The) (NN rationale)) (PP (IN for) (S (VP (VBG responding) (PP (TO to) (NP (PRP$ your) (NNS customers) (POS '))))))) (VP (VBZ needs) (ADVP (ADVP (RBR faster)) (SBAR (IN than) (S (NP (DT the) (NN competition)) (MD can) (VP (VBZ is) (ADJP (JJ clear)))))))) (: :) (S (NP (PRP$ Your) (NN company)) (VP (MD will) (VP (VB benefit) (PP (IN in) (NP (NP (NP (NNS terms)) (PP (IN of) (NP (NN market) (NN share)))) (, ,) (NP (NN customer) (NN satisfaction)) (CC and) (NP (NN profitability))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN fact))) (, ,) (NP (NNS managers)) (NP (NN today)) (VP (VBP are) (ADVP (RB probably)) (ADJP (RBR more) (JJ aware) (PP (IN of) (S (VP (NN speed) (PP (IN as) (NP (DT a) (JJ competitive) (JJ variable))) (PP (IN than) (ADVP (RB ever) (RB before)))))))) (. .)))
+
+(S1 (S (ADVP (RB However)) (, ,) (PP (IN for) (NP (JJ many))) (, ,) (NP (NN managing) (NN speed)) (VP (VBZ does) (RB not) (VP (VB come) (ADVP (RB naturally)))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NP (JJS Most)) (PP (IN of) (NP (PRP us)))) (VP (VBD grew) (PRT (RP up)) (S (VP (VBG believing) (PP (IN in) (NP (NP (DT the) (NN axioms)) (`` `) (S (NP (NN Haste)) (VP (VBZ makes) (NP (NN waste)))) ('' ') (CC and) (`` `) (S (VP (VBP Do) (RB n't) (VP (VB cut) (NP (NNS corners))))) (, ,) ('' '))) (NP (NP (NNS ideas)) (SBAR (WHNP (WDT that)) (S (VP (VBP seem) (S (VP (TO to) (VP (VB run) (ADVP (RB counter) (PP (TO to) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN managing) (NN speed)))))))))))))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Dean) (NNP Cassell)) (, ,) (NP (NP (NN vice) (NN president)) (PP (IN for) (NP (NN product) (NN integrity))) (PP (IN at) (NP (NNP Grumman) (NNP Corp))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (CC But) (PP (IN in) (NP (DT the) (JJ real) (NN world))) (, ,) (NP (PRP you)) (VP (VBP learn) (SBAR (IN that) (S (NP (NP (NN speed)) (CC and) (NP (NN quality))) (VP (VBP are) (RB not) (NP (DT a) (NN trade-off))))))) (. .)))
+
+(S1 (S (NP (NN Speed)) (VP (VBZ is) (NP (NP (DT a) (NN component)) (PP (IN of) (NP (NN quality)))) (: --) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (S (NP (PRP we)) (VP (MD must) (VP (VB deliver) (S (VP (TO to) (VP (VB satisfy) (NP (NNS customers))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNS Companies)) (ADVP (IN that) (RB actually)) (VP (VBP market) (VP (VP (VB speed) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (PRP$ their) (NN service) (NN train) (S (NP (PRP$ their) (NNS managers)) (VP (TO to) (VP (VB lead) (CC and) (VB participate) (PP (IN in) (NP (NP (NNS teams)) (SBAR (WHNP (WDT that)) (S (VP (VBP increase) (NP (NN speed))))))))))))))) (CC and) (VP (VB improve) (NP (NN quality)) (PP (IN in) (NP (JJ everyday) (NNS operations)))))) (. .)))
+
+(S1 (S (NP (NNS Managers)) (VP (VBP learn) (S (VP (TO to) (VP (VB spot) (NP (NNS opportunities) (S (VP (TO to) (VP (VP (VB increase) (NP (NN customer) (NN satisfaction)) (PP (IN through) (NP (NN speed)))) (, ,) (CC and) (VP (VB shift) (NP (NP (DT some) (NN responsibility)) (PP (IN for) (S (VP (VBG analyzing) (, ,) (VBG improving) (CC and) (VBG streamlining) (NP (NN work) (NNS processes)) (PP (PP (IN from) (NP (PRP themselves))) (PP (TO to) (NP (NP (NNS teams)) (PP (IN of) (NP (NNS employees))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (CD One) (NN team)) (PP (IN at) (NP (NP (DT the) (NNP Federal) (NNP Express) (NNP Ground) (NNP Operations) (NN station)) (PP (IN in) (NP (NP (NNP Natick)) (, ,) (NP (NNP Mass.)) (, ,)))))) (VP (VBN focused) (PP (IN on) (NP (NP (DT a) (ADJP (RB particularly) (JJ time-sensitive)) (NN operation)) (: :) (NP (DT the) (NN morning) (NN package) (NN sort))))) (. .)))
+
+(S1 (S (NP (DT Every) (NN morning)) (, ,) (S (NP (JJ tractor-trailer) (NNS trucks)) (VP (VBP arrive) (PP (IN at) (NP (DT the) (NNP Natick) (NNP Ground) (NNP Station))) (PP (IN from) (NP (NP (NNP Boston) (POS 's)) (NNP Logan) (NNP Airport))))) (, ,) (VP (VBG carrying) (NP (NP (DT the) (NN day) (POS 's)) (NN package) (NN load))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN peak) (NNS periods))) (NP (DT that) (NN load)) (VP (MD may) (VP (VB include) (NP (CD 4,000) (NNS pieces)))) (. .)))
+
+(S1 (S (NP (DT The) (NNS packages)) (VP (MD must) (VP (VB be) (VP (VP (VBN sorted) (ADVP (RB quickly))) (CC and) (VP (VBN distributed) (PP (TO to) (NP (NP (JJR smaller) (NNS vans)) (PP (IN for) (NP (NN delivery)))))) (, ,) (SBAR (IN so) (S (NP (NNS couriers)) (VP (MD can) (VP (VB be) (PP (IN on) (NP (DT the) (NN road))) (PP (IN by) (NP (CD 8:35)))))))))) (. .)))
+
+(S1 (S (S (NP (DT No) (NN customer)) (VP (VBZ is) (NP (ADJP (JJ present) (PP (IN at) (NP (DT the) (NN morning) (NN package)))) (NN sort)))) (, ,) (CC but) (S (NP (DT the) (NN process)) (VP (VBZ is) (ADVP (RB nevertheless)) (ADJP (JJ critical) (PP (TO to) (NP (NN customer) (NN satisfaction)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBP 're) (VP (VBN committed) (S (VP (TO to) (VP (VB deliver) (NP (NP (DT the) (NN customer) (POS 's)) (NN package)) (PP (IN by) (NP (NP (DT a) (JJ stated) (NN time)) (, ,) (RRC (ADVP (RB usually)) (NP (CD 10:30)))))))))) (, ,) ('' ')) ('' ') (VP (VBZ notes)) (NP (NP (NNP Glenn) (NNP Mortimer)) (, ,) (NP (NP (DT a) (NNP Federal) (NNP Express) (NN courier)) (SBAR (WHNP (WP who)) (S (VP (VBD led) (NP (DT the) (NNP Natick) (NN team))))))) (. .)))
+
+(S1 (S (`` `) (SBAR (`` `) (X (DT The) (RBR sooner)) (S (NP (PRP$ our) (NNS vans)) (VP (VBN hit) (NP (DT the) (NN road)) (NP (DT each) (NN morning))))) (, ,) (X (DT the) (JJR easier)) (NP (PRP it)) (VP (VBZ is) (SBAR (IN for) (S (NP (PRP us)) (VP (TO to) (VP (VB fulfill) (NP (DT that) (NN obligation))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (VBG Following) (NP (NP (DT a) (JJ problem-solving) (NN formula)) (VP (VBN used) (PP (IN by) (NP (NP (NNS teams)) (PP (IN throughout) (NP (NNP Federal) (NNP Express)))))))) (, ,) (NP (NP (NNS members)) (PP (IN of) (NP (DT the) (NNP Natick) (NN team)))) (VP (VBD monitored) (NP (PRP$ their) (NN morning) (NN routine)) (, ,) (S (ADVP (RB carefully)) (VP (VBG noting) (SBAR (SBAR (WHADVP (WRB where) (CC and) (WRB when)) (S (NP (NP (DT the) (NN work) (NN group) (POS 's)) (NNS resources)) (VP (VBD were) (VP (VBN used) (ADVP (RB effectively)))))) (CC and) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ idle)) (, ,) (S (VP (VBG waiting) (SBAR (IN for) (S (NP (NP (NNS others)) (ADVP (RB upstream) (PP (IN in) (NP (DT the) (NN process))))) (VP (TO to) (VP (VB send) (NP (NNS packages)) (NP (PRP$ their) (NN way))))))))))))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (PRP We)) (VP (VBD suspected) (SBAR (S (NP (EX there)) (VP (VBD was) (NP (NP (NN downtime)) (VP (VBN built) (PP (IN into) (NP (PRP$ our) (NN process)))))))))) (. .)))
+
+(S1 (S (S (CC But) (NP (PRP we)) (VP (VBD did) (RB n't) (VP (VB know) (SBAR (ADVP (RB just)) (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBD was) (SBAR (IN until) (S (NP (PRP we)) (VP (VBD completed) (NP (PRP$ our) (NN data) (NN gathering))))))))))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Mortimer)) (VP (VBZ says)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBD used) (NP (DT the) (NN data)) (S (VP (TO to) (VP (VP (VB redesign) (NP (PRP$ our) (VBG sorting) (NN system))) (CC and) (VP (VB put) (NP (PRP$ our) (NNS resources)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (MD could) (VP (VB do) (NP (DT the) (RBS most) (JJ good))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (DT The) (NN team)) (ADVP (RB even)) (VP (VBD created) (NP (NP (DT a) (NNS points) (NN system)) (SBAR (S (VP (TO to) (VP (VB identify) (NP (NP (DT those) (NNS couriers) (CC and) (NNS subgroups)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBG doing) (NP (DT the) (JJS most)) (S (VP (TO to) (VP (VB reduce) (NP (JJ package-sort) (NN cycle) (NN time)))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Winners)) (PP (IN of) (NP (DT the) (JJ friendly) (NN competition)))) (VP (VBP earn) (NP (DT a) (NN steak) (NN dinner)) (PP (IN out) (PP (IN with) (NP (PRP$ their) (NNS spouses))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (NN Monitoring)) (VP (VBZ shows) (SBAR (IN that) (S (NP (NP (DT the) (NNP Natick) (NN team) (POS 's)) (JJ new) (NN system)) (ADVP (RB really)) (VP (VBZ does) (VP (VB reduce) (NP (NP (NN cycle) (NN time)) (PP (IN for) (NP (DT the) (NN morning) (NN package) (NN sort))))))))) (, ,) ('' ')) ('' ') (VP (VBZ reports)) (NP (NP (NNP James) (NNP Barksdale)) (, ,) (NP (NP (JJ chief) (NN operating) (NN officer)) (PP (IN at) (NP (NNP Federal) (NNP Express))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (NNS vans)) (VP (VB leave) (ADVP (NP (QP (IN at) (JJS least) (CD 15)) (NNS minutes)) (RB earlier)))) (PRN (, ,) (PP (IN on) (NP (NN average))) (, ,)) (IN than) (S (NP (PRP they)) (VP (VBD used) (S (VP (TO to))))) (. .)))
+
+(S1 (S (CC And) (NP (NN service) (NNS levels)) (VP (VBP have) (VP (VBN increased) (PP (TO to) (NP (NP (DT the) (NN point)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBP 're) (ADVP (RB consistently)) (PP (IN above) (NP (CD 99) (NN %)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (DT A) (JJ cross-functional) (NN team)) (PP (IN at) (NP (NP (NNP Union) (NNP Carbide) (POS 's)) (NAC (NNP Tonawanda) (, ,) (NNP N.Y.) (, ,)) (NN facility))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ produces) (NP (JJ air-separation) (NNS plants))))) (, ,)) (VP (VBD followed) (NP (DT a) (JJ similar) (NN path) (S (VP (TO to) (VP (VB reduce) (NP (NN manufacturing) (NN cycle) (NN time))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN team)) (VP (VBD included) (NP (NP (NP (NNS craftsmen)) (PP (IN from) (NP (DT the) (NN shop) (NN floor)))) (CONJP (RB as) (RB well) (IN as)) (NP (NN engineering) (, ,) (NN scheduling) (CC and) (NN purchasing) (NNS personnel)))) (, ,) ('' ')) ('' ') (VP (VBZ reports)) (NP (NP (NNP Alan) (NNP Westendorf)) (, ,) (NP (NP (NN director)) (PP (IN of) (NP (NN quality))))) (. .)))
+
+(S1 (S (S (`` `) (ADJP (`` `) (JJ First))) (, ,) (NP (PRP they)) (VP (VBD produced) (NP (NP (DT a) (NN flowchart)) (VP (VBG detailing) (NP (NP (DT the) (NN process)) (SBAR (WHPP (IN by) (WHNP (WDT which))) (S (NP (DT an) (JJ air-separation) (NN plant)) (ADVP (RB actually)) (VP (VBZ gets) (VP (VBN built))))))))) (. .)))
+
+(S1 (S (RB Then) (NP (PRP they)) (VP (VBD identified) (NP (NNS snags)) (PP (IN in) (NP (DT the) (NN process)))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT The) (NNP Tonawanda) (NN team)) (VP (VBD determined) (SBAR (IN that) (S (NP (NP (NNS holdups)) (PP (IN for) (NP (NNS inspections)))) (VP (VP (VBD were) (NP (DT the) (JJ main) (NN problem))) (CC and) (VP (VBD identified) (SBAR (SBAR (WHNP (WDT which)) (S (NP (NP (NNS kinds)) (PP (IN of) (NP (NNS delays)))) (VP (VBD involved) (NP (JJ critical) (NNS inspections))))) (CC and) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD were) (ADJP (RBR less) (JJ critical))) (CC or) (VP (MD could) (VP (VB be) (VP (VBN handled) (PP (IN by) (NP (NP (NNS workers)) (RRC (ADVP (RB already)) (PP (IN on) (NP (DT the) (NN line)))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN team)) (ADVP (RB then)) (VP (VBD proposed) (NP (NNS modifications)) (PP (IN in) (NP (PRP$ their) (NN work) (NN process))) (PP (TO to) (NP (NN management)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT The) (JJ streamlined) (NN manufacturing) (NN process)) (VP (VBZ benefits) (NP (PRP$ our) (NNS customers)) (PP (IN in) (NP (QP (IN at) (JJS least) (CD two)) (NNS ways)))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Westendorf)) (VP (VBZ concludes)) (. .)))
+
+(S1 (S (S (`` `) (ADJP (`` `) (JJ First))) (, ,) (NP (PRP we)) (VP (VBP have) (NP (JJR better) (NN quality) (NN assurance)) (PP (IN than) (ADVP (RB ever))) (, ,) (SBAR (IN because) (S (NP (NP (DT the) (NNS people)) (VP (VBG building) (NP (DT the) (NN product)))) (VP (VBP have) (VP (VBN taken) (PRT (RP on)) (NP (NP (JJR more) (NN responsibility)) (PP (IN for) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (PRP$ their) (JJ own) (NN work))))))))))) (. .)))
+
+(S1 (S (ADVP (JJ Second)) (, ,) (NP (PRP we)) (VP (VBD trimmed) (NP (QP (JJR more) (IN than) (DT a)) (NN month)) (PP (IN off) (NP (NP (DT the) (NN time)) (VP (VBN required) (S (VP (TO to) (VP (VB deliver) (NP (DT a) (JJ finished) (NN product))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (PP (IN At) (NP (NP (NNP Grumman) (POS 's)) (NNP Aircraft) (NNPS Systems) (NNP Division))) (, ,) (NP (NP (DT a) (JJ cross-functional) (NN team)) (VP (VBN reduced) (NP (DT the) (NN cycle) (NN time)))) (VP (VBD required) (S (VP (TO to) (VP (VB produce) (NP (NP (DT a) (JJ new) (NN business) (NN proposal)) (PP (IN for) (NP (DT an) (JJ important) (NN government) (NN contract)))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN team)) (VP (VBD was) (VP (VBN composed) (PP (IN of) (NP (NP (NP (NNS representatives)) (PP (IN from) (NP (NN engineering) (, ,) (NN manufacturing) (, ,) (JJ corporate) (VBG estimating)))) (, ,) (NP (NN flight) (NN test)) (, ,) (NP (NN material)) (, ,) (NP (NN quality) (NN control)) (, ,) (CC and) (NP (JJ other) (NNS departments)))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP We)) (VP (VBD needed) (NP (NP (NNS contributions)) (PP (IN from) (NP (PDT all) (DT these) (NNS departments)))) (S (VP (TO to) (VP (VB generate) (NP (DT the) (NN proposal)))))) (, ,) ('' ')) ('' ') (VP (VBZ says)) (NP (NP (NNP Carl) (NNP Anton)) (, ,) (NP (NP (JJ configuration-data) (NN manager)) (PP (IN for) (NP (NP (NNP Grumman) (POS 's)) (NN A-6) (NN combat) (NN aircraft) (NN program))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (CC But) (PP (RB instead) (IN of) (S (VP (VBG gathering) (NP (PRP$ their) (NN input)) (ADVP (RB piecemeal))))) (, ,) (NP (PRP we)) (VP (VBD formed) (NP (NP (DT the) (NN team)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD reached) (NP (NP (NN consensus)) (PP (IN on) (NP (DT the) (NN proposal)))) (NP (NNS objectives))) (CC and) (VP (VBD produced) (NP (NP (DT a) (NN statement)) (PP (IN of) (NP (NN work)))) (S (VP (TO to) (VP (VB guide) (NP (NP (PDT all) (DT the) (NNS functions)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (VBN involved))))))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (S (VP (VBN Armed) (PP (IN with) (NP (NP (DT this) (VBN shared) (NN understanding)) (CC and) (NP (JJ requisite) (NN background) (NN information)))))) (, ,) (NP (DT each) (NN department)) (VP (VBD developed) (NP (PRP$ its) (JJ specialized) (NN contribution)) (PP (TO to) (NP (DT the) (NN proposal))) (, ,) (S (VP (VBG submitting) (NP (NN data) (CC and) (NN cost) (NNS estimates)) (PP (IN on) (NP (DT a) (ADJP (RB closely) (VBN managed)) (NN schedule)))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBD cleared) (PRT (RP up)) (NP (NNS questions) (CC and) (NNS inconsistencies)) (ADVP (RB very) (RB quickly)) (, ,) (SBAR (IN because) (S (NP (NP (DT the) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD had) (NP (NP (DT the) (NNS skills)) (CC and) (NP (NP (NN perspective)) (VP (VBN required) (S (VP (TO to) (VP (VB resolve) (NP (PRP them)))))))))))) (VP (VBD were) (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN task) (NN team)))))))) (, ,) ('' ')) ('' ') (NP (NNP Mr.) (NNP Anton)) (VP (VBZ explains)) (. .)))
+
+(S1 (S (NP (DT The) (NN team)) (VP (VBD trimmed) (NP (QP (JJR more) (IN than) (CD two)) (NNS months)) (PP (IN from) (NP (NP (DT the) (NN cycle) (NN time)) (VP (ADVP (RB previously)) (VBN required) (S (VP (TO to) (VP (VB develop) (NP (JJ comparable) (NNS proposals))))))))) (. .)))
+
+(S1 (FRAG (`` `) (`` `) (S (NP (DT The) (NN team)) (VP (VBD eliminated) (NP (DT the) (NN crisis) (NN mentality)) (SBAR (IN that) (S (NP (NN proposal) (NNS deadlines)) (VP (MD can) (VP (VB generate))))))) (. .)))
+
+(S1 (S (S (NP (DT The) (NN result)) (VP (VBD was) (NP (DT a) (ADJP (RBR more) (JJ thoughtful)) (, ,) (ADJP (JJ complete) (CC and) (JJ competitive)) (NN proposal)))) (, ,) ('' ') ('' ') (NP (NNP Mr.) (NNP Anton)) (VP (VBZ concludes)) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS successes)) (VP (VBN achieved) (PP (IN at) (NP (NP (NNP Federal) (NNP Express)) (, ,) (NP (NNP Union) (NNP Carbide)) (CC and) (NP (NNP Grumman)))))) (VP (VBP suggest) (SBAR (IN that) (S (NP (VBG managing) (NN speed)) (VP (MD may) (VP (VB be) (NP (NP (DT an) (JJ underutilized) (NN source)) (PP (IN of) (NP (JJ competitive) (NN advantage))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Managers)) (PP (IN in) (NP (DT all) (CD three) (NNS companies)))) (VP (VBP recognize) (NP (NN speed)) (PP (IN as) (NP (NP (DT a) (NN component)) (PP (IN of) (NP (NP (NN quality)) (CC and) (NP (NP (DT a) (NN key)) (PP (TO to) (NP (NN customer) (NN satisfaction))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (ADVP (RB effectively)) (VP (VBP lead) (S (NP (NN team) (NNS efforts)) (VP (TO to) (VP (VB reduce) (NP (NN cycle) (NN time)))))) (. .)))
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBP prepare) (NP (PDT all) (PRP$ their) (NNS people)) (S (VP (TO to) (VP (VP (VB increase) (NP (DT the) (NN speed))) (CC and) (VP (VB improve) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (PRP$ their) (JJ own) (NN work))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Labovitz)) (VP (VBZ is) (NP (NP (NN president)) (PP (IN of) (NP (NP (NNP ODI)) (, ,) (NP (NP (DT a) (NN consulting) (NN firm)) (PP (IN in) (NP (NP (NNP Burlington)) (, ,) (NP (NNP Mass))))))))) (. .)))
+

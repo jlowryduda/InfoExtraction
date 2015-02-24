@@ -1,0 +1,12 @@
+(S1 (S (NP (NNP Meridian) (NNP National) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD sold) (NP (NP (CD 750,000) (NNS shares)) (PP (IN of) (NP (PRP$ its) (JJ common) (NN stock)))) (PP (TO to) (NP (DT the) (NNP McAlpine) (NN family) (NNS interests))) (, ,) (PP (IN for) (NP (NP (QP ($ $) (CD 1) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.35)) (NP (DT a) (NN share))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN sale)) (VP (VBZ represents) (NP (NP (CD 10.2) (NN %)) (PP (IN of) (NP (NP (NP (NNP Meridian) (POS 's)) (NNS shares)) (ADJP (JJ outstanding)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNP McAlpine) (NN family)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ operates) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (JJ multinational) (NNS companies))) (, ,) (PP (VBG including) (NP (DT a) (JJ London-based) (NN engineering) (CC and) (NN construction) (NN company))))))) (, ,)) (VP (ADVP (RB also)) (VBD lent) (PP (TO to) (NP (NNP Meridian) (NNP National)) (NP ($ $) (CD 500,000)))) (. .)))
+
+(S1 (S (NP (DT That) (NN amount)) (VP (VBZ is) (ADJP (JJ convertible) (PP (IN into) (NP (NP (NNS shares)) (PP (IN of) (NP (NNP Meridian) (JJ common) (NN stock))))) (PP (IN at) (NP (NP ($ $) (CD 2)) (NP (DT a) (NN share))))) (PP (IN during) (NP (PRP$ its) (JJ one-year) (NN term)))) (. .)))
+
+(S1 (S (NP (DT The) (NN loan)) (VP (MD may) (VP (VB be) (VP (VBN extended) (PP (IN by) (NP (DT the) (NNP McAlpine) (NN group))) (PP (IN for) (NP (NP (DT an) (JJ additional) (NN year)) (PP (IN with) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NP (DT the) (NN conversion) (NN price)) (PP (TO to) (NP (NP ($ $) (CD 2.50)) (NP (DT a) (NN share))))))))))))) (. .)))
+
+(S1 (SINV (S (NP (NP (DT The) (NN sale)) (PP (IN of) (NP (NNS shares))) (PP (TO to) (NP (DT the) (NNP McAlpine) (NN family)))) (ADVP (IN along) (PP (IN with) (NP (NP (NP (DT the) (JJ recent) (NN sale)) (PP (IN of) (NP (NP (CD 750,000) (NNS shares)) (PP (IN of) (NP (NNP Meridian) (NN stock))))) (PP (TO to) (NP (NP (NNP Haden) (NNP MacLellan) (NNP Holding) (NNP PLC)) (PP (IN of) (NP (NP (NNP Surrey)) (, ,) (NP (NNP England))))))) (CC and) (NP (DT a) (JJ recent) (NN public) (NN offering))))) (VP (VBP have) (VP (VBN increased) (NP (NP (NP (NNP Meridian) (POS 's)) (JJ net) (NN worth)) (PP (TO to) (NP (QP ($ $) (CD 8.5) (CD million)))))))) (, ,) (VP (VBD said)) (NP (NP (NNP William) (NNP Feniger)) (, ,) (NP (NP (JJ chief) (NN executive) (NN officer)) (PP (IN of) (NP (ADJP (NNP Toledo) (, ,) (JJ Ohio-based)) (NNP Meridian))))) (. .)))
+

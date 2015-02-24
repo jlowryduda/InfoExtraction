@@ -1,0 +1,10 @@
+(S1 (S (NP (NNP Citizens) (NNP First) (NNP Bancorp) (. .) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD agreed) (S (VP (TO to) (VP (VB buy) (NP (NP (NNP Lakeland) (NNP First) (NNP Financial) (NNP Group) (NNP Inc.)) (, ,) (NP (DT a) (NAC (NNP Succasunna) (, ,) (NNP N.J.) (, ,)) (NN bank) (NN holding) (NN company)) (, ,)) (PP (IN for) (NP (NP (QP (RB about) ($ $) (CD 50.6) (CD million))) (PP (IN in) (NP (NN cash) (CC and) (NN stock)))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNPS Citizens) (NNP First)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBZ controls) (NP (NNPS Citizens) (NNP First) (NNP National) (NNP Bank))) (CC and) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Glen) (NNP Rock)) (, ,) (NP (NNP N.J.))))))))) (, ,)) (VP (MD will) (VP (VB pay) (NP (NP (DT a) (NN maximum)) (PP (IN of) (NP (CD 40) (NN %)))) (PP (IN in) (NP (NN cash))) (PP (IN for) (NP (NP (DT the) (NN parent)) (PP (IN of) (NP (NP (NNP Lakeland) (NNP Savings) (NNP Bank)) (CC and) (NP (NP (DT the) (NN remainder)) (PP (IN in) (NP (JJ convertible) (JJ preferred) (NN stock)))))))) (, ,) (PP (IN with) (NP (NP (DT a) (NN liquidation) (NN value)) (PP (IN of) (NP (NP ($ $) (CD 18)) (NP (DT a) (NN share)))))))) (. .)))
+
+(S1 (S (NP (NNP Lakeland) (NNS holders)) (VP (MD will) (VP (VB have) (NP (DT the) (NN option) (S (VP (TO to) (VP (VB request) (NP (DT either) (NN stock) (CC or) (NN cash)))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ convertible) (JJ preferred)) (VP (MD will) (VP (VP (VB pay) (NP (NNS dividends)) (PP (IN at) (NP (CD 7.875) (NN %)))) (CC and) (VP (VB be) (ADJP (JJ convertible) (PP (IN into) (NP (NP (NNS shares)) (PP (IN of) (NP (NNPS Citizens) (NNP First))))) (PP (IN at) (NP (NP (DT a) (NN rate)) (ADJP (JJ equal) (PP (TO to) (NP (NP (CD 20) (NN %)) (PP (IN above) (NP (NP (DT the) (JJ average) (NN closing) (NN price)) (PP (IN of) (NP (NP (DT the) (NN stock)) (PP (IN during) (NP (NP (DT a) (JJ 20-day) (NN period)) (ADVP (RB prior) (PP (TO to) (NP (NP (DT the) (NN transaction) (POS 's)) (NN completion))))))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN deal)) (VP (VBZ requires) (NP (JJ regulatory) (CC and) (NN shareholder) (NN approval))) (. .)))
+

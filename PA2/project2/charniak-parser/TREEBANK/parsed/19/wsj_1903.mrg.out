@@ -1,0 +1,98 @@
+(S1 (S (NP (NP (NNP Dale) (NNP Lang)) (, ,) (SBAR (WHNP (WP who)) (S (NP (DT this) (NN week)) (VP (VBD completed) (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NP (DT the) (NN publisher)) (PP (IN of) (NP (NNP Ms.) (CC and) (JJ Sassy))))))))) (, ,)) (VP (VBZ is) (ADJP (JJ candid) (PP (IN about) (NP (NP (DT the) (NN challenge)) (SBAR (S (NP (PRP he)) (VP (VBZ is) (VP (VBG taking) (PRT (RP on)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lang)) (VP (VBZ admits) (SBAR (SBAR (IN that) (S (NP (NNP Ms.)) (VP (VBZ is) (`` `) (PP (`` `) (IN in) (NP (JJ dire) (NNP straits) (POS ')) ('' '))))) (CC and) (SBAR (IN that) (S (NP (JJ Sassy)) (VP (VBZ needs) (NP (JJ big) (JJ promotional) (NNS dollars)) (S (VP (TO to) (VP (VB keep) (S (NP (PRP it)) (ADJP (JJ alive))))))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (JJ 57-year-old) (NN publisher)) (VP (VBZ has) (VP (VBN moved) (ADVP (RB quickly) (CC and) (RB boldly)) (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (NP (DT the) (NNS magazines) (POS ')) (NNS problems)))))))) (. .)))
+
+(S1 (S (NP (JJ Last) (NNP Friday)) (, ,) (NP (PRP he)) (VP (VBD told) (NP (NP (DT the) (NN staff)) (PP (IN of) (NP (NNP Ms.)))) (SBAR (IN that) (S (NP (NP (DT the) (NN magazine)) (PP (IN in) (NP (NNP January)))) (VP (MD would) (VP (VB begin) (S (VP (VBG publishing) (PP (IN without) (NP (NN advertising)))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lang)) (VP (MD will) (VP (VP (VB do) (PRT (RP away)) (PP (IN with) (NP (NP (JJ expensive) (NN circulation) (NNS drives)) (, ,) (CONJP (RB not) (TO to) (VB mention)) (NP (NNS sales) (NN staff))))) (, ,) (CC and) (VP (VB attempt) (S (VP (TO to) (VP (VB publish) (NP (NP (DT the) (JJ 17-year-old) (NN magazine)) (VP (VBN supported) (PP (IN by) (NP (NP (NN circulation) (NN revenue)) (ADVP (RB alone)))))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (DT Any) (NN fool))) (VP (MD can) (VP (VB publish) (NP (DT a) (JJ money-losing) (NN magazine)))) (. .)))
+
+(S1 (SINV (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB publish) (NP (NP (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ succeeds)))))))))) (, ,) ('' ') ('' ') (VP (VBD said)) (NP (NNP Mr.) (NNP Lang)) (. .)))
+
+(S1 (FRAG (`` `) (FRAG (`` `) (S (PP (IN For) (NP (NNP Ms.))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB publish) (PP (IN for) (NP (NP (DT the) (NN reader)) (, ,) (RB not) (NP (DT the) (NN advertiser))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (PP (IN As) (PP (IN for) (NP (JJ Sassy)))) (PRN (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ competes) (ADVP (RB directly)) (PP (IN with) (NP (NP (NNP News) (NNP Corp.) (POS 's)) (CD Seventeen) (NN magazine)))))) (, ,)) (NP (NNP Mr.) (NNP Lang)) (VP (VBZ says) (SBAR (IN that) (S (PP (IN in) (NP (DT the) (JJ next) (CD two) (NNS years))) (NP (PRP he)) (VP (MD will) (VP (VB spend) (NP (QP ($ $) (CD 6) (CD million))) (S (VP (VP (VBG promoting)) (CC and) (VP (VBG improving) (NP (DT the) (NN magazine)))))))))) (. .)))
+
+(S1 (S (SBAR (IN Though) (S (NP (JJ Sassy)) (VP (VBZ has) (VP (VBN grown) (ADVP (RB quickly)) (PP (IN since) (NP (NP (PRP$ its) (NN debut)) (PP (IN in) (NP (NNP March) (CD 1988))))))))) (, ,) (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (NP (NP (DT the) (NN target)) (PP (IN of) (NP (NP (JJ conservative) (NNS lobbyists)) (CC and) (NP (NP (JJ skittish) (NNS advertisers)) (SBAR (WHNP (WP who)) (S (VP (VBD bristled) (PP (IN at) (NP (PRP$ its) (JJ frank) (NN editorial) (NN matter))) (PP (IN on) (NP (JJ teen-age) (NNS problems)))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lang)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ former) (JJ Australian) (NNS owners)) (PP (IN of) (NP (JJ Sassy)))) (VP (VBD were) (`` `) (VP (`` `) (JJ blind-sided) (PP (IN by) (NP (NP (DT the) (JJ Moral) (NN Majority)) (VP (VBN ..))))) (. .))))) (. .)))
+
+(S1 (S (NP (PRP$ Their) (NN reaction)) (VP (VBD was) (S (VP (TO to) (VP (VP (VB do) (NP (NN nothing))) (CC and) (VP (VB ride) (NP (PRP it)) (PRT (RP out))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (PRP He)) (VP (VP (VBD said) (SBAR (S (NP (JJ Sassy)) (VP (MD will) (VP (VB keep) (NP (PRP$ its) (JJ irreverent) (NN tone))))))) (, ,) (CC but) (VP (VBD added) (, ,) (`` `) (S (`` `) (NP (PRP We)) (VP (MD will) (VP (VB keep) (NP (DT a) (JJ close) (NN watch)) (PP (IN on) (NP (NP (DT the) (NN editorial) (NN content)) (PP (IN of) (NP (DT the) (NN magazine)))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (S (NP (JJ Sassy)) (ADVP (RB already)) (VP (VBZ has) (VP (VBN recovered)))) (: ;) (S (NP (NN circulation)) (VP (VBZ has) (VP (ADVP (RB quickly)) (VBN passed) (NP (DT the) (CD 500,000) (NN mark))))) (CC and) (S (NP (NN advertising) (NNS pages)) (VP (VBP have) (VP (VBN stabilized) (NP (DT this) (NN year)) (PP (IN at) (NP (QP (JJR more) (IN than) (CD 300))))))) (. .)))
+
+(S1 (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (NP (JJR more))))) (, ,) (NP (NNP Mr.) (NNP Lang)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ has) (SBAR (WHNP (WP what)) (S (NP (DT all) (NNS publishers)) (VP (VBP wish) (PP (IN for) (: :) (NP (DT a) (JJ bona) (NN fide) (NN niche)))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (CD Seventeen)) (VP (VBZ is) (VP (VBN written) (NP (NP (JJR more)) (PP (IN for) (NP (NP (NNS mothers)) (PRN (, ,) (RB not) (NP (PRP$ their) (NNS daughters)))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NNP Mr.) (NNP Lang)) (. .)))
+
+(S1 (S (`` `) (`` `) (CC But) (NP (JJ Sassy)) (VP (VBZ has) (NP (DT a) (JJ different) (NN spirit))) (. .)))
+
+(S1 (S (S (NP (PRP It)) (VP (VBZ gets) (ADJP (ADJP (JJR more) (NN mail) (PP (IN in) (NP (DT a) (NN month)))) (SBAR (IN than) (S (NP (NNP McCall) (POS 's)) (VP (VBD got) (PP (IN in) (NP (DT a) (NN year))))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (PP (IN from) (NP (NNS mothers))))) (. .)))
+
+(S1 (S (NP (PRP I)) (VP (VBP feel) (ADJP (ADJP (RB about) (JJ Sassy)) (SBAR (IN like) (S (NP (PRP I)) (VP (VBD did) (NP (RB about) (JJ Working) (NN Woman)) (ADVP (NP (CD 10) (NNS years)) (RB ago))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Lang)) (VP (VBD took) (PP (IN on) (UCP (NNP Ms.) (CC and) (JJ Sassy))) (PP (IN with) (NP (NP (DT the) (NN acquisition)) (PP (IN of) (NP (NNP Matilda) (NNPS Publications) (NNP Inc.))) (PP (IN by) (NP (PRP$ his) (ADJP (RB newly) (VBN formed)) (NNP Lang) (NNPS Communications)))))) (. .)))
+
+(S1 (S (NP (NNP Lang)) (VP (VBZ owns) (NP (NP (CD 70) (NN %)) (PP (IN of) (NP (NNP Matilda)))) (, ,) (SBAR (IN while) (S (NP (NNP Citicorp)) (VP (VBZ owns) (NP (NP (DT the) (NN rest)) (PP (IN through) (NP (PRP$ its) (NNP Citicorp) (NNP Venture) (NNP Capital) (NNPS Partners)))))))) (. .)))
+
+(S1 (S (ADVP (NP (CD Two) (NNS weeks)) (RB ago)) (, ,) (NP (NNP Citicorp) (CC and) (NNP Mr.) (NNP Lang)) (VP (VBD pumped) (NP ($ $) (CD 800,000)) (PP (IN into) (NP (NNP Matilda))) (S (ADVP (RB just)) (VP (TO to) (VP (VB keep) (S (NP (DT the) (NNS doors)) (ADJP (JJ open))))))) (. .)))
+
+(S1 (S (S (NP (NN Industry) (NNS observers)) (VP (VBP have) (VP (VBD congratulated) (NP (NNP Mr.) (NNP Lang)) (PP (IN on) (SBAR (WHNP (WP what)) (S (NP (DT some)) (VP (VBP call) (NP (NP (PRP$ his) (`` `) (ADJP (`` `) (JJ courageous) ('' ')) ('' ') (NN handling)) (PP (IN of) (NP (NNP Ms.))))))))))) (, ,) (CC but) (S (NP (NP (PRP$ his) (NN track) (NN record)) (PP (IN in) (NP (NN magazine) (NN publishing))) (PP (IN in) (ADJP (JJ general)))) (VP (VBZ has) (VP (VBN gotten) (NP (JJ mixed) (NNS reviews))))) (. .)))
+
+(S1 (S (PP (IN Besides) (UCP (NNP Ms.) (CC and) (JJ Sassy))) (, ,) (NP (ADJP (RB closely) (VBN held)) (NNP Lang) (NNPS Communications)) (VP (VBZ includes) (NP (NP (NN Success)) (, ,) (NP (NP (DT a) (NN magazine)) (PP (IN for) (NP (NP (NNS entrepreneurs)) (CC and) (NP (JJ small) (NNS businesses))))) (, ,) (CC and) (NP (NNP Working) (NNP Woman) (CC and) (NNP Working) (NNP Mother)) (, ,) (NP (CD two) (JJ monthly) (NNS magazines)))) (. .)))
+
+(S1 (S (NP (NP (NP (NNP Working) (NNP Woman)) (, ,) (PP (IN with) (NP (NP (NN circulation)) (PP (IN near) (NP (QP (CD one) (CD million)))))) (, ,)) (CC and) (NP (NNP Working) (NNP Mother))) (, ,) (PP (IN with) (NP (CD 625,000) (NN circulation))) (, ,) (VP (VBP are) (NP (JJ legitimate) (NN magazine) (NN success) (NNS stories))) (. .)))
+
+(S1 (S (NP (DT The) (NN magazine) (NN Success)) (, ,) (ADVP (RB however)) (, ,) (VP (VBD was) (PP (IN for) (NP (NP (NNS years)) (ADJP (JJ lackluster) (CC and) (JJ unfocused))))) (. .)))
+
+(S1 (SINV (ADVP (RB Only) (RB recently)) (VBZ has) (NP (PRP it)) (VP (VBN been) (VP (VP (ADVP (RB attractively)) (VBN redesigned)) (CC and) (VP (NP (PRP$ its) (NN editorial) (NN product)) (VBN improved)))) (. .)))
+
+(S1 (S (NP (NN Success)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB gain) (PP (ADVP (IN at) (JJS least)) (IN because) (IN of) (NP (NP (NP (DT the) (JJ recent) (JJ folding)) (PP (IN of) (NP (JJ rival) (NNP Venture)))) (, ,) (NP (NP (DT another) (NN magazine)) (PP (IN for) (NP (VBG growing) (NNS companies))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Working) (NNP Woman)) (CC and) (NP (NNP Working) (NNP Mother))) (VP (VBP have) (VP (VBN operated) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (NNP Working) (NNP Woman\/McCall) (POS 's) (NNP Group)) (, ,) (NP (NP (DT a) (JJ less-than-successful) (JJ joint) (NN venture)) (PP (IN between) (NP (NP (NNP Mr.) (NNP Lang)) (CC and) (NP (NNP Time) (NNP Warner) (NNP Inc))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (JJ joint) (NN venture)) (VP (VBZ is) (VP (VBG being) (VP (VBN undone) (, ,) (PP (IN with) (S (S (NP (NP (NNP McCall) (POS 's)) (NN magazine)) (VP (VBG being) (VP (VBD sold) (NP (JJ last) (NN summer)) (PP (TO to) (NP (NP (DT the) (NNP New) (NNP York) (NNP Times) (NNP Co.) (POS 's)) (NNP Magazine) (NNP Group))) (PP (IN for) (NP (QP (RB about) ($ $) (CD 80) (CD million))))))) (, ,) (CC and) (S (NP (NNP Time) (NNP Warner)) (VP (VBG agreeing) (S (VP (TO to) (VP (VB sell) (PRT (RP back)) (NP (NP (PRP$ its) (ADJP (CD 50) (NN %)) (NN interest)) (PP (IN in) (NP (NP (NNP Working) (NNP Woman)) (CC and) (NP (NNP Working) (NNP Mother))))) (PP (TO to) (NP (NNP Mr.) (NNP Lang))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Executives)) (PP (IN at) (NP (NP (NP (NNP Time) (NNP Inc) (. .)) (NNP Magazine) (NNP Co.)) (, ,) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP Time) (NNP Warner)))) (, ,)))) (VP (VBP have) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ joint) (NN venture)) (PP (IN with) (NP (NNP Mr.) (NNP Lang)))) (VP (VBD was) (RB n't) (NP (DT a) (JJ good) (CD one))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN venture)) (, ,) (VP (VBN formed) (PP (IN in) (NP (CD 1986)))) (, ,)) (VP (VBD was) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (NP (NP (NP (NNP Time) (POS 's)) (ADJP (JJ low-cost) (, ,) (JJ safe)) (NN entry)) (PP (IN into) (NP (NP (NNS women) (POS 's)) (NNS magazines))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lang)) (VP (VBD surprised) (NP (NNP Time)) (PP (ADVP (RB soon)) (IN after) (S (VP (VBG joining) (NP (NNS forces))))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB negotiate) (NP (NNS rates)) (ADVP (RB individually)) (PP (IN with) (NP (NNS advertisers))) (, ,) (S (NP (DT a) (NN practice)) (VP (VP (JJ common) (PP (IN in) (NP (NN broadcasting)))) (CC but) (VP (VBN considered) (ADJP (JJ taboo)) (PP (IN by) (NP (NN magazine) (NNS publishers)))))))))))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP McCall) (POS 's)) (VP (VBD put) (PRT (RP in)) (NP (DT a) (ADJP (JJR less) (IN than) (JJ stellar)) (NN performance))) (. .)))
+
+(S1 (S (PP (IN Until) (NP (DT a) (JJ recent) (NN comeback))) (, ,) (NP (PRP it)) (VP (VBD saw) (NP (NP (NP (JJ steep) (NNS losses)) (PP (IN in) (NP (NN ad) (NNS pages)))) (CC and) (NP (NN circulation)))) (. .)))
+
+(S1 (S (NP (NNP Time) (NNS executives)) (VP (VP (VBD complained) (PP (IN about) (NP (DT the) (JJ shoddy) (NN editorial) (NN quality)))) (, ,) (CC and) (VP (PP (IN in) (NP (DT the) (NN end))) (, ,) (NP (NP (CD one) (NNP Time) (NN executive)) (SBAR (WHNP (WP who)) (S (VP (VBD asked) (S (RB not) (VP (TO to) (VP (VB be) (VP (VBN identified) (VP (VBD said) (, ,) (`` `) (S (`` `) (ADVP (NNP Frankly)) (, ,) (NP (NP (NNP McCall) (POS 's)) (CC and) (NP (DT the) (JJ joint) (NN venture))) (VP (VBD were) (NP (DT an) (NN embarrassment))))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Lang)) (VP (VBZ feels) (SBAR (IN that) (S (NP (NP (NNP Time) (POS 's)) (NNS priorities)) (VP (VBD changed))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP$ Their) (NN management)) (VP (VBN changed) (ADVP (RB right) (RB after)))) (PRN (-LRB- -LCB-) (S (NP (DT the) (NN venture)) (VP (VBD was) (VP (VBN formed)))) (-RRB- -RCB-)) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ comfortable) (S (VP (VBG getting) (PP (IN into) (NP (NP (DT the) (JJ competitive) (NNS wars)) (PP (IN of) (NP (NP (NNS women) (POS 's)) (NN service) (NNS magazines)))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NN Today)) (, ,) (NP (NNP Mr.) (NNP Lang)) (VP (VBZ believes) (SBAR (S (NP (PRP$ his) (NNS magazines)) (VP (MD will) (VP (VB offer) (SBAR (WHNP (WP what)) (S (NP (NP (JJ many) (NNS women) (POS 's)) (NNS magazines)) (VP (VBP do) (RB n't))))))))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP write) (PP (ADVP (RB straight)) (IN for) (NP (NNS women))) (PP (IN on) (NP (PRP$ their) (NN level))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP do) (RB n't) (VP (VB have) (NP (JJ passive) (NNS readers)))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NNP Mr.) (NNP Lang)) (VP (VBZ points) (PRT (RP out)) (SBAR (IN that) (S (NP (RB even) (NN Success)) (, ,) (PP (IN in) (NP (NN part))) (, ,) (VP (VBZ fits) (NP (NP (DT the) (NN company) (POS 's)) (NN image)) (, ,) (SBAR (IN since) (S (NP (NP (QP (IN about) (CD 30)) (NN %)) (PP (IN of) (NP (PRP$ its) (NN readership)))) (VP (VBZ is) (ADJP (JJ female))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lang)) (VP (VBZ has) (VP (VBD named) (NP (NP (NNP Carol) (NNP Taber)) (, ,) (NP (CD 43)) (, ,)) (PP (IN as) (NP (NP (NN group) (NN publisher)) (PP (IN of) (NP (NNP New) (NNP York-based) (NNP Lang) (NNPS Communications))))))) (. .)))
+
+(S1 (S (NP (PRP She)) (VP (MD will) (VP (VP (VB oversee) (NP (NP (NNP Working) (NNP Woman)) (, ,) (NP (NNP Working) (NNP Mother)) (CC and) (NP (NN Success) (NNS magazines)))) (, ,) (CC and) (VP (VB retain) (NP (NP (PRP$ her) (NN post)) (PP (IN as) (NP (NP (NN publisher)) (PP (IN of) (NP (NNP Working) (NNP Woman))))))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN sale) (NN price)) (PP (IN of) (NP (NP (NNP McCall) (POS 's)) (PRN (: --) (SBAR (WHNP (RB twice) (WP what)) (S (NP (NNP Mr.) (NNP Lang)) (ADVP (RB originally)) (VP (VBD paid) (PP (IN for) (NP (PRP it)))))) (: --))))) (VP (MD will) (VP (VB finance) (NP (NP (NP (NNP Lang) (NNPS Communications) (POS ')) (NN buy-back)) (PP (IN of) (NP (NP (NP (NNP Time) (NNP Warner) (POS 's)) (ADJP (CD 50) (NN %)) (NN interest)) (PP (IN in) (NP (NP (NNP Working) (NNP Woman)) (CC and) (NP (NNP Working) (NNP Mother))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Lang)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ is) (RB n't) (VP (VBG scouting) (NP (JJ new) (NNS acquisitions)) (, ,) (PP (ADVP (IN at) (JJS least)) (IN for) (NP (RB now)))))))) (. .)))
+
+(S1 (S (`` `) (S (S (`` `) (NP (PRP We)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB go) (ADVP (IN outside)) (PP (TO to) (NP (NNS banks))) (S (VP (TO to) (VP (VB get) (NP (DT the) (NN money))))))))))) (CC and) (S (NP (PRP I)) (VP (VBP am) (RB not) (ADJP (JJ ready) (S (VP (TO to) (VP (VB do) (NP (DT that))))))))) (, ,) ('' ') ('' ') (NP (PRP he)) (VP (VBD said)) (. .)))
+
+(S1 (S (`` `) (`` `) (ADVP (RB Besides)) (, ,) (NP (PRP we)) (VP (VBP have) (NP (NP (RB enough)) (PP (IN on) (NP (PRP$ our) (NN plate))))) (. .)))
+
+(S1 (S (NP (EX There)) (VP (VBZ is) (NP (NP (NN plenty)) (PP (IN of) (NP (NN work))) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN done) (PP (IN on) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP have)))))))))))) (. .)))
+

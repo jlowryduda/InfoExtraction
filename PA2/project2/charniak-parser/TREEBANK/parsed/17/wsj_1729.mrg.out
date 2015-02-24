@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NNP Computer) (NNPS Sciences) (NNP Corp.)) (, ,) (NP (NP (NNP El) (NNP Segundo)) (, ,) (NP (NNP Calif.))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NNP National) (NNP Aeronautics) (CC and) (NNP Space) (NNP Administration)) (VP (MD will) (VP (VB negotiate) (NP (NP (NNS details)) (PP (IN of) (NP (NP (DT a) (NN contract)) (VP (VBN valued) (PP (IN at) (NP (QP (RB about) ($ $) (CD 170) (CD million)))))))) (S (VP (TO to) (VP (VB provide) (NP (NP (NN software)) (PP (IN for) (NP (DT the) (NNP Ames) (NNP Research) (NNP Center)))))))))))) (. .)))
+
+(S1 (SINV (VP (VBN Included) (PP (IN in) (NP (DT the) (JJ three-year) (NN contract)))) (VP (VBP are)) (NP (NP (NNS options)) (PP (IN for) (NP (CD two) (JJ one-year) (NNS renewals)))) (. .)))
+
+(S1 (S (S (NP (NNP NASA)) (VP (VBD awarded) (NP (DT the) (NN contract)) (PP (TO to) (NP (NP (NNP CSC)) (PP (IN in) (NP (NNP November))))))) (CC but) (S (NP (NP (DT an) (NN appeal)) (PP (IN by) (NP (NP (NNP Sterling) (NNP Software) (NNP Inc.)) (PP (IN of) (NP (NNP Dallas)))))) (VP (VBD sent) (NP (DT the) (NN contract)) (PP (TO to) (NP (NP (DT the) (NNP General) (NNP Services) (NNP Administration) (NNP Board)) (PP (IN of) (NP (NP (NN Contract) (NNS Appeals)) (CC and) (NP (NP (DT the) (NN board)) (VP (VBN required) (S (NP (NNP NASA)) (VP (TO to) (VP (VB re-evaluate) (NP (NP (NNS bidders) (POS ')) (NNS proposals))))))))))))) (. .)))
+
+(S1 (S (NP (NN Sterling)) (VP (VP (VBD had) (VP (VBN completed) (NP (NP (DT a) (JJ five-year) (NN contract)) (PP (IN for) (NP (NNP NASA)))))) (CC but) (VP (VBD lost) (NP (NP (PRP$ its) (NN bid)) (PP (IN for) (NP (NN renewal)))))) (. .)))
+
+(S1 (S (SBAR (IN As) (S (VP (VBN directed) (PP (IN by) (NP (DT the) (NN board)))))) (, ,) (NP (NNP NASA)) (VP (VP (VBD completed) (NP (DT the) (NN evaluation))) (CC and) (VP (ADVP (RB again)) (VBD chose) (NP (NNP CSC)))) (. .)))
+
+(S1 (S (PP (IN For) (NP (NP (PRP$ its) (JJ fiscal) (NN year)) (VP (VBN ended) (NP (NNP March) (CD 31))))) (, ,) (NP (NNP CSC)) (VP (VBD had) (NP (NP (NN revenue)) (PP (IN of) (NP (QP ($ $) (CD 1.3) (CD billion)))))) (. .)))
+

@@ -1,0 +1,82 @@
+(S1 (S (`` `) (S (NP (`` `) (NP (VBG Feeding) (NN Frenzy) ('' ')) ('' ') (PRN (-LRB- -LRB-) (NP (NNP Henry) (NNP Holt)) (, ,) (NP (CD 326) (NNS pages)) (, ,) (NP ($ $) (CD 19.95)) (-RRB- -RRB-)) (, ,) (NP (NP (DT a) (RB highly) (VBN detailed) (NN account)) (PP (IN of) (NP (DT the) (NNP Wedtech) (NN scandal)))) (, ,)) (VP (VBZ begins) (PP (IN on) (NP (DT a) (JJ reassuring) (NN note))))) (. .)))
+
+(S1 (S (PP (ADVP (JJ Right)) (IN up) (NP (NP (NN front)) (PP (IN in) (NP (DT the) (NN preface))))) (, ,) (NP (NN co-author) (NNP William) (NNP Sternberg)) (VP (VBZ gives) (NP (PRP us)) (NP (NP (DT an) (NN example)) (PP (IN of) (NP (PRP$ his) (JJ own) (NN integrity))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (VP (VBD offered) (NP (NP (NP (NP (DT a) (JJ free) (NN trip)) (PP (IN from) (NP (DT the) (NNP Bronx)))) (, ,) (NP (NP (NNP Wedtech) (POS 's)) (NN home)) (, ,)) (PP (TO to) (NP (NP (NNP Washington)) (, ,) (NP (NNP D.C.)) (, ,)))) (PP (IN by) (NP (NP (CD one)) (PP (IN of) (NP (NP (NNP Wedtech) (POS 's)) (NNS principals)))))))) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ tells) (NP (DT the) (NN reader)))) (, ,) (`` `)) (`` `) (S (ADJP (JJ mindful) (PP (IN of) (S (VP (VBG accepting) (NP (NP (NN anything)) (PP (IN of) (NP (NN value)))) (PP (IN from) (NP (NP (DT those)) (SBAR (S (S (NP (PRP I)) (VP (VBD was) (VP (VBG writing) (PP (IN about))))) (, ,) (S (NP (PRP I)) (VP (VBD declined)))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (DT Any) (NN question)) (PP (IN as) (PP (TO to) (SBAR (WHADVP (WRB why)) (S (NP (NP (DT an) (NN author) (S (VP (MD would) (VP (VB believe) (NP (DT this) (JJ plaintive) (, ,) (JJ high-minded) (NN note)))))) (PP (IN of) (NP (NN assurance)))) (VP (VBZ is) (ADJP (JJ necessary))))))) (VP (VBZ is) (VP (VBN answered) (PP (IN by) (S (VP (VBG reading) (NP (NP (DT this) (NN book)) (PP (IN about) (NP (JJ sticky) (NNS fingers)) (CC and) (NP (NN sweaty) (NNS scammers))))))))) (. .)))
+
+(S1 (S (NP (NP (NN Bribe)) (PP (IN by) (NP (NN bribe)))) (, ,) (S (NP (NP (NNP Mr.) (NNP Sternberg)) (CC and) (NP (NP (PRP$ his) (NN co-author)) (, ,) (NP (NNP Matthew) (NNP C.) (NNP Harrison) (NNP Jr.)) (, ,))) (VP (VBP lead) (NP (PRP us)) (PP (IN along) (NP (DT the) (NN path) (SBAR (S (NP (NNP Wedtech)) (VP (VBD traveled)))))) (, ,) (PP (IN from) (NP (PRP$ its) (NN inception)) (PP (IN as) (NP (NP (DT a) (JJ small) (NN manufacturing) (NN company)) (PP (TO to) (NP (NP (DT the) (NN status)) (PP (IN of) (NP (JJ full-fledged) (NN defense) (NN contractor)))))))))) (, ,) (VP (VBD entrusted) (PP (IN with) (NP (NP (DT the) (NN task)) (PP (IN of) (S (VP (VBG producing) (NP (NP (JJ vital) (NN equipment)) (PP (IN for) (NP (NP (DT the) (NNP Army)) (CC and) (NP (NNP Navy))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN book)) (VP (VBZ revolves) (PP (IN around) (NP (NP (NP (NNP John) (NNP Mariotta)) (, ,) (NP (NP (DT the) (NN founder)) (PP (IN of) (NP (DT the) (NN company)))) (, ,)) (CC and) (NP (NP (NNP Fred) (NNP Neuberger)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD became) (NP (PRP$ his) (NN partner)) (PP (ADVP (RB soon)) (IN after) (NP (NP (NNP Wedtech) (POS 's)) (NN creation)))))))))) (. .)))
+
+(S1 (S (SBAR (IN Although) (S (VP (VBD started) (PP (IN in) (NP (CD 1965)))))) (, ,) (NP (NNP Wedtech)) (VP (VBD did) (RB n't) (ADVP (RB really)) (VP (VB get) (PP (VBG rolling) (PP (IN until) (NP (NP (CD 1975)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Mr.) (NNP Neuberger)) (VP (VBD discovered) (SBAR (S (NP (DT the) (JJ federal) (NN government)) (VP (VBZ 's) (NP (NP (NP (NNP Section) (CD 8)) (PRN (-LRB- -LRB-) (NP (DT A)) (-RRB- -RRB-))) (NN minority) (NN business) (NN program))))))))))))) (. .)))
+
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NNP Johnson-era) (, ,) (NNP Great) (NNP Society) (NN creation)) (SBAR (WHNP (WDT that)) (S (NP (NP (NNS mandates)) (SBAR (S (NP (JJ certain) (NN government) (NNS contracts)) (VP (VB be))))) (VP (VBD awarded) (ADVP (RB noncompetitively)) (PP (TO to) (NP (NN minority) (NNS businesses)))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Neuberger)) (VP (VBD realized) (SBAR (IN that) (, ,) (S (SBAR (IN although) (S (PP (IN of) (NP (JJ Italian) (NN ancestry))))) (, ,) (NP (NNP Mr.) (NNP Mariotta)) (ADVP (RB still)) (VP (MD could) (VP (VB qualify) (PP (IN as) (NP (DT a) (NN minority) (NN person))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD was) (VP (VBN born) (PP (IN in) (NP (NNP Puerto) (NNP Rico)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD two) (NNS partners)) (ADVP (RB merely)) (VP (VBD had) (S (VP (TO to) (VP (VB falsify) (NP (NP (DT the) (JJ true) (NN ownership)) (PP (IN of) (NP (DT the) (NN corporation)))))))) (. .)))
+
+(S1 (S (ADVP (RB Instead) (PP (IN of) (NP (NP (CD 50\/50)) (SBAR (S (NP (PRP it)) (VP (VBD became))))))) (, ,) (PP (IN on) (NP (NN paper))) (ADVP (RB only)) (, ,) (NP (NNS two-thirds)) (NP (NP (NNP Mariotta)) (, ,) (NP (NN one-third) (NN Neuberger)) (, ,) (CC and) (NP (PRP they))) (VP (VBD were) (PP (IN in) (NP (DT the) (NN program))) (ADVP (CC and) (RB off)) (PP (TO to) (NP (DT the) (NNS races)))) (. .)))
+
+(S1 (S (PP (IN Besides) (S (VP (VBG being) (NP (DT a) (`` `) (NP (`` `) (JJ minority-owned) (NN company) ('' ')) ('' '))))) (NP (NNP Wedtech)) (VP (VBD was) (VP (VBN located) (PP (IN in) (NP (DT the) (NNP South) (NNP Bronx)) (, ,) (NP (NP (DT a) (JJ blighted) (NN area) (, ,)) (SBAR (S (VP (VBD made) (S (VP (JJ famous) (PP (IN by) (NP (NNP Jimmy) (NNP Carter))) (PP (IN in) (NP (PRP$ his) (CD 1976) (JJ presidential) (NN campaign)))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VP (VP (VBD plugged) (NP (PRP itself)) (PP (ADVP (RB right)) (IN into) (NP (NNP Carter) (NN campaign) (NN rhetoric))) (PP (IN about) (S (VP (VBG rebuilding) (NP (DT the) (NNP South) (NNP Bronx)))))) (CC and) (VP (VBD kept) (S (VP (VBG using) (NP (DT the) (NN minority)))))) (: --) (NP (NP (NNP South) (NNP Bronx) (NN angle)) (PP (IN through) (NP (DT the) (NNP Reagan) (NNS '80s))))) (. .)))
+
+(S1 (S (PP (VBG Starting) (PP (IN with) (NP (NP (NNP Congressman) (NNP Mario) (NNP Biaggi)) (PRN (-LRB- -LRB-) (S (VP (ADVP (RB now)) (VBG serving) (NP (DT a) (NN jail) (NN sentence)))) (-RRB- -RRB-))))) (, ,) (NP (DT the) (NN company)) (VP (VBD began) (NP (NP (DT a) (NN career)) (PP (IN of) (S (VP (VP (VBG bribing) (NP (NP (UCP (JJ federal) (, ,) (NN state) (CC and) (JJ local)) (NN public) (NNS officials)) (CC and) (NP (NP (DT those) (NN close)) (PP (TO to) (NP (JJ public) (NNS officials)))) (, ,)) (ADVP (RB right) (RB up)) (PP (TO to))) (CC and) (VP (VBG including) (NP (NP (NNP E.) (NNP Robert) (NNP Wallach)) (, ,) (NP (JJ close) (NN friend)) (CC and) (NP (NN adviser)))))))) (PP (TO to) (NP (JJ former) (NN Attorney) (NNP General) (NNP Ed) (NNP Meese)))) (. .)))
+
+(S1 (S (NP (NNP Wedtech)) (VP (VBD did) (RB n't) (ADVP (RB just)) (VP (VB use) (ADJP (JJ old)) (PP (VBN fashioned) (NP (NN bribery))))) (. .)))
+
+(S1 (S (NP (PRP It)) (VP (VBD made) (NP (NP (JJ ample) (NN use)) (PP (IN of) (NP (DT the) (JJ modern) (NNS techniques))) (PP (IN of) (NP (NN influence) (VBG peddling)))) (, ,) (S (NP (NP (VBG retaining) (NX (NX (ADJP (RB politically) (VBN connected)) (`` `) (ADJP (`` `) (JJ respectable) ('' ')) ('' ') (NN law) (NNS firms)) (, ,) (NX (NN investment) (NNS bankers)) (CC and) (NX (JJ political) (NNS consultants)))) (, ,) (PP (VBG including) (NP (NNP Reagan) (NN confidant) (NNP Lyn) (NNP Nofzinger)))))) (. .)))
+
+(S1 (S (SBAR (WHADVP (WRB When)) (S (ADJP (JJ necessary)))) (, ,) (NP (PRP it)) (VP (VP (VBD sought)) (CC and) (VP (VBD received) (NP (NN assistance)) (PP (IN from) (NP (JJ organized) (NN crime))))) (. .)))
+
+(S1 (S (NP (RB Sometimes) (DT the) (VBD bribed)) (VP (VBD became) (NP (NP (NNS partners)) (PP (IN in) (NP (DT the) (NN company))))) (. .)))
+
+(S1 (S (NP (NNP Wedtech) (NN management)) (VP (VBD used) (NP (DT the) (NN merit) (NN system))) (. .)))
+
+(S1 (SBAR (IN If) (S (NP (PRP you)) (VP (VBD were) (ADJP (RB especially) (JJ helpful)) (PP (IN in) (NP (NP (DT a) (JJ corrupt) (NN scheme)) (SBAR (S (NP (PRP you)) (VP (VBD received) (ADVP (RB not) (RB just)) (PP (NP (NN cash)) (IN in) (NP (NP (DT a) (NN bag)) (, ,) (CC but) (NP (NN equity))))))))))) (. .)))
+
+(S1 (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBD were) (RB not) (NP (DT an) (JJ effective) (NN crook))))) (, ,) (NP (PRP you)) (VP (VBD found) (NP (PRP yourself)) (PP (RP out)) (PP (IN in) (NP (DT the) (NN cold)) (, ,) (NP (NP (DT a) (NN fate)) (SBAR (WHNP (WDT that)) (S (ADVP (RB eventually)) (VP (VBP befell) (SBAR (S (NP (NP (NNP Mr.) (NNP Mariotta)) (, ,) (NP (DT the) (NN firm) (POS 's))) (VP (VBP semiliterate) (NP (`` `) (NP (`` `) (NN minority) ('' ')) ('' ')) (NP (NN person))))))))))) (. .)))
+
+(S1 (S (CC But) (PP (IN despite) (NP (NP (DT the) (JJ sensational) (NN nature)) (PP (IN of) (NP (NP (DT the) (NNS revelations)) (CC and) (NP (NP (DT the) (JJ breezy) (, ,) (JJ easy-to-read) (JJ tabloid) (NN writing)) (NP (NN style))))))) (, ,) (S (`` `) (NP (`` `) (NP (NN Feeding) (NN Frenzy) ('' ')) ('' ')) (ADVP (RB often)) (VP (VBZ falls) (ADJP (RB short) (PP (IN of) (NP (VBG gripping) (NN reading)))))) (. .)))
+
+(S1 (S (NP (NP (NN None)) (PP (IN of) (NP (DT the) (NNS scams)))) (VP (VBP show) (NP (NP (JJ much) (NN ingenuity)) (: :) (SBAR (S (NP (NNS Auditors)) (VP (VBD found) (NP (NN crookery)) (PP (NP (DT the) (JJ first) (NN day)) (IN on) (NP (DT the) (NN job)))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Wedtech) (POS 's)) (NNS scammers)) (ADVP (RB simply)) (VP (VBD bribed) (NP (PRP them)) (S (VP (TO to) (VP (VB shut) (PRT (RP up)))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NNS scammers)) (NP (PRP themselves))) (VP (VBD were) (NP (NP (NN garden-variety) (JJ low) (NNS lifes)) (, ,) (NP (NP (JJ conspicuous) (NNS consumers)) (SBAR (WHNP (WP who)) (S (VP (VBD wanted) (NP (JJ big) (NNS houses)))))) (, ,) (NP (NNP Mercedes) (NNS cars)) (, ,) (NP (JJ beautiful) (NNS women)) (, ,) (NP (JJ expensive) (NNS clothes)))) (. .)))
+
+(S1 (S (PP (IN Among) (NP (NP (DT the) (NN lot)) (PP (IN of) (NP (PRP them))))) (, ,) (NP (QP (RB not) (CD one))) (VP (VBZ is) (VP (VBG wrestling) (PP (IN with) (SBAR (S (ADJP (ADJP (JJ good) (CC and) (JJ evil)) (, ,) (CC or) (ADJP (ADJP (RB especially) (JJ intelligent)) (CC or) (ADJP (RB even) (RB temporarily) (JJ insane))))))))) (. .)))
+
+(S1 (S (NP (DT The) (CD one) (NN character)) (PP (IN at) (NP (NP (RBS least)) (ADJP (RB somewhat) (JJ interesting)))) (VP (VBD was) (NP (NP (NNP Irving) (NNP Louis) (NNP Lobsenz)) (, ,) (NP (NP (NP (DT a) (NN pediatrician)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD changed) (NP (PRP$ his) (NN name)) (PP (TO to) (NP (JJ Rusty) (NNP Kent) (NNP London)))) (CC and) (VP (VBD became) (NP (DT a) (NN master) (NN gambler))))))) (CC and) (NP (NP (NN author)) (PP (IN of) (NP (NP (DT a) (NN book)) (PP (IN on) (NP (NNP blackjack))))))))) (. .)))
+
+(S1 (S (NP (PRP He)) (VP (VBZ enters) (NP (NP (DT the) (NN story)) (PP (IN toward) (NP (DT the) (NN end))))) (, ,) (PP (ADVP (RB just)) (IN in) (NP (NP (NN time)) (SBAR (S (VP (TO to) (VP (VB get) (VP (VBN arrested)))))))) (. .)))
+
+(S1 (S (S (VP (VBN Absorbed) (PP (IN in) (S (VP (VBG doling) (PRT (RP out)) (NP (`` `) (S (`` `) (S (NP (NN Feeding) (NN Frenzy)) (VP (VBZ 's))) ('' ')) ('' ') (NNS tidbits))))))) (, ,) (NP (DT the) (NNS authors)) (VP (VB gloss) (PRT (RP over)) (NP (DT the) (NN root) (NNS causes)) (PP (IN of) (NP (NP (NNP Wedtech)) (PRN (, ,) (ADVP (RB namely)) (NP (DT the) (NNP Section) (CD 8)) (-LRB- -LRB-) (DT A) (-RRB- -RRB-)))) (NP (JJ federal) (NN program)) (PP (IN under) (SBAR (WHNP (WP$ whose) (NNS auspices)) (S (NP (DT the) (NN scandal)) (VP (VBD took) (NP (NN place))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP do) (ADVP (IN at) (JJS least)) (VP (VB come) (ADVP (RB around)) (PP (TO to) (S (VP (VBG saying) (SBAR (IN that) (S (NP (DT the) (NNS courts)) (VP (MD might) (VP (VB want) (S (VP (TO to) (VP (VB end) (`` `) (NP (`` `) (JJ rigid) (JJ affirmative) (NN action) (NNS programs)))))))))))))) (. .) ('' ') ('' ')))
+
+(S1 (S (NP (NP (NNS Programs)) (PP (IN like) (NP (NP (NNP Section) (CD 8)) (PRN (-LRB- -LRB-) (NP (DT A)) (-RRB- -RRB-))))) (VP (VBP are) (NP (DT a) (JJ little)) (PP (IN like) (S (S (VP (VBG leaving) (NP (NN gold)) (PP (IN in) (NP (DT the) (NN street))))) (CC and) (S (VP (ADVP (RB then)) (VBG expressing) (NP (NN surprise) (SBAR (WHADVP (WRB when)) (S (NP (NNS thieves)) (VP (VBP walk) (VP (IN by) (S (VP (TO to) (VP (NN scoop) (NP (PRP it)) (ADVP (RB up))))))))))))))) (. .)))
+
+(S1 (S (NP (NP (JJ Numerous) (JJ other) (NNS scandals)) (, ,) (NP (PP (IN among) (NP (PRP them))) (NP (DT the) (NNS ones)) (PP (IN at) (NP (NNP HUD)))) (, ,)) (VP (VBP have) (VP (NP (NP (DT the) (JJ same) (NNS characteristics)) (PP (IN as) (NP (NNP Wedtech)))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP take) (NP (NN place)) (PP (IN in) (NP (NP (NN government) (NNS programs)) (SBAR (WHNP (WDT that)) (S (VP (VBP seem) (ADJP (JJ tailor-made) (PP (IN for) (NP (NN corruption)))))))))) (. .)))
+
+(S1 (SBAR (WHADVP (WRB Why)) (S (VP (VBP are) (NP (NP (NNS programs)) (PP (IN like) (NP (NP (DT this)) (VP (RB not) (VBN eliminated))))))) (. ?)))
+
+(S1 (S (NP (`` `) (NP (`` `) (NN Feeding) (NN Frenzy) ('' ')) ('' ')) (VP (VBZ does) (VP (VB provide) (NP (DT a) (JJ few) (NNS clues)))) (. .)))
+
+(S1 (S (PP (IN In) (CC and) (IN around) (NP (DT all))) (NP (NP (NNS levels)) (PP (IN of) (NP (NP (NN government)) (PP (IN in) (NP (DT the) (NNP U.S.)))))) (VP (VBP are) (NP (NP (NNS groups)) (PP (IN of) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (MD can) (ADVP (RB best)) (VP (VB be) (VP (VBN described) (PP (IN as) (S (VP (VBG belonging) (PP (TO to) (NP (DT a) (JJ political) (NN insider) (JJ commercial) (NN party))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBP know) (SBAR (IN that) (S (SBAR (WHADVP (WRB whenever)) (S (NP (NN government)) (VP (VBZ is) (S (VP (VP (VBG redistributing) (NP (NN wealth))) (, ,) (VP (VBG regulating) (NP (NN commerce))) (CC or) (VP (VBG maintaining) (NP (DT a) (JJ large) (NN defense))) (NP (NN establishment))))))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (JJ big) (NN money)) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN made) (PP (IN in) (VP (VBG influencing) (, ,) (S (VP (VBG brokering) (CC or) (VBG selling) (NP (DT the) (NP (NNS processes)) (CC and) (NP (NP (NNS decisions)) (PP (IN of) (NP (NN government))))))))))))))))))) (. .)))
+
+(S1 (S (S (NP (PRP They)) (VP (VBP are) (NP (NP (PRP$ our) (NN version)) (PP (IN of) (NP (NP (DT the) (NNP East) (NN bloc) (POS 's)) (NNP Nomenklatura)))))) (CC and) (S (NP (PRP they)) (VP (VBP have) (ADVP (RB absolutely)) (RB no) (VP (VB wish) (S (VP (TO to) (VP (VB see) (NP (NN anything)) (NP (NN change)))))))) (. .)))
+
+(S1 (SBARQ (WHADVP (WRB How) (NP (JJ many) (NN government) (NNS programs) (CC and) (NNS policies))) (SQ (VBP exist) (RB because) (NP (PRP they)) (VP (VB line) (NP (NP (DT the) (NNS pockets)) (PP (IN of) (NP (JJ political) (NNS insiders)))))) (. ?)))
+
+(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ real) (NN issue)) (VP (VBD raised) (PP (IN by) (NP (DT the) (NNP Wedtech) (NN scandal)))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Stern)) (VP (VBD was) (NP (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (DT the) (NNP New) (NNP York) (NNP State) (NNP Urban) (NNP Development) (NNP Corp.)))) (, ,) (ADVP (CD 1983-85))) (. .)))
+

@@ -1,0 +1,12 @@
+(S1 (S (NP (NP (NNP Unilab) (NNP Corp.)) (, ,) (NP (NP (NNP Norcross)) (, ,) (NP (NNP Ga.))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD acquired) (NP (NP (DT the) (JJ clinical) (NNS laboratories)) (PP (IN of) (NP (ADJP (RB closely) (VBN held)) (NNP Central) (JJ Diagnostic) (NNP Laboratory) (NNP Inc.)))) (PP (IN in) (NP (NP (DT a) (NN cash) (CC and) (NNS securities) (NN transaction)) (VP (VBN valued) (PP (IN at) (NP (QP ($ $) (CD 85) (CD million))))))))))) (. .)))
+
+(S1 (S (NP (NNP Unilab)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (ADJP (RB wholly) (VBN owned)) (NNP MetWest) (NNP Inc.) (NN unit)) (VP (VBD paid) (NP (NP (NP (QP ($ $) (CD 25) (CD million))) (PP (IN in) (NP (NN cash)))) (, ,) (NP (NP (QP (VBN provided) ($ $) (CD 30) (CD million))) (PP (IN in) (NP (NNS notes)))) (CC and) (NP (NP (QP ($ $) (CD 30) (CD million))) (PP (IN in) (NP (JJ preferred) (NN stock))))) (S (VP (TO to) (VP (VB acquire) (NP (NP (NNP Central) (POS 's)) (NNS labs)) (PP (IN in) (NP (DT the) (NNP Western) (NNP U.S.)))))))))) (. .)))
+
+(S1 (S (NP (NP (NNP Unilab)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ provides) (NP (JJ clinical) (NN laboratory) (NNS services))))) (, ,)) (VP (VBN competed) (PP (IN with) (NP (NP (NNP Central)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Tarzana)) (, ,) (NP (NNP Calif.)) (, ,))) (PP (IN in) (NP (NP (DT a) (NN number)) (PP (IN of) (NP (NNS areas))))))))) (. .)))
+
+(S1 (SINV (S (PP (IN Beyond) (S (VP (VBG removing) (NP (DT a) (NN competitor))))) (, ,) (NP (DT the) (NN combination)) (VP (MD should) (VP (VB provide) (NP (`` `) (NP (`` `) (NNS synergies) (, ,) ('' ')) ('' '))))) (VP (VBD said)) (NP (NP (NNP Fred) (NNP Harlow)) (, ,) (NP (NP (NNP Unilab) (POS 's)) (JJ chief) (JJ financial) (NN officer))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (MD will) (VP (VB hand) (NP (NNP Unilab) (JJ new) (NNS markets)))) (. .)))
+
+(S1 (S (PP (IN In) (NP (NNP Los) (NNP Angeles))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (NP (NNP Central)) (VP (VBZ has) (VP (VBN had) (NP (DT a) (JJ strong) (NN market) (NN position)) (SBAR (IN while) (S (NP (NP (NNP Unilab) (POS 's)) (NN presence)) (VP (VBZ has) (VP (VBN been) (ADJP (RBR less) (JJ prominent)) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP Mr.) (NNP Harlow)))))))))) (. .)))
+

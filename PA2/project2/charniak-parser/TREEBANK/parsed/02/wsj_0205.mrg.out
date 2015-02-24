@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (NNP New) (NNP Brunswick) (NNP Scientific) (NNP Co.)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NN biotechnology) (NN instrumentation) (CC and) (NN equipment)))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD adopted) (NP (DT an) (JJ anti-takeover) (NN plan)) (S (VP (VBG giving) (NP (NNS shareholders)) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB purchase) (NP (NNS shares)) (PP (IN at) (NP (JJ half) (NN price))) (PP (IN under) (NP (JJ certain) (NNS conditions))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (DT the) (NN plan)) (, ,) (PP (IN under) (NP (NP (NN review)) (PP (IN for) (NP (DT some) (NN time))))) (, ,) (VP (MD will) (VP (VB protect) (NP (NNS shareholders)) (PP (IN against) (NP (ADJP (`` `) (`` `) (JJ abusive)) (NN takeover) (NNS tactics)))))))) (. .)))
+

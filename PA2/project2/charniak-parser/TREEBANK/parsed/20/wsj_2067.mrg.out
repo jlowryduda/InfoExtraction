@@ -1,0 +1,20 @@
+(S1 (S (NP (NP (NNP Boeing) (NNP Co.)) (, ,) (VP (ADVP (RB already)) (VBN struck) (PP (IN by) (NP (PRP$ its) (NNPS Machinists) (NN union)))) (, ,)) (ADVP (RB briefly)) (VP (VP (VBD called) (PRT (RP off)) (NP (NP (NN contract) (NNS talks)) (PP (IN with) (NP (PRP$ its) (NNS engineers))))) (CC and) (VP (VBD labeled) (S (NP (PRP$ their) (NNS demands)) (`` `) (ADJP (`` `) (RB grossly) (JJ excessive))))) (. .) ('' ') ('' ')))
+
+(S1 (S (ADVP (RB Later)) (, ,) (ADVP (RB however)) (, ,) (NP (DT the) (NN company)) (VP (VBD agreed) (S (VP (TO to) (VP (VB meet) (PP (IN on) (NP (NNP Monday))) (PP (IN with) (NP (DT the) (NNP Seattle) (NNP Professional) (NNP Engineering) (NNPS Employees) (NNP Association)))))) (SBAR (IN after) (S (NP (DT a) (JJ federal) (NN mediator)) (VP (VBD intervened) (, ,) (PP (VBG according) (PP (TO to) (NP (DT the) (NN union)))))))) (. .)))
+
+(S1 (S (NP (NP (DT A) (NN spokesman)) (PP (IN for) (NP (DT the) (NNS engineers)))) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (VBD asked) (S (NP (DT the) (NN union)) (VP (TO to) (VP (VP (VB reduce) (NP (PRP$ its) (NNS demands)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD included) (NP (NP (DT a) (ADJP (CD 19) (NN %)) (NN pay) (NN hike)) (PP (IN in) (NP (DT the) (JJ first) (NN year)))))))) (CC and) (VP (NP (CD 8) (NN %)) (PP (IN in) (NP (DT the) (ADJP (JJ second) (CC and) (JJ third)) (NNS years))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NN union)) (VP (VBZ represents) (NP (NP (QP (RB about) (CD 28,000)) (NNS engineers)) (CC and) (NP (JJ technical) (NNS workers)))) (. .)))
+
+(S1 (S (NP (PRP$ Its) (NN contract)) (VP (VBZ expires) (NP (NNP Dec.) (CD 1))) (. .)))
+
+(S1 (S (ADVP (RB Meanwhile)) (, ,) (NP (DT a) (JJ federal) (NN mediator)) (VP (VBZ is) (VP (VBN scheduled) (S (VP (TO to) (VP (VB meet) (NP (NN today)) (PP (IN with) (NP (NP (NNP Boeing) (NNS officials)) (CC and) (NP (NP (NNS representatives)) (PP (IN of) (NP (CD 55,000) (JJ striking) (NNS Machinists))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (PRP It)) (VP (MD will) (VP (VB take) (NP (JJ several) (NNS meetings)) (S (VP (TO to) (VP (VB resolve) (NP (DT this))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (DT a) (NN spokesman)) (PP (IN for) (NP (DT the) (NNP Machinists) (NN union)))) (. .)))
+
+(S1 (S (`` `) (S (`` `) (NP (PRP We)) (VP (VBP do) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB bring) (ADVP (RB back)) (NP (NP (NN something)) (SBAR (S (NP (DT the) (NNS members)) (VP (MD will) (VP (VB reject))))))))))) (. .) ('' ')) ('' ')))
+
+(S1 (S (NP (NNS Machinists)) (ADVP (RB already)) (VP (VBP have) (VP (VBN rejected) (NP (NP (DT a) (NN package)) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB have) (VP (VBN provided) (NP (NP (DT a) (ADJP (CD 10) (NN %)) (NN pay) (NN raise)) (CC plus) (NP (NP (NNS bonuses)) (PP (IN over) (NP (NP (DT the) (JJ three-year) (NN life)) (PP (IN of) (NP (DT the) (NN contract))))))))))))))) (. .)))
+
+(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (MD would) (VP (VB have) (VP (VBN reduced) (NP (JJ mandatory) (NN overtime))))) (. .)))
+

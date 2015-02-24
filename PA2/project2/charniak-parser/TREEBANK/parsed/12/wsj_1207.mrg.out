@@ -1,0 +1,20 @@
+(S1 (S (NP (NNP Rubbermaid) (NNP Inc.)) (, ,) (S (VP (VBG reflecting) (NP (JJ strong) (NNS earnings) (NN growth)))) (, ,) (VP (VBD boosted) (NP (PRP$ its) (JJ quarterly) (NN dividend)) (NP (CD 18) (NN %)) (, ,) (PP (TO to) (NP (NP (CD 13) (NNS cents)) (NP (DT a) (NN share)))) (PP (IN from) (NP (CD 11) (NNS cents)))) (. .)))
+
+(S1 (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (NN household) (NNS products)))) (VP (VBD said) (SBAR (S (NP (DT the) (JJ new) (NN dividend)) (VP (VBZ is) (ADJP (JJ payable) (NP (NNP Dec.) (CD 1)) (PP (TO to) (NP (NP (NNS shares)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 10))))))))) (. .)))
+
+(S1 (S (ADVP (RB Separately)) (, ,) (NP (NP (DT the) (NN company) (POS 's)) (NN board)) (VP (VBD adopted) (NP (DT a) (NN proposal) (S (VP (TO to) (VP (VB amend) (NP (PRP$ its) (CD 1986) (NN shareholder) (NNS rights) (NN plan)) (, ,) (S (ADVP (RB further)) (VP (VBG insulating) (NP (DT the) (NN company)) (PP (IN from) (NP (NN takeover)))))))))) (. .)))
+
+(S1 (S (NP (NNP Rubbermaid) (NNS officials)) (VP (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP are) (RB n't) (ADJP (JJ aware) (PP (IN of) (NP (DT any) (NN effort) (S (VP (TO to) (VP (VB take) (PRT (RP over)) (NP (DT the) (NN company)))))))))))) (, ,) (CC but) (VP (VBD believed) (NP (NP (DT the) (NN shareholder) (NN plan)) (VP (VBN needed) (S (VP (TO to) (VP (VB be) (VP (VBN strengthened))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT The) (NN board)) (VP (VBZ has) (VP (VBN stated) (ADVP (RB repeatedly)) (SBAR (IN that) (S (NP (NNP Rubbermaid)) (VP (MD should) (VP (VB be) (ADJP (JJ independent)))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Walter) (NNP W.) (NNP Williams)) (, ,) (NP (NNP Rubbermaid) (NN president))) (. .)))
+
+(S1 (S (S (NP (NP (DT Some) (NNS changes)) (PP (TO to) (NP (DT the) (NN plan)))) (VP (VBD were) (NP (JJ minor) (NNS adjustments)))) (, ,) (CC but) (S (NP (DT the) (ADJP (RBS most) (JJ significant))) (VP (VBD was) (NP (NP (DT an) (NN amendment)) (SBAR (WHNP (WDT that)) (S (VP (VBZ provides) (SBAR (IN that) (S (SBAR (IN if) (S (NP (DT any) (NN investor)) (VP (VBZ holds) (NP (NP (QP (CD 25) (NN %) (CC or) (JJR more))) (PP (IN of) (NP (NP (NNP Rubbermaid) (POS 's)) (NN voting) (NNS securities))))))) (, ,) (NP (NP (DT each) (NN right)) (VP (VBN held) (PP (IN by) (NP (NNS others))))) (VP (MD would) (VP (VB entitle) (S (NP (DT the) (NN holder)) (VP (TO to) (VP (VB buy) (NP (NNP Rubbermaid) (NNS shares)) (PP (IN with) (NP (NP (DT a) (NN market) (NN value)) (PP (IN of) (NP (NP (RB twice) (DT the) (JJ right) (POS 's)) (NN exercise) (NN price)))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Williams)) (VP (VBD said) (SBAR (S (NP (DT the) (NN exercise) (NN price)) (VP (VBZ is) (NP ($ $) (CD 125)) (, ,) (S (VP (VBG meaning) (SBAR (S (NP (NNS holders)) (VP (MD would) (VP (VB have) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB buy) (NP (NP ($ $) (CD 250)) (PP (IN of) (NP (NNP Rubbermaid) (NN stock)))) (PP (IN for) (NP (JJ half) (NN price))) (, ,) (S (VP (VBG diluting) (NP (NP (DT the) (NN investor) (POS 's)) (ADJP (CD 25) (NN %)) (NN stake)))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (JJ third) (NN quarter))) (, ,) (NP (NNP Rubbermaid)) (VP (VBD earned) (NP (NP (QP ($ $) (CD 32.6) (CD million))) (, ,) (CC or) (NP (NP (CD 44) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (RB up) (NP (CD 16) (NN %)) (PP (IN from) (NP (NP (QP ($ $) (CD 28.1) (CD million))) (, ,) (CC or) (NP (NP (CD 38) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))) (. .)))
+
+(S1 (S (NP (NNS Sales)) (VP (VBD rose) (NP (CD 9.7) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 351.5) (CD million)))) (PP (IN from) (NP (QP ($ $) (CD 320.4) (CD million))))) (. .)))
+
+(S1 (S (NP (NNP Rubbermaid) (NNS shares)) (VP (VBD closed) (NP (NN yesterday)) (PP (IN at) (NP ($ $) (CD 33.875))) (, ,) (ADVP (RB off) (NP (CD 12.5) (NNS cents))) (, ,) (PP (IN in) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))) (. .)))
+

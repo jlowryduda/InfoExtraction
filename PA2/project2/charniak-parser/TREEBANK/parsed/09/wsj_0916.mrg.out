@@ -1,0 +1,10 @@
+(S1 (S (S (NP (JJ Canadian) (NNS manufacturers)) (VP (VBD recorded) (NP (NP (DT a) (ADJP (CD 0.8) (NN %)) (NN decline)) (PP (IN in) (NP (NNP August)))) (PP (IN in) (NP (NP (PRP$ their) (NN backlog)) (PP (IN of) (NP (JJ unfilled) (NNS orders))))))) (, ,) (NP (NP (NNP Statistics) (NNP Canada)) (, ,) (NP (DT a) (JJ federal) (NN agency)) (, ,)) (VP (VBD said)) (. .)))
+
+(S1 (S (NP (DT The) (NNP August) (NN drop)) (VP (VBD was) (NP (NP (DT the) (JJ fourth) (NN decline)) (PP (IN in) (NP (CD five) (NNS months))))) (. .)))
+
+(S1 (S (NP (NP (JJS Most)) (PP (IN of) (NP (DT the) (NNP August) (NN decrease)))) (VP (VBD was) (VP (VBN attributed) (PP (TO to) (NP (NP (NP (JJR lower) (NN order) (NNS backlogs)) (PP (IN in) (NP (DT the) (JJ primary) (NN metal)))) (CC and) (NP (JJ electric) (CC and) (JJ electronics-product) (NNS industries)))))) (. .)))
+
+(S1 (S (NP (NP (NNS Manufacturers) (POS ')) (NNS shipments)) (VP (VBD rose) (NP (CD 0.3) (NN %)) (PP (IN in) (NP (NNP August))) (PP (VBG following) (NP (NP (CD two) (NNS months)) (PP (IN of) (NP (NNS declines)))))) (. .)))
+
+(S1 (S (NP (NNS Inventories)) (VP (VBD fell) (NP (CD 0.3) (NN %)) (PP (IN in) (NP (NNP August)))) (. .)))
+

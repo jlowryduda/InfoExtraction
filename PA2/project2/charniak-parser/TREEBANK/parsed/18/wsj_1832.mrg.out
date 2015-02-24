@@ -1,0 +1,10 @@
+(S1 (S (NP (JJ International) (NNS Proteins)) (NP (NNP Corp.)) (VP (ADVP (RB definitively)) (VBD agreed) (S (VP (TO to) (VP (VB pay) (NP (NP (QP ($ $) (CD 49) (CD million))) (CC and) (NP (NP (CD 2,850,000)) (PP (IN of) (NP (PRP$ its) (NNS shares))))) (PP (IN for) (NP (NP (NNP Hanson) (NNP PLC) (POS 's)) (NNP Ground) (NN Round) (NN restaurant) (NN subsidiary))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Shareholders)) (PP (IN of) (NP (NP (NNP International) (VBZ Proteins)) (, ,) (NP (DT a) (NN food) (CC and) (NNS agriproducts) (NN company)) (, ,)))) (VP (MD will) (VP (VB vote) (PP (IN on) (NP (DT the) (NN transaction))) (PP (IN at) (NP (DT a) (NN meeting))) (NP (RB late) (JJ next) (NN month)))) (. .)))
+
+(S1 (S (NP (NNP Hanson)) (VP (VBZ is) (NP (NP (DT a) (NNP London) (NN producer)) (PP (IN of) (NP (UCP (NN consumer) (CC and) (JJ other)) (NNS goods))))) (. .)))
+
+(S1 (S (NP (JJ International) (NNS Proteins) (NNS shares)) (VP (VBD did) (RB n't) (VP (VB trade) (NP (NN yesterday)) (PP (IN on) (NP (DT the) (NNP American) (NNP Stock) (NNP Exchange))))) (. .)))
+
+(S1 (S (NP (PRP They)) (VP (VBD closed) (NP (NNP Tuesday)) (PP (IN in) (NP (JJ composite) (NN trading))) (PP (IN at) (NP ($ $) (CD 13.625))) (, ,) (ADVP (RB down) (NP (CD 37.5) (NNS cents))) (, ,) (S (VP (VBG giving) (NP (NP (DT the) (NN stock) (NN portion)) (PP (IN of) (NP (DT the) (NN transaction)))) (NP (NP (DT an) (VBN indicated) (NN value)) (PP (IN of) (NP (QP ($ $) (CD 38.8) (CD million)))))))) (. .)))
+

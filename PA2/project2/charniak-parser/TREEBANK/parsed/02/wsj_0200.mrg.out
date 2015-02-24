@@ -1,0 +1,4 @@
+(S1 (S (PP (IN In) (NP (NP (DT an) (NNP Oct.) (CD 19) (NN review)) (PP (IN of) (NP (`` `) (NP (`` `) (NP (DT The) (NN Misanthrope) (POS ')) ('' ') (PP (IN at) (NP (NP (NNP Chicago) (POS 's)) (NNP Goodman) (NNP Theatre)))) (PRN (-LRB- -LRB-) (`` `) (S (`` `) (NP (JJ Revitalized) (NNS Classics)) (VP (VB Take) (NP (DT the) (NN Stage)) (PP (IN in) (NP (NNP Windy) (NNP City)))) (, ,) ('' ')) ('' ') (NP (NNP Leisure) (CC &) (NNP Arts)) (-RRB- -RRB-)))))) (, ,) (NP (NP (DT the) (NN role)) (PP (IN of) (NP (NNP Celimene)))) (, ,) (S (VP (VBN played) (PP (IN by) (NP (NNP Kim) (NNP Cattrall))))) (, ,) (VP (VBD was) (ADVP (RB mistakenly)) (VP (VBN attributed) (PP (TO to) (NP (NNP Christina) (NNP Haag))))) (. .)))
+
+(S1 (S (NP (NNP Ms.) (NNP Haag)) (VP (VBZ plays) (NP (NNP Elianti))) (. .)))
+

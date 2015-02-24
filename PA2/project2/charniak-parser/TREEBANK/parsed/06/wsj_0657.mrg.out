@@ -1,0 +1,20 @@
+(S1 (S (NP (NNP Nikon) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (JJ unconsolidated) (JJ pretax) (NN profit)) (VP (VBD increased) (NP (CD 70) (NN %)) (PP (TO to) (NP (NP (QP (CD 12.12) (CD billion)) (NNS yen)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 85.3) (CD million))) (-RRB- -RRB-)))) (PP (IN in) (NP (NP (DT the) (JJ first) (NN half)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))) (, ,) (PP (IN from) (NP (QP (CD 7.12) (CD billion)) (NNS yen)) (ADVP (NP (DT a) (NN year)) (RB ago))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNP Tokyo) (NN camera) (NN maker)) (VP (VBD said) (SBAR (S (NP (JJ net) (NN income)) (VP (ADVP (RBR more) (IN than)) (VBD doubled) (PP (TO to) (NP (NP (QP (CD 5.85) (CD billion)) (NNS yen)) (, ,) (CC or) (NP (NP (CD 16.08)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP (CD 2.63) (CD billion)) (NNS yen)) (, ,) (CC or) (NP (NP (CD 7.24) (NNS yen)) (NP (DT a) (NN share))))))))) (. .)))
+
+(S1 (S (NP (NNP Nikon)) (VP (VBD said) (SBAR (S (NP (NNS sales)) (VP (VBD rose) (PP (IN despite) (NP (NP (DT the) (JJ adverse) (NN effect)) (PP (IN of) (NP (NP (NP (NNP Japan) (POS 's)) (JJ unpopular) (NN consumption) (NN tax)) (, ,) (VP (VBN introduced) (PP (IN in) (NP (NNP April)))))))))))) (. .)))
+
+(S1 (S (S (NP (NP (VBG Increasing) (JJ personal) (NN spending)) (CC and) (NP (NN capital) (NN investment))) (VP (VBP are) (VP (VBG fueling) (NP (NN growth))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
+
+(S1 (S (S (NP (VBG Rising) (NN export) (NNS sales)) (ADVP (RB also)) (VP (VBD contributed) (PP (TO to) (NP (JJ strong) (NN growth))))) (, ,) (NP (NNP Nikon)) (VP (VBD added)) (. .)))
+
+(S1 (S (NP (JJ Total) (NNS sales)) (VP (VBD gained) (NP (CD 20) (NN %)) (PP (TO to) (NP (QP (CD 122.36) (CD billion)) (NNS yen))) (PP (IN from) (NP (QP (CD 102.01) (CD billion)) (NNS yen)))) (. .)))
+
+(S1 (S (NP (NNS Exports)) (VP (VBD made) (NP (NP (QP (IN up) (CD 46.2)) (NN %)) (PP (IN of) (NP (NP (DT the) (JJS latest) (NN year) (POS 's)) (NN total))) (, ,) (ADVP (RB up) (PP (IN from) (NP (CD 39.8) (NN %)) (ADVP (NP (DT a) (NN year)) (RB ago)))))) (. .)))
+
+(S1 (S (NP (NN Camera) (NNS sales)) (VP (VBD showed) (NP (DT the) (JJS strongest) (NNS gains)) (, ,) (S (VP (VBG rising) (NP (CD 37) (NN %)) (PP (TO to) (NP (QP (CD 50.59) (CD billion)) (NNS yen)))))) (. .)))
+
+(S1 (S (NP (NNP Nikon)) (VP (VBD forecast) (SBAR (S (NP (NP (NNS sales)) (PP (IN for) (NP (NP (DT the) (NN year)) (VP (VBG ending) (NP (NNP March) (CD 31)))))) (VP (MD will) (VP (VB rise) (NP (CD 9.6) (NN %)) (PP (TO to) (NP (QP (CD 240) (CD billion)) (NNS yen)))))))) (. .)))
+
+(S1 (S (S (NP (JJ Pretax) (NN profit)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB increase) (NP (CD 18) (NN %)) (PP (TO to) (NP (QP (CD 22) (CD billion)) (NNS yen))))))))) (CC and) (S (NP (JJ net) (NN income)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB rise) (NP (CD 53) (NN %)) (PP (TO to) (NP (QP (CD 10.5) (CD billion)) (NNS yen))))))))) (. .)))
+

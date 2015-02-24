@@ -1,0 +1,12 @@
+(S1 (NP (JJ Idle) (NNP Thought)))
+
+(S1 (S (S (VP (TO To) (VP (VB spend) (NP (DT a) (JJ carefree) (, ,) (JJ idle) (NN day))))) (, ,) (SBAR (WHADVP (WRB When)) (S (NP (NN duty)) (VP (VBZ calls) (, ,) (S (VP (TO to) (VP (VB pay) (NP (RB no) (VB heed)))))))) (, ,) (S (VP (TO To) (VP (NN while) (NP (DT the) (JJ precious) (NNS hours)) (ADVP (RB away))))) (: --) (S (NP (NN Character)) (VP (VBZ is) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP need)))))) (. .)))
+
+(S1 (NP (: --) (NNP May) (NNP Richstone) (. .)))
+
+(S1 (S (VP (VBN Telecussed))))
+
+(S1 (S (NP (NP (DT The) (NN guy)) (SBAR (WHNP (WP who)) (S (VP (VBZ throws) (NP (NP (DT an) (NN intercept) (POS ')) (NN Cause)))))) (NP (PRP$ his) (NN receiver)) (VP (VBZ slips) (SBAR (S (VP (MD Should) (ADVP (RB somehow)) (VP (VB be) (VP (VBN advised) (SBAR (IN that) (S (NP (NP (PRP we)) (PP (IN At) (NP (NN home)))) (VP (MD can) (VP (VB read) (NP (PRP$ his) (NNS lips)))))))))))) (. .)))
+
+(S1 (NP (: --) (NNP Dick) (NNP Emmons) (. .)))
+

@@ -1,0 +1,50 @@
+(S1 (S (NP (NNP American) (NNP Telephone) (CC &) (NNP Telegraph) (NNP Co.)) (VP (VBD unveiled) (NP (NP (DT a) (VBN sweetened) (NN pension) (CC and) (NN early-retirement) (NN program)) (PP (IN for) (NP (NN management))) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ hopes) (SBAR (S (VP (MD will) (VP (VB enable) (S (NP (PRP it)) (VP (TO to) (VP (VB save) (NP (NP (QP ($ $) (CD 450) (CD million))) (PP (IN in) (NP (DT the) (JJ next) (NN year)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP AT&T)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (JJ net) (NN income)) (VP (VBD rose) (NP (CD 19) (NN %)) (PP (IN in) (NP (DT the) (JJ third) (NN quarter))))))) (. .)))
+
+(S1 (S (NP (NNP AT&T)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (VBN amended) (NN pension) (NN program)) (VP (MD will) (ADVP (RB nearly)) (VP (VB double) (PP (TO to) (NP (CD 34,000))) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS managers)) (ADJP (JJ eligible) (S (VP (TO to) (VP (VB retire) (PP (IN with) (NP (JJ immediate) (NN pension) (NNS payments))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP AT&T)) (VP (VBD said) (SBAR (IN that) (S (PP (VBN based) (PP (IN on) (NP (NP (NNS studies)) (PP (IN of) (NP (NP (JJ other) (NNS companies)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN offered) (NP (NN retirement) (NNS plans))))))))))) (, ,) (NP (PRP it)) (VP (VBZ expects) (S (NP (NP (IN about) (NN one-third)) (PP (IN of) (NP (PRP$ its) (JJ eligible) (NNS managers)))) (VP (TO to) (VP (VB retire) (PP (IN under) (NP (DT the) (JJ new) (NN program)))))))))) (. .)))
+
+(S1 (S (NP (NNP AT&T)) (VP (VBD said) (SBAR (S (NP (JJ third-quarter) (JJ net) (NN income)) (VP (VBD grew) (, ,) (PP (IN despite) (NP (NP (JJ stiff) (NN competition)) (PP (IN in) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NNS markets))))))))))) (. .)))
+
+(S1 (S (NP (JJ Net) (NN income)) (VP (VBD rose) (PP (TO to) (NP (NP (QP ($ $) (CD 699) (CD million))) (, ,) (CC or) (NP (NP (CD 65) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (DT the) (JJ year-earlier) (QP ($ $) (CD 587) (CD million))) (, ,) (CC or) (NP (NP (CD 55) (NNS cents)) (NP (DT a) (NN share)))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD edged) (PRT (RP up)) (PP (TO to) (NP (QP ($ $) (CD 8.9) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 8.81) (CD billion))))) (. .)))
+
+(S1 (S (NP (NP (DT The) (JJS latest) (NN period) (POS 's)) (NN net)) (VP (VBD was) (VP (VBN reduced) (NP (NP (QP ($ $) (CD 102) (CD million))) (, ,) (CC or) (NP (NP (CD nine) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (PP (IN for) (NP (NP (DT a) (NN change)) (PP (IN in) (NP (NP (NN depreciation) (NN method)) (CC and) (NP (NP (JJ concurrent) (NNS changes)) (PP (IN in) (NP (NP (NNS estimates)) (PP (IN of) (NP (NP (JJ depreciable) (NNS lives)) (CC and) (NP (NP (JJ net) (NN salvage)) (PP (IN for) (NP (JJ certain) (NN telecommunications) (NN equipment))))))))))))))) (. .)))
+
+(S1 (S (NP (DT The) (NNS results) (RB roughly)) (VP (VBD matched) (NP (NP (NNS estimates)) (PP (IN of) (NP (NP (NNS securities) (NNS analysts)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN encouraged) (PP (IN by) (NP (NNP AT&T))) (S (VP (VBG increasing) (NP (PRP$ its) (NN operating) (NN margin)) (PP (TO to) (NP (CD 13) (NN %))) (PP (IN from) (NP (CD 11) (NN %)) (ADVP (NP (DT a) (NN year)) (RB ago))) (, ,) (PP (IN because) (IN of) (NP (VBN continued) (NN cost-cutting) (NNS efforts))))))))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Sales)) (PP (IN of) (NP (NP (NN long-distance) (NNS services)) (, ,) (NP (DT an) (ADJP (RB extremely) (JJ competitive)) (NN market)) (, ,)))) (VP (VBD rose) (NP (CD 6.4) (NN %))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN growth)) (VP (VBD was) (VP (ADVP (RB partly)) (VBN offset) (PP (IN by) (NP (NP (JJR lower) (NN equipment) (NNS sales) (CC and) (NNS rentals)) (CC and) (NP (NP (NN price) (NNS cuts)) (PP (IN on) (NP (DT some) (NNS products)))))))) (. .)))
+
+(S1 (S (PP (IN Under) (NP (DT the) (VBN amended) (NN pension) (NN program))) (, ,) (NP (NP (NNP AT&T) (NNS managers)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (NP (NP (QP (IN at) (JJS least) (CD five)) (NNS years)) (PP (IN of) (NP (NN service)))))))) (VP (MD will) (VP (VB have) (NP (NP (CD five) (NNS years)) (VP (VBN added) (PP (TO to) (NP (NP (PRP$ their) (NN age) (CC and) (NN length)) (PP (IN of) (NP (NN service))))) (PP (IN for) (NP (NN pension) (NNS purposes))))))) (. .)))
+
+(S1 (S (NP (NP (NNS Managers)) (SBAR (WHNP (WP who)) (S (VP (VB retire) (NP (NNP Dec.) (CD 30)))))) (VP (MD will) (VP (VB have) (NP (NP (NP (DT an) (JJ additional) (CD 15) (NN %)) (VP (VBN added) (PP (TO to) (NP (PRP$ their) (JJ monthly) (NN pension))) (PP (IN for) (NP (QP (RB as) (JJ long) (IN as) (CD five)) (NNS years))))) (CC or) (NP (NN age) (CD 65))) (, ,) (SBAR (WHNP (WDT whichever)) (S (VP (VBZ comes) (ADVP (RBR earlier))))))) (. .)))
+
+(S1 (S (NP (DT An) (NNP AT&T) (NN spokeswoman)) (VP (VBD said) (SBAR (S (NP (DT the) (NN company)) (VP (MD would) (ADVP (RB likely)) (VP (VB replace) (NP (NP (IN about) (NN one-third)) (PP (IN of) (NP (NP (PRP$ its) (NNS managers)) (SBAR (WHNP (WP who)) (S (VP (VBP choose) (S (VP (TO to) (VP (VB retire) (PP (IN with) (NP (JJ new) (NNS employees))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNS Analysts)) (VP (VBD hailed) (NP (NP (DT the) (VBN sweetened) (NN pension) (NN package)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP they)) (VP (VBD said) (SBAR (S (VP (VBD had) (VP (VBN been) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (NNS rumors)))) (PP (IN for) (NP (JJ several) (NNS months)))))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (NP (DT This)) (VP (VBZ tells) (NP (PRP you)) (SBAR (S (NP (NNP AT&T)) (VP (VP (VBZ is) (ADJP (JJ serious) (PP (IN about) (S (VP (VBG continuing) (S (VP (TO to) (VP (VB manage) (NP (PRP$ their) (NN cost) (NN structure)))))))))) (CC and) (VP (VBZ is) (ADJP (VBN committed) (PP (TO to) (NP (CD 20) (NN %)))) (NP (JJ -a-year) (NNS earnings) (NN growth))))))) (, ,) ('' ')) ('' ') (VP (VBD said)) (NP (NP (NNP Jack) (NNP Grubman)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP PaineWebber) (NNP Inc))))) (. .)))
+
+(S1 (S (CC But) (NP (JJ other) (NNS analysts)) (VP (VBD expressed) (NP (NN disappointment) (SBAR (IN that) (S (NP (DT the) (JJ cost-cutting) (NN move)) (VP (MD wo) (RB n't) (VP (VB result) (PP (IN in) (NP (ADJP (RB even) (JJR greater)) (NNS earnings) (NN growth))))))))) (. .)))
+
+(S1 (SINV (`` `) (S (`` `) (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ good) (NN move)))) (, ,) (CC but) (S (NP (PRP it)) (ADVP (RB only)) (VP (VBZ gets) (NP (PRP you)) (PP (TO to) (SBAR (WHADVP (WRB where)) (S (NP (NP (NNS people) (POS 's)) (NNS expectations)) (ADVP (RB already)) (VP (VBP are)) (, ,) ('' ')))) ('' ') (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NNS earnings) (NN growth)))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Joel) (NNP D.) (NNP Gross)) (, ,) (NP (NP (DT an) (NN analyst)) (PP (IN with) (NP (NNP Donaldson) (, ,) (NNP Lufkin) (CC &) (NNP Jenrette))))) (. .)))
+
+(S1 (S (NP (NNP Mr.) (NNP Gross)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD had) (VP (VBN hoped) (SBAR (IN that) (S (NP (NP (DT a) (NN cost) (NNS savings)) (PP (IN of) (NP (QP ($ $) (CD 450) (CD million))))) (VP (MD would) (VP (VB result) (PP (IN in) (NP (NP (ADJP (RB even) (JJR greater)) (NN growth)) (PP (IN than) (NP (NP (DT the) (ADJP (CD 20) (NN %)) (JJ annual) (NN earnings) (NN increase)) (SBAR (S (NP (NNP AT&T)) (VP (VBZ has) (VP (VBN told) (NP (NNS analysts)) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (PP (IN in) (NP (DT the) (NN future))))))))))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP AT&T)) (VP (VBD said) (SBAR (S (NP (DT the) (JJ special) (NN retirement) (NN option)) (VP (MD will) (VP (VB increase) (NP (JJ fourth-quarter) (NNS expenses))))))) (. .)))
+
+(S1 (S (CC But) (NP (DT the) (NN company)) (VP (VBD said) (SBAR (S (NP (DT the) (NN amount)) (VP (MD ca) (RB n't) (VP (VB be) (VP (VBN determined) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ knows) (SBAR (WHADVP (WRB how)) (S (NP (JJ many) (NNS managers)) (VP (VB opt) (S (VP (TO to) (VP (VB retire)))))))))))))))) (. .)))
+
+(S1 (S (NP (NNP AT&T)) (VP (VBD said) (SBAR (S (NP (DT the) (NN expense) (NN increase)) (VP (MD will) (VP (VB be) (VP (ADVP (RB largely)) (VBN offset) (PP (IN by) (NP (NP (DT a) (NN gain)) (PP (IN from) (NP (PRP$ its) (ADJP (RB previously) (VBN announced)) (NN plan) (S (VP (TO to) (VP (VB swap) (NP (NP (PRP$ its) (NNS holdings)) (PP (IN in) (NP (NNP Ing) (. .) (NNP C.) (NNP Olivetti) (CC &) (NNP Co.)))) (PP (IN for) (NP (NP (NNS shares)) (PP (IN in) (NP (NP (NNP Cie) (. .) (NNP Industriali) (NNP Riunite)) (, ,) (NP (DT an) (JJ Italian) (VBG holding) (NN company))))))))))))))))))) (. .)))
+
+(S1 (S (PP (IN For) (NP (DT the) (CD nine) (NNS months))) (, ,) (NP (NNP AT&T)) (VP (VBD said) (SBAR (S (NP (JJ net) (NN income)) (VP (VBD was) (NP (NP (QP ($ $) (CD 1.99) (CD billion))) (, ,) (CC or) (NP (NP ($ $) (CD 1.85)) (NP (DT a) (NN share))) (, ,) (ADVP (RB up) (NP (CD 19) (NN %)) (PP (IN from) (NP (NP (QP ($ $) (CD 1.67) (CD billion))) (, ,) (CC or) (NP (NP ($ $) (CD 1.56)) (NP (DT a) (NN share))))))))))) (. .)))
+
+(S1 (S (NP (NN Revenue)) (VP (VBD gained) (NP (CD 3.1) (NN %)) (PP (TO to) (NP (QP ($ $) (CD 26.81) (CD billion)))) (PP (IN from) (NP (QP ($ $) (CD 26) (CD billion))))) (. .)))
+
+(S1 (S (PP (IN In) (NP (JJ composite) (NN trading))) (NP (NN yesterday)) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))) (, ,) (NP (NNP AT&T) (NNS shares)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 43.375))) (, ,) (ADVP (RB up) (NP (CD 87.5) (NNS cents)))) (. .)))
+
