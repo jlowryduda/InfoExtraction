@@ -1,0 +1,26 @@
+/AccuracyEvaluator.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/AdaBoost.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/AdaBoostTrainer.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/BaggingClassifier.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/BaggingTrainer.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/Boostable.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/ClassifierEvaluating.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/ClassifierTrainer.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/ConfidencePredictingClassifier.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/FeatureSelectingClassifierTrainer.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/NaiveBayes.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/NaiveBayesTrainer.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/TUI.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/Trial.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/Winnow.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+/WinnowTrainer.java/1.1.1.1/Mon Jul 14 19:35:59 2003//
+D/evaluate////
+D/examples////
+D/tests////
+/ConfidencePredictingClassifierTrainer.java/1.2/Sun Aug  3 02:47:32 2003//
+/DecisionTree.java/1.2/Sun Aug  3 02:47:32 2003//
+/DecisionTreeTrainer.java/1.2/Sun Aug  3 02:47:32 2003//
+/Classifier.java/1.3/Fri Aug 29 02:09:16 2003//
+/MaxEnt.java/1.5/Tue Sep  9 20:49:16 2003//
+/MaxEntTrainer.java/1.4/Wed Sep 17 16:44:30 2003//
+/Classification.java/1.2/Thu Sep 18 22:13:46 2003//
