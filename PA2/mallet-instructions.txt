@@ -4,4 +4,4 @@ bin/mallet import-file --input coref-trainset.gold --output train.mallet
 
 2. Create a classifier trained on the training data:
 
-bin/mallet train-classifier --input train.mallet --output-classifier maxent.classifier
+bin/mallet train-classifier --input train.mallet --output-classifier maxent.classifier --trainer MaxEnt
