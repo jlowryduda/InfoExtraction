@@ -26,7 +26,9 @@ def extract_features(lines, train=False):
 def write_to_file(filename, features):
     lines = [' '.join(f) for f in features]
     with open(filename, 'w') as outfile:
-        outfile.writelines(lines)
+        for line in lines:
+            outfile.write(line)
+            outfile.write('\n')
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
