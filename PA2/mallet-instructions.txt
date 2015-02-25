@@ -1,7 +1,24 @@
-1. Convert training file to mallet format:
+1. Extract features on training file:
 
-bin/mallet import-file --input coref-trainset.gold --output train.mallet
+python extract_features.py coref-trainset.gold coref-trainset-features.txt 'train'
 
-2. Create a classifier trained on the training data:
+2. Extract features on dev file:
+
+python extract_features.py coref-devset.gold coref-devset-features.txt 'test'
+
+3. Convert training file to mallet format:
+
+bin/mallet import-file --input coref-trainset-features.txt --output train.mallet
+
+4. Convert unlabeled dev file to mallet format:
+
+bin/mallet import-file --input coref-devset-features.txt --output test.mallet
+
+5. Create a classifier trained on the training data:
 
 bin/mallet train-classifier --input train.mallet --output-classifier maxent.classifier --trainer MaxEnt
+
+6. Test classifier on dev set:
+
+# TBD
+
