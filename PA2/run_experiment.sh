@@ -12,6 +12,9 @@ python $EXPERIMENT_DIR/extract_features.py $DATA_DIR/coref-trainset.gold $EXPERI
 # extract features from the test set
 python $EXPERIMENT_DIR/extract_features.py $DATA_DIR/coref-devset.gold $EXPERIMENT_DIR/coref-devset-features.txt test
 
+# puts label first
+python $EXPERIMENT_DIR/extract_features.py $DATA_DIR/coref-devset.gold $EXPERIMENT_DIR/test.gold train
+
 # train the classifier
 $MALLET -train \
 	-model=$EXPERIMENT_DIR/model \
@@ -23,5 +26,4 @@ $MALLET -classify  \
 	-input=$EXPERIMENT_DIR/coref-devset-features.txt > $EXPERIMENT_DIR/coref-devset-tagged.txt
 
 # evaluate
-python $EXPERIMENT_DIR/coref-evaluator.py $DATA_DIR/coref-devset.gold \
-	$EXPERIMENT_DIR/coref-devset-tagged.txt > $EXPERIMENT_DIR/evaluation.txt
+python coref-evaluator.py test.gold coref-devset-tagged.txt
