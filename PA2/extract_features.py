@@ -11,13 +11,20 @@ def get_distance(line):
     """ Returns the distance between sentences """
     return "distance=" + str(abs(int(line[1]) - int(line[6])))
 
+def is_contained(line):
+    return "is_contained=" + str(line[5] in line[10])
+
+
 def get_label(line):
     return line[-1]
 
 def extract_features(lines, train=False):
     features = []
     for line in lines:
-        f_list = [get_distance(line)]
+        #if line[11] == "yes":
+            #print line
+        f_list = [get_distance(line),
+                  is_contained(line)]
         if train:
             f_list.insert(0, get_label(line))
         features.append(f_list)
