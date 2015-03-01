@@ -18,13 +18,18 @@ def is_contained(line):
 def get_label(line):
     return line[-1]
 
+def entity_types_match(line):
+    return "types_match=" + str(line[4] == line[9])
+
+
 def extract_features(lines, train=False):
     features = []
     for line in lines:
         #if line[11] == "yes":
             #print line
         f_list = [get_distance(line),
-                  is_contained(line)]
+                  is_contained(line),
+                  entity_types_match(line)]
         if train:
             f_list.insert(0, get_label(line))
         features.append(f_list)
