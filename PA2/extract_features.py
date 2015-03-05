@@ -29,33 +29,33 @@ def pos_match(line, sents):
 
 
 def gender_match(line, sents):
-	"""
-	Given a line containing a potential coreference pair, and a sentence data
-	structure, determine whether or not the pair has the same gender.
-	"""
-	# Assume that the first name part in any given span of tokens will be
-	# most indicative of gender (because it's most likely the first name):
-	names = [sents[int(line[1])][int(line[2])][0],
-			 sents[int(line[6])][int(line[7])][0]]
-	ents = [line[4], line[9]]
-	genders = ['N', 'N'] # Default to neutral gender
-	with open('names_genders.json', 'r') as infile:
-		gender_dict = json.load(infile)
+    """
+    Given a line containing a potential coreference pair, and a sentence data
+    structure, determine whether or not the pair has the same gender.
+    """
+    # Assume that the first name part in any given span of tokens will be
+    # most indicative of gender (because it's most likely the first name):
+    names = [sents[int(line[1])][int(line[2])][0],
+             sents[int(line[6])][int(line[7])][0]]
+    ents = [line[4], line[9]]
+    genders = ['N', 'N'] # Default to neutral gender
+    with open('names_genders.json', 'r') as infile:
+        gender_dict = json.load(infile)
 
-	# If the entity is a person, check to see if the person's gender is in the
-# gender dictionary as either male or female, and if so, reassign
-	for i in range(len(names)):
-		if ents[i] == 'PER':
-			if names[i] in gender_dict:
-				if gender_dict[names[i]] == 'male':
-					genders[i] = 'M'
-				elif gender_dict[names[i]] == 'female':
-					genders[i] = 'F'
+    # If the entity is a person, check to see if the person's gender is in the
+    # gender dictionary as either male or female, and if so, reassign
+    for i in range(len(names)):
+        if ents[i] == 'PER':
+            if names[i] in gender_dict:
+                if gender_dict[names[i]] == 'male':
+                    genders[i] = 'M'
+                elif gender_dict[names[i]] == 'female':
+                    genders[i] = 'F'
 
-	if genders[0] == genders[1]:
-		return "gender_match=1"
-	else:
-		return "gender_match=0"
+    if genders[0] == genders[1]:
+        return "gender_match=1"
+    else:
+        return "gender_match=0"
 
 
 def get_distance(line):
@@ -63,8 +63,14 @@ def get_distance(line):
     return "distance=" + str(abs(int(line[1]) - int(line[6])))
 
 
+def exact_match(line):
+	return "exact_match=" + str(line[5] == line[10])
+
+def same_sentence(line):
+	return "same_sentence=" + str(line[1] == line[6])
+
 def is_contained(line):
-    return "is_contained=" + str(line[10] in line[5])
+    return "is_contained=" + str((line[10] in line[5]) or (line[5] in line[10]))
 
 
 def get_label(line):
@@ -88,25 +94,30 @@ def both_proper_names(line, sents):
     span2 = sents[int(line[6])][int(line[7]):int(line[8])]
     tags1 = set([item[1] for item in span1])
     tags2 = set([item[1] for item in span2])
-    return "both_proper_names=" + str(any(item.startswith("NNP") for item in tags1) and any(item.startswith("NNP") for item in tags))
+    return "both_proper_names=" + str(any(item.startswith("NNP") for item in tags1) and any(item.startswith("NNP") for item in tags2))
 
 def extract_features(lines, train=False):
     features = []
     json_path = os.getcwd() + '/jsons/'
     current_file = None
+    i = 0
     for line in lines:
     	if line[0] != current_file:
+    		i += 1 # Progress counter
+    		print(i)
     		current_file = line[0]
     		with open(json_path + current_file + '.raw.json', 'r') as infile:
     			sents = json.load(infile)
         f_list = [get_distance(line),
                   is_contained(line),
                   entity_types_match(line),
-                  gender_match(line, sents)
+                  gender_match(line, sents),
                   pos_match(line, sents),
-                  antecendent_pronoun(line),
+                  antecedent_pronoun(line),
                   anaphor_pronoun(line),
-                  both_proper_names(line, sents)]
+                  both_proper_names(line, sents),
+                  same_sentence(line),
+                  exact_match(line)]
         if train:
             f_list.insert(0, get_label(line))
         features.append(f_list)
