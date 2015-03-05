@@ -43,7 +43,7 @@ def gender_match(line, sents):
 		gender_dict = json.load(infile)
 
 	# If the entity is a person, check to see if the person's gender is in the
-	# gender dictionary as either male or female, and if so, reassign
+# gender dictionary as either male or female, and if so, reassign
 	for i in range(len(names)):
 		if ents[i] == 'PER':
 			if names[i] in gender_dict:
@@ -64,7 +64,7 @@ def get_distance(line):
 
 
 def is_contained(line):
-    return "is_contained=" + str(line[5] in line[10])
+    return "is_contained=" + str(line[10] in line[5])
 
 
 def get_label(line):
@@ -74,6 +74,21 @@ def get_label(line):
 def entity_types_match(line):
     return "types_match=" + str(line[4] == line[9])
 
+
+def antecedent_pronoun(line):
+    return "antecedent_is_pronoun=" + str(line[5] in ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her'])
+
+
+def anaphor_pronoun(line):
+    return "anaphor_is_pronoun=" + str(line[10] in ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her'])
+
+
+def both_proper_names(line, sents):
+    span1 = sents[int(line[1])][int(line[2]):int(line[3])]
+    span2 = sents[int(line[6])][int(line[7]):int(line[8])]
+    tags1 = set([item[1] for item in span1])
+    tags2 = set([item[1] for item in span2])
+    return "both_proper_names=" + str(any(item.startswith("NNP") for item in tags1) and any(item.startswith("NNP") for item in tags))
 
 def extract_features(lines, train=False):
     features = []
@@ -88,7 +103,10 @@ def extract_features(lines, train=False):
                   is_contained(line),
                   entity_types_match(line),
                   gender_match(line, sents)
-                  pos_match(line, sents)]
+                  pos_match(line, sents),
+                  antecendent_pronoun(line),
+                  anaphor_pronoun(line),
+                  both_proper_names(line, sents)]
         if train:
             f_list.insert(0, get_label(line))
         features.append(f_list)
