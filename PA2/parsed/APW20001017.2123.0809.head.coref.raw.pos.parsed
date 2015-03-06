@@ -1,0 +1,814 @@
+(ROOT
+  (NP
+    (NP (DT APW20001017.2123.0809))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-10-17) (CD 21:40:51))))
+
+root(ROOT-0, APW20001017.2123.0809-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001017.2123.0809-1, STORY-3)
+num(21:40:51-5, 2000-10-17-4)
+dep(APW20001017.2123.0809-1, 21:40:51-5)
+
+(ROOT
+  (ADJP (JJ Space-Shuttle)))
+
+root(ROOT-0, Space-Shuttle-1)
+
+(ROOT
+  (NP
+    (NP (NNS Astronauts))
+    (NP (NNP Install) (NNP Power) (NNP Equipment))))
+
+root(ROOT-0, Astronauts-1)
+nn(Equipment-4, Install-2)
+nn(Equipment-4, Power-3)
+dep(Astronauts-1, Equipment-4)
+
+(ROOT
+  (NP
+    (NP (NNP CAPE) (NNP CANAVERAL))
+    (, ,)
+    (NP (NNP Fla))
+    (. .)))
+
+nn(CANAVERAL-2, CAPE-1)
+root(ROOT-0, CANAVERAL-2)
+appos(CANAVERAL-2, Fla-4)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP (AP) (NNP )) (NNP _) (NNP Two))
+      (VP (VBG spacewalking)
+        (NP (NNS astronauts))))
+    (VP (VBD clamped)
+      (NP (NN power) (NN equipment))
+      (PP (IN onto)
+        (NP
+          (NP
+            (NP (DT the) (JJ international) (NN space) (NN station))
+            (PP (IN on)
+              (NP (NNP Tuesday))))
+          (CC and)
+          (ADVP (RB inadvertently))
+          (NP
+            (NP (JJ added))
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN collection))
+                (PP (IN of)
+                  (NP (NN junk))))))))
+      (S
+        (VP (VBG whizzing)
+          (PP (IN around)
+            (NP (NNP Earth))))))
+    (. .)))
+
+nn(Two-4, (AP-1)
+nn(Two-4, )-2)
+nn(Two-4, _-3)
+nsubj(clamped-7, Two-4)
+vmod(Two-4, spacewalking-5)
+dobj(spacewalking-5, astronauts-6)
+root(ROOT-0, clamped-7)
+nn(equipment-9, power-8)
+dobj(clamped-7, equipment-9)
+det(station-14, the-11)
+amod(station-14, international-12)
+nn(station-14, space-13)
+prep_onto(clamped-7, station-14)
+prep_on(station-14, Tuesday-16)
+advmod(added-19, inadvertently-18)
+prep_onto(clamped-7, added-19)
+conj_and(station-14, added-19)
+det(collection-22, the-21)
+prep_to(added-19, collection-22)
+prep_of(collection-22, junk-24)
+xcomp(clamped-7, whizzing-25)
+prep_around(whizzing-25, Earth-27)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN cap))
+      (PP (IN for)
+        (NP (DT a) (NN depressurization) (NN valve))))
+    (VP (VBD floated)
+      (PRT (RB away))
+      (NP (NNS moments))
+      (SBAR (IN after)
+        (S
+          (NP (NNP Bill) (NNP McArthur))
+          (VP (VBD emerged)
+            (PP (IN from)
+              (NP (NN space) (NN shuttle) (NNP Discovery)))))))
+    (. .)))
+
+det(cap-2, A-1)
+nsubj(floated-7, cap-2)
+det(valve-6, a-4)
+nn(valve-6, depressurization-5)
+prep_for(cap-2, valve-6)
+root(ROOT-0, floated-7)
+prt(floated-7, away-8)
+dobj(floated-7, moments-9)
+mark(emerged-13, after-10)
+nn(McArthur-12, Bill-11)
+nsubj(emerged-13, McArthur-12)
+advcl(floated-7, emerged-13)
+nn(Discovery-17, space-15)
+nn(Discovery-17, shuttle-16)
+prep_from(emerged-13, Discovery-17)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ aluminum) (NN cover))
+      (, ,)
+      (PP (IN about)
+        (NP
+          (NP (DT the) (NN size))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (NN gas) (NN cap))
+              (PP (IN on)
+                (NP (DT a) (NN car)))))))
+      (, ,))
+    (VP (VBD bounced)
+      (PP (IN against)
+        (NP (DT the) (NN space) (NN station)))
+      (, ,)
+      (ADVP (RB then))
+      (PP (IN against)
+        (NP (DT the) (NN shuttle) (NN robot) (NN arm))))
+    (. .)))
+
+det(cover-3, The-1)
+amod(cover-3, aluminum-2)
+nsubj(bounced-16, cover-3)
+det(size-7, the-6)
+prep_about(cover-3, size-7)
+det(cap-11, a-9)
+nn(cap-11, gas-10)
+prep_of(size-7, cap-11)
+det(car-14, a-13)
+prep_on(cap-11, car-14)
+root(ROOT-0, bounced-16)
+det(station-20, the-18)
+nn(station-20, space-19)
+prep_against(bounced-16, station-20)
+advmod(bounced-16, then-22)
+det(arm-27, the-24)
+nn(arm-27, shuttle-25)
+nn(arm-27, robot-26)
+prep_against(bounced-16, arm-27)
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP (NN gone)))
+    (. .)))
+
+advmod(gone-4, Then-1)
+nsubj(gone-4, it-2)
+cop(gone-4, was-3)
+root(ROOT-0, gone-4)
+
+(ROOT
+  (S
+    (NP (PRP ``It))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN nice) (NN billiard))
+        (SBAR
+          (S
+            (VP (VBD shot)
+              (SBAR (IN ,'')
+                (S
+                  (NP (NNP McArthur))
+                  (VP (VBD radioed)))))))))
+    (. .)))
+
+nsubj(billiard-5, ``It-1)
+cop(billiard-5, was-2)
+det(billiard-5, a-3)
+nn(billiard-5, nice-4)
+root(ROOT-0, billiard-5)
+rcmod(billiard-5, shot-6)
+mark(radioed-9, ,''-7)
+nsubj(radioed-9, McArthur-8)
+advcl(shot-6, radioed-9)
+
+(ROOT
+  (S
+    (VP
+      (NP
+        (NP (NNP ``It) (POS 's))
+        (PP (VB become)
+          (SBAR
+            (WHNP (DT the))
+            (S
+              (NP (JJS latest) (NN addition))
+              (VP (TO to)
+                (VP (VB tiny)
+                  (NP
+                    (NP (NNS bodies))
+                    (VP (VBG orbiting)
+                      (NP (DT the) (NNP Earth)))))))))))
+    (. .'')))
+
+root(ROOT-0, ``It-1)
+possessive(``It-1, 's-2)
+prep(``It-1, become-3)
+dobj(tiny-8, the-4)
+amod(addition-6, latest-5)
+nsubj(tiny-8, addition-6)
+aux(tiny-8, to-7)
+dep(become-3, tiny-8)
+dobj(tiny-8, bodies-9)
+vmod(bodies-9, orbiting-10)
+det(Earth-12, the-11)
+dobj(orbiting-10, Earth-12)
+punct(``It-1, .''-13)
+
+(ROOT
+  (S
+    (NP (NNP Mission) (NNP Control))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the))
+          (VP (VBD lost)
+            (SBAR
+              (S
+                (NP (NN cap))
+                (VP (VBD was)
+                  (NP
+                    (NP (DT no) (NN reason))
+                    (PP (IN for)
+                      (NP (NN concern)))))))))))
+    (. .)))
+
+nn(Control-2, Mission-1)
+nsubj(said-3, Control-2)
+root(ROOT-0, said-3)
+nsubj(lost-5, the-4)
+ccomp(said-3, lost-5)
+nsubj(reason-9, cap-6)
+cop(reason-9, was-7)
+neg(reason-9, no-8)
+ccomp(lost-5, reason-9)
+prep_for(reason-9, concern-11)
+
+(ROOT
+  (S
+    (NP (NNS Its))
+    (VP (VBP tether) (RB either)
+      (VP (VBD came)
+        (NP
+          (NP (JJ loose))
+          (CC or)
+          (NP (NN broke)))))
+    (. .)))
+
+nsubj(tether-2, Its-1)
+root(ROOT-0, tether-2)
+advmod(tether-2, either-3)
+dep(tether-2, came-4)
+dobj(came-4, loose-5)
+dobj(came-4, broke-7)
+conj_or(loose-5, broke-7)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ main) (NN purpose))
+      (PP (IN of)
+        (NP
+          (NP (NNP Tuesday) (POS 's))
+          (NN spacewalk))))
+    (PP (IN _)
+      (NP (DT the) (NN third)))
+    (PP (IN in)
+      (PP (IN as)
+        (NP (JJ many) (NNS days))))
+    (, _)
+    (VP (VBD was)
+      (S
+        (VP (TO to)
+          (VP (VB mount)
+            (NP (CD two) (NN power) (NNS converters))
+            (PP (IN on)
+              (NP
+                (NP
+                  (NP (DT the) (NN space) (NN station) (POS 's))
+                  (JJ new) (NN aluminum) (NN framework))
+                (, ,)
+                (CC or)
+                (NP (NN truss))))))))
+    (. .)))
+
+det(purpose-3, The-1)
+amod(purpose-3, main-2)
+nsubj(was-16, purpose-3)
+xsubj(mount-18, purpose-3)
+poss(spacewalk-7, Tuesday-5)
+prep_of(purpose-3, spacewalk-7)
+det(third-10, the-9)
+prep__(was-16, third-10)
+prep(was-16, in-11)
+pcomp(in-11, as-12)
+amod(days-14, many-13)
+pobj(as-12, days-14)
+punct(was-16, _-15)
+root(ROOT-0, was-16)
+aux(mount-18, to-17)
+xcomp(was-16, mount-18)
+num(converters-21, two-19)
+nn(converters-21, power-20)
+dobj(mount-18, converters-21)
+det(station-25, the-23)
+nn(station-25, space-24)
+poss(framework-29, station-25)
+amod(framework-29, new-27)
+nn(framework-29, aluminum-28)
+prep_on(mount-18, framework-29)
+prep_on(mount-18, truss-32)
+conj_or(framework-29, truss-32)
+
+(ROOT
+  (S
+    (NP (DT Astronaut) (NNP Leroy) (NNP Chiao))
+    (VP (VBD performed)
+      (NP (DT the) (NN job))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NN end))
+          (PP (IN of)
+            (NP
+              (NP (NNP Discovery) (POS 's))
+              (NN robot) (NN arm))))))
+    (. .)))
+
+det(Chiao-3, Astronaut-1)
+nn(Chiao-3, Leroy-2)
+nsubj(performed-4, Chiao-3)
+root(ROOT-0, performed-4)
+det(job-6, the-5)
+dobj(performed-4, job-6)
+det(end-9, the-8)
+prep_from(performed-4, end-9)
+poss(arm-14, Discovery-11)
+nn(arm-14, robot-13)
+prep_of(end-9, arm-14)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD removed)
+      (NP (DT the) (JJ 175-pound) (NNS converters))
+      (PP
+        (NP (CD one))
+        (IN by)
+        (NP (NN one)))
+      (PP (IN from)
+        (NP (DT the) (NN shuttle) (NN cargo) (NN bay))))
+    (. .)))
+
+nsubj(removed-2, He-1)
+root(ROOT-0, removed-2)
+det(converters-5, the-3)
+amod(converters-5, 175-pound-4)
+dobj(removed-2, converters-5)
+npadvmod(removed-2, one-6)
+prep_by(removed-2, one-8)
+det(bay-13, the-10)
+nn(bay-13, shuttle-11)
+nn(bay-13, cargo-12)
+prep_from(removed-2, bay-13)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP From))
+      (VP (VB inside)
+        (NP (DT the) (NN shuttle))))
+    (, ,)
+    (NP (NNP Michael) (NNP Lopez-Alegria))
+    (VP (VBD used)
+      (NP (DT the) (NN robot) (NN arm))
+      (S
+        (VP (TO to)
+          (VP (VB give)
+            (NP (NNP Chiao))
+            (NP (DT a) (NN lift))))))
+    (. .)))
+
+nsubj(inside-2, From-1)
+ccomp(used-8, inside-2)
+det(shuttle-4, the-3)
+dobj(inside-2, shuttle-4)
+nn(Lopez-Alegria-7, Michael-6)
+nsubj(used-8, Lopez-Alegria-7)
+root(ROOT-0, used-8)
+det(arm-11, the-9)
+nn(arm-11, robot-10)
+dobj(used-8, arm-11)
+aux(give-13, to-12)
+vmod(used-8, give-13)
+iobj(give-13, Chiao-14)
+det(lift-16, a-15)
+dobj(give-13, lift-16)
+
+(ROOT
+  (S
+    (NP (DT The) (NNS converters))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN used)
+          (S
+            (VP (TO to)
+              (VP (VB regulate)
+                (NP (NN power))
+                (SBAR (IN once)
+                  (S
+                    (NP
+                      (NP (DT a) (NN pair))
+                      (PP (IN of)
+                        (NP
+                          (NP (JJ solar) (NNS wings))
+                          (PP (IN _)
+                            (S
+                              (VP (VBG stretching)
+                                (NP (CD 240) (NNS feet))
+                                (PP (IN from)
+                                  (NP (NN tip)))
+                                (PP (TO to)
+                                  (NP (JJ tip) (NNS _)))))))))
+                    (VP (VBP are)
+                      (VP (VBN installed)
+                        (PP (IN during)
+                          (NP (DT the) (JJ next) (NN construction) (NN mission)))
+                        (, ,)
+                        (PP (IN in)
+                          (NP (NNP December)))))))))))))
+    (. .)))
+
+det(converters-2, The-1)
+nsubjpass(used-5, converters-2)
+xsubj(regulate-7, converters-2)
+aux(used-5, will-3)
+auxpass(used-5, be-4)
+root(ROOT-0, used-5)
+aux(regulate-7, to-6)
+xcomp(used-5, regulate-7)
+dobj(regulate-7, power-8)
+mark(installed-25, once-9)
+det(pair-11, a-10)
+nsubjpass(installed-25, pair-11)
+amod(wings-14, solar-13)
+prep_of(pair-11, wings-14)
+prepc__(wings-14, stretching-16)
+num(feet-18, 240-17)
+dobj(stretching-16, feet-18)
+prep_from(stretching-16, tip-20)
+amod(_-23, tip-22)
+prep_to(stretching-16, _-23)
+auxpass(installed-25, are-24)
+advcl(regulate-7, installed-25)
+det(mission-30, the-27)
+amod(mission-30, next-28)
+nn(mission-30, construction-29)
+prep_during(installed-25, mission-30)
+prep_in(installed-25, December-33)
+
+(ROOT
+  (S
+    (NP (NNP Chiao)
+      (CC and)
+      (NNP McArthur))
+    (ADVP (RB clearly))
+    (VP (VBN enjoyed)
+      (NP (PRP$ their) (JJ 240-mile-high) (NN construction) (NN work)))
+    (. .)))
+
+nsubj(enjoyed-5, Chiao-1)
+conj_and(Chiao-1, McArthur-3)
+nsubj(enjoyed-5, McArthur-3)
+advmod(enjoyed-5, clearly-4)
+root(ROOT-0, enjoyed-5)
+poss(work-9, their-6)
+amod(work-9, 240-mile-high-7)
+nn(work-9, construction-8)
+dobj(enjoyed-5, work-9)
+
+(ROOT
+  (S
+    (NP (NNP ``How))
+    (VP (MD would)
+      (NP (PRP you))
+      (S
+        (VP (VB like)
+          (S
+            (VP (TO to)
+              (VP (VB live)
+                (PP (IN on)
+                  (NP
+                    (NP (DT this) (NN thing))
+                    (PP (IN for)
+                      (NP (DT a) (JJ few) (NNS months)))))))))))
+    (. ?'')))
+
+nsubj(would-2, ``How-1)
+root(ROOT-0, would-2)
+dobj(would-2, you-3)
+dep(would-2, like-4)
+aux(live-6, to-5)
+xcomp(like-4, live-6)
+det(thing-9, this-8)
+prep_on(live-6, thing-9)
+det(months-13, a-11)
+amod(months-13, few-12)
+prep_for(thing-9, months-13)
+punct(would-2, ?''-14)
+
+(ROOT
+  (S
+    (NP (NNP McArthur))
+    (VP (VBD asked))
+    (. .)))
+
+nsubj(asked-2, McArthur-1)
+root(ROOT-0, asked-2)
+
+(ROOT
+  (S
+    (NP (PRP ``I))
+    (VP (VBP think)
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (MD would)
+            (VP (VB be)
+              (NP (JJ pretty) (NN cool))
+              (SBAR (IN ,'')
+                (S
+                  (NP (NNP Chiao))
+                  (VP (VBD replied)))))))))
+    (. .)))
+
+nsubj(think-2, ``I-1)
+root(ROOT-0, think-2)
+nsubj(cool-7, that-3)
+aux(cool-7, would-4)
+cop(cool-7, be-5)
+amod(cool-7, pretty-6)
+ccomp(think-2, cool-7)
+mark(replied-10, ,''-8)
+nsubj(replied-10, Chiao-9)
+advcl(cool-7, replied-10)
+
+(ROOT
+  (S
+    (PP (IN By)
+      (NP
+        (NP
+          (NP (DT the) (NN time))
+          (NP (DT the) (JJ seven-hour) (NN spacewalk)))
+        (VP (VBN ended))))
+    (, ,)
+    (NP (DT the) (CD two))
+    (VP (VBD had)
+      (VP (VBN completed)
+        (NP
+          (NP (DT all) (PRP$ their) (JJ cable) (NNS connections))
+          (, ,)
+          (NP (NN toolbox) (NN work))
+          (CC and)
+          (NP (JJ other) (NNS chores)))))
+    (. .)))
+
+det(time-3, the-2)
+prep_by(completed-12, time-3)
+det(spacewalk-6, the-4)
+amod(spacewalk-6, seven-hour-5)
+dep(time-3, spacewalk-6)
+vmod(time-3, ended-7)
+det(two-10, the-9)
+nsubj(completed-12, two-10)
+aux(completed-12, had-11)
+root(ROOT-0, completed-12)
+predet(connections-16, all-13)
+poss(connections-16, their-14)
+amod(connections-16, cable-15)
+dobj(completed-12, connections-16)
+nn(work-19, toolbox-18)
+dobj(completed-12, work-19)
+conj_and(connections-16, work-19)
+amod(chores-22, other-21)
+dobj(completed-12, chores-22)
+conj_and(connections-16, chores-22)
+
+(ROOT
+  (NP
+    (NP (CD One) (NN spacewalk))
+    (NP (NNS remains))
+    (. .)))
+
+num(spacewalk-2, One-1)
+root(ROOT-0, spacewalk-2)
+dep(spacewalk-2, remains-3)
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (NNP Wednesday) (, ,) (NNP Lopez-Alegria)
+        (CC and)
+        (NNP Jeff)))
+    (NP (NNP Wisoff))
+    (VP (MD will)
+      (VP (VB go)
+        (ADVP (RB back) (RB out))
+        (S
+          (VP (TO to)
+            (VP (VB clean)
+              (NP
+                (NP (DT the) (NN top))
+                (PP (IN of)
+                  (NP (DT the) (NN truss))))
+              (PP (IN for)
+                (NP
+                  (NP
+                    (NP (DT the) (NN arrival))
+                    (PP (IN of)
+                      (NP (DT the) (JJ solar) (NNS wings))))
+                  (, ,)
+                  (NP
+                    (NP (JJS test))
+                    (NP (PRP$ their) (NN mini) (NNS jetpacks)))
+                  (CC and)
+                  (NP
+                    (NP (NN practice))
+                    (VP (VBG carrying)
+                      (NP (DT each) (JJ other)))))))))))
+    (. .)))
+
+prep_on(go-9, Wednesday-2)
+conj_and(Wednesday-2, Lopez-Alegria-4)
+prep_on(go-9, Lopez-Alegria-4)
+conj_and(Wednesday-2, Jeff-6)
+prep_on(go-9, Jeff-6)
+nsubj(go-9, Wisoff-7)
+xsubj(clean-13, Wisoff-7)
+aux(go-9, will-8)
+root(ROOT-0, go-9)
+advmod(out-11, back-10)
+advmod(go-9, out-11)
+aux(clean-13, to-12)
+xcomp(go-9, clean-13)
+det(top-15, the-14)
+dobj(clean-13, top-15)
+det(truss-18, the-17)
+prep_of(top-15, truss-18)
+det(arrival-21, the-20)
+prep_for(clean-13, arrival-21)
+det(wings-25, the-23)
+amod(wings-25, solar-24)
+prep_of(arrival-21, wings-25)
+prep_for(clean-13, test-27)
+conj_and(arrival-21, test-27)
+poss(jetpacks-30, their-28)
+nn(jetpacks-30, mini-29)
+dep(test-27, jetpacks-30)
+prep_for(clean-13, practice-32)
+conj_and(arrival-21, practice-32)
+vmod(practice-32, carrying-33)
+det(other-35, each-34)
+dobj(carrying-33, other-35)
+
+(ROOT
+  (S
+    (NP (NNP NASA))
+    (VP (VBZ wants)
+      (S
+        (VP (TO to)
+          (VP (VB see)
+            (SBAR
+              (WHADVP (WRB how) (JJ hard))
+              (S
+                (NP (PRP it))
+                (VP (MD would)
+                  (VP (VB be)
+                    (PP (IN for)
+                      (NP (DT a) (NN spacewalker)
+                        (S
+                          (VP (TO to)
+                            (VP (VB rescue)
+                              (NP (DT an) (JJ incapacitated) (NN colleague)))))))))))))))
+    (. .)))
+
+nsubj(wants-2, NASA-1)
+xsubj(see-4, NASA-1)
+root(ROOT-0, wants-2)
+aux(see-4, to-3)
+xcomp(wants-2, see-4)
+advmod(hard-6, how-5)
+advmod(be-9, hard-6)
+nsubj(be-9, it-7)
+aux(be-9, would-8)
+ccomp(see-4, be-9)
+det(spacewalker-12, a-11)
+prep_for(be-9, spacewalker-12)
+aux(rescue-14, to-13)
+vmod(spacewalker-12, rescue-14)
+det(colleague-17, an-15)
+amod(colleague-17, incapacitated-16)
+dobj(rescue-14, colleague-17)
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (NNP Discovery))
+        (VP (VBZ pulls)
+          (ADVP (RB away))
+          (NP (NNP Friday)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD will)
+      (VP (VB leave)
+        (PP (IN behind)
+          (NP
+            (NP (CD 10) (NNS tons))
+            (PP (IN of)
+              (NP (JJ new) (NN space) (NN station) (NNS pieces)))))))
+    (. .)))
+
+advmod(pulls-3, When-1)
+nsubj(pulls-3, Discovery-2)
+advcl(leave-9, pulls-3)
+advmod(pulls-3, away-4)
+tmod(pulls-3, Friday-5)
+nsubj(leave-9, it-7)
+aux(leave-9, will-8)
+root(ROOT-0, leave-9)
+num(tons-12, 10-11)
+prep_behind(leave-9, tons-12)
+amod(pieces-17, new-14)
+nn(pieces-17, space-15)
+nn(pieces-17, station-16)
+prep_of(tons-12, pieces-17)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN station) (POS 's))
+      (JJ first) (JJ permanent) (NN crew))
+    (VP (VBZ is)
+      (VP (VBN supposed)
+        (S
+          (VP (TO to)
+            (VP (VB arrive)
+              (PP (IN in)
+                (NP (JJ early) (NNP November))))))))
+    (. .)))
+
+det(station-2, The-1)
+poss(crew-6, station-2)
+amod(crew-6, first-4)
+amod(crew-6, permanent-5)
+nsubjpass(supposed-8, crew-6)
+xsubj(arrive-10, crew-6)
+auxpass(supposed-8, is-7)
+root(ROOT-0, supposed-8)
+aux(arrive-10, to-9)
+xcomp(supposed-8, arrive-10)
+amod(November-13, early-12)
+prep_in(arrive-10, November-13)
+
+(ROOT
+  (NP (. ___)))
+
+root(ROOT-0, ___-1)
+
+(ROOT
+  (PP (IN On)
+    (NP (DT the) (NN Net))
+    (: :)))
+
+root(ROOT-0, On-1)
+det(Net-3, the-2)
+pobj(On-1, Net-3)
+
+(ROOT
+  (NP
+    (NP (NNP NASA))
+    (: :)
+    (NP (. http:))))
+
+root(ROOT-0, NASA-1)
+dep(NASA-1, http:-3)
+

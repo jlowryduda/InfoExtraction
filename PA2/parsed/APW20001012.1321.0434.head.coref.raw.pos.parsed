@@ -1,0 +1,408 @@
+(ROOT
+  (NP
+    (NP (DT APW20001012.1321.0434))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-10-12) (CD 13:36:03))))
+
+root(ROOT-0, APW20001012.1321.0434-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001012.1321.0434-1, STORY-3)
+num(13:36:03-5, 2000-10-12-4)
+dep(APW20001012.1321.0434-1, 13:36:03-5)
+
+(ROOT
+  (ADJP (JJ Detective-Slain)))
+
+root(ROOT-0, Detective-Slain-1)
+
+(ROOT
+  (S
+    (NP (NNP Cop) (, ,) (NNP Suspect))
+    (VP
+      (ADVP (RB Fatally))
+      (VBN Shot)
+      (PP (IN at)
+        (NP (NNP Station))))))
+
+nn(Suspect-3, Cop-1)
+nsubj(Shot-5, Suspect-3)
+advmod(Shot-5, Fatally-4)
+root(ROOT-0, Shot-5)
+prep_at(Shot-5, Station-7)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NAC (NNP WARREN) (, ,) (NNP Mich.))
+        (NNP (AP) (NNP )))
+      (PP (, _)
+        (NP
+          (NP (DT A) (NN detective))
+          (CC and)
+          (NP (DT a) (JJ drug) (NN suspect)))))
+    (VP (VBD were)
+      (ADVP (RB fatally))
+      (VP (VBN wounded)
+        (PP (IN during)
+          (NP (DT a) (JJ struggle)))
+        (SBAR (IN while)
+          (S
+            (NP (DT the) (NN officer))
+            (VP (VBD was)
+              (VP (VBG booking)
+                (NP (PRP him))
+                (PP (IN at)
+                  (NP (NN police) (NNS headquarters)))))))))
+    (. .)))
+
+dep()-5, WARREN-1)
+dep(WARREN-1, Mich.-3)
+nn()-5, (AP-4)
+nsubjpass(wounded-15, )-5)
+punct(detective-8, _-6)
+det(detective-8, A-7)
+prep()-5, detective-8)
+det(suspect-12, a-10)
+amod(suspect-12, drug-11)
+prep()-5, suspect-12)
+conj_and(detective-8, suspect-12)
+auxpass(wounded-15, were-13)
+advmod(wounded-15, fatally-14)
+root(ROOT-0, wounded-15)
+det(struggle-18, a-17)
+prep_during(wounded-15, struggle-18)
+mark(booking-23, while-19)
+det(officer-21, the-20)
+nsubj(booking-23, officer-21)
+aux(booking-23, was-22)
+advcl(wounded-15, booking-23)
+dobj(booking-23, him-24)
+nn(headquarters-27, police-26)
+prep_at(booking-23, headquarters-27)
+
+(ROOT
+  (S
+    (NP (NNS Officers))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNS investigators))
+          (VP (VBD were)
+            (VP (VBG reviewing)
+              (NP
+                (NP (DT a) (NN videotape))
+                (PP (IN of)
+                  (NP (DT the) (JJ lockup) (NN area))))
+              (PP (IN in)
+                (NP (DT an) (NN effort)))
+              (S
+                (VP (TO to)
+                  (VP (VB figure)
+                    (PRT (RP out))
+                    (NP
+                      (NP (DT the) (NN sequence))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNS events))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (VBD led)
+                                (PP (TO to)
+                                  (NP (DT the) (JJ shooting) (NN Wednesday)))
+                                (NP (NN evening))))))))))))))))
+    (. .)))
+
+nsubj(said-2, Officers-1)
+root(ROOT-0, said-2)
+nsubj(reviewing-5, investigators-3)
+aux(reviewing-5, were-4)
+ccomp(said-2, reviewing-5)
+det(videotape-7, a-6)
+dobj(reviewing-5, videotape-7)
+det(area-11, the-9)
+amod(area-11, lockup-10)
+prep_of(videotape-7, area-11)
+det(effort-14, an-13)
+prep_in(reviewing-5, effort-14)
+aux(figure-16, to-15)
+vmod(reviewing-5, figure-16)
+prt(figure-16, out-17)
+det(sequence-19, the-18)
+dobj(figure-16, sequence-19)
+prep_of(sequence-19, events-21)
+nsubj(led-23, events-21)
+rcmod(events-21, led-23)
+det(Wednesday-27, the-25)
+amod(Wednesday-27, shooting-26)
+prep_to(led-23, Wednesday-27)
+tmod(led-23, evening-28)
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Detective) (NNP Christopher) (NNPS Wouters))
+      (VP (VBD had)
+        (VP (VBN arrested)
+          (NP
+            (NP (DT a) (NN suspect))
+            (PP (IN on)
+              (NP (JJ drug) (NNS charges)))))))
+    (, ,)
+    (NP (NNP Warren) (NNP police) (NNP Chief) (NNP James) (NNP Vohs))
+    (VP (VBD said))
+    (. .)))
+
+amod(Wouters-3, Detective-1)
+nn(Wouters-3, Christopher-2)
+nsubj(arrested-5, Wouters-3)
+aux(arrested-5, had-4)
+ccomp(said-17, arrested-5)
+det(suspect-7, a-6)
+dobj(arrested-5, suspect-7)
+amod(charges-10, drug-9)
+prep_on(suspect-7, charges-10)
+nn(Vohs-16, Warren-12)
+nn(Vohs-16, police-13)
+nn(Vohs-16, Chief-14)
+nn(Vohs-16, James-15)
+nsubj(said-17, Vohs-16)
+root(ROOT-0, said-17)
+
+(ROOT
+  (S
+    (NP (DT Both))
+    (VP (VBD were)
+      (VP (VBN wounded)
+        (PP (IN around)
+          (NP (CD 6:30) (NN p.m)))))
+    (. .)))
+
+nsubjpass(wounded-3, Both-1)
+auxpass(wounded-3, were-2)
+root(ROOT-0, wounded-3)
+num(p.m-6, 6:30-5)
+prep_around(wounded-3, p.m-6)
+
+(ROOT
+  (S
+    (SBAR (IN after)
+      (S
+        (S
+          (NP (DT the) (NN man))
+          (VP (VBD ``produced)
+            (NP (DT a) (NN gun))))
+        (CC and)
+        (S
+          (NP (EX there))
+          (VP (VBD was)
+            (NP (DT a) (NN struggle))))))
+    (, ,'')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+mark(``produced-4, after-1)
+det(man-3, the-2)
+nsubj(``produced-4, man-3)
+advcl(said-14, ``produced-4)
+det(gun-6, a-5)
+dobj(``produced-4, gun-6)
+expl(was-9, there-8)
+conj_and(``produced-4, was-9)
+advcl(said-14, was-9)
+det(struggle-11, a-10)
+nsubj(was-9, struggle-11)
+punct(said-14, ,''-12)
+nsubj(said-14, he-13)
+root(ROOT-0, said-14)
+
+(ROOT
+  (S
+    (NP (NNS Authorities))
+    (VP (VBD did) (RB not)
+      (ADVP (RB immediately))
+      (VP (VB say)
+        (SBAR (IN whether)
+          (S
+            (NP (DT the) (NN gun))
+            (VP (VBD belonged)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (JJ detective))
+                  (CC or)
+                  (NP (DT the) (NN suspect)))))))))
+    (. .)))
+
+nsubj(say-5, Authorities-1)
+aux(say-5, did-2)
+neg(say-5, not-3)
+advmod(say-5, immediately-4)
+root(ROOT-0, say-5)
+mark(belonged-9, whether-6)
+det(gun-8, the-7)
+nsubj(belonged-9, gun-8)
+ccomp(say-5, belonged-9)
+det(detective-12, the-11)
+prep_to(belonged-9, detective-12)
+det(suspect-15, the-14)
+prep_to(belonged-9, suspect-15)
+conj_or(detective-12, suspect-15)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Wouters))
+      (, ,)
+      (NP (CD 42))
+      (, ,))
+    (VP (VBD died)
+      (PP
+        (ADVP
+          (NP (DT an) (NN hour))
+          (RBR later))
+        (IN at)
+        (NP (NNP St.) (NNP John) (NNP Macomb) (NNP Hospital))))
+    (. .)))
+
+nsubj(died-5, Wouters-1)
+amod(Wouters-1, 42-3)
+root(ROOT-0, died-5)
+det(hour-7, an-6)
+npadvmod(later-8, hour-7)
+advmod(died-5, later-8)
+nn(Hospital-13, St.-10)
+nn(Hospital-13, John-11)
+nn(Hospital-13, Macomb-12)
+prep_at(died-5, Hospital-13)
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN suspect))
+      (VP (VBD died)
+        (ADVP (RBR later))
+        (NP (DT the) (JJ same) (NN night))))
+    (, ,)
+    (NP (JJ hospital) (NN spokeswoman) (NNP Rebecca) (NNP O'Grady))
+    (VP (VBD said)
+      (NP (NN Thursday)))
+    (. .)))
+
+det(suspect-2, The-1)
+nsubj(died-3, suspect-2)
+ccomp(said-13, died-3)
+advmod(died-3, later-4)
+det(night-7, the-5)
+amod(night-7, same-6)
+tmod(died-3, night-7)
+amod(O'Grady-12, hospital-9)
+nn(O'Grady-12, spokeswoman-10)
+nn(O'Grady-12, Rebecca-11)
+nsubj(said-13, O'Grady-12)
+root(ROOT-0, said-13)
+tmod(said-13, Thursday-14)
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN name))
+    (VP (VBD wasn't)
+      (VP (VBN released)))
+    (. .)))
+
+poss(name-2, His-1)
+nsubj(wasn't-3, name-2)
+root(ROOT-0, wasn't-3)
+dep(wasn't-3, released-4)
+
+(ROOT
+  (S
+    (NP (NNP Vohs))
+    (VP
+      (VP (VBD described)
+        (NP
+          (NP
+            (NP (NNS Wouters))
+            (, ,)
+            (NP (DT a) (JJ 19-year) (NN veteran))
+            (, ,))
+          (PP (IN as)
+            (NP
+              (NP (DT a) (JJ good) (NN officer))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBD was)
+                    (ADJP (JJ married)))))))))
+      (CC and)
+      (VP (VBD had)
+        (NP (CD two) (JJ young) (NNS daughters))))
+    (. .)))
+
+nsubj(described-2, Vohs-1)
+nsubj(had-17, Vohs-1)
+root(ROOT-0, described-2)
+dobj(described-2, Wouters-3)
+det(veteran-7, a-5)
+amod(veteran-7, 19-year-6)
+appos(Wouters-3, veteran-7)
+det(officer-12, a-10)
+amod(officer-12, good-11)
+prep_as(Wouters-3, officer-12)
+nsubj(married-15, officer-12)
+cop(married-15, was-14)
+rcmod(officer-12, married-15)
+conj_and(described-2, had-17)
+num(daughters-20, two-18)
+amod(daughters-20, young-19)
+dobj(had-17, daughters-20)
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NN time))
+        (PP (IN since)
+          (NP (CD 1969))))
+      (SBAR (IN that)
+        (S
+          (NP (DT an) (NN officer))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (VP (VBN killed)
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN line))
+                    (PP (IN of)
+                      (NP (NN duty)))))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP Warren))
+                    (, ,)
+                    (NP (DT a) (JJ large) (JJ blue-collar) (NN Detroit) (NN suburb))))))))))
+    (. .)))
+
+nsubj(time-5, It-1)
+cop(time-5, was-2)
+det(time-5, the-3)
+amod(time-5, first-4)
+root(ROOT-0, time-5)
+prep_since(time-5, 1969-7)
+mark(killed-13, that-8)
+det(officer-10, an-9)
+nsubjpass(killed-13, officer-10)
+aux(killed-13, has-11)
+auxpass(killed-13, been-12)
+ccomp(time-5, killed-13)
+det(line-16, the-15)
+prep_in(killed-13, line-16)
+prep_of(line-16, duty-18)
+prep_in(killed-13, Warren-20)
+det(suburb-26, a-22)
+amod(suburb-26, large-23)
+amod(suburb-26, blue-collar-24)
+nn(suburb-26, Detroit-25)
+appos(Warren-20, suburb-26)
+

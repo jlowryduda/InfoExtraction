@@ -1,0 +1,1002 @@
+(ROOT
+  (NP
+    (NP (DT APW20001019.0539.0213))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-10-19) (CD 07:00:43))))
+
+root(ROOT-0, APW20001019.0539.0213-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001019.0539.0213-1, STORY-3)
+num(07:00:43-5, 2000-10-19-4)
+dep(APW20001019.0539.0213-1, 07:00:43-5)
+
+(ROOT
+  (NP (NNP CAR-F1-Malaysian-GP)))
+
+root(ROOT-0, CAR-F1-Malaysian-GP-1)
+
+(ROOT
+  (NP
+    (NP (NNP Schumacher) (NNP Looks) (NNP Ahead))
+    (CC and)
+    (NP (NNP Behind))))
+
+nn(Ahead-3, Schumacher-1)
+nn(Ahead-3, Looks-2)
+root(ROOT-0, Ahead-3)
+conj_and(Ahead-3, Behind-5)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP SEPANG) (, ,) (NNP Malaysia) (NNP (AP))
+      (PP (, ))
+        (NP (DT _) (NNP Michael) (NNP Schumacher))))
+    (VP (VBZ is)
+      (ADVP (RB still))
+      (VP (VBG celebrating)
+        (NP
+          (NP
+            (NP (NNP Ferrari) (POS 's))
+            (JJ first) (NNP Formula) (CD One) (NN title))
+          (PP (IN since)
+            (NP (CD 1979))))))
+    (. .)))
+
+nn((AP-4, SEPANG-1)
+appos((AP-4, Malaysia-3)
+nsubj(celebrating-11, (AP-4)
+punct(Schumacher-8, )-5)
+det(Schumacher-8, _-6)
+nn(Schumacher-8, Michael-7)
+prep((AP-4, Schumacher-8)
+aux(celebrating-11, is-9)
+advmod(celebrating-11, still-10)
+root(ROOT-0, celebrating-11)
+poss(title-17, Ferrari-12)
+amod(title-17, first-14)
+nn(title-17, Formula-15)
+num(title-17, One-16)
+dobj(celebrating-11, title-17)
+prep_since(title-17, 1979-19)
+
+(ROOT
+  (S
+    (NP (PRP ``It))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (JJ great) (NN relief))
+        (VP (VBG crossing)
+          (NP (DT the) (NN line))
+          (PP (IN at)
+            (NP
+              (NP (NNP Suzuka) (NNP ,'') (NNP Schumacher))
+              (VP (VBD said)
+                (PP (IN of)
+                  (NP (DT the) (NNP Oct)))))))))
+    (. .)))
+
+nsubj(relief-5, ``It-1)
+cop(relief-5, was-2)
+det(relief-5, a-3)
+amod(relief-5, great-4)
+root(ROOT-0, relief-5)
+vmod(relief-5, crossing-6)
+det(line-8, the-7)
+dobj(crossing-6, line-8)
+nn(Schumacher-12, Suzuka-10)
+nn(Schumacher-12, ,''-11)
+prep_at(crossing-6, Schumacher-12)
+vmod(Schumacher-12, said-13)
+det(Oct-16, the-15)
+prep_of(said-13, Oct-16)
+
+(ROOT
+  (NP
+    (NP (CD 8) (JJ Japanese) (NN Grand))
+    (NP (NNP Prix))
+    (. .)))
+
+num(Grand-3, 8-1)
+amod(Grand-3, Japanese-2)
+root(ROOT-0, Grand-3)
+appos(Grand-3, Prix-4)
+
+(ROOT
+  (S
+    (ADVP (RB ``There))
+    (VP (VBZ has)
+      (VP (VBN been)))
+    (NP
+      (NP (DT a) (NN couple))
+      (PP (IN of)
+        (NP
+          (NP (NNS tons))
+          (PP (IN of)
+            (NP (NN stone) (VBG falling) (NN away))))))
+    (. .)))
+
+advmod(been-3, ``There-1)
+aux(been-3, has-2)
+root(ROOT-0, been-3)
+det(couple-5, a-4)
+dep(been-3, couple-5)
+prep_of(couple-5, tons-7)
+nn(away-11, stone-9)
+amod(away-11, falling-10)
+prep_of(tons-7, away-11)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ unable)
+        (S
+          (VP (TO to)
+            (VP (VB find)
+              (S
+                (NP (DT the) (JJ exact) (NNS words))
+                (VP (TO to)
+                  (VP (VB express)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT a) (NN proper) (NN way))
+                        (SBAR
+                          (WHNP (WP what))
+                          (S
+                            (NP (PRP it))
+                            (VP (VBD was)
+                              (ADJP (JJ like)))))))))))))))
+    (. .'')))
+
+nsubj(unable-3, I-1)
+xsubj(find-5, I-1)
+cop(unable-3, 'm-2)
+root(ROOT-0, unable-3)
+aux(find-5, to-4)
+xcomp(unable-3, find-5)
+det(words-8, the-6)
+amod(words-8, exact-7)
+nsubj(express-10, words-8)
+aux(express-10, to-9)
+xcomp(find-5, express-10)
+det(way-14, a-12)
+nn(way-14, proper-13)
+prep_in(express-10, way-14)
+dobj(like-18, way-14)
+nsubj(like-18, it-16)
+cop(like-18, was-17)
+rcmod(way-14, like-18)
+punct(unable-3, .''-19)
+
+(ROOT
+  (S
+    (NP (DT ``The) (NN pressure))
+    (VP (MD could) (RB not)
+      (VP (VB have)
+        (VP (VBN been)
+          (ADVP (RBR higher))
+          (NP (DT this) (NN year)))))
+    (. .)))
+
+det(pressure-2, ``The-1)
+nsubj(year-9, pressure-2)
+aux(year-9, could-3)
+neg(year-9, not-4)
+aux(year-9, have-5)
+cop(year-9, been-6)
+advmod(year-9, higher-7)
+det(year-9, this-8)
+root(ROOT-0, year-9)
+
+(ROOT
+  (S
+    (SBAR (RB Now) (IN that)
+      (S
+        (NP (PRP we))
+        (VP (VBP have)
+          (VP (VBN fulfilled)
+            (NP (PRP$ our) (NN main) (NN wish))))))
+    (, ,)
+    (NP (DT the) (NN pressure))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (RBR less) (JJ .''))))))
+
+advmod(fulfilled-5, Now-1)
+mark(fulfilled-5, that-2)
+nsubj(fulfilled-5, we-3)
+aux(fulfilled-5, have-4)
+advcl(.''-15, fulfilled-5)
+poss(wish-8, our-6)
+nn(wish-8, main-7)
+dobj(fulfilled-5, wish-8)
+det(pressure-11, the-10)
+nsubj(.''-15, pressure-11)
+aux(.''-15, will-12)
+cop(.''-15, be-13)
+advmod(.''-15, less-14)
+root(ROOT-0, .''-15)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Schumacher))
+      (, ,)
+      (NP
+        (NP (DT the) (NNP German) (NN star))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP won)
+              (NP
+                (NP (NNS titles))
+                (PP (IN in)
+                  (NP (CD 1994)
+                    (CC and)
+                    (CD 1995))))
+              (PP (IN with)
+                (NP (NNP Benetton)))))))
+      (, ,))
+    (VP
+      (NP (NNS enters))
+      (NP
+        (NP
+          (NP (NNP Sunday) (POS 's))
+          (JJ season-ending) (JJ Malaysian) (NNP Grand) (NNP Prix))
+        (PP (IN with)
+          (NP (DT an) (JJ insurmountable) (NN 12-point) (NN lead))))
+      (PP (IN over)
+        (NP
+          (NP (JJ two-time) (JJ defending) (NN champion) (NNP Mika) (NNP Hakkinen))
+          (PP (IN of)
+            (NP (NNP McLaren))))))
+    (. .)))
+
+nsubj(enters-16, Schumacher-1)
+det(star-5, the-3)
+nn(star-5, German-4)
+appos(Schumacher-1, star-5)
+nsubj(won-7, star-5)
+rcmod(star-5, won-7)
+dobj(won-7, titles-8)
+prep_in(titles-8, 1994-10)
+prep_in(titles-8, 1995-12)
+conj_and(1994-10, 1995-12)
+prep_with(won-7, Benetton-14)
+root(ROOT-0, enters-16)
+poss(Prix-22, Sunday-17)
+amod(Prix-22, season-ending-19)
+amod(Prix-22, Malaysian-20)
+nn(Prix-22, Grand-21)
+dobj(enters-16, Prix-22)
+det(lead-27, an-24)
+amod(lead-27, insurmountable-25)
+nn(lead-27, 12-point-26)
+prep_with(Prix-22, lead-27)
+amod(Hakkinen-33, two-time-29)
+amod(Hakkinen-33, defending-30)
+nn(Hakkinen-33, champion-31)
+nn(Hakkinen-33, Mika-32)
+prep_over(enters-16, Hakkinen-33)
+prep_of(Hakkinen-33, McLaren-35)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NN ``Now))
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (VBP have)
+              (VP (VBN achieved)
+                (NP
+                  (NP (DT the) (JJ first) (NN target))
+                  (, ,)
+                  (NP
+                    (NP (DT the) (JJ next) (NN target))
+                    (SBAR
+                      (S
+                        (NP (PRP we))
+                        (VP (MD would)
+                          (VP (VB like))))))))))))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (NNS constructors) (POS '))
+          (NN championship))))
+    (, ,'')
+    (NP (NNP Schumacher))
+    (VP (VBD said))
+    (. .)))
+
+nsubj(championship-20, ``Now-1)
+mark(achieved-5, that-2)
+nsubj(achieved-5, we-3)
+aux(achieved-5, have-4)
+dep(``Now-1, achieved-5)
+det(target-8, the-6)
+amod(target-8, first-7)
+dobj(achieved-5, target-8)
+det(target-12, the-10)
+amod(target-12, next-11)
+appos(target-8, target-12)
+nsubj(like-15, we-13)
+aux(like-15, would-14)
+rcmod(target-12, like-15)
+cop(championship-20, is-16)
+det(constructors-18, the-17)
+poss(championship-20, constructors-18)
+ccomp(said-23, championship-20)
+punct(said-23, ,''-21)
+nsubj(said-23, Schumacher-22)
+root(ROOT-0, said-23)
+
+(ROOT
+  (S
+    (NP (NNP ``It))
+    (VP (VBZ is)
+      (PP (IN in)
+        (NP (PRP$ our) (NNS hands))))
+    (. .)))
+
+nsubj(is-2, ``It-1)
+root(ROOT-0, is-2)
+poss(hands-5, our-4)
+prep_in(is-2, hands-5)
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (ADVP (RB just))
+    (VP (VBP need)
+      (NP
+        (NP (DT a) (JJ fourth) (NN place))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADVP (RB well))
+              (PP (IN within)
+                (NP (PRP$ our) (NNS means))))))))
+    (. .'')))
+
+nsubj(need-3, We-1)
+advmod(need-3, just-2)
+root(ROOT-0, need-3)
+det(place-6, a-4)
+amod(place-6, fourth-5)
+dobj(need-3, place-6)
+nsubj(is-9, place-6)
+rcmod(place-6, is-9)
+advmod(is-9, well-10)
+poss(means-13, our-12)
+prep_within(is-9, means-13)
+punct(need-3, .''-14)
+
+(ROOT
+  (S
+    (NP (NNP Ferrari))
+    (VP (VBZ leads)
+      (VP (VBN McLaren)
+        (PP (IN by)
+          (NP (CD 13) (NNS points)))))
+    (. .)))
+
+nsubj(leads-2, Ferrari-1)
+root(ROOT-0, leads-2)
+dep(leads-2, McLaren-3)
+num(points-6, 13-5)
+prep_by(McLaren-3, points-6)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Hakkinen))
+      (CC and)
+      (NP (NNP McLaren) (NN teammate) (NNP David) (NNP Coulthard)))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB finish)
+            (UCP
+              (ADJP
+                (ADJP
+                  (ADVP (IN at) (JJS least))
+                  (JJ first))
+                (CC and)
+                (ADJP (JJ third)))
+              (CC and)
+              (NP
+                (ADJP (JJ shut)
+                  (PP (IN out)
+                    (NP (NNP Ferrari) (NN grab))))
+                (NN snatch))
+              (NP
+                (NP (DT the) (NNS constructors) (POS '))
+                (NN title)))))))
+    (. .)))
+
+nsubj(need-7, Hakkinen-1)
+xsubj(finish-9, Hakkinen-1)
+nn(Coulthard-6, McLaren-3)
+nn(Coulthard-6, teammate-4)
+nn(Coulthard-6, David-5)
+conj_and(Hakkinen-1, Coulthard-6)
+nsubj(need-7, Coulthard-6)
+xsubj(finish-9, Coulthard-6)
+root(ROOT-0, need-7)
+aux(finish-9, to-8)
+xcomp(need-7, finish-9)
+advmod(first-12, at-10)
+pobj(at-10, least-11)
+acomp(finish-9, first-12)
+acomp(finish-9, third-14)
+conj_and(first-12, third-14)
+amod(snatch-20, shut-16)
+nn(grab-19, Ferrari-18)
+prep_out(shut-16, grab-19)
+acomp(finish-9, snatch-20)
+conj_and(first-12, snatch-20)
+det(constructors-22, the-21)
+poss(title-24, constructors-22)
+dep(first-12, title-24)
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (SBAR
+      (SBAR (IN if)
+        (S
+          (UCP
+            (NP (NNP Schumacher))
+            (CC and)
+            (S
+              (VP (VB teammate)
+                (NP
+                  (NP (NNPS Rubens) (NNP Barrichello))
+                  (NP
+                    (NP (NN score))
+                    (NP
+                      (QP (IN at) (JJS least) (CD three))
+                      (NNS points)))))))))
+      (, ,)
+      (CC or)
+      (SBAR (IN if)
+        (S
+          (NP (DT a) (NNP McLaren))
+          (VP (VBZ does) (RB not)
+            (VP (VB win)
+              (NP (DT the) (NN race)))))))
+    (, ,)
+    (NP (NNP Ferrari))
+    (VP (MD will)
+      (VP (VB have)
+        (NP
+          (NP (DT the) (NN constructor)
+            (CC and)
+            (VBG driving) (NN double))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (JJ first) (NN time))
+              (PP (IN since)
+                (NP (CD 1979))))))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (NNP Jody) (NNP Scheckter))
+            (VP (VBD paced)
+              (NP (NNP Ferrari))
+              (PP (TO to)
+                (NP (DT both) (NNS victories))))))))
+    (. .)))
+
+advmod(have-27, However-1)
+mark(Schumacher-4, if-3)
+advcl(have-27, Schumacher-4)
+conj_and(Schumacher-4, teammate-6)
+advcl(have-27, teammate-6)
+nn(Barrichello-8, Rubens-7)
+dobj(teammate-6, Barrichello-8)
+iobj(teammate-6, Barrichello-8)
+dep(Barrichello-8, score-9)
+quantmod(three-12, at-10)
+mwe(at-10, least-11)
+pobj(at-10, least-11)
+num(points-13, three-12)
+dep(score-9, points-13)
+mark(win-21, if-16)
+det(McLaren-18, a-17)
+nsubj(win-21, McLaren-18)
+aux(win-21, does-19)
+neg(win-21, not-20)
+conj_or(Schumacher-4, win-21)
+advcl(have-27, win-21)
+det(race-23, the-22)
+dobj(win-21, race-23)
+nsubj(have-27, Ferrari-25)
+aux(have-27, will-26)
+root(ROOT-0, have-27)
+det(double-32, the-28)
+nn(double-32, constructor-29)
+conj_and(constructor-29, driving-31)
+nn(double-32, driving-31)
+dobj(have-27, double-32)
+det(time-36, the-34)
+amod(time-36, first-35)
+prep_for(double-32, time-36)
+prep_since(time-36, 1979-38)
+advmod(paced-43, when-40)
+nn(Scheckter-42, Jody-41)
+nsubj(paced-43, Scheckter-42)
+advcl(have-27, paced-43)
+dobj(paced-43, Ferrari-44)
+det(victories-47, both-46)
+prep_to(paced-43, victories-47)
+
+(ROOT
+  (S
+    (NP (NNP ``It))
+    (VP (VBZ has)
+      (VP (VBN taken)
+        (PP
+          (NP (CD five) (NNS years))
+          (IN at)
+          (NP (NNP Ferrari)))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ competitive)
+                (PP (IN from)
+                  (NP (DT the) (JJ first) (NN race))))
+              (SBAR (IN until)
+                (S
+                  (NP (DT the) (JJ last) (NN ,'') (NNP Schumacher))
+                  (VP (VBD said)))))))))
+    (. .)))
+
+nsubj(taken-3, ``It-1)
+xsubj(competitive-10, ``It-1)
+aux(taken-3, has-2)
+root(ROOT-0, taken-3)
+num(years-5, five-4)
+npadvmod(taken-3, years-5)
+prep_at(taken-3, Ferrari-7)
+aux(competitive-10, to-8)
+cop(competitive-10, be-9)
+xcomp(taken-3, competitive-10)
+det(race-14, the-12)
+amod(race-14, first-13)
+prep_from(competitive-10, race-14)
+mark(said-20, until-15)
+det(Schumacher-19, the-16)
+amod(Schumacher-19, last-17)
+nn(Schumacher-19, ,''-18)
+nsubj(said-20, Schumacher-19)
+advcl(competitive-10, said-20)
+
+(ROOT
+  (S
+    (NP
+      (NP (NN ``Now))
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (VBP have)
+            (NP (PRP it))))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (RB nice)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADVP (RB there))))))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (NP
+                (NP (NN advantage))
+                (PP (IN of)
+                  (NP (DT the) (NN situation)))))))))
+    (. .'')))
+
+dep(nice-9, ``Now-1)
+mark(have-4, that-2)
+nsubj(have-4, we-3)
+dep(``Now-1, have-4)
+dobj(have-4, it-5)
+nsubj(nice-9, it-7)
+xsubj(be-11, it-7)
+cop(nice-9, is-8)
+root(ROOT-0, nice-9)
+aux(be-11, to-10)
+xcomp(nice-9, be-11)
+advmod(be-11, there-12)
+nsubj(have-15, we-14)
+xsubj(take-17, we-14)
+conj_and(nice-9, have-15)
+aux(take-17, to-16)
+xcomp(have-15, take-17)
+dobj(take-17, advantage-18)
+det(situation-21, the-20)
+prep_of(advantage-18, situation-21)
+punct(nice-9, .''-22)
+
+(ROOT
+  (S
+    (NP (NNP Schumacher))
+    (VP (VBZ has)
+      (VP (VBN eight)
+        (NP
+          (NP
+            (NP (NNS victories))
+            (NP (DT this) (NN year)))
+          (CC and)
+          (NP
+            (NP (CD 43) (NN overall))
+            (, ,)
+            (NP
+              (ADJP (JJ second) (RB only)
+                (S
+                  (VP (TO to)
+                    (VP (VB Alain)
+                      (NP
+                        (NP (NNP Prost) (CD (53) (NN )))
+                        (PP (IN on)
+                          (NP (DT the) (NN career))))))))
+              (NN list))))))
+    (. .)))
+
+nsubj(eight-3, Schumacher-1)
+aux(eight-3, has-2)
+root(ROOT-0, eight-3)
+dobj(eight-3, victories-4)
+det(year-6, this-5)
+dep(victories-4, year-6)
+num(overall-9, 43-8)
+dobj(eight-3, overall-9)
+conj_and(victories-4, overall-9)
+amod(list-21, second-11)
+advmod(second-11, only-12)
+aux(Alain-14, to-13)
+xcomp(second-11, Alain-14)
+nn()-17, Prost-15)
+num()-17, (53-16)
+dobj(Alain-14, )-17)
+det(career-20, the-19)
+prep_on()-17, career-20)
+appos(overall-9, list-21)
+
+(ROOT
+  (S
+    (NP (PRP ``I))
+    (VP (VBP 'm)
+      (ADVP (RB still))
+      (ADJP (JJ young)))
+    (. .)))
+
+nsubj(young-4, ``I-1)
+cop(young-4, 'm-2)
+advmod(young-4, still-3)
+root(ROOT-0, young-4)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP
+        (NP (RB only) (CD 31) (NNS years))
+        (JJ old)))
+    (. .)))
+
+nsubj(old-6, I-1)
+cop(old-6, 'm-2)
+advmod(years-5, only-3)
+num(years-5, 31-4)
+npadvmod(old-6, years-5)
+root(ROOT-0, old-6)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP enjoy)
+      (S
+        (VP (VBG racing))))
+    (. .)))
+
+nsubj(enjoy-2, I-1)
+root(ROOT-0, enjoy-2)
+xcomp(enjoy-2, racing-3)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP enjoy)
+      (S
+        (VP (VBG working)
+          (SBAR (IN with)
+            (S
+              (NP (NNP Ferrari) (NNP ,'') (NNP Schumacher))
+              (VP (VBD said)))))))
+    (. .)))
+
+nsubj(enjoy-2, I-1)
+root(ROOT-0, enjoy-2)
+xcomp(enjoy-2, working-3)
+mark(said-8, with-4)
+nn(Schumacher-7, Ferrari-5)
+nn(Schumacher-7, ,''-6)
+nsubj(said-8, Schumacher-7)
+advcl(working-3, said-8)
+
+(ROOT
+  (S
+    (NP (NNP ``I))
+    (ADVP (RB simply))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB enjoy)
+            (NP
+              (NP (RBR more))
+              (PP (IN of)
+                (NP (DT this) (NN time))))
+            (SBAR (IN like)
+              (S
+                (NP (PRP we))
+                (VP (VBD had)
+                  (PP (IN at)
+                    (NP (NNP Suzuka))))))))))
+    (. .)))
+
+nsubj(want-3, ``I-1)
+xsubj(enjoy-5, ``I-1)
+advmod(want-3, simply-2)
+root(ROOT-0, want-3)
+aux(enjoy-5, to-4)
+xcomp(want-3, enjoy-5)
+dobj(enjoy-5, more-6)
+det(time-9, this-8)
+prep_of(more-6, time-9)
+mark(had-12, like-10)
+nsubj(had-12, we-11)
+advcl(enjoy-5, had-12)
+prep_at(had-12, Suzuka-14)
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP (JJ sure)
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP
+              (VP (MD will))
+              (CC and)
+              (ADVP (JJ why) (RB not))
+              (VP (VB enjoy)
+                (NP (PRP it))
+                (ADVP (RB together))))))))
+    (. .'')))
+
+cc(sure-4, And-1)
+nsubj(sure-4, I-2)
+cop(sure-4, am-3)
+root(ROOT-0, sure-4)
+nsubj(will-6, we-5)
+nsubj(enjoy-10, we-5)
+ccomp(sure-4, will-6)
+advmod(not-9, why-8)
+ccomp(sure-4, not-9)
+conj_and(will-6, not-9)
+neg(will-6, not-9)
+ccomp(sure-4, enjoy-10)
+conj_and(will-6, enjoy-10)
+dobj(enjoy-10, it-11)
+advmod(enjoy-10, together-12)
+punct(sure-4, .''-13)
+
+(ROOT
+  (S
+    (NP (NNP Schumacher))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (NN contract))
+        (PP (IN with)
+          (NP (DT the) (JJ Italian) (NN team))))
+      (PP (IN through)
+        (NP (CD 2002))))
+    (. .)))
+
+nsubj(has-2, Schumacher-1)
+root(ROOT-0, has-2)
+det(contract-4, a-3)
+dobj(has-2, contract-4)
+det(team-8, the-6)
+amod(team-8, Italian-7)
+prep_with(contract-4, team-8)
+prep_through(has-2, 2002-10)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP ``It) (POS 's))
+      (ADJP (RB too) (JJ early)
+        (S
+          (VP (TO to)
+            (VP (VB start)
+              (S
+                (VP (VBG speculating)
+                  (PP (IN about)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (NP (PRP I))
+                        (VP (MD will)
+                          (VP (VB do)
+                            (PP (IN after)
+                              (NP (CD 2002))))))))))))))
+      (, ,'')
+      (NX (NNP Schumacher)))
+    (VP (VBD said))
+    (. .)))
+
+poss(Schumacher-16, ``It-1)
+advmod(early-4, too-3)
+amod(Schumacher-16, early-4)
+aux(start-6, to-5)
+xcomp(early-4, start-6)
+xcomp(start-6, speculating-7)
+dobj(do-12, what-9)
+nsubj(do-12, I-10)
+aux(do-12, will-11)
+prepc_about(speculating-7, do-12)
+prep_after(do-12, 2002-14)
+punct(Schumacher-16, ,''-15)
+nsubj(said-17, Schumacher-16)
+root(ROOT-0, said-17)
+
+(ROOT
+  (S
+    (NP (NNP ``I))
+    (VP (MD 'll)
+      (VP (VB start)
+        (S
+          (VP (VBG thinking)
+            (PP (IN about)
+              (NP (PRP it)))
+            (PP
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NN end))
+                  (PP (IN of)
+                    (NP (CD 2001)))))
+              (CC or)
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NN beginning))
+                  (PP (IN of)
+                    (NP (CD 2002))))))))))
+    (. .)))
+
+nsubj(start-3, ``I-1)
+aux(start-3, 'll-2)
+root(ROOT-0, start-3)
+xcomp(start-3, thinking-4)
+prep_about(thinking-4, it-6)
+det(end-9, the-8)
+prep_at(thinking-4, end-9)
+prep_of(end-9, 2001-11)
+det(beginning-15, the-14)
+prep_at(thinking-4, beginning-15)
+conj_or(end-9, beginning-15)
+prep_of(beginning-15, 2002-17)
+
+(ROOT
+  (FRAG (RB Not)
+    (ADVP (RB before))
+    (ADJP (. .''))))
+
+root(ROOT-0, Not-1)
+dep(Not-1, before-2)
+dep(Not-1, .''-3)
+
+(ROOT
+  (S
+    (S
+      (NP (DT A) (NN practice) (NN session))
+      (VP (VBZ is)
+        (VP (VBN set)
+          (PP (IN for)
+            (NP (NNP Friday))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNS drivers))
+      (VP (MD will)
+        (VP (VB qualify)
+          (NP
+            (NP (NNP Saturday))
+            (PP (IN for)
+              (NP
+                (NP (NNP Sunday) (POS 's))
+                (JJ 56-lap) (NN race))))
+          (PP (IN on)
+            (NP (JJ 3.44-mile) (NN circuit))))))
+    (. .)))
+
+det(session-3, A-1)
+nn(session-3, practice-2)
+nsubjpass(set-5, session-3)
+auxpass(set-5, is-4)
+root(ROOT-0, set-5)
+prep_for(set-5, Friday-7)
+det(drivers-11, the-10)
+nsubj(qualify-13, drivers-11)
+aux(qualify-13, will-12)
+conj_and(set-5, qualify-13)
+dobj(qualify-13, Saturday-14)
+poss(race-19, Sunday-16)
+amod(race-19, 56-lap-18)
+prep_for(Saturday-14, race-19)
+amod(circuit-22, 3.44-mile-21)
+prep_on(qualify-13, circuit-22)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP ``I))
+      (VP (MD would)
+        (VP (VB like)
+          (S
+            (VP (TO to)
+              (VP (VB win)
+                (NP (DT the) (NN race))))))))
+    (, ,'')
+    (NP (NNP Schumacher))
+    (VP (VBD said))
+    (. .)))
+
+nsubj(like-3, ``I-1)
+xsubj(win-5, ``I-1)
+aux(like-3, would-2)
+ccomp(said-10, like-3)
+aux(win-5, to-4)
+xcomp(like-3, win-5)
+det(race-7, the-6)
+dobj(win-5, race-7)
+punct(said-10, ,''-8)
+nsubj(said-10, Schumacher-9)
+root(ROOT-0, said-10)
+
+(ROOT
+  (S
+    (NP (NNP ``I))
+    (VP (VBZ see)
+      (NP
+        (NP (DT this))
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN race))
+            (PP (IN for)
+              (NP (NN fun)))))))
+    (. .'')))
+
+nsubj(see-2, ``I-1)
+root(ROOT-0, see-2)
+dobj(see-2, this-3)
+det(race-6, a-5)
+prep_as(this-3, race-6)
+prep_for(race-6, fun-8)
+punct(see-2, .''-9)
+

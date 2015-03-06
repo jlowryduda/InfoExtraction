@@ -1,0 +1,1302 @@
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001021.1123.0068) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-10-21) (CD 11:23:00))))
+
+nn(STORY-3, NYT20001021.1123.0068-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(11:23:00-5, 2000-10-21-4)
+dep(STORY-3, 11:23:00-5)
+
+(ROOT
+  (NP
+    (NP (CD A1772) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NNP taf-z) (NNP u) (NNP i) (NNP BC-POPE-RETIRE-NYT) (NNP &LR))
+      (: ;)
+      (NP
+        (QP (CD 10-21) (CD 0573))))))
+
+num(&Cx1f-2, A1772-1)
+root(ROOT-0, &Cx1f-2)
+nn(&LR-8, taf-z-4)
+nn(&LR-8, u-5)
+nn(&LR-8, i-6)
+nn(&LR-8, BC-POPE-RETIRE-NYT-7)
+dep(&Cx1f-2, &LR-8)
+number(0573-11, 10-21-10)
+dep(&LR-8, 0573-11)
+
+(ROOT
+  (NP (NNP BC-POPE-RETIRE-NYT)))
+
+root(ROOT-0, BC-POPE-RETIRE-NYT-1)
+
+(ROOT
+  (NP (NNP CARDINAL'S) (NNP BOOK) (NNP FUELS) (NNP TALK) (NNP THAT) (NNP POPE) (NNP WILL) (NNP STEP) (NNP DOWN)))
+
+nn(DOWN-9, CARDINAL'S-1)
+nn(DOWN-9, BOOK-2)
+nn(DOWN-9, FUELS-3)
+nn(DOWN-9, TALK-4)
+nn(DOWN-9, THAT-5)
+nn(DOWN-9, POPE-6)
+nn(DOWN-9, WILL-7)
+nn(DOWN-9, STEP-8)
+root(ROOT-0, DOWN-9)
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (PP (NNP By)
+        (NP (NNP ALESSANDRA) (NNP STANLEY) (NNP &LR))))
+    (: ;)
+    (NP
+      (NP (NNP &QC))
+      (: ;)
+      (NP (NNS &QL)))
+    (: ;)
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (NP
+        (NP (CD c.2000))
+        (NP (NNP N.Y))))
+    (. .)))
+
+root(ROOT-0, &UR-1)
+prep(&UR-1, By-3)
+nn(&LR-6, ALESSANDRA-4)
+nn(&LR-6, STANLEY-5)
+dep(By-3, &LR-6)
+dep(&UR-1, &QC-8)
+dep(&QC-8, &QL-10)
+dep(&UR-1, &UR-12)
+dep(&UR-12, c.2000-14)
+appos(c.2000-14, N.Y-15)
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
+    (PRN (: ;)
+      (NP
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&LR-4, Times-1)
+nn(&LR-4, News-2)
+nn(&LR-4, Service-3)
+root(ROOT-0, &LR-4)
+dep(&LR-4, &QC-6)
+dep(&QC-6, &QL-8)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP ROME) (NNP _) (NNP Fueling) (NN speculation))
+      (SBAR (IN that)
+        (S
+          (NP (NNP John) (NNP Paul) (NNP II))
+          (VP (MD might)
+            (VP (VB retire)
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NN end))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT this) (NN year))
+                      (, ,)
+                      (NP (DT a) (JJ Belgian) (NN cardinal)))))))))))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ believes)
+            (SBAR (IN that)
+              (S
+                (NP (DT the)
+                  (NP
+                    (NP (NN frail))
+                    (, ,)
+                    (NP (VBG ailing) (NN pope))))
+                (VP (MD could)
+                  (VP (VB do)
+                    (S
+                      (NP (RB exactly) (WDT that)))))))))))
+    (. .)))
+
+nn(speculation-4, ROME-1)
+nn(speculation-4, _-2)
+nn(speculation-4, Fueling-3)
+nsubj(says-21, speculation-4)
+mark(retire-10, that-5)
+nn(II-8, John-6)
+nn(II-8, Paul-7)
+nsubj(retire-10, II-8)
+aux(retire-10, might-9)
+dep(speculation-4, retire-10)
+det(end-13, the-12)
+prep_at(retire-10, end-13)
+det(year-16, this-15)
+prep_of(end-13, year-16)
+det(cardinal-20, a-18)
+amod(cardinal-20, Belgian-19)
+appos(year-16, cardinal-20)
+root(ROOT-0, says-21)
+nsubj(believes-23, he-22)
+ccomp(says-21, believes-23)
+mark(do-31, that-24)
+det(frail-26, the-25)
+nsubj(do-31, frail-26)
+amod(pope-29, ailing-28)
+appos(frail-26, pope-29)
+aux(do-31, could-30)
+ccomp(believes-23, do-31)
+advmod(that-33, exactly-32)
+xcomp(do-31, that-33)
+
+(ROOT
+  (S
+    (NP (PRP ``It))
+    (VP (MD would) (RB not)
+      (VP (VB surprise)
+        (NP (PRP me))
+        (SBAR (IN if)
+          (S
+            (NP (DT the) (NN pope))
+            (VP (VBD were)
+              (S
+                (VP (TO to)
+                  (VP (VB retire)
+                    (SBAR (IN after)
+                      (S
+                        (NP (CD 2000) (NN ,''))
+                        (VP (VBZ says)
+                          (NP (NNP Cardinal) (NNP Godfried) (NNS Danneels))
+                          (PP (IN in)
+                            (NP (DT a) (NN book)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB be)
+                                    (VP (VBN published)
+                                      (PP (IN on)
+                                        (NP (NNP Monday)))
+                                      (PP (IN in)
+                                        (NP (NNP Belgium))))))))))))))))))))
+    (. .)))
+
+nsubj(surprise-4, ``It-1)
+aux(surprise-4, would-2)
+neg(surprise-4, not-3)
+root(ROOT-0, surprise-4)
+dobj(surprise-4, me-5)
+mark(were-9, if-6)
+det(pope-8, the-7)
+nsubj(were-9, pope-8)
+xsubj(retire-11, pope-8)
+advcl(surprise-4, were-9)
+aux(retire-11, to-10)
+xcomp(were-9, retire-11)
+mark(says-15, after-12)
+num(,''-14, 2000-13)
+nsubj(says-15, ,''-14)
+advcl(retire-11, says-15)
+nn(Danneels-18, Cardinal-16)
+nn(Danneels-18, Godfried-17)
+dobj(says-15, Danneels-18)
+det(book-21, a-20)
+prep_in(says-15, book-21)
+aux(published-24, to-22)
+auxpass(published-24, be-23)
+vmod(book-21, published-24)
+prep_on(published-24, Monday-26)
+prep_in(published-24, Belgium-28)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP ``He))
+      (VP (VBD wanted)
+        (PP (IN at)
+          (NP (DT all) (NNS costs)))
+        (S
+          (VP (TO to)
+            (VP (VB reach)
+              (NP (DT the) (NNP Jubilee) (NN year) (CD 2000)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP consider)
+        (NP (PRP him))
+        (NP
+          (NP (NN capable))
+          (PP (IN of)
+            (NP (VBG retiring) (NN afterward))))))
+    (. .'')))
+
+nsubj(wanted-2, ``He-1)
+xsubj(reach-7, ``He-1)
+root(ROOT-0, wanted-2)
+det(costs-5, all-4)
+prep_at(wanted-2, costs-5)
+aux(reach-7, to-6)
+xcomp(wanted-2, reach-7)
+det(year-10, the-8)
+nn(year-10, Jubilee-9)
+tmod(reach-7, year-10)
+num(year-10, 2000-11)
+nsubj(consider-15, I-14)
+conj_but(wanted-2, consider-15)
+iobj(consider-15, him-16)
+dobj(consider-15, capable-17)
+amod(afterward-20, retiring-19)
+prep_of(capable-17, afterward-20)
+punct(wanted-2, .''-21)
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Danneels))
+      (VP (VBZ is) (RB not)
+        (NP (DT the) (JJ first) (NNP Roman) (NNP Catholic) (NNP Church) (NN official)
+          (S
+            (VP (TO to)
+              (VP (VB broach)
+                (NP
+                  (NP (DT a) (JJ topic))
+                  (VP (VBN considered)
+                    (NP (NN taboo))
+                    (PP (IN at)
+                      (NP (DT the) (NNP Vatican)))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP he))
+      (VP (VBZ is)
+        (NP (DT the) (JJ highest-ranking) (NN leader)
+          (S
+            (VP (TO to)
+              (VP (VB address)
+                (ADVP
+                  (NP (DT the) (NN question))
+                  (IN so))
+                (ADVP (RB openly))))))))
+    (. .)))
+
+nsubj(official-9, Danneels-1)
+cop(official-9, is-2)
+neg(official-9, not-3)
+det(official-9, the-4)
+amod(official-9, first-5)
+nn(official-9, Roman-6)
+nn(official-9, Catholic-7)
+nn(official-9, Church-8)
+root(ROOT-0, official-9)
+aux(broach-11, to-10)
+vmod(official-9, broach-11)
+det(topic-13, a-12)
+dobj(broach-11, topic-13)
+vmod(topic-13, considered-14)
+dobj(considered-14, taboo-15)
+det(Vatican-18, the-17)
+prep_at(considered-14, Vatican-18)
+nsubj(leader-25, he-21)
+cop(leader-25, is-22)
+det(leader-25, the-23)
+amod(leader-25, highest-ranking-24)
+conj_but(official-9, leader-25)
+aux(address-27, to-26)
+vmod(leader-25, address-27)
+det(question-29, the-28)
+npadvmod(so-30, question-29)
+advmod(address-27, so-30)
+advmod(address-27, openly-31)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Vatican) (NN spokesman))
+      (, ,)
+      (NP (NNP Joaquin) (NNP Navarro-Valls))
+      (, ,))
+    (VP (VBN issued)
+      (NP (DT a) (NN terse) (NN reaction))
+      (, ,)
+      (S
+        (VP (VBG saying)
+          (SBAR
+            (S
+              (NP (PRP ``this))
+              (VP (VBZ is)
+                (NP
+                  (NP (DT the) (JJ personal) (NN opinion))
+                  (PP (IN of)
+                    (NP (NNP Cardinal) (NNS Danneels)))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (NP (PRP we))
+                      (VP (VBP do) (RB not)
+                        (VP (VB confirm))))))))))))
+    (. .'')))
+
+det(spokesman-3, The-1)
+nn(spokesman-3, Vatican-2)
+nsubj(issued-8, spokesman-3)
+nn(Navarro-Valls-6, Joaquin-5)
+appos(spokesman-3, Navarro-Valls-6)
+root(ROOT-0, issued-8)
+det(reaction-11, a-9)
+nn(reaction-11, terse-10)
+dobj(issued-8, reaction-11)
+vmod(issued-8, saying-13)
+nsubj(opinion-18, ``this-14)
+cop(opinion-18, is-15)
+det(opinion-18, the-16)
+amod(opinion-18, personal-17)
+ccomp(saying-13, opinion-18)
+dobj(confirm-26, opinion-18)
+nn(Danneels-21, Cardinal-20)
+prep_of(opinion-18, Danneels-21)
+nsubj(confirm-26, we-23)
+aux(confirm-26, do-24)
+neg(confirm-26, not-25)
+rcmod(opinion-18, confirm-26)
+punct(issued-8, .''-27)
+
+(ROOT
+  (NP
+    (NP
+      (NP (DT The) (JJ cardinal) (NN spoke))
+      (PP (IN in)
+        (NP
+          (NP (NN answer))
+          (PP (TO to)
+            (NP
+              (NP (DT a) (NN question))
+              (PP (IN in)
+                (NP
+                  (NP (DT an) (NN interview))
+                  (VP (VBN included)
+                    (PP (IN in)
+                      (NP
+                        (NP (PRP$ his) (NN book))
+                        (, ,)
+                        (NP (JJ ``Frankly) (NN Speaking))))))))))))
+    (: :)
+    (NP
+      (NP (NNP Six) (NNS Conversations))
+      (PP (IN with)
+        (NP (DT the) (NNP Cardinal))))
+    (. .'')))
+
+det(spoke-3, The-1)
+amod(spoke-3, cardinal-2)
+root(ROOT-0, spoke-3)
+prep_in(spoke-3, answer-5)
+det(question-8, a-7)
+prep_to(answer-5, question-8)
+det(interview-11, an-10)
+prep_in(question-8, interview-11)
+vmod(interview-11, included-12)
+poss(book-15, his-14)
+prep_in(included-12, book-15)
+amod(Speaking-18, ``Frankly-17)
+appos(book-15, Speaking-18)
+nn(Conversations-21, Six-20)
+dep(spoke-3, Conversations-21)
+det(Cardinal-24, the-23)
+prep_with(Conversations-21, Cardinal-24)
+punct(spoke-3, .''-25)
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Speculation))
+      (SBAR (IN that)
+        (S
+          (NP (NNP John) (NNP Paul))
+          (VP (MD might)
+            (VP (VB step)
+              (ADVP (RB down))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP$ his) (NN health))
+                  (VP (VBZ deteriorates)
+                    (PP (TO to)
+                      (NP (DT the) (NN extent)))
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP he))
+                        (VP (VBD cannot)
+                          (VP (VB fulfill)
+                            (NP (PRP$ his) (NNS duties))))))))))))))
+    (VP (VBZ has)
+      (VP (VBN echoed)
+        (PP (IN around)
+          (NP (DT the) (NN church)))
+        (SBAR (RB ever) (IN since)
+          (S
+            (NP (PRP he))
+            (VP (VBD turned)
+              (NP
+                (NP (CD 75))
+                (, ,)
+                (NP
+                  (NP (DT the) (NN mandatory) (NN retirement) (NN age))
+                  (PP (IN for)
+                    (NP (NNS bishops))))
+                (, ,))
+              (PP (IN in)
+                (NP (CD 1995))))))))
+    (. .)))
+
+nsubj(echoed-22, Speculation-1)
+mark(step-6, that-2)
+nn(Paul-4, John-3)
+nsubj(step-6, Paul-4)
+aux(step-6, might-5)
+dep(Speculation-1, step-6)
+advmod(step-6, down-7)
+mark(deteriorates-11, if-8)
+poss(health-10, his-9)
+nsubj(deteriorates-11, health-10)
+advcl(step-6, deteriorates-11)
+det(extent-14, the-13)
+prep_to(deteriorates-11, extent-14)
+mark(cannot-17, that-15)
+nsubj(cannot-17, he-16)
+ccomp(deteriorates-11, cannot-17)
+xcomp(cannot-17, fulfill-18)
+poss(duties-20, his-19)
+dobj(fulfill-18, duties-20)
+aux(echoed-22, has-21)
+root(ROOT-0, echoed-22)
+det(church-25, the-24)
+prep_around(echoed-22, church-25)
+advmod(turned-29, ever-26)
+mark(turned-29, since-27)
+nsubj(turned-29, he-28)
+advcl(echoed-22, turned-29)
+dobj(turned-29, 75-30)
+det(age-35, the-32)
+nn(age-35, mandatory-33)
+nn(age-35, retirement-34)
+appos(75-30, age-35)
+prep_for(age-35, bishops-37)
+prep_in(turned-29, 1995-40)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS rumors) (NN grew) (NN louder))
+      (PP (IN as)
+        (NP
+          (NP
+            (NP (DT the) (NN pope))
+            (ADJP (RB visibly) (VBN weakened)))
+          (CC and)
+          (NP (DT this) (NN year)))))
+    (VP (VBD passed)
+      (NP
+        (NP (PRP$ his) (JJ 80th) (NN birthday))
+        (, ,)
+        (NP
+          (NP (DT the) (NN age))
+          (SBAR
+            (WHPP (IN at)
+              (WHNP (WDT which)))
+            (S
+              (NP (NNS cardinals))
+              (VP (VBN become)
+                (S
+                  (ADJP (JJ ineligible)
+                    (S
+                      (VP (TO to)
+                        (VP (VB vote)
+                          (PP (IN in)
+                            (NP
+                              (NP (DT a) (NN conclave))
+                              (PP (IN for)
+                                (NP (DT the) (JJ next) (NN pope))))))))))))))))
+    (. .)))
+
+det(louder-4, The-1)
+nn(louder-4, rumors-2)
+nn(louder-4, grew-3)
+nsubj(passed-13, louder-4)
+det(pope-7, the-6)
+prep_as(louder-4, pope-7)
+advmod(weakened-9, visibly-8)
+amod(pope-7, weakened-9)
+det(year-12, this-11)
+prep_as(louder-4, year-12)
+conj_and(pope-7, year-12)
+root(ROOT-0, passed-13)
+poss(birthday-16, his-14)
+amod(birthday-16, 80th-15)
+dobj(passed-13, birthday-16)
+det(age-19, the-18)
+appos(birthday-16, age-19)
+prep_at(become-23, age-19)
+nsubj(become-23, cardinals-22)
+rcmod(age-19, become-23)
+acomp(become-23, ineligible-24)
+aux(vote-26, to-25)
+xcomp(ineligible-24, vote-26)
+det(conclave-29, a-28)
+prep_in(vote-26, conclave-29)
+det(pope-33, the-31)
+amod(pope-33, next-32)
+prep_for(conclave-29, pope-33)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP January)))
+    (, ,)
+    (NP
+      (NP (NNP Bishop) (NNP Karl) (NNP Lehmann))
+      (, ,)
+      (NP
+        (NP (NN leader))
+        (PP (IN of)
+          (NP (DT the) (NNP German) (NNPS Bishops) (NNP Conference))))
+      (, ,))
+    (VP (VBD unleashed)
+      (NP
+        (NP (DT a) (NN flurry))
+        (PP (IN of)
+          (NP
+            (NP (NNS articles))
+            (PP (IN in)
+              (NP (DT the) (JJ Italian) (NN press))))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP he))
+          (VP (VBD told)
+            (NP (DT a) (NN questioner))
+            (PP (IN on)
+              (NP (NNP German) (NN radio)))
+            (SBAR (IN that)
+              (S
+                (NP (PRP he))
+                (VP (VBD believed)
+                  (SBAR (IN that)
+                    (S
+                      (NP (DT the) (NN pope))
+                      (VP (MD would)
+                        (VP (VB resign)
+                          (PP (IN for)
+                            (NP
+                              (NP (DT the) (NN good))
+                              (PP (IN of)
+                                (NP (DT the) (NN church)))))
+                          (SBAR (IN if)
+                            (S
+                              (NP (PRP he))
+                              (VP (VBD felt)
+                                (SBAR
+                                  (S
+                                    (NP (PRP he))
+                                    (VP (MD could) (RB not)
+                                      (VP (VB fulfill)
+                                        (NP (PRP$ his) (JJ papal) (NNS functions))))))))))))))))))))
+    (. .)))
+
+prep_in(unleashed-15, January-2)
+nn(Lehmann-6, Bishop-4)
+nn(Lehmann-6, Karl-5)
+nsubj(unleashed-15, Lehmann-6)
+appos(Lehmann-6, leader-8)
+det(Conference-13, the-10)
+nn(Conference-13, German-11)
+nn(Conference-13, Bishops-12)
+prep_of(leader-8, Conference-13)
+root(ROOT-0, unleashed-15)
+det(flurry-17, a-16)
+dobj(unleashed-15, flurry-17)
+prep_of(flurry-17, articles-19)
+det(press-23, the-21)
+amod(press-23, Italian-22)
+prep_in(articles-19, press-23)
+advmod(told-26, when-24)
+nsubj(told-26, he-25)
+advcl(unleashed-15, told-26)
+det(questioner-28, a-27)
+dobj(told-26, questioner-28)
+nn(radio-31, German-30)
+prep_on(told-26, radio-31)
+mark(believed-34, that-32)
+nsubj(believed-34, he-33)
+ccomp(told-26, believed-34)
+mark(resign-39, that-35)
+det(pope-37, the-36)
+nsubj(resign-39, pope-37)
+aux(resign-39, would-38)
+ccomp(believed-34, resign-39)
+det(good-42, the-41)
+prep_for(resign-39, good-42)
+det(church-45, the-44)
+prep_of(good-42, church-45)
+mark(felt-48, if-46)
+nsubj(felt-48, he-47)
+advcl(resign-39, felt-48)
+nsubj(fulfill-52, he-49)
+aux(fulfill-52, could-50)
+neg(fulfill-52, not-51)
+ccomp(felt-48, fulfill-52)
+poss(functions-55, his-53)
+amod(functions-55, papal-54)
+dobj(fulfill-52, functions-55)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN pope))
+      (, ,)
+      (SBAR
+        (SBAR
+          (WHNP (WP$ whose) (NN speech))
+          (S
+            (VP (VBZ is)
+              (VP (VBN slurred)))))
+        (CC and)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ shakes)
+              (ADVP (RB badly))
+              (PP (RB because) (IN of)
+                (NP (DT a) (JJ neurological) (NN disorder)))))))
+      (, ,))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ nevertheless))
+        (SBAR
+          (S
+            (VP (VBD marshaled)
+              (NP (PRP$ his) (NN strength)
+                (S
+                  (VP (TO to)
+                    (VP (VB preside)
+                      (PP (IN over)
+                        (NP
+                          (NP
+                            (NP (DT this) (NN year) (POS 's))
+                            (NN Jubilee))
+                          (, ,)
+                          (NP
+                            (NP (DT a) (NNP Holy) (NN Year))
+                            (PP (IN of)
+                              (NP (DT the) (NN church)))))))))))))))
+    (. .)))
+
+det(pope-2, The-1)
+poss(speech-5, pope-2)
+nsubj(has-18, pope-2)
+nsubjpass(slurred-7, speech-5)
+auxpass(slurred-7, is-6)
+rcmod(pope-2, slurred-7)
+nsubj(shakes-10, who-9)
+rcmod(pope-2, shakes-10)
+conj_and(slurred-7, shakes-10)
+advmod(shakes-10, badly-11)
+det(disorder-16, a-14)
+amod(disorder-16, neurological-15)
+prep_because_of(shakes-10, disorder-16)
+root(ROOT-0, has-18)
+dobj(has-18, nevertheless-19)
+rcmod(nevertheless-19, marshaled-20)
+poss(strength-22, his-21)
+dobj(marshaled-20, strength-22)
+aux(preside-24, to-23)
+vmod(strength-22, preside-24)
+det(year-27, this-26)
+poss(Jubilee-29, year-27)
+prep_over(preside-24, Jubilee-29)
+det(Year-33, a-31)
+nn(Year-33, Holy-32)
+appos(Jubilee-29, Year-33)
+det(church-36, the-35)
+prep_of(Year-33, church-36)
+
+(ROOT
+  (S
+    (VP
+      (PP (IN Once)
+        (NP
+          (NP (DT the) (NNP Holy) (NNP Year) (NNS ends))
+          (PP (IN on)
+            (NP (NNP Jan))))))
+    (. .)))
+
+root(ROOT-0, Once-1)
+det(ends-5, the-2)
+nn(ends-5, Holy-3)
+nn(ends-5, Year-4)
+pobj(Once-1, ends-5)
+prep_on(ends-5, Jan-7)
+
+(ROOT
+  (NP
+    (NP
+      (NP (CD 6))
+      (, ,)
+      (ADVP (RB however)))
+    (, ,)
+    (NP
+      (NP (JJ many) (NN wonder))
+      (SBAR (IN whether)
+        (S
+          (NP (PRP he))
+          (VP (MD might)
+            (VP (VB retire))))))
+    (. .)))
+
+root(ROOT-0, 6-1)
+advmod(6-1, however-3)
+amod(wonder-6, many-5)
+appos(6-1, wonder-6)
+mark(retire-10, whether-7)
+nsubj(retire-10, he-8)
+aux(retire-10, might-9)
+dep(wonder-6, retire-10)
+
+(ROOT
+  (S
+    (NP (DT The) (NN pope))
+    (VP
+      (VP (VBZ has) (RB not)
+        (VP (VBN addressed)
+          (NP (DT the) (NN issue))
+          (ADVP (RB directly))))
+      (, ,)
+      (CC but)
+      (VP
+        (NP (PRP$ his) (JJ few) (NNS comments))
+        (PP (IN on)
+          (NP (DT the) (JJ subject) (NN suggest)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP he))
+            (VP (VBZ is)
+              (VP (VBN determined)
+                (S
+                  (VP (TO to)
+                    (VP (VB serve)
+                      (PP (IN out)
+                        (NP (PRP$ his) (JJ full) (NN term))))))))))))
+    (. .)))
+
+det(pope-2, The-1)
+nsubj(addressed-5, pope-2)
+aux(addressed-5, has-3)
+neg(addressed-5, not-4)
+root(ROOT-0, addressed-5)
+det(issue-7, the-6)
+dobj(addressed-5, issue-7)
+advmod(addressed-5, directly-8)
+poss(comments-13, his-11)
+amod(comments-13, few-12)
+conj_but(addressed-5, comments-13)
+det(suggest-17, the-15)
+amod(suggest-17, subject-16)
+prep_on(comments-13, suggest-17)
+mark(determined-21, that-18)
+nsubjpass(determined-21, he-19)
+xsubj(serve-23, he-19)
+auxpass(determined-21, is-20)
+ccomp(comments-13, determined-21)
+aux(serve-23, to-22)
+xcomp(determined-21, serve-23)
+poss(term-27, his-25)
+amod(term-27, full-26)
+prep_out(serve-23, term-27)
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (PRP$ his) (JJ 75th) (NN birthday)))
+    (PRN (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBD told)
+          (NP
+            (NP (DT an) (NN audience))
+            (PP (IN of)
+              (NP (NNS pilgrims))))
+          (PP (IN at)
+            (NP (NNP St.) (NNP Peter's)))
+          (, ,)
+          (S
+            (VP (VBG referring)
+              (PP (TO to)
+                (NP (NNP God)))))))
+      (, ,))
+    (NP (NNP ``I))
+    (VP (VBD leave)
+      (NP (PRP it))
+      (PP (TO to)
+        (NP (PRP him)))
+      (S
+        (VP (TO to)
+          (VP (VB decide)
+            (SBAR
+              (WHADVP (WRB when)
+                (CC and)
+                (WRB how))
+              (S
+                (NP (PRP he))
+                (VP (VBZ wants)
+                  (S
+                    (VP (TO to)
+                      (VP (VB relieve)
+                        (NP (PRP me))
+                        (PP (IN of)
+                          (NP (DT this) (NN service)))))))))))))
+    (. .'')))
+
+poss(birthday-4, his-2)
+amod(birthday-4, 75th-3)
+prep_on(leave-21, birthday-4)
+nsubj(told-7, he-6)
+parataxis(leave-21, told-7)
+det(audience-9, an-8)
+dobj(told-7, audience-9)
+prep_of(audience-9, pilgrims-11)
+nn(Peter's-14, St.-13)
+prep_at(told-7, Peter's-14)
+vmod(told-7, referring-16)
+prep_to(referring-16, God-18)
+nsubj(leave-21, ``I-20)
+root(ROOT-0, leave-21)
+dobj(leave-21, it-22)
+prep_to(leave-21, him-24)
+aux(decide-26, to-25)
+vmod(leave-21, decide-26)
+advmod(wants-31, when-27)
+cc(when-27, and-28)
+dep(when-27, how-29)
+nsubj(wants-31, he-30)
+xsubj(relieve-33, he-30)
+advcl(decide-26, wants-31)
+ccomp(decide-26, wants-31)
+aux(relieve-33, to-32)
+xcomp(wants-31, relieve-33)
+dobj(relieve-33, me-34)
+det(service-37, this-36)
+prep_of(relieve-33, service-37)
+punct(leave-21, .''-38)
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN pope))
+      (VP (VBZ keeps)
+        (PRT (RP up))
+        (NP (DT a) (JJ full) (NN schedule))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN Vatican))
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBZ wants)
+              (S
+                (VP (TO to)
+                  (VP (VB make)
+                    (NP (JJ other) (JJ important) (NNS trips))
+                    (PP (IN in)
+                      (NP (CD 2001)))))))))))
+    (. .)))
+
+det(pope-2, The-1)
+nsubj(keeps-3, pope-2)
+root(ROOT-0, keeps-3)
+prt(keeps-3, up-4)
+det(schedule-7, a-5)
+amod(schedule-7, full-6)
+dobj(keeps-3, schedule-7)
+det(Vatican-11, the-10)
+nsubj(says-12, Vatican-11)
+conj_and(keeps-3, says-12)
+nsubj(wants-14, he-13)
+xsubj(make-16, he-13)
+ccomp(says-12, wants-14)
+aux(make-16, to-15)
+xcomp(wants-14, make-16)
+amod(trips-19, other-17)
+amod(trips-19, important-18)
+dobj(make-16, trips-19)
+prep_in(make-16, 2001-21)
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (JJ detailed) (NN procedure))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (JJ papal) (NN resignation))
+            (, ,)
+            (CC and)
+            (NP (JJ little) (NN precedent))))))
+    (. .)))
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+neg(procedure-5, no-3)
+amod(procedure-5, detailed-4)
+nsubj(is-2, procedure-5)
+det(resignation-9, a-7)
+amod(resignation-9, papal-8)
+prep_for(procedure-5, resignation-9)
+amod(precedent-13, little-12)
+prep_for(procedure-5, precedent-13)
+conj_and(resignation-9, precedent-13)
+
+(ROOT
+  (S
+    (NP (DT The) (JJ last) (NN pope)
+      (S
+        (VP (TO to)
+          (VP (VB resign)
+            (ADVP (RB voluntarily))))))
+    (VP (VBD was)
+      (NP
+        (NP (JJ Celestine) (NN V))
+        (PP (IN in)
+          (NP (CD 1294)))))
+    (. .)))
+
+det(pope-3, The-1)
+amod(pope-3, last-2)
+nsubj(V-9, pope-3)
+aux(resign-5, to-4)
+vmod(pope-3, resign-5)
+advmod(resign-5, voluntarily-6)
+cop(V-9, was-7)
+amod(V-9, Celestine-8)
+root(ROOT-0, V-9)
+prep_in(V-9, 1294-11)
+
+(ROOT
+  (S (CC But)
+    (NP (NN canon) (NN law))
+    (VP (VBZ does)
+      (VP (VB allow)
+        (NP (DT a) (NN pope)
+          (S
+            (VP (TO to)
+              (VP (VB resign) (, ,)
+                (S
+                  (VP (VBG saying)
+                    (SBAR
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ is)
+                          (ADJP (JJ valid)
+                            (PP (IN as)
+                              (ADJP (JJ long))))
+                          (SBAR (IN as)
+                            (S
+                              (NP (DT the) (NN pope))
+                              (VP (VBZ does)
+                                (NP (PRP it))
+                                (ADVP (RB freely))))))))))))))))
+    (. .)))
+
+cc(allow-5, But-1)
+nn(law-3, canon-2)
+nsubj(allow-5, law-3)
+aux(allow-5, does-4)
+root(ROOT-0, allow-5)
+det(pope-7, a-6)
+dobj(allow-5, pope-7)
+aux(resign-9, to-8)
+vmod(pope-7, resign-9)
+xcomp(resign-9, saying-11)
+nsubj(valid-14, it-12)
+cop(valid-14, is-13)
+ccomp(saying-11, valid-14)
+prep_as(valid-14, long-16)
+mark(does-20, as-17)
+det(pope-19, the-18)
+nsubj(does-20, pope-19)
+advcl(valid-14, does-20)
+dobj(does-20, it-21)
+advmod(does-20, freely-22)
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (DT no) (NN explicit) (NNS instructions))
+        (PP (IN on)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (DT the) (NNP Vatican))
+              (VP
+                (VP (MD should)
+                  (S
+                    (NP (NN function))
+                    (SBAR (IN if)
+                      (S
+                        (NP (DT a) (NN pope))
+                        (VP
+                          (VP (VBD had)
+                            (NP (DT a) (JJ stroke)))
+                          (CC or)
+                          (VP (VBD went)
+                            (PP (IN into)
+                              (NP (DT a) (NN coma)))))))))
+                (CC and)
+                (VP (MD could) (RB not)
+                  (VP (VB express)
+                    (NP (PRP$ his) (NNS wishes))))))))))
+    (. .)))
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+neg(instructions-5, no-3)
+nn(instructions-5, explicit-4)
+nsubj(are-2, instructions-5)
+advmod(should-10, how-7)
+det(Vatican-9, the-8)
+nsubj(should-10, Vatican-9)
+nsubj(express-26, Vatican-9)
+prepc_on(instructions-5, should-10)
+dep(had-15, function-11)
+mark(had-15, if-12)
+det(pope-14, a-13)
+nsubj(had-15, pope-14)
+nsubj(went-19, pope-14)
+dep(should-10, had-15)
+det(stroke-17, a-16)
+dobj(had-15, stroke-17)
+dep(should-10, went-19)
+conj_or(had-15, went-19)
+det(coma-22, a-21)
+prep_into(went-19, coma-22)
+aux(express-26, could-24)
+neg(express-26, not-25)
+prepc_on(instructions-5, express-26)
+conj_and(should-10, express-26)
+poss(wishes-28, his-27)
+dobj(express-26, wishes-28)
+
+(ROOT
+  (NP
+    (NP (DT The) (NNP Rev.) (NNP Thomas) (NNP J.) (NNP Reese))
+    (, ,)
+    (NP
+      (NP (DT an) (JJ American) (NN Jesuit))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP
+            (VP (VBD wrote)
+              (NP
+                (NP (DT a) (NN book))
+                (PP (IN on)
+                  (NP (NNP Vatican) (NN procedure)))
+                (, ,)
+                (PP (IN ``Inside)
+                  (NP
+                    (NP (DT the) (NN Vatican))
+                    (: :)
+                    (NP
+                      (NP (DT The) (NNPS Politics))
+                      (CC and)
+                      (NP
+                        (NP (NNP Organization))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (NNP Catholic) (NNP Church) (NNP ,''))
+                            (VP (VBD said))
+                            (, ,) (`` ``The)
+                            (S
+                              (NP (JJ real) (NN problem))
+                              (VP (VBZ is)
+                                (SBAR (IN if)
+                                  (S
+                                    (NP (DT the) (NN pope))
+                                    (VP (MD can)
+                                      (VP
+                                        (ADVP (RB no) (JJR longer))
+                                        (NP (NN govern))))))))))))))))
+            (, ,)
+            (CC and)
+            (VP (VBZ is)
+              (ADJP (JJ incapable)
+                (PP (IN of)
+                  (S
+                    (VP (VBG resigning))))))))))
+    (. .'')))
+
+det(Reese-5, The-1)
+nn(Reese-5, Rev.-2)
+nn(Reese-5, Thomas-3)
+nn(Reese-5, J.-4)
+root(ROOT-0, Reese-5)
+det(Jesuit-9, an-7)
+amod(Jesuit-9, American-8)
+appos(Reese-5, Jesuit-9)
+nsubj(wrote-11, Jesuit-9)
+nsubj(incapable-47, Jesuit-9)
+rcmod(Jesuit-9, wrote-11)
+det(book-13, a-12)
+dobj(wrote-11, book-13)
+nn(procedure-16, Vatican-15)
+prep_on(book-13, procedure-16)
+det(Vatican-20, the-19)
+prep_``inside(book-13, Vatican-20)
+det(Politics-23, The-22)
+dep(Vatican-20, Politics-23)
+dep(Vatican-20, Organization-25)
+conj_and(Politics-23, Organization-25)
+det(,''-30, the-27)
+nn(,''-30, Catholic-28)
+nn(,''-30, Church-29)
+prep_of(Organization-25, ,''-30)
+vmod(,''-30, said-31)
+punct(,''-30, ``The-33)
+amod(problem-35, real-34)
+nsubj(is-36, problem-35)
+dep(,''-30, is-36)
+mark(govern-43, if-37)
+det(pope-39, the-38)
+nsubj(govern-43, pope-39)
+aux(govern-43, can-40)
+neg(longer-42, no-41)
+advmod(govern-43, longer-42)
+advcl(is-36, govern-43)
+cop(incapable-47, is-46)
+rcmod(Jesuit-9, incapable-47)
+conj_and(wrote-11, incapable-47)
+prepc_of(incapable-47, resigning-49)
+punct(Reese-5, .''-50)
+
+(ROOT
+  (S
+    (NP (DT Some) (JJ reform-minded) (NNS Catholics))
+    (VP (VBP believe)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (MD would)
+            (VP (VB be)
+              (NP
+                (NP (JJR healthier))
+                (PP (IN for)
+                  (NP (DT the) (NN church))))
+              (SBAR (IN if)
+                (S
+                  (NP (NNS popes))
+                  (VP (VBD resigned)
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (PRP$ their) (NN health))
+                        (VP (VBD failed))))))))))))
+    (. .)))
+
+det(Catholics-3, Some-1)
+amod(Catholics-3, reform-minded-2)
+nsubj(believe-4, Catholics-3)
+root(ROOT-0, believe-4)
+mark(healthier-9, that-5)
+nsubj(healthier-9, it-6)
+aux(healthier-9, would-7)
+cop(healthier-9, be-8)
+ccomp(believe-4, healthier-9)
+det(church-12, the-11)
+prep_for(healthier-9, church-12)
+mark(resigned-15, if-13)
+nsubj(resigned-15, popes-14)
+advcl(healthier-9, resigned-15)
+advmod(failed-19, when-16)
+poss(health-18, their-17)
+nsubj(failed-19, health-18)
+advcl(resigned-15, failed-19)
+
+(ROOT
+  (S
+    (NP (NNS Traditionalists))
+    (VP (VBP reject)
+      (NP
+        (NP (DT all) (NN talk))
+        (PP (IN of)
+          (NP (JJ papal) (NNS resignations)))
+        (, ,)
+        (RRC
+          (ADJP (JJ fearful))
+          (SBAR (IN that)
+            (S
+              (NP (JJ such) (DT a) (NN precedent))
+              (VP (MD would)
+                (VP (VB undermine)
+                  (NP
+                    (NP (DT the) (JJ special) (NN nature))
+                    (PP (IN of)
+                      (NP
+                        (NP (JJ papal) (NN authority))
+                        (, ,)
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (NP (NNPS Catholics))
+                            (VP (VBP believe)
+                              (NP (NNS comes))
+                              (PP
+                                (ADVP (RB directly))
+                                (IN from)
+                                (NP (NNP God))))))))))))))))
+    (. .)))
+
+nsubj(reject-2, Traditionalists-1)
+root(ROOT-0, reject-2)
+det(talk-4, all-3)
+dobj(reject-2, talk-4)
+mark(undermine-15, talk-4)
+amod(resignations-7, papal-6)
+prep_of(talk-4, resignations-7)
+rcmod(talk-4, fearful-9)
+amod(precedent-13, such-11)
+det(precedent-13, a-12)
+nsubj(undermine-15, precedent-13)
+aux(undermine-15, would-14)
+dep(fearful-9, undermine-15)
+det(nature-18, the-16)
+amod(nature-18, special-17)
+dobj(undermine-15, nature-18)
+amod(authority-21, papal-20)
+prep_of(nature-18, authority-21)
+dobj(believe-25, authority-21)
+nsubj(believe-25, Catholics-24)
+rcmod(authority-21, believe-25)
+dobj(believe-25, comes-26)
+advmod(believe-25, directly-27)
+prep_from(believe-25, God-29)
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-10-21-00) (CD 1123EDT))))
+
+num(1123EDT-2, NYT-10-21-00-1)
+root(ROOT-0, 1123EDT-2)
+

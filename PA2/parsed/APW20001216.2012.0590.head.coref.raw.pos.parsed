@@ -1,0 +1,448 @@
+(ROOT
+  (NP
+    (NP (CD APW20001216.2012.0590))
+    (NP (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-12-16) (CD 21:08:48))))
+
+root(ROOT-0, APW20001216.2012.0590-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001216.2012.0590-1, STORY-3)
+num(21:08:48-5, 2000-12-16-4)
+dep(APW20001216.2012.0590-1, 21:08:48-5)
+
+(ROOT
+  (ADVP (RB Alabama-Tornadoes)))
+
+root(ROOT-0, Alabama-Tornadoes-1)
+
+(ROOT
+  (SINV
+    (FRAG
+      (NP (NNP Alabama)))
+    (VP (VBZ Tornadoes))
+    (NP (NNP Wreak) (NNP Havoc))))
+
+dep(Tornadoes-2, Alabama-1)
+root(ROOT-0, Tornadoes-2)
+nn(Havoc-4, Wreak-3)
+nsubj(Tornadoes-2, Havoc-4)
+
+(ROOT
+  (NP
+    (NP (NNP TUSCALOOSA))
+    (, ,)
+    (NP (NNP Ala))
+    (. .)))
+
+root(ROOT-0, TUSCALOOSA-1)
+appos(TUSCALOOSA-1, Ala-3)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP (AP) (NNP )) (, _))
+      (VP (VBZ Tornadoes)
+        (VP (VBN destroyed)
+          (NP
+            (NP (NNS homes))
+            (CC and)
+            (NP (JJ overturned) (NNS cars)))
+          (PP (IN in)
+            (NP
+              (NP (JJ several) (NNS areas))
+              (PP (IN of)
+                (NP (NNP Alabama)))))
+          (PP (IN on)
+            (NP (NNP Saturday))))))
+    (CC and)
+    (S
+      (NP
+        (QP (JJR more) (IN than) (CD two))
+        (JJ dozen) (NNS people))
+      (VP (VBD were)
+        (VP (VBN reported)
+          (NP (JJ injured)))))
+    (. .)))
+
+nn()-2, (AP-1)
+nsubj(Tornadoes-4, )-2)
+punct()-2, _-3)
+root(ROOT-0, Tornadoes-4)
+dep(Tornadoes-4, destroyed-5)
+dobj(destroyed-5, homes-6)
+amod(cars-9, overturned-8)
+dobj(destroyed-5, cars-9)
+conj_and(homes-6, cars-9)
+amod(areas-12, several-11)
+prep_in(destroyed-5, areas-12)
+prep_of(areas-12, Alabama-14)
+prep_on(destroyed-5, Saturday-16)
+mwe(than-19, more-18)
+quantmod(two-20, than-19)
+num(people-22, two-20)
+amod(people-22, dozen-21)
+nsubjpass(reported-24, people-22)
+auxpass(reported-24, were-23)
+conj_and(Tornadoes-4, reported-24)
+dobj(reported-24, injured-25)
+
+(ROOT
+  (SINV
+    (S
+      (ADVP (IN At) (JJS least))
+      (NP (CD one) (NN person))
+      (VP (VBD was)
+        (VP (VBN killed)
+          (PP (IN in)
+            (NP (NNP Tuscaloosa))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP Debbie) (NNP Watson))
+      (, ,)
+      (NP
+        (NP (NN spokeswoman))
+        (PP (IN for)
+          (NP (DT the) (NNP Tuscaloosa) (NNP County) (NNP Emergency) (NNP Management) (NNP Agency)))))
+    (. .)))
+
+advmod(killed-6, At-1)
+pobj(At-1, least-2)
+num(person-4, one-3)
+nsubjpass(killed-6, person-4)
+auxpass(killed-6, was-5)
+ccomp(said-10, killed-6)
+prep_in(killed-6, Tuscaloosa-8)
+root(ROOT-0, said-10)
+nn(Watson-12, Debbie-11)
+nsubj(said-10, Watson-12)
+appos(Watson-12, spokeswoman-14)
+det(Agency-21, the-16)
+nn(Agency-21, Tuscaloosa-17)
+nn(Agency-21, County-18)
+nn(Agency-21, Emergency-19)
+nn(Agency-21, Management-20)
+prep_for(spokeswoman-14, Agency-21)
+
+(ROOT
+  (S
+    (NP (NNS Twisters))
+    (VP
+      (VP (VB struck)
+        (ADVP (RB just))
+        (PP (IN before)
+          (NP
+            (NP (NN noon))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN state) (POS 's))
+                (JJ rural) (JJ southeastern) (NN corner))))))
+      (, ,) (RB then)
+      (VP (VB hit)
+        (NP
+          (NP (NNP Tuscaloosa))
+          (CC and)
+          (NP
+            (NP (DT the) (JJ northern) (NN part))
+            (PP (IN of)
+              (NP (DT the) (NN state)))))
+        (PP (IN as)
+          (NP
+            (NP (NNS lines))
+            (PP (IN of)
+              (NP (NNS thunderstorms) (NN swept)))))
+        (PP (IN across)
+          (NP (DT the) (NNP South)))))
+    (. .)))
+
+nsubj(struck-2, Twisters-1)
+root(ROOT-0, struck-2)
+advmod(struck-2, just-3)
+prep_before(struck-2, noon-5)
+det(state-8, the-7)
+poss(corner-12, state-8)
+amod(corner-12, rural-10)
+amod(corner-12, southeastern-11)
+prep_in(noon-5, corner-12)
+advmod(hit-15, then-14)
+dep(struck-2, hit-15)
+dobj(hit-15, Tuscaloosa-16)
+det(part-20, the-18)
+amod(part-20, northern-19)
+dobj(hit-15, part-20)
+conj_and(Tuscaloosa-16, part-20)
+det(state-23, the-22)
+prep_of(part-20, state-23)
+prep_as(hit-15, lines-25)
+nn(swept-28, thunderstorms-27)
+prep_of(lines-25, swept-28)
+det(South-31, the-30)
+prep_across(hit-15, South-31)
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Tuscaloosa) (NN twister))
+      (VP (VB struck)
+        (NP (DT a) (NN subdivision))))
+    (, ,)
+    (NP (NNP Watson))
+    (VP (VBD said))
+    (. .)))
+
+det(twister-3, The-1)
+nn(twister-3, Tuscaloosa-2)
+nsubj(struck-4, twister-3)
+ccomp(said-9, struck-4)
+det(subdivision-6, a-5)
+dobj(struck-4, subdivision-6)
+nsubj(said-9, Watson-8)
+root(ROOT-0, said-9)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP National) (NNP Weather) (NNP Service))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (RB there))
+          (VP (VBD was)
+            (NP (JJ extensive) (NN damage))))))
+    (. .)))
+
+det(Service-4, The-1)
+nn(Service-4, National-2)
+nn(Service-4, Weather-3)
+nsubj(said-5, Service-4)
+root(ROOT-0, said-5)
+nsubj(damage-9, there-6)
+cop(damage-9, was-7)
+amod(damage-9, extensive-8)
+ccomp(said-5, damage-9)
+
+(ROOT
+  (S
+    (NP (JJ Twenty-one) (NNS people))
+    (VP (VBD were)
+      (ADJP (JJ injured))
+      (, ,)
+      (PP (VBG according)
+        (S
+          (VP (TO to)
+            (VP (VB broadcast)
+              (NP (NNS reports)))))))
+    (. .)))
+
+amod(people-2, Twenty-one-1)
+nsubj(injured-4, people-2)
+cop(injured-4, were-3)
+root(ROOT-0, injured-4)
+aux(broadcast-8, to-7)
+prepc_according(injured-4, broadcast-8)
+dobj(broadcast-8, reports-9)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Another) (NN tornado) (NN hit) (NNP Geneva))
+      (, ,)
+      (PP (IN near)
+        (NP (DT the) (NNP Alabama) (NNP -Florida) (NN line)))
+      (, ,))
+    (VP (VBD said)
+      (NP (NNP Mayor) (NNP Warren) (NNP Beck)))
+    (. .)))
+
+nn(Geneva-4, Another-1)
+nn(Geneva-4, tornado-2)
+nn(Geneva-4, hit-3)
+nsubj(said-12, Geneva-4)
+det(line-10, the-7)
+nn(line-10, Alabama-8)
+nn(line-10, -Florida-9)
+prep_near(Geneva-4, line-10)
+root(ROOT-0, said-12)
+nn(Beck-15, Mayor-13)
+nn(Beck-15, Warren-14)
+dobj(said-12, Beck-15)
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (NNS vehicles))
+            (VP (VBD were)
+              (ADJP (JJ overturned)))))))
+    (CC and)
+    (S
+      (NP (NNS homes))
+      (VP (VBD were)
+        (VP (VBN destroyed))))
+    (. .)))
+
+nsubj(said-2, He-1)
+root(ROOT-0, said-2)
+nsubj(overturned-5, vehicles-3)
+cop(overturned-5, were-4)
+ccomp(said-2, overturned-5)
+nsubjpass(destroyed-9, homes-7)
+auxpass(destroyed-9, were-8)
+conj_and(said-2, destroyed-9)
+
+(ROOT
+  (S
+    (NP (NNP Geneva) (NNP County) (NNP Emergency) (NNP Management) (NNP Agency) (NN director) (NNP Margaret) (NNP Mixon))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ eight) (NNS people))
+          (VP (VBD were)
+            (NP
+              (NP (JJ injured))
+              (, ,)
+              (NP
+                (NP (CD two))
+                (PP (IN of)
+                  (NP (PRP them)))))
+            (ADVP (RB severely))))))
+    (. .)))
+
+nn(Mixon-8, Geneva-1)
+nn(Mixon-8, County-2)
+nn(Mixon-8, Emergency-3)
+nn(Mixon-8, Management-4)
+nn(Mixon-8, Agency-5)
+nn(Mixon-8, director-6)
+nn(Mixon-8, Margaret-7)
+nsubj(said-9, Mixon-8)
+root(ROOT-0, said-9)
+amod(people-11, eight-10)
+nsubj(injured-13, people-11)
+cop(injured-13, were-12)
+ccomp(said-9, injured-13)
+appos(injured-13, two-15)
+prep_of(two-15, them-17)
+advmod(injured-13, severely-18)
+
+(ROOT
+  (S
+    (S
+      (NP (DT That) (NN tornado))
+      (ADVP (RB also))
+      (VP (VBD damaged)
+        (PP (IN about)
+          (NP (DT a) (JJ half-dozen) (NNS homes)))
+        (PP (IN in)
+          (NP (NNP Dale) (NNP County)))
+        (, ,)
+        (S
+          (VP
+            (VP (VBG destroying)
+              (NP (DT a) (NN peanut) (NN mill))
+              (PP (IN at)
+                (NP (NNP Abbeville))))
+            (CC and)
+            (VP (VBG damaging)
+              (NP (DT a) (JJ textile) (NN mill)))))))
+    (, ,)
+    (NP (NNS authorities))
+    (VP (VBD said))
+    (. .)))
+
+det(tornado-2, That-1)
+nsubj(damaged-4, tornado-2)
+advmod(damaged-4, also-3)
+ccomp(said-26, damaged-4)
+det(homes-8, a-6)
+amod(homes-8, half-dozen-7)
+prep_about(damaged-4, homes-8)
+nn(County-11, Dale-10)
+prep_in(damaged-4, County-11)
+ccomp(damaged-4, destroying-13)
+det(mill-16, a-14)
+nn(mill-16, peanut-15)
+dobj(destroying-13, mill-16)
+prep_at(destroying-13, Abbeville-18)
+ccomp(damaged-4, damaging-20)
+conj_and(destroying-13, damaging-20)
+det(mill-23, a-21)
+amod(mill-23, textile-22)
+dobj(damaging-20, mill-23)
+nsubj(said-26, authorities-25)
+root(ROOT-0, said-26)
+
+(ROOT
+  (S
+    (NP (NNP Dale) (NNP County) (NNP Commissioner) (NNP Buddy) (NNP Stapleton))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD counted)
+            (SBAR (IN about)
+              (S
+                (NP (DT a) (JJ half-dozen) (NNS homes))
+                (VP (VBP hit)
+                  (PP (IN near)
+                    (NP (NNP Newton))))))))))
+    (. .)))
+
+nn(Stapleton-5, Dale-1)
+nn(Stapleton-5, County-2)
+nn(Stapleton-5, Commissioner-3)
+nn(Stapleton-5, Buddy-4)
+nsubj(said-6, Stapleton-5)
+root(ROOT-0, said-6)
+nsubj(counted-8, he-7)
+ccomp(said-6, counted-8)
+mark(hit-13, about-9)
+det(homes-12, a-10)
+amod(homes-12, half-dozen-11)
+nsubj(hit-13, homes-12)
+advcl(counted-8, hit-13)
+prep_near(hit-13, Newton-15)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ northern) (NNP Alabama)))
+    (, ,)
+    (S
+      (NP
+        (ADJP (IN about) (JJ eight))
+        (NNS homes))
+      (VP (VBD were)
+        (VP (VBN reported)
+          (S
+            (VP (VBN destroyed))))))
+    (CC and)
+    (S
+      (NP (NNS trees)
+        (CC and)
+        (NN power) (NNS lines))
+      (VP (VBD were)
+        (VP (VBN toppled)
+          (PP (IN in)
+            (NP (NNP Limestone) (NNP County))))))
+    (. .)))
+
+amod(Alabama-3, northern-2)
+prep_in(reported-9, Alabama-3)
+dep(eight-6, about-5)
+amod(homes-7, eight-6)
+nsubjpass(reported-9, homes-7)
+auxpass(reported-9, were-8)
+root(ROOT-0, reported-9)
+dep(reported-9, destroyed-10)
+nsubjpass(toppled-17, trees-12)
+nn(lines-15, power-14)
+conj_and(trees-12, lines-15)
+nsubjpass(toppled-17, lines-15)
+auxpass(toppled-17, were-16)
+conj_and(reported-9, toppled-17)
+nn(County-20, Limestone-19)
+prep_in(toppled-17, County-20)
+
