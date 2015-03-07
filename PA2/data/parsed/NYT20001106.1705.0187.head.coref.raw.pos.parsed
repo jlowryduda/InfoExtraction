@@ -83,7 +83,7 @@ appos(CIRCLE-3, WASHINGTON-11)
                 (VP (VBN sent)
                   (PP (TO to)
                     (NP (NNP NYT) (NNP photo) (NNS clients))))))))))
-    (. .)))
+    (. .))))
 
 root(ROOT-0, (EDS-1)
 det(version-5, This-3)
@@ -139,7 +139,7 @@ prep_to(sent-25, clients-29)
                 (NP
                   (NP (CD c.2000))
                   (NP (NNP N.Y)))))))))
-    (. .)))
+    (. .))
 
 nsubj(purchase-3, Nonsubscribers-1)
 aux(purchase-3, can-2)
