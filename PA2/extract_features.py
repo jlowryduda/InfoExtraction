@@ -28,6 +28,61 @@ def pos_match(line, sents):
     else:
         return "pos_match=0"
 
+def is_singular_prp(word, tag):
+    """Check if the word is a singular personal pronoun"""
+    
+    # list of singular PRP and PRP$
+    singular_prp =\
+        set(['it', 'its', 'he', 'his', 'him', 'her', 'hers',
+             'I', 'my', 'mine', 'me'])
+    return (tag == ('PRP' or 'PRP$') and (word in singular_prp))
+
+def is_plural_prp(word, tag):
+    """Check if word is a plural personal pronoun"""
+    
+    # list of plural PRP and PRP$
+    plural_prp =\
+        set(['they', 'theirs', 'their', 'them', 'we', 'our', 'ours', 'us'])
+
+    return (tag == ('PRP' or 'PRP$') and (word in plural_prp))
+
+def number_match(line, sents):
+    """Check if both mentions have the same number. Assume cardinality of 1 
+    for both sets of tags"""
+    span1 = sents[int(line[1])][int(line[2]):int(line[3])]
+    span2 = sents[int(line[6])][int(line[7]):int(line[8])]
+    tag1 = iter(set([item[1] for item in span1])).next()
+    tag2 = iter(set([item[1] for item in span2])).next()
+
+    
+    # both singular 
+    both_nn = ((tag1 == 'NN') and (tag2 == 'NN'))
+    both_nnp = ((tag1 == 'NNP') and (tag2 == 'NNP'))
+    nn_and_nnp = ((tag1 == 'NN') and (tag2 == 'NNP'))
+    nnp_and_nn = ((tag1 == 'NNP') and (tag2 == 'NN'))
+    sg_prp_match =\
+        ((tag1 == ('NN' or 'NNP') and is_singular_prp(span2[0][0], tag2)) or\
+        is_singular_prp(span1[0][0], tag1) and tag2 == ('NN' or 'NNP')) 
+
+    both_singular = (both_nn or both_nnp or nn_and_nnp or nnp_and_nn or sg_prp_match)
+
+    # both plural 
+    both_nns = ((tag1 == 'NNS') and (tag2 == 'NNS'))
+    both_nnps = ((tag1 == 'NNPS') and (tag2 == 'NNPS'))
+    nns_and_nnps = ((tag1 == 'NNS') and (tag2 == 'NNPS'))
+    nnps_and_nns = ((tag1 == 'NNPS') and (tag2 == 'NNS'))
+    
+    pl_prp_match =\
+        ((tag1 == ('NNS' or 'NNPS') and is_plural_prp(span2[0][0], tag2)) or\
+        is_plural_prp(span1[0][0], tag1) and tag2 == ('NNS' or 'NNPS')) 
+
+    both_plural = (both_nns or both_nnps or nns_and_nnps or nnps_and_nns or pl_prp_match)
+   
+    if (both_plural or both_singular): 
+        return "number_match=1"
+    else:
+        return "number_match=0"
+
 
 def gender_match(line, sents):
     """
@@ -174,6 +229,7 @@ def extract_features(lines, train=False):
                   entity_types_match(line),
                   gender_match(line, sents),
                   pos_match(line, sents),
+                  number_match(line, sents),
                   antecedent_pronoun(line),
                   anaphor_pronoun(line),
                   both_proper_names(line, sents),
