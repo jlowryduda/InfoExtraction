@@ -438,20 +438,20 @@ prep_to(go-23, consoles-26)
         (PP (IN ))
           (NP
             (NP (DT The) (NNP Gamer) (NNP PC) (CD 2) (, )))
-            (VBG Gaming) (NN sound) (NN system))))
+            (VBG Gaming) (NN sound) (NN system))
       (NP
         (NP
-          (QP (CD 3) (CD )))
+          (QP (CD 3) (CD ))
           (NX
             (NX (JJ Game) (JJ console) (NN 4))
             (PP (IN ))
-              (NP (NNP Online)))))
+              (NP (NNP Online))))
         (VP (VBG fishing)
           (S
             (VP (VB reel)
               (NP
                 (ADJP (CD 5) (NN )) (NN Voice))
-                (NN controller)))))))
+                (NN controller))))))
     (: ;)
     (NP
       (NP (NNP Chip))
@@ -632,11 +632,11 @@ root(ROOT-0, play-9)
             (NP
               (NP (NNP Organizer))
               (PP (IN with)
-                (NP (JJ built-in) (NN camera))))))
-        (NP (CD 2) (NN )))
+                (NP (JJ built-in) (NN camera)))))
+        (NP (CD 2) (NN ))
         (NP
           (NP (NNP Digital) (NN music) (NN player))
-          (NP (CD 3) (NN )))))
+          (NP (CD 3) (NN ))))
       (S
         (VP (VBG Drawing)
           (NP
@@ -651,14 +651,14 @@ root(ROOT-0, play-9)
                 (VP (VBP see)
                   (S
                     (NP (CD 6) (NN )))
-                    (ADJP (VBG Learning))))))))
+                    (ADJP (VBG Learning)))))
         (NP
           (NP (NNS blocks))
-          (NP (CD 7,8) (NN ))))))
+          (NP (CD 7,8) (NN )))))
     (NP (NNP Educational) (NNS toys))
     (VP (VBP (Tony)
-      (NP (NNP Cenicola) (NNP New) (NNP York) (NNP Times)))
-    (. ))))
+      (NP (NNP Cenicola) (NNP New) (NNP York) (NNP Times)))))
+    (. ))
 
 dep(player-11, 1-1)
 prep_)(1-1, Organizer-3)

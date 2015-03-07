@@ -73,7 +73,7 @@ amod(POLITICS-8, 1976-2000-10)
             (NP
               (NP (JJ special) (NN arrangement))
               (ADVP (RB only)))))))
-    (. .)))
+    (. .))))
 
 root(ROOT-0, &UR-1)
 nn(Week-4, (The-3)
@@ -146,7 +146,7 @@ advmod(arrangement-26, only-27)
             (VP (VBN sent)
               (PP (TO to)
                 (NP (NNP NYT) (JJ graphic) (NNS clients))))))))
-    (. .)))
+    (. .))))
 
 amod(points-4, Asian-1)
 conj_and(Asian-1, European-3)
@@ -223,7 +223,7 @@ prep_to(sent-51, clients-55)
                 (NP
                   (NP (CD c.2000))
                   (NP (NNP N.Y)))))))))
-    (. .)))
+    (. .))
 
 nsubj(purchase-3, Nonsubscribers-1)
 aux(purchase-3, can-2)
