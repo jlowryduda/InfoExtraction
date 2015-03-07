@@ -94,6 +94,38 @@ def both_proper_names(line, sents):
     return "both_proper_names=" + str(tags1 and tags2)
 
 
+def get_paths(tree, start, end):
+    """
+    Given a tree, and the indices of the starting and ending leaves,
+    calculates the path up from the start leaf to the lowest common ancestor
+    and the path down from the lowest common ancestor to the end leaf.
+    """
+
+    # Find tree positions of start and end leaves:
+    start_pos = tree.leaf_treeposition(start)
+    end_pos = tree.leaf_treeposition(end-1)
+
+    # Find tree position of subtree rooted at lowest common ancestor:
+    for i in range(min(len(start_pos), len(end_pos))):
+        if start_pos[i] != end_pos[i]:
+            break
+    subtree_pos = start_pos[:i]
+
+    # Refer to tree positions of start and end leaves in terms of subtree:
+    revised_start = start_pos[len(subtree_pos):]
+    revised_end = end_pos[len(subtree_pos):]
+
+    # Calculate paths:
+    path_up = [tree[subtree_pos][revised_start[:i]].label()
+               for i in range(len(revised_start))]
+
+    path_down = [tree[subtree_pos][revised_end[:i]].label()
+                 for i in range(len(revised_end))]
+
+    # Resulting path_up ends with, path_down starts with, dominating NP
+    return path_up.reverse(), path_down
+
+
 def is_appositive(line, constituents):
     if line[1] == line[6]:
         tree = constituents[int(line[1])]
@@ -108,7 +140,9 @@ def is_appositive(line, constituents):
                 subtree[3].label() == ','):     # Fourth subtree is a comma
                 # We may very well be dealing with an appositive,
                 # but more exploration of subtree[2] is needed.
-                # print(subtree)
+                path_up, path_down = get_paths(tree, start, end)
+                # Here we need to perform some logical tests on the paths,
+                # and then decide whether or not to reply:
                 return "is_appositive=1"
     else:
         return "is_appositive=0"
