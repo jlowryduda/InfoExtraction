@@ -1,0 +1,42 @@
+#!/usr/bin/expect -f
+
+#Copy train.features.labeled to a remote machine
+spawn scp train.features.labeled jduda@gnomic.cs.brandeis.edu:
+expect "assword:"
+send "YOURPASSWORD\r"
+interact
+
+
+#Copy dev.features.nolabel to a remote machine
+spawn scp dev.features.nolabel jduda@gnomic.cs.brandeis.edu:
+expect "assword:"
+send "YOURPASSWORD\r"
+interact
+
+
+#Copy dev.features.labeled to a remote machine
+spawn scp dev.features.labeled jduda@gnomic.cs.brandeis.edu:
+expect "assword:"
+send "YOURPASSWORD\r"
+interact
+
+
+#Copy test.features.nolabel to a remote machine
+spawn scp test.features.nolabel jduda@gnomic.cs.brandeis.edu:
+expect "assword:"
+send "YOURPASSWORD\r"
+interact
+
+
+#Copy test.features.labeled to a remote machine
+spawn scp test.features.labeled jduda@gnomic.cs.brandeis.edu:
+expect "assword:"
+send "YOURPASSWORD\r"
+interact
+
+
+#Stay at Brandeis machine
+spawn ssh jduda@gnomic.cs.brandeis.edu
+expect "assword:"
+send "YOURPASSWORD\r"
+interact

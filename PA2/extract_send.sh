@@ -1,0 +1,2 @@
+bash batch_extract_features.sh
+expect send_files_to_remote.expect
