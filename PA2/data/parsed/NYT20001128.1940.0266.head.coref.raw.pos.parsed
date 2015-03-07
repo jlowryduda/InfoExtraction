@@ -1,0 +1,614 @@
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001128.1940.0266) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-11-28) (CD 19:49:00))))
+
+nn(STORY-3, NYT20001128.1940.0266-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(19:49:00-5, 2000-11-28-4)
+dep(STORY-3, 19:49:00-5)
+
+(ROOT
+  (NP
+    (NP (CD A3547) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NNP taf-z) (NNP u) (NNP f) (NNP BC-TIMES-NATGEO-NYT) (NNP &LR))
+      (: ;)
+      (NP
+        (QP (CD 11-28) (CD 0284))))))
+
+num(&Cx1f-2, A3547-1)
+root(ROOT-0, &Cx1f-2)
+nn(&LR-8, taf-z-4)
+nn(&LR-8, u-5)
+nn(&LR-8, f-6)
+nn(&LR-8, BC-TIMES-NATGEO-NYT-7)
+dep(&Cx1f-2, &LR-8)
+number(0284-11, 11-28-10)
+dep(&LR-8, 0284-11)
+
+(ROOT
+  (NP (NNP BC-TIMES-NATGEO-NYT)))
+
+root(ROOT-0, BC-TIMES-NATGEO-NYT-1)
+
+(ROOT
+  (NP (NNP NEW) (NNP YORK) (NNP TIMES) (NNP JOINS) (NNP WITH) (NNP NATIONAL) (NNP GEOGRAPHIC) (NNP FOR) (. SCIENCE)))
+
+nn(FOR-8, NEW-1)
+nn(FOR-8, YORK-2)
+nn(FOR-8, TIMES-3)
+nn(FOR-8, JOINS-4)
+nn(FOR-8, WITH-5)
+nn(FOR-8, NATIONAL-6)
+nn(FOR-8, GEOGRAPHIC-7)
+root(ROOT-0, FOR-8)
+punct(FOR-8, SCIENCE-9)
+
+(ROOT
+  (NP
+    (NP (NNP PROGRAMMING) (NNP &LR))
+    (: ;)
+    (NP
+      (NP (NNP &QL))
+      (: ;)
+      (NP (NNS (EDS)))
+    (: :)
+    (NP
+      (NP (DT no) (NN byline))
+      (PP (IN ))
+        (NP (NNP &QL))))
+    (: ;)
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (NP
+        (NP (CD c.2000))
+        (NP (NNP N.Y))))
+    (. .)))
+
+nn(&LR-2, PROGRAMMING-1)
+root(ROOT-0, &LR-2)
+dep(&LR-2, &QL-4)
+dep(&QL-4, (EDS-6)
+neg(byline-9, no-8)
+dep(&LR-2, byline-9)
+prep_)(byline-9, &QL-11)
+dep(&LR-2, &UR-13)
+dep(&UR-13, c.2000-15)
+appos(c.2000-15, N.Y-16)
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
+    (PRN (: ;)
+      (NP
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&LR-4, Times-1)
+nn(&LR-4, News-2)
+nn(&LR-4, Service-3)
+root(ROOT-0, &LR-4)
+dep(&LR-4, &QC-6)
+dep(&QC-6, &QL-8)
+
+(ROOT
+  (S
+    (ADVP (RB NEW))
+    (, YORK)
+    (NP
+      (NP (DT _) (NNP National) (NNP Geographic))
+      (CC and)
+      (NP
+        (NP (DT the) (NN television) (NN production) (NN unit))
+        (PP (IN of)
+          (NP (DT The) (NNP New) (NNP York) (NNP Times)))))
+    (VP (VBP have)
+      (VP (VBN agreed)
+        (S
+          (VP (TO to)
+            (VP (VB collaborate)
+              (PP (IN on)
+                (NP
+                  (NP (DT a) (JJ weekly) (NN science) (NN program))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (MD will)
+                        (VP (VB be)
+                          (VP (VBN shown)
+                            (PP (IN on)
+                              (NP
+                                (NP
+                                  (NP (NNP National) (NNP Geographic) (POS 's))
+                                  (VBG coming) (JJ cable) (NN channel))
+                                (VP (VBG beginning)
+                                  (PP (IN in)
+                                    (NP (NNP June))))))))))))))))))
+    (. .)))
+
+advmod(agreed-17, NEW-1)
+punct(agreed-17, YORK-2)
+det(Geographic-5, _-3)
+nn(Geographic-5, National-4)
+nsubj(agreed-17, Geographic-5)
+xsubj(collaborate-19, Geographic-5)
+det(unit-10, the-7)
+nn(unit-10, television-8)
+nn(unit-10, production-9)
+conj_and(Geographic-5, unit-10)
+nsubj(agreed-17, unit-10)
+xsubj(collaborate-19, unit-10)
+det(Times-15, The-12)
+nn(Times-15, New-13)
+nn(Times-15, York-14)
+prep_of(unit-10, Times-15)
+aux(agreed-17, have-16)
+root(ROOT-0, agreed-17)
+aux(collaborate-19, to-18)
+xcomp(agreed-17, collaborate-19)
+det(program-24, a-21)
+amod(program-24, weekly-22)
+nn(program-24, science-23)
+prep_on(collaborate-19, program-24)
+nsubjpass(shown-28, program-24)
+aux(shown-28, will-26)
+auxpass(shown-28, be-27)
+rcmod(program-24, shown-28)
+nn(Geographic-31, National-30)
+poss(channel-35, Geographic-31)
+amod(channel-35, coming-33)
+amod(channel-35, cable-34)
+prep_on(shown-28, channel-35)
+vmod(channel-35, beginning-36)
+prep_in(beginning-36, June-38)
+
+(ROOT
+  (S
+    (NP (DT The) (NN program))
+    (VP (MD will)
+      (VP (VB take)
+        (NP (PRP$ its) (NN title))
+        (PP (IN from)
+          (NP
+            (NP
+              (NP (DT The) (NNP Time) (NNP &UR))
+              (: ;)
+              (NP
+                (NP (NNS s) (POS '))
+                (NN &LR)))
+            (: ;) (JJ weekly)
+            (NP (NNP Science) (NNP Times) (NN section))))))
+    (. .)))
+
+det(program-2, The-1)
+nsubj(take-4, program-2)
+aux(take-4, will-3)
+root(ROOT-0, take-4)
+poss(title-6, its-5)
+dobj(take-4, title-6)
+det(&UR-10, The-8)
+nn(&UR-10, Time-9)
+prep_from(take-4, &UR-10)
+poss(&LR-14, s-12)
+dep(&UR-10, &LR-14)
+amod(&UR-10, weekly-16)
+nn(section-19, Science-17)
+nn(section-19, Times-18)
+dep(&UR-10, section-19)
+
+(ROOT
+  (S
+    (NP (DT The) (NN content))
+    (VP (MD will)
+      (VP (VB be)
+        (VP
+          (ADVP (RB jointly))
+          (VBN developed)
+          (PP (IN by)
+            (NP
+              (NP
+                (NP (DT the) (NN channel) (POS 's))
+                (NN news) (NN division))
+              (CC and)
+              (NP
+                (NP (DT the) (NN television) (NN production) (NN unit))
+                (, ,)
+                (NP (NNP New) (NNP York) (NNP Times) (NNP Television))
+                (, ,)
+                (NP
+                  (NP (DT a) (NN subsidiary))
+                  (PP (IN of)
+                    (NP (DT The) (NNP New) (NNP York) (NNP Times) (NNP News) (NNS Services))))))))))
+    (. .)))
+
+det(content-2, The-1)
+nsubjpass(developed-6, content-2)
+aux(developed-6, will-3)
+auxpass(developed-6, be-4)
+advmod(developed-6, jointly-5)
+root(ROOT-0, developed-6)
+det(channel-9, the-8)
+poss(division-12, channel-9)
+nn(division-12, news-11)
+agent(developed-6, division-12)
+det(unit-17, the-14)
+nn(unit-17, television-15)
+nn(unit-17, production-16)
+agent(developed-6, unit-17)
+conj_and(division-12, unit-17)
+nn(Television-22, New-19)
+nn(Television-22, York-20)
+nn(Television-22, Times-21)
+appos(unit-17, Television-22)
+det(subsidiary-25, a-24)
+appos(unit-17, subsidiary-25)
+det(Services-32, The-27)
+nn(Services-32, New-28)
+nn(Services-32, York-29)
+nn(Services-32, Times-30)
+nn(Services-32, News-31)
+prep_of(subsidiary-25, Services-32)
+
+(ROOT
+  (SINV
+    (PP (IN ``The)
+      (NP (NN show)))
+    (VP (MD will)
+      (VP (VB be)
+        (VP
+          (ADVP (RB largely))
+          (VBN based)
+          (PP (IN on)
+            (NP
+              (NP
+                (NP (NNS articles))
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (DT The) (NNP New) (NNP York) (NNP Times) (POS '))
+                      (NN science) (NN section))
+                    (ADVP (RB either))
+                    (VP (VBZ has)
+                      (VP (VBP run))))))
+              (CC or)
+              (NP (NNS plans)
+                (S
+                  (VP (TO to)
+                    (VP (VB run)
+                      (SBAR
+                        (S
+                          (NP (PRP ,''))
+                          (VP (VBD said)))))))))))))
+    (NP
+      (NP (NNP Richard) (NNP Flaste))
+      (, ,)
+      (NP
+        (NP (VBG managing) (NN editor))
+        (PP (IN of)
+          (NP (NNP New) (NNP York) (NNP Times) (NNP Television) (NNP Enterprises)))))
+    (. .)))
+
+prep_``the(based-6, show-2)
+aux(based-6, will-3)
+auxpass(based-6, be-4)
+advmod(based-6, largely-5)
+root(ROOT-0, based-6)
+prep_on(based-6, articles-8)
+mark(run-19, that-9)
+det(Times-13, The-10)
+nn(Times-13, New-11)
+nn(Times-13, York-12)
+poss(section-16, Times-13)
+nn(section-16, science-15)
+nsubj(run-19, section-16)
+advmod(run-19, either-17)
+aux(run-19, has-18)
+dep(articles-8, run-19)
+prep_on(based-6, plans-21)
+conj_or(articles-8, plans-21)
+aux(run-23, to-22)
+vmod(plans-21, run-23)
+nsubj(said-25, ,''-24)
+ccomp(run-23, said-25)
+nn(Flaste-27, Richard-26)
+nsubjpass(based-6, Flaste-27)
+amod(editor-30, managing-29)
+appos(Flaste-27, editor-30)
+nn(Enterprises-36, New-32)
+nn(Enterprises-36, York-33)
+nn(Enterprises-36, Times-34)
+nn(Enterprises-36, Television-35)
+prep_of(editor-30, Enterprises-36)
+
+(ROOT
+  (S
+    (NP (NNP National) (NNP Geographic) (NNP Channel))
+    (VP (VBZ is)
+      (VP (VBN scheduled)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ available)
+                (PP (IN in)
+                  (NP
+                    (QP (CD 10) (CD million))
+                    (NNS homes))))
+              (NP (DT this) (NNP January)))))))
+    (. .)))
+
+nn(Channel-3, National-1)
+nn(Channel-3, Geographic-2)
+nsubjpass(scheduled-5, Channel-3)
+xsubj(available-8, Channel-3)
+auxpass(scheduled-5, is-4)
+root(ROOT-0, scheduled-5)
+aux(available-8, to-6)
+cop(available-8, be-7)
+xcomp(scheduled-5, available-8)
+number(million-11, 10-10)
+num(homes-12, million-11)
+prep_in(available-8, homes-12)
+det(January-14, this-13)
+tmod(available-8, January-14)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP National) (NNP Geographic))
+      (VP (MD will)
+        (VP (VB own)
+          (NP
+            (NP (NN one-third))
+            (PP (IN of)
+              (NP (DT the) (NN channel)))))))
+    (CC and)
+    (S
+      (NP (DT the) (NNP Fox) (NNP Cable) (NNP Networks) (NNP Group))
+      (VP (MD will)
+        (VP (VB own)
+          (NP (DT the) (NN rest)))))
+    (. .)))
+
+nn(Geographic-2, National-1)
+nsubj(own-4, Geographic-2)
+aux(own-4, will-3)
+root(ROOT-0, own-4)
+dobj(own-4, one-third-5)
+det(channel-8, the-7)
+prep_of(one-third-5, channel-8)
+det(Group-14, the-10)
+nn(Group-14, Fox-11)
+nn(Group-14, Cable-12)
+nn(Group-14, Networks-13)
+nsubj(own-16, Group-14)
+aux(own-16, will-15)
+conj_and(own-4, own-16)
+det(rest-18, the-17)
+dobj(own-16, rest-18)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS companies))
+      (VP (VBG planning)
+        (S
+          (VP (TO to)
+            (VP (VB carry)
+              (NP (DT the) (NN channel)))))))
+    (VP (VBP include)
+      (NP
+        (NP (NNP AT&AMP;T) (NNP Broadband))
+        (, ,)
+        (NP (NNP Adelphia) (NNP Cable))
+        (CC and)
+        (NP (NNP DirecTV))))
+    (. .)))
+
+det(companies-2, The-1)
+nsubj(include-8, companies-2)
+vmod(companies-2, planning-3)
+aux(carry-5, to-4)
+xcomp(planning-3, carry-5)
+det(channel-7, the-6)
+dobj(carry-5, channel-7)
+root(ROOT-0, include-8)
+nn(Broadband-10, AT&AMP;T-9)
+dobj(include-8, Broadband-10)
+nn(Cable-13, Adelphia-12)
+dobj(include-8, Cable-13)
+conj_and(Broadband-10, Cable-13)
+dobj(include-8, DirecTV-15)
+conj_and(Broadband-10, DirecTV-15)
+
+(ROOT
+  (S
+    (NP (NNP National) (NNP Geographic))
+    (VP (VBD introduced)
+      (NP
+        (NP (DT an) (JJ international) (NN channel))
+        (PP (IN in)
+          (NP (NNP September) (CD 1997)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (PP (IN in)
+                (NP
+                  (NP (CD 115) (NNS countries))
+                  (CC and)
+                  (NP
+                    (NP (NNS reaches))
+                    (NP
+                      (QP (CD 85) (CD million))
+                      (NNS homes))))))))))
+    (. .)))
+
+nn(Geographic-2, National-1)
+nsubj(introduced-3, Geographic-2)
+root(ROOT-0, introduced-3)
+det(channel-6, an-4)
+amod(channel-6, international-5)
+dobj(introduced-3, channel-6)
+nsubj(is-11, channel-6)
+prep_in(channel-6, September-8)
+num(September-8, 1997-9)
+rcmod(channel-6, is-11)
+num(countries-14, 115-13)
+prep_in(is-11, countries-14)
+prep_in(is-11, reaches-16)
+conj_and(countries-14, reaches-16)
+number(million-18, 85-17)
+num(homes-19, million-18)
+dep(reaches-16, homes-19)
+
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (NNP U.S.) (NN channel))
+      (VP (MD will) (RB not)
+        (VP (VB be)
+          (NP
+            (NP (DT an) (NN extension))
+            (PP (IN of)
+              (NP (DT the) (JJ overseas) (NN channel)))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP Laureen) (NNP Ong))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP (DT the) (JJ American) (NN channel)))))
+    (. .)))
+
+det(channel-3, The-1)
+nn(channel-3, U.S.-2)
+nsubj(extension-8, channel-3)
+aux(extension-8, will-4)
+neg(extension-8, not-5)
+cop(extension-8, be-6)
+det(extension-8, an-7)
+ccomp(said-14, extension-8)
+det(channel-12, the-10)
+amod(channel-12, overseas-11)
+prep_of(extension-8, channel-12)
+root(ROOT-0, said-14)
+nn(Ong-16, Laureen-15)
+nsubj(said-14, Ong-16)
+appos(Ong-16, president-18)
+det(channel-22, the-20)
+amod(channel-22, American-21)
+prep_of(president-18, channel-22)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Times))
+    (VP
+      (VP (VBZ is)
+        (ADVP (RB already))
+        (ADJP (JJ active)
+          (PP (IN in)
+            (NP
+              (NP (NN television))
+              (PP (IN through)
+                (NP
+                  (NP (DT a) (JJ three-year) (JJ joint) (NN venture))
+                  (PP (IN with)
+                    (NP (NNP Granada) (NNP Media)))))))
+          (S
+            (VP (TO to)
+              (VP (VB produce)
+                (NP
+                  (NP (NNS documentaries))
+                  (CC and)
+                  (NP (DT an) (JJ experimental) (NN partnership)))
+                (PP (IN with)
+                  (NP (NNP ABC) (NNP News)))
+                (S
+                  (VP (TO to)
+                    (VP (VB produce)
+                      (NP
+                        (NP (NNS reports))
+                        (PP (IN for)
+                          (NP (NN ``20))))))))))))
+      ('' '')
+      (CC and)
+      (VP (VBD ``Good)
+        (S
+          (VP (VBG Morning)
+            (NP (NNP America))))))
+    (. .'')))
+
+det(Times-2, The-1)
+nsubj(active-5, Times-2)
+xsubj(produce-17, Times-2)
+nsubj(``Good-33, Times-2)
+cop(active-5, is-3)
+advmod(active-5, already-4)
+root(ROOT-0, active-5)
+prep_in(active-5, television-7)
+det(venture-12, a-9)
+amod(venture-12, three-year-10)
+amod(venture-12, joint-11)
+prep_through(television-7, venture-12)
+nn(Media-15, Granada-14)
+prep_with(venture-12, Media-15)
+aux(produce-17, to-16)
+xcomp(active-5, produce-17)
+dobj(produce-17, documentaries-18)
+det(partnership-22, an-20)
+amod(partnership-22, experimental-21)
+dobj(produce-17, partnership-22)
+conj_and(documentaries-18, partnership-22)
+nn(News-25, ABC-24)
+prep_with(produce-17, News-25)
+aux(produce-27, to-26)
+vmod(produce-17, produce-27)
+dobj(produce-27, reports-28)
+prep_for(reports-28, ``20-30)
+conj_and(active-5, ``Good-33)
+xcomp(``Good-33, Morning-34)
+dobj(Morning-34, America-35)
+punct(active-5, .''-36)
+
+(ROOT
+  (S
+    (NP (DT That) (NN agreement))
+    (VP (VBZ is)
+      (VP (VBN scheduled)
+        (S
+          (VP (TO to)
+            (VP (VB expire)
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NN end))
+                  (PP (IN of)
+                    (NP (DT this) (NN year))))))))))
+    (. .)))
+
+det(agreement-2, That-1)
+nsubjpass(scheduled-4, agreement-2)
+xsubj(expire-6, agreement-2)
+auxpass(scheduled-4, is-3)
+root(ROOT-0, scheduled-4)
+aux(expire-6, to-5)
+xcomp(scheduled-4, expire-6)
+det(end-9, the-8)
+prep_at(expire-6, end-9)
+det(year-12, this-11)
+prep_of(end-9, year-12)
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-11-28-00) (CD 1949EST))))
+
+num(1949EST-2, NYT-11-28-00-1)
+root(ROOT-0, 1949EST-2)
+

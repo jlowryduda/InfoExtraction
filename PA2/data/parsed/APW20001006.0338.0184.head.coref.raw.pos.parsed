@@ -1,0 +1,950 @@
+(ROOT
+  (NP
+    (NP (CD APW20001006.0338.0184))
+    (NP (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-10-06) (CD 04:05:46))))
+
+root(ROOT-0, APW20001006.0338.0184-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001006.0338.0184-1, STORY-3)
+num(04:05:46-5, 2000-10-06-4)
+dep(APW20001006.0338.0184-1, 04:05:46-5)
+
+(ROOT
+  (ADJP (JJ Debate-Veeps-TV)))
+
+root(ROOT-0, Debate-Veeps-TV-1)
+
+(ROOT
+  (NP
+    (NP (NNP TV) (NNPS Pundits) (NNP Give))
+    (NP (NNP Debate) (NNP High) (NNP Marks))))
+
+nn(Give-3, TV-1)
+nn(Give-3, Pundits-2)
+root(ROOT-0, Give-3)
+nn(Marks-6, Debate-4)
+nn(Marks-6, High-5)
+dep(Give-3, Marks-6)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP LOS) (NNP ANGELES) (NNP (AP) (NNP )))
+      (PP (, _)
+        (NP (DT The) (NNP Dick) (NNP Cheney) (NNP -Joe) (NNP Lieberman) (NN debate))))
+    (VP (VBD was)
+      (VP
+        (VP (VBN praised)
+          (PP (IN by)
+            (NP (DT some) (NNP TV) (NNS commentators)))
+          (PP (IN as)
+            (NP
+              (NP (DT an) (NN exercise))
+              (PP (IN in)
+                (NP (JJ good) (NNS manners))))))
+        (CC and)
+        (VP (VBN condemned)
+          (PP (IN by)
+            (NP
+              (NP (NNS others))
+              (PP (IN as)
+                (NP (JJ bad) (NNS politics))))))))
+    (. .)))
+
+nn()-4, LOS-1)
+nn()-4, ANGELES-2)
+nn()-4, (AP-3)
+nsubjpass(praised-13, )-4)
+nsubjpass(condemned-25, )-4)
+punct(debate-11, _-5)
+det(debate-11, The-6)
+nn(debate-11, Dick-7)
+nn(debate-11, Cheney-8)
+nn(debate-11, -Joe-9)
+nn(debate-11, Lieberman-10)
+prep()-4, debate-11)
+auxpass(praised-13, was-12)
+root(ROOT-0, praised-13)
+det(commentators-17, some-15)
+nn(commentators-17, TV-16)
+agent(praised-13, commentators-17)
+det(exercise-20, an-19)
+prep_as(praised-13, exercise-20)
+amod(manners-23, good-22)
+prep_in(exercise-20, manners-23)
+conj_and(praised-13, condemned-25)
+prep_by(condemned-25, others-27)
+amod(politics-30, bad-29)
+prep_as(others-27, politics-30)
+
+(ROOT
+  (S
+    (S
+      (ADJP (RB ``Highly) (VBN civilized)))
+    (, ,)
+    (S
+      (PP (IN in)
+        (NP (JJ many) (NNS ways)))
+      (NP (PRP they))
+      (VP (VBD articulated)
+        (PP
+          (ADVP
+            (ADVP
+              (NP
+                (NP (DT the) (NNS positions))
+                (PP (IN of)
+                  (NP (PRP$ their) (NNS campaigns))))
+              (JJR more))
+            (RB effectively))
+          (IN than)
+          (NP
+            (NP (DT the) (NN top))
+            (PP (IN of)
+              (NP (PRP$ their) (NN ticket)))))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP they))
+            (ADVP (RB met)
+              (PP (IN in)
+                (NP (NNP Boston) (, ,'') (NNP Tom) (NNP Brokaw))))
+            (VP (VBD said))))))
+    (. .)))
+
+advmod(civilized-2, ``Highly-1)
+root(ROOT-0, civilized-2)
+amod(ways-6, many-5)
+prep_in(articulated-8, ways-6)
+nsubj(articulated-8, they-7)
+parataxis(civilized-2, articulated-8)
+det(positions-10, the-9)
+npadvmod(more-14, positions-10)
+poss(campaigns-13, their-12)
+prep_of(positions-10, campaigns-13)
+advmod(articulated-8, more-14)
+advmod(more-14, effectively-15)
+det(top-18, the-17)
+prep_than(articulated-8, top-18)
+poss(ticket-21, their-20)
+prep_of(top-18, ticket-21)
+advmod(said-30, when-22)
+nsubj(said-30, they-23)
+advmod(said-30, met-24)
+nn(Brokaw-29, Boston-26)
+punct(Brokaw-29, ,''-27)
+appos(Brokaw-29, Tom-28)
+prep_in(met-24, Brokaw-29)
+advcl(articulated-8, said-30)
+
+(ROOT
+  (S
+    (NP
+      (ADJP (JJ ``Give)
+        (NP (PRP it)))
+      (NP (DT a) (JJ rave) (NN ,'')))
+    (VP (VBD said)
+      (NP (NNP CBS) (NN anchor) (NNP Dan) (NNP Rather)))
+    (. .)))
+
+amod(,''-5, ``Give-1)
+dep(``Give-1, it-2)
+det(,''-5, a-3)
+amod(,''-5, rave-4)
+nsubj(said-6, ,''-5)
+root(ROOT-0, said-6)
+nn(Rather-10, CBS-7)
+nn(Rather-10, anchor-8)
+nn(Rather-10, Dan-9)
+dobj(said-6, Rather-10)
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (MD will)
+      (VP (VB go)
+        (ADVP (RB down)
+          (PP (IN as)
+            (NP
+              (NP (DT the) (JJS best) (NN vice) (JJ presidential) (NN joint) (NN appearance))
+              (PP (IN on)
+                (NP (NN television))))))
+        (PP (IN since)
+          (NP
+            (NP
+              (NP (DT the) (NN television) (NN era))
+              (PP (IN in)
+                (NP (JJ presidential))))
+            (CC and)
+            (NP
+              (NP (NN vice))
+              (NP (JJ presidential) (NN campaigns) (NN began)))))))
+    (. .'')))
+
+nsubj(go-3, This-1)
+aux(go-3, will-2)
+root(ROOT-0, go-3)
+advmod(go-3, down-4)
+det(appearance-11, the-6)
+amod(appearance-11, best-7)
+nn(appearance-11, vice-8)
+amod(appearance-11, presidential-9)
+nn(appearance-11, joint-10)
+prep_as(down-4, appearance-11)
+prep_on(appearance-11, television-13)
+det(era-17, the-15)
+nn(era-17, television-16)
+prep_since(go-3, era-17)
+prep_in(era-17, presidential-19)
+prep_since(go-3, vice-21)
+conj_and(era-17, vice-21)
+amod(began-24, presidential-22)
+nn(began-24, campaigns-23)
+dep(vice-21, began-24)
+punct(go-3, .''-25)
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ His) (NN colleague))
+      (, ,)
+      (NP (NNP Bob) (NNP Schieffer))
+      (, ,))
+    (VP (VBD wondered)
+      (SBAR (IN whether)
+        (S
+          (NP
+            (NP (PRP$ their) (NNS ``bosses))
+            (PP (IN ,'')
+              (NP (NNP George) (NNP W.) (NNP Bush)
+                (CC and)
+                (NNP Al) (NNP Gore))))
+          (, ,)
+          (VP (VBD were)
+            (VP (VBG watching))))))
+    (. .)))
+
+poss(colleague-2, His-1)
+nsubj(wondered-7, colleague-2)
+nn(Schieffer-5, Bob-4)
+appos(colleague-2, Schieffer-5)
+root(ROOT-0, wondered-7)
+mark(watching-20, whether-8)
+poss(``bosses-10, their-9)
+nsubj(watching-20, ``bosses-10)
+nn(Bush-14, George-12)
+nn(Bush-14, W.-13)
+prep_,''(``bosses-10, Bush-14)
+nn(Gore-17, Al-16)
+prep_,''(``bosses-10, Gore-17)
+conj_and(Bush-14, Gore-17)
+aux(watching-20, were-19)
+ccomp(wondered-7, watching-20)
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Instant) (NNS polls))
+      (CC and)
+      (NP (JJ in-studio) (NNS audiences)))
+    (ADVP (RB also))
+    (VP (VBD gave)
+      (SBAR
+        (S
+          (NP (DT the) (NN vice) (JJ presidential))
+          (VP (VBZ candidates)
+            (NP (JJ high) (NNS marks))))))
+    (. .)))
+
+amod(polls-2, Instant-1)
+nsubj(gave-7, polls-2)
+amod(audiences-5, in-studio-4)
+conj_and(polls-2, audiences-5)
+nsubj(gave-7, audiences-5)
+advmod(gave-7, also-6)
+root(ROOT-0, gave-7)
+det(vice-9, the-8)
+nsubj(candidates-11, vice-9)
+amod(vice-9, presidential-10)
+ccomp(gave-7, candidates-11)
+amod(marks-13, high-12)
+dobj(candidates-11, marks-13)
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT some) (NNS observers))
+      (VP (VBN pronounced)))
+    (VP (VBZ themselves)
+      (VP (VBN frustrated)
+        (PP (IN by)
+          (NP (DT the) (NN debate)))))
+    (. .)))
+
+cc(themselves-5, But-1)
+det(observers-3, some-2)
+nsubj(themselves-5, observers-3)
+vmod(observers-3, pronounced-4)
+root(ROOT-0, themselves-5)
+dep(themselves-5, frustrated-6)
+det(debate-9, the-8)
+prep_by(frustrated-6, debate-9)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Fox) (NNP News) (NNP Channel) (POS 's))
+      (NNP Mort) (NNP Kondracke))
+    (VP (VBD called)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD ``an)
+            (NP
+              (NP (NN opportunity))
+              (VP (VBN wasted)
+                (PP (IN by)
+                  (NP (NNP Cheney)))
+                (S
+                  (VP (TO to)
+                    (VP (VB go)
+                      (PP (IN after)
+                        (NP (NNP Gore))))))))))))
+    (. .'')))
+
+nn(Channel-3, Fox-1)
+nn(Channel-3, News-2)
+poss(Kondracke-6, Channel-3)
+nn(Kondracke-6, Mort-5)
+nsubj(called-7, Kondracke-6)
+root(ROOT-0, called-7)
+nsubj(``an-9, it-8)
+ccomp(called-7, ``an-9)
+dobj(``an-9, opportunity-10)
+vmod(opportunity-10, wasted-11)
+agent(wasted-11, Cheney-13)
+aux(go-15, to-14)
+xcomp(wasted-11, go-15)
+prep_after(go-15, Gore-17)
+punct(called-7, .''-18)
+
+(ROOT
+  (SINV
+    (ADVP (RB ``Maybe) (RB somebody))
+    (VP (MD could)
+      (VP
+        (VP (VB have)
+          (VP (VBN given)
+            (SBAR
+              (S
+                (NP (DT the))
+                (VP (VBZ candidates)
+                  (NP (DT a) (JJ hot) (NN foot)))))))
+        (CC or)
+        (VP (VB put)
+          (NP (DT a) (JJ joy) (NN buzzer))
+          (PP (IN on)
+            (NP
+              (NP (PRP$ their) (NN seat))
+              (SBAR
+                (WHNP (, ,''))
+                (S
+                  (VP (VBD said)))))))))
+    (NP
+      (NP (PRP$ his) (NN colleague))
+      (, ,)
+      (NP (JJ Fred) (NNS Barnes)))
+    (. .)))
+
+advmod(somebody-2, ``Maybe-1)
+advmod(given-5, somebody-2)
+aux(given-5, could-3)
+aux(given-5, have-4)
+root(ROOT-0, given-5)
+nsubj(candidates-7, the-6)
+ccomp(given-5, candidates-7)
+det(foot-10, a-8)
+amod(foot-10, hot-9)
+dobj(candidates-7, foot-10)
+conj_or(given-5, put-12)
+det(buzzer-15, a-13)
+amod(buzzer-15, joy-14)
+dobj(put-12, buzzer-15)
+poss(seat-18, their-17)
+prep_on(put-12, seat-18)
+nsubj(said-20, ,''-19)
+rcmod(seat-18, said-20)
+poss(colleague-22, his-21)
+nsubj(given-5, colleague-22)
+nsubj(put-12, colleague-22)
+amod(Barnes-25, Fred-24)
+appos(colleague-22, Barnes-25)
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Conservative) (NN commentator) (NNP Bill) (NNP Kristol))
+      (, ,)
+      (RRC
+        (ADVP (RB also))
+        (PP (IN on)
+          (NP (NNP FNC))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP ``the) (NNP Bush) (NN campaign))
+          (VP (VBD failed)
+            (S
+              (VP (TO to)
+                (VP (VB do)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (PRP it))
+                      (VP (VBD had)
+                        (S
+                          (VP (TO to)
+                            (VP (VB do))))))))))))))
+    (: ...)))
+
+amod(Kristol-4, Conservative-1)
+nn(Kristol-4, commentator-2)
+nn(Kristol-4, Bill-3)
+nsubj(said-10, Kristol-4)
+advmod(on-7, also-6)
+rcmod(Kristol-4, on-7)
+pobj(on-7, FNC-8)
+root(ROOT-0, said-10)
+nn(campaign-13, ``the-11)
+nn(campaign-13, Bush-12)
+nsubj(failed-14, campaign-13)
+xsubj(do-16, campaign-13)
+ccomp(said-10, failed-14)
+aux(do-16, to-15)
+xcomp(failed-14, do-16)
+dobj(had-19, what-17)
+nsubj(had-19, it-18)
+xsubj(do-21, it-18)
+ccomp(do-16, had-19)
+aux(do-21, to-20)
+xcomp(had-19, do-21)
+
+(ROOT
+  (FRAG
+    (WHNP (WDT which))
+    (PP (TO to)
+      (NP
+        (NP
+          (NP (NN assault))
+          (PP (IN al)
+            (NP
+              (NP (NNP Gore) (POS 's))
+              (NNS policies))))
+        (CC and)
+        (NP (PRP$ his) (NN credibility))))
+    (. .'')))
+
+root(ROOT-0, which-1)
+prep_to(which-1, assault-3)
+poss(policies-7, Gore-5)
+prep_al(assault-3, policies-7)
+poss(credibility-10, his-9)
+prep_to(which-1, credibility-10)
+conj_and(assault-3, credibility-10)
+punct(which-1, .''-11)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP ABC) (POS 's))
+      (NNP Sam) (NNP Donaldson))
+    (VP (VBD asked)
+      (ADVP (RB plaintively)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (VP (VBN decreed)
+                (SBAR (IN that)
+                  (S
+                    (NP (NNS campaigners))
+                    (VP (VBD had)
+                      (S
+                        (VP (TO to)
+                          (VP (VB act)
+                            (PP (IN like)
+                              (NP
+                                (NP (CD ``gentlemen))
+                                (CC and)
+                                (NP (NNS ladies))))))))))))))))
+    (. .'')))
+
+poss(Donaldson-4, ABC-1)
+nn(Donaldson-4, Sam-3)
+nsubj(asked-5, Donaldson-4)
+root(ROOT-0, asked-5)
+advmod(asked-5, plaintively-6)
+advmod(decreed-10, when-7)
+nsubjpass(decreed-10, it-8)
+auxpass(decreed-10, was-9)
+dep(plaintively-6, decreed-10)
+mark(had-13, that-11)
+nsubj(had-13, campaigners-12)
+xsubj(act-15, campaigners-12)
+ccomp(decreed-10, had-13)
+aux(act-15, to-14)
+xcomp(had-13, act-15)
+prep_like(act-15, ``gentlemen-17)
+prep_like(act-15, ladies-19)
+conj_and(``gentlemen-17, ladies-19)
+punct(asked-5, .''-20)
+
+(ROOT
+  (S
+    (NP (PRP ``I))
+    (VP (VBP think)
+      (SBAR (IN that)
+        (S
+          (S
+            (NP (POS 's))
+            (NP (NN nonsense)))
+          (, ,'')
+          (S
+            (NP (NNP Donaldson))
+            (VP (VBD said))))))
+    (. .)))
+
+nsubj(think-2, ``I-1)
+root(ROOT-0, think-2)
+mark(nonsense-5, that-3)
+dep(nonsense-5, 's-4)
+ccomp(think-2, nonsense-5)
+punct(nonsense-5, ,''-6)
+nsubj(said-8, Donaldson-7)
+parataxis(nonsense-5, said-8)
+
+(ROOT
+  (S
+    (NP (DT The) (NN night))
+    (VP (VBD was)
+      (VP (VBN put)
+        (PP (IN in)
+          (ADJP (JJ perspective)))))
+    (. .)))
+
+det(night-2, The-1)
+nsubjpass(put-4, night-2)
+auxpass(put-4, was-3)
+root(ROOT-0, put-4)
+prep_in(put-4, perspective-6)
+
+(ROOT
+  (S
+    (NP (NNP ABC))
+    (VP (VBD anchorman)
+      (NP
+        (NP (NNP Peter) (NNS Jennings))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD noted)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT that) (NN ``bottom))
+                    (PP (IN of)
+                      (NP (DT the) (NN ticket) ('' '') (NN doesn't))))
+                  (ADVP (RB necessarily))
+                  (VP (VBP have)
+                    (PP (IN that)
+                      (NP (JJ much) (NN affect)))
+                    (PP (IN on)
+                      (NP (NN voter) (NNS decisions)))))))))))
+    (. .)))
+
+nsubj(anchorman-2, ABC-1)
+root(ROOT-0, anchorman-2)
+nn(Jennings-4, Peter-3)
+dobj(anchorman-2, Jennings-4)
+nsubj(noted-7, Jennings-4)
+rcmod(Jennings-4, noted-7)
+det(``bottom-9, that-8)
+nsubj(have-16, ``bottom-9)
+det(doesn't-14, the-11)
+nn(doesn't-14, ticket-12)
+prep_of(``bottom-9, doesn't-14)
+advmod(have-16, necessarily-15)
+ccomp(noted-7, have-16)
+amod(affect-19, much-18)
+prep_that(have-16, affect-19)
+nn(decisions-22, voter-21)
+prep_on(have-16, decisions-22)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP NBC) (POS 's))
+        (NNP Tim) (NNP Russert))
+      (PP (IN of)))
+    (VP (VBD predicted)
+      (SBAR
+        (S
+          (NP
+            (NP
+              (NP (DT the) (NN veep) (NN debate) (POS 's))
+              (NN ``effect))
+            (PP (IN on)
+              (NP (DT the) (NN election))))
+          (VP (MD will)
+            (ADVP (RB practically))
+            (VP (VB be)
+              (ADJP (JJ nonexistent)))))))
+    (. .'')))
+
+poss(Russert-4, NBC-1)
+nn(Russert-4, Tim-3)
+nsubj(predicted-6, Russert-4)
+prep(Russert-4, of-5)
+root(ROOT-0, predicted-6)
+det(debate-9, the-7)
+nn(debate-9, veep-8)
+poss(``effect-11, debate-9)
+nsubj(nonexistent-18, ``effect-11)
+det(election-14, the-13)
+prep_on(``effect-11, election-14)
+aux(nonexistent-18, will-15)
+advmod(nonexistent-18, practically-16)
+cop(nonexistent-18, be-17)
+ccomp(predicted-6, nonexistent-18)
+punct(predicted-6, .''-19)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT A) (NN group))
+        (PP (IN of)
+          (NP (JJ undecided) (NNS voters))))
+      (VP (VBN recruited)
+        (PP (IN by)
+          (NP
+            (NP (NNP NBC))
+            (PP (IN in)
+              (NP (NNP Tampa)))))))
+    (, ,)
+    (NP (NNP Fla) (, .,))
+    (VP (VBD were)
+      (VP
+        (VP (VBN impressed)
+          (PP (IN with)
+            (NP (DT both) (NNS candidates))))
+        (, _)
+        (CC and)
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ non-show))
+            (PP (IN of)
+              (NP
+                (NP (NNS hands))
+                (, ,)
+                (NP
+                  (NP (DT all) (JJ indicated))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBD remained)
+                        (PP (IN on)
+                          (NP (DT the) (NN fence)))))))))))))
+    (. .)))
+
+det(group-2, A-1)
+nsubj(recruited-6, group-2)
+amod(voters-5, undecided-4)
+prep_of(group-2, voters-5)
+vmod(impressed-15, recruited-6)
+agent(recruited-6, NBC-8)
+prep_in(NBC-8, Tampa-10)
+nsubjpass(impressed-15, Fla-12)
+punct(Fla-12, .,-13)
+auxpass(impressed-15, were-14)
+root(ROOT-0, impressed-15)
+det(candidates-18, both-17)
+prep_with(impressed-15, candidates-18)
+punct(impressed-15, _-19)
+conj_and(impressed-15, with-22)
+det(non-show-24, a-23)
+prep_with(impressed-15, non-show-24)
+prep_of(non-show-24, hands-26)
+det(indicated-29, all-28)
+appos(hands-26, indicated-29)
+nsubj(remained-31, they-30)
+rcmod(indicated-29, remained-31)
+det(fence-34, the-33)
+prep_on(remained-31, fence-34)
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (NNP Tuesday)))
+    (, ,)
+    (NP (DT an))
+    (VP (VBD estimated)
+      (SBAR
+        (S
+          (NP
+            (QP (CD 46.5) (CD million))
+            (NNS people))
+          (VP (VBD watched)
+            (NP
+              (NP (DT the) (JJ first) (JJ presidential) (NN debate))
+              (PP (IN between)
+                (NP (NNP Gore)
+                  (CC and)
+                  (NNP Bush)))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (NP (DT some) (NNS commentators))
+                  (VP (VBN deemed)
+                    (S
+                      (ADJP (JJ rancorous)))))))))))
+    (. .)))
+
+prep_on(estimated-5, Tuesday-2)
+nsubj(estimated-5, an-4)
+root(ROOT-0, estimated-5)
+number(million-7, 46.5-6)
+num(people-8, million-7)
+nsubj(watched-9, people-8)
+ccomp(estimated-5, watched-9)
+det(debate-13, the-10)
+amod(debate-13, first-11)
+amod(debate-13, presidential-12)
+dobj(watched-9, debate-13)
+dobj(deemed-22, debate-13)
+prep_between(debate-13, Gore-15)
+prep_between(debate-13, Bush-17)
+conj_and(Gore-15, Bush-17)
+det(commentators-21, some-20)
+nsubj(deemed-22, commentators-21)
+rcmod(debate-13, deemed-22)
+acomp(deemed-22, rancorous-23)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Lieberman)
+        (CC and)
+        (NNP Cheney))
+      (VP (VBD were)
+        (ADVP (RB probably))
+        (PP (IN on)
+          (NP (PRP$ their) (JJS best) (NN behavior)))
+        (SBAR (IN because)
+          (S
+            (NP (NN focus) (NNS groups))
+            (VP (VBD told)
+              (NP
+                (NP (DT the) (NN campaigns))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ conflict)
+                      (NP (JJ doesn't) (NN pay)))))))))))
+    (, ,)
+    (NP (NNS commentators))
+    (VP (VBD mused))
+    (. .)))
+
+nsubj(were-4, Lieberman-1)
+conj_and(Lieberman-1, Cheney-3)
+nsubj(were-4, Cheney-3)
+ccomp(mused-22, were-4)
+advmod(were-4, probably-5)
+poss(behavior-9, their-7)
+amod(behavior-9, best-8)
+prep_on(were-4, behavior-9)
+mark(told-13, because-10)
+nn(groups-12, focus-11)
+nsubj(told-13, groups-12)
+advcl(were-4, told-13)
+det(campaigns-15, the-14)
+dobj(told-13, campaigns-15)
+nsubj(conflict-17, campaigns-15)
+rcmod(campaigns-15, conflict-17)
+amod(pay-19, doesn't-18)
+dobj(conflict-17, pay-19)
+nsubj(mused-22, commentators-21)
+root(ROOT-0, mused-22)
+
+(ROOT
+  (S
+    (S
+      (NP (DT That) (NNP Gore) (JJ -Bush) (NN audience))
+      (VP (VBD was)
+        (ADJP (JJ comparable)
+          (PP (TO to)
+            (NP
+              (NP (DT the)
+                (QP (CD 46.1) (CD million))
+                (NNS people))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP
+                    (VP (VBD watched)
+                      (NP (DT the) (JJ first) (NN duel))
+                      (PP (IN between)
+                        (NP
+                          (NP (NNP President) (NNP Clinton))
+                          (CC and)
+                          (NP (NNP Bob) (NNP Dole)))
+                        (ADVP
+                          (NP (CD four) (NNS years))
+                          (RB ago))))
+                    (, ,)
+                    (CC but)
+                    (VP (VBD fell)
+                      (NP
+                        (NP (NN short))
+                        (PP (IN of)
+                          (NP (DT the) (JJ all-time) (NN record)))))))))))))
+    (: :)
+    (S
+      (NP
+        (QP (CD 80) (CD million))
+        (NNS people))
+      (VP (VBD watched)
+        (S
+          (NP (NNP President) (NNP Carter)
+            (CC and)
+            (NNP Ronald) (NNP Reagan))
+          (VP (VB square)
+            (PRT (RP off))
+            (PP (IN in)
+              (NP (CD 1980)))))))
+    (. .)))
+
+det(audience-4, That-1)
+nn(audience-4, Gore-2)
+amod(audience-4, -Bush-3)
+nsubj(comparable-6, audience-4)
+cop(comparable-6, was-5)
+root(ROOT-0, comparable-6)
+det(people-11, the-8)
+number(million-10, 46.1-9)
+num(people-11, million-10)
+prep_to(comparable-6, people-11)
+nsubj(watched-13, people-11)
+nsubj(fell-28, people-11)
+rcmod(people-11, watched-13)
+det(duel-16, the-14)
+amod(duel-16, first-15)
+dobj(watched-13, duel-16)
+nn(Clinton-19, President-18)
+prep_between(watched-13, Clinton-19)
+nn(Dole-22, Bob-21)
+prep_between(watched-13, Dole-22)
+conj_and(Clinton-19, Dole-22)
+num(years-24, four-23)
+npadvmod(ago-25, years-24)
+advmod(watched-13, ago-25)
+rcmod(people-11, fell-28)
+conj_but(watched-13, fell-28)
+dobj(fell-28, short-29)
+det(record-33, the-31)
+amod(record-33, all-time-32)
+prep_of(short-29, record-33)
+number(million-36, 80-35)
+num(people-37, million-36)
+nsubj(watched-38, people-37)
+parataxis(comparable-6, watched-38)
+nn(Carter-40, President-39)
+nsubj(square-44, Carter-40)
+nn(Reagan-43, Ronald-42)
+conj_and(Carter-40, Reagan-43)
+nsubj(square-44, Reagan-43)
+ccomp(watched-38, square-44)
+prt(square-44, off-45)
+prep_in(square-44, 1980-47)
+
+(ROOT
+  (S
+    (NP (NNP Cheney)
+      (CC and)
+      (NNP Lieberman))
+    (, ,)
+    (PP (IN with)
+      (NP (NN moderator) (NNP Bernie) (NNP Shaw)))
+    (, ,)
+    (NP
+      (NP (NN met))
+      (PP (IN at)
+        (NP (JJ Centre) (NNP College)))
+      (PP (IN in)
+        (NP (NNP Danville) (, ,) (NNP Ky))))
+    (VP (, .,)
+      (PP (IN for)
+        (NP (PRP$ their) (JJ only) (NN debate))))
+    (. .)))
+
+nsubj(for-19, Cheney-1)
+conj_and(Cheney-1, Lieberman-3)
+nsubj(for-19, Lieberman-3)
+nn(Shaw-8, moderator-6)
+nn(Shaw-8, Bernie-7)
+prep_with(for-19, Shaw-8)
+nsubj(for-19, met-10)
+amod(College-13, Centre-12)
+prep_at(met-10, College-13)
+nn(Ky-17, Danville-15)
+prep_in(met-10, Ky-17)
+punct(for-19, .,-18)
+root(ROOT-0, for-19)
+poss(debate-22, their-20)
+amod(debate-22, only-21)
+pobj(for-19, debate-22)
+
+(ROOT
+  (S
+    (NP (NNP Bush)
+      (CC and)
+      (NNP Gore))
+    (VP (VBP have)
+      (NP
+        (NP (CD two) (RBR more))
+        (SBAR
+          (S
+            (NP (NNS debates))
+            (VP (VBD scheduled) (, ,)
+              (PP (IN on)
+                (NP (NNP Oct))))))))
+    (. .)))
+
+nsubj(have-4, Bush-1)
+conj_and(Bush-1, Gore-3)
+nsubj(have-4, Gore-3)
+root(ROOT-0, have-4)
+dobj(have-4, two-5)
+advmod(two-5, more-6)
+nsubj(scheduled-8, debates-7)
+rcmod(two-5, scheduled-8)
+prep_on(scheduled-8, Oct-11)
+
+(ROOT
+  (NP
+    (NP (CD 11))
+    (QP (CC and)
+      (CD 17))
+    (. .)))
+
+root(ROOT-0, 11-1)
+cc(17-3, and-2)
+num(11-1, 17-3)
+

@@ -1,0 +1,1518 @@
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001020.2025.0304) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-10-20) (CD 20:27:00))))
+
+nn(STORY-3, NYT20001020.2025.0304-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(20:27:00-5, 2000-10-20-4)
+dep(STORY-3, 20:27:00-5)
+
+(ROOT
+  (NP
+    (NP (CD A1398) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (JJ taf-z) (NN s))
+      (PP (IN f)
+        (NP (JJ BC-MIDEAST-STOCKS-$ADV22) (CD 10-20) (CD 0718))))))
+
+num(&Cx1f-2, A1398-1)
+root(ROOT-0, &Cx1f-2)
+amod(s-5, taf-z-4)
+dep(&Cx1f-2, s-5)
+amod(0718-9, BC-MIDEAST-STOCKS-$ADV22-7)
+num(0718-9, 10-20-8)
+prep_f(s-5, 0718-9)
+
+(ROOT
+  (ADJP (JJ BC-MIDEAST-STOCKS-$ADV22-NYT)))
+
+root(ROOT-0, BC-MIDEAST-STOCKS-$ADV22-NYT-1)
+
+(ROOT
+  (NP (NNP INVESTORS) (NNP FEEL) (NNP EFFECTS) (NNP OF) (NNP MIDEAST) (NNP VIOLENCE)))
+
+nn(VIOLENCE-6, INVESTORS-1)
+nn(VIOLENCE-6, FEEL-2)
+nn(VIOLENCE-6, EFFECTS-3)
+nn(VIOLENCE-6, OF-4)
+nn(VIOLENCE-6, MIDEAST-5)
+root(ROOT-0, VIOLENCE-6)
+
+(ROOT
+  (NP
+    (NP (PRP$ (For) (JJ release) (NN Sunday))
+    (, ,)
+    (NP (NNP Oct))
+    (. .)))
+
+poss(Sunday-3, (For-1)
+amod(Sunday-3, release-2)
+root(ROOT-0, Sunday-3)
+appos(Sunday-3, Oct-5)
+
+(ROOT
+  (NP
+    (NP
+      (NP (CD 22))
+      (PP (IN ))
+        (NP (NNP &QL))))
+    (: ;)
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (PP (NNP By)
+        (NP (NNP JOSEPH) (NNP B))))
+    (. .)))
+
+root(ROOT-0, 22-1)
+prep_)(22-1, &QL-3)
+dep(22-1, &UR-5)
+prep(&UR-5, By-7)
+nn(B-9, JOSEPH-8)
+dep(By-7, B-9)
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP TREASTER) (NNP &LR))
+      (: ;)
+      (NP (NNP &QC)))
+    (: ;)
+    (NP
+      (NP (NNS &QL))
+      (: ;)
+      (NP (NNS &UR)))
+    (: ;)
+    (NP
+      (NP (CD c.2000))
+      (NP (NNP N.Y)))
+    (. .)))
+
+nn(&LR-2, TREASTER-1)
+root(ROOT-0, &LR-2)
+dep(&LR-2, &QC-4)
+dep(&LR-2, &QL-6)
+dep(&QL-6, &UR-8)
+dep(&LR-2, c.2000-10)
+appos(c.2000-10, N.Y-11)
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
+    (PRN (: ;)
+      (NP
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&LR-4, Times-1)
+nn(&LR-4, News-2)
+nn(&LR-4, Service-3)
+root(ROOT-0, &LR-4)
+dep(&LR-4, &QC-6)
+dep(&QC-6, &QL-8)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (RB just) (CD two) (NNS weeks)))
+    (NP (DT this) (NN month))
+    (, ,)
+    (SBAR (IN as)
+      (S
+        (NP (NNS investors))
+        (VP (VBN worried)
+          (SBAR (IN whether)
+            (S
+              (NP
+                (NP (DT the) (NN violence))
+                (PP (IN in)
+                  (NP (DT the) (NNP Middle) (NNP East))))
+              (VP (MD would)
+                (VP (VB escalate)
+                  (PP (IN into)
+                    (NP (NN war))))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN stock) (NN market))
+      (PP (IN in)
+        (NP (NNP Israel))))
+    (VP (VBD fell)
+      (S
+        (ADJP (CD 16) (JJ percent))))
+    (. .)))
+
+advmod(weeks-4, just-2)
+num(weeks-4, two-3)
+prep_in(fell-28, weeks-4)
+det(month-6, this-5)
+tmod(fell-28, month-6)
+mark(worried-10, as-8)
+nsubj(worried-10, investors-9)
+advcl(fell-28, worried-10)
+mark(escalate-19, whether-11)
+det(violence-13, the-12)
+nsubj(escalate-19, violence-13)
+det(East-17, the-15)
+nn(East-17, Middle-16)
+prep_in(violence-13, East-17)
+aux(escalate-19, would-18)
+ccomp(worried-10, escalate-19)
+prep_into(escalate-19, war-21)
+det(market-25, the-23)
+nn(market-25, stock-24)
+nsubj(fell-28, market-25)
+prep_in(market-25, Israel-27)
+root(ROOT-0, fell-28)
+number(percent-30, 16-29)
+acomp(fell-28, percent-30)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Egypt)))
+    (, ,)
+    (NP (DT the) (NN market))
+    (VP (VBD dropped)
+      (S
+        (ADJP (CD 20) (JJ percent))))
+    (. .)))
+
+prep_in(dropped-6, Egypt-2)
+det(market-5, the-4)
+nsubj(dropped-6, market-5)
+root(ROOT-0, dropped-6)
+number(percent-8, 20-7)
+acomp(dropped-6, percent-8)
+
+(ROOT
+  (S (CC But)
+    (PP (IN for)
+      (NP (JJS most) (JJ American) (NNS investors)))
+    (, ,)
+    (S
+      (ADVP (JJ many)
+        (PP (IN of)
+          (ADJP (JJ whom))))
+      (VP (VB buy)
+        (NP (PRP$ their) (NNS stocks))
+        (PP (IN through)
+          (NP (JJ mutual) (NNS funds)))))
+    (, ,)
+    (NP (DT the) (NN impact))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RBR more) (JJ diffuse))
+        (, ,)
+        (ADJP (JJ though))
+        (ADVP (RB still))
+        (ADJP (JJ strong))))
+    (. .)))
+
+cc(diffuse-21, But-1)
+amod(investors-5, most-3)
+amod(investors-5, American-4)
+prep_for(diffuse-21, investors-5)
+advmod(buy-10, many-7)
+prep_of(many-7, whom-9)
+ccomp(diffuse-21, buy-10)
+poss(stocks-12, their-11)
+dobj(buy-10, stocks-12)
+amod(funds-15, mutual-14)
+prep_through(buy-10, funds-15)
+det(impact-18, the-17)
+nsubj(diffuse-21, impact-18)
+cop(diffuse-21, was-19)
+advmod(diffuse-21, more-20)
+root(ROOT-0, diffuse-21)
+dep(diffuse-21, though-23)
+advmod(diffuse-21, still-24)
+dep(diffuse-21, strong-25)
+
+(ROOT
+  (S
+    (ADVP (RB While))
+    (NP (JJ few) (NNS investors))
+    (VP (VBP own)
+      (NP
+        (NP (NNS funds))
+        (VP (VBG containing)
+          (NP (JJ many) (JJ Middle) (JJ Eastern) (NNS companies))
+          (, ,)
+          (SBAR (RB partly) (IN because)
+            (S
+              (NP (RB there))
+              (VP (VBP are) (RB not)
+                (ADJP (IN that) (JJ many))
+                (ADVP (RB around)
+                  (S
+                    (VP (TO to)
+                      (VP (VB buy))))))))
+          (, ,)
+          (S
+            (NP (PRP they))
+            (ADJP (JJ nonetheless))
+            (S
+              (VP (VB felt)
+                (NP
+                  (NP (DT the) (NNS effects))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN region) (POS 's))
+                      (NN volatility))))))))))
+    (. .)))
+
+advmod(own-4, While-1)
+amod(investors-3, few-2)
+nsubj(own-4, investors-3)
+root(ROOT-0, own-4)
+dobj(own-4, funds-5)
+vmod(funds-5, containing-6)
+amod(companies-10, many-7)
+amod(companies-10, Middle-8)
+amod(companies-10, Eastern-9)
+dobj(containing-6, companies-10)
+advmod(many-18, partly-12)
+mark(many-18, because-13)
+nsubj(many-18, there-14)
+cop(many-18, are-15)
+neg(many-18, not-16)
+dep(many-18, that-17)
+advcl(containing-6, many-18)
+advmod(many-18, around-19)
+aux(buy-21, to-20)
+dep(around-19, buy-21)
+nsubj(felt-25, they-23)
+dep(felt-25, nonetheless-24)
+xcomp(containing-6, felt-25)
+det(effects-27, the-26)
+dobj(felt-25, effects-27)
+det(region-30, the-29)
+poss(volatility-32, region-30)
+prep_of(effects-27, volatility-32)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Wall) (NNP Street))
+      (CC and)
+      (NP (JJ other) (JJ global) (NNS markets)))
+    (VP (VBD were)
+      (VP (VBN concerned)
+        (SBAR
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN violence))
+              (VP (MD would)
+                (VP (VB translate)
+                  (PP (IN into)
+                    (NP
+                      (NP (JJR higher) (NN oil) (NNS prices))
+                      (, _)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (NP (PRP it))
+                          (VP (VBD did) (, ,)
+                            (ADVP (RB briefly)))))))))))
+          (, _)
+          (CC and)
+          (SBAR (IN that)
+            (S
+              (NP (DT those) (NNS prices))
+              (, ,)
+              (PP (IN in)
+                (NP (NN turn)))
+              (, ,)
+              (VP (MD could)
+                (VP (VB lead)
+                  (PP (TO to)
+                    (NP
+                      (NP (NN inflation))
+                      (CC and)
+                      (NP (JJR higher) (NN interest) (NNS rates)))))))))))
+    (. .)))
+
+nn(Street-2, Wall-1)
+nsubjpass(concerned-8, Street-2)
+amod(markets-6, other-4)
+amod(markets-6, global-5)
+conj_and(Street-2, markets-6)
+nsubjpass(concerned-8, markets-6)
+auxpass(concerned-8, were-7)
+root(ROOT-0, concerned-8)
+mark(translate-13, that-9)
+det(violence-11, the-10)
+nsubj(translate-13, violence-11)
+aux(translate-13, would-12)
+ccomp(concerned-8, translate-13)
+amod(prices-17, higher-15)
+nn(prices-17, oil-16)
+prep_into(translate-13, prices-17)
+dobj(did-21, prices-17)
+punct(prices-17, _-18)
+nsubj(did-21, it-20)
+rcmod(prices-17, did-21)
+advmod(did-21, briefly-23)
+punct(translate-13, _-24)
+mark(lead-34, that-26)
+det(prices-28, those-27)
+nsubj(lead-34, prices-28)
+prep_in(lead-34, turn-31)
+aux(lead-34, could-33)
+ccomp(concerned-8, lead-34)
+conj_and(translate-13, lead-34)
+prep_to(lead-34, inflation-36)
+amod(rates-40, higher-38)
+nn(rates-40, interest-39)
+prep_to(lead-34, rates-40)
+conj_and(inflation-36, rates-40)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT That) (NN line))
+      (PP (IN of)
+        (S
+          (VP (VBG thinking)))))
+    (VP (VBD played)
+      (NP (DT a) (JJ big) (NN role))
+      (PP (IN in)
+        (NP
+          (NP
+            (NP (DT the) (JJ 379-point) (NN drop))
+            (PP (IN in)
+              (NP (DT the) (NNP Dow) (NNP Jones) (JJ industrial) (NN average))))
+          (CC and)
+          (NP
+            (NP (DT the) (JJ 93-point) (NN drop))
+            (PP (IN in)
+              (NP (DT the) (NNP Nasdaq) (JJ composite) (NN index))))))
+      (PP (IN on)
+        (NP (NNP Oct))))
+    (. .)))
+
+det(line-2, That-1)
+nsubj(played-5, line-2)
+prepc_of(line-2, thinking-4)
+root(ROOT-0, played-5)
+det(role-8, a-6)
+amod(role-8, big-7)
+dobj(played-5, role-8)
+det(drop-12, the-10)
+amod(drop-12, 379-point-11)
+prep_in(played-5, drop-12)
+det(average-18, the-14)
+nn(average-18, Dow-15)
+nn(average-18, Jones-16)
+amod(average-18, industrial-17)
+prep_in(drop-12, average-18)
+det(drop-22, the-20)
+amod(drop-22, 93-point-21)
+prep_in(played-5, drop-22)
+conj_and(drop-12, drop-22)
+det(index-27, the-24)
+nn(index-27, Nasdaq-25)
+amod(index-27, composite-26)
+prep_in(drop-22, index-27)
+prep_on(played-5, Oct-29)
+
+(ROOT
+  (S
+    (PP
+      (NP (CD 12))
+      (IN _)
+      (NP
+        (NP (DT the) (NN day))
+        (SBAR (IN that)
+          (S
+            (NP (DT a) (JJ Palestinian) (NN mob))
+            (VP (VBD mauled)
+              (NP (CD two) (NNP Israeli) (NNS soldiers)))))))
+    (, ,)
+    (NP (NNP Israel))
+    (VP (VBD retaliated)
+      (PP (IN with)
+        (NP (NN rocket) (NNS attacks)
+          (CC and)
+          (NNS terrorists)))
+      (PP (IN blew)
+        (NP
+          (NP (DT a) (NN hole))
+          (PP (IN in)
+            (NP (DT a) (NNP United) (NNPS States) (NN warship)))))
+      (PP (IN in)
+        (NP (NNP Yemen))))
+    (. .)))
+
+npadvmod(retaliated-15, 12-1)
+det(day-4, the-3)
+prep__(retaliated-15, day-4)
+mark(mauled-9, that-5)
+det(mob-8, a-6)
+amod(mob-8, Palestinian-7)
+nsubj(mauled-9, mob-8)
+dep(day-4, mauled-9)
+num(soldiers-12, two-10)
+nn(soldiers-12, Israeli-11)
+dobj(mauled-9, soldiers-12)
+nsubj(retaliated-15, Israel-14)
+root(ROOT-0, retaliated-15)
+nn(attacks-18, rocket-17)
+prep_with(retaliated-15, attacks-18)
+prep_with(retaliated-15, terrorists-20)
+conj_and(attacks-18, terrorists-20)
+det(hole-23, a-22)
+prep_blew(retaliated-15, hole-23)
+det(warship-28, a-25)
+nn(warship-28, United-26)
+nn(warship-28, States-27)
+prep_in(hole-23, warship-28)
+prep_in(retaliated-15, Yemen-30)
+
+(ROOT
+  (S
+    (NP (JJ Last) (NN week))
+    (, ,)
+    (NP (NNP Israeli)
+      (CC and)
+      (NNP Palestinian) (NNS leaders))
+    (VP (VBD agreed)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NNS terms))
+          (PP (IN of)
+            (NP (DT a) (JJ cease-fire)))))
+      (PP (IN after)
+        (NP
+          (NP (NNS clashes))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NNP West) (NNP Bank))
+              (CC and)
+              (NP (DT the) (NNP Gaza) (NNP Strip)))))))
+    (. .)))
+
+amod(week-2, Last-1)
+tmod(agreed-8, week-2)
+nn(leaders-7, Israeli-4)
+conj_and(Israeli-4, Palestinian-6)
+nn(leaders-7, Palestinian-6)
+nsubj(agreed-8, leaders-7)
+root(ROOT-0, agreed-8)
+det(terms-11, the-10)
+prep_to(agreed-8, terms-11)
+det(cease-fire-14, a-13)
+prep_of(terms-11, cease-fire-14)
+prep_after(agreed-8, clashes-16)
+det(Bank-20, the-18)
+nn(Bank-20, West-19)
+prep_in(clashes-16, Bank-20)
+det(Strip-24, the-22)
+nn(Strip-24, Gaza-23)
+prep_in(clashes-16, Strip-24)
+conj_and(Bank-20, Strip-24)
+
+(ROOT
+  (S
+    (NP (JJ ``For) (JJ American) (NNS investors))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NN oil) (NN effect))
+        (VP (VBD was)
+          (NP
+            (ADJP (RB much) (JJR more))
+            (NN significant))
+          (PP (IN than)
+            (NP
+              (NP (DT the) (JJ direct) (NN effect))
+              (PP (IN on)
+                (NP
+                  (ADJP (NNP Middle) (NNP East))
+                  (NNS companies)))))))
+      (, ,''))
+    (VP (VBD said)
+      (NP
+        (NP (NNP Grace) (NNP Pineda))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ manages)
+              (NP
+                (NP (DT the)
+                  (QP (CD $132) (CD million)))
+                (VP (VBG Developing)
+                  (NP (NNP Capital) (NNPS Markets) (NN fund))
+                  (PP (IN for)
+                    (NP (NNP Merrill) (NNP Lynch))))))))))
+    (. .)))
+
+amod(investors-3, ``For-1)
+amod(investors-3, American-2)
+nsubj(said-21, investors-3)
+det(effect-7, the-5)
+nn(effect-7, oil-6)
+nsubj(significant-11, effect-7)
+cop(significant-11, was-8)
+advmod(more-10, much-9)
+amod(significant-11, more-10)
+parataxis(said-21, significant-11)
+det(effect-15, the-13)
+amod(effect-15, direct-14)
+prep_than(significant-11, effect-15)
+amod(companies-19, Middle-17)
+amod(Middle-17, East-18)
+prep_on(effect-15, companies-19)
+punct(significant-11, ,''-20)
+root(ROOT-0, said-21)
+nn(Pineda-23, Grace-22)
+dobj(said-21, Pineda-23)
+nsubj(manages-26, Pineda-23)
+rcmod(Pineda-23, manages-26)
+det(million-29, the-27)
+number(million-29, $132-28)
+dobj(manages-26, million-29)
+vmod(million-29, Developing-30)
+nn(fund-33, Capital-31)
+nn(fund-33, Markets-32)
+dobj(Developing-30, fund-33)
+nn(Lynch-36, Merrill-35)
+prep_for(Developing-30, Lynch-36)
+
+(ROOT
+  (S
+    (NP (DT The) (NN fund))
+    (VP (VBZ has)
+      (VP
+        (PP
+          (PP (IN about)
+            (NP
+              (NP (CD 5) (NN percent))
+              (PP (IN of)
+                (NP
+                  (NP (PRP$ its) (NN money))
+                  (PP (IN in)
+                    (NP (NNP Israel)))))))
+          (CC and)
+          (PP (IN about)
+            (NP
+              (NP (CD 0.5) (NN percent))
+              (PP (IN in)
+                (NP (NNP Egypt))))))))
+    (. .)))
+
+det(fund-2, The-1)
+nsubj(about-4, fund-2)
+aux(about-4, has-3)
+root(ROOT-0, about-4)
+num(percent-6, 5-5)
+pobj(about-4, percent-6)
+poss(money-9, its-8)
+prep_of(percent-6, money-9)
+prep_in(money-9, Israel-11)
+conj_and(about-4, about-13)
+num(percent-15, 0.5-14)
+pobj(about-13, percent-15)
+prep_in(percent-15, Egypt-17)
+
+(ROOT
+  (S
+    (S
+      (VP (NNP From)
+        (NP (RB late) (NNP September))))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (JJS latest) (NN trouble))
+        (VP (VBN erupted)
+          (PP (IN in)
+            (NP (DT the) (NNP Middle) (NNP East)))
+          (, ,)
+          (PP (IN through)
+            (NP (JJ last) (NN week))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN broad) (NNS markets))
+      (CC and)
+      (NP
+        (NP (JJ several) (NNS categories))
+        (PP (IN of)
+          (NP (JJ mutual) (NNS funds)))))
+    (VP (VBD lost)
+      (NP (NN ground))
+      (PP (IN in)
+        (NP (DT the) (NNP United) (NNPS States))))
+    (. .)))
+
+dep(September-3, From-1)
+advmod(September-3, late-2)
+ccomp(lost-28, September-3)
+advmod(erupted-9, when-5)
+det(trouble-8, the-6)
+amod(trouble-8, latest-7)
+nsubj(erupted-9, trouble-8)
+advcl(lost-28, erupted-9)
+det(East-13, the-11)
+nn(East-13, Middle-12)
+prep_in(erupted-9, East-13)
+amod(week-17, last-16)
+prep_through(erupted-9, week-17)
+det(markets-21, the-19)
+nn(markets-21, broad-20)
+nsubj(lost-28, markets-21)
+amod(categories-24, several-23)
+conj_and(markets-21, categories-24)
+nsubj(lost-28, categories-24)
+amod(funds-27, mutual-26)
+prep_of(categories-24, funds-27)
+root(ROOT-0, lost-28)
+dobj(lost-28, ground-29)
+det(States-33, the-31)
+nn(States-33, United-32)
+prep_in(lost-28, States-33)
+
+(ROOT
+  (FRAG
+    (PP (IN In)
+      (NP
+        (NP (DT the)
+          (ADJP (RBS most) (JJ violent))
+          (NN period))
+        (, ,)
+        (NP (NNP Oct))))
+    (. .)))
+
+root(ROOT-0, In-1)
+det(period-5, the-2)
+advmod(violent-4, most-3)
+amod(period-5, violent-4)
+pobj(In-1, period-5)
+appos(period-5, Oct-7)
+
+(ROOT
+  (S
+    (PP
+      (NP (CD 5))
+      (IN through)
+      (NP (CD 12)))
+    (, ,)
+    (NP (NN equity) (NN income) (NNS funds))
+    (VP (VBD were)
+      (ADVP (RB down)
+        (NP (CD 4.80) (NN percent)))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP (NNP Lipper) (NNP Inc)))))
+    (. .)))
+
+npadvmod(were-8, 5-1)
+prep_through(were-8, 12-3)
+nn(funds-7, equity-5)
+nn(funds-7, income-6)
+nsubj(were-8, funds-7)
+root(ROOT-0, were-8)
+advmod(were-8, down-9)
+num(percent-11, 4.80-10)
+pobj(down-9, percent-11)
+prepc_according_to(were-8, to-14)
+nn(Inc-16, Lipper-15)
+pobj(were-8, Inc-16)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Growth) (NNS funds))
+      (VP (VBD were)
+        (ADVP (RP off)
+          (NP (CD 7.79)))
+        (ADJP (JJ percent))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (JJ growth-and-income) (NNS funds))
+      (ADJP
+        (NP (CD 6.12))
+        (JJ percent)))
+    (. .)))
+
+nn(funds-2, Growth-1)
+nsubj(percent-6, funds-2)
+nsubj(percent-12, funds-2)
+cop(percent-6, were-3)
+dep(7.79-5, off-4)
+advmod(percent-6, 7.79-5)
+root(ROOT-0, percent-6)
+amod(funds-10, growth-and-income-9)
+dep(percent-12, funds-10)
+npadvmod(percent-12, 6.12-11)
+conj_and(percent-6, percent-12)
+
+(ROOT
+  (S
+    (NP (JJ Those) (NNS funds))
+    (ADVP (RB generally))
+    (VP (VBP do) (RB not)
+      (VP (VB contain)
+        (NP
+          (NP (NNS shares))
+          (PP (IN of)
+            (NP (NNP Middle) (NNP Eastern) (NNS companies))))
+        (, ,)
+        (SBAR (IN yet)
+          (S
+            (NP
+              (NP (DT the) (NN trouble))
+              (PP (IN in)
+                (NP (DT the) (NN region))))
+            (VP (VBD was)
+              (PP (IN among)
+                (NP (JJ several) (NNS factors)))
+              (SBAR (IN _)
+                (S
+                  (VP
+                    (ADVP (RB along)
+                      (PP (IN with)
+                        (NP
+                          (NP (DT a) (JJ general) (NN sell-off))
+                          (PP (IN in)
+                            (NP (NN technology)
+                              (CC and)
+                              (NN telecommunications) (NNS stocks))))))
+                    (VBP _)
+                    (SBAR (IN that)
+                      (S
+                        (VP (VBD brought)
+                          (PRT (RB down))
+                          (NP (NNS prices)))))))))))))
+    (. .)))
+
+amod(funds-2, Those-1)
+nsubj(contain-6, funds-2)
+advmod(contain-6, generally-3)
+aux(contain-6, do-4)
+neg(contain-6, not-5)
+root(ROOT-0, contain-6)
+dobj(contain-6, shares-7)
+nn(companies-11, Middle-9)
+nn(companies-11, Eastern-10)
+prep_of(shares-7, companies-11)
+mark(was-19, yet-13)
+det(trouble-15, the-14)
+nsubj(was-19, trouble-15)
+det(region-18, the-17)
+prep_in(trouble-15, region-18)
+advcl(contain-6, was-19)
+amod(factors-22, several-21)
+prep_among(was-19, factors-22)
+mark(_-34, _-23)
+det(sell-off-28, a-26)
+amod(sell-off-28, general-27)
+prep_along_with(_-34, sell-off-28)
+nn(stocks-33, technology-30)
+conj_and(technology-30, telecommunications-32)
+nn(stocks-33, telecommunications-32)
+prep_in(sell-off-28, stocks-33)
+advcl(was-19, _-34)
+mark(brought-36, that-35)
+ccomp(_-34, brought-36)
+prt(brought-36, down-37)
+dobj(brought-36, prices-38)
+
+(ROOT
+  (S
+    (NP (NNS Emerging-markets) (NNS funds))
+    (VP (VBD declined)
+      (ADJP
+        (NP (CD 7.17))
+        (JJ percent))
+      (PP (IN over)
+        (NP (DT that) (NN period))))
+    (. .)))
+
+nn(funds-2, Emerging-markets-1)
+nsubj(declined-3, funds-2)
+root(ROOT-0, declined-3)
+npadvmod(percent-5, 7.17-4)
+acomp(declined-3, percent-5)
+det(period-8, that-7)
+prep_over(declined-3, period-8)
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP
+          (NP (JJ many))
+          (PP (IN of)
+            (NP (DT those) (NNS funds))))
+        (VP (VB invest)
+          (PP (IN in)
+            (NP
+              (NP
+                (ADJP (NNP Middle) (NNP Eastern))
+                (NNS companies))
+              (, ,)
+              (NP
+                (NP (DT the) (NN ripple) (NN effect))
+                (PP (IN of)
+                  (NP (DT the) (NN threat))))))
+          (S
+            (VP (TO to)
+              (VP (VB oil)
+                (VP (VBN affected)
+                  (NP (PRP them))
+                  (ADVP (RBS most)))))))))
+    (, ,)
+    (NP (NNS analysts)
+      (CC and)
+      (NN fund) (NNS managers))
+    (VP (VBD said))
+    (. .)))
+
+mark(invest-6, Although-1)
+nsubj(invest-6, many-2)
+xsubj(oil-19, many-2)
+det(funds-5, those-4)
+prep_of(many-2, funds-5)
+advcl(said-28, invest-6)
+amod(companies-10, Middle-8)
+amod(Middle-8, Eastern-9)
+prep_in(invest-6, companies-10)
+det(effect-14, the-12)
+nn(effect-14, ripple-13)
+appos(companies-10, effect-14)
+det(threat-17, the-16)
+prep_of(effect-14, threat-17)
+aux(oil-19, to-18)
+xcomp(invest-6, oil-19)
+dep(oil-19, affected-20)
+dobj(affected-20, them-21)
+advmod(affected-20, most-22)
+nsubj(said-28, analysts-24)
+nn(managers-27, fund-26)
+conj_and(analysts-24, managers-27)
+nsubj(said-28, managers-27)
+root(ROOT-0, said-28)
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP
+        (NP (DT those) (NNS funds) (POS '))
+        (NNS investments))
+      (PP (IN in)
+        (NP (DT the) (NN region))))
+    (VP (VBP are)
+      (ADVP (RB still))
+      (ADJP
+        (ADJP (RB relatively) (JJ small))
+        (PRN (, ,)
+          (ADVP (RB usually))
+          (NP
+            (NP
+              (QP (RBR less) (IN than) (CD 10))
+              (NN percent))
+            (PP (IN of)
+              (NP (DT the) (NNS portfolios)))))))
+    (. .)))
+
+cc(small-12, And-1)
+det(funds-3, those-2)
+poss(investments-5, funds-3)
+nsubj(small-12, investments-5)
+det(region-8, the-7)
+prep_in(investments-5, region-8)
+cop(small-12, are-9)
+advmod(small-12, still-10)
+advmod(small-12, relatively-11)
+root(ROOT-0, small-12)
+dep(percent-18, usually-14)
+advmod(than-16, less-15)
+quantmod(10-17, than-16)
+num(percent-18, 10-17)
+dep(small-12, percent-18)
+det(portfolios-21, the-20)
+prep_of(percent-18, portfolios-21)
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (RB ``Most))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS markets))
+            (PP (IN in)
+              (NP (DT the) (NNP Middle) (NNP East))))))
+      (VP (VBP are)
+        (ADJP (JJ insignificant)
+          (PP (IN in)
+            (NP
+              (NP (NNS terms))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN amount))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN capital))
+                      (VP (VBN invested)
+                        (PP (IN in)
+                          (NP (PRP them)))
+                        (PP (IN from)
+                          (NP (DT the) (NNP United) (NNPS States) (NNP ,'')))))))))))))
+    (VP (VBD said))
+    (NP
+      (NP (NNP Mark) (NNP Madden))
+      (, ,)
+      (NP
+        (NP (NN manager))
+        (PP (IN of)
+          (NP (DT the)
+            (ADJP
+              (QP (CD $250) (CD million)))
+            (NNP Pioneer) (NNP Emerging) (NNPS Markets) (NN fund)))))
+    (. .'')))
+
+nsubj(insignificant-10, ``Most-1)
+det(markets-4, the-3)
+prep_of(``Most-1, markets-4)
+det(East-8, the-6)
+nn(East-8, Middle-7)
+prep_in(markets-4, East-8)
+cop(insignificant-10, are-9)
+dep(said-26, insignificant-10)
+prep_in(insignificant-10, terms-12)
+det(amount-15, the-14)
+prep_of(terms-12, amount-15)
+prep_of(amount-15, capital-17)
+vmod(capital-17, invested-18)
+prep_in(invested-18, them-20)
+det(,''-25, the-22)
+nn(,''-25, United-23)
+nn(,''-25, States-24)
+prep_from(invested-18, ,''-25)
+root(ROOT-0, said-26)
+nn(Madden-28, Mark-27)
+nsubj(said-26, Madden-28)
+appos(Madden-28, manager-30)
+det(fund-38, the-32)
+number(million-34, $250-33)
+num(fund-38, million-34)
+nn(fund-38, Pioneer-35)
+nn(fund-38, Emerging-36)
+nn(fund-38, Markets-37)
+prep_of(manager-30, fund-38)
+punct(said-26, .''-39)
+
+(ROOT
+  (S
+    (NP (NNP Madden))
+    (VP (VBZ invests)
+      (ADVP (RB mainly))
+      (PP (IN in)
+        (NP (NNP Mexico) (, ,) (NNP Brazil)
+          (CC and)
+          (NNP Korea))))
+    (. .)))
+
+nsubj(invests-2, Madden-1)
+root(ROOT-0, invests-2)
+advmod(invests-2, mainly-3)
+prep_in(invests-2, Mexico-5)
+prep_in(invests-2, Brazil-7)
+conj_and(Mexico-5, Brazil-7)
+prep_in(invests-2, Korea-9)
+conj_and(Mexico-5, Korea-9)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT About) (CD 5) (NN percent))
+        (PP (IN of)
+          (NP (PRP$ his) (NN portfolio))))
+      (VP (VBZ is)
+        (PP (IN in)
+          (NP (NNP Israel)))))
+    (CC and)
+    (S
+      (NP
+        (QP (JJR less) (IN than) (CD 1))
+        (JJ percent))
+      (VP (VBZ is)
+        (PP (IN in)
+          (NP (NN Egypt)))))
+    (. .)))
+
+det(percent-3, About-1)
+num(percent-3, 5-2)
+nsubj(is-7, percent-3)
+poss(portfolio-6, his-5)
+prep_of(percent-3, portfolio-6)
+root(ROOT-0, is-7)
+prep_in(is-7, Israel-9)
+mwe(than-12, less-11)
+quantmod(1-13, than-12)
+num(percent-14, 1-13)
+nsubj(is-15, percent-14)
+conj_and(is-7, is-15)
+prep_in(is-15, Egypt-17)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NN Except))
+        (PP (IN during)
+          (NP
+            (NP (JJ such) (NN tense) (NNS times))
+            (PP (IN in)
+              (NP
+                (NP (DT the)
+                  (ADJP
+                    (ADJP (NNP Middle) (NNP East))
+                    (PRN (, ,)
+                      (S
+                        (NP (NNS analysts)
+                          (CC and)
+                          (NN fund) (NNS managers))
+                        (VP (VBD said)))
+                      (, ,)))
+                  (NNS fluctuations))
+                (PP (IN in)
+                  (NP (DT the) (NNP United) (NNPS States) (NNS markets))))))))
+      (, ,)
+      (NP (DT the) (NN biggest))
+      (CC and)
+      (NP
+        (NP (RBS most) (JJ dynamic))
+        (PP (IN in)
+          (NP (DT the) (NN world))))
+      (, ,))
+    (VP (VBP are)
+      (ADJP (RBR more) (JJ likely)
+        (S
+          (VP (TO to)
+            (VP (VB influence)
+              (NP
+                (NP (NN share) (NNS prices))
+                (PP (IN in)
+                  (NP (DT the) (NNP Middle) (NNP East))))
+              (PP (IN than)
+                (NP (NN vice) (NN versa))))))))
+    (. .)))
+
+nsubj(likely-35, Except-1)
+xsubj(influence-37, Except-1)
+amod(times-5, such-3)
+nn(times-5, tense-4)
+prep_during(Except-1, times-5)
+det(fluctuations-17, the-7)
+amod(fluctuations-17, Middle-8)
+amod(Middle-8, East-9)
+nsubj(said-15, analysts-11)
+nn(managers-14, fund-13)
+conj_and(analysts-11, managers-14)
+nsubj(said-15, managers-14)
+dep(Middle-8, said-15)
+prep_in(times-5, fluctuations-17)
+det(markets-22, the-19)
+nn(markets-22, United-20)
+nn(markets-22, States-21)
+prep_in(fluctuations-17, markets-22)
+det(biggest-25, the-24)
+conj_and(Except-1, biggest-25)
+nsubj(likely-35, biggest-25)
+xsubj(influence-37, biggest-25)
+advmod(dynamic-28, most-27)
+conj_and(Except-1, dynamic-28)
+nsubj(likely-35, dynamic-28)
+xsubj(influence-37, dynamic-28)
+det(world-31, the-30)
+prep_in(dynamic-28, world-31)
+cop(likely-35, are-33)
+advmod(likely-35, more-34)
+root(ROOT-0, likely-35)
+aux(influence-37, to-36)
+xcomp(likely-35, influence-37)
+nn(prices-39, share-38)
+dobj(influence-37, prices-39)
+det(East-43, the-41)
+nn(East-43, Middle-42)
+prep_in(prices-39, East-43)
+nn(versa-46, vice-45)
+prep_than(influence-37, versa-46)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT ``The) (JJ first) (NN thing))
+      (SBAR
+        (S
+          (NP (RB overseas) (NNS traders))
+          (VP (VBP want)
+            (S
+              (VP (TO to)
+                (VP (VB know)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP come)
+                        (PP (IN in)
+                          (PP (IN in)
+                            (NP (DT the) (NN morning))))))))))))))
+    (VP (VBZ is) (, ,)
+      (SBAR
+        (S
+          (NP (NN `What))
+          (VP (VBD did)
+            (SBAR
+              (S
+                (NP
+                  (NP (DT the) (NNP Nasdaq))
+                  (CC and)
+                  (NP (DT the) (NNP Dow)))
+                (VP (VBP do))))))))
+    (. ?''')))
+
+det(thing-3, ``The-1)
+amod(thing-3, first-2)
+nsubj(is-16, thing-3)
+advmod(traders-5, overseas-4)
+nsubj(want-6, traders-5)
+xsubj(know-8, traders-5)
+rcmod(thing-3, want-6)
+aux(know-8, to-7)
+xcomp(want-6, know-8)
+advmod(come-11, when-9)
+nsubj(come-11, they-10)
+ccomp(know-8, come-11)
+prep(come-11, in-12)
+pcomp(in-12, in-13)
+det(morning-15, the-14)
+pobj(in-13, morning-15)
+root(ROOT-0, is-16)
+nsubj(did-19, `What-18)
+ccomp(is-16, did-19)
+det(Nasdaq-21, the-20)
+nsubj(do-25, Nasdaq-21)
+det(Dow-24, the-23)
+conj_and(Nasdaq-21, Dow-24)
+nsubj(do-25, Dow-24)
+ccomp(did-19, do-25)
+punct(is-16, ?'''-26)
+
+(ROOT
+  (S
+    (VP (VBD said)
+      (NP
+        (NP (NNP Howard) (NNP Klein))
+        (, ,)
+        (NP
+          (NP (DT an) (JJ institutional) (NN broker) (NN specializing))
+          (PP (IN in)
+            (NP
+              (NP (VBG emerging) (NNS markets))
+              (PP (IN at)
+                (NP
+                  (NP (NNP SG) (NNP Cowen) (NNPS Securities))
+                  (PP (IN in)
+                    (NP (NNP New) (NNP York))))))))))
+    (. .)))
+
+root(ROOT-0, said-1)
+nn(Klein-3, Howard-2)
+dobj(said-1, Klein-3)
+det(specializing-8, an-5)
+amod(specializing-8, institutional-6)
+nn(specializing-8, broker-7)
+appos(Klein-3, specializing-8)
+amod(markets-11, emerging-10)
+prep_in(specializing-8, markets-11)
+nn(Securities-15, SG-13)
+nn(Securities-15, Cowen-14)
+prep_at(markets-11, Securities-15)
+nn(York-18, New-17)
+prep_in(Securities-15, York-18)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Traders))
+      (PP (IN in)
+        (NP
+          (NP (NNP Israel))
+          (PP (IN in)
+            (NP (JJ particular))))))
+    (VP (VB have)
+      (NP
+        (NP (PRP$ their) (NNS eyes))
+        (PP (IN on)
+          (NP (DT the) (NNP Nasdaq)))))
+    (. .)))
+
+nsubj(have-6, Traders-1)
+prep_in(Traders-1, Israel-3)
+prep_in(Israel-3, particular-5)
+root(ROOT-0, have-6)
+poss(eyes-8, their-7)
+dobj(have-6, eyes-8)
+det(Nasdaq-11, the-10)
+prep_on(eyes-8, Nasdaq-11)
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NN country))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (NP
+        (NP (NN home))
+        (PP (TO to)
+          (NP
+            (NP (JJ global) (NN technology))
+            (, ,)
+            (NP
+              (UCP (NN telecommunications)
+                (CC and)
+                (JJ pharmaceutical))
+              (NNS companies))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBP depend)
+                  (PP (IN on)
+                    (NP
+                      (NP (JJ economic) (NNS currents))
+                      (PP (IN in)
+                        (NP (DT the) (NNP United) (NNPS States)
+                          (CC and)
+                          (NNP Europe)))))
+                  (PP
+                    (ADVP (RB much) (JJR more))
+                    (IN than) (IN on)
+                    (NP
+                      (NP (NNS developments))
+                      (PP (IN in)
+                        (NP (DT the) (NNP Middle) (NNP East))))))))))))
+    (. .)))
+
+poss(country-2, Their-1)
+nsubj(home-5, country-2)
+cop(home-5, is-3)
+advmod(home-5, also-4)
+root(ROOT-0, home-5)
+amod(technology-8, global-7)
+prep_to(home-5, technology-8)
+nsubj(depend-16, technology-8)
+nn(companies-13, telecommunications-10)
+conj_and(telecommunications-10, pharmaceutical-12)
+nn(companies-13, pharmaceutical-12)
+appos(technology-8, companies-13)
+rcmod(technology-8, depend-16)
+amod(currents-19, economic-18)
+prep_on(depend-16, currents-19)
+det(States-23, the-21)
+nn(States-23, United-22)
+prep_in(currents-19, States-23)
+prep_in(currents-19, Europe-25)
+conj_and(States-23, Europe-25)
+advmod(more-27, much-26)
+advmod(depend-16, more-27)
+dep(depend-16, than-28)
+prep_on(depend-16, developments-30)
+det(East-34, the-32)
+nn(East-34, Middle-33)
+prep_in(developments-30, East-34)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Shares))
+      (PP (IN of)
+        (NP (JJ many) (NNP Israeli) (NNS companies))))
+    (VP (VBP are)
+      (VP (VBN sold)
+        (PP (IN as)
+          (NP
+            (NP
+              (NP (JJ American) (NN Depository))
+              (NNPS Receipts))
+            (PP (IN on)
+              (NP (DT the) (NNP Nasdaq)))))))
+    (. .)))
+
+nsubjpass(sold-7, Shares-1)
+amod(companies-5, many-3)
+nn(companies-5, Israeli-4)
+prep_of(Shares-1, companies-5)
+auxpass(sold-7, are-6)
+root(ROOT-0, sold-7)
+amod(Depository-10, American-9)
+nn(Receipts-11, Depository-10)
+prep_as(sold-7, Receipts-11)
+det(Nasdaq-14, the-13)
+prep_on(Receipts-11, Nasdaq-14)
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Only) (DT a) (NN handful))
+      (PP (IN of)
+        (NP (JJ small) (NNS funds))))
+    (VP (VBP concentrate)
+      (PP (IN on)
+        (NP (DT the) (NNP Middle) (NNP East))))
+    (. .)))
+
+advmod(handful-3, Only-1)
+det(handful-3, a-2)
+nsubj(concentrate-7, handful-3)
+amod(funds-6, small-5)
+prep_of(handful-3, funds-6)
+root(ROOT-0, concentrate-7)
+det(East-11, the-9)
+nn(East-11, Middle-10)
+prep_on(concentrate-7, East-11)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (CD One))
+        (PP (IN of)
+          (NP (PRP them))))
+      (, ,)
+      (NP (DT the)
+        (ADJP
+          (QP (CD $25) (CD million)))
+        (JJ American) (NNP Israel) (NNP Index) (JJ mutual) (NN fund))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBN made)
+        (PRT (RP up))
+        (PP (RB exclusively) (IN of)
+          (NP
+            (NP (NNP Israeli) (NNS companies))
+            (, ,)
+            (NP
+              (NP (JJ 16) (NN traded))
+              (PP (IN on)
+                (NP (DT the) (NNP Tel) (NNP Aviv) (NN exchange))))
+            (CC and)
+            (NP
+              (NP (CD 19))
+              (PP (IN on)
+                (NP (DT the) (NNP Nasdaq))))))))
+    (. .)))
+
+nsubjpass(made-15, One-1)
+prep_of(One-1, them-3)
+det(fund-12, the-5)
+number(million-7, $25-6)
+num(fund-12, million-7)
+amod(fund-12, American-8)
+nn(fund-12, Israel-9)
+nn(fund-12, Index-10)
+amod(fund-12, mutual-11)
+appos(One-1, fund-12)
+auxpass(made-15, is-14)
+root(ROOT-0, made-15)
+prt(made-15, up-16)
+advmod(made-15, exclusively-17)
+nn(companies-20, Israeli-19)
+prep_of(made-15, companies-20)
+amod(traded-23, 16-22)
+prep_of(made-15, traded-23)
+conj_and(companies-20, traded-23)
+det(exchange-28, the-25)
+nn(exchange-28, Tel-26)
+nn(exchange-28, Aviv-27)
+prep_on(traded-23, exchange-28)
+prep_of(made-15, 19-30)
+conj_and(companies-20, 19-30)
+det(Nasdaq-33, the-32)
+prep_on(19-30, Nasdaq-33)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Like))
+      (VP
+        (ADVP (RBR more) (RB broadly))
+        (VBN based)
+        (NP (JJ mutual) (NNS funds))))
+    (, ,)
+    (NP (PRP$ its) (NNS shares))
+    (VP (VBD fell)
+      (PP (IN during)
+        (NP (DT the) (JJ recent) (NN turmoil))))
+    (. .)))
+
+nsubj(based-4, Like-1)
+advmod(broadly-3, more-2)
+advmod(based-4, broadly-3)
+vmod(fell-10, based-4)
+amod(funds-6, mutual-5)
+dobj(based-4, funds-6)
+poss(shares-9, its-8)
+nsubj(fell-10, shares-9)
+root(ROOT-0, fell-10)
+det(turmoil-14, the-12)
+amod(turmoil-14, recent-13)
+prep_during(fell-10, turmoil-14)
+
+(ROOT
+  (S (CC But)
+    (NP (PRP$ its) (NNS investors))
+    (VP (VBD remained)
+      (ADJP (JJ confident)))
+    (. .)))
+
+cc(confident-5, But-1)
+poss(investors-3, its-2)
+nsubj(confident-5, investors-3)
+cop(confident-5, remained-4)
+root(ROOT-0, confident-5)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ last) (JJ few) (NNS weeks)))
+    (, ,)
+    (NP
+      (NP (NN money) (NN flowing))
+      (PP (IN into)
+        (NP (DT the) (NN fund))))
+    (ADVP (RB far))
+    (VP (VBD exceeded)
+      (NP (NNS redemptions)))
+    (. .)))
+
+det(weeks-5, the-2)
+amod(weeks-5, last-3)
+amod(weeks-5, few-4)
+prep_in(exceeded-13, weeks-5)
+nn(flowing-8, money-7)
+nsubj(exceeded-13, flowing-8)
+det(fund-11, the-10)
+prep_into(flowing-8, fund-11)
+advmod(exceeded-13, far-12)
+root(ROOT-0, exceeded-13)
+dobj(exceeded-13, redemptions-14)
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-10-20-00) (CD 2027EDT))))
+
+num(2027EDT-2, NYT-10-20-00-1)
+root(ROOT-0, 2027EDT-2)
+

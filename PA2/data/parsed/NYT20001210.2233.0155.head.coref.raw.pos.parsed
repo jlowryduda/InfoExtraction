@@ -1,0 +1,695 @@
+(ROOT
+  (NP
+    (NP (CD NYT20001210.2233.0155))
+    (NP (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-12-10) (CD 22:38:00))))
+
+root(ROOT-0, NYT20001210.2233.0155-1)
+nn(STORY-3, NEWS-2)
+dep(NYT20001210.2233.0155-1, STORY-3)
+num(22:38:00-5, 2000-12-10-4)
+dep(NYT20001210.2233.0155-1, 22:38:00-5)
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (CD A5816) (NN &Cx1f))
+      (: ;)
+      (NP
+        (NP (NN taf-z))
+        (PP (IN u)
+          (NP (DT a) (JJ BC-OBIT-GRESSER-NYT) (NN &LR))))
+      (: ;)
+      (NP (CD 12-10) (CD 0288)))))
+
+num(&Cx1f-2, A5816-1)
+root(ROOT-0, &Cx1f-2)
+dep(&Cx1f-2, taf-z-4)
+det(&LR-8, a-6)
+amod(&LR-8, BC-OBIT-GRESSER-NYT-7)
+prep_u(taf-z-4, &LR-8)
+num(0288-11, 12-10-10)
+dep(&Cx1f-2, 0288-11)
+
+(ROOT
+  (NP (NNP BC-OBIT-GRESSER-NYT)))
+
+root(ROOT-0, BC-OBIT-GRESSER-NYT-1)
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP GISELA) (NNP KAHN) (NNP GRESSER))
+      (, ,)
+      (NP (CD 94))
+      (, ,)
+      (NP (NNP NATIONAL) (NNP CHESS) (NNP CHAMPION)))))
+
+nn(GRESSER-3, GISELA-1)
+nn(GRESSER-3, KAHN-2)
+root(ROOT-0, GRESSER-3)
+amod(GRESSER-3, 94-5)
+nn(CHAMPION-9, NATIONAL-7)
+nn(CHAMPION-9, CHESS-8)
+appos(GRESSER-3, CHAMPION-9)
+
+(ROOT
+  (S
+    (VP
+      (NP
+        (NP (NNS &UR))
+        (: ;)
+        (NP (NNP (ATTN))
+        (: :)
+        (NP (NNP Mich) (CD .)) (NN &LR))
+        (: ;)
+        (NP (NNP &QL))
+        (: ;)
+        (NP
+          (NP (NNS &UR))
+          (: ;)
+          (PP (NNP By)
+            (NP (NNP EUN) (NNP LEE) (NNP KOH) (NNP &LR))))
+        (: ;)
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))
+        (: ;)
+        (NP (NNS &UR))
+        (: ;)
+        (NP
+          (NP (CD c.2000))
+          (NP (NNP N.Y)))))
+    (. .)))
+
+root(ROOT-0, &UR-1)
+dep(&UR-1, (ATTN-3)
+nn(&LR-7, Mich-5)
+num(&LR-7, .)-6)
+dep(&UR-1, &LR-7)
+dep(&UR-1, &QL-9)
+dep(&UR-1, &UR-11)
+prep(&UR-11, By-13)
+nn(&LR-17, EUN-14)
+nn(&LR-17, LEE-15)
+nn(&LR-17, KOH-16)
+dep(By-13, &LR-17)
+dep(&UR-1, &QC-19)
+dep(&UR-1, &QL-21)
+dep(&UR-1, &UR-23)
+dep(&UR-1, c.2000-25)
+appos(c.2000-25, N.Y-26)
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
+    (PRN (: ;)
+      (NP
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&LR-4, Times-1)
+nn(&LR-4, News-2)
+nn(&LR-4, Service-3)
+root(ROOT-0, &LR-4)
+dep(&LR-4, &QC-6)
+dep(&QC-6, &QL-8)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Gisela) (NNP Kahn) (NNP Gresser))
+      (, ,)
+      (NP
+        (NP (DT a) (NN pioneer))
+        (PP (IN in)
+          (NP
+            (NP
+              (NP (NNP women) (POS 's))
+              (NN chess))
+            (CC and)
+            (NP (DT a) (JJ nine-time) (JJ national) (NN champion)))))
+      (, ,))
+    (VP (VBD died)
+      (NP (NNP Dec)))
+    (. .)))
+
+nn(Gresser-3, Gisela-1)
+nn(Gresser-3, Kahn-2)
+nsubj(died-17, Gresser-3)
+det(pioneer-6, a-5)
+appos(Gresser-3, pioneer-6)
+poss(chess-10, women-8)
+prep_in(pioneer-6, chess-10)
+det(champion-15, a-12)
+amod(champion-15, nine-time-13)
+amod(champion-15, national-14)
+prep_in(pioneer-6, champion-15)
+conj_and(chess-10, champion-15)
+root(ROOT-0, died-17)
+dobj(died-17, Dec-18)
+
+(ROOT
+  (NP
+    (NP (DT 4))
+    (PP (IN in)
+      (NP (PRP$ her) (NNP New) (NNP York) (NN home)))
+    (. .)))
+
+root(ROOT-0, 4-1)
+poss(home-6, her-3)
+nn(home-6, New-4)
+nn(home-6, York-5)
+prep_in(4-1, home-6)
+
+(ROOT
+  (S
+    (NP (NNP She))
+    (VP (VBD was)
+      (NP (CD 94)))
+    (. .)))
+
+nsubj(94-3, She-1)
+cop(94-3, was-2)
+root(ROOT-0, 94-3)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Gresser))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD was)
+            (NP
+              (NP (NN born))
+              (PP (IN in)
+                (NP (CD 1906)))
+              (PP (IN in)
+                (NP (NNP Detroit)))))))
+      (, ,))
+    (VP (VBD taught)
+      (S
+        (NP (PRP herself))
+        (VP (TO to)
+          (VP (VB play)
+            (NP
+              (NP (NN chess))
+              (VP (VBG using)
+                (NP (DT a) (NN book))
+                (SBAR (IN that)
+                  (S
+                    (NP (DT a) (JJ fellow) (NN passenger))
+                    (VP (VBD gave)
+                      (NP (PRP$ her))
+                      (PP (IN on)
+                        (NP (DT a) (NN cruise)))
+                      (PP (IN in)
+                        (NP (CD 1939))))))))))))
+    (. .)))
+
+nsubj(born-5, Gresser-1)
+nsubj(taught-11, Gresser-1)
+cop(born-5, was-4)
+rcmod(Gresser-1, born-5)
+prep_in(born-5, 1906-7)
+prep_in(born-5, Detroit-9)
+root(ROOT-0, taught-11)
+nsubj(play-14, herself-12)
+aux(play-14, to-13)
+xcomp(taught-11, play-14)
+dobj(play-14, chess-15)
+vmod(chess-15, using-16)
+det(book-18, a-17)
+dobj(using-16, book-18)
+mark(gave-23, that-19)
+det(passenger-22, a-20)
+amod(passenger-22, fellow-21)
+nsubj(gave-23, passenger-22)
+ccomp(using-16, gave-23)
+dobj(gave-23, her-24)
+det(cruise-27, a-26)
+prep_on(gave-23, cruise-27)
+prep_in(gave-23, 1939-29)
+
+(ROOT
+  (S
+    (NP (NNP She))
+    (VP (VBD was)
+      (PP (IN at)
+        (NP
+          (NP (DT the) (NN forefront))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (NNP women) (POS 's))
+                (NN chess))
+              (PP (IN in)
+                (NP (DT the) (NNP United) (NNPS States)))
+              (PP (IN for)
+                (NP
+                  (QP (JJR more) (IN than) (CD three))
+                  (NNS decades))))))))
+    (. .)))
+
+nsubj(was-2, She-1)
+root(ROOT-0, was-2)
+det(forefront-5, the-4)
+prep_at(was-2, forefront-5)
+poss(chess-9, women-7)
+prep_of(forefront-5, chess-9)
+det(States-13, the-11)
+nn(States-13, United-12)
+prep_in(chess-9, States-13)
+mwe(than-16, more-15)
+quantmod(three-17, than-16)
+num(decades-18, three-17)
+prep_for(chess-9, decades-18)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP She))
+        (CC and)
+        (NP
+          (NP (DT a) (NN handful))
+          (PP (IN of)
+            (NP (JJ other) (NNS women)))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (NNP Sonja) (NNP Graf) (NNP Stevenson))
+          (, ,)
+          (NP (NNP Mary) (NNP Bain))
+          (CC and)
+          (NP (NNP Mona) (NNP May) (NNP Karff))))
+      (, ,))
+    (VP (VBD dominated)
+      (NP (NN tournament) (NN competition))
+      (PP (IN from)
+        (NP (DT the) (NNS 1940s)))
+      (PP (TO to)
+        (NP (DT the) (NNS 1970s))))
+    (. .)))
+
+nsubj(dominated-21, She-1)
+det(handful-4, a-3)
+conj_and(She-1, handful-4)
+nsubj(dominated-21, handful-4)
+amod(women-7, other-6)
+prep_of(handful-4, women-7)
+nn(Stevenson-12, Sonja-10)
+nn(Stevenson-12, Graf-11)
+prep_including(She-1, Stevenson-12)
+nn(Bain-15, Mary-14)
+prep_including(She-1, Bain-15)
+conj_and(Stevenson-12, Bain-15)
+nn(Karff-19, Mona-17)
+nn(Karff-19, May-18)
+prep_including(She-1, Karff-19)
+conj_and(Stevenson-12, Karff-19)
+root(ROOT-0, dominated-21)
+nn(competition-23, tournament-22)
+dobj(dominated-21, competition-23)
+det(1940s-26, the-25)
+prep_from(dominated-21, 1940s-26)
+det(1970s-29, the-28)
+prep_to(dominated-21, 1970s-29)
+
+(ROOT
+  (S
+    (NP (NNP Gresser))
+    (VP (VBD entered)
+      (NP (PRP$ her) (JJ first) (NN chess) (NN competition))
+      (PP (IN in)
+        (NP (CD 1940))))
+    (. .)))
+
+nsubj(entered-2, Gresser-1)
+root(ROOT-0, entered-2)
+poss(competition-6, her-3)
+amod(competition-6, first-4)
+nn(competition-6, chess-5)
+dobj(entered-2, competition-6)
+prep_in(entered-2, 1940-8)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (CD 1944)))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBP won)
+      (S
+        (NP (PRP$ her) (JJ first) (NNP U.S.))
+        (NP
+          (NP (NNP Women) (POS 's))
+          (NNP Chess) (NNP Championship))))
+    (. .)))
+
+prep_in(won-5, 1944-2)
+nsubj(won-5, she-4)
+root(ROOT-0, won-5)
+poss(U.S.-8, her-6)
+amod(U.S.-8, first-7)
+nsubj(Championship-12, U.S.-8)
+poss(Championship-12, Women-9)
+nn(Championship-12, Chess-11)
+xcomp(won-5, Championship-12)
+
+(ROOT
+  (S
+    (NP (NNP She))
+    (VP
+      (VP (VBD went)
+        (PRT (IN on))
+        (S
+          (VP (TO to)
+            (VP (VB win)
+              (SBAR
+                (S
+                  (NP (DT the) (NN championship))
+                  (VP (VBD eight)
+                    (NP
+                      (QP (RBR more))
+                      (NNS times)))))))))
+      (, ,)
+      (CC and)
+      (VP (VBD became)
+        (NP
+          (NP (DT the) (JJ first) (NN woman))
+          (PP (IN in)
+            (NP (DT the) (NNP United) (NNPS States))))
+        (S
+          (VP (TO to)
+            (VP (VB earn)
+              (NP
+                (NP (DT a) (NN master) (POS 's))
+                (NN rating)))))))
+    (. .)))
+
+nsubj(went-2, She-1)
+xsubj(win-5, She-1)
+root(ROOT-0, went-2)
+prt(went-2, on-3)
+aux(win-5, to-4)
+xcomp(went-2, win-5)
+det(championship-7, the-6)
+nsubj(eight-8, championship-7)
+ccomp(win-5, eight-8)
+num(times-10, more-9)
+dobj(eight-8, times-10)
+cop(woman-16, became-13)
+det(woman-16, the-14)
+amod(woman-16, first-15)
+conj_and(went-2, woman-16)
+det(States-20, the-18)
+nn(States-20, United-19)
+prep_in(woman-16, States-20)
+aux(earn-22, to-21)
+vmod(woman-16, earn-22)
+det(master-24, a-23)
+poss(rating-26, master-24)
+dobj(earn-22, rating-26)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (CD 1950)))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBD was)
+      (VP
+        (ADVP (RB also))
+        (VBD awarded)
+        (NP (DT an) (JJ international) (NN woman) (NN master) (NN title))))
+    (. .)))
+
+prep_in(awarded-7, 1950-2)
+nsubjpass(awarded-7, she-4)
+auxpass(awarded-7, was-5)
+advmod(awarded-7, also-6)
+root(ROOT-0, awarded-7)
+det(title-12, an-8)
+amod(title-12, international-9)
+nn(title-12, woman-10)
+nn(title-12, master-11)
+dobj(awarded-7, title-12)
+
+(ROOT
+  (S
+    (PP (IN Throughout)
+      (NP (PRP$ her) (NN career)))
+    (, ,)
+    (NP (NNP Gresser))
+    (VP (VBD represented)
+      (NP (DT the) (NNP United) (NNPS States))
+      (PP (IN in)
+        (NP (JJ several) (JJ international) (NNS events))))
+    (. .)))
+
+poss(career-3, her-2)
+prep_throughout(represented-6, career-3)
+nsubj(represented-6, Gresser-5)
+root(ROOT-0, represented-6)
+det(States-9, the-7)
+nn(States-9, United-8)
+dobj(represented-6, States-9)
+amod(events-13, several-11)
+amod(events-13, international-12)
+prep_in(represented-6, events-13)
+
+(ROOT
+  (S
+    (NP (NNP She))
+    (VP (VBN played)
+      (PP (IN in)
+        (NP (CD five)))
+      (NP
+        (NP
+          (NP
+            (NP (NNP Women) (POS 's))
+            (NNPS Candidates))
+          (NP (NNS tournaments)))
+        (CC and)
+        (NP
+          (NP (CD three))
+          (NP
+            (NP (NNP Women) (POS 's))
+            (NNP Chess) (NNP Olympiads)))))
+    (. .)))
+
+nsubj(played-2, She-1)
+root(ROOT-0, played-2)
+prep_in(played-2, five-4)
+poss(Candidates-7, Women-5)
+dobj(played-2, Candidates-7)
+dep(Candidates-7, tournaments-8)
+dobj(played-2, three-10)
+conj_and(Candidates-7, three-10)
+poss(Olympiads-14, Women-11)
+nn(Olympiads-14, Chess-13)
+dep(three-10, Olympiads-14)
+
+(ROOT
+  (S
+    (NP (NNP She))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (PP (IN Women's)
+        (NP (NNP World) (NNP Chess) (NNP Championship) (NN challenger)))
+      (PP (IN in)
+        (NP (CD 1949)
+          (CC and)
+          (CD 1950))))
+    (. .)))
+
+nsubj(was-2, She-1)
+root(ROOT-0, was-2)
+advmod(was-2, also-3)
+nn(challenger-8, World-5)
+nn(challenger-8, Chess-6)
+nn(challenger-8, Championship-7)
+prep_women's(was-2, challenger-8)
+prep_in(was-2, 1949-10)
+prep_in(was-2, 1950-12)
+conj_and(1949-10, 1950-12)
+
+(ROOT
+  (S
+    (NP (NNP She))
+    (VP (VBD retired)
+      (PP (IN from)
+        (NP (JJ professional) (NN chess)))
+      (PP (IN at)
+        (NP (CD 82))))
+    (. .)))
+
+nsubj(retired-2, She-1)
+root(ROOT-0, retired-2)
+amod(chess-5, professional-4)
+prep_from(retired-2, chess-5)
+prep_at(retired-2, 82-7)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (CD 1992)))
+    (NP (PRP she))
+    (VP (VBD became)
+      (NP
+        (NP (DT the) (JJ first) (NN woman))
+        (VP (VBN inducted)
+          (PP (IN into)
+            (NP
+              (NP (DT the) (NNP U.S.) (NNP Chess) (NNP Hall))
+              (PP (IN of)
+                (NP (NNP Fame))))))))
+    (. .)))
+
+prep_in(woman-7, 1992-2)
+nsubj(woman-7, she-3)
+cop(woman-7, became-4)
+det(woman-7, the-5)
+amod(woman-7, first-6)
+root(ROOT-0, woman-7)
+vmod(woman-7, inducted-8)
+det(Hall-13, the-10)
+nn(Hall-13, U.S.-11)
+nn(Hall-13, Chess-12)
+prep_into(inducted-8, Hall-13)
+prep_of(Hall-13, Fame-15)
+
+(ROOT
+  (S
+    (NP (NNP Gresser))
+    (VP
+      (VP (VBD studied)
+        (NP (NNS classics))
+        (PP (IN as)
+          (NP
+            (NP (DT an) (NN undergraduate))
+            (PP (IN at)
+              (NP (NNP Radcliffe) (NNP College))))))
+      (CC and)
+      (VP (VB won)
+        (NP
+          (NP (DT a) (NN fellowship))
+          (PP (IN for)
+            (NP (JJ classical) (NNS studies))))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (JJ American) (NN School))
+            (PP (IN of)
+              (NP (JJ Classical) (NNS Studies)))))
+        (PP (IN in)
+          (NP (NNP Athens) (, ,) (NNP Greece)))))
+    (. .)))
+
+nsubj(studied-2, Gresser-1)
+nsubj(won-11, Gresser-1)
+root(ROOT-0, studied-2)
+dobj(studied-2, classics-3)
+det(undergraduate-6, an-5)
+prep_as(studied-2, undergraduate-6)
+nn(College-9, Radcliffe-8)
+prep_at(undergraduate-6, College-9)
+conj_and(studied-2, won-11)
+det(fellowship-13, a-12)
+dobj(won-11, fellowship-13)
+amod(studies-16, classical-15)
+prep_for(fellowship-13, studies-16)
+det(School-20, the-18)
+amod(School-20, American-19)
+prep_at(won-11, School-20)
+amod(Studies-23, Classical-22)
+prep_of(School-20, Studies-23)
+nn(Greece-27, Athens-25)
+prep_in(won-11, Greece-27)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (CD 1927)))
+    (NP (PRP she))
+    (VP (VBD married)
+      (NP
+        (NP (NNP William) (NNP Gresser))
+        (, ,)
+        (NP (DT a) (NNP New) (NNP York) (NN lawyer))
+        (CC and)
+        (NP (NN musicologist))))
+    (. .)))
+
+prep_in(married-4, 1927-2)
+nsubj(married-4, she-3)
+root(ROOT-0, married-4)
+nn(Gresser-6, William-5)
+dobj(married-4, Gresser-6)
+det(lawyer-11, a-8)
+nn(lawyer-11, New-9)
+nn(lawyer-11, York-10)
+dobj(married-4, lawyer-11)
+conj_and(Gresser-6, lawyer-11)
+dobj(married-4, musicologist-13)
+conj_and(Gresser-6, musicologist-13)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD died)
+      (PP (IN in)
+        (NP (CD 1992))))
+    (. .)))
+
+nsubj(died-2, He-1)
+root(ROOT-0, died-2)
+prep_in(died-2, 1992-4)
+
+(ROOT
+  (S
+    (NP (NNP She))
+    (VP (VBZ is)
+      (VP (VBN survived)
+        (PP (IN by)
+          (NP
+            (NP (CD two) (NNS sons))
+            (, ,)
+            (NP (NNP Ion)
+              (CC and)
+              (NNP Julian))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (DT a) (NN brother))
+              (, ,)
+              (NP (NNP Julius) (NNP Kahn) (NNP Jr)))))))
+    (. .)))
+
+nsubjpass(survived-3, She-1)
+auxpass(survived-3, is-2)
+root(ROOT-0, survived-3)
+num(sons-6, two-5)
+agent(survived-3, sons-6)
+agent(survived-3, Ion-8)
+conj_and(sons-6, Ion-8)
+conj_and(sons-6, Julian-10)
+conj_and(Ion-8, Julian-10)
+det(brother-14, a-13)
+agent(survived-3, brother-14)
+conj_and(sons-6, brother-14)
+nn(Jr-18, Julius-16)
+nn(Jr-18, Kahn-17)
+appos(brother-14, Jr-18)
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-12-10-00) (CD 2238EST))))
+
+num(2238EST-2, NYT-12-10-00-1)
+root(ROOT-0, 2238EST-2)
+

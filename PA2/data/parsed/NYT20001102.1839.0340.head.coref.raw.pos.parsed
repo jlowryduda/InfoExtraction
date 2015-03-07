@@ -1,0 +1,1157 @@
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001102.1839.0340) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-11-02) (CD 19:49:00))))
+
+nn(STORY-3, NYT20001102.1839.0340-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(19:49:00-5, 2000-11-02-4)
+dep(STORY-3, 19:49:00-5)
+
+(ROOT
+  (NP
+    (NP (CD A5439) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NNP taf-z) (NNP u) (NNP p) (NNP BC-BUCHANAN-NYT) (NNP &LR))
+      (: ;)
+      (NP
+        (QP (CD 11-02) (CD 0495))))))
+
+num(&Cx1f-2, A5439-1)
+root(ROOT-0, &Cx1f-2)
+nn(&LR-8, taf-z-4)
+nn(&LR-8, u-5)
+nn(&LR-8, p-6)
+nn(&LR-8, BC-BUCHANAN-NYT-7)
+dep(&Cx1f-2, &LR-8)
+number(0495-11, 11-02-10)
+dep(&LR-8, 0495-11)
+
+(ROOT
+  (NP (NNP BC-BUCHANAN-NYT)))
+
+root(ROOT-0, BC-BUCHANAN-NYT-1)
+
+(ROOT
+  (NP
+    (NP (NNP BUCHANAN))
+    (, ,)
+    (NP (NNP GOING) (NNP WHERE) (NNP OTHERS) (NNP FEAR) (NNP TO))
+    (. TREAD)))
+
+root(ROOT-0, BUCHANAN-1)
+nn(TO-7, GOING-3)
+nn(TO-7, WHERE-4)
+nn(TO-7, OTHERS-5)
+nn(TO-7, FEAR-6)
+appos(BUCHANAN-1, TO-7)
+punct(BUCHANAN-1, TREAD-8)
+
+(ROOT
+  (S
+    (VP
+      (NP
+        (NP (NNS &UR))
+        (: ;)
+        (NP (NNP (ATTN))
+        (: :)
+        (NP (NNP Fla) (CD .)) (NN &LR))
+        (: ;)
+        (NP (NNP &QL))
+        (: ;)
+        (NP (NNS &UR))
+        (: ;)
+        (PP (NNP By)
+          (NP (NNP DAVID) (NNP E)))))
+    (. .)))
+
+root(ROOT-0, &UR-1)
+dep(&UR-1, (ATTN-3)
+nn(&LR-7, Fla-5)
+num(&LR-7, .)-6)
+dep(&UR-1, &LR-7)
+dep(&UR-1, &QL-9)
+dep(&UR-1, &UR-11)
+prep(&UR-1, By-13)
+nn(E-15, DAVID-14)
+dep(By-13, E-15)
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP ROSENBAUM) (NNP &LR))
+      (: ;)
+      (NP (NNP &QC)))
+    (: ;)
+    (NP
+      (NP (NNS &QL))
+      (: ;)
+      (NP (NNS &UR)))
+    (: ;)
+    (NP
+      (NP (CD c.2000))
+      (NP (NNP N.Y)))
+    (. .)))
+
+nn(&LR-2, ROSENBAUM-1)
+root(ROOT-0, &LR-2)
+dep(&LR-2, &QC-4)
+dep(&LR-2, &QL-6)
+dep(&QL-6, &UR-8)
+dep(&LR-2, c.2000-10)
+appos(c.2000-10, N.Y-11)
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
+    (PRN (: ;)
+      (NP
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&LR-4, Times-1)
+nn(&LR-4, News-2)
+nn(&LR-4, Service-3)
+root(ROOT-0, &LR-4)
+dep(&LR-4, &QC-6)
+dep(&QC-6, &QL-8)
+
+(ROOT
+  (S
+    (S
+      (PP
+        (NP (NNP TALLAHASSEE) (, ,) (NNP Fla.) (NNP _))
+        (IN After)
+        (S
+          (VP (VBG throwing)
+            (NP (NNS barbs))
+            (PP (IN at)
+              (NP (PDT all) (DT the) (JJ other) (JJ presidential) (NNS candidates))))))
+      (, ,)
+      (NP
+        (NP (NNP Scott) (NNP Dailey))
+        (, ,)
+        (NP
+          (NP (DT a) (NN member))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN school) (NN board))
+              (ADVP (RB here)))))
+        (, ,))
+      (VP (VBD introduced)
+        (NP (NNP Pat) (NNP Buchanan))
+        (PP (TO to)
+          (NP (DT a) (NN luncheon) (NN audience) (NN Thursday)))
+        (PP (IN by)
+          (NP (NN joshing)))))
+    (: :)
+    (S
+      (NP (NN ``Pat))
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBZ is)
+              (NP (DT a) (JJ serious) (NN candidate)))))))
+    (. .)))
+
+nn(_-4, TALLAHASSEE-1)
+appos(_-4, Fla.-3)
+dep(introduced-26, _-4)
+prepc_after(introduced-26, throwing-6)
+dobj(throwing-6, barbs-7)
+predet(candidates-13, all-9)
+det(candidates-13, the-10)
+amod(candidates-13, other-11)
+amod(candidates-13, presidential-12)
+prep_at(throwing-6, candidates-13)
+nn(Dailey-16, Scott-15)
+nsubj(introduced-26, Dailey-16)
+det(member-19, a-18)
+appos(Dailey-16, member-19)
+det(board-23, the-21)
+nn(board-23, school-22)
+prep_of(member-19, board-23)
+advmod(board-23, here-24)
+root(ROOT-0, introduced-26)
+nn(Buchanan-28, Pat-27)
+dobj(introduced-26, Buchanan-28)
+det(Thursday-33, a-30)
+nn(Thursday-33, luncheon-31)
+nn(Thursday-33, audience-32)
+prep_to(introduced-26, Thursday-33)
+prep_by(introduced-26, joshing-35)
+nsubj(says-38, ``Pat-37)
+parataxis(introduced-26, says-38)
+nsubj(candidate-43, he-39)
+cop(candidate-43, is-40)
+det(candidate-43, a-41)
+amod(candidate-43, serious-42)
+ccomp(says-38, candidate-43)
+
+(ROOT
+  (S
+    (NP (DT The) (NNS polls))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ is)
+            (ADJP (RB dead) (JJ serious))))))
+    (. .'')))
+
+det(polls-2, The-1)
+nsubj(say-3, polls-2)
+root(ROOT-0, say-3)
+nsubj(serious-7, he-4)
+cop(serious-7, is-5)
+advmod(serious-7, dead-6)
+ccomp(say-3, serious-7)
+punct(say-3, .''-8)
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP (DT an) (NN assessment))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNP Buchanan))
+            (, ,)
+            (NP (DT the) (NN Reform) (NNP Party) (NN candidate))
+            (, ,))
+          (VP (VBZ does) (RB not)
+            (VP (VB strenuously)
+              (NP (NN dispute)))))))
+    (. .)))
+
+nsubj(assessment-4, It-1)
+cop(assessment-4, is-2)
+det(assessment-4, an-3)
+root(ROOT-0, assessment-4)
+mark(strenuously-15, that-5)
+nsubj(strenuously-15, Buchanan-6)
+det(candidate-11, the-8)
+nn(candidate-11, Reform-9)
+nn(candidate-11, Party-10)
+appos(Buchanan-6, candidate-11)
+aux(strenuously-15, does-13)
+neg(strenuously-15, not-14)
+ccomp(assessment-4, strenuously-15)
+dobj(strenuously-15, dispute-16)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (RB While) (JJ many))
+        (PP (IN in)
+          (NP (JJ political) (NNS circles))))
+      (VP (VBP believe)
+        (SBAR (IN that)
+          (S
+            (NP (NNP Ralph) (NNP Nader))
+            (VP (MD could)
+              (VP (VB affect)
+                (NP
+                  (NP (DT the) (NN outcome))
+                  (PP (IN of)
+                    (NP (DT the) (NN election))))
+                (NP (JJ next) (NN week))
+                (PP (IN by)
+                  (S
+                    (VP (VBG draining)
+                      (NP (NNS votes))
+                      (ADVP (RB away))
+                      (PP (IN from)
+                        (NP
+                          (NP (NNP Vice) (NNP President) (NNP Al) (NNP Gore))
+                          (PP (IN in)
+                            (NP
+                              (NP (JJ crucial) (NNS states))
+                              (, ,) (RB possibly) (RB even)
+                              (NP (NNP Florida)))))))))))))))
+    (, ,)
+    (ADVP (RB hardly))
+    (S
+      (NP
+        (NP (NN anyone))
+        (, ,)
+        (NP
+          (NP (JJS least))
+          (PP (IN of)
+            (NP (DT all) (NNP Buchanan))))
+        (, ,))
+      (VP (VBZ believes)
+        (SBAR
+          (S
+            (NP (DT the) (NNP Buchanan) (NN candidacy))
+            (VP (MD will)
+              (VP (VB be)
+                (ADJP (JJ decisive))))))))
+    (. .)))
+
+advmod(many-2, While-1)
+nsubj(believe-6, many-2)
+amod(circles-5, political-4)
+prep_in(many-2, circles-5)
+root(ROOT-0, believe-6)
+mark(affect-11, that-7)
+nn(Nader-9, Ralph-8)
+nsubj(affect-11, Nader-9)
+aux(affect-11, could-10)
+ccomp(believe-6, affect-11)
+det(outcome-13, the-12)
+dobj(affect-11, outcome-13)
+det(election-16, the-15)
+prep_of(outcome-13, election-16)
+amod(week-18, next-17)
+tmod(affect-11, week-18)
+prepc_by(affect-11, draining-20)
+dobj(draining-20, votes-21)
+nn(Gore-27, Vice-24)
+nn(Gore-27, President-25)
+nn(Gore-27, Al-26)
+prep_away_from(draining-20, Gore-27)
+amod(states-30, crucial-29)
+prep_in(Gore-27, states-30)
+advmod(states-30, possibly-32)
+advmod(states-30, even-33)
+dep(states-30, Florida-34)
+advmod(believes-44, hardly-36)
+nsubj(believes-44, anyone-37)
+appos(anyone-37, least-39)
+det(Buchanan-42, all-41)
+prep_of(least-39, Buchanan-42)
+parataxis(believe-6, believes-44)
+det(candidacy-47, the-45)
+nn(candidacy-47, Buchanan-46)
+nsubj(decisive-50, candidacy-47)
+aux(decisive-50, will-48)
+cop(decisive-50, be-49)
+ccomp(believes-44, decisive-50)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ does) (RB not)
+      (VP (VB have)
+        (NP (JJ much) (NN support))
+        (PP (IN in)
+          (NP (DT the) (JJ first) (NN place)))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (NP
+              (NP (NNP Dailey) (POS 's))
+              (NN introduction))
+            (VP (VBD implied))))))
+    (. .)))
+
+nsubj(have-4, He-1)
+aux(have-4, does-2)
+neg(have-4, not-3)
+root(ROOT-0, have-4)
+amod(support-6, much-5)
+dobj(have-4, support-6)
+det(place-10, the-8)
+amod(place-10, first-9)
+prep_in(have-4, place-10)
+mark(implied-16, as-12)
+poss(introduction-15, Dailey-13)
+nsubj(implied-16, introduction-15)
+advcl(have-4, implied-16)
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP
+        (NP (DT the) (NN support))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBZ does)
+              (SBAR
+                (S
+                  (VP (VBP have))))))))
+      (, ,)
+      (NP (NNP Buchanan) (NNS feels))
+      (, ,))
+    (VP (VBZ is)
+      (ADJP (IN as) (JJ likely))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN drawn)
+              (PP (IN from)
+                (ADJP (JJ Gore)))
+              (PP (IN as)
+                (PP (IN from)
+                  (NP (NNP Bush)))))))))
+    (. .)))
+
+cc(likely-13, And-1)
+det(support-3, the-2)
+nsubj(likely-13, support-3)
+xsubj(drawn-16, support-3)
+nsubj(does-5, he-4)
+rcmod(support-3, does-5)
+ccomp(does-5, have-6)
+nn(feels-9, Buchanan-8)
+appos(support-3, feels-9)
+cop(likely-13, is-11)
+dep(likely-13, as-12)
+root(ROOT-0, likely-13)
+aux(drawn-16, to-14)
+auxpass(drawn-16, be-15)
+xcomp(likely-13, drawn-16)
+prep_from(drawn-16, Gore-18)
+prepc_as_from(drawn-16, from-20)
+pobj(drawn-16, Bush-21)
+
+(ROOT
+  (S
+    (NP (DT A) (NNP New) (NNP York) (NNP Times) (NNP News))
+    (VP (MD poll)
+      (VP (VBN taken)
+        (SBAR
+          (S
+            (NP (NN statewide))
+            (NP (JJ last) (NN week))
+            (VP (VBD showed)
+              (ADJP (JJ Buchanan))
+              (PP (IN with)
+                (NP
+                  (NP (CD 1) (NN percent))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN vote))
+                      (PP (IN in)
+                        (NP (NNP Florida))))))))))))
+    (. .)))
+
+det(News-5, A-1)
+nn(News-5, New-2)
+nn(News-5, York-3)
+nn(News-5, Times-4)
+nsubj(taken-7, News-5)
+aux(taken-7, poll-6)
+root(ROOT-0, taken-7)
+nsubj(showed-11, statewide-8)
+amod(week-10, last-9)
+nsubj(showed-11, week-10)
+ccomp(taken-7, showed-11)
+acomp(showed-11, Buchanan-12)
+num(percent-15, 1-14)
+prep_with(showed-11, percent-15)
+det(vote-18, the-17)
+prep_of(percent-15, vote-18)
+prep_in(vote-18, Florida-20)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ is)
+      (ADVP (RB apparently))
+      (RB not)
+      (VP (VBG doing)
+        (ADVP (RB much) (RBR better) (RB anywhere))
+        (S
+          (VP (VB else)
+            (PP (IN in)
+              (NP (DT the) (NN country)))))))
+    (. .)))
+
+nsubj(doing-5, He-1)
+aux(doing-5, is-2)
+advmod(doing-5, apparently-3)
+neg(doing-5, not-4)
+root(ROOT-0, doing-5)
+advmod(anywhere-8, much-6)
+advmod(anywhere-8, better-7)
+advmod(doing-5, anywhere-8)
+ccomp(doing-5, else-9)
+det(country-12, the-11)
+prep_in(else-9, country-12)
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT a) (NN news) (NN conference)))
+    (ADVP (RB here) (RB Thursday))
+    (, ,)
+    (NP (NNP Buchanan))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (CD one) (NN problem))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBD faced)))))
+          (VP (VBD was)
+            (NP
+              (NP (PRP$ his) (NN lack))
+              (PP (IN of)
+                (NP (NN support))))
+            (PP (IN from)
+              (NP (JJ conservative) (NNPS Republicans)))))))
+    (. .)))
+
+det(conference-4, a-2)
+nn(conference-4, news-3)
+prep_at(said-9, conference-4)
+advmod(Thursday-6, here-5)
+advmod(said-9, Thursday-6)
+nsubj(said-9, Buchanan-8)
+root(ROOT-0, said-9)
+num(problem-11, one-10)
+nsubj(lack-16, problem-11)
+nsubj(faced-13, he-12)
+rcmod(problem-11, faced-13)
+cop(lack-16, was-14)
+poss(lack-16, his-15)
+ccomp(said-9, lack-16)
+prep_of(lack-16, support-18)
+amod(Republicans-21, conservative-20)
+prep_from(lack-16, Republicans-21)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT ``The) (JJ great) (VBG driving) (NN factor))
+      (PP (IN of)
+        (NP (NNS conservatives))))
+    (PRN (, ,'')
+      (S
+        (NP (PRP he))
+        (VP (VBD said)))
+      (, ,))
+    (VP (VBZ ``is)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP
+              (NP (NN rid))
+              (PP (IN of)
+                (NP (NNP Al) (NNP Gore))))))))
+    (. .'')))
+
+det(factor-4, ``The-1)
+amod(factor-4, great-2)
+amod(factor-4, driving-3)
+nsubj(``is-11, factor-4)
+xsubj(get-13, factor-4)
+prep_of(factor-4, conservatives-6)
+punct(said-9, ,''-7)
+nsubj(said-9, he-8)
+parataxis(``is-11, said-9)
+root(ROOT-0, ``is-11)
+aux(get-13, to-12)
+xcomp(``is-11, get-13)
+dobj(get-13, rid-14)
+nn(Gore-17, Al-16)
+prep_of(rid-14, Gore-17)
+punct(``is-11, .''-18)
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Many))
+      (PP (IN of)
+        (NP
+          (NP (DT those))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (MD will)
+                (VP (VB vote)
+                  (PP (IN for)
+                    (NP (PRP him))))))))))
+    (PRN (, ,)
+      (NP (NNP Buchanan))
+      (VP (VBD said))
+      (, ,))
+    (VP (MD would)
+      (ADVP (RB probably) (RB not) (RB bother))
+      (S
+        (VP (TO to)
+          (VP (VB vote))))
+      (SBAR (IN if)
+        (S
+          (NP (PRP he))
+          (VP (VBD were) (RB not)
+            (PP (IN in)
+              (NP (DT the) (NN race)))))))
+    (. .)))
+
+nsubj(would-13, Many-1)
+xsubj(vote-18, Many-1)
+prep_of(Many-1, those-3)
+nsubj(vote-6, those-3)
+aux(vote-6, will-5)
+rcmod(those-3, vote-6)
+prep_for(vote-6, him-8)
+nsubj(said-11, Buchanan-10)
+parataxis(would-13, said-11)
+root(ROOT-0, would-13)
+advmod(bother-16, probably-14)
+dep(bother-16, not-15)
+advmod(would-13, bother-16)
+aux(vote-18, to-17)
+xcomp(would-13, vote-18)
+mark(were-21, if-19)
+nsubj(were-21, he-20)
+advcl(would-13, were-21)
+neg(were-21, not-22)
+det(race-25, the-24)
+prep_in(were-21, race-25)
+
+(ROOT
+  (S
+    (NP (NNS Others))
+    (, ,)
+    (S
+      (NP (PRP he))
+      (VP (VBD said)))
+    (, ,)
+    (VP (VBP are)
+      (ADJP (JJ ``social)))
+    (NP (JJ conservative) (NNPS Republicans))
+    (. .'')))
+
+nsubj(``social-7, Others-1)
+nsubj(said-4, he-3)
+ccomp(``social-7, said-4)
+cop(``social-7, are-6)
+root(ROOT-0, ``social-7)
+amod(Republicans-9, conservative-8)
+dep(``social-7, Republicans-9)
+punct(``social-7, .''-10)
+
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (NP (NNS others))
+    (VP (VBP are)
+      (NP
+        (NP (JJ blue-collar) (NNPS Democrats))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VB like)
+              (NP (PRP$ his) (NN protectionist) (NN trade) (NNS policies))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP fear)
+                    (SBAR
+                      (S
+                        (NP (PRP$ their) (NNS jobs))
+                        (VP (MD could)
+                          (VP (VB go)
+                            (ADVP (RB overseas))))))))))))))
+    (. .)))
+
+advmod(Democrats-5, Still-1)
+nsubj(Democrats-5, others-2)
+cop(Democrats-5, are-3)
+amod(Democrats-5, blue-collar-4)
+root(ROOT-0, Democrats-5)
+nsubj(like-7, Democrats-5)
+rcmod(Democrats-5, like-7)
+poss(policies-11, his-8)
+nn(policies-11, protectionist-9)
+nn(policies-11, trade-10)
+dobj(like-7, policies-11)
+mark(fear-14, because-12)
+nsubj(fear-14, they-13)
+advcl(like-7, fear-14)
+poss(jobs-16, their-15)
+nsubj(go-18, jobs-16)
+aux(go-18, could-17)
+ccomp(fear-14, go-18)
+advmod(go-18, overseas-19)
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (NNP Bush)
+          (CC and)
+          (NNP Gore))
+        (VP (VBP are)
+          (PP (IN in)
+            (NP (NNP Florida))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (NN talk)
+      (PP (IN about)
+        (NP
+          (NP (NNP Social) (NNP Security))
+          (, ,)
+          (NP (NNP Medicare))
+          (, ,)
+          (NP (NNS taxes))
+          (CC and)
+          (NP (NN education)))))
+    (. .)))
+
+advmod(are-5, When-1)
+nsubj(are-5, Bush-2)
+conj_and(Bush-2, Gore-4)
+nsubj(are-5, Gore-4)
+advcl(talk-10, are-5)
+prep_in(are-5, Florida-7)
+nsubj(talk-10, they-9)
+root(ROOT-0, talk-10)
+nn(Security-13, Social-12)
+prep_about(talk-10, Security-13)
+prep_about(talk-10, Medicare-15)
+conj_and(Security-13, Medicare-15)
+prep_about(talk-10, taxes-17)
+conj_and(Security-13, taxes-17)
+prep_about(talk-10, education-19)
+conj_and(Security-13, education-19)
+
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (NNS speeches))
+          (PP (IN like)
+            (NP (DT the) (CD one)))))
+      (NP (PRP he))
+      (VP (VBD gave)
+        (NP (NN Thursday))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NNP Tiger) (NNP Bay) (NNP Club))
+            (VP (VBN downtown))))))
+    (, ,)
+    (NP (NNP Buchanan))
+    (VP (VBD talked)
+      (PP (IN about)
+        (NP
+          (NP (NNS issues))
+          (SBAR (IN that)
+            (FRAG
+              (NP
+                (NP (DT the) (JJ other) (NNS candidates))
+                (NP (NN skip)))
+              (: :)
+              (NP
+                (NP (NN immigration))
+                (, ,)
+                (NP (DT the) (NN culture) (NN war))
+                (, ,)
+                (NP (NN school) (NN prayer))
+                (CC and)
+                (NP (JJ international) (NN trade))))))))
+    (. .)))
+
+prep_in(gave-7, speeches-2)
+det(one-5, the-4)
+prep_like(speeches-2, one-5)
+nsubj(gave-7, he-6)
+ccomp(talked-17, gave-7)
+tmod(gave-7, Thursday-8)
+det(Club-13, the-10)
+nn(Club-13, Tiger-11)
+nn(Club-13, Bay-12)
+prep_to(gave-7, Club-13)
+vmod(Club-13, downtown-14)
+nsubj(talked-17, Buchanan-16)
+root(ROOT-0, talked-17)
+prep_about(talked-17, issues-19)
+mark(candidates-23, that-20)
+det(candidates-23, the-21)
+amod(candidates-23, other-22)
+dep(issues-19, candidates-23)
+dep(candidates-23, skip-24)
+dep(candidates-23, immigration-26)
+det(war-30, the-28)
+nn(war-30, culture-29)
+dep(candidates-23, war-30)
+conj_and(immigration-26, war-30)
+nn(prayer-33, school-32)
+dep(candidates-23, prayer-33)
+conj_and(immigration-26, prayer-33)
+amod(trade-36, international-35)
+dep(candidates-23, trade-36)
+conj_and(immigration-26, trade-36)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Buchanan) (POS 's))
+        (NN television) (NNS advertisements))
+      (PP (IN in)
+        (NP (JJ northern) (NNP Florida))))
+    (ADVP (RB also))
+    (VP (VB deal)
+      (PP (IN with)
+        (NP
+          (NP (NNS issues))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP are) (RB not)
+                (VP (VBG being)
+                  (VP (VBN addressed)
+                    (PP (IN by)
+                      (NP (NNS others))))))))
+          (: :)
+          (ADJP (JJ English)
+            (PP (IN as)
+              (NP
+                (NP (DT an) (NN official) (NN language))
+                (CC and)
+                (NP
+                  (NP (DT the) (NN right))
+                  (PP (IN of)
+                    (NP (DT the) (NNP Boy) (NNPS Scouts))))))
+            (S
+              (VP (TO to)
+                (VP (VB exclude)
+                  (NP (NNS gays)))))))))
+    (. .)))
+
+poss(advertisements-4, Buchanan-1)
+nn(advertisements-4, television-3)
+nsubj(deal-9, advertisements-4)
+amod(Florida-7, northern-6)
+prep_in(advertisements-4, Florida-7)
+advmod(deal-9, also-8)
+root(ROOT-0, deal-9)
+prep_with(deal-9, issues-11)
+nsubjpass(addressed-16, issues-11)
+aux(addressed-16, are-13)
+neg(addressed-16, not-14)
+auxpass(addressed-16, being-15)
+rcmod(issues-11, addressed-16)
+agent(addressed-16, others-18)
+amod(issues-11, English-20)
+det(language-24, an-22)
+nn(language-24, official-23)
+prep_as(English-20, language-24)
+det(right-27, the-26)
+prep_as(English-20, right-27)
+conj_and(language-24, right-27)
+det(Scouts-31, the-29)
+nn(Scouts-31, Boy-30)
+prep_of(right-27, Scouts-31)
+aux(exclude-33, to-32)
+xcomp(English-20, exclude-33)
+dobj(exclude-33, gays-34)
+
+(ROOT
+  (S
+    (NP (DT A) (JJ new) (NN advertisement))
+    (VP (VBZ depicts)
+      (NP (NNP Gore)
+        (CC and)
+        (NNP Bush))
+      (PP (IN as)
+        (S
+          (VP (VBG selling)
+            (PRT (RP out))
+            (PP (TO to)
+              (NP (JJ special) (NNS interests)))))))
+    (. .)))
+
+det(advertisement-3, A-1)
+amod(advertisement-3, new-2)
+nsubj(depicts-4, advertisement-3)
+root(ROOT-0, depicts-4)
+dobj(depicts-4, Gore-5)
+dobj(depicts-4, Bush-7)
+conj_and(Gore-5, Bush-7)
+prepc_as(depicts-4, selling-9)
+prt(selling-9, out-10)
+amod(interests-13, special-12)
+prep_to(selling-9, interests-13)
+
+(ROOT
+  (S
+    (NP (NNP Why))
+    (VP (VBZ is)
+      (S
+        (NP (PRP he))
+        (VP (VBG running)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP he))
+              (VP (VBZ knows)
+                (SBAR
+                  (S
+                    (NP (PRP he))
+                    (VP (VBZ has)
+                      (NP (DT no) (NN chance)
+                        (S
+                          (VP (TO to)
+                            (VP
+                              (VP (VB win))
+                              (CC or)
+                              (VP
+                                (ADVP (RB even))
+                                (VB affect)
+                                (NP (DT the) (NN outcome))))))))))))))))
+    (. ?)))
+
+nsubj(is-2, Why-1)
+root(ROOT-0, is-2)
+nsubj(running-4, he-3)
+dep(is-2, running-4)
+advmod(knows-7, when-5)
+nsubj(knows-7, he-6)
+advcl(running-4, knows-7)
+nsubj(has-9, he-8)
+ccomp(knows-7, has-9)
+neg(chance-11, no-10)
+dobj(has-9, chance-11)
+aux(win-13, to-12)
+vmod(chance-11, win-13)
+advmod(affect-16, even-15)
+vmod(chance-11, affect-16)
+conj_or(win-13, affect-16)
+det(outcome-18, the-17)
+dobj(affect-16, outcome-18)
+
+(ROOT
+  (S
+    (S
+      (NP (PRP ``We))
+      (VP (VBP want)
+        (S
+          (VP (TO to)
+            (VP (VB build)
+              (NP (DT a) (JJ new) (JJ third) (NN party))
+              (PP (IN _)
+                (NP (DT a) (JJ conservative) (NN party))))))))
+    (, ,'')
+    (NP (NNP Buchanan))
+    (VP (VBD said))
+    (. .)))
+
+nsubj(want-2, ``We-1)
+xsubj(build-4, ``We-1)
+ccomp(said-15, want-2)
+aux(build-4, to-3)
+xcomp(want-2, build-4)
+det(party-8, a-5)
+amod(party-8, new-6)
+amod(party-8, third-7)
+dobj(build-4, party-8)
+det(party-12, a-10)
+amod(party-12, conservative-11)
+prep__(build-4, party-12)
+punct(said-15, ,''-13)
+nsubj(said-15, Buchanan-14)
+root(ROOT-0, said-15)
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One) (NN main) (NN goal))
+      (, ,)
+      (NP
+        (NP (RB almost) (RB certainly))
+        (PP (RB out) (IN of)
+          (NP (NN reach))))
+      (, ,))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP
+              (NP (CD 5) (NN percent))
+              (PP (IN of)
+                (NP (DT the) (NN vote))))
+            (ADVP (RB nationally))
+            (SBAR (RB so) (IN that)
+              (S
+                (NP (DT the) (NN Reform) (NNP Party))
+                (VP (MD can)
+                  (VP (VB get)
+                    (NP (JJ federal) (NN matching) (NNS funds))
+                    (PP (IN in)
+                      (NP (DT the) (JJ next) (JJ presidential) (NN election)))))))))))
+    (. .)))
+
+num(goal-3, One-1)
+nn(goal-3, main-2)
+nsubj(is-11, goal-3)
+xsubj(get-13, goal-3)
+advmod(certainly-6, almost-5)
+appos(goal-3, certainly-6)
+prep_out_of(certainly-6, reach-9)
+root(ROOT-0, is-11)
+aux(get-13, to-12)
+xcomp(is-11, get-13)
+num(percent-15, 5-14)
+dobj(get-13, percent-15)
+det(vote-18, the-17)
+prep_of(percent-15, vote-18)
+advmod(get-13, nationally-19)
+advmod(get-26, so-20)
+mark(get-26, that-21)
+det(Party-24, the-22)
+nn(Party-24, Reform-23)
+nsubj(get-26, Party-24)
+aux(get-26, can-25)
+advcl(get-13, get-26)
+amod(funds-29, federal-27)
+nn(funds-29, matching-28)
+dobj(get-26, funds-29)
+det(election-34, the-31)
+amod(election-34, next-32)
+amod(election-34, presidential-33)
+prep_in(get-26, election-34)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Here))
+      (VP (VBZ is)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (PRP he))
+            (VP (VBD described)
+              (NP
+                (NP
+                  (NP (DT this) (NN year) (POS 's))
+                  (JJ presidential) (NN race))
+                (: :)
+                (NP
+                  (NP (NNP ``When))
+                  (SBAR
+                    (S
+                      (NP (PRP you))
+                      (VP (VBD had)
+                        (NP (NNP Goldwater) (NN versus) (NNP Johnson))))))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBD had)
+      (NP (NN clarity)))
+    (. .)))
+
+nsubj(is-2, Here-1)
+ccomp(had-20, is-2)
+advmod(described-5, how-3)
+nsubj(described-5, he-4)
+ccomp(is-2, described-5)
+det(year-7, this-6)
+poss(race-10, year-7)
+amod(race-10, presidential-9)
+dobj(described-5, race-10)
+dep(race-10, ``When-12)
+nsubj(had-14, you-13)
+rcmod(``When-12, had-14)
+nn(Johnson-17, Goldwater-15)
+nn(Johnson-17, versus-16)
+dobj(had-14, Johnson-17)
+nsubj(had-20, you-19)
+root(ROOT-0, had-20)
+dobj(had-20, clarity-21)
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP you))
+        (VP (VBD had)
+          (NP
+            (NP (NNP Nixon))
+            (CC and)
+            (NP (NNP Agnew) (NN versus) (NNP McGovern))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBD had)
+      (NP (NN clarity)))
+    (. .)))
+
+advmod(had-3, When-1)
+nsubj(had-3, you-2)
+advcl(had-11, had-3)
+dobj(had-3, Nixon-4)
+nn(McGovern-8, Agnew-6)
+nn(McGovern-8, versus-7)
+dobj(had-3, McGovern-8)
+conj_and(Nixon-4, McGovern-8)
+nsubj(had-11, you-10)
+root(ROOT-0, had-11)
+dobj(had-11, clarity-12)
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP you))
+        (VP (VBD had)
+          (NP (NNP Reagan) (NN versus) (NNP Mondale)))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBD had)
+      (NP (NN clarity)))
+    (. .'')))
+
+advmod(had-3, When-1)
+nsubj(had-3, you-2)
+advcl(had-9, had-3)
+nn(Mondale-6, Reagan-4)
+nn(Mondale-6, versus-5)
+dobj(had-3, Mondale-6)
+nsubj(had-9, you-8)
+root(ROOT-0, had-9)
+dobj(had-9, clarity-10)
+punct(had-9, .''-11)
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN year))
+      (, ,)
+      (NP (PRP he))
+      (VP (VBD said)))
+    (, ,)
+    (NP (DT the) (NN major-party))
+    (VP (VBZ candidates)
+      (NP (NN campaign))
+      (PP (IN with)
+        (NP (DT a) (JJ ``conscious) (NN vagueness))))
+    (. .'')))
+
+det(year-2, This-1)
+tmod(said-5, year-2)
+nsubj(said-5, he-4)
+ccomp(candidates-9, said-5)
+det(major-party-8, the-7)
+nsubj(candidates-9, major-party-8)
+root(ROOT-0, candidates-9)
+dobj(candidates-9, campaign-10)
+det(vagueness-14, a-12)
+amod(vagueness-14, ``conscious-13)
+prep_with(candidates-9, vagueness-14)
+punct(candidates-9, .''-15)
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-11-02-00) (CD 1949EST))))
+
+num(1949EST-2, NYT-11-02-00-1)
+root(ROOT-0, 1949EST-2)
+

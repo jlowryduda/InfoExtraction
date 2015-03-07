@@ -1,10 +1,10 @@
 import sys
 import os
 import json
-from nltk.tree import Tree
+#from nltk.tree import Tree
 
 def read_from_file(filename):
-    with open(filename, 'r') as infile:
+    with open(os.getcwd() + '/data/' + filename, 'r') as infile:
         lines = infile.readlines()
 
     lines = [line.split() for line in lines]
@@ -129,8 +129,9 @@ def get_paths(tree, start, end):
 def is_appositive(line, constituents):
     if line[1] == line[6]:
         tree = constituents[int(line[1])]
-        start = int(line[2])
-        end = int(line[7])
+        indices = [int(line[2]), int(line[3]), int(line[7]), int(line[8])]
+        start = min(indices)
+        end = min(max(indices), len(tree.leaves()))
         subtree = tree[tree.treeposition_spanning_leaves(start, end)]
 
         if len(subtree) >= 4:
@@ -144,26 +145,29 @@ def is_appositive(line, constituents):
                 # Here we need to perform some logical tests on the paths,
                 # and then decide whether or not to reply:
                 return "is_appositive=1"
-    else:
-        return "is_appositive=0"
+    
+    return "is_appositive=0"
 
 
 def extract_features(lines, train=False):
     features = []
-    j_path = os.getcwd() + '/jsons/'
-    p_path = os.getcwd() + '/parsed/'
+    j_path = os.getcwd() + '/data/jsons/'
+    p_path = os.getcwd() + '/data/parsed/'
     curr_file = None
+    i = 0
     for line in lines:
     	if line[0] != curr_file:
+            i += 1
             curr_file = line[0]
+            print(i, curr_file)
             with open(j_path + curr_file + '.raw.json', 'r') as infile:
                 sents = json.load(infile)
             with open(p_path + curr_file + '.raw.pos.parsed', 'r') as infile:
-                sents = infile.read()
-                sents = sents.split('\n\n')
-                sents = [sent for sent in sents if len(sent) > 0]
+                parses = infile.read()
+                parses = parses.split('\n\n')
+                parses = [sent for sent in parses if len(sent) > 0]
                 # Skip over dependency trees for now
-                constituents = [s for i, s in enumerate(sents) if i % 2 == 0]
+                constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_distance(line),
                   is_contained(line),
@@ -189,6 +193,7 @@ def write_to_file(filename, features):
 
 
 if __name__ == "__main__":
+    from nltk.tree import Tree
     if len(sys.argv) != 4:
         print("Specify an input filename, an output filename, and")
         print("either 'train' or 'test' depending on datatype")

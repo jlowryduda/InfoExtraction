@@ -1,0 +1,1145 @@
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001122.2009.0333) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-11-22) (CD 20:35:00))))
+
+nn(STORY-3, NYT20001122.2009.0333-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(20:35:00-5, 2000-11-22-4)
+dep(STORY-3, 20:35:00-5)
+
+(ROOT
+  (NP
+    (NP (CD A8450) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NNP taf-z) (NNP u) (NNP f) (NNP BC-EXP-LUXURY-GOODS-NYT) (NNP &LR))
+      (: ;)
+      (NP
+        (QP (CD 11-22) (CD 0502))))))
+
+num(&Cx1f-2, A8450-1)
+root(ROOT-0, &Cx1f-2)
+nn(&LR-8, taf-z-4)
+nn(&LR-8, u-5)
+nn(&LR-8, f-6)
+nn(&LR-8, BC-EXP-LUXURY-GOODS-NYT-7)
+dep(&Cx1f-2, &LR-8)
+number(0502-11, 11-22-10)
+dep(&LR-8, 0502-11)
+
+(ROOT
+  (NP (NNP BC-EXP-LUXURY-GOODS-NYT)))
+
+root(ROOT-0, BC-EXP-LUXURY-GOODS-NYT-1)
+
+(ROOT
+  (NP
+    (NP (DT ANOTHER))
+    (NP (NNP JOLLY) (NNP SEASON) (NNP IN))
+    (NP (NNP STORE) (NNP FOR) (NNP LUXURY) (NNP GOODS))))
+
+root(ROOT-0, ANOTHER-1)
+nn(IN-4, JOLLY-2)
+nn(IN-4, SEASON-3)
+dep(ANOTHER-1, IN-4)
+nn(GOODS-8, STORE-5)
+nn(GOODS-8, FOR-6)
+nn(GOODS-8, LUXURY-7)
+dep(ANOTHER-1, GOODS-8)
+
+(ROOT
+  (NP
+    (NP (NNS (EDS))
+    (: :)
+    (S
+      (NP (DT This) (NN article))
+      (VP (VBZ is)
+        (NP
+          (NP (NN part))
+          (PP (IN of)
+            (NP (NNP TIMES) (NNP EXPRESS))))))
+    (. .)))
+
+root(ROOT-0, (EDS-1)
+det(article-4, This-3)
+nsubj(part-6, article-4)
+cop(part-6, is-5)
+dep((EDS-1, part-6)
+nn(EXPRESS-9, TIMES-8)
+prep_of(part-6, EXPRESS-9)
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ condensed) (NN version))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN story))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (MD will)
+                  (VP (VB appear)
+                    (PP (IN in)
+                      (NP
+                        (NP (NNP tomorrow) (POS 's))
+                        (NNP New) (NNP York) (NNP Times)))))))))))
+    (. .)))
+
+nsubj(version-5, It-1)
+cop(version-5, is-2)
+det(version-5, a-3)
+amod(version-5, condensed-4)
+root(ROOT-0, version-5)
+det(story-8, a-7)
+prep_of(version-5, story-8)
+nsubj(appear-11, story-8)
+aux(appear-11, will-10)
+rcmod(story-8, appear-11)
+poss(Times-17, tomorrow-13)
+nn(Times-17, New-15)
+nn(Times-17, York-16)
+prep_in(appear-11, Times-17)
+
+(ROOT
+  (NP
+    (NP (JJ ART) (NN ADV))
+    (: :)
+    (S
+      (NP (NNP Graphic))
+      (VP (VBZ is)
+        (VP (VBG being)
+          (VP (VBN sent)
+            (PP (TO to)
+              (NP (NNP NYT) (JJ graphic) (NNS clients)))))))
+    (. .)))
+
+amod(ADV-2, ART-1)
+root(ROOT-0, ADV-2)
+nsubjpass(sent-7, Graphic-4)
+aux(sent-7, is-5)
+auxpass(sent-7, being-6)
+dep(ADV-2, sent-7)
+nn(clients-11, NYT-9)
+amod(clients-11, graphic-10)
+prep_to(sent-7, clients-11)
+
+(ROOT
+  (S
+    (NP (NNS Nonsubscribers))
+    (VP (MD can)
+      (VP (VB make)
+        (NP (JJ individual) (NN purchase))
+        (PP (IN by)
+          (S
+            (VP (VBG calling)
+              (NP (CD 888-603-1036)
+                (CC or)
+                (CD 888-346-9867))
+              (NP
+                (NP (JJ .)) (NNS &QL))
+                (: ;)
+                (NP
+                  (NP (NNS &UR))
+                  (: ;)
+                  (PP (NNP By)
+                    (NP (NNP LESLIE) (NNP KAUFMAN) (NNP &LR))))
+                (: ;)
+                (NP (NNP &QC))
+                (: ;)
+                (NP (NNS &QL))
+                (: ;)
+                (NP (NNS &UR))
+                (: ;)
+                (NP
+                  (NP (CD c.2000))
+                  (NP (NNP N.Y)))))))))
+    (. .)))
+
+nsubj(make-3, Nonsubscribers-1)
+aux(make-3, can-2)
+root(ROOT-0, make-3)
+amod(purchase-5, individual-4)
+dobj(make-3, purchase-5)
+prepc_by(make-3, calling-7)
+iobj(calling-7, 888-603-1036-8)
+iobj(calling-7, 888-346-9867-10)
+conj_or(888-603-1036-8, 888-346-9867-10)
+amod(&QL-12, .)-11)
+dobj(calling-7, &QL-12)
+dep(&QL-12, &UR-14)
+prep(&UR-14, By-16)
+nn(&LR-19, LESLIE-17)
+nn(&LR-19, KAUFMAN-18)
+dep(By-16, &LR-19)
+dep(&QL-12, &QC-21)
+dep(&QL-12, &QL-23)
+dep(&QL-12, &UR-25)
+dep(&QL-12, c.2000-27)
+appos(c.2000-27, N.Y-28)
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
+    (PRN (: ;)
+      (NP
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&LR-4, Times-1)
+nn(&LR-4, News-2)
+nn(&LR-4, Service-3)
+root(ROOT-0, &LR-4)
+dep(&LR-4, &QC-6)
+dep(&QC-6, &QL-8)
+
+(ROOT
+  (S
+    (ADVP (RB While))
+    (NP (JJS most) (NNPS Americans))
+    (VP (MD would)
+      (VP (VB be)
+        (NP
+          (NP
+            (NP (NN content))
+            (PP (IN with)
+              (NP (DT a) (NNP Sony) (NNP Playstation) (NNP II))))
+          (CC or)
+          (NP
+            (NP (DT a) (JJR sweater) (NN twin))
+            (VP (VBN set)
+              (PP (IN under)
+                (NP (DT the) (NN tree)))
+              (NP (DT this) (NN year))
+              (, ,)
+              (SBAR (IN for)
+                (S
+                  (NP
+                    (NP (DT an) (JJ increasing) (NN number))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNS people))
+                        (ADVP (RB mere)))))
+                  (ADVP (RB cashmere))
+                  (VP (VBZ does) (RB not)
+                    (VP (VB say)
+                      (S
+                        (NP (NNP ``I))
+                        (VP (VB love)
+                          (NP (PRP you))
+                          ('' '')
+                          (PP (IN with) (IN quite)
+                            (NP
+                              (NP (DT the) (JJ same) (NN authority))
+                              (PP (IN as)
+                                (NP (NN pashmina))))))))))))))))
+    (. .)))
+
+advmod(content-6, While-1)
+amod(Americans-3, most-2)
+nsubj(content-6, Americans-3)
+aux(content-6, would-4)
+cop(content-6, be-5)
+root(ROOT-0, content-6)
+det(II-11, a-8)
+nn(II-11, Sony-9)
+nn(II-11, Playstation-10)
+prep_with(content-6, II-11)
+det(twin-15, a-13)
+amod(twin-15, sweater-14)
+conj_or(content-6, twin-15)
+vmod(twin-15, set-16)
+det(tree-19, the-18)
+prep_under(set-16, tree-19)
+det(year-21, this-20)
+tmod(set-16, year-21)
+mark(say-33, for-23)
+det(number-26, an-24)
+amod(number-26, increasing-25)
+nsubj(say-33, number-26)
+prep_of(number-26, people-28)
+advmod(people-28, mere-29)
+advmod(say-33, cashmere-30)
+aux(say-33, does-31)
+neg(say-33, not-32)
+advcl(set-16, say-33)
+nsubj(love-35, ``I-34)
+ccomp(say-33, love-35)
+dobj(love-35, you-36)
+dep(love-35, with-38)
+det(authority-42, the-40)
+amod(authority-42, same-41)
+prep_quite(love-35, authority-42)
+prep_as(authority-42, pashmina-44)
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN economy))
+      (VP (MD may)
+        (VP (VB be)
+          (VP (VBG slowing)
+            (ADVP (RB somewhat))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (JJ top) (NN slice))
+        (PP (IN of)
+          (NP (NN income) (NNS earners))))
+      (VP
+        (VP (VBZ is)
+          (ADVP (RB still))
+          (VP (VBG sitting)
+            (PP (IN on)
+              (NP
+                (NP (DT a) (JJ huge) (NN pile))
+                (PP (IN of)
+                  (NP (JJ wealth)))))))
+        (CC and)
+        (VP (VBZ is)
+          (VP (VBN expected)
+            (S
+              (VP (TO to)
+                (VP (VB propel)
+                  (NP
+                    (NP (JJ such) (NNS purveyors))
+                    (PP (IN of)
+                      (NP (NN designer) (NNS delectables))))
+                  (PP (IN as)
+                    (NP (NNP Tiffany) (NNP &AMP;) (NNP Co))))))))))
+    (. .)))
+
+det(economy-2, The-1)
+nsubj(slowing-5, economy-2)
+aux(slowing-5, may-3)
+aux(slowing-5, be-4)
+root(ROOT-0, slowing-5)
+advmod(slowing-5, somewhat-6)
+det(slice-11, the-9)
+amod(slice-11, top-10)
+nsubj(sitting-17, slice-11)
+nsubjpass(expected-26, slice-11)
+xsubj(propel-28, slice-11)
+nn(earners-14, income-13)
+prep_of(slice-11, earners-14)
+aux(sitting-17, is-15)
+advmod(sitting-17, still-16)
+conj_but(slowing-5, sitting-17)
+det(pile-21, a-19)
+amod(pile-21, huge-20)
+prep_on(sitting-17, pile-21)
+prep_of(pile-21, wealth-23)
+auxpass(expected-26, is-25)
+conj_but(slowing-5, expected-26)
+conj_and(sitting-17, expected-26)
+aux(propel-28, to-27)
+xcomp(expected-26, propel-28)
+amod(purveyors-30, such-29)
+dobj(propel-28, purveyors-30)
+nn(delectables-33, designer-32)
+prep_of(purveyors-30, delectables-33)
+nn(Co-37, Tiffany-35)
+nn(Co-37, &AMP;-36)
+prep_as(propel-28, Co-37)
+
+(ROOT
+  (FRAG (CC and)
+    (NP
+      (NP (DT the) (NNP Neiman) (NNP Marcus) (NNP Group))
+      (PP (IN into)
+        (NP
+          (NP (RB yet) (DT another) (NN banner))
+          (NP (JJ financial) (NN year)))))
+    (. .)))
+
+cc(Group-5, and-1)
+det(Group-5, the-2)
+nn(Group-5, Neiman-3)
+nn(Group-5, Marcus-4)
+root(ROOT-0, Group-5)
+advmod(banner-9, yet-7)
+det(banner-9, another-8)
+prep_into(Group-5, banner-9)
+amod(year-11, financial-10)
+dep(banner-9, year-11)
+
+(ROOT
+  (NP
+    (NP
+      (NP (RB Every) (JJR shopper))
+      (ADVP (RB vaguely)
+        (NP (NNS suspects)))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (ADVP (RB there))
+          (VP (VBZ is)
+            (NP
+              (ADJP (RB as) (JJ much))
+              (NN art))))))
+    (PP (IN as)
+      (NP (NN substance)))
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN difference))
+        (PP (IN between)
+          (NP
+            (NP (DT an) (JJ $8) (NNP Revlon) (NN lipstick))
+            (CC and)
+            (NP
+              (NP (DT the))
+              (PP (NNP By)
+                (NP (NNP Terry) (NN counterpart))))))
+        (, ,)
+        (VP (VBG going)
+          (PP (IN for)
+            (NP (CD $49))))))
+    (. .)))
+
+advmod(shopper-2, Every-1)
+root(ROOT-0, shopper-2)
+nsubj(art-10, shopper-2)
+advmod(shopper-2, vaguely-3)
+pobj(vaguely-3, suspects-4)
+advmod(art-10, there-6)
+cop(art-10, is-7)
+advmod(much-9, as-8)
+amod(art-10, much-9)
+rcmod(shopper-2, art-10)
+prep_as(shopper-2, substance-12)
+det(difference-15, the-14)
+prep_in(shopper-2, difference-15)
+det(lipstick-20, an-17)
+amod(lipstick-20, $8-18)
+nn(lipstick-20, Revlon-19)
+prep_between(difference-15, lipstick-20)
+prep_between(difference-15, the-22)
+conj_and(lipstick-20, the-22)
+prep(the-22, By-23)
+nn(counterpart-25, Terry-24)
+dep(By-23, counterpart-25)
+vmod(difference-15, going-27)
+prep_for(going-27, $49-29)
+
+(ROOT
+  (S (CC But)
+    (VP (VBZ luxury-goods)
+      (SBAR
+        (S
+          (NP (NNS companies))
+          (VP (VBD guard)
+            (NP (DT no) (NN secret) (JJR more))
+            (ADVP (RB ferociously))
+            (PP (IN than)
+              (NP
+                (NP (DT the) (NN cost))
+                (PP (IN of)
+                  (S
+                    (VP (VBG making)
+                      (NP (PRP$ their) (NNS wares)))))))))))
+    (. .)))
+
+cc(luxury-goods-2, But-1)
+root(ROOT-0, luxury-goods-2)
+nsubj(guard-4, companies-3)
+ccomp(luxury-goods-2, guard-4)
+neg(more-7, no-5)
+dep(more-7, secret-6)
+dobj(guard-4, more-7)
+advmod(guard-4, ferociously-8)
+det(cost-11, the-10)
+prep_than(guard-4, cost-11)
+prepc_of(cost-11, making-13)
+poss(wares-15, their-14)
+dobj(making-13, wares-15)
+
+(ROOT
+  (SINV
+    (ADVP (RB ``We))
+    (VP (VBP are)
+      (ADJP (JJ uncomfortable))
+      (SBAR (RB even) (IN with)
+        (S
+          (NP (DT the) (NN question) (NN ,''))
+          (VP (VBD said)))))
+    (NP
+      (NP (NNP Christina) (NNP Kim))
+      (, ,)
+      (NP
+        (NP (DT a) (NN spokeswoman))
+        (PP (IN for)
+          (NP
+            (NP (NNS Hermes))
+            (PP (IN of)
+              (NP (NNP Paris)))))))
+    (. .)))
+
+advmod(uncomfortable-3, ``We-1)
+cop(uncomfortable-3, are-2)
+root(ROOT-0, uncomfortable-3)
+advmod(said-9, even-4)
+mark(said-9, with-5)
+det(,''-8, the-6)
+nn(,''-8, question-7)
+nsubj(said-9, ,''-8)
+advcl(uncomfortable-3, said-9)
+nn(Kim-11, Christina-10)
+nsubj(uncomfortable-3, Kim-11)
+det(spokeswoman-14, a-13)
+appos(Kim-11, spokeswoman-14)
+prep_for(spokeswoman-14, Hermes-16)
+prep_of(Hermes-16, Paris-18)
+
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ possible)
+        (S
+          (VP (TO to)
+            (VP (VB gain)
+              (NP
+                (NP (NNS glimpses))
+                (PP (IN of)
+                  (NP (NN enlightenment)))))))))
+    (. .)))
+
+advmod(possible-5, Still-1)
+nsubj(possible-5, it-3)
+xsubj(gain-7, it-3)
+cop(possible-5, is-4)
+root(ROOT-0, possible-5)
+aux(gain-7, to-6)
+xcomp(possible-5, gain-7)
+dobj(gain-7, glimpses-8)
+prep_of(glimpses-8, enlightenment-10)
+
+(ROOT
+  (S
+    (NP (JJ Public) (NNS companies))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB report)
+            (NP (JJ gross) (NNS margins))
+            (PP (IN _)
+              (NP
+                (NP (DT the) (NN money))
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (VB take)
+                      (PP (IN in)
+                        (SBAR (IN after)
+                          (S
+                            (NP
+                              (NP (DT the) (NNS costs))
+                              (PP (IN of)
+                                (S
+                                  (VP (VBG making)
+                                    (NP (PRP$ their) (NNS goods))))))
+                            (VP (VBP are)
+                              (VP (VBN deducted)))))))))))))))
+    (. .)))
+
+amod(companies-2, Public-1)
+nsubj(have-3, companies-2)
+xsubj(report-5, companies-2)
+root(ROOT-0, have-3)
+aux(report-5, to-4)
+xcomp(have-3, report-5)
+amod(margins-7, gross-6)
+dobj(report-5, margins-7)
+det(money-10, the-9)
+prep__(report-5, money-10)
+nsubj(take-12, they-11)
+rcmod(money-10, take-12)
+mark(deducted-22, after-14)
+det(costs-16, the-15)
+nsubjpass(deducted-22, costs-16)
+prepc_of(costs-16, making-18)
+poss(goods-20, their-19)
+dobj(making-18, goods-20)
+auxpass(deducted-22, are-21)
+prepc_in(take-12, deducted-22)
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (DT a) (NN luxury) (NN company))
+        (PP (IN like)
+          (NP (NNP Gucci)
+            (CC or)
+            (NNP Estee) (NNP Lauder)))))
+    (, ,)
+    (NP (DT that) (NN number))
+    (VP
+      (ADVP (RB usually))
+      (S
+        (NP
+          (NP (NNS runs))
+          (PP (IN in)
+            (NP (NN excess)))
+          (PP (IN of)
+            (NP (CD 60) (NN percent)))
+          (PP (IN of)
+            (NP (JJ total) (NNS revenues))))))
+    (. .)))
+
+det(company-4, a-2)
+nn(company-4, luxury-3)
+prep_for(usually-13, company-4)
+nn(Lauder-9, Gucci-6)
+conj_or(Gucci-6, Estee-8)
+nn(Lauder-9, Estee-8)
+prep_like(company-4, Lauder-9)
+det(number-12, that-11)
+nsubj(usually-13, number-12)
+root(ROOT-0, usually-13)
+dep(usually-13, runs-14)
+prep_in(runs-14, excess-16)
+num(percent-19, 60-18)
+prep_of(runs-14, percent-19)
+amod(revenues-22, total-21)
+prep_of(runs-14, revenues-22)
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ means)
+      (NP
+        (NP (DT the) (JJ actual) (NN cost))
+        (PP (IN of)
+          (S
+            (VP (VBG making)
+              (SBAR
+                (S
+                  (NP
+                    (NP (PRP$ their) (NN stuff))
+                    (, ,)
+                    (PP (IN from)
+                      (NP
+                        (NP (NNS sweaters))
+                        (PP (TO to)
+                          (NP (JJ thigh-high) (NN leather) (NNS boots)))))
+                    (, ,))
+                  (VP (VBZ is)
+                    (NP
+                      (NP
+                        (QP (RBR less) (IN than) (CD 40))
+                        (NN percent))
+                      (PP (IN of)
+                        (NP (DT the) (NN average) (NN price) (NN tag))))))))))))
+    (. .)))
+
+nsubj(means-2, That-1)
+root(ROOT-0, means-2)
+det(cost-5, the-3)
+amod(cost-5, actual-4)
+dobj(means-2, cost-5)
+prepc_of(cost-5, making-7)
+poss(stuff-9, their-8)
+nsubj(percent-22, stuff-9)
+prep_from(stuff-9, sweaters-12)
+amod(boots-16, thigh-high-14)
+nn(boots-16, leather-15)
+prep_to(sweaters-12, boots-16)
+cop(percent-22, is-18)
+advmod(than-20, less-19)
+quantmod(40-21, than-20)
+num(percent-22, 40-21)
+ccomp(making-7, percent-22)
+det(tag-27, the-24)
+nn(tag-27, average-25)
+nn(tag-27, price-26)
+prep_of(percent-22, tag-27)
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ (By) (NN contrast))
+      (, ,)
+      (NP
+        (NP (JJ gross) (NNS margins))
+        (PP (IN at)
+          (NP (DT the) (NNP Gap)
+            (CC and)
+            (JJ other) (NN chain) (NN apparel) (NNS stores)))))
+    (ADVP (RB rarely))
+    (VP (VB rise)
+      (PP (IN above)
+        (NP (CD 45) (JJ percent))))
+    (. .))))
+
+amod(contrast-2, (By-1)
+nsubj(rise-15, contrast-2)
+amod(margins-5, gross-4)
+appos(contrast-2, margins-5)
+det(Gap-8, the-7)
+prep_at(margins-5, Gap-8)
+amod(stores-13, other-10)
+nn(stores-13, chain-11)
+nn(stores-13, apparel-12)
+prep_at(margins-5, stores-13)
+conj_and(Gap-8, stores-13)
+advmod(rise-15, rarely-14)
+root(ROOT-0, rise-15)
+prep_above(rise-15, 45-17)
+amod(45-17, percent-18)
+punct(rise-15, .)-19)
+
+(ROOT
+  (S (CC And)
+    (SBAR
+      (ADJP (RB as) (JJ profitable))
+      (IN as)
+      (S
+        (NP (NNS cosmetics)
+          (CC and)
+          (NNS accessories))
+        (VP (MD can)
+          (VP (VB be)))))
+    (, ,)
+    (NP (JJS most) (NN luxury) (NNS houses))
+    (VP (VBP have)
+      (NP
+        (QP (IN at) (JJS least) (CD one))
+        (JJ other) (NN blockbuster)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (NP
+                (NP (DT a) (JJ deep))
+                (PP
+                  (NP
+                    (INTJ (UH well)))
+                  (IN of)
+                  (NP (NN cash)))))))))
+    (. .)))
+
+cc(have-14, And-1)
+advmod(profitable-3, as-2)
+dep(be-9, profitable-3)
+mark(be-9, as-4)
+nsubj(be-9, cosmetics-5)
+conj_and(cosmetics-5, accessories-7)
+nsubj(be-9, accessories-7)
+aux(be-9, can-8)
+advcl(have-14, be-9)
+amod(houses-13, most-11)
+nn(houses-13, luxury-12)
+nsubj(have-14, houses-13)
+root(ROOT-0, have-14)
+quantmod(one-17, at-15)
+mwe(at-15, least-16)
+pobj(at-15, least-16)
+num(blockbuster-19, one-17)
+amod(blockbuster-19, other-18)
+dobj(have-14, blockbuster-19)
+nsubj(deep-23, that-20)
+cop(deep-23, is-21)
+det(deep-23, a-22)
+ccomp(blockbuster-19, deep-23)
+npadvmod(deep-23, well-24)
+prep_of(deep-23, cash-26)
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN example)))
+    (, ,)
+    (NP
+      (NP (CD one) (NN executive))
+      (PP (IN at)
+        (NP (DT a) (NN luxury) (NN house))))
+    (VP (VBD explained)
+      (NP
+        (NP (DT the) (JJ rough) (NN cost))
+        (PP (IN of)
+          (S
+            (VP (VBG producing)
+              (NP (DT a) (JJ high-quality) (NN leather) (NN handbag)))))))
+    (. .)))
+
+prep_for(explained-10, example-2)
+num(executive-5, one-4)
+nsubj(explained-10, executive-5)
+det(house-9, a-7)
+nn(house-9, luxury-8)
+prep_at(executive-5, house-9)
+root(ROOT-0, explained-10)
+det(cost-13, the-11)
+amod(cost-13, rough-12)
+dobj(explained-10, cost-13)
+prepc_of(cost-13, producing-15)
+det(handbag-19, a-16)
+amod(handbag-19, high-quality-17)
+nn(handbag-19, leather-18)
+dobj(producing-15, handbag-19)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN finest) (NN leather))
+      (PP (IN from)
+        (NP (DT an) (JJ Italian) (JJ (only) (NN !)) (NN tannery))))
+    (VP (VBZ costs)
+      (NP
+        (QP (CD $50) (TO to) (CD $60))))
+    (. .)))
+
+det(leather-3, The-1)
+nn(leather-3, finest-2)
+nsubj(costs-10, leather-3)
+det(tannery-9, an-5)
+amod(tannery-9, Italian-6)
+amod(tannery-9, (only-7)
+nn(tannery-9, !)-8)
+prep_from(leather-3, tannery-9)
+root(ROOT-0, costs-10)
+number($60-13, $50-11)
+dep($60-13, to-12)
+dobj(costs-10, $60-13)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN labor))
+      (PP (IN of)
+        (NP (DT a) (NN master) (NN craftsman)))
+      (S
+        (VP (TO to)
+          (VP (VB cut)
+            (CC and)
+            (VB stitch)
+            (NP (DT the) (NN bag))))))
+    (VP (VBZ costs)
+      (NP
+        (QP (RB roughly) (CD $72))))
+    (. .)))
+
+det(labor-2, The-1)
+nsubj(costs-13, labor-2)
+det(craftsman-6, a-4)
+nn(craftsman-6, master-5)
+prep_of(labor-2, craftsman-6)
+aux(cut-8, to-7)
+vmod(labor-2, cut-8)
+vmod(labor-2, stitch-10)
+conj_and(cut-8, stitch-10)
+det(bag-12, the-11)
+dobj(cut-8, bag-12)
+root(ROOT-0, costs-13)
+quantmod($72-15, roughly-14)
+dobj(costs-13, $72-15)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ exclusive) (JJ metal) (NN hardware))
+      (, ,)
+      (PP (IN like)
+        (NP
+          (NP (DT the) (NN logo))
+          (CC and)
+          (NP (NNS locks))))
+      (, ,))
+    (VP (MD might)
+      (VP (VBP account)
+        (NP (CD $45))))
+    (. .)))
+
+det(hardware-4, The-1)
+amod(hardware-4, exclusive-2)
+amod(hardware-4, metal-3)
+nsubj(account-13, hardware-4)
+det(logo-8, the-7)
+prep_like(hardware-4, logo-8)
+prep_like(hardware-4, locks-10)
+conj_and(logo-8, locks-10)
+aux(account-13, might-12)
+root(ROOT-0, account-13)
+dobj(account-13, $45-14)
+
+(ROOT
+  (S
+    (PP (IN Add)
+      (NP
+        (NP
+          (NP (DT another) (CD 5) (NN percent))
+          (PP (IN for)
+            (NP (JJ miscellaneous) (NNS costs))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT all))
+          (PP (IN in)
+            (NP (DT all))))))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (CD $180) (NN worth))
+        (PP (IN of)
+          (NP (NN bag)))))
+    (. .)))
+
+det(percent-4, another-2)
+num(percent-4, 5-3)
+prep_add(is-14, percent-4)
+amod(costs-7, miscellaneous-6)
+prep_for(percent-4, costs-7)
+conj_and(percent-4, all-10)
+prep_add(is-14, all-10)
+prep_in(all-10, all-12)
+expl(is-14, there-13)
+root(ROOT-0, is-14)
+num(worth-16, $180-15)
+nsubj(is-14, worth-16)
+prep_of(worth-16, bag-18)
+
+(ROOT
+  (S (CC And)
+    (SBAR
+      (WHNP (IN that))
+      (S
+        (VP (VBZ stays)
+          (NP (DT the) (JJ same)))))
+    (, ,)
+    (NP (DT this) (NN executive))
+    (VP (VBZ says) (, ,)
+      (SBAR (IN whether)
+        (S
+          (NP (PRP you))
+          (VP (VBP are)
+            (VP (VBG paying)
+              (NP
+                (NP (CD $460))
+                (PP (IN for)
+                  (NP
+                    (NP
+                      (NP (NNP Escada) (POS 's))
+                      (JJ new) (NN handbag))
+                    (PP (IN in)
+                      (NP (NN turquoise) (NN leather)
+                        (CC or)
+                        (NN $4,800))))))
+              (PP (IN for)
+                (NP
+                  (NP (DT that) (NN forest))
+                  (VP (VBN green)
+                    (NP
+                      (NP (NNP Hermes) (NNP Kelly) (NN handbag))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBZ is)
+                            (ADJP (RB so) (JJ frequently)
+                              (PP (IN out)
+                                (PP (IN of)
+                                  (NP (NN stock)))))))))))))))))
+    (. .)))
+
+cc(says-9, And-1)
+nsubj(same-5, that-2)
+cop(same-5, stays-3)
+det(same-5, the-4)
+advcl(says-9, same-5)
+det(executive-8, this-7)
+nsubj(says-9, executive-8)
+root(ROOT-0, says-9)
+mark(paying-14, whether-11)
+nsubj(paying-14, you-12)
+aux(paying-14, are-13)
+ccomp(says-9, paying-14)
+dobj(paying-14, $460-15)
+poss(handbag-20, Escada-17)
+amod(handbag-20, new-19)
+prep_for($460-15, handbag-20)
+nn(leather-23, turquoise-22)
+prep_in(handbag-20, leather-23)
+prep_in(handbag-20, $4,800-25)
+conj_or(leather-23, $4,800-25)
+det(forest-28, that-27)
+prep_for(paying-14, forest-28)
+vmod(forest-28, green-29)
+nn(handbag-32, Hermes-30)
+nn(handbag-32, Kelly-31)
+dobj(green-29, handbag-32)
+nsubj(frequently-36, handbag-32)
+cop(frequently-36, is-34)
+advmod(frequently-36, so-35)
+rcmod(handbag-32, frequently-36)
+prepc_out_of(frequently-36, of-38)
+pobj(frequently-36, stock-39)
+
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB be)
+          (NP (NN fair)))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP
+          (NP
+            (ADJP (RB very) (JJ real))
+            (NNS expenses))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD will)
+                (VP (VB cut)
+                  (NP (DT the) (JJ final) (NN profit))
+                  (PP (IN on)
+                    (NP (NN luxury) (NNS products))))))))
+        (: :)
+        (NP
+          (NP (NN advertising))
+          (, ,)
+          (NP (JJ fabulous) (NNS parties)
+            (S
+              (VP (TO to)
+                (VP (VB create)
+                  (NP (NNS buzz)))))))
+        (, ,)
+        (NP
+          (NP (NNS rents))
+          (PP (IN on)
+            (NP (DT the) (JJ fanciest) (NNS boulevards))))
+        (CC and)
+        (NP
+          (NP (NNS salaries))
+          (PP (TO to)
+            (NP (DT the) (JJ fine-boned) (NNS sales) (NNS clerks)))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP speak)
+                (PP (IN in)
+                  (S
+                    (VP (VBG charming)
+                      (NP (JJ foreign) (NNS accents)))))
+                (, ,)
+                (S
+                  (VP (TO to)
+                    (VP (VB name)
+                      (NP (DT a) (JJ few)))))))))))
+    (. .)))
+
+aux(fair-3, To-1)
+cop(fair-3, be-2)
+advcl(are-6, fair-3)
+expl(are-6, there-5)
+root(ROOT-0, are-6)
+advmod(real-8, very-7)
+amod(expenses-9, real-8)
+nsubj(are-6, expenses-9)
+nsubj(cut-12, expenses-9)
+aux(cut-12, will-11)
+rcmod(expenses-9, cut-12)
+det(profit-15, the-13)
+amod(profit-15, final-14)
+dobj(cut-12, profit-15)
+nn(products-18, luxury-17)
+prep_on(cut-12, products-18)
+nsubj(are-6, advertising-20)
+conj_and(expenses-9, advertising-20)
+nsubj(cut-12, advertising-20)
+amod(parties-23, fabulous-22)
+appos(advertising-20, parties-23)
+aux(create-25, to-24)
+vmod(parties-23, create-25)
+dobj(create-25, buzz-26)
+nsubj(are-6, rents-28)
+conj_and(expenses-9, rents-28)
+nsubj(cut-12, rents-28)
+det(boulevards-32, the-30)
+amod(boulevards-32, fanciest-31)
+prep_on(rents-28, boulevards-32)
+conj_and(expenses-9, salaries-34)
+nsubj(speak-41, salaries-34)
+xsubj(name-48, salaries-34)
+det(clerks-39, the-36)
+amod(clerks-39, fine-boned-37)
+nn(clerks-39, sales-38)
+prep_to(salaries-34, clerks-39)
+rcmod(salaries-34, speak-41)
+prepc_in(speak-41, charming-43)
+amod(accents-45, foreign-44)
+dobj(charming-43, accents-45)
+aux(name-48, to-47)
+xcomp(speak-41, name-48)
+det(few-50, a-49)
+dobj(name-48, few-50)
+
+(ROOT
+  (S (CC But)
+    (VP (VB do)
+      (NP
+        (NP (DT those) (NNS outlays))
+        (PP (IN for)
+          (NP (NN image))))
+      (ADVP (RB really))
+      (VP (VB change)
+        (NP
+          (NP (DT the) (JJ intrinsic) (NN worth))
+          (PP (IN of)
+            (NP (DT the) (NN product))))))
+    (. ?)))
+
+cc(change-8, But-1)
+aux(change-8, do-2)
+det(outlays-4, those-3)
+dobj(change-8, outlays-4)
+prep_for(outlays-4, image-6)
+advmod(change-8, really-7)
+root(ROOT-0, change-8)
+det(worth-11, the-9)
+amod(worth-11, intrinsic-10)
+dobj(change-8, worth-11)
+det(product-14, the-13)
+prep_of(worth-11, product-14)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Suffice))
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (TO to)
+            (VP (VB say)
+              (NP (DT that) (NN fine)))))))
+    (VP (VBZ minds)
+      (ADJP (JJ differ)))
+    (. .)))
+
+nsubj(minds-7, Suffice-1)
+nsubj(say-4, it-2)
+aux(say-4, to-3)
+vmod(Suffice-1, say-4)
+det(fine-6, that-5)
+dobj(say-4, fine-6)
+root(ROOT-0, minds-7)
+acomp(minds-7, differ-8)
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-11-22-00) (CD 2035EST))))
+
+num(2035EST-2, NYT-11-22-00-1)
+root(ROOT-0, 2035EST-2)
+
