@@ -77,19 +77,22 @@ def entity_types_match(line):
 
 
 def antecedent_pronoun(line):
-    return "antecedent_is_pronoun=" + str(line[5] in ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her'])
+    pronouns = ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her']
+    return "antecedent_is_pronoun=" + str(line[5] in pronouns)
 
 
 def anaphor_pronoun(line):
-    return "anaphor_is_pronoun=" + str(line[10] in ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her'])
+    pronouns = ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her']
+    return "anaphor_is_pronoun=" + str(line[10] in pronouns)
 
 
 def both_proper_names(line, sents):
     span1 = sents[int(line[1])][int(line[2]):int(line[3])]
     span2 = sents[int(line[6])][int(line[7]):int(line[8])]
-    tags1 = set([item[1] for item in span1])
-    tags2 = set([item[1] for item in span2])
-    return "both_proper_names=" + str(any(item.startswith("NNP") for item in tags1) and any(item.startswith("NNP") for item in tags2))
+    tags1 = any([item[1] for item in span1 if item[1].startswith('NNP')])
+    tags2 = any([item[1] for item in span2 if item[1].startswith('NNP')])
+    return "both_proper_names=" + str(tags1 and tags2)
+
 
 def is_appositive(line, constituents):
     if line[1] == line[6]:
@@ -110,17 +113,18 @@ def is_appositive(line, constituents):
     else:
         return "is_appositive=0"
 
+
 def extract_features(lines, train=False):
     features = []
-    json_path = os.getcwd() + '/jsons/'
-    parse_path = os.getcwd() + '/parsed/'
-    current_file = None
+    j_path = os.getcwd() + '/jsons/'
+    p_path = os.getcwd() + '/parsed/'
+    curr_file = None
     for line in lines:
-    	if line[0] != current_file:
-            current_file = line[0]
-            with open(json_path + current_file + '.raw.json', 'r') as infile:
+    	if line[0] != curr_file:
+            curr_file = line[0]
+            with open(j_path + curr_file + '.raw.json', 'r') as infile:
                 sents = json.load(infile)
-            with open(parse_path + current_file + '.raw.pos.parsed', 'r') as infile:
+            with open(p_path + curr_file + '.raw.pos.parsed', 'r') as infile:
                 sents = infile.read()
                 sents = sents.split('\n\n')
                 sents = [sent for sent in sents if len(sent) > 0]
