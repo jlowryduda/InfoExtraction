@@ -1,3 +1,5 @@
+NYT20001107.1907.0300/CD NEWS/NNP STORY/NNP 2000-11-07/CD 19:07:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001107.1907.0300))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001107.1907.0300-1, STORY-3)
 num(19:07:00-5, 2000-11-07-4)
 dep(NYT20001107.1907.0300-1, 19:07:00-5)
+
+A0909/CD &Cx1f/NN ;/: taf-z/JJ u/NN f/IN BC-WEB-TRACK-AD-COLUMN-N/NNP 11-07/CD 0630/.
 
 (ROOT
   (NP
@@ -28,10 +32,14 @@ prep_f(u-5, BC-WEB-TRACK-AD-COLUMN-N-7)
 num(BC-WEB-TRACK-AD-COLUMN-N-7, 11-07-8)
 punct(&Cx1f-2, 0630-9)
 
+BC-WEB-TRACK-AD-COLUMN-NYT/NNP
+
 (ROOT
   (NP (NNP BC-WEB-TRACK-AD-COLUMN-NYT)))
 
 root(ROOT-0, BC-WEB-TRACK-AD-COLUMN-NYT-1)
+
+ADVERTISING/DT :/: TRACKING/NNP HOW/NNP WEB/NNP SURFERS/NNP ENTER/NNP SITES/NNP MAY/NNP HELP/NNP AD/.
 
 (ROOT
   (NP
@@ -50,6 +58,8 @@ nn(HELP-10, SITES-8)
 nn(HELP-10, MAY-9)
 dep(ADVERTISING-1, HELP-10)
 punct(ADVERTISING-1, AD-11)
+
+BUYERS/NNP &LR/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: By/NNP STUART/NNP ELLIOTT/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -91,6 +101,8 @@ dep(&LR-2, &UR-17)
 dep(&UR-17, c.2000-19)
 appos(c.2000-19, N.Y-20)
 
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -107,6 +119,8 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
+
+NEW/NNP YORK/NNP _/NNP Never/NNP mind/NN those/DT points/NNS of/IN light/JJ a/DT former/JJ president/NN talked/VBD about/RB ./.
 
 (ROOT
   (S
@@ -134,6 +148,8 @@ amod(president-12, former-11)
 prep_of(points-7, president-12)
 root(ROOT-0, talked-13)
 advmod(talked-13, about-14)
+
+A/DT research/NN company/NN is/VBZ proposing/VBG that/IN ``points/NNS of/IN presence/NN ''/'' are/VBP what/WP matter/NN ,/, at/IN least/JJS when/WRB it/PRP comes/VBZ to/TO online/VB marketing/NN ./.
 
 (ROOT
   (S
@@ -180,11 +196,13 @@ advmod(when-17, at-15)
 pobj(at-15, least-16)
 advmod(comes-19, when-17)
 nsubj(comes-19, it-18)
-xsubj(online-21, it-18)
+nsubj(online-21, it-18)
 rcmod(matter-13, comes-19)
 aux(online-21, to-20)
 xcomp(comes-19, online-21)
 dobj(online-21, marketing-22)
+
+The/DT company/NN ,/, Word/NNP of/IN Net/NNP ,/, is/VBZ introducing/VBG a/DT system/NN meant/NN to/TO measure/VB the/DT various/JJ points/NNS at/IN which/WDT computer/NN users/NNS are/VBP exposed/VBN to/TO Web/NNP sites/NNS ,/, wherever/RB those/DT exposures/NNS may/MD occur/VB ./.
 
 (ROOT
   (S
@@ -249,6 +267,8 @@ nsubj(occur-32, exposures-30)
 aux(occur-32, may-31)
 parataxis(introducing-9, occur-32)
 
+The/DT measurement/NN system/NN ,/, called/VBD the/DT visibility/NN index/NN ,/, is/VBZ intended/VBN to/TO provide/VB information/NN beyond/IN the/DT tracking/NN of/IN traffic/NN to/TO a/DT site/JJ by/IN tracking/VBG the/DT exposure/NN to/TO sites/VBZ through/IN search/NN engines/NNS ,/, keyword/JJ inquiries/NNS ,/, listings/NNS ,/, links/NNS from/IN other/JJ sites/NNS and/CC category/NN listings/NNS in/IN online/NN directories/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -300,7 +320,7 @@ parataxis(introducing-9, occur-32)
 det(system-3, The-1)
 nn(system-3, measurement-2)
 nsubjpass(intended-11, system-3)
-xsubj(provide-13, system-3)
+nsubj(provide-13, system-3)
 vmod(system-3, called-5)
 det(index-8, the-6)
 nn(index-8, visibility-7)
@@ -337,6 +357,8 @@ conj_and(engines-31, listings-44)
 prep(listings-44, in-45)
 dep(in-45, online-46)
 prep_to(provide-13, directories-47)
+
+The/DT goal/NN of/IN the/DT index/NN is/VBZ to/TO help/VB advertisers/NNS increase/VB their/PRP$ visibility/NN online/NN by/IN spending/VBG more/RBR effectively/RB when/WRB buying/NN banners/NNS and/CC other/JJ types/NNS of/IN interactive/JJ advertisements/NNS to/TO generate/JJ traffic/NN ./.
 
 (ROOT
   (S
@@ -375,7 +397,7 @@ prep_to(provide-13, directories-47)
 
 det(goal-2, The-1)
 nsubj(is-6, goal-2)
-xsubj(help-8, goal-2)
+nsubj(help-8, goal-2)
 det(index-5, the-4)
 prep_of(goal-2, index-5)
 root(ROOT-0, is-6)
@@ -391,14 +413,18 @@ advmod(effectively-17, more-16)
 advmod(spending-15, effectively-17)
 advmod(buying-19, when-18)
 dep(banners-20, buying-19)
+advcl(effectively-17, banners-20)
 ccomp(effectively-17, banners-20)
 amod(types-23, other-22)
+advcl(effectively-17, types-23)
 ccomp(effectively-17, types-23)
 conj_and(banners-20, types-23)
 amod(advertisements-26, interactive-25)
 prep_of(banners-20, advertisements-26)
 amod(traffic-29, generate-28)
 prep_to(spending-15, traffic-29)
+
+That/DT has/VBZ become/VBN particularly/RB important/JJ since/IN the/DT dot-com/JJ shake-out/JJ began/NN and/CC advertisement/NN dollars/NNS have/VBP grown/VBN increasingly/RB scarce/NN ./.
 
 (ROOT
   (S
@@ -418,11 +444,11 @@ prep_to(spending-15, traffic-29)
                   (ADJP (RB increasingly) (NN scarce)))))))))
     (. .)))
 
-nsubj(important-5, That-1)
-aux(important-5, has-2)
-cop(important-5, become-3)
+nsubj(become-3, That-1)
+aux(become-3, has-2)
+root(ROOT-0, become-3)
 advmod(important-5, particularly-4)
-root(ROOT-0, important-5)
+acomp(become-3, important-5)
 mark(grown-15, since-6)
 det(began-10, the-7)
 amod(began-10, dot-com-8)
@@ -432,9 +458,11 @@ nn(dollars-13, advertisement-12)
 conj_and(began-10, dollars-13)
 nsubj(grown-15, dollars-13)
 aux(grown-15, have-14)
-advcl(important-5, grown-15)
+advcl(become-3, grown-15)
 advmod(scarce-17, increasingly-16)
 dep(grown-15, scarce-17)
+
+``This/NNP is/VBZ a/DT key/JJ marketing/NN competitive-intelligence/NN tool/NN because/IN it/PRP highlights/VBZ exposure/VB all/DT over/IN the/DT Internet/NNP ,''/NNP said/VBD Astrid/NNP van/NNP Dorst/NNP ,/, senior/JJ analyst/NN for/IN the/DT e-marketing/JJ intelligence/NN group/NN at/IN the/DT Gartner/NNP Group/NNP in/IN San/NNP Jose/NNP ,/, Calif/NNP .,/, who/WP was/VBD briefed/VBN about/IN the/DT index/NN by/IN Word/NNP of/IN Net/NNP before/IN its/PRP$ public/JJ introduction/NN ./.
 
 (ROOT
   (SINV
@@ -528,6 +556,8 @@ poss(introduction-52, its-50)
 amod(introduction-52, public-51)
 prep_before(briefed-41, introduction-52)
 
+``You/NNP will/MD see/VB more/RBR of/IN this/DT as/IN Internet/NNP metrics/NNS reaches/VBZ the/DT next/JJ level/NN of/IN maturity/NN ,''/IN she/PRP added/VBD ./.
+
 (ROOT
   (S
     (NP (NNP ``You))
@@ -568,6 +598,8 @@ mark(added-18, ,''-16)
 nsubj(added-18, she-17)
 advcl(reaches-10, added-18)
 
+The/DT index/NN data/NNS are/VBP presented/VBN as/IN scores/NNS ,/, which/WDT are/VBP weighted/VBN ./.
+
 (ROOT
   (S
     (NP (DT The) (NN index) (NNS data))
@@ -593,6 +625,8 @@ prep_as(presented-5, scores-7)
 nsubjpass(weighted-11, scores-7)
 auxpass(weighted-11, are-10)
 rcmod(scores-7, weighted-11)
+
+The/DT higher/JJR the/DT score/NN on/IN the/DT index/NN ,/, the/DT more/RBR points/NNS of/IN presence/NN for/IN a/DT site/JJ and/CC thus/IN the/DT more/RBR visible/JJ it/PRP is/VBZ to/TO consumers/NNS ./.
 
 (ROOT
   (X
@@ -646,6 +680,8 @@ nsubj(is-23, it-22)
 rcmod(visible-21, is-23)
 prep_to(is-23, consumers-25)
 
+The/DT Web/NNP site/NN ranked/VBD first/RB in/IN the/DT initial/JJ visibility/NN index/NN ,/, with/IN a/DT score/NN of/IN 973/CD ,/, is/VBZ www.aol.com/NN ,/, from/IN America/NNP Online/NNP ./.
+
 (ROOT
   (SINV
     (S
@@ -685,6 +721,8 @@ root(ROOT-0, is-18)
 nsubj(is-18, www.aol.com-19)
 nn(Online-23, America-22)
 prep_from(www.aol.com-19, Online-23)
+
+The/DT rest/NN of/IN the/DT top/JJ five/CD are/VBP www.zdnet.com/JJ ,/, from/IN CNet/NNP ,/, with/IN a/DT score/NN of/IN 936/CD ;/: http:/NNS ,/, also/RB from/IN America/NNP Online/NNP ,/, 925/CD ;/: www.msn.com/NN ,/, from/IN Microsoft/NNP ,/, 922/CD ;/: and/CC www.go.com/NN ,/, from/IN the/DT Walt/NNP Disney/NNP Co/NNP .,/. 915/CD ./.
 
 (ROOT
   (S
@@ -768,6 +806,8 @@ prep_from(www.go.com-36, Co-42)
 punct(915-44, .,-43)
 prep(Co-42, 915-44)
 
+``The/JJ real/JJ value/NN of/IN our/PRP$ technology/NN is/VBZ that/IN it/PRP provides/VBZ a/DT way/NN to/TO measure/VB return/NN on/IN investment/NN for/IN your/PRP$ marketing/NN campaigns/NNS ,''/, said/VBD Eric/NNP Sanders/NNPS ,/, chief/JJ executive/NN at/IN Word/NNP of/IN Net/NNP in/IN Sherman/NNP Oaks/NNP ,/, Calif/NNP ./.
+
 (ROOT
   (SINV
     (S
@@ -840,6 +880,8 @@ nn(Oaks-35, Sherman-34)
 prep_in(Net-32, Oaks-35)
 appos(Oaks-35, Calif-37)
 
+``Online/NN advertising/NN is/VBZ a/DT $5/CD billion/CD to/TO $7/CD billion/CD industry/NN ,/, and/CC it/PRP 's/VBZ not/RB nearly/RB accountable/VB enough/JJ ,''/, he/PRP added/VBD ./.
+
 (ROOT
   (S
     (S
@@ -883,6 +925,8 @@ punct(added-21, ,''-19)
 nsubj(added-21, he-20)
 ccomp(accountable-17, added-21)
 
+``You/PRP can/MD use/VB our/PRP$ data/NN to/TO determine/VB which/WDT of/IN your/PRP$ marketing/NN spends/VBZ generate/JJ sales/NNS .''/.
+
 (ROOT
   (S
     (NP (PRP ``You))
@@ -916,6 +960,8 @@ amod(sales-14, generate-13)
 dobj(spends-12, sales-14)
 punct(use-3, .''-15)
 
+The/DT index/NN is/VBZ also/RB intended/VBN to/TO enable/VB advertisers/NNS to/TO monitor/NN how/WRB pervasive/JJ the/DT mentions/NNS of/IN Web/NNP sites/NNS operated/VBN by/IN rivals/NNS may/MD be/VB in/IN cyberspace/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NN index))
@@ -948,7 +994,7 @@ punct(use-3, .''-15)
 
 det(index-2, The-1)
 nsubjpass(intended-5, index-2)
-xsubj(enable-7, index-2)
+nsubj(enable-7, index-2)
 auxpass(intended-5, is-3)
 advmod(intended-5, also-4)
 root(ROOT-0, intended-5)
@@ -967,6 +1013,8 @@ agent(operated-18, rivals-20)
 aux(be-22, may-21)
 dep(enable-7, be-22)
 prep_in(be-22, cyberspace-24)
+
+``This/NNP is/VBZ helpful/JJ because/IN it/PRP gives/VBZ you/PRP a/DT sense/NN of/IN how/WRB you/PRP come/VBP up/RB against/IN your/PRP$ competitors/NNS ,''/, said/VBD Michele/NNP Chaboudy/NNP ,/, vice/NN president/NN for/IN marketing/NN at/IN MarketWatch.com/NNP in/IN San/NNP Francisco/NNP ,/, which/WDT operates/VBZ a/DT Web/NNP site/NN in/IN the/DT crowded/JJ field/NN of/IN financial/JJ news/NNS ./.
 
 (ROOT
   (SINV
@@ -1055,6 +1103,8 @@ prep_in(operates-34, field-41)
 amod(news-44, financial-43)
 prep_of(field-41, news-44)
 
+``And/IN it/PRP can/MD help/VB you/PRP plan/NN your/PRP$ marketing/NN campaigns/VBZ ,''/IN she/PRP added/VBD ,/, ``because/IN you/PRP can/MD actually/RB see/VB where/WRB people/NNS are/VBP coming/VBG to/TO your/PRP$ site/NN from/IN .''/.
+
 (ROOT
   (S
     (SBAR (IN ``And)
@@ -1114,6 +1164,8 @@ prep_to(coming-22, site-25)
 prep(coming-22, from-26)
 punct(campaigns-9, .''-27)
 
+Chaboudy/NNP described/VBD herself/PRP as/IN ``pretty/JJ skeptical/JJ ''/'' about/IN new/JJ measurements/NNS ``because/IN I/PRP 've/VBP seen/VBN a/DT lot/NN of/IN them/PRP .''/.
+
 (ROOT
   (S
     (NP (NNP Chaboudy))
@@ -1152,6 +1204,8 @@ det(lot-16, a-15)
 dobj(seen-14, lot-16)
 prep_of(lot-16, them-18)
 punct(described-2, .''-19)
+
+But/CC data/NNS that/IN Word/NNP of/IN Net/NNP has/VBZ shared/VBN with/IN her/PRP$ so/RB far/RB led/VBN to/TO a/DT decision/NN ``to/NN look/NN at/IN some/DT places/NNS we/PRP might/MD want/VB to/TO advertise/VB ,''/DT where/WRB MarketWatch.com/NNP is/VBZ not/RB advertising/VBG now/RB ,/, she/PRP added/VBD ./.
 
 (ROOT
   (S (CC But)
@@ -1216,7 +1270,7 @@ prep_to(led-13, look-18)
 det(places-21, some-20)
 prep_at(led-13, places-21)
 nsubj(want-24, we-22)
-xsubj(advertise-26, we-22)
+nsubj(advertise-26, we-22)
 aux(want-24, might-23)
 rcmod(places-21, want-24)
 aux(advertise-26, to-25)
@@ -1230,6 +1284,8 @@ rcmod(,''-27, advertising-32)
 advmod(advertising-32, now-33)
 nsubj(added-36, she-35)
 root(ROOT-0, added-36)
+
+As/IN a/DT result/NN ,/, MarketWatch.com/NNP is/VBZ planning/VBG to/TO become/VB a/DT Word/NN of/IN Net/NNP subscriber/NN ,/, Chaboudy/NNP said/VBD ,/, adding/VBG with/IN a/DT laugh/NN ,/, ``Of/NNP course/NN ,/, we/PRP always/VBZ negotiate/JJ the/DT price/NN .''/.
 
 (ROOT
   (S
@@ -1267,13 +1323,13 @@ root(ROOT-0, added-36)
 det(result-3, a-2)
 prep_as(said-17, result-3)
 nsubj(planning-7, MarketWatch.com-5)
-xsubj(Word-11, MarketWatch.com-5)
+nsubj(become-9, MarketWatch.com-5)
 aux(planning-7, is-6)
 parataxis(said-17, planning-7)
-aux(Word-11, to-8)
-cop(Word-11, become-9)
+aux(become-9, to-8)
+xcomp(planning-7, become-9)
 det(Word-11, a-10)
-xcomp(planning-7, Word-11)
+xcomp(become-9, Word-11)
 nn(subscriber-14, Net-13)
 prep_of(Word-11, subscriber-14)
 nsubj(said-17, Chaboudy-16)
@@ -1289,6 +1345,8 @@ amod(price-31, negotiate-29)
 det(price-31, the-30)
 dobj(always-28, price-31)
 punct(always-28, .''-32)
+
+Speaking/VBG of/IN money/NN ,/, Sanders/NNS said/VBD that/IN Word/NNP of/IN Net/NNP had/VBD ``raised/VBN $2/CD million/CD to/TO date/VB ''/'' from/IN investors/NNS ,/, adding/VBG that/IN additional/JJ money/NN was/VBD being/VBG sought/RB ./.
 
 (ROOT
   (S
@@ -1347,6 +1405,8 @@ aux(sought-27, was-25)
 cop(sought-27, being-26)
 ccomp(adding-21, sought-27)
 
+Among/IN the/DT clients/NNS of/IN Word/NNP of/IN Net/NNP ,/, he/PRP listed/VBD DirecTV/NNP ,/, Forbes/NNP ,/, Park/NNP Place/NNP Entertainment/NNP ,/, Tickets.com/NNP ,/, Sony/NNP ,/, Universal/NNP and/CC Variety/NNP ./.
+
 (ROOT
   (S
     (PP (IN Among)
@@ -1386,6 +1446,8 @@ appos(Entertainment-17, Universal-23)
 conj_and(Tickets.com-19, Universal-23)
 appos(Entertainment-17, Variety-25)
 conj_and(Tickets.com-19, Variety-25)
+
+NYT-11-07-00/CD 1907EST/CD
 
 (ROOT
   (FRAG

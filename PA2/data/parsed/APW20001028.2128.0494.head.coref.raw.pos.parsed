@@ -1,3 +1,5 @@
+APW20001028.2128.0494/DT NEWS/NNP STORY/NNPS 2000-10-28/CD 22:09:40/CD
+
 (ROOT
   (NP
     (NP (DT APW20001028.2128.0494))
@@ -10,10 +12,14 @@ dep(APW20001028.2128.0494-1, STORY-3)
 num(22:09:40-5, 2000-10-28-4)
 dep(APW20001028.2128.0494-1, 22:09:40-5)
 
+Iraq-Flights/NNS
+
 (ROOT
   (NP (NNS Iraq-Flights)))
 
 root(ROOT-0, Iraq-Flights-1)
+
+Baghdad/RB Airport/NNP Sanctions/NNPS Lifted/VBD
 
 (ROOT
   (ADJP (RB Baghdad)
@@ -27,11 +33,13 @@ nn(Sanctions-3, Airport-2)
 nsubj(Lifted-4, Sanctions-3)
 ccomp(Baghdad-1, Lifted-4)
 
+BAGHDAD/NNP ,/, Iraq/NNP [AP/NNP ]/, _/DT Saddam/NNP International/NNP Airport/NNP was/VBD busier/JJR than/IN usual/JJ Saturday/NN with/IN the/DT largest/JJS movement/NN of/IN planes/NNS since/IN the/DT United/NNP States/NNPS imposed/VBD sanctions/NNS on/IN Iraq/NNP in/IN 1990/CD ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP BAGHDAD) (, ,) (NNP Iraq) (NNP (AP))
-      (PP (, ))
+      (NP (NNP BAGHDAD) (, ,) (NNP Iraq) (NNP [AP))
+      (PP (, ])
         (NP (DT _) (NNP Saddam) (NNP International) (NNP Airport))))
     (VP (VBD was)
       (ADJP
@@ -54,14 +62,14 @@ ccomp(Baghdad-1, Lifted-4)
               (NP (CD 1990)))))))
     (. .)))
 
-nn((AP-4, BAGHDAD-1)
-appos((AP-4, Iraq-3)
-nsubj(busier-11, (AP-4)
-punct(Airport-9, )-5)
+nn([AP-4, BAGHDAD-1)
+appos([AP-4, Iraq-3)
+nsubj(busier-11, [AP-4)
+punct(Airport-9, ]-5)
 det(Airport-9, _-6)
 nn(Airport-9, Saddam-7)
 nn(Airport-9, International-8)
-prep((AP-4, Airport-9)
+prep([AP-4, Airport-9)
 cop(busier-11, was-10)
 root(ROOT-0, busier-11)
 amod(Saturday-14, usual-13)
@@ -78,6 +86,8 @@ advcl(busier-11, imposed-25)
 dobj(imposed-25, sanctions-26)
 prep_on(imposed-25, Iraq-28)
 prep_in(imposed-25, 1990-30)
+
+Three/NNP planes/VBZ arrived/VBN and/CC two/CD departed/VBN by/IN the/DT end/NN of/IN the/DT day/NN ,/, carrying/VBG delegations/NNS of/IN people/NNS opposed/VBN to/TO the/DT sanctions/NNS from/IN Russia/NNP ,/, Egypt/NNP ,/, Turkey/NNP and/CC ,/, for/IN the/DT first/JJ time/NN ,/, the/DT Ukraine/NN ./.
 
 (ROOT
   (S
@@ -147,6 +157,8 @@ det(Ukraine-36, the-35)
 prep_from(opposed-18, Ukraine-36)
 conj_and(Russia-23, Ukraine-36)
 
+The/DT sanctions/NNS were/VBD imposed/JJ to/TO punish/VB Iraq/NNP for/IN its/PRP$ 1990/CD invasion/NN of/IN Kuwait/NNP ./.
+
 (ROOT
   (S
     (NP (DT The) (NNS sanctions))
@@ -166,7 +178,7 @@ conj_and(Russia-23, Ukraine-36)
 
 det(sanctions-2, The-1)
 nsubj(imposed-4, sanctions-2)
-xsubj(punish-6, sanctions-2)
+nsubj(punish-6, sanctions-2)
 cop(imposed-4, were-3)
 root(ROOT-0, imposed-4)
 aux(punish-6, to-5)
@@ -176,6 +188,8 @@ poss(invasion-11, its-9)
 num(invasion-11, 1990-10)
 prep_for(Iraq-7, invasion-11)
 prep_of(invasion-11, Kuwait-13)
+
+Organizers/NNS of/IN recent/JJ flights/NNS say/VBP they/PRP wish/JJ to/TO express/VB solidarity/NN with/IN the/DT Iraqi/NNP people/NNS ./.
 
 (ROOT
   (S
@@ -200,7 +214,7 @@ amod(flights-4, recent-3)
 prep_of(Organizers-1, flights-4)
 root(ROOT-0, say-5)
 nsubj(wish-7, they-6)
-xsubj(express-9, they-6)
+nsubj(express-9, they-6)
 xcomp(say-5, wish-7)
 aux(express-9, to-8)
 xcomp(wish-7, express-9)
@@ -208,6 +222,8 @@ dobj(express-9, solidarity-10)
 det(people-14, the-12)
 nn(people-14, Iraqi-13)
 prep_with(express-9, people-14)
+
+Iraq/NNP welcomes/VBZ the/DT flights/NNS as/IN a/DT sign/NN that/IN sanctions/NNS are/VBP collapsing/VBG ./.
 
 (ROOT
   (S
@@ -233,6 +249,8 @@ mark(collapsing-11, that-8)
 nsubj(collapsing-11, sanctions-9)
 cop(collapsing-11, are-10)
 ccomp(welcomes-2, collapsing-11)
+
+The/DT airport/NN closed/VBD at/IN the/DT outbreak/NN of/IN the/DT 1991/CD Gulf/NNP War/NNP ,/, receiving/VBG only/RB occasional/JJ humanitarian/JJ flights/NNS until/IN it/PRP was/VBD reopened/VBN for/IN business/NN in/IN August/NNP ./.
 
 (ROOT
   (S
@@ -279,6 +297,8 @@ auxpass(reopened-21, was-20)
 prepc_until(flights-17, reopened-21)
 prep_for(reopened-21, business-23)
 prep_in(business-23, August-25)
+
+Since/NNP then/RB ,/, dozens/NNS of/IN planes/NNS have/VBP flown/VBN business/NN and/CC cultural/JJ delegations/NNS to/TO Baghdad/RB in/IN a/DT show/NN of/IN support/NN and/CC a/DT bid/NN to/TO end/VB the/DT sanctions/NNS ./.
 
 (ROOT
   (S
@@ -334,6 +354,8 @@ vmod(flown-8, end-24)
 det(sanctions-26, the-25)
 dobj(end-24, sanctions-26)
 
+Saturday/NNP 's/POS Egyptian/JJ delegation/NN included/VBD more/JJR than/IN 150/CD delegates/NNS ,/, most/JJS representing/VBG unions/NNS and/CC political/JJ parties/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -368,6 +390,8 @@ dobj(representing-12, unions-13)
 amod(parties-16, political-15)
 dobj(representing-12, parties-16)
 conj_and(unions-13, parties-16)
+
+Actors/NNS and/CC singers/NNS also/RB on/IN the/DT flight/NN held/VBD a/DT benefit/NN concert/NN in/IN Baghdad/NNP Saturday/NNP evening/NN ,/, with/IN most/JJS of/IN the/DT $13/CD cover/NN charge/NN to/TO be/VB donated/VBN to/TO support/VB the/DT Palestinian/JJ uprising/NN ./.
 
 (ROOT
   (S
@@ -427,6 +451,8 @@ det(uprising-31, the-29)
 amod(uprising-31, Palestinian-30)
 dobj(support-28, uprising-31)
 
+``All/IN my/PRP$ feelings/NNS have/VBP been/VBN with/IN Iraq/NNP and/CC the/DT people/NNS ,/, but/CC this/DT time/NN is/VBZ special/JJ because/IN I/PRP am/VBP physically/RB here/RB to/TO show/VB my/PRP$ support/NN ,''/, said/VBD well-known/VBN Egyptian/JJ actress/NN Madeha/NNP Yusri/NNP ./.
+
 (ROOT
   (S
     (SBAR (IN ``All)
@@ -477,7 +503,7 @@ conj_but(been-5, special-16)
 advcl(said-27, special-16)
 mark(here-21, because-17)
 nsubj(here-21, I-18)
-xsubj(show-23, I-18)
+nsubj(show-23, I-18)
 cop(here-21, am-19)
 advmod(here-21, physically-20)
 advcl(special-16, here-21)
@@ -492,6 +518,8 @@ amod(Yusri-32, Egyptian-29)
 nn(Yusri-32, actress-30)
 nn(Yusri-32, Madeha-31)
 dobj(well-known-28, Yusri-32)
+
+Deputy/NNP Prime/NNP Minister/NNP Tareq/NNP Aziz/NNP received/VBD the/DT Egyptian/JJ delegation/NN and/CC praised/VBD their/PRP$ arrival/NN in/IN Baghdad/NNP ,/, stressing/VBG Arab/NNP solidarity/NN ./.
 
 (ROOT
   (S
@@ -527,6 +555,8 @@ dep(praised-11, stressing-17)
 nn(solidarity-19, Arab-18)
 dobj(stressing-17, solidarity-19)
 
+The/DT Russian/JJ ,/, Ukrainian/JJ and/CC Turkish/JJ planes/NNS carried/VBD businessmen/NNS and/CC doctors/NNS ./.
+
 (ROOT
   (S
     (NP (DT The) (JJ Russian) (, ,) (JJ Ukrainian)
@@ -549,6 +579,8 @@ root(ROOT-0, carried-8)
 dobj(carried-8, businessmen-9)
 dobj(carried-8, doctors-11)
 conj_and(businessmen-9, doctors-11)
+
+Meanwhile/RB ,/, Palestine/NNP National/NNP Council/NNP Speaker/NNP Salim/NNP Zaanoun/NNP said/VBD the/DT Palestinians/NNPS will/MD send/VB a/DT plane/NN to/TO Iraq/VB on/IN Sunday/NN to/TO ``challenge/VB to/TO the/DT United/NNP Nations/NNPS sanctions/NNS .''/.
 
 (ROOT
   (S
@@ -598,6 +630,8 @@ nn(sanctions-26, United-24)
 nn(sanctions-26, Nations-25)
 prep_to(``challenge-21, sanctions-26)
 punct(said-9, .''-27)
+
+Speaking/VBG in/IN Amman/NNP ,/, Jordan/NNP ,/, Zaanoun/NNP said/VBD the/DT plane/NN will/MD carry/VB 20/CD Palestinians/NNPS wounded/VBD in/IN ongoing/VBG violence/NN in/IN the/DT Palestinian/JJ territories/NNS for/IN treatment/NN in/IN Iraqi/NNP hospitals/NNS ./.
 
 (ROOT
   (S
@@ -653,6 +687,8 @@ prep_for(territories-22, treatment-24)
 nn(hospitals-27, Iraqi-26)
 prep_in(treatment-24, hospitals-27)
 
+Palestinian/JJ lawmakers/NNS will/MD also/RB be/VB on/IN board/NN the/DT flight/NN ,/, which/WDT is/VBZ scheduled/VBN to/TO leave/VB from/IN Gaza/NNP and/CC stop/JJ briefly/NN in/IN Amman/NNP on/IN Sunday/NNP morning/NN ,/, Zaanoun/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -698,7 +734,7 @@ prep_on(be-5, board-7)
 det(flight-9, the-8)
 dep(board-7, flight-9)
 nsubjpass(scheduled-13, flight-9)
-xsubj(leave-15, flight-9)
+nsubj(leave-15, flight-9)
 auxpass(scheduled-13, is-12)
 rcmod(flight-9, scheduled-13)
 aux(leave-15, to-14)
@@ -713,6 +749,8 @@ prep_on(leave-15, Sunday-24)
 tmod(leave-15, morning-25)
 nsubj(said-28, Zaanoun-27)
 root(ROOT-0, said-28)
+
+He/PRP said/VBD the/DT flight/NN ``did/VBD not/RB acquire/VB permission/NN from/IN the/DT U.N./NNP Sanctions/NNPS Committee/NNP .''/.
 
 (ROOT
   (S
@@ -741,6 +779,8 @@ nn(Committee-13, U.N.-11)
 nn(Committee-13, Sanctions-12)
 prep_from(acquire-7, Committee-13)
 punct(said-2, .''-14)
+
+U.N./NNP Security/NNP Council/NNP resolutions/NNS say/VBP that/IN for/IN sanctions/NNS to/TO be/VB lifted/VBN ,/, Iraq/NNP must/MD eliminate/VB its/PRP$ weapons/NNS of/IN mass/NN destruction/NN ./.
 
 (ROOT
   (S
@@ -781,6 +821,8 @@ poss(weapons-17, its-16)
 dobj(eliminate-15, weapons-17)
 nn(destruction-20, mass-19)
 prep_of(weapons-17, destruction-20)
+
+Baghdad/RB claims/NNS to/TO have/VB done/NN so/RB ,/, but/CC refuses/VBZ to/TO cooperate/VB with/IN U.N./NNP arms/NNS inspectors/NNS ./.
 
 (ROOT
   (FRAG

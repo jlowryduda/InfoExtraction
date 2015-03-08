@@ -1,3 +1,5 @@
+APW20001118.1953.0594/DT NEWS/NNP STORY/NNPS 2000-11-18/CD 20:15:29/CD
+
 (ROOT
   (NP
     (NP (DT APW20001118.1953.0594))
@@ -10,10 +12,14 @@ dep(APW20001118.1953.0594-1, STORY-3)
 num(20:15:29-5, 2000-11-18-4)
 dep(APW20001118.1953.0594-1, 20:15:29-5)
 
+Jesse-Ventura/NNP
+
 (ROOT
   (NP (NNP Jesse-Ventura)))
 
 root(ROOT-0, Jesse-Ventura-1)
+
+Callers/NNS Admonish/JJ Ventura/NNP
 
 (ROOT
   (NP
@@ -24,11 +30,13 @@ root(ROOT-0, Callers-1)
 amod(Ventura-3, Admonish-2)
 dep(Callers-1, Ventura-3)
 
+ST./NNP PAUL/NNP [AP/NNP ]/, _/DT Gov./NNP Jesse/NNP Ventura/NNP 's/POS weekly/JJ radio/NN show/NN has/VBZ been/VBN flooded/VBN with/IN calls/NNS about/IN his/PRP$ new/JJ part-time/JJ job/NN as/IN a/DT football/NN commentator/NN ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP ST.) (NNP PAUL) (NNP (AP))
-      (PP (, ))
+      (NP (NNP ST.) (NNP PAUL) (NNP [AP))
+      (PP (, ])
         (NP
           (NP (DT _) (NNP Gov.) (NNP Jesse) (NNP Ventura) (POS 's))
           (JJ weekly) (NN radio) (NN show))))
@@ -44,17 +52,17 @@ dep(Callers-1, Ventura-3)
             (NP (DT a) (NN football) (NN commentator))))))
     (. .)))
 
-nn((AP-3, ST.-1)
-nn((AP-3, PAUL-2)
-nsubjpass(flooded-15, (AP-3)
-punct(show-12, )-4)
+nn([AP-3, ST.-1)
+nn([AP-3, PAUL-2)
+nsubjpass(flooded-15, [AP-3)
+punct(show-12, ]-4)
 det(Ventura-8, _-5)
 nn(Ventura-8, Gov.-6)
 nn(Ventura-8, Jesse-7)
 poss(show-12, Ventura-8)
 amod(show-12, weekly-10)
 nn(show-12, radio-11)
-prep((AP-3, show-12)
+prep([AP-3, show-12)
 aux(flooded-15, has-13)
 auxpass(flooded-15, been-14)
 root(ROOT-0, flooded-15)
@@ -66,6 +74,8 @@ prep_about(calls-17, job-22)
 det(commentator-26, a-24)
 nn(commentator-26, football-25)
 prep_as(flooded-15, commentator-26)
+
+``You/IN belong/VBG to/TO the/DT people/NNS ,/, 100/CD percent/JJ ,/, 24-hours-a-day/JJ ,/, seven/CD days/NNS a/DT week/NN ,''/IN one/CD caller/JJR admonished/JJ Friday/NN ./.
 
 (ROOT
   (FRAG
@@ -108,6 +118,8 @@ npadvmod(caller-18, one-17)
 dep(days-13, caller-18)
 amod(Friday-20, admonished-19)
 pobj(``You-1, Friday-20)
+
+Others/NNS said/VBD his/PRP$ association/NN with/IN the/DT XFL/NNP _/IN a/DT rough-and-tumble/JJ league/NN organized/VBN by/IN NBC/NNP and/CC the/DT World/NNP Wrestling/VBG Federation/NNP _/NNP degraded/VBD his/PRP$ office/NN ./.
 
 (ROOT
   (S
@@ -155,6 +167,8 @@ ccomp(Wrestling-18, degraded-21)
 poss(office-23, his-22)
 dobj(degraded-21, office-23)
 
+Ventura/NNP brushed/VBD aside/IN the/DT criticism/NN ,/, saying/VBG he/PRP would/MD stop/VB if/IN the/DT XFL/NNP becomes/VBZ too/RB raunchy/JJ or/CC he/PRP deems/VBD it/PRP in/IN ``any/DT way/NN unacceptable/JJ to/TO my/PRP$ position/NN as/IN governor/NN .''/.
+
 (ROOT
   (S
     (S
@@ -198,12 +212,12 @@ xcomp(brushed-2, saying-7)
 nsubj(stop-10, he-8)
 aux(stop-10, would-9)
 ccomp(saying-7, stop-10)
-mark(raunchy-16, if-11)
+mark(becomes-14, if-11)
 det(XFL-13, the-12)
-nsubj(raunchy-16, XFL-13)
-cop(raunchy-16, becomes-14)
+nsubj(becomes-14, XFL-13)
+advcl(stop-10, becomes-14)
 advmod(raunchy-16, too-15)
-advcl(stop-10, raunchy-16)
+acomp(becomes-14, raunchy-16)
 nsubj(deems-19, he-18)
 conj_or(brushed-2, deems-19)
 dobj(deems-19, it-20)
@@ -214,6 +228,8 @@ poss(position-27, my-26)
 prep_to(unacceptable-24, position-27)
 prep_as(deems-19, governor-29)
 punct(brushed-2, .''-30)
+
+Meanwhile/RB ,/, Democratic/JJ state/NN Sen./NNP Ellen/NNP Anderson/NNP said/VBD she/PRP would/MD introduce/VB a/DT bill/NN to/TO make/VB the/DT job/NN of/IN governor/NN a/DT part-time/JJ position/NN ,/, similar/JJ to/TO state/NN lawmaker/NN positions/NNS ./.
 
 (ROOT
   (S
@@ -267,6 +283,8 @@ nn(positions-28, state-26)
 nn(positions-28, lawmaker-27)
 prep_to(similar-24, positions-28)
 
+``It/NNP would/MD fit/VB in/IN [Ventura/NNP 's/POS ]/JJ political/JJ philosophy/NN and/CC it/PRP would/MD take/VB away/IN the/DT criticism/NN of/IN him/PRP taking/VBG outside/JJ jobs/NNS ,''/, she/PRP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -276,8 +294,8 @@ prep_to(similar-24, positions-28)
           (VP (VB fit)
             (PP (IN in)
               (NP
-                (NP (NNP (Ventura) (POS 's))
-                (JJ )) (JJ political) (NN philosophy))))))
+                (NP (NNP [Ventura) (POS 's))
+                (JJ ]) (JJ political) (NN philosophy))))))
       (CC and)
       (S
         (NP (PRP it))
@@ -299,8 +317,8 @@ prep_to(similar-24, positions-28)
 nsubj(fit-3, ``It-1)
 aux(fit-3, would-2)
 ccomp(said-24, fit-3)
-poss(philosophy-9, (Ventura-5)
-amod(philosophy-9, )-7)
+poss(philosophy-9, [Ventura-5)
+amod(philosophy-9, ]-7)
 amod(philosophy-9, political-8)
 prep_in(fit-3, philosophy-9)
 nsubj(take-13, it-11)
@@ -316,6 +334,8 @@ dobj(taking-19, jobs-21)
 punct(said-24, ,''-22)
 nsubj(said-24, she-23)
 root(ROOT-0, said-24)
+
+In/IN a/DT contract/NN announced/VBD Thursday/NN ,/, the/DT former/JJ wrestler/NN agreed/VBD to/TO work/VB 10/CD Saturday/NN night/IN games/NNS starting/VBG in/IN February/NNP ./.
 
 (ROOT
   (S
@@ -346,7 +366,7 @@ tmod(announced-4, Thursday-5)
 det(wrestler-9, the-7)
 amod(wrestler-9, former-8)
 nsubj(agreed-10, wrestler-9)
-xsubj(work-12, wrestler-9)
+nsubj(work-12, wrestler-9)
 root(ROOT-0, agreed-10)
 aux(work-12, to-11)
 xcomp(agreed-10, work-12)
@@ -356,6 +376,8 @@ prep_night(Saturday-14, games-16)
 prep(work-12, starting-17)
 pcomp(starting-17, in-18)
 pobj(in-18, February-19)
+
+He/PRP can/MD miss/VB them/PRP if/IN state/NN business/NN demands/NNS it/PRP ./.
 
 (ROOT
   (S

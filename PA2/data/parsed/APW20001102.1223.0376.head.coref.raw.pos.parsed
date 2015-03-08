@@ -1,3 +1,5 @@
+APW20001102.1223.0376/CD NEWS/NNP STORY/NNP 2000-11-02/CD 13:27:23/CD
+
 (ROOT
   (NP
     (NP (CD APW20001102.1223.0376))
@@ -10,10 +12,14 @@ dep(APW20001102.1223.0376-1, STORY-3)
 num(13:27:23-5, 2000-11-02-4)
 dep(APW20001102.1223.0376-1, 13:27:23-5)
 
+Israel-Explosion/NN
+
 (ROOT
   (NP (NN Israel-Explosion)))
 
 root(ROOT-0, Israel-Explosion-1)
+
+Explosion/NNP Rocks/NNP Jerusalem/NNP Market/NNP
 
 (ROOT
   (NP (NNP Explosion) (NNP Rocks) (NNP Jerusalem) (NNP Market)))
@@ -23,11 +29,13 @@ nn(Market-4, Rocks-2)
 nn(Market-4, Jerusalem-3)
 root(ROOT-0, Market-4)
 
+JERUSALEM/NNP [AP/NNP ]/NNP _/, A/DT car/NN bomb/NN exploded/VBD Thursday/NN in/IN a/DT crowded/JJ outdoor/NN market/NN in/IN the/DT heart/NN of/IN Jerusalem/NNP ,/, killing/NN at/IN least/JJS two/CD people/NNS ,/, police/NN said/VBD ./.
+
 (ROOT
   (S
     (S
       (NP
-        (NP (NNP JERUSALEM) (NNP (AP) (NNP )))
+        (NP (NNP JERUSALEM) (NNP [AP) (NNP ]))
         (PP (, _)
           (NP (DT A) (NN car) (NN bomb))))
       (VP (VBD exploded)
@@ -51,13 +59,13 @@ root(ROOT-0, Market-4)
     (VP (VBD said))
     (. .)))
 
-nn()-3, JERUSALEM-1)
-nn()-3, (AP-2)
-nsubj(exploded-8, )-3)
+nn(]-3, JERUSALEM-1)
+nn(]-3, [AP-2)
+nsubj(exploded-8, ]-3)
 punct(bomb-7, _-4)
 det(bomb-7, A-5)
 nn(bomb-7, car-6)
-prep()-3, bomb-7)
+prep(]-3, bomb-7)
 ccomp(said-28, exploded-8)
 tmod(exploded-8, Thursday-9)
 det(market-14, a-11)
@@ -75,6 +83,8 @@ num(people-25, two-24)
 dep(killing-21, people-25)
 nsubj(said-28, police-27)
 root(ROOT-0, said-28)
+
+Ambulances/NNS raced/VBD to/TO the/DT Mahane/NNP Yehuda/NNP market/NN ,/, which/WDT sells/VBZ food/NN ,/, vegetables/NNS and/CC clothing/NN in/IN Jewish/JJ west/JJ Jerusalem/NN ./.
 
 (ROOT
   (S
@@ -112,6 +122,8 @@ amod(Jerusalem-19, Jewish-17)
 amod(Jerusalem-19, west-18)
 prep_in(sells-10, Jerusalem-19)
 
+Huge/NNP plumes/VBZ of/IN black/JJ smoke/NN rose/VBD into/IN the/DT sky/NN ./.
+
 (ROOT
   (S
     (NP (NNP Huge))
@@ -131,6 +143,8 @@ prep_of(plumes-2, smoke-5)
 vmod(smoke-5, rose-6)
 det(sky-9, the-8)
 prep_into(rose-6, sky-9)
+
+The/DT blast/NN came/VBD shortly/RB before/IN Israeli/NNP Prime/NNP Minister/NNP Ehud/NNP Barak/NNP and/CC Palestinian/NNP leader/NN Yasser/NNP Arafat/NNP were/VBD scheduled/VBN to/TO make/VB separate/JJ announcements/NNS of/IN steps/NNS toward/IN a/DT cease-fire/NN ./.
 
 (ROOT
   (S
@@ -167,13 +181,13 @@ nn(Barak-10, Prime-7)
 nn(Barak-10, Minister-8)
 nn(Barak-10, Ehud-9)
 nsubjpass(scheduled-17, Barak-10)
-xsubj(make-19, Barak-10)
+nsubj(make-19, Barak-10)
 nn(Arafat-15, Palestinian-12)
 nn(Arafat-15, leader-13)
 nn(Arafat-15, Yasser-14)
 conj_and(Barak-10, Arafat-15)
 nsubjpass(scheduled-17, Arafat-15)
-xsubj(make-19, Arafat-15)
+nsubj(make-19, Arafat-15)
 auxpass(scheduled-17, were-16)
 advcl(came-3, scheduled-17)
 aux(make-19, to-18)

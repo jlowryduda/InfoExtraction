@@ -1,3 +1,5 @@
+NYT20001228.2223.0362/CD NEWS/NNP STORY/NNP 2000-12-28/CD 22:27:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001228.2223.0362))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001228.2223.0362-1, STORY-3)
 num(22:27:00-5, 2000-12-28-4)
 dep(NYT20001228.2223.0362-1, 22:27:00-5)
+
+A4006/CD &Cx1f/NN ;/: taf-z/JJ u/NN s/IN BC-HKN-LAPOINTE-COLUMN-N/NNP 12-28/CD 0782/CD
 
 (ROOT
   (NP
@@ -29,10 +33,14 @@ prep_s(u-5, BC-HKN-LAPOINTE-COLUMN-N-7)
 num(BC-HKN-LAPOINTE-COLUMN-N-7, 12-28-8)
 dep(u-5, 0782-9)
 
+BC-HKN-LAPOINTE-COLUMN-NYT/NNP
+
 (ROOT
   (NP (NNP BC-HKN-LAPOINTE-COLUMN-NYT)))
 
 root(ROOT-0, BC-HKN-LAPOINTE-COLUMN-NYT-1)
+
+SPORTS/JJ COLUMN/NN :/: LEMIEUX'S/NNP COMEBACK/NNP IS/NNP IRRESISTIBLE/NNP
 
 (ROOT
   (NP
@@ -46,6 +54,8 @@ nn(IRRESISTIBLE-7, LEMIEUX'S-4)
 nn(IRRESISTIBLE-7, COMEBACK-5)
 nn(IRRESISTIBLE-7, IS-6)
 dep(COLUMN-2, IRRESISTIBLE-7)
+
+&UR/NNS ;/: By/NNP JOE/NNP LAPOINTE/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -79,6 +89,8 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -95,6 +107,8 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
+
+You/PRP did/VBD not/RB have/VB to/TO admire/VB Richard/NNP Nixon/NNP ,/, Elvis/NNP Presley/NNP or/CC Muhammad/NNP Ali/NNP to/TO admit/VB that/IN all/DT three/CD staged/VBN successful/JJ comebacks/NNS ./.
 
 (ROOT
   (S
@@ -121,8 +135,8 @@ dep(&LR-6, &QL-8)
     (. .)))
 
 nsubj(have-4, You-1)
-xsubj(admire-6, You-1)
-xsubj(admit-16, You-1)
+nsubj(admire-6, You-1)
+nsubj(admit-16, You-1)
 aux(have-4, did-2)
 neg(have-4, not-3)
 root(ROOT-0, have-4)
@@ -144,6 +158,8 @@ nsubj(staged-20, three-19)
 ccomp(admit-16, staged-20)
 amod(comebacks-22, successful-21)
 dobj(staged-20, comebacks-22)
+
+As/IN president/NN of/IN the/DT United/NNP States/NNPS ,/, king/NN of/IN rock/NN 'n/VBP '/POS roll/NN and/CC heavyweight/JJ champion/NN of/IN the/DT world/NN ,/, they/PRP enjoyed/VBD impressive/JJ second/JJ acts/NNS in/IN their/PRP$ American/JJ lives/NNS ./.
 
 (ROOT
   (S
@@ -200,6 +216,8 @@ poss(lives-29, their-27)
 amod(lives-29, American-28)
 prep_in(enjoyed-22, lives-29)
 
+But/CC each/DT man/NN 's/POS denouement/NN _/IN one/CD politically/RB scandalous/NN ,/, another/DT self-destructive/JJ and/CC the/DT third/JJ evoking/NN sympathy/NN _/IN lingers/NNS large/JJ in/IN the/DT mind/NN ./.
+
 (ROOT
   (FRAG (CC But)
     (NP
@@ -239,6 +257,8 @@ prep__(sympathy-17, lingers-19)
 amod(lingers-19, large-20)
 det(mind-23, the-22)
 prep_in(large-20, mind-23)
+
+Mario/NNP Lemieux/NNP ,/, the/DT Pittsburgh/NNP hockey/NN star/NN ,/, may/MD never/RB be/VB a/DT transcendent/JJ personality/NN like/IN Nixon/NNP ,/, Presley/NNP or/CC Ali/NNP ,/, and/CC his/PRP$ future/NN will/MD not/RB necessarily/RB include/VBP a/DT tragic/JJ trajectory/NN ./.
 
 (ROOT
   (S
@@ -295,6 +315,8 @@ det(trajectory-31, a-29)
 amod(trajectory-31, tragic-30)
 dobj(include-28, trajectory-31)
 
+But/CC ,/, despite/IN the/DT initial/JJ success/NN of/IN Lemieux/NNP 's/POS return/NN to/TO the/DT ice/NN ,/, it/PRP is/VBZ realistic/JJ to/TO retain/VB a/DT few/JJ doubts/NNS about/IN what/WP will/MD come/VB ./.
+
 (ROOT
   (S (CC But)
     (, ,)
@@ -333,7 +355,7 @@ prep_of(success-6, return-10)
 det(ice-13, the-12)
 prep_to(return-10, ice-13)
 nsubj(realistic-17, it-15)
-xsubj(retain-19, it-15)
+nsubj(retain-19, it-15)
 cop(realistic-17, is-16)
 root(ROOT-0, realistic-17)
 aux(retain-19, to-18)
@@ -344,6 +366,8 @@ dobj(retain-19, doubts-22)
 nsubj(come-26, what-24)
 aux(come-26, will-25)
 prepc_about(retain-19, come-26)
+
+In/IN sports/NNS terms/NNS ,/, his/PRP$ closest/NN parallel/NN is/VBZ Michael/NNP Jordan/NNP ,/, who/WP spent/VBD almost/RB two/CD seasons/NNS away/RB from/IN the/DT NBA/NNP before/IN returning/VBG in/IN 1995/CD to/TO lead/VB the/DT Chicago/NNP Bulls/NNP to/TO three/CD more/JJR championships/NNS ./.
 
 (ROOT
   (S
@@ -403,6 +427,8 @@ num(championships-33, three-31)
 amod(championships-33, more-32)
 prep_to(lead-26, championships-33)
 
+Like/NNP Jordan/NNP ,/, Lemieux/NNP became/VBD part-owner/NN of/IN a/DT team/NN after/IN retirement/NN ./.
+
 (ROOT
   (S
     (NP (NNP Like) (NNP Jordan) (, ,) (NNP Lemieux))
@@ -417,12 +443,14 @@ prep_to(lead-26, championships-33)
 
 nn(Lemieux-4, Like-1)
 nn(Lemieux-4, Jordan-2)
-nsubj(part-owner-6, Lemieux-4)
-cop(part-owner-6, became-5)
-root(ROOT-0, part-owner-6)
+nsubj(became-5, Lemieux-4)
+root(ROOT-0, became-5)
+xcomp(became-5, part-owner-6)
 det(team-9, a-8)
 prep_of(part-owner-6, team-9)
-prep_after(part-owner-6, retirement-11)
+prep_after(became-5, retirement-11)
+
+Unlike/NNP Jordan/NNP ,/, Lemieux/NNP is/VBZ now/RB both/DT an/DT equity/NN investor/NN and/CC an/DT employee/NN ./.
 
 (ROOT
   (S
@@ -446,6 +474,8 @@ nn(investor-10, equity-9)
 root(ROOT-0, investor-10)
 det(employee-13, an-12)
 conj_and(investor-10, employee-13)
+
+After/IN 3/CD 1/CD years/NNS of/IN retirement/NN ,/, Lemieux/NNP played/VBN for/IN the/DT Penguins/NNPS Wednesday/NNP ,/, contributing/VBG one/CD goal/NN and/CC two/CD assists/NNS to/TO a/DT 5-0/JJ victory/NN over/IN Toronto/NNP ./.
 
 (ROOT
   (S
@@ -495,6 +525,8 @@ det(victory-24, a-22)
 amod(victory-24, 5-0-23)
 prep_to(assists-20, victory-24)
 prep_over(victory-24, Toronto-26)
+
+In/IN so/IN doing/VBG ,/, Lemieux/NNP pushed/VBD the/DT NHL/NNP into/IN the/DT realm/NN of/IN real/JJ news/NN ,/, something/VBG it/PRP has/VBZ not/RB experienced/VBN since/IN Wayne/NNP Gretzky/NNP 's/POS highly/RB orchestrated/JJ retirement/NN in/IN 1999/CD ./.
 
 (ROOT
   (S
@@ -551,6 +583,8 @@ amod(retirement-27, orchestrated-26)
 prep_since(experienced-20, retirement-27)
 prep_in(retirement-27, 1999-29)
 
+The/DT Lemieux/NNP comeback/NN story/NN is/VBZ hard/JJ to/TO resist/VB because/IN it/PRP has/VBZ all/PDT the/DT hooks/NNS ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Lemieux) (NN comeback) (NN story))
@@ -570,7 +604,7 @@ det(story-4, The-1)
 nn(story-4, Lemieux-2)
 nn(story-4, comeback-3)
 nsubj(hard-6, story-4)
-xsubj(resist-8, story-4)
+nsubj(resist-8, story-4)
 cop(hard-6, is-5)
 root(ROOT-0, hard-6)
 aux(resist-8, to-7)
@@ -581,6 +615,8 @@ advcl(resist-8, has-11)
 predet(hooks-14, all-12)
 det(hooks-14, the-13)
 dobj(has-11, hooks-14)
+
+The/DT first/JJ is/VBZ talent/NN ./.
 
 (ROOT
   (S
@@ -593,6 +629,8 @@ det(first-2, The-1)
 nsubj(talent-4, first-2)
 cop(talent-4, is-3)
 root(ROOT-0, talent-4)
+
+As/IN the/DT second-best/JJ player/NN of/IN the/DT Gretzky/NNP era/NN ,/, Lemieux/NNP never/RB got/VBD the/DT recognition/NN he/PRP deserved/VBD ./.
 
 (ROOT
   (S
@@ -627,6 +665,8 @@ dobj(got-12, recognition-14)
 nsubj(deserved-16, he-15)
 rcmod(recognition-14, deserved-16)
 
+The/DT second/JJ factor/NN is/VBZ health/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (JJ second) (NN factor))
@@ -639,6 +679,8 @@ amod(factor-3, second-2)
 nsubj(health-5, factor-3)
 cop(health-5, is-4)
 root(ROOT-0, health-5)
+
+Lemieux/NNP survived/VBD Hodgkin/NNP 's/POS disease/NN and/CC chronic/JJ back/JJ problems/NNS ./.
 
 (ROOT
   (S
@@ -661,6 +703,8 @@ amod(problems-9, back-8)
 dobj(survived-2, problems-9)
 conj_and(disease-5, problems-9)
 
+The/DT third/JJ element/NN is/VBZ money/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (JJ third) (NN element))
@@ -673,6 +717,8 @@ amod(element-3, third-2)
 nsubj(money-5, element-3)
 cop(money-5, is-4)
 root(ROOT-0, money-5)
+
+Lemieux/NNP rescued/VBD his/PRP$ team/NN from/IN bankruptcy/NN last/JJ season/NN by/IN exchanging/VBG deferred/JJ salary/NN for/IN an/DT ownership/NN stake/NN ./.
 
 (ROOT
   (S
@@ -704,6 +750,8 @@ det(stake-16, an-14)
 nn(stake-16, ownership-15)
 prep_for(exchanging-10, stake-16)
 
+But/CC the/DT franchise/NN still/RB seeks/VBZ new/JJ investors/NNS and/CC a/DT new/JJ arena/NN to/TO replace/VB the/DT NHL/NNP 's/POS oldest/JJS rink/NN ./.
+
 (ROOT
   (S (CC But)
     (NP (DT the) (NN franchise))
@@ -727,9 +775,11 @@ nsubj(seeks-5, franchise-3)
 advmod(seeks-5, still-4)
 root(ROOT-0, seeks-5)
 amod(investors-7, new-6)
+dobj(seeks-5, investors-7)
 nsubj(replace-13, investors-7)
 det(arena-11, a-9)
 amod(arena-11, new-10)
+dobj(seeks-5, arena-11)
 conj_and(investors-7, arena-11)
 nsubj(replace-13, arena-11)
 aux(replace-13, to-12)
@@ -738,6 +788,8 @@ det(NHL-15, the-14)
 poss(rink-18, NHL-15)
 amod(rink-18, oldest-17)
 dobj(replace-13, rink-18)
+
+Mix/NNP in/IN the/DT family/NN angle/NN _/IN his/PRP$ young/JJ son/NN wants/NNS to/TO see/VB him/PRP play/VB !/.
 
 (ROOT
   (NP
@@ -767,6 +819,8 @@ aux(see-12, to-11)
 vmod(Mix-1, see-12)
 nsubj(play-14, him-13)
 ccomp(see-12, play-14)
+
+Finally/RB ,/, sprinkle/VB it/PRP generously/RB with/IN competitive/JJ flavoring/NN because/IN Lemieux/NNP 's/POS presence/NN could/MD transform/VB a/DT mediocre/NN ,/, underperforming/VBG team/NN into/IN a/DT dynamic/JJ and/CC overachieving/JJ team/NN ./.
 
 (ROOT
   (S
@@ -817,6 +871,8 @@ conj_and(dynamic-22, overachieving-24)
 amod(team-25, overachieving-24)
 prep_into(team-19, team-25)
 
+The/DT other/JJ Pittsburgh/NNP superstar/NN ,/, Jaromir/NNP Jagr/NNP ,/, admires/VBZ Lemieux/NNP ,/, who/WP might/MD change/VB Jagr/NNP 's/POS recent/JJ sulks/NNS and/CC pouts/NNS into/IN shouts/NNS of/IN triumph/NN ./.
+
 (ROOT
   (S
     (NP
@@ -864,6 +920,8 @@ dobj(change-14, pouts-20)
 conj_and(sulks-18, pouts-20)
 prep_into(change-14, shouts-22)
 prep_of(shouts-22, triumph-24)
+
+At/IN the/DT very/RB least/JJS ,/, Lemieux/NNP will/MD attract/VB ticket/NN buyers/NNS and/CC television/NN viewers/NNS to/TO a/DT wintry/NN sport/NN that/WDT usually/RB spins/VBZ its/PRP$ wheels/NNS along/IN the/DT road/NN to/TO show-business/JJ success/NN ./.
 
 (ROOT
   (S
@@ -916,6 +974,8 @@ prep_along(spins-20, road-25)
 amod(success-28, show-business-27)
 prep_to(road-25, success-28)
 
+So/RB what/WP could/MD be/VB wrong/VBN with/IN this/DT picture/NN ?/.
+
 (ROOT
   (SBARQ (RB So)
     (WHNP (WP what))
@@ -935,6 +995,8 @@ root(ROOT-0, wrong-5)
 det(picture-8, this-7)
 prep_with(wrong-5, picture-8)
 
+Start/NNP with/IN health/NN ./.
+
 (ROOT
   (NP
     (NP (NNP Start))
@@ -944,6 +1006,8 @@ prep_with(wrong-5, picture-8)
 
 root(ROOT-0, Start-1)
 prep_with(Start-1, health-3)
+
+Lemieux/NNP says/VBZ his/PRP$ back/RB has/VBZ never/RB felt/VBN better/RBR ./.
 
 (ROOT
   (S
@@ -967,6 +1031,8 @@ aux(felt-7, has-5)
 neg(felt-7, never-6)
 ccomp(says-2, felt-7)
 advmod(felt-7, better-8)
+
+One/CD way/NN to/TO change/NN that/WDT is/VBZ by/IN playing/NN hockey/NN ,/, which/WDT punishes/VBZ even/RB young/JJ ,/, healthy/JJ bodies/NNS ./.
 
 (ROOT
   (NP
@@ -1005,6 +1071,8 @@ amod(way-2, young-14)
 amod(bodies-17, healthy-16)
 appos(way-2, bodies-17)
 
+Can/NNP Lemieux/NNP produce/VBP at/IN a/DT high/JJ level/NN at/IN age/JJ 35/CD ?/.
+
 (ROOT
   (S
     (NP (NNP Can) (NNP Lemieux))
@@ -1024,6 +1092,8 @@ amod(level-7, high-6)
 prep_at(produce-3, level-7)
 amod(35-10, age-9)
 prep_at(level-7, 35-10)
+
+Perhaps/RB ,/, although/IN crackdowns/NNS on/IN obstruction/NN fouls/NNS ,/, such/JJ as/IN this/DT season's/NN ,/, tend/NN to/TO weaken/VB around/IN mid-schedule/JJ and/CC evaporate/JJ come/VB playoff/NN time/NN ./.
 
 (ROOT
   (S
@@ -1054,7 +1124,7 @@ prep_at(level-7, 35-10)
 advmod(come-21, Perhaps-1)
 mark(tend-14, although-3)
 nsubj(tend-14, crackdowns-4)
-xsubj(weaken-16, crackdowns-4)
+nsubj(weaken-16, crackdowns-4)
 nn(fouls-7, obstruction-6)
 prep_on(crackdowns-4, fouls-7)
 det(season's-12, this-11)
@@ -1068,6 +1138,8 @@ conj_and(mid-schedule-18, evaporate-20)
 root(ROOT-0, come-21)
 nn(time-23, playoff-22)
 dobj(come-21, time-23)
+
+This/DT helped/JJ persuade/NN Lemieux/NNP to/TO retire/VB the/DT first/JJ time/NN ./.
 
 (ROOT
   (S
@@ -1086,6 +1158,8 @@ root(ROOT-0, retire-6)
 det(time-9, the-7)
 amod(time-9, first-8)
 dobj(retire-6, time-9)
+
+The/DT third/JJ caveat/NN could/MD be/VB troubles/NNS ,/, team/NN -wide/NN ,/, on/IN the/DT ice/NN and/CC above/IN it/PRP ./.
 
 (ROOT
   (S
@@ -1118,6 +1192,8 @@ appos(troubles-6, -wide-9)
 det(ice-13, the-12)
 prep_on(troubles-6, ice-13)
 prep_above(troubles-6', it-16)
+
+Despite/IN a/DT shrewd/JJ general/JJ manager/NN in/IN Craig/NNP Patrick/NNP and/CC a/DT loyal/JJ fan/NN base/NN that/WDT understands/VBZ the/DT sport/NN ,/, the/DT Pittsburgh/NNP franchise/NN has/VBZ seemed/VBN unsteady/JJ since/IN the/DT Stanley/NNP Cup/NNP years/NNS of/IN 1991/CD and/CC 1992/CD ./.
 
 (ROOT
   (S
@@ -1152,7 +1228,7 @@ prep_above(troubles-6', it-16)
 det(manager-5, a-2)
 amod(manager-5, shrewd-3)
 amod(manager-5, general-4)
-prep_despite(unsteady-24, manager-5)
+prep_despite(seemed-23, manager-5)
 nn(Patrick-8, Craig-7)
 prep_in(manager-5, Patrick-8)
 det(base-13, a-10)
@@ -1160,23 +1236,25 @@ amod(base-13, loyal-11)
 nn(base-13, fan-12)
 conj_and(manager-5, base-13)
 nsubj(understands-15, base-13)
-prep_despite(unsteady-24, base-13)
+prep_despite(seemed-23, base-13)
 rcmod(base-13, understands-15)
 det(sport-17, the-16)
 dobj(understands-15, sport-17)
 det(franchise-21, the-19)
 nn(franchise-21, Pittsburgh-20)
-nsubj(unsteady-24, franchise-21)
-aux(unsteady-24, has-22)
-cop(unsteady-24, seemed-23)
-root(ROOT-0, unsteady-24)
+nsubj(seemed-23, franchise-21)
+aux(seemed-23, has-22)
+root(ROOT-0, seemed-23)
+xcomp(seemed-23, unsteady-24)
 det(years-29, the-26)
 nn(years-29, Stanley-27)
 nn(years-29, Cup-28)
-prep_since(unsteady-24, years-29)
+prep_since(seemed-23, years-29)
 prep_of(years-29, 1991-31)
 prep_of(years-29, 1992-33)
 conj_and(1991-31, 1992-33)
+
+The/DT market/NN is/VBZ of/IN modest/JJS size/NN ./.
 
 (ROOT
   (S
@@ -1191,6 +1269,8 @@ nsubj(is-3, market-2)
 root(ROOT-0, is-3)
 amod(size-6, modest-5)
 prep_of(is-3, size-6)
+
+The/DT new/JJ coach/NN ,/, Ivan/NNP Hlinka/NNP ,/, is/VBZ one/CD of/IN the/DT NHL/NNP 's/POS first/JJ from/IN Europe/NNP ,/, and/CC his/PRP$ adjustment/NN curve/NN has/VBZ been/VBN steep/JJ ./.
 
 (ROOT
   (S
@@ -1237,6 +1317,8 @@ nsubj(steep-24, curve-21)
 aux(steep-24, has-22)
 cop(steep-24, been-23)
 conj_and(one-9, steep-24)
+
+Should/NNP the/DT Penguins/NNPS falter/NN as/IN a/DT team/NN in/IN the/DT short/JJ term/NN or/CC as/IN a/DT business/NN in/IN the/DT long/JJ term/NN ,/, Lemieux/NNP could/MD be/VB vulnerable/JJ to/TO disappointment/NN and/CC even/RB blame/NN ./.
 
 (ROOT
   (S
@@ -1291,6 +1373,8 @@ advmod(blame-29, even-28)
 prep_to(vulnerable-24, blame-29)
 conj_and(disappointment-26, blame-29)
 
+A/DT coincidence/NN of/IN interest/NN in/IN good/JJ times/NNS might/MD seem/VB like/IN a/DT conflict/NN during/IN struggles/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -1319,6 +1403,8 @@ det(conflict-12, a-11)
 prep_like(seem-9, conflict-12)
 prep_during(seem-9, struggles-14)
 
+But/CC who/WP wants/VBZ to/TO dwell/VB on/IN the/DT potential/JJ downside/NN ?/.
+
 (ROOT
   (SBARQ (CC But)
     (WHNP (WP who))
@@ -1333,13 +1419,15 @@ prep_during(seem-9, struggles-14)
 
 cc(wants-3, But-1)
 nsubj(wants-3, who-2)
-xsubj(dwell-5, who-2)
+nsubj(dwell-5, who-2)
 root(ROOT-0, wants-3)
 aux(dwell-5, to-4)
 xcomp(wants-3, dwell-5)
 det(downside-9, the-7)
 amod(downside-9, potential-8)
 prep_on(dwell-5, downside-9)
+
+Consider/NNP the/DT vibration/NN at/IN the/DT Devils/NNP game/NN against/IN Columbus/NNP in/IN the/DT Meadowlands/NNPS on/IN Wednesday/NN night/NN ./.
 
 (ROOT
   (NP
@@ -1369,6 +1457,8 @@ det(Meadowlands-12, the-11)
 prep_in(Columbus-9, Meadowlands-12)
 nn(night-15, Wednesday-14)
 prep_on(Consider-1, night-15)
+
+While/RB the/DT Stanley/NNP Cup/NNP champions/NNS played/VBD the/DT expansion/NN Blue/IN Jackets/NNP ,/, fans/NNS in/IN the/DT seats/NNS kept/VBD glancing/VBG at/IN the/DT out-of-town/JJ scoreboard/NN and/CC murmuring/NN about/IN Lemieux/NNP every/NN time/NN the/DT electric/JJ sign/NN posted/VBD another/DT Pittsburgh/NNP goal/NN ./.
 
 (ROOT
   (S
@@ -1432,6 +1522,8 @@ det(goal-34, another-32)
 nn(goal-34, Pittsburgh-33)
 dobj(posted-31, goal-34)
 
+In/IN the/DT press/NN room/NN ,/, between/IN periods/NNS ,/, reporters/NNS gathered/VBD to/TO watch/VB Lemieux/NNP 's/POS televised/NN highlights/NNS from/IN the/DT Igloo/NNP ./.
+
 (ROOT
   (S
     (PP (IN In)
@@ -1457,7 +1549,7 @@ nn(room-4, press-3)
 prep_in(gathered-10, room-4)
 prep_between(gathered-10, periods-7)
 nsubj(gathered-10, reporters-9)
-xsubj(watch-12, reporters-9)
+nsubj(watch-12, reporters-9)
 root(ROOT-0, gathered-10)
 aux(watch-12, to-11)
 xcomp(gathered-10, watch-12)
@@ -1466,6 +1558,8 @@ nn(highlights-16, televised-15)
 dobj(watch-12, highlights-16)
 det(Igloo-19, the-18)
 prep_from(watch-12, Igloo-19)
+
+In/IN the/DT corridor/NN afterward/NN ,/, two/CD Columbus/NNP assistants/NNS met/RB ./.
 
 (ROOT
   (FRAG
@@ -1487,6 +1581,8 @@ nn(assistants-8, Columbus-7)
 appos(afterward-4, assistants-8)
 advmod(assistants-8, met-9)
 
+``Did/IN you/PRP hear/VBP about/IN Mario/NNP ?''/.
+
 (ROOT
   (SBAR (IN ``Did)
     (S
@@ -1501,6 +1597,8 @@ root(ROOT-0, hear-3)
 prep_about(hear-3, Mario-5)
 punct(Mario-5, ?''-6)
 
+one/CD asked/VBD ./.
+
 (ROOT
   (S
     (NP (CD one))
@@ -1510,11 +1608,15 @@ punct(Mario-5, ?''-6)
 nsubj(asked-2, one-1)
 root(ROOT-0, asked-2)
 
+``Yeah/NNP !''/.
+
 (ROOT
   (NP (NNP ``Yeah) (. !'')))
 
 root(ROOT-0, ``Yeah-1)
 punct(``Yeah-1, !''-2)
+
+his/PRP$ colleague/NN replied/VBD ./.
 
 (ROOT
   (S
@@ -1525,6 +1627,8 @@ punct(``Yeah-1, !''-2)
 poss(colleague-2, his-1)
 nsubj(replied-3, colleague-2)
 root(ROOT-0, replied-3)
+
+Both/DT men/NNS were/VBD smiling/VBG ,/, as/IN happy/NN about/IN that/DT distant/NN development/NN as/IN they/PRP were/VBD with/IN a/DT spunky/JJ 2-2/JJ tie/NN in/IN Continental/NNP Arena/NNP ./.
 
 (ROOT
   (S
@@ -1564,6 +1668,8 @@ prep_with(were-14, tie-19)
 nn(Arena-22, Continental-21)
 prep_in(tie-19, Arena-22)
 
+Even/RB skeptics/NNS and/CC cynics/NNS look/NN to/TO see/VB the/DT bright/NN side/NN ./.
+
 (ROOT
   (NP
     (NP
@@ -1588,6 +1694,8 @@ det(side-10, the-8)
 nn(side-10, bright-9)
 dobj(see-7, side-10)
 
+It/PRP is/VBZ that/DT time/NN of/IN year/NN ./.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -1603,6 +1711,8 @@ cop(time-4, is-2)
 det(time-4, that-3)
 root(ROOT-0, time-4)
 prep_of(time-4, year-6)
+
+The/DT sun/NN is/VBZ turning/VBG back/RB toward/IN the/DT Northern/NNP Hemisphere/NNP ,/, shining/VBG on/IN winter/NN ice/NN as/IN the/DT days/NNS grow/JJ longer/RB ./.
 
 (ROOT
   (S
@@ -1637,6 +1747,8 @@ det(days-17, the-16)
 prep_as(shining-11, days-17)
 advmod(longer-19, grow-18)
 advmod(shining-11, longer-19)
+
+Both/DT friends/NNS and/CC foes/VBZ of/IN the/DT Pittsburgh/NNP Penguins/NNPS have/VBP a/DT rooting/JJ interest/NN in/IN a/DT Happy/NNP New/NNP Year/NNP for/IN the/DT athlete/JJ they/PRP call/MD le/VB Magnifique/NNP ./.
 
 (ROOT
   (S
@@ -1685,6 +1797,8 @@ nsubj(le-23, they-21)
 aux(le-23, call-22)
 rcmod(interest-12, le-23)
 dobj(le-23, Magnifique-24)
+
+NYT-12-28-00/CD 2227EST/CD
 
 (ROOT
   (FRAG

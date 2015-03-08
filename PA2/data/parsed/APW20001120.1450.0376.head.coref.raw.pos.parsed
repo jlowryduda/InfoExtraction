@@ -1,3 +1,5 @@
+APW20001120.1450.0376/CD NEWS/NNP STORY/NNP 2000-11-20/CD 14:50:49/CD
+
 (ROOT
   (NP
     (NP (CD APW20001120.1450.0376))
@@ -10,10 +12,14 @@ dep(APW20001120.1450.0376-1, STORY-3)
 num(14:50:49-5, 2000-11-20-4)
 dep(APW20001120.1450.0376-1, 14:50:49-5)
 
+Afghanistan-Prisoner-Release/JJ
+
 (ROOT
   (ADJP (JJ Afghanistan-Prisoner-Release)))
 
 root(ROOT-0, Afghanistan-Prisoner-Release-1)
+
+Taliban/NNP Releases/NNPS 137/CD Prisoners/NNS
 
 (ROOT
   (NP
@@ -25,10 +31,12 @@ root(ROOT-0, Releases-2)
 num(Prisoners-4, 137-3)
 dep(Releases-2, Prisoners-4)
 
+KABUL/NNP ,/, Afghanistan/NNP [AP/NNP ]/NNP _/, The/DT ruling/VBG Taliban/JJ militia/NNS on/IN Monday/NNP released/VBD 137/CD Shiite/NNP Muslim/NNP prisoners/NNS it/PRP had/VBD held/VBN for/IN nearly/RB two/CD years/NNS and/CC urged/VBD the/DT opposition/NN to/TO follow/VB suit/NN and/CC release/JJ government/NN prisoners/NNS it/PRP is/VBZ holding/VBG ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP KABUL) (, ,) (NNP Afghanistan) (NNP (AP) (NNP )))
+      (NP (NNP KABUL) (, ,) (NNP Afghanistan) (NNP [AP) (NNP ]))
       (PP (, _)
         (NP
           (NP (DT The) (VBG ruling) (JJ Taliban) (NNS militia))
@@ -63,17 +71,16 @@ dep(Releases-2, Prisoners-4)
                       (VP (VBG holding)))))))))))
     (. .)))
 
-nn()-5, KABUL-1)
-appos()-5, Afghanistan-3)
-nn()-5, (AP-4)
-nsubj(released-13, )-5)
-nsubj(urged-26, )-5)
-xsubj(follow-30, )-5)
+nn(]-5, KABUL-1)
+appos(]-5, Afghanistan-3)
+nn(]-5, [AP-4)
+nsubj(released-13, ]-5)
+nsubj(urged-26, ]-5)
 punct(militia-10, _-6)
 det(militia-10, The-7)
 amod(militia-10, ruling-8)
 amod(militia-10, Taliban-9)
-prep()-5, militia-10)
+prep(]-5, militia-10)
 prep_on(militia-10, Monday-12)
 root(ROOT-0, released-13)
 num(prisoners-17, 137-14)
@@ -89,6 +96,7 @@ prep_for(held-20, years-24)
 conj_and(released-13, urged-26)
 det(opposition-28, the-27)
 dobj(urged-26, opposition-28)
+nsubj(follow-30, opposition-28)
 aux(follow-30, to-29)
 xcomp(urged-26, follow-30)
 nn(prisoners-35, suit-31)
@@ -99,6 +107,8 @@ dobj(follow-30, prisoners-35)
 nsubj(holding-38, it-36)
 aux(holding-38, is-37)
 rcmod(prisoners-35, holding-38)
+
+The/DT freed/JJ men/NN ,/, all/DT said/VBD to/TO be/VB fighters/NNS belonging/VBG to/TO the/DT opposition/NN alliance/NN ,/, were/VBD released/VBN ahead/RB of/IN the/DT Islamic/JJ holy/JJ month/NN of/IN Ramadan/NNP ,/, when/WRB devout/NN Muslims/NNS fast/RB from/IN sunrise/NN to/TO sunset/VB ./.
 
 (ROOT
   (S
@@ -142,7 +152,7 @@ det(men-3, The-1)
 amod(men-3, freed-2)
 nsubjpass(released-17, men-3)
 nsubj(said-6, all-5)
-xsubj(fighters-9, all-5)
+nsubj(fighters-9, all-5)
 rcmod(men-3, said-6)
 aux(fighters-9, to-7)
 cop(fighters-9, be-8)
@@ -165,6 +175,8 @@ advmod(sunset-34, fast-30)
 prep_from(fast-30, sunrise-32)
 aux(sunset-34, to-33)
 xcomp(released-17, sunset-34)
+
+``The/JJ prisoners/NNS are/VBP being/VBG released/VBN as/IN a/DT gesture/NN of/IN kindness/NN ''/'' by/IN the/DT Taliban/NNP 's/POS supreme/NN leader/NN Mullah/NNP Mohammed/NNP Omar/NNP ,/, said/VBD the/DT Taliban/NNP 's/POS Interior/NNP Minister/NNP Abdul/NNP Razzak/NNP Akhund/NNP ./.
 
 (ROOT
   (SINV
@@ -215,6 +227,8 @@ dobj(said-22, Abdul-28)
 nn(Akhund-30, Razzak-29)
 nsubj(said-22, Akhund-30)
 
+``We/RB ask/VB the/DT opposition/NN to/TO show/VB their/PRP$ heart/NN and/CC release/JJ government/NN prisoners/NNS in/IN their/PRP$ jails/NNS .''/.
+
 (ROOT
   (S
     (ADVP (RB ``We))
@@ -245,6 +259,8 @@ conj_and(heart-8, prisoners-12)
 poss(jails-15, their-14)
 prep_in(show-6, jails-15)
 punct(ask-2, .''-16)
+
+The/DT opposition/NN alliance/NN ,/, which/WDT controls/VBZ barely/RB five/CD percent/NN of/IN Afghanistan/NNP and/CC is/VBZ fighting/VBG a/DT war/NN against/IN the/DT dominant/JJ Taliban/NNP ,/, is/VBZ mostly/RB made/VBN up/RP of/IN the/DT country/NN 's/POS minority/NN ethnic/JJ and/CC religious/JJ groups/NNS ./.
 
 (ROOT
   (S
@@ -313,6 +329,8 @@ amod(groups-34, religious-33)
 prep_of(made-24, groups-34)
 conj_and(minority-30, groups-34)
 
+The/DT Taliban/NNP are/VBP predominantly/RB Sunni/NNP Muslim/NNP ,/, which/WDT is/VBZ the/DT majority/NN Islamic/JJ sect/NN in/IN the/DT country/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Taliban))
@@ -345,6 +363,8 @@ amod(sect-13, Islamic-12)
 rcmod(Muslim-6, sect-13)
 det(country-16, the-15)
 prep_in(sect-13, country-16)
+
+The/DT Taliban/NNP have/VBP been/VBN accused/VBN by/IN international/JJ human/JJ rights/NNS groups/NNS of/IN mistreating/VBG the/DT minority/NN Shiite/NNP Muslims/NNP ,/, a/DT charge/NN they/PRP reject/VBD ./.
 
 (ROOT
   (S
@@ -390,6 +410,8 @@ appos(minority-14, charge-19)
 nsubj(reject-21, they-20)
 rcmod(charge-19, reject-21)
 
+The/DT newly/RB released/JJ prisoners/NNS were/VBD captured/VBN when/WRB the/DT Taliban/NNP took/VBD control/NN of/IN Afghanistan/NNP 's/POS central/JJ Bamyan/NNP province/NN ,/, nearly/RB two/CD years/NNS ago/RB ./.
+
 (ROOT
   (S
     (NP (DT The)
@@ -434,6 +456,8 @@ num(years-21, two-20)
 npadvmod(ago-22, years-21)
 advmod(took-10, ago-22)
 
+The/DT area/NN is/VBZ largely/RB inhabited/VBN by/IN minority/NN Shiite/NNP Muslims/NNP ./.
+
 (ROOT
   (S
     (NP (DT The) (NN area))
@@ -452,6 +476,8 @@ root(ROOT-0, inhabited-5)
 nn(Muslims-9, minority-7)
 nn(Muslims-9, Shiite-8)
 agent(inhabited-5, Muslims-9)
+
+``I/NNP am/VBP very/RB happy/JJ to/TO be/VB going/VBG home/NN ,''/, said/VBD Ali/NNP Jan/NNP ,/, one/CD of/IN the/DT prisoners/NNS who/WP said/VBD he/PRP was/VBD a/DT farmer/NN in/IN Bamyan/NNP and/CC not/RB a/DT soldier/JJR ./.
 
 (ROOT
   (SINV
@@ -493,7 +519,7 @@ agent(inhabited-5, Muslims-9)
     (. .)))
 
 nsubj(happy-4, ``I-1)
-xsubj(going-7, ``I-1)
+nsubj(going-7, ``I-1)
 cop(happy-4, am-2)
 advmod(happy-4, very-3)
 ccomp(said-10, happy-4)

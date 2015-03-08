@@ -1,3 +1,5 @@
+APW20001007.1745.0378/DT NEWS/NNP STORY/NNPS 2000-10-07/CD 18:33:34/CD
+
 (ROOT
   (NP
     (NP (DT APW20001007.1745.0378))
@@ -10,10 +12,14 @@ dep(APW20001007.1745.0378-1, STORY-3)
 num(18:33:34-5, 2000-10-07-4)
 dep(APW20001007.1745.0378-1, 18:33:34-5)
 
+Yugoslavia-Milosevic's-Plans/NNPS
+
 (ROOT
   (NP (NNPS Yugoslavia-Milosevic's-Plans)))
 
 root(ROOT-0, Yugoslavia-Milosevic's-Plans-1)
+
+Milosesvic/NNP May/NNP Undermine/NNP Reforms/NNPS
 
 (ROOT
   (NP (NNP Milosesvic) (NNP May) (NNP Undermine) (NNPS Reforms)))
@@ -23,11 +29,13 @@ nn(Reforms-4, May-2)
 nn(Reforms-4, Undermine-3)
 root(ROOT-0, Reforms-4)
 
+BELGRADE/NNP ,/, Yugoslavia/NNP [AP/NNP ]/, _/DT Slobodan/NNP Milosevic/NNP 's/POS plans/NNS to/TO remain/VB active/JJ in/IN politics/NNS could/MD spell/VB trouble/NN for/IN Yugoslavia/NNP 's/POS newly/NN elected/VBD president/NN and/CC the/DT victorious/JJ pro-democracy/NN coalition/NN ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP BELGRADE) (, ,) (NNP Yugoslavia) (NNP (AP))
-      (PP (, ))
+      (NP (NNP BELGRADE) (, ,) (NNP Yugoslavia) (NNP [AP))
+      (PP (, ])
         (NP
           (NP (DT _) (NNP Slobodan) (NNP Milosevic) (POS 's))
           (NNS plans)
@@ -52,18 +60,18 @@ root(ROOT-0, Reforms-4)
                 (NP (DT the) (JJ victorious) (NN pro-democracy) (NN coalition))))))))
     (. .)))
 
-nn((AP-4, BELGRADE-1)
-appos((AP-4, Yugoslavia-3)
-nsubj(spell-17, (AP-4)
-punct(plans-10, )-5)
+nn([AP-4, BELGRADE-1)
+appos([AP-4, Yugoslavia-3)
+nsubj(spell-17, [AP-4)
+punct(plans-10, ]-5)
 det(Milosevic-8, _-6)
 nn(Milosevic-8, Slobodan-7)
 poss(plans-10, Milosevic-8)
-prep((AP-4, plans-10)
-aux(active-13, to-11)
-cop(active-13, remain-12)
-vmod(plans-10, active-13)
-prep_in(active-13, politics-15)
+prep([AP-4, plans-10)
+aux(remain-12, to-11)
+vmod(plans-10, remain-12)
+acomp(remain-12, active-13)
+prep_in(remain-12, politics-15)
 aux(spell-17, could-16)
 root(ROOT-0, spell-17)
 dobj(spell-17, trouble-18)
@@ -77,6 +85,8 @@ amod(coalition-29, victorious-27)
 nn(coalition-29, pro-democracy-28)
 dobj(elected-23, coalition-29)
 conj_and(president-24, coalition-29)
+
+The/DT disgraced/JJ autocrat/NN 's/POS Socialist/NN Party/NNP and/CC its/PRP$ neo-communist/JJ allies/NNS appeared/VBD to/TO be/VB on/IN the/DT verge/NN of/IN collapse/NN after/IN massive/JJ and/CC violent/JJ protests/NNS led/VBD them/PRP to/TO acknowledge/VB victory/NN by/IN opposition/NN challenger/NN Vojislav/NNP Kostunica/NNP in/IN last/JJ month/NN 's/POS presidential/JJ vote/NN ./.
 
 (ROOT
   (S
@@ -123,12 +133,12 @@ amod(autocrat-3, disgraced-2)
 poss(Socialist-5, autocrat-3)
 nsubj(led-24, Socialist-5)
 nsubj(appeared-11, Party-6)
-xsubj(be-13, Party-6)
+nsubj(be-13, Party-6)
 poss(allies-10, its-8)
 amod(allies-10, neo-communist-9)
 conj_and(Party-6, allies-10)
 nsubj(appeared-11, allies-10)
-xsubj(be-13, allies-10)
+nsubj(be-13, allies-10)
 rcmod(Socialist-5, appeared-11)
 aux(be-13, to-12)
 xcomp(appeared-11, be-13)
@@ -140,6 +150,7 @@ conj_and(massive-20, violent-22)
 amod(protests-23, violent-22)
 prep_after(be-13, protests-23)
 root(ROOT-0, led-24)
+dobj(led-24, them-25)
 nsubj(acknowledge-27, them-25)
 aux(acknowledge-27, to-26)
 xcomp(led-24, acknowledge-27)
@@ -152,6 +163,8 @@ amod(month-36, last-35)
 poss(vote-39, month-36)
 amod(vote-39, presidential-38)
 prep_in(Kostunica-33, vote-39)
+
+Party/NNP activities/NNS have/VBP been/VBN suspended/VBN since/IN Thursday/NNP ,/, when/WRB pro-democracy/JJ demonstrators/NNS stormed/VBD federal/JJ parliament/NN ,/, the/DT state/NN television/NN building/NN and/CC other/JJ centers/NNS of/IN Milosevic/NNP 's/POS power/NN ./.
 
 (ROOT
   (S
@@ -205,6 +218,8 @@ conj_and(parliament-14, centers-22)
 poss(power-26, Milosevic-24)
 prep_of(centers-22, power-26)
 
+Milosevic/NNP ,/, who/WP has/VBZ been/VBN indicted/VBN by/IN the/DT international/JJ war/NN crimes/NNS tribunal/NN in/IN The/DT Hague/NNP ,/, Netherlands/NNS ,/, cannot/NN leave/NN Yugoslavia/NNP without/IN risking/VBG arrest/RB and/CC extradition/NN ./.
+
 (ROOT
   (NP
     (NP
@@ -257,6 +272,8 @@ advmod(risking-23, arrest-24)
 prep_in(Milosevic-1, extradition-26)
 conj_and(Hague-15, extradition-26)
 
+Kostunica/NNP has/VBZ pledged/VBN not/RB to/TO extradite/VB him/PRP ./.
+
 (ROOT
   (S
     (NP (NNP Kostunica))
@@ -269,13 +286,15 @@ conj_and(Hague-15, extradition-26)
     (. .)))
 
 nsubj(pledged-3, Kostunica-1)
-xsubj(extradite-6, Kostunica-1)
+nsubj(extradite-6, Kostunica-1)
 aux(pledged-3, has-2)
 root(ROOT-0, pledged-3)
 neg(extradite-6, not-4)
 aux(extradite-6, to-5)
 xcomp(pledged-3, extradite-6)
 dobj(extradite-6, him-7)
+
+But/CC Milosevic/NNP appears/NNS to/TO retain/VB enough/JJ residual/JJ power/NN to/TO block/VB Kostunica/NNP 's/POS reforms/NNS and/CC _/NNS through/IN proxies/NNS who/WP still/RB control/VB Serbia/NNP 's/POS police/NN _/IN Yugoslavia/NNP 's/POS reintegration/NN into/IN the/DT world/NN ./.
 
 (ROOT
   (S (CC But)
@@ -335,6 +354,8 @@ prep__(control-20, reintegration-27)
 det(world-30, the-29)
 prep_into(control-20, world-30)
 
+``I/PRP think/VBP he/PRP is/VBZ preparing/VBG positions/NNS for/IN a/DT stab/NN in/IN the/DT back/RB by/IN consolidating/VBG the/DT police/NN [and/NN ]/IN creating/VBG chaos/NNS ,''/IN Zoran/NNP Djindjic/NNP ,/, head/NN of/IN the/DT Democratic/JJ Party/NNP ,/, told/VBD The/DT Associated/JJ Press/NNP ./.
+
 (ROOT
   (S
     (NP (PRP ``I))
@@ -356,8 +377,8 @@ prep_into(control-20, world-30)
                             (S
                               (VP (VBG consolidating)
                                 (NP (DT the) (NN police))))))
-                        (NN (and))
-                      (PP (IN ))
+                        (NN [and))
+                      (PP (IN ])
                         (S
                           (VP (VBG creating)
                             (NP (NNS chaos))
@@ -383,13 +404,13 @@ ccomp(think-2, preparing-5)
 dobj(preparing-5, positions-6)
 det(stab-9, a-8)
 prep_for(preparing-5, stab-9)
-det((and-17, the-11)
-advmod((and-17, back-12)
+det([and-17, the-11)
+advmod([and-17, back-12)
 prepc_by(back-12, consolidating-14)
 det(police-16, the-15)
 dobj(consolidating-14, police-16)
-prep_in(stab-9, (and-17)
-prepc_)((and-17, creating-19)
+prep_in(stab-9, [and-17)
+prepc_]([and-17, creating-19)
 dobj(creating-19, chaos-20)
 mark(told-31, ,''-21)
 nn(Djindjic-23, Zoran-22)
@@ -402,6 +423,8 @@ advcl(creating-19, told-31)
 det(Press-34, The-32)
 amod(Press-34, Associated-33)
 dobj(told-31, Press-34)
+
+After/IN initial/JJ speculation/NN that/IN he/PRP was/VBD hiding/VBG out/RB ,/, a/DT visibly/RB shaken/JJ Milosevic/NNP appeared/VBN on/IN TV/NNP late/JJ Friday/NN to/TO concede/VB defeat/NN and/CC congratulate/JJ Kostunica/NNP on/IN his/PRP$ victory/NN ./.
 
 (ROOT
   (S
@@ -435,7 +458,7 @@ dobj(told-31, Press-34)
 amod(speculation-3, After-1)
 amod(speculation-3, initial-2)
 nsubj(appeared-14, speculation-3)
-xsubj(concede-20, speculation-3)
+nsubj(concede-20, speculation-3)
 nsubj(congratulate-23, speculation-3)
 mark(hiding-7, that-4)
 nsubj(hiding-7, he-5)
@@ -446,7 +469,7 @@ det(Milosevic-13, a-10)
 advmod(shaken-12, visibly-11)
 amod(Milosevic-13, shaken-12)
 nsubj(appeared-14, Milosevic-13)
-xsubj(concede-20, Milosevic-13)
+nsubj(concede-20, Milosevic-13)
 root(ROOT-0, appeared-14)
 nn(Friday-18, TV-16)
 amod(Friday-18, late-17)
@@ -458,6 +481,8 @@ conj_and(appeared-14, congratulate-23)
 dobj(congratulate-23, Kostunica-24)
 poss(victory-27, his-26)
 prep_on(congratulate-23, victory-27)
+
+``I/NNP intend/NN to/TO rest/VB a/DT little/JJ and/CC spend/VB some/DT more/RBR time/NN with/IN my/PRP$ family/NN and/CC especially/RB with/IN my/PRP$ grandson/NN ,/, Marko/NNP ,/, and/CC after/IN that/DT to/TO help/VB my/PRP$ party/NN gain/NN force/NN and/CC contribute/NN to/TO future/JJ prosperity/NN ,''/, he/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -501,7 +526,8 @@ prep_on(congratulate-23, victory-27)
     (. .)))
 
 nsubj(intend-2, ``I-1)
-xsubj(rest-4, ``I-1)
+nsubj(rest-4, ``I-1)
+nsubj(spend-8, ``I-1)
 ccomp(said-39, intend-2)
 aux(rest-4, to-3)
 xcomp(intend-2, rest-4)
@@ -538,6 +564,8 @@ punct(said-39, ,''-37)
 nsubj(said-39, he-38)
 root(ROOT-0, said-39)
 
+Other/NNP deposed/VBD leaders/NNS have/VBP managed/VBN to/TO stay/VB home/NN and/CC stay/JJ alive/NN ./.
+
 (ROOT
   (S
     (NP (NNP Other))
@@ -560,15 +588,17 @@ root(ROOT-0, said-39)
 nsubj(deposed-2, Other-1)
 root(ROOT-0, deposed-2)
 nsubj(managed-5, leaders-3)
-xsubj(alive-11, leaders-3)
+nsubj(stay-7, leaders-3)
 aux(managed-5, have-4)
 ccomp(deposed-2, managed-5)
-aux(alive-11, to-6)
-cop(alive-11, stay-7)
+aux(stay-7, to-6)
+xcomp(managed-5, stay-7)
 amod(alive-11, home-8)
 conj_and(home-8, stay-10)
 amod(alive-11, stay-10)
-xcomp(managed-5, alive-11)
+dobj(stay-7, alive-11)
+
+But/CC in/IN countries/NNS like/IN Chile/NNP and/CC Indonesia/NNP ,/, the/DT old/JJ autocrats/NNS have/VBP been/VBN troublesome/JJ to/TO new/JJ democratic/JJ regimes/NNS ,/, sabotaging/VBG their/PRP$ efforts/NNS to/TO overcome/VB the/DT legacy/NN of/IN authoritarian/JJ rule/NN ./.
 
 (ROOT
   (S (CC But)
@@ -622,6 +652,8 @@ det(legacy-26, the-25)
 dobj(overcome-24, legacy-26)
 amod(rule-29, authoritarian-28)
 prep_of(legacy-26, rule-29)
+
+Despite/NNP massive/JJ defeats/NNS in/IN the/DT presidential/JJ ballot/NN and/CC local/JJ council/NN elections/NNS ,/, the/DT Socialists/NNS still/RB have/VBP a/DT majority/NN in/IN the/DT state/NN legislature/NN of/IN Serbia/NNP ,/, Yugoslavia/NNP 's/POS dominant/JJ republic/NN ,/, where/WRB they/PRP are/VBP allied/VBN with/IN the/DT ultranationalist/JJ Radical/JJ Party/NNP ./.
 
 (ROOT
   (S
@@ -692,6 +724,8 @@ amod(Party-39, ultranationalist-37)
 amod(Party-39, Radical-38)
 prep_with(allied-34, Party-39)
 
+The/DT president/NN of/IN Serbia/NNP ,/, Milan/NNP Milutinovic/NNP ,/, is/VBZ one/CD of/IN Milosevic/NNP 's/POS closest/JJS cronies/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -721,6 +755,8 @@ root(ROOT-0, one-10)
 poss(cronies-15, Milosevic-12)
 amod(cronies-15, closest-14)
 prep_of(one-10, cronies-15)
+
+He/PRP is/VBZ also/RB an/DT indicted/JJ war/NN criminal/NN ,/, and/CC his/PRP$ fate/JJ depends/NNS on/IN Milosevic/NNP 's/POS own/JJ political/JJ survival/NN ./.
 
 (ROOT
   (S
@@ -754,6 +790,8 @@ amod(survival-18, own-16)
 amod(survival-18, political-17)
 prep_on(depends-12, survival-18)
 
+The/DT Serbian/JJ presidency/NN has/VBZ sweeping/VBG powers/NNS ,/, including/VBG direct/JJ control/NN over/IN the/DT state/NN 's/POS 100,000-strong/JJ police/NN force/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (JJ Serbian) (NN presidency))
@@ -783,6 +821,8 @@ poss(force-17, state-13)
 amod(force-17, 100,000-strong-15)
 nn(force-17, police-16)
 prep_over(control-10, force-17)
+
+Its/NNS powers/NNS are/VBP much/RB more/JJR substantial/JJ than/IN those/DT of/IN the/DT federal/JJ president/NN ,/, even/RB though/JJ Milosevic/NNP beefed/VBD up/RP the/DT post/NN 's/POS stature/NN under/IN his/PRP$ tenure/NN ./.
 
 (ROOT
   (S
@@ -831,6 +871,8 @@ dobj(beefed-17, stature-22)
 poss(tenure-25, his-24)
 prep_under(substantial-6, tenure-25)
 
+``Milutinovic/NNP occupies/VBZ a/DT very/RB strong/JJ post/NN and/CC he/PRP will/MD remain/VB unswervingly/RB loyal/JJ to/TO Milosevic/NNP ,''/NNP said/VBD Braca/NNP Grubacic/NNP ,/, a/DT Belgrade/JJ political/JJ analyst/NN ./.
+
 (ROOT
   (SINV
     (S
@@ -861,12 +903,12 @@ det(post-6, a-3)
 advmod(strong-5, very-4)
 amod(post-6, strong-5)
 dobj(occupies-2, post-6)
-nsubj(loyal-12, he-8)
-aux(loyal-12, will-9)
-cop(loyal-12, remain-10)
+nsubj(remain-10, he-8)
+aux(remain-10, will-9)
+conj_and(occupies-2, remain-10)
+dep(said-16, remain-10)
 advmod(loyal-12, unswervingly-11)
-conj_and(occupies-2, loyal-12)
-dep(said-16, loyal-12)
+acomp(remain-10, loyal-12)
 nn(,''-15, Milosevic-14)
 prep_to(loyal-12, ,''-15)
 root(ROOT-0, said-16)
@@ -876,6 +918,8 @@ det(analyst-23, a-20)
 amod(analyst-23, Belgrade-21)
 amod(analyst-23, political-22)
 appos(Grubacic-18, analyst-23)
+
+``This/NNP presents/VBZ Milosevic/NNP with/IN unlimited/JJ possibilities/NNS to/TO block/VB any/DT reforms/NNS initiated/VBN by/IN Kostunica/NNP .''/.
 
 (ROOT
   (S
@@ -897,6 +941,7 @@ appos(Grubacic-18, analyst-23)
 
 nsubj(presents-2, ``This-1)
 root(ROOT-0, presents-2)
+dobj(presents-2, Milosevic-3)
 nsubj(block-8, Milosevic-3)
 amod(possibilities-6, unlimited-5)
 prep_with(Milosevic-3, possibilities-6)
@@ -907,6 +952,8 @@ dobj(block-8, reforms-10)
 vmod(reforms-10, initiated-11)
 agent(initiated-11, Kostunica-13)
 punct(presents-2, .''-14)
+
+Even/RB on/IN the/DT federal/JJ level/NN ,/, Milosevic/NNP retains/VBZ significant/JJ clout/NN ./.
 
 (ROOT
   (S
@@ -926,6 +973,8 @@ nsubj(retains-8, Milosevic-7)
 root(ROOT-0, retains-8)
 amod(clout-10, significant-9)
 dobj(retains-8, clout-10)
+
+His/PRP$ leftist/JJ coalition/NN controls/VBZ 46/CD of/IN 178/CD seats/NNS in/IN the/DT federal/JJ parliament/NN ./.
 
 (ROOT
   (S
@@ -950,6 +999,8 @@ prep_of(46-5, seats-8)
 det(parliament-12, the-10)
 amod(parliament-12, federal-11)
 prep_in(seats-8, parliament-12)
+
+Together/NNP with/IN an/DT allied/VBN party/NN from/IN Montenegro/NNP ,/, Yugoslavia/NNP 's/POS smaller/NN republic/NN ,/, his/PRP$ allies/NNS could/MD conceivably/RB form/VB the/DT new/JJ federal/JJ government/NN ,/, sidelining/VBG Kostunica/NNP ./.
 
 (ROOT
   (S
@@ -998,6 +1049,8 @@ dobj(form-18, government-22)
 vmod(form-18, sidelining-24)
 dobj(sidelining-24, Kostunica-25)
 
+Ultimately/RB ,/, however/RB ,/, Milosevic/NNP 's/POS ability/NN to/TO play/VB any/DT political/JJ role/NN will/MD depend/VB on/IN his/PRP$ ability/NN to/TO rally/VB his/PRP$ badly/RB shaken/JJ party/NN ./.
+
 (ROOT
   (S
     (ADVP (RB Ultimately))
@@ -1043,6 +1096,8 @@ advmod(shaken-22, badly-21)
 amod(party-23, shaken-22)
 dobj(rally-19, party-23)
 
+Stunned/VBN by/IN the/DT extent/NN of/IN their/PRP$ electoral/JJ defeat/NN ,/, members/NNS were/VBD reported/VBN to/TO be/VB deserting/VBG in/IN droves/NNS ./.
+
 (ROOT
   (S
     (S
@@ -1071,13 +1126,15 @@ poss(defeat-8, their-6)
 amod(defeat-8, electoral-7)
 prep_of(extent-4, defeat-8)
 nsubjpass(reported-12, members-10)
-xsubj(deserting-15, members-10)
+nsubj(deserting-15, members-10)
 auxpass(reported-12, were-11)
 root(ROOT-0, reported-12)
 aux(deserting-15, to-13)
 aux(deserting-15, be-14)
 xcomp(reported-12, deserting-15)
 prep_in(deserting-15, droves-17)
+
+Some/DT opposition/NN leaders/NNS are/VBP convinced/VBN Milosevic/NNP 's/POS power/NN will/MD ebb/VB quickly/RB ,/, now/RB that/IN he/PRP has/VBZ lost/VBN control/NN of/IN the/DT government/NN media/NNS he/PRP used/VBD as/IN his/PRP$ propaganda/NN mouthpiece/NN during/IN 13/CD years/NNS of/IN iron-fisted/JJ rule/NN ./.
 
 (ROOT
   (S
@@ -1131,6 +1188,7 @@ advmod(ebb-10, now-13)
 mark(lost-17, that-14)
 nsubj(lost-17, he-15)
 aux(lost-17, has-16)
+advcl(now-13, lost-17)
 ccomp(now-13, lost-17)
 dobj(lost-17, control-18)
 det(media-22, the-20)
@@ -1145,6 +1203,8 @@ num(years-31, 13-30)
 prep_during(used-24, years-31)
 amod(rule-34, iron-fisted-33)
 prep_of(years-31, rule-34)
+
+Milosevic/NNP also/RB remains/VBZ vulnerable/JJ to/TO criminal/JJ prosecution/NN for/IN running/VBG one/CD of/IN Europe/NNP 's/POS most/JJS corrupt/NN regimes/NNS ./.
 
 (ROOT
   (S
@@ -1165,18 +1225,20 @@ prep_of(years-31, rule-34)
                   (JJS most) (NN corrupt) (NNS regimes))))))))
     (. .)))
 
-nsubj(vulnerable-4, Milosevic-1)
-advmod(vulnerable-4, also-2)
-cop(vulnerable-4, remains-3)
-root(ROOT-0, vulnerable-4)
+nsubj(remains-3, Milosevic-1)
+advmod(remains-3, also-2)
+root(ROOT-0, remains-3)
+acomp(remains-3, vulnerable-4)
 amod(prosecution-7, criminal-6)
 prep_to(vulnerable-4, prosecution-7)
-prepc_for(vulnerable-4, running-9)
+prepc_for(remains-3, running-9)
 dobj(running-9, one-10)
 poss(regimes-16, Europe-12)
 amod(regimes-16, most-14)
 nn(regimes-16, corrupt-15)
 prep_of(one-10, regimes-16)
+
+Some/DT have/VBP accused/VBN him/PRP of/IN orchestrating/VBG a/DT spate/NN of/IN assassinations/NNS in/IN which/WDT some/DT of/IN the/DT country/NN 's/POS most/JJS senior/JJ politicians/NNS and/CC underworld/JJ figures/NNS have/VBP died/VBN ./.
 
 (ROOT
   (S
@@ -1229,6 +1291,8 @@ conj_and(some-13, figures-23)
 nsubj(died-25, figures-23)
 aux(died-25, have-24)
 rcmod(assassinations-10, died-25)
+
+``In/IN the/DT end/NN ,/, Milosevic/NNP may/MD even/RB prefer/VB extradition/NN to/TO The/DT Hague/NNP rather/RB than/IN stay/JJ here/RB and/CC face/RB our/PRP$ justice/NN ,''/CC said/VBD opposition/NN leader/NN Zarko/NNP Korac/NNP ./.
 
 (ROOT
   (S

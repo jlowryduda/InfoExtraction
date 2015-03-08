@@ -1,3 +1,5 @@
+NYT20001026.2219.0407/NNP NEWS/NNP STORY/NNP 2000-10-26/CD 22:39:10/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001026.2219.0407) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(22:39:10-5, 2000-10-26-4)
 dep(STORY-3, 22:39:10-5)
+
+A7597/CD &Cx1f/NN ;/: taf-z/JJ u/NN e/IN BC-SCULPTRESS-FILM-REVIE/NNP 10-26/CD 0431/CD
 
 (ROOT
   (NP
@@ -28,10 +32,14 @@ prep_e(u-5, BC-SCULPTRESS-FILM-REVIE-7)
 num(BC-SCULPTRESS-FILM-REVIE-7, 10-26-8)
 dep(u-5, 0431-9)
 
+BC-SCULPTRESS-FILM-REVIEW-NYT/NNP
+
 (ROOT
   (NP (NNP BC-SCULPTRESS-FILM-REVIEW-NYT)))
 
 root(ROOT-0, BC-SCULPTRESS-FILM-REVIEW-NYT-1)
+
+`THE/NNP SCULPTRESS/NNP ':/NNP THE/NNP REAL/NNP MYSTERY/NNP IS/NNP WHY/NNP ?/.
 
 (ROOT
   (NP (NNP `THE) (NNP SCULPTRESS) (NNP ':) (NNP THE) (NNP REAL) (NNP MYSTERY) (NNP IS) (NNP WHY) (. ?)))
@@ -45,12 +53,14 @@ nn(WHY-8, MYSTERY-6)
 nn(WHY-8, IS-7)
 root(ROOT-0, WHY-8)
 
+&UR/NNS ;/: [Editors/NNS :/: Production/NNP notes/NNS appear/VBP at/IN end/NN of/IN review/NN .]/IN &LR/NN ;/: &QL/NNP ;/: &UR/NNS ;/: By/NNP A.O/NNP ./.
+
 (ROOT
   (FRAG
     (NP
       (NP (NNS &UR))
       (: ;)
-      (NP (NNS (Editors)))
+      (NP (NNS [Editors)))
     (: :)
     (S
       (NP (NNP Production) (NNS notes))
@@ -62,7 +72,7 @@ root(ROOT-0, WHY-8)
               (NP
                 (NP
                   (NP (NN review))
-                  (PP (IN .))
+                  (PP (IN .])
                     (NP (NN &LR))))
                 (: ;)
                 (NP (NNP &QL))
@@ -74,17 +84,19 @@ root(ROOT-0, WHY-8)
     (. .)))
 
 root(ROOT-0, &UR-1)
-dep(&UR-1, (Editors-3)
+dep(&UR-1, [Editors-3)
 nn(notes-6, Production-5)
 nsubj(appear-7, notes-6)
 dep(&UR-1, appear-7)
 prep_at(appear-7, end-9)
 prep_of(end-9, review-11)
-prep_.)(review-11, &LR-13)
+prep_.](review-11, &LR-13)
 dep(review-11, &QL-15)
 dep(review-11, &UR-17)
 prep(review-11, By-19)
 dep(By-19, A.O-20)
+
+SCOTT/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -111,6 +123,8 @@ dep(&QL-6, &UR-8)
 dep(&LR-2, c.2000-10)
 appos(c.2000-10, N.Y-11)
 
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -127,6 +141,8 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
+
+Back/RB in/IN the/DT pre-cable/JJ heyday/NN of/IN UHF/NNP you/PRP could/MD occasionally/RB find/VB ,/, in/IN the/DT wee/JJ hours/NNS of/IN the/DT morning/NN ,/, a/DT bafflingly/RB obscure/NN ,/, strangely/RB arty/JJ kind/NN of/IN horror/NN film/NN ,/, which/WDT starred/VBD nobody/RB you/PRP recognized/VBN and/CC which/WDT made/VBD ,/, even/RB through/IN the/DT haze/NN of/IN insomnia/NN ,/, very/RB little/JJ sense/NN ./.
 
 (ROOT
   (S
@@ -227,6 +243,8 @@ advmod(little-49, very-48)
 dep(obscure-23, little-49)
 appos(morning-19, sense-50)
 
+This/DT murky/JJ genre/NN survives/VBZ mostly/RB on/IN the/DT USA/NNP cable/NN network/NN and/CC in/IN the/DT straight-to-video/JJ market/NN ,/, but/CC with/IN ``The/JJ Sculptress/NNP ''/'' it/PRP surfaces/VBZ _/DT briefly/NN ,/, one/CD assumes/NNS _/, in/IN theatrical/JJ release/NN ./.
+
 (ROOT
   (S
     (NP (DT This)
@@ -290,6 +308,8 @@ dep(assumes-28, in-30)
 amod(release-32, theatrical-31)
 pobj(in-30, release-32)
 
+The/DT movie/NN 's/POS relative/JJ restraint/NN when/WRB it/PRP comes/VBZ to/TO gore/NN ,/, nudity/NN and/CC bad/NN language/NN makes/VBZ late-night/JJ broadcast/NN television/NN its/PRP$ ideal/NN venue/NN ,/, as/IN does/VBZ its/PRP$ air/NN of/IN solemn/JJ boredom/NN ./.
+
 (ROOT
   (S
     (NP
@@ -346,6 +366,8 @@ dobj(does-25, air-27)
 amod(boredom-30, solemn-29)
 prep_of(air-27, boredom-30)
 
+Katie/NNP Wright/NNP plays/VBZ Sarah/NNP ,/, a/DT British/JJ art/NN student/JJ studying/NN in/IN San/NNP Francisco/NNP ,/, where/WRB she/PRP happens/VBZ to/TO live/VB next/JJ door/NN to/TO a/DT serial/JJ killer/NN [Jeff/NN Fahey/NNP ]/, who/WP dons/VBZ outlandish/JJ costumes/NNS to/TO stalk/VB his/PRP$ victims/NNS ./.
+
 (ROOT
   (S
     (NP (NNP Katie) (NNP Wright))
@@ -356,7 +378,7 @@ prep_of(air-27, boredom-30)
         (NP
           (NP (DT a) (JJ British) (NN art) (JJ student) (NN studying))
           (PP (IN in)
-            (NP (NNP San) (NNP Francisco)))))
+            (NP (NNP San) (NNP Francisco))))
         (, ,)
         (SBAR
           (WHADVP (WRB where))
@@ -369,8 +391,8 @@ prep_of(air-27, boredom-30)
                     (NP
                       (ADVP (JJ next) (NN door)
                         (PP (TO to)
-                          (NP (DT a) (JJ serial) (NN killer) (NN Jeff) (NNP Fahey)))))))))))
-                      (, ,)
+                          (NP (DT a) (JJ serial) (NN killer) (NN [Jeff))))
+                      (NP (NNP Fahey) (, ]))
                       (SBAR
                         (WHNP (WP who))
                         (S
@@ -379,7 +401,7 @@ prep_of(air-27, boredom-30)
                               (NP (JJ outlandish) (NNS costumes))
                               (VP (TO to)
                                 (VP (VB stalk)
-                                  (NP (PRP$ his) (NNS victims)))))))))
+                                  (NP (PRP$ his) (NNS victims)))))))))))))))))
     (. .)))
 
 nn(Wright-2, Katie-1)
@@ -395,26 +417,29 @@ nn(Francisco-13, San-12)
 prep_in(studying-10, Francisco-13)
 advmod(happens-17, where-15)
 nsubj(happens-17, she-16)
-xsubj(live-19, she-16)
+nsubj(live-19, she-16)
 rcmod(Sarah-4, happens-17)
 aux(live-19, to-18)
 xcomp(happens-17, live-19)
 advmod(Fahey-27, next-20)
 dep(next-20, door-21)
-det((Jeff-26, a-23)
-amod((Jeff-26, serial-24)
-nn((Jeff-26, killer-25)
-prep_to(next-20, (Jeff-26)
+det([Jeff-26, a-23)
+amod([Jeff-26, serial-24)
+nn([Jeff-26, killer-25)
+prep_to(next-20, [Jeff-26)
 dobj(live-19, Fahey-27)
 nsubj(dons-30, Fahey-27)
-punct(Fahey-27, )-28)
+punct(Fahey-27, ]-28)
 rcmod(Fahey-27, dons-30)
 amod(costumes-32, outlandish-31)
+dobj(dons-30, costumes-32)
 nsubj(stalk-34, costumes-32)
 aux(stalk-34, to-33)
 xcomp(dons-30, stalk-34)
 poss(victims-36, his-35)
 dobj(stalk-34, victims-36)
+
+To/TO make/VB matters/NNS worse/IN _/NNS not/RB so/RB much/RB for/IN Sarah/JJ as/IN for/IN the/DT audience/NN _/IN this/DT troubled/JJ fellow/NN is/VBZ not/RB just/RB your/PRP$ run-of-the-mill/JJ sexually/RB frustrated/JJ ,/, split-personality/JJ slasher/NN but/CC some/DT kind/NN of/IN evil/JJ spirit/NN who/WP has/VBZ ,/, perhaps/RB unwittingly/RB ,/, infiltrated/VBD his/PRP$ neighbor/NN 's/POS mind/NN ./.
 
 (ROOT
   (S
@@ -498,6 +523,8 @@ poss(neighbor-43, his-42)
 poss(mind-45, neighbor-43)
 dobj(infiltrated-41, mind-45)
 
+It/PRP takes/VBZ a/DT panicky/JJ fortune/NN teller/NN and/CC a/DT kindly/JJ [if/NN vaguely/RB lecherous/JJ ]/IN sculpture/NN professor/NN to/TO figure/VB this/DT out/RB _/IN the/DT professor/NN draws/VBZ a/DT helpful/JJ diagram/NN featuring/VBG words/NNS like/IN ``incubus/NN ''/'' and/CC ``demon/`` child/NN ''/'' _/, but/CC they/PRP can't/VBP do/VB much/RB to/TO help/VB poor/NN Sarah/NNP ,/, who/WP must/MD also/RB fend/VB off/RP the/DT advances/NNS of/IN an/DT aggressive/JJ classmate/NN ,/, struggle/VB with/IN the/DT demands/NNS of/IN her/PRP$ art/NN and/CC ,/, in/IN her/PRP$ modest/NN contribution/NN to/TO the/DT film's/NNS doomy/VBP atmosphere/RB ,/, light/JJ candles/NNS in/IN a/DT dim/NN ,/, spooky/JJ church/NN ./.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -506,11 +533,11 @@ dobj(infiltrated-41, mind-45)
         (NP (DT a) (JJ panicky) (NN fortune) (NN teller))
         (CC and)
         (ADVP
-          (NP (DT a) (JJ kindly) (NN (if))
+          (NP (DT a) (JJ kindly) (NN [if))
           (RB vaguely))
         (NP
           (ADJP (JJ lecherous)
-            (PP (IN ))
+            (PP (IN ])
               (NP (NN sculpture) (NN professor)))
             (S
               (VP (TO to)
@@ -594,15 +621,15 @@ det(teller-6, a-3)
 amod(teller-6, panicky-4)
 nn(teller-6, fortune-5)
 dobj(takes-2, teller-6)
-det((if-10, a-8)
-amod((if-10, kindly-9)
-npadvmod(vaguely-11, (if-10)
+det([if-10, a-8)
+amod([if-10, kindly-9)
+npadvmod(vaguely-11, [if-10)
 dobj(takes-2, vaguely-11)
 advmod(teller-6, vaguely-11)
 conj_and(teller-6, vaguely-11)
 amod(church-85, lecherous-12)
 nn(professor-15, sculpture-14)
-prep_)(lecherous-12, professor-15)
+prep_](lecherous-12, professor-15)
 aux(figure-17, to-16)
 xcomp(lecherous-12, figure-17)
 dobj(figure-17, this-18)
@@ -660,6 +687,8 @@ prep_in(candles-79, dim-82)
 amod(church-85, spooky-84)
 dobj(takes-2, church-85)
 conj_and(teller-6, church-85)
+
+Meanwhile/RB ,/, her/PRP$ neighbor/NN ,/, when/WRB he/PRP 's/VBZ not/RB reciting/VBG ``Hamlet/NN ''/'' in/IN his/PRP$ apartment/NN ,/, dresses/VBZ up/RB as/IN some/DT kind/NN of/IN 19th-century/JJ German/NNP baron/NN ,/, complete/JJ with/IN fake/JJ beard/NN ,/, walking/VBG stick/NN and/CC kid/JJ gloves/NNS _/IN the/DT kind/NN of/IN get-up/JJ women/NNS in/IN San/NNP Francisco/NNP apparently/RB find/VBP irresistible/JJ ./.
 
 (ROOT
   (S
@@ -749,6 +778,8 @@ advmod(find-47, apparently-46)
 dep(dresses-17, find-47)
 dobj(find-47, irresistible-48)
 
+``The/`` Sculptress/NN ''/'' is/VBZ so/RB poorly/RB written/VBN ,/, badly/RB acted/VBN and/CC ineptly/RB directed/VBD that/IN it/PRP denies/VBZ you/PRP even/RB the/DT modest/JJS pleasure/NN of/IN making/VBG fun/NN of/IN it/PRP ./.
+
 (ROOT
   (S
     (NP (`` ``The) (NN Sculptress) ('' ''))
@@ -804,6 +835,8 @@ xcomp(denies-16, pleasure-21)
 prepc_of(pleasure-21, making-23)
 dobj(making-23, fun-24)
 prep_of(fun-24, it-26)
+
+Since/NNP you/PRP know/VBP the/DT identity/NN of/IN the/DT killer/NN well/RB in/IN advance/NN ,/, and/CC since/IN Wright/NNP 's/POS dull/JJ pouting/NN and/CC slack/NN line-reading/VBG make/VB it/PRP impossible/JJ to/TO care/VB what/WP happens/VBZ to/TO her/PRP$ character/NN ,/, the/DT only/JJ real/JJ mystery/NN is/VBZ why/JJ this/DT film/NN was/VBD ever/RB made/VBN ./.
 
 (ROOT
   (S
@@ -873,7 +906,7 @@ prep_since(why-38, slack-20)
 vmod(slack-20, line-reading-21)
 ccomp(line-reading-21, make-22)
 nsubj(impossible-24, it-23)
-xsubj(care-26, it-23)
+nsubj(care-26, it-23)
 xcomp(make-22, impossible-24)
 aux(care-26, to-25)
 xcomp(impossible-24, care-26)
@@ -893,6 +926,8 @@ auxpass(made-43, was-41)
 advmod(made-43, ever-42)
 ccomp(why-38, made-43)
 
+``The/`` Sculptress/NN ''/'' is/VBZ rated/VBN R/JJ [Under/NN 17/CD requires/VBZ accompanying/VBG parent/JJ or/CC adult/JJ guardian/JJ ]./NN It/PRP contains/VBZ brief/NN sexual/JJ scenes/NNS and/CC some/DT gore/NN ./.
+
 (ROOT
   (S
     (S
@@ -900,7 +935,7 @@ ccomp(why-38, made-43)
       (VP (VBZ is)
         (VP (VBN rated)
           (NP
-            (NP (JJ R) (NN (Under))
+            (NP (JJ R) (NN [Under))
             (SBAR
               (S
                 (NP (CD 17))
@@ -910,7 +945,7 @@ ccomp(why-38, made-43)
                       (NP
                         (NP (JJ parent))
                         (CC or)
-                        (NP (JJ adult) (JJ guardian) (NN ).))))))))))))
+                        (NP (JJ adult) (JJ guardian) (NN ].))))))))))))
     (NP (PRP It))
     (VP (VBZ contains)
       (NP
@@ -923,16 +958,16 @@ punct(Sculptress-2, ``The-1)
 nsubjpass(rated-5, Sculptress-2)
 auxpass(rated-5, is-4)
 dep(contains-17, rated-5)
-amod((Under-7, R-6)
-dobj(rated-5, (Under-7)
+amod([Under-7, R-6)
+dobj(rated-5, [Under-7)
 nsubj(requires-9, 17-8)
-rcmod((Under-7, requires-9)
+rcmod([Under-7, requires-9)
 xcomp(requires-9, accompanying-10)
 dobj(accompanying-10, parent-11)
-amod().-15, adult-13)
-amod().-15, guardian-14)
-dobj(accompanying-10, ).-15)
-conj_or(parent-11, ).-15)
+amod(].-15, adult-13)
+amod(].-15, guardian-14)
+dobj(accompanying-10, ].-15)
+conj_or(parent-11, ].-15)
 nsubj(contains-17, It-16)
 root(ROOT-0, contains-17)
 nn(scenes-20, brief-18)
@@ -942,11 +977,15 @@ det(gore-23, some-22)
 dobj(contains-17, gore-23)
 conj_and(scenes-20, gore-23)
 
+PRODUCTION/JJ NOTES/NNS :/:
+
 (ROOT
   (NP (JJ PRODUCTION) (NNS NOTES) (: :)))
 
 amod(NOTES-2, PRODUCTION-1)
 root(ROOT-0, NOTES-2)
+
+`THE/NNP SCULPTRESS/NNP '/POS
 
 (ROOT
   (PP (NNP `THE)
@@ -954,6 +993,8 @@ root(ROOT-0, NOTES-2)
 
 root(ROOT-0, `THE-1)
 dep(`THE-1, SCULPTRESS-2)
+
+Directed/VBN by/IN Ian/NNP Merrick/NNP
 
 (ROOT
   (VP (VBN Directed)
@@ -963,6 +1004,8 @@ dep(`THE-1, SCULPTRESS-2)
 root(ROOT-0, Directed-1)
 nn(Merrick-4, Ian-3)
 prep_by(Directed-1, Merrick-4)
+
+Rated/JJ R/NN ;/: 96/CD minutes/NNS
 
 (ROOT
   (NP
@@ -974,6 +1017,8 @@ amod(R-2, Rated-1)
 root(ROOT-0, R-2)
 num(minutes-5, 96-4)
 dep(R-2, minutes-5)
+
+NYT-10-26-00/CD 2239EDT/CD
 
 (ROOT
   (FRAG

@@ -1,3 +1,5 @@
+NYT20001229.2047.0291/CD NEWS/NNP STORY/NNP 2000-12-29/CD 21:14:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001229.2047.0291))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001229.2047.0291-1, STORY-3)
 num(21:14:00-5, 2000-12-29-4)
 dep(NYT20001229.2047.0291-1, 21:14:00-5)
+
+A4901/CD &Cx1f/NN ;/: taf-z/JJ u/NN p/IN BC-ELN-VOTE-TOTAL-ART-NY/JJ 12-29/CD 0680/CD
 
 (ROOT
   (NP
@@ -27,10 +31,14 @@ amod(0680-9, BC-ELN-VOTE-TOTAL-ART-NY-7)
 num(0680-9, 12-29-8)
 prep_p(u-5, 0680-9)
 
+BC-ELN-VOTE-TOTAL-ART-NYT/NNP
+
 (ROOT
   (NP (NNP BC-ELN-VOTE-TOTAL-ART-NYT)))
 
 root(ROOT-0, BC-ELN-VOTE-TOTAL-ART-NYT-1)
+
+GORE'S/NNP LEAD/NNP IN/NNP THE/NNP POPULAR/NNP VOTE/NNP NOW/NNP EXCEEDS/NNP 500,000/CD
 
 (ROOT
   (NP
@@ -48,9 +56,11 @@ nn(EXCEEDS-8, NOW-7)
 dep(IN-3, EXCEEDS-8)
 dep(IN-3, 500,000-9)
 
+[ART/JJ ADV/NN :/: Graphic/NNP is/VBZ being/VBG sent/VBN to/TO NYT/NNP graphic/JJ clients/NNS ./.
+
 (ROOT
   (NP
-    (NP (JJ (ART) (NN ADV))
+    (NP (JJ [ART) (NN ADV))
     (: :)
     (S
       (NP (NNP Graphic))
@@ -61,7 +71,7 @@ dep(IN-3, 500,000-9)
               (NP (NNP NYT) (JJ graphic) (NNS clients)))))))
     (. .)))
 
-amod(ADV-2, (ART-1)
+amod(ADV-2, [ART-1)
 root(ROOT-0, ADV-2)
 nsubjpass(sent-7, Graphic-4)
 aux(sent-7, is-5)
@@ -70,6 +80,8 @@ dep(ADV-2, sent-7)
 nn(clients-11, NYT-9)
 amod(clients-11, graphic-10)
 prep_to(sent-7, clients-11)
+
+Nonsubscribers/NNS can/MD purchase/VB one-time/JJ rights/NNS by/IN calling/VBG 888-603-1036/CD or/CC 888-346-9867/CD .]/JJ &QL/NNS ;/: &UR/NNS ;/: By/NNP DAVID/NNP STOUT/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (S
@@ -84,7 +96,7 @@ prep_to(sent-7, clients-11)
                 (CC or)
                 (CD 888-346-9867))
               (NP
-                (NP (JJ .)) (NNS &QL))
+                (NP (JJ .]) (NNS &QL))
                 (: ;)
                 (NP
                   (NP (NNS &UR))
@@ -112,7 +124,7 @@ prepc_by(purchase-3, calling-7)
 iobj(calling-7, 888-603-1036-8)
 iobj(calling-7, 888-346-9867-10)
 conj_or(888-603-1036-8, 888-346-9867-10)
-amod(&QL-12, .)-11)
+amod(&QL-12, .]-11)
 dobj(calling-7, &QL-12)
 dep(&QL-12, &UR-14)
 prep(&UR-14, By-16)
@@ -124,6 +136,8 @@ dep(&QL-12, &QL-23)
 dep(&QL-12, &UR-25)
 dep(&QL-12, c.2000-27)
 appos(c.2000-27, N.Y-28)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -141,6 +155,8 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
+
+WASHINGTON/NNP _/NNP Vice/NNP President/NNP Al/NNP Gore/NNP 's/POS nationwide/NN lead/NN in/IN the/DT popular/JJ vote/NN has/VBZ grown/VBN by/IN about/IN 200,000/CD ,/, to/TO more/RBR than/IN half/JJ a/DT million/CD ,/, since/IN Dec/NNP ./.
 
 (ROOT
   (S
@@ -191,6 +207,8 @@ prep_than(more-21, million-25)
 advmod(million-25, since-27)
 dobj(grown-15, Dec-28)
 
+18/CD ,/, when/WRB the/DT Electoral/NNP College/NNP sealed/VBD his/PRP$ fate/NN and/CC made/VBD Gov./NNP George/NNP W./NNP Bush/NNP the/DT 43rd/NN president/NN of/IN the/DT United/NNP States/NNPS ./.
+
 (ROOT
   (FRAG
     (NP (CD 18))
@@ -233,6 +251,8 @@ xcomp(made-11, president-18)
 det(States-22, the-20)
 nn(States-22, United-21)
 prep_of(president-18, States-22)
+
+A/DT state/NN -by-state/NN survey/NN by/IN The/DT Associated/JJ Press/NN of/IN the/DT final/JJ certified/JJ results/NNS put/VBD Gore/NNP 's/POS popular-vote/JJ edge/NN at/IN 539,947/CD ,/, up/RB considerably/RB from/IN the/DT lead/NN of/IN about/IN 337,000/CD that/WDT was/VBD widely/RB reported/VBN in/IN the/DT first/JJ several/JJ weeks/NNS after/IN the/DT election/NN ./.
 
 (ROOT
   (S
@@ -303,6 +323,8 @@ prep_in(reported-33, weeks-38)
 det(election-41, the-40)
 prep_after(reported-33, election-41)
 
+The/DT totals/NNS were/VBD 50,996,116/CD for/IN Gore/NNP and/CC 50,456,169/CD for/IN Bush/NNP ./.
+
 (ROOT
   (S
     (NP (DT The) (NNS totals))
@@ -326,6 +348,8 @@ root(ROOT-0, 50,996,116-4)
 prep_for(50,996,116-4, Gore-6)
 conj_and(50,996,116-4, 50,456,169-8)
 prep_for(50,456,169-8, Bush-10)
+
+Much/NN of/IN the/DT increase/NN came/VBD in/IN California/NNP ,/, New/NNP York/NNP ,/, and/CC other/JJ ,/, smaller/JJ states/NNS that/WDT went/VBD for/IN Gore/NNP ,/, said/VBD Curtis/NNP B./NNP Gans/NNPS of/IN the/DT Committee/NNP for/IN the/DT Study/NN of/IN the/DT American/NNP Electorate/NNP ,/, a/DT nonpartisan/JJ research/NN group/NN that/WDT has/VBZ followed/VBN presidential/JJ elections/NNS for/IN a/DT quarter-century/NN ./.
 
 (ROOT
   (S
@@ -416,6 +440,8 @@ dobj(followed-43, elections-45)
 det(quarter-century-48, a-47)
 prep_for(elections-45, quarter-century-48)
 
+Election/NN officials/NNS in/IN California/NNP and/CC New/NNP York/NNP said/VBD Friday/NN that/IN the/DT bigger/NN numbers/NNS for/IN Gore/NN were/VBD not/RB hard/JJ to/TO explain/VB ./.
+
 (ROOT
   (S
     (NP
@@ -451,13 +477,15 @@ mark(hard-18, that-10)
 det(numbers-13, the-11)
 nn(numbers-13, bigger-12)
 nsubj(hard-18, numbers-13)
-xsubj(explain-20, numbers-13)
+nsubj(explain-20, numbers-13)
 prep_for(numbers-13, Gore-15)
 cop(hard-18, were-16)
 neg(hard-18, not-17)
 ccomp(said-8, hard-18)
 aux(explain-20, to-19)
 xcomp(hard-18, explain-20)
+
+Gore/NNP carried/VBD both/DT big/JJ states/NNS easily/RB ./.
 
 (ROOT
   (S
@@ -473,6 +501,8 @@ det(states-5, both-3)
 amod(states-5, big-4)
 dobj(carried-2, states-5)
 advmod(carried-2, easily-6)
+
+Both/DT states/NNS had/VBD big/JJ absentee/JJ -ballot/JJ totals/NNS that/WDT could/MD not/RB be/VB counted/VBN immediately/RB and/CC ,/, because/IN absentee/JJ votes/NNS generally/RB do/VBP not/RB vary/VB sharply/RB from/IN Election/NNP Night/NNP returns/NNS ,/, it/PRP was/VBD predictable/JJ that/IN the/DT absentees/NNS would/MD widen/VB the/DT vice/NN president/NN 's/POS lead/NN ./.
 
 (ROOT
   (S
@@ -551,6 +581,8 @@ nn(president-39, vice-38)
 poss(lead-41, president-39)
 dobj(widen-36, lead-41)
 
+Gans/NNP said/VBD that/IN in/IN 1996/CD ,/, President/NNP Clinton/NNP 's/POS lead/NN over/IN Bob/NNP Dole/NNP grew/NN by/IN some/DT 200,000/CD votes/NNS from/IN election/NN night/NN until/IN all/DT absentee/JJ ballots/NNS were/VBD counted/VBN and/CC all/PDT the/DT votes/NNS certified/VBN ,/, a/DT fact/JJ all/DT but/CC forgotten/VBN except/NN by/IN political/JJ trivia/NN buffs/NNS ./.
+
 (ROOT
   (S
     (S
@@ -620,13 +652,15 @@ ccomp(said-2, certified-32)
 conj_and(counted-27, certified-32)
 det(fact-35, a-34)
 nsubj(forgotten-38, fact-35)
-dep(but-37, all-36)
+mwe(but-37, all-36)
 advmod(forgotten-38, but-37)
 root(ROOT-0, forgotten-38)
 dobj(forgotten-38, except-39)
 amod(buffs-43, political-41)
 nn(buffs-43, trivia-42)
 prep_by(forgotten-38, buffs-43)
+
+``But/IN it/PRP didn't/VBD matter/NN ,''/IN Gans/NNP said/VBD ,/, in/IN a/DT race/NN that/IN the/DT incumbent/NN won/NN by/IN more/JJR than/IN 8/CD million/CD popular/JJ votes/NNS and/CC by/IN a/DT 379-159/JJ advantage/NN in/IN the/DT all-important/JJ Electoral/NNP College/NNP ./.
 
 (ROOT
   (S
@@ -681,6 +715,8 @@ amod(College-32, all-important-30)
 nn(College-32, Electoral-31)
 prep_in(said-7, College-32)
 
+In/IN the/DT 1960/CD election/NN John/NNP F./NNP Kennedy/NNP had/VBD the/DT electoral/JJ vote/NN edge/NN and/CC a/DT 114,673-vote/JJ margin/NN in/IN the/DT popular/JJ vote/NN over/IN Richard/NNP Nixon/NNP ./.
+
 (ROOT
   (S
     (PP (IN In)
@@ -719,6 +755,8 @@ prep_in(had-8, vote-20)
 nn(Nixon-23, Richard-22)
 prep_over(vote-20, Nixon-23)
 
+A/DT total/NN of/IN 68.8/CD million/CD votes/NNS were/VBD cast/NN for/IN president/NN ./.
+
 (ROOT
   (S
     (NP
@@ -742,6 +780,8 @@ prep_of(total-2, votes-6)
 cop(cast-8, were-7)
 root(ROOT-0, cast-8)
 prep_for(cast-8, president-10)
+
+Eight/JJ years/NNS later/RBR Nixon/NNP won/VBD the/DT Electoral/NNP College/NNP and/CC a/DT popular-vote/JJ margin/NN of/IN 510,645/CD out/IN of/IN 73.2/CD million/CD votes/NNS cast/NN for/IN president/NN ./.
 
 (ROOT
   (S
@@ -784,6 +824,8 @@ num(cast-20, million-18)
 nn(cast-20, votes-19)
 prep_out_of(won-5, cast-20)
 prep_for(cast-20, president-22)
+
+The/DT 2000/CD election/NN ,/, of/IN course/NN ,/, will/MD be/VB remembered/VBN as/IN the/DT first/JJ in/IN 112/CD years/NNS in/IN which/WDT the/DT leader/NN in/IN the/DT popular/JJ vote/NN lost/VBD the/DT White/NNP House/NNP because/IN his/PRP$ opponent/NN prevailed/VBN in/IN the/DT Electoral/NNP College/NNP ./.
 
 (ROOT
   (S
@@ -846,6 +888,8 @@ vmod(opponent-31, prevailed-32)
 det(College-36, the-34)
 nn(College-36, Electoral-35)
 prep_in(prevailed-32, College-36)
+
+Bush/NNP got/VBD 271/CD electoral/JJ votes/NNS ,/, one/CD more/JJR than/IN he/PRP needed/VBD for/IN a/DT majority/NN and/CC five/CD more/JJR than/IN Gore/NNP ,/, who/WP lost/VBD one/CD vote/NN in/IN the/DT Electoral/NNP College/NNP when/WRB a/DT Washington,/NNP D.C./NNP ,/, elector/NN left/VBD her/PRP$ ballot/NN blank/NN to/TO protest/VB the/DT District/NNP of/IN Columbia/NNP 's/POS lack/NN of/IN voting/VBG power/NN in/IN Congress/NNP ./.
 
 (ROOT
   (S
@@ -943,6 +987,8 @@ amod(power-49, voting-48)
 prep_of(lack-46, power-49)
 prep_in(power-49, Congress-51)
 
+Gore/NNP won/NNP New/NNP York/NNP state/NN ,/, 4,107,697-2,403,374/CD ,/, or/CC by/IN some/DT 1.7/CD million/CD votes/NNS ./.
+
 (ROOT
   (NP
     (NP (NNP Gore) (NNP won) (NNP New) (NNP York))
@@ -970,6 +1016,8 @@ number(million-13, 1.7-12)
 num(votes-14, million-13)
 dep(York-4, votes-14)
 conj_or(state-5, votes-14)
+
+Lee/NNP Daghlian/NNP ,/, the/DT chief/JJ spokesman/NN for/IN the/DT state/NN 's/POS Board/NNP of/IN Elections/NNPS ,/, said/VBD Friday/NNP that/IN about/IN 360,000/CD absentee/NN ballots/NNS were/VBD requested/VBN ,/, and/CC that/IN about/IN 260,000/CD were/VBD returned/VBN in/IN time/NN to/TO be/VB counted/VBN ./.
 
 (ROOT
   (S
@@ -1044,6 +1092,8 @@ aux(counted-35, to-33)
 auxpass(counted-35, be-34)
 xcomp(returned-30, counted-35)
 
+In/IN New/NNP York/NNP ,/, absentee/NN ballots/NNS must/MD be/VB postmarked/VBN no/DT later/RBR than/IN the/DT day/NN before/IN the/DT election/NN and/CC received/VBD no/DT later/RBR than/IN a/DT week/NN after/IN the/DT election/NN ./.
+
 (ROOT
   (S
     (PP (IN In)
@@ -1091,6 +1141,8 @@ prep_than(received-19, week-24)
 det(election-27, the-26)
 prep_after(week-24, election-27)
 
+Daghlian/NNP said/VBD absentee/JJ balloting/NN was/VBD about/IN 20/CD percent/JJ higher/RBR this/DT year/NN than/IN in/IN 1996/CD ./.
+
 (ROOT
   (S
     (NP (NNP Daghlian))
@@ -1120,6 +1172,8 @@ ccomp(said-2, year-11)
 prep(year-11, than-12)
 pcomp(than-12, in-13)
 pobj(in-13, 1996-14)
+
+He/PRP speculated/VBD that/IN the/DT presence/NN of/IN Sen./NNP Joseph/NNP Lieberman/NNP of/IN Connecticut/NNP on/IN the/DT Democratic/JJ ticket/NN might/MD have/VB caused/VBN more/RBR American/JJ Jews/NNP to/TO mail/VB ballots/NNS from/IN Israel/NNP ./.
 
 (ROOT
   (S
@@ -1168,11 +1222,14 @@ aux(caused-18, have-17)
 ccomp(speculated-2, caused-18)
 advmod(American-20, more-19)
 amod(Jews-21, American-20)
+dobj(caused-18, Jews-21)
 nsubj(mail-23, Jews-21)
 aux(mail-23, to-22)
 xcomp(caused-18, mail-23)
 dobj(mail-23, ballots-24)
 prep_from(mail-23, Israel-26)
+
+It/PRP was/VBD clear/RB on/IN Election/NNP Night/NNP that/IN Gore/NNP had/VBD carried/VBN California/NNP in/IN a/DT landslide/NN ,/, so/IN it/PRP was/VBD expected/VBN that/IN the/DT nearly/RB 1.5/CD million/CD absentee/NN ballots/NNS that/IN arrived/VBN in/IN time/NN to/TO be/VB accepted/VBN would/MD sharply/RB augment/VB his/PRP$ victory/NN _/, and/CC they/PRP did/VBD ./.
 
 (ROOT
   (S
@@ -1246,7 +1303,7 @@ number(million-24, 1.5-23)
 num(ballots-26, million-24)
 nn(ballots-26, absentee-25)
 nsubj(arrived-28, ballots-26)
-xsubj(accepted-33, ballots-26)
+nsubjpass(accepted-33, ballots-26)
 nsubj(augment-36, ballots-26)
 rcmod(ballots-26, arrived-28)
 prep_in(arrived-28, time-30)
@@ -1261,6 +1318,8 @@ dobj(augment-36, victory-38)
 punct(was-2, _-39)
 nsubj(did-42, they-41)
 conj_and(was-2, did-42)
+
+The/DT final/JJ certified/JJ totals/NNS in/IN California/NNP were/VBD 5,861,203/CD for/IN Gore/NNP and/CC 4,567,429/CD for/IN Bush/NNP ./.
 
 (ROOT
   (S
@@ -1291,6 +1350,8 @@ root(ROOT-0, 5,861,203-8)
 prep_for(5,861,203-8, Gore-10)
 conj_and(5,861,203-8, 4,567,429-12)
 prep_for(4,567,429-12, Bush-14)
+
+Alfie/NNP Charles/NNP ,/, a/DT spokesman/NN for/IN the/DT California/NNP secretary/NN of/IN state/NN ,/, Bill/NNP Jones/NNP ,/, said/VBD the/DT percentage/NN of/IN Californians/NNS voting/VBG by/IN absentee/JJ ballot/NN has/VBZ been/VBN increasing/VBG ,/, and/CC that/IN about/IN one-quarter/NN do/VBP now/RB ./.
 
 (ROOT
   (S
@@ -1360,10 +1421,12 @@ ccomp(said-16, do-33)
 conj_and(increasing-27, do-33)
 advmod(do-33, now-34)
 
+[Californians/NNS ,/, unlike/JJ people/NNS in/IN some/DT states/NNS ,/, can/MD vote/VB absentee/VB without/IN showing/VBG a/DT compelling/VBG reason/NN ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNS (Californians))
+      (NP (NNS [Californians))
       (, ,)
       (NP
         (NP (JJ unlike) (NNS people))
@@ -1379,18 +1442,20 @@ advmod(do-33, now-34)
                 (NP (DT a) (VBG compelling) (NN reason))))))))
     (. .)))
 
-nsubj(vote-10, (Californians-1)
+nsubj(vote-10, [Californians-1)
 amod(people-4, unlike-3)
-appos((Californians-1, people-4)
+appos([Californians-1, people-4)
 det(states-7, some-6)
 prep_in(people-4, states-7)
 aux(vote-10, can-9)
 root(ROOT-0, vote-10)
-dep(vote-10, absentee-11)
+xcomp(vote-10, absentee-11)
 prepc_without(absentee-11, showing-13)
 det(reason-16, a-14)
 amod(reason-16, compelling-15)
 dobj(showing-13, reason-16)
+
+Their/RB ballots/NNS must/MD arrive/VB by/IN Election/NNP Day/NNP to/TO be/VB counted/VBN .]/.
 
 (ROOT
   (S
@@ -1404,11 +1469,11 @@ dobj(showing-13, reason-16)
           (VP (TO to)
             (VP (VB be)
               (VP (VBN counted)))))))
-    (. .))))
+    (. .])))
 
 advmod(arrive-4, Their-1)
 nsubj(arrive-4, ballots-2)
-xsubj(counted-10, ballots-2)
+nsubjpass(counted-10, ballots-2)
 aux(arrive-4, must-3)
 root(ROOT-0, arrive-4)
 nn(Day-7, Election-6)
@@ -1416,7 +1481,9 @@ prep_by(arrive-4, Day-7)
 aux(counted-10, to-8)
 auxpass(counted-10, be-9)
 xcomp(arrive-4, counted-10)
-punct(arrive-4, .)-11)
+punct(arrive-4, .]-11)
+
+NYT-12-29-00/CD 2114EST/CD
 
 (ROOT
   (FRAG

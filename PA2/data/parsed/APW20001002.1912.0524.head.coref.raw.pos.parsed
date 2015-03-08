@@ -1,3 +1,5 @@
+APW20001002.1912.0524/DT NEWS/NNP STORY/NNPS 2000-10-02/CD 19:35:23/CD
+
 (ROOT
   (NP
     (NP (DT APW20001002.1912.0524))
@@ -10,10 +12,14 @@ dep(APW20001002.1912.0524-1, STORY-3)
 num(19:35:23-5, 2000-10-02-4)
 dep(APW20001002.1912.0524-1, 19:35:23-5)
 
+Georgia-School-Shooting/JJ
+
 (ROOT
   (ADJP (JJ Georgia-School-Shooting)))
 
 root(ROOT-0, Georgia-School-Shooting-1)
+
+Ga/NNP ./.
 
 (ROOT
   (FRAG
@@ -21,6 +27,8 @@ root(ROOT-0, Georgia-School-Shooting-1)
     (. .)))
 
 root(ROOT-0, Ga-1)
+
+Teen/NNP Pleads/NNPS Guilty/NNP in/IN Shooting/VBG
 
 (ROOT
   (NP
@@ -33,6 +41,8 @@ nn(Guilty-3, Pleads-2)
 root(ROOT-0, Guilty-3)
 prep_in(Guilty-3, Shooting-5)
 
+CONYERS/NNP ,/, Ga/NNP ./.
+
 (ROOT
   (NP
     (NP (NNP CONYERS))
@@ -43,9 +53,11 @@ prep_in(Guilty-3, Shooting-5)
 root(ROOT-0, CONYERS-1)
 appos(CONYERS-1, Ga-3)
 
+[AP/NNP ]/NNP _/, A/DT teen-ager/JJ entered/JJ dual/JJ pleas/NNS of/IN guilty/NN and/CC guilty/NN but/CC mentally/RB ill/JJ Monday/NNP in/IN a/DT 1999/CD school/NN shooting/VBG that/IN left/VBD six/CD fellow/NNS students/NNS wounded/VBD ./.
+
 (ROOT
   (S
-    (NP (NNP (AP) (NNP )))
+    (NP (NNP [AP) (NNP ]))
     (VP (, _)
       (NP
         (NP (DT A) (JJ teen-ager) (JJ entered) (JJ dual) (NNS pleas))
@@ -73,8 +85,8 @@ appos(CONYERS-1, Ga-3)
                         (VP (VBD wounded))))))))))))
     (. .)))
 
-nn()-2, (AP-1)
-nsubj(pleas-8, )-2)
+nn(]-2, [AP-1)
+nsubj(pleas-8, ]-2)
 punct(pleas-8, _-3)
 det(pleas-8, A-4)
 amod(pleas-8, teen-ager-5)
@@ -98,6 +110,8 @@ num(fellow-25, six-24)
 dobj(left-23, fellow-25)
 nsubj(wounded-27, students-26)
 rcmod(fellow-25, wounded-27)
+
+A/DT judge/NN will/MD consider/VB the/DT results/NNS of/IN mental/JJ evaluations/NNS on/IN 17-year-old/JJ T.J./NNP Solomon/NNP before/IN deciding/VBG which/WDT of/IN the/DT two/CD pleas/NNS to/TO accept/VB ./.
 
 (ROOT
   (S
@@ -142,6 +156,8 @@ prep_of(accept-22, pleas-20)
 aux(accept-22, to-21)
 ccomp(deciding-15, accept-22)
 xcomp(deciding-15, accept-22)
+
+If/IN the/DT judge/NN accepts/VBZ the/DT guilty/NN pleas/NNS to/TO all/DT 29/CD charges/NNS ,/, including/VBG aggravated/JJ assault/NN ,/, cruelty/JJ to/TO children/VB and/CC weapons/NNS violations/NNS ,/, Solomon/NN could/MD be/VB sentenced/VBN to/TO up/RB to/TO 211/CD years/NNS in/IN prison/NN ./.
 
 (ROOT
   (S
@@ -200,7 +216,7 @@ dep(violations-22, weapons-21)
 conj_and(accepts-4, violations-22)
 advcl(sentenced-27, violations-22)
 nsubjpass(sentenced-27, Solomon-24)
-xsubj(up-29, Solomon-24)
+nsubj(up-29, Solomon-24)
 aux(sentenced-27, could-25)
 auxpass(sentenced-27, be-26)
 root(ROOT-0, sentenced-27)
@@ -209,6 +225,8 @@ xcomp(sentenced-27, up-29)
 num(years-32, 211-31)
 prep_to(up-29, years-32)
 prep_in(up-29, prison-34)
+
+If/IN the/DT judge/NN accepts/VBZ the/DT guilty-but-mentally-ill/JJ plea/NN ,/, Solomon/NNP would/MD still/RB go/VB to/TO prison/VB but/CC would/MD receive/VB psychiatric/JJ treatment/NN under/IN the/DT care/NN of/IN prison/NN doctors/NNS ./.
 
 (ROOT
   (S
@@ -245,7 +263,7 @@ det(plea-7, the-5)
 amod(plea-7, guilty-but-mentally-ill-6)
 dobj(accepts-4, plea-7)
 nsubj(go-12, Solomon-9)
-xsubj(prison-14, Solomon-9)
+nsubj(prison-14, Solomon-9)
 nsubj(receive-17, Solomon-9)
 aux(go-12, would-10)
 advmod(go-12, still-11)
@@ -260,6 +278,8 @@ det(care-22, the-21)
 prep_under(receive-17, care-22)
 nn(doctors-25, prison-24)
 prep_of(care-22, doctors-25)
+
+Solomon/NN ,/, then/RB 15/CD ,/, opened/VBN fire/NN with/IN a/DT sawed-off/NN rifle/NN on/IN hundreds/NNS of/IN students/NNS in/IN a/DT common/JJ area/NN at/IN Heritage/NNP High/NNP School/NNP in/IN Conyers/NNS ,/, about/IN 25/CD miles/NNS east/RB of/IN Atlanta/NNP ,/, one/CD month/NN after/IN the/DT Columbine/NNP High/NNP massacre/NN in/IN Colorado/NNP ./.
 
 (ROOT
   (S
@@ -334,6 +354,8 @@ nn(massacre-40, High-39)
 prep_after(opened-6, massacre-40)
 prep_in(massacre-40, Colorado-42)
 
+Witnesses/NNS said/VBD he/PRP appeared/VBD to/TO be/VB aiming/VBG below/JJ waist/NN level/NN ./.
+
 (ROOT
   (S
     (NP (NNS Witnesses))
@@ -352,7 +374,7 @@ prep_in(massacre-40, Colorado-42)
 nsubj(said-2, Witnesses-1)
 root(ROOT-0, said-2)
 nsubj(appeared-4, he-3)
-xsubj(aiming-7, he-3)
+nsubj(aiming-7, he-3)
 ccomp(said-2, appeared-4)
 aux(aiming-7, to-5)
 aux(aiming-7, be-6)
@@ -360,6 +382,8 @@ xcomp(appeared-4, aiming-7)
 amod(level-10, below-8)
 nn(level-10, waist-9)
 dobj(aiming-7, level-10)
+
+He/PRP then/RB dropped/VBD to/TO his/PRP$ knees/NNS and/CC pointed/VBD a/DT .357-caliber/JJ Magnum/NNP revolver/NN ,/, first/RB at/IN his/PRP$ mouth/NN and/CC then/RB at/IN an/DT assistant/NN principal/NN ,/, but/CC then/RB surrendered/VBD it/PRP to/TO the/DT man/NN with/IN a/DT tearful/JJ :/: ``Oh/NN ,/, my/PRP$ God/NNP ,/, I/PRP 'm/VBP so/RB scared/VBN !''/.
 
 (ROOT
   (S
@@ -446,6 +470,8 @@ advmod(scared-44, so-43)
 root(ROOT-0, scared-44)
 punct(scared-44, !''-45)
 
+Solomon/NNP 's/POS lawyers/NNS had/VBD argued/VBN that/IN the/DT teen-ager/NN should/MD be/VB hospitalized/VBN for/IN mental/JJ illness/NN ,/, but/CC a/DT Georgia/NNP appeals/NNS court/NN ruled/VBD that/IN he/PRP was/VBD not/RB out/RB of/IN touch/NN with/IN reality/NN at/IN the/DT time/NN of/IN the/DT shootings/NNS ./.
+
 (ROOT
   (S
     (S
@@ -511,6 +537,8 @@ prep_at(was-24, time-33)
 det(shootings-36, the-35)
 prep_of(time-33, shootings-36)
 
+Friends/NNS have/VBP said/VBN Solomon/NNP was/VBD upset/RB over/IN a/DT failed/JJ romance/NN ,/, but/CC he/PRP was/VBD vague/VBN about/IN his/PRP$ motives/NNS in/IN a/DT letter/NN of/IN apology/NN earlier/RBR this/DT year/NN ./.
+
 (ROOT
   (S
     (S
@@ -561,6 +589,8 @@ advmod(year-26, earlier-24)
 det(year-26, this-25)
 tmod(vague-15, year-26)
 
+``It/NNP is/VBZ hard/RB to/TO describe/VB how/WRB dark/NN and/CC isolated/VBD I/PRP felt/VBP leading/VBG up/RP to/TO the/DT date/NN of/IN my/PRP$ mistake/JJ ,''/NN Solomon/NN wrote/VBD ./.
+
 (ROOT
   (S
     (NP (NNP ``It))
@@ -594,7 +624,7 @@ tmod(vague-15, year-26)
     (. .)))
 
 nsubj(hard-3, ``It-1)
-xsubj(describe-5, ``It-1)
+nsubj(describe-5, ``It-1)
 nsubj(isolated-9, ``It-1)
 cop(hard-3, is-2)
 root(ROOT-0, hard-3)
@@ -614,6 +644,8 @@ amod(Solomon-21, mistake-19)
 nn(Solomon-21, ,''-20)
 prep_of(date-16, Solomon-21)
 ccomp(felt-11, wrote-22)
+
+``It/NNP almost/RB made/VBD everything/NN in/IN my/PRP$ life/NN not/RB worth/VB waiting/VBG for/IN .''/.
 
 (ROOT
   (S
@@ -641,6 +673,8 @@ dep(made-3, worth-9)
 xcomp(worth-9, waiting-10)
 prep(waiting-10, for-11)
 punct(made-3, .''-12)
+
+Cecil/NNP Brinkley/NNP ,/, the/DT assistant/NN principal/NN ,/, was/VBD honored/VBN last/JJ week/NN by/IN the/DT Pittsburgh/NNP -based/JJ Carnegie/NNP Hero/NNP Fund/NNP Commission/NNP ,/, established/VBN in/IN 1904/CD by/IN Andrew/NNP Carnegie/NNP to/TO recognize/VB acts/NNS of/IN heroism/NN ./.
 
 (ROOT
   (S

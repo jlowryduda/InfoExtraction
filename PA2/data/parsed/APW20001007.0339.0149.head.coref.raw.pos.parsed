@@ -1,3 +1,5 @@
+APW20001007.0339.0149/DT NEWS/NNP STORY/NNPS 2000-10-07/CD 05:07:04/CD
+
 (ROOT
   (NP
     (NP (DT APW20001007.0339.0149))
@@ -10,10 +12,14 @@ dep(APW20001007.0339.0149-1, STORY-3)
 num(05:07:04-5, 2000-10-07-4)
 dep(APW20001007.0339.0149-1, 05:07:04-5)
 
+Foreign-Policy-Politics/NNS
+
 (ROOT
   (NP (NNS Foreign-Policy-Politics)))
 
 root(ROOT-0, Foreign-Policy-Politics-1)
+
+Foreign/NNP Policy/NNP Hits/NNP Bush/NNP ,/, Gore/NNP Race/NNP
 
 (ROOT
   (NP
@@ -28,11 +34,13 @@ root(ROOT-0, Bush-4)
 nn(Race-7, Gore-6)
 appos(Bush-4, Race-7)
 
+WASHINGTON/NNP [AP/NNP ]/, _/DT Republicans/NNPS give/VBP George/NNP W./NNP Bush/NNP credit/NN for/IN promoting/VBG a/DT Russian/JJ role/NN in/IN smoothing/VBG the/DT transition/NN from/IN despot/NN to/TO democrat/VB in/IN Yugoslavia/NNP _/, an/DT idea/NN dismissed/VBD in/IN debate/NN as/IN risky/NN by/IN Al/NNP Gore/NNP even/RB as/IN his/PRP$ boss/NN was/VBD trying/VBG to/TO get/VB Moscow/NNP to/TO step/VB in/RP ./.
+
 (ROOT
   (S
     (S
-      (NP (NNP WASHINGTON) (NNP (AP))
-      (VP (, ))
+      (NP (NNP WASHINGTON) (NNP [AP))
+      (VP (, ])
         (SBAR
           (S
             (NP (DT _) (NNPS Republicans))
@@ -80,9 +88,9 @@ appos(Bush-4, Race-7)
                           (PRT (RP in)))))))))))))
     (. .)))
 
-nn((AP-2, WASHINGTON-1)
-nsubj(give-6, (AP-2)
-punct(give-6, )-3)
+nn([AP-2, WASHINGTON-1)
+nsubj(give-6, [AP-2)
+punct(give-6, ]-3)
 det(Republicans-5, _-4)
 nsubj(give-6, Republicans-5)
 ccomp(dismissed-29, give-6)
@@ -113,15 +121,18 @@ advmod(trying-42, even-37)
 mark(trying-42, as-38)
 poss(boss-40, his-39)
 nsubj(trying-42, boss-40)
-xsubj(get-44, boss-40)
+nsubj(get-44, boss-40)
 aux(trying-42, was-41)
 advcl(dismissed-29, trying-42)
 aux(get-44, to-43)
 xcomp(trying-42, get-44)
+dobj(get-44, Moscow-45)
 nsubj(step-47, Moscow-45)
 aux(step-47, to-46)
 xcomp(get-44, step-47)
 prt(step-47, in-48)
+
+It/PRP 's/VBZ the/DT first/JJ foreign/JJ policy/NN spat/NN of/IN an/DT otherwise/NN domestically/RB focused/VBD presidential/JJ campaign/NN between/IN two/CD candidates/NNS who/WP have/VBP sharply/RB different/JJ views/NNS of/IN America/NNP 's/POS role/NN in/IN the/DT world/NN and/CC a/DT wide/JJ gap/NN in/IN foreign/JJ policy/NN experience/NN ./.
 
 (ROOT
   (S
@@ -194,6 +205,8 @@ amod(experience-37, foreign-35)
 nn(experience-37, policy-36)
 prep_in(gap-33, experience-37)
 
+``Russians/NNPS must/MD use/VB their/PRP$ leverage/NN on/IN Mr./NNP Milosevic/NNP to/TO make/VB sure/JJ he/PRP .../:
+
 (ROOT
   (S
     (NP (NNPS ``Russians))
@@ -221,6 +234,8 @@ aux(make-10, to-9)
 vmod(use-3, make-10)
 acomp(make-10, sure-11)
 dep(sure-11, he-12)
+
+finally/RB leaves/VBZ ,''/DT Bush/NNP said/VBD Friday/NN in/IN Cedar/NNP Rapids/NNPS ,/, Iowa/NNP ,/, repeating/VBG what/WP he/PRP said/VBD in/IN Tuesday/NNP 's/POS first/JJ presidential/JJ debate/NN ./.
 
 (ROOT
   (S
@@ -264,6 +279,8 @@ poss(debate-22, Tuesday-18)
 amod(debate-22, first-20)
 amod(debate-22, presidential-21)
 prep_in(said-16, debate-22)
+
+As/IN he/PRP spoke/NN ,/, Russian/JJ Foreign/NNP Minister/NNP Ivanov/NNP was/VBD in/IN Yugoslavia/NNP ,/, meeting/NN with/IN ousted/VBN leader/NN Slobodan/NNP Milosevic/NNP and/CC recognizing/VBG opposition/NN leader/NN Vojislav/NNP Kostunica/NNP as/IN winner/NN of/IN the/DT Sept/NNP ./.
 
 (ROOT
   (S
@@ -321,6 +338,8 @@ prep_as(Kostunica-24, winner-26)
 det(Sept-29, the-28)
 prep_of(winner-26, Sept-29)
 
+24/CD election/NN ./.
+
 (ROOT
   (NP
     (NP (CD 24))
@@ -329,6 +348,8 @@ prep_of(winner-26, Sept-29)
 
 root(ROOT-0, 24-1)
 dep(24-1, election-2)
+
+In/IN the/DT debate/NN ,/, Gore/NNP jumped/VBD on/IN Bush/NNP ,/, dismissing/VBG his/PRP$ idea/NN of/IN bringing/VBG in/IN the/DT Russians/NNPS as/IN unwise/NN because/IN they/PRP hadn't/VBP recognized/VBN Kostunica/NNP as/IN victor/NN ./.
 
 (ROOT
   (S
@@ -382,6 +403,8 @@ dep(hadn't-22, recognized-23)
 dobj(recognized-23, Kostunica-24)
 prep_as(Kostunica-24, victor-26)
 
+``I/PRP 'm/VBP not/RB sure/JJ that/IN it/PRP 's/VBZ right/RB for/IN us/PRP to/TO invite/VB the/DT president/NN of/IN Russia/NNP to/TO mediate/VB this/DT dispute/NN there/RB ,/, because/IN we/PRP might/MD not/RB like/VB the/DT result/NN that/IN comes/VBZ out/RB of/IN that/DT ,''/NNP Gore/NNP said/VBD ./.
+
 (ROOT
   (S
     (NP (PRP ``I))
@@ -432,7 +455,7 @@ neg(sure-4, not-3)
 root(ROOT-0, sure-4)
 mark('s-7, that-5)
 nsubj('s-7, it-6)
-xsubj(invite-12, it-6)
+nsubj(invite-12, it-6)
 ccomp(sure-4, 's-7)
 advmod('s-7, right-8)
 prep_for(right-8, us-10)
@@ -460,6 +483,8 @@ nn(Gore-36, ,''-35)
 nsubj(said-37, Gore-36)
 prepc_out_of(comes-31, said-37)
 
+On/IN Friday/NNP ,/, Bush/NNP criticized/VBD his/PRP$ opponent/NN 's/POS statement/NN ./.
+
 (ROOT
   (S
     (PP (IN On)
@@ -478,6 +503,8 @@ root(ROOT-0, criticized-5)
 poss(opponent-7, his-6)
 poss(statement-9, opponent-7)
 dobj(criticized-5, statement-9)
+
+``Either/CC he/PRP didn't/VBD know/VB what/WP the/DT president/NN was/VBD doing/VBG or/CC he/PRP did/VBD know/VB what/WP the/DT president/NN was/VBD doing/VBG and/CC wasn't/VBD willing/JJ to/TO share/NN that/IN with/IN the/DT American/JJ people/NNS ,''/NNP Bush/NNP said/VBD in/IN Florida/NNP ,/, where/WRB he/PRP was/VBD campaigning/VBG ./.
 
 (ROOT
   (S
@@ -563,6 +590,8 @@ nsubj(campaigning-38, he-36)
 aux(campaigning-38, was-37)
 advcl(said-31, campaigning-38)
 
+Gore/NNP campaign/NN aides/NNS insisted/VBD he/PRP was/VBD aware/RB of/IN administration/NN efforts/NNS to/TO persuade/VB the/DT Russians/NNPS to/TO convince/VB Milosevic/NNP to/TO go/VB ./.
+
 (ROOT
   (S
     (NP (NNP Gore) (NN campaign) (NNS aides))
@@ -592,7 +621,7 @@ nn(aides-3, campaign-2)
 nsubj(insisted-4, aides-3)
 root(ROOT-0, insisted-4)
 nsubj(was-6, he-5)
-xsubj(persuade-12, he-5)
+nsubj(persuade-12, he-5)
 ccomp(insisted-4, was-6)
 advmod(was-6, aware-7)
 nn(efforts-10, administration-9)
@@ -600,12 +629,16 @@ prep_of(was-6, efforts-10)
 aux(persuade-12, to-11)
 xcomp(was-6, persuade-12)
 det(Russians-14, the-13)
+dobj(persuade-12, Russians-14)
 nsubj(convince-16, Russians-14)
 aux(convince-16, to-15)
 xcomp(persuade-12, convince-16)
+dobj(convince-16, Milosevic-17)
 nsubj(go-19, Milosevic-17)
 aux(go-19, to-18)
 xcomp(convince-16, go-19)
+
+In/IN Thursday/NNP night/NNP 's/POS vice/NN presidential/JJ debate/NN ,/, as/IN Kostunica/NNP supporters/NNS stormed/VBD Belgrade/NNP to/TO drive/VB out/RP Milosevic/NNP ,/, Republican/NNP Dick/NNP Cheney/NNP said/VBD Gore/NNP had/VBD been/VBN ``pooh-poohing/VBG ''/'' the/DT idea/NN of/IN Russian/JJ involvement/NN while/IN the/DT administration/NN was/VBD doing/VBG just/RB about/IN what/WP Bush/NNP had/VBD proposed/VBN ./.
 
 (ROOT
   (S
@@ -662,6 +695,7 @@ mark(stormed-12, as-9)
 nn(supporters-11, Kostunica-10)
 nsubj(stormed-12, supporters-11)
 rcmod(debate-7, stormed-12)
+dobj(stormed-12, Belgrade-13)
 nsubj(drive-15, Belgrade-13)
 aux(drive-15, to-14)
 xcomp(stormed-12, drive-15)
@@ -690,6 +724,8 @@ nsubj(proposed-43, Bush-41)
 aux(proposed-43, had-42)
 prepc_about(``pooh-poohing-26, proposed-43)
 
+Cheney/NNP said/VBD Bush/NNP deserved/VBD ``a/DT lot/NN of/IN credit/NN for/IN that/WDT .''/.
+
 (ROOT
   (S
     (NP (NNP Cheney))
@@ -715,6 +751,8 @@ dobj(deserved-4, lot-6)
 prep_of(lot-6, credit-8)
 prep_for(deserved-4, that-10)
 punct(said-2, .''-11)
+
+Marc/NNP Thiessen/NNP ,/, spokesman/NN for/IN the/DT GOP/NNP -controlled/VBD Senate/NNP Foreign/NNP Relations/NNPS Committee/NNP ,/, said/VBD administration/NN officials/NNS told/VBD members/NNS of/IN Congress/NNP in/IN a/DT briefing/NN Wednesday/NN that/WDT Clinton/NNP sent/VBD a/DT letter/NN to/TO Russian/NNP President/NNP Vladimir/NNP Putin/NNP three/CD weeks/NNS ago/RB ``asking/VBG him/PRP to/TO step/VB in/IN and/CC do/VB exactly/RB what/WP Bush/NNP suggested/VBN ''/'' and/CC on/IN Saturday/NNP personally/RB urged/VBD Putin/NNP by/IN phone/NN to/TO intervene/VB ./.
 
 (ROOT
   (S
@@ -797,7 +835,6 @@ root(ROOT-0, said-14)
 nn(officials-16, administration-15)
 nsubj(told-17, officials-16)
 nsubj(urged-54, officials-16)
-xsubj(intervene-59, officials-16)
 ccomp(said-14, told-17)
 dobj(told-17, members-18)
 prep_of(members-18, Congress-20)
@@ -817,6 +854,7 @@ num(weeks-36, three-35)
 npadvmod(ago-37, weeks-36)
 advmod(Putin-34, ago-37)
 xcomp(sent-27, ``asking-38)
+dobj(``asking-38, him-39)
 nsubj(step-41, him-39)
 nsubj(do-44, him-39)
 aux(step-41, to-40)
@@ -833,9 +871,12 @@ advmod(urged-54, personally-53)
 ccomp(said-14, urged-54)
 conj_and(told-17, urged-54)
 dobj(urged-54, Putin-55)
+nsubj(intervene-59, Putin-55)
 prep_by(urged-54, phone-57)
 aux(intervene-59, to-58)
 xcomp(urged-54, intervene-59)
+
+``It/PRP was/VBD Bush/NNP who/WP was/VBD completely/RB informed/VBN ,/, whose/WP$ instincts/VBZ were/VBD right/RB ,/, and/CC it/PRP was/VBD Gore/JJ who/WP was/VBD uninformed/JJ and/CC didn't/JJ even/RB know/VBP the/DT administration/NN policy/NN ,''/, Thiessen/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -912,6 +953,8 @@ punct(Thiessen-29, ,''-28)
 prep(policy-27, Thiessen-29)
 ccomp(know-24, said-30)
 
+Gore/RB on/IN Friday/NNP welcomed/VBD Yugoslavia/NNP 's/POS change/NN ,/, saying/VBG it/PRP brings/VBZ the/DT country/NN ``back/NN into/IN the/DT community/NN of/IN nations/NNS .''/.
+
 (ROOT
   (SINV
     (ADVP (RB Gore)
@@ -952,6 +995,8 @@ prep_into(brings-11, community-17)
 prep_of(community-17, nations-19)
 punct(welcomed-4, .''-20)
 
+He/PRP added/VBD ,/, ``This/NNP is/VBZ a/DT day/NN for/IN celebration/NN ,''/IN without/IN commenting/VBG on/IN the/DT Russian/JJ issue/NN ./.
+
 (ROOT
   (S
     (S
@@ -986,6 +1031,8 @@ det(issue-16, the-14)
 amod(issue-16, Russian-15)
 prep_on(commenting-12, issue-16)
 
+The/DT White/NNP House/NNP ,/, however/NN ,/, came/VBD to/TO his/PRP$ defense/NN ./.
+
 (ROOT
   (S
     (NP
@@ -1005,6 +1052,8 @@ appos(House-3, however-5)
 root(ROOT-0, came-7)
 poss(defense-10, his-9)
 prep_to(came-7, defense-10)
+
+``What/IN the/DT vice/NN president/NN said/VBD is/VBZ something/VBG the/DT president/NN fully/RB agrees/NNS with/IN ,/, which/WDT is/VBZ that/IN the/DT United/NNP States/NNPS did/VBD not/RB support/VB any/DT role/NN in/IN which/WDT Russia/NNP would/MD mediate/VB between/IN Milosevic/NNP and/CC Kostunica/NNP ,''/NNP said/VBD presidential/JJ spokesman/NN Jake/NNP Siewert/NNP ,/, who/WP confirmed/VBD that/DT Clinton/NNP spoke/NN with/IN Putin/NNP about/IN Yugoslavia/NNP last/JJ weekend/NN ./.
 
 (ROOT
   (SINV
@@ -1106,6 +1155,8 @@ prep_about(confirmed-42, Yugoslavia-49)
 amod(weekend-51, last-50)
 dobj(confirmed-42, weekend-51)
 
+The/DT dispute/NN over/IN a/DT foreign/JJ policy/NN matter/NN comes/VBZ late/RB in/IN a/DT campaign/NN that/WDT has/VBZ given/VBN little/JJ attention/NN to/TO most/RBS offshore/JJ issues/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -1146,6 +1197,8 @@ advmod(issues-21, most-19)
 amod(issues-21, offshore-20)
 prep_to(given-15, issues-21)
 
+What/WP discussion/NN there/RB has/VBZ been/VBN has/VBZ tended/VBN to/TO involve/VB a/DT contrast/NN in/IN plans/NNS for/IN the/DT military/NN ./.
+
 (ROOT
   (S
     (SBAR
@@ -1183,6 +1236,8 @@ prep_in(involve-9, plans-13)
 det(military-16, the-15)
 prep_for(plans-13, military-16)
 
+Bush/NNP decries/VBZ the/DT state/NN of/IN the/DT military/NN and/CC calls/NNS for/IN more-limited/JJ engagement/NN abroad/RB ./.
+
 (ROOT
   (S
     (NP (NNP Bush))
@@ -1211,6 +1266,8 @@ conj_and(state-4, calls-9)
 amod(engagement-12, more-limited-11)
 prep_for(calls-9, engagement-12)
 advmod(decries-2, abroad-13)
+
+Gore/NNP defends/VBZ current/JJ military/JJ readiness/NN and/CC urges/VBZ a/DT definition/NN of/IN national/JJ security/NN interests/NNS that/WDT would/MD include/VB environmental/JJ ,/, health/NN and/CC other/JJ global/JJ issues/NNS ./.
 
 (ROOT
   (S
@@ -1258,6 +1315,8 @@ conj_and(environmental-17, other-21)
 amod(issues-23, other-21)
 amod(issues-23, global-22)
 dobj(include-16, issues-23)
+
+The/DT candidates/NNS also/RB have/VBP differences/NNS on/IN missile/JJ defense/NN ,/, nuclear/JJ arms/NNS cuts/NNS ,/, global/JJ warming/NN ,/, immigration/NN and/CC trade/NN ,/, but/CC none/NN of/IN those/DT issues/NNS has/VBZ turned/VBN into/IN a/DT major/JJ debate/NN ./.
 
 (ROOT
   (S
@@ -1318,6 +1377,8 @@ det(debate-31, a-29)
 amod(debate-31, major-30)
 prep_into(turned-27, debate-31)
 
+Gore/NNP has/VBZ been/VBN active/JJ in/IN foreign/JJ affairs/NNS as/IN vice/NN president/NN ,/, serving/VBG on/IN commissions/NNS with/IN key/JJ countries/NNS ,/, including/VBG one/CD with/IN former/JJ Russian/NNP Prime/NNP Minister/NNP Viktor/NNP Chernomyrdin/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Gore))
@@ -1364,6 +1425,8 @@ nn(Chernomyrdin-27, Prime-24)
 nn(Chernomyrdin-27, Minister-25)
 nn(Chernomyrdin-27, Viktor-26)
 prep_with(one-20, Chernomyrdin-27)
+
+Bush/NNP 's/POS supporters/NNS say/VBP that/IN despite/IN his/PRP$ lack/NN of/IN direct/JJ foreign/JJ policy/NN experience/NN ,/, his/PRP$ record/NN as/IN Texas/NNP governor/NN ,/, including/VBG dealings/NNS with/IN neighbor/NN Mexico/NNP ,/, show/VB he/PRP 'll/MD inspire/VB the/DT trust/NN of/IN allies/NNS and/CC the/DT respect/NN of/IN adversaries/NNS ./.
 
 (ROOT
   (S
@@ -1439,6 +1502,8 @@ dobj(inspire-30, respect-37)
 conj_and(trust-32, respect-37)
 prep_of(respect-37, adversaries-39)
 
+Cheney/NNP ,/, defense/NN secretary/NN for/IN four/CD years/NNS under/IN President/NNP Bush/NNP ,/, has/VBZ lent/VBN a/DT measure/NN of/IN experience/NN to/TO candidate/VB Bush/NNP 's/POS claims/NNS that/IN the/DT Clinton/NNP administration/NN has/VBZ shortchanged/VBN the/DT military/NN and/CC GOP/NNP plans/NNS to/TO limit/VB foreign/JJ deployments/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -1504,11 +1569,14 @@ det(plans-33, the-29)
 nn(plans-33, military-30)
 conj_and(military-30, GOP-32)
 nn(plans-33, GOP-32)
+dobj(shortchanged-28, plans-33)
 nsubj(limit-35, plans-33)
 aux(limit-35, to-34)
 xcomp(shortchanged-28, limit-35)
 amod(deployments-37, foreign-36)
 dobj(limit-35, deployments-37)
+
+Democrat/NNP Joseph/NNP Lieberman/NNP matches/NNS some/DT of/IN Cheney/NNP 's/POS foreign/JJ policy/NN experience/NN with/IN his/PRP$ Senate/JJ Armed/JJ Services/NNS Committee/NNP membership/NN and/CC involvement/NN on/IN a/DT range/NN of/IN international/JJ issues/NNS during/IN his/PRP$ dozen/JJ years/NNS in/IN the/DT Senate/NNP ./.
 
 (ROOT
   (NP

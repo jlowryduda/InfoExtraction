@@ -1,3 +1,5 @@
+NYT20001210.1714.0041/CD NEWS/NNP STORY/NNP 2000-12-10/CD 17:14:10/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001210.1714.0041))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001210.1714.0041-1, STORY-3)
 num(17:14:10-5, 2000-12-10-4)
 dep(NYT20001210.1714.0041-1, 17:14:10-5)
+
+A5602/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-WEB-ECON-NYT/NNP &LR/NNP ;/: 12-10/CD 0540/CD
 
 (ROOT
   (NP
@@ -30,10 +34,14 @@ dep(&Cx1f-2, &LR-8)
 number(0540-11, 12-10-10)
 dep(&LR-8, 0540-11)
 
+BC-WEB-ECON-NYT/NNP
+
 (ROOT
   (NP (NNP BC-WEB-ECON-NYT)))
 
 root(ROOT-0, BC-WEB-ECON-NYT-1)
+
+EFFICIENCIES/NNP FOUND/NNP ONLINE/NNP HELP/NNP COMPANIES/NNP BUILD/NNP PROFITS/NNP ONLINE/NNP
 
 (ROOT
   (NP (NNP EFFICIENCIES) (NNP FOUND) (NNP ONLINE) (NNP HELP) (NNP COMPANIES) (NNP BUILD) (NNP PROFITS) (NNP ONLINE)))
@@ -47,6 +55,8 @@ nn(ONLINE-8, BUILD-6)
 nn(ONLINE-8, PROFITS-7)
 root(ROOT-0, ONLINE-8)
 
+&UR/NNS ;/: By/NNP CLAUDIA/NNP H/NNP ./.
+
 (ROOT
   (NP
     (NP (NNS &UR))
@@ -59,6 +69,8 @@ root(ROOT-0, &UR-1)
 prep(&UR-1, By-3)
 nn(H-5, CLAUDIA-4)
 dep(By-3, H-5)
+
+DEUTSCH/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -85,6 +97,8 @@ dep(&QL-6, &UR-8)
 dep(&QC-2, c.2000-10)
 appos(c.2000-10, N.Y-11)
 
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -102,6 +116,8 @@ root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
 
+The/DT dot-coms/NNS may/MD get/VB the/DT publicity/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NNS dot-coms))
@@ -116,6 +132,8 @@ aux(get-4, may-3)
 root(ROOT-0, get-4)
 det(publicity-6, the-5)
 dobj(get-4, publicity-6)
+
+But/CC John/NNP F./NNP Welch/NNP Jr./NNP is/VBZ certain/JJ that/IN companies/NNS like/IN General/NNP Electric/NNP will/MD reap/VB the/DT profits/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -148,6 +166,8 @@ aux(reap-14, will-13)
 ccomp(certain-7, reap-14)
 det(profits-16, the-15)
 dobj(reap-14, profits-16)
+
+``The/NNP Internet/NNP was/VBD made/VBN for/IN big/JJ companies/NNS ,''/, said/VBD Welch/NNP ,/, GE/NNP 's/POS chairman/NN and/CC Web/NNP champion-in-chief/NN ./.
 
 (ROOT
   (SINV
@@ -185,6 +205,8 @@ nn(champion-in-chief-17, Web-16)
 appos(Welch-10, champion-in-chief-17)
 conj_and(chairman-14, champion-in-chief-17)
 
+``The/IN dot-coms/NNS understand/JJ buying/NN and/CC selling/NN ./.
+
 (ROOT
   (FRAG
     (PP (IN ``The)
@@ -202,6 +224,8 @@ amod(buying-4, understand-3)
 pobj(``The-1, buying-4)
 pobj(``The-1, selling-6)
 conj_and(buying-4, selling-6)
+
+But/CC the/DT real/JJ efficiencies/NNS come/VBP in/IN that/DT middle/JJ part/NN of/IN the/DT equation/NN :/: making/VBG things/NNS .''/.
 
 (ROOT
   (S (CC But)
@@ -231,6 +255,8 @@ prep_of(part-9, equation-12)
 parataxis(come-5, making-14)
 dobj(making-14, things-15)
 punct(come-5, .''-16)
+
+Long/NNP before/IN the/DT Web/NNP ,/, sophisticated/VBD old-economy/JJ companies/NNS were/VBD using/VBG computer/NN networks/NNS ,/, and/CC even/RB the/DT Internet/NN ,/, to/TO communicate/VB with/IN suppliers/NNS ,/, to/TO fine-tune/JJ inventories/NNS ,/, to/TO streamline/VB back-office/JJ functions/NNS ./.
 
 (ROOT
   (S
@@ -290,6 +316,8 @@ xcomp(communicate-20, streamline-29)
 amod(functions-31, back-office-30)
 dobj(streamline-29, functions-31)
 
+But/CC the/DT Web/NNP ,/, as/IN an/DT easy/JJ to/TO use/VB interface/NN for/IN the/DT Internet/NNP ,/, has/VBZ opened/VBN large/JJ swaths/NNS of/IN uncharted/JJ territory/NN for/IN industrial/JJ America/NNP ./.
+
 (ROOT
   (S (CC But)
     (NP
@@ -334,6 +362,8 @@ amod(territory-21, uncharted-20)
 prep_of(swaths-18, territory-21)
 amod(America-24, industrial-23)
 prep_for(opened-16, America-24)
+
+Through/JJ Web-based/JJ buying/NN consortiums/NNS ,/, through/IN auctions/NNS and/CC reverse/VB auctions/NNS and/CC various/JJ other/JJ types/NNS of/IN e-marketplaces/NNS ,/, companies/NNS are/VBP saving/VBG millions/NNS of/IN dollars/NNS in/IN the/DT procurement/NN of/IN supplies/NNS and/CC services/NNS ./.
 
 (ROOT
   (S
@@ -393,6 +423,8 @@ prep_of(procurement-26, supplies-28)
 prep_of(procurement-26, services-30)
 conj_and(supplies-28, services-30)
 
+The/DT Web/NNP is/VBZ changing/VBG the/DT sell/NN side/NN ,/, too/RB ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Web))
@@ -411,6 +443,8 @@ det(side-7, the-5)
 nn(side-7, sell-6)
 dobj(changing-4, side-7)
 advmod(changing-4, too-9)
+
+With/IN well-designed/JJ home/NN pages/NNS ,/, companies/NNS can/MD pitch/VB their/PRP$ products/NNS at/IN businesses/NNS too/RB small/JJ to/TO warrant/VB a/DT sales/NNS call/NN and/CC at/IN consumers/NNS who/WP may/MD live/VB hours/NNS away/RB from/IN the/DT nearest/JJS store/NN or/CC distributor/NN ./.
 
 (ROOT
   (S
@@ -476,6 +510,8 @@ prep_away_from(live-25, store-31)
 prep_away_from(live-25, distributor-33)
 conj_or(store-31, distributor-33)
 
+The/DT companies/NNS can/MD anticipate/VB questions/NNS and/CC post/NN answers/NNS before/IN the/DT queries/NNS are/VBP even/RB made/VBN ./.
+
 (ROOT
   (S
     (NP (DT The) (NNS companies))
@@ -506,6 +542,8 @@ nsubjpass(made-14, queries-11)
 auxpass(made-14, are-12)
 advmod(made-14, even-13)
 advcl(anticipate-4, made-14)
+
+They/PRP can/MD let/VB customers/NNS download/RB software/NN that/WDT helps/VBZ them/PRP update/VB their/PRP$ products/NNS ./.
 
 (ROOT
   (S
@@ -538,6 +576,8 @@ ccomp(helps-8, update-10)
 poss(products-12, their-11)
 dobj(update-10, products-12)
 
+Diversified/NNP corporations/NNS ,/, meanwhile/RB ,/, are/VBP learning/VBG to/TO use/VB the/DT Web/NNP to/TO bundle/VB services/NNS ./.
+
 (ROOT
   (S
     (NP (NNP Diversified) (NNS corporations))
@@ -558,17 +598,20 @@ dobj(update-10, products-12)
 
 nn(corporations-2, Diversified-1)
 nsubj(learning-7, corporations-2)
-xsubj(use-9, corporations-2)
+nsubj(use-9, corporations-2)
 advmod(learning-7, meanwhile-4)
 aux(learning-7, are-6)
 root(ROOT-0, learning-7)
 aux(use-9, to-8)
 xcomp(learning-7, use-9)
 det(Web-11, the-10)
+dobj(use-9, Web-11)
 nsubj(bundle-13, Web-11)
 aux(bundle-13, to-12)
 xcomp(use-9, bundle-13)
 dobj(bundle-13, services-14)
+
+In/IN the/DT near/JJ future/NN ,/, for/IN example/NN ,/, someone/RB buying/VBG a/DT refrigerator/NN from/IN GE/NNP Appliance/NNP 's/POS Web/NNP site/NN might/MD receive/VB an/DT offer/NN from/IN GE/NNP Capital/NNP to/TO finance/VB the/DT purchase/NN ./.
 
 (ROOT
   (S
@@ -620,6 +663,8 @@ aux(finance-27, to-26)
 vmod(receive-20, finance-27)
 det(purchase-29, the-28)
 dobj(finance-27, purchase-29)
+
+GE/NNP ,/, with/IN its/PRP$ corporate/JJ tentacles/NNS reaching/VBG into/IN businesses/NNS as/IN diverse/JJ as/IN X-ray/JJ machines/NNS ,/, mortgages/NNS and/CC light/JJ bulbs/NNS ,/, provides/VBZ perhaps/RB the/DT leading/VBG example/NN of/IN what/WP an/DT old-economy/JJ company/NN can/MD do/VB with/IN new-economy/JJ tools/NNS ./.
 
 (ROOT
   (S
@@ -686,6 +731,8 @@ prepc_of(example-25, do-32)
 amod(tools-35, new-economy-34)
 prep_with(do-32, tools-35)
 
+GE/NNP Plastics/NNPS put/VBD up/RP the/DT company/NN 's/POS first/JJ Web/NN page/NN on/IN Oct/NNP ./.
+
 (ROOT
   (S
     (NP (NNP GE) (NNPS Plastics))
@@ -708,6 +755,8 @@ amod(page-10, first-8)
 nn(page-10, Web-9)
 dobj(put-3, page-10)
 prep_on(put-3, Oct-12)
+
+21/CD ,/, 1994/CD ;/: today/NN ,/, each/DT GE/JJ business/NN sells/NNS products/NNS on/IN the/DT Web/NNP ./.
 
 (ROOT
   (NP
@@ -735,6 +784,8 @@ nn(products-11, sells-10)
 appos(today-5, products-11)
 det(Web-14, the-13)
 prep_on(products-11, Web-14)
+
+And/CC this/DT year/NN ,/, GE/NNP will/MD probably/RB buy/VB $6/CD billion/CD of/IN goods/NNS through/IN the/DT Web/NNP ./.
 
 (ROOT
   (S (CC And)
@@ -766,6 +817,8 @@ prep_of(billion-10, goods-12)
 det(Web-15, the-14)
 prep_through(buy-8, Web-15)
 
+``We/NNP 'll/MD save/VB hundreds/NNS of/IN millions/NNS of/IN dollars/NNS ,''/, Welch/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -794,6 +847,8 @@ punct(said-11, ,''-9)
 nsubj(said-11, Welch-10)
 root(ROOT-0, said-11)
 
+``Nothing/VBG else/RB would/MD give/VB you/PRP that/IN type/NN of/IN quantum/JJ change/NN .''/.
+
 (ROOT
   (S
     (S
@@ -821,6 +876,8 @@ amod(change-10, quantum-9)
 prep_of(type-7, change-10)
 punct(give-4, .''-11)
 
+The/DT Web/NNP is/VBZ also/RB letting/VBG GE/NNP help/NN its/PRP$ own/JJ customers/NNS compare/JJ notes/NNS ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Web))
@@ -845,6 +902,8 @@ amod(customers-10, own-9)
 dobj(letting-5, customers-10)
 amod(notes-12, compare-11)
 dep(customers-10, notes-12)
+
+GE/NNP posts/VBZ data/NNS on/IN its/PRP$ Web/NNP pages/NNS _/VBP stripped/VBN ,/, of/IN course/NN ,/, of/IN identification/NN _/NNS on/IN how/WRB efficiently/RB hospitals/NNS use/VB its/PRP$ CAT/NNP scanners/NNS ,/, how/WRB often/RB airlines/NNS do/VBP routine/RB maintenance/VB on/IN its/PRP$ engines/NNS ,/, how/WRB well/UH utilities/NNS use/NN waste/IN heat/NN or/CC water/NN to/TO generate/VB more/JJR electricity/NN ./.
 
 (ROOT
   (S
@@ -939,6 +998,8 @@ vmod(utilities-38, generate-45)
 amod(electricity-47, more-46)
 dobj(generate-45, electricity-47)
 
+Customers/NNS with/IN a/DT password/NN can/MD tap/VB into/IN the/DT data/NNS and/CC use/VB it/PRP to/TO benchmark/VB their/PRP$ own/JJ performance/NN ./.
+
 (ROOT
   (S
     (NP
@@ -968,12 +1029,15 @@ root(ROOT-0, tap-6)
 det(data-9, the-8)
 prep_into(tap-6, data-9)
 conj_and(tap-6, use-11)
+dobj(use-11, it-12)
 nsubj(benchmark-14, it-12)
 aux(benchmark-14, to-13)
 xcomp(use-11, benchmark-14)
 poss(performance-17, their-15)
 amod(performance-17, own-16)
 dobj(benchmark-14, performance-17)
+
+GE/NNP is/VBZ even/RB using/VBG the/DT Web/NNP to/TO let/VB customers/NNS test-drive/JJ software/NN ,/, including/VBG the/DT programs/NNS the/DT company/NN has/VBZ developed/VBN to/TO help/VB hospitals/NNS make/VBP more/RBR efficient/JJ use/NN of/IN some/DT medical/JJ equipment/NN ./.
 
 (ROOT
   (S
@@ -1017,6 +1081,7 @@ aux(using-4, is-2)
 advmod(using-4, even-3)
 root(ROOT-0, using-4)
 det(Web-6, the-5)
+dobj(using-4, Web-6)
 nsubj(let-8, Web-6)
 aux(let-8, to-7)
 xcomp(using-4, let-8)
@@ -1027,7 +1092,7 @@ det(programs-15, the-14)
 prep_including(software-11, programs-15)
 det(company-17, the-16)
 nsubj(developed-19, company-17)
-xsubj(help-21, company-17)
+nsubj(help-21, company-17)
 aux(developed-19, has-18)
 rcmod(programs-15, developed-19)
 aux(help-21, to-20)
@@ -1040,6 +1105,8 @@ dobj(make-23, use-26)
 det(equipment-30, some-28)
 amod(equipment-30, medical-29)
 prep_of(use-26, equipment-30)
+
+GE/NNP will/MD let/VB them/PRP download/VBD the/DT software/NN and/CC use/VB it/PRP free/JJ _/NN for/IN 30/CD days/NNS ./.
 
 (ROOT
   (S
@@ -1077,6 +1144,8 @@ xcomp(use-9, _-12)
 num(days-15, 30-14)
 prep_for(_-12, days-15)
 
+After/IN that/WDT ,/, the/DT software/NN self-destructs/VBZ ,/, unless/IN the/DT customer/NN has/VBZ paid/VBN to/TO receive/VB a/DT permanent/JJ version/NN ./.
+
 (ROOT
   (S
     (PP (IN After)
@@ -1102,7 +1171,7 @@ root(ROOT-0, self-destructs-6)
 mark(paid-12, unless-8)
 det(customer-10, the-9)
 nsubj(paid-12, customer-10)
-xsubj(receive-14, customer-10)
+nsubj(receive-14, customer-10)
 aux(paid-12, has-11)
 advcl(self-destructs-6, paid-12)
 aux(receive-14, to-13)
@@ -1110,6 +1179,8 @@ xcomp(paid-12, receive-14)
 det(version-17, a-15)
 amod(version-17, permanent-16)
 dobj(receive-14, version-17)
+
+``With/IN the/DT Web/NNP ,/, every/NN day/NN you/PRP wake/VBD up/RB and/CC laugh/NN at/IN how/WRB little/JJ you/PRP knew/VBP the/DT day/NN before/IN ,''/DT Welch/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -1157,25 +1228,27 @@ det(Welch-21, ,''-20)
 prep_before(knew-16, Welch-21)
 root(ROOT-0, said-22)
 
+``It/NNP 's/POS like/JJ peeling/VBG back/RB an/DT onion/NN ./.
+
 (ROOT
-  (S
-    (VP
-      (NP
-        (NP (NNP ``It) (POS 's))
-        (PP (JJ like)
-          (S
-            (VP (VBG peeling)
-              (PRT (RB back))
-              (NP (DT an) (NN onion)))))))
+  (NP
+    (NP
+      (NP (NNP ``It) (POS 's))
+      (NP (JJ like)))
+    (VP (VBG peeling)
+      (ADVP (RB back)
+        (NP (DT an) (NN onion))))
     (. .)))
 
 root(ROOT-0, ``It-1)
 possessive(``It-1, 's-2)
-prep(``It-1, like-3)
-dep(like-3, peeling-4)
-prt(peeling-4, back-5)
+dep(``It-1, like-3)
+vmod(``It-1, peeling-4)
+advmod(peeling-4, back-5)
 det(onion-7, an-6)
-dobj(peeling-4, onion-7)
+pobj(back-5, onion-7)
+
+Every/DT day/NN we/PRP uncover/VBP hundreds/NNS of/IN millions/NNS of/IN dollars/NNS in/IN efficiencies/NNS .''/.
 
 (ROOT
   (S
@@ -1203,6 +1276,8 @@ prep_of(hundreds-5, millions-7)
 prep_of(millions-7, dollars-9)
 prep_in(dollars-9, efficiencies-11)
 punct(uncover-4, .''-12)
+
+NYT-12-10-00/CD 1714EST/CD
 
 (ROOT
   (FRAG

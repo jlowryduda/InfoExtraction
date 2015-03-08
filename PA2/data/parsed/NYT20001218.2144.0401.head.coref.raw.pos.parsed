@@ -1,3 +1,5 @@
+NYT20001218.2144.0401/CD NEWS/NNP STORY/NNP 2000-12-18/CD 22:24:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001218.2144.0401))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001218.2144.0401-1, STORY-3)
 num(22:24:00-5, 2000-12-18-4)
 dep(NYT20001218.2144.0401-1, 22:24:00-5)
+
+A4670/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-LVMH-DONNA-KARAN-NYT/NNP &LR/NNP ;/: 12-18/CD 0851/CD
 
 (ROOT
   (NP
@@ -30,10 +34,14 @@ dep(&Cx1f-2, &LR-8)
 number(0851-11, 12-18-10)
 dep(&LR-8, 0851-11)
 
+BC-LVMH-DONNA-KARAN-NYT/NNP
+
 (ROOT
   (NP (NNP BC-LVMH-DONNA-KARAN-NYT)))
 
 root(ROOT-0, BC-LVMH-DONNA-KARAN-NYT-1)
+
+LVMH/NNP MAKES/NNP A/NNP TWO-PART/NNP OFFER/NNP FOR/NNP DONNA/NNP KARAN/NNP
 
 (ROOT
   (NP (NNP LVMH) (NNP MAKES) (NNP A) (NNP TWO-PART) (NNP OFFER) (NNP FOR) (NNP DONNA) (NNP KARAN)))
@@ -47,16 +55,18 @@ nn(KARAN-8, FOR-6)
 nn(KARAN-8, DONNA-7)
 root(ROOT-0, KARAN-8)
 
+&UR/NNS ;/: [ATTN/NNP .:/NNP N.Y/NNP .,/, Md/NNP .,/POS France/NNP ]/NNP &LR/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: By/NNP LESLIE/NNP KAUFMAN/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
 (ROOT
   (NP
     (NP (NNS &UR))
     (: ;)
     (NP
-      (NP (NNP (ATTN) (NNP .:) (NNP N.Y))
+      (NP (NNP [ATTN) (NNP .:) (NNP N.Y))
       (PP (, .,)
         (NP
           (NP (NNP Md) (POS .,))
-          (NNP France) (NNP )) (NNP &LR)))
+          (NNP France) (NNP ]) (NNP &LR)))
       (: ;)
       (NP (NNS &QL))
       (: ;)
@@ -79,13 +89,13 @@ root(ROOT-0, KARAN-8)
     (. .)))
 
 root(ROOT-0, &UR-1)
-nn(N.Y-5, (ATTN-3)
+nn(N.Y-5, [ATTN-3)
 nn(N.Y-5, .:-4)
 dep(&UR-1, N.Y-5)
 punct(&LR-11, .,-6)
 poss(&LR-11, Md-7)
 nn(&LR-11, France-9)
-nn(&LR-11, )-10)
+nn(&LR-11, ]-10)
 prep(N.Y-5, &LR-11)
 dep(N.Y-5, &QL-13)
 dep(N.Y-5, &UR-15)
@@ -98,6 +108,8 @@ dep(&QC-22, &QL-24)
 dep(&UR-1, &UR-26)
 dep(&UR-26, c.2000-28)
 appos(c.2000-28, N.Y-29)
+
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -115,6 +127,8 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
+
+The/DT fashion/NN house/NN of/IN Donna/NNP Karan/NNP ,/, which/WDT has/VBZ long/RB struggled/VBN to/TO achieve/VB financial/JJ equilibrium/NN ,/, has/VBZ finally/RB found/VBN a/DT potential/JJ buyer/NN ./.
 
 (ROOT
   (S
@@ -143,7 +157,7 @@ dep(&QC-6, &QL-8)
 det(house-3, The-1)
 nn(house-3, fashion-2)
 nsubj(struggled-11, house-3)
-xsubj(achieve-13, house-3)
+nsubj(achieve-13, house-3)
 nsubj(found-19, house-3)
 nn(Karan-6, Donna-5)
 prep_of(house-3, Karan-6)
@@ -160,6 +174,8 @@ root(ROOT-0, found-19)
 det(buyer-22, a-20)
 amod(buyer-22, potential-21)
 dobj(found-19, buyer-22)
+
+The/DT giant/NN luxury/NN conglomerate/JJ LVMH/NNP -Moet/NNP Hennessy/NNP Louis/NNP Vuitton/NNP ,/, which/WDT has/VBZ been/VBN on/IN a/DT sustained/JJ acquisition/NN bid/NN ,/, has/VBZ offered/VBN to/TO acquire/VB Donna/NNP Karan/NNP International/NNP for/IN $195/CD million/CD in/IN a/DT cash/NN deal/NN with/IN the/DT idea/NN that/IN it/PRP could/MD expand/VB the/DT company/NN 's/POS revenues/NNS and/CC beef/NN up/IN accessories/NNS and/CC overseas/RB sales/NNS ./.
 
 (ROOT
   (S
@@ -213,7 +229,7 @@ det(luxury-3, The-1)
 nn(luxury-3, giant-2)
 nsubj(been-13, luxury-3)
 nsubj(offered-21, luxury-3)
-xsubj(acquire-23, luxury-3)
+nsubj(acquire-23, luxury-3)
 amod(Vuitton-9, conglomerate-4)
 nn(Vuitton-9, LVMH-5)
 nn(Vuitton-9, -Moet-6)
@@ -253,6 +269,8 @@ prep_up(revenues-44, accessories-48)
 advmod(sales-51, overseas-50)
 prep_up(revenues-44, sales-51)
 conj_and(accessories-48, sales-51)
+
+At/IN $8.50/DT a/DT share/NN ,/, the/DT LVMH/NNP offer/NN represents/VBZ a/DT premium/NN of/IN nearly/RB 75/CD percent/JJ to/TO the/DT closing/VBG stock/NN price/NN on/IN Friday/NNP ./.
 
 (ROOT
   (S
@@ -295,6 +313,8 @@ nn(price-20, stock-19)
 prep_to(percent-15, price-20)
 prep_on(price-20, Friday-22)
 
+Still/RB ,/, it/PRP is/VBZ significantly/RB less/JJR than/IN the/DT $24/NNS a/DT share/NN at/IN which/WDT the/DT company/NN went/VBD public/JJ in/IN 1996/CD ./.
+
 (ROOT
   (S
     (ADVP (RB Still))
@@ -333,6 +353,8 @@ nsubj(went-16, company-15)
 ccomp(less-6, went-16)
 acomp(went-16, public-17)
 prep_in(went-16, 1996-19)
+
+The/DT final/JJ price/NN is/VBZ also/RB less/RBR than/IN one-third/NN of/IN the/DT company/NN 's/POS annual/JJ revenue/NN of/IN $662/CD million/CD ,/, a/DT significantly/RB smaller/JJR multiple/NN than/IN European/JJ luxury/NN fashion/NN houses/NNS like/IN Fendi/NNP were/VBD receiving/VBG last/JJ year/NN ./.
 
 (ROOT
   (S
@@ -393,6 +415,8 @@ aux(receiving-31, were-30)
 root(ROOT-0, receiving-31)
 amod(year-33, last-32)
 tmod(receiving-31, year-33)
+
+The/DT deal/NN is/VBZ still/RB subject/JJ to/TO board/NN approval/NN ,/, but/CC in/IN a/DT related/JJ move/NN that/WDT will/MD surely/RB help/VB pave/VBP the/DT way/NN ,/, LVMH/NNP purchased/VBD Gabrielle/NNP Studio/NNP ,/, the/DT company/NN held/VBN by/IN the/DT designer/NN and/CC her/PRP$ husband/NN ,/, Stephan/NNP Weiss/NNP ,/, that/WDT holds/VBZ all/DT of/IN the/DT Donna/NNP Karan/NNP trademarks/NNS ,/, for/IN $450/CD million/CD ./.
 
 (ROOT
   (S
@@ -493,6 +517,8 @@ prep_of(all-43, trademarks-48)
 number(million-52, $450-51)
 prep_for(company-29, million-52)
 
+That/DT price/NN would/MD be/VB reduced/VBN by/IN as/RB much/JJ as/IN $50/CD million/CD if/IN LVMH/NNP enters/NNS into/IN an/DT agreement/NN to/TO acquire/VB DKI/NNP within/IN one/CD year/NN ./.
+
 (ROOT
   (S
     (NP (DT That) (NN price))
@@ -521,8 +547,8 @@ nsubjpass(reduced-5, price-2)
 aux(reduced-5, would-3)
 auxpass(reduced-5, be-4)
 root(ROOT-0, reduced-5)
-quantmod(million-11, as-7)
-quantmod(million-11, much-8)
+advmod(as-9, as-7)
+advmod(as-9, much-8)
 quantmod(million-11, as-9)
 number(million-11, $50-10)
 agent(reduced-5, million-11)
@@ -536,6 +562,8 @@ advcl(reduced-5, acquire-19)
 dobj(acquire-19, DKI-20)
 num(year-23, one-22)
 prep_within(DKI-20, year-23)
+
+In/IN a/DT press/NN release/NN ,/, LVMH/NNP said/VBD it/PRP aimed/VBD to/TO combine/VB Gabrielle/NNP and/CC Donna/NNP Karan/NNP International/NNP and/CC that/IN it/PRP expected/VBN that/IN Karan/NNP and/CC her/PRP$ husband/NN ``will/MD exchange/NN a/DT significant/JJ portion/NN of/IN their/PRP$ DKI/NNP shares/NNS for/IN ,/, and/CC purchase/NN additional/JJ stock/NN in/IN ,/, the/DT combined/JJ entity/NN .''/.
 
 (ROOT
   (S
@@ -592,7 +620,7 @@ prep_in(said-7, release-4)
 nsubj(said-7, LVMH-6)
 root(ROOT-0, said-7)
 nsubj(aimed-9, it-8)
-xsubj(combine-11, it-8)
+nsubj(combine-11, it-8)
 ccomp(said-7, aimed-9)
 aux(combine-11, to-10)
 xcomp(aimed-9, combine-11)
@@ -628,6 +656,8 @@ det(entity-45, the-43)
 amod(entity-45, combined-44)
 appos(portion-30, entity-45)
 punct(said-7, .''-46)
+
+Karan/NNP ,/, who/WP will/MD stay/VB on/IN as/IN chief/JJ designer/NN and/CC creative/JJ leader/NN for/IN the/DT design/NN studio/NN ,/, called/VBD the/DT decision/NN to/TO sell/VB Gabrielle/NNP and/CC possibly/RB her/PRP$ namesake/NN design/NN studio/NN ,/, of/IN which/WDT she/PRP and/CC Weiss/NNP still/RB own/VBP about/IN 22/CD percent/NN ,/, as/IN very/RB emotional/JJ ./.
 
 (ROOT
   (S
@@ -715,6 +745,8 @@ mark(emotional-44, as-42)
 advmod(emotional-44, very-43)
 dep(percent-40, emotional-44)
 
+She/NNP added/VBD ,/, ``Yes/NNPS ,/, I/PRP am/VBP extraordinarily/RB tied/VBN to/TO it/PRP ,/, but/CC after/IN lengthy/JJ discussions/NNS I/PRP believe/VBP with/IN all/DT my/PRP$ heart/NN that/IN LVMH/NNP has/VBZ the/DT expertise/NN ,/, resources/NNS ,/, global/JJ scale/NN and/CC ,/, most/RBS importantly/RB ,/, the/DT vision/NN ,/, to/TO make/VB this/DT the/DT luxury/NN goods/NNS brand/NN that/WDT was/VBD always/RB our/PRP$ dream/NN .''/.
+
 (ROOT
   (S
     (S
@@ -789,15 +821,19 @@ mark(has-25, that-23)
 nsubj(has-25, LVMH-24)
 ccomp(believe-18, has-25)
 det(expertise-27, the-26)
+dobj(has-25, expertise-27)
 nsubj(make-42, expertise-27)
+dobj(has-25, resources-29)
 conj_and(expertise-27, resources-29)
 nsubj(make-42, resources-29)
 amod(scale-32, global-31)
+dobj(has-25, scale-32)
 conj_and(expertise-27, scale-32)
 nsubj(make-42, scale-32)
 advmod(importantly-36, most-35)
 dep(expertise-27, importantly-36)
 det(vision-39, the-38)
+dobj(has-25, vision-39)
 conj_and(expertise-27, vision-39)
 nsubj(make-42, vision-39)
 aux(make-42, to-41)
@@ -814,6 +850,8 @@ advmod(dream-52, always-50)
 poss(dream-52, our-51)
 rcmod(brand-47, dream-52)
 punct(added-2, .''-53)
+
+Karan/NNP also/RB expressed/VBD satisfaction/NN that/IN the/DT Paris/NNP -based/JJ LVMH/NNP ,/, which/WDT like/IN many/JJ European/JJ acquirers/NNS has/VBZ been/VBN largely/RB indifferent/JJ to/TO established/VB American/JJ design/NN houses/NNS ,/, was/VBD interested/JJ in/IN purchasing/VBG hers/NNS ./.
 
 (ROOT
   (S
@@ -854,7 +892,7 @@ dobj(expressed-3, satisfaction-4)
 mark(interested-27, that-5)
 det(Paris-7, the-6)
 nsubj(indifferent-19, Paris-7)
-xsubj(established-21, Paris-7)
+nsubj(established-21, Paris-7)
 nsubj(interested-27, Paris-7)
 amod(LVMH-9, -based-8)
 dep(Paris-7, LVMH-9)
@@ -874,6 +912,8 @@ cop(interested-27, was-26)
 ccomp(expressed-3, interested-27)
 amod(hers-30, purchasing-29)
 prep_in(interested-27, hers-30)
+
+``It/NNP is/VBZ very/RB flattering/JJ that/IN they/PRP realize/VBP the/DT value/NN of/IN the/DT trademarks/NNS ,''/, she/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -909,6 +949,8 @@ punct(said-15, ,''-13)
 nsubj(said-15, she-14)
 root(ROOT-0, said-15)
 
+Investors/NNS reacted/VBD enthusiastically/RB ,/, sending/VBG the/DT stock/NN up/RP $3.63/CD to/TO $8.50/CD ./.
+
 (ROOT
   (S
     (NP (NNS Investors))
@@ -933,6 +975,8 @@ dobj(sending-5, stock-7)
 dep($3.63-9, up-8)
 advmod(sending-5, $3.63-9)
 prep_to($3.63-9, $8.50-11)
+
+``Ultimately/RB ,/, for/IN them/PRP ,/, acquisition/NN is/VBZ the/DT best/JJS route/NN to/TO go/VB ,''/PRP said/VBD Harvey/NNP Robinson/NNP ,/, an/DT apparel/JJ analyst/NN with/IN the/DT Chapman/NNP Co/NNP .,/IN a/DT Baltimore/RB -based/JJ investment/NN bank/NN and/CC brokerage/NN firm/NN ./.
 
 (ROOT
   (S
@@ -996,6 +1040,8 @@ nn(firm-33, brokerage-32)
 prep_.,(said-14, firm-33)
 conj_and(bank-30, firm-33)
 
+``We/PRP think/VBP LVMH/NNP is/VBZ getting/VBG a/DT well-recognized/JJ brand/NN with/IN lots/NNS of/IN cachet/NN and/CC we/PRP believe/VBP they/PRP will/MD be/VB able/JJ to/TO maximize/VB on/IN the/DT acquisition/NN .''/.
+
 (ROOT
   (S
     (S
@@ -1042,7 +1088,7 @@ prep_of(lots-10, cachet-12)
 nsubj(believe-15, we-14)
 conj_and(think-2, believe-15)
 nsubj(able-19, they-16)
-xsubj(maximize-21, they-16)
+nsubj(maximize-21, they-16)
 aux(able-19, will-17)
 cop(able-19, be-18)
 ccomp(believe-15, able-19)
@@ -1051,6 +1097,8 @@ xcomp(able-19, maximize-21)
 det(acquisition-24, the-23)
 prep_on(maximize-21, acquisition-24)
 punct(think-2, .''-25)
+
+Since/NNP Donna/NNP Karan/NNP International/NNP went/VBD public/JJ in/IN 1996/CD ,/, its/PRP$ stock/NN has/VBZ been/VBN a/DT favorite/JJ whipping/JJ boy/NN of/IN Wall/NNP Street/NNP ./.
 
 (ROOT
   (S
@@ -1087,6 +1135,8 @@ amod(boy-17, whipping-16)
 root(ROOT-0, boy-17)
 nn(Street-20, Wall-19)
 prep_of(boy-17, Street-20)
+
+Investors/NNS grumbled/VBN over/IN what/WP they/PRP saw/RB as/IN excessive/JJ and/CC uncontrolled/JJ spending/NN as/IN Karan/NNP ,/, who/WP acted/VBD as/IN chief/JJ designer/NN as/RB well/RB as/IN chief/JJ executive/NN ,/, spent/JJ heavily/RB on/IN foreign/JJ travel/NN for/IN a/DT large/JJ retinue/NN and/CC for/IN expensive/JJ swaths/NNS of/IN fabric/JJ ,/, only/RB a/DT tiny/JJ fraction/NN of/IN which/WDT were/VBD used/VBN for/IN her/PRP$ collection/NN ./.
 
 (ROOT
   (S
@@ -1187,6 +1237,8 @@ prepc_of(fraction-45, used-49)
 poss(collection-52, her-51)
 prep_for(used-49, collection-52)
 
+As/IN expenses/NNS ballooned/VBN ,/, sales/NNS stumbled/VBD ,/, leaving/VBG the/DT Donna/NNP Karan/NNP International/NNP initial/JJ public/NN offering/NN as/IN one/CD of/IN the/DT greatest/JJS disasters/NNS of/IN the/DT year/NN ./.
+
 (ROOT
   (S
     (PP (IN As)
@@ -1228,6 +1280,8 @@ prep_of(offering-15, disasters-21)
 det(year-24, the-23)
 prep_of(disasters-21, year-24)
 
+In/IN 1997/CD ,/, the/DT company/NN hired/VBD John/NNP D./NNP Idol/NNP to/TO take/VB over/RP as/IN chief/JJ executive/NN ./.
+
 (ROOT
   (S
     (PP (IN In)
@@ -1250,12 +1304,15 @@ nsubj(hired-6, company-5)
 root(ROOT-0, hired-6)
 nn(Idol-9, John-7)
 nn(Idol-9, D.-8)
+dobj(hired-6, Idol-9)
 nsubj(take-11, Idol-9)
 aux(take-11, to-10)
 xcomp(hired-6, take-11)
 prt(take-11, over-12)
 amod(executive-15, chief-14)
 prep_as(take-11, executive-15)
+
+Idol/NNP was/VBD able/JJ to/TO increase/VB revenue/NN by/IN signing/VBG copious/JJ licensing/NN agreements/NNS and/CC cutting/VBG some/DT expenses/NNS ./.
 
 (ROOT
   (S
@@ -1277,7 +1334,7 @@ prep_as(take-11, executive-15)
     (. .)))
 
 nsubj(able-3, Idol-1)
-xsubj(increase-5, Idol-1)
+nsubj(increase-5, Idol-1)
 cop(able-3, was-2)
 root(ROOT-0, able-3)
 aux(increase-5, to-4)
@@ -1291,6 +1348,8 @@ prepc_by(increase-5, cutting-13)
 conj_and(signing-8, cutting-13)
 det(expenses-15, some-14)
 dobj(cutting-13, expenses-15)
+
+The/DT company/NN estimates/NNS earnings/NNS per/VBP share/NN will/MD be/VB 66/CD cents/NNS for/IN the/DT fiscal/JJ year/NN ending/VBG Dec/NNP ./.
 
 (ROOT
   (S
@@ -1326,6 +1385,8 @@ prep_for(cents-10, year-14)
 vmod(year-14, ending-15)
 dobj(ending-15, Dec-16)
 
+31/CD ,/, compared/VBN with/IN a/DT loss/NN of/IN $3.78/DT a/DT share/NN in/IN the/DT year/NN he/PRP took/VBD the/DT job/NN ./.
+
 (ROOT
   (S
     (NP (CD 31))
@@ -1359,6 +1420,8 @@ root(ROOT-0, took-15)
 det(job-17, the-16)
 dobj(took-15, job-17)
 
+It/PRP is/VBZ unclear/JJ what/WP will/MD happen/VB to/TO Idol/VB if/IN Donna/NNP Karan/NNP International/NNP and/CC Gabrielle/NNP merge/NN ./.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -1383,7 +1446,7 @@ nsubj(unclear-3, It-1)
 cop(unclear-3, is-2)
 root(ROOT-0, unclear-3)
 nsubj(happen-6, what-4)
-xsubj(Idol-8, what-4)
+nsubj(Idol-8, what-4)
 aux(happen-6, will-5)
 ccomp(unclear-3, happen-6)
 aux(Idol-8, to-7)
@@ -1394,6 +1457,8 @@ prep_if(Idol-8, International-12)
 nn(merge-15, Gabrielle-14)
 prep_if(Idol-8, merge-15)
 conj_and(International-12, merge-15)
+
+Despite/IN the/DT apparent/JJ financial/JJ improvement/NN ,/, investors/NNS have/VBP continued/VBN to/TO shun/VB the/DT company/NN largely/RB because/IN of/IN Karan/NNP 's/POS separate/JJ deal/NN with/IN Gabrielle/NNP studio/NN ,/, which/WDT many/JJ felt/NN was/VBD overly/RB indulgent/JJ considering/VBG the/DT company/NN 's/POS financial/JJ performance/NN ./.
 
 (ROOT
   (S
@@ -1434,7 +1499,7 @@ amod(improvement-5, apparent-3)
 amod(improvement-5, financial-4)
 prep_despite(continued-9, improvement-5)
 nsubj(continued-9, investors-7)
-xsubj(shun-11, investors-7)
+nsubj(shun-11, investors-7)
 aux(continued-9, have-8)
 root(ROOT-0, continued-9)
 aux(shun-11, to-10)
@@ -1458,6 +1523,8 @@ det(company-33, the-32)
 poss(performance-36, company-33)
 amod(performance-36, financial-35)
 dobj(considering-31, performance-36)
+
+That/DT company/NN ,/, privately/RB owned/VBN by/IN Karan/NNP and/CC Weiss/NNP ,/, collects/VBZ a/DT royalty/NN of/IN 1.75/CD percent/NN of/IN the/DT first/JJ $250/CD million/CD of/IN net/JJ sales/NNS a/DT year/NN ,/, rising/VBG to/TO 3.5/CD percent/NN of/IN sales/NNS that/IN exceed/JJ $1.5/CD billion/CD ./.
 
 (ROOT
   (S
@@ -1529,6 +1596,8 @@ dep(percent-31, exceed-35)
 number(billion-37, $1.5-36)
 dep(exceed-35, billion-37)
 
+Last/JJ year/NN ,/, Donna/NNP Karan/NNP International/NNP paid/VBD Karan/NNP and/CC Weiss/NNP $25/CD million/CD in/IN a/DT year/NN that/IN the/DT design/NN house/NN made/VBD only/RB $10/CD million/CD in/IN profit/NN ./.
+
 (ROOT
   (S
     (NP (JJ Last) (NN year))
@@ -1577,6 +1646,8 @@ number(million-23, $10-22)
 dobj(made-20, million-23)
 prep_in(made-20, profit-25)
 
+If/IN LVMH/NNP succeeds/VBZ in/IN acquiring/VBG Donna/NNP Karan/NNP International/NNP and/CC combines/VBZ it/PRP with/IN Gabrielle/NNP ,/, the/DT royalty/NN arrangement/NN would/MD be/VB moot/NN ./.
+
 (ROOT
   (S
     (SBAR (IN If)
@@ -1619,6 +1690,8 @@ aux(moot-20, would-18)
 cop(moot-20, be-19)
 root(ROOT-0, moot-20)
 
+But/CC several/JJ industry/NN insiders/NNS wondered/VBD whether/IN LVMH/NNP is/VBZ getting/VBG such/JJ a/DT great/JJ deal/NN ./.
+
 (ROOT
   (S (CC But)
     (NP (JJ several) (NN industry) (NNS insiders))
@@ -1645,6 +1718,8 @@ prep(getting-9, such-10)
 det(deal-13, a-11)
 amod(deal-13, great-12)
 dep(such-10, deal-13)
+
+Karan/NNP 's/POS name/NN is/VBZ already/RB licensed/VBN to/TO a/DT wide/JJ array/NN of/IN products/NNS ,/, and/CC because/IN it/PRP is/VBZ widely/RB distributed/VBN through/IN midprice/NN department/NN stores/NNS ,/, it/PRP lacks/VBZ the/DT exclusive/JJ appeal/NN of/IN names/NNS like/IN Marc/NNP Jacobs/NNP and/CC Michael/NNP Kors/NNP ./.
 
 (ROOT
   (S
@@ -1714,6 +1789,8 @@ prep_like(names-31, Jacobs-34)
 nn(Kors-37, Michael-36)
 prep_like(names-31, Kors-37)
 conj_and(Jacobs-34, Kors-37)
+
+Myron/NNP Ullman/NNP ,/, LVMH/NNP 's/POS managing/VBG director/NN ,/, counters/NNS that/IN Karan/NNP has/VBZ built/VBN a/DT ``well-respected/JJ global/JJ brand/NN with/IN opportunities/NNS in/IN accessories/NNS and/CC to/TO expand/VB outside/IN the/DT U.S./NNP ''/'' Donna/NNP Karan/NNP International/NNP gets/VBZ 35/CD percent/NN of/IN its/PRP$ revenues/NNS from/IN overseas/RB ./.
 
 (ROOT
   (S
@@ -1788,6 +1865,8 @@ prep_of(percent-34, revenues-37)
 prep(gets-32, from-38)
 pobj(from-38, overseas-39)
 
+Idol/NNP calls/VBZ it/PRP the/DT fastest-growing/JJ area/NN of/IN the/DT company/NN ./.
+
 (ROOT
   (S
     (NP (NNP Idol))
@@ -1808,6 +1887,8 @@ amod(area-6, fastest-growing-5)
 xcomp(calls-2, area-6)
 det(company-9, the-8)
 prep_of(area-6, company-9)
+
+NYT-12-18-00/CD 2224EST/CD
 
 (ROOT
   (FRAG

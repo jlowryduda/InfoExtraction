@@ -1,3 +1,5 @@
+APW20001016.1325.0321/DT NEWS/NNP STORY/NNPS 2000-10-16/CD 13:30:59/CD
+
 (ROOT
   (NP
     (NP (DT APW20001016.1325.0321))
@@ -10,10 +12,14 @@ dep(APW20001016.1325.0321-1, STORY-3)
 num(13:30:59-5, 2000-10-16-4)
 dep(APW20001016.1325.0321-1, 13:30:59-5)
 
+College-Costs/NNS
+
 (ROOT
   (NP (NNS College-Costs)))
 
 root(ROOT-0, College-Costs-1)
+
+Survey/NNP Finds/NNP College/NNP Costs/NNPS Rising/NNP
 
 (ROOT
   (NP
@@ -26,12 +32,14 @@ nn(Rising-5, College-3)
 nn(Rising-5, Costs-4)
 dep(Finds-2, Rising-5)
 
+NEW/NNP YORK/NNP [AP/NNP ]/POS _/`` The/DT price/NN of/IN a/DT college/NN degree/NN continues/NNS to/TO rise/VB faster/JJR than/IN inflation/NN ,/, with/IN tuition/NN and/CC fees/NNS at/IN public/JJ four-year/JJ colleges/NNS up/IN an/DT average/JJ 4.4/CD percent/JJ this/DT fall/NN ,/, even/RB more/RBR at/IN private/JJ schools/NNS ,/, a/DT new/JJ survey/NN has/VBZ found/VBN ./.
+
 (ROOT
   (S
     (S
       (NP
         (NP
-          (NP (NNP NEW) (NNP YORK) (NNP (AP) (POS )))
+          (NP (NNP NEW) (NNP YORK) (NNP [AP) (POS ]))
           (`` _)
           (NX (DT The) (NN price)))
         (PP (IN of)
@@ -64,9 +72,9 @@ dep(Finds-2, Rising-5)
       (VP (VBN found)))
     (. .)))
 
-nn((AP-3, NEW-1)
-nn((AP-3, YORK-2)
-poss(price-7, (AP-3)
+nn([AP-3, NEW-1)
+nn([AP-3, YORK-2)
+poss(price-7, [AP-3)
 punct(price-7, _-5)
 det(price-7, The-6)
 nsubj(rise-14, price-7)
@@ -100,6 +108,8 @@ nsubj(found-45, survey-43)
 aux(found-45, has-44)
 root(ROOT-0, found-45)
 
+And/CC loans/NNS provide/VBP a/DT growing/VBG chunk/NN of/IN the/DT extra/JJ money/NN students/NNS need/VBP to/TO pay/VB for/IN those/DT degrees/NNS ./.
+
 (ROOT
   (S (CC And)
     (NP (NNS loans))
@@ -124,7 +134,7 @@ root(ROOT-0, provide-3)
 det(chunk-6, a-4)
 amod(chunk-6, growing-5)
 nsubj(need-12, chunk-6)
-xsubj(pay-14, chunk-6)
+nsubj(pay-14, chunk-6)
 det(students-11, the-8)
 amod(students-11, extra-9)
 nn(students-11, money-10)
@@ -134,6 +144,8 @@ aux(pay-14, to-13)
 xcomp(need-12, pay-14)
 det(degrees-17, those-16)
 prep_for(pay-14, degrees-17)
+
+Average/JJ in-state/JJ tuition/NN and/CC fees/NNS at/IN public/JJ ,/, four-year/JJ schools/NN is/VBZ $3,510/CD per/NN semester/NN _/, $148/CD more/JJR than/IN last/JJ year/NN ,/, according/VBG to/TO figures/VBZ released/VBN Monday/NNP by/IN the/DT College/NNP Board/NNP ./.
 
 (ROOT
   (S
@@ -188,6 +200,8 @@ det(Board-30, the-28)
 nn(Board-30, College-29)
 prep_by(released-25, Board-30)
 
+On-campus/JJ room/NN and/CC board/NN now/RB averages/VBZ $4,960/CD ,/, up/RB 5.1/CD percent/NN ./.
+
 (ROOT
   (S
     (NP
@@ -214,6 +228,8 @@ dobj(averages-6, $4,960-7)
 quantmod(5.1-10, up-9)
 num(percent-11, 5.1-10)
 appos($4,960-7, percent-11)
+
+At/IN private/JJ four-year/JJ colleges/NNS ,/, tuition/NN and/CC fees/NNS average/VBP $16,332/CD ,/, up/RB 5.2/CD percent/NN from/IN last/JJ year/NN ./.
 
 (ROOT
   (S
@@ -246,6 +262,8 @@ pobj(up-12, percent-14)
 amod(year-17, last-16)
 prep_from(up-12, year-17)
 
+Room/NNP and/CC board/NN on/IN campus/NN is/VBZ now/RB $6,209/CD ,/, a/DT 4.2/CD percent/JJ increase/NN ./.
+
 (ROOT
   (S
     (NP
@@ -276,6 +294,8 @@ det(increase-13, a-10)
 number(percent-12, 4.2-11)
 amod(increase-13, percent-12)
 appos($6,209-8, increase-13)
+
+Only/RB public/JJ two-year/JJ schools/NNS ,/, chiefly/RB community/NN colleges/NNS ,/, stayed/VBN below/IN the/DT current/JJ inflation/NN rate/NN _/, but/CC barely/RB ./.
 
 (ROOT
   (S
@@ -309,6 +329,8 @@ punct(barely-18, _-16)
 cc(barely-18, but-17)
 dep(stayed-10, barely-18)
 
+Tuition/NN rose/VBD this/DT year/NN to/TO $1,705/CD ,/, up/RB 3.4/CD percent/NN ,/, the/DT survey/NN found/VBD ./.
+
 (ROOT
   (S
     (S
@@ -336,6 +358,8 @@ pobj(up-8, percent-10)
 det(survey-13, the-12)
 nsubj(found-14, survey-13)
 root(ROOT-0, found-14)
+
+Private/NNP two-year/JJ schools/NNS boosted/VBD tuition/NN and/CC fees/NNS to/TO $7,458/CD ,/, a/DT 7/CD percent/JJ rise/NN ./.
 
 (ROOT
   (S
@@ -365,6 +389,8 @@ det(rise-14, a-11)
 number(percent-13, 7-12)
 amod(rise-14, percent-13)
 appos($7,458-9, rise-14)
+
+This/DT pattern/JJ follows/VBZ an/DT old/JJ ,/, familiar/JJ trend/NN ,/, said/VBD Joni/NNP Finney/NNP ,/, a/DT policy/NN analyst/NN at/IN the/DT National/NNP Center/NNP for/IN Public/NNP Policy/NNP and/CC Higher/NNP Education/NNP in/IN San/NNP Jose/NNP ,/, Calif./NNP ``Colleges/NNPS and/CC universities/NNS have/VBP a/DT very/RB difficult/JJ time/NN controlling/VBG their/PRP$ costs/NNS ,''/, she/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -450,6 +476,8 @@ punct(said-45, ,''-43)
 nsubj(said-45, she-44)
 dep(have-35, said-45)
 
+``These/JJ institutions/NNS were/VBD underfunded/VBN in/IN the/DT early/JJ part/NN of/IN the/DT '90s/NNS ,''/, Finney/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -479,6 +507,8 @@ punct(said-14, ,''-12)
 nsubj(said-14, Finney-13)
 root(ROOT-0, said-14)
 
+''.../DT But/CC they/PRP 've/VBP more/JJR than/IN made/VBD up/RP for/IN lost/VBN ground/NN .''/.
+
 (ROOT
   (S
     (NP
@@ -505,6 +535,8 @@ prt(made-7, up-8)
 amod(ground-11, lost-10)
 prep_for(made-7, ground-11)
 punct(made-7, .''-12)
+
+But/CC Stanley/NNP Eikenberry/NNP ,/, president/NN of/IN the/DT American/JJ Council/NNP on/IN Education/NNP ,/, an/DT umbrella/NN group/NN for/IN higher/JJR education/NN ,/, said/VBD in/IN a/DT statement/NN ,/, ``Given/VBP the/DT large/JJ ,/, fixed/JJ costs/NNS of/IN most/JJS campuses/NNS ,/, in/IN personnel/NN and/CC facilities/NNS especially/RB ,/, these/DT numbers/NNS show/VBP institutions/NNS are/VBP working/VBG hard/JJ to/TO hold/VB the/DT line/NN on/IN increases/NNS .''/.
 
 (ROOT
   (S
@@ -600,6 +632,8 @@ dobj(hold-49, line-51)
 prep_on(hold-49, increases-53)
 punct(show-43, .''-54)
 
+The/DT recent/JJ increases/NNS push/VB past/JJ inflation/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (JJ recent) (NNS increases))
@@ -613,6 +647,8 @@ nsubj(push-4, increases-3)
 root(ROOT-0, push-4)
 amod(inflation-6, past-5)
 dobj(push-4, inflation-6)
+
+The/DT Consumer/NNP Price/NNP Index/NNP rose/VBD 2.7/CD percent/JJ in/IN 1999/CD ;/: the/DT first/JJ eight/JJ months/NNS of/IN this/DT year/NN ,/, consumer/NN prices/NNS rose/VBD at/IN an/DT annual/JJ rate/NN of/IN 3.5/CD percent/JJ ./.
 
 (ROOT
   (S
@@ -663,6 +699,8 @@ prep_at(rose-21, rate-25)
 prep_of(rate-25, 3.5-27)
 amod(3.5-27, percent-28)
 
+Last/JJ year/NN ,/, college/NN tuition/NN and/CC fees/NNS rose/VBD less/RBR than/IN 5/CD percent/NN ./.
+
 (ROOT
   (S
     (NP (JJ Last) (NN year))
@@ -689,6 +727,8 @@ quantmod(5-11, than-10)
 num(percent-12, 5-11)
 dobj(rose-8, percent-12)
 
+Despite/IN the/DT increases/NNS ,/, college/NN remains/VBZ affordable/JJ and/CC a/DT good/JJ investment/NN ,/, said/VBD College/NNP Board/NNP President/NNP Gaston/NNP Caperton/NNP in/IN a/DT statement/NN with/IN the/DT surveys/NNS ./.
+
 (ROOT
   (SINV
     (S
@@ -713,14 +753,14 @@ dobj(rose-8, percent-12)
     (. .)))
 
 det(increases-3, the-2)
-prep_despite(affordable-7, increases-3)
-nsubj(affordable-7, college-5)
-cop(affordable-7, remains-6)
-ccomp(said-13, affordable-7)
+prep_despite(remains-6, increases-3)
+nsubj(remains-6, college-5)
+ccomp(said-13, remains-6)
+xcomp(remains-6, affordable-7)
 det(investment-11, a-9)
 amod(investment-11, good-10)
+xcomp(remains-6, investment-11)
 conj_and(affordable-7, investment-11)
-ccomp(said-13, investment-11)
 root(ROOT-0, said-13)
 nn(Caperton-18, College-14)
 nn(Caperton-18, Board-15)
@@ -731,6 +771,8 @@ det(statement-21, a-20)
 prep_in(Caperton-18, statement-21)
 det(surveys-24, the-23)
 prep_with(statement-21, surveys-24)
+
+``In/NNP both/DT earning/VBG potential/NN and/CC learning/NN potential/NN ,/, you/PRP cannot/VBP beat/JJ the/DT value/NN of/IN a/DT college/NN education/NN ,''/IN the/DT former/JJ West/NNP Virginia/NNP governor/NN said/VBD ./.
 
 (ROOT
   (S
@@ -779,6 +821,8 @@ nn(governor-23, West-21)
 nn(governor-23, Virginia-22)
 nsubj(said-24, governor-23)
 advcl(cannot-10, said-24)
+
+The/DT College/NNP Board/NNP 's/POS figures/NNS concern/NN the/DT costs/NNS for/IN 6.4/CD million/CD full-time/JJ undergraduates/NNS _/IN 54/CD percent/JJ attending/NN four-year/JJ public/JJ institutions/NNS ,/, 27/CD percent/JJ at/IN four-year/JJ private/JJ schools/NNS ,/, 17/CD percent/JJ at/IN two-year/JJ community/NN colleges/NNS and/CC 1/CD percent/NN at/IN private/JJ two-year/JJ schools/NNS ./.
 
 (ROOT
   (NP
@@ -849,6 +893,8 @@ amod(schools-41, private-39)
 amod(schools-41, two-year-40)
 prep_at(percent-37, schools-41)
 
+A/DT majority/NN of/IN students/NNS need/VBP grants/NNS or/CC loans/NNS _/, or/CC both/DT _/NNS but/CC their/PRP$ exact/JJ numbers/NNS are/VBP unknown/VBN ,/, a/DT College/NNP Board/NNP spokesman/NN said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -898,6 +944,8 @@ nn(spokesman-23, Board-22)
 nsubj(said-24, spokesman-23)
 root(ROOT-0, said-24)
 
+Last/JJ school/NN year/NN ,/, loans/NNS made/VBD up/RP 59/CD percent/NN of/IN a/DT record/NN $68/CD billion/CD in/IN financial/JJ aid/NN ./.
+
 (ROOT
   (S
     (NP (JJ Last) (NN school) (NN year))
@@ -929,6 +977,8 @@ num(record-12, billion-14)
 amod(aid-17, financial-16)
 prep_in(made-6, aid-17)
 
+A/DT decade/NN ago/RB ,/, loans/NNS made/VBD up/RP just/RB over/IN 41/CD percent/JJ of/IN student/JJ financial/JJ help/NN ./.
+
 (ROOT
   (S
     (ADVP
@@ -959,6 +1009,8 @@ dobj(made-6, percent-11)
 amod(help-15, student-13)
 amod(help-15, financial-14)
 prep_of(percent-11, help-15)
+
+The/DT pool/NN of/IN money/NN from/IN federal/JJ ,/, state/NN and/CC school/NN sources/NNS last/JJ year/NN was/VBD 4/DT percent/JJ greater/NN than/IN a/DT year/NN earlier/RB ,/, but/CC 88/CD percent/JJ more/JJR than/IN a/DT decade/NN before/RB ,/, taking/VBG inflation/NN into/IN account/NN ./.
 
 (ROOT
   (S
@@ -1026,6 +1078,8 @@ dep(earlier-21, taking-32)
 dobj(taking-32, inflation-33)
 prep_into(taking-32, account-35)
 
+The/DT New/NNP York/NNP -based/JJ College/NNP Board/NNP is/VBZ a/DT nonprofit/NN organization/NN that/WDT administers/VBZ the/DT SATs/NNPS and/CC promotes/VBZ higher/JJR education/NN ./.
+
 (ROOT
   (S
     (NP
@@ -1065,6 +1119,8 @@ conj_and(administers-12, promotes-16)
 amod(education-18, higher-17)
 dobj(promotes-16, education-18)
 
+It/PRP surveyed/VBD more/JJR than/IN 3,000/CD schools/NNS to/TO find/VB out/RP undergraduate/JJ charges/NNS for/IN 2000-2001/CD ./.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -1094,6 +1150,8 @@ prt(find-8, out-9)
 amod(charges-11, undergraduate-10)
 dobj(find-8, charges-11)
 prep_for(charges-11, 2000-2001-13)
+
+The/DT companion/NN survey/NN on/IN financial/JJ aid/NN ,/, was/VBD based/VBN on/IN federal/JJ ,/, state/NN and/CC school/NN statistics/NNS from/IN 1999-2000/CD ./.
 
 (ROOT
   (S
@@ -1127,6 +1185,8 @@ nn(statistics-16, school-15)
 prep_on(based-9, statistics-16)
 prep_from(based-9, 1999-2000-18)
 
+Current/JJ grant/NN and/CC loan/NN figures/NNS are/VBP not/RB available/JJ until/IN the/DT school/NN year/NN ends/NNS ./.
+
 (ROOT
   (S
     (NP (JJ Current) (NN grant)
@@ -1151,10 +1211,14 @@ nn(ends-13, school-11)
 nn(ends-13, year-12)
 prep_until(available-8, ends-13)
 
+____/.
+
 (ROOT
   (NP (. ____)))
 
 root(ROOT-0, ____-1)
+
+On/IN the/DT Net/NN :/: http:/.
 
 (ROOT
   (FRAG
@@ -1166,6 +1230,8 @@ root(ROOT-0, ____-1)
 det(Net-3, the-2)
 prep_on(http:-5, Net-3)
 root(ROOT-0, http:-5)
+
+American/JJ Council/NNP on/IN Education/NN :/: http:/.
 
 (ROOT
   (NP

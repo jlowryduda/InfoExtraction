@@ -1,3 +1,5 @@
+NYT20001111.1247.0093/CD NEWS/NNP STORY/NNP 2000-11-11/CD 13:18:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001111.1247.0093))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001111.1247.0093-1, STORY-3)
 num(13:18:00-5, 2000-11-11-4)
 dep(NYT20001111.1247.0093-1, 13:18:00-5)
+
+A5549/CD &Cx1f/NN ;/: taf-z/NNP u/NNP i/NNP BC-MIDEAST-VIOLENCE-NYT/NNP &LR/NNP ;/: 11-11/CD 0834/CD
 
 (ROOT
   (NP
@@ -30,10 +34,14 @@ dep(&Cx1f-2, &LR-8)
 number(0834-11, 11-11-10)
 dep(&LR-8, 0834-11)
 
+BC-MIDEAST-VIOLENCE-NYT/NNP
+
 (ROOT
   (NP (NNP BC-MIDEAST-VIOLENCE-NYT)))
 
 root(ROOT-0, BC-MIDEAST-VIOLENCE-NYT-1)
+
+ASSASSINATION/NNP OF/NNP PALESTINIAN/NNP IGNITES/NNP MORE/NNP VIOLENCE/NNP
 
 (ROOT
   (NP (NNP ASSASSINATION) (NNP OF) (NNP PALESTINIAN) (NNP IGNITES) (NNP MORE) (NNP VIOLENCE)))
@@ -44,6 +52,8 @@ nn(VIOLENCE-6, PALESTINIAN-3)
 nn(VIOLENCE-6, IGNITES-4)
 nn(VIOLENCE-6, MORE-5)
 root(ROOT-0, VIOLENCE-6)
+
+&UR/NNS ;/: By/NNP JOHN/NNP KIFNER/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -77,6 +87,8 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -93,6 +105,8 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
+
+JERUSALEM/NNP _/VBZ The/DT commander/NN of/IN Israeli/NNP troops/NNS in/IN the/DT West/NNP Bank/NNP said/VBD there/RB was/VBD a/DT simple/JJ goal/NN to/TO the/DT helicopter/NN assassination/NN on/IN Thursday/NN of/IN a/DT gun/NN -wielding/VBG local/JJ Palestinian/JJ leader/NN ./.
 
 (ROOT
   (S
@@ -153,6 +167,8 @@ amod(leader-30, local-28)
 amod(leader-30, Palestinian-29)
 dobj(-wielding-27, leader-30)
 
+``I/NNP hope/VBD it/PRP will/MD reduce/VB the/DT violence/NN and/CC bring/VB back/RB reason/VBN to/TO this/DT area/NN ,''/IN Maj/NNP ./.
+
 (ROOT
   (S
     (NP (NNP ``I))
@@ -191,6 +207,8 @@ pcomp(reason-11, to-12)
 det(area-14, this-13)
 pobj(to-12, area-14)
 prep_,''(area-14, Maj-16)
+
+Gen./NNP Yitzhak/NNP Eitan/NNP told/VBD reporters/NNS at/IN a/DT briefing/NN hours/VBZ after/IN three/CD missiles/NNS fired/VBN from/IN an/DT Apache/JJ helicopter/NN killed/VBD Hussein/NNP Obaiyat/NNP ,/, along/IN with/IN two/CD middle-aged/JJ women/JJ standing/NN near/IN his/PRP$ van/NN in/IN Beit/NNP Sahur/NNP ,/, near/IN Bethlehem/NNP ./.
 
 (ROOT
   (S
@@ -257,6 +275,8 @@ nn(Sahur-33, Beit-32)
 prep_in(van-30, Sahur-33)
 prep_near(Obaiyat-20, Bethlehem-36)
 
+Instead/RB ,/, it/PRP has/VBZ touched/VBN off/RP one/CD of/IN the/DT bloodiest/JJS and/CC most/RBS intense/JJ weekends/NNS of/IN fighting/VBG yet/NN in/IN the/DT six-week-old/JJ conflict/NN ,/, with/IN gunfire/NN crackling/VBG through/IN the/DT West/NNP Bank/NNP and/CC Gaza/NNP Strip/NNP ./.
+
 (ROOT
   (S
     (ADVP (RB Instead))
@@ -317,6 +337,8 @@ nn(Strip-32, Gaza-31)
 prep_through(crackling-25, Strip-32)
 conj_and(Bank-29, Strip-32)
 
+Five/JJ Palestinians/NNPS and/CC an/DT Israeli/NNP soldier/NN were/VBD shot/JJ dead/NN on/IN Friday/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -340,6 +362,8 @@ cop(dead-9, were-7)
 amod(dead-9, shot-8)
 root(ROOT-0, dead-9)
 prep_on(dead-9, Friday-11)
+
+Gunfire/JJ between/IN Palestinian/NNP positions/NNS and/CC Israeli/NNP areas/NNS continued/VBN through/IN the/DT night/NN around/IN Ramallah/NNP and/CC Bethlehem/NNP ,/, and/CC by/IN nightfall/NN on/IN Saturday/NN more/RBR Palestinians/NNPS were/VBD dead/RB and/CC an/DT Israeli/NNP soldier/NN critically/RB wounded/VBD ,/, raising/VBG the/DT death/NN toll/NN to/TO at/IN least/JJS 200/CD ./.
 
 (ROOT
   (S
@@ -419,6 +443,8 @@ mwe(at-38, least-39)
 pobj(at-38, least-39)
 prep_to(raising-33, 200-40)
 
+Indeed/NNP ,/, the/DT escalation/NN of/IN gunfire/NN is/VBZ being/VBG described/VBN by/IN both/DT Palestinians/NNPS and/CC Israelis/NNP as/IN a/DT ``Lebanonization/NN ''/'' of/IN the/DT conflict/NN to/TO a/DT state/NN resembling/VBG guerrilla/NN war/NN ./.
+
 (ROOT
   (S
     (NP
@@ -470,6 +496,8 @@ prep_to(conflict-21, state-24)
 vmod(state-24, resembling-25)
 nn(war-27, guerrilla-26)
 xcomp(resembling-25, war-27)
+
+Two/NNP Palestinians/NNPS were/VBD killed/VBN as/IN they/PRP staged/VBD a/DT drive-by/JJ ambush/NN on/IN an/DT Israeli/NNP jeep/NN in/IN the/DT Gaza/NNP Strip/NNP near/IN the/DT Israeli/NNP settlement/NN of/IN Gush/JJ Katif/NNP Saturday/NNP afternoon/NN ,/, and/CC two/CD Israeli/NNP soldiers/NNS were/VBD wounded/VBN ,/, one/CD critically/RB ./.
 
 (ROOT
   (S
@@ -534,6 +562,8 @@ conj_and(killed-4, wounded-34)
 npadvmod(critically-37, one-36)
 advmod(wounded-34, critically-37)
 
+As/IN the/DT Israelis/NNP retrieved/VBD and/CC held/VBD on/IN to/TO the/DT two/CD bodies/NNS ,/, a/DT large/JJ crowd/NN of/IN Palestinians/NNPS gathered/VBN ./.
+
 (ROOT
   (S
     (SBAR (IN As)
@@ -571,6 +601,8 @@ nsubj(gathered-18, crowd-15)
 prep_of(crowd-15, Palestinians-17)
 root(ROOT-0, gathered-18)
 
+Men/VBN in/IN civilian/JJ clothes/NNS in/IN the/DT crowd/NN began/JJ firing/NN with/IN AK-47/JJ assault/NN rifles/NNS and/CC a/DT 45-minute/JJ gun/NN battle/NN broke/NN out/RB ./.
+
 (ROOT
   (S
     (VP (VBN Men)
@@ -606,6 +638,8 @@ prep_with(firing-9, broke-19)
 conj_and(rifles-13, broke-19)
 advmod(Men-1, out-20)
 
+The/DT situation/NN remained/VBD tense/NN as/IN dusk/JJ fell/VBD ,/, with/IN an/DT army/JJ helicopter/NN hovering/VBG overhead/RB as/IN Palestinian/JJ police/NNS evacuated/VBN their/PRP$ post/NN for/IN fear/JJ it/PRP would/MD be/VB attacked/VBN by/IN rockets/NNS ./.
+
 (ROOT
   (S
     (NP (DT The) (NN situation))
@@ -640,15 +674,15 @@ advmod(Men-1, out-20)
     (. .)))
 
 det(situation-2, The-1)
-nsubj(tense-4, situation-2)
-cop(tense-4, remained-3)
-root(ROOT-0, tense-4)
+nsubj(remained-3, situation-2)
+root(ROOT-0, remained-3)
+xcomp(remained-3, tense-4)
 mark(fell-7, as-5)
 nsubj(fell-7, dusk-6)
-advcl(tense-4, fell-7)
+advcl(remained-3, fell-7)
 det(helicopter-12, an-10)
 amod(helicopter-12, army-11)
-prep_with(tense-4, helicopter-12)
+prep_with(remained-3, helicopter-12)
 vmod(helicopter-12, hovering-13)
 advmod(hovering-13, overhead-14)
 amod(police-17, Palestinian-16)
@@ -662,6 +696,8 @@ aux(attacked-26, would-24)
 auxpass(attacked-26, be-25)
 rcmod(fear-22, attacked-26)
 agent(attacked-26, rockets-28)
+
+The/DT clashes/NNS started/VBD early/RB in/IN Gaza/NNP ./.
 
 (ROOT
   (S
@@ -677,6 +713,8 @@ nsubj(started-3, clashes-2)
 root(ROOT-0, started-3)
 advmod(started-3, early-4)
 prep_in(started-3, Gaza-6)
+
+A/DT 12-year-old/JJ Palestinian/JJ boy/NN was/VBD shot/JJ dead/NN when/WRB troops/NNS opened/VBD fire/NN on/IN a/DT crowd/NN of/IN stone/NN throwers/NNS near/IN the/DT Erez/NNP checkpoint/NN ./.
 
 (ROOT
   (S
@@ -718,6 +756,8 @@ prep_of(crowd-14, throwers-17)
 det(checkpoint-21, the-19)
 nn(checkpoint-21, Erez-20)
 prep_near(opened-10, checkpoint-21)
+
+In/IN Jenin/NNP ,/, on/IN the/DT West/NNP Bank/NNP ,/, a/DT Palestinian/JJ identified/NN as/IN Hani/NNP Marzouq/NNP ,/, 37/CD ,/, died/VBN in/IN a/DT hospital/JJ from/IN neck/NN and/CC chest/NN wounds/NNS suffered/VBN in/IN the/DT widespread/JJ clashes/NNS on/IN Friday/NN ./.
 
 (ROOT
   (S
@@ -774,6 +814,8 @@ amod(clashes-31, widespread-30)
 prep_in(suffered-27, clashes-31)
 prep_on(clashes-31, Friday-33)
 
+In/IN Hebron/NNP ,/, thousands/NNS of/IN mourners/NNS crowded/VBD the/DT streets/NNS for/IN the/DT funeral/NN of/IN Raed/NNP Mohtaseb/NNP ,/, 27/CD ,/, chanting/VBG ``the/DT blood/NN of/IN the/DT martyrs/NNS is/VBZ calling/VBG us/PRP .''/.
+
 (ROOT
   (S
     (PP (IN In)
@@ -827,6 +869,8 @@ aux(calling-26, is-25)
 ccomp(crowded-7, calling-26)
 dobj(calling-26, us-27)
 punct(crowded-7, .''-28)
+
+Mohtaseb/NNP was/VBD shot/VBN while/IN riding/VBG in/IN a/DT car/NN driven/VBN by/IN his/PRP$ father/NN ,/, Saedi/NNP Mohtaseb/NNP ,/, who/WP is/VBZ a/DT senior/JJ official/NN in/IN Yasser/NNP Arafat/NNP 's/POS Fatah/JJ organization/NN in/IN the/DT tense/NN ,/, embattled/VBD city/NN where/WRB a/DT handful/NN of/IN Jewish/JJ settlers/NNS are/VBP surrounded/VBN by/IN Palestinian/JJ residents/NNS who/WP have/VBP been/VBN kept/VBN under/IN frequent/JJ curfew/NN ./.
 
 (ROOT
   (S
@@ -926,6 +970,8 @@ rcmod(residents-44, kept-48)
 amod(curfew-51, frequent-50)
 prep_under(kept-48, curfew-51)
 
+The/DT Palestinians/NNPS charge/NN that/IN the/DT shooting/NN was/VBD an/DT attempt/NN to/TO assassinate/VB a/DT Palestinian/JJ official/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NNPS Palestinians))
@@ -955,6 +1001,8 @@ vmod(attempt-9, assassinate-11)
 det(official-14, a-12)
 amod(official-14, Palestinian-13)
 dobj(assassinate-11, official-14)
+
+The/DT army/NN issued/VBD a/DT statement/NN saying/VBG it/PRP ``denies/VBZ any/DT attempt/NN to/TO assassinate/VB a/DT Fatah/JJ member/NN or/CC a/DT senior/JJ official/NN of/IN the/DT Palestinian/JJ authority/NN .''/.
 
 (ROOT
   (S
@@ -1003,6 +1051,8 @@ det(authority-23, the-21)
 amod(authority-23, Palestinian-22)
 prep_of(official-19, authority-23)
 punct(issued-3, .''-24)
+
+An/DT American/JJ news/NN photographer/NN ,/, Yola/NNP Monakhov/NNP ,/, was/VBD shot/RB and/CC wounded/VBN by/IN Israeli/NNP troops/NNS while/IN covering/VBG a/DT stone/NN -throwing/VBG confrontation/NN at/IN Rachel's/NNP Tomb/NNP ,/, near/IN Bethlehem/NNP ,/, Palestinian/JJ hospital/NN officials/NNS said/VBD ./.
 
 (ROOT
   (S
@@ -1063,6 +1113,8 @@ nn(officials-31, hospital-30)
 nsubj(said-32, officials-31)
 advcl(wounded-12, said-32)
 
+Monakhov/NNP ,/, a/DT 26-year-old/JJ free-lancer/JJ on/IN assignment/NN for/IN The/DT Associated/JJ Press/NNP ,/, suffered/VBD a/DT fractured/JJ pelvis/NN ,/, hospital/JJ officials/NNS said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -1099,6 +1151,8 @@ dobj(suffered-13, pelvis-16)
 amod(officials-19, hospital-18)
 nsubj(said-20, officials-19)
 root(ROOT-0, said-20)
+
+The/DT assassination/NN of/IN the/DT once-relatively/JJ obscure/NN Fatah/NNP leader/NN Obaiyat/NN ,/, whom/VBP the/DT army/NN blamed/VBD particularly/RB for/IN leading/VBG nocturnal/JJ shooting/VBG on/IN Gilo/NNP ,/, a/DT neighborhood/NN in/IN southeastern/JJ Jerusalem/NNP ,/, was/VBD regarded/VBN as/IN a/DT grave/JJ step/NN by/IN Israeli/NNP commentators/NNS ./.
 
 (ROOT
   (S
@@ -1168,6 +1222,8 @@ prep_as(regarded-30, step-34)
 nn(commentators-37, Israeli-36)
 agent(regarded-30, commentators-37)
 
+Writing/VBG in/IN the/DT newspaper/NN Haaretz/NNP before/IN Friday/NNP 's/POS marked/JJ increase/NN in/IN Palestinian/JJ gunfire/NN ,/, Amir/NNP Oren/NNP described/VBD the/DT strike/JJ as/IN ``a/NNP critical/JJ point/NN ,/, almost/RB a/DT point/NN of/IN no/DT return/NN ,/, in/IN the/DT scale/NN of/IN violence/NN .''/.
+
 (ROOT
   (S
     (S
@@ -1230,6 +1286,8 @@ prep_in(described-17, scale-34)
 prep_of(scale-34, violence-36)
 punct(described-17, .''-37)
 
+In/IN Yedioth/NNP Ahronoth/NNP ,/, Roni/NNP Shaked/VBD wrote/VBD :/: ``The/JJ use/NN of/IN helicopter/NN missiles/NNS as/IN a/DT tool/NN of/IN assassination/NN is/VBZ a/DT step/NN on/IN the/DT way/NN to/TO the/DT `Lebanonization/NN '/POS of/IN the/DT territories/NNS .''/.
+
 (ROOT
   (S
     (S
@@ -1288,6 +1346,8 @@ prep_to(way-24, `Lebanonization-27)
 det(territories-31, the-30)
 prep_of(`Lebanonization-27, territories-31)
 punct(Shaked-6, .''-32)
+
+Shaked/JJ added/JJ :/: ``In/VBP the/DT short/JJ term/NN _/, and/CC this/DT was/VBD also/RB the/DT assessment/NN of/IN the/DT General/NNP Staff/NNP _/IN the/DT Palestinians/NNPS will/MD step/VB up/RP their/PRP$ hostilities/NNS in/IN response/NN to/TO the/DT slaying/NN ./.
 
 (ROOT
   (S
@@ -1348,6 +1408,8 @@ prep_in(hostilities-26, response-28)
 det(slaying-31, the-30)
 prep_to(step-23, slaying-31)
 
+But/CC the/DT army/JJ believes/NNS in/IN the/DT long/JJ run/NN such/JJ proactive/JJ operations/NNS will/MD lead/VB to/TO a/DT decrease/NN in/IN terrorism/NN .''/.
+
 (ROOT
   (S (CC But)
     (NP
@@ -1382,6 +1444,8 @@ det(decrease-16, a-15)
 prep_to(lead-13, decrease-16)
 prep_in(decrease-16, terrorism-18)
 punct(lead-13, .''-19)
+
+The/DT surge/NN in/IN violence/NN came/VBD as/IN Prime/NNP Minister/NNP Ehud/NNP Barak/NNP prepared/VBD for/IN a/DT meeting/NN on/IN Sunday/NN with/IN President/NNP Clinton/NNP in/IN Washington/NNP ./.
 
 (ROOT
   (S
@@ -1423,6 +1487,8 @@ nn(Clinton-19, President-18)
 prep_with(prepared-11, Clinton-19)
 prep_in(Clinton-19, Washington-21)
 
+But/CC no/DT one/NN here/RB seemed/VBD to/TO be/VB holding/VBG out/RB hopes/NNS that/IN the/DT meeting/NN would/MD bring/VB calm/NN soon/NN ./.
+
 (ROOT
   (S (CC But)
     (NP (DT no) (NN one))
@@ -1445,7 +1511,7 @@ prep_in(Clinton-19, Washington-21)
 cc(seemed-5, But-1)
 neg(one-3, no-2)
 nsubj(seemed-5, one-3)
-xsubj(holding-8, one-3)
+nsubj(holding-8, one-3)
 advmod(seemed-5, here-4)
 root(ROOT-0, seemed-5)
 aux(holding-8, to-6)
@@ -1460,6 +1526,8 @@ aux(bring-15, would-14)
 ccomp(holding-8, bring-15)
 nn(soon-17, calm-16)
 dobj(bring-15, soon-17)
+
+Barak/RB said/VBD on/IN Friday/NNP ,/, before/IN much/JJ of/IN Israel/NNP closed/VBD down/RB for/IN the/DT Sabbath/NNP ,/, that/IN the/DT talks/NNS would/MD be/VB an/DT effort/NN to/TO end/VB the/DT violence/NN ,/, but/CC added/VBD he/PRP did/VBD not/RB expect/VB they/PRP would/MD ``lead/RB to/TO a/DT renewal/NN of/IN negotiations/NNS .''/.
 
 (ROOT
   (S
@@ -1546,6 +1614,8 @@ prep_to(``lead-36, renewal-39)
 prep_of(renewal-39, negotiations-41)
 punct(``lead-36, .''-42)
 
+With/IN the/DT seven-year-old/JJ peace/NN process/NN in/IN tatters/NNS ,/, one/CD senior/JJ Palestinian/JJ figure/NN ,/, Parliament/NNP speaker/NN Ahmed/VBD Korei/NNP ,/, known/VBN as/IN Abu/NNP Ala/NNP ,/, insisted/VBD that/IN Israel/NNP must/MD halt/VB all/DT settlement/NN building/NN ,/, accept/VB an/DT international/JJ peacekeeping/VBG force/NN to/TO protect/VB Palestinians/NNPS and/CC allow/VB the/DT United/NNP Nations/NNPS a/DT role/NN in/IN the/DT peace/NN process/NN ,/, before/IN talks/NNS could/MD be/VB resumed/VBN ./.
+
 (ROOT
   (S
     (PP (IN With)
@@ -1630,6 +1700,7 @@ conj_and(halt-28, accept-33)
 det(force-37, an-34)
 amod(force-37, international-35)
 amod(force-37, peacekeeping-36)
+dobj(accept-33, force-37)
 nsubj(protect-39, force-37)
 aux(protect-39, to-38)
 xcomp(accept-33, protect-39)
@@ -1649,6 +1720,8 @@ nsubjpass(resumed-57, talks-54)
 aux(resumed-57, could-55)
 auxpass(resumed-57, be-56)
 advcl(insisted-24, resumed-57)
+
+These/DT are/VBP conditions/NNS that/WDT are/VBP anathema/RB to/TO the/DT Israelis/NNP and/CC are/VBP unlikely/RB to/TO be/VB met/NN ./.
 
 (ROOT
   (S
@@ -1687,6 +1760,8 @@ conj_and(are-5, unlikely-12)
 aux(met-15, to-13)
 cop(met-15, be-14)
 xcomp(unlikely-12, met-15)
+
+NYT-11-11-00/CD 1318EST/CD
 
 (ROOT
   (FRAG

@@ -1,3 +1,5 @@
+NYT20001210.1847.0092/CD NEWS/NNP STORY/NNP 2000-12-10/CD 19:33:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001210.1847.0092))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001210.1847.0092-1, STORY-3)
 num(19:33:00-5, 2000-12-10-4)
 dep(NYT20001210.1847.0092-1, 19:33:00-5)
+
+A5671/CD &Cx1f/NN ;/: taf-z/NNP u/NNP p/NNP BC-ELN-MICH-TIE-NYT/NNP &LR/NNP ;/: 12-10/CD 0749/CD
 
 (ROOT
   (NP
@@ -30,10 +34,14 @@ dep(&Cx1f-2, &LR-8)
 number(0749-11, 12-10-10)
 dep(&LR-8, 0749-11)
 
+BC-ELN-MICH-TIE-NYT/NNP
+
 (ROOT
   (NP (NNP BC-ELN-MICH-TIE-NYT)))
 
 root(ROOT-0, BC-ELN-MICH-TIE-NYT-1)
+
+THIS/NNP HAND/NNP COUNT/NNP ENDED/NNP IN/NNP A/NNP TIE/NNP ,/, WITHOUT/NNP THE/NNP LAWYERS/NNP OR/NNP TV/.
 
 (ROOT
   (NP
@@ -54,6 +62,8 @@ nn(OR-12, THE-10)
 nn(OR-12, LAWYERS-11)
 appos(TIE-7, OR-12)
 punct(TIE-7, TV-13)
+
+REPORTERS/NNP &LR/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -76,6 +86,8 @@ dep(&QL-4, &UR-6)
 dep(&LR-2, c.2000-8)
 appos(c.2000-8, N.Y-9)
 
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -93,6 +105,8 @@ root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
 
+FIFE/NNP LAKE/NNP ,/, Mich/NNP ./.
+
 (ROOT
   (NP
     (NP (NNP FIFE) (NNP LAKE))
@@ -103,6 +117,8 @@ dep(&LR-6, &QL-8)
 nn(LAKE-2, FIFE-1)
 root(ROOT-0, LAKE-2)
 appos(LAKE-2, Mich-4)
+
+_/`` There/EX are/VBP no/DT teams/NN of/IN lawyers/NNS in/IN this/DT sleepy/NN little/JJ hamlet/NN ./.
 
 (ROOT
   (S
@@ -127,6 +143,8 @@ det(hamlet-12, this-9)
 nn(hamlet-12, sleepy-10)
 amod(hamlet-12, little-11)
 prep_in(lawyers-7, hamlet-12)
+
+There/EX are/VBP no/DT television/NN anchors/NNS standing/VBG on/IN courthouse/NN steps/NNS chattering/VBG endlessly/RB about/IN the/DT latest/JJS twist/NN in/IN the/DT election/NN dispute/NN ./.
 
 (ROOT
   (S
@@ -164,6 +182,8 @@ det(dispute-19, the-17)
 nn(dispute-19, election-18)
 prep_in(twist-15, dispute-19)
 
+There/EX is/VBZ an/DT election/NN dispute/NN ,/, a/DT tie/NN vote/NN as/IN a/DT matter/NN of/IN fact/NN ./.
+
 (ROOT
   (S
     (NP (EX There))
@@ -191,6 +211,8 @@ appos(dispute-5, vote-9)
 det(matter-12, a-11)
 prep_as(vote-9, matter-12)
 prep_of(matter-12, fact-14)
+
+And/CC just/RB as/IN in/IN Florida/NNP ,/, votes/NNS have/VBP been/VBN recounted/VBN by/IN hand/NN ,/, but/CC the/DT chief/JJ executive/NN 's/POS race/NN remains/VBZ unsettled/JJ ./.
 
 (ROOT
   (S (CC And)
@@ -228,9 +250,11 @@ agent(recounted-10, hand-12)
 det(executive-17, the-15)
 amod(executive-17, chief-16)
 poss(race-19, executive-17)
-nsubj(unsettled-21, race-19)
-cop(unsettled-21, remains-20)
-conj_but(recounted-10, unsettled-21)
+nsubj(remains-20, race-19)
+conj_but(recounted-10, remains-20)
+acomp(remains-20, unsettled-21)
+
+But/CC that/IN 's/POS where/WRB any/DT comparison/NN between/IN Florida/NNP and/CC this/DT former/JJ logging/VBG town/NN 250/CD miles/NNS north/NN of/IN Detroit/NNP ends/NNS ./.
 
 (ROOT
   (FRAG (CC But)
@@ -269,6 +293,8 @@ dep(town-13, miles-15)
 dep(comparison-6, north-16)
 nn(ends-19, Detroit-18)
 prep_of(north-16, ends-19)
+
+They/PRP have/VBP counted/VBN all/PDT the/DT votes/NNS for/IN Fife/NNP Lake/NNP Township/NNP supervisor/NN three/CD times/NNS ,/, twice/NN on/IN election/NN night/NN and/CC once/RB in/IN a/DT hand/NN recount/NN on/IN Dec/NNP ./.
 
 (ROOT
   (S
@@ -318,12 +344,16 @@ nn(recount-24, hand-23)
 prep_in(once-20, recount-24)
 prep_on(counted-3, Dec-26)
 
+1/CD ./.
+
 (ROOT
   (FRAG
     (NP (CD 1))
     (. .)))
 
 root(ROOT-0, 1-1)
+
+The/DT result/NN is/VBZ 297/CD votes/NNS each/DT for/IN the/DT incumbent/NN ,/, Dave/NNP Stremlow/NNP ,/, and/CC the/DT Republican/NNP challenger/NN ,/, Toni/NNP Larson/NNP ./.
 
 (ROOT
   (S
@@ -363,6 +393,8 @@ conj_and(votes-5, challenger-17)
 nn(Larson-20, Toni-19)
 appos(challenger-17, Larson-20)
 
+Nobody/NNP has/VBZ said/VBN a/DT word/NN about/IN a/DT court/NN challenge/NN or/CC another/DT recount/NN ./.
+
 (ROOT
   (S
     (NP (NNP Nobody))
@@ -387,6 +419,8 @@ prep_about(said-3, challenge-9)
 det(recount-12, another-11)
 prep_about(said-3, recount-12)
 conj_or(challenge-9, recount-12)
+
+And/CC the/DT simple/JJ solution/NN laid/VBN out/RP in/IN Michigan/NNP law/NN will/MD be/VB followed/VBN Monday/NNP morning/VBG up/RP the/DT road/NN a/DT few/JJ miles/NNS at/IN the/DT county/NN building/NN in/IN Traverse/NNP City/NNP ./.
 
 (ROOT
   (S (CC And)
@@ -438,6 +472,8 @@ prep_at(morning-14, building-24)
 nn(City-27, Traverse-26)
 prep_in(building-24, City-27)
 
+There/EX ,/, Grand/NNP Traverse/NNP County/NNP Clerk/NNP Linda/NNP Coburn/NNP will/MD hold/VB a/DT box/NN with/IN two/CD folded/JJ slips/NNS of/IN paper/NN ,/, one/CD marked/VBD ``elected/VBN ''/'' and/CC one/CD marked/JJ ``not/NN elected/VBD .''/.
+
 (ROOT
   (S
     (S
@@ -488,6 +524,8 @@ nsubj(elected-28, ``not-27)
 conj_and(marked-21, elected-28)
 punct(marked-21, .''-29)
 
+The/DT candidates/NNS will/MD draw/VB ./.
+
 (ROOT
   (S
     (NP (DT The) (NNS candidates))
@@ -499,6 +537,8 @@ det(candidates-2, The-1)
 nsubj(draw-4, candidates-2)
 aux(draw-4, will-3)
 root(ROOT-0, draw-4)
+
+The/DT slips/NNS of/IN paper/NN will/MD be/VB read/VB ./.
 
 (ROOT
   (S
@@ -518,6 +558,8 @@ aux(read-7, will-5)
 aux(read-7, be-6)
 root(ROOT-0, read-7)
 
+And/CC the/DT race/NN will/MD be/VB over/RP ./.
+
 (ROOT
   (S (CC And)
     (NP (DT the) (NN race))
@@ -532,6 +574,8 @@ nsubj(over-6, race-3)
 aux(over-6, will-4)
 cop(over-6, be-5)
 root(ROOT-0, over-6)
+
+``I/PRP 'm/VBP speechless/JJ ,/, no/DT matter/NN how/WRB I/PRP look/VBD at/IN it/PRP ,''/, said/VBD Larson/NNP ,/, adding/VBG that/IN she/PRP never/RB thought/VBD of/IN questioning/VBG the/DT hand/NN recount/NN ./.
 
 (ROOT
   (SINV
@@ -587,6 +631,8 @@ det(recount-25, the-23)
 nn(recount-25, hand-24)
 dobj(questioning-22, recount-25)
 
+``Oh/NNP ,/, gosh/NN no/RB ./.
+
 (ROOT
   (NP
     (NP (NNP ``Oh))
@@ -597,6 +643,8 @@ dobj(questioning-22, recount-25)
 root(ROOT-0, ``Oh-1)
 appos(``Oh-1, gosh-3)
 advmod(gosh-3, no-4)
+
+How/NNP many/JJ times/NNS do/VBP you/PRP need/VBP a/DT recount/NN ?/.
 
 (ROOT
   (S
@@ -618,6 +666,8 @@ ccomp(do-4, need-6)
 det(recount-8, a-7)
 dobj(need-6, recount-8)
 
+That/DT 's/VBZ crazy/NN .''/.
+
 (ROOT
   (S
     (NP (DT That))
@@ -629,6 +679,8 @@ nsubj(crazy-3, That-1)
 cop(crazy-3, 's-2)
 root(ROOT-0, crazy-3)
 punct(crazy-3, .''-4)
+
+Coburn/NNP said/VBD ties/NNS were/VBD rare/NN but/CC not/RB unheard/JJ of/IN ./.
 
 (ROOT
   (S
@@ -656,6 +708,8 @@ ccomp(said-2, unheard-8)
 conj_but(rare-5, unheard-8)
 prep(rare-5, of-9)
 
+She/NNP has/VBZ seen/VBN one/CD other/JJ in/IN her/PRP$ 20/CD years/NNS on/IN the/DT job/NN ./.
+
 (ROOT
   (S
     (NP (NNP She))
@@ -680,6 +734,8 @@ num(years-9, 20-8)
 prep_in(one-4, years-9)
 det(job-12, the-11)
 prep_on(years-9, job-12)
+
+The/DT race/NN for/IN township/NN supervisor/NN was/VBD an/DT engaging/NN one/NN from/IN the/DT beginning/NN ,/, since/IN both/DT Stremlow/NNP and/CC Larson/NNP already/RB sit/VB on/IN the/DT township/NN 's/POS Board/NNP of/IN Trustees/NNPS _/NNP Stremlow/NNP as/IN supervisor/NN and/CC Larson/NNP as/IN township/NN clerk/NN ./.
 
 (ROOT
   (S
@@ -747,6 +803,8 @@ conj_and(Board-25, Larson-33)
 nn(clerk-36, township-35)
 prep_as(Larson-33, clerk-36)
 
+``It/PRP was/VBD interesting/VBG to/TO watch/VB the/DT meetings/NNS ,/, with/IN her/PRP$ running/NN against/IN him/PRP and/CC them/PRP both/DT having/VBG to/TO sit/VB together/NN ,''/NNS said/VBD Pat/NNP Gibson/NNP ,/, owner/NN of/IN Gibson's/NNP Hardware/NNP Store/NNP ,/, who/WP occasionally/RB attends/NNS meetings/NNS ./.
+
 (ROOT
   (SINV
     (S
@@ -790,7 +848,7 @@ prep_as(Larson-33, clerk-36)
     (. .)))
 
 nsubj(interesting-3, ``It-1)
-xsubj(watch-5, ``It-1)
+nsubj(watch-5, ``It-1)
 aux(interesting-3, was-2)
 dep(said-22, interesting-3)
 aux(watch-5, to-4)
@@ -800,10 +858,10 @@ dobj(watch-5, meetings-7)
 poss(running-11, her-10)
 prep_with(watch-5, running-11)
 nsubj(having-17, him-13)
-xsubj(sit-19, him-13)
+nsubj(sit-19, him-13)
 conj_and(him-13, them-15)
 nsubj(having-17, them-15)
-xsubj(sit-19, them-15)
+nsubj(sit-19, them-15)
 advmod(having-17, both-16)
 prepc_against(watch-5, having-17)
 aux(sit-19, to-18)
@@ -821,6 +879,8 @@ prep_of(owner-26, Store-30)
 rcmod(owner-26, occasionally-33)
 nn(meetings-35, attends-34)
 dep(owner-26, meetings-35)
+
+``There/RB was/VBD a/DT little/JJ give/VB and/CC take/VB .''/.
 
 (ROOT
   (SINV
@@ -843,6 +903,8 @@ dep(little-4, give-5)
 dep(little-4, take-7)
 conj_and(give-5, take-7)
 nsubj(little-4, .''-8)
+
+Fife/NNP Lake/NNP came/VBD to/TO life/VB in/IN 1872/CD and/CC was/VBD a/DT thriving/VBG logging/VBG town/VBN by/IN 1885/CD ./.
 
 (ROOT
   (S
@@ -868,7 +930,7 @@ nsubj(little-4, .''-8)
 
 nn(Lake-2, Fife-1)
 nsubj(came-3, Lake-2)
-xsubj(life-5, Lake-2)
+nsubj(life-5, Lake-2)
 root(ROOT-0, came-3)
 aux(life-5, to-4)
 xcomp(came-3, life-5)
@@ -879,6 +941,8 @@ vmod(a-10, thriving-11)
 dobj(thriving-11, logging-12)
 vmod(logging-12, town-13)
 agent(town-13, 1885-15)
+
+Ice/NNP was/VBD harvested/VBN from/IN the/DT frozen/JJ lake/NN in/IN the/DT winter/NN for/IN prerefrigeration/NN ice/NN boxes/NNS downstate/VBP ./.
 
 (ROOT
   (S
@@ -909,6 +973,8 @@ nn(boxes-14, prerefrigeration-12)
 nn(boxes-14, ice-13)
 nsubj(downstate-15, boxes-14)
 advcl(harvested-3, downstate-15)
+
+Now/RB it/PRP is/VBZ mostly/RB a/DT bedroom/JJ community/NN for/IN Traverse/NNP City/NNP to/TO the/DT north/NN and/CC Cadillac/NNP to/TO the/DT south/NN ,/, though/IN some/DT people/NNS make/VBP a/DT living/VBG farming/VBG Christmas/NNP trees/NNS or/CC from/IN summer/JJ tourism/NN ./.
 
 (ROOT
   (S
@@ -973,6 +1039,8 @@ conj_or(make-23, from-30)
 amod(tourism-32, summer-31)
 pobj(from-30, tourism-32)
 
+The/DT population/NN is/VBZ between/IN 1,800/CD and/CC 1,900/CD ,/, Stremlow/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -996,6 +1064,8 @@ conj_and(1,800-5, 1,900-7)
 ccomp(said-10, 1,900-7)
 nsubj(said-10, Stremlow-9)
 root(ROOT-0, said-10)
+
+Township/NN government/NN here/RB mostly/RB takes/IN care/NN of/IN the/DT volunteer/NN fire/NN department/NN and/CC ambulance/NN service/NN ./.
 
 (ROOT
   (NP
@@ -1023,6 +1093,8 @@ prep_of(government-2, department-11)
 nn(service-14, ambulance-13)
 prep_of(government-2, service-14)
 conj_and(department-11, service-14)
+
+The/DT annual/JJ budget/NN of/IN about/IN $200,000/CD includes/VBZ a/DT $6,500/JJ salary/NN for/IN the/DT part-time/JJ supervisor/NN ,/, Stremlow/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -1057,6 +1129,8 @@ amod(supervisor-14, part-time-13)
 prep_for(salary-10, supervisor-14)
 nsubj(said-17, Stremlow-16)
 root(ROOT-0, said-17)
+
+Although/IN he/PRP admitted/VBD it/PRP was/VBD somewhat/RB awkward/VBN to/TO be/VB challenged/VBN by/IN his/PRP$ own/JJ clerk/NN ,/, Stremlow/NNP said/VBD the/DT race/NN was/VBD cordial/JJ and/CC positive/JJ ,/, with/IN no/DT striking/NN campaign/NN issues/NNS ./.
 
 (ROOT
   (S
@@ -1093,7 +1167,7 @@ mark(admitted-3, Although-1)
 nsubj(admitted-3, he-2)
 advcl(said-17, admitted-3)
 nsubjpass(awkward-7, it-4)
-xsubj(challenged-10, it-4)
+nsubjpass(challenged-10, it-4)
 auxpass(awkward-7, was-5)
 advmod(awkward-7, somewhat-6)
 ccomp(admitted-3, awkward-7)
@@ -1118,6 +1192,8 @@ neg(issues-29, no-26)
 nn(issues-29, striking-27)
 nn(issues-29, campaign-28)
 prep_with(cordial-21, issues-29)
+
+``I/PRP think/VBP I/PRP 've/MD done/VB a/DT lot/NN for/IN the/DT township/NN ,''/NN said/VBD Stremlow/NNP ,/, 70/CD ,/, a/DT retired/JJ auto/NN worker/NN from/IN Flint/NNP ./.
 
 (ROOT
   (SINV
@@ -1165,6 +1241,8 @@ nn(worker-20, auto-19)
 appos(70-15, worker-20)
 prep_from(worker-20, Flint-22)
 
+``We/RB have/VBP a/DT new/JJ ambulance/NN and/CC a/DT new/JJ fire/NN wagon/NN ./.
+
 (ROOT
   (SINV
     (ADVP (RB ``We))
@@ -1185,6 +1263,8 @@ amod(wagon-10, new-8)
 nn(wagon-10, fire-9)
 nsubj(have-2, wagon-10)
 conj_and(ambulance-5, wagon-10)
+
+And/CC the/DT kitty/NN is/VBZ a/DT little/JJ better/JJR off/RB than/IN it/PRP was/VBD when/WRB I/PRP started/VBD .''/.
 
 (ROOT
   (S (CC And)
@@ -1222,6 +1302,8 @@ advmod(started-14, when-12)
 nsubj(started-14, I-13)
 advcl(was-11, started-14)
 punct(better-7, .''-15)
+
+``Both/JJ people/NNS are/VBP well/RB liked/VBN ,''/JJ said/VBD Gary/NNP Gilmore/NNP ,/, 52/CD ,/, as/IN he/PRP sipped/VBD his/PRP$ Saturday/NN morning/NN coffee/NN at/IN the/DT Sugar/NNP Bowl/NNP Restaurant/NNP ./.
 
 (ROOT
   (SINV
@@ -1270,6 +1352,8 @@ nn(Restaurant-24, Sugar-22)
 nn(Restaurant-24, Bowl-23)
 prep_at(sipped-15, Restaurant-24)
 
+``Everybody/JJ knows/NNS everybody/NN here/RB .''/.
+
 (ROOT
   (FRAG
     (NP (JJ ``Everybody) (NNS knows))
@@ -1281,6 +1365,8 @@ root(ROOT-0, knows-2)
 dep(knows-2, everybody-3)
 advmod(everybody-3, here-4)
 punct(knows-2, .''-5)
+
+Carl/NNP Fales/NNP ,/, a/DT 74-year-old/JJ retiree/NN who/WP voted/VBN for/IN Larson/NNP ,/, agreed/VBD ./.
 
 (ROOT
   (S
@@ -1309,6 +1395,8 @@ rcmod(retiree-6, voted-8)
 prep_for(voted-8, Larson-10)
 root(ROOT-0, agreed-12)
 
+``They/RB are/VBP both/DT good/JJ people/NNS ,''/, Fales/NNS said/VBD ./.
+
 (ROOT
   (SINV
     (ADVP (RB ``They))
@@ -1330,6 +1418,8 @@ punct(Fales-7, ,''-6)
 nsubj(said-8, Fales-7)
 ccomp(people-5, said-8)
 
+``Either/RB one/CD will/MD do/VB fine/NN .''/.
+
 (ROOT
   (S
     (ADVP (RB ``Either))
@@ -1345,6 +1435,8 @@ aux(do-4, will-3)
 root(ROOT-0, do-4)
 dobj(do-4, fine-5)
 punct(do-4, .''-6)
+
+Although/IN the/DT matter/NN is/VBZ being/VBG settled/VBN quietly/RB ,/, there/EX was/VBD drama/VBN on/IN election/NN night/NN ./.
 
 (ROOT
   (S
@@ -1378,6 +1470,8 @@ prep_on(drama-11, election-13)
 nsubjpass(drama-11, night-14)
 tmod(drama-11, night-14)
 
+The/DT first/JJ count/NN had/VBD Larson/NNP ,/, a/DT 66-year-old/JJ retired/JJ school/NN clerk/NN ,/, ahead/RB by/IN two/CD votes/NNS ./.
+
 (ROOT
   (S
     (NP (DT The) (JJ first) (NN count))
@@ -1406,6 +1500,8 @@ appos(Larson-5, clerk-11)
 advmod(clerk-11, ahead-13)
 num(votes-16, two-15)
 prep_by(ahead-13, votes-16)
+
+But/CC Larson/NNP ,/, as/IN clerk/NN ,/, was/VBD overseeing/VBG the/DT count/NN and/CC she/PRP noticed/VBD that/IN the/DT tally/RB did/VBD not/RB match/VB the/DT number/NN of/IN ballots/NNS cast/NN ./.
 
 (ROOT
   (S (CC But)
@@ -1452,6 +1548,8 @@ dobj(match-19, number-21)
 nn(cast-24, ballots-23)
 prep_of(number-21, cast-24)
 
+A/DT second/JJ run/NN through/IN the/DT counting/VBG machine/NN left/VBD Stremlow/NNP the/DT winner/NN by/IN one/CD vote/NN ./.
+
 (ROOT
   (S
     (NP
@@ -1477,6 +1575,8 @@ dobj(left-8, winner-11)
 num(vote-14, one-13)
 prep_by(left-8, vote-14)
 
+Larson/NNP requested/VBD a/DT hand-recount/NN ,/, which/WDT was/VBD held/VBN Dec/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Larson))
@@ -1501,12 +1601,16 @@ auxpass(held-8, was-7)
 rcmod(hand-recount-4, held-8)
 dobj(held-8, Dec-9)
 
+1/CD ./.
+
 (ROOT
   (FRAG
     (NP (CD 1))
     (. .)))
 
 root(ROOT-0, 1-1)
+
+It/PRP was/VBD there/RB that/IN one/CD rejected/VBD ballot/NN was/VBD discovered/VBN ./.
 
 (ROOT
   (S
@@ -1533,6 +1637,8 @@ ccomp(was-2, rejected-6)
 nsubjpass(discovered-9, ballot-7)
 auxpass(discovered-9, was-8)
 ccomp(rejected-6, discovered-9)
+
+Voters/NNS here/RB cast/VBP ballots/NNS by/IN making/VBG a/DT pen/JJ or/CC pencil/JJ mark/NN next/IN to/TO the/DT candidate/NN of/IN their/PRP$ choice/NN ./.
 
 (ROOT
   (S
@@ -1571,6 +1677,8 @@ det(candidate-15, the-14)
 pobj(making-6, candidate-15)
 poss(choice-18, their-17)
 prep_of(candidate-15, choice-18)
+
+And/CC Coburn/NNP said/VBD the/DT rejected/JJ ballot/NN had/VBD a/DT slight/JJ mark/NN next/JJ to/TO Stremlow/NNP 's/POS name/NN but/CC a/DT clearly/RB marked/JJ vote/NN for/IN Larson/NNP ./.
 
 (ROOT
   (S (CC And)
@@ -1614,6 +1722,8 @@ advmod(marked-19, clearly-18)
 amod(vote-20, marked-19)
 pobj(but-16, vote-20)
 prep_for(vote-20, Larson-22)
+
+The/DT board/NN of/IN canvassers/NNS ,/, made/VBD up/RB of/IN two/CD Republicans/NNPS and/CC two/CD Democrats/NNPS ,/, all/DT agreed/VBD it/PRP was/VBD a/DT vote/NN for/IN Larson/NNP ,/, creating/VBG the/DT tie/NN ,/, Coburn/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -1672,6 +1782,8 @@ det(tie-26, the-25)
 dobj(creating-24, tie-26)
 nsubj(said-29, Coburn-28)
 root(ROOT-0, said-29)
+
+``I/NNP didn't/VBD agree/VBP to/TO anything/NN ,/, I/PRP just/RB sat/JJ there/RB and/CC watched/VBD ,''/DT Stremlow/NNP said/VBD of/IN the/DT recount/NN ,/, though/JJ he/PRP said/VBD he/PRP never/RB considered/VBN a/DT legal/JJ challenge/NN ./.
 
 (ROOT
   (S
@@ -1736,6 +1848,8 @@ det(challenge-28, a-26)
 amod(challenge-28, legal-27)
 dobj(considered-25, challenge-28)
 
+``Nope/RB ,''/, Stremlow/NNP said/VBD with/IN a/DT laugh/JJ when/WRB asked/VBN if/IN he/PRP had/VBD consulted/VBN a/DT lawyer/NN ./.
+
 (ROOT
   (S
     (ADVP (RB ``Nope))
@@ -1771,6 +1885,8 @@ advcl(asked-9, consulted-13)
 det(lawyer-15, a-14)
 dobj(consulted-13, lawyer-15)
 
+``The/IN job/NN doesn't/TO pay/VB that/IN much/RB .''/.
+
 (ROOT
   (FRAG
     (PP (IN ``The)
@@ -1787,6 +1903,8 @@ root(ROOT-0, pay-4)
 advmod(pay-4, that-5)
 advmod(that-5, much-6)
 punct(pay-4, .''-7)
+
+NYT-12-10-00/CD 1933EST/CD
 
 (ROOT
   (FRAG

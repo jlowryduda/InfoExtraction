@@ -1,3 +1,5 @@
+APW20001008.1511.0218/DT NEWS/NNP STORY/NNPS 2000-10-08/CD 15:34:30/CD
+
 (ROOT
   (NP
     (NP (DT APW20001008.1511.0218))
@@ -10,10 +12,14 @@ dep(APW20001008.1511.0218-1, STORY-3)
 num(15:34:30-5, 2000-10-08-4)
 dep(APW20001008.1511.0218-1, 15:34:30-5)
 
+Yugoslavia/NNP
+
 (ROOT
   (NP (NNP Yugoslavia)))
 
 root(ROOT-0, Yugoslavia-1)
+
+Kostunica/NNP Forming/NNP New/NNP Government/NNP
 
 (ROOT
   (NP (NNP Kostunica) (NNP Forming) (NNP New) (NNP Government)))
@@ -23,12 +29,14 @@ nn(Government-4, Forming-2)
 nn(Government-4, New-3)
 root(ROOT-0, Government-4)
 
+BELGRADE/NNP ,/, Yugoslavia/NNP [AP/NNP ]/NNP _/NNP With/IN Vojislav/NNP Kostunica/NNP in/IN office/NN as/IN president/NN ,/, backers/NNS of/IN the/DT pro-democracy/NN leader/NN embarked/VBD Sunday/NN on/IN the/DT potentially/RB volatile/JJ task/NN of/IN forming/VBG a/DT government/NN that/WDT tries/VBZ to/TO exclude/VB backers/NNS of/IN former/JJ leader/NN Slobodan/NNP Milosevic/NNP ./.
+
 (ROOT
   (S
     (NP (NNP BELGRADE))
     (, ,)
     (PP
-      (NP (NNP Yugoslavia) (NNP (AP) (NNP )) (NNP _))
+      (NP (NNP Yugoslavia) (NNP [AP) (NNP ]) (NNP _))
       (IN With)
       (NP
         (NP (NNP Vojislav) (NNP Kostunica))
@@ -69,8 +77,8 @@ root(ROOT-0, Government-4)
 
 nsubj(embarked-20, BELGRADE-1)
 nn(_-6, Yugoslavia-3)
-nn(_-6, (AP-4)
-nn(_-6, )-5)
+nn(_-6, [AP-4)
+nn(_-6, ]-5)
 dep(embarked-20, _-6)
 nn(Kostunica-9, Vojislav-8)
 prep_with(embarked-20, Kostunica-9)
@@ -90,7 +98,7 @@ prepc_of(task-26, forming-28)
 det(government-30, a-29)
 dobj(forming-28, government-30)
 nsubj(tries-32, government-30)
-xsubj(exclude-34, government-30)
+nsubj(exclude-34, government-30)
 rcmod(government-30, tries-32)
 aux(exclude-34, to-33)
 xcomp(tries-32, exclude-34)
@@ -99,6 +107,8 @@ amod(Milosevic-40, former-37)
 nn(Milosevic-40, leader-38)
 nn(Milosevic-40, Slobodan-39)
 prep_of(backers-35, Milosevic-40)
+
+Kostunica/NNP 's/POS team/NN was/VBD faced/VBN with/IN a/DT difficult/JJ task/NN :/: Putting/VBG together/RB a/DT government/NN with/IN as/IN few/JJ old/JJ faces/NNS as/IN possible/JJ ,/, while/IN placating/VBG a/DT Milosevic/NNP wing/NN that/IN still/RB wields/VBZ considerable/JJ power/NN ./.
 
 (ROOT
   (S
@@ -161,6 +171,8 @@ advmod(wields-30, still-29)
 rcmod(wing-27, wields-30)
 amod(power-32, considerable-31)
 prep_as(faces-19, power-32)
+
+``We/RB need/VBP a/DT government/NN of/IN discontinuity/NN ,''/NNS said/VBD opposition/NN leader/NN Zoran/NNP Djindjic/NNP ,/, who/WP helped/VBD manage/NN Kostunica/NNP 's/POS rise/NN to/TO power/NN _/NN from/IN his/PRP$ election/NN campaign/NN through/IN the/DT brief/NN revolt/NN that/WDT forced/VBD Milosevic/NNP to/TO concede/VB defeat/NN and/CC Kostunica/NNP 's/POS swearing-in/JJ Saturday/NN ./.
 
 (ROOT
   (SINV
@@ -233,6 +245,7 @@ nn(revolt-30, brief-29)
 prep_through(helped-15, revolt-30)
 nsubj(forced-32, revolt-30)
 rcmod(revolt-30, forced-32)
+dobj(forced-32, Milosevic-33)
 nsubj(concede-35, Milosevic-33)
 aux(concede-35, to-34)
 xcomp(forced-32, concede-35)
@@ -241,6 +254,8 @@ poss(Saturday-41, Kostunica-38)
 amod(Saturday-41, swearing-in-40)
 dobj(concede-35, Saturday-41)
 conj_and(defeat-36, Saturday-41)
+
+Milosevic/NNP himself/PRP has/VBZ said/VBD he/PRP will/MD remain/VB in/IN Yugoslavia/NNP as/IN a/DT political/JJ force/NN ./.
 
 (ROOT
   (S
@@ -269,6 +284,8 @@ prep_in(remain-7, Yugoslavia-9)
 det(force-13, a-11)
 amod(force-13, political-12)
 prep_as(remain-7, force-13)
+
+Kostunica/NNP has/VBZ said/VBN he/PRP will/MD defy/VB Western/NNP demands/NNS to/TO surrender/VB the/DT outgoing/NN president/NN and/CC others/NNS indicted/VBN by/IN the/DT U.N/NNP ./.
 
 (ROOT
   (S
@@ -301,6 +318,7 @@ nsubj(defy-6, he-4)
 aux(defy-6, will-5)
 ccomp(said-3, defy-6)
 nn(demands-8, Western-7)
+dobj(defy-6, demands-8)
 nsubj(surrender-10, demands-8)
 aux(surrender-10, to-9)
 xcomp(defy-6, surrender-10)
@@ -312,6 +330,8 @@ conj_and(president-13, others-15)
 vmod(others-15, indicted-16)
 det(U.N-19, the-18)
 agent(indicted-16, U.N-19)
+
+war/JJ crimes/NNS tribunal/JJ in/IN The/DT Hague/NNP ./.
 
 (ROOT
   (S
@@ -326,6 +346,8 @@ nsubj(tribunal-3, crimes-2)
 root(ROOT-0, tribunal-3)
 det(Hague-6, The-5)
 prep_in(tribunal-3, Hague-6)
+
+And/CC Serbia/NNP ,/, the/DT main/NN Yugoslav/IN republic/JJ ,/, still/RB is/VBZ run/VBP by/IN a/DT government/NN of/IN Milosevic/NNP cronies/NNS including/VBG Serbian/JJ President/NN Milan/NNP Milutinovic/NNP _/NNP like/IN Milosevic/NNP ,/, indicted/VBN by/IN the/DT tribunal/NN ./.
 
 (ROOT
   (S (CC And)
@@ -378,6 +400,8 @@ vmod(_-23, indicted-27)
 det(tribunal-30, the-29)
 agent(indicted-27, tribunal-30)
 
+Milutinovic/NNP controls/VBZ approximately/RB 100,000/CD policemen/NNS in/IN his/PRP$ republic/NN and/CC ,/, indirectly/RB ,/, much/RB of/IN the/DT republic/NN 's/POS economy/NN ./.
+
 (ROOT
   (S
     (NP (NNP Milutinovic))
@@ -415,6 +439,8 @@ det(republic-16, the-15)
 poss(economy-18, republic-16)
 pobj(of-14, economy-18)
 
+Kostunica/NNP 's/POS pro-democracy/NN forces/NNS have/VBP said/VBD they/PRP would/MD demand/VB early/JJ elections/NNS for/IN new/JJ Serbian/JJ parliament/NN and/CC president/NN ./.
+
 (ROOT
   (S
     (NP
@@ -451,6 +477,8 @@ prep_for(demand-9, parliament-15)
 prep_for(demand-9, president-17)
 conj_and(parliament-15, president-17)
 
+Kostunica/NNP scored/VBD a/DT stunning/NN upset/NN over/IN Milosevic/NNP in/IN the/DT Sept/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Kostunica))
@@ -471,6 +499,8 @@ prep_over(scored-2, Milosevic-7)
 det(Sept-10, the-9)
 prep_in(scored-2, Sept-10)
 
+24/CD presidential/JJ election/NN ./.
+
 (ROOT
   (NP
     (NP (CD 24))
@@ -480,6 +510,8 @@ prep_in(scored-2, Sept-10)
 root(ROOT-0, 24-1)
 amod(election-3, presidential-2)
 dep(24-1, election-3)
+
+Milosevic/NNP 's/POS attempt/NN to/TO deny/VB Kostunica/NNP 's/POS victory/NN sparked/VBD a/DT national/JJ uprising/NN ,/, and/CC he/PRP conceded/VBD defeat/JJ Friday/NN ./.
 
 (ROOT
   (S
@@ -517,6 +549,8 @@ nsubj(conceded-16, he-15)
 conj_and(sparked-9, conceded-16)
 amod(Friday-18, defeat-17)
 tmod(conceded-16, Friday-18)
+
+Norway/NNP 's/POS Foreign/NNP Minister/NNP Thorbjoern/NNP Jagland/NNP and/CC Mladjan/NNP Dinkic/NNP ,/, the/DT head/NN of/IN an/DT influential/JJ group/NN of/IN economists/NNS ,/, demanded/VBD Sunday/NN that/WDT Milosevic/MD be/VB punished/VBN for/IN vote-rigging/NN ./.
 
 (ROOT
   (S
@@ -570,6 +604,8 @@ auxpass(punished-25, be-24)
 rcmod(Sunday-21, punished-25)
 prep_for(punished-25, vote-rigging-27)
 
+``We/RB now/RB expect/VB state/NN prosecutors/NNS to/TO bring/VB charges/NNS against/IN Slobodan/NNP Milosevic/NNP ,''/, Dinkic/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -593,6 +629,7 @@ advmod(expect-3, now-2)
 ccomp(said-14, expect-3)
 nn(prosecutors-5, state-4)
 dobj(expect-3, prosecutors-5)
+nsubj(bring-7, prosecutors-5)
 aux(bring-7, to-6)
 xcomp(expect-3, bring-7)
 dobj(bring-7, charges-8)
@@ -601,6 +638,8 @@ prep_against(bring-7, Milosevic-11)
 punct(said-14, ,''-12)
 nsubj(said-14, Dinkic-13)
 root(ROOT-0, said-14)
+
+A/DT human/JJ rights/NNS group/NN in/IN Yugoslavia/NNP ,/, the/DT Humanitarian/NNP Law/NNP Fund/NNP ,/, also/RB demanded/VBD punishment/NN for/IN the/DT ousted/JJ autocrat/NN ,/, issuing/VBG long/JJ lists/NNS of/IN his/PRP$ alleged/JJ misdeeds/NNS ./.
 
 (ROOT
   (S
@@ -647,6 +686,8 @@ dobj(issuing-21, lists-23)
 poss(misdeeds-27, his-25)
 amod(misdeeds-27, alleged-26)
 prep_of(lists-23, misdeeds-27)
+
+Dinkic/NNP also/RB called/VBN for/IN a/DT donor/NN 's/POS conference/NN on/IN Yugoslavia/NNP with/IN the/DT aim/NN of/IN injecting/VBG at/IN least/JJS $500/CD million/CD into/IN the/DT cash-strapped/JJ country/NN over/IN the/DT next/JJ year/NN ./.
 
 (ROOT
   (S
@@ -696,6 +737,8 @@ prep_into(injecting-15, country-23)
 det(year-27, the-25)
 amod(year-27, next-26)
 prep_over(country-23, year-27)
+
+Cleaning/VBG house/NN at/IN top/JJ levels/NNS is/VBZ also/RB seen/VBN as/IN important/NN for/IN Yugoslavia/NNP in/IN its/PRP$ efforts/NNS to/TO break/VB out/RP of/IN a/DT decade/NN of/IN sanctions/NNS and/CC international/JJ isolation/NN meant/NN to/TO bring/VB Milosevic/NNP to/TO heel/VB ./.
 
 (ROOT
   (S
@@ -756,9 +799,12 @@ prep_of(decade-21, meant-27)
 conj_and(sanctions-23, meant-27)
 aux(bring-29, to-28)
 xcomp(break-17, bring-29)
+dobj(bring-29, Milosevic-30)
 nsubj(heel-32, Milosevic-30)
 aux(heel-32, to-31)
 xcomp(bring-29, heel-32)
+
+Milosevic/NNP is/VBZ blamed/VBN by/IN the/DT West/NNP for/IN starting/VBG _/NNS and/CC then/RB losing/VBG _/DT four/CD Balkan/NNP wars/NNS that/WDT broke/VBP out/RB in/IN the/DT last/JJ decade/NN when/WRB parts/NNS of/IN Yugoslavia/NNP began/VBD to/TO seek/VB independence/NN ./.
 
 (ROOT
   (S
@@ -820,12 +866,14 @@ amod(decade-23, last-22)
 prep_in(broke-18, decade-23)
 advmod(began-28, when-24)
 nsubj(began-28, parts-25)
-xsubj(seek-30, parts-25)
+nsubj(seek-30, parts-25)
 prep_of(parts-25, Yugoslavia-27)
 advcl(broke-18, began-28)
 aux(seek-30, to-29)
 xcomp(began-28, seek-30)
 dobj(seek-30, independence-31)
+
+Those/JJ conflicts/NNS were/VBD marked/VBN by/IN horrific/JJ acts/NNS of/IN violence/NN against/IN civilians/NNS ,/, which/WDT prompted/VBD Western/NNP governments/NNS to/TO impose/VB sanctions/NNS and/CC isolate/VB the/DT government/NN in/IN Belgrade/NNP ./.
 
 (ROOT
   (S
@@ -870,6 +918,7 @@ prep_against(marked-4, civilians-11)
 nsubj(prompted-14, civilians-11)
 rcmod(civilians-11, prompted-14)
 nn(governments-16, Western-15)
+dobj(prompted-14, governments-16)
 nsubj(impose-18, governments-16)
 nsubj(isolate-21, governments-16)
 aux(impose-18, to-17)
@@ -880,6 +929,8 @@ conj_and(impose-18, isolate-21)
 det(government-23, the-22)
 dobj(isolate-21, government-23)
 prep_in(government-23, Belgrade-25)
+
+A/DT new/JJ government/NN should/MD ``be/VB able/JJ to/TO show/VB up/RP in/IN Brussels/NNP and/CC Washington/NNP and/CC say/VB :/: `the/DT country/NN has/VBZ democratized/VBN .../:
 
 (ROOT
   (S
@@ -924,6 +975,8 @@ aux(democratized-20, has-19)
 ccomp(say-15, democratized-20)
 parataxis(say-15, democratized-20)
 
+we/PRP ask/RB from/IN you/PRP to/TO lift/VB the/DT sanctions/NNS ,'''/, Djindjic/NNP said/VBD ./.
+
 (ROOT
   (S
     (NP (PRP we))
@@ -942,7 +995,7 @@ parataxis(say-15, democratized-20)
     (. .)))
 
 nsubj(ask-2, we-1)
-xsubj(lift-6, we-1)
+nsubj(lift-6, we-1)
 root(ROOT-0, ask-2)
 prep_from(ask-2, you-4)
 aux(lift-6, to-5)
@@ -952,6 +1005,8 @@ dobj(lift-6, sanctions-8)
 punct(said-11, ,'''-9)
 nsubj(said-11, Djindjic-10)
 dep(lift-6, said-11)
+
+Both/DT the/DT United/NNP States/NNPS and/CC the/DT European/NNP Union/NNP have/VBP said/VBN they/PRP will/MD begin/VB to/TO lift/VB sanctions/NNS once/IN the/DT new/JJ government/NN is/VBZ in/IN place/NN ./.
 
 (ROOT
   (S
@@ -989,7 +1044,7 @@ nsubj(said-10, Union-8)
 aux(said-10, have-9)
 root(ROOT-0, said-10)
 nsubj(begin-13, they-11)
-xsubj(lift-15, they-11)
+nsubj(lift-15, they-11)
 aux(begin-13, will-12)
 ccomp(said-10, begin-13)
 aux(lift-15, to-14)
@@ -1001,6 +1056,8 @@ amod(government-20, new-19)
 nsubj(is-21, government-20)
 advcl(lift-15, is-21)
 prep_in(is-21, place-23)
+
+French/JJ Foreign/NNP Minister/NNP Hubert/NNP Vedrine/NNP confirmed/VBD Sunday/NN that/IN the/DT EU/NNP would/MD partially/RB lift/VB sanctions/NNS on/IN Monday/NNP ./.
 
 (ROOT
   (S
@@ -1034,6 +1091,8 @@ ccomp(confirmed-6, lift-13)
 dobj(lift-13, sanctions-14)
 prep_on(lift-13, Monday-16)
 
+Djindjic/JJ spoke/NN after/IN the/DT inaugural/JJ session/NN of/IN the/DT Yugoslav/NNP Parliament/NNP ,/, where/WRB Kostunica/NNP took/VBD office/NN ./.
+
 (ROOT
   (NP
     (NP (JJ Djindjic) (NN spoke))
@@ -1064,6 +1123,8 @@ advmod(took-14, where-12)
 nsubj(took-14, Kostunica-13)
 rcmod(Parliament-10, took-14)
 dobj(took-14, office-15)
+
+Kostunica/NNP pledged/VBD to/TO follow/VB his/PRP$ conscience/NN in/IN leading/VBG Yugoslavia/NNS and/CC urged/VBD lawmakers/NNS to/TO bury/VB past/JJ enmities/NNS that/WDT led/VBD to/TO bloodshed/VB and/CC chaos/NNS ./.
 
 (ROOT
   (S
@@ -1097,9 +1158,8 @@ dobj(took-14, office-15)
     (. .)))
 
 nsubj(pledged-2, Kostunica-1)
-xsubj(follow-4, Kostunica-1)
+nsubj(follow-4, Kostunica-1)
 nsubj(urged-11, Kostunica-1)
-xsubj(bury-14, Kostunica-1)
 root(ROOT-0, pledged-2)
 aux(follow-4, to-3)
 xcomp(pledged-2, follow-4)
@@ -1109,19 +1169,22 @@ amod(Yugoslavia-9, leading-8)
 prep_in(follow-4, Yugoslavia-9)
 conj_and(pledged-2, urged-11)
 dobj(urged-11, lawmakers-12)
+nsubj(bury-14, lawmakers-12)
 aux(bury-14, to-13)
 xcomp(urged-11, bury-14)
 amod(enmities-16, past-15)
 dobj(bury-14, enmities-16)
 nsubj(led-18, enmities-16)
-xsubj(bloodshed-20, enmities-16)
+nsubj(bloodshed-20, enmities-16)
 rcmod(enmities-16, led-18)
 aux(bloodshed-20, to-19)
 xcomp(led-18, bloodshed-20)
 dobj(bury-14, chaos-22)
 conj_and(enmities-16, chaos-22)
 nsubj(led-18, chaos-22)
-xsubj(bloodshed-20, chaos-22)
+nsubj(bloodshed-20, chaos-22)
+
+The/DT 56-year-old/JJ legal/JJ scholar/NN promised/VBD to/TO return/VB Yugoslavia/NNP to/TO democracy/VB and/CC end/VB the/DT ethnic/JJ conflict/NN and/CC economic/JJ devastation/NN that/WDT marked/VBD the/DT 13/CD years/NNS of/IN Milosevic/NNP 's/POS rule/NN ./.
 
 (ROOT
   (S
@@ -1156,10 +1219,11 @@ det(scholar-4, The-1)
 amod(scholar-4, 56-year-old-2)
 amod(scholar-4, legal-3)
 nsubj(promised-5, scholar-4)
-xsubj(return-7, scholar-4)
+nsubj(return-7, scholar-4)
 root(ROOT-0, promised-5)
 aux(return-7, to-6)
 xcomp(promised-5, return-7)
+dobj(return-7, Yugoslavia-8)
 nsubj(democracy-10, Yugoslavia-8)
 nsubj(end-12, Yugoslavia-8)
 aux(democracy-10, to-9)
@@ -1181,6 +1245,8 @@ dobj(marked-20, years-23)
 poss(rule-27, Milosevic-25)
 prep_of(years-23, rule-27)
 
+``Everything/NN is/VBZ peaceful/JJ ,''/, he/PRP said/VBD ./.
+
 (ROOT
   (S
     (NP (NN ``Everything))
@@ -1198,6 +1264,8 @@ root(ROOT-0, peaceful-3)
 punct(said-6, ,''-4)
 nsubj(said-6, he-5)
 ccomp(peaceful-3, said-6)
+
+``Yugoslavia/NNP and/CC Serbia/NNP have/VBP joined/VBN the/DT family/NN of/IN democratic/JJ nations/NNS .''/.
 
 (ROOT
   (S
@@ -1223,6 +1291,8 @@ amod(nations-10, democratic-9)
 prep_of(family-7, nations-10)
 punct(joined-5, .''-11)
 
+Still/RB ,/, discord/NN could/MD resurface/VB ,/, at/IN least/JJS in/IN parliament/NN ./.
+
 (ROOT
   (S
     (ADVP (RB Still))
@@ -1242,6 +1312,8 @@ root(ROOT-0, resurface-5)
 advmod(resurface-5, at-7)
 pobj(at-7, least-8)
 prep_in(resurface-5, parliament-10)
+
+The/DT swearing-in/JJ itself/PRP was/VBD repeatedly/RB delayed/VBN by/IN Milosevic/NNP allies/NNS who/WP contested/VBD parts/NNS of/IN the/DT Sept/NNP ./.
 
 (ROOT
   (S
@@ -1278,6 +1350,8 @@ dobj(contested-11, parts-12)
 det(Sept-15, the-14)
 prep_of(parts-12, Sept-15)
 
+24/CD vote/NN ./.
+
 (ROOT
   (NP
     (NP (CD 24))
@@ -1286,6 +1360,8 @@ prep_of(parts-12, Sept-15)
 
 root(ROOT-0, 24-1)
 dep(24-1, vote-2)
+
+And/CC with/IN Kostunica/NNP 's/POS 18-party/JJ opposition/NN block/NN short/NN of/IN an/DT absolute/JJ majority/NN ,/, it/PRP appears/VBZ compelled/VBN to/TO deal/VB with/IN the/DT Socialist/NN People's/NNPS Party/NNP of/IN Montenegro/NNP ,/, the/DT smaller/NN Yugoslav/IN republic/NN ./.
 
 (ROOT
   (S (CC And)
@@ -1317,19 +1393,18 @@ dep(24-1, vote-2)
                         (NP (NN republic))))))))))))
     (. .)))
 
-cc(compelled-16, And-1)
+cc(appears-15, And-1)
 poss(short-8, Kostunica-3)
 amod(short-8, 18-party-5)
 nn(short-8, opposition-6)
 nn(short-8, block-7)
-prep_with(compelled-16, short-8)
+prep_with(appears-15, short-8)
 det(majority-12, an-10)
 amod(majority-12, absolute-11)
 prep_of(short-8, majority-12)
-nsubjpass(compelled-16, it-14)
-xsubj(deal-18, it-14)
-auxpass(compelled-16, appears-15)
-root(ROOT-0, compelled-16)
+nsubj(appears-15, it-14)
+root(ROOT-0, appears-15)
+dep(appears-15, compelled-16)
 aux(deal-18, to-17)
 xcomp(compelled-16, deal-18)
 det(Socialist-21, the-20)
@@ -1340,6 +1415,8 @@ prep_of(Party-23, Montenegro-25)
 det(smaller-28, the-27)
 appos(Montenegro-25, smaller-28)
 prep_yugoslav(smaller-28, republic-30)
+
+That/DT party/NN backed/VBN Milosevic/NNP until/IN his/PRP$ downfall/NN and/CC now/RB seeks/VBZ to/TO have/VB one/CD of/IN its/PRP$ own/JJ appointed/JJ as/IN Yugoslavia/NNP 's/POS prime/JJ minister/NN _/IN the/DT constitution/NN says/VBZ that/IN if/IN the/DT president/NN is/VBZ from/IN Serbia/NNP ,/, the/DT prime/JJ minister/NN must/MD be/VB Montenegrin/NNP ./.
 
 (ROOT
   (S
@@ -1385,7 +1462,7 @@ prep_yugoslav(smaller-28, republic-30)
 
 det(party-2, That-1)
 nsubj(seeks-10, party-2)
-xsubj(have-12, party-2)
+nsubj(have-12, party-2)
 vmod(party-2, backed-3)
 dobj(backed-3, Milosevic-4)
 poss(downfall-7, his-6)
@@ -1419,6 +1496,8 @@ nsubj(Montenegrin-40, minister-37)
 aux(Montenegrin-40, must-38)
 cop(Montenegrin-40, be-39)
 ccomp(says-26, Montenegrin-40)
+
+With/IN the/DT opposition/NN outnumbered/VBN in/IN parliament/NN ,/, a/DT nonpartisan/JJ government/NN of/IN experts/NNS ,/, as/IN favored/VBN by/IN many/JJ in/IN the/DT Kostunica/NNP camp/NN ,/, has/VBZ little/JJ chance/NN of/IN being/VBG formed/VBN ./.
 
 (ROOT
   (S

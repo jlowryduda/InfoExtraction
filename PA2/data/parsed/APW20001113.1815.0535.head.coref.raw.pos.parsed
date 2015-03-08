@@ -1,3 +1,5 @@
+APW20001113.1815.0535/DT NEWS/NNP STORY/NNPS 2000-11-13/CD 18:21:15/CD
+
 (ROOT
   (NP
     (NP (DT APW20001113.1815.0535))
@@ -10,10 +12,14 @@ dep(APW20001113.1815.0535-1, STORY-3)
 num(18:21:15-5, 2000-11-13-4)
 dep(APW20001113.1815.0535-1, 18:21:15-5)
 
+Denmark-US-Ballots/NNS
+
 (ROOT
   (NP (NNS Denmark-US-Ballots)))
 
 root(ROOT-0, Denmark-US-Ballots-1)
+
+Presidential/JJ Ballots/NNS in/IN Denmark/NNP
 
 (ROOT
   (NP
@@ -25,10 +31,12 @@ amod(Ballots-2, Presidential-1)
 root(ROOT-0, Ballots-2)
 prep_in(Ballots-2, Denmark-4)
 
+COPENHAGEN/NNP ,/, Denmark/NNP [AP/NNP ]/NNP _/, A/DT Danish/JJ couple/NN were/VBD surprised/VBN this/DT weekend/NN when/WRB two/CD absentee/JJ ballots/NNS from/IN the/DT U.S/NNP ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP COPENHAGEN) (, ,) (NNP Denmark) (NNP (AP) (NNP )))
+      (NP (NNP COPENHAGEN) (, ,) (NNP Denmark) (NNP [AP) (NNP ]))
       (PP (, _)
         (NP (DT A) (JJ Danish) (NN couple))))
     (VP (VBD were)
@@ -44,14 +52,14 @@ prep_in(Ballots-2, Denmark-4)
                 (NP (DT the) (NNP U.S))))))))
     (. .)))
 
-nn()-5, COPENHAGEN-1)
-appos()-5, Denmark-3)
-nn()-5, (AP-4)
-nsubjpass(surprised-11, )-5)
+nn(]-5, COPENHAGEN-1)
+appos(]-5, Denmark-3)
+nn(]-5, [AP-4)
+nsubjpass(surprised-11, ]-5)
 punct(couple-9, _-6)
 det(couple-9, A-7)
 amod(couple-9, Danish-8)
-prep()-5, couple-9)
+prep(]-5, couple-9)
 auxpass(surprised-11, were-10)
 root(ROOT-0, surprised-11)
 det(weekend-13, this-12)
@@ -62,6 +70,8 @@ amod(ballots-17, absentee-16)
 advcl(surprised-11, ballots-17)
 det(U.S-20, the-19)
 prep_from(ballots-17, U.S-20)
+
+presidential/JJ election/NN turned/VBD up/RB in/IN their/PRP$ mail/NN ./.
 
 (ROOT
   (S
@@ -78,6 +88,8 @@ root(ROOT-0, turned-3)
 advmod(turned-3, up-4)
 poss(mail-7, their-6)
 prep_in(turned-3, mail-7)
+
+Brian/JJ Kain/NNP ,/, a/DT 33-year-old/JJ accountant/NN and/CC sailing/VBG enthusiast/RB ,/, eagerly/RB opened/VBN a/DT large/JJ envelope/NN when/WRB it/PRP arrived/VBD Saturday/NN with/IN some/DT information/NN about/IN navigation/NN charts/NNS that/IN he/PRP had/VBD ordered/VBN from/IN a/DT company/NN based/VBN in/IN the/DT state/NN of/IN Washington/NNP ./.
 
 (ROOT
   (S
@@ -156,6 +168,8 @@ det(state-36, the-35)
 prep_in(based-33, state-36)
 prep_of(state-36, Washington-38)
 
+He/PRP assumed/VBD two/CD extra/JJ sealed/JJ yellow/JJ envelopes/NNS inside/VB the/DT package/NN were/VBD ads/RB and/CC planned/VBD to/TO throw/VB them/PRP away/RB until/IN his/PRP$ wife/NN ,/, Helle/NNP ,/, opened/VBD one/CD of/IN them/PRP to/TO discover/VB the/DT absentee/JJ ballot/NN of/IN Steven/NNP H./NNP Forrester/NNP of/IN Bellevue/NNP ,/, Wash/NNP ./.
+
 (ROOT
   (S
     (NP (PRP He))
@@ -211,7 +225,7 @@ ccomp(assumed-2, inside-8)
 det(package-10, the-9)
 nsubj(were-11, package-10)
 nsubj(planned-14, package-10)
-xsubj(throw-16, package-10)
+nsubj(throw-16, package-10)
 ccomp(inside-8, were-11)
 advmod(were-11, ads-12)
 ccomp(inside-8, planned-14)
@@ -237,6 +251,8 @@ nn(Forrester-37, H.-36)
 prep_of(ballot-33, Forrester-37)
 nn(Wash-41, Bellevue-39)
 prep_of(Forrester-37, Wash-41)
+
+``The/IN most/JJS interesting/JJ thing/NN to/TO me/PRP was/VBD the/DT free/JJ chart/NN and/CC the/DT brochure/NN ,''/NN said/VBD Kain/NNP ./.
 
 (ROOT
   (S
@@ -272,6 +288,8 @@ conj_and(chart-10, ,''-14)
 csubj(said-15, ,''-14)
 root(ROOT-0, said-15)
 dobj(said-15, Kain-16)
+
+The/DT Kains/NNS didn't/VBP open/VBN the/DT second/JJ envelope/NN but/CC assumed/VBD it/PRP also/RB was/VBD a/DT ballot/NN since/IN both/DT were/VBD marked/VBN with/IN the/DT words/NNS ``Official/JJ ballot/NN _/NNS do/VBP not/RB delay/VB .''/.
 
 (ROOT
   (S
@@ -332,6 +350,8 @@ neg(delay-27, not-26)
 rcmod(words-21, delay-27)
 punct(didn't-3, .''-28)
 
+They/PRP contacted/VBD the/DT U.S/NNP ./.
+
 (ROOT
   (S
     (NP (PRP They))
@@ -343,6 +363,8 @@ nsubj(contacted-2, They-1)
 root(ROOT-0, contacted-2)
 det(U.S-4, the-3)
 dobj(contacted-2, U.S-4)
+
+Embassy/JJ in/IN Copenhagen/NNP on/IN Monday/NNP and/CC were/VBD asked/VBN to/TO put/VB the/DT envelopes/NNS in/IN the/DT mail/NN ./.
 
 (ROOT
   (S
@@ -375,6 +397,8 @@ det(envelopes-12, the-11)
 dobj(put-10, envelopes-12)
 det(mail-15, the-14)
 prep_in(put-10, mail-15)
+
+Embassy/JJ spokeswoman/NN Lela/NNP Margiou/NNP said/VBD they/PRP were/VBD waiting/VBG to/TO receive/VB the/DT ballots/NNS and/CC had/VBD not/RB yet/RB decided/VBN what/WP to/TO do/VB with/IN them/PRP ./.
 
 (ROOT
   (S
@@ -410,7 +434,7 @@ nsubj(said-5, Margiou-4)
 nsubj(decided-17, Margiou-4)
 root(ROOT-0, said-5)
 nsubj(waiting-8, they-6)
-xsubj(receive-10, they-6)
+nsubj(receive-10, they-6)
 aux(waiting-8, were-7)
 ccomp(said-5, waiting-8)
 aux(receive-10, to-9)
@@ -426,6 +450,8 @@ aux(do-20, to-19)
 ccomp(decided-17, do-20)
 xcomp(decided-17, do-20)
 prep_with(do-20, them-22)
+
+``It/NNP 's/POS kind/NN of/IN unusual/JJ ,''/NNP Margiou/NNP said/VBD ,/, adding/VBG that/IN the/DT ballots/NNS ``were/VBP not/RB valid/JJ ,/, were/VBD not/RB meaningful/JJ because/IN counting/VBG in/IN Washington/NNP State/NNP has/VBZ been/VBN completed/VBN .''/.
 
 (ROOT
   (S
@@ -483,6 +509,8 @@ auxpass(completed-28, been-27)
 advcl(meaningful-20, completed-28)
 punct(said-8, .''-29)
 
+Kain/NNP had/VBD ordered/VBN the/DT information/NN via/IN the/DT Internet/NNP from/IN Tides/NNP End/NNP Ltd/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Kain))
@@ -507,6 +535,8 @@ nn(Ltd-12, Tides-10)
 nn(Ltd-12, End-11)
 prep_from(ordered-3, Ltd-12)
 
+of/IN Washington/NNP ./.
+
 (ROOT
   (FRAG
     (PP (IN of)
@@ -515,6 +545,8 @@ prep_from(ordered-3, Ltd-12)
 
 root(ROOT-0, of-1)
 pobj(of-1, Washington-2)
+
+The/DT large/JJ envelope/NN ,/, which/WDT was/VBD postmarked/VBN from/IN Shaw/NNP Island/NNP ,/, arrived/VBD unsealed/VBN at/IN the/DT Kains/NNS '/POS home/NN in/IN Odense/NN ,/, 105/CD miles/NNS west/JJS of/IN the/DT capital/NN ,/, Copenhagen/NNP ./.
 
 (ROOT
   (S
@@ -570,6 +602,8 @@ dep(miles-23, west-24)
 det(capital-27, the-26)
 prep_of(home-18, capital-27)
 appos(capital-27, Copenhagen-29)
+
+The/DT Fyens/NNPS Stiftstidende/NNP ,/, the/DT main/NN local/JJ newspaper/NN ,/, said/VBD it/PRP contacted/VBD Forrester/NNP to/TO tell/VB him/PRP his/PRP$ ballot/NN had/VBD landed/VBN in/IN Denmark/NNP and/CC he/PRP did/VBD not/RB understand/VB how/WRB it/PRP could/MD have/VB been/VBN postmarked/VBN in/IN Shaw/NNP Island/NNP ,/, 50/CD miles/NNS from/IN where/WRB his/PRP$ wife/NN mailed/VBD it/PRP in/IN Bellevue/NNP ./.
 
 (ROOT
   (S
@@ -636,6 +670,7 @@ appos(Stiftstidende-3, newspaper-8)
 root(ROOT-0, said-10)
 nsubj(contacted-12, it-11)
 dep(said-10, contacted-12)
+dobj(contacted-12, Forrester-13)
 nsubj(tell-15, Forrester-13)
 aux(tell-15, to-14)
 xcomp(contacted-12, tell-15)
@@ -667,6 +702,8 @@ prepc_from(postmarked-33, mailed-44)
 dobj(mailed-44, it-45)
 prep_in(mailed-44, Bellevue-47)
 
+Forrester/NNP told/VBD the/DT newspaper/NN he/PRP had/VBD no/DT plans/NNS of/IN pursuing/VBG the/DT matter/NN ./.
+
 (ROOT
   (S
     (NP (NNP Forrester))
@@ -696,6 +733,8 @@ dobj(had-6, plans-8)
 prepc_of(plans-8, pursuing-10)
 det(matter-12, the-11)
 dobj(pursuing-10, matter-12)
+
+``The/PRP$ vote/NN is/VBZ ,/, I/PRP think/VBP ,/, over/IN ,''/DT he/PRP was/VBD quoted/VBN as/IN saying/VBG ./.
 
 (ROOT
   (S
@@ -729,6 +768,8 @@ auxpass(quoted-12, was-11)
 rcmod(,''-9, quoted-12)
 prepc_as(quoted-12, saying-14)
 
+The/DT U.S/NNP ./.
+
 (ROOT
   (FRAG
     (NP (DT The) (NNP U.S))
@@ -736,6 +777,8 @@ prepc_as(quoted-12, saying-14)
 
 det(U.S-2, The-1)
 root(ROOT-0, U.S-2)
+
+presidential/JJ race/NN between/IN Republican/NNP nominee/NNP Texas/NNP Gov/NNP ./.
 
 (ROOT
   (NP
@@ -750,6 +793,8 @@ nn(Gov-7, Republican-4)
 nn(Gov-7, nominee-5)
 nn(Gov-7, Texas-6)
 prep_between(race-2, Gov-7)
+
+George/NNP W./NNP Bush/NNP and/CC Democratic/JJ Vice/NNP President/NNP Al/NNP Gore/NNP remained/VBD undecided/JJ Monday/NNP with/IN the/DT state/NN of/IN Florida/NNP 's/POS 25/CD electoral/JJ votes/NNS still/RB at/IN stake/NN ./.
 
 (ROOT
   (S
@@ -775,22 +820,22 @@ prep_between(race-2, Gov-7)
 
 nn(Bush-3, George-1)
 nn(Bush-3, W.-2)
-nsubj(undecided-11, Bush-3)
+nsubj(remained-10, Bush-3)
 amod(Gore-9, Democratic-5)
 nn(Gore-9, Vice-6)
 nn(Gore-9, President-7)
 nn(Gore-9, Al-8)
 conj_and(Bush-3, Gore-9)
-nsubj(undecided-11, Gore-9)
-cop(undecided-11, remained-10)
-root(ROOT-0, undecided-11)
-tmod(undecided-11, Monday-12)
+nsubj(remained-10, Gore-9)
+root(ROOT-0, remained-10)
+acomp(remained-10, undecided-11)
+tmod(remained-10, Monday-12)
 det(state-15, the-14)
-prep_with(undecided-11, state-15)
+prep_with(remained-10, state-15)
 poss(votes-21, Florida-17)
 num(votes-21, 25-19)
 amod(votes-21, electoral-20)
 prep_of(state-15, votes-21)
-advmod(undecided-11, still-22)
-prep_at(undecided-11, stake-24)
+advmod(remained-10, still-22)
+prep_at(remained-10, stake-24)
 

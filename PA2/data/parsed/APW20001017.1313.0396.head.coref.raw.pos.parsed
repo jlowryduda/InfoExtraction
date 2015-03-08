@@ -1,3 +1,5 @@
+APW20001017.1313.0396/DT NEWS/NNP STORY/NNPS 2000-10-17/CD 13:45:21/CD
+
 (ROOT
   (NP
     (NP (DT APW20001017.1313.0396))
@@ -10,10 +12,14 @@ dep(APW20001017.1313.0396-1, STORY-3)
 num(13:45:21-5, 2000-10-17-4)
 dep(APW20001017.1313.0396-1, 13:45:21-5)
 
+Candidates-Debate/JJ
+
 (ROOT
   (ADJP (JJ Candidates-Debate)))
 
 root(ROOT-0, Candidates-Debate-1)
+
+Gore/NNP ,/, Bush/NNP Prepare/NNP for/IN Final/NNP Debate/NNP
 
 (ROOT
   (NP
@@ -27,9 +33,11 @@ root(ROOT-0, Prepare-4)
 nn(Debate-7, Final-6)
 prep_for(Prepare-4, Debate-7)
 
+ST./NNP LOUIS/NNP [AP/NNP ]/NNP _/NNP As/IN Republican/NNP George/NNP W./NNP Bush/NNP and/CC Democrat/NNP Al/NNP Gore/NNP prepared/VBD to/TO perch/VB on/IN stools/NNS and/CC take/VB voters/NNS '/POS questions/NNS in/IN a/DT crucial/JJ third/JJ debate/NN ,/, the/DT sudden/JJ death/NN of/IN Missouri/NNP Gov/NNP ./.
+
 (ROOT
   (S
-    (NP (NNP ST.) (NNP LOUIS) (NNP (AP) (NNP )) (NNP _))
+    (NP (NNP ST.) (NNP LOUIS) (NNP [AP) (NNP ]) (NNP _))
     (PP (IN As)
       (NP
         (NP (NNP Republican) (NNP George) (NNP W.) (NNP Bush))
@@ -59,10 +67,11 @@ prep_for(Prepare-4, Debate-7)
 
 nn(_-5, ST.-1)
 nn(_-5, LOUIS-2)
-nn(_-5, (AP-3)
-nn(_-5, )-4)
+nn(_-5, [AP-3)
+nn(_-5, ]-4)
 nsubj(prepared-15, _-5)
-xsubj(perch-17, _-5)
+nsubj(perch-17, _-5)
+nsubj(take-21, _-5)
 nn(Bush-10, Republican-7)
 nn(Bush-10, George-8)
 nn(Bush-10, W.-9)
@@ -89,6 +98,8 @@ appos(debate-29, death-33)
 nn(Gov-36, Missouri-35)
 prep_of(death-33, Gov-36)
 
+Mel/NNP Carnahan/NNP cast/VBD a/DT pall/NN over/IN their/PRP$ final/JJ meeting/NN ./.
+
 (ROOT
   (S
     (NP (NNP Mel) (NNP Carnahan))
@@ -106,6 +117,8 @@ dobj(cast-3, pall-5)
 poss(meeting-9, their-7)
 amod(meeting-9, final-8)
 prep_over(cast-3, meeting-9)
+
+After/IN talk/NN of/IN cancellation/NN or/CC a/DT postponement/NN for/IN mourning/NN ,/, plans/NNS were/VBD made/VBN early/JJ Tuesday/NNP to/TO continue/VB the/DT 9/CD p.m/NN ./.
 
 (ROOT
   (S
@@ -148,6 +161,8 @@ det(p.m-20, the-18)
 num(p.m-20, 9-19)
 dobj(continue-17, p.m-20)
 
+EDT/NNP event/NN on/IN schedule/NN ,/, officials/NNS of/IN both/DT campaigns/NN said/VBD ./.
+
 (ROOT
   (S
     (NP
@@ -170,6 +185,8 @@ appos(schedule-4, officials-6)
 det(campaigns-9, both-8)
 prep_of(officials-6, campaigns-9)
 root(ROOT-0, said-10)
+
+``In/IN the/DT end/NN ,/, there/EX was/VBD general/JJ agreement/NN that/IN Mel/NNP Carnahan/NNP would/MD have/VB wanted/VBD us/PRP to/TO go/VB forward/NN ,''/IN a/DT senior/JJ Bush/NNP campaign/NN official/NN said/VBD ,/, speaking/VBG on/IN condition/NN of/IN anonymity/NN ./.
 
 (ROOT
   (S
@@ -215,6 +232,7 @@ nsubj(wanted-14, Carnahan-11)
 aux(wanted-14, would-12)
 aux(wanted-14, have-13)
 ccomp(was-6, wanted-14)
+dobj(wanted-14, us-15)
 nsubj(go-17, us-15)
 aux(go-17, to-16)
 xcomp(wanted-14, go-17)
@@ -229,6 +247,8 @@ advcl(go-17, said-25)
 xcomp(said-25, speaking-27)
 prep_on(speaking-27, condition-29)
 prep_of(condition-29, anonymity-31)
+
+Bush/NNP 's/POS wife/NN ,/, Laura/NNP ,/, canceled/VBD plans/NNS for/IN a/DT morning/NN rally/RB ./.
 
 (ROOT
   (S
@@ -255,6 +275,8 @@ det(morning-11, a-10)
 prep_for(canceled-7, morning-11)
 advmod(canceled-7, rally-12)
 
+Bush/NNP campaign/NN officials/NNS also/RB decided/VBD to/TO tone/VB down/RP a/DT post-debate/JJ rally/NN ,/, and/CC were/VBD even/RB considering/VBG canceling/VBG it/PRP ./.
+
 (ROOT
   (S
     (NP (NNP Bush) (NN campaign) (NNS officials))
@@ -280,7 +302,7 @@ advmod(canceled-7, rally-12)
 nn(officials-3, Bush-1)
 nn(officials-3, campaign-2)
 nsubj(decided-5, officials-3)
-xsubj(tone-7, officials-3)
+nsubj(tone-7, officials-3)
 nsubj(considering-16, officials-3)
 advmod(decided-5, also-4)
 root(ROOT-0, decided-5)
@@ -295,6 +317,8 @@ advmod(considering-16, even-15)
 conj_and(decided-5, considering-16)
 vmod(considering-16, canceling-17)
 dobj(canceling-17, it-18)
+
+Gore/JJ hadn't/NN planned/VBD any/DT events/NNS before/IN the/DT debate/NN ./.
 
 (ROOT
   (S
@@ -312,6 +336,8 @@ det(events-5, any-4)
 dobj(planned-3, events-5)
 det(debate-8, the-7)
 prep_before(planned-3, debate-8)
+
+Carnahan/NNP ,/, a/DT Democrat/NN who/WP was/VBD running/VBG for/IN the/DT Senate/NNP ,/, campaigned/VBD with/IN Gore/NNP whenever/, the/DT vice/NN president/NN was/VBD in/IN Missouri/NNP and/CC would/MD have/VB accompanied/VBN Gore/NNP aboard/NNP Air/NNP Force/NNP II/NNP to/TO a/DT Kansas/NNP City/NNP rally/RB on/IN Wednesday/NNP ./.
 
 (ROOT
   (S
@@ -383,6 +409,8 @@ prep_to(II-30, City-34)
 advmod(accompanied-25, rally-35)
 prep_on(rally-35, Wednesday-37)
 
+Gore/NNP called/VBD Mrs/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Gore))
@@ -393,6 +421,8 @@ prep_on(rally-35, Wednesday-37)
 nsubj(called-2, Gore-1)
 root(ROOT-0, called-2)
 dobj(called-2, Mrs-3)
+
+Carnahan/NNP with/IN his/PRP$ condolences/NNS after/IN the/DT news/NN broke/NN Monday/NNP night/NNP ,/, aides/NNS said/VBD ./.
 
 (ROOT
   (S
@@ -417,6 +447,8 @@ nn(night-10, Monday-9)
 prep_after(said-13, night-10)
 nsubj(said-13, aides-12)
 root(ROOT-0, said-13)
+
+``We/PRP 're/VBP all/DT waking/VBG up/RB ,/, honestly/RB ,/, to/TO the/DT tragedy/NN and/CC the/DT pain/NN of/IN it/PRP and/CC the/DT shock/NN of/IN it/PRP ,''/, Democratic/JJ vice/NN presidential/JJ candidate/NN Joseph/NNP Lieberman/NNP said/VBD Tuesday/NNP morning/NN on/IN CNN/NNP ./.
 
 (ROOT
   (S
@@ -478,6 +510,8 @@ conj_and(waking-4, said-29)
 nn(morning-31, Tuesday-30)
 tmod(said-29, morning-31)
 prep_on(said-29, CNN-33)
+
+The/DT Bush/NNP and/CC Gore/NNP campaigns/NN did/VBD not/RB talk/VB to/TO each/DT other/JJ directly/RB about/IN the/DT possibility/NN of/IN postponement/NN ,/, but/CC went/VBD through/IN the/DT debate/NN commission/NN 's/POS director/NN ,/, Janet/NNP Brown/NNP ,/, in/IN a/DT series/NN of/IN pre-dawn/JJ phone/NN calls/NNS ./.
 
 (ROOT
   (S
@@ -542,6 +576,8 @@ amod(calls-37, pre-dawn-35)
 nn(calls-37, phone-36)
 prep_of(series-33, calls-37)
 
+Eventually/RB ,/, Brown/NNP recommended/VBD that/IN the/DT debate/NN should/MD go/VB on/RB ,/, and/CC neither/RB side/JJ objected/VBN ,/, according/VBG to/TO campaign/NN officials/NNS ./.
+
 (ROOT
   (S
     (ADVP (RB Eventually))
@@ -586,6 +622,8 @@ prepc_according_to(recommended-4, to-18)
 nn(officials-20, campaign-19)
 pobj(recommended-4, officials-20)
 
+The/DT commission/NN was/VBD to/TO announce/VB the/DT plans/NNS later/RBR Tuesday/NNP ,/, with/IN each/DT candidate/NN given/VBN time/NN at/IN the/DT debate/NN 's/POS start/NN to/TO say/VB a/DT few/JJ words/NNS about/IN Carnahan/NNP ,/, who/WP died/VBD Monday/NNP night/NN in/IN the/DT crash/NN of/IN a/DT small/JJ plane/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NN commission))
@@ -628,7 +666,7 @@ pobj(recommended-4, officials-20)
 
 det(commission-2, The-1)
 nsubj(was-3, commission-2)
-xsubj(announce-5, commission-2)
+nsubj(announce-5, commission-2)
 root(ROOT-0, was-3)
 aux(announce-5, to-4)
 xcomp(was-3, announce-5)
@@ -658,6 +696,8 @@ prep_in(died-30, crash-35)
 det(plane-39, a-37)
 amod(plane-39, small-38)
 prep_of(crash-35, plane-39)
+
+With/IN the/DT larger/JJR bloc/NN of/IN uncommitted/JJ voters/NNS across/IN the/DT nation/NN apparently/RB holding/VBG the/DT key/NN to/TO the/DT election/NN ,/, both/DT candidates/NNS were/VBD clearly/RB mindful/JJ of/IN the/DT high/JJ stakes/NNS if/IN the/DT encounter/NN goes/VBZ forward/JJ as/IN planned/NN ./.
 
 (ROOT
   (S
@@ -719,6 +759,8 @@ advcl(mindful-23, goes-31)
 dobj(goes-31, forward-32)
 prep_as(forward-32, planned-34)
 
+The/DT informal/NN question-and-answer/JJR format/NN is/VBZ one/CD Gore/NN is/VBZ comfortable/JJ with/IN ,/, and/CC he/PRP promised/VBD on/IN Monday/NNP to/TO ``just/VB have/VBP an/DT open/JJ meeting/NN ,''/, as/IN he/PRP had/VBD done/FW many/JJ times/NNS before/RB ./.
+
 (ROOT
   (S
     (NP
@@ -770,7 +812,7 @@ prep_with(comfortable-9, Gore-7)
 cop(comfortable-9, is-8)
 rcmod(Gore-7, comfortable-9)
 nsubj(promised-14, he-13)
-xsubj(``just-18, he-13)
+nsubj(``just-18, he-13)
 rcmod(informal-2, promised-14)
 conj_and(Gore-7, promised-14)
 prep_with(comfortable-9, promised-14)
@@ -789,6 +831,8 @@ dobj(had-26, done-27)
 quantmod(times-29, many-28)
 npadvmod(before-30, times-29)
 advmod(had-26, before-30)
+
+Bush/NNP ,/, who/WP has/VBZ less/RBR formal/JJ debate/NN experience/NN than/IN the/DT vice/NN president/NN but/CC whose/WP$ standing/VBG in/IN public/JJ opinion/NN polls/NNS rose/VBD after/IN the/DT first/JJ two/CD face-offs/NNS ,/, vowed/VBN to/TO ``just/RB tell/VB it/PRP like/IN it/PRP is/VBZ .''/.
 
 (ROOT
   (S
@@ -832,7 +876,7 @@ advmod(had-26, before-30)
 
 nsubj(has-4, Bush-1)
 nsubj(vowed-27, Bush-1)
-xsubj(tell-30, Bush-1)
+nsubj(tell-30, Bush-1)
 rcmod(Bush-1, has-4)
 advmod(formal-6, less-5)
 amod(experience-8, formal-6)
@@ -862,6 +906,8 @@ nsubj(is-34, it-33)
 advcl(tell-30, is-34)
 punct(vowed-27, .''-35)
 
+The/DT debate/NN ,/, just/RB three/CD weeks/NNS before/IN the/DT Nov/NNP ./.
+
 (ROOT
   (NP
     (NP (DT The) (NN debate))
@@ -879,6 +925,8 @@ num(weeks-6, three-5)
 appos(debate-2, weeks-6)
 det(Nov-9, the-8)
 prep_before(weeks-6, Nov-9)
+
+7/CD election/NN ,/, will/MD be/VB held/VBN on/IN the/DT campus/NN of/IN Washington/NNP University/NNP ./.
 
 (ROOT
   (S
@@ -903,6 +951,8 @@ det(campus-9, the-8)
 prep_on(held-6, campus-9)
 nn(University-12, Washington-11)
 prep_of(campus-9, University-12)
+
+While/RB the/DT moderator/NN will/MD be/VB the/DT same/JJ as/IN in/IN the/DT Boston/NNP and/CC Winston-Salem/NNP ,/, N.C/NNP .,/NNP debates/VBZ _/DT Jim/NNP Lehrer/NNP of/IN PBS/NNP _/POS questions/NNS this/DT time/NN will/MD come/VB from/IN the/DT audience/NN ./.
 
 (ROOT
   (S
@@ -960,6 +1010,8 @@ aux(come-28, will-27)
 root(ROOT-0, come-28)
 det(audience-31, the-30)
 prep_from(come-28, audience-31)
+
+The/DT Gallup/NNP polling/VBG organization/NN ,/, assigned/VBN by/IN the/DT Commission/NNP on/IN Presidential/NNP Debates/NNPS to/TO recruit/VB questioners/NNS ,/, started/VBN with/IN a/DT random/NN sample/NN of/IN all/DT registered/JJ voters/NNS in/IN St./NNP Louis/NNP and/CC its/PRP$ suburbs/NNS ,/, and/CC then/RB screened/VBD out/IN all/DT but/CC ``uncommitted/VBD voters/NNS ,''/, said/VBD Frank/NNP Newport/NNP ,/, Gallup/NNP 's/POS executive/NN editor/NN ./.
 
 (ROOT
   (SINV
@@ -1052,6 +1104,8 @@ poss(editor-49, Gallup-46)
 nn(editor-49, executive-48)
 appos(Newport-44, editor-49)
 
+The/DT result/NN was/VBD a/DT group/NN of/IN area/NN voters/NNS who/WP say/VBP they/PRP could/MD support/VB either/JJR Gore/NNP or/CC Bush/NNP _/NNS though/IN they/PRP might/MD be/VB leaning/VBG one/CD way/NN or/CC the/DT other/JJ ./.
+
 (ROOT
   (S
     (NP (DT The) (NN result))
@@ -1115,6 +1169,8 @@ det(other-28, the-27)
 dobj(leaning-23, other-28)
 conj_or(way-25, other-28)
 
+The/DT theater-in-the-round/NN stage/NN will/MD be/VB informally/RB set/VBN with/IN two/CD stools/NNS and/CC surrounded/VBN by/IN 100/CD questioners/NNS and/CC an/DT additional/JJ 500/CD onlookers/NNS ./.
+
 (ROOT
   (S
     (NP (DT The) (NN theater-in-the-round) (NN stage))
@@ -1154,6 +1210,8 @@ num(onlookers-20, 500-19)
 prep_by(surrounded-12, onlookers-20)
 conj_and(questioners-15, onlookers-20)
 
+Tuesday/NNP night/NNP 's/POS debate/NN marks/IN the/DT beginning/NN of/IN the/DT final/JJ stretch/NN ./.
+
 (ROOT
   (NP
     (NP
@@ -1175,6 +1233,8 @@ dep(marks-5, beginning-7)
 det(stretch-11, the-9)
 amod(stretch-11, final-10)
 prep_of(beginning-7, stretch-11)
+
+And/CC ,/, with/IN polls/NNS continuing/VBG to/TO show/VB the/DT race/NN to/TO be/VB neck-and-neck/JJ ,/, any/DT stumble/JJ could/MD have/VB major/JJ impact/NN on/IN a/DT contest/NN in/IN which/WDT both/DT candidates/NNS are/VBP fiercely/RB wooing/VBG a/DT dwindling/VBG band/NN of/IN undecided/JJ voters/NNS ./.
 
 (ROOT
   (S (CC And)
@@ -1244,6 +1304,8 @@ dobj(wooing-29, band-32)
 amod(voters-35, undecided-34)
 prep_of(band-32, voters-35)
 
+Gore/RB held/VBD a/DT mock/NN debate/NN on/IN Monday/NNP ,/, inviting/VBG 23/CD voters/NNS to/TO the/DT Innsbrook/NN resort/VB outside/VB St./NNP Louis/NNP to/TO help/VB him/PRP practice/NN ./.
+
 (ROOT
   (SINV
     (ADVP (RB Gore))
@@ -1283,13 +1345,16 @@ nsubj(resort-15, voters-11)
 det(Innsbrook-14, the-13)
 prep_to(voters-11, Innsbrook-14)
 ccomp(inviting-9, resort-15)
-dep(resort-15, outside-16)
+xcomp(resort-15, outside-16)
 nn(Louis-18, St.-17)
+dobj(outside-16, Louis-18)
 nsubj(help-20, Louis-18)
 aux(help-20, to-19)
 xcomp(outside-16, help-20)
 nsubj(practice-22, him-21)
 xcomp(help-20, practice-22)
+
+``I/PRP 'm/VBP going/VBG to/TO do/VB what/WP I/PRP 've/MD done/VB a/DT lot/NN of/IN times/NNS in/IN Tennessee/NNP ,/, and/CC that/IN is/VBZ ,/, just/RB have/VBP an/DT open/JJ meeting/NN ,''/, Gore/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -1330,7 +1395,7 @@ xcomp(help-20, practice-22)
     (. .)))
 
 nsubj(going-3, ``I-1)
-xsubj(do-5, ``I-1)
+nsubj(do-5, ``I-1)
 aux(going-3, 'm-2)
 ccomp(said-28, going-3)
 aux(do-5, to-4)
@@ -1355,6 +1420,8 @@ dobj(have-22, meeting-25)
 punct(said-28, ,''-26)
 nsubj(said-28, Gore-27)
 root(ROOT-0, said-28)
+
+In/IN 16/CD years/NNS in/IN Congress/NNP ,/, Gore/NNP held/VBD some/DT 1,000/CD town/NN meetings/NNS with/IN Tennessee/NNP constituents/NNS ,/, and/CC they've/RB become/VB a/DT regular/JJ feature/NN of/IN his/PRP$ presidential/JJ campaign/NN ./.
 
 (ROOT
   (S
@@ -1392,13 +1459,15 @@ nn(constituents-15, Tennessee-14)
 prep_with(held-8, constituents-15)
 cc(they've-18, and-17)
 dep(held-8, they've-18)
-cop(feature-22, become-19)
+dep(held-8, become-19)
 det(feature-22, a-20)
 amod(feature-22, regular-21)
-dep(held-8, feature-22)
+xcomp(become-19, feature-22)
 poss(campaign-26, his-24)
 amod(campaign-26, presidential-25)
 prep_of(feature-22, campaign-26)
+
+After/IN an/DT uncharacteristically/JJ muted/JJ demeanor/NN in/IN last/JJ week/NN 's/POS debate/NN ,/, Gore/NNP ,/, was/VBD looking/VBG to/TO do/VB better/RBR this/DT time/NN ./.
 
 (ROOT
   (S
@@ -1427,7 +1496,7 @@ amod(week-8, last-7)
 poss(debate-10, week-8)
 prep_in(demeanor-5, debate-10)
 nsubj(looking-15, Gore-12)
-xsubj(do-17, Gore-12)
+nsubj(do-17, Gore-12)
 aux(looking-15, was-14)
 root(ROOT-0, looking-15)
 aux(do-17, to-16)
@@ -1435,6 +1504,8 @@ xcomp(looking-15, do-17)
 advmod(time-20, better-18)
 det(time-20, this-19)
 dobj(do-17, time-20)
+
+``I/NNP don't/RB think/VB you/PRP play/VB it/PRP safe/NN ,''/NN said/VBD Gore/NNP 's/POS campaign/NN chairman/NN ,/, William/NNP Daley/NNP ,/, previewing/VBG the/DT Tuesday/NNP night/NN encounter/NN ./.
 
 (ROOT
   (S
@@ -1481,6 +1552,8 @@ nn(encounter-22, Tuesday-20)
 nn(encounter-22, night-21)
 dobj(previewing-18, encounter-22)
 
+``I/PRP think/VBP you/PRP try/NN to/TO be/VB very/RB natural/JJ and/CC lay/JJ out/RB in/IN a/DT forward/NN way/NN the/DT compelling/VBG reasons/NNS for/IN the/DT election/NN to/TO go/VB your/PRP$ way/NN .''/.
+
 (ROOT
   (S
     (NP (PRP ``I))
@@ -1510,7 +1583,8 @@ dobj(previewing-18, encounter-22)
 nsubj(think-2, ``I-1)
 root(ROOT-0, think-2)
 nsubj(try-4, you-3)
-xsubj(natural-8, you-3)
+nsubj(natural-8, you-3)
+nsubj(lay-10, you-3)
 xcomp(think-2, try-4)
 aux(natural-8, to-5)
 cop(natural-8, be-6)
@@ -1532,6 +1606,8 @@ vmod(election-21, go-23)
 poss(way-25, your-24)
 dobj(go-23, way-25)
 punct(think-2, .''-26)
+
+Bush/NNP had/VBD long/RB resisted/VBN the/DT town-hall-style/JJ session/NN ,/, but/CC in/IN recent/JJ weeks/NNS on/IN the/DT campaign/NN trail/NN has/VBZ been/VBN doing/VBG them/PRP almost/RB daily/RB ./.
 
 (ROOT
   (S
@@ -1575,6 +1651,8 @@ conj_but(resisted-4, doing-19)
 dobj(doing-19, them-20)
 advmod(daily-22, almost-21)
 advmod(doing-19, daily-22)
+
+``I/NNP 've/MD felt/VB comfortable/JJ about/IN it/PRP ,''/VBD the/DT Republican/NNP said/VBD Monday/NNP ./.
 
 (ROOT
   (S

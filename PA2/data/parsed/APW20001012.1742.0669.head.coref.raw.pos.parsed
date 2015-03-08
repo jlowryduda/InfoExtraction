@@ -1,3 +1,5 @@
+APW20001012.1742.0669/DT NEWS/NNP STORY/NNPS 2000-10-12/CD 17:42:16/CD
+
 (ROOT
   (NP
     (NP (DT APW20001012.1742.0669))
@@ -10,10 +12,14 @@ dep(APW20001012.1742.0669-1, STORY-3)
 num(17:42:16-5, 2000-10-12-4)
 dep(APW20001012.1742.0669-1, 17:42:16-5)
 
+Clinton-Yugoslavia-Sanctions/NNS
+
 (ROOT
   (NP (NNS Clinton-Yugoslavia-Sanctions)))
 
 root(ROOT-0, Clinton-Yugoslavia-Sanctions-1)
+
+Clinton/NNP Lifts/NNP Yugoslavia/NNP Sanctions/NNPS
 
 (ROOT
   (NP (NNP Clinton) (NNP Lifts) (NNP Yugoslavia) (NNPS Sanctions)))
@@ -23,10 +29,12 @@ nn(Sanctions-4, Lifts-2)
 nn(Sanctions-4, Yugoslavia-3)
 root(ROOT-0, Sanctions-4)
 
+WASHINGTON/NNP [AP/NNP ]/NNP _/, Celebrating/VBG the/DT political/JJ rebirth/NN of/IN the/DT people/NNS of/IN Serbia/NNP ,/, President/NNP Clinton/NNP lifted/VBD key/JJ trade/NN and/CC economic/JJ sanctions/NNS to/TO demonstrate/VB support/NN for/IN Belgrade/NNP 's/POS newly/JJ installed/JJ government/NN ./.
+
 (ROOT
   (S
     (S
-      (NP (NNP WASHINGTON) (NNP (AP) (NNP )))
+      (NP (NNP WASHINGTON) (NNP [AP) (NNP ]))
       (VP (, _)
         (VP (VBG Celebrating)
           (NP
@@ -53,9 +61,9 @@ root(ROOT-0, Sanctions-4)
                   (JJ newly) (JJ installed) (NN government))))))))
     (. .)))
 
-nn()-3, WASHINGTON-1)
-nn()-3, (AP-2)
-nsubj(Celebrating-5, )-3)
+nn(]-3, WASHINGTON-1)
+nn(]-3, [AP-2)
+nsubj(Celebrating-5, ]-3)
 punct(Celebrating-5, _-4)
 ccomp(lifted-17, Celebrating-5)
 det(rebirth-8, the-6)
@@ -79,6 +87,8 @@ poss(government-31, Belgrade-27)
 amod(government-31, newly-29)
 amod(government-31, installed-30)
 prep_for(support-25, government-31)
+
+``The/JJ victory/NN of/IN freedom/NN in/IN Serbia/NNP is/VBZ one/CD of/IN the/DT most/RBS hopeful/JJ developments/NNS in/IN Europe/NNP since/IN the/DT fall/NN of/IN the/DT Berlin/NNP Wall/NNP ,''/VBD the/DT president/NN said/VBD on/IN Friday/NNP ./.
 
 (ROOT
   (S
@@ -137,6 +147,8 @@ nsubj(said-26, president-25)
 ccomp(,''-23, said-26)
 prep_on(said-26, Friday-28)
 
+``It/NN ended/VBD a/DT dictatorship/NN and/CC it/PRP can/MD liberate/VB an/DT entire/JJ region/NN from/IN the/DT nagging/VBG fear/NN that/IN ethnic/JJ differences/NNS can/MD again/RB be/VB exploited/VBN to/TO start/VB wars/NNS and/CC shift/NN borders/NNS .''/.
+
 (ROOT
   (S
     (S
@@ -182,7 +194,7 @@ prep_from(liberate-8, fear-15)
 mark(exploited-22, that-16)
 amod(differences-18, ethnic-17)
 nsubjpass(exploited-22, differences-18)
-xsubj(start-24, differences-18)
+nsubj(start-24, differences-18)
 aux(exploited-22, can-19)
 advmod(exploited-22, again-20)
 auxpass(exploited-22, be-21)
@@ -194,6 +206,8 @@ nn(borders-28, shift-27)
 dobj(start-24, borders-28)
 conj_and(wars-25, borders-28)
 punct(ended-2, .''-29)
+
+Clinton/NNP announced/VBD the/DT immediate/JJ ending/NN of/IN the/DT oil/NN embargo/NN and/CC flight/JJ ban/NN that/WDT were/VBD imposed/VBN in/IN 1998/CD to/TO punish/VB and/CC isolate/VB the/DT regime/NN of/IN Yugoslav/NNP President/NNP Slobodan/NNP Milosevic/NNP ./.
 
 (ROOT
   (S
@@ -237,7 +251,8 @@ amod(ban-12, flight-11)
 dobj(announced-2, ban-12)
 conj_and(ending-5, ban-12)
 nsubjpass(imposed-15, ban-12)
-xsubj(punish-19, ban-12)
+nsubj(punish-19, ban-12)
+nsubj(isolate-21, ban-12)
 auxpass(imposed-15, were-14)
 rcmod(ban-12, imposed-15)
 prep_in(imposed-15, 1998-17)
@@ -251,6 +266,8 @@ nn(Milosevic-28, Yugoslav-25)
 nn(Milosevic-28, President-26)
 nn(Milosevic-28, Slobodan-27)
 prep_of(regime-23, Milosevic-28)
+
+``The/JJ removal/NN of/IN these/DT sanctions/NNS is/VBZ a/DT first/JJ step/NN to/TO ending/VB Serbia/NNP 's/POS isolation/NN ,''/, Clinton/NNP said/VBD in/IN a/DT written/JJ statement/NN ./.
 
 (ROOT
   (S
@@ -292,6 +309,8 @@ root(ROOT-0, said-17)
 det(statement-21, a-19)
 amod(statement-21, written-20)
 prep_in(said-17, statement-21)
+
+James/NNP C./NNP O'Brien/NNP ,/, the/DT senior/JJ U.S./NNP official/NN overseeing/VBG developments/NNS in/IN the/DT Balkans/NNPS ,/, met/NN with/IN new/JJ Yugoslav/NNP President/NNP Vojislav/NNP Kostunica/NNP in/IN Belgrade/NNP on/IN Thursday/NN to/TO offer/VB congratulations/NNS on/IN Kostunica/NNP 's/POS election/NN victory/NN and/CC to/TO highlight/VB the/DT message/NN that/IN further/JJ progress/NN is/VBZ expected/VBN ./.
 
 (ROOT
   (NP
@@ -371,6 +390,8 @@ nsubjpass(expected-43, progress-41)
 auxpass(expected-43, is-42)
 ccomp(highlight-36, expected-43)
 
+Clinton/NNP acted/VBD just/RB days/NNS after/IN the/DT European/JJ Union/NNP lifted/VBD it/PRP s/VBZ own/JJ oil/NN embargo/NN and/CC ban/NN on/IN commercial/JJ flights/NNS to/TO and/CC from/IN Serbia/NNP ,/, the/DT principal/JJ Yugoslav/NNP republic/NN ./.
+
 (ROOT
   (S
     (NP (NNP Clinton))
@@ -428,6 +449,8 @@ amod(republic-28, principal-26)
 nn(republic-28, Yugoslav-27)
 appos(Serbia-23, republic-28)
 
+``We/RB have/VBP a/DT strong/JJ interest/NN in/IN supporting/VBG Yugoslavia/NNP 's/POS newly/NN elected/VBD leaders/NNS as/IN they/PRP work/VBP to/TO build/VB a/DT truly/RB democratic/JJ society/NN ,''/, Clinton/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -472,7 +495,7 @@ ccomp(supporting-7, elected-11)
 dobj(elected-11, leaders-12)
 mark(work-15, as-13)
 nsubj(work-15, they-14)
-xsubj(build-17, they-14)
+nsubj(build-17, they-14)
 advcl(elected-11, work-15)
 aux(build-17, to-16)
 xcomp(work-15, build-17)
@@ -483,6 +506,8 @@ dobj(build-17, society-21)
 punct(said-24, ,''-22)
 nsubj(said-24, Clinton-23)
 root(ROOT-0, said-24)
+
+The/DT EU/NN did/VBD not/RB remove/VB sanctions/NNS that/WDT froze/VBP overseas/RB assets/NNS of/IN Milosevic/NNP and/CC his/PRP$ allies/NNS and/CC prohibited/VB them/PRP from/IN traveling/VBG to/TO 15/CD EU/NN nations/NNS ./.
 
 (ROOT
   (S
@@ -534,6 +559,8 @@ prepc_from(prohibited-17, traveling-20)
 num(nations-24, 15-22)
 nn(nations-24, EU-23)
 prep_to(traveling-20, nations-24)
+
+Clinton/NNP said/VBD the/DT United/NNP States/NNPS would/MD also/RB ensure/VB that/IN the/DT lifting/NN of/IN sanctions/NNS does/VBZ not/RB allow/VB Milosevic/NNP 's/POS supporters/NNS ``to/, continue/VBP the/DT systematic/JJ theft/NN of/IN resources/NNS that/WDT have/VBP marked/VBN the/DT last/JJ 13/CD years/NNS .''/.
 
 (ROOT
   (S
@@ -604,6 +631,8 @@ num(years-33, 13-32)
 tmod(marked-29, years-33)
 punct(said-2, .''-34)
 
+``Our/NNP disagreement/NN was/VBD with/IN the/DT Milosevic/NNP regime/NN ,/, not/RB the/DT people/NNS of/IN Serbia/NNP who/WP have/VBP suffered/VBN under/IN the/DT regime/NN 's/POS brutal/JJ policies/NNS ,''/IN the/DT president/NN said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -652,6 +681,8 @@ prep_under(suffered-16, policies-22)
 det(president-25, the-24)
 prep_,''(suffered-16, president-25)
 parataxis(was-3, said-26)
+
+``In/VBP that/IN vein/NN we/PRP will/MD continue/VB to/TO enforce/VB a/DT ban/NN on/IN travel/NN to/TO the/DT United/NNP States/NNPS by/IN top/JJ members/NNS of/IN the/DT Milosevic/NNP regime/NN and/CC keep/VB in/IN place/NN measures/NNS that/IN help/NN the/DT new/JJ government/NN deter/VB a/DT looting/NN of/IN the/DT national/JJ patrimony/NN during/IN the/DT current/JJ period/NN of/IN transition/NN in/IN Yugoslavia/NNP ,''/, the/DT president/NN said/VBD ./.
 
 (ROOT
   (S
@@ -711,7 +742,8 @@ ccomp(said-52, ``In-1)
 mark(deter-34, that-2)
 nsubj(deter-34, vein-3)
 nsubj(continue-6, we-4)
-xsubj(enforce-8, we-4)
+nsubj(enforce-8, we-4)
+nsubj(keep-25, we-4)
 aux(continue-6, will-5)
 rcmod(vein-3, continue-6)
 aux(enforce-8, to-7)
@@ -751,6 +783,8 @@ punct(said-52, ,''-49)
 det(president-51, the-50)
 nsubj(said-52, president-51)
 root(ROOT-0, said-52)
+
+He/PRP said/VBD the/DT administration/NN also/RB would/MD review/VB restrictions/NNS on/IN Serbia/NNP 's/POS participation/NN in/IN international/JJ financial/JJ institutions/NNS ``as/IN Serbia/NNP makes/VBZ it/PRP s/MD democratic/JJ transition/NN and/CC meets/VBZ it/PRP s/VBZ international/JJ obligations/NNS .''/.
 
 (ROOT
   (S
@@ -817,6 +851,8 @@ cop(obligations-29, s-27)
 amod(obligations-29, international-28)
 ccomp(meets-25, obligations-29)
 punct(said-2, .''-30)
+
+``There/RB is/VBZ still/RB much/JJ work/NN ahead/RB for/IN the/DT Yugoslav/NNP people/NNS and/CC their/PRP$ new/JJ government/NN :/: restoring/VBG confidence/NN in/IN the/DT rule/NN of/IN law/NN ,/, rebuilding/VBG an/DT honest/NN economy/NN ,/, accounting/VBG for/IN the/DT past/JJ while/IN building/NN for/IN a/DT better/JJR future/NN ,''/IN Clinton/NNP said/VBD ./.
 
 (ROOT
   (SINV
@@ -894,6 +930,8 @@ amod(future-38, better-37)
 prep_for(building-34, future-38)
 prep_,''(future-38, Clinton-40)
 advcl(restoring-16, said-41)
+
+``Thankfully/RB ,/, that/IN work/NN can/MD now/RB begin/VB _/IN without/IN the/DT burden/NNS of/IN isolation/NN and/CC with/IN the/DT friendship/NN of/IN the/DT American/JJ people/NNS .''/.
 
 (ROOT
   (S

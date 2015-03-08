@@ -1,3 +1,5 @@
+APW20001028.2128.0472/DT NEWS/NNP STORY/NNPS 2000-10-28/CD 21:37:46/CD
+
 (ROOT
   (NP
     (NP (DT APW20001028.2128.0472))
@@ -10,10 +12,14 @@ dep(APW20001028.2128.0472-1, STORY-3)
 num(21:37:46-5, 2000-10-28-4)
 dep(APW20001028.2128.0472-1, 21:37:46-5)
 
+FBO-XFL-Draft/JJ
+
 (ROOT
   (ADJP (JJ FBO-XFL-Draft)))
 
 root(ROOT-0, FBO-XFL-Draft-1)
+
+XFL/NNP Has/NNP First/NNP Draft/NNP
 
 (ROOT
   (NP (NNP XFL) (NNP Has) (NNP First) (NNP Draft)))
@@ -23,11 +29,13 @@ nn(Draft-4, Has-2)
 nn(Draft-4, First-3)
 root(ROOT-0, Draft-4)
 
+CHICAGO/NNP [AP/NNP ]/, _/DT ``Stone/NN Cold/NNP ''/'' Steve/NNP Austin/NNP ,/, The/DT Rock/NNP and/CC Triple/NNP H/NNP weren't/VBD among/IN the/DT selections/NNS ./.
+
 (ROOT
   (S
     (S
-      (NP (NNP CHICAGO) (NNP (AP))
-      (VP (, ))
+      (NP (NNP CHICAGO) (NNP [AP))
+      (VP (, ])
         (S
           (NP (DT _) (NN ``Stone) (NNP Cold) ('' ''))
           (NP (NNP Steve) (NNP Austin)))))
@@ -40,9 +48,9 @@ root(ROOT-0, Draft-4)
         (NP (DT the) (NNS selections))))
     (. .)))
 
-nn((AP-2, CHICAGO-1)
-nsubj(Austin-9, (AP-2)
-punct(Austin-9, )-3)
+nn([AP-2, CHICAGO-1)
+nsubj(Austin-9, [AP-2)
+punct(Austin-9, ]-3)
 det(Cold-6, _-4)
 nn(Cold-6, ``Stone-5)
 nsubj(Austin-9, Cold-6)
@@ -56,6 +64,8 @@ nsubj(weren't-16, H-15)
 root(ROOT-0, weren't-16)
 det(selections-19, the-18)
 prep_among(weren't-16, selections-19)
+
+But/CC pro/JJ wrestling/NN did/VBD manage/RB to/TO leave/VB a/DT mark/NN on/IN the/DT first/JJ XFL/NN draft/NN Saturday/NN ./.
 
 (ROOT
   (S (CC But)
@@ -73,7 +83,7 @@ prep_among(weren't-16, selections-19)
 cc(did-4, But-1)
 amod(wrestling-3, pro-2)
 nsubj(did-4, wrestling-3)
-xsubj(leave-7, wrestling-3)
+nsubj(leave-7, wrestling-3)
 root(ROOT-0, did-4)
 advmod(did-4, manage-5)
 aux(leave-7, to-6)
@@ -85,6 +95,8 @@ amod(Saturday-15, first-12)
 nn(Saturday-15, XFL-13)
 nn(Saturday-15, draft-14)
 prep_on(leave-7, Saturday-15)
+
+After/IN all/DT ,/, Austin/NNP 's/POS mass-produced/JJ signature/NN was/VBD right/RB there/RB on/IN a/DT league/NN credential/NN ./.
 
 (ROOT
   (S
@@ -110,6 +122,8 @@ advmod(was-8, there-10)
 det(credential-14, a-12)
 nn(credential-14, league-13)
 prep_on(was-8, credential-14)
+
+The/DT new/JJ league/NN ,/, a/DT joint/JJ venture/NN of/IN the/DT World/NNP Wrestling/NNP Federation/NNP and/CC NBC/NNP ,/, features/VBZ some/DT former/JJ NFL/NNP first-rounders/NNS while/IN promising/VBG a/DT no/RB holds-barred/JJ approach/NN and/CC off-the-mat/JJ rules/NNS when/WRB it/PRP begins/VBZ in/IN February/NNP ./.
 
 (ROOT
   (S
@@ -174,6 +188,8 @@ advmod(begins-32, when-30)
 nsubj(begins-32, it-31)
 rcmod(rules-29, begins-32)
 prep_in(begins-32, February-34)
+
+A/DT black/JJ football/NN trimmed/VBN in/IN red/JJ and/CC white/JJ ,/, no/DT fair/NN catches/NNS on/IN punts/NNS ,/, no/DT quarterback/NN -in-the-grasp/JJ rule/NN ,/, miked/VBD huddles/NNS and/CC cameras/NNS everywhere/RB _/RB on/IN the/DT sideline/NN ,/, in/IN locker/NN rooms/NNS and/CC in/IN the/DT helmets/NNS of/IN selected/VBN players/NNS ./.
 
 (ROOT
   (S
@@ -246,6 +262,8 @@ det(helmets-37, the-36)
 prep_in(miked-21'', helmets-37)
 amod(players-40, selected-39)
 prep_of(helmets-37, players-40)
+
+``We/PRP 're/VBP going/VBG for/IN something/NN that/IN millions/NNS of/IN kids/NNS played/VBN in/IN the/DT school/NN yard/NN ,/, something/VBG that/IN resonates/NNS with/IN people/NNS who/WP 've/VBP enjoyed/VBN the/DT game/NN on/IN all/DT different/JJ levels/NNS ,''/IN league/NN president/NN Basil/NNP DeVito/NNP said/VBD after/IN helping/VBG conduct/NN Saturday/NN 's/POS first/JJ 10/CD rounds/NNS of/IN the/DT draft/NN before/IN about/IN 100/CD fans/NNS at/IN a/DT hotel/NN near/IN O'Hare/NNP International/NNP Airport/NNP ./.
 
 (ROOT
   (S
@@ -349,6 +367,8 @@ nn(Airport-57, O'Hare-55)
 nn(Airport-57, International-56)
 prep_near(hotel-53, Airport-57)
 
+``It/NNP 's/POS simple/JJ ,''/NN DeVito/NNP said/VBD of/IN his/PRP$ league/NN 's/POS premise/NN ./.
+
 (ROOT
   (S
     (NP
@@ -371,6 +391,8 @@ poss(league-9, his-8)
 poss(premise-11, league-9)
 prep_of(said-6, premise-11)
 
+``Nobody/NNP owns/VBZ it/PRP ./.
+
 (ROOT
   (S
     (NP (NNP ``Nobody))
@@ -382,6 +404,8 @@ nsubj(owns-2, ``Nobody-1)
 root(ROOT-0, owns-2)
 dobj(owns-2, it-3)
 
+Nobody/RB owns/VBZ football/NN .''/.
+
 (ROOT
   (SINV
     (ADVP (RB Nobody))
@@ -392,6 +416,8 @@ advmod(owns-2, Nobody-1)
 root(ROOT-0, owns-2)
 nsubj(owns-2, football-3)
 punct(football-3, .''-4)
+
+According/VBG to/TO the/DT league/NN 's/POS Web/NNP site/NN ,/, a/DT quarterback/NN 's/POS base/NN salary/NN for/IN the/DT 10-game/JJ schedule/NN will/MD be/VB about/IN $50,000/CD ,/, but/CC players/NNS will/MD be/VB able/JJ to/TO collect/VB $2,500/CD bonuses/NNS for/IN each/DT win/NN ./.
 
 (ROOT
   (S
@@ -444,7 +470,7 @@ aux(be-19, will-18)
 root(ROOT-0, be-19)
 prep_about(be-19, $50,000-21)
 nsubj(able-27, players-24)
-xsubj(collect-29, players-24)
+nsubj(collect-29, players-24)
 aux(able-27, will-25)
 cop(able-27, be-26)
 conj_but(be-19, able-27)
@@ -454,6 +480,8 @@ num(bonuses-31, $2,500-30)
 dobj(collect-29, bonuses-31)
 det(win-34, each-33)
 prep_for(bonuses-31, win-34)
+
+It/PRP 's/VBZ incentive/JJ pay/NN and/CC that/IN 's/POS fine/NN with/IN at/IN least/JJS one/CD of/IN the/DT league/NN 's/POS coaches/NNS ./.
 
 (ROOT
   (S
@@ -492,6 +520,8 @@ det(league-15, the-14)
 poss(coaches-17, league-15)
 prep_of(one-12, coaches-17)
 
+``We/RB have/VBP no/DT negotiations/NNS ,/, you/PRP have/VBP no/DT owners/NNS in/IN there/RB ./.
+
 (ROOT
   (S
     (S
@@ -517,6 +547,8 @@ neg(owners-9, no-8)
 dobj(have-7, owners-9)
 prep(owners-9, in-10)
 pobj(in-10, there-11)
+
+You/PRP have/VBP no/DT owners/NNS in/IN there/RB in/IN who/WP are/VBP going/VBG to/TO disrupt/VB the/DT progress/NN of/IN the/DT league/NN because/IN it/PRP 's/VBZ centrally/RB controlled/JJ ,''/NN said/VBD Chicago/NNP Enforcers/NNP coach/NN Ron/NNP Meyer/NNP ,/, former/JJ head/NN coach/NN of/IN the/DT Patriots/NNPS and/CC Colts/NNP ,/, who/WP took/VBD the/DT job/NN when/WRB Chicago/NNP favorite/JJ Dick/NNP Butkus/NNP resigned/VBD to/TO take/VB a/DT job/NN in/IN the/DT league/NN office/NN ./.
 
 (ROOT
   (SINV
@@ -587,7 +619,7 @@ dobj(have-2, owners-4)
 prep(owners-4, in-5)
 pobj(in-5, there-6)
 nsubj(going-10, who-8)
-xsubj(disrupt-12, who-8)
+nsubj(disrupt-12, who-8)
 aux(going-10, are-9)
 prepc_in(owners-4, going-10)
 aux(disrupt-12, to-11)
@@ -621,7 +653,7 @@ det(job-43, the-42)
 dobj(took-41, job-43)
 advmod(resigned-49, when-44)
 nsubj(resigned-49, Chicago-45)
-xsubj(take-51, Chicago-45)
+nsubj(take-51, Chicago-45)
 amod(Butkus-48, favorite-46)
 nn(Butkus-48, Dick-47)
 dep(Chicago-45, Butkus-48)
@@ -633,6 +665,8 @@ dobj(take-51, job-53)
 det(office-57, the-55)
 nn(office-57, league-56)
 prep_in(job-53, office-57)
+
+``I/NNP 've/VBP been/VBN in/IN a/DT couple/NN of/IN start-up/JJ situations/NNS and/CC I/PRP know/VBP the/DT pitfalls/NNS ,''/, Meyer/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -673,6 +707,8 @@ punct(Meyer-16, ,''-15)
 prep(pitfalls-14, Meyer-16)
 ccomp(know-12, said-17)
 
+``It/NNP is/VBZ a/DT work/NN in/IN progress/NN ,/, certainly/RB ./.
+
 (ROOT
   (S
     (NP (NNP ``It))
@@ -691,6 +727,8 @@ det(work-4, a-3)
 root(ROOT-0, work-4)
 prep_in(work-4, progress-6)
 advmod(work-4, certainly-8)
+
+But/CC we/PRP 're/VBP light/JJ years/NNS ahead/RB of/IN what/WP I/PRP envisioned/VBD .''/.
 
 (ROOT
   (S (CC But)
@@ -716,6 +754,8 @@ dobj(envisioned-10, what-8)
 nsubj(envisioned-10, I-9)
 prepc_ahead_of(years-5, envisioned-10)
 punct(years-5, .''-11)
+
+DeVito/NNP said/VBD the/DT league/NN had/VBD sold/VBN 120,000/CD season/NN tickets/VBZ so/RB far/RB and/CC hopes/NNS to/TO average/JJ 25,000/CD fans/NNS a/DT game/NN ./.
 
 (ROOT
   (S
@@ -760,6 +800,8 @@ det(game-19, a-18)
 dep(sold-6, game-19)
 conj_and(tickets-9, game-19)
 
+``Is/IN it/PRP going/VBG to/TO be/VB perfect/JJ ?/.
+
 (ROOT
   (FRAG
     (PP (IN ``Is)
@@ -774,11 +816,13 @@ conj_and(tickets-9, game-19)
 
 root(ROOT-0, ``Is-1)
 nsubj(going-3, it-2)
-xsubj(perfect-6, it-2)
+nsubj(perfect-6, it-2)
 pcomp(``Is-1, going-3)
 aux(perfect-6, to-4)
 cop(perfect-6, be-5)
 xcomp(going-3, perfect-6)
+
+No/DT ./.
 
 (ROOT
   (FRAG
@@ -786,6 +830,8 @@ xcomp(going-3, perfect-6)
     (. .)))
 
 root(ROOT-0, No-1)
+
+Nothing/NN is/VBZ ,''/DT LA/NNP Xtreme/NNP coach/NN Al/NNP Luginbill/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -809,6 +855,8 @@ nn(Luginbill-8, Al-7)
 nsubj(said-9, Luginbill-8)
 rcmod(coach-6, said-9)
 
+``But/NN we/PRP 're/VBP going/VBG to/TO shock/VB some/DT people/NNS .''/.
+
 (ROOT
   (S
     (NP (NN ``But))
@@ -822,9 +870,9 @@ rcmod(coach-6, said-9)
     (. .'')))
 
 nsubj(going-4, ``But-1)
-xsubj(shock-6, ``But-1)
+nsubj(shock-6, ``But-1)
 nsubj(going-4, we-2)
-xsubj(shock-6, we-2)
+nsubj(shock-6, we-2)
 aux(going-4, 're-3)
 root(ROOT-0, going-4)
 aux(shock-6, to-5)
@@ -832,6 +880,8 @@ xcomp(going-4, shock-6)
 det(people-8, some-7)
 dobj(shock-6, people-8)
 punct(going-4, .''-9)
+
+Before/IN the/DT draft/NN started/VBD ,/, the/DT eight/JJ teams/NNS were/VBD allowed/VBN to/TO protect/VB picks/NNS from/IN three/CD colleges/NNS each/DT ./.
 
 (ROOT
   (S
@@ -860,7 +910,7 @@ advcl(allowed-10, started-4)
 det(teams-8, the-6)
 amod(teams-8, eight-7)
 nsubjpass(allowed-10, teams-8)
-xsubj(protect-12, teams-8)
+nsubj(protect-12, teams-8)
 auxpass(allowed-10, were-9)
 root(ROOT-0, allowed-10)
 aux(protect-12, to-11)
@@ -869,6 +919,8 @@ dobj(protect-12, picks-13)
 num(colleges-16, three-15)
 prep_from(protect-12, colleges-16)
 dep(colleges-16, each-17)
+
+Among/IN those/DT designated/VBN were/VBD former/JJ NFL/NNP first-rounders/NNS Mike/NNP Croel/NNP ,/, Alvin/NNP Harper/NNP ,/, Tommy/NNP Maddox/NNP and/CC Marcus/NNP Nash/NNP ./.
 
 (ROOT
   (SINV
@@ -906,6 +958,8 @@ nn(Nash-18, Marcus-17)
 appos(Croel-9, Nash-18)
 conj_and(Harper-12, Nash-18)
 
+Once/IN the/DT draft/NN began/NN ,/, five/CD quarterbacks/NNS were/VBD the/DT first/JJ players/NNS chosen/VBN ./.
+
 (ROOT
   (S
     (PP (IN Once)
@@ -928,6 +982,8 @@ det(players-11, the-9)
 amod(players-11, first-10)
 root(ROOT-0, players-11)
 vmod(players-11, chosen-12)
+
+Ex-Maryland/NNP quarterback/NNP Scott/NNP Milanovich/NNP had/VBD the/DT distinction/NN of/IN being/VBG the/DT first/JJ XFL/NN player/NN selected/VBN _/IN by/IN the/DT Xtreme/NNP ./.
 
 (ROOT
   (S
@@ -961,6 +1017,8 @@ amod(player-13, selected-14)
 dep(selected-14, _-15)
 det(Xtreme-18, the-17)
 prep_by(had-5, Xtreme-18)
+
+The/DT Enforcers/NNS ,/, with/IN the/DT last/JJ pick/NN of/IN the/DT first/JJ round/NN ,/, nabbed/VBD running/VBG back/RB John/NNP Avery/NNP ,/, a/DT first-round/NN pick/NN of/IN the/DT Miami/NNP Dolphins/NNP in/IN 1998/CD ./.
 
 (ROOT
   (S
@@ -1009,6 +1067,8 @@ det(Dolphins-25, the-23)
 nn(Dolphins-25, Miami-24)
 prep_of(pick-21, Dolphins-25)
 prep_in(Dolphins-25, 1998-27)
+
+And/CC near/IN the/DT end/NN the/DT first/JJ day/NN _/IN the/DT draft/JJ continues/NNS Sunday/NNP and/CC Monday/NNP _/NNP quarterback/NNP Jim/NNP Druckenmiller/NNP ,/, a/DT first-round/NN choice/NN of/IN the/DT San/NNP Francisco/NNP 49ers/NNS in/IN 1997/CD ,/, was/VBD selected/VBN by/IN the/DT Maniax/NNP with/IN the/DT 78th/JJ selection/NN ./.
 
 (ROOT
   (S (CC And)
@@ -1071,6 +1131,8 @@ det(selection-39, the-37)
 amod(selection-39, 78th-38)
 prep_with(selected-32, selection-39)
 
+Avery/NNP ,/, Druckenmiller/NNP ,/, running/VBG back/RB Vaughn/NNP Dunbar/NNP and/CC linebacker/NN Craig/NNP Powell/NNP ,/, who/WP both/DT went/VBD to/TO the/DT San/NNP Francisco/NNP Demons/NNPS ,/, were/VBD all/DT NFL/NNP first-round/NN selections/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -1119,6 +1181,8 @@ nn(selections-27, NFL-25)
 nn(selections-27, first-round-26)
 root(ROOT-0, selections-27)
 
+``Interestingly/RB ,/, all/PDT the/DT coaches/NNS tell/NN me/PRP they/PRP got/VBD exactly/RB the/DT players/NNS they/PRP wanted/VBD ,''/DT DeVito/NNP said/VBD ./.
+
 (ROOT
   (S
     (ADVP (RB ``Interestingly))
@@ -1157,6 +1221,8 @@ rcmod(players-12, wanted-14)
 det(DeVito-16, ,''-15)
 nsubj(said-17, DeVito-16)
 ccomp(wanted-14, said-17)
+
+``And/IN since/IN they/PRP are/VBP still/RB undefeated/JJ ,/, I/PRP guess/VBP that/IN 's/POS OK/NNP .''/.
 
 (ROOT
   (S

@@ -1,3 +1,5 @@
+NYT20001024.2203.0349/NNP NEWS/NNP STORY/NNP 2000-10-24/CD 22:13:10/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001024.2203.0349) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(22:13:10-5, 2000-10-24-4)
 dep(STORY-3, 22:13:10-5)
+
+A5057/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-COMPAQ-EARNINGS-NYT/NNP &LR/NNP ;/: 10-24/CD 0537/CD
 
 (ROOT
   (NP
@@ -29,10 +33,14 @@ dep(&Cx1f-2, &LR-8)
 number(0537-11, 10-24-10)
 dep(&LR-8, 0537-11)
 
+BC-COMPAQ-EARNINGS-NYT/NNP
+
 (ROOT
   (NP (NNP BC-COMPAQ-EARNINGS-NYT)))
 
 root(ROOT-0, BC-COMPAQ-EARNINGS-NYT-1)
+
+COMPAQ/NNP BEATS/NNP PROFIT/NNP AND/NNP SALES/NNP FORECASTS/.
 
 (ROOT
   (NP (NNP COMPAQ) (NNP BEATS) (NNP PROFIT) (NNP AND) (NNP SALES) (. FORECASTS)))
@@ -43,6 +51,8 @@ nn(SALES-5, PROFIT-3)
 nn(SALES-5, AND-4)
 root(ROOT-0, SALES-5)
 punct(SALES-5, FORECASTS-6)
+
+&UR/NNS ;/: By/NNP BARNABY/NNP J/NNP ./.
 
 (ROOT
   (NP
@@ -56,6 +66,8 @@ root(ROOT-0, &UR-1)
 prep(&UR-1, By-3)
 nn(J-5, BARNABY-4)
 dep(By-3, J-5)
+
+FEDER/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -82,6 +94,8 @@ dep(&QL-6, &UR-8)
 dep(&LR-2, c.2000-10)
 appos(c.2000-10, N.Y-11)
 
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -98,6 +112,8 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
+
+Compaq/NNP Computer/NNP reported/VBD earnings/NNS and/CC sales/NNS that/IN beat/NN Wall/NNP Street/NNP 's/POS expectations/NNS Tuesday/NNP ,/, bolstering/VBG arguments/NNS that/IN the/DT company/NN is/VBZ rebounding/VBG from/IN problems/NNS that/WDT had/VBD hurt/VBN its/PRP$ performance/NN the/DT last/JJ two/CD years/NNS ./.
 
 (ROOT
   (S
@@ -161,6 +177,8 @@ amod(years-32, last-30)
 num(years-32, two-31)
 tmod(rebounding-21, years-32)
 
+Compaq/NNP said/VBD it/PRP netted/VBD $550/CD million/CD ,/, or/CC 31/CD cents/NNS a/DT diluted/JJ share/NN ,/, in/IN the/DT quarter/NN ended/VBN Sept/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Compaq))
@@ -202,6 +220,8 @@ prep_in(netted-4, quarter-17)
 vmod(quarter-17, ended-18)
 dobj(ended-18, Sept-19)
 
+30/CD ,/, a/DT leap/NN of/IN 23/CD cents/NNS a/DT share/NN ,/, or/CC 288/CD percent/JJ ,/, from/IN the/DT similar/JJ period/NN in/IN 1999/CD ./.
+
 (ROOT
   (NP
     (NP (CD 30))
@@ -240,6 +260,8 @@ det(period-18, the-16)
 amod(period-18, similar-17)
 prep_from(30-1, period-18)
 prep_in(period-18, 1999-20)
+
+About/DT $25/CD million/CD ,/, or/CC a/DT penny/JJ a/DT share/NN ,/, came/VBD from/IN investment/NN income/NN rather/RB than/IN operations/NNS ,/, but/CC after/IN discounting/VBG that/DT boost/NN ,/, Compaq/NNP still/RB beat/VBD the/DT average/NN of/IN analysts/NNS '/POS projections/NNS by/IN a/DT penny/JJ a/DT share/NN ./.
 
 (ROOT
   (S
@@ -310,6 +332,8 @@ prep_by(beat-27, penny-36)
 det(share-38, a-37)
 dep(penny-36, share-38)
 
+Compaq/NNP ,/, which/WDT is/VBZ based/VBN in/IN Houston/NNP ,/, reported/VBD worldwide/JJ revenue/NN of/IN $11.2/CD billion/CD for/IN the/DT quarter/NN ,/, an/DT increase/NN of/IN 22/CD percent/NN over/IN the/DT previous/JJ year/NN 's/POS period/NN ./.
+
 (ROOT
   (S
     (NP
@@ -364,6 +388,8 @@ det(year-27, the-25)
 amod(year-27, previous-26)
 poss(period-29, year-27)
 prep_over(percent-23, period-29)
+
+Compaq/NNP said/VBD that/IN revenues/NNS would/MD have/VB grown/VBN 26/CD percent/JJ but/CC for/IN the/DT strength/NN of/IN the/DT dollar/NN ,/, which/WDT reduced/JJ the/DT value/NN of/IN overseas/JJ sales/NNS compared/VBN with/IN a/DT year/NN ago/RB ./.
 
 (ROOT
   (S
@@ -427,6 +453,8 @@ det(year-28, a-27)
 npadvmod(ago-29, year-28)
 pcomp(sales-24, ago-29)
 
+``Our/PRP$ results/NNS clearly/RB demonstrate/VBP our/PRP$ tremendous/NN momentum/NN in/IN the/DT marketplace/NN ,''/NN said/VBD Michael/NNP Capellas/NNP ,/, chairman/NN and/CC chief/JJ executive/NN ./.
+
 (ROOT
   (S
     (NP (PRP$ ``Our) (NNS results))
@@ -466,6 +494,8 @@ amod(executive-19, chief-18)
 dobj(said-12, executive-19)
 conj_and(Capellas-14, executive-19)
 
+``We/PRP 're/VBP on/IN a/DT bit/NN of/IN a/DT roll/NN .''/.
+
 (ROOT
   (S
     (NP (PRP ``We))
@@ -484,6 +514,8 @@ prep_on('re-2, bit-5)
 det(roll-8, a-7)
 prep_of(bit-5, roll-8)
 punct('re-2, .''-9)
+
+Capellas/NNP noted/VBD that/IN the/DT strong/JJ growth/NN had/VBD come/VBN from/IN every/JJ region/NN of/IN the/DT world/NN ./.
 
 (ROOT
   (S
@@ -513,6 +545,8 @@ amod(region-11, every-10)
 prep_from(come-8, region-11)
 det(world-14, the-13)
 prep_of(region-11, world-14)
+
+He/PRP also/RB expressed/VBD confidence/NN that/IN Compaq/NNP would/MD meet/VB its/PRP$ previous/JJ projections/NNS of/IN 18/CD percent/JJ revenue/NN growth/NN in/IN the/DT current/JJ quarter/NN and/CC 40/CD percent/JJ earnings/NNS growth/NN in/IN 2001/CD ./.
 
 (ROOT
   (S
@@ -566,6 +600,8 @@ conj_and(growth-16, earnings-24)
 dep(earnings-24, growth-25)
 prep_in(meet-8, 2001-27)
 
+Analysts/NNS were/VBD pleased/VBN ,/, if/IN not/RB completely/RB persuaded/VBN ,/, by/IN the/DT positive/JJ report/NN ./.
+
 (ROOT
   (S
     (NP (NNS Analysts))
@@ -590,6 +626,8 @@ conj_negcc(pleased-3, persuaded-8)
 det(report-13, the-11)
 amod(report-13, positive-12)
 prep_by(persuaded-8, report-13)
+
+While/RB Compaq/NNP reported/VBD strong/JJ overall/JJ growth/NN in/IN its/PRP$ server/NN business/NN ,/, several/JJ observers/NNS noted/VBD that/IN the/DT 5/CD percent/JJ growth/NN in/IN the/DT Unix/NNP server/NN segment/NN was/VBD well/RB below/IN the/DT industry/NN average/NN ./.
 
 (ROOT
   (S
@@ -644,6 +682,8 @@ det(average-30, the-28)
 nn(average-30, industry-29)
 prep_below(was-25, average-30)
 
+Similarly/RB ,/, the/DT 9/CD percent/JJ growth/NN in/IN the/DT data/NN storage/NN business/NN was/VBD an/DT improvement/NN on/IN past/JJ quarters/NNS ,/, but/CC below/VB the/DT growth/NN rate/NN of/IN competitors/NNS ,/, like/IN EMC/NNP ./.
+
 (ROOT
   (S
     (ADVP (RB Similarly))
@@ -694,6 +734,8 @@ dobj(below-20, rate-23)
 prep_of(rate-23, competitors-25)
 prep_like(below-20, EMC-28)
 
+Compaq/NNP is/VBZ the/DT world/NN 's/POS leading/JJ maker/NN of/IN personal/JJ computers/NNS ,/, and/CC its/PRP$ PC/NNP business/NN was/VBD stronger/JJR than/IN many/JJ analysts/NNS had/VBD projected/VBN ./.
+
 (ROOT
   (S
     (S
@@ -737,6 +779,8 @@ amod(analysts-20, many-19)
 nsubj(projected-22, analysts-20)
 aux(projected-22, had-21)
 ccomp(stronger-17, projected-22)
+
+The/DT commercial/JJ PC/NNP unit/NN had/VBD revenues/NNS of/IN $3.5/CD billion/CD ,/, up/RB 28/CD percent/NN from/IN a/DT year/NN ago/RB ,/, and/CC its/PRP$ operating/NN income/NN was/VBD $133/CD million/CD ,/, compared/VBN with/IN a/DT loss/NN of/IN $169/CD million/CD a/DT year/NN ago/RB ./.
 
 (ROOT
   (S
@@ -807,6 +851,8 @@ det(year-35, a-34)
 npadvmod(ago-36, year-35)
 advmod(million-33, ago-36)
 
+The/DT consumer/NN PC/NNP unit/NN had/VBD revenue/NN of/IN $2.1/CD billion/CD ,/, an/DT increase/NN of/IN 45/CD percent/NN over/IN the/DT year-ago/JJ period/NN ,/, although/IN a/DT softening/NN market/NN and/CC pricing/VBG pressures/NNS cut/VBD operating/VBG income/NN 3/CD percent/JJ to/TO $63/CD million/CD ./.
+
 (ROOT
   (S
     (NP (DT The) (NN consumer) (NNP PC) (NN unit))
@@ -870,6 +916,8 @@ amod(income-30, percent-32)
 number(million-35, $63-34)
 prep_to(cut-28, million-35)
 
+Perhaps/RB the/DT biggest/JJS continuing/NN weakness/NN was/VBD in/IN Compaq/NNP 's/POS services/NNS business/NN ./.
+
 (ROOT
   (S
     (NP (RB Perhaps) (DT the) (JJS biggest) (NN continuing) (NN weakness))
@@ -889,6 +937,8 @@ root(ROOT-0, was-6)
 poss(business-11, Compaq-8)
 nn(business-11, services-10)
 prep_in(was-6, business-11)
+
+Revenues/NNP attributed/VBD to/TO Compaq/NNP 's/POS 40,000/CD consultants/NNS fell/VBD 2/CD percent/NN ,/, to/TO $1.7/CD billion/CD ,/, and/CC operating/VBG income/NN dropped/VBD 16/CD percent/NN ,/, to/TO $254/CD million/CD ./.
 
 (ROOT
   (S
@@ -938,6 +988,8 @@ dobj(dropped-19, percent-21)
 number(million-25, $254-24)
 prep_to(dropped-19, million-25)
 
+Capellas/NNP said/VBD that/IN improving/VBG that/DT group/NN 's/POS performance/NN was/VBD a/DT high/JJ priority/NN ./.
+
 (ROOT
   (S
     (NP (NNP Capellas))
@@ -964,6 +1016,8 @@ cop(priority-12, was-9)
 det(priority-12, a-10)
 amod(priority-12, high-11)
 ccomp(said-2, priority-12)
+
+Over/RB all/RB ,/, though/RB ,/, Compaq/NNP enthusiasts/VBZ like/IN Kurtis/NNP R./NNP King/NNP ,/, an/DT analyst/NN at/IN Banc/NNP of/IN America/NNP Securities/NNPS who/WP rates/NNS the/DT company/NN a/DT ``strong/NN buy/VB ,''/PRP said/VBD the/DT quarter/NN validated/VBN their/PRP$ bullishness/NN ./.
 
 (ROOT
   (S
@@ -1031,6 +1085,8 @@ vmod(quarter-30, validated-31)
 poss(bullishness-33, their-32)
 dobj(validated-31, bullishness-33)
 
+And/CC even/RB skeptics/NNS who/WP were/VBD not/RB advising/VBG clients/NNS to/TO buy/VB the/DT stock/NN ,/, like/IN Charles/NNP R./NNP Wolf/NNP at/IN UBS/NNP Warburg/NNP ,/, called/VBD the/DT quarter/NN a/DT good/JJ one/NN ./.
+
 (ROOT
   (S (CC And)
     (NP
@@ -1060,12 +1116,12 @@ dobj(validated-31, bullishness-33)
 cc(called-22, And-1)
 advmod(skeptics-3, even-2)
 nsubj(advising-7, skeptics-3)
-xsubj(buy-10, skeptics-3)
 nsubj(called-22, skeptics-3)
 aux(advising-7, were-5)
 neg(advising-7, not-6)
 rcmod(skeptics-3, advising-7)
 dobj(advising-7, clients-8)
+nsubj(buy-10, clients-8)
 aux(buy-10, to-9)
 xcomp(advising-7, buy-10)
 det(stock-12, the-11)
@@ -1081,6 +1137,8 @@ iobj(called-22, quarter-24)
 det(one-27, a-25)
 amod(one-27, good-26)
 dobj(called-22, one-27)
+
+``They/PRP 're/VBP turning/VBG ,/, but/CC the/DT turn/NN isn't/NN completed/VBD yet/RB ,''/, Wolf/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -1112,6 +1170,8 @@ punct(said-13, ,''-11)
 nsubj(said-13, Wolf-12)
 ccomp(completed-9, said-13)
 
+The/DT results/NNS were/VBD released/VBN after/IN the/DT end/NN of/IN trading/NN on/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP Tuesday/NNP ./.
+
 (ROOT
   (S
     (NP (DT The) (NNS results))
@@ -1140,6 +1200,8 @@ nn(Tuesday-16, Stock-14)
 nn(Tuesday-16, Exchange-15)
 prep_on(released-4, Tuesday-16)
 
+Compaq/NNP 's/POS shares/NNS closed/VBD up/RB 70/CD cents/NNS ,/, to/TO $28.40/VB ,/, on/IN the/DT Big/NNP Board/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -1159,7 +1221,7 @@ prep_on(released-4, Tuesday-16)
 
 poss(shares-3, Compaq-1)
 nsubj(closed-4, shares-3)
-xsubj($28.40-10, shares-3)
+nsubj($28.40-10, shares-3)
 root(ROOT-0, closed-4)
 advmod(closed-4, up-5)
 num(cents-7, 70-6)
@@ -1169,6 +1231,8 @@ xcomp(closed-4, $28.40-10)
 det(Board-15, the-13)
 nn(Board-15, Big-14)
 prep_on(closed-4, Board-15)
+
+NYT-10-24-00/CD 2213EDT/CD
 
 (ROOT
   (FRAG

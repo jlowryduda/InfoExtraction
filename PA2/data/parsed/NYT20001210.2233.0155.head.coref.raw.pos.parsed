@@ -1,3 +1,5 @@
+NYT20001210.2233.0155/CD NEWS/NNP STORY/NNP 2000-12-10/CD 22:38:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001210.2233.0155))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001210.2233.0155-1, STORY-3)
 num(22:38:00-5, 2000-12-10-4)
 dep(NYT20001210.2233.0155-1, 22:38:00-5)
+
+A5816/CD &Cx1f/NN ;/: taf-z/NN u/IN a/DT BC-OBIT-GRESSER-NYT/JJ &LR/NN ;/: 12-10/CD 0288/CD
 
 (ROOT
   (FRAG
@@ -31,10 +35,14 @@ prep_u(taf-z-4, &LR-8)
 num(0288-11, 12-10-10)
 dep(&Cx1f-2, 0288-11)
 
+BC-OBIT-GRESSER-NYT/NNP
+
 (ROOT
   (NP (NNP BC-OBIT-GRESSER-NYT)))
 
 root(ROOT-0, BC-OBIT-GRESSER-NYT-1)
+
+GISELA/NNP KAHN/NNP GRESSER/NNP ,/, 94/CD ,/, NATIONAL/NNP CHESS/NNP CHAMPION/NNP
 
 (ROOT
   (FRAG
@@ -53,52 +61,58 @@ nn(CHAMPION-9, NATIONAL-7)
 nn(CHAMPION-9, CHESS-8)
 appos(GRESSER-3, CHAMPION-9)
 
+&UR/NNS ;/: [ATTN/NNP :/: Mich/NNP .]/CD &LR/NN ;/: &QL/NNP ;/: &UR/NNS ;/: By/NNP EUN/NNP LEE/NNP KOH/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
 (ROOT
-  (S
-    (VP
+  (NP
+    (NP (NNS &UR))
+    (: ;)
+    (NP
+      (NP (NNP [ATTN))
+      (: :)
+      (NP (NNP Mich) (CD .]) (NN &LR)))
+    (: ;)
+    (NP
+      (NP (NNP &QL))
+      (: ;)
       (NP
         (NP (NNS &UR))
         (: ;)
-        (NP (NNP (ATTN))
-        (: :)
-        (NP (NNP Mich) (CD .)) (NN &LR))
-        (: ;)
-        (NP (NNP &QL))
-        (: ;)
-        (NP
-          (NP (NNS &UR))
-          (: ;)
-          (PP (NNP By)
-            (NP (NNP EUN) (NNP LEE) (NNP KOH) (NNP &LR))))
-        (: ;)
-        (NP (NNP &QC))
-        (: ;)
-        (NP (NNP &QL))
-        (: ;)
-        (NP (NNS &UR))
-        (: ;)
-        (NP
-          (NP (CD c.2000))
-          (NP (NNP N.Y)))))
+        (PP (NNP By)
+          (NP (NNP EUN) (NNP LEE) (NNP KOH) (NNP &LR)))))
+    (: ;)
+    (NP
+      (NP (NNP &QC))
+      (: ;)
+      (NP (NNP &QL)))
+    (: ;)
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (NP
+        (NP (CD c.2000))
+        (NP (NNP N.Y))))
     (. .)))
 
 root(ROOT-0, &UR-1)
-dep(&UR-1, (ATTN-3)
+dep(&UR-1, [ATTN-3)
 nn(&LR-7, Mich-5)
-num(&LR-7, .)-6)
-dep(&UR-1, &LR-7)
+num(&LR-7, .]-6)
+dep([ATTN-3, &LR-7)
 dep(&UR-1, &QL-9)
-dep(&UR-1, &UR-11)
+dep(&QL-9, &UR-11)
 prep(&UR-11, By-13)
 nn(&LR-17, EUN-14)
 nn(&LR-17, LEE-15)
 nn(&LR-17, KOH-16)
 dep(By-13, &LR-17)
 dep(&UR-1, &QC-19)
-dep(&UR-1, &QL-21)
+dep(&QC-19, &QL-21)
 dep(&UR-1, &UR-23)
-dep(&UR-1, c.2000-25)
+dep(&UR-23, c.2000-25)
 appos(c.2000-25, N.Y-26)
+
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -116,6 +130,8 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
+
+Gisela/NNP Kahn/NNP Gresser/NNP ,/, a/DT pioneer/NN in/IN women/NNP 's/POS chess/NN and/CC a/DT nine-time/JJ national/JJ champion/NN ,/, died/VBD Dec/NNP ./.
 
 (ROOT
   (S
@@ -151,6 +167,8 @@ conj_and(chess-10, champion-15)
 root(ROOT-0, died-17)
 dobj(died-17, Dec-18)
 
+4/DT in/IN her/PRP$ New/NNP York/NNP home/NN ./.
+
 (ROOT
   (NP
     (NP (DT 4))
@@ -164,6 +182,8 @@ nn(home-6, New-4)
 nn(home-6, York-5)
 prep_in(4-1, home-6)
 
+She/NNP was/VBD 94/CD ./.
+
 (ROOT
   (S
     (NP (NNP She))
@@ -174,6 +194,8 @@ prep_in(4-1, home-6)
 nsubj(94-3, She-1)
 cop(94-3, was-2)
 root(ROOT-0, 94-3)
+
+Gresser/NNP ,/, who/WP was/VBD born/NN in/IN 1906/CD in/IN Detroit/NNP ,/, taught/VBD herself/PRP to/TO play/VB chess/NN using/VBG a/DT book/NN that/IN a/DT fellow/JJ passenger/NN gave/VBD her/PRP$ on/IN a/DT cruise/NN in/IN 1939/CD ./.
 
 (ROOT
   (S
@@ -218,6 +240,7 @@ rcmod(Gresser-1, born-5)
 prep_in(born-5, 1906-7)
 prep_in(born-5, Detroit-9)
 root(ROOT-0, taught-11)
+dobj(taught-11, herself-12)
 nsubj(play-14, herself-12)
 aux(play-14, to-13)
 xcomp(taught-11, play-14)
@@ -234,6 +257,8 @@ dobj(gave-23, her-24)
 det(cruise-27, a-26)
 prep_on(gave-23, cruise-27)
 prep_in(gave-23, 1939-29)
+
+She/NNP was/VBD at/IN the/DT forefront/NN of/IN women/NNP 's/POS chess/NN in/IN the/DT United/NNP States/NNPS for/IN more/JJR than/IN three/CD decades/NNS ./.
 
 (ROOT
   (S
@@ -268,6 +293,8 @@ mwe(than-16, more-15)
 quantmod(three-17, than-16)
 num(decades-18, three-17)
 prep_for(chess-9, decades-18)
+
+She/NNP and/CC a/DT handful/NN of/IN other/JJ women/NNS ,/, including/VBG Sonja/NNP Graf/NNP Stevenson/NNP ,/, Mary/NNP Bain/NNP and/CC Mona/NNP May/NNP Karff/NNP ,/, dominated/VBD tournament/NN competition/NN from/IN the/DT 1940s/NNS to/TO the/DT 1970s/NNS ./.
 
 (ROOT
   (S
@@ -320,6 +347,8 @@ prep_from(dominated-21, 1940s-26)
 det(1970s-29, the-28)
 prep_to(dominated-21, 1970s-29)
 
+Gresser/NNP entered/VBD her/PRP$ first/JJ chess/NN competition/NN in/IN 1940/CD ./.
+
 (ROOT
   (S
     (NP (NNP Gresser))
@@ -336,6 +365,8 @@ amod(competition-6, first-4)
 nn(competition-6, chess-5)
 dobj(entered-2, competition-6)
 prep_in(entered-2, 1940-8)
+
+In/IN 1944/CD ,/, she/PRP won/VBP her/PRP$ first/JJ U.S./NNP Women/NNP 's/POS Chess/NNP Championship/NNP ./.
 
 (ROOT
   (S
@@ -360,6 +391,8 @@ nsubj(Championship-12, U.S.-8)
 poss(Championship-12, Women-9)
 nn(Championship-12, Chess-11)
 xcomp(won-5, Championship-12)
+
+She/NNP went/VBD on/IN to/TO win/VB the/DT championship/NN eight/VBD more/RBR times/NNS ,/, and/CC became/VBD the/DT first/JJ woman/NN in/IN the/DT United/NNP States/NNPS to/TO earn/VB a/DT master/NN 's/POS rating/NN ./.
 
 (ROOT
   (S
@@ -393,7 +426,8 @@ xcomp(won-5, Championship-12)
     (. .)))
 
 nsubj(went-2, She-1)
-xsubj(win-5, She-1)
+nsubj(win-5, She-1)
+nsubj(became-13, She-1)
 root(ROOT-0, went-2)
 prt(went-2, on-3)
 aux(win-5, to-4)
@@ -403,18 +437,20 @@ nsubj(eight-8, championship-7)
 ccomp(win-5, eight-8)
 num(times-10, more-9)
 dobj(eight-8, times-10)
-cop(woman-16, became-13)
+conj_and(went-2, became-13)
 det(woman-16, the-14)
 amod(woman-16, first-15)
-conj_and(went-2, woman-16)
+xcomp(became-13, woman-16)
 det(States-20, the-18)
 nn(States-20, United-19)
 prep_in(woman-16, States-20)
 aux(earn-22, to-21)
-vmod(woman-16, earn-22)
+vmod(became-13, earn-22)
 det(master-24, a-23)
 poss(rating-26, master-24)
 dobj(earn-22, rating-26)
+
+In/IN 1950/CD ,/, she/PRP was/VBD also/RB awarded/VBD an/DT international/JJ woman/NN master/NN title/NN ./.
 
 (ROOT
   (S
@@ -440,6 +476,8 @@ nn(title-12, woman-10)
 nn(title-12, master-11)
 dobj(awarded-7, title-12)
 
+Throughout/IN her/PRP$ career/NN ,/, Gresser/NNP represented/VBD the/DT United/NNP States/NNPS in/IN several/JJ international/JJ events/NNS ./.
+
 (ROOT
   (S
     (PP (IN Throughout)
@@ -462,6 +500,8 @@ dobj(represented-6, States-9)
 amod(events-13, several-11)
 amod(events-13, international-12)
 prep_in(represented-6, events-13)
+
+She/NNP played/VBN in/IN five/CD Women/NNP 's/POS Candidates/NNPS tournaments/NNS and/CC three/CD Women/NNP 's/POS Chess/NNP Olympiads/NNP ./.
 
 (ROOT
   (S
@@ -495,6 +535,8 @@ poss(Olympiads-14, Women-11)
 nn(Olympiads-14, Chess-13)
 dep(three-10, Olympiads-14)
 
+She/NNP was/VBD also/RB Women's/IN World/NNP Chess/NNP Championship/NNP challenger/NN in/IN 1949/CD and/CC 1950/CD ./.
+
 (ROOT
   (S
     (NP (NNP She))
@@ -519,6 +561,8 @@ prep_in(was-2, 1949-10)
 prep_in(was-2, 1950-12)
 conj_and(1949-10, 1950-12)
 
+She/NNP retired/VBD from/IN professional/JJ chess/NN at/IN 82/CD ./.
+
 (ROOT
   (S
     (NP (NNP She))
@@ -534,6 +578,8 @@ root(ROOT-0, retired-2)
 amod(chess-5, professional-4)
 prep_from(retired-2, chess-5)
 prep_at(retired-2, 82-7)
+
+In/IN 1992/CD she/PRP became/VBD the/DT first/JJ woman/NN inducted/VBN into/IN the/DT U.S./NNP Chess/NNP Hall/NNP of/IN Fame/NNP ./.
 
 (ROOT
   (S
@@ -551,18 +597,20 @@ prep_at(retired-2, 82-7)
                 (NP (NNP Fame))))))))
     (. .)))
 
-prep_in(woman-7, 1992-2)
-nsubj(woman-7, she-3)
-cop(woman-7, became-4)
+prep_in(became-4, 1992-2)
+nsubj(became-4, she-3)
+root(ROOT-0, became-4)
 det(woman-7, the-5)
 amod(woman-7, first-6)
-root(ROOT-0, woman-7)
+xcomp(became-4, woman-7)
 vmod(woman-7, inducted-8)
 det(Hall-13, the-10)
 nn(Hall-13, U.S.-11)
 nn(Hall-13, Chess-12)
 prep_into(inducted-8, Hall-13)
 prep_of(Hall-13, Fame-15)
+
+Gresser/NNP studied/VBD classics/NNS as/IN an/DT undergraduate/NN at/IN Radcliffe/NNP College/NNP and/CC won/VB a/DT fellowship/NN for/IN classical/JJ studies/NNS at/IN the/DT American/JJ School/NN of/IN Classical/JJ Studies/NNS in/IN Athens/NNP ,/, Greece/NNP ./.
 
 (ROOT
   (S
@@ -611,6 +659,8 @@ prep_of(School-20, Studies-23)
 nn(Greece-27, Athens-25)
 prep_in(won-11, Greece-27)
 
+In/IN 1927/CD she/PRP married/VBD William/NNP Gresser/NNP ,/, a/DT New/NNP York/NNP lawyer/NN and/CC musicologist/NN ./.
+
 (ROOT
   (S
     (PP (IN In)
@@ -638,6 +688,8 @@ conj_and(Gresser-6, lawyer-11)
 dobj(married-4, musicologist-13)
 conj_and(Gresser-6, musicologist-13)
 
+He/PRP died/VBD in/IN 1992/CD ./.
+
 (ROOT
   (S
     (NP (PRP He))
@@ -649,6 +701,8 @@ conj_and(Gresser-6, musicologist-13)
 nsubj(died-2, He-1)
 root(ROOT-0, died-2)
 prep_in(died-2, 1992-4)
+
+She/NNP is/VBZ survived/VBN by/IN two/CD sons/NNS ,/, Ion/NNP and/CC Julian/NNP ,/, and/CC a/DT brother/NN ,/, Julius/NNP Kahn/NNP Jr/NNP ./.
 
 (ROOT
   (S
@@ -685,6 +739,8 @@ conj_and(sons-6, brother-14)
 nn(Jr-18, Julius-16)
 nn(Jr-18, Kahn-17)
 appos(brother-14, Jr-18)
+
+NYT-12-10-00/CD 2238EST/CD
 
 (ROOT
   (FRAG

@@ -1,3 +1,5 @@
+NYT20001217.2241.0165/NNP NEWS/NNP STORY/NNP 2000-12-17/CD 23:07:10/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001217.2241.0165) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(23:07:10-5, 2000-12-17-4)
 dep(STORY-3, 23:07:10-5)
+
+A3113/CD &Cx1f/NN ;/: taf-z/NN u/IN a/DT BC-AIRTRAVEL-TIPS-ART-NY/JJ 12-17/CD 0833/CD
 
 (ROOT
   (NP
@@ -26,10 +30,14 @@ amod(0833-9, BC-AIRTRAVEL-TIPS-ART-NY-7)
 num(0833-9, 12-17-8)
 prep_u(taf-z-4, 0833-9)
 
+BC-AIRTRAVEL-TIPS-ART-NYT/NNP
+
 (ROOT
   (NP (NNP BC-AIRTRAVEL-TIPS-ART-NYT)))
 
 root(ROOT-0, BC-AIRTRAVEL-TIPS-ART-NYT-1)
+
+SOME/NNP TIPS/NNP FOR/NNP TRAVELING/NNP BY/NNP AIR/.
 
 (ROOT
   (NP (NNP SOME) (NNP TIPS) (NNP FOR) (NNP TRAVELING) (NNP BY) (. AIR)))
@@ -41,12 +49,14 @@ nn(BY-5, TRAVELING-4)
 root(ROOT-0, BY-5)
 punct(BY-5, AIR-6)
 
+&LR/NNS ;/: [ART/NNP ADV/NNP :/: Photo/NNP _/NNP NYT8/NNP _/NNP is/VBZ being/VBG sent/VBN to/TO NYT/NNP photo/NNP clients/NNS ./.
+
 (ROOT
   (FRAG
     (NP
       (NP (NNS &LR))
       (: ;)
-      (NP (NNP (ART) (NNP ADV)))
+      (NP (NNP [ART) (NNP ADV)))
     (: :)
     (S
       (NP (NNP Photo) (NNP _) (NNP NYT8) (NNP _))
@@ -58,7 +68,7 @@ punct(BY-5, AIR-6)
     (. .)))
 
 root(ROOT-0, &LR-1)
-nn(ADV-4, (ART-3)
+nn(ADV-4, [ART-3)
 dep(&LR-1, ADV-4)
 nn(_-9, Photo-6)
 nn(_-9, _-7)
@@ -70,6 +80,8 @@ dep(&LR-1, sent-12)
 nn(clients-16, NYT-14)
 nn(clients-16, photo-15)
 prep_to(sent-12, clients-16)
+
+Graphic/NNP is/VBZ being/VBG sent/VBN to/TO NYT/NNP graphics/NNS clients/NNS ./.
 
 (ROOT
   (S
@@ -89,6 +101,8 @@ nn(clients-8, NYT-6)
 nn(clients-8, graphics-7)
 prep_to(sent-4, clients-8)
 
+Nonsubscribers/NNS can/MD make/VB one-time/JJ purchases/NNS by/IN calling/VBG 888-603-1036/CD or/CC 888-346-9867/CD .]/JJ &QL/NNS ;/: &UR/NNS ;/: By/NNP LAURENCE/NNP ZUCKERMAN/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
 (ROOT
   (S
     (NP (NNS Nonsubscribers))
@@ -102,7 +116,7 @@ prep_to(sent-4, clients-8)
                 (CC or)
                 (CD 888-346-9867))
               (NP
-                (NP (JJ .)) (NNS &QL))
+                (NP (JJ .]) (NNS &QL))
                 (: ;)
                 (NP
                   (NP (NNS &UR))
@@ -130,7 +144,7 @@ prepc_by(make-3, calling-7)
 iobj(calling-7, 888-603-1036-8)
 iobj(calling-7, 888-346-9867-10)
 conj_or(888-603-1036-8, 888-346-9867-10)
-amod(&QL-12, .)-11)
+amod(&QL-12, .]-11)
 dobj(calling-7, &QL-12)
 dep(&QL-12, &UR-14)
 prep(&UR-14, By-16)
@@ -142,6 +156,8 @@ dep(&QL-12, &QL-23)
 dep(&QL-12, &UR-25)
 dep(&QL-12, c.2000-27)
 appos(c.2000-27, N.Y-28)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -160,6 +176,8 @@ root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
 
+Booking/VBG Your/PRP$ Ticket/NN :/:
+
 (ROOT
   (S
     (VP (VBG Booking)
@@ -169,6 +187,8 @@ dep(&LR-6, &QL-8)
 root(ROOT-0, Booking-1)
 poss(Ticket-3, Your-2)
 dobj(Booking-1, Ticket-3)
+
+_/DT Fly/NNP nonstop/NN ./.
 
 (ROOT
   (S
@@ -180,6 +200,8 @@ dobj(Booking-1, Ticket-3)
 nsubj(nonstop-3, _-1)
 dep(nonstop-3, Fly-2)
 root(ROOT-0, nonstop-3)
+
+The/DT fewer/JJR connections/NNS you/PRP make/VBP ,/, the/DT lower/VB the/DT chance/NN that/IN you/PRP will/MD suffer/VB a/DT delay/NN ./.
 
 (ROOT
   (S
@@ -216,6 +238,8 @@ ccomp(lower-8, suffer-14)
 det(delay-16, a-15)
 dobj(suffer-14, delay-16)
 
+_/DT Pick/NNP airports/NNS with/IN care/NN ./.
+
 (ROOT
   (S
     (NP (DT _))
@@ -229,6 +253,8 @@ nsubj(airports-3, _-1)
 dep(airports-3, Pick-2)
 root(ROOT-0, airports-3)
 prep_with(airports-3, care-5)
+
+If/IN you/PRP have/VBP to/TO connect/VB ,/, choose/VB the/DT least-congested/JJ airport/NN possible/JJ ;/: some/DT airports/NNS ,/, like/IN Chicago/NNP O'Hare/NNP and/CC La/NNP Guardia/NNP in/IN New/NNP York/NNP ,/, experience/NN chronic/JJ delays/NNS ./.
 
 (ROOT
   (S
@@ -264,7 +290,7 @@ prep_with(airports-3, care-5)
 
 mark(have-3, If-1)
 nsubj(have-3, you-2)
-xsubj(connect-5, you-2)
+nsubj(connect-5, you-2)
 advcl(choose-7, have-3)
 aux(connect-5, to-4)
 xcomp(have-3, connect-5)
@@ -286,6 +312,8 @@ prep_in(Guardia-21, York-24)
 nn(delays-28, experience-26)
 amod(delays-28, chronic-27)
 appos(York-24, delays-28)
+
+Take/NNP into/IN consideration/NN the/DT weather/NN and/CC the/DT season/NN ;/: an/DT airport/NN in/IN the/DT South/NNP might/MD have/VB fewer/JJR winter/NN snowstorms/NNS but/CC more/JJR spring/NN and/CC summer/NN thunderstorms/NNS ./.
 
 (ROOT
   (S
@@ -337,6 +365,8 @@ nn(thunderstorms-25, summer-24)
 pobj(but-20, thunderstorms-25)
 conj_and(spring-22, thunderstorms-25)
 
+_/DT Check/NNP times/NNS between/IN connecting/VBG flights/NNS ./.
+
 (ROOT
   (NP
     (NP (DT _) (NNP Check) (NNS times))
@@ -351,6 +381,8 @@ nn(times-3, Check-2)
 root(ROOT-0, times-3)
 prepc_between(times-3, connecting-5)
 dobj(connecting-5, flights-6)
+
+Airlines/NNPS often/RB book/VB tight/JJ connections/NNS and/CC do/VBP not/RB take/VB responsibility/NN if/IN you/PRP miss/VBP yours/NNS ./.
 
 (ROOT
   (S
@@ -384,6 +416,8 @@ mark(miss-13, if-11)
 nsubj(miss-13, you-12)
 advcl(take-9, miss-13)
 dobj(miss-13, yours-14)
+
+Assume/JJ each/DT leg/NN of/IN your/PRP$ flight/NN will/MD arrive/VB late/RB ,/, and/CC book/NN connections/NNS that/WDT allow/VB ample/JJ time/NN ./.
 
 (ROOT
   (S
@@ -422,6 +456,8 @@ rcmod(connections-13, allow-15)
 amod(time-17, ample-16)
 dobj(allow-15, time-17)
 
+_/DT Check/NNP on-time/JJ records/NNS ./.
+
 (ROOT
   (S
     (NP (DT _))
@@ -433,6 +469,8 @@ nsubj(records-4, _-1)
 dep(records-4, Check-2)
 amod(records-4, on-time-3)
 root(ROOT-0, records-4)
+
+The/DT Transportation/NNP Department/NNP requires/VBZ major/JJ domestic/JJ airlines/NNS to/TO make/VB the/DT on-time/JJ record/NN for/IN every/NN flight/NN available/JJ to/TO consumers/NNS ./.
 
 (ROOT
   (S
@@ -455,11 +493,11 @@ root(ROOT-0, records-4)
 det(Department-3, The-1)
 nn(Department-3, Transportation-2)
 nsubj(requires-4, Department-3)
-xsubj(make-9, Department-3)
 root(ROOT-0, requires-4)
 amod(airlines-7, major-5)
 amod(airlines-7, domestic-6)
 dobj(requires-4, airlines-7)
+nsubj(make-9, airlines-7)
 aux(make-9, to-8)
 xcomp(requires-4, make-9)
 det(record-12, the-10)
@@ -469,6 +507,8 @@ nn(flight-15, every-14)
 prep_for(record-12, flight-15)
 xcomp(make-9, available-16)
 prep_to(available-16, consumers-18)
+
+You/PRP can/MD check/VB online/NN at/IN www.dot.gov/NN ./.
 
 (ROOT
   (S
@@ -485,6 +525,8 @@ aux(check-3, can-2)
 root(ROOT-0, check-3)
 dep(check-3, online-4)
 prep_at(check-3, www.dot.gov-6)
+
+That/DT site/JJ also/RB reports/NNS each/DT airline/NN 's/POS on-time/JJ record/NN for/IN the/DT previous/JJ month/NN ./.
 
 (ROOT
   (NP
@@ -512,6 +554,8 @@ det(month-13, the-11)
 amod(month-13, previous-12)
 prep_for(record-9, month-13)
 
+_/DT Travel/NNP on/IN off-peak/JJ days/NNS and/CC at/IN off-peak/JJ times/NNS ./.
+
 (ROOT
   (NP
     (NP (DT _) (NNP Travel))
@@ -530,6 +574,8 @@ amod(days-5, off-peak-4)
 prep_on(Travel-2, days-5)
 amod(times-9, off-peak-8)
 prep_at(Travel-2', times-9)
+
+Saturday/NNP is/VBZ usually/RB the/DT least-traveled/JJ day/NN of/IN the/DT week/NN ;/: so/RB are/VBP major/JJ holidays/NNS ./.
 
 (ROOT
   (S
@@ -560,6 +606,8 @@ cop(holidays-14, are-12)
 amod(holidays-14, major-13)
 parataxis(day-6, holidays-14)
 
+Monday/NNP mornings/NNS and/CC Friday/NNP afternoons/NNS are/VBP peak/JJ travel/NN times/NNS for/IN business/NN travelers/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -584,6 +632,8 @@ nn(times-9, travel-8)
 root(ROOT-0, times-9)
 nn(travelers-12, business-11)
 prep_for(times-9, travelers-12)
+
+Flights/NNS leaving/VBG earlier/RB in/IN the/DT day/NN are/VBP less/RBR likely/JJ to/TO be/VB delayed/VBN ,/, because/IN of/IN the/DT cascading/VBG effect/NN that/IN disruptions/NNS have/VBP on/IN airline/NN schedules/NNS ./.
 
 (ROOT
   (S
@@ -612,7 +662,7 @@ prep_for(times-9, travelers-12)
     (. .)))
 
 nsubj(likely-9, Flights-1)
-xsubj(delayed-12, Flights-1)
+nsubjpass(delayed-12, Flights-1)
 vmod(Flights-1, leaving-2)
 advmod(leaving-2, earlier-3)
 det(day-6, the-5)
@@ -633,6 +683,8 @@ ccomp(likely-9, on-22)
 nn(schedules-24, airline-23)
 pobj(on-22, schedules-24)
 
+_/DT Use/NN smaller/JJR airports/NNS ./.
+
 (ROOT
   (NP
     (NP (DT _) (NN Use))
@@ -643,6 +695,8 @@ det(Use-2, _-1)
 root(ROOT-0, Use-2)
 amod(airports-4, smaller-3)
 dep(Use-2, airports-4)
+
+Instead/RB of/IN Los/NNP Angeles/NNP International/NNP ,/, for/IN example/NN ,/, consider/NN flying/VBG into/IN Burbank/NNP or/CC John/NNP Wayne/NNP Airport/NNP in/IN Orange/NNP County/NNP ,/, Calif/NNP .,/, or/CC use/NN Westchester/NNP County/NNP Airport/NNP instead/NN of/IN JFK/NNP in/IN New/NNP York/NNP ./.
 
 (ROOT
   (FRAG
@@ -707,6 +761,8 @@ prep_instead_of(flying-11, JFK-31)
 nn(York-34, New-33)
 prep_in(flying-11, York-34)
 
+_/DT Avoid/JJ electronic/JJ tickets/NNS ./.
+
 (ROOT
   (NP
     (NP (DT _))
@@ -717,6 +773,8 @@ root(ROOT-0, _-1)
 amod(tickets-4, Avoid-2)
 amod(tickets-4, electronic-3)
 dep(_-1, tickets-4)
+
+Though/JJ they/PRP are/VBP convenient/JJ and/CC more/JJR secure/NN than/IN an/DT easily/RB lost/VBN paper/NN ticket/NN ,/, they/PRP are/VBP not/RB transferable/JJ between/IN most/JJS airlines/NNS if/IN you/PRP need/VBP to/TO switch/VB carriers/NNS because/IN of/IN delays/NNS ./.
 
 (ROOT
   (S
@@ -773,13 +831,15 @@ amod(airlines-21, most-20)
 prep_between(are-16, airlines-21)
 mark(need-24, if-22)
 nsubj(need-24, you-23)
-xsubj(switch-26, you-23)
+nsubj(switch-26, you-23)
 advcl(are-16, need-24)
 aux(switch-26, to-25)
 xcomp(need-24, switch-26)
 dobj(switch-26, carriers-27)
 prepc_because_of(switch-26, of-29)
 pobj(switch-26, delays-30)
+
+_/DT Watch/NN for/IN labor/NN disruptions/NNS ./.
 
 (ROOT
   (NP
@@ -793,49 +853,58 @@ root(ROOT-0, Watch-2)
 nn(disruptions-5, labor-4)
 prep_for(Watch-2, disruptions-5)
 
+Check/NNP newspapers/NNS and/CC Web/NNP sites/NNS like/IN www.thenewfoundlandgroup.com/NN to/TO identify/VB airlines/NNS experiencing/VBG labor/NN strife/NN ,/, which/WDT often/RB increases/NNS cancellations/NNS and/CC delays/NNS ./.
+
 (ROOT
-  (S
-    (S
+  (NP
+    (NP
+      (NP (NNP Check) (NNS newspapers))
+      (CC and)
       (NP
-        (NP (NNP Check) (NNS newspapers))
-        (CC and)
-        (NP
-          (NP (NNP Web) (NNS sites))
-          (PP (IN like)
-            (NP (NN www.thenewfoundlandgroup.com)))))
-      (VP (TO to)
-        (VP (VB identify)
-          (NP
+        (NP (NNP Web) (NNS sites))
+        (PP (IN like)
+          (NP (NN www.thenewfoundlandgroup.com)))))
+    (SBAR
+      (S
+        (VP (TO to)
+          (VP (VB identify)
             (NP (NNS airlines))
-            (VP (VBG experiencing)
-              (NP (NN labor) (NN strife)))))))
-    (, ,)
-    (S
-      (NP (WDT which))
-      (NP (RB often)
-        (NP (NNS increases) (NNS cancellations))
-        (CC and)
-        (NP (NNS delays))))
+            (S
+              (VP (VBG experiencing)
+                (S
+                  (NP
+                    (NP (NN labor) (NN strife))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP
+                          (ADVP (RB often))))))
+                  (NP
+                    (NP (NNS increases) (NNS cancellations))
+                    (CC and)
+                    (NP (NNS delays))))))))))
     (. .)))
 
 nn(newspapers-2, Check-1)
-nsubj(identify-9, newspapers-2)
+root(ROOT-0, newspapers-2)
 nn(sites-5, Web-4)
 conj_and(newspapers-2, sites-5)
-nsubj(identify-9, sites-5)
 prep_like(sites-5, www.thenewfoundlandgroup.com-7)
 aux(identify-9, to-8)
-root(ROOT-0, identify-9)
+vmod(newspapers-2, identify-9)
 dobj(identify-9, airlines-10)
-vmod(airlines-10, experiencing-11)
+xcomp(identify-9, experiencing-11)
 nn(strife-13, labor-12)
-dobj(experiencing-11, strife-13)
-dep(cancellations-18, which-15)
-advmod(cancellations-18, often-16)
+nsubj(often-16, strife-13)
+nsubj(cancellations-18, strife-13)
+rcmod(strife-13, often-16)
 nn(cancellations-18, increases-17)
-parataxis(identify-9, cancellations-18)
-parataxis(identify-9, delays-20)
+xcomp(experiencing-11, cancellations-18)
+xcomp(experiencing-11, delays-20)
 conj_and(cancellations-18, delays-20)
+
+_/DT Leave/NNP a/DT number/NN ./.
 
 (ROOT
   (S
@@ -848,6 +917,8 @@ nsubj(number-4, _-1)
 dep(number-4, Leave-2)
 det(number-4, a-3)
 root(ROOT-0, number-4)
+
+Make/NNP sure/JJ the/DT airline/NN you/PRP book/NN with/IN has/VBZ a/DT phone/NN number/NN at/IN which/WDT you/PRP can/MD be/VB notified/VBN of/IN delays/NNS or/CC cancellations/NNS ./.
 
 (ROOT
   (NP
@@ -898,6 +969,8 @@ prep_of(notified-17, delays-19)
 prep_of(notified-17, cancellations-21)
 conj_or(delays-19, cancellations-21)
 
+_/PRP Use/VBP a/DT travel/NN agent/NN ./.
+
 (ROOT
   (S
     (NP (PRP _))
@@ -910,6 +983,8 @@ root(ROOT-0, Use-2)
 det(agent-5, a-3)
 nn(agent-5, travel-4)
 dobj(Use-2, agent-5)
+
+A/DT good/JJ one/NN can/MD be/VB a/DT great/JJ ally/NN in/IN the/DT event/NN of/IN a/DT problem/NN _/NN and/CC may/MD save/VB you/PRP time/NN and/CC money/NN ./.
 
 (ROOT
   (S
@@ -954,6 +1029,8 @@ dobj(save-18, time-20)
 dobj(save-18, money-22)
 conj_and(time-20, money-22)
 
+Day/NNP of/IN Departure/NN :/:
+
 (ROOT
   (NP
     (NP (NNP Day))
@@ -964,6 +1041,8 @@ conj_and(time-20, money-22)
 root(ROOT-0, Day-1)
 prep_of(Day-1, Departure-3)
 
+_/DT Be/NNP informed/VBD ./.
+
 (ROOT
   (S
     (NP (DT _) (NNP Be))
@@ -973,6 +1052,8 @@ prep_of(Day-1, Departure-3)
 det(Be-2, _-1)
 nsubj(informed-3, Be-2)
 root(ROOT-0, informed-3)
+
+Check/NNP your/PRP$ flight/NN 's/POS status/NN before/IN heading/VBG to/TO the/DT airport/NN ./.
 
 (ROOT
   (FRAG
@@ -995,6 +1076,8 @@ dep(Check-1, status-5)
 prepc_before(Check-1, heading-7)
 det(airport-10, the-9)
 prep_to(heading-7, airport-10)
+
+Automated/JJ telephone/NN services/NNS or/CC airline/NN Web/NNP sites/VBZ often/RB provide/VB more/RBR up-to-date/JJ information/NN than/IN do/VBP ticket/RB agents/NNS ./.
 
 (ROOT
   (S
@@ -1028,6 +1111,8 @@ mark(do-14, than-13)
 advcl(provide-9, do-14)
 advmod(do-14, ticket-15)
 dobj(do-14, agents-16)
+
+The/DT Federal/NNP Aviation/NNP Administration/NNP 's/POS Web/NNP site/NN ,/, www.fly.faa.gov/NNP ,/, has/VBZ real-time/JJ information/NN on/IN operations/NNS at/IN the/DT biggest/JJS airports/NNS ./.
 
 (ROOT
   (S
@@ -1063,6 +1148,8 @@ det(airports-19, the-17)
 amod(airports-19, biggest-18)
 prep_at(operations-15, airports-19)
 
+_/DT Pack/NNP defensively/RB ./.
+
 (ROOT
   (FRAG
     (NP (DT _) (NNP Pack))
@@ -1072,6 +1159,8 @@ prep_at(operations-15, airports-19)
 det(Pack-2, _-1)
 root(ROOT-0, Pack-2)
 dep(Pack-2, defensively-3)
+
+Take/NNP along/IN a/DT change/NN of/IN clothes/NNS and/CC a/DT toothbrush/NN in/IN your/PRP$ carry-on/NN bag/NN ./.
 
 (ROOT
   (NP
@@ -1098,6 +1187,8 @@ conj_and(clothes-6, toothbrush-9)
 poss(bag-13, your-11)
 nn(bag-13, carry-on-12)
 prep_in(Take-1, bag-13)
+
+If/IN traveling/VBG with/IN an/DT infant/NN ,/, take/VB 24/CD hours/NNS '/POS worth/NN of/IN diapers/NNS and/CC extra/JJ formula/NN ./.
 
 (ROOT
   (S
@@ -1132,6 +1223,8 @@ amod(formula-16, extra-15)
 prep_of(worth-11, formula-16)
 conj_and(diapers-13, formula-16)
 
+When/WRB possible/JJ ,/, avoid/JJ checking/NN luggage/NN ,/, in/IN case/NN you/PRP need/VBP to/TO switch/VB flights/NNS or/CC carriers/NNS ./.
+
 (ROOT
   (S
     (SBAR
@@ -1158,16 +1251,18 @@ advcl(need-11, possible-2)
 amod(luggage-6, avoid-4)
 nn(luggage-6, checking-5)
 nsubj(need-11, luggage-6)
-xsubj(switch-13, luggage-6)
+nsubj(switch-13, luggage-6)
 prep_in(need-11, case-9)
 nsubj(need-11, you-10)
-xsubj(switch-13, you-10)
+nsubj(switch-13, you-10)
 root(ROOT-0, need-11)
 aux(switch-13, to-12)
 xcomp(need-11, switch-13)
 dobj(switch-13, flights-14)
 dobj(switch-13, carriers-16)
 conj_or(flights-14, carriers-16)
+
+Ship/NNP your/PRP$ gifts/NNS ahead/RB ./.
 
 (ROOT
   (NP
@@ -1182,6 +1277,8 @@ poss(gifts-3, your-2)
 dep(Ship-1, gifts-3)
 advmod(gifts-3, ahead-4)
 
+_/DT Educate/NNP yourself/PRP ./.
+
 (ROOT
   (NP
     (NP (DT _) (NNP Educate))
@@ -1191,6 +1288,8 @@ advmod(gifts-3, ahead-4)
 det(Educate-2, _-1)
 root(ROOT-0, Educate-2)
 npadvmod(Educate-2, yourself-3)
+
+Find/NNP out/IN what/WP your/PRP$ airline/NN promises/VBZ to/TO do/VB for/IN passengers/NNS in/IN the/DT event/NN of/IN a/DT delay/NN ./.
 
 (ROOT
   (NP
@@ -1216,9 +1315,9 @@ npadvmod(Educate-2, yourself-3)
 
 root(ROOT-0, Find-1)
 dobj(promises-6, what-3)
+nsubj(do-8, what-3)
 poss(airline-5, your-4)
 nsubj(promises-6, airline-5)
-xsubj(do-8, airline-5)
 prepc_out(Find-1, promises-6)
 aux(do-8, to-7)
 xcomp(promises-6, do-8)
@@ -1227,6 +1326,8 @@ det(event-13, the-12)
 prep_in(passengers-10, event-13)
 det(delay-16, a-15)
 prep_of(event-13, delay-16)
+
+Print/NNP out/IN a/DT copy/NN of/IN the/DT policy/NN from/IN the/DT airline/NN 's/POS Web/NNP site/NN ,/, and/CC carry/VB it/PRP with/IN you/PRP _/VBP in/IN case/NN the/DT airline/NN representatives/VBZ need/VBP a/DT reminder/NN ./.
 
 (ROOT
   (S
@@ -1285,6 +1386,8 @@ root(ROOT-0, need-26)
 det(reminder-28, a-27)
 dobj(need-26, reminder-28)
 
+If/IN a/DT Flight/JJ Is/JJ Delayed/NN :/:
+
 (ROOT
   (FRAG
     (PP (IN If)
@@ -1297,6 +1400,8 @@ amod(Is-4, Flight-3)
 prep_if(Delayed-5, Is-4)
 root(ROOT-0, Delayed-5)
 
+_/DT Keep/NNP your/PRP$ cool/NN ./.
+
 (ROOT
   (S
     (NP (DT _))
@@ -1308,6 +1413,8 @@ nsubj(cool-4, _-1)
 dep(cool-4, Keep-2)
 poss(cool-4, your-3)
 root(ROOT-0, cool-4)
+
+Becoming/VBG angry/RB at/IN airline/NN personnel/NN is/VBZ counterproductive/JJ ./.
 
 (ROOT
   (S
@@ -1326,6 +1433,8 @@ nn(personnel-5, airline-4)
 prep_at(Becoming-1, personnel-5)
 cop(counterproductive-7, is-6)
 root(ROOT-0, counterproductive-7)
+
+Sympathy/RB for/IN their/PRP$ plight/NN will/MD sometimes/RB produce/VB results/NNS ./.
 
 (ROOT
   (FRAG
@@ -1348,6 +1457,8 @@ advmod(produce-7, sometimes-6)
 dep(Sympathy-1, produce-7)
 dobj(produce-7, results-8)
 
+_/DT Don't/NNP stand/NN in/IN line/NN ./.
+
 (ROOT
   (NP
     (NP (DT _) (NNP Don't) (NN stand))
@@ -1359,6 +1470,8 @@ det(stand-3, _-1)
 nn(stand-3, Don't-2)
 root(ROOT-0, stand-3)
 prep_in(stand-3, line-5)
+
+To/TO get/VB on/IN another/DT flight/NN ,/, it/PRP is/VBZ often/RB more/RBR effective/JJ to/TO call/VB the/DT airline/NN from/IN the/DT airport/NN than/IN to/TO wait/VB at/IN the/DT ticket/NN counter/NN ./.
 
 (ROOT
   (S
@@ -1392,7 +1505,7 @@ advcl(effective-11, get-2)
 det(flight-5, another-4)
 prep_on(get-2, flight-5)
 nsubj(effective-11, it-7)
-xsubj(call-13, it-7)
+nsubj(call-13, it-7)
 cop(effective-11, is-8)
 advmod(effective-11, often-9)
 advmod(effective-11, more-10)
@@ -1409,6 +1522,8 @@ ccomp(effective-11, wait-21)
 det(counter-25, the-23)
 nn(counter-25, ticket-24)
 prep_at(wait-21, counter-25)
+
+Carry/NNP a/DT cell/NN phone/NN ;/: if/IN delays/NNS are/VBP widespread/RB ,/, public/JJ telephones/NN may/MD be/VB in/IN demand/NN ./.
 
 (ROOT
   (NP
@@ -1444,6 +1559,8 @@ aux(be-14, may-13)
 dep(Carry-1, be-14)
 prep_in(be-14, demand-16)
 
+_/PRP Check/NNP the/DT competition/NN ./.
+
 (ROOT
   (S
     (NP (PRP _))
@@ -1455,6 +1572,8 @@ nsubj(competition-4, _-1)
 dep(competition-4, Check-2)
 det(competition-4, the-3)
 root(ROOT-0, competition-4)
+
+If/IN another/DT airline/NN has/VBZ seats/NNS to/TO your/PRP$ destination/NN ,/, ask/VB your/PRP$ airline/NN to/TO endorse/VB your/PRP$ ticket/NN to/TO the/DT other/JJ line/NN ./.
 
 (ROOT
   (S
@@ -1495,6 +1614,8 @@ det(line-20, the-18)
 amod(line-20, other-19)
 prep_to(endorse-14, line-20)
 
+_/DT Get/NNP what/WP you/PRP paid/VBN for/IN ./.
+
 (ROOT
   (S
     (NP (DT _) (NNP Get))
@@ -1511,6 +1632,8 @@ dep(paid-5, Get-2)
 prep_for(paid-5, what-3)
 nsubj(paid-5, you-4)
 root(ROOT-0, paid-5)
+
+If/IN you/PRP paid/VBD full/JJ fare/NN or/CC are/VBP a/DT high-mileage/JJ frequent/JJ flier/NN ,/, let/VB the/DT airline/NN know/VBP ./.
 
 (ROOT
   (S
@@ -1546,6 +1669,8 @@ root(ROOT-0, let-13)
 det(airline-15, the-14)
 nsubj(know-16, airline-15)
 ccomp(let-13, know-16)
+
+Your/PRP$ odds/NNS of/IN getting/VBG a/DT seat/NN on/IN the/DT next/JJ flight/NN out/IN will/MD increase/VB ,/, or/CC the/DT airline/NN might/MD pay/VB for/IN your/PRP$ hotel/NN ,/, if/IN you/PRP are/VBP delayed/VBN overnight/JJ ./.
 
 (ROOT
   (S
@@ -1602,6 +1727,8 @@ auxpass(delayed-27, are-26)
 advcl(pay-19, delayed-27)
 dobj(delayed-27, overnight-28)
 
+_/DT Consider/NNP driving/NN ./.
+
 (ROOT
   (S
     (NP (DT _))
@@ -1612,6 +1739,8 @@ dobj(delayed-27, overnight-28)
 nsubj(driving-3, _-1)
 dep(driving-3, Consider-2)
 root(ROOT-0, driving-3)
+
+If/IN the/DT last/JJ leg/NN of/IN your/PRP$ flight/NN is/VBZ a/DT 200-mile/JJ hop/NN ,/, renting/VBG a/DT car/NN might/MD be/VB a/DT better/JJR choice/NN than/IN waiting/VBG out/RP a/DT delay/NN ./.
 
 (ROOT
   (S
@@ -1661,11 +1790,15 @@ prt(waiting-22, out-23)
 det(delay-25, a-24)
 dobj(waiting-22, delay-25)
 
+Getting/JJ Even/NNS :/:
+
 (ROOT
   (NP (JJ Getting) (NNS Even) (: :)))
 
 amod(Even-2, Getting-1)
 root(ROOT-0, Even-2)
+
+_/PRP Write/VBP a/DT letter/NN ./.
 
 (ROOT
   (S
@@ -1678,6 +1811,8 @@ nsubj(Write-2, _-1)
 root(ROOT-0, Write-2)
 det(letter-4, a-3)
 dobj(Write-2, letter-4)
+
+The/DT airlines/NNS have/VBP pledged/VBN to/TO respond/VB to/TO consumer/NN complaints/NNS within/IN 60/CD days/NNS ./.
 
 (ROOT
   (S
@@ -1695,7 +1830,7 @@ dobj(Write-2, letter-4)
 
 det(airlines-2, The-1)
 nsubj(pledged-4, airlines-2)
-xsubj(respond-6, airlines-2)
+nsubj(respond-6, airlines-2)
 aux(pledged-4, have-3)
 root(ROOT-0, pledged-4)
 aux(respond-6, to-5)
@@ -1704,6 +1839,8 @@ nn(complaints-9, consumer-8)
 prep_to(respond-6, complaints-9)
 num(days-12, 60-11)
 prep_within(respond-6, days-12)
+
+They/PRP almost/RB always/VBZ offer/VBP a/DT refund/NN ,/, reimbursement/NN of/IN expenses/NNS ,/, a/DT discount/NN on/IN your/PRP$ next/JJ ticket/NN _/, or/CC all/DT three/CD ./.
 
 (ROOT
   (SINV
@@ -1750,6 +1887,8 @@ quantmod(three-21, all-20)
 prep_of(reimbursement-8, three-21)
 conj_or(expenses-10, three-21)
 
+Be/RB sure/JJ to/TO save/VB the/DT relevant/JJ paperwork/NN ./.
+
 (ROOT
   (FRAG
     (ADJP (RB Be) (JJ sure))
@@ -1767,6 +1906,8 @@ det(paperwork-7, the-5)
 amod(paperwork-7, relevant-6)
 dobj(save-4, paperwork-7)
 
+_/DT Make/NNP it/PRP a/DT federal/JJ case/NN ./.
+
 (ROOT
   (S
     (NP (DT _))
@@ -1782,6 +1923,8 @@ nsubj(case-6, it-3)
 det(case-6, a-4)
 amod(case-6, federal-5)
 xcomp(Make-2, case-6)
+
+Send/NNP a/DT copy/NN of/IN your/PRP$ letter/NN to/TO Washington/NNP ./.
 
 (ROOT
   (NP
@@ -1801,6 +1944,8 @@ dep(Send-1, copy-3)
 poss(letter-6, your-5)
 prep_of(copy-3, letter-6)
 prep_to(letter-6, Washington-8)
+
+Complaints/NNS are/VBP charged/VBN against/IN each/DT airline/NN in/IN the/DT Transportation/NNP Department/NNP 's/POS monthly/JJ Air/NN Travel/NNP Consumer/NNP Report/NNP and/CC serve/NN as/IN a/DT basis/NN for/IN rule/NN making/VBG and/CC enforcement/NN action/NN ./.
 
 (ROOT
   (S
@@ -1852,6 +1997,8 @@ nn(action-27, enforcement-26)
 prep_for(charged-3, action-27)
 conj_and(rule-23, action-27)
 
+Write/JJ to/TO :/:
+
 (ROOT
   (FRAG
     (ADJP (JJ Write) (TO to))
@@ -1859,6 +2006,8 @@ conj_and(rule-23, action-27)
 
 root(ROOT-0, Write-1)
 dep(Write-1, to-2)
+
+Aviation/NNP Consumer/NNP Protection/NNP Div/NNP ./.
 
 (ROOT
   (NP (NNP Aviation) (NNP Consumer) (NNP Protection) (NNP Div) (. .)))
@@ -1868,11 +2017,15 @@ nn(Div-4, Consumer-2)
 nn(Div-4, Protection-3)
 root(ROOT-0, Div-4)
 
-(ROOT
-  (NP (CD (C-75) (. ))))
+[C-75/CD ]/.
 
-root(ROOT-0, (C-75-1)
-punct((C-75-1, )-2)
+(ROOT
+  (NP (CD [C-75) (. ])))
+
+root(ROOT-0, [C-75-1)
+punct([C-75-1, ]-2)
+
+Department/NNP of/IN Transportation/NNP
 
 (ROOT
   (NP
@@ -1882,6 +2035,8 @@ punct((C-75-1, )-2)
 
 root(ROOT-0, Department-1)
 prep_of(Department-1, Transportation-3)
+
+400/CD Seventh/JJ St./NNP S.W./NNP
 
 (ROOT
   (NP
@@ -1893,6 +2048,8 @@ amod(S.W.-4, Seventh-2)
 nn(S.W.-4, St.-3)
 dep(400-1, S.W.-4)
 
+Washington/NNP ,/, DC/NNP 20590/CD
+
 (ROOT
   (NP
     (NP (NNP Washington))
@@ -1902,6 +2059,8 @@ dep(400-1, S.W.-4)
 root(ROOT-0, Washington-1)
 appos(Washington-1, DC-3)
 num(DC-3, 20590-4)
+
+NYT-12-17-00/CD 2307EST/CD
 
 (ROOT
   (FRAG

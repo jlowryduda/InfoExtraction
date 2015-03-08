@@ -1,3 +1,5 @@
+APW20001023.0423.0148/DT NEWS/NNP STORY/NNPS 2000-10-23/CD 04:33:15/CD
+
 (ROOT
   (NP
     (NP (DT APW20001023.0423.0148))
@@ -10,10 +12,14 @@ dep(APW20001023.0423.0148-1, STORY-3)
 num(04:33:15-5, 2000-10-23-4)
 dep(APW20001023.0423.0148-1, 04:33:15-5)
 
+Mexico-Election/NN
+
 (ROOT
   (NP (NN Mexico-Election)))
 
 root(ROOT-0, Mexico-Election-1)
+
+Opposition/NNP Rejects/NNPS Mexican/NNP Vote/NNP
 
 (ROOT
   (NP
@@ -25,9 +31,11 @@ root(ROOT-0, Rejects-2)
 nn(Vote-4, Mexican-3)
 dep(Rejects-2, Vote-4)
 
+VILLAHERMOSA/NNP ,/, Mexico/NNP [AP/NNP ]/NNP _/, In/IN an/DT important/NN victory/NN for/IN Mexico/NNP 's/POS embattled/JJ ruling/VBG party/NN ,/, Manuel/NNP Andrade/NNP on/IN Sunday/NNP was/VBD declared/VBN the/DT winner/NN of/IN the/DT disputed/JJ governor/NN 's/POS race/NN for/IN oil-rich/JJ Tabasco/NNP state/NN ./.
+
 (ROOT
   (S
-    (NP (NNP VILLAHERMOSA) (, ,) (NNP Mexico) (NNP (AP) (NNP )))
+    (NP (NNP VILLAHERMOSA) (, ,) (NNP Mexico) (NNP [AP) (NNP ]))
     (, _)
     (PP (IN In)
       (NP
@@ -54,10 +62,10 @@ dep(Rejects-2, Vote-4)
           (NP (JJ oil-rich) (NNP Tabasco) (NN state)))))
     (. .)))
 
-nn()-5, VILLAHERMOSA-1)
-appos()-5, Mexico-3)
-nn()-5, (AP-4)
-nsubjpass(declared-23, )-5)
+nn(]-5, VILLAHERMOSA-1)
+appos(]-5, Mexico-3)
+nn(]-5, [AP-4)
+nsubjpass(declared-23, ]-5)
 punct(declared-23, _-6)
 det(victory-10, an-8)
 nn(victory-10, important-9)
@@ -80,6 +88,8 @@ prep_of(winner-25, race-31)
 amod(state-35, oil-rich-33)
 nn(state-35, Tabasco-34)
 prep_for(declared-23, state-35)
+
+Members/NNS of/IN the/DT opposition/NN Democratic/JJ Revolution/NNP Party/NNP held/VBD a/DT peaceful/JJ march/NN earlier/RB Sunday/NNP ,/, saying/VBG they/PRP would/MD not/RB recognize/VB the/DT official/JJ results/NNS ,/, believing/VBG they/PRP were/VBD marred/VBN by/IN fraud/NN ./.
 
 (ROOT
   (S
@@ -138,6 +148,8 @@ auxpass(marred-27, were-26)
 ccomp(believing-24, marred-27)
 agent(marred-27, fraud-29)
 
+Preliminary/JJ results/NNS from/IN the/DT election/NN a/DT week/NN ago/RB gave/VBD Andrade/IN a/DT slight/JJ lead/NN of/IN 44/CD percent/JJ to/TO 43/CD percent/NN for/IN opposition/NN candidate/NN Raul/NNP Ojeda/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -182,6 +194,8 @@ nn(Ojeda-24, candidate-22)
 nn(Ojeda-24, Raul-23)
 prep_for(percent-19, Ojeda-24)
 
+Election/NN officials/NNS had/VBD said/VBD the/DT race/NN was/VBD too/RB close/JJ to/TO declare/VB a/DT winner/NN ,/, and/CC they/PRP spent/VBP the/DT past/JJ week/NN pouring/NN over/IN ballots/NNS to/TO determine/VB the/DT official/JJ results/NNS ./.
+
 (ROOT
   (S
     (S
@@ -217,7 +231,7 @@ aux(said-4, had-3)
 root(ROOT-0, said-4)
 det(race-6, the-5)
 nsubj(close-9, race-6)
-xsubj(declare-11, race-6)
+nsubj(declare-11, race-6)
 cop(close-9, was-7)
 advmod(close-9, too-8)
 ccomp(said-4, close-9)
@@ -237,6 +251,8 @@ vmod(spent-17, determine-25)
 det(results-28, the-26)
 amod(results-28, official-27)
 dobj(determine-25, results-28)
+
+Late/NNP Sunday/NNP ,/, election/NN officials/NNS announced/VBD that/IN Andrade/NNP has/VBZ won/VBN by/IN more/JJR than/IN 8,000/CD votes/NNS ./.
 
 (ROOT
   (S
@@ -269,6 +285,8 @@ quantmod(8,000-14, than-13)
 num(votes-15, 8,000-14)
 prep_by(won-10, votes-15)
 
+The/DT announcement/NN prompted/VBD the/DT Democratic/JJ Revolution/NNP and/CC National/NNP Action/NNP Party/NNP representatives/VBZ to/TO resign/VB their/PRP$ spots/NNS on/IN the/DT electoral/JJ council/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NN announcement))
@@ -293,12 +311,12 @@ root(ROOT-0, prompted-3)
 det(Revolution-6, the-4)
 amod(Revolution-6, Democratic-5)
 nsubj(representatives-11, Revolution-6)
-xsubj(resign-13, Revolution-6)
+nsubj(resign-13, Revolution-6)
 nn(Party-10, National-8)
 nn(Party-10, Action-9)
 conj_and(Revolution-6, Party-10)
 nsubj(representatives-11, Party-10)
-xsubj(resign-13, Party-10)
+nsubj(resign-13, Party-10)
 ccomp(prompted-3, representatives-11)
 aux(resign-13, to-12)
 xcomp(representatives-11, resign-13)
@@ -307,6 +325,8 @@ dobj(resign-13, spots-15)
 det(council-19, the-17)
 amod(council-19, electoral-18)
 prep_on(resign-13, council-19)
+
+Tearing/VBG up/RP a/DT copy/NN of/IN the/DT electoral/JJ law/NN ,/, Democratic/NNP Revolution/NNP 's/POS Lorena/NNP Villavicencio/NNP said/VBD she/PRP refused/VBD to/TO ``certify/VB fraud/NN .''/.
 
 (ROOT
   (S
@@ -345,12 +365,14 @@ nn(Villavicencio-14, Lorena-13)
 nsubj(said-15, Villavicencio-14)
 root(ROOT-0, said-15)
 nsubj(refused-17, she-16)
-xsubj(``certify-19, she-16)
+nsubj(``certify-19, she-16)
 ccomp(said-15, refused-17)
 aux(``certify-19, to-18)
 xcomp(refused-17, ``certify-19)
 dobj(``certify-19, fraud-20)
 punct(said-15, .''-21)
+
+But/CC the/DT ruling/VBG party/NN 's/POS representative/NN ,/, Carlos/NNP Jimenez/NNP ,/, said/VBD :/: ``We/NN won/VBD the/DT election/NN ,/, and/CC we/PRP won/VBD it/PRP without/IN fraud/NN .''/.
 
 (ROOT
   (S (CC But)
@@ -394,6 +416,8 @@ conj_and(said-11, won-20)
 dobj(won-20, it-21)
 prep_without(won-20, fraud-23)
 punct(said-11, .''-24)
+
+The/DT election/NN was/VBD an/DT important/JJ test/NN for/IN Mexico/NNP 's/POS ruling/VBG Institutional/NNP Revolutionary/NNP Party/NNP ,/, or/CC PRI/NNP ,/, which/WDT recently/RB lost/VBD its/PRP$ first/JJ presidential/JJ election/NN since/IN its/PRP$ creation/NN in/IN 1929/CD ./.
 
 (ROOT
   (S
@@ -448,6 +472,8 @@ poss(creation-27, its-26)
 prep_since(lost-20, creation-27)
 prep_in(lost-20, 1929-29)
 
+The/DT National/NNP Action/NNP Party/NNP 's/POS Vicente/NNP Fox/NNP will/MD be/VB sworn/VBN in/IN as/IN president/NN Dec/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -476,12 +502,16 @@ pcomp(in-11, as-12)
 pobj(as-12, president-13)
 dobj(sworn-10, Dec-14)
 
+1/CD ./.
+
 (ROOT
   (FRAG
     (NP (CD 1))
     (. .)))
 
 root(ROOT-0, 1-1)
+
+The/DT Tabasco/NNP race/NN has/VBZ been/VBN seen/VBN as/IN an/DT indicator/NN of/IN the/DT PRI/NNP 's/POS ability/NN to/TO halt/VB a/DT possible/JJ collapse/NN ./.
 
 (ROOT
   (S
@@ -518,6 +548,8 @@ vmod(ability-14, halt-16)
 det(collapse-19, a-17)
 amod(collapse-19, possible-18)
 dobj(halt-16, collapse-19)
+
+The/DT party/NN ,/, which/WDT never/RB admitted/VBD losing/VBG any/DT statewide/NN race/NN before/IN 1989/CD ,/, has/VBZ lost/VBN several/JJ gubernatorial/JJ races/NNS in/IN recent/JJ years/NNS _/IN most/JJS recently/RB in/IN neighboring/VBG Chiapas/NNP ./.
 
 (ROOT
   (S
@@ -571,6 +603,8 @@ advmod(most-23, recently-24)
 amod(Chiapas-27, neighboring-26)
 prep_in(lost-15, Chiapas-27)
 
+The/DT presidential/JJ loss/NNS set/VBN off/RP a/DT battle/NN for/IN control/NN of/IN the/DT PRI/NNP ,/, which/WDT has/VBZ been/VBN dominated/VBN by/IN the/DT nation/NN 's/POS president/NN since/IN the/DT early/JJ 1930s/NNS ./.
+
 (ROOT
   (S
     (NP (DT The) (JJ presidential) (NNS loss))
@@ -619,6 +653,8 @@ det(1930s-26, the-24)
 amod(1930s-26, early-25)
 prep_since(dominated-17, 1930s-26)
 
+A/DT favorite/JJ for/IN the/DT leadership/NN is/VBZ outgoing/VBG Tabasco/NNP Gov./NNP Roberto/NNP Madrazo/NNP ,/, who/WP has/VBZ tried/VBN to/TO use/VB the/DT election/NN here/RB as/IN a/DT demonstration/NN of/IN his/PRP$ popularity/NN ./.
+
 (ROOT
   (S
     (NP
@@ -658,7 +694,7 @@ nn(Madrazo-11, Gov.-9)
 nn(Madrazo-11, Roberto-10)
 dobj(outgoing-7, Madrazo-11)
 nsubj(tried-15, Madrazo-11)
-xsubj(use-17, Madrazo-11)
+nsubj(use-17, Madrazo-11)
 aux(tried-15, has-14)
 rcmod(Madrazo-11, tried-15)
 aux(use-17, to-16)
@@ -670,6 +706,8 @@ det(demonstration-23, a-22)
 prep_as(use-17, demonstration-23)
 poss(popularity-26, his-25)
 prep_of(demonstration-23, popularity-26)
+
+Yet/JJ observer/NN groups/NNS and/CC opposition/NN parties/NNS have/VBP accused/VBN the/DT Tabasco/NNP elections/NNS of/IN having/VBG the/DT same/JJ sort/NN of/IN irregularities/NNS and/CC fraud/NN that/IN were/VBD common/JJ in/IN the/DT PRI/NNP -dominated/JJ elections/NNS of/IN Mexico/NNP 's/POS past/JJ ,/, and/CC many/JJ blame/NN Madrazo/NNP ./.
 
 (ROOT
   (S
@@ -742,6 +780,8 @@ prep_of(elections-28, blame-36)
 conj_and(Mexico-30, blame-36)
 appos(blame-36, Madrazo-37)
 
+Madrazo/NNP has/VBZ denied/VBN the/DT claims/NNS ,/, saying/VBG Andrade/NNP is/VBZ the/DT true/JJ winner/NN ./.
+
 (ROOT
   (S
     (NP (NNP Madrazo))
@@ -770,6 +810,8 @@ det(winner-12, the-10)
 amod(winner-12, true-11)
 ccomp(saying-7, winner-12)
 
+On/IN Sunday/NNP ,/, the/DT ruling/VBG party/RB held/VBD a/DT rally/RB celebrating/VBG his/PRP$ victory/NN ./.
+
 (ROOT
   (S
     (PP (IN On)
@@ -794,6 +836,8 @@ dobj(held-7, rally-9)
 xcomp(held-7, celebrating-10)
 poss(victory-12, his-11)
 dobj(celebrating-10, victory-12)
+
+Earlier/NN in/IN the/DT day/NN ,/, Ojeda/NNP said/VBD Fox/NNP should/MD recognize/VB him/PRP as/IN the/DT victor/NN ./.
 
 (ROOT
   (S
@@ -826,6 +870,8 @@ ccomp(said-7, recognize-10)
 dobj(recognize-10, him-11)
 det(victor-14, the-13)
 prep_as(recognize-10, victor-14)
+
+``We/JJ call/NN on/IN Vicente/NNP Fox/NNP to/TO comply/VB with/IN his/PRP$ promise/NN to/TO guarantee/VB democracy/NN in/IN the/DT entire/JJ country/NN ,''/IN he/PRP told/VBD a/DT cheering/NN crowd/NN ./.
 
 (ROOT
   (NP
@@ -871,6 +917,8 @@ det(crowd-23, a-21)
 nn(crowd-23, cheering-22)
 dobj(told-20, crowd-23)
 
+After/IN days/NNS of/IN reviewing/VBG ballots/NNS ,/, one/CD electoral/JJ official/NN ,/, Joaquin/NNP Diaz/NNP ,/, said/VBD he/PRP would/MD not/RB validate/VB the/DT results/NNS and/CC called/VBN on/IN other/JJ election/NN advisers/NNS to/TO do/VB the/DT same/JJ ./.
+
 (ROOT
   (S
     (PP (IN After)
@@ -915,7 +963,7 @@ appos(official-9, Diaz-12)
 root(ROOT-0, said-14)
 nsubj(validate-18, he-15)
 nsubj(called-22, he-15)
-xsubj(do-28, he-15)
+nsubj(do-28, he-15)
 aux(validate-18, would-16)
 neg(validate-18, not-17)
 ccomp(said-14, validate-18)
@@ -930,6 +978,8 @@ aux(do-28, to-27)
 xcomp(called-22, do-28)
 det(same-30, the-29)
 dobj(do-28, same-30)
+
+``I/NNP have/VBP many/JJ doubts/NNS ,/, and/CC I/PRP don't/VBP believe/VBP that/IN I/PRP _/MD or/CC the/DT rest/NN of/IN the/DT advisers/NNS _/MD have/VB the/DT instruments/NNS necessary/JJ to/TO certify/VB the/DT results/NNS ,''/, he/PRP said/VBD ,/, adding/VBG that/IN he/PRP thought/VBD federal/JJ election/NN officials/NNS should/MD step/VB in/RP ./.
 
 (ROOT
   (S
@@ -1002,7 +1052,7 @@ ccomp(believe-9, have-20)
 conj_or(_-12, have-20)
 det(instruments-22, the-21)
 nsubj(necessary-23, instruments-22)
-xsubj(certify-25, instruments-22)
+nsubj(certify-25, instruments-22)
 xcomp(have-20, necessary-23)
 aux(certify-25, to-24)
 xcomp(necessary-23, certify-25)
@@ -1021,6 +1071,8 @@ nsubj(step-40, officials-38)
 aux(step-40, should-39)
 ccomp(thought-35, step-40)
 prt(step-40, in-41)
+
+Floricel/NNP Medina/NNP ,/, local/JJ director/NN for/IN the/DT ruling/VBG party/NN ,/, said/VBD Diaz/NNP 's/POS comments/NNS ``are/VBP not/RB reason/VB enough/JJ to/TO annul/VB the/DT will/NN of/IN the/DT people/NNS ./.
 
 (ROOT
   (S
@@ -1071,6 +1123,8 @@ dobj(annul-20, will-22)
 det(people-25, the-24)
 prep_of(will-22, people-25)
 
+It/PRP 's/VBZ a/DT personal/JJ opinion/NN .''/.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -1084,6 +1138,8 @@ det(opinion-5, a-3)
 amod(opinion-5, personal-4)
 root(ROOT-0, opinion-5)
 punct(opinion-5, .''-6)
+
+Diaz/NNP accused/VBD the/DT president/NN of/IN Tabasco/NNP 's/POS electoral/JJ institute/NN of/IN favoring/VBG the/DT PRI/NNP and/CC pressuring/VBG election/NN officials/NNS to/TO close/VB the/DT preliminary/JJ results/NNS early/RB to/TO benefit/VB Andrade/NNP ./.
 
 (ROOT
   (S
@@ -1130,6 +1186,8 @@ prepc_of(institute-9, pressuring-15)
 conj_and(favoring-11, pressuring-15)
 nn(officials-17, election-16)
 dobj(pressuring-15, officials-17)
+nsubj(close-19, officials-17)
+nsubj(benefit-25, officials-17)
 aux(close-19, to-18)
 xcomp(pressuring-15, close-19)
 det(results-22, the-20)
@@ -1139,6 +1197,8 @@ advmod(close-19, early-23)
 aux(benefit-25, to-24)
 xcomp(close-19, benefit-25)
 dobj(benefit-25, Andrade-26)
+
+Election/NN officials/NNS denied/VBD the/DT accusations/NNS ,/, saying/VBG they/PRP reviewed/VBD each/DT ballot/NN ./.
 
 (ROOT
   (S
@@ -1165,6 +1225,8 @@ nsubj(reviewed-9, they-8)
 ccomp(saying-7, reviewed-9)
 det(ballot-11, each-10)
 dobj(reviewed-9, ballot-11)
+
+``The/JJ results/NNS are/VBP valid/VBN ,''/IN spokesman/NN Marco/NNP Dominguez/NNP said/VBD ./.
 
 (ROOT
   (S

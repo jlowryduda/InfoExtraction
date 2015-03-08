@@ -1,3 +1,5 @@
+APW20001113.2122.0704/DT NEWS/NNP STORY/NNPS 2000-11-13/CD 21:43:28/CD
+
 (ROOT
   (NP
     (NP (DT APW20001113.2122.0704))
@@ -10,10 +12,14 @@ dep(APW20001113.2122.0704-1, STORY-3)
 num(21:43:28-5, 2000-11-13-4)
 dep(APW20001113.2122.0704-1, 21:43:28-5)
 
+ELN-Unfinished-House/NN
+
 (ROOT
   (NP (NN ELN-Unfinished-House)))
 
 root(ROOT-0, ELN-Unfinished-House-1)
+
+Five/NNP House/NNP Races/NNP Still/RB Unsettled/VBD
 
 (ROOT
   (S
@@ -28,12 +34,14 @@ nsubj(Unsettled-5, Races-3)
 advmod(Unsettled-5, Still-4)
 root(ROOT-0, Unsettled-5)
 
+WASHINGTON/NNP [AP/NNP ]/IN _/DT Doubts/NNPS remain/VBP in/IN five/CD races/NNS for/IN the/DT House/NNP of/IN Representatives/NNPS ,/, and/CC while/IN recounts/NNS are/VBP likely/JJ to/TO extend/VB the/DT indecision/NN they/PRP have/VBP no/DT chance/NN of/IN erasing/VBG the/DT Republican/NNP majority/NN for/IN the/DT incoming/NN 107th/JJ Congress/NNP ./.
+
 (ROOT
   (S
     (S
       (NP
-        (NP (NNP WASHINGTON) (NNP (AP))
-        (PP (IN ))
+        (NP (NNP WASHINGTON) (NNP [AP))
+        (PP (IN ])
           (NP (DT _) (NNPS Doubts))))
       (VP (VBP remain)
         (PP (IN in)
@@ -70,10 +78,10 @@ root(ROOT-0, Unsettled-5)
                     (NP (JJ 107th) (NNP Congress))))))))))
     (. .)))
 
-nn((AP-2, WASHINGTON-1)
-nsubj(remain-6, (AP-2)
+nn([AP-2, WASHINGTON-1)
+nsubj(remain-6, [AP-2)
 det(Doubts-5, _-4)
-prep_)((AP-2, Doubts-5)
+prep_]([AP-2, Doubts-5)
 root(ROOT-0, remain-6)
 num(races-9, five-8)
 prep_in(remain-6, races-9)
@@ -82,7 +90,7 @@ prep_for(races-9, House-12)
 prep_of(House-12, Representatives-14)
 mark(likely-20, while-17)
 nsubj(likely-20, recounts-18)
-xsubj(extend-22, recounts-18)
+nsubj(extend-22, recounts-18)
 cop(likely-20, are-19)
 advcl(have-26, likely-20)
 aux(extend-22, to-21)
@@ -101,6 +109,8 @@ det(incoming-36, the-35)
 prep_for(erasing-30, incoming-36)
 amod(Congress-38, 107th-37)
 dep(incoming-36, Congress-38)
+
+The/DT Associated/JJ Press/NNP has/VBZ called/VBN winners/NNS in/IN all/DT but/CC two/CD House/NNP races/NNS :/: New/NNP Jersey/NNP 's/POS 12th/JJ district/NN battle/NN between/IN incumbent/NN Democratic/NNP Rep/NNP ./.
 
 (ROOT
   (S
@@ -143,6 +153,8 @@ dep(races-12, battle-19)
 nn(Rep-23, incumbent-21)
 nn(Rep-23, Democratic-22)
 prep_between(battle-19, Rep-23)
+
+Rush/JJ Holt/NNP and/CC GOP/NNP challenger/NN Dick/NNP Zimmer/NNP ,/, who/WP formerly/RB held/VBD the/DT seat/NN ;/: and/CC in/IN Florida/NNP 's/POS 22nd/JJ District/NNP ,/, where/WRB veteran/NN GOP/NNP Rep/NNP ./.
 
 (ROOT
   (S
@@ -204,6 +216,8 @@ dep(Rep-25, veteran-23)
 nn(Rep-25, GOP-24)
 rcmod(Florida-17, Rep-25)
 
+Clay/NNP Shaw/NNP has/VBZ claimed/VBN a/DT 586-vote/JJ victory/NN following/VBG a/DT recount/NN over/IN Democrat/NNP Elaine/NNP Bloom/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Clay) (NNP Shaw))
@@ -230,6 +244,8 @@ prep_following(victory-7, recount-10)
 nn(Bloom-14, Democrat-12)
 nn(Bloom-14, Elaine-13)
 prep_over(recount-10, Bloom-14)
+
+But/CC there/EX remained/VBD some/DT doubt/NN about/IN narrow/NN decisions/NNS in/IN Minnesota/NNP ,/, California/NNP and/CC Michigan/NNP ,/, where/WRB the/DT apparent/JJ losers/NNS refusing/VBG to/TO concede/VB and/CC recounts/NNS have/VBP either/RB begun/JJ or/CC are/VBP likely/JJ ./.
 
 (ROOT
   (S (CC But)
@@ -269,6 +285,7 @@ expl(remained-3, there-2)
 root(ROOT-0, remained-3)
 det(doubt-5, some-4)
 nsubj(remained-3, doubt-5)
+xcomp(remained-3, doubt-5)
 nn(decisions-8, narrow-7)
 prep_about(doubt-5, decisions-8)
 prep_in(remained-3, Minnesota-10)
@@ -280,7 +297,7 @@ advmod(refusing-20, where-16)
 det(losers-19, the-17)
 amod(losers-19, apparent-18)
 nsubj(refusing-20, losers-19)
-xsubj(concede-22, losers-19)
+nsubj(concede-22, losers-19)
 advcl(remained-3, refusing-20)
 aux(concede-22, to-21)
 xcomp(refusing-20, concede-22)
@@ -293,6 +310,8 @@ dobj(have-25, begun-27)
 cop(likely-30, are-29)
 conj_and(refusing-20, likely-30)
 conj_or(have-25, likely-30)
+
+In/IN Michigan/NNP 's/POS 8th/JJ District/NNP ,/, Republican/NNP Mike/NNP Rogers/NNPS was/VBD leading/VBG Democrat/NNP Dianne/NNP Byrum/NNP by/IN just/RB 152/CD votes/NNS during/IN a/DT recanvass/NN that/WDT must/MD be/VB completed/VBN by/IN Nov/NNP ./.
 
 (ROOT
   (S
@@ -345,12 +364,16 @@ auxpass(completed-25, be-24)
 rcmod(recanvass-21, completed-25)
 agent(completed-25, Nov-27)
 
+21/CD ./.
+
 (ROOT
   (FRAG
     (NP (CD 21))
     (. .)))
 
 root(ROOT-0, 21-1)
+
+Rogers/NNS has/VBZ claimed/VBN the/DT seat/NN and/CC was/VBD taking/VBG part/NN in/IN freshman/JJ orientation/NN events/NNS at/IN the/DT Capitol/NN on/IN Monday/NNP ./.
 
 (ROOT
   (S
@@ -389,6 +412,8 @@ det(Capitol-16, the-15)
 prep_at(taking-8, Capitol-16)
 prep_on(Capitol-16, Monday-18)
 
+``In/IN my/PRP$ mind/NN ,/, the/DT campaign/NN is/VBZ over/IN ,''/DT Rogers/NNS said/VBD ./.
+
 (ROOT
   (S
     (PP (IN ``In)
@@ -411,6 +436,8 @@ det(Rogers-10, ,''-9)
 prep_over(is-7, Rogers-10)
 vmod(Rogers-10, said-11)
 
+``I/PRP 'm/VBP here/RB trying/VBG to/TO prepare/VB for/IN the/DT next/JJ couple/NN of/IN years/NNS .''/.
+
 (ROOT
   (S
     (NP (PRP ``I))
@@ -428,7 +455,7 @@ vmod(Rogers-10, said-11)
     (. .'')))
 
 nsubj(trying-4, ``I-1)
-xsubj(prepare-6, ``I-1)
+nsubj(prepare-6, ``I-1)
 aux(trying-4, 'm-2)
 advmod(trying-4, here-3)
 root(ROOT-0, trying-4)
@@ -439,6 +466,8 @@ amod(couple-10, next-9)
 prep_for(prepare-6, couple-10)
 prep_of(couple-10, years-12)
 punct(trying-4, .''-13)
+
+In/IN Minnesota/NNP ,/, Republican/NNP Mark/NNP Kennedy/NNP won/VBD a/DT 150-vote/JJ decision/NN over/IN four-term/JJ Democratic/JJ Rep/NN ./.
 
 (ROOT
   (S
@@ -464,6 +493,8 @@ amod(Rep-14, four-term-12)
 amod(Rep-14, Democratic-13)
 prep_over(won-7, Rep-14)
 
+David/NNP Minge/NNP for/IN the/DT 2nd/NN District/NNP seat/NN ./.
+
 (ROOT
   (NP
     (NP (NNP David) (NNP Minge))
@@ -477,6 +508,8 @@ det(seat-7, the-4)
 nn(seat-7, 2nd-5)
 nn(seat-7, District-6)
 prep_for(Minge-2, seat-7)
+
+Minge/NNP has/VBZ said/VBN he/PRP will/MD file/VB a/DT lawsuit/NN to/TO request/VB a/DT recount/NN ,/, but/CC under/IN state/NN law/NN he/PRP must/MD wait/VB until/IN the/DT results/NNS are/VBP certified/VBN Nov/NNP ./.
 
 (ROOT
   (S
@@ -534,12 +567,16 @@ auxpass(certified-25, are-24)
 advcl(wait-20, certified-25)
 dobj(certified-25, Nov-26)
 
+21/CD ./.
+
 (ROOT
   (FRAG
     (NP (CD 21))
     (. .)))
 
 root(ROOT-0, 21-1)
+
+Rep/NNP ./.
 
 (ROOT
   (FRAG
@@ -548,13 +585,12 @@ root(ROOT-0, 21-1)
 
 root(ROOT-0, Rep-1)
 
+Steve/NNP Horn/NNP ,/, R/NNP -Calif/NNP .,/NNP had/VBD a/DT more/JJR comfortable/JJ margin/NN of/IN 1,616/CD votes/NNS in/IN his/PRP$ 38th/JJ District/NNP victory/NN over/IN Democrat/NNP Gerrie/NNP Schipske/NNP ,/, but/CC she/PRP has/VBZ refused/VBN to/TO concede/VB and/CC awaits/VB the/DT results/NNS of/IN absentee/NN ballots/NNS and/CC provisional/JJ ballots/NNS cast/VBN by/IN people/NNS whose/WP$ names/NNS didn't/VBP immediately/RB match/JJ lists/NNS at/IN polling/VBG stations/NNS ./.
+
 (ROOT
   (S
     (S
-      (NP
-        (NP (NNP Steve) (NNP Horn))
-        (, ,)
-        (NP (NNP R) (NNP -Calif) (NNP .,)))
+      (NP (NNP Steve) (NNP Horn) (, ,) (NNP R) (NNP -Calif) (NNP .,))
       (VP (VBD had)
         (NP
           (NP (DT a)
@@ -601,11 +637,11 @@ root(ROOT-0, Rep-1)
                                     (NP (VBG polling) (NNS stations))))))))))))))))))
     (. .)))
 
-nn(Horn-2, Steve-1)
-nsubj(had-7, Horn-2)
-nn(.,-6, R-4)
+nn(.,-6, Steve-1)
+nn(.,-6, Horn-2)
+appos(.,-6, R-4)
 nn(.,-6, -Calif-5)
-appos(Horn-2, .,-6)
+nsubj(had-7, .,-6)
 root(ROOT-0, had-7)
 det(margin-11, a-8)
 dep(comfortable-10, more-9)
@@ -621,7 +657,8 @@ nn(Schipske-23, Democrat-21)
 nn(Schipske-23, Gerrie-22)
 prep_over(had-7, Schipske-23)
 nsubj(refused-28, she-26)
-xsubj(concede-30, she-26)
+nsubj(concede-30, she-26)
+nsubj(awaits-32, she-26)
 aux(refused-28, has-27)
 conj_but(had-7, refused-28)
 aux(concede-30, to-29)
@@ -645,6 +682,8 @@ amod(lists-49, match-48)
 dobj(didn't-46, lists-49)
 amod(stations-52, polling-51)
 prep_at(lists-49, stations-52)
+
+About/DT 2,500/CD of/IN these/DT same/JJ provisional/NN ballots/NNS also/RB apparently/RB hold/VB the/DT key/NN to/TO the/DT New/NNP Jersey/NNP race/NN between/IN Holt/NNP and/CC Zimmer/NNP ,/, but/CC further/JJ court/NN action/NN could/MD delay/VB a/DT final/JJ result/NN for/IN some/DT time/NN ./.
 
 (ROOT
   (S
@@ -708,6 +747,8 @@ dobj(delay-28, result-31)
 det(time-34, some-33)
 prep_for(result-31, time-34)
 
+And/CC in/IN Florida/NNP ,/, the/DT same/JJ Palm/NNP Beach/NNP County/NNP disputes/VBZ involved/VBN in/IN the/DT presidential/JJ recount/NN could/MD lead/VB to/TO legal/JJ action/NN by/IN Bloom/NNP ./.
+
 (ROOT
   (S (CC And)
     (PP (IN in)
@@ -746,6 +787,8 @@ ccomp(disputes-10, lead-17)
 amod(action-20, legal-19)
 prep_to(lead-17, action-20)
 prep_by(lead-17, Bloom-22)
+
+Not/RB counting/VBG the/DT Florida/NNP and/CC New/NNP Jersey/NNP races/NNS ,/, Republicans/NNPS now/RB hold/JJ 220/CD seats/NNS in/IN the/DT incoming/NN House/NNP and/CC the/DT Democrats/NNPS have/VBP 211/CD ./.
 
 (ROOT
   (S
@@ -791,6 +834,8 @@ prep_in(seats-14, Democrats-21)
 conj_and(House-18, Democrats-21)
 root(ROOT-0, have-22)
 dobj(have-22, 211-23)
+
+There/EX are/VBP two/CD independents/NNS ,/, one/CD aligned/VBN with/IN each/DT party/NN ,/, effectively/RB giving/VBG the/DT GOP/NNP an/DT edge/NN of/IN 221-212/CD ./.
 
 (ROOT
   (S

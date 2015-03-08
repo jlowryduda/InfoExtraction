@@ -1,3 +1,5 @@
+APW20001212.1729.0582/DT NEWS/NNP STORY/NNPS 2000-12-12/CD 17:34:09/CD
+
 (ROOT
   (NP
     (NP (DT APW20001212.1729.0582))
@@ -10,10 +12,14 @@ dep(APW20001212.1729.0582-1, STORY-3)
 num(17:34:09-5, 2000-12-12-4)
 dep(APW20001212.1729.0582-1, 17:34:09-5)
 
+Wall-Street/NNP
+
 (ROOT
   (NP (NNP Wall-Street)))
 
 root(ROOT-0, Wall-Street-1)
+
+Dow/NNP Gains/NNP 93/CD ;/: Nasdaq/NNP Drops/NNP 40/.
 
 (ROOT
   (NP
@@ -29,10 +35,12 @@ nn(Drops-6, Nasdaq-5)
 dep(Gains-2, Drops-6)
 punct(Gains-2, 40-7)
 
+NEW/NNP YORK/NNP [AP/NNP ]/NNP _/, Stocks/NNS were/VBD mixed/JJ Tuesday/NNP as/IN anxiety/NN about/IN high-tech/JJ earnings/NNS and/CC the/DT election/NN deadlock/NN resurfaced/VBD on/IN Wall/NNP Street/NNP ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP NEW) (NNP YORK) (NNP (AP) (NNP )) (, _))
+      (NP (NNP NEW) (NNP YORK) (NNP [AP) (NNP ]) (, _))
       (NNS Stocks))
     (VP (VBD were)
       (ADJP (JJ mixed))
@@ -51,11 +59,11 @@ punct(Gains-2, 40-7)
               (NP (NNP Wall) (NNP Street)))))))
     (. .)))
 
-nn()-4, NEW-1)
-nn()-4, YORK-2)
-nn()-4, (AP-3)
-nn(Stocks-6, )-4)
-punct()-4, _-5)
+nn(]-4, NEW-1)
+nn(]-4, YORK-2)
+nn(]-4, [AP-3)
+nn(Stocks-6, ]-4)
+punct(]-4, _-5)
 nsubj(mixed-8, Stocks-6)
 cop(mixed-8, were-7)
 root(ROOT-0, mixed-8)
@@ -71,6 +79,8 @@ conj_and(earnings-14, deadlock-18)
 advcl(mixed-8, resurfaced-19)
 nn(Street-22, Wall-21)
 prep_on(resurfaced-19, Street-22)
+
+Technology/NN issues/NNS rose/VBD smartly/RB late/JJ last/JJ week/NN after/IN Federal/NNP Reserve/NNP Chairman/NNP Alan/NNP Greenspan/NNP said/VBD he/PRP was/VBD inclined/VBN to/TO lower/VB interest/NN rates/NNS early/RB next/JJ year/NN ./.
 
 (ROOT
   (S
@@ -109,7 +119,7 @@ nn(Greenspan-13, Alan-12)
 nsubj(said-14, Greenspan-13)
 advcl(rose-3, said-14)
 nsubjpass(inclined-17, he-15)
-xsubj(lower-19, he-15)
+nsubj(lower-19, he-15)
 auxpass(inclined-17, was-16)
 ccomp(said-14, inclined-17)
 aux(lower-19, to-18)
@@ -119,6 +129,8 @@ dobj(lower-19, rates-21)
 advmod(year-24, early-22)
 amod(year-24, next-23)
 tmod(lower-19, year-24)
+
+High-techs/JJ also/RB advanced/VBD Monday/NNP ,/, but/CC investors/NNS are/VBP too/RB worried/VBN about/IN poor/NN earnings/NNS to/TO extend/VB the/DT rally/RB ,/, analysts/NNS said/VBD ./.
 
 (ROOT
   (S
@@ -151,7 +163,7 @@ advmod(advanced-3, also-2)
 ccomp(said-20, advanced-3)
 tmod(advanced-3, Monday-4)
 nsubjpass(worried-10, investors-7)
-xsubj(extend-15, investors-7)
+nsubj(extend-15, investors-7)
 auxpass(worried-10, are-8)
 advmod(worried-10, too-9)
 conj_but(advanced-3, worried-10)
@@ -164,6 +176,8 @@ det(rally-17, the-16)
 dobj(extend-15, rally-17)
 nsubj(said-20, analysts-19)
 root(ROOT-0, said-20)
+
+``There/RB was/VBD some/DT initial/JJ euphoria/NNS in/IN the/DT wake/NN of/IN Alan/NNP Greenspan/NNP 's/POS clear/JJ message/NN that/IN he/PRP is/VBZ poised/VBN to/TO rescue/VB the/DT economy/NN if/IN it/PRP heads/VBZ toward/NN recession/NN ,/, but/CC there/RB are/VBP still/RB some/DT concerns/NNS especially/RB in/IN the/DT chip/NN sector/NN that/IN earnings/NNS will/MD be/VB disappointing/VBG ,''/IN said/VBD Alan/NNP Skrainka/NNP ,/, chief/JJ market/NN strategist/NN for/IN A.G./NNP Edwards/NNP &/CC Sons/NNP Inc/NNP ./.
 
 (ROOT
   (SINV
@@ -236,7 +250,7 @@ amod(message-14, clear-13)
 prep_of(wake-8, message-14)
 dep(said-46, that-15)
 nsubjpass(poised-18, he-16)
-xsubj(rescue-20, he-16)
+nsubj(rescue-20, he-16)
 auxpass(poised-18, is-17)
 dep(said-46, poised-18)
 aux(rescue-20, to-19)
@@ -276,6 +290,8 @@ nn(Inc-58, Sons-57)
 prep_for(strategist-52, Inc-58)
 conj_and(Edwards-55, Inc-58)
 
+in/IN St./NNP Louis/NNP ./.
+
 (ROOT
   (FRAG
     (PP (IN in)
@@ -285,6 +301,8 @@ conj_and(Edwards-55, Inc-58)
 root(ROOT-0, in-1)
 nn(Louis-3, St.-2)
 pobj(in-1, Louis-3)
+
+``So/NNP we/PRP are/VBP seeing/VBG a/DT shift/NN to/TO some/DT of/IN the/DT defensive/JJ ,/, more/RBR stable/JJ stocks/NNS .''/.
 
 (ROOT
   (S
@@ -315,6 +333,8 @@ amod(stocks-15, stable-14)
 prep_of(some-8, stocks-15)
 punct(seeing-4, .''-16)
 
+The/DT Dow/NNP Jones/NNP industrial/JJ average/NN rose/VBD 92.91/CD to/TO 10,818.71/CD ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Dow) (NNP Jones) (JJ industrial) (NN average))
@@ -333,6 +353,8 @@ number(10,818.71-9, 92.91-7)
 dep(10,818.71-9, to-8)
 dobj(rose-6, 10,818.71-9)
 
+Broader/NNP indicators/NNS were/VBD lower/JJR ./.
+
 (ROOT
   (S
     (NP (NNP Broader) (NNS indicators))
@@ -344,6 +366,8 @@ nn(indicators-2, Broader-1)
 nsubj(lower-4, indicators-2)
 cop(lower-4, were-3)
 root(ROOT-0, lower-4)
+
+The/DT Nasdaq/NNP composite/JJ index/NN was/VBD down/RB 39.82/CD at/IN 2,975.28/CD ,/, and/CC the/DT Standard/NNP &/CC Poor/NNP 's/POS 500/CD index/NN was/VBD off/RB 2.84/CD at/IN 1,377.36/CD ./.
 
 (ROOT
   (S
@@ -388,6 +412,8 @@ advmod(was-19, off-20)
 pobj(off-20, 2.84-21)
 prep_at(was-19, 1,377.36-23)
 
+``Some/JJ people/NNS feel/VBP that/IN 3,000/CD in/IN the/DT Nasdaq/NNP is/VBZ an/DT important/JJ level/NN ./.
+
 (ROOT
   (S
     (NP (JJ ``Some) (NNS people))
@@ -413,6 +439,8 @@ cop(level-12, is-9)
 det(level-12, an-10)
 amod(level-12, important-11)
 ccomp(feel-3, level-12)
+
+So/RB ,/, we/PRP are/VBP seeing/VBG some/DT profit/NN taking/VBG ,''/DT Skrainka/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -440,6 +468,8 @@ vmod(seeing-5, taking-8)
 det(Skrainka-10, ,''-9)
 nsubj(said-11, Skrainka-10)
 ccomp(taking-8, said-11)
+
+``Clearly/RB ,/, the/DT short-term/JJ is/VBZ dominated/VBN by/IN worries/NNS about/IN the/DT political/JJ situation/NN and/CC fourth-quarter/JJ earnings/NNS .''/.
 
 (ROOT
   (S
@@ -472,6 +502,8 @@ prep_about(worries-8, earnings-15)
 conj_and(situation-12, earnings-15)
 punct(dominated-6, .''-16)
 
+Investors/NNS awaited/VBD a/DT decision/NN expected/VBN later/RBR in/IN the/DT day/NN from/IN the/DT U.S/NNP ./.
+
 (ROOT
   (S
     (NP (NNS Investors))
@@ -497,6 +529,8 @@ det(day-9, the-8)
 prep_in(expected-5, day-9)
 det(U.S-12, the-11)
 prep_from(day-9, U.S-12)
+
+Supreme/NNP Court/NNP on/IN whether/IN to/TO allow/VB Florida/NNP to/TO recount/VB its/PRP$ election/NN ballots/NNS to/TO determine/VB whether/IN Vice/NNP President/NNP Al/NNP Gore/NNP or/CC Texas/NNP Gov/NNP ./.
 
 (ROOT
   (NP
@@ -525,6 +559,7 @@ root(ROOT-0, Court-2)
 mark(allow-6, whether-4)
 aux(allow-6, to-5)
 prepc_on(Court-2, allow-6)
+dobj(allow-6, Florida-7)
 nsubj(recount-9, Florida-7)
 aux(recount-9, to-8)
 xcomp(allow-6, recount-9)
@@ -541,6 +576,8 @@ nn(Gov-22, Texas-21)
 prep_whether(determine-14, Gov-22)
 conj_or(Gore-19, Gov-22)
 
+George/NNP W./NNP Bush/NNP will/MD be/VB president/NN ./.
+
 (ROOT
   (S
     (NP (NNP George) (NNP W.) (NNP Bush))
@@ -555,6 +592,8 @@ nsubj(president-6, Bush-3)
 aux(president-6, will-4)
 cop(president-6, be-5)
 root(ROOT-0, president-6)
+
+Wall/NNP Street/NNP considered/VBN the/DT protracted/JJ political/JJ uncertainty/NN as/IN a/DT reason/NN to/TO sell/VB tech/NN stocks/NNS and/CC retreat/NN to/TO blue/VB chips/NNS ./.
 
 (ROOT
   (S
@@ -587,12 +626,16 @@ prep_as(considered-3, reason-10)
 aux(sell-12, to-11)
 vmod(reason-10, sell-12)
 nn(stocks-14, tech-13)
+dobj(sell-12, stocks-14)
 nsubj(blue-18, stocks-14)
+dobj(sell-12, retreat-16)
 conj_and(stocks-14, retreat-16)
 nsubj(blue-18, retreat-16)
 aux(blue-18, to-17)
 xcomp(sell-12, blue-18)
 dobj(blue-18, chips-19)
+
+Chip/NN makers/NNS were/VBD mixed/JJ after/IN Advanced/DT Micro/NNP Devices/NNPS warned/VBD Monday/NNP that/WDT weak/VBZ demand/NN for/IN personal/JJ computers/NNS would/MD lead/VB to/TO lower-than-expected/JJ fourth-quarter/JJ earnings/NNS ./.
 
 (ROOT
   (S
@@ -640,6 +683,8 @@ ccomp(weak-12, lead-18)
 amod(earnings-22, lower-than-expected-20)
 amod(earnings-22, fourth-quarter-21)
 prep_to(lead-18, earnings-22)
+
+AMD/DT inched/VBN up/RP 25/CD cents/NNS to/TO trade/NN at/IN $17.56/CD ,/, but/CC Intel/NNP ,/, which/WDT issued/VBD a/DT similar/JJ warning/NN last/JJ week/NN ,/, tumbled/VBD $2.38/CD to/TO $35.06/CD ./.
 
 (ROOT
   (S
@@ -690,6 +735,8 @@ number($35.06-25, $2.38-23)
 dep($35.06-25, to-24)
 dobj(tumbled-22, $35.06-25)
 
+Microsoft/NNP slid/VBD $2.19/CD to/TO $55.88/CD ./.
+
 (ROOT
   (S
     (NP (NNP Microsoft))
@@ -703,6 +750,8 @@ root(ROOT-0, slid-2)
 number($55.88-5, $2.19-3)
 dep($55.88-5, to-4)
 dobj(slid-2, $55.88-5)
+
+Network/NNP equipment/NN maker/NN Cisco/NNP fell/VBD 50/CD cents/NNS to/TO $54.31/CD ./.
 
 (ROOT
   (S
@@ -723,6 +772,8 @@ number(cents-7, 50-6)
 dobj(fell-5, cents-7)
 dep(cents-7, to-8)
 number(cents-7, $54.31-9)
+
+The/DT Dow/NNP saw/NNP big/JJ price/NN changes/NNS and/CC heavy/JJ trading/NN in/IN two/CD of/IN its/PRP$ most/RBS well-known/JJ components/NNS ./.
 
 (ROOT
   (NP
@@ -753,6 +804,8 @@ poss(components-16, its-13)
 advmod(well-known-15, most-14)
 amod(components-16, well-known-15)
 prep_of(saw-3, components-16)
+
+General/NNP Electric/NNP was/VBD significantly/RB lower/JJR despite/IN an/DT upbeat/NN outlook/NN delivered/VBN Monday/NNP by/IN CEO/NNP Jack/NNP Welch/NNP to/TO analysts/NNS ./.
 
 (ROOT
   (S
@@ -785,6 +838,8 @@ nn(Welch-15, CEO-13)
 nn(Welch-15, Jack-14)
 agent(delivered-10, Welch-15)
 prep_to(Welch-15, analysts-17)
+
+GE/NNP ,/, which/WDT also/RB announced/VBD it/PRP will/MD take/VB a/DT $4/CD billion/CD charge/NN for/IN its/PRP$ acquisition/NN of/IN Honeywell/NNP ,/, fell/VBD $1.38/CD to/TO $53.94/CD ./.
 
 (ROOT
   (S
@@ -836,6 +891,8 @@ number($53.94-22, $1.38-20)
 dep($53.94-22, to-21)
 dobj(fell-19, $53.94-22)
 
+But/CC General/NNP Motors/NNPS rose/VBD $2.13/CD to/TO $53.69/CD after/IN the/DT automaker/NN announced/VBD it/PRP will/MD phase/VB out/IN its/PRP$ Oldsmobile/JJ division/NN ./.
+
 (ROOT
   (S (CC But)
     (NP (NNP General) (NNPS Motors))
@@ -873,6 +930,8 @@ poss(division-18, its-16)
 amod(division-18, Oldsmobile-17)
 prep_out(phase-14, division-18)
 
+So-called/JJ defensive/JJ buys/NNS traded/VBD higher/JJR ./.
+
 (ROOT
   (S
     (NP (JJ So-called) (JJ defensive) (NNS buys))
@@ -885,6 +944,8 @@ amod(buys-3, defensive-2)
 nsubj(traded-4, buys-3)
 root(ROOT-0, traded-4)
 acomp(traded-4, higher-5)
+
+Banker/NNP J.P./NNP Morgan/NNP soared/VBD $3.19/CD to/TO $159.94/CD ,/, and/CC drug/NN maker/NN Johnson/NNP &/CC Johnson/NNP rose/VBD $1.25/CD to/TO $96.88/CD ./.
 
 (ROOT
   (S
@@ -920,6 +981,8 @@ conj_and(soared-4, rose-15)
 number($96.88-18, $1.25-16)
 dep($96.88-18, to-17)
 dobj(rose-15, $96.88-18)
+
+Energy/NNP stocks/NNS were/VBD mixed/JJ after/IN industry/NN economists/NNS told/VBD the/DT Senate/NNP that/IN natural/JJ gas/NNS and/CC heating-oil/NN prices/NNS will/MD be/VB high/JJ this/DT winter/NN ./.
 
 (ROOT
   (S
@@ -964,6 +1027,8 @@ ccomp(told-8, high-19)
 det(winter-21, this-20)
 tmod(high-19, winter-21)
 
+They/PRP cited/VBD soaring/VBG demand/NN ,/, low/JJ inventories/NNS and/CC forecast/NN for/IN colder/NN weather/NN ./.
+
 (ROOT
   (S
     (NP (PRP They))
@@ -990,6 +1055,8 @@ dobj(cited-2, forecast-9)
 conj_and(demand-4, forecast-9)
 nn(weather-12, colder-11)
 prep_for(forecast-9, weather-12)
+
+Enron/NNP was/VBD down/RB 81/CD cents/NNS at/IN $75.69/CD ,/, but/CC Exxon/NNP Mobile/NNP was/VBD up/RB 63/CD cents/NNS at/IN $86.38/CD ./.
 
 (ROOT
   (S
@@ -1025,6 +1092,8 @@ num(cents-15, 63-14)
 pobj(up-13, cents-15)
 prep_at(was-12, $86.38-17)
 
+The/DT Russell/NNP 2000/CD index/NN was/VBD down/RB 3.84/CD at/IN 483.39/CD ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Russell) (CD 2000) (NN index))
@@ -1043,6 +1112,8 @@ root(ROOT-0, was-5)
 advmod(was-5, down-6)
 pobj(down-6, 3.84-7)
 prep_at(was-5, 483.39-9)
+
+Declining/VBG issues/NNS outnumbered/VBN advancers/NNS 4/CD to/TO 3/CD on/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP where/WRB volume/NN was/VBD 493.10/CD million/CD shares/NNS ,/, down/RB from/IN Monday's/NNP 522.67/CD million/CD ./.
 
 (ROOT
   (S
@@ -1095,10 +1166,14 @@ prep_from(down-21, Monday's-23)
 number(million-25, 522.67-24)
 dobj(issues-2, million-25)
 
+___/.
+
 (ROOT
   (NP (. ___)))
 
 root(ROOT-0, ___-1)
+
+On/IN the/DT Net/NN :/:
 
 (ROOT
   (PP (IN On)
@@ -1108,6 +1183,8 @@ root(ROOT-0, ___-1)
 root(ROOT-0, On-1)
 det(Net-3, the-2)
 pobj(On-1, Net-3)
+
+New/NNP York/NNP Stock/NNP Exchange/NNP :/: http:/.
 
 (ROOT
   (NP
@@ -1120,6 +1197,8 @@ nn(Exchange-4, York-2)
 nn(Exchange-4, Stock-3)
 root(ROOT-0, Exchange-4)
 dep(Exchange-4, http:-6)
+
+Nasdaq/NNP Stock/NNP Market/NNP :/: http:/.
 
 (ROOT
   (NP

@@ -1,3 +1,5 @@
+APW20001031.0325.0168/DT NEWS/NNP STORY/NNPS 2000-10-31/CD 03:44:23/CD
+
 (ROOT
   (NP
     (NP (DT APW20001031.0325.0168))
@@ -10,10 +12,14 @@ dep(APW20001031.0325.0168-1, STORY-3)
 num(03:44:23-5, 2000-10-31-4)
 dep(APW20001031.0325.0168-1, 03:44:23-5)
 
+Japan-Economy/NNP
+
 (ROOT
   (NP (NNP Japan-Economy)))
 
 root(ROOT-0, Japan-Economy-1)
+
+Japan/NNP 's/POS Central/NNP Bank/NNP Expects/NNS Growth/NNP
 
 (ROOT
   (NP
@@ -30,10 +36,12 @@ root(ROOT-0, Bank-4)
 dep(Bank-4, Expects-5)
 appos(Bank-4, Growth-6)
 
+TOKYO/NNP [AP/NNP ]/NNP _/IN Japan/NNP 's/POS central/JJ bank/NN on/IN Tuesday/NNP forecast/JJ strong/JJ economic/JJ growth/NN of/IN between/IN 1.9/CD percent/JJ and/CC 2.3/CD percent/NN for/IN the/DT current/JJ fiscal/JJ year/NN _/IN a/DT prediction/NN far/RB more/JJR optimistic/JJ than/IN the/DT government/NN 's/POS expectations/NNS ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP TOKYO) (NNP (AP) (NNP )))
+      (NP (NNP TOKYO) (NNP [AP) (NNP ]))
       (PP (IN _)
         (NP
           (NP
@@ -67,12 +75,12 @@ appos(Bank-4, Growth-6)
           (NNS expectations))))
     (. .)))
 
-nn()-3, TOKYO-1)
-nn()-3, (AP-2)
-nsubj(forecast-11, )-3)
+nn(]-3, TOKYO-1)
+nn(]-3, [AP-2)
+nsubj(forecast-11, ]-3)
 poss(bank-8, Japan-5)
 amod(bank-8, central-7)
-prep__()-3, bank-8)
+prep__(]-3, bank-8)
 prep_on(bank-8, Tuesday-10)
 root(ROOT-0, forecast-11)
 amod(growth-14, strong-12)
@@ -96,6 +104,8 @@ amod(prediction-29, optimistic-32)
 det(government-35, the-34)
 poss(expectations-37, government-35)
 prep_than(forecast-11, expectations-37)
+
+In/IN a/DT wide-ranging/JJ report/NN on/IN the/DT outlook/NN for/IN the/DT troubled/JJ economy/NN ,/, the/DT Bank/NNP of/IN Japan/NNP policy/NN board/NN said/VBD the/DT country/NN would/MD continue/VB a/DT gradual/JJ private/JJ demand-led/JJ recovery/NN over/IN this/DT year/NN and/CC next/JJ ./.
 
 (ROOT
   (S
@@ -154,6 +164,8 @@ det(year-31, this-30)
 prep_over(continue-23, year-31)
 prep_over(continue-23, next-33)
 conj_and(year-31, next-33)
+
+The/DT bank/NN said/VBD ,/, however/RB ,/, that/IN the/DT ``pace/NN of/IN recovery/NN in/IN personal/JJ consumption/NN will/MD be/VB slow/NN ''/'' because/IN it/PRP will/MD take/VB time/NN for/IN the/DT improvement/NN in/IN the/DT corporate/JJ sector/NN to/TO filter/VB through/IN to/TO the/DT household/JJ sector/NN ./.
 
 (ROOT
   (S
@@ -224,6 +236,8 @@ det(sector-37, the-35)
 amod(sector-37, household-36)
 pobj(to-34, sector-37)
 
+Despite/IN those/DT reservations/NNS ,/, the/DT BOJ/NNP 's/POS outlook/NN for/IN the/DT fiscal/JJ year/NN ending/VBG next/JJ March/NNP 31/CD was/VBD far/RB rosier/JJR than/IN the/DT government/NN 's/POS ./.
+
 (ROOT
   (S
     (PP (IN Despite)
@@ -264,6 +278,8 @@ det(government-22, the-21)
 prep_than(rosier-19, government-22)
 possessive(government-22, 's-23)
 
+The/DT Economic/NNP Planning/NNP Agency/NNP has/VBZ forecast/VBN growth/NN in/IN gross/JJ domestic/JJ product/NN at/IN 1.5/CD percent/JJ ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Economic) (NNP Planning) (NNP Agency))
@@ -293,6 +309,8 @@ prep_in(growth-7, product-11)
 prep_at(product-11, 1.5-13)
 xcomp(forecast-6, percent-14)
 
+The/DT optimistic/JJ report/NN comes/NNS as/IN Japan/NNP is/VBZ struggling/VBG to/TO emerge/VB from/IN its/PRP$ worst/JJ economic/JJ downturn/NN since/IN World/NNP War/NNP II/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -314,7 +332,7 @@ det(comes-4, The-1)
 amod(comes-4, optimistic-2)
 nn(comes-4, report-3)
 nsubj(struggling-8, comes-4)
-xsubj(emerge-10, comes-4)
+nsubj(emerge-10, comes-4)
 prep_as(comes-4, Japan-6)
 aux(struggling-8, is-7)
 root(ROOT-0, struggling-8)
@@ -327,6 +345,8 @@ prep_from(emerge-10, downturn-15)
 nn(II-19, World-17)
 nn(II-19, War-18)
 prep_since(emerge-10, II-19)
+
+The/DT economy/NN is/VBZ beginning/VBG to/TO grow/VB ,/, but/CC private/JJ demand/NN is/VBZ lagging/VBG behind/IN the/DT corporate/JJ recovery/NN ./.
 
 (ROOT
   (S
@@ -349,7 +369,7 @@ prep_since(emerge-10, II-19)
 
 det(economy-2, The-1)
 nsubj(beginning-4, economy-2)
-xsubj(grow-6, economy-2)
+nsubj(grow-6, economy-2)
 aux(beginning-4, is-3)
 root(ROOT-0, beginning-4)
 aux(grow-6, to-5)
@@ -361,6 +381,8 @@ conj_but(beginning-4, lagging-12)
 det(recovery-16, the-14)
 amod(recovery-16, corporate-15)
 prep_behind(lagging-12, recovery-16)
+
+Unemployment/NN continues/NNS to/TO be/VB a/DT problem/NN ./.
 
 (ROOT
   (S
@@ -376,6 +398,8 @@ aux(problem-6, to-3)
 cop(problem-6, be-4)
 det(problem-6, a-5)
 root(ROOT-0, problem-6)
+
+The/DT government/NN announced/VBD on/IN Tuesday/NNP that/IN the/DT jobless/JJ rate/NN had/VBD edged/VBN up/RP to/TO 4.7/CD percent/NN in/IN September/NNP ./.
 
 (ROOT
   (S
@@ -410,6 +434,8 @@ prt(edged-11, up-12)
 num(percent-15, 4.7-14)
 prep_to(edged-11, percent-15)
 prep_in(percent-15, September-17)
+
+The/DT rate/NN was/VBD at/IN 4.6/CD percent/NN in/IN August/NNP ,/, after/IN hitting/VBG a/DT postwar/NN record/NN high/NN of/IN 4.9/CD percent/JJ in/IN February/NNP ./.
 
 (ROOT
   (S
@@ -448,6 +474,8 @@ nsubj(percent-18, high-15)
 prep_of(high-15, 4.9-17)
 xcomp(hitting-11, percent-18)
 prep_in(percent-18, February-20)
+
+In/IN its/PRP$ report/NN Tuesday/NNP ,/, the/DT BOJ/NNP predicted/VBD that/IN corporate/JJ capital/NN investment/NN will/MD increase/VB over/IN the/DT next/JJ 12/CD months/NNS ,/, especially/RB in/IN information/NN and/CC communications-related/JJ sectors/NNS ./.
 
 (ROOT
   (S
@@ -494,6 +522,8 @@ conj_and(information-23, communications-related-25)
 nn(sectors-26, communications-related-25)
 prep_in(increase-14, sectors-26)
 
+The/DT forecast/NN also/RB included/VBD projections/NNS on/IN prices/NNS ./.
+
 (ROOT
   (S
     (NP (DT The) (NN forecast))
@@ -510,6 +540,8 @@ advmod(included-4, also-3)
 root(ROOT-0, included-4)
 dobj(included-4, projections-5)
 prep_on(included-4, prices-7)
+
+The/DT BOJ/NNP said/VBD the/DT core/NN consumer/NN price/NN index/NN ,/, which/WDT excludes/VBZ fresh/JJ food/NN prices/NNS ,/, would/MD fall/VB from/IN 0.2/CD percent/JJ to/TO 0.4/CD percent/NN ./.
 
 (ROOT
   (S
@@ -555,6 +587,8 @@ acomp(fall-17, percent-20)
 num(percent-23, 0.4-22)
 prep_to(percent-20, percent-23)
 
+The/DT forecasts/NNS reflected/VBD a/DT range/NN of/IN opinion/NN among/IN the/DT board/NN members/NNS ,/, with/IN the/DT lowest/JJS and/CC highest/JJS predictions/NNS excluded/VBN ./.
+
 (ROOT
   (S
     (NP (DT The) (NNS forecasts))
@@ -591,6 +625,8 @@ prep_with(reflected-3, predictions-18)
 conj_and(lowest-15, predictions-18)
 vmod(predictions-18, excluded-19)
 
+Despite/IN the/DT strong/JJ growth/NN forecast/NN ,/, the/DT BOJ/NNP said/VBD problems/NNS still/RB lingered/VBN in/IN the/DT economy/NN ./.
+
 (ROOT
   (S
     (PP (IN Despite)
@@ -619,6 +655,8 @@ advmod(lingered-12, still-11)
 vmod(problems-10, lingered-12)
 det(economy-15, the-14)
 prep_in(lingered-12, economy-15)
+
+Slow/JJ spending/NN ,/, coupled/VBN with/IN structural/JJ problems/NNS such/JJ as/IN corporate/JJ restructuring/NN and/CC balance/NN sheet/NN problems/NNS ,/, will/MD mean/VB ``the/DT expansion/NN of/IN the/DT economy/NN is/VBZ unlikely/RB to/TO be/VB vigorous/JJ ''/'' the/DT BOJ/NNP board/NN noted/VBD ./.
 
 (ROOT
   (S
@@ -671,7 +709,7 @@ aux(mean-18, will-17)
 root(ROOT-0, mean-18)
 det(expansion-20, ``the-19)
 nsubj(unlikely-25, expansion-20)
-xsubj(vigorous-28, expansion-20)
+nsubj(vigorous-28, expansion-20)
 det(economy-23, the-22)
 prep_of(expansion-20, economy-23)
 cop(unlikely-25, is-24)
@@ -683,6 +721,8 @@ det(board-32, the-30)
 nn(board-32, BOJ-31)
 nsubj(noted-33, board-32)
 rcmod(vigorous-28, noted-33)
+
+Higher/NNP oil/NN prices/NNS were/VBD another/DT problem/NN ./.
 
 (ROOT
   (S
@@ -697,6 +737,8 @@ nsubj(problem-6, prices-3)
 cop(problem-6, were-4)
 det(problem-6, another-5)
 root(ROOT-0, problem-6)
+
+The/DT BOJ/NNP board/NN said/VBD that/IN while/IN they/PRP won't/MD have/VB much/RB direct/JJ impact/NN on/IN the/DT Japanese/JJ economy/NN for/IN the/DT time/NN being/VBG ,/, they/PRP could/MD give/VB rise/NN to/TO inflation/NN in/IN other/JJ countries/NNS ,/, potentially/RB affecting/VBG Japan/NNP ./.
 
 (ROOT
   (S
@@ -761,6 +803,8 @@ prep_in(inflation-27, countries-30)
 advmod(affecting-33, potentially-32)
 vmod(give-24, affecting-33)
 dobj(affecting-33, Japan-34)
+
+The/DT board/NN said/VBD that/IN while/IN restructuring/VBG at/IN companies/NNS and/CC financial/JJ institutions/NNS might/MD ``lay/VB the/DT foundation/NN for/IN economic/JJ growth/NN over/IN the/DT medium/NN to/TO long/JJ term/NN ,''/NN in/IN the/DT short/JJ term/NN such/JJ moves/NNS could/MD ``further/VB adversely/RB affect/VB the/DT economy/NN .''/.
 
 (ROOT
   (S
@@ -835,6 +879,8 @@ det(economy-37, the-36)
 dobj(affect-35, economy-37)
 punct(said-3, .''-38)
 
+In/IN the/DT financial/JJ sector/NN ,/, the/DT board/NN said/VBD that/DT bank/NN lending/VBG was/VBD expected/VBN to/TO stay/VB sluggish/JJ ./.
+
 (ROOT
   (S
     (PP (IN In)
@@ -863,11 +909,11 @@ nsubj(said-8, board-7)
 root(ROOT-0, said-8)
 det(bank-10, that-9)
 nsubjpass(expected-13, bank-10)
-xsubj(sluggish-16, bank-10)
+nsubj(stay-15, bank-10)
 vmod(bank-10, lending-11)
 auxpass(expected-13, was-12)
 ccomp(said-8, expected-13)
-aux(sluggish-16, to-14)
-cop(sluggish-16, stay-15)
-xcomp(expected-13, sluggish-16)
+aux(stay-15, to-14)
+xcomp(expected-13, stay-15)
+acomp(stay-15, sluggish-16)
 

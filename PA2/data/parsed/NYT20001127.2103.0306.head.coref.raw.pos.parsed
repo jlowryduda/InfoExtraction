@@ -1,3 +1,5 @@
+NYT20001127.2103.0306/NNP NEWS/NNP STORY/NNP 2000-11-27/CD 21:10:00/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001127.2103.0306) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(21:10:00-5, 2000-11-27-4)
 dep(STORY-3, 21:10:00-5)
+
+A2399/CD &Cx1f/NN ;/: taf-z/NNP u/NNP p/NNP BC-ELN-BUSH-CARD-NYT/NNP &LR/NNP ;/: 11-27/CD 0909/CD
 
 (ROOT
   (NP
@@ -29,10 +33,14 @@ dep(&Cx1f-2, &LR-8)
 number(0909-11, 11-27-10)
 dep(&LR-8, 0909-11)
 
+BC-ELN-BUSH-CARD-NYT/NNP
+
 (ROOT
   (NP (NNP BC-ELN-BUSH-CARD-NYT)))
 
 root(ROOT-0, BC-ELN-BUSH-CARD-NYT-1)
+
+WASHINGTON/NNP INSIDER/NNP AND/NNP FAMILY/NNP LOYALIST/NNP POISED/NNP TO/NNP BE/NNP BUSH/.
 
 (ROOT
   (NP (NNP WASHINGTON) (NNP INSIDER) (NNP AND) (NNP FAMILY) (NNP LOYALIST) (NNP POISED) (NNP TO) (NNP BE) (. BUSH)))
@@ -46,6 +54,8 @@ nn(BE-8, POISED-6)
 nn(BE-8, TO-7)
 root(ROOT-0, BE-8)
 punct(BE-8, BUSH-9)
+
+CHIEF-OF-STAFF/JJ &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: By/NNP ELAINE/NNP SCIOLINO/NNP &LR/NNP ;/: &QC/NNP ;/: &UR/NNS ;/: &QL/NNP ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -87,6 +97,8 @@ dep(&LR-2, &QL-17)
 dep(&QL-17, c.2000-19)
 appos(c.2000-19, N.Y-20)
 
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &QL/NNS ;/: &LR/NNS ;/: WASHINGTON/NNP _/NNP The/DT way/NN Andrew/IN H./NNP Card/NNP Jr/NNP ./.
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -117,6 +129,8 @@ dep(_-11, way-13)
 nn(Jr-17, H.-15)
 nn(Jr-17, Card-16)
 prep_andrew(_-11, Jr-17)
+
+tells/IN it/PRP ,/, the/DT first/JJ time/NN he/PRP ever/RB set/VBD eyes/NNS on/IN George/NNP W./NNP Bush/NNP in/IN Kennebunkport/NNP ,/, Maine/NNP ,/, in/IN 1979/CD ,/, the/DT younger/NNP Bush/NNP cut/VBD a/DT most/RBS unimpressive/JJ profile/NN ./.
 
 (ROOT
   (S
@@ -170,6 +184,8 @@ advmod(unimpressive-29, most-28)
 amod(profile-30, unimpressive-29)
 dobj(cut-26, profile-30)
 
+&HT/NNS ;/: Bush/NNP was/VBD a/DT defeated/JJ politician/NN who/WP had/VBD failed/VBD in/IN his/PRP$ bid/NN the/DT year/NN before/RB to/TO become/VB a/DT congressman/NN from/IN Texas/NNP ./.
+
 (ROOT
   (NP
     (NP (NNS &HT))
@@ -204,7 +220,7 @@ det(politician-7, a-5)
 amod(politician-7, defeated-6)
 dep(&HT-1, politician-7)
 nsubj(failed-10, politician-7)
-xsubj(congressman-20, politician-7)
+nsubj(become-18, politician-7)
 aux(failed-10, had-9)
 rcmod(politician-7, failed-10)
 poss(bid-13, his-12)
@@ -212,11 +228,13 @@ prep_in(failed-10, bid-13)
 det(year-15, the-14)
 dep(bid-13, year-15)
 advmod(failed-10, before-16)
-aux(congressman-20, to-17)
-cop(congressman-20, become-18)
+aux(become-18, to-17)
+xcomp(failed-10, become-18)
 det(congressman-20, a-19)
-xcomp(failed-10, congressman-20)
-prep_from(congressman-20, Texas-22)
+xcomp(become-18, congressman-20)
+prep_from(become-18, Texas-22)
+
+And/CC Card/NNP ,/, a/DT Republican/NNP state/NN legislator/NN from/IN Massachusetts/NNP helping/VBG the/DT elder/NN George/NNP Bush/NNP seek/VBZ the/DT Republican/NNP nomination/NN for/IN president/NN ,/, was/VBD taken/VBN aback/NN by/IN the/DT difference/NN between/IN what/WP he/PRP saw/NN as/IN the/DT patrician/JJ father/NN and/CC plebeian/JJ son/NN ./.
 
 (ROOT
   (S (CC And)
@@ -290,6 +308,8 @@ amod(son-38, plebeian-37)
 prep_as(saw-31, son-38)
 conj_and(father-35, son-38)
 
+``I/NNP expected/VBN to/TO see/VB a/DT Yalie/NNP and/CC what/WP I/PRP saw/NNP was/VBD West/NNP Texas/NNP ,''/, Card/NNP said/VBD in/IN a/DT telephone/NN interview/NN of/IN that/DT first/JJ encounter/NN with/IN the/DT younger/NN George/NN ./.
+
 (ROOT
   (S
     (NP
@@ -347,6 +367,8 @@ det(George-28, the-26)
 nn(George-28, younger-27)
 prep_with(said-16, George-28)
 
+``He/PRP was/VBD wearing/VBG cowboy/JJ boots/NNS and/CC dirty/NN jeans/NNS and/CC was/VBD chewing/VBG tobacco/NN and/CC it/PRP was/VBD drooling/VBG out/RP of/IN his/PRP$ mouth/NN .''/.
+
 (ROOT
   (S
     (S
@@ -390,6 +412,8 @@ poss(mouth-20, his-19)
 prep_out_of(drooling-16, mouth-20)
 punct(wearing-3, .''-21)
 
+But/CC then/RB ,/, Card/NNP spun/NN positive/NN ,/, adding/VBG :/: ``He/NN was/VBD sincere/RB ,/, warm/NN and/CC inviting/VBG ./.
+
 (ROOT
   (S (CC But)
     (S
@@ -426,6 +450,8 @@ conj_and(sincere-12, warm-14)
 parataxis(adding-8, inviting-16)
 conj_and(sincere-12, inviting-16)
 
+I/PRP liked/VBD him/PRP right/RB off/RP the/DT bat/NN because/IN he/PRP was/VBD a/DT regular/JJ ,/, real/JJ person/NN .''/.
+
 (ROOT
   (S
     (NP (PRP I))
@@ -456,6 +482,8 @@ amod(person-15, regular-12)
 amod(person-15, real-14)
 advcl(liked-2, person-15)
 punct(liked-2, .''-16)
+
+Now/RB Card/NNP ,/, 53/CD ,/, is/VBZ the/DT younger/NNP Bush/NNP 's/POS chief-of-staff-in-waiting/JJ ,/, poised/JJ to/TO move/VB into/IN a/DT crucial/JJ office/NN in/IN the/DT West/NNP Wing/NNP should/MD Bush/NNP be/VB validated/VBN as/IN president/NN ./.
 
 (ROOT
   (S
@@ -512,6 +540,8 @@ nsubjpass(validated-27, Bush-25)
 auxpass(validated-27, be-26)
 ccomp(move-15, validated-27)
 prep_as(validated-27, president-29)
+
+People/NNP who/WP have/VBP worked/VBN with/IN Card/NNP over/IN the/DT years/NNS say/VBP that/IN he/PRP would/MD bring/VB to/TO the/DT job/NN total/JJ loyalty/NN to/TO the/DT Bushes/NNS ,/, a/DT voracious/JJ appetite/NN for/IN hard/JJ work/NN ,/, a/DT willingness/NN to/TO obey/VB orders/NNS and/CC a/DT manageable/JJ ego/NN ./.
 
 (ROOT
   (S
@@ -587,6 +617,8 @@ amod(ego-39, manageable-38)
 dobj(obey-34, ego-39)
 conj_and(orders-35, ego-39)
 
+``He/PRP 's/VBZ not/RB a/DT sparkling/NN personality/NN ,''/, said/VBD Brent/NNP Scowcroft/NNP ,/, the/DT national/JJ security/NN adviser/NN in/IN the/DT Bush/NNP administration/NN ./.
+
 (ROOT
   (SINV
     (S
@@ -622,6 +654,8 @@ det(administration-19, the-17)
 nn(administration-19, Bush-18)
 prep_in(adviser-15, administration-19)
 
+``He/NNP 's/POS a/DT very/RB quiet/JJ ,/, down-to-earth/JJ person/NN ./.
+
 (ROOT
   (NP
     (NP
@@ -642,6 +676,8 @@ advmod(quiet-5, very-4)
 dep(``He-1, quiet-5)
 amod(person-8, down-to-earth-7)
 appos(quiet-5, person-8)
+
+He/PRP 's/VBZ a/DT workhorse/NN ,/, not/RB a/DT show/NN dog/NN ,/, absolutely/RB .''/.
 
 (ROOT
   (S
@@ -665,6 +701,8 @@ nn(dog-9, show-8)
 appos(workhorse-4, dog-9)
 advmod(workhorse-4, absolutely-11)
 punct(workhorse-4, .''-12)
+
+Although/IN Bush/NNP campaigned/NN as/IN a/DT Washington/NNP outsider/NN independent/NN of/IN his/PRP$ father/NN 's/POS strings/NNS ,/, Card/NNP is/VBZ a/DT Washington/NNP insider/NN ,/, a/DT corporate/JJ lobbyist/NN for/IN the/DT automobile/JJ industry/NN and/CC General/NNP Motors/NNPS who/WP served/VBN in/IN both/DT the/DT Reagan/NNP and/CC Bush/NNP administrations/NNS and/CC enjoys/VBZ the/DT ultimate/NN trust/NN not/RB only/RB of/IN Bush/NNP but/CC also/RB of/IN his/PRP$ father/NN and/CC mother/NN ./.
 
 (ROOT
   (S
@@ -765,6 +803,8 @@ prep_of(enjoys-41, father-53)
 prep_of(enjoys-41, mother-55)
 conj_and(father-53, mother-55)
 
+``I/NNP would/MD do/VB anything/NN to/TO help/VB his/PRP$ parents/NNS ,''/, Card/NNP said/VBD in/IN the/DT interview/NN ./.
+
 (ROOT
   (S
     (S
@@ -797,6 +837,8 @@ root(ROOT-0, said-11)
 det(interview-14, the-13)
 prep_in(said-11, interview-14)
 
+``They/NNP were/VBD wonderful/JJ to/TO me/PRP ./.
+
 (ROOT
   (S
     (NP (NNP ``They))
@@ -810,6 +852,8 @@ nsubj(wonderful-3, ``They-1)
 cop(wonderful-3, were-2)
 root(ROOT-0, wonderful-3)
 prep_to(wonderful-3, me-5)
+
+I/PRP have/VBP an/DT infinite/JJ amount/NN of/IN love/JJ for/IN them/PRP ./.
 
 (ROOT
   (S
@@ -831,6 +875,8 @@ amod(amount-5, infinite-4)
 dobj(have-2, amount-5)
 prep_of(amount-5, love-7)
 prep_for(love-7, them-9)
+
+They/PRP took/VBD an/DT interest/NN in/IN my/PRP$ wife/NN ,/, the/DT challenges/NNS I/PRP went/VBD through/IN bringing/VBG up/RP my/PRP$ kids/NNS ./.
 
 (ROOT
   (S
@@ -868,6 +914,8 @@ prt(bringing-14, up-15)
 poss(kids-17, my-16)
 dobj(bringing-14, kids-17)
 
+But/CC my/PRP$ respect/NN for/IN Governor/NNP Bush/NNP is/VBZ independent/JJ of/IN my/PRP$ love/NN for/IN his/PRP$ parents/NNS .''/.
+
 (ROOT
   (S (CC But)
     (NP
@@ -895,6 +943,8 @@ prep_of(independent-8, love-11)
 poss(parents-14, his-13)
 prep_for(love-11, parents-14)
 punct(independent-8, .''-15)
+
+Born/NNP in/IN Holbrook/NNP ,/, Mass./NNP ,/, on/IN May/NNP 10/CD ,/, 1947/CD ,/, Card/NNP graduated/VBN from/IN the/DT University/NNP of/IN South/NNP Carolina/NNP with/IN a/DT degree/NN in/IN engineering/NN ./.
 
 (ROOT
   (S
@@ -937,6 +987,8 @@ det(degree-23, a-22)
 prep_with(graduated-14, degree-23)
 prep_in(degree-23, engineering-25)
 
+His/PRP$ wife/NN of/IN 33/CD years/NNS ,/, the/DT former/JJ Kathleene/NNP Bryan/NNP ,/, whom/VBZ he/PRP met/VB in/IN the/DT fifth/NN grade/NN ,/, was/VBD ordained/VBN as/IN a/DT Methodist/NN minister/NN two/CD years/NNS ago/RB ./.
+
 (ROOT
   (S
     (NP
@@ -945,14 +997,13 @@ prep_in(degree-23, engineering-25)
         (NP
           (NP (CD 33) (NNS years))
           (, ,)
-          (NP (DT the) (JJ former) (NNP Kathleene) (NNP Bryan))))
-      (, ,)
-      (VP (VBZ whom)
-        (S
-          (NP (PRP he))
-          (VP (VB met)
-            (PP (IN in)
-              (NP (DT the) (NN fifth) (NN grade))))))
+          (NP (DT the) (JJ former) (NNP Kathleene) (NNP Bryan)))))
+    (PRN (, ,)
+      (SINV (VBZ whom)
+        (NP (PRP he))
+        (VP (VB met)
+          (PP (IN in)
+            (NP (DT the) (NN fifth) (NN grade)))))
       (, ,))
     (VP (VBD was)
       (VP (VBN ordained)
@@ -971,9 +1022,9 @@ det(Bryan-10, the-7)
 amod(Bryan-10, former-8)
 nn(Bryan-10, Kathleene-9)
 appos(years-5, Bryan-10)
-dep(wife-2, whom-12)
-nsubj(met-14, he-13)
-ccomp(whom-12, met-14)
+parataxis(ordained-21, whom-12)
+nsubj(whom-12, he-13)
+dep(whom-12, met-14)
 det(grade-18, the-16)
 nn(grade-18, fifth-17)
 prep_in(met-14, grade-18)
@@ -985,6 +1036,8 @@ prep_as(ordained-21, minister-25)
 num(years-27, two-26)
 npadvmod(ago-28, years-27)
 advmod(ordained-21, ago-28)
+
+They/PRP have/VBP three/CD grown/VBN children/NNS and/CC four/CD grandchildren/NNS ./.
 
 (ROOT
   (S
@@ -1007,6 +1060,8 @@ dobj(grown-4, children-5)
 num(grandchildren-8, four-7)
 dobj(grown-4, grandchildren-8)
 conj_and(children-5, grandchildren-8)
+
+Card/NNP 's/POS interest/NN in/IN politics/NNS began/NN when/WRB he/PRP became/VBD president/NN of/IN the/DT class/NN of/IN 1965/CD at/IN Holbrook/NNP High/NNP School/NNP ./.
 
 (ROOT
   (S
@@ -1037,16 +1092,18 @@ poss(interest-3, Card-1)
 nsubj(began-6, interest-3)
 prep_in(interest-3, politics-5)
 root(ROOT-0, began-6)
-advmod(president-10, when-7)
-nsubj(president-10, he-8)
-cop(president-10, became-9)
-advcl(began-6, president-10)
+advmod(became-9, when-7)
+nsubj(became-9, he-8)
+advcl(began-6, became-9)
+xcomp(became-9, president-10)
 det(class-13, the-12)
 prep_of(president-10, class-13)
 prep_of(class-13, 1965-15)
 nn(School-19, Holbrook-17)
 nn(School-19, High-18)
-prep_at(president-10, School-19)
+prep_at(became-9, School-19)
+
+After/IN four/CD terms/NNS in/IN the/DT state/NN legislature/NN ,/, he/PRP ran/VBD unsuccessfully/RB for/IN governor/NN in/IN 1982/CD ./.
 
 (ROOT
   (S
@@ -1076,6 +1133,8 @@ root(ROOT-0, ran-10)
 advmod(ran-10, unsuccessfully-11)
 prep_for(ran-10, governor-13)
 prep_in(governor-13, 1982-15)
+
+Then/RB Vice/NNP President/NNP George/NNP Bush/NNP helped/VBD land/NN him/PRP an/DT unglamorous/JJ but/CC respectable/JJ job/NN in/IN the/DT Reagan/NNP White/NNP House/NNP in/IN 1983/CD as/IN liaison/NN with/IN elected/VBD state/NN officials/NNS ,/, former/JJ Reagan/NNP and/CC Bush/NNP administration/NN officials/NNS said/VBD ./.
 
 (ROOT
   (S (RB Then)
@@ -1140,6 +1199,8 @@ dobj(elected-24, officials-33)
 conj_and(Reagan-29, officials-33)
 ccomp(helped-6, said-34)
 
+He/PRP stayed/VBN for/IN the/DT rest/NN of/IN the/DT administration/NN ./.
+
 (ROOT
   (S
     (NP (PRP He))
@@ -1157,6 +1218,8 @@ det(rest-5, the-4)
 prep_for(stayed-2, rest-5)
 det(administration-8, the-7)
 prep_of(rest-5, administration-8)
+
+``Vice/IN President/NNP Bush/NNP rarely/RB got/VBD involved/VBN in/IN personnel/JJ matters/NNS ,/, but/CC he/PRP really/RB went/VBD to/TO bat/VB for/IN Andy/JJ Card/NNP ,''/NNP recalled/VBD Chase/NNP Untermeyer/NNP ,/, personnel/NN director/NN in/IN the/DT Bush/NNP White/NNP House/NNP ./.
 
 (ROOT
   (SINV
@@ -1200,7 +1263,7 @@ amod(matters-9, personnel-8)
 prep_in(involved-6, matters-9)
 cc(went-14, but-11)
 nsubj(went-14, he-12)
-xsubj(bat-16, he-12)
+nsubj(bat-16, he-12)
 advmod(went-14, really-13)
 parataxis(involved-6, went-14)
 aux(bat-16, to-15)
@@ -1218,6 +1281,8 @@ det(House-31, the-28)
 nn(House-31, Bush-29)
 nn(House-31, White-30)
 prep_in(director-26, House-31)
+
+After/IN serving/VBG as/IN the/DT elder/NNP Bush/NNP 's/POS campaign/NN manager/NN for/IN the/DT crucial/JJ New/NNP Hampshire/NNP primary/NN in/IN 1988/CD ,/, Card/NNP was/VBD rewarded/VBN with/IN the/DT job/NN of/IN deputy/JJ chief-of-staff/NN in/IN the/DT Bush/NNP administration/NN ,/, and/CC then/RB served/VBN as/IN secretary/NN of/IN transportation/NN in/IN its/PRP$ final/JJ year/NN ./.
 
 (ROOT
   (S
@@ -1291,6 +1356,8 @@ poss(year-43, its-41)
 amod(year-43, final-42)
 prep_in(served-35, year-43)
 
+When/WRB a/DT hurricane/NN struck/NN Florida/NNP that/DT year/NN ,/, Card/NNP was/VBD made/VBN President/NNP Bush/NNP 's/POS personal/JJ emissary/NN for/IN disaster/NN relief/NN and/CC dispatched/VBD there/RB to/TO dispel/VB the/DT widely/RB held/JJ belief/NN that/IN the/DT administration/NN had/VBD done/FW too/RB little/JJ too/RB late/RB ./.
+
 (ROOT
   (S
     (SBAR
@@ -1338,7 +1405,7 @@ det(year-7, that-6)
 dep(Florida-5, year-7)
 nsubjpass(made-11, Card-9)
 nsubjpass(dispatched-21, Card-9)
-xsubj(dispel-24, Card-9)
+nsubj(dispel-24, Card-9)
 auxpass(made-11, was-10)
 root(ROOT-0, made-11)
 nn(Bush-13, President-12)
@@ -1364,6 +1431,8 @@ advmod(little-35, too-34)
 amod(done-33, little-35)
 advmod(late-37, too-36)
 advmod(had-32, late-37)
+
+He/PRP was/VBD one/CD of/IN the/DT last/JJ people/NNS to/TO leave/VB the/DT Bush/NNP administration/NN ,/, staying/VBG on/IN until/IN two/CD months/NNS into/IN the/DT Clinton/NNP administration/NN in/IN what/WDT was/VBD referred/VBN to/TO as/IN the/DT ``out-transition/NN office/NN ''/'' to/TO make/VB sure/JJ all/PDT the/DT Bush/NNP paperwork/NN had/VBD been/VBN completed/VBN ./.
 
 (ROOT
   (S
@@ -1427,7 +1496,7 @@ det(administration-22, the-20)
 nn(administration-22, Clinton-21)
 prep_into(months-18, administration-22)
 nsubjpass(referred-26, what-24)
-xsubj(to-27, what-24)
+nsubj(to-27, what-24)
 auxpass(referred-26, was-25)
 prepc_in(administration-22, referred-26)
 xcomp(referred-26, to-27)
@@ -1444,6 +1513,8 @@ nsubjpass(completed-42, paperwork-39)
 aux(completed-42, had-40)
 auxpass(completed-42, been-41)
 ccomp(sure-35, completed-42)
+
+In/IN ``Barbara/NNP Bush/NNP :/: A/DT Memoir/NN ,''/IN the/DT former/JJ first/JJ lady/NN referred/VBD to/TO Card/NNP as/IN a/DT man/NN who/WP repeatedly/RB ``had/RB come/VB to/TO our/PRP$ rescue/NN .''/.
 
 (ROOT
   (S
@@ -1491,6 +1562,8 @@ poss(rescue-24, our-23)
 prep_to(come-21, rescue-24)
 punct(referred-12, .''-25)
 
+Card/NNP stayed/VBN on/IN in/IN Washington/NNP ,/, turning/VBG himself/PRP into/IN the/DT top/JJ lobbyist/NN for/IN the/DT automotive/JJ industry/NN ./.
+
 (ROOT
   (S
     (NP (NNP Card))
@@ -1521,6 +1594,8 @@ prep_into(turning-7, lobbyist-12)
 det(industry-16, the-14)
 amod(industry-16, automotive-15)
 prep_for(lobbyist-12, industry-16)
+
+In/IN 1993/CD ,/, he/PRP became/VBD president/NN and/CC chief/JJ executive/NN of/IN the/DT American/NNP Automobile/NNP Manufacturers/NNP Association/NNP ,/, where/WRB he/PRP oversaw/VBD the/DT lobbying/VBG against/IN tighter/NN fuel-economy/NN and/CC air/NN pollution/NN regulations/NNS for/IN automobiles/NNS and/CC in/IN coming/VBG up/RP with/IN technical/JJ arguments/NNS for/IN why/JJ industrializing/JJ nations/NNS should/MD proceed/VB slowly/RB in/IN addressing/VBG global/JJ warming/NN ./.
 
 (ROOT
   (S
@@ -1612,6 +1687,8 @@ prepc_in(proceed-43, addressing-46)
 amod(warming-48, global-47)
 dobj(addressing-46, warming-48)
 
+When/WRB that/DT organization/NN was/VBD dissolved/VBN in/IN 1998/CD ,/, he/PRP became/VBD GM/NNP 's/POS vice/NN president/NN for/IN government/NN relations/NNS in/IN Washington/NNP ./.
+
 (ROOT
   (S
     (SBAR
@@ -1638,16 +1715,18 @@ advmod(dissolved-5, When-1)
 det(organization-3, that-2)
 nsubjpass(dissolved-5, organization-3)
 auxpass(dissolved-5, was-4)
-advcl(president-14, dissolved-5)
+advcl(became-10, dissolved-5)
 prep_in(dissolved-5, 1998-7)
-nsubj(president-14, he-9)
-cop(president-14, became-10)
+nsubj(became-10, he-9)
+root(ROOT-0, became-10)
 poss(president-14, GM-11)
 nn(president-14, vice-13)
-root(ROOT-0, president-14)
+xcomp(became-10, president-14)
 nn(relations-17, government-16)
-prep_for(president-14, relations-17)
-prep_in(president-14, Washington-19)
+prep_for(became-10, relations-17)
+prep_in(became-10, Washington-19)
+
+Card/NNP prides/VBZ himself/PRP on/IN his/PRP$ humility/NN ./.
 
 (ROOT
   (S
@@ -1663,6 +1742,8 @@ root(ROOT-0, prides-2)
 dobj(prides-2, himself-3)
 poss(humility-6, his-5)
 prep_on(prides-2, humility-6)
+
+When/WRB he/PRP was/VBD offered/VBN the/DT job/NN of/IN running/VBG the/DT Republican/NNP National/NNP Convention/NNP in/IN Philadelphia/NNP in/IN July/NNP ,/, he/PRP demurred/VBD ./.
 
 (ROOT
   (S
@@ -1703,6 +1784,8 @@ prep_in(Convention-12, Philadelphia-14)
 prep_in(running-8, July-16)
 nsubj(demurred-19, he-18)
 root(ROOT-0, demurred-19)
+
+``I/NNP told/VBD them/PRP they/PRP had/VBD the/DT right/NN to/TO change/VB their/PRP$ mind/NN and/CC asked/VBD them/PRP to/TO stop/VB and/CC reflect/VB on/IN it/PRP ''/'' in/IN case/NN there/RB were/VBD better/RBR choices/NNS ,/, he/PRP told/VBD an/DT interviewer/NN from/IN The/DT Patriot/NNP Ledger/NNP newspaper/NN in/IN Quincy/NNP ,/, Mass./NNP He/PRP said/VBD he/PRP did/VBD not/RB accept/VB the/DT assignment/NN until/IN he/PRP consulted/VBD with/IN two/CD other/JJ lieutenants/NNS from/IN the/DT Bush/NNP presidency/NN ,/, former/JJ Defense/NNP Secretary/NNP Dick/NNP Cheney/NNP and/CC former/JJ Secretary/NNP of/IN State/NNP James/NNP A./NNP Baker/NNP III/NNP ./.
 
 (ROOT
   (S
@@ -1792,6 +1875,7 @@ poss(mind-11, their-10)
 dobj(change-9, mind-11)
 rcmod(them-3, asked-13)
 conj_and(had-5, asked-13)
+dobj(asked-13, them-14)
 nsubj(stop-16, them-14)
 nsubj(reflect-18, them-14)
 aux(stop-16, to-15)
@@ -1845,6 +1929,8 @@ prep_of(Secretary-69, A.-73)
 nn(III-75, Baker-74)
 prep_from(consulted-52, III-75)
 conj_and(presidency-60, III-75)
+
+As/IN for/IN being/VBG offered/VBN the/DT job/NN of/IN chief-of-staff-in-waiting/NN ,/, he/PRP said/VBD in/IN the/DT telephone/NN interview/NN ,/, ``I/PRP 'm/VBP thrilled/VBN ,/, honored/JJ ,/, appropriate/JJ in/IN my/PRP$ humility/NN ,/, because/IN I/PRP have/VBP to/TO stretch/VB to/TO do/VB the/DT job/NN ./.
 
 (ROOT
   (S
@@ -1907,7 +1993,8 @@ poss(humility-26, my-25)
 prep_in(appropriate-23, humility-26)
 mark(have-30, because-28)
 nsubj(have-30, I-29)
-xsubj(stretch-32, I-29)
+nsubj(stretch-32, I-29)
+nsubj(do-34, I-29)
 advcl(thrilled-19, have-30)
 aux(stretch-32, to-31)
 xcomp(have-30, stretch-32)
@@ -1915,6 +2002,8 @@ aux(do-34, to-33)
 xcomp(stretch-32, do-34)
 det(job-36, the-35)
 dobj(do-34, job-36)
+
+But/CC I/PRP 'd/MD rather/RB stretch/VB than/IN bend/NN over/RP to/TO do/VB it/PRP .''/.
 
 (ROOT
   (S (CC But)
@@ -1932,7 +2021,7 @@ dobj(do-34, job-36)
 
 cc(stretch-5, But-1)
 nsubj(stretch-5, I-2)
-xsubj(do-10, I-2)
+nsubj(do-10, I-2)
 aux(stretch-5, 'd-3)
 advmod(stretch-5, rather-4)
 root(ROOT-0, stretch-5)
@@ -1942,6 +2031,8 @@ aux(do-10, to-9)
 xcomp(stretch-5, do-10)
 dobj(do-10, it-11)
 punct(stretch-5, .''-12)
+
+NYT-11-27-00/CD 2110EST/CD
 
 (ROOT
   (FRAG

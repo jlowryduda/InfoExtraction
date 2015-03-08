@@ -1,3 +1,5 @@
+APW20001014.1040.0236/DT NEWS/NNP STORY/NNPS 2000-10-14/CD 10:41:12/CD
+
 (ROOT
   (NP
     (NP (DT APW20001014.1040.0236))
@@ -10,10 +12,14 @@ dep(APW20001014.1040.0236-1, STORY-3)
 num(10:41:12-5, 2000-10-14-4)
 dep(APW20001014.1040.0236-1, 10:41:12-5)
 
+UN-Israel-Palestinians/NNPS
+
 (ROOT
   (NP (NNPS UN-Israel-Palestinians)))
 
 root(ROOT-0, UN-Israel-Palestinians-1)
+
+General/NNP Assembly/RB To/TO Hold/NNP Meeting/VBG
 
 (ROOT
   (S
@@ -30,10 +36,12 @@ root(ROOT-0, Assembly-2)
 prep_to(Assembly-2, Hold-4)
 xcomp(Assembly-2, Meeting-5)
 
+UNITED/NNP NATIONS/NNP [AP/NNP ]/NNP _/, The/DT General/NNP Assembly/RB is/VBZ expected/VBN to/TO hold/VB an/DT emergency/NN meeting/NN next/JJ week/NN on/IN the/DT Middle/NNP East/NNP to/TO consider/VB a/DT resolution/NN that/WDT would/MD condemn/VB ``excessive/JJ use/NN of/IN force/NN ''/'' by/IN Israeli/NNP soldiers/NNS ,/, according/VBG to/TO a/DT draft/NN obtained/VBN by/IN The/DT Associated/JJ Press/NNP ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP UNITED) (NNP NATIONS) (NNP (AP) (NNP )))
+      (NP (NNP UNITED) (NNP NATIONS) (NNP [AP) (NNP ]))
       (PP (, _)
         (NP (DT The) (NNP General))))
     (ADVP (RB Assembly))
@@ -73,14 +81,14 @@ xcomp(Assembly-2, Meeting-5)
                   (NP (DT The) (JJ Associated) (NNP Press)))))))))
     (. .)))
 
-nn()-4, UNITED-1)
-nn()-4, NATIONS-2)
-nn()-4, (AP-3)
-nsubjpass(expected-10, )-4)
-xsubj(hold-12, )-4)
+nn(]-4, UNITED-1)
+nn(]-4, NATIONS-2)
+nn(]-4, [AP-3)
+nsubjpass(expected-10, ]-4)
+nsubj(hold-12, ]-4)
 punct(General-7, _-5)
 det(General-7, The-6)
-prep()-4, General-7)
+prep(]-4, General-7)
 advmod(expected-10, Assembly-8)
 auxpass(expected-10, is-9)
 root(ROOT-0, expected-10)
@@ -113,6 +121,8 @@ vmod(draft-41, obtained-42)
 det(Press-46, The-44)
 amod(Press-46, Associated-45)
 agent(obtained-42, Press-46)
+
+The/DT draft/NN is/VBZ stronger/JJR than/IN the/DT resolution/NN adopted/VBN by/IN the/DT Security/NNP Council/NNP last/JJ Saturday/NN ,/, but/CC the/DT wording/VBG was/VBD softer/NN on/IN Israel/NNP compared/VBN to/TO past/JJ resolutions/NNS on/IN the/DT Israel/NNP -Palestinian/JJ conflict/NN ./.
 
 (ROOT
   (S
@@ -168,6 +178,8 @@ det(conflict-31, the-28)
 nn(conflict-31, Israel-29)
 amod(conflict-31, -Palestinian-30)
 prep_on(resolutions-26, conflict-31)
+
+The/DT draft/NN supports/VBZ continued/VBN negotiations/NNS in/IN search/NN of/IN peace/NN and/CC takes/VBZ no/DT side/NN on/IN divisive/JJ issues/NNS such/JJ as/IN Jerusalem/NNP ,/, saying/VBG only/RB that/IN the/DT holy/JJ places/NNS there/RB must/MD be/VB respected/VBN ./.
 
 (ROOT
   (S
@@ -225,6 +237,8 @@ aux(respected-30, must-28)
 auxpass(respected-30, be-29)
 dep(saying-21, respected-30)
 
+It/PRP also/RB takes/VBZ into/IN account/VBP the/DT security/NN needs/NNS of/IN both/DT Israelis/NNP and/CC Palestinians/NNPS and/CC expresses/NNS deep/NN concern/NN about/IN casualties/NNS on/IN both/DT sides/NNS ./.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -267,6 +281,8 @@ conj_and(Israelis-11, concern-17)
 prep_about(Israelis-11, casualties-19)
 det(sides-22, both-21)
 prep_on(casualties-19, sides-22)
+
+Arab/DT states/NNS and/CC developing/VBG nations/NNS asked/VBN for/IN the/DT emergency/NN meeting/NN Friday/NN after/IN the/DT Security/NNP Council/NNP indicated/VBD it/PRP did/VBD not/RB want/VB another/DT contentious/JJ session/NN while/IN diplomatic/JJ efforts/NNS were/VBD under/IN way/NN to/TO end/VB the/DT violence/NN that/WDT cost/VB the/DT lives/NNS of/IN 96/CD people/NNS ,/, most/RBS Palestinians/NNPS ./.
 
 (ROOT
   (NP
@@ -337,7 +353,7 @@ dobj(want-20, session-23)
 mark(were-27, while-24)
 amod(efforts-26, diplomatic-25)
 nsubj(were-27, efforts-26)
-xsubj(end-31, efforts-26)
+nsubj(end-31, efforts-26)
 advcl(want-20, were-27)
 prep_under(were-27, way-29)
 aux(end-31, to-30)
@@ -352,6 +368,8 @@ num(people-40, 96-39)
 prep_of(lives-37, people-40)
 appos(people-40, most-42)
 dep(most-42, Palestinians-43)
+
+With/IN a/DT majority/NN of/IN the/DT 189/CD U.N./NNP member/NN states/VBZ now/RB supporting/VBG a/DT special/JJ session/NN on/IN the/DT current/JJ unrest/NN ,/, an/DT emergency/NN meeting/NN is/VBZ virtually/RB certain/JJ ./.
 
 (ROOT
   (S
@@ -396,6 +414,8 @@ nsubj(certain-25, meeting-22)
 cop(certain-25, is-23)
 advmod(certain-25, virtually-24)
 root(ROOT-0, certain-25)
+
+Spokeswoman/NNP Sue/NNP Markham/NNP said/VBD General/NNP Assembly/NNP President/NNP Harri/NNP Holkeri/NNP will/MD consult/VB with/IN other/JJ member/NN states/NNS on/IN the/DT request/NN and/CC Arab/NNP diplomats/NNS said/VBD a/DT meeting/NN is/VBZ likely/JJ to/TO be/VB held/VBN early/JJ next/JJ week/NN ./.
 
 (ROOT
   (S
@@ -449,7 +469,7 @@ nsubj(said-22, diplomats-21)
 conj_and(said-4, said-22)
 det(meeting-24, a-23)
 nsubj(likely-26, meeting-24)
-xsubj(held-29, meeting-24)
+nsubjpass(held-29, meeting-24)
 cop(likely-26, is-25)
 ccomp(said-22, likely-26)
 aux(held-29, to-27)
@@ -458,6 +478,8 @@ xcomp(likely-26, held-29)
 amod(week-32, early-30)
 amod(week-32, next-31)
 tmod(held-29, week-32)
+
+The/DT Palestinian/JJ representative/NN ,/, Nasser/NNP Al-Kidwa/NNP ,/, had/VBD originally/RB requested/VBN an/DT emergency/NN meeting/NN of/IN the/DT Security/NNP Council/NNP to/TO adopt/VB a/DT new/JJ resolution/NN ,/, saying/VBG Israeli/NNP rocket/NN attacks/NNS on/IN Palestinian/JJ command/NN centers/NNS Thursday/NN _/IN retaliation/NN for/IN the/DT brutal/JJ lynching/NN of/IN two/CD Israeli/NNP soldiers/NNS _/, were/VBD ``tantamount/VBN to/TO the/DT declaration/NN of/IN an/DT overall/JJ war/NN against/IN the/DT entire/JJ Palestinian/JJ people/NNS .''/.
 
 (ROOT
   (S
@@ -555,6 +577,8 @@ amod(people-57, Palestinian-56)
 prep_against(war-52, people-57)
 punct(requested-10, .''-58)
 
+But/CC U.S./NNP Ambassador/NNP Richard/NNP Holbrooke/NNP said/VBD the/DT United/NNP States/NNPS would/MD veto/VB any/DT new/JJ resolution/NN and/CC other/JJ council/NN members/NNS said/VBD they/PRP wanted/VBD to/TO give/VB Secretary-General/JJ Kofi/NNP Annan/NNP time/NN to/TO negotiate/VB a/DT truce/NN before/IN taking/VBG any/DT new/JJ action/NN ./.
+
 (ROOT
   (S (CC But)
     (S
@@ -607,7 +631,7 @@ nn(members-18, council-17)
 nsubj(said-19, members-18)
 conj_and(said-6, said-19)
 nsubj(wanted-21, they-20)
-xsubj(give-23, they-20)
+nsubj(give-23, they-20)
 ccomp(said-19, wanted-21)
 aux(give-23, to-22)
 xcomp(wanted-21, give-23)
@@ -623,6 +647,8 @@ prepc_before(negotiate-29, taking-33)
 det(action-36, any-34)
 amod(action-36, new-35)
 dobj(taking-33, action-36)
+
+The/DT two/CD sides/NNS announced/VBD Saturday/NN they/PRP would/MD hold/VB a/DT summit/NN in/IN Egypt/NNP ./.
 
 (ROOT
   (S
@@ -653,6 +679,8 @@ det(summit-10, a-9)
 dobj(hold-8, summit-10)
 prep_in(summit-10, Egypt-12)
 
+Security/NNP Council/NNP resolutions/NNS have/VBP more/RBR clout/NN because/IN they/PRP are/VBP legally/RB binding/VBG ./.
+
 (ROOT
   (S
     (NP (NNP Security) (NNP Council) (NNS resolutions))
@@ -680,6 +708,8 @@ aux(binding-11, are-9)
 advmod(binding-11, legally-10)
 advcl(have-4, binding-11)
 ccomp(have-4, binding-11)
+
+General/NNP Assembly/RB resolutions/NNS are/VBP adopted/VBN by/IN majority/NN vote/NN and/CC cannot/MD be/VB vetoed/VBN ,/, but/CC are/VBP not/RB legally/RB binding/VBG ./.
 
 (ROOT
   (S
@@ -721,6 +751,8 @@ neg(binding-18, not-16)
 advmod(binding-18, legally-17)
 conj_but(adopted-5, binding-18)
 
+The/DT Security/NNP Council/NNP resolution/NN last/JJ week/NN condemned/VBD the/DT ``excessive/JJ use/NN of/IN force/NN ''/'' against/IN the/DT Palestinians/NNPS _/, without/IN naming/VBG Israel/NNP ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Security) (NNP Council) (NN resolution))
@@ -757,6 +789,8 @@ prep_against(force-12, Palestinians-16)
 punct(condemned-7, _-17)
 prepc_without(condemned-7, naming-19)
 dobj(naming-19, Israel-20)
+
+The/DT General/NNP Assembly/RB draft/JJ resolution/NN would/MD condemn/VB ``the/IN excessive/JJ use/NN of/IN force/NN by/IN the/DT Israeli/NNP occupying/VBG forces/NNS against/IN Palestinian/JJ civilians/NNS .''/.
 
 (ROOT
   (S
@@ -797,6 +831,8 @@ amod(civilians-20, Palestinian-19)
 prep_against(occupying-16, civilians-20)
 punct(condemn-7, .''-21)
 
+Israel/NNP says/VBZ its/PRP$ soldiers/NNS use/NN live/JJ ammunition/NN only/RB when/WRB their/PRP$ lives/NNS are/VBP in/IN danger/NN ./.
+
 (ROOT
   (S
     (NP (NNP Israel))
@@ -826,6 +862,8 @@ poss(lives-11, their-10)
 nsubj(are-12, lives-11)
 rcmod(ammunition-7, are-12)
 prep_in(are-12, danger-14)
+
+The/DT proposed/VBN draft/JJ reiterates/NNS that/IN Jewish/JJ settlements/NNS in/IN territory/NN captured/VBN in/IN the/DT 1967/CD Mideast/NNP war/NN ``are/NN illegal/JJ ,''/NN and/CC an/DT obstacle/NN to/TO peace/VB ./.
 
 (ROOT
   (NP
@@ -869,6 +907,8 @@ conj_and(``are-16, obstacle-21)
 aux(peace-23, to-22)
 vmod(reiterates-4, peace-23)
 
+The/DT Security/NNP Council/NNP resolution/VBP backed/VBN ``a/IN speedy/NN and/CC objective/JJ inquiry/NN ''/'' into/IN the/DT fighting/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Security) (NNP Council))
@@ -895,6 +935,8 @@ prep_``a(backed-5, inquiry-10)
 conj_and(speedy-7, inquiry-10)
 det(fighting-14, the-13)
 prep_into(backed-5, fighting-14)
+
+The/DT proposed/VBN General/NNP Assembly/NNP resolution/NN strongly/RB supports/VBZ ``a/DT mechanism/NN of/IN inquiry/NN ''/'' into/IN the/DT events/NNS and/CC asks/VBZ Annan/JJ to/TO report/VB to/TO the/DT assembly/NN in/IN 10/CD days/NNS on/IN his/PRP$ efforts/NNS to/TO establish/VB such/JJ a/DT mechanism/NN ./.
 
 (ROOT
   (S
@@ -945,6 +987,7 @@ prep_of(mechanism-9, inquiry-11)
 det(events-15, the-14)
 prep_into(supports-7, events-15)
 conj_and(supports-7, asks-17)
+dobj(asks-17, Annan-18)
 nsubj(report-20, Annan-18)
 aux(report-20, to-19)
 xcomp(asks-17, report-20)

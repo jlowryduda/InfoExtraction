@@ -1,3 +1,5 @@
+APW20001220.1709.0630/DT NEWS/NNP STORY/NNPS 2000-12-20/CD 17:44:45/CD
+
 (ROOT
   (NP
     (NP (DT APW20001220.1709.0630))
@@ -10,10 +12,14 @@ dep(APW20001220.1709.0630-1, STORY-3)
 num(17:44:45-5, 2000-12-20-4)
 dep(APW20001220.1709.0630-1, 17:44:45-5)
 
+Wall-Street-Stocks/NNS
+
 (ROOT
   (NP (NNS Wall-Street-Stocks)))
 
 root(ROOT-0, Wall-Street-Stocks-1)
+
+Big/NNP Movers/NNPS in/IN the/DT Stock/NNP Market/NNP
 
 (ROOT
   (NP
@@ -27,10 +33,12 @@ det(Market-6, the-4)
 nn(Market-6, Stock-5)
 prep_in(Movers-2, Market-6)
 
+NEW/NNP YORK/NNP [AP/NNP ]/, _/DT Stocks/NNS that/WDT were/VBD moving/VBG substantially/RB or/CC trading/NN heavily/RB Wednesday/RB on/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP and/CC the/DT Nasdaq/NNP Stock/NNP Market/NNP ./.
+
 (ROOT
   (S
-    (NP (NNP NEW) (NNP YORK) (NNP (AP))
-    (VP (, ))
+    (NP (NNP NEW) (NNP YORK) (NNP [AP))
+    (VP (, ])
       (NP
         (NP
           (NP (DT _) (NNS Stocks))
@@ -52,10 +60,10 @@ prep_in(Movers-2, Market-6)
               (NP (DT the) (NNP Nasdaq) (NNP Stock) (NNP Market)))))))
     (. .)))
 
-nn((AP-3, NEW-1)
-nn((AP-3, YORK-2)
-nsubj(Stocks-6, (AP-3)
-punct(Stocks-6, )-4)
+nn([AP-3, NEW-1)
+nn([AP-3, YORK-2)
+nsubj(Stocks-6, [AP-3)
+punct(Stocks-6, ]-4)
 det(Stocks-6, _-5)
 root(ROOT-0, Stocks-6)
 nsubj(moving-9, Stocks-6)
@@ -77,10 +85,14 @@ nn(Market-25, Stock-24)
 prep_on(trading-12, Market-25)
 conj_and(Exchange-20, Market-25)
 
+NYSE/NNP
+
 (ROOT
   (NP (NNP NYSE)))
 
 root(ROOT-0, NYSE-1)
+
+International/NNP Paper/NNP Co/NNP .,/. down/RB 69/CD cents/NNS at/IN $38.81/CD
 
 (ROOT
   (S
@@ -99,6 +111,8 @@ root(ROOT-0, down-5)
 num(cents-7, 69-6)
 pobj(down-5, cents-7)
 prep_at(down-5, $38.81-9)
+
+International/JJ Paper/NNP on/IN Wednesday/NNP warned/VBD that/IN fourth-quarter/JJ earnings/NNS will/MD fall/VB short/NN of/IN expectations/NNS ./.
 
 (ROOT
   (S
@@ -130,6 +144,8 @@ ccomp(warned-5, fall-10)
 dobj(fall-10, short-11)
 prep_of(short-11, expectations-13)
 
+The/DT Dow/NNP Jones/NNP industrial/NNP cited/VBD an/DT economic/JJ slowdown/NN ,/, strong/JJ U.S./NNP dollar/NN and/CC high/JJ energy/NN costs/NNS ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Dow) (NNP Jones) (NNP industrial))
@@ -159,6 +175,8 @@ nn(costs-16, energy-15)
 dobj(cited-5, costs-16)
 conj_and(slowdown-8, costs-16)
 
+Exxon/NNP Mobil/NNP Corp/NNP .,/VBD down/RP $1.25/CD at/IN $85.94/CD
+
 (ROOT
   (S
     (NP (NNP Exxon) (NNP Mobil) (NNP Corp))
@@ -175,6 +193,8 @@ root(ROOT-0, .,-4)
 prt(.,-4, down-5)
 dobj(.,-4, $1.25-6)
 prep_at(.,-4, $85.94-8)
+
+An/DT Alabama/JJ jury/NN on/IN Tuesday/NNP returned/VBD a/DT $3.5/CD billion/CD verdict/NN against/IN Exxon/NNP ,/, finding/VBG the/DT oil/NN company/NN defrauded/VBD the/DT state/NN on/IN royalties/NNS from/IN natural/JJ gas/NNS wells/NNS in/IN state/NN waters/NNS ./.
 
 (ROOT
   (S
@@ -230,6 +250,8 @@ prep_from(royalties-22, wells-26)
 nn(waters-29, state-28)
 prep_in(defrauded-18, waters-29)
 
+Glaxo/NNP Wellcome/NNP PLC/NNP ,/, up/RB $1.06/CD at/IN $55.50/CD ,/, and/CC SmithKline/NN Beecham/NNP PLC/NNP ,/, up/RB 94/CD cents/NNS at/IN $62.75/CD
+
 (ROOT
   (NP
     (NP (NNP Glaxo))
@@ -265,6 +287,8 @@ advmod(SmithKline-11, up-15)
 num(cents-17, 94-16)
 pobj(up-15, cents-17)
 prep_at(up-15, $62.75-19)
+
+The/DT drug/JJ companies/NNS passed/VBD the/DT final/JJ regulatory/NN hurdle/JJ to/TO their/PRP$ $72/CD billion/CD merger/JJR ,/, which/WDT will/MD create/VB the/DT world/NN 's/POS largest/JJS pharmaceutical/JJ company/NN ./.
 
 (ROOT
   (S
@@ -310,6 +334,8 @@ amod(company-23, largest-21)
 amod(company-23, pharmaceutical-22)
 dobj(create-17, company-23)
 
+Britain/NNP 's/POS High/NNP Court/NNP on/IN Wednesday/NNP approved/VBN their/PRP$ plan/NN to/TO begin/VB trading/NN shares/NNS in/IN their/PRP$ combined/JJ business/NN ,/, GlaxoSmithKline/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -347,10 +373,14 @@ amod(business-17, combined-16)
 prep_in(begin-11, business-17)
 appos(business-17, GlaxoSmithKline-19)
 
+NASDAQ/RB
+
 (ROOT
   (FRAG (RB NASDAQ)))
 
 root(ROOT-0, NASDAQ-1)
+
+Cisco/NNP Systems/NNPS ,/, down/RB $4.38/VBN at/IN $37.38/CD
 
 (ROOT
   (FRAG
@@ -368,6 +398,8 @@ root(ROOT-0, Systems-2)
 advmod($4.38-5, down-4)
 vmod(Systems-2, $4.38-5)
 prep_at($4.38-5, $37.38-7)
+
+An/DT anlayst/NN for/IN Merrill/NNP Lynch/NNP lowered/VBD his/PRP$ intermediate-term/JJ rating/NN for/IN Cisco/NNP to/TO ``accumulate/VB ''/'' from/IN ``buy/DT ,''/NN citing/VBG concerns/NNS over/IN a/DT slowdown/NN in/IN technology/NN capital/NN spending/NN ./.
 
 (ROOT
   (S
@@ -415,6 +447,8 @@ nn(spending-26, technology-24)
 nn(spending-26, capital-25)
 prep_in(slowdown-22, spending-26)
 
+Onvia.com/NNP Inc/NNP .,/VBD down/RP 34/CD cents/NNS at/IN $1.16/CD
+
 (ROOT
   (S
     (NP (NNP Onvia.com) (NNP Inc))
@@ -432,6 +466,8 @@ prt(.,-3, down-4)
 num(cents-6, 34-5)
 dobj(.,-3, cents-6)
 prep_at(cents-6, $1.16-8)
+
+Joining/VBG a/DT long/JJ line/NN of/IN floundering/VBG dot-com/JJ companies/NNS ,/, Onvia.com/NNP said/VBD Tuesday/NNP it/PRP will/MD cut/VB 180/CD jobs/NNS as/IN it/PRP lets/VBZ Firstsource/NNP Corp/NNP ./.
 
 (ROOT
   (S
@@ -479,6 +515,8 @@ advcl(cut-15, lets-20)
 nn(Corp-22, Firstsource-21)
 dobj(lets-20, Corp-22)
 
+take/VB over/IN the/DT sale/NN of/IN its/PRP$ online/NN goods/NNS and/CC services/NNS ./.
+
 (ROOT
   (S
     (VP (VB take)
@@ -499,6 +537,8 @@ nn(goods-8, online-7)
 prep_of(sale-4, goods-8)
 prep_of(sale-4, services-10)
 conj_and(goods-8, services-10)
+
+Onvia/NNP is/VBZ a/DT business-to-business/JJ marketplace/NN for/IN small-business/NN buyers/NNS and/CC sellers/NNS ./.
 
 (ROOT
   (S
@@ -522,6 +562,8 @@ prep_for(marketplace-5, buyers-8)
 prep_for(marketplace-5, sellers-10)
 conj_and(buyers-8, sellers-10)
 
+Applied/DT Micro/NNP Circuits/NNPS Corp/NNP .,/VBD up/RP 88/CD cents/NNS at/IN $62.44/CD
+
 (ROOT
   (S
     (NP (DT Applied) (NNP Micro) (NNPS Circuits) (NNP Corp))
@@ -541,6 +583,8 @@ prt(.,-5, up-6)
 num(cents-8, 88-7)
 dobj(.,-5, cents-8)
 prep_at(cents-8, $62.44-10)
+
+The/DT maker/NN of/IN chips/NNS used/VBN in/IN fiber-optic/JJ telecommunicatons/NN will/MD replace/VB J.P./NNP Morgan/NNP &/CC Co/NNP ./.
 
 (ROOT
   (S
@@ -572,6 +616,8 @@ dobj(replace-10, Morgan-12)
 dobj(replace-10, Co-14)
 conj_and(Morgan-12, Co-14)
 
+in/IN the/DT Standard/NNP &/CC Poor/NNP 's/POS 500/CD Index/NN after/IN the/DT close/NN of/IN trading/NN on/IN Dec/NNP ./.
+
 (ROOT
   (FRAG
     (PP
@@ -602,12 +648,16 @@ prep_after(in-1, close-11)
 prep_of(close-11, trading-13)
 prep_on(in-1, Dec-15)
 
+29/CD ./.
+
 (ROOT
   (FRAG
     (NP (CD 29))
     (. .)))
 
 root(ROOT-0, 29-1)
+
+Chase/NNP Manhattan/NNP Corp/NNP .,/, a/DT Dow/NNP Jones/NNP industrial/NNP ,/, is/VBZ buying/VBG J.P./NNP Morgan/NNP later/RBR this/DT month/NN ./.
 
 (ROOT
   (S

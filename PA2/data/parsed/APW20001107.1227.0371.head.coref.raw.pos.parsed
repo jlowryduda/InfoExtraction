@@ -1,3 +1,5 @@
+APW20001107.1227.0371/DT NEWS/NNP STORY/NNPS 2000-11-07/CD 13:53:14/CD
+
 (ROOT
   (NP
     (NP (DT APW20001107.1227.0371))
@@ -10,10 +12,14 @@ dep(APW20001107.1227.0371-1, STORY-3)
 num(13:53:14-5, 2000-11-07-4)
 dep(APW20001107.1227.0371-1, 13:53:14-5)
 
+China-Airlines/NNS
+
 (ROOT
   (NP (NNS China-Airlines)))
 
 root(ROOT-0, China-Airlines-1)
+
+Airbus/NNS :/: China/NNP Needs/VBZ 1,600/CD Planes/NNPS
 
 (ROOT
   (FRAG
@@ -30,12 +36,14 @@ dep(Airbus-1, Needs-4)
 num(Planes-6, 1,600-5)
 dobj(Needs-4, Planes-6)
 
+BEIJING/NNP [AP/NNP ]/, _/DT China/NNP will/MD need/VBP almost/RB 1,600/CD new/JJ aircraft/NN over/IN the/DT next/JJ two/CD decades/NNS to/TO meet/VB its/PRP$ goals/NNS for/IN growth/NN in/IN air/NN travel/NN ,/, Airbus/NNPS Industrie/NNP said/VBD Tuesday/NNP ./.
+
 (ROOT
   (S
     (S
       (NP
-        (NP (NNP BEIJING) (NNP (AP))
-        (PP (, ))
+        (NP (NNP BEIJING) (NNP [AP))
+        (PP (, ])
           (NP (DT _) (NNP China))))
       (VP (MD will)
         (VP (VBP need)
@@ -58,11 +66,11 @@ dobj(Needs-4, Planes-6)
       (NP (NNP Tuesday)))
     (. .)))
 
-nn((AP-2, BEIJING-1)
-nsubj(need-7, (AP-2)
-punct(China-5, )-3)
+nn([AP-2, BEIJING-1)
+nsubj(need-7, [AP-2)
+punct(China-5, ]-3)
 det(China-5, _-4)
-prep((AP-2, China-5)
+prep([AP-2, China-5)
 aux(need-7, will-6)
 ccomp(said-29, need-7)
 advmod(aircraft-11, almost-8)
@@ -84,6 +92,8 @@ nn(Industrie-28, Airbus-27)
 nsubj(said-29, Industrie-28)
 root(ROOT-0, said-29)
 tmod(said-29, Tuesday-30)
+
+Passenger/JJR traffic/NN on/IN Chinese/JJ carriers/NNS will/MD grow/VB at/IN an/DT annual/JJ rate/NN of/IN 7.7/CD percent/JJ until/IN the/DT end/NN of/IN 2019/CD ,/, requiring/VBG them/PRP to/TO triple/VB their/PRP$ number/NN of/IN seats/NNS from/IN 97,000/CD to/TO about/IN 380,000/CD ,/, the/DT European/JJ aircraft/NN consortium/NN said/VBD ./.
 
 (ROOT
   (S
@@ -140,6 +150,7 @@ det(end-17, the-16)
 prep_until(percent-14, end-17)
 prep_of(7.7-13, 2019-19)
 vmod(7.7-13, requiring-21)
+dobj(requiring-21, them-22)
 nsubj(triple-24, them-22)
 aux(triple-24, to-23)
 xcomp(requiring-21, triple-24)
@@ -154,6 +165,8 @@ amod(consortium-38, European-36)
 nn(consortium-38, aircraft-37)
 nsubj(said-39, consortium-38)
 root(ROOT-0, said-39)
+
+To/TO keep/VB up/RP ,/, Airbus/NNPS estimated/VBD China/NNP 's/POS 19/CD airlines/NNS will/MD need/VBP 1,570/CD new/JJ passenger/NN planes/NNS and/CC 26/CD new/JJ cargo/NN carriers/NNS at/IN a/DT total/JJ cost/NN of/IN $149/CD billion/CD ./.
 
 (ROOT
   (S
@@ -206,6 +219,8 @@ amod(cost-25, total-24)
 prep_at(need-12, cost-25)
 number(billion-28, $149-27)
 prep_of(cost-25, billion-28)
+
+The/DT China/NNP market/NN 's/POS anticipated/JJ growth/NN far/RB outpaces/VBZ an/DT expected/JJ worldwide/NN 4.9/CD percent/JJ annual/JJ rise/NN in/IN passenger/NN traffic/NN over/IN the/DT next/JJ two/CD decades/NNS ,/, according/VBG to/TO Airbus/NNP ./.
 
 (ROOT
   (S

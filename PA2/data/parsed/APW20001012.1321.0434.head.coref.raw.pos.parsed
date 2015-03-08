@@ -1,3 +1,5 @@
+APW20001012.1321.0434/DT NEWS/NNP STORY/NNPS 2000-10-12/CD 13:36:03/CD
+
 (ROOT
   (NP
     (NP (DT APW20001012.1321.0434))
@@ -10,10 +12,14 @@ dep(APW20001012.1321.0434-1, STORY-3)
 num(13:36:03-5, 2000-10-12-4)
 dep(APW20001012.1321.0434-1, 13:36:03-5)
 
+Detective-Slain/JJ
+
 (ROOT
   (ADJP (JJ Detective-Slain)))
 
 root(ROOT-0, Detective-Slain-1)
+
+Cop/NNP ,/, Suspect/NNP Fatally/RB Shot/VBN at/IN Station/NNP
 
 (ROOT
   (S
@@ -30,12 +36,14 @@ advmod(Shot-5, Fatally-4)
 root(ROOT-0, Shot-5)
 prep_at(Shot-5, Station-7)
 
+WARREN/NNP ,/, Mich./NNP [AP/NNP ]/NNP _/, A/DT detective/NN and/CC a/DT drug/JJ suspect/NN were/VBD fatally/RB wounded/VBN during/IN a/DT struggle/JJ while/IN the/DT officer/NN was/VBD booking/VBG him/PRP at/IN police/NN headquarters/NNS ./.
+
 (ROOT
   (S
     (NP
       (NP
         (NAC (NNP WARREN) (, ,) (NNP Mich.))
-        (NNP (AP) (NNP )))
+        (NNP [AP) (NNP ]))
       (PP (, _)
         (NP
           (NP (DT A) (NN detective))
@@ -56,16 +64,16 @@ prep_at(Shot-5, Station-7)
                   (NP (NN police) (NNS headquarters)))))))))
     (. .)))
 
-dep()-5, WARREN-1)
+dep(]-5, WARREN-1)
 dep(WARREN-1, Mich.-3)
-nn()-5, (AP-4)
-nsubjpass(wounded-15, )-5)
+nn(]-5, [AP-4)
+nsubjpass(wounded-15, ]-5)
 punct(detective-8, _-6)
 det(detective-8, A-7)
-prep()-5, detective-8)
+prep(]-5, detective-8)
 det(suspect-12, a-10)
 amod(suspect-12, drug-11)
-prep()-5, suspect-12)
+prep(]-5, suspect-12)
 conj_and(detective-8, suspect-12)
 auxpass(wounded-15, were-13)
 advmod(wounded-15, fatally-14)
@@ -80,6 +88,8 @@ advcl(wounded-15, booking-23)
 dobj(booking-23, him-24)
 nn(headquarters-27, police-26)
 prep_at(booking-23, headquarters-27)
+
+Officers/NNS said/VBD investigators/NNS were/VBD reviewing/VBG a/DT videotape/NN of/IN the/DT lockup/JJ area/NN in/IN an/DT effort/NN to/TO figure/VB out/RP the/DT sequence/NN of/IN events/NNS that/WDT led/VBD to/TO the/DT shooting/JJ Wednesday/NN evening/NN ./.
 
 (ROOT
   (S
@@ -139,6 +149,8 @@ amod(Wednesday-27, shooting-26)
 prep_to(led-23, Wednesday-27)
 tmod(led-23, evening-28)
 
+Detective/JJ Christopher/NNP Wouters/NNPS had/VBD arrested/VBN a/DT suspect/NN on/IN drug/JJ charges/NNS ,/, Warren/NNP police/NNP Chief/NNP James/NNP Vohs/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -170,6 +182,8 @@ nn(Vohs-16, James-15)
 nsubj(said-17, Vohs-16)
 root(ROOT-0, said-17)
 
+Both/DT were/VBD wounded/VBN around/IN 6:30/CD p.m/NN ./.
+
 (ROOT
   (S
     (NP (DT Both))
@@ -184,6 +198,8 @@ auxpass(wounded-3, were-2)
 root(ROOT-0, wounded-3)
 num(p.m-6, 6:30-5)
 prep_around(wounded-3, p.m-6)
+
+after/IN the/DT man/NN ``produced/VBD a/DT gun/NN and/CC there/EX was/VBD a/DT struggle/NN ,''/, he/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -218,6 +234,8 @@ punct(said-14, ,''-12)
 nsubj(said-14, he-13)
 root(ROOT-0, said-14)
 
+Authorities/NNS did/VBD not/RB immediately/RB say/VB whether/IN the/DT gun/NN belonged/VBD to/TO the/DT detective/JJ or/CC the/DT suspect/NN ./.
+
 (ROOT
   (S
     (NP (NNS Authorities))
@@ -250,6 +268,8 @@ det(suspect-15, the-14)
 prep_to(belonged-9, suspect-15)
 conj_or(detective-12, suspect-15)
 
+Wouters/NNS ,/, 42/CD ,/, died/VBD an/DT hour/NN later/RBR at/IN St./NNP John/NNP Macomb/NNP Hospital/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -276,6 +296,8 @@ nn(Hospital-13, St.-10)
 nn(Hospital-13, John-11)
 nn(Hospital-13, Macomb-12)
 prep_at(died-5, Hospital-13)
+
+The/DT suspect/NN died/VBD later/RBR the/DT same/JJ night/NN ,/, hospital/JJ spokeswoman/NN Rebecca/NNP O'Grady/NNP said/VBD Thursday/NN ./.
 
 (ROOT
   (S
@@ -304,6 +326,8 @@ nsubj(said-13, O'Grady-12)
 root(ROOT-0, said-13)
 tmod(said-13, Thursday-14)
 
+His/PRP$ name/NN wasn't/VBD released/VBN ./.
+
 (ROOT
   (S
     (NP (PRP$ His) (NN name))
@@ -315,6 +339,8 @@ poss(name-2, His-1)
 nsubj(wasn't-3, name-2)
 root(ROOT-0, wasn't-3)
 dep(wasn't-3, released-4)
+
+Vohs/NNP described/VBD Wouters/NNS ,/, a/DT 19-year/JJ veteran/NN ,/, as/IN a/DT good/JJ officer/NN who/WP was/VBD married/JJ and/CC had/VBD two/CD young/JJ daughters/NNS ./.
 
 (ROOT
   (S
@@ -357,6 +383,8 @@ conj_and(described-2, had-17)
 num(daughters-20, two-18)
 amod(daughters-20, young-19)
 dobj(had-17, daughters-20)
+
+It/PRP was/VBD the/DT first/JJ time/NN since/IN 1969/CD that/IN an/DT officer/NN has/VBZ been/VBN killed/VBN in/IN the/DT line/NN of/IN duty/NN in/IN Warren/NNP ,/, a/DT large/JJ blue-collar/JJ Detroit/NN suburb/NN ./.
 
 (ROOT
   (S

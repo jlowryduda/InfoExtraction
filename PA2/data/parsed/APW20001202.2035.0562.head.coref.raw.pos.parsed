@@ -1,3 +1,5 @@
+APW20001202.2035.0562/DT NEWS/NNP STORY/NNPS 2000-12-02/CD 20:59:26/CD
+
 (ROOT
   (NP
     (NP (DT APW20001202.2035.0562))
@@ -10,10 +12,14 @@ dep(APW20001202.2035.0562-1, STORY-3)
 num(20:59:26-5, 2000-12-02-4)
 dep(APW20001202.2035.0562-1, 20:59:26-5)
 
+Fox-Open-Border/JJ
+
 (ROOT
   (ADJP (JJ Fox-Open-Border)))
 
 root(ROOT-0, Fox-Open-Border-1)
+
+Skepticism/NNP Greets/NNP Fox/NNP 's/POS Border/NNP Plan/NNP
 
 (ROOT
   (NP
@@ -26,13 +32,15 @@ poss(Plan-6, Fox-3)
 nn(Plan-6, Border-5)
 root(ROOT-0, Plan-6)
 
+BROWNSVILLE/NNP ,/, Texas/NNP [AP/NNP ]/, _/DT In/IN speech/NN after/IN speech/NN ,/, Mexico/NNP President/NNP Vicente/NNP Fox/NNP argues/NNS for/IN his/PRP$ dream/NN :/: A/DT free/JJ flow/NN of/IN workers/NNS across/IN an/DT open/JJ border/NN ,/, an/DT international/JJ boundary/NN that/IN ceases/NNS to/TO be/VB a/DT barrier/NN ./.
+
 (ROOT
   (NP
     (NP (NNP BROWNSVILLE))
     (, ,)
     (S
-      (NP (NNP Texas) (NNP (AP))
-      (VP (, ))
+      (NP (NNP Texas) (NNP [AP))
+      (VP (, ])
         (S
           (NP (DT _))
           (PP (IN In)
@@ -64,9 +72,9 @@ root(ROOT-0, Plan-6)
     (. .)))
 
 root(ROOT-0, BROWNSVILLE-1)
-nn((AP-4, Texas-3)
-nsubj(_-6, (AP-4)
-punct(_-6, )-5)
+nn([AP-4, Texas-3)
+nsubj(_-6, [AP-4)
+punct(_-6, ]-5)
 dep(BROWNSVILLE-1, _-6)
 dep(_-6, In-7)
 pobj(In-7, speech-8)
@@ -94,6 +102,8 @@ aux(barrier-39, to-36)
 cop(barrier-39, be-37)
 det(barrier-39, a-38)
 vmod(boundary-33, barrier-39)
+
+But/CC the/DT 2,000-mile/JJ frontier/NN between/IN Mexico/NNP and/CC the/DT United/NNP States/NNPS is/VBZ delineated/VBN by/IN steel/JJ walls/NNS and/CC barbed/JJ wire/NN ,/, watched/VBD over/IN by/IN uniformed/JJ guards/NNS from/IN the/DT Border/NNP Patrol/NNP ./.
 
 (ROOT
   (S (CC But)
@@ -148,6 +158,8 @@ det(Patrol-28, the-26)
 nn(Patrol-28, Border-27)
 prep_from(watched-20, Patrol-28)
 
+``It/NNP will/MD never/RB happen/VB ,''/DT Rosalinda/NNP Arebalo/NNP of/IN neighboring/VBG Matamoros/NNP ,/, Mexico/NNP ,/, said/VBD flatly/RB of/IN Fox/NNP 's/POS dream/NN ./.
+
 (ROOT
   (S
     (S
@@ -184,6 +196,8 @@ advmod(said-14, flatly-15)
 poss(dream-19, Fox-17)
 prep_of(said-14, dream-19)
 
+``If/IN it/PRP did/VBD ,/, it/PRP would/MD be/VB a/DT miracle/NN .''/.
+
 (ROOT
   (S
     (SBAR (IN ``If)
@@ -207,6 +221,8 @@ det(miracle-9, a-8)
 root(ROOT-0, miracle-9)
 punct(miracle-9, .''-10)
 
+If/IN anything/NN ,/, the/DT border/NN is/VBZ closing/VBG down/RB ./.
+
 (ROOT
   (S
     (SBAR (IN If)
@@ -226,6 +242,8 @@ nsubj(closing-7, border-5)
 aux(closing-7, is-6)
 root(ROOT-0, closing-7)
 advmod(closing-7, down-8)
+
+The/DT United/NNP States/NNPS announced/VBD plans/VBZ this/DT fall/NN to/TO step/VB up/RP border/NN security/NN with/IN 1,300/CD miles/NNS of/IN road/NN and/CC fence/NN ,/, cameras/NN and/CC thousands/NNS of/IN portable/JJ floodlights/NNS ./.
 
 (ROOT
   (S
@@ -279,6 +297,8 @@ conj_and(fence-19, thousands-23)
 amod(floodlights-26, portable-25)
 prep_of(fence-19, floodlights-26)
 
+From/NNP 1993/CD through/IN 1999/CD ,/, the/DT number/NN of/IN Border/NNP Patrol/NNP agents/NNS doubled/VBD from/IN 4,000/CD to/TO 8,000/CD ./.
+
 (ROOT
   (S
     (PP
@@ -308,6 +328,8 @@ root(ROOT-0, doubled-12)
 number(8,000-16, 4,000-14)
 dep(8,000-16, to-15)
 prep_from(doubled-12, 8,000-16)
+
+``I/NNP 'll/MD be/VB honest/RB ,/, your/PRP$ country/NN isn't/NN ready/NN for/IN it/PRP ,''/, said/VBD Fernando/NNP Kleinfingher/NNP ,/, a/DT computer/NN consultant/NN in/IN Tijuana/NNP ,/, Mexico/NNP ./.
 
 (ROOT
   (SINV
@@ -352,6 +374,8 @@ appos(Kleinfingher-15, consultant-19)
 nn(Mexico-23, Tijuana-21)
 prep_in(consultant-19, Mexico-23)
 
+``It/RB would/MD be/VB very/RB hard/JJ for/IN America/NNP to/TO accept/VB .''/.
+
 (ROOT
   (S
     (NP (RB ``It))
@@ -366,7 +390,7 @@ prep_in(consultant-19, Mexico-23)
     (. .'')))
 
 nsubj(hard-5, ``It-1)
-xsubj(accept-9, ``It-1)
+nsubj(accept-9, ``It-1)
 aux(hard-5, would-2)
 cop(hard-5, be-3)
 advmod(hard-5, very-4)
@@ -375,6 +399,8 @@ prep_for(hard-5, America-7)
 aux(accept-9, to-8)
 xcomp(hard-5, accept-9)
 punct(hard-5, .''-10)
+
+``The/DT United/NNP States/NNPS will/MD never/RB allow/VB an/DT open/JJ border/NN ,''/IN predicted/JJ Faustino/NNP Avalos/NNP ,/, a/DT 65-year-old/JJ farmer/NN strolling/VBG home/NN to/TO Matamoros/NNP ./.
 
 (ROOT
   (S
@@ -414,6 +440,8 @@ vmod(farmer-17, strolling-18)
 dobj(strolling-18, home-19)
 prep_to(strolling-18, Matamoros-21)
 
+``They/NNP only/RB want/VBP Mexicans/NNPS to/TO visit/NN and/CC buy/VB things/NNS ./.
+
 (ROOT
   (S
     (NP (NNP ``They))
@@ -437,6 +465,8 @@ prep_to(want-3, visit-6)
 conj_and(want-3, buy-8)
 dobj(buy-8, things-9)
 
+The/DT undocumented/JJ workers/NNS get/VBP nothing/VBG but/CC injustice/NN .''/.
+
 (ROOT
   (S
     (NP (DT The) (JJ undocumented) (NNS workers))
@@ -456,6 +486,8 @@ prep(nothing-5, but-6)
 pobj(but-6, injustice-7)
 punct(get-4, .''-8)
 
+Economists/NNS say/VBP the/DT skepticism/NN is/VBZ well-founded/VBN ./.
+
 (ROOT
   (S
     (NP (NNS Economists))
@@ -473,6 +505,8 @@ det(skepticism-4, the-3)
 nsubjpass(well-founded-6, skepticism-4)
 auxpass(well-founded-6, is-5)
 ccomp(say-2, well-founded-6)
+
+``It/NNP 's/VBZ a/DT totally/RB unrealistic/JJ proposal/NN ,''/, said/VBD Steve/NNP Bronars/NNPS ,/, a/DT professor/NN of/IN economics/NNS at/IN the/DT University/NNP of/IN Texas/NNP at/IN Austin/NNP ./.
 
 (ROOT
   (SINV
@@ -520,6 +554,8 @@ prep_at(economics-15, University-18)
 prep_of(University-18, Texas-20)
 prep_at(Texas-20, Austin-22)
 
+``It's/NNS just/RB not/RB something/VBG that/IN 's/POS going/VBG to/TO happen/VB .''/.
+
 (ROOT
   (NP
     (NP (NNS ``It's))
@@ -540,11 +576,13 @@ advmod(not-3, just-2)
 neg(something-4, not-3)
 vmod(``It's-1, something-4)
 nsubj(going-7, 's-6)
-xsubj(happen-9, 's-6)
+nsubj(happen-9, 's-6)
 prepc_that(something-4, going-7)
 aux(happen-9, to-8)
 xcomp(going-7, happen-9)
 punct(``It's-1, .''-10)
+
+Fox/NNP ,/, who/WP was/VBD sworn/VBN into/IN office/NN Friday/NN ,/, first/RB pledged/VBN to/TO open/VB the/DT border/NN during/IN a/DT heated/JJ campaign/NN to/TO overturn/VB the/DT ruling/VBG Institutional/NNP Revolutionary/NNP Party/NNP ./.
 
 (ROOT
   (S
@@ -575,7 +613,7 @@ punct(``It's-1, .''-10)
 
 nsubjpass(sworn-5, Fox-1)
 nsubj(pledged-11, Fox-1)
-xsubj(open-13, Fox-1)
+nsubj(open-13, Fox-1)
 auxpass(sworn-5, was-4)
 rcmod(Fox-1, sworn-5)
 nn(Friday-8, office-7)
@@ -596,6 +634,8 @@ amod(Party-26, ruling-23)
 nn(Party-26, Institutional-24)
 nn(Party-26, Revolutionary-25)
 dobj(overturn-21, Party-26)
+
+Pressed/VBN for/IN details/NNS after/IN his/PRP$ July/NNP election/NN ,/, the/DT former/JJ Coca-Cola/NNP executive/NN revised/VBD his/PRP$ scheme/NN ,/, promising/VBG to/TO bring/VB Mexican/NNP wages/VBZ up/RB to/TO U.S./NNP standards/NNS and/CC open/VBP the/DT border/NN within/IN 10/CD years/NNS ,/, although/IN he/PRP remains/VBZ vague/NN about/IN a/DT schedule/NN ./.
 
 (ROOT
   (S
@@ -666,12 +706,14 @@ det(border-29, the-28)
 dobj(open-27, border-29)
 num(years-32, 10-31)
 prep_within(open-27, years-32)
-mark(vague-37, although-34)
-nsubj(vague-37, he-35)
-cop(vague-37, remains-36)
-advcl(revised-13, vague-37)
+mark(remains-36, although-34)
+nsubj(remains-36, he-35)
+advcl(revised-13, remains-36)
+xcomp(remains-36, vague-37)
 det(schedule-40, a-39)
 prep_about(vague-37, schedule-40)
+
+Economists/NNS say/VBP an/DT unfettered/JJ flow/NN of/IN Mexican/NNP workers/NNS could/MD drive/VB wages/NNS down/RB and/CC strain/VB social/JJ services/NNS to/TO the/DT breaking/NN point/NN ,/, particularly/RB in/IN border/NN states/NNS ./.
 
 (ROOT
   (S
@@ -722,6 +764,8 @@ dep(strain-14, particularly-22)
 nn(states-25, border-24)
 prep_in(strain-14, states-25)
 
+On/IN top/NN of/IN that/WDT ,/, adds/VBZ El/NNP Paso/NNP Mayor/NNP Carlos/NNP Ramirez/NNP :/: ``There/RB are/VBP safety/JJ issues/NNS of/IN drugs/NNS ,/, terrorists/NNS and/CC contraband/NN .''/.
+
 (ROOT
   (SINV
     (SINV
@@ -763,6 +807,8 @@ prep_of(issues-16, contraband-22)
 conj_and(drugs-18, contraband-22)
 punct(issues-16, .''-23)
 
+President/NNP Clinton/NNP and/CC Vice/NNP President/NNP Al/NNP Gore/NNP were/VBD noncommittal/JJ in/IN August/NNP meetings/NNS with/IN Fox/NNP ./.
+
 (ROOT
   (S
     (NP (NNP President) (NNP Clinton)
@@ -788,6 +834,8 @@ root(ROOT-0, noncommittal-9)
 nn(meetings-12, August-11)
 prep_in(noncommittal-9, meetings-12)
 prep_with(noncommittal-9, Fox-14)
+
+And/CC Texas/NNP Gov./NNP George/NNP W./NNP Bush/NNP said/VBD he/PRP supported/VBD ``a/DT humane/JJ way/NN ''/'' of/IN cracking/VBG down/RB on/IN migration/NN from/IN ``our/PRP$ friendly/JJ neighbor/NN to/TO the/DT south/NN .''/.
 
 (ROOT
   (S (CC And)
@@ -834,14 +882,16 @@ det(south-25, the-24)
 prep_to(cracking-15, south-25)
 punct(said-7, .''-26)
 
+``I/NNP appreciate/VB [Fox/NNP 's/POS ]/JJ optimistic/JJ vision/NN ,''/NNP Bush/NNP said/VBD ./.
+
 (ROOT
   (S
     (NP (NNP ``I))
     (VP (VB appreciate)
       (NP
         (NP
-          (NP (NNP (Fox) (POS 's))
-          (ADJP (JJ )) (JJ optimistic))
+          (NP (NNP [Fox) (POS 's))
+          (ADJP (JJ ]) (JJ optimistic))
           (NN vision))
         (SBAR
           (S
@@ -851,13 +901,15 @@ punct(said-7, .''-26)
 
 nsubj(appreciate-2, ``I-1)
 root(ROOT-0, appreciate-2)
-poss(vision-7, (Fox-3)
-amod(optimistic-6, )-5)
+poss(vision-7, [Fox-3)
+amod(optimistic-6, ]-5)
 amod(vision-7, optimistic-6)
 dobj(appreciate-2, vision-7)
 nn(Bush-9, ,''-8)
 nsubj(said-10, Bush-9)
 rcmod(vision-7, said-10)
+
+Mark/NNP Krikorian/NNP ,/, director/NN of/IN the/DT nonpartisan/NN ,/, Washington/NNP -based/JJ Center/NNP for/IN Immigration/NNP Studies/NNPS ,/, believes/VBZ Fox/NNP 's/POS call/NN for/IN an/DT open/JJ border/NN is/VBZ a/DT ``bargaining/VBG chip/NN .''/.
 
 (ROOT
   (S
@@ -912,6 +964,8 @@ amod(chip-27, ``bargaining-26)
 ccomp(believes-16, chip-27)
 punct(believes-16, .''-28)
 
+Fox/NNP will/MD demand/VB a/DT porous/JJ boundary/NN and/CC then/RB settle/NN for/IN an/DT increase/NN in/IN legal/JJ migration/NN ,/, he/PRP predicted/VBD ./.
+
 (ROOT
   (S
     (S
@@ -950,6 +1004,8 @@ prep_in(increase-12, migration-15)
 nsubj(predicted-18, he-17)
 root(ROOT-0, predicted-18)
 
+``He/NNP 's/POS hoping/VBG the/DT United/NNP States/NNPS will/MD split/NN the/DT difference/NN ,''/, Krikorian/NNP said/VBD ./.
+
 (ROOT
   (SINV
     (S
@@ -982,6 +1038,8 @@ punct(Krikorian-12, ,''-11)
 prep(difference-10, Krikorian-12)
 rcmod(split-8, said-13)
 
+It/PRP 's/VBZ a/DT good/JJ time/NN to/TO cut/VB a/DT deal/NN ./.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -1002,6 +1060,8 @@ aux(cut-7, to-6)
 vmod(time-5, cut-7)
 det(deal-9, a-8)
 dobj(cut-7, deal-9)
+
+U.S./NNP unemployment/NN is/VBZ at/IN its/PRP$ lowest/NN in/IN three/CD decades/NNS and/CC there/RB are/VBP fewer/JJR people/NNS to/TO fill/VB low-skilled/JJ jobs/NNS in/IN farms/NNS ,/, restaurants/NNS and/CC factories/NNS ./.
 
 (ROOT
   (S
@@ -1049,6 +1109,8 @@ conj_and(farms-20, restaurants-22)
 prep_in(fill-16, factories-24)
 conj_and(farms-20, factories-24)
 
+That/DT scenario/NN rings/VBZ familiar/JJ to/TO Arebalo/NNP ,/, 49/CD ,/, who/WP went/VBD from/IN Matamoros/NNP to/TO North/NNP Carolina/NNP to/TO work/VB in/IN soybean/JJ fields/NNS when/WRB she/PRP was/VBD a/DT girl/NN ./.
+
 (ROOT
   (S
     (NP (DT That) (NN scenario))
@@ -1087,7 +1149,7 @@ root(ROOT-0, rings-3)
 acomp(rings-3, familiar-4)
 prep_to(familiar-4, Arebalo-6)
 nsubj(went-11, Arebalo-6)
-xsubj(work-18, Arebalo-6)
+nsubj(work-18, Arebalo-6)
 amod(Arebalo-6, 49-8)
 rcmod(Arebalo-6, went-11)
 prep_from(went-11, Matamoros-13)
@@ -1102,6 +1164,8 @@ nsubj(girl-26, she-23)
 cop(girl-26, was-24)
 det(girl-26, a-25)
 advcl(work-18, girl-26)
+
+Her/NNP family/NN needed/VBD the/DT money/NN and/CC the/DT farms/NNS needed/VBD the/DT help/NN ./.
 
 (ROOT
   (S
@@ -1128,6 +1192,8 @@ nsubj(needed-9, farms-8)
 ccomp(needed-3, needed-9)
 det(help-11, the-10)
 dobj(needed-9, help-11)
+
+Those/PRP were/VBD the/DT days/NNS of/IN the/DT Bracero/NNP Program/NNP ,/, World/NNP War/NNP II-era/NNP legislation/NN that/WDT beckoned/VBD thousands/NNS of/IN Mexican/NNP nationals/NNS to/TO replenish/VB a/DT dwindling/VBG U.S./NNP labor/NN pool/NN ./.
 
 (ROOT
   (S
@@ -1177,6 +1243,8 @@ nn(pool-26, U.S.-24)
 nn(pool-26, labor-25)
 dobj(replenish-21, pool-26)
 
+In/IN 1954/CD ,/, a/DT military/JJ -style/JJ Immigration/NN and/CC Naturalization/NNP Service/NNP campaign/NN called/VBN ``Operation/NNP Wetback/NNP ''/'' drove/VB about/IN 1/CD million/CD illegal/JJ immigrants/NNS back/RB into/IN Mexico/NNP ./.
+
 (ROOT
   (S
     (PP (IN In)
@@ -1223,6 +1291,8 @@ prep_about(drove-16, immigrants-21)
 advmod(immigrants-21, back-22)
 prep_into(back-22, Mexico-24)
 
+Ten/CD years/NNS later/RB ,/, the/DT Bracero/NNP Program/NNP fizzled/VBD out/RP ./.
+
 (ROOT
   (S
     (ADVP
@@ -1242,6 +1312,8 @@ nn(Program-7, Bracero-6)
 nsubj(fizzled-8, Program-7)
 root(ROOT-0, fizzled-8)
 prt(fizzled-8, out-9)
+
+``Back/CC then/RB it/PRP was/VBD simple/JJ to/TO get/VB papers/NNS to/TO work/VB here/RB ,/, and/CC you/PRP could/MD just/RB come/VB across/JJ ,''/, Arebalo/NNP said/VBD as/IN she/PRP stepped/VBD off/RP the/DT international/JJ bridge/NN into/IN Brownsville/NNP 's/POS shopping/JJ district/NN ./.
 
 (ROOT
   (S
@@ -1286,12 +1358,13 @@ prt(fizzled-8, out-9)
 
 cc(then-2, ``Back-1)
 nsubj(simple-5, then-2)
-xsubj(get-7, then-2)
+nsubj(get-7, then-2)
 dep(then-2, it-3)
 cop(simple-5, was-4)
 root(ROOT-0, simple-5)
 aux(get-7, to-6)
 xcomp(simple-5, get-7)
+dobj(get-7, papers-8)
 nsubj(work-10, papers-8)
 aux(work-10, to-9)
 xcomp(get-7, work-10)
@@ -1315,6 +1388,8 @@ poss(district-33, Brownsville-30)
 amod(district-33, shopping-32)
 prep_into(stepped-24, district-33)
 
+``But/NN then/RB everything/VBG changed/VBD .''/.
+
 (ROOT
   (S
     (NP
@@ -1331,10 +1406,14 @@ vmod(``But-1, everything-3)
 root(ROOT-0, changed-4)
 punct(changed-4, .''-5)
 
+___/.
+
 (ROOT
   (NP (. ___)))
 
 root(ROOT-0, ___-1)
+
+On/IN the/DT Net/NN :/:
 
 (ROOT
   (PP (IN On)
@@ -1344,6 +1423,8 @@ root(ROOT-0, ___-1)
 root(ROOT-0, On-1)
 det(Net-3, the-2)
 pobj(On-1, Net-3)
+
+Immigration/NNP and/CC Naturalization/NNP Service/NNP :/: http:/.
 
 (ROOT
   (NP

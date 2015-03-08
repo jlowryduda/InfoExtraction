@@ -1,3 +1,5 @@
+NYT20001115.2157.0439/NNP NEWS/NNP STORY/NNP 2000-11-15/CD 22:12:10/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001115.2157.0439) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(22:12:10-5, 2000-11-15-4)
 dep(STORY-3, 22:12:10-5)
+
+A0465/CD &Cx1f/NN ;/: taf-z/JJ u/NN l/IN BC-CIRCUITS-PHOTO-UPDATE/NNP 11-15/CD 0444/CD
 
 (ROOT
   (NP
@@ -28,16 +32,22 @@ prep_l(u-5, BC-CIRCUITS-PHOTO-UPDATE-7)
 num(BC-CIRCUITS-PHOTO-UPDATE-7, 11-15-8)
 dep(u-5, 0444-9)
 
+BC-CIRCUITS-PHOTO-UPDATE-NYT/NNP
+
 (ROOT
   (NP (NNP BC-CIRCUITS-PHOTO-UPDATE-NYT)))
 
 root(ROOT-0, BC-CIRCUITS-PHOTO-UPDATE-NYT-1)
+
+ATTENTION/JJ EDITORS/NNS :/:
 
 (ROOT
   (NP (JJ ATTENTION) (NNS EDITORS) (: :)))
 
 amod(EDITORS-2, ATTENTION-1)
 root(ROOT-0, EDITORS-2)
+
+The/DT following/JJ photos/NNS have/VBP been/VBN sent/VBN as/IN part/NN of/IN The/DT New/NNP York/NNP Times/NNP '/POS Circuits/NNS Photo/NNP Package/NNP ,/, moving/VBG Wednesday/NNP ,/, 11/CD ./.
 
 (ROOT
   (S
@@ -78,6 +88,8 @@ dobj(sent-6, Package-17)
 vmod(Package-17, moving-19)
 tmod(moving-19, Wednesday-20)
 amod(Package-17, 11-22)
+
+Photo/NNP clients/NNS will/MD automatically/RB receive/VB our/PRP$ photos/NNS via/IN AP/NNP 's/POS PhotoExpress/NNPS or/CC may/MD download/VB them/PRP from/IN either/RB the/DT Wieck/NNP Photo/NNP Database/NNP in/IN Dallas/NNP at/IN 972-392-0888/CD or/CC from/IN NYTPhotos/NNS on/IN Newscom/NNP at/IN 213-237-4577/CD or/CC PressLink/NNP at/IN 800-888-6195/CD ./.
 
 (ROOT
   (S
@@ -150,6 +162,8 @@ prep_on(NYTPhotos-28, PressLink-34)
 conj_or(Newscom-30, PressLink-34)
 prep_at(PressLink-34, 800-888-6195-36)
 
+Non-clients/NNS can/MD make/VB individual/JJ purchases/NNS by/IN calling/VBG [888/CD ]/CD 603-1036/CD or/CC 212-556-4204/CD ./.
+
 (ROOT
   (S
     (NP (NNS Non-clients))
@@ -159,7 +173,7 @@ prep_at(PressLink-34, 800-888-6195-36)
         (PP (IN by)
           (S
             (VP (VBG calling)
-              (NP (CD (888) (CD )))
+              (NP (CD [888) (CD ]))
               (NP (CD 603-1036)
                 (CC or)
                 (CD 212-556-4204)))))))
@@ -171,22 +185,26 @@ root(ROOT-0, make-3)
 amod(purchases-5, individual-4)
 dobj(make-3, purchases-5)
 prepc_by(make-3, calling-7)
-num()-9, (888-8)
-iobj(calling-7, )-9)
+num(]-9, [888-8)
+iobj(calling-7, ]-9)
 dobj(calling-7, 603-1036-10)
 dobj(calling-7, 212-556-4204-12)
 conj_or(603-1036-10, 212-556-4204-12)
 
+[NYT37/CD ]/IN CAMBRIDGE/NNP ,/, Mass/NNP ./.
+
 (ROOT
   (NP
-    (NP (CD (NYT37))
-    (PP (IN ))
+    (NP (CD [NYT37))
+    (PP (IN ])
       (NP (NNP CAMBRIDGE) (, ,) (NNP Mass)))
     (. .)))
 
-root(ROOT-0, (NYT37-1)
+root(ROOT-0, [NYT37-1)
 nn(Mass-5, CAMBRIDGE-3)
-prep_)((NYT37-1, Mass-5)
+prep_]([NYT37-1, Mass-5)
+
+--/: Nov/RB ./.
 
 (ROOT
   (PRN (: --)
@@ -194,6 +212,8 @@ prep_)((NYT37-1, Mass-5)
     (. .)))
 
 root(ROOT-0, Nov-2)
+
+15/CD ,/, 2000/CD --/: CIR-ROBOT-DOLL/NNP --/: Rodney/NNP Brooks/NNPS ,/, the/DT 45-year-old/JJ director/NN of/IN the/DT Artificial/NNP Intelligence/NNP Laboratory/NNP at/IN the/DT Massachusetts/NNP Institute/NNP of/IN Technology/NNP ,/, has/VBZ spent/JJ most/JJS of/IN his/PRP$ career/NN engrossed/VBD in/IN the/DT question/NN of/IN how/WRB to/TO model/VB biological/JJ systems/NNS ./.
 
 (ROOT
   (S
@@ -270,6 +290,8 @@ prepc_of(question-34, model-38)
 amod(systems-40, biological-39)
 dobj(model-38, systems-40)
 
+Brooks/NNP is/VBZ chairman/NN and/CC chief/JJ technical/JJ officer/NN at/IN iRobot/NNP ,/, a/DT 10-year-old/JJ robotics/NNS company/NN in/IN Cambridge/NNP ,/, Mass/NNP .,/VBD that/IN started/VBD out/RB making/VBG robots/NNS for/IN private/JJ missions/NNS to/TO the/DT moon/NN and/CC Mars/NNS ./.
+
 (ROOT
   (S
     (S
@@ -331,6 +353,8 @@ prep_to(making-23, moon-30)
 prep_to(making-23, Mars-32)
 conj_and(moon-30, Mars-32)
 
+Brooks/NNS with/IN My/NNP Real/NNP Baby/NNP doll/NNP ,/, an/DT animatronic/JJ doll/NN priced/VBN at/IN $100/CD ./.
+
 (ROOT
   (S
     (NP
@@ -356,29 +380,35 @@ appos(doll-6, doll-10)
 root(ROOT-0, priced-11)
 prep_at(priced-11, $100-13)
 
-(ROOT
-  (NP (NNP (Michael) (NNP Quan) (NNP New) (NNP York) (NNP Times) (. ))))
+[Michael/NNP Quan/NNP New/NNP York/NNP Times/NNP ]/.
 
-nn(Times-5, (Michael-1)
+(ROOT
+  (NP (NNP [Michael) (NNP Quan) (NNP New) (NNP York) (NNP Times) (. ])))
+
+nn(Times-5, [Michael-1)
 nn(Times-5, Quan-2)
 nn(Times-5, New-3)
 nn(Times-5, York-4)
 root(ROOT-0, Times-5)
-punct(Times-5, )-6)
+punct(Times-5, ]-6)
+
+[NYT36/CD ]/IN UNDATED/NNP --/: Nov/RB ./.
 
 (ROOT
   (FRAG
     (FRAG
-      (NP (CD (NYT36))
-      (PP (IN ))
+      (NP (CD [NYT36))
+      (PP (IN ])
         (NP (NNP UNDATED))))
     (: --)
     (FRAG (RB Nov))
     (. .)))
 
-root(ROOT-0, (NYT36-1)
-prep_)((NYT36-1, UNDATED-3)
-dep((NYT36-1, Nov-5)
+root(ROOT-0, [NYT36-1)
+prep_]([NYT36-1, UNDATED-3)
+dep([NYT36-1, Nov-5)
+
+15/CD ,/, 2000/CD --/: CIR-GAMES/NNP --/: In/IN the/DT ever-shifting/JJ race/NN for/IN dominance/NN between/IN consoles/NNS and/CC PCs/NNS ,/, the/DT year/NN 2000/CD will/MD probably/RB go/VB to/TO the/DT consoles/NNS ./.
 
 (ROOT
   (S
@@ -430,28 +460,30 @@ root(ROOT-0, go-23)
 det(consoles-26, the-25)
 prep_to(go-23, consoles-26)
 
+1/CD ]/IN The/DT Gamer/NNP PC/NNP 2/CD ]/, Gaming/VBG sound/NN system/NN 3/CD ]/CD Game/JJ console/JJ 4/NN ]/IN Online/NNP fishing/VBG reel/VB 5/CD ]/NN Voice/NN controller/NN ;/: Chip/NNP set/NN ;/: Keyboard/NNP and/CC mouse/NN ;/: Game/NNP controller/NN ;/: Graphics/NNP card/NN ./.
+
 (ROOT
   (NP
     (NP
       (NP
         (NP (CD 1))
-        (PP (IN ))
+        (PP (IN ])
           (NP
-            (NP (DT The) (NNP Gamer) (NNP PC) (CD 2) (, )))
-            (VBG Gaming) (NN sound) (NN system))
+            (NP (DT The) (NNP Gamer) (NNP PC) (CD 2) (, ]))
+            (VBG Gaming) (NN sound) (NN system))))
       (NP
         (NP
-          (QP (CD 3) (CD ))
+          (QP (CD 3) (CD ]))
           (NX
             (NX (JJ Game) (JJ console) (NN 4))
-            (PP (IN ))
-              (NP (NNP Online))))
+            (PP (IN ])
+              (NP (NNP Online)))))
         (VP (VBG fishing)
           (S
             (VP (VB reel)
               (NP
-                (ADJP (CD 5) (NN )) (NN Voice))
-                (NN controller))))))
+                (ADJP (CD 5) (NN ]) (NN Voice))
+                (NN controller)))))))
     (: ;)
     (NP
       (NP (NNP Chip))
@@ -476,20 +508,20 @@ det(PC-5, The-3)
 nn(PC-5, Gamer-4)
 nn(system-10, PC-5)
 num(PC-5, 2-6)
-punct(PC-5, )-7)
+punct(PC-5, ]-7)
 amod(system-10, Gaming-8)
 nn(system-10, sound-9)
-prep_)(1-1, system-10)
-number()-12, 3-11)
-num(4-15, )-12)
+prep_](1-1, system-10)
+number(]-12, 3-11)
+num(4-15, ]-12)
 amod(4-15, Game-13)
 amod(4-15, console-14)
 dep(1-1, 4-15)
-prep_)(4-15, Online-17)
+prep_](4-15, Online-17)
 vmod(4-15, fishing-18)
 ccomp(fishing-18, reel-19)
 number(Voice-22, 5-20)
-dep(Voice-22, )-21)
+dep(Voice-22, ]-21)
 amod(controller-23, Voice-22)
 dobj(reel-19, controller-23)
 dep(1-1, Chip-25)
@@ -502,29 +534,35 @@ dep(Game-32, controller-33)
 dep(1-1, Graphics-35)
 dep(Graphics-35, card-36)
 
-(ROOT
-  (NP (NNP (Tony) (NNP Cenicola) (NNP New) (NNP York) (NNP Times) (. ))))
+[Tony/NNP Cenicola/NNP New/NNP York/NNP Times/NNP ]/.
 
-nn(Times-5, (Tony-1)
+(ROOT
+  (NP (NNP [Tony) (NNP Cenicola) (NNP New) (NNP York) (NNP Times) (. ])))
+
+nn(Times-5, [Tony-1)
 nn(Times-5, Cenicola-2)
 nn(Times-5, New-3)
 nn(Times-5, York-4)
 root(ROOT-0, Times-5)
-punct(Times-5, )-6)
+punct(Times-5, ]-6)
+
+[NYT35/CD ]/IN UNDATED/NNP --/: Nov/RB ./.
 
 (ROOT
   (FRAG
     (FRAG
-      (NP (CD (NYT35))
-      (PP (IN ))
+      (NP (CD [NYT35))
+      (PP (IN ])
         (NP (NNP UNDATED))))
     (: --)
     (FRAG (RB Nov))
     (. .)))
 
-root(ROOT-0, (NYT35-1)
-prep_)((NYT35-1, UNDATED-3)
-dep((NYT35-1, Nov-5)
+root(ROOT-0, [NYT35-1)
+prep_]([NYT35-1, UNDATED-3)
+dep([NYT35-1, Nov-5)
+
+15/CD ,/, 2000/CD --/: CIR-KIDS/NNS --/: Long/NNP gone/NN are/VBP the/DT days/NNS when/WRB children/NNP 's/POS toys/NNS were/VBD principally/RB powered/VBN by/IN mainsprings/NNS and/CC imagination/NN ,/, when/WRB a/DT doll/JJ capable/NN of/IN uttering/VBG only/JJ ``Mama/NN ''/'' would/MD be/VB considered/VBN downright/JJ chatty/NN ./.
 
 (ROOT
   (FRAG
@@ -603,6 +641,8 @@ advcl(powered-18, considered-35)
 amod(chatty-37, downright-36)
 dobj(considered-35, chatty-37)
 
+Today/NNP a/DT relatively/RB advanced/JJ technology/NN empowers/NNS much/RB of/IN play/VB ./.
+
 (ROOT
   (S
     (NP
@@ -622,93 +662,99 @@ advmod(of-8, much-7)
 advmod(play-9, of-8)
 root(ROOT-0, play-9)
 
+1/CD ]/IN Organizer/NNP with/IN built-in/JJ camera/NN 2/CD ]/NN Digital/NNP music/NN player/NN 3/CD ]/NN Drawing/VBG tablet/NN 4/IN ]/DT Music/NNP system/NN 5/CD ]/NN Robots/NNS that/WDT see/VBP 6/CD ]/NN Learning/VBG blocks/NNS 7,8/CD ]/NN Educational/NNP toys/NNS [Tony/VBP Cenicola/NNP New/NNP York/NNP Times/NNP ]/.
+
 (ROOT
   (S
     (SBAR
       (X
         (NP
           (NP (CD 1))
-          (PP (IN ))
+          (PP (IN ])
             (NP
               (NP (NNP Organizer))
               (PP (IN with)
-                (NP (JJ built-in) (NN camera)))))
-        (NP (CD 2) (NN ))
+                (NP (JJ built-in) (NN camera))))))
+        (NP (CD 2) (NN ]))
         (NP
           (NP (NNP Digital) (NN music) (NN player))
-          (NP (CD 3) (NN ))))
+          (NP (CD 3) (NN ]))))
       (S
         (VP (VBG Drawing)
           (NP
             (NP (NN tablet))
             (PP (IN 4)
-              (NP (DT )) (NNP Music) (NN system))))
+              (NP (DT ]) (NNP Music) (NN system))))
           (NP
-            (NP (CD 5) (NN )) (NNS Robots))
+            (NP (CD 5) (NN ]) (NNS Robots))
             (SBAR
               (WHNP (WDT that))
               (S
                 (VP (VBP see)
                   (S
-                    (NP (CD 6) (NN )))
-                    (ADJP (VBG Learning)))))
+                    (NP (CD 6) (NN ]))
+                    (ADJP (VBG Learning))))))))
         (NP
           (NP (NNS blocks))
-          (NP (CD 7,8) (NN )))))
+          (NP (CD 7,8) (NN ])))))
     (NP (NNP Educational) (NNS toys))
-    (VP (VBP (Tony)
-      (NP (NNP Cenicola) (NNP New) (NNP York) (NNP Times)))))
-    (. ))
+    (VP (VBP [Tony)
+      (NP (NNP Cenicola) (NNP New) (NNP York) (NNP Times)))
+    (. ])))
 
 dep(player-11, 1-1)
-prep_)(1-1, Organizer-3)
+prep_](1-1, Organizer-3)
 amod(camera-6, built-in-5)
 prep_with(Organizer-3, camera-6)
-num()-8, 2-7)
-dep(player-11, )-8)
+num(]-8, 2-7)
+dep(player-11, ]-8)
 nn(player-11, Digital-9)
 nn(player-11, music-10)
 dep(Drawing-14, player-11)
-num()-13, 3-12)
-dep(player-11, )-13)
-advcl((Tony-33, Drawing-14)
+num(]-13, 3-12)
+dep(player-11, ]-13)
+advcl([Tony-33, Drawing-14)
 iobj(Drawing-14, tablet-15)
-det(system-19, )-17)
+det(system-19, ]-17)
 nn(system-19, Music-18)
 prep_4(tablet-15, system-19)
 num(Robots-22, 5-20)
-nn(Robots-22, )-21)
+nn(Robots-22, ]-21)
 dobj(Drawing-14, Robots-22)
 nsubj(see-24, Robots-22)
 rcmod(Robots-22, see-24)
-num()-26, 6-25)
-nsubj(Learning-27, )-26)
+num(]-26, 6-25)
+nsubj(Learning-27, ]-26)
 xcomp(see-24, Learning-27)
 dep(Drawing-14, blocks-28)
-num()-30, 7,8-29)
-dep(blocks-28, )-30)
+num(]-30, 7,8-29)
+dep(blocks-28, ]-30)
 nn(toys-32, Educational-31)
-nsubj((Tony-33, toys-32)
-root(ROOT-0, (Tony-33)
+nsubj([Tony-33, toys-32)
+root(ROOT-0, [Tony-33)
 nn(Times-37, Cenicola-34)
 nn(Times-37, New-35)
 nn(Times-37, York-36)
-dobj((Tony-33, Times-37)
-punct((Tony-33, )-38)
+dobj([Tony-33, Times-37)
+punct([Tony-33, ]-38)
+
+[NYT34/CD ]/IN WASHINGTON/NNP --/: Nov/RB ./.
 
 (ROOT
   (FRAG
     (FRAG
-      (NP (CD (NYT34))
-      (PP (IN ))
+      (NP (CD [NYT34))
+      (PP (IN ])
         (NP (NNP WASHINGTON))))
     (: --)
     (FRAG (RB Nov))
     (. .)))
 
-root(ROOT-0, (NYT34-1)
-prep_)((NYT34-1, WASHINGTON-3)
-dep((NYT34-1, Nov-5)
+root(ROOT-0, [NYT34-1)
+prep_]([NYT34-1, WASHINGTON-3)
+dep([NYT34-1, Nov-5)
+
+15/CD ,/, 2000/CD --/: GINGRICH/NNP -PORTRAIT/NNP --/: Newt/NNP Gingrich/NNP ,/, the/DT most/RBS divisive/JJ figure/NN in/IN the/DT recent/JJ history/NN of/IN the/DT House/NNP ,/, appealed/JJ Wednesday/NN to/TO both/DT parties/NNS to/TO work/VB together/NN and/CC to/TO listen/VB to/TO the/DT fears/NNS of/IN each/DT other/JJ 's/POS political/JJ bases/NNS ./.
 
 (ROOT
   (NP
@@ -784,6 +830,8 @@ poss(bases-42, other-39)
 amod(bases-42, political-41)
 prep_of(fears-36, bases-42)
 
+Speaking/VBG at/IN the/DT unveiling/NN of/IN his/PRP$ official/JJ portrait/NN ,/, the/DT former/JJ speaker/NN warned/VBD that/DT ``otherwise/NN we/PRP will/MD sink/VB deeper/NN into/IN two/CD warring/NN camps/NNS ,/, each/DT fearing/NN and/CC loathing/VBG the/DT other/JJ .''/NN
+
 (ROOT
   (SINV
     (VP (VBG Speaking)
@@ -842,6 +890,8 @@ det(.''-31, the-29)
 amod(.''-31, other-30)
 dobj(loathing-28, .''-31)
 
+Gingrich/NNP ,/, resigned/VBD as/IN speaker/NN of/IN the/DT House/NNP after/IN the/DT Republicans/NNPS lost/VBD seats/NNS in/IN 1998/CD as/IN his/PRP$ party/NN worked/VBD to/TO impeach/VB President/NNP Clinton/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Gingrich) (, ,))
@@ -882,12 +932,14 @@ prep_in(lost-12, 1998-15)
 mark(worked-19, as-16)
 poss(party-18, his-17)
 nsubj(worked-19, party-18)
-xsubj(impeach-21, party-18)
+nsubj(impeach-21, party-18)
 advcl(lost-12, worked-19)
 aux(impeach-21, to-20)
 xcomp(worked-19, impeach-21)
 nn(Clinton-23, President-22)
 dobj(impeach-21, Clinton-23)
+
+Gingrich/NNP at/IN the/DT unveiling/NN of/IN his/PRP$ portrait/NN in/IN Statuary/NNP Hall/NNP at/IN the/DT Capitol/NN in/IN Washington/NNP ./.
 
 (ROOT
   (NP
@@ -918,15 +970,19 @@ det(Capitol-13, the-12)
 prep_at(Hall-10, Capitol-13)
 prep_in(Capitol-13, Washington-15)
 
-(ROOT
-  (NP (NNP (Justin) (NNP Lane) (NNP New) (NNP York) (NNP Times) (. ))))
+[Justin/NNP Lane/NNP New/NNP York/NNP Times/NNP ]/.
 
-nn(Times-5, (Justin-1)
+(ROOT
+  (NP (NNP [Justin) (NNP Lane) (NNP New) (NNP York) (NNP Times) (. ])))
+
+nn(Times-5, [Justin-1)
 nn(Times-5, Lane-2)
 nn(Times-5, New-3)
 nn(Times-5, York-4)
 root(ROOT-0, Times-5)
-punct(Times-5, )-6)
+punct(Times-5, ]-6)
+
+The/DT New/NNP York/NNP Times/NNP News/NNP Services/NNS
 
 (ROOT
   (NP
@@ -939,6 +995,8 @@ nn(News-5, York-3)
 nn(News-5, Times-4)
 root(ROOT-0, News-5)
 dep(News-5, Services-6)
+
+NYT-11-15-00/CD 2212EST/CD
 
 (ROOT
   (FRAG

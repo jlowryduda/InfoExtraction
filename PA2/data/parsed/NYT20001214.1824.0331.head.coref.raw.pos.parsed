@@ -1,3 +1,5 @@
+NYT20001214.1824.0331/CD NEWS/NNP STORY/NNP 2000-12-14/CD 19:04:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001214.1824.0331))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001214.1824.0331-1, STORY-3)
 num(19:04:00-5, 2000-12-14-4)
 dep(NYT20001214.1824.0331-1, 19:04:00-5)
+
+A0491/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-NBC-APPOINT-ART-NYT/NNP &LR/NNP ;/: 12-14/CD 0620/CD
 
 (ROOT
   (NP
@@ -30,10 +34,14 @@ dep(&Cx1f-2, &LR-8)
 number(0620-11, 12-14-10)
 dep(&LR-8, 0620-11)
 
+BC-NBC-APPOINT-ART-NYT/NNP
+
 (ROOT
   (NP (NNP BC-NBC-APPOINT-ART-NYT)))
 
 root(ROOT-0, BC-NBC-APPOINT-ART-NYT-1)
+
+NBC/NNP PROMOTES/NNP `TODAY/NNP '/POS EXECUTIVE/NNP PRODUCER/NNP TO/NNP ENTERTAINMENT/NNP DIVISION/NNP
 
 (ROOT
   (NP
@@ -53,9 +61,11 @@ dep(PROMOTES-2, TO-7)
 nn(DIVISION-9, ENTERTAINMENT-8)
 dep(TO-7, DIVISION-9)
 
+[ART/JJ ADV/NN :/: Photo/NNP NYT21/NNP is/VBZ being/VBG sent/VBN to/TO NYT/NNP photo/NNP clients/NNS ./.
+
 (ROOT
   (NP
-    (NP (JJ (ART) (NN ADV))
+    (NP (JJ [ART) (NN ADV))
     (: :)
     (S
       (NP (NNP Photo) (NNP NYT21))
@@ -66,7 +76,7 @@ dep(TO-7, DIVISION-9)
               (NP (NNP NYT) (NNP photo) (NNS clients)))))))
     (. .)))
 
-amod(ADV-2, (ART-1)
+amod(ADV-2, [ART-1)
 root(ROOT-0, ADV-2)
 nn(NYT21-5, Photo-4)
 nsubjpass(sent-8, NYT21-5)
@@ -76,6 +86,8 @@ dep(ADV-2, sent-8)
 nn(clients-12, NYT-10)
 nn(clients-12, photo-11)
 prep_to(sent-8, clients-12)
+
+Nonsubscribers/NNS can/MD purchase/VB one-time/JJ rights/NNS by/IN calling/VBG 888-603-1036/CD or/CC 888-346-9867/CD .]/NN &QL/NN ;/: [EDS/NNS :/: Story/NNP may/MD update/VB ]/JJ &QL/NNS ;/: &UR/NNS ;/: By/NNP BILL/NNP CARTER/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (S
@@ -91,16 +103,16 @@ prep_to(sent-8, clients-12)
                   (NP
                     (NP (CD 888-603-1036))
                     (CC or)
-                    (NP (CD 888-346-9867) (NN .)) (NN &QL)))
+                    (NP (CD 888-346-9867) (NN .]) (NN &QL)))
                   (: ;)
-                  (NP (NNS (EDS)))))))))
+                  (NP (NNS [EDS)))))))))
     (: :)
     (S
       (NP (NNP Story))
       (VP (MD may)
         (VP (VB update)
           (NP
-            (NP (JJ )) (NNS &QL))
+            (NP (JJ ]) (NNS &QL))
             (: ;)
             (NP
               (NP (NNS &UR))
@@ -127,14 +139,14 @@ dobj(purchase-3, rights-5)
 prepc_by(purchase-3, calling-7)
 dobj(calling-7, 888-603-1036-8)
 num(&QL-12, 888-346-9867-10)
-nn(&QL-12, .)-11)
+nn(&QL-12, .]-11)
 dobj(calling-7, &QL-12)
 conj_or(888-603-1036-8, &QL-12)
-dep(888-603-1036-8, (EDS-14)
+dep(888-603-1036-8, [EDS-14)
 nsubj(update-18, Story-16)
 aux(update-18, may-17)
 parataxis(purchase-3, update-18)
-amod(&QL-20, )-19)
+amod(&QL-20, ]-19)
 dobj(update-18, &QL-20)
 dep(&QL-20, &UR-22)
 prep(&UR-22, By-24)
@@ -146,6 +158,8 @@ dep(&QL-20, &QL-31)
 dep(&QL-20, &UR-33)
 dep(&QL-20, c.2000-35)
 appos(c.2000-35, N.Y-36)
+
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -163,6 +177,8 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
+
+Jeff/NNP Zucker/NNP ,/, the/DT longtime/JJ executive/NN producer/NN of/IN NBC/NNP 's/POS ``Today/NN ''/'' program/NN ,/, will/MD be/VB named/VBN Friday/NN as/IN the/DT new/JJ president/NN of/IN NBC/NNP 's/POS entertainment/NN division/NN ,/, replacing/VBG Garth/NNP Ancier/JJR ,/, NBC/NNP executives/NNS said/VBD ./.
 
 (ROOT
   (S
@@ -227,6 +243,8 @@ xcomp(replacing-29, Ancier-31)
 nn(executives-34, NBC-33)
 nsubj(said-35, executives-34)
 root(ROOT-0, said-35)
+
+The/DT move/NN will/MD have/VB a/DT ripple/JJ effect/NN on/IN two/CD NBC/NNP divisions/NNS ,/, forcing/VBG the/DT network/NN to/TO replace/VB Zucker/NN at/IN ``Today/NN ,''/, where/WRB he/PRP has/VBZ led/VBN the/DT program/NN to/TO its/PRP$ most/RBS dominant/JJ ratings/NNS position/NN in/IN decades/NNS ,/, and/CC shaking/VBG up/RP the/DT entertainment/NN division/NN ,/, where/WRB Zucker/NNP has/VBZ never/RB worked/VBN ./.
 
 (ROOT
   (S
@@ -319,6 +337,8 @@ aux(worked-48, has-46)
 neg(worked-48, never-47)
 advcl(have-4, worked-48)
 
+Zucker/NNP 's/POS enormous/JJ success/NN at/IN ``Today/NN ,''/, where/WRB he/PRP has/VBZ served/VBN as/IN executive/NN producer/NN since/IN 1994/CD ,/, has/VBZ for/IN several/JJ years/NNS set/VBD him/PRP up/RB for/IN a/DT promotion/NN at/IN the/DT network/NN ,/, and/CC he/PRP has/VBZ frequently/RB expressed/VBN his/PRP$ desire/NN to/TO move/VB on/IN from/IN ``Today/NN .''/.
+
 (ROOT
   (S
     (S
@@ -402,6 +422,8 @@ pcomp(on-41, from-42)
 pobj(from-42, ``Today-43)
 punct(set-22, .''-44)
 
+On/IN Tuesday/NNP night/NNP ,/, Zucker/NNP said/VBD that/IN after/IN covering/VBG the/DT postelection/NN news/VBZ on/IN ``Today/NN ''/'' and/CC seeing/VBG that/IN story/NN help/NN establish/JJ the/DT third/JJ hour/NN of/IN the/DT program/NN ,/, which/WDT was/VBD only/RB added/VBN in/IN October/NNP ,/, he/PRP had/VBD little/RB left/VBN to/TO accomplish/VB at/IN ``Today/NN .''/.
+
 (ROOT
   (S
     (PP (IN On)
@@ -480,7 +502,7 @@ advmod(added-32, only-31)
 rcmod(program-27, added-32)
 prep_in(added-32, October-34)
 nsubj(left-39, he-36)
-xsubj(accomplish-41, he-36)
+nsubj(accomplish-41, he-36)
 aux(left-39, had-37)
 advmod(left-39, little-38)
 ccomp(said-6, left-39)
@@ -488,6 +510,8 @@ aux(accomplish-41, to-40)
 xcomp(left-39, accomplish-41)
 prep_at(accomplish-41, ``Today-43)
 punct(said-6, .''-44)
+
+But/CC no/DT job/NN in/IN the/DT news/NN division/NN had/VBD either/RB been/VBN available/JJ or/CC of/IN interest/NN to/TO Zucker/NNP ./.
 
 (ROOT
   (S (CC But)
@@ -519,6 +543,8 @@ cc(of-13, or-12)
 dep(available-11, of-13)
 pobj(of-13, interest-14)
 prep_to(available-11, Zucker-16)
+
+The/DT move/NN to/TO NBC/NNP Entertainment/NNP serves/VBZ as/IN the/DT best/JJS way/NN for/IN NBC/NNP to/TO retain/VB an/DT executive/NN they/PRP regard/VBD as/IN one/CD of/IN the/DT best/JJS in/IN television/NN ./.
 
 (ROOT
   (S
@@ -553,7 +579,7 @@ prep_to(available-11, Zucker-16)
 
 det(move-2, The-1)
 nsubj(serves-6, move-2)
-xsubj(retain-14, move-2)
+nsubj(retain-14, move-2)
 nn(Entertainment-5, NBC-4)
 prep_to(move-2, Entertainment-5)
 root(ROOT-0, serves-6)
@@ -571,6 +597,8 @@ prep_as(regard-18, one-20)
 det(best-23, the-22)
 prep_of(one-20, best-23)
 prep_in(best-23, television-25)
+
+The/DT decision/NN abruptly/RB ends/VBZ Ancier/NNP 's/POS leadership/NN of/IN NBC/NNP Entertainment/NNP after/IN only/RB 18/CD months/NNS ./.
 
 (ROOT
   (S
@@ -601,6 +629,8 @@ quantmod(18-13, only-12)
 num(months-14, 18-13)
 prep_after(ends-4, months-14)
 
+His/PRP$ tenure/NN became/VBD extremely/RB troubled/VBD this/DT fall/NN after/IN the/DT new/JJ lineup/NN of/IN NBC/NNP series/VBZ stumbled/VBN badly/RB ./.
+
 (ROOT
   (S
     (NP (PRP$ His) (NN tenure))
@@ -622,9 +652,9 @@ prep_after(ends-4, months-14)
     (. .)))
 
 poss(tenure-2, His-1)
-nsubj(extremely-4, tenure-2)
-cop(extremely-4, became-3)
-root(ROOT-0, extremely-4)
+nsubj(became-3, tenure-2)
+root(ROOT-0, became-3)
+acomp(became-3, extremely-4)
 ccomp(extremely-4, troubled-5)
 det(fall-7, this-6)
 tmod(troubled-5, fall-7)
@@ -636,6 +666,8 @@ prep_of(lineup-11, NBC-13)
 advcl(troubled-5, series-14)
 dep(series-14, stumbled-15)
 advmod(stumbled-15, badly-16)
+
+But/CC the/DT move's/JJ timing/NN is/VBZ still/RB somewhat/RB surprising/VBG because/IN NBC/NNP had/VBD enough/JJ strength/NN among/IN its/PRP$ core/JJ group/NN of/IN hit/NN shows/NNS to/TO win/VB last/JJ month/NN 's/POS ratings/NNS sweep/IN competition/NN ./.
 
 (ROOT
   (S (CC But)
@@ -690,6 +722,8 @@ poss(ratings-26, month-24)
 dobj(win-22, ratings-26)
 prep_sweep(win-22, competition-28)
 
+In/IN addition/NN ,/, three/CD series/NNS _/IN ``The/NNP West/NNPS Wing/NNP ,''/NNP ``Law/NNP and/CC Order/NNP S.V.U/NNP .''/.
+
 (ROOT
   (FRAG
     (PP (IN In)
@@ -717,6 +751,8 @@ prep__(series-5, S.V.U-14)
 conj_and(``Law-11, S.V.U-14)
 punct(series-5, .''-15)
 
+and/CC ``Third/JJ Watch/NN ''/'' _/IN all/DT added/JJ last/JJ fall/NN ,/, Ancier/NNP 's/POS first/JJ at/IN NBC/NNP ,/, have/VBP since/IN become/VBN significant/JJ hits/NNS for/IN the/DT network/NN ./.
+
 (ROOT
   (S (CC and)
     (NP
@@ -741,9 +777,9 @@ punct(series-5, .''-15)
             (NP (DT the) (NN network))))))
     (. .)))
 
-cc(hits-21, and-1)
+cc(become-19, and-1)
 amod(Watch-3, ``Third-2)
-nsubj(hits-21, Watch-3)
+nsubj(become-19, Watch-3)
 det(fall-9, all-6)
 amod(fall-9, added-7)
 amod(fall-9, last-8)
@@ -752,13 +788,15 @@ appos(Watch-3, Ancier-11)
 possessive(Ancier-11, 's-12)
 amod(Ancier-11, first-13)
 prep_at(Ancier-11, NBC-15)
-aux(hits-21, have-17)
-advmod(hits-21, since-18)
-cop(hits-21, become-19)
+aux(become-19, have-17)
+advmod(become-19, since-18)
+root(ROOT-0, become-19)
 amod(hits-21, significant-20)
-root(ROOT-0, hits-21)
+xcomp(become-19, hits-21)
 det(network-24, the-23)
 prep_for(hits-21, network-24)
+
+But/CC Ancier/NNP 's/POS ouster/NN had/VBD been/VBN the/DT subject/NN of/IN widespread/JJ rumors/NNS in/IN Hollywood/NNP in/IN the/DT last/JJ several/JJ weeks/NNS ,/, largely/RB because/IN of/IN the/DT failure/NN of/IN this/DT fall/NN 's/POS slate/NN of/IN programs/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -813,6 +851,8 @@ det(fall-27, this-26)
 poss(slate-29, fall-27)
 prep_of(failure-24, slate-29)
 prep_of(slate-29, programs-31)
+
+NBC/NNP has/VBZ several/JJ aging/VBG hits/NNS ,/, including/VBG ``Frasier/NN ''/'' and/CC ``Friends/NNS ,''/VBP that/IN may/MD not/RB have/VB many/JJ more/RBR years/NNS on/IN the/DT network/NN ,/, and/CC NBC/NNP executives/NNS have/VBP said/VBN this/DT fall/NN that/IN it/PRP was/VBD especially/RB crucial/JJ the/DT network/NN add/IN some/DT new/JJ replacements/NNS ./.
 
 (ROOT
   (S
@@ -893,6 +933,8 @@ det(replacements-41, some-39)
 amod(replacements-41, new-40)
 prep_add(network-37, replacements-41)
 
+Only/RB one/CD NBC/NNP show/NN ,/, ``Ed/NNP ,''/NNP has/VBZ performed/VBN with/IN any/DT particular/JJ promise/NN ,/, although/IN two/CD others/NNS ,/, ``DAG/NNP '/POS and/CC ``Cursed/JJ ,''/NNS have/VBP proved/VBN at/IN least/JJS serviceable/NN in/IN time/NN periods/NNS where/WRB they/PRP are/VBP protected/VBN by/IN other/JJ NBC/NNP hits/NNS ./.
+
 (ROOT
   (S
     (ADVP (RB Only))
@@ -963,6 +1005,8 @@ amod(hits-39, other-37)
 nn(hits-39, NBC-38)
 agent(protected-35, hits-39)
 
+But/CC many/JJ other/JJ new/JJ NBC/NNP series/VBZ this/DT fall/NN collapsed/VBD quickly/RB ,/, including/VBG two/CD high-profile/JJ shows/NNS ,/, ``The/IN Michael/NNP Richards/NNPS Show/NNP ''/'' and/CC ``Titans/NNPS .''/.
+
 (ROOT
   (S (CC But)
     (NP (JJ many) (JJ other) (JJ new)
@@ -1005,6 +1049,8 @@ prep_``the(shows-15, Show-20)
 prep_including(collapsed-9, ``Titans-23)
 conj_and(shows-15, ``Titans-23)
 punct(series-6, .''-24)
+
+Ancier/NNP was/VBD especially/RB tied/VBN to/TO the/DT latter/NN ,/, having/VBG argued/JJ strenuously/RB for/IN it/PRP last/JJ spring/NN before/IN NBC/NNP selected/VBD its/PRP$ schedule/NN ./.
 
 (ROOT
   (S
@@ -1049,6 +1095,8 @@ nsubj(selected-18, NBC-17)
 advcl(having-9, selected-18)
 poss(schedule-20, its-19)
 dobj(selected-18, schedule-20)
+
+The/DT show/NN had/VBD been/VBN opposed/VBN by/IN several/JJ other/JJ senior/JJ NBC/NNP executives/NNS ,/, including/VBG the/DT network/NN president/NN ,/, Bob/NNP Wright/NNP ,/, on/IN grounds/NNS that/IN it/PRP was/VBD tasteless/JJ ./.
 
 (ROOT
   (S
@@ -1096,6 +1144,8 @@ nsubj(tasteless-26, it-24)
 cop(tasteless-26, was-25)
 dep(grounds-22, tasteless-26)
 
+Ancier/NNP had/VBD dismissed/VBN that/IN criticism/NN ./.
+
 (ROOT
   (S
     (NP (NNP Ancier))
@@ -1111,6 +1161,8 @@ aux(dismissed-3, had-2)
 root(ROOT-0, dismissed-3)
 mark(criticism-5, that-4)
 dep(dismissed-3, criticism-5)
+
+Ancier/NNP was/VBD also/RB the/DT target/NN of/IN some/DT criticism/NN from/IN Wright/NNP last/JJ year/NN after/IN CBS/NNP ,/, with/IN ``Survivor/PRP$ ,''/NN and/CC ABC/NNP ,/, with/IN ``Who/JJ Wants/NNS To/TO Be/NNP A/NNP Millionaire/NNP ,''/, turned/VBD their/PRP$ networks/NNS around/IN with/IN so-called/JJ reality/NN programs/NNS ./.
 
 (ROOT
   (S
@@ -1180,6 +1232,8 @@ amod(programs-37, so-called-35)
 nn(programs-37, reality-36)
 pobj(with-34, programs-37)
 
+Wright/NNP questioned/VBD why/JJ NBC/NNP Entertainment/NNP was/VBD the/DT only/JJ network/NN that/WDT had/VBD not/RB picked/VBN up/RP programs/NNS in/IN the/DT reality/NN genre/NN ./.
+
 (ROOT
   (S
     (NP (NNP Wright))
@@ -1221,6 +1275,8 @@ det(genre-19, the-17)
 nn(genre-19, reality-18)
 prep_in(programs-15, genre-19)
 
+Ancier/NNP had/VBD come/VBN to/TO NBC/NNP with/IN seemingly/RB ideal/JJ qualifications/NNS ./.
+
 (ROOT
   (S
     (NP (NNP Ancier))
@@ -1241,6 +1297,8 @@ prep_to(come-3, NBC-5)
 advmod(ideal-8, seemingly-7)
 amod(qualifications-9, ideal-8)
 prep_with(come-3, qualifications-9)
+
+He/PRP had/VBD previously/RB worked/VBN at/IN NBC/NNP Entertainment/NNP ,/, then/RB had/VBD run/VBP Fox/NNP 's/POS programming/VBG in/IN the/DT first/JJ days/NNS of/IN that/DT network/NN and/CC most/RBS recently/RB had/VBD managed/VBN programming/VBG at/IN the/DT WB/NNP Network/NNP ,/, helping/VBG that/IN network/NN establish/JJ itself/PRP as/IN a/DT strong/JJ competitor/NN for/IN young/JJ audiences/NNS ./.
 
 (ROOT
   (S
@@ -1323,6 +1381,8 @@ amod(competitor-41, strong-40)
 prep_as(itself-37, competitor-41)
 amod(audiences-44, young-43)
 prep_for(establish-36, audiences-44)
+
+NYT-12-14-00/CD 1904EST/CD
 
 (ROOT
   (FRAG

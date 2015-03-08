@@ -1,3 +1,5 @@
+NYT20001011.2209.0444/NNP NEWS/NNP STORY/NNP 2000-10-11/CD 22:19:00/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001011.2209.0444) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(22:19:00-5, 2000-10-11-4)
 dep(STORY-3, 22:19:00-5)
+
+A1407/CD &Cx1f/NN ;/: taf-z/NN u/IN a/DT BC-CHAPMAN-PAROLE-NYT/JJ &LR/NN ;/: 10-11/CD 0725/CD
 
 (ROOT
   (FRAG
@@ -30,10 +34,14 @@ prep_u(taf-z-4, &LR-8)
 num(0725-11, 10-11-10)
 dep(&Cx1f-2, 0725-11)
 
+BC-CHAPMAN-PAROLE-NYT/NNP
+
 (ROOT
   (NP (NNP BC-CHAPMAN-PAROLE-NYT)))
 
 root(ROOT-0, BC-CHAPMAN-PAROLE-NYT-1)
+
+LENNON'S/NNP KILLER/NNP APOLOGIZED/NNP AT/NNP PAROLE/NNP HEARING/NNP ,/, IN/NNP VAIN/NNP
 
 (ROOT
   (NP
@@ -50,6 +58,8 @@ root(ROOT-0, HEARING-6)
 nn(VAIN-9, IN-8)
 appos(HEARING-6, VAIN-9)
 
+&UR/NNS ;/: By/NNP SHAILA/NNP K/NNP ./.
+
 (ROOT
   (NP
     (NP (NNS &UR))
@@ -62,6 +72,8 @@ root(ROOT-0, &UR-1)
 prep(&UR-1, By-3)
 nn(K-5, SHAILA-4)
 dep(By-3, K-5)
+
+DEWAN/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -88,6 +100,8 @@ dep(&QL-6, &UR-8)
 dep(&QC-2, c.2000-10)
 appos(c.2000-10, N.Y-11)
 
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -104,6 +118,8 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
+
+``I/PRP do/VBP wish/JJ I/PRP was/VBD a/DT big/JJ nobody/NN again/RB ,''/VBD Mark/NNP David/NNP Chapman/NNP told/VBD the/DT New/NNP York/NNP State/NNP Parole/NNP Board/NNP at/IN a/DT closed/JJ hearing/NN at/IN the/DT Attica/NNP state/NN prison/NN on/IN Oct/NNP ./.
 
 (ROOT
   (S
@@ -163,12 +179,16 @@ nn(prison-29, state-28)
 prep_at(hearing-24, prison-29)
 prep_on(told-14, Oct-31)
 
+3/CD ./.
+
 (ROOT
   (FRAG
     (NP (CD 3))
     (. .)))
 
 root(ROOT-0, 3-1)
+
+But/CC his/PRP$ words/NNS did/VBD not/RB sway/VB the/DT board/NN ,/, which/WDT ,/, citing/VBG his/PRP$ ongoing/JJ desire/NN for/IN notoriety/NN ,/, denied/VBD Chapman/NNP 's/POS first/JJ bid/NN for/IN parole/NN since/IN he/PRP pleaded/VBD guilty/NN to/TO the/DT Dec/NNP ./.
 
 (ROOT
   (S (CC But)
@@ -230,6 +250,8 @@ dobj(pleaded-28, guilty-29)
 det(Dec-32, the-31)
 prep_to(pleaded-28, Dec-32)
 
+8/CD ,/, 1980/CD ,/, murder/NN of/IN John/NNP Lennon/NNP ./.
+
 (ROOT
   (NP
     (NP (CD 8))
@@ -247,6 +269,8 @@ amod(8-1, 1980-3)
 appos(8-1, murder-5)
 nn(Lennon-8, John-7)
 prep_of(murder-5, Lennon-8)
+
+In/IN the/DT hearing/NN ,/, a/DT transcript/NN of/IN which/WDT was/VBD released/VBN Wednesday/NN ,/, Chapman/NNP said/VBD repeatedly/RB that/IN he/PRP did/VBD not/RB have/VB the/DT right/RB to/TO ask/VB for/IN his/PRP$ release/NN ./.
 
 (ROOT
   (S
@@ -303,6 +327,8 @@ vmod(have-20, ask-24)
 poss(release-27, his-26)
 prep_for(ask-24, release-27)
 
+But/CC if/IN he/PRP were/VBD paroled/VBN ,/, he/PRP would/MD try/VB to/TO work/VB on/IN a/DT farm/NN ,/, speak/NN at/IN churches/NNS and/CC be/VB reunited/VBN with/IN his/PRP$ wife/NN ,/, who/WP flies/NNS from/IN Hawaii/NNP twice/IN a/DT year/NN to/TO visit/VB him/PRP ,/, he/PRP said/VBD ./.
+
 (ROOT
   (S (CC But)
     (SBAR (IN if)
@@ -357,7 +383,8 @@ nsubjpass(paroled-5, he-3)
 auxpass(paroled-5, were-4)
 advcl(said-38, paroled-5)
 nsubj(try-9, he-7)
-xsubj(work-11, he-7)
+nsubj(work-11, he-7)
+nsubjpass(reunited-21, he-7)
 aux(try-9, would-8)
 parataxis(paroled-5, try-9)
 aux(work-11, to-10)
@@ -382,6 +409,8 @@ xcomp(paroled-5, visit-34)
 dobj(visit-34, him-35)
 nsubj(said-38, he-37)
 root(ROOT-0, said-38)
+
+In/IN a/DT somewhat/NN rambling/VBG apology/NN to/TO Lennon/NNP 's/POS widow/NN ,/, Yoko/NNP Ono/NNP ,/, Chapman/NNP ,/, 45/CD ,/, said/VBD first/RB that/IN he/PRP could/MD not/RB imagine/VB her/PRP$ pain/NN ,/, and/CC later/RBR that/IN he/PRP had/VBD felt/VBN it/PRP for/IN the/DT first/JJ time/NN after/IN reading/VBG a/DT recent/JJ Newsweek/NNP article/NN in/IN which/WDT she/PRP said/VBD she/PRP had/VBD been/VBN shaking/VBG uncontrollably/RB the/DT night/NN of/IN her/PRP$ husband/NN 's/POS death/NN ./.
 
 (ROOT
   (S
@@ -499,6 +528,8 @@ poss(husband-58, her-57)
 poss(death-60, husband-58)
 prep_of(article-44, death-60)
 
+``I/NNP 've/MD come/VB to/TO grips/NNS with/IN the/DT fact/NN that/IN that/DT John/NNP Lennon/NNP was/VBD a/DT person/NN ,''/, he/PRP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -537,6 +568,8 @@ punct(said-18, ,''-16)
 nsubj(said-18, he-17)
 root(ROOT-0, said-18)
 
+Chapman/NNP told/VBD the/DT board/NN that/IN after/IN reading/VBG the/DT article/NN ,/, he/PRP had/VBD almost/RB skipped/VBN the/DT hearing/NN ./.
+
 (ROOT
   (S
     (NP (NNP Chapman))
@@ -571,6 +604,8 @@ ccomp(told-2, skipped-14)
 det(hearing-16, the-15)
 dobj(skipped-14, hearing-16)
 
+But/CC he/PRP said/VBD ,/, ``You/MD have/VB a/DT right/RB to/TO know/VB what/WP happened/VBN .''/.
+
 (ROOT
   (S (CC But)
     (NP (PRP he))
@@ -599,6 +634,8 @@ vmod(have-6, know-10)
 nsubj(happened-12, what-11)
 ccomp(know-10, happened-12)
 punct(said-3, .''-13)
+
+Chapman/NNP would/MD have/VB been/VBN up/RP for/IN parole/RB even/RB if/IN he/PRP had/VBD not/RB attended/VBN ,/, a/DT parole/JJ board/NN spokesman/NN said/VBD ./.
 
 (ROOT
   (S
@@ -639,6 +676,8 @@ nn(spokesman-18, board-17)
 nsubj(said-19, spokesman-18)
 root(ROOT-0, said-19)
 
+Ono/NN did/VBD not/RB attend/VB the/DT hearing/NN ,/, but/CC had/VBD submitted/VBN a/DT letter/NN asking/VBG that/WDT parole/RB be/VB denied/VBN ./.
+
 (ROOT
   (S
     (NP (NN Ono))
@@ -677,6 +716,8 @@ nsubjpass(denied-17, that-14)
 advmod(denied-17, parole-15)
 auxpass(denied-17, be-16)
 ccomp(asking-13, denied-17)
+
+Chapman/NNP ,/, who/WP has/VBZ been/VBN criticized/VBN for/IN seeming/VBG to/TO revel/VB in/IN televised/NN appearances/NNS after/IN his/PRP$ conviction/NN ,/, was/VBD consistently/RB self-deprecating/VBG throughout/IN the/DT 50-minute/JJ hearing/NN ./.
 
 (ROOT
   (S
@@ -726,6 +767,8 @@ det(hearing-24, the-22)
 amod(hearing-24, 50-minute-23)
 prep_throughout(self-deprecating-20, hearing-24)
 
+Describing/VBG an/DT outburst/JJ early/JJ in/IN his/PRP$ incarceration/NN ,/, he/PRP said/VBD :/: ``They/NNP were/VBD rough/JJ with/IN me/PRP ,/, which/WDT was/VBD fine/NN ./.
+
 (ROOT
   (S
     (S
@@ -769,6 +812,8 @@ nsubj(fine-20, me-16)
 cop(fine-20, was-19)
 rcmod(me-16, fine-20)
 
+Which/NNP is/VBZ probably/RB what/WP I/PRP needed/VBD to/TO snap/VB out/RP of/IN that/WDT .''/.
+
 (ROOT
   (S
     (NP (NNP Which))
@@ -792,8 +837,8 @@ nsubj(is-2, Which-1)
 root(ROOT-0, is-2)
 advmod(is-2, probably-3)
 dobj(needed-6, what-4)
+nsubj(snap-8, what-4)
 nsubj(needed-6, I-5)
-xsubj(snap-8, I-5)
 ccomp(is-2, needed-6)
 aux(snap-8, to-7)
 xcomp(needed-6, snap-8)
@@ -801,6 +846,8 @@ prt(snap-8, out-9)
 dep(snap-8, of-10)
 pobj(of-10, that-11)
 punct(is-2, .''-12)
+
+Asked/DT if/IN he/PRP would/MD be/VB concerned/VBN for/IN his/PRP$ safety/NN if/IN released/JJ ,/, Chapman/NNP ,/, who/WP is/VBZ being/VBG held/VBN in/IN protective/JJ custody/NN apart/NN from/IN other/JJ inmates/NNS ,/, said/VBD he/PRP believed/VBD that/IN God/NNP ``kept/VBD the/DT lions/NNS '/POS mouths/NNS shut/NN in/IN Daniel/NNP 's/POS den/JJ ,''/JJ adding/NN ,/, ``And/VBP I/PRP think/VBP he/PRP can/MD do/VB the/DT same/JJ for/IN me/PRP if/IN he/PRP so/RB chooses/NNS ,/, and/CC I/PRP would/MD leave/VB most/JJS of/IN that/DT up/RB to/TO him/PRP .''/.
 
 (ROOT
   (S
@@ -938,6 +985,8 @@ advmod(that-66, up-67)
 prep_to(up-67, him-69)
 punct(``And-45, .''-70)
 
+Chapman/NNP 's/POS pursuit/NN of/IN publicity/NN occupied/VBD much/RB of/IN the/DT discussion/NN ,/, despite/IN his/PRP$ professed/JJ wish/JJ to/TO return/VB to/TO the/DT anonymity/NN that/WDT had/VBD plagued/VBN him/PRP ,/, as/IN a/DT security/NN guard/NN in/IN Hawaii/NNP ,/, enough/JJ to/TO make/VB him/PRP commit/VB his/PRP$ notorious/JJ crime/NN ./.
+
 (ROOT
   (S
     (NP
@@ -1015,6 +1064,8 @@ poss(crime-40, his-38)
 amod(crime-40, notorious-39)
 dobj(commit-37, crime-40)
 
+When/WRB the/DT board/NN denied/VBD parole/RB in/IN a/DT written/JJ statement/NN issued/VBN shortly/RB after/IN the/DT hearing/NN ,/, it/PRP said/VBD :/: ``Your/NNP most/RBS vicious/JJ and/CC violent/JJ act/NN was/VBD apparently/RB fueled/VBN by/IN your/PRP$ need/NN to/TO be/VB acknowledged/VBN ./.
+
 (ROOT
   (S
     (SBAR
@@ -1085,6 +1136,8 @@ aux(acknowledged-33, to-31)
 auxpass(acknowledged-33, be-32)
 vmod(need-30, acknowledged-33)
 
+During/VBG your/PRP$ parole/NN hearing/NN ,/, this/DT panel/NN noted/VBD your/PRP$ continued/JJ interest/NN in/IN maintaining/VBG your/PRP$ notoriety/NN .''/.
+
 (ROOT
   (S
     (S
@@ -1114,6 +1167,8 @@ prepc_in(noted-8, maintaining-13)
 poss(notoriety-15, your-14)
 dobj(maintaining-13, notoriety-15)
 punct(noted-8, .''-16)
+
+Asked/IN what/WP he/PRP had/VBD done/VBN to/TO attract/VB attention/NN since/IN he/PRP was/VBD incarcerated/VBN ,/, Chapman/NNP recalled/VBD a/DT 1987/CD interview/NN with/IN People/NNP magazine/NN ,/, for/IN which/WDT he/PRP received/VBD $5,000/CD ,/, according/VBG to/TO news/DT reports/NNS at/IN the/DT time/NN ./.
 
 (ROOT
   (S
@@ -1159,8 +1214,8 @@ punct(noted-8, .''-16)
 
 dep(recalled-15, Asked-1)
 dobj(done-5, what-2)
+nsubj(attract-7, what-2)
 nsubj(done-5, he-3)
-xsubj(attract-7, he-3)
 aux(done-5, had-4)
 pcomp(Asked-1, done-5)
 aux(attract-7, to-6)
@@ -1186,6 +1241,8 @@ det(reports-32, news-31)
 pobj(received-26, reports-32)
 det(time-35, the-34)
 prep_at(reports-32, time-35)
+
+He/PRP also/RB recalled/VBD interviews/JJ with/IN Barbara/NNP Walters/NNPS and/CC Larry/NNP King/NNP when/WRB a/DT book/NN about/IN him/PRP was/VBD published/VBN in/IN 1992/CD ./.
 
 (ROOT
   (S
@@ -1228,6 +1285,8 @@ auxpass(published-17, was-16)
 advcl(recalled-3, published-17)
 prep_in(published-17, 1992-19)
 
+``Other/RB than/IN that/DT ,''/NNP he/PRP said/VBD ,/, ``I/NNP 've/NNP consistently/RB ,/, especially/RB the/DT last/JJ 10/CD years/NNS ,/, denied/VBD any/DT press/NN requests/NNS .''/.
+
 (ROOT
   (S
     (S
@@ -1266,6 +1325,8 @@ det(requests-21, any-19)
 nn(requests-21, press-20)
 dobj(denied-18, requests-21)
 punct(denied-18, .''-22)
+
+But/CC when/WRB prompted/JJ ,/, Chapman/NNP did/VBD acknowledge/RB a/DT three-hour/JJ interview/NN in/IN July/NNP with/IN Jack/NNP Jones/NNP ,/, a/DT Rochester/NNP journalist/NN who/WP wrote/VBD the/DT 1992/CD book/NN ``Let/VBN Me/NNP Take/NNP You/PRP Down/NN :/: Inside/NNP the/DT Mind/NN of/IN Mark/NNP David/NNP Chapman/NNP ,/, the/DT Man/NNP Who/NNP Killed/NNP John/NNP Lennon/NNP ''/'' [Villard/NNP Books/NNP ]./.
 
 (ROOT
   (S (CC But)
@@ -1307,8 +1368,8 @@ punct(denied-18, .''-22)
             (NP
               (NP (NNP Mark) (NNP David) (NNP Chapman))
               (, ,)
-              (NP (DT the) (NNP Man) (NNP Who) (NNP Killed) (NNP John) (NNP Lennon) ('' '') (NNP (Villard) (NNP Books)))))))
-    (. ).)))
+              (NP (DT the) (NNP Man) (NNP Who) (NNP Killed) (NNP John) (NNP Lennon) ('' '') (NNP [Villard) (NNP Books)))))))
+    (. ].)))
 
 cc(did-6, But-1)
 advmod(prompted-3, when-2)
@@ -1347,9 +1408,11 @@ nn(Books-47, Who-41)
 nn(Books-47, Killed-42)
 nn(Books-47, John-43)
 nn(Books-47, Lennon-44)
-nn(Books-47, (Villard-46)
+nn(Books-47, [Villard-46)
 appos(Chapman-37, Books-47)
-punct(did-6, ).-48)
+punct(did-6, ].-48)
+
+Jones/NNP ,/, reached/VBN by/IN telephone/NN Wednesday/NNP ,/, said/VBD that/IN in/IN the/DT July/NNP interview/NN ,/, Chapman/NNP had/VBD told/VBD him/PRP for/IN the/DT first/JJ time/NN that/IN he/PRP wanted/VBD to/TO be/VB released/VBN from/IN prison/NN ./.
 
 (ROOT
   (S
@@ -1403,12 +1466,14 @@ amod(time-22, first-21)
 prep_for(told-17, time-22)
 mark(wanted-25, that-23)
 nsubj(wanted-25, he-24)
-xsubj(released-28, he-24)
+nsubjpass(released-28, he-24)
 ccomp(told-17, wanted-25)
 aux(released-28, to-26)
 auxpass(released-28, be-27)
 xcomp(wanted-25, released-28)
 prep_from(released-28, prison-30)
+
+But/CC after/IN the/DT hearing/NN last/JJ week/NN ,/, ``he/NN was/VBD relieved/VBN that/IN they/PRP made/VBD the/DT decision/NN that/IN they/PRP made/VBD ,''/PRP said/VBD Jones/NNP ,/, who/WP spoke/VBP to/TO him/PRP then/RB ./.
 
 (ROOT
   (S (CC But)
@@ -1469,6 +1534,8 @@ rcmod(Jones-21, spoke-24)
 prep_to(spoke-24, him-26)
 advmod(spoke-24, then-27)
 
+The/DT interview/NN was/VBD conducted/VBN for/IN the/DT book/NN 's/POS newly/NN published/VBD second/JJ edition/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NN interview))
@@ -1494,6 +1561,8 @@ nsubj(published-10, newly-9)
 advcl(conducted-4, published-10)
 amod(edition-12, second-11)
 dobj(published-10, edition-12)
+
+Chapman/NNP said/VBD that/IN after/IN getting/VBG permission/NN from/IN God/NNP ,/, he/PRP had/VBD allowed/VBN parts/NNS of/IN it/PRP to/TO be/VB released/VBN to/TO Court/NNP TV/NNP ./.
 
 (ROOT
   (S
@@ -1530,16 +1599,18 @@ prepc_after(allowed-12, getting-5)
 dobj(getting-5, permission-6)
 prep_from(getting-5, God-8)
 nsubj(allowed-12, he-10)
-xsubj(released-18, he-10)
 aux(allowed-12, had-11)
 ccomp(said-2, allowed-12)
 dobj(allowed-12, parts-13)
+nsubjpass(released-18, parts-13)
 prep_of(parts-13, it-15)
 aux(released-18, to-16)
 auxpass(released-18, be-17)
 xcomp(allowed-12, released-18)
 nn(TV-21, Court-20)
 prep_to(released-18, TV-21)
+
+In/IN the/DT interview/NN ,/, parts/NNS of/IN which/WDT were/VBD also/RB published/VBN in/IN The/DT Daily/NNP Express/NNP of/IN London/NNP ,/, Chapman/NNP made/VBD the/DT widely/JJ publicized/JJ remark/NN that/IN Lennon/NNP was/VBD a/DT liberal/JJ and/CC would/MD have/VB wanted/VBD him/PRP to/TO be/VB released/VBN ./.
 
 (ROOT
   (S
@@ -1611,10 +1682,13 @@ aux(wanted-32, would-30)
 aux(wanted-32, have-31)
 ccomp(made-19, wanted-32)
 conj_and(liberal-28, wanted-32)
+dobj(wanted-32, him-33)
 nsubjpass(released-36, him-33)
 aux(released-36, to-34)
 auxpass(released-36, be-35)
 xcomp(wanted-32, released-36)
+
+But/CC at/IN the/DT hearing/NN ,/, the/DT inmate/NN complained/VBD that/IN the/DT comment/NN had/VBD been/VBN wrongly/RB portrayed/VBN ,/, and/CC that/IN he/PRP had/VBD not/RB meant/VB it/PRP as/IN an/DT argument/NN in/IN favor/NN of/IN his/PRP$ parole/NN ./.
 
 (ROOT
   (S (CC But)
@@ -1676,6 +1750,8 @@ prep_in(argument-26, favor-28)
 poss(parole-31, his-30)
 prep_of(favor-28, parole-31)
 
+``He/NNP asked/VBD me/PRP ,/, what/WP did/VBD I/PRP think/VB John/NNP Lennon/NNP would/MD do/VB ,''/RB Chapman/NNP said/VBD ./.
+
 (ROOT
   (S
     (NP (NNP ``He))
@@ -1716,6 +1792,8 @@ advmod(said-15, ,''-13)
 nsubj(said-15, Chapman-14)
 ccomp(do-12, said-15)
 
+``And/IN I/PRP thought/VBD about/IN it/PRP for/IN a/DT minute/NN ,/, and/CC I/PRP answered/VBD honestly/RB .''/.
+
 (ROOT
   (S
     (S
@@ -1743,6 +1821,8 @@ nsubj(answered-12, I-11)
 conj_and(thought-3, answered-12)
 advmod(answered-12, honestly-13)
 punct(thought-3, .''-14)
+
+NYT-10-11-00/CD 2219EDT/CD
 
 (ROOT
   (FRAG

@@ -1,3 +1,5 @@
+NYT20001201.2100.0325/CD NEWS/NNP STORY/NNP 2000-12-01/CD 21:00:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001201.2100.0325))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001201.2100.0325-1, STORY-3)
 num(21:00:00-5, 2000-12-01-4)
 dep(NYT20001201.2100.0325-1, 21:00:00-5)
+
+A7331/CD &Cx1f/NN ;/: tta-z/JJ u/NN p/IN BC-ELN-FLORIDA-CONTEST-N/NNP 12-01/CD 0564/CD
 
 (ROOT
   (NP
@@ -29,10 +33,14 @@ prep_p(u-5, BC-ELN-FLORIDA-CONTEST-N-7)
 num(BC-ELN-FLORIDA-CONTEST-N-7, 12-01-8)
 dep(u-5, 0564-9)
 
+BC-ELN-FLORIDA-CONTEST-NYT/NNP
+
 (ROOT
   (NP (NNP BC-ELN-FLORIDA-CONTEST-NYT)))
 
 root(ROOT-0, BC-ELN-FLORIDA-CONTEST-NYT-1)
+
+FLORIDA/NNP JUSTICES/NNP HAND/NNP GORE/NNP TWO/NNP SETBACKS/.
 
 (ROOT
   (NP (NNP FLORIDA) (NNP JUSTICES) (NNP HAND) (NNP GORE) (NNP TWO) (. SETBACKS)))
@@ -44,9 +52,11 @@ nn(TWO-5, GORE-4)
 root(ROOT-0, TWO-5)
 punct(TWO-5, SETBACKS-6)
 
+[Eds/NNS :/: 2nd/CD take/VB will/MD move/VB by/IN 9:15/CD p.m/NN ./.
+
 (ROOT
   (NP
-    (NP (NNS (Eds))
+    (NP (NNS [Eds))
     (: :)
     (S
       (NP (CD 2nd))
@@ -59,17 +69,19 @@ punct(TWO-5, SETBACKS-6)
                   (NP (CD 9:15) (NN p.m)))))))))
     (. .)))
 
-root(ROOT-0, (Eds-1)
+root(ROOT-0, [Eds-1)
 nsubj(take-4, 2nd-3)
-dep((Eds-1, take-4)
+dep([Eds-1, take-4)
 aux(move-6, will-5)
 ccomp(take-4, move-6)
 num(p.m-9, 9:15-8)
 prep_by(move-6, p.m-9)
 
+ET/NNP .]/NNP &QL/NNP ;/: &UR/NNS ;/: By/NNP DAVID/NNP FIRESTONE/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
 (ROOT
   (NP
-    (NP (NNP ET) (NNP .)) (NNP &QL))
+    (NP (NNP ET) (NNP .]) (NNP &QL))
     (: ;)
     (NP
       (NP (NNS &UR))
@@ -91,7 +103,7 @@ prep_by(move-6, p.m-9)
     (. .)))
 
 nn(&QL-3, ET-1)
-nn(&QL-3, .)-2)
+nn(&QL-3, .]-2)
 root(ROOT-0, &QL-3)
 dep(&QL-3, &UR-5)
 prep(&UR-5, By-7)
@@ -103,6 +115,8 @@ dep(&LR-12, &QL-14)
 dep(&QL-3, &UR-16)
 dep(&UR-16, c.2000-18)
 appos(c.2000-18, N.Y-19)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/:
 
 (ROOT
   (NP
@@ -117,6 +131,8 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 
+TALLAHASSEE/NNP ,/, Fla/NNP ./.
+
 (ROOT
   (NP
     (NP (NNP TALLAHASSEE))
@@ -126,6 +142,8 @@ dep(&QC-4, &LR-6)
 
 root(ROOT-0, TALLAHASSEE-1)
 appos(TALLAHASSEE-1, Fla-3)
+
+_/`` The/DT Florida/NNP Supreme/NNP Court/NNP rejected/VBD an/DT appeal/NN Friday/NN by/IN Vice/NNP President/NNP Al/NNP Gore/NNP that/IN it/PRP begin/VBP the/DT immediate/JJ manual/JJ recount/NN of/IN 14,000/CD disputed/VBD ballots/NNS from/IN South/NNP Florida/NNP ,/, forcing/VBG Gore/NNP 's/POS contest/JJS of/IN the/DT presidential/JJ election/NN into/IN a/DT lower-court/JJ trial/NN that/IN begins/VBZ Saturday/NNP morning/NN ./.
 
 (ROOT
   (S
@@ -211,6 +229,8 @@ dobj(begins-43, Saturday-44)
 tmod(begins-43, Saturday-44)
 tmod(begins-43, morning-45)
 
+An/DT hour/NN later/RB ,/, the/DT state/NN 's/POS highest/JJS court/NN dealt/NN another/DT blow/NN to/TO supporters/NNS of/IN Gore/NNP in/IN Palm/NNP Beach/NNP County/NNP ,/, refusing/VBG to/TO order/NN a/DT new/JJ election/NN that/IN many/JJ voters/NNS said/VBD was/VBD necessary/JJ because/IN of/IN the/DT confusing/VBG nature/NN of/IN the/DT ``butterfly/NN ''/'' ballot/NN ./.
+
 (ROOT
   (S
     (ADVP
@@ -286,6 +306,8 @@ det(ballot-43, the-40)
 nn(ballot-43, ``butterfly-41)
 prep_of(nature-38, ballot-43)
 
+The/DT day/NN in/IN Tallahassee/NNP was/VBD not/RB a/DT complete/JJ loss/NN for/IN the/DT vice/NN president/NN 's/POS camp/NN ,/, however/RB ./.
+
 (ROOT
   (S
     (NP
@@ -316,6 +338,8 @@ nn(president-13, vice-12)
 poss(camp-15, president-13)
 prep_for(loss-9, camp-15)
 advmod(loss-9, however-17)
+
+Judge/NNP N./NNP Sanders/NNPS Sauls/NNP of/IN Leon/NNP County/NNP Circuit/NNP Court/NNP ,/, who/WP is/VBZ presiding/VBG over/IN the/DT contest/JJS lawsuit/NN ,/, announced/VBD what/WP could/MD be/VB a/DT relatively/RB brisk/JJ pace/NN for/IN Saturday/NNP 's/POS trial/NN ,/, expressing/VBG the/DT hope/NN that/IN it/PRP could/MD be/VB concluded/VBN in/IN one/CD marathon/NN 12-hour/JJ session/NN ./.
 
 (ROOT
   (S
@@ -399,6 +423,8 @@ prep_in(concluded-39, marathon-42)
 amod(session-44, 12-hour-43)
 dobj(concluded-39, session-44)
 
+If/IN the/DT judge/NN should/MD agree/VB on/IN Saturday/NN to/TO Gore/NNP 's/POS demand/NN that/IN the/DT ballots/NNS be/VB counted/VBN ,/, the/DT Democratic/JJ team/NN would/MD not/RB be/VB much/JJ further/JJ behind/IN schedule/NN than/IN if/IN the/DT Supreme/NNP Court/NNP had/VBD agreed/VBN to/TO the/DT appeal/NN ./.
+
 (ROOT
   (S
     (SBAR (IN If)
@@ -466,6 +492,8 @@ advcl(further-25, agreed-34)
 det(appeal-37, the-36)
 prep_to(agreed-34, appeal-37)
 
+Lawyers/NNS for/IN Gov/NNP ./.
+
 (ROOT
   (NP
     (NP (NNS Lawyers))
@@ -475,6 +503,8 @@ prep_to(agreed-34, appeal-37)
 
 root(ROOT-0, Lawyers-1)
 prep_for(Lawyers-1, Gov-3)
+
+George/NNP W./NNP Bush/NNP have/VBP vowed/VBN to/TO use/VB every/NN argument/NN at/IN their/PRP$ disposal/NN to/TO make/VB certain/JJ that/IN no/DT ballots/NNS are/VBP counted/VBN ,/, and/CC that/IN the/DT contest/JJS lawsuit/NN is/VBZ dismissed/VBN ./.
 
 (ROOT
   (S
@@ -509,7 +539,7 @@ prep_for(Lawyers-1, Gov-3)
 nn(Bush-3, George-1)
 nn(Bush-3, W.-2)
 nsubj(vowed-5, Bush-3)
-xsubj(use-7, Bush-3)
+nsubj(use-7, Bush-3)
 aux(vowed-5, have-4)
 root(ROOT-0, vowed-5)
 aux(use-7, to-6)
@@ -533,6 +563,8 @@ nsubjpass(dismissed-28, lawsuit-26)
 auxpass(dismissed-28, is-27)
 ccomp(make-14, dismissed-28)
 conj_and(counted-20, dismissed-28)
+
+But/CC they/PRP backed/JJ away/JJ Friday/NN from/IN some/DT earlier/RB plans/NNS that/WDT could/MD have/VB delayed/VBN the/DT trial/NN ,/, including/VBG a/DT demand/NN that/IN three/CD Florida/NNP counties/NNS send/VBP 1.17/CD million/CD ballots/NNS to/TO Tallahassee/NNP ,/, in/IN addition/NN to/TO the/DT 1.16/CD million/CD ballots/NNS from/IN Palm/NNP Beach/NNP and/CC Miami-Dade/NNP counties/NNS that/WDT finished/VBD arriving/VBG here/RB Friday/NNP ./.
 
 (ROOT
   (X (CC But)
@@ -625,6 +657,8 @@ xcomp(finished-45, arriving-46)
 advmod(arriving-46, here-47)
 tmod(arriving-46, Friday-48)
 
+Instead/RB ,/, the/DT Bush/NNP lawyers/NNS agreed/VBD to/TO the/DT proposal/NN by/IN Sauls/NNP that/IN the/DT ballots/NNS in/IN Volusia/NNP ,/, Broward/NNP and/CC Pinellas/NNP counties/NNS simply/RB be/VB impounded/VBN as/IN possible/JJ evidence/NN where/WRB they/PRP are/VBP ,/, and/CC not/RB be/VB transported/VBN ./.
+
 (ROOT
   (S
     (ADVP (RB Instead))
@@ -691,6 +725,8 @@ auxpass(transported-35, be-34)
 ccomp(agreed-6, transported-35)
 conj_and(impounded-24, transported-35)
 
+Bush/NNP 's/POS lawyers/NNS also/RB said/VBD they/PRP would/MD not/RB insist/VB that/IN the/DT opening/NN of/IN the/DT trial/NN deal/NN with/IN a/DT series/NNS of/IN new/JJ issues/NNS they/PRP raised/VBD in/IN a/DT brief/NN on/IN Thursday/NN night/NN ./.
+
 (ROOT
   (S
     (NP
@@ -750,6 +786,8 @@ det(brief-27, a-26)
 prep_in(raised-24, brief-27)
 prep_on(brief-27, Thursday-29)
 tmod(raised-24, night-30)
+
+Those/JJ issues/NNS include/VBP whether/IN Gore/NNP is/VBZ really/RB a/DT candidate/NN entitled/VBN to/TO bring/VB a/DT contest/JJS lawsuit/NN _/IN technically/RB ,/, only/RB the/DT electors/NNS for/IN a/DT candidate/NN are/VBP on/IN a/DT presidential/JJ ballot/NN _/, and/CC whether/IN any/DT presidential/JJ election/NN can/MD truly/RB be/VB contested/VBN under/IN Florida/NNP law/NN ./.
 
 (ROOT
   (S
@@ -833,6 +871,8 @@ conj_and(candidate-9, contested-39)
 nn(law-42, Florida-41)
 prep_under(contested-39, law-42)
 
+The/DT Bush/NNP team/NN also/RB agreed/VBD to/TO call/VB no/DT more/JJR than/IN 20/CD witnesses/NNS at/IN the/DT trial/NN ,/, not/RB the/DT 93/CD named/VBN in/IN a/DT witness/NN list/NN submitted/VBD Thursday/JJ night/NN ./.
+
 (ROOT
   (S
     (S
@@ -861,7 +901,7 @@ prep_under(contested-39, law-42)
 det(team-3, The-1)
 nn(team-3, Bush-2)
 nsubj(agreed-5, team-3)
-xsubj(call-7, team-3)
+nsubj(call-7, team-3)
 advmod(agreed-5, also-4)
 root(ROOT-0, agreed-5)
 aux(call-7, to-6)
@@ -884,6 +924,8 @@ parataxis(agreed-5, submitted-25)
 amod(night-27, Thursday-26)
 tmod(submitted-25, night-27)
 
+Gore/NNP 's/POS lawyers/NNS plan/NN to/TO call/VB two/CD witnesses/NNS ./.
+
 (ROOT
   (NP
     (NP
@@ -903,6 +945,8 @@ aux(call-6, to-5)
 vmod(plan-4, call-6)
 num(witnesses-8, two-7)
 dobj(call-6, witnesses-8)
+
+The/DT willingness/NN of/IN the/DT Bush/NNP team/NN to/TO pare/VB down/RP its/PRP$ demands/NNS may/MD have/VB come/VBN from/IN the/DT realization/NN that/IN Sauls/NNP was/VBD not/RB going/VBG to/TO allow/VB any/DT obvious/JJ delay/NN tactics/NNS in/IN the/DT trial/NN ./.
 
 (ROOT
   (S
@@ -950,7 +994,7 @@ det(realization-17, the-16)
 prep_from(come-14, realization-17)
 mark(going-22, that-18)
 nsubj(going-22, Sauls-19)
-xsubj(allow-24, Sauls-19)
+nsubj(allow-24, Sauls-19)
 aux(going-22, was-20)
 neg(going-22, not-21)
 ccomp(come-14, going-22)
@@ -962,6 +1006,8 @@ nn(tactics-28, delay-27)
 dobj(allow-24, tactics-28)
 det(trial-31, the-30)
 prep_in(allow-24, trial-31)
+
+The/DT judge/NN said/VBD he/PRP understood/VBD why/JJ Gore/NNP needed/VBD to/TO accelerate/VB the/DT process/NN ;/: if/IN the/DT trial/NN ,/, the/DT vote-counting/NN and/CC any/DT subsequent/JJ appeals/NNS extend/VB beyond/JJ Dec/NNP ./.
 
 (ROOT
   (S
@@ -999,7 +1045,7 @@ nsubj(understood-5, he-4)
 ccomp(said-3, understood-5)
 amod(Gore-7, why-6)
 nsubj(needed-8, Gore-7)
-xsubj(accelerate-10, Gore-7)
+nsubj(accelerate-10, Gore-7)
 ccomp(understood-5, needed-8)
 aux(accelerate-10, to-9)
 xcomp(needed-8, accelerate-10)
@@ -1018,6 +1064,8 @@ nsubj(extend-24, appeals-23)
 parataxis(accelerate-10, extend-24)
 amod(Dec-26, beyond-25)
 dobj(extend-24, Dec-26)
+
+12/CD ,/, the/DT Florida/NNP Legislature/NNP will/MD send/VB Bush/NNP 's/POS electors/NNS to/TO the/DT Electoral/NNP College/NNP and/CC the/DT contest/JJS lawsuit/NN will/MD likely/RB become/VB moot/NN ./.
 
 (ROOT
   (S
@@ -1055,11 +1103,13 @@ nn(College-14, Electoral-13)
 prep_to(send-7, College-14)
 det(lawsuit-18, the-16)
 amod(lawsuit-18, contest-17)
-nsubj(moot-22, lawsuit-18)
-aux(moot-22, will-19)
-advmod(moot-22, likely-20)
-cop(moot-22, become-21)
-conj_and(send-7, moot-22)
+nsubj(become-21, lawsuit-18)
+aux(become-21, will-19)
+advmod(become-21, likely-20)
+conj_and(send-7, become-21)
+xcomp(become-21, moot-22)
+
+At/IN a/DT preliminary/JJ hearing/NN Friday/NN afternoon/NN ,/, Sauls/NNP made/VBD it/PRP clear/JJ he/PRP would/MD take/VB a/DT no-nonsense/JJ approach/NN to/TO the/DT trial/NN ./.
 
 (ROOT
   (S
@@ -1099,6 +1149,8 @@ amod(approach-17, no-nonsense-16)
 dobj(take-14, approach-17)
 det(trial-20, the-19)
 prep_to(take-14, trial-20)
+
+Lawyers/NNS for/IN the/DT various/JJ parties/NNS to/TO the/DT suit/NN would/MD not/RB be/VB allowed/VBN to/TO repeat/VB arguments/NNS already/RB made/VBD ,/, he/PRP said/VBD ,/, an/DT important/NN consideration/NN because/IN there/RB are/VBP multiple/JJ defendants/NNS in/IN the/DT suit/NN :/: Bush/NNP ;/: Katherine/NNP Harris/NNP ,/, the/DT Florida/NNP secretary/NN of/IN state/NN ;/: and/CC the/DT election/NN boards/NNS of/IN three/CD counties/NNS ./.
 
 (ROOT
   (S
@@ -1156,7 +1208,7 @@ prep_to(take-14, trial-20)
     (. .)))
 
 nsubjpass(allowed-12, Lawyers-1)
-xsubj(repeat-14, Lawyers-1)
+nsubj(repeat-14, Lawyers-1)
 det(parties-5, the-3)
 amod(parties-5, various-4)
 prep_for(Lawyers-1, parties-5)
@@ -1199,11 +1251,15 @@ conj_and(defendants-29, boards-48)
 num(counties-51, three-50)
 prep_of(boards-48, counties-51)
 
-(ROOT
-  (NP (NNP (MORE) (. ))))
+[MORE/NNP ]/.
 
-root(ROOT-0, (MORE-1)
-punct((MORE-1, )-2)
+(ROOT
+  (NP (NNP [MORE) (. ])))
+
+root(ROOT-0, [MORE-1)
+punct([MORE-1, ]-2)
+
+NYT-12-01-00/CD 2100EST/CD
 
 (ROOT
   (FRAG

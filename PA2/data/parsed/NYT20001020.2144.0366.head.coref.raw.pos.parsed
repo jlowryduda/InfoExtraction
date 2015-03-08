@@ -1,3 +1,5 @@
+NYT20001020.2144.0366/NNP NEWS/NNP STORY/NNP 2000-10-20/CD 22:01:10/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001020.2144.0366) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(22:01:10-5, 2000-10-20-4)
 dep(STORY-3, 22:01:10-5)
+
+A1481/CD &Cx1f/NN ;/: taf-z/JJ s/NN f/IN BC-CITIGROUP-ART-$ADV22-/JJ 10-20/CD 0353/CD
 
 (ROOT
   (NP
@@ -26,6 +30,8 @@ amod(0353-9, BC-CITIGROUP-ART-$ADV22--7)
 num(0353-9, 10-20-8)
 prep_f(s-5, 0353-9)
 
+BC-CITIGROUP-ART-$ADV22-3RD/JJ TAKE-NYT/JJ UNDATED/NN :/: he/PRP added/VBD ./.
+
 (ROOT
   (FRAG
     (NP (JJ BC-CITIGROUP-ART-$ADV22-3RD) (JJ TAKE-NYT) (NN UNDATED))
@@ -40,6 +46,8 @@ amod(UNDATED-3, TAKE-NYT-2)
 root(ROOT-0, UNDATED-3)
 nsubj(added-6, he-5)
 dep(UNDATED-3, added-6)
+
+&LR/NNS ;/: &HT/NNP ;/: As/IN with/IN credit/NN insurance/NN ,/, internal/JJ documents/NNS from/IN Associates/NNS suggest/JJS that/IN employees/NNS have/VBP been/VBN pressured/JJ to/TO encourage/VB homeowners/NNS and/CC other/JJ borrowers/NNS to/TO refinance/VB loans/NNS ;/: the/DT emphasis/NN was/VBD usually/RB on/IN how/WRB this/DT would/MD benefit/VB the/DT company/NN ,/, not/RB on/IN how/WRB it/PRP might/MD help/VB the/DT customer/NN ./.
 
 (ROOT
   (FRAG
@@ -112,14 +120,16 @@ prep_from(documents-11, Associates-13)
 amod(Associates-13, suggest-14)
 mark(been-18, that-15)
 nsubj(been-18, employees-16)
-xsubj(encourage-21, employees-16)
+nsubj(encourage-21, employees-16)
 aux(been-18, have-17)
 ccomp(suggest-14, been-18)
 dep(been-18, pressured-19)
 aux(encourage-21, to-20)
 xcomp(been-18, encourage-21)
+dobj(encourage-21, homeowners-22)
 nsubj(refinance-27, homeowners-22)
 amod(borrowers-25, other-24)
+dobj(encourage-21, borrowers-25)
 conj_and(homeowners-22, borrowers-25)
 nsubj(refinance-27, borrowers-25)
 aux(refinance-27, to-26)
@@ -142,6 +152,8 @@ aux(help-47, might-46)
 prepc_on(was-32, help-47)
 det(customer-49, the-48)
 dobj(help-47, customer-49)
+
+In/IN the/DT ``Roadmap/NN ''/'' memo/NN ,/, for/IN example/NN ,/, a/DT chart/NN showed/VBD how/WRB the/DT profitability/NN of/IN a/DT consumer/NN loan/NN decreases/NNS as/IN it/PRP ages/VBZ ./.
 
 (ROOT
   (S
@@ -183,6 +195,8 @@ prep_of(profitability-15, decreases-20)
 prep_as(decreases-20, it-22)
 ccomp(showed-12, ages-23)
 
+``You/PRP can/MD see/VB how/WRB the/DT earnings/NNS decline/NN over/IN time/NN ,''/, the/DT memo/NN said/VBD ./.
+
 (ROOT
   (S
     (NP (PRP ``You))
@@ -213,6 +227,8 @@ punct(memo-12, ,''-10)
 det(memo-12, the-11)
 prep(time-9, memo-12)
 ccomp(see-3, said-13)
+
+``Your/PRP$ controller/NN can/MD provide/VB lists/NNS to/TO you/PRP of/IN aged/JJ personal/JJ loans/NNS to/TO target/VB for/IN renewal/NN .''/.
 
 (ROOT
   (S
@@ -245,6 +261,8 @@ aux(target-13, to-12)
 vmod(provide-4, target-13)
 prep_for(target-13, renewal-15)
 punct(provide-4, .''-16)
+
+Another/NNP memo/NN ,/, sent/VBN in/IN 1991/CD to/TO ``all/VB branch/NN managers/NNS ,''/VBP concerned/VBN Associates/NNPS '/POS practice/NN of/IN acquiring/VBG consumer/NN loans/NNS made/VBN by/IN other/JJ lenders/NNS or/CC retailers/NNS ./.
 
 (ROOT
   (S
@@ -297,6 +315,8 @@ agent(made-20, lenders-23)
 agent(made-20, retailers-25)
 conj_or(lenders-23, retailers-25)
 
+``The/IN principal/JJ reason/NN we/PRP purchase/VB an/DT acquisition/NN is/VBZ to/TO convert/VB it/PRP to/TO a/DT more/JJR profitable/JJ loan/NN ,''/IN the/DT memo/NN stated/VBN ./.
+
 (ROOT
   (S
     (SBAR
@@ -339,6 +359,8 @@ det(memo-19, the-18)
 prep_,''(convert-10, memo-19)
 vmod(memo-19, stated-20)
 
+``If/PRP we/PRP cannot/VBP convert/JJ acquisitions/NNS ,/, we/PRP cannot/VBP continue/VBP to/TO purchase/VB them/PRP .''/.
+
 (ROOT
   (S
     (NP
@@ -372,6 +394,8 @@ aux(purchase-11, to-10)
 xcomp(continue-9, purchase-11)
 dobj(purchase-11, them-12)
 punct(cannot-8, .''-13)
+
+The/DT memo/NN then/RB stipulated/VBD that/IN employees/NNS who/WP renewed/VBD such/JJ loans/NNS ,/, if/IN secured/VBN by/IN real/JJ estate/NN ,/, would/MD receive/VB a/DT $100/JJ bonus/NN for/IN each/DT loan/NN ./.
 
 (ROOT
   (S
@@ -423,6 +447,8 @@ amod(bonus-22, $100-21)
 dobj(receive-19, bonus-22)
 det(loan-25, each-24)
 prep_for(bonus-22, loan-25)
+
+Last/JJ month/NN ,/, in/IN an/DT investor/NN conference/NN call/NN ,/, Keith/NNP W./NNP Hughes/NNP ,/, the/DT chief/JJ executive/NN of/IN Associates/NNS ,/, who/WP will/MD join/VB Citigroup/NNP as/IN a/DT vice/NN chairman/NN after/IN the/DT merger/NN ,/, cited/VBD the/DT strong/JJ cultural/JJ similarities/NNS between/IN the/DT companies/NNS ./.
 
 (ROOT
   (S
@@ -488,6 +514,8 @@ amod(similarities-36, cultural-35)
 dobj(cited-32, similarities-36)
 det(companies-39, the-38)
 prep_between(similarities-36, companies-39)
+
+But/CC in/IN an/DT interview/NN last/JJ week/NN ,/, Marge/NNP Magner/NNP ,/, a/DT Citigroup/NNP executive/NN who/WP previously/RB oversaw/JJ Citigroup/NNP 's/POS consumer/NN finance/NN business/NN ,/, stressed/VBD what/WP she/PRP said/VBD were/VBD big/JJ differences/NNS ,/, particularly/RB in/IN how/WRB the/DT sales/NNS staff/NN is/VBZ paid/VBN ./.
 
 (ROOT
   (S (CC But)
@@ -561,6 +589,8 @@ nsubjpass(paid-38, staff-36)
 auxpass(paid-38, is-37)
 prepc_in(differences-29, paid-38)
 
+Associates/NNPS bases/NNS pay/VBP on/IN the/DT volume/NN of/IN loans/NNS that/IN employees/NNS generate/JJ ,/, a/DT ``count/NN your/PRP$ transactions/NNS ''/'' approach/NN ,/, Magner/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -601,6 +631,8 @@ nn(approach-18, transactions-16)
 parataxis(pay-3, approach-18)
 nsubj(said-21, Magner-20)
 parataxis(pay-3, said-21)
+
+At/IN Citifinancial/NNP ,/, she/PRP said/VBD ,/, ``we/DT deal/NN with/IN the/DT business/NN as/IN a/DT whole/NN ,/, the/DT whole/JJ branch/NN and/CC how/WRB it/PRP 's/VBZ growing/VBG .''/.
 
 (ROOT
   (S
@@ -649,6 +681,8 @@ cop(growing-23, 's-22)
 prep_with(deal-8, growing-23)
 conj_and(business-11, growing-23)
 punct(said-5, .''-24)
+
+She/NNP also/RB emphasized/VBD that/IN the/DT Citifinancial/NNP computer/NN system/NN used/VBN by/IN the/DT sales/NNS staff/NN automatically/RB rejected/VBD products/NNS and/CC interest/NN rate/NN levels/NNS that/WDT did/VBD not/RB seem/VB suitable/JJ for/IN a/DT specific/JJ customer/NN ,/, giving/VBG Citifinancial/NNP a/DT measure/NN of/IN centralized/JJ control/NN over/IN lending/VBG practices/NNS ./.
 
 (ROOT
   (S
@@ -704,19 +738,19 @@ agent(used-9, staff-13)
 advmod(rejected-15, automatically-14)
 ccomp(emphasized-3, rejected-15)
 dobj(rejected-15, products-16)
-nsubj(suitable-25, products-16)
+nsubj(seem-24, products-16)
 nn(levels-20, interest-18)
 nn(levels-20, rate-19)
 dobj(rejected-15, levels-20)
 conj_and(products-16, levels-20)
-nsubj(suitable-25, levels-20)
-aux(suitable-25, did-22)
-neg(suitable-25, not-23)
-cop(suitable-25, seem-24)
-rcmod(products-16, suitable-25)
+nsubj(seem-24, levels-20)
+aux(seem-24, did-22)
+neg(seem-24, not-23)
+rcmod(products-16, seem-24)
+acomp(seem-24, suitable-25)
 det(customer-29, a-27)
 amod(customer-29, specific-28)
-prep_for(suitable-25, customer-29)
+prep_for(seem-24, customer-29)
 vmod(rejected-15, giving-31)
 iobj(giving-31, Citifinancial-32)
 det(measure-34, a-33)
@@ -725,6 +759,8 @@ amod(control-37, centralized-36)
 prep_of(measure-34, control-37)
 amod(practices-40, lending-39)
 prep_over(control-37, practices-40)
+
+``A/NNP lot/NN of/IN the/DT compliance/NN issues/NNS are/VBP built/VBN into/IN the/DT system/NN ,''/, she/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -754,6 +790,8 @@ prep_into(built-8, system-11)
 punct(said-14, ,''-12)
 nsubj(said-14, she-13)
 root(ROOT-0, said-14)
+
+NYT-10-20-00/CD 2201EDT/CD
 
 (ROOT
   (FRAG

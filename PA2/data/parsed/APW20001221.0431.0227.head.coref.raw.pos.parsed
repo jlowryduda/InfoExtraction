@@ -1,3 +1,5 @@
+APW20001221.0431.0227/DT NEWS/NNP STORY/NNPS 2000-12-21/CD 05:47:41/CD
+
 (ROOT
   (NP
     (NP (DT APW20001221.0431.0227))
@@ -10,10 +12,14 @@ dep(APW20001221.0431.0227-1, STORY-3)
 num(05:47:41-5, 2000-12-21-4)
 dep(APW20001221.0431.0227-1, 05:47:41-5)
 
+Sandra-Bullock/NNP
+
 (ROOT
   (NP (NNP Sandra-Bullock)))
 
 root(ROOT-0, Sandra-Bullock-1)
+
+Bullock/NNP Uninjured/NNP in/IN Plane/NNP Mishap/NNP
 
 (ROOT
   (NP
@@ -26,10 +32,12 @@ root(ROOT-0, Uninjured-2)
 nn(Mishap-5, Plane-4)
 prep_in(Uninjured-2, Mishap-5)
 
+JACKSON/NNP ,/, Wyo./NNP [AP/NNP ]/NNP _/, A/DT plane/NN carrying/VBG actress/NN Sandra/NNP Bullock/NNP and/CC three/CD other/JJ people/NNS missed/VBD a/DT runway/NN and/CC crashed/VBD at/IN the/DT Jackson/NNP Hole/NNP Airport/NNP early/JJ Wednesday/NN ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP JACKSON) (, ,) (NNP Wyo.) (NNP (AP) (NNP )))
+      (NP (NNP JACKSON) (, ,) (NNP Wyo.) (NNP [AP) (NNP ]))
       (PP (, _)
         (NP
           (NP (DT A) (NN plane))
@@ -47,14 +55,14 @@ prep_in(Uninjured-2, Mishap-5)
           (NP (DT the) (NNP Jackson) (NNP Hole) (NNP Airport) (JJ early) (NN Wednesday)))))
     (. .)))
 
-nn()-5, JACKSON-1)
-appos()-5, Wyo.-3)
-nn()-5, (AP-4)
-nsubj(missed-17, )-5)
-nsubj(crashed-21, )-5)
+nn(]-5, JACKSON-1)
+appos(]-5, Wyo.-3)
+nn(]-5, [AP-4)
+nsubj(missed-17, ]-5)
+nsubj(crashed-21, ]-5)
 punct(plane-8, _-6)
 det(plane-8, A-7)
-prep()-5, plane-8)
+prep(]-5, plane-8)
 vmod(plane-8, carrying-9)
 nn(Bullock-12, actress-10)
 nn(Bullock-12, Sandra-11)
@@ -74,6 +82,8 @@ nn(Wednesday-28, Airport-26)
 amod(Wednesday-28, early-27)
 prep_at(crashed-21, Wednesday-28)
 
+Authorities/NNS said/VBD no/DT one/NN was/VBD hurt/RB ./.
+
 (ROOT
   (S
     (NP (NNS Authorities))
@@ -91,6 +101,8 @@ neg(one-4, no-3)
 nsubj(was-5, one-4)
 ccomp(said-2, was-5)
 advmod(was-5, hurt-6)
+
+Bullock/NNP ,/, who/WP stars/NNS in/IN the/DT current/JJ ``Miss/NN Congeniality/NNP ,''/NNP was/VBD aboard/IN the/DT plane/NN with/IN two/CD crew/NN members/NNS and/CC another/DT person/NN ,/, airport/NN manager/NN George/NNP Larson/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -139,6 +151,8 @@ nn(Larson-26, George-25)
 nsubj(said-27, Larson-26)
 root(ROOT-0, said-27)
 
+He/PRP said/VBD all/DT were/VBD uninjured/JJ ./.
+
 (ROOT
   (S
     (NP (PRP He))
@@ -155,6 +169,8 @@ root(ROOT-0, said-2)
 nsubj(uninjured-5, all-3)
 cop(uninjured-5, were-4)
 ccomp(said-2, uninjured-5)
+
+The/DT twin-engine/JJ Hawker/NNP corporate/JJ jet/NN ,/, owned/VBN by/IN RR/NNP Investments/NNPS of/IN Texas/NNP ,/, was/VBD heavily/RB damaged/VBN ./.
 
 (ROOT
   (S
@@ -186,6 +202,8 @@ prep_of(Investments-10, Texas-12)
 auxpass(damaged-16, was-14)
 advmod(damaged-16, heavily-15)
 root(ROOT-0, damaged-16)
+
+The/DT main/NN nose/RB landing/VBG gear/JJ was/VBD sheared/VBN off/RB and/CC both/DT wings/NNS were/VBD extensively/RB damaged/VBN ,/, Larson/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -229,6 +247,8 @@ ccomp(said-17, damaged-14)
 nsubj(said-17, Larson-16)
 root(ROOT-0, said-17)
 
+The/DT plane/NN landed/VBD between/IN a/DT runway/NN and/CC taxiway/NN at/IN the/DT airport/NN in/IN northwestern/JJ Wyoming/NN about/IN 1:30/CD a.m/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NN plane))
@@ -260,6 +280,8 @@ amod(Wyoming-14, northwestern-13)
 prep_in(airport-11, Wyoming-14)
 num(a.m-17, 1:30-16)
 prep_about(landed-3, a.m-17)
+
+Blizzard/NNP conditions/NNS and/CC a/DT high/JJ cross/NN wind/NN made/VBD landing/VBG more/JJR difficult/JJ than/IN usual/JJ ,/, authorities/NNS said/VBD ./.
 
 (ROOT
   (S
@@ -295,6 +317,8 @@ amod(more-10, difficult-11)
 prep_than(difficult-11, usual-13)
 nsubj(said-16, authorities-15)
 root(ROOT-0, said-16)
+
+The/DT harsh/NN weather/NN may/MD have/VB disoriented/VBN the/DT pilot/NN ,/, Richard/NNP Campbell/NNP ,/, of/IN <GPE-e10/JJ type="NAM">Fort/NN Worth/NNP ,/, Texas/NNP </, causing/VBG him/PRP to/TO mistake/VB a/DT set/NN of/IN ground/NN lights/NNS for/IN the/DT center/NN of/IN the/DT runway/NN ,/, airport/NN officials/NNS said/VBD ./.
 
 (ROOT
   (S
@@ -348,6 +372,7 @@ nn(Texas-18, Worth-16)
 prep_of(pilot-8, Texas-18)
 punct(causing-20, <-19)
 prep(disoriented-6, causing-20)
+dobj(causing-20, him-21)
 nsubj(mistake-23, him-21)
 aux(mistake-23, to-22)
 xcomp(causing-20, mistake-23)
@@ -362,6 +387,8 @@ prep_of(center-31, runway-34)
 nn(officials-37, airport-36)
 nsubj(said-38, officials-37)
 root(ROOT-0, said-38)
+
+The/DT four/CD climbed/VBD out/RB of/IN the/DT wreckage/NN and/CC found/VBD the/DT airport/NN was/VBD empty/RB ./.
 
 (ROOT
   (S
@@ -391,6 +418,8 @@ det(airport-11, the-10)
 nsubj(was-12, airport-11)
 ccomp(found-9, was-12)
 advmod(was-12, empty-13)
+
+``So/IN they/PRP walked/VBD in/IN here/RB and/CC found/VBD a/DT custodian/NN ,/, and/CC she/PRP called/VBD some/DT other/JJ people/NNS who/WP called/VBD the/DT sheriff/NN 's/POS department/NN ,''/, Larson/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -449,6 +478,8 @@ punct(said-25, ,''-23)
 nsubj(said-25, Larson-24)
 root(ROOT-0, said-25)
 
+A/DT similar/JJ accident/NN occurred/VBD last/JJ winter/NN when/WRB a/DT private/JJ airplane/NN landed/VBN in/IN the/DT same/JJ spot/NN ./.
+
 (ROOT
   (S
     (NP (DT A) (JJ similar) (NN accident))
@@ -478,6 +509,8 @@ det(spot-15, the-13)
 amod(spot-15, same-14)
 prep_in(landed-11, spot-15)
 
+Larson/NNP said/VBD the/DT airport/NN plans/VBZ to/TO install/VB new/JJ runway/NN lights/NNS ./.
+
 (ROOT
   (S
     (NP (NNP Larson))
@@ -496,7 +529,7 @@ nsubj(said-2, Larson-1)
 root(ROOT-0, said-2)
 det(airport-4, the-3)
 nsubj(plans-5, airport-4)
-xsubj(install-7, airport-4)
+nsubj(install-7, airport-4)
 ccomp(said-2, plans-5)
 aux(install-7, to-6)
 xcomp(plans-5, install-7)

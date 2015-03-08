@@ -1,3 +1,5 @@
+NYT20001006.2228.0370/NNP NEWS/NNP STORY/NNP 2000-10-06/CD 22:45:00/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001006.2228.0370) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(22:45:00-5, 2000-10-06-4)
 dep(STORY-3, 22:45:00-5)
+
+A6290/CD &Cx1f/NN ;/: taf-z/JJ u/NN p/IN BC-TV-DEBATE-RATINGS-NYT/NNP 10-06/CD 0230/.
 
 (ROOT
   (NP
@@ -27,10 +31,14 @@ prep_p(u-5, BC-TV-DEBATE-RATINGS-NYT-7)
 num(BC-TV-DEBATE-RATINGS-NYT-7, 10-06-8)
 punct(&Cx1f-2, 0230-9)
 
+BC-TV-DEBATE-RATINGS-NYT/NNP
+
 (ROOT
   (NP (NNP BC-TV-DEBATE-RATINGS-NYT)))
 
 root(ROOT-0, BC-TV-DEBATE-RATINGS-NYT-1)
+
+CHENEY-LIEBERMAN/NNP DEBATE/NNP FARES/NNP POORLY/NNP IN/NNP RATINGS/.
 
 (ROOT
   (NP (NNP CHENEY-LIEBERMAN) (NNP DEBATE) (NNP FARES) (NNP POORLY) (NNP IN) (. RATINGS)))
@@ -42,6 +50,8 @@ nn(IN-5, POORLY-4)
 root(ROOT-0, IN-5)
 punct(IN-5, RATINGS-6)
 
+&UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
 (ROOT
   (NP
     (NP (NNS &UR))
@@ -52,6 +62,8 @@ punct(IN-5, RATINGS-6)
 root(ROOT-0, &UR-1)
 num(N.Y-4, c.2000-3)
 dep(&UR-1, N.Y-4)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -70,6 +82,8 @@ root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
 
+The/DT vice-presidential/JJ debate/NN on/IN Thursday/NN between/IN Sen/NNP ./.
+
 (ROOT
   (NP
     (NP (DT The) (JJ vice-presidential) (NN debate))
@@ -84,6 +98,8 @@ amod(debate-3, vice-presidential-2)
 root(ROOT-0, debate-3)
 prep_on(debate-3, Thursday-5)
 prep_between(debate-3, Sen-7)
+
+Joseph/NNP Lieberman/NNP and/CC Dick/NNP Cheney/NNP was/VBD watched/VBN by/IN at/IN least/JJS 28.5/CD million/CD people/NNS ,/, the/DT second-smallest/JJ audience/NN on/IN record/NN for/IN a/DT vice-presidential/JJ debate/NN ,/, according/VBG to/TO Nielsen/NNP Media/NNP Research/NNP data/NNS ./.
 
 (ROOT
   (S
@@ -136,6 +152,8 @@ nn(data-30, Media-28)
 nn(data-30, Research-29)
 pobj(watched-7, data-30)
 
+The/DT lowest-rated/JJ vice-presidential/JJ debate/NN on/IN record/NN was/VBD the/DT confrontation/NN between/IN Vice/NNP President/NNP Al/NNP Gore/NNP and/CC Jack/NNP Kemp/NNP ,/, on/IN Oct/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -171,6 +189,8 @@ prep_between(confrontation-9, Kemp-17)
 conj_and(Gore-14, Kemp-17)
 prep_on(confrontation-9, Oct-20)
 
+9/CD ,/, 1996/CD ./.
+
 (ROOT
   (NP
     (NP (CD 9))
@@ -180,6 +200,8 @@ prep_on(confrontation-9, Oct-20)
 
 root(ROOT-0, 9-1)
 amod(9-1, 1996-3)
+
+It/PRP was/VBD watched/VBN by/IN 26.6/CD million/CD people/NNS ./.
 
 (ROOT
   (S
@@ -198,6 +220,8 @@ root(ROOT-0, watched-3)
 number(million-6, 26.6-5)
 num(people-7, million-6)
 agent(watched-3, people-7)
+
+The/DT highest-rated/JJ vice-presidential/JJ debate/NN was/VBD the/DT matchup/NN between/IN Rep/NNP ./.
 
 (ROOT
   (S
@@ -218,6 +242,8 @@ det(matchup-7, the-6)
 root(ROOT-0, matchup-7)
 prep_between(matchup-7, Rep-9)
 
+Geraldine/NNP Ferraro/NNP and/CC Vice/NNP President/NNP George/NNP Bush/NNP ,/, on/IN Oct/NNP ./.
+
 (ROOT
   (FRAG
     (NP
@@ -237,6 +263,8 @@ nn(Bush-7, George-6)
 conj_and(Ferraro-2, Bush-7)
 prep_on(Ferraro-2, Oct-10)
 
+11/CD ,/, 1984/CD ./.
+
 (ROOT
   (NP
     (NP (CD 11))
@@ -246,6 +274,8 @@ prep_on(Ferraro-2, Oct-10)
 
 root(ROOT-0, 11-1)
 amod(11-1, 1984-3)
+
+It/PRP was/VBD watched/VBN by/IN 56.7/CD million/CD people/NNS ./.
 
 (ROOT
   (S
@@ -264,6 +294,8 @@ root(ROOT-0, watched-3)
 number(million-6, 56.7-5)
 num(people-7, million-6)
 agent(watched-3, people-7)
+
+Nielsen/NNP executives/NNS said/VBD it/PRP was/VBD possible/JJ that/IN the/DT final/JJ audience/NN tally/RB for/IN Thursday/NNP 's/POS confrontation/NN could/MD be/VB slightly/RB larger/JJR than/IN the/DT one/CD released/JJ Friday/NN ./.
 
 (ROOT
   (S
@@ -314,6 +346,8 @@ num(Friday-24, one-22)
 amod(Friday-24, released-23)
 prep_than(larger-19, Friday-24)
 
+The/DT ratings/NNS gathering/VBG process/NN was/VBD complicated/VBN by/IN Fox/NNP 's/POS decision/NN to/TO show/VB a/DT baseball/NN playoff/NN game/NN instead/NN of/IN the/DT debate/NN ./.
+
 (ROOT
   (S
     (NP
@@ -352,6 +386,8 @@ nn(instead-17, game-16)
 dobj(show-12, instead-17)
 det(debate-20, the-19)
 prep_of(instead-17, debate-20)
+
+Some/DT of/IN its/PRP$ affiliated/JJ stations/NNS showed/VBD the/DT debate/NN later/RBR in/IN the/DT evening/NN ,/, and/CC Nielsen/NNP said/VBD it/PRP would/MD not/RB be/VB able/JJ to/TO count/VB the/DT number/NN of/IN people/NNS who/WP watched/VBD those/DT showings/NNS until/IN early/JJ next/JJ week/NN ./.
 
 (ROOT
   (S
@@ -408,7 +444,7 @@ prep_in(showed-6, evening-12)
 nsubj(said-16, Nielsen-15)
 conj_and(showed-6, said-16)
 nsubj(able-21, it-17)
-xsubj(count-23, it-17)
+nsubj(count-23, it-17)
 aux(able-21, would-18)
 neg(able-21, not-19)
 cop(able-21, be-20)
@@ -426,6 +462,8 @@ amod(week-35, early-33)
 amod(week-35, next-34)
 prep_until(watched-29, week-35)
 
+The/DT difference/NN was/VBD not/RB expected/VBN to/TO be/VB very/RB significant/JJ ./.
+
 (ROOT
   (S
     (NP (DT The) (NN difference))
@@ -439,7 +477,7 @@ prep_until(watched-29, week-35)
 
 det(difference-2, The-1)
 nsubjpass(expected-5, difference-2)
-xsubj(significant-9, difference-2)
+nsubj(significant-9, difference-2)
 auxpass(expected-5, was-3)
 neg(expected-5, not-4)
 root(ROOT-0, expected-5)
@@ -447,6 +485,8 @@ aux(significant-9, to-6)
 cop(significant-9, be-7)
 advmod(significant-9, very-8)
 xcomp(expected-5, significant-9)
+
+Thursday/NNP 's/POS estimated/VBD audience/NN included/VBD viewers/NNS who/WP watched/VBD on/IN ABC/NNP ,/, CBS/NNP ,/, NBC/NNP ,/, MSNBC/NNP ,/, CNN/NNP and/CC the/DT Fox/NNP News/NNP Channel/NNP ./.
 
 (ROOT
   (S
@@ -487,6 +527,8 @@ nn(Channel-23, Fox-21)
 nn(Channel-23, News-22)
 prep_on(watched-8, Channel-23)
 conj_and(CNN-18, Channel-23)
+
+NYT-10-06-00/CD 2245EDT/CD
 
 (ROOT
   (FRAG

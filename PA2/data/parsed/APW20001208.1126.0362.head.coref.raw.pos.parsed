@@ -1,3 +1,5 @@
+APW20001208.1126.0362/DT NEWS/NNP STORY/NNPS 2000-12-08/CD 11:30:15/CD
+
 (ROOT
   (NP
     (NP (DT APW20001208.1126.0362))
@@ -10,10 +12,14 @@ dep(APW20001208.1126.0362-1, STORY-3)
 num(11:30:15-5, 2000-12-08-4)
 dep(APW20001208.1126.0362-1, 11:30:15-5)
 
+Russia-Anthem/JJ
+
 (ROOT
   (ADJP (JJ Russia-Anthem)))
 
 root(ROOT-0, Russia-Anthem-1)
+
+Russian/JJ To/TO Restore/NNP Soviet/NNP Anthem/NNP
 
 (ROOT
   (ADJP (JJ Russian)
@@ -25,11 +31,13 @@ nn(Anthem-5, Restore-3)
 nn(Anthem-5, Soviet-4)
 prep_to(Russian-1, Anthem-5)
 
+MOSCOW/NNP [AP/NNP ]/, _/DT Russian/JJ lawmakers/NNS on/IN Friday/NNP overwhelmingly/RB approved/VBD the/DT Soviet/JJ anthem/NN as/IN Russia/NNP 's/POS national/JJ hymn/NN _/IN a/DT move/NN praised/VBN by/IN some/DT as/IN a/DT gesture/NN of/IN reconciliation/NN and/CC denounced/VBN by/IN others/NNS as/IN a/DT symbolic/JJ approval/NN of/IN the/DT nation/NN 's/POS totalitarian/JJ past/NN ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP MOSCOW) (NNP (AP))
-      (PP (, ))
+      (NP (NNP MOSCOW) (NNP [AP))
+      (PP (, ])
         (NP
           (NP (DT _) (JJ Russian) (NNS lawmakers))
           (PP (IN on)
@@ -68,12 +76,12 @@ prep_to(Russian-1, Anthem-5)
                           (JJ totalitarian) (NN past))))))))))))
     (. .)))
 
-nn((AP-2, MOSCOW-1)
-nsubj(approved-10, (AP-2)
-punct(lawmakers-6, )-3)
+nn([AP-2, MOSCOW-1)
+nsubj(approved-10, [AP-2)
+punct(lawmakers-6, ]-3)
 det(lawmakers-6, _-4)
 amod(lawmakers-6, Russian-5)
-prep((AP-2, lawmakers-6)
+prep([AP-2, lawmakers-6)
 prep_on(lawmakers-6, Friday-8)
 advmod(approved-10, overwhelmingly-9)
 root(ROOT-0, approved-10)
@@ -100,6 +108,8 @@ det(nation-40, the-39)
 poss(past-43, nation-40)
 amod(past-43, totalitarian-42)
 prep_of(approval-37, past-43)
+
+The/DT State/NNP Duma/NNP ,/, or/CC lower/JJR house/NN of/IN parliament/NN ,/, voted/VBD 381-51/CD to/TO approve/VB the/DT bill/NN ,/, which/WDT was/VBD strongly/RB backed/VBN by/IN President/NNP Vladimir/NNP Putin/NNP ./.
 
 (ROOT
   (S
@@ -150,6 +160,8 @@ rcmod(bill-16, backed-21)
 nn(Putin-25, President-23)
 nn(Putin-25, Vladimir-24)
 agent(backed-21, Putin-25)
+
+The/DT move/NN restored/VBD the/DT old/JJ anthem/NN 's/POS music/NN by/IN composer/NN Alexander/NNP Alexandrov/NNP but/CC not/RB the/DT original/JJ text/NN that/WDT included/VBD praise/NN for/IN Communist/NNP leaders/NNS Vladimir/PRP$ Lenin/NNP and/CC Josef/NNP Stalin/NNP ./.
 
 (ROOT
   (S
@@ -204,6 +216,8 @@ nn(Stalin-28, Josef-27)
 dobj(included-19, Stalin-28)
 conj_and(Lenin-25, Stalin-28)
 
+By/IN the/DT same/JJ strong/JJ majority/NN ,/, the/DT Duma/NNP approved/VBN legislation/NN formally/RB endorsing/VBG the/DT country/NN 's/POS current/JJ white-red-and-blue/JJ flag/NN as/IN Russia/NNP 's/POS official/JJ flag/NN ./.
+
 (ROOT
   (S
     (PP (IN By)
@@ -244,6 +258,8 @@ dobj(endorsing-12, flag-18)
 poss(flag-23, Russia-20)
 amod(flag-23, official-22)
 prep_as(flag-18, flag-23)
+
+That/DT legislation/NN also/RB brings/NNS back/RB the/DT Soviet/NNP -era/NNP red/VBD banner/NN as/IN the/DT military/NN 's/POS flag/NN and/CC retains/VBZ the/DT Czarist/JJ double-headed/JJ eagle/NN as/IN the/DT state/NN emblem/NN ./.
 
 (ROOT
   (S
@@ -289,6 +305,8 @@ dobj(retains-17, eagle-21)
 det(emblem-25, the-23)
 nn(emblem-25, state-24)
 prep_as(retains-17, emblem-25)
+
+Putin/NNP has/VBZ said/VBN the/DT mixture/NN of/IN old/JJ Russian/JJ and/CC Soviet/JJ symbols/NNS would/MD mend/VB bitter/NN rifts/NNS in/IN society/NN by/IN paying/VBG tribute/NN to/TO the/DT positive/JJ heritage/NN of/IN both/DT periods/NNS ./.
 
 (ROOT
   (S
@@ -342,6 +360,8 @@ prep_to(paying-19, heritage-24)
 det(periods-27, both-26)
 prep_of(heritage-24, periods-27)
 
+He/PRP referred/VBD to/TO opinion/VB polls/NNS showing/VBG that/IN most/JJS people/NNS prefer/VBP Alexandrov/NNP 's/POS music/NN to/TO a/DT melody/NN by/IN 19th-century/JJ composer/NN Mikhail/NNP Glinka/NNP ,/, which/WDT has/VBZ been/VBN Russia/NNP 's/POS anthem/NN since/IN the/DT 1991/CD Soviet/JJ collapse/NN ./.
+
 (ROOT
   (S
     (NP (PRP He))
@@ -379,7 +399,7 @@ prep_of(heritage-24, periods-27)
     (. .)))
 
 nsubj(referred-2, He-1)
-xsubj(opinion-4, He-1)
+nsubj(opinion-4, He-1)
 root(ROOT-0, referred-2)
 aux(opinion-4, to-3)
 xcomp(referred-2, opinion-4)
@@ -406,6 +426,8 @@ det(collapse-33, the-30)
 num(collapse-33, 1991-31)
 amod(collapse-33, Soviet-32)
 prep_since(anthem-28, collapse-33)
+
+Liberal/JJ politicians/NNS and/CC many/JJ leading/JJ cultural/JJ figures/NNS have/VBP strongly/RB opposed/VBN the/DT reinstatement/NN of/IN the/DT Soviet/JJ anthem/NN ,/, saying/VBG it/PRP symbolized/VBN political/JJ repression/NN ./.
 
 (ROOT
   (S
@@ -449,6 +471,8 @@ nsubj(symbolized-20, it-19)
 dep(saying-18, symbolized-20)
 amod(repression-22, political-21)
 dobj(symbolized-20, repression-22)
+
+``We/IN strongly/RB protest/JJS against/IN the/DT Stalinist/JJ anthem/NN ,/, which/WDT is/VBZ stained/VBN by/IN the/DT blood/NN of/IN millions/NNS of/IN victims/NNS ,''/, said/VBD Grigory/NNP Yavlinsky/NNP ,/, the/DT head/NN of/IN the/DT liberal/JJ Yabloko/NNP faction/NN ./.
 
 (ROOT
   (SINV
@@ -507,6 +531,8 @@ amod(faction-30, liberal-28)
 nn(faction-30, Yabloko-29)
 prep_of(head-25, faction-30)
 
+Yabloko/NNP and/CC another/DT liberal/JJ faction/NN ,/, the/DT Union/NNP of/IN Right/NNP Forces/NNP ,/, said/VBD they/PRP might/MD appeal/VB Friday/NNP 's/POS vote/NN in/IN the/DT Constitutional/NNP Court/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -552,6 +578,8 @@ dobj(appeal-16, vote-19)
 det(Court-23, the-21)
 nn(Court-23, Constitutional-22)
 prep_in(vote-19, Court-23)
+
+The/DT Duma/NNP usually/RB hears/NNS speeches/NNS by/IN faction/NN leaders/NNS before/IN a/DT vote/NN ,/, but/CC this/DT time/NN lawmakers/NNS skipped/VBD the/DT debate/NN _/IN a/DT move/VB the/DT liberals/NNS described/VBN as/IN a/DT procedural/JJ violation/NN ./.
 
 (ROOT
   (S
@@ -606,6 +634,8 @@ det(violation-29, a-27)
 amod(violation-29, procedural-28)
 prep_as(described-25, violation-29)
 
+``For/IN the/DT first/JJ time/NN ,/, the/DT opposition/NN was/VBD refused/VBD the/DT right/NN to/TO speak/VB out/RP ,''/IN Yavlinsky/NNP said/VBD ./.
+
 (ROOT
   (S
     (PP (IN ``For)
@@ -641,6 +671,8 @@ mark(said-17, ,''-15)
 nsubj(said-17, Yavlinsky-16)
 advcl(speak-13, said-17)
 
+``The/IN presidential/JJ administration/NN and/CC Communists/NNS were/VBD afraid/VBN of/IN our/PRP$ arguments/NNS against/IN the/DT Soviet/JJ anthem/NN .''/.
+
 (ROOT
   (SINV
     (PP (IN ``The)
@@ -669,6 +701,8 @@ det(anthem-14, the-12)
 amod(anthem-14, Soviet-13)
 prep_against(arguments-10, anthem-14)
 punct(afraid-7, .''-15)
+
+Former/NNP President/NNP Boris/NNP Yeltsin/NNP has/VBZ joined/VBN other/JJ critics/NNS of/IN the/DT move/NN to/TO restore/VB the/DT anthem/NN ./.
 
 (ROOT
   (S
@@ -699,6 +733,8 @@ aux(restore-13, to-12)
 vmod(move-11, restore-13)
 det(anthem-15, the-14)
 dobj(restore-13, anthem-15)
+
+He/PRP said/VBD in/IN an/DT interview/NN published/VBD Friday/NN in/IN the/DT daily/JJ Komsomolskaya/NNP Pravda/NNP that/IN the/DT solemn/NN music/NN recalls/NNS Communist/NNP Party/NNP congresses/NNS ,/, not/RB Soviet/JJ sports/NNS victories/NNS and/CC achievements/NNS in/IN space/NN ,/, as/IN Putin/NNP had/VBD said/VBN ./.
 
 (ROOT
   (S
@@ -765,6 +801,8 @@ prep_as(solemn-15, Putin-32)
 aux(said-34, had-33)
 ccomp(published-6, said-34)
 
+``I/PRP 'm/VBP categorically/RB against/IN the/DT restoration/NN of/IN the/DT Soviet/JJ anthem/NN ,''/, Yeltsin/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -792,6 +830,8 @@ prep_of(restoration-6, anthem-10)
 punct(said-13, ,''-11)
 nsubj(said-13, Yeltsin-12)
 root(ROOT-0, said-13)
+
+Communists/NNS and/CC other/JJ hard-liners/NNS had/VBD opposed/VBN the/DT tricolor/NN flag/NN and/CC the/DT eagle/NN as/IN a/DT vestige/NN of/IN the/DT Czars/NNS ,/, forcing/VBG Yeltsin/NNP to/TO approve/VB them/PRP by/IN decree/NN ./.
 
 (ROOT
   (S
@@ -839,11 +879,14 @@ prep_as(opposed-6, vestige-15)
 det(Czars-18, the-17)
 prep_of(vestige-15, Czars-18)
 vmod(opposed-6, forcing-20)
+dobj(forcing-20, Yeltsin-21)
 nsubj(approve-23, Yeltsin-21)
 aux(approve-23, to-22)
 xcomp(forcing-20, approve-23)
 dobj(approve-23, them-24)
 prep_by(approve-23, decree-26)
+
+But/CC they/PRP agreed/VBD to/TO abandon/VB their/PRP$ criticism/NN and/CC back/RB formal/JJ approval/NN for/IN the/DT symbols/NNS in/IN response/NN to/TO the/DT reintroduction/NN of/IN the/DT Soviet/JJ anthem/NN ./.
 
 (ROOT
   (S (CC But)
@@ -872,7 +915,7 @@ prep_by(approve-23, decree-26)
 
 cc(agreed-3, But-1)
 nsubj(agreed-3, they-2)
-xsubj(abandon-5, they-2)
+nsubj(abandon-5, they-2)
 root(ROOT-0, agreed-3)
 aux(abandon-5, to-4)
 xcomp(agreed-3, abandon-5)
@@ -890,6 +933,8 @@ prep_to(abandon-5, reintroduction-19)
 det(anthem-23, the-21)
 amod(anthem-23, Soviet-22)
 prep_of(reintroduction-19, anthem-23)
+
+No/DT conclusive/JJ version/NN of/IN new/JJ lyrics/NNS for/IN the/DT old/JJ music/NN has/VBZ been/VBN approved/VBN yet/RB ./.
 
 (ROOT
   (S
@@ -919,6 +964,8 @@ auxpass(approved-13, been-12)
 root(ROOT-0, approved-13)
 advmod(approved-13, yet-14)
 
+The/DT Duma/NNP asked/VBD Putin/NNP to/TO set/VB up/RP a/DT panel/NN to/TO consider/VB the/DT text/NN and/CC submit/VB the/DT final/JJ version/NN for/IN its/PRP$ approval/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Duma))
@@ -945,6 +992,7 @@ advmod(approved-13, yet-14)
 det(Duma-2, The-1)
 nsubj(asked-3, Duma-2)
 root(ROOT-0, asked-3)
+dobj(asked-3, Putin-4)
 nsubj(set-6, Putin-4)
 aux(set-6, to-5)
 xcomp(asked-3, set-6)
@@ -962,6 +1010,8 @@ amod(version-18, final-17)
 dobj(submit-15, version-18)
 poss(approval-21, its-20)
 prep_for(version-18, approval-21)
+
+During/VBG Friday/NNP 's/POS debate/NN ,/, Duma/NNP speaker/NN Gennady/NNP Seleznyov/NNP said/VBD officials/NNS had/VBD received/VBN an/DT anonymous/JJ telephone/NN call/NN saying/VBG a/DT bomb/NN had/VBD been/VBN planted/VBN in/IN the/DT building/NN ./.
 
 (ROOT
   (S
@@ -1014,6 +1064,8 @@ auxpass(planted-23, been-22)
 ccomp(saying-18, planted-23)
 det(building-26, the-25)
 prep_in(planted-23, building-26)
+
+Lawmakers/NNS ignored/VBD it/PRP and/CC continued/VB their/PRP$ session/NN as/IN police/NN officers/NNS with/IN sniffer/JJR dogs/NNS searched/VBD the/DT premises/NNS ./.
 
 (ROOT
   (S

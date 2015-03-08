@@ -1,3 +1,5 @@
+NYT20001106.1705.0187/NNP NEWS/NNP STORY/NNP 2000-11-06/CD 18:26:00/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001106.1705.0187) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(18:26:00-5, 2000-11-06-4)
 dep(STORY-3, 18:26:00-5)
+
+A9514/CD &Cx1f/NN ;/: tta-z/NNP u/NNP p/NNP BC-BUSH-ART-NYT/NNP &LR/NNP ;/: 11-06/CD 0696/CD
 
 (ROOT
   (NP
@@ -29,10 +33,14 @@ dep(&Cx1f-2, &LR-8)
 number(0696-11, 11-06-10)
 dep(&LR-8, 0696-11)
 
+BC-BUSH-ART-NYT/NNP
+
 (ROOT
   (NP (NNP BC-BUSH-ART-NYT)))
 
 root(ROOT-0, BC-BUSH-ART-NYT-1)
+
+COMING/NNP FULL/NNP CIRCLE/NNP ,/, BUSH/NNP VOWS/NNP TO/NNP END/NNP DISCORD/NNP IN/NNP WASHINGTON/NNP
 
 (ROOT
   (NP
@@ -51,9 +59,11 @@ nn(WASHINGTON-11, DISCORD-9)
 nn(WASHINGTON-11, IN-10)
 appos(CIRCLE-3, WASHINGTON-11)
 
+[EDS/NNS :/: This/DT early/JJ version/NN will/MD be/VB updated/VBN from/IN Davenport/NNP ,/, Iowa/NNP .]/NNP &QL/NNP ;/: [ART/NNP ADV/NNP :/: Photos/NNPS NYT11/CD and/CC 25/CD are/VBP being/VBG sent/VBN to/TO NYT/NNP photo/NNP clients/NNS ./.
+
 (ROOT
   (NP
-    (NP (NNS (EDS))
+    (NP (NNS [EDS))
     (: :)
     (NP
       (NP (DT This) (JJ early) (NN version))
@@ -66,10 +76,10 @@ appos(CIRCLE-3, WASHINGTON-11)
                   (NP
                     (NP (NNP Davenport))
                     (, ,)
-                    (NP (NNP Iowa) (NNP .)) (NNP &QL))))))))))
+                    (NP (NNP Iowa) (NNP .]) (NNP &QL))))))))))
     (: ;)
     (NP
-      (NP (NNP (ART) (NNP ADV))
+      (NP (NNP [ART) (NNP ADV))
       (: :)
       (NP
         (NP (NNPS Photos))
@@ -83,21 +93,21 @@ appos(CIRCLE-3, WASHINGTON-11)
                 (VP (VBN sent)
                   (PP (TO to)
                     (NP (NNP NYT) (NNP photo) (NNS clients))))))))))
-    (. .))))
+    (. .)))
 
-root(ROOT-0, (EDS-1)
+root(ROOT-0, [EDS-1)
 det(version-5, This-3)
 amod(version-5, early-4)
-dep((EDS-1, version-5)
+dep([EDS-1, version-5)
 aux(updated-8, will-6)
 auxpass(updated-8, be-7)
 rcmod(version-5, updated-8)
 prep_from(updated-8, Davenport-10)
 nn(&QL-14, Iowa-12)
-nn(&QL-14, .)-13)
+nn(&QL-14, .]-13)
 appos(Davenport-10, &QL-14)
-nn(ADV-17, (ART-16)
-dep((EDS-1, ADV-17)
+nn(ADV-17, [ART-16)
+dep([EDS-1, ADV-17)
 dep(ADV-17, Photos-19)
 nsubjpass(sent-25, NYT11-20)
 conj_and(NYT11-20, 25-22)
@@ -108,6 +118,8 @@ rcmod(Photos-19, sent-25)
 nn(clients-29, NYT-27)
 nn(clients-29, photo-28)
 prep_to(sent-25, clients-29)
+
+Nonsubscribers/NNS can/MD purchase/VB one-time/JJ rights/NNS by/IN calling/VBG 888-603-1036/CD or/CC 888-346-9867/CD .]/JJ &QL/NNS ;/: &UR/NNS ;/: By/NNP FRANK/NNP BRUNI/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (S
@@ -122,7 +134,7 @@ prep_to(sent-25, clients-29)
                 (CC or)
                 (CD 888-346-9867))
               (NP
-                (NP (JJ .)) (NNS &QL))
+                (NP (JJ .]) (NNS &QL))
                 (: ;)
                 (NP
                   (NP (NNS &UR))
@@ -139,7 +151,7 @@ prep_to(sent-25, clients-29)
                 (NP
                   (NP (CD c.2000))
                   (NP (NNP N.Y)))))))))
-    (. .))
+    (. .)))
 
 nsubj(purchase-3, Nonsubscribers-1)
 aux(purchase-3, can-2)
@@ -150,7 +162,7 @@ prepc_by(purchase-3, calling-7)
 iobj(calling-7, 888-603-1036-8)
 iobj(calling-7, 888-346-9867-10)
 conj_or(888-603-1036-8, 888-346-9867-10)
-amod(&QL-12, .)-11)
+amod(&QL-12, .]-11)
 dobj(calling-7, &QL-12)
 dep(&QL-12, &UR-14)
 prep(&UR-14, By-16)
@@ -162,6 +174,8 @@ dep(&QL-12, &QL-23)
 dep(&QL-12, &UR-25)
 dep(&QL-12, c.2000-27)
 appos(c.2000-27, N.Y-28)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -180,80 +194,81 @@ root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
 
+CHATTANOOGA/NNP ,/, Tenn./NNP _/, Nearly/RB 17/CD months/NNS after/IN he/PRP first/RB issued/VBN his/PRP$ call/NN for/IN a/DT ``fresh/JJ start/NN after/IN a/DT season/NN of/IN cynicism/NN ,''/IN Gov./NNP George/NNP W./NNP Bush/NNP ended/VBD his/PRP$ quest/NN for/IN the/DT presidency/JJ Monday/NNP on/IN a/DT nearly/RB identical/JJ note/NN ,/, pledging/VBG to/TO purge/VB Washington/NNP of/IN what/WP he/PRP cast/NN as/IN a/DT crippling/NN discord/NN ./.
+
 (ROOT
   (S
-    (NP (NNP CHATTANOOGA) (, ,) (NNP Tenn.))
-    (VP (, _)
-      (NP
-        (QP (RB Nearly) (CD 17))
-        (NNS months))
-      (SBAR (IN after)
-        (S
-          (NP (PRP he))
-          (ADVP (RB first))
-          (VP (VBN issued)
-            (NP (PRP$ his) (NN call))
-            (PP (IN for)
-              (NP (DT a) (JJ ``fresh) (NN start)))
-            (SBAR (IN after)
-              (S
+    (NP
+      (NP (NNP CHATTANOOGA) (, ,) (NNP Tenn.))
+      (PP (, _)
+        (SBAR
+          (NP (RB Nearly) (CD 17) (NNS months))
+          (IN after)
+          (S
+            (NP (PRP he))
+            (VP
+              (ADVP (RB first))
+              (VBN issued)
+              (NP (PRP$ his) (NN call))
+              (PP (IN for)
+                (NP (DT a) (JJ ``fresh) (NN start)))
+              (PP (IN after)
                 (NP
                   (NP (DT a) (NN season))
                   (PP (IN of)
                     (NP
                       (NP (NN cynicism))
                       (PP (IN ,'')
-                        (NP (NNP Gov.) (NNP George) (NNP W.) (NNP Bush))))))
-                (VP (VBD ended)
-                  (NP (PRP$ his) (NN quest))
-                  (PP (IN for)
-                    (NP (DT the) (JJ presidency)))
-                  (NP (NNP Monday))
-                  (PP (IN on)
+                        (NP (NNP Gov.) (NNP George) (NNP W.) (NNP Bush))))))))))))
+    (VP (VBD ended)
+      (NP (PRP$ his) (NN quest))
+      (PP (IN for)
+        (NP (DT the) (JJ presidency)))
+      (NP (NNP Monday))
+      (PP (IN on)
+        (NP
+          (NP (DT a)
+            (ADJP (RB nearly) (JJ identical))
+            (NN note))
+          (, ,)
+          (VP (VBG pledging)
+            (S
+              (VP (TO to)
+                (VP (VB purge)
+                  (NP
                     (NP
-                      (NP (DT a)
-                        (ADJP (RB nearly) (JJ identical))
-                        (NN note))
-                      (, ,)
-                      (VP (VBG pledging)
-                        (S
-                          (VP (TO to)
-                            (VP (VB purge)
-                              (NP
-                                (NP
-                                  (NAC (NNP Washington)
-                                    (PP (IN of)
-                                      (WHNP (WP what)
-                                        (NP (PRP he)))))
-                                  (NN cast))
-                                (PP (IN as)
-                                  (NP (DT a) (NN crippling) (NN discord)))))))))))))))))
+                      (NAC (NNP Washington)
+                        (PP (IN of)
+                          (WHNP (WP what)
+                            (NP (PRP he)))))
+                      (NN cast))
+                    (PP (IN as)
+                      (NP (DT a) (NN crippling) (NN discord)))))))))))
     (. .)))
 
 nn(Tenn.-3, CHATTANOOGA-1)
-nsubj(months-7, Tenn.-3)
-punct(months-7, _-4)
-quantmod(17-6, Nearly-5)
+nsubj(ended-28, Tenn.-3)
+punct(issued-11, _-4)
+advmod(months-7, Nearly-5)
 num(months-7, 17-6)
-root(ROOT-0, months-7)
+dep(issued-11, months-7)
 mark(issued-11, after-8)
 nsubj(issued-11, he-9)
 advmod(issued-11, first-10)
-advcl(months-7, issued-11)
+prep(Tenn.-3, issued-11)
 poss(call-13, his-12)
 dobj(issued-11, call-13)
 det(start-17, a-15)
 amod(start-17, ``fresh-16)
 prep_for(issued-11, start-17)
-mark(ended-28, after-18)
 det(season-20, a-19)
-nsubj(ended-28, season-20)
+prep_after(issued-11, season-20)
 prep_of(season-20, cynicism-22)
 nn(Bush-27, Gov.-24)
 nn(Bush-27, George-25)
 nn(Bush-27, W.-26)
 prep_,''(cynicism-22, Bush-27)
-advcl(issued-11, ended-28)
+root(ROOT-0, ended-28)
 poss(quest-30, his-29)
 dobj(ended-28, quest-30)
 det(presidency-33, the-32)
@@ -273,6 +288,8 @@ dobj(purge-43, cast-48)
 det(discord-52, a-50)
 nn(discord-52, crippling-51)
 prep_as(cast-48, discord-52)
+
+The/DT course/NN that/IN Bush/NNP charted/VBD over/IN his/PRP$ final/JJ hours/NNS on/IN the/DT campaign/NN trail/NN ,/, plotted/VBN with/IN as/RB much/JJ concern/NN for/IN symbolism/JJ as/IN for/IN raw/NN electoral/JJ arithmetic/JJ ,/, left/VBD no/DT doubt/NN about/IN where/WRB he/PRP placed/VBD the/DT blame/NN for/IN that/DT atmosphere/RB ./.
 
 (ROOT
   (S
@@ -351,6 +368,8 @@ dobj(placed-34, blame-36)
 prep_for(blame-36, that-38)
 advmod(placed-34, atmosphere-39)
 
+His/PRP$ first/JJ major/JJ rally/NN was/VBD in/IN Tennessee/NNP and/CC his/PRP$ last/JJ was/VBD planned/VBN for/IN Arkansas/NNP ,/, the/DT home/NN states/NNS ,/, respectively/RB ,/, of/IN Vice/NNP President/NNP Al/NNP Gore/NNP and/CC President/NNP Clinton/NNP ./.
+
 (ROOT
   (S
     (S
@@ -402,6 +421,8 @@ prep_of(Arkansas-14, Gore-26)
 nn(Clinton-29, President-28)
 prep_of(Arkansas-14, Clinton-29)
 conj_and(Gore-26, Clinton-29)
+
+The/DT Texas/NNP governor/NN 's/POS words/NNS made/VBD equally/RB clear/JJ that/IN he/PRP saw/VBD himself/PRP as/IN the/DT country/NN 's/POS best/JJS hope/NN for/IN bridging/VBG ideological/JJ divides/NNS ,/, healing/VBG partisan/JJ wounds/NNS and/CC making/VBG sure/JJ that/WDT Americans/NNPS could/MD gaze/RB upon/VB the/DT White/NNP House/NNP with/IN unfettered/JJ respect/NN ./.
 
 (ROOT
   (S
@@ -477,6 +498,8 @@ nn(House-37, White-36)
 dobj(upon-34, House-37)
 amod(respect-40, unfettered-39)
 prep_with(upon-34, respect-40)
+
+``There/RB 's/VBZ a/DT better/JJR day/NN ahead/RB if/IN we/PRP have/VBP a/DT leader/NN who/WP 's/VBZ willing/JJ to/TO unite/VB the/DT country/NN ,/, to/TO bring/VB people/NNS together/RB ,/, to/TO elevate/VB the/DT people/NNS 's/POS business/NN above/IN everyday/NN politics/NNS ,''/NNP Bush/NNP said/VBD at/IN a/DT rally/RB inside/VB a/DT hangar/NN at/IN the/DT airport/NN here/RB ,/, where/WRB supporters/NNS '/POS chants/NNS evoked/VBD the/DT nearness/NN of/IN the/DT moment/NN of/IN decision/NN ./.
 
 (ROOT
   (SINV
@@ -594,6 +617,8 @@ det(moment-57, the-56)
 prep_of(nearness-54, moment-57)
 prep_of(moment-57, decision-59)
 
+``One/RB more/JJR day/NN !''/.
+
 (ROOT
   (X
     (ADVP (RB ``One))
@@ -604,6 +629,8 @@ dep(day-3, ``One-1)
 amod(day-3, more-2)
 root(ROOT-0, day-3)
 punct(day-3, !''-4)
+
+they/PRP roared/VBD ./.
 
 (ROOT
   (S
@@ -614,6 +641,8 @@ punct(day-3, !''-4)
 nsubj(roared-2, they-1)
 root(ROOT-0, roared-2)
 
+``One/RB more/JJR day/NN !''/.
+
 (ROOT
   (X
     (ADVP (RB ``One))
@@ -624,6 +653,8 @@ dep(day-3, ``One-1)
 amod(day-3, more-2)
 root(ROOT-0, day-3)
 punct(day-3, !''-4)
+
+What/WP the/DT nation/NN needed/VBD ,/, Bush/NNP told/VBD them/PRP ,/, was/VBD ``a/DT president/NN who/WP can/MD unite/VB this/DT nation/NN ,/, a/DT president/NN who/WP puts/VBZ aside/VB the/DT endless/JJ partisan/NN bickering/VBG that/IN seems/VBZ to/TO gridlock/VB our/PRP$ nation/NN 's/POS capitol/NN ,/, a/DT president/NN who/WP puts/VBZ the/DT people/NNS first/RB ,/, a/DT president/NN who/WP lifts/VBZ this/DT nation/NN 's/POS spirits/NNS ./.
 
 (ROOT
   (SINV
@@ -714,7 +745,7 @@ amod(partisan-26, endless-25)
 dobj(aside-23, partisan-26)
 vmod(partisan-26, bickering-27)
 nsubj(seems-29, that-28)
-xsubj(gridlock-31, that-28)
+nsubj(gridlock-31, that-28)
 dep(president-38, seems-29)
 aux(gridlock-31, to-30)
 xcomp(seems-29, gridlock-31)
@@ -735,6 +766,8 @@ rcmod(president-46, lifts-48)
 det(nation-50, this-49)
 poss(spirits-52, nation-50)
 dobj(lifts-48, spirits-52)
+
+``I/NNP 'll/MD be/VB that/DT president/NN ,''/IN he/PRP added/VBD ,/, a/DT sentence/NN that/WDT was/VBD equal/JJ parts/NNS promise/NN and/CC prediction/NN ./.
 
 (ROOT
   (S
@@ -781,6 +814,8 @@ dep(sentence-11, promise-16)
 dep(sentence-11, prediction-18)
 conj_and(promise-16, prediction-18)
 
+It/PRP underscored/VBD the/DT optimism/NN that/IN Bush/NNP has/VBZ ,/, from/IN the/DT very/RB beginning/JJ ,/, sought/JJ to/TO project/VB to/TO voters/NNS ./.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -808,7 +843,7 @@ det(optimism-4, the-3)
 dobj(underscored-2, optimism-4)
 mark(sought-14, that-5)
 nsubj(sought-14, Bush-6)
-xsubj(project-16, Bush-6)
+nsubj(project-16, Bush-6)
 dep(sought-14, has-7)
 det(beginning-12, the-10)
 advmod(beginning-12, very-11)
@@ -817,6 +852,8 @@ ccomp(underscored-2, sought-14)
 aux(project-16, to-15)
 xcomp(sought-14, project-16)
 prep_to(project-16, voters-18)
+
+His/PRP$ schedule/NN over/IN the/DT course/NN of/IN a/DT 16-hour/JJ day/NN was/VBD also/RB an/DT expression/NN of/IN that/DT confidence/NN ./.
 
 (ROOT
   (S
@@ -848,6 +885,8 @@ det(expression-13, an-12)
 root(ROOT-0, expression-13)
 det(confidence-16, that-15)
 prep_of(expression-13, confidence-16)
+
+In/IN between/IN Tennessee/NNP and/CC Arkansas/NNP ,/, his/PRP$ campaign/NN plane/NN touched/VBD down/RB in/IN Wisconsin/NNP and/CC Iowa/NNP ,/, and/CC while/IN any/DT one/CD of/IN those/DT four/CD states/NNS could/MD wind/VB up/RB providing/VBG the/DT key/NN to/TO a/DT Bush/NNP victory/NN ,/, none/NN have/VBP as/IN many/JJ electoral/JJ votes/NNS as/IN such/JJ battlegrounds/NNS as/IN Michigan/NNP and/CC Pennsylvania/NNP ./.
 
 (ROOT
   (S
@@ -935,6 +974,8 @@ prep_as(have-37, Michigan-46)
 prep_as(have-37, Pennsylvania-48)
 conj_and(Michigan-46, Pennsylvania-48)
 
+But/CC they/PRP are/VBP genuine/JJ tossups/NNS that/WDT were/VBD initially/RB predicted/VBN to/TO be/VB much/RB more/RBR hospitable/JJ to/TO Gore/NNP ./.
+
 (ROOT
   (S (CC But)
     (NP (PRP they))
@@ -962,7 +1003,7 @@ cop(tossups-5, are-3)
 amod(tossups-5, genuine-4)
 root(ROOT-0, tossups-5)
 nsubjpass(predicted-9, tossups-5)
-xsubj(hospitable-14, tossups-5)
+nsubj(hospitable-14, tossups-5)
 auxpass(predicted-9, were-7)
 advmod(predicted-9, initially-8)
 rcmod(tossups-5, predicted-9)
@@ -972,6 +1013,8 @@ advmod(hospitable-14, much-12)
 advmod(hospitable-14, more-13)
 xcomp(predicted-9, hospitable-14)
 prep_to(hospitable-14, Gore-16)
+
+By/NNP visiting/VBG them/PRP Monday/NNP ,/, Bush/NNP emphasized/VBD the/DT breadth/NN of/IN his/PRP$ appeal/NN and/CC the/DT sometimes/NNS surprising/VBG vulnerability/NN of/IN the/DT vice/NN president/NN ./.
 
 (ROOT
   (S
@@ -1016,6 +1059,8 @@ dobj(surprising-16, vulnerability-17)
 det(president-21, the-19)
 nn(president-21, vice-20)
 prep_of(vulnerability-17, president-21)
+
+He/PRP did/VBD not/RB let/VB his/PRP$ assertion/NN of/IN strength/NN and/CC confidence/NN distract/NN him/PRP from/IN the/DT important/JJ business/NN of/IN beseeching/VBG supporters/NNS to/TO grant/JJ him/PRP victory/NN ./.
 
 (ROOT
   (S
@@ -1063,6 +1108,8 @@ dobj(beseeching-18, supporters-19)
 amod(victory-23, grant-21)
 dep(grant-21, him-22)
 prep_to(beseeching-18, victory-23)
+
+With/IN just/RB 24/CD hours/NNS before/IN Election/NNP Day/NNP ,/, Bush/NNP in/IN many/JJ ways/NNS stripped/VBD campaigning/NN to/TO its/PRP$ essence/NN :/: coaxing/NN and/CC cajoling/VBG ,/, pleading/VBG and/CC persuading/NN ./.
 
 (ROOT
   (S
@@ -1116,6 +1163,8 @@ dep(stripped-13, pleading-23)
 dep(stripped-13, persuading-25)
 conj_and(pleading-23, persuading-25)
 
+``I/NNP want/VBP you/PRP to/TO understand/NN that/IN I/PRP can't/VBP win/JJ without/IN you/PRP ,''/VBP Bush/NNP told/VBD a/DT crowd/NN of/IN more/JJR than/IN 1,000/CD people/NNS at/IN a/DT convention/NN center/NN in/IN Green/NNP Bay/NNP ,/, Wis./NNP ``I/NNP hope/VBP you/PRP redouble/VBP your/PRP$ efforts/NNS to/TO make/VB sure/JJ people/NNS get/VBP out/RB to/TO the/DT polls/NNS .''/.
+
 (ROOT
   (S
     (S
@@ -1134,22 +1183,21 @@ conj_and(pleading-23, persuading-25)
                     (S
                       (NP (PRP you))
                       (VP (VBP ,'')
-                        (NP
-                          (NP (NNP Bush))
-                          (SBAR
-                            (S
-                              (VP (VBD told)
-                                (NP
-                                  (NP (DT a) (NN crowd))
-                                  (PP (IN of)
-                                    (NP
-                                      (QP (JJR more) (IN than) (CD 1,000))
-                                      (NNS people))))
-                                (PP (IN at)
+                        (SBAR
+                          (S
+                            (NP (NNP Bush))
+                            (VP (VBD told)
+                              (NP
+                                (NP (DT a) (NN crowd))
+                                (PP (IN of)
                                   (NP
-                                    (NP (DT a) (NN convention) (NN center))
-                                    (PP (IN in)
-                                      (NP (NNP Green) (NNP Bay)))))))))))))))))))
+                                    (QP (JJR more) (IN than) (CD 1,000))
+                                    (NNS people))))
+                              (PP (IN at)
+                                (NP
+                                  (NP (DT a) (NN convention) (NN center))
+                                  (PP (IN in)
+                                    (NP (NNP Green) (NNP Bay))))))))))))))))))
     (, ,)
     (NP (NNP Wis.) (NNP ``I))
     (VP (VBP hope)
@@ -1181,8 +1229,8 @@ ccomp(want-2, can't-8)
 acomp(can't-8, win-9)
 nsubj(,''-12, you-11)
 prepc_without(win-9, ,''-12)
-dobj(,''-12, Bush-13)
-rcmod(Bush-13, told-14)
+nsubj(told-14, Bush-13)
+ccomp(,''-12, told-14)
 det(crowd-16, a-15)
 dobj(told-14, crowd-16)
 mwe(than-19, more-18)
@@ -1211,6 +1259,8 @@ det(polls-45, the-44)
 prep_to(get-41, polls-45)
 punct(hope-32, .''-46)
 
+Minutes/NNP later/RB ,/, he/PRP added/VBD :/: ``When/CD you/PRP go/VB out/RP there/RB and/CC tell/VB the/DT folks/NNS where/WRB we/PRP stand/VBD on/IN the/DT issues/NNS and/CC where/WRB we/PRP stand/VBD when/WRB it/PRP comes/VBZ to/TO bringing/VBG people/NNS together/RB to/TO get/VB things/NNS done/NN ,/, and/CC you/PRP tell/NN them/PRP that/IN the/DT core/NN of/IN this/DT campaign/NN is/VBZ the/DT inherent/JJ trust/NN in/IN the/DT American/JJ people/NNS ,/, I/PRP believe/VBP it/PRP doesn't/VBD matter/NN what/WP political/JJ party/NN they/PRP 're/VBP in/IN ./.
+
 (ROOT
   (S
     (NP (NNP Minutes))
@@ -1218,66 +1268,65 @@ punct(hope-32, .''-46)
     (PRN (, ,)
       (S
         (NP (PRP he))
-        (VP (VBD added) (: :)
-          (NP
-            (NP (CD ``When))
-            (SBAR
-              (S
-                (NP (PRP you))
-                (VP
-                  (VP (VB go)
-                    (PRT (RP out))
-                    (ADVP (RB there)))
-                  (CC and)
-                  (VP (VB tell)
-                    (NP
-                      (NP (DT the) (NNS folks))
-                      (SBAR
+        (VP
+          (VP (VBD added) (: :)
+            (S
+              (NP
+                (NP (CD ``When))
+                (SBAR
+                  (S
+                    (NP (PRP you))
+                    (VP
+                      (VP (VB go)
+                        (PRT (RP out))
+                        (ADVP (RB there)))
+                      (CC and)
+                      (VP (VB tell)
+                        (NP (DT the) (NNS folks))
                         (SBAR
-                          (WHADVP (WRB where))
-                          (S
-                            (NP (PRP we))
-                            (VP (VBD stand)
-                              (PP (IN on)
-                                (NP (DT the) (NNS issues))))))
-                        (CC and)
-                        (SBAR
-                          (WHADVP (WRB where))
-                          (S
-                            (NP (PRP we))
-                            (VP (VBD stand)
-                              (SBAR
-                                (WHADVP (WRB when))
-                                (S
+                          (SBAR
+                            (WHADVP (WRB where))
+                            (S
+                              (NP (PRP we))
+                              (VP (VBD stand)
+                                (PP (IN on)
+                                  (NP (DT the) (NNS issues))))))
+                          (CC and)
+                          (SBAR
+                            (WHADVP (WRB where))
+                            (S
+                              (NP (PRP we))
+                              (VP (VBD stand)
+                                (SBAR
+                                  (WHADVP (WRB when))
                                   (S
                                     (NP (PRP it))
                                     (VP (VBZ comes)
                                       (PP (TO to)
                                         (S
                                           (VP (VBG bringing)
-                                            (NP (NNS people)))))
-                                      (ADVP (RB together))
-                                      (S
-                                        (VP (TO to)
-                                          (VP (VB get)
-                                            (NP (NNS things) (NN done)))))))
-                                  (, ,)
-                                  (CC and)
-                                  (S
-                                    (NP (PRP you))
-                                    (ADJP (NN tell))))))))))
-                    (NP (PRP them))
-                    (SBAR (IN that)
-                      (S
-                        (NP
-                          (NP (DT the) (NN core))
-                          (PP (IN of)
-                            (NP (DT this) (NN campaign))))
-                        (VP (VBZ is)
-                          (NP
-                            (NP (DT the) (JJ inherent) (NN trust))
-                            (PP (IN in)
-                              (NP (DT the) (JJ American) (NNS people))))))))))))))
+                                            (NP (NNS people))
+                                            (ADVP (RB together)))))))))))))))))
+              (VP (TO to)
+                (VP (VB get)
+                  (NP (NNS things) (NN done))))))
+          (, ,)
+          (CC and)
+          (VP
+            (NP (PRP you))
+            (PP (NN tell)
+              (NP (PRP them)))
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (NN core))
+                  (PP (IN of)
+                    (NP (DT this) (NN campaign))))
+                (VP (VBZ is)
+                  (NP
+                    (NP (DT the) (JJ inherent) (NN trust))
+                    (PP (IN in)
+                      (NP (DT the) (JJ American) (NNS people))))))))))
       (, ,))
     (NP (PRP I))
     (VP (VBP believe)
@@ -1300,7 +1349,7 @@ advmod(believe-58, later-2)
 nsubj(added-5, he-4)
 parataxis(believe-58, added-5)
 dobj(added-5, ``When-7)
-parataxis(added-5, ``When-7)
+nsubj(get-34, ``When-7)
 nsubj(go-9, you-8)
 nsubj(tell-13, you-8)
 rcmod(``When-7, go-9)
@@ -1309,31 +1358,31 @@ advmod(go-9, there-11)
 rcmod(``When-7, tell-13)
 conj_and(go-9, tell-13)
 det(folks-15, the-14)
-iobj(tell-13, folks-15)
+dobj(tell-13, folks-15)
 advmod(stand-18, where-16)
 nsubj(stand-18, we-17)
-dep(folks-15, stand-18)
+ccomp(tell-13, stand-18)
 det(issues-21, the-20)
 prep_on(stand-18, issues-21)
 advmod(stand-25, where-23)
 nsubj(stand-25, we-24)
-dep(folks-15, stand-25)
+ccomp(tell-13, stand-25)
 conj_and(stand-18, stand-25)
 advmod(comes-28, when-26)
 nsubj(comes-28, it-27)
-xsubj(get-34, it-27)
 advcl(stand-25, comes-28)
 prepc_to(comes-28, bringing-30)
 dobj(bringing-30, people-31)
-advmod(comes-28, together-32)
+advmod(bringing-30, together-32)
 aux(get-34, to-33)
-xcomp(comes-28, get-34)
+parataxis(added-5, get-34)
+xcomp(added-5, get-34)
 nn(done-36, things-35)
 dobj(get-34, done-36)
-dep(tell-40, you-39)
-advcl(stand-25, tell-40)
-conj_and(comes-28, tell-40)
-dobj(tell-13, them-41)
+conj_and(added-5, you-39)
+parataxis(believe-58, you-39)
+prep(you-39, tell-40)
+dep(tell-40, them-41)
 mark(trust-51, that-42)
 det(core-44, the-43)
 nsubj(trust-51, core-44)
@@ -1342,7 +1391,7 @@ prep_of(core-44, campaign-47)
 cop(trust-51, is-48)
 det(trust-51, the-49)
 amod(trust-51, inherent-50)
-ccomp(tell-13, trust-51)
+ccomp(you-39, trust-51)
 det(people-55, the-53)
 amod(people-55, American-54)
 prep_in(trust-51, people-55)
@@ -1357,6 +1406,8 @@ prep_in('re-66, party-64)
 nsubj('re-66, they-65)
 rcmod(matter-61, 're-66)
 
+They/PRP 're/VBP going/VBG to/TO come/VB our/PRP$ way/NN .''/.
+
 (ROOT
   (S
     (NP (PRP They))
@@ -1369,7 +1420,7 @@ rcmod(matter-61, 're-66)
     (. .'')))
 
 nsubj(going-3, They-1)
-xsubj(come-5, They-1)
+nsubj(come-5, They-1)
 aux(going-3, 're-2)
 root(ROOT-0, going-3)
 aux(come-5, to-4)
@@ -1378,56 +1429,53 @@ poss(way-7, our-6)
 dobj(come-5, way-7)
 punct(going-3, .''-8)
 
+In/IN Chattanooga/NNP ,/, Bush/NNP repeatedly/RB needled/JJ Gore/NNP ,/, which/WDT was/VBD much/RB of/IN the/DT point/NN of/IN going/VBG to/TO Tennessee/VB ,/, where/WRB Gore/NNP is/VBZ not/RB at/IN all/DT certain/JJ to/TO prevail/VB on/IN Tuesday/NNP ./.
+
 (ROOT
   (S
     (PP (IN In)
-      (NP (NNP Chattanooga)))
+      (NP
+        (NP (NNP Chattanooga) (, ,) (NNP Bush))
+        (RRC
+          (ADVP (RB repeatedly))
+          (NP (JJ needled) (NNP Gore)))))
     (, ,)
-    (NP (NNP Bush))
-    (VP
-      (ADVP (RB repeatedly))
-      (S
-        (NP
-          (NP (JJ needled) (NNP Gore))
-          (, ,)
-          (SBAR
-            (WHNP (WDT which))
-            (S
-              (VP (VBD was)
-                (NP
-                  (NP (RB much))
-                  (PP (IN of)
-                    (NP
-                      (NP (DT the) (NN point))
-                      (PP (IN of)
-                        (S
-                          (VP (VBG going)
-                            (S
-                              (VP (TO to)
-                                (VP (VB Tennessee))))))))))
-                (, ,)
-                (SBAR
-                  (WHADVP (WRB where))
+    (NP (WDT which))
+    (VP (VBD was)
+      (NP
+        (NP (RB much))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN point))
+            (PP (IN of)
+              (S
+                (VP (VBG going)
                   (S
-                    (NP (NNP Gore))
-                    (VP (VBZ is) (RB not)
-                      (ADVP (IN at) (DT all))
-                      (ADJP (JJ certain)
-                        (S
-                          (VP (TO to)
-                            (VP (VB prevail)
-                              (PP (IN on)
-                                (NP (NNP Tuesday))))))))))))))))
+                    (VP (TO to)
+                      (VP (VB Tennessee))))))))))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (NNP Gore))
+          (VP (VBZ is) (RB not)
+            (ADVP (IN at) (DT all))
+            (ADJP (JJ certain)
+              (S
+                (VP (TO to)
+                  (VP (VB prevail)
+                    (PP (IN on)
+                      (NP (NNP Tuesday)))))))))))
     (. .)))
 
-prep_in(repeatedly-5, Chattanooga-2)
-nsubj(repeatedly-5, Bush-4)
-root(ROOT-0, repeatedly-5)
+nn(Bush-4, Chattanooga-2)
+prep_in(much-11, Bush-4)
+advmod(Gore-7, repeatedly-5)
 amod(Gore-7, needled-6)
-dep(repeatedly-5, Gore-7)
-nsubj(much-11, Gore-7)
+rcmod(Bush-4, Gore-7)
+nsubj(much-11, which-9)
 cop(much-11, was-10)
-rcmod(Gore-7, much-11)
+root(ROOT-0, much-11)
 det(point-14, the-13)
 prep_of(much-11, point-14)
 prepc_of(point-14, going-16)
@@ -1435,7 +1483,7 @@ aux(Tennessee-18, to-17)
 xcomp(going-16, Tennessee-18)
 advmod(certain-26, where-20)
 nsubj(certain-26, Gore-21)
-xsubj(prevail-28, Gore-21)
+nsubj(prevail-28, Gore-21)
 cop(certain-26, is-22)
 neg(certain-26, not-23)
 advmod(certain-26, at-24)
@@ -1444,6 +1492,8 @@ advcl(much-11, certain-26)
 aux(prevail-28, to-27)
 xcomp(certain-26, prevail-28)
 prep_on(prevail-28, Tuesday-30)
+
+The/DT Texas/NNP governor/NN claimed/VBD that/IN Gore/NNP 's/POS decades/NNS of/IN experience/NN in/IN Washington/NNP had/VBD estranged/VBN him/PRP from/IN the/DT rest/NN of/IN the/DT country/NN by/IN making/VBG him/PRP too/RB trusting/VBG of/IN federal/JJ government/NN and/CC too/RB fond/VBP of/IN federal/JJ spending/NN ./.
 
 (ROOT
   (S
@@ -1514,6 +1564,8 @@ conj_and(claimed-4, fond-32)
 amod(spending-35, federal-34)
 prep_of(fond-32, spending-35)
 
+``My/JJ opponent/NN vows/VBZ to/TO carry/VB his/PRP$ home/NN state/NN ,''/NNP Bush/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -1529,7 +1581,7 @@ prep_of(fond-32, spending-35)
 
 amod(opponent-2, ``My-1)
 nsubj(vows-3, opponent-2)
-xsubj(carry-5, opponent-2)
+nsubj(carry-5, opponent-2)
 dep(said-11, vows-3)
 aux(carry-5, to-4)
 xcomp(vows-3, carry-5)
@@ -1539,6 +1591,8 @@ dobj(carry-5, state-8)
 nn(Bush-10, ,''-9)
 nsubj(said-11, Bush-10)
 root(ROOT-0, said-11)
+
+``He/NNP may/MD win/VB Washington/NNP ,/, D.C./NNP ,/, but/CC he/PRP 's/VBZ not/RB going/VBG to/TO win/VB Tennessee/NNP ./.
 
 (ROOT
   (S
@@ -1568,13 +1622,15 @@ root(ROOT-0, win-3)
 dobj(win-3, Washington-4)
 appos(Washington-4, D.C.-6)
 nsubj(going-12, he-9)
-xsubj(win-14, he-9)
+nsubj(win-14, he-9)
 aux(going-12, 's-10)
 neg(going-12, not-11)
 conj_but(win-3, going-12)
 aux(win-14, to-13)
 xcomp(going-12, win-14)
 dobj(win-14, Tennessee-15)
+
+``He/PRP forgot/VBD his/PRP$ roots/NNS ,''/IN Bush/NNP added/VBD ./.
 
 (ROOT
   (S
@@ -1594,6 +1650,8 @@ dobj(forgot-2, roots-4)
 mark(added-7, ,''-5)
 nsubj(added-7, Bush-6)
 advcl(forgot-2, added-7)
+
+``He/IN forgot/NN where/WRB he/PRP 's/VBZ from/IN ./.
 
 (ROOT
   (FRAG
@@ -1615,6 +1673,8 @@ advmod('s-5, where-3)
 nsubj('s-5, he-4)
 rcmod(forgot-2, 's-5)
 
+He/PRP trusts/VBZ Washington/NNP ./.
+
 (ROOT
   (S
     (NP (PRP He))
@@ -1625,6 +1685,8 @@ rcmod(forgot-2, 's-5)
 nsubj(trusts-2, He-1)
 root(ROOT-0, trusts-2)
 dobj(trusts-2, Washington-3)
+
+We/PRP trust/NN the/DT people/NNS .''/.
 
 (ROOT
   (NP
@@ -1639,6 +1701,8 @@ dep(We-1, trust-2)
 det(people-4, the-3)
 dep(trust-2, people-4)
 punct(We-1, .''-5)
+
+NYT-11-06-00/CD 1826EST/CD
 
 (ROOT
   (FRAG

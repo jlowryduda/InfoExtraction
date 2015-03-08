@@ -1,3 +1,5 @@
+APW20001019.0539.0213/DT NEWS/NNP STORY/NNPS 2000-10-19/CD 07:00:43/CD
+
 (ROOT
   (NP
     (NP (DT APW20001019.0539.0213))
@@ -10,10 +12,14 @@ dep(APW20001019.0539.0213-1, STORY-3)
 num(07:00:43-5, 2000-10-19-4)
 dep(APW20001019.0539.0213-1, 07:00:43-5)
 
+CAR-F1-Malaysian-GP/NNP
+
 (ROOT
   (NP (NNP CAR-F1-Malaysian-GP)))
 
 root(ROOT-0, CAR-F1-Malaysian-GP-1)
+
+Schumacher/NNP Looks/NNP Ahead/NNP and/CC Behind/NNP
 
 (ROOT
   (NP
@@ -26,11 +32,13 @@ nn(Ahead-3, Looks-2)
 root(ROOT-0, Ahead-3)
 conj_and(Ahead-3, Behind-5)
 
+SEPANG/NNP ,/, Malaysia/NNP [AP/NNP ]/, _/DT Michael/NNP Schumacher/NNP is/VBZ still/RB celebrating/VBG Ferrari/NNP 's/POS first/JJ Formula/NNP One/CD title/NN since/IN 1979/CD ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP SEPANG) (, ,) (NNP Malaysia) (NNP (AP))
-      (PP (, ))
+      (NP (NNP SEPANG) (, ,) (NNP Malaysia) (NNP [AP))
+      (PP (, ])
         (NP (DT _) (NNP Michael) (NNP Schumacher))))
     (VP (VBZ is)
       (ADVP (RB still))
@@ -43,13 +51,13 @@ conj_and(Ahead-3, Behind-5)
             (NP (CD 1979))))))
     (. .)))
 
-nn((AP-4, SEPANG-1)
-appos((AP-4, Malaysia-3)
-nsubj(celebrating-11, (AP-4)
-punct(Schumacher-8, )-5)
+nn([AP-4, SEPANG-1)
+appos([AP-4, Malaysia-3)
+nsubj(celebrating-11, [AP-4)
+punct(Schumacher-8, ]-5)
 det(Schumacher-8, _-6)
 nn(Schumacher-8, Michael-7)
-prep((AP-4, Schumacher-8)
+prep([AP-4, Schumacher-8)
 aux(celebrating-11, is-9)
 advmod(celebrating-11, still-10)
 root(ROOT-0, celebrating-11)
@@ -59,6 +67,8 @@ nn(title-17, Formula-15)
 num(title-17, One-16)
 dobj(celebrating-11, title-17)
 prep_since(title-17, 1979-19)
+
+``It/PRP was/VBD a/DT great/JJ relief/NN crossing/VBG the/DT line/NN at/IN Suzuka/NNP ,''/NNP Schumacher/NNP said/VBD of/IN the/DT Oct/NNP ./.
 
 (ROOT
   (S
@@ -91,6 +101,8 @@ vmod(Schumacher-12, said-13)
 det(Oct-16, the-15)
 prep_of(said-13, Oct-16)
 
+8/CD Japanese/JJ Grand/NN Prix/NNP ./.
+
 (ROOT
   (NP
     (NP (CD 8) (JJ Japanese) (NN Grand))
@@ -101,6 +113,8 @@ num(Grand-3, 8-1)
 amod(Grand-3, Japanese-2)
 root(ROOT-0, Grand-3)
 appos(Grand-3, Prix-4)
+
+``There/RB has/VBZ been/VBN a/DT couple/NN of/IN tons/NNS of/IN stone/NN falling/VBG away/NN ./.
 
 (ROOT
   (S
@@ -126,6 +140,8 @@ nn(away-11, stone-9)
 amod(away-11, falling-10)
 prep_of(tons-7, away-11)
 
+I/PRP 'm/VBP unable/JJ to/TO find/VB the/DT exact/JJ words/NNS to/TO express/VB in/IN a/DT proper/NN way/NN what/WP it/PRP was/VBD like/JJ .''/.
+
 (ROOT
   (S
     (NP (PRP I))
@@ -150,13 +166,14 @@ prep_of(tons-7, away-11)
     (. .'')))
 
 nsubj(unable-3, I-1)
-xsubj(find-5, I-1)
+nsubj(find-5, I-1)
 cop(unable-3, 'm-2)
 root(ROOT-0, unable-3)
 aux(find-5, to-4)
 xcomp(unable-3, find-5)
 det(words-8, the-6)
 amod(words-8, exact-7)
+dobj(find-5, words-8)
 nsubj(express-10, words-8)
 aux(express-10, to-9)
 xcomp(find-5, express-10)
@@ -168,6 +185,8 @@ nsubj(like-18, it-16)
 cop(like-18, was-17)
 rcmod(way-14, like-18)
 punct(unable-3, .''-19)
+
+``The/DT pressure/NN could/MD not/RB have/VB been/VBN higher/RBR this/DT year/NN ./.
 
 (ROOT
   (S
@@ -188,6 +207,8 @@ cop(year-9, been-6)
 advmod(year-9, higher-7)
 det(year-9, this-8)
 root(ROOT-0, year-9)
+
+Now/RB that/IN we/PRP have/VBP fulfilled/VBN our/PRP$ main/NN wish/NN ,/, the/DT pressure/NN will/MD be/VB less/RBR .''/JJ
 
 (ROOT
   (S
@@ -217,6 +238,8 @@ aux(.''-15, will-12)
 cop(.''-15, be-13)
 advmod(.''-15, less-14)
 root(ROOT-0, .''-15)
+
+Schumacher/NNP ,/, the/DT German/NNP star/NN who/WP won/VBP titles/NNS in/IN 1994/CD and/CC 1995/CD with/IN Benetton/NNP ,/, enters/NNS Sunday/NNP 's/POS season-ending/JJ Malaysian/JJ Grand/NNP Prix/NNP with/IN an/DT insurmountable/JJ 12-point/NN lead/NN over/IN two-time/JJ defending/JJ champion/NN Mika/NNP Hakkinen/NNP of/IN McLaren/NNP ./.
 
 (ROOT
   (S
@@ -281,6 +304,8 @@ nn(Hakkinen-33, Mika-32)
 prep_over(enters-16, Hakkinen-33)
 prep_of(Hakkinen-33, McLaren-35)
 
+``Now/NN that/IN we/PRP have/VBP achieved/VBN the/DT first/JJ target/NN ,/, the/DT next/JJ target/NN we/PRP would/MD like/VB is/VBZ the/DT constructors/NNS '/POS championship/NN ,''/, Schumacher/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -332,6 +357,8 @@ punct(said-23, ,''-21)
 nsubj(said-23, Schumacher-22)
 root(ROOT-0, said-23)
 
+``It/NNP is/VBZ in/IN our/PRP$ hands/NNS ./.
+
 (ROOT
   (S
     (NP (NNP ``It))
@@ -344,6 +371,8 @@ nsubj(is-2, ``It-1)
 root(ROOT-0, is-2)
 poss(hands-5, our-4)
 prep_in(is-2, hands-5)
+
+We/PRP just/RB need/VBP a/DT fourth/JJ place/NN ,/, which/WDT is/VBZ well/RB within/IN our/PRP$ means/NNS .''/.
 
 (ROOT
   (S
@@ -375,6 +404,8 @@ poss(means-13, our-12)
 prep_within(is-9, means-13)
 punct(need-3, .''-14)
 
+Ferrari/NNP leads/VBZ McLaren/VBN by/IN 13/CD points/NNS ./.
+
 (ROOT
   (S
     (NP (NNP Ferrari))
@@ -389,6 +420,8 @@ root(ROOT-0, leads-2)
 dep(leads-2, McLaren-3)
 num(points-6, 13-5)
 prep_by(McLaren-3, points-6)
+
+Hakkinen/NNP and/CC McLaren/NNP teammate/NN David/NNP Coulthard/NNP need/VBP to/TO finish/VB at/IN least/JJS first/JJ and/CC third/JJ and/CC shut/JJ out/IN Ferrari/NNP grab/NN snatch/NN the/DT constructors/NNS '/POS title/NN ./.
 
 (ROOT
   (S
@@ -419,13 +452,13 @@ prep_by(McLaren-3, points-6)
     (. .)))
 
 nsubj(need-7, Hakkinen-1)
-xsubj(finish-9, Hakkinen-1)
+nsubj(finish-9, Hakkinen-1)
 nn(Coulthard-6, McLaren-3)
 nn(Coulthard-6, teammate-4)
 nn(Coulthard-6, David-5)
 conj_and(Hakkinen-1, Coulthard-6)
 nsubj(need-7, Coulthard-6)
-xsubj(finish-9, Coulthard-6)
+nsubj(finish-9, Coulthard-6)
 root(ROOT-0, need-7)
 aux(finish-9, to-8)
 xcomp(need-7, finish-9)
@@ -442,6 +475,8 @@ conj_and(first-12, snatch-20)
 det(constructors-22, the-21)
 poss(title-24, constructors-22)
 dep(first-12, title-24)
+
+However/RB ,/, if/IN Schumacher/NNP and/CC teammate/VB Rubens/NNPS Barrichello/NNP score/NN at/IN least/JJS three/CD points/NNS ,/, or/CC if/IN a/DT McLaren/NNP does/VBZ not/RB win/VB the/DT race/NN ,/, Ferrari/NNP will/MD have/VB the/DT constructor/NN and/CC driving/VBG double/NN for/IN the/DT first/JJ time/NN since/IN 1979/CD ,/, when/WRB Jody/NNP Scheckter/NNP paced/VBD Ferrari/NNP to/TO both/DT victories/NNS ./.
 
 (ROOT
   (S
@@ -537,6 +572,8 @@ dobj(paced-43, Ferrari-44)
 det(victories-47, both-46)
 prep_to(paced-43, victories-47)
 
+``It/NNP has/VBZ taken/VBN five/CD years/NNS at/IN Ferrari/NNP to/TO be/VB competitive/JJ from/IN the/DT first/JJ race/NN until/IN the/DT last/JJ ,''/NN Schumacher/NNP said/VBD ./.
+
 (ROOT
   (S
     (NP (NNP ``It))
@@ -559,7 +596,7 @@ prep_to(paced-43, victories-47)
     (. .)))
 
 nsubj(taken-3, ``It-1)
-xsubj(competitive-10, ``It-1)
+nsubj(competitive-10, ``It-1)
 aux(taken-3, has-2)
 root(ROOT-0, taken-3)
 num(years-5, five-4)
@@ -577,6 +614,8 @@ amod(Schumacher-19, last-17)
 nn(Schumacher-19, ,''-18)
 nsubj(said-20, Schumacher-19)
 advcl(competitive-10, said-20)
+
+``Now/NN that/IN we/PRP have/VBP it/PRP ,/, it/PRP is/VBZ nice/RB to/TO be/VB there/RB and/CC we/PRP have/VBP to/TO take/VB advantage/NN of/IN the/DT situation/NN .''/.
 
 (ROOT
   (S
@@ -615,14 +654,14 @@ nsubj(have-4, we-3)
 dep(``Now-1, have-4)
 dobj(have-4, it-5)
 nsubj(nice-9, it-7)
-xsubj(be-11, it-7)
+nsubj(be-11, it-7)
 cop(nice-9, is-8)
 root(ROOT-0, nice-9)
 aux(be-11, to-10)
 xcomp(nice-9, be-11)
 advmod(be-11, there-12)
 nsubj(have-15, we-14)
-xsubj(take-17, we-14)
+nsubj(take-17, we-14)
 conj_and(nice-9, have-15)
 aux(take-17, to-16)
 xcomp(have-15, take-17)
@@ -630,6 +669,8 @@ dobj(take-17, advantage-18)
 det(situation-21, the-20)
 prep_of(advantage-18, situation-21)
 punct(nice-9, .''-22)
+
+Schumacher/NNP has/VBZ eight/VBN victories/NNS this/DT year/NN and/CC 43/CD overall/NN ,/, second/JJ only/RB to/TO Alain/VB Prost/NNP [53/CD ]/NN on/IN the/DT career/NN list/NN ./.
 
 (ROOT
   (S
@@ -650,7 +691,7 @@ punct(nice-9, .''-22)
                   (VP (TO to)
                     (VP (VB Alain)
                       (NP
-                        (NP (NNP Prost) (CD (53) (NN )))
+                        (NP (NNP Prost) (CD [53) (NN ]))
                         (PP (IN on)
                           (NP (DT the) (NN career))))))))
               (NN list))))))
@@ -669,12 +710,14 @@ amod(list-21, second-11)
 advmod(second-11, only-12)
 aux(Alain-14, to-13)
 xcomp(second-11, Alain-14)
-nn()-17, Prost-15)
-num()-17, (53-16)
-dobj(Alain-14, )-17)
+nn(]-17, Prost-15)
+num(]-17, [53-16)
+dobj(Alain-14, ]-17)
 det(career-20, the-19)
-prep_on()-17, career-20)
+prep_on(]-17, career-20)
 appos(overall-9, list-21)
+
+``I/PRP 'm/VBP still/RB young/JJ ./.
 
 (ROOT
   (S
@@ -688,6 +731,8 @@ nsubj(young-4, ``I-1)
 cop(young-4, 'm-2)
 advmod(young-4, still-3)
 root(ROOT-0, young-4)
+
+I/PRP 'm/VBP only/RB 31/CD years/NNS old/JJ ./.
 
 (ROOT
   (S
@@ -705,6 +750,8 @@ num(years-5, 31-4)
 npadvmod(old-6, years-5)
 root(ROOT-0, old-6)
 
+I/PRP enjoy/VBP racing/VBG ./.
+
 (ROOT
   (S
     (NP (PRP I))
@@ -716,6 +763,8 @@ root(ROOT-0, old-6)
 nsubj(enjoy-2, I-1)
 root(ROOT-0, enjoy-2)
 xcomp(enjoy-2, racing-3)
+
+I/PRP enjoy/VBP working/VBG with/IN Ferrari/NNP ,''/NNP Schumacher/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -738,6 +787,8 @@ nn(Schumacher-7, ,''-6)
 nsubj(said-8, Schumacher-7)
 advcl(working-3, said-8)
 
+``I/NNP simply/RB want/VBP to/TO enjoy/VB more/RBR of/IN this/DT time/NN like/IN we/PRP had/VBD at/IN Suzuka/NNP ./.
+
 (ROOT
   (S
     (NP (NNP ``I))
@@ -759,7 +810,7 @@ advcl(working-3, said-8)
     (. .)))
 
 nsubj(want-3, ``I-1)
-xsubj(enjoy-5, ``I-1)
+nsubj(enjoy-5, ``I-1)
 advmod(want-3, simply-2)
 root(ROOT-0, want-3)
 aux(enjoy-5, to-4)
@@ -771,6 +822,8 @@ mark(had-12, like-10)
 nsubj(had-12, we-11)
 advcl(enjoy-5, had-12)
 prep_at(had-12, Suzuka-14)
+
+And/CC I/PRP am/VBP sure/JJ we/PRP will/MD and/CC why/JJ not/RB enjoy/VB it/PRP together/RB .''/.
 
 (ROOT
   (S (CC And)
@@ -806,6 +859,8 @@ dobj(enjoy-10, it-11)
 advmod(enjoy-10, together-12)
 punct(sure-4, .''-13)
 
+Schumacher/NNP has/VBZ a/DT contract/NN with/IN the/DT Italian/JJ team/NN through/IN 2002/CD ./.
+
 (ROOT
   (S
     (NP (NNP Schumacher))
@@ -826,6 +881,8 @@ det(team-8, the-6)
 amod(team-8, Italian-7)
 prep_with(contract-4, team-8)
 prep_through(has-2, 2002-10)
+
+``It/NNP 's/POS too/RB early/JJ to/TO start/VB speculating/VBG about/IN what/WP I/PRP will/MD do/VB after/IN 2002/CD ,''/, Schumacher/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -866,6 +923,8 @@ punct(Schumacher-16, ,''-15)
 nsubj(said-17, Schumacher-16)
 root(ROOT-0, said-17)
 
+``I/NNP 'll/MD start/VB thinking/VBG about/IN it/PRP at/IN the/DT end/NN of/IN 2001/CD or/CC at/IN the/DT beginning/NN of/IN 2002/CD ./.
+
 (ROOT
   (S
     (NP (NNP ``I))
@@ -902,6 +961,8 @@ prep_at(thinking-4, beginning-15)
 conj_or(end-9, beginning-15)
 prep_of(beginning-15, 2002-17)
 
+Not/RB before/RB .''/.
+
 (ROOT
   (FRAG (RB Not)
     (ADVP (RB before))
@@ -910,6 +971,8 @@ prep_of(beginning-15, 2002-17)
 root(ROOT-0, Not-1)
 dep(Not-1, before-2)
 dep(Not-1, .''-3)
+
+A/DT practice/NN session/NN is/VBZ set/VBN for/IN Friday/NNP ,/, and/CC the/DT drivers/NNS will/MD qualify/VB Saturday/NNP for/IN Sunday/NNP 's/POS 56-lap/JJ race/NN on/IN 3.44-mile/JJ circuit/NN ./.
 
 (ROOT
   (S
@@ -952,6 +1015,8 @@ prep_for(Saturday-14, race-19)
 amod(circuit-22, 3.44-mile-21)
 prep_on(qualify-13, circuit-22)
 
+``I/NNP would/MD like/VB to/TO win/VB the/DT race/NN ,''/, Schumacher/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -968,7 +1033,7 @@ prep_on(qualify-13, circuit-22)
     (. .)))
 
 nsubj(like-3, ``I-1)
-xsubj(win-5, ``I-1)
+nsubj(win-5, ``I-1)
 aux(like-3, would-2)
 ccomp(said-10, like-3)
 aux(win-5, to-4)
@@ -978,6 +1043,8 @@ dobj(win-5, race-7)
 punct(said-10, ,''-8)
 nsubj(said-10, Schumacher-9)
 root(ROOT-0, said-10)
+
+``I/NNP see/VBZ this/DT as/IN a/DT race/NN for/IN fun/NN .''/.
 
 (ROOT
   (S

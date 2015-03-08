@@ -1,3 +1,5 @@
+APW20001124.1811.0405/DT NEWS/NNP STORY/NNPS 2000-11-24/CD 18:11:15/CD
+
 (ROOT
   (NP
     (NP (DT APW20001124.1811.0405))
@@ -10,10 +12,14 @@ dep(APW20001124.1811.0405-1, STORY-3)
 num(18:11:15-5, 2000-11-24-4)
 dep(APW20001124.1811.0405-1, 18:11:15-5)
 
+Germany-Music-Piracy/JJ
+
 (ROOT
   (ADJP (JJ Germany-Music-Piracy)))
 
 root(ROOT-0, Germany-Music-Piracy-1)
+
+Hewlett-Packard/NNP To/TO Pay/NNP German/NNP Fees/.
 
 (ROOT
   (NP
@@ -27,25 +33,29 @@ nn(German-4, Pay-3)
 prep_to(Hewlett-Packard-1, German-4)
 punct(Hewlett-Packard-1, Fees-5)
 
+FRANKFURT/NNP ,/, Germany/NNP [AP/NNP ]/, _/DT Computer/NNP giant/NN Hewlett-Packard/NNP Corp/NNP ./.
+
 (ROOT
   (NP
     (NP (NNP FRANKFURT))
     (, ,)
     (NP
-      (NP (NNP Germany) (NNP (AP))
-      (PP (, ))
+      (NP (NNP Germany) (NNP [AP))
+      (PP (, ])
         (NP (DT _) (NNP Computer) (NN giant) (NNP Hewlett-Packard) (NNP Corp))))
     (. .)))
 
 root(ROOT-0, FRANKFURT-1)
-nn((AP-4, Germany-3)
-appos(FRANKFURT-1, (AP-4)
-punct(Corp-10, )-5)
+nn([AP-4, Germany-3)
+appos(FRANKFURT-1, [AP-4)
+punct(Corp-10, ]-5)
 det(Corp-10, _-6)
 nn(Corp-10, Computer-7)
 nn(Corp-10, giant-8)
 nn(Corp-10, Hewlett-Packard-9)
-prep((AP-4, Corp-10)
+prep([AP-4, Corp-10)
+
+has/VBZ become/VBN the/DT first/JJ company/NN to/TO be/VB snagged/VBN by/IN a/DT German/NNP law/NN requiring/VBG firms/NNS to/TO pay/VB fees/NNS for/IN making/VBG CD/NN burners/NNS that/WDT are/VBP being/VBG used/VBN to/TO illegally/RB lift/VB the/DT latest/JJS hits/NNS off/IN the/DT World/NNP Wide/NNP Web/NNP ./.
 
 (ROOT
   (S
@@ -86,19 +96,20 @@ prep((AP-4, Corp-10)
                                                     (NP (DT the) (NNP World) (NNP Wide) (NNP Web))))))))))))))))))))))))))
     (. .)))
 
-aux(company-5, has-1)
-cop(company-5, become-2)
+aux(become-2, has-1)
+root(ROOT-0, become-2)
 det(company-5, the-3)
 amod(company-5, first-4)
-root(ROOT-0, company-5)
+xcomp(become-2, company-5)
 aux(snagged-8, to-6)
 auxpass(snagged-8, be-7)
-vmod(company-5, snagged-8)
+vmod(become-2, snagged-8)
 det(law-12, a-10)
 nn(law-12, German-11)
 agent(snagged-8, law-12)
 xcomp(snagged-8, requiring-13)
 dobj(requiring-13, firms-14)
+nsubj(pay-16, firms-14)
 aux(pay-16, to-15)
 xcomp(requiring-13, pay-16)
 dobj(pay-16, fees-17)
@@ -106,7 +117,7 @@ prepc_for(pay-16, making-19)
 nn(burners-21, CD-20)
 dobj(making-19, burners-21)
 nsubjpass(used-25, burners-21)
-xsubj(lift-28, burners-21)
+nsubj(lift-28, burners-21)
 aux(used-25, are-23)
 auxpass(used-25, being-24)
 rcmod(burners-21, used-25)
@@ -120,6 +131,8 @@ det(Web-36, the-33)
 nn(Web-36, World-34)
 nn(Web-36, Wide-35)
 prep_off(lift-28, Web-36)
+
+The/DT case/NN sets/VBZ the/DT stage/NN for/IN other/JJ European/JJ countries/NNS to/TO possibly/RB adopt/VB similar/JJ rules/NNS to/TO stem/VB an/DT epidemic/JJ that/WDT cost/VB the/DT music/NN industry/NN an/, estimated/VBD $5/CD billion/CD last/JJ year/NN ./.
 
 (ROOT
   (S
@@ -158,6 +171,7 @@ det(case-2, The-1)
 nsubj(sets-3, case-2)
 root(ROOT-0, sets-3)
 det(stage-5, the-4)
+dobj(sets-3, stage-5)
 nsubj(adopt-12, stage-5)
 amod(countries-9, other-7)
 amod(countries-9, European-8)
@@ -166,6 +180,7 @@ aux(adopt-12, to-10)
 advmod(adopt-12, possibly-11)
 xcomp(sets-3, adopt-12)
 amod(rules-14, similar-13)
+dobj(adopt-12, rules-14)
 nsubj(stem-16, rules-14)
 aux(stem-16, to-15)
 xcomp(adopt-12, stem-16)
@@ -182,6 +197,8 @@ number(billion-27, $5-26)
 dobj(estimated-25, billion-27)
 amod(year-29, last-28)
 tmod(estimated-25, year-29)
+
+But/CC analysts/NNS blasted/VBD the/DT agreement/NN reached/VBD Thursday/JJ as/IN another/DT example/NN of/IN Germany/NNP 's/POS notorious/JJ thatch/NN of/IN regulations/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -218,6 +235,8 @@ amod(thatch-15, notorious-14)
 prep_of(example-10, thatch-15)
 prep_of(thatch-15, regulations-17)
 
+``The/JJ manufacturers/NNS are/VBP scapegoats/NNS ,''/, said/VBD Robert/NNP Labatt/NNP ,/, a/DT new/JJ media/NN analyst/NN at/IN research/NN group/NN Gartner/NNP ./.
+
 (ROOT
   (SINV
     (S
@@ -250,6 +269,8 @@ appos(Labatt-8, analyst-13)
 nn(Gartner-17, research-15)
 nn(Gartner-17, group-16)
 prep_at(analyst-13, Gartner-17)
+
+``It/PRP 's/VBZ the/DT individual/JJ works/NNS of/IN art/NN ,/, books/NNS ,/, songs/NNS ,/, videos/NNS ,/, that/WDT need/VBP to/TO be/VB protected/VBN .''/.
 
 (ROOT
   (S
@@ -284,7 +305,7 @@ amod(works-5, individual-4)
 root(ROOT-0, works-5)
 prep_of(works-5, art-7)
 nsubj(need-16, art-7)
-xsubj(protected-19, art-7)
+nsubjpass(protected-19, art-7)
 appos(art-7, books-9)
 appos(art-7, songs-11)
 appos(art-7, videos-13)
@@ -293,6 +314,8 @@ aux(protected-19, to-17)
 auxpass(protected-19, be-18)
 xcomp(need-16, protected-19)
 punct(works-5, .''-20)
+
+Many/JJ of/IN Germany/NNP 's/POS neighbors/NNS ,/, including/VBG France/NNP ,/, Italy/NNP and/CC Greece/NNP ,/, have/VBP similar/JJ laws/NNS meant/NN to/TO protect/VB authors/NNS and/CC musicians/NNS by/IN nailing/VBG makers/NNS of/IN equipment/NN used/VBN to/TO violate/VB copyright/JJ laws/NNS ./.
 
 (ROOT
   (S
@@ -344,7 +367,7 @@ conj_and(France-8, Greece-12)
 root(ROOT-0, have-14)
 amod(laws-16, similar-15)
 nsubj(meant-17, laws-16)
-xsubj(protect-19, laws-16)
+nsubj(protect-19, laws-16)
 xcomp(have-14, meant-17)
 aux(protect-19, to-18)
 xcomp(meant-17, protect-19)
@@ -359,6 +382,8 @@ aux(violate-30, to-29)
 xcomp(used-28, violate-30)
 amod(laws-32, copyright-31)
 dobj(violate-30, laws-32)
+
+But/CC the/DT laws/NNS date/VBP back/RB decades/NNS and/CC focus/NN on/IN devices/NNS like/IN tape/NN recorders/NNS and/CC video/NN players/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -390,6 +415,8 @@ prep_like(devices-10, recorders-13)
 nn(players-16, video-15)
 prep_like(devices-10, players-16)
 conj_and(recorders-13, players-16)
+
+The/DT German/NNP case/NN against/IN Hewlett-Packard/NNP extends/VBZ Germany/NNP 's/POS pre-existing/JJ law/NN into/IN the/DT digital/JJ age/NN ,/, when/WRB such/JJ things/NNS as/IN CD/NN burners/NNS ,/, computer/NN printers/NNS ,/, hard/JJ drives/NNS and/CC high-speed/JJ modems/NNS make/VBP it/PRP easier/NN to/TO copy/VB and/CC transfer/VB copyrighted/JJ items/NNS ./.
 
 (ROOT
   (S
@@ -459,7 +486,8 @@ prep_as(things-18, modems-30)
 conj_and(burners-21, modems-30)
 rcmod(age-14, make-31)
 nsubj(easier-33, it-32)
-xsubj(copy-35, it-32)
+nsubj(copy-35, it-32)
+nsubj(transfer-37, it-32)
 xcomp(make-31, easier-33)
 aux(copy-35, to-34)
 xcomp(easier-33, copy-35)
@@ -467,6 +495,8 @@ xcomp(easier-33, transfer-37)
 conj_and(copy-35, transfer-37)
 amod(items-39, copyrighted-38)
 dobj(copy-35, items-39)
+
+According/VBG to/TO the/DT International/JJ Federation/NN of/IN the/DT Phonographic/NNP Industry/NNP ,/, about/IN 500/CD million/CD CDs/NNS are/VBP pirated/VBN annually/RB by/IN people/NNS creating/VBG their/PRP$ own/JJ CDs/NNS from/IN downloaded/JJ tunes/NNS off/IN the/DT Internet/NNP ./.
 
 (ROOT
   (S
@@ -519,6 +549,8 @@ prep_from(creating-20, tunes-26)
 det(Internet-29, the-28)
 prep_off(pirated-16, Internet-29)
 
+More/RB than/IN 25/CD million/CD pirated/JJ music/NN files/NNS are/VBP available/JJ online/NN ,/, the/DT group/NN estimates/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -546,6 +578,8 @@ det(estimates-14, the-12)
 nn(estimates-14, group-13)
 appos(online-10, estimates-14)
 
+All/NNP told/VBD ,/, that/WDT racked/VBD up/RP a/DT $1/JJ billion/CD for/IN Europe/NNP 's/POS $10/CD billion/CD music/NN industry/NN last/JJ year/NN ,/, and/CC cost/NN EU/IN governments/NNS around/IN $72/CD million/CD in/IN lost/VBN tax/IN revenues/NNS ,/, the/DT group/NN says/VBZ ./.
+
 (ROOT
   (S
     (S
@@ -557,60 +591,63 @@ appos(online-10, estimates-14)
             (VP (VBD racked)
               (PRT (RP up))
               (NP
-                (NP (DT a) (JJ $1) (CD billion))
-                (PP (IN for)
-                  (NP
-                    (NP (NNP Europe) (POS 's))
-                    (ADJP
-                      (QP (CD $10) (CD billion)))
-                    (NN music) (NN industry))))
-              (NP (JJ last) (NN year)))))))
-    (, ,)
-    (CC and)
-    (S
-      (PP
-        (NP (NN cost))
-        (IN EU)
-        (NP
-          (NP (NNS governments))
-          (PP (IN around)
-            (NP
-              (NP
-                (QP (CD $72) (CD million)))
+                (NP (DT a)
+                  (ADJP (JJ $1)
+                    (NP (CD billion))
+                    (PP (IN for)
+                      (NP
+                        (NP (NNP Europe) (POS 's))
+                        (ADJP
+                          (QP (CD $10) (CD billion)))
+                        (NN music) (NN industry))))
+                  (JJ last) (NN year))
+                (, ,)
+                (CC and)
+                (NP
+                  (NP (NN cost))
+                  (PP (IN EU)
+                    (NP
+                      (NP (NNS governments))
+                      (PP (IN around)
+                        (NP
+                          (QP (CD $72) (CD million))))))))
               (PP (IN in)
                 (NP
                   (ADJP (VBN lost) (IN tax))
-                  (NNS revenues)))))))
-      (, ,)
-      (NP (DT the) (NN group))
-      (VP (VBZ says)))
+                  (NNS revenues))))))))
+    (, ,)
+    (NP (DT the) (NN group))
+    (VP (VBZ says))
     (. .)))
 
 nsubj(told-2, All-1)
-root(ROOT-0, told-2)
+ccomp(says-34, told-2)
 nsubj(racked-5, that-4)
 ccomp(told-2, racked-5)
 prt(racked-5, up-6)
-det(billion-9, a-7)
-amod(billion-9, $1-8)
-dobj(racked-5, billion-9)
+det(year-18, a-7)
+amod(year-18, $1-8)
+dep($1-8, billion-9)
 poss(industry-16, Europe-11)
 number(billion-14, $10-13)
 num(industry-16, billion-14)
 nn(industry-16, music-15)
-prep_for(billion-9, industry-16)
+prep_for($1-8, industry-16)
 amod(year-18, last-17)
-tmod(racked-5, year-18)
-npadvmod(says-34, cost-21)
-prep_eu(says-34, governments-23)
+dobj(racked-5, year-18)
+dobj(racked-5, cost-21)
+conj_and(year-18, cost-21)
+prep_eu(cost-21, governments-23)
 number(million-26, $72-25)
 prep_around(governments-23, million-26)
 amod(revenues-30, lost-28)
 dep(lost-28, tax-29)
-prep_in(million-26, revenues-30)
+prep_in(racked-5, revenues-30)
 det(group-33, the-32)
 nsubj(says-34, group-33)
-conj_and(told-2, says-34)
+root(ROOT-0, says-34)
+
+Several/JJ lawsuits/NNS have/VBP been/VBN filed/VBN around/IN the/DT world/NN ,/, including/VBG an/DT ongoing/NN lawsuit/NN a/DT number/NN of/IN record/NN companies/NNS have/VBP brought/VBN against/IN Napster/NNP Inc/NNP .,/. whose/WP$ software/NN allows/VBZ users/NNS to/TO easily/RB swap/JJ music/NN files/NNS ./.
 
 (ROOT
   (S
@@ -675,6 +712,8 @@ amod(files-33, swap-31)
 nn(files-33, music-32)
 prep_to(allows-27, files-33)
 
+GEMA/NNP ,/, German/NNP 's/POS main/NN licensing/VBG group/NN ,/, targeted/VBN Hewlett-Packard/NNP as/IN a/DT test/NN case/NN in/IN May/NNP ,/, reasoning/VBG that/IN the/DT company/NN leads/VBZ the/DT German/NNP market/NN leader/NN in/IN CD/NN burners/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -730,6 +769,8 @@ dobj(leads-22, leader-26)
 nn(burners-29, CD-28)
 prep_in(leader-26, burners-29)
 
+But/CC Hewlett-Packard/NNP dug/NN in/IN its/PRP$ heels/NNS when/WRB it/PRP was/VBD ordered/VBN to/TO pay/VB 30/CD marks/NNS [$12.90/CD ]/NN for/IN each/DT CD/NN burner/NN sold/VBD in/IN Germany/NNP since/IN February/NNP 1998/CD ./.
+
 (ROOT
   (S (CC But)
     (NP
@@ -747,7 +788,7 @@ prep_in(leader-26, burners-29)
                   (VP (VB pay)
                     (NP (CD 30) (NNS marks))
                     (NP
-                      (NP (CD ($12.90) (NN )))
+                      (NP (CD [$12.90) (NN ]))
                       (PP (IN for)
                         (NP (DT each) (NN CD) (NN burner))))))))))))
     (VP (VBD sold)
@@ -765,22 +806,24 @@ poss(heels-6, its-5)
 prep_in(dug-3, heels-6)
 advmod(ordered-10, when-7)
 nsubjpass(ordered-10, it-8)
-xsubj(pay-12, it-8)
+nsubj(pay-12, it-8)
 auxpass(ordered-10, was-9)
 rcmod(dug-3, ordered-10)
 aux(pay-12, to-11)
 xcomp(ordered-10, pay-12)
 num(marks-14, 30-13)
 iobj(pay-12, marks-14)
-num()-16, ($12.90-15)
-dobj(pay-12, )-16)
+num(]-16, [$12.90-15)
+dobj(pay-12, ]-16)
 det(burner-20, each-18)
 nn(burner-20, CD-19)
-prep_for()-16, burner-20)
+prep_for(]-16, burner-20)
 root(ROOT-0, sold-21)
 prep_in(sold-21, Germany-23)
 prep_since(sold-21, February-25)
 num(February-25, 1998-26)
+
+The/DT legal/JJ battle/NN continued/VBN until/IN Thursday/NN ,/, when/WRB an/DT agreement/NN was/VBD reached/VBN to/TO have/VB Hewlett-Packard/NNP pay/VBP 3.60/CD marks/NNS [$1.54/CD ]/NN for/IN each/DT unit/NN sold/VBD during/IN that/DT period/NN while/IN agreeing/VBG to/TO pay/VB 12/CD marks/NNS [$5.16/CD ]/NN for/IN each/DT one/CD sold/VBN in/IN the/DT future/NN ./.
 
 (ROOT
   (S
@@ -807,7 +850,7 @@ num(February-25, 1998-26)
         (SBAR
           (S
             (NP
-              (NP (CD ($1.54) (NN )))
+              (NP (CD [$1.54) (NN ]))
               (PP (IN for)
                 (NP (DT each) (NN unit))))
             (VP (VBD sold)
@@ -821,7 +864,7 @@ num(February-25, 1998-26)
                         (VP (VB pay)
                           (NP (CD 12) (NNS marks))
                           (NP
-                            (NP (CD ($5.16) (NN )))
+                            (NP (CD [$5.16) (NN ]))
                             (PP (IN for)
                               (NP
                                 (NP (DT each) (CD one))
@@ -839,7 +882,7 @@ tmod(reached-12, Thursday-6)
 advmod(reached-12, when-8)
 det(agreement-10, an-9)
 nsubjpass(reached-12, agreement-10)
-xsubj(have-14, agreement-10)
+nsubj(have-14, agreement-10)
 auxpass(reached-12, was-11)
 rcmod(Thursday-6, reached-12)
 aux(have-14, to-13)
@@ -849,10 +892,10 @@ root(ROOT-0, pay-16)
 num(marks-18, 3.60-17)
 dobj(pay-16, marks-18)
 det(period-27, marks-18)
-num()-20, ($1.54-19)
-nsubj(sold-24, )-20)
+num(]-20, [$1.54-19)
+nsubj(sold-24, ]-20)
 det(unit-23, each-22)
-prep_for()-20, unit-23)
+prep_for(]-20, unit-23)
 rcmod(marks-18, sold-24)
 prep_during(sold-24, period-27)
 mark(agreeing-29, while-28)
@@ -861,13 +904,15 @@ aux(pay-31, to-30)
 xcomp(agreeing-29, pay-31)
 num(marks-33, 12-32)
 iobj(pay-31, marks-33)
-num()-35, ($5.16-34)
-dobj(pay-31, )-35)
+num(]-35, [$5.16-34)
+dobj(pay-31, ]-35)
 det(one-38, each-37)
-prep_for()-35, one-38)
+prep_for(]-35, one-38)
 vmod(one-38, sold-39)
 det(future-42, the-41)
 prep_in(sold-39, future-42)
+
+Hewlett-Packard/NNP spokeswoman/VBD Jeannette/NNP Weisschuh/NNP refused/VBD to/TO say/VB how/WRB much/JJ that/WDT would/MD set/VB the/DT company/NN back/RB ./.
 
 (ROOT
   (S
@@ -894,7 +939,7 @@ nsubj(spokeswoman-2, Hewlett-Packard-1)
 root(ROOT-0, spokeswoman-2)
 nn(Weisschuh-4, Jeannette-3)
 nsubj(refused-5, Weisschuh-4)
-xsubj(say-7, Weisschuh-4)
+nsubj(say-7, Weisschuh-4)
 ccomp(spokeswoman-2, refused-5)
 aux(say-7, to-6)
 xcomp(refused-5, say-7)
@@ -906,6 +951,8 @@ ccomp(say-7, set-12)
 det(company-14, the-13)
 dobj(set-12, company-14)
 advmod(set-12, back-15)
+
+But/CC she/PRP criticized/VBD the/DT settlement/NN for/IN putting/VBG Hewlett-Packard/NNP at/IN a/DT disadvantage/NN against/IN foreign/JJ online/NN retailers/NNS who/WP ,/, unburdened/VBN by/IN such/JJ fees/NNS ,/, can/MD sell/VB cheaper/VB CD/NN burners/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -959,6 +1006,8 @@ xcomp(sell-24, cheaper-25)
 nn(burners-27, CD-26)
 dobj(cheaper-25, burners-27)
 
+``This/NNP was/VBD a/DT trial/NN to/TO set/VB an/DT example/NN for/IN the/DT whole/JJ market/NN ,''/, said/VBD Weisschuh/NNP ./.
+
 (ROOT
   (S
     (NP (NNP ``This))
@@ -992,6 +1041,8 @@ prep_for(set-6, market-12)
 nsubj(said-14, ,''-13)
 rcmod(market-12, said-14)
 dobj(said-14, Weisschuh-15)
+
+``It/NNP 's/POS unfair/NN to/TO the/DT consumers/NNS who/WP have/VBP to/TO pay/VB more/RBR and/CC unfair/NN to/TO the/DT manufacturers/NNS because/IN it/PRP gives/VBZ us/PRP a/DT competitive/JJ disadvantage/NN .''/.
 
 (ROOT
   (S
@@ -1027,7 +1078,7 @@ nsubj(gives-19, unfair-3)
 det(consumers-6, the-5)
 prep_to(unfair-3, consumers-6)
 nsubj(have-8, consumers-6)
-xsubj(pay-10, consumers-6)
+nsubj(pay-10, consumers-6)
 rcmod(consumers-6, have-8)
 aux(pay-10, to-9)
 xcomp(have-8, pay-10)
@@ -1043,6 +1094,8 @@ det(disadvantage-23, a-21)
 amod(disadvantage-23, competitive-22)
 dobj(gives-19, disadvantage-23)
 punct(gives-19, .''-24)
+
+Other/NN companies/NNS selling/VBG CD/NN burners/NNS in/IN Germany/NNP will/MD also/RB be/VB subject/JJ to/TO the/DT fees/NNS ,/, which/WDT could/MD vary/VB depending/VBG on/IN what/WP kind/NN of/IN agreement/NN they/PRP reach/NN with/IN GEMA/NNP ./.
 
 (ROOT
   (S
@@ -1101,6 +1154,8 @@ dep(reach-26, they-25)
 dobj(depending-19, reach-26)
 prep_with(reach-26, GEMA-28)
 
+The/DT Hewlett-Packard/NNP settlement/NN is/VBZ expected/VBN to/TO set/VB a/DT benchmark/NN ,/, however/RB ./.
+
 (ROOT
   (S
     (NP (DT The) (NNP Hewlett-Packard) (NN settlement))
@@ -1117,7 +1172,7 @@ prep_with(reach-26, GEMA-28)
 det(settlement-3, The-1)
 nn(settlement-3, Hewlett-Packard-2)
 nsubjpass(expected-5, settlement-3)
-xsubj(set-7, settlement-3)
+nsubj(set-7, settlement-3)
 auxpass(expected-5, is-4)
 root(ROOT-0, expected-5)
 aux(set-7, to-6)
@@ -1125,6 +1180,8 @@ xcomp(expected-5, set-7)
 det(benchmark-9, a-8)
 dobj(set-7, benchmark-9)
 advmod(set-7, however-11)
+
+Currently/RB ,/, equipment/NN manufacturers/NNS pay/VBP 2.50/CD marks/NNS [$1.07/CD ]/NN for/IN each/DT cassette/NN recorder/NN and/CC 18/CD marks/NNS [$7.74/CD ]/NN for/IN each/DT video/NN recorder/VB sold/VBN in/IN Germany/NNP ./.
 
 (ROOT
   (S
@@ -1138,14 +1195,14 @@ advmod(set-7, however-11)
           (S
             (NP
               (NP
-                (NP (CD ($1.07) (NN )))
+                (NP (CD [$1.07) (NN ]))
                 (PP (IN for)
                   (NP (DT each) (NN cassette) (NN recorder))))
               (CC and)
               (NP
                 (NP (CD 18) (NNS marks))
                 (NP
-                  (NP (CD ($7.74) (NN )))
+                  (NP (CD [$7.74) (NN ]))
                   (PP (IN for)
                     (NP (DT each) (NN video))))))
             (VP (VB recorder)
@@ -1160,21 +1217,23 @@ nsubj(pay-5, manufacturers-4)
 root(ROOT-0, pay-5)
 num(marks-7, 2.50-6)
 dobj(pay-5, marks-7)
-num()-9, ($1.07-8)
-nsubj(recorder-22, )-9)
+num(]-9, [$1.07-8)
+nsubj(recorder-22, ]-9)
 det(recorder-13, each-11)
 nn(recorder-13, cassette-12)
-prep_for()-9, recorder-13)
+prep_for(]-9, recorder-13)
 num(marks-16, 18-15)
-conj_and()-9, marks-16)
+conj_and(]-9, marks-16)
 nsubj(recorder-22, marks-16)
-num()-18, ($7.74-17)
-dep(marks-16, )-18)
+num(]-18, [$7.74-17)
+dep(marks-16, ]-18)
 det(video-21, each-20)
-prep_for()-18, video-21)
+prep_for(]-18, video-21)
 rcmod(marks-7, recorder-22)
 dep(recorder-22, sold-23)
 prep_in(sold-23, Germany-25)
+
+The/DT fees/NNS ,/, which/WDT are/VBP not/RB collected/VBN by/IN the/DT government/NN ,/, are/VBP distributed/VBN by/IN GEMA/NNP to/TO copyright/VB owners/NNS through/IN recording/VBG houses/NNS and/CC music/NN distributors/NNS ./.
 
 (ROOT
   (S
@@ -1207,7 +1266,7 @@ prep_in(sold-23, Germany-25)
 det(fees-2, The-1)
 nsubjpass(collected-7, fees-2)
 nsubjpass(distributed-13, fees-2)
-xsubj(copyright-17, fees-2)
+nsubj(copyright-17, fees-2)
 auxpass(collected-7, are-5)
 neg(collected-7, not-6)
 rcmod(fees-2, collected-7)

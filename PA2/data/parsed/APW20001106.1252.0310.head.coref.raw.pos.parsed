@@ -1,3 +1,5 @@
+APW20001106.1252.0310/DT NEWS/NNP STORY/NNPS 2000-11-06/CD 13:40:39/CD
+
 (ROOT
   (NP
     (NP (DT APW20001106.1252.0310))
@@ -10,10 +12,14 @@ dep(APW20001106.1252.0310-1, STORY-3)
 num(13:40:39-5, 2000-11-06-4)
 dep(APW20001106.1252.0310-1, 13:40:39-5)
 
+British-Airways-Sale/JJ
+
 (ROOT
   (ADJP (JJ British-Airways-Sale)))
 
 root(ROOT-0, British-Airways-Sale-1)
+
+British/JJ Airways/NNS To/TO Sell/NNP Go/NNP Division/NNP
 
 (ROOT
   (NP
@@ -27,12 +33,14 @@ nn(Division-6, Sell-4)
 nn(Division-6, Go-5)
 prep_to(Airways-2, Division-6)
 
+LONDON/NNP [AP/NNP ]/, _/DT British/JJ Airways/NNS PLC/NNP plans/VBZ to/TO sell/VB Go/NNP ,/, its/PRP$ profitable/JJ cut-price/NN subsidiary/NN launched/VBD two/CD years/NNS ago/RB ,/, the/DT company/NN said/VBD Monday/NNP ./.
+
 (ROOT
   (S
     (S
       (NP
-        (NP (NNP LONDON) (NNP (AP))
-        (PP (, ))
+        (NP (NNP LONDON) (NNP [AP))
+        (PP (, ])
           (NP
             (NP (DT _) (JJ British) (NNS Airways))
             (SBAR
@@ -58,14 +66,14 @@ prep_to(Airways-2, Division-6)
       (NP (NNP Monday)))
     (. .)))
 
-nn((AP-2, LONDON-1)
-nsubj(launched-17, (AP-2)
-punct(Airways-6, )-3)
+nn([AP-2, LONDON-1)
+nsubj(launched-17, [AP-2)
+punct(Airways-6, ]-3)
 det(Airways-6, _-4)
 amod(Airways-6, British-5)
-prep((AP-2, Airways-6)
+prep([AP-2, Airways-6)
 nsubj(plans-8, PLC-7)
-xsubj(sell-10, PLC-7)
+nsubj(sell-10, PLC-7)
 rcmod(Airways-6, plans-8)
 aux(sell-10, to-9)
 xcomp(plans-8, sell-10)
@@ -82,6 +90,8 @@ det(company-23, the-22)
 nsubj(said-24, company-23)
 root(ROOT-0, said-24)
 tmod(said-24, Monday-25)
+
+BA/NNP announced/VBD the/DT sale/NN as/IN it/PRP reported/VBD 160/CD percent/JJ growth/NN in/IN its/PRP$ second-quarter/JJ pretax/NN profit/NN ,/, an/DT improvement/NN that/WDT suggests/VBZ Britain/NNP 's/POS unofficial/JJ flag/NN carrier/NN may/MD finally/RB be/VB entering/VBG sunnier/JJR financial/JJ skies/NNS ./.
 
 (ROOT
   (S
@@ -146,6 +156,8 @@ amod(skies-32, sunnier-30)
 amod(skies-32, financial-31)
 dobj(entering-29, skies-32)
 
+``Thanks/NNS to/TO everyone/VB who/WP works/VBZ at/IN Go/NNP ,/, it/PRP is/VBZ now/RB a/DT leading/JJ European/JJ brand/NN ,''/, said/VBD Rod/NNP Eddington/NNP ,/, British/JJ Airways/NNS '/POS recently/RB appointed/VBN chief/JJ executive/NN ./.
+
 (ROOT
   (SINV
     (S
@@ -201,6 +213,8 @@ amod(executive-27, appointed-25)
 amod(executive-27, chief-26)
 appos(Eddington-19, executive-27)
 
+``It/NNP has/VBZ made/VBN a/DT profit/NN every/NN month/NN this/DT year/NN ./.
+
 (ROOT
   (S
     (NP (NNP ``It))
@@ -220,6 +234,8 @@ nn(month-7, every-6)
 dobj(made-3, month-7)
 det(year-9, this-8)
 dep(month-7, year-9)
+
+However/RB ,/, given/VBN the/DT strategic/JJ goals/NNS we/PRP have/VBP set/VBN for/IN the/DT group/NN as/IN a/DT whole/NN ,/, now/RB is/VBZ the/DT time/NN for/IN British/JJ Airways/NNS to/TO gain/VB the/DT benefits/NNS of/IN its/PRP$ investment/NN and/CC realize/VB the/DT considerable/JJ value/NN created/VBN in/IN Go/NNP .''/.
 
 (ROOT
   (S
@@ -295,6 +311,8 @@ vmod(value-35, created-36)
 prep_in(created-36, Go-38)
 punct(time-20, .''-39)
 
+Go/NNP is/VBZ based/VBN at/IN Stansted/NNP airport/NN ,/, northeast/RB of/IN London/NNP ,/, a/DT major/JJ base/NN for/IN low-fare/JJ carriers/NNS operating/VBG in/IN Britain/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Go))
@@ -332,6 +350,8 @@ amod(carriers-17, low-fare-16)
 prep_for(base-14, carriers-17)
 vmod(carriers-17, operating-18)
 prep_in(operating-18, Britain-20)
+
+BA/NNP set/VBD up/RP Go/NNP when/WRB smaller/JJR rivals/NNS began/VBD nibbling/VBG away/NN at/IN its/PRP$ market/NN share/NN by/IN offering/VBG cheaper/NN flights/NNS across/RB much/RB of/IN Europe/NNP ./.
 
 (ROOT
   (S
@@ -381,6 +401,8 @@ advmod(offering-16, across-19)
 advmod(offering-16, much-20)
 prep_of(much-20, Europe-22)
 
+One/CD such/JJ competitor/NN ,/, easyJet/RB ,/, has/VBZ long/RB accused/VBN BA/NNP of/IN unfairly/RB subsidizing/JJ Go/NNP ./.
+
 (ROOT
   (S
     (NP (CD One) (JJ such) (NN competitor))
@@ -409,6 +431,8 @@ dobj(accused-9, BA-10)
 advmod(subsidizing-13, unfairly-12)
 amod(Go-14, subsidizing-13)
 prep_of(BA-10, Go-14)
+
+BA/NNP has/VBZ denied/VBN the/DT accusation/NN but/CC until/IN now/RB has/VBZ not/RB said/VBN whether/IN Go/NNP was/VBD making/VBG money/NN ./.
 
 (ROOT
   (S
@@ -447,6 +471,8 @@ aux(making-15, was-14)
 ccomp(denied-3, making-15)
 dobj(making-15, money-16)
 
+British/JJ Airways/NNS reported/VBD a/DT pretax/JJ profit/NN of/IN 200/CD million/CD pounds/NNS [$290/CD million/CD ]/NN in/IN the/DT second/JJ quarter/NN ending/VBG Sept/NNP ./.
+
 (ROOT
   (S
     (NP (JJ British) (NNS Airways))
@@ -459,8 +485,8 @@ dobj(making-15, money-16)
             (NNS pounds)
             (X
               (NP
-                (QP (CD ($290) (CD million))
-                (NN )))))))
+                (QP (CD [$290) (CD million))
+                (NN ]))))))
       (PP (IN in)
         (NP
           (NP (DT the) (JJ second) (NN quarter))
@@ -477,14 +503,16 @@ dobj(reported-3, profit-6)
 number(million-9, 200-8)
 num(pounds-10, million-9)
 prep_of(profit-6, pounds-10)
-number(million-12, ($290-11)
-num()-13, million-12)
-dep(pounds-10, )-13)
+number(million-12, [$290-11)
+num(]-13, million-12)
+dep(pounds-10, ]-13)
 det(quarter-17, the-15)
 amod(quarter-17, second-16)
 prep_in(reported-3, quarter-17)
 vmod(quarter-17, ending-18)
 dobj(ending-18, Sept-19)
+
+30/CD ,/, compared/VBN to/TO 40/CD million/CD pounds/NNS a/DT year/NN ago/RB ./.
 
 (ROOT
   (FRAG
@@ -510,6 +538,8 @@ det(year-9, a-8)
 npadvmod(ago-10, year-9)
 advmod(pounds-7, ago-10)
 
+Its/NNS quarterly/JJ operating/VBG profit/NN improved/VBN to/TO 361/CD million/CD pounds/NNS [$523/CD million/CD ]/NNS from/IN 211/CD million/CD pounds/NNS a/DT year/NN ago/RB ./.
+
 (ROOT
   (S
     (NP
@@ -523,8 +553,8 @@ advmod(pounds-7, ago-10)
             (QP (CD 361) (CD million))
             (NNS pounds))
           (NP
-            (QP (CD ($523) (CD million))
-            (NNS )))))
+            (QP (CD [$523) (CD million))
+            (NNS ]))))
       (PP (IN from)
         (NP
           (QP (CD 211) (CD million))
@@ -542,15 +572,17 @@ root(ROOT-0, improved-5)
 number(million-8, 361-7)
 num(pounds-9, million-8)
 prep_to(improved-5, pounds-9)
-number(million-11, ($523-10)
-num()-12, million-11)
-dep(pounds-9, )-12)
+number(million-11, [$523-10)
+num(]-12, million-11)
+dep(pounds-9, ]-12)
 number(million-15, 211-14)
 num(pounds-16, million-15)
 prep_from(improved-5, pounds-16)
 det(year-18, a-17)
 npadvmod(ago-19, year-18)
 advmod(improved-5, ago-19)
+
+This/DT income/NN growth/NN indicated/VBD that/IN BA/NNP 's/POS new/JJ strategy/NN of/IN trying/VBG to/TO attract/VB more/RBR business/NN and/CC first-class/NN passengers/NNS has/VBZ started/VBN to/TO pay/VB off/RP ./.
 
 (ROOT
   (S
@@ -588,7 +620,7 @@ mark(started-20, that-5)
 poss(strategy-9, BA-6)
 amod(strategy-9, new-8)
 nsubj(started-20, strategy-9)
-xsubj(pay-22, strategy-9)
+nsubj(pay-22, strategy-9)
 prepc_of(strategy-9, trying-11)
 aux(attract-13, to-12)
 xcomp(trying-11, attract-13)
@@ -602,6 +634,8 @@ ccomp(indicated-4, started-20)
 aux(pay-22, to-21)
 xcomp(started-20, pay-22)
 prt(pay-22, off-23)
+
+BA/NNP said/VBD its/PRP$ number/NN of/IN premium/JJ passengers/NNS increased/VBN by/IN 7.7/CD percent/JJ during/IN the/DT quarter/NN ,/, while/IN revenues/NNS for/IN the/DT first/JJ six/CD months/NNS of/IN the/DT year/NN rose/VBD 4.9/CD percent/JJ to/TO 4.86/CD billion/CD pounds/NNS [$7.05/CD billion/CD ]./.
 
 (ROOT
   (S
@@ -636,8 +670,8 @@ prt(pay-22, off-23)
                           (NP
                             (QP (CD 4.86) (CD billion))
                             (NNS pounds)
-                            (QP (CD ($7.05) (CD billion))))))))))))))
-    (. ).)))
+                            (QP (CD [$7.05) (CD billion))))))))))))))
+    (. ].)))
 
 nsubj(said-2, BA-1)
 root(ROOT-0, said-2)
@@ -664,9 +698,11 @@ acomp(rose-26, percent-28)
 number(billion-31, 4.86-30)
 num(pounds-32, billion-31)
 prep_to(rose-26, pounds-32)
-number(billion-34, ($7.05-33)
+number(billion-34, [$7.05-33)
 num(pounds-32, billion-34)
-punct(said-2, ).-35)
+punct(said-2, ].-35)
+
+``We/RB are/VBP taking/VBG a/DT ruthless/JJ approach/NN towards/NNS poorly/RB performing/VBG routes/NNS and/CC assets/NNS ,''/, said/VBD Eddington/NNP ./.
 
 (ROOT
   (SINV
@@ -706,6 +742,8 @@ nsubj(said-14, ,''-13)
 rcmod(assets-12, said-14)
 dobj(said-14, Eddington-15)
 
+``Those/RB not/RB adding/VBG value/NN are/VBP being/VBG removed/VBN ./.
+
 (ROOT
   (S
     (ADVP (RB ``Those))
@@ -725,6 +763,8 @@ dobj(adding-3, value-4)
 aux(removed-7, are-5)
 auxpass(removed-7, being-6)
 root(ROOT-0, removed-7)
+
+It/PRP is/VBZ imperative/JJ that/IN each/DT of/IN our/PRP$ aircraft/NN generates/VBZ shareholder/NN value/NN .''/.
 
 (ROOT
   (S
@@ -753,6 +793,8 @@ nn(value-11, shareholder-10)
 dobj(generates-9, value-11)
 punct(imperative-3, .''-12)
 
+The/DT airline/NN said/VBD it/PRP plans/VBZ to/TO cut/VB capacity/NN worldwide/NN by/IN 10/CD percent/JJ in/IN next/JJ summer/NN 's/POS schedule/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NN airline))
@@ -779,7 +821,7 @@ det(airline-2, The-1)
 nsubj(said-3, airline-2)
 root(ROOT-0, said-3)
 nsubj(plans-5, it-4)
-xsubj(cut-7, it-4)
+nsubj(cut-7, it-4)
 ccomp(said-3, plans-5)
 aux(cut-7, to-6)
 xcomp(plans-5, cut-7)
@@ -790,6 +832,8 @@ amod(10-11, percent-12)
 amod(summer-15, next-14)
 poss(schedule-17, summer-15)
 prep_in(percent-12, schedule-17)
+
+``We/RB have/VBP a/DT number/NN of/IN different/JJ businesses/NNS operating/VBG separately/RB within/IN Europe/NNP ./.
 
 (ROOT
   (SINV
@@ -815,6 +859,8 @@ prep_of(number-4, businesses-7)
 dep(have-2, operating-8)
 advmod(operating-8, separately-9)
 prep_within(operating-8, Europe-11)
+
+We/PRP are/VBP currently/RB examining/VBG how/WRB we/PRP can/MD better/RBR rationalize/VB and/CC integrate/VB their/PRP$ activities/NNS to/TO deliver/VB better/RBR value/NN for/IN the/DT group/NN overall/NN ,''/, Eddington/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -873,6 +919,8 @@ punct(said-24, ,''-22)
 nsubj(said-24, Eddington-23)
 root(ROOT-0, said-24)
 
+Company/NNP shares/NNS jumped/VBD 7/CD percent/JJ to/TO 352/CD pence/NN [$5.10/CD ]/IN each/DT in/IN midday/JJ trading/NN on/IN the/DT London/NNP Stock/NNP Exchange/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Company) (NNS shares))
@@ -882,8 +930,8 @@ root(ROOT-0, said-24)
         (ADJP (JJ percent)
           (PP (TO to)
             (NP (CD 352) (NN pence)))
-          (NP (CD ($5.10))))
-      (PP (IN ))
+          (NP (CD [$5.10))))
+      (PP (IN ])
         (NP
           (NP (DT each))
           (PP (IN in)
@@ -899,14 +947,16 @@ dobj(jumped-3, 7-4)
 amod(7-4, percent-5)
 num(pence-8, 352-7)
 prep_to(percent-5, pence-8)
-dep(percent-5, ($5.10-9)
-prep_)(jumped-3, each-11)
+dep(percent-5, [$5.10-9)
+prep_](jumped-3, each-11)
 amod(trading-14, midday-13)
 prep_in(each-11, trading-14)
 det(Exchange-19, the-16)
 nn(Exchange-19, London-17)
 nn(Exchange-19, Stock-18)
 prep_on(jumped-3, Exchange-19)
+
+BA/NNP ,/, the/DT world/NN 's/POS fourth-biggest/JJ airline/NN in/IN terms/NNS of/IN passenger/NN traffic/NN ,/, has/VBZ struggled/VBN to/TO find/VB its/PRP$ way/NN in/IN recent/JJ years/NNS ./.
 
 (ROOT
   (S
@@ -934,7 +984,7 @@ prep_on(jumped-3, Exchange-19)
     (. .)))
 
 nsubj(struggled-15, BA-1)
-xsubj(find-17, BA-1)
+nsubj(find-17, BA-1)
 det(world-4, the-3)
 poss(airline-7, world-4)
 amod(airline-7, fourth-biggest-6)
@@ -951,6 +1001,8 @@ dobj(find-17, way-19)
 amod(years-22, recent-21)
 prep_in(find-17, years-22)
 
+It/PRP lost/VBD 50/CD million/CD pounds/NNS [$75/CD million/CD ]/NN in/IN the/DT first/JJ quarter/NN ,/, due/JJ to/TO high/JJ fuel/NN costs/NNS and/CC competition/NN ,/, and/CC last/JJ year/NN was/VBD the/DT airline/NN 's/POS worst/NN since/IN the/DT British/JJ government/NN privatized/VBD it/PRP ./.
+
 (ROOT
   (S
     (S
@@ -961,8 +1013,8 @@ prep_in(find-17, years-22)
           (NNS pounds))
         (PP
           (NP
-            (QP (CD ($75) (CD million))
-            (NN )))
+            (QP (CD [$75) (CD million))
+            (NN ]))
           (IN in)
           (NP (DT the) (JJ first) (NN quarter)))
         (, ,)
@@ -992,9 +1044,9 @@ root(ROOT-0, lost-2)
 number(million-4, 50-3)
 num(pounds-5, million-4)
 dobj(lost-2, pounds-5)
-number(million-7, ($75-6)
-num()-8, million-7)
-npadvmod(lost-2, )-8)
+number(million-7, [$75-6)
+num(]-8, million-7)
+npadvmod(lost-2, ]-8)
 det(quarter-12, the-10)
 amod(quarter-12, first-11)
 prep_in(lost-2, quarter-12)
@@ -1015,6 +1067,8 @@ amod(government-33, British-32)
 nsubj(privatized-34, government-33)
 prepc_since(worst-29, privatized-34)
 dobj(privatized-34, it-35)
+
+Competition/NNP has/VBZ become/VBN intense/NN ,/, particularly/RB on/IN its/PRP$ core/NN trans-Atlantic/JJ flights/NNS ,/, and/CC former/JJ chief/JJ executive/NN Bob/NN Ayling/VBG resigned/VBD in/IN March/NNP after/IN a/DT troubled/JJ four-year/JJ stint/NN ./.
 
 (ROOT
   (S
@@ -1044,10 +1098,10 @@ dobj(privatized-34, it-35)
         (NP (DT a) (JJ troubled) (JJ four-year) (NN stint))))
     (. .)))
 
-nsubj(intense-4, Competition-1)
-aux(intense-4, has-2)
-cop(intense-4, become-3)
-ccomp(resigned-19, intense-4)
+nsubj(become-3, Competition-1)
+aux(become-3, has-2)
+ccomp(resigned-19, become-3)
+xcomp(become-3, intense-4)
 amod(Bob-17, particularly-6)
 poss(core-9, its-8)
 prep_on(particularly-6, core-9)
@@ -1065,6 +1119,8 @@ det(stint-26, a-23)
 amod(stint-26, troubled-24)
 amod(stint-26, four-year-25)
 prep_after(resigned-19, stint-26)
+
+Talks/NNS on/IN a/DT long-planned/JJ merger/NN with/IN KLM/NNP Royal/NNP Dutch/NNP Airlines/NNPS collapsed/VBD in/IN September/NNP ./.
 
 (ROOT
   (S

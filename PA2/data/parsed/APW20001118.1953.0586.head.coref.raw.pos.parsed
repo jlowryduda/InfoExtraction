@@ -1,3 +1,5 @@
+APW20001118.1953.0586/DT NEWS/NNP STORY/NNPS 2000-11-18/CD 20:02:05/CD
+
 (ROOT
   (NP
     (NP (DT APW20001118.1953.0586))
@@ -10,10 +12,14 @@ dep(APW20001118.1953.0586-1, STORY-3)
 num(20:02:05-5, 2000-11-18-4)
 dep(APW20001118.1953.0586-1, 20:02:05-5)
 
+Egypt-Women's-Summit/NN
+
 (ROOT
   (NP (NN Egypt-Women's-Summit)))
 
 root(ROOT-0, Egypt-Women's-Summit-1)
+
+Arab/NNP Women/NNP Leaders/NNP Meet/NNP
 
 (ROOT
   (NP (NNP Arab) (NNP Women) (NNP Leaders) (NNP Meet)))
@@ -23,11 +29,13 @@ nn(Meet-4, Women-2)
 nn(Meet-4, Leaders-3)
 root(ROOT-0, Meet-4)
 
+CAIRO/NNP ,/, Egypt/NNP [AP/NNP ]/, _/DT Ten/NNP of/IN the/DT Arab/NNP world/NN 's/POS first/JJ ladies/NNS joined/VBD activists/NNS in/IN an/DT unusual/JJ gathering/NN Saturday/NN to/TO push/VB for/IN the/DT improved/JJ status/NN of/IN women/NNS in/IN their/PRP$ male-dominated/JJ societies/NNS ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP CAIRO) (, ,) (NNP Egypt) (NNP (AP))
-      (PP (, ))
+      (NP (NNP CAIRO) (, ,) (NNP Egypt) (NNP [AP))
+      (PP (, ])
         (NP
           (NP (DT _) (NNP Ten))
           (PP (IN of)
@@ -51,12 +59,12 @@ root(ROOT-0, Meet-4)
                       (NP (PRP$ their) (JJ male-dominated) (NNS societies)))))))))))
     (. .)))
 
-nn((AP-4, CAIRO-1)
-appos((AP-4, Egypt-3)
-nsubj(joined-15, (AP-4)
-punct(Ten-7, )-5)
+nn([AP-4, CAIRO-1)
+appos([AP-4, Egypt-3)
+nsubj(joined-15, [AP-4)
+punct(Ten-7, ]-5)
 det(Ten-7, _-6)
-prep((AP-4, Ten-7)
+prep([AP-4, Ten-7)
 det(world-11, the-9)
 nn(world-11, Arab-10)
 poss(ladies-14, world-11)
@@ -77,6 +85,8 @@ prep_of(status-27, women-29)
 poss(societies-33, their-31)
 amod(societies-33, male-dominated-32)
 prep_in(women-29, societies-33)
+
+Queen/CD Rania/NNP of/IN Jordan/NNP ,/, Egypt/NNP 's/POS Suzanne/NNP Mubarak/NNP and/CC others/NNS were/VBD using/VBG their/PRP$ charisma/NN and/CC influence/NN to/TO campaign/VB on/IN behalf/NN of/IN women/VBN in/IN this/DT three-day/JJ meeting/NN of/IN women/JJ leaders/NNS and/CC campaigners/NNS for/IN equality/NN of/IN the/DT sexes/NNS ./.
 
 (ROOT
   (S
@@ -148,6 +158,8 @@ prep_for(women-23, equality-34)
 det(sexes-37, the-36)
 prep_of(equality-34, sexes-37)
 
+``Development/NN will/MD not/RB achieve/VB its/PRP$ goals/NNS unless/IN women/JJ participate/NN in/IN it/PRP as/IN complete/JJ and/CC effective/JJ partners/NNS in/IN all/DT fields/NNS ,''/VBP Queen/VBN Rania/NNP told/VBD an/DT audience/NN of/IN more/JJR than/IN 2,000/CD from/IN 19/CD countries/NNS ./.
+
 (ROOT
   (S
     (NP (NN ``Development))
@@ -171,17 +183,18 @@ prep_of(equality-34, sexes-37)
                       (PP (IN in)
                         (NP (DT all) (NNS fields))))))))
             (VP (VBP ,'')
-              (SBAR
-                (S
-                  (NP (VBN Queen) (NNP Rania))
-                  (VP (VBD told)
-                    (NP
-                      (NP (DT an) (NN audience))
-                      (PP (IN of)
-                        (NP
-                          (QP (JJR more) (IN than) (CD 2,000)))))
-                    (PP (IN from)
-                      (NP (CD 19) (NNS countries)))))))))))
+              (ADJP (VBN Queen)
+                (SBAR
+                  (S
+                    (NP (NNP Rania))
+                    (VP (VBD told)
+                      (NP
+                        (NP (DT an) (NN audience))
+                        (PP (IN of)
+                          (NP
+                            (QP (JJR more) (IN than) (CD 2,000)))))
+                      (PP (IN from)
+                        (NP (CD 19) (NNS countries))))))))))))
     (. .)))
 
 nsubj(achieve-4, ``Development-1)
@@ -201,9 +214,9 @@ prep_as(it-11, partners-16)
 det(fields-19, all-18)
 prep_in(partners-16, fields-19)
 advcl(achieve-4, ,''-20)
-amod(Rania-22, Queen-21)
+acomp(,''-20, Queen-21)
 nsubj(told-23, Rania-22)
-ccomp(,''-20, told-23)
+ccomp(Queen-21, told-23)
 det(audience-25, an-24)
 dobj(told-23, audience-25)
 mwe(than-28, more-27)
@@ -211,6 +224,8 @@ quantmod(2,000-29, than-28)
 prep_of(audience-25, 2,000-29)
 num(countries-32, 19-31)
 prep_from(told-23, countries-32)
+
+She/NNP called/VBD for/IN ``legal/NNP and/CC legislative/JJ reforms/NNS that/WDT achieve/VBP equality/NN and/CC justice/NN for/IN women/JJ .''/.
 
 (ROOT
   (S
@@ -246,6 +261,8 @@ dobj(achieve-9, justice-12)
 conj_and(equality-10, justice-12)
 prep_for(achieve-9, women-14)
 punct(called-2, .''-15)
+
+Mubarak/NNP ,/, wife/NN of/IN Egyptian/NNP President/NNP Hosni/NNP Mubarak/NNP and/CC one/CD of/IN the/DT conference/NN organizers/NNS ,/, said/VBD they/PRP must/MD find/VB ways/NNS to/TO respect/VB the/DT social/JJ differences/NNS that/IN distinguish/JJ Arab/NNP countries/NNS while/IN still/RB cooperating/VBG to/TO attain/VB the/DT summit/NN 's/POS main/JJ goal/NN :/: creating/VBG a/DT better/JJR life/NN for/IN Arab/NNP women/CD ./.
 
 (ROOT
   (S
@@ -311,6 +328,7 @@ root(ROOT-0, said-16)
 nsubj(find-19, they-17)
 aux(find-19, must-18)
 ccomp(said-16, find-19)
+dobj(find-19, ways-20)
 nsubj(respect-22, ways-20)
 aux(respect-22, to-21)
 xcomp(find-19, respect-22)
@@ -336,6 +354,8 @@ dobj(creating-41, life-44)
 prep_for(life-44, Arab-46)
 num(Arab-46, women-47)
 
+The/DT status/NN of/IN women/JJ varies/NNS among/IN countries/NNS in/IN the/DT Arab/NNP world/NN ./.
+
 (ROOT
   (NP
     (NP (DT The) (NN status))
@@ -356,6 +376,8 @@ prep_among(status-2, countries-7)
 det(world-11, the-9)
 nn(world-11, Arab-10)
 prep_in(countries-7, world-11)
+
+Although/IN women/VBN in/IN some/DT parts/NNS of/IN the/DT Persian/JJ Gulf/NNP ,/, such/JJ as/IN conservative/JJ Saudi/NNP Arabia/NNP ,/, are/VBP required/VBN to/TO be/VB covered/VBN from/IN head-to-toe/JJ and/CC are/VBP not/RB allowed/VBN to/TO drive/VB ,/, their/PRP$ counterparts/NNS in/IN more/JJR liberal/JJ countries/NNS ,/, including/VBG Jordan/NNP ,/, Egypt/NNP and/CC Lebanon/NNP ,/, enjoy/RB more/RBR freedom/JJ and/CC richer/JJR public/JJ lives/NNS ./.
 
 (ROOT
   (S
@@ -447,6 +469,8 @@ amod(lives-51, richer-49)
 amod(lives-51, public-50)
 appos(Jordan-39, lives-51)
 
+However/RB ,/, illiteracy/NN ,/, marginalized/JJ decision-making/JJ roles/NNS and/CC under-representation/NN in/IN politics/NNS are/VBP problems/NNS Arab/DT women/JJ share/NN ./.
+
 (ROOT
   (S
     (ADVP (RB However))
@@ -481,6 +505,8 @@ det(share-16, Arab-14)
 amod(share-16, women-15)
 dep(problems-13, share-16)
 
+Many/JJ women/NNS ,/, though/JJ ,/, are/VBP struggling/VBG to/TO change/VB the/DT status/NN quo/NN and/CC have/VBP achieved/VBN some/DT gains/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -503,7 +529,7 @@ dep(problems-13, share-16)
 
 amod(women-2, Many-1)
 nsubj(struggling-7, women-2)
-xsubj(change-9, women-2)
+nsubj(change-9, women-2)
 nsubj(achieved-15, women-2)
 amod(women-2, though-4)
 aux(struggling-7, are-6)
@@ -517,6 +543,8 @@ aux(achieved-15, have-14)
 conj_and(struggling-7, achieved-15)
 det(gains-17, some-16)
 dobj(achieved-15, gains-17)
+
+This/DT year/NN in/IN Egypt/NNP ,/, for/IN example/NN ,/, avid/JJ campaigning/NN helped/VBD women/VBN reverse/JJ laws/NNS that/WDT prevented/VBD them/PRP from/IN obtaining/VBG divorce/NN and/CC traveling/VBG abroad/RB without/IN their/PRP$ husbands/NNS '/POS permission/NN ./.
 
 (ROOT
   (S
@@ -573,6 +601,8 @@ poss(husbands-26, their-25)
 poss(permission-28, husbands-26)
 prep_without(traveling-22, permission-28)
 
+Many/JJ of/IN the/DT speakers/NNS underlined/VBD the/DT importance/NN of/IN meeting/VBG the/DT demands/NNS of/IN the/DT modern/JJ society/NN while/IN still/RB preserving/VBG Arab/NNP identity/NN ,/, traditions/NNS and/CC beliefs/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -621,6 +651,8 @@ conj_and(identity-20, traditions-22)
 dobj(preserving-18, beliefs-24)
 conj_and(identity-20, beliefs-24)
 
+Others/NNS talked/VBD of/IN the/DT challenge/NN of/IN presenting/VBG a/DT more/JJR positive/NN ,/, well-rounded/JJ image/NN of/IN Arab/NNP women/VBN in/IN the/DT face/NN of/IN negative/JJ stereotypes/NNS ./.
+
 (ROOT
   (S
     (NP (NNS Others))
@@ -664,6 +696,8 @@ prep_in(women-16, face-19)
 amod(stereotypes-22, negative-21)
 prep_of(face-19, stereotypes-22)
 
+Some/DT attendees/NNS ,/, however/RB ,/, were/VBD skeptical/JJ the/DT gathering/NN would/MD reach/VB any/DT strong/JJ proposals/NNS ./.
+
 (ROOT
   (S
     (NP (DT Some) (NNS attendees))
@@ -692,6 +726,8 @@ ccomp(skeptical-7, reach-11)
 det(proposals-14, any-12)
 amod(proposals-14, strong-13)
 dobj(reach-11, proposals-14)
+
+Haifa/NNP Ezzi/NNP ,/, a/DT Saudi/NNP researcher/VB interested/JJ in/IN women/NNP 's/POS issues/NNS ,/, said/VBD some/DT of/IN the/DT speeches/NNS ``were/VBP full/JJ of/IN unrealistic/JJ rhetoric/JJ .''/.
 
 (ROOT
   (S
@@ -738,6 +774,8 @@ amod(rhetoric-22, unrealistic-21)
 prep_of(full-19, rhetoric-22)
 punct(said-13, .''-23)
 
+Saudi/NNP Arabia/NNP ,/, Qatar/NNP and/CC Algeria/NNP were/VBD the/DT only/JJ Arab/NNP League/NNP countries/NNS that/WDT did/VBD not/RB send/VB delegates/NNS to/TO the/DT summit/NN ./.
+
 (ROOT
   (S
     (NP (NNP Saudi) (NNP Arabia) (, ,) (NNP Qatar)
@@ -775,6 +813,8 @@ rcmod(countries-12, send-16)
 dobj(send-16, delegates-17)
 det(summit-20, the-19)
 prep_to(send-16, summit-20)
+
+The/DT meeting/NN was/VBD attended/VBN by/IN the/DT first/JJ ladies/NNS of/IN Bahrain/NNP ,/, Comoros/NNP ,/, Egypt/NNP ,/, Jordan/NNP ,/, Kuwait/NNP ,/, Lebanon/NNP ,/, Morocco/NNP ,/, the/DT Palestinian/JJ territories/NNS ,/, Sudan/NNP and/CC Tunisia/NNP ./.
 
 (ROOT
   (S

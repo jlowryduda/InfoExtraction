@@ -1,3 +1,5 @@
+NYT20001012.1539.0165/NNP NEWS/NNP STORY/NNP 2000-10-12/CD 17:15:00/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001012.1539.0165) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(17:15:00-5, 2000-10-12-4)
 dep(STORY-3, 17:15:00-5)
+
+A2301/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-FUNDS-DISCLOSURE-NYT/NNP &LR/NNP ;/: 10-12/CD 0552/CD
 
 (ROOT
   (NP
@@ -29,10 +33,14 @@ dep(&Cx1f-2, &LR-8)
 number(0552-11, 10-12-10)
 dep(&LR-8, 0552-11)
 
+BC-FUNDS-DISCLOSURE-NYT/NNP
+
 (ROOT
   (NP (NNP BC-FUNDS-DISCLOSURE-NYT)))
 
 root(ROOT-0, BC-FUNDS-DISCLOSURE-NYT-1)
+
+MORNINGSTAR/NNP CEO/NNP SAYS/NNP SEC/NNP LAGS/NNP IN/NNP DISCLOSURE/NNP RULES/NNP FOR/NNP MUTUAL/NNP
 
 (ROOT
   (NP
@@ -50,6 +58,8 @@ nn(MUTUAL-10, DISCLOSURE-7)
 nn(MUTUAL-10, RULES-8)
 nn(MUTUAL-10, FOR-9)
 dep(SAYS-3, MUTUAL-10)
+
+FUNDS/NNP &LR/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: By/NNP DANNY/NNP HAKIM/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -91,6 +101,8 @@ dep(&LR-2, &UR-17)
 dep(&UR-17, c.2000-19)
 appos(c.2000-19, N.Y-20)
 
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -107,6 +119,8 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
+
+WASHINGTON/NNP _/NNP Advocates/NNPS for/IN more/RBR frequent/JJ disclosure/NN of/IN what/WP mutual/JJ funds/NNS hold/VBN in/IN their/PRP$ portfolios/NNS sparred/VBN with/IN a/DT top/JJ Securities/NNPS and/CC Exchange/NNP Commission/NNP official/NN Thursday/NN at/IN a/DT panel/NN sponsored/VBN by/IN a/DT fund/NN shareholder/NN advocacy/NN group/NN ./.
 
 (ROOT
   (S
@@ -168,6 +182,8 @@ nn(group-35, fund-32)
 nn(group-35, shareholder-33)
 nn(group-35, advocacy-34)
 agent(sponsored-29, group-35)
+
+Donald/NNP Phillips/NNPS ,/, chief/JJ executive/NN of/IN Morningstar/NNP Inc/NNP .,/, which/WDT tracks/VBZ mutual/JJ funds/NNS ,/, said/VBD that/IN Arthur/NNP Levitt/NNP ,/, the/DT chairman/NN of/IN the/DT SEC/NNP ,/, had/VBD a/DT double/JJ standard/NN toward/NN stockholders/NNS and/CC mutual/JJ fund/NN shareholders/NNS ./.
 
 (ROOT
   (S
@@ -238,6 +254,8 @@ nn(shareholders-35, fund-34)
 dobj(had-26, shareholders-35)
 conj_and(stockholders-31, shareholders-35)
 
+``He/NNP 's/POS brilliant/NN when/WRB he/PRP talks/NNS about/IN stocks/NNS ,''/, said/VBD Phillips/NNP ,/, adding/VBG ,/, ``when/VBN it/PRP turns/VBZ to/TO fund/VB issues/NNS ,/, he/PRP falls/VBZ into/IN patronizing/VBG platitudes/NNS about/IN fund/NN investing/NN .''/.
+
 (ROOT
   (S
     (NP
@@ -293,7 +311,7 @@ nsubj(``when-15, Phillips-11)
 vmod(``when-15, adding-13)
 ccomp(said-10, ``when-15)
 nsubj(turns-17, it-16)
-xsubj(fund-19, it-16)
+nsubj(fund-19, it-16)
 ccomp(``when-15, turns-17)
 aux(fund-19, to-18)
 xcomp(turns-17, fund-19)
@@ -305,6 +323,8 @@ prep_into(falls-23, platitudes-26)
 nn(investing-29, fund-28)
 prep_about(platitudes-26, investing-29)
 punct(falls-23, .''-30)
+
+Levitt/NNP and/CC the/DT SEC/NNP are/VBP requiring/VBG companies/NNS to/TO disclose/VB material/JJ information/NN to/TO the/DT public/NN at/IN the/DT same/JJ time/NN that/IN they/PRP tell/MD analysts/NNS and/CC institutional/JJ investors/NNS ./.
 
 (ROOT
   (S
@@ -358,6 +378,8 @@ amod(investors-25, institutional-24)
 dobj(requiring-6, investors-25)
 conj_and(analysts-22, investors-25)
 
+The/DT new/JJ measure/NN ,/, Regulation/NNP FD/NNP ,/, is/VBZ set/VBN to/TO take/VB effect/NN later/RBR this/DT month/NN ./.
+
 (ROOT
   (S
     (NP
@@ -377,7 +399,7 @@ conj_and(analysts-22, investors-25)
 det(measure-3, The-1)
 amod(measure-3, new-2)
 nsubjpass(set-9, measure-3)
-xsubj(take-11, measure-3)
+nsubj(take-11, measure-3)
 nn(FD-6, Regulation-5)
 appos(measure-3, FD-6)
 auxpass(set-9, is-8)
@@ -388,6 +410,8 @@ dobj(take-11, effect-12)
 advmod(month-15, later-13)
 det(month-15, this-14)
 tmod(take-11, month-15)
+
+But/CC Phillips/NNS said/VBD that/IN the/DT SEC/NNP had/VBD not/RB applied/VBN similar/JJ rules/NNS to/TO the/DT $7/CD trillion/CD mutual/JJ fund/NN industry/NN and/CC that/IN the/DT SEC/NNP should/MD press/NN the/DT industry/NN to/TO disclose/VB more/RBR frequently/JJ which/WDT stocks/NNS funds/NNS hold/VBD ./.
 
 (ROOT
   (S (CC But)
@@ -459,6 +483,8 @@ nn(funds-33, stocks-32)
 nsubj(hold-34, funds-33)
 ccomp(frequently-30, hold-34)
 
+Under/IN current/JJ regulations/NNS ,/, mutual/JJ funds/NNS are/VBP required/VBN to/TO disclose/VB their/PRP$ full/JJ holdings/NNS to/TO the/DT SEC/NNP twice/IN a/DT year/NN ./.
+
 (ROOT
   (S
     (PP (IN Under)
@@ -481,7 +507,7 @@ amod(regulations-3, current-2)
 prep_under(required-8, regulations-3)
 amod(funds-6, mutual-5)
 nsubjpass(required-8, funds-6)
-xsubj(disclose-10, funds-6)
+nsubj(disclose-10, funds-6)
 auxpass(required-8, are-7)
 root(ROOT-0, required-8)
 aux(disclose-10, to-9)
@@ -493,6 +519,8 @@ det(SEC-16, the-15)
 prep_to(disclose-10, SEC-16)
 det(year-19, a-18)
 prep_twice(disclose-10, year-19)
+
+Phillips/NNS thinks/IN portfolios/NNS should/MD be/VB disclosed/VBN monthly/JJ ,/, 90/CD days/NNS after/IN the/DT end/NN of/IN each/DT month/NN ./.
 
 (ROOT
   (S
@@ -526,6 +554,8 @@ det(end-13, the-12)
 prep_after(disclosed-6, end-13)
 det(month-16, each-15)
 prep_of(end-13, month-16)
+
+Paul/NNP F./NNP Roye/NNP ,/, the/DT director/NN of/IN the/DT SEC/NNP 's/POS division/NN of/IN investment/NN management/NN ,/, said/VBD he/PRP ``had/VBD to/TO do/VB a/DT bit/NN of/IN an/DT Al/JJ Gore/NN ''/'' and/CC defend/VB his/PRP$ boss/NNS '/POS record/NN ./.
 
 (ROOT
   (S
@@ -575,7 +605,8 @@ nn(management-14, investment-13)
 prep_of(division-11, management-14)
 root(ROOT-0, said-16)
 nsubj(``had-18, he-17)
-xsubj(do-20, he-17)
+nsubj(do-20, he-17)
+nsubj(defend-29, he-17)
 ccomp(said-16, ``had-18)
 aux(do-20, to-19)
 xcomp(``had-18, do-20)
@@ -589,6 +620,8 @@ conj_and(do-20, defend-29)
 poss(boss-31, his-30)
 poss(record-33, boss-31)
 dobj(defend-29, record-33)
+
+``The/PRP$ chairman/NN is/VBZ committed/VBN to/TO protecting/VBG investors/NNS ,''/, he/PRP said/VBD ,/, adding/VBG that/IN it/PRP was/VBD ``an/JJ overstatement/NN ''/'' to/TO say/VB that/IN all/DT investors/NNS wanted/VBD more/RBR frequent/JJ disclosure/NN of/IN mutual/JJ fund/NN portfolios/NNS ./.
 
 (ROOT
   (S
@@ -652,6 +685,8 @@ dobj(wanted-24, disclosure-27)
 amod(portfolios-31, mutual-29)
 nn(portfolios-31, fund-30)
 prep_of(disclosure-27, portfolios-31)
+
+``There's/IN a/DT group/NN of/IN investors/NNS that/WDT want/VBP more/RBR information/NN ,/, and/CC there/EX 's/VBZ also/RB a/DT group/NN of/IN investors/NNS who/WP say/VBP they/PRP are/VBP inundated/VBN with/IN information/NN ,''/, Roye/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -717,6 +752,8 @@ prep_with(inundated-23, information-25)
 punct('s-13, ,''-26)
 nsubj(said-28, Roye-27)
 root(ROOT-0, said-28)
+
+Roye/NNP suggested/VBD that/DT large/JJ ,/, closely/RB watched/VBD funds/NNS like/IN Fidelity/NNP 's/POS $104/CD billion/CD flagship/NN Magellan/NN fund/NN might/MD have/VB difficulty/JJ trading/NN in/IN and/CC out/RB of/IN positions/NNS with/IN too/RB frequent/JJ disclosure/NN and/CC that/DT funds/NNS like/IN Fidelity/NNP 's/POS $104/CD billion/CD flagship/NN Magellan/NN fund/NN might/MD have/VB difficulty/JJ trading/NN in/IN and/CC out/RB of/IN positions/NNS with/IN too/RB frequent/JJ disclosure/NN and/CC that/DT there/RB were/VBD higher/JJR priorities/NNS like/IN making/VBG fund/NN prospectuses/VBZ easier/NN to/TO read/VB and/CC toughening/VBG regulation/NN of/IN schemes/NNS to/TO manipulate/VB funds/NNS before/IN they/PRP report/VB their/PRP$ quarterly/JJ performance/NN figures/NNS ./.
 
 (ROOT
   (S
@@ -892,6 +929,8 @@ amod(figures-81, quarterly-79)
 nn(figures-81, performance-80)
 dobj(report-77, figures-81)
 
+Roye/NNP also/RB said/VBD that/IN his/PRP$ division/NN would/MD propose/VB a/DT rule/NN requiring/VBG mutual/JJ funds/NNS to/TO have/VB 80/CD percent/NN of/IN their/PRP$ portfolios/NNS invested/VBN in/IN the/DT style/NN ,/, asset/NN class/NN or/CC region/NN indicated/VBN by/IN the/DT name/NN of/IN the/DT fund/NN ,/, so/RB that/IN a/DT European/JJ investment/NN fund/NN ,/, for/IN example/NN ,/, would/MD have/VB to/TO be/VB 80/CD percent/JJ invested/VBN in/IN Europe/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Roye))
@@ -960,6 +999,7 @@ dobj(propose-8, rule-10)
 vmod(rule-10, requiring-11)
 amod(funds-13, mutual-12)
 dobj(requiring-11, funds-13)
+nsubj(have-15, funds-13)
 aux(have-15, to-14)
 xcomp(requiring-11, have-15)
 num(percent-17, 80-16)
@@ -985,7 +1025,7 @@ det(fund-43, a-40)
 amod(fund-43, European-41)
 nn(fund-43, investment-42)
 nsubj(have-49, fund-43)
-xsubj(invested-54, fund-43)
+nsubjpass(invested-54, fund-43)
 prep_for(fund-43, example-46)
 aux(have-49, would-48)
 advcl(have-15, have-49)
@@ -995,6 +1035,8 @@ dep(invested-54, 80-52)
 amod(80-52, percent-53)
 xcomp(have-49, invested-54)
 prep_in(invested-54, Europe-56)
+
+The/DT current/JJ requirement/NN is/VBZ 65/CD percent/JJ ./.
 
 (ROOT
   (S
@@ -1011,6 +1053,8 @@ nsubj(percent-6, requirement-3)
 cop(percent-6, is-4)
 npadvmod(percent-6, 65-5)
 root(ROOT-0, percent-6)
+
+The/DT panel/NN discussion/NN ,/, whose/WP$ focus/NN was/VBD on/IN the/DT disclosure/NN issue/NN ,/, was/VBD sponsored/VBN by/IN Fund/NNP Democracy/NNP ,/, a/DT fund/NN shareholder/NN advocacy/NN group/NN founded/VBD by/IN Mercer/NNP Bullard/NNP ,/, a/DT former/JJ lawyer/NN for/IN the/DT SEC/NNP 's/POS enforcement/NN division/NN ./.
 
 (ROOT
   (S
@@ -1072,6 +1116,8 @@ poss(division-37, SEC-34)
 nn(division-37, enforcement-36)
 prep_for(founded-24, division-37)
 
+Phillips/NNS and/CC Harold/NNP R./NNP Evensky/RB ,/, a/DT financial/JJ planner/NN ,/, repeatedly/RB criticized/VBN the/DT SEC/NNP 's/POS emphasis/NN on/IN simplification/NN over/IN portfolio/JJ disclosure/NN ./.
+
 (ROOT
   (S
     (NP
@@ -1114,6 +1160,8 @@ prep_on(criticized-12, simplification-18)
 amod(disclosure-21, portfolio-20)
 prep_over(simplification-18, disclosure-21)
 
+``You/PRP$ need/NN to/TO make/VB the/DT information/NN available/JJ ,''/NN Evensky/RB said/VBD ./.
+
 (ROOT
   (S
     (NP (PRP$ ``You) (NN need)
@@ -1139,6 +1187,8 @@ amod(,''-8, available-7)
 dobj(make-4, ,''-8)
 advmod(said-10, Evensky-9)
 root(ROOT-0, said-10)
+
+``Can/JJ you/PRP imagine/VBP a/DT corporation/NN just/RB issuing/VBG a/DT simple/JJ prospectus/NN because/IN the/DT financials/NNS are/VBP too/RB complicated/VBN ?''/.
 
 (ROOT
   (S
@@ -1174,6 +1224,8 @@ auxpass(complicated-16, are-14)
 advmod(complicated-16, too-15)
 advcl(issuing-7, complicated-16)
 punct(imagine-3, ?''-17)
+
+NYT-10-12-00/CD 1715EDT/CD
 
 (ROOT
   (FRAG

@@ -1,3 +1,5 @@
+APW20001203.1456.0329/DT NEWS/NNP STORY/NNPS 2000-12-03/CD 15:42:20/CD
+
 (ROOT
   (NP
     (NP (DT APW20001203.1456.0329))
@@ -10,10 +12,14 @@ dep(APW20001203.1456.0329-1, STORY-3)
 num(15:42:20-5, 2000-12-03-4)
 dep(APW20001203.1456.0329-1, 15:42:20-5)
 
+Watts-Gridiron/NNP
+
 (ROOT
   (NP (NNP Watts-Gridiron)))
 
 root(ROOT-0, Watts-Gridiron-1)
+
+Watts/NNP Jokes/NNP About/NNP Election/NNP Impasse/.
 
 (ROOT
   (NP (NNP Watts) (NNP Jokes) (NNP About) (NNP Election) (. Impasse)))
@@ -23,6 +29,8 @@ nn(Election-4, Jokes-2)
 nn(Election-4, About-3)
 root(ROOT-0, Election-4)
 punct(Election-4, Impasse-5)
+
+WHITE/NNP SULPHUR/NNP SPRINGS/NNP ,/, W.Va/NNP ./.
 
 (ROOT
   (NP
@@ -36,14 +44,18 @@ nn(SPRINGS-3, SULPHUR-2)
 root(ROOT-0, SPRINGS-3)
 appos(SPRINGS-3, W.Va-5)
 
-(ROOT
-  (NP (NNP (AP) (NNP )) (NNP _) (NNP Republican) (NNP Rep) (. .)))
+[AP/NNP ]/NNP _/NNP Republican/NNP Rep/NNP ./.
 
-nn(Rep-5, (AP-1)
-nn(Rep-5, )-2)
+(ROOT
+  (NP (NNP [AP) (NNP ]) (NNP _) (NNP Republican) (NNP Rep) (. .)))
+
+nn(Rep-5, [AP-1)
+nn(Rep-5, ]-2)
 nn(Rep-5, _-3)
 nn(Rep-5, Republican-4)
 root(ROOT-0, Rep-5)
+
+J.C./NNP Watts/NNPS joked/VBD Saturday/NNP night/NN that/IN he/PRP had/VBD revised/VBN returns/NNS on/IN the/DT presidential/JJ election/NN :/: ``Al/NNP Gore/NNP ,/, 9,834/CD lawsuits/NNS ./.
 
 (ROOT
   (S
@@ -84,6 +96,8 @@ dep(returns-10, Gore-17)
 num(lawsuits-20, 9,834-19)
 appos(Gore-17, lawsuits-20)
 
+George/NNP W./NNP Bush/NNP ,/, 7,652/CD .''/.
+
 (ROOT
   (FRAG
     (NP (NNP George) (NNP W.) (NNP Bush))
@@ -95,6 +109,8 @@ nn(Bush-3, W.-2)
 root(ROOT-0, Bush-3)
 dep(Bush-3, 7,652-5)
 punct(7,652-5, .''-6)
+
+Watts/NNP ,/, chairman/NN of/IN the/DT House/NNP Republican/NNP Conference/NNP ,/, bantered/VBD about/IN the/DT Florida/NNP election/NN dispute/NN in/IN a/DT speech/NN prepared/VBN for/IN a/DT dinner/NN of/IN The/DT Gridiron/NNP Club/NN at/IN the/DT Greenbrier/NNP Hotel/NNP ./.
 
 (ROOT
   (S
@@ -145,6 +161,8 @@ det(Hotel-30, the-28)
 nn(Hotel-30, Greenbrier-29)
 prep_at(prepared-19, Hotel-30)
 
+``I/NNP knew/NNP things/NNS had/VBD really/RB deteriorated/VBN when/WRB Yasser/NNP Arafat/NNP offered/VBD to/TO broker/VB a/DT peace/NN between/IN Bush/NNP and/CC Gore/NNP ,''/NNP Watts/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -179,7 +197,7 @@ root(ROOT-0, deteriorated-6)
 advmod(offered-10, when-7)
 nn(Arafat-9, Yasser-8)
 nsubj(offered-10, Arafat-9)
-xsubj(broker-12, Arafat-9)
+nsubj(broker-12, Arafat-9)
 advcl(deteriorated-6, offered-10)
 aux(broker-12, to-11)
 xcomp(offered-10, broker-12)
@@ -190,6 +208,8 @@ nn(Watts-20, Gore-18)
 nn(Watts-20, ,''-19)
 nsubj(said-21, Watts-20)
 conj_and(deteriorated-6, said-21)
+
+The/DT Gridiron/NNP Club/NNP is/VBZ an/DT organization/NN of/IN 60/CD Washington/NNP journalists/NNS ./.
 
 (ROOT
   (S
@@ -210,6 +230,8 @@ root(ROOT-0, organization-6)
 num(journalists-10, 60-8)
 nn(journalists-10, Washington-9)
 prep_of(organization-6, journalists-10)
+
+Its/NNS dinners/NNS feature/NN parodies/NNS of/IN politics/NNS and/CC government/NN ,/, and/CC humorous/JJ speeches/NNS by/IN political/JJ figures/NNS ./.
 
 (ROOT
   (NP
@@ -241,6 +263,8 @@ dep(dinners-2, speeches-12)
 conj_and(parodies-4, speeches-12)
 amod(figures-15, political-14)
 prep_by(speeches-12, figures-15)
+
+Watts/NNS noted/VBD that/IN the/DT presidential/JJ election/NN of/IN 1876/CD was/VBD so/RB disputed/VBD that/IN a/DT congressional/JJ commission/NN was/VBD created/VBN to/TO settle/VB it/PRP ./.
 
 (ROOT
   (S
@@ -282,12 +306,14 @@ mark(created-17, that-12)
 det(commission-15, a-13)
 amod(commission-15, congressional-14)
 nsubjpass(created-17, commission-15)
-xsubj(settle-19, commission-15)
+nsubj(settle-19, commission-15)
 auxpass(created-17, was-16)
 ccomp(disputed-11, created-17)
 aux(settle-19, to-18)
 xcomp(created-17, settle-19)
 dobj(settle-19, it-20)
+
+``I/NNP didn't/NNS know/VBP this/DT until/IN Strom/NNP Thurmond/NNP told/VBD me/PRP he/PRP cast/VBD the/DT deciding/VBG vote/NN ./.
 
 (ROOT
   (S
@@ -316,10 +342,12 @@ nsubj(told-8, Thurmond-7)
 advcl(know-3, told-8)
 dobj(told-8, me-9)
 nsubj(cast-11, he-10)
-dep(told-8, cast-11)
+ccomp(told-8, cast-11)
 det(vote-14, the-12)
 amod(vote-14, deciding-13)
 dobj(cast-11, vote-14)
+
+``Strom/NN will/MD be/VB 98/DT next/JJ Tuesday/NNP ,''/NNP Watts/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -342,6 +370,8 @@ nn(Watts-8, Tuesday-6)
 nn(Watts-8, ,''-7)
 root(ROOT-0, Watts-8)
 rcmod(Watts-8, said-9)
+
+``Of/NNP course/NN ,/, he/PRP was/VBD only/RB 67/CD when/WRB the/DT recount/NN of/IN Florida/NNP ballots/NNS began/VBD .''/.
 
 (ROOT
   (S
@@ -378,6 +408,8 @@ nn(ballots-13, Florida-12)
 prep_of(recount-10, ballots-13)
 rcmod(67-7, began-14)
 punct(67-7, .''-15)
+
+Watts/NNS said/VBD he/PRP had/VBD fond/VBN memories/NNS of/IN Florida/NNP because/IN he/PRP was/VBD the/DT quarterback/NN when/WRB the/DT University/NNP of/IN Oklahoma/NNP won/VBD the/DT Orange/NNP Bowl/NNP there/RB in/IN 1980/CD and/CC 1981/CD ./.
 
 (ROOT
   (S
@@ -440,6 +472,8 @@ prep_in(won-19, 1980-25)
 prep_in(won-19, 1981-27)
 conj_and(1980-25, 1981-27)
 
+``But/IN our/PRP$ victory/NN in/IN '81/NNP was/VBD by/IN a/DT single/JJ point/NN and/CC it/PRP was/VBD weeks/NNS before/IN it/PRP was/VBD confirmed/VBN ,''/IN he/PRP said/VBD ./.
+
 (ROOT
   (S
     (SBAR (IN ``But)
@@ -486,6 +520,8 @@ advcl(weeks-14, confirmed-18)
 prep_,''(confirmed-18, he-20)
 root(ROOT-0, said-21)
 
+``By/IN the/DT way/NN ,/, I/PRP recently/RB learned/VBD Al/NNP Gore/NNP was/VBD pulling/VBG for/IN Florida/NNP State/NNP and/CC demanded/VBD a/DT recount/NN .''/.
+
 (ROOT
   (S
     (PP (IN ``By)
@@ -524,6 +560,8 @@ det(recount-18, a-17)
 dobj(demanded-16, recount-18)
 punct(learned-7, .''-19)
 
+As/IN is/VBZ traditional/NN in/IN Gridiron/NNP speeches/NNS ,/, Watts/VBZ concluded/VBN on/IN a/DT serious/JJ note/NN ./.
+
 (ROOT
   (S
     (SBAR (IN As)
@@ -550,6 +588,8 @@ dep(Watts-8, concluded-9)
 det(note-13, a-11)
 amod(note-13, serious-12)
 prep_on(concluded-9, note-13)
+
+``Once-in-a-century/JJ oddities/NNS may/MD leave/VB an/DT election/NN result/NN up/RB in/IN the/DT air/NN for/IN a/DT time/NN ,/, but/CC the/DT fundamental/JJ strength/NN of/IN our/PRP$ democracy/NN is/VBZ never/RB in/IN doubt/NN ,''/, he/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -604,6 +644,8 @@ prep_in(is-23, doubt-26)
 punct(said-29, ,''-27)
 nsubj(said-29, he-28)
 ccomp(is-23, said-29)
+
+``Better/CC a/DT process/NN driven/VBN by/IN an/DT army/NN of/IN lawyers/NNS than/IN an/DT outrage/NN led/VBN by/IN an/DT army/NN with/IN guns/NNS ,''/, he/PRP said/VBD ./.
 
 (ROOT
   (S

@@ -1,3 +1,5 @@
+APW20001225.2035.0477/DT NEWS/NNP STORY/NNPS 2000-12-25/CD 21:42:22/CD
+
 (ROOT
   (NP
     (NP (DT APW20001225.2035.0477))
@@ -10,10 +12,14 @@ dep(APW20001225.2035.0477-1, STORY-3)
 num(21:42:22-5, 2000-12-25-4)
 dep(APW20001225.2035.0477-1, 21:42:22-5)
 
+AOL-Time-Warner/JJ
+
 (ROOT
   (ADJP (JJ AOL-Time-Warner)))
 
 root(ROOT-0, AOL-Time-Warner-1)
+
+Merger/NNP Foes/VBZ Focus/VBN on/IN AIM/NNP Service/NNP
 
 (ROOT
   (S
@@ -29,12 +35,14 @@ dep(Foes-2, Focus-3)
 nn(Service-6, AIM-5)
 prep_on(Focus-3, Service-6)
 
+WASHINGTON/NNP [AP/NNP ]/, _/DT All/NNP else/NN being/VBG equal/JJ ,/, Duane/JJ Roelands/NNS would/MD prefer/VB to/TO dash/VB off/RP short/JJ instant/JJ text/NN messages/NNS to/TO co-workers/NNS and/CC friends/NNS with/IN the/DT service/NN offered/VBN by/IN Microsoft/NNP _/, the/DT one/CD he/PRP finds/VBZ easiest/RB to/TO use/VB ./.
+
 (ROOT
   (S
     (S
       (NP
-        (NP (NNP WASHINGTON) (NNP (AP))
-        (PP (, ))
+        (NP (NNP WASHINGTON) (NNP [AP))
+        (PP (, ])
           (NP (DT _) (NNP All) (NN else))))
       (VP (VBG being)
         (ADJP (JJ equal))))
@@ -70,17 +78,17 @@ prep_on(Focus-3, Service-6)
                             (VP (VB use))))))))))))))
     (. .)))
 
-nn((AP-2, WASHINGTON-1)
-nsubj(equal-8, (AP-2)
-punct(else-6, )-3)
+nn([AP-2, WASHINGTON-1)
+nsubj(equal-8, [AP-2)
+punct(else-6, ]-3)
 det(else-6, _-4)
 nn(else-6, All-5)
-prep((AP-2, else-6)
+prep([AP-2, else-6)
 cop(equal-8, being-7)
 vmod(prefer-13, equal-8)
 amod(Roelands-11, Duane-10)
 nsubj(prefer-13, Roelands-11)
-xsubj(dash-15, Roelands-11)
+nsubj(dash-15, Roelands-11)
 aux(prefer-13, would-12)
 root(ROOT-0, prefer-13)
 aux(dash-15, to-14)
@@ -101,11 +109,13 @@ punct(one-33, _-31)
 det(one-33, the-32)
 prep(offered-28, one-33)
 nsubj(finds-35, he-34)
-xsubj(use-38, he-34)
+nsubj(use-38, he-34)
 rcmod(one-33, finds-35)
 advmod(finds-35, easiest-36)
 aux(use-38, to-37)
 xcomp(finds-35, use-38)
+
+But/CC for/IN Roelands/NNS ,/, all/DT else/NN is/VBZ not/RB equal/JJ :/: His/PRP$ office/NN ,/, clients/NNS and/CC nearly/RB everyone/IN else/JJ he/PRP knows/VBZ use/VB America/NNP Online/NNP 's/POS messaging/NN system/NN ./.
 
 (ROOT
   (S
@@ -158,6 +168,8 @@ poss(system-26, Online-23)
 nn(system-26, messaging-25)
 dobj(use-21, system-26)
 
+Now/RB ,/, he/PRP does/VBZ too/RB ./.
+
 (ROOT
   (S
     (ADVP (RB Now))
@@ -171,6 +183,8 @@ advmod(does-4, Now-1)
 nsubj(does-4, he-3)
 root(ROOT-0, does-4)
 advmod(does-4, too-5)
+
+``There/RB are/VBP features/NNS that/IN I/PRP want/VBP and/CC I/PRP like/IN ,''/PRP said/VBD Roelands/NNPS ,/, a/DT Web/NNP developer/NN ,/, who/WP likens/VBZ it/PRP to/TO the/DT battle/NN between/IN VHS/NNP and/CC Beta/NNP video/NN recorders/NNS in/IN the/DT 1980s/NNS ./.
 
 (ROOT
   (SINV
@@ -238,6 +252,8 @@ prep_between(battle-23, recorders-29)
 det(1980s-32, the-31)
 prep_in(battle-23, 1980s-32)
 
+``But/IN the/DT reality/NN is/VBZ if/IN I/PRP use/VB the/DT better/RBR product/NN ,/, I/PRP get/VBP less/RBR functionality/NN .''/.
+
 (ROOT
   (S
     (SBAR (IN ``But)
@@ -273,6 +289,8 @@ root(ROOT-0, get-13)
 advmod(get-13, less-14)
 dobj(get-13, functionality-15)
 punct(get-13, .''-16)
+
+For/IN this/DT reason/NN ,/, instant/JJ messaging/VBG rivals/NNS like/IN Microsoft/NNP ,/, AT&AMP;T/NNP and/CC ExciteAtHome/NNP maintain/VB their/PRP$ users/NNS ought/VBP to/TO be/VB able/JJ to/TO send/VB messages/NNS to/TO anyone/VB else/JJ ,/, regardless/JJ of/IN what/WP service/NN they/PRP happen/VBP to/TO have/VB ./.
 
 (ROOT
   (S
@@ -329,7 +347,8 @@ conj_and(Microsoft-9, ExciteAtHome-13)
 root(ROOT-0, maintain-14)
 poss(users-16, their-15)
 nsubj(ought-17, users-16)
-xsubj(able-20, users-16)
+nsubj(able-20, users-16)
+nsubj(send-22, users-16)
 ccomp(maintain-14, ought-17)
 aux(able-20, to-18)
 cop(able-20, be-19)
@@ -343,10 +362,12 @@ acomp(anyone-25, else-26)
 det(service-31, what-30)
 prep_regardless_of(send-22, service-31)
 nsubj(happen-33, they-32)
-xsubj(have-35, they-32)
+nsubj(have-35, they-32)
 rcmod(service-31, happen-33)
 aux(have-35, to-34)
 xcomp(happen-33, have-35)
+
+That/DT 's/VBZ not/RB currently/RB possible/JJ ./.
 
 (ROOT
   (S
@@ -360,6 +381,8 @@ cop(possible-5, 's-2)
 neg(possible-5, not-3)
 advmod(possible-5, currently-4)
 root(ROOT-0, possible-5)
+
+The/DT companies/NNS are/VBP lobbying/VBG the/DT Federal/NNP Communications/NNP Commission/NNP to/TO require/VB AOL/NNP to/TO make/VB its/PRP$ product/NN compatible/JJ with/IN those/DT offered/VBN by/IN competitors/NNS as/IN a/DT condition/NN of/IN its/PRP$ merger/NN with/IN Time/NNP Warner/NNP ./.
 
 (ROOT
   (S
@@ -400,9 +423,11 @@ root(ROOT-0, lobbying-4)
 det(Commission-8, the-5)
 nn(Commission-8, Federal-6)
 nn(Commission-8, Communications-7)
+dobj(lobbying-4, Commission-8)
 nsubj(require-10, Commission-8)
 aux(require-10, to-9)
 xcomp(lobbying-4, require-10)
+dobj(require-10, AOL-11)
 nsubj(make-13, AOL-11)
 aux(make-13, to-12)
 xcomp(require-10, make-13)
@@ -418,6 +443,8 @@ poss(merger-27, its-26)
 prep_of(condition-24, merger-27)
 nn(Warner-30, Time-29)
 prep_with(offered-19, Warner-30)
+
+So/RB far/RB ,/, the/DT agency/NN appears/NNS to/TO favor/VB a/DT more/RBR tailored/JJ approach/NN ./.
 
 (ROOT
   (S
@@ -443,6 +470,8 @@ det(approach-12, a-9)
 advmod(tailored-11, more-10)
 amod(approach-12, tailored-11)
 dobj(favor-8, approach-12)
+
+The/DT commission/NN 's/POS staff/NN has/VBZ recommended/VBN that/WDT AOL/MD be/VB required/VBN to/TO make/VB its/PRP$ system/NN work/NN with/IN at/IN least/JJS one/CD other/JJ provider/NN ,/, but/CC the/DT requirement/NN would/MD apply/VB only/RB to/TO advanced/VB instant/JJ messaging/VBG services/NNS offered/VBN over/IN Time/NNP Warner/NNP 's/POS cable/JJ lines/NNS ./.
 
 (ROOT
   (S
@@ -491,7 +520,7 @@ nsubj(recommended-6, staff-4)
 aux(recommended-6, has-5)
 root(ROOT-0, recommended-6)
 nsubjpass(required-10, that-7)
-xsubj(make-12, that-7)
+nsubj(make-12, that-7)
 aux(required-10, AOL-8)
 auxpass(required-10, be-9)
 ccomp(recommended-6, required-10)
@@ -508,7 +537,7 @@ amod(provider-21, other-20)
 prep_with(make-12, provider-21)
 det(requirement-25, the-24)
 nsubj(apply-27, requirement-25)
-xsubj(advanced-30, requirement-25)
+nsubj(advanced-30, requirement-25)
 aux(apply-27, would-26)
 conj_but(recommended-6, apply-27)
 advmod(apply-27, only-28)
@@ -522,6 +551,8 @@ nn(Warner-37, Time-36)
 poss(lines-40, Warner-37)
 amod(lines-40, cable-39)
 prep_over(offered-34, lines-40)
+
+How/NNP the/DT agency/NN defines/NNS advanced/VBD services/NNS is/VBZ unclear/JJ ./.
 
 (ROOT
   (S
@@ -544,6 +575,8 @@ root(ROOT-0, advanced-5)
 nsubj(unclear-8, services-6)
 cop(unclear-8, is-7)
 ccomp(advanced-5, unclear-8)
+
+They/PRP could/MD refer/VB to/TO features/NNS beyond/VBP text/RB messaging/VBG ,/, such/JJ as/IN video/NN teleconferencing/NN ,/, the/DT sharing/NN of/IN files/NNS or/CC messaging/VBG over/RP interactive/JJ television/NN ./.
 
 (ROOT
   (S
@@ -593,6 +626,8 @@ prt(messaging-20, over-21)
 amod(television-23, interactive-22)
 dobj(messaging-20, television-23)
 
+Today/NNP ,/, consumers/NNS more/RBR commonly/RB take/VB advantage/NN of/IN the/DT garden/NN variety/NN functions/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -617,6 +652,8 @@ det(functions-12, the-9)
 nn(functions-12, garden-10)
 nn(functions-12, variety-11)
 prep_of(advantage-7, functions-12)
+
+They/PRP type/VBP short/JJ real-time/JJ phrases/NNS to/TO others/NNS ,/, allowing/VBG them/PRP to/TO ``chat/VB ''/'' back-and-forth/JJ using/VBG text/NN ./.
 
 (ROOT
   (S
@@ -645,12 +682,15 @@ amod(phrases-5, real-time-4)
 dobj(type-2, phrases-5)
 prep_to(type-2, others-7)
 vmod(type-2, allowing-9)
+dobj(allowing-9, them-10)
 nsubj(``chat-12, them-10)
 aux(``chat-12, to-11)
 xcomp(allowing-9, ``chat-12)
 dobj(``chat-12, back-and-forth-14)
 vmod(back-and-forth-14, using-15)
 dobj(using-15, text-16)
+
+Unlike/NNP e-mail/NN ,/, it's/VBZ instantaneous/JJ and/CC gets/VBZ the/DT recipient/NN 's/POS attention/NN right/RB away/RB ./.
 
 (ROOT
   (S
@@ -679,6 +719,8 @@ dobj(gets-7, attention-11)
 advmod(away-13, right-12)
 advmod(gets-7, away-13)
 
+People/NNP can/MD communicate/VB with/IN international/JJ friends/NNS without/IN the/DT hefty/NN phone/NN bills/NNS ./.
+
 (ROOT
   (S
     (NP (NNP People))
@@ -699,6 +741,8 @@ det(bills-11, the-8)
 nn(bills-11, hefty-9)
 nn(bills-11, phone-10)
 prep_without(communicate-3, bills-11)
+
+And/CC the/DT service/NN has/VBZ taken/VBN hold/JJ with/IN those/DT who/WP have/VBP hearing/NN or/CC speech/NN disabilities/NNS ./.
 
 (ROOT
   (S (CC And)
@@ -732,6 +776,8 @@ conj_or(hearing-11, speech-13)
 nn(disabilities-14, speech-13)
 dobj(have-10, disabilities-14)
 
+Unlike/IN the/DT telephone/NN ,/, people/NNS can/MD discreetly/VB interact/VBN with/IN others/NNS _/, or/CC decide/VB not/RB to/TO ./.
+
 (ROOT
   (S
     (PP (IN Unlike)
@@ -755,7 +801,7 @@ det(telephone-3, the-2)
 prep_unlike(discreetly-7, telephone-3)
 nsubj(discreetly-7, people-5)
 nsubj(decide-13, people-5)
-xsubj(to-15, people-5)
+nsubj(to-15, people-5)
 aux(discreetly-7, can-6)
 root(ROOT-0, discreetly-7)
 dep(discreetly-7, interact-8)
@@ -764,6 +810,8 @@ punct(discreetly-7, _-11)
 conj_or(discreetly-7, decide-13)
 neg(to-15, not-14)
 xcomp(decide-13, to-15)
+
+``It/NNP 's/POS communications/NNS that/WDT can/MD be/VB ignored/VBN ,''/IN said/VBD Jonathan/NNP Sacks/NNP ,/, a/DT vice/NN president/NN at/IN AOL/NNP ,/, which/WDT runs/VBZ the/DT two/CD leading/VBG messaging/VBG services/NNS _/IN ICQ/NNP and/CC AIM/NNP _/, with/IN 140/CD million/CD users/NNS ./.
 
 (ROOT
   (S
@@ -834,6 +882,8 @@ number(million-33, 140-32)
 num(users-34, million-33)
 prep_with(leading-23, users-34)
 
+``On/IN the/DT telephone/NN ,/, you/PRP can't/VBP see/NN when/WRB somebody/RB is/VBZ near/IN the/DT phone/NN ./.
+
 (ROOT
   (S
     (PP (IN ``On)
@@ -860,6 +910,8 @@ advmod(is-10, somebody-9)
 advcl(can't-6, is-10)
 det(phone-13, the-12)
 prep_near(is-10, phone-13)
+
+You/PRP can't/VBD see/NN when/WRB it's/NNS convenient/VBP for/IN them/PRP to/TO communicate/VB with/IN you/PRP .''/.
 
 (ROOT
   (S
@@ -893,6 +945,8 @@ advcl(convenient-6, communicate-10)
 xcomp(convenient-6, communicate-10)
 prep_with(communicate-10, you-12)
 punct(can't-2, .''-13)
+
+AOL/NNP rivals/NNS say/VBP that/IN if/IN instant/JJ messaging/NN is/VBZ to/TO be/VB as/IN ubiquitous/JJ as/IN the/DT phone/NN network/NN ,/, it/PRP has/VBZ to/TO work/VB the/DT same/JJ way/NN :/: People/NNP who/WP use/NN different/JJ providers/NNS must/MD still/RB be/VB able/JJ to/TO contact/VB one/CD another/DT ./.
 
 (ROOT
   (S
@@ -944,7 +998,7 @@ mark(has-19, that-4)
 mark(is-8, if-5)
 amod(messaging-7, instant-6)
 nsubj(is-8, messaging-7)
-xsubj(be-10, messaging-7)
+nsubj(be-10, messaging-7)
 advcl(has-19, is-8)
 aux(be-10, to-9)
 xcomp(is-8, be-10)
@@ -953,7 +1007,7 @@ det(network-16, the-14)
 nn(network-16, phone-15)
 prep_as(ubiquitous-12, network-16)
 nsubj(has-19, it-18)
-xsubj(work-21, it-18)
+nsubj(work-21, it-18)
 ccomp(say-3, has-19)
 aux(work-21, to-20)
 xcomp(has-19, work-21)
@@ -962,10 +1016,10 @@ amod(way-24, same-23)
 dobj(work-21, way-24)
 dep(way-24, People-26)
 dobj(able-34, People-26)
+nsubj(contact-36, People-26)
 nn(providers-30, use-28)
 amod(providers-30, different-29)
 nsubj(able-34, providers-30)
-xsubj(contact-36, providers-30)
 aux(able-34, must-31)
 advmod(able-34, still-32)
 cop(able-34, be-33)
@@ -974,6 +1028,8 @@ aux(contact-36, to-35)
 xcomp(able-34, contact-36)
 dobj(contact-36, one-37)
 dep(one-37, another-38)
+
+They/PRP continue/VBP to/TO lobby/VB the/DT FCC/NNP ,/, hoping/VBG to/TO see/VB the/DT conditions/NNS broadened/VBN before/IN the/DT agency/NN issues/NNS its/PRP$ final/JJ decision/NN ./.
 
 (ROOT
   (S
@@ -999,7 +1055,7 @@ dep(one-37, another-38)
     (. .)))
 
 nsubj(continue-2, They-1)
-xsubj(lobby-4, They-1)
+nsubj(lobby-4, They-1)
 root(ROOT-0, continue-2)
 aux(lobby-4, to-3)
 xcomp(continue-2, lobby-4)
@@ -1017,6 +1073,8 @@ prep_before(broadened-13, issues-17)
 poss(decision-20, its-18)
 amod(decision-20, final-19)
 dep(issues-17, decision-20)
+
+``It/NNP 's/POS really/RB important/JJ to/TO get/VB this/DT right/RB before/IN innovation/NN is/VBZ squashed/VBN because/IN one/CD company/NN has/VBZ a/DT monopoly/JJ ,''/NN said/VBD Jon/NNP Englund/NNP ,/, vice/NN president/NN of/IN government/NN affairs/NNS for/IN ExciteAtHome/NNP ./.
 
 (ROOT
   (SINV
@@ -1079,6 +1137,8 @@ nn(affairs-28, government-27)
 prep_of(president-25, affairs-28)
 prep_for(affairs-28, ExciteAtHome-30)
 
+``It's/IN absolutely/RB critical/JJ that/IN Internet/NNP uses/VBZ have/VBP real/JJ choice/NN among/IN competing/VBG platforms/NNS .''/.
+
 (ROOT
   (S
     (SBAR (IN ``It's)
@@ -1108,6 +1168,8 @@ dobj(have-7, choice-9)
 amod(platforms-12, competing-11)
 prep_among(choice-9, platforms-12)
 punct(have-7, .''-13)
+
+AOL/NNP has/VBZ said/VBN it/PRP wants/VBZ to/TO work/VB toward/IN interoperability/NN ,/, but/CC first/RB needs/VBZ to/TO protect/VB consumer/NN privacy/NN and/CC security/NN to/TO prevent/VB the/DT kinds/NNS of/IN problems/NNS that/WDT have/VBP emerged/VBN in/IN the/DT e-mail/JJ world/NN ,/, like/IN spamming/VBG _/DT unwanted/JJ junk/NN messages/NNS ./.
 
 (ROOT
   (S
@@ -1160,9 +1222,9 @@ nsubj(said-3, AOL-1)
 aux(said-3, has-2)
 root(ROOT-0, said-3)
 nsubj(wants-5, it-4)
-xsubj(work-7, it-4)
+nsubj(work-7, it-4)
 nsubj(needs-13, it-4)
-xsubj(protect-15, it-4)
+nsubj(protect-15, it-4)
 ccomp(said-3, wants-5)
 aux(work-7, to-6)
 xcomp(wants-5, work-7)
@@ -1193,6 +1255,8 @@ amod(messages-39, unwanted-37)
 nn(messages-39, junk-38)
 dobj(spamming-35, messages-39)
 
+Company/NNP officials/NNS disagreed/VBD that/IN AOL/NNP 's/POS market/NN share/NN was/VBD keeping/VBG out/IN competitors/NNS ./.
+
 (ROOT
   (S
     (NP (NNP Company) (NNS officials))
@@ -1219,13 +1283,15 @@ aux(keeping-10, was-9)
 ccomp(disagreed-3, keeping-10)
 prep_out(keeping-10, competitors-12)
 
+AOL/NNP executives/NNS cited/VBD a/DT recent/JJ study/NN by/IN Media/NNP Metrix/NNP indicating/VBG that/IN the/DT messaging/VBG services/NNS offered/VBN by/IN Yahoo!/NNP and/CC Microsoft/NNP are/VBP the/DT fastest/JJS growing/VBG in/IN the/DT United/NNP States/NNPS ./.
+
 (ROOT
   (S
     (NP (NNP AOL) (NNS executives))
     (VP (VBD cited)
       (NP (DT a) (JJ recent) (NN study))
       (PP (IN by)
-        (S
+        (NP
           (NP (NNP Media) (NNP Metrix))
           (VP (VBG indicating)
             (SBAR (IN that)
@@ -1252,8 +1318,8 @@ det(study-6, a-4)
 amod(study-6, recent-5)
 dobj(cited-3, study-6)
 nn(Metrix-9, Media-8)
-nsubj(indicating-10, Metrix-9)
-prepc_by(cited-3, indicating-10)
+prep_by(cited-3, Metrix-9)
+vmod(Metrix-9, indicating-10)
 mark(growing-23, that-11)
 det(services-14, the-12)
 amod(services-14, messaging-13)
@@ -1269,6 +1335,8 @@ ccomp(indicating-10, growing-23)
 det(States-27, the-25)
 nn(States-27, United-26)
 prep_in(growing-23, States-27)
+
+Why/RB all/PDT the/DT fuss/NN over/IN a/DT free/JJ product/NN that/IN anyone/NN ,/, even/RB those/DT who/WP don't/VBP subscribe/JJ to/TO AOL/NNP ,/, can/MD use/VB ?/.
 
 (ROOT
   (FRAG
@@ -1313,6 +1381,8 @@ acomp(don't-15, subscribe-16)
 prep_to(subscribe-16, AOL-18)
 aux(use-21, can-20)
 dep(fuss-4, use-21)
+
+Some/DT pointed/VBN to/TO the/DT recent/JJ demise/NN of/IN two/CD instant/JJ messaging/VBG competitors/NNS _/IN iCAST/NNP and/CC Tribal/NNP Voice/NNP _/, as/IN evidence/NN that/IN AOL/NNP 's/POS dominance/NN could/MD prevent/VB choices/NNS in/IN the/DT market/NN ./.
 
 (ROOT
   (S
@@ -1368,6 +1438,8 @@ dobj(prevent-25, choices-26)
 det(market-29, the-28)
 prep_in(prevent-25, market-29)
 
+Another/NNP concern/NN is/VBZ that/DT AOL/NNP could/MD use/VB its/PRP$ substantial/JJ customer/NN base/NN to/TO tack/VB on/IN new/JJ advanced/JJ services/NNS and/CC then/RB charge/NN for/IN them/PRP ./.
+
 (ROOT
   (S
     (NP (NNP Another) (NN concern))
@@ -1416,6 +1488,8 @@ prep(charge-20, then-19)
 dobj(tack-13, charge-20)
 prep_for(tack-13, them-22)
 
+Rivals/NNS said/VBD the/DT ability/NN of/IN various/JJ services/NNS to/TO work/VB together/NN will/MD become/VB increasingly/RB important/NN in/IN the/DT future/NN ./.
+
 (ROOT
   (S
     (NP (NNS Rivals))
@@ -1442,18 +1516,20 @@ prep_for(tack-13, them-22)
 nsubj(said-2, Rivals-1)
 root(ROOT-0, said-2)
 det(ability-4, the-3)
-nsubj(important-14, ability-4)
+nsubj(become-12, ability-4)
 amod(services-7, various-6)
 prep_of(ability-4, services-7)
 aux(work-9, to-8)
 vmod(ability-4, work-9)
 dobj(work-9, together-10)
-aux(important-14, will-11)
-cop(important-14, become-12)
-advmod(important-14, increasingly-13)
-ccomp(said-2, important-14)
+aux(become-12, will-11)
+ccomp(said-2, become-12)
+advmod(become-12, increasingly-13)
+xcomp(become-12, important-14)
 det(future-17, the-16)
 prep_in(important-14, future-17)
+
+For/IN example/NN ,/, as/IN instant/JJ messaging/VBG migrates/NNS to/TO cell/VB phones/NNS or/CC hand-held/JJ computer/NN organizers/NNS ,/, consumers/NNS won't/VBD want/VBP to/TO have/VB to/TO install/VB multiple/JJ services/NNS on/IN these/DT devices/NNS ,/, said/VBD Brian/NNP Park/NNP ,/, senior/JJ product/NN for/IN Yahoo!/NNP Communications/NNPS Services/NNS ./.
 
 (ROOT
   (SINV
@@ -1528,6 +1604,8 @@ nn(Services-38, Yahoo!-36)
 nn(Services-38, Communications-37)
 prep_for(product-34, Services-38)
 
+``You/PRP can/MD have/VB the/DT best/RBS service/NN and/CC the/DT coolest/JJS features/NNS ,/, but/CC nobody/NN is/VBZ going/VBG to/TO use/VB it/PRP if/IN it/PRP doesn't/VBD communicate/NN with/IN other/JJ services/NNS ,''/, Park/NNP said/VBD ./.
+
 (ROOT
   (S
     (S
@@ -1574,7 +1652,7 @@ amod(features-10, coolest-9)
 dobj(have-3, features-10)
 conj_and(the-4, features-10)
 nsubj(going-15, nobody-13)
-xsubj(use-17, nobody-13)
+nsubj(use-17, nobody-13)
 aux(going-15, is-14)
 conj_but(have-3, going-15)
 aux(use-17, to-16)
@@ -1590,10 +1668,14 @@ punct(said-28, ,''-26)
 nsubj(said-28, Park-27)
 dep(doesn't-21, said-28)
 
+___/.
+
 (ROOT
   (NP (. ___)))
 
 root(ROOT-0, ___-1)
+
+On/IN the/DT Net/NN :/:
 
 (ROOT
   (PP (IN On)
@@ -1603,6 +1685,8 @@ root(ROOT-0, ___-1)
 root(ROOT-0, On-1)
 det(Net-3, the-2)
 pobj(On-1, Net-3)
+
+America/NNP Online/NNP corporate/JJ site/NN :/: http:/.
 
 (ROOT
   (NP
@@ -1615,6 +1699,8 @@ nn(site-4, Online-2)
 amod(site-4, corporate-3)
 root(ROOT-0, site-4)
 dep(site-4, http:-6)
+
+IMUnified,/NNP coalition/NN formed/VBN by/IN AT&AMP;T/NNP ,/, ExciteAtHome/NNP ,/, Microsoft/NNP :/: http:/.
 
 (ROOT
   (S

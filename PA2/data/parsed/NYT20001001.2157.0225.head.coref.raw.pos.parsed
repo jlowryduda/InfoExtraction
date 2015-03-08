@@ -1,3 +1,5 @@
+NYT20001001.2157.0225/CD NEWS/NNP STORY/NNP 2000-10-01/CD 22:44:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001001.2157.0225))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001001.2157.0225-1, STORY-3)
 num(22:44:00-5, 2000-10-01-4)
 dep(NYT20001001.2157.0225-1, 22:44:00-5)
+
+A8839/CD &Cx1f/NN ;/: taf-z/NNP u/NNP k/NNP BC-EDIT-SCOTUS-NYT/NNP &LR/NNP ;/: 10-01/CD 0557/CD
 
 (ROOT
   (NP
@@ -30,10 +34,14 @@ dep(&Cx1f-2, &LR-8)
 number(0557-11, 10-01-10)
 dep(&LR-8, 0557-11)
 
+BC-EDIT-SCOTUS-NYT/NNP
+
 (ROOT
   (NP (NNP BC-EDIT-SCOTUS-NYT)))
 
 root(ROOT-0, BC-EDIT-SCOTUS-NYT-1)
+
+EDITORIAL/NNP :/: ISSUES/NNP FOR/NNP THE/NNP SUPREME/NNP COURT/NNP
 
 (ROOT
   (NP
@@ -48,6 +56,8 @@ nn(COURT-7, THE-5)
 nn(COURT-7, SUPREME-6)
 dep(EDITORIAL-1, COURT-7)
 
+&UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
 (ROOT
   (NP
     (NP (NNS &UR))
@@ -58,6 +68,8 @@ dep(EDITORIAL-1, COURT-7)
 root(ROOT-0, &UR-1)
 num(N.Y-4, c.2000-3)
 dep(&UR-1, N.Y-4)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -75,6 +87,8 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
+
+The/DT New/NNP York/NNP Times/NNP said/VBD in/IN an/DT editorial/NN on/IN Monday/NNP ,/, Oct/NNP ./.
 
 (ROOT
   (S
@@ -99,10 +113,14 @@ prep_in(said-5, editorial-8)
 prep_on(editorial-8, Monday-10)
 prep_in(said-5, Oct-12)
 
+2/CD :/:
+
 (ROOT
   (NP (CD 2) (: :)))
 
 root(ROOT-0, 2-1)
+
+The/DT new/JJ Supreme/NNP Court/NNP term/NN ,/, which/WDT opens/VBZ today/NN ,/, has/VBZ no/DT high-profile/JJ cases/NNS to/TO match/NN last/JJ session/NN 's/POS tangles/NNS over/IN partial/JJ birth/JJ abortion/NN ,/, gays/VBZ in/IN the/DT Boy/NNP Scouts/NNPS and/CC organized/JJ prayer/NN at/IN high/JJ school/NN football/NN games/NNS ./.
 
 (ROOT
   (S
@@ -170,6 +188,8 @@ nn(games-38, school-36)
 nn(games-38, football-37)
 prep_at(gays-26, games-38)
 
+But/CC even/RB shorn/JJ of/IN the/DT Microsoft/NNP case/NN ,/, this/DT season/NN will/MD not/RB lack/VB for/IN suspense/NN or/CC importance/NN ./.
+
 (ROOT
   (S (CC But)
     (NP
@@ -201,6 +221,8 @@ root(ROOT-0, lack-13)
 prep_for(lack-13, suspense-15)
 prep_for(lack-13, importance-17)
 conj_or(suspense-15, importance-17)
+
+The/DT court/NN 's/POS docket/NN includes/VBZ cases/NNS that/WDT ,/, depending/VBG on/IN their/PRP$ outcome/NN ,/, could/MD significantly/RB bolster/VB or/CC weaken/VB environmental/JJ protection/NN ,/, federal/JJ civil/NN rights/NNS ,/, freedom/NN of/IN the/DT press/NN and/CC the/DT Fourth/NNP Amendment/NNP 's/POS shield/NN against/IN unreasonable/JJ searches/NNS and/CC seizures/NNS ./.
 
 (ROOT
   (S
@@ -277,6 +299,8 @@ prep_against(shield-35, searches-38)
 prep_against(shield-35, seizures-40)
 conj_and(searches-38, seizures-40)
 
+Once/NNP again/RB ,/, a/DT prime/JJ battleground/NN will/MD be/VB the/DT constitutional/JJ allocation/NN of/IN power/NN _/NN between/IN the/DT federal/JJ government/NN and/CC the/DT states/NNS ,/, and/CC between/IN Congress/NNP and/CC federal/JJ regulatory/NN agencies/NNS ./.
+
 (ROOT
   (S
     (S
@@ -330,6 +354,8 @@ amod(agencies-29, federal-27)
 nn(agencies-29, regulatory-28)
 conj_and(government-18, agencies-29)
 conj_and(Congress-25, agencies-29)
+
+Last/JJ term/NN ,/, the/DT court/NN lengthened/VBD its/PRP$ string/NN of/IN regrettable/JJ 5-to-4/CD decisions/NNS trimming/VBG federal/JJ authority/NN by/IN striking/VBG down/RP portions/NNS of/IN the/DT Violence/NNP Against/NNP Women/NNP Act/NNP and/CC the/DT federal/JJ law/NN barring/VBG age/JJ discrimination/NN in/IN employment/NN ./.
 
 (ROOT
   (S
@@ -392,6 +418,8 @@ amod(discrimination-32, age-31)
 prep_barring(law-29, discrimination-32)
 prep_in(discrimination-32, employment-34)
 
+A/DT case/NN to/TO be/VB heard/NN next/JJ week/NN tests/NNS whether/IN the/DT majority/NN 's/POS constricted/JJ view/NN of/IN federal/JJ power/NN extends/NNS to/TO shielding/VBG states/NNS from/IN lawsuits/NNS brought/VBN by/IN their/PRP$ public/JJ employees/NNS under/IN the/DT Americans/NNPS With/IN Disabilities/NNP Act/NNP ./.
+
 (ROOT
   (S
     (NP (DT A) (NN case)
@@ -450,6 +478,8 @@ prep_under(brought-24, Americans-31)
 nn(Act-34, Disabilities-33)
 prep_with(brought-24, Act-34)
 
+In/IN another/DT big/JJ federalism/NN case/NN with/IN implications/NNS for/IN the/DT environment/NN ,/, the/DT court/NN will/MD consider/VB whether/IN Congress/NNP exceeded/VBD its/PRP$ Commerce/NNP Clause/NN powers/NNS by/IN allowing/VBG regulation/NN of/IN small/JJ ,/, intrastate/JJ wetlands/NNS to/TO protect/VB the/DT habitats/NNS of/IN migratory/JJ birds/NNS ./.
+
 (ROOT
   (S
     (PP (IN In)
@@ -505,6 +535,7 @@ nn(powers-22, Clause-21)
 dobj(exceeded-18, powers-22)
 prepc_by(exceeded-18, allowing-24)
 dobj(allowing-24, regulation-25)
+nsubj(protect-32, regulation-25)
 amod(wetlands-30, small-27)
 amod(wetlands-30, intrastate-29)
 prep_of(regulation-25, wetlands-30)
@@ -514,6 +545,8 @@ det(habitats-34, the-33)
 dobj(protect-32, habitats-34)
 amod(birds-37, migratory-36)
 prep_of(habitats-34, birds-37)
+
+This/DT term/NN the/DT court/NN will/MD also/RB weigh/VB a/DT challenge/NN to/TO the/DT authority/NN of/IN the/DT Environmental/NNP Protection/NNP Agency/NNP to/TO set/VB national/JJ standards/NNS for/IN air/NN pollutants/NNS ./.
 
 (ROOT
   (S
@@ -558,6 +591,8 @@ amod(standards-21, national-20)
 dobj(set-19, standards-21)
 nn(pollutants-24, air-23)
 prep_for(set-19, pollutants-24)
+
+The/DT justices/NNS should/MD resist/VB this/DT invitation/NN to/TO disrupt/VB the/DT modern/JJ regulatory/NN system/NN by/IN overturning/VBG Congress/NNP '/POS broad/NN delegation/NN of/IN authority/NN to/TO the/DT EPA/NNP or/CC otherwise/VB diluting/VBG the/DT agency/NN 's/POS power/NN to/TO set/VB ``uncompromising/VBG ''/'' health-based/JJ standards/NNS ./.
 
 (ROOT
   (S
@@ -627,6 +662,8 @@ xcomp(set-32, ``uncompromising-33)
 amod(standards-36, health-based-35)
 dobj(``uncompromising-33, standards-36)
 
+On/IN Tuesday/NNP ,/, the/DT court/NN begins/VBZ the/DT term/NN 's/POS review/NN of/IN Fourth/NNP Amendment/NNP principles/NNS with/IN an/DT Indianapolis/NNP case/NN involving/VBG the/DT use/NN of/IN police/NN checkpoints/NNS and/CC drug-sniffing/JJ dogs/NNS to/TO check/VB motorists/NNS for/IN illicit/NN drugs/NNS ./.
+
 (ROOT
   (S
     (PP (IN On)
@@ -687,6 +724,8 @@ dobj(check-29, motorists-30)
 nn(drugs-33, illicit-32)
 prep_for(motorists-30, drugs-33)
 
+The/DT court/NN should/MD view/VB these/DT law/NN enforcement/NN stops/NNS as/IN an/DT overly/RB aggressive/JJ leap/NN from/IN the/DT sobriety/NN checkpoints/VBZ it/PRP has/VBZ previously/RB approved/VBN to/TO remove/VB an/DT immediate/JJ safety/NN hazard/NN ./.
+
 (ROOT
   (S
     (NP (DT The) (NN court))
@@ -732,7 +771,7 @@ det(sobriety-16, the-15)
 prep_from(leap-13, sobriety-16)
 advcl(view-4, checkpoints-17)
 nsubj(approved-21, it-18)
-xsubj(remove-23, it-18)
+nsubj(remove-23, it-18)
 aux(approved-21, has-19)
 advmod(approved-21, previously-20)
 ccomp(checkpoints-17, approved-21)
@@ -742,6 +781,8 @@ det(hazard-27, an-24)
 amod(hazard-27, immediate-25)
 nn(hazard-27, safety-26)
 dobj(remove-23, hazard-27)
+
+Then/RB ,/, on/IN Wednesday/NN ,/, the/DT court/NN will/MD consider/VB the/DT outrageous/JJ privacy/NN violation/NN committed/VBD against/IN pregnant/JJ women/JJ who/WP were/VBD selectively/RB tested/VBN for/IN cocaine/NN use/NN while/IN seeking/VBG prenatal/JJ care/NN at/IN a/DT South/JJ Carolina/NNP hospital/NN ,/, and/CC subsequently/RB arrested/JJ or/CC threatened/JJ with/IN arrest/NN ./.
 
 (ROOT
   (S
@@ -822,6 +863,8 @@ conj_and(tested-21, threatened-39)
 conj_or(arrested-37, threatened-39)
 prep_with(arrested-37, arrest-41)
 
+Amicus/DT briefs/NN from/IN leading/VBG medical/JJ and/CC health/JJ groups/NNS caution/NN that/IN such/JJ punitive/JJ policies/NNS will/MD drive/VB women/JJ away/NN from/IN critically/RB needed/JJ prenatal/JJ care/NN and/CC treatment/NN programs/NNS ./.
+
 (ROOT
   (S
     (NP (DT Amicus))
@@ -871,6 +914,8 @@ nn(programs-25, treatment-24)
 prep_from(drive-15, programs-25)
 conj_and(care-22, programs-25)
 
+Later/NNP this/DT term/NN ,/, the/DT court/NN will/MD confront/VB a/DT major/JJ media/NN case/NN ./.
+
 (ROOT
   (S
     (S
@@ -894,6 +939,8 @@ det(case-12, a-9)
 amod(case-12, major-10)
 nn(case-12, media-11)
 dobj(confront-8, case-12)
+
+At/IN issue/NN is/VBZ the/DT liability/NN of/IN a/DT Pennsylvania/NNP radio/NN station/NN under/IN the/DT federal/JJ wiretap/NN statute/NN for/IN broadcasting/VBG an/DT illegally/RB taped/VBN cell/NN phone/NN conversation/NN between/IN two/CD union/NN officials/NNS ./.
 
 (ROOT
   (S
@@ -945,6 +992,8 @@ num(officials-27, two-25)
 nn(officials-27, union-26)
 prep_between(conversation-23, officials-27)
 
+No/DT one/CD accuses/NNS the/DT station/NN of/IN involvement/NN in/IN the/DT taping/NN ,/, which/WDT was/VBD done/VBN by/IN an/DT anonymous/JJ third/JJ party/NN ./.
+
 (ROOT
   (NP
     (NP (DT No) (CD one) (NNS accuses))
@@ -981,6 +1030,8 @@ det(party-19, an-16)
 amod(party-19, anonymous-17)
 amod(party-19, third-18)
 agent(done-14, party-19)
+
+Should/NNP the/DT court/NN override/IN the/DT station/NN 's/POS First/JJ Amendment/NN privilege/NN here/RB ,/, the/DT chilling/VBG impact/NN on/IN newsgathering/NN cannot/NN be/VB overstated/JJ ,/, much/JJ as/IN The/DT Times/NNP intends/VBZ to/TO argue/VB in/IN an/DT amicus/JJ brief/NN ./.
 
 (ROOT
   (S
@@ -1032,13 +1083,15 @@ advmod(intends-26, much-22)
 mark(intends-26, as-23)
 det(Times-25, The-24)
 nsubj(intends-26, Times-25)
-xsubj(argue-28, Times-25)
+nsubj(argue-28, Times-25)
 advcl(overstated-20, intends-26)
 aux(argue-28, to-27)
 xcomp(intends-26, argue-28)
 det(brief-32, an-30)
 amod(brief-32, amicus-31)
 prep_in(argue-28, brief-32)
+
+NYT-10-01-00/CD 2244EDT/CD
 
 (ROOT
   (FRAG

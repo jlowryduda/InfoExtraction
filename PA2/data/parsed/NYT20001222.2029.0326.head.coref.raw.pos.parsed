@@ -1,3 +1,5 @@
+NYT20001222.2029.0326/NNP NEWS/NNP STORY/NNP 2000-12-22/CD 20:33:00/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001222.2029.0326) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(20:33:00-5, 2000-12-22-4)
 dep(STORY-3, 20:33:00-5)
+
+A9224/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-CI-MACKENZIE-NYT/NNP &LR/NNP ;/: 12-22/CD 0544/CD
 
 (ROOT
   (NP
@@ -29,10 +33,14 @@ dep(&Cx1f-2, &LR-8)
 number(0544-11, 12-22-10)
 dep(&LR-8, 0544-11)
 
+BC-CI-MACKENZIE-NYT/NNP
+
 (ROOT
   (NP (NNP BC-CI-MACKENZIE-NYT)))
 
 root(ROOT-0, BC-CI-MACKENZIE-NYT-1)
+
+CANADIAN/NNP MUTUAL/NNP FUND/NNP COMPANY/NNP WITHDRAWS/NNP BID/NNP FOR/NNP LARGER/NNP RIVAL/NNP
 
 (ROOT
   (NP (NNP CANADIAN) (NNP MUTUAL) (NNP FUND) (NNP COMPANY) (NNP WITHDRAWS) (NNP BID) (NNP FOR) (NNP LARGER) (NNP RIVAL)))
@@ -46,6 +54,8 @@ nn(RIVAL-9, BID-6)
 nn(RIVAL-9, FOR-7)
 nn(RIVAL-9, LARGER-8)
 root(ROOT-0, RIVAL-9)
+
+&UR/NNS ;/: By/NNP TIMOTHY/NNP PRITCHARD/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -79,6 +89,8 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -95,6 +107,8 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
+
+TORONTO/NNP _/NNP Unwilling/VBG to/TO fight/VB a/DT counterbid/NN that/WDT so/RB far/RB is/VBZ only/RB speculation/NN ,/, C.I./NNP Fund/NNP Management/NNP Inc/NNP ./.
 
 (ROOT
   (NP
@@ -134,6 +148,8 @@ nn(Inc-18, C.I.-15)
 nn(Inc-18, Fund-16)
 nn(Inc-18, Management-17)
 appos(speculation-13, Inc-18)
+
+has/VBZ scrapped/VBN a/DT $2.5/CD billion/CD hostile/JJ takeover/NN attempt/NN of/IN a/DT larger/JJR rival/NN ,/, the/DT Mackenzie/NNP Financial/NNP Corp/NNP .,/, along/RB with/IN its/PRP$ hope/NN of/IN combining/VBG the/DT two/CD Toronto/NNP companies/NNS to/TO form/NN Canada/NNP 's/POS largest/JJS mutual-fund/NN empire/NN ./.
 
 (ROOT
   (S
@@ -189,6 +205,7 @@ prepc_of(hope-22, combining-24)
 det(companies-28, the-25)
 num(companies-28, two-26)
 nn(companies-28, Toronto-27)
+dobj(combining-24, companies-28)
 nsubj(form-30, companies-28)
 aux(form-30, to-29)
 xcomp(combining-24, form-30)
@@ -196,6 +213,8 @@ poss(empire-35, Canada-31)
 amod(empire-35, largest-33)
 nn(empire-35, mutual-fund-34)
 dobj(form-30, empire-35)
+
+Although/IN C.I./NNP Fund/NNP 's/POS cash-and-stock/NN offer/NN ,/, made/VBD six/CD weeks/NNS ago/RB ,/, was/VBD almost/RB 40/CD percent/JJ higher/JJR than/IN the/DT price/NN of/IN Mackenzie/NNP shares/NNS on/IN the/DT Toronto/NNP Stock/NNP Exchange/NNP ,/, Mackenzie/NNP management/NN quickly/RB branded/VBD the/DT offer/NN ``opportunistic/JJ ''/'' and/CC activated/VBD a/DT poison/NN pill/NN ,/, a/DT strategy/NN that/WDT makes/VBZ a/DT hostile/JJ bid/NN prohibitively/RB expensive/JJ ,/, to/TO give/VB it/PRP more/RBR time/NN to/TO find/VB other/JJ buyers/NNS ./.
 
 (ROOT
   (S
@@ -298,7 +317,7 @@ dobj(activated-39, pill-42)
 det(strategy-45, a-44)
 appos(pill-42, strategy-45)
 nsubj(makes-47, strategy-45)
-xsubj(give-55, strategy-45)
+nsubj(give-55, strategy-45)
 rcmod(strategy-45, makes-47)
 det(bid-50, a-48)
 amod(bid-50, hostile-49)
@@ -314,6 +333,8 @@ aux(find-60, to-59)
 vmod(give-55, find-60)
 amod(buyers-62, other-61)
 dobj(find-60, buyers-62)
+
+Mackenzie/NNP also/RB told/VBD its/PRP$ 1,400/CD employees/NNS that/IN anyone/NN who/WP was/VBD fired/VBN by/IN a/DT new/JJ owner/NN would/MD receive/VB a/DT year/NN 's/POS salary/NN ./.
 
 (ROOT
   (S
@@ -359,6 +380,8 @@ det(year-19, a-18)
 poss(salary-21, year-19)
 dobj(receive-17, salary-21)
 
+C.I./NNP Fund/NNP was/VBD not/RB helped/VBN in/IN its/PRP$ quest/NN by/IN another/DT small/JJ fund/NN company/NN ,/, AIC/NNP Ltd/NNP ./.
+
 (ROOT
   (S
     (NP (NNP C.I.) (NNP Fund))
@@ -387,6 +410,8 @@ agent(helped-5, company-13)
 nn(Ltd-16, AIC-15)
 appos(company-13, Ltd-16)
 
+of/IN Burlington/NNP ,/, Ontario/NNP ,/, which/WDT owns/VBZ 24.5/CD percent/NN of/IN Mackenzie/NNP 's/POS shares/NNS ./.
+
 (ROOT
   (S
     (PP (IN of)
@@ -411,6 +436,8 @@ dobj(owns-7, percent-9)
 poss(shares-13, Mackenzie-11)
 prep_of(percent-9, shares-13)
 
+AIC/NNP agreed/VBD that/IN the/DT C.I./NNP Fund/NNP offer/NN was/VBD inadequate/RB ./.
+
 (ROOT
   (S
     (NP (NNP AIC))
@@ -431,6 +458,8 @@ nn(offer-7, Fund-6)
 nsubj(was-8, offer-7)
 ccomp(agreed-2, was-8)
 advmod(was-8, inadequate-9)
+
+And/CC industry/NN sources/NNS suggested/VBD that/IN AIC/NNP would/MD make/VB a/DT counterbid/NN ,/, perhaps/RB with/IN the/DT powerful/JJ Caisse/NNP de/FW Depot/FW et/FW Placement/FW du/FW Quebec/NNP ,/, a/DT $60/CD billion/CD pension/NN fund/NN that/WDT already/RB owns/VBZ 5/CD percent/NN of/IN Mackenzie/NNP 's/POS shares/NNS ./.
 
 (ROOT
   (S (CC And)
@@ -501,6 +530,8 @@ dobj(owns-31, percent-33)
 poss(shares-37, Mackenzie-35)
 prep_of(percent-33, shares-37)
 
+Investors/NNPS Group/NNP of/IN Winnipeg/NNP ,/, Manitoba/NNP ,/, Canada/NNP 's/POS largest/JJS mutual-fund/NN manager/NN ,/, and/CC the/DT American/NNP Express/NNP Co/NNP ./.
+
 (ROOT
   (NP
     (NP (NNPS Investors) (NNP Group))
@@ -531,6 +562,8 @@ nn(Co-18, Express-17)
 prep_of(Group-2, Co-18)
 conj_and(Manitoba-6, Co-18)
 
+of/IN New/NNP York/NNP were/VBD also/RB talked/VBD about/IN as/IN possible/JJ bidders/NNS ./.
+
 (ROOT
   (S
     (SBAR (IN of)
@@ -554,6 +587,8 @@ prep(talked-6, about-7)
 pcomp(about-7, as-8)
 amod(bidders-10, possible-9)
 pobj(as-8, bidders-10)
+
+As/IN the/DT weeks/NNS went/VBD by/IN ,/, however/NN ,/, no/DT rival/NN bid/NN emerged/VBD ./.
 
 (ROOT
   (S
@@ -579,6 +614,8 @@ neg(bid-11, no-9)
 nn(bid-11, rival-10)
 nsubj(emerged-12, bid-11)
 root(ROOT-0, emerged-12)
+
+After/IN extending/VBG the/DT expiration/NN date/NN on/IN its/PRP$ offer/NN to/TO 35/CD days/NNS from/IN 21/CD ,/, a/DT period/NN that/WDT brought/VBD no/DT new/JJ developments/NNS ,/, C.I./NNP Fund/NNP requested/VBD a/DT hearing/NN before/IN the/DT Ontario/NNP Securities/NNPS Commission/NNP earlier/RBR this/DT week/NN ./.
 
 (ROOT
   (S
@@ -640,6 +677,8 @@ advmod(week-35, earlier-33)
 det(week-35, this-34)
 tmod(requested-25, week-35)
 
+It/PRP wanted/VBD the/DT commission/NN to/TO dissolve/VB Mackenzie/NNP 's/POS poison/NN pill/NN ,/, arguing/VBG that/IN it/PRP interfered/VBD with/IN the/DT rights/NNS of/IN Mackenzie/NNP 's/POS shareholders/NNS ./.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -684,6 +723,8 @@ det(rights-18, the-17)
 prep_with(interfered-15, rights-18)
 poss(shareholders-22, Mackenzie-20)
 prep_of(rights-18, shareholders-22)
+
+On/IN Tuesday/NNP ,/, the/DT day/NN before/IN the/DT hearing/NN ,/, AIC/NNP said/VBD publicly/RB that/IN it/PRP was/VBD ``evaluating/VBG ''/'' a/DT bid/NN for/IN MacKenzie/NNP along/IN with/IN the/DT Caisse/NNP de/FW Depot/NNP ./.
 
 (ROOT
   (S
@@ -731,6 +772,8 @@ det(Depot-27, the-24)
 nn(Depot-27, Caisse-25)
 nn(Depot-27, de-26)
 prep_along_with(MacKenzie-21, Depot-27)
+
+It/PRP said/VBD its/PRP$ friendly/JJ offer/NN would/MD be/VB higher/JJR and/CC would/MD include/VB more/JJR than/IN the/DT $400/CD million/CD in/IN cash/NN that/IN C.I./NNP Fund/NNP had/VBD offered/VBN ./.
 
 (ROOT
   (S
@@ -780,6 +823,8 @@ nn(Fund-21, C.I.-20)
 nsubj(offered-23, Fund-21)
 aux(offered-23, had-22)
 ccomp(include-11, offered-23)
+
+On/IN Wednesday/NNP morning/NN ,/, C.I./NNP Fund/NNP withdrew/VBD its/PRP$ request/NN for/IN the/DT commission/NN hearing/NN and/CC on/IN Thursday/NN night/IN its/PRP$ offer/NN died/VBD when/WRB the/DT deadline/NN for/IN acceptance/NN expired/VBN ./.
 
 (ROOT
   (S
@@ -833,6 +878,8 @@ nsubj(expired-26, deadline-23)
 prep_for(deadline-23, acceptance-25)
 advcl(died-20, expired-26)
 
+William/NNP Holland/NNP ,/, C.I./NNP Fund/NNP 's/POS chief/JJ executive/NN ,/, said/VBD his/PRP$ company/NN withdrew/NN because/IN its/PRP$ first/JJ offer/NN was/VBD the/DT best/RBS it/PRP could/MD make/VB ./.
+
 (ROOT
   (S
     (NP
@@ -878,6 +925,8 @@ nsubj(make-23, it-21)
 aux(make-23, could-22)
 rcmod(the-19, make-23)
 
+Mackenzie/NNP is/VBZ almost/RB certain/JJ to/TO be/VB sold/VBN over/IN the/DT next/JJ few/JJ weeks/NNS ,/, and/CC AIC/NNP is/VBZ the/DT most/JJS likely/JJ buyer/NN ./.
+
 (ROOT
   (S
     (S
@@ -901,7 +950,7 @@ rcmod(the-19, make-23)
     (. .)))
 
 nsubj(certain-4, Mackenzie-1)
-xsubj(sold-7, Mackenzie-1)
+nsubjpass(sold-7, Mackenzie-1)
 cop(certain-4, is-2)
 advmod(certain-4, almost-3)
 root(ROOT-0, certain-4)
@@ -918,6 +967,8 @@ det(buyer-20, the-17)
 dep(likely-19, most-18)
 amod(buyer-20, likely-19)
 conj_and(certain-4, buyer-20)
+
+But/CC James/NNP Hunter/NNP ,/, Mackenzie/NNP 's/POS chief/JJ executive/NN ,/, said/VBD there/RB were/VBD still/RB several/JJ possible/JJ buyers/NNS and/CC the/DT process/NN of/IN finding/VBG the/DT best/JJS price/NN continued/NN ./.
 
 (ROOT
   (S (CC But)
@@ -967,6 +1018,8 @@ amod(continued-25, best-23)
 nn(continued-25, price-24)
 dobj(finding-21, continued-25)
 
+Over/RB the/DT last/JJ two/CD years/NNS ,/, the/DT number/NN of/IN fund/NN managers/NNS in/IN Canada/NNP has/VBZ been/VBN trimmed/VBN by/IN half/JJ a/DT dozen/JJ takeovers/NNS ./.
+
 (ROOT
   (S
     (ADVP (RB Over))
@@ -1007,6 +1060,8 @@ det(dozen-20, a-19)
 amod(takeovers-21, dozen-20)
 agent(trimmed-16, takeovers-21)
 
+Smaller/NNP firms/NNS ,/, squeezed/VBN by/IN comparatively/JJ high/JJ overheads/NNS ,/, have/VBP been/VBN the/DT most/RBS vulnerable/JJ ./.
+
 (ROOT
   (S
     (NP
@@ -1033,6 +1088,8 @@ cop(vulnerable-14, been-11)
 det(vulnerable-14, the-12)
 advmod(vulnerable-14, most-13)
 root(ROOT-0, vulnerable-14)
+
+But/CC larger/JJR companies/NNS have/VBP also/RB been/VBN put/VBN on/IN the/DT block/NN as/IN their/PRP$ founders/NNS and/CC controlling/VBG shareholders/NNS near/IN retirement/NN age/NN ./.
 
 (ROOT
   (S (CC But)
@@ -1071,6 +1128,8 @@ conj_and(block-10, shareholders-16)
 nn(age-19, retirement-18)
 prep_near(shareholders-16, age-19)
 
+Most/JJS of/IN the/DT consolidation/NN has/VBZ involved/VBN domestic/JJ companies/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -1089,6 +1148,8 @@ aux(involved-6, has-5)
 root(ROOT-0, involved-6)
 amod(companies-8, domestic-7)
 dobj(involved-6, companies-8)
+
+But/CC the/DT largest/JJS takeover/NN so/RB far/RB was/VBD by/IN Amvescap/DT PLC/NNP of/IN London/NNP ,/, which/WDT in/IN May/NNP paid/VBD $1.8/CD billion/CD for/IN Canada/NNP 's/POS sixth-largest/JJ fund/NN company/NN ,/, the/DT Trimark/NNP Financial/NNP Corp/NNP ./.
 
 (ROOT
   (S (CC But)
@@ -1142,6 +1203,8 @@ nn(Corp-30, Trimark-28)
 nn(Corp-30, Financial-29)
 appos(company-25, Corp-30)
 
+of/IN Toronto/NNP ./.
+
 (ROOT
   (FRAG
     (PP (IN of)
@@ -1150,6 +1213,8 @@ appos(company-25, Corp-30)
 
 root(ROOT-0, of-1)
 pobj(of-1, Toronto-2)
+
+NYT-12-22-00/CD 2033EST/CD
 
 (ROOT
   (FRAG

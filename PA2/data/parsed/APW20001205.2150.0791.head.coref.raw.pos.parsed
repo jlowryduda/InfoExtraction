@@ -1,3 +1,5 @@
+APW20001205.2150.0791/DT NEWS/NNP STORY/NNPS 2000-12-05/CD 21:51:55/CD
+
 (ROOT
   (NP
     (NP (DT APW20001205.2150.0791))
@@ -10,10 +12,14 @@ dep(APW20001205.2150.0791-1, STORY-3)
 num(21:51:55-5, 2000-12-05-4)
 dep(APW20001205.2150.0791-1, 21:51:55-5)
 
+Finland-Nokia/NNP
+
 (ROOT
   (NP (NNP Finland-Nokia)))
 
 root(ROOT-0, Finland-Nokia-1)
+
+Nokia/NNP Extends/NNPS Annual/NNP Growth/NNP Forecast/NNP
 
 (ROOT
   (NP
@@ -26,11 +32,13 @@ root(ROOT-0, Annual-3)
 nn(Forecast-5, Growth-4)
 dep(Annual-3, Forecast-5)
 
+HELSINKI/NNP ,/, Finland/NNP [AP/NNP ]/, _/CD Nokia/NNP shares/NNS jumped/VBD nearly/RB 16/CD percent/JJ Tuesday/NNP after/IN the/DT company/NN extended/VBD its/PRP$ targets/NNS of/IN up/RB to/TO 35/CD percent/JJ annual/JJ revenue/NN growth/NN into/IN 2003/CD and/CC said/VBD its/PRP$ share/NN of/IN the/DT cellular/JJ phone/NN market/NN was/VBD now/RB more/JJR than/IN 30/CD percent/NN ./.
+
 (ROOT
   (S
     (NP
-      (NP (NNP HELSINKI) (, ,) (NNP Finland) (NNP (AP))
-      (PP (, ))
+      (NP (NNP HELSINKI) (, ,) (NNP Finland) (NNP [AP))
+      (PP (, ])
         (NP (CD _) (NNP Nokia) (NNS shares))))
     (VP (VBD jumped)
       (NP
@@ -65,13 +73,13 @@ dep(Annual-3, Forecast-5)
                         (NN percent)))))))))))
     (. .)))
 
-nn((AP-4, HELSINKI-1)
-appos((AP-4, Finland-3)
-nsubj(jumped-9, (AP-4)
-punct(shares-8, )-5)
+nn([AP-4, HELSINKI-1)
+appos([AP-4, Finland-3)
+nsubj(jumped-9, [AP-4)
+punct(shares-8, ]-5)
 num(shares-8, _-6)
 nn(shares-8, Nokia-7)
-prep((AP-4, shares-8)
+prep([AP-4, shares-8)
 root(ROOT-0, jumped-9)
 quantmod(16-11, nearly-10)
 dobj(jumped-9, 16-11)
@@ -106,6 +114,8 @@ mwe(than-42, more-41)
 quantmod(30-43, than-42)
 num(percent-44, 30-43)
 pobj(now-40, percent-44)
+
+``The/IN opportunities/NNS in/IN the/DT future/NN are/VBP enormous/JJ as/IN we/PRP enter/VB an/DT unprecedented/JJ time/NN when/WRB mobility/NN ,/, Internet/NNP ,/, digitized/VBN media/NNS and/CC other/JJ content/NN can/MD be/VB combined/VBN and/CC become/VB available/JJ to/TO almost/RB anyone/RB ,/, anytime/RB and/CC anywhere/RB ,''/IN Nokia/NNP 's/POS Chief/NNP Executive/NNP Jorma/NNP Ollila/NNP told/VBD investors/NNS in/IN London/NNP ./.
 
 (ROOT
   (S
@@ -168,7 +178,7 @@ cop(enormous-7, are-6)
 csubj(told-44, enormous-7)
 mark(enter-10, as-8)
 nsubj(enter-10, we-9)
-nsubj(available-29, we-9)
+nsubj(become-28, we-9)
 dep(enormous-7, enter-10)
 det(time-13, an-11)
 amod(time-13, unprecedented-12)
@@ -184,9 +194,9 @@ conj_and(media-20, content-23)
 aux(combined-26, can-24)
 auxpass(combined-26, be-25)
 advcl(enter-10, combined-26)
-cop(available-29, become-28)
-dep(enormous-7, available-29)
-conj_and(enter-10, available-29)
+dep(enormous-7, become-28)
+conj_and(enter-10, become-28)
+acomp(become-28, available-29)
 prep(available-29, to-30)
 advmod(anyone-32, almost-31)
 pobj(to-30, anyone-32)
@@ -197,10 +207,12 @@ poss(Ollila-43, Nokia-38)
 nn(Ollila-43, Chief-40)
 nn(Ollila-43, Executive-41)
 nn(Ollila-43, Jorma-42)
-prep_,''(available-29, Ollila-43)
+prep_,''(become-28, Ollila-43)
 root(ROOT-0, told-44)
 dobj(told-44, investors-45)
 prep_in(told-44, London-47)
+
+Nokia/NNP 's/POS upbeat/NN market/NN assessment/NN comes/VBZ amid/JJ mounting/VBG doubts/NNS over/IN the/DT industry/NN 's/POS future/JJ as/IN technology/NN and/CC telecommunication/NN shares/NNS have/VBP dropped/VBN sharply/RB in/IN recent/JJ weeks/NNS ./.
 
 (ROOT
   (S
@@ -252,6 +264,8 @@ advmod(dropped-21, sharply-22)
 amod(weeks-25, recent-24)
 prep_in(dropped-21, weeks-25)
 
+Shares/NNS of/IN Nokia/NNP rose/VBD $7/CD ,/, or/CC almost/RB 16/CD percent/NN ,/, to/TO close/VB at/IN $51.38/DT Tuesday/NNP on/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -291,6 +305,8 @@ nn(Exchange-22, New-19)
 nn(Exchange-22, York-20)
 nn(Exchange-22, Stock-21)
 prep_on(close-13, Exchange-22)
+
+Nokia/NNP ,/, the/DT world/NN 's/POS biggest/JJS mobile/NN phone/NN maker/NN ,/, predicted/VBN earlier/RBR this/DT year/NN that/IN it/PRP would/MD have/VB annual/JJ growth/NN of/IN 25/CD percent/JJ to/TO 35/CD percent/JJ through/IN 2002/CD ./.
 
 (ROOT
   (S
@@ -345,6 +361,8 @@ number(percent-26, 35-25)
 dep(percent-23, percent-26)
 prep_through(have-18, 2002-28)
 
+It/PRP said/VBD Tuesday/NNP that/WDT would/MD likely/RB continue/VB another/DT year/NN ./.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -368,6 +386,8 @@ advmod(continue-7, likely-6)
 dep(said-2, continue-7)
 det(year-9, another-8)
 tmod(continue-7, year-9)
+
+The/DT company/NN also/RB claimed/VBD a/DT market/NN share/NN of/IN more/JJR than/IN 30/CD percent/JJ and/CC said/VBD growth/NN in/IN its/PRP$ key/JJ mobile/NN phones/VBZ business/NN continues/NNS to/TO outpace/VB that/IN of/IN its/PRP$ competitors/NNS ./.
 
 (ROOT
   (S
@@ -420,6 +440,7 @@ amod(mobile-19, key-18)
 prep_in(growth-15, mobile-19)
 ccomp(said-14, phones-20)
 nn(continues-22, business-21)
+dobj(phones-20, continues-22)
 nsubj(outpace-24, continues-22)
 aux(outpace-24, to-23)
 xcomp(phones-20, outpace-24)
@@ -427,6 +448,8 @@ mark(of-26, that-25)
 dep(outpace-24, of-26)
 poss(competitors-28, its-27)
 pobj(of-26, competitors-28)
+
+Nokia/NNP also/RB said/VBD the/DT number/NN of/IN mobile/JJ phone/NN users/NNS worldwide/NN will/MD surpass/VB 1/CD billion/CD during/IN the/DT first/JJ half/NN of/IN 2002/CD rather/RB than/IN by/IN the/DT end/NN 2002/CD ,/, as/IN it/PRP had/VBD earlier/RB predicted/VBN ./.
 
 (ROOT
   (S
@@ -490,6 +513,8 @@ aux(predicted-32, had-30)
 advmod(predicted-32, earlier-31)
 advcl(surpass-12, predicted-32)
 
+On/IN Tuesday/NNP ,/, the/DT company/NN also/RB revealed/VBD that/IN a/DT deal/NN announced/VBD last/JJ week/NN with/IN Redmond/NNP ,/, Washington/NNP -based/VBD AT&AMP;T/NNP Wireless/NNP to/TO upgrade/VB its/PRP$ network/NN in/IN the/DT United/NNP States/NNPS was/VBD valued/VBN at/IN more/JJR than/IN $1/CD billion/CD over/IN four/CD years/NNS ./.
+
 (ROOT
   (S
     (S
@@ -544,6 +569,7 @@ prep_with(announced-11, Redmond-15)
 nsubj(-based-18, Washington-17)
 root(ROOT-0, -based-18)
 nn(Wireless-20, AT&AMP;T-19)
+dobj(-based-18, Wireless-20)
 nsubj(upgrade-22, Wireless-20)
 aux(upgrade-22, to-21)
 xcomp(-based-18, upgrade-22)
@@ -560,6 +586,8 @@ number(billion-35, $1-34)
 prep_at(valued-30, billion-35)
 num(years-38, four-37)
 prep_over(billion-35, years-38)
+
+Nokia/NNP said/VBD it/PRP was/VBD the/DT biggest/JJS deal/NN of/IN its/PRP$ kind/NN for/IN the/DT Finland/NNP -based/JJ company/NN ./.
 
 (ROOT
   (S
@@ -591,6 +619,8 @@ det(company-15, the-12)
 nn(company-15, Finland-13)
 amod(company-15, -based-14)
 prep_for(kind-10, company-15)
+
+In/IN October/NNP ,/, Nokia/NNP unveiled/VBD strong/JJ third/JJ quarter/NN results/NNS ,/, showing/VBG a/DT 40/CD percent/JJ increase/NN in/IN net/JJ profit/NN and/CC a/DT 50/CD percent/JJ increase/NN in/IN net/JJ sales/NNS ./.
 
 (ROOT
   (S

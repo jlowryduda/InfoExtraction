@@ -1,3 +1,5 @@
+NYT20001128.1940.0266/NNP NEWS/NNP STORY/NNP 2000-11-28/CD 19:49:00/CD
+
 (ROOT
   (FRAG
     (NP (NNP NYT20001128.1940.0266) (NNP NEWS) (NNP STORY))
@@ -8,6 +10,8 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(19:49:00-5, 2000-11-28-4)
 dep(STORY-3, 19:49:00-5)
+
+A3547/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-TIMES-NATGEO-NYT/NNP &LR/NNP ;/: 11-28/CD 0284/CD
 
 (ROOT
   (NP
@@ -29,10 +33,14 @@ dep(&Cx1f-2, &LR-8)
 number(0284-11, 11-28-10)
 dep(&LR-8, 0284-11)
 
+BC-TIMES-NATGEO-NYT/NNP
+
 (ROOT
   (NP (NNP BC-TIMES-NATGEO-NYT)))
 
 root(ROOT-0, BC-TIMES-NATGEO-NYT-1)
+
+NEW/NNP YORK/NNP TIMES/NNP JOINS/NNP WITH/NNP NATIONAL/NNP GEOGRAPHIC/NNP FOR/NNP SCIENCE/.
 
 (ROOT
   (NP (NNP NEW) (NNP YORK) (NNP TIMES) (NNP JOINS) (NNP WITH) (NNP NATIONAL) (NNP GEOGRAPHIC) (NNP FOR) (. SCIENCE)))
@@ -47,6 +55,8 @@ nn(FOR-8, GEOGRAPHIC-7)
 root(ROOT-0, FOR-8)
 punct(FOR-8, SCIENCE-9)
 
+PROGRAMMING/NNP &LR/NNP ;/: &QL/NNP ;/: [EDS/NNS :/: no/DT byline/NN ]/IN &QL/NNP ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
 (ROOT
   (NP
     (NP (NNP PROGRAMMING) (NNP &LR))
@@ -54,11 +64,11 @@ punct(FOR-8, SCIENCE-9)
     (NP
       (NP (NNP &QL))
       (: ;)
-      (NP (NNS (EDS)))
+      (NP (NNS [EDS)))
     (: :)
     (NP
       (NP (DT no) (NN byline))
-      (PP (IN ))
+      (PP (IN ])
         (NP (NNP &QL))))
     (: ;)
     (NP
@@ -72,13 +82,15 @@ punct(FOR-8, SCIENCE-9)
 nn(&LR-2, PROGRAMMING-1)
 root(ROOT-0, &LR-2)
 dep(&LR-2, &QL-4)
-dep(&QL-4, (EDS-6)
+dep(&QL-4, [EDS-6)
 neg(byline-9, no-8)
 dep(&LR-2, byline-9)
-prep_)(byline-9, &QL-11)
+prep_](byline-9, &QL-11)
 dep(&LR-2, &UR-13)
 dep(&UR-13, c.2000-15)
 appos(c.2000-15, N.Y-16)
+
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -96,6 +108,8 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
+
+NEW/RB YORK/, _/DT National/NNP Geographic/NNP and/CC the/DT television/NN production/NN unit/NN of/IN The/DT New/NNP York/NNP Times/NNP have/VBP agreed/VBN to/TO collaborate/VB on/IN a/DT weekly/JJ science/NN program/NN that/WDT will/MD be/VB shown/VBN on/IN National/NNP Geographic/NNP 's/POS coming/VBG cable/JJ channel/NN beginning/VBG in/IN June/NNP ./.
 
 (ROOT
   (S
@@ -137,13 +151,13 @@ punct(agreed-17, YORK-2)
 det(Geographic-5, _-3)
 nn(Geographic-5, National-4)
 nsubj(agreed-17, Geographic-5)
-xsubj(collaborate-19, Geographic-5)
+nsubj(collaborate-19, Geographic-5)
 det(unit-10, the-7)
 nn(unit-10, television-8)
 nn(unit-10, production-9)
 conj_and(Geographic-5, unit-10)
 nsubj(agreed-17, unit-10)
-xsubj(collaborate-19, unit-10)
+nsubj(collaborate-19, unit-10)
 det(Times-15, The-12)
 nn(Times-15, New-13)
 nn(Times-15, York-14)
@@ -167,6 +181,8 @@ amod(channel-35, cable-34)
 prep_on(shown-28, channel-35)
 vmod(channel-35, beginning-36)
 prep_in(beginning-36, June-38)
+
+The/DT program/NN will/MD take/VB its/PRP$ title/NN from/IN The/DT Time/NNP &UR/NNP ;/: s/NNS '/POS &LR/NN ;/: weekly/JJ Science/NNP Times/NNP section/NN ./.
 
 (ROOT
   (S
@@ -201,6 +217,8 @@ amod(&UR-10, weekly-16)
 nn(section-19, Science-17)
 nn(section-19, Times-18)
 dep(&UR-10, section-19)
+
+The/DT content/NN will/MD be/VB jointly/RB developed/VBN by/IN the/DT channel/NN 's/POS news/NN division/NN and/CC the/DT television/NN production/NN unit/NN ,/, New/NNP York/NNP Times/NNP Television/NNP ,/, a/DT subsidiary/NN of/IN The/DT New/NNP York/NNP Times/NNP News/NNP Services/NNS ./.
 
 (ROOT
   (S
@@ -254,6 +272,8 @@ nn(Services-32, York-29)
 nn(Services-32, Times-30)
 nn(Services-32, News-31)
 prep_of(subsidiary-25, Services-32)
+
+``The/IN show/NN will/MD be/VB largely/RB based/VBN on/IN articles/NNS that/IN The/DT New/NNP York/NNP Times/NNP '/POS science/NN section/NN either/RB has/VBZ run/VBP or/CC plans/NNS to/TO run/VB ,''/PRP said/VBD Richard/NNP Flaste/NNP ,/, managing/VBG editor/NN of/IN New/NNP York/NNP Times/NNP Television/NNP Enterprises/NNP ./.
 
 (ROOT
   (SINV
@@ -326,6 +346,8 @@ nn(Enterprises-36, Times-34)
 nn(Enterprises-36, Television-35)
 prep_of(editor-30, Enterprises-36)
 
+National/NNP Geographic/NNP Channel/NNP is/VBZ scheduled/VBN to/TO be/VB available/JJ in/IN 10/CD million/CD homes/NNS this/DT January/NNP ./.
+
 (ROOT
   (S
     (NP (NNP National) (NNP Geographic) (NNP Channel))
@@ -345,7 +367,7 @@ prep_of(editor-30, Enterprises-36)
 nn(Channel-3, National-1)
 nn(Channel-3, Geographic-2)
 nsubjpass(scheduled-5, Channel-3)
-xsubj(available-8, Channel-3)
+nsubj(available-8, Channel-3)
 auxpass(scheduled-5, is-4)
 root(ROOT-0, scheduled-5)
 aux(available-8, to-6)
@@ -356,6 +378,8 @@ num(homes-12, million-11)
 prep_in(available-8, homes-12)
 det(January-14, this-13)
 tmod(available-8, January-14)
+
+National/NNP Geographic/NNP will/MD own/VB one-third/NN of/IN the/DT channel/NN and/CC the/DT Fox/NNP Cable/NNP Networks/NNP Group/NNP will/MD own/VB the/DT rest/NN ./.
 
 (ROOT
   (S
@@ -392,6 +416,8 @@ conj_and(own-4, own-16)
 det(rest-18, the-17)
 dobj(own-16, rest-18)
 
+The/DT companies/NNS planning/VBG to/TO carry/VB the/DT channel/NN include/VBP AT&AMP;T/NNP Broadband/NNP ,/, Adelphia/NNP Cable/NNP and/CC DirecTV/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -425,6 +451,8 @@ dobj(include-8, Cable-13)
 conj_and(Broadband-10, Cable-13)
 dobj(include-8, DirecTV-15)
 conj_and(Broadband-10, DirecTV-15)
+
+National/NNP Geographic/NNP introduced/VBD an/DT international/JJ channel/NN in/IN September/NNP 1997/CD that/WDT is/VBZ in/IN 115/CD countries/NNS and/CC reaches/NNS 85/CD million/CD homes/NNS ./.
 
 (ROOT
   (S
@@ -467,6 +495,8 @@ number(million-18, 85-17)
 num(homes-19, million-18)
 dep(reaches-16, homes-19)
 
+The/DT U.S./NNP channel/NN will/MD not/RB be/VB an/DT extension/NN of/IN the/DT overseas/JJ channel/NN ,/, said/VBD Laureen/NNP Ong/NNP ,/, president/NN of/IN the/DT American/JJ channel/NN ./.
+
 (ROOT
   (SINV
     (S
@@ -506,6 +536,8 @@ appos(Ong-16, president-18)
 det(channel-22, the-20)
 amod(channel-22, American-21)
 prep_of(president-18, channel-22)
+
+The/DT Times/NNP is/VBZ already/RB active/JJ in/IN television/NN through/IN a/DT three-year/JJ joint/JJ venture/NN with/IN Granada/NNP Media/NNP to/TO produce/VB documentaries/NNS and/CC an/DT experimental/JJ partnership/NN with/IN ABC/NNP News/NNP to/TO produce/VB reports/NNS for/IN ``20/NN ''/'' and/CC ``Good/VBD Morning/VBG America/NNP .''/.
 
 (ROOT
   (S
@@ -548,7 +580,7 @@ prep_of(president-18, channel-22)
 
 det(Times-2, The-1)
 nsubj(active-5, Times-2)
-xsubj(produce-17, Times-2)
+nsubj(produce-17, Times-2)
 nsubj(``Good-33, Times-2)
 cop(active-5, is-3)
 advmod(active-5, already-4)
@@ -578,6 +610,8 @@ xcomp(``Good-33, Morning-34)
 dobj(Morning-34, America-35)
 punct(active-5, .''-36)
 
+That/DT agreement/NN is/VBZ scheduled/VBN to/TO expire/VB at/IN the/DT end/NN of/IN this/DT year/NN ./.
+
 (ROOT
   (S
     (NP (DT That) (NN agreement))
@@ -595,7 +629,7 @@ punct(active-5, .''-36)
 
 det(agreement-2, That-1)
 nsubjpass(scheduled-4, agreement-2)
-xsubj(expire-6, agreement-2)
+nsubj(expire-6, agreement-2)
 auxpass(scheduled-4, is-3)
 root(ROOT-0, scheduled-4)
 aux(expire-6, to-5)
@@ -604,6 +638,8 @@ det(end-9, the-8)
 prep_at(expire-6, end-9)
 det(year-12, this-11)
 prep_of(end-9, year-12)
+
+NYT-11-28-00/CD 1949EST/CD
 
 (ROOT
   (FRAG

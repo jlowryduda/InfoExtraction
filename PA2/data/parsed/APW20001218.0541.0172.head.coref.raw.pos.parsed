@@ -1,3 +1,5 @@
+APW20001218.0541.0172/DT NEWS/NNP STORY/NNPS 2000-12-18/CD 05:41:23/CD
+
 (ROOT
   (NP
     (NP (DT APW20001218.0541.0172))
@@ -10,10 +12,14 @@ dep(APW20001218.0541.0172-1, STORY-3)
 num(05:41:23-5, 2000-12-18-4)
 dep(APW20001218.0541.0172-1, 05:41:23-5)
 
+High-Court/JJ
+
 (ROOT
   (ADJP (JJ High-Court)))
 
 root(ROOT-0, High-Court-1)
+
+Court/NNP Skid/NNP Stamps/NNP Docket/NNP of/IN History/JJ
 
 (ROOT
   (NP
@@ -29,79 +35,90 @@ nn(Docket-4, Stamps-3)
 dep(Skid-2, Docket-4)
 prep_of(Docket-4, History-6)
 
+WASHINGTON/NNP [AP/NNP ]/POS _/`` The/DT Supreme/NNP Court/NNP 's/POS postelection/NN skid/VBD into/IN the/DT once-shunned/JJ ``political/JJ thicket/NN ''/'' leaves/VBZ an/DT indelible/JJ stamp/NN on/IN the/DT docket/NN of/IN history/NN and/CC a/DT case/NN that/WDT citizens/VBZ are/VBP likely/JJ to/TO debate/NN as/IN long/JJ as/IN the/DT republic/JJ chooses/NNS presidents/NNS ./.
+
 (ROOT
   (S
-    (S
-      (PP (NNP WASHINGTON)
+    (NP
+      (NP (NNP WASHINGTON))
+      (PP
         (NP
-          (NP (NNP (AP) (POS )))
-          (`` _) (DT The) (NNP Supreme)))
-      (NP
-        (NP (NNP Court) (POS 's))
-        (NN postelection))
-      (VP (VBD skid)
-        (PP (IN into)
+          (NP (NNP [AP) (POS ]))
+          (`` _) (DT The) (NNP Supreme))
+        (NP
           (NP
-            (NP (DT the) (JJ once-shunned) (JJ ``political) (NN thicket) ('' ''))
-            (VP (VBZ leaves)
-              (NP (DT an) (JJ indelible) (NN stamp))
-              (PP (IN on)
+            (NP (NNP Court) (POS 's))
+            (NN postelection))
+          (SBAR
+            (S
+              (VP (VBD skid)
+                (PP (IN into)
+                  (NP (DT the) (JJ once-shunned) (JJ ``political) (NN thicket) ('' '')))))))))
+    (VP (VBZ leaves)
+      (SBAR
+        (S
+          (NP
+            (NP (DT an) (JJ indelible) (NN stamp))
+            (PP (IN on)
+              (NP
                 (NP
                   (NP (DT the) (NN docket))
                   (PP (IN of)
-                    (NP (NN history))))))))))
-    (CC and)
-    (S
-      (NP
-        (NP (DT a) (NN case))
-        (SBAR
-          (WHNP (WDT that))
-          (S
-            (VP (VBZ citizens)))))
-      (VP (VBP are)
-        (ADJP (JJ likely)
-          (PP (TO to)
-            (NP
-              (NP (NN debate))
-              (PP (IN as)
+                    (NP (NN history))))
+                (CC and)
                 (NP
-                  (ADJP (JJ long)
-                    (PP (IN as)
-                      (NP (DT the) (JJ republic) (NNS chooses))))
-                  (NNS presidents))))))))
+                  (NP (DT a) (NN case))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ citizens))))))))
+          (VP (VBP are)
+            (ADJP (JJ likely)
+              (PP (TO to)
+                (NP
+                  (NP (NN debate))
+                  (PP (IN as)
+                    (NP
+                      (ADJP (JJ long)
+                        (PP (IN as)
+                          (NP (DT the) (JJ republic) (NNS chooses))))
+                      (NNS presidents))))))))))
     (. .)))
 
-prep(skid-10, WASHINGTON-1)
-poss(Supreme-6, (AP-2)
+nsubj(leaves-17, WASHINGTON-1)
+poss(Supreme-6, [AP-2)
 punct(Supreme-6, _-4)
 det(Supreme-6, The-5)
-dep(WASHINGTON-1, Supreme-6)
+prep(WASHINGTON-1, Supreme-6)
 poss(postelection-9, Court-7)
-nsubj(skid-10, postelection-9)
-root(ROOT-0, skid-10)
+dep(Supreme-6, postelection-9)
+rcmod(postelection-9, skid-10)
 det(thicket-15, the-12)
 amod(thicket-15, once-shunned-13)
 amod(thicket-15, ``political-14)
 prep_into(skid-10, thicket-15)
-dep(thicket-15, leaves-17)
+root(ROOT-0, leaves-17)
 det(stamp-20, an-18)
 amod(stamp-20, indelible-19)
-dobj(leaves-17, stamp-20)
+nsubj(likely-32, stamp-20)
 det(docket-23, the-22)
-prep_on(leaves-17, docket-23)
+prep_on(stamp-20, docket-23)
 prep_of(docket-23, history-25)
 det(case-28, a-27)
+prep_on(stamp-20, case-28)
+conj_and(docket-23, case-28)
 nsubj(citizens-30, case-28)
-nsubj(likely-32, case-28)
 rcmod(case-28, citizens-30)
 cop(likely-32, are-31)
-conj_and(skid-10, likely-32)
+ccomp(leaves-17, likely-32)
 prep_to(likely-32, debate-34)
 amod(presidents-41, long-36)
 det(chooses-40, the-38)
 amod(chooses-40, republic-39)
 prep_as(long-36, chooses-40)
 prep_as(debate-34, presidents-41)
+
+Unlike/IN many/JJ of/IN the/DT court/NN 's/POS decisions/NNS shaping/VBG the/DT country/NN 's/POS response/NN to/TO difficult/JJ issues/NNS from/IN slavery/NN to/TO abortion/NN ,/, this/DT opinion/NN by/IN a/DT fractured/JJ bench/NN raises/VBZ a/DT swarm/NN of/IN unanswered/JJ questions/NNS ./.
 
 (ROOT
   (S
@@ -158,6 +175,8 @@ dobj(raises-27, swarm-29)
 amod(questions-32, unanswered-31)
 prep_of(swarm-29, questions-32)
 
+While/NNP Bush/NNP v/NN ./.
+
 (ROOT
   (NP
     (NP (NNP While) (NNP Bush))
@@ -167,6 +186,8 @@ prep_of(swarm-29, questions-32)
 nn(Bush-2, While-1)
 root(ROOT-0, Bush-2)
 dep(Bush-2, v-3)
+
+Gore/NNP ended/VBD Al/NNP Gore/NNP 's/POS quest/JJS for/IN the/DT White/NNP House/NNP and/CC effectively/RB made/VBD George/JJ W./NNP Bush/NNP the/DT president/NN -elect/NN ,/, it/PRP left/VBD unsettled/JJ the/DT question/NN of/IN who/WP won/VBP the/DT majority/NN of/IN Florida/NNP 's/POS presidential/JJ votes/NNS ./.
 
 (ROOT
   (S
@@ -237,6 +258,8 @@ poss(votes-35, Florida-32)
 amod(votes-35, presidential-34)
 prep_of(majority-30, votes-35)
 
+And/CC its/PRP$ implications/NNS for/IN the/DT future/NN of/IN the/DT electoral/JJ process/NN can/MD only/RB be/VB guessed/VBN at/IN ./.
+
 (ROOT
   (S (CC And)
     (NP
@@ -266,6 +289,8 @@ advmod(guessed-14, only-12)
 auxpass(guessed-14, be-13)
 root(ROOT-0, guessed-14)
 prep(guessed-14, at-15)
+
+Two/NNP hundred/VBD years/NNS ago/RB ,/, shoehorned/VBD into/IN cramped/VBD quarters/NNS in/IN this/DT city/NN 's/POS new/JJ Capitol/NN ,/, intervening/VBG in/IN a/DT disputed/JJ presidential/JJ election/NN was/VBD not/RB a/DT likely/JJ option/NN for/IN a/DT court/NN still/RB finding/VBG its/PRP$ constitutional/JJ role/NN ./.
 
 (ROOT
   (S
@@ -336,6 +361,8 @@ poss(role-35, its-33)
 amod(role-35, constitutional-34)
 dobj(finding-32, role-35)
 
+Presidents/NNS sought/VBD instead/RB to/TO shape/VB the/DT court/NN to/TO buttress/VB their/PRP$ often-conflicting/JJ views/NNS of/IN the/DT course/NN the/DT young/JJ republic/NN should/MD follow/VB ./.
+
 (ROOT
   (S
     (NP (NNS Presidents))
@@ -361,7 +388,7 @@ dobj(finding-32, role-35)
     (. .)))
 
 nsubj(sought-2, Presidents-1)
-xsubj(shape-5, Presidents-1)
+nsubj(shape-5, Presidents-1)
 root(ROOT-0, sought-2)
 advmod(sought-2, instead-3)
 aux(shape-5, to-4)
@@ -380,6 +407,8 @@ amod(republic-18, young-17)
 nsubj(follow-20, republic-18)
 aux(follow-20, should-19)
 rcmod(course-15, follow-20)
+
+By/NNP flickering/NN candlelight/NN ,/, in/IN the/DT last/JJ hours/NN of/IN his/PRP$ administration/NN ,/, President/NNP John/NNP Adams/NNPS appointed/VBD members/NNS of/IN his/PRP$ Federalist/JJ Party/NNP to/TO federal/JJ judgeships/NNS ,/, hoping/VBG they/PRP would/MD control/VB the/DT much-feared/JJ ``radical/JJ ''/'' notions/NNS of/IN Thomas/NNP Jefferson/NNP and/CC his/PRP$ political/JJ allies/NNS ./.
 
 (ROOT
   (S
@@ -453,6 +482,8 @@ amod(allies-41, political-40)
 prep_of(notions-34, allies-41)
 conj_and(Jefferson-37, allies-41)
 
+``Midnight/JJ judges/NNS ,''/IN the/DT Jeffersonians/NNPS scoffed/VBD ./.
+
 (ROOT
   (S
     (NP
@@ -467,6 +498,8 @@ nsubj(scoffed-6, judges-2)
 det(Jeffersonians-5, the-4)
 prep_,''(judges-2, Jeffersonians-5)
 root(ROOT-0, scoffed-6)
+
+The/DT Federalists/NNS ``retreated/VBD into/IN the/DT judiciary/JJ as/IN a/DT stronghold/NN ,/, the/DT tenure/NN of/IN which/WDT renders/VBZ it/PRP difficult/JJ to/TO dislodge/VB them/PRP ,''/IN Jefferson/NNP wrote/VBD soon/NN after/IN his/PRP$ 1801/JJ inauguration/NN ./.
 
 (ROOT
   (S
@@ -513,7 +546,7 @@ det(tenure-12, the-11)
 nsubj(renders-15, tenure-12)
 rcmod(stronghold-9, renders-15)
 nsubj(difficult-17, it-16)
-xsubj(dislodge-19, it-16)
+nsubj(dislodge-19, it-16)
 xcomp(renders-15, difficult-17)
 aux(dislodge-19, to-18)
 xcomp(difficult-17, dislodge-19)
@@ -525,6 +558,8 @@ dobj(wrote-23, soon-24)
 poss(inauguration-28, his-26)
 amod(inauguration-28, 1801-27)
 prep_after(wrote-23, inauguration-28)
+
+One/CD of/IN those/DT difficult-to-dislodge/JJ judges/NNS was/VBD John/NNP Marshall/NNP ,/, nominated/VBN by/IN Adams/NNS to/TO be/VB chief/JJ justice/NN ./.
 
 (ROOT
   (S
@@ -559,6 +594,8 @@ cop(justice-16, be-14)
 amod(justice-16, chief-15)
 xcomp(nominated-10, justice-16)
 
+Three/JJ years/NNS later/RB ,/, in/IN Marbury/NNP v/NNP ./.
+
 (ROOT
   (NP
     (NP (JJ Three) (NNS years))
@@ -573,6 +610,8 @@ root(ROOT-0, years-2)
 dep(years-2, later-3)
 nn(v-7, Marbury-6)
 prep_in(years-2, v-7)
+
+Madison/NNP ,/, a/DT case/NN growing/VBG out/RP of/IN Adams/NNS '/POS last-minute/NN judicial/JJ appointments/NNS ,/, Marshall/NNP established/VBD the/DT court/NN 's/POS power/NN to/TO ``say/VB what/WP the/DT law/NN is/VBZ .''/.
 
 (ROOT
   (S
@@ -625,6 +664,8 @@ nsubj(is-25, law-24)
 ccomp(``say-21, is-25)
 punct(established-15, .''-26)
 
+Marshall/NNP declared/VBD the/DT supremacy/NN of/IN the/DT Constitution/NN over/IN any/DT law/NN passed/VBN by/IN Congress/NNP ./.
+
 (ROOT
   (S
     (NP (NNP Marshall))
@@ -651,6 +692,8 @@ det(law-10, any-9)
 prep_over(declared-2, law-10)
 vmod(law-10, passed-11)
 agent(passed-11, Congress-13)
+
+He/PRP claimed/VBD for/IN the/DT Supreme/NNP Court/NNP the/DT power/NN to/TO declare/VB a/DT law/NN unconstitutional/JJ ,/, establishing/VBG the/DT power/NN that/WDT is/VBZ still/RB its/PRP$ ultimate/JJ weapon/NN ./.
 
 (ROOT
   (S
@@ -700,6 +743,8 @@ poss(weapon-23, its-21)
 amod(weapon-23, ultimate-22)
 rcmod(power-17, weapon-23)
 
+The/DT court/NN has/VBZ always/RB moved/VBN cautiously/RB ./.
+
 (ROOT
   (S
     (NP (DT The) (NN court))
@@ -715,6 +760,8 @@ aux(moved-5, has-3)
 advmod(moved-5, always-4)
 root(ROOT-0, moved-5)
 advmod(moved-5, cautiously-6)
+
+It/PRP would/MD take/VB another/DT half-century/NN before/IN the/DT justices/NNS again/RB declared/VBD an/DT act/NN of/IN Congress/NNP invalid/VBD ./.
 
 (ROOT
   (S
@@ -750,6 +797,8 @@ det(act-12, an-11)
 nsubj(invalid-15, act-12)
 prep_of(act-12, Congress-14)
 ccomp(declared-10, invalid-15)
+
+Moving/VBG to/TO refashion/VB the/DT court/NN to/TO suit/VB their/PRP$ own/JJ views/NNS ,/, Jefferson/NNP 's/POS friends/NNS in/IN Congress/NNP impeached/VBD Justice/NNP Samuel/NNP Chase/NNP in/IN 1804/CD ,/, just/RB months/NNS after/IN he/PRP and/CC his/PRP$ colleagues/NN had/VBD declared/VBN that/IN an/DT act/NN of/IN Congress/NNP violated/VBD the/DT Constitution/NN ./.
 
 (ROOT
   (S
@@ -831,6 +880,8 @@ ccomp(declared-32, violated-38)
 det(Constitution-40, the-39)
 dobj(violated-38, Constitution-40)
 
+The/DT attempt/NN to/TO weaken/VB the/DT court/NN 's/POS freedom/NN of/IN action/NN collapsed/NN when/WRB Chase/NNP was/VBD acquitted/VBN after/IN a/DT trial/NN in/IN the/DT Senate/NNP ./.
+
 (ROOT
   (S
     (NP (DT The) (NN attempt))
@@ -872,6 +923,8 @@ det(trial-18, a-17)
 prep_after(acquitted-15, trial-18)
 det(Senate-21, the-20)
 prep_in(trial-18, Senate-21)
+
+Other/NNP bids/NNS to/TO curb/VB the/DT power/NN of/IN the/DT court/NN or/CC to/TO influence/VB its/PRP$ decisions/NNS by/IN appointments/NNS to/TO its/PRP$ bench/NN have/VBP been/VBN relatively/RB commonplace/NN ./.
 
 (ROOT
   (S
@@ -919,12 +972,16 @@ cop(commonplace-23, been-21)
 advmod(commonplace-23, relatively-22)
 root(ROOT-0, commonplace-23)
 
+Sen/NNP ./.
+
 (ROOT
   (FRAG
     (NP (NNP Sen))
     (. .)))
 
 root(ROOT-0, Sen-1)
+
+Robert/NNP LaFollette/NNP ,/, the/DT Wisconsin/NNP Progressive/NNP ,/, proposed/VBN overriding/VBG the/DT court/NN by/IN a/DT two-thirds/JJ congressional/JJ majority/NN ./.
 
 (ROOT
   (S
@@ -955,6 +1012,8 @@ amod(majority-16, two-thirds-14)
 amod(majority-16, congressional-15)
 prep_by(overriding-9, majority-16)
 
+President/NNP Franklin/NNP D./NNP Roosevelt/NNP sought/VBD to/TO pack/VB the/DT court/NN with/IN new/JJ justices/NNS to/TO change/VB its/PRP$ direction/NN ./.
+
 (ROOT
   (S
     (NP (NNP President) (NNP Franklin) (NNP D.) (NNP Roosevelt))
@@ -976,7 +1035,7 @@ nn(Roosevelt-4, President-1)
 nn(Roosevelt-4, Franklin-2)
 nn(Roosevelt-4, D.-3)
 nsubj(sought-5, Roosevelt-4)
-xsubj(pack-7, Roosevelt-4)
+nsubj(pack-7, Roosevelt-4)
 root(ROOT-0, sought-5)
 aux(pack-7, to-6)
 xcomp(sought-5, pack-7)
@@ -988,6 +1047,8 @@ aux(change-14, to-13)
 vmod(pack-7, change-14)
 poss(direction-16, its-15)
 dobj(change-14, direction-16)
+
+Presidential/NNP elections/NNS ,/, including/VBG the/DT one/NN just/RB ended/VBN ,/, routinely/RB include/VBP discussions/NNS on/IN how/WRB a/DT new/JJ chief/JJ executive/NN 's/POS nominations/NNS to/TO fill/VB vacant/NN positions/NNS might/MD change/VB the/DT court/NN 's/POS philosophical/JJ bent/NN ./.
 
 (ROOT
   (S
@@ -1049,6 +1110,8 @@ poss(bent-31, court-28)
 amod(bent-31, philosophical-30)
 dobj(change-26, bent-31)
 
+Its/NNS decisions/NNS have/VBP rarely/RB been/VBN exempt/VBN from/IN criticism/NN ./.
+
 (ROOT
   (S
     (NP (NNS Its) (NNS decisions))
@@ -1067,6 +1130,8 @@ advmod(exempt-6, rarely-4)
 auxpass(exempt-6, been-5)
 root(ROOT-0, exempt-6)
 prep_from(exempt-6, criticism-8)
+
+But/CC the/DT court/NN has/VBZ often/RB evolved/VBN with/IN society/NN ,/, tempering/VBG its/PRP$ opinions/NNS accordingly/RB ./.
 
 (ROOT
   (S (CC But)
@@ -1095,6 +1160,8 @@ poss(opinions-12, its-11)
 dobj(tempering-10, opinions-12)
 advmod(tempering-10, accordingly-13)
 
+At/IN times/NNS ,/, however/RB ,/, posterity/NN has/VBZ judged/VBN it/PRP to/TO have/VB been/VBN on/IN the/DT wrong/JJ side/NN of/IN history/NN ./.
+
 (ROOT
   (S
     (PP (IN At)
@@ -1122,6 +1189,7 @@ advmod(judged-8, however-4)
 nsubj(judged-8, posterity-6)
 aux(judged-8, has-7)
 root(ROOT-0, judged-8)
+dobj(judged-8, it-9)
 nsubj(been-12, it-9)
 aux(been-12, to-10)
 aux(been-12, have-11)
@@ -1130,6 +1198,8 @@ det(side-16, the-14)
 amod(side-16, wrong-15)
 prep_on(been-12, side-16)
 prep_of(side-16, history-18)
+
+In/IN the/DT Dred/NNP Scott/NNP case/NN of/IN 1857/CD ,/, the/DT court/NN under/IN Chief/NNP Justice/NNP Roger/NNP B./NNP Taney/NNP ruled/VBD that/IN a/DT slave/NN had/VBD no/DT claim/NN to/TO freedom/NN just/RB because/IN he/PRP had/VBD lived/VBN in/IN U.S./NNP territories/NNS where/WRB slavery/NN was/VBD not/RB permitted/VBN ./.
 
 (ROOT
   (S
@@ -1200,6 +1270,8 @@ auxpass(permitted-38, was-36)
 neg(permitted-38, not-37)
 advcl(lived-30, permitted-38)
 
+The/DT court/NN further/JJ ruled/VBD that/WDT slaves/VBZ could/MD never/RB obtain/VB U.S./NNP citizenship/NN and/CC that/IN Congress/NNP had/VBD no/DT power/NN to/TO limit/VB the/DT expansion/NN of/IN slavery/NN ,/, as/IN it/PRP had/VBD done/VBN in/IN the/DT Missouri/NNP Compromise/NNP ./.
+
 (ROOT
   (S
     (NP (DT The) (NN court) (JJ further))
@@ -1268,6 +1340,8 @@ det(Compromise-32, the-30)
 nn(Compromise-32, Missouri-31)
 prep_in(done-28, Compromise-32)
 
+Taney/NNP 's/POS decision/NN further/RBR inflamed/VBD North/NNP -South/NNP divisions/NNS ./.
+
 (ROOT
   (S
     (NP
@@ -1286,6 +1360,8 @@ root(ROOT-0, inflamed-5)
 nn(divisions-8, North-6)
 nn(divisions-8, -South-7)
 dobj(inflamed-5, divisions-8)
+
+Some/DT credit/NN it/PRP with/IN hastening/VBG the/DT outbreak/NN of/IN the/DT Civil/NNP War/NNP ./.
 
 (ROOT
   (NP (DT Some) (NN credit)
@@ -1311,6 +1387,8 @@ dobj(hastening-5, outbreak-7)
 det(War-11, the-9)
 nn(War-11, Civil-10)
 prep_of(outbreak-7, War-11)
+
+By/IN the/DT mid-20th/JJ century/NN ,/, politics/NNS represented/VBD the/DT one/CD major/JJ area/NN where/WRB the/DT court/NN was/VBD reluctant/JJ to/TO intervene/VB ./.
 
 (ROOT
   (S
@@ -1344,11 +1422,13 @@ dobj(represented-7, area-11)
 advmod(reluctant-16, where-12)
 det(court-14, the-13)
 nsubj(reluctant-16, court-14)
-xsubj(intervene-18, court-14)
+nsubj(intervene-18, court-14)
 cop(reluctant-16, was-15)
 rcmod(area-11, reluctant-16)
 aux(intervene-18, to-17)
 xcomp(reluctant-16, intervene-18)
+
+``Courts/NNS ought/VBP not/RB to/TO enter/VB this/DT political/JJ thicket/NN ,''/IN Justice/NNP Felix/NNP Frankfurter/NNP wrote/VBD ./.
 
 (ROOT
   (S
@@ -1365,7 +1445,7 @@ xcomp(reluctant-16, intervene-18)
     (. .)))
 
 nsubj(ought-2, ``Courts-1)
-xsubj(enter-5, ``Courts-1)
+nsubj(enter-5, ``Courts-1)
 root(ROOT-0, ought-2)
 neg(enter-5, not-3)
 aux(enter-5, to-4)
@@ -1378,6 +1458,8 @@ nn(Frankfurter-12, Justice-10)
 nn(Frankfurter-12, Felix-11)
 nsubj(wrote-13, Frankfurter-12)
 advcl(enter-5, wrote-13)
+
+In/IN 1946/CD ,/, the/DT nine/CD justices/NNS dismissed/VBD a/DT case/NN involving/VBG the/DT apportionment/NN of/IN congressional/JJ districts/NNS ./.
 
 (ROOT
   (S
@@ -1407,6 +1489,8 @@ prep_involving(case-9, apportionment-12)
 amod(districts-15, congressional-14)
 prep_of(apportionment-12, districts-15)
 
+That/DT view/NN would/MD slowly/RB change/VB ./.
+
 (ROOT
   (S
     (NP (DT That) (NN view))
@@ -1420,6 +1504,8 @@ nsubj(change-5, view-2)
 aux(change-5, would-3)
 advmod(change-5, slowly-4)
 root(ROOT-0, change-5)
+
+In/IN 1962/CD ,/, the/DT court/NN abandoned/VBD its/PRP$ caution/NN ./.
 
 (ROOT
   (S
@@ -1437,6 +1523,8 @@ nsubj(abandoned-6, court-5)
 root(ROOT-0, abandoned-6)
 poss(caution-8, its-7)
 dobj(abandoned-6, caution-8)
+
+Finding/VBG remedies/NNS to/TO the/DT unequal/JJ distribution/NN of/IN political/JJ power/NN was/VBD indeed/VBN within/IN its/PRP$ constitutional/JJ authority/NN ./.
 
 (ROOT
   (S
@@ -1466,6 +1554,8 @@ root(ROOT-0, indeed-11)
 poss(authority-15, its-13)
 amod(authority-15, constitutional-14)
 prep_within(indeed-11, authority-15)
+
+Although/IN Supreme/NNP Court/NNP justices/NNS were/VBD named/VBN to/TO the/DT congressionally/JJ appointed/JJ electoral/JJ commission/NN that/WDT examined/VBD the/DT deadlocked/JJ 1876/CD presidential/JJ election/NN ,/, it/PRP was/VBD not/RB until/IN Bush/NNP v/NNP ./.
 
 (ROOT
   (S
@@ -1516,6 +1606,8 @@ neg(was-22, not-23)
 nn(v-26, Bush-25)
 prep_until(was-22, v-26)
 
+Gore/NN that/IN the/DT court/NN itself/PRP weighed/VBD the/DT remedies/NNS in/IN a/DT disputed/JJ presidential/JJ election/NN ./.
+
 (ROOT
   (S
     (VP (NN Gore)
@@ -1541,6 +1633,8 @@ det(election-13, a-10)
 amod(election-13, disputed-11)
 amod(election-13, presidential-12)
 prep_in(weighed-6, election-13)
+
+Although/IN the/DT decision/NN will/MD be/VB long/JJ debated/VBN ,/, the/DT court/NN 's/POS word/NN and/CC authority/NN was/VBD final/JJ ./.
 
 (ROOT
   (S
@@ -1576,6 +1670,8 @@ conj_and(word-12, authority-14)
 nsubj(final-16, authority-14)
 cop(final-16, was-15)
 root(ROOT-0, final-16)
+
+``Let/RB there/RB be/VB no/DT doubt/NN ,/, while/IN I/PRP strongly/RB disagree/VB with/IN the/DT court/NN 's/POS decision/NN ,/, I/PRP accept/VBP it/PRP ,''/VBZ Gore/JJ told/VBD the/DT nation/NN ./.
 
 (ROOT
   (S
@@ -1631,10 +1727,14 @@ ccomp(,''-20, told-22)
 det(nation-24, the-23)
 dobj(told-22, nation-24)
 
+___/.
+
 (ROOT
   (NP (. ___)))
 
 root(ROOT-0, ___-1)
+
+EDITOR'S/NNP NOTE/NNP _/, Lawrence/NNP L./NNP Knutson/NNP has/VBZ covered/VBN the/DT White/NNP House/NNP ,/, Congress/NNP and/CC Washington/NNP 's/POS history/NN for/IN more/JJR than/IN 30/CD years/NNS ./.
 
 (ROOT
   (S

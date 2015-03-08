@@ -1,3 +1,5 @@
+APW20001012.1742.0683/DT NEWS/NNP STORY/NNPS 2000-10-12/CD 17:59:47/CD
+
 (ROOT
   (NP
     (NP (DT APW20001012.1742.0683))
@@ -10,10 +12,14 @@ dep(APW20001012.1742.0683-1, STORY-3)
 num(17:59:47-5, 2000-10-12-4)
 dep(APW20001012.1742.0683-1, 17:59:47-5)
 
+US-Mideast/JJ
+
 (ROOT
   (ADJP (JJ US-Mideast)))
 
 root(ROOT-0, US-Mideast-1)
+
+Clinton/NNP Urges/NNPS Mideast/NNP Cease-Fire/.
 
 (ROOT
   (NP
@@ -25,9 +31,11 @@ nn(Mideast-3, Urges-2)
 root(ROOT-0, Mideast-3)
 punct(Mideast-3, Cease-Fire-4)
 
+WASHINGTON/NNP [AP/NNP ]/NNP _/NNP President/NNP Clinton/NNP urged/VBD Israelis/NNP and/CC Palestinians/NNPS to/TO undertake/VB an/DT immediate/JJ cease-fire/NN after/IN a/DT new/JJ outbreak/NN of/IN bloodshed/JJ and/CC called/VBN on/IN both/DT sides/NNS to/TO condemn/VB all/DT acts/NNS of/IN violence/NN ./.
+
 (ROOT
   (S
-    (NP (NNP WASHINGTON) (NNP (AP) (NNP )) (NNP _) (NNP President) (NNP Clinton))
+    (NP (NNP WASHINGTON) (NNP [AP) (NNP ]) (NNP _) (NNP President) (NNP Clinton))
     (VP
       (VP (VBD urged)
         (NP
@@ -57,18 +65,19 @@ punct(Mideast-3, Cease-Fire-4)
     (. .)))
 
 nn(Clinton-6, WASHINGTON-1)
-nn(Clinton-6, (AP-2)
-nn(Clinton-6, )-3)
+nn(Clinton-6, [AP-2)
+nn(Clinton-6, ]-3)
 nn(Clinton-6, _-4)
 nn(Clinton-6, President-5)
 nsubj(urged-7, Clinton-6)
-xsubj(undertake-12, Clinton-6)
 nsubj(called-23, Clinton-6)
-xsubj(condemn-28, Clinton-6)
+nsubj(condemn-28, Clinton-6)
 root(ROOT-0, urged-7)
 dobj(urged-7, Israelis-8)
+nsubj(undertake-12, Israelis-8)
 dobj(urged-7, Palestinians-10)
 conj_and(Israelis-8, Palestinians-10)
+nsubj(undertake-12, Palestinians-10)
 aux(undertake-12, to-11)
 xcomp(urged-7, undertake-12)
 det(cease-fire-15, an-13)
@@ -86,6 +95,8 @@ xcomp(called-23, condemn-28)
 det(acts-30, all-29)
 dobj(condemn-28, acts-30)
 prep_of(acts-30, violence-32)
+
+``Now/NNP is/VBZ the/DT time/NN to/TO stop/VB the/DT bloodshed/NN ,/, to/TO restore/VB calm/NN ,/, to/TO return/VB to/TO dialogue/VB and/CC ultimately/RB to/TO the/DT peace/NN process/NN ,''/IN the/DT president/NN said/VBD Thursday/NNP afternoon/NN in/IN the/DT White/NNP House/NNP Rose/NNP Garden/NNP ./.
 
 (ROOT
   (S

@@ -1,3 +1,5 @@
+NYT20001212.2027.0351/CD NEWS/NNP STORY/NNP 2000-12-12/CD 20:47:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001212.2027.0351))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001212.2027.0351-1, STORY-3)
 num(20:47:00-5, 2000-12-12-4)
 dep(NYT20001212.2027.0351-1, 20:47:00-5)
+
+A7989/CD &Cx1f/NN ;/: taf-z/JJ u/NN f/IN BC-CREDITCARD-HACKER-NYT/NNP 12-12/CD 0264/CD
 
 (ROOT
   (NP
@@ -29,10 +33,14 @@ prep_f(u-5, BC-CREDITCARD-HACKER-NYT-7)
 num(BC-CREDITCARD-HACKER-NYT-7, 12-12-8)
 dep(u-5, 0264-9)
 
+BC-CREDITCARD-HACKER-NYT/NNP
+
 (ROOT
   (NP (NNP BC-CREDITCARD-HACKER-NYT)))
 
 root(ROOT-0, BC-CREDITCARD-HACKER-NYT-1)
+
+STOLEN/NNP CREDIT/NNP DATA/NNP PUT/NNP ONLINE/NNP
 
 (ROOT
   (NP (NNP STOLEN) (NNP CREDIT) (NNP DATA) (NNP PUT) (NNP ONLINE)))
@@ -42,6 +50,8 @@ nn(ONLINE-5, CREDIT-2)
 nn(ONLINE-5, DATA-3)
 nn(ONLINE-5, PUT-4)
 root(ROOT-0, ONLINE-5)
+
+&UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -53,6 +63,8 @@ root(ROOT-0, ONLINE-5)
 root(ROOT-0, &UR-1)
 num(N.Y-4, c.2000-3)
 dep(&UR-1, N.Y-4)
+
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -70,6 +82,8 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
+
+A/DT computer/NN intruder/NN scooped/VBD 55,000/CD credit/NN card/NN numbers/VBZ this/DT week/NN from/IN Creditcards.com/NNP ,/, a/DT company/NN that/WDT serves/VBZ dozens/NNS of/IN small/JJ and/CC medium-sized/JJ merchants/NNS ,/, and/CC published/VBD the/DT information/NN on/IN the/DT Internet/NN after/IN unsuccessfully/JJ demanding/NN payment/NN to/TO keep/VB the/DT data/NN secret/NN ./.
 
 (ROOT
   (S
@@ -150,6 +164,8 @@ det(secret-40, the-38)
 nn(secret-40, data-39)
 dobj(keep-37, secret-40)
 
+A/DT spokesman/NN for/IN the/DT company/NN ,/, Laurent/NNP Jean/NNP ,/, said/VBD Tuesday/NNP ,/, ``We/WDT are/VBP aware/RB of/IN the/DT issues/NNS and/CC understand/NN their/PRP$ severity/NN ,/, and/CC also/RB are/VBP in/IN contact/NN with/IN the/DT FBI/NNP .''/.
+
 (ROOT
   (S
     (NP
@@ -211,6 +227,8 @@ det(FBI-31, the-30)
 prep_with(said-10, FBI-31)
 punct(said-10, .''-32)
 
+The/DT bureau/NN confirmed/VBD that/IN it/PRP was/VBD investigating/VBG the/DT incident/NN ,/, which/WDT was/VBD reported/VBN Tuesday/NNP by/IN Cnet.com/NNP ./.
+
 (ROOT
   (S
     (NP (DT The) (NN bureau))
@@ -247,6 +265,8 @@ auxpass(reported-13, was-12)
 rcmod(incident-9, reported-13)
 tmod(reported-13, Tuesday-14)
 agent(reported-13, Cnet.com-16)
+
+A/DT person/NN close/NN to/TO the/DT investigation/NN said/VBD the/DT intruder/NN contacted/VBD the/DT company/NN after/IN breaking/VBG into/IN the/DT site/NN on/IN Monday/NNP ,/, and/CC published/VBD the/DT data/NN on/IN the/DT Internet/NN after/IN a/DT demand/NN for/IN money/NN was/VBD rebuffed/VBN ./.
 
 (ROOT
   (S
@@ -314,6 +334,8 @@ prep_for(demand-30, money-32)
 auxpass(rebuffed-34, was-33)
 advcl(published-22, rebuffed-34)
 
+According/VBG to/TO the/DT company/NN 's/POS Web/NNP site/NN ,/, Creditcards.com/NNP clients/NNS include/VBP the/DT online/NN fitness/NN site/JJ Premier/NNP Solutions/NNPS ,/, Rock/NNP the/DT Vote/NNP ,/, Christian/NNP Concert/NNP Authority/NNP and/CC Spy/NNP Gate/NNP ./.
+
 (ROOT
   (S
     (PP (VBG According)
@@ -363,6 +385,8 @@ nn(Gate-28, Spy-27)
 dep(site-15, Gate-28)
 conj_and(Solutions-17, Gate-28)
 
+``We/RB make/VBP your/PRP$ business/NN go/VB Ka-Chingg/NNP ,''/IN its/PRP$ Web/NNP site/JJ promises/NNS ,/, referring/VBG to/TO its/PRP$ main/JJ electronic/JJ commerce/NN product/NN ./.
+
 (ROOT
   (SINV
     (ADVP (RB ``We))
@@ -399,6 +423,8 @@ amod(product-19, main-16)
 amod(product-19, electronic-17)
 nn(product-19, commerce-18)
 prep_to(referring-13, product-19)
+
+The/DT Creditcards.com/NNP case/NN is/VBZ one/CD of/IN several/JJ recent/JJ attempts/NNS to/TO extort/VB money/NN from/IN Web/NNP sites/NNS by/IN threatening/VBG to/TO reveal/VB their/PRP$ most/RBS sensitive/JJ information/NN ./.
 
 (ROOT
   (S
@@ -445,6 +471,8 @@ poss(information-23, their-20)
 advmod(sensitive-22, most-21)
 amod(information-23, sensitive-22)
 dobj(reveal-19, information-23)
+
+An/DT online/NN security/NN expert/NN said/VBD such/JJ attacks/NNS could/MD largely/RB be/VB avoided/VBN if/IN companies/NNS kept/VBN sensitive/JJ data/NNS on/IN computers/NNS separate/JJ from/IN those/DT running/VBG their/PRP$ Web/JJ sites/NNS ./.
 
 (ROOT
   (S
@@ -497,6 +525,8 @@ prepc_from(kept-14, running-22)
 poss(sites-25, their-23)
 amod(sites-25, Web-24)
 dobj(running-22, sites-25)
+
+``Your/CC credit/NN card/NN is/VBZ only/RB as/RB secure/JJ as/IN the/DT Web/NNP site/NNP it/PRP 's/VBZ going/VBG on/IN ,''/NN said/VBD the/DT expert/NN ,/, B.K./NNP DeLong/NNP of/IN Attrition.org/NNP ,/, a/DT nonprofit/NN computer/NN security/NN site/NN ./.
 
 (ROOT
   (SINV
@@ -556,6 +586,8 @@ nn(site-30, nonprofit-27)
 nn(site-30, computer-28)
 nn(site-30, security-29)
 appos(Attrition.org-24, site-30)
+
+NYT-12-12-00/CD 2047EST/CD
 
 (ROOT
   (FRAG

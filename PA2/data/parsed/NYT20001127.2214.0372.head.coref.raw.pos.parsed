@@ -1,3 +1,5 @@
+NYT20001127.2214.0372/CD NEWS/NNP STORY/NNP 2000-11-27/CD 22:23:00/CD
+
 (ROOT
   (NP
     (NP (CD NYT20001127.2214.0372))
@@ -9,6 +11,8 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001127.2214.0372-1, STORY-3)
 num(22:23:00-5, 2000-11-27-4)
 dep(NYT20001127.2214.0372-1, 22:23:00-5)
+
+A2512/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-REPLAY-TV-NYT/NNP &LR/NNP ;/: 11-27/CD 0403/CD
 
 (ROOT
   (NP
@@ -30,10 +34,14 @@ dep(&Cx1f-2, &LR-8)
 number(0403-11, 11-27-10)
 dep(&LR-8, 0403-11)
 
+BC-REPLAY-TV-NYT/NNP
+
 (ROOT
   (NP (NNP BC-REPLAY-TV-NYT)))
 
 root(ROOT-0, BC-REPLAY-TV-NYT-1)
+
+UPHEAVAL/NNP ,/, AND/NNP NEW/NNP FOCUS/NNP ,/, AT/NNP REPLAYTV/.
 
 (ROOT
   (NP
@@ -47,6 +55,8 @@ nn(FOCUS-5, NEW-4)
 root(ROOT-0, FOCUS-5)
 appos(FOCUS-5, AT-7)
 punct(AT-7, REPLAYTV-8)
+
+&UR/NNS ;/: By/NNP JOHN/NNP MARKOFF/NNP &LR/NNP ;/: &QC/NNP ;/: &UR/NNS ;/: &QL/NNP ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -80,6 +90,8 @@ dep(&UR-1, &QL-12)
 dep(&QL-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
+
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -96,6 +108,8 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
+
+SAN/NNP FRANCISCO/NNP _/NNP ReplayTV/NNP Inc/NNP .,/, a/DT pioneering/NN maker/NN of/IN digital/JJ video/NN recorders/NNS ,/, said/VBD late/RB Monday/NNP that/IN its/PRP$ leader/NN of/IN one/CD year/NN had/VBD resigned/VBN ,/, that/IN it/PRP would/MD lay/VB off/RB up/RB to/TO half/NN of/IN its/PRP$ work/NN force/NN of/IN 260/CD and/CC that/IN it/PRP plans/VBZ to/TO reshape/VB its/PRP$ business/NN strategy/NN ./.
 
 (ROOT
   (S
@@ -180,7 +194,7 @@ prep_of(half-34, force-38)
 prep_of(force-38, 260-40)
 mark(plans-44, that-42)
 nsubj(plans-44, it-43)
-xsubj(reshape-46, it-43)
+nsubj(reshape-46, it-43)
 ccomp(said-15, plans-44)
 conj_and(resigned-25, plans-44)
 aux(reshape-46, to-45)
@@ -188,6 +202,8 @@ xcomp(plans-44, reshape-46)
 poss(strategy-49, its-47)
 nn(strategy-49, business-48)
 dobj(reshape-46, strategy-49)
+
+Along/RB with/IN TiVo/NNP Inc/NNP .,/, a/DT competing/VBG Silicon/NNP Valley/NNP startup/JJ company/NN ,/, Replay/NNP has/VBZ been/VBN trying/VBG to/TO build/VB a/DT market/NN for/IN computer-based/JJ systems/NNS that/WDT replace/VBP traditional/JJ videotape/NN recorders/NNS and/CC permit/NN television/NN viewers/NNS to/TO freeze/JJ programs/NNS and/CC rewind/NN ,/, and/CC to/TO create/VB custom/NN ``channels/NNS .''/.
 
 (ROOT
   (S
@@ -267,6 +283,8 @@ nn(``channels-43, custom-42)
 dobj(create-41, ``channels-43)
 punct(trying-16, .''-44)
 
+As/IN part/NN of/IN its/PRP$ shift/NN in/IN strategy/NN ,/, Replay/NNP 's/POS founder/NN ,/, Anthony/NNP Wood/NNP ,/, will/MD become/VB the/DT company/NN 's/POS new/JJ chief/JJ executive/NN ,/, replacing/VBG Kim/NNP LeMaster/NNP ./.
+
 (ROOT
   (S
     (PP (IN As)
@@ -296,24 +314,26 @@ punct(trying-16, .''-44)
             (NP (NNP Kim) (NNP LeMaster))))))
     (. .)))
 
-prep_as(executive-23, part-2)
+prep_as(become-17, part-2)
 poss(shift-5, its-4)
 prep_of(part-2, shift-5)
 prep_in(shift-5, strategy-7)
 poss(founder-11, Replay-9)
-nsubj(executive-23, founder-11)
+nsubj(become-17, founder-11)
 nn(Wood-14, Anthony-13)
 appos(founder-11, Wood-14)
-aux(executive-23, will-16)
-cop(executive-23, become-17)
+aux(become-17, will-16)
+root(ROOT-0, become-17)
 det(company-19, the-18)
 poss(executive-23, company-19)
 amod(executive-23, new-21)
 amod(executive-23, chief-22)
-root(ROOT-0, executive-23)
+xcomp(become-17, executive-23)
 vmod(executive-23, replacing-25)
 nn(LeMaster-27, Kim-26)
 dobj(replacing-25, LeMaster-27)
+
+The/DT company/NN also/RB said/VBD it/PRP will/MD try/VB to/TO refocus/VB its/PRP$ business/NN on/IN software/NN licensing/VBG arrangements/NNS made/VBN with/IN partners/NNS ,/, including/VBG cable/JJ service/NN providers/NNS and/CC makers/NNS of/IN cable/JJ set-top/JJ boxes/NNS ./.
 
 (ROOT
   (S
@@ -353,7 +373,7 @@ nsubj(said-4, company-2)
 advmod(said-4, also-3)
 root(ROOT-0, said-4)
 nsubj(try-7, it-5)
-xsubj(refocus-9, it-5)
+nsubj(refocus-9, it-5)
 aux(try-7, will-6)
 ccomp(said-4, try-7)
 aux(refocus-9, to-8)
@@ -373,6 +393,8 @@ conj_and(providers-23, makers-25)
 amod(boxes-29, cable-27)
 amod(boxes-29, set-top-28)
 prep_of(providers-23, boxes-29)
+
+``The/DT new/JJ business/NN model/NN is/VBZ focused/VBD more/RBR intently/RB on/IN the/DT cable/JJ industry/NN ,''/NN said/VBD Steve/NNP Shannon/NNP ,/, Replay/NNP 's/POS vice/NN president/NN of/IN marketing/NN ./.
 
 (ROOT
   (SINV
@@ -416,6 +438,8 @@ nn(president-21, vice-20)
 appos(Shannon-16, president-21)
 prep_of(president-21, marketing-23)
 
+He/PRP said/VBD the/DT company/NN was/VBD in/IN trials/NNS with/IN Time/NNP Warner/NNP ,/, Comcast/NNP ,/, Charter/NNP Communications/NNPS and/CC with/IN AT&AMP;T/NNP ./.
+
 (ROOT
   (S
     (NP (PRP He))
@@ -454,6 +478,8 @@ appos(Communications-15, Charter-14)
 appos(Warner-10, Communications-15)
 prep_with(was-5', AT&AMP;T-18)
 
+It/PRP also/RB has/VBZ announced/VBN a/DT development/NN agreement/NN with/IN the/DT Motorola/NNP Corp/NNP ./.
+
 (ROOT
   (S
     (NP (PRP It))
@@ -475,6 +501,8 @@ dobj(announced-4, agreement-7)
 det(Corp-11, the-9)
 nn(Corp-11, Motorola-10)
 prep_with(announced-4, Corp-11)
+
+to/TO build/VB its/PRP$ software/NN into/IN a/DT new/JJ generation/NN of/IN cable/JJ set-top/JJ boxes/NNS ./.
 
 (ROOT
   (S
@@ -498,6 +526,8 @@ prep_into(build-2, generation-8)
 amod(boxes-12, cable-10)
 amod(boxes-12, set-top-11)
 prep_of(generation-8, boxes-12)
+
+Analysts/NNS said/VBD that/IN despite/IN offering/VBG free/JJ electronic/JJ service/NN ,/, in/IN contrast/JJ to/TO TiVo/NNP 's/POS subscription/NN service/NN ,/, ReplayTV/NNP has/VBZ trailed/VBN in/IN the/DT consumer/NN market/NN ./.
 
 (ROOT
   (S
@@ -542,6 +572,8 @@ det(market-24, the-22)
 nn(market-24, consumer-23)
 prep_in(trailed-20, market-24)
 
+TiVo/NNP 's/POS digital/JJ recorders/NNS are/VBP being/VBG manufactured/VBN by/IN Sony/NNP and/CC Phillips/NNS ,/, while/IN ReplayTV/NNP systems/NNS are/VBP being/VBG shipped/VBN by/IN Panasonic/NNP ./.
+
 (ROOT
   (S
     (NP
@@ -582,6 +614,8 @@ aux(shipped-18, are-16)
 auxpass(shipped-18, being-17)
 advcl(manufactured-7, shipped-18)
 agent(shipped-18, Panasonic-20)
+
+The/DT company/NN ,/, which/WDT is/VBZ based/VBN in/IN Mountain/NNP View/NNP ,/, Calif/NNP .,/NNP said/VBD that/IN it/PRP has/VBZ so/RB far/RB sold/VBN approximately/RB 20,000/CD units/NNS ./.
 
 (ROOT
   (S
@@ -628,6 +662,8 @@ ccomp(said-13, sold-19)
 quantmod(20,000-21, approximately-20)
 num(units-22, 20,000-21)
 dobj(sold-19, units-22)
+
+``TiVo/NNP has/VBZ had/VBN the/DT `wow/JJ '/POS factor/NN ,''/, said/VBD Josh/NNP Bernoff/NNP ,/, an/DT industry/NN analyst/NN at/IN Forrester/NNP Research/NNP ,/, a/DT computer/NN industry/NN research/NN and/CC consulting/VBG firm/NN ./.
 
 (ROOT
   (S
@@ -679,6 +715,8 @@ conj_and(Bernoff-11, research-23)
 amod(firm-26, consulting-25)
 dobj(said-9, firm-26)
 conj_and(Bernoff-11, firm-26)
+
+``The/DT result/NN is/VBZ that/IN Replay/NNP has/VBZ been/VBN left/VBN with/IN a/DT weakening/JJ market/NN position/NN and/CC a/DT device/NN that/WDT works/VBZ well/RB but/CC doesn't/RB look/JJ as/IN great/JJ .''/.
 
 (ROOT
   (S
@@ -732,6 +770,8 @@ acomp(works-18, look-22)
 prep_as(look-22, great-24)
 punct(is-3, .''-25)
 
+However/RB ,/, that/IN disadvantage/NN will/MD work/VB to/TO ReplayTV/NNP 's/POS advantage/NN in/IN striking/JJ deals/NNS with/IN the/DT cable/JJ industry/NN ,/, he/PRP added/VBD ./.
+
 (ROOT
   (S
     (ADVP (RB However))
@@ -770,6 +810,8 @@ prep_with(deals-13, industry-17)
 nsubj(added-20, he-19)
 root(ROOT-0, added-20)
 
+TiVo/NNP has/VBZ had/VBN difficulty/JJ building/NN alliances/NNS with/IN cable/JJ companies/NNS ,/, who/WP are/VBP not/RB generally/RB interested/JJ in/IN showcasing/VBG competing/VBG brands/NNS ./.
+
 (ROOT
   (S
     (NP (NNP TiVo))
@@ -807,6 +849,8 @@ rcmod(companies-9, interested-15)
 prepc_in(interested-15, showcasing-17)
 amod(brands-19, competing-18)
 dobj(showcasing-17, brands-19)
+
+On/IN the/DT horizon/NN is/VBZ Microsoft/NNP ,/, which/WDT has/VBZ also/RB recently/RB entered/VBN the/DT market/NN for/IN personal/JJ video/NN recorders/NNS with/IN its/PRP$ own/JJ system/NN ,/, called/VBN Ultimate/NNP TV/NNP ./.
 
 (ROOT
   (SINV
@@ -854,6 +898,8 @@ prep_with(entered-11, system-21)
 vmod(Microsoft-5, called-23)
 nn(TV-25, Ultimate-24)
 dobj(called-23, TV-25)
+
+NYT-11-27-00/CD 2223EST/CD
 
 (ROOT
   (FRAG
