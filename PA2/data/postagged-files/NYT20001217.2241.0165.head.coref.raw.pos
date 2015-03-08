@@ -6,9 +6,9 @@ BC-AIRTRAVEL-TIPS-ART-NYT_NNP
 
 SOME_NNP TIPS_NNP FOR_NNP TRAVELING_NNP BY_NNP AIR_. 
 
-&LR_NNS ;_: (ART_NNP ADV_NNP :_: Photo_NNP __NNP NYT8_NNP __NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP photo_NNP clients_NNS ._. 
+&LR_NNS ;_: [ART_NNP ADV_NNP :_: Photo_NNP __NNP NYT8_NNP __NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP photo_NNP clients_NNS ._. 
 Graphic_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP graphics_NNS clients_NNS ._. 
-Nonsubscribers_NNS can_MD make_VB one-time_JJ purchases_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .)_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP LAURENCE_NNP ZUCKERMAN_NNP &QC_NNP ;_: &LR_NNS ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
+Nonsubscribers_NNS can_MD make_VB one-time_JJ purchases_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .]_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP LAURENCE_NNP ZUCKERMAN_NNP &QC_NNP ;_: &LR_NNS ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
 Times_NNP News_NNP Service_NNP &QC_NNP ;_: &LR_NNS ;_: &QL_NNP ;_: 
 
 Booking_VBG Your_PRP$ Ticket_NN :_: 
@@ -118,7 +118,7 @@ Complaints_NNS are_VBP charged_VBN against_IN each_DT airline_NN in_IN the_DT Tr
 Write_JJ to_TO :_: 
 
 Aviation_NNP Consumer_NNP Protection_NNP Div_NNP ._. 
-(C-75_CD )_. 
+[C-75_CD ]_. 
 
 Department_NNP of_IN Transportation_NNP 
 

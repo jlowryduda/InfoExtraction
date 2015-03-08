@@ -6,7 +6,7 @@ BC-HAIDER-POPE-1STLD-WRITETHRU-TRIM-NYT_JJ
 
 RIGHT-WINGER_NNP FROM_NNP AUSTRIA_NNP MEETS_NNP POPE_NNP AND_NNP FEW_NNP CHEER_. 
 
-(SUBS_NNS to_TO add_VB graf_JJ 5_CD on_IN clashes_NNS w_IN police_NN :_: ``After_NNP Haider_NNP left_VBD the_DT area_NN ...''))_IN &QL_NNP ;_: &UR_NNS ;_: By_NNP ALESSANDRA_NNP STANLEY_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
+[SUBS_NNS to_TO add_VB graf_JJ 5_CD on_IN clashes_NNS w_IN police_NN :_: ``After_NNP Haider_NNP left_VBD the_DT area_NN ...'']]_IN &QL_NNP ;_: &UR_NNS ;_: By_NNP ALESSANDRA_NNP STANLEY_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
 Times_NNP News_NNP Service_NNP &QC_NNP ;_: &LR_NNS ;_: &QL_NNP ;_: 
 
 ROME_NNP __NNP In_IN an_DT encounter_NN bracketed_VBN by_IN political_JJ clashes_NNS and_CC public_JJ protest_NN ,_, Pope_NNP John_NNP Paul_NNP II_NNP met_VB briefly_RB on_IN Saturday_NN at_IN the_DT Vatican_NN with_IN Joerg_NNP Haider_NNP ,_, the_DT far-right_JJ Austrian_NNP politician_JJ ,_, who_WP is_VBZ persona_RB non_JJ grata_NN to_TO many_JJ Europeans_NNS ._. 
@@ -47,7 +47,7 @@ After_IN the_DT meeting_NN ,_, Haider_NNP told_VBD reporters_NNS that_IN he_PRP 
 
 Indeed_NNP ,_, in_IN the_DT past_JJ the_DT pope_NN has_VBZ stirred_VBN controversy_JJ by_IN meeting_NN with_IN former_JJ U.N_NNP ._. 
 secretary_JJ -general_JJ Kurt_NNP Waldheim_NNP ,_, whose_WP$ activities_NNS in_IN the_DT Nazi_NNP era_NN came_VBD under_IN question_NN ,_, and_CC Fidel_NNP Castro_NNP ._. 
-(BEGIN_NNP OPTIONAL_NNP TRIM_NNP )_. 
+[BEGIN_NNP OPTIONAL_NNP TRIM_NNP ]_. 
 
 When_WRB Haider_NNP arrived_VBN in_IN Venice_NNP earlier_RBR this_DT week_NN ,_, protesters_NNS on_IN boats_NNS threw_IN stones_NNS and_CC fireworks_NNS along_IN the_DT canals_NNS ._. 
 Haider_NNP 's_POS comments_NNS criticizing_VBG Italy_NNP 's_POS immigration_NN policy_NN as_IN ``too_`` generous_JJ ''_'' were_VBD denounced_VBN by_IN President_NNP Carlo_NNP Azeglio_NNP Ciampi_NNP ._. 
@@ -60,7 +60,7 @@ On_IN Friday_NNP ,_, Prime_NNP Minister_NNP Giuliano_NNP Amato_NNP denounced_VBD
 
 Italy_NNP is_VBZ not_RB the_DT only_JJ European_JJ country_NN to_TO have_VB fierce_RB reservations_NNS about_IN Haider_NNP ,_, but_CC it_PRP has_VBZ had_VBN more_RBR direct_JJ exposure_NN ._. 
 The_DT Austrian_NNP leader_NN has_VBZ made_VBN several_JJ visits_NNS to_TO northern_JJ Italy_NNP ,_, where_WRB his_PRP$ friendship_NN with_IN some_DT right-wing_JJ mayors_NNS __, and_CC suggestions_NNS that_IN southern_JJ Austria_NNP and_CC parts_NNS of_IN northern_JJ Italy_NNP should_MD merge_VB into_IN a_DT ``maxi-region_NN ''_'' __IN have_VBP enraged_VBN Italy_NNP 's_POS center-left_JJ government_NN ._. 
-(END_NNP OPTIONAL_NNP TRIM_NNP )_. 
+[END_NNP OPTIONAL_NNP TRIM_NNP ]_. 
 
 Some_DT people_NNS in_IN Haider_NNP 's_POS delegation_NN said_VBD they_PRP were_VBD disappointed_VBN by_IN the_DT clamor_NN surrounding_VBG Saturday_NNP 's_POS visit_NN ._. 
 
