@@ -118,6 +118,10 @@ def get_distance(line):
     """ Returns the distance between sentences """
     return "distance=" + str(abs(int(line[1]) - int(line[6])))
 
+def same_sentence(line):
+    """ Returns True if mentions are in the same sentence, else False """
+    return "same_sentence=" + str(int(line[1]) == int(line[6]))
+
 
 def is_contained(line):
     return "is_contained=" + str(line[10] in line[5])
@@ -204,7 +208,7 @@ def is_appositive(line, constituents):
     return "is_appositive=0"
 
 
-def extract_features(lines, train=False):
+def extract_features(lines):
     features = []
     j_path = os.getcwd() + '/data/jsons/'
     p_path = os.getcwd() + '/data/parsed/'
@@ -224,7 +228,8 @@ def extract_features(lines, train=False):
                 # Skip over dependency trees for now
                 constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
                 constituents = [Tree.fromstring(c) for c in constituents]
-        f_list = [get_distance(line),
+        f_list = [get_label(line),
+                  get_distance(line),
                   is_contained(line),
                   entity_types_match(line),
                   gender_match(line, sents),
@@ -234,8 +239,6 @@ def extract_features(lines, train=False):
                   anaphor_pronoun(line),
                   both_proper_names(line, sents),
                   is_appositive(line, constituents)]
-        if train:
-            f_list.insert(0, get_label(line))
         features.append(f_list)
     return features
 
@@ -267,5 +270,5 @@ if __name__ == "__main__":
         else:
             train = False
         lines = read_from_file(input_file)
-        lines = extract_features(lines, train)
+        lines = extract_features(lines)
         write_to_file(output_file, lines, train)
