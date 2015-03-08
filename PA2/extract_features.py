@@ -1,6 +1,7 @@
 import sys
 import os
 import json
+import re
 
 def read_from_file(filename):
     with open(os.getcwd() + '/data/' + filename, 'r') as infile:
@@ -214,10 +215,20 @@ def get_paths(tree, start, end):
 
 def is_appositive(line, dependencies):
     if line[1] == line[6]:
+        start_1 = int(line[2])
+        end_1 = int(line[3])
+        start_2 = int(line[7])
+        end_2 = int(line[8])
+        # index_range represents a list of all the indices covered by spans:
+        index_range = range(start_1, end_1) + range(start_2, end_2)
         dependency = dependencies[int(line[1])]
         appos = [item for item in dependency if item.startswith('appos(')]
-        if len(appos) > 0:
-            return "is_appositive=True"
+        # Extract indices from dependencies using a regular expression:
+        pattern = '-(\d+)[,)]'
+        for a in appos:
+            indices = [int(index) for index in re.findall(pattern, a)]
+            if (indices[0] in index_range and indices[1] in index_range):
+                return "is_appositive=True"
     pass
 
 
@@ -314,7 +325,8 @@ def extract_features(lines):
                 parses = [sent for sent in parses if len(sent) > 0]
                 # Skip over dependency trees for now
                 constituents = [s for i, s in enumerate(parses) if i % 3 == 1]
-                dependencies = [s for i, s in enumerate(parses) if i % 3 == 2]
+                dependencies = [s.split('\n') for i, s in enumerate(parses) 
+                                if i % 3 == 2]
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   get_distance(line),
