@@ -22,7 +22,7 @@ def pos_match(line, sents):
     tags1 = set([item[1] for item in span1])
     tags2 = set([item[1] for item in span2])
     if len(set.intersection(tags1, tags2)) > 0:
-        return "pos_match=1"
+        return "pos_match=True"
     else:
         pass
 
@@ -43,6 +43,12 @@ def is_plural_prp(word, tag):
         set(['they', 'theirs', 'their', 'them', 'we', 'our', 'ours', 'us'])
 
     return (tag == ('PRP' or 'PRP$') and (word in plural_prp))
+
+def exact_match(line):
+    if line[5] == line[10]:
+        return "exact_match=True"
+    else:
+        pass
 
 def number_match(line, sents):
     """Check if both mentions have the same number. Assume cardinality of 1
@@ -77,7 +83,7 @@ def number_match(line, sents):
     both_plural = (both_nns or both_nnps or nns_and_nnps or nnps_and_nns or pl_prp_match)
 
     if (both_plural or both_singular):
-        return "number_match=1"
+        return "number_match=True"
     else:
         pass
 
@@ -106,13 +112,16 @@ def gender_match(line, sents):
                     genders[i] = 'F'
 
     if genders[0] == genders[1]:
-        return "gender_match=1"
+        return "gender_match=True"
     else:
         pass
 
 def get_distance(line):
     """ Returns the distance between sentences """
-    return "distance=" + str(abs(int(line[1]) - int(line[6])))
+    distance = abs(int(line[1]) - int(line[6]))
+    if distance > 4:
+        distance = 4
+    return "distance=" + str(distance)
 
 def same_sentence(line):
     """ Returns True if mentions are in the same sentence, else False """
@@ -122,7 +131,7 @@ def same_sentence(line):
         pass
 
 def is_contained(line):
-    if line[10] in line[5]:
+    if (line[10] in line[5]) or (line[5] in line[10]):
         return "is_contained=True"
     else:
         pass
@@ -156,7 +165,7 @@ def both_proper_names(line, sents):
     tags1 = any([item[1] for item in span1 if item[1].startswith('NNP')])
     tags2 = any([item[1] for item in span2 if item[1].startswith('NNP')])
     if tags1 and tags2:
-        return "both_proper_names="
+        return "both_proper_names=True"
     else:
         pass
 
@@ -209,7 +218,7 @@ def is_appositive(line, constituents):
                 path_up, path_down = get_paths(tree, start, end)
                 # Here we need to perform some logical tests on the paths,
                 # and then decide whether or not to reply:
-                return "is_appositive=1"
+                return "is_appositive=True"
 
     else:
         pass
@@ -257,12 +266,10 @@ def extract_features(lines):
     j_path = os.getcwd() + '/data/jsons/'
     p_path = os.getcwd() + '/data/parsed/'
     curr_file = None
-    i = 0
     for line in lines:
     	if line[0] != curr_file:
-            i += 1
             curr_file = line[0]
-            print(i, curr_file)
+            print(curr_file)
             with open(j_path + curr_file + '.raw.json', 'r') as infile:
                 sents = json.load(infile)
             with open(p_path + curr_file + '.raw.pos.parsed', 'r') as infile:
@@ -274,6 +281,7 @@ def extract_features(lines):
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   get_distance(line),
+                  exact_match(line),
                   is_contained(line),
                   entity_types_match(line),
                   gender_match(line, sents),
@@ -281,10 +289,10 @@ def extract_features(lines):
                   number_match(line, sents),
                   antecedent_pronoun(line),
                   anaphor_pronoun(line),
+                  same_sentence(line),
                   both_proper_names(line, sents),
                   is_appositive(line, constituents)]
         f_list = [f for f in f_list if f is not None]
-        print f_list
         features.append(f_list)
     return features
 
@@ -295,7 +303,7 @@ def write_to_file(filename, features, train=False):
             outfile.write(line)
             outfile.write('\n')
     if not train:
-        with open(filename + '.nolabels', 'w') as outfile:
+        with open(filename + '.nolabel', 'w') as outfile:
             for line in lines:
                 outfile.write(line[1:])
                 outfile.write('\n')
