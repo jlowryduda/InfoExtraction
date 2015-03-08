@@ -116,12 +116,14 @@ def gender_match(line, sents):
     else:
         pass
 
+
 def get_distance(line):
     """ Returns the distance between sentences """
     distance = abs(int(line[1]) - int(line[6]))
     if distance > 4:
         distance = 4
     return "distance=" + str(distance)
+
 
 def same_sentence(line):
     """ Returns True if mentions are in the same sentence, else False """
@@ -130,20 +132,24 @@ def same_sentence(line):
     else:
         pass
 
+
 def is_contained(line):
     if (line[10] in line[5]) or (line[5] in line[10]):
         return "is_contained=True"
     else:
         pass
 
+
 def get_label(line):
     return line[-1]
+
 
 def entity_types_match(line):
     if line[4] == line[9]:
         return "types_match=True"
     else:
         pass
+
 
 def antecedent_pronoun(line):
     pronouns = ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her']
@@ -152,12 +158,14 @@ def antecedent_pronoun(line):
     else:
         pass
 
+
 def anaphor_pronoun(line):
     pronouns = ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her']
     if line[10] in pronouns:
         return "anaphor_is_pronoun=True"
     else:
         pass
+
 
 def both_proper_names(line, sents):
     span1 = sents[int(line[1])][int(line[2]):int(line[3])]
@@ -168,6 +176,7 @@ def both_proper_names(line, sents):
         return "both_proper_names=True"
     else:
         pass
+
 
 def get_paths(tree, start, end):
     """
@@ -202,35 +211,40 @@ def get_paths(tree, start, end):
     # Resulting path_up ends with, path_down starts with, dominating NP
     return path_up, path_down
 
-def is_appositive(line, constituents):
+
+def is_appositive(line, dependencies):
+    if line[1] == line[6]:
+        dependency = dependencies[int(line[1])]
+        appos = [item for item in dependency if item.startswith('appos(')]
+        if len(appos) > 0:
+            return "is_appositive=True"
+    pass
+
+
+def tree_distance(line, constituents):
     if line[1] == line[6]:
         tree = constituents[int(line[1])]
         indices = [int(line[2]), int(line[3]), int(line[7]), int(line[8])]
         start = min(indices)
         end = min(max(indices), len(tree.leaves()))
-        subtree = tree[tree.treeposition_spanning_leaves(start, end)]
-
-        if len(subtree) >= 4:
-            if (subtree.label() == 'NP' and     # Rooted at NP
-                subtree[0].label() == 'NP' and  # First subtree is an NP
-                subtree[1].label() == ',' and   # Second subtree is a comma
-                subtree[3].label() == ','):     # Fourth subtree is a comma
-                # We may very well be dealing with an appositive,
-                # but more exploration of subtree[2] is needed.
-                path_up, path_down = get_paths(tree, start, end)
-                # Here we need to perform some logical tests on the paths,
-                # and then decide whether or not to reply:
-                return "is_appositive=True"
-
-
+        path_up, path_down = get_paths(tree, start, end)
+        distance = len(path_up + path_down) - 1
+        return "tree_distance=" + str(distance)
     else:
         pass
 
+
 def anaphor_definite(line, constituents):
-    tree = constituents[int(line[6])]
-    indices = [int(line[7]), int(line[8])]
-    start = min(indices)
-    end = min(max(indices), len(tree.leaves()))
+    mention_1_start = int(line[2])
+    mention_2_start = int(line[7])
+    if mention_1_start > mention_2_start:
+        tree = constituents[int(line[1])]
+        start = int(line[2])
+        end = min(int(line[3]), len(tree.leaves()))
+    else:
+        tree = constituents[int(line[6])]
+        start = int(line[7])
+        end = min(int(line[8]), len(tree.leaves()))
     first_token = ""
     try:
         subtree = tree[tree.treeposition_spanning_leaves(start, end)]
@@ -245,11 +259,18 @@ def anaphor_definite(line, constituents):
     except:
         pass
 
+
 def anaphor_demonstrative(line, constituents):
-    dem = ["this", "that", "these", "those"]
-    tree = constituents[int(line[6])]
-    start = int(line[7])
-    end = min(int(line[8]), len(tree.leaves()))
+    mention_1_start = int(line[2])
+    mention_2_start = int(line[7])
+    if mention_1_start > mention_2_start:
+        tree = constituents[int(line[1])]
+        start = int(line[2])
+        end = min(int(line[3]), len(tree.leaves()))
+    else:
+        tree = constituents[int(line[6])]
+        start = int(line[7])
+        end = min(int(line[8]), len(tree.leaves()))
     first_token = ""
     try:
         subtree = tree[tree.treeposition_spanning_leaves(start, end)]
@@ -257,12 +278,24 @@ def anaphor_demonstrative(line, constituents):
             first_token = subtree[0].leaves()[0].lower()
         else:
             first_token = subtree.lower()
-        if first_token in dem:
+        if first_token in ("this", "that", "these", "those"):
             return "anaphor_definite=True"
         else:
             pass
     except:
         pass
+
+
+def jaccard_coefficient(line, sents):
+    span1 = sents[int(line[1])][int(line[2]):int(line[3])]
+    span2 = sents[int(line[6])][int(line[7]):int(line[8])]
+    tokens1 = set([item[0] for item in span1])
+    tokens2 = set([item[0] for item in span2])
+    intersection = set.intersection(tokens1, tokens2)
+    union = set.union(tokens1, tokens2)
+    jc = len(intersection) / float(len(union))
+    return "jaccard_coefficient=" + str(jc)
+
 
 def extract_features(lines):
     features = []
@@ -280,7 +313,8 @@ def extract_features(lines):
                 parses = parses.split('\n\n')
                 parses = [sent for sent in parses if len(sent) > 0]
                 # Skip over dependency trees for now
-                constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
+                constituents = [s for i, s in enumerate(parses) if i % 3 == 1]
+                dependencies = [s for i, s in enumerate(parses) if i % 3 == 2]
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   get_distance(line),
@@ -294,7 +328,11 @@ def extract_features(lines):
                   anaphor_pronoun(line),
                   same_sentence(line),
                   both_proper_names(line, sents),
-                  is_appositive(line, constituents)]
+                  anaphor_definite(line, constituents),
+                  anaphor_demonstrative(line, constituents),
+                  tree_distance(line, constituents),
+                  jaccard_coefficient(line, sents),
+                  is_appositive(line, dependencies)]
         f_list = [f for f in f_list if f is not None]
         features.append(f_list)
     return features
