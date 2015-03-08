@@ -1,7 +1,6 @@
 import sys
 import os
 import json
-#from nltk.tree import Tree
 
 def read_from_file(filename):
     with open(os.getcwd() + '/data/' + filename, 'r') as infile:
@@ -9,7 +8,6 @@ def read_from_file(filename):
 
     lines = [line.split() for line in lines]
     return lines
-
 
 def pos_match(line, sents):
     """
@@ -26,11 +24,11 @@ def pos_match(line, sents):
     if len(set.intersection(tags1, tags2)) > 0:
         return "pos_match=1"
     else:
-        return "pos_match=0"
+        pass
 
 def is_singular_prp(word, tag):
     """Check if the word is a singular personal pronoun"""
-    
+
     # list of singular PRP and PRP$
     singular_prp =\
         set(['it', 'its', 'he', 'his', 'him', 'her', 'hers',
@@ -39,7 +37,7 @@ def is_singular_prp(word, tag):
 
 def is_plural_prp(word, tag):
     """Check if word is a plural personal pronoun"""
-    
+
     # list of plural PRP and PRP$
     plural_prp =\
         set(['they', 'theirs', 'their', 'them', 'we', 'our', 'ours', 'us'])
@@ -47,42 +45,41 @@ def is_plural_prp(word, tag):
     return (tag == ('PRP' or 'PRP$') and (word in plural_prp))
 
 def number_match(line, sents):
-    """Check if both mentions have the same number. Assume cardinality of 1 
+    """Check if both mentions have the same number. Assume cardinality of 1
     for both sets of tags"""
     span1 = sents[int(line[1])][int(line[2]):int(line[3])]
     span2 = sents[int(line[6])][int(line[7]):int(line[8])]
     tag1 = iter(set([item[1] for item in span1])).next()
     tag2 = iter(set([item[1] for item in span2])).next()
 
-    
-    # both singular 
+
+    # both singular
     both_nn = ((tag1 == 'NN') and (tag2 == 'NN'))
     both_nnp = ((tag1 == 'NNP') and (tag2 == 'NNP'))
     nn_and_nnp = ((tag1 == 'NN') and (tag2 == 'NNP'))
     nnp_and_nn = ((tag1 == 'NNP') and (tag2 == 'NN'))
     sg_prp_match =\
         ((tag1 == ('NN' or 'NNP') and is_singular_prp(span2[0][0], tag2)) or\
-        is_singular_prp(span1[0][0], tag1) and tag2 == ('NN' or 'NNP')) 
+        is_singular_prp(span1[0][0], tag1) and tag2 == ('NN' or 'NNP'))
 
     both_singular = (both_nn or both_nnp or nn_and_nnp or nnp_and_nn or sg_prp_match)
 
-    # both plural 
+    # both plural
     both_nns = ((tag1 == 'NNS') and (tag2 == 'NNS'))
     both_nnps = ((tag1 == 'NNPS') and (tag2 == 'NNPS'))
     nns_and_nnps = ((tag1 == 'NNS') and (tag2 == 'NNPS'))
     nnps_and_nns = ((tag1 == 'NNPS') and (tag2 == 'NNS'))
-    
+
     pl_prp_match =\
         ((tag1 == ('NNS' or 'NNPS') and is_plural_prp(span2[0][0], tag2)) or\
-        is_plural_prp(span1[0][0], tag1) and tag2 == ('NNS' or 'NNPS')) 
+        is_plural_prp(span1[0][0], tag1) and tag2 == ('NNS' or 'NNPS'))
 
     both_plural = (both_nns or both_nnps or nns_and_nnps or nnps_and_nns or pl_prp_match)
-   
-    if (both_plural or both_singular): 
+
+    if (both_plural or both_singular):
         return "number_match=1"
     else:
-        return "number_match=0"
-
+        pass
 
 def gender_match(line, sents):
     """
@@ -111,8 +108,7 @@ def gender_match(line, sents):
     if genders[0] == genders[1]:
         return "gender_match=1"
     else:
-        return "gender_match=0"
-
+        pass
 
 def get_distance(line):
     """ Returns the distance between sentences """
@@ -120,38 +116,49 @@ def get_distance(line):
 
 def same_sentence(line):
     """ Returns True if mentions are in the same sentence, else False """
-    return "same_sentence=" + str(int(line[1]) == int(line[6]))
-
+    if int(line[1]) == int(line[6]):
+        return "same_sentence=True"
+    else:
+        pass
 
 def is_contained(line):
-    return "is_contained=" + str(line[10] in line[5])
-
+    if line[10] in line[5]:
+        return "is_contained=True"
+    else:
+        pass
 
 def get_label(line):
     return line[-1]
 
-
 def entity_types_match(line):
-    return "types_match=" + str(line[4] == line[9])
-
+    if line[4] == line[9]:
+        return "types_match=True"
+    else:
+        pass
 
 def antecedent_pronoun(line):
     pronouns = ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her']
-    return "antecedent_is_pronoun=" + str(line[5] in pronouns)
-
+    if line[5] in pronouns:
+        return  "antecedent_is_pronoun=True"
+    else:
+        pass
 
 def anaphor_pronoun(line):
     pronouns = ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her']
-    return "anaphor_is_pronoun=" + str(line[10] in pronouns)
-
+    if line[10] in pronouns:
+        return "anaphor_is_pronoun=True"
+    else:
+        pass
 
 def both_proper_names(line, sents):
     span1 = sents[int(line[1])][int(line[2]):int(line[3])]
     span2 = sents[int(line[6])][int(line[7]):int(line[8])]
     tags1 = any([item[1] for item in span1 if item[1].startswith('NNP')])
     tags2 = any([item[1] for item in span2 if item[1].startswith('NNP')])
-    return "both_proper_names=" + str(tags1 and tags2)
-
+    if tags1 and tags2:
+        return "both_proper_names="
+    else:
+        pass
 
 def get_paths(tree, start, end):
     """
@@ -184,7 +191,6 @@ def get_paths(tree, start, end):
     # Resulting path_up ends with, path_down starts with, dominating NP
     return path_up.reverse(), path_down
 
-
 def is_appositive(line, constituents):
     if line[1] == line[6]:
         tree = constituents[int(line[1])]
@@ -204,9 +210,47 @@ def is_appositive(line, constituents):
                 # Here we need to perform some logical tests on the paths,
                 # and then decide whether or not to reply:
                 return "is_appositive=1"
-    
-    return "is_appositive=0"
 
+    else:
+        pass
+
+def anaphor_definite(line, constituents):
+    tree = constituents[int(line[6])]
+    indices = [int(line[7]), int(line[8])]
+    start = min(indices)
+    end = min(max(indices), len(tree.leaves()))
+    first_token = ""
+    try:
+        subtree = tree[tree.treeposition_spanning_leaves(start, end)]
+        if isinstance(subtree, Tree):
+            first_token = subtree[0].leaves()[0].lower()
+        else:
+            first_token = subtree.lower()
+        if first_token == "the":
+            return "anaphor_definite=True"
+        else:
+            pass
+    except:
+        pass
+
+def anaphor_demonstrative(line, constituents):
+    dem = ["this", "that", "these", "those"]
+    tree = constituents[int(line[6])]
+    start = int(line[7])
+    end = min(int(line[8]), len(tree.leaves()))
+    first_token = ""
+    try:
+        subtree = tree[tree.treeposition_spanning_leaves(start, end)]
+        if isinstance(subtree, Tree):
+            first_token = subtree[0].leaves()[0].lower()
+        else:
+            first_token = subtree.lower()
+        if first_token in dem:
+            return "anaphor_definite=True"
+        else:
+            pass
+    except:
+        pass
 
 def extract_features(lines):
     features = []
@@ -239,9 +283,10 @@ def extract_features(lines):
                   anaphor_pronoun(line),
                   both_proper_names(line, sents),
                   is_appositive(line, constituents)]
+        f_list = [f for f in f_list if f is not None]
+        print f_list
         features.append(f_list)
     return features
-
 
 def write_to_file(filename, features, train=False):
     lines = [' '.join(f) for f in features]
@@ -254,7 +299,6 @@ def write_to_file(filename, features, train=False):
             for line in lines:
                 outfile.write(line[1:])
                 outfile.write('\n')
-
 
 
 if __name__ == "__main__":
