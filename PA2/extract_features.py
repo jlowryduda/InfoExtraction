@@ -193,12 +193,14 @@ def get_paths(tree, start, end):
     # Calculate paths:
     path_up = [tree[subtree_pos][revised_start[:i]].label()
                for i in range(len(revised_start))]
+    
+    path_up.reverse()
 
     path_down = [tree[subtree_pos][revised_end[:i]].label()
                  for i in range(len(revised_end))]
 
     # Resulting path_up ends with, path_down starts with, dominating NP
-    return path_up.reverse(), path_down
+    return path_up, path_down
 
 def is_appositive(line, constituents):
     if line[1] == line[6]:
@@ -219,6 +221,7 @@ def is_appositive(line, constituents):
                 # Here we need to perform some logical tests on the paths,
                 # and then decide whether or not to reply:
                 return "is_appositive=True"
+
 
     else:
         pass
