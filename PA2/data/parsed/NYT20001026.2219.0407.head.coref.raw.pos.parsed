@@ -356,7 +356,7 @@ prep_of(air-27, boredom-30)
         (NP
           (NP (DT a) (JJ British) (NN art) (JJ student) (NN studying))
           (PP (IN in)
-            (NP (NNP San) (NNP Francisco))))
+            (NP (NNP San) (NNP Francisco)))))
         (, ,)
         (SBAR
           (WHADVP (WRB where))
@@ -369,8 +369,8 @@ prep_of(air-27, boredom-30)
                     (NP
                       (ADVP (JJ next) (NN door)
                         (PP (TO to)
-                          (NP (DT a) (JJ serial) (NN killer) (NN (Jeff))))
-                      (NP (NNP Fahey) (, )))
+                          (NP (DT a) (JJ serial) (NN killer) (NN Jeff) (NNP Fahey)))))))))))
+                      (, ,)
                       (SBAR
                         (WHNP (WP who))
                         (S
@@ -379,7 +379,7 @@ prep_of(air-27, boredom-30)
                               (NP (JJ outlandish) (NNS costumes))
                               (VP (TO to)
                                 (VP (VB stalk)
-                                  (NP (PRP$ his) (NNS victims)))))))))))))))))
+                                  (NP (PRP$ his) (NNS victims)))))))))
     (. .)))
 
 nn(Wright-2, Katie-1)
