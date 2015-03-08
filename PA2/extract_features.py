@@ -240,12 +240,18 @@ def extract_features(lines, train=False):
     return features
 
 
-def write_to_file(filename, features):
+def write_to_file(filename, features, train=False):
     lines = [' '.join(f) for f in features]
-    with open(filename, 'w') as outfile:
+    with open(filename + '.labeled', 'w') as outfile:
         for line in lines:
             outfile.write(line)
             outfile.write('\n')
+    if not train:
+        with open(filename + '.nolabels', 'w') as outfile:
+            for line in lines:
+                outfile.write(line[1:])
+                outfile.write('\n')
+
 
 
 if __name__ == "__main__":
@@ -262,4 +268,4 @@ if __name__ == "__main__":
             train = False
         lines = read_from_file(input_file)
         lines = extract_features(lines, train)
-        write_to_file(output_file, lines)
+        write_to_file(output_file, lines, train)
