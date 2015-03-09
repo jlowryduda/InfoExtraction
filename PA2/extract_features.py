@@ -58,11 +58,11 @@ def clean_string(s):
 
 def exact_match(line, sents):
     """
-    Given a potential coreference pair, determine if the two mentions in the 
+    Given a potential coreference pair, determine if the two mentions in the
     pair are exact matches by doing string matching as well as checking if they
     are the same part of speech.
     """
-    if (clean_string(line[5]) == clean_string(line[10]) and 
+    if (clean_string(line[5]) == clean_string(line[10]) and
         pos_match(line, sents)):
         return "exact_match=True"
     else:
@@ -94,7 +94,7 @@ def number_match(line, sents):
     elif (tag2 in plural_tags) or is_plural_prp(span2[0][0], tag2):
         tag_2 = 'pl'
     else:
-        tag_2 = 'cannot tell' 
+        tag_2 = 'cannot tell'
 
     if tag_1 == tag_2:
         return True
@@ -104,7 +104,7 @@ def number_match(line, sents):
 def gender_match(line, sents, gender_dict):
     """
     Given a line containing a potential coreference pair, and a sentence data
-    structure, determine whether or not the pair has the same gender by 
+    structure, determine whether or not the pair has the same gender by
     looking it up in a gender dictionary.
     """
     # Assume that the first name part in any given span of tokens will be
@@ -159,7 +159,7 @@ def is_contained(line):
     If the entirety of one mention is contained as a string match within the
     other mention, return True, else False.
     """
-    if ((clean_string(line[10]) in clean_string(line[5])) or 
+    if ((clean_string(line[10]) in clean_string(line[5])) or
         (clean_string(line[5]) in clean_string(line[10]))):
         return "is_contained=True"
     pass
@@ -239,7 +239,7 @@ def get_paths(tree, start, end):
 def is_appositive(line, dependencies):
     """
     Given a line of data and a list of dependency parses, return true if the
-    one mention in the pair is appositive to the other. 
+    one mention in the pair is appositive to the other.
     """
     if line[1] == line[6]:
         start_1 = int(line[2]) + 1
@@ -486,6 +486,23 @@ def wh_clause(line):
                     return "wh_clause=True"
     pass
 
+def nearest_mention_pronoun_pair(line, sents):
+    if int(line[1]) == int(line[6]):
+        #find the PRP or PRP$ closest to the mention in the same sentence
+        sent = sents[int(line[1])]
+        for token, tag in sent[int(line[3]):]:
+            if tag.startswith("PRP"):
+                nearest_pronoun = token
+                if nearest_pronoun == line[10]:
+                    return "nearest_pronoun=True"
+    elif (int(line[1]) + 1) == int(line[6]):
+        sent = sents[int(line[6])]
+        for token, tag in sent:
+            if tag.startswith("PRP"):
+                nearest_pronoun = token
+                if nearest_pronoun == line[10]:
+                    return "nearest_pronoun=True"
+    pass
 
 def extract_features(lines):
     features = []
@@ -520,11 +537,12 @@ def extract_features(lines):
                   head_match(line, constituents),
                   wh_clause(line),
                   is_copula(line, dependencies),
+                  anaphor_pronoun(line),
+                  nearest_mention_pronoun_pair(line, sents),
                   is_appositive(line, dependencies)]
                   #get_distance(line),
                   #pos_match(line, sents),
                   #antecedent_pronoun(line),
-                  #anaphor_pronoun(line),
                   #both_proper_names(line, sents),
                   #anaphor_definite(line, constituents),
                   #anaphor_demonstrative(line, constituents),
