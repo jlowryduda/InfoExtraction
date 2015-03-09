@@ -466,8 +466,8 @@ def head_match(line, constituents):
 def wh_clause(line):
     """
     Given a line from the data, check to see if the potential coreference pair
-    contains one mention of who/which/whose/that which is fewer than 5 tokens
-    away from the other mention in the pair.
+    contains one mention of who/which/whose/where/what/that which is fewer than
+    5 tokens away from the other mention in the pair.
     """
     pronouns = ('who', 'which', 'whose', 'that', 'where', "what")
     # Check for same sentence:
@@ -503,6 +503,21 @@ def nearest_mention_pronoun_pair(line, sents):
     pass
 
 
+def is_demonym(line, sents, demo_dict):
+    span1 = sents[int(line[1])][int(line[2]):int(line[3])]
+    span2 = sents[int(line[6])][int(line[7]):int(line[8])]
+    tokens1 = ' '.join([item[0] for item in span1])
+    tokens2 = ' '.join([item[0] for item in span2])
+    if tokens1 in demo_dict:
+        if demo_dict[tokens1] == tokens2:
+            print tokens1, tokens2
+            return "is_demonym=True"
+    elif tokens2 in demo_dict:
+        if demo_dict[tokens2] == tokens1:
+            return "is_demonym=True"
+    pass
+
+
 def extract_features(lines):
     features = []
     j_path = os.getcwd() + '/data/jsons/'
@@ -510,6 +525,8 @@ def extract_features(lines):
     curr_file = None
     with open('names_genders.json', 'r') as infile:
         gender_dict = json.load(infile)
+    with open('demo_dict.json', 'r') as infile:
+        demo_dict = json.load(infile)
     for line in lines:
         #if get_label(line) == "yes":
             #print line
@@ -538,6 +555,7 @@ def extract_features(lines):
                   head_match(line, constituents),
                   wh_clause(line),
                   is_copula(line, dependencies),
+                  is_demonym(line, sents, demo_dict),
                   #antecedent_pronoun(line),
                   #anaphor_pronoun(line),
                   nearest_mention_pronoun_pair(line, sents),
