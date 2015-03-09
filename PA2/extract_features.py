@@ -36,7 +36,7 @@ def is_singular_prp(word, tag):
     singular_prp =\
         set(['it', 'its', 'he', 'his', 'him', 'her', 'hers',
              'I', 'my', 'mine', 'me'])
-    return (tag == ('PRP' or 'PRP$') and (word in singular_prp))
+    return (tag == ('PRP' or 'PRP$') and (word.lower() in singular_prp))
 
 
 def is_plural_prp(word, tag):
@@ -46,7 +46,7 @@ def is_plural_prp(word, tag):
     plural_prp =\
         set(['they', 'theirs', 'their', 'them', 'we', 'our', 'ours', 'us'])
 
-    return (tag == ('PRP' or 'PRP$') and (word in plural_prp))
+    return (tag == ('PRP' or 'PRP$') and (word.lower() in plural_prp))
 
 
 def exact_match(line, sents):
