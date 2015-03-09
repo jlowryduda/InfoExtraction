@@ -487,25 +487,21 @@ def wh_clause(line):
     pass
 
 def nearest_mention_pronoun_pair(line, sents):
+    sent = None
     if int(line[1]) == int(line[6]):
         sent = sents[int(line[1])]
-        for token, tag in sent[int(line[3]):]:
-            if tag.startswith("PRP"):
-                nearest_pronoun = token
-                if nearest_pronoun == line[10]:
-                    return "nearest_pronoun=True"
-                else:
-                    pass
     elif (int(line[1]) + 1) == int(line[6]):
         sent = sents[int(line[6])]
-        for token, tag in sent:
+    if sent:
+        start = int(line[3])
+        for i, (token, tag) in enumerate(sent[start:]):
             if tag.startswith("PRP"):
-                nearest_pronoun = token
-                if nearest_pronoun == line[10]:
+                if i + start == int(line[7]):
                     return "nearest_pronoun=True"
                 else:
-                    pass
+                    break
     pass
+
 
 def extract_features(lines):
     features = []
@@ -543,7 +539,7 @@ def extract_features(lines):
                   wh_clause(line),
                   is_copula(line, dependencies),
                   #antecedent_pronoun(line),
-                  anaphor_pronoun(line),
+                  #anaphor_pronoun(line),
                   nearest_mention_pronoun_pair(line, sents),
                   is_appositive(line, dependencies)]
                   #get_distance(line),
