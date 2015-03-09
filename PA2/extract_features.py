@@ -545,6 +545,7 @@ def is_demonym(line, sents, demo_dict):
         if demo_dict[tokens2] == tokens1:
             return "is_demonym=True"
     pass
+    
 
 def geo_identity(line, geo_dict):
     if line[4] == "GPE" and line[9] == "GPE":
@@ -605,11 +606,11 @@ def extract_features(lines):
                   is_demonym(line, sents, demo_dict),
                   geo_identity(line, geo_dict),
                   nearest_mention_pronoun_pair(line, sents),
-                  is_appositive(line, dependencies),
+                  is_appositive(line, dependencies)]
                   #antecedent_pronoun(line),
                   #anaphor_pronoun(line),
                   #get_distance(line),
-                  pos_match(line, sents)]
+                  #pos_match(line, sents),
                   #antecedent_pronoun(line),
                   #both_proper_names(line, sents),
                   #anaphor_definite(line, constituents),
