@@ -469,7 +469,7 @@ def wh_clause(line):
     contains one mention of who/which/whose/that which is fewer than 5 tokens
     away from the other mention in the pair.
     """
-    pronouns = ('who', 'which', 'whose', 'that')
+    pronouns = ('who', 'which', 'whose', 'that', 'where', "what")
     # Check for same sentence:
     if line[1] == line[6]:
         # Check same entity type:
@@ -488,13 +488,14 @@ def wh_clause(line):
 
 def nearest_mention_pronoun_pair(line, sents):
     if int(line[1]) == int(line[6]):
-        #find the PRP or PRP$ closest to the mention in the same sentence
         sent = sents[int(line[1])]
         for token, tag in sent[int(line[3]):]:
             if tag.startswith("PRP"):
                 nearest_pronoun = token
                 if nearest_pronoun == line[10]:
                     return "nearest_pronoun=True"
+                else:
+                    pass
     elif (int(line[1]) + 1) == int(line[6]):
         sent = sents[int(line[6])]
         for token, tag in sent:
@@ -502,6 +503,8 @@ def nearest_mention_pronoun_pair(line, sents):
                 nearest_pronoun = token
                 if nearest_pronoun == line[10]:
                     return "nearest_pronoun=True"
+                else:
+                    pass
     pass
 
 def extract_features(lines):
@@ -512,6 +515,8 @@ def extract_features(lines):
     with open('names_genders.json', 'r') as infile:
         gender_dict = json.load(infile)
     for line in lines:
+        #if get_label(line) == "yes":
+            #print line
     	if line[0] != curr_file:
             curr_file = line[0]
             print(curr_file)
@@ -537,6 +542,7 @@ def extract_features(lines):
                   head_match(line, constituents),
                   wh_clause(line),
                   is_copula(line, dependencies),
+                  #antecedent_pronoun(line),
                   anaphor_pronoun(line),
                   nearest_mention_pronoun_pair(line, sents),
                   is_appositive(line, dependencies)]
