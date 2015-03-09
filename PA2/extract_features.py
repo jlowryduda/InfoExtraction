@@ -10,6 +10,7 @@ def read_from_file(filename):
     lines = [line.split() for line in lines]
     return lines
 
+
 def pos_match(line, sents):
     """
     Given a line of train/dev/test data, and the document data structure
@@ -23,9 +24,10 @@ def pos_match(line, sents):
     tags1 = set([item[1] for item in span1])
     tags2 = set([item[1] for item in span2])
     if len(set.intersection(tags1, tags2)) > 0:
-        return "pos_match=True"
+        return True
     else:
-        pass
+        return False
+
 
 def is_singular_prp(word, tag):
     """Check if the word is a singular personal pronoun"""
@@ -36,6 +38,7 @@ def is_singular_prp(word, tag):
              'I', 'my', 'mine', 'me'])
     return (tag == ('PRP' or 'PRP$') and (word in singular_prp))
 
+
 def is_plural_prp(word, tag):
     """Check if word is a plural personal pronoun"""
 
@@ -45,11 +48,13 @@ def is_plural_prp(word, tag):
 
     return (tag == ('PRP' or 'PRP$') and (word in plural_prp))
 
-def exact_match(line):
-    if line[5] == line[10]:
+
+def exact_match(line, sents):
+    if line[5] == line[10] and pos_match(line, sents):
         return "exact_match=True"
     else:
         pass
+
 
 def number_match(line, sents):
     """Check if both mentions have the same number. Assume cardinality of 1
@@ -84,11 +89,12 @@ def number_match(line, sents):
     both_plural = (both_nns or both_nnps or nns_and_nnps or nnps_and_nns or pl_prp_match)
 
     if (both_plural or both_singular):
-        return "number_match=True"
+        return True
     else:
-        pass
+        return False
 
-def gender_match(line, sents):
+
+def gender_match(line, sents, gender_dict):
     """
     Given a line containing a potential coreference pair, and a sentence data
     structure, determine whether or not the pair has the same gender.
@@ -99,8 +105,6 @@ def gender_match(line, sents):
              sents[int(line[6])][int(line[7])][0]]
     ents = [line[4], line[9]]
     genders = ['N', 'N'] # Default to neutral gender
-    with open('names_genders.json', 'r') as infile:
-        gender_dict = json.load(infile)
 
     # If the entity is a person, check to see if the person's gender is in the
     # gender dictionary as either male or female, and if so, reassign
@@ -113,9 +117,15 @@ def gender_match(line, sents):
                     genders[i] = 'F'
 
     if genders[0] == genders[1]:
-        return "gender_match=True"
+        return True
     else:
-        pass
+        return False
+
+
+def agreement(line, sents, gender_dict):
+    if gender_match(line, sents, gender_dict) and number_match(line, sents):
+        return "agreement=True"
+    pass
 
 
 def get_distance(line):
@@ -333,6 +343,7 @@ def jaccard_coefficient(line, sents):
     jc = len(intersection) / float(len(union))
     return "jaccard_coefficient=" + str(jc)
 
+
 def get_head(tree):
     if tree[-1].label() == "POS":
         return tree[-2].leaves()
@@ -353,6 +364,7 @@ def get_head(tree):
             if e.label() in ["JJ", "JJS", "RB", "QP"]:
                 return " ".join(e.leaves())
         return " ".join(tree[-1].leaves())
+
 
 def head_match(line, constituents):
     tree_1 = constituents[int(line[1])]
@@ -384,6 +396,8 @@ def extract_features(lines):
     j_path = os.getcwd() + '/data/jsons/'
     p_path = os.getcwd() + '/data/parsed/'
     curr_file = None
+    with open('names_genders.json', 'r') as infile:
+        gender_dict = json.load(infile)
     for line in lines:
     	if line[0] != curr_file:
             curr_file = line[0]
@@ -401,26 +415,26 @@ def extract_features(lines):
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   #get_distance(line),
-                  exact_match(line),
+                  exact_match(line, sents),
                   #is_contained(line),
                   entity_types_match(line),
-                  gender_match(line, sents),
-                  pos_match(line, sents),
-                  number_match(line, sents),
+                  #pos_match(line, sents),
                   #antecedent_pronoun(line),
                   #anaphor_pronoun(line),
-                  same_sentence(line),
+                  #same_sentence(line),
                   #both_proper_names(line, sents),
                   #anaphor_definite(line, constituents),
                   #anaphor_demonstrative(line, constituents),
                   #tree_distance(line, constituents),
-                  jaccard_coefficient(line, sents),
-                  #head_match(line, constituents),
+                  agreement(line, sents, gender_dict),
+                  #jaccard_coefficient(line, sents),
+                  head_match(line, constituents),
                   is_copula(line, dependencies),
                   is_appositive(line, dependencies)]
         f_list = [f for f in f_list if f is not None]
         features.append(f_list)
     return features
+
 
 def write_to_file(filename, features, train=False):
     lines = [' '.join(f) for f in features]
