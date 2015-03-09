@@ -25,8 +25,7 @@ def pos_match(line, sents):
     tags2 = set([item[1] for item in span2])
     if len(set.intersection(tags1, tags2)) > 0:
         return True
-    else:
-        return False
+    return False
 
 
 def is_singular_prp(word, tag):
@@ -52,8 +51,7 @@ def is_plural_prp(word, tag):
 def exact_match(line, sents):
     if line[5] == line[10] and pos_match(line, sents):
         return "exact_match=True"
-    else:
-        pass
+    pass
 
 
 def number_match(line, sents):
@@ -64,17 +62,20 @@ def number_match(line, sents):
     tag1 = iter(set([item[1] for item in span1])).next()
     tag2 = iter(set([item[1] for item in span2])).next()
 
-
+    singular_tags = ('NN', 'NNP')
+    plural_tags = ('NNS', 'NNPS')
     # both singular
     both_nn = ((tag1 == 'NN') and (tag2 == 'NN'))
     both_nnp = ((tag1 == 'NNP') and (tag2 == 'NNP'))
     nn_and_nnp = ((tag1 == 'NN') and (tag2 == 'NNP'))
     nnp_and_nn = ((tag1 == 'NNP') and (tag2 == 'NN'))
-    sg_prp_match =\
-        ((tag1 == ('NN' or 'NNP') and is_singular_prp(span2[0][0], tag2)) or\
-        is_singular_prp(span1[0][0], tag1) and tag2 == ('NN' or 'NNP'))
+    sg_prp_match = ((tag1 == ('NN' or 'NNP') and
+                     is_singular_prp(span2[0][0], tag2)) or
+                    is_singular_prp(span1[0][0], tag1) and
+                    tag2 == ('NN' or 'NNP'))
 
-    both_singular = (both_nn or both_nnp or nn_and_nnp or nnp_and_nn or sg_prp_match)
+    both_singular = (both_nn or both_nnp or nn_and_nnp or
+                     nnp_and_nn or sg_prp_match)
 
     # both plural
     both_nns = ((tag1 == 'NNS') and (tag2 == 'NNS'))
@@ -82,16 +83,17 @@ def number_match(line, sents):
     nns_and_nnps = ((tag1 == 'NNS') and (tag2 == 'NNPS'))
     nnps_and_nns = ((tag1 == 'NNPS') and (tag2 == 'NNS'))
 
-    pl_prp_match =\
-        ((tag1 == ('NNS' or 'NNPS') and is_plural_prp(span2[0][0], tag2)) or\
-        is_plural_prp(span1[0][0], tag1) and tag2 == ('NNS' or 'NNPS'))
+    pl_prp_match = ((tag1 == ('NNS' or 'NNPS') and
+                     is_plural_prp(span2[0][0], tag2)) or
+                    is_plural_prp(span1[0][0], tag1) and
+                    tag2 == ('NNS' or 'NNPS'))
 
-    both_plural = (both_nns or both_nnps or nns_and_nnps or nnps_and_nns or pl_prp_match)
+    both_plural = (both_nns or both_nnps or nns_and_nnps or
+                   nnps_and_nns or pl_prp_match)
 
     if (both_plural or both_singular):
         return True
-    else:
-        return False
+    return False
 
 
 def gender_match(line, sents, gender_dict):
@@ -118,8 +120,7 @@ def gender_match(line, sents, gender_dict):
 
     if genders[0] == genders[1]:
         return True
-    else:
-        return False
+    return False
 
 
 def agreement(line, sents, gender_dict):
@@ -140,15 +141,13 @@ def same_sentence(line):
     """ Returns True if mentions are in the same sentence, else False """
     if int(line[1]) == int(line[6]):
         return "same_sentence=True"
-    else:
-        pass
+    pass
 
 
 def is_contained(line):
     if (line[10] in line[5]) or (line[5] in line[10]):
         return "is_contained=True"
-    else:
-        pass
+    pass
 
 
 def get_label(line):
@@ -158,24 +157,21 @@ def get_label(line):
 def entity_types_match(line):
     if line[4] == line[9]:
         return "types_match=True"
-    else:
-        pass
+    pass
 
 
 def antecedent_pronoun(line):
     pronouns = ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her']
     if line[5] in pronouns:
         return  "antecedent_is_pronoun=True"
-    else:
-        pass
+    pass
 
 
 def anaphor_pronoun(line):
     pronouns = ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her']
     if line[10] in pronouns:
         return "anaphor_is_pronoun=True"
-    else:
-        pass
+    pass
 
 
 def both_proper_names(line, sents):
@@ -185,8 +181,7 @@ def both_proper_names(line, sents):
     tags2 = any([item[1] for item in span2 if item[1].startswith('NNP')])
     if tags1 and tags2:
         return "both_proper_names=True"
-    else:
-        pass
+    pass
 
 
 def get_paths(tree, start, end):
@@ -262,8 +257,10 @@ def is_copula(line, dependencies):
                         if rel.startswith('nsubj('):
                             break
                         if rel.startswith('cop('):
-                            cop_indices = [int(index) for index in re.findall(pattern, rel)]
-                            if (cop_indices[0] in index_range) or (cop_indices[1] in index_range):
+                            cop_indices = [int(index) for
+                                           index in re.findall(pattern, rel)]
+                            if (cop_indices[0] in index_range or
+                                cop_indices[1] in index_range):
                                 return "is_copula=True"
     pass
 
@@ -277,8 +274,7 @@ def tree_distance(line, constituents):
         path_up, path_down = get_paths(tree, start, end)
         distance = len(path_up + path_down) - 1
         return "tree_distance=" + str(distance)
-    else:
-        pass
+    pass
 
 
 def anaphor_definite(line, constituents):
@@ -301,8 +297,7 @@ def anaphor_definite(line, constituents):
             first_token = subtree.lower()
         if first_token == "the":
             return "anaphor_definite=True"
-        else:
-            pass
+        pass
     except:
         pass
 
@@ -333,23 +328,36 @@ def anaphor_demonstrative(line, constituents):
         pass
 
 
-def adjacent_subjects(line, constituents):
+def adjacent_subjects(line, dependencies, sents):
+    """
+    Given a line and a set of dependencies, checks if the mentions are the 
+    subjects of adjacent sentences.
+    """
     mention_1_sentence = int(line[1])
     mention_2_sentence = int(line[6])
-    if (abs(mention_1_sentence - mention_2_sentence) == 1):
-        tree_1 = constituents[int(line[1])]
-        tree_2 = constituents[int(line[6])]
+
+    # Adjacent sentence?
+    if ((abs(mention_1_sentence - mention_2_sentence) == 1) and not 
+        both_proper_names(line, sents)):
+        dependency_1 = dependencies[int(line[1])]
+        dependency_2 = dependencies[int(line[6])]
+
+        start_1 = int(line[2]) + 1
+        end_1 = int(line[3]) + 1
+        start_2 = int(line[7]) + 1
+        end_2 = int(line[8]) + 1
+
+        range_1 = range(start_1, end_1)
+        range_2 = range(start_2, end_2)
+
+        pattern = '-(\d+)[,)]'
+        indices_1 = [int(i) for i in re.findall(pattern, dependency_1[0])]
+        indices_2 = [int(i) for i in re.findall(pattern, dependency_2[0])]
         
-        tree_1_start = int(line[2])
-        tree_1_end = min(int(line[3]), len(tree_1.leaves()))       
- 
-        subject_1 = \
-            [tree for tree in\
-            tree_1.subtrees(lambda t: t.label() == "NP" and t.parent().label()=="S")][0]
-        
-        #if (line[-1] == 'yes'):
-        #    print tree_1, '\n', tree_2
-        # for testing 
+        if (indices_1[0] in range_1 or indices_1[1] in range_1):
+            if (indices_2[0] in range_2 or indices_2[1] in range_2):
+                return "adjacent_subjects=True"
+    pass
 
 
 def jaccard_coefficient(line, sents):
@@ -360,7 +368,10 @@ def jaccard_coefficient(line, sents):
     intersection = set.intersection(tokens1, tokens2)
     union = set.union(tokens1, tokens2)
     jc = len(intersection) / float(len(union))
-    return "jaccard_coefficient=" + str(jc)
+    if jc > 0.25:
+        return "jaccard_coefficient=" + str(jc)
+    else:
+        return "jaccard_coefficient=<0.25"
 
 
 def get_head(tree):
@@ -406,8 +417,7 @@ def head_match(line, constituents):
         head_2 = subtree_2
     if head_1 == head_2:
         return "head_match=True"
-    else:
-        pass
+    pass
 
 
 def extract_features(lines):
@@ -431,7 +441,7 @@ def extract_features(lines):
                 constituents = [s for i, s in enumerate(parses) if i % 3 == 1]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 3 == 2]
-                constituents = [ParentedTree.fromstring(c) for c in constituents]
+                constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   #get_distance(line),
                   exact_match(line, sents),
@@ -446,10 +456,10 @@ def extract_features(lines):
                   #anaphor_demonstrative(line, constituents),
                   #tree_distance(line, constituents),
                   agreement(line, sents, gender_dict),
-                  #jaccard_coefficient(line, sents),
+                  jaccard_coefficient(line, sents),
+                  adjacent_subjects(line, dependencies, sents),
                   head_match(line, constituents),
                   is_copula(line, dependencies),
-                  adjacent_subjects(line, constituents),
                   is_appositive(line, dependencies)]
         f_list = [f for f in f_list if f is not None]
         features.append(f_list)
@@ -470,7 +480,7 @@ def write_to_file(filename, features, train=False):
 
 
 if __name__ == "__main__":
-    from nltk.tree import Tree, ParentedTree
+    from nltk.tree import Tree
     if len(sys.argv) != 4:
         print("Specify an input filename, an output filename, and")
         print("either 'train' or 'test' depending on datatype")
