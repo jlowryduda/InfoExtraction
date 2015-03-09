@@ -48,10 +48,19 @@ def is_plural_prp(word, tag):
     return (tag == ('PRP' or 'PRP$') and (word.lower() in plural_prp))
 
 
+def clean_string(s):
+    s = s.replace("`", "")
+    s = s.replace("(", "")
+    s = s.replace(")", "")
+    s = s.lower()
+    return s
+
+
 def exact_match(line, sents):
-    if line[5] == line[10] and pos_match(line, sents):
+    if clean_string(line[5]) == clean_string(line[10]) and pos_match(line, sents):
         return "exact_match=True"
-    pass
+    else:
+        pass
 
 
 def number_match(line, sents):
@@ -330,14 +339,14 @@ def anaphor_demonstrative(line, constituents):
 
 def adjacent_subjects(line, dependencies, sents):
     """
-    Given a line and a set of dependencies, checks if the mentions are the 
+    Given a line and a set of dependencies, checks if the mentions are the
     subjects of adjacent sentences.
     """
     mention_1_sentence = int(line[1])
     mention_2_sentence = int(line[6])
 
     # Adjacent sentence?
-    if ((abs(mention_1_sentence - mention_2_sentence) == 1) and not 
+    if ((abs(mention_1_sentence - mention_2_sentence) == 1) and not
         both_proper_names(line, sents)):
         dependency_1 = dependencies[int(line[1])]
         dependency_2 = dependencies[int(line[6])]
@@ -353,7 +362,7 @@ def adjacent_subjects(line, dependencies, sents):
         pattern = '-(\d+)[,)]'
         indices_1 = [int(i) for i in re.findall(pattern, dependency_1[0])]
         indices_2 = [int(i) for i in re.findall(pattern, dependency_2[0])]
-        
+
         if (indices_1[0] in range_1 or indices_1[1] in range_1):
             if (indices_2[0] in range_2 or indices_2[1] in range_2):
                 return "adjacent_subjects=True"
