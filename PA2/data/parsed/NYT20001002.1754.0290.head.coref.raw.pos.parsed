@@ -522,7 +522,7 @@ Dr./NNP Monty/NNP Graham/NNP ,/, a/DT researcher/NN at/IN the/DT Dauphin/NNP Isl
 nn(Graham-3, Dr.-1)
 nn(Graham-3, Monty-2)
 nsubj(worries-16, Graham-3)
-nsubj(worries-16', Graham-3)
+nsubj(worries-16, Graham-3)
 det(researcher-6, a-5)
 appos(Graham-3, researcher-6)
 det(Lab-12, the-8)
