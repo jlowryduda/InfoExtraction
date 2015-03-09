@@ -213,7 +213,7 @@ def get_paths(tree, start, end):
     return path_up, path_down
 
 
-def check_relation(line, dependencies, relation):
+def is_appositive(line, dependencies):
     if line[1] == line[6]:
         start_1 = int(line[2]) + 1
         end_1 = int(line[3]) + 1
@@ -223,16 +223,38 @@ def check_relation(line, dependencies, relation):
         # index_range represents a list of all the indices covered by spans:
         index_range = range(start_1, end_1) + range(start_2, end_2)
         dependency = dependencies[int(line[1])]
-        relations = [item for item in dependency if item.startswith(relation)]
+        relations = [item for item in dependency if item.startswith('appos(')]
         # Extract indices from dependencies using a regular expression:
         pattern = '-(\d+)[,)]'
         for rel in relations:
             indices = [int(index) for index in re.findall(pattern, rel)]
             if (indices[0] in index_range and indices[1] in index_range):
-                if relation == 'appos(':
-                    return "is_appositive=True"
-                elif relation == 'cop(':
-                    return "is_copula=True"
+                return "is_appositive=True"
+    pass
+
+
+def is_copula(line, dependencies):
+    if line[1] == line[6]:
+        start_1 = int(line[2]) + 1
+        end_1 = int(line[3]) + 1
+        start_2 = int(line[7]) + 1
+        end_2 = int(line[8]) + 1
+
+        index_range = range(start_1, end_1) + range(start_2, end_2)
+        dependency = dependencies[int(line[1])]
+
+        pattern = '-(\d+)[,)]'
+        for i, line in enumerate(dependency):
+            if line.startswith('nsubj'):
+                indices = [int(index) for index in re.findall(pattern, line)]
+                if (indices[0] in index_range and indices[1] in index_range):
+                    for j, rel in enumerate(dependency[i+1:]):
+                        if rel.startswith('nsubj('):
+                            break
+                        if rel.startswith('cop('):
+                            cop_indices = [int(index) for index in re.findall(pattern, rel)]
+                            if (cop_indices[0] in index_range) or (cop_indices[1] in index_range):
+                                return "is_copula=True"
     pass
 
 
@@ -378,24 +400,24 @@ def extract_features(lines):
                                 if i % 3 == 2]
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
-                  get_distance(line),
-                  #exact_match(line),
-                  is_contained(line),
+                  #get_distance(line),
+                  exact_match(line),
+                  #is_contained(line),
                   entity_types_match(line),
                   gender_match(line, sents),
                   pos_match(line, sents),
                   number_match(line, sents),
-                  antecedent_pronoun(line),
-                  anaphor_pronoun(line),
+                  #antecedent_pronoun(line),
+                  #anaphor_pronoun(line),
                   same_sentence(line),
-                  both_proper_names(line, sents),
-                  anaphor_definite(line, constituents),
-                  anaphor_demonstrative(line, constituents),
-                  tree_distance(line, constituents),
+                  #both_proper_names(line, sents),
+                  #anaphor_definite(line, constituents),
+                  #anaphor_demonstrative(line, constituents),
+                  #tree_distance(line, constituents),
                   jaccard_coefficient(line, sents),
-                  head_match(line, constituents),
-                  check_relation(line, dependencies, 'cop('),
-                  check_relation(line, dependencies, 'appos(')]
+                  #head_match(line, constituents),
+                  is_copula(line, dependencies),
+                  is_appositive(line, dependencies)]
         f_list = [f for f in f_list if f is not None]
         features.append(f_list)
     return features
