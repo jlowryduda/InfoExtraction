@@ -343,10 +343,10 @@ def adjacent_subjects(line, constituents):
         tree_1_start = int(line[2])
         tree_1_end = min(int(line[3]), len(tree_1.leaves()))       
  
-        for tree in tree_1.subtrees(lambda t: t.label() == "NP" and t.parent().label()=="S"):
-            # looking for the subject for first tree
-            pass
-
+        subject_1 = \
+            [tree for tree in\
+            tree_1.subtrees(lambda t: t.label() == "NP" and t.parent().label()=="S")][0]
+        
         #if (line[-1] == 'yes'):
         #    print tree_1, '\n', tree_2
         # for testing 
