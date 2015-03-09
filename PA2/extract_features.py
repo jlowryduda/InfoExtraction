@@ -142,8 +142,8 @@ def same_sentence(line):
 
 
 def is_contained(line):
-    if ((line[10].lower() in line[5].lower()) or 
-        (line[5].lower() in line[10].lower())):
+    if ((clean_string(line[10]) in clean_string(line[5])) or 
+        (clean_string(line[5]) in clean_string(line[10]))):
         return "is_contained=True"
     pass
 
@@ -217,6 +217,10 @@ def get_paths(tree, start, end):
 
 
 def is_appositive(line, dependencies):
+    """
+    Given a line of data and a list of dependency parses, return true if the
+    one mention in the pair is appositive to the other. 
+    """
     if line[1] == line[6]:
         start_1 = int(line[2]) + 1
         end_1 = int(line[3]) + 1
@@ -230,6 +234,8 @@ def is_appositive(line, dependencies):
         # Extract indices from dependencies using a regular expression:
         pattern = '-(\d+)[,)]'
         for rel in relations:
+            # If both of the indices in the appositive pair are present
+            # in the index range of the mentions from the line, return True
             indices = [int(index) for index in re.findall(pattern, rel)]
             if (indices[0] in index_range and indices[1] in index_range):
                 return "is_appositive=True"
@@ -237,18 +243,24 @@ def is_appositive(line, dependencies):
 
 
 def is_copula(line, dependencies):
+    """
+    Given a line of data and a list of dependency parses, return true if the
+    both of the mentions in the pair are in a copula construction together.
+    """
     if line[1] == line[6]:
         start_1 = int(line[2]) + 1
         end_1 = int(line[3]) + 1
         start_2 = int(line[7]) + 1
         end_2 = int(line[8]) + 1
 
+        # index_range represents a list of all the indices covered by spans:
         index_range = range(start_1, end_1) + range(start_2, end_2)
         dependency = dependencies[int(line[1])]
 
         pattern = '-(\d+)[,)]'
         for i, line in enumerate(dependency):
             if line.startswith('nsubj'):
+                # Extract indices from dependencies using a regular expression:
                 indices = [int(index) for index in re.findall(pattern, line)]
                 if (indices[0] in index_range and indices[1] in index_range):
                     for j, rel in enumerate(dependency[i+1:]):
@@ -419,15 +431,20 @@ def head_match(line, constituents):
 
 
 def wh_clause(line):
+    pronouns = ['who', 'which', 'whose', 'that']
+    # Check for same sentence:
     if line[1] == line[6]:
+        # Check same entity type:
         if line[4] == line[9]:
             indices = sorted([int(line[2]), int(line[3]), int(line[7]), int(line[8])])
             start = indices[0]
             end = indices[-1]
+            # If the mentions are no more than 4 tokens away from one another:
             if (end - start) <= 4:
-                if clean_string(line[10]) in ["who", "which", "whose", "that"]:
+                # And if one of them is one of these pronouns:
+                if ((clean_string(line[10]) in pronouns) or
+                    (clean_string(line[5]) in pronouns)):
                     return "wh_clause=True"
-
     pass
 
 
