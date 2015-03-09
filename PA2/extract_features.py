@@ -2,8 +2,12 @@ import sys
 import os
 import json
 import re
+from nltk.tree import Tree
 
 def read_from_file(filename):
+    """
+    Read in data from file and do preprocessing on it for later use.
+    """
     with open(os.getcwd() + '/data/' + filename, 'r') as infile:
         lines = infile.readlines()
 
@@ -82,6 +86,7 @@ def number_match(line, sents):
     singular_tags = ('NN', 'NNP')
     plural_tags = ('NNS', 'NNPS')
 
+    # Determine number of tag1
     if (tag1 in singular_tags) or is_singular_prp(span1[0][0], tag1):
         tag_1 = 'sg'
     elif (tag1 in plural_tags) or is_plural_prp(span1[0][0], tag1):
@@ -89,6 +94,7 @@ def number_match(line, sents):
     else:
         tag_1 = 'cannot tell'
 
+    # Determine number of tag2
     if (tag2 in singular_tags) or is_singular_prp(span2[0][0], tag2):
         tag_2 = 'sg'
     elif (tag2 in plural_tags) or is_plural_prp(span2[0][0], tag2):
@@ -482,7 +488,7 @@ def wh_clause(line):
     contains one mention of who/which/whose/where/what/that which is fewer than
     5 tokens away from the other mention in the pair.
     """
-    pronouns = ('who', 'which', 'whose', 'that', 'where', "what")
+    pronouns = ('who', 'which', 'whose', 'that', 'where', 'what')
     # Check for same sentence:
     if line[1] == line[6]:
         # Check same entity type:
@@ -499,7 +505,13 @@ def wh_clause(line):
                     return "wh_clause=True"
     pass
 
+
 def nearest_mention_pronoun_pair(line, sents):
+    """
+    Given a line from the data and a list of sentence structures, determine
+    if the second mention is a personal pronoun, and if so, is it the first
+    one to follow the first mention.
+    """
     sent = None
     if int(line[1]) == int(line[6]):
         sent = sents[int(line[1])]
@@ -517,6 +529,10 @@ def nearest_mention_pronoun_pair(line, sents):
 
 
 def is_demonym(line, sents, demo_dict):
+    """
+    Checks to see if one mention is a demonym of the other, e.g. "Denmark" and
+    "Danish."
+    """
     span1 = sents[int(line[1])][int(line[2]):int(line[3])]
     span2 = sents[int(line[6])][int(line[7]):int(line[8])]
     tokens1 = ' '.join([item[0] for item in span1])
@@ -532,6 +548,9 @@ def is_demonym(line, sents, demo_dict):
 
 
 def extract_features(lines):
+    """
+    Given lines of data, extracts features.
+    """
     features = []
     j_path = os.getcwd() + '/data/jsons/'
     p_path = os.getcwd() + '/data/parsed/'
@@ -541,8 +560,6 @@ def extract_features(lines):
     with open('demo_dict.json', 'r') as infile:
         demo_dict = json.load(infile)
     for line in lines:
-        #if get_label(line) == "yes":
-            #print line
     	if line[0] != curr_file:
             curr_file = line[0]
             print(curr_file)
@@ -552,7 +569,6 @@ def extract_features(lines):
                 parses = infile.read()
                 parses = parses.split('\n\n')
                 parses = [sent for sent in parses if len(sent) > 0]
-                # Skip over dependency trees for now
                 constituents = [s for i, s in enumerate(parses) if i % 3 == 1]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 3 == 2]
@@ -569,10 +585,10 @@ def extract_features(lines):
                   wh_clause(line),
                   is_copula(line, dependencies),
                   is_demonym(line, sents, demo_dict),
-                  #antecedent_pronoun(line),
-                  #anaphor_pronoun(line),
                   nearest_mention_pronoun_pair(line, sents),
                   is_appositive(line, dependencies)]
+                  #antecedent_pronoun(line),
+                  #anaphor_pronoun(line),
                   #get_distance(line),
                   #pos_match(line, sents),
                   #antecedent_pronoun(line),
@@ -585,6 +601,10 @@ def extract_features(lines):
 
 
 def write_to_file(filename, features, train=False):
+    """
+    Write resulting features to a feature file.  If this isn't training data,
+    produce two files, one with labels and one without.
+    """
     lines = [' '.join(f) for f in features]
     with open(filename + '.labeled', 'w') as outfile:
         for line in lines:
@@ -598,7 +618,6 @@ def write_to_file(filename, features, train=False):
 
 
 if __name__ == "__main__":
-    from nltk.tree import Tree
     if len(sys.argv) != 4:
         print("Specify an input filename, an output filename, and")
         print("either 'train' or 'test' depending on datatype")
