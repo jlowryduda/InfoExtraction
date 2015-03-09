@@ -295,12 +295,13 @@ def is_copula(line, dependencies):
         # index_range represents a list of all the indices covered by spans:
         index_range = range(start_1, end_1) + range(start_2, end_2)
         dependency = dependencies[int(line[1])]
-
-        pattern = '-(\d+)[,)]'
+        pattern = r"-(\d+)'?[,)]"
         for i, line in enumerate(dependency):
             if line.startswith('nsubj'):
                 # Extract indices from dependencies using a regular expression:
                 indices = [int(index) for index in re.findall(pattern, line)]
+                if len(indices) == 1:
+                    print dependency
                 # If both mentions in the pair are present in an nsubj
                 # relationship, and then one of them is present in a cop
                 # relationship further down the dependency list, return True:
@@ -539,7 +540,6 @@ def is_demonym(line, sents, demo_dict):
     tokens2 = ' '.join([item[0] for item in span2])
     if tokens1 in demo_dict:
         if demo_dict[tokens1] == tokens2:
-            print tokens1, tokens2
             return "is_demonym=True"
     elif tokens2 in demo_dict:
         if demo_dict[tokens2] == tokens1:
@@ -559,12 +559,8 @@ def geo_identity(line, geo_dict):
         except:
             pass
         if cond_1 or cond_2:
-            print "geo_identity=True"
             return "geo_identity=True"
-        else:
-            pass
-    else:
-        pass
+    pass
 
 
 def extract_features(lines):
@@ -609,11 +605,11 @@ def extract_features(lines):
                   is_demonym(line, sents, demo_dict),
                   geo_identity(line, geo_dict),
                   nearest_mention_pronoun_pair(line, sents),
-                  is_appositive(line, dependencies)]
+                  is_appositive(line, dependencies),
                   #antecedent_pronoun(line),
                   #anaphor_pronoun(line),
                   #get_distance(line),
-                  #pos_match(line, sents),
+                  pos_match(line, sents)]
                   #antecedent_pronoun(line),
                   #both_proper_names(line, sents),
                   #anaphor_definite(line, constituents),
