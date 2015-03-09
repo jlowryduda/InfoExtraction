@@ -73,34 +73,22 @@ def number_match(line, sents):
 
     singular_tags = ('NN', 'NNP')
     plural_tags = ('NNS', 'NNPS')
-    # both singular
-    both_nn = ((tag1 == 'NN') and (tag2 == 'NN'))
-    both_nnp = ((tag1 == 'NNP') and (tag2 == 'NNP'))
-    nn_and_nnp = ((tag1 == 'NN') and (tag2 == 'NNP'))
-    nnp_and_nn = ((tag1 == 'NNP') and (tag2 == 'NN'))
-    sg_prp_match = ((tag1 == ('NN' or 'NNP') and
-                     is_singular_prp(span2[0][0], tag2)) or
-                    is_singular_prp(span1[0][0], tag1) and
-                    tag2 == ('NN' or 'NNP'))
 
-    both_singular = (both_nn or both_nnp or nn_and_nnp or
-                     nnp_and_nn or sg_prp_match)
+    if ((tag1 in singular_tags) or (is_singular_prp(span1[0][0], tag1))):
+        tag_1 = 'sg'
+    elif ((tag1 in plural_tags) or (is_plural_prp(span1[0][0], tag1))):
+        tag_1 = 'pl'
+    else:
+        tag_1 = 'cannot tell'
 
-    # both plural
-    both_nns = ((tag1 == 'NNS') and (tag2 == 'NNS'))
-    both_nnps = ((tag1 == 'NNPS') and (tag2 == 'NNPS'))
-    nns_and_nnps = ((tag1 == 'NNS') and (tag2 == 'NNPS'))
-    nnps_and_nns = ((tag1 == 'NNPS') and (tag2 == 'NNS'))
+    if ((tag2 in singular_tags) or (is_singular_prp(span2[0][0], tag2))):
+        tag_2 = 'sg'
+    elif ((tag2 in plural_tags) or (is_plural_prp(span2[0][0], tag2))):
+        tag_2 = 'pl'
+    else:
+        tag_2 = 'cannot tell' 
 
-    pl_prp_match = ((tag1 == ('NNS' or 'NNPS') and
-                     is_plural_prp(span2[0][0], tag2)) or
-                    is_plural_prp(span1[0][0], tag1) and
-                    tag2 == ('NNS' or 'NNPS'))
-
-    both_plural = (both_nns or both_nnps or nns_and_nnps or
-                   nnps_and_nns or pl_prp_match)
-
-    if (both_plural or both_singular):
+    if tag_1 == tag_2:
         return True
     return False
 
@@ -154,7 +142,8 @@ def same_sentence(line):
 
 
 def is_contained(line):
-    if (line[10] in line[5]) or (line[5] in line[10]):
+    if ((line[10].lower() in line[5].lower()) or 
+        (line[5].lower() in line[10].lower())):
         return "is_contained=True"
     pass
 
@@ -188,7 +177,7 @@ def both_proper_names(line, sents):
     span2 = sents[int(line[6])][int(line[7]):int(line[8])]
     tags1 = any([item[1] for item in span1 if item[1].startswith('NNP')])
     tags2 = any([item[1] for item in span2 if item[1].startswith('NNP')])
-    if tags1 and tags2:
+    if tags1 and tags2 and is_contained(line):
         return "both_proper_names=True"
     pass
 
@@ -467,7 +456,7 @@ def extract_features(lines):
         f_list = [get_label(line),
                   #get_distance(line),
                   exact_match(line, sents),
-                  #is_contained(line),
+                  is_contained(line),
                   entity_types_match(line),
                   #pos_match(line, sents),
                   #antecedent_pronoun(line),
