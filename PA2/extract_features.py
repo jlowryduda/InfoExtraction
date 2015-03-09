@@ -56,6 +56,8 @@ def clean_string(s):
     s = s.replace("`", "")
     s = s.replace("(", "")
     s = s.replace(")", "")
+    if s.startswith("-"):
+        s = s[1:]
     s = s.lower()
     return s
 
@@ -124,10 +126,10 @@ def gender_match(line, sents, gender_dict):
     # gender dictionary as either male or female, and if so, reassign
     for i in range(len(names)):
         if ents[i] == 'PER':
-            if names[i] in gender_dict:
-                if gender_dict[names[i]] == 'male':
+            if clean_string(names[i]) in gender_dict:
+                if gender_dict[clean_string(names[i])] == 'male':
                     genders[i] = 'M'
-                elif gender_dict[names[i]] == 'female':
+                elif gender_dict[clean_string(names[i])] == 'female':
                     genders[i] = 'F'
 
     if genders[0] == genders[1]:
@@ -336,6 +338,10 @@ def tree_distance(line, constituents):
 
 
 def anaphor_definite(line, constituents):
+    """
+    Determine if a constituent containing an anaphor starts with a definite
+    article ("the").
+    """
     mention_1_start = int(line[2])
     mention_2_start = int(line[7])
     if mention_1_start > mention_2_start:
@@ -361,6 +367,10 @@ def anaphor_definite(line, constituents):
 
 
 def anaphor_demonstrative(line, constituents):
+    """
+    Determine if a constituent containing an anaphor starts with a demonstrative
+    article ("this", "that", "these", "those").
+    """
     mention_1_start = int(line[2])
     mention_2_start = int(line[7])
     if mention_1_start > mention_2_start:
@@ -436,30 +446,46 @@ def jaccard_coefficient(line, sents):
     else:
         return "jaccard_coefficient=<0.25"
 
-
 def get_head(tree):
+    """
+    Determine the head of an NP constituent using Collins' (Collins, 1999)
+    head-finding algorithm.
+    """
     if tree[-1].label() == "POS":
+        # If the last word is tagged POS, return the previous word
         return tree[-2].leaves()
     else:
         for e in reversed(tree):
+            # Else search from right to left to find a child that is an NN, NNP,
+            # NNPS, NX, POS, or JJR
             if e.label() in ["NN", "NNP", "NNPS", "NX", "POS", "JJR"]:
                 return " ".join(e.leaves())
         for e in tree:
+            # Else search from left to right for the first child which is an NP
             if e.label() == "NP":
                 return " ".join(e.leaves())
         for e in reversed(tree):
-            if e.label() in ["$", "ADJP", "PRN"]:
+            # Else search from right to left to find a child that is a $, ADJP,
+            # PRP
+            if e.label() in ["$", "ADJP", "PRP"]:
                 return " ".join(e.leaves())
         for e in reversed(tree):
+            # Else search from right to left to find a child that is a CD
             if e.label() == "CD":
                 return " ".join(e.leaves())
         for e in reversed(tree):
+            # Else search from right to left to find a child that is a JJ, JJS,
+            # RB or QP
             if e.label() in ["JJ", "JJS", "RB", "QP"]:
                 return " ".join(e.leaves())
+        # Else return the last word
         return " ".join(tree[-1].leaves())
 
 
 def head_match(line, constituents):
+    """
+    Determine if a head of an antecedent matches a head of an anaphor.
+    """
     tree_1 = constituents[int(line[1])]
     tree_2 = constituents[int(line[6])]
     start_1 = int(line[2])
@@ -545,9 +571,13 @@ def is_demonym(line, sents, demo_dict):
         if demo_dict[tokens2] == tokens1:
             return "is_demonym=True"
     pass
-    
+
 
 def geo_identity(line, geo_dict):
+    """
+    If the mentions are both a GPE, check the type of GPE by consulting GeoLite2
+    database. This maps ex. "Warsaw" to "city" and "North Dakota" to "state".
+    """
     if line[4] == "GPE" and line[9] == "GPE":
         cond_1 = False
         cond_2 = False
@@ -598,7 +628,7 @@ def extract_features(lines):
                   entity_types_match(line),
                   same_sentence(line),
                   agreement(line, sents, gender_dict),
-                  jaccard_coefficient(line, sents),
+                  #jaccard_coefficient(line, sents),
                   adjacent_subjects(line, dependencies, sents),
                   head_match(line, constituents),
                   wh_clause(line),
