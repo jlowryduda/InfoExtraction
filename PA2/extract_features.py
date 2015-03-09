@@ -203,7 +203,7 @@ def get_paths(tree, start, end):
     # Calculate paths:
     path_up = [tree[subtree_pos][revised_start[:i]].label()
                for i in range(len(revised_start))]
-    
+
     path_up.reverse()
 
     path_down = [tree[subtree_pos][revised_end[:i]].label()
@@ -226,10 +226,10 @@ def check_relation(line, dependencies, relation):
         relations = [item for item in dependency if item.startswith(relation)]
         # Extract indices from dependencies using a regular expression:
         pattern = '-(\d+)[,)]'
-        for a in appos:
-            indices = [int(index) for index in re.findall(pattern, a)]
+        for rel in relations:
+            indices = [int(index) for index in re.findall(pattern, rel)]
             if (indices[0] in index_range and indices[1] in index_range):
-                if relation == 'appos('
+                if relation == 'appos(':
                     return "is_appositive=True"
                 elif relation == 'cop(':
                     return "is_copula=True"
@@ -311,6 +311,51 @@ def jaccard_coefficient(line, sents):
     jc = len(intersection) / float(len(union))
     return "jaccard_coefficient=" + str(jc)
 
+def get_head(tree):
+    if tree[-1].label() == "POS":
+        return tree[-2].leaves()
+    else:
+        for e in reversed(tree):
+            if e.label() in ["NN", "NNP", "NNPS", "NX", "POS", "JJR"]:
+                return " ".join(e.leaves())
+        for e in tree:
+            if e.label() == "NP":
+                return " ".join(e.leaves())
+        for e in reversed(tree):
+            if e.label() in ["$", "ADJP", "PRN"]:
+                return " ".join(e.leaves())
+        for e in reversed(tree):
+            if e.label() == "CD":
+                return " ".join(e.leaves())
+        for e in reversed(tree):
+            if e.label() in ["JJ", "JJS", "RB", "QP"]:
+                return " ".join(e.leaves())
+        return " ".join(tree[-1].leaves())
+
+def head_match(line, constituents):
+    tree_1 = constituents[int(line[1])]
+    tree_2 = constituents[int(line[6])]
+    start_1 = int(line[2])
+    end_1 = int(line[3])
+    start_2 = int(line[7])
+    end_2 = int(line[8])
+    head_1 = ""
+    head_2 = ""
+    subtree_1 = tree_1[tree_1.treeposition_spanning_leaves(start_1, end_1)]
+    subtree_2 = tree_2[tree_2.treeposition_spanning_leaves(start_2, end_2)]
+    if isinstance(subtree_1, Tree):
+        head_1 = get_head(subtree_1)
+    else:
+        head_1 = subtree_1
+    if isinstance(subtree_2, Tree):
+        head_2 = get_head(subtree_2)
+    else:
+        head_2 = subtree_2
+    if head_1 == head_2:
+        return "head_match=True"
+    else:
+        pass
+
 
 def extract_features(lines):
     features = []
@@ -329,7 +374,7 @@ def extract_features(lines):
                 parses = [sent for sent in parses if len(sent) > 0]
                 # Skip over dependency trees for now
                 constituents = [s for i, s in enumerate(parses) if i % 3 == 1]
-                dependencies = [s.split('\n') for i, s in enumerate(parses) 
+                dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 3 == 2]
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
@@ -348,6 +393,7 @@ def extract_features(lines):
                   anaphor_demonstrative(line, constituents),
                   tree_distance(line, constituents),
                   jaccard_coefficient(line, sents),
+                  head_match(line, constituents),
                   check_relation(line, dependencies, 'cop('),
                   check_relation(line, dependencies, 'appos(')]
         f_list = [f for f in f_list if f is not None]
