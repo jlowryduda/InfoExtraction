@@ -213,22 +213,26 @@ def get_paths(tree, start, end):
     return path_up, path_down
 
 
-def is_appositive(line, dependencies):
+def check_relation(line, dependencies, relation):
     if line[1] == line[6]:
-        start_1 = int(line[2])
-        end_1 = int(line[3])
-        start_2 = int(line[7])
-        end_2 = int(line[8])
+        start_1 = int(line[2]) + 1
+        end_1 = int(line[3]) + 1
+        start_2 = int(line[7]) + 1
+        end_2 = int(line[8]) + 1
+
         # index_range represents a list of all the indices covered by spans:
         index_range = range(start_1, end_1) + range(start_2, end_2)
         dependency = dependencies[int(line[1])]
-        appos = [item for item in dependency if item.startswith('appos(')]
+        relations = [item for item in dependency if item.startswith(relation)]
         # Extract indices from dependencies using a regular expression:
         pattern = '-(\d+)[,)]'
         for a in appos:
             indices = [int(index) for index in re.findall(pattern, a)]
             if (indices[0] in index_range and indices[1] in index_range):
-                return "is_appositive=True"
+                if relation == 'appos('
+                    return "is_appositive=True"
+                elif relation == 'cop(':
+                    return "is_copula=True"
     pass
 
 
@@ -330,7 +334,7 @@ def extract_features(lines):
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   get_distance(line),
-                  exact_match(line),
+                  #exact_match(line),
                   is_contained(line),
                   entity_types_match(line),
                   gender_match(line, sents),
@@ -344,7 +348,8 @@ def extract_features(lines):
                   anaphor_demonstrative(line, constituents),
                   tree_distance(line, constituents),
                   jaccard_coefficient(line, sents),
-                  is_appositive(line, dependencies)]
+                  check_relation(line, dependencies, 'cop('),
+                  check_relation(line, dependencies, 'appos(')]
         f_list = [f for f in f_list if f is not None]
         features.append(f_list)
     return features
