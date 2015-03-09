@@ -166,16 +166,26 @@ def is_contained(line):
 
 
 def get_label(line):
+    """
+    For a line in the training file, return the value for coreference between
+    the mentions in that line ('yes' or 'no').
+    """
     return line[-1]
 
 
 def entity_types_match(line):
+    """
+    For two mentions in a line, check that their ACE entity types match.
+    """
     if line[4] == line[9]:
         return "types_match=True"
     pass
 
 
 def antecedent_pronoun(line):
+    """
+    For a pair of mentions, check that the first mention is a pronoun.
+    """
     pronouns = ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her']
     if line[5] in pronouns:
         return  "antecedent_is_pronoun=True"
@@ -183,6 +193,9 @@ def antecedent_pronoun(line):
 
 
 def anaphor_pronoun(line):
+    """
+    For a pair of mentions, check that the second mention is a pronoun.
+    """
     pronouns = ['himself', 'herself', 'he', 'him', 'you', 'hers', 'her']
     if line[10] in pronouns:
         return "anaphor_is_pronoun=True"
