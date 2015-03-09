@@ -333,6 +333,25 @@ def anaphor_demonstrative(line, constituents):
         pass
 
 
+def adjacent_subjects(line, constituents):
+    mention_1_sentence = int(line[1])
+    mention_2_sentence = int(line[6])
+    if (abs(mention_1_sentence - mention_2_sentence) == 1):
+        tree_1 = constituents[int(line[1])]
+        tree_2 = constituents[int(line[6])]
+        
+        tree_1_start = int(line[2])
+        tree_1_end = min(int(line[3]), len(tree_1.leaves()))       
+ 
+        for tree in tree_1.subtrees(lambda t: t.label() == "NP" and t.parent().label()=="S"):
+            # looking for the subject for first tree
+            pass
+
+        #if (line[-1] == 'yes'):
+        #    print tree_1, '\n', tree_2
+        # for testing 
+
+
 def jaccard_coefficient(line, sents):
     span1 = sents[int(line[1])][int(line[2]):int(line[3])]
     span2 = sents[int(line[6])][int(line[7]):int(line[8])]
@@ -412,7 +431,7 @@ def extract_features(lines):
                 constituents = [s for i, s in enumerate(parses) if i % 3 == 1]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 3 == 2]
-                constituents = [Tree.fromstring(c) for c in constituents]
+                constituents = [ParentedTree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   #get_distance(line),
                   exact_match(line, sents),
@@ -430,6 +449,7 @@ def extract_features(lines):
                   #jaccard_coefficient(line, sents),
                   head_match(line, constituents),
                   is_copula(line, dependencies),
+                  adjacent_subjects(line, constituents),
                   is_appositive(line, dependencies)]
         f_list = [f for f in f_list if f is not None]
         features.append(f_list)
@@ -450,7 +470,7 @@ def write_to_file(filename, features, train=False):
 
 
 if __name__ == "__main__":
-    from nltk.tree import Tree
+    from nltk.tree import Tree, ParentedTree
     if len(sys.argv) != 4:
         print("Specify an input filename, an output filename, and")
         print("either 'train' or 'test' depending on datatype")
