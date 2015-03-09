@@ -35,7 +35,7 @@ def is_singular_prp(word, tag):
     # list of singular PRP and PRP$
     singular_prp =\
         set(['it', 'its', 'he', 'his', 'him', 'her', 'hers',
-             'I', 'my', 'mine', 'me'])
+             'i', 'my', 'mine', 'me'])
     return (tag == ('PRP' or 'PRP$') and (word.lower() in singular_prp))
 
 
