@@ -546,6 +546,26 @@ def is_demonym(line, sents, demo_dict):
             return "is_demonym=True"
     pass
 
+def geo_identity(line, geo_dict):
+    if line[4] == "GPE" and line[9] == "GPE":
+        cond_1 = False
+        cond_2 = False
+        try:
+            cond_1 = clean_string(line[10]) in geo_dict[clean_string(line[5])]
+        except:
+            pass
+        try:
+            cond_2 = clean_string(line[5]) in geo_dict[clean_string(line[10])]
+        except:
+            pass
+        if cond_1 or cond_2:
+            print "geo_identity=True"
+            return "geo_identity=True"
+        else:
+            pass
+    else:
+        pass
+
 
 def extract_features(lines):
     """
@@ -559,6 +579,8 @@ def extract_features(lines):
         gender_dict = json.load(infile)
     with open('demo_dict.json', 'r') as infile:
         demo_dict = json.load(infile)
+    with open('geo_knowledge.json', 'r') as infile:
+        geo_dict = json.load(infile)
     for line in lines:
     	if line[0] != curr_file:
             curr_file = line[0]
@@ -585,6 +607,7 @@ def extract_features(lines):
                   wh_clause(line),
                   is_copula(line, dependencies),
                   is_demonym(line, sents, demo_dict),
+                  geo_identity(line, geo_dict),
                   nearest_mention_pronoun_pair(line, sents),
                   is_appositive(line, dependencies)]
                   #antecedent_pronoun(line),
