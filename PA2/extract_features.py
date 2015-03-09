@@ -29,26 +29,26 @@ def pos_match(line, sents):
 
 
 def is_singular_prp(word, tag):
-    """Check if the word is a singular personal pronoun"""
+    """Helper function that checks if a word is a singular personal pronoun"""
 
     # list of singular PRP and PRP$
-    singular_prp =\
-        set(['it', 'its', 'he', 'his', 'him', 'her', 'hers',
-             'i', 'my', 'mine', 'me'])
+    singular_prp = set(['it', 'its', 'he', 'his', 'him', 'her', 'hers', 'i',
+                        'my', 'mine', 'me'])
     return (tag == ('PRP' or 'PRP$') and (word.lower() in singular_prp))
 
 
 def is_plural_prp(word, tag):
-    """Check if word is a plural personal pronoun"""
+    """Helper function that checks if a word is a plural personal pronoun"""
 
     # list of plural PRP and PRP$
-    plural_prp =\
-        set(['they', 'theirs', 'their', 'them', 'we', 'our', 'ours', 'us'])
+    plural_prp = set(['they', 'theirs', 'their', 'them', 'we', 'our', 'ours',
+                      'us'])
 
     return (tag == ('PRP' or 'PRP$') and (word.lower() in plural_prp))
 
 
 def clean_string(s):
+    """Helper function that does some basic preprocessing on a string"""
     s = s.replace("`", "")
     s = s.replace("(", "")
     s = s.replace(")", "")
@@ -57,33 +57,41 @@ def clean_string(s):
 
 
 def exact_match(line, sents):
-    if clean_string(line[5]) == clean_string(line[10]) and pos_match(line, sents):
+    """
+    Given a potential coreference pair, determine if the two mentions in the 
+    pair are exact matches by doing string matching as well as checking if they
+    are the same part of speech.
+    """
+    if (clean_string(line[5]) == clean_string(line[10]) and 
+        pos_match(line, sents)):
         return "exact_match=True"
     else:
         pass
 
 
 def number_match(line, sents):
-    """Check if both mentions have the same number. Assume cardinality of 1
-    for both sets of tags"""
+    """
+    Check if both mentions have the same number. Assume last tag in span
+    is best representative of number, e.g. 'United States'.
+    """
     span1 = sents[int(line[1])][int(line[2]):int(line[3])]
     span2 = sents[int(line[6])][int(line[7]):int(line[8])]
-    tag1 = iter(set([item[1] for item in span1])).next()
-    tag2 = iter(set([item[1] for item in span2])).next()
+    tag1 = [item[1] for item in span1][-1]
+    tag2 = [item[1] for item in span2][-1]
 
     singular_tags = ('NN', 'NNP')
     plural_tags = ('NNS', 'NNPS')
 
-    if ((tag1 in singular_tags) or (is_singular_prp(span1[0][0], tag1))):
+    if (tag1 in singular_tags) or is_singular_prp(span1[0][0], tag1):
         tag_1 = 'sg'
-    elif ((tag1 in plural_tags) or (is_plural_prp(span1[0][0], tag1))):
+    elif (tag1 in plural_tags) or is_plural_prp(span1[0][0], tag1):
         tag_1 = 'pl'
     else:
         tag_1 = 'cannot tell'
 
-    if ((tag2 in singular_tags) or (is_singular_prp(span2[0][0], tag2))):
+    if (tag2 in singular_tags) or is_singular_prp(span2[0][0], tag2):
         tag_2 = 'sg'
-    elif ((tag2 in plural_tags) or (is_plural_prp(span2[0][0], tag2))):
+    elif (tag2 in plural_tags) or is_plural_prp(span2[0][0], tag2):
         tag_2 = 'pl'
     else:
         tag_2 = 'cannot tell' 
@@ -96,7 +104,8 @@ def number_match(line, sents):
 def gender_match(line, sents, gender_dict):
     """
     Given a line containing a potential coreference pair, and a sentence data
-    structure, determine whether or not the pair has the same gender.
+    structure, determine whether or not the pair has the same gender by 
+    looking it up in a gender dictionary.
     """
     # Assume that the first name part in any given span of tokens will be
     # most indicative of gender (because it's most likely the first name):
@@ -121,6 +130,10 @@ def gender_match(line, sents, gender_dict):
 
 
 def agreement(line, sents, gender_dict):
+    """
+    If both mentions in the sentence match in terms of number and gender,
+    return True, else False.
+    """
     if gender_match(line, sents, gender_dict) and number_match(line, sents):
         return "agreement=True"
     pass
@@ -142,6 +155,10 @@ def same_sentence(line):
 
 
 def is_contained(line):
+    """
+    If the entirety of one mention is contained as a string match within the
+    other mention, return True, else False.
+    """
     if ((clean_string(line[10]) in clean_string(line[5])) or 
         (clean_string(line[5]) in clean_string(line[10]))):
         return "is_contained=True"
@@ -173,13 +190,17 @@ def anaphor_pronoun(line):
 
 
 def both_proper_names(line, sents):
+    """
+    Given a line from the data and a list of sentence structures, return True
+    if both mentions in the pair are proper names.
+    """
     span1 = sents[int(line[1])][int(line[2]):int(line[3])]
     span2 = sents[int(line[6])][int(line[7]):int(line[8])]
     tags1 = any([item[1] for item in span1 if item[1].startswith('NNP')])
     tags2 = any([item[1] for item in span2 if item[1].startswith('NNP')])
     if tags1 and tags2 and is_contained(line):
-        return "both_proper_names=True"
-    pass
+        return True
+    return False
 
 
 def get_paths(tree, start, end):
@@ -206,7 +227,6 @@ def get_paths(tree, start, end):
     # Calculate paths:
     path_up = [tree[subtree_pos][revised_start[:i]].label()
                for i in range(len(revised_start))]
-
     path_up.reverse()
 
     path_down = [tree[subtree_pos][revised_end[:i]].label()
@@ -262,10 +282,14 @@ def is_copula(line, dependencies):
             if line.startswith('nsubj'):
                 # Extract indices from dependencies using a regular expression:
                 indices = [int(index) for index in re.findall(pattern, line)]
+                # If both mentions in the pair are present in an nsubj
+                # relationship, and then one of them is present in a cop
+                # relationship further down the dependency list, return True:
                 if (indices[0] in index_range and indices[1] in index_range):
                     for j, rel in enumerate(dependency[i+1:]):
                         if rel.startswith('nsubj('):
                             break
+
                         if rel.startswith('cop('):
                             cop_indices = [int(index) for
                                            index in re.findall(pattern, rel)]
@@ -276,6 +300,10 @@ def is_copula(line, dependencies):
 
 
 def tree_distance(line, constituents):
+    """
+    Given a line of data and a set of constituents, determine the tree distance
+    between the two mentions in the line if they are in the same sentence.
+    """
     if line[1] == line[6]:
         tree = constituents[int(line[1])]
         indices = [int(line[2]), int(line[3]), int(line[7]), int(line[8])]
@@ -371,6 +399,11 @@ def adjacent_subjects(line, dependencies, sents):
 
 
 def jaccard_coefficient(line, sents):
+    """
+    Given a line from the input data and the list of sentences, determine
+    the Jaccard coefficient of the two mention spans.  If lower than the
+    threshold of 0.25, simply indicate that it is lower than the threshold.
+    """
     span1 = sents[int(line[1])][int(line[2]):int(line[3])]
     span2 = sents[int(line[6])][int(line[7]):int(line[8])]
     tokens1 = set([item[0] for item in span1])
@@ -431,12 +464,18 @@ def head_match(line, constituents):
 
 
 def wh_clause(line):
-    pronouns = ['who', 'which', 'whose', 'that']
+    """
+    Given a line from the data, check to see if the potential coreference pair
+    contains one mention of who/which/whose/that which is fewer than 5 tokens
+    away from the other mention in the pair.
+    """
+    pronouns = ('who', 'which', 'whose', 'that')
     # Check for same sentence:
     if line[1] == line[6]:
         # Check same entity type:
         if line[4] == line[9]:
-            indices = sorted([int(line[2]), int(line[3]), int(line[7]), int(line[8])])
+            indices = sorted([int(line[2]), int(line[3]),
+                              int(line[7]), int(line[8])])
             start = indices[0]
             end = indices[-1]
             # If the mentions are no more than 4 tokens away from one another:
@@ -471,27 +510,26 @@ def extract_features(lines):
                                 if i % 3 == 2]
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
-                  #get_distance(line),
                   exact_match(line, sents),
                   is_contained(line),
                   entity_types_match(line),
-                  #pos_match(line, sents),
-                  #antecedent_pronoun(line),
-                  #anaphor_pronoun(line),
-                  #same_sentence(line),
-                  #both_proper_names(line, sents),
-                  #anaphor_definite(line, constituents),
-                  #anaphor_demonstrative(line, constituents),
-                  #tree_distance(line, constituents),
+                  same_sentence(line),
                   agreement(line, sents, gender_dict),
                   jaccard_coefficient(line, sents),
                   adjacent_subjects(line, dependencies, sents),
                   head_match(line, constituents),
                   wh_clause(line),
-                  #is_copula(line, dependencies),
+                  is_copula(line, dependencies),
                   is_appositive(line, dependencies)]
-        f_list = [f for f in f_list if f is not None]
-        features.append(f_list)
+                  #get_distance(line),
+                  #pos_match(line, sents),
+                  #antecedent_pronoun(line),
+                  #anaphor_pronoun(line),
+                  #both_proper_names(line, sents),
+                  #anaphor_definite(line, constituents),
+                  #anaphor_demonstrative(line, constituents),
+                  #tree_distance(line, constituents)]
+        features.append([f for f in f_list if f is not None])
     return features
 
 
