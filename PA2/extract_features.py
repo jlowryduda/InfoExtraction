@@ -429,6 +429,19 @@ def head_match(line, constituents):
     pass
 
 
+def wh_clause(line):
+    if line[1] == line[6]:
+        if line[4] == line[9]:
+            indices = sorted([int(line[2]), int(line[3]), int(line[7]), int(line[8])])
+            start = indices[0]
+            end = indices[-1]
+            if (end - start) <= 4:
+                if clean_string(line[10]) in ["who", "which", "whose", "that"]:
+                    return "wh_clause=True"
+
+    pass
+
+
 def extract_features(lines):
     features = []
     j_path = os.getcwd() + '/data/jsons/'
@@ -468,7 +481,8 @@ def extract_features(lines):
                   jaccard_coefficient(line, sents),
                   adjacent_subjects(line, dependencies, sents),
                   head_match(line, constituents),
-                  is_copula(line, dependencies),
+                  wh_clause(line),
+                  #is_copula(line, dependencies),
                   is_appositive(line, dependencies)]
         f_list = [f for f in f_list if f is not None]
         features.append(f_list)
