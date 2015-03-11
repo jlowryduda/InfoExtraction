@@ -1,0 +1,651 @@
+(ROOT
+  (NP
+    (NP (DT APW20001203.1456.0329))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-12-03) (CD 15:42:20))))
+
+root(ROOT-0, APW20001203.1456.0329-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001203.1456.0329-1, STORY-3)
+num(15:42:20-5, 2000-12-03-4)
+dep(APW20001203.1456.0329-1, 15:42:20-5)
+
+(ROOT
+  (NP (NNP Watts-Gridiron)))
+
+root(ROOT-0, Watts-Gridiron-1)
+
+(ROOT
+  (NP (NNP Watts) (NNP Jokes) (NNP About) (NNP Election) (. Impasse)))
+
+nn(Election-4, Watts-1)
+nn(Election-4, Jokes-2)
+nn(Election-4, About-3)
+root(ROOT-0, Election-4)
+punct(Election-4, Impasse-5)
+
+(ROOT
+  (NP
+    (NP (NNP WHITE) (NNP SULPHUR) (NNP SPRINGS))
+    (, ,)
+    (NP (NNP W.Va))
+    (. .)))
+
+nn(SPRINGS-3, WHITE-1)
+nn(SPRINGS-3, SULPHUR-2)
+root(ROOT-0, SPRINGS-3)
+appos(SPRINGS-3, W.Va-5)
+
+(ROOT
+  (NP (NNP (AP) (NNP )) (NNP _) (NNP Republican) (NNP Rep) (. .)))
+
+nn(Rep-5, (AP-1)
+nn(Rep-5, )-2)
+nn(Rep-5, _-3)
+nn(Rep-5, Republican-4)
+root(ROOT-0, Rep-5)
+
+(ROOT
+  (S
+    (NP (NNP J.C.) (NNPS Watts))
+    (VP (VBD joked)
+      (NP (NNP Saturday) (NN night))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (VBD had)
+            (NP
+              (NP
+                (NP (VBN revised) (NNS returns))
+                (PP (IN on)
+                  (NP (DT the) (JJ presidential) (NN election))))
+              (: :)
+              (NP
+                (NP (NNP ``Al) (NNP Gore))
+                (, ,)
+                (NP (CD 9,834) (NNS lawsuits))))))))
+    (. .)))
+
+nn(Watts-2, J.C.-1)
+nsubj(joked-3, Watts-2)
+root(ROOT-0, joked-3)
+nn(night-5, Saturday-4)
+tmod(joked-3, night-5)
+mark(had-8, that-6)
+nsubj(had-8, he-7)
+ccomp(joked-3, had-8)
+amod(returns-10, revised-9)
+dobj(had-8, returns-10)
+det(election-14, the-12)
+amod(election-14, presidential-13)
+prep_on(returns-10, election-14)
+nn(Gore-17, ``Al-16)
+dep(returns-10, Gore-17)
+num(lawsuits-20, 9,834-19)
+appos(Gore-17, lawsuits-20)
+
+(ROOT
+  (FRAG
+    (NP (NNP George) (NNP W.) (NNP Bush))
+    (, ,)
+    (NP (CD 7,652) (. .''))))
+
+nn(Bush-3, George-1)
+nn(Bush-3, W.-2)
+root(ROOT-0, Bush-3)
+dep(Bush-3, 7,652-5)
+punct(7,652-5, .''-6)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Watts))
+      (, ,)
+      (NP
+        (NP (NN chairman))
+        (PP (IN of)
+          (NP (DT the) (NNP House) (NNP Republican) (NNP Conference))))
+      (, ,))
+    (VP (VBD bantered)
+      (PP (IN about)
+        (NP (DT the) (NNP Florida) (NN election) (NN dispute)))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN speech))
+          (VP (VBN prepared)
+            (PP (IN for)
+              (NP
+                (NP (DT a) (NN dinner))
+                (PP (IN of)
+                  (NP (DT The) (NNP Gridiron) (NN Club)))))
+            (PP (IN at)
+              (NP (DT the) (NNP Greenbrier) (NNP Hotel)))))))
+    (. .)))
+
+nsubj(bantered-10, Watts-1)
+appos(Watts-1, chairman-3)
+det(Conference-8, the-5)
+nn(Conference-8, House-6)
+nn(Conference-8, Republican-7)
+prep_of(chairman-3, Conference-8)
+root(ROOT-0, bantered-10)
+det(dispute-15, the-12)
+nn(dispute-15, Florida-13)
+nn(dispute-15, election-14)
+prep_about(bantered-10, dispute-15)
+det(speech-18, a-17)
+prep_in(bantered-10, speech-18)
+vmod(speech-18, prepared-19)
+det(dinner-22, a-21)
+prep_for(prepared-19, dinner-22)
+det(Club-26, The-24)
+nn(Club-26, Gridiron-25)
+prep_of(dinner-22, Club-26)
+det(Hotel-30, the-28)
+nn(Hotel-30, Greenbrier-29)
+prep_at(prepared-19, Hotel-30)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP ``I) (NNP knew) (NNS things))
+      (VP (VBD had)
+        (ADVP (RB really))
+        (VP (VBN deteriorated)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (NNP Yasser) (NNP Arafat))
+              (VP (VBD offered)
+                (S
+                  (VP (TO to)
+                    (VP (VB broker)
+                      (NP
+                        (NP (DT a) (NN peace))
+                        (PP (IN between)
+                          (NP (NNP Bush)))))))))))))
+    (CC and)
+    (S
+      (NP (NNP Gore) (NNP ,'') (NNP Watts))
+      (VP (VBD said)))
+    (. .)))
+
+nn(things-3, ``I-1)
+nn(things-3, knew-2)
+nsubj(deteriorated-6, things-3)
+aux(deteriorated-6, had-4)
+advmod(deteriorated-6, really-5)
+root(ROOT-0, deteriorated-6)
+advmod(offered-10, when-7)
+nn(Arafat-9, Yasser-8)
+nsubj(offered-10, Arafat-9)
+xsubj(broker-12, Arafat-9)
+advcl(deteriorated-6, offered-10)
+aux(broker-12, to-11)
+xcomp(offered-10, broker-12)
+det(peace-14, a-13)
+dobj(broker-12, peace-14)
+prep_between(peace-14, Bush-16)
+nn(Watts-20, Gore-18)
+nn(Watts-20, ,''-19)
+nsubj(said-21, Watts-20)
+conj_and(deteriorated-6, said-21)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Gridiron) (NNP Club))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (NN organization))
+        (PP (IN of)
+          (NP (CD 60) (NNP Washington) (NNS journalists)))))
+    (. .)))
+
+det(Club-3, The-1)
+nn(Club-3, Gridiron-2)
+nsubj(organization-6, Club-3)
+cop(organization-6, is-4)
+det(organization-6, an-5)
+root(ROOT-0, organization-6)
+num(journalists-10, 60-8)
+nn(journalists-10, Washington-9)
+prep_of(organization-6, journalists-10)
+
+(ROOT
+  (NP
+    (NP (NNS Its) (NNS dinners))
+    (NP
+      (NP
+        (NP (NN feature) (NNS parodies))
+        (PP (IN of)
+          (NP (NNS politics)
+            (CC and)
+            (NN government))))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (JJ humorous) (NNS speeches))
+        (PP (IN by)
+          (NP (JJ political) (NNS figures)))))
+    (. .)))
+
+nn(dinners-2, Its-1)
+root(ROOT-0, dinners-2)
+nn(parodies-4, feature-3)
+dep(dinners-2, parodies-4)
+prep_of(parodies-4, politics-6)
+prep_of(parodies-4, government-8)
+conj_and(politics-6, government-8)
+amod(speeches-12, humorous-11)
+dep(dinners-2, speeches-12)
+conj_and(parodies-4, speeches-12)
+amod(figures-15, political-14)
+prep_by(speeches-12, figures-15)
+
+(ROOT
+  (S
+    (NP (NNS Watts))
+    (VP (VBD noted)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (JJ presidential) (NN election))
+            (PP (IN of)
+              (NP (CD 1876))))
+          (VP (VBD was)
+            (ADJP (RB so)
+              (SBAR
+                (S
+                  (VP (VBD disputed)
+                    (SBAR (IN that)
+                      (S
+                        (NP (DT a) (JJ congressional) (NN commission))
+                        (VP (VBD was)
+                          (VP (VBN created)
+                            (S
+                              (VP (TO to)
+                                (VP (VB settle)
+                                  (NP (PRP it)))))))))))))))))
+    (. .)))
+
+nsubj(noted-2, Watts-1)
+root(ROOT-0, noted-2)
+mark(so-10, that-3)
+det(election-6, the-4)
+amod(election-6, presidential-5)
+nsubj(so-10, election-6)
+prep_of(election-6, 1876-8)
+cop(so-10, was-9)
+ccomp(noted-2, so-10)
+ccomp(so-10, disputed-11)
+mark(created-17, that-12)
+det(commission-15, a-13)
+amod(commission-15, congressional-14)
+nsubjpass(created-17, commission-15)
+xsubj(settle-19, commission-15)
+auxpass(created-17, was-16)
+ccomp(disputed-11, created-17)
+aux(settle-19, to-18)
+xcomp(created-17, settle-19)
+dobj(settle-19, it-20)
+
+(ROOT
+  (S
+    (NP (NNP ``I) (NNS didn't))
+    (VP (VBP know)
+      (NP (DT this))
+      (SBAR (IN until)
+        (S
+          (NP (NNP Strom) (NNP Thurmond))
+          (VP (VBD told)
+            (NP (PRP me))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBD cast)
+                  (NP (DT the) (VBG deciding) (NN vote)))))))))
+    (. .)))
+
+nn(didn't-2, ``I-1)
+nsubj(know-3, didn't-2)
+root(ROOT-0, know-3)
+dobj(know-3, this-4)
+mark(told-8, until-5)
+nn(Thurmond-7, Strom-6)
+nsubj(told-8, Thurmond-7)
+advcl(know-3, told-8)
+dobj(told-8, me-9)
+nsubj(cast-11, he-10)
+dep(told-8, cast-11)
+det(vote-14, the-12)
+amod(vote-14, deciding-13)
+dobj(cast-11, vote-14)
+
+(ROOT
+  (S
+    (NP (NN ``Strom))
+    (VP (MD will)
+      (VP (VB be)
+        (NP
+          (NP (DT 98) (JJ next) (NNP Tuesday) (NNP ,'') (NNP Watts))
+          (SBAR
+            (S
+              (VP (VBD said)))))))
+    (. .)))
+
+nsubj(Watts-8, ``Strom-1)
+aux(Watts-8, will-2)
+cop(Watts-8, be-3)
+det(Watts-8, 98-4)
+amod(Watts-8, next-5)
+nn(Watts-8, Tuesday-6)
+nn(Watts-8, ,''-7)
+root(ROOT-0, Watts-8)
+rcmod(Watts-8, said-9)
+
+(ROOT
+  (S
+    (S
+      (VP (NNP ``Of)
+        (NP (NN course))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD was)
+      (NP
+        (NP
+          (QP (RB only) (CD 67)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (DT the) (NN recount))
+              (PP (IN of)
+                (NP (NNP Florida) (NNS ballots))))
+            (VP (VBD began))))))
+    (. .'')))
+
+dep(course-2, ``Of-1)
+ccomp(67-7, course-2)
+nsubj(67-7, he-4)
+cop(67-7, was-5)
+quantmod(67-7, only-6)
+root(ROOT-0, 67-7)
+tmod(began-14, 67-7)
+advmod(began-14, when-8)
+det(recount-10, the-9)
+nsubj(began-14, recount-10)
+nn(ballots-13, Florida-12)
+prep_of(recount-10, ballots-13)
+rcmod(67-7, began-14)
+punct(67-7, .''-15)
+
+(ROOT
+  (S
+    (NP (NNS Watts))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD had)
+            (VP (VBN fond)
+              (NP
+                (NP (NNS memories))
+                (PP (IN of)
+                  (NP (NNP Florida))))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP he))
+                  (VP (VBD was)
+                    (NP
+                      (NP (DT the) (NN quarterback))
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (NP
+                            (NP (DT the) (NNP University))
+                            (PP (IN of)
+                              (NP (NNP Oklahoma))))
+                          (VP (VBD won)
+                            (NP (DT the) (NNP Orange) (NNP Bowl))
+                            (ADVP (RB there))
+                            (PP (IN in)
+                              (NP (CD 1980)
+                                (CC and)
+                                (CD 1981)))))))))))))))
+    (. .)))
+
+nsubj(said-2, Watts-1)
+root(ROOT-0, said-2)
+nsubj(fond-5, he-3)
+aux(fond-5, had-4)
+ccomp(said-2, fond-5)
+dobj(fond-5, memories-6)
+prep_of(memories-6, Florida-8)
+mark(quarterback-13, because-9)
+nsubj(quarterback-13, he-10)
+cop(quarterback-13, was-11)
+det(quarterback-13, the-12)
+advcl(fond-5, quarterback-13)
+tmod(won-19, quarterback-13)
+advmod(won-19, when-14)
+det(University-16, the-15)
+nsubj(won-19, University-16)
+prep_of(University-16, Oklahoma-18)
+rcmod(quarterback-13, won-19)
+det(Bowl-22, the-20)
+nn(Bowl-22, Orange-21)
+dobj(won-19, Bowl-22)
+advmod(won-19, there-23)
+prep_in(won-19, 1980-25)
+prep_in(won-19, 1981-27)
+conj_and(1980-25, 1981-27)
+
+(ROOT
+  (S
+    (SBAR (IN ``But)
+      (S
+        (S
+          (NP
+            (NP (PRP$ our) (NN victory))
+            (PP (IN in)
+              (NP (NNP '81))))
+          (VP (VBD was)
+            (PP (IN by)
+              (NP (DT a) (JJ single) (NN point)))))
+        (CC and)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP (NNS weeks))
+            (SBAR (IN before)
+              (S
+                (NP (PRP it))
+                (VP (VBD was)
+                  (VP (VBN confirmed)
+                    (PP (IN ,'')
+                      (NP (PRP he)))))))))))
+    (VP (VBD said))
+    (. .)))
+
+mark(was-6, ``But-1)
+poss(victory-3, our-2)
+nsubj(was-6, victory-3)
+prep_in(victory-3, '81-5)
+csubj(said-21, was-6)
+det(point-10, a-8)
+amod(point-10, single-9)
+prep_by(was-6, point-10)
+nsubj(weeks-14, it-12)
+cop(weeks-14, was-13)
+conj_and(was-6, weeks-14)
+csubj(said-21, weeks-14)
+mark(confirmed-18, before-15)
+nsubjpass(confirmed-18, it-16)
+auxpass(confirmed-18, was-17)
+advcl(weeks-14, confirmed-18)
+prep_,''(confirmed-18, he-20)
+root(ROOT-0, said-21)
+
+(ROOT
+  (S
+    (PP (IN ``By)
+      (NP (DT the) (NN way)))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB recently))
+    (VP
+      (VP (VBD learned)
+        (SBAR
+          (S
+            (NP (NNP Al) (NNP Gore))
+            (VP (VBD was)
+              (VP (VBG pulling)
+                (PP (IN for)
+                  (NP (NNP Florida) (NNP State))))))))
+      (CC and)
+      (VP (VBD demanded)
+        (NP (DT a) (NN recount))))
+    (. .'')))
+
+det(way-3, the-2)
+prep_``by(learned-7, way-3)
+nsubj(learned-7, I-5)
+nsubj(demanded-16, I-5)
+advmod(learned-7, recently-6)
+root(ROOT-0, learned-7)
+nn(Gore-9, Al-8)
+nsubj(pulling-11, Gore-9)
+aux(pulling-11, was-10)
+ccomp(learned-7, pulling-11)
+nn(State-14, Florida-13)
+prep_for(pulling-11, State-14)
+conj_and(learned-7, demanded-16)
+det(recount-18, a-17)
+dobj(demanded-16, recount-18)
+punct(learned-7, .''-19)
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (VP (VBZ is)
+          (NP
+            (NP (NN traditional))
+            (PP (IN in)
+              (NP (NNP Gridiron) (NNS speeches)))))
+        (, ,)))
+    (VP (VBZ Watts)
+      (VP (VBN concluded)
+        (PP (IN on)
+          (NP (DT a) (JJ serious) (NN note)))))
+    (. .)))
+
+mark(traditional-3, As-1)
+cop(traditional-3, is-2)
+csubj(Watts-8, traditional-3)
+nn(speeches-6, Gridiron-5)
+prep_in(traditional-3, speeches-6)
+root(ROOT-0, Watts-8)
+dep(Watts-8, concluded-9)
+det(note-13, a-11)
+amod(note-13, serious-12)
+prep_on(concluded-9, note-13)
+
+(ROOT
+  (S
+    (S
+      (NP (JJ ``Once-in-a-century) (NNS oddities))
+      (VP (MD may)
+        (VP (VB leave)
+          (NP (DT an) (NN election) (NN result))
+          (ADVP (RB up)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN air))
+                (PP (IN for)
+                  (NP (DT a) (NN time)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (JJ fundamental) (NN strength))
+        (PP (IN of)
+          (NP (PRP$ our) (NN democracy))))
+      (VP (VBZ is)
+        (ADVP (RB never))
+        (PP (IN in)
+          (NP (NN doubt)))
+        (SBAR (, ,'')
+          (S
+            (NP (PRP he))
+            (VP (VBD said))))))
+    (. .)))
+
+amod(oddities-2, ``Once-in-a-century-1)
+nsubj(leave-4, oddities-2)
+aux(leave-4, may-3)
+root(ROOT-0, leave-4)
+det(result-7, an-5)
+nn(result-7, election-6)
+dobj(leave-4, result-7)
+advmod(leave-4, up-8)
+det(air-11, the-10)
+prep_in(up-8, air-11)
+det(time-14, a-13)
+prep_for(air-11, time-14)
+det(strength-19, the-17)
+amod(strength-19, fundamental-18)
+nsubj(is-23, strength-19)
+poss(democracy-22, our-21)
+prep_of(strength-19, democracy-22)
+conj_but(leave-4, is-23)
+neg(is-23, never-24)
+prep_in(is-23, doubt-26)
+punct(said-29, ,''-27)
+nsubj(said-29, he-28)
+ccomp(is-23, said-29)
+
+(ROOT
+  (S
+    (S
+      (VP (CC ``Better)
+        (VP
+          (NP (DT a) (NN process))
+          (VBN driven)
+          (PP (IN by)
+            (NP
+              (NP (DT an) (NN army))
+              (PP (IN of)
+                (NP
+                  (NP (NNS lawyers))
+                  (PP (IN than)
+                    (NP
+                      (NP (DT an) (NN outrage))
+                      (VP (VBN led)
+                        (PP (IN by)
+                          (NP
+                            (NP (DT an) (NN army))
+                            (PP (IN with)
+                              (NP (NNS guns)))))))))))))))
+    (, ,'')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+cc(driven-4, ``Better-1)
+det(process-3, a-2)
+dobj(driven-4, process-3)
+ccomp(said-21, driven-4)
+det(army-7, an-6)
+prep_by(driven-4, army-7)
+prep_of(army-7, lawyers-9)
+det(outrage-12, an-11)
+prep_than(lawyers-9, outrage-12)
+vmod(outrage-12, led-13)
+det(army-16, an-15)
+agent(led-13, army-16)
+prep_with(army-16, guns-18)
+punct(said-21, ,''-19)
+nsubj(said-21, he-20)
+root(ROOT-0, said-21)
+

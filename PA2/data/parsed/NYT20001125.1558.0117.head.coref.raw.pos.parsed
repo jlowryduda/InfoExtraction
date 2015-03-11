@@ -1,0 +1,1576 @@
+NYT20001125.1558.0117/NNP NEWS/NNP STORY/NNP 2000-11-25/CD 15:58:00/CD
+
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001125.1558.0117) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-11-25) (CD 15:58:00))))
+
+nn(STORY-3, NYT20001125.1558.0117-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(15:58:00-5, 2000-11-25-4)
+dep(STORY-3, 15:58:00-5)
+
+A0481/CD &Cx1f/NN ;/: taf-z/NN u/IN a/DT BC-MICH-HUNTING-ACCIDENT/JJ 11-25/CD 0651/CD
+
+(ROOT
+  (NP
+    (NP (CD A0481) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NN taf-z))
+      (PP (IN u)
+        (NP (DT a) (JJ BC-MICH-HUNTING-ACCIDENT) (CD 11-25) (CD 0651))))))
+
+num(&Cx1f-2, A0481-1)
+root(ROOT-0, &Cx1f-2)
+dep(&Cx1f-2, taf-z-4)
+det(0651-9, a-6)
+amod(0651-9, BC-MICH-HUNTING-ACCIDENT-7)
+num(0651-9, 11-25-8)
+prep_u(taf-z-4, 0651-9)
+
+BC-MICH-HUNTING-ACCIDENTS-NYT/NNP
+
+(ROOT
+  (NP (NNP BC-MICH-HUNTING-ACCIDENTS-NYT)))
+
+root(ROOT-0, BC-MICH-HUNTING-ACCIDENTS-NYT-1)
+
+SAFETY/NNP WORRIES/NNP INCREASE/NNP AS/NNP MICHIGAN/NNP HUNTERS/NNP TAKE/NNP GUNS/NNP UP/NNP TREES/.
+
+(ROOT
+  (NP (NNP SAFETY) (NNP WORRIES) (NNP INCREASE) (NNP AS) (NNP MICHIGAN) (NNP HUNTERS) (NNP TAKE) (NNP GUNS) (NNP UP) (. TREES)))
+
+nn(UP-9, SAFETY-1)
+nn(UP-9, WORRIES-2)
+nn(UP-9, INCREASE-3)
+nn(UP-9, AS-4)
+nn(UP-9, MICHIGAN-5)
+nn(UP-9, HUNTERS-6)
+nn(UP-9, TAKE-7)
+nn(UP-9, GUNS-8)
+root(ROOT-0, UP-9)
+punct(UP-9, TREES-10)
+
+&UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
+(ROOT
+  (NP
+    (NP (NNS &UR))
+    (: ;)
+    (NP (CD c.2000) (NNP N.Y))
+    (. .)))
+
+root(ROOT-0, &UR-1)
+num(N.Y-4, c.2000-3)
+dep(&UR-1, N.Y-4)
+
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
+    (PRN (: ;)
+      (NP
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&LR-4, Times-1)
+nn(&LR-4, News-2)
+nn(&LR-4, Service-3)
+root(ROOT-0, &LR-4)
+dep(&LR-4, &QC-6)
+dep(&QC-6, &QL-8)
+
+GROSSE/NNP POINTE/NNP PARK/NNP ,/, Mich./NNP _/, It/PRP is/VBZ deer/JJ hunting/VBG season/NN in/IN Michigan/NNP ,/, and/CC hunters/NNS who/WP climb/VBP trees/NNS with/IN loaded/JJ shotguns/NNS have/VBP state/NN officials/NNS redoubling/VBG safety/NN education/NN efforts/NNS ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP GROSSE) (NNP POINTE) (NNP PARK) (, ,) (NNP Mich.))
+      (VP (, _)
+        (SBAR
+          (S
+            (NP (PRP It))
+            (VP (VBZ is)
+              (ADJP (JJ deer))
+              (S
+                (VP (VBG hunting)
+                  (NP (NN season))
+                  (PP (IN in)
+                    (NP (NNP Michigan))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (NNS hunters))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP climb)
+              (NP (NNS trees))
+              (PP (IN with)
+                (NP (JJ loaded) (NNS shotguns)))))))
+      (VP (VBP have)
+        (NP
+          (NP (NN state) (NNS officials))
+          (VP (VBG redoubling)
+            (NP (NN safety) (NN education) (NNS efforts))))))
+    (. .)))
+
+nn(Mich.-5, GROSSE-1)
+nn(Mich.-5, POINTE-2)
+nn(Mich.-5, PARK-3)
+nsubj(deer-9, Mich.-5)
+punct(deer-9, _-6)
+nsubj(deer-9, It-7)
+cop(deer-9, is-8)
+root(ROOT-0, deer-9)
+xcomp(deer-9, hunting-10)
+dobj(hunting-10, season-11)
+prep_in(hunting-10, Michigan-13)
+nsubj(climb-18, hunters-16)
+nsubj(have-23, hunters-16)
+rcmod(hunters-16, climb-18)
+dobj(climb-18, trees-19)
+amod(shotguns-22, loaded-21)
+prep_with(climb-18, shotguns-22)
+conj_and(deer-9, have-23)
+nn(officials-25, state-24)
+dobj(have-23, officials-25)
+vmod(officials-25, redoubling-26)
+nn(efforts-29, safety-27)
+nn(efforts-29, education-28)
+dobj(redoubling-26, efforts-29)
+
+Two/NNP men/NNS have/VBP been/VBN killed/JJ ,/, and/CC a/DT third/NN has/VBZ been/VBN injured/VBN since/IN the/DT hunting/VBG season/NN opened/VBN on/IN Nov/NNP ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Two) (NNS men))
+      (VP (VBP have)
+        (VP (VBN been)
+          (ADJP (JJ killed)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT a) (NN third))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN injured)
+            (PP (IN since)
+              (NP
+                (NP (DT the) (VBG hunting) (NN season))
+                (VP (VBN opened)
+                  (PP (IN on)
+                    (NP (NNP Nov))))))))))
+    (. .)))
+
+nn(men-2, Two-1)
+nsubj(killed-5, men-2)
+aux(killed-5, have-3)
+cop(killed-5, been-4)
+root(ROOT-0, killed-5)
+det(third-9, a-8)
+nsubjpass(injured-12, third-9)
+aux(injured-12, has-10)
+auxpass(injured-12, been-11)
+conj_and(killed-5, injured-12)
+det(season-16, the-14)
+amod(season-16, hunting-15)
+prep_since(injured-12, season-16)
+vmod(season-16, opened-17)
+prep_on(opened-17, Nov-19)
+
+15/CD ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 15))
+    (. .)))
+
+root(ROOT-0, 15-1)
+
+All/NNP three/CD accidents/NNS involved/VBN shotguns/NNS ,/, elevated/JJ platforms/NNS and/CC a/DT practice/NN relatively/RB new/JJ to/TO Michigan/NNP hunters/NNS _/VBP shooting/VBG at/IN deer/NN from/IN trees/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP All) (CD three) (NNS accidents))
+      (VP (VBN involved)
+        (S
+          (NP
+            (NP (NNS shotguns))
+            (, ,)
+            (NP (JJ elevated) (NNS platforms))
+            (CC and)
+            (NP (DT a) (NN practice)))
+          (ADJP (RB relatively) (JJ new)
+            (PP (TO to)
+              (NP (NNP Michigan) (NNS hunters)))))))
+    (VP (VBP _)
+      (S
+        (VP (VBG shooting)
+          (PP (IN at)
+            (NP (NN deer)))
+          (PP (IN from)
+            (NP (NNS trees))))))
+    (. .)))
+
+nn(accidents-3, All-1)
+num(accidents-3, three-2)
+nsubj(_-17, accidents-3)
+vmod(accidents-3, involved-4)
+nsubj(new-13, shotguns-5)
+amod(platforms-8, elevated-7)
+conj_and(shotguns-5, platforms-8)
+nsubj(new-13, platforms-8)
+det(practice-11, a-10)
+conj_and(shotguns-5, practice-11)
+nsubj(new-13, practice-11)
+advmod(new-13, relatively-12)
+xcomp(involved-4, new-13)
+nn(hunters-16, Michigan-15)
+prep_to(new-13, hunters-16)
+root(ROOT-0, _-17)
+xcomp(_-17, shooting-18)
+prep_at(shooting-18, deer-20)
+prep_from(shooting-18, trees-22)
+
+The/DT Michigan/NNP season/NN ,/, one/CD of/IN the/DT busiest/NN ,/, continues/NNS through/IN Nov/NNP ./.
+
+(ROOT
+  (NP
+    (NP (DT The) (NNP Michigan) (NN season))
+    (, ,)
+    (NP
+      (NP (CD one))
+      (PP (IN of)
+        (NP (DT the) (NN busiest))))
+    (, ,)
+    (NP
+      (NP (NNS continues))
+      (PP (IN through)
+        (NP (NNP Nov))))
+    (. .)))
+
+det(season-3, The-1)
+nn(season-3, Michigan-2)
+root(ROOT-0, season-3)
+appos(season-3, one-5)
+det(busiest-8, the-7)
+prep_of(one-5, busiest-8)
+appos(season-3, continues-10)
+prep_through(continues-10, Nov-12)
+
+30/CD ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 30))
+    (. .)))
+
+root(ROOT-0, 30-1)
+
+Firearm/NNP hunting/VBG from/IN elevated/JJ platforms/NNS has/VBZ long/RB been/VBN legal/JJ in/IN other/JJ states/NNS with/IN heavy/NN hunting/NN ,/, like/IN New/NNP York/NNP and/CC Pennsylvania/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Firearm))
+      (VP (VBG hunting)
+        (PP (IN from)
+          (NP (JJ elevated) (NNS platforms)))))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN been)
+        (ADJP (JJ legal)
+          (PP (IN in)
+            (NP (JJ other) (NNS states))))
+        (PP (IN with)
+          (NP (NN heavy) (NN hunting)))
+        (, ,)
+        (PP (IN like)
+          (NP (NNP New) (NNP York)
+            (CC and)
+            (NNP Pennsylvania)))))
+    (. .)))
+
+nsubj(legal-9, Firearm-1)
+vmod(Firearm-1, hunting-2)
+amod(platforms-5, elevated-4)
+prep_from(hunting-2, platforms-5)
+aux(legal-9, has-6)
+advmod(legal-9, long-7)
+cop(legal-9, been-8)
+root(ROOT-0, legal-9)
+amod(states-12, other-11)
+prep_in(legal-9, states-12)
+nn(hunting-15, heavy-14)
+prep_with(legal-9, hunting-15)
+nn(York-19, New-18)
+prep_like(legal-9, York-19)
+prep_like(legal-9, Pennsylvania-21)
+conj_and(York-19, Pennsylvania-21)
+
+But/CC the/DT practice/NN is/VBZ only/RB in/IN its/PRP$ third/JJ season/NN in/IN Michigan/NNP ,/, and/CC officials/NNS say/VBP it/PRP appears/VBZ that/DT hunters/NNS still/RB have/VBP a/DT lot/NN to/TO learn/VB about/IN safety/NN ./.
+
+(ROOT
+  (S (CC But)
+    (S
+      (NP (DT the) (NN practice))
+      (VP (VBZ is)
+        (ADVP (RB only))
+        (PP (IN in)
+          (NP
+            (NP (PRP$ its) (JJ third) (NN season))
+            (PP (IN in)
+              (NP (NNP Michigan)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS officials))
+      (VP (VBP say)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ appears)
+              (SBAR
+                (S
+                  (NP (DT that) (NNS hunters))
+                  (ADVP (RB still))
+                  (VP (VBP have)
+                    (NP (DT a) (NN lot)
+                      (S
+                        (VP (TO to)
+                          (VP (VB learn)
+                            (PP (IN about)
+                              (NP (NN safety)))))))))))))))
+    (. .)))
+
+det(practice-3, the-2)
+nsubj(is-4, practice-3)
+root(ROOT-0, is-4)
+advmod(is-4, only-5)
+poss(season-9, its-7)
+amod(season-9, third-8)
+prep_in(is-4, season-9)
+prep_in(season-9, Michigan-11)
+nsubj(say-15, officials-14)
+conj_and(is-4, say-15)
+nsubj(appears-17, it-16)
+ccomp(say-15, appears-17)
+det(hunters-19, that-18)
+nsubj(have-21, hunters-19)
+advmod(have-21, still-20)
+ccomp(appears-17, have-21)
+det(lot-23, a-22)
+dobj(have-21, lot-23)
+aux(learn-25, to-24)
+vmod(lot-23, learn-25)
+prep_about(learn-25, safety-27)
+
+Lt./NNP Suzanne/NNP Koppelo/NNP ,/, hunter/NN safety/NN administrator/NN of/IN the/DT law/NN enforcement/NN division/NN of/IN the/DT Michigan/NNP Department/NNP of/IN Natural/NNP Resources/NNPS &UR/NNP ;/: ,/, &LR/NNP ;/: said/VBD that/IN since/IN firearm/NN platform/NN hunting/VBG began/NN in/IN Michigan/NNP there/EX had/VBD been/VBN seven/VBN shooting/VBG accidents/NNS linked/VBN to/TO the/DT practice/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Lt.) (NNP Suzanne) (NNP Koppelo))
+      (PRN (, ,)
+        (NP
+          (NP (NN hunter) (NN safety) (NN administrator))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN law) (NN enforcement) (NN division))
+              (PP (IN of)
+                (NP (DT the) (NNP Michigan) (NNP Department)))
+              (PP (IN of)
+                (NP (NNP Natural) (NNPS Resources) (NNP &UR)))
+              (: ;))))
+        (, ,))
+      (NP (NNP &LR))
+      (: ;))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (PP (IN since)
+            (S
+              (NP (NN firearm) (NN platform))
+              (VP (VBG hunting)
+                (NP (NN began))
+                (PP (IN in)
+                  (NP (NNP Michigan))))))
+          (NP (EX there))
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN seven)
+                (S
+                  (VP (VBG shooting)
+                    (NP
+                      (NP (NNS accidents))
+                      (VP (VBN linked)
+                        (PP (TO to)
+                          (NP (DT the) (NN practice)))))))))))))
+    (. .)))
+
+nn(Koppelo-3, Lt.-1)
+nn(Koppelo-3, Suzanne-2)
+nsubj(said-25, Koppelo-3)
+nn(administrator-7, hunter-5)
+nn(administrator-7, safety-6)
+dep(Koppelo-3, administrator-7)
+det(division-12, the-9)
+nn(division-12, law-10)
+nn(division-12, enforcement-11)
+prep_of(administrator-7, division-12)
+det(Department-16, the-14)
+nn(Department-16, Michigan-15)
+prep_of(division-12, Department-16)
+nn(&UR-20, Natural-18)
+nn(&UR-20, Resources-19)
+prep_of(division-12, &UR-20)
+dep(Koppelo-3, &LR-23)
+root(ROOT-0, said-25)
+mark(seven-37, that-26)
+nn(platform-29, firearm-28)
+nsubj(hunting-30, platform-29)
+prepc_since(seven-37, hunting-30)
+dobj(hunting-30, began-31)
+prep_in(hunting-30, Michigan-33)
+expl(seven-37, there-34)
+aux(seven-37, had-35)
+auxpass(seven-37, been-36)
+ccomp(said-25, seven-37)
+xcomp(seven-37, shooting-38)
+dobj(shooting-38, accidents-39)
+vmod(accidents-39, linked-40)
+det(practice-43, the-42)
+prep_to(linked-40, practice-43)
+
+Three/NNP were/VBD fatal/JJ ./.
+
+(ROOT
+  (S
+    (NP (NNP Three))
+    (VP (VBD were)
+      (ADJP (JJ fatal)))
+    (. .)))
+
+nsubj(fatal-3, Three-1)
+cop(fatal-3, were-2)
+root(ROOT-0, fatal-3)
+
+Two/NNP hunters/VBZ shot/JJ themselves/NNS on/IN platforms/NNS and/CC another/DT was/VBD killed/VBN on/IN the/DT ground/NN by/IN a/DT hunter/JJ shooting/NN from/IN a/DT platform/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Two))
+      (VP (VBZ hunters)
+        (NP (JJ shot) (NNS themselves))
+        (PP (IN on)
+          (NP (NNS platforms)))))
+    (CC and)
+    (S
+      (NP (DT another))
+      (VP (VBD was)
+        (VP (VBN killed)
+          (PP (IN on)
+            (NP (DT the) (NN ground)))
+          (PP (IN by)
+            (NP
+              (NP (DT a) (JJ hunter) (NN shooting))
+              (PP (IN from)
+                (NP (DT a) (NN platform))))))))
+    (. .)))
+
+nsubj(hunters-2, Two-1)
+root(ROOT-0, hunters-2)
+amod(themselves-4, shot-3)
+dobj(hunters-2, themselves-4)
+prep_on(hunters-2, platforms-6)
+nsubjpass(killed-10, another-8)
+auxpass(killed-10, was-9)
+conj_and(hunters-2, killed-10)
+det(ground-13, the-12)
+prep_on(killed-10, ground-13)
+det(shooting-17, a-15)
+amod(shooting-17, hunter-16)
+agent(killed-10, shooting-17)
+det(platform-20, a-19)
+prep_from(shooting-17, platform-20)
+
+``If/PRP hunters/NNS exercised/VBD the/DT kind/NN of/IN caution/NN one/NN would/MD expect/VB at/IN heights/NNS of/IN 20-some/JJ feet/NN ,/, it/PRP would/MD be/VB almost/RB a/DT nonissue/JJ ,''/NN said/VBD Koppelo/NNP ./.
+
+(ROOT
+  (S
+    (S
+      (NP (PRP ``If) (NNS hunters))
+      (VP (VBD exercised)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NN kind))
+              (PP (IN of)
+                (NP (NN caution) (NN one))))
+            (VP (MD would)
+              (VP (VB expect)
+                (PP (IN at)
+                  (NP
+                    (NP (NNS heights))
+                    (PP (IN of)
+                      (NP (JJ 20-some) (NN feet)))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD would)
+      (VP (VB be)
+        (NP
+          (NP (RB almost) (DT a) (JJ nonissue) (NN ,''))
+          (SBAR
+            (S
+              (VP (VBD said)
+                (NP (NNP Koppelo))))))))
+    (. .)))
+
+dep(hunters-2, ``If-1)
+nsubj(exercised-3, hunters-2)
+ccomp(,''-23, exercised-3)
+det(kind-5, the-4)
+nsubj(expect-10, kind-5)
+nn(one-8, caution-7)
+prep_of(kind-5, one-8)
+aux(expect-10, would-9)
+ccomp(exercised-3, expect-10)
+prep_at(expect-10, heights-12)
+amod(feet-15, 20-some-14)
+prep_of(heights-12, feet-15)
+nsubj(,''-23, it-17)
+aux(,''-23, would-18)
+cop(,''-23, be-19)
+advmod(,''-23, almost-20)
+det(,''-23, a-21)
+amod(,''-23, nonissue-22)
+root(ROOT-0, ,''-23)
+rcmod(,''-23, said-24)
+dobj(said-24, Koppelo-25)
+
+``But/NN given/VBN human/JJ nature/NN ,/, that/WDT 's/VBZ not/RB the/DT case/NN .''/.
+
+(ROOT
+  (FRAG
+    (NP (NN ``But))
+    (PP (VBN given)
+      (NP
+        (NP (JJ human) (NN nature))
+        (, ,)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ 's) (RB not)
+              (NP (DT the) (NN case)))))
+        (. .'')))))
+
+root(ROOT-0, ``But-1)
+prep(``But-1, given-2)
+amod(nature-4, human-3)
+pobj(given-2, nature-4)
+nsubj(case-10, nature-4)
+cop(case-10, 's-7)
+neg(case-10, not-8)
+det(case-10, the-9)
+rcmod(nature-4, case-10)
+punct(nature-4, .''-11)
+
+More/RB than/IN 750,000/CD licensed/JJ hunters/NNS are/VBP taking/VBG to/TO the/DT Michigan/NNP woods/VBZ this/DT year/NN ,/, where/WRB they/PRP are/VBP expected/VBN to/TO kill/VB about/IN 500,000/CD of/IN the/DT state/NN 's/POS 1.9/CD million/CD deer/NN ./.
+
+(ROOT
+  (SINV
+    (SBAR
+      (ADVP (RB More))
+      (IN than)
+      (S
+        (NP (CD 750,000) (JJ licensed) (NNS hunters))
+        (VP (VBP are)
+          (VP (VBG taking)
+            (PP (TO to)
+              (NP (DT the) (NNP Michigan)))))))
+    (VBZ woods)
+    (NP
+      (NP (DT this) (NN year))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBN expected)
+              (S
+                (VP (TO to)
+                  (VP (VB kill)
+                    (PP (IN about)
+                      (NP
+                        (NP (CD 500,000))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (NN state) (POS 's))
+                            (ADJP
+                              (QP (CD 1.9) (CD million)))
+                            (NN deer)))))))))))))
+    (. .)))
+
+advmod(taking-7, More-1)
+mark(taking-7, than-2)
+num(hunters-5, 750,000-3)
+amod(hunters-5, licensed-4)
+nsubj(taking-7, hunters-5)
+aux(taking-7, are-6)
+advcl(woods-11, taking-7)
+det(Michigan-10, the-9)
+prep_to(taking-7, Michigan-10)
+root(ROOT-0, woods-11)
+det(year-13, this-12)
+nsubj(woods-11, year-13)
+advmod(expected-18, where-15)
+nsubjpass(expected-18, they-16)
+nsubj(kill-20, they-16)
+auxpass(expected-18, are-17)
+rcmod(year-13, expected-18)
+aux(kill-20, to-19)
+xcomp(expected-18, kill-20)
+prep_about(kill-20, 500,000-22)
+det(state-25, the-24)
+poss(deer-29, state-25)
+number(million-28, 1.9-27)
+num(deer-29, million-28)
+prep_of(500,000-22, deer-29)
+
+The/DT numbers/NNS reinforce/VBP the/DT need/NN to/TO improve/VB education/NN about/IN platform/NN hunting/VBG with/IN firearms/NNS ,/, Koppelo/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS numbers))
+      (VP (VBP reinforce)
+        (S
+          (NP (DT the) (NN need))
+          (VP (TO to)
+            (VP (VB improve)
+              (NP (NN education))
+              (PP (IN about)
+                (NP
+                  (NP (NN platform))
+                  (VP (VBG hunting)
+                    (PP (IN with)
+                      (NP (NNS firearms)))))))))))
+    (, ,)
+    (NP (NNP Koppelo))
+    (VP (VBD said))
+    (. .)))
+
+det(numbers-2, The-1)
+nsubj(reinforce-3, numbers-2)
+ccomp(said-16, reinforce-3)
+det(need-5, the-4)
+dobj(reinforce-3, need-5)
+nsubj(improve-7, need-5)
+aux(improve-7, to-6)
+xcomp(reinforce-3, improve-7)
+dobj(improve-7, education-8)
+prep_about(improve-7, platform-10)
+vmod(platform-10, hunting-11)
+prep_with(hunting-11, firearms-13)
+nsubj(said-16, Koppelo-15)
+root(ROOT-0, said-16)
+
+The/DT practice/NN is/VBZ more/RBR commonly/JJ associated/VBN with/IN hunters/NNS using/VBG bows/NNS and/CC arrows/NNS ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NN practice))
+    (VP (VBZ is)
+      (ADJP (RBR more) (JJ commonly))
+      (S
+        (VP (VBN associated)
+          (PP (IN with)
+            (NP
+              (NP (NNS hunters))
+              (VP (VBG using)
+                (NP (NNS bows)
+                  (CC and)
+                  (NNS arrows))))))))
+    (. .)))
+
+det(practice-2, The-1)
+nsubj(commonly-5, practice-2)
+cop(commonly-5, is-3)
+advmod(commonly-5, more-4)
+root(ROOT-0, commonly-5)
+dep(commonly-5, associated-6)
+prep_with(associated-6, hunters-8)
+vmod(hunters-8, using-9)
+dobj(using-9, bows-10)
+dobj(using-9, arrows-12)
+conj_and(bows-10, arrows-12)
+
+Instead/RB of/IN hiding/VBG on/IN the/DT ground/NN or/CC walking/VBG through/IN the/DT woods/NNS ,/, they/PRP wait/VBP quietly/RB ,/, typically/RB at/IN a/DT height/NN of/IN 15/CD to/TO 20/CD feet/NNS ,/, and/CC fire/NN down/RB at/IN deer/NN that/IN wander/NN below/NN ./.
+
+(ROOT
+  (S
+    (PP (RB Instead) (IN of)
+      (S
+        (VP
+          (VP (VBG hiding)
+            (PP (IN on)
+              (NP (DT the) (NN ground))))
+          (CC or)
+          (VP (VBG walking)
+            (PP (IN through)
+              (NP (DT the) (NNS woods)))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP wait)
+      (ADVP (RB quietly))
+      (, ,)
+      (PP
+        (ADVP (RB typically))
+        (IN at)
+        (NP
+          (NP (DT a) (NN height))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP (CD 15) (TO to) (CD 20))
+                (NNS feet))
+              (, ,)
+              (CC and)
+              (NP
+                (NP (NN fire))
+                (ADVP (RB down)
+                  (PP (IN at)
+                    (NP (NN deer))))
+                (PP (IN that)
+                  (NP (NN wander) (NN below)))))))))
+    (. .)))
+
+prepc_instead_of(wait-14, hiding-3)
+det(ground-6, the-5)
+prep_on(hiding-3, ground-6)
+conj_or(hiding-3, walking-8)
+prepc_instead_of(wait-14, walking-8)
+det(woods-11, the-10)
+prep_through(walking-8, woods-11)
+nsubj(wait-14, they-13)
+root(ROOT-0, wait-14)
+advmod(wait-14, quietly-15)
+advmod(wait-14, typically-17)
+det(height-20, a-19)
+prep_at(wait-14, height-20)
+number(20-24, 15-22)
+dep(20-24, to-23)
+num(feet-25, 20-24)
+prep_of(height-20, feet-25)
+prep_of(height-20, fire-28)
+conj_and(feet-25, fire-28)
+advmod(fire-28, down-29)
+prep_at(down-29, deer-31)
+nn(below-34, wander-33)
+prep_that(fire-28, below-34)
+
+Despite/IN the/DT hunter/NN killed/VBN from/IN the/DT platform/NN ,/, Sgt./NNP Larry/NNP D./NNP Sargent/NNP ,/, hunter/VBP education/NN field/NN coordinator/NN for/IN the/DT law/NN enforcement/NN division/NN ,/, says/VBZ the/DT practice/NN does/VBZ offer/VBP one/CD safety/NN advantage/NN :/: errant/NN shots/NNS typically/RB thump/RB harmlessly/RB to/TO the/DT ground/NN ,/, rather/RB than/IN whistling/VBG through/IN the/DT woods/NNS and/CC striking/VBG other/JJ people/NNS ./.
+
+(ROOT
+  (S
+    (PP (IN Despite)
+      (NP
+        (NP (DT the) (NN hunter))
+        (VP (VBN killed)
+          (PP (IN from)
+            (NP (DT the) (NN platform))))))
+    (, ,)
+    (NP
+      (NP (NNP Sgt.) (NNP Larry) (NNP D.) (NNP Sargent))
+      (, ,)
+      (VP (VBP hunter)
+        (NP
+          (NP (NN education) (NN field) (NN coordinator))
+          (PP (IN for)
+            (NP (DT the) (NN law) (NN enforcement) (NN division)))))
+      (, ,))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT the) (NN practice))
+          (VP (VBZ does)
+            (SBAR
+              (S
+                (VP (VBP offer)
+                  (NP
+                    (NP (CD one) (NN safety) (NN advantage))
+                    (: :)
+                    (NP
+                      (NP (NN errant) (NNS shots))
+                      (ADJP (RB typically) (RB thump) (RB harmlessly)
+                        (PP (TO to)
+                          (NP (DT the) (NN ground))))))
+                  (, ,)
+                  (PP (RB rather) (IN than)
+                    (S
+                      (VP
+                        (VP (VBG whistling)
+                          (PP (IN through)
+                            (NP (DT the) (NNS woods))))
+                        (CC and)
+                        (VP (VBG striking)
+                          (NP (JJ other) (NNS people)))))))))))))
+    (. .)))
+
+det(hunter-3, the-2)
+prep_despite(says-24, hunter-3)
+vmod(hunter-3, killed-4)
+det(platform-7, the-6)
+prep_from(killed-4, platform-7)
+nn(Sargent-12, Sgt.-9)
+nn(Sargent-12, Larry-10)
+nn(Sargent-12, D.-11)
+nsubj(says-24, Sargent-12)
+dep(Sargent-12, hunter-14)
+nn(coordinator-17, education-15)
+nn(coordinator-17, field-16)
+dobj(hunter-14, coordinator-17)
+det(division-22, the-19)
+nn(division-22, law-20)
+nn(division-22, enforcement-21)
+prep_for(coordinator-17, division-22)
+root(ROOT-0, says-24)
+det(practice-26, the-25)
+nsubj(does-27, practice-26)
+ccomp(says-24, does-27)
+ccomp(does-27, offer-28)
+num(advantage-31, one-29)
+nn(advantage-31, safety-30)
+dobj(offer-28, advantage-31)
+nn(shots-34, errant-33)
+dep(advantage-31, shots-34)
+advmod(harmlessly-37, typically-35)
+advmod(harmlessly-37, thump-36)
+amod(shots-34, harmlessly-37)
+det(ground-40, the-39)
+prep_to(harmlessly-37, ground-40)
+advmod(offer-28, rather-42)
+prepc_than(offer-28, whistling-44)
+det(woods-47, the-46)
+prep_through(whistling-44, woods-47)
+prepc_than(offer-28, striking-49)
+conj_and(whistling-44, striking-49)
+amod(people-51, other-50)
+dobj(striking-49, people-51)
+
+The/DT problems/NNS primarily/RB arise/VBP when/WRB hunters/NNS get/VBP in/IN and/CC out/RB of/IN position/NN ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NNS problems))
+    (ADVP (RB primarily))
+    (VP (VBP arise)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NNS hunters))
+          (VP (VBP get)
+            (PP
+              (PP (IN in))
+              (CC and)
+              (RB out)
+              (PP (IN of)
+                (NP (NN position))))))))
+    (. .)))
+
+det(problems-2, The-1)
+nsubj(arise-4, problems-2)
+advmod(arise-4, primarily-3)
+root(ROOT-0, arise-4)
+advmod(get-7, when-5)
+nsubj(get-7, hunters-6)
+advcl(arise-4, get-7)
+prep(get-7, in-8)
+prep(get-7, out-10)
+conj_and(in-8, out-10)
+dep(in-8, of-11)
+pobj(of-11, position-12)
+
+``It/NNP 's/POS kind/NN of/IN hard/JJ climbing/VBG a/DT tree/NN with/IN a/DT gun/JJ ,''/NN Rob/NNP Williams/NNP said/VBD ,/, as/IN he/PRP and/CC a/DT hunting/JJ partner/NN ,/, Art/NNP Bush/NNP ,/, waited/VBN on/IN a/DT recent/JJ morning/NN in/IN a/DT conventional/JJ earthbound/NN hunting/VBG blind/NN about/IN 20/CD miles/NNS west/JJS of/IN Detroit/NNP ./.
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP ``It) (POS 's))
+      (NN kind))
+    (PP (IN of)
+      (S
+        (VP
+          (ADVP (JJ hard))
+          (VBG climbing)
+          (NP (DT a) (NN tree))
+          (PP (IN with)
+            (NP
+              (NP (DT a) (JJ gun) (NN ,''))
+              (SBAR
+                (S
+                  (NP (NNP Rob) (NNP Williams))
+                  (VP (VBD said)))))))))
+    (, ,)
+    (PP (IN as)
+      (NP
+        (NP (PRP he))
+        (CC and)
+        (NP (DT a) (JJ hunting) (NN partner))))
+    (, ,)
+    (NP (NNP Art) (NNP Bush))
+    (, ,)
+    (VP (VBN waited)
+      (PP (IN on)
+        (NP
+          (NP (DT a) (JJ recent) (NN morning))
+          (PP (IN in)
+            (NP (DT a) (JJ conventional) (NN earthbound)))))
+      (S
+        (VP (VBG hunting)
+          (NP (NN blind))
+          (PP (IN about)
+            (NP
+              (NP (CD 20) (NNS miles))
+              (NP (JJS west)))))))
+    (PP (IN of)
+      (NP (NNP Detroit)))
+    (. .)))
+
+poss(kind-3, ``It-1)
+root(ROOT-0, kind-3)
+advmod(climbing-6, hard-5)
+prepc_of(kind-3, climbing-6)
+det(tree-8, a-7)
+dobj(climbing-6, tree-8)
+det(,''-12, a-10)
+amod(,''-12, gun-11)
+prep_with(climbing-6, ,''-12)
+nn(Williams-14, Rob-13)
+nsubj(said-15, Williams-14)
+rcmod(,''-12, said-15)
+prep_as(kind-3, he-18)
+det(partner-22, a-20)
+amod(partner-22, hunting-21)
+prep_as(kind-3, partner-22)
+conj_and(he-18, partner-22)
+nn(Bush-25, Art-24)
+appos(kind-3, Bush-25)
+vmod(kind-3, waited-27)
+det(morning-31, a-29)
+amod(morning-31, recent-30)
+prep_on(waited-27, morning-31)
+det(earthbound-35, a-33)
+amod(earthbound-35, conventional-34)
+prep_in(morning-31, earthbound-35)
+xcomp(waited-27, hunting-36)
+dobj(hunting-36, blind-37)
+num(miles-40, 20-39)
+prep_about(hunting-36, miles-40)
+dep(miles-40, west-41)
+prep_of(kind-3, Detroit-43)
+
+For/IN Williams/NNP ,/, Rule/IN No/DT ./.
+
+(ROOT
+  (FRAG
+    (PP (IN For)
+      (NP
+        (NP (NNP Williams))
+        (, ,)
+        (NP
+          (ADJP (IN Rule))
+          (DT No))))
+    (. .)))
+
+root(ROOT-0, For-1)
+pobj(For-1, Williams-2)
+appos(Williams-2, Rule-4)
+dep(Rule-4, No-5)
+
+1/CD is/VBZ not/RB to/TO climb/VB a/DT tree/NN with/IN a/DT loaded/JJ gun/NN ./.
+
+(ROOT
+  (S
+    (NP (CD 1))
+    (VP (VBZ is) (RB not)
+      (S
+        (VP (TO to)
+          (VP (VB climb)
+            (NP (DT a) (NN tree))
+            (PP (IN with)
+              (NP (DT a) (JJ loaded) (NN gun)))))))
+    (. .)))
+
+nsubj(is-2, 1-1)
+nsubj(climb-5, 1-1)
+root(ROOT-0, is-2)
+neg(is-2, not-3)
+aux(climb-5, to-4)
+xcomp(is-2, climb-5)
+det(tree-7, a-6)
+dobj(climb-5, tree-7)
+det(gun-11, a-9)
+amod(gun-11, loaded-10)
+prep_with(climb-5, gun-11)
+
+He/PRP says/VBZ that/IN when/WRB he/PRP hunts/VBZ from/IN a/DT platform/NN he/PRP climbs/VBD up/RB with/IN a/DT rope/NN dangling/NN from/IN his/PRP$ belt/NN to/TO his/PRP$ gun/NN ,/, which/WDT he/PRP leaves/VBZ unloaded/VBN on/IN the/DT ground/NN ./.
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ says)
+      (SBAR (IN that)
+        (S
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP he))
+              (VP (VBZ hunts)
+                (PP (IN from)
+                  (NP (DT a) (NN platform))))))
+          (NP (PRP he))
+          (VP (VBD climbs)
+            (ADVP (RB up)
+              (PP (IN with)
+                (NP (DT a) (NN rope) (NN dangling))))
+            (PP (IN from)
+              (NP (PRP$ his) (NN belt)))
+            (PP (TO to)
+              (NP
+                (NP (PRP$ his) (NN gun))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (NP (PRP he))
+                    (VP (VBZ leaves)
+                      (VP (VBN unloaded)
+                        (PP (IN on)
+                          (NP (DT the) (NN ground)))))))))))))
+    (. .)))
+
+nsubj(says-2, He-1)
+root(ROOT-0, says-2)
+mark(climbs-11, that-3)
+advmod(hunts-6, when-4)
+nsubj(hunts-6, he-5)
+advcl(climbs-11, hunts-6)
+det(platform-9, a-8)
+prep_from(hunts-6, platform-9)
+nsubj(climbs-11, he-10)
+ccomp(says-2, climbs-11)
+advmod(climbs-11, up-12)
+det(dangling-16, a-14)
+nn(dangling-16, rope-15)
+prep_with(up-12, dangling-16)
+poss(belt-19, his-18)
+prep_from(climbs-11, belt-19)
+poss(gun-22, his-21)
+prep_to(climbs-11, gun-22)
+dobj(leaves-26, gun-22)
+nsubj(leaves-26, he-25)
+rcmod(gun-22, leaves-26)
+dep(leaves-26, unloaded-27)
+det(ground-30, the-29)
+prep_on(unloaded-27, ground-30)
+
+When/WRB he/PRP is/VBZ secure/NN in/IN his/PRP$ stand/NN ,/, he/PRP pulls/VBZ his/PRP$ gun/VBN up/RP after/IN him/PRP and/CC loads/VBZ it/PRP ./.
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP he))
+        (VP (VBZ is)
+          (NP
+            (NP (NN secure))
+            (PP (IN in)
+              (NP (PRP$ his) (NN stand)))))))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VP (VBZ pulls)
+        (NP (PRP$ his) (VBN gun))
+        (ADVP (RP up)
+          (PP (IN after)
+            (NP (PRP him)))))
+      (CC and)
+      (VP (VBZ loads)
+        (NP (PRP it))))
+    (. .)))
+
+advmod(secure-4, When-1)
+nsubj(secure-4, he-2)
+cop(secure-4, is-3)
+advcl(pulls-10, secure-4)
+poss(stand-7, his-6)
+prep_in(secure-4, stand-7)
+nsubj(pulls-10, he-9)
+nsubj(loads-17, he-9)
+root(ROOT-0, pulls-10)
+dobj(pulls-10, his-11)
+amod(his-11, gun-12)
+advmod(pulls-10, up-13)
+prep_after(up-13, him-15)
+conj_and(pulls-10, loads-17)
+dobj(loads-17, it-18)
+
+Sargent/NNP says/VBZ this/DT is/VBZ proper/NN procedure/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP Sargent))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBZ is)
+            (NP (NN proper) (NN procedure))))))
+    (. .)))
+
+nsubj(says-2, Sargent-1)
+root(ROOT-0, says-2)
+nsubj(procedure-6, this-3)
+cop(procedure-6, is-4)
+nn(procedure-6, proper-5)
+ccomp(says-2, procedure-6)
+
+One/CD accident/NN this/DT year/NN ,/, however/NN ,/, illustrates/VBZ the/DT importance/NN of/IN following/VBG each/DT step/NN of/IN the/DT safety/NN procedures/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (CD One) (NN accident))
+        (NP (DT this) (NN year)))
+      (, ,)
+      (NP (NN however))
+      (, ,))
+    (VP (VBZ illustrates)
+      (NP
+        (NP (DT the) (NN importance))
+        (PP (IN of)
+          (S
+            (VP (VBG following)
+              (NP
+                (NP (DT each) (NN step))
+                (PP (IN of)
+                  (NP (DT the) (NN safety) (NNS procedures)))))))))
+    (. .)))
+
+num(accident-2, One-1)
+nsubj(illustrates-8, accident-2)
+det(year-4, this-3)
+dep(accident-2, year-4)
+appos(accident-2, however-6)
+root(ROOT-0, illustrates-8)
+det(importance-10, the-9)
+dobj(illustrates-8, importance-10)
+prepc_of(importance-10, following-12)
+det(step-14, each-13)
+dobj(following-12, step-14)
+det(procedures-18, the-16)
+nn(procedures-18, safety-17)
+prep_of(step-14, procedures-18)
+
+A/DT 16-year-old/JJ hunter/NN used/VBD a/DT haul/JJ line/NN ,/, but/CC it/PRP was/VBD tied/VBN to/TO the/DT trigger/NN guard/NN and/CC he/PRP left/VBD the/DT gun/NN loaded/VBD ,/, Koppelo/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT A) (JJ 16-year-old) (NN hunter))
+        (VP (VBD used)
+          (NP (DT a) (JJ haul) (NN line))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (VP (VBN tied)
+            (PP (TO to)
+              (NP (DT the) (NN trigger) (NN guard))))))
+      (CC and)
+      (S
+        (NP (PRP he))
+        (VP (VBD left)
+          (SBAR
+            (S
+              (NP (DT the) (NN gun))
+              (VP (VBD loaded)))))))
+    (, ,)
+    (NP (NNP Koppelo))
+    (VP (VBD said))
+    (. .)))
+
+det(hunter-3, A-1)
+amod(hunter-3, 16-year-old-2)
+nsubj(used-4, hunter-3)
+ccomp(said-25, used-4)
+det(line-7, a-5)
+amod(line-7, haul-6)
+dobj(used-4, line-7)
+nsubjpass(tied-12, it-10)
+auxpass(tied-12, was-11)
+conj_but(used-4, tied-12)
+ccomp(said-25, tied-12)
+det(guard-16, the-14)
+nn(guard-16, trigger-15)
+prep_to(tied-12, guard-16)
+nsubj(left-19, he-18)
+conj_and(used-4, left-19)
+ccomp(said-25, left-19)
+det(gun-21, the-20)
+nsubj(loaded-22, gun-21)
+ccomp(left-19, loaded-22)
+nsubj(said-25, Koppelo-24)
+root(ROOT-0, said-25)
+
+The/DT teen-ager/NN 's/POS gun/NN went/VBD off/RB and/CC he/PRP was/VBD shot/VBN in/IN the/DT foot/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN teen-ager) (POS 's))
+        (NN gun))
+      (VP (VBD went)
+        (ADVP (RB off))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD was)
+        (VP (VBN shot)
+          (PP (IN in)
+            (NP (DT the) (NN foot))))))
+    (. .)))
+
+det(teen-ager-2, The-1)
+poss(gun-4, teen-ager-2)
+nsubj(went-5, gun-4)
+root(ROOT-0, went-5)
+advmod(went-5, off-6)
+nsubjpass(shot-10, he-8)
+auxpass(shot-10, was-9)
+conj_and(went-5, shot-10)
+det(foot-13, the-12)
+prep_in(shot-10, foot-13)
+
+Others/NNS are/VBP hurt/JJ falling/VBG out/RP of/IN trees/NNS ./.
+
+(ROOT
+  (S
+    (NP (NNS Others))
+    (VP (VBP are)
+      (VP (JJ hurt)
+        (S
+          (VP (VBG falling)
+            (PRT (RP out))
+            (PP (IN of)
+              (NP (NNS trees)))))))
+    (. .)))
+
+nsubj(hurt-3, Others-1)
+aux(hurt-3, are-2)
+root(ROOT-0, hurt-3)
+xcomp(hurt-3, falling-4)
+prep_out_of(falling-4, trees-7)
+
+Koppelo/NNP said/VBD that/DT state/NN officials/NNS were/VBD trying/VBG to/TO keep/VB count/NN of/IN these/DT injuries/NNS but/CC that/IN it/PRP was/VBD difficult/JJ ,/, since/IN they/PRP relied/VBD on/IN hunters/NNS reporting/VBG minor/NN accidents/NNS ./.
+
+(ROOT
+  (S
+    (NP (NNP Koppelo))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT that) (NN state) (NNS officials))
+          (VP (VBD were)
+            (VP
+              (VP (VBG trying)
+                (S
+                  (VP (TO to)
+                    (VP (VB keep)
+                      (NP
+                        (NP (NN count))
+                        (PP (IN of)
+                          (NP (DT these) (NNS injuries))))))))
+              (CC but)
+              (VP
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD was)
+                      (ADJP (JJ difficult))
+                      (, ,)
+                      (SBAR (IN since)
+                        (S
+                          (NP (PRP they))
+                          (VP (VBD relied)
+                            (PP (IN on)
+                              (NP
+                                (NP (NNS hunters))
+                                (VP (VBG reporting)
+                                  (NP (NN minor) (NNS accidents)))))))))))))))))
+    (. .)))
+
+nsubj(said-2, Koppelo-1)
+root(ROOT-0, said-2)
+det(officials-5, that-3)
+nn(officials-5, state-4)
+nsubj(trying-7, officials-5)
+nsubj(keep-9, officials-5)
+aux(trying-7, were-6)
+ccomp(said-2, trying-7)
+aux(keep-9, to-8)
+xcomp(trying-7, keep-9)
+dobj(keep-9, count-10)
+det(injuries-13, these-12)
+prep_of(count-10, injuries-13)
+mark(difficult-18, that-15)
+nsubj(difficult-18, it-16)
+cop(difficult-18, was-17)
+ccomp(said-2, difficult-18)
+conj_but(trying-7, difficult-18)
+mark(relied-22, since-20)
+nsubj(relied-22, they-21)
+advcl(difficult-18, relied-22)
+prep_on(relied-22, hunters-24)
+vmod(hunters-24, reporting-25)
+nn(accidents-27, minor-26)
+dobj(reporting-25, accidents-27)
+
+``A/NNP lot/NN of/IN guys/NNS are/VBP embarrassed/VBN ,''/, Sargent/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP ``A) (NN lot))
+      (PP (IN of)
+        (NP (NNS guys))))
+    (VP (VBP are)
+      (ADJP (VBN embarrassed)
+        (SBAR (, ,'')
+          (S
+            (NP (NNP Sargent))
+            (VP (VBD said))))))
+    (. .)))
+
+nn(lot-2, ``A-1)
+nsubjpass(embarrassed-6, lot-2)
+prep_of(lot-2, guys-4)
+auxpass(embarrassed-6, are-5)
+root(ROOT-0, embarrassed-6)
+punct(said-9, ,''-7)
+nsubj(said-9, Sargent-8)
+ccomp(embarrassed-6, said-9)
+
+``They/NNP 'll/MD say/VB they/PRP fell/VBD working/VBG in/IN the/DT yard/NN or/CC something/NN .''/.
+
+(ROOT
+  (S
+    (NP (NNP ``They))
+    (VP (MD 'll)
+      (VP (VB say)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBD fell)
+              (S
+                (VP (VBG working)
+                  (PP (IN in)
+                    (NP (DT the) (NN yard)
+                      (CC or)
+                      (NN something))))))))))
+    (. .'')))
+
+nsubj(say-3, ``They-1)
+aux(say-3, 'll-2)
+root(ROOT-0, say-3)
+nsubj(fell-5, they-4)
+ccomp(say-3, fell-5)
+xcomp(fell-5, working-6)
+det(yard-9, the-8)
+prep_in(working-6, yard-9)
+prep_in(working-6, something-11)
+conj_or(yard-9, something-11)
+punct(say-3, .''-12)
+
+Others/NNS ,/, Koppelo/NNP says/VBZ ,/, do/VBP not/RB want/VB to/TO report/VB accidents/NNS for/IN fear/JJ the/DT law/NN will/MD be/VB changed/VBN ./.
+
+(ROOT
+  (S
+    (NP (NNS Others))
+    (PRN (, ,)
+      (NP (NNP Koppelo))
+      (VP (VBZ says))
+      (, ,))
+    (VP (VBP do) (RB not)
+      (VP (VB want)
+        (S
+          (VP (TO to)
+            (VP (VB report)
+              (NP (NNS accidents))
+              (SBAR (IN for)
+                (S
+                  (NP (JJ fear) (DT the) (NN law))
+                  (VP (MD will)
+                    (VP (VB be)
+                      (VP (VBN changed)))))))))))
+    (. .)))
+
+nsubj(want-8, Others-1)
+nsubj(report-10, Others-1)
+nsubj(says-4, Koppelo-3)
+parataxis(want-8, says-4)
+aux(want-8, do-6)
+neg(want-8, not-7)
+root(ROOT-0, want-8)
+aux(report-10, to-9)
+xcomp(want-8, report-10)
+dobj(report-10, accidents-11)
+mark(changed-18, for-12)
+amod(law-15, fear-13)
+det(law-15, the-14)
+nsubjpass(changed-18, law-15)
+aux(changed-18, will-16)
+auxpass(changed-18, be-17)
+advcl(report-10, changed-18)
+
+And/CC she/PRP adds/VBZ that/DT though/JJ anecdotal/JJ reports/NNS show/VBP Michigan/NNP 's/POS large/JJ hunting/JJ population/NN to/TO be/VB taking/VBG slowly/RB to/TO firearm/NN deer/VB hunting/VBG from/IN platforms/NNS ,/, most/RBS expect/VBP the/DT practice/NN to/TO catch/VB on/IN as/IN it/PRP has/VBZ in/IN other/JJ states/NNS ./.
+
+(ROOT
+  (S
+    (S (CC And)
+      (NP (PRP she))
+      (VP (VBZ adds)
+        (SBAR
+          (S
+            (NP (DT that) (JJ though) (JJ anecdotal) (NNS reports))
+            (VP (VBP show)
+              (NP
+                (NP (NNP Michigan) (POS 's))
+                (JJ large) (JJ hunting) (NN population))
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBG taking)
+                      (ADVP (RB slowly)
+                        (PP (TO to)
+                          (NP (NN firearm))))
+                      (S
+                        (VP (VB deer)
+                          (S
+                            (VP (VBG hunting)
+                              (PP (IN from)
+                                (NP (NNS platforms))))))))))))))))
+    (, ,)
+    (NP (RBS most))
+    (VP (VBP expect)
+      (S
+        (NP (DT the) (NN practice))
+        (VP (TO to)
+          (VP (VB catch)
+            (PP (IN on)
+              (SBAR (IN as)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ has)
+                    (VP
+                      (PP (IN in)
+                        (NP (JJ other) (NNS states))))))))))))
+    (. .)))
+
+cc(adds-3, And-1)
+nsubj(adds-3, she-2)
+ccomp(expect-26, adds-3)
+det(reports-7, that-4)
+amod(reports-7, though-5)
+amod(reports-7, anecdotal-6)
+nsubj(show-8, reports-7)
+ccomp(adds-3, show-8)
+poss(population-13, Michigan-9)
+amod(population-13, large-11)
+amod(population-13, hunting-12)
+dobj(show-8, population-13)
+aux(taking-16, to-14)
+aux(taking-16, be-15)
+vmod(show-8, taking-16)
+advmod(taking-16, slowly-17)
+prep_to(slowly-17, firearm-19)
+ccomp(taking-16, deer-20)
+xcomp(deer-20, hunting-21)
+prep_from(hunting-21, platforms-23)
+nsubj(expect-26, most-25)
+root(ROOT-0, expect-26)
+det(practice-28, the-27)
+dobj(expect-26, practice-28)
+nsubj(catch-30, practice-28)
+aux(catch-30, to-29)
+xcomp(expect-26, catch-30)
+prep(catch-30, on-31)
+mark(in-35, as-32)
+nsubj(in-35, it-33)
+aux(in-35, has-34)
+pcomp(on-31, in-35)
+amod(states-37, other-36)
+pobj(in-35, states-37)
+
+As/IN Peter/NNP Thompson/NNP ,/, a/DT 16-year-old/JJ hunter/NN ,/, said/VBD ,/, ``Usually/RB the/DT deer/NN don't/VBD look/VB up/RP .''/.
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP
+          (NP (NNP Peter) (NNP Thompson))
+          (, ,)
+          (NP (DT a) (JJ 16-year-old) (NN hunter))
+          (, ,))
+        (VP (VBD said))))
+    (, ,)
+    (ADVP (RB ``Usually))
+    (NP (DT the) (NN deer))
+    (VP (VBD don't)
+      (S
+        (VP (VB look)
+          (PRT (RP up)))))
+    (. .'')))
+
+mark(said-9, As-1)
+nn(Thompson-3, Peter-2)
+nsubj(said-9, Thompson-3)
+det(hunter-7, a-5)
+amod(hunter-7, 16-year-old-6)
+appos(Thompson-3, hunter-7)
+advcl(don't-14, said-9)
+advmod(deer-13, ``Usually-11)
+det(deer-13, the-12)
+nsubj(don't-14, deer-13)
+root(ROOT-0, don't-14)
+ccomp(don't-14, look-15)
+prt(look-15, up-16)
+punct(don't-14, .''-17)
+
+NYT-11-25-00/CD 1558EST/CD
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-11-25-00) (CD 1558EST))))
+
+num(1558EST-2, NYT-11-25-00-1)
+root(ROOT-0, 1558EST-2)
+

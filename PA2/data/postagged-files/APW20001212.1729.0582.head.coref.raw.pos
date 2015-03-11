@@ -4,7 +4,7 @@ Wall-Street_NNP
 
 Dow_NNP Gains_NNP 93_CD ;_: Nasdaq_NNP Drops_NNP 40_. 
 
-NEW_NNP YORK_NNP (AP_NNP )_NNP __, Stocks_NNS were_VBD mixed_JJ Tuesday_NNP as_IN anxiety_NN about_IN high-tech_JJ earnings_NNS and_CC the_DT election_NN deadlock_NN resurfaced_VBD on_IN Wall_NNP Street_NNP ._. 
+NEW_NNP YORK_NNP [AP_NNP ]_NNP __, Stocks_NNS were_VBD mixed_JJ Tuesday_NNP as_IN anxiety_NN about_IN high-tech_JJ earnings_NNS and_CC the_DT election_NN deadlock_NN resurfaced_VBD on_IN Wall_NNP Street_NNP ._. 
 
 
 Technology_NN issues_NNS rose_VBD smartly_RB late_JJ last_JJ week_NN after_IN Federal_NNP Reserve_NNP Chairman_NNP Alan_NNP Greenspan_NNP said_VBD he_PRP was_VBD inclined_VBN to_TO lower_VB interest_NN rates_NNS early_RB next_JJ year_NN ._. 

@@ -1,0 +1,1685 @@
+NYT20001123.1511.0062/CD NEWS/NNP STORY/NNP 2000-11-23/CD 17:17:00/CD
+
+(ROOT
+  (NP
+    (NP (CD NYT20001123.1511.0062))
+    (NP (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-11-23) (CD 17:17:00))))
+
+root(ROOT-0, NYT20001123.1511.0062-1)
+nn(STORY-3, NEWS-2)
+dep(NYT20001123.1511.0062-1, STORY-3)
+num(17:17:00-5, 2000-11-23-4)
+dep(NYT20001123.1511.0062-1, 17:17:00-5)
+
+A9034/CD &Cx1f/NN ;/: taf-z/JJ u/NN f/IN BC-QUESTIONS-AD-COLUMN-N/NNP 11-23/CD 0790/CD
+
+(ROOT
+  (NP
+    (NP (CD A9034) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP
+        (NP (JJ taf-z) (NN u))
+        (PP (IN f)
+          (NP (NNP BC-QUESTIONS-AD-COLUMN-N) (CD 11-23))))
+      (NP (CD 0790)))))
+
+num(&Cx1f-2, A9034-1)
+root(ROOT-0, &Cx1f-2)
+amod(u-5, taf-z-4)
+dep(&Cx1f-2, u-5)
+prep_f(u-5, BC-QUESTIONS-AD-COLUMN-N-7)
+num(BC-QUESTIONS-AD-COLUMN-N-7, 11-23-8)
+dep(u-5, 0790-9)
+
+BC-QUESTIONS-AD-COLUMN-NYT/NNP
+
+(ROOT
+  (NP (NNP BC-QUESTIONS-AD-COLUMN-NYT)))
+
+root(ROOT-0, BC-QUESTIONS-AD-COLUMN-NYT-1)
+
+ADVERTISING/DT :/: FOLLOW/NNP THE/NNP QUESTIONS/NNP INTO/NNP A/NNP `CHAD/NNP ,/, CHAD/NNP ,/, CHAD/NNP ,/, CHAD/NNP
+
+(ROOT
+  (NP
+    (NP (DT ADVERTISING))
+    (: :)
+    (NP (NNP FOLLOW) (NNP THE) (NNP QUESTIONS) (NNP INTO) (NNP A) (NNP `CHAD) (, ,) (NNP CHAD) (, ,) (NNP CHAD) (, ,) (NNP CHAD))))
+
+root(ROOT-0, ADVERTISING-1)
+nn(CHAD-14, FOLLOW-3)
+nn(CHAD-14, THE-4)
+nn(CHAD-14, QUESTIONS-5)
+nn(CHAD-14, INTO-6)
+nn(CHAD-14, A-7)
+nn(CHAD-14, `CHAD-8)
+appos(CHAD-14, CHAD-10)
+appos(CHAD-14, CHAD-12)
+dep(ADVERTISING-1, CHAD-14)
+
+WORLD/NNP '/POS &LR/NN ;/: &QL/NNP ;/: &UR/NNS ;/: By/NNP STUART/NNP ELLIOTT/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP WORLD) (POS '))
+      (NN &LR))
+    (: ;)
+    (NP
+      (NP (NNP &QL))
+      (: ;)
+      (NP
+        (NP (NNS &UR))
+        (: ;)
+        (PP (NNP By)
+          (NP (NNP STUART) (NNP ELLIOTT) (NNP &LR)))
+        (: ;)
+        (NP
+          (NP (NNP &QC))
+          (: ;)
+          (NP (NNS &QL))))
+      (: ;)
+      (NP
+        (NP (NNS &UR))
+        (: ;)
+        (NP
+          (NP (CD c.2000))
+          (NP (NNP N.Y)))))
+    (. .)))
+
+poss(&LR-3, WORLD-1)
+root(ROOT-0, &LR-3)
+dep(&LR-3, &QL-5)
+dep(&QL-5, &UR-7)
+prep(&UR-7, By-9)
+nn(&LR-12, STUART-10)
+nn(&LR-12, ELLIOTT-11)
+dep(By-9, &LR-12)
+dep(&UR-7, &QC-14)
+dep(&QC-14, &QL-16)
+dep(&QL-5, &UR-18)
+dep(&UR-18, c.2000-20)
+appos(c.2000-20, N.Y-21)
+
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
+    (PRN (: ;)
+      (NP
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&LR-4, Times-1)
+nn(&LR-4, News-2)
+nn(&LR-4, Service-3)
+root(ROOT-0, &LR-4)
+dep(&LR-4, &QC-6)
+dep(&QC-6, &QL-8)
+
+It/PRP 's/VBZ time/NN again/RB to/TO ask/VB 20/CD questions/NNS about/IN advertising/NN ,/, marketing/NN and/CC the/DT media/NN ./.
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (VP (NN time)
+        (ADVP (RB again))
+        (S
+          (VP (TO to)
+            (VP (VB ask)
+              (NP (CD 20) (NNS questions))
+              (PP (IN about)
+                (NP
+                  (NP (NN advertising))
+                  (, ,)
+                  (NP (NN marketing))
+                  (CC and)
+                  (NP (DT the) (NN media)))))))))
+    (. .)))
+
+nsubj(time-3, It-1)
+nsubj(ask-6, It-1)
+aux(time-3, 's-2)
+root(ROOT-0, time-3)
+advmod(time-3, again-4)
+aux(ask-6, to-5)
+xcomp(time-3, ask-6)
+num(questions-8, 20-7)
+dobj(ask-6, questions-8)
+prep_about(ask-6, advertising-10)
+prep_about(ask-6, marketing-12)
+conj_and(advertising-10, marketing-12)
+det(media-15, the-14)
+prep_about(ask-6, media-15)
+conj_and(advertising-10, media-15)
+
+_/DT Will/NNP Americans/NNPS ever/RB refer/VB to/TO the/DT day/NN before/IN Thanksgiving/VBG as/IN ``Thanksgiving/VBG Wednesday/NN ,''/NN as/IN ABC/NNP did/VBD repeatedly/RB this/DT week/NN in/IN commercials/NNS promoting/VBG its/PRP$ Wednesday/NN sitcoms/NNS ``The/VBP Drew/NNP Carey/NNP Show/NNP ''/'' and/CC ``Spin/NNP City/NNP ''?/.
+
+(ROOT
+  (S
+    (NP (DT _) (NNP Will) (NNPS Americans))
+    (ADVP (RB ever))
+    (VP (VB refer)
+      (PP (TO to)
+        (NP (DT the) (NN day)))
+      (SBAR (IN before)
+        (S
+          (S
+            (VP (VBG Thanksgiving)
+              (PP (IN as)
+                (S
+                  (VP (VBG ``Thanksgiving)
+                    (NP (NN Wednesday) (NN ,''))
+                    (SBAR (IN as)
+                      (S
+                        (NP (NNP ABC))
+                        (VP (VBD did)
+                          (ADVP (RB repeatedly))
+                          (NP (DT this) (NN week))
+                          (PP (IN in)
+                            (NP (NNS commercials)))
+                          (S
+                            (VP (VBG promoting)
+                              (NP (PRP$ its) (NN Wednesday) (NNS sitcoms))))))))))))
+          (VP (VBP ``The)
+            (NP
+              (NP (NNP Drew) (NNP Carey) (NNP Show))
+              ('' '')
+              (CC and)
+              (NP (NNP ``Spin) (NNP City)))))))
+    (. ''?)))
+
+det(Americans-3, _-1)
+nn(Americans-3, Will-2)
+nsubj(refer-5, Americans-3)
+advmod(refer-5, ever-4)
+root(ROOT-0, refer-5)
+det(day-8, the-7)
+prep_to(refer-5, day-8)
+mark(``The-27, before-9)
+csubj(``The-27, Thanksgiving-10)
+prepc_as(Thanksgiving-10, ``Thanksgiving-12)
+nn(,''-14, Wednesday-13)
+dobj(``Thanksgiving-12, ,''-14)
+mark(did-17, as-15)
+nsubj(did-17, ABC-16)
+advcl(``Thanksgiving-12, did-17)
+advmod(did-17, repeatedly-18)
+det(week-20, this-19)
+tmod(did-17, week-20)
+prep_in(did-17, commercials-22)
+xcomp(did-17, promoting-23)
+poss(sitcoms-26, its-24)
+nn(sitcoms-26, Wednesday-25)
+dobj(promoting-23, sitcoms-26)
+advcl(refer-5, ``The-27)
+nn(Show-30, Drew-28)
+nn(Show-30, Carey-29)
+dobj(``The-27, Show-30)
+nn(City-34, ``Spin-33)
+dobj(``The-27, City-34)
+conj_and(Show-30, City-34)
+punct(refer-5, ''?-35)
+
+_/DT If/IN a/DT Hollywood/NNP studio/NN makes/VBZ a/DT movie/NN about/IN the/DT Florida/NNP election/NN standoff/NN ,/, would/MD the/DT title/NN be/VB ``It/NNP 's/POS a/DT Chad/NNP ,/, Chad/NNP ,/, Chad/NNP ,/, Chad/NNP World/NNP ''?/.
+
+(ROOT
+  (SQ
+    (SBAR
+      (WHNP
+        (NP (DT _))
+        (PP (IN If)
+          (NP (DT a) (NNP Hollywood) (NN studio))))
+      (S
+        (VP (VBZ makes)
+          (NP
+            (NP (DT a) (NN movie))
+            (PP (IN about)
+              (NP (DT the) (NNP Florida) (NN election) (NN standoff)))))))
+    (, ,) (MD would)
+    (NP (DT the) (NN title))
+    (VP (VB be)
+      (NP
+        (NP (NNP ``It) (POS 's))
+        (NP (DT a) (NNP Chad) (, ,) (NNP Chad) (, ,) (NNP Chad) (, ,) (NNP Chad) (NNP World))))
+    (. ''?)))
+
+nsubj(makes-6, _-1)
+det(studio-5, a-3)
+nn(studio-5, Hollywood-4)
+prep_if(_-1, studio-5)
+dep(``It-19, makes-6)
+det(movie-8, a-7)
+dobj(makes-6, movie-8)
+det(standoff-13, the-10)
+nn(standoff-13, Florida-11)
+nn(standoff-13, election-12)
+prep_about(movie-8, standoff-13)
+aux(``It-19, would-15)
+det(title-17, the-16)
+nsubj(``It-19, title-17)
+cop(``It-19, be-18)
+root(ROOT-0, ``It-19)
+possessive(``It-19, 's-20)
+det(World-29, a-21)
+nn(World-29, Chad-22)
+appos(World-29, Chad-24)
+appos(World-29, Chad-26)
+appos(World-29, Chad-28)
+dep(``It-19, World-29)
+punct(``It-19, ''?-30)
+
+_/DT How/NNP many/JJ readers/NNS of/IN The/DT Wall/NNP Street/NNP Journal/NNP noticed/VBD that/IN an/DT article/NN on/IN Wednesday/NN carrying/VBG the/DT headline/NN ``Genetically/RB Altered/VBD Protein/NNP Is/NNP Found/NNP in/IN Still/RB More/JJ Corn/NNP ''/'' ran/VBD adjacent/JJ to/TO an/DT advertisement/NN for/IN a/DT golf/NN tournament/NN on/IN Fox/NNP Sports/NNPS sponsored/VBN by/IN Sun/NNP Microsystems/NNS that/WDT featured/VBD a/DT fanciful/JJ photograph/NN of/IN a/DT gigantic/JJ ear/NN of/IN corn/NN as/IN big/JJ as/IN a/DT Buick/NNP ?/.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT _) (NNP How) (JJ many) (NNS readers))
+      (PP (IN of)
+        (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal))))
+    (VP (VBD noticed)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT an) (NN article))
+            (PP (IN on)
+              (NP
+                (NP (NN Wednesday))
+                (VP (VBG carrying)
+                  (NP (DT the) (NN headline))
+                  (ADVP (RB ``Genetically))))))
+          (VP (VBD Altered)
+            (SBAR
+              (S
+                (NP
+                  (NP (NNP Protein) (NNP Is) (NNP Found))
+                  (PP (IN in)
+                    (NP
+                      (ADJP (RB Still) (JJ More))
+                      (NNP Corn))))
+                ('' '')
+                (VP (VBD ran)
+                  (ADJP (JJ adjacent)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT an) (NN advertisement))
+                        (PP (IN for)
+                          (NP (DT a) (NN golf) (NN tournament))))))
+                  (PP (IN on)
+                    (NP
+                      (NP (NNP Fox) (NNPS Sports))
+                      (VP (VBN sponsored)
+                        (PP (IN by)
+                          (NP
+                            (NP (NNP Sun) (NNS Microsystems))
+                            (SBAR
+                              (WHNP (WDT that))
+                              (S
+                                (VP (VBD featured)
+                                  (NP
+                                    (NP (DT a) (JJ fanciful) (NN photograph))
+                                    (PP (IN of)
+                                      (NP
+                                        (NP (DT a) (JJ gigantic) (NN ear))
+                                        (PP (IN of)
+                                          (NP (NN corn))))))
+                                  (PP (IN as)
+                                    (NP
+                                      (NP (JJ big))
+                                      (PP (IN as)
+                                        (NP (DT a) (NNP Buick))))))))))))))))))))
+    (. ?)))
+
+det(readers-4, _-1)
+nn(readers-4, How-2)
+amod(readers-4, many-3)
+nsubj(noticed-10, readers-4)
+det(Journal-9, The-6)
+nn(Journal-9, Wall-7)
+nn(Journal-9, Street-8)
+prep_of(readers-4, Journal-9)
+root(ROOT-0, noticed-10)
+mark(Altered-20, that-11)
+det(article-13, an-12)
+nsubj(Altered-20, article-13)
+prep_on(article-13, Wednesday-15)
+vmod(Wednesday-15, carrying-16)
+det(headline-18, the-17)
+dobj(carrying-16, headline-18)
+advmod(carrying-16, ``Genetically-19)
+ccomp(noticed-10, Altered-20)
+nn(Found-23, Protein-21)
+nn(Found-23, Is-22)
+nsubj(ran-29, Found-23)
+advmod(More-26, Still-25)
+amod(Corn-27, More-26)
+prep_in(Found-23, Corn-27)
+ccomp(Altered-20, ran-29)
+acomp(ran-29, adjacent-30)
+det(advertisement-33, an-32)
+prep_to(adjacent-30, advertisement-33)
+det(tournament-37, a-35)
+nn(tournament-37, golf-36)
+prep_for(advertisement-33, tournament-37)
+nn(Sports-40, Fox-39)
+prep_on(ran-29, Sports-40)
+vmod(Sports-40, sponsored-41)
+nn(Microsystems-44, Sun-43)
+agent(sponsored-41, Microsystems-44)
+nsubj(featured-46, Microsystems-44)
+rcmod(Microsystems-44, featured-46)
+det(photograph-49, a-47)
+amod(photograph-49, fanciful-48)
+dobj(featured-46, photograph-49)
+det(ear-53, a-51)
+amod(ear-53, gigantic-52)
+prep_of(photograph-49, ear-53)
+prep_of(ear-53, corn-55)
+prep_as(featured-46, big-57)
+det(Buick-60, a-59)
+prep_as(big-57, Buick-60)
+
+_/PRP Doesn't/VBD a/DT new/JJ television/NN commercial/JJ for/IN Fidelity/NNP Investments/NNPS ,/, centered/VBN on/IN a/DT telephone/NN conversation/NN between/IN a/DT female/JJ employee/NN and/CC a/DT male/NN customer/NN ,/, resemble/VB a/DT Citibank/NNP campaign/NN from/IN the/DT late/JJ 1980s/NNS that/WDT was/VBD so/RB brilliantly/RB parodied/VBN as/IN the/DT ``First/JJS Citiwide/NNP Change/NNP Bank/NNP ''/'' commercials/NNS on/IN ``Saturday/NN Night/NNP Live/NNP ''?/.
+
+(ROOT
+  (S
+    (NP (PRP _))
+    (VP
+      (VP (VBD Doesn't)
+        (NP (DT a) (JJ new) (NN television))
+        (NP
+          (NP (JJ commercial))
+          (PP (IN for)
+            (NP (NNP Fidelity) (NNPS Investments)))))
+      (, ,)
+      (VP (VBN centered)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN telephone) (NN conversation))
+            (PP (IN between)
+              (NP
+                (NP (DT a) (JJ female) (NN employee))
+                (CC and)
+                (NP (DT a) (NN male) (NN customer)))))))
+      (, ,)
+      (VP (VB resemble)
+        (NP (DT a) (NNP Citibank) (NN campaign))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (JJ late) (NNS 1980s))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD was)
+                  (ADVP (RB so) (RB brilliantly))
+                  (VP (VBN parodied)
+                    (PP (IN as)
+                      (NP (DT the) (JJS ``First)))
+                    (PP
+                      (NP (NNP Citiwide) (NNP Change) (NNP Bank) ('' '') (NNS commercials))
+                      (IN on)
+                      (NP (NN ``Saturday) (NNP Night) (NNP Live)))))))))))
+    (. ''?)))
+
+nsubj(Doesn't-2, _-1)
+root(ROOT-0, Doesn't-2)
+det(television-5, a-3)
+amod(television-5, new-4)
+iobj(Doesn't-2, television-5)
+dobj(Doesn't-2, commercial-6)
+nn(Investments-9, Fidelity-8)
+prep_for(commercial-6, Investments-9)
+dep(Doesn't-2, centered-11)
+det(conversation-15, a-13)
+nn(conversation-15, telephone-14)
+prep_on(centered-11, conversation-15)
+det(employee-19, a-17)
+amod(employee-19, female-18)
+prep_between(conversation-15, employee-19)
+det(customer-23, a-21)
+nn(customer-23, male-22)
+prep_between(conversation-15, customer-23)
+conj_and(employee-19, customer-23)
+dep(Doesn't-2, resemble-25)
+det(campaign-28, a-26)
+nn(campaign-28, Citibank-27)
+xcomp(resemble-25, campaign-28)
+det(1980s-32, the-30)
+amod(1980s-32, late-31)
+prep_from(resemble-25, 1980s-32)
+nsubjpass(parodied-37, 1980s-32)
+auxpass(parodied-37, was-34)
+advmod(brilliantly-36, so-35)
+advmod(parodied-37, brilliantly-36)
+rcmod(1980s-32, parodied-37)
+det(``First-40, the-39)
+prep_as(parodied-37, ``First-40)
+nn(commercials-45, Citiwide-41)
+nn(commercials-45, Change-42)
+nn(commercials-45, Bank-43)
+dep(parodied-37, commercials-45)
+nn(Live-49, ``Saturday-47)
+nn(Live-49, Night-48)
+prep_on(parodied-37, Live-49)
+punct(Doesn't-2, ''?-50)
+
+_/DT Did/NNP shoppers/NNS at/IN the/DT New/NNP York/NNP supermarket/NN chain/NN Gristede's/NNP rush/NN to/TO take/VB advantage/NN of/IN a/DT recent/JJ sale/NN on/IN the/DT ``BIG/NNP 150-count/JJ box/NN ''/'' of/IN Scotties/NNPS facial/JJ tissues/NNS ,/, or/CC did/VBD they/PRP recall/VB that/IN Scotties/NNP has/VBZ usually/RB come/VBN in/IN a/DT 175-count/JJ box/NN ?/.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT _) (NNP Did) (NNS shoppers))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NNP New) (NNP York) (NN supermarket) (NN chain))
+            (NP (NNP Gristede's) (NN rush)))))
+      (VP (TO to)
+        (VP (VB take)
+          (NP
+            (NP (NN advantage))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (JJ recent) (NN sale))
+                (PP (IN on)
+                  (NP (DT the) (NNP ``BIG) (JJ 150-count) (NN box))))))
+          ('' '')
+          (PP (IN of)
+            (NP (NNPS Scotties)))
+          (NP (JJ facial) (NNS tissues)))))
+    (, ,)
+    (CC or)
+    (SINV (VBD did)
+      (NP (PRP they))
+      (VP (VB recall)
+        (SBAR (IN that)
+          (S
+            (NP (NNP Scotties))
+            (VP (VBZ has)
+              (ADVP (RB usually))
+              (VP (VBN come)
+                (PP (IN in)
+                  (NP (DT a) (JJ 175-count) (NN box)))))))))
+    (. ?)))
+
+det(shoppers-3, _-1)
+nn(shoppers-3, Did-2)
+nsubj(take-13, shoppers-3)
+det(chain-9, the-5)
+nn(chain-9, New-6)
+nn(chain-9, York-7)
+nn(chain-9, supermarket-8)
+prep_at(shoppers-3, chain-9)
+nn(rush-11, Gristede's-10)
+dep(chain-9, rush-11)
+aux(take-13, to-12)
+root(ROOT-0, take-13)
+dobj(take-13, advantage-14)
+det(sale-18, a-16)
+amod(sale-18, recent-17)
+prep_of(advantage-14, sale-18)
+det(box-23, the-20)
+nn(box-23, ``BIG-21)
+amod(box-23, 150-count-22)
+prep_on(sale-18, box-23)
+prep_of(take-13, Scotties-26)
+amod(tissues-28, facial-27)
+dobj(take-13, tissues-28)
+aux(recall-33, did-31)
+nsubj(recall-33, they-32)
+conj_or(take-13, recall-33)
+mark(come-38, that-34)
+nsubj(come-38, Scotties-35)
+aux(come-38, has-36)
+advmod(come-38, usually-37)
+ccomp(recall-33, come-38)
+det(box-42, a-40)
+amod(box-42, 175-count-41)
+prep_in(come-38, box-42)
+
+_/DT Can/NNP Ocean/NNP Spray/NNP Cranberries/NNPS get/VBP a/DT refund/NN on/IN a/DT full-page/JJ ad/NN that/IN ran/NN in/IN newspapers/NNS on/IN Nov/NNP ./.
+
+(ROOT
+  (S
+    (NP (DT _) (NNP Can) (NNP Ocean) (NNP Spray) (NNPS Cranberries))
+    (VP (VBP get)
+      (NP (DT a) (NN refund))
+      (PP (IN on)
+        (NP
+          (NP (DT a) (JJ full-page) (NN ad))
+          (SBAR (IN that)
+            (S
+              (VP (NN ran)
+                (PP (IN in)
+                  (NP
+                    (NP (NNS newspapers))
+                    (PP (IN on)
+                      (NP (NNP Nov)))))))))))
+    (. .)))
+
+det(Cranberries-5, _-1)
+nn(Cranberries-5, Can-2)
+nn(Cranberries-5, Ocean-3)
+nn(Cranberries-5, Spray-4)
+nsubj(get-6, Cranberries-5)
+root(ROOT-0, get-6)
+det(refund-8, a-7)
+dobj(get-6, refund-8)
+det(ad-12, a-10)
+amod(ad-12, full-page-11)
+prep_on(get-6, ad-12)
+mark(ran-14, that-13)
+dep(ad-12, ran-14)
+prep_in(ran-14, newspapers-16)
+prep_on(newspapers-16, Nov-18)
+
+8/CD and/CC carried/VBD the/DT headline/NN ``Now/NN That/IN the/DT Election/NNP Is/NNP Over/NNP ,/, You/PRP Can/VBD Focus/JJ on/IN Some/DT Real/NNP News/NNP ''?/.
+
+(ROOT
+  (S
+    (S
+      (UCP
+        (NP (CD 8))
+        (CC and)
+        (S
+          (VP (VBD carried)
+            (NP (DT the) (NN headline) (NN ``Now))
+            (SBAR (IN That)
+              (S
+                (NP (DT the) (NNP Election))
+                (VP (NNP Is)
+                  (NP (NNP Over)))))))))
+    (, ,)
+    (NP (PRP You))
+    (VP (VBD Can)
+      (ADJP (JJ Focus))
+      (PP (IN on)
+        (NP (DT Some) (NNP Real) (NNP News))))
+    (. ''?)))
+
+ccomp(Focus-15, 8-1)
+conj_and(8-1, carried-3)
+ccomp(Focus-15, carried-3)
+det(``Now-6, the-4)
+nn(``Now-6, headline-5)
+dobj(carried-3, ``Now-6)
+mark(Over-11, That-7)
+det(Election-9, the-8)
+nsubj(Over-11, Election-9)
+dep(Over-11, Is-10)
+ccomp(carried-3, Over-11)
+nsubj(Focus-15, You-13)
+dep(Focus-15, Can-14)
+root(ROOT-0, Focus-15)
+det(News-19, Some-17)
+nn(News-19, Real-18)
+prep_on(Focus-15, News-19)
+punct(Focus-15, ''?-20)
+
+_/DT Was/NNP it/PRP a/DT coincidence/NN that/IN an/DT ad/NN for/IN the/DT Carnation/NN Coffee-mate/JJ line/NN of/IN coffee/NN creamers/NNS in/IN the/DT recent/JJ issue/NN of/IN In/IN Style/NNP Entertaining/NNP 2000/CD magazine/NN ran/NN opposite/IN an/DT article/NN about/IN ``great/NN trends/NNS ''/'' in/IN party-giving/VBG that/DT began/NN by/IN describing/VBG carnations/NNS as/IN ``the/DT chic/JJ flower/NN of/IN the/DT moment/NN ''?/.
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT _))
+        (SBAR
+          (S
+            (VP (NNP Was)
+              (S
+                (NP (PRP it))
+                (NP
+                  (NP (DT a) (NN coincidence))
+                  (PP (IN that)
+                    (NP
+                      (NP (DT an) (NN ad))
+                      (PP (IN for)
+                        (NP
+                          (NP (DT the) (NN Carnation) (JJ Coffee-mate) (NN line))
+                          (PP (IN of)
+                            (NP
+                              (NP (NN coffee) (NNS creamers))
+                              (PP (IN in)
+                                (NP (DT the) (JJ recent) (NN issue))))))))))
+                (PP (IN of) (IN In)
+                  (NP (NNP Style) (NNP Entertaining))))))))
+      (NP (CD 2000) (NN magazine)))
+    (VP (NN ran)
+      (PP (IN opposite)
+        (NP
+          (NP (DT an) (NN article))
+          (PP (IN about)
+            (NP
+              (NP (NN ``great) (NNS trends))
+              ('' '')
+              (PP (IN in)
+                (S
+                  (VP (VBG party-giving)
+                    (NP (DT that) (NN began))
+                    (PP (IN by)
+                      (S
+                        (VP (VBG describing)
+                          (NP (NNS carnations))
+                          (PP (IN as)
+                            (NP
+                              (NP (DT ``the) (JJ chic) (NN flower))
+                              (PP (IN of)
+                                (NP (DT the) (NN moment))))))))))))))))
+    (. ''?)))
+
+nsubj(ran-27, _-1)
+rcmod(_-1, Was-2)
+nsubj(coincidence-5, it-3)
+det(coincidence-5, a-4)
+xcomp(Was-2, coincidence-5)
+det(ad-8, an-7)
+prep_that(coincidence-5, ad-8)
+det(line-13, the-10)
+nn(line-13, Carnation-11)
+amod(line-13, Coffee-mate-12)
+prep_for(ad-8, line-13)
+nn(creamers-16, coffee-15)
+prep_of(line-13, creamers-16)
+det(issue-20, the-18)
+amod(issue-20, recent-19)
+prep_in(creamers-16, issue-20)
+dep(In-22, of-21)
+dep(coincidence-5, In-22)
+nn(Entertaining-24, Style-23)
+pobj(In-22, Entertaining-24)
+num(magazine-26, 2000-25)
+dep(_-1, magazine-26)
+root(ROOT-0, ran-27)
+det(article-30, an-29)
+prep_opposite(ran-27, article-30)
+nn(trends-33, ``great-32)
+prep_about(article-30, trends-33)
+prepc_in(trends-33, party-giving-36)
+det(began-38, that-37)
+dobj(party-giving-36, began-38)
+prepc_by(party-giving-36, describing-40)
+dobj(describing-40, carnations-41)
+det(flower-45, ``the-43)
+amod(flower-45, chic-44)
+prep_as(describing-40, flower-45)
+det(moment-48, the-47)
+prep_of(flower-45, moment-48)
+punct(ran-27, ''?-49)
+
+_/PRP Should/VBD an/DT English/JJ teacher/NN have/VBP been/VBN consulted/VBN before/IN the/DT Tropicana/NNP division/NN of/IN PepsiCo/NNP produced/VBD posters/NNS that/IN described/VBD its/PRP$ Pure/NN Premium/NNP orange/NN juice/NN as/IN being/VBG ``as/NNS packed/VBN with/IN Vitamin/NNP C/NNP as/IN a/DT bus/NN on/IN a/DT rainy/NN day/NN ''?/.
+
+(ROOT
+  (S
+    (NP (PRP _))
+    (VP (VBD Should)
+      (SBAR
+        (S
+          (NP (DT an) (JJ English) (NN teacher))
+          (VP (VBP have)
+            (VP (VBN been)
+              (VP (VBN consulted)
+                (SBAR (IN before)
+                  (S
+                    (NP
+                      (NP (DT the) (NNP Tropicana) (NN division))
+                      (PP (IN of)
+                        (NP (NNP PepsiCo))))
+                    (VP (VBD produced)
+                      (SBAR
+                        (S
+                          (NP
+                            (NP (NNS posters))
+                            (SBAR
+                              (WHNP (IN that))
+                              (S
+                                (VP (VBD described)
+                                  (NP (PRP$ its) (NN Pure) (NNP Premium) (NN orange))))))
+                          (VP (NN juice)
+                            (PP (IN as)
+                              (S
+                                (VP (VBG being)
+                                  (NP
+                                    (NP (NNS ``as))
+                                    (VP (VBN packed)
+                                      (PP (IN with)
+                                        (NP
+                                          (NP (NNP Vitamin) (NNP C))
+                                          (PP (IN as)
+                                            (NP
+                                              (NP (DT a) (NN bus))
+                                              (PP (IN on)
+                                                (NP (DT a) (NN rainy) (NN day))))))))))))))))))))))))
+    (. ''?)))
+
+nsubj(Should-2, _-1)
+root(ROOT-0, Should-2)
+det(teacher-5, an-3)
+amod(teacher-5, English-4)
+nsubjpass(consulted-8, teacher-5)
+aux(consulted-8, have-6)
+auxpass(consulted-8, been-7)
+ccomp(Should-2, consulted-8)
+mark(produced-15, before-9)
+det(division-12, the-10)
+nn(division-12, Tropicana-11)
+nsubj(produced-15, division-12)
+prep_of(division-12, PepsiCo-14)
+advcl(consulted-8, produced-15)
+nsubj(described-18, posters-16)
+nsubj(juice-23, posters-16)
+rcmod(posters-16, described-18)
+poss(orange-22, its-19)
+nn(orange-22, Pure-20)
+nn(orange-22, Premium-21)
+dobj(described-18, orange-22)
+ccomp(produced-15, juice-23)
+cop(``as-26, being-25)
+prepc_as(juice-23, ``as-26)
+vmod(``as-26, packed-27)
+nn(C-30, Vitamin-29)
+prep_with(packed-27, C-30)
+det(bus-33, a-32)
+prep_as(C-30, bus-33)
+det(day-37, a-35)
+nn(day-37, rainy-36)
+prep_on(bus-33, day-37)
+punct(Should-2, ''?-38)
+
+_/DT Will/NNP Jack/NNP Nicholson/NNP ,/, Helen/NNP Hunt/NNP ,/, Greg/NNP Kinnear/NNP and/CC James/NNP L./NNP Brooks/NNPS complain/NN about/IN an/DT ad/NN from/IN Campbell/NNP Soup/NNP Co/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT _) (NNP Will) (NNP Jack) (NNP Nicholson))
+      (, ,)
+      (NP (NNP Helen) (NNP Hunt))
+      (, ,)
+      (NP (NNP Greg) (NNP Kinnear))
+      (CC and)
+      (NP (NNP James) (NNP L.) (NNPS Brooks)))
+    (VP (NN complain)
+      (PP (IN about)
+        (NP (DT an) (NN ad)))
+      (PP (IN from)
+        (NP (NNP Campbell) (NNP Soup) (NNP Co))))
+    (. .)))
+
+det(Nicholson-4, _-1)
+nn(Nicholson-4, Will-2)
+nn(Nicholson-4, Jack-3)
+nsubj(complain-15, Nicholson-4)
+nn(Hunt-7, Helen-6)
+conj_and(Nicholson-4, Hunt-7)
+nsubj(complain-15, Hunt-7)
+nn(Kinnear-10, Greg-9)
+conj_and(Nicholson-4, Kinnear-10)
+nsubj(complain-15, Kinnear-10)
+nn(Brooks-14, James-12)
+nn(Brooks-14, L.-13)
+conj_and(Nicholson-4, Brooks-14)
+nsubj(complain-15, Brooks-14)
+root(ROOT-0, complain-15)
+det(ad-18, an-17)
+prep_about(complain-15, ad-18)
+nn(Co-22, Campbell-20)
+nn(Co-22, Soup-21)
+prep_from(complain-15, Co-22)
+
+for/IN Campbell/NNP 's/POS Cream/NNP of/IN Mushroom/NNP soup/NN that/WDT carried/VBD the/DT slogan/NN ``As/IN m'm/NN !/.
+
+(ROOT
+  (PP (IN for)
+    (NP
+      (NP
+        (NP (NNP Campbell) (POS 's))
+        (NNP Cream))
+      (PP (IN of)
+        (NP (NNP Mushroom) (NN soup)))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD carried)
+            (NP (DT the) (NN slogan))
+            (PP (IN ``As)
+              (NP (NN m'm)))))))
+    (. !)))
+
+root(ROOT-0, for-1)
+poss(Cream-4, Campbell-2)
+pobj(for-1, Cream-4)
+nsubj(carried-9, Cream-4)
+nn(soup-7, Mushroom-6)
+prep_of(Cream-4, soup-7)
+rcmod(Cream-4, carried-9)
+det(slogan-11, the-10)
+dobj(carried-9, slogan-11)
+prep_``as(carried-9, m'm-13)
+
+m'm/NN !/.
+
+(ROOT
+  (NP (NN m'm) (. !)))
+
+root(ROOT-0, m'm-1)
+
+good/JJ !/.
+
+(ROOT
+  (FRAG
+    (ADJP (JJ good))
+    (. !)))
+
+root(ROOT-0, good-1)
+
+as/IN it/PRP gets/VBZ ''?/.
+
+(ROOT
+  (FRAG
+    (SBAR (IN as)
+      (S
+        (NP (PRP it))
+        (VP (VBZ gets))))
+    (. ''?)))
+
+mark(gets-3, as-1)
+nsubj(gets-3, it-2)
+root(ROOT-0, gets-3)
+punct(gets-3, ''?-4)
+
+_/DT Now/RB that/IN the/DT Roundabout/NNP Theater/NNP Company/NNP is/VBZ calling/VBG its/PRP$ new/JJ facility/NN in/IN Times/NNP Square/IN the/DT American/NNP Airlines/NNPS Theater/NNP ,/, will/MD the/DT ushers/NNS give/VBP out/RB peanuts/NNS instead/RB of/IN Playbills/NNS ?/.
+
+(ROOT
+  (SQ
+    (S
+      (NP
+        (NP (DT _))
+        (PP
+          (ADVP (RB Now))
+          (IN that)
+          (NP (DT the) (NNP Roundabout) (NNP Theater) (NNP Company))))
+      (VP (VBZ is)
+        (VP (VBG calling)
+          (NP (PRP$ its) (JJ new) (NN facility))
+          (PP (IN in)
+            (NP (NNP Times)))
+          (PP (IN Square)
+            (NP (DT the) (NNP American) (NNPS Airlines) (NNP Theater))))))
+    (, ,)
+    (SQ (MD will)
+      (NP (DT the) (NNS ushers))
+      (VP (VBP give)
+        (PRT (RB out))
+        (NP
+          (NP (NNS peanuts))
+          (PP (RB instead) (IN of)
+            (NP (NNS Playbills))))))
+    (. ?)))
+
+nsubj(calling-9, _-1)
+advmod(_-1, Now-2)
+det(Company-7, the-4)
+nn(Company-7, Roundabout-5)
+nn(Company-7, Theater-6)
+prep_that(_-1, Company-7)
+aux(calling-9, is-8)
+dep(give-24, calling-9)
+poss(facility-12, its-10)
+amod(facility-12, new-11)
+dobj(calling-9, facility-12)
+prep_in(calling-9, Times-14)
+det(Theater-19, the-16)
+nn(Theater-19, American-17)
+nn(Theater-19, Airlines-18)
+prep_square(calling-9, Theater-19)
+aux(give-24, will-21)
+det(ushers-23, the-22)
+nsubj(give-24, ushers-23)
+root(ROOT-0, give-24)
+prt(give-24, out-25)
+dobj(give-24, peanuts-26)
+prep_instead_of(peanuts-26, Playbills-29)
+
+_/DT Why/NN did/VBD the/DT Reader's/NNP Digest/NNP Association/NNP go/VB to/TO the/DT trouble/NN of/IN airbrushing/VBG the/DT identifying/VBG information/NN from/IN a/DT label/NN on/IN a/DT pair/NN of/IN jeans/NNS worn/VBN by/IN a/DT man/NN in/IN a/DT photograph/NN featured/VBN in/IN an/DT ad/NN for/IN Reader's/NNP Digest/NNP magazine/NN ,/, but/CC leave/JJ the/DT red/JJ tab/NN on/IN the/DT back/JJ pocket/NN that/IN tells/NNS everyone/IN the/DT pants/NNS are/VBP Levi/NNP 's/POS ?/.
+
+(ROOT
+  (S
+    (NP (DT _) (NN Why))
+    (VP
+      (VP (VBD did)
+        (S
+          (NP (DT the) (NNP Reader's) (NNP Digest) (NNP Association))
+          (VP (VB go)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN trouble))
+                (PP (IN of)
+                  (S
+                    (VP (VBG airbrushing)
+                      (NP (DT the) (VBG identifying) (NN information))
+                      (PP (IN from)
+                        (NP (DT a) (NN label)))
+                      (PP (IN on)
+                        (NP
+                          (NP (DT a) (NN pair))
+                          (PP (IN of)
+                            (NP
+                              (NP (NNS jeans))
+                              (VP (VBN worn)
+                                (PP (IN by)
+                                  (NP
+                                    (NP (DT a) (NN man))
+                                    (PP (IN in)
+                                      (NP
+                                        (NP (DT a) (NN photograph))
+                                        (VP (VBN featured)
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT an) (NN ad))
+                                              (PP (IN for)
+                                                (NP (NNP Reader's) (NNP Digest) (NN magazine)))))))))))))))))))))))
+      (, ,)
+      (CC but)
+      (VP (JJ leave)
+        (NP
+          (NP (DT the) (JJ red) (NN tab))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (JJ back) (NN pocket))
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NNS tells))
+                    (PP (IN everyone)
+                      (NP (DT the) (NNS pants))))
+                  (VP (VBP are)
+                    (NP (NNP Levi) (POS 's))))))))))
+    (. ?)))
+
+det(Why-2, _-1)
+nsubj(did-3, Why-2)
+nsubj(leave-42, Why-2)
+root(ROOT-0, did-3)
+det(Association-7, the-4)
+nn(Association-7, Reader's-5)
+nn(Association-7, Digest-6)
+nsubj(go-8, Association-7)
+ccomp(did-3, go-8)
+det(trouble-11, the-10)
+prep_to(go-8, trouble-11)
+prepc_of(trouble-11, airbrushing-13)
+det(information-16, the-14)
+amod(information-16, identifying-15)
+dobj(airbrushing-13, information-16)
+det(label-19, a-18)
+prep_from(airbrushing-13, label-19)
+det(pair-22, a-21)
+prep_on(airbrushing-13, pair-22)
+prep_of(pair-22, jeans-24)
+vmod(jeans-24, worn-25)
+det(man-28, a-27)
+agent(worn-25, man-28)
+det(photograph-31, a-30)
+prep_in(man-28, photograph-31)
+vmod(photograph-31, featured-32)
+det(ad-35, an-34)
+prep_in(featured-32, ad-35)
+nn(magazine-39, Reader's-37)
+nn(magazine-39, Digest-38)
+prep_for(ad-35, magazine-39)
+conj_but(did-3, leave-42)
+det(tab-45, the-43)
+amod(tab-45, red-44)
+dobj(leave-42, tab-45)
+det(pocket-49, the-47)
+amod(pocket-49, back-48)
+prep_on(tab-45, pocket-49)
+mark(Levi-56, that-50)
+nsubj(Levi-56, tells-51)
+det(pants-54, the-53)
+prep_everyone(tells-51, pants-54)
+cop(Levi-56, are-55)
+dep(pocket-49, Levi-56)
+possessive(Levi-56, 's-57)
+
+_/DT Do/NNP television/NN commercials/NNS for/IN prescription/NN drugs/NNS disclose/VBP that/IN side/JJ effects/NNS in/IN tests/NNS were/VBD no/DT worse/NN ``than/VBD a/DT sugar/NN pill/NN ''/'' because/IN research/NN found/VBD that/IN consumers/NNS weren't/JJ familiar/NN with/IN the/DT word/JJ ``placebo/NN ''?/.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT _) (NNP Do) (NN television) (NNS commercials))
+      (PP (IN for)
+        (NP (NN prescription) (NNS drugs))))
+    (VP (VBP disclose)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ side) (NNS effects))
+            (PP (IN in)
+              (NP (NNS tests))))
+          (VP (VBD were)
+            (NP
+              (NP (DT no) (NN worse))
+              (SBAR
+                (S
+                  (VP (VBD ``than)
+                    (NP (DT a) (NN sugar) (NN pill) ('' ''))
+                    (PP (IN because)
+                      (NP
+                        (NP (NN research))
+                        (VP (VBD found)
+                          (SBAR (IN that)
+                            (S
+                              (NP (NNS consumers))
+                              (ADJP (JJ weren't) (NN familiar)
+                                (PP (IN with)
+                                  (NP (DT the) (JJ word) (NN ``placebo)))))))))))))))))
+    (. ''?)))
+
+det(commercials-4, _-1)
+nn(commercials-4, Do-2)
+nn(commercials-4, television-3)
+nsubj(disclose-8, commercials-4)
+nn(drugs-7, prescription-6)
+prep_for(commercials-4, drugs-7)
+root(ROOT-0, disclose-8)
+mark(worse-16, that-9)
+amod(effects-11, side-10)
+nsubj(worse-16, effects-11)
+prep_in(effects-11, tests-13)
+cop(worse-16, were-14)
+neg(worse-16, no-15)
+ccomp(disclose-8, worse-16)
+rcmod(worse-16, ``than-17)
+det(pill-20, a-18)
+nn(pill-20, sugar-19)
+dobj(``than-17, pill-20)
+prep_because(``than-17, research-23)
+vmod(research-23, found-24)
+mark(familiar-28, that-25)
+dep(familiar-28, consumers-26)
+dep(familiar-28, weren't-27)
+dep(found-24, familiar-28)
+det(``placebo-32, the-30)
+amod(``placebo-32, word-31)
+prep_with(familiar-28, ``placebo-32)
+punct(disclose-8, ''?-33)
+
+_/DT What/WP was/VBD in/IN the/DT zeitgeist/NN that/WDT led/VBD two/CD disparate/JJ advertisers/NNS _/IN Empire/NNP Blue/NNP Cross/NNP Blue/NNP Shield/NNP and/CC the/DT MSN/NNP network/NN of/IN Microsoft/NNP _/NNP to/TO introduce/VB about/IN the/DT same/JJ time/NN campaigns/NN centered/VBD on/IN butterflies/NNS ?/.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT _))
+      (SBAR
+        (WHNP (WP What))
+        (S
+          (VP (VBD was)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN zeitgeist))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBD led)
+                      (NP (CD two) (JJ disparate) (NNS advertisers))
+                      (PP (IN _)
+                        (NP
+                          (NP (NNP Empire) (NNP Blue) (NNP Cross) (NNP Blue) (NNP Shield))
+                          (CC and)
+                          (NP
+                            (NP (DT the) (NNP MSN) (NN network))
+                            (PP (IN of)
+                              (NP (NNP Microsoft) (NNP _))))))
+                      (S
+                        (VP (TO to)
+                          (VP (VB introduce)
+                            (PP (IN about)
+                              (NP (DT the) (JJ same) (NN time) (NN campaigns)))))))))))))))
+    (VP (VBD centered)
+      (PP (IN on)
+        (NP (NNS butterflies))))
+    (. ?)))
+
+nsubj(was-3, _-1)
+nsubj(centered-32, _-1)
+rcmod(_-1, was-3)
+det(zeitgeist-6, the-5)
+prep_in(was-3, zeitgeist-6)
+nsubj(led-8, zeitgeist-6)
+rcmod(zeitgeist-6, led-8)
+num(advertisers-11, two-9)
+amod(advertisers-11, disparate-10)
+dobj(led-8, advertisers-11)
+nn(Shield-17, Empire-13)
+nn(Shield-17, Blue-14)
+nn(Shield-17, Cross-15)
+nn(Shield-17, Blue-16)
+prep__(led-8, Shield-17)
+det(network-21, the-19)
+nn(network-21, MSN-20)
+prep__(led-8, network-21)
+conj_and(Shield-17, network-21)
+nn(_-24, Microsoft-23)
+prep_of(network-21, _-24)
+aux(introduce-26, to-25)
+vmod(led-8, introduce-26)
+det(campaigns-31, the-28)
+amod(campaigns-31, same-29)
+nn(campaigns-31, time-30)
+prep_about(introduce-26, campaigns-31)
+root(ROOT-0, centered-32)
+prep_on(centered-32, butterflies-34)
+
+_/DT And/CC what/WP was/VBD in/IN the/DT zeitgeist/NN that/WDT led/VBD two/CD automotive/JJ marketers/NNS _/IN Land/NNP Rover/NNP and/CC Volvo/NNP _/NNP to/TO introduce/VB about/IN the/DT same/JJ time/NN commercials/NNS centered/VBD on/IN drivers/NNS rescuing/VBG animals/NNS on/IN rainy/NN roads/NNS ?/.
+
+(ROOT
+  (FRAG
+    (NP (DT _))
+    (SBAR (CC And)
+      (WHNP (WP what))
+      (S
+        (VP (VBD was)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN zeitgeist))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD led)
+                    (NP (CD two) (JJ automotive) (NNS marketers))
+                    (PP (IN _)
+                      (NP
+                        (NP (NNP Land) (NNP Rover))
+                        (CC and)
+                        (NP (NNP Volvo) (NNP _))))
+                    (S
+                      (VP (TO to)
+                        (VP (VB introduce)
+                          (PP (IN about)
+                            (NP
+                              (NP (DT the) (JJ same) (NN time))
+                              (SBAR
+                                (S
+                                  (NP (NNS commercials))
+                                  (VP (VBD centered)
+                                    (PP (IN on)
+                                      (NP (NNS drivers)))
+                                    (S
+                                      (VP (VBG rescuing)
+                                        (NP (NNS animals))
+                                        (PP (IN on)
+                                          (NP (NN rainy) (NNS roads))))))))))))))))))))
+      (. ?))))
+
+root(ROOT-0, _-1)
+cc(was-4, And-2)
+nsubj(was-4, what-3)
+dep(_-1, was-4)
+det(zeitgeist-7, the-6)
+prep_in(was-4, zeitgeist-7)
+nsubj(led-9, zeitgeist-7)
+rcmod(zeitgeist-7, led-9)
+num(marketers-12, two-10)
+amod(marketers-12, automotive-11)
+dobj(led-9, marketers-12)
+nn(Rover-15, Land-14)
+prep__(led-9, Rover-15)
+nn(_-18, Volvo-17)
+prep__(led-9, _-18)
+conj_and(Rover-15, _-18)
+aux(introduce-20, to-19)
+vmod(led-9, introduce-20)
+det(time-24, the-22)
+amod(time-24, same-23)
+prep_about(introduce-20, time-24)
+nsubj(centered-26, commercials-25)
+rcmod(time-24, centered-26)
+prep_on(centered-26, drivers-28)
+xcomp(centered-26, rescuing-29)
+dobj(rescuing-29, animals-30)
+nn(roads-33, rainy-32)
+prep_on(rescuing-29, roads-33)
+
+_/DT Are/NNP folks/NNS old/JJ enough/JJ to/TO remember/VB the/DT heyday/NN of/IN the/DT radio/NN and/CC television/NN personality/NN Arthur/NNP Godfrey/NNP reminded/VBD of/IN his/PRP$ longtime/JJ greeting/NN ,/, ``How/NNP are/VBP ya/VBN ?,''/IN every/JJ time/NN they/PRP hear/VBP the/DT name/NN of/IN the/DT new/JJ Lucent/JJ Technologies/NNPS spinoff/NN company/NN ,/, Avaya/NNP Communication/NNP ?/.
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (DT _) (NNP Are) (NNS folks))
+      (ADJP (JJ old)))
+    (ADJP (JJ enough)
+      (S
+        (VP (TO to)
+          (VP (VB remember)
+            (NP
+              (NP (DT the) (NN heyday))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN radio)
+                    (CC and)
+                    (NN television) (NN personality))
+                  (SBAR
+                    (S
+                      (NP (NNP Arthur) (NNP Godfrey))
+                      (VP (VBD reminded)
+                        (SBAR
+                          (S
+                            (PP (IN of)
+                              (NP (PRP$ his) (JJ longtime) (NN greeting)))
+                            (, ,)
+                            (NP (NNP ``How))
+                            (VP (VBP are)
+                              (VP (VBN ya)
+                                (PP (IN ?,'')
+                                  (NP
+                                    (NP (JJ every) (NN time))
+                                    (SBAR
+                                      (S
+                                        (NP (PRP they))
+                                        (VP (VBP hear)
+                                          (NP
+                                            (NP (DT the) (NN name))
+                                            (PP (IN of)
+                                              (NP (DT the) (JJ new) (JJ Lucent) (NNPS Technologies))))
+                                          (NP
+                                            (NP (NN spinoff) (NN company))
+                                            (, ,)
+                                            (NP (NNP Avaya) (NNP Communication))))))))))))))))))))))
+    (. ?)))
+
+det(folks-3, _-1)
+nn(folks-3, Are-2)
+root(ROOT-0, folks-3)
+amod(folks-3, old-4)
+dep(folks-3, enough-5)
+aux(remember-7, to-6)
+xcomp(enough-5, remember-7)
+det(heyday-9, the-8)
+dobj(remember-7, heyday-9)
+det(personality-15, the-11)
+nn(personality-15, radio-12)
+conj_and(radio-12, television-14)
+nn(personality-15, television-14)
+prep_of(heyday-9, personality-15)
+nn(Godfrey-17, Arthur-16)
+nsubj(reminded-18, Godfrey-17)
+rcmod(personality-15, reminded-18)
+poss(greeting-22, his-20)
+amod(greeting-22, longtime-21)
+prep_of(ya-26, greeting-22)
+nsubjpass(ya-26, ``How-24)
+auxpass(ya-26, are-25)
+ccomp(reminded-18, ya-26)
+amod(time-29, every-28)
+prep_?,''(ya-26, time-29)
+nsubj(hear-31, they-30)
+rcmod(time-29, hear-31)
+det(name-33, the-32)
+iobj(hear-31, name-33)
+det(Technologies-38, the-35)
+amod(Technologies-38, new-36)
+amod(Technologies-38, Lucent-37)
+prep_of(name-33, Technologies-38)
+nn(company-40, spinoff-39)
+dobj(hear-31, company-40)
+nn(Communication-43, Avaya-42)
+appos(company-40, Communication-43)
+
+_/DT How/NNP appealing/NN was/VBD a/DT recent/JJ offer/NN made/VBN by/IN Sprint/NNP Communications/NNPS Co/NNP ./.
+
+(ROOT
+  (S
+    (NP (DT _) (NNP How) (NN appealing))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (JJ recent) (NN offer))
+        (VP (VBN made)
+          (PP (IN by)
+            (NP (NNP Sprint) (NNPS Communications) (NNP Co))))))
+    (. .)))
+
+det(appealing-3, _-1)
+nn(appealing-3, How-2)
+nsubj(offer-7, appealing-3)
+cop(offer-7, was-4)
+det(offer-7, a-5)
+amod(offer-7, recent-6)
+root(ROOT-0, offer-7)
+vmod(offer-7, made-8)
+nn(Co-12, Sprint-10)
+nn(Co-12, Communications-11)
+agent(made-8, Co-12)
+
+to/TO give/VB buyers/NNS of/IN a/DT Sprint/JJ PCS/NNP telephone/NN and/CC a/DT calling/VBG plan/NN a/DT free/JJ ``pre-owned/JJ phone/NN ''?/.
+
+(ROOT
+  (S
+    (VP (TO to)
+      (VP (VB give)
+        (NP
+          (NP (NNS buyers))
+          (PP (IN of)
+            (NP (DT a) (JJ Sprint) (NNP PCS))))
+        (NP
+          (NP (NN telephone)
+            (CC and)
+            (DT a))
+          (VP (VBG calling)
+            (NP (NN plan))
+            (NP (DT a) (JJ free) (JJ ``pre-owned) (NN phone))))))
+    (. ''?)))
+
+aux(give-2, to-1)
+root(ROOT-0, give-2)
+iobj(give-2, buyers-3)
+det(PCS-7, a-5)
+amod(PCS-7, Sprint-6)
+prep_of(buyers-3, PCS-7)
+dobj(give-2, telephone-8)
+dobj(give-2, a-10)
+conj_and(telephone-8, a-10)
+vmod(telephone-8, calling-11)
+iobj(calling-11, plan-12)
+det(phone-16, a-13)
+amod(phone-16, free-14)
+amod(phone-16, ``pre-owned-15)
+dobj(calling-11, phone-16)
+punct(give-2, ''?-17)
+
+_/DT Was/NNP it/PRP an/DT inside/NN joke/NN that/IN the/DT name/NN of/IN the/DT character/NN played/VBN by/IN John/NNP Corbett/NNP on/IN ``Sex/NNP and/CC the/DT City/NNP ,''/NNP Aidan/NNP Shaw/NNP ,/, was/VBD almost/RB identical/JJ to/TO the/DT name/NN of/IN a/DT longtime/JJ star/NN of/IN gay/NN sex/NN films/NNS ,/, Aiden/VBN Shaw/NNP ?/.
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT _))
+        (SBAR
+          (S
+            (VP (NNP Was)
+              (S
+                (NP (PRP it))
+                (NP (DT an) (NN inside) (NN joke)))))))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN name))
+            (PP (IN of)
+              (NP (DT the) (NN character))))
+          (VP (VBN played)
+            (PP (IN by)
+              (NP
+                (NP (NNP John) (NNP Corbett))
+                (PP (IN on)
+                  (NP
+                    (NP (NNP ``Sex))
+                    (CC and)
+                    (NP (DT the) (NNP City) (NNP ,'') (NNP Aidan) (NNP Shaw)))))))))
+      (, ,))
+    (VP (VBD was)
+      (ADJP (RB almost) (JJ identical)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN name))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (JJ longtime) (NN star))
+                (PP (IN of)
+                  (NP (NN gay) (NN sex) (NNS films)))))
+            (, ,)
+            (VP (VBN Aiden)
+              (NP (NNP Shaw)))))))
+    (. ?)))
+
+nsubj(identical-28, _-1)
+rcmod(_-1, Was-2)
+nsubj(joke-6, it-3)
+det(joke-6, an-4)
+nn(joke-6, inside-5)
+xcomp(Was-2, joke-6)
+mark(played-13, that-7)
+det(name-9, the-8)
+nsubj(played-13, name-9)
+det(character-12, the-11)
+prep_of(name-9, character-12)
+dep(_-1, played-13)
+nn(Corbett-16, John-15)
+prep_by(played-13, Corbett-16)
+prep_on(Corbett-16, ``Sex-18)
+det(Shaw-24, the-20)
+nn(Shaw-24, City-21)
+nn(Shaw-24, ,''-22)
+nn(Shaw-24, Aidan-23)
+prep_on(Corbett-16, Shaw-24)
+conj_and(``Sex-18, Shaw-24)
+cop(identical-28, was-26)
+advmod(identical-28, almost-27)
+root(ROOT-0, identical-28)
+det(name-31, the-30)
+prep_to(identical-28, name-31)
+det(star-35, a-33)
+amod(star-35, longtime-34)
+prep_of(name-31, star-35)
+nn(films-39, gay-37)
+nn(films-39, sex-38)
+prep_of(star-35, films-39)
+vmod(name-31, Aiden-41)
+dobj(Aiden-41, Shaw-42)
+
+_/DT How/NNP many/JJ tickets/NNS did/VBD the/DT Houston/NNP Grand/NNP Opera/NNP sell/NN after/IN mailing/VBG out/RP a/DT promotional/JJ brochure/NN featuring/VBG photographs/NNS of/IN cattle/NN with/IN headlines/NNS like/IN ``It/NNP 's/POS udderly/JJ fantastic/JJ entertainment/NN !''/.
+
+(ROOT
+  (S
+    (NP (DT _) (NNP How) (JJ many) (NNS tickets))
+    (VP (VBD did)
+      (NP (DT the) (NNP Houston) (NNP Grand) (NNP Opera) (NN sell))
+      (PP (IN after)
+        (S
+          (VP (VBG mailing)
+            (PRT (RP out))
+            (NP (DT a) (JJ promotional) (NN brochure))
+            (S
+              (VP (VBG featuring)
+                (NP
+                  (NP (NNS photographs))
+                  (PP (IN of)
+                    (NP (NN cattle))))
+                (PP (IN with)
+                  (NP
+                    (NP (NNS headlines))
+                    (PP (IN like)
+                      (NP
+                        (NP (NNP ``It) (POS 's))
+                        (ADJP (JJ udderly) (JJ fantastic))
+                        (NN entertainment)))))))))))
+    (. !'')))
+
+det(tickets-4, _-1)
+nn(tickets-4, How-2)
+amod(tickets-4, many-3)
+nsubj(did-5, tickets-4)
+root(ROOT-0, did-5)
+det(sell-10, the-6)
+nn(sell-10, Houston-7)
+nn(sell-10, Grand-8)
+nn(sell-10, Opera-9)
+dobj(did-5, sell-10)
+prepc_after(did-5, mailing-12)
+prt(mailing-12, out-13)
+det(brochure-16, a-14)
+amod(brochure-16, promotional-15)
+dobj(mailing-12, brochure-16)
+vmod(mailing-12, featuring-17)
+dobj(featuring-17, photographs-18)
+prep_of(photographs-18, cattle-20)
+prep_with(featuring-17, headlines-22)
+poss(entertainment-28, ``It-24)
+amod(fantastic-27, udderly-26)
+amod(entertainment-28, fantastic-27)
+prep_like(headlines-22, entertainment-28)
+punct(did-5, !''-29)
+
+and/CC ``Great/JJ opera/NN ./.
+
+(ROOT
+  (FRAG (CC and)
+    (NP (JJ ``Great) (NN opera) (. .))))
+
+cc(opera-3, and-1)
+amod(opera-3, ``Great-2)
+root(ROOT-0, opera-3)
+
+No/DT bull/NN .''?/.
+
+(ROOT
+  (NP (DT No) (NN bull) (. .''?)))
+
+neg(bull-2, No-1)
+root(ROOT-0, bull-2)
+punct(bull-2, .''?-3)
+
+_/DT If/IN CBS/NNP shows/VBZ the/DT first/JJ episode/NN of/IN ``Survivor/PRP$ II/NNP ''/'' after/IN its/PRP$ broadcast/NN of/IN Super/NNP Bowl/NNP XXXV/NNP ,/, will/MD the/DT network/NN someday/RB show/VB the/DT first/JJ episode/NN of/IN ``Survivor/NN XXXV/. ''/'' after/IN its/PRP$ broadcast/NN of/IN Super/NNP Bowl/NNP LXVIII/NNP ?/.
+
+(ROOT
+  (SQ
+    (SBAR
+      (WHNP
+        (NP (DT _))
+        (PP (IN If)
+          (NP (NNP CBS))))
+      (S
+        (VP (VBZ shows)
+          (NP
+            (NP (DT the) (JJ first) (NN episode))
+            (PP (IN of)
+              (NP
+                (NP (PRP$ ``Survivor) (NNP II))
+                ('' '')
+                (PP (IN after)
+                  (NP
+                    (NP (PRP$ its) (NN broadcast))
+                    (PP (IN of)
+                      (NP (NNP Super) (NNP Bowl) (NNP XXXV)))))))))))
+    (, ,) (MD will)
+    (NP (DT the) (NN network))
+    (ADVP (RB someday))
+    (VP (VB show)
+      (NP
+        (NP (DT the) (JJ first) (NN episode))
+        (PP (IN of)
+          (NP (NN ``Survivor))))
+      (. XXXV) ('' '')
+      (PP (IN after)
+        (NP
+          (NP (PRP$ its) (NN broadcast))
+          (PP (IN of)
+            (NP (NNP Super) (NNP Bowl) (NNP LXVIII))))))
+    (. ?)))
+
+nsubj(shows-4, _-1)
+prep_if(_-1, CBS-3)
+dep(show-24, shows-4)
+det(episode-7, the-5)
+amod(episode-7, first-6)
+dobj(shows-4, episode-7)
+poss(II-10, ``Survivor-9)
+prep_of(episode-7, II-10)
+poss(broadcast-14, its-13)
+prep_after(II-10, broadcast-14)
+nn(XXXV-18, Super-16)
+nn(XXXV-18, Bowl-17)
+prep_of(broadcast-14, XXXV-18)
+aux(show-24, will-20)
+det(network-22, the-21)
+nsubj(show-24, network-22)
+advmod(show-24, someday-23)
+root(ROOT-0, show-24)
+det(episode-27, the-25)
+amod(episode-27, first-26)
+dobj(show-24, episode-27)
+prep_of(episode-27, ``Survivor-29)
+punct(show-24, XXXV-30)
+poss(broadcast-34, its-33)
+prep_after(show-24, broadcast-34)
+nn(LXVIII-38, Super-36)
+nn(LXVIII-38, Bowl-37)
+prep_of(broadcast-34, LXVIII-38)
+
+_/DT Will/NNP cheerful/JJ chorus/NN members/NNS dressed/VBD in/IN V-neck/NNP sweaters/NNS interrupt/VB their/PRP$ serenades/NNS to/TO online/VB shopping/JJ long/JJ enough/NN to/TO tell/VB an/DT advertising/NN columnist/NN ,/, ``You/NNP ask/VBD a/DT lot/NN of/IN questions/NNS for/IN someone/RB from/IN Brooklyn/NNP ''?/.
+
+(ROOT
+  (S
+    (S
+      (NP (DT _) (NNP Will) (JJ cheerful) (NN chorus) (NNS members))
+      (VP (VBD dressed)
+        (PP (IN in)
+          (NP (NNP V-neck) (NNS sweaters)))
+        (S
+          (VP (VB interrupt)
+            (NP (PRP$ their) (NNS serenades))
+            (S
+              (VP (TO to)
+                (VP (VB online)
+                  (NP (JJ shopping) (JJ long) (NN enough))
+                  (S
+                    (VP (TO to)
+                      (VP (VB tell)
+                        (NP (DT an) (NN advertising) (NN columnist))))))))))))
+    (, ,)
+    (NP (NNP ``You))
+    (VP (VBD ask)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (NNS questions))))
+      (PP (IN for)
+        (ADVP (RB someone)))
+      (PP (IN from)
+        (NP (NNP Brooklyn))))
+    (. ''?)))
+
+det(members-5, _-1)
+nn(members-5, Will-2)
+amod(members-5, cheerful-3)
+nn(members-5, chorus-4)
+nsubj(dressed-6, members-5)
+ccomp(ask-25, dressed-6)
+nn(sweaters-9, V-neck-8)
+prep_in(dressed-6, sweaters-9)
+ccomp(dressed-6, interrupt-10)
+poss(serenades-12, their-11)
+dobj(interrupt-10, serenades-12)
+aux(online-14, to-13)
+vmod(interrupt-10, online-14)
+amod(enough-17, shopping-15)
+amod(enough-17, long-16)
+dobj(online-14, enough-17)
+aux(tell-19, to-18)
+vmod(online-14, tell-19)
+det(columnist-22, an-20)
+nn(columnist-22, advertising-21)
+dobj(tell-19, columnist-22)
+nsubj(ask-25, ``You-24)
+root(ROOT-0, ask-25)
+det(lot-27, a-26)
+dobj(ask-25, lot-27)
+prep_of(lot-27, questions-29)
+prep(ask-25, for-30)
+pcomp(for-30, someone-31)
+prep_from(ask-25, Brooklyn-33)
+punct(ask-25, ''?-34)
+
+NYT-11-23-00/CD 1717EST/CD
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-11-23-00) (CD 1717EST))))
+
+num(1717EST-2, NYT-11-23-00-1)
+root(ROOT-0, 1717EST-2)
+

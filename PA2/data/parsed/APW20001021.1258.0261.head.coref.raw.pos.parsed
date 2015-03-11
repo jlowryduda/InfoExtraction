@@ -1,0 +1,1010 @@
+APW20001021.1258.0261/DT NEWS/NNP STORY/NNPS 2000-10-21/CD 13:47:10/CD
+
+(ROOT
+  (NP
+    (NP (DT APW20001021.1258.0261))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-10-21) (CD 13:47:10))))
+
+root(ROOT-0, APW20001021.1258.0261-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001021.1258.0261-1, STORY-3)
+num(13:47:10-5, 2000-10-21-4)
+dep(APW20001021.1258.0261-1, 13:47:10-5)
+
+Ivory-Coast-Elections/NNS
+
+(ROOT
+  (NP (NNS Ivory-Coast-Elections)))
+
+root(ROOT-0, Ivory-Coast-Elections-1)
+
+Ivory/JJ Coast/NNP Vote/NNP Sparks/NNP Rallies/NNPS
+
+(ROOT
+  (NP
+    (NP (JJ Ivory))
+    (NP (NNP Coast) (NNP Vote) (NNP Sparks) (NNPS Rallies))))
+
+root(ROOT-0, Ivory-1)
+nn(Rallies-5, Coast-2)
+nn(Rallies-5, Vote-3)
+nn(Rallies-5, Sparks-4)
+dep(Ivory-1, Rallies-5)
+
+ABIDJAN/NNP ,/, Ivory/NNP Coast/NNP [AP/NNP ]/NNP _/NNP Long/NNP processions/NNS of/IN cars/NNS ,/, plastered/VBN with/IN candidates/NNS '/POS posters/NNS and/CC with/IN horns/NNS blaring/VBG ,/, paraded/VBN through/IN this/DT coastal/JJ city/NN Saturday/NN ,/, one/CD day/NN before/IN presidential/JJ elections/NNS to/TO end/VB 10/CD months/NNS of/IN military/JJ rule/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP ABIDJAN))
+      (, ,)
+      (NP
+        (NP (NNP Ivory) (NNP Coast) (NNP [AP) (NNP ]) (NNP _) (NNP Long) (NNS processions))
+        (PP (IN of)
+          (NP (NNS cars))))
+      (, ,))
+    (VP
+      (VP (VBN plastered)
+        (PP
+          (PP (IN with)
+            (NP
+              (NP (NNS candidates) (POS '))
+              (NNS posters)))
+          (CC and)
+          (PP (IN with)
+            (NP
+              (NP (NNS horns))
+              (VP (VBG blaring))))))
+      (, ,)
+      (VP (VBN paraded)
+        (PP (IN through)
+          (NP
+            (NP (DT this) (JJ coastal) (NN city) (NN Saturday))
+            (, ,)
+            (NP (CD one) (NN day))))
+        (PP (IN before)
+          (NP (JJ presidential) (NNS elections))))
+      (S
+        (VP (TO to)
+          (VP (VB end)
+            (NP
+              (NP (CD 10) (NNS months))
+              (PP (IN of)
+                (NP (JJ military) (NN rule))))))))
+    (. .)))
+
+nsubj(plastered-13, ABIDJAN-1)
+nsubj(end-36, ABIDJAN-1)
+nn(processions-9, Ivory-3)
+nn(processions-9, Coast-4)
+nn(processions-9, [AP-5)
+nn(processions-9, ]-6)
+nn(processions-9, _-7)
+nn(processions-9, Long-8)
+appos(ABIDJAN-1, processions-9)
+prep_of(processions-9, cars-11)
+root(ROOT-0, plastered-13)
+poss(posters-17, candidates-15)
+prep_with(plastered-13, posters-17)
+prep_with(plastered-13, horns-20)
+conj_and(posters-17, horns-20)
+vmod(horns-20, blaring-21)
+dep(plastered-13, paraded-23)
+det(Saturday-28, this-25)
+amod(Saturday-28, coastal-26)
+nn(Saturday-28, city-27)
+prep_through(paraded-23, Saturday-28)
+num(day-31, one-30)
+appos(Saturday-28, day-31)
+amod(elections-34, presidential-33)
+prep_before(paraded-23, elections-34)
+aux(end-36, to-35)
+xcomp(plastered-13, end-36)
+num(months-38, 10-37)
+dobj(end-36, months-38)
+amod(rule-41, military-40)
+prep_of(months-38, rule-41)
+
+The/DT display/NN of/IN vehicles/NNS ,/, with/IN shouting/JJ supporters/NNS hanging/VBG out/IN windows/NNS ,/, marked/VBD some/DT of/IN the/DT liveliest/JJS political/JJ activity/NN since/IN the/DT campaign/NN period/NN began/VBD two/CD weeks/NNS ago/RB ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN display))
+      (PP (IN of)
+        (NP (NNS vehicles)))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (JJ shouting) (NNS supporters))
+          (VP (VBG hanging)
+            (PP (IN out)
+              (NP (NNS windows))))))
+      (, ,))
+    (VP (VBD marked)
+      (NP
+        (NP (DT some))
+        (PP (IN of)
+          (NP (DT the) (JJS liveliest) (JJ political) (NN activity))))
+      (SBAR (IN since)
+        (S
+          (NP (DT the) (NN campaign) (NN period))
+          (VP (VBD began)
+            (ADVP
+              (NP (CD two) (NNS weeks))
+              (RB ago))))))
+    (. .)))
+
+det(display-2, The-1)
+nsubj(marked-13, display-2)
+prep_of(display-2, vehicles-4)
+amod(supporters-8, shouting-7)
+prep_with(display-2, supporters-8)
+vmod(supporters-8, hanging-9)
+prep_out(hanging-9, windows-11)
+root(ROOT-0, marked-13)
+dobj(marked-13, some-14)
+det(activity-19, the-16)
+amod(activity-19, liveliest-17)
+amod(activity-19, political-18)
+prep_of(some-14, activity-19)
+mark(began-24, since-20)
+det(period-23, the-21)
+nn(period-23, campaign-22)
+nsubj(began-24, period-23)
+advcl(marked-13, began-24)
+num(weeks-26, two-25)
+npadvmod(ago-27, weeks-26)
+advmod(began-24, ago-27)
+
+Campaigning/VBG in/IN Ivory/NNP Coast/NNP ,/, once/RB famed/VBN as/IN an/DT oasis/NN of/IN stability/NN amid/IN the/DT unrest/JJS that/IN plagues/VBZ much/RB of/IN West/NNP Africa/NNP ,/, has/VBZ been/VBN muted/VBN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (VBG Campaigning))
+      (PP (IN in)
+        (NP (NNP Ivory) (NNP Coast)))
+      (, ,)
+      (VP
+        (ADVP (RB once))
+        (VBN famed)
+        (PP (IN as)
+          (NP
+            (NP (DT an) (NN oasis))
+            (PP (IN of)
+              (NP (NN stability)))))
+        (PP (IN amid)
+          (NP
+            (NP (DT the) (JJS unrest))
+            (SBAR
+              (WHNP (IN that))
+              (S
+                (VP (VBZ plagues)
+                  (NP
+                    (NP (RB much))
+                    (PP (IN of)
+                      (NP (NNP West) (NNP Africa))))))))))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN muted))))
+    (. .)))
+
+nsubjpass(muted-25, Campaigning-1)
+nn(Coast-4, Ivory-3)
+prep_in(Campaigning-1, Coast-4)
+advmod(famed-7, once-6)
+vmod(Campaigning-1, famed-7)
+det(oasis-10, an-9)
+prep_as(famed-7, oasis-10)
+prep_of(oasis-10, stability-12)
+det(unrest-15, the-14)
+prep_amid(famed-7, unrest-15)
+nsubj(plagues-17, unrest-15)
+rcmod(unrest-15, plagues-17)
+dobj(plagues-17, much-18)
+nn(Africa-21, West-20)
+prep_of(much-18, Africa-21)
+aux(muted-25, has-23)
+auxpass(muted-25, been-24)
+root(ROOT-0, muted-25)
+
+Most/JJS candidates/NNS _/, including/VBG those/DT from/IN the/DT country/NN 's/POS two/CD largest/JJS political/JJ parties/NNS _/, were/VBD excluded/VBN from/IN the/DT vote/NN by/IN the/DT Supreme/NNP Court/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (JJS Most) (NNS candidates))
+      (, _)
+      (PP (VBG including)
+        (NP
+          (NP (DT those))
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NN country) (POS 's))
+              (CD two) (JJS largest) (JJ political) (NNS parties)))))
+      (, _))
+    (VP (VBD were)
+      (VP (VBN excluded)
+        (PP (IN from)
+          (NP (DT the) (NN vote)))
+        (PP (IN by)
+          (NP (DT the) (NNP Supreme) (NNP Court)))))
+    (. .)))
+
+amod(candidates-2, Most-1)
+nsubjpass(excluded-16, candidates-2)
+punct(candidates-2, _-3)
+prep_including(candidates-2, those-5)
+det(country-8, the-7)
+poss(parties-13, country-8)
+num(parties-13, two-10)
+amod(parties-13, largest-11)
+amod(parties-13, political-12)
+prep_from(those-5, parties-13)
+punct(candidates-2, _-14)
+auxpass(excluded-16, were-15)
+root(ROOT-0, excluded-16)
+det(vote-19, the-18)
+prep_from(excluded-16, vote-19)
+det(Court-23, the-21)
+nn(Court-23, Supreme-22)
+agent(excluded-16, Court-23)
+
+Junta/NNP leader/NN Gen./NNP Robert/NNP Guei/NNP ,/, who/WP took/VBD control/NN during/IN a/DT December/NNP coup/NN promising/VBG he/PRP would/MD quickly/RB give/VB up/RP power/NN ,/, and/CC who/WP has/VBZ close/RB personal/JJ ties/NNS to/TO the/DT chief/JJ justice/NN of/IN the/DT Supreme/NNP Court/NNP ,/, is/VBZ widely/RB expected/VBN to/TO win/VB ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Junta) (NN leader) (NNP Gen.) (NNP Robert) (NNP Guei))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD took)
+            (NP (NN control))
+            (PP (IN during)
+              (NP (DT a) (NNP December) (NN coup)))
+            (S
+              (VP (VBG promising)
+                (SBAR
+                  (SBAR
+                    (S
+                      (NP (PRP he))
+                      (VP (MD would)
+                        (ADVP (RB quickly))
+                        (VP (VB give)
+                          (PRT (RP up))
+                          (NP (NN power))))))
+                  (, ,)
+                  (CC and)
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBZ has)
+                        (NP
+                          (ADJP (RB close) (JJ personal))
+                          (NNS ties))
+                        (PP (TO to)
+                          (NP
+                            (NP (DT the) (JJ chief) (NN justice))
+                            (PP (IN of)
+                              (NP (DT the) (NNP Supreme) (NNP Court))))))))))))))
+      (, ,))
+    (VP (VBZ is)
+      (ADVP (RB widely))
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB win))))))
+    (. .)))
+
+nn(Guei-5, Junta-1)
+nn(Guei-5, leader-2)
+nn(Guei-5, Gen.-3)
+nn(Guei-5, Robert-4)
+nsubj(took-8, Guei-5)
+nsubjpass(expected-39, Guei-5)
+nsubj(win-41, Guei-5)
+rcmod(Guei-5, took-8)
+dobj(took-8, control-9)
+det(coup-13, a-11)
+nn(coup-13, December-12)
+prep_during(took-8, coup-13)
+xcomp(took-8, promising-14)
+nsubj(give-18, he-15)
+aux(give-18, would-16)
+advmod(give-18, quickly-17)
+dep(promising-14, give-18)
+prt(give-18, up-19)
+dobj(give-18, power-20)
+nsubj(has-24, who-23)
+dep(promising-14, has-24)
+conj_and(give-18, has-24)
+advmod(personal-26, close-25)
+amod(ties-27, personal-26)
+dobj(has-24, ties-27)
+det(justice-31, the-29)
+amod(justice-31, chief-30)
+prep_to(has-24, justice-31)
+det(Court-35, the-33)
+nn(Court-35, Supreme-34)
+prep_of(justice-31, Court-35)
+auxpass(expected-39, is-37)
+advmod(expected-39, widely-38)
+root(ROOT-0, expected-39)
+aux(win-41, to-40)
+xcomp(expected-39, win-41)
+
+``The/JJ elections/NNS are/VBP already/RB done/JJ and/CC people/NNS here/RB are/VBP not/RB interested/JJ ,''/NN said/VBD Ali/NNP Ouattara/NNP ,/, a/DT journalist/NN in/IN the/DT northern/JJ city/NN of/IN Korhogo/NNP ,/, where/WRB a/DT few/JJ torn/NN and/CC defaced/JJ posters/NNS were/VBD the/DT only/JJ sign/NN of/IN the/DT approaching/NN vote/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP (JJ ``The) (NNS elections))
+      (VP (VBP are)
+        (ADVP (RB already))
+        (ADJP (JJ done))))
+    (CC and)
+    (S
+      (NP (NNS people))
+      (ADVP (RB here))
+      (VP (VBP are) (RB not)
+        (ADJP (JJ interested)
+          (SBAR
+            (S
+              (NP (NN ,''))
+              (VP (VBD said)
+                (NP
+                  (NP (NNP Ali) (NNP Ouattara))
+                  (, ,)
+                  (NP
+                    (NP (DT a) (NN journalist))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (JJ northern) (NN city))
+                        (PP (IN of)
+                          (NP (NNP Korhogo))))))
+                  (, ,)
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (NP
+                        (NP (DT a) (JJ few) (NN torn))
+                        (CC and)
+                        (NP (JJ defaced) (NNS posters)))
+                      (VP (VBD were)
+                        (NP
+                          (NP (DT the) (JJ only) (NN sign))
+                          (PP (IN of)
+                            (NP (DT the) (NN approaching) (NN vote))))))))))))))
+    (. .)))
+
+amod(elections-2, ``The-1)
+nsubj(done-5, elections-2)
+cop(done-5, are-3)
+advmod(done-5, already-4)
+root(ROOT-0, done-5)
+nsubj(interested-11, people-7)
+advmod(interested-11, here-8)
+cop(interested-11, are-9)
+neg(interested-11, not-10)
+conj_and(done-5, interested-11)
+nsubj(said-13, ,''-12)
+ccomp(interested-11, said-13)
+nn(Ouattara-15, Ali-14)
+dobj(said-13, Ouattara-15)
+det(journalist-18, a-17)
+appos(Ouattara-15, journalist-18)
+det(city-22, the-20)
+amod(city-22, northern-21)
+prep_in(journalist-18, city-22)
+prep_of(city-22, Korhogo-24)
+advmod(sign-36, where-26)
+det(torn-29, a-27)
+amod(torn-29, few-28)
+nsubj(sign-36, torn-29)
+amod(posters-32, defaced-31)
+conj_and(torn-29, posters-32)
+nsubj(sign-36, posters-32)
+cop(sign-36, were-33)
+det(sign-36, the-34)
+amod(sign-36, only-35)
+rcmod(Ouattara-15, sign-36)
+det(vote-40, the-38)
+nn(vote-40, approaching-39)
+prep_of(sign-36, vote-40)
+
+While/RB there/RB are/VBP a/DT total/NN of/IN five/CD candidates/NNS ,/, the/DT only/JJ other/JJ serious/JJ contender/NN is/VBZ Laurent/JJ Gbagbo/NNP ,/, a/DT history/JJ professor/NN and/CC longtime/JJ opposition/NN leader/NN ./.
+
+(ROOT
+  (S
+    (SBAR (RB While)
+      (S
+        (ADVP (RB there))
+        (VP (VBP are)
+          (NP
+            (NP (DT a) (NN total))
+            (PP (IN of)
+              (NP (CD five) (NNS candidates)))))))
+    (, ,)
+    (NP (DT the) (JJ only) (JJ other) (JJ serious) (NN contender))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ Laurent) (NNP Gbagbo))
+        (, ,)
+        (NP (DT a) (JJ history) (NN professor))
+        (CC and)
+        (NP (JJ longtime) (NN opposition) (NN leader))))
+    (. .)))
+
+advmod(total-5, While-1)
+advmod(total-5, there-2)
+cop(total-5, are-3)
+det(total-5, a-4)
+advcl(Gbagbo-17, total-5)
+num(candidates-8, five-7)
+prep_of(total-5, candidates-8)
+det(contender-14, the-10)
+amod(contender-14, only-11)
+amod(contender-14, other-12)
+amod(contender-14, serious-13)
+nsubj(Gbagbo-17, contender-14)
+cop(Gbagbo-17, is-15)
+amod(Gbagbo-17, Laurent-16)
+root(ROOT-0, Gbagbo-17)
+det(professor-21, a-19)
+amod(professor-21, history-20)
+conj_and(Gbagbo-17, professor-21)
+amod(leader-25, longtime-23)
+nn(leader-25, opposition-24)
+conj_and(Gbagbo-17, leader-25)
+
+The/DT country/NN 's/POS best-known/JJ opposition/NN candidate/NN ,/, Alassane/NNP Dramane/NNP Ouattara/NNP ,/, was/VBD excluded/VBN by/IN the/DT court/NN because/IN of/IN what/WP it/PRP said/VBD were/VBD questions/NNS about/IN whether/IN both/DT his/PRP$ parents/NNS were/VBD of/IN ``Ivorian/JJ origin/JJ ,''/NN as/IN a/DT new/JJ junta/NN -backed/VBD constitution/NN requires/VBZ ./.
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NN country) (POS 's))
+        (JJ best-known) (NN opposition) (NN candidate))
+      (, ,)
+      (NP (NNP Alassane) (NNP Dramane) (NNP Ouattara))
+      (, ,))
+    (VP (VBD was)
+      (VP (VBN excluded)
+        (PP (IN by)
+          (NP (DT the) (NN court)))
+        (SBAR (IN because)
+          (S
+            (NP
+              (SBAR
+                (WHPP (IN of)
+                  (WHNP (WP what)))
+                (S
+                  (NP (PRP it))
+                  (VP (VBD said)))))
+            (VP (VBD were)
+              (NP
+                (NP (NNS questions))
+                (PP (IN about)
+                  (SBAR (IN whether)
+                    (S
+                      (NP (DT both) (PRP$ his) (NNS parents))
+                      (VP (VBD were)
+                        (PP (IN of)
+                          (NP (JJ ``Ivorian) (JJ origin) (NN ,'')))
+                        (SBAR (IN as)
+                          (S
+                            (NP (DT a) (JJ new) (NN junta))
+                            (VP (VBD -backed)
+                              (SBAR
+                                (S
+                                  (NP (NN constitution))
+                                  (VP (VBZ requires)))))))))))))))))
+    (. .)))
+
+det(country-2, The-1)
+poss(candidate-6, country-2)
+amod(candidate-6, best-known-4)
+nn(candidate-6, opposition-5)
+nsubjpass(excluded-13, candidate-6)
+nn(Ouattara-10, Alassane-8)
+nn(Ouattara-10, Dramane-9)
+appos(candidate-6, Ouattara-10)
+auxpass(excluded-13, was-12)
+root(ROOT-0, excluded-13)
+det(court-16, the-15)
+agent(excluded-13, court-16)
+mark(questions-23, because-17)
+prep_of(said-21, what-19)
+nsubj(said-21, it-20)
+nsubj(questions-23, said-21)
+cop(questions-23, were-22)
+advcl(excluded-13, questions-23)
+mark(were-29, whether-25)
+det(parents-28, both-26)
+predet(parents-28, both-26)
+poss(parents-28, his-27)
+nsubj(were-29, parents-28)
+prepc_about(questions-23, were-29)
+amod(,''-33, ``Ivorian-31)
+amod(,''-33, origin-32)
+prep_of(were-29, ,''-33)
+mark(-backed-38, as-34)
+det(junta-37, a-35)
+amod(junta-37, new-36)
+nsubj(-backed-38, junta-37)
+advcl(were-29, -backed-38)
+nsubj(requires-40, constitution-39)
+ccomp(-backed-38, requires-40)
+
+Ouattara/NNP 's/POS party/NN ,/, the/DT Rally/NNP of/IN the/DT Republicans/NNPS ,/, and/CC the/DT former/JJ ruling/VBG Democratic/JJ Party/NNP of/IN the/DT Ivory/JJ Coast/NNP ,/, whose/WP$ candidates/NNS were/VBD also/RB excluded/VBN ,/, have/VBP both/DT called/VBN for/IN a/DT boycott/NN of/IN the/DT polls/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Ouattara) (POS 's))
+        (NN party))
+      (, ,)
+      (NP
+        (NP
+          (NP (DT the) (NNP Rally))
+          (PP (IN of)
+            (NP (DT the) (NNPS Republicans))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT the) (JJ former))
+          (VP (VBG ruling)
+            (NP
+              (NP (JJ Democratic) (NNP Party))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (JJ Ivory) (NNP Coast))
+                  (, ,)
+                  (SBAR (WP$ whose)
+                    (S
+                      (NP (NNS candidates))
+                      (VP (VBD were)
+                        (VP
+                          (ADVP (RB also))
+                          (VBN excluded)))))))))))
+      (, ,))
+    (VP (VBP have)
+      (ADVP (DT both))
+      (VP (VBN called)
+        (PP (IN for)
+          (NP
+            (NP (DT a) (NN boycott))
+            (PP (IN of)
+              (NP (DT the) (NNS polls)))))))
+    (. .)))
+
+poss(party-3, Ouattara-1)
+nsubj(called-30, party-3)
+det(Rally-6, the-5)
+appos(party-3, Rally-6)
+det(Republicans-9, the-8)
+prep_of(Rally-6, Republicans-9)
+det(former-13, the-12)
+appos(party-3, former-13)
+conj_and(Rally-6, former-13)
+vmod(former-13, ruling-14)
+amod(Party-16, Democratic-15)
+dobj(ruling-14, Party-16)
+det(Coast-20, the-18)
+amod(Coast-20, Ivory-19)
+prep_of(Party-16, Coast-20)
+dep(excluded-26, whose-22)
+nsubjpass(excluded-26, candidates-23)
+auxpass(excluded-26, were-24)
+advmod(excluded-26, also-25)
+dep(Coast-20, excluded-26)
+aux(called-30, have-28)
+advmod(called-30, both-29)
+root(ROOT-0, called-30)
+det(boycott-33, a-32)
+prep_for(called-30, boycott-33)
+det(polls-36, the-35)
+prep_of(boycott-33, polls-36)
+
+Representatives/NNS of/IN Rally/RB of/IN the/DT Republicans/NNPS set/VBD out/RB on/IN motorbikes/NNS Saturday/NN to/TO urge/VB villagers/NNS in/IN the/DT party/NN 's/POS northern/NN stronghold/VBD not/RB to/TO cast/VB ballots/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Representatives))
+      (PP (IN of)
+        (NP
+          (NP (RB Rally))
+          (PP (IN of)
+            (NP (DT the) (NNPS Republicans))))))
+    (VP (VBD set)
+      (ADVP (RB out))
+      (PP (IN on)
+        (NP (NNS motorbikes) (NN Saturday)))
+      (S
+        (VP (TO to)
+          (VP (VB urge)
+            (SBAR
+              (S
+                (NP
+                  (NP (NNS villagers))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN party) (POS 's))
+                      (NN northern))))
+                (VP (VBD stronghold)
+                  (S (RB not)
+                    (VP (TO to)
+                      (VP (VB cast)
+                        (NP (NNS ballots))))))))))))
+    (. .)))
+
+nsubj(set-7, Representatives-1)
+nsubj(urge-13, Representatives-1)
+prep(Representatives-1, of-2)
+pobj(of-2, Rally-3)
+det(Republicans-6, the-5)
+prep_of(Rally-3, Republicans-6)
+root(ROOT-0, set-7)
+advmod(set-7, out-8)
+nn(Saturday-11, motorbikes-10)
+prep_on(set-7, Saturday-11)
+aux(urge-13, to-12)
+xcomp(set-7, urge-13)
+nsubj(stronghold-20, villagers-14)
+nsubj(cast-23, villagers-14)
+det(party-17, the-16)
+poss(northern-19, party-17)
+prep_in(villagers-14, northern-19)
+ccomp(urge-13, stronghold-20)
+neg(cast-23, not-21)
+aux(cast-23, to-22)
+xcomp(stronghold-20, cast-23)
+dobj(cast-23, ballots-24)
+
+``Stay/NN in/IN your/PRP$ homes/NNS ,/, play/VB soccer/JJR ,/, or/CC till/VB the/DT fields/NNS ,/, but/CC don't/JJ vote/NN ,''/IN party/NN representative/JJ Lacina/NNP Coulibaly/NNP told/VBD about/IN 30/CD youths/NNS gathered/VBN in/IN the/DT northern/JJ village/NN of/IN Lanviara/NNP ,/, near/IN Korhogo/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NN ``Stay))
+      (PP (IN in)
+        (NP (PRP$ your) (NNS homes))))
+    (PRN (, ,)
+      (SINV
+        (VP
+          (VP (VB play)
+            (NP (JJR soccer)))
+          (, ,)
+          (CC or)
+          (VP (VB till)
+            (NP (DT the) (NNS fields)))
+          (, ,)
+          (CC but)
+          (VP
+            (NP (JJ don't) (NN vote))
+            (PP (IN ,'')
+              (NP (NN party)))))
+        (NP (JJ representative) (NNP Lacina) (NNP Coulibaly))))
+    (VP (VBD told)
+      (PP (IN about)
+        (NP
+          (NP (CD 30) (NNS youths))
+          (VP (VBN gathered)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ northern) (NN village))
+                (PP (IN of)
+                  (NP (NNP Lanviara))))))))
+      (, ,)
+      (PP (IN near)
+        (NP (NNP Korhogo))))
+    (. .)))
+
+nsubj(told-22, ``Stay-1)
+poss(homes-4, your-3)
+prep_in(``Stay-1, homes-4)
+parataxis(told-22, play-6)
+dobj(play-6, soccer-7)
+conj_or(play-6, till-10)
+parataxis(told-22, till-10)
+det(fields-12, the-11)
+dobj(till-10, fields-12)
+amod(vote-16, don't-15)
+conj_but(play-6, vote-16)
+parataxis(told-22, vote-16)
+prep_,''(vote-16, party-18)
+amod(Coulibaly-21, representative-19)
+nn(Coulibaly-21, Lacina-20)
+nsubj(play-6, Coulibaly-21)
+nsubj(till-10, Coulibaly-21)
+root(ROOT-0, told-22)
+num(youths-25, 30-24)
+prep_about(told-22, youths-25)
+vmod(youths-25, gathered-26)
+det(village-30, the-28)
+amod(village-30, northern-29)
+prep_in(gathered-26, village-30)
+prep_of(village-30, Lanviara-32)
+prep_near(told-22, Korhogo-35)
+
+Guei/NNP took/VBD control/NN during/IN the/DT Dec/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP Guei))
+    (VP (VBD took)
+      (NP (NN control))
+      (PP (IN during)
+        (NP (DT the) (NNP Dec))))
+    (. .)))
+
+nsubj(took-2, Guei-1)
+root(ROOT-0, took-2)
+dobj(took-2, control-3)
+det(Dec-6, the-5)
+prep_during(took-2, Dec-6)
+
+24/CD coup/NN promising/VBG he/PRP would/MD quickly/RB give/VB up/RP power/NN ,/, but/CC has/VBZ since/IN exchanged/VBD his/PRP$ military/JJ uniform/NN for/IN a/DT snappy/JJ suit/NN and/CC rallied/VBD several/JJ smaller/JJR parties/NNS around/IN his/PRP$ candidacy/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (CD 24) (NN coup))
+      (VP (VBG promising)
+        (NP (PRP he))))
+    (VP
+      (VP (MD would)
+        (ADVP (RB quickly))
+        (VP (VB give)
+          (PRT (RP up))
+          (NP (NN power))))
+      (, ,)
+      (CC but)
+      (VP (VBZ has)
+        (VP
+          (ADVP (IN since))
+          (VP (VBD exchanged)
+            (NP (PRP$ his) (JJ military) (NN uniform))
+            (PP (IN for)
+              (NP (DT a) (JJ snappy) (NN suit))))
+          (CC and)
+          (VP (VBD rallied)
+            (NP (JJ several) (JJR smaller) (NNS parties))
+            (PP (IN around)
+              (NP (PRP$ his) (NN candidacy)))))))
+    (. .)))
+
+num(coup-2, 24-1)
+nsubj(give-7, coup-2)
+nsubj(exchanged-14, coup-2)
+vmod(coup-2, promising-3)
+dobj(promising-3, he-4)
+aux(give-7, would-5)
+advmod(give-7, quickly-6)
+root(ROOT-0, give-7)
+prt(give-7, up-8)
+dobj(give-7, power-9)
+aux(exchanged-14, has-12)
+advmod(exchanged-14, since-13)
+conj_but(give-7, exchanged-14)
+poss(uniform-17, his-15)
+amod(uniform-17, military-16)
+dobj(exchanged-14, uniform-17)
+det(suit-21, a-19)
+amod(suit-21, snappy-20)
+prep_for(exchanged-14, suit-21)
+conj_but(give-7, rallied-23)
+conj_and(exchanged-14, rallied-23)
+amod(parties-26, several-24)
+amod(parties-26, smaller-25)
+dobj(rallied-23, parties-26)
+poss(candidacy-29, his-28)
+prep_around(rallied-23, candidacy-29)
+
+The/DT United/NNP Nations/NNPS ,/, the/DT Organization/NN of/IN African/NNP Unity/NNP ,/, the/DT European/JJ Union/NNP and/CC countries/NNS such/JJ as/IN the/DT United/NNP States/NNPS and/CC Canada/NNP have/VBP withdrawn/VBN election/NN observers/NNS or/CC funding/VBG to/TO protest/VB Guei/NNP 's/POS decision/NN to/TO run/VB and/CC the/DT exclusion/NN of/IN major/JJ opponents/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP United) (NNPS Nations))
+      (, ,)
+      (NP
+        (NP (DT the) (NN Organization))
+        (PP (IN of)
+          (NP
+            (NP (NNP African) (NNP Unity))
+            (, ,)
+            (NP (DT the) (JJ European) (NNP Union))
+            (CC and)
+            (NP (NNS countries))))
+        (PP (JJ such) (IN as)
+          (NP (DT the) (NNP United) (NNPS States)
+            (CC and)
+            (NNP Canada)))))
+    (VP (VBP have)
+      (VP
+        (VP (VBN withdrawn)
+          (NP (NN election) (NNS observers)))
+        (CC or)
+        (VP (VBG funding)
+          (S
+            (VP (TO to)
+              (VP (VB protest)
+                (NP
+                  (NP
+                    (NP (NNP Guei) (POS 's))
+                    (NN decision)
+                    (S
+                      (VP (TO to)
+                        (VP (VB run)))))
+                  (CC and)
+                  (NP
+                    (NP (DT the) (NN exclusion))
+                    (PP (IN of)
+                      (NP (JJ major) (NNS opponents)))))))))))
+    (. .)))
+
+det(Nations-3, The-1)
+nn(Nations-3, United-2)
+nsubj(withdrawn-24, Nations-3)
+nsubj(funding-28, Nations-3)
+nsubj(protest-30, Nations-3)
+det(Organization-6, the-5)
+appos(Nations-3, Organization-6)
+nn(Unity-9, African-8)
+prep_of(Organization-6, Unity-9)
+det(Union-13, the-11)
+amod(Union-13, European-12)
+prep_of(Organization-6, Union-13)
+conj_and(Unity-9, Union-13)
+prep_of(Organization-6, countries-15)
+conj_and(Unity-9, countries-15)
+det(States-20, the-18)
+nn(States-20, United-19)
+prep_such_as(Organization-6, States-20)
+prep_such_as(Organization-6, Canada-22)
+conj_and(States-20, Canada-22)
+aux(withdrawn-24, have-23)
+root(ROOT-0, withdrawn-24)
+nn(observers-26, election-25)
+dobj(withdrawn-24, observers-26)
+conj_or(withdrawn-24, funding-28)
+aux(protest-30, to-29)
+xcomp(funding-28, protest-30)
+poss(decision-33, Guei-31)
+dobj(protest-30, decision-33)
+aux(run-35, to-34)
+vmod(decision-33, run-35)
+det(exclusion-38, the-37)
+dobj(protest-30, exclusion-38)
+conj_and(decision-33, exclusion-38)
+amod(opponents-41, major-40)
+prep_of(exclusion-38, opponents-41)
+
+Ivory/NNP Coast/NNP 's/POS reputation/NN as/IN a/DT haven/NN for/IN stability/NN and/CC relative/JJ wealth/NN has/VBZ been/VBN badly/RB tarnished/VBN in/IN recent/JJ years/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Ivory) (NNP Coast) (POS 's))
+        (NN reputation))
+      (PP (IN as)
+        (NP
+          (NP (DT a) (NN haven))
+          (PP (IN for)
+            (NP (NN stability)
+              (CC and)
+              (JJ relative) (NN wealth))))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP
+          (ADVP (RB badly))
+          (VBN tarnished)
+          (PP (IN in)
+            (NP (JJ recent) (NNS years))))))
+    (. .)))
+
+nn(Coast-2, Ivory-1)
+poss(reputation-4, Coast-2)
+nsubjpass(tarnished-16, reputation-4)
+det(haven-7, a-6)
+prep_as(reputation-4, haven-7)
+nn(wealth-12, stability-9)
+conj_and(stability-9, relative-11)
+nn(wealth-12, relative-11)
+prep_for(haven-7, wealth-12)
+aux(tarnished-16, has-13)
+auxpass(tarnished-16, been-14)
+advmod(tarnished-16, badly-15)
+root(ROOT-0, tarnished-16)
+amod(years-19, recent-18)
+prep_in(tarnished-16, years-19)
+
+It/PRP s/VBZ economy/NN has/VBZ been/VBN hobbled/VBN by/IN a/DT steep/JJ decline/NN in/IN prices/NNS for/IN it/PRP s/VBD primary/JJ exports/NNS ,/, cocoa/NN and/CC coffee/NN ,/, while/IN the/DT December/NNP coup/NN and/CC two/CD subsequent/JJ military/JJ mutinies/NNS have/VBP frightened/VBN Ivorians/NNPS and/CC foreign/JJ investors/NNS alike/RB ./.
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ s)
+      (NP
+        (NP (NN economy))
+        (SBAR
+          (S
+            (VP (VBZ has)
+              (VP (VBN been)
+                (VP (VBN hobbled)
+                  (PP (IN by)
+                    (NP
+                      (NP (DT a) (JJ steep) (NN decline))
+                      (PP (IN in)
+                        (NP (NNS prices)))))
+                  (SBAR (IN for)
+                    (S
+                      (NP (PRP it))
+                      (VP (VBD s)
+                        (NP
+                          (NP (JJ primary) (NNS exports))
+                          (, ,)
+                          (NP (NN cocoa))
+                          (CC and)
+                          (NP (NN coffee)))
+                        (, ,)
+                        (SBAR (IN while)
+                          (S
+                            (NP
+                              (NP (DT the) (NNP December) (NN coup))
+                              (CC and)
+                              (NP (CD two) (JJ subsequent) (JJ military) (NNS mutinies)))
+                            (VP (VBP have)
+                              (VP (VBN frightened)
+                                (NP
+                                  (NP (NNPS Ivorians))
+                                  (CC and)
+                                  (NP (JJ foreign) (NNS investors)))
+                                (ADVP (RB alike))))))))))))))))
+    (. .)))
+
+nsubj(economy-3, It-1)
+cop(economy-3, s-2)
+root(ROOT-0, economy-3)
+aux(hobbled-6, has-4)
+auxpass(hobbled-6, been-5)
+rcmod(economy-3, hobbled-6)
+det(decline-10, a-8)
+amod(decline-10, steep-9)
+agent(hobbled-6, decline-10)
+prep_in(decline-10, prices-12)
+mark(exports-17, for-13)
+nsubj(exports-17, it-14)
+cop(exports-17, s-15)
+amod(exports-17, primary-16)
+advcl(hobbled-6, exports-17)
+advcl(hobbled-6, cocoa-19)
+conj_and(exports-17, cocoa-19)
+advcl(hobbled-6, coffee-21)
+conj_and(exports-17, coffee-21)
+mark(frightened-33, while-23)
+det(coup-26, the-24)
+nn(coup-26, December-25)
+nsubj(frightened-33, coup-26)
+num(mutinies-31, two-28)
+amod(mutinies-31, subsequent-29)
+amod(mutinies-31, military-30)
+conj_and(coup-26, mutinies-31)
+nsubj(frightened-33, mutinies-31)
+aux(frightened-33, have-32)
+advcl(exports-17, frightened-33)
+dobj(frightened-33, Ivorians-34)
+amod(investors-37, foreign-36)
+dobj(frightened-33, investors-37)
+conj_and(Ivorians-34, investors-37)
+advmod(frightened-33, alike-38)
+

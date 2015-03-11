@@ -1,0 +1,1191 @@
+(ROOT
+  (NP
+    (NP (DT APW20001028.2128.0472))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-10-28) (CD 21:37:46))))
+
+root(ROOT-0, APW20001028.2128.0472-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001028.2128.0472-1, STORY-3)
+num(21:37:46-5, 2000-10-28-4)
+dep(APW20001028.2128.0472-1, 21:37:46-5)
+
+(ROOT
+  (ADJP (JJ FBO-XFL-Draft)))
+
+root(ROOT-0, FBO-XFL-Draft-1)
+
+(ROOT
+  (NP (NNP XFL) (NNP Has) (NNP First) (NNP Draft)))
+
+nn(Draft-4, XFL-1)
+nn(Draft-4, Has-2)
+nn(Draft-4, First-3)
+root(ROOT-0, Draft-4)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP CHICAGO) (NNP (AP))
+      (VP (, ))
+        (S
+          (NP (DT _) (NN ``Stone) (NNP Cold) ('' ''))
+          (NP (NNP Steve) (NNP Austin)))))
+    (, ,)
+    (NP (DT The) (NNP Rock)
+      (CC and)
+      (NNP Triple) (NNP H))
+    (VP (VBD weren't)
+      (PP (IN among)
+        (NP (DT the) (NNS selections))))
+    (. .)))
+
+nn((AP-2, CHICAGO-1)
+nsubj(Austin-9, (AP-2)
+punct(Austin-9, )-3)
+det(Cold-6, _-4)
+nn(Cold-6, ``Stone-5)
+nsubj(Austin-9, Cold-6)
+nn(Austin-9, Steve-8)
+ccomp(weren't-16, Austin-9)
+det(H-15, The-11)
+nn(H-15, Rock-12)
+conj_and(Rock-12, Triple-14)
+nn(H-15, Triple-14)
+nsubj(weren't-16, H-15)
+root(ROOT-0, weren't-16)
+det(selections-19, the-18)
+prep_among(weren't-16, selections-19)
+
+(ROOT
+  (S (CC But)
+    (NP (JJ pro) (NN wrestling))
+    (VP (VBD did)
+      (ADVP (RB manage))
+      (S
+        (VP (TO to)
+          (VP (VB leave)
+            (NP (DT a) (NN mark))
+            (PP (IN on)
+              (NP (DT the) (JJ first) (NN XFL) (NN draft) (NN Saturday)))))))
+    (. .)))
+
+cc(did-4, But-1)
+amod(wrestling-3, pro-2)
+nsubj(did-4, wrestling-3)
+xsubj(leave-7, wrestling-3)
+root(ROOT-0, did-4)
+advmod(did-4, manage-5)
+aux(leave-7, to-6)
+xcomp(did-4, leave-7)
+det(mark-9, a-8)
+dobj(leave-7, mark-9)
+det(Saturday-15, the-11)
+amod(Saturday-15, first-12)
+nn(Saturday-15, XFL-13)
+nn(Saturday-15, draft-14)
+prep_on(leave-7, Saturday-15)
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (DT all)))
+    (, ,)
+    (NP
+      (NP (NNP Austin) (POS 's))
+      (JJ mass-produced) (NN signature))
+    (VP (VBD was)
+      (ADVP (RB right) (RB there))
+      (PP (IN on)
+        (NP (DT a) (NN league) (NN credential))))
+    (. .)))
+
+prep_after(was-8, all-2)
+poss(signature-7, Austin-4)
+amod(signature-7, mass-produced-6)
+nsubj(was-8, signature-7)
+root(ROOT-0, was-8)
+advmod(there-10, right-9)
+advmod(was-8, there-10)
+det(credential-14, a-12)
+nn(credential-14, league-13)
+prep_on(was-8, credential-14)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ new) (NN league))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ joint) (NN venture))
+        (PP (IN of)
+          (NP (DT the) (NNP World) (NNP Wrestling) (NNP Federation)
+            (CC and)
+            (NNP NBC))))
+      (, ,))
+    (VP (VBZ features)
+      (NP (DT some) (JJ former) (NNP NFL) (NNS first-rounders))
+      (PP (IN while)
+        (S
+          (VP (VBG promising)
+            (NP
+              (NP (DT a)
+                (ADJP (RB no) (JJ holds-barred))
+                (NN approach))
+              (CC and)
+              (NP
+                (NP (JJ off-the-mat) (NNS rules))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ begins)
+                      (PP (IN in)
+                        (NP (NNP February))))))))))))
+    (. .)))
+
+det(league-3, The-1)
+amod(league-3, new-2)
+nsubj(features-16, league-3)
+det(venture-7, a-5)
+amod(venture-7, joint-6)
+appos(league-3, venture-7)
+det(Federation-12, the-9)
+nn(Federation-12, World-10)
+nn(Federation-12, Wrestling-11)
+prep_of(venture-7, Federation-12)
+prep_of(venture-7, NBC-14)
+conj_and(Federation-12, NBC-14)
+root(ROOT-0, features-16)
+det(first-rounders-20, some-17)
+amod(first-rounders-20, former-18)
+nn(first-rounders-20, NFL-19)
+dobj(features-16, first-rounders-20)
+prepc_while(features-16, promising-22)
+det(approach-26, a-23)
+neg(holds-barred-25, no-24)
+amod(approach-26, holds-barred-25)
+dobj(promising-22, approach-26)
+amod(rules-29, off-the-mat-28)
+dobj(promising-22, rules-29)
+conj_and(approach-26, rules-29)
+tmod(begins-32, rules-29)
+advmod(begins-32, when-30)
+nsubj(begins-32, it-31)
+rcmod(rules-29, begins-32)
+prep_in(begins-32, February-34)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ black) (NN football))
+      (VP (VBN trimmed)
+        (PP (IN in)
+          (ADJP (JJ red)
+            (CC and)
+            (JJ white))))
+      (, ,)
+      (NP
+        (NP (DT no) (NN fair) (NNS catches))
+        (PP (IN on)
+          (NP (NNS punts))))
+      (, ,)
+      (NP (DT no) (NN quarterback) (JJ -in-the-grasp) (NN rule))
+      (, ,))
+    (VP (VBD miked)
+      (NP (NNS huddles)
+        (CC and)
+        (NNS cameras))
+      (PP
+        (PP
+          (ADVP (RB everywhere))
+          (ADVP (RB _))
+          (IN on)
+          (NP (DT the) (NN sideline)))
+        (, ,)
+        (PP (IN in)
+          (NP (NN locker) (NNS rooms)))
+        (CC and)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNS helmets))
+            (PP (IN of)
+              (NP (VBN selected) (NNS players)))))))
+    (. .)))
+
+det(football-3, A-1)
+amod(football-3, black-2)
+nsubj(miked-21, football-3)
+nsubj(miked-21', football-3)
+nsubj(miked-21'', football-3)
+vmod(football-3, trimmed-4)
+prep_in(trimmed-4, red-6)
+prep_in(trimmed-4, white-8)
+conj_and(red-6, white-8)
+neg(catches-12, no-10)
+nn(catches-12, fair-11)
+appos(football-3, catches-12)
+prep_on(catches-12, punts-14)
+neg(rule-19, no-16)
+nn(rule-19, quarterback-17)
+amod(rule-19, -in-the-grasp-18)
+appos(football-3, rule-19)
+root(ROOT-0, miked-21)
+conj_and(miked-21, miked-21')
+conj_and(miked-21, miked-21'')
+dobj(miked-21, huddles-22)
+dobj(miked-21, cameras-24)
+conj_and(huddles-22, cameras-24)
+advmod(miked-21, everywhere-25)
+advmod(miked-21, _-26)
+det(sideline-29, the-28)
+prep_on(miked-21, sideline-29)
+nn(rooms-33, locker-32)
+prep_in(miked-21', rooms-33)
+det(helmets-37, the-36)
+prep_in(miked-21'', helmets-37)
+amod(players-40, selected-39)
+prep_of(helmets-37, players-40)
+
+(ROOT
+  (S
+    (NP (PRP ``We))
+    (VP (VBP 're)
+      (VP (VBG going)
+        (PP (IN for)
+          (NP (NN something)))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNS millions))
+              (PP (IN of)
+                (NP (NNS kids))))
+            (VP (VBN played)
+              (PP (IN in)
+                (NP (DT the) (NN school) (NN yard))))))
+        (, ,)
+        (S
+          (VP (VBG something)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (NNS resonates))
+                  (PP (IN with)
+                    (NP
+                      (NP (NNS people))
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (VP (VBP 've)
+                            (VP (VBN enjoyed)
+                              (NP
+                                (NP (DT the) (NN game))
+                                (PP (IN on)
+                                  (NP (DT all) (JJ different) (NNS levels))))
+                              (PP (IN ,'')
+                                (NP (NN league) (NN president) (NNP Basil) (NNP DeVito))))))))))
+                (VP (VBD said)
+                  (PP (IN after)
+                    (S
+                      (VP (VBG helping)
+                        (NP
+                          (NP
+                            (NP (NN conduct) (NN Saturday) (POS 's))
+                            (JJ first) (CD 10) (NNS rounds))
+                          (PP (IN of)
+                            (NP (DT the) (NN draft))))
+                        (PP (IN before) (IN about)
+                          (NP
+                            (NP (CD 100) (NNS fans))
+                            (PP (IN at)
+                              (NP
+                                (NP (DT a) (NN hotel))
+                                (PP (IN near)
+                                  (NP (NNP O'Hare) (NNP International) (NNP Airport)))))))))))))))))
+    (. .)))
+
+nsubj(going-3, ``We-1)
+aux(going-3, 're-2)
+root(ROOT-0, going-3)
+prep_for(going-3, something-5)
+mark(played-10, that-6)
+nsubj(played-10, millions-7)
+prep_of(millions-7, kids-9)
+ccomp(going-3, played-10)
+det(yard-14, the-12)
+nn(yard-14, school-13)
+prep_in(played-10, yard-14)
+vmod(going-3, something-16)
+mark(said-35, that-17)
+nsubj(said-35, resonates-18)
+prep_with(resonates-18, people-20)
+nsubj(enjoyed-23, people-20)
+aux(enjoyed-23, 've-22)
+rcmod(people-20, enjoyed-23)
+det(game-25, the-24)
+dobj(enjoyed-23, game-25)
+det(levels-29, all-27)
+amod(levels-29, different-28)
+prep_on(game-25, levels-29)
+nn(DeVito-34, league-31)
+nn(DeVito-34, president-32)
+nn(DeVito-34, Basil-33)
+prep_,''(enjoyed-23, DeVito-34)
+ccomp(something-16, said-35)
+prepc_after(said-35, helping-37)
+nn(Saturday-39, conduct-38)
+poss(rounds-43, Saturday-39)
+amod(rounds-43, first-41)
+num(rounds-43, 10-42)
+dobj(helping-37, rounds-43)
+det(draft-46, the-45)
+prep_of(rounds-43, draft-46)
+dep(helping-37, before-47)
+num(fans-50, 100-49)
+prep_about(helping-37, fans-50)
+det(hotel-53, a-52)
+prep_at(fans-50, hotel-53)
+nn(Airport-57, O'Hare-55)
+nn(Airport-57, International-56)
+prep_near(hotel-53, Airport-57)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP ``It) (POS 's))
+      (ADJP (JJ simple))
+      (NN ,'') (NNP DeVito))
+    (VP (VBD said)
+      (PP (IN of)
+        (NP
+          (NP (PRP$ his) (NN league) (POS 's))
+          (NN premise))))
+    (. .)))
+
+poss(DeVito-5, ``It-1)
+amod(DeVito-5, simple-3)
+nn(DeVito-5, ,''-4)
+nsubj(said-6, DeVito-5)
+root(ROOT-0, said-6)
+poss(league-9, his-8)
+poss(premise-11, league-9)
+prep_of(said-6, premise-11)
+
+(ROOT
+  (S
+    (NP (NNP ``Nobody))
+    (VP (VBZ owns)
+      (NP (PRP it)))
+    (. .)))
+
+nsubj(owns-2, ``Nobody-1)
+root(ROOT-0, owns-2)
+dobj(owns-2, it-3)
+
+(ROOT
+  (SINV
+    (ADVP (RB Nobody))
+    (VP (VBZ owns))
+    (NP (NN football) (. .''))))
+
+advmod(owns-2, Nobody-1)
+root(ROOT-0, owns-2)
+nsubj(owns-2, football-3)
+punct(football-3, .''-4)
+
+(ROOT
+  (S
+    (S
+      (PP (VBG According)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN league) (POS 's))
+            (NNP Web) (NN site))))
+      (, ,)
+      (NP
+        (NP
+          (NP (DT a) (NN quarterback) (POS 's))
+          (NN base) (NN salary))
+        (PP (IN for)
+          (NP (DT the) (JJ 10-game) (NN schedule))))
+      (VP (MD will)
+        (VP (VB be)
+          (PP (IN about)
+            (NP (CD $50,000))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNS players))
+      (VP (MD will)
+        (VP (VB be)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB collect)
+                  (NP
+                    (NP (CD $2,500) (NNS bonuses))
+                    (PP (IN for)
+                      (NP (DT each) (NN win)))))))))))
+    (. .)))
+
+prepc_according_to(be-19, to-2)
+det(league-4, the-3)
+poss(site-7, league-4)
+nn(site-7, Web-6)
+pobj(be-19, site-7)
+det(quarterback-10, a-9)
+poss(salary-13, quarterback-10)
+nn(salary-13, base-12)
+nsubj(be-19, salary-13)
+det(schedule-17, the-15)
+amod(schedule-17, 10-game-16)
+prep_for(salary-13, schedule-17)
+aux(be-19, will-18)
+root(ROOT-0, be-19)
+prep_about(be-19, $50,000-21)
+nsubj(able-27, players-24)
+xsubj(collect-29, players-24)
+aux(able-27, will-25)
+cop(able-27, be-26)
+conj_but(be-19, able-27)
+aux(collect-29, to-28)
+xcomp(able-27, collect-29)
+num(bonuses-31, $2,500-30)
+dobj(collect-29, bonuses-31)
+det(win-34, each-33)
+prep_for(bonuses-31, win-34)
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP
+          (NP
+            (NP (JJ incentive) (NN pay))
+            (CC and)
+            (NP (IN that))
+            (POS 's))
+          (NN fine))
+        (PP (IN with)
+          (NP
+            (NP
+              (QP (IN at) (JJS least) (CD one)))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN league) (POS 's))
+                (NNS coaches)))))))
+    (. .)))
+
+nsubj(fine-8, It-1)
+cop(fine-8, 's-2)
+amod(pay-4, incentive-3)
+poss(fine-8, pay-4)
+conj_and(pay-4, that-6)
+poss(fine-8, that-6)
+root(ROOT-0, fine-8)
+quantmod(one-12, at-10)
+mwe(at-10, least-11)
+pobj(at-10, least-11)
+prep_with(fine-8, one-12)
+det(league-15, the-14)
+poss(coaches-17, league-15)
+prep_of(one-12, coaches-17)
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB ``We))
+      (VP (VBP have)
+        (NP (DT no) (NNS negotiations))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP have)
+      (NP
+        (NP (DT no) (NNS owners))
+        (PP (IN in)
+          (NP (RB there)))))
+    (. .)))
+
+advmod(have-2, ``We-1)
+ccomp(have-7, have-2)
+neg(negotiations-4, no-3)
+dobj(have-2, negotiations-4)
+nsubj(have-7, you-6)
+root(ROOT-0, have-7)
+neg(owners-9, no-8)
+dobj(have-7, owners-9)
+prep(owners-9, in-10)
+pobj(in-10, there-11)
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP You))
+      (VP (VBP have)
+        (NP
+          (NP (DT no) (NNS owners))
+          (PP (IN in)
+            (NP (RB there)))
+          (PP (IN in)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBP are)
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB disrupt)
+                          (NP
+                            (NP (DT the) (NN progress))
+                            (PP (IN of)
+                              (NP (DT the) (NN league)))))))))))))
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (NP
+                (ADJP (RB centrally) (JJ controlled))
+                (NN ,'')))))))
+    (VP (VBD said))
+    (NP
+      (NP (NNP Chicago) (NNP Enforcers) (NN coach) (NNP Ron) (NNP Meyer))
+      (, ,)
+      (NP
+        (NP (JJ former) (NN head) (NN coach))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNPS Patriots))
+            (CC and)
+            (NP (NNP Colts)))))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD took)
+            (NP (DT the) (NN job))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP
+                  (NP (NNP Chicago))
+                  (NP (JJ favorite) (NNP Dick) (NNP Butkus)))
+                (VP (VBD resigned)
+                  (S
+                    (VP (TO to)
+                      (VP (VB take)
+                        (NP
+                          (NP (DT a) (NN job))
+                          (PP (IN in)
+                            (NP (DT the) (NN league) (NN office))))))))))))))
+    (. .)))
+
+nsubj(have-2, You-1)
+dep(said-24, have-2)
+neg(owners-4, no-3)
+dobj(have-2, owners-4)
+prep(owners-4, in-5)
+pobj(in-5, there-6)
+nsubj(going-10, who-8)
+xsubj(disrupt-12, who-8)
+aux(going-10, are-9)
+prepc_in(owners-4, going-10)
+aux(disrupt-12, to-11)
+xcomp(going-10, disrupt-12)
+det(progress-14, the-13)
+dobj(disrupt-12, progress-14)
+det(league-17, the-16)
+prep_of(progress-14, league-17)
+mark(,''-23, because-18)
+nsubj(,''-23, it-19)
+cop(,''-23, 's-20)
+advmod(controlled-22, centrally-21)
+amod(,''-23, controlled-22)
+advcl(have-2, ,''-23)
+root(ROOT-0, said-24)
+nn(Meyer-29, Chicago-25)
+nn(Meyer-29, Enforcers-26)
+nn(Meyer-29, coach-27)
+nn(Meyer-29, Ron-28)
+nsubj(said-24, Meyer-29)
+nsubj(took-41, Meyer-29)
+amod(coach-33, former-31)
+nn(coach-33, head-32)
+appos(Meyer-29, coach-33)
+det(Patriots-36, the-35)
+prep_of(coach-33, Patriots-36)
+prep_of(coach-33, Colts-38)
+conj_and(Patriots-36, Colts-38)
+rcmod(Meyer-29, took-41)
+det(job-43, the-42)
+dobj(took-41, job-43)
+advmod(resigned-49, when-44)
+nsubj(resigned-49, Chicago-45)
+xsubj(take-51, Chicago-45)
+amod(Butkus-48, favorite-46)
+nn(Butkus-48, Dick-47)
+dep(Chicago-45, Butkus-48)
+advcl(took-41, resigned-49)
+aux(take-51, to-50)
+xcomp(resigned-49, take-51)
+det(job-53, a-52)
+dobj(take-51, job-53)
+det(office-57, the-55)
+nn(office-57, league-56)
+prep_in(job-53, office-57)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP ``I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (PP (IN in)
+            (NP
+              (NP (DT a) (NN couple))
+              (PP (IN of)
+                (NP (JJ start-up) (NNS situations))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP know)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NNS pitfalls))
+              (PP (, ,'')
+                (NP (NNP Meyer))))
+            (VP (VBD said))))))
+    (. .)))
+
+nsubj(been-3, ``I-1)
+aux(been-3, 've-2)
+root(ROOT-0, been-3)
+det(couple-6, a-5)
+prep_in(been-3, couple-6)
+amod(situations-9, start-up-8)
+prep_of(couple-6, situations-9)
+nsubj(know-12, I-11)
+conj_and(been-3, know-12)
+det(pitfalls-14, the-13)
+nsubj(said-17, pitfalls-14)
+punct(Meyer-16, ,''-15)
+prep(pitfalls-14, Meyer-16)
+ccomp(know-12, said-17)
+
+(ROOT
+  (S
+    (NP (NNP ``It))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN work))
+        (PP (IN in)
+          (NP (NN progress))))
+      (, ,)
+      (ADVP (RB certainly)))
+    (. .)))
+
+nsubj(work-4, ``It-1)
+cop(work-4, is-2)
+det(work-4, a-3)
+root(ROOT-0, work-4)
+prep_in(work-4, progress-6)
+advmod(work-4, certainly-8)
+
+(ROOT
+  (S (CC But)
+    (NP (PRP we))
+    (VP (VBP 're)
+      (NP
+        (NP (JJ light) (NNS years))
+        (ADVP (RB ahead))
+        (PP (IN of)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP I))
+              (VP (VBD envisioned)))))))
+    (. .'')))
+
+cc(years-5, But-1)
+nsubj(years-5, we-2)
+cop(years-5, 're-3)
+amod(years-5, light-4)
+root(ROOT-0, years-5)
+dobj(envisioned-10, what-8)
+nsubj(envisioned-10, I-9)
+prepc_ahead_of(years-5, envisioned-10)
+punct(years-5, .''-11)
+
+(ROOT
+  (S
+    (NP (NNP DeVito))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN league))
+          (VP (VBD had)
+            (VP (VBN sold)
+              (SBAR
+                (S
+                  (S
+                    (NP (CD 120,000) (NN season))
+                    (VP (VBZ tickets)
+                      (ADVP (RB so) (RB far))))
+                  (CC and)
+                  (S
+                    (NP
+                      (NP (NNS hopes))
+                      (PP (TO to)
+                        (NP (JJ average) (CD 25,000) (NNS fans))))
+                    (NP (DT a) (NN game))))))))))
+    (. .)))
+
+nsubj(said-2, DeVito-1)
+root(ROOT-0, said-2)
+det(league-4, the-3)
+nsubj(sold-6, league-4)
+aux(sold-6, had-5)
+ccomp(said-2, sold-6)
+num(season-8, 120,000-7)
+nsubj(tickets-9, season-8)
+dep(sold-6, tickets-9)
+advmod(far-11, so-10)
+advmod(tickets-9, far-11)
+dep(game-19, hopes-13)
+amod(fans-17, average-15)
+num(fans-17, 25,000-16)
+prep_to(hopes-13, fans-17)
+det(game-19, a-18)
+dep(sold-6, game-19)
+conj_and(tickets-9, game-19)
+
+(ROOT
+  (FRAG
+    (PP (IN ``Is)
+      (S
+        (NP (PRP it))
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ perfect))))))))
+    (. ?)))
+
+root(ROOT-0, ``Is-1)
+nsubj(going-3, it-2)
+xsubj(perfect-6, it-2)
+pcomp(``Is-1, going-3)
+aux(perfect-6, to-4)
+cop(perfect-6, be-5)
+xcomp(going-3, perfect-6)
+
+(ROOT
+  (FRAG
+    (NP (DT No))
+    (. .)))
+
+root(ROOT-0, No-1)
+
+(ROOT
+  (S
+    (NP (NN Nothing))
+    (VP (VBZ is)
+      (NP
+        (NP (DT ,'') (NNP LA) (NNP Xtreme) (NN coach))
+        (SBAR
+          (S
+            (NP (NNP Al) (NNP Luginbill))
+            (VP (VBD said))))))
+    (. .)))
+
+nsubj(coach-6, Nothing-1)
+cop(coach-6, is-2)
+det(coach-6, ,''-3)
+nn(coach-6, LA-4)
+nn(coach-6, Xtreme-5)
+root(ROOT-0, coach-6)
+nn(Luginbill-8, Al-7)
+nsubj(said-9, Luginbill-8)
+rcmod(coach-6, said-9)
+
+(ROOT
+  (S
+    (NP (NN ``But))
+    (NP (PRP we))
+    (VP (VBP 're)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB shock)
+              (NP (DT some) (NNS people)))))))
+    (. .'')))
+
+nsubj(going-4, ``But-1)
+xsubj(shock-6, ``But-1)
+nsubj(going-4, we-2)
+xsubj(shock-6, we-2)
+aux(going-4, 're-3)
+root(ROOT-0, going-4)
+aux(shock-6, to-5)
+xcomp(going-4, shock-6)
+det(people-8, some-7)
+dobj(shock-6, people-8)
+punct(going-4, .''-9)
+
+(ROOT
+  (S
+    (SBAR (IN Before)
+      (S
+        (NP (DT the) (NN draft))
+        (VP (VBD started))))
+    (, ,)
+    (NP (DT the) (JJ eight) (NNS teams))
+    (VP (VBD were)
+      (VP (VBN allowed)
+        (S
+          (VP (TO to)
+            (VP (VB protect)
+              (NP (NNS picks))
+              (PP (IN from)
+                (NP
+                  (NP (CD three) (NNS colleges))
+                  (NP (DT each)))))))))
+    (. .)))
+
+mark(started-4, Before-1)
+det(draft-3, the-2)
+nsubj(started-4, draft-3)
+advcl(allowed-10, started-4)
+det(teams-8, the-6)
+amod(teams-8, eight-7)
+nsubjpass(allowed-10, teams-8)
+xsubj(protect-12, teams-8)
+auxpass(allowed-10, were-9)
+root(ROOT-0, allowed-10)
+aux(protect-12, to-11)
+xcomp(allowed-10, protect-12)
+dobj(protect-12, picks-13)
+num(colleges-16, three-15)
+prep_from(protect-12, colleges-16)
+dep(colleges-16, each-17)
+
+(ROOT
+  (SINV
+    (PP (IN Among)
+      (NP
+        (NP (DT those))
+        (VP (VBN designated))))
+    (VP (VBD were)
+      (NP (JJ former) (NNP NFL) (NNS first-rounders)))
+    (NP
+      (NP (NNP Mike) (NNP Croel))
+      (, ,)
+      (NP
+        (NP (NNP Alvin) (NNP Harper))
+        (, ,)
+        (NP (NNP Tommy) (NNP Maddox))
+        (CC and)
+        (NP (NNP Marcus) (NNP Nash))))
+    (. .)))
+
+prep_among(first-rounders-7, those-2)
+vmod(those-2, designated-3)
+cop(first-rounders-7, were-4)
+amod(first-rounders-7, former-5)
+nn(first-rounders-7, NFL-6)
+root(ROOT-0, first-rounders-7)
+nn(Croel-9, Mike-8)
+nsubj(first-rounders-7, Croel-9)
+nn(Harper-12, Alvin-11)
+appos(Croel-9, Harper-12)
+nn(Maddox-15, Tommy-14)
+appos(Croel-9, Maddox-15)
+conj_and(Harper-12, Maddox-15)
+nn(Nash-18, Marcus-17)
+appos(Croel-9, Nash-18)
+conj_and(Harper-12, Nash-18)
+
+(ROOT
+  (S
+    (PP (IN Once)
+      (NP (DT the) (NN draft) (NN began)))
+    (, ,)
+    (NP (CD five) (NNS quarterbacks))
+    (VP (VBD were)
+      (NP
+        (NP (DT the) (JJ first) (NNS players))
+        (VP (VBN chosen))))
+    (. .)))
+
+det(began-4, the-2)
+nn(began-4, draft-3)
+prep_once(players-11, began-4)
+num(quarterbacks-7, five-6)
+nsubj(players-11, quarterbacks-7)
+cop(players-11, were-8)
+det(players-11, the-9)
+amod(players-11, first-10)
+root(ROOT-0, players-11)
+vmod(players-11, chosen-12)
+
+(ROOT
+  (S
+    (NP (NNP Ex-Maryland) (NNP quarterback) (NNP Scott) (NNP Milanovich))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (NN distinction))
+        (PP (IN of)
+          (S
+            (VP (VBG being)
+              (NP
+                (NP (DT the) (JJ first) (NN XFL) (NN player))
+                (ADJP (VBN selected) (IN _)))))))
+      (PP (IN by)
+        (NP (DT the) (NNP Xtreme))))
+    (. .)))
+
+nn(Milanovich-4, Ex-Maryland-1)
+nn(Milanovich-4, quarterback-2)
+nn(Milanovich-4, Scott-3)
+nsubj(had-5, Milanovich-4)
+root(ROOT-0, had-5)
+det(distinction-7, the-6)
+dobj(had-5, distinction-7)
+cop(player-13, being-9)
+det(player-13, the-10)
+amod(player-13, first-11)
+nn(player-13, XFL-12)
+prepc_of(distinction-7, player-13)
+amod(player-13, selected-14)
+dep(selected-14, _-15)
+det(Xtreme-18, the-17)
+prep_by(had-5, Xtreme-18)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS Enforcers))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (JJ last) (NN pick))
+          (PP (IN of)
+            (NP (DT the) (JJ first) (NN round)))))
+      (, ,))
+    (VP (VBD nabbed)
+      (S
+        (VP (VBG running)
+          (PRT (RB back))
+          (NP
+            (NP (NNP John) (NNP Avery))
+            (, ,)
+            (NP
+              (NP (DT a) (NN first-round) (NN pick))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NNP Miami) (NNP Dolphins))
+                  (PP (IN in)
+                    (NP (CD 1998))))))))))
+    (. .)))
+
+det(Enforcers-2, The-1)
+nsubj(nabbed-13, Enforcers-2)
+det(pick-7, the-5)
+amod(pick-7, last-6)
+prep_with(Enforcers-2, pick-7)
+det(round-11, the-9)
+amod(round-11, first-10)
+prep_of(pick-7, round-11)
+root(ROOT-0, nabbed-13)
+xcomp(nabbed-13, running-14)
+prt(running-14, back-15)
+nn(Avery-17, John-16)
+dobj(running-14, Avery-17)
+det(pick-21, a-19)
+nn(pick-21, first-round-20)
+appos(Avery-17, pick-21)
+det(Dolphins-25, the-23)
+nn(Dolphins-25, Miami-24)
+prep_of(pick-21, Dolphins-25)
+prep_in(Dolphins-25, 1998-27)
+
+(ROOT
+  (S (CC And)
+    (PP (IN near)
+      (NP
+        (NP (DT the) (NN end))
+        (NP (DT the) (JJ first) (NN day))))
+    (PP (IN _)
+      (NP (DT the) (JJ draft) (NNS continues)))
+    (NP
+      (NP (NNP Sunday)
+        (CC and)
+        (NNP Monday) (NNP _) (NNP quarterback) (NNP Jim) (NNP Druckenmiller))
+      (, ,)
+      (NP
+        (NP (DT a) (NN first-round) (NN choice))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNP San) (NNP Francisco) (NNS 49ers))
+            (PP (IN in)
+              (NP (CD 1997))))))
+      (, ,))
+    (VP (VBD was)
+      (VP (VBN selected)
+        (PP (IN by)
+          (NP (DT the) (NNP Maniax)))
+        (PP (IN with)
+          (NP (DT the) (JJ 78th) (NN selection)))))
+    (. .)))
+
+cc(selected-32, And-1)
+det(end-4, the-3)
+prep_near(selected-32, end-4)
+det(day-7, the-5)
+amod(day-7, first-6)
+dep(end-4, day-7)
+det(continues-11, the-9)
+amod(continues-11, draft-10)
+prep__(selected-32, continues-11)
+nn(Druckenmiller-18, Sunday-12)
+conj_and(Sunday-12, Monday-14)
+nn(Druckenmiller-18, Monday-14)
+nn(Druckenmiller-18, _-15)
+nn(Druckenmiller-18, quarterback-16)
+nn(Druckenmiller-18, Jim-17)
+nsubjpass(selected-32, Druckenmiller-18)
+det(choice-22, a-20)
+nn(choice-22, first-round-21)
+appos(Druckenmiller-18, choice-22)
+det(49ers-27, the-24)
+nn(49ers-27, San-25)
+nn(49ers-27, Francisco-26)
+prep_of(choice-22, 49ers-27)
+prep_in(49ers-27, 1997-29)
+auxpass(selected-32, was-31)
+root(ROOT-0, selected-32)
+det(Maniax-35, the-34)
+agent(selected-32, Maniax-35)
+det(selection-39, the-37)
+amod(selection-39, 78th-38)
+prep_with(selected-32, selection-39)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Avery) (, ,) (NNP Druckenmiller))
+      (, ,)
+      (VP (VBG running)
+        (PRT (RB back))
+        (NP
+          (NP
+            (NP (NNP Vaughn) (NNP Dunbar))
+            (CC and)
+            (NP (NN linebacker) (NNP Craig) (NNP Powell)))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S (DT both)
+              (VP (VBD went)
+                (PP (TO to)
+                  (NP (DT the) (NNP San) (NNP Francisco) (NNPS Demons))))))))
+      (, ,))
+    (VP (VBD were)
+      (NP (DT all) (NNP NFL) (NN first-round) (NNS selections)))
+    (. .)))
+
+nn(Druckenmiller-3, Avery-1)
+nsubj(selections-27, Druckenmiller-3)
+vmod(Druckenmiller-3, running-5)
+prt(running-5, back-6)
+nn(Dunbar-8, Vaughn-7)
+dobj(running-5, Dunbar-8)
+nsubj(went-16, Dunbar-8)
+nn(Powell-12, linebacker-10)
+nn(Powell-12, Craig-11)
+dobj(running-5, Powell-12)
+conj_and(Dunbar-8, Powell-12)
+nsubj(went-16, Powell-12)
+dep(went-16, both-15)
+rcmod(Dunbar-8, went-16)
+det(Demons-21, the-18)
+nn(Demons-21, San-19)
+nn(Demons-21, Francisco-20)
+prep_to(went-16, Demons-21)
+cop(selections-27, were-23)
+det(selections-27, all-24)
+nn(selections-27, NFL-25)
+nn(selections-27, first-round-26)
+root(ROOT-0, selections-27)
+
+(ROOT
+  (S
+    (ADVP (RB ``Interestingly))
+    (, ,)
+    (NP
+      (NP (PDT all) (DT the) (NNS coaches))
+      (PP (NN tell)
+        (NP (PRP me))))
+    (NP (PRP they))
+    (VP (VBD got)
+      (NP
+        (NP (RB exactly) (DT the) (NNS players))
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBD wanted)
+              (SBAR
+                (S
+                  (NP (DT ,'') (NNP DeVito))
+                  (VP (VBD said)))))))))
+    (. .)))
+
+advmod(got-9, ``Interestingly-1)
+predet(coaches-5, all-3)
+det(coaches-5, the-4)
+nsubj(got-9, coaches-5)
+prep(coaches-5, tell-6)
+dep(tell-6, me-7)
+nsubj(got-9, they-8)
+root(ROOT-0, got-9)
+advmod(players-12, exactly-10)
+det(players-12, the-11)
+dobj(got-9, players-12)
+nsubj(wanted-14, they-13)
+rcmod(players-12, wanted-14)
+det(DeVito-16, ,''-15)
+nsubj(said-17, DeVito-16)
+ccomp(wanted-14, said-17)
+
+(ROOT
+  (S
+    (PP (IN ``And)
+      (SBAR (IN since)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (ADVP (RB still))
+            (ADJP (JJ undefeated))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP guess)
+      (SBAR (IN that)
+        (S
+          (NP (POS 's))
+          (ADVP (NNP OK))
+          (VP (. .'')))))))
+
+dep(guess-9, ``And-1)
+mark(undefeated-6, since-2)
+nsubj(undefeated-6, they-3)
+cop(undefeated-6, are-4)
+advmod(undefeated-6, still-5)
+pcomp(``And-1, undefeated-6)
+nsubj(guess-9, I-8)
+root(ROOT-0, guess-9)
+mark(.''-13, that-10)
+nsubj(.''-13, 's-11)
+advmod(.''-13, OK-12)
+ccomp(guess-9, .''-13)
+

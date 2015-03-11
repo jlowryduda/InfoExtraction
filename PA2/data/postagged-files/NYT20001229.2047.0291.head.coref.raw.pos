@@ -6,8 +6,8 @@ BC-ELN-VOTE-TOTAL-ART-NYT_NNP
 
 GORE'S_NNP LEAD_NNP IN_NNP THE_NNP POPULAR_NNP VOTE_NNP NOW_NNP EXCEEDS_NNP 500,000_CD 
 
-(ART_JJ ADV_NN :_: Graphic_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP graphic_JJ clients_NNS ._. 
-Nonsubscribers_NNS can_MD purchase_VB one-time_JJ rights_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .)_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP DAVID_NNP STOUT_NNP &QC_NNP ;_: &LR_NNS ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
+[ART_JJ ADV_NN :_: Graphic_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP graphic_JJ clients_NNS ._. 
+Nonsubscribers_NNS can_MD purchase_VB one-time_JJ rights_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .]_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP DAVID_NNP STOUT_NNP &QC_NNP ;_: &LR_NNS ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
 Times_NNP News_NNP Service_NNP &QC_NNP ;_: &LR_NNS ;_: &QL_NNP ;_: 
 
 WASHINGTON_NNP __NNP Vice_NNP President_NNP Al_NNP Gore_NNP 's_POS nationwide_NN lead_NN in_IN the_DT popular_JJ vote_NN has_VBZ grown_VBN by_IN about_IN 200,000_CD ,_, to_TO more_RBR than_IN half_JJ a_DT million_CD ,_, since_IN Dec_NNP ._. 
@@ -55,8 +55,8 @@ It_PRP was_VBD clear_RB on_IN Election_NNP Night_NNP that_IN Gore_NNP had_VBD ca
 
 The_DT final_JJ certified_JJ totals_NNS in_IN California_NNP were_VBD 5,861,203_CD for_IN Gore_NNP and_CC 4,567,429_CD for_IN Bush_NNP ._. 
 Alfie_NNP Charles_NNP ,_, a_DT spokesman_NN for_IN the_DT California_NNP secretary_NN of_IN state_NN ,_, Bill_NNP Jones_NNP ,_, said_VBD the_DT percentage_NN of_IN Californians_NNS voting_VBG by_IN absentee_JJ ballot_NN has_VBZ been_VBN increasing_VBG ,_, and_CC that_IN about_IN one-quarter_NN do_VBP now_RB ._. 
-(Californians_NNS ,_, unlike_JJ people_NNS in_IN some_DT states_NNS ,_, can_MD vote_VB absentee_VB without_IN showing_VBG a_DT compelling_VBG reason_NN ._. 
-Their_RB ballots_NNS must_MD arrive_VB by_IN Election_NNP Day_NNP to_TO be_VB counted_VBN .)_. 
+[Californians_NNS ,_, unlike_JJ people_NNS in_IN some_DT states_NNS ,_, can_MD vote_VB absentee_VB without_IN showing_VBG a_DT compelling_VBG reason_NN ._. 
+Their_RB ballots_NNS must_MD arrive_VB by_IN Election_NNP Day_NNP to_TO be_VB counted_VBN .]_. 
 
 NYT-12-29-00_CD 2114EST_CD 
 

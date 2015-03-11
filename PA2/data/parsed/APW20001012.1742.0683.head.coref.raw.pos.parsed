@@ -1,0 +1,167 @@
+APW20001012.1742.0683/DT NEWS/NNP STORY/NNPS 2000-10-12/CD 17:59:47/CD
+
+(ROOT
+  (NP
+    (NP (DT APW20001012.1742.0683))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-10-12) (CD 17:59:47))))
+
+root(ROOT-0, APW20001012.1742.0683-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001012.1742.0683-1, STORY-3)
+num(17:59:47-5, 2000-10-12-4)
+dep(APW20001012.1742.0683-1, 17:59:47-5)
+
+US-Mideast/JJ
+
+(ROOT
+  (ADJP (JJ US-Mideast)))
+
+root(ROOT-0, US-Mideast-1)
+
+Clinton/NNP Urges/NNPS Mideast/NNP Cease-Fire/.
+
+(ROOT
+  (NP
+    (NP (NNP Clinton) (NNPS Urges) (NNP Mideast))
+    (. Cease-Fire)))
+
+nn(Mideast-3, Clinton-1)
+nn(Mideast-3, Urges-2)
+root(ROOT-0, Mideast-3)
+punct(Mideast-3, Cease-Fire-4)
+
+WASHINGTON/NNP [AP/NNP ]/NNP _/NNP President/NNP Clinton/NNP urged/VBD Israelis/NNP and/CC Palestinians/NNPS to/TO undertake/VB an/DT immediate/JJ cease-fire/NN after/IN a/DT new/JJ outbreak/NN of/IN bloodshed/JJ and/CC called/VBN on/IN both/DT sides/NNS to/TO condemn/VB all/DT acts/NNS of/IN violence/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP WASHINGTON) (NNP [AP) (NNP ]) (NNP _) (NNP President) (NNP Clinton))
+    (VP
+      (VP (VBD urged)
+        (NP
+          (NP (NNP Israelis))
+          (CC and)
+          (NP (NNPS Palestinians)))
+        (S
+          (VP (TO to)
+            (VP (VB undertake)
+              (NP (DT an) (JJ immediate) (NN cease-fire))
+              (PP (IN after)
+                (NP
+                  (NP (DT a) (JJ new) (NN outbreak))
+                  (PP (IN of)
+                    (ADJP (JJ bloodshed)))))))))
+      (CC and)
+      (VP (VBN called)
+        (PP (IN on)
+          (NP (DT both) (NNS sides)))
+        (S
+          (VP (TO to)
+            (VP (VB condemn)
+              (NP
+                (NP (DT all) (NNS acts))
+                (PP (IN of)
+                  (NP (NN violence)))))))))
+    (. .)))
+
+nn(Clinton-6, WASHINGTON-1)
+nn(Clinton-6, [AP-2)
+nn(Clinton-6, ]-3)
+nn(Clinton-6, _-4)
+nn(Clinton-6, President-5)
+nsubj(urged-7, Clinton-6)
+nsubj(called-23, Clinton-6)
+nsubj(condemn-28, Clinton-6)
+root(ROOT-0, urged-7)
+dobj(urged-7, Israelis-8)
+nsubj(undertake-12, Israelis-8)
+dobj(urged-7, Palestinians-10)
+conj_and(Israelis-8, Palestinians-10)
+nsubj(undertake-12, Palestinians-10)
+aux(undertake-12, to-11)
+xcomp(urged-7, undertake-12)
+det(cease-fire-15, an-13)
+amod(cease-fire-15, immediate-14)
+dobj(undertake-12, cease-fire-15)
+det(outbreak-19, a-17)
+amod(outbreak-19, new-18)
+prep_after(undertake-12, outbreak-19)
+prep_of(outbreak-19, bloodshed-21)
+conj_and(urged-7, called-23)
+det(sides-26, both-25)
+prep_on(called-23, sides-26)
+aux(condemn-28, to-27)
+xcomp(called-23, condemn-28)
+det(acts-30, all-29)
+dobj(condemn-28, acts-30)
+prep_of(acts-30, violence-32)
+
+``Now/NNP is/VBZ the/DT time/NN to/TO stop/VB the/DT bloodshed/NN ,/, to/TO restore/VB calm/NN ,/, to/TO return/VB to/TO dialogue/VB and/CC ultimately/RB to/TO the/DT peace/NN process/NN ,''/IN the/DT president/NN said/VBD Thursday/NNP afternoon/NN in/IN the/DT White/NNP House/NNP Rose/NNP Garden/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP ``Now))
+    (VP (VBZ is)
+      (NP (DT the) (NN time)
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB stop)
+                (NP (DT the) (NN bloodshed))))
+            (, ,)
+            (VP (TO to)
+              (VP (VB restore)
+                (NP (NN calm))))
+            (, ,)
+            (VP (TO to)
+              (VP (VB return)
+                (S
+                  (VP (TO to)
+                    (VP
+                      (VP (VB dialogue))
+                      (CC and)
+                      (VP
+                        (ADVP (RB ultimately))
+                        (PP (TO to)
+                          (NP (DT the) (NN peace) (NN process)))))))
+                (SBAR (IN ,'')
+                  (S
+                    (NP (DT the) (NN president))
+                    (VP (VBD said)
+                      (NP (NNP Thursday) (NN afternoon))
+                      (PP (IN in)
+                        (NP (DT the) (NNP White) (NNP House) (NNP Rose) (NNP Garden))))))))))))
+    (. .)))
+
+nsubj(time-4, ``Now-1)
+cop(time-4, is-2)
+det(time-4, the-3)
+root(ROOT-0, time-4)
+aux(stop-6, to-5)
+dep(time-4, stop-6)
+det(bloodshed-8, the-7)
+dobj(stop-6, bloodshed-8)
+aux(restore-11, to-10)
+dep(stop-6, restore-11)
+dobj(restore-11, calm-12)
+aux(return-15, to-14)
+dep(stop-6, return-15)
+aux(dialogue-17, to-16)
+xcomp(return-15, dialogue-17)
+xcomp(return-15, ultimately-19)
+conj_and(dialogue-17, ultimately-19)
+det(process-23, the-21)
+nn(process-23, peace-22)
+prep_to(ultimately-19, process-23)
+mark(said-27, ,''-24)
+det(president-26, the-25)
+nsubj(said-27, president-26)
+advcl(return-15, said-27)
+nn(afternoon-29, Thursday-28)
+dobj(said-27, afternoon-29)
+det(Garden-35, the-31)
+nn(Garden-35, White-32)
+nn(Garden-35, House-33)
+nn(Garden-35, Rose-34)
+prep_in(said-27, Garden-35)
+

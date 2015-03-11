@@ -1,0 +1,753 @@
+APW20001202.0257.0120/DT NEWS/NNP STORY/NNPS 2000-12-02/CD 03:26:26/CD
+
+(ROOT
+  (NP
+    (NP (DT APW20001202.0257.0120))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-12-02) (CD 03:26:26))))
+
+root(ROOT-0, APW20001202.0257.0120-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001202.0257.0120-1, STORY-3)
+num(03:26:26-5, 2000-12-02-4)
+dep(APW20001202.0257.0120-1, 03:26:26-5)
+
+FBC-Arizona-St-Coach/JJ
+
+(ROOT
+  (ADJP (JJ FBC-Arizona-St-Coach)))
+
+root(ROOT-0, FBC-Arizona-St-Coach-1)
+
+Koetter/NNP Accepts/NNPS ASU/NNP Coaching/NNP Job/NNP
+
+(ROOT
+  (NP
+    (NP (NNP Koetter) (NNPS Accepts) (NNP ASU))
+    (NP (NNP Coaching) (NNP Job))))
+
+nn(ASU-3, Koetter-1)
+nn(ASU-3, Accepts-2)
+root(ROOT-0, ASU-3)
+nn(Job-5, Coaching-4)
+dep(ASU-3, Job-5)
+
+PHOENIX/NNP [AP/NNP ]/NNP _/NNP Boise/NNP State/NNP coach/NN Dirk/NNP Koetter/NNP ,/, who/WP just/RB a/DT day/NN earlier/RB was/VBD reportedly/RB headed/VBN for/IN Oklahoma/NNP State/NNP ,/, has/VBZ agreed/VBN to/TO a/DT contract/NN to/TO coach/VB Arizona/NNP State/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP PHOENIX) (NNP [AP) (NNP ]) (NNP _) (NNP Boise) (NNP State) (NN coach) (NNP Dirk) (NNP Koetter))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (ADVP
+            (NP (RB just) (DT a) (NN day))
+            (RB earlier))
+          (VP (VBD was)
+            (ADVP (RB reportedly))
+            (VP (VBN headed)
+              (PP (IN for)
+                (NP (NNP Oklahoma) (NNP State)))))))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN agreed)
+        (PP (TO to)
+          (NP (DT a) (NN contract)))
+        (S
+          (VP (TO to)
+            (VP (VB coach)
+              (NP (NNP Arizona) (NNP State)))))))
+    (. .)))
+
+nn(Koetter-9, PHOENIX-1)
+nn(Koetter-9, [AP-2)
+nn(Koetter-9, ]-3)
+nn(Koetter-9, _-4)
+nn(Koetter-9, Boise-5)
+nn(Koetter-9, State-6)
+nn(Koetter-9, coach-7)
+nn(Koetter-9, Dirk-8)
+nsubjpass(headed-18, Koetter-9)
+nsubj(agreed-24, Koetter-9)
+nsubj(coach-29, Koetter-9)
+advmod(day-14, just-12)
+det(day-14, a-13)
+npadvmod(earlier-15, day-14)
+advmod(headed-18, earlier-15)
+auxpass(headed-18, was-16)
+advmod(headed-18, reportedly-17)
+rcmod(Koetter-9, headed-18)
+nn(State-21, Oklahoma-20)
+prep_for(headed-18, State-21)
+aux(agreed-24, has-23)
+root(ROOT-0, agreed-24)
+det(contract-27, a-26)
+prep_to(agreed-24, contract-27)
+aux(coach-29, to-28)
+xcomp(agreed-24, coach-29)
+nn(State-31, Arizona-30)
+dobj(coach-29, State-31)
+
+Oklahoma/NNP State/NNP athletic/JJ director/NN Terry/NNP Don/NNP Phillips/NNPS confirmed/VBD Koetter/NNP 's/POS decision/NN in/IN a/DT news/NN release/NN issued/VBN Friday/NNP night/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Oklahoma) (NNP State) (JJ athletic) (NN director))
+      (NP (NNP Terry) (NNP Don) (NNPS Phillips)))
+    (VP (VBD confirmed)
+      (NP
+        (NP (NNP Koetter) (POS 's))
+        (NN decision))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN news) (NN release))
+          (VP (VBN issued)
+            (NP (NNP Friday) (NNP night))))))
+    (. .)))
+
+nn(director-4, Oklahoma-1)
+nn(director-4, State-2)
+amod(director-4, athletic-3)
+nsubj(confirmed-8, director-4)
+nn(Phillips-7, Terry-5)
+nn(Phillips-7, Don-6)
+dep(director-4, Phillips-7)
+root(ROOT-0, confirmed-8)
+poss(decision-11, Koetter-9)
+dobj(confirmed-8, decision-11)
+det(release-15, a-13)
+nn(release-15, news-14)
+prep_in(confirmed-8, release-15)
+vmod(release-15, issued-16)
+nn(night-18, Friday-17)
+tmod(issued-16, night-18)
+
+``Coach/NNP Koetter/NNP informed/VBD me/PRP at/IN approximately/RB 7/CD p.m/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP ``Coach) (NNP Koetter))
+    (VP (VBD informed)
+      (NP (PRP me))
+      (PP (IN at)
+        (NP
+          (QP (RB approximately) (CD 7))
+          (NN p.m))))
+    (. .)))
+
+nn(Koetter-2, ``Coach-1)
+nsubj(informed-3, Koetter-2)
+root(ROOT-0, informed-3)
+dobj(informed-3, me-4)
+quantmod(7-7, approximately-6)
+num(p.m-8, 7-7)
+prep_at(informed-3, p.m-8)
+
+[CST/NNP ]/NNP tonight/NN that/IN he/PRP had/VBD been/VBN tendered/VBN an/DT offer/NN from/IN Arizona/NNP State/NNP University/NNP and/CC had/VBD accepted/VBN ,''/JJ Phillips/NNS said/VBD ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP [CST) (NNP ]))
+      (NP (NN tonight))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP
+            (VP (VBD had)
+              (VP (VBN been)
+                (VP (VBN tendered)
+                  (NP (DT an) (NN offer))
+                  (PP (IN from)
+                    (NP (NNP Arizona) (NNP State) (NNP University))))))
+            (CC and)
+            (VP (VBD had)
+              (VP (VBN accepted)
+                (NP (JJ ,'') (NNS Phillips))))))))
+    (VP (VBD said))
+    (. .)))
+
+nn(]-2, [CST-1)
+nsubj(said-20, ]-2)
+dep(]-2, tonight-3)
+mark(tendered-8, that-4)
+nsubjpass(tendered-8, he-5)
+nsubjpass(accepted-17, he-5)
+aux(tendered-8, had-6)
+auxpass(tendered-8, been-7)
+dep(]-2, tendered-8)
+det(offer-10, an-9)
+dobj(tendered-8, offer-10)
+nn(University-14, Arizona-12)
+nn(University-14, State-13)
+prep_from(tendered-8, University-14)
+aux(accepted-17, had-16)
+dep(]-2, accepted-17)
+conj_and(tendered-8, accepted-17)
+amod(Phillips-19, ,''-18)
+dobj(accepted-17, Phillips-19)
+root(ROOT-0, said-20)
+
+Koetter/NNP ,/, 41/CD ,/, replaces/VBZ Bruce/NNP Snyder/NNP ,/, who/WP was/VBD fired/VBN after/IN nine/CD seasons/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Koetter))
+      (, ,)
+      (NP (CD 41))
+      (, ,))
+    (VP (VBZ replaces)
+      (NP
+        (NP (NNP Bruce) (NNP Snyder))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD was)
+              (VP (VBN fired)
+                (PP (IN after)
+                  (NP (CD nine) (NNS seasons)))))))))
+    (. .)))
+
+nsubj(replaces-5, Koetter-1)
+amod(Koetter-1, 41-3)
+root(ROOT-0, replaces-5)
+nn(Snyder-7, Bruce-6)
+dobj(replaces-5, Snyder-7)
+nsubjpass(fired-11, Snyder-7)
+auxpass(fired-11, was-10)
+rcmod(Snyder-7, fired-11)
+num(seasons-14, nine-13)
+prep_after(fired-11, seasons-14)
+
+Snyder/NNP will/MD coach/VB Arizona/NNP State/NNP in/IN a/DT bowl/JJ game/NN ,/, most/RBS likely/JJ the/DT Las/NNP Vegas/NNP Bowl/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP Snyder))
+    (VP (MD will)
+      (VP (VB coach)
+        (NP
+          (NP (NNP Arizona) (NNP State))
+          (PP (IN in)
+            (NP
+              (NP (DT a) (JJ bowl) (NN game))
+              (, ,)
+              (ADVP (RBS most) (JJ likely))
+              (NP (DT the) (NNP Las) (NNP Vegas) (NNP Bowl)))))))
+    (. .)))
+
+nsubj(coach-3, Snyder-1)
+aux(coach-3, will-2)
+root(ROOT-0, coach-3)
+nn(State-5, Arizona-4)
+dobj(coach-3, State-5)
+det(game-9, a-7)
+amod(game-9, bowl-8)
+prep_in(State-5, game-9)
+advmod(likely-12, most-11)
+advmod(game-9, likely-12)
+det(Bowl-16, the-13)
+nn(Bowl-16, Las-14)
+nn(Bowl-16, Vegas-15)
+dep(game-9, Bowl-16)
+
+The/DT Daily/JJ Oklahoman/NNP and/CC several/JJ TV/NNS and/CC radio/NN stations/NNS in/IN Oklahoma/NNP had/VBD reported/VBN Thursday/NN and/CC Friday/NN that/IN Koetter/NNP had/VBD accepted/VBN the/DT Oklahoma/NNP State/NNP job/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ Daily) (NNP Oklahoman))
+      (CC and)
+      (NP
+        (NP (JJ several) (NNS TV)
+          (CC and)
+          (NN radio) (NNS stations))
+        (PP (IN in)
+          (NP (NNP Oklahoma)))))
+    (VP (VBD had)
+      (VP (VBN reported)
+        (S
+          (ADJP (NN Thursday)
+            (CC and)
+            (NN Friday)))
+        (SBAR (IN that)
+          (S
+            (NP (NNP Koetter))
+            (VP (VBD had)
+              (VP (VBN accepted)
+                (NP (DT the) (NNP Oklahoma) (NNP State) (NN job))))))))
+    (. .)))
+
+det(Oklahoman-3, The-1)
+amod(Oklahoman-3, Daily-2)
+nsubj(reported-13, Oklahoman-3)
+amod(TV-6, several-5)
+conj_and(Oklahoman-3, TV-6)
+nsubj(reported-13, TV-6)
+nn(stations-9, radio-8)
+conj_and(Oklahoman-3, stations-9)
+conj_and(TV-6, stations-9)
+prep_in(TV-6, Oklahoma-11)
+aux(reported-13, had-12)
+root(ROOT-0, reported-13)
+dep(reported-13, Thursday-14)
+dep(reported-13, Friday-16)
+conj_and(Thursday-14, Friday-16)
+mark(accepted-20, that-17)
+nsubj(accepted-20, Koetter-18)
+aux(accepted-20, had-19)
+ccomp(reported-13, accepted-20)
+det(job-24, the-21)
+nn(job-24, Oklahoma-22)
+nn(job-24, State-23)
+dobj(accepted-20, job-24)
+
+But/CC Phillips/NNS never/RB confirmed/VBD those/DT reports/NNS ,/, and/CC Koetter/NNP would/MD not/RB comment/VB on/IN any/DT job/NN possibilities/NNS at/IN Boise/NNP State/NNP 's/POS practice/NN Friday/NN ./.
+
+(ROOT
+  (S
+    (S (CC But)
+      (NP (NNS Phillips))
+      (ADVP (RB never))
+      (VP (VBD confirmed)
+        (NP (DT those) (NNS reports))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP Koetter))
+      (VP (MD would) (RB not)
+        (VP (VB comment)
+          (PP (IN on)
+            (NP (DT any) (NN job) (NNS possibilities)))
+          (PP (IN at)
+            (NP
+              (NP (NNP Boise) (NNP State) (POS 's))
+              (NN practice) (NN Friday))))))
+    (. .)))
+
+nsubj(confirmed-4, Phillips-2)
+neg(confirmed-4, never-3)
+root(ROOT-0, confirmed-4)
+det(reports-6, those-5)
+dobj(confirmed-4, reports-6)
+nsubj(comment-12, Koetter-9)
+aux(comment-12, would-10)
+neg(comment-12, not-11)
+conj_and(confirmed-4, comment-12)
+det(possibilities-16, any-14)
+nn(possibilities-16, job-15)
+prep_on(comment-12, possibilities-16)
+nn(State-19, Boise-18)
+poss(Friday-22, State-19)
+nn(Friday-22, practice-21)
+prep_at(comment-12, Friday-22)
+
+Koetter/NNP said/VBD earlier/RB in/IN the/DT week/NN he/PRP had/VBD interviewed/VBN with/IN Phillips/NNS and/CC with/IN Arizona/NNP State/NNP athletic/JJ director/NN Gene/IN Smith/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP Koetter))
+    (VP (VBD said)
+      (ADVP (RB earlier)
+        (PP (IN in)
+          (NP (DT the) (NN week))))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD had)
+            (VP (VBN interviewed)
+              (PP
+                (PP (IN with)
+                  (NP (NNS Phillips)))
+                (CC and)
+                (PP (IN with)
+                  (NP (NNP Arizona) (NNP State) (JJ athletic) (NN director))))
+              (PP (IN Gene)
+                (NP (NNP Smith))))))))
+    (. .)))
+
+nsubj(said-2, Koetter-1)
+root(ROOT-0, said-2)
+advmod(said-2, earlier-3)
+det(week-6, the-5)
+prep_in(earlier-3, week-6)
+nsubj(interviewed-9, he-7)
+aux(interviewed-9, had-8)
+ccomp(said-2, interviewed-9)
+prep_with(interviewed-9, Phillips-11)
+nn(director-17, Arizona-14)
+nn(director-17, State-15)
+amod(director-17, athletic-16)
+prep_with(interviewed-9, director-17)
+conj_and(Phillips-11, director-17)
+prep_gene(interviewed-9, Smith-19)
+
+Koetter/NNP is/VBZ considered/VBN one/CD of/IN the/DT country/NN 's/POS top/JJ young/JJ coaching/NN prospects/NNS ./.
+
+(ROOT
+  (S
+    (NP (NNP Koetter))
+    (VP (VBZ is)
+      (VP (VBN considered)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN country) (POS 's))
+              (JJ top) (JJ young) (NN coaching) (NNS prospects))))))
+    (. .)))
+
+nsubjpass(considered-3, Koetter-1)
+auxpass(considered-3, is-2)
+root(ROOT-0, considered-3)
+dobj(considered-3, one-4)
+det(country-7, the-6)
+poss(prospects-12, country-7)
+amod(prospects-12, top-9)
+amod(prospects-12, young-10)
+nn(prospects-12, coaching-11)
+prep_of(one-4, prospects-12)
+
+Using/VBG an/DT innovative/JJ ,/, wide-open/JJ offense/NN ,/, he/PRP guided/VBD Boise/NNP State/NNP to/TO a/DT 25-10/JJ record/NN in/IN three/CD seasons/NNS ./.
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Using)
+        (NP (DT an) (JJ innovative) (, ,) (JJ wide-open) (NN offense))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD guided)
+      (NP (NNP Boise) (NNP State))
+      (PP (TO to)
+        (NP (DT a) (JJ 25-10) (NN record)))
+      (PP (IN in)
+        (NP (CD three) (NNS seasons))))
+    (. .)))
+
+vmod(guided-9, Using-1)
+det(offense-6, an-2)
+amod(offense-6, innovative-3)
+amod(offense-6, wide-open-5)
+dobj(Using-1, offense-6)
+nsubj(guided-9, he-8)
+root(ROOT-0, guided-9)
+nn(State-11, Boise-10)
+dobj(guided-9, State-11)
+det(record-15, a-13)
+amod(record-15, 25-10-14)
+prep_to(guided-9, record-15)
+num(seasons-18, three-17)
+prep_in(guided-9, seasons-18)
+
+His/PRP$ first/JJ team/NN went/VBD 6-5/CD ,/, followed/VBN by/IN last/JJ year/NN 's/POS 10-3/CD record/NN ,/, which/WDT included/VBD a/DT 34-31/JJ victory/NN over/IN Louisville/NNP in/IN the/DT Humanitarian/NNP Bowl/NNP ./.
+
+(ROOT
+  (S
+    (NP (PRP$ His) (JJ first) (NN team))
+    (VP (VBD went)
+      (NP
+        (NP (CD 6-5))
+        (, ,)
+        (VP (VBN followed)
+          (PP (IN by)
+            (NP
+              (NP (JJ last) (NN year) (POS 's))
+              (CD 10-3) (NN record))))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD included)
+              (NP (DT a) (JJ 34-31) (NN victory))
+              (PP (IN over)
+                (NP (NNP Louisville)))
+              (PP (IN in)
+                (NP (DT the) (NNP Humanitarian) (NNP Bowl))))))))
+    (. .)))
+
+poss(team-3, His-1)
+amod(team-3, first-2)
+nsubj(went-4, team-3)
+root(ROOT-0, went-4)
+dobj(went-4, 6-5-5)
+nsubj(included-16, 6-5-5)
+vmod(6-5-5, followed-7)
+amod(year-10, last-9)
+poss(record-13, year-10)
+num(record-13, 10-3-12)
+agent(followed-7, record-13)
+rcmod(6-5-5, included-16)
+det(victory-19, a-17)
+amod(victory-19, 34-31-18)
+dobj(included-16, victory-19)
+prep_over(included-16, Louisville-21)
+det(Bowl-25, the-23)
+nn(Bowl-25, Humanitarian-24)
+prep_in(included-16, Bowl-25)
+
+This/DT year/NN 's/POS team/NN is/VBZ 9-2/CD ,/, with/IN its/PRP$ only/JJ losses/NNS 38-31/JJ at/IN Arkansas/NNP and/CC 42-25/CD at/IN Washington/NNP State/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN year) (POS 's))
+      (NN team))
+    (VP (VBZ is)
+      (NP (CD 9-2))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP
+            (NP (PRP$ its) (JJ only) (NNS losses) (JJ 38-31))
+            (PP (IN at)
+              (NP (NNP Arkansas))))
+          (CC and)
+          (NP
+            (NP (CD 42-25))
+            (PP (IN at)
+              (NP (NNP Washington) (NNP State)))))))
+    (. .)))
+
+det(year-2, This-1)
+poss(team-4, year-2)
+nsubj(9-2-6, team-4)
+cop(9-2-6, is-5)
+root(ROOT-0, 9-2-6)
+poss(losses-11, its-9)
+amod(losses-11, only-10)
+prep_with(9-2-6, losses-11)
+amod(losses-11, 38-31-12)
+prep_at(losses-11, Arkansas-14)
+prep_with(9-2-6, 42-25-16)
+conj_and(losses-11, 42-25-16)
+nn(State-19, Washington-18)
+prep_at(42-25-16, State-19)
+
+Koetter/NNP may/MD not/RB have/VBP been/VBN Arizona/NNP State/NNP 's/POS top/JJ choice/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP Koetter))
+    (VP (MD may) (RB not)
+      (VP (VBP have)
+        (VP (VBN been)
+          (NP
+            (NP (NNP Arizona) (NNP State) (POS 's))
+            (JJ top) (NN choice)))))
+    (. .)))
+
+nsubj(choice-10, Koetter-1)
+aux(choice-10, may-2)
+neg(choice-10, not-3)
+aux(choice-10, have-4)
+cop(choice-10, been-5)
+nn(State-7, Arizona-6)
+poss(choice-10, State-7)
+amod(choice-10, top-9)
+root(ROOT-0, choice-10)
+
+Phoenix/NNP radio/NNP station/NN KMVP/NNP reported/VBD Friday/NN that/IN Smith/NNP had/VBD quietly/RB been/VBN working/VBG on/IN a/DT deal/NN with/IN TCU/NNP coach/NN Dennis/NNP Franchione/NNP that/WDT would/MD have/VB matched/VBN the/DT one/NN offered/VBN by/IN Alabama/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP Phoenix) (NNP radio) (NN station) (NNP KMVP))
+    (VP (VBD reported)
+      (NP (NN Friday))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Smith))
+          (VP (VBD had)
+            (ADVP (RB quietly))
+            (VP (VBN been)
+              (VP (VBG working)
+                (PP (IN on)
+                  (NP (DT a) (NN deal)))
+                (PP (IN with)
+                  (NP
+                    (NP (NNP TCU) (NN coach) (NNP Dennis) (NNP Franchione))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (MD would)
+                          (VP (VB have)
+                            (VP (VBN matched)
+                              (NP
+                                (NP (DT the) (NN one))
+                                (VP (VBN offered)
+                                  (PP (IN by)
+                                    (NP (NNP Alabama))))))))))))))))))
+    (. .)))
+
+nn(KMVP-4, Phoenix-1)
+nn(KMVP-4, radio-2)
+nn(KMVP-4, station-3)
+nsubj(reported-5, KMVP-4)
+root(ROOT-0, reported-5)
+tmod(reported-5, Friday-6)
+mark(working-12, that-7)
+nsubj(working-12, Smith-8)
+aux(working-12, had-9)
+advmod(working-12, quietly-10)
+aux(working-12, been-11)
+ccomp(reported-5, working-12)
+det(deal-15, a-14)
+prep_on(working-12, deal-15)
+nn(Franchione-20, TCU-17)
+nn(Franchione-20, coach-18)
+nn(Franchione-20, Dennis-19)
+prep_with(working-12, Franchione-20)
+nsubj(matched-24, Franchione-20)
+aux(matched-24, would-22)
+aux(matched-24, have-23)
+rcmod(Franchione-20, matched-24)
+det(one-26, the-25)
+dobj(matched-24, one-26)
+vmod(one-26, offered-27)
+agent(offered-27, Alabama-29)
+
+But/CC Franchione/NNP apparently/RB couldn't/VBD resist/JJ the/DT lure/NN of/IN one/CD of/IN college/NN football/NN 's/POS most/JJS storied/JJ programs/NNS ./.
+
+(ROOT
+  (S (CC But)
+    (NP (NNP Franchione))
+    (ADVP (RB apparently))
+    (VP (VBD couldn't)
+      (NP
+        (NP (JJ resist) (DT the) (NN lure))
+        (PP (IN of)
+          (NP (CD one)))
+        (PP (IN of)
+          (NP
+            (NP (NN college) (NN football) (POS 's))
+            (JJS most) (JJ storied) (NNS programs)))))
+    (. .)))
+
+cc(couldn't-4, But-1)
+nsubj(couldn't-4, Franchione-2)
+advmod(couldn't-4, apparently-3)
+root(ROOT-0, couldn't-4)
+amod(lure-7, resist-5)
+det(lure-7, the-6)
+dobj(couldn't-4, lure-7)
+prep_of(lure-7, one-9)
+nn(football-12, college-11)
+poss(programs-16, football-12)
+amod(programs-16, most-14)
+amod(programs-16, storied-15)
+prep_of(lure-7, programs-16)
+
+While/IN most/JJS of/IN the/DT recent/JJ speculation/NN centered/VBD on/IN Koetter/NN ,/, there/EX was/VBD pressure/NN from/IN some/DT Arizona/NNP State/NNP boosters/NNS to/TO hire/VB Danny/NNP White/NNP ,/, the/DT former/JJ Arizona/NNP State/NNP and/CC Dallas/NNP Cowboys/NNP quarterback/, who/WP coaches/VBZ the/DT Arizona/NNP Rattlers/NNPS of/IN the/DT Arena/NNP Football/NNP League/NNP ./.
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP
+          (NP (JJS most))
+          (PP (IN of)
+            (NP (DT the) (JJ recent) (NN speculation))))
+        (VP (VBD centered)
+          (PP (IN on)
+            (NP (NN Koetter))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD was)
+      (NP
+        (NP (NN pressure))
+        (PP (IN from)
+          (NP (DT some) (NNP Arizona) (NNP State) (NNS boosters)))
+        (S
+          (VP (TO to)
+            (VP (VB hire)
+              (NP
+                (NP (NNP Danny) (NNP White))
+                (, ,)
+                (NP (DT the) (JJ former) (NNP Arizona) (NNP State)
+                  (CC and)
+                  (NNP Dallas) (NNP Cowboys))
+                (, quarterback)
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBZ coaches)
+                      (NP
+                        (NP (DT the) (NNP Arizona) (NNPS Rattlers))
+                        (PP (IN of)
+                          (NP (DT the) (NNP Arena) (NNP Football) (NNP League)))))))))))))
+    (. .)))
+
+mark(centered-7, While-1)
+nsubj(centered-7, most-2)
+det(speculation-6, the-4)
+amod(speculation-6, recent-5)
+prep_of(most-2, speculation-6)
+advcl(was-12, centered-7)
+prep_on(centered-7, Koetter-9)
+expl(was-12, there-11)
+root(ROOT-0, was-12)
+nsubj(was-12, pressure-13)
+det(boosters-18, some-15)
+nn(boosters-18, Arizona-16)
+nn(boosters-18, State-17)
+prep_from(pressure-13, boosters-18)
+aux(hire-20, to-19)
+vmod(pressure-13, hire-20)
+nn(White-22, Danny-21)
+dobj(hire-20, White-22)
+nsubj(coaches-33, White-22)
+det(State-27, the-24)
+amod(State-27, former-25)
+nn(State-27, Arizona-26)
+appos(White-22, State-27)
+nn(Cowboys-30, Dallas-29)
+appos(White-22, Cowboys-30)
+conj_and(State-27, Cowboys-30)
+punct(White-22, quarterback-31)
+rcmod(White-22, coaches-33)
+det(Rattlers-36, the-34)
+nn(Rattlers-36, Arizona-35)
+dobj(coaches-33, Rattlers-36)
+det(League-41, the-38)
+nn(League-41, Arena-39)
+nn(League-41, Football-40)
+prep_of(Rattlers-36, League-41)
+
+Snyder/NNP was/VBD fired/VBN after/IN his/PRP$ teams/NNS went/VBD 6-6/CD last/JJ year/NN and/CC 6-5/CD this/DT season/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP Snyder))
+    (VP (VBD was)
+      (VP (VBN fired)
+        (SBAR (IN after)
+          (S
+            (NP (PRP$ his) (NNS teams))
+            (VP (VBD went)
+              (NP
+                (NP (CD 6-6) (JJ last) (NN year))
+                (CC and)
+                (NP (CD 6-5)))
+              (NP (DT this) (NN season)))))))
+    (. .)))
+
+nsubjpass(fired-3, Snyder-1)
+auxpass(fired-3, was-2)
+root(ROOT-0, fired-3)
+mark(went-7, after-4)
+poss(teams-6, his-5)
+nsubj(went-7, teams-6)
+advcl(fired-3, went-7)
+num(year-10, 6-6-8)
+amod(year-10, last-9)
+iobj(went-7, year-10)
+iobj(went-7, 6-5-12)
+conj_and(year-10, 6-5-12)
+det(season-14, this-13)
+dobj(went-7, season-14)
+

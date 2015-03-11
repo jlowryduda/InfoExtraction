@@ -1,0 +1,600 @@
+APW20001129.1802.0602/DT NEWS/NNP STORY/NNPS 2000-11-29/CD 18:28:28/CD
+
+(ROOT
+  (NP
+    (NP (DT APW20001129.1802.0602))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-11-29) (CD 18:28:28))))
+
+root(ROOT-0, APW20001129.1802.0602-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001129.1802.0602-1, STORY-3)
+num(18:28:28-5, 2000-11-29-4)
+dep(APW20001129.1802.0602-1, 18:28:28-5)
+
+Copley-Sale/JJ
+
+(ROOT
+  (ADJP (JJ Copley-Sale)))
+
+root(ROOT-0, Copley-Sale-1)
+
+Sale/JJ of/IN Copley/NNP Newspaper/NNP Delayed/VBN
+
+(ROOT
+  (ADJP (JJ Sale)
+    (PP (IN of)
+      (NP
+        (NP (NNP Copley) (NNP Newspaper))
+        (VP (VBN Delayed))))))
+
+root(ROOT-0, Sale-1)
+nn(Newspaper-4, Copley-3)
+prep_of(Sale-1, Newspaper-4)
+vmod(Newspaper-4, Delayed-5)
+
+CHICAGO/NNP [AP/NNP ]/NNP _/, A/DT federal/JJ judge/NN has/VBZ issued/VBN a/DT temporary/JJ restraining/VBG order/NN against/IN Copley/NNP Press/NNPS Inc./NNP blocking/VBG the/DT sale/NN of/IN The/DT News/NNP Sun/NNP in/IN Waukegan/NNP to/TO Hollinger/NNP International/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP CHICAGO) (NNP [AP) (NNP ]))
+      (PP (, _)
+        (NP (DT A) (JJ federal) (NN judge))))
+    (VP (VBZ has)
+      (VP (VBN issued)
+        (NP
+          (NP (DT a) (JJ temporary) (VBG restraining) (NN order))
+          (PP (IN against)
+            (NP
+              (NP (NNP Copley) (NNPS Press) (NNP Inc.))
+              (VP (VBG blocking)
+                (NP
+                  (NP (DT the) (NN sale))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT The) (NNP News) (NNP Sun))
+                      (PP (IN in)
+                        (NP (NNP Waukegan))))))
+                (PP (TO to)
+                  (NP (NNP Hollinger) (NNP International)))))))))
+    (. .)))
+
+nn(]-3, CHICAGO-1)
+nn(]-3, [AP-2)
+nsubj(issued-9, ]-3)
+punct(judge-7, _-4)
+det(judge-7, A-5)
+amod(judge-7, federal-6)
+prep(]-3, judge-7)
+aux(issued-9, has-8)
+root(ROOT-0, issued-9)
+det(order-13, a-10)
+amod(order-13, temporary-11)
+amod(order-13, restraining-12)
+dobj(issued-9, order-13)
+nn(Inc.-17, Copley-15)
+nn(Inc.-17, Press-16)
+prep_against(order-13, Inc.-17)
+vmod(Inc.-17, blocking-18)
+det(sale-20, the-19)
+dobj(blocking-18, sale-20)
+det(Sun-24, The-22)
+nn(Sun-24, News-23)
+prep_of(sale-20, Sun-24)
+prep_in(Sun-24, Waukegan-26)
+nn(International-29, Hollinger-28)
+prep_to(blocking-18, International-29)
+
+The/DT judge/NN 's/POS ruling/NN was/VBD prompted/VBN by/IN a/DT lawsuit/NN filed/VBN last/JJ week/NN by/IN the/DT union/NN representing/VBG editorial/JJ workers/NNS at/IN the/DT paper/NN ,/, which/WDT claims/VBZ the/DT sale/NN would/MD not/RB require/VB Hollinger/JJR to/TO honor/VB a/DT collective-bargaining/NN agreement/NN reached/VBD between/IN the/DT paper/NN and/CC employees/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN judge) (POS 's))
+      (NN ruling))
+    (VP (VBD was)
+      (VP (VBN prompted)
+        (PP (IN by)
+          (NP
+            (NP (DT a) (NN lawsuit))
+            (VP (VBN filed)
+              (NP (JJ last) (NN week))
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NN union))
+                  (VP (VBG representing)
+                    (NP (JJ editorial) (NNS workers))
+                    (PP (IN at)
+                      (NP
+                        (NP (DT the) (NN paper))
+                        (, ,)
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (VP (VBZ claims)
+                              (SBAR
+                                (S
+                                  (NP (DT the) (NN sale))
+                                  (VP (MD would) (RB not)
+                                    (VP (VB require)
+                                      (NP (JJR Hollinger))
+                                      (S
+                                        (VP (TO to)
+                                          (VP (VB honor)
+                                            (SBAR
+                                              (S
+                                                (NP (DT a) (NN collective-bargaining) (NN agreement))
+                                                (VP (VBD reached)
+                                                  (PP (IN between)
+                                                    (NP
+                                                      (NP (DT the) (NN paper))
+                                                      (CC and)
+                                                      (NP (NNS employees)))))))))))))))))))))))))))
+    (. .)))
+
+det(judge-2, The-1)
+poss(ruling-4, judge-2)
+nsubjpass(prompted-6, ruling-4)
+auxpass(prompted-6, was-5)
+root(ROOT-0, prompted-6)
+det(lawsuit-9, a-8)
+agent(prompted-6, lawsuit-9)
+vmod(lawsuit-9, filed-10)
+amod(week-12, last-11)
+tmod(filed-10, week-12)
+det(union-15, the-14)
+agent(filed-10, union-15)
+vmod(union-15, representing-16)
+amod(workers-18, editorial-17)
+dobj(representing-16, workers-18)
+det(paper-21, the-20)
+prep_at(representing-16, paper-21)
+nsubj(claims-24, paper-21)
+rcmod(paper-21, claims-24)
+det(sale-26, the-25)
+nsubj(require-29, sale-26)
+aux(require-29, would-27)
+neg(require-29, not-28)
+ccomp(claims-24, require-29)
+dobj(require-29, Hollinger-30)
+nsubj(honor-32, Hollinger-30)
+aux(honor-32, to-31)
+xcomp(require-29, honor-32)
+det(agreement-35, a-33)
+nn(agreement-35, collective-bargaining-34)
+nsubj(reached-36, agreement-35)
+ccomp(honor-32, reached-36)
+det(paper-39, the-38)
+prep_between(reached-36, paper-39)
+prep_between(reached-36, employees-41)
+conj_and(paper-39, employees-41)
+
+Lawyers/NNS for/IN the/DT Chicago/NNP Newspaper/NNP Guild/NNP say/VBP language/NN in/IN the/DT agreement/NN is/VBZ ``not/VBN satisfactory/JJ .''/.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Lawyers))
+      (PP (IN for)
+        (NP (DT the) (NNP Chicago) (NNP Newspaper) (NNP Guild))))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP
+            (NP (NN language))
+            (PP (IN in)
+              (NP (DT the) (NN agreement))))
+          (VP (VBZ is)
+            (VP (VBN ``not)
+              (S
+                (ADJP (JJ satisfactory))))))))
+    (. .'')))
+
+nsubj(say-7, Lawyers-1)
+det(Guild-6, the-3)
+nn(Guild-6, Chicago-4)
+nn(Guild-6, Newspaper-5)
+prep_for(Lawyers-1, Guild-6)
+root(ROOT-0, say-7)
+nsubjpass(``not-13, language-8)
+det(agreement-11, the-10)
+prep_in(language-8, agreement-11)
+auxpass(``not-13, is-12)
+ccomp(say-7, ``not-13)
+xcomp(``not-13, satisfactory-14)
+punct(say-7, .''-15)
+
+U.S./NNP District/NNP Judge/NNP Blanche/NNP Manning/NNP on/IN Tuesday/NNP barred/VBD the/DT sale/NN of/IN the/DT paper/NN for/IN at/IN least/JJS 10/CD days/NNS ,/, giving/VBG Copley/NNP time/NN to/TO reword/VB the/DT agreement/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP U.S.) (NNP District) (NNP Judge) (NNP Blanche) (NNP Manning))
+      (PP (IN on)
+        (NP (NNP Tuesday))))
+    (VP (VBD barred)
+      (NP
+        (NP (DT the) (NN sale))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN paper))
+            (PP (IN for)
+              (NP
+                (QP (IN at) (JJS least) (CD 10))
+                (NNS days))))))
+      (, ,)
+      (S
+        (VP (VBG giving)
+          (NP (NNP Copley) (NN time)
+            (S
+              (VP (TO to)
+                (VP (VB reword)
+                  (NP (DT the) (NN agreement)))))))))
+    (. .)))
+
+nn(Manning-5, U.S.-1)
+nn(Manning-5, District-2)
+nn(Manning-5, Judge-3)
+nn(Manning-5, Blanche-4)
+nsubj(barred-8, Manning-5)
+prep_on(Manning-5, Tuesday-7)
+root(ROOT-0, barred-8)
+det(sale-10, the-9)
+dobj(barred-8, sale-10)
+det(paper-13, the-12)
+prep_of(sale-10, paper-13)
+quantmod(10-17, at-15)
+mwe(at-15, least-16)
+pobj(at-15, least-16)
+num(days-18, 10-17)
+prep_for(paper-13, days-18)
+vmod(barred-8, giving-20)
+nn(time-22, Copley-21)
+dobj(giving-20, time-22)
+aux(reword-24, to-23)
+vmod(time-22, reword-24)
+det(agreement-26, the-25)
+dobj(reword-24, agreement-26)
+
+``If/IN the/DT sale/NN were/VBD allowed/VBN to/TO proceed/VB ,/, the/DT union/NN would/MD be/VB without/IN a/DT legal/JJ remedy/NN and/CC would/MD suffer/VB the/DT irreparable/JJ harm/NN of/IN having/VBG the/DT [agreement/NN ]/IN being/VBG rendered/VBN a/DT nullity/NN ,''/IN Manning/NNP wrote/VBD ./.
+
+(ROOT
+  (S
+    (SBAR (IN ``If)
+      (S
+        (NP (DT the) (NN sale))
+        (VP (VBD were)
+          (VP (VBN allowed)
+            (S
+              (VP (TO to)
+                (VP (VB proceed))))))))
+    (, ,)
+    (NP (DT the) (NN union))
+    (VP
+      (VP (MD would)
+        (VP (VB be)
+          (PP (IN without)
+            (NP (DT a) (JJ legal) (NN remedy)))))
+      (CC and)
+      (VP (MD would)
+        (VP (VB suffer)
+          (NP
+            (NP (DT the) (JJ irreparable) (NN harm))
+            (PP (IN of)
+              (S
+                (VP (VBG having)
+                  (NP (DT the) (NN [agreement))
+                  (PP (IN ])
+                    (S
+                      (VP (VBG being)
+                        (VP (VBN rendered)
+                          (NP (DT a) (NN nullity))
+                          (SBAR (IN ,'')
+                            (S
+                              (NP (NNP Manning))
+                              (VP (VBD wrote)))))))))))))))
+    (. .)))
+
+mark(allowed-5, ``If-1)
+det(sale-3, the-2)
+nsubjpass(allowed-5, sale-3)
+nsubj(proceed-7, sale-3)
+auxpass(allowed-5, were-4)
+advcl(be-12, allowed-5)
+aux(proceed-7, to-6)
+xcomp(allowed-5, proceed-7)
+det(union-10, the-9)
+nsubj(be-12, union-10)
+nsubj(suffer-19, union-10)
+aux(be-12, would-11)
+root(ROOT-0, be-12)
+det(remedy-16, a-14)
+amod(remedy-16, legal-15)
+prep_without(be-12, remedy-16)
+aux(suffer-19, would-18)
+conj_and(be-12, suffer-19)
+det(harm-22, the-20)
+amod(harm-22, irreparable-21)
+dobj(suffer-19, harm-22)
+prepc_of(harm-22, having-24)
+det([agreement-26, the-25)
+dobj(having-24, [agreement-26)
+auxpass(rendered-29, being-28)
+prepc_](having-24, rendered-29)
+det(nullity-31, a-30)
+dobj(rendered-29, nullity-31)
+mark(wrote-34, ,''-32)
+nsubj(wrote-34, Manning-33)
+advcl(rendered-29, wrote-34)
+
+After/IN the/DT hearing/NN ,/, lawyers/NNS for/IN Copley/NNP would/MD not/RB say/VB if/IN they/PRP would/MD appeal/VB Manning/NNP 's/POS restraining/VBG order/NN ./.
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (DT the) (NN hearing)))
+    (, ,)
+    (NP
+      (NP (NNS lawyers))
+      (PP (IN for)
+        (NP (NNP Copley))))
+    (VP (MD would) (RB not)
+      (VP (VB say)
+        (SBAR (IN if)
+          (S
+            (NP (PRP they))
+            (VP (MD would)
+              (VP (VB appeal)
+                (S
+                  (NP (NNP Manning) (POS 's))
+                  (VP (VBG restraining)
+                    (NP (NN order))))))))))
+    (. .)))
+
+det(hearing-3, the-2)
+prep_after(say-10, hearing-3)
+nsubj(say-10, lawyers-5)
+prep_for(lawyers-5, Copley-7)
+aux(say-10, would-8)
+neg(say-10, not-9)
+root(ROOT-0, say-10)
+mark(appeal-14, if-11)
+nsubj(appeal-14, they-12)
+aux(appeal-14, would-13)
+advcl(say-10, appeal-14)
+nsubj(restraining-17, Manning-15)
+possessive(Manning-15, 's-16)
+dep(appeal-14, restraining-17)
+dobj(restraining-17, order-18)
+
+Calls/NNS to/TO Douglas/NNP A./NN Darch/NNP ,/, an/DT attorney/NN for/IN Copley/NNP ,/, were/VBD not/RB immediately/RB returned/VBN on/IN Wednesday/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Calls))
+      (PP (TO to)
+        (NP
+          (NP (NNP Douglas) (NN A.) (NNP Darch))
+          (, ,)
+          (NP
+            (NP (DT an) (NN attorney))
+            (PP (IN for)
+              (NP (NNP Copley))))
+          (, ,))))
+    (VP (VBD were) (RB not)
+      (VP
+        (ADVP (RB immediately))
+        (VBN returned)
+        (PP (IN on)
+          (NP (NNP Wednesday)))))
+    (. .)))
+
+nsubjpass(returned-15, Calls-1)
+nn(Darch-5, Douglas-3)
+nn(Darch-5, A.-4)
+prep_to(Calls-1, Darch-5)
+det(attorney-8, an-7)
+appos(Darch-5, attorney-8)
+prep_for(attorney-8, Copley-10)
+auxpass(returned-15, were-12)
+neg(returned-15, not-13)
+advmod(returned-15, immediately-14)
+root(ROOT-0, returned-15)
+prep_on(returned-15, Wednesday-17)
+
+The/DT guild/NN has/VBZ filed/VBN a/DT grievance/NN to/TO have/VB the/DT matter/NN arbitrated/VBN with/IN Copley/NNP before/IN the/DT sale/NN is/VBZ completed/VBN ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NN guild))
+    (VP (VBZ has)
+      (VP (VBN filed)
+        (NP (DT a) (NN grievance)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (NP
+                  (NP (DT the) (NN matter))
+                  (VP (VBN arbitrated)
+                    (PP (IN with)
+                      (NP (NNP Copley)))
+                    (SBAR (IN before)
+                      (S
+                        (NP (DT the) (NN sale))
+                        (VP (VBZ is)
+                          (VP (VBN completed)))))))))))))
+    (. .)))
+
+det(guild-2, The-1)
+nsubj(filed-4, guild-2)
+aux(filed-4, has-3)
+root(ROOT-0, filed-4)
+det(grievance-6, a-5)
+dobj(filed-4, grievance-6)
+aux(have-8, to-7)
+vmod(grievance-6, have-8)
+det(matter-10, the-9)
+dobj(have-8, matter-10)
+vmod(matter-10, arbitrated-11)
+prep_with(arbitrated-11, Copley-13)
+mark(completed-18, before-14)
+det(sale-16, the-15)
+nsubjpass(completed-18, sale-16)
+auxpass(completed-18, is-17)
+advcl(arbitrated-11, completed-18)
+
+Hollinger/NNP International/NNP ,/, owner/NN of/IN the/DT Chicago/NNP Sun-Times/NNPS and/CC the/DT Daily/JJ Southtown/NN in/IN Tinley/NNP Park/NNP ,/, is/VBZ attempting/VBG to/TO acquire/VB The/DT News/NNP Sun/NNP and/CC other/JJ northern/JJ Illinois/NNS Copley/NNP newspapers/NNS ,/, including/VBG The/DT Courier/NNP News/NNP in/IN Elgin/NNP ,/, The/DT Beacon/NNP News/NNP in/IN Aurora/NNP and/CC The/DT Herald/NNP News/NNP in/IN Joliet/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Hollinger) (NNP International))
+      (, ,)
+      (NP
+        (NP
+          (NP (NN owner))
+          (PP (IN of)
+            (NP (DT the) (NNP Chicago) (NNPS Sun-Times))))
+        (CC and)
+        (NP
+          (NP (DT the) (JJ Daily) (NN Southtown))
+          (PP (IN in)
+            (NP (NNP Tinley) (NNP Park)))))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBG attempting)
+        (S
+          (VP (TO to)
+            (VP (VB acquire)
+              (NP
+                (NP (DT The) (NNP News) (NNP Sun))
+                (CC and)
+                (NP
+                  (NP (JJ other) (JJ northern) (NNS Illinois))
+                  (NP (NNP Copley) (NNS newspapers))))
+              (, ,)
+              (PP (VBG including)
+                (NP
+                  (NP
+                    (NP (DT The) (NNP Courier) (NNP News))
+                    (PP (IN in)
+                      (NP (NNP Elgin))))
+                  (, ,)
+                  (NP
+                    (NP (DT The) (NNP Beacon) (NNP News))
+                    (PP (IN in)
+                      (NP (NNP Aurora))))
+                  (CC and)
+                  (NP
+                    (NP (DT The) (NNP Herald) (NNP News))
+                    (PP (IN in)
+                      (NP (NNP Joliet)))))))))))
+    (. .)))
+
+nn(International-2, Hollinger-1)
+nsubj(attempting-18, International-2)
+nsubj(acquire-20, International-2)
+appos(International-2, owner-4)
+det(Sun-Times-8, the-6)
+nn(Sun-Times-8, Chicago-7)
+prep_of(owner-4, Sun-Times-8)
+det(Southtown-12, the-10)
+amod(Southtown-12, Daily-11)
+appos(International-2, Southtown-12)
+conj_and(owner-4, Southtown-12)
+nn(Park-15, Tinley-14)
+prep_in(Southtown-12, Park-15)
+aux(attempting-18, is-17)
+root(ROOT-0, attempting-18)
+aux(acquire-20, to-19)
+xcomp(attempting-18, acquire-20)
+det(Sun-23, The-21)
+nn(Sun-23, News-22)
+dobj(acquire-20, Sun-23)
+amod(Illinois-27, other-25)
+amod(Illinois-27, northern-26)
+dobj(acquire-20, Illinois-27)
+conj_and(Sun-23, Illinois-27)
+nn(newspapers-29, Copley-28)
+dep(Illinois-27, newspapers-29)
+det(News-34, The-32)
+nn(News-34, Courier-33)
+prep_including(acquire-20, News-34)
+prep_in(News-34, Elgin-36)
+det(News-40, The-38)
+nn(News-40, Beacon-39)
+prep_including(acquire-20, News-40)
+conj_and(News-34, News-40)
+prep_in(News-40, Aurora-42)
+det(News-46, The-44)
+nn(News-46, Herald-45)
+prep_including(acquire-20, News-46)
+conj_and(News-34, News-46)
+prep_in(News-46, Joliet-48)
+
+Although/IN the/DT ruling/NN did/VBD not/RB mention/VB the/DT other/JJ Copley/NNP Press/NNP papers/NNS ,/, it/PRP is/VBZ expected/VBN that/IN The/DT News/NNP Sun/NNP issue/NN will/MD have/VB be/VB resolved/VBN before/IN the/DT sale/NN of/IN the/DT entire/JJ group/NN is/VBZ finalized/VBN ./.
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (DT the) (NN ruling))
+        (VP (VBD did) (RB not)
+          (VP (VB mention)
+            (NP (DT the) (JJ other) (NNP Copley) (NNP Press) (NNS papers))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (SBAR (IN that)
+          (S
+            (NP (DT The) (NNP News) (NNP Sun) (NN issue))
+            (VP (MD will)
+              (VP (VB have)
+                (S
+                  (VP (VB be)
+                    (VP (VBN resolved)
+                      (SBAR (IN before)
+                        (S
+                          (NP
+                            (NP (DT the) (NN sale))
+                            (PP (IN of)
+                              (NP (DT the) (JJ entire) (NN group))))
+                          (VP (VBZ is)
+                            (VP (VBN finalized))))))))))))))
+    (. .)))
+
+mark(mention-6, Although-1)
+det(ruling-3, the-2)
+nsubj(mention-6, ruling-3)
+aux(mention-6, did-4)
+neg(mention-6, not-5)
+advcl(expected-15, mention-6)
+det(papers-11, the-7)
+amod(papers-11, other-8)
+nn(papers-11, Copley-9)
+nn(papers-11, Press-10)
+dobj(mention-6, papers-11)
+nsubjpass(expected-15, it-13)
+auxpass(expected-15, is-14)
+root(ROOT-0, expected-15)
+mark(have-22, that-16)
+det(issue-20, The-17)
+nn(issue-20, News-18)
+nn(issue-20, Sun-19)
+nsubj(have-22, issue-20)
+aux(have-22, will-21)
+ccomp(expected-15, have-22)
+auxpass(resolved-24, be-23)
+ccomp(have-22, resolved-24)
+mark(finalized-33, before-25)
+det(sale-27, the-26)
+nsubjpass(finalized-33, sale-27)
+det(group-31, the-29)
+amod(group-31, entire-30)
+prep_of(sale-27, group-31)
+auxpass(finalized-33, is-32)
+advcl(resolved-24, finalized-33)
+

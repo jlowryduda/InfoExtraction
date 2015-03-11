@@ -6,8 +6,8 @@ BC-NBC-APPOINT-ART-NYT_NNP
 
 NBC_NNP PROMOTES_NNP `TODAY_NNP '_POS EXECUTIVE_NNP PRODUCER_NNP TO_NNP ENTERTAINMENT_NNP DIVISION_NNP 
 
-(ART_JJ ADV_NN :_: Photo_NNP NYT21_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP photo_NNP clients_NNS ._. 
-Nonsubscribers_NNS can_MD purchase_VB one-time_JJ rights_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .)_NN &QL_NN ;_: (EDS_NNS :_: Story_NNP may_MD update_VB )_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP BILL_NNP CARTER_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
+[ART_JJ ADV_NN :_: Photo_NNP NYT21_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP photo_NNP clients_NNS ._. 
+Nonsubscribers_NNS can_MD purchase_VB one-time_JJ rights_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .]_NN &QL_NN ;_: [EDS_NNS :_: Story_NNP may_MD update_VB ]_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP BILL_NNP CARTER_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
 Times_NNP News_NNP Service_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNP ;_: 
 
 Jeff_NNP Zucker_NNP ,_, the_DT longtime_JJ executive_NN producer_NN of_IN NBC_NNP 's_POS ``Today_NN ''_'' program_NN ,_, will_MD be_VB named_VBN Friday_NN as_IN the_DT new_JJ president_NN of_IN NBC_NNP 's_POS entertainment_NN division_NN ,_, replacing_VBG Garth_NNP Ancier_JJR ,_, NBC_NNP executives_NNS said_VBD ._. 

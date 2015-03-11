@@ -1,0 +1,1130 @@
+NYT20001216.1450.0120/NNP NEWS/NNP STORY/NNP 2000-12-16/CD 15:24:00/CD
+
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001216.1450.0120) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-12-16) (CD 15:24:00))))
+
+nn(STORY-3, NYT20001216.1450.0120-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(15:24:00-5, 2000-12-16-4)
+dep(STORY-3, 15:24:00-5)
+
+A2255/CD &Cx1f/NN ;/: taf-z/NN u/IN a/DT BC-EXP-AMBULANCE-UNWANTE/JJ 12-16/CD 0486/CD
+
+(ROOT
+  (NP
+    (NP (CD A2255) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NN taf-z))
+      (PP (IN u)
+        (NP (DT a) (JJ BC-EXP-AMBULANCE-UNWANTE) (CD 12-16) (CD 0486))))))
+
+num(&Cx1f-2, A2255-1)
+root(ROOT-0, &Cx1f-2)
+dep(&Cx1f-2, taf-z-4)
+det(0486-9, a-6)
+amod(0486-9, BC-EXP-AMBULANCE-UNWANTE-7)
+num(0486-9, 12-16-8)
+prep_u(taf-z-4, 0486-9)
+
+BC-EXP-AMBULANCE-UNWANTED-NYT/NNP
+
+(ROOT
+  (NP (NNP BC-EXP-AMBULANCE-UNWANTED-NYT)))
+
+root(ROOT-0, BC-EXP-AMBULANCE-UNWANTED-NYT-1)
+
+AS/NNP HOSPITAL/NNP CROWDING/NNP GROWS/NNP ,/, EMERGENCY/NNP CARE/NNP SUFFERS/.
+
+(ROOT
+  (NP
+    (NP (NNP AS) (NNP HOSPITAL) (NNP CROWDING) (NNP GROWS))
+    (, ,)
+    (NP (NNP EMERGENCY) (NNP CARE))
+    (. SUFFERS)))
+
+nn(GROWS-4, AS-1)
+nn(GROWS-4, HOSPITAL-2)
+nn(GROWS-4, CROWDING-3)
+root(ROOT-0, GROWS-4)
+nn(CARE-7, EMERGENCY-6)
+appos(GROWS-4, CARE-7)
+punct(GROWS-4, SUFFERS-8)
+
+&UR/NNS ;/: By/NNP CAREY/NNP GOLDBERG/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (PP (NNP By)
+        (NP (NNP CAREY) (NNP GOLDBERG) (NNP &LR))))
+    (: ;)
+    (NP
+      (NP (NNP &QC))
+      (: ;)
+      (NP (NNS &QL)))
+    (: ;)
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (NP
+        (NP (CD c.2000))
+        (NP (NNP N.Y))))
+    (. .)))
+
+root(ROOT-0, &UR-1)
+prep(&UR-1, By-3)
+nn(&LR-6, CAREY-4)
+nn(&LR-6, GOLDBERG-5)
+dep(By-3, &LR-6)
+dep(&UR-1, &QC-8)
+dep(&QC-8, &QL-10)
+dep(&UR-1, &UR-12)
+dep(&UR-12, c.2000-14)
+appos(c.2000-14, N.Y-15)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
+    (PRN (: ;)
+      (NP
+        (NP (NNS &LR))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&QC-4, Times-1)
+nn(&QC-4, News-2)
+nn(&QC-4, Service-3)
+root(ROOT-0, &QC-4)
+dep(&QC-4, &LR-6)
+dep(&LR-6, &QL-8)
+
+BOSTON/NNP _/NNP Michael/NNP McNamara/NNP 's/POS ambulance/NN took/VBD the/DT call/NN :/: an/DT 89-year-old/JJ woman/NN with/IN cancer/NN ,/, abdominal/JJ pain/NN ,/, possibly/RB a/DT broken/NN hip/NN after/IN a/DT fall/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP BOSTON) (NNP _) (NNP Michael) (NNP McNamara) (POS 's))
+      (NN ambulance))
+    (VP (VBD took)
+      (NP
+        (NP (DT the) (NN call))
+        (: :)
+        (NP
+          (NP (DT an) (JJ 89-year-old) (NN woman))
+          (PP (IN with)
+            (NP
+              (NP (NN cancer))
+              (, ,)
+              (NP (JJ abdominal) (NN pain))
+              (, ,)
+              (ADVP (RB possibly))
+              (NP (DT a) (NN broken) (NN hip))))))
+      (PP (IN after)
+        (NP (DT a) (NN fall))))
+    (. .)))
+
+nn(McNamara-4, BOSTON-1)
+nn(McNamara-4, _-2)
+nn(McNamara-4, Michael-3)
+poss(ambulance-6, McNamara-4)
+nsubj(took-7, ambulance-6)
+root(ROOT-0, took-7)
+det(call-9, the-8)
+dobj(took-7, call-9)
+det(woman-13, an-11)
+amod(woman-13, 89-year-old-12)
+dep(call-9, woman-13)
+prep_with(woman-13, cancer-15)
+amod(pain-18, abdominal-17)
+appos(cancer-15, pain-18)
+advmod(hip-23, possibly-20)
+det(hip-23, a-21)
+nn(hip-23, broken-22)
+appos(cancer-15, hip-23)
+det(fall-26, a-25)
+prep_after(took-7, fall-26)
+
+Normally/RB ,/, McNamara/NNP ,/, an/DT emergency/NN medical/JJ technician/NN ,/, would/MD have/VB taken/VBN her/PRP$ to/TO Massachusetts/NNP General/NNP Hospital/NNP ,/, to/TO the/DT doctors/NNS who/WP care/NN for/IN her/PRP$ ./.
+
+(ROOT
+  (S
+    (ADVP (RB Normally))
+    (, ,)
+    (NP
+      (NP (NNP McNamara))
+      (, ,)
+      (NP (DT an) (NN emergency) (JJ medical) (NN technician))
+      (, ,))
+    (VP (MD would)
+      (VP (VB have)
+        (VP (VBN taken)
+          (NP (PRP$ her))
+          (PP (TO to)
+            (NP (NNP Massachusetts) (NNP General) (NNP Hospital)))
+          (, ,)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NNS doctors))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (NP
+                    (NP (NN care))
+                    (PP (IN for)
+                      (NP (PRP$ her)))))))))))
+    (. .)))
+
+advmod(taken-12, Normally-1)
+nsubj(taken-12, McNamara-3)
+det(technician-8, an-5)
+nn(technician-8, emergency-6)
+amod(technician-8, medical-7)
+appos(McNamara-3, technician-8)
+aux(taken-12, would-10)
+aux(taken-12, have-11)
+root(ROOT-0, taken-12)
+dobj(taken-12, her-13)
+nn(Hospital-17, Massachusetts-15)
+nn(Hospital-17, General-16)
+prep_to(taken-12, Hospital-17)
+det(doctors-21, the-20)
+prep_to(taken-12, doctors-21)
+dep(care-23, doctors-21)
+rcmod(doctors-21, care-23)
+prep_for(care-23, her-25)
+
+But/CC ,/, he/PRP had/VBD to/TO tell/VB her/PRP$ ,/, the/DT hospital/JJ was/VBD turning/VBG down/RP ambulances/NNS at/IN the/DT moment/NN ./.
+
+(ROOT
+  (S (CC But)
+    (PRN (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBD had)
+          (S
+            (VP (TO to)
+              (VP (VB tell)
+                (NP (PRP$ her)))))))
+      (, ,))
+    (NP (DT the) (JJ hospital))
+    (VP (VBD was)
+      (VP (VBG turning)
+        (PRT (RP down))
+        (NP
+          (NP (NNS ambulances))
+          (PP (IN at)
+            (NP (DT the) (NN moment))))))
+    (. .)))
+
+cc(turning-12, But-1)
+nsubj(had-4, he-3)
+nsubj(tell-6, he-3)
+parataxis(turning-12, had-4)
+aux(tell-6, to-5)
+xcomp(had-4, tell-6)
+dobj(tell-6, her-7)
+det(hospital-10, the-9)
+nsubj(turning-12, hospital-10)
+aux(turning-12, was-11)
+root(ROOT-0, turning-12)
+prt(turning-12, down-13)
+dobj(turning-12, ambulances-14)
+det(moment-17, the-16)
+prep_at(ambulances-14, moment-17)
+
+He/PRP had/VBD told/VBD several/JJ other/JJ patients/NNS the/DT same/JJ thing/NN that/IN afternoon/NN ,/, he/PRP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD had)
+        (VP (VBD told)
+          (S
+            (NP (JJ several) (JJ other) (NNS patients))
+            (NP
+              (NP (DT the) (JJ same) (NN thing))
+              (PP (IN that)
+                (NP (NN afternoon))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+nsubj(told-3, He-1)
+aux(told-3, had-2)
+ccomp(said-14, told-3)
+amod(patients-6, several-4)
+amod(patients-6, other-5)
+nsubj(thing-9, patients-6)
+det(thing-9, the-7)
+amod(thing-9, same-8)
+xcomp(told-3, thing-9)
+prep_that(thing-9, afternoon-11)
+nsubj(said-14, he-13)
+root(ROOT-0, said-14)
+
+And/CC similar/JJ things/NNS on/IN many/JJ other/JJ days/NNS as/IN well/RB ./.
+
+(ROOT
+  (FRAG (CC And)
+    (NP
+      (NP (JJ similar) (NNS things))
+      (PP (IN on)
+        (NP (JJ many) (JJ other) (NNS days)))
+      (PP (IN as)
+        (ADVP (RB well))))
+    (. .)))
+
+cc(things-3, And-1)
+amod(things-3, similar-2)
+root(ROOT-0, things-3)
+amod(days-7, many-5)
+amod(days-7, other-6)
+prep_on(things-3, days-7)
+prep(things-3, as-8)
+pcomp(as-8, well-9)
+
+This/DT year/NN ,/, Massachusetts/NNP General/NNP ,/, considered/VBN one/CD of/IN the/DT country/NN 's/POS best/JJS hospitals/NNS ,/, has/VBZ been/VBN ``on/VBN diversion/NN ''/'' for/IN about/IN 45/CD hours/NNS every/JJ week/NN ;/: and/CC on/IN average/NN ,/, two/CD of/IN the/DT city/NN 's/POS emergency/NN rooms/NNS close/RB to/TO ambulances/NNS at/IN some/DT point/NN every/NN day/NN ./.
+
+(ROOT
+  (S
+    (NP (DT This) (NN year))
+    (, ,)
+    (NP
+      (NP (NNP Massachusetts) (NNP General))
+      (, ,)
+      (VP (VBN considered)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN country) (POS 's))
+              (JJS best) (NNS hospitals)))))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN ``on)
+          (NP (NN diversion))
+          ('' '')
+          (PP
+            (PP (IN for)
+              (PP (IN about)
+                (NP (CD 45) (NNS hours))
+                (NP (JJ every) (NN week))))
+            (: ;)
+            (CC and)
+            (PP (IN on)
+              (NP (NN average)))
+            (, ,)
+            (ADVP
+              (NP
+                (NP (CD two))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN city) (POS 's))
+                    (NN emergency) (NNS rooms))))
+              (RB close))
+            (PP (TO to)
+              (NP
+                (NP (NNS ambulances))
+                (PP (IN at)
+                  (NP (DT some) (NN point) (NN every) (NN day)))))))))
+    (. .)))
+
+det(year-2, This-1)
+tmod(``on-18, year-2)
+nn(General-5, Massachusetts-4)
+nsubjpass(``on-18, General-5)
+vmod(General-5, considered-7)
+dobj(considered-7, one-8)
+det(country-11, the-10)
+poss(hospitals-14, country-11)
+amod(hospitals-14, best-13)
+prep_of(one-8, hospitals-14)
+aux(``on-18, has-16)
+auxpass(``on-18, been-17)
+root(ROOT-0, ``on-18)
+dobj(``on-18, diversion-19)
+prep(``on-18, for-21)
+pcomp(for-21, about-22)
+num(hours-24, 45-23)
+pobj(about-22, hours-24)
+amod(week-26, every-25)
+tmod(about-22, week-26)
+prep(``on-18, on-29)
+conj_and(for-21, on-29)
+pobj(on-29, average-30)
+npadvmod(close-39, two-32)
+det(city-35, the-34)
+poss(rooms-38, city-35)
+nn(rooms-38, emergency-37)
+prep_of(two-32, rooms-38)
+prep(``on-18, close-39)
+conj_and(for-21, close-39)
+dep(for-21, to-40)
+pobj(to-40, ambulances-41)
+det(day-46, some-43)
+nn(day-46, point-44)
+nn(day-46, every-45)
+prep_at(ambulances-41, day-46)
+
+For/IN years/NNS it/PRP was/VBD all/DT but/CC unheard/NN of/IN in/IN most/JJS cities/NNS for/IN a/DT hospital/JJ to/TO regularly/RB hang/VBG out/RP a/DT ``No/JJ Vacancy/NN ''/'' sign/NN for/IN ambulance/NN crews/NNS ./.
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NNS years)))
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP
+        (ADVP (DT all)
+          (CC but))
+        (NN unheard))
+      (PP (IN of) (IN in)
+        (NP
+          (NP (JJS most) (NNS cities))
+          (PP (IN for)
+            (NP
+              (NP (DT a)
+                (ADJP (JJ hospital)
+                  (PP (TO to)
+                    (S
+                      (VP
+                        (ADVP (RB regularly))
+                        (VBG hang)
+                        (PRT (RP out))
+                        (NP (DT a) (JJ ``No) (NN Vacancy))))))
+                ('' '') (NN sign))
+              (PP (IN for)
+                (NP (NN ambulance) (NNS crews))))))))
+    (. .)))
+
+prep_for(unheard-7, years-2)
+nsubj(unheard-7, it-3)
+cop(unheard-7, was-4)
+mwe(but-6, all-5)
+advmod(unheard-7, but-6)
+root(ROOT-0, unheard-7)
+dep(unheard-7, of-8)
+amod(cities-11, most-10)
+prep_in(unheard-7, cities-11)
+det(sign-23, a-13)
+amod(sign-23, hospital-14)
+advmod(hang-17, regularly-16)
+prepc_to(hospital-14, hang-17)
+prt(hang-17, out-18)
+det(Vacancy-21, a-19)
+amod(Vacancy-21, ``No-20)
+dobj(hang-17, Vacancy-21)
+prep_for(cities-11, sign-23)
+nn(crews-26, ambulance-25)
+prep_for(sign-23, crews-26)
+
+But/CC in/IN recent/JJ months/NNS ,/, in/IN cities/NNS from/IN Boston/NNP to/TO San/NNP Francisco/NNP ,/, Phoenix/NNP to/TO Denver/NNP ,/, it/PRP has/VBZ become/VBN common/JJ ,/, to/TO the/DT alarm/NN of/IN doctors,/DT paramedics/NNS and/CC patients/NNS ./.
+
+(ROOT
+  (S (CC But)
+    (PP (IN in)
+      (NP (JJ recent) (NNS months)))
+    (, ,)
+    (PP (IN in)
+      (NP
+        (NP (NNS cities))
+        (PP (IN from)
+          (NP
+            (NP (NNP Boston))
+            (PP (TO to)
+              (NP
+                (NP (NNP San) (NNP Francisco))
+                (, ,)
+                (NP
+                  (NP (NNP Phoenix))
+                  (PP (TO to)
+                    (NP (NNP Denver))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ has)
+      (VP (VBN become)
+        (ADJP (JJ common))
+        (, ,)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN alarm))
+            (PP (IN of)
+              (NP (DT doctors,) (NNS paramedics)
+                (CC and)
+                (NNS patients)))))))
+    (. .)))
+
+cc(become-20, But-1)
+amod(months-4, recent-3)
+prep_in(become-20, months-4)
+prep_in(become-20, cities-7)
+prep_from(cities-7, Boston-9)
+nn(Francisco-12, San-11)
+prep_to(Boston-9, Francisco-12)
+appos(Francisco-12, Phoenix-14)
+prep_to(Phoenix-14, Denver-16)
+nsubj(become-20, it-18)
+aux(become-20, has-19)
+root(ROOT-0, become-20)
+acomp(become-20, common-21)
+det(alarm-25, the-24)
+prep_to(become-20, alarm-25)
+det(paramedics-28, doctors,-27)
+prep_of(alarm-25, paramedics-28)
+prep_of(alarm-25, patients-30)
+conj_and(paramedics-28, patients-30)
+
+Now/RB some/DT are/VBP worrying/VBG openly/RB that/IN patient/JJ care/NN is/VBZ suffering/VBG because/IN of/IN the/DT extra/JJ minutes/NNS spent/NN in/IN ambulances/NNS and/CC because/RB of/IN the/DT emergency-room/NN crowding/NN that/WDT causes/VBZ the/DT diversions/NNS in/IN the/DT first/JJ place/NN ./.
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP (DT some))
+    (VP (VBP are)
+      (VP (VBG worrying)
+        (ADVP (RB openly))
+        (SBAR (IN that)
+          (S
+            (NP (JJ patient) (NN care))
+            (VP (VBZ is)
+              (VP (VBG suffering)
+                (PP
+                  (PP (IN because)
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (JJ extra) (NNS minutes) (NN spent))
+                        (PP (IN in)
+                          (NP (NNS ambulances))))))
+                  (CC and)
+                  (RB because)
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN emergency-room) (NN crowding))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBZ causes)
+                            (NP
+                              (NP (DT the) (NNS diversions))
+                              (PP (IN in)
+                                (NP (DT the) (JJ first) (NN place))))))))))))))))
+    (. .)))
+
+advmod(worrying-4, Now-1)
+nsubj(worrying-4, some-2)
+aux(worrying-4, are-3)
+root(ROOT-0, worrying-4)
+advmod(worrying-4, openly-5)
+mark(suffering-10, that-6)
+amod(care-8, patient-7)
+nsubj(suffering-10, care-8)
+aux(suffering-10, is-9)
+ccomp(worrying-4, suffering-10)
+prepc_because_of(suffering-10, of-12)
+det(spent-16, the-13)
+amod(spent-16, extra-14)
+nn(spent-16, minutes-15)
+pobj(suffering-10, spent-16)
+prep_in(spent-16, ambulances-18)
+ccomp(worrying-4, because-20)
+conj_and(suffering-10, because-20)
+dep(suffering-10, of-21)
+det(crowding-24, the-22)
+nn(crowding-24, emergency-room-23)
+pobj(of-21, crowding-24)
+nsubj(causes-26, crowding-24)
+rcmod(crowding-24, causes-26)
+det(diversions-28, the-27)
+dobj(causes-26, diversions-28)
+det(place-32, the-30)
+amod(place-32, first-31)
+prep_in(diversions-28, place-32)
+
+``Virtually/RB every/JJ major/JJ metropolitan/NN area/NN ,/, and/CC many/JJ rural/JJ areas/NNS ,/, are/VBP struggling/VBG with/IN this/DT issue/NN ,''/, said/VBD Dr/NNP ./.
+
+(ROOT
+  (S
+    (ADVP (RB ``Virtually))
+    (NP
+      (NP (JJ every) (JJ major) (NN metropolitan) (NN area))
+      (, ,)
+      (CC and)
+      (NP (JJ many) (JJ rural) (NNS areas))
+      (, ,))
+    (VP
+      (VP (VBP are)
+        (VP (VBG struggling)
+          (PP (IN with)
+            (NP (DT this) (NN issue)))))
+      (, ,'')
+      (VP (VBD said)
+        (NP (NNP Dr))))
+    (. .)))
+
+advmod(struggling-13, ``Virtually-1)
+amod(area-5, every-2)
+amod(area-5, major-3)
+nn(area-5, metropolitan-4)
+nsubj(struggling-13, area-5)
+amod(areas-10, many-8)
+amod(areas-10, rural-9)
+conj_and(area-5, areas-10)
+nsubj(struggling-13, areas-10)
+aux(struggling-13, are-12)
+root(ROOT-0, struggling-13)
+det(issue-16, this-15)
+prep_with(struggling-13, issue-16)
+punct(struggling-13, ,''-17)
+dep(struggling-13, said-18)
+dobj(said-18, Dr-19)
+
+Arthur/NNP Kellermann/NNP ,/, chairman/NN of/IN emergency/NN medicine/NN at/IN Emory/JJ University/NNP School/NN of/IN Medicine/NNP ./.
+
+(ROOT
+  (NP
+    (NP (NNP Arthur) (NNP Kellermann))
+    (, ,)
+    (NP
+      (NP (NN chairman))
+      (PP (IN of)
+        (NP
+          (NP (NN emergency) (NN medicine))
+          (PP (IN at)
+            (NP (JJ Emory) (NNP University) (NN School)))))
+      (PP (IN of)
+        (NP (NNP Medicine))))
+    (. .)))
+
+nn(Kellermann-2, Arthur-1)
+root(ROOT-0, Kellermann-2)
+appos(Kellermann-2, chairman-4)
+nn(medicine-7, emergency-6)
+prep_of(chairman-4, medicine-7)
+amod(School-11, Emory-9)
+nn(School-11, University-10)
+prep_at(medicine-7, School-11)
+prep_of(chairman-4, Medicine-13)
+
+``They/PRP 're/VBP seeing/VBG eight/NN or/CC 10/CD or/CC 12/CD hospitals/NNS in/IN a/DT major/JJ urban/NN market/NN simultaneously/RB on/IN EMS/NNP diversion/NN because/RB ,/, say/VBP ,/, they/PRP have/VBP no/DT inpatient/NN beds/NNS or/CC critical/JJ care/NN beds/NNS .''/.
+
+(ROOT
+  (S
+    (S
+      (NP (PRP ``They))
+      (VP (VBP 're)
+        (VP (VBG seeing)
+          (NP
+            (NP (NN eight)
+              (CC or)
+              (CD 10)
+              (CC or)
+              (CD 12) (NNS hospitals))
+            (PP (IN in)
+              (NP (DT a) (JJ major) (NN urban) (NN market)))
+            (ADVP (RB simultaneously)
+              (PP (IN on)
+                (NP (NNP EMS) (NN diversion))
+                (NP (RB because))))
+            (, ,)
+            (SBAR
+              (S
+                (VP (VBP say))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP (DT no) (NN inpatient) (NNS beds)
+        (CC or)
+        (JJ critical) (NN care) (NNS beds)))
+    (. .'')))
+
+nsubj(seeing-3, ``They-1)
+aux(seeing-3, 're-2)
+ccomp(have-24, seeing-3)
+dobj(seeing-3, eight-4)
+dobj(seeing-3, 10-6)
+conj_or(eight-4, 10-6)
+num(hospitals-9, 12-8)
+dobj(seeing-3, hospitals-9)
+conj_or(eight-4, hospitals-9)
+det(market-14, a-11)
+amod(market-14, major-12)
+nn(market-14, urban-13)
+prep_in(eight-4, market-14)
+advmod(eight-4, simultaneously-15)
+nn(diversion-18, EMS-17)
+prep_on(simultaneously-15, diversion-18)
+dep(simultaneously-15, because-19)
+rcmod(eight-4, say-21)
+nsubj(have-24, they-23)
+root(ROOT-0, have-24)
+neg(beds-27, no-25)
+nn(beds-27, inpatient-26)
+dobj(have-24, beds-27)
+amod(beds-31, critical-29)
+nn(beds-31, care-30)
+dobj(have-24, beds-31)
+conj_or(beds-27, beds-31)
+punct(have-24, .''-32)
+
+The/DT problem/NN ,/, Kellermann/NNP and/CC other/JJ emergency/NN doctors/NNS said/VBD ,/, is/VBZ not/RB only/RB the/DT crowding/NN of/IN the/DT emergency/NN rooms/NNS themselves/VBZ ;/: it/PRP is/VBZ also/RB the/DT crowding/NN of/IN acute-care/JJ hospital/JJ beds/NNS in/IN general/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN problem))
+      (PRN (, ,)
+        (S
+          (NP (NNP Kellermann)
+            (CC and)
+            (JJ other) (NN emergency) (NNS doctors))
+          (VP (VBD said)))
+        (, ,))
+      (VP (VBZ is) (RB not)
+        (ADVP (RB only))
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NN crowding))
+              (PP (IN of)
+                (NP (DT the) (NN emergency) (NNS rooms))))
+            (VP (VBZ themselves))))))
+    (: ;)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (NP
+          (NP (DT the) (NN crowding))
+          (PP (IN of)
+            (NP
+              (NP (JJ acute-care) (JJ hospital) (NNS beds))
+              (PP (IN in)
+                (NP (NN general))))))))
+    (. .)))
+
+det(problem-2, The-1)
+nsubj(is-11, problem-2)
+nn(doctors-8, Kellermann-4)
+conj_and(Kellermann-4, other-6)
+nn(doctors-8, other-6)
+nn(doctors-8, emergency-7)
+nsubj(said-9, doctors-8)
+parataxis(is-11, said-9)
+root(ROOT-0, is-11)
+neg(is-11, not-12)
+advmod(is-11, only-13)
+det(crowding-15, the-14)
+nsubj(themselves-20, crowding-15)
+det(rooms-19, the-17)
+nn(rooms-19, emergency-18)
+prep_of(crowding-15, rooms-19)
+ccomp(is-11, themselves-20)
+nsubj(crowding-26, it-22)
+cop(crowding-26, is-23)
+advmod(crowding-26, also-24)
+det(crowding-26, the-25)
+parataxis(is-11, crowding-26)
+amod(beds-30, acute-care-28)
+amod(beds-30, hospital-29)
+prep_of(crowding-26, beds-30)
+prep_in(beds-30, general-32)
+
+A/DT survey/NN this/DT year/NN of/IN more/JJR than/IN 60/CD emergency/NN department/NN directors/NNS by/IN the/DT Massachusetts/NNP College/NNP of/IN Emergency/NNP Physicians/NNPS found/VBD that/IN more/JJR than/IN 80/CD percent/NN of/IN them/PRP had/VBD been/VBN forced/VBN to/TO divert/VB ambulances/NNS and/CC about/IN 38/CD percent/JJ said/VBD they/PRP had/VBD seen/VBN ``adverse/JJ outcomes/NNS ''/'' as/IN a/DT result/NN of/IN crowding/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN survey))
+      (SBAR
+        (S
+          (NP
+            (NP (DT this) (NN year))
+            (PP (IN of)
+              (NP
+                (QP (JJR more) (IN than) (CD 60))
+                (NN emergency) (NN department) (NNS directors)))
+            (PP (IN by)
+              (NP
+                (NP (DT the) (NNP Massachusetts) (NNP College))
+                (PP (IN of)
+                  (NP (NNP Emergency) (NNPS Physicians))))))
+          (VP (VBD found)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP
+                    (QP (JJR more) (IN than) (CD 80))
+                    (NN percent))
+                  (PP (IN of)
+                    (NP (PRP them))))
+                (VP (VBD had)
+                  (VP (VBN been)
+                    (VP
+                      (VP (VBN forced)
+                        (S
+                          (VP (TO to)
+                            (VP (VB divert)
+                              (NP (NNS ambulances))))))
+                      (CC and)
+                      (VP (IN about)
+                        (S
+                          (ADJP (CD 38) (JJ percent)))))))))))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD had)
+            (VP (VBN seen)
+              (NP (JJ ``adverse) (NNS outcomes))
+              ('' '')
+              (PP (IN as)
+                (NP
+                  (NP (DT a) (NN result))
+                  (PP (IN of)
+                    (NP (NN crowding))))))))))
+    (. .)))
+
+det(survey-2, A-1)
+mark(forced-29, survey-2)
+nsubj(said-37, survey-2)
+det(year-4, this-3)
+nsubj(found-19, year-4)
+mwe(than-7, more-6)
+quantmod(60-8, than-7)
+num(directors-11, 60-8)
+nn(directors-11, emergency-9)
+nn(directors-11, department-10)
+prep_of(year-4, directors-11)
+det(College-15, the-13)
+nn(College-15, Massachusetts-14)
+prep_by(year-4, College-15)
+nn(Physicians-18, Emergency-17)
+prep_of(College-15, Physicians-18)
+rcmod(survey-2, found-19)
+mwe(than-22, more-21)
+quantmod(80-23, than-22)
+num(percent-24, 80-23)
+nsubjpass(forced-29, percent-24)
+nsubj(divert-31, percent-24)
+prep_of(percent-24, them-26)
+aux(forced-29, had-27)
+auxpass(forced-29, been-28)
+ccomp(found-19, forced-29)
+aux(divert-31, to-30)
+xcomp(forced-29, divert-31)
+dobj(divert-31, ambulances-32)
+ccomp(found-19, about-34)
+conj_and(forced-29, about-34)
+number(percent-36, 38-35)
+dep(about-34, percent-36)
+root(ROOT-0, said-37)
+nsubj(seen-40, they-38)
+aux(seen-40, had-39)
+ccomp(said-37, seen-40)
+amod(outcomes-42, ``adverse-41)
+dobj(seen-40, outcomes-42)
+det(result-46, a-45)
+prep_as(seen-40, result-46)
+prep_of(result-46, crowding-48)
+
+But/CC some/DT remain/VBP cautious/JJ about/IN declaring/VBG a/DT crisis/NN ,/, among/IN them/PRP Dr/NNP ./.
+
+(ROOT
+  (S (CC But)
+    (NP (DT some))
+    (VP (VBP remain)
+      (ADJP (JJ cautious)
+        (PP (IN about)
+          (S
+            (VP (VBG declaring)
+              (NP
+                (NP (DT a) (NN crisis))
+                (, ,)
+                (RRC
+                  (PP (IN among)
+                    (NP (PRP them)))
+                  (NP (NNP Dr)))))))))
+    (. .)))
+
+cc(remain-3, But-1)
+nsubj(remain-3, some-2)
+root(ROOT-0, remain-3)
+acomp(remain-3, cautious-4)
+prepc_about(cautious-4, declaring-6)
+det(crisis-8, a-7)
+dobj(declaring-6, crisis-8)
+prep_among(Dr-12, them-11)
+rcmod(crisis-8, Dr-12)
+
+Dennis/NNP S./NNP O'Leary/NNP ,/, president/NN of/IN the/DT Joint/NNP Commission/NNP on/IN Accreditation/NNP of/IN Healthcare/NNP Organizations/NNP ,/, an/DT agency/NN that/WDT certifies/VBZ hospital/JJ quality/NN ,/, who/WP has/VBZ said/VBD the/DT system/NN would/MD ``muddle/VB through/IN ''/'' the/DT problem/NN ./.
+
+(ROOT
+  (NP
+    (NP (NNP Dennis) (NNP S.) (NNP O'Leary))
+    (, ,)
+    (NP
+      (NP (NN president))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNP Joint) (NNP Commission))
+          (PP (IN on)
+            (NP
+              (NP (NNP Accreditation))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Healthcare) (NNP Organizations))
+                  (, ,)
+                  (NP
+                    (NP (DT an) (NN agency))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ certifies)
+                          (NP
+                            (NP (JJ hospital) (NN quality))
+                            (, ,)
+                            (SBAR
+                              (WHNP (WP who))
+                              (S
+                                (VP (VBZ has)
+                                  (VP (VBD said)
+                                    (SBAR
+                                      (S
+                                        (NP (DT the) (NN system))
+                                        (VP (MD would)
+                                          (VP (VB ``muddle)
+                                            (PP (IN through) ('' '')
+                                              (NP (DT the) (NN problem)))))))))))))))))))))))
+    (. .)))
+
+nn(O'Leary-3, Dennis-1)
+nn(O'Leary-3, S.-2)
+root(ROOT-0, O'Leary-3)
+appos(O'Leary-3, president-5)
+det(Commission-9, the-7)
+nn(Commission-9, Joint-8)
+prep_of(president-5, Commission-9)
+prep_on(Commission-9, Accreditation-11)
+nn(Organizations-14, Healthcare-13)
+prep_of(Accreditation-11, Organizations-14)
+det(agency-17, an-16)
+appos(Organizations-14, agency-17)
+nsubj(certifies-19, agency-17)
+rcmod(agency-17, certifies-19)
+amod(quality-21, hospital-20)
+dobj(certifies-19, quality-21)
+nsubj(said-25, quality-21)
+aux(said-25, has-24)
+rcmod(quality-21, said-25)
+det(system-27, the-26)
+nsubj(``muddle-29, system-27)
+aux(``muddle-29, would-28)
+ccomp(said-25, ``muddle-29)
+det(problem-33, the-32)
+prep_through(``muddle-29, problem-33)
+
+In/IN a/DT telephone/NN interview/NN ,/, O'Leary/NNP said/VBD that/IN it/PRP still/RB needed/VBD to/TO be/VB scientifically/RB proved/VBN that/IN the/DT increased/JJ diversions/NNS were/VBD a/DT trend/NN and/CC not/RB the/DT kind/NN of/IN sporadic/JJ surges/NNS that/WDT have/VBP mysteriously/RB appeared/VBN and/CC disappeared/VBD before/RB ./.
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT a) (NN telephone) (NN interview)))
+    (, ,)
+    (NP (NNP O'Leary))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP
+            (VP
+              (ADVP (RB still))
+              (VBD needed)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP
+                      (ADVP (RB scientifically))
+                      (VBN proved)
+                      (SBAR (IN that)
+                        (S
+                          (NP (DT the) (JJ increased) (NNS diversions))
+                          (VP (VBD were)
+                            (NP
+                              (NP (DT a) (NN trend))
+                              (CC and)
+                              (RB not)
+                              (NP
+                                (NP (DT the) (NN kind))
+                                (PP (IN of)
+                                  (NP (JJ sporadic) (NNS surges)))
+                                (SBAR
+                                  (WHNP (WDT that))
+                                  (S
+                                    (VP (VBP have)
+                                      (ADVP (RB mysteriously))
+                                      (VP (VBN appeared)))))))))))))))
+            (CC and)
+            (VP (VBD disappeared)
+              (ADVP (RB before)))))))
+    (. .)))
+
+det(interview-4, a-2)
+nn(interview-4, telephone-3)
+prep_in(said-7, interview-4)
+nsubj(said-7, O'Leary-6)
+root(ROOT-0, said-7)
+mark(needed-11, that-8)
+nsubj(needed-11, it-9)
+nsubjpass(proved-15, it-9)
+nsubj(disappeared-35, it-9)
+advmod(needed-11, still-10)
+ccomp(said-7, needed-11)
+aux(proved-15, to-12)
+auxpass(proved-15, be-13)
+advmod(proved-15, scientifically-14)
+xcomp(needed-11, proved-15)
+mark(trend-22, that-16)
+det(diversions-19, the-17)
+amod(diversions-19, increased-18)
+nsubj(trend-22, diversions-19)
+cop(trend-22, were-20)
+det(trend-22, a-21)
+ccomp(proved-15, trend-22)
+neg(kind-26, not-24)
+det(kind-26, the-25)
+ccomp(proved-15, kind-26)
+conj_and(trend-22, kind-26)
+nsubj(appeared-33, kind-26)
+amod(surges-29, sporadic-28)
+prep_of(kind-26, surges-29)
+aux(appeared-33, have-31)
+advmod(appeared-33, mysteriously-32)
+rcmod(kind-26, appeared-33)
+ccomp(said-7, disappeared-35)
+conj_and(needed-11, disappeared-35)
+advmod(disappeared-35, before-36)
+
+Dr/NNP ./.
+
+(ROOT
+  (FRAG
+    (NP (NNP Dr))
+    (. .)))
+
+root(ROOT-0, Dr-1)
+
+Alan/NNP Woodward/NNP ,/, chief/JJ of/IN emergency/NN services/NNS at/IN Emerson/NNP Hospital/NNP in/IN Concord/NNP ,/, begged/VBD to/TO differ/VB ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Alan) (NNP Woodward))
+      (, ,)
+      (NP
+        (NP (JJ chief))
+        (PP (IN of)
+          (NP
+            (NP (NN emergency) (NNS services))
+            (PP (IN at)
+              (NP
+                (NP (NNP Emerson) (NNP Hospital))
+                (PP (IN in)
+                  (NP (NNP Concord))))))))
+      (, ,))
+    (VP (VBD begged)
+      (S
+        (VP (TO to)
+          (VP (VB differ)))))
+    (. .)))
+
+nn(Woodward-2, Alan-1)
+nsubj(begged-14, Woodward-2)
+nsubj(differ-16, Woodward-2)
+appos(Woodward-2, chief-4)
+nn(services-7, emergency-6)
+prep_of(chief-4, services-7)
+nn(Hospital-10, Emerson-9)
+prep_at(services-7, Hospital-10)
+prep_in(Hospital-10, Concord-12)
+root(ROOT-0, begged-14)
+aux(differ-16, to-15)
+xcomp(begged-14, differ-16)
+
+``Muddling/VBG costs/NNS lives/NNS ,''/, he/PRP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (VP (VBG ``Muddling)
+        (NP (NNS costs) (NNS lives))))
+    (, ,'')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+vmod(said-6, ``Muddling-1)
+nn(lives-3, costs-2)
+dobj(``Muddling-1, lives-3)
+punct(said-6, ,''-4)
+nsubj(said-6, he-5)
+root(ROOT-0, said-6)
+
+He/PRP said/VBD O'Leary/NNP ``is/NNP unaware/NN of/IN the/DT problem/NN and/CC the/DT magnitude/NN to/TO which/WDT it/PRP 's/VBZ grown/VBN .''/.
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (NP
+        (NP (NNP O'Leary) (NNP ``is) (NN unaware))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN problem))
+            (CC and)
+            (NP (DT the) (NN magnitude))))
+        (SBAR
+          (WHPP (TO to)
+            (WHNP (WDT which)))
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (VP (VBN grown)))))))
+    (. .'')))
+
+nsubj(said-2, He-1)
+root(ROOT-0, said-2)
+nn(unaware-5, O'Leary-3)
+nn(unaware-5, ``is-4)
+dobj(said-2, unaware-5)
+prep_to(grown-16, unaware-5)
+det(problem-8, the-7)
+prep_of(unaware-5, problem-8)
+det(magnitude-11, the-10)
+prep_of(unaware-5, magnitude-11)
+conj_and(problem-8, magnitude-11)
+nsubjpass(grown-16, it-14)
+auxpass(grown-16, 's-15)
+rcmod(unaware-5, grown-16)
+punct(said-2, .''-17)
+
+NYT-12-16-00/CD 1524EST/CD
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-12-16-00) (CD 1524EST))))
+
+num(1524EST-2, NYT-12-16-00-1)
+root(ROOT-0, 1524EST-2)
+

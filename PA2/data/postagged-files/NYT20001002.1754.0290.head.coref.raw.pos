@@ -6,8 +6,8 @@ BC-SCI-JELLYFISH-GULF-ART-NYT_NNP
 
 JELLYFISH_NNP DAMAGE_NNP IN_NNP GULF_NNP IS_NNP RAISING_NNP CONCERN_NNP FOR_NNP AQUATIC_NNP LIFE_NNP 
 
-(ART_JJ ADV_NN :_: Photo_NNP NYT1_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP photo_NNP clients_NNS ._. 
-Nonsubscribers_NNS can_MD purchase_VB one-time_JJ rights_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .)_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP BEN_NNP RAINES_NNP &QC_NNP ;_: &LR_NNS ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
+[ART_JJ ADV_NN :_: Photo_NNP NYT1_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP photo_NNP clients_NNS ._. 
+Nonsubscribers_NNS can_MD purchase_VB one-time_JJ rights_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .]_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP BEN_NNP RAINES_NNP &QC_NNP ;_: &LR_NNS ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
 Times_NNP News_NNP Service_NNP &QC_NNP ;_: &LR_NNS ;_: &QL_NNP ;_: 
 
 Swarms_NNS of_IN jellyfish_JJ consumed_JJ so_IN many_JJ fish_JJ eggs_NNS and_CC larvae_NN in_IN the_DT Gulf_NNP of_IN Mexico_NNP this_DT summer_NN that_IN some_DT scientists_NNS are_VBP talking_VBG about_IN the_DT potential_NN for_IN serious_JJ future_JJ threats_NNS to_TO commercial_JJ and_CC recreational_JJ fisheries_NNS in_IN the_DT northern_JJ Gulf_NNP ._. 

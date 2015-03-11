@@ -1,0 +1,1494 @@
+NYT20001229.2047.0291/CD NEWS/NNP STORY/NNP 2000-12-29/CD 21:14:00/CD
+
+(ROOT
+  (NP
+    (NP (CD NYT20001229.2047.0291))
+    (NP (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-12-29) (CD 21:14:00))))
+
+root(ROOT-0, NYT20001229.2047.0291-1)
+nn(STORY-3, NEWS-2)
+dep(NYT20001229.2047.0291-1, STORY-3)
+num(21:14:00-5, 2000-12-29-4)
+dep(NYT20001229.2047.0291-1, 21:14:00-5)
+
+A4901/CD &Cx1f/NN ;/: taf-z/JJ u/NN p/IN BC-ELN-VOTE-TOTAL-ART-NY/JJ 12-29/CD 0680/CD
+
+(ROOT
+  (NP
+    (NP (CD A4901) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (JJ taf-z) (NN u))
+      (PP (IN p)
+        (NP (JJ BC-ELN-VOTE-TOTAL-ART-NY) (CD 12-29) (CD 0680))))))
+
+num(&Cx1f-2, A4901-1)
+root(ROOT-0, &Cx1f-2)
+amod(u-5, taf-z-4)
+dep(&Cx1f-2, u-5)
+amod(0680-9, BC-ELN-VOTE-TOTAL-ART-NY-7)
+num(0680-9, 12-29-8)
+prep_p(u-5, 0680-9)
+
+BC-ELN-VOTE-TOTAL-ART-NYT/NNP
+
+(ROOT
+  (NP (NNP BC-ELN-VOTE-TOTAL-ART-NYT)))
+
+root(ROOT-0, BC-ELN-VOTE-TOTAL-ART-NYT-1)
+
+GORE'S/NNP LEAD/NNP IN/NNP THE/NNP POPULAR/NNP VOTE/NNP NOW/NNP EXCEEDS/NNP 500,000/CD
+
+(ROOT
+  (NP
+    (NP (NNP GORE'S) (NNP LEAD) (NNP IN))
+    (NP (NNP THE) (NNP POPULAR) (NNP VOTE) (NNP NOW) (NNP EXCEEDS))
+    (NP (CD 500,000))))
+
+nn(IN-3, GORE'S-1)
+nn(IN-3, LEAD-2)
+root(ROOT-0, IN-3)
+nn(EXCEEDS-8, THE-4)
+nn(EXCEEDS-8, POPULAR-5)
+nn(EXCEEDS-8, VOTE-6)
+nn(EXCEEDS-8, NOW-7)
+dep(IN-3, EXCEEDS-8)
+dep(IN-3, 500,000-9)
+
+[ART/JJ ADV/NN :/: Graphic/NNP is/VBZ being/VBG sent/VBN to/TO NYT/NNP graphic/JJ clients/NNS ./.
+
+(ROOT
+  (NP
+    (NP (JJ [ART) (NN ADV))
+    (: :)
+    (S
+      (NP (NNP Graphic))
+      (VP (VBZ is)
+        (VP (VBG being)
+          (VP (VBN sent)
+            (PP (TO to)
+              (NP (NNP NYT) (JJ graphic) (NNS clients)))))))
+    (. .)))
+
+amod(ADV-2, [ART-1)
+root(ROOT-0, ADV-2)
+nsubjpass(sent-7, Graphic-4)
+aux(sent-7, is-5)
+auxpass(sent-7, being-6)
+dep(ADV-2, sent-7)
+nn(clients-11, NYT-9)
+amod(clients-11, graphic-10)
+prep_to(sent-7, clients-11)
+
+Nonsubscribers/NNS can/MD purchase/VB one-time/JJ rights/NNS by/IN calling/VBG 888-603-1036/CD or/CC 888-346-9867/CD .]/JJ &QL/NNS ;/: &UR/NNS ;/: By/NNP DAVID/NNP STOUT/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNS Nonsubscribers))
+    (VP (MD can)
+      (VP (VB purchase)
+        (NP (JJ one-time) (NNS rights))
+        (PP (IN by)
+          (S
+            (VP (VBG calling)
+              (NP (CD 888-603-1036)
+                (CC or)
+                (CD 888-346-9867))
+              (NP
+                (NP (JJ .]) (NNS &QL))
+                (: ;)
+                (NP
+                  (NP (NNS &UR))
+                  (: ;)
+                  (PP (NNP By)
+                    (NP (NNP DAVID) (NNP STOUT) (NNP &QC))))
+                (: ;)
+                (NP (NNS &LR))
+                (: ;)
+                (NP (NNS &QL))
+                (: ;)
+                (NP (NNS &UR))
+                (: ;)
+                (NP
+                  (NP (CD c.2000))
+                  (NP (NNP N.Y)))))))))
+    (. .)))
+
+nsubj(purchase-3, Nonsubscribers-1)
+aux(purchase-3, can-2)
+root(ROOT-0, purchase-3)
+amod(rights-5, one-time-4)
+dobj(purchase-3, rights-5)
+prepc_by(purchase-3, calling-7)
+iobj(calling-7, 888-603-1036-8)
+iobj(calling-7, 888-346-9867-10)
+conj_or(888-603-1036-8, 888-346-9867-10)
+amod(&QL-12, .]-11)
+dobj(calling-7, &QL-12)
+dep(&QL-12, &UR-14)
+prep(&UR-14, By-16)
+nn(&QC-19, DAVID-17)
+nn(&QC-19, STOUT-18)
+dep(By-16, &QC-19)
+dep(&QL-12, &LR-21)
+dep(&QL-12, &QL-23)
+dep(&QL-12, &UR-25)
+dep(&QL-12, c.2000-27)
+appos(c.2000-27, N.Y-28)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
+    (PRN (: ;)
+      (NP
+        (NP (NNS &LR))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&QC-4, Times-1)
+nn(&QC-4, News-2)
+nn(&QC-4, Service-3)
+root(ROOT-0, &QC-4)
+dep(&QC-4, &LR-6)
+dep(&LR-6, &QL-8)
+
+WASHINGTON/NNP _/NNP Vice/NNP President/NNP Al/NNP Gore/NNP 's/POS nationwide/NN lead/NN in/IN the/DT popular/JJ vote/NN has/VBZ grown/VBN by/IN about/IN 200,000/CD ,/, to/TO more/RBR than/IN half/JJ a/DT million/CD ,/, since/IN Dec/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP WASHINGTON) (NNP _) (NNP Vice) (NNP President) (NNP Al) (NNP Gore) (POS 's))
+        (NN nationwide) (NN lead))
+      (PP (IN in)
+        (NP (DT the) (JJ popular) (NN vote))))
+    (VP (VBZ has)
+      (VP (VBN grown)
+        (PP (IN by)
+          (PP (IN about)
+            (NP (CD 200,000))))
+        (, ,)
+        (PP (TO to)
+          (NP
+            (NP (RBR more))
+            (PP (IN than)
+              (NP
+                (NP (JJ half)
+                  (QP (DT a) (CD million)))
+                (, ,)
+                (ADVP (IN since))))))
+        (NP (NNP Dec))))
+    (. .)))
+
+nn(Gore-6, WASHINGTON-1)
+nn(Gore-6, _-2)
+nn(Gore-6, Vice-3)
+nn(Gore-6, President-4)
+nn(Gore-6, Al-5)
+poss(lead-9, Gore-6)
+nn(lead-9, nationwide-8)
+nsubj(grown-15, lead-9)
+det(vote-13, the-11)
+amod(vote-13, popular-12)
+prep_in(lead-9, vote-13)
+aux(grown-15, has-14)
+root(ROOT-0, grown-15)
+prep(grown-15, by-16)
+pcomp(by-16, about-17)
+pobj(about-17, 200,000-18)
+prep_to(grown-15, more-21)
+amod(million-25, half-23)
+quantmod(million-25, a-24)
+prep_than(more-21, million-25)
+advmod(million-25, since-27)
+dobj(grown-15, Dec-28)
+
+18/CD ,/, when/WRB the/DT Electoral/NNP College/NNP sealed/VBD his/PRP$ fate/NN and/CC made/VBD Gov./NNP George/NNP W./NNP Bush/NNP the/DT 43rd/NN president/NN of/IN the/DT United/NNP States/NNPS ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 18))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (NNP Electoral) (NNP College))
+        (VP
+          (VP (VBD sealed)
+            (NP (PRP$ his) (NN fate)))
+          (CC and)
+          (VP (VBD made)
+            (S
+              (NP (NNP Gov.) (NNP George) (NNP W.) (NNP Bush))
+              (NP
+                (NP (DT the) (NN 43rd) (NN president))
+                (PP (IN of)
+                  (NP (DT the) (NNP United) (NNPS States)))))))))
+    (. .)))
+
+root(ROOT-0, 18-1)
+advmod(sealed-7, when-3)
+det(College-6, the-4)
+nn(College-6, Electoral-5)
+nsubj(sealed-7, College-6)
+nsubj(made-11, College-6)
+dep(18-1, sealed-7)
+poss(fate-9, his-8)
+dobj(sealed-7, fate-9)
+dep(18-1, made-11)
+conj_and(sealed-7, made-11)
+nn(Bush-15, Gov.-12)
+nn(Bush-15, George-13)
+nn(Bush-15, W.-14)
+nsubj(president-18, Bush-15)
+det(president-18, the-16)
+nn(president-18, 43rd-17)
+xcomp(made-11, president-18)
+det(States-22, the-20)
+nn(States-22, United-21)
+prep_of(president-18, States-22)
+
+A/DT state/NN -by-state/NN survey/NN by/IN The/DT Associated/JJ Press/NN of/IN the/DT final/JJ certified/JJ results/NNS put/VBD Gore/NNP 's/POS popular-vote/JJ edge/NN at/IN 539,947/CD ,/, up/RB considerably/RB from/IN the/DT lead/NN of/IN about/IN 337,000/CD that/WDT was/VBD widely/RB reported/VBN in/IN the/DT first/JJ several/JJ weeks/NNS after/IN the/DT election/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN state) (NN -by-state) (NN survey))
+      (PP (IN by)
+        (NP
+          (NP (DT The) (JJ Associated) (NN Press))
+          (PP (IN of)
+            (NP (DT the) (JJ final) (JJ certified) (NNS results))))))
+    (VP (VBD put)
+      (NP
+        (NP (NNP Gore) (POS 's))
+        (JJ popular-vote) (NN edge))
+      (PP (IN at)
+        (NP (CD 539,947)))
+      (, ,)
+      (ADVP (RB up) (RB considerably)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN lead))
+            (PP (IN of)
+              (PP (IN about)
+                (NP (CD 337,000))))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD was)
+                  (ADVP (RB widely))
+                  (VP (VBN reported)
+                    (PP (IN in)
+                      (NP (DT the) (JJ first) (JJ several) (NNS weeks)))
+                    (PP (IN after)
+                      (NP (DT the) (NN election)))))))))))
+    (. .)))
+
+det(survey-4, A-1)
+nn(survey-4, state-2)
+nn(survey-4, -by-state-3)
+nsubj(put-14, survey-4)
+det(Press-8, The-6)
+amod(Press-8, Associated-7)
+prep_by(survey-4, Press-8)
+det(results-13, the-10)
+amod(results-13, final-11)
+amod(results-13, certified-12)
+prep_of(Press-8, results-13)
+root(ROOT-0, put-14)
+poss(edge-18, Gore-15)
+amod(edge-18, popular-vote-17)
+dobj(put-14, edge-18)
+prep_at(put-14, 539,947-20)
+advmod(considerably-23, up-22)
+advmod(put-14, considerably-23)
+det(lead-26, the-25)
+prep_from(considerably-23, lead-26)
+nsubjpass(reported-33, lead-26)
+prep(lead-26, of-27)
+pcomp(of-27, about-28)
+pobj(about-28, 337,000-29)
+auxpass(reported-33, was-31)
+advmod(reported-33, widely-32)
+rcmod(lead-26, reported-33)
+det(weeks-38, the-35)
+amod(weeks-38, first-36)
+amod(weeks-38, several-37)
+prep_in(reported-33, weeks-38)
+det(election-41, the-40)
+prep_after(reported-33, election-41)
+
+The/DT totals/NNS were/VBD 50,996,116/CD for/IN Gore/NNP and/CC 50,456,169/CD for/IN Bush/NNP ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NNS totals))
+    (VP (VBD were)
+      (NP
+        (NP
+          (NP (CD 50,996,116))
+          (PP (IN for)
+            (NP (NNP Gore))))
+        (CC and)
+        (NP
+          (NP (CD 50,456,169))
+          (PP (IN for)
+            (NP (NNP Bush))))))
+    (. .)))
+
+det(totals-2, The-1)
+nsubj(50,996,116-4, totals-2)
+cop(50,996,116-4, were-3)
+root(ROOT-0, 50,996,116-4)
+prep_for(50,996,116-4, Gore-6)
+conj_and(50,996,116-4, 50,456,169-8)
+prep_for(50,456,169-8, Bush-10)
+
+Much/NN of/IN the/DT increase/NN came/VBD in/IN California/NNP ,/, New/NNP York/NNP ,/, and/CC other/JJ ,/, smaller/JJ states/NNS that/WDT went/VBD for/IN Gore/NNP ,/, said/VBD Curtis/NNP B./NNP Gans/NNPS of/IN the/DT Committee/NNP for/IN the/DT Study/NN of/IN the/DT American/NNP Electorate/NNP ,/, a/DT nonpartisan/JJ research/NN group/NN that/WDT has/VBZ followed/VBN presidential/JJ elections/NNS for/IN a/DT quarter-century/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NN Much))
+        (PP (IN of)
+          (NP (DT the) (NN increase))))
+      (VP (VBD came)
+        (PP (IN in)
+          (NP
+            (NP (NNP California))
+            (, ,)
+            (NP (NNP New) (NNP York))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (JJ other))
+        (, ,)
+        (NP
+          (NP (JJ smaller) (NNS states))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD went)
+                (PP (IN for)
+                  (NP (NNP Gore)))))))
+        (, ,))
+      (VP (VBD said)
+        (NP
+          (NP (NNP Curtis) (NNP B.) (NNPS Gans))
+          (PP (IN of)
+            (NP (DT the) (NNP Committee))))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN Study))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNP American) (NNP Electorate))
+                (, ,)
+                (NP
+                  (NP (DT a) (JJ nonpartisan) (NN research) (NN group))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ has)
+                        (VP (VBN followed)
+                          (NP
+                            (NP (JJ presidential) (NNS elections))
+                            (PP (IN for)
+                              (NP (DT a) (NN quarter-century)))))))))))))))
+    (. .)))
+
+nsubj(came-5, Much-1)
+det(increase-4, the-3)
+prep_of(Much-1, increase-4)
+root(ROOT-0, came-5)
+prep_in(came-5, California-7)
+nn(York-10, New-9)
+appos(California-7, York-10)
+nsubj(said-22, other-13)
+amod(states-16, smaller-15)
+appos(other-13, states-16)
+nsubj(went-18, states-16)
+rcmod(states-16, went-18)
+prep_for(went-18, Gore-20)
+conj_and(came-5, said-22)
+nn(Gans-25, Curtis-23)
+nn(Gans-25, B.-24)
+dobj(said-22, Gans-25)
+det(Committee-28, the-27)
+prep_of(Gans-25, Committee-28)
+det(Study-31, the-30)
+prep_for(said-22, Study-31)
+det(Electorate-35, the-33)
+nn(Electorate-35, American-34)
+prep_of(Study-31, Electorate-35)
+det(group-40, a-37)
+amod(group-40, nonpartisan-38)
+nn(group-40, research-39)
+appos(Electorate-35, group-40)
+nsubj(followed-43, group-40)
+aux(followed-43, has-42)
+rcmod(group-40, followed-43)
+amod(elections-45, presidential-44)
+dobj(followed-43, elections-45)
+det(quarter-century-48, a-47)
+prep_for(elections-45, quarter-century-48)
+
+Election/NN officials/NNS in/IN California/NNP and/CC New/NNP York/NNP said/VBD Friday/NN that/IN the/DT bigger/NN numbers/NNS for/IN Gore/NN were/VBD not/RB hard/JJ to/TO explain/VB ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Election) (NNS officials))
+      (PP (IN in)
+        (NP (NNP California)
+          (CC and)
+          (NNP New) (NNP York))))
+    (VP (VBD said)
+      (NP (NN Friday))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN bigger) (NNS numbers))
+            (PP (IN for)
+              (NP (NN Gore))))
+          (VP (VBD were) (RB not)
+            (ADJP (JJ hard)
+              (S
+                (VP (TO to)
+                  (VP (VB explain)))))))))
+    (. .)))
+
+nn(officials-2, Election-1)
+nsubj(said-8, officials-2)
+nn(York-7, California-4)
+conj_and(California-4, New-6)
+nn(York-7, New-6)
+prep_in(officials-2, York-7)
+root(ROOT-0, said-8)
+tmod(said-8, Friday-9)
+mark(hard-18, that-10)
+det(numbers-13, the-11)
+nn(numbers-13, bigger-12)
+nsubj(hard-18, numbers-13)
+nsubj(explain-20, numbers-13)
+prep_for(numbers-13, Gore-15)
+cop(hard-18, were-16)
+neg(hard-18, not-17)
+ccomp(said-8, hard-18)
+aux(explain-20, to-19)
+xcomp(hard-18, explain-20)
+
+Gore/NNP carried/VBD both/DT big/JJ states/NNS easily/RB ./.
+
+(ROOT
+  (S
+    (NP (NNP Gore))
+    (VP (VBD carried)
+      (NP (DT both) (JJ big) (NNS states))
+      (ADVP (RB easily)))
+    (. .)))
+
+nsubj(carried-2, Gore-1)
+root(ROOT-0, carried-2)
+det(states-5, both-3)
+amod(states-5, big-4)
+dobj(carried-2, states-5)
+advmod(carried-2, easily-6)
+
+Both/DT states/NNS had/VBD big/JJ absentee/JJ -ballot/JJ totals/NNS that/WDT could/MD not/RB be/VB counted/VBN immediately/RB and/CC ,/, because/IN absentee/JJ votes/NNS generally/RB do/VBP not/RB vary/VB sharply/RB from/IN Election/NNP Night/NNP returns/NNS ,/, it/PRP was/VBD predictable/JJ that/IN the/DT absentees/NNS would/MD widen/VB the/DT vice/NN president/NN 's/POS lead/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP (DT Both) (NNS states))
+      (VP (VBD had)
+        (NP
+          (NP (JJ big) (JJ absentee) (JJ -ballot) (NNS totals))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD could) (RB not)
+                (VP (VB be)
+                  (VP (VBN counted)
+                    (ADVP (RB immediately))))))))))
+    (CC and)
+    (, ,)
+    (S
+      (SBAR (IN because)
+        (S
+          (NP (JJ absentee) (NNS votes))
+          (ADVP (RB generally))
+          (VP (VBP do) (RB not)
+            (VP (VB vary)
+              (ADVP (RB sharply))
+              (PP (IN from)
+                (NP (NNP Election) (NNP Night) (NNS returns)))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ predictable))
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNS absentees))
+            (VP (MD would)
+              (VP (VB widen)
+                (NP
+                  (NP (DT the) (NN vice) (NN president) (POS 's))
+                  (NN lead))))))))
+    (. .)))
+
+det(states-2, Both-1)
+nsubj(had-3, states-2)
+root(ROOT-0, had-3)
+amod(totals-7, big-4)
+amod(totals-7, absentee-5)
+amod(totals-7, -ballot-6)
+dobj(had-3, totals-7)
+nsubjpass(counted-12, totals-7)
+aux(counted-12, could-9)
+neg(counted-12, not-10)
+auxpass(counted-12, be-11)
+rcmod(totals-7, counted-12)
+advmod(counted-12, immediately-13)
+mark(vary-22, because-16)
+amod(votes-18, absentee-17)
+nsubj(vary-22, votes-18)
+advmod(vary-22, generally-19)
+aux(vary-22, do-20)
+neg(vary-22, not-21)
+advcl(predictable-31, vary-22)
+advmod(vary-22, sharply-23)
+nn(returns-27, Election-25)
+nn(returns-27, Night-26)
+prep_from(vary-22, returns-27)
+nsubj(predictable-31, it-29)
+cop(predictable-31, was-30)
+conj_and(had-3, predictable-31)
+mark(widen-36, that-32)
+det(absentees-34, the-33)
+nsubj(widen-36, absentees-34)
+aux(widen-36, would-35)
+ccomp(predictable-31, widen-36)
+det(president-39, the-37)
+nn(president-39, vice-38)
+poss(lead-41, president-39)
+dobj(widen-36, lead-41)
+
+Gans/NNP said/VBD that/IN in/IN 1996/CD ,/, President/NNP Clinton/NNP 's/POS lead/NN over/IN Bob/NNP Dole/NNP grew/NN by/IN some/DT 200,000/CD votes/NNS from/IN election/NN night/NN until/IN all/DT absentee/JJ ballots/NNS were/VBD counted/VBN and/CC all/PDT the/DT votes/NNS certified/VBN ,/, a/DT fact/JJ all/DT but/CC forgotten/VBN except/NN by/IN political/JJ trivia/NN buffs/NNS ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Gans))
+      (VP (VBD said)
+        (SBAR (IN that)
+          (S
+            (S
+              (PP (IN in)
+                (NP (CD 1996)))
+              (, ,)
+              (NP
+                (NP
+                  (NP (NNP President) (NNP Clinton) (POS 's))
+                  (NN lead))
+                (PP (IN over)
+                  (NP
+                    (NP (NNP Bob) (NNP Dole))
+                    (ADJP (NN grew)
+                      (PP (IN by)
+                        (NP
+                          (NP (DT some) (CD 200,000) (NNS votes))
+                          (PP (IN from)
+                            (NP (NN election) (NN night)))))
+                      (PP (IN until)
+                        (NP (DT all) (JJ absentee) (NNS ballots)))))))
+              (VP (VBD were)
+                (VP (VBN counted))))
+            (CC and)
+            (S
+              (NP (PDT all) (DT the) (NNS votes))
+              (VP (VBN certified)))))))
+    (, ,)
+    (NP (DT a) (JJ fact))
+    (ADVP (DT all)
+      (CC but))
+    (VP (VBN forgotten)
+      (NP (NN except))
+      (PP (IN by)
+        (NP (JJ political) (NN trivia) (NNS buffs))))
+    (. .)))
+
+nsubj(said-2, Gans-1)
+ccomp(forgotten-38, said-2)
+mark(counted-27, that-3)
+prep_in(counted-27, 1996-5)
+nn(Clinton-8, President-7)
+poss(lead-10, Clinton-8)
+nsubjpass(counted-27, lead-10)
+nn(Dole-13, Bob-12)
+prep_over(lead-10, Dole-13)
+amod(Dole-13, grew-14)
+det(votes-18, some-16)
+num(votes-18, 200,000-17)
+prep_by(grew-14, votes-18)
+nn(night-21, election-20)
+prep_from(votes-18, night-21)
+det(ballots-25, all-23)
+amod(ballots-25, absentee-24)
+prep_until(grew-14, ballots-25)
+auxpass(counted-27, were-26)
+ccomp(said-2, counted-27)
+predet(votes-31, all-29)
+det(votes-31, the-30)
+nsubj(certified-32, votes-31)
+ccomp(said-2, certified-32)
+conj_and(counted-27, certified-32)
+det(fact-35, a-34)
+nsubj(forgotten-38, fact-35)
+mwe(but-37, all-36)
+advmod(forgotten-38, but-37)
+root(ROOT-0, forgotten-38)
+dobj(forgotten-38, except-39)
+amod(buffs-43, political-41)
+nn(buffs-43, trivia-42)
+prep_by(forgotten-38, buffs-43)
+
+``But/IN it/PRP didn't/VBD matter/NN ,''/IN Gans/NNP said/VBD ,/, in/IN a/DT race/NN that/IN the/DT incumbent/NN won/NN by/IN more/JJR than/IN 8/CD million/CD popular/JJ votes/NNS and/CC by/IN a/DT 379-159/JJ advantage/NN in/IN the/DT all-important/JJ Electoral/NNP College/NNP ./.
+
+(ROOT
+  (S
+    (SBAR (IN ``But)
+      (S
+        (NP (PRP it))
+        (VP (VBD didn't)
+          (NP (NN matter))
+          (PP (IN ,'')
+            (NP (NNP Gans))))))
+    (VP (VBD said) (, ,)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN race))
+          (PP (IN that)
+            (NP (DT the) (NN incumbent) (NN won)))))
+      (PP
+        (PP (IN by)
+          (NP
+            (QP (JJR more) (IN than) (CD 8) (CD million))
+            (JJ popular) (NNS votes)))
+        (CC and)
+        (PP (IN by)
+          (NP (DT a) (JJ 379-159) (NN advantage))))
+      (PP (IN in)
+        (NP (DT the) (JJ all-important) (NNP Electoral) (NNP College))))
+    (. .)))
+
+mark(didn't-3, ``But-1)
+nsubj(didn't-3, it-2)
+csubj(said-7, didn't-3)
+dobj(didn't-3, matter-4)
+prep_,''(didn't-3, Gans-6)
+root(ROOT-0, said-7)
+det(race-11, a-10)
+prep_in(said-7, race-11)
+det(won-15, the-13)
+nn(won-15, incumbent-14)
+prep_that(race-11, won-15)
+mwe(than-18, more-17)
+quantmod(million-20, than-18)
+number(million-20, 8-19)
+num(votes-22, million-20)
+amod(votes-22, popular-21)
+prep_by(said-7, votes-22)
+det(advantage-27, a-25)
+amod(advantage-27, 379-159-26)
+prep_by(said-7, advantage-27)
+conj_and(votes-22, advantage-27)
+det(College-32, the-29)
+amod(College-32, all-important-30)
+nn(College-32, Electoral-31)
+prep_in(said-7, College-32)
+
+In/IN the/DT 1960/CD election/NN John/NNP F./NNP Kennedy/NNP had/VBD the/DT electoral/JJ vote/NN edge/NN and/CC a/DT 114,673-vote/JJ margin/NN in/IN the/DT popular/JJ vote/NN over/IN Richard/NNP Nixon/NNP ./.
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (CD 1960) (NN election)))
+    (NP (NNP John) (NNP F.) (NNP Kennedy))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (JJ electoral) (NN vote) (NN edge))
+        (CC and)
+        (NP (DT a) (JJ 114,673-vote) (NN margin)))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ popular) (NN vote))
+          (PP (IN over)
+            (NP (NNP Richard) (NNP Nixon))))))
+    (. .)))
+
+det(election-4, the-2)
+num(election-4, 1960-3)
+prep_in(had-8, election-4)
+nn(Kennedy-7, John-5)
+nn(Kennedy-7, F.-6)
+nsubj(had-8, Kennedy-7)
+root(ROOT-0, had-8)
+det(edge-12, the-9)
+amod(edge-12, electoral-10)
+nn(edge-12, vote-11)
+dobj(had-8, edge-12)
+det(margin-16, a-14)
+amod(margin-16, 114,673-vote-15)
+dobj(had-8, margin-16)
+conj_and(edge-12, margin-16)
+det(vote-20, the-18)
+amod(vote-20, popular-19)
+prep_in(had-8, vote-20)
+nn(Nixon-23, Richard-22)
+prep_over(vote-20, Nixon-23)
+
+A/DT total/NN of/IN 68.8/CD million/CD votes/NNS were/VBD cast/NN for/IN president/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN total))
+      (PP (IN of)
+        (NP
+          (QP (CD 68.8) (CD million))
+          (NNS votes))))
+    (VP (VBD were)
+      (NP
+        (NP (NN cast))
+        (PP (IN for)
+          (NP (NN president)))))
+    (. .)))
+
+det(total-2, A-1)
+nsubj(cast-8, total-2)
+number(million-5, 68.8-4)
+num(votes-6, million-5)
+prep_of(total-2, votes-6)
+cop(cast-8, were-7)
+root(ROOT-0, cast-8)
+prep_for(cast-8, president-10)
+
+Eight/JJ years/NNS later/RBR Nixon/NNP won/VBD the/DT Electoral/NNP College/NNP and/CC a/DT popular-vote/JJ margin/NN of/IN 510,645/CD out/IN of/IN 73.2/CD million/CD votes/NNS cast/NN for/IN president/NN ./.
+
+(ROOT
+  (S
+    (ADVP
+      (NP (JJ Eight) (NNS years))
+      (RBR later))
+    (NP (NNP Nixon))
+    (VP (VBD won)
+      (NP
+        (NP (DT the) (NNP Electoral) (NNP College))
+        (CC and)
+        (NP
+          (NP (DT a) (JJ popular-vote) (NN margin))
+          (PP (IN of)
+            (NP (CD 510,645)))))
+      (PP (IN out) (IN of)
+        (NP
+          (NP
+            (QP (CD 73.2) (CD million))
+            (NNS votes) (NN cast))
+          (PP (IN for)
+            (NP (NN president))))))
+    (. .)))
+
+amod(years-2, Eight-1)
+npadvmod(later-3, years-2)
+advmod(won-5, later-3)
+nsubj(won-5, Nixon-4)
+root(ROOT-0, won-5)
+det(College-8, the-6)
+nn(College-8, Electoral-7)
+dobj(won-5, College-8)
+det(margin-12, a-10)
+amod(margin-12, popular-vote-11)
+dobj(won-5, margin-12)
+conj_and(College-8, margin-12)
+prep_of(margin-12, 510,645-14)
+number(million-18, 73.2-17)
+num(cast-20, million-18)
+nn(cast-20, votes-19)
+prep_out_of(won-5, cast-20)
+prep_for(cast-20, president-22)
+
+The/DT 2000/CD election/NN ,/, of/IN course/NN ,/, will/MD be/VB remembered/VBN as/IN the/DT first/JJ in/IN 112/CD years/NNS in/IN which/WDT the/DT leader/NN in/IN the/DT popular/JJ vote/NN lost/VBD the/DT White/NNP House/NNP because/IN his/PRP$ opponent/NN prevailed/VBN in/IN the/DT Electoral/NNP College/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (CD 2000) (NN election))
+      (, ,)
+      (PP (IN of)
+        (NP (NN course)))
+      (, ,))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN remembered)
+          (PP (IN as)
+            (NP (DT the) (JJ first)))
+          (PP (IN in)
+            (NP
+              (NP (CD 112) (NNS years))
+              (SBAR
+                (WHPP (IN in)
+                  (WHNP (WDT which)))
+                (S
+                  (NP
+                    (NP (DT the) (NN leader))
+                    (PP (IN in)
+                      (NP (DT the) (JJ popular) (NN vote))))
+                  (VP (VBD lost)
+                    (NP (DT the) (NNP White) (NNP House))
+                    (PP (IN because)
+                      (NP
+                        (NP (PRP$ his) (NN opponent))
+                        (VP (VBN prevailed)
+                          (PP (IN in)
+                            (NP (DT the) (NNP Electoral) (NNP College))))))))))))))
+    (. .)))
+
+det(election-3, The-1)
+num(election-3, 2000-2)
+nsubjpass(remembered-10, election-3)
+prep_of(election-3, course-6)
+aux(remembered-10, will-8)
+auxpass(remembered-10, be-9)
+root(ROOT-0, remembered-10)
+det(first-13, the-12)
+prep_as(remembered-10, first-13)
+num(years-16, 112-15)
+prep_in(remembered-10, years-16)
+prep_in(lost-25, years-16)
+det(leader-20, the-19)
+nsubj(lost-25, leader-20)
+det(vote-24, the-22)
+amod(vote-24, popular-23)
+prep_in(leader-20, vote-24)
+rcmod(years-16, lost-25)
+det(House-28, the-26)
+nn(House-28, White-27)
+dobj(lost-25, House-28)
+poss(opponent-31, his-30)
+prep_because(lost-25, opponent-31)
+vmod(opponent-31, prevailed-32)
+det(College-36, the-34)
+nn(College-36, Electoral-35)
+prep_in(prevailed-32, College-36)
+
+Bush/NNP got/VBD 271/CD electoral/JJ votes/NNS ,/, one/CD more/JJR than/IN he/PRP needed/VBD for/IN a/DT majority/NN and/CC five/CD more/JJR than/IN Gore/NNP ,/, who/WP lost/VBD one/CD vote/NN in/IN the/DT Electoral/NNP College/NNP when/WRB a/DT Washington,/NNP D.C./NNP ,/, elector/NN left/VBD her/PRP$ ballot/NN blank/NN to/TO protest/VB the/DT District/NNP of/IN Columbia/NNP 's/POS lack/NN of/IN voting/VBG power/NN in/IN Congress/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP Bush))
+    (VP (VBD got)
+      (NP
+        (NP (CD 271) (JJ electoral) (NNS votes))
+        (, ,)
+        (ADJP
+          (ADJP
+            (NP (CD one))
+            (JJR more))
+          (SBAR (IN than)
+            (S
+              (NP (PRP he))
+              (VP (VBD needed)
+                (PP (IN for)
+                  (NP
+                    (NP (DT a) (NN majority))
+                    (CC and)
+                    (NP (CD five) (JJR more))))
+                (PP (IN than)
+                  (NP (NNP Gore)))))))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD lost)
+              (NP
+                (NP (CD one) (NN vote))
+                (PP (IN in)
+                  (NP (DT the) (NNP Electoral) (NNP College))))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (DT a) (NNP Washington,) (NNP D.C.) (, ,) (NN elector))
+                  (VP (VBD left)
+                    (NP (PRP$ her) (NN ballot) (NN blank))
+                    (S
+                      (VP (TO to)
+                        (VP (VB protest)
+                          (NP
+                            (NP (DT the) (NNP District))
+                            (PP (IN of)
+                              (NP
+                                (NP
+                                  (NP (NNP Columbia) (POS 's))
+                                  (NN lack))
+                                (PP (IN of)
+                                  (NP
+                                    (NP (VBG voting) (NN power))
+                                    (PP (IN in)
+                                      (NP (NNP Congress)))))))))))))))))))
+    (. .)))
+
+nsubj(got-2, Bush-1)
+root(ROOT-0, got-2)
+num(votes-5, 271-3)
+amod(votes-5, electoral-4)
+dobj(got-2, votes-5)
+nsubj(lost-22, votes-5)
+npadvmod(more-8, one-7)
+amod(votes-5, more-8)
+mark(needed-11, than-9)
+nsubj(needed-11, he-10)
+ccomp(more-8, needed-11)
+det(majority-14, a-13)
+prep_for(needed-11, majority-14)
+num(more-17, five-16)
+prep_for(needed-11, more-17)
+conj_and(majority-14, more-17)
+prep_than(needed-11, Gore-19)
+rcmod(votes-5, lost-22)
+num(vote-24, one-23)
+dobj(lost-22, vote-24)
+det(College-28, the-26)
+nn(College-28, Electoral-27)
+prep_in(vote-24, College-28)
+advmod(left-35, when-29)
+det(elector-34, a-30)
+nn(elector-34, Washington,-31)
+nn(elector-34, D.C.-32)
+nsubj(left-35, elector-34)
+advcl(lost-22, left-35)
+poss(blank-38, her-36)
+nn(blank-38, ballot-37)
+dobj(left-35, blank-38)
+aux(protest-40, to-39)
+vmod(left-35, protest-40)
+det(District-42, the-41)
+dobj(protest-40, District-42)
+poss(lack-46, Columbia-44)
+prep_of(District-42, lack-46)
+amod(power-49, voting-48)
+prep_of(lack-46, power-49)
+prep_in(power-49, Congress-51)
+
+Gore/NNP won/NNP New/NNP York/NNP state/NN ,/, 4,107,697-2,403,374/CD ,/, or/CC by/IN some/DT 1.7/CD million/CD votes/NNS ./.
+
+(ROOT
+  (NP
+    (NP (NNP Gore) (NNP won) (NNP New) (NNP York))
+    (NP
+      (NP (NN state))
+      (, ,)
+      (NP (CD 4,107,697-2,403,374))
+      (, ,)
+      (CC or)
+      (NP
+        (QP (IN by) (DT some) (CD 1.7) (CD million))
+        (NNS votes)))
+    (. .)))
+
+nn(York-4, Gore-1)
+nn(York-4, won-2)
+nn(York-4, New-3)
+root(ROOT-0, York-4)
+dep(York-4, state-5)
+dep(York-4, 4,107,697-2,403,374-7)
+conj_or(state-5, 4,107,697-2,403,374-7)
+quantmod(million-13, by-10)
+quantmod(million-13, some-11)
+number(million-13, 1.7-12)
+num(votes-14, million-13)
+dep(York-4, votes-14)
+conj_or(state-5, votes-14)
+
+Lee/NNP Daghlian/NNP ,/, the/DT chief/JJ spokesman/NN for/IN the/DT state/NN 's/POS Board/NNP of/IN Elections/NNPS ,/, said/VBD Friday/NNP that/IN about/IN 360,000/CD absentee/NN ballots/NNS were/VBD requested/VBN ,/, and/CC that/IN about/IN 260,000/CD were/VBD returned/VBN in/IN time/NN to/TO be/VB counted/VBN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Lee) (NNP Daghlian))
+      (, ,)
+      (NP
+        (NP (DT the) (JJ chief) (NN spokesman))
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (DT the) (NN state) (POS 's))
+              (NNP Board))
+            (PP (IN of)
+              (NP (NNPS Elections))))))
+      (, ,))
+    (VP (VBD said)
+      (NP (NNP Friday))
+      (SBAR (IN that)
+        (S
+          (S
+            (UCP
+              (PP (IN about)
+                (NP
+                  (NP (CD 360,000) (NN absentee) (NNS ballots))
+                  (SBAR
+                    (S
+                      (VP (VBD were)
+                        (VP (VBN requested)))))))
+              (, ,)
+              (CC and)
+              (SBAR (IN that)
+                (FRAG
+                  (PP (IN about)
+                    (NP (CD 260,000)))))))
+          (VP (VBD were)
+            (VP (VBN returned)
+              (PP (IN in)
+                (NP (NN time)))
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBN counted))))))))))
+    (. .)))
+
+nn(Daghlian-2, Lee-1)
+nsubj(said-15, Daghlian-2)
+det(spokesman-6, the-4)
+amod(spokesman-6, chief-5)
+appos(Daghlian-2, spokesman-6)
+det(state-9, the-8)
+poss(Board-11, state-9)
+prep_for(spokesman-6, Board-11)
+prep_of(Board-11, Elections-13)
+root(ROOT-0, said-15)
+tmod(said-15, Friday-16)
+mark(returned-30, that-17)
+csubjpass(returned-30, about-18)
+num(ballots-21, 360,000-19)
+nn(ballots-21, absentee-20)
+pobj(about-18, ballots-21)
+auxpass(requested-23, were-22)
+rcmod(ballots-21, requested-23)
+mark(about-27, that-26)
+conj_and(about-18, about-27)
+csubjpass(returned-30, about-27)
+pobj(about-27, 260,000-28)
+auxpass(returned-30, were-29)
+ccomp(said-15, returned-30)
+prep_in(returned-30, time-32)
+aux(counted-35, to-33)
+auxpass(counted-35, be-34)
+xcomp(returned-30, counted-35)
+
+In/IN New/NNP York/NNP ,/, absentee/NN ballots/NNS must/MD be/VB postmarked/VBN no/DT later/RBR than/IN the/DT day/NN before/IN the/DT election/NN and/CC received/VBD no/DT later/RBR than/IN a/DT week/NN after/IN the/DT election/NN ./.
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP New) (NNP York)))
+    (, ,)
+    (NP (NN absentee) (NNS ballots))
+    (VP
+      (VP (MD must)
+        (VP (VB be)
+          (VP (VBN postmarked)
+            (ADVP (DT no) (RBR later))
+            (PP (IN than)
+              (NP (DT the) (NN day)))
+            (PP (IN before)
+              (NP (DT the) (NN election))))))
+      (CC and)
+      (VP (VBD received)
+        (ADVP (DT no) (RBR later))
+        (PP (IN than)
+          (NP
+            (NP (DT a) (NN week))
+            (PP (IN after)
+              (NP (DT the) (NN election)))))))
+    (. .)))
+
+nn(York-3, New-2)
+prep_in(postmarked-9, York-3)
+nn(ballots-6, absentee-5)
+nsubjpass(postmarked-9, ballots-6)
+nsubjpass(received-19, ballots-6)
+aux(postmarked-9, must-7)
+auxpass(postmarked-9, be-8)
+root(ROOT-0, postmarked-9)
+neg(later-11, no-10)
+advmod(postmarked-9, later-11)
+det(day-14, the-13)
+prep_than(postmarked-9, day-14)
+det(election-17, the-16)
+prep_before(postmarked-9, election-17)
+conj_and(postmarked-9, received-19)
+neg(later-21, no-20)
+advmod(received-19, later-21)
+det(week-24, a-23)
+prep_than(received-19, week-24)
+det(election-27, the-26)
+prep_after(week-24, election-27)
+
+Daghlian/NNP said/VBD absentee/JJ balloting/NN was/VBD about/IN 20/CD percent/JJ higher/RBR this/DT year/NN than/IN in/IN 1996/CD ./.
+
+(ROOT
+  (S
+    (NP (NNP Daghlian))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ absentee) (NN balloting))
+          (VP (VBD was)
+            (PP (IN about)
+              (NP (CD 20) (JJ percent)))
+            (NP (RBR higher) (DT this) (NN year))
+            (PP (IN than)
+              (PP (IN in)
+                (NP (CD 1996))))))))
+    (. .)))
+
+nsubj(said-2, Daghlian-1)
+root(ROOT-0, said-2)
+amod(balloting-4, absentee-3)
+nsubj(year-11, balloting-4)
+cop(year-11, was-5)
+prep_about(year-11, 20-7)
+amod(20-7, percent-8)
+advmod(year-11, higher-9)
+det(year-11, this-10)
+ccomp(said-2, year-11)
+prep(year-11, than-12)
+pcomp(than-12, in-13)
+pobj(in-13, 1996-14)
+
+He/PRP speculated/VBD that/IN the/DT presence/NN of/IN Sen./NNP Joseph/NNP Lieberman/NNP of/IN Connecticut/NNP on/IN the/DT Democratic/JJ ticket/NN might/MD have/VB caused/VBN more/RBR American/JJ Jews/NNP to/TO mail/VB ballots/NNS from/IN Israel/NNP ./.
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD speculated)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN presence))
+            (PP (IN of)
+              (NP
+                (NP (NNP Sen.) (NNP Joseph) (NNP Lieberman))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Connecticut))
+                    (PP (IN on)
+                      (NP (DT the) (JJ Democratic) (NN ticket))))))))
+          (VP (MD might)
+            (VP (VB have)
+              (VP (VBN caused)
+                (S
+                  (NP
+                    (ADJP (RBR more) (JJ American))
+                    (NNP Jews))
+                  (VP (TO to)
+                    (VP (VB mail)
+                      (NP (NNS ballots))
+                      (PP (IN from)
+                        (NP (NNP Israel))))))))))))
+    (. .)))
+
+nsubj(speculated-2, He-1)
+root(ROOT-0, speculated-2)
+mark(caused-18, that-3)
+det(presence-5, the-4)
+nsubj(caused-18, presence-5)
+nn(Lieberman-9, Sen.-7)
+nn(Lieberman-9, Joseph-8)
+prep_of(presence-5, Lieberman-9)
+prep_of(Lieberman-9, Connecticut-11)
+det(ticket-15, the-13)
+amod(ticket-15, Democratic-14)
+prep_on(Connecticut-11, ticket-15)
+aux(caused-18, might-16)
+aux(caused-18, have-17)
+ccomp(speculated-2, caused-18)
+advmod(American-20, more-19)
+amod(Jews-21, American-20)
+dobj(caused-18, Jews-21)
+nsubj(mail-23, Jews-21)
+aux(mail-23, to-22)
+xcomp(caused-18, mail-23)
+dobj(mail-23, ballots-24)
+prep_from(mail-23, Israel-26)
+
+It/PRP was/VBD clear/RB on/IN Election/NNP Night/NNP that/IN Gore/NNP had/VBD carried/VBN California/NNP in/IN a/DT landslide/NN ,/, so/IN it/PRP was/VBD expected/VBN that/IN the/DT nearly/RB 1.5/CD million/CD absentee/NN ballots/NNS that/IN arrived/VBN in/IN time/NN to/TO be/VB accepted/VBN would/MD sharply/RB augment/VB his/PRP$ victory/NN _/, and/CC they/PRP did/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (ADVP (RB clear))
+        (PP (IN on)
+          (NP (NNP Election) (NNP Night)))
+        (SBAR (IN that)
+          (S
+            (NP (NNP Gore))
+            (VP (VBD had)
+              (VP (VBN carried)
+                (NP
+                  (NP (NNP California))
+                  (PP (IN in)
+                    (NP (DT a) (NN landslide))))))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP (VBN expected)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (DT the)
+                  (QP (RB nearly) (CD 1.5) (CD million))
+                  (NN absentee) (NNS ballots))
+                (SBAR
+                  (WHNP (IN that))
+                  (S
+                    (VP (VBN arrived)
+                      (PP (IN in)
+                        (NP (NN time)))
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (VP (VBN accepted)))))))))
+              (VP (MD would)
+                (ADVP (RB sharply))
+                (VP (VB augment)
+                  (NP (PRP$ his) (NN victory)))))))))
+    (, _)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD did)))
+    (. .)))
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+advmod(was-2, clear-3)
+nn(Night-6, Election-5)
+prep_on(was-2, Night-6)
+mark(carried-10, that-7)
+nsubj(carried-10, Gore-8)
+aux(carried-10, had-9)
+ccomp(was-2, carried-10)
+dobj(carried-10, California-11)
+det(landslide-14, a-13)
+prep_in(California-11, landslide-14)
+dep(was-2, so-16)
+nsubjpass(expected-19, it-17)
+auxpass(expected-19, was-18)
+ccomp(was-2, expected-19)
+mark(augment-36, that-20)
+det(ballots-26, the-21)
+quantmod(million-24, nearly-22)
+number(million-24, 1.5-23)
+num(ballots-26, million-24)
+nn(ballots-26, absentee-25)
+nsubj(arrived-28, ballots-26)
+nsubjpass(accepted-33, ballots-26)
+nsubj(augment-36, ballots-26)
+rcmod(ballots-26, arrived-28)
+prep_in(arrived-28, time-30)
+aux(accepted-33, to-31)
+auxpass(accepted-33, be-32)
+xcomp(arrived-28, accepted-33)
+aux(augment-36, would-34)
+advmod(augment-36, sharply-35)
+ccomp(expected-19, augment-36)
+poss(victory-38, his-37)
+dobj(augment-36, victory-38)
+punct(was-2, _-39)
+nsubj(did-42, they-41)
+conj_and(was-2, did-42)
+
+The/DT final/JJ certified/JJ totals/NNS in/IN California/NNP were/VBD 5,861,203/CD for/IN Gore/NNP and/CC 4,567,429/CD for/IN Bush/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ final) (JJ certified) (NNS totals))
+      (PP (IN in)
+        (NP (NNP California))))
+    (VP (VBD were)
+      (NP
+        (NP
+          (NP (CD 5,861,203))
+          (PP (IN for)
+            (NP (NNP Gore))))
+        (CC and)
+        (NP
+          (NP (CD 4,567,429))
+          (PP (IN for)
+            (NP (NNP Bush))))))
+    (. .)))
+
+det(totals-4, The-1)
+amod(totals-4, final-2)
+amod(totals-4, certified-3)
+nsubj(5,861,203-8, totals-4)
+prep_in(totals-4, California-6)
+cop(5,861,203-8, were-7)
+root(ROOT-0, 5,861,203-8)
+prep_for(5,861,203-8, Gore-10)
+conj_and(5,861,203-8, 4,567,429-12)
+prep_for(4,567,429-12, Bush-14)
+
+Alfie/NNP Charles/NNP ,/, a/DT spokesman/NN for/IN the/DT California/NNP secretary/NN of/IN state/NN ,/, Bill/NNP Jones/NNP ,/, said/VBD the/DT percentage/NN of/IN Californians/NNS voting/VBG by/IN absentee/JJ ballot/NN has/VBZ been/VBN increasing/VBG ,/, and/CC that/IN about/IN one-quarter/NN do/VBP now/RB ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Alfie) (NNP Charles))
+      (, ,)
+      (NP
+        (NP (DT a) (NN spokesman))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NNP California) (NN secretary))
+            (PP (IN of)
+              (NP
+                (NP (NN state))
+                (, ,)
+                (NP (NNP Bill) (NNP Jones)))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NN percentage))
+              (PP (IN of)
+                (NP
+                  (NP (NNS Californians))
+                  (VP (VBG voting)
+                    (PP (IN by)
+                      (NP (JJ absentee) (NN ballot)))))))
+            (VP (VBZ has)
+              (VP (VBN been)
+                (VP (VBG increasing))))))
+        (, ,)
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (PP (IN about)
+              (NP (NN one-quarter)))
+            (VP (VBP do)
+              (ADVP (RB now)))))))
+    (. .)))
+
+nn(Charles-2, Alfie-1)
+nsubj(said-16, Charles-2)
+det(spokesman-5, a-4)
+appos(Charles-2, spokesman-5)
+det(secretary-9, the-7)
+nn(secretary-9, California-8)
+prep_for(spokesman-5, secretary-9)
+prep_of(secretary-9, state-11)
+nn(Jones-14, Bill-13)
+appos(state-11, Jones-14)
+root(ROOT-0, said-16)
+det(percentage-18, the-17)
+nsubj(increasing-27, percentage-18)
+nsubj(do-33, percentage-18)
+prep_of(percentage-18, Californians-20)
+vmod(Californians-20, voting-21)
+amod(ballot-24, absentee-23)
+agent(voting-21, ballot-24)
+aux(increasing-27, has-25)
+aux(increasing-27, been-26)
+ccomp(said-16, increasing-27)
+mark(do-33, that-30)
+prep_about(do-33, one-quarter-32)
+ccomp(said-16, do-33)
+conj_and(increasing-27, do-33)
+advmod(do-33, now-34)
+
+[Californians/NNS ,/, unlike/JJ people/NNS in/IN some/DT states/NNS ,/, can/MD vote/VB absentee/VB without/IN showing/VBG a/DT compelling/VBG reason/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS [Californians))
+      (, ,)
+      (NP
+        (NP (JJ unlike) (NNS people))
+        (PP (IN in)
+          (NP (DT some) (NNS states))))
+      (, ,))
+    (VP (MD can)
+      (VP (VB vote)
+        (VP (VB absentee)
+          (PP (IN without)
+            (S
+              (VP (VBG showing)
+                (NP (DT a) (VBG compelling) (NN reason))))))))
+    (. .)))
+
+nsubj(vote-10, [Californians-1)
+amod(people-4, unlike-3)
+appos([Californians-1, people-4)
+det(states-7, some-6)
+prep_in(people-4, states-7)
+aux(vote-10, can-9)
+root(ROOT-0, vote-10)
+xcomp(vote-10, absentee-11)
+prepc_without(absentee-11, showing-13)
+det(reason-16, a-14)
+amod(reason-16, compelling-15)
+dobj(showing-13, reason-16)
+
+Their/RB ballots/NNS must/MD arrive/VB by/IN Election/NNP Day/NNP to/TO be/VB counted/VBN .]/.
+
+(ROOT
+  (S
+    (ADVP (RB Their))
+    (NP (NNS ballots))
+    (VP (MD must)
+      (VP (VB arrive)
+        (PP (IN by)
+          (NP (NNP Election) (NNP Day)))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN counted)))))))
+    (. .])))
+
+advmod(arrive-4, Their-1)
+nsubj(arrive-4, ballots-2)
+nsubjpass(counted-10, ballots-2)
+aux(arrive-4, must-3)
+root(ROOT-0, arrive-4)
+nn(Day-7, Election-6)
+prep_by(arrive-4, Day-7)
+aux(counted-10, to-8)
+auxpass(counted-10, be-9)
+xcomp(arrive-4, counted-10)
+punct(arrive-4, .]-11)
+
+NYT-12-29-00/CD 2114EST/CD
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-12-29-00) (CD 2114EST))))
+
+num(2114EST-2, NYT-12-29-00-1)
+root(ROOT-0, 2114EST-2)
+

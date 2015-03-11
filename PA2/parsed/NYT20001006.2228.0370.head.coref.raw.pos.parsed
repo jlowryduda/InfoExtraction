@@ -1,0 +1,497 @@
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001006.2228.0370) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-10-06) (CD 22:45:00))))
+
+nn(STORY-3, NYT20001006.2228.0370-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(22:45:00-5, 2000-10-06-4)
+dep(STORY-3, 22:45:00-5)
+
+(ROOT
+  (NP
+    (NP (CD A6290) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (JJ taf-z) (NN u))
+      (PP (IN p)
+        (NP (NNP BC-TV-DEBATE-RATINGS-NYT) (CD 10-06))))
+    (. 0230)))
+
+num(&Cx1f-2, A6290-1)
+root(ROOT-0, &Cx1f-2)
+amod(u-5, taf-z-4)
+dep(&Cx1f-2, u-5)
+prep_p(u-5, BC-TV-DEBATE-RATINGS-NYT-7)
+num(BC-TV-DEBATE-RATINGS-NYT-7, 10-06-8)
+punct(&Cx1f-2, 0230-9)
+
+(ROOT
+  (NP (NNP BC-TV-DEBATE-RATINGS-NYT)))
+
+root(ROOT-0, BC-TV-DEBATE-RATINGS-NYT-1)
+
+(ROOT
+  (NP (NNP CHENEY-LIEBERMAN) (NNP DEBATE) (NNP FARES) (NNP POORLY) (NNP IN) (. RATINGS)))
+
+nn(IN-5, CHENEY-LIEBERMAN-1)
+nn(IN-5, DEBATE-2)
+nn(IN-5, FARES-3)
+nn(IN-5, POORLY-4)
+root(ROOT-0, IN-5)
+punct(IN-5, RATINGS-6)
+
+(ROOT
+  (NP
+    (NP (NNS &UR))
+    (: ;)
+    (NP (CD c.2000) (NNP N.Y))
+    (. .)))
+
+root(ROOT-0, &UR-1)
+num(N.Y-4, c.2000-3)
+dep(&UR-1, N.Y-4)
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
+    (PRN (: ;)
+      (NP
+        (NP (NNS &LR))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&QC-4, Times-1)
+nn(&QC-4, News-2)
+nn(&QC-4, Service-3)
+root(ROOT-0, &QC-4)
+dep(&QC-4, &LR-6)
+dep(&LR-6, &QL-8)
+
+(ROOT
+  (NP
+    (NP (DT The) (JJ vice-presidential) (NN debate))
+    (PP (IN on)
+      (NP (NN Thursday)))
+    (PP (IN between)
+      (NP (NNP Sen)))
+    (. .)))
+
+det(debate-3, The-1)
+amod(debate-3, vice-presidential-2)
+root(ROOT-0, debate-3)
+prep_on(debate-3, Thursday-5)
+prep_between(debate-3, Sen-7)
+
+(ROOT
+  (S
+    (NP (NNP Joseph) (NNP Lieberman)
+      (CC and)
+      (NNP Dick) (NNP Cheney))
+    (VP (VBD was)
+      (VP (VBN watched)
+        (PP (IN by)
+          (NP
+            (NP
+              (QP (IN at) (JJS least) (CD 28.5) (CD million))
+              (NNS people))
+            (, ,)
+            (NP
+              (NP (DT the) (JJ second-smallest) (NN audience))
+              (PP (IN on)
+                (NP (NN record))))))
+        (PP (IN for)
+          (NP (DT a) (JJ vice-presidential) (NN debate)))
+        (, ,)
+        (PP (VBG according)
+          (PP (TO to)
+            (NP (NNP Nielsen) (NNP Media) (NNP Research) (NNS data))))))
+    (. .)))
+
+nn(Lieberman-2, Joseph-1)
+nsubjpass(watched-7, Lieberman-2)
+nn(Cheney-5, Dick-4)
+conj_and(Lieberman-2, Cheney-5)
+nsubjpass(watched-7, Cheney-5)
+auxpass(watched-7, was-6)
+root(ROOT-0, watched-7)
+quantmod(million-12, at-9)
+mwe(at-9, least-10)
+pobj(at-9, least-10)
+number(million-12, 28.5-11)
+num(people-13, million-12)
+agent(watched-7, people-13)
+det(audience-17, the-15)
+amod(audience-17, second-smallest-16)
+appos(people-13, audience-17)
+prep_on(audience-17, record-19)
+det(debate-23, a-21)
+amod(debate-23, vice-presidential-22)
+prep_for(watched-7, debate-23)
+prepc_according_to(watched-7, to-26)
+nn(data-30, Nielsen-27)
+nn(data-30, Media-28)
+nn(data-30, Research-29)
+pobj(watched-7, data-30)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ lowest-rated) (JJ vice-presidential) (NN debate))
+      (PP (IN on)
+        (NP (NN record))))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (NN confrontation))
+        (PP (IN between)
+          (NP (NNP Vice) (NNP President) (NNP Al) (NNP Gore)
+            (CC and)
+            (NNP Jack) (NNP Kemp))))
+      (, ,)
+      (PP (IN on)
+        (NP (NNP Oct))))
+    (. .)))
+
+det(debate-4, The-1)
+amod(debate-4, lowest-rated-2)
+amod(debate-4, vice-presidential-3)
+nsubj(confrontation-9, debate-4)
+prep_on(debate-4, record-6)
+cop(confrontation-9, was-7)
+det(confrontation-9, the-8)
+root(ROOT-0, confrontation-9)
+nn(Gore-14, Vice-11)
+nn(Gore-14, President-12)
+nn(Gore-14, Al-13)
+prep_between(confrontation-9, Gore-14)
+nn(Kemp-17, Jack-16)
+prep_between(confrontation-9, Kemp-17)
+conj_and(Gore-14, Kemp-17)
+prep_on(confrontation-9, Oct-20)
+
+(ROOT
+  (NP
+    (NP (CD 9))
+    (, ,)
+    (NP (CD 1996))
+    (. .)))
+
+root(ROOT-0, 9-1)
+amod(9-1, 1996-3)
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (VP (VBN watched)
+        (PP (IN by)
+          (NP
+            (QP (CD 26.6) (CD million))
+            (NNS people)))))
+    (. .)))
+
+nsubjpass(watched-3, It-1)
+auxpass(watched-3, was-2)
+root(ROOT-0, watched-3)
+number(million-6, 26.6-5)
+num(people-7, million-6)
+agent(watched-3, people-7)
+
+(ROOT
+  (S
+    (NP (DT The) (JJ highest-rated) (JJ vice-presidential) (NN debate))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (NN matchup))
+        (PP (IN between)
+          (NP (NNP Rep)))))
+    (. .)))
+
+det(debate-4, The-1)
+amod(debate-4, highest-rated-2)
+amod(debate-4, vice-presidential-3)
+nsubj(matchup-7, debate-4)
+cop(matchup-7, was-5)
+det(matchup-7, the-6)
+root(ROOT-0, matchup-7)
+prep_between(matchup-7, Rep-9)
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Geraldine) (NNP Ferraro))
+      (CC and)
+      (NP (NNP Vice) (NNP President) (NNP George) (NNP Bush)))
+    (, ,)
+    (PP (IN on)
+      (NP (NNP Oct)))
+    (. .)))
+
+nn(Ferraro-2, Geraldine-1)
+root(ROOT-0, Ferraro-2)
+nn(Bush-7, Vice-4)
+nn(Bush-7, President-5)
+nn(Bush-7, George-6)
+conj_and(Ferraro-2, Bush-7)
+prep_on(Ferraro-2, Oct-10)
+
+(ROOT
+  (NP
+    (NP (CD 11))
+    (, ,)
+    (NP (CD 1984))
+    (. .)))
+
+root(ROOT-0, 11-1)
+amod(11-1, 1984-3)
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (VP (VBN watched)
+        (PP (IN by)
+          (NP
+            (QP (CD 56.7) (CD million))
+            (NNS people)))))
+    (. .)))
+
+nsubjpass(watched-3, It-1)
+auxpass(watched-3, was-2)
+root(ROOT-0, watched-3)
+number(million-6, 56.7-5)
+num(people-7, million-6)
+agent(watched-3, people-7)
+
+(ROOT
+  (S
+    (NP (NNP Nielsen) (NNS executives))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADJP (JJ possible))
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (JJ final) (NN audience))
+                  (PP
+                    (ADVP (RB tally))
+                    (IN for)
+                    (NP
+                      (NP (NNP Thursday) (POS 's))
+                      (NN confrontation))))
+                (VP (MD could)
+                  (VP (VB be)
+                    (ADJP
+                      (ADJP (RB slightly) (JJR larger))
+                      (PP (IN than)
+                        (NP (DT the) (CD one) (JJ released) (NN Friday))))))))))))
+    (. .)))
+
+nn(executives-2, Nielsen-1)
+nsubj(said-3, executives-2)
+root(ROOT-0, said-3)
+nsubj(possible-6, it-4)
+cop(possible-6, was-5)
+ccomp(said-3, possible-6)
+mark(larger-19, that-7)
+det(audience-10, the-8)
+amod(audience-10, final-9)
+nsubj(larger-19, audience-10)
+advmod(audience-10, tally-11)
+poss(confrontation-15, Thursday-13)
+prep_for(audience-10, confrontation-15)
+aux(larger-19, could-16)
+cop(larger-19, be-17)
+advmod(larger-19, slightly-18)
+ccomp(possible-6, larger-19)
+det(Friday-24, the-21)
+num(Friday-24, one-22)
+amod(Friday-24, released-23)
+prep_than(larger-19, Friday-24)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS ratings))
+      (VP (VBG gathering)
+        (NP (NN process))))
+    (VP (VBD was)
+      (VP (VBN complicated)
+        (PP (IN by)
+          (NP
+            (NP (NNP Fox) (POS 's))
+            (NN decision)
+            (S
+              (VP (TO to)
+                (VP (VB show)
+                  (NP
+                    (NP (DT a) (NN baseball) (NN playoff) (NN game) (NN instead))
+                    (PP (IN of)
+                      (NP (DT the) (NN debate)))))))))))
+    (. .)))
+
+det(ratings-2, The-1)
+nsubjpass(complicated-6, ratings-2)
+vmod(ratings-2, gathering-3)
+dobj(gathering-3, process-4)
+auxpass(complicated-6, was-5)
+root(ROOT-0, complicated-6)
+poss(decision-10, Fox-8)
+agent(complicated-6, decision-10)
+aux(show-12, to-11)
+vmod(decision-10, show-12)
+det(instead-17, a-13)
+nn(instead-17, baseball-14)
+nn(instead-17, playoff-15)
+nn(instead-17, game-16)
+dobj(show-12, instead-17)
+det(debate-20, the-19)
+prep_of(instead-17, debate-20)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT Some))
+        (PP (IN of)
+          (NP (PRP$ its) (JJ affiliated) (NNS stations))))
+      (VP (VBD showed)
+        (PP
+          (ADVP
+            (NP (DT the) (NN debate))
+            (RBR later))
+          (IN in)
+          (NP (DT the) (NN evening)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP Nielsen))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (MD would) (RB not)
+              (VP (VB be)
+                (ADJP (JJ able)
+                  (S
+                    (VP (TO to)
+                      (VP (VB count)
+                        (NP
+                          (NP (DT the) (NN number))
+                          (PP (IN of)
+                            (NP
+                              (NP (NNS people))
+                              (SBAR
+                                (WHNP (WP who))
+                                (S
+                                  (VP (VBD watched)
+                                    (NP (DT those) (NNS showings))
+                                    (PP (IN until)
+                                      (NP (JJ early) (JJ next) (NN week)))))))))))))))))))
+    (. .)))
+
+nsubj(showed-6, Some-1)
+poss(stations-5, its-3)
+amod(stations-5, affiliated-4)
+prep_of(Some-1, stations-5)
+root(ROOT-0, showed-6)
+det(debate-8, the-7)
+npadvmod(later-9, debate-8)
+advmod(showed-6, later-9)
+det(evening-12, the-11)
+prep_in(showed-6, evening-12)
+nsubj(said-16, Nielsen-15)
+conj_and(showed-6, said-16)
+nsubj(able-21, it-17)
+xsubj(count-23, it-17)
+aux(able-21, would-18)
+neg(able-21, not-19)
+cop(able-21, be-20)
+ccomp(said-16, able-21)
+aux(count-23, to-22)
+xcomp(able-21, count-23)
+det(number-25, the-24)
+dobj(count-23, number-25)
+prep_of(number-25, people-27)
+nsubj(watched-29, people-27)
+rcmod(people-27, watched-29)
+det(showings-31, those-30)
+dobj(watched-29, showings-31)
+amod(week-35, early-33)
+amod(week-35, next-34)
+prep_until(watched-29, week-35)
+
+(ROOT
+  (S
+    (NP (DT The) (NN difference))
+    (VP (VBD was) (RB not)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (RB very) (JJ significant)))))))
+    (. .)))
+
+det(difference-2, The-1)
+nsubjpass(expected-5, difference-2)
+xsubj(significant-9, difference-2)
+auxpass(expected-5, was-3)
+neg(expected-5, not-4)
+root(ROOT-0, expected-5)
+aux(significant-9, to-6)
+cop(significant-9, be-7)
+advmod(significant-9, very-8)
+xcomp(expected-5, significant-9)
+
+(ROOT
+  (S
+    (NP (NNP Thursday) (POS 's))
+    (VP (VBD estimated)
+      (SBAR
+        (S
+          (NP (NN audience))
+          (VP (VBD included)
+            (NP
+              (NP (NNS viewers))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBD watched)
+                    (PP (IN on)
+                      (NP
+                        (NP (NNP ABC) (, ,) (NNP CBS) (, ,) (NNP NBC) (, ,) (NNP MSNBC) (, ,) (NNP CNN))
+                        (CC and)
+                        (NP (DT the) (NNP Fox) (NNP News) (NNP Channel))))))))))))
+    (. .)))
+
+nsubj(estimated-3, Thursday-1)
+possessive(Thursday-1, 's-2)
+root(ROOT-0, estimated-3)
+nsubj(included-5, audience-4)
+ccomp(estimated-3, included-5)
+dobj(included-5, viewers-6)
+nsubj(watched-8, viewers-6)
+rcmod(viewers-6, watched-8)
+nn(CNN-18, ABC-10)
+appos(CNN-18, CBS-12)
+appos(CNN-18, NBC-14)
+appos(CNN-18, MSNBC-16)
+prep_on(watched-8, CNN-18)
+det(Channel-23, the-20)
+nn(Channel-23, Fox-21)
+nn(Channel-23, News-22)
+prep_on(watched-8, Channel-23)
+conj_and(CNN-18, Channel-23)
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-10-06-00) (CD 2245EDT))))
+
+num(2245EDT-2, NYT-10-06-00-1)
+root(ROOT-0, 2245EDT-2)
+

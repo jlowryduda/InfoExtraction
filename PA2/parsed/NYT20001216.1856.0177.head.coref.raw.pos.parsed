@@ -1,0 +1,1656 @@
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001216.1856.0177) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-12-16) (CD 18:58:00))))
+
+nn(STORY-3, NYT20001216.1856.0177-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(18:58:00-5, 2000-12-16-4)
+dep(STORY-3, 18:58:00-5)
+
+(ROOT
+  (NP
+    (NP (CD A2361) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP
+        (NP (JJ taf-z) (NN u))
+        (PP (IN i)
+          (NP (NNP BC-HAIDER-POPE-1STLD-WRI) (CD 12-16))))
+      (NP (CD 0803)))))
+
+num(&Cx1f-2, A2361-1)
+root(ROOT-0, &Cx1f-2)
+amod(u-5, taf-z-4)
+dep(&Cx1f-2, u-5)
+prep_i(u-5, BC-HAIDER-POPE-1STLD-WRI-7)
+num(BC-HAIDER-POPE-1STLD-WRI-7, 12-16-8)
+dep(u-5, 0803-9)
+
+(ROOT
+  (ADJP (JJ BC-HAIDER-POPE-1STLD-WRITETHRU-TRIM-NYT)))
+
+root(ROOT-0, BC-HAIDER-POPE-1STLD-WRITETHRU-TRIM-NYT-1)
+
+(ROOT
+  (NP (NNP RIGHT-WINGER) (NNP FROM) (NNP AUSTRIA) (NNP MEETS) (NNP POPE) (NNP AND) (NNP FEW) (. CHEER)))
+
+nn(FEW-7, RIGHT-WINGER-1)
+nn(FEW-7, FROM-2)
+nn(FEW-7, AUSTRIA-3)
+nn(FEW-7, MEETS-4)
+nn(FEW-7, POPE-5)
+nn(FEW-7, AND-6)
+root(ROOT-0, FEW-7)
+punct(FEW-7, CHEER-8)
+
+(ROOT
+  (S
+    (S
+      (NP (NNS (SUBS))
+      (VP (TO to)
+        (VP (VB add)
+          (NP
+            (NP (JJ graf) (CD 5))
+            (PP (IN on)
+              (NP (NNS clashes))))
+          (PP (IN w)
+            (NP (NN police))))))
+    (: :)
+    (S
+      (NP (NNP ``After) (NNP Haider))
+      (VP (VBD left)
+        (NP (DT the) (NN area))
+        (PP (IN ...'')))
+          (NP
+            (NP (NNP &QL))
+            (: ;)
+            (NP
+              (NP (NNS &UR))
+              (: ;)
+              (PP (NNP By)
+                (NP (NNP ALESSANDRA) (NNP STANLEY) (NNP &LR))))
+            (: ;)
+            (NP (NNP &QC))
+            (: ;)
+            (NP (NNS &QL))
+            (: ;)
+            (NP (NNS &UR))
+            (: ;)
+            (NP (CD c.2000) (NNP N.Y))))))
+    (. .)))
+
+nsubj(add-3, (SUBS-1)
+aux(add-3, to-2)
+root(ROOT-0, add-3)
+amod(5-5, graf-4)
+dobj(add-3, 5-5)
+prep_on(5-5, clashes-7)
+prep_w(add-3, police-9)
+nn(Haider-12, ``After-11)
+nsubj(left-13, Haider-12)
+parataxis(add-3, left-13)
+det(area-15, the-14)
+dobj(left-13, area-15)
+prep_...''))(left-13, &QL-17)
+dep(&QL-17, &UR-19)
+prep(&UR-19, By-21)
+nn(&LR-24, ALESSANDRA-22)
+nn(&LR-24, STANLEY-23)
+dep(By-21, &LR-24)
+dep(&QL-17, &QC-26)
+dep(&QL-17, &QL-28)
+dep(&QL-17, &UR-30)
+num(N.Y-33, c.2000-32)
+dep(&QL-17, N.Y-33)
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
+    (PRN (: ;)
+      (NP
+        (NP (NNS &LR))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&QC-4, Times-1)
+nn(&QC-4, News-2)
+nn(&QC-4, Service-3)
+root(ROOT-0, &QC-4)
+dep(&QC-4, &LR-6)
+dep(&LR-6, &QL-8)
+
+(ROOT
+  (S
+    (PP
+      (NP (NNP ROME) (NNP _))
+      (IN In)
+      (NP
+        (NP (DT an) (NN encounter))
+        (VP (VBN bracketed)
+          (PP (IN by)
+            (NP
+              (NP (JJ political) (NNS clashes))
+              (CC and)
+              (NP (JJ public) (NN protest)))))))
+    (, ,)
+    (NP (NNP Pope) (NNP John) (NNP Paul) (NNP II))
+    (VP (VB met)
+      (ADVP (RB briefly))
+      (PP (IN on)
+        (NP
+          (NP
+            (ADJP (NN Saturday)
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NN Vatican))
+                  (PP (IN with)
+                    (NP
+                      (NP (NNP Joerg) (NNP Haider))
+                      (, ,)
+                      (NP (DT the) (JJ far-right) (NNP Austrian)))))))
+            (JJ politician))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ is)
+                (ADVP (RB persona))
+                (NP
+                  (NP (JJ non) (NN grata))
+                  (PP (TO to)
+                    (NP (JJ many) (NNS Europeans))))))))))
+    (. .)))
+
+nn(_-2, ROME-1)
+dep(met-18, _-2)
+det(encounter-5, an-4)
+prep_in(met-18, encounter-5)
+vmod(encounter-5, bracketed-6)
+amod(clashes-9, political-8)
+agent(bracketed-6, clashes-9)
+amod(protest-12, public-11)
+agent(bracketed-6, protest-12)
+conj_and(clashes-9, protest-12)
+nn(II-17, Pope-14)
+nn(II-17, John-15)
+nn(II-17, Paul-16)
+nsubj(met-18, II-17)
+root(ROOT-0, met-18)
+advmod(met-18, briefly-19)
+prep_on(met-18, Saturday-21)
+nsubj(grata-38, Saturday-21)
+det(Vatican-24, the-23)
+prep_at(Saturday-21, Vatican-24)
+nn(Haider-27, Joerg-26)
+prep_with(Vatican-24, Haider-27)
+det(Austrian-31, the-29)
+amod(Austrian-31, far-right-30)
+appos(Haider-27, Austrian-31)
+amod(Saturday-21, politician-32)
+cop(grata-38, is-35)
+advmod(grata-38, persona-36)
+amod(grata-38, non-37)
+rcmod(Saturday-21, grata-38)
+amod(Europeans-41, many-40)
+prep_to(grata-38, Europeans-41)
+
+(ROOT
+  (S
+    (NP (NNP Haider))
+    (, ,)
+    (S
+      (VP
+        (VP (VBG leading)
+          (NP
+            (NP (DT a) (NN group))
+            (PP (IN of)
+              (NP (CD 250) (NNPS Austrians)))))
+        (CC and)
+        (VP (VBG presenting)
+          (NP
+            (NP (DT a) (NN gift))
+            (PP (IN of)
+              (NP (DT an) (JJ 80-foot) (NNP Christmas) (NN tree))))
+          (PP (IN from)
+            (NP
+              (NP (NNP Carinthia))
+              (, ,)
+              (NP
+                (NP (DT the) (NN state))
+                (SBAR
+                  (WHPP (IN of)
+                    (WHNP (WDT which)))
+                  (S
+                    (NP (PRP he))
+                    (VP (VBZ is)
+                      (NP (NN governor)))))))))))
+    (, ,)
+    (VP (VBD did) (RB not)
+      (VP (VB receive)
+        (NP (DT a) (JJ private) (NN audience))
+        (PP (IN with)
+          (NP (DT the) (NN pope)))))
+    (. .)))
+
+nsubj(receive-31, Haider-1)
+vmod(receive-31, leading-3)
+det(group-5, a-4)
+dobj(leading-3, group-5)
+num(Austrians-8, 250-7)
+prep_of(group-5, Austrians-8)
+conj_and(leading-3, presenting-10)
+vmod(receive-31, presenting-10)
+det(gift-12, a-11)
+dobj(presenting-10, gift-12)
+det(tree-17, an-14)
+amod(tree-17, 80-foot-15)
+nn(tree-17, Christmas-16)
+prep_of(gift-12, tree-17)
+prep_from(presenting-10, Carinthia-19)
+det(state-22, the-21)
+appos(Carinthia-19, state-22)
+prep_of(governor-27, state-22)
+nsubj(governor-27, he-25)
+cop(governor-27, is-26)
+rcmod(state-22, governor-27)
+aux(receive-31, did-29)
+neg(receive-31, not-30)
+root(ROOT-0, receive-31)
+det(audience-34, a-32)
+amod(audience-34, private-33)
+dobj(receive-31, audience-34)
+det(pope-37, the-36)
+prep_with(receive-31, pope-37)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Vatican) (NN spokesman))
+      (, ,)
+      (NP (NNP Joaquin) (NNP Navarro-Valls))
+      (, ,))
+    (VP (VBD explained)
+      (PP (IN that)
+        (NP
+          (NP (NNP Haider))
+          (CC and)
+          (NP
+            (NP (NNP Bishop) (NNP Egon) (NNP Kapellari))
+            (PP (IN of)
+              (NP (NNP Carinthia) (NNS spoke))))))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN pope))
+          (PP (IN for)
+            (NP (DT a) (JJ few) (NNS minutes)))))
+      (PP (IN before)
+        (NP
+          (NP (DT the) (NN meeting))
+          (ADVP (RB only)
+            (PP (TO to)
+              (NP (NN exchange) (NNS greetings)))))))
+    (. .)))
+
+det(spokesman-3, The-1)
+nn(spokesman-3, Vatican-2)
+nsubj(explained-8, spokesman-3)
+nn(Navarro-Valls-6, Joaquin-5)
+appos(spokesman-3, Navarro-Valls-6)
+root(ROOT-0, explained-8)
+prep_that(explained-8, Haider-10)
+nn(Kapellari-14, Bishop-12)
+nn(Kapellari-14, Egon-13)
+prep_that(explained-8, Kapellari-14)
+conj_and(Haider-10, Kapellari-14)
+nn(spoke-17, Carinthia-16)
+prep_of(Kapellari-14, spoke-17)
+det(pope-20, the-19)
+prep_with(explained-8, pope-20)
+det(minutes-24, a-22)
+amod(minutes-24, few-23)
+prep_for(pope-20, minutes-24)
+det(meeting-27, the-26)
+prep_before(explained-8, meeting-27)
+advmod(meeting-27, only-28)
+nn(greetings-31, exchange-30)
+prep_to(only-28, greetings-31)
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (NNP Haider))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ seems)
+            (S
+              (VP (TO to)
+                (VP (VB relish)
+                  (NP (RB even) (JJ hostile) (NN attention))))))))
+      (, ,))
+    (VP (VBD walked)
+      (NP
+        (NP (JJ across) (NNP St.) (NNP Peter's) (NN Square))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN Vatican))
+            (PP (IN from)
+              (NP (PRP$ his) (JJ nearby) (NN hotel))))))
+      (PP
+        (ADVP (RB separately))
+        (IN from)
+        (NP
+          (NP (DT the) (NN rest))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN delegation))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD included)
+                    (NP
+                      (NP (PRP$ his) (NN wife))
+                      (CC and)
+                      (NP (CD two) (NNS children)))))))))))
+    (. .)))
+
+cc(walked-12, But-1)
+nsubj(seems-5, Haider-2)
+xsubj(relish-7, Haider-2)
+nsubj(walked-12, Haider-2)
+rcmod(Haider-2, seems-5)
+aux(relish-7, to-6)
+xcomp(seems-5, relish-7)
+advmod(attention-10, even-8)
+amod(attention-10, hostile-9)
+dobj(relish-7, attention-10)
+root(ROOT-0, walked-12)
+amod(Square-16, across-13)
+nn(Square-16, St.-14)
+nn(Square-16, Peter's-15)
+dobj(walked-12, Square-16)
+det(Vatican-19, the-18)
+prep_to(Square-16, Vatican-19)
+poss(hotel-23, his-21)
+amod(hotel-23, nearby-22)
+prep_from(Vatican-19, hotel-23)
+advmod(walked-12, separately-24)
+det(rest-27, the-26)
+prep_from(walked-12, rest-27)
+det(delegation-30, the-29)
+prep_of(rest-27, delegation-30)
+nsubj(included-33, delegation-30)
+rcmod(delegation-30, included-33)
+poss(wife-35, his-34)
+dobj(included-33, wife-35)
+num(children-38, two-37)
+dobj(included-33, children-38)
+conj_and(wife-35, children-38)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD was)
+      (VP (VBN surrounded)
+        (PP (IN by)
+          (NP
+            (NP (DT a) (NN tense) (NN phalanx))
+            (PP (IN of)
+              (NP
+                (NP (NN security) (NNS officers))
+                (CC and)
+                (NP (VBG jostling) (NN cameramen))))))))
+    (. .)))
+
+nsubjpass(surrounded-3, He-1)
+auxpass(surrounded-3, was-2)
+root(ROOT-0, surrounded-3)
+det(phalanx-7, a-5)
+nn(phalanx-7, tense-6)
+agent(surrounded-3, phalanx-7)
+nn(officers-10, security-9)
+prep_of(phalanx-7, officers-10)
+amod(cameramen-13, jostling-12)
+prep_of(phalanx-7, cameramen-13)
+conj_and(officers-10, cameramen-13)
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NNS weeks)))
+    (NP
+      (NP (JJ Italian) (JJ Jewish) (NNS groups))
+      (, ,)
+      (NP (NNP World) (NNP War) (NNP II) (NNPS veterans))
+      (CC and)
+      (NP (JJ leftist) (JJ political) (NNS parties)))
+    (VP (VBP have)
+      (VP (VBN staged)
+        (NP
+          (NP (NNS protests))
+          (PP (IN against)
+            (NP
+              (NP (DT a) (NN meeting))
+              (PP (IN between)
+                (NP
+                  (NP (DT the) (NN pope))
+                  (CC and)
+                  (NP (NNP Haider)))))))
+        (, ,)
+        (S
+          (VP (VBG arguing)
+            (SBAR (IN that)
+              (S
+                (NP (DT a) (JJ papal) (NN encounter))
+                (VP (MD would)
+                  (VP (VB lend)
+                    (NP (DT the) (NNP Austrian) (JJ politician) (NN legitimacy))))))))))
+    (. .)))
+
+prep_for(staged-16, weeks-2)
+amod(groups-5, Italian-3)
+amod(groups-5, Jewish-4)
+nsubj(staged-16, groups-5)
+nn(veterans-10, World-7)
+nn(veterans-10, War-8)
+nn(veterans-10, II-9)
+conj_and(groups-5, veterans-10)
+nsubj(staged-16, veterans-10)
+amod(parties-14, leftist-12)
+amod(parties-14, political-13)
+conj_and(groups-5, parties-14)
+nsubj(staged-16, parties-14)
+aux(staged-16, have-15)
+root(ROOT-0, staged-16)
+dobj(staged-16, protests-17)
+det(meeting-20, a-19)
+prep_against(protests-17, meeting-20)
+det(pope-23, the-22)
+prep_between(meeting-20, pope-23)
+prep_between(meeting-20, Haider-25)
+conj_and(pope-23, Haider-25)
+vmod(staged-16, arguing-27)
+mark(lend-33, that-28)
+det(encounter-31, a-29)
+amod(encounter-31, papal-30)
+nsubj(lend-33, encounter-31)
+aux(lend-33, would-32)
+ccomp(arguing-27, lend-33)
+det(legitimacy-37, the-34)
+nn(legitimacy-37, Austrian-35)
+amod(legitimacy-37, politician-36)
+dobj(lend-33, legitimacy-37)
+
+(ROOT
+  (S
+    (PP (IN On)
+      (S
+        (NP (NNP Saturday))
+        (, ,)
+        (PP (IN about)
+          (NP
+            (NP (CD 1,000) (NNS students))
+            (VP (VBN marched)
+              (PP (IN in)
+                (NP
+                  (NP (DT another) (NN section))
+                  (PP (IN of)
+                    (NP (JJ central) (NNP Rome))))))))
+        (, ,)
+        (VP (VBG carrying)
+          (NP (NNS banners)))))
+    (NP (WDT that))
+    (VP (VB read)
+      (NP (NN ``Haider)))
+    (. ?)))
+
+nsubj(carrying-15, Saturday-2)
+num(students-6, 1,000-5)
+prep_about(carrying-15, students-6)
+vmod(students-6, marched-7)
+det(section-10, another-9)
+prep_in(marched-7, section-10)
+amod(Rome-13, central-12)
+prep_of(section-10, Rome-13)
+prepc_on(read-18, carrying-15)
+dobj(carrying-15, banners-16)
+nsubj(read-18, that-17)
+root(ROOT-0, read-18)
+dobj(read-18, ``Haider-19)
+
+(ROOT
+  (NP
+    (NP (DT No) (NN thank))
+    (NP (PRP you))
+    (. .'')))
+
+neg(thank-2, No-1)
+root(ROOT-0, thank-2)
+dep(thank-2, you-3)
+punct(thank-2, .''-4)
+
+(ROOT
+  (S
+    (S
+      (NP (DT No) (NNS demonstrations))
+      (VP (VBD were)
+        (VP (VBN allowed)
+          (PP (IN near)
+            (NP (NNP St.) (NNP Peter's))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (NN security))
+        (PP (IN around)
+          (NP (DT the) (NN tree)))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (VP (VBN erected)
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN middle))
+                    (PP (IN of)
+                      (NP (NNP St.) (NNP Peter's) (NNP Square)))))))))
+        (, ,))
+      (VP (VBD was)
+        (ADJP (RB discreetly) (VBN tightened))))
+    (. .)))
+
+neg(demonstrations-2, No-1)
+nsubjpass(allowed-4, demonstrations-2)
+auxpass(allowed-4, were-3)
+root(ROOT-0, allowed-4)
+nn(Peter's-7, St.-6)
+prep_near(allowed-4, Peter's-7)
+nsubjpass(erected-17, security-10)
+nsubjpass(tightened-28, security-10)
+det(tree-13, the-12)
+prep_around(security-10, tree-13)
+auxpass(erected-17, was-16)
+rcmod(security-10, erected-17)
+det(middle-20, the-19)
+prep_in(erected-17, middle-20)
+nn(Square-24, St.-22)
+nn(Square-24, Peter's-23)
+prep_of(middle-20, Square-24)
+auxpass(tightened-28, was-26)
+advmod(tightened-28, discreetly-27)
+conj_and(allowed-4, tightened-28)
+
+(ROOT
+  (S
+    (SBAR (IN After)
+      (S
+        (NP (NNP Haider))
+        (VP (VBD left)
+          (NP (DT the) (NN area))))
+      (, ,))
+    (VP (VBZ scores)
+      (PP (IN of)
+        (NP
+          (NP (NNS protesters))
+          (VP (VBN clashed)
+            (PP (IN with)
+              (NP
+                (NP (NN riot) (NNS police))
+                (, ,)
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBD fired)
+                      (NP (JJ tear) (NNS gas))
+                      (S
+                        (VP (TO to)
+                          (VP (VB disperse)
+                            (NP (DT the) (NNS crowds))))))))))))))
+    (. .)))
+
+mark(left-3, After-1)
+nsubj(left-3, Haider-2)
+csubj(scores-7, left-3)
+det(area-5, the-4)
+dobj(left-3, area-5)
+root(ROOT-0, scores-7)
+prep_of(scores-7, protesters-9)
+vmod(protesters-9, clashed-10)
+nn(police-13, riot-12)
+prep_with(clashed-10, police-13)
+nsubj(fired-16, police-13)
+rcmod(police-13, fired-16)
+amod(gas-18, tear-17)
+dobj(fired-16, gas-18)
+aux(disperse-20, to-19)
+vmod(fired-16, disperse-20)
+det(crowds-22, the-21)
+dobj(disperse-20, crowds-22)
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (NNP Four) (NNS people))
+        (VP (VBD were)
+          (ADJP (RB slightly) (JJ injured))))
+      (CC and)
+      (S
+        (NP (CD two))
+        (VP (VBD were)
+          (VP (VBN detained)))))
+    (, ,)
+    (NP (DT the) (JJ Italian) (NN news) (NN agency) (NNP ANSA))
+    (VP (VBD said))
+    (. .)))
+
+nn(people-2, Four-1)
+nsubj(injured-5, people-2)
+cop(injured-5, were-3)
+advmod(injured-5, slightly-4)
+ccomp(said-16, injured-5)
+nsubjpass(detained-9, two-7)
+auxpass(detained-9, were-8)
+conj_and(injured-5, detained-9)
+ccomp(said-16, detained-9)
+det(ANSA-15, the-11)
+amod(ANSA-15, Italian-12)
+nn(ANSA-15, news-13)
+nn(ANSA-15, agency-14)
+nsubj(said-16, ANSA-15)
+root(ROOT-0, said-16)
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Jewish) (NNS merchants))
+      (PP (IN in)
+        (NP (NNP Rome))))
+    (VP (VBD announced)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (MD would)
+            (VP (VB turn)
+              (PRT (RP off))
+              (NP (PRP$ their) (NNS lights))
+              (S
+                (VP (TO to)
+                  (VP (VB protest)
+                    (NP
+                      (NP
+                        (NP (NNP Haider) (POS 's))
+                        (NN presence))
+                      (PP (IN in)
+                        (NP (NNP Rome))))))))))))
+    (. .)))
+
+amod(merchants-2, Jewish-1)
+nsubj(announced-5, merchants-2)
+prep_in(merchants-2, Rome-4)
+root(ROOT-0, announced-5)
+nsubj(turn-8, they-6)
+aux(turn-8, would-7)
+ccomp(announced-5, turn-8)
+prt(turn-8, off-9)
+poss(lights-11, their-10)
+dobj(turn-8, lights-11)
+aux(protest-13, to-12)
+vmod(turn-8, protest-13)
+poss(presence-16, Haider-14)
+dobj(protest-13, presence-16)
+prep_in(presence-16, Rome-18)
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (NNS reporters))
+        (VP (VBN asked)
+          (NP
+            (NP (NNP Haider))
+            (PP (IN about)
+              (NP (DT this) (NN action)))))))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VP (VBD retorted))
+      (PRN (, ,)
+        (SBAR (IN ``If)
+          (S
+            (NP (PRP they))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB save)
+                    (NP (NN electricity))))))))
+        (, ,))
+      (VP (VB let)
+        (NP (PRP them))))
+    (. .'')))
+
+advmod(asked-3, When-1)
+nsubj(asked-3, reporters-2)
+advcl(retorted-10, asked-3)
+dobj(asked-3, Haider-4)
+det(action-7, this-6)
+prep_about(Haider-4, action-7)
+nsubj(retorted-10, he-9)
+root(ROOT-0, retorted-10)
+mark(want-14, ``If-12)
+nsubj(want-14, they-13)
+xsubj(save-16, they-13)
+parataxis(retorted-10, want-14)
+parataxis(let-19, want-14)
+aux(save-16, to-15)
+xcomp(want-14, save-16)
+dobj(save-16, electricity-17)
+dep(retorted-10, let-19)
+dobj(let-19, them-20)
+punct(retorted-10, .''-21)
+
+(ROOT
+  (S
+    (PP (IN Inside)
+      (NP
+        (NP (DT an) (JJ ornate) (NN reception) (NN room))
+        (PP (IN in)
+          (NP (DT the) (JJ papal) (NNS apartments)))))
+    (, ,)
+    (NP
+      (NP (NNP Haider))
+      (, ,)
+      (NP (DT a) (NNP Roman) (NNP Catholic))
+      (, ,))
+    (VP (VBD kissed)
+      (NP
+        (NP
+          (NP (DT the) (NN pope) (POS 's))
+          (NN ring)
+          (CC and)
+          (NN sat))
+        (PP (IN in)
+          (NP (DT the) (JJ front) (NN row))))
+      (PP (IN with)
+        (NP
+          (NP (JJ other) (NNS dignitaries))
+          (VP (VBG facing)
+            (NP
+              (NP (DT the) (NN pope) (POS 's))
+              (NN armchair))))))
+    (. .)))
+
+det(room-5, an-2)
+amod(room-5, ornate-3)
+nn(room-5, reception-4)
+prep_inside(kissed-17, room-5)
+det(apartments-9, the-7)
+amod(apartments-9, papal-8)
+prep_in(room-5, apartments-9)
+nsubj(kissed-17, Haider-11)
+det(Catholic-15, a-13)
+nn(Catholic-15, Roman-14)
+appos(Haider-11, Catholic-15)
+root(ROOT-0, kissed-17)
+det(pope-19, the-18)
+poss(ring-21, pope-19)
+dobj(kissed-17, ring-21)
+dobj(kissed-17, sat-23)
+conj_and(ring-21, sat-23)
+det(row-27, the-25)
+amod(row-27, front-26)
+prep_in(ring-21, row-27)
+amod(dignitaries-30, other-29)
+prep_with(kissed-17, dignitaries-30)
+vmod(dignitaries-30, facing-31)
+det(pope-33, the-32)
+poss(armchair-35, pope-33)
+dobj(facing-31, armchair-35)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Haider))
+      (VP (VBZ wore)
+        (NP (DT a) (JJ blue) (NN business) (NN suit))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (ADJP (JJ many)
+          (PP (IN in)
+            (NP (PRP$ his) (NN group) (NN wore) (JJ traditional) (NNS costumes)))))
+      (CC and)
+      (S
+        (VP (VBG sang)
+          (NP (NNP Christmas) (NNS carols)))))
+    (. .)))
+
+nsubj(wore-2, Haider-1)
+nsubj(many-9, Haider-1)
+root(ROOT-0, wore-2)
+det(suit-6, a-3)
+amod(suit-6, blue-4)
+nn(suit-6, business-5)
+dobj(wore-2, suit-6)
+conj_but(wore-2, many-9)
+poss(costumes-15, his-11)
+nn(costumes-15, group-12)
+nn(costumes-15, wore-13)
+amod(costumes-15, traditional-14)
+prep_in(many-9, costumes-15)
+conj_but(wore-2, sang-17)
+conj_and(many-9, sang-17)
+nn(carols-19, Christmas-18)
+dobj(sang-17, carols-19)
+
+(ROOT
+  (S
+    (NP (DT The) (NN pope))
+    (VP
+      (VP (VBD thanked)
+        (NP (DT the) (NNS visitors))
+        (PP (IN for)
+          (NP (DT the) (NN tree))))
+      (CC but)
+      (VP (VBD made)
+        (NP
+          (NP (DT no) (NN mention))
+          (PP (IN of)
+            (NP (JJ such) (NNS issues))))
+        (PP (IN as)
+          (NP
+            (NP (NN racism)
+              (CC and)
+              (NN immigration))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBP have)
+                  (VP (VBN tracked)
+                    (NP
+                      (NP (NNP Haider) (POS 's))
+                      (NN tense) (NN visit))
+                    (PP (TO to)
+                      (NP (NNP Italy)))))))))))
+    (. .)))
+
+det(pope-2, The-1)
+nsubj(thanked-3, pope-2)
+nsubj(made-10, pope-2)
+root(ROOT-0, thanked-3)
+det(visitors-5, the-4)
+dobj(thanked-3, visitors-5)
+det(tree-8, the-7)
+prep_for(thanked-3, tree-8)
+conj_but(thanked-3, made-10)
+neg(mention-12, no-11)
+dobj(made-10, mention-12)
+amod(issues-15, such-14)
+prep_of(mention-12, issues-15)
+prep_as(made-10, racism-17)
+nsubj(tracked-23, racism-17)
+prep_as(made-10, immigration-19)
+conj_and(racism-17, immigration-19)
+nsubj(tracked-23, immigration-19)
+aux(tracked-23, have-22)
+rcmod(racism-17, tracked-23)
+poss(visit-27, Haider-24)
+nn(visit-27, tense-26)
+dobj(tracked-23, visit-27)
+prep_to(tracked-23, Italy-29)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT A) (NN copy))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN pope) (POS 's))
+            (ADJP (RB recently) (JJ released))
+            (NP (NNP New) (NNP Year) (POS 's))
+            (NNP Day) (NN message)))
+        (PP (IN of)
+          (NP (NN peace))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ calls)
+            (PP (IN for)
+              (NP (NNS countries)))
+            (PP (TO to)
+              (NP
+                (NP (JJ welcome) (NNS immigrants))
+                (CC and)
+                (NP (JJ avoid) (NN intolerance)))))))
+      (, ,))
+    (VP (VBD was)
+      (VP (VBN distributed)
+        (PP (TO to)
+          (NP
+            (NP (NNS leaders))
+            (PP (IN of)
+              (NP (DT the) (NN delegation)))))))
+    (. .)))
+
+det(copy-2, A-1)
+nsubj(calls-18, copy-2)
+nsubjpass(distributed-29, copy-2)
+det(pope-5, the-4)
+poss(message-13, pope-5)
+advmod(released-8, recently-7)
+amod(message-13, released-8)
+nn(Year-10, New-9)
+poss(message-13, Year-10)
+nn(message-13, Day-12)
+prep_of(copy-2, message-13)
+prep_of(copy-2, peace-15)
+rcmod(copy-2, calls-18)
+prep_for(calls-18, countries-20)
+amod(immigrants-23, welcome-22)
+prep_to(calls-18, immigrants-23)
+amod(intolerance-26, avoid-25)
+prep_to(calls-18, intolerance-26)
+conj_and(immigrants-23, intolerance-26)
+auxpass(distributed-29, was-28)
+root(ROOT-0, distributed-29)
+prep_to(distributed-29, leaders-31)
+det(delegation-34, the-33)
+prep_of(leaders-31, delegation-34)
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (DT the) (NN meeting)))
+    (, ,)
+    (NP (NNP Haider))
+    (VP (VBD told)
+      (NP (NNS reporters))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (VBD had)
+            (NP
+              (ADJP (RB not) (JJ discussed))
+              (JJ political) (NNS issues))
+            (PP (IN with)
+              (NP (DT the) (NN pope)))
+            (, ,)
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (S
+                  (NP (NNP John) (NNP Paul) (NNP II))
+                  (VP (VBD had)
+                    (VP (VBN given)
+                      (NP (DT the) (NN group))
+                      (NP (DT a) (NN ``warm) (NN welcome)))))
+                ('' '')
+                (CC and)
+                (S
+                  (NP (DT that) (NNP ``he))
+                  (VP (VBD seemed)
+                    (ADJP (RB very) (JJ happy))
+                    (PP (IN with)
+                      (NP (DT the) (NN gift)))))))))))
+    (. .'')))
+
+det(meeting-3, the-2)
+prep_after(told-6, meeting-3)
+nsubj(told-6, Haider-5)
+root(ROOT-0, told-6)
+dobj(told-6, reporters-7)
+mark(had-10, that-8)
+nsubj(had-10, he-9)
+ccomp(told-6, had-10)
+neg(discussed-12, not-11)
+amod(issues-14, discussed-12)
+amod(issues-14, political-13)
+dobj(had-10, issues-14)
+det(pope-17, the-16)
+prep_with(had-10, pope-17)
+dep(given-24, that-19)
+nn(II-22, John-20)
+nn(II-22, Paul-21)
+nsubj(given-24, II-22)
+aux(given-24, had-23)
+dep(had-10, given-24)
+det(group-26, the-25)
+iobj(given-24, group-26)
+det(welcome-29, a-27)
+nn(welcome-29, ``warm-28)
+dobj(given-24, welcome-29)
+det(``he-33, that-32)
+nsubj(happy-36, ``he-33)
+cop(happy-36, seemed-34)
+advmod(happy-36, very-35)
+dep(had-10, happy-36)
+conj_and(given-24, happy-36)
+det(gift-39, the-38)
+prep_with(happy-36, gift-39)
+punct(told-6, .''-40)
+
+(ROOT
+  (S
+    (NP (NNP Indeed))
+    (, ,)
+    (PP (IN in)
+      (NP (DT the) (JJ past)))
+    (NP (DT the) (NN pope))
+    (VP (VBZ has)
+      (VP (VBN stirred)
+        (ADJP (JJ controversy)
+          (PP (IN by)
+            (NP (NN meeting))))
+        (PP (IN with)
+          (NP (JJ former) (NNP U.N)))))
+    (. .)))
+
+nsubj(stirred-9, Indeed-1)
+det(past-5, the-4)
+prep_in(stirred-9, past-5)
+det(pope-7, the-6)
+nsubj(stirred-9, pope-7)
+aux(stirred-9, has-8)
+root(ROOT-0, stirred-9)
+acomp(stirred-9, controversy-10)
+prep_by(controversy-10, meeting-12)
+amod(U.N-15, former-14)
+prep_with(stirred-9, U.N-15)
+
+(ROOT
+  (S
+    (VP (JJ secretary)
+      (NP
+        (NP
+          (NP (JJ -general) (NNP Kurt) (NNP Waldheim))
+          (, ,)
+          (SBAR
+            (WHNP (WP$ whose) (NNS activities))
+            (S
+              (PP (IN in)
+                (NP (DT the) (NNP Nazi) (NN era)))
+              (VP (VBD came)
+                (PP (IN under)
+                  (NP (NN question)))))))
+        (, ,)
+        (CC and)
+        (NP (NNP Fidel) (NNP Castro))))
+    (. .)))
+
+root(ROOT-0, secretary-1)
+amod(Waldheim-4, -general-2)
+nn(Waldheim-4, Kurt-3)
+dobj(secretary-1, Waldheim-4)
+poss(activities-7, Waldheim-4)
+nsubj(came-12, activities-7)
+det(era-11, the-9)
+nn(era-11, Nazi-10)
+prep_in(came-12, era-11)
+rcmod(Waldheim-4, came-12)
+prep_under(came-12, question-14)
+nn(Castro-18, Fidel-17)
+dobj(secretary-1, Castro-18)
+conj_and(Waldheim-4, Castro-18)
+poss(activities-7, Castro-18)
+
+(ROOT
+  (NP (NNP (BEGIN) (NNP OPTIONAL) (NNP TRIM) (. ))))
+
+nn(TRIM-3, (BEGIN-1)
+nn(TRIM-3, OPTIONAL-2)
+root(ROOT-0, TRIM-3)
+punct(TRIM-3, )-4)
+
+(ROOT
+  (FRAG
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (NNP Haider))
+        (VP
+          (VP (VBN arrived)
+            (PP (IN in)
+              (NP (NNP Venice)))
+            (NP (RBR earlier) (DT this) (NN week)))
+          (, ,)
+          (NP
+            (NP (NNS protesters))
+            (PP (IN on)
+              (NP
+                (NP (NNS boats))
+                (PP (IN threw)
+                  (NP
+                    (NP (NNS stones)
+                      (CC and)
+                      (NNS fireworks))
+                    (PP (IN along)
+                      (NP (DT the) (NNS canals)))))))))))
+    (. .)))
+
+advmod(arrived-3, When-1)
+nsubj(arrived-3, Haider-2)
+root(ROOT-0, arrived-3)
+prep_in(arrived-3, Venice-5)
+advmod(week-8, earlier-6)
+det(week-8, this-7)
+tmod(arrived-3, week-8)
+dobj(arrived-3, protesters-10)
+prep_on(protesters-10, boats-12)
+prep_threw(boats-12, stones-14)
+prep_threw(boats-12, fireworks-16)
+conj_and(stones-14, fireworks-16)
+det(canals-19, the-18)
+prep_along(stones-14, canals-19)
+
+(ROOT
+  (NP
+    (NP
+      (NP
+        (NP (NNP Haider) (POS 's))
+        (NNS comments))
+      (VP (VBG criticizing)
+        (NP
+          (NP (NNP Italy) (POS 's))
+          (NN immigration) (NN policy))))
+    (PP (IN as)
+      (NP (`` ``too)
+        (NP (JJ generous))
+        ('' '')
+        (SBAR
+          (S
+            (VP (VBD were)
+              (VP (VBN denounced)
+                (PP (IN by)
+                  (NP (NNP President) (NNP Carlo) (NNP Azeglio) (NNP Ciampi)))))))))
+    (. .)))
+
+poss(comments-3, Haider-1)
+root(ROOT-0, comments-3)
+vmod(comments-3, criticizing-4)
+poss(policy-8, Italy-5)
+nn(policy-8, immigration-7)
+dobj(criticizing-4, policy-8)
+punct(generous-11, ``too-10)
+prep_as(comments-3, generous-11)
+auxpass(denounced-14, were-13)
+rcmod(generous-11, denounced-14)
+nn(Ciampi-19, President-16)
+nn(Ciampi-19, Carlo-17)
+nn(Ciampi-19, Azeglio-18)
+agent(denounced-14, Ciampi-19)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS comments))
+      (VP (VBN set)
+        (PRT (RP off))
+        (NP (DT an) (NN election) (NN campaign) (NN storm))
+        (, ,)
+        (PP (IN as)
+          (NP
+            (NP (NNS leaders))
+            (PP (IN of)
+              (NP
+                (NP (NNP Italy) (POS 's))
+                (JJ left-wing) (NN government)))))))
+    (VP (VBD leveraged)
+      (NP
+        (NP (DT the) (NN dislike))
+        (PP (IN of)
+          (NP (NNP Haider))))
+      (S
+        (VP (TO to)
+          (VP (VB cast)
+            (NP
+              (NP (DT a) (NN shadow))
+              (PP (IN on)
+                (NP
+                  (NP (NNP Italy) (POS 's))
+                  (JJ own) (VBG right-wing) (NNS parties))))))))
+    (. .)))
+
+det(comments-2, The-1)
+nsubj(leveraged-17, comments-2)
+vmod(comments-2, set-3)
+prt(set-3, off-4)
+det(storm-8, an-5)
+nn(storm-8, election-6)
+nn(storm-8, campaign-7)
+dobj(set-3, storm-8)
+prep_as(set-3, leaders-11)
+poss(government-16, Italy-13)
+amod(government-16, left-wing-15)
+prep_of(leaders-11, government-16)
+root(ROOT-0, leveraged-17)
+det(dislike-19, the-18)
+dobj(leveraged-17, dislike-19)
+prep_of(dislike-19, Haider-21)
+aux(cast-23, to-22)
+vmod(leveraged-17, cast-23)
+det(shadow-25, a-24)
+dobj(cast-23, shadow-25)
+poss(parties-31, Italy-27)
+amod(parties-31, own-29)
+amod(parties-31, right-wing-30)
+prep_on(shadow-25, parties-31)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN coalition))
+      (PP (IN of)
+        (NP
+          (NP (NNP Italy) (POS 's))
+          (JJ center-right) (NN opposition))))
+    (VP (VBZ includes)
+      (NP
+        (NP
+          (NP (DT the) (JJ formerly) (NN separatist))
+          (CC and)
+          (NP (RB still)
+            (ADJP (RB fiercely) (VBG right-wing))
+            (NN party)))
+        (, ,)
+        (NP
+          (NP (DT the) (NNP Northern) (NNP League))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S (, ,)
+              (PP (IN like)
+                (NP
+                  (NP (NNP Haider) (POS 's))
+                  (NNP Freedom) (NNP Party)))
+              (, ,)
+              (VP (VBZ opposes)
+                (NP (NN immigration))))))))
+    (. .)))
+
+det(coalition-2, The-1)
+nsubj(includes-8, coalition-2)
+poss(opposition-7, Italy-4)
+amod(opposition-7, center-right-6)
+prep_of(coalition-2, opposition-7)
+root(ROOT-0, includes-8)
+det(separatist-11, the-9)
+amod(separatist-11, formerly-10)
+dobj(includes-8, separatist-11)
+advmod(party-16, still-13)
+advmod(right-wing-15, fiercely-14)
+amod(party-16, right-wing-15)
+dobj(includes-8, party-16)
+conj_and(separatist-11, party-16)
+det(League-20, the-18)
+nn(League-20, Northern-19)
+appos(separatist-11, League-20)
+nsubj(opposes-30, League-20)
+poss(Party-28, Haider-25)
+nn(Party-28, Freedom-27)
+prep_like(opposes-30, Party-28)
+rcmod(League-20, opposes-30)
+dobj(opposes-30, immigration-31)
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (NNP Friday)))
+    (, ,)
+    (NP (NNP Prime) (NNP Minister) (NNP Giuliano) (NNP Amato))
+    (VP
+      (VP (VBD denounced)
+        (NP
+          (NP (NNP Haider) (POS 's))
+          (NNS comments))
+        (PP (IN as)
+          (ADJP (JJ ``unacceptable))))
+      ('' '')
+      (CC and)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (MD would)
+              (VP (VB complain)
+                (PP (TO to)
+                  (NP
+                    (NP (NNP Chancellor) (NNP Wolfgang) (NNP Schuessel))
+                    (PP (IN of)
+                      (NP (NNP Austria)))))))))))
+    (. .)))
+
+prep_on(denounced-8, Friday-2)
+nn(Amato-7, Prime-4)
+nn(Amato-7, Minister-5)
+nn(Amato-7, Giuliano-6)
+nsubj(denounced-8, Amato-7)
+nsubj(said-16, Amato-7)
+root(ROOT-0, denounced-8)
+poss(comments-11, Haider-9)
+dobj(denounced-8, comments-11)
+prep_as(denounced-8, ``unacceptable-13)
+conj_and(denounced-8, said-16)
+nsubj(complain-19, he-17)
+aux(complain-19, would-18)
+ccomp(said-16, complain-19)
+nn(Schuessel-23, Chancellor-21)
+nn(Schuessel-23, Wolfgang-22)
+prep_to(complain-19, Schuessel-23)
+prep_of(Schuessel-23, Austria-25)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Italy))
+      (VP (VBZ is) (RB not)
+        (NP (DT the) (JJ only) (JJ European) (NN country)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (ADVP (RB fierce))
+                (NP
+                  (NP (NNS reservations))
+                  (PP (IN about)
+                    (NP (NNP Haider))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ has)
+        (VP (VBN had)
+          (NP
+            (ADJP (RBR more) (JJ direct))
+            (NN exposure)))))
+    (. .)))
+
+nsubj(country-7, Italy-1)
+cop(country-7, is-2)
+neg(country-7, not-3)
+det(country-7, the-4)
+amod(country-7, only-5)
+amod(country-7, European-6)
+root(ROOT-0, country-7)
+aux(have-9, to-8)
+vmod(country-7, have-9)
+advmod(have-9, fierce-10)
+dobj(have-9, reservations-11)
+prep_about(reservations-11, Haider-13)
+nsubj(had-18, it-16)
+aux(had-18, has-17)
+conj_but(country-7, had-18)
+advmod(direct-20, more-19)
+amod(exposure-21, direct-20)
+dobj(had-18, exposure-21)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Austrian) (NN leader))
+    (VP (VBZ has)
+      (VP (VBN made)
+        (NP (JJ several) (NNS visits))
+        (PP (TO to)
+          (NP (JJ northern) (NNP Italy)))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP
+              (NP (PRP$ his) (NN friendship))
+              (PP (IN with)
+                (NP (DT some) (JJ right-wing)
+                  (NX
+                    (NX (NNS mayors) (, _))
+                    (CC and)
+                    (NX
+                      (NP (NNS suggestions))
+                      (SBAR (IN that)
+                        (S
+                          (NP
+                            (NP (JJ southern) (NNP Austria))
+                            (CC and)
+                            (NP
+                              (NP (NNS parts))
+                              (PP (IN of)
+                                (NP (JJ northern) (NNP Italy)))))
+                          (VP (MD should)
+                            (VP (VB merge)
+                              (PP (IN into)
+                                (NP (DT a) (NN ``maxi-region) ('' ''))))))))
+                    (PP (IN _))))))
+            (VP (VBP have)
+              (VP (VBN enraged)
+                (NP
+                  (NP (NNP Italy) (POS 's))
+                  (JJ center-left) (NN government))))))))
+    (. .)))
+
+det(leader-3, The-1)
+nn(leader-3, Austrian-2)
+nsubj(made-5, leader-3)
+aux(made-5, has-4)
+root(ROOT-0, made-5)
+amod(visits-7, several-6)
+dobj(made-5, visits-7)
+amod(Italy-10, northern-9)
+prep_to(made-5, Italy-10)
+advmod(enraged-38, where-12)
+poss(friendship-14, his-13)
+nsubj(enraged-38, friendship-14)
+det(mayors-18, some-16)
+amod(mayors-18, right-wing-17)
+prep_with(friendship-14, mayors-18)
+punct(mayors-18, _-19)
+prep_with(friendship-14, suggestions-21)
+conj_and(mayors-18, suggestions-21)
+mark(merge-31, that-22)
+amod(Austria-24, southern-23)
+nsubj(merge-31, Austria-24)
+conj_and(Austria-24, parts-26)
+nsubj(merge-31, parts-26)
+amod(Italy-29, northern-28)
+prep_of(parts-26, Italy-29)
+aux(merge-31, should-30)
+dep(suggestions-21, merge-31)
+det(``maxi-region-34, a-33)
+prep_into(merge-31, ``maxi-region-34)
+prep(mayors-18, _-36)
+aux(enraged-38, have-37)
+advcl(made-5, enraged-38)
+poss(government-42, Italy-39)
+amod(government-42, center-left-41)
+dobj(enraged-38, government-42)
+
+(ROOT
+  (NP (NNP (END) (NNP OPTIONAL) (NNP TRIM) (. ))))
+
+nn(TRIM-3, (END-1)
+nn(TRIM-3, OPTIONAL-2)
+root(ROOT-0, TRIM-3)
+punct(TRIM-3, )-4)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Some) (NNS people))
+      (PP (IN in)
+        (NP
+          (NP (NNP Haider) (POS 's))
+          (NN delegation))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD were)
+            (VP (VBN disappointed)
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NN clamor))
+                  (VP (VBG surrounding)
+                    (NP
+                      (NP (NNP Saturday) (POS 's))
+                      (NN visit))))))))))
+    (. .)))
+
+det(people-2, Some-1)
+nsubj(said-7, people-2)
+poss(delegation-6, Haider-4)
+prep_in(people-2, delegation-6)
+root(ROOT-0, said-7)
+nsubjpass(disappointed-10, they-8)
+auxpass(disappointed-10, were-9)
+ccomp(said-7, disappointed-10)
+det(clamor-13, the-12)
+agent(disappointed-10, clamor-13)
+vmod(clamor-13, surrounding-14)
+poss(visit-17, Saturday-15)
+dobj(surrounding-14, visit-17)
+
+(ROOT
+  (SINV
+    (PP (IN ``The)
+      (NP (NNP Christmas) (NN tree)))
+    (VP (VBZ has)
+      (S
+        (VP (VBG nothing)
+          (S
+            (VP (TO to)
+              (VP (VB do)
+                (PP (IN with)
+                  (NP
+                    (NP (NNS politics))
+                    (SBAR
+                      (WHNP (, ,''))
+                      (S
+                        (VP (VBD said))))))))))))
+    (NP
+      (NP (NNP Frank) (NNP Telsnig))
+      (, ,)
+      (NP
+        (NP (CD 22))
+        (, ,)
+        (NP
+          (NP (DT a) (NN teacher))
+          (PP (IN from)
+            (NP (NNP Weitensfeld))))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (NP (PRP he))
+            (VP (VBD prepared)
+              (S
+                (VP (TO to)
+                  (VP (VB play)
+                    (NP (NN saxophone))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NN delegation) (POS 's))
+                        (NN band)))))))))))
+    (. .)))
+
+nn(tree-3, Christmas-2)
+prep_``the(has-4, tree-3)
+root(ROOT-0, has-4)
+xcomp(has-4, nothing-5)
+aux(do-7, to-6)
+xcomp(nothing-5, do-7)
+prep_with(do-7, politics-9)
+nsubj(said-11, ,''-10)
+rcmod(politics-9, said-11)
+nn(Telsnig-13, Frank-12)
+nsubj(has-4, Telsnig-13)
+appos(Telsnig-13, 22-15)
+det(teacher-18, a-17)
+appos(22-15, teacher-18)
+prep_from(teacher-18, Weitensfeld-20)
+mark(prepared-24, as-22)
+nsubj(prepared-24, he-23)
+xsubj(play-26, he-23)
+rcmod(22-15, prepared-24)
+aux(play-26, to-25)
+xcomp(prepared-24, play-26)
+dobj(play-26, saxophone-27)
+det(delegation-30, the-29)
+poss(band-32, delegation-30)
+prep_in(play-26, band-32)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP ``I) (NN didn't) (NN vote))
+      (PP (IN for)
+        (NP
+          (NP (NNP Haider))
+          (, ,)
+          (CC but)
+          (NP (DT this)))))
+    (VP (VBZ is) (RB not)
+      (PP (IN about)
+        (NP (PRP him))))
+    (. .)))
+
+nn(vote-3, ``I-1)
+nn(vote-3, didn't-2)
+nsubj(is-9, vote-3)
+prep_for(vote-3, Haider-5)
+prep_for(vote-3, this-8)
+conj_but(Haider-5, this-8)
+root(ROOT-0, is-9)
+neg(is-9, not-10)
+prep_about(is-9, him-12)
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (PP (IN about)
+          (NP (NNP Christmas)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT this))
+      (VP (VBZ is) (RB not)
+        (NP
+          (NP (DT the) (NN right) (NN place))
+          (CC or)
+          (NP
+            (NP (DT the) (JJ right) (NN time))
+            (PP (IN for)
+              (NP (DT these) (NNS protests)))))))
+    (. .'')))
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+prep_about(is-2, Christmas-4)
+nsubj(place-12, this-7)
+cop(place-12, is-8)
+neg(place-12, not-9)
+det(place-12, the-10)
+nn(place-12, right-11)
+conj_and(is-2, place-12)
+det(time-16, the-14)
+amod(time-16, right-15)
+conj_and(is-2, time-16)
+conj_or(place-12, time-16)
+det(protests-19, these-18)
+prep_for(time-16, protests-19)
+punct(is-2, .''-20)
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-12-16-00) (CD 1858EST))))
+
+num(1858EST-2, NYT-12-16-00-1)
+root(ROOT-0, 1858EST-2)
+

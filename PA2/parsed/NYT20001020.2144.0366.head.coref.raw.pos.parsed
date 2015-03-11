@@ -1,0 +1,764 @@
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001020.2144.0366) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-10-20) (CD 22:01:10))))
+
+nn(STORY-3, NYT20001020.2144.0366-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(22:01:10-5, 2000-10-20-4)
+dep(STORY-3, 22:01:10-5)
+
+(ROOT
+  (NP
+    (NP (CD A1481) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (JJ taf-z) (NN s))
+      (PP (IN f)
+        (NP (JJ BC-CITIGROUP-ART-$ADV22-) (CD 10-20) (CD 0353))))))
+
+num(&Cx1f-2, A1481-1)
+root(ROOT-0, &Cx1f-2)
+amod(s-5, taf-z-4)
+dep(&Cx1f-2, s-5)
+amod(0353-9, BC-CITIGROUP-ART-$ADV22--7)
+num(0353-9, 10-20-8)
+prep_f(s-5, 0353-9)
+
+(ROOT
+  (FRAG
+    (NP (JJ BC-CITIGROUP-ART-$ADV22-3RD) (JJ TAKE-NYT) (NN UNDATED))
+    (: :)
+    (S
+      (NP (PRP he))
+      (VP (VBD added)))
+    (. .)))
+
+amod(UNDATED-3, BC-CITIGROUP-ART-$ADV22-3RD-1)
+amod(UNDATED-3, TAKE-NYT-2)
+root(ROOT-0, UNDATED-3)
+nsubj(added-6, he-5)
+dep(UNDATED-3, added-6)
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNS &LR))
+      (: ;)
+      (NP (NNP &HT)))
+    (: ;)
+    (S
+      (PP (IN As)
+        (PP (IN with)
+          (NP (NN credit) (NN insurance))))
+      (, ,)
+      (NP
+        (NP (JJ internal) (NNS documents))
+        (PP (IN from)
+          (NP
+            (NP (NNS Associates))
+            (ADJP
+              (ADJP (JJS suggest))
+              (SBAR (IN that)
+                (S
+                  (NP (NNS employees))
+                  (VP (VBP have)
+                    (VP (VBN been) (JJ pressured)
+                      (S
+                        (VP (TO to)
+                          (VP (VB encourage)
+                            (S
+                              (NP
+                                (NP (NNS homeowners))
+                                (CC and)
+                                (NP (JJ other) (NNS borrowers)))
+                              (VP (TO to)
+                                (VP (VB refinance)
+                                  (NP
+                                    (NP (NNS loans))
+                                    (: ;)
+                                    (NP (DT the) (NN emphasis)))))))))))))))))
+      (VP (VBD was)
+        (PP (RB usually)
+          (PP (IN on)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (DT this))
+                (VP (MD would)
+                  (VP (VB benefit)
+                    (NP (DT the) (NN company)))))))
+          (, ,) (RB not)
+          (PP (IN on)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (PRP it))
+                (VP (MD might)
+                  (VP (VB help)
+                    (NP (DT the) (NN customer))))))))))
+    (. .)))
+
+root(ROOT-0, &LR-1)
+dep(&LR-1, &HT-3)
+prep(was-32, As-5)
+pcomp(As-5, with-6)
+nn(insurance-8, credit-7)
+pobj(with-6, insurance-8)
+amod(documents-11, internal-10)
+nsubj(was-32, documents-11)
+prep_from(documents-11, Associates-13)
+amod(Associates-13, suggest-14)
+mark(been-18, that-15)
+nsubj(been-18, employees-16)
+xsubj(encourage-21, employees-16)
+aux(been-18, have-17)
+ccomp(suggest-14, been-18)
+dep(been-18, pressured-19)
+aux(encourage-21, to-20)
+xcomp(been-18, encourage-21)
+nsubj(refinance-27, homeowners-22)
+amod(borrowers-25, other-24)
+conj_and(homeowners-22, borrowers-25)
+nsubj(refinance-27, borrowers-25)
+aux(refinance-27, to-26)
+xcomp(encourage-21, refinance-27)
+dobj(refinance-27, loans-28)
+det(emphasis-31, the-30)
+dep(loans-28, emphasis-31)
+dep(&LR-1, was-32)
+advmod(was-32, usually-33)
+advmod(benefit-38, how-35)
+nsubj(benefit-38, this-36)
+aux(benefit-38, would-37)
+prepc_on(was-32, benefit-38)
+det(company-40, the-39)
+dobj(benefit-38, company-40)
+neg(was-32, not-42)
+advmod(help-47, how-44)
+nsubj(help-47, it-45)
+aux(help-47, might-46)
+prepc_on(was-32, help-47)
+det(customer-49, the-48)
+dobj(help-47, customer-49)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN ``Roadmap) ('' '') (NN memo)))
+    (, ,)
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP (DT a) (NN chart))
+    (VP (VBD showed)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP
+            (NP (DT the) (NN profitability))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (NN consumer) (NN loan) (NNS decreases))
+                (PP (IN as)
+                  (NP (PRP it))))))
+          (VP (VBZ ages)))))
+    (. .)))
+
+det(memo-5, the-2)
+nn(memo-5, ``Roadmap-3)
+prep_in(showed-12, memo-5)
+prep_for(showed-12, example-8)
+det(chart-11, a-10)
+nsubj(showed-12, chart-11)
+root(ROOT-0, showed-12)
+advmod(ages-23, how-13)
+det(profitability-15, the-14)
+nsubj(ages-23, profitability-15)
+det(decreases-20, a-17)
+nn(decreases-20, consumer-18)
+nn(decreases-20, loan-19)
+prep_of(profitability-15, decreases-20)
+prep_as(decreases-20, it-22)
+ccomp(showed-12, ages-23)
+
+(ROOT
+  (S
+    (NP (PRP ``You))
+    (VP (MD can)
+      (VP (VB see)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP
+              (NP (DT the) (NNS earnings) (NN decline))
+              (PP (IN over)
+                (NP
+                  (NP (NN time))
+                  (PP (, ,'')
+                    (NP (DT the) (NN memo))))))
+            (VP (VBD said))))))
+    (. .)))
+
+nsubj(see-3, ``You-1)
+aux(see-3, can-2)
+root(ROOT-0, see-3)
+advmod(said-13, how-4)
+det(decline-7, the-5)
+nn(decline-7, earnings-6)
+nsubj(said-13, decline-7)
+prep_over(decline-7, time-9)
+punct(memo-12, ,''-10)
+det(memo-12, the-11)
+prep(time-9, memo-12)
+ccomp(see-3, said-13)
+
+(ROOT
+  (S
+    (NP (PRP$ ``Your) (NN controller))
+    (VP (MD can)
+      (VP (VB provide)
+        (NP (NNS lists))
+        (PP (TO to)
+          (NP
+            (NP (PRP you))
+            (PP (IN of)
+              (NP (JJ aged) (JJ personal) (NNS loans)))))
+        (S
+          (VP (TO to)
+            (VP (VB target)
+              (PP (IN for)
+                (NP (NN renewal))))))))
+    (. .'')))
+
+poss(controller-2, ``Your-1)
+nsubj(provide-4, controller-2)
+aux(provide-4, can-3)
+root(ROOT-0, provide-4)
+dobj(provide-4, lists-5)
+prep_to(provide-4, you-7)
+amod(loans-11, aged-9)
+amod(loans-11, personal-10)
+prep_of(you-7, loans-11)
+aux(target-13, to-12)
+vmod(provide-4, target-13)
+prep_for(target-13, renewal-15)
+punct(provide-4, .''-16)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Another) (NN memo))
+      (, ,)
+      (VP (VBN sent)
+        (PP (IN in)
+          (NP (CD 1991)))
+        (S
+          (VP (TO to)
+            (VP (VB ``all)
+              (NP (NN branch) (NNS managers)))))))
+    (VP (VBP ,'')
+      (VP (VBN concerned)
+        (NP
+          (NP
+            (NP (NNPS Associates) (POS '))
+            (NN practice))
+          (PP (IN of)
+            (S
+              (VP (VBG acquiring)
+                (NP
+                  (NP (NN consumer) (NNS loans))
+                  (VP (VBN made)
+                    (PP (IN by)
+                      (NP (JJ other) (NNS lenders)
+                        (CC or)
+                        (NNS retailers)))))))))))
+    (. .)))
+
+nn(memo-2, Another-1)
+nsubj(,''-11, memo-2)
+vmod(memo-2, sent-4)
+prep_in(sent-4, 1991-6)
+aux(``all-8, to-7)
+xcomp(sent-4, ``all-8)
+nn(managers-10, branch-9)
+dobj(``all-8, managers-10)
+root(ROOT-0, ,''-11)
+dep(,''-11, concerned-12)
+poss(practice-15, Associates-13)
+dobj(concerned-12, practice-15)
+prepc_of(practice-15, acquiring-17)
+nn(loans-19, consumer-18)
+dobj(acquiring-17, loans-19)
+vmod(loans-19, made-20)
+amod(lenders-23, other-22)
+agent(made-20, lenders-23)
+agent(made-20, retailers-25)
+conj_or(lenders-23, retailers-25)
+
+(ROOT
+  (S
+    (SBAR
+      (PP (IN ``The)
+        (NP (JJ principal) (NN reason)))
+      (S
+        (NP (PRP we))
+        (VP (VB purchase)
+          (NP (DT an) (NN acquisition)))))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB convert)
+            (NP (PRP it))
+            (PP (TO to)
+              (NP (DT a)
+                (ADJP (JJR more) (JJ profitable))
+                (NN loan)))
+            (PP (IN ,'')
+              (NP
+                (NP (DT the) (NN memo))
+                (VP (VBN stated))))))))
+    (. .)))
+
+amod(reason-3, principal-2)
+prep_``the(purchase-5, reason-3)
+nsubj(purchase-5, we-4)
+csubj(is-8, purchase-5)
+det(acquisition-7, an-6)
+dobj(purchase-5, acquisition-7)
+root(ROOT-0, is-8)
+aux(convert-10, to-9)
+xcomp(is-8, convert-10)
+dobj(convert-10, it-11)
+det(loan-16, a-13)
+dep(profitable-15, more-14)
+amod(loan-16, profitable-15)
+prep_to(convert-10, loan-16)
+det(memo-19, the-18)
+prep_,''(convert-10, memo-19)
+vmod(memo-19, stated-20)
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP ``If))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBP cannot)
+            (NP (JJ convert) (NNS acquisitions))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP cannot)
+      (SBAR
+        (S
+          (VP (VBP continue)
+            (S
+              (VP (TO to)
+                (VP (VB purchase)
+                  (NP (PRP them)))))))))
+    (. .'')))
+
+nsubj(cannot-8, ``If-1)
+nsubj(cannot-3, we-2)
+rcmod(``If-1, cannot-3)
+amod(acquisitions-5, convert-4)
+dobj(cannot-3, acquisitions-5)
+nsubj(cannot-8, we-7)
+root(ROOT-0, cannot-8)
+ccomp(cannot-8, continue-9)
+aux(purchase-11, to-10)
+xcomp(continue-9, purchase-11)
+dobj(purchase-11, them-12)
+punct(cannot-8, .''-13)
+
+(ROOT
+  (S
+    (NP (DT The) (NN memo))
+    (ADVP (RB then))
+    (VP (VBD stipulated)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNS employees))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD renewed)
+                  (NP (JJ such) (NNS loans))))))
+          (, ,)
+          (SBAR (IN if)
+            (S
+              (VP (VBN secured)
+                (PP (IN by)
+                  (NP (JJ real) (NN estate))))))
+          (, ,)
+          (VP (MD would)
+            (VP (VB receive)
+              (NP
+                (NP (DT a) (JJ $100) (NN bonus))
+                (PP (IN for)
+                  (NP (DT each) (NN loan)))))))))
+    (. .)))
+
+det(memo-2, The-1)
+nsubj(stipulated-4, memo-2)
+advmod(stipulated-4, then-3)
+root(ROOT-0, stipulated-4)
+mark(receive-19, that-5)
+nsubj(renewed-8, employees-6)
+nsubj(receive-19, employees-6)
+rcmod(employees-6, renewed-8)
+amod(loans-10, such-9)
+dobj(renewed-8, loans-10)
+mark(secured-13, if-12)
+dep(receive-19, secured-13)
+amod(estate-16, real-15)
+prep_by(secured-13, estate-16)
+aux(receive-19, would-18)
+ccomp(stipulated-4, receive-19)
+det(bonus-22, a-20)
+amod(bonus-22, $100-21)
+dobj(receive-19, bonus-22)
+det(loan-25, each-24)
+prep_for(bonus-22, loan-25)
+
+(ROOT
+  (S
+    (NP (JJ Last) (NN month))
+    (, ,)
+    (PP (IN in)
+      (NP (DT an) (NN investor) (NN conference) (NN call)))
+    (, ,)
+    (NP
+      (NP (NNP Keith) (NNP W.) (NNP Hughes))
+      (, ,)
+      (NP
+        (NP (DT the) (JJ chief) (NN executive))
+        (PP (IN of)
+          (NP
+            (NP (NNS Associates))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (MD will)
+                  (VP (VB join)
+                    (NP
+                      (NP (NNP Citigroup))
+                      (PP (IN as)
+                        (NP (DT a) (NN vice) (NN chairman))))
+                    (PP (IN after)
+                      (NP (DT the) (NN merger))))))))))
+      (, ,))
+    (VP (VBD cited)
+      (NP
+        (NP (DT the) (JJ strong) (JJ cultural) (NNS similarities))
+        (PP (IN between)
+          (NP (DT the) (NNS companies)))))
+    (. .)))
+
+amod(month-2, Last-1)
+tmod(cited-32, month-2)
+det(call-8, an-5)
+nn(call-8, investor-6)
+nn(call-8, conference-7)
+prep_in(cited-32, call-8)
+nn(Hughes-12, Keith-10)
+nn(Hughes-12, W.-11)
+nsubj(cited-32, Hughes-12)
+det(executive-16, the-14)
+amod(executive-16, chief-15)
+appos(Hughes-12, executive-16)
+prep_of(executive-16, Associates-18)
+nsubj(join-22, Associates-18)
+aux(join-22, will-21)
+rcmod(Associates-18, join-22)
+dobj(join-22, Citigroup-23)
+det(chairman-27, a-25)
+nn(chairman-27, vice-26)
+prep_as(Citigroup-23, chairman-27)
+det(merger-30, the-29)
+prep_after(join-22, merger-30)
+root(ROOT-0, cited-32)
+det(similarities-36, the-33)
+amod(similarities-36, strong-34)
+amod(similarities-36, cultural-35)
+dobj(cited-32, similarities-36)
+det(companies-39, the-38)
+prep_between(similarities-36, companies-39)
+
+(ROOT
+  (S (CC But)
+    (PP (IN in)
+      (NP (DT an) (NN interview)))
+    (NP (JJ last) (NN week))
+    (, ,)
+    (NP
+      (NP (NNP Marge) (NNP Magner))
+      (, ,)
+      (NP
+        (NP (DT a) (NNP Citigroup) (NN executive))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (ADJP (RB previously) (JJ oversaw)
+              (SBAR
+                (S
+                  (NP
+                    (NP (NNP Citigroup) (POS 's))
+                    (NN consumer) (NN finance) (NN business))
+                  (, ,)
+                  (VP (VBD stressed)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (NP (PRP she))
+                        (VP (VBD said))))))))))))
+    (VP (VBD were)
+      (NP (JJ big) (NNS differences))
+      (, ,)
+      (ADVP (RB particularly))
+      (PP (IN in)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (DT the) (NNS sales) (NN staff))
+            (VP (VBZ is)
+              (VP (VBN paid)))))))
+    (. .)))
+
+cc(differences-29, But-1)
+det(interview-4, an-3)
+prep_in(differences-29, interview-4)
+amod(week-6, last-5)
+tmod(differences-29, week-6)
+nn(Magner-9, Marge-8)
+nsubj(differences-29, Magner-9)
+det(executive-13, a-11)
+nn(executive-13, Citigroup-12)
+appos(Magner-9, executive-13)
+dep(oversaw-16, executive-13)
+advmod(oversaw-16, previously-15)
+rcmod(executive-13, oversaw-16)
+poss(business-21, Citigroup-17)
+nn(business-21, consumer-19)
+nn(business-21, finance-20)
+nsubj(stressed-23, business-21)
+ccomp(oversaw-16, stressed-23)
+dobj(said-26, what-24)
+nsubj(said-26, she-25)
+ccomp(stressed-23, said-26)
+cop(differences-29, were-27)
+amod(differences-29, big-28)
+root(ROOT-0, differences-29)
+advmod(differences-29, particularly-31)
+advmod(paid-38, how-33)
+det(staff-36, the-34)
+nn(staff-36, sales-35)
+nsubjpass(paid-38, staff-36)
+auxpass(paid-38, is-37)
+prepc_in(differences-29, paid-38)
+
+(ROOT
+  (S
+    (S
+      (NP (NNPS Associates) (NNS bases))
+      (VP (VBP pay)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN volume))
+            (PP (IN of)
+              (NP (NNS loans)))
+            (SBAR (IN that)
+              (S
+                (NP (NNS employees))
+                (ADJP (JJ generate))))))))
+    (, ,)
+    (S
+      (NP (DT a) (NN ``count))
+      (NP (PRP$ your) (NNS transactions) ('' '') (NN approach)))
+    (, ,)
+    (S
+      (NP (NNP Magner))
+      (VP (VBD said)))
+    (. .)))
+
+nn(bases-2, Associates-1)
+nsubj(pay-3, bases-2)
+root(ROOT-0, pay-3)
+det(volume-6, the-5)
+prep_on(pay-3, volume-6)
+prep_of(volume-6, loans-8)
+mark(generate-11, that-9)
+dep(generate-11, employees-10)
+dep(volume-6, generate-11)
+det(``count-14, a-13)
+dep(approach-18, ``count-14)
+poss(approach-18, your-15)
+nn(approach-18, transactions-16)
+parataxis(pay-3, approach-18)
+nsubj(said-21, Magner-20)
+parataxis(pay-3, said-21)
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (NNP Citifinancial)))
+    (, ,)
+    (NP (PRP she))
+    (VP
+      (VP (VBD said))
+      (, ,)
+      (NP
+        (NP (DT ``we) (NN deal))
+        (PP (IN with)
+          (NP
+            (NP
+              (NP (DT the) (NN business))
+              (PP (IN as)
+                (NP (DT a) (NN whole))))
+            (, ,)
+            (NP (DT the) (JJ whole) (NN branch))
+            (CC and)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (PRP it))
+                (VP (VBZ 's)
+                  (ADJP (VBG growing)))))))))
+    (. .'')))
+
+prep_at(said-5, Citifinancial-2)
+nsubj(said-5, she-4)
+root(ROOT-0, said-5)
+det(deal-8, ``we-7)
+dobj(said-5, deal-8)
+det(business-11, the-10)
+prep_with(deal-8, business-11)
+det(whole-14, a-13)
+prep_as(business-11, whole-14)
+det(branch-18, the-16)
+amod(branch-18, whole-17)
+prep_with(deal-8, branch-18)
+conj_and(business-11, branch-18)
+advmod(growing-23, how-20)
+nsubj(growing-23, it-21)
+cop(growing-23, 's-22)
+prep_with(deal-8, growing-23)
+conj_and(business-11, growing-23)
+punct(said-5, .''-24)
+
+(ROOT
+  (S
+    (NP (NNP She))
+    (ADVP (RB also))
+    (VP (VBD emphasized)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NNP Citifinancial) (NN computer) (NN system))
+            (VP (VBN used)
+              (PP (IN by)
+                (NP (DT the) (NNS sales) (NN staff)))))
+          (ADVP (RB automatically))
+          (VP (VBD rejected)
+            (NP
+              (NP (NNS products)
+                (CC and)
+                (NN interest) (NN rate) (NNS levels))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD did) (RB not)
+                    (VP (VB seem)
+                      (ADJP (JJ suitable))
+                      (PP (IN for)
+                        (NP (DT a) (JJ specific) (NN customer))))))))
+            (, ,)
+            (S
+              (VP (VBG giving)
+                (NP (NNP Citifinancial))
+                (NP
+                  (NP (DT a) (NN measure))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ centralized) (NN control))
+                      (PP (IN over)
+                        (NP (VBG lending) (NNS practices))))))))))))
+    (. .)))
+
+nsubj(emphasized-3, She-1)
+advmod(emphasized-3, also-2)
+root(ROOT-0, emphasized-3)
+mark(rejected-15, that-4)
+det(system-8, the-5)
+nn(system-8, Citifinancial-6)
+nn(system-8, computer-7)
+nsubj(rejected-15, system-8)
+vmod(system-8, used-9)
+det(staff-13, the-11)
+nn(staff-13, sales-12)
+agent(used-9, staff-13)
+advmod(rejected-15, automatically-14)
+ccomp(emphasized-3, rejected-15)
+dobj(rejected-15, products-16)
+nsubj(suitable-25, products-16)
+nn(levels-20, interest-18)
+nn(levels-20, rate-19)
+dobj(rejected-15, levels-20)
+conj_and(products-16, levels-20)
+nsubj(suitable-25, levels-20)
+aux(suitable-25, did-22)
+neg(suitable-25, not-23)
+cop(suitable-25, seem-24)
+rcmod(products-16, suitable-25)
+det(customer-29, a-27)
+amod(customer-29, specific-28)
+prep_for(suitable-25, customer-29)
+vmod(rejected-15, giving-31)
+iobj(giving-31, Citifinancial-32)
+det(measure-34, a-33)
+dobj(giving-31, measure-34)
+amod(control-37, centralized-36)
+prep_of(measure-34, control-37)
+amod(practices-40, lending-39)
+prep_over(control-37, practices-40)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP ``A) (NN lot))
+        (PP (IN of)
+          (NP (DT the) (NN compliance) (NNS issues))))
+      (VP (VBP are)
+        (VP (VBN built)
+          (PP (IN into)
+            (NP (DT the) (NN system))))))
+    (, ,'')
+    (NP (PRP she))
+    (VP (VBD said))
+    (. .)))
+
+nn(lot-2, ``A-1)
+nsubjpass(built-8, lot-2)
+det(issues-6, the-4)
+nn(issues-6, compliance-5)
+prep_of(lot-2, issues-6)
+auxpass(built-8, are-7)
+ccomp(said-14, built-8)
+det(system-11, the-10)
+prep_into(built-8, system-11)
+punct(said-14, ,''-12)
+nsubj(said-14, she-13)
+root(ROOT-0, said-14)
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-10-20-00) (CD 2201EDT))))
+
+num(2201EDT-2, NYT-10-20-00-1)
+root(ROOT-0, 2201EDT-2)
+

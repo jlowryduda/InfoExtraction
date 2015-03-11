@@ -1,0 +1,939 @@
+(ROOT
+  (NP
+    (NP (DT APW20001103.1315.0364))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-11-03) (CD 14:10:45))))
+
+root(ROOT-0, APW20001103.1315.0364-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001103.1315.0364-1, STORY-3)
+num(14:10:45-5, 2000-11-03-4)
+dep(APW20001103.1315.0364-1, 14:10:45-5)
+
+(ROOT
+  (NP (NN FBC-Rutgers-Shea)))
+
+root(ROOT-0, FBC-Rutgers-Shea-1)
+
+(ROOT
+  (NP
+    (NP (NN Source))
+    (: :)
+    (NP
+      (NP (NNPS Rutgers) (NNP Coach))
+      (PP (TO To)
+        (NP (NNP Resign))))))
+
+root(ROOT-0, Source-1)
+nn(Coach-4, Rutgers-3)
+dep(Source-1, Coach-4)
+prep_to(Coach-4, Resign-6)
+
+(ROOT
+  (NP
+    (NP (NNP PISCATAWAY))
+    (, ,)
+    (NP (NNP N.J))
+    (. .)))
+
+root(ROOT-0, PISCATAWAY-1)
+appos(PISCATAWAY-1, N.J-3)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP (AP) (NNP )) (NNP _) (NNP Terry) (NNP Shea))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD failed)
+              (S
+                (VP (TO to)
+                  (VP (VB produce)
+                    (NP
+                      (NP (DT a) (VBG winning) (NN season))
+                      (PP (IN in)
+                        (NP
+                          (NP (JJ four-plus) (NNS years))
+                          (PP (IN at)
+                            (NP (NNS Rutgers))))))))))))
+        (, ,))
+      (VP (MD will)
+        (VP (VB step)
+          (ADVP (RB down)
+            (PP (IN as)
+              (NP (NN coach))))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN end))
+              (PP (IN of)
+                (NP (DT this) (NN season))))))))
+    (, ,)
+    (NP
+      (NP (DT a) (JJ source) (NN close))
+      (PP (TO to)
+        (NP (DT the) (NN school))))
+    (VP (VBD told)
+      (NP (DT The) (JJ Associated) (NNP Press))
+      (NP (NNP Friday)))
+    (. .)))
+
+nn(Shea-5, (AP-1)
+nn(Shea-5, )-2)
+nn(Shea-5, _-3)
+nn(Shea-5, Terry-4)
+nsubj(failed-8, Shea-5)
+xsubj(produce-10, Shea-5)
+nsubj(step-21, Shea-5)
+rcmod(Shea-5, failed-8)
+aux(produce-10, to-9)
+xcomp(failed-8, produce-10)
+det(season-13, a-11)
+amod(season-13, winning-12)
+dobj(produce-10, season-13)
+amod(years-16, four-plus-15)
+prep_in(season-13, years-16)
+prep_at(years-16, Rutgers-18)
+aux(step-21, will-20)
+ccomp(told-38, step-21)
+advmod(step-21, down-22)
+prep_as(down-22, coach-24)
+det(end-27, the-26)
+prep_at(step-21, end-27)
+det(season-30, this-29)
+prep_of(end-27, season-30)
+det(close-34, a-32)
+amod(close-34, source-33)
+nsubj(told-38, close-34)
+det(school-37, the-36)
+prep_to(close-34, school-37)
+root(ROOT-0, told-38)
+det(Press-41, The-39)
+amod(Press-41, Associated-40)
+dobj(told-38, Press-41)
+tmod(told-38, Friday-42)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Shea))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ has)
+            (NP (DT an) (JJ 11-41) (NN record)))))
+      (, ,))
+    (VP (VBD agreed)
+      (S
+        (VP (TO to)
+          (VP (VB resign)
+            (PP (IN after)
+              (NP
+                (NP (NN meeting))
+                (PP (IN with)
+                  (NP (JJ athletic) (NN director) (NNP Robert) (NNP E.) (NNP Mulcahy)))))
+            (PP (IN on)
+              (NP (NNP Thursday))))))
+      (NP (NN afternoon))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN source))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD spoke)
+                  (PP (IN on)
+                    (NP
+                      (NP (DT the) (NN condition))
+                      (PP (IN of)
+                        (NP (NN anonymity))))))))))))
+    (. .)))
+
+nsubj(has-4, Shea-1)
+nsubj(agreed-9, Shea-1)
+xsubj(resign-11, Shea-1)
+rcmod(Shea-1, has-4)
+det(record-7, an-5)
+amod(record-7, 11-41-6)
+dobj(has-4, record-7)
+root(ROOT-0, agreed-9)
+aux(resign-11, to-10)
+xcomp(agreed-9, resign-11)
+prep_after(resign-11, meeting-13)
+amod(Mulcahy-19, athletic-15)
+nn(Mulcahy-19, director-16)
+nn(Mulcahy-19, Robert-17)
+nn(Mulcahy-19, E.-18)
+prep_with(meeting-13, Mulcahy-19)
+prep_on(resign-11, Thursday-21)
+dobj(agreed-9, afternoon-22)
+prepc_according_to(agreed-9, to-25)
+det(source-27, the-26)
+pobj(agreed-9, source-27)
+nsubj(spoke-30, source-27)
+rcmod(source-27, spoke-30)
+det(condition-33, the-32)
+prep_on(spoke-30, condition-33)
+prep_of(condition-33, anonymity-35)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Star-Ledger))
+      (PP (IN of)
+        (NP
+          (NP (NNP Newark))
+          (, ,)
+          (NP (NNP Gannett) (NNPS Newspapers))
+          (CC and)
+          (NP
+            (NP (DT The) (NNP Record))
+            (PP (IN of)
+              (NP (NNP Hackensack)))))))
+    (VP (VBD reported)
+      (NP (NN Friday))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Shea))
+          (VP (VBD agreed)
+            (S
+              (VP (TO to)
+                (VP (VB resign))))))))
+    (. .)))
+
+det(Star-Ledger-2, The-1)
+nsubj(reported-13, Star-Ledger-2)
+prep_of(Star-Ledger-2, Newark-4)
+nn(Newspapers-7, Gannett-6)
+prep_of(Star-Ledger-2, Newspapers-7)
+conj_and(Newark-4, Newspapers-7)
+det(Record-10, The-9)
+prep_of(Star-Ledger-2, Record-10)
+conj_and(Newark-4, Record-10)
+prep_of(Record-10, Hackensack-12)
+root(ROOT-0, reported-13)
+tmod(reported-13, Friday-14)
+mark(agreed-17, that-15)
+nsubj(agreed-17, Shea-16)
+xsubj(resign-19, Shea-16)
+ccomp(reported-13, agreed-17)
+aux(resign-19, to-18)
+xcomp(agreed-17, resign-19)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Mulcahy)
+        (CC and)
+        (NNP Shea))
+      (VP (VBD signed)
+        (ADVP (RB off)
+          (PP (IN on)
+            (NP (PRP$ his) (NN resignation))))
+        (PP (IN around)
+          (NP (CD 7:30) (NN p.m)))))
+    (, .,)
+    (CC and)
+    (S
+      (NP (NNP Shea))
+      (ADVP (RB then))
+      (VP (VBD held)
+        (NP (DT a) (NN meeting))
+        (PP (IN with)
+          (NP (PRP$ his) (NN football) (NN team)))
+        (PP (IN at)
+          (NP (CD 9:30) (NN p.m)))
+        (SBAR (IN .,)
+          (S
+            (NP (DT the) (NN source))
+            (VP (VBD said))))))
+    (. .)))
+
+nsubj(signed-4, Mulcahy-1)
+conj_and(Mulcahy-1, Shea-3)
+nsubj(signed-4, Shea-3)
+root(ROOT-0, signed-4)
+advmod(signed-4, off-5)
+poss(resignation-8, his-7)
+prep_on(off-5, resignation-8)
+num(p.m-11, 7:30-10)
+prep_around(signed-4, p.m-11)
+punct(signed-4, .,-12)
+nsubj(held-16, Shea-14)
+advmod(held-16, then-15)
+conj_and(signed-4, held-16)
+det(meeting-18, a-17)
+dobj(held-16, meeting-18)
+poss(team-22, his-20)
+nn(team-22, football-21)
+prep_with(held-16, team-22)
+num(p.m-25, 9:30-24)
+prep_at(held-16, p.m-25)
+mark(said-29, .,-26)
+det(source-28, the-27)
+nsubj(said-29, source-28)
+advcl(held-16, said-29)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Rutgers))
+      (NP (JJ athletic) (NN director) (NNP Robert) (NNP E.) (NNP Mulcahy)))
+    (VP (VBD called)
+      (NP (DT a) (NN news) (NN conference))
+      (PP (IN for)
+        (NP (NN Friday)))
+      (PP (IN at)
+        (NP (NN noon)))
+      (NP (NNP EST)))
+    (. .)))
+
+nsubj(called-7, Rutgers-1)
+amod(Mulcahy-6, athletic-2)
+nn(Mulcahy-6, director-3)
+nn(Mulcahy-6, Robert-4)
+nn(Mulcahy-6, E.-5)
+dep(Rutgers-1, Mulcahy-6)
+root(ROOT-0, called-7)
+det(conference-10, a-8)
+nn(conference-10, news-9)
+dobj(called-7, conference-10)
+prep_for(called-7, Friday-12)
+prep_at(called-7, noon-14)
+dobj(called-7, EST-15)
+
+(ROOT
+  (S
+    (NP (NNP ``That) (POS 's))
+    (ADVP (WRB when))
+    (VP
+      (ADVP (PRP it))
+      (MD will)
+      (VP (VB happen)
+        (SBAR (IN ,'')
+          (S
+            (NP (DT the) (NN source))
+            (VP (VBD said))))))
+    (. .)))
+
+nsubj(happen-6, ``That-1)
+possessive(``That-1, 's-2)
+advmod(happen-6, when-3)
+advmod(happen-6, it-4)
+aux(happen-6, will-5)
+root(ROOT-0, happen-6)
+mark(said-10, ,''-7)
+det(source-9, the-8)
+nsubj(said-10, source-9)
+advcl(happen-6, said-10)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Telephone) (NNS calls))
+        (PP (TO to)
+          (NP (NNP Mulcahy))))
+      (CC and)
+      (NP
+        (NP (NNPS Rutgers) (NNS sports))
+        (NP
+          (NP (NN information) (NN director) (NNP John) (NNP Wooding))
+          (PP (IN by)
+            (NP (DT The) (JJ Associated) (NN Press))))))
+    (VP (VBD were) (RB not)
+      (VP
+        (ADVP (RB immediately))
+        (VBN returned)))
+    (. .)))
+
+nn(calls-2, Telephone-1)
+nsubjpass(returned-19, calls-2)
+prep_to(calls-2, Mulcahy-4)
+nn(sports-7, Rutgers-6)
+conj_and(calls-2, sports-7)
+nsubjpass(returned-19, sports-7)
+nn(Wooding-11, information-8)
+nn(Wooding-11, director-9)
+nn(Wooding-11, John-10)
+dep(sports-7, Wooding-11)
+det(Press-15, The-13)
+amod(Press-15, Associated-14)
+prep_by(Wooding-11, Press-15)
+auxpass(returned-19, were-16)
+neg(returned-19, not-17)
+advmod(returned-19, immediately-18)
+root(ROOT-0, returned-19)
+
+(ROOT
+  (S
+    (NP (DT The) (JJ Scarlet) (NNS Knights))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (JJ 3-5) (JJ overall))
+        (CC and)
+        (ADJP (JJ 0-5)
+          (PP (IN in)
+            (NP (DT the) (NNP Big) (NNP East) (NNP Conference))))))
+    (. .)))
+
+det(Knights-3, The-1)
+amod(Knights-3, Scarlet-2)
+nsubj(overall-6, Knights-3)
+nsubj(0-5-8, Knights-3)
+cop(overall-6, are-4)
+amod(overall-6, 3-5-5)
+root(ROOT-0, overall-6)
+conj_and(overall-6, 0-5-8)
+det(Conference-13, the-10)
+nn(Conference-13, Big-11)
+nn(Conference-13, East-12)
+prep_in(0-5-8, Conference-13)
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP
+          (NP
+            (NP (DT a) (NN bye))
+            (NP (DT this) (NN weekend))
+            (, ,)
+            (ADVP (RB then)))
+          (ADVP (JJ finish)
+            (NP (DT the) (NN season))
+            (PP (IN with)
+              (NP
+                (NP (NNS games))
+                (PP (IN against)
+                  (NP (NNP West) (NNP Virginia))))
+              (, ,)
+              (ADVP (RB Notre)))))
+        (ADJP (NN Dame)
+          (CC and)
+          (NN Syracuse))))
+    (. .)))
+
+nsubj(have-2, They-1)
+root(ROOT-0, have-2)
+det(bye-4, a-3)
+dobj(have-2, bye-4)
+det(weekend-6, this-5)
+dep(bye-4, weekend-6)
+advmod(bye-4, then-8)
+advmod(bye-4, finish-9)
+det(season-11, the-10)
+dep(finish-9, season-11)
+prep_with(finish-9, games-13)
+nn(Virginia-16, West-15)
+prep_against(games-13, Virginia-16)
+advmod(finish-9, Notre-18)
+amod(bye-4, Dame-19)
+amod(bye-4, Syracuse-21)
+conj_and(Dame-19, Syracuse-21)
+
+(ROOT
+  (S
+    (SBAR (IN After)
+      (S
+        (NP (NNS Rutgers))
+        (VP (VBD posted)
+          (NP (DT a) (JJ 1-10) (NN record))
+          (NP (JJ last) (NN season)))))
+    (, ,)
+    (NP (NNP Mulcahy))
+    (VP (VBD told)
+      (NP
+        (NP (NNP Shea))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD had)
+              (S
+                (VP (TO to)
+                  (VP (VB have)
+                    (NP
+                      (NP (DT a) (JJ winning) (NN record))
+                      (SBAR
+                        (S
+                          (NP
+                            (NP (DT this) (NN season))
+                            (CC and)
+                            (NP (DT the) (NN team)))
+                          (VP (VBD had)
+                            (S
+                              (VP (TO to)
+                                (VP (VB avoid)
+                                  (NP
+                                    (NP (DT the) (JJ one-sided) (NNS losses))
+                                    (SBAR
+                                      (WHNP (WDT that))
+                                      (S
+                                        (VP (VBD embarrassed)
+                                          (NP (DT the) (NN school))
+                                          (PP (IN in)
+                                            (NP (JJ recent) (NNS years))))))))))))))))))))))
+    (. .)))
+
+mark(posted-3, After-1)
+nsubj(posted-3, Rutgers-2)
+advcl(told-11, posted-3)
+det(record-6, a-4)
+amod(record-6, 1-10-5)
+iobj(posted-3, record-6)
+amod(season-8, last-7)
+dobj(posted-3, season-8)
+nsubj(told-11, Mulcahy-10)
+root(ROOT-0, told-11)
+dobj(told-11, Shea-12)
+nsubj(had-14, he-13)
+xsubj(have-16, he-13)
+rcmod(Shea-12, had-14)
+aux(have-16, to-15)
+xcomp(had-14, have-16)
+det(record-19, a-17)
+amod(record-19, winning-18)
+dobj(have-16, record-19)
+det(season-21, this-20)
+nsubj(had-25, season-21)
+xsubj(avoid-27, season-21)
+det(team-24, the-23)
+conj_and(season-21, team-24)
+nsubj(had-25, team-24)
+xsubj(avoid-27, team-24)
+rcmod(record-19, had-25)
+aux(avoid-27, to-26)
+xcomp(had-25, avoid-27)
+det(losses-30, the-28)
+amod(losses-30, one-sided-29)
+dobj(avoid-27, losses-30)
+nsubj(embarrassed-32, losses-30)
+rcmod(losses-30, embarrassed-32)
+det(school-34, the-33)
+dobj(embarrassed-32, school-34)
+amod(years-37, recent-36)
+prep_in(embarrassed-32, years-37)
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG opening)
+          (NP (DT the) (NN season))
+          (PP (IN with)
+            (NP
+              (NP (NNS wins))
+              (PP (IN over)
+                (NP
+                  (NP (NNP Villanova))
+                  (, ,)
+                  (NP (DT a) (NNP Division) (NNP IAA) (NN program))
+                  (, ,)
+                  (CC and)
+                  (NP (NNP Buffalo))))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (ADVP (RB recently))
+                  (VP (VBD announced)
+                    (SBAR
+                      (S
+                        (NP (PRP$ its) (NN coach))
+                        (VP (MD would) (RB not)
+                          (VP (VB be)
+                            (VP (VBG returning)
+                              (NP (JJ next) (NN season)))))))))))))))
+    (, ,)
+    (NP (NNPS Rutgers))
+    (VP (VBD lost)
+      (NP
+        (NP (PRP$ its) (JJ next) (CD five) (NNS games))
+        (PP (IN by)
+          (NP (DT a) (JJ combined) (CD 232-43) (NN margin)))))
+    (. .)))
+
+prepc_after(lost-31, opening-2)
+det(season-4, the-3)
+dobj(opening-2, season-4)
+prep_with(opening-2, wins-6)
+nsubj(announced-20, wins-6)
+prep_over(wins-6, Villanova-8)
+det(program-13, a-10)
+nn(program-13, Division-11)
+nn(program-13, IAA-12)
+prep_over(wins-6, program-13)
+conj_and(Villanova-8, program-13)
+prep_over(wins-6, Buffalo-16)
+conj_and(Villanova-8, Buffalo-16)
+advmod(announced-20, recently-19)
+rcmod(wins-6, announced-20)
+poss(coach-22, its-21)
+nsubj(returning-26, coach-22)
+aux(returning-26, would-23)
+neg(returning-26, not-24)
+aux(returning-26, be-25)
+ccomp(announced-20, returning-26)
+amod(season-28, next-27)
+dobj(returning-26, season-28)
+nsubj(lost-31, Rutgers-30)
+root(ROOT-0, lost-31)
+poss(games-35, its-32)
+amod(games-35, next-33)
+num(games-35, five-34)
+dobj(lost-31, games-35)
+det(margin-40, a-37)
+amod(margin-40, combined-38)
+num(margin-40, 232-43-39)
+prep_by(games-35, margin-40)
+
+(ROOT
+  (S
+    (NP (DT The) (NN skid))
+    (VP (VBN ended)
+      (NP (JJ last) (NN week))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN victory))
+          (PP (IN over)
+            (NP (JJ winless) (NNP Navy))))))
+    (. .)))
+
+det(skid-2, The-1)
+nsubj(ended-3, skid-2)
+root(ROOT-0, ended-3)
+amod(week-5, last-4)
+tmod(ended-3, week-5)
+det(victory-8, a-7)
+prep_with(ended-3, victory-8)
+amod(Navy-11, winless-10)
+prep_over(victory-8, Navy-11)
+
+(ROOT
+  (S
+    (NP (NNP Shea))
+    (VP (VBD replaced)
+      (NP (DT the) (JJ fired) (NNP Doug) (NNP Graber))
+      (PP (IN in)
+        (NP (CD 1996)))
+      (PP (IN with)
+        (NP
+          (NP (NNS hopes))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (NN building))
+                (NP
+                  (NP (DT a) (NN program))
+                  (PP (IN with)
+                    (NP (DT a) (NNP Bill) (NNP Walsh) (FW -type) (NNP West) (NNP Coast)))))
+              (NN offense))))))
+    (. .)))
+
+nsubj(replaced-2, Shea-1)
+root(ROOT-0, replaced-2)
+det(Graber-6, the-3)
+amod(Graber-6, fired-4)
+nn(Graber-6, Doug-5)
+dobj(replaced-2, Graber-6)
+prep_in(replaced-2, 1996-8)
+prep_with(replaced-2, hopes-10)
+nn(offense-22, building-12)
+det(program-14, a-13)
+dep(building-12, program-14)
+det(Coast-21, a-16)
+nn(Coast-21, Bill-17)
+nn(Coast-21, Walsh-18)
+nn(Coast-21, -type-19)
+nn(Coast-21, West-20)
+prep_with(program-14, Coast-21)
+prep_of(hopes-10, offense-22)
+
+(ROOT
+  (S
+    (NP (NNP Shea))
+    (ADVP (RB never))
+    (VP (VBD got)
+      (NP (DT the) (NN talent)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (S
+                (NP (PRP it))
+                (ADJP (NN happen))))))))
+    (. .)))
+
+nsubj(got-3, Shea-1)
+neg(got-3, never-2)
+root(ROOT-0, got-3)
+det(talent-5, the-4)
+dobj(got-3, talent-5)
+aux(make-7, to-6)
+vmod(talent-5, make-7)
+nsubj(happen-9, it-8)
+xcomp(make-7, happen-9)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD posted)
+      (NP
+        (NP
+          (NP (NNS records))
+          (PP (IN of)
+            (NP (CD 2-9))))
+        (, ,))
+      (NP (CD 0-11) (, ,) (CD 5-6)
+        (CC and)
+        (CD 1-10)))
+    (. .)))
+
+nsubj(posted-2, He-1)
+root(ROOT-0, posted-2)
+iobj(posted-2, records-3)
+prep_of(records-3, 2-9-5)
+dobj(posted-2, 0-11-7)
+num(0-11-7, 5-6-9)
+dobj(posted-2, 1-10-11)
+conj_and(0-11-7, 1-10-11)
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ His) (CD five) (NNS wins))
+      (PP (IN in)
+        (NP
+          (NP (CD 1998))
+          (PP (IN after)
+            (S
+              (VP (VBG going)
+                (ADJP (JJ winless))
+                (NP (DT the) (NN year))
+                (PP (IN before))))))))
+    (VP (VBD were)
+      (ADJP (JJ enough)
+        (S
+          (VP (TO to)
+            (VP (VB earn)
+              (NP (PRP him))
+              (NP
+                (NP (NNP Big) (NNP East) (NNP Coach))
+                (PP (IN of)
+                  (NP (DT the) (NNP Year)))))))))
+    (. .)))
+
+poss(wins-3, His-1)
+num(wins-3, five-2)
+nsubj(enough-13, wins-3)
+xsubj(earn-15, wins-3)
+prep_in(wins-3, 1998-5)
+prepc_after(1998-5, going-7)
+acomp(going-7, winless-8)
+det(year-10, the-9)
+tmod(going-7, year-10)
+prep(going-7, before-11)
+cop(enough-13, were-12)
+root(ROOT-0, enough-13)
+aux(earn-15, to-14)
+xcomp(enough-13, earn-15)
+iobj(earn-15, him-16)
+nn(Coach-19, Big-17)
+nn(Coach-19, East-18)
+dobj(earn-15, Coach-19)
+det(Year-22, the-21)
+prep_of(Coach-19, Year-22)
+
+(ROOT
+  (S
+    (NP (NNS Rutgers))
+    (VP (VBD was)
+      (NP (CD 4-29))
+      (PP (IN in)
+        (S
+          (NP (NNP Big) (NNP East))
+          (VP (VB play)
+            (PP (IN during)
+              (NP
+                (NP (NNP Shea) (POS 's))
+                (NN tenure))))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (CD 1-16))
+          (PP (IN in)
+            (NP (NN league) (NN road) (NNS games))))))
+    (. .)))
+
+nsubj(4-29-3, Rutgers-1)
+cop(4-29-3, was-2)
+root(ROOT-0, 4-29-3)
+nn(East-6, Big-5)
+nsubj(play-7, East-6)
+prepc_in(4-29-3, play-7)
+poss(tenure-11, Shea-9)
+prep_during(play-7, tenure-11)
+prep_including(4-29-3, 1-16-14)
+nn(games-18, league-16)
+nn(games-18, road-17)
+prep_in(1-16-14, games-18)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Scarlet) (NNPS Knights))
+    (VP (VBD gave)
+      (PRT (RP up))
+      (NP
+        (NP
+          (QP (CD 40)
+            (CC or)
+            (JJR more))
+          (NNS points))
+        (PP (IN in)
+          (NP (CD 23) (NNS games))))
+      (PP (IN under)
+        (NP (NNP Shea))))
+    (. .)))
+
+det(Knights-3, The-1)
+nn(Knights-3, Scarlet-2)
+nsubj(gave-4, Knights-3)
+root(ROOT-0, gave-4)
+prt(gave-4, up-5)
+num(points-9, 40-6)
+conj_or(40-6, more-8)
+num(points-9, more-8)
+dobj(gave-4, points-9)
+num(games-12, 23-11)
+prep_in(points-9, games-12)
+prep_under(gave-4, Shea-14)
+
+(ROOT
+  (S
+    (NP (NNP Shea))
+    (VP (VBZ has)
+      (NP
+        (NP (CD one) (NN year))
+        (VP (VBG remaining)
+          (PP (IN on)
+            (NP
+              (NP (PRP$ his) (NN contract))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ has)
+                    (NP
+                      (NP (DT a) (JJ base) (NN salary))
+                      (PP (IN of)
+                        (NP (CD $160,000))))))))))))
+    (. .)))
+
+nsubj(has-2, Shea-1)
+root(ROOT-0, has-2)
+num(year-4, one-3)
+dobj(has-2, year-4)
+vmod(year-4, remaining-5)
+poss(contract-8, his-7)
+prep_on(remaining-5, contract-8)
+nsubj(has-11, contract-8)
+rcmod(contract-8, has-11)
+det(salary-14, a-12)
+amod(salary-14, base-13)
+dobj(has-11, salary-14)
+prep_of(salary-14, $160,000-16)
+
+(ROOT
+  (S
+    (NP (NNS Rutgers))
+    (ADVP (RB reportedly))
+    (VP (VBD had)
+      (VP (VBN started)
+        (S
+          (VP (VBG compiling)
+            (NP
+              (NP (DT a) (JJ short) (NN list))
+              (PP (IN of)
+                (NP (NNS candidates))))
+            (S
+              (VP (TO to)
+                (VP (VB replace)
+                  (NP (NNP Shea)))))))))
+    (. .)))
+
+nsubj(started-4, Rutgers-1)
+advmod(started-4, reportedly-2)
+aux(started-4, had-3)
+root(ROOT-0, started-4)
+xcomp(started-4, compiling-5)
+det(list-8, a-6)
+amod(list-8, short-7)
+dobj(compiling-5, list-8)
+prep_of(list-8, candidates-10)
+aux(replace-12, to-11)
+vmod(compiling-5, replace-12)
+dobj(replace-12, Shea-13)
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ includes)
+      (ADVP (RB head))
+      (NP
+        (NP
+          (NP (NNS coaches))
+          (NP
+            (NP (JJ Gary) (NNP Darnell))
+            (PP (IN of)
+              (NP (NNP Western) (NNP Michigan)))))
+        (, ,)
+        (NP
+          (NP (NNP Gary) (NNP Pinkel))
+          (PP (IN of)
+            (NP (NNP Toledo))))
+        (CC and)
+        (NP
+          (NP (CD two) (NNS coordinators))
+          (PP (IN _)
+            (NP
+              (NP (NNP Miami) (JJ defensive) (NN coordinator) (NNP Greg) (NNP Schiano))
+              (CC and)
+              (NP
+                (NP (NNP Notre) (NNP Dame) (JJ offensive) (NN coordinator))
+                (NP (NNP Kevin) (NNPS Rogers))))))))
+    (. .)))
+
+nsubj(includes-2, It-1)
+root(ROOT-0, includes-2)
+advmod(includes-2, head-3)
+dobj(includes-2, coaches-4)
+amod(Darnell-6, Gary-5)
+dep(coaches-4, Darnell-6)
+nn(Michigan-9, Western-8)
+prep_of(Darnell-6, Michigan-9)
+nn(Pinkel-12, Gary-11)
+dobj(includes-2, Pinkel-12)
+conj_and(coaches-4, Pinkel-12)
+prep_of(Pinkel-12, Toledo-14)
+num(coordinators-17, two-16)
+dobj(includes-2, coordinators-17)
+conj_and(coaches-4, coordinators-17)
+nn(Schiano-23, Miami-19)
+amod(Schiano-23, defensive-20)
+nn(Schiano-23, coordinator-21)
+nn(Schiano-23, Greg-22)
+prep__(coordinators-17, Schiano-23)
+nn(coordinator-28, Notre-25)
+nn(coordinator-28, Dame-26)
+amod(coordinator-28, offensive-27)
+prep__(coordinators-17, coordinator-28)
+conj_and(Schiano-23, coordinator-28)
+nn(Rogers-30, Kevin-29)
+dep(coordinator-28, Rogers-30)
+

@@ -1,0 +1,1179 @@
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001024.2203.0349) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-10-24) (CD 22:13:10))))
+
+nn(STORY-3, NYT20001024.2203.0349-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(22:13:10-5, 2000-10-24-4)
+dep(STORY-3, 22:13:10-5)
+
+(ROOT
+  (NP
+    (NP (CD A5057) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NNP taf-z) (NNP u) (NNP f) (NNP BC-COMPAQ-EARNINGS-NYT) (NNP &LR))
+      (: ;)
+      (NP
+        (QP (CD 10-24) (CD 0537))))))
+
+num(&Cx1f-2, A5057-1)
+root(ROOT-0, &Cx1f-2)
+nn(&LR-8, taf-z-4)
+nn(&LR-8, u-5)
+nn(&LR-8, f-6)
+nn(&LR-8, BC-COMPAQ-EARNINGS-NYT-7)
+dep(&Cx1f-2, &LR-8)
+number(0537-11, 10-24-10)
+dep(&LR-8, 0537-11)
+
+(ROOT
+  (NP (NNP BC-COMPAQ-EARNINGS-NYT)))
+
+root(ROOT-0, BC-COMPAQ-EARNINGS-NYT-1)
+
+(ROOT
+  (NP (NNP COMPAQ) (NNP BEATS) (NNP PROFIT) (NNP AND) (NNP SALES) (. FORECASTS)))
+
+nn(SALES-5, COMPAQ-1)
+nn(SALES-5, BEATS-2)
+nn(SALES-5, PROFIT-3)
+nn(SALES-5, AND-4)
+root(ROOT-0, SALES-5)
+punct(SALES-5, FORECASTS-6)
+
+(ROOT
+  (NP
+    (NP (NNS &UR))
+    (: ;)
+    (PP (NNP By)
+      (NP (NNP BARNABY) (NNP J)))
+    (. .)))
+
+root(ROOT-0, &UR-1)
+prep(&UR-1, By-3)
+nn(J-5, BARNABY-4)
+dep(By-3, J-5)
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP FEDER) (NNP &LR))
+      (: ;)
+      (NP (NNP &QC)))
+    (: ;)
+    (NP
+      (NP (NNS &QL))
+      (: ;)
+      (NP (NNS &UR)))
+    (: ;)
+    (NP
+      (NP (CD c.2000))
+      (NP (NNP N.Y)))
+    (. .)))
+
+nn(&LR-2, FEDER-1)
+root(ROOT-0, &LR-2)
+dep(&LR-2, &QC-4)
+dep(&LR-2, &QL-6)
+dep(&QL-6, &UR-8)
+dep(&LR-2, c.2000-10)
+appos(c.2000-10, N.Y-11)
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
+    (PRN (: ;)
+      (NP
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&LR-4, Times-1)
+nn(&LR-4, News-2)
+nn(&LR-4, Service-3)
+root(ROOT-0, &LR-4)
+dep(&LR-4, &QC-6)
+dep(&QC-6, &QL-8)
+
+(ROOT
+  (S
+    (NP (NNP Compaq) (NNP Computer))
+    (VP (VBD reported)
+      (NP (NNS earnings)
+        (CC and)
+        (NNS sales))
+      (PP (IN that)
+        (NP
+          (NP (NN beat) (NNP Wall) (NNP Street) (POS 's))
+          (NNS expectations)))
+      (NP (NNP Tuesday))
+      (, ,)
+      (S
+        (VP (VBG bolstering)
+          (NP (NNS arguments))
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN company))
+              (VP (VBZ is)
+                (VP (VBG rebounding)
+                  (PP (IN from)
+                    (NP
+                      (NP (NNS problems))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBD had)
+                            (VP (VBN hurt)
+                              (NP (PRP$ its) (NN performance)))))))
+                    (NP (DT the) (JJ last) (CD two) (NNS years))))))))))
+    (. .)))
+
+nn(Computer-2, Compaq-1)
+nsubj(reported-3, Computer-2)
+root(ROOT-0, reported-3)
+dobj(reported-3, earnings-4)
+dobj(reported-3, sales-6)
+conj_and(earnings-4, sales-6)
+nn(Street-10, beat-8)
+nn(Street-10, Wall-9)
+poss(expectations-12, Street-10)
+prep_that(reported-3, expectations-12)
+tmod(reported-3, Tuesday-13)
+vmod(reported-3, bolstering-15)
+dobj(bolstering-15, arguments-16)
+mark(rebounding-21, that-17)
+det(company-19, the-18)
+nsubj(rebounding-21, company-19)
+aux(rebounding-21, is-20)
+ccomp(bolstering-15, rebounding-21)
+prep_from(rebounding-21, problems-23)
+nsubj(hurt-26, problems-23)
+aux(hurt-26, had-25)
+rcmod(problems-23, hurt-26)
+poss(performance-28, its-27)
+dobj(hurt-26, performance-28)
+det(years-32, the-29)
+amod(years-32, last-30)
+num(years-32, two-31)
+tmod(rebounding-21, years-32)
+
+(ROOT
+  (S
+    (NP (NNP Compaq))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD netted)
+            (NP
+              (NP
+                (QP (CD $550) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP (CD 31) (NNS cents))
+                (NP (DT a) (JJ diluted) (NN share)))
+              (, ,))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN quarter))
+                (VP (VBN ended)
+                  (NP (NNP Sept)))))))))
+    (. .)))
+
+nsubj(said-2, Compaq-1)
+root(ROOT-0, said-2)
+nsubj(netted-4, it-3)
+ccomp(said-2, netted-4)
+number(million-6, $550-5)
+dobj(netted-4, million-6)
+num(cents-10, 31-9)
+dobj(netted-4, cents-10)
+conj_or(million-6, cents-10)
+det(share-13, a-11)
+amod(share-13, diluted-12)
+dep(cents-10, share-13)
+det(quarter-17, the-16)
+prep_in(netted-4, quarter-17)
+vmod(quarter-17, ended-18)
+dobj(ended-18, Sept-19)
+
+(ROOT
+  (NP
+    (NP (CD 30))
+    (, ,)
+    (NP
+      (NP (DT a) (NN leap))
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (CD 23) (NNS cents))
+            (NP (DT a) (NN share)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 288))
+            (ADJP (JJ percent))))))
+    (, ,)
+    (PP (IN from)
+      (NP
+        (NP (DT the) (JJ similar) (NN period))
+        (PP (IN in)
+          (NP (CD 1999)))))
+    (. .)))
+
+root(ROOT-0, 30-1)
+det(leap-4, a-3)
+appos(30-1, leap-4)
+num(cents-7, 23-6)
+prep_of(leap-4, cents-7)
+det(share-9, a-8)
+dep(cents-7, share-9)
+prep_of(leap-4, 288-12)
+conj_or(cents-7, 288-12)
+amod(288-12, percent-13)
+det(period-18, the-16)
+amod(period-18, similar-17)
+prep_from(30-1, period-18)
+prep_in(period-18, 1999-20)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT About)
+          (QP (CD $25) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP (DT a) (JJ penny))
+          (NP (DT a) (NN share)))
+        (, ,))
+      (VP (VBD came)
+        (PP (IN from)
+          (NP
+            (NP (NN investment) (NN income))
+            (CONJP (RB rather) (IN than))
+            (NP (NNS operations))))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN after)
+        (S
+          (VP (VBG discounting)
+            (NP (DT that) (NN boost)))))
+      (, ,)
+      (NP (NNP Compaq))
+      (ADVP (RB still))
+      (VP (VBD beat)
+        (NP
+          (NP (DT the) (NN average))
+          (PP (IN of)
+            (NP
+              (NP (NNS analysts) (POS '))
+              (NNS projections))))
+        (PP (IN by)
+          (NP
+            (NP (DT a) (JJ penny))
+            (NP (DT a) (NN share))))))
+    (. .)))
+
+det(million-3, About-1)
+number(million-3, $25-2)
+nsubj(came-11, million-3)
+det(penny-7, a-6)
+conj_or(million-3, penny-7)
+nsubj(came-11, penny-7)
+det(share-9, a-8)
+dep(penny-7, share-9)
+root(ROOT-0, came-11)
+nn(income-14, investment-13)
+prep_from(came-11, income-14)
+prep_from(came-11, operations-17)
+conj_negcc(income-14, operations-17)
+prepc_after(beat-27, discounting-21)
+det(boost-23, that-22)
+dobj(discounting-21, boost-23)
+nsubj(beat-27, Compaq-25)
+advmod(beat-27, still-26)
+conj_but(came-11, beat-27)
+det(average-29, the-28)
+dobj(beat-27, average-29)
+poss(projections-33, analysts-31)
+prep_of(average-29, projections-33)
+det(penny-36, a-35)
+prep_by(beat-27, penny-36)
+det(share-38, a-37)
+dep(penny-36, share-38)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Compaq))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (VP (VBN based)
+              (PP (IN in)
+                (NP (NNP Houston)))))))
+      (, ,))
+    (VP (VBD reported)
+      (NP
+        (NP (JJ worldwide) (NN revenue))
+        (PP (IN of)
+          (NP
+            (QP (CD $11.2) (CD billion)))))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN quarter))
+          (, ,)
+          (NP
+            (NP (DT an) (NN increase))
+            (PP (IN of)
+              (NP
+                (NP (CD 22) (NN percent))
+                (PP (IN over)
+                  (NP
+                    (NP (DT the) (JJ previous) (NN year) (POS 's))
+                    (NN period)))))))))
+    (. .)))
+
+nsubjpass(based-5, Compaq-1)
+nsubj(reported-9, Compaq-1)
+auxpass(based-5, is-4)
+rcmod(Compaq-1, based-5)
+prep_in(based-5, Houston-7)
+root(ROOT-0, reported-9)
+amod(revenue-11, worldwide-10)
+dobj(reported-9, revenue-11)
+number(billion-14, $11.2-13)
+prep_of(revenue-11, billion-14)
+det(quarter-17, the-16)
+prep_for(reported-9, quarter-17)
+det(increase-20, an-19)
+appos(quarter-17, increase-20)
+num(percent-23, 22-22)
+prep_of(increase-20, percent-23)
+det(year-27, the-25)
+amod(year-27, previous-26)
+poss(period-29, year-27)
+prep_over(percent-23, period-29)
+
+(ROOT
+  (S
+    (NP (NNP Compaq))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (NNS revenues))
+          (VP (MD would)
+            (VP (VB have)
+              (VP (VBN grown)
+                (NP (CD 26))
+                (NP
+                  (NP
+                    (ADJP (JJ percent)
+                      (PP (CC but)
+                        (PP (IN for)
+                          (NP
+                            (NP
+                              (NP (DT the) (NN strength))
+                              (PP (IN of)
+                                (NP (DT the) (NN dollar))))
+                            (, ,)
+                            (SBAR
+                              (WHNP (WDT which))
+                              (S
+                                (ADJP (JJ reduced))))))))
+                    (DT the) (NN value))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ overseas) (NNS sales))
+                      (PP (VBN compared)
+                        (PP (IN with)
+                          (ADVP
+                            (NP (DT a) (NN year))
+                            (RB ago)))))))))))))
+    (. .)))
+
+nsubj(said-2, Compaq-1)
+root(ROOT-0, said-2)
+mark(grown-7, that-3)
+nsubj(grown-7, revenues-4)
+aux(grown-7, would-5)
+aux(grown-7, have-6)
+ccomp(said-2, grown-7)
+iobj(grown-7, 26-8)
+amod(value-21, percent-9)
+cc(percent-9, but-10)
+det(strength-13, the-12)
+prep_for(percent-9, strength-13)
+dep(reduced-19, strength-13)
+det(dollar-16, the-15)
+prep_of(strength-13, dollar-16)
+rcmod(strength-13, reduced-19)
+det(value-21, the-20)
+dobj(grown-7, value-21)
+amod(sales-24, overseas-23)
+prep_of(value-21, sales-24)
+prepc_compared_with(sales-24, with-26)
+det(year-28, a-27)
+npadvmod(ago-29, year-28)
+pcomp(sales-24, ago-29)
+
+(ROOT
+  (S
+    (NP (PRP$ ``Our) (NNS results))
+    (ADVP (RB clearly))
+    (VP (VBP demonstrate)
+      (SBAR
+        (S
+          (NP
+            (NP (PRP$ our) (NN tremendous) (NN momentum))
+            (PP (IN in)
+              (NP (DT the) (NN marketplace) (NN ,''))))
+          (VP (VBD said)
+            (NP
+              (NP (NNP Michael) (NNP Capellas))
+              (, ,)
+              (NP (NN chairman))
+              (CC and)
+              (NP (JJ chief) (NN executive)))))))
+    (. .)))
+
+poss(results-2, ``Our-1)
+nsubj(demonstrate-4, results-2)
+advmod(demonstrate-4, clearly-3)
+root(ROOT-0, demonstrate-4)
+poss(momentum-7, our-5)
+nn(momentum-7, tremendous-6)
+nsubj(said-12, momentum-7)
+det(,''-11, the-9)
+nn(,''-11, marketplace-10)
+prep_in(momentum-7, ,''-11)
+ccomp(demonstrate-4, said-12)
+nn(Capellas-14, Michael-13)
+dobj(said-12, Capellas-14)
+dobj(said-12, chairman-16)
+conj_and(Capellas-14, chairman-16)
+amod(executive-19, chief-18)
+dobj(said-12, executive-19)
+conj_and(Capellas-14, executive-19)
+
+(ROOT
+  (S
+    (NP (PRP ``We))
+    (VP (VBP 're)
+      (PP (IN on)
+        (NP
+          (NP (DT a) (NN bit))
+          (PP (IN of)
+            (NP (DT a) (NN roll))))))
+    (. .'')))
+
+nsubj('re-2, ``We-1)
+root(ROOT-0, 're-2)
+det(bit-5, a-4)
+prep_on('re-2, bit-5)
+det(roll-8, a-7)
+prep_of(bit-5, roll-8)
+punct('re-2, .''-9)
+
+(ROOT
+  (S
+    (NP (NNP Capellas))
+    (VP (VBD noted)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ strong) (NN growth))
+          (VP (VBD had)
+            (VP (VBN come)
+              (PP (IN from)
+                (NP
+                  (NP (JJ every) (NN region))
+                  (PP (IN of)
+                    (NP (DT the) (NN world))))))))))
+    (. .)))
+
+nsubj(noted-2, Capellas-1)
+root(ROOT-0, noted-2)
+mark(come-8, that-3)
+det(growth-6, the-4)
+amod(growth-6, strong-5)
+nsubj(come-8, growth-6)
+aux(come-8, had-7)
+ccomp(noted-2, come-8)
+amod(region-11, every-10)
+prep_from(come-8, region-11)
+det(world-14, the-13)
+prep_of(region-11, world-14)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB also))
+    (VP (VBD expressed)
+      (NP (NN confidence))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Compaq))
+          (VP (MD would)
+            (VP (VB meet)
+              (NP
+                (NP (PRP$ its) (JJ previous) (NNS projections))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (CD 18) (JJ percent) (NN revenue) (NN growth))
+                      (PP (IN in)
+                        (NP (DT the) (JJ current) (NN quarter))))
+                    (CC and)
+                    (NP
+                      (NP (CD 40) (JJ percent) (NNS earnings))
+                      (NP (NN growth))))))
+              (PP (IN in)
+                (NP (CD 2001))))))))
+    (. .)))
+
+nsubj(expressed-3, He-1)
+advmod(expressed-3, also-2)
+root(ROOT-0, expressed-3)
+dobj(expressed-3, confidence-4)
+mark(meet-8, that-5)
+nsubj(meet-8, Compaq-6)
+aux(meet-8, would-7)
+ccomp(expressed-3, meet-8)
+poss(projections-11, its-9)
+amod(projections-11, previous-10)
+dobj(meet-8, projections-11)
+num(growth-16, 18-13)
+amod(growth-16, percent-14)
+nn(growth-16, revenue-15)
+prep_of(projections-11, growth-16)
+det(quarter-20, the-18)
+amod(quarter-20, current-19)
+prep_in(growth-16, quarter-20)
+num(earnings-24, 40-22)
+amod(earnings-24, percent-23)
+prep_of(projections-11, earnings-24)
+conj_and(growth-16, earnings-24)
+dep(earnings-24, growth-25)
+prep_in(meet-8, 2001-27)
+
+(ROOT
+  (S
+    (NP (NNS Analysts))
+    (VP (VBD were)
+      (VP
+        (VP (VBN pleased))
+        (, ,)
+        (CONJP (IN if) (RB not))
+        (VP
+          (ADVP (RB completely))
+          (VBN persuaded) (, ,)
+          (PP (IN by)
+            (NP (DT the) (JJ positive) (NN report))))))
+    (. .)))
+
+nsubj(pleased-3, Analysts-1)
+nsubj(persuaded-8, Analysts-1)
+aux(pleased-3, were-2)
+root(ROOT-0, pleased-3)
+advmod(persuaded-8, completely-7)
+conj_negcc(pleased-3, persuaded-8)
+det(report-13, the-11)
+amod(report-13, positive-12)
+prep_by(persuaded-8, report-13)
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB While))
+      (NP (NNP Compaq))
+      (VP (VBD reported)
+        (NP (JJ strong) (JJ overall) (NN growth))
+        (PP (IN in)
+          (NP (PRP$ its) (NN server) (NN business)))))
+    (, ,)
+    (NP (JJ several) (NNS observers))
+    (VP (VBD noted)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the)
+              (ADJP (CD 5) (JJ percent))
+              (NN growth))
+            (PP (IN in)
+              (NP (DT the) (NNP Unix) (NN server) (NN segment))))
+          (VP (VBD was)
+            (ADVP (RB well))
+            (PP (IN below)
+              (NP (DT the) (NN industry) (NN average)))))))
+    (. .)))
+
+advmod(reported-3, While-1)
+nsubj(reported-3, Compaq-2)
+ccomp(noted-14, reported-3)
+amod(growth-6, strong-4)
+amod(growth-6, overall-5)
+dobj(reported-3, growth-6)
+poss(business-10, its-8)
+nn(business-10, server-9)
+prep_in(reported-3, business-10)
+amod(observers-13, several-12)
+nsubj(noted-14, observers-13)
+root(ROOT-0, noted-14)
+mark(was-25, that-15)
+det(growth-19, the-16)
+number(percent-18, 5-17)
+amod(growth-19, percent-18)
+nsubj(was-25, growth-19)
+det(segment-24, the-21)
+nn(segment-24, Unix-22)
+nn(segment-24, server-23)
+prep_in(growth-19, segment-24)
+ccomp(noted-14, was-25)
+advmod(was-25, well-26)
+det(average-30, the-28)
+nn(average-30, industry-29)
+prep_below(was-25, average-30)
+
+(ROOT
+  (S
+    (ADVP (RB Similarly))
+    (, ,)
+    (NP
+      (NP (DT the)
+        (ADJP (CD 9) (JJ percent))
+        (NN growth))
+      (PP (IN in)
+        (NP (DT the) (NN data) (NN storage) (NN business))))
+    (VP
+      (VP (VBD was)
+        (NP
+          (NP (DT an) (NN improvement))
+          (PP (IN on)
+            (NP (JJ past) (NNS quarters)))))
+      (, ,)
+      (CC but)
+      (VP (VB below)
+        (NP
+          (NP (DT the) (NN growth) (NN rate))
+          (PP (IN of)
+            (NP (NNS competitors))))
+        (, ,)
+        (PP (IN like)
+          (NP (NNP EMC)))))
+    (. .)))
+
+advmod(improvement-14, Similarly-1)
+det(growth-6, the-3)
+number(percent-5, 9-4)
+amod(growth-6, percent-5)
+nsubj(improvement-14, growth-6)
+nsubj(below-20, growth-6)
+det(business-11, the-8)
+nn(business-11, data-9)
+nn(business-11, storage-10)
+prep_in(growth-6, business-11)
+cop(improvement-14, was-12)
+det(improvement-14, an-13)
+root(ROOT-0, improvement-14)
+amod(quarters-17, past-16)
+prep_on(improvement-14, quarters-17)
+conj_but(improvement-14, below-20)
+det(rate-23, the-21)
+nn(rate-23, growth-22)
+dobj(below-20, rate-23)
+prep_of(rate-23, competitors-25)
+prep_like(below-20, EMC-28)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Compaq))
+      (VP (VBZ is)
+        (NP
+          (NP
+            (NP (DT the) (NN world) (POS 's))
+            (JJ leading) (NN maker))
+          (PP (IN of)
+            (NP (JJ personal) (NNS computers))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP$ its) (NNP PC) (NN business))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (JJR stronger))
+          (SBAR (IN than)
+            (S
+              (NP (JJ many) (NNS analysts))
+              (VP (VBD had)
+                (VP (VBN projected))))))))
+    (. .)))
+
+nsubj(maker-7, Compaq-1)
+cop(maker-7, is-2)
+det(world-4, the-3)
+poss(maker-7, world-4)
+amod(maker-7, leading-6)
+root(ROOT-0, maker-7)
+amod(computers-10, personal-9)
+prep_of(maker-7, computers-10)
+poss(business-15, its-13)
+nn(business-15, PC-14)
+nsubj(stronger-17, business-15)
+cop(stronger-17, was-16)
+conj_and(maker-7, stronger-17)
+mark(projected-22, than-18)
+amod(analysts-20, many-19)
+nsubj(projected-22, analysts-20)
+aux(projected-22, had-21)
+ccomp(stronger-17, projected-22)
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ commercial) (NNP PC) (NN unit))
+      (VP (VBD had)
+        (NP
+          (NP (NNS revenues))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP (CD $3.5) (CD billion)))
+              (, ,)
+              (ADVP (RB up)
+                (NP (CD 28) (NN percent))
+                (PP (IN from)
+                  (ADVP
+                    (NP (DT a) (NN year))
+                    (RB ago)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP$ its) (NN operating) (NN income))
+      (VP (VBD was)
+        (NP
+          (QP (CD $133) (CD million)))
+        (, ,)
+        (PP (VBN compared)
+          (PP (IN with)
+            (NP
+              (NP (DT a) (NN loss))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (QP (CD $169) (CD million)))
+                  (ADVP
+                    (NP (DT a) (NN year))
+                    (RB ago)))))))))
+    (. .)))
+
+det(unit-4, The-1)
+amod(unit-4, commercial-2)
+nn(unit-4, PC-3)
+nsubj(had-5, unit-4)
+root(ROOT-0, had-5)
+dobj(had-5, revenues-6)
+number(billion-9, $3.5-8)
+prep_of(revenues-6, billion-9)
+advmod(billion-9, up-11)
+num(percent-13, 28-12)
+pobj(up-11, percent-13)
+prep(up-11, from-14)
+det(year-16, a-15)
+npadvmod(ago-17, year-16)
+pcomp(from-14, ago-17)
+poss(income-22, its-20)
+nn(income-22, operating-21)
+nsubj(million-25, income-22)
+cop(million-25, was-23)
+number(million-25, $133-24)
+conj_and(had-5, million-25)
+prepc_compared_with(million-25, with-28)
+det(loss-30, a-29)
+pobj(million-25, loss-30)
+number(million-33, $169-32)
+prep_of(loss-30, million-33)
+det(year-35, a-34)
+npadvmod(ago-36, year-35)
+advmod(million-33, ago-36)
+
+(ROOT
+  (S
+    (NP (DT The) (NN consumer) (NNP PC) (NN unit))
+    (VP (VBD had)
+      (NP
+        (NP (NN revenue))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP (CD $2.1) (CD billion)))
+            (, ,)
+            (NP
+              (NP (DT an) (NN increase))
+              (PP (IN of)
+                (NP (CD 45) (NN percent)))))))
+      (PP (IN over)
+        (NP (DT the) (JJ year-ago) (NN period)))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP
+            (NP (DT a) (NN softening) (NN market))
+            (CC and)
+            (NP (VBG pricing) (NNS pressures)))
+          (VP (VBD cut)
+            (NP
+              (NP (VBG operating) (NN income))
+              (ADJP (CD 3) (JJ percent)))
+            (PP (TO to)
+              (NP
+                (QP (CD $63) (CD million))))))))
+    (. .)))
+
+det(unit-4, The-1)
+nn(unit-4, consumer-2)
+nn(unit-4, PC-3)
+nsubj(had-5, unit-4)
+root(ROOT-0, had-5)
+dobj(had-5, revenue-6)
+number(billion-9, $2.1-8)
+prep_of(revenue-6, billion-9)
+det(increase-12, an-11)
+appos(billion-9, increase-12)
+num(percent-15, 45-14)
+prep_of(increase-12, percent-15)
+det(period-19, the-17)
+amod(period-19, year-ago-18)
+prep_over(had-5, period-19)
+mark(cut-28, although-21)
+det(market-24, a-22)
+nn(market-24, softening-23)
+nsubj(cut-28, market-24)
+amod(pressures-27, pricing-26)
+conj_and(market-24, pressures-27)
+nsubj(cut-28, pressures-27)
+advcl(had-5, cut-28)
+amod(income-30, operating-29)
+dobj(cut-28, income-30)
+number(percent-32, 3-31)
+amod(income-30, percent-32)
+number(million-35, $63-34)
+prep_to(cut-28, million-35)
+
+(ROOT
+  (S
+    (NP (RB Perhaps) (DT the) (JJS biggest) (NN continuing) (NN weakness))
+    (VP (VBD was)
+      (PP (IN in)
+        (NP
+          (NP (NNP Compaq) (POS 's))
+          (NNS services) (NN business))))
+    (. .)))
+
+advmod(weakness-5, Perhaps-1)
+det(weakness-5, the-2)
+amod(weakness-5, biggest-3)
+nn(weakness-5, continuing-4)
+nsubj(was-6, weakness-5)
+root(ROOT-0, was-6)
+poss(business-11, Compaq-8)
+nn(business-11, services-10)
+prep_in(was-6, business-11)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Revenues))
+      (VP (VBD attributed)
+        (PP (TO to)
+          (NP
+            (NP
+              (NP (NNP Compaq) (POS 's))
+              (CD 40,000) (NNS consultants))
+            (SBAR
+              (S
+                (VP (VBD fell)
+                  (NP (CD 2) (NN percent))
+                  (, ,)
+                  (PP (TO to)
+                    (NP
+                      (QP (CD $1.7) (CD billion)))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (VBG operating) (NN income))
+      (VP (VBD dropped)
+        (NP (CD 16) (NN percent))
+        (, ,)
+        (PP (TO to)
+          (NP
+            (QP (CD $254) (CD million))))))
+    (. .)))
+
+nsubj(attributed-2, Revenues-1)
+root(ROOT-0, attributed-2)
+poss(consultants-7, Compaq-4)
+num(consultants-7, 40,000-6)
+prep_to(attributed-2, consultants-7)
+rcmod(consultants-7, fell-8)
+num(percent-10, 2-9)
+dobj(fell-8, percent-10)
+number(billion-14, $1.7-13)
+prep_to(fell-8, billion-14)
+amod(income-18, operating-17)
+nsubj(dropped-19, income-18)
+conj_and(attributed-2, dropped-19)
+num(percent-21, 16-20)
+dobj(dropped-19, percent-21)
+number(million-25, $254-24)
+prep_to(dropped-19, million-25)
+
+(ROOT
+  (S
+    (NP (NNP Capellas))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (S
+            (VP (VBG improving)
+              (NP
+                (NP (DT that) (NN group) (POS 's))
+                (NN performance))))
+          (VP (VBD was)
+            (NP (DT a) (JJ high) (NN priority))))))
+    (. .)))
+
+nsubj(said-2, Capellas-1)
+root(ROOT-0, said-2)
+mark(priority-12, that-3)
+csubj(priority-12, improving-4)
+det(group-6, that-5)
+poss(performance-8, group-6)
+dobj(improving-4, performance-8)
+cop(priority-12, was-9)
+det(priority-12, a-10)
+amod(priority-12, high-11)
+ccomp(said-2, priority-12)
+
+(ROOT
+  (S
+    (ADVP (RB Over) (RB all))
+    (, ,)
+    (ADVP (RB though))
+    (, ,)
+    (NP (NNP Compaq))
+    (VP (VBZ enthusiasts)
+      (PP (IN like)
+        (NP
+          (NP (NNP Kurtis) (NNP R.) (NNP King))
+          (, ,)
+          (NP
+            (NP (DT an) (NN analyst))
+            (PP (IN at)
+              (NP
+                (NP (NNP Banc))
+                (PP (IN of)
+                  (NP (NNP America) (NNPS Securities)))))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (NP
+                  (NP
+                    (NP (NNS rates))
+                    (NP (DT the) (NN company)))
+                  (NP (DT a) (NN ``strong)))
+                (VP (VB buy)
+                  (SBAR
+                    (S
+                      (NP (PRP ,''))
+                      (VP (VBD said)
+                        (NP
+                          (NP (DT the) (NN quarter))
+                          (VP (VBN validated)
+                            (NP (PRP$ their) (NN bullishness))))))))))))))
+    (. .)))
+
+advmod(all-2, Over-1)
+advmod(enthusiasts-7, all-2)
+advmod(enthusiasts-7, though-4)
+nsubj(enthusiasts-7, Compaq-6)
+root(ROOT-0, enthusiasts-7)
+nn(King-11, Kurtis-9)
+nn(King-11, R.-10)
+prep_like(enthusiasts-7, King-11)
+det(analyst-14, an-13)
+appos(King-11, analyst-14)
+dobj(buy-26, analyst-14)
+prep_at(analyst-14, Banc-16)
+nn(Securities-19, America-18)
+prep_of(Banc-16, Securities-19)
+nsubj(buy-26, rates-21)
+det(company-23, the-22)
+dep(rates-21, company-23)
+det(``strong-25, a-24)
+dep(rates-21, ``strong-25)
+rcmod(analyst-14, buy-26)
+nsubj(said-28, ,''-27)
+ccomp(buy-26, said-28)
+det(quarter-30, the-29)
+dobj(said-28, quarter-30)
+vmod(quarter-30, validated-31)
+poss(bullishness-33, their-32)
+dobj(validated-31, bullishness-33)
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (RB even) (NNS skeptics))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD were) (RB not)
+            (VP (VBG advising)
+              (NP (NNS clients))
+              (S
+                (VP (TO to)
+                  (VP (VB buy)
+                    (NP (DT the) (NN stock)))))
+              (, ,)
+              (PP (IN like)
+                (NP
+                  (NP (NNP Charles) (NNP R.) (NNP Wolf))
+                  (PP (IN at)
+                    (NP (NNP UBS) (NNP Warburg))))))))))
+    (, ,)
+    (VP (VBD called)
+      (NP (DT the) (NN quarter))
+      (NP (DT a) (JJ good) (NN one)))
+    (. .)))
+
+cc(called-22, And-1)
+advmod(skeptics-3, even-2)
+nsubj(advising-7, skeptics-3)
+xsubj(buy-10, skeptics-3)
+nsubj(called-22, skeptics-3)
+aux(advising-7, were-5)
+neg(advising-7, not-6)
+rcmod(skeptics-3, advising-7)
+dobj(advising-7, clients-8)
+aux(buy-10, to-9)
+xcomp(advising-7, buy-10)
+det(stock-12, the-11)
+dobj(buy-10, stock-12)
+nn(Wolf-17, Charles-15)
+nn(Wolf-17, R.-16)
+prep_like(advising-7, Wolf-17)
+nn(Warburg-20, UBS-19)
+prep_at(Wolf-17, Warburg-20)
+root(ROOT-0, called-22)
+det(quarter-24, the-23)
+iobj(called-22, quarter-24)
+det(one-27, a-25)
+amod(one-27, good-26)
+dobj(called-22, one-27)
+
+(ROOT
+  (S
+    (S
+      (NP (PRP ``They))
+      (VP (VBP 're)
+        (VP (VBG turning))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN turn) (NN isn't))
+      (VP (VBD completed)
+        (ADVP (RB yet))
+        (SBAR (, ,'')
+          (S
+            (NP (PRP Wolf))
+            (VP (VBD said))))))
+    (. .)))
+
+nsubj(turning-3, ``They-1)
+aux(turning-3, 're-2)
+root(ROOT-0, turning-3)
+det(isn't-8, the-6)
+nn(isn't-8, turn-7)
+nsubj(completed-9, isn't-8)
+conj_but(turning-3, completed-9)
+advmod(completed-9, yet-10)
+punct(said-13, ,''-11)
+nsubj(said-13, Wolf-12)
+ccomp(completed-9, said-13)
+
+(ROOT
+  (S
+    (NP (DT The) (NNS results))
+    (VP (VBD were)
+      (VP (VBN released)
+        (PP (IN after)
+          (NP
+            (NP (DT the) (NN end))
+            (PP (IN of)
+              (NP (NN trading)))))
+        (PP (IN on)
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NNP Tuesday)))))
+    (. .)))
+
+det(results-2, The-1)
+nsubjpass(released-4, results-2)
+auxpass(released-4, were-3)
+root(ROOT-0, released-4)
+det(end-7, the-6)
+prep_after(released-4, end-7)
+prep_of(end-7, trading-9)
+det(Tuesday-16, the-11)
+nn(Tuesday-16, New-12)
+nn(Tuesday-16, York-13)
+nn(Tuesday-16, Stock-14)
+nn(Tuesday-16, Exchange-15)
+prep_on(released-4, Tuesday-16)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Compaq) (POS 's))
+      (NNS shares))
+    (VP (VBD closed)
+      (ADVP (RB up)
+        (NP (CD 70) (NNS cents)))
+      (, ,)
+      (S
+        (VP (TO to)
+          (VP (VB $28.40))))
+      (, ,)
+      (PP (IN on)
+        (NP (DT the) (NNP Big) (NNP Board))))
+    (. .)))
+
+poss(shares-3, Compaq-1)
+nsubj(closed-4, shares-3)
+xsubj($28.40-10, shares-3)
+root(ROOT-0, closed-4)
+advmod(closed-4, up-5)
+num(cents-7, 70-6)
+pobj(up-5, cents-7)
+aux($28.40-10, to-9)
+xcomp(closed-4, $28.40-10)
+det(Board-15, the-13)
+nn(Board-15, Big-14)
+prep_on(closed-4, Board-15)
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-10-24-00) (CD 2213EDT))))
+
+num(2213EDT-2, NYT-10-24-00-1)
+root(ROOT-0, 2213EDT-2)
+
