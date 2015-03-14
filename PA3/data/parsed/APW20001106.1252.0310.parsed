@@ -1,0 +1,1149 @@
+APW20001106.1252.0310/DT NEWS/NNP STORY/NNPS 2000-11-06/CD 13:40:39/CD
+
+(ROOT
+  (NP
+    (NP (DT APW20001106.1252.0310))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-11-06) (CD 13:40:39))))
+
+root(ROOT-0, APW20001106.1252.0310-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001106.1252.0310-1, STORY-3)
+num(13:40:39-5, 2000-11-06-4)
+dep(APW20001106.1252.0310-1, 13:40:39-5)
+
+British-Airways-Sale/JJ
+
+(ROOT
+  (ADJP (JJ British-Airways-Sale)))
+
+root(ROOT-0, British-Airways-Sale-1)
+
+British/JJ Airways/NNS To/TO Sell/NNP Go/NNP Division/NNP
+
+(ROOT
+  (NP
+    (NP (JJ British) (NNS Airways))
+    (PP (TO To)
+      (NP (NNP Sell) (NNP Go) (NNP Division)))))
+
+amod(Airways-2, British-1)
+root(ROOT-0, Airways-2)
+nn(Division-6, Sell-4)
+nn(Division-6, Go-5)
+prep_to(Airways-2, Division-6)
+
+LONDON/NNP [AP/NNP ]/, _/DT British/JJ Airways/NNS PLC/NNP plans/VBZ to/TO sell/VB Go/NNP ,/, its/PRP$ profitable/JJ cut-price/NN subsidiary/NN launched/VBD two/CD years/NNS ago/RB ,/, the/DT company/NN said/VBD Monday/NNP ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP LONDON) (NNP [AP))
+        (PP (, ])
+          (NP
+            (NP (DT _) (JJ British) (NNS Airways))
+            (SBAR
+              (S
+                (NP (NNP PLC))
+                (VP (VBZ plans)
+                  (S
+                    (VP (TO to)
+                      (VP (VB sell)
+                        (NP
+                          (NP (NNP Go))
+                          (, ,)
+                          (NP (PRP$ its)
+                            (ADJP (JJ profitable) (NN cut-price))
+                            (NN subsidiary))))))))))))
+      (VP (VBD launched)
+        (ADVP
+          (NP (CD two) (NNS years))
+          (RB ago))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said)
+      (NP (NNP Monday)))
+    (. .)))
+
+nn([AP-2, LONDON-1)
+nsubj(launched-17, [AP-2)
+punct(Airways-6, ]-3)
+det(Airways-6, _-4)
+amod(Airways-6, British-5)
+prep([AP-2, Airways-6)
+nsubj(plans-8, PLC-7)
+nsubj(sell-10, PLC-7)
+rcmod(Airways-6, plans-8)
+aux(sell-10, to-9)
+xcomp(plans-8, sell-10)
+dobj(sell-10, Go-11)
+poss(subsidiary-16, its-13)
+dep(cut-price-15, profitable-14)
+amod(subsidiary-16, cut-price-15)
+appos(Go-11, subsidiary-16)
+ccomp(said-24, launched-17)
+num(years-19, two-18)
+npadvmod(ago-20, years-19)
+advmod(launched-17, ago-20)
+det(company-23, the-22)
+nsubj(said-24, company-23)
+root(ROOT-0, said-24)
+tmod(said-24, Monday-25)
+
+BA/NNP announced/VBD the/DT sale/NN as/IN it/PRP reported/VBD 160/CD percent/JJ growth/NN in/IN its/PRP$ second-quarter/JJ pretax/NN profit/NN ,/, an/DT improvement/NN that/WDT suggests/VBZ Britain/NNP 's/POS unofficial/JJ flag/NN carrier/NN may/MD finally/RB be/VB entering/VBG sunnier/JJR financial/JJ skies/NNS ./.
+
+(ROOT
+  (S
+    (NP (NNP BA))
+    (VP (VBD announced)
+      (NP (DT the) (NN sale))
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBD reported)
+            (NP
+              (NP (CD 160) (JJ percent) (NN growth))
+              (PP (IN in)
+                (NP
+                  (NP (PRP$ its) (JJ second-quarter) (NN pretax) (NN profit))
+                  (, ,)
+                  (NP
+                    (NP (DT an) (NN improvement))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ suggests)
+                          (SBAR
+                            (S
+                              (NP
+                                (NP (NNP Britain) (POS 's))
+                                (JJ unofficial) (NN flag) (NN carrier))
+                              (VP (MD may)
+                                (ADVP (RB finally))
+                                (VP (VB be)
+                                  (VP (VBG entering)
+                                    (NP (JJR sunnier) (JJ financial) (NNS skies))))))))))))))))))
+    (. .)))
+
+nsubj(announced-2, BA-1)
+root(ROOT-0, announced-2)
+det(sale-4, the-3)
+dobj(announced-2, sale-4)
+mark(reported-7, as-5)
+nsubj(reported-7, it-6)
+advcl(announced-2, reported-7)
+num(growth-10, 160-8)
+amod(growth-10, percent-9)
+dobj(reported-7, growth-10)
+poss(profit-15, its-12)
+amod(profit-15, second-quarter-13)
+nn(profit-15, pretax-14)
+prep_in(growth-10, profit-15)
+det(improvement-18, an-17)
+appos(profit-15, improvement-18)
+nsubj(suggests-20, improvement-18)
+rcmod(improvement-18, suggests-20)
+poss(carrier-25, Britain-21)
+amod(carrier-25, unofficial-23)
+nn(carrier-25, flag-24)
+nsubj(entering-29, carrier-25)
+aux(entering-29, may-26)
+advmod(entering-29, finally-27)
+aux(entering-29, be-28)
+ccomp(suggests-20, entering-29)
+amod(skies-32, sunnier-30)
+amod(skies-32, financial-31)
+dobj(entering-29, skies-32)
+
+``Thanks/NNS to/TO everyone/VB who/WP works/VBZ at/IN Go/NNP ,/, it/PRP is/VBZ now/RB a/DT leading/JJ European/JJ brand/NN ,''/, said/VBD Rod/NNP Eddington/NNP ,/, British/JJ Airways/NNS '/POS recently/RB appointed/VBN chief/JJ executive/NN ./.
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (NNS ``Thanks))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB everyone)
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBZ works)
+                      (PP (IN at)
+                        (NP (NNP Go)))))))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADVP (RB now))
+        (NP (DT a) (JJ leading) (JJ European) (NN brand))))
+    (, ,'')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Rod) (NNP Eddington))
+      (, ,)
+      (NP
+        (NP (JJ British) (NNS Airways) (POS '))
+        (ADJP (RB recently) (VBN appointed))
+        (JJ chief) (NN executive)))
+    (. .)))
+
+nsubj(brand-15, ``Thanks-1)
+aux(everyone-3, to-2)
+vmod(``Thanks-1, everyone-3)
+nsubj(works-5, who-4)
+ccomp(everyone-3, works-5)
+prep_at(works-5, Go-7)
+nsubj(brand-15, it-9)
+cop(brand-15, is-10)
+advmod(brand-15, now-11)
+det(brand-15, a-12)
+amod(brand-15, leading-13)
+amod(brand-15, European-14)
+ccomp(said-17, brand-15)
+punct(said-17, ,''-16)
+root(ROOT-0, said-17)
+nn(Eddington-19, Rod-18)
+nsubj(said-17, Eddington-19)
+amod(Airways-22, British-21)
+poss(executive-27, Airways-22)
+advmod(appointed-25, recently-24)
+amod(executive-27, appointed-25)
+amod(executive-27, chief-26)
+appos(Eddington-19, executive-27)
+
+``It/NNP has/VBZ made/VBN a/DT profit/NN every/NN month/NN this/DT year/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP ``It))
+    (VP (VBZ has)
+      (VP (VBN made)
+        (NP
+          (NP (DT a) (NN profit) (NN every) (NN month))
+          (NP (DT this) (NN year)))))
+    (. .)))
+
+nsubj(made-3, ``It-1)
+aux(made-3, has-2)
+root(ROOT-0, made-3)
+det(month-7, a-4)
+nn(month-7, profit-5)
+nn(month-7, every-6)
+dobj(made-3, month-7)
+det(year-9, this-8)
+dep(month-7, year-9)
+
+However/RB ,/, given/VBN the/DT strategic/JJ goals/NNS we/PRP have/VBP set/VBN for/IN the/DT group/NN as/IN a/DT whole/NN ,/, now/RB is/VBZ the/DT time/NN for/IN British/JJ Airways/NNS to/TO gain/VB the/DT benefits/NNS of/IN its/PRP$ investment/NN and/CC realize/VB the/DT considerable/JJ value/NN created/VBN in/IN Go/NNP .''/.
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (PP (VBN given)
+      (NP
+        (NP (DT the) (JJ strategic) (NNS goals))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBP have)
+              (VP (VBN set)
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NN group))
+                    (PP (IN as)
+                      (NP (DT a) (NN whole)))))))))))
+    (, ,)
+    (NP (RB now))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN time))
+        (PP (IN for)
+          (NP (JJ British) (NNS Airways)))
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB gain)
+                (NP
+                  (NP (DT the) (NNS benefits))
+                  (PP (IN of)
+                    (NP (PRP$ its) (NN investment)))))
+              (CC and)
+              (VP (VB realize)
+                (NP
+                  (NP (DT the) (JJ considerable) (NN value))
+                  (VP (VBN created)
+                    (PP (IN in)
+                      (NP (NNP Go)))))))))))
+    (. .'')))
+
+advmod(time-20, However-1)
+prep(time-20, given-3)
+det(goals-6, the-4)
+amod(goals-6, strategic-5)
+pobj(given-3, goals-6)
+nsubj(set-9, we-7)
+aux(set-9, have-8)
+rcmod(goals-6, set-9)
+det(group-12, the-11)
+prep_for(set-9, group-12)
+det(whole-15, a-14)
+prep_as(group-12, whole-15)
+nsubj(time-20, now-17)
+cop(time-20, is-18)
+det(time-20, the-19)
+root(ROOT-0, time-20)
+amod(Airways-23, British-22)
+prep_for(time-20, Airways-23)
+aux(gain-25, to-24)
+vmod(time-20, gain-25)
+det(benefits-27, the-26)
+dobj(gain-25, benefits-27)
+poss(investment-30, its-29)
+prep_of(benefits-27, investment-30)
+vmod(time-20, realize-32)
+conj_and(gain-25, realize-32)
+det(value-35, the-33)
+amod(value-35, considerable-34)
+dobj(realize-32, value-35)
+vmod(value-35, created-36)
+prep_in(created-36, Go-38)
+punct(time-20, .''-39)
+
+Go/NNP is/VBZ based/VBN at/IN Stansted/NNP airport/NN ,/, northeast/RB of/IN London/NNP ,/, a/DT major/JJ base/NN for/IN low-fare/JJ carriers/NNS operating/VBG in/IN Britain/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP Go))
+    (VP (VBZ is)
+      (VP (VBN based)
+        (PP (IN at)
+          (NP (NNP Stansted) (NN airport)))
+        (, ,)
+        (ADVP (RB northeast)
+          (PP (IN of)
+            (NP
+              (NP (NNP London))
+              (, ,)
+              (NP
+                (NP (DT a) (JJ major) (NN base))
+                (PP (IN for)
+                  (NP
+                    (NP (JJ low-fare) (NNS carriers))
+                    (VP (VBG operating)
+                      (PP (IN in)
+                        (NP (NNP Britain))))))))))))
+    (. .)))
+
+nsubjpass(based-3, Go-1)
+auxpass(based-3, is-2)
+root(ROOT-0, based-3)
+nn(airport-6, Stansted-5)
+prep_at(based-3, airport-6)
+advmod(based-3, northeast-8)
+prep_of(northeast-8, London-10)
+det(base-14, a-12)
+amod(base-14, major-13)
+appos(London-10, base-14)
+amod(carriers-17, low-fare-16)
+prep_for(base-14, carriers-17)
+vmod(carriers-17, operating-18)
+prep_in(operating-18, Britain-20)
+
+BA/NNP set/VBD up/RP Go/NNP when/WRB smaller/JJR rivals/NNS began/VBD nibbling/VBG away/NN at/IN its/PRP$ market/NN share/NN by/IN offering/VBG cheaper/NN flights/NNS across/RB much/RB of/IN Europe/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP BA))
+    (VP (VBD set)
+      (PRT (RP up))
+      (NP
+        (NP (NNP Go))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (JJR smaller) (NNS rivals))
+            (VP (VBD began)
+              (S
+                (VP (VBG nibbling)
+                  (NP (NN away))
+                  (PP (IN at)
+                    (NP (PRP$ its) (NN market) (NN share)))))))))
+      (PP (IN by)
+        (S
+          (VP (VBG offering)
+            (NP (NN cheaper) (NNS flights))
+            (ADVP (RB across))
+            (ADVP (RB much)
+              (PP (IN of)
+                (NP (NNP Europe))))))))
+    (. .)))
+
+nsubj(set-2, BA-1)
+root(ROOT-0, set-2)
+prt(set-2, up-3)
+dobj(set-2, Go-4)
+tmod(began-8, Go-4)
+advmod(began-8, when-5)
+amod(rivals-7, smaller-6)
+nsubj(began-8, rivals-7)
+rcmod(Go-4, began-8)
+xcomp(began-8, nibbling-9)
+dobj(nibbling-9, away-10)
+poss(share-14, its-12)
+nn(share-14, market-13)
+prep_at(nibbling-9, share-14)
+prepc_by(set-2, offering-16)
+nn(flights-18, cheaper-17)
+dobj(offering-16, flights-18)
+advmod(offering-16, across-19)
+advmod(offering-16, much-20)
+prep_of(much-20, Europe-22)
+
+One/CD such/JJ competitor/NN ,/, easyJet/RB ,/, has/VBZ long/RB accused/VBN BA/NNP of/IN unfairly/RB subsidizing/JJ Go/NNP ./.
+
+(ROOT
+  (S
+    (NP (CD One) (JJ such) (NN competitor))
+    (, ,)
+    (ADVP (RB easyJet))
+    (, ,)
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN accused)
+        (NP
+          (NP (NNP BA))
+          (PP (IN of)
+            (NP
+              (ADJP (RB unfairly) (JJ subsidizing))
+              (NNP Go))))))
+    (. .)))
+
+num(competitor-3, One-1)
+amod(competitor-3, such-2)
+nsubj(accused-9, competitor-3)
+advmod(accused-9, easyJet-5)
+aux(accused-9, has-7)
+advmod(accused-9, long-8)
+root(ROOT-0, accused-9)
+dobj(accused-9, BA-10)
+advmod(subsidizing-13, unfairly-12)
+amod(Go-14, subsidizing-13)
+prep_of(BA-10, Go-14)
+
+BA/NNP has/VBZ denied/VBN the/DT accusation/NN but/CC until/IN now/RB has/VBZ not/RB said/VBN whether/IN Go/NNP was/VBD making/VBG money/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP BA))
+    (VP (VBZ has)
+      (VP (VBN denied)
+        (NP (DT the) (NN accusation))
+        (PRN (CC but)
+          (SBAR (IN until)
+            (S
+              (ADVP (RB now))
+              (VP (VBZ has) (RB not)
+                (VP (VBN said))))))
+        (SBAR (IN whether)
+          (S
+            (NP (NNP Go))
+            (VP (VBD was)
+              (VP (VBG making)
+                (NP (NN money))))))))
+    (. .)))
+
+nsubj(denied-3, BA-1)
+aux(denied-3, has-2)
+root(ROOT-0, denied-3)
+det(accusation-5, the-4)
+dobj(denied-3, accusation-5)
+cc(said-11, but-6)
+mark(said-11, until-7)
+advmod(said-11, now-8)
+aux(said-11, has-9)
+neg(said-11, not-10)
+parataxis(denied-3, said-11)
+mark(making-15, whether-12)
+nsubj(making-15, Go-13)
+aux(making-15, was-14)
+ccomp(denied-3, making-15)
+dobj(making-15, money-16)
+
+British/JJ Airways/NNS reported/VBD a/DT pretax/JJ profit/NN of/IN 200/CD million/CD pounds/NNS [$290/CD million/CD ]/NN in/IN the/DT second/JJ quarter/NN ending/VBG Sept/NNP ./.
+
+(ROOT
+  (S
+    (NP (JJ British) (NNS Airways))
+    (VP (VBD reported)
+      (NP
+        (NP (DT a) (JJ pretax) (NN profit))
+        (PP (IN of)
+          (NP
+            (QP (CD 200) (CD million))
+            (NNS pounds)
+            (X
+              (NP
+                (QP (CD [$290) (CD million))
+                (NN ]))))))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ second) (NN quarter))
+          (VP (VBG ending)
+            (NP (NNP Sept))))))
+    (. .)))
+
+amod(Airways-2, British-1)
+nsubj(reported-3, Airways-2)
+root(ROOT-0, reported-3)
+det(profit-6, a-4)
+amod(profit-6, pretax-5)
+dobj(reported-3, profit-6)
+number(million-9, 200-8)
+num(pounds-10, million-9)
+prep_of(profit-6, pounds-10)
+number(million-12, [$290-11)
+num(]-13, million-12)
+dep(pounds-10, ]-13)
+det(quarter-17, the-15)
+amod(quarter-17, second-16)
+prep_in(reported-3, quarter-17)
+vmod(quarter-17, ending-18)
+dobj(ending-18, Sept-19)
+
+30/CD ,/, compared/VBN to/TO 40/CD million/CD pounds/NNS a/DT year/NN ago/RB ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 30))
+    (, ,)
+    (PP (VBN compared)
+      (PP (TO to)
+        (NP
+          (NP
+            (QP (CD 40) (CD million))
+            (NNS pounds))
+          (ADVP
+            (NP (DT a) (NN year))
+            (RB ago)))))
+    (. .)))
+
+root(ROOT-0, 30-1)
+prepc_compared_to(30-1, to-4)
+number(million-6, 40-5)
+num(pounds-7, million-6)
+pobj(30-1, pounds-7)
+det(year-9, a-8)
+npadvmod(ago-10, year-9)
+advmod(pounds-7, ago-10)
+
+Its/NNS quarterly/JJ operating/VBG profit/NN improved/VBN to/TO 361/CD million/CD pounds/NNS [$523/CD million/CD ]/NNS from/IN 211/CD million/CD pounds/NNS a/DT year/NN ago/RB ./.
+
+(ROOT
+  (S
+    (NP
+      (QP (NNS Its))
+      (JJ quarterly)
+      (NX (VBG operating) (NN profit)))
+    (VP (VBN improved)
+      (PP (TO to)
+        (NP
+          (NP
+            (QP (CD 361) (CD million))
+            (NNS pounds))
+          (NP
+            (QP (CD [$523) (CD million))
+            (NNS ]))))
+      (PP (IN from)
+        (NP
+          (QP (CD 211) (CD million))
+          (NNS pounds))
+        (ADVP
+          (NP (DT a) (NN year))
+          (RB ago))))
+    (. .)))
+
+num(profit-4, Its-1)
+amod(profit-4, quarterly-2)
+amod(profit-4, operating-3)
+nsubj(improved-5, profit-4)
+root(ROOT-0, improved-5)
+number(million-8, 361-7)
+num(pounds-9, million-8)
+prep_to(improved-5, pounds-9)
+number(million-11, [$523-10)
+num(]-12, million-11)
+dep(pounds-9, ]-12)
+number(million-15, 211-14)
+num(pounds-16, million-15)
+prep_from(improved-5, pounds-16)
+det(year-18, a-17)
+npadvmod(ago-19, year-18)
+advmod(improved-5, ago-19)
+
+This/DT income/NN growth/NN indicated/VBD that/IN BA/NNP 's/POS new/JJ strategy/NN of/IN trying/VBG to/TO attract/VB more/RBR business/NN and/CC first-class/NN passengers/NNS has/VBZ started/VBN to/TO pay/VB off/RP ./.
+
+(ROOT
+  (S
+    (NP (DT This) (NN income) (NN growth))
+    (VP (VBD indicated)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP
+              (NP (NNP BA) (POS 's))
+              (JJ new) (NN strategy))
+            (PP (IN of)
+              (S
+                (VP (VBG trying)
+                  (S
+                    (VP (TO to)
+                      (VP (VB attract)
+                        (ADVP (RBR more))
+                        (NP (NN business)
+                          (CC and)
+                          (NN first-class) (NNS passengers)))))))))
+          (VP (VBZ has)
+            (VP (VBN started)
+              (S
+                (VP (TO to)
+                  (VP (VB pay)
+                    (PRT (RP off))))))))))
+    (. .)))
+
+det(growth-3, This-1)
+nn(growth-3, income-2)
+nsubj(indicated-4, growth-3)
+root(ROOT-0, indicated-4)
+mark(started-20, that-5)
+poss(strategy-9, BA-6)
+amod(strategy-9, new-8)
+nsubj(started-20, strategy-9)
+nsubj(pay-22, strategy-9)
+prepc_of(strategy-9, trying-11)
+aux(attract-13, to-12)
+xcomp(trying-11, attract-13)
+advmod(attract-13, more-14)
+nn(passengers-18, business-15)
+conj_and(business-15, first-class-17)
+nn(passengers-18, first-class-17)
+dobj(attract-13, passengers-18)
+aux(started-20, has-19)
+ccomp(indicated-4, started-20)
+aux(pay-22, to-21)
+xcomp(started-20, pay-22)
+prt(pay-22, off-23)
+
+BA/NNP said/VBD its/PRP$ number/NN of/IN premium/JJ passengers/NNS increased/VBN by/IN 7.7/CD percent/JJ during/IN the/DT quarter/NN ,/, while/IN revenues/NNS for/IN the/DT first/JJ six/CD months/NNS of/IN the/DT year/NN rose/VBD 4.9/CD percent/JJ to/TO 4.86/CD billion/CD pounds/NNS [$7.05/CD billion/CD ]./.
+
+(ROOT
+  (S
+    (NP (NNP BA))
+    (VP (VBD said)
+      (NP
+        (NP (PRP$ its) (NN number))
+        (PP (IN of)
+          (NP
+            (NP (JJ premium) (NNS passengers))
+            (VP (VBN increased)
+              (PP (IN by)
+                (NP (CD 7.7))))
+            (ADJP (JJ percent)
+              (PP (IN during)
+                (NP
+                  (NP (DT the) (NN quarter))
+                  (, ,)
+                  (SBAR (IN while)
+                    (S
+                      (NP
+                        (NP (NNS revenues))
+                        (PP (IN for)
+                          (NP
+                            (NP (DT the) (JJ first) (CD six) (NNS months))
+                            (PP (IN of)
+                              (NP (DT the) (NN year))))))
+                      (VP (VBD rose)
+                        (S
+                          (ADJP (CD 4.9) (JJ percent)))
+                        (PP (TO to)
+                          (NP
+                            (QP (CD 4.86) (CD billion))
+                            (NNS pounds)
+                            (QP (CD [$7.05) (CD billion))))))))))))))
+    (. ].)))
+
+nsubj(said-2, BA-1)
+root(ROOT-0, said-2)
+poss(number-4, its-3)
+dobj(said-2, number-4)
+amod(passengers-7, premium-6)
+prep_of(number-4, passengers-7)
+vmod(passengers-7, increased-8)
+agent(increased-8, 7.7-10)
+amod(passengers-7, percent-11)
+det(quarter-14, the-13)
+prep_during(percent-11, quarter-14)
+mark(rose-26, while-16)
+nsubj(rose-26, revenues-17)
+det(months-22, the-19)
+amod(months-22, first-20)
+num(months-22, six-21)
+prep_for(revenues-17, months-22)
+det(year-25, the-24)
+prep_of(months-22, year-25)
+rcmod(quarter-14, rose-26)
+number(percent-28, 4.9-27)
+acomp(rose-26, percent-28)
+number(billion-31, 4.86-30)
+num(pounds-32, billion-31)
+prep_to(rose-26, pounds-32)
+number(billion-34, [$7.05-33)
+num(pounds-32, billion-34)
+punct(said-2, ].-35)
+
+``We/RB are/VBP taking/VBG a/DT ruthless/JJ approach/NN towards/NNS poorly/RB performing/VBG routes/NNS and/CC assets/NNS ,''/, said/VBD Eddington/NNP ./.
+
+(ROOT
+  (SINV
+    (ADVP (RB ``We))
+    (VP (VBP are)
+      (VP (VBG taking)
+        (NP (DT a)
+          (ADJP (JJ ruthless))
+          (NN approach) (NNS towards))))
+    (NP
+      (NP
+        (ADJP (RB poorly) (VBG performing))
+        (NNS routes))
+      (CC and)
+      (NP
+        (NP (NNS assets))
+        (SBAR
+          (WHNP (, ,''))
+          (S
+            (VP (VBD said)
+              (NP (NNP Eddington)))))))
+    (. .)))
+
+advmod(taking-3, ``We-1)
+aux(taking-3, are-2)
+root(ROOT-0, taking-3)
+det(towards-7, a-4)
+amod(towards-7, ruthless-5)
+nn(towards-7, approach-6)
+dobj(taking-3, towards-7)
+advmod(performing-9, poorly-8)
+amod(routes-10, performing-9)
+nsubj(taking-3, routes-10)
+nsubj(taking-3, assets-12)
+conj_and(routes-10, assets-12)
+nsubj(said-14, ,''-13)
+rcmod(assets-12, said-14)
+dobj(said-14, Eddington-15)
+
+``Those/RB not/RB adding/VBG value/NN are/VBP being/VBG removed/VBN ./.
+
+(ROOT
+  (S
+    (ADVP (RB ``Those))
+    (PP (RB not)
+      (S
+        (VP (VBG adding)
+          (NP (NN value)))))
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP (VBN removed))))
+    (. .)))
+
+advmod(removed-7, ``Those-1)
+prep(removed-7, not-2)
+pcomp(not-2, adding-3)
+dobj(adding-3, value-4)
+aux(removed-7, are-5)
+auxpass(removed-7, being-6)
+root(ROOT-0, removed-7)
+
+It/PRP is/VBZ imperative/JJ that/IN each/DT of/IN our/PRP$ aircraft/NN generates/VBZ shareholder/NN value/NN .''/.
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ imperative))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT each))
+            (PP (IN of)
+              (NP (PRP$ our) (NN aircraft))))
+          (VP (VBZ generates)
+            (NP (NN shareholder) (NN value))))))
+    (. .'')))
+
+nsubj(imperative-3, It-1)
+cop(imperative-3, is-2)
+root(ROOT-0, imperative-3)
+mark(generates-9, that-4)
+nsubj(generates-9, each-5)
+poss(aircraft-8, our-7)
+prep_of(each-5, aircraft-8)
+ccomp(imperative-3, generates-9)
+nn(value-11, shareholder-10)
+dobj(generates-9, value-11)
+punct(imperative-3, .''-12)
+
+The/DT airline/NN said/VBD it/PRP plans/VBZ to/TO cut/VB capacity/NN worldwide/NN by/IN 10/CD percent/JJ in/IN next/JJ summer/NN 's/POS schedule/NN ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NN airline))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ plans)
+            (S
+              (VP (TO to)
+                (VP (VB cut)
+                  (NP (NN capacity) (NN worldwide))
+                  (PP (IN by)
+                    (NP
+                      (NP (CD 10))
+                      (ADJP (JJ percent)
+                        (PP (IN in)
+                          (NP
+                            (NP (JJ next) (NN summer) (POS 's))
+                            (NN schedule)))))))))))))
+    (. .)))
+
+det(airline-2, The-1)
+nsubj(said-3, airline-2)
+root(ROOT-0, said-3)
+nsubj(plans-5, it-4)
+nsubj(cut-7, it-4)
+ccomp(said-3, plans-5)
+aux(cut-7, to-6)
+xcomp(plans-5, cut-7)
+nn(worldwide-9, capacity-8)
+dobj(cut-7, worldwide-9)
+prep_by(cut-7, 10-11)
+amod(10-11, percent-12)
+amod(summer-15, next-14)
+poss(schedule-17, summer-15)
+prep_in(percent-12, schedule-17)
+
+``We/RB have/VBP a/DT number/NN of/IN different/JJ businesses/NNS operating/VBG separately/RB within/IN Europe/NNP ./.
+
+(ROOT
+  (SINV
+    (ADVP (RB ``We))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN number))
+        (PP (IN of)
+          (NP (JJ different) (NNS businesses)))))
+    (S
+      (VP (VBG operating)
+        (ADVP (RB separately))
+        (PP (IN within)
+          (NP (NNP Europe)))))
+    (. .)))
+
+advmod(have-2, ``We-1)
+root(ROOT-0, have-2)
+det(number-4, a-3)
+dobj(have-2, number-4)
+amod(businesses-7, different-6)
+prep_of(number-4, businesses-7)
+dep(have-2, operating-8)
+advmod(operating-8, separately-9)
+prep_within(operating-8, Europe-11)
+
+We/PRP are/VBP currently/RB examining/VBG how/WRB we/PRP can/MD better/RBR rationalize/VB and/CC integrate/VB their/PRP$ activities/NNS to/TO deliver/VB better/RBR value/NN for/IN the/DT group/NN overall/NN ,''/, Eddington/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP are)
+        (ADVP (RB currently))
+        (VP (VBG examining)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (PRP we))
+              (VP (MD can)
+                (ADVP (RBR better))
+                (VP (VB rationalize)
+                  (CC and)
+                  (VB integrate)
+                  (NP (PRP$ their) (NNS activities))
+                  (S
+                    (VP (TO to)
+                      (VP (VB deliver)
+                        (ADVP (RBR better))
+                        (NP
+                          (NP (NN value))
+                          (PP (IN for)
+                            (NP
+                              (NP (DT the) (NN group))
+                              (ADVP (NN overall)))))))))))))))
+    (, ,'')
+    (NP (NNP Eddington))
+    (VP (VBD said))
+    (. .)))
+
+nsubj(examining-4, We-1)
+aux(examining-4, are-2)
+advmod(examining-4, currently-3)
+ccomp(said-24, examining-4)
+advmod(rationalize-9, how-5)
+nsubj(rationalize-9, we-6)
+nsubj(integrate-11, we-6)
+aux(rationalize-9, can-7)
+advmod(rationalize-9, better-8)
+ccomp(examining-4, rationalize-9)
+ccomp(examining-4, integrate-11)
+conj_and(rationalize-9, integrate-11)
+poss(activities-13, their-12)
+dobj(rationalize-9, activities-13)
+aux(deliver-15, to-14)
+vmod(rationalize-9, deliver-15)
+advmod(deliver-15, better-16)
+dobj(deliver-15, value-17)
+det(group-20, the-19)
+prep_for(value-17, group-20)
+advmod(group-20, overall-21)
+punct(said-24, ,''-22)
+nsubj(said-24, Eddington-23)
+root(ROOT-0, said-24)
+
+Company/NNP shares/NNS jumped/VBD 7/CD percent/JJ to/TO 352/CD pence/NN [$5.10/CD ]/IN each/DT in/IN midday/JJ trading/NN on/IN the/DT London/NNP Stock/NNP Exchange/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP Company) (NNS shares))
+    (VP (VBD jumped)
+      (NP
+        (NP (CD 7))
+        (ADJP (JJ percent)
+          (PP (TO to)
+            (NP (CD 352) (NN pence)))
+          (NP (CD [$5.10))))
+      (PP (IN ])
+        (NP
+          (NP (DT each))
+          (PP (IN in)
+            (NP (JJ midday) (NN trading)))))
+      (PP (IN on)
+        (NP (DT the) (NNP London) (NNP Stock) (NNP Exchange))))
+    (. .)))
+
+nn(shares-2, Company-1)
+nsubj(jumped-3, shares-2)
+root(ROOT-0, jumped-3)
+dobj(jumped-3, 7-4)
+amod(7-4, percent-5)
+num(pence-8, 352-7)
+prep_to(percent-5, pence-8)
+dep(percent-5, [$5.10-9)
+prep_](jumped-3, each-11)
+amod(trading-14, midday-13)
+prep_in(each-11, trading-14)
+det(Exchange-19, the-16)
+nn(Exchange-19, London-17)
+nn(Exchange-19, Stock-18)
+prep_on(jumped-3, Exchange-19)
+
+BA/NNP ,/, the/DT world/NN 's/POS fourth-biggest/JJ airline/NN in/IN terms/NNS of/IN passenger/NN traffic/NN ,/, has/VBZ struggled/VBN to/TO find/VB its/PRP$ way/NN in/IN recent/JJ years/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP BA))
+      (, ,)
+      (NP
+        (NP
+          (NP (DT the) (NN world) (POS 's))
+          (JJ fourth-biggest) (NN airline))
+        (PP (IN in)
+          (NP
+            (NP (NNS terms))
+            (PP (IN of)
+              (NP (NN passenger) (NN traffic))))))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN struggled)
+        (S
+          (VP (TO to)
+            (VP (VB find)
+              (NP (PRP$ its) (NN way))
+              (PP (IN in)
+                (NP (JJ recent) (NNS years))))))))
+    (. .)))
+
+nsubj(struggled-15, BA-1)
+nsubj(find-17, BA-1)
+det(world-4, the-3)
+poss(airline-7, world-4)
+amod(airline-7, fourth-biggest-6)
+appos(BA-1, airline-7)
+prep_in(airline-7, terms-9)
+nn(traffic-12, passenger-11)
+prep_of(terms-9, traffic-12)
+aux(struggled-15, has-14)
+root(ROOT-0, struggled-15)
+aux(find-17, to-16)
+xcomp(struggled-15, find-17)
+poss(way-19, its-18)
+dobj(find-17, way-19)
+amod(years-22, recent-21)
+prep_in(find-17, years-22)
+
+It/PRP lost/VBD 50/CD million/CD pounds/NNS [$75/CD million/CD ]/NN in/IN the/DT first/JJ quarter/NN ,/, due/JJ to/TO high/JJ fuel/NN costs/NNS and/CC competition/NN ,/, and/CC last/JJ year/NN was/VBD the/DT airline/NN 's/POS worst/NN since/IN the/DT British/JJ government/NN privatized/VBD it/PRP ./.
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD lost)
+        (NP
+          (QP (CD 50) (CD million))
+          (NNS pounds))
+        (PP
+          (NP
+            (QP (CD [$75) (CD million))
+            (NN ]))
+          (IN in)
+          (NP (DT the) (JJ first) (NN quarter)))
+        (, ,)
+        (ADJP (JJ due)
+          (PP (TO to)
+            (NP
+              (NP (JJ high) (NN fuel) (NNS costs))
+              (CC and)
+              (NP (NN competition)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (JJ last) (NN year))
+      (VP (VBD was)
+        (NP
+          (NP (DT the) (NN airline) (POS 's))
+          (NN worst)
+          (SBAR (IN since)
+            (S
+              (NP (DT the) (JJ British) (NN government))
+              (VP (VBD privatized)
+                (NP (PRP it))))))))
+    (. .)))
+
+nsubj(lost-2, It-1)
+root(ROOT-0, lost-2)
+number(million-4, 50-3)
+num(pounds-5, million-4)
+dobj(lost-2, pounds-5)
+number(million-7, [$75-6)
+num(]-8, million-7)
+npadvmod(lost-2, ]-8)
+det(quarter-12, the-10)
+amod(quarter-12, first-11)
+prep_in(lost-2, quarter-12)
+acomp(lost-2, due-14)
+amod(costs-18, high-16)
+nn(costs-18, fuel-17)
+prep_to(due-14, costs-18)
+prep_to(due-14, competition-20)
+conj_and(costs-18, competition-20)
+amod(year-24, last-23)
+nsubj(worst-29, year-24)
+cop(worst-29, was-25)
+det(airline-27, the-26)
+poss(worst-29, airline-27)
+conj_and(lost-2, worst-29)
+det(government-33, the-31)
+amod(government-33, British-32)
+nsubj(privatized-34, government-33)
+prepc_since(worst-29, privatized-34)
+dobj(privatized-34, it-35)
+
+Competition/NNP has/VBZ become/VBN intense/NN ,/, particularly/RB on/IN its/PRP$ core/NN trans-Atlantic/JJ flights/NNS ,/, and/CC former/JJ chief/JJ executive/NN Bob/NN Ayling/VBG resigned/VBD in/IN March/NNP after/IN a/DT troubled/JJ four-year/JJ stint/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Competition))
+      (VP (VBZ has)
+        (VP (VBN become)
+          (NP (NN intense)))))
+    (, ,)
+    (NP
+      (NP
+        (ADJP (RB particularly)
+          (PP (IN on)
+            (NP (PRP$ its) (NN core))))
+        (JJ trans-Atlantic)
+        (NX
+          (NX (NNS flights))
+          (, ,)
+          (CC and)
+          (NX (JJ former) (JJ chief) (NN executive)))
+        (NN Bob))
+      (VP (VBG Ayling)))
+    (VP (VBD resigned)
+      (PP (IN in)
+        (NP (NNP March)))
+      (PP (IN after)
+        (NP (DT a) (JJ troubled) (JJ four-year) (NN stint))))
+    (. .)))
+
+nsubj(become-3, Competition-1)
+aux(become-3, has-2)
+ccomp(resigned-19, become-3)
+xcomp(become-3, intense-4)
+amod(Bob-17, particularly-6)
+poss(core-9, its-8)
+prep_on(particularly-6, core-9)
+amod(Bob-17, trans-Atlantic-10)
+dep(Bob-17, flights-11)
+amod(executive-16, former-14)
+amod(executive-16, chief-15)
+conj_and(flights-11, executive-16)
+dep(Bob-17, executive-16)
+nsubj(resigned-19, Bob-17)
+vmod(Bob-17, Ayling-18)
+root(ROOT-0, resigned-19)
+prep_in(resigned-19, March-21)
+det(stint-26, a-23)
+amod(stint-26, troubled-24)
+amod(stint-26, four-year-25)
+prep_after(resigned-19, stint-26)
+
+Talks/NNS on/IN a/DT long-planned/JJ merger/NN with/IN KLM/NNP Royal/NNP Dutch/NNP Airlines/NNPS collapsed/VBD in/IN September/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Talks))
+      (PP (IN on)
+        (NP
+          (NP (DT a) (JJ long-planned) (NN merger))
+          (PP (IN with)
+            (NP (NNP KLM) (NNP Royal) (NNP Dutch) (NNPS Airlines))))))
+    (VP (VBD collapsed)
+      (PP (IN in)
+        (NP (NNP September))))
+    (. .)))
+
+nsubj(collapsed-11, Talks-1)
+det(merger-5, a-3)
+amod(merger-5, long-planned-4)
+prep_on(Talks-1, merger-5)
+nn(Airlines-10, KLM-7)
+nn(Airlines-10, Royal-8)
+nn(Airlines-10, Dutch-9)
+prep_with(merger-5, Airlines-10)
+root(ROOT-0, collapsed-11)
+prep_in(collapsed-11, September-13)
+

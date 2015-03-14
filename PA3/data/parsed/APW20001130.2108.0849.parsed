@@ -1,0 +1,938 @@
+APW20001130.2108.0849/DT NEWS/NNP STORY/NNPS 2000-11-30/CD 21:13:04/CD
+
+(ROOT
+  (NP
+    (NP (DT APW20001130.2108.0849))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-11-30) (CD 21:13:04))))
+
+root(ROOT-0, APW20001130.2108.0849-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001130.2108.0849-1, STORY-3)
+num(21:13:04-5, 2000-11-30-4)
+dep(APW20001130.2108.0849-1, 21:13:04-5)
+
+Britain-Homosexual-Consent/JJ
+
+(ROOT
+  (ADJP (JJ Britain-Homosexual-Consent)))
+
+root(ROOT-0, Britain-Homosexual-Consent-1)
+
+Britain/NNP Forces/NNP Through/NNP Consent/NNP Law/NNP
+
+(ROOT
+  (NP (NNP Britain) (NNP Forces) (NNP Through) (NNP Consent) (NNP Law)))
+
+nn(Law-5, Britain-1)
+nn(Law-5, Forces-2)
+nn(Law-5, Through-3)
+nn(Law-5, Consent-4)
+root(ROOT-0, Law-5)
+
+LONDON/NNP [AP/NNP ]/, _/CD After/IN three/CD defeats/NNS in/IN the/DT House/NNP of/IN Lords/NNP ,/, Britain/NNP 's/POS Labor/NNP government/NN resorted/VBD to/TO rarely/RB used/VBN powers/NNS Thursday/NN to/TO pass/VB legislation/NN lowering/VBG the/DT age/NN of/IN consent/NN for/IN homosexuals/NNS from/IN 18/CD to/TO 16/CD ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP LONDON) (NNP [AP))
+      (PP (, ])
+        (NP (CD _))))
+    (PP (IN After)
+      (NP
+        (NP (CD three) (NNS defeats))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNP House))
+            (PP (IN of)
+              (NP (NNP Lords)))))))
+    (, ,)
+    (NP
+      (NP (NNP Britain) (POS 's))
+      (NNP Labor) (NN government))
+    (VP (VBD resorted)
+      (PP (TO to)
+        (NP
+          (ADJP (RB rarely) (VBN used))
+          (NNS powers)))
+      (NP (NN Thursday)
+        (S
+          (VP (TO to)
+            (VP (VB pass)
+              (NP (NN legislation))
+              (S
+                (VP (VBG lowering)
+                  (NP
+                    (NP (DT the) (NN age))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN consent))
+                        (PP (IN for)
+                          (NP (NNS homosexuals))))))
+                  (PP (IN from)
+                    (NP
+                      (QP (CD 18) (TO to) (CD 16)))))))))))
+    (. .)))
+
+nn([AP-2, LONDON-1)
+nsubj(resorted-18, [AP-2)
+punct(_-4, ]-3)
+prep([AP-2, _-4)
+num(defeats-7, three-6)
+prep_after(resorted-18, defeats-7)
+det(House-10, the-9)
+prep_in(defeats-7, House-10)
+prep_of(House-10, Lords-12)
+poss(government-17, Britain-14)
+nn(government-17, Labor-16)
+nsubj(resorted-18, government-17)
+root(ROOT-0, resorted-18)
+advmod(used-21, rarely-20)
+amod(powers-22, used-21)
+prep_to(resorted-18, powers-22)
+tmod(resorted-18, Thursday-23)
+aux(pass-25, to-24)
+vmod(Thursday-23, pass-25)
+dobj(pass-25, legislation-26)
+xcomp(pass-25, lowering-27)
+det(age-29, the-28)
+dobj(lowering-27, age-29)
+prep_of(age-29, consent-31)
+prep_for(consent-31, homosexuals-33)
+number(16-37, 18-35)
+dep(16-37, to-36)
+prep_from(lowering-27, 16-37)
+
+House/NNP of/IN Commons/NNPS speaker/NN Michael/NNP Martin/NNP said/VBD he/PRP was/VBD invoking/VBG the/DT Parliament/NNP Act/NNP to/TO force/VB through/IN a/DT Sexual/JJ Offenses/NNS Bill/NNP that/WDT makes/VBZ the/DT age/NN of/IN consent/NN the/DT same/JJ for/IN both/DT homosexuals/NNS and/CC heterosexuals/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NAC (NNP House)
+        (PP (IN of)
+          (NP (NNPS Commons) (NN speaker))))
+      (NNP Michael) (NNP Martin))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD was)
+            (VP (VBG invoking)
+              (NP (DT the) (NNP Parliament) (NNP Act))
+              (S
+                (VP (TO to)
+                  (VP (VB force)
+                    (PP (IN through)
+                      (NP (DT a) (JJ Sexual) (NNS Offenses)))
+                    (NP
+                      (NP (NNP Bill))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBZ makes)
+                            (NP
+                              (NP (DT the) (NN age))
+                              (PP (IN of)
+                                (NP (NN consent))))
+                            (PP
+                              (NP (DT the) (JJ same))
+                              (IN for)
+                              (NP (DT both) (NNS homosexuals)
+                                (CC and)
+                                (NNS heterosexuals)))))))))))))))
+    (. .)))
+
+dep(Martin-6, House-1)
+nn(speaker-4, Commons-3)
+prep_of(House-1, speaker-4)
+nn(Martin-6, Michael-5)
+nsubj(said-7, Martin-6)
+root(ROOT-0, said-7)
+nsubj(invoking-10, he-8)
+aux(invoking-10, was-9)
+ccomp(said-7, invoking-10)
+det(Act-13, the-11)
+nn(Act-13, Parliament-12)
+dobj(invoking-10, Act-13)
+aux(force-15, to-14)
+vmod(invoking-10, force-15)
+det(Offenses-19, a-17)
+amod(Offenses-19, Sexual-18)
+prep_through(force-15, Offenses-19)
+dobj(force-15, Bill-20)
+nsubj(makes-22, Bill-20)
+rcmod(Bill-20, makes-22)
+det(age-24, the-23)
+dobj(makes-22, age-24)
+prep_of(age-24, consent-26)
+det(same-28, the-27)
+npadvmod(makes-22, same-28)
+preconj(homosexuals-31, both-30)
+prep_for(makes-22, homosexuals-31)
+prep_for(makes-22, heterosexuals-33)
+conj_and(homosexuals-31, heterosexuals-33)
+
+It/PRP became/VBD law/NN after/IN being/VBG given/VBN Royal/NNP Assent/NNP by/IN Queen/NNP Elizabeth/NNP II/NNP ./.
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD became)
+      (NP (NN law))
+      (PP (IN after)
+        (S
+          (VP (VBG being)
+            (VP (VBN given)
+              (NP (NNP Royal) (NNP Assent))
+              (PP (IN by)
+                (NP (NNP Queen) (NNP Elizabeth) (NNP II))))))))
+    (. .)))
+
+nsubj(became-2, It-1)
+root(ROOT-0, became-2)
+xcomp(became-2, law-3)
+auxpass(given-6, being-5)
+prepc_after(became-2, given-6)
+nn(Assent-8, Royal-7)
+dobj(given-6, Assent-8)
+nn(II-12, Queen-10)
+nn(II-12, Elizabeth-11)
+agent(given-6, II-12)
+
+Lawmakers/NNS in/IN the/DT House/NNP of/IN Commons/NNPS overwhelmingly/RB approved/VBN the/DT bill/NN earlier/RBR this/DT year/NN ,/, but/CC the/DT House/NNP of/IN Lords/NNPS this/DT month/NN rejected/VBD it/PRP for/IN the/DT third/JJ time/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNS Lawmakers))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNP House))
+            (PP (IN of)
+              (NP (NNPS Commons)))
+            (ADVP (RB overwhelmingly)))))
+      (VP (VBN approved)
+        (NP (DT the) (NN bill))
+        (NP (RBR earlier) (DT this) (NN year))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (NNP House))
+        (PP (IN of)
+          (NP (NNPS Lords)))
+        (NP (DT this) (NN month)))
+      (VP (VBD rejected)
+        (NP (PRP it))
+        (PP (IN for)
+          (NP (DT the) (JJ third) (NN time)))))
+    (. .)))
+
+nsubj(approved-8, Lawmakers-1)
+det(House-4, the-3)
+prep_in(Lawmakers-1, House-4)
+prep_of(House-4, Commons-6)
+advmod(House-4, overwhelmingly-7)
+root(ROOT-0, approved-8)
+det(bill-10, the-9)
+dobj(approved-8, bill-10)
+advmod(year-13, earlier-11)
+det(year-13, this-12)
+tmod(approved-8, year-13)
+det(House-17, the-16)
+nsubj(rejected-22, House-17)
+prep_of(House-17, Lords-19)
+det(month-21, this-20)
+dep(House-17, month-21)
+conj_but(approved-8, rejected-22)
+dobj(rejected-22, it-23)
+det(time-27, the-25)
+amod(time-27, third-26)
+prep_for(rejected-22, time-27)
+
+The/DT Lords/NNS '/POS powers/NNS ,/, however/NN ,/, are/VBP limited/JJ to/TO delaying/VBG legislation/NN by/IN blocking/VBG it/PRP and/CC bouncing/VBG it/PRP back/RB to/TO the/DT House/NNP of/IN Commons/NNPS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NNS Lords) (POS '))
+        (NNS powers))
+      (, ,)
+      (NP (NN however))
+      (, ,))
+    (VP (VBP are)
+      (ADJP (JJ limited)
+        (PP (TO to)
+          (S
+            (VP
+              (VP (VBG delaying)
+                (NP (NN legislation))
+                (PP (IN by)
+                  (S
+                    (VP (VBG blocking)
+                      (NP (PRP it))))))
+              (CC and)
+              (VP (VBG bouncing)
+                (NP (PRP it))
+                (ADVP (RB back))
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (NNP House))
+                    (PP (IN of)
+                      (NP (NNPS Commons)))))))))))
+    (. .)))
+
+det(Lords-2, The-1)
+poss(powers-4, Lords-2)
+nsubj(limited-9, powers-4)
+appos(powers-4, however-6)
+cop(limited-9, are-8)
+root(ROOT-0, limited-9)
+prepc_to(limited-9, delaying-11)
+dobj(delaying-11, legislation-12)
+prepc_by(delaying-11, blocking-14)
+dobj(blocking-14, it-15)
+prepc_to(limited-9, bouncing-17)
+conj_and(delaying-11, bouncing-17)
+dobj(bouncing-17, it-18)
+advmod(bouncing-17, back-19)
+det(House-22, the-21)
+prep_to(bouncing-17, House-22)
+prep_of(House-22, Commons-24)
+
+The/DT Parliament/NNP Act/NNP was/VBD created/VBN to/TO ensure/VB that/IN the/DT will/MD of/IN the/DT country/NN 's/POS elected/VBD lawmakers/NNS prevails/NNS ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Parliament) (NNP Act))
+    (VP (VBD was)
+      (VP (VBN created)
+        (S
+          (VP (TO to)
+            (VP (VB ensure)
+              (SBAR (IN that)
+                (S
+                  (NP (DT the))
+                  (VP (MD will)
+                    (VP
+                      (PP (IN of)
+                        (NP (DT the) (NN country) (POS 's)))
+                      (VBD elected)
+                      (NP (NNS lawmakers) (NNS prevails)))))))))))
+    (. .)))
+
+det(Act-3, The-1)
+nn(Act-3, Parliament-2)
+nsubjpass(created-5, Act-3)
+nsubj(ensure-7, Act-3)
+auxpass(created-5, was-4)
+root(ROOT-0, created-5)
+aux(ensure-7, to-6)
+xcomp(created-5, ensure-7)
+mark(elected-15, that-8)
+nsubj(elected-15, the-9)
+aux(elected-15, will-10)
+det(country-13, the-12)
+prep_of(elected-15, country-13)
+possessive(country-13, 's-14)
+ccomp(ensure-7, elected-15)
+nn(prevails-17, lawmakers-16)
+dobj(elected-15, prevails-17)
+
+The/DT bill/NN brings/NNS Britain/NNP in/IN line/NN with/IN most/JJS other/JJ European/JJ Union/NNP nations/NNS ./.
+
+(ROOT
+  (NP
+    (NP (DT The) (NN bill) (NNS brings))
+    (NP
+      (NP (NNP Britain))
+      (PP (IN in)
+        (NP
+          (NP (NN line))
+          (PP (IN with)
+            (NP
+              (NP (JJS most))
+              (NP (JJ other) (JJ European) (NNP Union) (NNS nations)))))))
+    (. .)))
+
+det(brings-3, The-1)
+nn(brings-3, bill-2)
+root(ROOT-0, brings-3)
+dep(brings-3, Britain-4)
+prep_in(Britain-4, line-6)
+prep_with(line-6, most-8)
+amod(nations-12, other-9)
+amod(nations-12, European-10)
+nn(nations-12, Union-11)
+dep(most-8, nations-12)
+
+``It/NNP is/VBZ a/DT reform/NN which/WDT ,/, in/IN my/PRP$ personal/JJ view/NN ,/, is/VBZ long/JJ overdue/JJ and/CC is/VBZ only/RB right/RB for/IN a/DT country/NN that/WDT has/VBZ a/DT history/NN of/IN reform/NN and/CC challenging/NN prejudice/NN ,''/, said/VBD Home/NNP Secretary/NNP Jack/NNP Straw/NNP ,/, Britain/NNP 's/POS top/JJ law/NN enforcement/NN officer/NN ./.
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP ``It))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN reform))
+          (SBAR
+            (WHNP (WDT which))
+            (S (, ,)
+              (PP (IN in)
+                (NP (PRP$ my) (JJ personal) (NN view)))
+              (, ,)
+              (VP
+                (VP (VBZ is)
+                  (ADVP (JJ long))
+                  (ADJP (JJ overdue)))
+                (CC and)
+                (VP (VBZ is)
+                  (ADVP (RB only) (RB right))
+                  (PP (IN for)
+                    (NP (DT a) (NN country)))))))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ has)
+                (NP
+                  (NP (DT a) (NN history))
+                  (PP (IN of)
+                    (NP (NN reform)
+                      (CC and)
+                      (NN challenging) (NN prejudice))))))))))
+    (, ,'')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Home) (NNP Secretary) (NNP Jack) (NNP Straw))
+      (, ,)
+      (NP
+        (NP (NNP Britain) (POS 's))
+        (JJ top) (NN law) (NN enforcement) (NN officer)))
+    (. .)))
+
+nsubj(reform-4, ``It-1)
+cop(reform-4, is-2)
+det(reform-4, a-3)
+nsubj(overdue-14, reform-4)
+nsubj(is-16, reform-4)
+nsubj(has-23, reform-4)
+ccomp(said-32, reform-4)
+poss(view-10, my-8)
+amod(view-10, personal-9)
+prep_in(overdue-14, view-10)
+cop(overdue-14, is-12)
+advmod(overdue-14, long-13)
+rcmod(reform-4, overdue-14)
+rcmod(reform-4, is-16)
+conj_and(overdue-14, is-16)
+advmod(right-18, only-17)
+advmod(is-16, right-18)
+det(country-21, a-20)
+prep_for(is-16, country-21)
+rcmod(reform-4, has-23)
+det(history-25, a-24)
+dobj(has-23, history-25)
+nn(prejudice-30, reform-27)
+conj_and(reform-27, challenging-29)
+nn(prejudice-30, challenging-29)
+prep_of(history-25, prejudice-30)
+punct(said-32, ,''-31)
+root(ROOT-0, said-32)
+nn(Straw-36, Home-33)
+nn(Straw-36, Secretary-34)
+nn(Straw-36, Jack-35)
+nsubj(said-32, Straw-36)
+poss(officer-43, Britain-38)
+amod(officer-43, top-40)
+nn(officer-43, law-41)
+nn(officer-43, enforcement-42)
+appos(Straw-36, officer-43)
+
+``This/NNP act/NN will/MD help/VB us/PRP to/TO build/VB a/DT safe/NN ,/, just/RB and/CC tolerant/NN society/NN ,''/IN he/PRP added/VBD ./.
+
+(ROOT
+  (S
+    (NP (NNP ``This) (NN act))
+    (VP (MD will)
+      (VP (VB help)
+        (S
+          (NP (PRP us))
+          (VP (TO to)
+            (VP (VB build)
+              (NP
+                (NP
+                  (NP (DT a) (NN safe))
+                  (, ,)
+                  (ADVP (RB just)))
+                (CC and)
+                (NP
+                  (NP (NN tolerant) (NN society))
+                  (SBAR (IN ,'')
+                    (S
+                      (NP (PRP he))
+                      (VP (VBD added)))))))))))
+    (. .)))
+
+nn(act-2, ``This-1)
+nsubj(help-4, act-2)
+aux(help-4, will-3)
+root(ROOT-0, help-4)
+dobj(help-4, us-5)
+nsubj(build-7, us-5)
+aux(build-7, to-6)
+xcomp(help-4, build-7)
+det(safe-9, a-8)
+dobj(build-7, safe-9)
+advmod(safe-9, just-11)
+nn(society-14, tolerant-13)
+dobj(build-7, society-14)
+conj_and(safe-9, society-14)
+mark(added-17, ,''-15)
+nsubj(added-17, he-16)
+rcmod(society-14, added-17)
+
+Angela/NNP Mason/NNP ,/, director/NN of/IN the/DT gay/NN rights/NNS group/NN Stonewall/NNP ,/, said/VBD Parliament/NNP 's/POS action/NN was/VBD ``a/DT great/JJ step/NN toward/NN equality/NN .''/.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Angela) (NNP Mason))
+      (, ,)
+      (NP
+        (NP
+          (NP (NN director))
+          (PP (IN of)
+            (NP (DT the) (NN gay) (NNS rights) (NN group))))
+        (NP (NNP Stonewall)))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Parliament) (POS 's))
+            (NN action))
+          (VP (VBD was)
+            (NP (DT ``a) (JJ great) (NN step) (NN toward) (NN equality))))))
+    (. .'')))
+
+nn(Mason-2, Angela-1)
+nsubj(said-12, Mason-2)
+appos(Mason-2, director-4)
+det(group-9, the-6)
+nn(group-9, gay-7)
+nn(group-9, rights-8)
+prep_of(director-4, group-9)
+appos(director-4, Stonewall-10)
+root(ROOT-0, said-12)
+poss(action-15, Parliament-13)
+nsubj(equality-21, action-15)
+cop(equality-21, was-16)
+det(equality-21, ``a-17)
+amod(equality-21, great-18)
+nn(equality-21, step-19)
+nn(equality-21, toward-20)
+ccomp(said-12, equality-21)
+punct(said-12, .''-22)
+
+``When/CD the/DT history/NN books/VBZ come/VBN to/TO be/VB written/VBN I/PRP believe/VBP it/PRP will/MD be/VB seen/VBN as/IN the/DT moment/NN when/WRB this/DT country/NN finally/RB began/VBD to/TO change/VB ,/, when/WRB lesbians/NNS and/CC gay/NN men/NNS started/VBD to/TO take/VB our/PRP$ place/NN as/IN equal/JJ members/NNS of/IN society/NN ,''/, she/PRP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (CD ``When))
+        (NP (DT the) (NN history)))
+      (VP (VBZ books)
+        (VP (VBN come)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN written)
+                  (SBAR
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP believe)
+                        (SBAR
+                          (S
+                            (NP (PRP it))
+                            (VP (MD will)
+                              (VP (VB be)
+                                (VP (VBN seen)
+                                  (PP (IN as)
+                                    (NP
+                                      (NP (DT the) (NN moment))
+                                      (SBAR
+                                        (WHADVP (WRB when))
+                                        (S
+                                          (NP (DT this) (NN country))
+                                          (ADVP (RB finally))
+                                          (VP (VBD began)
+                                            (S
+                                              (VP (TO to)
+                                                (VP (VB change)))))))))))))))))))))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (NNS lesbians)
+                (CC and)
+                (NN gay) (NNS men))
+              (VP (VBD started)
+                (S
+                  (VP (TO to)
+                    (VP (VB take)
+                      (NP (PRP$ our) (NN place))
+                      (PP (IN as)
+                        (NP
+                          (NP (JJ equal) (NNS members))
+                          (PP (IN of)
+                            (NP (NN society))))))))))))))
+    (, ,'')
+    (NP (PRP she))
+    (VP (VBD said))
+    (. .)))
+
+nsubj(books-4, ``When-1)
+det(history-3, the-2)
+dep(``When-1, history-3)
+ccomp(said-43, books-4)
+dep(books-4, come-5)
+aux(written-8, to-6)
+auxpass(written-8, be-7)
+xcomp(come-5, written-8)
+nsubj(believe-10, I-9)
+ccomp(written-8, believe-10)
+nsubjpass(seen-14, it-11)
+aux(seen-14, will-12)
+auxpass(seen-14, be-13)
+ccomp(believe-10, seen-14)
+det(moment-17, the-16)
+prep_as(seen-14, moment-17)
+advmod(began-22, when-18)
+det(country-20, this-19)
+nsubj(began-22, country-20)
+nsubj(change-24, country-20)
+advmod(began-22, finally-21)
+rcmod(moment-17, began-22)
+aux(change-24, to-23)
+xcomp(began-22, change-24)
+advmod(started-31, when-26)
+nsubj(started-31, lesbians-27)
+nsubj(take-33, lesbians-27)
+nn(men-30, gay-29)
+conj_and(lesbians-27, men-30)
+nsubj(started-31, men-30)
+nsubj(take-33, men-30)
+advcl(come-5, started-31)
+aux(take-33, to-32)
+xcomp(started-31, take-33)
+poss(place-35, our-34)
+dobj(take-33, place-35)
+amod(members-38, equal-37)
+prep_as(take-33, members-38)
+prep_of(members-38, society-40)
+punct(said-43, ,''-41)
+nsubj(said-43, she-42)
+root(ROOT-0, said-43)
+
+Peter/NNP Tatchell/NNP ,/, of/IN the/DT group/NN OutRage/NN !,/, said/VBD :/: ``This/NNP victory/NN is/VBZ a/DT welcome/JJ and/CC historic/JJ milestone/NN in/IN the/DT long/JJ struggle/NN for/IN gay/NN human/JJ rights/NNS .''/.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Peter) (NNP Tatchell))
+        (, ,)
+        (PP (IN of)
+          (NP (DT the) (NN group) (NN OutRage)))
+        (, !,))
+      (VP (VBD said)))
+    (: :)
+    (S
+      (NP (NNP ``This) (NN victory))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a)
+            (ADJP (JJ welcome)
+              (CC and)
+              (JJ historic))
+            (NN milestone))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ long) (NN struggle))
+              (PP (IN for)
+                (NP (NN gay) (JJ human) (NNS rights))))))))
+    (. .'')))
+
+nn(Tatchell-2, Peter-1)
+nsubj(said-9, Tatchell-2)
+det(OutRage-7, the-5)
+nn(OutRage-7, group-6)
+prep_of(Tatchell-2, OutRage-7)
+punct(Tatchell-2, !,-8)
+root(ROOT-0, said-9)
+nn(victory-12, ``This-11)
+nsubj(milestone-18, victory-12)
+cop(milestone-18, is-13)
+det(milestone-18, a-14)
+amod(milestone-18, welcome-15)
+conj_and(welcome-15, historic-17)
+amod(milestone-18, historic-17)
+parataxis(said-9, milestone-18)
+det(struggle-22, the-20)
+amod(struggle-22, long-21)
+prep_in(milestone-18, struggle-22)
+nn(rights-26, gay-24)
+amod(rights-26, human-25)
+prep_for(struggle-22, rights-26)
+punct(said-9, .''-27)
+
+``My/JJ only/JJ regret/NN is/VBZ that/IN it/PRP has/VBZ taken/VBN 33/CD years/NNS during/IN which/WDT time/NN hundreds/NNS of/IN gay/NN men/NNS have/VBP been/VBN unjustly/JJ jailed/NN for/IN victimless/JJ relationships/NNS .''/.
+
+(ROOT
+  (S
+    (NP (JJ ``My) (JJ only) (NN regret))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ has)
+            (VP (VBN taken)
+              (PP
+                (NP (CD 33) (NNS years))
+                (IN during)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (NP
+                      (NP (NN time) (NNS hundreds))
+                      (PP (IN of)
+                        (NP (NN gay) (NNS men))))
+                    (VP (VBP have)
+                      (VP (VBN been)
+                        (NP
+                          (NP (JJ unjustly) (NN jailed))
+                          (PP (IN for)
+                            (NP (JJ victimless) (NNS relationships))))))))))))))
+    (. .'')))
+
+amod(regret-3, ``My-1)
+amod(regret-3, only-2)
+nsubj(is-4, regret-3)
+root(ROOT-0, is-4)
+mark(taken-8, that-5)
+nsubj(taken-8, it-6)
+aux(taken-8, has-7)
+ccomp(is-4, taken-8)
+num(years-10, 33-9)
+npadvmod(taken-8, years-10)
+dobj(jailed-21, which-12)
+nn(hundreds-14, time-13)
+nsubj(jailed-21, hundreds-14)
+nn(men-17, gay-16)
+prep_of(hundreds-14, men-17)
+aux(jailed-21, have-18)
+cop(jailed-21, been-19)
+amod(jailed-21, unjustly-20)
+prepc_during(taken-8, jailed-21)
+amod(relationships-24, victimless-23)
+prep_for(jailed-21, relationships-24)
+punct(is-4, .''-25)
+
+However/RB ,/, family/NN values/NNS campaigner/NN and/CC Conservative/JJ ex-Leader/NN of/IN the/DT Lords/NNPS Baroness/NNP Young/NNP accused/VBD the/DT government/NN of/IN behaving/VBG in/IN a/DT ``completely/RB dictatorial/JJ manner/NN ''/'' toward/NN Parliament/NNP ./.
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP
+      (NP (NN family) (NNS values) (NN campaigner))
+      (CC and)
+      (NP
+        (NP (JJ Conservative) (NN ex-Leader))
+        (PP (IN of)
+          (NP (DT the) (NNPS Lords) (NNP Baroness) (NNP Young)))))
+    (VP (VBD accused)
+      (NP
+        (NP (DT the) (NN government))
+        (PP (IN of)
+          (S
+            (VP (VBG behaving)
+              (PP (IN in)
+                (NP (DT a)
+                  (ADJP (RB ``completely) (JJ dictatorial))
+                  (NN manner) ('' '')))
+              (PP (NN toward)
+                (NP (NNP Parliament))))))))
+    (. .)))
+
+advmod(accused-14, However-1)
+nn(campaigner-5, family-3)
+nn(campaigner-5, values-4)
+nsubj(accused-14, campaigner-5)
+amod(ex-Leader-8, Conservative-7)
+conj_and(campaigner-5, ex-Leader-8)
+nsubj(accused-14, ex-Leader-8)
+det(Young-13, the-10)
+nn(Young-13, Lords-11)
+nn(Young-13, Baroness-12)
+prep_of(ex-Leader-8, Young-13)
+root(ROOT-0, accused-14)
+det(government-16, the-15)
+dobj(accused-14, government-16)
+prepc_of(government-16, behaving-18)
+det(manner-23, a-20)
+advmod(dictatorial-22, ``completely-21)
+amod(manner-23, dictatorial-22)
+prep_in(behaving-18, manner-23)
+prep(behaving-18, toward-25)
+dep(toward-25, Parliament-26)
+
+Straw/NNP dismissed/VBD the/DT criticism/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP Straw))
+    (VP (VBD dismissed)
+      (NP (DT the) (NN criticism)))
+    (. .)))
+
+nsubj(dismissed-2, Straw-1)
+root(ROOT-0, dismissed-2)
+det(criticism-4, the-3)
+dobj(dismissed-2, criticism-4)
+
+``In/IN the/DT circumstances/NNS I/PRP believe/VBP that/IN the/DT use/NN of/IN the/DT Parliament/NNP Act/NNP in/IN this/DT case/NN is/VBZ proper/NN and/CC justified/VBD ,''/IN he/PRP said/VBD ./.
+
+(ROOT
+  (S
+    (PP (IN ``In)
+      (NP (DT the) (NNS circumstances)))
+    (NP (PRP I))
+    (VP
+      (VP (VBP believe)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN use))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NNP Parliament) (NNP Act))
+                  (PP (IN in)
+                    (NP (DT this) (NN case))))))
+            (VP (VBZ is)
+              (NP (NN proper))))))
+      (CC and)
+      (VP (VBD justified)
+        (SBAR (IN ,'')
+          (S
+            (NP (PRP he))
+            (VP (VBD said))))))
+    (. .)))
+
+det(circumstances-3, the-2)
+prep_``in(believe-5, circumstances-3)
+nsubj(believe-5, I-4)
+nsubj(justified-19, I-4)
+root(ROOT-0, believe-5)
+mark(proper-17, that-6)
+det(use-8, the-7)
+nsubj(proper-17, use-8)
+det(Act-12, the-10)
+nn(Act-12, Parliament-11)
+prep_of(use-8, Act-12)
+det(case-15, this-14)
+prep_in(Act-12, case-15)
+cop(proper-17, is-16)
+ccomp(believe-5, proper-17)
+conj_and(believe-5, justified-19)
+mark(said-22, ,''-20)
+nsubj(said-22, he-21)
+advcl(justified-19, said-22)
+
+Five/JJ years/NNS ago/RB ,/, Parliament/NNP narrowly/RB rejected/VBD lowering/VBG the/DT age/NN of/IN consent/NN for/IN homosexuals/NNS to/TO 16/CD ,/, reducing/VBG it/PRP instead/RB from/IN 21/CD to/TO 18/CD ./.
+
+(ROOT
+  (S
+    (ADVP
+      (NP (JJ Five) (NNS years))
+      (RB ago))
+    (, ,)
+    (NP (NNP Parliament))
+    (ADVP (RB narrowly))
+    (VP (VBD rejected)
+      (S
+        (VP (VBG lowering)
+          (NP
+            (NP (DT the) (NN age))
+            (PP (IN of)
+              (NP
+                (NP (NN consent))
+                (PP (IN for)
+                  (NP (NNS homosexuals))))))
+          (PP (TO to)
+            (NP (CD 16)))))
+      (, ,)
+      (S
+        (VP (VBG reducing)
+          (NP (PRP it))
+          (ADVP (RB instead))
+          (PP (IN from)
+            (NP
+              (QP (CD 21) (TO to) (CD 18)))))))
+    (. .)))
+
+amod(years-2, Five-1)
+npadvmod(ago-3, years-2)
+advmod(rejected-7, ago-3)
+nsubj(rejected-7, Parliament-5)
+advmod(rejected-7, narrowly-6)
+root(ROOT-0, rejected-7)
+xcomp(rejected-7, lowering-8)
+det(age-10, the-9)
+dobj(lowering-8, age-10)
+prep_of(age-10, consent-12)
+prep_for(consent-12, homosexuals-14)
+prep_to(lowering-8, 16-16)
+xcomp(rejected-7, reducing-18)
+dobj(reducing-18, it-19)
+advmod(reducing-18, instead-20)
+number(18-24, 21-22)
+dep(18-24, to-23)
+prep_from(reducing-18, 18-24)
+
+Homosexual/JJ sex/NN between/IN adults/NNS ceased/JJ to/TO be/VB a/DT crime/JJ in/IN Britain/NNP three/CD decades/NNS ago/RB ./.
+
+(ROOT
+  (NP
+    (NP (JJ Homosexual) (NN sex))
+    (PP (IN between)
+      (NP
+        (NP (NNS adults))
+        (ADJP (JJ ceased)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (DT a) (JJ crime)
+                  (PP (IN in)
+                    (NP (NNP Britain))))
+                (ADVP
+                  (NP (CD three) (NNS decades))
+                  (RB ago))))))))
+    (. .)))
+
+amod(sex-2, Homosexual-1)
+root(ROOT-0, sex-2)
+prep_between(sex-2, adults-4)
+amod(adults-4, ceased-5)
+aux(crime-9, to-6)
+cop(crime-9, be-7)
+det(crime-9, a-8)
+xcomp(ceased-5, crime-9)
+prep_in(crime-9, Britain-11)
+num(decades-13, three-12)
+npadvmod(ago-14, decades-13)
+advmod(crime-9, ago-14)
+

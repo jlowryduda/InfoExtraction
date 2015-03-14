@@ -1,0 +1,539 @@
+APW20001221.0431.0227/DT NEWS/NNP STORY/NNPS 2000-12-21/CD 05:47:41/CD
+
+(ROOT
+  (NP
+    (NP (DT APW20001221.0431.0227))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-12-21) (CD 05:47:41))))
+
+root(ROOT-0, APW20001221.0431.0227-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001221.0431.0227-1, STORY-3)
+num(05:47:41-5, 2000-12-21-4)
+dep(APW20001221.0431.0227-1, 05:47:41-5)
+
+Sandra-Bullock/NNP
+
+(ROOT
+  (NP (NNP Sandra-Bullock)))
+
+root(ROOT-0, Sandra-Bullock-1)
+
+Bullock/NNP Uninjured/NNP in/IN Plane/NNP Mishap/NNP
+
+(ROOT
+  (NP
+    (NP (NNP Bullock) (NNP Uninjured))
+    (PP (IN in)
+      (NP (NNP Plane) (NNP Mishap)))))
+
+nn(Uninjured-2, Bullock-1)
+root(ROOT-0, Uninjured-2)
+nn(Mishap-5, Plane-4)
+prep_in(Uninjured-2, Mishap-5)
+
+JACKSON/NNP ,/, Wyo./NNP [AP/NNP ]/NNP _/, A/DT plane/NN carrying/VBG actress/NN Sandra/NNP Bullock/NNP and/CC three/CD other/JJ people/NNS missed/VBD a/DT runway/NN and/CC crashed/VBD at/IN the/DT Jackson/NNP Hole/NNP Airport/NNP early/JJ Wednesday/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP JACKSON) (, ,) (NNP Wyo.) (NNP [AP) (NNP ]))
+      (PP (, _)
+        (NP
+          (NP (DT A) (NN plane))
+          (VP (VBG carrying)
+            (NP
+              (NP (NN actress) (NNP Sandra) (NNP Bullock))
+              (CC and)
+              (NP (CD three) (JJ other) (NNS people)))))))
+    (VP
+      (VP (VBD missed)
+        (NP (DT a) (NN runway)))
+      (CC and)
+      (VP (VBD crashed)
+        (PP (IN at)
+          (NP (DT the) (NNP Jackson) (NNP Hole) (NNP Airport) (JJ early) (NN Wednesday)))))
+    (. .)))
+
+nn(]-5, JACKSON-1)
+appos(]-5, Wyo.-3)
+nn(]-5, [AP-4)
+nsubj(missed-17, ]-5)
+nsubj(crashed-21, ]-5)
+punct(plane-8, _-6)
+det(plane-8, A-7)
+prep(]-5, plane-8)
+vmod(plane-8, carrying-9)
+nn(Bullock-12, actress-10)
+nn(Bullock-12, Sandra-11)
+dobj(carrying-9, Bullock-12)
+num(people-16, three-14)
+amod(people-16, other-15)
+dobj(carrying-9, people-16)
+conj_and(Bullock-12, people-16)
+root(ROOT-0, missed-17)
+det(runway-19, a-18)
+dobj(missed-17, runway-19)
+conj_and(missed-17, crashed-21)
+det(Wednesday-28, the-23)
+nn(Wednesday-28, Jackson-24)
+nn(Wednesday-28, Hole-25)
+nn(Wednesday-28, Airport-26)
+amod(Wednesday-28, early-27)
+prep_at(crashed-21, Wednesday-28)
+
+Authorities/NNS said/VBD no/DT one/NN was/VBD hurt/RB ./.
+
+(ROOT
+  (S
+    (NP (NNS Authorities))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT no) (NN one))
+          (VP (VBD was)
+            (ADVP (RB hurt))))))
+    (. .)))
+
+nsubj(said-2, Authorities-1)
+root(ROOT-0, said-2)
+neg(one-4, no-3)
+nsubj(was-5, one-4)
+ccomp(said-2, was-5)
+advmod(was-5, hurt-6)
+
+Bullock/NNP ,/, who/WP stars/NNS in/IN the/DT current/JJ ``Miss/NN Congeniality/NNP ,''/NNP was/VBD aboard/IN the/DT plane/NN with/IN two/CD crew/NN members/NNS and/CC another/DT person/NN ,/, airport/NN manager/NN George/NNP Larson/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (NP (NNP Bullock))
+    (, ,)
+    (SBAR
+      (WHNP (WP who) (NNS stars))
+      (S
+        (PP (IN in)
+          (NP (DT the) (JJ current) (NN ``Miss)))
+        (NP (NNP Congeniality) (NNP ,''))
+        (VP (VBD was)
+          (ADVP (IN aboard)
+            (NP (DT the) (NN plane)))
+          (PP (IN with)
+            (NP
+              (NP (CD two) (NN crew) (NNS members))
+              (CC and)
+              (NP (DT another) (NN person)))))))
+    (, ,)
+    (NP (NN airport) (NN manager) (NNP George) (NNP Larson))
+    (VP (VBD said))
+    (. .)))
+
+nsubj(said-27, Bullock-1)
+det(stars-4, who-3)
+dobj(was-11, stars-4)
+det(``Miss-8, the-6)
+amod(``Miss-8, current-7)
+prep_in(was-11, ``Miss-8)
+nn(,''-10, Congeniality-9)
+nsubj(was-11, ,''-10)
+advcl(said-27, was-11)
+advmod(was-11, aboard-12)
+det(plane-14, the-13)
+pobj(aboard-12, plane-14)
+num(members-18, two-16)
+nn(members-18, crew-17)
+prep_with(was-11, members-18)
+det(person-21, another-20)
+prep_with(was-11, person-21)
+conj_and(members-18, person-21)
+nn(Larson-26, airport-23)
+nn(Larson-26, manager-24)
+nn(Larson-26, George-25)
+nsubj(said-27, Larson-26)
+root(ROOT-0, said-27)
+
+He/PRP said/VBD all/DT were/VBD uninjured/JJ ./.
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT all))
+          (VP (VBD were)
+            (ADJP (JJ uninjured))))))
+    (. .)))
+
+nsubj(said-2, He-1)
+root(ROOT-0, said-2)
+nsubj(uninjured-5, all-3)
+cop(uninjured-5, were-4)
+ccomp(said-2, uninjured-5)
+
+The/DT twin-engine/JJ Hawker/NNP corporate/JJ jet/NN ,/, owned/VBN by/IN RR/NNP Investments/NNPS of/IN Texas/NNP ,/, was/VBD heavily/RB damaged/VBN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ twin-engine) (NNP Hawker) (JJ corporate) (NN jet))
+      (, ,)
+      (VP (VBN owned)
+        (PP (IN by)
+          (NP
+            (NP (NNP RR) (NNPS Investments))
+            (PP (IN of)
+              (NP (NNP Texas))))))
+      (, ,))
+    (VP (VBD was)
+      (VP
+        (ADVP (RB heavily))
+        (VBN damaged)))
+    (. .)))
+
+det(jet-5, The-1)
+amod(jet-5, twin-engine-2)
+nn(jet-5, Hawker-3)
+amod(jet-5, corporate-4)
+nsubjpass(damaged-16, jet-5)
+vmod(jet-5, owned-7)
+nn(Investments-10, RR-9)
+agent(owned-7, Investments-10)
+prep_of(Investments-10, Texas-12)
+auxpass(damaged-16, was-14)
+advmod(damaged-16, heavily-15)
+root(ROOT-0, damaged-16)
+
+The/DT main/NN nose/RB landing/VBG gear/JJ was/VBD sheared/VBN off/RB and/CC both/DT wings/NNS were/VBD extensively/RB damaged/VBN ,/, Larson/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP
+          (NP (DT The) (NN main))
+          (VP
+            (ADVP (RB nose))
+            (VBG landing)
+            (NP (JJ gear))))
+        (VP (VBD was)
+          (VP (VBN sheared)
+            (ADVP (RB off)))))
+      (CC and)
+      (S
+        (NP (DT both) (NNS wings))
+        (VP (VBD were)
+          (VP
+            (ADVP (RB extensively))
+            (VBN damaged)))))
+    (, ,)
+    (NP (NNP Larson))
+    (VP (VBD said))
+    (. .)))
+
+det(main-2, The-1)
+nsubjpass(sheared-7, main-2)
+advmod(landing-4, nose-3)
+vmod(main-2, landing-4)
+dobj(landing-4, gear-5)
+auxpass(sheared-7, was-6)
+ccomp(said-17, sheared-7)
+advmod(sheared-7, off-8)
+det(wings-11, both-10)
+nsubjpass(damaged-14, wings-11)
+auxpass(damaged-14, were-12)
+advmod(damaged-14, extensively-13)
+conj_and(sheared-7, damaged-14)
+ccomp(said-17, damaged-14)
+nsubj(said-17, Larson-16)
+root(ROOT-0, said-17)
+
+The/DT plane/NN landed/VBD between/IN a/DT runway/NN and/CC taxiway/NN at/IN the/DT airport/NN in/IN northwestern/JJ Wyoming/NN about/IN 1:30/CD a.m/NN ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NN plane))
+    (VP (VBD landed)
+      (PP (IN between)
+        (NP
+          (NP (DT a) (NN runway)
+            (CC and)
+            (NN taxiway))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN airport))
+              (PP (IN in)
+                (NP (JJ northwestern) (NN Wyoming)))))))
+      (PP (IN about)
+        (NP (CD 1:30) (NN a.m))))
+    (. .)))
+
+det(plane-2, The-1)
+nsubj(landed-3, plane-2)
+root(ROOT-0, landed-3)
+det(runway-6, a-5)
+prep_between(landed-3, runway-6)
+prep_between(landed-3, taxiway-8)
+conj_and(runway-6, taxiway-8)
+det(airport-11, the-10)
+prep_at(runway-6, airport-11)
+amod(Wyoming-14, northwestern-13)
+prep_in(airport-11, Wyoming-14)
+num(a.m-17, 1:30-16)
+prep_about(landed-3, a.m-17)
+
+Blizzard/NNP conditions/NNS and/CC a/DT high/JJ cross/NN wind/NN made/VBD landing/VBG more/JJR difficult/JJ than/IN usual/JJ ,/, authorities/NNS said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Blizzard) (NNS conditions))
+        (CC and)
+        (NP (DT a) (JJ high) (NN cross) (NN wind)))
+      (VP (VBD made)
+        (S
+          (VP (VBG landing)
+            (NP
+              (NP (JJR more))
+              (ADJP (JJ difficult)
+                (PP (IN than)
+                  (ADJP (JJ usual)))))))))
+    (, ,)
+    (NP (NNS authorities))
+    (VP (VBD said))
+    (. .)))
+
+nn(conditions-2, Blizzard-1)
+nsubj(made-8, conditions-2)
+det(wind-7, a-4)
+amod(wind-7, high-5)
+nn(wind-7, cross-6)
+conj_and(conditions-2, wind-7)
+nsubj(made-8, wind-7)
+ccomp(said-16, made-8)
+xcomp(made-8, landing-9)
+dobj(landing-9, more-10)
+amod(more-10, difficult-11)
+prep_than(difficult-11, usual-13)
+nsubj(said-16, authorities-15)
+root(ROOT-0, said-16)
+
+The/DT harsh/NN weather/NN may/MD have/VB disoriented/VBN the/DT pilot/NN ,/, Richard/NNP Campbell/NNP ,/, of/IN <GPE-e10/JJ type="NAM">Fort/NN Worth/NNP ,/, Texas/NNP </, causing/VBG him/PRP to/TO mistake/VB a/DT set/NN of/IN ground/NN lights/NNS for/IN the/DT center/NN of/IN the/DT runway/NN ,/, airport/NN officials/NNS said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN harsh) (NN weather))
+      (VP (MD may)
+        (VP (VB have)
+          (VP (VBN disoriented)
+            (NP
+              (NP
+                (NP (DT the) (NN pilot))
+                (, ,)
+                (NP (NNP Richard) (NNP Campbell))
+                (, ,))
+              (PP (IN of)
+                (NP (JJ <GPE-e10) (NN type="NAM">Fort) (NNP Worth) (, ,) (NNP Texas))))
+            (PP (, <)
+              (S
+                (VP (VBG causing)
+                  (S
+                    (NP (PRP him))
+                    (VP (TO to)
+                      (VP (VB mistake)
+                        (NP
+                          (NP (DT a) (NN set))
+                          (PP (IN of)
+                            (NP (NN ground) (NNS lights))))
+                        (PP (IN for)
+                          (NP
+                            (NP (DT the) (NN center))
+                            (PP (IN of)
+                              (NP (DT the) (NN runway)))))))))))))))
+    (, ,)
+    (NP (NN airport) (NNS officials))
+    (VP (VBD said))
+    (. .)))
+
+det(weather-3, The-1)
+nn(weather-3, harsh-2)
+nsubj(disoriented-6, weather-3)
+aux(disoriented-6, may-4)
+aux(disoriented-6, have-5)
+ccomp(said-38, disoriented-6)
+det(pilot-8, the-7)
+dobj(disoriented-6, pilot-8)
+nn(Campbell-11, Richard-10)
+appos(pilot-8, Campbell-11)
+amod(Texas-18, <GPE-e10-14)
+nn(Texas-18, type="NAM">Fort-15)
+nn(Texas-18, Worth-16)
+prep_of(pilot-8, Texas-18)
+punct(causing-20, <-19)
+prep(disoriented-6, causing-20)
+dobj(causing-20, him-21)
+nsubj(mistake-23, him-21)
+aux(mistake-23, to-22)
+xcomp(causing-20, mistake-23)
+det(set-25, a-24)
+dobj(mistake-23, set-25)
+nn(lights-28, ground-27)
+prep_of(set-25, lights-28)
+det(center-31, the-30)
+prep_for(mistake-23, center-31)
+det(runway-34, the-33)
+prep_of(center-31, runway-34)
+nn(officials-37, airport-36)
+nsubj(said-38, officials-37)
+root(ROOT-0, said-38)
+
+The/DT four/CD climbed/VBD out/RB of/IN the/DT wreckage/NN and/CC found/VBD the/DT airport/NN was/VBD empty/RB ./.
+
+(ROOT
+  (S
+    (NP (DT The) (CD four))
+    (VP
+      (VP (VBD climbed)
+        (PRT (RB out))
+        (PP (IN of)
+          (NP (DT the) (NN wreckage))))
+      (CC and)
+      (VP (VBD found)
+        (SBAR
+          (S
+            (NP (DT the) (NN airport))
+            (VP (VBD was)
+              (ADVP (RB empty)))))))
+    (. .)))
+
+det(four-2, The-1)
+nsubj(climbed-3, four-2)
+nsubj(found-9, four-2)
+root(ROOT-0, climbed-3)
+det(wreckage-7, the-6)
+prep_out_of(climbed-3, wreckage-7)
+conj_and(climbed-3, found-9)
+det(airport-11, the-10)
+nsubj(was-12, airport-11)
+ccomp(found-9, was-12)
+advmod(was-12, empty-13)
+
+``So/IN they/PRP walked/VBD in/IN here/RB and/CC found/VBD a/DT custodian/NN ,/, and/CC she/PRP called/VBD some/DT other/JJ people/NNS who/WP called/VBD the/DT sheriff/NN 's/POS department/NN ,''/, Larson/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (SBAR (IN ``So)
+      (S
+        (S
+          (NP (PRP they))
+          (VP
+            (VP (VBD walked)
+              (PP (IN in)
+                (NP (RB here))))
+            (CC and)
+            (VP (VBD found)
+              (NP (DT a) (NN custodian)))))
+        (, ,)
+        (CC and)
+        (S
+          (NP (PRP she))
+          (VP (VBD called)
+            (NP
+              (NP (DT some) (JJ other) (NNS people))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBD called)
+                    (NP
+                      (NP (DT the) (NN sheriff) (POS 's))
+                      (NN department))))))))))
+    (, ,'')
+    (NP (NNP Larson))
+    (VP (VBD said))
+    (. .)))
+
+mark(walked-3, ``So-1)
+nsubj(walked-3, they-2)
+nsubj(found-7, they-2)
+advcl(said-25, walked-3)
+prep(walked-3, in-4)
+pobj(in-4, here-5)
+conj_and(walked-3, found-7)
+advcl(said-25, found-7)
+det(custodian-9, a-8)
+dobj(found-7, custodian-9)
+nsubj(called-13, she-12)
+conj_and(walked-3, called-13)
+advcl(said-25, called-13)
+det(people-16, some-14)
+amod(people-16, other-15)
+dobj(called-13, people-16)
+nsubj(called-18, people-16)
+rcmod(people-16, called-18)
+det(sheriff-20, the-19)
+poss(department-22, sheriff-20)
+dobj(called-18, department-22)
+punct(said-25, ,''-23)
+nsubj(said-25, Larson-24)
+root(ROOT-0, said-25)
+
+A/DT similar/JJ accident/NN occurred/VBD last/JJ winter/NN when/WRB a/DT private/JJ airplane/NN landed/VBN in/IN the/DT same/JJ spot/NN ./.
+
+(ROOT
+  (S
+    (NP (DT A) (JJ similar) (NN accident))
+    (VP (VBD occurred)
+      (NP (JJ last) (NN winter))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (DT a) (JJ private) (NN airplane))
+          (VP (VBN landed)
+            (PP (IN in)
+              (NP (DT the) (JJ same) (NN spot)))))))
+    (. .)))
+
+det(accident-3, A-1)
+amod(accident-3, similar-2)
+nsubj(occurred-4, accident-3)
+root(ROOT-0, occurred-4)
+amod(winter-6, last-5)
+tmod(occurred-4, winter-6)
+advmod(landed-11, when-7)
+det(airplane-10, a-8)
+amod(airplane-10, private-9)
+nsubj(landed-11, airplane-10)
+advcl(occurred-4, landed-11)
+det(spot-15, the-13)
+amod(spot-15, same-14)
+prep_in(landed-11, spot-15)
+
+Larson/NNP said/VBD the/DT airport/NN plans/VBZ to/TO install/VB new/JJ runway/NN lights/NNS ./.
+
+(ROOT
+  (S
+    (NP (NNP Larson))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN airport))
+          (VP (VBZ plans)
+            (S
+              (VP (TO to)
+                (VP (VB install)
+                  (NP (JJ new) (NN runway) (NNS lights)))))))))
+    (. .)))
+
+nsubj(said-2, Larson-1)
+root(ROOT-0, said-2)
+det(airport-4, the-3)
+nsubj(plans-5, airport-4)
+nsubj(install-7, airport-4)
+ccomp(said-2, plans-5)
+aux(install-7, to-6)
+xcomp(plans-5, install-7)
+amod(lights-10, new-8)
+nn(lights-10, runway-9)
+dobj(install-7, lights-10)
+

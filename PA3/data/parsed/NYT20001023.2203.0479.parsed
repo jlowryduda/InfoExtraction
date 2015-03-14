@@ -1,0 +1,1843 @@
+NYT20001023.2203.0479/NNP NEWS/NNP STORY/NNP 2000-10-23/CD 22:33:00/CD
+
+(ROOT
+  (FRAG
+    (NP (NNP NYT20001023.2203.0479) (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-10-23) (CD 22:33:00))))
+
+nn(STORY-3, NYT20001023.2203.0479-1)
+nn(STORY-3, NEWS-2)
+root(ROOT-0, STORY-3)
+num(22:33:00-5, 2000-10-23-4)
+dep(STORY-3, 22:33:00-5)
+
+A3907/CD &Cx1f/NN ;/: taf-z/NNP u/NNP p/NNP BC-CAMPAIGN-ADS-NYT/NNP &LR/NNP ;/: 10-23/CD 0836/CD
+
+(ROOT
+  (NP
+    (NP (CD A3907) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NNP taf-z) (NNP u) (NNP p) (NNP BC-CAMPAIGN-ADS-NYT) (NNP &LR))
+      (: ;)
+      (NP
+        (QP (CD 10-23) (CD 0836))))))
+
+num(&Cx1f-2, A3907-1)
+root(ROOT-0, &Cx1f-2)
+nn(&LR-8, taf-z-4)
+nn(&LR-8, u-5)
+nn(&LR-8, p-6)
+nn(&LR-8, BC-CAMPAIGN-ADS-NYT-7)
+dep(&Cx1f-2, &LR-8)
+number(0836-11, 10-23-10)
+dep(&LR-8, 0836-11)
+
+BC-CAMPAIGN-ADS-NYT/NNP
+
+(ROOT
+  (NP (NNP BC-CAMPAIGN-ADS-NYT)))
+
+root(ROOT-0, BC-CAMPAIGN-ADS-NYT-1)
+
+DEMOCRATS/NNP HAMMER/NNP AT/NNP BUSH'S/NNP TEXAS/NNP RECORD/.
+
+(ROOT
+  (NP (NNP DEMOCRATS) (NNP HAMMER) (NNP AT) (NNP BUSH'S) (NNP TEXAS) (. RECORD)))
+
+nn(TEXAS-5, DEMOCRATS-1)
+nn(TEXAS-5, HAMMER-2)
+nn(TEXAS-5, AT-3)
+nn(TEXAS-5, BUSH'S-4)
+root(ROOT-0, TEXAS-5)
+punct(TEXAS-5, RECORD-6)
+
+&UR/NNS ;/: By/NNP PETER/NNP MARKS/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (PP (NNP By)
+        (NP (NNP PETER) (NNP MARKS) (NNP &QC))))
+    (: ;)
+    (NP
+      (NP (NNS &LR))
+      (: ;)
+      (NP (NNS &QL)))
+    (: ;)
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (NP
+        (NP (CD c.2000))
+        (NP (NNP N.Y))))
+    (. .)))
+
+root(ROOT-0, &UR-1)
+prep(&UR-1, By-3)
+nn(&QC-6, PETER-4)
+nn(&QC-6, MARKS-5)
+dep(By-3, &QC-6)
+dep(&UR-1, &LR-8)
+dep(&LR-8, &QL-10)
+dep(&UR-1, &UR-12)
+dep(&UR-12, c.2000-14)
+appos(c.2000-14, N.Y-15)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/:
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
+    (: ;)
+    (NP (NNS &LR))
+    (: ;)))
+
+nn(&QC-4, Times-1)
+nn(&QC-4, News-2)
+nn(&QC-4, Service-3)
+root(ROOT-0, &QC-4)
+dep(&QC-4, &LR-6)
+
+Intensifying/VBG their/PRP$ assault/NN on/IN Gov./NNP George/NNP W./NNP Bush/NNP 's/POS job/NN performance/NN ,/, national/JJ and/CC local/JJ Democratic/JJ officials/NNS fanned/VBD out/RP to/TO nearly/RB 100/CD cities/NNS in/IN 20/CD hotly/RB contested/VBN states/NNS Monday/NNP to/TO introduce/VB a/DT new/JJ video/NN that/IN savages/NNP Bush/NNP 's/POS record/NN in/IN Texas/NNP on/IN matters/NNS like/IN air/NN quality/NN ,/, schools/NNS ,/, medical/JJ care/NN and/CC improving/VBG living/VBG conditions/NNS for/IN the/DT poor/NN ./.
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Intensifying)
+        (NP (PRP$ their) (NN assault))
+        (PP (IN on)
+          (NP
+            (NP (NNP Gov.) (NNP George) (NNP W.) (NNP Bush) (POS 's))
+            (NN job) (NN performance)))))
+    (, ,)
+    (NP
+      (UCP (JJ national)
+        (CC and)
+        (JJ local))
+      (JJ Democratic) (NNS officials))
+    (VP (VBD fanned)
+      (PP (RP out)
+        (PP (TO to)
+          (NP
+            (NP
+              (QP (RB nearly) (CD 100))
+              (NNS cities))
+            (PP (IN in)
+              (NP (CD 20))))))
+      (NP
+        (NP
+          (ADJP (RB hotly) (VBN contested))
+          (NNS states))
+        (NP (NNP Monday))
+        (S
+          (VP (TO to)
+            (VP (VB introduce)
+              (NP
+                (NP (DT a) (JJ new) (NN video))
+                (PP (IN that)
+                  (NP
+                    (NP
+                      (NP (NNP savages) (NNP Bush) (POS 's))
+                      (NN record))
+                    (PP (IN in)
+                      (NP (NNP Texas))))))
+              (PP (IN on)
+                (NP
+                  (NP (NNS matters))
+                  (PP (IN like)
+                    (NP
+                      (NP (NN air) (NN quality))
+                      (, ,)
+                      (NP (NNS schools))
+                      (, ,)
+                      (NP (JJ medical) (NN care))
+                      (CC and)
+                      (NP
+                        (NP (VBG improving) (VBG living) (NNS conditions))
+                        (PP (IN for)
+                          (NP (DT the) (NN poor)))))))))))))
+    (. .)))
+
+vmod(fanned-18, Intensifying-1)
+poss(assault-3, their-2)
+dobj(Intensifying-1, assault-3)
+nn(Bush-8, Gov.-5)
+nn(Bush-8, George-6)
+nn(Bush-8, W.-7)
+poss(performance-11, Bush-8)
+nn(performance-11, job-10)
+prep_on(Intensifying-1, performance-11)
+amod(officials-17, national-13)
+conj_and(national-13, local-15)
+amod(officials-17, local-15)
+amod(officials-17, Democratic-16)
+nsubj(fanned-18, officials-17)
+root(ROOT-0, fanned-18)
+prep(fanned-18, out-19)
+quantmod(100-22, nearly-21)
+num(cities-23, 100-22)
+prep_to(out-19, cities-23)
+prep_in(cities-23, 20-25)
+advmod(contested-27, hotly-26)
+amod(states-28, contested-27)
+dobj(fanned-18, states-28)
+appos(states-28, Monday-29)
+aux(introduce-31, to-30)
+vmod(states-28, introduce-31)
+det(video-34, a-32)
+amod(video-34, new-33)
+dobj(introduce-31, video-34)
+nn(Bush-37, savages-36)
+poss(record-39, Bush-37)
+prep_that(video-34, record-39)
+prep_in(record-39, Texas-41)
+prep_on(introduce-31, matters-43)
+nn(quality-46, air-45)
+prep_like(matters-43, quality-46)
+prep_like(matters-43, schools-48)
+conj_and(quality-46, schools-48)
+amod(care-51, medical-50)
+prep_like(matters-43, care-51)
+conj_and(quality-46, care-51)
+amod(conditions-55, improving-53)
+amod(conditions-55, living-54)
+prep_like(matters-43, conditions-55)
+conj_and(quality-46, conditions-55)
+det(poor-58, the-57)
+prep_for(conditions-55, poor-58)
+
+The/DT 10-minute/JJ tape/NN ,/, titled/JJ ``Texans/NNS :/: In/IN Their/NNP Own/NNP Words/NNPS ,''/NNP is/VBZ the/DT latest/JJS in/IN a/DT series/NN of/IN attacks/NNS by/IN the/DT Democrats/NNPS on/IN Bush/NNP 's/POS five/CD years/NNS in/IN office/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ 10-minute) (NN tape))
+      (, ,)
+      (FRAG
+        (NP (JJ titled) (NNS ``Texans))
+        (: :)
+        (PP (IN In)
+          (NP (NNP Their) (NNP Own) (NNPS Words) (NNP ,'')))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS latest))
+        (PP (IN in)
+          (NP
+            (NP (DT a) (NN series))
+            (PP (IN of)
+              (NP
+                (NP (NNS attacks))
+                (PP (IN by)
+                  (NP
+                    (NP (DT the) (NNPS Democrats))
+                    (PP (IN on)
+                      (NP
+                        (NP
+                          (NP (NNP Bush) (POS 's))
+                          (CD five) (NNS years))
+                        (PP (IN in)
+                          (NP (NN office)))))))))))))
+    (. .)))
+
+det(tape-3, The-1)
+amod(tape-3, 10-minute-2)
+nsubj(latest-15, tape-3)
+amod(``Texans-6, titled-5)
+dep(tape-3, ``Texans-6)
+nn(,''-12, Their-9)
+nn(,''-12, Own-10)
+nn(,''-12, Words-11)
+prep_in(``Texans-6, ,''-12)
+cop(latest-15, is-13)
+det(latest-15, the-14)
+root(ROOT-0, latest-15)
+det(series-18, a-17)
+prep_in(latest-15, series-18)
+prep_of(series-18, attacks-20)
+det(Democrats-23, the-22)
+prep_by(attacks-20, Democrats-23)
+poss(years-28, Bush-25)
+num(years-28, five-27)
+prep_on(Democrats-23, years-28)
+prep_in(years-28, office-30)
+
+While/RB the/DT party/NN appears/NNS to/TO be/VB counting/VBG largely/RB on/IN local/JJ news/NN outlets/VBZ to/TO convey/VB the/DT video/NN 's/POS message/NN to/TO voters/NNS ,/, the/DT Democratic/JJ Party/NNP has/VBZ also/RB been/VBN running/VBG commercials/NNS in/IN cities/NNS like/IN Seattle/NN ,/, Des/NNP Moines/NNPS ,/, Iowa/NNP ,/, and/CC Tampa/NNP ,/, Fla./NNP ,/, to/TO attack/VB the/DT governor/NN 's/POS handling/NN of/IN issues/NNS of/IN local/JJ concern/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (RB While) (DT the) (NN party) (NNS appears))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBG counting)
+                  (ADVP (RB largely))
+                  (PP (IN on)
+                    (NP (JJ local) (NN news)))))))))
+      (VP (VBZ outlets)
+        (S
+          (VP (TO to)
+            (VP (VB convey)
+              (NP
+                (NP (DT the) (NN video) (POS 's))
+                (NN message))
+              (PP (TO to)
+                (NP (NNS voters))))))))
+    (, ,)
+    (NP (DT the) (JJ Democratic) (NNP Party))
+    (VP (VBZ has)
+      (ADVP (RB also))
+      (VP (VBN been)
+        (VP (VBG running)
+          (NP
+            (NP (NNS commercials))
+            (PP (IN in)
+              (NP (NNS cities))))
+          (PP (IN like)
+            (NP
+              (NP (NN Seattle))
+              (, ,)
+              (NP (NNP Des) (NNPS Moines))
+              (, ,)
+              (NP (NNP Iowa))
+              (, ,)
+              (CC and)
+              (NP (NNP Tampa) (, ,) (NNP Fla.))))
+          (, ,)
+          (S
+            (VP (TO to)
+              (VP (VB attack)
+                (NP
+                  (NP
+                    (NP (DT the) (NN governor) (POS 's))
+                    (NN handling))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS issues))
+                      (PP (IN of)
+                        (NP (JJ local) (NN concern))))))))))))
+    (. .)))
+
+advmod(appears-4, While-1)
+det(appears-4, the-2)
+nn(appears-4, party-3)
+nsubj(outlets-12, appears-4)
+nsubj(convey-14, appears-4)
+aux(counting-7, to-5)
+aux(counting-7, be-6)
+vmod(appears-4, counting-7)
+advmod(counting-7, largely-8)
+amod(news-11, local-10)
+prep_on(counting-7, news-11)
+ccomp(running-28, outlets-12)
+aux(convey-14, to-13)
+xcomp(outlets-12, convey-14)
+det(video-16, the-15)
+poss(message-18, video-16)
+dobj(convey-14, message-18)
+prep_to(convey-14, voters-20)
+det(Party-24, the-22)
+amod(Party-24, Democratic-23)
+nsubj(running-28, Party-24)
+aux(running-28, has-25)
+advmod(running-28, also-26)
+aux(running-28, been-27)
+root(ROOT-0, running-28)
+dobj(running-28, commercials-29)
+prep_in(commercials-29, cities-31)
+prep_like(running-28, Seattle-33)
+nn(Moines-36, Des-35)
+prep_like(running-28, Moines-36)
+conj_and(Seattle-33, Moines-36)
+prep_like(running-28, Iowa-38)
+conj_and(Seattle-33, Iowa-38)
+nn(Fla.-43, Tampa-41)
+prep_like(running-28, Fla.-43)
+conj_and(Seattle-33, Fla.-43)
+aux(attack-46, to-45)
+vmod(running-28, attack-46)
+det(governor-48, the-47)
+poss(handling-50, governor-48)
+dobj(attack-46, handling-50)
+prep_of(handling-50, issues-52)
+amod(concern-55, local-54)
+prep_of(issues-52, concern-55)
+
+The/DT latest/JJS spots/NNS by/IN the/DT Bush/NNP campaign/NN and/CC the/DT Republican/NNP Party/NNP ,/, meanwhile/RB ,/, take/VB a/DT much/JJ softer/NN tack/NN :/: In/IN fact/NN ,/, two/CD new/JJ Bush/NNP commercials/NNS that/WDT began/VBP running/VBG Monday/NNP in/IN many/JJ swing/VBG states/NNS merely/RB reiterate/VBP the/DT governor/NN 's/POS thoughts/NNS and/CC ideas/NNS about/IN education/NN ,/, an/DT issue/NN he/PRP has/VBZ promoted/VBN on/IN television/NN since/IN the/DT New/NNP Hampshire/NNP primary/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (NP (DT The) (JJS latest) (NNS spots))
+          (PP (IN by)
+            (NP (DT the) (NNP Bush) (NN campaign))))
+        (CC and)
+        (NP
+          (NP (DT the) (NNP Republican) (NNP Party))
+          (, ,)
+          (ADVP (RB meanwhile))
+          (, ,)))
+      (VP (VB take)
+        (NP (DT a) (JJ much) (NN softer) (NN tack))))
+    (: :)
+    (S
+      (PP (IN In)
+        (NP (NN fact)))
+      (, ,)
+      (NP
+        (NP (CD two) (JJ new) (NNP Bush) (NNS commercials))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP began)
+              (S
+                (VP (VBG running)
+                  (NP
+                    (NP (NNP Monday))
+                    (PP (IN in)
+                      (NP (JJ many) (VBG swing) (NNS states))))))))))
+      (ADVP (RB merely))
+      (VP (VBP reiterate)
+        (NP
+          (NP
+            (NP (DT the) (NN governor) (POS 's))
+            (NNS thoughts)
+            (CC and)
+            (NNS ideas))
+          (PP (IN about)
+            (NP
+              (NP (NN education))
+              (, ,)
+              (NP
+                (NP (DT an) (NN issue))
+                (SBAR
+                  (S
+                    (NP (PRP he))
+                    (VP (VBZ has)
+                      (VP (VBN promoted)
+                        (PP (IN on)
+                          (NP (NN television)))
+                        (PP (IN since)
+                          (NP (DT the) (NNP New) (NNP Hampshire) (NN primary)))))))))))))
+    (. .)))
+
+det(spots-3, The-1)
+amod(spots-3, latest-2)
+nsubj(take-15, spots-3)
+det(campaign-7, the-5)
+nn(campaign-7, Bush-6)
+prep_by(spots-3, campaign-7)
+det(Party-11, the-9)
+nn(Party-11, Republican-10)
+conj_and(spots-3, Party-11)
+nsubj(take-15, Party-11)
+advmod(Party-11, meanwhile-13)
+root(ROOT-0, take-15)
+det(tack-19, a-16)
+amod(tack-19, much-17)
+nn(tack-19, softer-18)
+dobj(take-15, tack-19)
+prep_in(reiterate-37, fact-22)
+num(commercials-27, two-24)
+amod(commercials-27, new-25)
+nn(commercials-27, Bush-26)
+nsubj(began-29, commercials-27)
+nsubj(reiterate-37, commercials-27)
+rcmod(commercials-27, began-29)
+xcomp(began-29, running-30)
+dobj(running-30, Monday-31)
+amod(states-35, many-33)
+amod(states-35, swing-34)
+prep_in(Monday-31, states-35)
+advmod(reiterate-37, merely-36)
+parataxis(take-15, reiterate-37)
+det(governor-39, the-38)
+poss(thoughts-41, governor-39)
+dobj(reiterate-37, thoughts-41)
+dobj(reiterate-37, ideas-43)
+conj_and(thoughts-41, ideas-43)
+prep_about(thoughts-41, education-45)
+det(issue-48, an-47)
+appos(education-45, issue-48)
+nsubj(promoted-51, he-49)
+aux(promoted-51, has-50)
+rcmod(issue-48, promoted-51)
+prep_on(promoted-51, television-53)
+det(primary-58, the-55)
+nn(primary-58, New-56)
+nn(primary-58, Hampshire-57)
+prep_since(promoted-51, primary-58)
+
+``Parents/NNS need/VBP tools/NNS to/TO help/VB them/PRP protect/VB and/CC nurture/VB their/PRP$ families/NNS ,''/, Bush/NNP says/VBZ in/IN one/CD of/IN the/DT new/JJ spots/NNS ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNS ``Parents))
+      (VP (VBP need)
+        (S
+          (NP (NNS tools))
+          (VP (TO to)
+            (VP (VB help)
+              (S
+                (NP (PRP them))
+                (VP (VB protect)
+                  (CC and)
+                  (VB nurture)
+                  (NP (PRP$ their) (NNS families)))))))))
+    (, ,'')
+    (NP (NNP Bush))
+    (VP (VBZ says)
+      (PP (IN in)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (DT the) (JJ new) (NNS spots))))))
+    (. .)))
+
+nsubj(need-2, ``Parents-1)
+ccomp(says-14, need-2)
+dobj(need-2, tools-3)
+nsubj(help-5, tools-3)
+aux(help-5, to-4)
+xcomp(need-2, help-5)
+nsubj(protect-7, them-6)
+nsubj(nurture-9, them-6)
+ccomp(help-5, protect-7)
+ccomp(help-5, nurture-9)
+conj_and(protect-7, nurture-9)
+poss(families-11, their-10)
+dobj(protect-7, families-11)
+punct(says-14, ,''-12)
+nsubj(says-14, Bush-13)
+root(ROOT-0, says-14)
+prep_in(says-14, one-16)
+det(spots-20, the-18)
+amod(spots-20, new-19)
+prep_of(one-16, spots-20)
+
+In/IN the/DT other/JJ ,/, he/PRP says/VBZ ,/, ``How/NNP come/VBP the/DT hard/JJ things/NNS don't/TO get/VB done/NN ?/.
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ other)))
+    (PRN (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBZ says)))
+      (, ,))
+    (NP (NNP ``How))
+    (VP (VBP come)
+      (S
+        (NP (DT the) (JJ hard) (NNS things))
+        (VP (TO don't)
+          (VP (VB get)
+            (NP (NN done))))))
+    (. ?)))
+
+det(other-3, the-2)
+prep_in(come-9, other-3)
+nsubj(says-6, he-5)
+parataxis(come-9, says-6)
+nsubj(come-9, ``How-8)
+root(ROOT-0, come-9)
+det(things-12, the-10)
+amod(things-12, hard-11)
+dobj(come-9, things-12)
+nsubj(get-14, things-12)
+aux(get-14, don't-13)
+xcomp(come-9, get-14)
+dobj(get-14, done-15)
+
+Because/IN they're/RB hard/JJ ./.
+
+(ROOT
+  (FRAG
+    (PP (IN Because)
+      (PP
+        (ADVP (RB they're))
+        (ADJP (JJ hard))))
+    (. .)))
+
+root(ROOT-0, Because-1)
+pcomp(Because-1, they're-2)
+dep(they're-2, hard-3)
+
+If/IN we/PRP want/VBP to/TO make/VB sure/JJ no/DT child/NN gets/VBZ left/VBN behind/IN in/IN America/NNP ,/, we/PRP need/VBP the/DT courage/NN to/TO do/VB some/DT tough/JJ things/NNS .''/.
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP we))
+        (VP (VBP want)
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (ADJP (JJ sure)
+                  (SBAR
+                    (S
+                      (NP (DT no) (NN child))
+                      (VP (VBZ gets)
+                        (VP (VBN left)
+                          (PP (IN behind)
+                            (PP (IN in)
+                              (NP (NNP America)))))))))))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP need)
+      (S
+        (NP (DT the) (NN courage))
+        (VP (TO to)
+          (VP (VB do)
+            (NP (DT some) (JJ tough) (NNS things))))))
+    (. .'')))
+
+mark(want-3, If-1)
+nsubj(want-3, we-2)
+nsubj(make-5, we-2)
+advcl(need-16, want-3)
+aux(make-5, to-4)
+xcomp(want-3, make-5)
+acomp(make-5, sure-6)
+neg(child-8, no-7)
+nsubjpass(left-10, child-8)
+auxpass(left-10, gets-9)
+ccomp(sure-6, left-10)
+prep(left-10, behind-11)
+pcomp(behind-11, in-12)
+pobj(in-12, America-13)
+nsubj(need-16, we-15)
+root(ROOT-0, need-16)
+det(courage-18, the-17)
+dobj(need-16, courage-18)
+nsubj(do-20, courage-18)
+aux(do-20, to-19)
+xcomp(need-16, do-20)
+det(things-23, some-21)
+amod(things-23, tough-22)
+dobj(do-20, things-23)
+punct(need-16, .''-24)
+
+The/DT Democrats/NNPS '/POS continuing/NN emphasis/NN on/IN Bush/NNP 's/POS home-state/JJ record/NN is/VBZ a/DT reflection/NN of/IN a/DT strategy/NN of/IN attack/NN that/WDT has/VBZ been/VBN tried/VBN in/IN all/DT recent/JJ elections/NNS against/IN sitting/JJ or/CC former/JJ governors/NNS who/WP secure/VBP their/PRP$ party/NN nomination/NN for/IN president/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NNPS Democrats) (POS '))
+        (NN continuing) (NN emphasis))
+      (PP (IN on)
+        (NP
+          (NP (NNP Bush) (POS 's))
+          (JJ home-state) (NN record))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN reflection))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN strategy))
+            (PP (IN of)
+              (NP (NN attack)))))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ has)
+              (VP (VBN been)
+                (VP (VBN tried)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT all) (JJ recent) (NNS elections))
+                      (PP (IN against)
+                        (NP (JJ sitting)
+                          (CC or)
+                          (JJ former) (NNS governors)))
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (VP (VBP secure)
+                            (NP (PRP$ their) (NN party) (NN nomination))
+                            (PP (IN for)
+                              (NP (NN president)))))))))))))))
+    (. .)))
+
+det(Democrats-2, The-1)
+poss(emphasis-5, Democrats-2)
+nn(emphasis-5, continuing-4)
+nsubj(reflection-13, emphasis-5)
+poss(record-10, Bush-7)
+amod(record-10, home-state-9)
+prep_on(emphasis-5, record-10)
+cop(reflection-13, is-11)
+det(reflection-13, a-12)
+root(ROOT-0, reflection-13)
+nsubjpass(tried-22, reflection-13)
+det(strategy-16, a-15)
+prep_of(reflection-13, strategy-16)
+prep_of(strategy-16, attack-18)
+aux(tried-22, has-20)
+auxpass(tried-22, been-21)
+rcmod(reflection-13, tried-22)
+det(elections-26, all-24)
+amod(elections-26, recent-25)
+prep_in(tried-22, elections-26)
+nsubj(secure-33, elections-26)
+amod(governors-31, sitting-28)
+conj_or(sitting-28, former-30)
+amod(governors-31, former-30)
+prep_against(elections-26, governors-31)
+rcmod(elections-26, secure-33)
+poss(nomination-36, their-34)
+nn(nomination-36, party-35)
+dobj(secure-33, nomination-36)
+prep_for(secure-33, president-38)
+
+In/IN the/DT last/JJ 25/CD years/NNS ,/, political/JJ analysts/NNS say/VBP ,/, the/DT tactic/NN has/VBZ succeeded/VBN only/RB once/RB ,/, when/WRB then-Vice/NNP President/NNP George/NNP Bush/NNP famously/RB disparaged/VBD Michael/NNP S./NNP Dukakis/NNP '/POS record/NN in/IN Massachusetts/NNP on/IN pollution/NN in/IN Boston/NNP Harbor/NNP and/CC shortcomings/NNS in/IN a/DT state/NN prison/NN furlough/NN program/NN ./.
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ last) (CD 25) (NNS years)))
+    (, ,)
+    (NP (JJ political) (NNS analysts))
+    (VP (VBP say)
+      (PRN (, ,)
+        (S
+          (NP (DT the) (NN tactic))
+          (VP (VBZ has)
+            (VP (VBN succeeded)
+              (ADVP (RB only) (RB once)))))
+        (, ,))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NNP then-Vice) (NNP President) (NNP George) (NNP Bush))
+          (ADVP (RB famously))
+          (VP (VBD disparaged)
+            (NP
+              (NP (NNP Michael) (NNP S.) (NNP Dukakis) (POS '))
+              (NN record))
+            (PP (IN in)
+              (NP (NNP Massachusetts)))
+            (PP (IN on)
+              (NP
+                (NP
+                  (NP (NN pollution))
+                  (PP (IN in)
+                    (NP (NNP Boston) (NNP Harbor))))
+                (CC and)
+                (NP
+                  (NP (NNS shortcomings))
+                  (PP (IN in)
+                    (NP (DT a) (NN state) (NN prison) (NN furlough) (NN program))))))))))
+    (. .)))
+
+det(years-5, the-2)
+amod(years-5, last-3)
+num(years-5, 25-4)
+prep_in(say-9, years-5)
+amod(analysts-8, political-7)
+nsubj(say-9, analysts-8)
+root(ROOT-0, say-9)
+det(tactic-12, the-11)
+nsubj(succeeded-14, tactic-12)
+aux(succeeded-14, has-13)
+parataxis(say-9, succeeded-14)
+advmod(once-16, only-15)
+advmod(succeeded-14, once-16)
+advmod(disparaged-24, when-18)
+nn(Bush-22, then-Vice-19)
+nn(Bush-22, President-20)
+nn(Bush-22, George-21)
+nsubj(disparaged-24, Bush-22)
+advmod(disparaged-24, famously-23)
+advcl(say-9, disparaged-24)
+nn(Dukakis-27, Michael-25)
+nn(Dukakis-27, S.-26)
+poss(record-29, Dukakis-27)
+dobj(disparaged-24, record-29)
+prep_in(disparaged-24, Massachusetts-31)
+prep_on(disparaged-24, pollution-33)
+nn(Harbor-36, Boston-35)
+prep_in(pollution-33, Harbor-36)
+prep_on(disparaged-24, shortcomings-38)
+conj_and(pollution-33, shortcomings-38)
+det(program-44, a-40)
+nn(program-44, state-41)
+nn(program-44, prison-42)
+nn(program-44, furlough-43)
+prep_in(shortcomings-38, program-44)
+
+``Every/JJ time/NN a/DT governor/NN runs/NNS ,/, the/DT opponent/NN attacks/NNS his/PRP$ record/NN ./.
+
+(ROOT
+  (NP
+    (NP (JJ ``Every) (NN time))
+    (NP
+      (NP (DT a) (NN governor) (NNS runs))
+      (, ,)
+      (NP
+        (NP (DT the) (NN opponent) (NNS attacks))
+        (NP (PRP$ his) (NN record))))
+    (. .)))
+
+amod(time-2, ``Every-1)
+root(ROOT-0, time-2)
+det(runs-5, a-3)
+nn(runs-5, governor-4)
+dep(time-2, runs-5)
+det(attacks-9, the-7)
+nn(attacks-9, opponent-8)
+appos(runs-5, attacks-9)
+poss(record-11, his-10)
+dep(attacks-9, record-11)
+
+But/CC three/CD out/RB of/IN the/DT last/JJ four/CD times/NNS ,/, the/DT governor/NN has/VBZ won/VBN ,''/IN Darrell/NNP West/NNP ,/, a/DT political/JJ science/NN professor/NN at/IN Brown/NNP University/NNP who/WP analyzes/VBZ campaign/NN advertising/NN ,/, said/VBD of/IN similar/JJ attacks/NNS faced/VBN by/IN Jimmy/NNP Carter/NNP ,/, Ronald/NNP Reagan/NNP and/CC Bill/NNP Clinton/NNP ./.
+
+(ROOT
+  (S (CC But)
+    (PP
+      (ADVP
+        (NP (CD three))
+        (RB out))
+      (IN of)
+      (NP (DT the) (JJ last) (CD four) (NNS times)))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NN governor))
+        (VP (VBZ has)
+          (VP (VBN won)
+            (PP (IN ,'')
+              (NP (NNP Darrell) (NNP West))))))
+      (, ,))
+    (NP
+      (NP (DT a) (JJ political) (NN science) (NN professor))
+      (PP (IN at)
+        (NP
+          (NP (NNP Brown) (NNP University))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ analyzes)
+                (NP (NN campaign) (NN advertising))))))))
+    (, ,)
+    (VP (VBD said)
+      (PP (IN of)
+        (NP
+          (NP (JJ similar) (NNS attacks))
+          (VP (VBN faced)
+            (PP (IN by)
+              (NP
+                (NP (NNP Jimmy) (NNP Carter))
+                (, ,)
+                (NP (NNP Ronald) (NNP Reagan))
+                (CC and)
+                (NP (NNP Bill) (NNP Clinton))))))))
+    (. .)))
+
+cc(said-30, But-1)
+npadvmod(said-30, three-2)
+det(times-8, the-5)
+amod(times-8, last-6)
+num(times-8, four-7)
+prep_out_of(said-30, times-8)
+det(governor-11, the-10)
+nsubj(won-13, governor-11)
+aux(won-13, has-12)
+parataxis(said-30, won-13)
+nn(West-16, Darrell-15)
+prep_,''(won-13, West-16)
+det(professor-21, a-18)
+amod(professor-21, political-19)
+nn(professor-21, science-20)
+nsubj(said-30, professor-21)
+nn(University-24, Brown-23)
+prep_at(professor-21, University-24)
+nsubj(analyzes-26, University-24)
+rcmod(University-24, analyzes-26)
+nn(advertising-28, campaign-27)
+dobj(analyzes-26, advertising-28)
+root(ROOT-0, said-30)
+amod(attacks-33, similar-32)
+prep_of(said-30, attacks-33)
+vmod(attacks-33, faced-34)
+nn(Carter-37, Jimmy-36)
+agent(faced-34, Carter-37)
+nn(Reagan-40, Ronald-39)
+agent(faced-34, Reagan-40)
+conj_and(Carter-37, Reagan-40)
+nn(Clinton-43, Bill-42)
+agent(faced-34, Clinton-43)
+conj_and(Carter-37, Clinton-43)
+
+The/DT sharp/JJ critiques/NNS issued/VBN by/IN the/DT Gore/NNP campaign/NN and/CC its/PRP$ supporters/NNS ,/, West/NNP said/VBD ,/, have/VBP placed/VBN the/DT Democrats/NNPS in/IN an/DT unconventional/JJ position/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ sharp) (NNS critiques))
+      (VP (VBN issued)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (NNP Gore) (NN campaign))
+            (CC and)
+            (NP (PRP$ its) (NNS supporters))))))
+    (PRN (, ,)
+      (NP (NNP West))
+      (VP (VBD said))
+      (, ,))
+    (VP (VBP have)
+      (VP (VBN placed)
+        (NP (DT the) (NNPS Democrats))
+        (PP (IN in)
+          (NP (DT an) (JJ unconventional) (NN position)))))
+    (. .)))
+
+det(critiques-3, The-1)
+amod(critiques-3, sharp-2)
+nsubj(placed-17, critiques-3)
+vmod(critiques-3, issued-4)
+det(campaign-8, the-6)
+nn(campaign-8, Gore-7)
+agent(issued-4, campaign-8)
+poss(supporters-11, its-10)
+agent(issued-4, supporters-11)
+conj_and(campaign-8, supporters-11)
+nsubj(said-14, West-13)
+parataxis(placed-17, said-14)
+aux(placed-17, have-16)
+root(ROOT-0, placed-17)
+det(Democrats-19, the-18)
+dobj(placed-17, Democrats-19)
+det(position-23, an-21)
+amod(position-23, unconventional-22)
+prep_in(placed-17, position-23)
+
+``There/RB 's/VBZ been/VBN a/DT role/NN reversal/NN in/IN this/DT election/NN ,/, because/IN typically/RB the/DT challenger/NN goes/VBZ on/IN attack/NN and/CC the/DT incumbent/NN stays/NNS above/IN the/DT fray/NN ,''/IN he/PRP observed/VBD ./.
+
+(ROOT
+  (S
+    (ADVP (RB ``There))
+    (VP (VBZ 's)
+      (VP (VBN been)
+        (NP
+          (NP (DT a) (NN role) (NN reversal))
+          (PP (IN in)
+            (NP (DT this) (NN election))))
+        (, ,)
+        (SBAR (IN because)
+          (S
+            (ADVP (RB typically))
+            (NP (DT the) (NN challenger))
+            (VP (VBZ goes)
+              (PP (IN on)
+                (NP
+                  (NP (NN attack))
+                  (CC and)
+                  (NP (DT the) (NN incumbent)))))))))
+    (NP
+      (NP (NNS stays))
+      (PP (IN above)
+        (NP
+          (NP (DT the) (NN fray))
+          (SBAR (IN ,'')
+            (S
+              (NP (PRP he))
+              (VP (VBD observed)))))))
+    (. .)))
+
+advmod(reversal-6, ``There-1)
+auxpass(reversal-6, 's-2)
+cop(reversal-6, been-3)
+det(reversal-6, a-4)
+nn(reversal-6, role-5)
+root(ROOT-0, reversal-6)
+det(election-9, this-8)
+prep_in(reversal-6, election-9)
+mark(goes-15, because-11)
+advmod(goes-15, typically-12)
+det(challenger-14, the-13)
+nsubj(goes-15, challenger-14)
+advcl(reversal-6, goes-15)
+prep_on(goes-15, attack-17)
+det(incumbent-20, the-19)
+prep_on(goes-15, incumbent-20)
+conj_and(attack-17, incumbent-20)
+nsubjpass(reversal-6, stays-21)
+det(fray-24, the-23)
+prep_above(stays-21, fray-24)
+mark(observed-27, ,''-25)
+nsubj(observed-27, he-26)
+rcmod(fray-24, observed-27)
+
+``And/RB here/RB you/PRP have/VBP Gore/RB playing/VBG the/DT challenger/NN role/NN .''/.
+
+(ROOT
+  (S
+    (ADVP (RB ``And))
+    (NP (RB here) (PRP you))
+    (VP (VBP have)
+      (ADVP (RB Gore))
+      (S
+        (VP (VBG playing)
+          (NP (DT the) (NN challenger) (NN role)))))
+    (. .'')))
+
+advmod(have-4, ``And-1)
+advmod(you-3, here-2)
+nsubj(have-4, you-3)
+root(ROOT-0, have-4)
+advmod(have-4, Gore-5)
+xcomp(have-4, playing-6)
+det(role-9, the-7)
+nn(role-9, challenger-8)
+dobj(playing-6, role-9)
+punct(have-4, .''-10)
+
+In/IN its/PRP$ new/JJ video/NN ,/, the/DT Democratic/JJ National/NNP Committee/NNP interviews/VBZ several/JJ Texans/NNPS with/IN complaints/VBZ about/IN what/WP they/PRP say/VBP are/VBP the/DT Bush/NNP administration/NN 's/POS neglectful/JJ attitudes/NNS about/IN their/PRP$ problems/NNS ./.
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (PRP$ its) (JJ new) (NN video)))
+    (, ,)
+    (NP (DT the) (JJ Democratic) (NNP National) (NNP Committee))
+    (VP (VBZ interviews)
+      (NP (JJ several) (NNPS Texans))
+      (SBAR (IN with)
+        (S
+          (VP (VBZ complaints)
+            (PP (IN about)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP they))
+                  (VP (VBP say)
+                    (SBAR
+                      (S
+                        (VP (VBP are)
+                          (NP
+                            (NP
+                              (NP (DT the) (NNP Bush) (NN administration) (POS 's))
+                              (JJ neglectful) (NNS attitudes))
+                            (PP (IN about)
+                              (NP (PRP$ their) (NNS problems)))))))))))))))
+    (. .)))
+
+poss(video-4, its-2)
+amod(video-4, new-3)
+prep_in(interviews-10, video-4)
+det(Committee-9, the-6)
+amod(Committee-9, Democratic-7)
+nn(Committee-9, National-8)
+nsubj(interviews-10, Committee-9)
+root(ROOT-0, interviews-10)
+amod(Texans-12, several-11)
+dobj(interviews-10, Texans-12)
+mark(complaints-14, with-13)
+advcl(interviews-10, complaints-14)
+dobj(say-18, what-16)
+nsubj(attitudes-25, what-16)
+nsubj(say-18, they-17)
+prepc_about(complaints-14, say-18)
+cop(attitudes-25, are-19)
+det(administration-22, the-20)
+nn(administration-22, Bush-21)
+poss(attitudes-25, administration-22)
+amod(attitudes-25, neglectful-24)
+ccomp(say-18, attitudes-25)
+poss(problems-28, their-27)
+prep_about(attitudes-25, problems-28)
+
+One/CD segment/NN features/VBZ the/DT destitute/NN hamlets/NNS ,/, or/CC colonias/NNS ,/, that/WDT are/VBP home/NN to/TO some/DT of/IN the/DT poorest/JJS Texans/NNPS ./.
+
+(ROOT
+  (S
+    (NP (CD One) (NN segment))
+    (VP (VBZ features)
+      (NP
+        (NP
+          (NP (DT the) (NN destitute) (NNS hamlets))
+          (, ,)
+          (CC or)
+          (NP (NNS colonias))
+          (, ,))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP are)
+              (ADVP (NN home)
+                (PP (TO to)
+                  (NP
+                    (NP (DT some))
+                    (PP (IN of)
+                      (NP (DT the) (JJS poorest))))))
+              (NP (NNPS Texans)))))))
+    (. .)))
+
+num(segment-2, One-1)
+nsubj(features-3, segment-2)
+root(ROOT-0, features-3)
+det(hamlets-6, the-4)
+nn(hamlets-6, destitute-5)
+dobj(features-3, hamlets-6)
+nsubj(Texans-19, hamlets-6)
+dobj(features-3, colonias-9)
+conj_or(hamlets-6, colonias-9)
+nsubj(Texans-19, colonias-9)
+cop(Texans-19, are-12)
+advmod(Texans-19, home-13)
+prep_to(home-13, some-15)
+det(poorest-18, the-17)
+prep_of(some-15, poorest-18)
+rcmod(hamlets-6, Texans-19)
+
+``Governor/NNP Bush/NNP has/VBZ never/RB visited/VBN a/DT colonia/NN ,/, so/RB to/TO the/DT extent/NN that/IN that/DT shows/VBZ how/WRB much/JJ of/IN a/DT priority/NN it/PRP is/VBZ for/IN him/PRP ,/, may/MD the/DT American/JJ public/NN decide/NN ,''/IN a/DT former/JJ colonia/NN resident/JJ comments/NNS ./.
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP ``Governor) (NNP Bush))
+      (VP (VBZ has)
+        (ADVP (RB never))
+        (VP (VBN visited)
+          (NP (DT a) (NN colonia))
+          (, ,)
+          (ADVP (RB so)
+            (PP (TO to)
+              (NP (DT the) (NN extent))))
+          (SBAR (IN that)
+            (S
+              (NP (DT that))
+              (VP (VBZ shows)
+                (SBAR
+                  (WHADJP (WRB how) (JJ much)
+                    (PP (IN of)
+                      (NP (DT a) (NN priority))))
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ is)
+                      (PP (IN for)
+                        (NP (PRP him))))))))))))
+    (, ,)
+    (VP (MD may))
+    (NP
+      (NP (DT the) (JJ American) (NN public) (NN decide))
+      (PP (IN ,'')
+        (NP (DT a) (JJ former) (NN colonia) (JJ resident) (NNS comments))))
+    (. .)))
+
+nn(Bush-2, ``Governor-1)
+nsubj(visited-5, Bush-2)
+aux(visited-5, has-3)
+neg(visited-5, never-4)
+ccomp(may-26, visited-5)
+det(colonia-7, a-6)
+dobj(visited-5, colonia-7)
+advmod(visited-5, so-9)
+det(extent-12, the-11)
+prep_to(so-9, extent-12)
+mark(shows-15, that-13)
+nsubj(shows-15, that-14)
+ccomp(visited-5, shows-15)
+advmod(much-17, how-16)
+dep(is-22, much-17)
+det(priority-20, a-19)
+prep_of(much-17, priority-20)
+nsubj(is-22, it-21)
+ccomp(shows-15, is-22)
+prep_for(is-22, him-24)
+root(ROOT-0, may-26)
+det(decide-30, the-27)
+amod(decide-30, American-28)
+nn(decide-30, public-29)
+nsubj(may-26, decide-30)
+det(comments-36, a-32)
+amod(comments-36, former-33)
+nn(comments-36, colonia-34)
+amod(comments-36, resident-35)
+prep_,''(decide-30, comments-36)
+
+The/DT Bush/NNP campaign/NN took/VBD issue/NN with/IN that/DT assertion/NN ,/, declaring/VBG in/IN a/DT statement/NN that/IN the/DT governor/NN had/VBD visited/VBN colonias/NNS ``three/`` times/NNS ''/'' while/IN inspecting/VBG flood/JJ damage/NN and/CC being/VBG briefed/VBN on/IN water/NN and/CC sewage/NN problems/NNS ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Bush) (NN campaign))
+    (VP (VBD took)
+      (NP (NN issue))
+      (PP (IN with)
+        (NP (DT that) (NN assertion)))
+      (, ,)
+      (S
+        (VP
+          (VP (VBG declaring)
+            (PP (IN in)
+              (NP (DT a) (NN statement)))
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (NN governor))
+                (VP (VBD had)
+                  (VP (VBN visited)
+                    (NP
+                      (NP (NNS colonias))
+                      (`` ``three)
+                      (NP (NNS times))
+                      ('' ''))
+                    (PP (IN while)
+                      (S
+                        (VP (VBG inspecting)
+                          (NP (JJ flood) (NN damage))))))))))
+          (CC and)
+          (VP (VBG being)
+            (VP (VBN briefed)
+              (PP (IN on)
+                (NP (NN water)
+                  (CC and)
+                  (NN sewage) (NNS problems))))))))
+    (. .)))
+
+det(campaign-3, The-1)
+nn(campaign-3, Bush-2)
+nsubj(took-4, campaign-3)
+root(ROOT-0, took-4)
+dobj(took-4, issue-5)
+det(assertion-8, that-7)
+prep_with(took-4, assertion-8)
+dep(took-4, declaring-10)
+det(statement-13, a-12)
+prep_in(declaring-10, statement-13)
+mark(visited-18, that-14)
+det(governor-16, the-15)
+nsubj(visited-18, governor-16)
+aux(visited-18, had-17)
+ccomp(declaring-10, visited-18)
+dobj(visited-18, colonias-19)
+iobj(visited-18, colonias-19)
+punct(colonias-19, ``three-20)
+dep(colonias-19, times-21)
+prepc_while(visited-18, inspecting-24)
+amod(damage-26, flood-25)
+dobj(inspecting-24, damage-26)
+auxpass(briefed-29, being-28)
+dep(took-4, briefed-29)
+conj_and(declaring-10, briefed-29)
+nn(problems-34, water-31)
+conj_and(water-31, sewage-33)
+nn(problems-34, sewage-33)
+prep_on(briefed-29, problems-34)
+
+Some/DT of/IN the/DT video/NN 's/POS interviewees/NNS have/VBP been/VBN seen/VBN on/IN television/NN this/DT year/NN before/RB ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Some))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN video) (POS 's))
+          (NNS interviewees))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN seen)
+          (PP (IN on)
+            (NP
+              (NP (NN television))
+              (NP (DT this) (NN year))))
+          (ADVP (RB before)))))
+    (. .)))
+
+nsubjpass(seen-9, Some-1)
+det(video-4, the-3)
+poss(interviewees-6, video-4)
+prep_of(Some-1, interviewees-6)
+aux(seen-9, have-7)
+auxpass(seen-9, been-8)
+root(ROOT-0, seen-9)
+prep_on(seen-9, television-11)
+det(year-13, this-12)
+dep(television-11, year-13)
+advmod(seen-9, before-14)
+
+Tamara/NNP Maschino/NNP ,/, for/IN example/NN ,/, a/DT resident/NN of/IN the/DT Clear/NNP Lake/NNP area/NN of/IN Houston/NNP ,/, criticizes/VBZ Bush/NNP for/IN his/PRP$ lack/NN of/IN attention/NN to/TO pollution/VB problems/NNS from/IN chemical/NN plants/NNS near/IN her/PRP$ home/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Tamara) (NNP Maschino))
+      (, ,)
+      (PP (IN for)
+        (NP
+          (NP (NN example))
+          (, ,)
+          (NP
+            (NP (DT a) (NN resident))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNP Clear) (NNP Lake) (NN area))
+                (PP (IN of)
+                  (NP (NNP Houston))))))))
+      (, ,))
+    (VP (VBZ criticizes)
+      (S
+        (NP
+          (NP (NNP Bush))
+          (PP (IN for)
+            (NP
+              (NP (PRP$ his) (NN lack))
+              (PP (IN of)
+                (NP (NN attention))))))
+        (VP (TO to)
+          (VP (VB pollution)
+            (NP (NNS problems))
+            (PP (IN from)
+              (NP
+                (NP (NN chemical) (NNS plants))
+                (PP (IN near)
+                  (NP (PRP$ her) (NN home)))))))))
+    (. .)))
+
+nn(Maschino-2, Tamara-1)
+nsubj(criticizes-17, Maschino-2)
+prep_for(Maschino-2, example-5)
+det(resident-8, a-7)
+appos(example-5, resident-8)
+det(area-13, the-10)
+nn(area-13, Clear-11)
+nn(area-13, Lake-12)
+prep_of(resident-8, area-13)
+prep_of(area-13, Houston-15)
+root(ROOT-0, criticizes-17)
+dobj(criticizes-17, Bush-18)
+nsubj(pollution-25, Bush-18)
+poss(lack-21, his-20)
+prep_for(Bush-18, lack-21)
+prep_of(lack-21, attention-23)
+aux(pollution-25, to-24)
+xcomp(criticizes-17, pollution-25)
+dobj(pollution-25, problems-26)
+nn(plants-29, chemical-28)
+prep_from(pollution-25, plants-29)
+poss(home-32, her-31)
+prep_near(plants-29, home-32)
+
+``We/NNP went/VBD to/TO Governor/NNP Bush/NNP 's/POS office/NN and/CC spoke/NN with/IN John/NNP Howard/NNP ,/, his/PRP$ top/JJ environmental/JJ aide/NN ,''/, Maschino/NNP says/VBZ in/IN the/DT video/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP ``We))
+      (VP (VBD went)
+        (PP (TO to)
+          (NP
+            (NP (NNP Governor) (NNP Bush) (POS 's))
+            (NN office)
+            (CC and)
+            (NN spoke)))
+        (PP (IN with)
+          (NP (NNP John) (NNP Howard)))))
+    (, ,)
+    (NP (PRP$ his)
+      (NX
+        (NX (JJ top) (JJ environmental) (NN aide))
+        (, ,'')
+        (NX (NNP Maschino))))
+    (VP (VBZ says)
+      (PP (IN in)
+        (NP (DT the) (NN video))))
+    (. .)))
+
+nsubj(went-2, ``We-1)
+ccomp(says-20, went-2)
+nn(Bush-5, Governor-4)
+poss(office-7, Bush-5)
+prep_to(went-2, office-7)
+prep_to(went-2, spoke-9)
+conj_and(office-7, spoke-9)
+nn(Howard-12, John-11)
+prep_with(went-2, Howard-12)
+poss(Maschino-19, his-14)
+amod(aide-17, top-15)
+amod(aide-17, environmental-16)
+dep(Maschino-19, aide-17)
+punct(Maschino-19, ,''-18)
+nsubj(says-20, Maschino-19)
+root(ROOT-0, says-20)
+det(video-23, the-22)
+prep_in(says-20, video-23)
+
+``We/RB met/VB him/PRP for/IN over/IN an/DT hour/NN ./.
+
+(ROOT
+  (S
+    (ADVP (RB ``We))
+    (VP (VB met)
+      (NP (PRP him))
+      (PP (IN for)
+        (PP (IN over)
+          (NP (DT an) (NN hour)))))
+    (. .)))
+
+advmod(met-2, ``We-1)
+root(ROOT-0, met-2)
+dobj(met-2, him-3)
+prep(met-2, for-4)
+pcomp(for-4, over-5)
+det(hour-7, an-6)
+pobj(over-5, hour-7)
+
+Nothing/VBG happened/VBN .''/.
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Nothing)))
+    (VP (VBN happened))
+    (. .'')))
+
+csubj(happened-2, Nothing-1)
+root(ROOT-0, happened-2)
+punct(happened-2, .''-3)
+
+Maschino/NNP also/RB appeared/VBD in/IN an/DT attack/NN advertisement/NN broadcast/NN in/IN the/DT spring/NN by/IN the/DT Sierra/NNP Club/NNP ,/, in/IN which/WDT similar/JJ accusations/NNS were/VBD leveled/VBN ./.
+
+(ROOT
+  (S
+    (NP (NNP Maschino))
+    (ADVP (RB also))
+    (VP (VBD appeared)
+      (PP (IN in)
+        (NP
+          (NP (DT an) (NN attack) (NN advertisement) (NN broadcast))
+          (PP (IN in)
+            (NP (DT the) (NN spring)))))
+      (PP (IN by)
+        (NP
+          (NP (DT the) (NNP Sierra) (NNP Club))
+          (, ,)
+          (SBAR
+            (WHPP (IN in)
+              (WHNP (WDT which)))
+            (S
+              (NP (JJ similar) (NNS accusations))
+              (VP (VBD were)
+                (VP (VBN leveled))))))))
+    (. .)))
+
+nsubj(appeared-3, Maschino-1)
+advmod(appeared-3, also-2)
+root(ROOT-0, appeared-3)
+det(broadcast-8, an-5)
+nn(broadcast-8, attack-6)
+nn(broadcast-8, advertisement-7)
+prep_in(appeared-3, broadcast-8)
+det(spring-11, the-10)
+prep_in(broadcast-8, spring-11)
+det(Club-15, the-13)
+nn(Club-15, Sierra-14)
+prep_by(appeared-3, Club-15)
+prep_in(leveled-22, Club-15)
+amod(accusations-20, similar-19)
+nsubjpass(leveled-22, accusations-20)
+auxpass(leveled-22, were-21)
+rcmod(Club-15, leveled-22)
+
+Joe/NNP Andrew/NNP ,/, national/JJ chairman/NN of/IN the/DT Democratic/JJ National/NNP Committee/NNP ,/, said/VBD the/DT aim/NN of/IN the/DT video/NN was/VBD to/TO personalize/VB the/DT policy/NN differences/NNS between/IN Bush/NNP and/CC Vice/NNP President/NNP Al/NNP Gore/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Joe) (NNP Andrew))
+      (, ,)
+      (NP
+        (NP (JJ national) (NN chairman))
+        (PP (IN of)
+          (NP (DT the) (JJ Democratic) (NNP National) (NNP Committee))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN aim))
+            (PP (IN of)
+              (NP (DT the) (NN video))))
+          (VP (VBD was)
+            (S
+              (VP (TO to)
+                (VP (VB personalize)
+                  (NP
+                    (NP (DT the) (NN policy) (NNS differences))
+                    (PP (IN between)
+                      (NP
+                        (NP (NNP Bush))
+                        (CC and)
+                        (NP (NNP Vice) (NNP President) (NNP Al) (NNP Gore))))))))))))
+    (. .)))
+
+nn(Andrew-2, Joe-1)
+nsubj(said-12, Andrew-2)
+amod(chairman-5, national-4)
+appos(Andrew-2, chairman-5)
+det(Committee-10, the-7)
+amod(Committee-10, Democratic-8)
+nn(Committee-10, National-9)
+prep_of(chairman-5, Committee-10)
+root(ROOT-0, said-12)
+det(aim-14, the-13)
+nsubj(was-18, aim-14)
+nsubj(personalize-20, aim-14)
+det(video-17, the-16)
+prep_of(aim-14, video-17)
+ccomp(said-12, was-18)
+aux(personalize-20, to-19)
+xcomp(was-18, personalize-20)
+det(differences-23, the-21)
+nn(differences-23, policy-22)
+dobj(personalize-20, differences-23)
+prep_between(differences-23, Bush-25)
+nn(Gore-30, Vice-27)
+nn(Gore-30, President-28)
+nn(Gore-30, Al-29)
+prep_between(differences-23, Gore-30)
+conj_and(Bush-25, Gore-30)
+
+``It/JJ becomes/NNS about/IN people/NNS ,/, not/RB politics/NNS ,/, when/WRB you/PRP hear/VBP the/DT individuals/NNS ,''/PRP said/VBD Andrew/NNP ,/, who/WP traveled/VBD to/TO Maine/NNP Monday/NNP to/TO show/VB the/DT video/NN to/TO reporters/NNS and/CC voters/NNS at/IN a/DT community/NN center/NN in/IN Portland/NNP and/CC on/IN a/DT college/NN campus/NN in/IN Bangor/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ ``It) (NNS becomes))
+      (PP (IN about)
+        (NP
+          (NP (NNS people))
+          (, ,)
+          (NP (RB not) (NNS politics))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP you))
+              (VP (VBP hear)
+                (S
+                  (NP (DT the) (NNS individuals))
+                  (NP (PRP ,'')))))))))
+    (VP (VBD said)
+      (NP
+        (NP (NNP Andrew))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD traveled)
+              (PP (TO to)
+                (NP (NNP Maine)))
+              (NP (NNP Monday))
+              (S
+                (VP (TO to)
+                  (VP (VB show)
+                    (NP (DT the) (NN video))
+                    (PP
+                      (PP (TO to)
+                        (NP
+                          (NP (NNS reporters)
+                            (CC and)
+                            (NNS voters))
+                          (PP (IN at)
+                            (NP
+                              (NP (DT a) (NN community) (NN center))
+                              (PP (IN in)
+                                (NP (NNP Portland)))))))
+                      (CC and)
+                      (PP (IN on)
+                        (NP
+                          (NP (DT a) (NN college) (NN campus))
+                          (PP (IN in)
+                            (NP (NNP Bangor))))))))))))))
+    (. .)))
+
+amod(becomes-2, ``It-1)
+nsubj(said-15, becomes-2)
+prep_about(becomes-2, people-4)
+tmod(hear-11, people-4)
+neg(politics-7, not-6)
+appos(people-4, politics-7)
+advmod(hear-11, when-9)
+nsubj(hear-11, you-10)
+rcmod(people-4, hear-11)
+det(individuals-13, the-12)
+nsubj(,''-14, individuals-13)
+xcomp(hear-11, ,''-14)
+root(ROOT-0, said-15)
+dobj(said-15, Andrew-16)
+nsubj(traveled-19, Andrew-16)
+rcmod(Andrew-16, traveled-19)
+prep_to(traveled-19, Maine-21)
+tmod(traveled-19, Monday-22)
+aux(show-24, to-23)
+vmod(traveled-19, show-24)
+vmod(traveled-19, show-24')
+conj_and(show-24, show-24')
+det(video-26, the-25)
+dobj(show-24, video-26)
+prep_to(show-24, reporters-28)
+prep_to(show-24, voters-30)
+conj_and(reporters-28, voters-30)
+det(center-34, a-32)
+nn(center-34, community-33)
+prep_at(reporters-28, center-34)
+prep_in(center-34, Portland-36)
+det(campus-41, a-39)
+nn(campus-41, college-40)
+prep_on(show-24', campus-41)
+prep_in(campus-41, Bangor-43)
+
+``We/NNP got/VBD 100/CD percent/NN of/IN the/DT TV/NNP stations/NNS in/IN Maine/NNP ''/'' to/TO attend/VB the/DT events/NNS ,/, he/PRP added/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP ``We))
+      (VP (VBD got)
+        (NP
+          (NP (CD 100) (NN percent))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NNP TV) (NNS stations))
+              (PP (IN in)
+                (NP (NNP Maine)))))
+          ('' '')
+          (S
+            (VP (TO to)
+              (VP (VB attend)
+                (NP (DT the) (NNS events))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD added))
+    (. .)))
+
+nsubj(got-2, ``We-1)
+ccomp(added-18, got-2)
+num(percent-4, 100-3)
+dobj(got-2, percent-4)
+det(stations-8, the-6)
+nn(stations-8, TV-7)
+prep_of(percent-4, stations-8)
+prep_in(stations-8, Maine-10)
+aux(attend-13, to-12)
+vmod(percent-4, attend-13)
+det(events-15, the-14)
+dobj(attend-13, events-15)
+nsubj(added-18, he-17)
+root(ROOT-0, added-18)
+
+Terry/NNP Holt/NNP ,/, communications/NNS director/NN for/IN Victory/JJ 2000/CD ,/, the/DT campaign/NN arm/NN of/IN the/DT Republican/NNP National/NNP Committee/NNP ,/, said/VBD the/DT video/NN was/VBD the/DT latest/JJS in/IN a/DT series/NN of/IN Democratic/JJ efforts/NNS to/TO get/VB a/DT prerecorded/JJ message/NN out/IN through/IN news/DT organizations/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Terry) (NNP Holt))
+      (, ,)
+      (NP
+        (NP (NNS communications) (NN director))
+        (PP (IN for)
+          (NP (JJ Victory) (CD 2000))))
+      (, ,)
+      (NP
+        (NP (DT the) (NN campaign) (NN arm))
+        (PP (IN of)
+          (NP (DT the) (NNP Republican) (NNP National) (NNP Committee))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN video))
+          (VP (VBD was)
+            (NP
+              (NP (DT the) (JJS latest))
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (NN series))
+                  (PP (IN of)
+                    (NP (JJ Democratic) (NNS efforts)))))
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP (DT a) (JJ prerecorded) (NN message))
+                    (ADVP (IN out)
+                      (PP (IN through)
+                        (NP (DT news) (NNS organizations))))))))))))
+    (. .)))
+
+nn(Holt-2, Terry-1)
+nsubj(said-19, Holt-2)
+nn(director-5, communications-4)
+appos(Holt-2, director-5)
+amod(2000-8, Victory-7)
+prep_for(director-5, 2000-8)
+det(arm-12, the-10)
+nn(arm-12, campaign-11)
+appos(Holt-2, arm-12)
+det(Committee-17, the-14)
+nn(Committee-17, Republican-15)
+nn(Committee-17, National-16)
+prep_of(arm-12, Committee-17)
+root(ROOT-0, said-19)
+det(video-21, the-20)
+nsubj(latest-24, video-21)
+cop(latest-24, was-22)
+det(latest-24, the-23)
+ccomp(said-19, latest-24)
+det(series-27, a-26)
+prep_in(latest-24, series-27)
+amod(efforts-30, Democratic-29)
+prep_of(series-27, efforts-30)
+aux(get-32, to-31)
+vmod(latest-24, get-32)
+det(message-35, a-33)
+amod(message-35, prerecorded-34)
+dobj(get-32, message-35)
+advmod(get-32, out-36)
+det(organizations-39, news-38)
+prep_through(out-36, organizations-39)
+
+``The/IN Gore/NNP campaign/NN has/VBZ been/VBN very/RB willing/JJ to/TO produce/VB television/NN spots/NNS for/IN the/DT purposes/NNS of/IN a/DT press/NN release/NN ,''/, he/PRP said/VBD ,/, adding/VBG that/IN it/PRP was/VBD a/DT fairly/RB economical/JJ tool/NN ./.
+
+(ROOT
+  (S
+    (SBAR (IN ``The)
+      (S
+        (NP (NNP Gore) (NN campaign))
+        (VP (VBZ has)
+          (VP (VBN been)
+            (ADJP (RB very) (JJ willing)
+              (S
+                (VP (TO to)
+                  (VP (VB produce)
+                    (NP (NN television) (NNS spots))
+                    (PP (IN for)
+                      (NP
+                        (NP (DT the) (NNS purposes))
+                        (PP (IN of)
+                          (NP (DT a) (NN press) (NN release)))))))))))))
+    (, ,'')
+    (NP (PRP he))
+    (VP (VBD said) (, ,)
+      (S
+        (VP (VBG adding)
+          (SBAR (IN that)
+            (S
+              (NP (PRP it))
+              (VP (VBD was)
+                (NP (DT a)
+                  (ADJP (RB fairly) (JJ economical))
+                  (NN tool))))))))
+    (. .)))
+
+mark(willing-7, ``The-1)
+nn(campaign-3, Gore-2)
+nsubj(willing-7, campaign-3)
+nsubj(produce-9, campaign-3)
+aux(willing-7, has-4)
+cop(willing-7, been-5)
+advmod(willing-7, very-6)
+advcl(said-21, willing-7)
+aux(produce-9, to-8)
+xcomp(willing-7, produce-9)
+nn(spots-11, television-10)
+dobj(produce-9, spots-11)
+det(purposes-14, the-13)
+prep_for(produce-9, purposes-14)
+det(release-18, a-16)
+nn(release-18, press-17)
+prep_of(purposes-14, release-18)
+punct(said-21, ,''-19)
+nsubj(said-21, he-20)
+root(ROOT-0, said-21)
+xcomp(said-21, adding-23)
+mark(tool-30, that-24)
+nsubj(tool-30, it-25)
+cop(tool-30, was-26)
+det(tool-30, a-27)
+advmod(economical-29, fairly-28)
+amod(tool-30, economical-29)
+ccomp(adding-23, tool-30)
+
+``You/PRP can/MD produce/VB a/DT spot/JJ today/NN for/IN $10,000/CD ,''/, Holt/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP (PRP ``You))
+      (VP (MD can)
+        (VP (VB produce)
+          (NP
+            (NP (DT a) (JJ spot) (NN today))
+            (PP (IN for)
+              (NP (CD $10,000)))))))
+    (, ,'')
+    (NP (NNP Holt))
+    (VP (VBD said))
+    (. .)))
+
+nsubj(produce-3, ``You-1)
+aux(produce-3, can-2)
+ccomp(said-11, produce-3)
+det(today-6, a-4)
+amod(today-6, spot-5)
+dobj(produce-3, today-6)
+prep_for(today-6, $10,000-8)
+punct(said-11, ,''-9)
+nsubj(said-11, Holt-10)
+root(ROOT-0, said-11)
+
+``During/VBG the/DT Republican/NNP convention/NN they/PRP unveiled/VBD four/CD that/IN I/PRP don't/VBP think/VB anyone/NN ever/RB saw/. .''/.
+
+(ROOT
+  (S
+    (S
+      (VP (VBG ``During)
+        (NP (DT the) (NNP Republican) (NN convention))))
+    (NP (PRP they))
+    (VP (VBD unveiled)
+      (NP (CD four))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBP don't)
+            (VP (VB think)
+              (NP (NN anyone))
+              (ADVP (RB ever) (. saw)))))))
+    (. .'')))
+
+dep(unveiled-6, ``During-1)
+det(convention-4, the-2)
+nn(convention-4, Republican-3)
+dobj(``During-1, convention-4)
+nsubj(unveiled-6, they-5)
+root(ROOT-0, unveiled-6)
+dobj(unveiled-6, four-7)
+mark(don't-10, that-8)
+nsubj(don't-10, I-9)
+ccomp(unveiled-6, don't-10)
+xcomp(don't-10, think-11)
+dobj(think-11, anyone-12)
+advmod(think-11, ever-13)
+punct(ever-13, saw-14)
+punct(unveiled-6, .''-15)
+
+NYT-10-23-00/CD 2233EDT/CD
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-10-23-00) (CD 2233EDT))))
+
+num(2233EDT-2, NYT-10-23-00-1)
+root(ROOT-0, 2233EDT-2)
+

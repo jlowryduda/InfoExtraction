@@ -1,0 +1,1373 @@
+APW20001007.1745.0371/DT NEWS/NNP STORY/NNPS 2000-10-07/CD 18:21:36/CD
+
+(ROOT
+  (NP
+    (NP (DT APW20001007.1745.0371))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-10-07) (CD 18:21:36))))
+
+root(ROOT-0, APW20001007.1745.0371-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001007.1745.0371-1, STORY-3)
+num(18:21:36-5, 2000-10-07-4)
+dep(APW20001007.1745.0371-1, 18:21:36-5)
+
+Israel-Fallen-Fort/JJ
+
+(ROOT
+  (ADJP (JJ Israel-Fallen-Fort)))
+
+root(ROOT-0, Israel-Fallen-Fort-1)
+
+W.Bank/NNP Holy/NNP Site/NNP Destroyed/VBN by/IN War/NNP
+
+(ROOT
+  (S
+    (NP (NNP W.Bank) (NNP Holy) (NNP Site))
+    (VP (VBN Destroyed)
+      (PP (IN by)
+        (NP (NNP War))))))
+
+nn(Site-3, W.Bank-1)
+nn(Site-3, Holy-2)
+nsubj(Destroyed-4, Site-3)
+root(ROOT-0, Destroyed-4)
+prep_by(Destroyed-4, War-6)
+
+NABLUS/NNP ,/, West/NNP Bank/NNP [AP/NNP ]/NNP _/, Joseph's/NNP Tomb/NNP ,/, the/DT flashpoint/NN in/IN a/DT week/NN of/IN bitter/NN West/NNP Bank/NNP clashes/NNS ,/, is/VBZ now/RB a/DT casualty/NN of/IN war/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP NABLUS))
+      (, ,)
+      (NP (NNP West) (NNP Bank) (NNP [AP) (NNP ]))
+      (, _)
+      (NP (NNP Joseph's) (NNP Tomb))
+      (, ,)
+      (NP
+        (NP
+          (NP (DT the) (NN flashpoint))
+          (PP (IN in)
+            (NP
+              (NP (DT a) (NN week))
+              (PP (IN of)
+                (NP (NN bitter))))))
+        (NP (NNP West) (NNP Bank) (NNS clashes)))
+      (, ,))
+    (VP (VBZ is)
+      (ADVP (RB now))
+      (NP
+        (NP (DT a) (NN casualty))
+        (PP (IN of)
+          (NP (NN war)))))
+    (. .)))
+
+nsubj(casualty-25, NABLUS-1)
+nn(]-6, West-3)
+nn(]-6, Bank-4)
+nn(]-6, [AP-5)
+appos(NABLUS-1, ]-6)
+punct(NABLUS-1, _-7)
+nn(Tomb-9, Joseph's-8)
+appos(NABLUS-1, Tomb-9)
+det(flashpoint-12, the-11)
+appos(NABLUS-1, flashpoint-12)
+det(week-15, a-14)
+prep_in(flashpoint-12, week-15)
+prep_of(week-15, bitter-17)
+nn(clashes-20, West-18)
+nn(clashes-20, Bank-19)
+dep(flashpoint-12, clashes-20)
+cop(casualty-25, is-22)
+advmod(casualty-25, now-23)
+det(casualty-25, a-24)
+root(ROOT-0, casualty-25)
+prep_of(casualty-25, war-27)
+
+The/DT steps/NNS leading/VBG down/RB to/TO the/DT tomb/NN are/VBP strewn/VBN with/IN stones/NNS chipped/VBN off/RP the/DT walls/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS steps))
+      (VP (VBG leading)
+        (ADVP (RB down)
+          (PP (TO to)
+            (NP (DT the) (NN tomb))))))
+    (VP (VBP are)
+      (VP (VBN strewn)
+        (PP (IN with)
+          (NP
+            (NP (NNS stones))
+            (VP (VBN chipped)
+              (PRT (RP off))
+              (NP (DT the) (NNS walls)))))))
+    (. .)))
+
+det(steps-2, The-1)
+nsubjpass(strewn-9, steps-2)
+vmod(steps-2, leading-3)
+advmod(leading-3, down-4)
+det(tomb-7, the-6)
+prep_to(down-4, tomb-7)
+auxpass(strewn-9, are-8)
+root(ROOT-0, strewn-9)
+prep_with(strewn-9, stones-11)
+vmod(stones-11, chipped-12)
+prt(chipped-12, off-13)
+det(walls-15, the-14)
+dobj(chipped-12, walls-15)
+
+The/DT top/NN of/IN the/DT dome/NN is/VBZ smashed/VBN through/IN in/IN two/CD places/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN top))
+      (PP (IN of)
+        (NP (DT the) (NN dome))))
+    (VP (VBZ is)
+      (VP (VBN smashed)
+        (PP (IN through)
+          (PP (IN in)
+            (NP (CD two) (NNS places))))))
+    (. .)))
+
+det(top-2, The-1)
+nsubjpass(smashed-7, top-2)
+det(dome-5, the-4)
+prep_of(top-2, dome-5)
+auxpass(smashed-7, is-6)
+root(ROOT-0, smashed-7)
+prep(smashed-7, through-8)
+pcomp(through-8, in-9)
+num(places-11, two-10)
+pobj(in-9, places-11)
+
+Inside/IN the/DT tomb/NN ,/, soggy/JJ books/NNS ,/, burned/VBD sleeping/VBG bags/NNS and/CC scattered/VBD cans/NNS of/IN food/NN litter/NN the/DT muddy/NN floor/NN ,/, and/CC the/DT walls/NNS are/VBP charred/VBN black/JJ from/IN fire/NN ./.
+
+(ROOT
+  (S
+    (PP (IN Inside)
+      (NP (DT the) (NN tomb)))
+    (, ,)
+    (S
+      (NP (JJ soggy) (NNS books))
+      (, ,)
+      (VP
+        (VP (VBD burned)
+          (NP (VBG sleeping) (NNS bags)))
+        (CC and)
+        (VP (VBD scattered)
+          (NP
+            (NP (NNS cans))
+            (PP (IN of)
+              (NP (NN food) (NN litter))))
+          (NP (DT the) (NN muddy) (NN floor))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (DT the) (NNS walls))
+      (VP (VBP are)
+        (VP (VBN charred)
+          (ADJP (JJ black))
+          (PP (IN from)
+            (NP (NN fire))))))
+    (. .)))
+
+det(tomb-3, the-2)
+prep_inside(burned-8, tomb-3)
+amod(books-6, soggy-5)
+nsubj(burned-8, books-6)
+nsubj(scattered-12, books-6)
+root(ROOT-0, burned-8)
+amod(bags-10, sleeping-9)
+dobj(burned-8, bags-10)
+conj_and(burned-8, scattered-12)
+iobj(scattered-12, cans-13)
+nn(litter-16, food-15)
+prep_of(cans-13, litter-16)
+det(floor-19, the-17)
+nn(floor-19, muddy-18)
+dobj(scattered-12, floor-19)
+det(walls-23, the-22)
+nsubjpass(charred-25, walls-23)
+auxpass(charred-25, are-24)
+conj_and(burned-8, charred-25)
+acomp(charred-25, black-26)
+prep_from(charred-25, fire-28)
+
+But/CC the/DT stone/NN sarcophagus/NN is/VBZ untouched/VBN ,/, perhaps/RB the/DT one/CD object/NN still/RB respected/VBN at/IN this/DT holy/JJ site/NN ,/, revered/VBN by/IN some/DT as/IN the/DT burial/JJ place/NN of/IN the/DT biblical/JJ patriarch/NN ./.
+
+(ROOT
+  (S (CC But)
+    (S
+      (NP (DT the) (NN stone) (NN sarcophagus))
+      (VP (VBZ is)
+        (VP (VBN untouched))))
+    (, ,)
+    (ADVP (RB perhaps))
+    (S
+      (NP (DT the) (CD one) (NN object))
+      (ADVP (RB still))
+      (VP (VBN respected)
+        (PP (IN at)
+          (NP
+            (NP (DT this) (JJ holy) (NN site))
+            (, ,)
+            (VP (VBN revered)
+              (PP (IN by)
+                (NP
+                  (NP (DT some))
+                  (PP (IN as)
+                    (NP
+                      (NP (DT the) (JJ burial) (NN place))
+                      (PP (IN of)
+                        (NP (DT the) (JJ biblical) (NN patriarch))))))))))))
+    (. .)))
+
+cc(untouched-6, But-1)
+det(sarcophagus-4, the-2)
+nn(sarcophagus-4, stone-3)
+nsubjpass(untouched-6, sarcophagus-4)
+auxpass(untouched-6, is-5)
+root(ROOT-0, untouched-6)
+advmod(respected-13, perhaps-8)
+det(object-11, the-9)
+num(object-11, one-10)
+nsubj(respected-13, object-11)
+advmod(respected-13, still-12)
+parataxis(untouched-6, respected-13)
+det(site-17, this-15)
+amod(site-17, holy-16)
+prep_at(respected-13, site-17)
+vmod(site-17, revered-19)
+agent(revered-19, some-21)
+det(place-25, the-23)
+amod(place-25, burial-24)
+prep_as(some-21, place-25)
+det(patriarch-29, the-27)
+amod(patriarch-29, biblical-28)
+prep_of(place-25, patriarch-29)
+
+The/DT compound/NN was/VBD home/NN to/TO a/DT Jewish/JJ seminary/NN ,/, where/WRB about/IN 30/CD students/NNS would/MD study/VB during/IN the/DT day/NN ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NN compound))
+    (VP (VBD was)
+      (ADVP (NN home))
+      (PP (TO to)
+        (NP (DT a) (JJ Jewish) (NN seminary)))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where)
+          (PP (IN about)
+            (NP (CD 30))))
+        (S
+          (NP (NNS students))
+          (VP (MD would)
+            (VP (VB study)
+              (PP (IN during)
+                (NP (DT the) (NN day))))))))
+    (. .)))
+
+det(compound-2, The-1)
+nsubj(was-3, compound-2)
+root(ROOT-0, was-3)
+advmod(was-3, home-4)
+det(seminary-8, a-6)
+amod(seminary-8, Jewish-7)
+prep_to(was-3, seminary-8)
+advmod(study-15, where-10)
+prep_about(where-10, 30-12)
+nsubj(study-15, students-13)
+aux(study-15, would-14)
+advcl(was-3, study-15)
+det(day-18, the-17)
+prep_during(study-15, day-18)
+
+The/DT Israeli/NNP army/NN evacuated/VBD the/DT outpost/NN before/IN dawn/NN on/IN Saturday/NN ,/, after/IN clashes/NNS there/RB last/JJ week/NN killed/VBD six/CD Palestinians/NNPS and/CC an/DT Israeli/NNP border/NN policeman/NN ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Israeli) (NN army))
+    (VP (VBD evacuated)
+      (NP (DT the) (NN outpost))
+      (PP (IN before)
+        (NP (NN dawn)))
+      (PP (IN on)
+        (NP (NN Saturday)))
+      (, ,)
+      (SBAR (IN after)
+        (S
+          (NP (NNS clashes))
+          (NP (RB there) (JJ last) (NN week))
+          (VP (VBD killed)
+            (NP
+              (NP (CD six) (NNPS Palestinians))
+              (CC and)
+              (NP (DT an) (NNP Israeli) (NN border) (NN policeman)))))))
+    (. .)))
+
+det(army-3, The-1)
+nn(army-3, Israeli-2)
+nsubj(evacuated-4, army-3)
+root(ROOT-0, evacuated-4)
+det(outpost-6, the-5)
+dobj(evacuated-4, outpost-6)
+prep_before(evacuated-4, dawn-8)
+prep_on(evacuated-4, Saturday-10)
+mark(killed-17, after-12)
+nsubj(killed-17, clashes-13)
+advmod(week-16, there-14)
+amod(week-16, last-15)
+nsubj(killed-17, week-16)
+advcl(evacuated-4, killed-17)
+num(Palestinians-19, six-18)
+dobj(killed-17, Palestinians-19)
+det(policeman-24, an-21)
+nn(policeman-24, Israeli-22)
+nn(policeman-24, border-23)
+dobj(killed-17, policeman-24)
+conj_and(Palestinians-19, policeman-24)
+
+The/DT seminary/NN had/VBD been/VBN closed/JJ during/IN the/DT violence/NN ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NN seminary))
+    (VP (VBD had)
+      (VP (VBN been)
+        (ADJP (JJ closed))
+        (PP (IN during)
+          (NP (DT the) (NN violence)))))
+    (. .)))
+
+det(seminary-2, The-1)
+nsubj(closed-5, seminary-2)
+aux(closed-5, had-3)
+cop(closed-5, been-4)
+root(ROOT-0, closed-5)
+det(violence-8, the-7)
+prep_during(closed-5, violence-8)
+
+Palestinian/JJ security/NN officials/NNS were/VBD left/VBN standing/JJ guard/NN as/IN hundreds/NNS of/IN Palestinians/NNPS converged/VBD on/IN the/DT square/NN in/IN front/NN of/IN the/DT site/NN ,/, cheering/VBG the/DT withdrawal/NN ./.
+
+(ROOT
+  (S
+    (NP (JJ Palestinian) (NN security) (NNS officials))
+    (VP (VBD were)
+      (VP (VBN left)
+        (NP (JJ standing) (NN guard))
+        (SBAR (IN as)
+          (S
+            (NP
+              (NP (NNS hundreds))
+              (PP (IN of)
+                (NP (NNPS Palestinians))))
+            (VP (VBD converged)
+              (PP (IN on)
+                (NP (DT the) (NN square)))
+              (PP (IN in)
+                (NP
+                  (NP (NN front))
+                  (PP (IN of)
+                    (NP (DT the) (NN site)))))
+              (, ,)
+              (S
+                (VP (VBG cheering)
+                  (NP (DT the) (NN withdrawal)))))))))
+    (. .)))
+
+amod(officials-3, Palestinian-1)
+nn(officials-3, security-2)
+nsubjpass(left-5, officials-3)
+auxpass(left-5, were-4)
+root(ROOT-0, left-5)
+amod(guard-7, standing-6)
+dobj(left-5, guard-7)
+mark(converged-12, as-8)
+nsubj(converged-12, hundreds-9)
+prep_of(hundreds-9, Palestinians-11)
+advcl(left-5, converged-12)
+det(square-15, the-14)
+prep_on(converged-12, square-15)
+det(site-20, the-19)
+prep_in_front_of(converged-12, site-20)
+xcomp(converged-12, cheering-22)
+det(withdrawal-24, the-23)
+dobj(cheering-22, withdrawal-24)
+
+With/IN the/DT arrival/NN of/IN dozens/NNS of/IN Palestinian/JJ gunmen/NNS ,/, the/DT celebration/NN degenerated/VBN into/IN a/DT trashing/NN of/IN the/DT compound/NN ,/, with/IN crowds/NNS vandalizing/VBG the/DT tomb/NN ,/, setting/VBG fires/VBZ and/CC hammering/VBG away/NN at/IN the/DT stone/NN buildings/NNS ./.
+
+(ROOT
+  (S
+    (PP (IN With)
+      (NP
+        (NP (DT the) (NN arrival))
+        (PP (IN of)
+          (NP
+            (NP (NNS dozens))
+            (PP (IN of)
+              (NP (JJ Palestinian) (NNS gunmen)))))))
+    (, ,)
+    (NP (DT the) (NN celebration))
+    (VP (VBN degenerated)
+      (PP (IN into)
+        (NP
+          (NP (DT a) (NN trashing))
+          (PP (IN of)
+            (NP (DT the) (NN compound)))))
+      (, ,)
+      (PP (IN with)
+        (S
+          (NP (NNS crowds))
+          (VP
+            (VP (VBG vandalizing)
+              (NP (DT the) (NN tomb)))
+            (, ,)
+            (VP (VBG setting)
+              (VP (VBZ fires)))
+            (CC and)
+            (VP (VBG hammering)
+              (NP (NN away))
+              (PP (IN at)
+                (NP (DT the) (NN stone) (NNS buildings))))))))
+    (. .)))
+
+det(arrival-3, the-2)
+prep_with(degenerated-12, arrival-3)
+prep_of(arrival-3, dozens-5)
+amod(gunmen-8, Palestinian-7)
+prep_of(dozens-5, gunmen-8)
+det(celebration-11, the-10)
+nsubj(degenerated-12, celebration-11)
+root(ROOT-0, degenerated-12)
+det(trashing-15, a-14)
+prep_into(degenerated-12, trashing-15)
+det(compound-18, the-17)
+prep_of(trashing-15, compound-18)
+nsubj(vandalizing-22, crowds-21)
+nsubj(setting-26, crowds-21)
+nsubj(hammering-29, crowds-21)
+prepc_with(degenerated-12, vandalizing-22)
+det(tomb-24, the-23)
+dobj(vandalizing-22, tomb-24)
+prepc_with(degenerated-12, setting-26)
+conj_and(vandalizing-22, setting-26)
+dep(setting-26, fires-27)
+prepc_with(degenerated-12, hammering-29)
+conj_and(vandalizing-22, hammering-29)
+dobj(hammering-29, away-30)
+det(buildings-34, the-32)
+nn(buildings-34, stone-33)
+prep_at(hammering-29, buildings-34)
+
+``We/RB did/VBD it/PRP so/IN the/DT Jews/NNPS never/RB come/VB back/RB ,''/IN said/VBD Haitham/NNP Najid/NNP Kabee/NNP ,/, 14/CD ,/, who/WP vandalized/VBD the/DT tomb/NN with/IN his/PRP$ friends/NNS ./.
+
+(ROOT
+  (SINV
+    (ADVP (RB ``We))
+    (VP (VBD did)
+      (NP (PRP it))
+      (SBAR (IN so)
+        (S
+          (NP (DT the) (NNPS Jews))
+          (ADVP (RB never))
+          (VP (VB come)
+            (PRT (RB back))
+            (SBAR (IN ,'')
+              (S
+                (VP (VBD said))))))))
+    (NP
+      (NP (NNP Haitham) (NNP Najid) (NNP Kabee))
+      (, ,)
+      (NP
+        (NP (CD 14))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD vandalized)
+              (NP (DT the) (NN tomb))
+              (PP (IN with)
+                (NP (PRP$ his) (NNS friends))))))))
+    (. .)))
+
+advmod(did-2, ``We-1)
+root(ROOT-0, did-2)
+dobj(did-2, it-3)
+mark(come-8, so-4)
+det(Jews-6, the-5)
+nsubj(come-8, Jews-6)
+neg(come-8, never-7)
+advcl(did-2, come-8)
+prt(come-8, back-9)
+mark(said-11, ,''-10)
+advcl(come-8, said-11)
+nn(Kabee-14, Haitham-12)
+nn(Kabee-14, Najid-13)
+nsubj(did-2, Kabee-14)
+appos(Kabee-14, 14-16)
+nsubj(vandalized-19, 14-16)
+rcmod(14-16, vandalized-19)
+det(tomb-21, the-20)
+dobj(vandalized-19, tomb-21)
+poss(friends-24, his-23)
+prep_with(vandalized-19, friends-24)
+
+Nablus/NNP Gov/NNP ./.
+
+(ROOT
+  (NP (NNP Nablus) (NNP Gov) (. .)))
+
+nn(Gov-2, Nablus-1)
+root(ROOT-0, Gov-2)
+
+Mahmoud/NNP Aloul/NNP came/VBD to/TO the/DT square/NN to/TO plead/VB with/IN the/DT vandals/NNS to/TO stop/VB ./.
+
+(ROOT
+  (S
+    (NP (NNP Mahmoud) (NNP Aloul))
+    (VP (VBD came)
+      (PP (TO to)
+        (NP (DT the) (NN square)))
+      (S
+        (VP (TO to)
+          (VP (VB plead)
+            (PP (IN with)
+              (NP (DT the) (NNS vandals)))
+            (S
+              (VP (TO to)
+                (VP (VB stop))))))))
+    (. .)))
+
+nn(Aloul-2, Mahmoud-1)
+nsubj(came-3, Aloul-2)
+nsubj(plead-8, Aloul-2)
+nsubj(stop-13, Aloul-2)
+root(ROOT-0, came-3)
+det(square-6, the-5)
+prep_to(came-3, square-6)
+aux(plead-8, to-7)
+xcomp(came-3, plead-8)
+det(vandals-11, the-10)
+prep_with(plead-8, vandals-11)
+aux(stop-13, to-12)
+xcomp(plead-8, stop-13)
+
+``We/NNP should/MD protect/VB this/DT building/NN and/CC make/VB it/PRP a/DT symbol/NN for/IN our/PRP$ martyrs/NNS who/WP were/VBD killed/VBN defending/VBG it/PRP ,''/, said/VBD Aloul/NNP ,/, whose/WP$ son/NN was/VBD killed/VBN in/IN clashes/NNS last/JJ week/NN ./.
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP ``We))
+      (VP (MD should)
+        (VP
+          (VP (VB protect)
+            (NP (DT this) (NN building)))
+          (CC and)
+          (VP (VB make)
+            (NP (PRP it)))
+          (NP
+            (NP (DT a) (NN symbol))
+            (PP (IN for)
+              (NP (PRP$ our) (NNS martyrs)))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD were)
+                  (VP (VBN killed)
+                    (S
+                      (VP (VBG defending)
+                        (NP (PRP it))))))))))))
+    (, ,'')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Aloul))
+      (, ,)
+      (SBAR
+        (WHNP (WP$ whose) (NN son))
+        (S
+          (VP (VBD was)
+            (VP (VBN killed)
+              (PP (IN in)
+                (NP (NNS clashes)))
+              (NP (JJ last) (NN week)))))))
+    (. .)))
+
+nsubj(protect-3, ``We-1)
+nsubj(make-7, ``We-1)
+aux(protect-3, should-2)
+ccomp(said-20, protect-3)
+det(building-5, this-4)
+dobj(protect-3, building-5)
+conj_and(protect-3, make-7)
+ccomp(said-20, make-7)
+dobj(make-7, it-8)
+det(symbol-10, a-9)
+dobj(protect-3, symbol-10)
+nsubjpass(killed-16, symbol-10)
+poss(martyrs-13, our-12)
+prep_for(symbol-10, martyrs-13)
+auxpass(killed-16, were-15)
+rcmod(symbol-10, killed-16)
+xcomp(killed-16, defending-17)
+dobj(defending-17, it-18)
+punct(said-20, ,''-19)
+root(ROOT-0, said-20)
+nsubj(said-20, Aloul-21)
+poss(son-24, Aloul-21)
+nsubjpass(killed-26, son-24)
+auxpass(killed-26, was-25)
+rcmod(Aloul-21, killed-26)
+prep_in(killed-26, clashes-28)
+amod(week-30, last-29)
+tmod(killed-26, week-30)
+
+``We/NNP will/MD stop/VB here/RB together/RB and/CC prevent/RB any/DT Jews/NNS from/IN coming/VBG back/RB to/TO this/DT place/NN .''/.
+
+(ROOT
+  (S
+    (NP (NNP ``We))
+    (VP (MD will)
+      (VP (VB stop)
+        (S
+          (S
+            (ADVP (RB here))
+            (ADJP (RB together)))
+          (CC and)
+          (S
+            (ADVP (RB prevent))
+            (NP (DT any) (NNS Jews))))
+        (PP (IN from)
+          (S
+            (VP (VBG coming)
+              (ADVP (RB back))
+              (PP (TO to)
+                (NP (DT this) (NN place))))))))
+    (. .'')))
+
+nsubj(stop-3, ``We-1)
+aux(stop-3, will-2)
+root(ROOT-0, stop-3)
+advmod(together-5, here-4)
+dep(stop-3, together-5)
+advmod(Jews-9, prevent-7)
+det(Jews-9, any-8)
+dep(stop-3, Jews-9)
+conj_and(together-5, Jews-9)
+prepc_from(stop-3, coming-11)
+advmod(coming-11, back-12)
+det(place-15, this-14)
+prep_to(coming-11, place-15)
+punct(stop-3, .''-16)
+
+But/CC the/DT governor/NN 's/POS call/NN went/VBD unheeded/VBN ./.
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (NN governor) (POS 's))
+      (NN call))
+    (VP (VBD went)
+      (VP (VBN unheeded)))
+    (. .)))
+
+cc(went-6, But-1)
+det(governor-3, the-2)
+poss(call-5, governor-3)
+nsubj(went-6, call-5)
+root(ROOT-0, went-6)
+dep(went-6, unheeded-7)
+
+Demonstrators/NNS threw/IN Jewish/JJ prayer/NN books/NNS from/IN the/DT tomb/NN ,/, burning/VBG and/CC tearing/VBG them/PRP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Demonstrators))
+      (PP (IN threw)
+        (NP
+          (NP (JJ Jewish) (NN prayer) (NNS books))
+          (PP (IN from)
+            (NP (DT the) (NN tomb))))))
+    (, ,)
+    (VP (VBG burning)
+      (CC and)
+      (VBG tearing)
+      (NP (PRP them)))
+    (. .)))
+
+nsubj(burning-10, Demonstrators-1)
+nsubj(tearing-12, Demonstrators-1)
+amod(books-5, Jewish-3)
+nn(books-5, prayer-4)
+prep_threw(Demonstrators-1, books-5)
+det(tomb-8, the-7)
+prep_from(books-5, tomb-8)
+root(ROOT-0, burning-10)
+conj_and(burning-10, tearing-12)
+dobj(burning-10, them-13)
+
+Some/DT laughing/VBG teens/NNS walked/VBD out/RP of/IN the/DT compound/NN wearing/VBG Israeli/NNP helmets/NNS and/CC vests/NNS found/VBD inside/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Some))
+      (VP (VBG laughing)
+        (SBAR
+          (S
+            (NP (NNS teens))
+            (VP (VBD walked)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN compound))
+                  (VP (VBG wearing)
+                    (NP (NNP Israeli) (NNS helmets)
+                      (CC and)
+                      (NNS vests))))))))))
+    (VP (VBD found)
+      (NP (NN inside)))
+    (. .)))
+
+nsubj(found-14, Some-1)
+vmod(Some-1, laughing-2)
+nsubj(walked-4, teens-3)
+ccomp(laughing-2, walked-4)
+det(compound-8, the-7)
+prep_out_of(walked-4, compound-8)
+vmod(compound-8, wearing-9)
+nn(helmets-11, Israeli-10)
+dobj(wearing-9, helmets-11)
+dobj(wearing-9, vests-13)
+conj_and(helmets-11, vests-13)
+root(ROOT-0, found-14)
+dobj(found-14, inside-15)
+
+Dozens/NNP climbed/VBD on/IN the/DT roof/NN of/IN the/DT tomb/NN and/CC began/JJ hammering/NN ,/, breaking/VBG off/RP chunks/NNS of/IN rock/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP Dozens))
+    (VP (VBD climbed)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN roof))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN tomb))
+              (CC and)
+              (NP (JJ began) (NN hammering))))))
+      (, ,)
+      (S
+        (VP (VBG breaking)
+          (PRT (RP off))
+          (NP
+            (NP (NNS chunks))
+            (PP (IN of)
+              (NP (NN rock)))))))
+    (. .)))
+
+nsubj(climbed-2, Dozens-1)
+root(ROOT-0, climbed-2)
+det(roof-5, the-4)
+prep_on(climbed-2, roof-5)
+det(tomb-8, the-7)
+prep_of(roof-5, tomb-8)
+amod(hammering-11, began-10)
+prep_of(roof-5, hammering-11)
+conj_and(tomb-8, hammering-11)
+xcomp(climbed-2, breaking-13)
+prt(breaking-13, off-14)
+dobj(breaking-13, chunks-15)
+prep_of(chunks-15, rock-17)
+
+By/IN late/JJ afternoon/NN ,/, firefighters/NNS had/VBD put/VBN out/IN three/CD fires/NNS in/IN the/DT compound/NN ./.
+
+(ROOT
+  (S
+    (PP (IN By)
+      (NP (JJ late) (NN afternoon)))
+    (, ,)
+    (NP (NNS firefighters))
+    (VP (VBD had)
+      (VP (VBN put)
+        (PP (IN out)
+          (NP
+            (NP (CD three) (NNS fires))
+            (PP (IN in)
+              (NP (DT the) (NN compound)))))))
+    (. .)))
+
+amod(afternoon-3, late-2)
+prep_by(put-7, afternoon-3)
+nsubj(put-7, firefighters-5)
+aux(put-7, had-6)
+root(ROOT-0, put-7)
+num(fires-10, three-9)
+prep_out(put-7, fires-10)
+det(compound-13, the-12)
+prep_in(fires-10, compound-13)
+
+People/NNP still/RB wandered/VBD curiously/RB around/IN the/DT small/JJ enclave/NN ,/, now/RB topped/VBN by/IN a/DT large/JJ flag/NN of/IN the/DT radical/JJ Islamic/NNP group/NN Hamas/NNP ,/, and/CC a/DT smaller/JJR Palestinian/JJ flag/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP People))
+    (ADVP (RB still))
+    (VP (VBD wandered)
+      (ADVP (RB curiously))
+      (PP (IN around)
+        (NP
+          (NP (DT the) (JJ small) (NN enclave))
+          (, ,)
+          (VP
+            (ADVP (RB now))
+            (VBN topped)
+            (PP (IN by)
+              (NP
+                (NP (DT a) (JJ large) (NN flag))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (JJ radical) (NNP Islamic) (NN group) (NNP Hamas))
+                    (, ,)
+                    (CC and)
+                    (NP (DT a) (JJR smaller) (JJ Palestinian) (NN flag))))))))))
+    (. .)))
+
+nsubj(wandered-3, People-1)
+advmod(wandered-3, still-2)
+root(ROOT-0, wandered-3)
+advmod(wandered-3, curiously-4)
+det(enclave-8, the-6)
+amod(enclave-8, small-7)
+prep_around(wandered-3, enclave-8)
+advmod(topped-11, now-10)
+vmod(enclave-8, topped-11)
+det(flag-15, a-13)
+amod(flag-15, large-14)
+agent(topped-11, flag-15)
+det(Hamas-21, the-17)
+amod(Hamas-21, radical-18)
+nn(Hamas-21, Islamic-19)
+nn(Hamas-21, group-20)
+prep_of(flag-15, Hamas-21)
+det(flag-27, a-24)
+amod(flag-27, smaller-25)
+amod(flag-27, Palestinian-26)
+prep_of(flag-15, flag-27)
+conj_and(Hamas-21, flag-27)
+
+``I/NNP am/VBP very/RB happy/JJ ,''/NN said/VBD Nidal/NNP Abdel/NNP Jawad/NNP ,/, 40/CD ./.
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP ``I))
+      (VP (VBP am)
+        (NP
+          (ADJP (RB very) (JJ happy))
+          (NN ,''))))
+    (VP (VBD said))
+    (NP
+      (NP (NNP Nidal) (NNP Abdel) (NNP Jawad))
+      (, ,)
+      (NP (CD 40)))
+    (. .)))
+
+nsubj(,''-5, ``I-1)
+cop(,''-5, am-2)
+advmod(happy-4, very-3)
+amod(,''-5, happy-4)
+dep(said-6, ,''-5)
+root(ROOT-0, said-6)
+nn(Jawad-9, Nidal-7)
+nn(Jawad-9, Abdel-8)
+nsubj(said-6, Jawad-9)
+amod(Jawad-9, 40-11)
+
+``It/PRP was/VBD still/RB occupation/VBN as/IN long/JJ as/IN they/PRP were/VBD here/RB .''/.
+
+(ROOT
+  (S
+    (NP (PRP ``It))
+    (VP (VBD was)
+      (ADVP (RB still))
+      (VP (VBN occupation)
+        (PP (IN as)
+          (ADJP (JJ long)))
+        (SBAR (IN as)
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (ADVP (RB here)))))))
+    (. .'')))
+
+nsubjpass(occupation-4, ``It-1)
+auxpass(occupation-4, was-2)
+advmod(occupation-4, still-3)
+root(ROOT-0, occupation-4)
+prep_as(occupation-4, long-6)
+mark(were-9, as-7)
+nsubj(were-9, they-8)
+advcl(occupation-4, were-9)
+advmod(were-9, here-10)
+punct(occupation-4, .''-11)
+
+The/DT withdrawal/NN of/IN troops/NNS from/IN the/DT tomb/NN marked/VBD the/DT first/JJ time/NN Israel/NNP has/VBZ relinquished/VBN territory/JJ as/IN a/DT direct/JJ result/NN of/IN Palestinian/JJ violence/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN withdrawal))
+      (PP (IN of)
+        (NP
+          (NP (NNS troops))
+          (PP (IN from)
+            (NP (DT the) (NN tomb))))))
+    (VP (VBD marked)
+      (NP
+        (NP (DT the) (JJ first) (NN time))
+        (SBAR
+          (S
+            (NP (NNP Israel))
+            (VP (VBZ has)
+              (VP (VBN relinquished)
+                (ADJP (JJ territory))
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (JJ direct) (NN result))
+                    (PP (IN of)
+                      (NP (JJ Palestinian) (NN violence)))))))))))
+    (. .)))
+
+det(withdrawal-2, The-1)
+nsubj(marked-8, withdrawal-2)
+prep_of(withdrawal-2, troops-4)
+det(tomb-7, the-6)
+prep_from(troops-4, tomb-7)
+root(ROOT-0, marked-8)
+det(time-11, the-9)
+amod(time-11, first-10)
+dobj(marked-8, time-11)
+nsubj(relinquished-14, Israel-12)
+aux(relinquished-14, has-13)
+rcmod(time-11, relinquished-14)
+acomp(relinquished-14, territory-15)
+det(result-19, a-17)
+amod(result-19, direct-18)
+prep_as(relinquished-14, result-19)
+amod(violence-22, Palestinian-21)
+prep_of(result-19, violence-22)
+
+Deputy/NNP Defense/NNP Minister/NNP Ephraim/NNP Sneh/NNP said/VBD the/DT enclave/NN had/VBD become/VBN a/DT liability/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP Deputy) (NNP Defense) (NNP Minister) (NNP Ephraim) (NNP Sneh))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN enclave))
+          (VP (VBD had)
+            (VP (VBN become)
+              (NP (DT a) (NN liability)))))))
+    (. .)))
+
+nn(Sneh-5, Deputy-1)
+nn(Sneh-5, Defense-2)
+nn(Sneh-5, Minister-3)
+nn(Sneh-5, Ephraim-4)
+nsubj(said-6, Sneh-5)
+root(ROOT-0, said-6)
+det(enclave-8, the-7)
+nsubj(become-10, enclave-8)
+aux(become-10, had-9)
+ccomp(said-6, become-10)
+det(liability-12, a-11)
+xcomp(become-10, liability-12)
+
+But/CC after/IN the/DT destruction/NN that/WDT followed/VBD the/DT withdrawal/NN ,/, Israeli/NNP officials/NNS were/VBD furious/JJ ./.
+
+(ROOT
+  (S (CC But)
+    (PP (IN after)
+      (NP
+        (NP (DT the) (NN destruction))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD followed)
+              (NP (DT the) (NN withdrawal)))))))
+    (, ,)
+    (NP (NNP Israeli) (NNS officials))
+    (VP (VBD were)
+      (ADJP (JJ furious)))
+    (. .)))
+
+cc(furious-13, But-1)
+det(destruction-4, the-3)
+nsubj(followed-6, destruction-4)
+prep_after(furious-13, destruction-4)
+rcmod(destruction-4, followed-6)
+det(withdrawal-8, the-7)
+dobj(followed-6, withdrawal-8)
+nn(officials-11, Israeli-10)
+nsubj(furious-13, officials-11)
+cop(furious-13, were-12)
+root(ROOT-0, furious-13)
+
+``The/RB Palestinians/NNPS betrayed/VBN their/PRP$ commitment/NN and/CC have/VBP let/VB this/DT shrine/NN fall/NN into/IN the/DT hands/NNS of/IN the/DT mob/NN waiting/VBG outside/DT ,''/NN said/VBD Israeli/NNP government/NN spokesman/NN Nahman/NNP Shai/NNP ./.
+
+(ROOT
+  (S
+    (ADVP (RB ``The))
+    (NP
+      (NP (NNPS Palestinians))
+      (VP
+        (VP (VBN betrayed)
+          (NP (PRP$ their) (NN commitment)))
+        (CC and)
+        (VP (VBP have)
+          (S
+            (VP (VB let)
+              (NP (DT this) (NN shrine) (NN fall))
+              (PP (IN into)
+                (NP
+                  (NP (DT the) (NNS hands))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN mob))
+                      (VP (VBG waiting)
+                        (NP (DT outside) (NN ,''))))))))))))
+    (VP (VBD said)
+      (NP (NNP Israeli) (NN government) (NN spokesman) (NNP Nahman) (NNP Shai)))
+    (. .)))
+
+advmod(said-21, ``The-1)
+nsubj(said-21, Palestinians-2)
+dep(Palestinians-2, betrayed-3)
+poss(commitment-5, their-4)
+dobj(betrayed-3, commitment-5)
+dep(Palestinians-2, have-7)
+conj_and(betrayed-3, have-7)
+ccomp(have-7, let-8)
+det(fall-11, this-9)
+nn(fall-11, shrine-10)
+tmod(let-8, fall-11)
+det(hands-14, the-13)
+prep_into(let-8, hands-14)
+det(mob-17, the-16)
+prep_of(hands-14, mob-17)
+vmod(mob-17, waiting-18)
+det(,''-20, outside-19)
+dobj(waiting-18, ,''-20)
+root(ROOT-0, said-21)
+nn(Shai-26, Israeli-22)
+nn(Shai-26, government-23)
+nn(Shai-26, spokesman-24)
+nn(Shai-26, Nahman-25)
+dobj(said-21, Shai-26)
+
+He/PRP said/VBD the/DT government/NN ``deeply/RB deplores/VBZ ''/'' the/DT trashing/NN of/IN the/DT tomb/NN ./.
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN government))
+          (ADVP (RB ``deeply))
+          (VP (VBZ deplores))))
+      ('' '')
+      (PP
+        (NP (DT the) (NN trashing))
+        (IN of)
+        (NP (DT the) (NN tomb))))
+    (. .)))
+
+nsubj(said-2, He-1)
+root(ROOT-0, said-2)
+det(government-4, the-3)
+nsubj(deplores-6, government-4)
+advmod(deplores-6, ``deeply-5)
+ccomp(said-2, deplores-6)
+det(trashing-9, the-8)
+npadvmod(said-2, trashing-9)
+det(tomb-12, the-11)
+prep_of(said-2, tomb-12)
+
+A/DT statement/NN by/IN the/DT 15-member/JJ European/JJ Union/NN also/RB condemned/VBD the/DT destruction/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN statement))
+      (PP (IN by)
+        (NP (DT the) (JJ 15-member) (JJ European) (NN Union))))
+    (ADVP (RB also))
+    (VP (VBD condemned)
+      (NP (DT the) (NN destruction)))
+    (. .)))
+
+det(statement-2, A-1)
+nsubj(condemned-9, statement-2)
+det(Union-7, the-4)
+amod(Union-7, 15-member-5)
+amod(Union-7, European-6)
+prep_by(statement-2, Union-7)
+advmod(condemned-9, also-8)
+root(ROOT-0, condemned-9)
+det(destruction-11, the-10)
+dobj(condemned-9, destruction-11)
+
+The/DT tomb/NN 's/POS holiness/NN is/VBZ disputed/JJ ,/, as/IN tradition/NN holds/NNS that/IN Joseph/NNP was/VBD actually/RB buried/VBN in/IN Egypt/NN ;/: the/DT connection/NN of/IN the/DT site/JJ to/TO Joseph/NNP is/VBZ a/DT relatively/RB recent/JJ local/JJ Arab/NN tradition/NN also/RB observed/VBN by/IN some/DT Jews/NNP ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN tomb) (POS 's))
+        (NN holiness))
+      (VP (VBZ is)
+        (ADJP (JJ disputed))
+        (, ,)
+        (PP (IN as)
+          (NP (NN tradition) (NNS holds)))
+        (SBAR (IN that)
+          (S
+            (NP (NNP Joseph))
+            (VP (VBD was)
+              (ADVP (RB actually))
+              (VP (VBN buried)
+                (PP (IN in)
+                  (NP (NN Egypt)))))))))
+    (: ;)
+    (S
+      (NP
+        (NP (DT the) (NN connection))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ site))
+            (PP (TO to)
+              (NP (NNP Joseph))))))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a)
+            (ADJP (RB relatively) (JJ recent))
+            (JJ local) (NN Arab) (NN tradition))
+          (VP
+            (ADVP (RB also))
+            (VBN observed)
+            (PP (IN by)
+              (NP (DT some) (NNP Jews)))))))
+    (. .)))
+
+det(tomb-2, The-1)
+poss(holiness-4, tomb-2)
+nsubj(disputed-6, holiness-4)
+cop(disputed-6, is-5)
+root(ROOT-0, disputed-6)
+nn(holds-10, tradition-9)
+prep_as(disputed-6, holds-10)
+mark(buried-15, that-11)
+nsubjpass(buried-15, Joseph-12)
+auxpass(buried-15, was-13)
+advmod(buried-15, actually-14)
+ccomp(disputed-6, buried-15)
+prep_in(buried-15, Egypt-17)
+det(connection-20, the-19)
+nsubj(tradition-32, connection-20)
+det(site-23, the-22)
+prep_of(connection-20, site-23)
+prep_to(site-23, Joseph-25)
+cop(tradition-32, is-26)
+det(tradition-32, a-27)
+advmod(recent-29, relatively-28)
+amod(tradition-32, recent-29)
+amod(tradition-32, local-30)
+nn(tradition-32, Arab-31)
+parataxis(disputed-6, tradition-32)
+advmod(observed-34, also-33)
+vmod(tradition-32, observed-34)
+det(Jews-37, some-36)
+agent(observed-34, Jews-37)
+
+``What/`` I/PRP want/VBP to/TO understand/VB is/VBZ if/IN Joseph/NNP is/VBZ not/RB buried/VBN there/RB ,/, why/JJ this/DT place/NN was/VBD so/RB important/JJ ,''/NN said/VBD Abdul/NNP Fateh/NNP Sayed/NNP ,/, 62/CD ,/, whose/WP$ bookstore/NN across/IN the/DT street/NN was/VBD hit/VBN by/IN stray/JJ bullets/NNS in/IN the/DT fighting/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP (`` ``What) (PRP I))
+      (VP (VBP want)
+        (S
+          (VP (TO to)
+            (VP (VB understand)
+              (SBAR
+                (S
+                  (VP (VBZ is)
+                    (SBAR (IN if)
+                      (S
+                        (NP (NNP Joseph))
+                        (VP (VBZ is) (RB not)
+                          (VP (VBN buried)
+                            (ADVP (RB there))))))))))))))
+    (, ,)
+    (NP (JJ why) (DT this) (NN place))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ important)
+        (SBAR
+          (S
+            (NP (NN ,''))
+            (VP (VBD said)
+              (NP
+                (NP (NNP Abdul) (NNP Fateh) (NNP Sayed))
+                (, ,)
+                (NP (CD 62))
+                (, ,)
+                (SBAR
+                  (WHNP
+                    (NP (WP$ whose) (NN bookstore))
+                    (PP (IN across)
+                      (NP (DT the) (NN street))))
+                  (S
+                    (VP (VBD was)
+                      (VP (VBN hit)
+                        (PP (IN by)
+                          (NP
+                            (NP (JJ stray) (NNS bullets))
+                            (PP (IN in)
+                              (NP (DT the) (NN fighting)))))))))))))))
+    (. .)))
+
+punct(I-2, ``What-1)
+nsubj(want-3, I-2)
+nsubj(understand-5, I-2)
+ccomp(important-19, want-3)
+aux(understand-5, to-4)
+xcomp(want-3, understand-5)
+ccomp(understand-5, is-6)
+mark(buried-11, if-7)
+nsubjpass(buried-11, Joseph-8)
+auxpass(buried-11, is-9)
+neg(buried-11, not-10)
+advcl(is-6, buried-11)
+advmod(buried-11, there-12)
+amod(place-16, why-14)
+det(place-16, this-15)
+nsubj(important-19, place-16)
+cop(important-19, was-17)
+advmod(important-19, so-18)
+root(ROOT-0, important-19)
+nsubj(said-21, ,''-20)
+ccomp(important-19, said-21)
+nn(Sayed-24, Abdul-22)
+nn(Sayed-24, Fateh-23)
+dobj(said-21, Sayed-24)
+poss(bookstore-29, Sayed-24)
+amod(Sayed-24, 62-26)
+nsubjpass(hit-34, bookstore-29)
+det(street-32, the-31)
+prep_across(bookstore-29, street-32)
+auxpass(hit-34, was-33)
+rcmod(Sayed-24, hit-34)
+amod(bullets-37, stray-36)
+agent(hit-34, bullets-37)
+det(fighting-40, the-39)
+prep_in(bullets-37, fighting-40)
+
+``Now/IN it/PRP 's/VBZ over/RP ./.
+
+(ROOT
+  (FRAG
+    (SBAR (IN ``Now)
+      (S
+        (NP (PRP it))
+        (VP (VBZ 's)
+          (ADJP (RP over)))))
+    (. .)))
+
+mark(over-4, ``Now-1)
+nsubj(over-4, it-2)
+cop(over-4, 's-3)
+root(ROOT-0, over-4)
+
+We/PRP are/VBP very/RB happy/JJ ,''/, he/PRP said/VBD ,/, leafing/VBG through/IN a/DT thick/NN law/NN book/NN ,/, its/PRP$ pages/NNS shot/VBN through/IN by/IN bullets/NNS ./.
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ happy)
+        (SBAR (, ,'')
+          (S
+            (NP (PRP he))
+            (VP (VBD said) (, ,)
+              (S
+                (VP (VBG leafing)
+                  (PP (IN through)
+                    (NP
+                      (NP (DT a) (NN thick) (NN law) (NN book))
+                      (, ,)
+                      (NP
+                        (NP (PRP$ its) (NNS pages))
+                        (VP (VBN shot)
+                          (PP (IN through)
+                            (PP (IN by)
+                              (NP (NNS bullets)))))))))))))))
+    (. .)))
+
+nsubj(happy-4, We-1)
+cop(happy-4, are-2)
+advmod(happy-4, very-3)
+root(ROOT-0, happy-4)
+punct(said-7, ,''-5)
+nsubj(said-7, he-6)
+ccomp(happy-4, said-7)
+xcomp(said-7, leafing-9)
+det(book-14, a-11)
+nn(book-14, thick-12)
+nn(book-14, law-13)
+prep_through(leafing-9, book-14)
+poss(pages-17, its-16)
+appos(book-14, pages-17)
+vmod(pages-17, shot-18)
+prep(shot-18, through-19)
+pcomp(through-19, by-20)
+pobj(by-20, bullets-21)
+
+``There/RB should/MD never/RB have/VBP been/VBN a/DT military/JJ base/NN in/IN a/DT civilian/JJ area/NN .''/.
+
+(ROOT
+  (S
+    (NP
+      (ADVP (RB ``There)))
+    (VP (MD should)
+      (ADVP (RB never))
+      (VP (VBP have)
+        (VP (VBN been)
+          (NP
+            (NP (DT a) (JJ military) (NN base))
+            (PP (IN in)
+              (NP (DT a) (JJ civilian) (NN area)))))))
+    (. .'')))
+
+nsubj(base-8, ``There-1)
+aux(base-8, should-2)
+neg(base-8, never-3)
+aux(base-8, have-4)
+cop(base-8, been-5)
+det(base-8, a-6)
+amod(base-8, military-7)
+root(ROOT-0, base-8)
+det(area-12, a-10)
+amod(area-12, civilian-11)
+prep_in(base-8, area-12)
+punct(base-8, .''-13)
+

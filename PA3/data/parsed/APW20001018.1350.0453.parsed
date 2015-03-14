@@ -1,0 +1,1356 @@
+APW20001018.1350.0453/DT NEWS/NNP STORY/NNPS 2000-10-18/CD 14:20:24/CD
+
+(ROOT
+  (NP
+    (NP (DT APW20001018.1350.0453))
+    (NP (NNP NEWS) (NNPS STORY))
+    (NP (CD 2000-10-18) (CD 14:20:24))))
+
+root(ROOT-0, APW20001018.1350.0453-1)
+nn(STORY-3, NEWS-2)
+dep(APW20001018.1350.0453-1, STORY-3)
+num(14:20:24-5, 2000-10-18-4)
+dep(APW20001018.1350.0453-1, 14:20:24-5)
+
+Social-Security/NN
+
+(ROOT
+  (NP (NN Social-Security)))
+
+root(ROOT-0, Social-Security-1)
+
+Social/NNP Security/NNP Checks/NNP To/TO Jump/NNP
+
+(ROOT
+  (NP
+    (NP (NNP Social) (NNP Security) (NNP Checks))
+    (PP (TO To)
+      (NP (NNP Jump)))))
+
+nn(Checks-3, Social-1)
+nn(Checks-3, Security-2)
+root(ROOT-0, Checks-3)
+prep_to(Checks-3, Jump-5)
+
+WASHINGTON/NNP [AP/NNP ]/NNP _/, The/DT 45.2/CD million/CD Americans/NNPS getting/VBG Social/JJ Security/NN checks/NNS will/MD see/VB them/PRP grow/NN by/IN 3.5/CD percent/JJ next/JJ year/NN ,/, the/DT biggest/JJS cost-of-living/JJ increase/NN in/IN almost/RB a/DT decade/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP WASHINGTON) (NNP [AP) (NNP ]))
+      (PP (, _)
+        (NP
+          (NP (DT The)
+            (QP (CD 45.2) (CD million))
+            (NNPS Americans))
+          (VP (VBG getting)
+            (NP (JJ Social) (NN Security) (NNS checks))))))
+    (VP (MD will)
+      (VP (VB see)
+        (S
+          (NP (PRP them))
+          (VP (NN grow)
+            (PP (IN by)
+              (NP
+                (NP (CD 3.5) (JJ percent) (JJ next) (NN year))
+                (, ,)
+                (NP
+                  (NP (DT the) (JJS biggest) (JJ cost-of-living) (NN increase))
+                  (PP (IN in)
+                    (NP (RB almost) (DT a) (NN decade))))))))))
+    (. .)))
+
+nn(]-3, WASHINGTON-1)
+nn(]-3, [AP-2)
+nsubj(see-14, ]-3)
+punct(Americans-8, _-4)
+det(Americans-8, The-5)
+number(million-7, 45.2-6)
+num(Americans-8, million-7)
+prep(]-3, Americans-8)
+vmod(Americans-8, getting-9)
+amod(checks-12, Social-10)
+nn(checks-12, Security-11)
+dobj(getting-9, checks-12)
+aux(see-14, will-13)
+root(ROOT-0, see-14)
+nsubj(grow-16, them-15)
+ccomp(see-14, grow-16)
+num(year-21, 3.5-18)
+amod(year-21, percent-19)
+amod(year-21, next-20)
+prep_by(grow-16, year-21)
+det(increase-26, the-23)
+amod(increase-26, biggest-24)
+amod(increase-26, cost-of-living-25)
+appos(year-21, increase-26)
+advmod(decade-30, almost-28)
+det(decade-30, a-29)
+prep_in(increase-26, decade-30)
+
+That/DT 's/VBZ because/IN inflation/NN has/VBZ picked/VBN up/RP speed/NN ,/, almost/RB entirely/RB a/DT reflection/NN of/IN surging/VBG energy/NN prices/NNS ./.
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (SBAR (IN because)
+        (S
+          (NP (NN inflation))
+          (VP (VBZ has)
+            (VP (VBN picked)
+              (PRT (RP up))
+              (NP
+                (NP (NN speed))
+                (, ,)
+                (ADVP (RB almost) (RB entirely))
+                (NP
+                  (NP (DT a) (NN reflection))
+                  (PP (IN of)
+                    (NP (VBG surging) (NN energy) (NNS prices))))))))))
+    (. .)))
+
+nsubj('s-2, That-1)
+root(ROOT-0, 's-2)
+mark(picked-6, because-3)
+nsubj(picked-6, inflation-4)
+aux(picked-6, has-5)
+advcl('s-2, picked-6)
+prt(picked-6, up-7)
+dobj(picked-6, speed-8)
+advmod(entirely-11, almost-10)
+advmod(speed-8, entirely-11)
+det(reflection-13, a-12)
+dep(speed-8, reflection-13)
+amod(prices-17, surging-15)
+nn(prices-17, energy-16)
+prep_of(reflection-13, prices-17)
+
+The/DT increases/NNS ,/, which/WDT will/MD begin/VB showing/VBG up/RP in/IN benefit/NN payments/NNS for/IN January/NNP ,/, were/VBD announced/VBN by/IN Social/NNP Security/NNP based/VBN on/IN inflation/NN figures/NNS released/VBN Wednesday/NN by/IN the/DT Labor/NNP Department/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS increases))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (MD will)
+            (VP (VB begin)
+              (S
+                (VP (VBG showing)
+                  (PRT (RP up))
+                  (PP (IN in)
+                    (NP
+                      (NP (NN benefit) (NNS payments))
+                      (PP (IN for)
+                        (NP (NNP January)))))))))))
+      (, ,))
+    (VP (VBD were)
+      (VP (VBN announced)
+        (PP (IN by)
+          (NP
+            (NP (NNP Social) (NNP Security))
+            (VP (VBN based)
+              (PP (IN on)
+                (NP
+                  (NP (NN inflation) (NNS figures))
+                  (VP (VBN released)
+                    (NP (NN Wednesday))
+                    (PP (IN by)
+                      (NP (DT the) (NNP Labor) (NNP Department)))))))))))
+    (. .)))
+
+det(increases-2, The-1)
+nsubj(begin-6, increases-2)
+nsubjpass(announced-16, increases-2)
+aux(begin-6, will-5)
+rcmod(increases-2, begin-6)
+xcomp(begin-6, showing-7)
+prt(showing-7, up-8)
+nn(payments-11, benefit-10)
+prep_in(showing-7, payments-11)
+prep_for(payments-11, January-13)
+auxpass(announced-16, were-15)
+root(ROOT-0, announced-16)
+nn(Security-19, Social-18)
+agent(announced-16, Security-19)
+vmod(Security-19, based-20)
+nn(figures-23, inflation-22)
+prep_on(based-20, figures-23)
+vmod(figures-23, released-24)
+tmod(released-24, Wednesday-25)
+det(Department-29, the-27)
+nn(Department-29, Labor-28)
+agent(released-24, Department-29)
+
+The/DT cost-of-living/JJ announcement/NN comes/VBZ just/RB weeks/NNS before/IN Americans/NNPS elect/VB a/DT new/JJ president/NN Nov/NNP ./.
+
+(ROOT
+  (S
+    (NP (DT The) (JJ cost-of-living) (NN announcement))
+    (VP (VBZ comes)
+      (SBAR
+        (NP (RB just) (NNS weeks))
+        (IN before)
+        (S
+          (NP (NNPS Americans))
+          (VP (VB elect)
+            (NP (DT a) (JJ new) (NN president))
+            (NP (NNP Nov))))))
+    (. .)))
+
+det(announcement-3, The-1)
+amod(announcement-3, cost-of-living-2)
+nsubj(comes-4, announcement-3)
+root(ROOT-0, comes-4)
+advmod(weeks-6, just-5)
+dep(elect-9, weeks-6)
+mark(elect-9, before-7)
+nsubj(elect-9, Americans-8)
+advcl(comes-4, elect-9)
+ccomp(comes-4, elect-9)
+det(president-12, a-10)
+amod(president-12, new-11)
+iobj(elect-9, president-12)
+dobj(elect-9, Nov-13)
+
+7/CD ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 7))
+    (. .)))
+
+root(ROOT-0, 7-1)
+
+Florida/NNP and/CC Pennsylvania/NNP _/NNP among/IN the/DT tossup/NN states/NNS in/IN the/DT presidential/JJ race/NN _/MD have/VB a/DT large/JJ number/NN of/IN older/NN people/NNS ,/, who/WP tend/NN to/TO be/VB the/DT most/RBS likely/JJ to/TO vote/VB ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Florida)
+        (CC and)
+        (NNP Pennsylvania) (NNP _))
+      (PP (IN among)
+        (NP
+          (NP (DT the) (NN tossup) (NNS states))
+          (PP (IN in)
+            (NP (DT the) (JJ presidential) (NN race))))))
+    (VP (MD _)
+      (VP (VB have)
+        (S
+          (NP
+            (NP (DT a) (JJ large) (NN number))
+            (PP (IN of)
+              (NP
+                (NP (NN older) (NNS people))
+                (, ,)
+                (SBAR
+                  (WHNP (WP who) (NN tend))
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (NP (DT the)
+                          (ADJP (RBS most) (JJ likely))))))))))
+          (VP (TO to)
+            (VP (VB vote))))))
+    (. .)))
+
+nn(_-4, Florida-1)
+conj_and(Florida-1, Pennsylvania-3)
+nn(_-4, Pennsylvania-3)
+nsubj(have-14, _-4)
+det(states-8, the-6)
+nn(states-8, tossup-7)
+prep_among(_-4, states-8)
+det(race-12, the-10)
+amod(race-12, presidential-11)
+prep_in(states-8, race-12)
+aux(have-14, _-13)
+root(ROOT-0, have-14)
+det(number-17, a-15)
+amod(number-17, large-16)
+dobj(have-14, number-17)
+nsubj(vote-30, number-17)
+nn(people-20, older-19)
+prep_of(number-17, people-20)
+det(tend-23, people-20)
+nsubj(likely-28, tend-23)
+aux(likely-28, to-24)
+cop(likely-28, be-25)
+det(likely-28, the-26)
+advmod(likely-28, most-27)
+rcmod(people-20, likely-28)
+vmod(people-20, likely-28)
+aux(vote-30, to-29)
+ccomp(have-14, vote-30)
+xcomp(have-14, vote-30)
+
+Texas/NNP Gov/NNP ./.
+
+(ROOT
+  (NP (NNP Texas) (NNP Gov) (. .)))
+
+nn(Gov-2, Texas-1)
+root(ROOT-0, Gov-2)
+
+George/NNP W./NNP Bush/NNP ,/, the/DT Republican/NNP presidential/JJ nominee/NN ,/, and/CC Vice/NNP President/NNP Al/NNP Gore/NNP ,/, the/DT Democrat/NNP ,/, have/VBP repeatedly/RB clashed/VBN over/RP Social/JJ Security/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP George) (NNP W.) (NNP Bush))
+        (, ,)
+        (NP (DT the) (NNP Republican) (JJ presidential) (NN nominee))
+        (, ,)
+        (CC and)
+        (NP (NNP Vice) (NNP President) (NNP Al) (NNP Gore)))
+      (, ,)
+      (NP (DT the) (NNP Democrat))
+      (, ,))
+    (VP (VBP have)
+      (ADVP (RB repeatedly))
+      (VP (VBN clashed)
+        (PRT (RP over))
+        (NP (JJ Social) (NN Security))))
+    (. .)))
+
+nn(Bush-3, George-1)
+nn(Bush-3, W.-2)
+nsubj(clashed-21, Bush-3)
+det(nominee-8, the-5)
+nn(nominee-8, Republican-6)
+amod(nominee-8, presidential-7)
+conj_and(Bush-3, nominee-8)
+nsubj(clashed-21, nominee-8)
+nn(Gore-14, Vice-11)
+nn(Gore-14, President-12)
+nn(Gore-14, Al-13)
+conj_and(Bush-3, Gore-14)
+nsubj(clashed-21, Gore-14)
+det(Democrat-17, the-16)
+appos(Bush-3, Democrat-17)
+aux(clashed-21, have-19)
+advmod(clashed-21, repeatedly-20)
+root(ROOT-0, clashed-21)
+prt(clashed-21, over-22)
+amod(Security-24, Social-23)
+dobj(clashed-21, Security-24)
+
+Bush/NNP proposes/VBZ allowing/VBG individuals/NNS some/DT control/NN over/IN how/WRB to/TO invest/VB their/PRP$ retirement/NN funds/NNS ,/, while/IN Gore/NNP says/VBZ that/WDT would/MD threaten/VB the/DT long-term/JJ solvency/NN of/IN the/DT nation/NN 's/POS huge/NN retirement/NN system/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP Bush))
+    (VP (VBZ proposes)
+      (S
+        (VP (VBG allowing)
+          (NP (NNS individuals))
+          (NP
+            (NP (DT some) (NN control))
+            (PP (IN over)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (VP (TO to)
+                    (VP (VB invest)
+                      (NP (PRP$ their) (NN retirement) (NNS funds))))))))
+          (, ,)
+          (SBAR (IN while)
+            (S
+              (NP (NNP Gore))
+              (VP (VBZ says)
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (MD would)
+                      (VP (VB threaten)
+                        (NP
+                          (NP (DT the) (JJ long-term) (NN solvency))
+                          (PP (IN of)
+                            (NP
+                              (NP (DT the) (NN nation) (POS 's))
+                              (NN huge) (NN retirement) (NN system))))))))))))))
+    (. .)))
+
+nsubj(proposes-2, Bush-1)
+root(ROOT-0, proposes-2)
+xcomp(proposes-2, allowing-3)
+iobj(allowing-3, individuals-4)
+det(control-6, some-5)
+dobj(allowing-3, control-6)
+advmod(invest-10, how-8)
+aux(invest-10, to-9)
+prepc_over(control-6, invest-10)
+poss(funds-13, their-11)
+nn(funds-13, retirement-12)
+dobj(invest-10, funds-13)
+mark(says-17, while-15)
+nsubj(says-17, Gore-16)
+advcl(allowing-3, says-17)
+nsubj(threaten-20, that-18)
+aux(threaten-20, would-19)
+ccomp(says-17, threaten-20)
+det(solvency-23, the-21)
+amod(solvency-23, long-term-22)
+dobj(threaten-20, solvency-23)
+det(nation-26, the-25)
+poss(system-30, nation-26)
+nn(system-30, huge-28)
+nn(system-30, retirement-29)
+prep_of(solvency-23, system-30)
+
+The/DT 3.5/CD percent/JJ increase/NN was/VBD the/DT largest/JJS since/IN a/DT 3.7/CD percent/JJ rise/NN in/IN 1992/CD ./.
+
+(ROOT
+  (S
+    (NP (DT The)
+      (ADJP (CD 3.5) (JJ percent))
+      (NN increase))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJS largest))
+        (PP (IN since)
+          (NP (DT a) (CD 3.7) (JJ percent) (NN rise)))
+        (PP (IN in)
+          (NP (CD 1992)))))
+    (. .)))
+
+det(increase-4, The-1)
+number(percent-3, 3.5-2)
+amod(increase-4, percent-3)
+nsubj(largest-7, increase-4)
+cop(largest-7, was-5)
+det(largest-7, the-6)
+root(ROOT-0, largest-7)
+det(rise-12, a-9)
+num(rise-12, 3.7-10)
+amod(rise-12, percent-11)
+prep_since(largest-7, rise-12)
+prep_in(largest-7, 1992-14)
+
+It/PRP means/VBZ the/DT average/JJ monthly/JJ check/NN for/IN retirees/NNS will/MD rise/VB by/IN $29/CD to/TO $845/CD next/JJ year/NN ,/, up/RB from/IN $816/CD this/DT year/NN ./.
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ means)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (JJ average) (JJ monthly) (NN check))
+            (PP (IN for)
+              (NP (NNS retirees))))
+          (VP (MD will)
+            (VP (VB rise)
+              (PP (IN by)
+                (NP
+                  (QP (CD $29) (TO to) (CD $845))))
+              (NP (JJ next) (NN year))
+              (, ,)
+              (ADVP (RB up)
+                (PP (IN from)
+                  (NP (CD $816))
+                  (NP (DT this) (NN year)))))))))
+    (. .)))
+
+nsubj(means-2, It-1)
+root(ROOT-0, means-2)
+det(check-6, the-3)
+amod(check-6, average-4)
+amod(check-6, monthly-5)
+nsubj(rise-10, check-6)
+prep_for(check-6, retirees-8)
+aux(rise-10, will-9)
+ccomp(means-2, rise-10)
+number($845-14, $29-12)
+dep($845-14, to-13)
+prep_by(rise-10, $845-14)
+amod(year-16, next-15)
+tmod(rise-10, year-16)
+advmod(rise-10, up-18)
+prep_from(up-18, $816-20)
+det(year-22, this-21)
+tmod(up-18, year-22)
+
+That/DT compares/VBZ with/IN an/DT increase/NN of/IN 2.4/CD percent/JJ for/IN 2000/CD ,/, which/WDT translated/VBD into/IN an/DT average/NN of/IN $19/DT a/DT month/NN more/RBR for/IN retirees/NNS ./.
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ compares)
+      (PP (IN with)
+        (NP
+          (NP (DT an) (NN increase))
+          (PP (IN of)
+            (NP
+              (NP (CD 2.4))
+              (ADJP (JJ percent)
+                (PP (IN for)
+                  (NP (CD 2000))))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD translated)
+                    (PP (IN into)
+                      (NP
+                        (NP (DT an) (NN average))
+                        (PP (IN of)
+                          (NP (DT $19)))
+                        (NP (DT a) (NN month) (RBR more))))
+                    (PP (IN for)
+                      (NP (NNS retirees)))))))))))
+    (. .)))
+
+nsubj(compares-2, That-1)
+root(ROOT-0, compares-2)
+det(increase-5, an-4)
+prep_with(compares-2, increase-5)
+prep_of(increase-5, 2.4-7)
+nsubj(translated-13, 2.4-7)
+amod(2.4-7, percent-8)
+prep_for(percent-8, 2000-10)
+rcmod(2.4-7, translated-13)
+det(average-16, an-15)
+prep_into(translated-13, average-16)
+prep_of(average-16, $19-18)
+det(month-20, a-19)
+dep(average-16, month-20)
+advmod(month-20, more-21)
+prep_for(translated-13, retirees-23)
+
+In/IN addition/NN to/TO retirement/NN checks/NNS ,/, the/DT increases/NNS affect/VBP Social/JJ Security/NNP benefits/VBZ paid/VBN to/TO disabled/VB workers/NNS and/CC families/NNS whose/WP$ breadwinners/NNS have/VBP died/VBN ./.
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NN addition))
+        (PP (TO to)
+          (NP (NN retirement) (NNS checks)))))
+    (, ,)
+    (NP (DT the) (NNS increases))
+    (VP (VBP affect)
+      (SBAR
+        (S
+          (NP (JJ Social) (NNP Security))
+          (VP (VBZ benefits)
+            (VP (VBN paid)
+              (S
+                (VP (TO to)
+                  (VP (VB disabled)
+                    (NP
+                      (NP (NNS workers)
+                        (CC and)
+                        (NNS families))
+                      (SBAR (WP$ whose)
+                        (S
+                          (NP (NNS breadwinners))
+                          (VP (VBP have)
+                            (VP (VBN died))))))))))))))
+    (. .)))
+
+nn(checks-5, retirement-4)
+prep_in_addition_to(affect-9, checks-5)
+det(increases-8, the-7)
+nsubj(affect-9, increases-8)
+root(ROOT-0, affect-9)
+amod(Security-11, Social-10)
+nsubj(benefits-12, Security-11)
+ccomp(affect-9, benefits-12)
+dep(benefits-12, paid-13)
+aux(disabled-15, to-14)
+xcomp(paid-13, disabled-15)
+dobj(disabled-15, workers-16)
+dep(died-22, workers-16)
+dobj(disabled-15, families-18)
+conj_and(workers-16, families-18)
+dep(died-22, families-18)
+nsubj(died-22, breadwinners-20)
+aux(died-22, have-21)
+rcmod(workers-16, died-22)
+
+The/DT maximum/JJ monthly/JJ payment/NN for/IN low-income/JJ individuals/NNS receiving/VBG Supplemental/NNP Security/NNP Income/NNP ,/, known/VBN as/IN SSI/NNP ,/, also/RB will/MD rise/VB by/IN 3.5/CD percent/JJ ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ maximum) (JJ monthly) (NN payment))
+      (PP (IN for)
+        (NP
+          (NP (JJ low-income) (NNS individuals))
+          (VP (VBG receiving)
+            (NP (NNP Supplemental) (NNP Security) (NNP Income)))))
+      (, ,)
+      (VP (VBN known)
+        (PP (IN as)
+          (NP (NNP SSI))))
+      (, ,))
+    (ADVP (RB also))
+    (VP (MD will)
+      (VP (VB rise)
+        (PP (IN by)
+          (NP (CD 3.5) (JJ percent)))))
+    (. .)))
+
+det(payment-4, The-1)
+amod(payment-4, maximum-2)
+amod(payment-4, monthly-3)
+nsubj(rise-19, payment-4)
+amod(individuals-7, low-income-6)
+prep_for(payment-4, individuals-7)
+vmod(individuals-7, receiving-8)
+nn(Income-11, Supplemental-9)
+nn(Income-11, Security-10)
+dobj(receiving-8, Income-11)
+vmod(payment-4, known-13)
+prep_as(known-13, SSI-15)
+advmod(rise-19, also-17)
+aux(rise-19, will-18)
+root(ROOT-0, rise-19)
+prep_by(rise-19, 3.5-21)
+amod(3.5-21, percent-22)
+
+That/WDT will/MD boost/VB the/DT maximum/JJ monthly/JJ SSI/NNP check/NN by/IN $18/CD to/TO $530/CD ./.
+
+(ROOT
+  (S
+    (NP (WDT That))
+    (VP (MD will)
+      (VP (VB boost)
+        (NP
+          (NP (DT the) (JJ maximum) (JJ monthly) (NNP SSI) (NN check))
+          (PP (IN by)
+            (NP
+              (QP (CD $18) (TO to) (CD $530)))))))
+    (. .)))
+
+nsubj(boost-3, That-1)
+aux(boost-3, will-2)
+root(ROOT-0, boost-3)
+det(check-8, the-4)
+amod(check-8, maximum-5)
+amod(check-8, monthly-6)
+nn(check-8, SSI-7)
+dobj(boost-3, check-8)
+number($530-12, $18-10)
+dep($530-12, to-11)
+prep_by(check-8, $530-12)
+
+For/IN a/DT couple/NN ,/, the/DT SSI/NNP maximum/NN goes/VBZ up/RB $27/CD to/TO $796/CD ./.
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT a) (NN couple)))
+    (, ,)
+    (NP (DT the) (NNP SSI) (NN maximum))
+    (VP (VBZ goes)
+      (ADVP (RB up)
+        (NP
+          (QP (CD $27) (TO to) (CD $796)))))
+    (. .)))
+
+det(couple-3, a-2)
+prep_for(goes-8, couple-3)
+det(maximum-7, the-5)
+nn(maximum-7, SSI-6)
+nsubj(goes-8, maximum-7)
+root(ROOT-0, goes-8)
+advmod(goes-8, up-9)
+number($796-12, $27-10)
+dep($796-12, to-11)
+pobj(up-9, $796-12)
+
+Increased/JJ payments/NNS to/TO SSI/NNP recipients/NNS will/MD begin/VB on/IN Dec/NNP ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Increased) (NNS payments))
+      (PP (TO to)
+        (NP (NNP SSI) (NNS recipients))))
+    (VP (MD will)
+      (VP (VB begin)
+        (PP (IN on)
+          (NP (NNP Dec)))))
+    (. .)))
+
+amod(payments-2, Increased-1)
+nsubj(begin-7, payments-2)
+nn(recipients-5, SSI-4)
+prep_to(payments-2, recipients-5)
+aux(begin-7, will-6)
+root(ROOT-0, begin-7)
+prep_on(begin-7, Dec-9)
+
+29/CD ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 29))
+    (. .)))
+
+root(ROOT-0, 29-1)
+
+``The/IN annual/JJ cost-of-living/JJ adjustment/NN is/VBZ one/CD of/IN the/DT most/RBS critically/JJ important/JJ features/NNS of/IN the/DT Social/JJ Security/NN program/NN ,''/, said/VBD Social/NNP Security/NNP Commissioner/NNP Kenneth/NNP Apfel/NNP ./.
+
+(ROOT
+  (SINV
+    (PP (IN ``The)
+      (NP (JJ annual) (JJ cost-of-living) (NN adjustment)))
+    (VP
+      (VP (VBZ is)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the)
+                (ADJP (RBS most) (JJ critically))
+                (JJ important) (NNS features))
+              (PP (IN of)
+                (NP (DT the) (JJ Social) (NN Security) (NN program)))))))
+      (, ,'')
+      (VP (VBD said)))
+    (NP (NNP Social) (NNP Security) (NNP Commissioner) (NNP Kenneth) (NNP Apfel))
+    (. .)))
+
+amod(adjustment-4, annual-2)
+amod(adjustment-4, cost-of-living-3)
+prep_``the(one-6, adjustment-4)
+cop(one-6, is-5)
+root(ROOT-0, one-6)
+det(features-12, the-8)
+advmod(critically-10, most-9)
+amod(features-12, critically-10)
+amod(features-12, important-11)
+prep_of(one-6, features-12)
+det(program-17, the-14)
+amod(program-17, Social-15)
+nn(program-17, Security-16)
+prep_of(features-12, program-17)
+punct(one-6, ,''-18)
+dep(one-6, said-19)
+nn(Apfel-24, Social-20)
+nn(Apfel-24, Security-21)
+nn(Apfel-24, Commissioner-22)
+nn(Apfel-24, Kenneth-23)
+nsubj(one-6, Apfel-24)
+
+``For/CC the/DT elderly/RB ,/, it/PRP guarantees/VBZ that/IN their/PRP$ foundation/NN of/IN retirement/NN income/NN will/MD remain/VB strong/JJ for/IN as/RB long/JJ as/IN they/PRP live/VBP .''/.
+
+(ROOT
+  (S
+    (NP (CC ``For)
+      (NP
+        (NP (DT the) (RB elderly))
+        (, ,)
+        (NP (PRP it))))
+    (VP (VBZ guarantees)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (PRP$ their) (NN foundation))
+            (PP (IN of)
+              (NP (NN retirement) (NN income))))
+          (VP (MD will)
+            (VP (VB remain)
+              (ADJP (JJ strong)
+                (PP (IN for)
+                  (ADVP (RB as) (JJ long))))
+              (SBAR (IN as)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP live)))))))))
+    (. .'')))
+
+cc(elderly-3, ``For-1)
+det(elderly-3, the-2)
+nsubj(guarantees-6, elderly-3)
+appos(elderly-3, it-5)
+root(ROOT-0, guarantees-6)
+mark(remain-14, that-7)
+poss(foundation-9, their-8)
+nsubj(remain-14, foundation-9)
+nn(income-12, retirement-11)
+prep_of(foundation-9, income-12)
+aux(remain-14, will-13)
+ccomp(guarantees-6, remain-14)
+acomp(remain-14, strong-15)
+advmod(long-18, as-17)
+prepc_for(strong-15, long-18)
+mark(live-21, as-19)
+nsubj(live-21, they-20)
+advcl(remain-14, live-21)
+punct(guarantees-6, .''-22)
+
+Separately/RB ,/, the/DT Department/NNP of/IN Health/NNP and/CC Human/NNP Services/NNP announced/VBD that/IN the/DT monthly/JJ Medicare/NN premium/JJ deducted/VBN from/IN most/JJS elderly/RB and/CC disabled/VBD Americans/NNPS '/POS Social/NNP Security/NNP checks/NNS for/IN insurance/NN coverage/NN of/IN doctors/NNS '/POS office/NN visits/NNS will/MD increase/VB by/IN $4.50/CD to/TO $50/CD in/IN 2001/CD ./.
+
+(ROOT
+  (S
+    (ADVP (RB Separately))
+    (, ,)
+    (NP
+      (NP (DT the) (NNP Department))
+      (PP (IN of)
+        (UCP (NNP Health)
+          (CC and)
+          (NNP Human) (NNP Services))))
+    (VP (VBD announced)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP
+              (NP (DT the) (JJ monthly) (NN Medicare))
+              (NP (JJ premium)))
+            (VP
+              (VP (VBN deducted)
+                (PP (IN from)
+                  (NP
+                    (NP (JJS most))
+                    (ADVP (RB elderly)))))
+              (CC and)
+              (VP (VBD disabled)
+                (NP
+                  (NP (NNPS Americans) (POS '))
+                  (NNP Social) (NNP Security) (NNS checks))
+                (PP (IN for)
+                  (NP
+                    (NP (NN insurance) (NN coverage))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNS doctors) (POS '))
+                        (NN office) (NNS visits))))))))
+          (VP (MD will)
+            (VP (VB increase)
+              (PP (IN by)
+                (NP
+                  (NP
+                    (QP (CD $4.50) (TO to) (CD $50)))
+                  (PP (IN in)
+                    (NP (CD 2001))))))))))
+    (. .)))
+
+advmod(announced-10, Separately-1)
+det(Department-4, the-3)
+nsubj(announced-10, Department-4)
+nn(Services-9, Health-6)
+conj_and(Health-6, Human-8)
+nn(Services-9, Human-8)
+prep_of(Department-4, Services-9)
+root(ROOT-0, announced-10)
+mark(increase-36, that-11)
+det(Medicare-14, the-12)
+amod(Medicare-14, monthly-13)
+nsubj(increase-36, Medicare-14)
+dep(Medicare-14, premium-15)
+dep(Medicare-14, deducted-16)
+prep_from(deducted-16, most-18)
+advmod(most-18, elderly-19)
+dep(Medicare-14, disabled-21)
+conj_and(deducted-16, disabled-21)
+poss(checks-26, Americans-22)
+nn(checks-26, Social-24)
+nn(checks-26, Security-25)
+dobj(disabled-21, checks-26)
+nn(coverage-29, insurance-28)
+prep_for(disabled-21, coverage-29)
+poss(visits-34, doctors-31)
+nn(visits-34, office-33)
+prep_of(coverage-29, visits-34)
+aux(increase-36, will-35)
+ccomp(announced-10, increase-36)
+number($50-40, $4.50-38)
+dep($50-40, to-39)
+prep_by(increase-36, $50-40)
+prep_in($50-40, 2001-42)
+
+The/DT increase/NN ,/, which/WDT takes/VBZ effect/NN Jan/NNP ./.
+
+(ROOT
+  (FRAG
+    (NP (DT The) (NN increase))
+    (, ,)
+    (SBAR
+      (WHNP (WDT which))
+      (S
+        (VP (VBZ takes)
+          (NP (NN effect))
+          (NP (NNP Jan)))))
+    (. .)))
+
+det(increase-2, The-1)
+root(ROOT-0, increase-2)
+nsubj(takes-5, which-4)
+dep(increase-2, takes-5)
+iobj(takes-5, effect-6)
+dobj(takes-5, Jan-7)
+
+1/CD ,/, reflects/VBZ higher/RBR health-care/JJ costs/NNS and/CC changes/NNS in/IN Medicare/NN law/NN ./.
+
+(ROOT
+  (SINV
+    (FRAG
+      (NP (CD 1)))
+    (, ,)
+    (VP (VBZ reflects)
+      (ADVP (RBR higher)))
+    (NP
+      (NP (JJ health-care) (NNS costs)
+        (CC and)
+        (NNS changes))
+      (PP (IN in)
+        (NP (NN Medicare) (NN law))))
+    (. .)))
+
+dep(reflects-3, 1-1)
+root(ROOT-0, reflects-3)
+advmod(reflects-3, higher-4)
+amod(costs-6, health-care-5)
+nsubj(reflects-3, costs-6)
+nsubj(reflects-3, changes-8)
+conj_and(costs-6, changes-8)
+nn(law-11, Medicare-10)
+prep_in(costs-6, law-11)
+
+It/PRP is/VBZ not/RB based/VBN on/IN the/DT cost-of-living/VBG adjustment/NN tied/VBN to/TO the/DT CPI/NNP ./.
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is) (RB not)
+      (VP (VBN based)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (VBG cost-of-living) (NN adjustment))
+            (VP (VBN tied)
+              (PP (TO to)
+                (NP (DT the) (NNP CPI))))))))
+    (. .)))
+
+nsubjpass(based-4, It-1)
+auxpass(based-4, is-2)
+neg(based-4, not-3)
+root(ROOT-0, based-4)
+det(adjustment-8, the-6)
+amod(adjustment-8, cost-of-living-7)
+prep_on(based-4, adjustment-8)
+vmod(adjustment-8, tied-9)
+det(CPI-12, the-11)
+prep_to(tied-9, CPI-12)
+
+Since/NNP 1975/CD ,/, the/DT benefit/NN cost-of-living/VBG adjustment/NN has/VBZ been/VBN automatic/JJ ,/, requiring/VBG no/DT vote/NN by/IN Congress/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP Since) (CD 1975))
+    (, ,)
+    (NP (DT the) (NN benefit) (VBG cost-of-living) (NN adjustment))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (ADJP (JJ automatic))
+        (, ,)
+        (S
+          (VP (VBG requiring)
+            (NP (DT no) (NN vote))
+            (PP (IN by)
+              (NP (NNP Congress)))))))
+    (. .)))
+
+nsubj(automatic-10, Since-1)
+num(Since-1, 1975-2)
+det(adjustment-7, the-4)
+nn(adjustment-7, benefit-5)
+amod(adjustment-7, cost-of-living-6)
+nsubj(automatic-10, adjustment-7)
+aux(automatic-10, has-8)
+cop(automatic-10, been-9)
+root(ROOT-0, automatic-10)
+xcomp(automatic-10, requiring-12)
+neg(vote-14, no-13)
+dobj(requiring-12, vote-14)
+prep_by(requiring-12, Congress-16)
+
+It/PRP is/VBZ calculated/VBN based/VBN on/IN changes/NNS in/IN the/DT Consumer/NNP Price/NNP Index/NNP _/IN the/DT government/NN 's/POS inflation/NN yardstick/NN _/NN from/IN the/DT third/JJ quarter/NN of/IN one/CD year/NN to/TO the/DT corresponding/JJ quarter/NN of/IN the/DT next/JJ ./.
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (VP (VBN calculated)
+        (PP (VBN based)
+          (PP (IN on)
+            (NP
+              (NP (NNS changes))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NNP Consumer) (NNP Price) (NNP Index))
+                  (PP (IN _)
+                    (NP
+                      (NP
+                        (NP (DT the) (NN government) (POS 's))
+                        (NN inflation) (NN yardstick) (NN _))
+                      (PP (IN from)
+                        (NP
+                          (NP (DT the) (JJ third) (NN quarter))
+                          (PP (IN of)
+                            (NP
+                              (NP (CD one) (NN year))
+                              (PP (TO to)
+                                (NP
+                                  (NP (DT the) (JJ corresponding) (NN quarter))
+                                  (PP (IN of)
+                                    (NP (DT the) (JJ next))))))))))))))))))
+    (. .)))
+
+nsubjpass(calculated-3, It-1)
+auxpass(calculated-3, is-2)
+root(ROOT-0, calculated-3)
+prepc_based_on(calculated-3, on-5)
+pobj(calculated-3, changes-6)
+det(Index-11, the-8)
+nn(Index-11, Consumer-9)
+nn(Index-11, Price-10)
+prep_in(changes-6, Index-11)
+det(government-14, the-13)
+poss(_-18, government-14)
+nn(_-18, inflation-16)
+nn(_-18, yardstick-17)
+prep__(Index-11, _-18)
+det(quarter-22, the-20)
+amod(quarter-22, third-21)
+prep_from(_-18, quarter-22)
+num(year-25, one-24)
+prep_of(quarter-22, year-25)
+det(quarter-29, the-27)
+amod(quarter-29, corresponding-28)
+prep_to(year-25, quarter-29)
+det(next-32, the-31)
+prep_of(quarter-29, next-32)
+
+Because/IN of/IN tame/NN inflation/NN ,/, the/DT yearly/RB benefit/JJ boosts/NNS have/VBP been/VBN below/JJ 3.0/CD percent/JJ since/IN 1994/CD ./.
+
+(ROOT
+  (S
+    (PP (IN Because)
+      (PP (IN of)
+        (NP (NN tame) (NN inflation))))
+    (, ,)
+    (NP (DT the)
+      (ADJP
+        (ADVP (RB yearly))
+        (JJ benefit))
+      (NNS boosts))
+    (VP (VBP have)
+      (VP (VBN been)
+        (NP
+          (NP
+            (ADJP (JJ below)
+              (NP (CD 3.0)))
+            (JJ percent))
+          (PP (IN since)
+            (NP (CD 1994))))))
+    (. .)))
+
+prepc_because_of(below-12, of-2)
+nn(inflation-4, tame-3)
+pobj(below-12, inflation-4)
+det(boosts-9, the-6)
+advmod(benefit-8, yearly-7)
+amod(boosts-9, benefit-8)
+nsubj(below-12, boosts-9)
+aux(below-12, have-10)
+cop(below-12, been-11)
+root(ROOT-0, below-12)
+dep(below-12, 3.0-13)
+amod(below-12, percent-14)
+prep_since(below-12, 1994-16)
+
+The/DT 1999/CD increase/NN of/IN 1.3/CD percent/JJ ,/, matched/VBD a/DT record/NN low/NN set/VBN in/IN 1987/CD ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (CD 1999) (NN increase))
+      (PP (IN of)
+        (NP (CD 1.3) (JJ percent))))
+    (, ,)
+    (VP (VBD matched)
+      (NP
+        (NP (DT a) (NN record) (NN low))
+        (VP (VBN set)
+          (PP (IN in)
+            (NP (CD 1987))))))
+    (. .)))
+
+det(increase-3, The-1)
+num(increase-3, 1999-2)
+nsubj(matched-8, increase-3)
+prep_of(increase-3, 1.3-5)
+amod(1.3-5, percent-6)
+root(ROOT-0, matched-8)
+det(low-11, a-9)
+nn(low-11, record-10)
+dobj(matched-8, low-11)
+vmod(low-11, set-12)
+prep_in(set-12, 1987-14)
+
+More/NNP recently/RB ,/, consumer/NN prices/NNS have/VBP been/VBN edging/VBG up/RB ,/, largely/RB because/IN of/IN higher/JJR energy/NN costs/NNS ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP More))
+      (ADVP (RB recently)))
+    (, ,)
+    (NP (NN consumer) (NNS prices))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG edging)
+          (ADVP (RB up))
+          (, ,)
+          (PP
+            (ADVP (RB largely))
+            (IN because) (IN of)
+            (NP (JJR higher) (NN energy) (NNS costs))))))
+    (. .)))
+
+ccomp(edging-8, More-1)
+advmod(More-1, recently-2)
+nn(prices-5, consumer-4)
+nsubj(edging-8, prices-5)
+aux(edging-8, have-6)
+aux(edging-8, been-7)
+root(ROOT-0, edging-8)
+advmod(edging-8, up-9)
+advmod(edging-8, largely-11)
+amod(costs-16, higher-14)
+nn(costs-16, energy-15)
+prep_because_of(edging-8, costs-16)
+
+Crude-oil/NNP prices/NNS hit/VBP a/DT 10-year/JJ high/NN in/IN September/NNP ,/, contributing/VBG to/TO costlier/VB gasoline/NN and/CC heating/VBG oil/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP Crude-oil) (NNS prices))
+    (VP (VBP hit)
+      (NP
+        (NP (DT a) (JJ 10-year) (NN high))
+        (PP (IN in)
+          (NP (NNP September))))
+      (, ,)
+      (S
+        (VP
+          (VP (VBG contributing)
+            (S
+              (VP (TO to)
+                (VP (VB costlier)
+                  (NP (NN gasoline))))))
+          (CC and)
+          (VP (VBG heating)
+            (NP (NN oil))))))
+    (. .)))
+
+nn(prices-2, Crude-oil-1)
+nsubj(hit-3, prices-2)
+root(ROOT-0, hit-3)
+det(high-6, a-4)
+amod(high-6, 10-year-5)
+dobj(hit-3, high-6)
+prep_in(high-6, September-8)
+dep(hit-3, contributing-10)
+aux(costlier-12, to-11)
+xcomp(contributing-10, costlier-12)
+dobj(costlier-12, gasoline-13)
+dep(hit-3, heating-15)
+conj_and(contributing-10, heating-15)
+dobj(heating-15, oil-16)
+
+While/RB overall/JJ inflation/NN is/VBZ rising/VBG ,/, it/PRP is/VBZ still/RB moderate/JJ compared/VBN with/IN other/JJ periods/NNS ./.
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB While))
+      (NP (JJ overall) (NN inflation))
+      (VP (VBZ is)
+        (VP (VBG rising))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB still) (JJ moderate))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP (JJ other) (NNS periods)))))
+    (. .)))
+
+advmod(rising-5, While-1)
+amod(inflation-3, overall-2)
+nsubj(rising-5, inflation-3)
+aux(rising-5, is-4)
+ccomp(moderate-10, rising-5)
+nsubj(moderate-10, it-7)
+cop(moderate-10, is-8)
+advmod(moderate-10, still-9)
+root(ROOT-0, moderate-10)
+prepc_compared_with(moderate-10, with-12)
+amod(periods-14, other-13)
+pobj(moderate-10, periods-14)
+
+Double-digit/NNP inflation/NN in/IN the/DT late/JJ 1970s/NNS ,/, for/IN example/NN ,/, drove/VB the/DT cost-of-living/VBG increase/NN up/RB to/TO 14.3/CD percent/NN in/IN 1980/CD ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Double-digit) (NN inflation))
+      (PP (IN in)
+        (NP (DT the) (JJ late) (NNS 1970s)))
+      (, ,)
+      (PP (IN for)
+        (NP (NN example)))
+      (, ,))
+    (VP (VB drove)
+      (NP
+        (NP (DT the) (VBG cost-of-living) (NN increase))
+        (ADVP (RB up)
+          (PP (TO to)
+            (NP (CD 14.3) (NN percent))))
+        (PP (IN in)
+          (NP (CD 1980)))))
+    (. .)))
+
+nn(inflation-2, Double-digit-1)
+nsubj(drove-11, inflation-2)
+det(1970s-6, the-4)
+amod(1970s-6, late-5)
+prep_in(inflation-2, 1970s-6)
+prep_for(inflation-2, example-9)
+root(ROOT-0, drove-11)
+det(increase-14, the-12)
+amod(increase-14, cost-of-living-13)
+dobj(drove-11, increase-14)
+advmod(increase-14, up-15)
+num(percent-18, 14.3-17)
+prep_to(up-15, percent-18)
+prep_in(increase-14, 1980-20)
+
+Social/NNP Security/NNP also/RB announced/VBD Wednesday/NN that/IN for/IN working/VBG Americans/NNPS ,/, the/DT maximum/JJ annual/JJ earnings/NNS subject/JJ to/TO Social/NNP Security/NNP taxes/VBZ next/JJ year/NN will/MD rise/VB to/TO $80,400/CD from/IN $76,200/CD ./.
+
+(ROOT
+  (S
+    (NP (NNP Social) (NNP Security))
+    (ADVP (RB also))
+    (VP (VBD announced)
+      (NP (NN Wednesday))
+      (SBAR (IN that)
+        (S
+          (PP (IN for)
+            (S
+              (VP (VBG working)
+                (NP (NNPS Americans)))))
+          (, ,)
+          (NP
+            (NP (DT the) (JJ maximum) (JJ annual) (NNS earnings))
+            (ADJP (JJ subject)
+              (PP (TO to)
+                (NP (NNP Social) (NNP Security)))))
+          (VP (VBZ taxes)
+            (SBAR
+              (S
+                (NP (JJ next) (NN year))
+                (VP (MD will)
+                  (VP (VB rise)
+                    (PP (TO to)
+                      (NP (CD $80,400)))
+                    (PP (IN from)
+                      (NP (CD $76,200)))))))))))
+    (. .)))
+
+nn(Security-2, Social-1)
+nsubj(announced-4, Security-2)
+advmod(announced-4, also-3)
+root(ROOT-0, announced-4)
+tmod(announced-4, Wednesday-5)
+mark(taxes-19, that-6)
+prepc_for(taxes-19, working-8)
+dobj(working-8, Americans-9)
+det(earnings-14, the-11)
+amod(earnings-14, maximum-12)
+amod(earnings-14, annual-13)
+nsubj(taxes-19, earnings-14)
+amod(earnings-14, subject-15)
+nn(Security-18, Social-17)
+prep_to(subject-15, Security-18)
+ccomp(announced-4, taxes-19)
+amod(year-21, next-20)
+nsubj(rise-23, year-21)
+aux(rise-23, will-22)
+ccomp(taxes-19, rise-23)
+prep_to(rise-23, $80,400-25)
+prep_from(rise-23, $76,200-27)
+
+That/DT limit/NN along/IN with/IN the/DT Social/JJ Security/NN tax/NN rate/NN of/IN 6.2/CD percent/JJ is/VBZ set/VBN by/IN law/NN ./.
+
+(ROOT
+  (S
+    (NP (DT That) (NN limit))
+    (ADVP (IN along)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (JJ Social) (NN Security) (NN tax) (NN rate))
+          (PP (IN of)
+            (NP (CD 6.2) (JJ percent))))))
+    (VP (VBZ is)
+      (VP (VBN set)
+        (PP (IN by)
+          (NP (NN law)))))
+    (. .)))
+
+det(limit-2, That-1)
+nsubjpass(set-14, limit-2)
+det(rate-9, the-5)
+amod(rate-9, Social-6)
+nn(rate-9, Security-7)
+nn(rate-9, tax-8)
+prep_along_with(set-14, rate-9)
+prep_of(rate-9, 6.2-11)
+amod(6.2-11, percent-12)
+auxpass(set-14, is-13)
+root(ROOT-0, set-14)
+agent(set-14, law-16)
+
+___/.
+
+(ROOT
+  (NP (. ___)))
+
+root(ROOT-0, ___-1)
+
+On/IN the/DT Web/NN :/:
+
+(ROOT
+  (PP (IN On)
+    (NP (DT the) (NN Web))
+    (: :)))
+
+root(ROOT-0, On-1)
+det(Web-3, the-2)
+pobj(On-1, Web-3)
+
+Social/JJ Security/JJ Administration/NN :/: http:/.
+
+(ROOT
+  (NP
+    (NP (JJ Social) (JJ Security) (NN Administration))
+    (: :)
+    (NP (. http:))))
+
+amod(Administration-3, Social-1)
+amod(Administration-3, Security-2)
+root(ROOT-0, Administration-3)
+dep(Administration-3, http:-5)
+

@@ -1,0 +1,1915 @@
+NYT20001210.1847.0092/CD NEWS/NNP STORY/NNP 2000-12-10/CD 19:33:00/CD
+
+(ROOT
+  (NP
+    (NP (CD NYT20001210.1847.0092))
+    (NP (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-12-10) (CD 19:33:00))))
+
+root(ROOT-0, NYT20001210.1847.0092-1)
+nn(STORY-3, NEWS-2)
+dep(NYT20001210.1847.0092-1, STORY-3)
+num(19:33:00-5, 2000-12-10-4)
+dep(NYT20001210.1847.0092-1, 19:33:00-5)
+
+A5671/CD &Cx1f/NN ;/: taf-z/NNP u/NNP p/NNP BC-ELN-MICH-TIE-NYT/NNP &LR/NNP ;/: 12-10/CD 0749/CD
+
+(ROOT
+  (NP
+    (NP (CD A5671) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NNP taf-z) (NNP u) (NNP p) (NNP BC-ELN-MICH-TIE-NYT) (NNP &LR))
+      (: ;)
+      (NP
+        (QP (CD 12-10) (CD 0749))))))
+
+num(&Cx1f-2, A5671-1)
+root(ROOT-0, &Cx1f-2)
+nn(&LR-8, taf-z-4)
+nn(&LR-8, u-5)
+nn(&LR-8, p-6)
+nn(&LR-8, BC-ELN-MICH-TIE-NYT-7)
+dep(&Cx1f-2, &LR-8)
+number(0749-11, 12-10-10)
+dep(&LR-8, 0749-11)
+
+BC-ELN-MICH-TIE-NYT/NNP
+
+(ROOT
+  (NP (NNP BC-ELN-MICH-TIE-NYT)))
+
+root(ROOT-0, BC-ELN-MICH-TIE-NYT-1)
+
+THIS/NNP HAND/NNP COUNT/NNP ENDED/NNP IN/NNP A/NNP TIE/NNP ,/, WITHOUT/NNP THE/NNP LAWYERS/NNP OR/NNP TV/.
+
+(ROOT
+  (NP
+    (NP (NNP THIS) (NNP HAND) (NNP COUNT) (NNP ENDED) (NNP IN) (NNP A) (NNP TIE))
+    (, ,)
+    (NP (NNP WITHOUT) (NNP THE) (NNP LAWYERS) (NNP OR))
+    (. TV)))
+
+nn(TIE-7, THIS-1)
+nn(TIE-7, HAND-2)
+nn(TIE-7, COUNT-3)
+nn(TIE-7, ENDED-4)
+nn(TIE-7, IN-5)
+nn(TIE-7, A-6)
+root(ROOT-0, TIE-7)
+nn(OR-12, WITHOUT-9)
+nn(OR-12, THE-10)
+nn(OR-12, LAWYERS-11)
+appos(TIE-7, OR-12)
+punct(TIE-7, TV-13)
+
+REPORTERS/NNP &LR/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
+(ROOT
+  (NP
+    (NP (NNP REPORTERS) (NNP &LR))
+    (: ;)
+    (NP
+      (NP (NNS &QL))
+      (: ;)
+      (NP (NNS &UR)))
+    (: ;)
+    (NP
+      (NP (CD c.2000))
+      (NP (NNP N.Y)))
+    (. .)))
+
+nn(&LR-2, REPORTERS-1)
+root(ROOT-0, &LR-2)
+dep(&LR-2, &QL-4)
+dep(&QL-4, &UR-6)
+dep(&LR-2, c.2000-8)
+appos(c.2000-8, N.Y-9)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
+    (PRN (: ;)
+      (NP
+        (NP (NNS &LR))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&QC-4, Times-1)
+nn(&QC-4, News-2)
+nn(&QC-4, Service-3)
+root(ROOT-0, &QC-4)
+dep(&QC-4, &LR-6)
+dep(&LR-6, &QL-8)
+
+FIFE/NNP LAKE/NNP ,/, Mich/NNP ./.
+
+(ROOT
+  (NP
+    (NP (NNP FIFE) (NNP LAKE))
+    (, ,)
+    (NP (NNP Mich))
+    (. .)))
+
+nn(LAKE-2, FIFE-1)
+root(ROOT-0, LAKE-2)
+appos(LAKE-2, Mich-4)
+
+_/`` There/EX are/VBP no/DT teams/NN of/IN lawyers/NNS in/IN this/DT sleepy/NN little/JJ hamlet/NN ./.
+
+(ROOT
+  (S
+    (NP (`` _) (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (DT no) (NN teams))
+        (PP (IN of)
+          (NP
+            (NP (NNS lawyers))
+            (PP (IN in)
+              (NP (DT this) (NN sleepy) (JJ little) (NN hamlet)))))))
+    (. .)))
+
+punct(There-2, _-1)
+expl(are-3, There-2)
+root(ROOT-0, are-3)
+neg(teams-5, no-4)
+nsubj(are-3, teams-5)
+prep_of(teams-5, lawyers-7)
+det(hamlet-12, this-9)
+nn(hamlet-12, sleepy-10)
+amod(hamlet-12, little-11)
+prep_in(lawyers-7, hamlet-12)
+
+There/EX are/VBP no/DT television/NN anchors/NNS standing/VBG on/IN courthouse/NN steps/NNS chattering/VBG endlessly/RB about/IN the/DT latest/JJS twist/NN in/IN the/DT election/NN dispute/NN ./.
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (DT no) (NN television) (NNS anchors))
+        (VP (VBG standing)
+          (PP (IN on)
+            (NP
+              (NP (NN courthouse) (NNS steps))
+              (VP (VBG chattering)
+                (ADVP (RB endlessly))
+                (PP (IN about)
+                  (NP
+                    (NP (DT the) (JJS latest) (NN twist))
+                    (PP (IN in)
+                      (NP (DT the) (NN election) (NN dispute)))))))))))
+    (. .)))
+
+expl(are-2, There-1)
+root(ROOT-0, are-2)
+neg(anchors-5, no-3)
+nn(anchors-5, television-4)
+nsubj(are-2, anchors-5)
+vmod(anchors-5, standing-6)
+nn(steps-9, courthouse-8)
+prep_on(standing-6, steps-9)
+vmod(steps-9, chattering-10)
+advmod(chattering-10, endlessly-11)
+det(twist-15, the-13)
+amod(twist-15, latest-14)
+prep_about(chattering-10, twist-15)
+det(dispute-19, the-17)
+nn(dispute-19, election-18)
+prep_in(twist-15, dispute-19)
+
+There/EX is/VBZ an/DT election/NN dispute/NN ,/, a/DT tie/NN vote/NN as/IN a/DT matter/NN of/IN fact/NN ./.
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (NN election) (NN dispute))
+        (, ,)
+        (NP
+          (NP (DT a) (NN tie) (NN vote))
+          (PP (IN as)
+            (NP
+              (NP (DT a) (NN matter))
+              (PP (IN of)
+                (NP (NN fact))))))))
+    (. .)))
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+det(dispute-5, an-3)
+nn(dispute-5, election-4)
+nsubj(is-2, dispute-5)
+det(vote-9, a-7)
+nn(vote-9, tie-8)
+appos(dispute-5, vote-9)
+det(matter-12, a-11)
+prep_as(vote-9, matter-12)
+prep_of(matter-12, fact-14)
+
+And/CC just/RB as/IN in/IN Florida/NNP ,/, votes/NNS have/VBP been/VBN recounted/VBN by/IN hand/NN ,/, but/CC the/DT chief/JJ executive/NN 's/POS race/NN remains/VBZ unsettled/JJ ./.
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB just))
+    (PP (IN as)
+      (PP (IN in)
+        (NP (NNP Florida))))
+    (, ,)
+    (S
+      (NP (NNS votes))
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBN recounted)
+            (PP (IN by)
+              (NP (NN hand)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (JJ chief) (NN executive) (POS 's))
+        (NN race))
+      (VP (VBZ remains)
+        (ADJP (JJ unsettled))))
+    (. .)))
+
+advmod(recounted-10, just-2)
+prep(recounted-10, as-3)
+pcomp(as-3, in-4)
+pobj(in-4, Florida-5)
+nsubjpass(recounted-10, votes-7)
+aux(recounted-10, have-8)
+auxpass(recounted-10, been-9)
+root(ROOT-0, recounted-10)
+agent(recounted-10, hand-12)
+det(executive-17, the-15)
+amod(executive-17, chief-16)
+poss(race-19, executive-17)
+nsubj(remains-20, race-19)
+conj_but(recounted-10, remains-20)
+acomp(remains-20, unsettled-21)
+
+But/CC that/IN 's/POS where/WRB any/DT comparison/NN between/IN Florida/NNP and/CC this/DT former/JJ logging/VBG town/NN 250/CD miles/NNS north/NN of/IN Detroit/NNP ends/NNS ./.
+
+(ROOT
+  (FRAG (CC But)
+    (SBAR (IN that)
+      (S
+        (NP (POS 's))
+        (VP (WRB where)
+          (NP
+            (NP
+              (NP (DT any) (NN comparison))
+              (PP (IN between)
+                (NP (NNP Florida))))
+            (CC and)
+            (NP
+              (NP (DT this) (JJ former) (VBG logging) (NN town))
+              (NP (CD 250) (NNS miles))))
+          (S
+            (NP
+              (NP (NN north))
+              (PP (IN of)
+                (NP (NNP Detroit) (NNS ends))))))))
+    (. .)))
+
+mark(comparison-6, that-2)
+nsubj(comparison-6, 's-3)
+advmod(comparison-6, where-4)
+det(comparison-6, any-5)
+root(ROOT-0, comparison-6)
+prep_between(comparison-6, Florida-8)
+det(town-13, this-10)
+amod(town-13, former-11)
+amod(town-13, logging-12)
+conj_and(comparison-6, town-13)
+num(miles-15, 250-14)
+dep(town-13, miles-15)
+dep(comparison-6, north-16)
+nn(ends-19, Detroit-18)
+prep_of(north-16, ends-19)
+
+They/PRP have/VBP counted/VBN all/PDT the/DT votes/NNS for/IN Fife/NNP Lake/NNP Township/NNP supervisor/NN three/CD times/NNS ,/, twice/NN on/IN election/NN night/NN and/CC once/RB in/IN a/DT hand/NN recount/NN on/IN Dec/NNP ./.
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (VP (VBN counted)
+        (NP
+          (NP
+            (NP (PDT all) (DT the) (NNS votes))
+            (PP (IN for)
+              (NP (NNP Fife) (NNP Lake) (NNP Township) (NN supervisor)))
+            (NP (CD three) (NNS times)))
+          (, ,)
+          (NP
+            (NP (NN twice))
+            (PP (IN on)
+              (NP (NN election) (NN night))))
+          (CC and)
+          (NP
+            (NP (RB once))
+            (PP (IN in)
+              (NP (DT a) (NN hand) (NN recount)))))
+        (PP (IN on)
+          (NP (NNP Dec)))))
+    (. .)))
+
+nsubj(counted-3, They-1)
+aux(counted-3, have-2)
+root(ROOT-0, counted-3)
+predet(votes-6, all-4)
+det(votes-6, the-5)
+dobj(counted-3, votes-6)
+nn(supervisor-11, Fife-8)
+nn(supervisor-11, Lake-9)
+nn(supervisor-11, Township-10)
+prep_for(votes-6, supervisor-11)
+num(times-13, three-12)
+dep(votes-6, times-13)
+dobj(counted-3, twice-15)
+conj_and(votes-6, twice-15)
+nn(night-18, election-17)
+prep_on(twice-15, night-18)
+dobj(counted-3, once-20)
+conj_and(votes-6, once-20)
+det(recount-24, a-22)
+nn(recount-24, hand-23)
+prep_in(once-20, recount-24)
+prep_on(counted-3, Dec-26)
+
+1/CD ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 1))
+    (. .)))
+
+root(ROOT-0, 1-1)
+
+The/DT result/NN is/VBZ 297/CD votes/NNS each/DT for/IN the/DT incumbent/NN ,/, Dave/NNP Stremlow/NNP ,/, and/CC the/DT Republican/NNP challenger/NN ,/, Toni/NNP Larson/NNP ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NN result))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP
+            (NP (CD 297) (NNS votes))
+            (NP (DT each)))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN incumbent))
+              (, ,)
+              (NP (NNP Dave) (NNP Stremlow))
+              (, ,))))
+        (CC and)
+        (NP
+          (NP (DT the) (NNP Republican) (NN challenger))
+          (, ,)
+          (NP (NNP Toni) (NNP Larson)))))
+    (. .)))
+
+det(result-2, The-1)
+nsubj(votes-5, result-2)
+cop(votes-5, is-3)
+num(votes-5, 297-4)
+root(ROOT-0, votes-5)
+dep(votes-5, each-6)
+det(incumbent-9, the-8)
+prep_for(votes-5, incumbent-9)
+nn(Stremlow-12, Dave-11)
+appos(incumbent-9, Stremlow-12)
+det(challenger-17, the-15)
+nn(challenger-17, Republican-16)
+conj_and(votes-5, challenger-17)
+nn(Larson-20, Toni-19)
+appos(challenger-17, Larson-20)
+
+Nobody/NNP has/VBZ said/VBN a/DT word/NN about/IN a/DT court/NN challenge/NN or/CC another/DT recount/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP Nobody))
+    (VP (VBZ has)
+      (VP (VBN said)
+        (NP (DT a) (NN word))
+        (PP (IN about)
+          (NP
+            (NP (DT a) (NN court) (NN challenge))
+            (CC or)
+            (NP (DT another) (NN recount))))))
+    (. .)))
+
+nsubj(said-3, Nobody-1)
+aux(said-3, has-2)
+root(ROOT-0, said-3)
+det(word-5, a-4)
+dobj(said-3, word-5)
+det(challenge-9, a-7)
+nn(challenge-9, court-8)
+prep_about(said-3, challenge-9)
+det(recount-12, another-11)
+prep_about(said-3, recount-12)
+conj_or(challenge-9, recount-12)
+
+And/CC the/DT simple/JJ solution/NN laid/VBN out/RP in/IN Michigan/NNP law/NN will/MD be/VB followed/VBN Monday/NNP morning/VBG up/RP the/DT road/NN a/DT few/JJ miles/NNS at/IN the/DT county/NN building/NN in/IN Traverse/NNP City/NNP ./.
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (DT the) (JJ simple) (NN solution))
+      (VP (VBN laid)
+        (PRT (RP out))
+        (PP (IN in)
+          (NP (NNP Michigan) (NN law)))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN followed)
+          (NP (NNP Monday))
+          (S
+            (VP (VBG morning)
+              (PRT (RP up))
+              (NP (DT the) (NN road))
+              (PP
+                (NP (DT a) (JJ few) (NNS miles))
+                (IN at)
+                (NP
+                  (NP (DT the) (NN county) (NN building))
+                  (PP (IN in)
+                    (NP (NNP Traverse) (NNP City))))))))))
+    (. .)))
+
+cc(followed-12, And-1)
+det(solution-4, the-2)
+amod(solution-4, simple-3)
+nsubjpass(followed-12, solution-4)
+vmod(solution-4, laid-5)
+prt(laid-5, out-6)
+nn(law-9, Michigan-8)
+prep_in(laid-5, law-9)
+aux(followed-12, will-10)
+auxpass(followed-12, be-11)
+root(ROOT-0, followed-12)
+tmod(followed-12, Monday-13)
+xcomp(followed-12, morning-14)
+prt(morning-14, up-15)
+det(road-17, the-16)
+dobj(morning-14, road-17)
+det(miles-20, a-18)
+amod(miles-20, few-19)
+npadvmod(morning-14, miles-20)
+det(building-24, the-22)
+nn(building-24, county-23)
+prep_at(morning-14, building-24)
+nn(City-27, Traverse-26)
+prep_in(building-24, City-27)
+
+There/EX ,/, Grand/NNP Traverse/NNP County/NNP Clerk/NNP Linda/NNP Coburn/NNP will/MD hold/VB a/DT box/NN with/IN two/CD folded/JJ slips/NNS of/IN paper/NN ,/, one/CD marked/VBD ``elected/VBN ''/'' and/CC one/CD marked/JJ ``not/NN elected/VBD .''/.
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (PRN (, ,)
+        (S
+          (NP (NNP Grand) (NNP Traverse) (NNP County) (NNP Clerk) (NNP Linda) (NNP Coburn))
+          (VP (MD will)
+            (VP (VB hold)
+              (NP (DT a) (NN box))
+              (PP (IN with)
+                (NP
+                  (NP (CD two) (JJ folded) (NNS slips))
+                  (PP (IN of)
+                    (NP (NN paper))))))))
+        (, ,))
+      (NP (CD one))
+      (VP (VBD marked)
+        (ADJP (VBN ``elected)))
+      ('' ''))
+    (CC and)
+    (S
+      (NP (CD one) (JJ marked) (NN ``not))
+      (VP (VBD elected)))
+    (. .'')))
+
+expl(marked-21, There-1)
+nn(Coburn-8, Grand-3)
+nn(Coburn-8, Traverse-4)
+nn(Coburn-8, County-5)
+nn(Coburn-8, Clerk-6)
+nn(Coburn-8, Linda-7)
+nsubj(hold-10, Coburn-8)
+aux(hold-10, will-9)
+parataxis(marked-21, hold-10)
+det(box-12, a-11)
+dobj(hold-10, box-12)
+num(slips-16, two-14)
+amod(slips-16, folded-15)
+prep_with(hold-10, slips-16)
+prep_of(slips-16, paper-18)
+nsubj(marked-21, one-20)
+root(ROOT-0, marked-21)
+acomp(marked-21, ``elected-22)
+num(``not-27, one-25)
+amod(``not-27, marked-26)
+nsubj(elected-28, ``not-27)
+conj_and(marked-21, elected-28)
+punct(marked-21, .''-29)
+
+The/DT candidates/NNS will/MD draw/VB ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NNS candidates))
+    (VP (MD will)
+      (VP (VB draw)))
+    (. .)))
+
+det(candidates-2, The-1)
+nsubj(draw-4, candidates-2)
+aux(draw-4, will-3)
+root(ROOT-0, draw-4)
+
+The/DT slips/NNS of/IN paper/NN will/MD be/VB read/VB ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS slips))
+      (PP (IN of)
+        (NP (NN paper))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VB read))))
+    (. .)))
+
+det(slips-2, The-1)
+nsubj(read-7, slips-2)
+prep_of(slips-2, paper-4)
+aux(read-7, will-5)
+aux(read-7, be-6)
+root(ROOT-0, read-7)
+
+And/CC the/DT race/NN will/MD be/VB over/RP ./.
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NN race))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (RP over))))
+    (. .)))
+
+cc(over-6, And-1)
+det(race-3, the-2)
+nsubj(over-6, race-3)
+aux(over-6, will-4)
+cop(over-6, be-5)
+root(ROOT-0, over-6)
+
+``I/PRP 'm/VBP speechless/JJ ,/, no/DT matter/NN how/WRB I/PRP look/VBD at/IN it/PRP ,''/, said/VBD Larson/NNP ,/, adding/VBG that/IN she/PRP never/RB thought/VBD of/IN questioning/VBG the/DT hand/NN recount/NN ./.
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP ``I))
+      (VP (VBP 'm)
+        (ADJP (JJ speechless))
+        (, ,)
+        (ADVP (DT no) (NN matter)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (PRP I))
+              (VP (VBD look)
+                (PP (IN at)
+                  (NP (PRP it)))))))))
+    (, ,'')
+    (VP (VBD said))
+    (NP (NNP Larson))
+    (, ,)
+    (S
+      (VP (VBG adding)
+        (SBAR (IN that)
+          (S
+            (NP (PRP she))
+            (ADVP (RB never))
+            (VP (VBD thought)
+              (PP (IN of)
+                (S
+                  (VP (VBG questioning)
+                    (NP (DT the) (NN hand) (NN recount))))))))))
+    (. .)))
+
+nsubj(speechless-3, ``I-1)
+cop(speechless-3, 'm-2)
+ccomp(said-13, speechless-3)
+neg(matter-6, no-5)
+advmod(speechless-3, matter-6)
+advmod(look-9, how-7)
+nsubj(look-9, I-8)
+dep(matter-6, look-9)
+prep_at(look-9, it-11)
+punct(said-13, ,''-12)
+root(ROOT-0, said-13)
+nsubj(said-13, Larson-14)
+vmod(said-13, adding-16)
+mark(thought-20, that-17)
+nsubj(thought-20, she-18)
+neg(thought-20, never-19)
+ccomp(adding-16, thought-20)
+prepc_of(thought-20, questioning-22)
+det(recount-25, the-23)
+nn(recount-25, hand-24)
+dobj(questioning-22, recount-25)
+
+``Oh/NNP ,/, gosh/NN no/RB ./.
+
+(ROOT
+  (NP
+    (NP (NNP ``Oh))
+    (, ,)
+    (NP (NN gosh) (RB no))
+    (. .)))
+
+root(ROOT-0, ``Oh-1)
+appos(``Oh-1, gosh-3)
+advmod(gosh-3, no-4)
+
+How/NNP many/JJ times/NNS do/VBP you/PRP need/VBP a/DT recount/NN ?/.
+
+(ROOT
+  (S
+    (NP (NNP How) (JJ many) (NNS times))
+    (VP (VBP do)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP need)
+            (NP (DT a) (NN recount))))))
+    (. ?)))
+
+nn(times-3, How-1)
+amod(times-3, many-2)
+nsubj(do-4, times-3)
+root(ROOT-0, do-4)
+nsubj(need-6, you-5)
+ccomp(do-4, need-6)
+det(recount-8, a-7)
+dobj(need-6, recount-8)
+
+That/DT 's/VBZ crazy/NN .''/.
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (NP (NN crazy)))
+    (. .'')))
+
+nsubj(crazy-3, That-1)
+cop(crazy-3, 's-2)
+root(ROOT-0, crazy-3)
+punct(crazy-3, .''-4)
+
+Coburn/NNP said/VBD ties/NNS were/VBD rare/NN but/CC not/RB unheard/JJ of/IN ./.
+
+(ROOT
+  (S
+    (NP (NNP Coburn))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNS ties))
+          (VP (VBD were)
+            (ADJP
+              (ADJP (NN rare))
+              (CC but)
+              (ADJP (RB not) (JJ unheard)))
+            (PP (IN of))))))
+    (. .)))
+
+nsubj(said-2, Coburn-1)
+root(ROOT-0, said-2)
+nsubj(rare-5, ties-3)
+nsubj(unheard-8, ties-3)
+cop(rare-5, were-4)
+ccomp(said-2, rare-5)
+neg(unheard-8, not-7)
+ccomp(said-2, unheard-8)
+conj_but(rare-5, unheard-8)
+prep(rare-5, of-9)
+
+She/NNP has/VBZ seen/VBN one/CD other/JJ in/IN her/PRP$ 20/CD years/NNS on/IN the/DT job/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP She))
+    (VP (VBZ has)
+      (VP (VBN seen)
+        (NP
+          (NP (CD one))
+          (PP (JJ other) (IN in)
+            (NP
+              (NP (PRP$ her) (CD 20) (NNS years))
+              (PP (IN on)
+                (NP (DT the) (NN job))))))))
+    (. .)))
+
+nsubj(seen-3, She-1)
+aux(seen-3, has-2)
+root(ROOT-0, seen-3)
+dobj(seen-3, one-4)
+dep(one-4, other-5)
+poss(years-9, her-7)
+num(years-9, 20-8)
+prep_in(one-4, years-9)
+det(job-12, the-11)
+prep_on(years-9, job-12)
+
+The/DT race/NN for/IN township/NN supervisor/NN was/VBD an/DT engaging/NN one/NN from/IN the/DT beginning/NN ,/, since/IN both/DT Stremlow/NNP and/CC Larson/NNP already/RB sit/VB on/IN the/DT township/NN 's/POS Board/NNP of/IN Trustees/NNPS _/NNP Stremlow/NNP as/IN supervisor/NN and/CC Larson/NNP as/IN township/NN clerk/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN race))
+      (PP (IN for)
+        (NP (NN township) (NN supervisor))))
+    (VP (VBD was)
+      (NP
+        (NP (DT an) (NN engaging) (NN one))
+        (PP (IN from)
+          (NP (DT the) (NN beginning))))
+      (, ,)
+      (SBAR (IN since)
+        (S
+          (NP (DT both) (NNP Stremlow)
+            (CC and)
+            (NNP Larson))
+          (ADVP (RB already))
+          (VP (VB sit)
+            (PP (IN on)
+              (NP
+                (NP
+                  (NP
+                    (NP (DT the) (NN township) (POS 's))
+                    (NNP Board))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNPS Trustees) (NNP _) (NNP Stremlow))
+                      (PP (IN as)
+                        (NP (NN supervisor))))))
+                (CC and)
+                (NP
+                  (NP (NNP Larson))
+                  (PP (IN as)
+                    (NP (NN township) (NN clerk))))))))))
+    (. .)))
+
+det(race-2, The-1)
+nsubj(one-9, race-2)
+nn(supervisor-5, township-4)
+prep_for(race-2, supervisor-5)
+cop(one-9, was-6)
+det(one-9, an-7)
+nn(one-9, engaging-8)
+root(ROOT-0, one-9)
+det(beginning-12, the-11)
+prep_from(one-9, beginning-12)
+mark(sit-20, since-14)
+preconj(Stremlow-16, both-15)
+nsubj(sit-20, Stremlow-16)
+conj_and(Stremlow-16, Larson-18)
+nsubj(sit-20, Larson-18)
+advmod(sit-20, already-19)
+advcl(one-9, sit-20)
+det(township-23, the-22)
+poss(Board-25, township-23)
+prep_on(sit-20, Board-25)
+nn(Stremlow-29, Trustees-27)
+nn(Stremlow-29, _-28)
+prep_of(Board-25, Stremlow-29)
+prep_as(Stremlow-29, supervisor-31)
+prep_on(sit-20, Larson-33)
+conj_and(Board-25, Larson-33)
+nn(clerk-36, township-35)
+prep_as(Larson-33, clerk-36)
+
+``It/PRP was/VBD interesting/VBG to/TO watch/VB the/DT meetings/NNS ,/, with/IN her/PRP$ running/NN against/IN him/PRP and/CC them/PRP both/DT having/VBG to/TO sit/VB together/NN ,''/NNS said/VBD Pat/NNP Gibson/NNP ,/, owner/NN of/IN Gibson's/NNP Hardware/NNP Store/NNP ,/, who/WP occasionally/RB attends/NNS meetings/NNS ./.
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP ``It))
+      (VP (VBD was)
+        (VP (VBG interesting)
+          (S
+            (VP (TO to)
+              (VP (VB watch)
+                (NP (DT the) (NNS meetings))
+                (, ,)
+                (PP (IN with)
+                  (NP (PRP$ her) (NN running)))
+                (PP (IN against)
+                  (S
+                    (NP (PRP him)
+                      (CC and)
+                      (PRP them))
+                    (ADVP (DT both))
+                    (VP (VBG having)
+                      (S
+                        (VP (TO to)
+                          (VP (VB sit)
+                            (NP (NN together) (NNS ,''))))))))))))))
+    (VP (VBD said))
+    (NP
+      (NP (NNP Pat) (NNP Gibson))
+      (, ,)
+      (NP
+        (NP
+          (NP (NN owner))
+          (PP (IN of)
+            (NP (NNP Gibson's) (NNP Hardware) (NNP Store)))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP
+                (ADVP (RB occasionally))))))
+        (NP (NNS attends) (NNS meetings))))
+    (. .)))
+
+nsubj(interesting-3, ``It-1)
+nsubj(watch-5, ``It-1)
+aux(interesting-3, was-2)
+dep(said-22, interesting-3)
+aux(watch-5, to-4)
+xcomp(interesting-3, watch-5)
+det(meetings-7, the-6)
+dobj(watch-5, meetings-7)
+poss(running-11, her-10)
+prep_with(watch-5, running-11)
+nsubj(having-17, him-13)
+nsubj(sit-19, him-13)
+conj_and(him-13, them-15)
+nsubj(having-17, them-15)
+nsubj(sit-19, them-15)
+advmod(having-17, both-16)
+prepc_against(watch-5, having-17)
+aux(sit-19, to-18)
+xcomp(having-17, sit-19)
+nn(,''-21, together-20)
+dobj(sit-19, ,''-21)
+root(ROOT-0, said-22)
+nn(Gibson-24, Pat-23)
+nsubj(said-22, Gibson-24)
+appos(Gibson-24, owner-26)
+nsubj(occasionally-33, owner-26)
+nn(Store-30, Gibson's-28)
+nn(Store-30, Hardware-29)
+prep_of(owner-26, Store-30)
+rcmod(owner-26, occasionally-33)
+nn(meetings-35, attends-34)
+dep(owner-26, meetings-35)
+
+``There/RB was/VBD a/DT little/JJ give/VB and/CC take/VB .''/.
+
+(ROOT
+  (SINV
+    (ADVP (RB ``There))
+    (VP (VBD was)
+      (NP (DT a) (JJ little))
+      (NP
+        (SBAR
+          (S
+            (VP (VB give)
+              (CC and)
+              (VB take))))))
+    (NP (. .''))))
+
+advmod(little-4, ``There-1)
+cop(little-4, was-2)
+det(little-4, a-3)
+root(ROOT-0, little-4)
+dep(little-4, give-5)
+dep(little-4, take-7)
+conj_and(give-5, take-7)
+nsubj(little-4, .''-8)
+
+Fife/NNP Lake/NNP came/VBD to/TO life/VB in/IN 1872/CD and/CC was/VBD a/DT thriving/VBG logging/VBG town/VBN by/IN 1885/CD ./.
+
+(ROOT
+  (S
+    (NP (NNP Fife) (NNP Lake))
+    (VP
+      (VP (VBD came)
+        (S
+          (VP (TO to)
+            (VP (VB life)
+              (PP (IN in)
+                (NP (CD 1872)))))))
+      (CC and)
+      (VP (VBD was)
+        (NP
+          (NP (DT a))
+          (VP (VBG thriving)
+            (NP
+              (NP (VBG logging))
+              (VP (VBN town)
+                (PP (IN by)
+                  (NP (CD 1885)))))))))
+    (. .)))
+
+nn(Lake-2, Fife-1)
+nsubj(came-3, Lake-2)
+nsubj(life-5, Lake-2)
+root(ROOT-0, came-3)
+aux(life-5, to-4)
+xcomp(came-3, life-5)
+prep_in(life-5, 1872-7)
+cop(a-10, was-9)
+conj_and(came-3, a-10)
+vmod(a-10, thriving-11)
+dobj(thriving-11, logging-12)
+vmod(logging-12, town-13)
+agent(town-13, 1885-15)
+
+Ice/NNP was/VBD harvested/VBN from/IN the/DT frozen/JJ lake/NN in/IN the/DT winter/NN for/IN prerefrigeration/NN ice/NN boxes/NNS downstate/VBP ./.
+
+(ROOT
+  (S
+    (NP (NNP Ice))
+    (VP (VBD was)
+      (VP (VBN harvested)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (JJ frozen) (NN lake))
+            (PP (IN in)
+              (NP (DT the) (NN winter)))))
+        (SBAR (IN for)
+          (S
+            (NP (NN prerefrigeration) (NN ice) (NNS boxes))
+            (VP (VBP downstate))))))
+    (. .)))
+
+nsubjpass(harvested-3, Ice-1)
+auxpass(harvested-3, was-2)
+root(ROOT-0, harvested-3)
+det(lake-7, the-5)
+amod(lake-7, frozen-6)
+prep_from(harvested-3, lake-7)
+det(winter-10, the-9)
+prep_in(lake-7, winter-10)
+mark(downstate-15, for-11)
+nn(boxes-14, prerefrigeration-12)
+nn(boxes-14, ice-13)
+nsubj(downstate-15, boxes-14)
+advcl(harvested-3, downstate-15)
+
+Now/RB it/PRP is/VBZ mostly/RB a/DT bedroom/JJ community/NN for/IN Traverse/NNP City/NNP to/TO the/DT north/NN and/CC Cadillac/NNP to/TO the/DT south/NN ,/, though/IN some/DT people/NNS make/VBP a/DT living/VBG farming/VBG Christmas/NNP trees/NNS or/CC from/IN summer/JJ tourism/NN ./.
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB mostly))
+      (NP
+        (NP (DT a)
+          (NX
+            (NX
+              (NX (JJ bedroom) (NN community))
+              (PP (IN for)
+                (NP
+                  (NP (NNP Traverse) (NNP City))
+                  (PP (TO to)
+                    (NP (DT the) (NN north))))))
+            (CC and)
+            (NX (NNP Cadillac))))
+        (PP (TO to)
+          (NP (DT the) (NN south)))
+        (, ,)
+        (UCP
+          (SBAR (IN though)
+            (S
+              (NP (DT some) (NNS people))
+              (VP (VBP make)
+                (NP
+                  (NP (DT a) (VBG living))
+                  (VP (VBG farming)
+                    (NP (NNP Christmas) (NNS trees)))))))
+          (CC or)
+          (PP (IN from)
+            (NP (JJ summer) (NN tourism))))))
+    (. .)))
+
+advmod(community-7, Now-1)
+nsubj(community-7, it-2)
+cop(community-7, is-3)
+advmod(community-7, mostly-4)
+det(community-7, a-5)
+amod(community-7, bedroom-6)
+root(ROOT-0, community-7)
+nn(City-10, Traverse-9)
+prep_for(community-7, City-10)
+det(north-13, the-12)
+prep_to(City-10, north-13)
+conj_and(community-7, Cadillac-15)
+det(south-18, the-17)
+prep_to(community-7, south-18)
+mark(make-23, though-20)
+det(people-22, some-21)
+nsubj(make-23, people-22)
+dep(community-7, make-23)
+dobj(make-23, a-24)
+amod(a-24, living-25)
+vmod(a-24, farming-26)
+nn(trees-28, Christmas-27)
+dobj(farming-26, trees-28)
+dep(community-7, from-30)
+conj_or(make-23, from-30)
+amod(tourism-32, summer-31)
+pobj(from-30, tourism-32)
+
+The/DT population/NN is/VBZ between/IN 1,800/CD and/CC 1,900/CD ,/, Stremlow/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN population))
+      (VP (VBZ is)
+        (NP
+          (QP (IN between) (CD 1,800)
+            (CC and)
+            (CD 1,900)))))
+    (, ,)
+    (NP (NNP Stremlow))
+    (VP (VBD said))
+    (. .)))
+
+det(population-2, The-1)
+nsubj(1,800-5, population-2)
+cop(1,800-5, is-3)
+amod(1,800-5, between-4)
+ccomp(said-10, 1,800-5)
+conj_and(1,800-5, 1,900-7)
+ccomp(said-10, 1,900-7)
+nsubj(said-10, Stremlow-9)
+root(ROOT-0, said-10)
+
+Township/NN government/NN here/RB mostly/RB takes/IN care/NN of/IN the/DT volunteer/NN fire/NN department/NN and/CC ambulance/NN service/NN ./.
+
+(ROOT
+  (NP
+    (NP (NN Township) (NN government))
+    (PP
+      (ADVP (RB here))
+      (RB mostly)
+      (PP (IN takes)
+        (NP (NN care))))
+    (PP (IN of)
+      (NP (DT the) (NN volunteer) (NN fire) (NN department)
+        (CC and)
+        (NN ambulance) (NN service)))
+    (. .)))
+
+nn(government-2, Township-1)
+root(ROOT-0, government-2)
+advmod(government-2, here-3)
+advmod(government-2, mostly-4)
+prep_takes(government-2, care-6)
+det(department-11, the-8)
+nn(department-11, volunteer-9)
+nn(department-11, fire-10)
+prep_of(government-2, department-11)
+nn(service-14, ambulance-13)
+prep_of(government-2, service-14)
+conj_and(department-11, service-14)
+
+The/DT annual/JJ budget/NN of/IN about/IN $200,000/CD includes/VBZ a/DT $6,500/JJ salary/NN for/IN the/DT part-time/JJ supervisor/NN ,/, Stremlow/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ annual) (NN budget))
+        (PP (IN of)
+          (PP (IN about)
+            (NP (CD $200,000)))))
+      (VP (VBZ includes)
+        (NP
+          (NP (DT a) (JJ $6,500) (NN salary))
+          (PP (IN for)
+            (NP (DT the) (JJ part-time) (NN supervisor))))))
+    (, ,)
+    (NP (NNP Stremlow))
+    (VP (VBD said))
+    (. .)))
+
+det(budget-3, The-1)
+amod(budget-3, annual-2)
+nsubj(includes-7, budget-3)
+prep(budget-3, of-4)
+pcomp(of-4, about-5)
+pobj(about-5, $200,000-6)
+ccomp(said-17, includes-7)
+det(salary-10, a-8)
+amod(salary-10, $6,500-9)
+dobj(includes-7, salary-10)
+det(supervisor-14, the-12)
+amod(supervisor-14, part-time-13)
+prep_for(salary-10, supervisor-14)
+nsubj(said-17, Stremlow-16)
+root(ROOT-0, said-17)
+
+Although/IN he/PRP admitted/VBD it/PRP was/VBD somewhat/RB awkward/VBN to/TO be/VB challenged/VBN by/IN his/PRP$ own/JJ clerk/NN ,/, Stremlow/NNP said/VBD the/DT race/NN was/VBD cordial/JJ and/CC positive/JJ ,/, with/IN no/DT striking/NN campaign/NN issues/NNS ./.
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (PRP he))
+        (VP (VBD admitted)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBD was)
+                (ADJP (RB somewhat) (VBN awkward)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (VP (VBN challenged)
+                          (PP (IN by)
+                            (NP (PRP$ his) (JJ own) (NN clerk))))))))))))))
+    (, ,)
+    (NP (NNP Stremlow))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN race))
+          (VP (VBD was)
+            (ADJP (JJ cordial)
+              (CC and)
+              (JJ positive) (, ,)
+              (PP (IN with)
+                (NP (DT no) (NN striking) (NN campaign) (NNS issues))))))))
+    (. .)))
+
+mark(admitted-3, Although-1)
+nsubj(admitted-3, he-2)
+advcl(said-17, admitted-3)
+nsubjpass(awkward-7, it-4)
+nsubjpass(challenged-10, it-4)
+auxpass(awkward-7, was-5)
+advmod(awkward-7, somewhat-6)
+ccomp(admitted-3, awkward-7)
+aux(challenged-10, to-8)
+auxpass(challenged-10, be-9)
+xcomp(awkward-7, challenged-10)
+poss(clerk-14, his-12)
+amod(clerk-14, own-13)
+agent(challenged-10, clerk-14)
+nsubj(said-17, Stremlow-16)
+root(ROOT-0, said-17)
+det(race-19, the-18)
+nsubj(cordial-21, race-19)
+nsubj(positive-23, race-19)
+cop(cordial-21, was-20)
+ccomp(said-17, cordial-21)
+ccomp(said-17, positive-23)
+conj_and(cordial-21, positive-23)
+ccomp(said-17, with-25)
+conj_and(cordial-21, with-25)
+neg(issues-29, no-26)
+nn(issues-29, striking-27)
+nn(issues-29, campaign-28)
+prep_with(cordial-21, issues-29)
+
+``I/PRP think/VBP I/PRP 've/MD done/VB a/DT lot/NN for/IN the/DT township/NN ,''/NN said/VBD Stremlow/NNP ,/, 70/CD ,/, a/DT retired/JJ auto/NN worker/NN from/IN Flint/NNP ./.
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP ``I))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD 've)
+              (VP (VB done)
+                (NP
+                  (NP (DT a) (NN lot))
+                  (PP (IN for)
+                    (NP (DT the) (NN township) (NN ,''))))))))))
+    (VP (VBD said))
+    (NP
+      (NP (NNP Stremlow))
+      (, ,)
+      (NP
+        (NP (CD 70))
+        (, ,)
+        (NP
+          (NP (DT a) (JJ retired) (NN auto) (NN worker))
+          (PP (IN from)
+            (NP (NNP Flint))))))
+    (. .)))
+
+nsubj(think-2, ``I-1)
+dep(said-12, think-2)
+nsubj(done-5, I-3)
+aux(done-5, 've-4)
+ccomp(think-2, done-5)
+det(lot-7, a-6)
+dobj(done-5, lot-7)
+det(,''-11, the-9)
+nn(,''-11, township-10)
+prep_for(lot-7, ,''-11)
+root(ROOT-0, said-12)
+nsubj(said-12, Stremlow-13)
+appos(Stremlow-13, 70-15)
+det(worker-20, a-17)
+amod(worker-20, retired-18)
+nn(worker-20, auto-19)
+appos(70-15, worker-20)
+prep_from(worker-20, Flint-22)
+
+``We/RB have/VBP a/DT new/JJ ambulance/NN and/CC a/DT new/JJ fire/NN wagon/NN ./.
+
+(ROOT
+  (SINV
+    (ADVP (RB ``We))
+    (VP (VBP have))
+    (NP
+      (NP (DT a) (JJ new) (NN ambulance))
+      (CC and)
+      (NP (DT a) (JJ new) (NN fire) (NN wagon)))
+    (. .)))
+
+advmod(have-2, ``We-1)
+root(ROOT-0, have-2)
+det(ambulance-5, a-3)
+amod(ambulance-5, new-4)
+nsubj(have-2, ambulance-5)
+det(wagon-10, a-7)
+amod(wagon-10, new-8)
+nn(wagon-10, fire-9)
+nsubj(have-2, wagon-10)
+conj_and(ambulance-5, wagon-10)
+
+And/CC the/DT kitty/NN is/VBZ a/DT little/JJ better/JJR off/RB than/IN it/PRP was/VBD when/WRB I/PRP started/VBD .''/.
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NN kitty))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP
+          (NP (DT a) (JJ little))
+          (JJR better))
+        (SBAR
+          (ADVP (RB off))
+          (IN than)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD started)))))))))
+    (. .'')))
+
+cc(better-7, And-1)
+det(kitty-3, the-2)
+nsubj(better-7, kitty-3)
+cop(better-7, is-4)
+det(little-6, a-5)
+npadvmod(better-7, little-6)
+root(ROOT-0, better-7)
+advmod(was-11, off-8)
+mark(was-11, than-9)
+nsubj(was-11, it-10)
+ccomp(better-7, was-11)
+advmod(started-14, when-12)
+nsubj(started-14, I-13)
+advcl(was-11, started-14)
+punct(better-7, .''-15)
+
+``Both/JJ people/NNS are/VBP well/RB liked/VBN ,''/JJ said/VBD Gary/NNP Gilmore/NNP ,/, 52/CD ,/, as/IN he/PRP sipped/VBD his/PRP$ Saturday/NN morning/NN coffee/NN at/IN the/DT Sugar/NNP Bowl/NNP Restaurant/NNP ./.
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ ``Both) (NNS people))
+      (VP (VBP are)
+        (ADVP (RB well))
+        (VP (VBN liked)
+          (S
+            (ADJP (JJ ,''))))))
+    (VP (VBD said))
+    (NP
+      (NP (NNP Gary) (NNP Gilmore))
+      (, ,)
+      (NP
+        (NP (CD 52))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (NP (PRP he))
+            (VP (VBD sipped)
+              (NP (PRP$ his) (NN Saturday) (NN morning) (NN coffee))
+              (PP (IN at)
+                (NP (DT the) (NNP Sugar) (NNP Bowl) (NNP Restaurant))))))))
+    (. .)))
+
+amod(people-2, ``Both-1)
+nsubjpass(liked-5, people-2)
+auxpass(liked-5, are-3)
+advmod(liked-5, well-4)
+dep(said-7, liked-5)
+xcomp(liked-5, ,''-6)
+root(ROOT-0, said-7)
+nn(Gilmore-9, Gary-8)
+nsubj(said-7, Gilmore-9)
+appos(Gilmore-9, 52-11)
+mark(sipped-15, as-13)
+nsubj(sipped-15, he-14)
+dep(52-11, sipped-15)
+poss(coffee-19, his-16)
+nn(coffee-19, Saturday-17)
+nn(coffee-19, morning-18)
+dobj(sipped-15, coffee-19)
+det(Restaurant-24, the-21)
+nn(Restaurant-24, Sugar-22)
+nn(Restaurant-24, Bowl-23)
+prep_at(sipped-15, Restaurant-24)
+
+``Everybody/JJ knows/NNS everybody/NN here/RB .''/.
+
+(ROOT
+  (FRAG
+    (NP (JJ ``Everybody) (NNS knows))
+    (NP (NN everybody) (RB here))
+    (. .'')))
+
+amod(knows-2, ``Everybody-1)
+root(ROOT-0, knows-2)
+dep(knows-2, everybody-3)
+advmod(everybody-3, here-4)
+punct(knows-2, .''-5)
+
+Carl/NNP Fales/NNP ,/, a/DT 74-year-old/JJ retiree/NN who/WP voted/VBN for/IN Larson/NNP ,/, agreed/VBD ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Carl) (NNP Fales))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ 74-year-old) (NN retiree))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBN voted)
+              (PP (IN for)
+                (NP (NNP Larson)))))))
+      (, ,))
+    (VP (VBD agreed))
+    (. .)))
+
+nn(Fales-2, Carl-1)
+nsubj(agreed-12, Fales-2)
+det(retiree-6, a-4)
+amod(retiree-6, 74-year-old-5)
+appos(Fales-2, retiree-6)
+nsubj(voted-8, retiree-6)
+rcmod(retiree-6, voted-8)
+prep_for(voted-8, Larson-10)
+root(ROOT-0, agreed-12)
+
+``They/RB are/VBP both/DT good/JJ people/NNS ,''/, Fales/NNS said/VBD ./.
+
+(ROOT
+  (SINV
+    (ADVP (RB ``They))
+    (VP (VBP are) (DT both)
+      (ADJP (JJ good)))
+    (NP (NNS people)
+      (SBAR
+        (WHNP (, ,'') (NNS Fales))
+        (S
+          (VP (VBD said)))))
+    (. .)))
+
+advmod(good-4, ``They-1)
+cop(good-4, are-2)
+dep(good-4, both-3)
+root(ROOT-0, good-4)
+nsubj(good-4, people-5)
+punct(Fales-7, ,''-6)
+nsubj(said-8, Fales-7)
+ccomp(people-5, said-8)
+
+``Either/RB one/CD will/MD do/VB fine/NN .''/.
+
+(ROOT
+  (S
+    (ADVP (RB ``Either))
+    (NP (CD one))
+    (VP (MD will)
+      (VP (VB do)
+        (NP (NN fine))))
+    (. .'')))
+
+advmod(do-4, ``Either-1)
+nsubj(do-4, one-2)
+aux(do-4, will-3)
+root(ROOT-0, do-4)
+dobj(do-4, fine-5)
+punct(do-4, .''-6)
+
+Although/IN the/DT matter/NN is/VBZ being/VBG settled/VBN quietly/RB ,/, there/EX was/VBD drama/VBN on/IN election/NN night/NN ./.
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (DT the) (NN matter))
+        (VP (VBZ is)
+          (VP (VBG being)
+            (VP (VBN settled)
+              (ADVP (RB quietly)))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD was)
+      (VP (VBN drama)
+        (PP (IN on)
+          (NP (NN election)))
+        (NP (NN night))))
+    (. .)))
+
+mark(settled-6, Although-1)
+det(matter-3, the-2)
+nsubjpass(settled-6, matter-3)
+aux(settled-6, is-4)
+auxpass(settled-6, being-5)
+advcl(drama-11, settled-6)
+advmod(settled-6, quietly-7)
+expl(drama-11, there-9)
+auxpass(drama-11, was-10)
+root(ROOT-0, drama-11)
+prep_on(drama-11, election-13)
+nsubjpass(drama-11, night-14)
+tmod(drama-11, night-14)
+
+The/DT first/JJ count/NN had/VBD Larson/NNP ,/, a/DT 66-year-old/JJ retired/JJ school/NN clerk/NN ,/, ahead/RB by/IN two/CD votes/NNS ./.
+
+(ROOT
+  (S
+    (NP (DT The) (JJ first) (NN count))
+    (VP (VBD had)
+      (NP
+        (NP (NNP Larson))
+        (, ,)
+        (NP
+          (NP (DT a) (JJ 66-year-old) (JJ retired) (NN school) (NN clerk))
+          (, ,)
+          (ADVP (RB ahead)
+            (PP (IN by)
+              (NP (CD two) (NNS votes)))))))
+    (. .)))
+
+det(count-3, The-1)
+amod(count-3, first-2)
+nsubj(had-4, count-3)
+root(ROOT-0, had-4)
+dobj(had-4, Larson-5)
+det(clerk-11, a-7)
+amod(clerk-11, 66-year-old-8)
+amod(clerk-11, retired-9)
+nn(clerk-11, school-10)
+appos(Larson-5, clerk-11)
+advmod(clerk-11, ahead-13)
+num(votes-16, two-15)
+prep_by(ahead-13, votes-16)
+
+But/CC Larson/NNP ,/, as/IN clerk/NN ,/, was/VBD overseeing/VBG the/DT count/NN and/CC she/PRP noticed/VBD that/IN the/DT tally/RB did/VBD not/RB match/VB the/DT number/NN of/IN ballots/NNS cast/NN ./.
+
+(ROOT
+  (S (CC But)
+    (S
+      (NP (NNP Larson))
+      (, ,)
+      (PP (IN as)
+        (NP (NN clerk)))
+      (, ,)
+      (VP (VBD was)
+        (VP (VBG overseeing)
+          (NP (DT the) (NN count)))))
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (VBD noticed)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (RB tally))
+            (VP (VBD did) (RB not)
+              (VP (VB match)
+                (NP
+                  (NP (DT the) (NN number))
+                  (PP (IN of)
+                    (NP (NNS ballots) (NN cast))))))))))
+    (. .)))
+
+nsubj(overseeing-8, Larson-2)
+prep_as(overseeing-8, clerk-5)
+aux(overseeing-8, was-7)
+root(ROOT-0, overseeing-8)
+det(count-10, the-9)
+dobj(overseeing-8, count-10)
+nsubj(noticed-13, she-12)
+conj_and(overseeing-8, noticed-13)
+mark(match-19, that-14)
+det(tally-16, the-15)
+nsubj(match-19, tally-16)
+aux(match-19, did-17)
+neg(match-19, not-18)
+ccomp(noticed-13, match-19)
+det(number-21, the-20)
+dobj(match-19, number-21)
+nn(cast-24, ballots-23)
+prep_of(number-21, cast-24)
+
+A/DT second/JJ run/NN through/IN the/DT counting/VBG machine/NN left/VBD Stremlow/NNP the/DT winner/NN by/IN one/CD vote/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ second) (NN run))
+      (PP (IN through)
+        (NP (DT the) (VBG counting) (NN machine))))
+    (VP (VBD left)
+      (NP (NNP Stremlow) (DT the) (NN winner))
+      (PP (IN by)
+        (NP (CD one) (NN vote))))
+    (. .)))
+
+det(run-3, A-1)
+amod(run-3, second-2)
+nsubj(left-8, run-3)
+det(machine-7, the-5)
+amod(machine-7, counting-6)
+prep_through(run-3, machine-7)
+root(ROOT-0, left-8)
+nn(winner-11, Stremlow-9)
+det(winner-11, the-10)
+dobj(left-8, winner-11)
+num(vote-14, one-13)
+prep_by(left-8, vote-14)
+
+Larson/NNP requested/VBD a/DT hand-recount/NN ,/, which/WDT was/VBD held/VBN Dec/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP Larson))
+    (VP (VBD requested)
+      (NP
+        (NP (DT a) (NN hand-recount))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (VP (VBN held)
+                (NP (NNP Dec))))))))
+    (. .)))
+
+nsubj(requested-2, Larson-1)
+root(ROOT-0, requested-2)
+det(hand-recount-4, a-3)
+dobj(requested-2, hand-recount-4)
+nsubjpass(held-8, hand-recount-4)
+auxpass(held-8, was-7)
+rcmod(hand-recount-4, held-8)
+dobj(held-8, Dec-9)
+
+1/CD ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 1))
+    (. .)))
+
+root(ROOT-0, 1-1)
+
+It/PRP was/VBD there/RB that/IN one/CD rejected/VBD ballot/NN was/VBD discovered/VBN ./.
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADVP (RB there))
+      (SBAR (IN that)
+        (S
+          (NP (CD one))
+          (VP (VBD rejected)
+            (SBAR
+              (S
+                (NP (NN ballot))
+                (VP (VBD was)
+                  (VP (VBN discovered)))))))))
+    (. .)))
+
+nsubj(was-2, It-1)
+root(ROOT-0, was-2)
+advmod(was-2, there-3)
+mark(rejected-6, that-4)
+nsubj(rejected-6, one-5)
+ccomp(was-2, rejected-6)
+nsubjpass(discovered-9, ballot-7)
+auxpass(discovered-9, was-8)
+ccomp(rejected-6, discovered-9)
+
+Voters/NNS here/RB cast/VBP ballots/NNS by/IN making/VBG a/DT pen/JJ or/CC pencil/JJ mark/NN next/IN to/TO the/DT candidate/NN of/IN their/PRP$ choice/NN ./.
+
+(ROOT
+  (S
+    (NP (NNS Voters))
+    (ADVP (RB here))
+    (VP (VBP cast)
+      (NP (NNS ballots))
+      (PP (IN by)
+        (S
+          (VP (VBG making)
+            (NP (DT a)
+              (ADJP (JJ pen)
+                (CC or)
+                (JJ pencil))
+              (NN mark))
+            (PP (IN next)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN candidate))
+                  (PP (IN of)
+                    (NP (PRP$ their) (NN choice))))))))))
+    (. .)))
+
+nsubj(cast-3, Voters-1)
+advmod(cast-3, here-2)
+root(ROOT-0, cast-3)
+dobj(cast-3, ballots-4)
+prepc_by(cast-3, making-6)
+det(mark-11, a-7)
+amod(mark-11, pen-8)
+conj_or(pen-8, pencil-10)
+amod(mark-11, pencil-10)
+dobj(making-6, mark-11)
+prepc_next_to(making-6, to-13)
+det(candidate-15, the-14)
+pobj(making-6, candidate-15)
+poss(choice-18, their-17)
+prep_of(candidate-15, choice-18)
+
+And/CC Coburn/NNP said/VBD the/DT rejected/JJ ballot/NN had/VBD a/DT slight/JJ mark/NN next/JJ to/TO Stremlow/NNP 's/POS name/NN but/CC a/DT clearly/RB marked/JJ vote/NN for/IN Larson/NNP ./.
+
+(ROOT
+  (S (CC And)
+    (NP (NNP Coburn))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (JJ rejected) (NN ballot))
+          (VP (VBD had)
+            (NP
+              (NP (DT a) (JJ slight) (NN mark))
+              (ADVP (JJ next)
+                (PP (TO to)
+                  (NP
+                    (NP (NNP Stremlow) (POS 's))
+                    (NN name))))
+              (PP (CC but)
+                (NP
+                  (NP (DT a)
+                    (ADJP (RB clearly) (JJ marked))
+                    (NN vote))
+                  (PP (IN for)
+                    (NP (NNP Larson))))))))))
+    (. .)))
+
+cc(said-3, And-1)
+nsubj(said-3, Coburn-2)
+root(ROOT-0, said-3)
+det(ballot-6, the-4)
+amod(ballot-6, rejected-5)
+nsubj(had-7, ballot-6)
+ccomp(said-3, had-7)
+det(mark-10, a-8)
+amod(mark-10, slight-9)
+dobj(had-7, mark-10)
+poss(name-15, Stremlow-13)
+prep_next_to(mark-10, name-15)
+prep(mark-10, but-16)
+det(vote-20, a-17)
+advmod(marked-19, clearly-18)
+amod(vote-20, marked-19)
+pobj(but-16, vote-20)
+prep_for(vote-20, Larson-22)
+
+The/DT board/NN of/IN canvassers/NNS ,/, made/VBD up/RB of/IN two/CD Republicans/NNPS and/CC two/CD Democrats/NNPS ,/, all/DT agreed/VBD it/PRP was/VBD a/DT vote/NN for/IN Larson/NNP ,/, creating/VBG the/DT tie/NN ,/, Coburn/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN board))
+        (PP (IN of)
+          (NP
+            (NP (NNS canvassers))
+            (, ,)
+            (VP (VBD made)
+              (ADVP (RB up)
+                (PP (IN of)
+                  (NP
+                    (NP (CD two) (NNPS Republicans))
+                    (CC and)
+                    (NP (CD two) (NNPS Democrats)))
+                  (, ,)
+                  (ADVP (DT all))))))))
+      (VP (VBD agreed)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (NP
+                (NP (DT a) (NN vote))
+                (PP (IN for)
+                  (NP (NNP Larson)))
+                (, ,)
+                (VP (VBG creating)
+                  (NP (DT the) (NN tie)))))))))
+    (, ,)
+    (NP (NNP Coburn))
+    (VP (VBD said))
+    (. .)))
+
+det(board-2, The-1)
+nsubj(agreed-16, board-2)
+prep_of(board-2, canvassers-4)
+vmod(canvassers-4, made-6)
+advmod(made-6, up-7)
+num(Republicans-10, two-9)
+prep_of(up-7, Republicans-10)
+num(Democrats-13, two-12)
+prep_of(up-7, Democrats-13)
+conj_and(Republicans-10, Democrats-13)
+advmod(up-7, all-15)
+ccomp(said-29, agreed-16)
+nsubj(vote-20, it-17)
+cop(vote-20, was-18)
+det(vote-20, a-19)
+ccomp(agreed-16, vote-20)
+prep_for(vote-20, Larson-22)
+vmod(vote-20, creating-24)
+det(tie-26, the-25)
+dobj(creating-24, tie-26)
+nsubj(said-29, Coburn-28)
+root(ROOT-0, said-29)
+
+``I/NNP didn't/VBD agree/VBP to/TO anything/NN ,/, I/PRP just/RB sat/JJ there/RB and/CC watched/VBD ,''/DT Stremlow/NNP said/VBD of/IN the/DT recount/NN ,/, though/JJ he/PRP said/VBD he/PRP never/RB considered/VBN a/DT legal/JJ challenge/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP ``I))
+      (VP (VBD didn't)
+        (SBAR
+          (S
+            (VP
+              (VP (VBP agree)
+                (PP (TO to)
+                  (NP
+                    (NP (NN anything))
+                    (, ,)
+                    (NP
+                      (NP (PRP I))
+                      (ADJP (RB just) (JJ sat)))))
+                (ADVP (RB there)))
+              (CC and)
+              (VP (VBD watched)
+                (SBAR
+                  (S
+                    (NP (DT ,'') (NNP Stremlow))
+                    (VP (VBD said)
+                      (PP (IN of)
+                        (NP (DT the) (NN recount)))
+                      (, ,)
+                      (ADJP (JJ though)))))))))))
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP
+            (ADVP (RB never))
+            (VBN considered)
+            (NP (DT a) (JJ legal) (NN challenge))))))
+    (. .)))
+
+nsubj(didn't-2, ``I-1)
+dep(said-22, didn't-2)
+ccomp(didn't-2, agree-3)
+prep_to(agree-3, anything-5)
+appos(anything-5, I-7)
+advmod(sat-9, just-8)
+amod(I-7, sat-9)
+advmod(agree-3, there-10)
+ccomp(didn't-2, watched-12)
+conj_and(agree-3, watched-12)
+det(Stremlow-14, ,''-13)
+nsubj(said-15, Stremlow-14)
+ccomp(watched-12, said-15)
+det(recount-18, the-17)
+prep_of(said-15, recount-18)
+acomp(said-15, though-20)
+nsubj(said-22, he-21)
+root(ROOT-0, said-22)
+nsubj(considered-25, he-23)
+neg(considered-25, never-24)
+ccomp(said-22, considered-25)
+det(challenge-28, a-26)
+amod(challenge-28, legal-27)
+dobj(considered-25, challenge-28)
+
+``Nope/RB ,''/, Stremlow/NNP said/VBD with/IN a/DT laugh/JJ when/WRB asked/VBN if/IN he/PRP had/VBD consulted/VBN a/DT lawyer/NN ./.
+
+(ROOT
+  (S
+    (ADVP (RB ``Nope))
+    (, ,'')
+    (NP (NNP Stremlow))
+    (VP (VBD said)
+      (PP (IN with)
+        (NP (DT a) (JJ laugh)))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (VP (VBN asked)
+            (SBAR (IN if)
+              (S
+                (NP (PRP he))
+                (VP (VBD had)
+                  (VP (VBN consulted)
+                    (NP (DT a) (NN lawyer))))))))))
+    (. .)))
+
+advmod(said-4, ``Nope-1)
+punct(said-4, ,''-2)
+nsubj(said-4, Stremlow-3)
+root(ROOT-0, said-4)
+det(laugh-7, a-6)
+prep_with(said-4, laugh-7)
+advmod(asked-9, when-8)
+advcl(said-4, asked-9)
+mark(consulted-13, if-10)
+nsubj(consulted-13, he-11)
+aux(consulted-13, had-12)
+advcl(asked-9, consulted-13)
+det(lawyer-15, a-14)
+dobj(consulted-13, lawyer-15)
+
+``The/IN job/NN doesn't/TO pay/VB that/IN much/RB .''/.
+
+(ROOT
+  (FRAG
+    (PP (IN ``The)
+      (NP (NN job)))
+    (TO doesn't)
+    (S
+      (VP (VB pay)
+        (ADVP (IN that) (RB much))))
+    (. .'')))
+
+prep_``the(pay-4, job-2)
+dep(pay-4, doesn't-3)
+root(ROOT-0, pay-4)
+advmod(pay-4, that-5)
+advmod(that-5, much-6)
+punct(pay-4, .''-7)
+
+NYT-12-10-00/CD 1933EST/CD
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-12-10-00) (CD 1933EST))))
+
+num(1933EST-2, NYT-12-10-00-1)
+root(ROOT-0, 1933EST-2)
+

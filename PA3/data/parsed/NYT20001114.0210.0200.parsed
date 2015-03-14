@@ -1,0 +1,1702 @@
+NYT20001114.0210.0200/CD NEWS/NNP STORY/NNP 2000-11-14/CD 15:53:00/CD
+
+(ROOT
+  (NP
+    (NP (CD NYT20001114.0210.0200))
+    (NP (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-11-14) (CD 15:53:00))))
+
+root(ROOT-0, NYT20001114.0210.0200-1)
+nn(STORY-3, NEWS-2)
+dep(NYT20001114.0210.0200-1, STORY-3)
+num(15:53:00-5, 2000-11-14-4)
+dep(NYT20001114.0210.0200-1, 15:53:00-5)
+
+A8685/CD &Cx1f/NN ;/: taf-z/NNP u/NNP d/NNP BC-SIMPLE-COOKING-NYT/NNP &LR/NNP ;/: 11-14/CD 0619/CD
+
+(ROOT
+  (NP
+    (NP (CD A8685) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NNP taf-z) (NNP u) (NNP d) (NNP BC-SIMPLE-COOKING-NYT) (NNP &LR))
+      (: ;)
+      (NP
+        (QP (CD 11-14) (CD 0619))))))
+
+num(&Cx1f-2, A8685-1)
+root(ROOT-0, &Cx1f-2)
+nn(&LR-8, taf-z-4)
+nn(&LR-8, u-5)
+nn(&LR-8, d-6)
+nn(&LR-8, BC-SIMPLE-COOKING-NYT-7)
+dep(&Cx1f-2, &LR-8)
+number(0619-11, 11-14-10)
+dep(&LR-8, 0619-11)
+
+BC-SIMPLE-COOKING-NYT/NNP
+
+(ROOT
+  (NP (NNP BC-SIMPLE-COOKING-NYT)))
+
+root(ROOT-0, BC-SIMPLE-COOKING-NYT-1)
+
+PUDDING/NNP ,/, SWEET/NNP AND/NNP NOT/NNP
+
+(ROOT
+  (NP
+    (NP (NNP PUDDING))
+    (, ,)
+    (NP (NNP SWEET) (NNP AND) (NNP NOT))))
+
+root(ROOT-0, PUDDING-1)
+nn(NOT-5, SWEET-3)
+nn(NOT-5, AND-4)
+appos(PUDDING-1, NOT-5)
+
+&UR/NNS ;/: By/NNP MARK/NNP HULBERT/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (PP (NNP By)
+        (NP (NNP MARK) (NNP HULBERT) (NNP &LR))))
+    (: ;)
+    (NP
+      (NP (NNP &QC))
+      (: ;)
+      (NP (NNS &QL)))
+    (: ;)
+    (NP
+      (NP (NNS &UR))
+      (: ;)
+      (NP
+        (NP (CD c.2000))
+        (NP (NNP N.Y))))
+    (. .)))
+
+root(ROOT-0, &UR-1)
+prep(&UR-1, By-3)
+nn(&LR-6, MARK-4)
+nn(&LR-6, HULBERT-5)
+dep(By-3, &LR-6)
+dep(&UR-1, &QC-8)
+dep(&QC-8, &QL-10)
+dep(&UR-1, &UR-12)
+dep(&UR-12, c.2000-14)
+appos(c.2000-14, N.Y-15)
+
+Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
+    (PRN (: ;)
+      (NP
+        (NP (NNP &QC))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&LR-4, Times-1)
+nn(&LR-4, News-2)
+nn(&LR-4, Service-3)
+root(ROOT-0, &LR-4)
+dep(&LR-4, &QC-6)
+dep(&QC-6, &QL-8)
+
+NEW/NNP YORK/NNP _/NNP Bread/NNP pudding/VBG is/VBZ one/CD of/IN the/DT most/RBS traditional/JJ American/JJ dishes/NNS ;/: cookbooks/NNS from/IN the/DT 18th/JJ century/NN have/VBP recipes/NNS for/IN it/PRP that/WDT are/VBP more/RBR or/CC less/RBR the/DT same/JJ as/IN what/WP we/PRP make/VBP today/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP NEW) (NNP YORK) (NNP _) (NNP Bread))
+        (VP (VBG pudding)))
+      (VP (VBZ is)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (DT the)
+              (ADJP (RBS most) (JJ traditional))
+              (JJ American) (NNS dishes))))))
+    (: ;)
+    (S
+      (NP
+        (NP (NNS cookbooks))
+        (PP (IN from)
+          (NP (DT the) (JJ 18th) (NN century))))
+      (VP (VBP have)
+        (NP
+          (NP (NNS recipes))
+          (PP (IN for)
+            (NP (PRP it)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP are)
+                (ADVP (RBR more)
+                  (CC or)
+                  (RBR less))
+                (PP
+                  (NP (DT the) (JJ same))
+                  (IN as)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (PRP we))
+                      (VP (VBP make)
+                        (NP (NN today))))))))))))
+    (. .)))
+
+nn(Bread-4, NEW-1)
+nn(Bread-4, YORK-2)
+nn(Bread-4, _-3)
+nsubj(one-7, Bread-4)
+vmod(Bread-4, pudding-5)
+cop(one-7, is-6)
+root(ROOT-0, one-7)
+det(dishes-13, the-9)
+advmod(traditional-11, most-10)
+amod(dishes-13, traditional-11)
+amod(dishes-13, American-12)
+prep_of(one-7, dishes-13)
+nsubj(have-20, cookbooks-15)
+det(century-19, the-17)
+amod(century-19, 18th-18)
+prep_from(cookbooks-15, century-19)
+parataxis(one-7, have-20)
+dobj(have-20, recipes-21)
+nsubj(are-25, recipes-21)
+prep_for(recipes-21, it-23)
+rcmod(recipes-21, are-25)
+advmod(are-25, more-26)
+advmod(are-25, less-28)
+conj_or(more-26, less-28)
+det(same-30, the-29)
+npadvmod(are-25, same-30)
+dobj(make-34, what-32)
+nsubj(make-34, we-33)
+prepc_as(are-25, make-34)
+tmod(make-34, today-35)
+
+But/CC bread/RB pudding/VBG is/VBZ also/RB a/DT minimalist/NN sort/NN of/IN dish/JJ ,/, no/DT more/RBR than/IN dry/JJ bread/RB mixed/JJ together/NN with/IN milk/NN and/CC eggs/NNS and/CC whatever/JJR flavor/NN strikes/VBZ the/DT cook/NN ,/, and/CC then/RB baked/VBD until/IN it/PRP is/VBZ rich/NN and/CC custardy/NN ./.
+
+(ROOT
+  (S (CC But)
+    (SBAR (RB bread)
+      (S
+        (NP (VBG pudding))
+        (VP (VBZ is)
+          (ADVP (RB also))
+          (NP
+            (NP (DT a) (NN minimalist) (NN sort))
+            (PP (IN of)
+              (NP (JJ dish)))))))
+    (, ,)
+    (NP
+      (NP (DT no)
+        (ADJP (RBR more) (IN than) (JJ dry))
+        (ADJP (RB bread) (JJ mixed))
+        (NN together))
+      (PP (IN with)
+        (NP
+          (NP (NN milk)
+            (CC and)
+            (NNS eggs))
+          (CC and)
+          (NP (JJR whatever) (NN flavor)))))
+    (VP
+      (VP (VBZ strikes)
+        (NP (DT the) (NN cook)))
+      (, ,)
+      (CC and)
+      (VP
+        (ADVP (RB then))
+        (VBD baked)
+        (SBAR (IN until)
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (NP (NN rich)
+                (CC and)
+                (NN custardy)))))))
+    (. .)))
+
+advmod(sort-8, bread-2)
+nsubj(sort-8, pudding-3)
+cop(sort-8, is-4)
+advmod(sort-8, also-5)
+det(sort-8, a-6)
+nn(sort-8, minimalist-7)
+advcl(strikes-26, sort-8)
+prep_of(sort-8, dish-10)
+neg(together-18, no-12)
+advmod(dry-15, more-13)
+dep(dry-15, than-14)
+amod(together-18, dry-15)
+advmod(mixed-17, bread-16)
+amod(together-18, mixed-17)
+nsubj(strikes-26, together-18)
+nsubj(baked-32, together-18)
+prep_with(together-18, milk-20)
+prep_with(together-18, eggs-22)
+conj_and(milk-20, eggs-22)
+amod(flavor-25, whatever-24)
+prep_with(together-18, flavor-25)
+conj_and(milk-20, flavor-25)
+root(ROOT-0, strikes-26)
+det(cook-28, the-27)
+dobj(strikes-26, cook-28)
+advmod(baked-32, then-31)
+conj_and(strikes-26, baked-32)
+mark(rich-36, until-33)
+nsubj(rich-36, it-34)
+cop(rich-36, is-35)
+advcl(baked-32, rich-36)
+advcl(baked-32, custardy-38)
+conj_and(rich-36, custardy-38)
+
+It/PRP can/MD be/VB savory/NN or/CC sweet/NN ,/, and/CC either/RB makes/VBZ a/DT simple/NN ,/, interesting/JJ substitute/NN for/IN a/DT standard/JJ part/NN of/IN the/DT Thanksgiving/VBG meal/NN ./.
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (MD can)
+        (VP (VB be)
+          (NP (NN savory)
+            (CC or)
+            (NN sweet))))
+      (, ,)
+      (CC and)
+      (VP
+        (ADVP (RB either))
+        (VBZ makes)
+        (NP (DT a) (NN simple) (, ,) (JJ interesting) (NN substitute))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (JJ standard) (NN part))
+            (PP (IN of)
+              (NP (DT the) (VBG Thanksgiving) (NN meal)))))))
+    (. .)))
+
+nsubj(savory-4, It-1)
+nsubj(makes-10, It-1)
+aux(savory-4, can-2)
+cop(savory-4, be-3)
+root(ROOT-0, savory-4)
+conj_or(savory-4, sweet-6)
+advmod(makes-10, either-9)
+conj_and(savory-4, makes-10)
+det(substitute-15, a-11)
+nn(substitute-15, simple-12)
+amod(substitute-15, interesting-14)
+dobj(makes-10, substitute-15)
+det(part-19, a-17)
+amod(part-19, standard-18)
+prep_for(makes-10, part-19)
+det(meal-23, the-21)
+amod(meal-23, Thanksgiving-22)
+prep_of(part-19, meal-23)
+
+Savory/NNP bread/RB pudding/VBG is/VBZ a/DT luxurious/JJ side/NN dish/NN that/WDT can/MD be/VB served/VBN in/IN place/NN of/IN stuffing/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Savory))
+      (ADJP (RB bread) (VBG pudding)))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ luxurious) (NN side) (NN dish))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD can)
+              (VP (VB be)
+                (VP (VBN served)
+                  (PP (IN in)
+                    (NP
+                      (NP (NN place))
+                      (PP (IN of)
+                        (NP (NN stuffing))))))))))))
+    (. .)))
+
+nsubj(dish-8, Savory-1)
+advmod(pudding-3, bread-2)
+amod(Savory-1, pudding-3)
+cop(dish-8, is-4)
+det(dish-8, a-5)
+amod(dish-8, luxurious-6)
+nn(dish-8, side-7)
+root(ROOT-0, dish-8)
+nsubjpass(served-12, dish-8)
+aux(served-12, can-10)
+auxpass(served-12, be-11)
+rcmod(dish-8, served-12)
+prep_in_place_of(served-12, stuffing-16)
+
+Or/CC it/PRP can/MD be/VB the/DT extra/JJ stuffing/NN that/IN everyone/NN always/VBZ wants/NNS [but/VBP not/RB dry/VB like/IN the/DT usual/JJ kind/NN baked/VBD outside/VB a/DT turkey/NN can/MD be/VB ]./.
+
+(ROOT
+  (S (CC Or)
+    (NP (PRP it))
+    (VP (MD can)
+      (VP (VB be)
+        (NP (DT the) (JJ extra) (NN stuffing))
+        (SBAR (IN that)
+          (S
+            (NP (NN everyone))
+            (VP (VBZ always)
+              (SBAR
+                (S
+                  (NP (NNS wants))
+                  (VP (VBP [but) (RB not)
+                    (VP (VB dry)
+                      (SBAR (IN like)
+                        (S
+                          (NP (DT the) (JJ usual) (NN kind))
+                          (VP (VBD baked)
+                            (S
+                              (VP (VB outside)
+                                (SBAR
+                                  (S
+                                    (NP (DT a) (NN turkey))
+                                    (VP (MD can)
+                                      (VP (VB be)))))))))))))))))))
+    (. ].)))
+
+cc(stuffing-7, Or-1)
+nsubj(stuffing-7, it-2)
+aux(stuffing-7, can-3)
+cop(stuffing-7, be-4)
+det(stuffing-7, the-5)
+amod(stuffing-7, extra-6)
+root(ROOT-0, stuffing-7)
+mark(always-10, that-8)
+nsubj(always-10, everyone-9)
+ccomp(stuffing-7, always-10)
+nsubj([but-12, wants-11)
+ccomp(always-10, [but-12)
+neg([but-12, not-13)
+dep([but-12, dry-14)
+mark(baked-19, like-15)
+det(kind-18, the-16)
+amod(kind-18, usual-17)
+nsubj(baked-19, kind-18)
+advcl(dry-14, baked-19)
+ccomp(baked-19, outside-20)
+det(turkey-22, a-21)
+nsubj(be-24, turkey-22)
+aux(be-24, can-23)
+ccomp(outside-20, be-24)
+punct(stuffing-7, ].-25)
+
+My/NNP basic/JJ recipe/NN combines/VBZ the/DT cubed/NN bread/RB ,/, eggs/NNS and/CC milk/NN with/IN a/DT couple/NN of/IN cheeses/NNS ./.
+
+(ROOT
+  (S
+    (NP (NNP My) (JJ basic) (NN recipe))
+    (VP (VBZ combines)
+      (NP
+        (NP (DT the) (NN cubed) (RB bread))
+        (, ,)
+        (NP (NNS eggs))
+        (CC and)
+        (NP (NN milk)))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN couple))
+          (PP (IN of)
+            (NP (NNS cheeses))))))
+    (. .)))
+
+nn(recipe-3, My-1)
+amod(recipe-3, basic-2)
+nsubj(combines-4, recipe-3)
+root(ROOT-0, combines-4)
+det(cubed-6, the-5)
+dobj(combines-4, cubed-6)
+advmod(cubed-6, bread-7)
+dobj(combines-4, eggs-9)
+conj_and(cubed-6, eggs-9)
+dobj(combines-4, milk-11)
+conj_and(cubed-6, milk-11)
+det(couple-14, a-13)
+prep_with(combines-4, couple-14)
+prep_of(couple-14, cheeses-16)
+
+[If/IN you/PRP 're/VBP desperate/JJ for/IN oven/JJ space/NN ,/, bake/IN it/PRP and/CC then/RB heat/VBD it/PRP just/RB before/IN serving/NN ,/, or/CC serve/NN it/PRP at/IN room/NN temperature/NN .]/IN You/PRP can/MD make/VB it/PRP without/IN the/DT mushrooms/NNS ,/, too/RB ./.
+
+(ROOT
+  (S
+    (SBAR (IN [If)
+      (S
+        (NP (PRP you))
+        (VP
+          (VP
+            (VP (VBP 're)
+              (ADJP (JJ desperate)
+                (PP (IN for)
+                  (NP
+                    (NP (JJ oven) (NN space))
+                    (, ,)
+                    (PP (IN bake)
+                      (NP (PRP it)))))))
+            (CC and)
+            (VP
+              (ADVP (RB then))
+              (VBD heat)
+              (NP (PRP it))
+              (ADVP (RB just))
+              (PP (IN before)
+                (NP (NN serving)))))
+          (, ,)
+          (CC or)
+          (VP (NN serve)
+            (NP (PRP it))
+            (PP (IN at)
+              (NP (NN room) (NN temperature)))
+            (PP (IN .])
+              (NP (PRP You)))))))
+    (VP (MD can)
+      (VP (VB make)
+        (NP (PRP it))
+        (PP (IN without)
+          (NP (DT the) (NNS mushrooms)))
+        (, ,)
+        (ADVP (RB too))))
+    (. .)))
+
+mark(desperate-4, [If-1)
+nsubj(desperate-4, you-2)
+nsubj(heat-13, you-2)
+cop(desperate-4, 're-3)
+csubj(make-28, desperate-4)
+amod(space-7, oven-6)
+prep_for(desperate-4, space-7)
+prep_bake(space-7, it-10)
+advmod(heat-13, then-12)
+conj_and(desperate-4, heat-13)
+csubj(make-28, heat-13)
+dobj(heat-13, it-14)
+advmod(heat-13, just-15)
+prep_before(heat-13, serving-17)
+conj_or(desperate-4, serve-20)
+csubj(make-28, serve-20)
+dobj(serve-20, it-21)
+nn(temperature-24, room-23)
+prep_at(serve-20, temperature-24)
+prep_.](serve-20, You-26)
+aux(make-28, can-27)
+root(ROOT-0, make-28)
+dobj(make-28, it-29)
+det(mushrooms-32, the-31)
+prep_without(make-28, mushrooms-32)
+advmod(make-28, too-34)
+
+The/DT pudding/VBG can/MD also/RB be/VB varied/VBN by/IN adding/VBG a/DT pinch/NN of/IN thyme/NN or/CC sage/NN ,/, chopped/VBD nuts/NNS or/CC cooked/JJ chestnuts/NNS ,/, or/CC about/IN a/DT cup/NN of/IN grated/JJ sweet/NN potato/NN or/CC chopped/VBD scallions/NNS ./.
+
+(ROOT
+  (S
+    (NP (DT The) (VBG pudding))
+    (VP
+      (VP (MD can)
+        (ADVP (RB also))
+        (VP (VB be)
+          (ADJP (VBN varied)
+            (PP (IN by)
+              (S
+                (VP (VBG adding)
+                  (NP
+                    (NP (DT a) (NN pinch))
+                    (PP (IN of)
+                      (NP (NN thyme)
+                        (CC or)
+                        (NN sage))))))))))
+      (, ,)
+      (VP (VBD chopped)
+        (NP
+          (NP (NNS nuts))
+          (CC or)
+          (NP
+            (NP (JJ cooked) (NNS chestnuts))
+            (, ,)
+            (CC or)
+            (ADVP (IN about)
+              (NP (DT a) (NN cup)))
+            (PP (IN of)
+              (NP (JJ grated) (NN sweet) (NN potato))))))
+      (CC or)
+      (VP (VBD chopped)
+        (NP (NNS scallions))))
+    (. .)))
+
+nsubjpass(varied-6, The-1)
+nsubjpass(chopped-16, The-1)
+nsubjpass(chopped-31, The-1)
+amod(The-1, pudding-2)
+aux(varied-6, can-3)
+advmod(varied-6, also-4)
+auxpass(varied-6, be-5)
+root(ROOT-0, varied-6)
+agent(varied-6, adding-8)
+det(pinch-10, a-9)
+dobj(adding-8, pinch-10)
+prep_of(pinch-10, thyme-12)
+prep_of(pinch-10, sage-14)
+conj_or(thyme-12, sage-14)
+conj_or(varied-6, chopped-16)
+dobj(chopped-16, nuts-17)
+amod(chestnuts-20, cooked-19)
+dobj(chopped-16, chestnuts-20)
+conj_or(nuts-17, chestnuts-20)
+conj_or(nuts-17, about-23)
+conj_or(chestnuts-20, about-23)
+det(cup-25, a-24)
+pobj(about-23, cup-25)
+amod(potato-29, grated-27)
+nn(potato-29, sweet-28)
+prep_of(about-23, potato-29)
+conj_or(varied-6, chopped-31)
+dobj(chopped-31, scallions-32)
+
+If/IN you/PRP want/VBP a/DT pudding/VBG that/WDT tastes/VBZ more/RBR like/IN stuffing/NN ,/, just/RB add/IN chopped/VBN celery/NN ,/, onions/NNS ,/, carrots/NNS and/CC herbs/NNS ./.
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (NP
+            (NP (DT a) (VBG pudding))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ tastes)
+                  (ADVP (RBR more))
+                  (PP (IN like)
+                    (NP (NN stuffing))))))))))
+    (, ,)
+    (ADVP (RB just)
+      (PP (IN add)))
+    (VP (VBN chopped)
+      (NP (NN celery) (, ,) (NNS onions) (, ,) (NNS carrots)
+        (CC and)
+        (NNS herbs)))
+    (. .)))
+
+mark(want-3, If-1)
+nsubj(want-3, you-2)
+advcl(chopped-14, want-3)
+dobj(want-3, a-4)
+nsubj(tastes-7, a-4)
+amod(a-4, pudding-5)
+rcmod(a-4, tastes-7)
+advmod(tastes-7, more-8)
+prep_like(tastes-7, stuffing-10)
+advmod(chopped-14, just-12)
+prep(just-12, add-13)
+root(ROOT-0, chopped-14)
+dobj(chopped-14, celery-15)
+dobj(chopped-14, onions-17)
+conj_and(celery-15, onions-17)
+dobj(chopped-14, carrots-19)
+conj_and(celery-15, carrots-19)
+dobj(chopped-14, herbs-21)
+conj_and(celery-15, herbs-21)
+
+Sweet/RB bread/RB pudding/VBG is/VBZ made/VBN the/DT same/JJ way/NN ,/, but/CC with/IN fewer/JJR ingredients/NNS ./.
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Sweet))
+      (VP
+        (ADVP (RB bread))
+        (VBG pudding)))
+    (VP (VBZ is)
+      (VP
+        (VP (VBN made)
+          (NP (DT the) (JJ same) (NN way)))
+        (, ,)
+        (CC but)
+        (VP
+          (PP (IN with)
+            (NP (JJR fewer) (NNS ingredients))))))
+    (. .)))
+
+advmod(pudding-3, Sweet-1)
+advmod(pudding-3, bread-2)
+csubjpass(made-5, pudding-3)
+auxpass(made-5, is-4)
+root(ROOT-0, made-5)
+det(way-8, the-6)
+amod(way-8, same-7)
+dobj(made-5, way-8)
+conj_but(made-5, with-11)
+amod(ingredients-13, fewer-12)
+pobj(with-11, ingredients-13)
+
+I/PRP use/VB maple/JJ syrup/JJ instead/NN of/IN sugar/NN for/IN the/DT extra/JJ flavor/NN and/CC moisture/NN ./.
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VB use)
+      (NP
+        (NP (JJ maple) (JJ syrup) (NN instead))
+        (PP (IN of)
+          (NP
+            (NP (NN sugar))
+            (PP (IN for)
+              (NP (DT the) (JJ extra) (NN flavor)
+                (CC and)
+                (NN moisture)))))))
+    (. .)))
+
+nsubj(use-2, I-1)
+root(ROOT-0, use-2)
+amod(instead-5, maple-3)
+amod(instead-5, syrup-4)
+dobj(use-2, instead-5)
+prep_of(instead-5, sugar-7)
+det(flavor-11, the-9)
+amod(flavor-11, extra-10)
+prep_for(sugar-7, flavor-11)
+prep_for(sugar-7, moisture-13)
+conj_and(flavor-11, moisture-13)
+
+You/PRP can/MD add/VB more/RBR spices/NNS ,/, including/VBG a/DT small/JJ grating/NN of/IN nutmeg/NN ,/, chopped/VBN crystallized/JJ ginger/NN ,/, raisins/NNS or/CC prunes/NNS soaked/VBD in/IN Armagnac/NNP ./.
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (MD can)
+        (VP (VB add)
+          (NP
+            (NP
+              (QP (RBR more))
+              (NNS spices))
+            (, ,)
+            (PP (VBG including)
+              (NP
+                (NP (DT a) (JJ small) (NN grating))
+                (PP (IN of)
+                  (NP (NN nutmeg)))))
+            (, ,)
+            (VP (VBN chopped)
+              (NP (JJ crystallized) (NN ginger)))))))
+    (, ,)
+    (NP (NNS raisins)
+      (CC or)
+      (NNS prunes))
+    (VP (VBD soaked)
+      (PP (IN in)
+        (NP (NNP Armagnac))))
+    (. .)))
+
+nsubj(add-3, You-1)
+aux(add-3, can-2)
+ccomp(soaked-21, add-3)
+num(spices-5, more-4)
+dobj(add-3, spices-5)
+det(grating-10, a-8)
+amod(grating-10, small-9)
+prep_including(spices-5, grating-10)
+prep_of(grating-10, nutmeg-12)
+vmod(spices-5, chopped-14)
+amod(ginger-16, crystallized-15)
+dobj(chopped-14, ginger-16)
+nsubj(soaked-21, raisins-18)
+conj_or(raisins-18, prunes-20)
+nsubj(soaked-21, prunes-20)
+root(ROOT-0, soaked-21)
+prep_in(soaked-21, Armagnac-23)
+
+The/DT kind/NN of/IN bread/RB you/PRP choose/VBP makes/VBZ a/DT difference/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN kind))
+      (PP (IN of)
+        (SBAR (RB bread)
+          (S
+            (NP (PRP you))
+            (VP (VBP choose))))))
+    (VP (VBZ makes)
+      (NP (DT a) (NN difference)))
+    (. .)))
+
+det(kind-2, The-1)
+nsubj(makes-7, kind-2)
+advmod(choose-6, bread-4)
+nsubj(choose-6, you-5)
+prepc_of(kind-2, choose-6)
+root(ROOT-0, makes-7)
+det(difference-9, a-8)
+dobj(makes-7, difference-9)
+
+Fluffy/NNP packaged/VBD white/JJ bread/NN disappears/NNS ;/: the/DT crusts/NNS of/IN crisp/JJ baguettes/NNS and/CC peasant/JJ breads/NNS never/RB become/VBN tender/NN ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Fluffy))
+      (VP (VBD packaged)
+        (NP (JJ white) (NN bread) (NNS disappears))))
+    (: ;)
+    (S
+      (NP
+        (NP (DT the) (NNS crusts))
+        (PP (IN of)
+          (NP
+            (NP (JJ crisp) (NNS baguettes))
+            (CC and)
+            (NP (JJ peasant) (NNS breads)))))
+      (VP
+        (ADVP (RB never))
+        (VBN become)
+        (NP (NN tender))))
+    (. .)))
+
+nsubj(packaged-2, Fluffy-1)
+root(ROOT-0, packaged-2)
+amod(disappears-5, white-3)
+nn(disappears-5, bread-4)
+dobj(packaged-2, disappears-5)
+det(crusts-8, the-7)
+nsubj(become-16, crusts-8)
+amod(baguettes-11, crisp-10)
+prep_of(crusts-8, baguettes-11)
+amod(breads-14, peasant-13)
+prep_of(crusts-8, breads-14)
+conj_and(baguettes-11, breads-14)
+neg(become-16, never-15)
+parataxis(packaged-2, become-16)
+xcomp(become-16, tender-17)
+
+For/IN savory/JJ pudding/VBG ,/, stick/NN to/TO long/JJ ,/, wide/JJ inexpensive/JJ loaves/NNS ,/, usually/RB called/VBN Italian/JJ bread/NN ;/: for/IN sweet/NN pudding/VBG ,/, stale/JJ hallah/NN is/VBZ best/JJS ./.
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (JJ savory) (VBG pudding))
+        (, ,)
+        (NP
+          (NP (NN stick))
+          (PP (TO to)
+            (NP
+              (NP (JJ long) (, ,) (JJ wide) (JJ inexpensive) (NNS loaves))
+              (, ,)
+              (VP
+                (ADVP (RB usually))
+                (VBN called)
+                (NP (JJ Italian) (NN bread)))
+              (: ;)
+              (PP (IN for)
+                (NP (NN sweet) (VBG pudding))))))))
+    (, ,)
+    (NP (JJ stale) (NN hallah))
+    (VP (VBZ is)
+      (ADJP (JJS best)))
+    (. .)))
+
+prep_for(best-25, savory-2)
+amod(savory-2, pudding-3)
+appos(savory-2, stick-5)
+amod(loaves-11, long-7)
+amod(loaves-11, wide-9)
+amod(loaves-11, inexpensive-10)
+prep_to(stick-5, loaves-11)
+advmod(called-14, usually-13)
+vmod(loaves-11, called-14)
+amod(bread-16, Italian-15)
+dobj(called-14, bread-16)
+prep_for(loaves-11, sweet-19)
+amod(sweet-19, pudding-20)
+amod(hallah-23, stale-22)
+nsubj(best-25, hallah-23)
+cop(best-25, is-24)
+root(ROOT-0, best-25)
+
+And/CC make/VB sure/JJ the/DT bread/NN is/VBZ thoroughly/RB and/CC evenly/RB soaked/VBD before/IN it/PRP 's/VBZ baked/JJ ;/: I/PRP like/VB to/TO submerge/VB the/DT bread/NN with/IN a/DT weighted/JJ plate/NN before/IN baking/NN ./.
+
+(ROOT
+  (S (CC And)
+    (VP (VB make)
+      (ADJP (JJ sure)
+        (SBAR
+          (S
+            (NP (DT the) (NN bread))
+            (VP
+              (VP (VBZ is)
+                (ADVP (RB thoroughly)))
+              (CC and)
+              (VP
+                (ADVP (RB evenly))
+                (VBD soaked)
+                (SBAR (IN before)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ 's)
+                      (ADJP (JJ baked))
+                      (: ;)
+                      (S
+                        (NP (PRP I))
+                        (VP (VB like)
+                          (S
+                            (VP (TO to)
+                              (VP (VB submerge)
+                                (NP
+                                  (NP (DT the) (NN bread))
+                                  (PP (IN with)
+                                    (NP (DT a) (JJ weighted) (NN plate))))
+                                (PP (IN before)
+                                  (NP (NN baking)))))))))))))))))
+    (. .)))
+
+cc(make-2, And-1)
+root(ROOT-0, make-2)
+acomp(make-2, sure-3)
+det(bread-5, the-4)
+nsubj(is-6, bread-5)
+nsubj(soaked-10, bread-5)
+ccomp(sure-3, is-6)
+advmod(is-6, thoroughly-7)
+advmod(soaked-10, evenly-9)
+ccomp(sure-3, soaked-10)
+conj_and(is-6, soaked-10)
+mark(baked-14, before-11)
+nsubj(baked-14, it-12)
+cop(baked-14, 's-13)
+advcl(soaked-10, baked-14)
+nsubj(like-17, I-16)
+nsubj(submerge-19, I-16)
+ccomp(baked-14, like-17)
+parataxis(baked-14, like-17)
+aux(submerge-19, to-18)
+xcomp(like-17, submerge-19)
+det(bread-21, the-20)
+dobj(submerge-19, bread-21)
+det(plate-25, a-23)
+amod(plate-25, weighted-24)
+prep_with(bread-21, plate-25)
+prep_before(submerge-19, baking-27)
+
+Then/RB you/PRP don't/VBP even/RB have/VBP to/TO stir/VB ./.
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP you))
+    (VP (VBP don't)
+      (SBAR (RB even)
+        (S
+          (VP (VBP have)
+            (S
+              (VP (TO to)
+                (VP (VB stir))))))))
+    (. .)))
+
+advmod(don't-3, Then-1)
+nsubj(don't-3, you-2)
+root(ROOT-0, don't-3)
+advmod(have-5, even-4)
+ccomp(don't-3, have-5)
+aux(stir-7, to-6)
+xcomp(have-5, stir-7)
+
+&UR/NNS ;/: SWEET/NNP BREAD/NNP PUDDING/NNP &LR/NNP ;/:
+
+(ROOT
+  (NP
+    (NP (NNS &UR))
+    (: ;)
+    (NP (NNP SWEET) (NNP BREAD) (NNP PUDDING) (NNP &LR))
+    (: ;)))
+
+root(ROOT-0, &UR-1)
+nn(&LR-6, SWEET-3)
+nn(&LR-6, BREAD-4)
+nn(&LR-6, PUDDING-5)
+dep(&UR-1, &LR-6)
+
+&UR/NNP ;/: Time/NN :/: 1/CD hour/NN ,/, largely/RB unattended/VBD &LR/NN ;/:
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP &UR))
+        (: ;)
+        (NP (NN Time)))
+      (: :)
+      (NP (CD 1) (NN hour))
+      (, ,))
+    (VP
+      (ADVP (RB largely))
+      (VBD unattended)
+      (NP (NN &LR)))
+    (: ;)))
+
+nsubj(unattended-9, &UR-1)
+dep(&UR-1, Time-3)
+num(hour-6, 1-5)
+dep(&UR-1, hour-6)
+advmod(unattended-9, largely-8)
+root(ROOT-0, unattended-9)
+dobj(unattended-9, &LR-10)
+
+4/DT tablespoons/NNS butter/NN
+
+(ROOT
+  (NP
+    (NP (DT 4) (NNS tablespoons))
+    (NP (NN butter))))
+
+det(tablespoons-2, 4-1)
+root(ROOT-0, tablespoons-2)
+dep(tablespoons-2, butter-3)
+
+6/CD cups/NNS white/JJ bread/RB ,/, cut/NN or/CC torn/NN into/IN 1-inch/JJ chunks/NNS
+
+(ROOT
+  (NP
+    (NP (CD 6) (NNS cups))
+    (NP
+      (NP (JJ white) (RB bread))
+      (, ,)
+      (NP
+        (NP (NN cut)
+          (CC or)
+          (NN torn))
+        (PP (IN into)
+          (NP (JJ 1-inch) (NNS chunks)))))))
+
+num(cups-2, 6-1)
+root(ROOT-0, cups-2)
+amod(bread-4, white-3)
+dep(cups-2, bread-4)
+appos(bread-4, cut-6)
+appos(bread-4, torn-8)
+conj_or(cut-6, torn-8)
+amod(chunks-11, 1-inch-10)
+prep_into(cut-6, chunks-11)
+
+2/CD cups/NNS half-and-half/.
+
+(ROOT
+  (NP (CD 2) (NNS cups) (. half-and-half)))
+
+num(cups-2, 2-1)
+root(ROOT-0, cups-2)
+punct(cups-2, half-and-half-3)
+
+4/CD eggs/NNS
+
+(ROOT
+  (X
+    (NP (CD 4) (NNS eggs))))
+
+num(eggs-2, 4-1)
+root(ROOT-0, eggs-2)
+
+}/DT cup/NN maple/VB syrup/NN or/CC sugar/NN
+
+(ROOT
+  (FRAG
+    (NP (DT }) (NN cup))
+    (VP (VB maple)
+      (NP (NN syrup)
+        (CC or)
+        (NN sugar)))))
+
+det(cup-2, }-1)
+root(ROOT-0, cup-2)
+dep(cup-2, maple-3)
+dobj(maple-3, syrup-4)
+dobj(maple-3, sugar-6)
+conj_or(syrup-4, sugar-6)
+
+{/DT teaspoon/NN cinnamon/NN
+
+(ROOT
+  (NP (DT {) (NN teaspoon) (NN cinnamon)))
+
+det(cinnamon-3, {-1)
+nn(cinnamon-3, teaspoon-2)
+root(ROOT-0, cinnamon-3)
+
+Pinch/NNP salt/NN ./.
+
+(ROOT
+  (NP
+    (NP (NNP Pinch))
+    (NP (NN salt))
+    (. .)))
+
+root(ROOT-0, Pinch-1)
+dep(Pinch-1, salt-2)
+
+1/CD ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 1))
+    (. .)))
+
+root(ROOT-0, 1-1)
+
+Butter/NNP an/DT 8-inch/JJ souffle/NN or/CC baking/NN dish/JJ ,/, and/CC add/JJ bread/NN ./.
+
+(ROOT
+  (NP
+    (NP (NNP Butter))
+    (NP
+      (NP (DT an) (JJ 8-inch) (NN souffle)
+        (CC or)
+        (NN baking))
+      (NP
+        (ADJP (JJ dish) (, ,)
+          (CC and)
+          (JJ add))
+        (NN bread)))
+    (. .)))
+
+root(ROOT-0, Butter-1)
+det(souffle-4, an-2)
+amod(souffle-4, 8-inch-3)
+dep(Butter-1, souffle-4)
+dep(Butter-1, baking-6)
+conj_or(souffle-4, baking-6)
+amod(bread-11, dish-7)
+conj_and(dish-7, add-10)
+amod(bread-11, add-10)
+dep(souffle-4, bread-11)
+
+Cut/NNP remaining/VBG butter/NN into/IN bits/NNS ,/, and/CC combine/NN with/IN all/DT other/JJ ingredients/NNS ;/: pour/NNS over/IN bread/RB ./.
+
+(ROOT
+  (NP
+    (NP
+      (NP
+        (NP (NNP Cut))
+        (VP (VBG remaining)
+          (NP (NN butter))
+          (PP (IN into)
+            (NP (NNS bits)))))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (NN combine))
+        (PP (IN with)
+          (NP (DT all) (JJ other) (NNS ingredients)))))
+    (: ;)
+    (NP
+      (NP (NNS pour))
+      (PP (IN over)
+        (NP (RB bread))))
+    (. .)))
+
+root(ROOT-0, Cut-1)
+vmod(Cut-1, remaining-2)
+xcomp(remaining-2, butter-3)
+prep_into(remaining-2, bits-5)
+conj_and(Cut-1, combine-8)
+det(ingredients-12, all-10)
+amod(ingredients-12, other-11)
+prep_with(combine-8, ingredients-12)
+dep(Cut-1, pour-14)
+prep(pour-14, over-15)
+pobj(over-15, bread-16)
+
+Submerge/NNP bread/RB with/IN weighted/JJ plate/NN ,/, and/CC turn/NN oven/NNS to/TO 350/CD degrees/NNS ./.
+
+(ROOT
+  (NP
+    (NP (NNP Submerge))
+    (PP
+      (ADVP (RB bread))
+      (IN with)
+      (NP (JJ weighted) (NN plate) (, ,)
+        (CC and)
+        (NN turn) (NNS oven)))
+    (PP (TO to)
+      (NP (CD 350) (NNS degrees)))
+    (. .)))
+
+root(ROOT-0, Submerge-1)
+advmod(Submerge-1, bread-2)
+amod(plate-5, weighted-4)
+prep_with(Submerge-1, plate-5)
+nn(oven-9, turn-8)
+prep_with(Submerge-1, oven-9)
+conj_and(plate-5, oven-9)
+num(degrees-12, 350-11)
+prep_to(Submerge-1, degrees-12)
+
+2/CD ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 2))
+    (. .)))
+
+root(ROOT-0, 2-1)
+
+When/WRB oven/JJ is/VBZ hot/RB ,/, remove/VBP the/DT plate/NN and/CC bake/NN until/IN pudding/VBG is/VBZ just/RB set/VBN ,/, 35/CD to/TO 45/CD minutes/NNS ./.
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (JJ oven))
+        (VP (VBZ is)
+          (ADVP (RB hot)))))
+    (, ,)
+    (S
+      (VP (VBP remove)
+        (NP (DT the) (NN plate)
+          (CC and)
+          (NN bake))
+        (PP (IN until)
+          (S
+            (VP (VBG pudding))))))
+    (VP
+      (VP (VBZ is)
+        (VP
+          (ADVP (RB just))
+          (VBN set)))
+      (, ,)
+      (NP
+        (QP (CD 35) (TO to) (CD 45))
+        (NNS minutes)))
+    (. .)))
+
+advmod(is-3, When-1)
+nsubj(is-3, oven-2)
+advcl(set-15, is-3)
+advmod(is-3, hot-4)
+csubjpass(set-15, remove-6)
+det(plate-8, the-7)
+dobj(remove-6, plate-8)
+dobj(remove-6, bake-10)
+conj_and(plate-8, bake-10)
+prepc_until(remove-6, pudding-12)
+auxpass(set-15, is-13)
+advmod(set-15, just-14)
+root(ROOT-0, set-15)
+number(45-19, 35-17)
+dep(45-19, to-18)
+num(minutes-20, 45-19)
+dobj(set-15, minutes-20)
+
+Serve/JJ with/IN or/CC without/IN whipped/JJ cream/NN ./.
+
+(ROOT
+  (NP
+    (NP (JJ Serve))
+    (PP (IN with)
+      (CC or)
+      (IN without)
+      (NP (JJ whipped) (NN cream)))
+    (. .)))
+
+root(ROOT-0, Serve-1)
+conj_or(Serve-1, Serve-1')
+amod(cream-6, whipped-5)
+prep_with(Serve-1, cream-6)
+prep_without(Serve-1', cream-6)
+
+Yield/NNP :/: 6/CD or/CC more/JJR servings/NNS ./.
+
+(ROOT
+  (NP
+    (NP (NNP Yield))
+    (: :)
+    (NP
+      (QP (CD 6)
+        (CC or)
+        (JJR more))
+      (NNS servings))
+    (. .)))
+
+root(ROOT-0, Yield-1)
+num(servings-6, 6-3)
+conj_or(6-3, more-5)
+num(servings-6, more-5)
+dep(Yield-1, servings-6)
+
+Variation/NN :/: To/TO make/VB chocolate/JJ bread/NN pudding/VBG ,/, melt/VBZ 2/CD ounces/NNS chopped/VBD bittersweet/JJ chocolate/NN in/IN the/DT milk/NN ,/, let/VB cool/NN slightly/RB and/CC add/RB to/TO mixture/VB ./.
+
+(ROOT
+  (NP
+    (NP (NN Variation))
+    (: :)
+    (S
+      (S
+        (VP (TO To)
+          (VP
+            (VP (VB make)
+              (NP (JJ chocolate) (NN bread) (VBG pudding)))
+            (, ,)
+            (VP (VBZ melt)
+              (SBAR
+                (S
+                  (NP (CD 2) (NNS ounces))
+                  (VP (VBD chopped)
+                    (NP (JJ bittersweet) (NN chocolate))
+                    (PP (IN in)
+                      (NP (DT the) (NN milk)))))))
+            (, ,)
+            (VP (VB let)
+              (NP (NN cool))
+              (ADVP (RB slightly))))))
+      (CC and)
+      (ADVP (RB add))
+      (S
+        (VP (TO to)
+          (VP (VB mixture)))))
+    (. .)))
+
+root(ROOT-0, Variation-1)
+aux(make-4, To-3)
+dep(Variation-1, make-4)
+amod(bread-6, chocolate-5)
+dobj(make-4, bread-6)
+amod(bread-6, pudding-7)
+dep(make-4, melt-9)
+num(ounces-11, 2-10)
+nsubj(chopped-12, ounces-11)
+ccomp(melt-9, chopped-12)
+amod(chocolate-14, bittersweet-13)
+dobj(chopped-12, chocolate-14)
+det(milk-17, the-16)
+prep_in(chopped-12, milk-17)
+dep(make-4, let-19)
+dobj(let-19, cool-20)
+advmod(let-19, slightly-21)
+advmod(mixture-25, add-23)
+aux(mixture-25, to-24)
+dep(Variation-1, mixture-25)
+conj_and(make-4, mixture-25)
+
+&UR/NNS ;/: SAVORY/NNP BREAD/NNP PUDDING/NNP &LR/NNP ;/:
+
+(ROOT
+  (NP
+    (NP (NNS &UR))
+    (: ;)
+    (NP (NNP SAVORY) (NNP BREAD) (NNP PUDDING) (NNP &LR))
+    (: ;)))
+
+root(ROOT-0, &UR-1)
+nn(&LR-6, SAVORY-3)
+nn(&LR-6, BREAD-4)
+nn(&LR-6, PUDDING-5)
+dep(&UR-1, &LR-6)
+
+&UR/NNP ;/: Time/NN :/: 1/CD hour/NN ,/, largely/RB unattended/VBD &LR/NN ;/:
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP &UR))
+        (: ;)
+        (NP (NN Time)))
+      (: :)
+      (NP (CD 1) (NN hour))
+      (, ,))
+    (VP
+      (ADVP (RB largely))
+      (VBD unattended)
+      (NP (NN &LR)))
+    (: ;)))
+
+nsubj(unattended-9, &UR-1)
+dep(&UR-1, Time-3)
+num(hour-6, 1-5)
+dep(&UR-1, hour-6)
+advmod(unattended-9, largely-8)
+root(ROOT-0, unattended-9)
+dobj(unattended-9, &LR-10)
+
+2/CD tablespoons/NNS butter/NN or/CC olive/JJ oil/NN ,/, plus/VBZ more/RBR for/IN greasing/VBG the/DT pan/NN
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (CD 2) (NNS tablespoons))
+      (SBAR
+        (S
+          (NP
+            (NP (NN butter))
+            (CC or)
+            (NP (JJ olive) (NN oil))
+            (, ,))
+          (VP (VBZ plus)
+            (ADVP (RBR more))
+            (PP (IN for)
+              (S
+                (VP (VBG greasing)
+                  (NP (DT the) (NN pan)))))))))))
+
+num(tablespoons-2, 2-1)
+root(ROOT-0, tablespoons-2)
+nsubj(plus-8, butter-3)
+amod(oil-6, olive-5)
+conj_or(butter-3, oil-6)
+nsubj(plus-8, oil-6)
+rcmod(tablespoons-2, plus-8)
+advmod(plus-8, more-9)
+prepc_for(plus-8, greasing-11)
+det(pan-13, the-12)
+dobj(greasing-11, pan-13)
+
+6/CD cups/NNS dense/FW white/FW bread/RB ,/, cut/NN or/CC torn/NN into/IN 1-inch/JJ chunks/NNS
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (CD 6) (NNS cups))
+      (ADJP (FW dense) (FW white)))
+    (PP
+      (NP
+        (ADJP (RB bread))
+        (, ,) (NN cut)
+        (CC or)
+        (NN torn))
+      (IN into)
+      (NP (JJ 1-inch) (NNS chunks)))))
+
+num(cups-2, 6-1)
+root(ROOT-0, cups-2)
+amod(cups-2, dense-3)
+dep(dense-3, white-4)
+npadvmod(cups-2, bread-5)
+npadvmod(cups-2, cut-7)
+conj_or(bread-5, cut-7)
+npadvmod(cups-2, torn-9)
+conj_or(bread-5, torn-9)
+amod(chunks-12, 1-inch-11)
+prep_into(cups-2, chunks-12)
+
+2/CD cups/NNS milk/NN
+
+(ROOT
+  (NP
+    (NP (CD 2) (NNS cups))
+    (NP (NN milk))))
+
+num(cups-2, 2-1)
+root(ROOT-0, cups-2)
+dep(cups-2, milk-3)
+
+4/CD eggs/NNS
+
+(ROOT
+  (X
+    (NP (CD 4) (NNS eggs))))
+
+num(eggs-2, 4-1)
+root(ROOT-0, eggs-2)
+
+Salt/NNP and/CC fresh/JJ black/JJ pepper/NN
+
+(ROOT
+  (NP
+    (NP (NNP Salt))
+    (CC and)
+    (NP (JJ fresh) (JJ black) (NN pepper))))
+
+root(ROOT-0, Salt-1)
+amod(pepper-5, fresh-3)
+amod(pepper-5, black-4)
+conj_and(Salt-1, pepper-5)
+
+2/CD ounces/NNS grated/VBN Parmesan/NNP
+
+(ROOT
+  (S
+    (NP (CD 2) (NNS ounces))
+    (VP (VBN grated)
+      (NP (NNP Parmesan)))))
+
+num(ounces-2, 2-1)
+nsubj(grated-3, ounces-2)
+root(ROOT-0, grated-3)
+dobj(grated-3, Parmesan-4)
+
+4/DT ounces/NNS freshly/RB grated/VBN semisoft/NN cheese/NN ,/, like/IN Emmenthal/NNP
+
+(ROOT
+  (S
+    (NP (DT 4) (NNS ounces))
+    (VP
+      (ADVP (RB freshly))
+      (VBN grated)
+      (NP (NN semisoft) (NN cheese))
+      (, ,)
+      (PP (IN like)
+        (NP (NNP Emmenthal))))))
+
+det(ounces-2, 4-1)
+nsubj(grated-4, ounces-2)
+advmod(grated-4, freshly-3)
+root(ROOT-0, grated-4)
+nn(cheese-6, semisoft-5)
+dobj(grated-4, cheese-6)
+prep_like(grated-4, Emmenthal-9)
+
+1/CD cup/NN sliced/VBN shiitake/IN mushroom/JJ caps/NNS ./.
+
+(ROOT
+  (S
+    (NP (CD 1) (NN cup))
+    (VP (VBN sliced)
+      (PP (IN shiitake)
+        (NP (JJ mushroom) (NNS caps))))
+    (. .)))
+
+num(cup-2, 1-1)
+nsubj(sliced-3, cup-2)
+root(ROOT-0, sliced-3)
+amod(caps-6, mushroom-5)
+prep_shiitake(sliced-3, caps-6)
+
+1/CD ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 1))
+    (. .)))
+
+root(ROOT-0, 1-1)
+
+Butter/NNP or/CC oil/VB an/DT 8-inch/JJ souffle/NN or/CC baking/NN dish/JJ ,/, and/CC put/VBD bread/RB in/IN it/PRP ./.
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Butter))
+      (CC or)
+      (NP (VB oil)))
+    (NP
+      (NP (DT an) (JJ 8-inch) (NN souffle)
+        (CC or)
+        (NN baking))
+      (UCP
+        (ADJP (JJ dish))
+        (, ,)
+        (CC and)
+        (VP (VBD put)
+          (ADVP (RB bread))
+          (PP (IN in)
+            (NP (PRP it))))))
+    (. .)))
+
+root(ROOT-0, Butter-1)
+conj_or(Butter-1, oil-3)
+det(souffle-6, an-4)
+amod(souffle-6, 8-inch-5)
+dep(Butter-1, souffle-6)
+dep(Butter-1, baking-8)
+conj_or(souffle-6, baking-8)
+amod(souffle-6, dish-9)
+amod(souffle-6, put-12)
+conj_and(dish-9, put-12)
+advmod(put-12, bread-13)
+prep_in(put-12, it-15)
+
+Combine/NNP everything/NN but/CC shiitakes/NNS ,/, and/CC pour/NN over/IN bread/RB ./.
+
+(ROOT
+  (NP
+    (NP (NNP Combine) (NN everything))
+    (PP (CC but)
+      (NP
+        (NP (NNS shiitakes))
+        (, ,)
+        (CC and)
+        (NP (NN pour))))
+    (PP (IN over)
+      (NP (RB bread)))
+    (. .)))
+
+nn(everything-2, Combine-1)
+root(ROOT-0, everything-2)
+prep(everything-2, but-3)
+pobj(but-3, shiitakes-4)
+pobj(but-3, pour-7)
+conj_and(shiitakes-4, pour-7)
+prep(everything-2, over-8)
+pobj(over-8, bread-9)
+
+Submerge/NNP bread/RB with/IN a/DT weighted/JJ plate/NN ,/, and/CC turn/NN oven/NNS to/TO 350/CD degrees/NNS ./.
+
+(ROOT
+  (NP
+    (NP (NNP Submerge))
+    (PP
+      (ADVP (RB bread))
+      (IN with)
+      (NP
+        (NP (DT a) (JJ weighted) (NN plate))
+        (, ,)
+        (CC and)
+        (NP (NN turn) (NNS oven))))
+    (PP (TO to)
+      (NP (CD 350) (NNS degrees)))
+    (. .)))
+
+root(ROOT-0, Submerge-1)
+advmod(Submerge-1, bread-2)
+det(plate-6, a-4)
+amod(plate-6, weighted-5)
+prep_with(Submerge-1, plate-6)
+nn(oven-10, turn-9)
+prep_with(Submerge-1, oven-10)
+conj_and(plate-6, oven-10)
+num(degrees-13, 350-12)
+prep_to(Submerge-1, degrees-13)
+
+Heat/NNP 2/CD tablespoons/NNS butter/NN or/CC oil/NN in/IN a/DT saute/JJ pan/NN ,/, add/JJ shiitakes/NNS and/CC saute/NN until/IN tender/NN ,/, about/IN 10/CD minutes/NNS ./.
+
+(ROOT
+  (S
+    (NP (NNP Heat))
+    (VP
+      (NP (CD 2) (NNS tablespoons))
+      (NP
+        (NP (NN butter)
+          (CC or)
+          (NN oil))
+        (PP (IN in)
+          (NP
+            (NP (DT a) (JJ saute) (NN pan))
+            (, ,)
+            (NP (JJ add) (NNS shiitakes))
+            (CC and)
+            (NP (NN saute)))))
+      (PP (IN until)
+        (NP
+          (NP (NN tender))
+          (, ,)
+          (ADVP (IN about)
+            (NP (CD 10) (NNS minutes))))))
+    (. .)))
+
+nsubj(tablespoons-3, Heat-1)
+num(tablespoons-3, 2-2)
+root(ROOT-0, tablespoons-3)
+dobj(tablespoons-3, butter-4)
+dobj(tablespoons-3, oil-6)
+conj_or(butter-4, oil-6)
+det(pan-10, a-8)
+amod(pan-10, saute-9)
+prep_in(butter-4, pan-10)
+amod(shiitakes-13, add-12)
+prep_in(butter-4, shiitakes-13)
+conj_and(pan-10, shiitakes-13)
+prep_in(butter-4, saute-15)
+conj_and(pan-10, saute-15)
+prep_until(tablespoons-3, tender-17)
+advmod(tender-17, about-19)
+num(minutes-21, 10-20)
+pobj(about-19, minutes-21)
+
+2/CD ./.
+
+(ROOT
+  (FRAG
+    (NP (CD 2))
+    (. .)))
+
+root(ROOT-0, 2-1)
+
+Remove/NNP plate/NN ,/, and/CC stir/NN in/IN mushrooms/NNS ./.
+
+(ROOT
+  (NP
+    (NP (NNP Remove))
+    (NP
+      (NP (NN plate))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (NN stir))
+        (PP (IN in)
+          (NP (NNS mushrooms)))))
+    (. .)))
+
+root(ROOT-0, Remove-1)
+dep(Remove-1, plate-2)
+dep(Remove-1, stir-5)
+conj_and(plate-2, stir-5)
+prep_in(stir-5, mushrooms-7)
+
+Bake/RB until/IN pudding/VBG is/VBZ just/RB set/VBN ,/, 35/CD to/TO 45/CD minutes/NNS ./.
+
+(ROOT
+  (S
+    (ADVP (RB Bake))
+    (PP (IN until)
+      (S
+        (VP (VBG pudding))))
+    (VP
+      (VP (VBZ is)
+        (VP
+          (ADVP (RB just))
+          (VBN set)))
+      (, ,)
+      (NP
+        (QP (CD 35) (TO to) (CD 45))
+        (NNS minutes)))
+    (. .)))
+
+advmod(set-6, Bake-1)
+prepc_until(set-6, pudding-3)
+auxpass(set-6, is-4)
+advmod(set-6, just-5)
+root(ROOT-0, set-6)
+number(45-10, 35-8)
+dep(45-10, to-9)
+num(minutes-11, 45-10)
+dobj(set-6, minutes-11)
+
+Yield/NNP :/: At/IN least/JJS 6/CD servings/NNS ./.
+
+(ROOT
+  (NP
+    (NP (NNP Yield))
+    (: :)
+    (NP
+      (QP (IN At) (JJS least) (CD 6))
+      (NNS servings))
+    (. .)))
+
+root(ROOT-0, Yield-1)
+quantmod(6-5, At-3)
+mwe(At-3, least-4)
+pobj(At-3, least-4)
+num(servings-6, 6-5)
+dep(Yield-1, servings-6)
+
+NYT-11-14-00/CD 1553EST/CD
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-11-14-00) (CD 1553EST))))
+
+num(1553EST-2, NYT-11-14-00-1)
+root(ROOT-0, 1553EST-2)
+

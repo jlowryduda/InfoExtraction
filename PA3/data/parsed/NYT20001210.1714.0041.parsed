@@ -1,0 +1,1288 @@
+NYT20001210.1714.0041/CD NEWS/NNP STORY/NNP 2000-12-10/CD 17:14:10/CD
+
+(ROOT
+  (NP
+    (NP (CD NYT20001210.1714.0041))
+    (NP (NNP NEWS) (NNP STORY))
+    (NP (CD 2000-12-10) (CD 17:14:10))))
+
+root(ROOT-0, NYT20001210.1714.0041-1)
+nn(STORY-3, NEWS-2)
+dep(NYT20001210.1714.0041-1, STORY-3)
+num(17:14:10-5, 2000-12-10-4)
+dep(NYT20001210.1714.0041-1, 17:14:10-5)
+
+A5602/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-WEB-ECON-NYT/NNP &LR/NNP ;/: 12-10/CD 0540/CD
+
+(ROOT
+  (NP
+    (NP (CD A5602) (NN &Cx1f))
+    (: ;)
+    (NP
+      (NP (NNP taf-z) (NNP u) (NNP f) (NNP BC-WEB-ECON-NYT) (NNP &LR))
+      (: ;)
+      (NP
+        (QP (CD 12-10) (CD 0540))))))
+
+num(&Cx1f-2, A5602-1)
+root(ROOT-0, &Cx1f-2)
+nn(&LR-8, taf-z-4)
+nn(&LR-8, u-5)
+nn(&LR-8, f-6)
+nn(&LR-8, BC-WEB-ECON-NYT-7)
+dep(&Cx1f-2, &LR-8)
+number(0540-11, 12-10-10)
+dep(&LR-8, 0540-11)
+
+BC-WEB-ECON-NYT/NNP
+
+(ROOT
+  (NP (NNP BC-WEB-ECON-NYT)))
+
+root(ROOT-0, BC-WEB-ECON-NYT-1)
+
+EFFICIENCIES/NNP FOUND/NNP ONLINE/NNP HELP/NNP COMPANIES/NNP BUILD/NNP PROFITS/NNP ONLINE/NNP
+
+(ROOT
+  (NP (NNP EFFICIENCIES) (NNP FOUND) (NNP ONLINE) (NNP HELP) (NNP COMPANIES) (NNP BUILD) (NNP PROFITS) (NNP ONLINE)))
+
+nn(ONLINE-8, EFFICIENCIES-1)
+nn(ONLINE-8, FOUND-2)
+nn(ONLINE-8, ONLINE-3)
+nn(ONLINE-8, HELP-4)
+nn(ONLINE-8, COMPANIES-5)
+nn(ONLINE-8, BUILD-6)
+nn(ONLINE-8, PROFITS-7)
+root(ROOT-0, ONLINE-8)
+
+&UR/NNS ;/: By/NNP CLAUDIA/NNP H/NNP ./.
+
+(ROOT
+  (NP
+    (NP (NNS &UR))
+    (: ;)
+    (PP (NNP By)
+      (NP (NNP CLAUDIA) (NNP H)))
+    (. .)))
+
+root(ROOT-0, &UR-1)
+prep(&UR-1, By-3)
+nn(H-5, CLAUDIA-4)
+dep(By-3, H-5)
+
+DEUTSCH/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP DEUTSCH) (NNP &QC))
+      (: ;)
+      (NP (NNS &LR)))
+    (: ;)
+    (NP
+      (NP (NNS &QL))
+      (: ;)
+      (NP (NNS &UR)))
+    (: ;)
+    (NP
+      (NP (CD c.2000))
+      (NP (NNP N.Y)))
+    (. .)))
+
+nn(&QC-2, DEUTSCH-1)
+root(ROOT-0, &QC-2)
+dep(&QC-2, &LR-4)
+dep(&QC-2, &QL-6)
+dep(&QL-6, &UR-8)
+dep(&QC-2, c.2000-10)
+appos(c.2000-10, N.Y-11)
+
+Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
+
+(ROOT
+  (NP
+    (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
+    (PRN (: ;)
+      (NP
+        (NP (NNS &LR))
+        (: ;)
+        (NP (NNP &QL))))
+    (: ;)))
+
+nn(&QC-4, Times-1)
+nn(&QC-4, News-2)
+nn(&QC-4, Service-3)
+root(ROOT-0, &QC-4)
+dep(&QC-4, &LR-6)
+dep(&LR-6, &QL-8)
+
+The/DT dot-coms/NNS may/MD get/VB the/DT publicity/NN ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NNS dot-coms))
+    (VP (MD may)
+      (VP (VB get)
+        (NP (DT the) (NN publicity))))
+    (. .)))
+
+det(dot-coms-2, The-1)
+nsubj(get-4, dot-coms-2)
+aux(get-4, may-3)
+root(ROOT-0, get-4)
+det(publicity-6, the-5)
+dobj(get-4, publicity-6)
+
+But/CC John/NNP F./NNP Welch/NNP Jr./NNP is/VBZ certain/JJ that/IN companies/NNS like/IN General/NNP Electric/NNP will/MD reap/VB the/DT profits/NNS ./.
+
+(ROOT
+  (S (CC But)
+    (NP (NNP John) (NNP F.) (NNP Welch) (NNP Jr.))
+    (VP (VBZ is)
+      (ADJP (JJ certain))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNS companies))
+            (PP (IN like)
+              (NP (NNP General) (NNP Electric))))
+          (VP (MD will)
+            (VP (VB reap)
+              (NP (DT the) (NNS profits)))))))
+    (. .)))
+
+cc(certain-7, But-1)
+nn(Jr.-5, John-2)
+nn(Jr.-5, F.-3)
+nn(Jr.-5, Welch-4)
+nsubj(certain-7, Jr.-5)
+cop(certain-7, is-6)
+root(ROOT-0, certain-7)
+mark(reap-14, that-8)
+nsubj(reap-14, companies-9)
+nn(Electric-12, General-11)
+prep_like(companies-9, Electric-12)
+aux(reap-14, will-13)
+ccomp(certain-7, reap-14)
+det(profits-16, the-15)
+dobj(reap-14, profits-16)
+
+``The/NNP Internet/NNP was/VBD made/VBN for/IN big/JJ companies/NNS ,''/, said/VBD Welch/NNP ,/, GE/NNP 's/POS chairman/NN and/CC Web/NNP champion-in-chief/NN ./.
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP ``The) (NNP Internet))
+      (VP (VBD was)
+        (VP (VBN made)
+          (PP (IN for)
+            (NP (JJ big) (NNS companies))))))
+    (, ,'')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Welch))
+      (, ,)
+      (NP
+        (NP (NNP GE) (POS 's))
+        (NX
+          (NX (NN chairman))
+          (CC and)
+          (NX (NNP Web) (NN champion-in-chief)))))
+    (. .)))
+
+nn(Internet-2, ``The-1)
+nsubjpass(made-4, Internet-2)
+auxpass(made-4, was-3)
+ccomp(said-9, made-4)
+amod(companies-7, big-6)
+prep_for(made-4, companies-7)
+punct(said-9, ,''-8)
+root(ROOT-0, said-9)
+nsubj(said-9, Welch-10)
+poss(chairman-14, GE-12)
+appos(Welch-10, chairman-14)
+nn(champion-in-chief-17, Web-16)
+appos(Welch-10, champion-in-chief-17)
+conj_and(chairman-14, champion-in-chief-17)
+
+``The/IN dot-coms/NNS understand/JJ buying/NN and/CC selling/NN ./.
+
+(ROOT
+  (FRAG
+    (PP (IN ``The)
+      (NP
+        (NP (NNS dot-coms))
+        (NX
+          (NX (JJ understand) (NN buying))
+          (CC and)
+          (NX (NN selling)))))
+    (. .)))
+
+root(ROOT-0, ``The-1)
+dep(buying-4, dot-coms-2)
+amod(buying-4, understand-3)
+pobj(``The-1, buying-4)
+pobj(``The-1, selling-6)
+conj_and(buying-4, selling-6)
+
+But/CC the/DT real/JJ efficiencies/NNS come/VBP in/IN that/DT middle/JJ part/NN of/IN the/DT equation/NN :/: making/VBG things/NNS .''/.
+
+(ROOT
+  (S (CC But)
+    (NP (DT the) (JJ real) (NNS efficiencies))
+    (VP (VBP come)
+      (PP (IN in)
+        (NP
+          (NP (DT that) (JJ middle) (NN part))
+          (PP (IN of)
+            (NP (DT the) (NN equation)))))
+      (: :)
+      (S
+        (VP (VBG making)
+          (NP (NNS things)))))
+    (. .'')))
+
+cc(come-5, But-1)
+det(efficiencies-4, the-2)
+amod(efficiencies-4, real-3)
+nsubj(come-5, efficiencies-4)
+root(ROOT-0, come-5)
+det(part-9, that-7)
+amod(part-9, middle-8)
+prep_in(come-5, part-9)
+det(equation-12, the-11)
+prep_of(part-9, equation-12)
+parataxis(come-5, making-14)
+dobj(making-14, things-15)
+punct(come-5, .''-16)
+
+Long/NNP before/IN the/DT Web/NNP ,/, sophisticated/VBD old-economy/JJ companies/NNS were/VBD using/VBG computer/NN networks/NNS ,/, and/CC even/RB the/DT Internet/NN ,/, to/TO communicate/VB with/IN suppliers/NNS ,/, to/TO fine-tune/JJ inventories/NNS ,/, to/TO streamline/VB back-office/JJ functions/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Long))
+      (PP (IN before)
+        (NP (DT the) (NNP Web))))
+    (, ,)
+    (VP (VBD sophisticated)
+      (SBAR
+        (S
+          (NP (JJ old-economy) (NNS companies))
+          (VP (VBD were)
+            (VP (VBG using)
+              (NP
+                (NP (NN computer) (NNS networks))
+                (, ,)
+                (CC and)
+                (NP (RB even) (DT the) (NN Internet))
+                (, ,))
+              (S
+                (VP (TO to)
+                  (VP (VB communicate)
+                    (PP (IN with)
+                      (NP (NNS suppliers)))
+                    (, ,)
+                    (PP (TO to)
+                      (NP (JJ fine-tune) (NNS inventories)))
+                    (, ,)
+                    (S
+                      (VP (TO to)
+                        (VP (VB streamline)
+                          (NP (JJ back-office) (NNS functions)))))))))))))
+    (. .)))
+
+nsubj(sophisticated-6, Long-1)
+det(Web-4, the-3)
+prep_before(Long-1, Web-4)
+root(ROOT-0, sophisticated-6)
+amod(companies-8, old-economy-7)
+nsubj(using-10, companies-8)
+aux(using-10, were-9)
+ccomp(sophisticated-6, using-10)
+nn(networks-12, computer-11)
+dobj(using-10, networks-12)
+advmod(Internet-17, even-15)
+det(Internet-17, the-16)
+dobj(using-10, Internet-17)
+conj_and(networks-12, Internet-17)
+aux(communicate-20, to-19)
+vmod(using-10, communicate-20)
+prep_with(communicate-20, suppliers-22)
+amod(inventories-26, fine-tune-25)
+prep_to(communicate-20, inventories-26)
+aux(streamline-29, to-28)
+xcomp(communicate-20, streamline-29)
+amod(functions-31, back-office-30)
+dobj(streamline-29, functions-31)
+
+But/CC the/DT Web/NNP ,/, as/IN an/DT easy/JJ to/TO use/VB interface/NN for/IN the/DT Internet/NNP ,/, has/VBZ opened/VBN large/JJ swaths/NNS of/IN uncharted/JJ territory/NN for/IN industrial/JJ America/NNP ./.
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (NNP Web))
+      (, ,)
+      (PP (IN as)
+        (NP
+          (NP (DT an)
+            (ADJP (JJ easy)
+              (S
+                (VP (TO to)
+                  (VP (VB use)))))
+            (NN interface))
+          (PP (IN for)
+            (NP (DT the) (NNP Internet)))))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN opened)
+        (NP
+          (NP (JJ large) (NNS swaths))
+          (PP (IN of)
+            (NP (JJ uncharted) (NN territory))))
+        (PP (IN for)
+          (NP (JJ industrial) (NNP America)))))
+    (. .)))
+
+cc(opened-16, But-1)
+det(Web-3, the-2)
+nsubj(opened-16, Web-3)
+det(interface-10, an-6)
+amod(interface-10, easy-7)
+aux(use-9, to-8)
+xcomp(easy-7, use-9)
+prep_as(Web-3, interface-10)
+det(Internet-13, the-12)
+prep_for(interface-10, Internet-13)
+aux(opened-16, has-15)
+root(ROOT-0, opened-16)
+amod(swaths-18, large-17)
+dobj(opened-16, swaths-18)
+amod(territory-21, uncharted-20)
+prep_of(swaths-18, territory-21)
+amod(America-24, industrial-23)
+prep_for(opened-16, America-24)
+
+Through/JJ Web-based/JJ buying/NN consortiums/NNS ,/, through/IN auctions/NNS and/CC reverse/VB auctions/NNS and/CC various/JJ other/JJ types/NNS of/IN e-marketplaces/NNS ,/, companies/NNS are/VBP saving/VBG millions/NNS of/IN dollars/NNS in/IN the/DT procurement/NN of/IN supplies/NNS and/CC services/NNS ./.
+
+(ROOT
+  (S
+    (NP (JJ Through) (JJ Web-based) (NN buying) (NNS consortiums))
+    (, ,)
+    (PP (IN through)
+      (NP
+        (NP (NNS auctions))
+        (CC and)
+        (NP
+          (VP (VB reverse)
+            (NP
+              (NP (NNS auctions))
+              (CC and)
+              (NP (JJ various) (JJ other) (NNS types))))
+          (PP (IN of)
+            (NP (NNS e-marketplaces))))))
+    (, ,)
+    (NP (NNS companies))
+    (VP (VBP are)
+      (VP (VBG saving)
+        (NP
+          (NP (NNS millions))
+          (PP (IN of)
+            (NP
+              (NP (NNS dollars))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN procurement))
+                  (PP (IN of)
+                    (NP (NNS supplies)
+                      (CC and)
+                      (NNS services))))))))))
+    (. .)))
+
+amod(consortiums-4, Through-1)
+amod(consortiums-4, Web-based-2)
+nn(consortiums-4, buying-3)
+nsubj(saving-20, consortiums-4)
+prep_through(saving-20, auctions-7)
+conj_and(auctions-7, reverse-9)
+prep_through(saving-20, reverse-9)
+dobj(reverse-9, auctions-10)
+amod(types-14, various-12)
+amod(types-14, other-13)
+dobj(reverse-9, types-14)
+conj_and(auctions-10, types-14)
+prep_of(reverse-9, e-marketplaces-16)
+nsubj(saving-20, companies-18)
+aux(saving-20, are-19)
+root(ROOT-0, saving-20)
+dobj(saving-20, millions-21)
+prep_of(millions-21, dollars-23)
+det(procurement-26, the-25)
+prep_in(dollars-23, procurement-26)
+prep_of(procurement-26, supplies-28)
+prep_of(procurement-26, services-30)
+conj_and(supplies-28, services-30)
+
+The/DT Web/NNP is/VBZ changing/VBG the/DT sell/NN side/NN ,/, too/RB ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Web))
+    (VP (VBZ is)
+      (VP (VBG changing)
+        (NP (DT the) (NN sell) (NN side)))
+      (, ,)
+      (ADVP (RB too)))
+    (. .)))
+
+det(Web-2, The-1)
+nsubj(changing-4, Web-2)
+aux(changing-4, is-3)
+root(ROOT-0, changing-4)
+det(side-7, the-5)
+nn(side-7, sell-6)
+dobj(changing-4, side-7)
+advmod(changing-4, too-9)
+
+With/IN well-designed/JJ home/NN pages/NNS ,/, companies/NNS can/MD pitch/VB their/PRP$ products/NNS at/IN businesses/NNS too/RB small/JJ to/TO warrant/VB a/DT sales/NNS call/NN and/CC at/IN consumers/NNS who/WP may/MD live/VB hours/NNS away/RB from/IN the/DT nearest/JJS store/NN or/CC distributor/NN ./.
+
+(ROOT
+  (S
+    (PP (IN With)
+      (NP (JJ well-designed) (NN home) (NNS pages)))
+    (, ,)
+    (NP (NNS companies))
+    (VP (MD can)
+      (VP (VB pitch)
+        (NP (PRP$ their) (NNS products))
+        (PP
+          (PP (IN at)
+            (NP
+              (NP (NNS businesses))
+              (ADJP (RB too) (JJ small)
+                (S
+                  (VP (TO to)
+                    (VP (VB warrant)
+                      (NP (DT a) (NNS sales) (NN call))))))))
+          (CC and)
+          (PP (IN at)
+            (NP
+              (NP (NNS consumers))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (MD may)
+                    (VP (VB live)
+                      (NP (NNS hours))
+                      (ADVP (RB away))
+                      (PP (IN from)
+                        (NP
+                          (NP (DT the) (JJS nearest) (NN store))
+                          (CC or)
+                          (NP (NN distributor)))))))))))))
+    (. .)))
+
+amod(pages-4, well-designed-2)
+nn(pages-4, home-3)
+prep_with(pitch-8, pages-4)
+nsubj(pitch-8, companies-6)
+aux(pitch-8, can-7)
+root(ROOT-0, pitch-8)
+poss(products-10, their-9)
+dobj(pitch-8, products-10)
+prep_at(pitch-8, businesses-12)
+advmod(small-14, too-13)
+amod(businesses-12, small-14)
+aux(warrant-16, to-15)
+xcomp(small-14, warrant-16)
+det(call-19, a-17)
+nn(call-19, sales-18)
+dobj(warrant-16, call-19)
+prep_at(pitch-8, consumers-22)
+conj_and(businesses-12, consumers-22)
+nsubj(live-25, consumers-22)
+aux(live-25, may-24)
+rcmod(consumers-22, live-25)
+dobj(live-25, hours-26)
+det(store-31, the-29)
+amod(store-31, nearest-30)
+prep_away_from(live-25, store-31)
+prep_away_from(live-25, distributor-33)
+conj_or(store-31, distributor-33)
+
+The/DT companies/NNS can/MD anticipate/VB questions/NNS and/CC post/NN answers/NNS before/IN the/DT queries/NNS are/VBP even/RB made/VBN ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NNS companies))
+    (VP (MD can)
+      (VP (VB anticipate)
+        (NP (NNS questions)
+          (CC and)
+          (NN post) (NNS answers))
+        (SBAR (IN before)
+          (S
+            (NP (DT the) (NNS queries))
+            (VP (VBP are)
+              (ADVP (RB even))
+              (VP (VBN made)))))))
+    (. .)))
+
+det(companies-2, The-1)
+nsubj(anticipate-4, companies-2)
+aux(anticipate-4, can-3)
+root(ROOT-0, anticipate-4)
+dobj(anticipate-4, questions-5)
+nn(answers-8, post-7)
+dobj(anticipate-4, answers-8)
+conj_and(questions-5, answers-8)
+mark(made-14, before-9)
+det(queries-11, the-10)
+nsubjpass(made-14, queries-11)
+auxpass(made-14, are-12)
+advmod(made-14, even-13)
+advcl(anticipate-4, made-14)
+
+They/PRP can/MD let/VB customers/NNS download/RB software/NN that/WDT helps/VBZ them/PRP update/VB their/PRP$ products/NNS ./.
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD can)
+      (VP (VB let)
+        (NP (NNS customers))
+        (NP
+          (NP (RB download) (NN software))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ helps)
+                (S
+                  (NP (PRP them))
+                  (VP (VB update)
+                    (NP (PRP$ their) (NNS products))))))))))
+    (. .)))
+
+nsubj(let-3, They-1)
+aux(let-3, can-2)
+root(ROOT-0, let-3)
+iobj(let-3, customers-4)
+advmod(software-6, download-5)
+dobj(let-3, software-6)
+nsubj(helps-8, software-6)
+rcmod(software-6, helps-8)
+nsubj(update-10, them-9)
+ccomp(helps-8, update-10)
+poss(products-12, their-11)
+dobj(update-10, products-12)
+
+Diversified/NNP corporations/NNS ,/, meanwhile/RB ,/, are/VBP learning/VBG to/TO use/VB the/DT Web/NNP to/TO bundle/VB services/NNS ./.
+
+(ROOT
+  (S
+    (NP (NNP Diversified) (NNS corporations))
+    (, ,)
+    (ADVP (RB meanwhile))
+    (, ,)
+    (VP (VBP are)
+      (VP (VBG learning)
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (S
+                (NP (DT the) (NNP Web))
+                (VP (TO to)
+                  (VP (VB bundle)
+                    (NP (NNS services))))))))))
+    (. .)))
+
+nn(corporations-2, Diversified-1)
+nsubj(learning-7, corporations-2)
+nsubj(use-9, corporations-2)
+advmod(learning-7, meanwhile-4)
+aux(learning-7, are-6)
+root(ROOT-0, learning-7)
+aux(use-9, to-8)
+xcomp(learning-7, use-9)
+det(Web-11, the-10)
+dobj(use-9, Web-11)
+nsubj(bundle-13, Web-11)
+aux(bundle-13, to-12)
+xcomp(use-9, bundle-13)
+dobj(bundle-13, services-14)
+
+In/IN the/DT near/JJ future/NN ,/, for/IN example/NN ,/, someone/RB buying/VBG a/DT refrigerator/NN from/IN GE/NNP Appliance/NNP 's/POS Web/NNP site/NN might/MD receive/VB an/DT offer/NN from/IN GE/NNP Capital/NNP to/TO finance/VB the/DT purchase/NN ./.
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ near) (NN future)))
+    (, ,)
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (S
+      (VP
+        (ADVP (RB someone))
+        (VBG buying)
+        (NP (DT a) (NN refrigerator))
+        (PP (IN from)
+          (NP
+            (NP (NNP GE) (NNP Appliance) (POS 's))
+            (NNP Web) (NN site)))))
+    (VP (MD might)
+      (VP (VB receive)
+        (NP (DT an) (NN offer))
+        (PP (IN from)
+          (NP (NNP GE) (NNP Capital)))
+        (S
+          (VP (TO to)
+            (VP (VB finance)
+              (NP (DT the) (NN purchase)))))))
+    (. .)))
+
+det(future-4, the-2)
+amod(future-4, near-3)
+prep_in(receive-20, future-4)
+prep_for(receive-20, example-7)
+advmod(buying-10, someone-9)
+csubj(receive-20, buying-10)
+det(refrigerator-12, a-11)
+dobj(buying-10, refrigerator-12)
+nn(Appliance-15, GE-14)
+poss(site-18, Appliance-15)
+nn(site-18, Web-17)
+prep_from(buying-10, site-18)
+aux(receive-20, might-19)
+root(ROOT-0, receive-20)
+det(offer-22, an-21)
+dobj(receive-20, offer-22)
+nn(Capital-25, GE-24)
+prep_from(receive-20, Capital-25)
+aux(finance-27, to-26)
+vmod(receive-20, finance-27)
+det(purchase-29, the-28)
+dobj(finance-27, purchase-29)
+
+GE/NNP ,/, with/IN its/PRP$ corporate/JJ tentacles/NNS reaching/VBG into/IN businesses/NNS as/IN diverse/JJ as/IN X-ray/JJ machines/NNS ,/, mortgages/NNS and/CC light/JJ bulbs/NNS ,/, provides/VBZ perhaps/RB the/DT leading/VBG example/NN of/IN what/WP an/DT old-economy/JJ company/NN can/MD do/VB with/IN new-economy/JJ tools/NNS ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP GE))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (PRP$ its) (JJ corporate) (NNS tentacles))
+          (VP (VBG reaching)
+            (PP (IN into)
+              (NP
+                (NP (NNS businesses))
+                (PP (IN as)
+                  (ADJP (JJ diverse)))))
+            (PP (IN as)
+              (NP
+                (NP (JJ X-ray) (NNS machines))
+                (, ,)
+                (NP (NNS mortgages))
+                (CC and)
+                (NP (JJ light) (NNS bulbs)))))))
+      (, ,))
+    (VP (VBZ provides)
+      (ADVP (RB perhaps))
+      (NP
+        (NP (DT the) (VBG leading) (NN example))
+        (PP (IN of)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (DT an) (JJ old-economy) (NN company))
+              (VP (MD can)
+                (VP (VB do)
+                  (PP (IN with)
+                    (NP (JJ new-economy) (NNS tools))))))))))
+    (. .)))
+
+nsubj(provides-21, GE-1)
+poss(tentacles-6, its-4)
+amod(tentacles-6, corporate-5)
+prep_with(GE-1, tentacles-6)
+vmod(tentacles-6, reaching-7)
+prep_into(reaching-7, businesses-9)
+prep_as(businesses-9, diverse-11)
+amod(machines-14, X-ray-13)
+prep_as(reaching-7, machines-14)
+prep_as(reaching-7, mortgages-16)
+conj_and(machines-14, mortgages-16)
+amod(bulbs-19, light-18)
+prep_as(reaching-7, bulbs-19)
+conj_and(machines-14, bulbs-19)
+root(ROOT-0, provides-21)
+advmod(provides-21, perhaps-22)
+det(example-25, the-23)
+amod(example-25, leading-24)
+dobj(provides-21, example-25)
+dobj(do-32, what-27)
+det(company-30, an-28)
+amod(company-30, old-economy-29)
+nsubj(do-32, company-30)
+aux(do-32, can-31)
+prepc_of(example-25, do-32)
+amod(tools-35, new-economy-34)
+prep_with(do-32, tools-35)
+
+GE/NNP Plastics/NNPS put/VBD up/RP the/DT company/NN 's/POS first/JJ Web/NN page/NN on/IN Oct/NNP ./.
+
+(ROOT
+  (S
+    (NP (NNP GE) (NNPS Plastics))
+    (VP (VBD put)
+      (PRT (RP up))
+      (NP
+        (NP (DT the) (NN company) (POS 's))
+        (JJ first) (NN Web) (NN page))
+      (PP (IN on)
+        (NP (NNP Oct))))
+    (. .)))
+
+nn(Plastics-2, GE-1)
+nsubj(put-3, Plastics-2)
+root(ROOT-0, put-3)
+prt(put-3, up-4)
+det(company-6, the-5)
+poss(page-10, company-6)
+amod(page-10, first-8)
+nn(page-10, Web-9)
+dobj(put-3, page-10)
+prep_on(put-3, Oct-12)
+
+21/CD ,/, 1994/CD ;/: today/NN ,/, each/DT GE/JJ business/NN sells/NNS products/NNS on/IN the/DT Web/NNP ./.
+
+(ROOT
+  (NP
+    (NP
+      (NP (CD 21))
+      (, ,)
+      (NP (CD 1994)))
+    (: ;)
+    (NP
+      (NP (NN today))
+      (, ,)
+      (NP
+        (NP (DT each) (JJ GE) (NN business) (NNS sells) (NNS products))
+        (PP (IN on)
+          (NP (DT the) (NNP Web)))))
+    (. .)))
+
+root(ROOT-0, 21-1)
+amod(21-1, 1994-3)
+dep(21-1, today-5)
+det(products-11, each-7)
+amod(products-11, GE-8)
+nn(products-11, business-9)
+nn(products-11, sells-10)
+appos(today-5, products-11)
+det(Web-14, the-13)
+prep_on(products-11, Web-14)
+
+And/CC this/DT year/NN ,/, GE/NNP will/MD probably/RB buy/VB $6/CD billion/CD of/IN goods/NNS through/IN the/DT Web/NNP ./.
+
+(ROOT
+  (S (CC And)
+    (NP (DT this) (NN year))
+    (, ,)
+    (NP (NNP GE))
+    (VP (MD will)
+      (ADVP (RB probably))
+      (VP (VB buy)
+        (NP
+          (NP
+            (QP (CD $6) (CD billion)))
+          (PP (IN of)
+            (NP (NNS goods))))
+        (PP (IN through)
+          (NP (DT the) (NNP Web)))))
+    (. .)))
+
+cc(buy-8, And-1)
+det(year-3, this-2)
+tmod(buy-8, year-3)
+nsubj(buy-8, GE-5)
+aux(buy-8, will-6)
+advmod(buy-8, probably-7)
+root(ROOT-0, buy-8)
+number(billion-10, $6-9)
+dobj(buy-8, billion-10)
+prep_of(billion-10, goods-12)
+det(Web-15, the-14)
+prep_through(buy-8, Web-15)
+
+``We/NNP 'll/MD save/VB hundreds/NNS of/IN millions/NNS of/IN dollars/NNS ,''/, Welch/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (S
+      (NP (NNP ``We))
+      (VP (MD 'll)
+        (VP (VB save)
+          (NP
+            (NP (NNS hundreds))
+            (PP (IN of)
+              (NP
+                (NP (NNS millions))
+                (PP (IN of)
+                  (NP (NNS dollars)))))))))
+    (, ,'')
+    (NP (NNP Welch))
+    (VP (VBD said))
+    (. .)))
+
+nsubj(save-3, ``We-1)
+aux(save-3, 'll-2)
+ccomp(said-11, save-3)
+dobj(save-3, hundreds-4)
+prep_of(hundreds-4, millions-6)
+prep_of(millions-6, dollars-8)
+punct(said-11, ,''-9)
+nsubj(said-11, Welch-10)
+root(ROOT-0, said-11)
+
+``Nothing/VBG else/RB would/MD give/VB you/PRP that/IN type/NN of/IN quantum/JJ change/NN .''/.
+
+(ROOT
+  (S
+    (S
+      (VP (VBG ``Nothing)
+        (ADJP (RB else))))
+    (VP (MD would)
+      (VP (VB give)
+        (NP (PRP you))
+        (SBAR (IN that)
+          (FRAG
+            (NP
+              (NP (NN type))
+              (PP (IN of)
+                (NP (JJ quantum) (NN change))))))))
+    (. .'')))
+
+csubj(give-4, ``Nothing-1)
+acomp(``Nothing-1, else-2)
+aux(give-4, would-3)
+root(ROOT-0, give-4)
+dobj(give-4, you-5)
+mark(type-7, that-6)
+dep(give-4, type-7)
+amod(change-10, quantum-9)
+prep_of(type-7, change-10)
+punct(give-4, .''-11)
+
+The/DT Web/NNP is/VBZ also/RB letting/VBG GE/NNP help/NN its/PRP$ own/JJ customers/NNS compare/JJ notes/NNS ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Web))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP (VBG letting)
+        (NP (NNP GE) (NN help))
+        (NP
+          (NP (PRP$ its) (JJ own) (NNS customers))
+          (NP (JJ compare) (NNS notes)))))
+    (. .)))
+
+det(Web-2, The-1)
+nsubj(letting-5, Web-2)
+aux(letting-5, is-3)
+advmod(letting-5, also-4)
+root(ROOT-0, letting-5)
+nn(help-7, GE-6)
+iobj(letting-5, help-7)
+poss(customers-10, its-8)
+amod(customers-10, own-9)
+dobj(letting-5, customers-10)
+amod(notes-12, compare-11)
+dep(customers-10, notes-12)
+
+GE/NNP posts/VBZ data/NNS on/IN its/PRP$ Web/NNP pages/NNS _/VBP stripped/VBN ,/, of/IN course/NN ,/, of/IN identification/NN _/NNS on/IN how/WRB efficiently/RB hospitals/NNS use/VB its/PRP$ CAT/NNP scanners/NNS ,/, how/WRB often/RB airlines/NNS do/VBP routine/RB maintenance/VB on/IN its/PRP$ engines/NNS ,/, how/WRB well/UH utilities/NNS use/NN waste/IN heat/NN or/CC water/NN to/TO generate/VB more/JJR electricity/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP GE))
+    (VP (VBZ posts)
+      (SBAR
+        (S
+          (NP
+            (NP (NNS data))
+            (PP (IN on)
+              (NP (PRP$ its) (NNP Web) (NNS pages))))
+          (VP (VBP _)
+            (VP (VBN stripped) (, ,)
+              (PP (IN of)
+                (NP
+                  (NP (NN course))
+                  (, ,)
+                  (PP (IN of)
+                    (NP
+                      (NP (NN identification) (NNS _))
+                      (PP (IN on)
+                        (SBAR
+                          (WHADJP (WRB how) (RB efficiently))
+                          (S
+                            (NP (NNS hospitals))
+                            (VP (VB use)
+                              (NP (PRP$ its) (NNP CAT) (NNS scanners))))))))))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB how) (RB often))
+                (S
+                  (NP (NNS airlines))
+                  (VP (VBP do) (RB routine)
+                    (VP
+                      (VP (VB maintenance)
+                        (PP (IN on)
+                          (NP (PRP$ its) (NNS engines)))
+                        (, ,)
+                        (SBAR
+                          (WHADVP (WRB how))
+                          (FRAG
+                            (INTJ (UH well)))))
+                      (VP
+                        (NP (NNS utilities))
+                        (NP
+                          (NP (NN use))
+                          (PP (IN waste)
+                            (NP (NN heat)
+                              (CC or)
+                              (NN water))))
+                        (S
+                          (VP (TO to)
+                            (VP (VB generate)
+                              (NP (JJR more) (NN electricity)))))))))))))))
+    (. .)))
+
+nsubj(posts-2, GE-1)
+root(ROOT-0, posts-2)
+nsubj(_-8, data-3)
+poss(pages-7, its-5)
+nn(pages-7, Web-6)
+prep_on(data-3, pages-7)
+ccomp(posts-2, _-8)
+dep(_-8, stripped-9)
+prep_of(stripped-9, course-12)
+nn(_-16, identification-15)
+prep_of(course-12, _-16)
+advmod(efficiently-19, how-18)
+dep(use-21, efficiently-19)
+nsubj(use-21, hospitals-20)
+prepc_on(_-16, use-21)
+poss(scanners-24, its-22)
+nn(scanners-24, CAT-23)
+dobj(use-21, scanners-24)
+advmod(often-27, how-26)
+advmod(maintenance-31, often-27)
+nsubj(maintenance-31, airlines-28)
+aux(maintenance-31, do-29)
+advmod(maintenance-31, routine-30)
+ccomp(stripped-9, maintenance-31)
+poss(engines-34, its-33)
+prep_on(maintenance-31, engines-34)
+advmod(well-37, how-36)
+dep(maintenance-31, well-37)
+dep(maintenance-31, utilities-38)
+dobj(utilities-38, use-39)
+prep_waste(use-39, heat-41)
+prep_waste(use-39, water-43)
+conj_or(heat-41, water-43)
+aux(generate-45, to-44)
+vmod(utilities-38, generate-45)
+amod(electricity-47, more-46)
+dobj(generate-45, electricity-47)
+
+Customers/NNS with/IN a/DT password/NN can/MD tap/VB into/IN the/DT data/NNS and/CC use/VB it/PRP to/TO benchmark/VB their/PRP$ own/JJ performance/NN ./.
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Customers))
+      (PP (IN with)
+        (NP (DT a) (NN password))))
+    (VP (MD can)
+      (VP
+        (VP (VB tap)
+          (PP (IN into)
+            (NP (DT the) (NNS data))))
+        (CC and)
+        (VP (VB use)
+          (S
+            (NP (PRP it))
+            (VP (TO to)
+              (VP (VB benchmark)
+                (NP (PRP$ their) (JJ own) (NN performance))))))))
+    (. .)))
+
+nsubj(tap-6, Customers-1)
+nsubj(use-11, Customers-1)
+det(password-4, a-3)
+prep_with(Customers-1, password-4)
+aux(tap-6, can-5)
+root(ROOT-0, tap-6)
+det(data-9, the-8)
+prep_into(tap-6, data-9)
+conj_and(tap-6, use-11)
+dobj(use-11, it-12)
+nsubj(benchmark-14, it-12)
+aux(benchmark-14, to-13)
+xcomp(use-11, benchmark-14)
+poss(performance-17, their-15)
+amod(performance-17, own-16)
+dobj(benchmark-14, performance-17)
+
+GE/NNP is/VBZ even/RB using/VBG the/DT Web/NNP to/TO let/VB customers/NNS test-drive/JJ software/NN ,/, including/VBG the/DT programs/NNS the/DT company/NN has/VBZ developed/VBN to/TO help/VB hospitals/NNS make/VBP more/RBR efficient/JJ use/NN of/IN some/DT medical/JJ equipment/NN ./.
+
+(ROOT
+  (S
+    (NP (NNP GE))
+    (VP (VBZ is)
+      (ADVP (RB even))
+      (VP (VBG using)
+        (S
+          (NP (DT the) (NNP Web))
+          (VP (TO to)
+            (VP (VB let)
+              (NP (NNS customers))
+              (NP
+                (NP (JJ test-drive) (NN software))
+                (, ,)
+                (PP (VBG including)
+                  (NP
+                    (NP (DT the) (NNS programs))
+                    (SBAR
+                      (S
+                        (NP (DT the) (NN company))
+                        (VP (VBZ has)
+                          (VP (VBN developed)
+                            (S
+                              (VP (TO to)
+                                (VP (VB help)
+                                  (SBAR
+                                    (S
+                                      (NP (NNS hospitals))
+                                      (VP (VBP make)
+                                        (NP
+                                          (NP
+                                            (ADJP (RBR more) (JJ efficient))
+                                            (NN use))
+                                          (PP (IN of)
+                                            (NP (DT some) (JJ medical) (NN equipment))))))))))))))))))))))
+    (. .)))
+
+nsubj(using-4, GE-1)
+aux(using-4, is-2)
+advmod(using-4, even-3)
+root(ROOT-0, using-4)
+det(Web-6, the-5)
+dobj(using-4, Web-6)
+nsubj(let-8, Web-6)
+aux(let-8, to-7)
+xcomp(using-4, let-8)
+iobj(let-8, customers-9)
+amod(software-11, test-drive-10)
+dobj(let-8, software-11)
+det(programs-15, the-14)
+prep_including(software-11, programs-15)
+det(company-17, the-16)
+nsubj(developed-19, company-17)
+nsubj(help-21, company-17)
+aux(developed-19, has-18)
+rcmod(programs-15, developed-19)
+aux(help-21, to-20)
+xcomp(developed-19, help-21)
+nsubj(make-23, hospitals-22)
+ccomp(help-21, make-23)
+advmod(efficient-25, more-24)
+amod(use-26, efficient-25)
+dobj(make-23, use-26)
+det(equipment-30, some-28)
+amod(equipment-30, medical-29)
+prep_of(use-26, equipment-30)
+
+GE/NNP will/MD let/VB them/PRP download/VBD the/DT software/NN and/CC use/VB it/PRP free/JJ _/NN for/IN 30/CD days/NNS ./.
+
+(ROOT
+  (S
+    (NP (NNP GE))
+    (VP (MD will)
+      (VP
+        (VP (VB let)
+          (SBAR
+            (S
+              (NP (PRP them))
+              (VP (VBD download)
+                (NP (DT the) (NN software))))))
+        (CC and)
+        (VP (VB use)
+          (S
+            (NP (PRP it))
+            (NP
+              (NP (JJ free) (NN _))
+              (PP (IN for)
+                (NP (CD 30) (NNS days))))))))
+    (. .)))
+
+nsubj(let-3, GE-1)
+nsubj(use-9, GE-1)
+aux(let-3, will-2)
+root(ROOT-0, let-3)
+nsubj(download-5, them-4)
+ccomp(let-3, download-5)
+det(software-7, the-6)
+dobj(download-5, software-7)
+conj_and(let-3, use-9)
+nsubj(_-12, it-10)
+amod(_-12, free-11)
+xcomp(use-9, _-12)
+num(days-15, 30-14)
+prep_for(_-12, days-15)
+
+After/IN that/WDT ,/, the/DT software/NN self-destructs/VBZ ,/, unless/IN the/DT customer/NN has/VBZ paid/VBN to/TO receive/VB a/DT permanent/JJ version/NN ./.
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (WDT that)))
+    (, ,)
+    (NP (DT the) (NN software))
+    (VP (VBZ self-destructs) (, ,)
+      (SBAR (IN unless)
+        (S
+          (NP (DT the) (NN customer))
+          (VP (VBZ has)
+            (VP (VBN paid)
+              (S
+                (VP (TO to)
+                  (VP (VB receive)
+                    (NP (DT a) (JJ permanent) (NN version))))))))))
+    (. .)))
+
+prep_after(self-destructs-6, that-2)
+det(software-5, the-4)
+nsubj(self-destructs-6, software-5)
+root(ROOT-0, self-destructs-6)
+mark(paid-12, unless-8)
+det(customer-10, the-9)
+nsubj(paid-12, customer-10)
+nsubj(receive-14, customer-10)
+aux(paid-12, has-11)
+advcl(self-destructs-6, paid-12)
+aux(receive-14, to-13)
+xcomp(paid-12, receive-14)
+det(version-17, a-15)
+amod(version-17, permanent-16)
+dobj(receive-14, version-17)
+
+``With/IN the/DT Web/NNP ,/, every/NN day/NN you/PRP wake/VBD up/RB and/CC laugh/NN at/IN how/WRB little/JJ you/PRP knew/VBP the/DT day/NN before/IN ,''/DT Welch/NNP said/VBD ./.
+
+(ROOT
+  (S
+    (PP (IN ``With)
+      (NP (DT the) (NNP Web)))
+    (, ,)
+    (NP
+      (NP (NN every) (NN day))
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP
+            (VP (VBD wake)
+              (ADVP (RB up)))
+            (CC and)
+            (VP (NN laugh)
+              (PP (IN at)
+                (SBAR
+                  (WHNP (WRB how) (JJ little))
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP knew)
+                      (NP (DT the) (NN day))
+                      (PP (IN before)
+                        (NP (DT ,'') (NNP Welch))))))))))))
+    (VP (VBD said))
+    (. .)))
+
+det(Web-3, the-2)
+prep_``with(said-22, Web-3)
+nn(day-6, every-5)
+nsubj(said-22, day-6)
+nsubj(wake-8, you-7)
+rcmod(day-6, wake-8)
+advmod(wake-8, up-9)
+rcmod(day-6, laugh-11)
+conj_and(wake-8, laugh-11)
+advmod(little-14, how-13)
+advmod(knew-16, little-14)
+nsubj(knew-16, you-15)
+prepc_at(laugh-11, knew-16)
+det(day-18, the-17)
+tmod(knew-16, day-18)
+det(Welch-21, ,''-20)
+prep_before(knew-16, Welch-21)
+root(ROOT-0, said-22)
+
+``It/NNP 's/POS like/JJ peeling/VBG back/RB an/DT onion/NN ./.
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP ``It) (POS 's))
+      (NP (JJ like)))
+    (VP (VBG peeling)
+      (ADVP (RB back)
+        (NP (DT an) (NN onion))))
+    (. .)))
+
+root(ROOT-0, ``It-1)
+possessive(``It-1, 's-2)
+dep(``It-1, like-3)
+vmod(``It-1, peeling-4)
+advmod(peeling-4, back-5)
+det(onion-7, an-6)
+pobj(back-5, onion-7)
+
+Every/DT day/NN we/PRP uncover/VBP hundreds/NNS of/IN millions/NNS of/IN dollars/NNS in/IN efficiencies/NNS .''/.
+
+(ROOT
+  (S
+    (NP (DT Every) (NN day))
+    (NP (PRP we))
+    (VP (VBP uncover)
+      (NP
+        (NP (NNS hundreds))
+        (PP (IN of)
+          (NP
+            (NP (NNS millions))
+            (PP (IN of)
+              (NP
+                (NP (NNS dollars))
+                (PP (IN in)
+                  (NP (NNS efficiencies)))))))))
+    (. .'')))
+
+det(day-2, Every-1)
+tmod(uncover-4, day-2)
+nsubj(uncover-4, we-3)
+root(ROOT-0, uncover-4)
+dobj(uncover-4, hundreds-5)
+prep_of(hundreds-5, millions-7)
+prep_of(millions-7, dollars-9)
+prep_in(dollars-9, efficiencies-11)
+punct(uncover-4, .''-12)
+
+NYT-12-10-00/CD 1714EST/CD
+
+(ROOT
+  (FRAG
+    (NP (CD NYT-12-10-00) (CD 1714EST))))
+
+num(1714EST-2, NYT-12-10-00-1)
+root(ROOT-0, 1714EST-2)
+
