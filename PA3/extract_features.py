@@ -28,10 +28,18 @@ def clean_string(s):
 
 def get_label(line):
     """
-    For a line in the training file, return the value for coreference between
+    For a line in the training file, return the relation type between
     the mentions in that line ('yes' or 'no').
     """
     return line[0]
+
+def entity_type_pair(line):
+    """
+    Returns a string containing entity types of both mentions, a la
+    Jiang et al. 
+    """
+    print line[5] + "-" + line[11]
+    return line[5] + "-" + line[11] 
 
 
 def extract_features(lines):
@@ -44,9 +52,10 @@ def extract_features(lines):
     	if line[0] != curr_file:
             curr_file = line[1]
             print(curr_file)
-            with open(j_path + curr_file + '.raw.json', 'r') as infile:
-                sents = json.load(infile)
-        f_list = [get_label(line)]
+            #with open(j_path + curr_file + '.raw.json', 'r') as infile:
+            #    sents = json.load(infile)
+        f_list = [get_label(line),
+                 entity_type_pair(line)]
         features.append([f for f in f_list if f is not None])
     return features
 
