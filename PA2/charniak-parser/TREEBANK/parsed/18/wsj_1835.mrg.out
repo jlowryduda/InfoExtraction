@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP Denis) (NNP C.) (NNP Smith)) (VP (VBD was) (VP (VBN named) (PP (TO to) (NP (NP (DT the) (JJ new) (NN post)) (PP (IN of) (NP (NP (NN vice) (NN president)) (PP (IN of) (NP (JJ world-wide) (VBN advanced) (NNS materials) (NNS operations))) (PP (IN for) (NP (DT this) (NNS chemicals) (NN concern))))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Mr.) (NNP Smith)) (, ,) (ADJP (NP (CD 50) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (ADVP (RB formerly)) (ADJP (JJ responsible) (PP (IN for) (NP (NP (JJ advanced) (NNS materials)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP include) (NP (NP (NN plastic) (NNS composites)) (CC and) (NP (NP (NNS alloys)) (, ,) (PP (IN in) (NP (NNP North) (NNP America))))) (ADVP (RB only))))))))) (. .)))
-
-(S1 (S (NP (NNP Himont)) (VP (VBZ is) (NP (NP (NP (CD 81) (NN %)) (VP (VBN -owned) (PP (IN by) (NP (NNP Montedison) (NNP S.p) (. .) (NNP A.))))) (PP (IN of) (NP (NP (NNP Milan)) (, ,) (NP (NNP Italy)))))) (. .)))
-

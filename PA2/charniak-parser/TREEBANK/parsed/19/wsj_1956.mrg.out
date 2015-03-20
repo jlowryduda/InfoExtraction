@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP National) (NNP Patent) (NNP Development) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ plans) (S (VP (TO to) (VP (VB purchase) (NP (NP (QP (RB as) (JJ many) (IN as) (CD 200,000)) (JJ common) (NNS shares)) (PP (IN of) (NP (NP (PRP$ its) (ADJP (CD 81) (NN %)) (JJ -controlled) (NNP Interferon) (NNPS Sciences) (NNP Inc.) (NN unit)) (PP (IN in) (NP (UCP (JJ periodic) (, ,) (NN open-market)) (NNS purchases))))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (CD 200,000) (NNS shares)) (VP (VBP are) (NP (NP (QP (IN about) (CD 23)) (NN %)) (PP (IN of) (NP (NP (NP (NNP Interferon) (POS 's)) (JJ common) (NNS shares)) (ADJP (JJ outstanding)) (, ,) (PP (VBG excluding) (NP (NP (NNP National) (NNP Patent) (POS 's)) (NN stake))))))) (. .)))
-
-(S1 (S (S (VP (VBG Noting) (NP (NP (DT the) (JJ recent) (NNP Food) (CC and) (NNP Drug) (NNP Administration) (NN approval)) (PP (IN of) (NP (NP (NNP Interferon) (POS 's)) (JJ genital) (NNS warts) (NN treatment)))))) (, ,) (NP (NNP National) (NNP Patent)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ believes) (SBAR (S (NP (NP (NNP Interferon) (POS 's)) (NN stock)) (VP (VBZ is) (VP (VBN undervalued))))))))) (. .)))
-

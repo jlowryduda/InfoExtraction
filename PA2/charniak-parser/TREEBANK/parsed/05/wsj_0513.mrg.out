@@ -1,4 +1,0 @@
-(S1 (S (NP (NP (NNP Australia) (POS 's)) (NN inflation)) (VP (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB rise) (PP (ADVP (RB as) (JJ high) (PP (IN as) (NP (CD 8.3) (NN %)))) (IN in) (NP (NP (DT the) (NN quarter)) (VP (VBG ending) (NP (NNP March) (CD 30)))))))))) (, ,) (CC but) (VP (MD could) (VP (VB fall) (PP (TO to) (NP (QP (IN around) (CD 7)) (NN %))) (PP (IN by) (NP (NNP June))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NNS economists))))) (. .)))
-
-(S1 (S (NP (DT The) (NN government)) (VP (VBD said) (SBAR (S (NP (DT the) (NN consumer) (NN price) (NN index)) (VP (VP (VBD rose) (NP (CD 2.3) (NN %)) (PP (IN in) (NP (NP (DT the) (NN quarter)) (VP (VBN ended) (NP (NNP Sept.) (CD 30))))) (PP (IN from) (NP (DT the) (JJ previous) (NN quarter)))) (CC and) (VP (NP (CD 8) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RB ago)))))))) (. .)))
-

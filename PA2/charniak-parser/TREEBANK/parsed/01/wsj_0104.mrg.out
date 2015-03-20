@@ -1,4 +1,0 @@
-(S1 (S (PP (JJ Due) (TO to) (NP (DT an) (JJ editing) (NN error))) (, ,) (NP (NP (DT a) (NN letter)) (PP (TO to) (NP (DT the) (NN editor)))) (PP (IN in) (NP (NP (NP (NN yesterday) (POS 's)) (NN edition)) (PP (IN from) (NP (NNP Frederick) (NNP H.) (NNP Hallett))))) (VP (ADVP (RB mistakenly)) (VBD identified) (NP (DT the) (NNP NRDC))) (. .)))
-
-(S1 (S (NP (PRP It)) (VP (MD should) (VP (VB be) (NP (DT the) (NP (NNP Natural) (NNP Resources) (NNP Defense) (NNP Council))))) (. .)))
-

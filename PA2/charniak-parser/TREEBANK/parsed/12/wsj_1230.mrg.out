@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP Carlos) (NNP A.) (NNP Salvagni)) (, ,) (NP (NP (NN vice) (NN president)) (, ,) (NP (JJ pharmaceutical) (NN manufacturing))) (, ,)) (VP (MD will) (VP (VB assume) (NP (NP (NN responsibility)) (PP (IN for) (NP (NN manufacturing)))) (PP (IN in) (NP (NP (NNP Kalamazoo)) (, ,) (NP (NNP Mich.)))) (, ,) (ADJP (JJ effective) (NP (NNP Nov.) (CD 1))))) (. .)))
-
-(S1 (S (NP (NP (NNP Mr.) (NNP Salvagni)) (, ,) (ADJP (NP (CD 53) (NNS years)) (JJ old)) (, ,)) (VP (VBZ succeeds) (NP (NP (NNP John) (NNP C.) (NNP Griffin)) (, ,) (NP (CD 57)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBG retiring) (PP (IN as) (NP (NP (JJ corporate) (NN vice) (NN president)) (PP (IN of) (NP (JJ pharmaceutical) (NN manufacturing))))))))))) (. .)))
-
-(S1 (S (NP (NNP Upjohn)) (VP (VBZ is) (NP (NP (DT a) (JJ world-wide) (NN provider)) (PP (IN of) (NP (NP (NN health-care) (NNS products)) (CC and) (NP (NNS services) (, ,) (NNS seeds) (CC and) (NN speciality) (NNS chemicals)))))) (. .)))
-

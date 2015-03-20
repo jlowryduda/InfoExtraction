@@ -1,4 +1,0 @@
-(S1 (S (NP (NNP William) (NNP J.) (NNP Russo)) (VP (VBD was) (VP (VBN named) (S (NP (NP (JJ senior) (NN vice) (NN president)) (, ,) (NP (NP (JJ public) (NNS affairs)) (CC and) (NP (NN advertising))) (, ,) (PP (IN for) (NP (NP (DT this) (UCP (JJ financial) (CC and) (NN travel) (NNS services)) (NN concern) (POS 's)) (NNP American) (NNP Express) (NNP Bank) (NNP Ltd.) (NN subsidiary))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Mr.) (NNP Russo)) (, ,) (ADJP (NP (CD 38) (NNS years)) (JJ old)) (, ,)) (ADVP (RB previously)) (VP (VBD was) (NP (NP (JJ first) (NN vice) (NN president)) (, ,) (NP (JJ public) (NNS affairs)) (CC and) (NP (NN advertising))) (, ,) (PP (IN at) (NP (DT the) (NN banking) (NN unit)))) (. .)))
-

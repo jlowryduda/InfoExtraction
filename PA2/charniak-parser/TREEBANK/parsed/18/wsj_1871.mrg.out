@@ -1,4 +1,0 @@
-(S1 (S (NP (NNP PRINCE) (NNP HENRI)) (VP (VBZ is) (NP (NP (DT the) (NNP crown) (NNP prince)) (CC and) (NP (NP (JJ hereditary) (JJ grand) (NNP duke)) (PP (IN of) (NP (NNP Luxembourg)))))) (. .)))
-
-(S1 (S (NP (NP (DT An) (NN article)) (PP (IN in) (NP (NP (DT the) (NNP World) (NNP Business) (NNP Report)) (PP (IN of) (NP (NNP Sept.)))))) (ADVP (NP (CD 22) (NNS editions)) (RB incorrectly)) (VP (VBD referred) (PP (TO to) (NP (NP (PRP$ his) (NN father)) (, ,) (NP (NNP Grand) (NNP Duke) (NNP Jean)) (, ,))) (PP (IN as) (NP (DT the) (NNP crown) (NNP prince)))) (. .)))
-

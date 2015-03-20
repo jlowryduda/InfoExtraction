@@ -1,4 +1,0 @@
-(S1 (S (NP (JJ Finnish) (NN conglomerate) (NNP Nokia) (NNP Oy) (NNP AB)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD reached) (NP (DT an) (NN agreement) (S (VP (TO to) (VP (VB buy) (NP (NP (NNP Dutch) (NN cable) (NN company)) (NP (NNP NKF) (NNP Kabel) (NNP B.V.))) (PP (IN for) (NP (NP (QP (CD 420) (CD million)) (JJ Finnish) (NNS markka)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 99.5) (CD million))) (-RRB- -RRB-)))))))))))) (. .)))
-
-(S1 (S (NP (NNP Nokia)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB gain) (NP (NP (NN control)) (PP (IN over) (NP (NNP NKF) (NNP Kabel)))) (PP (IN by) (S (VP (VBG buying) (NP (NP (CD 51) (NN %)) (PP (IN of) (NP (NP (DT the) (NNS shares)) (PP (IN in) (NP (NP (NNP NKF) (NNP Holding) (NNP N.V.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ owns) (NP (NNP NKF) (NNP Kabel)))))))))))))))))) (. .)))
-

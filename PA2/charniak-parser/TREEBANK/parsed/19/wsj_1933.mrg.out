@@ -1,8 +1,0 @@
-(S1 (S (NP (DT The) (VBG following) (NNS issues)) (VP (VBD were) (ADVP (RB recently)) (VP (VBN filed) (PP (IN with) (NP (DT the) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission))))) (: :)))
-
-(S1 (NP (NP (NNP Health) (NNP Care) (NNP Property) (NNPS Investors) (NNP Inc.)) (, ,) (NP (NP (NN offering)) (PP (IN of) (NP (NP (CD 2,250,000) (NNS shares)) (PP (IN of) (NP (JJ common) (NN stock))))) (, ,) (PP (IN via) (NP (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNPS Markets)) (, ,) (NP (NNP Alex) (. .) (NNP Brown) (CC &) (NNPS Sons) (NNP Inc.)) (CC and) (NP (NNP Dean) (NNP Witter) (NNP Reynolds) (NNP Inc))))) (. .)))
-
-(S1 (NP (NP (NNP Union) (NNP Pacific) (NNP Corp.)) (, ,) (NP (NP (NN shelf) (NN offering)) (PP (IN of) (NP (ADJP (QP (IN up) (TO to) ($ $) (CD 500) (CD million))) (NN debt) (NNS securities) (CC and) (NNS warrants)))) (. .)))
-
-(S1 (S (NP (NP (NNP United) (NNPS Technologies) (NNP Corp.)) (, ,) (NP (NP (NN shelf) (NN offering)) (PP (IN of) (NP (QP (IN up) (TO to) ($ $) (CD 500) (CD million)))))) (VP (VBD unsubordinated) (NP (JJ non-convertible) (JJ unsecured) (NN debt) (NNS securities))) (. .)))
-

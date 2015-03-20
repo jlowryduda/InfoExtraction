@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP Basf) (NNP AG)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD moved) (NP (NP (NP (PRP$ its) (NNS headquarters)) (PP (IN for) (NP (NNP Latin) (NNP America))) (PP (TO to) (NP (NNP Mexico)))) (CC and) (NP (NP (DT the) (NN headquarters)) (PP (IN for) (NP (DT the) (NNP Asia\/Australia) (JJ regional) (NN division))))) (PP (TO to) (NP (NNP Singapore))) (, ,) (PP (JJ effective) (NP (NNP Oct))))))) (. .)))
-
-(S1 (S (NP (NP (DT The) (JJ central) (NNS offices)) (PP (IN for) (NP (DT both) (NNS regions)))) (VP (VBD were) (ADVP (RB previously)) (VP (VBN located) (PP (IN in) (NP (NP (NNP Ludwigshafen)) (, ,) (NP (NNP Basf) (NN headquarters)))))) (. .)))
-
-(S1 (S (NP (DT The) (ADJP (NNP West) (NNP German)) (NN chemical) (NN concern)) (VP (VBD called) (S (NP (DT the) (NNS moves)) (NP (NP (DT a) (JJ further) (NN step)) (PP (IN in) (NP (NP (DT the) (NN internationalization)) (PP (IN of) (NP (PRP$ its) (NN business) (NNS activities)))))))) (. .)))
-
-(S1 (S (S (NP (DT Both) (NNS regions)) (VP (VBP are) (NP (NP (DT the) (JJS fastest-growing) (NNS areas)) (PP (IN for) (NP (NNP Basf)))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
-

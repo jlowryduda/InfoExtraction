@@ -1,4 +1,0 @@
-(S1 (S (NP (NNP H&R) (NNP BLOCK) (NNP Inc.)) (VP (VBD had) (NP (NP (JJ net) (NN income)) (PP (IN of) (NP (NP (QP ($ $) (CD 100.2) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.90)) (NP (DT a) (NN share))) (, ,)))) (PP (IN in) (NP (NP (DT the) (JJ fiscal) (NN year)) (VP (VBN ended) (NP (NNP April) (CD 30)))))) (. .)))
-
-(S1 (S (NP (DT The) (NN figure)) (VP (VBD was) (VP (ADVP (RB incorrectly)) (VBN shown) (PP (IN as) (NP (NP (DT a) (JJ net) (NN loss)) (PP (IN in) (NP (NP (DT a) (NN chart)) (VP (VBG accompanying) (NP (NP (NP (NNP Friday) (POS 's)) (NNP Heard)) (PP (IN on) (NP (DT the) (NNP Street) (NN column))))))))))) (. .)))
-

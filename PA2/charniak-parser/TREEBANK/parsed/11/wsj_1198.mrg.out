@@ -1,8 +1,0 @@
-(S1 (S (NP (DT The) (NNP Treasury)) (VP (NNS plans) (S (VP (TO to) (VP (VB raise) (NP (NP (QP ($ $) (CD 1.8) (CD billion))) (PP (IN in) (NP (JJ new) (NN cash)))) (PP (IN with) (NP (NP (DT the) (NN sale)) (NP (NNP Monday)) (PP (IN of) (NP (NP (QP (RB about) ($ $) (CD 15.6) (CD billion))) (PP (IN in) (NP (JJ short-term) (NNS bills))))) (SBAR (S (VP (TO to) (VP (VB redeem) (NP (NP (QP ($ $) (CD 13.81) (CD billion))) (PP (IN in) (NP (VBG maturing) (NNS bills)))))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN offering)) (VP (MD will) (VP (VB be) (VP (VBN divided) (ADVP (RB evenly)) (PP (IN between) (NP (NP (ADJP (JJ 13-week) (CC and) (JJ 26-week)) (NNS bills)) (VP (VBG maturing) (NP (NP (NNP Feb.) (CD 1) (, ,) (CD 1990)) (, ,) (CC and) (NP (NNP May) (CD 3) (, ,) (CD 1990)) (, ,) (ADVP (RB respectively))))))))) (. .)))
-
-(S1 (S (NP (NP (NNS Tenders)) (PP (IN for) (NP (DT the) (NNS bills))) (, ,) (ADJP (JJ available) (PP (IN in) (NP (JJ minimum) (ADJP ($ $) (CD 10,000)) (NNS denominations)))) (, ,)) (VP (MD must) (VP (VB be) (VP (VBN received) (PP (IN by) (NP (CD 1) (NN p.m.) (NNP EST))) (NP (NNP Monday)) (PP (PP (IN at) (NP (DT the) (NNP Treasury))) (CC or) (PP (IN at) (NP (NNP Federal) (NNP Reserve) (NNS banks) (CC or) (NNS branches))))))) (. .)))
-
-(S1 (S (NP (DT The) (NNP Treasury)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB alter) (NP (DT the) (NNS auctions)) (SBAR (IN unless) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (NN assurance)) (PP (IN of) (NP (NP (NN enactment)) (PP (IN of) (NP (NP (NN legislation)) (SBAR (S (VP (TO to) (VP (VB raise) (NP (DT the) (JJ statutory) (NN debt) (NN limit)) (PP (IN before) (NP (DT the) (VBN scheduled) (NNS auctions))))))))))) (NP (NNP Monday))))))))))) (. .)))
-

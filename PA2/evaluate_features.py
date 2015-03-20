@@ -12,8 +12,7 @@ for line in lines:
             features.append(feature)
 
 features.sort()
-features = [f for f in features if (not f.startswith('distance=') and
-                                    f != 'yes' and f != 'no')]
+features = [f for f in features if f != 'yes' and f != 'no']
 
 def compute_precision(results):
     tp, tn, fp, fn = results

@@ -1,4 +1,0 @@
-(S1 (S (NP (NP (NNP Barbara) (NNP Hackman) (NNP Franklin)) (, ,) (NP (NP (NN president)) (PP (IN of) (NP (NNP Franklin) (NNPS Associates)))) (, ,)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (DT a) (NN director)) (PP (IN of) (NP (DT this) (NN building) (NNS products) (NN maker))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Ms.) (NNP Franklin)) (, ,) (ADJP (NP (CD 49) (NNS years)) (JJ old)) (, ,)) (VP (VBZ fills) (NP (NP (DT the) (NN position)) (VP (VBN vacated) (PP (IN by) (NP (NP (NNP Naomi) (NNP G.) (NNP Albanese)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD retired) (ADVP (RBR earlier) (NP (DT this) (NN year))) (PP (IN at) (NP (NN age) (CD 72))))))))))) (. .)))
-

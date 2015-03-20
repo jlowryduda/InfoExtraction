@@ -1,8 +1,0 @@
-(S1 (S (S (NP (DT The) (JJ Belgian) (NN consumer) (NN price) (NN index)) (VP (VP (VBD rose) (NP (DT a) (JJ provisional) (CD 0.1) (NN %)) (PP (IN in) (NP (NNP October))) (PP (IN from) (NP (DT the) (JJ previous) (NN month)))) (CC and) (VP (VBD was) (ADVP (RB up) (NP (CD 3.64) (NN %)) (PP (IN from) (NP (NNP October) (CD 1988))))))) (, ,) (NP (NP (DT the) (NNP Ministry)) (PP (IN of) (NP (NNP Economic) (NNP Affairs)))) (VP (VBD said)) (. .)))
-
-(S1 (S (NP (NP (DT The) (NN index)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ uses) (NP (NP (DT a) (NN base)) (PP (IN of) (NP (CD 1981)))) (PP (IN as) (NP (CD 100)))))) (, ,)) (VP (VBD was) (VP (VBN calculated) (PP (IN at) (NP (NP (CD 140.91) (NNS points)) (PP (IN in) (NP (NNP October))))) (, ,) (PP (PP (IN from) (NP (CD 140.74))) (PP (IN in) (NP (NNP September)))))) (. .)))
-
-(S1 (S (NP (JJ Annual) (NN inflation)) (VP (VBD rose) (PP (TO to) (NP (CD 3.64) (NN %))) (PP (IN in) (NP (NNP October))) (PP (IN from) (NP (NP (CD 3.55) (NN %)) (PP (IN in) (NP (NNP September)))))) (. .)))
-
-(S1 (S (S (NP (NP (NNP Belgium) (POS 's)) (NN inflation)) (VP (VBZ has) (VP (VBN been) (VP (VBG rising) (ADVP (RB steadily)) (PP (IN for) (NP (DT the) (JJ past) (NN year))))))) (, ,) (CC but) (S (NP (DT the) (NN ministry)) (VP (VBD said) (SBAR (S (NP (DT the) (JJS latest) (NN rise)) (VP (VBZ is) (ADJP (ADJP (JJR slower)) (PP (IN than) (NP (NP (NNS gains)) (PP (IN in) (NP (NNP September) (CC and) (NNP August))))))))))) (. .)))
-

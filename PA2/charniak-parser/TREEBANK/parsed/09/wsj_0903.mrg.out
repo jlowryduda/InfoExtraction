@@ -1,4 +1,0 @@
-(S1 (S (NP (NP (NNP PRIMERICA) (NNP Corp.)) (, ,) (NP (NNP New) (NNP York)) (, ,)) (VP (VBD raised) (NP (PRP$ its) (JJ quarterly) (CD 14) (NN %)) (PP (TO to) (NP (NP (CD eight) (NNS cents)) (NP (DT a) (NN share)))) (, ,) (PP (IN from) (NP (NP (CD seven) (NNS cents)) (, ,) (ADJP (JJ payable) (NP (NNP Nov.) (CD 24)) (PP (TO to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 6)))))))) (. .)))
-
-(S1 (S (NP (NP (DT The) (JJ financial) (NNS services) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (QP (RB about) (CD 98.8) (CD million)) (NNS shares)) (ADJP (JJ outstanding)))))) (, ,)) (VP (VBD noted) (NP (NP (PRP$ its) (`` `) (`` `) (JJ continued) (NN confidence)) (PP (IN in) (NP (NP (DT the) (JJ ongoing) (NN strength)) (PP (IN of) (NP (DT the) (NNS operations))))))) (. .)))
-

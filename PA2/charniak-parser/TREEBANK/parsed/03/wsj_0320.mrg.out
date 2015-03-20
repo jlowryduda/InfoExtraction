@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP DeSoto) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBG dismissing) (NP (CD 200) (NNS employees)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NN restructuring)) (VP (VBN aimed) (PP (IN at) (S (VP (VBG producing) (NP (NP (NN pretax) (NNS savings)) (PP (IN of) (NP (NP (QP ($ $) (CD 10) (CD million))) (ADVP (RB annually)))))))))))))))))) (. .)))
-
-(S1 (S (PP (IN Under) (NP (DT the) (NN plan))) (, ,) (NP (NNP DeSoto)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB sell) (NP (NP (JJ certain) (NNS assets)) (CC and) (NP (NP (NNS businesses)) (SBAR (WHNP (WDT that)) (S (VP (VBP do) (RB n't) (VP (VB meet) (NP (JJ strategic) (CC and) (NN profitability) (NNS objectives))))))))))))) (. .)))
-
-(S1 (S (NP (NP (DT The) (NAC (NNP Des) (NNP Plaines) (, ,) (NNP Ill.) (, ,)) (NN chemical) (NNS coatings) (NN concern)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (QP (IN about) (CD 2,000)) (NNS employees)) (ADVP (JJ world-wide))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ plans) (S (VP (TO to) (VP (VB sell) (NP (NP (PRP$ its) (JJ domestic) (JJ rigid) (NN container) (NN packaging) (CC and) (JJ flexible) (NNS adhesives) (NNS businesses)) (, ,) (CC and) (NP (PRP$ its) (NAC (NNP Chicago) (NNP Heights) (, ,) (NNP Ill.) (, ,)) (NN resin) (NN plant)))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ plans) (S (VP (TO to) (VP (VB use) (NP (DT the) (NN sale) (NNS proceeds)) (S (VP (TO to) (VP (VB invest) (PP (IN in) (NP (NP (NN business) (NNS opportunities)) (VP (ADVP (RBR more) (RB closely)) (VBN identified) (PP (IN with) (NP (NP (DT the) (NN company) (POS 's)) (`` `) (NX (`` `) (VBN refocused) (NN direction))))))))))))))))) (. .)))
-

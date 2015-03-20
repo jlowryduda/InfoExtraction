@@ -1,8 +1,0 @@
-(S1 (SBARQ (WHNP (WP WHO)) (SQ (VP (VBZ 'S) (NP (NNP NEWS)))) (: :)))
-
-(S1 (S (NP (NNP Arthur) (NNP Price)) (VP (VBD resigned) (PP (IN as) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NNP MTM) (NNPS Enterprises) (NNP Inc.)) (, ,) (NP (DT a) (NAC (NNP Studio-City) (, ,) (NNP Calif.) (, ,)) (NN entertainment) (NN concern))))))) (. .)))
-
-(S1 (S (NP (PRP He)) (VP (VBD co-founded) (NP (DT the) (NN company)) (PP (IN with) (NP (NP (NNP Grant) (NNP Tinker)) (CC and) (NP (NNP Mary) (NNP Tyler) (NNP Moore)))) (PP (IN in) (NP (CD 1969)))) (. .)))
-
-(S1 (S (NP (NNP MTM)) (VP (VBZ is) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (JJ British-based) (NNP TVS) (NNP Entertainment) (NNP PLC)) (, ,) (SBAR (WHNP (WP$ whose) (NP (NP (JJ chief) (JJ executive) (NN officer)) (, ,) (NP (NNP James) (NNP Gatward)) (, ,))) (S (VP (MD will) (VP (VB oversee) (NP (DT the) (NN company)) (SBAR (IN until) (S (NP (DT a) (NN successor)) (VP (VBZ is) (VP (VBN named))))))))))))) (. .)))
-

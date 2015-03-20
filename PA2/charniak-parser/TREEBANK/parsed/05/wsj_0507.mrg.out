@@ -1,8 +1,0 @@
-(S1 (S (NP (JJ Analog) (NNP Devices) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD may) (VP (VB purchase) (NP (NP (QP (RB as) (JJ many) (IN as) (CD one) (CD million))) (PP (IN of) (NP (PRP$ its) (JJ common) (NNS shares)))) (PP (IN over) (NP (DT the) (JJ next) (JJ several) (NNS months)))))))) (. .)))
-
-(S1 (S (NP (JJ Analog)) (ADVP (RB also)) (VP (VBD said) (SBAR (IN that) (S (NP (NP (DT a) (ADJP (QP (CD one) (CD million)) (NN share)) (NN buy-back) (NN program)) (VP (VBN announced) (PP (IN in) (NP (NNP March))))) (VP (VBZ is) (ADJP (RB substantially) (JJ complete)))))) (. .)))
-
-(S1 (S (NP (NP (DT The) (NN company)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (NP (NP (JJ integrated) (NNS circuits)) (CC and) (NP (JJ other) (JJ electronic) (NNS parts)))))) (, ,)) (ADVP (RB now)) (VP (VBZ has) (NP (NP (QP (RB about) (CD 47) (CD million)) (JJ common) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
-
-(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (NP (NN yesterday)) (, ,) (NP (JJ Analog) (NNPS Devices)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 8.875))) (, ,) (ADVP (RB up) (NP (CD 25) (NNS cents)))) (. .)))
-

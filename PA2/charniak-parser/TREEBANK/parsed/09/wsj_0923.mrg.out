@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP Kyle) (NNP Technology) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (DT a) (NNP Seattle) (NN investor)) (VP (VBZ has) (VP (VBN signed) (NP (NP (DT a) (NN letter)) (PP (IN of) (NP (NN intent) (S (VP (TO to) (VP (VB buy) (NP (DT the) (NN company)) (PP (IN for) (NP (NP (QP (RB about) ($ $) (CD 3.1) (CD million))) (, ,) (CC or) (NP (NP ($ $) (CD 1.20)) (NP (DT a) (NN share)))))))))))))))) (. .)))
-
-(S1 (SINV (S (NP (NP (DT The) (NN investor)) (, ,) (NP (NNP Donald) (NNP A.) (NNP Wright)) (, ,)) (VP (VBZ plans) (S (VP (TO to) (VP (VB run) (NP (DT the) (NN company))))))) (, ,) (VP (VBD said)) (NP (NP (DT a) (NN spokesman)) (PP (IN for) (NP (NNP Kyle)))) (. .)))
-
-(S1 (S (NP (DT The) (NN transaction)) (VP (VP (VBZ has) (VP (VBN been) (VP (VBN approved) (PP (IN by) (NP (NP (NNP Kyle) (POS 's)) (NN board)))))) (, ,) (CC but) (VP (VBZ requires) (NP (NP (DT the) (NN approval)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NNS shareholders)))))) (. .)))
-
-(S1 (S (NP (NNP Kyle)) (VP (VBZ manufactures) (NP (JJ electronic) (NNS components))) (. .)))
-

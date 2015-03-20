@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP David) (NNP Shaffer)) (VP (VBD was) (VP (VBN named) (PP (TO to) (NP (NP (DT the) (JJ new) (NN post)) (PP (IN of) (NP (NP (JJ executive) (NN vice) (NN president)) (PP (IN of) (NP (DT the) (NNP Maxwell) (NNP Macmillan) (NN group))) (PP (IN of) (NP (DT this) (NNS communications) (NN giant))))))))) (. .)))
-
-(S1 (S (NP (NNP Mr.) (NNP Shaffer)) (VP (VBZ takes) (NP (NP (JJ primary) (NN responsibility)) (PP (IN for) (NP (DT the) (JJ electronic) (CC and) (JJ technical-services) (NN group))))) (. .)))
-
-(S1 (S (NP (PRP He)) (VP (VBD had) (VP (VBN been) (NP (NP (NN group) (NN vice) (NN president)) (PP (IN of) (NP (DT the) (JJ electronic-publishing) (NN group)))))) (. .)))
-
-(S1 (S (ADVP (RB Also)) (, ,) (NP (NP (NNP Sheldon) (NNP Aboff)) (, ,) (NP (ADVP (RB formerly)) (NP (DT a) (NN vice) (NN president)) (PP (IN at) (NP (NNP Maxwell)))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN group) (NN vice) (NN president)) (PP (IN with) (NP (NP (NN responsibility)) (PP (IN for) (NP (JJ various) (UCP (JJ electronic) (CC and) (NN publishing-group)) (NNS companies))))))))) (. .)))
-

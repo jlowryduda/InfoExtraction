@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP Joe) (NNP Frank) (NNP Sanderson) (NNP Jr.)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (DT this) (JJ poultry) (NN producer))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Joe) (NNP Frank) (NNP Sanderson)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADVP (RB currently)) (NP (NP (NN chairman)) (, ,) (NP (JJ chief) (NN executive)) (CC and) (NP (NN treasurer)))))) (, ,)) (VP (MD will) (VP (VB remain) (NP (NN chairman)))) (. .)))
-
-(S1 (S (NP (NP (NP (DT The) (JJ current) (NN president)) (CC and) (NP (NN chief) (VBG operating) (NN officer))) (, ,) (NP (NNP J.) (NNP Odell) (NNP Johnson)) (, ,)) (VP (VBD was) (VP (VBN elected) (PP (TO to) (NP (NP (DT the) (JJ new) (NN position)) (PP (IN of) (NP (NP (NN vice) (NN chairman)) (PP (IN of) (NP (DT the) (NN board))))))))) (. .)))
-

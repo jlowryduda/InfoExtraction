@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP Louisiana-Pacific) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN board)) (VP (VBD authorized) (NP (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (NP (QP (RB as) (JJ many) (IN as) (CD five) (CD million))) (PP (IN of) (NP (PRP$ its) (JJ common) (NNS shares))))) (PP (IN for) (NP (NN employee) (NN stock) (NNS plans)))) (CC and) (NP (JJ other) (JJ general) (JJ corporate) (NNS purposes))))))) (. .)))
-
-(S1 (S (NP (DT The) (NNS forest-products) (NN concern)) (ADVP (RB currently)) (VP (VBZ has) (NP (NP (QP (RB about) (CD 38) (CD million)) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
-
-(S1 (S (PP (IN In) (NP (NP (NN yesterday) (POS 's)) (JJ composite) (NN trading))) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))) (, ,) (NP (NNP Louisiana-Pacific) (NNS shares)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 39.25))) (, ,) (ADVP (RB down) (NP (CD 37.5) (NNS cents)))) (. .)))
-

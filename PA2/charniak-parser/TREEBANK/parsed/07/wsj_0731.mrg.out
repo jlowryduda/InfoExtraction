@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP Mark) (NNP Q.) (NNP Huggins)) (VP (VBD was) (VP (VBN named) (S (NP (NP (JJ executive) (NN vice) (NN president)) (CC and) (NP (JJ chief) (JJ financial) (NN officer)))))) (. .)))
-
-(S1 (S (NP (NP (NNP Mr.) (NNP Huggins)) (, ,) (ADJP (NP (CD 39) (NNS years)) (JJ old)) (, ,)) (ADVP (RB formerly)) (VP (VBD was) (NP (NP (NN controller) (CC and) (NN chief) (VBG accounting) (NN officer)) (PP (IN at) (NP (NNP Harte-Hanks) (NNP Communications) (NNP Inc))))) (. .)))
-
-(S1 (S (NP (NNP Management) (NNP Co.)) (VP (VBZ manages) (NP (NNS entertainers) (CC and) (VBZ produces) (, ,) (NP (NNS markets)) (CC and) (NP (NNS finances) (NN entertainment)))) (. .)))
-

@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP Texas) (NNP Instruments) (NNP Japan) (NNP Ltd.)) (, ,) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NNP Texas) (NNPS Instruments) (NNP Inc.)))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD opened) (NP (NP (DT a) (NN plant)) (PP (IN in) (NP (NNP South) (NNP Korea))) (SBAR (S (VP (TO to) (VP (VB manufacture) (NP (NN control) (NNS devices))))))))))) (. .)))
-
-(S1 (S (S (NP (NP (DT The) (JJ new) (NN plant)) (, ,) (VP (VBN located) (PP (IN in) (NP (NNP Chinchon))) (PP (IN about) (NP (NP (CD 60) (NNS miles)) (PP (IN from) (NP (NNP Seoul)))))) (, ,)) (VP (MD will) (VP (VB help) (S (VP (VB meet) (NP (NP (VBG increasing) (CC and) (VBG diversifying) (NN demand)) (PP (IN for) (NP (NN control) (NNS products)))) (PP (IN in) (NP (NNP South) (NNP Korea)))))))) (, ,) (NP (DT the) (NN company)) (VP (VBD said)) (. .)))
-
-(S1 (S (NP (DT The) (NN plant)) (VP (MD will) (VP (VB produce) (NP (NP (NN control) (NNS devices)) (VP (VBN used) (PP (IN in) (NP (NP (NN motor) (NNS vehicles)) (CC and) (NP (NN household) (NNS appliances)))))))) (. .)))
-

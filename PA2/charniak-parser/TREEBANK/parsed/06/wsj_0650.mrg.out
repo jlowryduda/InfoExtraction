@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP Sun) (NNPS Microsystems) (NNP Inc.)) (, ,) (NP (DT a) (NN computer) (NN maker)) (, ,)) (VP (VBD announced) (NP (NP (DT the) (NN effectiveness)) (PP (IN of) (NP (NP (PRP$ its) (NN registration) (NN statement)) (PP (IN for) (NP (NP (QP ($ $) (CD 125) (CD million))) (PP (IN of) (NP (NP (ADJP (QP (CD 6) (CD 3\/8)) (NN %)) (JJ convertible) (VBN subordinated) (NNS debentures)) (ADJP (JJ due) (NP (NNP Oct.) (CD 15) (, ,) (CD 1999))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (DT the) (NNS debentures)) (VP (VP (VBP are) (VP (VBG being) (VP (VBN issued) (PP (IN at) (NP (NP (DT an) (NN issue) (NN price)) (PP (IN of) (NP ($ $) (CD 849))))) (PP (IN for) (NP (DT each) (ADJP ($ $) (CD 1,000)) (NN principal) (NN amount)))))) (CC and) (VP (VBP are) (ADJP (JJ convertible) (PP (IN at) (NP (NP (DT any) (NN time)) (ADVP (RB prior) (PP (TO to) (NP (NN maturity)))))) (PP (IN at) (NP (NP (DT a) (NN conversion) (NN price)) (PP (IN of) (NP (NP ($ $) (CD 25)) (NP (DT a) (NN share)))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NNS debentures)) (VP (VBP are) (ADJP (JJ available)) (PP (IN through) (NP (NNP Goldman) (, ,) (NNP Sachs) (CC &) (NNP Co)))) (. .)))
-

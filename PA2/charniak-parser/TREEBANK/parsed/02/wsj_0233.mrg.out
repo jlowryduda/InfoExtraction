@@ -1,8 +1,0 @@
-(S1 (S (S (NP (NP (NP (NNP Japan) (POS 's)) (NN index)) (PP (IN of) (NP (VBG leading) (NNS indicators)))) (VP (VBD rose) (PP (TO to) (NP (CD 63.6))) (PP (IN in) (NP (NNP August))) (, ,) (PP (IN above) (NP (NP (DT the) (JJ so-called) (JJ boom-or-bust) (NN line)) (PP (IN of) (NP (CD 50))))) (PP (IN for) (NP (NP (DT the) (JJ first) (NN time)) (PP (IN since) (NP (NNP May))))))) (, ,) (NP (DT the) (NNP Economic) (NNP Planning) (NNP Agency)) (VP (VBD said)) (. .)))
-
-(S1 (S (NP (DT The) (VBG leading) (NN index)) (VP (VBD recovered) (PP (IN from) (NP (NP (NP (NNP July) (POS 's)) (VBN revised) (NN level)) (PP (IN of) (NP (CD 36.6))))) (PP (IN on) (NP (NP (JJ strong) (NNS performances)) (PP (IN in) (NP (NP (NN consumer) (NNS durables)) (CC and) (NP (NN machinery) (NNS orders)))))) (, ,) (PP (IN among) (NP (JJ other) (NNS factors))) (, ,) (PP (VBG according) (PP (TO to) (NP (DT an) (NN agency) (NN spokeswoman))))) (. .)))
-
-(S1 (S (NP (DT The) (NN index)) (VP (VBZ is) (VP (VBN intended) (S (VP (TO to) (VP (VB measure) (NP (JJ future) (JJ economic) (NN performance))))))) (. .)))
-
-(S1 (S (S (NP (NP (DT A) (NN figure)) (PP (IN above) (NP (CD 50)))) (VP (VBZ indicates) (SBAR (S (NP (DT the) (NN economy)) (VP (VBZ is) (ADJP (JJ likely) (S (VP (TO to) (VP (VB expand)))))))))) (: ;) (S (NP (NP (CD one)) (PP (IN below) (NP (CD 50)))) (VP (VBZ indicates) (SBAR (S (NP (DT a) (NN contraction)) (VP (MD may) (VP (VB be) (ADVP (RB ahead)))))))) (. .)))
-

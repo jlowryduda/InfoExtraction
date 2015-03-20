@@ -1,4 +1,0 @@
-(S1 (S (NP (NNP American) (NNP Telephone) (CC &) (NNP Telegraph) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB lay) (PRT (RP off)) (NP (QP (CD 75) (TO to) (CD 85)) (NNS technicians)) (ADVP (RB here)) (, ,) (S (ADJP (JJ effective) (NP (NNP Nov.) (CD 1))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NNS workers)) (VP (VB install) (, ,) (VB maintain) (CC and) (VB repair) (NP (NP (PRP$ its) (JJ private) (NN branch) (NNS exchanges)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (JJ large) (JJ intracompany) (NN telephone) (NNS networks))))))) (. .)))
-

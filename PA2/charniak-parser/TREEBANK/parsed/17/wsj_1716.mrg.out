@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP Anglo) (NNP American) (NNP Corp.)) (PP (IN of) (NP (NNP South) (NNP Africa)))) (NP (NNP Ltd.)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (JJ third-quarter) (JJ combined) (NN profit)) (PP (IN of) (NP (PRP$ its) (CD six) (JJ gold) (NNS mines)))) (VP (VBD dropped) (NP (CD 8.5) (NN %)) (PP (IN from) (NP (DT the) (JJ previous) (NN quarter))))))) (. .)))
-
-(S1 (S (NP (JJ Total) (JJ net) (NN income)) (VP (VBD fell) (PP (TO to) (NP (NP (QP (CD 471.6) (CD million)) (NNS rand)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 178.0) (CD million))) (-RRB- -RRB-)))) (PP (IN from) (NP (NP (QP (CD 515.4) (CD million)) (NNS rand)) (PP (IN in) (NP (DT the) (NNP June) (NN quarter)))))) (. .)))
-
-(S1 (S (NP (NP (JJ Total) (NN gold) (NN production)) (PP (IN by) (NP (DT all) (CD six) (NNS mines)))) (VP (VBD rose) (NP (CD 4) (NN %)) (PP (TO to) (NP (CD 63,971) (NNS kilograms))) (PP (IN from) (NP (NP (CD 61,493) (NNS kilograms)) (PP (IN in) (NP (DT the) (JJ previous) (NN quarter)))))) (. .)))
-

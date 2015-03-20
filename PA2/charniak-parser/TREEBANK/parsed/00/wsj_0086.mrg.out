@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP SHAREDATA) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB amend) (NP (NP (DT a) (NN registration) (NN statement)) (VP (VBN filed) (PP (IN with) (NP (DT the) (NNPS Securities) (CC and) (NNP Exchange) (NNP Commission))))) (S (VP (TO to) (VP (VB delete) (NP (DT a) (NN plan) (S (VP (TO to) (VP (VB sell) (NP (CD 500,000) (ADJP (RB newly) (VBN issued)) (JJ common) (NNS shares)))))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NAC (NNP Chandler) (, ,) (NNP Ariz.) (, ,)) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB resubmit) (NP (DT the) (NN registration) (S (VP (TO to) (VP (VB cover) (NP (NP (RB only) (DT the) (QP (CD 2.3) (CD million)) (NNS warrants)) (, ,) (NP (NP (DT each)) (ADJP (JJ exercisable) (PP (IN for) (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (CD one) (JJ common) (NN share))))))))))))))))) (. .)))
-
-(S1 (S (ADVP (RB Currently)) (, ,) (NP (NNP ShareData)) (VP (VBZ has) (NP (NP (QP (RB about) (CD 4.1) (CD million)) (JJ common) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
-
-(S1 (S (NP (NNP ShareData)) (VP (VBZ develops) (CC and) (VBZ markets) (NP (JJ low-cost) (NN software) (, ,) (JJ peripheral) (NN equipment) (CC and) (NNS accessories)) (PP (IN for) (NP (NNS computers)))) (. .)))
-

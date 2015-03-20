@@ -1,4 +1,0 @@
-(S1 (NP (NP (NNP INGERSOLL-RAND) (NNP Co) (. .)) (PRN (-LRB- -LRB-) (NP (NP (NNP Woodcliff) (NNP Lake)) (, ,) (NP (NNP N.J) (. .))) (-RRB- -RRB-)) (: --)))
-
-(S1 (S (NP (NP (NNP William) (NNP G.) (NNP Kuhns)) (, ,) (NP (NP (NP (JJ former) (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NNP General) (NNP Public) (NNP Utilities) (NNP Corp.)))) (, ,)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (DT a) (NN director)) (PP (IN of) (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (UCP (JJ industrial) (CC and) (NN construction)) (NN equipment))))))) (, ,) (S (VP (VBG increasing) (NP (NN board) (NN membership)) (PP (TO to) (NP (CD 10))))))) (. .)))
-

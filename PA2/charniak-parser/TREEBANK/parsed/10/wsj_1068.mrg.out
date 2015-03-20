@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP Kennametal) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ intends) (S (VP (TO to) (VP (VB acquire) (NP (NNP J&L) (NNP America) (NNP Inc.)) (PP (IN for) (NP (NP (QP ($ $) (CD 44) (CD million))) (CC plus) (NP (NP (DT a) (NN consideration)) (PP (IN of) (NP (NP (RB as) (JJ much)) (PP (IN as) (NP (NP (DT an) (JJ additional) (QP ($ $) (CD 12) (CD million))) (, ,) (ADVP (JJ payable) (PP (IN over) (NP (CD five) (NNS years)))))))))))))))))) (. .)))
-
-(S1 (S (NP (NNP Kennametal)) (VP (VBZ is) (NP (DT a) (ADJP (JJ carbide-products) (CC and) (JJ cutting-tools)) (NN company))) (. .)))
-
-(S1 (S (NP (NP (NNP J&L)) (, ,) (SBAR (WHNP (WP$ whose) (JJ principal) (NNS offices)) (S (VP (VBP are) (PP (IN in) (NP (NNP Detroit)))))) (, ,)) (VP (VBZ is) (NP (NP (DT a) (JJ mail-order) (NN distributer)) (PP (IN of) (NP (JJ industrial) (NNS tools) (CC and) (NNS supplies))))) (. .)))
-
-(S1 (S (NP (DT The) (NN acquisition)) (VP (VBZ is) (ADJP (JJ subject) (PP (TO to) (NP (NP (NN approval)) (PP (IN by) (NP (NP (NNP Kennametal) (POS 's)) (NN board))))))) (. .)))
-

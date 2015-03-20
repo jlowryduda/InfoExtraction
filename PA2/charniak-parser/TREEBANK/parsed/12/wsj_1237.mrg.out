@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP Birtcher) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD signed) (NP (NP (DT a) (JJ definitive) (NN agreement)) (PP (IN with) (NP (NP (NNP C.R.) (NNP Bard) (NNP Inc.)) (, ,) (NP (NP (DT a) (NAC (NNP Murray) (NNP Hill) (, ,) (NNP N.J.) (, ,)) (NN maker)) (PP (IN of) (NP (NN health-care) (NNS products)))) (, ,)))) (PP (IN for) (NP (NP (DT the) (NN purchase)) (PP (IN of) (NP (NP (DT the) (NN company) (POS 's)) (NNP Bard\/EMS) (NNP Electrosurgery) (NN division))))) (PP (IN for) (NP (QP (RB about) ($ $) (CD 11) (CD million)))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Birtcher)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (JJ electronic) (JJ medical) (NN equipment)))) (, ,)) (VP (VBD said) (SBAR (S (NP (DT the) (NN transaction)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB close) (PP (IN on) (CC or) (IN before) (NP (NNP Nov.) (CD 30))))))))))) (. .)))
-
-(S1 (S (S (NP (NNS Bard\/EMS)) (VP (VBD had) (NP (NP (CD 1988) (NNS sales)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 14) (CD million))))))) (, ,) (NP (NNP Birtcher)) (VP (VBD said)) (. .)))
-

@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP Trinova) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB resume) (VP (VBG buying) (ADVP (RB back)) (NP (NP (QP (RB as) (JJ many) (IN as) (CD three) (CD million))) (PP (IN of) (NP (PRP$ its) (JJ common) (NNS shares)))) (PP (IN under) (NP (NP (DT a) (NN program)) (VP (VBD announced) (ADVP (NP (CD two) (NNS years)) (RB ago))))))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Trinova)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (QP (CD 34.2) (CD million)) (JJ common) (NNS shares)) (ADJP (JJ outstanding) (NP (NNP Sept.) (CD 30))))))) (, ,)) (VP (VBD had) (VP (VBD repurchased) (NP (CD 29,700) (NNS shares)) (PP (IN since) (NP (NNP October) (CD 1987))) (PP (IN before) (NP (DT this) (JJS latest) (NN announcement))))) (. .)))
-
-(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (RB n't) (VP (VBG making) (NP (DT a) (NN commitment) (S (VP (TO to) (VP (VB purchase) (NP (NP (DT a) (JJ specific) (NN number)) (PP (IN of) (NP (NNS shares))))))))))))) (. .)))
-
-(S1 (S (PP (IN In) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))) (NP (NN yesterday)) (, ,) (NP (NNP Trinova)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 32.125))) (, ,) (ADVP (RB up) (NP (CD 12.5) (NNS cents)))) (. .)))
-

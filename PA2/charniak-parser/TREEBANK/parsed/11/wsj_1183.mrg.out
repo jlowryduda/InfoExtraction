@@ -1,8 +1,0 @@
-(S1 (S (NP (NP (NNP ALBERTA) (NNP ENERGY) (NNP Co.)) (, ,) (NP (NNP Calgary)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD filed) (NP (NP (DT a) (JJ preliminary) (NN prospectus)) (PP (IN for) (NP (NP (DT an) (NN offering)) (PP (IN of) (NP (JJ common) (NNS shares)))))))))) (. .)))
-
-(S1 (S (NP (DT The) (JJ natural) (NNS resources) (NN development) (NN concern)) (VP (VBD said) (SBAR (S (NP (NNS proceeds)) (VP (MD will) (VP (VB be) (VP (VBN used) (S (VP (TO to) (VP (VB repay) (NP (NP (JJ long-term) (NN debt)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD stood) (PP (IN at) (NP (NP (QP (CD 598) (CD million)) (JJ Canadian) (NNS dollars)) (PRN (-LRB- -LRB-) (NP (NNP US) (QP ($ $) (CD 510.6) (CD million))) (-RRB- -RRB-)))) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (CD 1988)))))))))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN company)) (VP (VBZ plans) (S (VP (TO to) (VP (VB raise) (PP (IN between) (NP (NP (NP (NNP C)) (ADJP (QP ($ $) (CD 75) (CD million)))) (CC and) (NP (NNP C)))) (PP (NP (QP ($ $) (CD 100) (CD million))) (IN from) (NP (DT the) (NN offering))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (DT a) (NN spokeswoman)) (PP (IN at) (NP (NP (NNP Richardson) (NNP Greenshields)) (PP (IN of) (NP (NP (NNP Canada) (NNP Ltd.)) (, ,) (NP (JJ lead) (NN underwriter))))))))))))) (. .)))
-
-(S1 (S (S (NP (DT The) (NNS shares)) (VP (MD will) (VP (VB be) (VP (VBN priced) (PP (IN in) (NP (JJ early) (NNP November))))))) (, ,) (NP (PRP she)) (VP (VBD said)) (. .)))
-

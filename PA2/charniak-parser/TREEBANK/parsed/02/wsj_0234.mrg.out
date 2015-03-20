@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP Metromedia) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NNP Metromedia) (NNP Long) (NN Distance) (NN unit)) (VP (VBZ has) (VP (VBN been) (VP (VBN renamed) (NP (NNP Metromedia-ITT) (JJ Long) (NN Distance)) (, ,) (S (VP (VBG reflecting) (NP (NP (NNS acquisitions)) (PP (IN from) (NP (NP (NNP ITT) (NNP Corp.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ licenses) (NP (PRP$ its) (NN name)) (PP (TO to) (NP (ADJP (RB closely) (VBN held)) (NNP Metromedia))))))))))))))))) (. .)))
-
-(S1 (S (NP (NNP Metromedia)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN unit)) (VP (VBZ is) (NP (NP (DT the) (JJ fifth-largest) (NN provider)) (PP (IN of) (NP (JJ long-distance) (NN communications) (NN service)))) (PP (IN in) (NP (DT the) (NNP U.S.))) (, ,) (SBAR (IN with) (S (VP (VBD projected) (NP (NP (CD 1989) (NN revenue)) (PP (IN of) (NP (QP (JJR more) (IN than) ($ $) (CD 550) (CD million)))))))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Metromedia)) (, ,) (VP (VBN headed) (PP (IN by) (NP (NNP John) (NNP W.) (NNP Kluge)))) (, ,)) (VP (VBZ has) (NP (NP (NNS interests)) (PP (IN in) (NP (NP (NNS telecommunications)) (, ,) (NP (JJ robotic) (NN painting)) (, ,) (NP (NN computer) (NN software)) (, ,) (NP (NNS restaurants)) (CC and) (NP (NN entertainment)))))) (. .)))
-

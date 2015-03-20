@@ -1,4 +1,0 @@
-(S1 (S (NP (DT THE) (NNP FINANCIAL) (NNP ACCOUNTING) (NNPS STANDARDS) (NNP BOARD)) (VP (VBZ 'S) (NP (VBG coming) (NN rule) (SBAR (IN on) (S (NP (NP (NN disclosure)) (VP (VBG involving) (NP (JJ financial) (NNS instruments)))) (VP (MD will) (VP (VB be) (ADJP (JJ effective) (PP (IN for) (NP (JJ financial) (NNS statements)))) (PP (IN with) (NP (NP (JJ fiscal) (NNS years)) (VP (VBG ending) (PP (IN after) (NP (NNP June) (CD 15) (, ,) (CD 1990)))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN date)) (VP (VBD was) (VP (VBN misstated) (PP (IN in) (NP (NP (NNP Friday) (POS 's)) (NN edition))))) (. .)))
-

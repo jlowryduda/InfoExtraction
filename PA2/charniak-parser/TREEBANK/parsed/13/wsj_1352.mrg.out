@@ -1,8 +1,0 @@
-(S1 (S (NP (NP (NNP LDI) (NNP Corp.)) (, ,) (NP (NNP Cleveland)) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB offer) (NP (NP (QP ($ $) (CD 50) (CD million))) (PP (IN in) (NP (NP (JJ commercial) (NN paper)) (VP (VBN backed) (PP (IN by) (NP (JJ lease-rental) (NN receivables)))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN program)) (VP (VBZ matches) (NP (NP (NNS funds)) (VP (VBN raised) (PP (IN from) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (NP (DT the) (JJ commercial) (NN paper)) (PP (IN with) (NP (ADJP (JJ small) (TO to) (JJ medium-sized)) (NNS leases)))))))))) (. .)))
-
-(S1 (S (NP (NNP LDI)) (VP (VBD termed) (S (NP (NP (DT the) (NN paper)) (`` `) (NX (`` `) (NX (JJ non-recourse) (NN financing)) (, ,) ('' ')) ('' ')) (VP (NN meaning) (SBAR (IN that) (S (NP (NNS investors)) (VP (MD would) (VP (VB be) (VP (VBN repaid) (PP (PP (IN from) (NP (DT the) (NN lease) (NN receivables))) (, ,) (PP (RB rather) (IN than) (PP (ADVP (RB directly)) (IN by) (NP (NNP LDI) (NNP Corp))))))))))))) (. .)))
-
-(S1 (S (NP (NNP LDI)) (VP (VBZ leases) (CC and) (VBZ sells) (NP (NN data-processing) (, ,) (NN telecommunications) (CC and) (JJ other) (NN high-tech) (NN equipment))) (. .)))
-

@@ -1,9 +1,0 @@
-#!/bin/sh
-
-WSJDIR=/home/verbs/shared/corpora/wsj-old
-
-#train
-../TRAIN/allScript En ../DATA/EN/ "$WSJDIR/00/*.mrg" "$WSJDIR/01/wsj_0101.mrg"
-
-#parse
-../PARSE/parseIt ../DATA/EN/ ../sample-sentences

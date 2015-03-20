@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP CRI) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD reduced) (NP (NP (DT the) (VBN estimated) (NN cash) (NN distribution)) (PP (IN for) (NP (PRP$ its) (NNP Capital) (NNP Housing) (CC and) (NNP Mortgage) (NNP Partners) (NNP Inc.) (NN trust)))) (PP (TO to) (NP (NP (QP (IN between) (CD 71) (NNS cents) (CC and) (CD 74) (NNS cents))) (NP (DT a) (NN share)))) (, ,) (PP (IN from) (NP (NP (NP (IN between) (CD 75) (NNS cents)) (CC and) (NP (CD 80) (NNS cents))) (, ,) (PP (IN for) (NP (NP (DT the) (NN year)) (VP (VBG ending) (NP (NNP June) (CD 9) (, ,) (CD 1990))))))))))) (. .)))
-
-(S1 (SINV (S (NP (NP (DT The) (NN change)) (PP (IN in) (NP (NP (JJ expected) (NN cash) (NNS distributions)) (PP (IN from) (NP (NP (DT the) (NNS Champs)) (JJ real) (NN estate) (NN investment) (NN trust)))))) (VP (VBZ stems) (PP (IN from) (NP (NP (DT a) (JJ revised) (NN estimate)) (PP (IN of) (NP (JJ administrative) (NNS costs))))))) (, ,) (VP (VBD said)) (NP (NP (NNP Jay) (NNP R.) (NNP Cohen)) (, ,) (NP (NP (NNS Champs)) (JJ executive) (NN vice) (NN president))) (. .)))
-
-(S1 (S (NP (NP (NNP CRI)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ sponsors) (NP (NNS Champs))))) (, ,)) (VP (VBZ is) (NP (DT a) (JJ world-wide) (JJ real) (NN estate) (NN investment) (NN firm))) (. .)))
-

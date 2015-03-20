@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP NORTH) (JJ SIDE) (NNS SAVINGS) (NN BANK) (NNS directors)) (VP (VBD declared) (NP (NP (DT an) (JJ initial) (NN dividend)) (PP (IN of) (NP (NP (CD 10) (NNS cents)) (NP (DT a) (NN share)))) (, ,) (ADJP (JJ payable) (NP (NNP Dec.) (CD 5)) (PP (TO to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 21))))))) (. .)))
-
-(S1 (S (S (NP (DT The) (JJ Floral) (NAC (NNP Park) (, ,) (NNP N.Y.) (, ,)) (NN thrift)) (VP (VBZ has) (NP (DT a) (JJ strong) (JJ capital-to-assets) (NN ratio)))) (, ,) (VP (VBD said) (SBAR (S (NP (NNP Vice) (NNP President) (NNP Michael) (NNP D.N.)) (VP (VB Confer))))) (. .)))
-
-(S1 (S (PP (IN At) (NP (NNP Sept.) (CD 30))) (, ,) (NP (NP (DT the) (NN thrift)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD converted) (PP (TO to) (NP (NP (DT a) (NN stock) (NN form)) (PP (IN of) (NP (NN ownership))))) (PP (IN from) (NP (NP (DT a) (JJ mutual) (NN form)) (PP (IN in) (NP (NNP April) (CD 1986)))))))) (, ,)) (VP (VBD had) (NP (NP (QP (JJR more) (IN than) (CD four) (CD million)) (NNS shares)) (ADJP (JJ outstanding)))) (. .)))
-

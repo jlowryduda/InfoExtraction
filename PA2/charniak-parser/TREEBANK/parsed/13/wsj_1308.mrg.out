@@ -1,8 +1,0 @@
-(S1 (S (NP (PRP We)) (VP (VBP 've) (VP (VBN heard) (S (S (NP (NP (NNP California) (POS 's)) (JJ property-tax-cutting) (NNP Proposition) (CD 13)) (VP (VBN blamed) (PP (IN for) (NP (NP (DT a) (NN lot)) (PP (IN over) (NP (DT the) (NNS years))))))) (, ,) (CC but) (S (NP (NP (NNP ABC) (POS 's)) (NNP Ted) (NNP Koppel)) (VP (VBD came) (PRT (RP up)) (PP (IN with) (NP (DT a) (JJ new) (NN wrinkle))) (PP (IN in) (NP (PRP$ his) (NN earthquake) (NN coverage))) (NP (JJ last) (NN week)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD asked) (NP (NNP Democratic) (NNP Assemblyman) (NNP Richard) (NNP Katz)) (SBAR (IN if) (S (NP (NNP Prop.) (CD 13)) (VP (VBD had) (VP (VBN withheld) (NP (NN money)) (SBAR (S (VP (VBN needed) (PP (IN for) (NP (NN road) (NN maintenance)))))))))))))))))) (. .)))
-
-(S1 (S (NP (NNP Mr.) (NNP Katz)) (ADVP (RB happily)) (VP (VBD agreed) (, ,) (S (VP (VBG sliding) (PP (IN over) (NP (DT the) (NN fact) (SBAR (IN that) (S (NP (NP (NNP California) (POS 's)) (NNS roads) (CC and) (NNS bridges)) (VP (VBP are) (RB n't) (VP (JJ funded) (PP (PP (IN by) (NP (NN property) (NNS taxes))) (CC but) (PP (IN by) (NP (NN state) (CC and) (JJ federal) (NN gasoline) (NNS taxes))))))))))))) (. .)))
-
-(S1 (S (NP (DT Both)) (VP (VBP have) (VP (VBN been) (VP (VBN raised) (NP (QP (IN at) (JJS least) (CD 30)) (NN %)) (PP (IN in) (NP (JJ recent) (NNS years))) (, ,) (SBAR (RB even) (IN while) (S (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NN gasoline)))) (VP (VBZ has) (VP (VBN fallen)))))))) (. .)))
-
-(S1 (SINV (VP (VBG Dragging) (NP (NNP Prop.) (CD 13)) (PP (IN into) (NP (DT this) (NN story)))) (VP (VBZ is)) (NP (DT a) (ADJP (RB pretty) (JJ long)) (NN stretch)) (. .)))
-

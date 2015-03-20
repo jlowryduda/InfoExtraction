@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP McDermott) (NNP International) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NNP Babcock) (CC &) (NNP Wilcox) (NN unit)) (VP (VBD completed) (NP (NP (DT the) (NN sale)) (PP (IN of) (NP (PRP$ its) (NNP Bailey) (NNP Controls) (NNP Operations))) (PP (TO to) (NP (NNP Finmeccanica) (NNP S.p) (. .) (NNP A.)))) (PP (IN for) (NP (QP ($ $) (CD 295) (CD million)))))))) (. .)))
-
-(S1 (S (NP (NNP Finmeccanica)) (VP (VBZ is) (NP (NP (DT an) (JJ Italian) (JJ state-owned) (NN holding) (NN company)) (PP (IN with) (NP (NP (NNS interests)) (PP (IN in) (NP (DT the) (JJ mechanical) (NN engineering) (NN industry))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Bailey) (NNP Controls)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Wickliffe)) (, ,) (NP (NNP Ohio))))) (, ,)) (VP (VBZ makes) (NP (VBN computerized) (JJ industrial) (NNS controls) (NNS systems))) (. .)))
-
-(S1 (S (NP (PRP It)) (VP (VP (VBZ employs) (NP (CD 2,700) (NNS people))) (CC and) (VP (VBZ has) (NP (NP (JJ annual) (NN revenue)) (PP (IN of) (NP (QP (RB about) ($ $) (CD 370) (CD million))))))) (. .)))
-

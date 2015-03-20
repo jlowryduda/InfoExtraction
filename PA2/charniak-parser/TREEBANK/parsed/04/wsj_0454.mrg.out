@@ -1,4 +1,0 @@
-(S1 (NP (NNP RADIO) (: :)))
-
-(S1 (S (NP (NNP Viacom) (NNP Broadcasting) (NNP Inc.)) (ADVP (RB definitively)) (VP (VBD agreed) (S (VP (TO to) (VP (VB acquire) (NP (JJ KOFY) (PRN (-LRB- -LRB-) (NP (NNP AM)) (-RRB- -RRB-)) (CC and) (NNP KOFY-FM)) (PP (IN in) (NP (NNP San) (NNP Francisco))) (PP (IN for) (NP (NP (QP (RB about) ($ $) (CD 19.5) (CD million))) (PP (IN from) (NP (NNP Pacific) (NNP FM) (NNP Inc))))))))) (. .)))
-

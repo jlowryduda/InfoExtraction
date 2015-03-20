@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNS People) (POS 's)) (NNPS Savings) (NNP Financial) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB buy) (PRT (RP back)) (NP (NP (QP (RB as) (JJ much) (IN as) (CD 10)) (NN %)) (PP (IN of) (NP (NP (PRP$ its) (QP (CD 2.4) (CD million)) (NNS shares)) (ADJP (JJ outstanding))))) (SBAR (IN because) (S (NP (DT the) (NN stock)) (VP (VBZ is) (ADJP (JJ undervalued)))))))))) (. .)))
-
-(S1 (S (NP (DT The) (VBG holding) (NN company)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (ADJP (`` `) (ADJP (`` `) (RB unfairly) (JJ associated) ('' ')) ('' ') (PP (IN with) (NP (NP (JJ other) (NNS banks)) (PP (IN in) (NP (NNP New) (NNP England))) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN had) (NP (JJ major) (NN loan) (NNS losses)) (PP (IN in) (NP (JJ recent) (NNS quarters))))))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN company)) (VP (VBD said) (SBAR (S (NP (NP (PRP$ its) (NNS People) (POS 's)) (NNP Savings) (NNP Bank) (NN unit)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (NP (DT a) (`` `) (`` `) (JJ large) (NN exposure)) (PP (TO to) (NP (NP (UCP (NN construction) (CC and) (JJ commercial)) (NNS loans)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN caused) (NP (NP (DT the) (JJ loan-loss) (NNS problems)) (PP (IN in) (NP (NP (JJ many)) (PP (IN of) (NP (DT the) (NNS banks)))))))))))))))))) (. .)))
-

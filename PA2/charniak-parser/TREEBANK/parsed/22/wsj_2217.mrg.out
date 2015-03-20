@@ -1,4 +1,0 @@
-(S1 (NP (NP (NP (NNP Bear) (NNP Stearns) (POS 's)) (JJ chief) (NN economist)) (, ,) (NP (NP (NNP Lawrence) (NNP Kudlow)) (, ,) (PP (IN in) (NP (NP (DT the) (NNP Sept.) (CD 29) (NN issue)) (PP (IN of) (NP (NP (DT the) (NN firm) (POS 's)) (NNP Global) (NNP Spectator)))))) (: :)))
-
-(S1 (SQ (VBD Were) (NP (PRP it)) (ADJP (ADJP (JJ true)) (SBAR (IN that) (S (NP (DT a) (JJ weak) (NN currency)) (VP (VBZ paves) (NP (NP (DT the) (NN way)) (PP (PP (IN for) (NP (NN trade) (NNS surpluses))) (, ,) (RB then) (ADVP (RB presumably))) (SBAR (S (NP (NNP Argentina)) (VP (MD would) (VP (VB be) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (NP (NN today) (POS 's)) (JJ global) (NN economy))))))))))))) (. .)))
-

@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP Enserch) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NP (QP (RB about) (CD 12) (CD million))) (, ,) (CC or) (NP (CD 93) (NN %)) (, ,) (PP (IN of) (NP (NP (NP (DT the) (ADJP (RB publicly) (VBN traded)) (NNS units)) (PP (IN of) (NP (PRP$ its) (JJ limited) (NN partnership)))) (, ,) (NP (NNP Enserch) (NNP Exploration) (NNPS Partners) (NNP Ltd.)))) (, ,)) (VP (VBD were) (VP (VBN tendered) (PP (IN in) (NP (NP (NN response)) (PP (TO to) (NP (NP (DT an) (NN offer)) (SBAR (WHNP (WDT that)) (S (VP (VBD expired) (NP (NNP Monday)))))))))))))) (. .)))
-
-(S1 (S (NP (NNP Enserch)) (VP (VBD said) (SBAR (S (NP (DT the) (VBN tendered) (NNS units)) (VP (MD will) (VP (VB raise) (NP (NP (PRP$ its) (NN ownership)) (PP (IN of) (NP (DT the) (NN partnership)))) (PP (TO to) (NP (QP (JJR more) (IN than) (CD 99)) (NN %))) (PP (IN from) (NP (CD 87) (NN %)))))))) (. .)))
-
-(S1 (S (S (NP (IN About) (CD 900,000) (NNS units)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB be) (VP (ADVP (RB publicly)) (VBN traded) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))))))))) (, ,) (NP (NNP Enserch)) (VP (VBD said)) (. .)))
-
-(S1 (S (NP (NNP Enserch)) (VP (VBD had) (VP (VBN offered) (NP (NP (JJ one-half) (DT a) (NN share)) (PP (IN of) (NP (NP (PRP$ its) (JJ common)) (CC and) (NP (NP ($ $) (CD 1)) (PP (IN in) (NP (NN cash))))))) (PP (IN for) (NP (DT each) (NN unit))))) (. .)))
-

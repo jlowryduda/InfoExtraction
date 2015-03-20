@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP MCI) (NNPS Communications) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD won) (NP (NP (DT a) (ADJP (QP ($ $) (CD 27) (CD million))) (NN contract)) (PP (IN from) (NP (NP (NNP Stuart-James) (NNP Co.)) (, ,) (NP (DT a) (NNP Denver) (NN investment) (NN banking) (NN concern))))) (, ,) (S (VP (TO to) (VP (VB provide) (NP (NN voice) (CC and) (NN data) (NN telecommunications) (NNS services))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN agreement)) (VP (VBZ calls) (SBAR (IN for) (S (NP (NNP MCI)) (VP (TO to) (VP (VB provide) (NP (NP (NN data) (NN service)) (, ,) (NP (CD 800) (CC and) (NNP Vnet) (NN service)) (, ,) (NP (DT a) (JJ virtual) (JJ private) (NN network) (NN service)))))))) (. .)))
-
-(S1 (S (NP (DT The) (NNS companies)) (VP (MD would) (RB n't) (VP (VB disclose) (NP (NP (DT the) (NN length)) (PP (IN of) (NP (DT the) (NN contract)))) (SBAR (IN except) (S (VP (TO to) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (JJ multiyear) (NN agreement))))))))))) (. .)))
-

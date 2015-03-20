@@ -1,4 +1,0 @@
-(S1 (S (S (NP (DT The) (JJ Canadian) (NN government)) (VP (VBZ plans) (S (VP (TO to) (VP (VB auction) (PP (IN on) (NP (NNP Tuesday))) (NP (NP (QP (CD 750) (CD million)) (JJ Canadian) (NNS dollars)) (PRN (-LRB- -LRB-) (NP (NP (PRP US)) (ADJP (QP ($ $) (CD 639.9) (CD million)))) (-RRB- -RRB-)) (PP (IN of) (NP (NP (ADJP (CD 9.25) (NN %)) (NNS bonds)) (ADJP (JJ due) (NP (NNP Dec.) (CD 1) (, ,) (CD 1999))))))))))) (, ,) (NP (DT the) (NNP Finance) (NNP Department)) (VP (VBD said)) (. .)))
-
-(S1 (S (NP (NP (NNS Proceeds)) (PP (IN of) (NP (DT the) (NN issue)))) (VP (MD will) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (JJ general) (NN government) (NNS purposes)))))) (. .)))
-

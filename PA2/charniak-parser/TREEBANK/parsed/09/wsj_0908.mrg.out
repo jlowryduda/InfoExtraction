@@ -1,4 +1,0 @@
-(S1 (S (NP (NNP Calgon) (NN Carbon) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB build) (NP (NP (DT a) (ADJP (QP ($ $) (CD 40) (CD million))) (NN plant)) (PP (IN for) (S (VP (VBG producing) (NP (JJ granular) (VBN activated) (NN carbon))))))))))) (. .)))
-
-(S1 (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (NN water-treatment) (NNS chemicals) (CC and) (NN equipment)))) (VP (VBD said) (SBAR (S (S (NP (PRP it)) (VP (MD will) (VP (VB select) (NP (DT the) (NN plant) (NN site)) (NP (RB early) (JJ next) (NN year))))) (, ,) (CC and) (S (NP (NN production)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB begin) (PP (IN in) (NP (CD 1991)))))))))))) (. .)))
-

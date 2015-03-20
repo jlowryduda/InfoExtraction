@@ -2,7 +2,7 @@
 
 #Specify paths to train and dev files below
 
-EXPERIMENT_DIR=/home/g/grad/jduda/ie
+EXPERIMENT_DIR=/home/g/grad/libenson/ie
 MALLET=/home/j/clp/chinese/bin/mallet-maxent-classifier.sh
 
 # train the classifier

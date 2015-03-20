@@ -1,6 +1,0 @@
-(S1 (S (S (NP (JJ Canadian) (JJ retail) (NNS sales)) (VP (VBD rose) (NP (CD 0.2) (NN %)) (PP (IN in) (NP (NNP August))) (PP (IN from) (NP (NNP July))))) (, ,) (NP (NP (NNPS Statistics) (NNP Canada)) (, ,) (NP (DT a) (JJ federal) (NN agency)) (, ,)) (VP (VBD said)) (. .)))
-
-(S1 (S (NP (DT The) (NNP August) (NN increase)) (VP (VBD followed) (NP (NP (DT a) (ADJP (CD 0.3) (NN %)) (NN decline)) (PP (IN in) (NP (NNP July))))) (. .)))
-
-(S1 (S (S (PP (IN During) (NP (DT the) (JJ past) (CD four) (NNS months))) (, ,) (NP (JJ retail) (NNS sales)) (VP (VBP have) (VP (VBN remained) (ADJP (RB generally) (JJ weak)) (, ,) (S (VP (VBG advancing) (NP (DT an) (JJ average) (CD 0.2) (NN %)) (NP (DT a) (NN month))))))) (, ,) (NP (DT the) (NN agency)) (VP (VBD said)) (. .)))
-

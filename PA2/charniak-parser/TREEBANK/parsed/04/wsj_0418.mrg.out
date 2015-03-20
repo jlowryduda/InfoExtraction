@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP Mitsui) (CC &) (NNP Co.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD started) (NP (NP (DT a) (JJ joint) (NN venture)) (PP (IN with) (NP (NP (NNP Dae) (NNP Woong) (NNP Chemical) (NNP Co.)) (, ,) (NP (NP (DT a) (JJ major) (JJ pharmaceutical) (NN manufacturer)) (PP (IN in) (NP (NNP South) (NNP Korea)))) (, ,)))) (S (VP (TO to) (VP (VB manufacture) (NP (NN antibiotic) (NNS medicines))))))))) (. .)))
-
-(S1 (S (NP (DT The) (JJ new) (NN company)) (VP (VBZ is) (VP (VBN capitalized) (PP (IN at) (NP (QP (RB about) ($ $) (CD 3.5) (CD million)))))) (. .)))
-
-(S1 (S (NP (NNP Mitsui)) (VP (VBZ expects) (S (NP (DT the) (NN antibiotic) (NNS products)) (VP (TO to) (VP (VB be) (VP (VBN exported) (PP (TO to) (NP (NP (NNP Southeast) (NNP Asia)) (CC and) (NP (NNP Africa))))))))) (. .)))
-
-(S1 (S (NP (PRP It)) (ADVP (RB also)) (VP (VBZ hopes) (S (VP (TO to) (VP (VB enter) (NP (DT the) (NNP U.S.) (NN market)))))) (. .)))
-

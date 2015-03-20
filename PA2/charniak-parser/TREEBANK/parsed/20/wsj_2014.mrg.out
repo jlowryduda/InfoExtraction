@@ -1,4 +1,0 @@
-(S1 (S (NP (NNP UPJOHN) (NNP Co.)) (VP (VBD reported) (SBAR (DT that) (S (NP (JJ third-quarter) (JJ net) (NN income)) (VP (VBD rose) (PP (TO to) (NP (NP (QP ($ $) (CD 96) (CD million))) (, ,) (CC or) (NP (NP (CD 52) (NNS cents)) (NP (DT a) (NN share))) (, ,))) (PP (IN from) (NP (NP (QP ($ $) (CD 89.6) (CD million))) (, ,) (CC or) (NP (NP (CD 49) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (. .)))
-
-(S1 (S (NP (NP (NN Yesterday) (POS 's)) (NN edition)) (VP (VBD provided) (NP (NP (NP (NNS analysts) (POS ')) (NNS estimates)) (PP (IN for) (NP (DT the) (NN company)))) (SBAR (WHADVP (WRB when)) (S (NP (JJ actual) (NNS earnings)) (VP (VBD were) (ADJP (JJ available)))))) (. .)))
-

@@ -1,4 +1,0 @@
-(S1 (S (S (NP (JJ Canadian) (NN steel) (NN production)) (VP (VBD totaled) (NP (CD 290,541) (JJ metric) (NNS tons)) (PP (IN in) (NP (NP (DT the) (NN week)) (VP (VBN ended) (NP (NNP Oct.) (CD 21))))) (, ,) (NP (NP (NP (DT a) (ADJP (CD 5.1) (NN %)) (NN increase)) (PP (IN from) (NP (NP (CD 276,334) (NNS tons)) (NP (DT the) (JJ previous) (NN week))))) (CC but) (NP (NP (DT a) (ADJP (CD 7.2) (NN %)) (NN decline)) (PP (IN from) (NP (CD 313,125) (NNS tons)) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (, ,) (NP (NNPS Statistics) (NNP Canada)) (VP (VBD said)) (. .)))
-
-(S1 (S (NP (DT The) (JJ federal) (NN agency)) (VP (VBD said) (SBAR (IN that) (S (PP (IN in) (NP (NP (DT the) (NN year)) (PP (IN through) (NP (NNP Oct.) (CD 21))))) (NP (NN production)) (VP (VBD totaled) (NP (CD 12,573,758) (NNS tons)) (, ,) (ADVP (RB up) (NP (CD 7.1) (NN %)) (PP (IN from) (NP (CD 11,742,368) (NNS tons)))))))) (. .)))
-

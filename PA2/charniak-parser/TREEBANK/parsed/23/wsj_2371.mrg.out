@@ -1,8 +1,0 @@
-(S1 (S (NP (NP (NNP James) (NNP Robinson)) (, ,) (ADJP (NP (CD 57) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN elected) (S (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)) (PP (IN of) (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NP (JJ magnetic) (VBG recording) (NNS heads)) (PP (IN for) (NP (NN disk) (NNS drives))))))))))) (. .)))
-
-(S1 (S (NP (PRP He)) (VP (VBZ has) (VP (VBN been) (S (NP (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (NNP Amperex) (NNP Electronics) (NNP Corp.)) (, ,) (NP (NP (DT a) (NN division)) (PP (IN of) (NP (NNP North) (NNP American) (NNP Philips) (NNP Corp.))))))) (, ,) (NP (NP (PRP itself)) (NP (NP (DT a) (NN subsidiary)) (PP (IN of) (NP (NNP N.V) (. .) (NNP Philips))))) (PP (IN of) (NP (DT the) (NNP Netherlands))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Charles) (NNP J.) (NNP Lawson) (NNP Jr.)) (, ,) (NP (CD 68)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (NP (VBG acting) (NN chief) (NN executive)) (PP (IN since) (NP (NNP June) (CD 14))))))) (, ,)) (VP (MD will) (VP (VB continue) (PP (IN as) (NP (NN chairman))))) (. .)))
-
-(S1 (S (NP (NP (DT The) (JJ former) (NX (NX (NN president)) (CC and) (NX (JJ chief) (NN executive)))) (, ,) (NP (NNP Eric) (NNP W.) (NNP Markrud)) (, ,)) (VP (VBD resigned) (PP (IN in) (NP (NNP June)))) (. .)))
-

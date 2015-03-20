@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP Albert) (NNP Fried) (NNP Jr.)) (, ,) (NP (NP (NP (DT a) (JJ 59-year-old) (NN director)) (CC and) (NP (NN holder))) (PP (IN of) (NP (NP (DT a) (ADJP (CD 9.5) (NN %)) (NN stake)) (PP (IN in) (NP (DT the) (NN company)))))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN chairman)) (PP (IN of) (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NP (NNS products)) (PP (IN for) (NP (DT the) (NN construction) (NN equipment) (, ,) (NN material) (NN handling) (CC and) (NN railroad) (NNS industries))))))))))) (. .)))
-
-(S1 (S (NP (PRP He)) (VP (VBZ succeeds) (NP (NP (NNP L.L.) (NNP White) (NNP Jr.)) (, ,) (NP (CD 62)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD resigned)) (CC but) (VP (VBZ continues) (PP (IN as) (NP (DT a) (NN director))))))))) (. .)))
-
-(S1 (S (NP (NNP Mr.) (NNP Fried)) (ADVP (RB also)) (VP (VBZ is) (NP (NP (DT the) (VBG managing) (NN partner)) (PP (IN of) (NP (NNP Albert) (NNP Fried) (CC &) (NNP Co))))) (. .)))
-

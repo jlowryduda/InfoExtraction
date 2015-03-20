@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP Diamond) (NNP Shamrock) (NNP Offshore) (NNP Partners)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD had) (VP (VBN discovered) (NP (NN gas)) (ADVP (RB offshore)) (NP (NNP Louisiana))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN well)) (VP (VBD flowed) (PP (IN at) (NP (NP (DT a) (NN rate)) (PP (IN of) (NP (NP (NP (QP (CD 2.016) (CD million)) (JJ cubic) (NNS feet)) (PP (IN of) (NP (NN gas)))) (NP (DT a) (NN day)))))) (PP (IN through) (NP (NP (DT a) (ADJP (CD 16) (NN 64-inch)) (NN opening)) (PP (IN at) (NP (NP (NNS depths)) (PP (IN between) (NP (CD 5,782) (CC and) (CD 5,824) (NNS feet)))))))) (. .)))
-
-(S1 (S (NP (NNP Diamond) (NNP Shamrock)) (VP (VBZ is) (NP (NP (DT the) (NN operator)) (, ,) (PP (IN with) (NP (NP (DT a) (ADJP (CD 100) (NN %)) (NN interest)) (PP (IN in) (NP (DT the) (NN well))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Diamond) (NNP Shamrock) (NNP Offshore) (POS 's)) (NN stock)) (VP (VBD rose) (NP (CD 12.5) (NNS cents)) (NP (NNP Friday)) (S (VP (TO to) (VP (VB close) (PP (IN at) (NP ($ $) (CD 8.25))) (PP (IN in) (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))))))) (. .)))
-

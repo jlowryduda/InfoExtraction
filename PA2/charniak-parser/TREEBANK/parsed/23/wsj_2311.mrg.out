@@ -1,4 +1,0 @@
-(S1 (S (NP (NNP CONCORDE) (JJ trans-Atlantic) (NNS flights)) (VP (VP (VBP are) (NP ($ $) (CD 2,400)) (PP (TO to) (NP (NNP Paris)))) (CC and) (VP (NP ($ $) (CD 3,200)) (PP (TO to) (NP (NNP London))))) (. .)))
-
-(S1 (S (PP (IN In) (NP (NP (DT a) (NNP Centennial) (NNP Journal) (NN article)) (NP (NNP Oct.) (CD 5)))) (, ,) (NP (DT the) (NNS fares)) (VP (VBD were) (VP (VBN reversed))) (. .)))
-

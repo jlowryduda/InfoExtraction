@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP David) (NNP H.) (NNP Eisenberg)) (, ,) (ADJP (NP (CD 53) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN president)) (CC and) (NP (NN chief) (VBG operating) (NN officer)) (PP (IN of) (NP (NP (NNP Imasco) (POS 's)) (NNP 500-store) (NNPS Peoples) (NNP Drug) (NNPS Stores) (NNP Inc.) (NN unit))))) (, ,) (S (VP (VBN based) (PP (IN in) (NP (NP (NNP Alexandria)) (, ,) (NP (NNP Va)))))))) (. .)))
-
-(S1 (S (NP (NNP Mr.) (NNP Eisenberg)) (VP (VBD was) (NP (NP (JJ senior) (NN executive) (NN vice) (NN president)) (CC and) (NP (NN chief) (VBG operating) (NN officer)))) (. .)))
-
-(S1 (S (NP (NNP Imasco)) (VP (VBZ is) (NP (DT a) (NN tobacco) (, ,) (NN retailing) (, ,) (NN restaurant) (CC and) (JJ financial) (NNS services) (NN concern))) (. .)))
-

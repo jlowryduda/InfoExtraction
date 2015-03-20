@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP Roche) (NNP Holding) (NNP AG)) (, ,) (NP (NP (NN parent)) (PP (IN of) (NP (DT the) (NNP Swiss) (UCP (NN chemical) (CC and) (JJ pharmaceutical)) (NN group)))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN group) (NNS sales)) (VP (VBD rose) (NP (CD 22) (NN %)) (PP (IN in) (NP (NP (DT the) (JJ first) (CD nine) (NNS months)) (PP (IN of) (NP (DT the) (NN year))))) (PP (TO to) (NP (NP (QP (CD 7.32) (CD billion)) (NNS francs)) (PRN (-LRB- -LRB-) (NP (QP ($ $) (CD 4.51) (CD billion))) (-RRB- -RRB-)))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN company)) (VP (VBD reported) (NP (NP (JJ good) (NNS gains)) (PP (IN in) (NP (NP (DT all)) (PP (IN of) (NP (PRP$ its) (NNS divisions))))))) (. .)))
-
-(S1 (S (NP (NNP Roche)) (ADVP (RB also)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (NP (DT a) (`` `) (NP (`` `) (JJ considerable) (NN rise) ('' ')) ('' ') (PP (IN in) (NP (NP (CD 1989) (NN group) (NN profit)) (PP (IN from) (NP (NP (DT the) (ADJP (ADJP (CD 641.5) (NN million-franc)) (PRN (-LRB- -LRB-) (ADJP (QP ($ $) (CD 396) (CD million))) (-RRB- -RRB-))) (NN net)) (PP (IN in) (NP (CD 1988)))))))))))) (. .)))
-

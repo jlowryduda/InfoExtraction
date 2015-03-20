@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP AVX) (NNP Corp.)) (CC and) (NP (NNP Unitrode) (NNP Corp.))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBD completed) (NP (NP (DT the) (ADJP (RB previously) (JJ reported)) (NN sale)) (PP (IN of) (NP (NP (NNP Unitrode) (POS 's)) (ADJP (NNP San) (JJ Diego-based)) (JJ Passive) (NNS Components) (NN division))) (PP (TO to) (NP (NNP AVX)))))))) (. .)))
-
-(S1 (S (NP (NP (NNP AVX)) (, ,) (NP (NP (DT a) (ADJP (NNP New) (JJ York-based)) (NN maker)) (PP (IN of) (NP (JJ passive) (JJ electronic) (NNS products)))) (, ,)) (VP (VBD paid) (NP (NP (QP ($ $) (CD 11) (CD million))) (PP (IN in) (NP (NN cash)))) (PP (TO to) (NP (NP (NNP Unitrode)) (, ,) (NP (NP (DT a) (JJ Lexington-based) (NN maker)) (PP (IN of) (NP (NN semiconductor) (NNS products))))))) (. .)))
-
-(S1 (S (NP (JJ Passive) (NNP Components)) (VP (VP (VBZ makes) (NP (NNS capacitors))) (CC and) (VP (VBZ filters) (VP (VBN used) (S (VP (TO to) (VP (VB protect) (NP (NNS electronics)))))))) (. .)))
-

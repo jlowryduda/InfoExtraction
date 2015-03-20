@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP David) (NNP D.) (NN Lung)) (VP (VBD was) (VP (VBN appointed) (S (NP (NP (NN president)) (CC and) (NP (JJ chief) (VBG operating) (NN officer)) (PP (IN of) (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NP (NP (NN building) (NNS materials)) (PP (IN for) (NP (JJ manufactured) (NNS homes)))) (CC and) (NP (JJ recreational) (NNS vehicles)))))))))) (. .)))
-
-(S1 (S (PP (IN As) (NP (NN president))) (, ,) (NP (NP (NNP Mr.) (NN Lung)) (, ,) (ADJP (NP (CD 42) (NNS years)) (JJ old)) (, ,)) (VP (VBZ succeeds) (NP (NP (PRP$ his) (NN father)) (, ,) (NP (NP (NNP Mervin) (NNP D.) (NN Lung)) (, ,) (NP (CD 66))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD founded) (NP (DT the) (NN company)) (PP (IN in) (NP (CD 1959)))))))) (. .)))
-
-(S1 (S (NP (NN Mervin) (NN Lung)) (VP (VBZ remains) (NP (NP (NN chairman)) (CC and) (NP (JJ chief) (JJ executive) (NN officer)))) (. .)))
-
-(S1 (S (NP (NNP David) (NN Lung)) (VP (VP (VBZ has) (VP (VBN been) (PP (IN with) (NP (NNP Patrick))) (PP (IN since) (NP (CD 1970))))) (, ,) (CC and) (VP (VBZ has) (VP (VBN served) (PP (IN as) (NP (NP (NN vice) (NN president)) (PP (IN for) (NP (NN administration) (CC and) (VBG purchasing))))) (PP (IN since) (NP (CD 1987)))))) (. .)))
-

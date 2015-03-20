@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP CMS) (NNP ENERGY) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (NN management)) (VP (MD would) (VP (VB recommend) (PP (TO to) (NP (PRP$ its) (NN board) (NN today))) (SBAR (IN that) (S (NP (PRP$ its) (JJ common) (NN stock) (NN dividend)) (VP (VB be) (VP (VBN reinstated) (PP (IN at) (NP (DT a) (`` `) (NP (`` `) (JJ modest) (NN level) ('' ')) ('' '))) (NP (RB later) (DT this) (NN year))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NAC (NNP Dearborn) (, ,) (NNP Mich.) (, ,)) (NN energy) (NN company)) (VP (VBD stopped) (S (VP (VBG paying) (NP (DT a) (NN dividend)) (PP (IN in) (NP (NP (DT the) (JJ third) (NN quarter)) (PP (IN of) (NP (CD 1984))))))) (PP (IN because) (IN of) (NP (NP (NNS troubles)) (PP (IN at) (NP (PRP$ its) (NNP Midland) (JJ nuclear) (NN plant)))))) (. .)))
-
-(S1 (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NNP CMS)) (VP (VBD reported) (NP (NP (JJ third-quarter) (NN net)) (PP (IN of) (NP (NP (QP ($ $) (CD 68.2) (CD million))) (, ,) (CC or) (NP (NP (CD 83) (NNS cents)) (NP (DT a) (NN share))) (, ,) (ADVP (RB up) (PP (IN from) (NP (NP (QP ($ $) (CD 66.8) (CD million))) (, ,) (CC or) (NP (NP (CD 81) (NNS cents)) (NP (DT a) (NN share))) (, ,)) (ADVP (NP (DT a) (NN year)) (RB ago)))))))) (. .)))
-

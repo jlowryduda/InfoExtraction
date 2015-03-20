@@ -1,4 +1,0 @@
-(S1 (S (NP (NP (DT The) (NNP European) (NNP Community) (POS 's)) (NN consumer) (NN price) (NN index)) (VP (VP (VBD rose) (NP (DT a) (JJ provisional) (CD 0.6) (NN %)) (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (NNP August)))) (CC and) (VP (VBD was) (ADVP (RB up) (NP (CD 5.3) (NN %)) (PP (IN from) (NP (NNP September) (CD 1988))))) (, ,) (PP (VBG according) (PP (TO to) (NP (NP (NNP Eurostat)) (, ,) (NP (NP (DT the) (NNP EC) (POS 's)) (JJ statistical) (NN agency)))))) (. .)))
-
-(S1 (S (S (NP (NP (DT The) (JJ month-to-month) (NN rise)) (PP (IN in) (NP (DT the) (NN index)))) (VP (VBD was) (NP (NP (DT the) (JJS largest)) (PP (IN since) (NP (NNP April)))))) (, ,) (NP (NNP Eurostat)) (VP (VBD said)) (. .)))
-

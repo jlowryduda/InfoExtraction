@@ -3,8 +3,8 @@ import sys
 import json
 
 def save_jsons():
-	path = '/home/j/xuen/teaching/cosi137/spring-2015/projects/project2/data/postagged-files/'
-	destination = os.getcwd() + '/jsons/'
+	path = os.getcwd() + '/data/postagged-files/'
+	destination = os.getcwd() + '/data/jsons/'
 	for root, dirs, files in os.walk(path):
 		for f in files:
 			if f.endswith('.pos'):              

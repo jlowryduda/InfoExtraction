@@ -1,4 +1,0 @@
-(S1 (S (NP (NNP Brush) (NNP Wellman) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN board)) (VP (VBD increased) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS shares)) (PP (IN of) (NP (JJ common) (NN stock))))) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN purchased) (PP (IN under) (NP (DT a) (ADJP (RB previously) (VBN authorized)) (NN program))))))))) (PP (TO to) (NP (QP (CD 3.9) (CD million)))) (PP (IN from) (NP (QP (CD 2.9) (CD million)))))))) (. .)))
-
-(S1 (S (NP (NP (DT The) (NN maker)) (PP (IN of) (NP (JJ engineered) (NNS materials)))) (VP (VBZ has) (VP (VBN acquired) (NP (QP (JJR more) (IN than) (CD 2.7) (CD million)) (NNS shares)) (PP (IN under) (NP (DT the) (NN program))))) (. .)))
-

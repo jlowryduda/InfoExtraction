@@ -1,4 +1,0 @@
-(S1 (S (NP (DT The) (NNP American) (NNP Stock) (NNP Exchange)) (VP (VBD said) (SBAR (S (NP (DT a) (NN seat)) (VP (VBD was) (VP (VBN sold) (PP (IN for) (NP (NP ($ $) (CD 165,000)) (, ,) (ADJP (JJ unchanged) (PP (IN from) (NP (NP (DT the) (JJ previous) (NN sale)) (NP (NNP Oct.) (CD 13)))))))))))) (. .)))
-
-(S1 (S (NP (NP (NNS Seats)) (PP (IN on) (NP (DT the) (NNP Amex)))) (ADVP (RB currently)) (VP (VBP are) (VP (VBN quoted) (PP (IN at) (NP (NP (NP ($ $) (CD 151,000)) (VP (NN bid))) (CC and) (NP (NP ($ $) (CD 200,000)) (VP (VBN asked))))))) (. .)))
-

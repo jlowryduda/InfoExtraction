@@ -1,4 +1,0 @@
-(S1 (S (NP (NP (NNP Douglas) (NNP H.) (NNP Miller)) (, ,) (ADJP (JJ self-employed) (PP (IN in) (NP (DT the) (NN oil) (CC and) (NN gas) (NNS securities) (NN business)))) (, ,)) (VP (VBD was) (VP (VBN named) (NP (NP (NN chairman)) (PP (IN of) (NP (DT this) (NN oil) (CC and) (NN gas) (NN exploration) (NN company)))) (, ,) (S (VP (VBG filling) (NP (DT a) (NN vacancy)))))) (. .)))
-
-(S1 (S (NP (NP (NNP Mr.) (NNP Miller)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (VP (VBN been) (NP (DT a) (NNP Coda) (NN director)))))) (, ,)) (ADVP (RB also)) (VP (VBD was) (VP (VBN named) (S (NP (JJ chief) (NN executive) (NN officer))) (, ,) (S (VP (VBG succeeding) (NP (NP (NNP Ted) (NNP Eubank)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ remains) (NP (NP (NN president)) (CC and) (NP (JJ chief) (VBG operating) (NN officer))))))))))) (. .)))
-

@@ -1,8 +1,0 @@
-(S1 (S (NP (NP (NP (NN Ambassador) (NNP Paul) (NNP Nitze) (POS 's)) (NN statement)) (PRN (-LRB- -LRB-) (NP (JJ Notable) (CC &) (JJ Quotable)) (, ,) (NP (NNP Sept.) (CD 20)) (-RRB- -RRB-)) (, ,) (`` `) (S (`` `) (SBAR (IN If) (S (NP (PRP you)) (VP (VBP have) (NP (NP (QP (DT a) (CD million)) (NNS people)) (VP (VBG working) (PP (IN for) (NP (PRP you)))))))) (, ,) (NP (NP (DT every) (JJ bad) (NN thing)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (NP (CD one) (NN chance)) (PP (IN in) (NP (DT a) (CD million))) (PP (IN of) (S (VP (VBG going) (ADJP (JJ wrong)))))))))) (VP (MD will) (VP (VB go) (ADVP (JJ wrong)) (ADVP (IN at) (JJS least) (RB once) (NP (DT a) (NN year))))) (, ,) ('' ')) ('' ')) (VP (VBZ is) (NP (NP (DT a) (ADJP (RB pretty) (JJ negative)) (NN way)) (PP (IN of) (S (VP (VBG looking) (PP (IN at) (NP (NNS things)))))))) (. .)))
-
-(S1 (SQ (VBZ Is) (RB n't) (NP (PRP it)) (ADJP (ADVP (RB just) (RB as)) (JJ fair)) (S (VP (TO to) (VP (VB say) (SBAR (IN that) (S (SBAR (IN if) (S (NP (PRP you)) (VP (VBP have) (NP (NP (QP (DT a) (CD million)) (NNS people)) (VP (VBG working) (PP (IN for) (NP (PRP you)))))))) (, ,) (NP (NP (DT every) (JJ good) (NN thing)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (NP (CD one) (NN chance)) (PP (IN in) (NP (NP (DT a) (CD million)) (PP (IN of) (NP (VBG going) (NN right)))))))))) (VP (MD will) (VP (VB go) (ADJP (JJ right)) (ADVP (ADVP (IN at) (JJS least) (RB once)) (NP (DT a) (NN year)))))))))) (. ?)))
-
-(S1 (S (VP (VB Do) (RB n't) (VP (VB be) (NP (NP (PDT such) (DT a) (NN pessimist)) (, ,) (NP (NNP Mr.) (NNP Ambassador))))) (. .)))
-
-(S1 (NP (NNP Frank) (NNP Tremdine)))
-

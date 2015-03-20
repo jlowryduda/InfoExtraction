@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (DT This) (NNP Los) (NNP Angeles) (NN company)) (CC and) (NP (NP (PRP$ its) (NNP Union) (NNP Federal) (NNPS Savings) (NNP Bank)) (NN subsidiary))) (VP (VBD said) (SBAR (S (NP (NP (QP (JJR more) (IN than) (CD 99)) (NN %)) (PP (IN of) (NP (NP (PRP$ their) (ADJP (QP (CD 7) (CD 1\/4)) (NN %)) (JJ convertible) (VBN subordinated) (NNS debentures)) (ADJP (JJ due) (NP (CD 2011)))))) (VP (VBD were) (VP (VBN tendered) (PP (IN for) (NP (NN conversion))) (PP (IN into) (NP (NNP UnionFed) (JJ common) (NN stock)))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN conversion)) (VP (VBD increased) (NP (JJ total) (NN equity) (NN capital)) (PP (IN by) (NP (QP (RB about) ($ $) (CD 38.5) (CD million)))) (PP (TO to) (NP (NP (DT a) (NN total)) (PP (IN of) (NP (QP ($ $) (CD 156.8) (CD million))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Union) (NNP Federal)) (, ,) (NP (DT a) (ADJP (RB federally) (VBN insured)) (NN savings) (NN bank)) (, ,)) (VP (VBZ has) (NP (NP (QP ($ $) (CD 2.4) (CD billion))) (PP (IN in) (NP (NNS assets))))) (. .)))
-

@@ -1,4 +1,0 @@
-(S1 (S (PP (IN UNDER) (NP (NP (DT A) (NN PROPOSAL)) (PP (IN by) (NP (NNPS Democrats))) (S (VP (TO to) (VP (VB expand) (S (NP (NNP Individual) (NNP Retirement) (NNPS Accounts)))))))) (, ,) (NP (NP (DT a) (ADJP ($ $) (CD 2,000)) (NN contribution)) (PP (IN by) (NP (DT a) (NN taxpayer))) (PP (IN in) (NP (DT the) (ADJP (CD 33) (NN %)) (NN bracket)))) (VP (MD would) (VP (VB save) (NP ($ $) (CD 330)) (PP (IN on) (NP (PRP$ his) (NNS taxes))))) (. .)))
-
-(S1 (S (NP (DT The) (NN savings)) (VP (VBD was) (VP (VBN given) (ADVP (RB incorrectly)) (PP (IN in) (NP (NP (NNP Friday) (POS 's)) (NN edition))))) (. .)))
-

@@ -1,6 +1,0 @@
-(S1 (S (S (NP (NP (NNP West) (NNP Germany) (POS 's)) (JJ cost-of-living) (NN index)) (VP (VP (VBD rose) (NP (DT a) (JJ preliminary) (CD 0.3) (NN %)) (PP (IN in) (NP (NNP October))) (PP (IN from) (NP (NNP September)))) (CC and) (VP (VBD was) (ADVP (RB up) (NP (CD 3.3) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RBR earlier))))))) (, ,) (NP (NP (DT the) (NNP Federal) (NNP Statistics) (NNP Office)) (PP (IN in) (NP (NNP Wiesbaden)))) (VP (VBD said)) (. .)))
-
-(S1 (S (NP (DT The) (NN increase)) (VP (VBZ follows) (NP (NP (DT a) (JJ monthly) (NN rise)) (PP (IN of) (NP (CD 0.2) (NN %))) (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (NNP August))))) (. .)))
-
-(S1 (S (NP (NP (JJ Preliminary) (JJ cost-of-living) (NNS data)) (PP (IN for) (NP (DT the) (JJ current) (NN month)))) (VP (VBP are) (VP (VBN calculated) (PP (VBN based) (PP (IN on) (NP (NP (NN inflation) (NNS data)) (PP (IN from) (NP (NP (DT the) (CD four) (JJS largest) (NNP West) (NNP German) (NNS states)) (: --) (NP (NP (NNP Baden-Wuerttemberg)) (, ,) (NP (NNP North) (NNP Rhine-Westphalia)) (, ,) (NP (NNP Bavaria)) (CC and) (NP (NNP Hesse)))))))))) (. .)))
-

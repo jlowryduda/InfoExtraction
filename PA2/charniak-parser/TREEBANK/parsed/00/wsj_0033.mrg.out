@@ -1,8 +1,0 @@
-(S1 (S (S (NP (NP (NP (NNP Japan) (POS 's)) (NNS reserves)) (PP (IN of) (NP (NP (NN gold)) (, ,) (NP (JJ convertible) (JJ foreign) (NNS currencies)) (, ,) (CC and) (NP (JJ special) (NN drawing) (NNS rights))))) (VP (VBD fell) (PP (IN by) (NP (NP (DT a) (JJ hefty) (QP ($ $) (CD 1.82) (CD billion))) (PP (IN in) (NP (NNP October))))) (PP (TO to) (NP (QP ($ $) (CD 84.29) (CD billion)))))) (, ,) (NP (DT the) (NNP Finance) (NNP Ministry)) (VP (VBD said)) (. .)))
-
-(S1 (S (NP (DT The) (NN total)) (VP (VBZ marks) (NP (DT the) (JJ sixth) (JJ consecutive) (JJ monthly) (NN decline))) (. .)))
-
-(S1 (S (NP (DT The) (JJ protracted) (NN downturn)) (VP (VBZ reflects) (NP (NP (DT the) (NN intensity)) (PP (IN of) (NP (NP (NNP Bank)) (PP (IN of) (NP (NP (NP (NNP Japan)) (NP (NP (JJ yen-support) (NN intervention)) (PP (IN since) (NP (NNP June))))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP U.S.) (NN currency)) (ADVP (RB temporarily)) (VP (VBD surged) (PP (IN above) (NP (DT the) (ADJP (CD 150.00) (NN yen)) (NN level)))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN announcement)) (VP (VBZ follows) (NP (NP (DT a) (JJR sharper) (ADJP (QP ($ $) (CD 2.2) (CD billion))) (NN decline)) (PP (IN in) (NP (NP (DT the) (NN country) (POS 's)) (JJ foreign) (NNS reserves))) (PP (IN in) (NP (NNP September)))) (PP (TO to) (NP (QP ($ $) (CD 86.12) (CD billion))))) (. .)))
-

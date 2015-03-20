@@ -1,8 +1,0 @@
-(S1 (S (NP (JJ Italian) (NN chemical) (NN giant) (NNP Montedison) (NNP S.p.A.)) (, ,) (PP (IN through) (NP (PRP$ its) (NNP Montedison) (NNP Acquisition) (NNP N.V.) (JJ indirect) (NN unit))) (, ,) (VP (VBD began) (NP (NP (PRP$ its) (ADJP ($ $) (JJ 37-a-share)) (NN tender) (NN offer)) (PP (IN for) (NP (NP (PDT all) (DT the) (JJ common) (NNS shares)) (ADJP (JJ outstanding)) (PP (IN of) (NP (NP (NNP Erbamont) (NNP N.V.)) (, ,) (NP (NP (DT a) (NN maker)) (PP (IN of) (NP (NP (NNS pharmaceuticals)) (VP (VBN incorporated) (PP (IN in) (NP (DT the) (NNP Netherlands))))))))))))) (. .)))
-
-(S1 (S (NP (NP (DT The) (NN offer)) (, ,) (VP (VBN advertised) (PP (IN in) (NP (NP (NP (NN today) (POS 's)) (NNS editions)) (PP (IN of) (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal)))))) (, ,)) (VP (VBZ is) (VP (VBN scheduled) (S (VP (TO to) (VP (VB expire) (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NNP November)))))))))) (. .)))
-
-(S1 (S (NP (NNP Montedison)) (ADVP (RB currently)) (VP (VBZ owns) (NP (NP (QP (RB about) (CD 72)) (NN %)) (PP (IN of) (NP (NP (NP (NNP Erbamont) (POS 's)) (JJ common) (NNS shares)) (ADJP (JJ outstanding)))))) (. .)))
-
-(S1 (S (NP (DT The) (NN offer)) (VP (VBZ is) (VP (VBG being) (VP (VBN launched) (ADVP (JJ pursuant) (PP (TO to) (NP (NP (DT a) (ADJP (RB previously) (VBN announced)) (NN agreement)) (PP (IN between) (NP (DT the) (NNS companies))))))))) (. .)))
-

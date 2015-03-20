@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP Shell) (NNP Canada) (NNP Ltd.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ plans) (S (VP (TO to) (VP (VB build) (NP (NP (DT a) (NNS lubricants) (NN blending) (CC and) (NN packaging) (NN plant)) (PP (IN at) (NP (NP (NNP Brockville)) (, ,) (NP (NNP Ontario)) (, ,)))) (PP (IN with) (NP (NP (NNS start-up)) (VP (VBN scheduled) (PP (IN for) (NP (CD 1992))))))))))))) (. .)))
-
-(S1 (S (NP (DT A) (NN spokesman)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (NN plant)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB replace) (NP (JJR older) (NN lubricant) (CC and) (NN grease) (NN manufacturing) (NNS plants)) (PP (IN in) (NP (NNP Montreal) (CC and) (NNP Toronto))))))) (, ,)) (VP (MD will) (VP (VB cost) (NP (NP (QP (RB about) (CD 50) (CD million)) (JJ Canadian) (NNS dollars)) (PRN (-LRB- -LRB-) (NP (NNP US) (QP ($ $) (CD 42.5) (CD million))) (-RRB- -RRB-))) (S (VP (TO to) (VP (VB build))))))))) (. .)))
-
-(S1 (S (NP (NNP Brockville)) (VP (VBZ is) (NP (NP (QP (RB about) (CD 100)) (NNS miles)) (ADVP (JJ east) (PP (IN of) (NP (NNP Toronto)))))) (. .)))
-
-(S1 (S (NP (NP (NNP Shell) (NNP Canada)) (, ,) (NP (DT an) (NN oil) (CC and) (NN gas) (NN producer) (CC and) (NN marketer)) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NN unit)) (PP (IN of) (NP (NP (NNP Royal) (NNP Dutch\/Shell) (NNP Group)) (, ,) (NP (DT an) (NNP Anglo-Dutch) (NN concern)))))) (. .)))
-

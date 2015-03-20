@@ -1,4 +1,0 @@
-(S1 (S (NP (NP (NNP FREDERICK) (POS 'S)) (PP (IN OF) (NP (NP (NNP HOLLYWOOD) (NNP Inc.)) (, ,) (NP (NNP Los) (NNP Angeles)) (, ,)))) (VP (VBD said) (SBAR (S (NP (PRP$ its) (NN board)) (VP (VBD voted) (NP (NP (DT a) (ADJP (CD 50) (NN %)) (NN increase)) (PP (IN in) (NP (DT the) (NN specialty) (NN boutique-store)))) (NP (NP (NN operator) (POS 's)) (JJ semiannual) (NN dividend)) (, ,) (PP (TO to) (NP (NP (CD five) (NNS cents)) (NP (DT a) (JJ common) (NN share)))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN dividend)) (VP (VBZ is) (ADJP (JJ payable) (NP (NNP Dec.) (CD 15)) (PP (TO to) (NP (NP (NN stock)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 15)))))) (. .)))
-

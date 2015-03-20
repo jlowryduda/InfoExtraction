@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP F.) (NNP Gil) (NNP Troutman)) (, ,) (ADJP (NP (CD 46) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (JJ chief) (NN executive) (NN officer))))) (. .)))
-
-(S1 (S (NP (PRP He)) (VP (VP (VBZ retains) (NP (NP (PRP$ his) (NNS titles)) (PP (IN of) (NP (NP (NN president)) (CC and) (NP (JJ chief) (VBG operating) (NN officer)))))) (CC and) (VP (VBZ succeeds) (PP (IN as) (NP (JJ chief) (NN executive))) (NP (NP (NNP Howard) (NNP O.) (NN Painter) (NNP Jr.)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ remains) (NP (NP (NN chairman)) (PP (IN of) (NP (DT the) (NN board)))))))))) (. .)))
-
-(S1 (S (NP (NNP DSP)) (VP (VBZ makes) (NP (JJ electronic) (NN instrumentation) (CC and) (NN data) (NN acquisition) (NNS systems))) (. .)))
-

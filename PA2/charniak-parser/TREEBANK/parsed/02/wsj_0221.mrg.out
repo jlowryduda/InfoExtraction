@@ -1,4 +1,0 @@
-(S1 (S (NP (NNP Columbia) (NNP Pictures) (NNP Entertainment) (NNP Inc.)) (VP (VBD was) (VP (VBN dropped) (, ,) (ADVP (JJ effective) (NN today)) (, ,) (PP (IN from) (NP (NP (DT the) (JJ recreational) (NNS products) (CC and) (NNS services) (NN industry) (NN group)) (PP (IN of) (NP (DT the) (NNP Dow) (NNP Jones) (NNP Equity) (NNP Market) (NNP Index))))))) (. .)))
-
-(S1 (S (NP (NNP Columbia) (NNP Pictures)) (VP (VBZ is) (VP (VBG being) (VP (VBN acquired) (PP (IN by) (NP (NP (NNP Sony) (NNP Corp.)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NNP Japan)))))))))))) (. .)))
-

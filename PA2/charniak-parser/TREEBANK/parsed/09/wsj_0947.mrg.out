@@ -1,6 +1,0 @@
-(S1 (S (NP (DT The) (NNP National) (NNP Aeronautics) (CC and) (NNP Space) (NNP Administration)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD awarded) (NP (NNP General) (NNP Dynamics) (NNP Corp.)) (NP (DT a) (ADJP (QP ($ $) (CD 64) (CD million))) (NN contract) (S (VP (TO to) (VP (VB launch) (NP (DT the) (JJ Combined) (NN Release) (CC and) (NN Radiation) (NNS Effects) (NN Satellite)) (PP (IN in) (NP (NNP June) (CD 1990))))))))))) (. .)))
-
-(S1 (S (NP (NNP CRRES)) (VP (VBZ is) (NP (NP (DT a) (JJ joint) (NNP NASA-Air) (NNP Force) (NN satellite)) (SBAR (S (VP (TO to) (VP (VB study) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (NN space) (NN radiation))) (PP (IN on) (NP (JJ micro-electronic) (NNS components)))))))))) (. .)))
-
-(S1 (S (NP (NNP NASA)) (VP (VBD said) (SBAR (S (NP (NNP General) (NNPS Dynamics)) (VP (MD will) (VP (VB launch) (NP (NP (NNS CRRES)) (VP (VBG using) (NP (DT an) (NNP Atlas) (CD 1) (NN rocket))))))))) (. .)))
-

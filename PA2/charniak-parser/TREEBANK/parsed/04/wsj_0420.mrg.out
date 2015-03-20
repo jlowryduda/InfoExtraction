@@ -1,8 +1,0 @@
-(S1 (S (NP (NP (NNP Sherwin-Williams) (NNP Co.)) (CC and) (NP (NNP Whittaker) (NNP Corp.))) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN discontinued) (NP (NP (NNS talks)) (PP (IN toward) (NP (NP (DT a) (JJ definitive) (NN agreement)) (VP (VBG regarding) (NP (NP (NP (NNP Sherwin-Williams) (POS ')) (NN acquisition)) (PP (IN of) (NP (NP (NNP Whittaker) (POS 's)) (NN chemical) (NN coating) (NN group))))))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NNS companies)) (VP (VBD reached) (NP (NP (DT an) (NN agreement)) (PP (IN in) (NP (NN principle))) (PP (IN for) (NP (NP (DT the) (NN sale)) (PP (IN in) (NP (NNP August))))))) (. .)))
-
-(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
-
-(S1 (S (NP (JJ Cleveland-based) (NNP Sherwin-Williams)) (VP (VBZ produces) (NP (NP (NNS paints)) (CC and) (NP (NNS coatings))) (, ,) (SBAR (IN while) (S (NP (DT the) (ADJP (NNP Los) (JJ Angeles-based)) (NNP Whittaker) (NNS coatings) (NN group)) (VP (VBZ produces) (NP (JJ industrial) (NNS coatings)))))) (. .)))
-

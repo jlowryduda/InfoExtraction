@@ -1,8 +1,0 @@
-(S1 (S (NP (NNP Alltel) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB acquire) (NP (NP (DT the) (CD 55) (NN %)) (PP (IN of) (NP (NNP Pond) (NN Branch) (NNP Telephone) (NNP Company)))) (NP (NP (NNP Inc.) (POS 's)) (JJ cellular) (NN franchise) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB own) (ADVP (RB already)))))))))))) (. .)))
-
-(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
-
-(S1 (S (NP (NNP Alltel)) (VP (VBZ holds) (NP (NP (CD 45) (NN %)) (PP (IN of) (NP (NP (DT the) (NN franchise)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (NP (NP (NNS operations)) (PP (IN in) (NP (NP (NP (NNP Aiken)) (, ,) (NP (NNP S.C.)) (, ,)) (CC and) (NP (NP (NNP Augusta)) (, ,) (NP (NNP Ga))))))))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Alltel)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ provides) (NP (NP (JJ local) (NN telephone) (NN service)) (PP (IN in) (NP (CD 25) (NNS states))))))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBN exercised) (NP (NP (PRP$ its) (NN right)) (PP (IN of) (NP (JJ first) (NN refusal)))) (PP (VBG following) (NP (NP (DT an) (NN offer)) (PP (IN from) (NP (DT an) (JJ undisclosed) (JJ third) (NN party))) (S (VP (TO to) (VP (VB acquire) (NP (NP (DT the) (NN majority) (NN position)) (PP (IN in) (NP (DT the) (NN franchise))))))))))))) (. .)))
-

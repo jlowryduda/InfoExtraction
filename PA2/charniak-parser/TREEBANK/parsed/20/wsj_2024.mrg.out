@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP Robert) (NNP J.) (NNP Regal)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (DT this) (NN company) (POS 's)) (NNP Universal-Rundle) (NNP Corp.) (NN unit))))))) (. .)))
-
-(S1 (S (NP (NNP Mr.) (NNP Regal)) (VP (VBD had) (VP (VBN been) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NNP RBS) (NNPS Industries) (NNP Inc)))))) (. .)))
-
-(S1 (S (NP (NP (NNP Robert) (NNP H.) (NNP Carlson)) (, ,) (NP (NP (NP (JJ previous) (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NNP Universal-Rundle)))) (, ,)) (VP (MD will) (VP (VB assume) (NP (NP (DT the) (NN title)) (PP (IN of) (NP (NP (NN chairman)) (PP (IN of) (NP (NP (DT the) (NN unit)) (, ,) (NP (DT a) (NN vitreous-china) (NN maker))))))))) (. .)))
-

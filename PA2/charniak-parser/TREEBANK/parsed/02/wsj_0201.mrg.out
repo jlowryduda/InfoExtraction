@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP Rolls-Royce) (NNP Motor) (NNPS Cars) (NNP Inc.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ expects) (S (NP (PRP$ its) (NNP U.S.) (NNS sales)) (VP (TO to) (VP (VB remain) (ADJP (JJ steady) (PP (IN at) (NP (QP (RB about) (CD 1,200)) (NNS cars)))) (PP (IN in) (NP (CD 1990)))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NN luxury) (NN auto) (NN maker)) (NP (JJ last) (NN year)) (VP (VBD sold) (NP (CD 1,214) (NNS cars)) (PP (IN in) (NP (DT the) (NNP U.S.)))) (. .)))
-
-(S1 (S (NP (NP (NNP Howard) (NNP Mosher)) (, ,) (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (, ,)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ anticipates) (NP (NP (NN growth)) (PP (IN for) (NP (DT the) (NN luxury) (NN auto) (NN maker))) (PP (PP (IN in) (NP (NP (NNP Britain)) (CC and) (NP (NNP Europe)))) (, ,) (CC and) (PP (IN in) (NP (NNP Far) (NNP Eastern) (NNS markets))))))))) (. .)))
-

@@ -121,12 +121,18 @@ def gender_match(line, sents, gender_dict):
              sents[int(line[6])][int(line[7])][0]]
     ents = [line[4], line[9]]
     genders = ['N', 'N'] # Default to neutral gender
+    f_pronouns = ('she', 'her', 'hers', 'herself')
+    m_pronouns = ('he', 'him', 'his' ,'himself')
 
     # If the entity is a person, check to see if the person's gender is in the
     # gender dictionary as either male or female, and if so, reassign
     for i in range(len(names)):
         if ents[i] == 'PER':
-            if clean_string(names[i]) in gender_dict:
+            if clean_string(names[i]) in m_pronouns:
+                genders[i] = 'M'
+            elif clean_string(names[i]) in f_pronouns:
+                genders[i] = 'F'
+            elif clean_string(names[i]) in gender_dict:
                 if gender_dict[clean_string(names[i])] == 'male':
                     genders[i] = 'M'
                 elif gender_dict[clean_string(names[i])] == 'female':
@@ -623,12 +629,10 @@ def extract_features(lines):
                                 if i % 3 == 2]
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
-                  exact_match(line, sents),
-                  is_contained(line),
+                  #exact_match(line, sents),
                   entity_types_match(line),
                   same_sentence(line),
                   agreement(line, sents, gender_dict),
-                  #jaccard_coefficient(line, sents),
                   adjacent_subjects(line, dependencies, sents),
                   head_match(line, constituents),
                   wh_clause(line),
@@ -636,7 +640,9 @@ def extract_features(lines):
                   is_demonym(line, sents, demo_dict),
                   geo_identity(line, geo_dict),
                   nearest_mention_pronoun_pair(line, sents),
-                  is_appositive(line, dependencies)]
+                  is_appositive(line, dependencies),
+                  is_contained(line)]
+                  #jaccard_coefficient(line, sents),
                   #antecedent_pronoun(line),
                   #anaphor_pronoun(line),
                   #get_distance(line),

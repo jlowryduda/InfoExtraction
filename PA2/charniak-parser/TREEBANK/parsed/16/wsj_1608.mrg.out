@@ -1,8 +1,0 @@
-(S1 (S (S (NP (NP (NNP Switzerland) (POS 's)) (JJ wholesale) (NN price) (NN index)) (VP (VP (VBD increased) (NP (CD 0.3) (NN %)) (PP (IN in) (NP (NNP September))) (PP (IN from) (NP (NNP August)))) (, ,) (CC and) (VP (VBD was) (ADVP (RB up) (NP (CD 3.9) (NN %)) (PP (IN from) (ADVP (NP (DT a) (NN year)) (RB ago))))) (, ,) (S (VP (VBG marking) (NP (DT the) (JJ first) (NN time)) (NP (DT this) (NN year)) (SBAR (IN that) (S (NP (DT the) (NN index)) (VP (VBZ has) (VP (VBN fallen) (PP (IN below) (NP (CD 4) (NN %))) (PP (IN on) (NP (DT a) (JJ year-to-year) (NN basis))))))))))) (, ,) (NP (DT the) (NN government)) (VP (VBD reported)) (. .)))
-
-(S1 (S (NP (DT The) (NN government)) (VP (VBD attributed) (NP (NP (DT the) (ADJP (CD 0.3) (NN %)) (JJ month-to-month) (NN rise)) (PP (IN in) (NP (DT the) (NN index)))) (PP (ADVP (RB largely)) (TO to) (NP (JJR higher) (NN energy) (NNS prices)))) (. .)))
-
-(S1 (S (PP (IN In) (NP (NNP August))) (, ,) (NP (DT the) (NN index)) (VP (VP (VBD was) (ADVP (RB up) (NP (CD 0.2) (NN %)) (PP (IN from) (NP (DT the) (JJ previous) (NN month))))) (, ,) (CC and) (VP (VBD was) (ADVP (RB up) (NP (CD 4.5) (NN %))) (PP (IN on) (NP (DT a) (JJ year-to-year) (NN basis))))) (. .)))
-
-(S1 (S (NP (NP (DT The) (JJ wholesale) (NN price) (NN index)) (, ,) (VP (VBN based) (PP (IN on) (NP (CD 1963))) (PP (IN as) (NP (CD 100)))) (, ,)) (VP (VBD was) (NP (CD 180.9)) (PP (IN in) (NP (NNP September)))) (. .)))
-

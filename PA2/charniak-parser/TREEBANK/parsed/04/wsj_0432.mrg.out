@@ -1,4 +1,0 @@
-(S1 (NP (NP (NNP BROWN-FORMAN) (NNP Corp) (. .)) (PRN (-LRB- -LRB-) (NP (NP (NNP Louisville)) (, ,) (NP (NNP Ky.))) (-RRB- -RRB-)) (: --)))
-
-(S1 (S (NP (NP (NP (NNP David) (NNP R.) (NNP Jackson)) (, ,) (NP (RB formerly) (NN vice) (NN president))) (, ,) (NP (NP (VBG managing) (NN director)) (PP (IN of) (NP (JJ corporate) (NNS communications))) (PP (IN for) (NP (NNP Maxwell) (NNP Communication) (NNP Inc.)))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN vice) (NN president)) (CC and) (NP (NP (NN assistant)) (PP (TO to) (NP (DT the) (NN chairman)))) (PP (IN of) (NP (NP (DT this) (NN maker)) (PP (IN of) (NP (NP (JJ alcoholic) (NNS beverages)) (CC and) (NP (NN consumer) (NNS products)))))))))) (. .)))
-

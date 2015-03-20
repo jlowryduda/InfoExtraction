@@ -8,7 +8,7 @@ def read_from_file(filename):
     """
     Read in data from file and do preprocessing on it for later use.
     """
-    with open(os.getcwd() + '/data/' + filename, 'r') as infile:
+    with open(os.getcwd() + '/data/' + filename + '.original', 'r') as infile:
         lines = infile.readlines()
 
     lines = [line.split() for line in lines]
@@ -38,8 +38,21 @@ def entity_type_pair(line):
     Returns a string containing entity types of both mentions, a la
     Jiang et al. 
     """
-    print line[5] + "-" + line[11]
-    return line[5] + "-" + line[11] 
+    return line[5] + "-" + line[11]
+
+
+def interceding_in(line, sents):
+    """
+    Returns true if the two mentions appear in the same sentence, the second
+    mention is of type GPE, and the word "in" appears between the two mentions.
+    """
+    if int(line[2]) == int(line[8]) and line[11] == 'GPE':
+        sent = sents[int(line[2])]
+        interceding_span = sent[int(line[4]):int(line[9])]
+        tokens = [clean_string(item[0]) for item in interceding_span]
+        if 'in' in tokens:
+            return "interceding_in=True"
+    pass
 
 
 def extract_features(lines):
@@ -48,46 +61,52 @@ def extract_features(lines):
     """
     features = []
     curr_file = None
+    j_path = os.getcwd() + '/data/jsons/'
     for line in lines:
-    	if line[0] != curr_file:
+    	if line[1] != curr_file:
             curr_file = line[1]
             print(curr_file)
-            #with open(j_path + curr_file + '.raw.json', 'r') as infile:
-            #    sents = json.load(infile)
+            with open(j_path + curr_file + '.json', 'r') as infile:
+                sents = json.load(infile)
         f_list = [get_label(line),
-                 entity_type_pair(line)]
+                 entity_type_pair(line),
+                 interceding_in(line, sents)]
         features.append([f for f in f_list if f is not None])
     return features
 
 
-def write_to_file(filename, features, train=False):
+def write_to_file(filename, features, label=None, train=False):
     """
     Write resulting features to a feature file.  If this isn't training data,
-    produce two files, one with labels and one without.
+    produce two files, one with labels and one without.  The label parameter
+    indicates whether we want to re-write the file as a binary classification
+    of that specific label.
     """
-    lines = [' '.join(f) for f in features]
-    with open(filename + '.labeled', 'w') as outfile:
-        for line in lines:
-            outfile.write(line)
+    with open(os.getcwd() + '/data/' + filename + '.labeled', 'w') as outfile:
+        for feature in features:
+            if label and (feature[0] != label):
+                feature[0] = 'no_rel'
+            outfile.write(' '.join(feature))
             outfile.write('\n')
     if not train:
-        with open(filename + '.nolabel', 'w') as outfile:
-            for line in lines:
-                outfile.write(line[1:])
+        with open(os.getcwd() + '/data/' + filename + '.nolabel', 'w') as outfile:
+            for feature in features:
+                outfile.write(' '.join(feature[1:]))
                 outfile.write('\n')
 
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        print("Specify an input filename, an output filename, and")
-        print("either 'train' or 'test' depending on datatype")
+        print("Specify an input filename (with no extension) a feature label"
+              "to do binary classification on, and either 'train' or 'test'"
+              "depending on datatype")
     else:
-        input_file = sys.argv[1]
-        output_file = sys.argv[2]
+        file_name = sys.argv[1]
+        label_name = sys.argv[2]
         if sys.argv[3] == 'train':
             train = True
         else:
             train = False
-        lines = read_from_file(input_file)
+        lines = read_from_file(file_name)
         features = extract_features(lines)
-        write_to_file(output_file, features, train)
+        write_to_file(file_name, features, label_name, train)

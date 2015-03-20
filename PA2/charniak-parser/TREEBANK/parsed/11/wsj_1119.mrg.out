@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP Roy) (NNP E.) (NNP Parrott)) (, ,) (NP (NP (NP (NP (DT the) (NN company) (POS 's)) (NN president)) (CC and) (NP (JJ chief) (VBG operating) (NN officer))) (PP (IN since) (NP (NNP Sept.) (CD 1)))) (, ,)) (VP (VBD was) (VP (VBN named) (PP (TO to) (NP (PRP$ its) (NN board))))) (. .)))
-
-(S1 (S (NP (DT The) (NN appointment)) (VP (VBD increased) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS directors)))) (PP (TO to) (NP (CD 10))) (, ,) (SBAR (WHNP (WHNP (CD three)) (WHPP (IN of) (WHNP (WP whom)))) (S (VP (VBP are) (NP (NN company) (NNS employees)))))) (. .)))
-
-(S1 (S (NP (NNP Simpson)) (VP (VBZ is) (NP (DT an) (NN auto) (NNS parts) (NN maker))) (. .)))
-

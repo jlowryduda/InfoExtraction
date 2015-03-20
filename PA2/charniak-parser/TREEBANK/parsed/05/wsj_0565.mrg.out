@@ -1,8 +1,0 @@
-(S1 (S (S (NP (JJ Ultimate) (NNP Corp.)) (VP (VBD signed) (NP (NP (DT a) (NN letter)) (PP (IN of) (NP (NN intent) (S (VP (TO to) (VP (VB market) (NP (NNP Hewlett-Packard) (NNP Co.) (NNS minicomputers)))))))))) (, ,) (NP (DT the) (NNS companies)) (VP (VBD said)) (. .)))
-
-(S1 (S (S (NP (JJ Ultimate)) (VP (VBZ expects) (S (NP (DT the) (ADJP (CD 3) (JJ 1\/2-year)) (NN agreement)) (VP (TO to) (VP (VB generate) (NP (NP (QP ($ $) (CD 100) (CD million))) (PP (IN in) (NP (NNS sales))))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (MD would) (RB n't) (VP (VB estimate) (NP (NN profit))))) (. .)))
-
-(S1 (S (PP (IN Under) (NP (NP (NNS terms)) (PP (IN of) (NP (DT the) (NN pact))))) (, ,) (NP (NP (JJ Ultimate)) (, ,) (NP (DT a) (JJ computer-systems) (NN concern)) (, ,)) (VP (MD will) (VP (VB market) (NP (NP (DT the) (JJ full) (NN line)) (PP (IN of) (NP (NP (CD HP) (CD 9000) (NN series)) (NP (CD 800) (JJ multipleuser) (NNS minicomputers))))))) (. .)))
-
-(S1 (S (NP (NNP Hewlett-Packard)) (VP (VBZ is) (VP (VBN based) (PP (IN in) (NP (NP (NNP Palo) (NNP Alto)) (, ,) (NP (NNP Calif)))))) (. .)))
-

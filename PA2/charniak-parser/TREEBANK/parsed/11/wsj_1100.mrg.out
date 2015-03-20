@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP Westinghouse) (NNP Electric) (NNP Corp.)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB buy) (NP (NNP Shaw-Walker) (NNP Co))))))) (. .)))
-
-(S1 (S (NP (NNS Terms)) (VP (VBD were) (RB n't) (VP (VBN disclosed))) (. .)))
-
-(S1 (S (NP (NP (NNP Shaw-Walker)) (, ,) (VP (VBN based) (PP (IN in) (NP (NP (NNP Muskegon)) (, ,) (NP (NNP Mich.))))) (, ,)) (VP (VBZ makes) (NP (NP (NN metal) (NNS files)) (CC and) (NP (NNS desks)) (, ,) (CC and) (NP (NN seating) (CC and) (NN office) (NNS systems) (NN furniture)))) (. .)))
-

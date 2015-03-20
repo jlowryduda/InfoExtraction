@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP Roger) (NNP M.) (NNP Marino)) (, ,) (NP (NN president)) (, ,)) (VP (VBD was) (VP (VBN named) (PP (TO to) (NP (NP (DT the) (JJ new) (NN post)) (PP (IN of) (NP (NN vice) (NN chairman))))))) (. .)))
-
-(S1 (S (NP (NP (NNP Michael) (NNP Ruettgers)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (S (NP (NP (JJ executive) (NN vice) (NN president)) (, ,) (NP (NNS operations)))))))) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NN president)) (CC and) (NP (JJ chief) (VBG operating) (NN officer)))))) (. .)))
-
-(S1 (S (NP (NNP EMC)) (VP (VBZ manufactures) (NP (NP (JJ data-storage) (NNS systems)) (PP (IN for) (NP (NP (NNS mainframes)) (CC and) (NP (NNS minicomputers)))))) (. .)))
-

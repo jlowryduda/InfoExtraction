@@ -7,4 +7,4 @@ python extract_features.py train.original train.features train
 python extract_features.py dev.original dev.features test
 
 # extract features from the test set
-#python extract_features.py test.original test.features test
+python extract_features.py test.original test.features test

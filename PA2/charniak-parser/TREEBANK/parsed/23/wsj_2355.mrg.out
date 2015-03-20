@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP Kenneth) (NNP J.) (NNP Thygerson)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (VP (VBN named) (S (NP (NP (NN president)) (PP (IN of) (NP (DT this) (NN thrift) (VBG holding) (NN company)))) (PP (IN in) (NP (NNP August)))))))) (, ,)) (VP (VBD resigned) (, ,) (S (VP (VBG citing) (NP (JJ personal) (NNS reasons))))) (. .)))
-
-(S1 (S (NP (NNP Mr.) (NNP Thygerson)) (VP (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD had) (VP (VBN planned) (S (VP (TO to) (VP (VB travel) (PP (IN between) (NP (NP (NP (DT the) (NN job)) (PP (IN in) (NP (NNP Denver)))) (CC and) (NP (PRP$ his) (NNP San) (NNP Diego) (NN home)))))))))))) (, ,) (CC but) (VP (VBZ has) (VP (VBN found) (S (NP (DT the) (NN commute)) (ADJP (RB too) (JJ difficult) (SBAR (S (VP (TO to) (VP (VB continue)))))))))) (. .)))
-
-(S1 (S (NP (DT A) (JJ new) (NN president)) (VP (VBD was) (RB n't) (VP (VBN named))) (. .)))
-

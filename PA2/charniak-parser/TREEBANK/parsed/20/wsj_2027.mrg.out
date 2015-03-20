@@ -1,6 +1,0 @@
-(S1 (S (NP (NP (NNP Michael) (NNP A.) (NNP Gaskin)) (, ,) (ADJP (NP (CD 55) (NNS years)) (JJ old)) (, ,)) (VP (VBD was) (VP (VBN named) (S (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (JJ executive) (NN officer))) (PP (IN of) (NP (NP (DT this) (NN manufacturer)) (PP (IN of) (NP (JJ industrial) (NNS robots))))))) (, ,) (S (VP (VBG succeeding) (NP (NNP Walter) (NNP K.) (NNP Weisel)))))) (. .)))
-
-(S1 (SINV (S (NP (NP (NNP Mr.) (NNP Weisel)) (, ,) (NP (CD 49)) (, ,)) (VP (VP (VBD resigned) (PP (IN as) (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))))) (CC and) (VP (MD will) (VP (VB work) (PP (IN on) (NP (JJ special) (NNS projects))))))) (, ,) (VP (VBD said)) (NP (NP (NNP John) (NNP J.) (NNP Wallace)) (, ,) (NP (NN chairman))) (. .)))
-
-(S1 (S (NP (NNP Mr.) (NNP Gaskin)) (VP (VP (ADVP (RB formerly)) (VBD was) (NP (NP (NP (NN president)) (CC and) (NP (JJ chief) (NN executive))) (PP (IN of) (NP (NNP Taylor) (CC &) (NNP Gaskin) (NNP Inc.))))) (CC and) (VP (VBD was) (NP (NP (DT a) (NN director)) (PP (IN of) (NP (NNP Prab) (NNS Robots)))) (PP (IN since) (NP (CD 1985))))) (. .)))
-

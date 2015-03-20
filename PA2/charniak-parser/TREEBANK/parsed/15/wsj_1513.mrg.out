@@ -1,6 +1,0 @@
-(S1 (S (NP (NNP HASTINGS) (NNP MANUFACTURING) (NNP Co.)) (VP (VBD declared) (NP (NP (DT a) (JJ regular) (JJ quarterly) (NN dividend)) (PP (IN of) (NP (NP (NP (CD 10) (NNS cents)) (NP (DT a) (NN share))) (CC and) (NP (NP (DT an) (JJ extra) (NN dividend)) (PP (IN of) (NP (NP (CD five) (NNS cents)) (NP (DT a) (NN share))))))) (PP (IN on) (NP (PRP$ its) (JJ common) (NN stock))) (, ,) (ADJP (JJ payable) (NP (NNP Dec.) (CD 15)) (PP (TO to) (NP (NP (NNS shares)) (PP (IN of) (NP (NN record))) (NP (NNP Nov.) (CD 17))))))) (. .)))
-
-(S1 (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ 11th) (JJ consecutive) (NN quarter)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NN company)) (VP (VBZ has) (VP (VBN paid) (NP (NNS shareholders)) (NP (NP (DT an) (JJ extra) (NN dividend)) (PP (IN of) (NP (CD five) (NNS cents)))))))))) (. .)))
-
-(S1 (S (NP (DT The) (NAC (NNP Hastings) (, ,) (NNP Mich.) (, ,)) (NN concern)) (VP (VBZ makes) (NP (NN piston) (NNS rings) (, ,) (NNS filters) (CC and) (NN fuel) (NNS pumps))) (. .)))
-
