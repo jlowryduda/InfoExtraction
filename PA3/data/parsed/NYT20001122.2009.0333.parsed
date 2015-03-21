@@ -1,5 +1,3 @@
-NYT20001122.2009.0333/NNP NEWS/NNP STORY/NNP 2000-11-22/CD 20:35:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001122.2009.0333) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(20:35:00-5, 2000-11-22-4)
 dep(STORY-3, 20:35:00-5)
-
-A8450/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-EXP-LUXURY-GOODS-NYT/NNP &LR/NNP ;/: 11-22/CD 0502/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0502-11, 11-22-10)
 dep(&LR-8, 0502-11)
 
-BC-EXP-LUXURY-GOODS-NYT/NNP
-
 (ROOT
   (NP (NNP BC-EXP-LUXURY-GOODS-NYT)))
 
 root(ROOT-0, BC-EXP-LUXURY-GOODS-NYT-1)
-
-ANOTHER/DT JOLLY/NNP SEASON/NNP IN/NNP STORE/NNP FOR/NNP LUXURY/NNP GOODS/NNP
 
 (ROOT
   (NP
@@ -56,8 +48,6 @@ nn(GOODS-8, STORE-5)
 nn(GOODS-8, FOR-6)
 nn(GOODS-8, LUXURY-7)
 dep(ANOTHER-1, GOODS-8)
-
-[EDS/NNS :/: This/DT article/NN is/VBZ part/NN of/IN TIMES/NNP EXPRESS/NNP ./.
 
 (ROOT
   (NP
@@ -79,8 +69,6 @@ cop(part-6, is-5)
 dep([EDS-1, part-6)
 nn(EXPRESS-9, TIMES-8)
 prep_of(part-6, EXPRESS-9)
-
-It/PRP is/VBZ a/DT condensed/JJ version/NN of/IN a/DT story/NN that/WDT will/MD appear/VB in/IN tomorrow/NNP 's/POS New/NNP York/NNP Times/NNP ./.
 
 (ROOT
   (S
@@ -117,8 +105,6 @@ nn(Times-17, New-15)
 nn(Times-17, York-16)
 prep_in(appear-11, Times-17)
 
-ART/JJ ADV/NN :/: Graphic/NNP is/VBZ being/VBG sent/VBN to/TO NYT/NNP graphic/JJ clients/NNS ./.
-
 (ROOT
   (NP
     (NP (JJ ART) (NN ADV))
@@ -141,8 +127,6 @@ dep(ADV-2, sent-7)
 nn(clients-11, NYT-9)
 amod(clients-11, graphic-10)
 prep_to(sent-7, clients-11)
-
-Nonsubscribers/NNS can/MD make/VB individual/JJ purchase/NN by/IN calling/VBG 888-603-1036/CD or/CC 888-346-9867/CD .]/JJ &QL/NNS ;/: &UR/NNS ;/: By/NNP LESLIE/NNP KAUFMAN/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (S
@@ -198,8 +182,6 @@ dep(&QL-12, &UR-25)
 dep(&QL-12, c.2000-27)
 appos(c.2000-27, N.Y-28)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -216,8 +198,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-While/RB most/JJS Americans/NNPS would/MD be/VB content/NN with/IN a/DT Sony/NNP Playstation/NNP II/NNP or/CC a/DT sweater/JJR twin/NN set/VBN under/IN the/DT tree/NN this/DT year/NN ,/, for/IN an/DT increasing/JJ number/NN of/IN people/NNS mere/RB cashmere/RB does/VBZ not/RB say/VB ``I/NNP love/VB you/PRP ''/'' with/IN quite/IN the/DT same/JJ authority/NN as/IN pashmina/NN ./.
 
 (ROOT
   (S
@@ -298,8 +278,6 @@ amod(authority-42, same-41)
 prep_quite(love-35, authority-42)
 prep_as(authority-42, pashmina-44)
 
-The/DT economy/NN may/MD be/VB slowing/VBG somewhat/RB ,/, but/CC the/DT top/JJ slice/NN of/IN income/NN earners/NNS is/VBZ still/RB sitting/VBG on/IN a/DT huge/JJ pile/NN of/IN wealth/JJ and/CC is/VBZ expected/VBN to/TO propel/VB such/JJ purveyors/NNS of/IN designer/NN delectables/NNS as/IN Tiffany/NNP &AMP;/NNP Co/NNP ./.
-
 (ROOT
   (S
     (S
@@ -371,8 +349,6 @@ nn(Co-37, Tiffany-35)
 nn(Co-37, &AMP;-36)
 prep_as(propel-28, Co-37)
 
-and/CC the/DT Neiman/NNP Marcus/NNP Group/NNP into/IN yet/RB another/DT banner/NN financial/JJ year/NN ./.
-
 (ROOT
   (FRAG (CC and)
     (NP
@@ -393,8 +369,6 @@ det(banner-9, another-8)
 prep_into(Group-5, banner-9)
 amod(year-11, financial-10)
 dep(banner-9, year-11)
-
-Every/RB shopper/JJR vaguely/RB suspects/NNS that/WDT there/RB is/VBZ as/RB much/JJ art/NN as/IN substance/NN in/IN the/DT difference/NN between/IN an/DT $8/JJ Revlon/NNP lipstick/NN and/CC the/DT By/NNP Terry/NNP counterpart/NN ,/, going/VBG for/IN $49/CD ./.
 
 (ROOT
   (NP
@@ -454,8 +428,6 @@ dep(By-23, counterpart-25)
 vmod(difference-15, going-27)
 prep_for(going-27, $49-29)
 
-But/CC luxury-goods/VBZ companies/NNS guard/VBD no/DT secret/NN more/JJR ferociously/RB than/IN the/DT cost/NN of/IN making/VBG their/PRP$ wares/NNS ./.
-
 (ROOT
   (S (CC But)
     (VP (VBZ luxury-goods)
@@ -487,8 +459,6 @@ prep_than(guard-4, cost-11)
 prepc_of(cost-11, making-13)
 poss(wares-15, their-14)
 dobj(making-13, wares-15)
-
-``We/RB are/VBP uncomfortable/JJ even/RB with/IN the/DT question/NN ,''/NN said/VBD Christina/NNP Kim/NNP ,/, a/DT spokeswoman/NN for/IN Hermes/NNS of/IN Paris/NNP ./.
 
 (ROOT
   (SINV
@@ -527,8 +497,6 @@ appos(Kim-11, spokeswoman-14)
 prep_for(spokeswoman-14, Hermes-16)
 prep_of(Hermes-16, Paris-18)
 
-Still/RB ,/, it/PRP is/VBZ possible/JJ to/TO gain/VB glimpses/NNS of/IN enlightenment/NN ./.
-
 (ROOT
   (S
     (ADVP (RB Still))
@@ -554,8 +522,6 @@ aux(gain-7, to-6)
 xcomp(possible-5, gain-7)
 dobj(gain-7, glimpses-8)
 prep_of(glimpses-8, enlightenment-10)
-
-Public/JJ companies/NNS have/VBP to/TO report/VB gross/JJ margins/NNS _/IN the/DT money/NN they/PRP take/VB in/IN after/IN the/DT costs/NNS of/IN making/VBG their/PRP$ goods/NNS are/VBP deducted/VBN ./.
 
 (ROOT
   (S
@@ -606,8 +572,6 @@ dobj(making-18, goods-20)
 auxpass(deducted-22, are-21)
 prepc_in(take-12, deducted-22)
 
-For/IN a/DT luxury/NN company/NN like/IN Gucci/NNP or/CC Estee/NNP Lauder/NNP ,/, that/DT number/NN usually/RB runs/NNS in/IN excess/NN of/IN 60/CD percent/NN of/IN total/JJ revenues/NNS ./.
-
 (ROOT
   (FRAG
     (PP (IN For)
@@ -648,8 +612,6 @@ num(percent-19, 60-18)
 prep_of(number-12, percent-19)
 amod(revenues-22, total-21)
 prep_of(percent-19, revenues-22)
-
-That/DT means/VBZ the/DT actual/JJ cost/NN of/IN making/VBG their/PRP$ stuff/NN ,/, from/IN sweaters/NNS to/TO thigh-high/JJ leather/NN boots/NNS ,/, is/VBZ less/RBR than/IN 40/CD percent/NN of/IN the/DT average/NN price/NN tag/NN ./.
 
 (ROOT
   (S
@@ -702,8 +664,6 @@ nn(tag-27, average-25)
 nn(tag-27, price-26)
 prep_of(percent-22, tag-27)
 
-[By/JJ contrast/NN ,/, gross/JJ margins/NNS at/IN the/DT Gap/NNP and/CC other/JJ chain/NN apparel/NN stores/NNS rarely/RB rise/VB above/IN 45/CD percent/JJ .]/.
-
 (ROOT
   (S
     (NP
@@ -737,8 +697,6 @@ root(ROOT-0, rise-15)
 prep_above(rise-15, 45-17)
 amod(45-17, percent-18)
 punct(rise-15, .]-19)
-
-And/CC as/RB profitable/JJ as/IN cosmetics/NNS and/CC accessories/NNS can/MD be/VB ,/, most/JJS luxury/NN houses/NNS have/VBP at/IN least/JJS one/CD other/JJ blockbuster/NN that/WDT is/VBZ a/DT deep/JJ well/UH of/IN cash/NN ./.
 
 (ROOT
   (S (CC And)
@@ -796,8 +754,6 @@ ccomp(blockbuster-19, deep-23)
 npadvmod(deep-23, well-24)
 prep_of(deep-23, cash-26)
 
-For/IN example/NN ,/, one/CD executive/NN at/IN a/DT luxury/NN house/NN explained/VBD the/DT rough/JJ cost/NN of/IN producing/VBG a/DT high-quality/JJ leather/NN handbag/NN ./.
-
 (ROOT
   (S
     (PP (IN For)
@@ -832,8 +788,6 @@ amod(handbag-19, high-quality-17)
 nn(handbag-19, leather-18)
 dobj(producing-15, handbag-19)
 
-The/DT finest/NN leather/NN from/IN an/DT Italian/JJ [only/JJ !]/NN tannery/NN costs/VBZ $50/CD to/TO $60/CD ./.
-
 (ROOT
   (S
     (NP
@@ -857,8 +811,6 @@ root(ROOT-0, costs-10)
 number($60-13, $50-11)
 dep($60-13, to-12)
 dobj(costs-10, $60-13)
-
-The/DT labor/NN of/IN a/DT master/NN craftsman/NN to/TO cut/VB and/CC stitch/VB the/DT bag/NN costs/VBZ roughly/RB $72/CD ./.
 
 (ROOT
   (S
@@ -892,8 +844,6 @@ root(ROOT-0, costs-13)
 quantmod($72-15, roughly-14)
 dobj(costs-13, $72-15)
 
-The/DT exclusive/JJ metal/JJ hardware/NN ,/, like/IN the/DT logo/NN and/CC locks/NNS ,/, might/MD account/VBP $45/CD ./.
-
 (ROOT
   (S
     (NP
@@ -921,8 +871,6 @@ conj_and(logo-8, locks-10)
 aux(account-13, might-12)
 root(ROOT-0, account-13)
 dobj(account-13, $45-14)
-
-Add/IN another/DT 5/CD percent/NN for/IN miscellaneous/JJ costs/NNS ,/, and/CC all/DT in/IN all/DT there/EX is/VBZ $180/CD worth/NN of/IN bag/NN ./.
 
 (ROOT
   (S
@@ -959,8 +907,6 @@ root(ROOT-0, is-14)
 num(worth-16, $180-15)
 nsubj(is-14, worth-16)
 prep_of(worth-16, bag-18)
-
-And/CC that/IN stays/VBZ the/DT same/JJ ,/, this/DT executive/NN says/VBZ ,/, whether/IN you/PRP are/VBP paying/VBG $460/CD for/IN Escada/NNP 's/POS new/JJ handbag/NN in/IN turquoise/NN leather/NN or/CC $4,800/NN for/IN that/DT forest/NN green/VBN Hermes/NNP Kelly/NNP handbag/NN that/WDT is/VBZ so/RB frequently/JJ out/IN of/IN stock/NN ./.
 
 (ROOT
   (S (CC And)
@@ -1036,8 +982,6 @@ advmod(frequently-36, so-35)
 rcmod(handbag-32, frequently-36)
 prepc_out_of(frequently-36, of-38)
 pobj(frequently-36, stock-39)
-
-To/TO be/VB fair/NN ,/, there/EX are/VBP very/RB real/JJ expenses/NNS that/WDT will/MD cut/VB the/DT final/JJ profit/NN on/IN luxury/NN products/NNS :/: advertising/NN ,/, fabulous/JJ parties/NNS to/TO create/VB buzz/NNS ,/, rents/NNS on/IN the/DT fanciest/JJ boulevards/NNS and/CC salaries/NNS to/TO the/DT fine-boned/JJ sales/NNS clerks/NNS who/WP speak/VBP in/IN charming/VBG foreign/JJ accents/NNS ,/, to/TO name/VB a/DT few/JJ ./.
 
 (ROOT
   (S
@@ -1141,8 +1085,6 @@ xcomp(speak-41, name-48)
 det(few-50, a-49)
 dobj(name-48, few-50)
 
-But/CC do/VB those/DT outlays/NNS for/IN image/NN really/RB change/VB the/DT intrinsic/JJ worth/NN of/IN the/DT product/NN ?/.
-
 (ROOT
   (S (CC But)
     (VP (VB do)
@@ -1171,8 +1113,6 @@ dobj(change-8, worth-11)
 det(product-14, the-13)
 prep_of(worth-11, product-14)
 
-Suffice/NNP it/PRP to/TO say/VB that/DT fine/NN minds/VBZ differ/JJ ./.
-
 (ROOT
   (S
     (NP
@@ -1195,8 +1135,6 @@ det(fine-6, that-5)
 dobj(say-4, fine-6)
 root(ROOT-0, minds-7)
 acomp(minds-7, differ-8)
-
-NYT-11-22-00/CD 2035EST/CD
 
 (ROOT
   (FRAG

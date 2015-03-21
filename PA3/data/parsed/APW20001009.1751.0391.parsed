@@ -1,5 +1,3 @@
-APW20001009.1751.0391/DT NEWS/NNP STORY/NNPS 2000-10-09/CD 17:51:42/CD
-
 (ROOT
   (NP
     (NP (DT APW20001009.1751.0391))
@@ -12,14 +10,10 @@ dep(APW20001009.1751.0391-1, STORY-3)
 num(17:51:42-5, 2000-10-09-4)
 dep(APW20001009.1751.0391-1, 17:51:42-5)
 
-France-Fashion/NNP
-
 (ROOT
   (NP (NNP France-Fashion)))
 
 root(ROOT-0, France-Fashion-1)
-
-Rabanne/NNP Fashion/NNP Has/NNP Silver/NNP Lining/NNP
 
 (ROOT
   (NP (NNP Rabanne) (NNP Fashion) (NNP Has) (NNP Silver) (NNP Lining)))
@@ -29,8 +23,6 @@ nn(Lining-5, Fashion-2)
 nn(Lining-5, Has-3)
 nn(Lining-5, Silver-4)
 root(ROOT-0, Lining-5)
-
-PARIS/NNP [AP/NNP ]/, _/DT Paco/NNP Rabanne/NNP 's/POS Monday/NNP show/NN of/IN ready-to-wear/JJ for/IN summer/NN 2001/CD was/VBD shiny/RB ,/, young/JJ and/CC happy/NN ./.
 
 (ROOT
   (S
@@ -73,8 +65,6 @@ conj_and(shiny-16, young-18)
 advmod(was-15, happy-20)
 conj_and(shiny-16, happy-20)
 
-He/PRP decided/VBD that/IN fashion/NN has/VBZ a/DT silver/NN lining/VBG _/NN and/CC exterior/NN ,/, as/RB well/RB ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -106,8 +96,6 @@ conj_and(_-9, exterior-11)
 advmod(well-14, as-13)
 mwe(well-14, as-13)
 advmod(exterior-11, well-14)
-
-The/DT designer/NN was/VBD expected/VBN to/TO retire/VB a/DT couple/NN of/IN seasons/NNS ago/RB ,/, but/CC he/PRP only/RB gave/VBD up/RP haute/NN couture/NN ,/, and/CC threw/IN his/PRP$ well-known/JJ talents/NNS for/IN chain-mail/NN and/CC sequins/VBZ into/IN boutique/JJ clothes/NNS ./.
 
 (ROOT
   (S
@@ -173,8 +161,6 @@ conj_and(gave-16, sequins-29)
 amod(clothes-32, boutique-31)
 prep_into(sequins-29, clothes-32)
 
-With/IN a/DT waterfall/NN background/NN ,/, the/DT models/NNS paraded/VBN by/IN in/IN gold/NN or/CC silver/JJR disc/JJ dresses/NNS ,/, super/NN slithery/NN silver/NN metallic/JJ bikinis/NN ,/, wraps/RB and/CC micro-mini/JJ dresses/NNS or/CC hot/VB pants/NNS ./.
-
 (ROOT
   (S
     (PP (IN With)
@@ -227,8 +213,6 @@ dep(pants-29, hot-28)
 conj_and(gold-11, pants-29)
 conj_or(dresses-26, pants-29)
 
-Well/NNP over/IN sixty/NN ,/, Rabanne/NNP still/RB has/VBZ an/DT eye/NN for/IN the/DT younger/NN circuit/NN ./.
-
 (ROOT
   (S
     (NP
@@ -256,8 +240,6 @@ dobj(has-7, eye-9)
 det(circuit-13, the-11)
 nn(circuit-13, younger-12)
 prep_for(eye-9, circuit-13)
-
-The/DT smooth/JJ caramel/NN imitation/NN leather/NN outfits/NNS with/IN nailheads/NNS _/IN jackets/NNS ,/, flared/VBD pants/NNS and/CC more/JJR _/NN were/VBD remarkable/JJ ./.
 
 (ROOT
   (S
@@ -294,8 +276,6 @@ conj_and(jackets-10, _-16)
 cop(remarkable-18, were-17)
 root(ROOT-0, remarkable-18)
 
-Also/NNP entertaining/NN was/VBD the/DT bikini/NN in/IN tortoise-shell-patterned/JJ plastic/JJ discs/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Also) (NN entertaining))
@@ -314,8 +294,6 @@ root(ROOT-0, bikini-5)
 amod(discs-9, tortoise-shell-patterned-7)
 amod(discs-9, plastic-8)
 prep_in(bikini-5, discs-9)
-
-Bare/RB midriffs/NNS and/CC trousers/NNS flared/VBD and/CC split/NN halfway/NN up/RP the/DT leg/JJ looked/JJ zingy/NN ./.
 
 (ROOT
   (S
@@ -344,8 +322,6 @@ det(zingy-13, the-10)
 amod(zingy-13, leg-11)
 amod(zingy-13, looked-12)
 dep(up-9, zingy-13)
-
-Of/NNP course/NN ,/, there/EX were/VBD hot/JJ pants/NNS ,/, in/IN glitzy/JJ metallics/NNS and/CC soft/NN leather/NN ,/, and/CC there/EX were/VBD metal/JJ hip/NN belts/NNS or/CC breastplate/VB neckwear/JJ galore/NN ./.
 
 (ROOT
   (S
@@ -397,8 +373,6 @@ conj_or(belts-21, breastplate-23)
 amod(galore-25, neckwear-24)
 dobj(breastplate-23, galore-25)
 
-Softwear/NNP here/RB included/VBD geometrics/NNS on/IN striped/JJ minis/NN in/IN little/JJ crepe/NN or/CC organza/NN dresses/NNS ,/, some/DT good/JJ trouser/NN outfits/NNS with/IN plastic/JJ or/CC metal/JJ adorning/VBG halter-neck/NN toppers/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Softwear))
@@ -443,8 +417,6 @@ amod(toppers-25, adorning-23)
 nn(toppers-25, halter-neck-24)
 prep_with(outfits-18, toppers-25)
 conj_or(plastic-20, toppers-25)
-
-For/IN eye-popping/VBG specials/NNS ,/, Rabanne/NNP came/VBD out/IN with/IN plenty/NN of/IN fluorescent/JJ green/JJ and/CC orange/JJ ,/, quite/JJ fun/NN for/IN the/DT disco/NN in/IN a/DT rhodoid/JJ disc-decorated/JJ minidress/NN with/IN matching/VBG bag/NN ./.
 
 (ROOT
   (S
@@ -495,8 +467,6 @@ amod(minidress-25, disc-decorated-24)
 prep_in(disco-20, minidress-25)
 prepc_with(came-6, matching-27)
 dobj(matching-27, bag-28)
-
-The/DT long/JJ silky/NN and/CC tulle/NN black/JJ ballerina/NN outfits/NNS were/VBD a/DT sober/NN note/NN ,/, though/IN the/DT sandals/NNS were/VBD interesting/VBG _/IN heels/NNS only/RB ,/, clinging/VBG to/TO the/DT foot/NN ,/, with/IN a/DT ring/NN on/IN a/DT toe/NN ./.
 
 (ROOT
   (S
@@ -554,8 +524,6 @@ prep_with(clinging-23, ring-30)
 det(toe-33, a-32)
 prep_on(ring-30, toe-33)
 
-Dries/NNS van/VBP Noten/RB also/RB produced/VBD an/DT amusing/NN ,/, appealing/VBG collection/NN that/IN stood/NN as/IN a/DT feminine/NN moment/NN ./.
-
 (ROOT
   (S
     (NP
@@ -591,8 +559,6 @@ prep_that(collection-10, stood-12)
 det(moment-16, a-14)
 nn(moment-16, feminine-15)
 prep_as(appealing-9, moment-16)
-
-The/DT flowered/JJ skirts/NNS in/IN sun/JJ pleats/NNS ,/, the/DT interesting/JJ striped/JJ jackets/NNS in/IN Indian/JJ silk/NN ,/, teamed/VBN with/IN shiny/JJ black/JJ and/CC white/JJ patent/NN high-heeled/JJ pumps/NNS ,/, looked/VBD partly/RB retro/JJ ,/, but/CC eminently/RB wearable/JJ ./.
 
 (ROOT
   (S
@@ -646,8 +612,6 @@ acomp(looked-26, retro-28)
 advmod(wearable-32, eminently-31)
 acomp(looked-26, wearable-32)
 conj_but(retro-28, wearable-32)
-
-Low-keyed/VBN glamour/JJ here/RB included/VBD flapper/JJ looks/NNS in/IN low-belted/JJ outfits/NNS with/IN short/JJ pleated/JJ skirts/NNS ,/, some/DT super/NN sailor/NN -style/JJ trouser/NN outfits/NNS with/IN fluid/JJ ivory/NN or/CC white/JJ pants/NNS and/CC little/JJ jackets/NNS and/CC striped/VBD shirts/NNS ./.
 
 (ROOT
   (S
@@ -713,8 +677,6 @@ conj_and(pants-26, jackets-29)
 conj_and(included-4, striped-31)
 dobj(striped-31, shirts-32)
 
-Prints/NNS for/IN the/DT georgette/JJ crepes/NNS and/CC chiffons/NNS were/VBD often/RB wonderful/JJ ./.
-
 (ROOT
   (S
     (NP
@@ -737,8 +699,6 @@ cop(wonderful-10, were-8)
 advmod(wonderful-10, often-9)
 root(ROOT-0, wonderful-10)
 
-They/PRP looked/VBD like/IN watercolors/NNS of/IN arbors/NNS or/CC fantasy/JJ flowers/NNS ./.
-
 (ROOT
   (S
     (NP (PRP They))
@@ -760,8 +720,6 @@ prep_of(watercolors-4, arbors-6)
 amod(flowers-9, fantasy-8)
 prep_of(watercolors-4, flowers-9)
 conj_or(arbors-6, flowers-9)
-
-Ruffles/NNS peeping/VBG out/RP here/RB and/CC there/RB from/IN skirts/NNS or/CC on/IN tops/NNS added/VBD more/RBR feminine/JJ touches/NNS ./.
 
 (ROOT
   (S
@@ -798,8 +756,6 @@ root(ROOT-0, added-12)
 advmod(feminine-14, more-13)
 amod(touches-15, feminine-14)
 dobj(added-12, touches-15)
-
-Dresses/NNS in/IN hibiscus-embroidered/JJ fabrics/NNS ,/, large/JJ chiffon/NN shawls/NNS with/IN floral/JJ embroideries/NNS ,/, boxy/JJ silk/NN jackets/NNS and/CC the/DT hipster/NN pants/VBZ all/DT made/VBN for/IN a/DT fine/NN offering/NN ./.
 
 (ROOT
   (S
@@ -847,8 +803,6 @@ vmod(all-20, made-21)
 det(offering-25, a-23)
 nn(offering-25, fine-24)
 prep_for(made-21, offering-25)
-
-Gaspard/NNP Yurkievitch/NNP ,/, a/DT young/JJ French/JJ designer/NN ,/, showing/VBG in/IN the/DT Petit/NNP Palais/NNP ,/, could/MD make/VB the/DT grade/NN in/IN some/DT stores/NNS with/IN his/PRP$ offhand/NN styles/NNS that/IN some/DT find/NN cool/NN but/CC that/DT lacked/JJ sex/NN appeal/NN ./.
 
 (ROOT
   (S
@@ -905,8 +859,6 @@ amod(appeal-34, lacked-32)
 nn(appeal-34, sex-33)
 pobj(but-30, appeal-34)
 
-A/DT black/JJ bathing/NN suit/NN with/IN a/DT fawn/JJ suede/NN jacket/NN with/IN nailhead/JJ snaps/NNS was/VBD followed/VBN by/IN skinny/JJ fawn/NN trousers/NNS with/IN plenty/NN of/IN bare/NN midriff/NN showing/VBG under/IN the/DT black/JJ bra/NN ./.
-
 (ROOT
   (S
     (NP
@@ -954,8 +906,6 @@ det(bra-28, the-26)
 amod(bra-28, black-27)
 prep_under(showing-24, bra-28)
 
-Then/RB things/NNS went/VBD into/IN the/DT puffy/NN ,/, baggy/JJ lines/NNS ,/, the/DT latest/JJS look-back-to-Eighties/NNS styles/NNS seen/VBN on/IN some/DT runways/NNS ./.
-
 (ROOT
   (S (RB Then)
     (NP (NNS things))
@@ -989,8 +939,6 @@ dobj(went-3, styles-14)
 vmod(styles-14, seen-15)
 det(runways-18, some-17)
 prep_on(seen-15, runways-18)
-
-In/IN cotton/NN satins/NNS and/CC other/JJ fabrics/NNS ,/, Yurkievitch/NN showed/VBD pants/NNS with/IN baggy/NN bottoms/NNS ,/, skirts/NNS with/IN bubbly/RB effects/NNS and/CC some/DT odd/JJ ruffles/NNS around/IN armholes/NNS ./.
 
 (ROOT
   (S
@@ -1038,8 +986,6 @@ prep_with(skirts-15, ruffles-22)
 conj_and(effects-18, ruffles-22)
 prep_around(showed-9, armholes-24)
 
-These/DT often/RB came/VBD in/IN colors/NNS like/IN magenta/NN or/CC brown/NN ./.
-
 (ROOT
   (S
     (NP (DT These))
@@ -1060,8 +1006,6 @@ prep_in(came-3, colors-5)
 prep_like(came-3, magenta-7)
 prep_like(came-3, brown-9)
 conj_or(magenta-7, brown-9)
-
-Even/RB harem/VBP pants/NNS or/CC a/DT totally/RB topless/JJ number/NN with/IN lacy/NN black/JJ pants/NNS and/CC bikini/NN bottoms/NNS failed/VBD to/TO lure/VB ./.
 
 (ROOT
   (S

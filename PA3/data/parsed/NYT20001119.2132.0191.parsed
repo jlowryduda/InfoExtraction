@@ -1,5 +1,3 @@
-NYT20001119.2132.0191/CD NEWS/NNP STORY/NNP 2000-11-19/CD 21:52:00/CD
-
 (ROOT
   (NP
     (NP (CD NYT20001119.2132.0191))
@@ -11,8 +9,6 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001119.2132.0191-1, STORY-3)
 num(21:52:00-5, 2000-11-19-4)
 dep(NYT20001119.2132.0191-1, 21:52:00-5)
-
-A4616/CD &Cx1f/NN ;/: tib-z/JJ u/NN k/IN BC-SAFIRE-COLUMN-NYT/NNP &LR/NNP ;/: 11-19/CD 0752/CD
 
 (ROOT
   (FRAG
@@ -35,14 +31,10 @@ prep_k(u-5, &LR-8)
 num(0752-11, 11-19-10)
 dep(&Cx1f-2, 0752-11)
 
-BC-SAFIRE-COLUMN-NYT/NNP
-
 (ROOT
   (NP (NNP BC-SAFIRE-COLUMN-NYT)))
 
 root(ROOT-0, BC-SAFIRE-COLUMN-NYT-1)
-
-COMMENTARY/NN :/: ARAFAT'S/NNP `WAR/NNP PROCESS/NNP '/POS
 
 (ROOT
   (NP
@@ -55,8 +47,6 @@ root(ROOT-0, COMMENTARY-1)
 dep(COMMENTARY-1, ARAFAT'S-3)
 nn(PROCESS-5, `WAR-4)
 poss(ARAFAT'S-3, PROCESS-5)
-
-[Essay/NNP ]/NNP &QL/NNP ;/: &UR/NNS ;/: By/NNP WILLIAM/NNP SAFIRE/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -95,8 +85,6 @@ dep(&QL-3, &UR-16)
 dep(&UR-16, c.2000-18)
 appos(c.2000-18, N.Y-19)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -113,8 +101,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-WASHINGTON/NNP _/NNP When/WRB the/DT leader/NN of/IN the/DT Hezbollah/NNP in/IN Syrian/JJ -occupied/JJ Lebanon/NNP came/VBD up/RP with/IN a/DT plan/NN to/TO kidnap/VB three/CD Israeli/NNP soldiers/NNS six/CD weeks/NNS ago/RB ,/, his/PRP$ Iranian/JJ sponsors/NNS cautioned/VBD him/PRP to/TO first/RB get/VB the/DT approval/NN of/IN Bashar/NNP Assad/NNP ,/, the/DT new/JJ president/NN of/IN Syria/NNP ./.
 
 (ROOT
   (S
@@ -203,8 +189,6 @@ amod(president-43, new-42)
 appos(Assad-39, president-43)
 prep_of(president-43, Syria-45)
 
-That/DT 's/VBZ because/IN Israel/NNP was/VBD expected/VBN to/TO retaliate/VB against/IN Hezbollah/NNP forces/NNS in/IN areas/NNS controlled/VBN by/IN Syrian/JJ troops/NNS ./.
-
 (ROOT
   (S
     (NP (DT That))
@@ -242,8 +226,6 @@ prep_in(retaliate-8, areas-13)
 vmod(areas-13, controlled-14)
 amod(troops-17, Syrian-16)
 agent(controlled-14, troops-17)
-
-Ever/RB since/IN Israel/NNP 's/POS troops/NNS pulled/VBN out/IN of/IN its/PRP$ Lebanese/JJ buffer/NN zone/NN ,/, Hezbollah/NNP 's/POS terrorism/NN has/VBZ been/VBN closely/RB coordinated/JJ with/IN Bashar/NNP in/IN Damascus/NNP ./.
 
 (ROOT
   (S
@@ -286,8 +268,6 @@ advmod(coordinated-20, closely-19)
 root(ROOT-0, coordinated-20)
 prep_with(coordinated-20, Bashar-22)
 prep_in(coordinated-20, Damascus-24)
-
-Usually/RB reliable/JJ intelligence/NN sources/NNS note/VBP that/IN the/DT inexperienced/JJ Bashar/NNP ,/, eager/NN to/TO establish/VB credentials/NNS in/IN the/DT Arab/NNP world/NN as/IN a/DT militant/JJ enemy/NN of/IN Israel/NNP ,/, gave/VBD his/PRP$ approval/NN to/TO the/DT kidnap/JJ plan/NN ./.
 
 (ROOT
   (S
@@ -346,8 +326,6 @@ det(plan-32, the-30)
 amod(plan-32, kidnap-31)
 prep_to(gave-26, plan-32)
 
-This/DT despite/IN the/DT danger/NN that/IN the/DT Hezbollah/NNP 's/POS capture/NN of/IN Israeli/NNP soldiers/NNS could/MD lead/VB to/TO armed/JJ confrontation/NN in/IN Lebanon/NNP between/IN Syrian/NNP and/CC Israeli/NNP forces/NNS ./.
-
 (ROOT
   (FRAG
     (NP (DT This))
@@ -394,8 +372,6 @@ conj_and(Syrian-21, Israeli-23)
 nn(forces-24, Israeli-23)
 prep_between(Lebanon-19, forces-24)
 
-On/IN or/CC about/IN Oct/NN ./.
-
 (ROOT
   (S
     (VP
@@ -408,8 +384,6 @@ On/IN or/CC about/IN Oct/NN ./.
 root(ROOT-0, On-1)
 conj_or(On-1, about-3)
 pobj(On-1, Oct-4)
-
-8/CD ,/, Hassan/NNP Nasrallah/NNP ,/, secretary/JJ general/NN of/IN Hezbollah/NNP ,/, reported/VBD directly/RB to/TO Bashar/NNP that/IN the/DT kidnapping/NN had/VBD been/VBN carried/VBN out/RP as/IN planned/VBN ./.
 
 (ROOT
   (S
@@ -455,8 +429,6 @@ auxpass(carried-20, been-19)
 ccomp(reported-11, carried-20)
 prt(carried-20, out-21)
 prep_as(carried-20, planned-23)
-
-Bashar/NNP was/VBD heard/NN to/TO have/VB congratulated/VBN him/PRP on/IN its/PRP$ ``smooth/JJ execution/NN ,''/IN goes/VBZ the/DT undercover/NN account/NN ,/, and/CC assured/VBD the/DT terrorist/NN leader/NN full/JJ backing/NN against/IN anticipated/JJ mild/JJ U.N./NNP reaction/NN as/RB well/RB as/IN a/DT stronger/JJR response/NN from/IN Israel/NNP ./.
 
 (ROOT
   (S
@@ -522,8 +494,6 @@ amod(response-35, stronger-34)
 conj_and(reaction-29, response-35)
 prep_from(response-35, Israel-37)
 
-The/DT risk/NN accepted/VBN by/IN Arab/NNP and/CC Persian/JJ leaders/NNS in/IN a/DT daring/NN provocation/NN within/IN what/WP Israel/NNP considers/NNS its/PRP$ territory/NN was/VBD evidence/NN of/IN what/WP is/VBZ emerging/VBG as/IN Yasser/NNP Arafat/NNP 's/POS strategy/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (NN risk))
@@ -581,8 +551,6 @@ prepc_of(evidence-20, emerging-24)
 nn(Arafat-27, Yasser-26)
 poss(strategy-29, Arafat-27)
 prep_as(emerging-24, strategy-29)
-
-From/NNP his/PRP$ turnabout/NN that/IN so/RB surprised/JJ President/NNP Clinton/NNP at/IN the/DT Camp/NNP David/NNP fiasco/NNP ,/, to/TO his/PRP$ reluctance/NN to/TO speak/VB out/RP to/TO restrain/VB the/DT rioting/NN of/IN Palestinians/NNPS and/CC sniping/VBG of/IN his/PRP$ gunmen-police/NN ,/, his/PRP$ plan/NN can/MD be/VB deduced/VBN :/:
 
 (ROOT
   (NP
@@ -656,8 +624,6 @@ nsubjpass(deduced-37, plan-34)
 aux(deduced-37, can-35)
 auxpass(deduced-37, be-36)
 dep(turnabout-3, deduced-37)
-
-First/JJ step/NN is/VBZ to/TO transform/NN the/DT ``peace/NN process/NN ,''/, which/WDT was/VBD in/IN danger/NN of/IN succeeding/VBG in/IN establishing/VBG a/DT small/JJ Palestinian/JJ state/NN ,/, into/IN a/DT religious/JJ ``war/NN process/NN ''/'' for/IN control/NN of/IN Jerusalem/NNP and/CC a/DT state/NN incorporating/NN Jordan/NNP and/CC Israel/NNP ./.
 
 (ROOT
   (S
@@ -733,8 +699,6 @@ dep(incorporating-36, Jordan-37)
 dep(incorporating-36, Israel-39)
 conj_and(Jordan-37, Israel-39)
 
-What/WP keeps/NNS Arafat/VBN in/IN power/NN is/VBZ not/RB the/DT dubious/JJ economic/JJ promise/NN of/IN a/DT struggling/JJ dictatorship/NN but/CC his/PRP$ militant/JJ followers/NNS '/POS dream/NN of/IN driving/VBG the/DT Jews/NNP out/RP of/IN the/DT Middle/NNP East/NNP ./.
-
 (ROOT
   (S
     (SBAR
@@ -789,8 +753,6 @@ det(East-30, the-28)
 nn(East-30, Middle-29)
 prep_out_of(driving-23, East-30)
 
-Second/NNP step/NN is/VBZ to/TO whip/VB up/RP support/NN in/IN world/NN opinion/NN by/IN creating/VBG innocent/JJ victims/NNS of/IN Israeli/NNP guns/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Second) (NN step))
@@ -827,8 +789,6 @@ amod(victims-14, innocent-13)
 dobj(creating-12, victims-14)
 nn(guns-17, Israeli-16)
 prep_of(victims-14, guns-17)
-
-Palestinian/JJ snipers/NNS draw/TO fire/VB into/IN civilian/JJ crowds/NNS for/IN the/DT sole/JJ purpose/NN of/IN sacrificing/VBG innocents/NNS ,/, creating/VBG anguished/VBD funeral/JJ demonstrations/NNS and/CC spreading/VBG hatred/NN ./.
 
 (ROOT
   (S
@@ -873,8 +833,6 @@ dobj(anguished-17, demonstrations-19)
 prepc_of(purpose-11, spreading-21)
 conj_and(sacrificing-13, spreading-21)
 dobj(spreading-21, hatred-22)
-
-Every/RB casualty/NN is/VBZ exploitable/JJ ;/: every/NN picture/NN of/IN a/DT boy/NN with/IN a/DT slingshot/NN rather/RB than/IN a/DT gun/NN is/VBZ a/DT small/JJ victory/NN ;/: the/DT gut-wrenching/JJ film/NN of/IN the/DT boy/NN dying/VBG in/IN a/DT crossfire/NN was/VBD a/DT propaganda/NN triumph/NN ./.
 
 (ROOT
   (S
@@ -940,8 +898,6 @@ cop(triumph-36, was-33)
 det(triumph-36, a-34)
 nn(triumph-36, propaganda-35)
 parataxis(exploitable-4, triumph-36)
-
-Though/NNP such/PDT a/DT war/NN process/NN does/VBZ not/RB win/VB military/JJ victory/NN ,/, it/PRP delivers/VBZ results/NNS :/: In/IN a/DT much/JJ less/RBR well-armed/JJ form/NN of/IN intifada/JJ a/DT few/JJ years/NNS ago/RB ,/, it/PRP led/VBD to/TO Oslo/NNP and/CC ultimately/RB to/TO Ehud/NNP Barak/NNP 's/POS stunning/JJ concessions/NNS ./.
 
 (ROOT
   (S
@@ -1017,8 +973,6 @@ poss(concessions-40, Barak-37)
 amod(concessions-40, stunning-39)
 prep_to(led-30, concessions-40)
 conj_and(Oslo-32, concessions-40)
-
-But/CC to/TO attain/VB a/DT goal/NN of/IN stimulating/VBG the/DT defeat/NN of/IN Israel/NNP by/IN Arab/NNP armies/NNS far/RB stronger/JJR than/IN his/PRP$ own/JJ ,/, Arafat/JJ needs/NNS more/JJR than/IN sustained/VBD low-level/JJ belligerency/NN that/WDT wears/VBZ down/RP the/DT Israeli/NNP will/MD ;/: he/PRP needs/VBZ to/TO provoke/VB a/DT new/JJ Middle/NN East/NNP war/NN ./.
 
 (ROOT
   (S (CC But)
@@ -1106,8 +1060,6 @@ nn(war-43, Middle-41)
 nn(war-43, East-42)
 dobj(provoke-38, war-43)
 
-That/DT explains/VBZ the/DT campaign/NN to/TO sacrifice/VB Palestinian/JJ women/NNS and/CC children/NNS ,/, opening/VBG the/DT possibility/NN for/IN a/DT stray/JJ Israeli/NNP shell/NN to/TO inflict/VB horrific/JJ tragedy/NN ./.
-
 (ROOT
   (S
     (NP (DT That))
@@ -1154,8 +1106,6 @@ vmod(opening-12, inflict-21)
 amod(tragedy-23, horrific-22)
 dobj(inflict-21, tragedy-23)
 
-Infuriated/JJ Muslims/NNS throughout/IN the/DT region/NN then/RB put/VBD pressure/NN on/IN shaky/JJ sheiks/NNS to/TO support/VB another/DT such/JJ war/NN ./.
-
 (ROOT
   (S
     (NP
@@ -1187,8 +1137,6 @@ vmod(put-7, support-13)
 det(war-16, another-14)
 amod(war-16, such-15)
 dobj(support-13, war-16)
-
-That/DT 's/VBZ why/JJ we/PRP see/VBP Arafat/NNP 's/POS allies/NNS in/IN the/DT Hezbollah/NNP enticing/VBG Syria/NNP 's/POS strongman/JJ into/IN taking/VBG risks/NNS his/PRP$ dictator/NN -father/RB Hafez/NNP _/NNP having/VBG learned/VBD a/DT bloody/JJ lesson/NN that/IN cost/NN him/PRP the/DT Golan/NNP _/NNP would/MD have/VB avoided/VBN ./.
 
 (ROOT
   (S
@@ -1270,8 +1218,6 @@ aux(avoided-37, would-35)
 aux(avoided-37, have-36)
 root(ROOT-0, avoided-37)
 
-Arafat/NNP also/RB knows/VBZ that/IN Iraq/NNP 's/POS Saddam/NNP Hussein/NNP ,/, developing/VBG weaponry/JJ to/TO counter/VB Israel/NNP 's/POS nuclear/JJ deterrent/NN ,/, is/VBZ spoiling/VBG to/TO send/VB his/PRP$ tanks/NNS and/CC Scuds/NNS through/IN Jordan/NNP into/IN his/PRP$ enemy/NN 's/POS homeland/NN ./.
-
 (ROOT
   (S
     (NP (NNP Arafat))
@@ -1337,8 +1283,6 @@ poss(enemy-31, his-30)
 poss(homeland-33, enemy-31)
 prep_into(send-22, homeland-33)
 
-The/DT possibility/NN of/IN such/JJ a/DT Palestinian/JJ -sparked/JJ conflagration/NN must/MD be/VB foremost/VBN in/IN Barak/NNP 's/POS mind/NN as/IN he/PRP deals/NNS with/IN the/DT rioting/NN and/CC kidnapping/NN ./.
-
 (ROOT
   (S
     (NP
@@ -1381,8 +1325,6 @@ det(rioting-21, the-20)
 prep_with(foremost-11, rioting-21)
 prep_with(foremost-11, kidnapping-23)
 conj_and(rioting-21, kidnapping-23)
-
-He/PRP must/MD respond/VB with/IN seeming/VBG toughness/NN ,/, lest/JJS Israelis/NNP scorn/VBD him/PRP for/IN being/VBG weak/JJ ;/: yet/RB he/PRP must/MD not/RB use/VB too/RB much/JJ firepower/NN ,/, lest/JJS he/PRP fall/VB into/IN Arafat/NNP 's/POS wider-war/JJ trap/NN ./.
 
 (ROOT
   (S
@@ -1455,8 +1397,6 @@ poss(trap-32, Arafat-29)
 amod(trap-32, wider-war-31)
 prep_into(fall-27, trap-32)
 
-Barak/NNP 's/POS demonstrated/JJ dovishness/NN may/MD force/VB him/PRP to/TO err/VB on/IN the/DT side/NN of/IN using/VBG ever-greater/JJ force/NN and/CC thereby/RB be/VB drawn/VBN into/IN Arafat/NNP 's/POS war/JJ process/NN ./.
-
 (ROOT
   (S
     (NP
@@ -1508,8 +1448,6 @@ conj_and(err-9, drawn-20)
 poss(process-25, Arafat-22)
 amod(process-25, war-24)
 prep_into(drawn-20, process-25)
-
-The/DT paradox/NN is/VBZ that/IN the/DT Israeli/NNP opposition/NN leader/NN Arik/NNP Sharon/NNP 's/POS longtime/JJ reputation/NN for/IN fierceness/NN would/MD enable/VB the/DT Likud/NNP leader/NN to/TO enforce/VB separation/NN ,/, control/VB military/JJ escalation/NN and/CC stop/NN that/IN war/JJ process/NN ./.
 
 (ROOT
   (S
@@ -1571,8 +1509,6 @@ mark(process-32, that-30)
 amod(process-32, war-31)
 dep(control-25, process-32)
 
-America/NNP 's/POS mind/NN is/VBZ fixed/VBN on/IN its/PRP$ own/JJ affairs/NNS ,/, but/CC thanks/NNS to/TO Arafat/NNP ,/, whoever/RB wins/VBZ the/DT White/NNP House/NNP is/VBZ sure/JJ to/TO have/VB a/DT stressful/JJ first/JJ 100/CD days/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -1629,8 +1565,6 @@ amod(first-27, stressful-26)
 dobj(have-24, first-27)
 num(days-29, 100-28)
 tmod(have-24, days-29)
-
-NYT-11-19-00/CD 2152EST/CD
 
 (ROOT
   (FRAG

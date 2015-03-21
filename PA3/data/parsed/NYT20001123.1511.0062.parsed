@@ -1,5 +1,3 @@
-NYT20001123.1511.0062/CD NEWS/NNP STORY/NNP 2000-11-23/CD 17:17:00/CD
-
 (ROOT
   (NP
     (NP (CD NYT20001123.1511.0062))
@@ -11,8 +9,6 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001123.1511.0062-1, STORY-3)
 num(17:17:00-5, 2000-11-23-4)
 dep(NYT20001123.1511.0062-1, 17:17:00-5)
-
-A9034/CD &Cx1f/NN ;/: taf-z/JJ u/NN f/IN BC-QUESTIONS-AD-COLUMN-N/NNP 11-23/CD 0790/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ prep_f(u-5, BC-QUESTIONS-AD-COLUMN-N-7)
 num(BC-QUESTIONS-AD-COLUMN-N-7, 11-23-8)
 dep(u-5, 0790-9)
 
-BC-QUESTIONS-AD-COLUMN-NYT/NNP
-
 (ROOT
   (NP (NNP BC-QUESTIONS-AD-COLUMN-NYT)))
 
 root(ROOT-0, BC-QUESTIONS-AD-COLUMN-NYT-1)
-
-ADVERTISING/DT :/: FOLLOW/NNP THE/NNP QUESTIONS/NNP INTO/NNP A/NNP `CHAD/NNP ,/, CHAD/NNP ,/, CHAD/NNP ,/, CHAD/NNP
 
 (ROOT
   (NP
@@ -58,8 +50,6 @@ nn(CHAD-14, `CHAD-8)
 appos(CHAD-14, CHAD-10)
 appos(CHAD-14, CHAD-12)
 dep(ADVERTISING-1, CHAD-14)
-
-WORLD/NNP '/POS &LR/NN ;/: &QL/NNP ;/: &UR/NNS ;/: By/NNP STUART/NNP ELLIOTT/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -103,8 +93,6 @@ dep(&QL-5, &UR-18)
 dep(&UR-18, c.2000-20)
 appos(c.2000-20, N.Y-21)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -121,8 +109,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-It/PRP 's/VBZ time/NN again/RB to/TO ask/VB 20/CD questions/NNS about/IN advertising/NN ,/, marketing/NN and/CC the/DT media/NN ./.
 
 (ROOT
   (S
@@ -158,8 +144,6 @@ conj_and(advertising-10, marketing-12)
 det(media-15, the-14)
 prep_about(ask-6, media-15)
 conj_and(advertising-10, media-15)
-
-_/DT Will/NNP Americans/NNPS ever/RB refer/VB to/TO the/DT day/NN before/IN Thanksgiving/VBG as/IN ``Thanksgiving/VBG Wednesday/NN ,''/NN as/IN ABC/NNP did/VBD repeatedly/RB this/DT week/NN in/IN commercials/NNS promoting/VBG its/PRP$ Wednesday/NN sitcoms/NNS ``The/VBP Drew/NNP Carey/NNP Show/NNP ''/'' and/CC ``Spin/NNP City/NNP ''?/.
 
 (ROOT
   (S
@@ -227,8 +211,6 @@ dobj(``The-27, City-34)
 conj_and(Show-30, City-34)
 punct(refer-5, ''?-35)
 
-_/DT If/IN a/DT Hollywood/NNP studio/NN makes/VBZ a/DT movie/NN about/IN the/DT Florida/NNP election/NN standoff/NN ,/, would/MD the/DT title/NN be/VB ``It/NNP 's/POS a/DT Chad/NNP ,/, Chad/NNP ,/, Chad/NNP ,/, Chad/NNP World/NNP ''?/.
-
 (ROOT
   (SQ
     (SBAR
@@ -274,8 +256,6 @@ appos(World-29, Chad-26)
 appos(World-29, Chad-28)
 dep(``It-19, World-29)
 punct(``It-19, ''?-30)
-
-_/DT How/NNP many/JJ readers/NNS of/IN The/DT Wall/NNP Street/NNP Journal/NNP noticed/VBD that/IN an/DT article/NN on/IN Wednesday/NN carrying/VBG the/DT headline/NN ``Genetically/RB Altered/VBD Protein/NNP Is/NNP Found/NNP in/IN Still/RB More/JJ Corn/NNP ''/'' ran/VBD adjacent/JJ to/TO an/DT advertisement/NN for/IN a/DT golf/NN tournament/NN on/IN Fox/NNP Sports/NNPS sponsored/VBN by/IN Sun/NNP Microsystems/NNS that/WDT featured/VBD a/DT fanciful/JJ photograph/NN of/IN a/DT gigantic/JJ ear/NN of/IN corn/NN as/IN big/JJ as/IN a/DT Buick/NNP ?/.
 
 (ROOT
   (S
@@ -385,8 +365,6 @@ prep_as(featured-46, big-57)
 det(Buick-60, a-59)
 prep_as(big-57, Buick-60)
 
-_/PRP Doesn't/VBD a/DT new/JJ television/NN commercial/JJ for/IN Fidelity/NNP Investments/NNPS ,/, centered/VBN on/IN a/DT telephone/NN conversation/NN between/IN a/DT female/JJ employee/NN and/CC a/DT male/NN customer/NN ,/, resemble/VB a/DT Citibank/NNP campaign/NN from/IN the/DT late/JJ 1980s/NNS that/WDT was/VBD so/RB brilliantly/RB parodied/VBN as/IN the/DT ``First/JJS Citiwide/NNP Change/NNP Bank/NNP ''/'' commercials/NNS on/IN ``Saturday/NN Night/NNP Live/NNP ''?/.
-
 (ROOT
   (S
     (NP (PRP _))
@@ -469,8 +447,6 @@ nn(Live-49, Night-48)
 prep_on(parodied-37, Live-49)
 punct(Doesn't-2, ''?-50)
 
-_/DT Did/NNP shoppers/NNS at/IN the/DT New/NNP York/NNP supermarket/NN chain/NN Gristede's/NNP rush/NN to/TO take/VB advantage/NN of/IN a/DT recent/JJ sale/NN on/IN the/DT ``BIG/NNP 150-count/JJ box/NN ''/'' of/IN Scotties/NNPS facial/JJ tissues/NNS ,/, or/CC did/VBD they/PRP recall/VB that/IN Scotties/NNP has/VBZ usually/RB come/VBN in/IN a/DT 175-count/JJ box/NN ?/.
-
 (ROOT
   (S
     (S
@@ -543,8 +519,6 @@ det(box-42, a-40)
 amod(box-42, 175-count-41)
 prep_in(come-38, box-42)
 
-_/DT Can/NNP Ocean/NNP Spray/NNP Cranberries/NNPS get/VBP a/DT refund/NN on/IN a/DT full-page/JJ ad/NN that/IN ran/NN in/IN newspapers/NNS on/IN Nov/NNP ./.
-
 (ROOT
   (S
     (NP (DT _) (NNP Can) (NNP Ocean) (NNP Spray) (NNPS Cranberries))
@@ -578,8 +552,6 @@ mark(ran-14, that-13)
 dep(ad-12, ran-14)
 prep_in(ran-14, newspapers-16)
 prep_on(newspapers-16, Nov-18)
-
-8/CD and/CC carried/VBD the/DT headline/NN ``Now/NN That/IN the/DT Election/NNP Is/NNP Over/NNP ,/, You/PRP Can/VBD Focus/JJ on/IN Some/DT Real/NNP News/NNP ''?/.
 
 (ROOT
   (S
@@ -621,8 +593,6 @@ det(News-19, Some-17)
 nn(News-19, Real-18)
 prep_on(Focus-15, News-19)
 punct(Focus-15, ''?-20)
-
-_/DT Was/NNP it/PRP a/DT coincidence/NN that/IN an/DT ad/NN for/IN the/DT Carnation/NN Coffee-mate/JJ line/NN of/IN coffee/NN creamers/NNS in/IN the/DT recent/JJ issue/NN of/IN In/IN Style/NNP Entertaining/NNP 2000/CD magazine/NN ran/NN opposite/IN an/DT article/NN about/IN ``great/NN trends/NNS ''/'' in/IN party-giving/VBG that/DT began/NN by/IN describing/VBG carnations/NNS as/IN ``the/DT chic/JJ flower/NN of/IN the/DT moment/NN ''?/.
 
 (ROOT
   (S
@@ -712,8 +682,6 @@ det(moment-48, the-47)
 prep_of(flower-45, moment-48)
 punct(ran-27, ''?-49)
 
-_/PRP Should/VBD an/DT English/JJ teacher/NN have/VBP been/VBN consulted/VBN before/IN the/DT Tropicana/NNP division/NN of/IN PepsiCo/NNP produced/VBD posters/NNS that/IN described/VBD its/PRP$ Pure/NN Premium/NNP orange/NN juice/NN as/IN being/VBG ``as/NNS packed/VBN with/IN Vitamin/NNP C/NNP as/IN a/DT bus/NN on/IN a/DT rainy/NN day/NN ''?/.
-
 (ROOT
   (S
     (NP (PRP _))
@@ -791,8 +759,6 @@ nn(day-37, rainy-36)
 prep_on(bus-33, day-37)
 punct(Should-2, ''?-38)
 
-_/DT Will/NNP Jack/NNP Nicholson/NNP ,/, Helen/NNP Hunt/NNP ,/, Greg/NNP Kinnear/NNP and/CC James/NNP L./NNP Brooks/NNPS complain/NN about/IN an/DT ad/NN from/IN Campbell/NNP Soup/NNP Co/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -831,8 +797,6 @@ nn(Co-22, Campbell-20)
 nn(Co-22, Soup-21)
 prep_from(complain-15, Co-22)
 
-for/IN Campbell/NNP 's/POS Cream/NNP of/IN Mushroom/NNP soup/NN that/WDT carried/VBD the/DT slogan/NN ``As/IN m'm/NN !/.
-
 (ROOT
   (PP (IN for)
     (NP
@@ -861,14 +825,10 @@ det(slogan-11, the-10)
 dobj(carried-9, slogan-11)
 prep_``as(carried-9, m'm-13)
 
-m'm/NN !/.
-
 (ROOT
   (NP (NN m'm) (. !)))
 
 root(ROOT-0, m'm-1)
-
-good/JJ !/.
 
 (ROOT
   (FRAG
@@ -876,8 +836,6 @@ good/JJ !/.
     (. !)))
 
 root(ROOT-0, good-1)
-
-as/IN it/PRP gets/VBZ ''?/.
 
 (ROOT
   (FRAG
@@ -891,8 +849,6 @@ mark(gets-3, as-1)
 nsubj(gets-3, it-2)
 root(ROOT-0, gets-3)
 punct(gets-3, ''?-4)
-
-_/DT Now/RB that/IN the/DT Roundabout/NNP Theater/NNP Company/NNP is/VBZ calling/VBG its/PRP$ new/JJ facility/NN in/IN Times/NNP Square/IN the/DT American/NNP Airlines/NNPS Theater/NNP ,/, will/MD the/DT ushers/NNS give/VBP out/RB peanuts/NNS instead/RB of/IN Playbills/NNS ?/.
 
 (ROOT
   (SQ
@@ -944,8 +900,6 @@ root(ROOT-0, give-24)
 prt(give-24, out-25)
 dobj(give-24, peanuts-26)
 prep_instead_of(peanuts-26, Playbills-29)
-
-_/DT Why/NN did/VBD the/DT Reader's/NNP Digest/NNP Association/NNP go/VB to/TO the/DT trouble/NN of/IN airbrushing/VBG the/DT identifying/VBG information/NN from/IN a/DT label/NN on/IN a/DT pair/NN of/IN jeans/NNS worn/VBN by/IN a/DT man/NN in/IN a/DT photograph/NN featured/VBN in/IN an/DT ad/NN for/IN Reader's/NNP Digest/NNP magazine/NN ,/, but/CC leave/JJ the/DT red/JJ tab/NN on/IN the/DT back/JJ pocket/NN that/IN tells/NNS everyone/IN the/DT pants/NNS are/VBP Levi/NNP 's/POS ?/.
 
 (ROOT
   (S
@@ -1047,8 +1001,6 @@ cop(Levi-56, are-55)
 dep(pocket-49, Levi-56)
 possessive(Levi-56, 's-57)
 
-_/DT Do/NNP television/NN commercials/NNS for/IN prescription/NN drugs/NNS disclose/VBP that/IN side/JJ effects/NNS in/IN tests/NNS were/VBD no/DT worse/NN ``than/VBD a/DT sugar/NN pill/NN ''/'' because/IN research/NN found/VBD that/IN consumers/NNS weren't/JJ familiar/NN with/IN the/DT word/JJ ``placebo/NN ''?/.
-
 (ROOT
   (S
     (NP
@@ -1109,8 +1061,6 @@ det(``placebo-32, the-30)
 amod(``placebo-32, word-31)
 prep_with(familiar-28, ``placebo-32)
 punct(disclose-8, ''?-33)
-
-_/DT What/WP was/VBD in/IN the/DT zeitgeist/NN that/WDT led/VBD two/CD disparate/JJ advertisers/NNS _/IN Empire/NNP Blue/NNP Cross/NNP Blue/NNP Shield/NNP and/CC the/DT MSN/NNP network/NN of/IN Microsoft/NNP _/NNP to/TO introduce/VB about/IN the/DT same/JJ time/NN campaigns/NN centered/VBD on/IN butterflies/NNS ?/.
 
 (ROOT
   (S
@@ -1175,8 +1125,6 @@ nn(campaigns-31, time-30)
 prep_about(introduce-26, campaigns-31)
 root(ROOT-0, centered-32)
 prep_on(centered-32, butterflies-34)
-
-_/DT And/CC what/WP was/VBD in/IN the/DT zeitgeist/NN that/WDT led/VBD two/CD automotive/JJ marketers/NNS _/IN Land/NNP Rover/NNP and/CC Volvo/NNP _/NNP to/TO introduce/VB about/IN the/DT same/JJ time/NN commercials/NNS centered/VBD on/IN drivers/NNS rescuing/VBG animals/NNS on/IN rainy/NN roads/NNS ?/.
 
 (ROOT
   (FRAG
@@ -1245,8 +1193,6 @@ xcomp(centered-26, rescuing-29)
 dobj(rescuing-29, animals-30)
 nn(roads-33, rainy-32)
 prep_on(rescuing-29, roads-33)
-
-_/DT Are/NNP folks/NNS old/JJ enough/JJ to/TO remember/VB the/DT heyday/NN of/IN the/DT radio/NN and/CC television/NN personality/NN Arthur/NNP Godfrey/NNP reminded/VBD of/IN his/PRP$ longtime/JJ greeting/NN ,/, ``How/NNP are/VBP ya/VBN ?,''/IN every/JJ time/NN they/PRP hear/VBP the/DT name/NN of/IN the/DT new/JJ Lucent/JJ Technologies/NNPS spinoff/NN company/NN ,/, Avaya/NNP Communication/NNP ?/.
 
 (ROOT
   (FRAG
@@ -1331,8 +1277,6 @@ dobj(hear-31, company-40)
 nn(Communication-43, Avaya-42)
 appos(company-40, Communication-43)
 
-_/DT How/NNP appealing/NN was/VBD a/DT recent/JJ offer/NN made/VBN by/IN Sprint/NNP Communications/NNPS Co/NNP ./.
-
 (ROOT
   (S
     (NP (DT _) (NNP How) (NN appealing))
@@ -1355,8 +1299,6 @@ vmod(offer-7, made-8)
 nn(Co-12, Sprint-10)
 nn(Co-12, Communications-11)
 agent(made-8, Co-12)
-
-to/TO give/VB buyers/NNS of/IN a/DT Sprint/JJ PCS/NNP telephone/NN and/CC a/DT calling/VBG plan/NN a/DT free/JJ ``pre-owned/JJ phone/NN ''?/.
 
 (ROOT
   (S
@@ -1391,8 +1333,6 @@ amod(phone-16, free-14)
 amod(phone-16, ``pre-owned-15)
 dobj(calling-11, phone-16)
 punct(give-2, ''?-17)
-
-_/DT Was/NNP it/PRP an/DT inside/NN joke/NN that/IN the/DT name/NN of/IN the/DT character/NN played/VBN by/IN John/NNP Corbett/NNP on/IN ``Sex/NNP and/CC the/DT City/NNP ,''/NNP Aidan/NNP Shaw/NNP ,/, was/VBD almost/RB identical/JJ to/TO the/DT name/NN of/IN a/DT longtime/JJ star/NN of/IN gay/NN sex/NN films/NNS ,/, Aiden/VBN Shaw/NNP ?/.
 
 (ROOT
   (S
@@ -1471,8 +1411,6 @@ prep_of(star-35, films-39)
 vmod(name-31, Aiden-41)
 dobj(Aiden-41, Shaw-42)
 
-_/DT How/NNP many/JJ tickets/NNS did/VBD the/DT Houston/NNP Grand/NNP Opera/NNP sell/NN after/IN mailing/VBG out/RP a/DT promotional/JJ brochure/NN featuring/VBG photographs/NNS of/IN cattle/NN with/IN headlines/NNS like/IN ``It/NNP 's/POS udderly/JJ fantastic/JJ entertainment/NN !''/.
-
 (ROOT
   (S
     (NP (DT _) (NNP How) (JJ many) (NNS tickets))
@@ -1524,8 +1462,6 @@ amod(entertainment-28, fantastic-27)
 prep_like(headlines-22, entertainment-28)
 punct(did-5, !''-29)
 
-and/CC ``Great/JJ opera/NN ./.
-
 (ROOT
   (FRAG (CC and)
     (NP (JJ ``Great) (NN opera) (. .))))
@@ -1534,16 +1470,12 @@ cc(opera-3, and-1)
 amod(opera-3, ``Great-2)
 root(ROOT-0, opera-3)
 
-No/DT bull/NN .''?/.
-
 (ROOT
   (NP (DT No) (NN bull) (. .''?)))
 
 neg(bull-2, No-1)
 root(ROOT-0, bull-2)
 punct(bull-2, .''?-3)
-
-_/DT If/IN CBS/NNP shows/VBZ the/DT first/JJ episode/NN of/IN ``Survivor/PRP$ II/NNP ''/'' after/IN its/PRP$ broadcast/NN of/IN Super/NNP Bowl/NNP XXXV/NNP ,/, will/MD the/DT network/NN someday/RB show/VB the/DT first/JJ episode/NN of/IN ``Survivor/NN XXXV/. ''/'' after/IN its/PRP$ broadcast/NN of/IN Super/NNP Bowl/NNP LXVIII/NNP ?/.
 
 (ROOT
   (SQ
@@ -1610,8 +1542,6 @@ nn(LXVIII-38, Super-36)
 nn(LXVIII-38, Bowl-37)
 prep_of(broadcast-34, LXVIII-38)
 
-_/DT Will/NNP cheerful/JJ chorus/NN members/NNS dressed/VBD in/IN V-neck/NNP sweaters/NNS interrupt/VB their/PRP$ serenades/NNS to/TO online/VB shopping/JJ long/JJ enough/NN to/TO tell/VB an/DT advertising/NN columnist/NN ,/, ``You/NNP ask/VBD a/DT lot/NN of/IN questions/NNS for/IN someone/RB from/IN Brooklyn/NNP ''?/.
-
 (ROOT
   (S
     (S
@@ -1673,8 +1603,6 @@ prep(ask-25, for-30)
 pcomp(for-30, someone-31)
 prep_from(ask-25, Brooklyn-33)
 punct(ask-25, ''?-34)
-
-NYT-11-23-00/CD 1717EST/CD
 
 (ROOT
   (FRAG

@@ -1,5 +1,3 @@
-APW20001202.0257.0120/DT NEWS/NNP STORY/NNPS 2000-12-02/CD 03:26:26/CD
-
 (ROOT
   (NP
     (NP (DT APW20001202.0257.0120))
@@ -12,14 +10,10 @@ dep(APW20001202.0257.0120-1, STORY-3)
 num(03:26:26-5, 2000-12-02-4)
 dep(APW20001202.0257.0120-1, 03:26:26-5)
 
-FBC-Arizona-St-Coach/JJ
-
 (ROOT
   (ADJP (JJ FBC-Arizona-St-Coach)))
 
 root(ROOT-0, FBC-Arizona-St-Coach-1)
-
-Koetter/NNP Accepts/NNPS ASU/NNP Coaching/NNP Job/NNP
 
 (ROOT
   (NP
@@ -31,8 +25,6 @@ nn(ASU-3, Accepts-2)
 root(ROOT-0, ASU-3)
 nn(Job-5, Coaching-4)
 dep(ASU-3, Job-5)
-
-PHOENIX/NNP [AP/NNP ]/NNP _/NNP Boise/NNP State/NNP coach/NN Dirk/NNP Koetter/NNP ,/, who/WP just/RB a/DT day/NN earlier/RB was/VBD reportedly/RB headed/VBN for/IN Oklahoma/NNP State/NNP ,/, has/VBZ agreed/VBN to/TO a/DT contract/NN to/TO coach/VB Arizona/NNP State/NNP ./.
 
 (ROOT
   (S
@@ -90,8 +82,6 @@ xcomp(agreed-24, coach-29)
 nn(State-31, Arizona-30)
 dobj(coach-29, State-31)
 
-Oklahoma/NNP State/NNP athletic/JJ director/NN Terry/NNP Don/NNP Phillips/NNPS confirmed/VBD Koetter/NNP 's/POS decision/NN in/IN a/DT news/NN release/NN issued/VBN Friday/NNP night/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -125,8 +115,6 @@ vmod(release-15, issued-16)
 nn(night-18, Friday-17)
 tmod(issued-16, night-18)
 
-``Coach/NNP Koetter/NNP informed/VBD me/PRP at/IN approximately/RB 7/CD p.m/NN ./.
-
 (ROOT
   (S
     (NP (NNP ``Coach) (NNP Koetter))
@@ -145,8 +133,6 @@ dobj(informed-3, me-4)
 quantmod(7-7, approximately-6)
 num(p.m-8, 7-7)
 prep_at(informed-3, p.m-8)
-
-[CST/NNP ]/NNP tonight/NN that/IN he/PRP had/VBD been/VBN tendered/VBN an/DT offer/NN from/IN Arizona/NNP State/NNP University/NNP and/CC had/VBD accepted/VBN ,''/JJ Phillips/NNS said/VBD ./.
 
 (ROOT
   (S
@@ -191,8 +177,6 @@ amod(Phillips-19, ,''-18)
 dobj(accepted-17, Phillips-19)
 root(ROOT-0, said-20)
 
-Koetter/NNP ,/, 41/CD ,/, replaces/VBZ Bruce/NNP Snyder/NNP ,/, who/WP was/VBD fired/VBN after/IN nine/CD seasons/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -224,8 +208,6 @@ rcmod(Snyder-7, fired-11)
 num(seasons-14, nine-13)
 prep_after(fired-11, seasons-14)
 
-Snyder/NNP will/MD coach/VB Arizona/NNP State/NNP in/IN a/DT bowl/JJ game/NN ,/, most/RBS likely/JJ the/DT Las/NNP Vegas/NNP Bowl/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Snyder))
@@ -255,8 +237,6 @@ det(Bowl-16, the-13)
 nn(Bowl-16, Las-14)
 nn(Bowl-16, Vegas-15)
 dep(game-9, Bowl-16)
-
-The/DT Daily/JJ Oklahoman/NNP and/CC several/JJ TV/NNS and/CC radio/NN stations/NNS in/IN Oklahoma/NNP had/VBD reported/VBN Thursday/NN and/CC Friday/NN that/IN Koetter/NNP had/VBD accepted/VBN the/DT Oklahoma/NNP State/NNP job/NN ./.
 
 (ROOT
   (S
@@ -307,8 +287,6 @@ nn(job-24, Oklahoma-22)
 nn(job-24, State-23)
 dobj(accepted-20, job-24)
 
-But/CC Phillips/NNS never/RB confirmed/VBD those/DT reports/NNS ,/, and/CC Koetter/NNP would/MD not/RB comment/VB on/IN any/DT job/NN possibilities/NNS at/IN Boise/NNP State/NNP 's/POS practice/NN Friday/NN ./.
-
 (ROOT
   (S
     (S (CC But)
@@ -346,8 +324,6 @@ nn(State-19, Boise-18)
 poss(Friday-22, State-19)
 nn(Friday-22, practice-21)
 prep_at(comment-12, Friday-22)
-
-Koetter/NNP said/VBD earlier/RB in/IN the/DT week/NN he/PRP had/VBD interviewed/VBN with/IN Phillips/NNS and/CC with/IN Arizona/NNP State/NNP athletic/JJ director/NN Gene/IN Smith/NNP ./.
 
 (ROOT
   (S
@@ -387,8 +363,6 @@ prep_with(interviewed-9, director-17)
 conj_and(Phillips-11, director-17)
 prep_gene(interviewed-9, Smith-19)
 
-Koetter/NNP is/VBZ considered/VBN one/CD of/IN the/DT country/NN 's/POS top/JJ young/JJ coaching/NN prospects/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Koetter))
@@ -412,8 +386,6 @@ amod(prospects-12, top-9)
 amod(prospects-12, young-10)
 nn(prospects-12, coaching-11)
 prep_of(one-4, prospects-12)
-
-Using/VBG an/DT innovative/JJ ,/, wide-open/JJ offense/NN ,/, he/PRP guided/VBD Boise/NNP State/NNP to/TO a/DT 25-10/JJ record/NN in/IN three/CD seasons/NNS ./.
 
 (ROOT
   (S
@@ -444,8 +416,6 @@ amod(record-15, 25-10-14)
 prep_to(guided-9, record-15)
 num(seasons-18, three-17)
 prep_in(guided-9, seasons-18)
-
-His/PRP$ first/JJ team/NN went/VBD 6-5/CD ,/, followed/VBN by/IN last/JJ year/NN 's/POS 10-3/CD record/NN ,/, which/WDT included/VBD a/DT 34-31/JJ victory/NN over/IN Louisville/NNP in/IN the/DT Humanitarian/NNP Bowl/NNP ./.
 
 (ROOT
   (S
@@ -491,8 +461,6 @@ det(Bowl-25, the-23)
 nn(Bowl-25, Humanitarian-24)
 prep_in(included-16, Bowl-25)
 
-This/DT year/NN 's/POS team/NN is/VBZ 9-2/CD ,/, with/IN its/PRP$ only/JJ losses/NNS 38-31/JJ at/IN Arkansas/NNP and/CC 42-25/CD at/IN Washington/NNP State/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -529,8 +497,6 @@ conj_and(losses-11, 42-25-16)
 nn(State-19, Washington-18)
 prep_at(42-25-16, State-19)
 
-Koetter/NNP may/MD not/RB have/VBP been/VBN Arizona/NNP State/NNP 's/POS top/JJ choice/NN ./.
-
 (ROOT
   (S
     (NP (NNP Koetter))
@@ -551,8 +517,6 @@ nn(State-7, Arizona-6)
 poss(choice-10, State-7)
 amod(choice-10, top-9)
 root(ROOT-0, choice-10)
-
-Phoenix/NNP radio/NNP station/NN KMVP/NNP reported/VBD Friday/NN that/IN Smith/NNP had/VBD quietly/RB been/VBN working/VBG on/IN a/DT deal/NN with/IN TCU/NNP coach/NN Dennis/NNP Franchione/NNP that/WDT would/MD have/VB matched/VBN the/DT one/NN offered/VBN by/IN Alabama/NNP ./.
 
 (ROOT
   (S
@@ -611,8 +575,6 @@ dobj(matched-24, one-26)
 vmod(one-26, offered-27)
 agent(offered-27, Alabama-29)
 
-But/CC Franchione/NNP apparently/RB couldn't/VBD resist/JJ the/DT lure/NN of/IN one/CD of/IN college/NN football/NN 's/POS most/JJS storied/JJ programs/NNS ./.
-
 (ROOT
   (S (CC But)
     (NP (NNP Franchione))
@@ -641,8 +603,6 @@ poss(programs-16, football-12)
 amod(programs-16, most-14)
 amod(programs-16, storied-15)
 prep_of(lure-7, programs-16)
-
-While/IN most/JJS of/IN the/DT recent/JJ speculation/NN centered/VBD on/IN Koetter/NN ,/, there/EX was/VBD pressure/NN from/IN some/DT Arizona/NNP State/NNP boosters/NNS to/TO hire/VB Danny/NNP White/NNP ,/, the/DT former/JJ Arizona/NNP State/NNP and/CC Dallas/NNP Cowboys/NNP quarterback/, who/WP coaches/VBZ the/DT Arizona/NNP Rattlers/NNPS of/IN the/DT Arena/NNP Football/NNP League/NNP ./.
 
 (ROOT
   (S
@@ -717,8 +677,6 @@ det(League-41, the-38)
 nn(League-41, Arena-39)
 nn(League-41, Football-40)
 prep_of(Rattlers-36, League-41)
-
-Snyder/NNP was/VBD fired/VBN after/IN his/PRP$ teams/NNS went/VBD 6-6/CD last/JJ year/NN and/CC 6-5/CD this/DT season/NN ./.
 
 (ROOT
   (S

@@ -1,5 +1,3 @@
-NYT20001102.1839.0338/NNP NEWS/NNP STORY/NNP 2000-11-02/CD 19:46:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001102.1839.0338) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(19:46:00-5, 2000-11-02-4)
 dep(STORY-3, 19:46:00-5)
-
-A5436/CD &Cx1f/NN ;/: taf-z/JJ u/NN f/IN BC-LEVITT-NORRIS-COLUMN-/JJ 11-02/CD 0623/CD
 
 (ROOT
   (NP
@@ -30,14 +26,10 @@ amod(0623-9, BC-LEVITT-NORRIS-COLUMN--7)
 num(0623-9, 11-02-8)
 prep_f(u-5, 0623-9)
 
-BC-LEVITT-NORRIS-COLUMN-NYT/NNP
-
 (ROOT
   (NP (NNP BC-LEVITT-NORRIS-COLUMN-NYT)))
 
 root(ROOT-0, BC-LEVITT-NORRIS-COLUMN-NYT-1)
-
-WHEN/NNP A/NNP DIME/NNP MATTERS/NNS :/: LEVITT/NNP GOES/NNP AFTER/NNP OPTION/NNP MARKETS/.
 
 (ROOT
   (NP
@@ -55,8 +47,6 @@ nn(OPTION-9, GOES-7)
 nn(OPTION-9, AFTER-8)
 dep(MATTERS-4, OPTION-9)
 punct(MATTERS-4, MARKETS-10)
-
-&UR/NNS ;/: By/NNP FLOYD/NNP NORRIS/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -90,8 +80,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -108,8 +96,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-Arthur/NNP Levitt/NNP ,/, the/DT longest-serving/JJ chairman/NN of/IN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP ,/, is/VBZ at/IN it/PRP again/RB ./.
 
 (ROOT
   (S
@@ -142,8 +128,6 @@ prep_of(chairman-6, Commission-12)
 root(ROOT-0, is-14)
 prep_at(is-14, it-16)
 advmod(is-14, again-17)
-
-He/PRP 's/VBZ angry/NN about/IN ways/NNS in/IN which/WDT individual/JJ investors/NNS are/VBP badly/RB treated/VBN ,/, and/CC he/PRP wants/VBZ to/TO do/VB something/RB about/IN it/PRP ./.
 
 (ROOT
   (S
@@ -194,8 +178,6 @@ xcomp(wants-16, do-18)
 advmod(do-18, something-19)
 prep_about(do-18, it-21)
 
-On/IN Friday/NNP ,/, Levitt/NNP will/MD disclose/VB what/WP may/MD be/VB the/DT final/JJ initiatives/NNS of/IN his/PRP$ term/NN ./.
-
 (ROOT
   (S
     (PP (IN On)
@@ -227,8 +209,6 @@ amod(initiatives-12, final-11)
 ccomp(disclose-6, initiatives-12)
 poss(term-15, his-14)
 prep_of(initiatives-12, term-15)
-
-Evidently/RB unconcerned/VBD that/IN follow-up/NN will/MD fall/VB to/TO an/DT SEC/NNP chairman/NN named/VBN by/IN the/DT next/JJ president/NN ,/, he/PRP is/VBZ putting/VBG pressure/NN on/IN supposedly/RB independent/JJ directors/NNS of/IN mutual/JJ funds/NNS to/TO hold/VB down/RP the/DT commissions/NNS the/DT funds/NNS spend/VBP when/WRB they/PRP trade/NN stocks/NNS ,/, and/CC on/IN corporate/JJ audit/NN committees/NNS to/TO do/VB a/DT better/JJR job/NN ./.
 
 (ROOT
   (S
@@ -332,8 +312,6 @@ det(job-50, a-48)
 amod(job-50, better-49)
 dobj(do-47, job-50)
 
-He/PRP is/VBZ threatening/VBG SEC/NNP action/NN if/IN companies/NNS continue/VBP to/TO issue/VB new/JJ stock/NN options/NNS to/TO top/JJ executives/NNS without/IN getting/VBG shareholder/NN approval/NN ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -375,8 +353,6 @@ prep_to(issue-10, executives-16)
 prepc_without(issue-10, getting-18)
 nn(approval-20, shareholder-19)
 dobj(getting-18, approval-20)
-
-Most/JJS important/NN ,/, Levitt/NNP is/VBZ demanding/VBG that/IN the/DT options/NNS industry/NN put/VBD systems/NNS in/IN place/NN within/IN a/DT year/NN to/TO allow/VB its/PRP$ customers/NNS to/TO experience/VB the/DT benefits/NNS of/IN decimalization/NN by/IN trading/NN in/IN penny/JJ increments/NNS ./.
 
 (ROOT
   (S
@@ -440,8 +416,6 @@ prep_by(experience-23, trading-29)
 amod(increments-32, penny-31)
 prep_in(trading-29, increments-32)
 
-The/DT commission/NN ,/, Levitt/NNP said/VBD in/IN remarks/VBZ prepared/VBN for/IN a/DT speech/NN at/IN Fordham/NNP University/NNP on/IN Friday/NNP ,/, should/MD ``press/VB the/DT markets/NNS hard/JJ ''/'' to/TO do/VB that/RB ./.
-
 (ROOT
   (S
     (NP
@@ -496,8 +470,6 @@ aux(do-25, to-24)
 xcomp(hard-22, do-25)
 dep(do-25, that-26)
 
-To/TO understand/VB his/PRP$ concern/NN ,/, consider/JJ trading/NN Thursday/NN in/IN Compaq/NNP Computer/NNP securities/NNS ./.
-
 (ROOT
   (S
     (VP (TO To)
@@ -521,8 +493,6 @@ appos(concern-4, Thursday-8)
 nn(securities-12, Compaq-10)
 nn(securities-12, Computer-11)
 prep_in(Thursday-8, securities-12)
-
-Compaq/NNP stock/NN was/VBD trading/NN with/IN a/DT spread/NN of/IN 4/CD cents/NNS between/IN the/DT best/JJS bid/NN and/CC the/DT best/RBS asked/VBD price/NN ./.
 
 (ROOT
   (S
@@ -563,8 +533,6 @@ conj_and(bid-14, the-16)
 advmod(the-16, best-17)
 rcmod(trading-4, asked-18)
 dobj(asked-18, price-19)
-
-At/IN the/DT same/JJ time/NN ,/, the/DT most/RBS actively/JJ traded/NN option/NN contract/NN on/IN Compaq/NNP had/VBD a/DT spread/NN of/IN 40/CD cents/NNS ,/, 10/CD times/NNS as/IN wide/NN ./.
 
 (ROOT
   (S
@@ -607,8 +575,6 @@ prep_of(spread-16, cents-19)
 num(times-22, 10-21)
 npadvmod(had-14, times-22)
 prep_as(had-14, wide-24)
-
-The/DT options/NNS exchanges/NNS '/POS rules/NNS bar/IN any/DT price/NN change/NN of/IN less/JJR than/IN a/DT dime/NN ,/, while/IN the/DT stock/NN price/NN can/MD move/VB by/IN a/DT penny/NN ./.
 
 (ROOT
   (S
@@ -653,8 +619,6 @@ root(ROOT-0, move-21)
 det(penny-24, a-23)
 prep_by(move-21, penny-24)
 
-``Investors/NNS are/VBP being/VBG denied/VBN the/DT benefits/NNS of/IN lower/JJR spreads/NNS ,''/, Levitt/NNP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -683,8 +647,6 @@ punct(said-12, ,''-10)
 nsubj(said-12, Levitt-11)
 root(ROOT-0, said-12)
 
-``The/PRP$ industry/NN is/VBZ keeping/VBG the/DT difference/NN for/IN itself/PRP .''/.
-
 (ROOT
   (S
     (NP (PRP$ ``The) (NN industry))
@@ -704,8 +666,6 @@ det(difference-6, the-5)
 dobj(keeping-4, difference-6)
 prep_for(difference-6, itself-8)
 punct(keeping-4, .''-9)
-
-The/DT history/NN of/IN competition/NN in/IN the/DT options/NNS markets/NNS is/VBZ not/RB a/DT pretty/JJ one/NN ./.
 
 (ROOT
   (S
@@ -731,8 +691,6 @@ neg(one-13, not-10)
 det(one-13, a-11)
 amod(one-13, pretty-12)
 root(ROOT-0, one-13)
-
-The/DT exchanges/NNS avoided/VBD real/JJ competition/NN for/IN years/NNS ,/, and/CC then/RB began/VBD to/TO compete/VB on/IN the/DT basis/NN of/IN kicking/JJ back/JJ money/NN _/IN the/DT polite/JJ term/NN is/VBZ ``payment/NN for/IN order/NN flow/NN ''/'' _/NN to/TO brokers/NNS who/WP send/VBP in/IN customer/NN orders/NNS ./.
 
 (ROOT
   (S
@@ -808,8 +766,6 @@ rcmod(brokers-33, send-35)
 nn(orders-38, customer-37)
 prep_in(send-35, orders-38)
 
-Maybe/IN such/JJ kickbacks/NNS lower/JJR commissions/NNS charged/VBN to/TO customers/NNS ,/, but/CC that/WDT is/VBZ hard/JJ to/TO prove/VB ./.
-
 (ROOT
   (S
     (PP (IN Maybe)
@@ -842,8 +798,6 @@ cop(hard-13, is-12)
 conj_but(charged-6, hard-13)
 aux(prove-15, to-14)
 xcomp(hard-13, prove-15)
-
-What/WP is/VBZ clear/RB is/VBZ that/IN the/DT current/JJ system/NN discourages/NNS price/NN competition/NN that/WDT would/MD really/RB help/VB customers/NNS ./.
 
 (ROOT
   (S
@@ -882,8 +836,6 @@ aux(help-15, would-13)
 advmod(help-15, really-14)
 rcmod(competition-11, help-15)
 dobj(help-15, customers-16)
-
-Going/VBG to/TO pennies/NNS would/MD strain/VB computer/NN systems/NNS ,/, but/CC little/RB has/VBZ been/VBN done/JJ to/TO get/VB systems/NNS that/WDT could/MD cope/VB ./.
 
 (ROOT
   (S
@@ -932,8 +884,6 @@ nsubj(cope-19, systems-16)
 aux(cope-19, could-18)
 rcmod(systems-16, cope-19)
 
-In/IN an/DT interview/NN ,/, Edward/NNP Joyce/NNP ,/, the/DT president/NN of/IN the/DT Chicago/NNP Board/NNP Options/NNP Exchange/NNP ,/, said/VBD the/DT industry/NN was/VBD ``just/RB acting/JJ prudently/RB ''/'' by/IN going/VBG slowly/RB ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -981,8 +931,6 @@ advmod(acting-22, prudently-23)
 prepc_by(acting-22, going-26)
 advmod(going-26, slowly-27)
 
-He/PRP gave/VBD no/DT timetable/NN for/IN change/NN ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -997,8 +945,6 @@ root(ROOT-0, gave-2)
 neg(timetable-4, no-3)
 dobj(gave-2, timetable-4)
 prep_for(gave-2, change-6)
-
-Levitt/NNP 's/POS term/NN as/IN SEC/NNP chairman/NN included/VBD the/DT reform/NN of/IN the/DT Nasdaq/NNP market/NN ,/, action/NN on/IN abuses/NNS in/IN the/DT municipal/JJ bond/NN market/NN and/CC the/DT new/JJ regulation/NN to/TO bar/VB selective/JJ corporate/JJ disclosures/NNS ./.
 
 (ROOT
   (S
@@ -1057,8 +1003,6 @@ amod(disclosures-31, selective-29)
 amod(disclosures-31, corporate-30)
 dobj(bar-28, disclosures-31)
 
-``He/NNP 's/POS done/NN extraordinarily/RB well/RB ,''/, said/VBD Joel/NNP Seligman/NNP ,/, the/DT dean/NN of/IN the/DT Washington/NNP University/NNP law/NN school/NN and/CC author/NN of/IN a/DT history/NN of/IN the/DT SEC/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -1107,8 +1051,6 @@ prep_of(author-20, history-23)
 det(SEC-26, the-25)
 prep_of(history-23, SEC-26)
 
-``On/NNP Nasdaq/NNP and/CC other/JJ issues/NNS ,/, he/PRP pursued/VBD a/DT principled/JJ approach/NN consistent/NN with/IN the/DT goals/NNS of/IN investor/NN protection/NN .''/.
-
 (ROOT
   (S
     (NP
@@ -1142,8 +1084,6 @@ prep_with(pursued-8, goals-15)
 nn(protection-18, investor-17)
 prep_of(goals-15, protection-18)
 punct(pursued-8, .''-19)
-
-Sometime/JJ before/IN his/PRP$ term/NN ends/NNS ,/, the/DT SEC/NNP is/VBZ likely/JJ to/TO approve/VB rules/NNS that/WDT will/MD limit/VB the/DT amount/NN of/IN consulting/VBG services/NNS auditors/NNS can/MD provide/VB for/IN their/PRP$ audit/JJ clients/NNS ./.
 
 (ROOT
   (S
@@ -1203,8 +1143,6 @@ poss(clients-28, their-26)
 amod(clients-28, audit-27)
 prep_for(provide-24, clients-28)
 
-On/IN options/NNS or/CC accounting/VBG or/CC most/JJS anything/NN else/NN ,/, a/DT new/JJ SEC/NNP could/MD reverse/VB Levitt/NNP and/CC the/DT current/JJ SEC/NNP ./.
-
 (ROOT
   (S
     (PP (IN On)
@@ -1243,8 +1181,6 @@ amod(SEC-19, current-18)
 dobj(reverse-14, SEC-19)
 conj_and(Levitt-15, SEC-19)
 
-There/EX is/VBZ precedent/JJ for/IN that/WDT ./.
-
 (ROOT
   (S
     (NP (EX There))
@@ -1258,8 +1194,6 @@ expl(is-2, There-1)
 root(ROOT-0, is-2)
 acomp(is-2, precedent-3)
 prep_for(precedent-3, that-5)
-
-Just/NNP over/IN 20/CD years/NNS ago/RB ,/, the/DT SEC/NNP approved/VBD a/DT rule/NN that/WDT forced/VBD auditors/NNS to/TO disclose/VB consulting/VBG arrangements/NNS with/IN clients/NNS ./.
 
 (ROOT
   (S
@@ -1308,8 +1242,6 @@ amod(arrangements-18, consulting-17)
 dobj(disclose-16, arrangements-18)
 prep_with(arrangements-18, clients-20)
 
-Then/RB Ronald/NNP Reagan/NNP won/VBD the/DT election/NN ,/, and/CC the/DT rule/NN was/VBD quietly/RB repealed/VBN ./.
-
 (ROOT
   (S
     (S
@@ -1339,8 +1271,6 @@ auxpass(repealed-13, was-11)
 advmod(repealed-13, quietly-12)
 conj_and(won-4, repealed-13)
 
-By/NNP acting/VBG now/RB ,/, Levitt/NNP is/VBZ making/VBG such/JJ moves/NNS more/RBR difficult/JJ ./.
-
 (ROOT
   (S
     (S
@@ -1366,8 +1296,6 @@ amod(moves-9, such-8)
 nsubj(difficult-11, moves-9)
 advmod(difficult-11, more-10)
 xcomp(making-7, difficult-11)
-
-``I/NNP want/VBP to/TO be/VB certain/JJ ,''/, he/PRP said/VBD in/IN an/DT interview/NN Thursday/NN ,/, ``that/IN my/PRP$ successors/NNS and/CC their/PRP$ successors/NNS do/VBP not/RB forget/VB the/DT commitment/NN to/TO the/DT primacy/NN of/IN the/DT individual/JJ investor/NN as/IN being/VBG central/JJ to/TO the/DT success/NN of/IN our/PRP$ markets/NNS .''/.
 
 (ROOT
   (S
@@ -1442,8 +1370,6 @@ prep_to(central-34, success-37)
 poss(markets-40, our-39)
 prep_of(success-37, markets-40)
 punct(want-2, .''-41)
-
-NYT-11-02-00/CD 1946EST/CD
 
 (ROOT
   (FRAG

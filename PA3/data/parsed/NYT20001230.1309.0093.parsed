@@ -1,5 +1,3 @@
-NYT20001230.1309.0093/CD NEWS/NNP STORY/NNP 2000-12-30/CD 14:23:00/CD
-
 (ROOT
   (NP
     (NP (CD NYT20001230.1309.0093))
@@ -11,8 +9,6 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001230.1309.0093-1, STORY-3)
 num(14:23:00-5, 2000-12-30-4)
 dep(NYT20001230.1309.0093-1, 14:23:00-5)
-
-A5284/CD &Cx1f/NN ;/: taf-z/NN u/IN a/DT BC-SEATTLE-ELEPHANT-NYT/JJ &LR/NN ;/: 12-30/CD 0473/CD
 
 (ROOT
   (FRAG
@@ -35,14 +31,10 @@ prep_u(taf-z-4, &LR-8)
 num(0473-11, 12-30-10)
 dep(&Cx1f-2, 0473-11)
 
-BC-SEATTLE-ELEPHANT-NYT/NNP
-
 (ROOT
   (NP (NNP BC-SEATTLE-ELEPHANT-NYT)))
 
 root(ROOT-0, BC-SEATTLE-ELEPHANT-NYT-1)
-
-RARE/NNP BABY/NNP ELEPHANT/NNP DELIGHTS/NNP SEATTLE/.
 
 (ROOT
   (NP (NNP RARE) (NNP BABY) (NNP ELEPHANT) (NNP DELIGHTS) (. SEATTLE)))
@@ -52,8 +44,6 @@ nn(DELIGHTS-4, BABY-2)
 nn(DELIGHTS-4, ELEPHANT-3)
 root(ROOT-0, DELIGHTS-4)
 punct(DELIGHTS-4, SEATTLE-5)
-
-&UR/NNS ;/: By/NNP SAM/NNP HOWE/NNP VERHOVEK/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -88,8 +78,6 @@ dep(&UR-1, &UR-13)
 dep(&UR-13, c.2000-15)
 appos(c.2000-15, N.Y-16)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -106,8 +94,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-SEATTLE/NNP _/VBZ The/DT answers/NNS to/TO the/DT three/CD most/RBS commonly/JJ asked/VBD questions/NNS at/IN the/DT Woodland/NNP Park/NNP Zoo/NNP in/IN Seattle/NNP these/DT days/NNS are/VBP :/: one/CD ,/, 235/CD pounds/NNS ;/: two/CD ,/, 22/CD months/NNS [the/IN longest/JJS pregnancy/NN of/IN any/DT mammal/NN in/IN the/DT world/NN ];/IN three/CD ,/, natural/JJ insemination/NN ,/, after/IN her/PRP$ 8,800-pound/NN mother/NN was/VBD transported/VBN 2,000/CD miles/NNS for/IN a/DT tryst/NN in/IN Missouri/NNP ./.
 
 (ROOT
   (S
@@ -211,8 +197,6 @@ det(tryst-57, a-56)
 prep_for(transported-52, tryst-57)
 prep_in(tryst-57, Missouri-59)
 
-The/DT questions/NNS concern/NN a/DT baby/NN Asian/JJ elephant/NN ,/, the/DT first/JJ one/NN born/NN at/IN the/DT zoo/NN in/IN its/PRP$ 100-year/JJ history/NN ./.
-
 (ROOT
   (NP
     (NP (DT The) (NNS questions) (NN concern))
@@ -244,8 +228,6 @@ prep_at(born-12, zoo-15)
 poss(history-19, its-17)
 amod(history-19, 100-year-18)
 prep_in(zoo-15, history-19)
-
-The/DT 8-week-old/JJ elephant/NN has/VBZ quickly/RB become/VBN a/DT local/JJ sensation/NN ,/, and/CC her/PRP$ presence/NN has/VBZ doubled/VBN the/DT normal/JJ attendance/NN figures/NNS and/CC inspired/VBD some/DT visitors/NNS to/TO wait/VB as/IN long/JJ as/IN two/CD hours/NNS _/IN yes/NNS ,/, often/RB in/IN the/DT rain/NN at/IN this/DT time/NN of/IN year/NN _/, to/TO look/VB at/IN her/PRP$ ./.
 
 (ROOT
   (S
@@ -334,8 +316,6 @@ aux(look-45, to-44)
 xcomp(wait-25, look-45)
 prep_at(look-45, her-47)
 
-The/DT three/CD questions/NNS are/VBP :/: How/NNP much/RB did/VBD she/PRP weigh/VB at/IN birth/JJ ?/.
-
 (ROOT
   (S
     (S
@@ -364,8 +344,6 @@ nsubj(weigh-10, she-9)
 ccomp(did-8, weigh-10)
 prep_at(weigh-10, birth-12)
 
-How/NNP long/RB was/VBD she/PRP in/IN there/EX ?/.
-
 (ROOT
   (S
     (NP (NNP How))
@@ -382,8 +360,6 @@ cop(she-4, was-3)
 root(ROOT-0, she-4)
 prep_in(she-4, there-6)
 
-How/NNP was/VBD she/PRP conceived/VBD ?/.
-
 (ROOT
   (S
     (NP (NNP How))
@@ -398,8 +374,6 @@ nsubj(was-2, How-1)
 root(ROOT-0, was-2)
 nsubj(conceived-4, she-3)
 ccomp(was-2, conceived-4)
-
-The/DT answer/NN to/TO the/DT last/JJ question/NN is/VBZ of/IN particular/JJ interest/NN to/TO elephant/JJ experts/NNS around/IN the/DT world/NN ,/, who/WP consider/VBP any/DT successful/JJ experiment/NN in/IN breeding/VBG an/DT important/NN victory/NN because/IN elephants/NNS are/VBP endangered/VBN ,/, especially/RB the/DT Asian/JJ species/NNS ,/, whose/WP$ numbers/NNS have/VBP declined/VBN steadily/RB to/TO about/IN 40,000/CD in/IN the/DT wild/NN ./.
 
 (ROOT
   (S
@@ -488,8 +462,6 @@ prep(declined-41, to-43)
 prep_about(declined-41, 40,000-45)
 det(wild-48, the-47)
 prep_in(is-7, wild-48)
-
-The/DT baby/NN elephant/NN in/IN Seattle/NN is/VBZ one/CD of/IN three/CD Asian/JJ elephants/NNS born/NN in/IN North/NNP American/NNP zoos/VBZ this/DT year/NN ,/, one/CD of/IN which/WDT died/VBD shortly/RB after/IN birth/NN ,/, said/VBD Mike/NNP Keele/NNP ,/, the/DT coordinator/NN for/IN the/DT elephant/JJ species/NNS survival/JJ program/NN of/IN American/NNP Zoo/NNP and/CC Aquarium/NNP Association/NNP ./.
 
 (ROOT
   (SINV
@@ -580,8 +552,6 @@ nn(Association-45, Aquarium-44)
 prep_of(program-39, Association-45)
 conj_and(Zoo-42, Association-45)
 
-Keele/NNP ,/, an/DT assistant/NN director/NN at/IN the/DT Oregon/NNP Zoo/NNP in/IN Portland/NNP ,/, said/VBD that/IN artificial/JJ insemination/NN had/VBD worked/VBN in/IN only/RB a/DT handful/NN of/IN cases/NNS worldwide/NN ./.
-
 (ROOT
   (S
     (NP
@@ -628,8 +598,6 @@ prep_in(worked-18, handful-22)
 nn(worldwide-25, cases-24)
 prep_of(handful-22, worldwide-25)
 
-At/IN the/DT Seattle/NN zoo/NN ,/, efforts/NNS to/TO artificially/RB inseminate/VB a/DT 21-year-old/JJ Asian/JJ elephant/JJ failed/JJ to/TO produce/VB a/DT pregnancy/NN after/IN six/CD years/NNS ./.
-
 (ROOT
   (S
     (PP (IN At)
@@ -670,8 +638,6 @@ det(pregnancy-18, a-17)
 dobj(produce-16, pregnancy-18)
 num(years-21, six-20)
 prep_after(produce-16, years-21)
-
-So/RB in/IN September/NNP 1998/CD ,/, the/DT zoo/NN loaded/VBD the/DT elephant/JJ ,/, whose/WP$ name/NN is/VBZ Chai/NNP ,/, on/IN a/DT flatbed/JJ truck/NN and/CC sent/VBD her/PRP to/TO the/DT Dickerson/NNP Park/NNP Zoo/NNP in/IN Springfield/NNP ,/, Mo/NNP ./.
 
 (ROOT
   (S (RB So)
@@ -726,8 +692,6 @@ prep_to(sent-22, Zoo-28)
 nn(Mo-32, Springfield-30)
 prep_in(sent-22, Mo-32)
 
-There/EX ,/, Chai/NNP met/VBD up/RP with/IN Onyx/NNP ,/, an/DT 11,000-pound/JJ sire/NN ./.
-
 (ROOT
   (S
     (NP (EX There))
@@ -750,8 +714,6 @@ prep_with(met-4, Onyx-7)
 det(sire-11, an-9)
 amod(sire-11, 11,000-pound-10)
 appos(Onyx-7, sire-11)
-
-Female/JJ elephants/NNS ovulate/VBP once/RB every/JJ 16/CD weeks/NNS and/CC then/RB have/VBP only/RB about/IN a/DT 24-hour/JJ window/NN to/TO become/VB pregnant/JJ ./.
 
 (ROOT
   (S
@@ -790,8 +752,6 @@ prep_about(only-11, window-15)
 aux(become-17, to-16)
 xcomp(have-10, become-17)
 acomp(become-17, pregnant-18)
-
-After/IN the/DT first/JJ attempt/NN failed/VBD ,/, zoo/NN officials/NNS said/VBD Chai/NNP appeared/VBD to/TO enter/VB into/IN a/DT funk/NN in/IN her/PRP$ unfamiliar/JJ surroundings/NNS and/CC lost/VBD about/IN 1,000/CD pounds/NNS ./.
 
 (ROOT
   (S
@@ -845,8 +805,6 @@ conj_and(appeared-11, lost-22)
 num(pounds-25, 1,000-24)
 prep_about(lost-22, pounds-25)
 
-But/CC in/IN the/DT second/JJ cycle/NN ,/, in/IN January/NNP 1999/CD ,/, she/PRP became/VBD pregnant/JJ and/CC quickly/RB regained/VBD the/DT weight/JJ ./.
-
 (ROOT
   (S (CC But)
     (PP (IN in)
@@ -881,8 +839,6 @@ conj_and(became-12, regained-16)
 det(weight-18, the-17)
 dobj(regained-16, weight-18)
 
-The/DT 22-month-long/JJ gestation/NN ended/VBN at/IN 4:48/CD a.m/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (JJ 22-month-long) (NN gestation))
@@ -898,8 +854,6 @@ root(ROOT-0, ended-4)
 num(a.m-7, 4:48-6)
 prep_at(ended-4, a.m-7)
 
-on/IN Nov/NNP ./.
-
 (ROOT
   (FRAG
     (PP (IN on)
@@ -909,16 +863,12 @@ on/IN Nov/NNP ./.
 root(ROOT-0, on-1)
 pobj(on-1, Nov-2)
 
-3/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 3))
     (. .)))
 
 root(ROOT-0, 3-1)
-
-The/DT birth/NN was/VBD captured/VBN on/IN a/DT video/NN ,/, which/WDT is/VBZ available/JJ at/IN the/DT Seattle/NNP zoo/NNP 's/POS Web/NNP site/NN ,/, www.zoo.org/NNP ./.
 
 (ROOT
   (S
@@ -959,8 +909,6 @@ nn(site-18, Web-17)
 prep_at(available-11, site-18)
 appos(site-18, www.zoo.org-20)
 
-Another/RB frequent/JJ question/NN is/VBZ this/DT :/: Does/VBZ the/DT baby/NN have/VBP a/DT name/NN ?/.
-
 (ROOT
   (S
     (NP
@@ -988,8 +936,6 @@ dep(this-5, have-10)
 det(name-12, a-11)
 dobj(have-10, name-12)
 
-Not/RB yet/RB ./.
-
 (ROOT
   (FRAG (RB Not)
     (NP (RB yet))
@@ -997,8 +943,6 @@ Not/RB yet/RB ./.
 
 root(ROOT-0, Not-1)
 dep(Not-1, yet-2)
-
-The/DT zoo/NN plans/VBZ to/TO have/VB a/DT contest/NN to/TO name/VB the/DT baby/NN beginning/VBG in/IN February/NNP ,/, David/NNP L./NNP Towne/NNP ,/, president/NN and/CC director/NN of/IN the/DT zoo/NN ,/, said/VBD ./.
 
 (ROOT
   (S
@@ -1054,8 +998,6 @@ conj_and(president-20, director-22)
 det(zoo-25, the-24)
 prep_of(president-20, zoo-25)
 root(ROOT-0, said-27)
-
-The/DT person/NN who/WP submits/VBZ the/DT winning/NN name/NN ,/, which/WDT Towne/NNP said/VBD should/MD evoke/VB the/DT elephant/NN 's/POS Asian/JJ heritage/NN ,/, will/MD receive/VB a/DT trip/NN for/IN two/CD to/TO Thailand/NNP ,/, where/WRB Chai/NNP is/VBZ from/IN ./.
 
 (ROOT
   (S
@@ -1125,8 +1067,6 @@ advmod(is-31, where-29)
 nsubj(is-31, Chai-30)
 advcl(receive-21, is-31)
 prep(is-31, from-32)
-
-NYT-12-30-00/CD 1423EST/CD
 
 (ROOT
   (FRAG

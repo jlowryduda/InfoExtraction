@@ -1,5 +1,3 @@
-NYT20001002.2133.0471/CD NEWS/NNP STORY/NNP 2000-10-02/CD 21:50:00/CD
-
 (ROOT
   (NP
     (NP (CD NYT20001002.2133.0471))
@@ -11,8 +9,6 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001002.2133.0471-1, STORY-3)
 num(21:50:00-5, 2000-10-02-4)
 dep(NYT20001002.2133.0471-1, 21:50:00-5)
-
-A0241/CD &Cx1f/NN ;/: taf-z/JJ u/NN s/IN BC-BBN-ANDERSON-COLUMN-N/NNP 10-02/CD 0741/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ prep_s(u-5, BC-BBN-ANDERSON-COLUMN-N-7)
 num(BC-BBN-ANDERSON-COLUMN-N-7, 10-02-8)
 dep(u-5, 0741-9)
 
-BC-BBN-ANDERSON-COLUMN-NYT/NNP
-
 (ROOT
   (NP (NNP BC-BBN-ANDERSON-COLUMN-NYT)))
 
 root(ROOT-0, BC-BBN-ANDERSON-COLUMN-NYT-1)
-
-SPORTS/JJ COMMENTARY/NN :/: BARRY/NNP BONDS/NNP '/POS DESPERATE/NNP OCTOBER/.
 
 (ROOT
   (NP
@@ -57,8 +49,6 @@ nn(BONDS-5, BARRY-4)
 poss(DESPERATE-7, BONDS-5)
 dep(COMMENTARY-2, DESPERATE-7)
 punct(COMMENTARY-2, OCTOBER-8)
-
-&UR/NNS ;/: By/NNP DAVE/NNP ANDERSON/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -92,8 +82,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -110,8 +98,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-If/IN Barry/NNP Bonds/NNPS is/VBZ voted/VBN the/DT Most/JJS Valuable/JJ Player/NN in/IN the/DT National/NNP League/NNP this/DT year/NN ,/, he/PRP will/MD be/VB the/DT first/JJ major/JJ leaguer/NN to/TO win/VB it/PRP four/CD times/NNS ./.
 
 (ROOT
   (S
@@ -164,8 +150,6 @@ vmod(leaguer-23, win-25)
 iobj(win-25, it-26)
 num(times-28, four-27)
 dobj(win-25, times-28)
-
-And/CC with/IN career/NN totals/NNS of/IN 494/CD homers/NNS and/CC 471/CD stolen/NN bases/NNS ,/, Bonds/NNS ,/, the/DT San/NNP Francisco/NNP Giants/NNS '/POS left/VBD fielder/NN ,/, is/VBZ the/DT only/JJ player/NN in/IN baseball/NN history/NN with/IN more/JJR than/IN 400/CD in/IN each/DT category/NN ./.
 
 (ROOT
   (SINV
@@ -231,8 +215,6 @@ prep_with(history-29, 400-33)
 det(category-36, each-35)
 prep_in(400-33, category-36)
 
-But/CC if/IN Reggie/NNP Jackson/NNP was/VBD Mr/NNP ./.
-
 (ROOT
   (FRAG (CC But)
     (SBAR (IN if)
@@ -248,8 +230,6 @@ nn(Jackson-4, Reggie-3)
 nsubj(Mr-6, Jackson-4)
 cop(Mr-6, was-5)
 root(ROOT-0, Mr-6)
-
-October/NNP for/IN his/PRP$ postseason/NN performances/NNS ,/, Barry/NNP Bonds/NNP is/VBZ Mr/NNP ./.
 
 (ROOT
   (S
@@ -271,8 +251,6 @@ nsubj(Mr-10, Bonds-8)
 cop(Mr-10, is-9)
 root(ROOT-0, Mr-10)
 
-0/DT for/IN October/NNP ./.
-
 (ROOT
   (NP
     (NP (DT 0))
@@ -282,8 +260,6 @@ root(ROOT-0, Mr-10)
 
 root(ROOT-0, 0-1)
 prep_for(0-1, October-3)
-
-When/WRB the/DT Giants/NNS open/VBP their/PRP$ division/NN series/NNS against/IN the/DT Mets/NNPS in/IN San/NNP Francisco/NNP Wednesday/NNP ,/, Bonds/NNS will/MD be/VB desperate/JJ to/TO do/VB what/WP he/PRP has/VBZ never/RB done/VBN in/IN his/PRP$ various/JJ postseason/NN appearances/NNS :/: hit/NN for/IN average/NN ,/, hit/NN for/IN power/NN and/CC help/VB his/PRP$ team/NN win/NN ./.
 
 (ROOT
   (S
@@ -372,8 +348,6 @@ poss(win-44, his-42)
 nn(win-44, team-43)
 dobj(help-41, win-44)
 
-More/RB than/IN anyone/NN else/NN ,/, he/PRP knows/VBZ he/PRP has/VBZ to/TO disprove/VB the/DT rap/NN that/IN he/PRP can't/VBD hit/NN in/IN the/DT big/JJ one/NN ./.
-
 (ROOT
   (S
     (ADVP (RB More)
@@ -419,8 +393,6 @@ det(one-21, the-19)
 amod(one-21, big-20)
 prep_in(can't-16, one-21)
 
-He/PRP 's/VBZ tried/JJ to/TO laugh/VB it/PRP off/RB ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -442,8 +414,6 @@ xcomp(tried-3, laugh-5)
 dobj(laugh-5, it-6)
 advmod(laugh-5, off-7)
 
-``Call/NNP me/PRP Mr./NNP July/NNP ,''/VBD he/PRP once/RB said/VBD ./.
-
 (ROOT
   (S
     (NP
@@ -464,8 +434,6 @@ rcmod(July-4, ,''-5)
 dobj(,''-5, he-6)
 advmod(said-8, once-7)
 root(ROOT-0, said-8)
-
-Or/PRP$ feel/NN free/RB to/TO call/VB him/PRP Mr/NNP ./.
 
 (ROOT
   (S
@@ -489,8 +457,6 @@ xcomp(free-3, call-5)
 nsubj(Mr-7, him-6)
 xcomp(call-5, Mr-7)
 
-August/NNP or/CC Mr/NNP ./.
-
 (ROOT
   (NP (NNP August)
     (CC or)
@@ -499,16 +465,12 @@ August/NNP or/CC Mr/NNP ./.
 root(ROOT-0, August-1)
 conj_or(August-1, Mr-3)
 
-September/NNP ./.
-
 (ROOT
   (FRAG
     (NP (NNP September))
     (. .)))
 
 root(ROOT-0, September-1)
-
-When/WRB the/DT season/NN ended/VBN Sunday/NNP ,/, Bonds/NNPS had/VBD batted/VBN .306/CD ,/, crashed/VBD a/DT career-high/JJ 49/CD home/NN runs/NNS and/CC driven/VB in/IN 106/CD runs/NNS ./.
 
 (ROOT
   (S
@@ -553,8 +515,6 @@ dobj(crashed-12, runs-17)
 conj_and(batted-9, driven-19)
 num(runs-22, 106-21)
 prep_in(driven-19, runs-22)
-
-But/CC over/IN 23/CD postseason/NN games/NNS in/IN his/PRP$ career/NN _/IN 20/CD with/IN the/DT Pirates/NNPS nearly/RB a/DT decade/NN ago/RB in/IN three/CD losing/VBG National/NNP League/NNP Championship/NNP Series/NNP and/CC three/CD with/IN the/DT Giants/NNS in/IN a/DT 1997/CD division/NN series/VBZ sweep/VBN by/IN the/DT Florida/NNP Marlins/NNPS _/NNP Bonds/NNP has/VBZ batted/VBN only/RB .200/CD [16/CD for/IN 80/CD ]/NN with/IN only/RB one/CD home/NN run/NN ,/, only/RB four/CD doubles/NNS ,/, only/RB five/CD runs/NNS batted/VBN in/IN and/CC 16/CD strikeouts/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -673,8 +633,6 @@ cc(16-66, and-65)
 num(strikeouts-67, 16-66)
 prep_in(batted-63, strikeouts-67)
 
-In/IN those/DT three/CD NL/NNP Championship/NNP Series/NNP ,/, two/CD against/IN the/DT Atlanta/NNP Braves/NNPS [in/, which/WDT he/PRP batted/VBD .148/CD in/IN 1991/CD and/CC .261/CD in/IN '92/CD ]/NN and/CC one/NN against/IN the/DT Cincinnati/NNP Reds/NNPS [.167/CD in/IN '90/CD ],/IN his/PRP$ overall/JJ average/NN was/VBD .191/CD ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -746,8 +704,6 @@ prep_],(batted-16, average-37)
 cop(.191-39, was-38)
 root(ROOT-0, .191-39)
 
-Even/RB with/IN his/PRP$ overall/JJ .200/CD postseason/NN average/NN ,/, Bonds/NNP has/VBZ not/RB even/RB hit/VB his/PRP$ weight/NN ,/, 210/CD ./.
-
 (ROOT
   (S
     (PP (RB Even)
@@ -779,8 +735,6 @@ root(ROOT-0, hit-13)
 poss(weight-15, his-14)
 dobj(hit-13, weight-15)
 amod(weight-15, 210-17)
-
-And/CC his/PRP$ team/NN ,/, whether/IN the/DT Pirates/NNPS or/CC the/DT Giants/NNS ,/, has/VBZ lost/VBN 15/CD of/IN those/DT 23/CD postseason/NN games/NNS ./.
 
 (ROOT
   (S (CC And)
@@ -818,8 +772,6 @@ num(games-19, 23-17)
 nn(games-19, postseason-18)
 prep_of(15-14, games-19)
 
-Over/RB a/DT short/JJ postseason/NN series/NNS ,/, even/RB the/DT best/RBS hitters/NNS sometimes/RB wallow/VBN through/IN a/DT slump/NN as/IN their/PRP$ team/NN loses/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -854,8 +806,6 @@ prep_through(wallow-12, slump-15)
 poss(loses-19, their-17)
 nn(loses-19, team-18)
 prep_as(slump-15, loses-19)
-
-Babe/NNP Ruth/NNP batted/VBD .118/CD [two/NN for/IN 17/CD ]/NN in/IN the/DT five-game/JJ 1922/CD World/NNP Series/NNP that/IN the/DT Yankees/NNP lost/VBD to/TO the/DT New/NNP York/NNP Giants/NNS ./.
 
 (ROOT
   (S
@@ -898,8 +848,6 @@ nn(Giants-23, New-21)
 nn(Giants-23, York-22)
 prep_to(lost-18, Giants-23)
 
-But/CC over/IN 23/CD postseason/NN games/NNS ,/, the/DT cream/NN is/VBZ supposed/VBN to/TO rise/VB to/TO the/DT top/JJ ./.
-
 (ROOT
   (S (CC But)
     (PP (IN over)
@@ -929,8 +877,6 @@ xcomp(supposed-10, rise-12)
 det(top-15, the-14)
 prep_to(rise-12, top-15)
 
-Bonds/NNS '/POS cream/NN has/VBZ only/RB curdled/VBN ./.
-
 (ROOT
   (S
     (NP
@@ -947,8 +893,6 @@ aux(curdled-6, has-4)
 advmod(curdled-6, only-5)
 root(ROOT-0, curdled-6)
 
-To/TO his/PRP$ dismay/NN ./.
-
 (ROOT
   (FRAG
     (PP (TO To)
@@ -958,8 +902,6 @@ To/TO his/PRP$ dismay/NN ./.
 root(ROOT-0, To-1)
 poss(dismay-3, his-2)
 pobj(To-1, dismay-3)
-
-``I/NNP want/VBP people/NNS to/TO say/VB ,''/, he/PRP has/VBZ often/RB proclaimed/VBN ,/, ``that/JJ Barry/NNP Bonds/NNP is/VBZ the/DT best/JJS baseball/NN player/NN there/EX is/VBZ .''/.
 
 (ROOT
   (S
@@ -1010,8 +952,6 @@ expl(is-21, there-20)
 rcmod(player-19, is-21)
 punct(player-19, .''-22)
 
-If/IN you/PRP just/RB assess/IN his/PRP$ career/NN regular-season/NN stats/NNS ,/, you/PRP can/MD argue/VB that/IN he/PRP is/VBZ the/DT best/JJS baseball/NN player/NN there/EX is/VBZ ./.
-
 (ROOT
   (S
     (SBAR (IN If)
@@ -1058,8 +998,6 @@ ccomp(argue-12, player-19)
 expl(is-21, there-20)
 rcmod(player-19, is-21)
 
-He/PRP was/VBD named/VBN The/DT Sporting/JJ News/NNP player/NN of/IN the/DT decade/NN for/IN the/DT 1990s/NNS over/IN Ken/NNP Griffey/NNP Jr/NNP ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -1090,8 +1028,6 @@ prep_for(decade-10, 1990s-13)
 nn(Jr-17, Ken-15)
 nn(Jr-17, Griffey-16)
 prep_over(named-3, Jr-17)
-
-and/CC Mark/NNP McGwire/NNP ,/, joining/VBG such/JJ prestigious/JJ names/NNS as/IN Stan/NNP Musial/NNP ['40s/NNS ],/VBP Ted/VBN Williams/NNP ['50s/NNS ],/IN Willie/NNP Mays/NNPS ['60s/NNS ],/IN Pete/NNP Rose/NNP ['70s/NNS ]/, and/CC Mike/NNP Schmidt/NNP ['80s/NNS ]./VBP In/IN 10/CD years/NNS of/IN MVP/NNP voting/NN in/IN the/DT '90s/NNS ,/, he/PRP received/VBD the/DT most/JJS points/NNS _/IN 1,895/CD ,/, nearly/RB 500/CD more/JJR than/IN the/DT next/JJ highest/NN vote-getter/NN ,/, Frank/NNP Thomas/NNP of/IN the/DT Chicago/NNP White/NNP Sox/NNP ./.
 
 (ROOT
   (S (CC and)
@@ -1197,8 +1133,6 @@ nn(Sox-64, Chicago-62)
 nn(Sox-64, White-63)
 prep_of(Thomas-59, Sox-64)
 
-By/NNP rule/NN ,/, the/DT MVP/NNP votes/NNS must/MD be/VB cast/VBN in/IN the/DT brief/NN interlude/NN between/IN the/DT end/NN of/IN the/DT regular/JJ season/NN and/CC the/DT start/NN of/IN the/DT playoffs/NN ./.
-
 (ROOT
   (S
     (PP (NNP By)
@@ -1247,8 +1181,6 @@ conj_and(end-16, start-23)
 det(playoffs-26, the-25)
 prep_of(start-23, playoffs-26)
 
-So/RB Bonds/NNS '/POS postseason/NN flops/NNS never/RB counted/VBD against/IN his/PRP$ MVP/NNP credentials/NNS ./.
-
 (ROOT
   (S (RB So)
     (NP
@@ -1269,8 +1201,6 @@ root(ROOT-0, counted-7)
 poss(credentials-11, his-9)
 nn(credentials-11, MVP-10)
 prep_against(counted-7, credentials-11)
-
-Those/IN MVP/NNP votes/NNS were/VBD a/DT tribute/NN to/TO the/DT integrity/NN of/IN baseball/NN writers/NNS who/WP cast/VBP those/DT votes/NNS ;/: few/JJ ,/, if/IN any/DT ,/, find/NN Bonds/NNS to/TO be/VB endearing/VBG or/CC charming/NN ./.
 
 (ROOT
   (S
@@ -1332,8 +1262,6 @@ prep_to(tribute-6, charming-29)
 conj_or(integrity-9, charming-29)
 nsubj(cast-14, charming-29)
 
-For/IN that/DT matter/NN ,/, few/JJ of/IN his/PRP$ teammates/NNS have/VBP enjoyed/VBN his/PRP$ arrogant/NN ,/, haughty/NN personality/NN ./.
-
 (ROOT
   (S
     (PP (IN For)
@@ -1363,8 +1291,6 @@ poss(personality-15, his-11)
 dep(personality-15, arrogant-12)
 nn(personality-15, haughty-14)
 dobj(enjoyed-10, personality-15)
-
-``I/NNP 'd/MD rather/RB lose/VB without/IN him/PRP ,''/VBZ one/CD of/IN his/PRP$ Pirate/NNP teammates/NNS said/VBD ,/, requesting/VBG anonymity/NN ,/, ``than/JJ win/NN with/IN him/PRP .''/.
 
 (ROOT
   (SINV
@@ -1411,8 +1337,6 @@ appos(anonymity-16, win-19)
 prep_with(win-19, him-21)
 punct(,''-7, .''-22)
 
-Bonds/NNS hasn't/VBP changed/VBN ./.
-
 (ROOT
   (S
     (NP (NNS Bonds))
@@ -1423,8 +1347,6 @@ Bonds/NNS hasn't/VBP changed/VBN ./.
 nsubj(hasn't-2, Bonds-1)
 root(ROOT-0, hasn't-2)
 acomp(hasn't-2, changed-3)
-
-Many/JJ of/IN his/PRP$ Giant/JJ teammates/NNS hardly/RB talk/VB to/TO him/PRP ./.
 
 (ROOT
   (S
@@ -1446,8 +1368,6 @@ advmod(talk-7, hardly-6)
 root(ROOT-0, talk-7)
 prep_to(talk-7, him-9)
 
-Or/NNP want/VBP to/TO ./.
-
 (ROOT
   (S
     (NP (NNP Or))
@@ -1458,8 +1378,6 @@ Or/NNP want/VBP to/TO ./.
 nsubj(want-2, Or-1)
 root(ROOT-0, want-2)
 prep(want-2, to-3)
-
-In/IN the/DT Giants/NNS '/POS spacious/JJ clubhouse/NN at/IN their/PRP$ new/JJ Pacific/NNP Bell/NNP Park/NNP in/IN San/NNP Francisco/NNP ,/, he/PRP prefers/VBZ to/TO be/VB alone/RB ./.
 
 (ROOT
   (S
@@ -1500,8 +1418,6 @@ aux(alone-21, to-19)
 cop(alone-21, be-20)
 xcomp(prefers-18, alone-21)
 
-He/PRP spreads/VBZ out/RB across/IN four/CD lockers/NNS ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -1516,8 +1432,6 @@ root(ROOT-0, spreads-2)
 prt(spreads-2, out-3)
 num(lockers-6, four-5)
 prep_across(spreads-2, lockers-6)
-
-He/PRP sprawls/VBZ in/IN a/DT recliner/NN and/CC watches/NNS his/PRP$ own/JJ television/NN set/NN or/CC listens/NNS to/TO his/PRP$ stereo/NN ./.
 
 (ROOT
   (S
@@ -1551,8 +1465,6 @@ prep_in(sprawls-2, listens-13)
 conj_or(recliner-5, listens-13)
 poss(stereo-16, his-15)
 prep_to(listens-13, stereo-16)
-
-``Some/JJ people/NNS accuse/VBP me/PRP of/IN having/VBG a/DT chip/NN on/IN my/PRP$ shoulder/NN ,''/, he/PRP once/RB said/VBD ,/, ``but/NN that/WDT 's/VBZ part/NN of/IN what/WP makes/VBZ me/PRP tick/NN .''/.
 
 (ROOT
   (S
@@ -1614,8 +1526,6 @@ nsubj(tick-25, me-24)
 xcomp(makes-23, tick-25)
 punct(said-15, .''-26)
 
-But/CC more/JJR than/IN anyone/NN else/NN ,/, Bonds/NNPS knows/VBZ he/PRP has/VBZ not/RB ticked/VBN in/IN the/DT postseason/NN ./.
-
 (ROOT
   (S (CC But)
     (NP
@@ -1646,8 +1556,6 @@ neg(ticked-12, not-11)
 ccomp(knows-8, ticked-12)
 det(postseason-15, the-14)
 prep_in(ticked-12, postseason-15)
-
-He/PRP 's/VBZ due/JJ to/TO break/VB out/RP with/IN a/DT barrage/NN against/IN the/DT Mets/NNS ;/: then/RB again/RB ,/, the/DT Mets/NNS '/POS pitchers/NNS know/VBP that/WDT ,/, in/IN his/PRP$ desperation/NN to/TO show/VB that/IN he/PRP really/RB is/VBZ the/DT ``best/JJS player/NN there/EX is/VBZ ,''/DT he/PRP might/MD be/VB willing/JJ to/TO swing/VBG at/IN pitches/NNS he/PRP might/MD ignore/VB during/IN the/DT regular/JJ season/NN ./.
 
 (ROOT
   (S
@@ -1756,8 +1664,6 @@ det(season-53, the-51)
 amod(season-53, regular-52)
 prep_during(ignore-49, season-53)
 
-If/IN he/PRP does/VBZ swing/VBG at/IN those/DT pitches/NNS ,/, that/WDT should/MD be/VB to/TO the/DT Mets/NNS '/POS advantage/NN ,/, not/RB his/PRP$ ./.
-
 (ROOT
   (S
     (SBAR (IN If)
@@ -1795,8 +1701,6 @@ poss(advantage-16, Mets-14)
 prep_to(be-11, advantage-16)
 appos(advantage-16, not-18)
 poss(not-18, his-19)
-
-``If/IN you/PRP know/VBP me/PRP ,''/MD Barry/RB Bonds/NNPS once/RB said/VBD ,/, ``I/NNP always/VBZ find/NN something/NN that/IN I/PRP have/VBP to/TO prove/VB .''/.
 
 (ROOT
   (S
@@ -1849,8 +1753,6 @@ aux(prove-19, to-18)
 xcomp(have-17, prove-19)
 punct(always-12, .''-20)
 
-In/IN this/DT postseason/NN ,/, he/PRP has/VBZ to/TO prove/VB that/IN he/PRP 's/VBZ much/JJ more/JJR than/IN a/DT .200/CD hitter/NN ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -1887,8 +1789,6 @@ quantmod(.200-16, than-14)
 quantmod(.200-16, a-15)
 num(hitter-17, .200-16)
 dep(much-12, hitter-17)
-
-NYT-10-02-00/CD 2150EDT/CD
 
 (ROOT
   (FRAG

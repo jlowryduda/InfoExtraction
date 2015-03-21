@@ -1,5 +1,3 @@
-APW20001211.1441.0436/DT NEWS/NNP STORY/NNPS 2000-12-11/CD 15:26:41/CD
-
 (ROOT
   (NP
     (NP (DT APW20001211.1441.0436))
@@ -12,16 +10,12 @@ dep(APW20001211.1441.0436-1, STORY-3)
 num(15:26:41-5, 2000-12-11-4)
 dep(APW20001211.1441.0436-1, 15:26:41-5)
 
-Scotus-Northwest/JJS
-
 (ROOT
   (FRAG
     (S
       (ADJP (JJS Scotus-Northwest)))))
 
 root(ROOT-0, Scotus-Northwest-1)
-
-Flight/NNP Attendant/NNP Can/NNP Sue/NNP Over/NNP Smoke/.
 
 (ROOT
   (NP (NNP Flight) (NNP Attendant) (NNP Can) (NNP Sue) (NNP Over) (. Smoke)))
@@ -32,8 +26,6 @@ nn(Over-5, Can-3)
 nn(Over-5, Sue-4)
 root(ROOT-0, Over-5)
 punct(Over-5, Smoke-6)
-
-WASHINGTON/NNP [AP/NNP ]/NNP _/, The/DT Supreme/NNP Court/NNP let/VB a/DT flight/JJ attendant/NN sue/JJ Northwest/NNP Airlines/NNPS on/IN her/PRP$ claim/NN that/IN she/PRP was/VBD harmed/VBN by/IN secondhand/NN smoke/NN during/IN flights/NNS to/TO Asia/NNP ./.
 
 (ROOT
   (S
@@ -86,8 +78,6 @@ nn(smoke-24, secondhand-23)
 agent(harmed-21, smoke-24)
 prep_during(harmed-21, flights-26)
 prep_to(flights-26, Asia-28)
-
-The/DT court/NN ,/, on/IN a/DT 6-3/JJ vote/NN Monday/NNP ,/, declined/VBD to/TO hear/VB Northwest/NNP 's/POS appeal/NN that/WDT argued/VBD the/DT lawsuit/NN was/VBD pre-empted/VBN by/IN the/DT federal/JJ law/NN that/WDT deregulated/VBD the/DT airline/NN industry/NN ./.
 
 (ROOT
   (S
@@ -153,8 +143,6 @@ det(industry-30, the-28)
 nn(industry-30, airline-29)
 dobj(deregulated-27, industry-30)
 
-Voting/VBG to/TO grant/JJ review/NN were/VBD Chief/NNP Justice/NNP William/NNP H./NNP Rehnquist/NNP and/CC Justices/NNP Sandra/NNP Day/NNP O'Connor/NNP and/CC Clarence/NNP Thomas/NNP ./.
-
 (ROOT
   (S
     (S
@@ -186,8 +174,6 @@ conj_and(Rehnquist-10, O'Connor-15)
 nn(Thomas-18, Clarence-17)
 conj_and(Rehnquist-10, Thomas-18)
 conj_and(O'Connor-15, Thomas-18)
-
-Writing/VBG for/IN the/DT three/CD ,/, O'Connor/NNP said/VBD the/DT case/NN ``presents/VBZ an/DT important/JJ issue/NN ''/'' that/WDT has/VBZ divided/VBN federal/JJ appeals/NNS courts/NNS and/CC should/MD be/VB resolved/VBN by/IN the/DT nation/NN 's/POS highest/JJS court/NN ./.
 
 (ROOT
   (S
@@ -249,8 +235,6 @@ poss(court-30, nation-27)
 amod(court-30, highest-29)
 agent(resolved-24, court-30)
 
-The/DT case/NN was/VBD filed/VBN by/IN Julie/NNP Duncan/NNP of/IN Seattle/NNP ,/, who/WP said/VBD she/PRP suffered/VBD lung/JJ problems/NNS and/CC chronic/JJ infections/NNS apparently/RB related/VBD to/TO secondhand/VB smoke/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (NN case))
@@ -307,8 +291,6 @@ ccomp(suffered-14, related-21)
 aux(secondhand-23, to-22)
 xcomp(related-21, secondhand-23)
 dobj(secondhand-23, smoke-24)
-
-Northwest/NNP prohibited/VBD smoking/VBG on/IN domestic/JJ flights/NNS in/IN 1988/CD ,/, before/IN the/DT ban/NN was/VBD required/VBN by/IN federal/JJ law/NN ,/, but/CC continued/VBD to/TO allow/VB smoking/VBG on/IN flights/NNS to/TO and/CC from/IN Japan/NNP for/IN another/DT decade/NN ./.
 
 (ROOT
   (S
@@ -376,8 +358,6 @@ prep_to(smoking-23, Japan-29)
 det(decade-32, another-31)
 prep_for(Japan-29, decade-32)
 
-The/DT airline/NN said/VBD it/PRP did/VBD so/RB to/TO compete/VB with/IN other/JJ airlines/NNS that/IN let/VB passengers/NNS smoke/RB ./.
-
 (ROOT
   (S
     (NP (DT The) (NN airline))
@@ -415,8 +395,6 @@ nsubj(let-13, airlines-11)
 rcmod(airlines-11, let-13)
 dobj(let-13, passengers-14)
 advmod(let-13, smoke-15)
-
-Duncan/NNP 's/POS lawsuit/NN ,/, which/WDT sought/VBD class-action/NN status/NN ,/, said/VBD Northwest/NNP violated/VBD its/PRP$ duty/JJ under/IN Washington/NNP state/NN law/NN to/TO provide/VB a/DT safe/NN and/CC healthy/JJ working/JJ environment/NN ./.
 
 (ROOT
   (S
@@ -473,8 +451,6 @@ amod(environment-26, working-25)
 dobj(provide-20, environment-26)
 conj_and(safe-22, environment-26)
 
-The/DT 1978/CD Airline/NN Deregulation/NN Act/NNP pre-empts/VBZ all/DT state/NN lawsuits/NNS related/VBN to/TO airline/NN rates/NNS ,/, routes/NNS or/CC services/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -509,8 +485,6 @@ prep_to(related-10, routes-15)
 conj_or(rates-13, routes-15)
 prep_to(related-10, services-17)
 conj_or(rates-13, services-17)
-
-A/DT federal/JJ judge/NN dismissed/VBD the/DT lawsuit/NN ,/, saying/VBG that/IN allowing/VBG Duncan/NNP 's/POS claim/NN to/TO proceed/VB would/MD amount/VB to/TO allowing/VBG state/NN regulation/NN of/IN a/DT ``service/NN ''/'' provided/VBN by/IN Northwest/NNP on/IN its/PRP$ trans-Pacific/JJ flights/NNS ./.
 
 (ROOT
   (S
@@ -574,8 +548,6 @@ poss(flights-32, its-30)
 amod(flights-32, trans-Pacific-31)
 prep_on(provided-26, flights-32)
 
-But/CC the/DT 9th/JJ U.S./NNP Circuit/NNP Court/NNP of/IN Appeals/NNPS reinstated/VBD Duncan/NNP 's/POS lawsuit/NN last/JJ April/NNP ./.
-
 (ROOT
   (S (CC But)
     (NP
@@ -601,8 +573,6 @@ poss(lawsuit-12, Duncan-10)
 dobj(reinstated-9, lawsuit-12)
 amod(April-14, last-13)
 tmod(reinstated-9, April-14)
-
-Allowing/VBG smoking/VBG on/IN some/DT flights/NNS is/VBZ not/RB a/DT ``service/NN ''/'' provided/VBN by/IN an/DT airline/NN ,/, the/DT court/NN said/VBD ./.
 
 (ROOT
   (S
@@ -639,8 +609,6 @@ agent(provided-11, airline-14)
 det(court-17, the-16)
 nsubj(said-18, court-17)
 root(ROOT-0, said-18)
-
-The/DT court/NN also/RB said/VBD the/DT prospect/NN of/IN damages/NNS from/IN a/DT personal-injury/JJ lawsuit/NN would/MD not/RB affect/VB an/DT airline/NN 's/POS services/NNS enough/JJ to/TO warrant/VB pre-emption/NN under/IN the/DT federal/JJ law/NN ./.
 
 (ROOT
   (S
@@ -695,8 +663,6 @@ dobj(warrant-22, pre-emption-23)
 det(law-27, the-25)
 amod(law-27, federal-26)
 prep_under(warrant-22, law-27)
-
-In/IN the/DT appeal/NN acted/VBN on/IN Monday/NNP ,/, Northwest/NNP 's/POS lawyers/NNS said/VBD airlines/NNS should/MD not/RB have/VB to/TO ``tailor/VB their/PRP$ operations/NNS ''/'' to/TO comply/VB with/IN laws/NNS in/IN various/JJ states/NNS ./.
 
 (ROOT
   (S
@@ -753,8 +719,6 @@ prep_with(comply-22, laws-24)
 amod(states-27, various-26)
 prep_in(laws-24, states-27)
 
-Duncan/NNP 's/POS lawyers/NNS said/VBD the/DT deregulation/NN law/NN was/VBD not/RB intended/VBN to/TO protect/VB airlines/NNS from/IN personal-injury/JJ claims/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -790,8 +754,6 @@ dobj(protect-12, airlines-13)
 amod(claims-16, personal-injury-15)
 prep_from(protect-12, claims-16)
 
-The/DT case/NN is/VBZ Northwest/RB Airlines/NNPS v/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NN case))
@@ -807,8 +769,6 @@ advmod(v-6, Northwest-4)
 nn(v-6, Airlines-5)
 root(ROOT-0, v-6)
 
-Duncan/NNP ,/, 00-404/CD ./.
-
 (ROOT
   (NP
     (NP (NNP Duncan))
@@ -819,14 +779,10 @@ Duncan/NNP ,/, 00-404/CD ./.
 root(ROOT-0, Duncan-1)
 amod(Duncan-1, 00-404-3)
 
-___/.
-
 (ROOT
   (NP (. ___)))
 
 root(ROOT-0, ___-1)
-
-On/IN the/DT Net/NN :/:
 
 (ROOT
   (PP (IN On)
@@ -836,8 +792,6 @@ On/IN the/DT Net/NN :/:
 root(ROOT-0, On-1)
 det(Net-3, the-2)
 pobj(On-1, Net-3)
-
-For/IN the/DT appeals/NNS court/NN ruling/VBG in/IN Duncan/NNP v/NNP ./.
 
 (ROOT
   (FRAG
@@ -856,8 +810,6 @@ pobj(For-1, court-4)
 vmod(court-4, ruling-5)
 nn(v-8, Duncan-7)
 prep_in(ruling-5, v-8)
-
-Northwest/RB Airlines/NNPS :/: http:/NN and/CC click/NN on/IN 9th/JJ Circuit/NNP ./.
 
 (ROOT
   (NP

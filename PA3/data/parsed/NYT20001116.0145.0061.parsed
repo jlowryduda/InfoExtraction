@@ -1,5 +1,3 @@
-NYT20001116.0145.0061/CD NEWS/NNP STORY/NNP 2000-11-16/CD 01:59:00/CD
-
 (ROOT
   (NP
     (NP (CD NYT20001116.0145.0061))
@@ -11,8 +9,6 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001116.0145.0061-1, STORY-3)
 num(01:59:00-5, 2000-11-16-4)
 dep(NYT20001116.0145.0061-1, 01:59:00-5)
-
-A0861/CD &Cx1f/NN ;/: taf-z/JJ u/NN k/IN BC-EDIT-VIETNAM-CLINTON-/JJ 11-16/CD 0532/CD
 
 (ROOT
   (NP
@@ -31,14 +27,10 @@ amod(0532-9, BC-EDIT-VIETNAM-CLINTON--7)
 num(0532-9, 11-16-8)
 prep_k(u-5, 0532-9)
 
-BC-EDIT-VIETNAM-CLINTON-NYT/NNP
-
 (ROOT
   (NP (NNP BC-EDIT-VIETNAM-CLINTON-NYT)))
 
 root(ROOT-0, BC-EDIT-VIETNAM-CLINTON-NYT-1)
-
-EDITORIAL/NNP :/: A/DT PRESIDENTIAL/NNP JOURNEY/NNP TO/NNP VIETNAM/.
 
 (ROOT
   (NP
@@ -54,8 +46,6 @@ nn(TO-6, JOURNEY-5)
 dep(EDITORIAL-1, TO-6)
 punct(EDITORIAL-1, VIETNAM-7)
 
-&UR/NNS ;/: c.2000/CD N.Y/NNP ./.
-
 (ROOT
   (NP
     (NP (NNS &UR))
@@ -66,8 +56,6 @@ punct(EDITORIAL-1, VIETNAM-7)
 root(ROOT-0, &UR-1)
 num(N.Y-4, c.2000-3)
 dep(&UR-1, N.Y-4)
-
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -85,8 +73,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-The/DT New/NNP York/NNP Times/NNP said/VBD in/IN an/DT editorial/NN for/IN Thursday/NN ,/, Nov/NNP ./.
 
 (ROOT
   (S
@@ -111,8 +97,6 @@ prep_in(said-5, editorial-8)
 prep_for(editorial-8, Thursday-10)
 prep_in(said-5, Nov-12)
 
-16/CD :/: The/DT last/JJ U.S/NNP ./.
-
 (ROOT
   (NP
     (NP (CD 16))
@@ -124,8 +108,6 @@ root(ROOT-0, 16-1)
 det(U.S-5, The-3)
 amod(U.S-5, last-4)
 dep(16-1, U.S-5)
-
-president/NN to/TO visit/VB Vietnam/NNP was/VBD Richard/NNP Nixon/NNP ,/, who/WP traveled/VBD to/TO the/DT South/NNP Vietnamese/JJ capital/NN of/IN Saigon/NNP in/IN 1969/CD ,/, at/IN the/DT height/NN of/IN a/DT war/NN that/WDT eventually/RB took/VBD 58,000/CD American/NNP and/CC 3/CD million/CD Vietnamese/JJ lives/NNS ./.
 
 (ROOT
   (S
@@ -199,8 +181,6 @@ amod(lives-36, Vietnamese-35)
 dobj(took-29, lives-36)
 conj_and(American-31, lives-36)
 
-Thursday/NN ,/, Bill/NNP Clinton/NNP begins/VBZ a/DT three-day/JJ trip/NN to/TO Hanoi/NNP and/CC Ho/NNP Chi/NNP Minh/NNP City/NNP ,/, as/IN Saigon/NNP is/VBZ now/RB called/VBN ./.
-
 (ROOT
   (S
     (NP (NN Thursday))
@@ -241,8 +221,6 @@ auxpass(called-21, is-19)
 advmod(called-21, now-20)
 advcl(begins-5, called-21)
 
-Clinton/NNP 's/POS visit/NN is/VBZ striking/VBG evidence/NN of/IN how/WRB far/RB the/DT two/CD countries/NNS have/VBP moved/VBN beyond/IN the/DT rancor/NN of/IN that/DT conflict/NN ./.
-
 (ROOT
   (S
     (NP
@@ -282,8 +260,6 @@ det(rancor-17, the-16)
 prep_beyond(moved-14, rancor-17)
 det(conflict-20, that-19)
 prep_of(rancor-17, conflict-20)
-
-But/CC if/IN a/DT healthy/JJ new/JJ relationship/NN is/VBZ to/TO be/VB built/VBN ,/, Hanoi/NNP must/MD ease/VB bureaucratic/JJ restrictions/NNS on/IN foreign/JJ investment/NN and/CC show/VB greater/JJ respect/VB for/IN the/DT civil/NN and/CC religious/JJ liberties/NNS of/IN its/PRP$ people/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -347,8 +323,6 @@ conj_and(civil-26, liberties-29)
 poss(people-32, its-31)
 prep_of(liberties-29, people-32)
 
-Clinton/NNP 's/POS itinerary/JJ inevitably/RB looks/VBZ back/RB to/TO war-related/JJ issues/NNS ,/, like/IN repatriating/VBG the/DT remains/NNS of/IN Americans/NNPS lost/VBN in/IN action/NN and/CC helping/VBG remove/VB land/NN mines/NNS still/RB buried/VBN in/IN Vietnamese/JJ soil/NN ./.
-
 (ROOT
   (S
     (NP
@@ -409,8 +383,6 @@ vmod(mines-24, buried-26)
 amod(soil-29, Vietnamese-28)
 prep_in(buried-26, soil-29)
 
-But/CC he/PRP should/MD also/RB use/VB his/PRP$ visit/NN to/TO press/NN for/IN a/DT faster/NN pace/NN of/IN political/JJ and/CC economic/JJ reform/NN ./.
-
 (ROOT
   (S (CC But)
     (NP (PRP he))
@@ -446,8 +418,6 @@ conj_and(political-15, economic-17)
 amod(reform-18, economic-17)
 prep_of(pace-13, reform-18)
 
-Much/NNP has/VBZ changed/VBN in/IN Vietnam/NNP over/IN the/DT past/JJ three/CD decades/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Much))
@@ -467,8 +437,6 @@ det(decades-10, the-7)
 amod(decades-10, past-8)
 num(decades-10, three-9)
 prep_over(changed-3, decades-10)
-
-Most/JJS of/IN its/PRP$ 79/CD million/CD people/NNS have/VBP been/VBN born/JJ since/IN the/DT war/NN ended/VBN ,/, and/CC younger/JJR Vietnamese/NN ,/, in/IN particular/JJ ,/, look/JJ admiringly/RB upon/VBP American/JJ prosperity/NN and/CC personal/JJ freedoms/NNS ./.
 
 (ROOT
   (S
@@ -526,8 +494,6 @@ amod(freedoms-29, personal-28)
 dobj(upon-24, freedoms-29)
 conj_and(prosperity-26, freedoms-29)
 
-While/IN the/DT Communist/NNP Party/NNP still/RB jealously/RB monopolizes/JJ government/NN power/NN and/CC public/JJ political/JJ debate/NN ,/, ordinary/JJ Vietnamese/NN are/VBP no/RB longer/RB afraid/VBN to/TO talk/VB about/IN politics/NNS in/IN private/NN ./.
-
 (ROOT
   (S
     (SBAR (IN While)
@@ -582,8 +548,6 @@ xcomp(afraid-20, talk-22)
 prep_about(talk-22, politics-24)
 prep_in(politics-24, private-26)
 
-But/CC anyone/NN who/WP speaks/VBZ out/RB for/IN more/RBR accountable/JJ government/NN or/CC wider/NN freedom/NN faces/NNS stern/JJ repression/NN ./.
-
 (ROOT
   (FRAG (CC But)
     (NP
@@ -619,8 +583,6 @@ prep_for(speaks-4, faces-13)
 conj_or(government-9, faces-13)
 amod(repression-15, stern-14)
 dep(faces-13, repression-15)
-
-Hanoi/NNP continues/NNS to/TO jail/VB open/JJ critics/NNS ,/, persecute/JJ religious/JJ believers/NNS ,/, censor/NN newspapers/NNS ,/, restrict/VB the/DT Internet/NNP and/CC otherwise/VB suppress/NN dissent/NN ./.
 
 (ROOT
   (S
@@ -661,8 +623,6 @@ dobj(restrict-15, Internet-17)
 conj_and(restrict-15, otherwise-19)
 nn(dissent-21, suppress-20)
 dobj(otherwise-19, dissent-21)
-
-It/PRP routinely/RB violates/VBZ provisions/NNS of/IN the/DT International/NNP Covenant/NNP on/IN Civil/NNP and/CC Political/JJ Rights/NNS ,/, to/TO which/WDT it/PRP acceded/VBD in/IN 1982/CD ,/, guaranteeing/VBG freedom/NN of/IN expression/NN ,/, association/NN and/CC religious/JJ belief/NN and/CC prohibiting/VBG arbitrary/JJ detentions/NNS ./.
 
 (ROOT
   (S
@@ -737,8 +697,6 @@ conj_and(guaranteeing-22, prohibiting-32)
 amod(detentions-34, arbitrary-33)
 dobj(prohibiting-32, detentions-34)
 
-After/IN a/DT disastrous/JJ decade/NN of/IN trying/VBG to/TO impose/VB North/NNP Vietnam/NNP 's/POS austere/JJ and/CC repressive/JJ communism/NN on/IN the/DT more/RBR freewheeling/JJ South/NNP ,/, the/DT country/NN 's/POS leaders/NNS reversed/VBD course/NN in/IN the/DT late/JJ 1980s/NNS and/CC began/JJ encouraging/VBG Southern/NNP style/NNP entrepreneurship/NN ./.
-
 (ROOT
   (S
     (PP (IN After)
@@ -808,8 +766,6 @@ nn(entrepreneurship-37, Southern-35)
 nn(entrepreneurship-37, style-36)
 dobj(encouraging-34, entrepreneurship-37)
 
-But/CC over/IN the/DT past/JJ three/CD years/NNS ,/, Vietnam/NNP 's/POS program/NN of/IN market/NN liberalization/NN has/VBZ stalled/VBN as/IN the/DT country/NN 's/POS political/JJ leaders/NNS have/VBP grown/VBN concerned/VBN about/IN decentralizing/VBG economic/JJ power/NN ./.
-
 (ROOT
   (S (CC But)
     (PP (IN over)
@@ -860,8 +816,6 @@ prepc_about(concerned-24, decentralizing-26)
 amod(power-28, economic-27)
 dobj(decentralizing-26, power-28)
 
-Foreign/JJ investors/NNS have/VBP become/VBN frustrated/VBN with/IN the/DT Vietnam/NNP 's/POS bureaucratic/JJ hurdles/NNS and/CC have/VBP taken/VBN their/PRP$ investments/NNS to/TO China/NNP and/CC other/JJ Southeast/NN Asian/JJ nations/NNS ./.
-
 (ROOT
   (S
     (NP (JJ Foreign) (NNS investors))
@@ -904,8 +858,6 @@ nn(nations-23, other-20)
 nn(nations-23, Southeast-21)
 amod(nations-23, Asian-22)
 prep_to(taken-14, nations-23)
-
-When/WRB Clinton/NNP talks/NNS to/TO university/JJ students/NNS in/IN Hanoi/NNP on/IN Friday/NNP he/PRP should/MD speak/VB plainly/RB about/IN the/DT merits/NNS of/IN human/JJ rights/NNS ,/, democracy/NN ,/, free/JJ markets/NNS and/CC the/DT rule/NN of/IN law/NN ,/, as/IN he/PRP did/VBD during/IN his/PRP$ 1998/CD trip/NN to/TO China/NNP ./.
 
 (ROOT
   (S
@@ -982,8 +934,6 @@ num(trip-38, 1998-37)
 prep_during(did-34, trip-38)
 prep_to(did-34, China-40)
 
-He/PRP also/RB needs/VBZ to/TO raise/VB these/DT issues/NNS in/IN his/PRP$ discussions/NNS with/IN government/NN and/CC Communist/JJ Party/NNP leaders/NNS as/RB well/RB ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -1022,8 +972,6 @@ conj_and(government-12, leaders-16)
 advmod(well-18, as-17)
 mwe(well-18, as-17)
 advmod(raise-5, well-18)
-
-Establishing/VBG firm/NN legal/JJ protections/NNS for/IN Vietnamese/JJ -Americans/NNPS who/WP want/VBP to/TO return/VB home/NN to/TO do/VB business/NN should/MD be/VB an/DT important/JJ part/NN of/IN his/PRP$ agenda/NN ./.
 
 (ROOT
   (S
@@ -1076,8 +1024,6 @@ root(ROOT-0, part-20)
 poss(agenda-23, his-22)
 prep_of(part-20, agenda-23)
 
-He/PRP would/MD also/RB do/VB well/RB to/TO follow/VB the/DT advice/NN of/IN Sen/NNP ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -1105,8 +1051,6 @@ xcomp(do-4, follow-7)
 det(advice-9, the-8)
 dobj(follow-7, advice-9)
 prep_of(advice-9, Sen-11)
-
-John/NNP McCain/NNP and/CC others/NNS and/CC seek/VB to/TO expand/VB legal/JJ exchange/NN programs/NNS to/TO cover/VB press/NN and/CC human/JJ rights/NNS issues/NNS as/RB well/RB as/IN commercial/JJ law/NN ./.
 
 (ROOT
   (S
@@ -1154,8 +1098,6 @@ dobj(cover-13, issues-18)
 amod(law-23, commercial-22)
 dobj(cover-13, law-23)
 conj_and(issues-18, law-23)
-
-NYT-11-16-00/CD 0159EST/CD
 
 (ROOT
   (FRAG

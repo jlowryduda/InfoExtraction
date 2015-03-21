@@ -1,5 +1,3 @@
-NYT20001017.1908.0279/NNP NEWS/NNP STORY/NNP 2000-10-17/CD 19:56:20/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001017.1908.0279) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(19:56:20-5, 2000-10-17-4)
 dep(STORY-3, 19:56:20-5)
-
-A7744/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-DEL-BUSINESS-TAX-NYT/NNP &LR/NNP ;/: 10-17/CD 0462/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0462-11, 10-17-10)
 dep(&LR-8, 0462-11)
 
-BC-DEL-BUSINESS-TAX-NYT/NNP
-
 (ROOT
   (NP (NNP BC-DEL-BUSINESS-TAX-NYT)))
 
 root(ROOT-0, BC-DEL-BUSINESS-TAX-NYT-1)
-
-JUDGE/NNP RULES/NNP AGAINST/NNP COMPANY/NNP IN/NNP TAX/NNP SCHEME/NNP CASE/NNP
 
 (ROOT
   (NP (NNP JUDGE) (NNP RULES) (NNP AGAINST) (NNP COMPANY) (NNP IN) (NNP TAX) (NNP SCHEME) (NNP CASE)))
@@ -53,8 +45,6 @@ nn(CASE-8, IN-5)
 nn(CASE-8, TAX-6)
 nn(CASE-8, SCHEME-7)
 root(ROOT-0, CASE-8)
-
-&UR/NNS ;/: By/NNP DAVID/NNP CAY/NNP JOHNSTON/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -89,8 +79,6 @@ dep(&UR-1, &UR-13)
 dep(&UR-13, c.2000-15)
 appos(c.2000-15, N.Y-16)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -107,8 +95,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-A/DT federal/JJ judge/NN in/IN Delaware/NN ,/, in/IN a/DT decision/NN made/VBD public/JJ on/IN Tuesday/NNP ,/, held/VBD that/DT one/CD company/NN 's/POS corporate/JJ tax/NN shelter/NN was/VBD a/DT sham/NN and/CC noted/VBD that/IN 85/CD other/JJ large/JJ corporations/NNS used/VBD the/DT same/JJ deduction/NN to/TO avoid/VB paying/VBG $6/CD billion/CD in/IN corporate/JJ income/NN taxes/NNS ./.
 
 (ROOT
   (S
@@ -193,8 +179,6 @@ amod(taxes-45, corporate-43)
 nn(taxes-45, income-44)
 prep_in(billion-41, taxes-45)
 
-U.S./NNP District/NNP Court/NNP Judge/NNP Murray/NNP Schwartz/NNP in/IN Wilmington/NNP ,/, Del./NNP ,/, ruled/VBD that/IN Camelot/NNP Music/NNP could/MD not/RB deduct/VB interest/NN on/IN loans/NNS it/PRP took/VBD out/RB against/IN life/NN insurance/NN on/IN its/PRP$ 1,430/CD employees/NNS in/IN 1990/CD through/IN 1993/CD ./.
-
 (ROOT
   (S
     (NP
@@ -255,8 +239,6 @@ prep_on(took-23, employees-31)
 prep_in(employees-31, 1990-33)
 prep_through(took-23, 1993-35)
 
-Camelot/NNP Music/NNP is/VBZ owned/VBN by/IN Trans/NNP World/NNP Entertainment/NNP ,/, which/WDT bought/VBD the/DT company/NN last/JJ year/NN for/IN $451.9/CD million/CD ./.
-
 (ROOT
   (S
     (NP (NNP Camelot) (NNP Music))
@@ -292,8 +274,6 @@ amod(year-15, last-14)
 tmod(bought-11, year-15)
 number(million-18, $451.9-17)
 prep_for(bought-11, million-18)
-
-The/DT decision/NN could/MD affect/VB many/JJ of/IN the/DT other/JJ 85/NN companies/NNS ,/, which/WDT the/DT judge/NN did/VBD not/RB identify/VB by/IN name/NN ,/, because/IN his/PRP$ ruling/NN applies/NNS to/TO every/VB company/NN organized/VBN in/IN Delaware/NNP ,/, whose/WP$ corporate-governance/NN laws/NNS have/VBP made/VBN it/PRP a/DT major/JJ center/NN for/IN large/JJ companies/NNS to/TO have/VB their/PRP$ nominal/JJ headquarters/NNS ./.
 
 (ROOT
   (S
@@ -388,8 +368,6 @@ poss(headquarters-48, their-46)
 amod(headquarters-48, nominal-47)
 dobj(have-45, headquarters-48)
 
-American/JJ Electric/NNP Power/NNP ,/, an/DT electric/JJ utility/NN in/IN Columbus/NNP ,/, Ohio/NNP ,/, has/VBZ a/DT case/NN involving/VBG almost/RB identical/JJ issues/NNS scheduled/VBD to/TO go/VB to/TO trial/NN in/IN two/CD weeks/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -442,8 +420,6 @@ prep_to(go-22, trial-24)
 num(weeks-27, two-26)
 prep_in(trial-24, weeks-27)
 
-Pat/NNP D./NNP Hemlepp/NNP ,/, a/DT spokesman/NN for/IN the/DT company/NN ,/, said/VBD that/IN $240/CD million/CD in/IN taxes/NNS were/VBD at/IN issue/NN ./.
-
 (ROOT
   (S
     (NP
@@ -482,8 +458,6 @@ prep_in(million-14, taxes-16)
 ccomp(said-11, were-17)
 prep_at(were-17, issue-19)
 
-Camelot/NNP took/VBD out/RP life/NN insurance/NN from/IN the/DT Hartford/NNP Group/NNP beginning/VBG in/IN 1990/CD on/IN its/PRP$ 1,430/JJ workers/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Camelot))
@@ -514,8 +488,6 @@ pobj(in-11, 1990-12)
 poss(workers-16, its-14)
 amod(workers-16, 1,430-15)
 prep_on(1990-12, workers-16)
-
-The/DT company/NN paid/VBD for/IN the/DT insurance/NN ,/, taking/VBG a/DT deduction/NN for/IN this/DT expense/NN ,/, and/CC then/RB borrowed/VBD back/RP the/DT premium/JJ through/IN a/DT loan/NN against/IN the/DT insurance/NN policy/NN ./.
 
 (ROOT
   (S
@@ -566,8 +538,6 @@ prep_through(borrowed-17, loan-23)
 det(policy-27, the-25)
 nn(policy-27, insurance-26)
 prep_against(loan-23, policy-27)
-
-On/IN its/PRP$ corporate/JJ income/NN tax/NN returns/VBZ the/DT company/NN took/VBD $13.8/CD million/CD of/IN deductions/NNS in/IN 1990/CD through/IN 1993/CD tax/NN returns/NNS for/IN interest/NN it/PRP paid/VBD on/IN the/DT loans/NNS ./.
 
 (ROOT
   (S
@@ -620,8 +590,6 @@ nsubj(paid-23, it-22)
 root(ROOT-0, paid-23)
 det(loans-26, the-25)
 prep_on(paid-23, loans-26)
-
-Schwartz/NNP said/VBD that/IN there/RB was/VBD no/RB build/VB up/RB in/IN the/DT cash/NN value/NN of/IN the/DT insurance/NN policies/NNS and/CC because/RB of/IN the/DT way/NN the/DT loans/NNS were/VBD structured/JJ there/RB was/VBD no/DT reasonable/JJ prospect/NN that/IN the/DT company/NN would/MD profit/VB from/IN buying/VBG the/DT insurance/NN ./.
 
 (ROOT
   (S
@@ -703,8 +671,6 @@ prepc_from(profit-35, buying-37)
 det(insurance-39, the-38)
 dobj(buying-37, insurance-39)
 
-He/PRP called/VBD the/DT arrangement/NN ``a/NN factual/JJ sham/NN ''/'' that/IN ``lacked/VBD objective/JJ economic/JJ substance/NN and/CC a/DT subjective/JJ business/NN purpose/IN other/JJ than/IN the/DT tax/NN benefits/NNS flowing/VBG from/IN the/DT interest/NN deductions/NNS .''/.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -756,8 +722,6 @@ det(interest-27, the-26)
 prep_from(flowing-24, interest-27)
 prep_purpose(``lacked-10, deductions-28)
 punct(called-2, .''-29)
-
-The/DT judge/NN said/VBD the/DT deal/NN ``crossed/VBD the/DT line/NN ''/'' on/IN permissible/JJ deductions/NNS by/IN such/JJ a/DT wide/NN margin/NN that/IN the/DT Internal/NNP Revenue/NNP Service/NNP was/VBD right/RB to/TO impose/VB penalties/NNS for/IN filing/NN in/IN an/DT inaccurate/JJ tax/NN return/NN ./.
 
 (ROOT
   (S
@@ -823,8 +787,6 @@ amod(return-34, inaccurate-32)
 nn(return-34, tax-33)
 prep_in(impose-26, return-34)
 
-John/NNP Sullivan/NNP ,/, Trans/NNPS World/NNP Entertainment/NNP 's/POS chief/JJ financial/JJ officer/NN ,/, said/VBD that/IN if/IN the/DT decision/NN stood/VBD it/PRP would/MD cost/VB the/DT company/NN about/IN $8/CD million/CD plus/JJ interest/NN ./.
-
 (ROOT
   (S
     (NP
@@ -879,8 +841,6 @@ prep_about(company-22, million-25)
 amod(interest-27, plus-26)
 dobj(cost-20, interest-27)
 
-``I/PRP 'm/VBP surprised/VBN by/IN the/DT ruling/VBG ,''/NNP Sullivan/NNP said/VBD ,/, adding/VBG that/IN he/PRP expected/VBN the/DT company/NN would/MD appeal/VB the/DT decision/NN ./.
-
 (ROOT
   (S
     (NP (PRP ``I))
@@ -924,8 +884,6 @@ aux(appeal-18, would-17)
 ccomp(expected-14, appeal-18)
 det(decision-20, the-19)
 dobj(appeal-18, decision-20)
-
-The/DT Camelot/NNP Music/NNP and/CC American/NNP Electric/NNP Power/NNP cases/NNS are/VBP similar/JJ to/TO the/DT corporate-owned/JJ life/NN insurance/NN policy/NN tax/NN shelter/NN of/IN Winn-Dixie/NNP Stores/NNPS ,/, a/DT big/JJ supermarket/NN chain/NN ,/, that/IN a/DT tax/NN court/NN judge/NN demolished/VBD last/JJ year/NN in/IN an/DT 81-page/JJ opinion/NN ./.
 
 (ROOT
   (S
@@ -986,8 +944,6 @@ tmod(demolished-33, year-35)
 det(opinion-39, an-37)
 amod(opinion-39, 81-page-38)
 prep_in(demolished-33, opinion-39)
-
-NYT-10-17-00/CD 1956EDT/CD
 
 (ROOT
   (FRAG

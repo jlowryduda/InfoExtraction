@@ -1,5 +1,3 @@
-NYT20001103.2226.0443/NNP NEWS/NNP STORY/NNP 2000-11-03/CD 22:49:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001103.2226.0443) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(22:49:00-5, 2000-11-03-4)
 dep(STORY-3, 22:49:00-5)
-
-A7372/CD &Cx1f/NN ;/: taf-z/NN u/IN a/DT BC-OBIT-SHENSON-NYT/JJ &LR/NN ;/: 11-03/CD 0344/CD
 
 (ROOT
   (FRAG
@@ -34,14 +30,10 @@ prep_u(taf-z-4, &LR-8)
 num(0344-11, 11-03-10)
 dep(&Cx1f-2, 0344-11)
 
-BC-OBIT-SHENSON-NYT/NNP
-
 (ROOT
   (NP (NNP BC-OBIT-SHENSON-NYT)))
 
 root(ROOT-0, BC-OBIT-SHENSON-NYT-1)
-
-WALTER/NNP SHENSON/NNP ,/, 81/CD ,/, PRODUCER/NNP OF/NNP MOVIES/NNP STARRING/NNP THE/NNP BEATLES/.
 
 (ROOT
   (NP
@@ -63,8 +55,6 @@ nn(THE-10, STARRING-9)
 appos(81-4, THE-10)
 punct(SHENSON-2, BEATLES-11)
 
-&UR/NNS ;/: c.2000/CD N.Y/NNP ./.
-
 (ROOT
   (NP
     (NP (NNS &UR))
@@ -75,8 +65,6 @@ punct(SHENSON-2, BEATLES-11)
 root(ROOT-0, &UR-1)
 num(N.Y-4, c.2000-3)
 dep(&UR-1, N.Y-4)
-
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -94,8 +82,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-Walter/NNP Shenson/NNP ,/, the/DT producer/NN of/IN the/DT Beatles/NNS '/POS films/NNS ``A/NNP Hard/NNP Day's/NNP Night/NNP ''/'' and/CC ``Help/NNP !,''/NNP died/VBD on/IN Oct/NNP ./.
 
 (ROOT
   (S
@@ -136,8 +122,6 @@ conj_and(films-10, !,''-18)
 root(ROOT-0, died-19)
 prep_on(died-19, Oct-21)
 
-17/CD in/IN Woodland/NNP Hills/NNS ,/, Calif/NNP ./.
-
 (ROOT
   (NP
     (NP (CD 17))
@@ -153,8 +137,6 @@ nn(Hills-4, Woodland-3)
 prep_in(17-1, Hills-4)
 appos(Hills-4, Calif-6)
 
-He/PRP was/VBD 81/CD ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -165,8 +147,6 @@ He/PRP was/VBD 81/CD ./.
 nsubj(81-3, He-1)
 cop(81-3, was-2)
 root(ROOT-0, 81-3)
-
-Shenson/NNP ,/, who/WP was/VBD born/NN in/IN San/NNP Francisco/NNP ,/, was/VBD working/VBG in/IN London/NNP as/IN a/DT film/NN producer/NN _/IN most/JJS notably/RB of/IN ``The/JJ Mouse/NN That/WDT Roared/VBD ,''/VBN with/IN Peter/NNP Sellers/NNPS _/NN when/WRB he/PRP was/VBD approached/VBN by/IN United/NNP Artists/NNPS to/TO oversee/VB the/DT first/JJ foray/NN into/IN cinema/NN by/IN the/DT Beatles/NNS ./.
 
 (ROOT
   (S
@@ -260,8 +240,6 @@ prep_into(oversee-39, cinema-44)
 det(Beatles-47, the-46)
 prep_by(oversee-39, Beatles-47)
 
-The/DT studio/NN had/VBD discovered/VBN that/IN the/DT recording/VBG contract/NN between/IN the/DT Beatles/NNPS and/CC EMI/NNP did/VBD not/RB cover/VB film/JJ soundtracks/NNS ./.
-
 (ROOT
   (S
     (NP (DT The) (NN studio))
@@ -298,8 +276,6 @@ neg(cover-16, not-15)
 ccomp(discovered-4, cover-16)
 amod(soundtracks-18, film-17)
 dobj(cover-16, soundtracks-18)
-
-Although/IN the/DT Beatles/NNP had/VBD yet/VBN to/TO tour/VB the/DT United/NNP States/NNPS ,/, the/DT group/NN 's/POS popularity/NN in/IN Britain/NNP was/VBD phenomenal/JJ ,/, and/CC United/NNP Artists/NNPS decided/VBD to/TO exploit/VB it/PRP by/IN putting/VBG out/RP a/DT cheaply/JJ made/VBN film/NN as/IN a/DT pretext/NN for/IN a/DT soundtrack/JJ album/NN ./.
 
 (ROOT
   (S
@@ -380,8 +356,6 @@ det(album-41, a-39)
 amod(album-41, soundtrack-40)
 prep_for(putting-29, album-41)
 
-He/PRP hired/VBD Richard/NNP Lester/NNP ,/, a/DT fellow/JJ American/NNP ,/, to/TO direct/VB ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -406,8 +380,6 @@ amod(American-8, fellow-7)
 appos(Lester-4, American-8)
 aux(direct-11, to-10)
 xcomp(hired-2, direct-11)
-
-At/IN the/DT suggestion/NN of/IN Paul/NNP McCartney/NNP ,/, he/PRP recruited/VBD the/DT Liverpool/NN -based/JJ playwright/NN Alun/NNP Owen/NNP to/TO write/VB the/DT screenplay/NN ./.
 
 (ROOT
   (S
@@ -445,8 +417,6 @@ aux(write-17, to-16)
 vmod(Liverpool-11, write-17)
 det(screenplay-19, the-18)
 dobj(write-17, screenplay-19)
-
-The/DT film/NN 's/POS prospects/NNS were/VBD so/RB little/JJ regarded/VBD that/IN while/IN Shenson/NNP was/VBD prepared/VBN to/TO offer/VB the/DT Beatles/NNS 25/CD percent/NN of/IN the/DT net/JJ income/NN ,/, the/DT band/NN 's/POS manager/NN ,/, Brian/JJ Epstein/NNP ,/, initially/RB asked/VBN for/IN only/RB 7/CD percent/JJ ./.
 
 (ROOT
   (S
@@ -522,8 +492,6 @@ quantmod(7-37, only-36)
 num(percent-38, 7-37)
 prep_for(asked-34, percent-38)
 
-United/NNP Artists/NNPS thought/VBD that/IN the/DT Beatles/NNS would/MD be/VB a/DT short-lived/JJ phenomenon/NN ,/, but/CC Shenson/NNP foresaw/NNP their/PRP$ staying/JJ power/NN and/CC struck/VB an/DT agreement/NN with/IN the/DT studio/NN that/IN all/DT rights/NNS to/TO the/DT film/NN would/MD revert/VB to/TO him/PRP after/IN 15/CD years/NNS ./.
-
 (ROOT
   (S
     (NP (NNP United) (NNPS Artists))
@@ -595,8 +563,6 @@ prep_to(revert-33, him-35)
 num(years-38, 15-37)
 prep_after(revert-33, years-38)
 
-``A/NNP Hard/NNP Day/NNP 's/POS Night/NNP ''/'' was/VBD so/RB popular/JJ that/IN Shenson/NNP said/VBD the/DT studio/NN recouped/VBD what/WP it/PRP spent/NN on/IN the/DT production/NN _/IN about/IN $600,000/CD _/NN in/IN just/RB one/CD day/NN after/IN the/DT film/NN 's/POS release/NN in/IN 1964/CD ./.
-
 (ROOT
   (NP
     (NP (NNP ``A)
@@ -666,8 +632,6 @@ poss(release-34, film-32)
 prep_after(day-29, release-34)
 prep_in(production-21, 1964-36)
 
-A/DT reissue/NN of/IN the/DT film/NN is/VBZ to/TO appear/VB in/IN theaters/NNS later/RBR this/DT year/NN ./.
-
 (ROOT
   (S
     (NP
@@ -695,8 +659,6 @@ prep_in(appear-8, theaters-10)
 advmod(year-13, later-11)
 det(year-13, this-12)
 tmod(appear-8, year-13)
-
-Shenson/NNP was/VBD on/IN the/DT set/NN every/NN day/NN ,/, and/CC after/IN he/PRP had/VBD looked/VBN at/IN some/DT early/JJ rushes/NNS his/PRP$ wife/NN asked/VBD him/PRP whether/IN the/DT Beatles/NNS could/MD act/VB ./.
 
 (ROOT
   (S
@@ -749,8 +711,6 @@ nsubj(act-26, Beatles-24)
 aux(act-26, could-25)
 ccomp(asked-20, act-26)
 
-``I/NNP don't/RB know/VBP if/IN they/PRP can/MD act/VB ,''/IN he/PRP replied/VBD ,/, ``but/IN you/PRP can't/VBP keep/VB your/PRP$ eyes/NNS off/RP them/PRP .''/.
-
 (ROOT
   (S
     (NP (NNP ``I))
@@ -796,8 +756,6 @@ prep(keep-15, off-18)
 dep(off-18, them-19)
 punct(know-3, .''-20)
 
-His/PRP$ wife/NN ,/, Geraldine/NNP ,/, died/VBD last/JJ year/NN ./.
-
 (ROOT
   (S
     (NP
@@ -815,8 +773,6 @@ appos(wife-2, Geraldine-4)
 root(ROOT-0, died-6)
 amod(year-8, last-7)
 tmod(died-6, year-8)
-
-He/PRP is/VBZ survived/VBN by/IN two/CD sons/NNS ,/, Richard/NNP and/CC Douglas/NNP ;/: a/DT sister/NN ,/, Irma/NNP Levin/NNP of/IN San/NNP Francisco/NNP ;/: and/CC four/CD grandchildren/NNS ./.
 
 (ROOT
   (S
@@ -863,8 +819,6 @@ prep_of(Levin-16, Francisco-19)
 num(grandchildren-23, four-22)
 agent(survived-3, grandchildren-23)
 conj_and(sons-6, grandchildren-23)
-
-NYT-11-03-00/CD 2249EST/CD
 
 (ROOT
   (FRAG

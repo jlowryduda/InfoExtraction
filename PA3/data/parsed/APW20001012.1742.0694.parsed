@@ -1,5 +1,3 @@
-APW20001012.1742.0694/DT NEWS/NNP STORY/NNPS 2000-10-12/CD 18:08:09/CD
-
 (ROOT
   (NP
     (NP (DT APW20001012.1742.0694))
@@ -12,14 +10,10 @@ dep(APW20001012.1742.0694-1, STORY-3)
 num(18:08:09-5, 2000-10-12-4)
 dep(APW20001012.1742.0694-1, 18:08:09-5)
 
-Detective-Slain/JJ
-
 (ROOT
   (ADJP (JJ Detective-Slain)))
 
 root(ROOT-0, Detective-Slain-1)
-
-Cop/NNP Killed/NNP While/NNP Booking/NNP Suspect/NNP
 
 (ROOT
   (NP (NNP Cop) (NNP Killed) (NNP While) (NNP Booking) (NNP Suspect)))
@@ -29,8 +23,6 @@ nn(Suspect-5, Killed-2)
 nn(Suspect-5, While-3)
 nn(Suspect-5, Booking-4)
 root(ROOT-0, Suspect-5)
-
-WARREN/NNP ,/, Mich./NNP [AP/NNP ]/NNP _/, A/DT drug/JJ suspect/NN being/VBG booked/VBN at/IN police/NN headquarters/NNS shot/VBD a/DT veteran/NN detective/JJ to/TO death/VB and/CC then/RB turned/VBD the/DT gun/NN on/IN himself/PRP ./.
 
 (ROOT
   (S
@@ -89,8 +81,6 @@ det(gun-25, the-24)
 dobj(turned-23, gun-25)
 prep_on(turned-23, himself-27)
 
-Ljeka/NNP Juncaj/NNP ,/, 29/CD ,/, pulled/VBN a/DT gun/NN out/IN of/IN his/PRP$ pants/NNS Wednesday/NNP night/NNP and/CC shot/JJ Detective/JJ Christopher/NNP Wouters/NNS during/IN a/DT struggle/JJ ,/, Police/NNP Chief/NNP James/NNP Vohs/NNP said/VBD Thursday/NN ./.
-
 (ROOT
   (S
     (S
@@ -144,8 +134,6 @@ nsubj(said-28, Vohs-27)
 root(ROOT-0, said-28)
 tmod(said-28, Thursday-29)
 
-Juncaj/NNP ,/, arrested/VBN as/IN part/NN of/IN an/DT undercover/NN bust/NN ,/, then/RB shot/VBD himself/PRP in/IN the/DT head/NN ./.
-
 (ROOT
   (S
     (NP
@@ -177,8 +165,6 @@ dobj(shot-12, himself-13)
 det(head-16, the-15)
 prep_in(shot-12, head-16)
 
-Both/DT men/NNS died/VBD later/RBR at/IN a/DT hospital/JJ ./.
-
 (ROOT
   (S
     (NP (DT Both) (NNS men))
@@ -194,8 +180,6 @@ root(ROOT-0, died-3)
 advmod(died-3, later-4)
 det(hospital-7, a-6)
 prep_at(died-3, hospital-7)
-
-Juncaj/NNP was/VBD accused/VBN of/IN possession/NN with/IN intent/JJ to/TO deliver/VB 400/CD pills/NNS of/IN the/DT drug/JJ ecstasy/JJ ./.
 
 (ROOT
   (S
@@ -228,8 +212,6 @@ dobj(deliver-9, pills-11)
 det(ecstasy-15, the-13)
 amod(ecstasy-15, drug-14)
 prep_of(pills-11, ecstasy-15)
-
-Vohs/NNP said/VBD other/JJ officers/NNS took/VBD part/NN in/IN the/DT arrest/JJS but/CC he/PRP didn't/VBD know/VB what/WP steps/NNS had/VBD been/VBN taken/VBN to/TO search/VB Juncaj/NNP for/IN a/DT weapon/NN ./.
 
 (ROOT
   (S
@@ -287,8 +269,6 @@ dobj(search-20, Juncaj-21)
 det(weapon-24, a-23)
 prep_for(Juncaj-21, weapon-24)
 
-Ordinarily/RB ,/, officers/NNS said/VBD ,/, a/DT suspect/NN would/MD have/VB been/VBN frisked/VBN at/IN least/JJS once/RB before/IN arriving/VBG at/IN booking/NN ./.
-
 (ROOT
   (S
     (ADVP (RB Ordinarily))
@@ -326,8 +306,6 @@ advmod(at-12, once-14)
 prepc_before(at-12, arriving-16)
 prep_at(arriving-16, booking-18)
 
-Wouters/NNS ,/, 42/CD ,/, was/VBD a/DT 19-year/JJ veteran/NN ,/, and/CC he/PRP and/CC his/PRP$ wife/NN had/VBD three/CD young/JJ children/NNS ./.
-
 (ROOT
   (S
     (S
@@ -363,8 +341,6 @@ conj_and(veteran-8, had-15)
 num(children-18, three-16)
 amod(children-18, young-17)
 dobj(had-15, children-18)
-
-``A/NNP part/NN of/IN us/PRP died/VBD last/JJ night/NN ,''/, said/VBD Sgt./NNP Kevin/NNP Sommers/NNPS ,/, who/WP had/VBD known/VBN Wouters/NNS since/IN they/PRP were/VBD children/VBN ./.
 
 (ROOT
   (S
@@ -413,8 +389,6 @@ nsubjpass(children-21, they-19)
 auxpass(children-21, were-20)
 advcl(known-16, children-21)
 
-``You/IN couldn't/JJ ask/NN for/IN a/DT better/JJR guy/NN ,/, a/DT better/RBR friend/NN ,/, a/DT better/RBR officer/NN .''/.
-
 (ROOT
   (PP (IN ``You)
     (NP
@@ -443,8 +417,6 @@ det(officer-15, a-13)
 amod(officer-15, better-14)
 appos(ask-3, officer-15)
 punct(ask-3, .''-16)
-
-It/PRP was/VBD the/DT first/JJ time/NN since/IN 1969/CD that/IN an/DT officer/NN has/VBZ been/VBN killed/VBN in/IN the/DT line/NN of/IN duty/NN in/IN Warren/NNP ,/, a/DT large/JJ blue-collar/JJ Detroit/NN suburb/NN ./.
 
 (ROOT
   (S

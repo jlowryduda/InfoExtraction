@@ -1,5 +1,3 @@
-NYT20001027.2150.0417/NNP NEWS/NNP STORY/NNP 2000-10-27/CD 21:53:10/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001027.2150.0417) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(21:53:10-5, 2000-10-27-4)
 dep(STORY-3, 21:53:10-5)
-
-A9154/CD &Cx1f/NN ;/: taf-z/JJ u/NN i/IN BC-CANADA-AIRINDIA-BOMBI/NNP 10-27/CD 0624/CD
 
 (ROOT
   (NP
@@ -32,14 +28,10 @@ prep_i(u-5, BC-CANADA-AIRINDIA-BOMBI-7)
 num(BC-CANADA-AIRINDIA-BOMBI-7, 10-27-8)
 dep(u-5, 0624-9)
 
-BC-CANADA-AIRINDIA-BOMBING-NYT/NNP
-
 (ROOT
   (NP (NNP BC-CANADA-AIRINDIA-BOMBING-NYT)))
 
 root(ROOT-0, BC-CANADA-AIRINDIA-BOMBING-NYT-1)
-
-CANADA/NNP ARRESTS/NNP 2/CD IN/NNP 1985/CD BOMBING/NNP OF/NNP JET/NNP
 
 (ROOT
   (NP
@@ -55,8 +47,6 @@ num(IN-4, 1985-5)
 nn(JET-8, BOMBING-6)
 nn(JET-8, OF-7)
 dep(ARRESTS-2, JET-8)
-
-&UR/NNS ;/: By/NNP JAMES/NNP BROOKE/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -90,8 +80,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -108,8 +96,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-Canadian/JJ authorities/NNS arrested/VBD two/CD Vancouver/NN -area/NN men/NNS on/IN Friday/NN and/CC charged/VBD them/PRP in/IN the/DT deaths/NNS of/IN 329/CD passengers/NNS and/CC crew/NN members/NNS of/IN an/DT Air-India/NNP Boeing/NNP 747/CD that/WDT blew/VBD up/RB over/IN the/DT Irish/JJ Sea/NN in/IN 1985/CD ,/, en/VBN route/NN from/IN Canada/NNP to/TO London/NNP ./.
 
 (ROOT
   (S
@@ -185,8 +171,6 @@ advmod(en-37, route-38)
 prep_from(en-37, Canada-40)
 prep_to(en-37, London-42)
 
-The/DT two/CD ,/, Ripudan/NNP Singh/NNP Malik/NNP ,/, 53/CD ,/, and/CC Ajaib/NNP Singh/NNP Bagri/NNP ,/, 51/CD ,/, were/VBD arrested/VBN by/IN the/DT Royal/NNP Canadian/NNP Mounted/NNP Police/NNP ,/, capping/VBG what/WP the/DT Mounties/NNPS called/VBD the/DT longest/JJS and/CC most/RBS expensive/JJ criminal/JJ investigation/NN in/IN the/DT nation/NN 's/POS history/NN ./.
-
 (ROOT
   (S
     (NP
@@ -259,8 +243,6 @@ det(nation-40, the-39)
 poss(history-42, nation-40)
 prep_in(called-30, history-42)
 
-The/DT downing/NN of/IN the/DT jet/NN is/VBZ considered/VBN the/DT deadliest/JJS act/NN of/IN sabotage/NN in/IN the/DT history/NN of/IN aviation/NN ./.
-
 (ROOT
   (S
     (NP
@@ -293,8 +275,6 @@ prep_of(act-10, sabotage-12)
 det(history-15, the-14)
 prep_in(considered-7, history-15)
 prep_of(history-15, aviation-17)
-
-In/IN an/DT eight-count/JJ indictment/NN ,/, the/DT men/NNS were/VBD charged/VBN with/IN using/VBG suitcases/NNS packed/VBN with/IN explosives/NNS to/TO bomb/VB two/CD Air-India/JJ jets/NNS on/IN the/DT same/JJ day/NN ,/, June/NNP 23/CD ,/, 1985/CD ./.
 
 (ROOT
   (S
@@ -346,8 +326,6 @@ appos(day-24, June-26)
 num(June-26, 23-27)
 num(June-26, 1985-29)
 
-Air-India/NNP Flight/NNP 182/CD blew/, up/RB in/IN midair/NN ,/, killing/VBG all/DT aboard/NN ./.
-
 (ROOT
   (S
     (NP
@@ -372,8 +350,6 @@ prep_in(Flight-2, midair-7)
 root(ROOT-0, killing-9)
 det(aboard-11, all-10)
 dobj(killing-9, aboard-11)
-
-An/DT hour/NN earlier/RB ,/, a/DT suitcase/NN blew/NN up/RB in/IN Narita/NNP Airport/NNP ,/, outside/JJ Tokyo/NNP ,/, as/IN it/PRP was/VBD being/VBG loaded/VBN onto/IN Air-India/NNP Flight/NNP 301/CD ,/, destined/VBN for/IN Bangkok/NNP ;/: it/PRP killed/VBD two/CD baggage/NN handlers/NNS ./.
 
 (ROOT
   (S
@@ -434,8 +410,6 @@ num(handlers-34, two-32)
 nn(handlers-34, baggage-33)
 dobj(killed-31, handlers-34)
 
-Animosity/NNP against/IN Air-India/NNP dated/VBD back/RB to/TO 1984/CD ,/, when/WRB Indian/JJ troops/NNS occupied/VBD and/CC destroyed/VBN Sikhdom/NNP 's/POS holy/JJ site/NN ,/, the/DT Golden/NNP Temple/NNP in/IN Amritsar/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -486,8 +460,6 @@ nn(Temple-22, Golden-21)
 appos(site-18, Temple-22)
 prep_in(Temple-22, Amritsar-24)
 
-The/DT temple/NN had/VBD become/VBN a/DT center/NN for/IN radicals/NNS seeking/VBG an/DT independent/JJ Sikh/JJ state/NN ,/, an/DT issue/NN that/WDT polarized/VBD the/DT Sikh/JJ diaspora/NN around/IN the/DT world/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (NN temple))
@@ -534,8 +506,6 @@ dobj(polarized-18, diaspora-21)
 det(world-24, the-23)
 prep_around(polarized-18, world-24)
 
-Malik/NNP and/CC Bagri/NNP ,/, who/WP are/VBP both/DT Sikhs/NNPS ,/, are/VBP to/TO appear/VB in/IN court/NN on/IN Monday/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -574,8 +544,6 @@ aux(appear-12, to-11)
 xcomp(are-10, appear-12)
 prep_in(appear-12, court-14)
 prep_on(appear-12, Monday-16)
-
-Malik/NNP ,/, who/WP runs/VBZ a/DT school/NN and/CC credit/NN union/NN catering/VBG to/TO the/DT immigrant/NN community/NN ,/, has/VBZ long/RB been/VBN a/DT suspect/NN in/IN the/DT case/NN ./.
 
 (ROOT
   (S
@@ -622,8 +590,6 @@ det(suspect-20, a-19)
 root(ROOT-0, suspect-20)
 det(case-23, the-22)
 prep_in(suspect-20, case-23)
-
-Bagri/NNP ,/, a/DT mill/NN worker/NN from/IN Kamloops/NNP ,/, British/JJ Columbia/NNP ,/, was/VBD described/VBN Thursday/NN in/IN The/DT Province/NNP in/IN Vancouver/NNP as/IN a/DT key/JJ lieutenant/NN of/IN Talwinder/NNP Singh/NNP Parmar/NNP ,/, a/DT Sikh/JJ militant/NN leader/NN shot/VBD to/TO death/VB by/IN the/DT Indian/JJ police/NN in/IN 1992/CD ./.
 
 (ROOT
   (S
@@ -694,8 +660,6 @@ amod(police-39, Indian-38)
 prep_by(death-35, police-39)
 prep_in(police-39, 1992-41)
 
-Bagri/NNP was/VBD also/RB charged/VBN with/IN trying/VBG to/TO murder/VB Tara/NNP Singh/NNP Hayer/NNP ,/, editor/NN of/IN The/DT Indo-Canadian/JJ Times/NNP ,/, North/NNP America/NNP 's/POS largest/JJS Punjabi/NNP newspaper/NN ,/, in/IN 1998/CD ./.
-
 (ROOT
   (S
     (NP (NNP Bagri))
@@ -750,8 +714,6 @@ nn(newspaper-24, Punjabi-23)
 dep(America-20, newspaper-24)
 prep_in(Hayer-11, 1998-27)
 
-Hayer/NNP survived/VBD the/DT attempt/NN but/CC three/CD weeks/NNS later/RBR was/VBD shot/VBN to/TO death/VB in/IN his/PRP$ wheelchair/NN in/IN his/PRP$ garage/NN ./.
-
 (ROOT
   (S
     (NP (NNP Hayer))
@@ -792,8 +754,6 @@ poss(wheelchair-15, his-14)
 prep_in(death-12, wheelchair-15)
 poss(garage-18, his-17)
 prep_in(wheelchair-15, garage-18)
-
-``Although/JJ arrests/NNS have/VBP been/VBN made/VBN ,/, this/DT does/VBZ not/RB mark/VB the/DT conclusion/NN of/IN the/DT police/NN investigation/NN ,''/IN Constable/JJ Cate/NNP Galliford/NNP ,/, spokeswoman/NN for/IN the/DT Mounties/NNPS '/POS Air-India/NNP task/NN force/NN ,/, said/VBD at/IN news/DT conference/NN on/IN Friday/NNP afternoon/NN ./.
 
 (ROOT
   (S
@@ -861,8 +821,6 @@ prep_at(said-31, conference-34)
 prep_on(conference-34, Friday-36)
 dobj(said-31, afternoon-37)
 
-She/NNP said/VBD ,/, ``We/`` do/VBP anticipate/RB future/JJ arrests/NNS ,/, but/CC we/PRP don't/VBP know/VBP when/WRB those/DT will/MD take/VB place/NN .''/.
-
 (ROOT
   (S
     (VP
@@ -909,8 +867,6 @@ aux(take-17, will-16)
 ccomp(know-13, take-17)
 dobj(take-17, place-18)
 punct(She-1, .''-19)
-
-Beverly/RB Busson/NNP ,/, the/DT Mounties/NNPS '/POS commanding/VBG officer/NN in/IN Vancouver/NNP ,/, told/VBD the/DT news/NN conference/NN ,/, ``This/NNP has/VBZ been/VBN a/DT worldwide/JJ investigation/NN with/IN extremely/JJ challenging/NN logistical/JJ problems/NNS .''/.
 
 (ROOT
   (S
@@ -963,8 +919,6 @@ amod(problems-27, logistical-26)
 prep_with(investigation-22, problems-27)
 punct(investigation-22, .''-28)
 
-Canada/NNP is/VBZ home/NN to/TO half/JJ a/DT million/CD people/NNS of/IN Indian/JJ origin/NN ,/, most/JJS of/IN them/PRP Sikhs/NNPS ./.
-
 (ROOT
   (S
     (S
@@ -1000,8 +954,6 @@ prep_of(people-8, origin-11)
 dep(Sikhs-16, most-13)
 prep_of(most-13, them-15)
 parataxis(people-8, Sikhs-16)
-
-Four/NNP Sikhs/NNPS serve/NN in/IN Parliament/NNP ,/, mostly/RB from/IN the/DT Vancouver/NNP area/NN ,/, where/WRB half/NN of/IN the/DT nation/NN 's/POS Indo-Canadians/NNPS live/NNP ./.
 
 (ROOT
   (S
@@ -1041,8 +993,6 @@ poss(live-20, nation-17)
 nn(live-20, Indo-Canadians-19)
 pobj(of-15, live-20)
 
-Earlier/RBR this/DT year/NN ,/, a/DT Sikh/NNP ,/, Ujjal/NNP Dosanjh/NNP ,/, became/VBD premier/NN of/IN British/JJ Columbia/NNP and/CC Canada/NNP 's/POS first/JJ nonwhite/JJ provincial/JJ premier/NN ./.
-
 (ROOT
   (S
     (NP (RBR Earlier) (DT this) (NN year))
@@ -1081,8 +1031,6 @@ amod(premier-22, nonwhite-20)
 amod(premier-22, provincial-21)
 xcomp(became-11, premier-22)
 conj_and(premier-12, premier-22)
-
-Dosanjh/NNP ,/, a/DT moderate/NN ,/, paid/VBD a/DT price/NN for/IN speaking/VBG out/RP against/IN Sikh/NNP extremism/NN that/WDT gripped/VBD the/DT Vancouver/NN community/NN after/IN the/DT Golden/NNP Temple/NNP raid/VBN ./.
 
 (ROOT
   (S
@@ -1131,8 +1079,6 @@ nn(Temple-23, Golden-22)
 prep_after(gripped-16, Temple-23)
 vmod(Temple-23, raid-24)
 
-Four/NNP months/NNS before/IN the/DT AirIndia/NNP bombing/NN ,/, Dosanjh/NNP was/VBD attacked/VBN outside/VB his/PRP$ law/NN office/NN by/IN a/DT man/NN wielding/VBG an/DT iron/NN rod/NN ./.
-
 (ROOT
   (S
     (PP
@@ -1172,8 +1118,6 @@ det(rod-21, an-19)
 nn(rod-21, iron-20)
 dobj(wielding-18, rod-21)
 
-Dosanjh/NNP suffered/VBD a/DT broken/NN hand/NN and/CC needed/VBD 80/CD stitches/NNS for/IN head/RB wounds/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Dosanjh))
@@ -1202,8 +1146,6 @@ dobj(needed-7, stitches-9)
 amod(wounds-12, head-11)
 prep_for(stitches-9, wounds-12)
 
-In/IN recent/JJ years/NNS radicalism/NN has/VBZ ebbed/VBN ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -1218,8 +1160,6 @@ prep_in(ebbed-6, years-3)
 nsubj(ebbed-6, radicalism-4)
 aux(ebbed-6, has-5)
 root(ROOT-0, ebbed-6)
-
-Moderates/NNS have/VBP won/VBN control/NN of/IN Vancouver/NNP 's/POS largest/JJS Sikh/NN temples/NNS ,/, the/DT provincial/JJ government/NN has/VBZ cut/VBN ''community/NN development/NN ''/'' grants/VBZ that/DT once/RB went/VBD to/TO radical/JJ temples/NNS and/CC the/DT federal/JJ government/NN is/VBZ trying/VBG to/TO curb/VB Punjabi/NNP hate-radio/NN transmissions/NNS broadcast/RB from/IN Washington/NNP State/NNP ./.
 
 (ROOT
   (S
@@ -1301,8 +1241,6 @@ advmod(curb-34, broadcast-38)
 nn(State-41, Washington-40)
 prep_from(curb-34, State-41)
 
-As/IN rumors/NNS of/IN arrests/NNS circulated/VBN in/IN Vancouver/NNP ,/, Premier/NNP Dosanjh/NNP said/VBD charges/NNS would/MD be/VB a/DT large/JJ step/NN for/IN Canadian/JJ justice/NN ./.
-
 (ROOT
   (S
     (PP (IN As)
@@ -1343,8 +1281,6 @@ amod(step-17, large-16)
 ccomp(said-11, step-17)
 amod(justice-20, Canadian-19)
 prep_for(step-17, justice-20)
-
-He/PRP said/VBD ,/, ``I/PRP think/VBP people/NNS of/IN British/JJ Columbia/NNP ,/, people/NNS of/IN Canada/NNP ,/, would/MD finally/RB heave/VB a/DT sigh/NN of/IN relief/NN .''/.
 
 (ROOT
   (S
@@ -1392,8 +1328,6 @@ det(sigh-19, a-18)
 dobj(heave-17, sigh-19)
 prep_of(sigh-19, relief-21)
 punct(think-5, .''-22)
-
-NYT-10-27-00/CD 2153EDT/CD
 
 (ROOT
   (FRAG

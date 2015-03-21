@@ -1,5 +1,3 @@
-NYT20001106.1705.0187/NNP NEWS/NNP STORY/NNP 2000-11-06/CD 18:26:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001106.1705.0187) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(18:26:00-5, 2000-11-06-4)
 dep(STORY-3, 18:26:00-5)
-
-A9514/CD &Cx1f/NN ;/: tta-z/NNP u/NNP p/NNP BC-BUSH-ART-NYT/NNP &LR/NNP ;/: 11-06/CD 0696/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0696-11, 11-06-10)
 dep(&LR-8, 0696-11)
 
-BC-BUSH-ART-NYT/NNP
-
 (ROOT
   (NP (NNP BC-BUSH-ART-NYT)))
 
 root(ROOT-0, BC-BUSH-ART-NYT-1)
-
-COMING/NNP FULL/NNP CIRCLE/NNP ,/, BUSH/NNP VOWS/NNP TO/NNP END/NNP DISCORD/NNP IN/NNP WASHINGTON/NNP
 
 (ROOT
   (NP
@@ -58,8 +50,6 @@ nn(WASHINGTON-11, END-8)
 nn(WASHINGTON-11, DISCORD-9)
 nn(WASHINGTON-11, IN-10)
 appos(CIRCLE-3, WASHINGTON-11)
-
-[EDS/NNS :/: This/DT early/JJ version/NN will/MD be/VB updated/VBN from/IN Davenport/NNP ,/, Iowa/NNP .]/NNP &QL/NNP ;/: [ART/NNP ADV/NNP :/: Photos/NNPS NYT11/CD and/CC 25/CD are/VBP being/VBG sent/VBN to/TO NYT/NNP photo/NNP clients/NNS ./.
 
 (ROOT
   (NP
@@ -119,8 +109,6 @@ nn(clients-29, NYT-27)
 nn(clients-29, photo-28)
 prep_to(sent-25, clients-29)
 
-Nonsubscribers/NNS can/MD purchase/VB one-time/JJ rights/NNS by/IN calling/VBG 888-603-1036/CD or/CC 888-346-9867/CD .]/JJ &QL/NNS ;/: &UR/NNS ;/: By/NNP FRANK/NNP BRUNI/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
-
 (ROOT
   (S
     (NP (NNS Nonsubscribers))
@@ -175,8 +163,6 @@ dep(&QL-12, &UR-25)
 dep(&QL-12, c.2000-27)
 appos(c.2000-27, N.Y-28)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -193,8 +179,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-CHATTANOOGA/NNP ,/, Tenn./NNP _/, Nearly/RB 17/CD months/NNS after/IN he/PRP first/RB issued/VBN his/PRP$ call/NN for/IN a/DT ``fresh/JJ start/NN after/IN a/DT season/NN of/IN cynicism/NN ,''/IN Gov./NNP George/NNP W./NNP Bush/NNP ended/VBD his/PRP$ quest/NN for/IN the/DT presidency/JJ Monday/NNP on/IN a/DT nearly/RB identical/JJ note/NN ,/, pledging/VBG to/TO purge/VB Washington/NNP of/IN what/WP he/PRP cast/NN as/IN a/DT crippling/NN discord/NN ./.
 
 (ROOT
   (S
@@ -289,8 +273,6 @@ det(discord-52, a-50)
 nn(discord-52, crippling-51)
 prep_as(cast-48, discord-52)
 
-The/DT course/NN that/IN Bush/NNP charted/VBD over/IN his/PRP$ final/JJ hours/NNS on/IN the/DT campaign/NN trail/NN ,/, plotted/VBN with/IN as/RB much/JJ concern/NN for/IN symbolism/JJ as/IN for/IN raw/NN electoral/JJ arithmetic/JJ ,/, left/VBD no/DT doubt/NN about/IN where/WRB he/PRP placed/VBD the/DT blame/NN for/IN that/DT atmosphere/RB ./.
-
 (ROOT
   (S
     (NP
@@ -368,8 +350,6 @@ dobj(placed-34, blame-36)
 prep_for(blame-36, that-38)
 advmod(placed-34, atmosphere-39)
 
-His/PRP$ first/JJ major/JJ rally/NN was/VBD in/IN Tennessee/NNP and/CC his/PRP$ last/JJ was/VBD planned/VBN for/IN Arkansas/NNP ,/, the/DT home/NN states/NNS ,/, respectively/RB ,/, of/IN Vice/NNP President/NNP Al/NNP Gore/NNP and/CC President/NNP Clinton/NNP ./.
-
 (ROOT
   (S
     (S
@@ -421,8 +401,6 @@ prep_of(Arkansas-14, Gore-26)
 nn(Clinton-29, President-28)
 prep_of(Arkansas-14, Clinton-29)
 conj_and(Gore-26, Clinton-29)
-
-The/DT Texas/NNP governor/NN 's/POS words/NNS made/VBD equally/RB clear/JJ that/IN he/PRP saw/VBD himself/PRP as/IN the/DT country/NN 's/POS best/JJS hope/NN for/IN bridging/VBG ideological/JJ divides/NNS ,/, healing/VBG partisan/JJ wounds/NNS and/CC making/VBG sure/JJ that/WDT Americans/NNPS could/MD gaze/RB upon/VB the/DT White/NNP House/NNP with/IN unfettered/JJ respect/NN ./.
 
 (ROOT
   (S
@@ -498,8 +476,6 @@ nn(House-37, White-36)
 dobj(upon-34, House-37)
 amod(respect-40, unfettered-39)
 prep_with(upon-34, respect-40)
-
-``There/RB 's/VBZ a/DT better/JJR day/NN ahead/RB if/IN we/PRP have/VBP a/DT leader/NN who/WP 's/VBZ willing/JJ to/TO unite/VB the/DT country/NN ,/, to/TO bring/VB people/NNS together/RB ,/, to/TO elevate/VB the/DT people/NNS 's/POS business/NN above/IN everyday/NN politics/NNS ,''/NNP Bush/NNP said/VBD at/IN a/DT rally/RB inside/VB a/DT hangar/NN at/IN the/DT airport/NN here/RB ,/, where/WRB supporters/NNS '/POS chants/NNS evoked/VBD the/DT nearness/NN of/IN the/DT moment/NN of/IN decision/NN ./.
 
 (ROOT
   (SINV
@@ -617,8 +593,6 @@ det(moment-57, the-56)
 prep_of(nearness-54, moment-57)
 prep_of(moment-57, decision-59)
 
-``One/RB more/JJR day/NN !''/.
-
 (ROOT
   (X
     (ADVP (RB ``One))
@@ -629,8 +603,6 @@ dep(day-3, ``One-1)
 amod(day-3, more-2)
 root(ROOT-0, day-3)
 punct(day-3, !''-4)
-
-they/PRP roared/VBD ./.
 
 (ROOT
   (S
@@ -641,8 +613,6 @@ they/PRP roared/VBD ./.
 nsubj(roared-2, they-1)
 root(ROOT-0, roared-2)
 
-``One/RB more/JJR day/NN !''/.
-
 (ROOT
   (X
     (ADVP (RB ``One))
@@ -653,8 +623,6 @@ dep(day-3, ``One-1)
 amod(day-3, more-2)
 root(ROOT-0, day-3)
 punct(day-3, !''-4)
-
-What/WP the/DT nation/NN needed/VBD ,/, Bush/NNP told/VBD them/PRP ,/, was/VBD ``a/DT president/NN who/WP can/MD unite/VB this/DT nation/NN ,/, a/DT president/NN who/WP puts/VBZ aside/VB the/DT endless/JJ partisan/NN bickering/VBG that/IN seems/VBZ to/TO gridlock/VB our/PRP$ nation/NN 's/POS capitol/NN ,/, a/DT president/NN who/WP puts/VBZ the/DT people/NNS first/RB ,/, a/DT president/NN who/WP lifts/VBZ this/DT nation/NN 's/POS spirits/NNS ./.
 
 (ROOT
   (SINV
@@ -767,8 +735,6 @@ det(nation-50, this-49)
 poss(spirits-52, nation-50)
 dobj(lifts-48, spirits-52)
 
-``I/NNP 'll/MD be/VB that/DT president/NN ,''/IN he/PRP added/VBD ,/, a/DT sentence/NN that/WDT was/VBD equal/JJ parts/NNS promise/NN and/CC prediction/NN ./.
-
 (ROOT
   (S
     (NP (NNP ``I))
@@ -814,8 +780,6 @@ dep(sentence-11, promise-16)
 dep(sentence-11, prediction-18)
 conj_and(promise-16, prediction-18)
 
-It/PRP underscored/VBD the/DT optimism/NN that/IN Bush/NNP has/VBZ ,/, from/IN the/DT very/RB beginning/JJ ,/, sought/JJ to/TO project/VB to/TO voters/NNS ./.
-
 (ROOT
   (S
     (NP (PRP It))
@@ -853,8 +817,6 @@ aux(project-16, to-15)
 xcomp(sought-14, project-16)
 prep_to(project-16, voters-18)
 
-His/PRP$ schedule/NN over/IN the/DT course/NN of/IN a/DT 16-hour/JJ day/NN was/VBD also/RB an/DT expression/NN of/IN that/DT confidence/NN ./.
-
 (ROOT
   (S
     (NP
@@ -885,8 +847,6 @@ det(expression-13, an-12)
 root(ROOT-0, expression-13)
 det(confidence-16, that-15)
 prep_of(expression-13, confidence-16)
-
-In/IN between/IN Tennessee/NNP and/CC Arkansas/NNP ,/, his/PRP$ campaign/NN plane/NN touched/VBD down/RB in/IN Wisconsin/NNP and/CC Iowa/NNP ,/, and/CC while/IN any/DT one/CD of/IN those/DT four/CD states/NNS could/MD wind/VB up/RB providing/VBG the/DT key/NN to/TO a/DT Bush/NNP victory/NN ,/, none/NN have/VBP as/IN many/JJ electoral/JJ votes/NNS as/IN such/JJ battlegrounds/NNS as/IN Michigan/NNP and/CC Pennsylvania/NNP ./.
 
 (ROOT
   (S
@@ -974,8 +934,6 @@ prep_as(have-37, Michigan-46)
 prep_as(have-37, Pennsylvania-48)
 conj_and(Michigan-46, Pennsylvania-48)
 
-But/CC they/PRP are/VBP genuine/JJ tossups/NNS that/WDT were/VBD initially/RB predicted/VBN to/TO be/VB much/RB more/RBR hospitable/JJ to/TO Gore/NNP ./.
-
 (ROOT
   (S (CC But)
     (NP (PRP they))
@@ -1013,8 +971,6 @@ advmod(hospitable-14, much-12)
 advmod(hospitable-14, more-13)
 xcomp(predicted-9, hospitable-14)
 prep_to(hospitable-14, Gore-16)
-
-By/NNP visiting/VBG them/PRP Monday/NNP ,/, Bush/NNP emphasized/VBD the/DT breadth/NN of/IN his/PRP$ appeal/NN and/CC the/DT sometimes/NNS surprising/VBG vulnerability/NN of/IN the/DT vice/NN president/NN ./.
 
 (ROOT
   (S
@@ -1059,8 +1015,6 @@ dobj(surprising-16, vulnerability-17)
 det(president-21, the-19)
 nn(president-21, vice-20)
 prep_of(vulnerability-17, president-21)
-
-He/PRP did/VBD not/RB let/VB his/PRP$ assertion/NN of/IN strength/NN and/CC confidence/NN distract/NN him/PRP from/IN the/DT important/JJ business/NN of/IN beseeching/VBG supporters/NNS to/TO grant/JJ him/PRP victory/NN ./.
 
 (ROOT
   (S
@@ -1108,8 +1062,6 @@ dobj(beseeching-18, supporters-19)
 amod(victory-23, grant-21)
 dep(grant-21, him-22)
 prep_to(beseeching-18, victory-23)
-
-With/IN just/RB 24/CD hours/NNS before/IN Election/NNP Day/NNP ,/, Bush/NNP in/IN many/JJ ways/NNS stripped/VBD campaigning/NN to/TO its/PRP$ essence/NN :/: coaxing/NN and/CC cajoling/VBG ,/, pleading/VBG and/CC persuading/NN ./.
 
 (ROOT
   (S
@@ -1162,8 +1114,6 @@ conj_and(coaxing-19, cajoling-21)
 dep(stripped-13, pleading-23)
 dep(stripped-13, persuading-25)
 conj_and(pleading-23, persuading-25)
-
-``I/NNP want/VBP you/PRP to/TO understand/NN that/IN I/PRP can't/VBP win/JJ without/IN you/PRP ,''/VBP Bush/NNP told/VBD a/DT crowd/NN of/IN more/JJR than/IN 1,000/CD people/NNS at/IN a/DT convention/NN center/NN in/IN Green/NNP Bay/NNP ,/, Wis./NNP ``I/NNP hope/VBP you/PRP redouble/VBP your/PRP$ efforts/NNS to/TO make/VB sure/JJ people/NNS get/VBP out/RB to/TO the/DT polls/NNS .''/.
 
 (ROOT
   (S
@@ -1258,8 +1208,6 @@ advmod(get-41, out-42)
 det(polls-45, the-44)
 prep_to(get-41, polls-45)
 punct(hope-32, .''-46)
-
-Minutes/NNP later/RB ,/, he/PRP added/VBD :/: ``When/CD you/PRP go/VB out/RP there/RB and/CC tell/VB the/DT folks/NNS where/WRB we/PRP stand/VBD on/IN the/DT issues/NNS and/CC where/WRB we/PRP stand/VBD when/WRB it/PRP comes/VBZ to/TO bringing/VBG people/NNS together/RB to/TO get/VB things/NNS done/NN ,/, and/CC you/PRP tell/NN them/PRP that/IN the/DT core/NN of/IN this/DT campaign/NN is/VBZ the/DT inherent/JJ trust/NN in/IN the/DT American/JJ people/NNS ,/, I/PRP believe/VBP it/PRP doesn't/VBD matter/NN what/WP political/JJ party/NN they/PRP 're/VBP in/IN ./.
 
 (ROOT
   (S
@@ -1406,8 +1354,6 @@ prep_in('re-66, party-64)
 nsubj('re-66, they-65)
 rcmod(matter-61, 're-66)
 
-They/PRP 're/VBP going/VBG to/TO come/VB our/PRP$ way/NN .''/.
-
 (ROOT
   (S
     (NP (PRP They))
@@ -1428,8 +1374,6 @@ xcomp(going-3, come-5)
 poss(way-7, our-6)
 dobj(come-5, way-7)
 punct(going-3, .''-8)
-
-In/IN Chattanooga/NNP ,/, Bush/NNP repeatedly/RB needled/JJ Gore/NNP ,/, which/WDT was/VBD much/RB of/IN the/DT point/NN of/IN going/VBG to/TO Tennessee/VB ,/, where/WRB Gore/NNP is/VBZ not/RB at/IN all/DT certain/JJ to/TO prevail/VB on/IN Tuesday/NNP ./.
 
 (ROOT
   (S
@@ -1492,8 +1436,6 @@ advcl(much-11, certain-26)
 aux(prevail-28, to-27)
 xcomp(certain-26, prevail-28)
 prep_on(prevail-28, Tuesday-30)
-
-The/DT Texas/NNP governor/NN claimed/VBD that/IN Gore/NNP 's/POS decades/NNS of/IN experience/NN in/IN Washington/NNP had/VBD estranged/VBN him/PRP from/IN the/DT rest/NN of/IN the/DT country/NN by/IN making/VBG him/PRP too/RB trusting/VBG of/IN federal/JJ government/NN and/CC too/RB fond/VBP of/IN federal/JJ spending/NN ./.
 
 (ROOT
   (S
@@ -1564,8 +1506,6 @@ conj_and(claimed-4, fond-32)
 amod(spending-35, federal-34)
 prep_of(fond-32, spending-35)
 
-``My/JJ opponent/NN vows/VBZ to/TO carry/VB his/PRP$ home/NN state/NN ,''/NNP Bush/NNP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -1591,8 +1531,6 @@ dobj(carry-5, state-8)
 nn(Bush-10, ,''-9)
 nsubj(said-11, Bush-10)
 root(ROOT-0, said-11)
-
-``He/NNP may/MD win/VB Washington/NNP ,/, D.C./NNP ,/, but/CC he/PRP 's/VBZ not/RB going/VBG to/TO win/VB Tennessee/NNP ./.
 
 (ROOT
   (S
@@ -1630,8 +1568,6 @@ aux(win-14, to-13)
 xcomp(going-12, win-14)
 dobj(win-14, Tennessee-15)
 
-``He/PRP forgot/VBD his/PRP$ roots/NNS ,''/IN Bush/NNP added/VBD ./.
-
 (ROOT
   (S
     (NP (PRP ``He))
@@ -1650,8 +1586,6 @@ dobj(forgot-2, roots-4)
 mark(added-7, ,''-5)
 nsubj(added-7, Bush-6)
 advcl(forgot-2, added-7)
-
-``He/IN forgot/NN where/WRB he/PRP 's/VBZ from/IN ./.
 
 (ROOT
   (FRAG
@@ -1673,8 +1607,6 @@ advmod('s-5, where-3)
 nsubj('s-5, he-4)
 rcmod(forgot-2, 's-5)
 
-He/PRP trusts/VBZ Washington/NNP ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -1685,8 +1617,6 @@ He/PRP trusts/VBZ Washington/NNP ./.
 nsubj(trusts-2, He-1)
 root(ROOT-0, trusts-2)
 dobj(trusts-2, Washington-3)
-
-We/PRP trust/NN the/DT people/NNS .''/.
 
 (ROOT
   (NP
@@ -1701,8 +1631,6 @@ dep(We-1, trust-2)
 det(people-4, the-3)
 dep(trust-2, people-4)
 punct(We-1, .''-5)
-
-NYT-11-06-00/CD 1826EST/CD
 
 (ROOT
   (FRAG

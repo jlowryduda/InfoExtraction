@@ -1,5 +1,3 @@
-APW20001021.1258.0261/DT NEWS/NNP STORY/NNPS 2000-10-21/CD 13:47:10/CD
-
 (ROOT
   (NP
     (NP (DT APW20001021.1258.0261))
@@ -12,14 +10,10 @@ dep(APW20001021.1258.0261-1, STORY-3)
 num(13:47:10-5, 2000-10-21-4)
 dep(APW20001021.1258.0261-1, 13:47:10-5)
 
-Ivory-Coast-Elections/NNS
-
 (ROOT
   (NP (NNS Ivory-Coast-Elections)))
 
 root(ROOT-0, Ivory-Coast-Elections-1)
-
-Ivory/JJ Coast/NNP Vote/NNP Sparks/NNP Rallies/NNPS
 
 (ROOT
   (NP
@@ -31,8 +25,6 @@ nn(Rallies-5, Coast-2)
 nn(Rallies-5, Vote-3)
 nn(Rallies-5, Sparks-4)
 dep(Ivory-1, Rallies-5)
-
-ABIDJAN/NNP ,/, Ivory/NNP Coast/NNP [AP/NNP ]/NNP _/NNP Long/NNP processions/NNS of/IN cars/NNS ,/, plastered/VBN with/IN candidates/NNS '/POS posters/NNS and/CC with/IN horns/NNS blaring/VBG ,/, paraded/VBN through/IN this/DT coastal/JJ city/NN Saturday/NN ,/, one/CD day/NN before/IN presidential/JJ elections/NNS to/TO end/VB 10/CD months/NNS of/IN military/JJ rule/NN ./.
 
 (ROOT
   (S
@@ -106,8 +98,6 @@ dobj(end-36, months-38)
 amod(rule-41, military-40)
 prep_of(months-38, rule-41)
 
-The/DT display/NN of/IN vehicles/NNS ,/, with/IN shouting/JJ supporters/NNS hanging/VBG out/IN windows/NNS ,/, marked/VBD some/DT of/IN the/DT liveliest/JJS political/JJ activity/NN since/IN the/DT campaign/NN period/NN began/VBD two/CD weeks/NNS ago/RB ./.
-
 (ROOT
   (S
     (NP
@@ -157,8 +147,6 @@ advcl(marked-13, began-24)
 num(weeks-26, two-25)
 npadvmod(ago-27, weeks-26)
 advmod(began-24, ago-27)
-
-Campaigning/VBG in/IN Ivory/NNP Coast/NNP ,/, once/RB famed/VBN as/IN an/DT oasis/NN of/IN stability/NN amid/IN the/DT unrest/JJS that/IN plagues/VBZ much/RB of/IN West/NNP Africa/NNP ,/, has/VBZ been/VBN muted/VBN ./.
 
 (ROOT
   (S
@@ -211,8 +199,6 @@ aux(muted-25, has-23)
 auxpass(muted-25, been-24)
 root(ROOT-0, muted-25)
 
-Most/JJS candidates/NNS _/, including/VBG those/DT from/IN the/DT country/NN 's/POS two/CD largest/JJS political/JJ parties/NNS _/, were/VBD excluded/VBN from/IN the/DT vote/NN by/IN the/DT Supreme/NNP Court/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -252,8 +238,6 @@ prep_from(excluded-16, vote-19)
 det(Court-23, the-21)
 nn(Court-23, Supreme-22)
 agent(excluded-16, Court-23)
-
-Junta/NNP leader/NN Gen./NNP Robert/NNP Guei/NNP ,/, who/WP took/VBD control/NN during/IN a/DT December/NNP coup/NN promising/VBG he/PRP would/MD quickly/RB give/VB up/RP power/NN ,/, and/CC who/WP has/VBZ close/RB personal/JJ ties/NNS to/TO the/DT chief/JJ justice/NN of/IN the/DT Supreme/NNP Court/NNP ,/, is/VBZ widely/RB expected/VBN to/TO win/VB ./.
 
 (ROOT
   (S
@@ -338,8 +322,6 @@ root(ROOT-0, expected-39)
 aux(win-41, to-40)
 xcomp(expected-39, win-41)
 
-``The/JJ elections/NNS are/VBP already/RB done/JJ and/CC people/NNS here/RB are/VBP not/RB interested/JJ ,''/NN said/VBD Ali/NNP Ouattara/NNP ,/, a/DT journalist/NN in/IN the/DT northern/JJ city/NN of/IN Korhogo/NNP ,/, where/WRB a/DT few/JJ torn/NN and/CC defaced/JJ posters/NNS were/VBD the/DT only/JJ sign/NN of/IN the/DT approaching/NN vote/NN ./.
-
 (ROOT
   (S
     (S
@@ -417,8 +399,6 @@ det(vote-40, the-38)
 nn(vote-40, approaching-39)
 prep_of(sign-36, vote-40)
 
-While/RB there/RB are/VBP a/DT total/NN of/IN five/CD candidates/NNS ,/, the/DT only/JJ other/JJ serious/JJ contender/NN is/VBZ Laurent/JJ Gbagbo/NNP ,/, a/DT history/JJ professor/NN and/CC longtime/JJ opposition/NN leader/NN ./.
-
 (ROOT
   (S
     (SBAR (RB While)
@@ -461,8 +441,6 @@ conj_and(Gbagbo-17, professor-21)
 amod(leader-25, longtime-23)
 nn(leader-25, opposition-24)
 conj_and(Gbagbo-17, leader-25)
-
-The/DT country/NN 's/POS best-known/JJ opposition/NN candidate/NN ,/, Alassane/NNP Dramane/NNP Ouattara/NNP ,/, was/VBD excluded/VBN by/IN the/DT court/NN because/IN of/IN what/WP it/PRP said/VBD were/VBD questions/NNS about/IN whether/IN both/DT his/PRP$ parents/NNS were/VBD of/IN ``Ivorian/JJ origin/JJ ,''/NN as/IN a/DT new/JJ junta/NN -backed/VBD constitution/NN requires/VBZ ./.
 
 (ROOT
   (S
@@ -541,8 +519,6 @@ advcl(were-29, -backed-38)
 nsubj(requires-40, constitution-39)
 ccomp(-backed-38, requires-40)
 
-Ouattara/NNP 's/POS party/NN ,/, the/DT Rally/NNP of/IN the/DT Republicans/NNPS ,/, and/CC the/DT former/JJ ruling/VBG Democratic/JJ Party/NNP of/IN the/DT Ivory/JJ Coast/NNP ,/, whose/WP$ candidates/NNS were/VBD also/RB excluded/VBN ,/, have/VBP both/DT called/VBN for/IN a/DT boycott/NN of/IN the/DT polls/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -612,8 +588,6 @@ prep_for(called-30, boycott-33)
 det(polls-36, the-35)
 prep_of(boycott-33, polls-36)
 
-Representatives/NNS of/IN Rally/RB of/IN the/DT Republicans/NNPS set/VBD out/RB on/IN motorbikes/NNS Saturday/NN to/TO urge/VB villagers/NNS in/IN the/DT party/NN 's/POS northern/NN stronghold/VBD not/RB to/TO cast/VB ballots/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -667,8 +641,6 @@ neg(cast-23, not-21)
 aux(cast-23, to-22)
 xcomp(stronghold-20, cast-23)
 dobj(cast-23, ballots-24)
-
-``Stay/NN in/IN your/PRP$ homes/NNS ,/, play/VB soccer/JJR ,/, or/CC till/VB the/DT fields/NNS ,/, but/CC don't/JJ vote/NN ,''/IN party/NN representative/JJ Lacina/NNP Coulibaly/NNP told/VBD about/IN 30/CD youths/NNS gathered/VBN in/IN the/DT northern/JJ village/NN of/IN Lanviara/NNP ,/, near/IN Korhogo/NNP ./.
 
 (ROOT
   (S
@@ -734,8 +706,6 @@ prep_in(gathered-26, village-30)
 prep_of(village-30, Lanviara-32)
 prep_near(told-22, Korhogo-35)
 
-Guei/NNP took/VBD control/NN during/IN the/DT Dec/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Guei))
@@ -750,8 +720,6 @@ root(ROOT-0, took-2)
 dobj(took-2, control-3)
 det(Dec-6, the-5)
 prep_during(took-2, Dec-6)
-
-24/CD coup/NN promising/VBG he/PRP would/MD quickly/RB give/VB up/RP power/NN ,/, but/CC has/VBZ since/IN exchanged/VBD his/PRP$ military/JJ uniform/NN for/IN a/DT snappy/JJ suit/NN and/CC rallied/VBD several/JJ smaller/JJR parties/NNS around/IN his/PRP$ candidacy/NN ./.
 
 (ROOT
   (S
@@ -807,8 +775,6 @@ amod(parties-26, smaller-25)
 dobj(rallied-23, parties-26)
 poss(candidacy-29, his-28)
 prep_around(rallied-23, candidacy-29)
-
-The/DT United/NNP Nations/NNPS ,/, the/DT Organization/NN of/IN African/NNP Unity/NNP ,/, the/DT European/JJ Union/NNP and/CC countries/NNS such/JJ as/IN the/DT United/NNP States/NNPS and/CC Canada/NNP have/VBP withdrawn/VBN election/NN observers/NNS or/CC funding/VBG to/TO protest/VB Guei/NNP 's/POS decision/NN to/TO run/VB and/CC the/DT exclusion/NN of/IN major/JJ opponents/NNS ./.
 
 (ROOT
   (S
@@ -888,8 +854,6 @@ conj_and(decision-33, exclusion-38)
 amod(opponents-41, major-40)
 prep_of(exclusion-38, opponents-41)
 
-Ivory/NNP Coast/NNP 's/POS reputation/NN as/IN a/DT haven/NN for/IN stability/NN and/CC relative/JJ wealth/NN has/VBZ been/VBN badly/RB tarnished/VBN in/IN recent/JJ years/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -927,8 +891,6 @@ advmod(tarnished-16, badly-15)
 root(ROOT-0, tarnished-16)
 amod(years-19, recent-18)
 prep_in(tarnished-16, years-19)
-
-It/PRP s/VBZ economy/NN has/VBZ been/VBN hobbled/VBN by/IN a/DT steep/JJ decline/NN in/IN prices/NNS for/IN it/PRP s/VBD primary/JJ exports/NNS ,/, cocoa/NN and/CC coffee/NN ,/, while/IN the/DT December/NNP coup/NN and/CC two/CD subsequent/JJ military/JJ mutinies/NNS have/VBP frightened/VBN Ivorians/NNPS and/CC foreign/JJ investors/NNS alike/RB ./.
 
 (ROOT
   (S

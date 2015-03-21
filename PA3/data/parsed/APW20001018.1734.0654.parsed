@@ -1,5 +1,3 @@
-APW20001018.1734.0654/DT NEWS/NNP STORY/NNPS 2000-10-18/CD 18:07:23/CD
-
 (ROOT
   (NP
     (NP (DT APW20001018.1734.0654))
@@ -12,14 +10,10 @@ dep(APW20001018.1734.0654-1, STORY-3)
 num(18:07:23-5, 2000-10-18-4)
 dep(APW20001018.1734.0654-1, 18:07:23-5)
 
-Lieberman/NNP
-
 (ROOT
   (NP (NNP Lieberman)))
 
 root(ROOT-0, Lieberman-1)
-
-Lieberman/NNP Holds/NNP Environment/NNP Dear/NNP
 
 (ROOT
   (NP (NNP Lieberman) (NNP Holds) (NNP Environment) (NNP Dear)))
@@ -28,8 +22,6 @@ nn(Dear-4, Lieberman-1)
 nn(Dear-4, Holds-2)
 nn(Dear-4, Environment-3)
 root(ROOT-0, Dear-4)
-
-WAUSAU/NNP ,/, Wis/NNP ./.
 
 (ROOT
   (NP
@@ -40,8 +32,6 @@ WAUSAU/NNP ,/, Wis/NNP ./.
 
 root(ROOT-0, WAUSAU-1)
 appos(WAUSAU-1, Wis-3)
-
-[AP/NNP ]/NNP _/, Democratic/JJ vice/NN presidential/JJ candidate/NN Joseph/NNP Lieberman/NNP said/VBD Wednesday/NNP that/WDT to/TO him/PRP and/CC Al/NNP Gore/NNP ,/, protecting/VBG the/DT environment/NN is/VBZ ``a/DT matter/NN of/IN faith/NN .''/.
 
 (ROOT
   (S
@@ -95,8 +85,6 @@ dep(said-10, matter-24)
 prep_of(matter-24, faith-26)
 punct(said-10, .''-27)
 
-``The/NNP environment/NN is/VBZ the/DT work/NN of/IN God/NNP ,''/NNP Lieberman/NNP told/VBD about/IN 500/CD people/NNS at/IN Bluegill/NNP Bay/NNP Park/NNP ./.
-
 (ROOT
   (S
     (NP (NNP ``The) (NN environment))
@@ -128,8 +116,6 @@ nn(Park-17, Bluegill-15)
 nn(Park-17, Bay-16)
 prep_at(told-10, Park-17)
 
-Lieberman/NNP kept/VBD the/DT pressure/NN on/IN Texas/NNP Gov/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Lieberman))
@@ -145,8 +131,6 @@ det(pressure-4, the-3)
 dobj(kept-2, pressure-4)
 nn(Gov-7, Texas-6)
 prep_on(kept-2, Gov-7)
-
-George/NNP W./NNP Bush/NNP 's/POS environmental/JJ record/NN with/IN his/PRP$ visit/NN to/TO this/DT battleground/NN state/NN the/DT day/NN after/IN Gore/NNP and/CC Republican/NNP Bush/NNP tangled/VBD in/IN their/PRP$ third/JJ and/CC final/JJ presidential/JJ debate/NN ./.
 
 (ROOT
   (S
@@ -199,8 +183,6 @@ amod(debate-28, final-26)
 amod(debate-28, presidential-27)
 prep_in(tangled-21, debate-28)
 
-A/DT day/NN earlier/RB in/IN Little/NNP Rock/NNP ,/, Ark/NNP .,/, Lieberman/NNP said/VBD Houston/NNP has/VBZ ``the/RB dirtiest/JJ air/NN in/IN America/NNP .''/.
-
 (ROOT
   (S
     (PP
@@ -240,8 +222,6 @@ amod(air-16, dirtiest-15)
 dobj(has-13, air-16)
 prep_in(air-16, America-18)
 punct(said-11, .''-19)
-
-``Texas/NNP has/VBZ the/DT most/RBS industrial/JJ air/NN pollution/NN of/IN any/DT state/NN in/IN the/DT country/NN ,/, has/VBZ the/DT third/JJ worst/NN water/NN pollution/NN ,''/, he/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -286,8 +266,6 @@ punct(said-23, ,''-21)
 nsubj(said-23, he-22)
 root(ROOT-0, said-23)
 
-``I/NNP hope/NN Governor/NNP Bush/NNP doesn't/NN want/VBP to/TO do/VB for/IN America/NNP what/WP he/PRP 's/POS done/NN for/IN Texas/NNP .''/.
-
 (ROOT
   (S
     (NP
@@ -327,8 +305,6 @@ rcmod(America-10, done-14)
 prep_for(done-14, Texas-16)
 punct(want-6, .''-17)
 
-Polls/NNS show/VBP that/IN Wisconsin/NNP and/CC its/PRP$ 11/CD electoral/JJ votes/NNS are/VBP up/RB for/IN grabs/NNS ./.
-
 (ROOT
   (S
     (NP (NNS Polls))
@@ -357,8 +333,6 @@ nsubj(are-10, votes-9)
 ccomp(show-2, are-10)
 advmod(are-10, up-11)
 prep_for(are-10, grabs-13)
-
-While/RB Vice/NNP President/NNP Gore/NNP has/VBZ led/VBN in/IN the/DT most/RBS recent/JJ polls/NNS ,/, his/PRP$ advantage/NN has/VBZ been/VBN within/IN the/DT margin/NN of/IN error/NN ./.
 
 (ROOT
   (S
@@ -397,8 +371,6 @@ root(ROOT-0, been-16)
 det(margin-19, the-18)
 prep_within(been-16, margin-19)
 prep_of(margin-19, error-21)
-
-In/IN Arkansas/NNP ,/, Lieberman/NNP also/RB told/VBD about/IN 700/CD supporters/NNS that/IN he/PRP and/CC Gore/NNP would/MD sustain/VB the/DT country/NN 's/POS economic/JJ boom/NN and/CC that/DT Bush/NNP would/MD return/VB the/DT country/NN to/TO a/DT time/NN of/IN deficits/NNS and/CC recession/NN ./.
 
 (ROOT
   (S
@@ -464,8 +436,6 @@ prep_of(time-30, deficits-32)
 prep_of(time-30, recession-34)
 conj_and(deficits-32, recession-34)
 
-He/PRP cited/VBD statistics/NNS showing/VBG improvements/NNS in/IN the/DT past/JJ eight/NN years/NNS under/IN Gore/NNP and/CC President/NNP Clinton/NNP ,/, including/VBG 22/CD million/CD new/JJ jobs/NNS ,/, smaller/JJR welfare/JJ rolls/NNS ,/, and/CC decreased/JJ crime/NN rates/NNS ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -520,8 +490,6 @@ nn(rates-30, crime-29)
 prep_including(cited-2, rates-30)
 conj_and(jobs-21, rates-30)
 
-He/PRP ended/VBD each/DT example/NN with/IN the/DT refrain/NN ,/, ``We/PRP 're/VBP not/RB going/VBG back/RB ./.
-
 (ROOT
   (S
     (S
@@ -549,8 +517,6 @@ neg(going-12, not-11)
 root(ROOT-0, going-12)
 advmod(going-12, back-13)
 
-We/PRP 're/VBP going/VBG to/TO keep/VB going/VBG forward/NN .''/.
-
 (ROOT
   (S
     (NP (PRP We))
@@ -573,8 +539,6 @@ xcomp(going-3, keep-5)
 xcomp(keep-5, going-6)
 dobj(going-6, forward-7)
 punct(going-3, .''-8)
-
-Lieberman/NNP ,/, an/DT observant/JJ Jew/NN who/WP has/VBZ argued/VBN for/IN a/DT greater/JJ role/NN for/IN religious/JJ faith/NN in/IN public/JJ life/NN ,/, has/VBZ framed/VBN his/PRP$ arguments/NNS in/IN recent/JJ days/NNS as/IN a/DT difference/NN in/IN fundamental/JJ values/NNS ./.
 
 (ROOT
   (S
@@ -634,8 +598,6 @@ prep_as(framed-21, difference-29)
 amod(values-32, fundamental-31)
 prep_in(difference-29, values-32)
 
-``It/NNP 's/POS about/IN our/PRP$ values/NNS of/IN freedom/NN and/CC fairness/NN and/CC equal/JJ opportunity/NN that/WDT have/VBP always/VBN defined/VBD us/PRP as/IN Americans/NNPS ./.
-
 (ROOT
   (S
     (NP
@@ -679,8 +641,6 @@ root(ROOT-0, defined-16)
 dobj(defined-16, us-17)
 prep_as(defined-16, Americans-19)
 
-Now/RB more/JJR than/IN ever/RB we/PRP cannot/VBD afford/NN to/TO waste/VB the/DT talents/NNS of/IN a/DT single/JJ person/NN ./.
-
 (ROOT
   (S
     (ADVP
@@ -713,8 +673,6 @@ dobj(waste-9, talents-11)
 det(person-15, a-13)
 amod(person-15, single-14)
 prep_of(talents-11, person-15)
-
-We/PRP can't/VBP afford/VBN to/TO go/VB back/RB to/TO the/DT failed/JJ policies/NNS of/IN the/DT past/NN ,''/, he/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -750,8 +708,6 @@ prep_of(policies-10, past-13)
 punct(said-16, ,''-14)
 nsubj(said-16, he-15)
 root(ROOT-0, said-16)
-
-Lieberman/NNP also/RB was/VBD traveling/VBG to/TO Baltimore/RB later/RBR in/IN the/DT day/NN to/TO attend/VB Democratic/JJ Party/NNP fund-raisers/NNS and/CC then/RB to/TO New/NNP York/NNP for/IN an/DT appearance/NN Thursday/NN on/IN the/DT daytime/JJ talk-show/JJ ``Live/JJ With/IN Regis/NNP ,''/, followed/VBN by/IN a/DT speech/NN to/TO the/DT League/NNP of/IN Conservation/NNP Voters/NNS ./.
 
 (ROOT
   (S
@@ -827,8 +783,6 @@ prep_to(followed-33, League-39)
 nn(Voters-42, Conservation-41)
 prep_of(League-39, Voters-42)
 
-He/PRP said/VBD Tuesday/NNP 's/POS presidential/JJ debate/NN ``might/IN have/VBP been/VBN a/DT turning/NN point/NN in/IN the/DT election/NN .''/.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -860,8 +814,6 @@ dep(said-2, point-12)
 det(election-15, the-14)
 prep_in(point-12, election-15)
 punct(said-2, .''-16)
-
-``I/NNP thought/RB finally/RB it/PRP clarified/VBD the/DT differences/NNS in/IN these/DT two/CD tickets/NNS and/CC I/PRP think/VBP that/IN 's/POS what/WP the/DT American/JJ people/NNS have/VBP been/VBN waiting/VBG for/IN ./.
 
 (ROOT
   (S
@@ -913,8 +865,6 @@ aux(waiting-23, have-21)
 aux(waiting-23, been-22)
 dep(clarified-5, waiting-23)
 
-I/PRP think/VBP clearly/RB a/DT lot/NN of/IN people/NNS are/VBP swinging/VBG back/RB and/CC forth/NN ./.
-
 (ROOT
   (S
     (NP (PRP I))
@@ -946,8 +896,6 @@ advmod(swinging-9, back-10)
 ccomp(think-2, forth-12)
 conj_and(swinging-9, forth-12)
 
-They/PRP were/VBD uncertain/JJ and/CC they/PRP were/VBD waiting/VBG for/IN some/DT clarity/NN ./.
-
 (ROOT
   (S
     (S
@@ -971,8 +919,6 @@ aux(waiting-7, were-6)
 conj_and(uncertain-3, waiting-7)
 det(clarity-10, some-9)
 prep_for(waiting-7, clarity-10)
-
-And/CC I/PRP just/RB think/VB on/IN the/DT important/JJ issues/NNS of/IN who/WP is/VBZ best/RBS able/JJ to/TO continue/VB America/NNP 's/POS prosperity/NN ,/, Al/NNP Gore/NNP is/VBZ ,''/DT Lieberman/NNP said/VBD ./.
 
 (ROOT
   (S (CC And)

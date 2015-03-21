@@ -1,5 +1,3 @@
-NYT20001129.2040.0383/NNP NEWS/NNP STORY/NNP 2000-11-29/CD 20:52:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001129.2040.0383) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(20:52:00-5, 2000-11-29-4)
 dep(STORY-3, 20:52:00-5)
-
-A4944/CD &Cx1f/NN ;/: tta-z/JJ u/NN p/IN BC-R-ELN-FLA-CONTEST-ART/NNP 11-29/CD 0817/CD
 
 (ROOT
   (NP
@@ -32,14 +28,10 @@ prep_p(u-5, BC-R-ELN-FLA-CONTEST-ART-7)
 num(BC-R-ELN-FLA-CONTEST-ART-7, 11-29-8)
 dep(u-5, 0817-9)
 
-BC-R-ELN-FLA-CONTEST-ART-NYT/NNP
-
 (ROOT
   (NP (NNP BC-R-ELN-FLA-CONTEST-ART-NYT)))
 
 root(ROOT-0, BC-R-ELN-FLA-CONTEST-ART-NYT-1)
-
-GORE/NNP LAWYERS/NNP WANT/NNP FLORIDA/NNP HIGH/NNP COURT/NNP TO/NNP HANDLE/NNP RECOUNT/NNP ,/, AND/NNP
 
 (ROOT
   (NP
@@ -57,8 +49,6 @@ nn(RECOUNT-9, TO-7)
 nn(RECOUNT-9, HANDLE-8)
 root(ROOT-0, RECOUNT-9)
 appos(RECOUNT-9, AND-11)
-
-QUICKLY/IN &LR/NN ;/: &QL/NNP ;/: [Repeating/NN ;/: this/DT is/VBZ now/RB a/DT New/NNP York/NNP Times/NNP front-page/JJ story/NN ]/IN &QL/NNP ;/: [ART/JJ ADV/NN :/: Graphic/NNP is/VBZ being/VBG sent/VBN to/TO NYT/NNP graphic/JJ clients/NNS ./.
 
 (ROOT
   (S
@@ -115,8 +105,6 @@ nn(clients-30, NYT-28)
 amod(clients-30, graphic-29)
 prep_to(sent-26, clients-30)
 
-Nonsubscribers/NNS can/MD purchase/VB one-time/JJ rights/NNS by/IN calling/VBG 888-603-1036/CD or/CC 888-346-9867/CD .]/JJ &QL/NNS ;/: &UR/NNS ;/: By/NNP DAVID/NNP FIRESTONE/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
-
 (ROOT
   (S
     (NP (NNS Nonsubscribers))
@@ -171,8 +159,6 @@ dep(&QL-12, &UR-25)
 dep(&QL-12, c.2000-27)
 appos(c.2000-27, N.Y-28)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -189,8 +175,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-TALLAHASSEE/NNP ,/, Fla./NNP _/POS Lawyers/NNS for/IN Vice/NNP President/NNP Al/NNP Gore/NNP said/VBD Wednesday/NNP their/PRP$ only/JJ chance/NN for/IN victory/NN in/IN his/PRP$ contest/NN of/IN the/DT Florida/NNP election/NN would/MD be/VB shattered/VBN if/IN they/PRP have/VBP to/TO wait/VB until/IN Saturday/NNP to/TO begin/VB counting/VBG disputed/JJ ballots/NNS ,/, and/CC they/PRP began/VBD an/DT appeal/NN to/TO the/DT Florida/NNP Supreme/NNP Court/NNP to/TO do/VB the/DT counting/VBG itself/PRP ,/, immediately/RB ./.
 
 (ROOT
   (S
@@ -302,8 +286,6 @@ amod(the-53, counting-54)
 advmod(do-52, itself-55)
 advmod(do-52, immediately-57)
 
-The/DT appeal/NN was/VBD filed/VBN with/IN the/DT District/NNP Court/NNP of/IN Appeal/NNP late/JJ Wednesday/NN afternoon/NN ,/, and/CC will/MD be/VB submitted/VBN to/TO the/DT state/NN 's/POS highest/JJS court/NN early/JJ Thursday/NN ,/, Gore/NNP 's/POS lawyers/NNS said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -358,8 +340,6 @@ tmod(submitted-18, Thursday-26)
 poss(lawyers-30, Gore-28)
 nsubj(said-31, lawyers-30)
 root(ROOT-0, said-31)
-
-It/PRP essentially/RB asks/VBZ the/DT Supreme/NNP Court/NNP to/TO take/VB over/IN Gore/NNP 's/POS contest/JJS lawsuit/NN from/IN the/DT slow-moving/JJ trial/NN court/NN ,/, to/TO count/VB the/DT ballots/NNS itself/PRP ,/, and/CC eventually/RB to/TO declare/VB Gore/IN the/DT winner/NN if/IN he/PRP wins/VBZ the/DT recount/NN ./.
 
 (ROOT
   (S
@@ -432,8 +412,6 @@ advcl(declare-29, wins-35)
 det(recount-37, the-36)
 dobj(wins-35, recount-37)
 
-But/CC lawyers/NNS for/IN Gov./NNP George/NNP W./NNP Bush/NNP said/VBD they/PRP had/VBD no/DT intention/NN of/IN allowing/VBG any/DT hand/NN counting/VBG to/TO begin/VB without/IN a/DT vigorous/JJ legal/JJ fight/NN ./.
-
 (ROOT
   (S (CC But)
     (NP
@@ -481,8 +459,6 @@ det(fight-24, a-21)
 amod(fight-24, vigorous-22)
 amod(fight-24, legal-23)
 prep_without(begin-19, fight-24)
-
-To/TO that/DT end/NN ,/, they/PRP persuaded/VBD Circuit/NNP Judge/NNP N./NNP Sanders/NNPS Sauls/NNP to/TO order/NN 1.1/CD million/CD ballots/NNS _/IN every/NN vote/NN cast/NN in/IN Miami-Dade/NNP and/CC Palm/NNP Beach/NNP counties/NNS _/, brought/VBD up/RB from/IN south/JJ Florida/NNP and/CC placed/VBN in/IN the/DT court/NN 's/POS custody/NN ./.
 
 (ROOT
   (S
@@ -554,8 +530,6 @@ det(court-37, the-36)
 poss(custody-39, court-37)
 prep_in(placed-34, custody-39)
 
-That/DT represents/VBZ 83/CD times/NNS the/DT number/NN of/IN disputed/JJ ballots/NNS that/IN the/DT judge/NN had/VBD agreed/VBN on/IN Tuesday/NNP to/TO transport/VB to/TO Tallahassee/VB at/IN the/DT Gore/NNP team/NN 's/POS request/JJS ./.
-
 (ROOT
   (S
     (NP (DT That))
@@ -610,8 +584,6 @@ nn(team-24, Gore-23)
 prep_at(Tallahassee-20, team-24)
 possessive(team-24, 's-25)
 dep(team-24, request-26)
-
-And/CC it/PRP could/MD take/VB weeks/NNS if/IN not/RB months/NNS to/TO count/VB them/PRP all/RB ,/, the/DT point/NN that/IN Barry/NNP Richard/NNP ,/, Bush/NNP 's/POS chief/JJ trial/NN lawyer/NN here/RB ,/, said/VBD he/PRP was/VBD trying/VBG to/TO make/VB in/IN requesting/VBG that/IN the/DT ballots/NNS be/VB transported/VBN here/RB ./.
 
 (ROOT
   (S (CC And)
@@ -698,8 +670,6 @@ auxpass(transported-39, be-38)
 ccomp(requesting-34, transported-39)
 advmod(transported-39, here-40)
 
-``We/RB did/VBD it/PRP to/TO make/VB a/DT point/NN ,''/, Richard/NNP said/VBD in/IN an/DT interview/NN ./.
-
 (ROOT
   (S
     (S
@@ -730,8 +700,6 @@ nsubj(said-10, Richard-9)
 root(ROOT-0, said-10)
 det(interview-13, an-12)
 prep_in(said-10, interview-13)
-
-``If/IN you/PRP recount/VBP any/DT ballots/NNS ,/, you/PRP have/VBP to/TO recount/VB all/DT of/IN them/PRP ./.
 
 (ROOT
   (S
@@ -764,8 +732,6 @@ aux(recount-10, to-9)
 xcomp(have-8, recount-10)
 dobj(recount-10, all-11)
 prep_of(all-11, them-13)
-
-Now/RB ,/, we/PRP don't/VBP think/VB any/DT ballots/NNS should/MD be/VB counted/VBN ,/, because/IN the/DT manual/JJ recount/NN of/IN ballots/NNS is/VBZ finished/VBN ./.
 
 (ROOT
   (S
@@ -807,8 +773,6 @@ nsubjpass(finished-19, recount-15)
 prep_of(recount-15, ballots-17)
 auxpass(finished-19, is-18)
 advcl(counted-10, finished-19)
-
-But/CC in/IN the/DT event/NN the/DT court/NN determines/NNS that/IN some/DT ballots/NNS should/MD be/VB counted/VBN ,/, we/PRP wanted/VBD them/PRP here/RB so/IN they/PRP could/MD all/RB be/VB counted/VBN .''/.
 
 (ROOT
   (S (CC But)
@@ -859,8 +823,6 @@ advmod(counted-24, all-22)
 auxpass(counted-24, be-23)
 advcl(wanted-16, counted-24)
 punct(wanted-16, .''-25)
-
-Aware/JJ that/IN they/PRP could/MD not/RB stop/VB the/DT movement/NN of/IN all/PDT the/DT ballots/NNS ,/, Gore/NNP 's/POS lawyers/NNS barely/RB objected/VBN to/TO the/DT move/NN ,/, asking/VBG only/RB that/IN the/DT disputed/JJ ballots/NNS that/WDT might/MD contain/VB hidden/VBN Gore/NNP votes/VBZ be/VB separated/VBN from/IN the/DT mass/NN ./.
 
 (ROOT
   (S
@@ -941,8 +903,6 @@ xcomp(votes-34, separated-36)
 det(mass-39, the-38)
 prep_from(separated-36, mass-39)
 
-``I/NNP know/VBP when/WRB it/PRP 's/VBZ futile/JJ ,''/NNS said/VBD David/NNP Boies/NNP ,/, Gore/NNP 's/POS chief/JJ trial/NN lawyer/NN ,/, to/TO Sauls/NNP ./.
-
 (ROOT
   (S
     (NP (NNP ``I))
@@ -983,8 +943,6 @@ amod(lawyer-16, chief-14)
 nn(lawyer-16, trial-15)
 appos(Boies-10, lawyer-16)
 prep_to(said-8, Sauls-19)
-
-Nonetheless/RB ,/, Gore/NNP 's/POS lawyers/NNS were/VBD furious/JJ at/IN the/DT move/NN ,/, aware/NN that/IN it/PRP represents/VBZ yet/RB another/DT enormous/JJ barrier/NN to/TO their/PRP$ hopes/NNS for/IN an/DT immediate/JJ count/NN of/IN the/DT 14,000/CD disputed/VBD ballots/NNS in/IN the/DT two/CD counties/NNS and/CC a/DT quick/JJ decision/NN from/IN the/DT judge/NN that/IN Gore/NNP really/RB won/VBD the/DT election/NN ./.
 
 (ROOT
   (S
@@ -1071,8 +1029,6 @@ ccomp(disputed-30, won-46)
 det(election-48, the-47)
 dobj(won-46, election-48)
 
-Even/RB if/IN the/DT Florida/NNP Supreme/NNP Court/NNP should/MD swiftly/RB agree/VB to/TO their/PRP$ request/NN and/CC orders/NNS the/DT counting/VBG to/TO begin/VB by/IN Friday/NNP ,/, that/WDT would/MD still/RB put/VB them/PRP three/CD days/NNS behind/IN their/PRP$ original/JJ timetable/JJ ./.
-
 (ROOT
   (S
     (SBAR (RB Even) (IN if)
@@ -1133,8 +1089,6 @@ poss(timetable-32, their-30)
 amod(timetable-32, original-31)
 prep_behind(put-25, timetable-32)
 
-And/CC facing/VBG a/DT Dec/NNP ./.
-
 (ROOT
   (FRAG (CC And)
     (S
@@ -1146,8 +1100,6 @@ cc(facing-2, And-1)
 root(ROOT-0, facing-2)
 dobj(facing-2, a-3)
 dep(a-3, Dec-4)
-
-12/CD deadline/NN for/IN the/DT state/NN to/TO name/NN electors/NNS for/IN the/DT Electoral/NNP College/NNP ,/, Gore/NNP has/VBZ absolutely/RB no/DT days/NNS to/TO spare/NN ./.
 
 (ROOT
   (S
@@ -1184,8 +1136,6 @@ advmod(no-17, absolutely-16)
 amod(days-18, no-17)
 tmod(has-15, days-18)
 prep_to(has-15, spare-20)
-
-``It/NNP 's/VBZ a/DT stunt/JJ ,''/NN said/VBD Kendall/NNP Coffey/NNP ,/, one/CD of/IN Gore/NNP 's/POS election/NN lawyers/NNS ,/, as/IN he/PRP stormed/VBD out/RB of/IN Sauls/NNP '/POS courtroom/NN Wednesday/NN ,/, referring/VBG to/TO the/DT request/NN for/IN all/PDT the/DT ballots/NNS ./.
 
 (ROOT
   (S
@@ -1250,8 +1200,6 @@ predet(ballots-34, all-32)
 det(ballots-34, the-33)
 prep_for(request-30, ballots-34)
 
-``They/PRP 're/VBP trying/VBG to/TO bog/VB down/RP the/DT case/NN ,/, the/DT system/NN ,/, the/DT clerk/NN 's/POS office/NN and/CC everywhere/RB else/IN they/PRP can/MD .''/VB
-
 (ROOT
   (S
     (NP (PRP ``They))
@@ -1300,8 +1248,6 @@ nsubj(.''-22, they-20)
 aux(.''-22, can-21)
 advcl(bog-5, .''-22)
 
-The/DT decision/NN by/IN Gore/NNP 's/POS lawyers/NNS to/TO appeal/VB the/DT case/NN shows/VBZ how/WRB perilous/JJ their/PRP$ situation/NN is/VBZ ./.
-
 (ROOT
   (S
     (NP
@@ -1337,8 +1283,6 @@ dep(how-12, perilous-13)
 poss(situation-15, their-14)
 nsubj(is-16, situation-15)
 ccomp(shows-11, is-16)
-
-By/NNP appealing/NN ,/, the/DT lawyers/NNS were/VBD forced/VBN to/TO put/VB on/IN paper/NN their/PRP$ fear/NN that/IN their/PRP$ case/NN could/MD be/VB over/RB if/IN they/PRP cannot/VBP begin/VB counting/VBG ballots/NNS until/IN Saturday/NNP ./.
 
 (ROOT
   (S
@@ -1395,8 +1339,6 @@ xcomp(cannot-22, begin-23)
 amod(ballots-25, counting-24)
 dobj(begin-23, ballots-25)
 prep_until(begin-23, Saturday-27)
-
-The/DT decision/NN to/TO wait/VB until/IN a/DT Saturday/NN hearing/NN ``is/VBZ effectively/RB a/DT final/JJ order/NN denying/VBG all/DT relief/NN sought/VBN by/IN plaintiffs/NN because/IN the/DT action/NN now/RB pending/VBG below/JJ must/MD be/VB completed/VBN before/IN Dec/NNP ./.
 
 (ROOT
   (S
@@ -1458,8 +1400,6 @@ auxpass(completed-28, be-27)
 root(ROOT-0, completed-28)
 prep_before(completed-28, Dec-30)
 
-12/CD ,/, 2000/CD ,/, in/IN order/NN to/TO offer/VB any/DT relief/NN ,''/NN said/VBD the/DT notice/NN filed/VBN with/IN the/DT Court/NNP of/IN Appeal/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -1500,8 +1440,6 @@ vmod(notice-14, filed-15)
 det(Court-18, the-17)
 prep_with(filed-15, Court-18)
 prep_of(Court-18, Appeal-20)
-
-It/PRP adds/VBZ ,/, ``the/IN court/NN must/MD allow/VB sufficient/JJ time/NN to/TO complete/VB an/DT accurate/JJ and/CC fair/JJ count/NN of/IN the/DT contested/JJ ballots/NNS ,/, which/WDT is/VBZ essential/JJ for/IN the/DT proper/NN resolution/NN of/IN the/DT contest/JJS action/NN .''/.
 
 (ROOT
   (S
@@ -1568,8 +1506,6 @@ amod(action-32, contest-31)
 prep_of(resolution-28, action-32)
 punct(adds-2, .''-33)
 
-But/CC the/DT decision/NN to/TO bring/VB up/RB all/PDT the/DT ballots/NNS means/NNS that/IN they/PRP will/MD not/RB be/VB assembled/VBN in/IN Tallahassee/NNP until/IN late/JJ Friday/NN ,/, a/DT day/NN later/RBR than/IN planned/VBD ./.
-
 (ROOT
   (S (CC But)
     (NP (DT the) (NN decision)
@@ -1621,8 +1557,6 @@ advmod(than-26, later-25)
 advmod(planned-27, than-26)
 root(ROOT-0, planned-27)
 
-And/CC even/RB then/RB ,/, the/DT hurdles/NNS are/VBP enormous/JJ ./.
-
 (ROOT
   (S (CC And)
     (ADVP (RB even) (RB then))
@@ -1639,8 +1573,6 @@ det(hurdles-6, the-5)
 nsubj(enormous-8, hurdles-6)
 cop(enormous-8, are-7)
 root(ROOT-0, enormous-8)
-
-There/EX will/MD have/VB to/TO be/VB another/DT hearing/NN before/IN the/DT Florida/NNP Supreme/NNP Court/NNP ,/, and/CC Gore/NNP 's/POS lawyers/NNS will/MD have/VB to/TO refute/VB three/CD arguments/NNS to/TO be/VB raised/VBN by/IN the/DT Bush/NNP team/NN :/: There/EX should/MD be/VB no/DT more/RBR counting/NN at/IN all/DT ;/: if/IN there/EX is/VBZ any/DT counting/NN ,/, it/PRP will/MD have/VB to/TO include/VB all/DT 1.16/CD million/CD ballots/NNS ;/: and/CC if/IN there/EX is/VBZ any/DT counting/NN of/IN disputed/JJ ballots/NNS ,/, dimples/NNS cannot/VBP be/VB counted/VBN as/IN votes/NNS ./.
 
 (ROOT
   (S
@@ -1780,8 +1712,6 @@ auxpass(counted-70, be-69)
 xcomp(cannot-68, counted-70)
 prep_as(counted-70, votes-72)
 
-If/IN these/DT issues/NNS are/VBP heard/VBN before/IN Sanders/NNS ,/, there/EX will/MD have/VB to/TO be/VB briefs/NNS ,/, witnesses/NNS ,/, and/CC evidence/NN on/IN each/DT point/NN ,/, which/WDT could/MD take/VB days/NNS ./.
-
 (ROOT
   (S
     (SBAR (IN If)
@@ -1840,8 +1770,6 @@ nsubj(take-26, point-22)
 aux(take-26, could-25)
 rcmod(point-22, take-26)
 tmod(take-26, days-27)
-
-If/IN the/DT Supreme/NNP Court/NNP agrees/NNS to/TO short-circuit/VB the/DT process/NN ,/, there/EX will/MD still/RB have/VB to/TO be/VB lengthy/JJ briefs/NNS filed/VBN ,/, and/CC the/DT court/NN may/MD need/VBP to/TO wait/VB several/JJ days/NNS before/IN finding/JJ time/NN for/IN yet/RB another/DT momentous/JJ hearing/NN in/IN its/PRP$ schedule/NN ./.
 
 (ROOT
   (S
@@ -1920,8 +1848,6 @@ amod(hearing-37, momentous-36)
 prep_for(time-32, hearing-37)
 poss(schedule-40, its-39)
 prep_in(hearing-37, schedule-40)
-
-NYT-11-29-00/CD 2052EST/CD
 
 (ROOT
   (FRAG

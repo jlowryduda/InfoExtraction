@@ -1,5 +1,3 @@
-NYT20001122.2009.0341/CD NEWS/NNP STORY/NNP 2000-11-22/CD 20:58:00/CD
-
 (ROOT
   (NP
     (NP (CD NYT20001122.2009.0341))
@@ -11,8 +9,6 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001122.2009.0341-1, STORY-3)
 num(20:58:00-5, 2000-11-22-4)
 dep(NYT20001122.2009.0341-1, 20:58:00-5)
-
-A8464/CD &Cx1f/NN ;/: taf-z/NN u/IN a/DT BC-MASS-NURSE-TRIAL-NYT/JJ &LR/NN ;/: 11-22/CD 0494/CD
 
 (ROOT
   (FRAG
@@ -35,14 +31,10 @@ prep_u(taf-z-4, &LR-8)
 num(0494-11, 11-22-10)
 dep(&Cx1f-2, 0494-11)
 
-BC-MASS-NURSE-TRIAL-NYT/NNP
-
 (ROOT
   (NP (NNP BC-MASS-NURSE-TRIAL-NYT)))
 
 root(ROOT-0, BC-MASS-NURSE-TRIAL-NYT-1)
-
-EX-NURSE/NNP ON/NNP TRIAL/NNP IN/NNP SUSPICIOUS/NNP PATIENT/NNP DEATHS/.
 
 (ROOT
   (NP (NNP EX-NURSE) (NNP ON) (NNP TRIAL) (NNP IN) (NNP SUSPICIOUS) (NNP PATIENT) (. DEATHS)))
@@ -54,8 +46,6 @@ nn(PATIENT-6, IN-4)
 nn(PATIENT-6, SUSPICIOUS-5)
 root(ROOT-0, PATIENT-6)
 punct(PATIENT-6, DEATHS-7)
-
-&UR/NNS ;/: By/NNP CAREY/NNP GOLDBERG/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -89,8 +79,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -107,8 +95,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-SPRINGFIELD/NNP ,/, Mass./NNP _/NNP ``There/RB was/VBD a/DT coldness/NN in/IN Ward/NNP C/NNP ,''/IN the/DT prosecutor/NN began/VBD his/PRP$ wintry/NN tale/NN of/IN white-coated/JJ murder/NN this/DT week/NN ./.
 
 (ROOT
   (S
@@ -152,8 +138,6 @@ amod(murder-21, white-coated-20)
 prep_of(tale-18, murder-21)
 det(week-23, this-22)
 tmod(began-15, week-23)
-
-``It/PRP was/VBD a/DT deep/NN ,/, eerie/NN ,/, unsettling/JJ feeling/NNS that/WDT something/RB terribly/RB ,/, terribly/RB wrong/NN was/VBD happening/VBG ,''/IN Assistant/JJ U.S/NNS ./.
 
 (ROOT
   (S
@@ -199,8 +183,6 @@ root(ROOT-0, happening-17)
 amod(U.S-20, Assistant-19)
 prep_,''(happening-17, U.S-20)
 
-Attorney/NNP William/NNP Welch/NNP II/NNP went/VBD on/RP ./.
-
 (ROOT
   (S
     (NP (NNP Attorney) (NNP William) (NNP Welch) (NNP II))
@@ -214,8 +196,6 @@ nn(II-4, Welch-3)
 nsubj(went-5, II-4)
 root(ROOT-0, went-5)
 prt(went-5, on-6)
-
-Patients/NNS were/VBD succumbing/VBG to/TO sudden/VB cardiac/NN arrest/NN at/IN an/DT alarming/NN and/CC suspicious/JJ rate/NN ./.
 
 (ROOT
   (S
@@ -247,8 +227,6 @@ amod(rate-13, alarming-10)
 conj_and(alarming-10, suspicious-12)
 amod(rate-13, suspicious-12)
 prep_at(sudden-5, rate-13)
-
-Finally/RB ,/, he/PRP said/VBD ,/, in/IN February/NNP 1996/CD ,/, ``three/IN registered/VBN nurses/NNS came/VBD forward/NN to/TO report/VB a/DT patient/NN 's/POS ,/, a/DT health/NN care/NN professional/JJ 's/POS ,/, a/DT hospital/JJ 's/POS worst/JJ nightmare/NN :/: There/EX was/VBD a/DT killer/NN amongst/RB them/PRP .''/.
 
 (ROOT
   (S
@@ -320,8 +298,6 @@ npadvmod(amongst-37, killer-36)
 advmod(was-34, amongst-37)
 nsubj(was-34, them-38)
 punct(said-4, .''-39)
-
-That/DT killer/NN ,/, prosecutors/NNS charge/NN ,/, is/VBZ Kristen/NNP Gilbert/NNP ,/, 33/CD ,/, a/DT former/JJ nurse/NN ,/, who/WP is/VBZ on/IN trial/NN in/IN federal/JJ court/NN here/RB ,/, accused/VBN of/IN murdering/VBG four/CD patients/NNS and/CC trying/VBG to/TO kill/VB three/CD others/NNS by/IN poisoning/VBG them/PRP with/IN epinephrine/NN ,/, a/DT stimulant/NN that/WDT sent/VBD their/PRP$ hearts/NNS racing/VBG out/RP of/IN control/NN ./.
 
 (ROOT
   (S
@@ -422,8 +398,6 @@ poss(hearts-48, their-47)
 dobj(sent-46, hearts-48)
 xcomp(sent-46, racing-49)
 prep_out_of(racing-49, control-52)
-
-Massachusetts/NNP is/VBZ one/CD of/IN 12/CD states/NNS that/WDT lack/VBP the/DT death/NN penalty/NN ,/, but/CC Gilbert/NNP 's/POS is/VBZ a/DT capital/NN case/NN nonetheless/NN ,/, because/IN the/DT alleged/VBN crimes/NNS occurred/VBN on/IN federal/JJ property/NN _/IN the/DT Veterans/NNPS Affairs/NNPS Medical/NNP Center/NNP in/IN Northampton/NNP ,/, Mass./NNP And/CC so/IN the/DT case/NN is/VBZ being/VBG tried/VBN in/IN federal/JJ court/NN ,/, where/WRB prosecutors/NNS can/MD ,/, and/CC say/VBP they/PRP will/MD ,/, seek/VB the/DT death/NN penalty/NN ./.
 
 (ROOT
   (S
@@ -542,8 +516,6 @@ det(penalty-63, the-61)
 nn(penalty-63, death-62)
 dobj(seek-60, penalty-63)
 
-In/IN an/DT opening/NN argument/NN on/IN Monday/NNP ,/, the/DT defense/NN lawyer/NN ,/, David/NNP P./NNP Hoose/NNP ,/, emphasized/VBN that/IN no/DT one/NN had/VBD seen/VBN Gilbert/JJ poison/NN the/DT patients/NNS ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -588,8 +560,6 @@ amod(poison-23, Gilbert-22)
 nsubj(patients-25, poison-23)
 det(patients-25, the-24)
 xcomp(seen-21, patients-25)
-
-He/PRP said/VBD that/IN the/DT patients/NNS were/VBD very/RB sick/JJ and/CC that/IN the/DT prosecution/NN 's/POS claims/NNS that/IN evidence/NN of/IN epinephrine/JJ poisoning/NN was/VBD found/VBN in/IN the/DT exhumed/JJ bodies/NNS of/IN patients/NNS were/VBD based/VBN on/IN shoddy/JJ science/NN ./.
 
 (ROOT
   (S
@@ -655,8 +625,6 @@ conj_and(sick-8, based-29)
 amod(science-32, shoddy-31)
 prep_on(based-29, science-32)
 
-The/DT case/NN is/VBZ really/RB about/IN ``an/NN investigation/NN that/WDT started/VBD with/IN a/DT conclusion/NN and/CC then/RB worked/VBD backwards/NNS to/TO fill/VB in/IN the/DT gaps/NNS ,''/, he/PRP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -711,8 +679,6 @@ punct(said-24, ,''-22)
 nsubj(said-24, he-23)
 root(ROOT-0, said-24)
 
-``And/IN the/DT proposition/NN they/PRP started/VBD with/IN was/VBD that/DT people/NNS were/VBD injected/VBN with/IN epinephrine/NN ,/, and/CC Kristen/NNP Gilbert/NNP did/VBD it/PRP .''/.
-
 (ROOT
   (S
     (S
@@ -755,8 +721,6 @@ nsubj(did-18, Gilbert-17)
 conj_and(started-5, did-18)
 dobj(did-18, it-19)
 punct(started-5, .''-20)
-
-As/IN Welch/NNP depicted/VBN her/PRP$ ,/, Gilbert/NNP reveled/VBD in/IN the/DT excitement/NN and/CC attention/NN of/IN the/DT emergency/NN calls/NNS made/VBD whenever/RB a/DT life-threatening/JJ situation/NN arose/NN ,/, and/CC went/VBD out/IN of/IN her/PRP$ way/NN to/TO create/VB emergencies/NNS by/IN injecting/VBG patients/NNS with/IN epinephrine/NN ./.
 
 (ROOT
   (S
@@ -830,8 +794,6 @@ dobj(create-31, emergencies-32)
 prepc_by(create-31, injecting-34)
 dobj(injecting-34, patients-35)
 prep_with(injecting-34, epinephrine-37)
-
-She/NNP had/VBD a/DT particular/JJ reason/NN to/TO crave/VB that/IN spotlight/NN ,/, he/PRP said/VBD :/: Though/JJ married/NN and/CC the/DT mother/NN of/IN two/CD boys/NNS ,/, she/PRP began/VBD an/DT affair/NN in/IN late/JJ 1995/CD with/IN one/CD of/IN the/DT hospital/JJ 's/POS security/NN police/NN ,/, James/NNP Perrault/NNP ,/, and/CC he/PRP would/MD be/VB summoned/VBN to/TO help/VB whenever/RB an/DT emergency/NN call/NN was/VBD made/VBN ./.
 
 (ROOT
   (S
@@ -938,8 +900,6 @@ nsubjpass(made-54, call-52)
 auxpass(made-54, was-53)
 ccomp(help-48, made-54)
 
-Welch/NNP also/RB said/VBD Gilbert/NNP had/VBD confessed/VBN to/TO Perrault/NNP ,/, who/WP would/MD testify/VB ./.
-
 (ROOT
   (S
     (NP (NNP Welch))
@@ -972,8 +932,6 @@ nsubj(testify-12, Perrault-8)
 aux(testify-12, would-11)
 rcmod(Perrault-8, testify-12)
 
-Welch/NNP described/VBD a/DT pivotal/JJ moment/NN on/IN Feb/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Welch))
@@ -989,8 +947,6 @@ det(moment-5, a-3)
 amod(moment-5, pivotal-4)
 dobj(described-2, moment-5)
 prep_on(described-2, Feb-7)
-
-15/CD ,/, 1996/CD ,/, when/WRB a/DT suspicious/JJ colleague/NN of/IN Gilbert/NNP 's/POS ,/, Kathy/NNP Rix/NNP ,/, counted/VBD three/CD ampules/NNS in/IN the/DT intensive/JJ care/NN unit/NN 's/POS medicine/NN cabinet/NN at/IN 4/DT p.m/NN .;/IN an/DT hour/NN later/RBR ,/, after/IN an/DT emergency/NN call/NN that/WDT involved/VBD Gilbert/NNP ,/, she/PRP counted/VBD again/RB and/CC found/VBD none/NN ,/, and/CC then/RB saw/IN three/CD broken/NNS ampules/NNS in/IN the/DT needle/JJ disposal/NN bucket/NN ./.
 
 (ROOT
   (S
@@ -1098,8 +1054,6 @@ amod(bucket-60, needle-58)
 nn(bucket-60, disposal-59)
 prep_in(found-47, bucket-60)
 
-``She/JJ felt/NN sick/NN to/TO her/PRP$ stomach/NN and/CC her/PRP$ knees/NNS about/IN buckled/JJ ,''/NNP Welch/NNP said/VBD ,/, ``because/NN she/PRP now/RB knew/VBZ what/WDT had/VBD been/VBN happening/VBG on/IN Ward/NNP C/NNP .''/.
-
 (ROOT
   (S
     (NP
@@ -1153,8 +1107,6 @@ ccomp(knew-19, happening-23)
 nn(C-26, Ward-25)
 prep_on(happening-23, C-26)
 punct(said-14, .''-27)
-
-NYT-11-22-00/CD 2058EST/CD
 
 (ROOT
   (FRAG

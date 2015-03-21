@@ -1,5 +1,3 @@
-APW20001021.1730.0351/DT NEWS/NNP STORY/NNPS 2000-10-21/CD 17:48:31/CD
-
 (ROOT
   (NP
     (NP (DT APW20001021.1730.0351))
@@ -12,14 +10,10 @@ dep(APW20001021.1730.0351-1, STORY-3)
 num(17:48:31-5, 2000-10-21-4)
 dep(APW20001021.1730.0351-1, 17:48:31-5)
 
-Germany-Neo-Nazis/NNP
-
 (ROOT
   (NP (NNP Germany-Neo-Nazis)))
 
 root(ROOT-0, Germany-Neo-Nazis-1)
-
-Germans/NNPS Demonstrate/NNP Against/NNP Hate/NNP
 
 (ROOT
   (NP
@@ -31,8 +25,6 @@ nn(Demonstrate-2, Germans-1)
 root(ROOT-0, Demonstrate-2)
 prep(Demonstrate-2, Against-3)
 dep(Against-3, Hate-4)
-
-DORTMUND/NNP ,/, Germany/NNP [AP/NNP ]/, _/DT Thousands/NNPS of/IN Germans/NNPS joined/VBD together/RB in/IN this/DT western/JJ city/NN Saturday/NN to/TO protest/VB foreigner/NN hate/NN ,/, the/DT extreme/JJ right/NN and/CC a/DT neo-Nazi/JJ demonstration/NN ./.
 
 (ROOT
   (S
@@ -84,8 +76,6 @@ det(demonstration-28, a-26)
 amod(demonstration-28, neo-Nazi-27)
 dobj(protest-18, demonstration-28)
 conj_and(hate-20, demonstration-28)
-
-``This/NNP event/NN shall/NN serve/NN as/IN a/DT beacon/NN for/IN the/DT uprising/NN of/IN concerned/JJ people/NNS ,''/, said/VBD North/NNP Rhine-Westphalia/NNP governor/NN Wolfgang/NNP Clement/NNP ,/, alluding/VBG to/TO Chancellor/NNP Gerhard/NNP Schroeder/NNP 's/POS call/NN for/IN ordinary/JJ Germans/NNS to/TO speak/VB out/RP against/IN a/DT recent/JJ wave/NN of/IN hate/NN ./.
 
 (ROOT
   (S
@@ -155,8 +145,6 @@ amod(wave-38, recent-37)
 prep_against(speak-33, wave-38)
 prep_of(wave-38, hate-40)
 
-Organizers/NNS said/VBD 20,000/CD people/NNS attended/VBD the/DT event/NN in/IN Dortmund/NNP ,/, an/DT industrial/JJ center/NN in/IN North/NNP Rhine-Westphalia/NNP ,/, Germany/NNP 's/POS most/JJS populous/JJ state/NN ./.
-
 (ROOT
   (S
     (NP (NNS Organizers))
@@ -199,8 +187,6 @@ dep(populous-21, most-20)
 amod(state-22, populous-21)
 appos(Rhine-Westphalia-16, state-22)
 
-Later/NNP ,/, about/IN 600/CD neo-Nazis/NN marched/VBN through/IN the/DT middle/NN of/IN town/VBN under/IN heavy/NN police/NN guard/NN ./.
-
 (ROOT
   (FRAG
     (NP (NNP Later))
@@ -230,8 +216,6 @@ amod(guard-15, town-11)
 nn(police-14, heavy-13)
 prep_under(town-11, police-14)
 prep_of(middle-9, guard-15)
-
-Three/JJ officers/NNS were/VBD injured/JJ as/IN leftist/JJ counter-demonstrators/NNS tried/VBD to/TO break/VB through/IN police/NN lines/NNS ,/, and/CC two/CD leftists/NNS and/CC two/CD neo-Nazis/NNS were/VBD arrested/VBN ./.
 
 (ROOT
   (S
@@ -280,8 +264,6 @@ nsubjpass(arrested-22, neo-Nazis-20)
 auxpass(arrested-22, were-21)
 conj_and(injured-4, arrested-22)
 
-Counter-demonstrations/NNS against/IN rightist/NN events/NNS are/VBP common/JJ in/IN Germany/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -300,8 +282,6 @@ prep_against(Counter-demonstrations-1, events-4)
 cop(common-6, are-5)
 root(ROOT-0, common-6)
 prep_in(common-6, Germany-8)
-
-But/CC the/DT events/NNS have/VBP taken/VBN on/IN a/DT more/JJR urgent/NN tone/NN because/IN of/IN a/DT recent/JJ wave/NN of/IN awareness/NN of/IN hate-fueled/JJ violence/NN that/WDT followed/VBD a/DT still-unsolved/JJ bomb/NN attack/IN late/JJ July/NNP in/IN North/NNP Rhine-Westphalia/NNP 's/POS capital/NN Duesseldorf/NN ./.
 
 (ROOT
   (S (CC But)
@@ -357,8 +337,6 @@ nn(Rhine-Westphalia-31, North-30)
 poss(Duesseldorf-34, Rhine-Westphalia-31)
 nn(Duesseldorf-34, capital-33)
 prep_in(followed-22, Duesseldorf-34)
-
-That/DT attack/NN left/VBD 10/CD recent/JJ immigrants/NNS injured/VBD ,/, at/IN least/JJS six/CD of/IN them/PRP Jews/NNP ,/, and/CC at/IN least/JJS three/CD people/NNS were/VBD killed/VBN in/IN other/JJ hate/NN attacks/NNS over/IN the/DT summer/NN ./.
 
 (ROOT
   (S
@@ -419,8 +397,6 @@ prep_in(killed-22, attacks-26)
 det(summer-29, the-28)
 prep_over(attacks-26, summer-29)
 
-In/IN the/DT latest/JJS attack/NN Friday/NN night/NN ,/, an/DT Algerian/JJ asylum-seeker/NN was/VBD stabbed/VBN in/IN the/DT arm/NN following/VBG an/DT argument/NN about/IN Germans/NNPS and/CC foreigners/NNS with/IN two/CD men/NNS ,/, aged/VBD 19/CD and/CC 20/CD ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -477,8 +453,6 @@ conj_and(men-25, 19-28)
 prep_with(foreigners-22, 20-30)
 conj_and(men-25, 20-30)
 
-Dortmund/NNP authorities/NNS had/VBD tried/VBN to/TO ban/VB the/DT Saturday/NN neo-Nazi/JJ march/NN ,/, but/CC a/DT court/NN late/JJ Friday/NN evening/NN ruled/VBD that/IN it/PRP could/MD go/VB on/RP ./.
-
 (ROOT
   (S
     (S
@@ -525,8 +499,6 @@ nsubj(go-22, it-20)
 aux(go-22, could-21)
 ccomp(ruled-18, go-22)
 prt(go-22, on-23)
-
-Clement/NN said/VBD the/DT counter-demonstration/NN _/IN organized/VBN by/IN citizens/NNS '/POS groups/NNS ,/, political/JJ parties/NNS ,/, sport/JJ clubs/NN ,/, students/NNS and/CC teachers/NNS _/, was/VBD the/DT kind/NN of/IN involvement/NN by/IN society/NN that/WDT would/MD help/VB ``again/NN rub/VBD out/RB from/IN our/PRP$ country/NN the/DT brown/NN specter/NN from/IN our/PRP$ past/JJ ,''/NN referring/VBG to/TO the/DT Nazis/NNP '/POS infamous/JJ brownshirts/NNS ./.
 
 (ROOT
   (SINV
@@ -627,8 +599,6 @@ poss(brownshirts-51, Nazis-48)
 amod(brownshirts-51, infamous-50)
 prep_to(referring-45, brownshirts-51)
 
-Government/NNP efforts/NNS to/TO stop/VB neo-Nazis/RB have/VBP focused/VBN on/IN banning/VBG the/DT small/JJ ,/, far-right/JJ National/NNP Democratic/NNP Party/NNP ,/, blamed/VBD for/IN fueling/VBG some/DT of/IN the/DT violence/NN ./.
-
 (ROOT
   (S
     (NP (NNP Government) (NNS efforts)
@@ -678,8 +648,6 @@ dobj(fueling-20, some-21)
 det(violence-24, the-23)
 prep_of(some-21, violence-24)
 
-On/IN Friday/NNP ,/, interior/NN ministers/NNS meeting/NN in/IN Berlin/NNP delayed/VBD a/DT decision/NN on/IN seeking/VBG a/DT ban/NN before/IN Germany/NNP 's/POS highest/JJS court/NN ./.
-
 (ROOT
   (S
     (PP (IN On)
@@ -715,8 +683,6 @@ dobj(seeking-13, ban-15)
 poss(court-20, Germany-17)
 amod(court-20, highest-19)
 prep_before(seeking-13, court-20)
-
-Bavaria/NNP Interior/NNP Minister/NNP Guenther/NNP Beckstein/NNP ,/, one/CD of/IN the/DT leading/VBG proponents/NNS of/IN a/DT ban/NN ,/, told/VBD Focus/NNP newsmagazine/NN in/IN an/DT interview/NN Saturday/NN that/IN he/PRP was/VBD ``firmly/RB convinced/VBN ''/'' a/DT legal/JJ motion/NN would/MD still/RB be/VB filed/VBN this/DT year/NN ./.
 
 (ROOT
   (S
@@ -785,8 +751,6 @@ auxpass(filed-35, be-34)
 ccomp(told-16, filed-35)
 det(year-37, this-36)
 tmod(filed-35, year-37)
-
-He/PRP also/RB raised/VBD the/DT possibility/NN of/IN seeking/VBG bans/NNS about/IN Germany/NNP 's/POS other/JJ far-right/JJ parties/NNS _/IN the/DT Republicans/NNPS and/CC German/NNP Peoples/NNP Union/NNP _/, both/DT of/IN which/WDT have/VBP had/VBN far/RB more/RBR electoral/JJ success/NN than/IN the/DT politically/RB insignificant/JJ NPD/NNP ./.
 
 (ROOT
   (S
@@ -858,8 +822,6 @@ advmod(insignificant-35, politically-34)
 amod(NPD-36, insignificant-35)
 prep_than(success-31, NPD-36)
 
-Some/DT have/VBP criticized/VBN a/DT potential/JJ party/NN ban/NN for/IN it/PRP they/PRP would/MD only/RB drive/VB party/RB members/NNS underground/NN and/CC make/VB them/PRP harder/NN to/TO monitor/NN ./.
-
 (ROOT
   (S
     (NP (DT Some))
@@ -909,8 +871,6 @@ nsubj(harder-20, them-19)
 xcomp(make-18, harder-20)
 prep_to(harder-20, monitor-22)
 
-Christian/JJ Worch/NN of/IN Hamburg/NNP ,/, the/DT neo-Nazi/NN who/WP led/VBD the/DT Saturday/NN demonstration/NN ,/, gave/VBD support/NN to/TO that/DT view/NN ./.
-
 (ROOT
   (S
     (NP
@@ -947,8 +907,6 @@ root(ROOT-0, gave-14)
 dobj(gave-14, support-15)
 det(view-18, that-17)
 prep_to(gave-14, view-18)
-
-``Every/JJ ban/NN makes/VBZ us/PRP stronger/JJR and/CC more/JJR alive/NN ,''/IN he/PRP told/VBD protesters/NNS ./.
 
 (ROOT
   (S

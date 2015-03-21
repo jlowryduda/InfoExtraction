@@ -1,5 +1,3 @@
-NYT20001111.1033.0046/NNP NEWS/NNP STORY/NNP 2000-11-11/CD 10:36:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001111.1033.0046) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(10:36:00-5, 2000-11-11-4)
 dep(STORY-3, 10:36:00-5)
-
-A5480/CD &Cx1f/NN ;/: var-z/NNP u/IN a/DT BC-ELN-VOTERS-REVIEW-ART/JJ 11-11/CD 0938/CD
 
 (ROOT
   (NP
@@ -30,14 +26,10 @@ amod(0938-9, BC-ELN-VOTERS-REVIEW-ART-7)
 num(0938-9, 11-11-8)
 prep_u(var-z-4, 0938-9)
 
-BC-ELN-VOTERS-REVIEW-ART-NYT/NNP
-
 (ROOT
   (NP (NNP BC-ELN-VOTERS-REVIEW-ART-NYT)))
 
 root(ROOT-0, BC-ELN-VOTERS-REVIEW-ART-NYT-1)
-
-WHO/JJ VOTED/NN :/: A/DT PORTRAIT/NNP OF/NNP AMERICAN/NNP POLITICS/NNP ,/, 1976-2000/CD
 
 (ROOT
   (NP
@@ -56,8 +48,6 @@ nn(POLITICS-8, OF-6)
 nn(POLITICS-8, AMERICAN-7)
 dep(VOTED-2, POLITICS-8)
 amod(POLITICS-8, 1976-2000-10)
-
-&UR/NNS ;/: [The/NNP Week/NNP in/IN Review/NNP ]/CD &LR/NN ;/: &QL/NNP ;/: &UR/NNS ;/: [NOTE/NNP TO/NNP INTERNATIONAL/NNP CLIENTS/NNP :/: For/IN international/JJ clients/NNS '/POS use/NN by/IN special/JJ arrangement/NN only/RB ./.
 
 (ROOT
   (NP
@@ -103,8 +93,6 @@ prep_for(Week-4, use-23)
 amod(arrangement-26, special-25)
 prep_by(use-23, arrangement-26)
 advmod(arrangement-26, only-27)
-
-Asian/JJ and/CC European/JJ points/NNS :/: contact/JJ Karl/NNP Horwitz/NNP in/IN Paris/NNP for/IN details/NNS and/CC prices/NNS [Phone/NN :/: 47/CD 42/CD 17/CD 11/CD ;/: FAX/NNP :/: 47-42-80-44/CD ]./NN Latin/NNP American/JJ points/NNS :/: contact/VB the/DT Los/NNP Angeles/NNP office/NN [Phone/NN :/: 310-996-0075/CD ;/: FAX/NNP :/: 310-996-0089/CD ]/NN &QL/NN ;/: [ART/NNP ADV/NNP :/: Graphic/NNP is/VBZ being/VBG sent/VBN to/TO NYT/NNP graphic/JJ clients/NNS ./.
 
 (ROOT
   (NP
@@ -203,8 +191,6 @@ nn(clients-55, NYT-53)
 amod(clients-55, graphic-54)
 prep_to(sent-51, clients-55)
 
-Nonsubscribers/NNS can/MD purchase/VB one-time/JJ rights/NNS by/IN calling/VBG 888-603-1036/CD or/CC 888-346-9867/CD .]/JJ &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: By/NNP MARJORIE/NNP CONNELLY/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
-
 (ROOT
   (S
     (NP (NNS Nonsubscribers))
@@ -262,8 +248,6 @@ dep(&LR-12, &UR-27)
 dep(&LR-12, c.2000-29)
 appos(c.2000-29, N.Y-30)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -280,8 +264,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-A/DT majority/NN of/IN women/CD ,/, older/NN voters/NNS ,/, Democrats/NNPS ,/, liberals/NNS and/CC black/JJ ,/, Hispanic/JJ and/CC Asian/JJ voters/NNS cast/VB their/PRP$ ballots/NNS for/IN Al/NNP Gore/NNP ./.
 
 (ROOT
   (S
@@ -331,8 +313,6 @@ dobj(cast-19, ballots-21)
 nn(Gore-24, Al-23)
 prep_for(cast-19, Gore-24)
 
-George/NNP W./NNP Bush/NNP captured/VBD the/DT votes/NNS of/IN most/JJS men,/NNS whites,/IN conservatives,/NN Republicans,/NNP Southerners/NNPS and/CC white/JJ Protestants/NNS ./.
-
 (ROOT
   (S
     (NP (NNP George) (NNP W.) (NNP Bush))
@@ -364,8 +344,6 @@ dobj(captured-4, Southerners-13)
 amod(Protestants-16, white-15)
 dobj(captured-4, Protestants-16)
 conj_and(Southerners-13, Protestants-16)
-
-Ralph/NNP Nader/NNP ,/, who/WP received/VBD 2/CD percent/NN of/IN the/DT vote/NN ,/, did/VBD best/JJS among/IN independents/NNS ,/, particularly/RB liberal/JJ ones/NNS ,/, and/CC among/IN young/JJ men/NNS ./.
 
 (ROOT
   (S
@@ -415,8 +393,6 @@ appos(independents-15, ones-19)
 amod(men-24, young-23)
 prep_among(best-13, men-24)
 conj_and(independents-15, men-24)
-
-But/CC the/DT national/JJ election/NN was/VBD so/RB close/JJ because/IN several/JJ large/JJ groups/NNS _/IN voters/NNS under/IN 65/CD ,/, independents/NNS ,/, voters/NNS from/IN the/DT Midwest/NNP and/CC the/DT West/NNP and/CC suburbanites/VBZ _/TO divided/VB their/PRP$ votes/NNS almost/RB evenly/RB between/IN the/DT two/CD major/JJ candidates/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -486,8 +462,6 @@ num(candidates-38, two-36)
 amod(candidates-38, major-37)
 prep_between(divided-29, candidates-38)
 
-The/DT accompanying/NN table/NN ,/, drawn/VBN from/IN surveys/NNS of/IN voters/NNS leaving/VBG the/DT polls/NNS [including/VBG those/DT in/IN Florida/NNP ],/, shows/VBZ how/WRB different/JJ groups/NNS have/VBP voted/VBN for/IN president/NN since/IN 1976/CD ./.
-
 (ROOT
   (S
     (NP
@@ -543,8 +517,6 @@ aux(voted-23, have-22)
 ccomp(shows-18, voted-23)
 prep_for(voted-23, president-25)
 prep_since(voted-23, 1976-27)
-
-Because/IN large/JJ numbers/NNS of/IN people/NNS are/VBP surveyed/VBN ,/, exit/NN polls/NNS can/MD help/VB measure/VB the/DT preferences/NNS of/IN groups/NNS like/IN Jewish/JJ or/CC Asian/JJ voters/NNS or/CC young/JJ blacks/NNS or/CC liberal/JJ Republicans/NNPS whose/WP$ portion/NN of/IN the/DT voting/NN population/NN is/VBZ often/RB too/RB small/JJ to/TO examine/VB in/IN typical/JJ telephone/NN surveys/NNS ./.
 
 (ROOT
   (S
@@ -632,16 +604,12 @@ amod(surveys-44, typical-42)
 nn(surveys-44, telephone-43)
 prep_in(examine-40, surveys-44)
 
-The/DT Gender/NNP Gap/NNP
-
 (ROOT
   (NP (DT The) (NNP Gender) (NNP Gap)))
 
 det(Gap-3, The-1)
 nn(Gap-3, Gender-2)
 root(ROOT-0, Gap-3)
-
-Bush/NNP received/VBD a/DT majority/NN of/IN votes/NNS from/IN men/NNS and/CC Gore/NNP was/VBD backed/VBN by/IN a/DT majority/NN of/IN women/CD ./.
 
 (ROOT
   (S
@@ -678,8 +646,6 @@ conj_and(received-2, backed-12)
 det(majority-15, a-14)
 agent(backed-12, majority-15)
 prep_of(majority-15, women-17)
-
-That/DT 's/VBZ been/VBN a/DT trend/NN for/IN at/IN least/JJS 20/CD years/NNS :/: more/RBR women/JJ vote/NN for/IN Democrats/NNP ;/: more/RBR men/JJ prefer/JJ Republicans/NNPS ./.
 
 (ROOT
   (S
@@ -727,8 +693,6 @@ dep(trend-5, men-19)
 amod(men-19, prefer-20)
 dep(men-19, Republicans-21)
 
-This/DT year/NN ,/, the/DT gap/NN was/VBD especially/RB large/JJ ./.
-
 (ROOT
   (S
     (NP (DT This) (NN year))
@@ -745,8 +709,6 @@ nsubj(large-8, gap-5)
 cop(large-8, was-6)
 advmod(large-8, especially-7)
 root(ROOT-0, large-8)
-
-Gore/NNP got/VBD more/RBR votes/NNS from/IN women/JJ than/IN from/IN men/NNS :/: 12/CD percentage/NN points/NNS more/RBR ./.
 
 (ROOT
   (S
@@ -776,8 +738,6 @@ num(points-13, 12-11)
 nn(points-13, percentage-12)
 dep(men-9, points-13)
 dep(points-13, more-14)
-
-The/DT gender/NN gap/NN cut/NN across/IN all/DT age/NN groups/NNS and/CC education/NN levels/NNS ,/, even/RB among/IN black/JJ voters/NNS ,/, who/WP strongly/RB supported/VBN Gore/NNP overall/NNP ./.
 
 (ROOT
   (NP
@@ -820,8 +780,6 @@ rcmod(voters-16, supported-20)
 nn(overall-22, Gore-21)
 dep(groups-8, overall-22)
 
-The/DT gender/NN gap/NN was/VBD widest/RB among/IN college/NN graduates/NNS and/CC unmarried/JJ voters/NNS ./.
-
 (ROOT
   (S
     (NP (DT The) (NN gender) (NN gap))
@@ -845,15 +803,11 @@ amod(voters-11, unmarried-10)
 prep_among(was-4, voters-11)
 conj_and(graduates-8, voters-11)
 
-Party/NNP Identification/NNP
-
 (ROOT
   (NP (NNP Party) (NNP Identification)))
 
 nn(Identification-2, Party-1)
 root(ROOT-0, Identification-2)
-
-Few/NNP voters/NNS crossed/VBD party/RB lines/NNS ./.
 
 (ROOT
   (S
@@ -868,8 +822,6 @@ nsubj(crossed-3, voters-2)
 root(ROOT-0, crossed-3)
 advmod(crossed-3, party-4)
 dobj(crossed-3, lines-5)
-
-Large/NNP majorities/NNS of/IN Republicans/NNPS supported/VBD Bush/NNP ./.
 
 (ROOT
   (S
@@ -886,8 +838,6 @@ nsubj(supported-5, majorities-2)
 prep_of(majorities-2, Republicans-4)
 root(ROOT-0, supported-5)
 dobj(supported-5, Bush-6)
-
-Gore/NNP won/VBD the/DT votes/NNS of/IN most/JJS Democrats/NNPS ./.
 
 (ROOT
   (S
@@ -907,8 +857,6 @@ det(votes-4, the-3)
 dobj(won-2, votes-4)
 prep_of(votes-4, most-6)
 dep(most-6, Democrats-7)
-
-Voters/NNS who/WP identified/VBD themselves/RB as/IN independent/JJ split/NN almost/RB evenly/RB ./.
 
 (ROOT
   (FRAG
@@ -934,8 +882,6 @@ dobj(identified-3, split-7)
 advmod(evenly-9, almost-8)
 advmod(identified-3, evenly-9)
 
-Most/JJS independents/NNS who/WP described/VBD their/PRP$ political/JJ ideology/NN as/IN liberal/JJ supported/JJ Gore/NN ./.
-
 (ROOT
   (FRAG
     (NP
@@ -959,8 +905,6 @@ dobj(described-4, ideology-7)
 amod(Gore-11, liberal-9)
 amod(Gore-11, supported-10)
 prep_as(described-4, Gore-11)
-
-Bush/NNP was/VBD backed/VBN by/IN independents/NNS who/WP characterized/VBN themselves/NNS as/IN conservative/JJ ./.
 
 (ROOT
   (S
@@ -988,8 +932,6 @@ rcmod(independents-5, characterized-7)
 dobj(characterized-7, themselves-8)
 prep_as(characterized-7, conservative-10)
 
-Moderate/JJ independents/NNS were/VBD very/RB closely/RB divided/VBN ./.
-
 (ROOT
   (S
     (NP (JJ Moderate) (NNS independents))
@@ -1004,8 +946,6 @@ advmod(divided-6, very-4)
 advmod(divided-6, closely-5)
 root(ROOT-0, divided-6)
 
-Where/RB They/PRP Live/VBP
-
 (ROOT
   (ADJP (RB Where)
     (SBAR
@@ -1016,8 +956,6 @@ Where/RB They/PRP Live/VBP
 root(ROOT-0, Where-1)
 nsubj(Live-3, They-2)
 ccomp(Where-1, Live-3)
-
-As/IN in/IN 1996/CD ,/, most/RBS Easterners/NNS supported/VBD the/DT Democrat/NN ./.
 
 (ROOT
   (S
@@ -1038,8 +976,6 @@ nsubj(supported-7, Easterners-6)
 root(ROOT-0, supported-7)
 det(Democrat-9, the-8)
 dobj(supported-7, Democrat-9)
-
-But/CC while/IN four/CD years/NNS ago/RB ,/, Southerners/NNS were/VBD evenly/RB divided/VBN between/IN Bill/NNP Clinton/NNP and/CC Bob/NNP Dole/NNP ,/, this/DT year/NN Bush/NNP carried/VBD the/DT the/DT South/NNP ./.
 
 (ROOT
   (S (CC But)
@@ -1088,8 +1024,6 @@ det(South-24, the-22)
 det(South-24, the-23)
 dobj(carried-21, South-24)
 
-The/DT Midwest/NNP and/CC the/DT West/NNP were/VBD almost/RB evenly/RB divided/VBN between/IN the/DT two/CD candidates/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -1116,8 +1050,6 @@ det(candidates-13, the-11)
 num(candidates-13, two-12)
 prep_between(divided-9, candidates-13)
 
-Gore/NNP did/VBD best/JJS among/IN urbanites/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Gore))
@@ -1132,8 +1064,6 @@ nsubj(did-2, Gore-1)
 root(ROOT-0, did-2)
 dobj(did-2, best-3)
 prep_among(best-3, urbanites-5)
-
-Bush/NNP ran/NN stronger/NN in/IN smaller/JJR towns/NNS and/CC in/IN rural/JJ areas/NNS ./.
 
 (ROOT
   (S
@@ -1156,8 +1086,6 @@ amod(areas-10, rural-9)
 prep_in(stronger-3, areas-10)
 conj_and(towns-6, areas-10)
 
-Suburban/NNP voters/NNS split/NN about/IN evenly/RB ./.
-
 (ROOT
   (NP
     (NP (NNP Suburban) (NNS voters) (NN split))
@@ -1171,15 +1099,11 @@ root(ROOT-0, split-3)
 prep(split-3, about-4)
 pcomp(about-4, evenly-5)
 
-Pocketbook/NNP Concerns/NNS
-
 (ROOT
   (NP (NNP Pocketbook) (NNS Concerns)))
 
 nn(Concerns-2, Pocketbook-1)
 root(ROOT-0, Concerns-2)
-
-Voters/NNS who/WP say/VBP their/PRP$ finances/NNS have/VBP improved/VBN during/IN a/DT president/NN 's/POS tenure/NN usually/RB favor/VB the/DT incumbent/NN ,/, while/IN the/DT challenger/NN is/VBZ preferred/JJ by/IN those/DT who/WP say/VBP their/PRP$ financial/JJ situation/NN has/VBZ deteriorated/VBN ./.
 
 (ROOT
   (S
@@ -1248,8 +1172,6 @@ dobj(say-26, situation-29)
 aux(deteriorated-31, has-30)
 root(ROOT-0, deteriorated-31)
 
-That/DT held/VBN true/IN this/DT year/NN ./.
-
 (ROOT
   (S
     (NP (DT That))
@@ -1262,8 +1184,6 @@ nsubj(held-2, That-1)
 root(ROOT-0, held-2)
 det(year-5, this-4)
 prep_true(held-2, year-5)
-
-Gore/NNP was/VBD strongly/RB backed/VBN by/IN voters/NNS who/WP said/VBD their/PRP$ family/NN 's/POS finances/NNS were/VBD better/JJR than/IN four/CD years/NNS ago/RB ./.
 
 (ROOT
   (S
@@ -1308,8 +1228,6 @@ num(years-17, four-16)
 npadvmod(ago-18, years-17)
 advmod(were-13, ago-18)
 
-Bush/NNP won/VBD the/DT support/NN of/IN those/DT who/WP said/VBD their/PRP$ financial/JJ situation/NN had/VBD deteriorated/VBN ./.
-
 (ROOT
   (S
     (NP (NNP Bush))
@@ -1342,8 +1260,6 @@ amod(situation-11, financial-10)
 nsubj(deteriorated-13, situation-11)
 aux(deteriorated-13, had-12)
 ccomp(said-8, deteriorated-13)
-
-In/IN 1996/CD ,/, one/CD in/IN three/CD voters/NNS said/VBD their/PRP$ economic/JJ situation/NN had/VBD improved/VBN over/IN the/DT previous/JJ four/CD years/NNS ./.
 
 (ROOT
   (S
@@ -1379,8 +1295,6 @@ amod(years-18, previous-16)
 num(years-18, four-17)
 prep_over(improved-13, years-18)
 
-This/DT year/NN ,/, half/NN did/VBD ./.
-
 (ROOT
   (S
     (NP (DT This) (NN year))
@@ -1393,8 +1307,6 @@ det(year-2, This-1)
 tmod(did-5, year-2)
 nsubj(did-5, half-4)
 root(ROOT-0, did-5)
-
-Generally/RB ,/, those/DT who/WP say/VBP their/PRP$ economic/JJ conditions/NNS have/VBP not/RB changed/VBN divide/VB their/PRP$ support/NN between/IN the/DT two/CD major/JJ candidates/NNS pretty/JJ evenly/RB ./.
 
 (ROOT
   (S
@@ -1440,8 +1352,6 @@ prep_between(support-14, candidates-19)
 xcomp(divide-12, pretty-20)
 advmod(changed-11, evenly-21)
 
-This/DT year/NN ,/, though/NNP ,/, two/CD in/IN three/CD voted/NN for/IN Bush/NNP ./.
-
 (ROOT
   (NP
     (NP (DT This) (NN year))
@@ -1464,8 +1374,6 @@ appos(year-2, two-6)
 num(voted-9, three-8)
 prep_in(two-6, voted-9)
 prep_for(voted-9, Bush-11)
-
-Data/NNP for/IN 2000/CD were/VBD collected/VBN by/IN Voter/NNP News/NNP Service/NNP based/VBN on/IN questionnaires/VBZ completed/VBN by/IN 13,279/CD voters/NNS leaving/VBG 300/CD polling/VBG places/NNS around/IN the/DT nation/NN on/IN Election/NNP Day/NNP ./.
 
 (ROOT
   (S
@@ -1516,8 +1424,6 @@ prep_around(leaving-17, nation-23)
 nn(Day-26, Election-25)
 prep_on(nation-23, Day-26)
 
-Data/NNP for/IN 1996/CD were/VBD based/VBN on/IN a/DT survey/NN conducted/VBN by/IN Voter/NNP News/NNP Service/NNP based/VBN on/IN questionnaires/VBZ with/IN 16,627/CD voters/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -1556,8 +1462,6 @@ prepc_on(based-14, questionnaires-16)
 num(voters-19, 16,627-18)
 prep_with(questionnaires-16, voters-19)
 
-Data/NNP for/IN 1992/CD were/VBD based/VBN on/IN a/DT survey/NN conducted/VBN by/IN Voter/NNP Research/NNP and/CC Surveys/NNP with/IN 15,490/CD voters/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -1591,8 +1495,6 @@ agent(conducted-9, Surveys-14)
 conj_and(Research-12, Surveys-14)
 num(voters-17, 15,490-16)
 prep_with(conducted-9, voters-17)
-
-Data/NNP for/IN 1976/CD through/IN 1988/CD were/VBD based/VBN on/IN surveys/NNS conducted/VBN by/IN The/DT New/NNP York/NNP Times/NNP and/CC CBS/NNP News/NNP :/: 11,645/CD in/IN 1988/CD ;/: 9,174/CD in/IN 1984/CD ;/: 15,201/CD in/IN 1980/CD and/CC 15,300/CD in/IN 1976/CD ./.
 
 (ROOT
   (S
@@ -1662,8 +1564,6 @@ agent(conducted-10, 15,300-32)
 conj_and(Times-15, 15,300-32)
 prep_in(15,300-32, 1976-34)
 
-Family/RB income/JJ categories/NNS in/IN 1976/CD :/: Under/IN $8,000/CD ,/, $8,000-$12,000/CD ,/, $12,001-$20,000/CD ,/, and/CC over/IN $20,000/CD ./.
-
 (ROOT
   (S
     (S
@@ -1703,8 +1603,6 @@ conj_and($8,000-$12,000-10, over-15)
 parataxis(categories-3, $20,000-16)
 conj_and($8,000-$12,000-10, $20,000-16)
 
-In/IN 1980/CD :/: Under/IN $10,000/CD ,/, $10,000-$24,999/CD ,/, $25,000-$50,000/CD and/CC over/IN $50,000/CD ./.
-
 (ROOT
   (FRAG
     (FRAG
@@ -1734,8 +1632,6 @@ amod($50,000-12, over-11)
 dep(1980-2, $50,000-12)
 conj_and($10,000-$24,999-7, $50,000-12)
 
-In/IN 1984/CD :/: Under/IN $12,500/CD ,/, $12,500-$24,999/CD ,/, $25,000-$50,000/CD and/CC over/IN $50,000/CD ./.
-
 (ROOT
   (FRAG
     (FRAG
@@ -1764,8 +1660,6 @@ amod($12,500-$24,999-7, $25,000-$50,000-9)
 amod($50,000-12, over-11)
 dep(1984-2, $50,000-12)
 conj_and($12,500-$24,999-7, $50,000-12)
-
-In/IN 1988/CD :/: Under/IN $12,500/CD ,/, $12,500-$24,999/CD ,/, $25,000-$50,000/CD ,/, over/IN $50,000/CD and/CC over/IN $100,000/CD ./.
 
 (ROOT
   (FRAG
@@ -1800,8 +1694,6 @@ appos($12,500-$24,999-7, $50,000-12)
 quantmod($100,000-15, over-14)
 appos($12,500-$24,999-7, $100,000-15)
 conj_and($50,000-12, $100,000-15)
-
-In/IN 1992/CD :/: Under/IN $15,000/CD ,/, $15,000-$29,999/CD ,/, $30,000-$49,999/CD ,/, $50,000/CD and/CC over/RB ,/, and/CC $100,000/CD and/CC over/RB ./.
 
 (ROOT
   (FRAG
@@ -1847,8 +1739,6 @@ pobj(Under-4, $100,000-16)
 conj_and($15,000-5, $100,000-16)
 conj_and($15,000-5, over-18)
 conj_and($100,000-16, over-18)
-
-The/DT category/NN of/IN independents/NNS includes/NNS respondents/NNS who/WP indicated/VBD they/PRP considered/VBN themselves/VBZ ``something/VBG else/NN ''/'' in/IN 1972/CD ,/, 1992/CD ,/, 1996/CD and/CC 2000/CD ./.
 
 (ROOT
   (S
@@ -1896,8 +1786,6 @@ num(1992-18, 1996-20)
 dobj(``something-12, 2000-22)
 conj_and(1992-18, 2000-22)
 
-``Something/NN else/NN ''/'' was/VBD not/RB an/DT option/NN the/DT other/JJ years/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -1918,8 +1806,6 @@ root(ROOT-0, option-7)
 det(years-10, the-8)
 amod(years-10, other-9)
 dep(option-7, years-10)
-
-Male/JJ and/CC female/JJ college/NN graduates/VBZ include/VBP those/DT with/IN postgraduate/NN education/NN ./.
 
 (ROOT
   (S
@@ -1944,8 +1830,6 @@ root(ROOT-0, include-6)
 dobj(include-6, those-7)
 nn(education-10, postgraduate-9)
 prep_with(those-7, education-10)
-
-In/IN 1984/CD ,/, first-time/JJ voter/NN refers/NNS to/TO voters/NNS first/RB registered/VBD to/TO vote/VB in/IN that/DT year/NN ./.
 
 (ROOT
   (S
@@ -1978,8 +1862,6 @@ xcomp(registered-10, vote-12)
 det(year-15, that-14)
 prep_in(vote-12, year-15)
 
-In/IN 1976/CD and/CC 1980/CD the/DT Congressional/NNP vote/NN does/VBZ not/RB include/VB New/NNP York/NNP and/CC California/NNP ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -2007,8 +1889,6 @@ nn(York-12, New-11)
 dobj(include-10, York-12)
 dobj(include-10, California-14)
 conj_and(York-12, California-14)
-
-Family/RB financial/JJ situation/NN is/VBZ compared/VBN to/TO one/CD year/NN ago/RB in/IN 1976/CD and/CC 1980/CD and/CC four/CD years/NNS ago/RB in/IN 1984/CD ,/, 1992/CD ,/, 1996/CD and/CC 2000/CD ;/: 1976/CD and/CC 1984/CD data/NNS are/VBP from/IN NBC/NNP News/NNP ./.
 
 (ROOT
   (S
@@ -2050,10 +1930,10 @@ Family/RB financial/JJ situation/NN is/VBZ compared/VBN to/TO one/CD year/NN ago
 advmod(compared-5, Family-1)
 amod(situation-3, financial-2)
 nsubjpass(compared-5, situation-3)
-nsubjpass(compared-5, situation-3)
+nsubjpass(compared-5', situation-3)
 auxpass(compared-5, is-4)
 root(ROOT-0, compared-5)
-conj_and(compared-5, compared-5)
+conj_and(compared-5, compared-5')
 num(year-8, one-7)
 prep_to(compared-5, year-8)
 advmod(year-8, ago-9)
@@ -2063,7 +1943,7 @@ conj_and(1976-11, 1980-13)
 num(years-16, four-15)
 npadvmod(ago-17, years-16)
 conj(compared-5, ago-17)
-prep_in(compared-5, 1984-19)
+prep_in(compared-5', 1984-19)
 dobj(compared-5, 1992-21)
 num(1992-21, 1996-23)
 dobj(compared-5, 2000-25)
@@ -2075,8 +1955,6 @@ nsubj(are-31, data-30)
 parataxis(compared-5, are-31)
 nn(News-34, NBC-33)
 prep_from(are-31, News-34)
-
-Those/NN who/WP gave/VBD no/DT answer/NN are/VBP not/RB shown/VBN ./.
 
 (ROOT
   (S
@@ -2099,8 +1977,6 @@ dobj(gave-3, answer-5)
 auxpass(shown-8, are-6)
 neg(shown-8, not-7)
 root(ROOT-0, shown-8)
-
-Dashes/NNS indicate/VBP that/IN a/DT question/NN was/VBD not/RB asked/VBN or/CC a/DT category/NN was/VBD not/RB provided/VBN in/IN a/DT particular/JJ year/NN ./.
 
 (ROOT
   (S
@@ -2138,8 +2014,6 @@ det(year-18, a-16)
 amod(year-18, particular-17)
 prep_in(provided-14, year-18)
 
-Asterisks/DT indicate/NN that/WDT there/RB was/VBD an/DT insufficient/JJ number/NN of/IN respondents/NNS ./.
-
 (ROOT
   (NP (DT Asterisks) (NN indicate)
     (SBAR
@@ -2162,8 +2036,6 @@ det(number-8, an-6)
 amod(number-8, insufficient-7)
 ccomp(indicate-2, number-8)
 prep_of(number-8, respondents-10)
-
-NYT-11-11-00/CD 1036EST/CD
 
 (ROOT
   (FRAG

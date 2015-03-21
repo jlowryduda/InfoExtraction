@@ -1,5 +1,3 @@
-APW20001023.2100.0686/DT NEWS/NNP STORY/NNPS 2000-10-23/CD 21:28:28/CD
-
 (ROOT
   (NP
     (NP (DT APW20001023.2100.0686))
@@ -12,16 +10,12 @@ dep(APW20001023.2100.0686-1, STORY-3)
 num(21:28:28-5, 2000-10-23-4)
 dep(APW20001023.2100.0686-1, 21:28:28-5)
 
-HKN-Roy-Arrest/JJS
-
 (ROOT
   (FRAG
     (S
       (ADJP (JJS HKN-Roy-Arrest)))))
 
 root(ROOT-0, HKN-Roy-Arrest-1)
-
-Police/NNP :/: Roy/NNP 's/POS Wife/NNP Feared/NNP Husband/NNP
 
 (ROOT
   (NP
@@ -37,8 +31,6 @@ nn(Husband-7, Wife-5)
 nn(Husband-7, Feared-6)
 dep(Police-1, Husband-7)
 
-LITTLETON/NNP ,/, Colo/NNP ./.
-
 (ROOT
   (NP
     (NP (NNP LITTLETON))
@@ -48,8 +40,6 @@ LITTLETON/NNP ,/, Colo/NNP ./.
 
 root(ROOT-0, LITTLETON-1)
 appos(LITTLETON-1, Colo-3)
-
-[AP/NNP ]/NNP _/, The/DT wife/NN of/IN Patrick/NNP Roy/NNP ,/, the/DT NHL/NNP 's/POS winningest/JJS goalie/NN ,/, called/VBN 911/CD because/IN she/PRP was/VBD afraid/VBN of/IN what/WP her/PRP$ husband/NN would/MD do/VB as/IN they/PRP argued/VBD about/IN in-laws/NN ,/, according/VBG to/TO a/DT police/NN report/NN released/VBD Monday/NNP ./.
 
 (ROOT
   (S
@@ -126,8 +116,6 @@ nn(report-38, police-37)
 pobj(argued-30, report-38)
 root(ROOT-0, released-39)
 tmod(released-39, Monday-40)
-
-Michele/NNP Roy/NNP was/VBD not/RB hurt/VB during/IN the/DT dispute/NN at/IN their/PRP$ home/NN early/RB Sunday/NNP ,/, but/CC Roy/NNP admitted/VBN pulling/VBG a/DT bedroom/NN door/NN off/IN its/PRP$ hinges/NNS and/CC damaging/VBG another/DT after/IN his/PRP$ wife/NN called/VBD Greenwood/NNP Village/NNP police/NNS and/CC hung/VBG up/RP without/IN speaking/NN ,/, the/DT report/NN said/VBD ./.
 
 (ROOT
   (S
@@ -210,8 +198,6 @@ det(report-42, the-41)
 nsubj(said-43, report-42)
 root(ROOT-0, said-43)
 
-The/DT somber/NN Colorado/NNP Avalanche/NNP goalie/NN ,/, accompanied/VBN by/IN his/PRP$ parents,/NN sister/NN and/CC brother/NN ,/, stood/VBN with/IN his/PRP$ hands/NNS clasped/VBD behind/IN his/PRP$ back/RB during/IN a/DT brief/NN court/NN appearance/NN ./.
-
 (ROOT
   (S
     (NP
@@ -257,8 +243,6 @@ nn(appearance-27, brief-25)
 nn(appearance-27, court-26)
 prep_during(clasped-19, appearance-27)
 
-The/DT initial/JJ hearing/NN was/VBD postponed/VBN until/IN Nov/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (JJ initial) (NN hearing))
@@ -275,16 +259,12 @@ auxpass(postponed-5, was-4)
 root(ROOT-0, postponed-5)
 prep_until(postponed-5, Nov-7)
 
-7/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 7))
     (. .)))
 
 root(ROOT-0, 7-1)
-
-Roy/NNP remained/VBD free/RB on/IN a/DT $750/JJ bail/NN and/CC left/VBN by/IN a/DT side/JJ door/NN without/IN comment/NN ./.
 
 (ROOT
   (S
@@ -315,8 +295,6 @@ amod(door-13, side-12)
 prep_by(left-9, door-13)
 prep_without(left-9, comment-15)
 
-His/PRP$ wife/NN was/VBD absent/RB ./.
-
 (ROOT
   (S
     (NP (PRP$ His) (NN wife))
@@ -328,8 +306,6 @@ poss(wife-2, His-1)
 nsubj(was-3, wife-2)
 root(ROOT-0, was-3)
 advmod(was-3, absent-4)
-
-The/DT judge/NN also/RB issued/VBD a/DT restraining/JJ order/NN that/WDT is/VBZ standard/VBN in/IN domestic-dispute/JJ cases/NNS ,/, which/WDT requires/VBZ Roy/NNP to/TO refrain/VB from/IN alcohol/NN and/CC illegal/JJ drugs/NNS and/CC possession/NN of/IN guns/NNS or/CC weapons/NNS ./.
 
 (ROOT
   (S
@@ -398,8 +374,6 @@ prep_of(possession-26, guns-28)
 prep_of(possession-26, weapons-30)
 conj_or(guns-28, weapons-30)
 
-He/PRP was/VBD permitted/VBN to/TO return/VB home/NN to/TO his/PRP$ family/NN and/CC is/VBZ allowed/VBN to/TO travel/VB with/IN the/DT team/NN to/TO out-of-state/VB games/NNS ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -446,8 +420,6 @@ prep_with(travel-14, team-17)
 aux(out-of-state-19, to-18)
 vmod(team-17, out-of-state-19)
 dobj(out-of-state-19, games-20)
-
-After/IN the/DT Avalanche/NNP 's/POS practice/NN ,/, Roy/NNP read/VB a/DT brief/NN statement/NN ,/, noting/VBG that/IN he/PRP could/MD not/RB comment/VB on/IN his/PRP$ arrest/NN on/IN the/DT advice/NN of/IN his/PRP$ lawyer/NN ./.
 
 (ROOT
   (S
@@ -497,8 +469,6 @@ prep_on(comment-18, advice-24)
 poss(lawyer-27, his-26)
 prep_of(advice-24, lawyer-27)
 
-He/PRP also/RB asked/VBD that/IN the/DT public/NN respect/VB his/PRP$ family/NN 's/POS privacy/NN ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -523,8 +493,6 @@ ccomp(asked-3, respect-7)
 poss(family-9, his-8)
 poss(privacy-11, family-9)
 dobj(respect-7, privacy-11)
-
-``Obviously/RB ,/, this/DT is/VBZ creating/VBG a/DT distraction/NN ,/, and/CC my/PRP$ wish/JJ is/VBZ that/IN this/DT distraction/NN will/MD be/VB over/IN soon/NN ,''/, he/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -572,8 +540,6 @@ punct(said-22, ,''-20)
 nsubj(said-22, he-21)
 ccomp(be-17, said-22)
 
-``I/NNP am/NN thankful/NN for/IN the/DT support/NN I/PRP am/VBP getting/VBG from/IN my/PRP$ family/NN and/CC every/NN one/NN of/IN my/PRP$ teammates/NNS .''/.
-
 (ROOT
   (S
     (S
@@ -609,8 +575,6 @@ conj_and(family-12, one-15)
 poss(teammates-18, my-17)
 prep_of(family-12, teammates-18)
 punct(getting-9, .''-19)
-
-Colorado/NNP players/NNS showed/VBD unified/JJ support/NN for/IN Roy/NNP ,/, saying/VBG they/PRP believe/VBP he/PRP will/MD remain/VB focused/VBD after/IN an/DT eight-game/JJ [6-0-2/JJ ]/NN unbeaten/NNS streak/VB to/TO start/VB the/DT season/NN ./.
 
 (ROOT
   (S
@@ -670,8 +634,6 @@ xcomp(streak-22, start-24)
 det(season-26, the-25)
 dobj(start-24, season-26)
 
-The/DT team/NN 's/POS next/JJ game/NN is/VBZ at/IN home/NN Wednesday/NN against/IN Nashville/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -693,8 +655,6 @@ root(ROOT-0, is-6)
 nn(Wednesday-9, home-8)
 prep_at(is-6, Wednesday-9)
 prep_against(Wednesday-9, Nashville-11)
-
-``We/NNP 've/MD always/RB stuck/VB together/RB and/CC we/PRP 'll/MD stick/VB by/IN Patrick/NNP ,''/CC defenseman/JJ Ray/NNP Bourque/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -732,8 +692,6 @@ prep_by(stick-9, Bourque-15)
 conj_,''(Patrick-11, Bourque-15)
 vmod(Patrick-11, said-16)
 
-``We/IN know/VBP he/PRP is/VBZ a/DT quality/NN person/NN and/CC a/DT great/JJ family/NN man/NN .''/.
-
 (ROOT
   (S
     (SBAR (IN ``We)
@@ -759,8 +717,6 @@ amod(man-12, great-10)
 nn(man-12, family-11)
 conj_and(person-7, man-12)
 punct(person-7, .''-13)
-
-Defenseman/NNP Aaron/NNP Miller/NNP said/VBD ,/, ``Until/NNP we/PRP find/VBD out/RP exactly/RB what's/VBZ going/VBG on/RP ,/, we/PRP 're/VBP not/RB going/VBG to/TO let/VB it/PRP bother/RB us/PRP or/CC distract/VB us/PRP ./.
 
 (ROOT
   (S
@@ -826,8 +782,6 @@ xcomp(going-18, distract-25)
 conj_or(let-20, distract-25)
 dobj(distract-25, us-26)
 
-I/PRP think/VBP I/PRP speak/NN for/IN the/DT whole/JJ team/NN that/IN we/PRP 're/VBP behind/IN Patty/NNP 100/CD percent/JJ .''/.
-
 (ROOT
   (S
     (NP (PRP I))
@@ -860,8 +814,6 @@ prep_behind('re-11, Patty-13)
 num(Patty-13, 100-14)
 advmod('re-11, percent-15)
 punct(think-2, .''-16)
-
-Roy/NNP ,/, 35/CD ,/, was/VBD arrested/VBN and/CC charged/VBD Sunday/NN with/IN misdemeanor/NN criminal/JJ mischief/NN which/WDT occurred/VBD during/IN an/DT act/NN of/IN domestic/JJ violence/NN ./.
 
 (ROOT
   (S
@@ -906,8 +858,6 @@ det(act-18, an-17)
 prep_during(occurred-15, act-18)
 amod(violence-21, domestic-20)
 prep_of(act-18, violence-21)
-
-If/IN convicted/JJ ,/, he/PRP faces/VBZ a/DT maximum/NN of/IN one/CD year/NN in/IN the/DT county/NN jail/NN and/CC a/DT $1,000/CD fine/NN ,/, said/VBD a/DT spokesman/NN for/IN the/DT Arapahoe/NNP County/NNP district/VB attorney/NN 's/POS office/NN ./.
 
 (ROOT
   (SINV
@@ -965,8 +915,6 @@ dep(said-20, district-27)
 poss(office-30, attorney-28)
 dobj(district-27, office-30)
 
-Officers/NNS responded/VBD to/TO the/DT 911/CD hang-up/NN call/NN at/IN Roy/NNP 's/POS residence/NN ,/, where/WRB Michele/NNP Roy/NNP told/VBD them/PRP the/DT two/CD had/VBD been/VBN arguing/VBG ./.
-
 (ROOT
   (S
     (NP (NNS Officers))
@@ -1011,8 +959,6 @@ aux(arguing-22, had-20)
 aux(arguing-22, been-21)
 ccomp(told-16, arguing-22)
 
-Roy/NNP was/VBD honored/VBN Friday/JJ night/NN for/IN winning/VBG his/PRP$ 448th/JJ game/NN three/CD days/NNS before/RB ,/, a/DT 4-3/JJ victory/NN in/IN overtime/JJ against/IN the/DT Washington/NNP Capitals/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Roy))
@@ -1054,8 +1000,6 @@ prep_in(victory-17, overtime-19)
 det(Capitals-23, the-21)
 nn(Capitals-23, Washington-22)
 prep_against(overtime-19, Capitals-23)
-
-He/PRP broke/VBD the/DT mark/NN set/VBN by/IN Terry/NNP Sawchuk/NNP ./.
 
 (ROOT
   (S

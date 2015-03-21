@@ -1,5 +1,3 @@
-APW20001205.1847.0645/DT NEWS/NNP STORY/NNPS 2000-12-05/CD 19:32:18/CD
-
 (ROOT
   (NP
     (NP (DT APW20001205.1847.0645))
@@ -12,14 +10,10 @@ dep(APW20001205.1847.0645-1, STORY-3)
 num(19:32:18-5, 2000-12-05-4)
 dep(APW20001205.1847.0645-1, 19:32:18-5)
 
-Chile-Pinochet/JJ
-
 (ROOT
   (ADJP (JJ Chile-Pinochet)))
 
 root(ROOT-0, Chile-Pinochet-1)
-
-Court/NNP Blocks/NNS Pinochet/NNP House/NNP Arrest/JJS
 
 (ROOT
   (NP
@@ -32,8 +26,6 @@ root(ROOT-0, Blocks-2)
 nn(House-4, Pinochet-3)
 dep(Blocks-2, House-4)
 dep(Blocks-2, Arrest-5)
-
-SANTIAGO/NNP ,/, Chile/NNP [AP/NNP ]/NNP _/, A/DT court/NN of/IN appeals/NNS on/IN Tuesday/NNP suspended/VBD Gen/NNP ./.
 
 (ROOT
   (S
@@ -62,8 +54,6 @@ prep_of(court-8, appeals-10)
 prep_on(appeals-10, Tuesday-12)
 root(ROOT-0, suspended-13)
 dobj(suspended-13, Gen-14)
-
-Augusto/NNP Pinochet/NNP 's/POS house/NN arrest/NN while/IN it/PRP studied/VBD a/DT judge/NN 's/POS explanation/NN for/IN indicting/VBG the/DT former/JJ dictator/NN on/IN homicide/NN and/CC kidnapping/JJ charges/NNS ./.
 
 (ROOT
   (NP
@@ -107,8 +97,6 @@ nn(charges-22, homicide-19)
 conj_and(homicide-19, kidnapping-21)
 nn(charges-22, kidnapping-21)
 prep_on(indicting-14, charges-22)
-
-Meanwhile/RB ,/, angry/JJ supporters/NNS of/IN Pinochet/NNP intensified/VBD their/PRP$ campaign/NN to/TO have/VB Judge/NNP Juan/NNP Guzman/NNP ,/, who/WP issued/VBD the/DT indictment/NN Friday/NN ,/, removed/VBN from/IN the/DT case/NN ./.
 
 (ROOT
   (S
@@ -158,8 +146,6 @@ dobj(issued-17, Friday-20)
 vmod(Friday-20, removed-22)
 det(case-25, the-24)
 prep_from(removed-22, case-25)
-
-The/DT court/NN of/IN appeals/NNS panel/NN voted/VBD 3-0/CD to/TO suspend/VB Guzman/NNP 's/POS arrest/JJS order/NN until/IN it/PRP decides/VBZ whether/IN to/TO uphold/JJ or/CC repeal/VB his/PRP$ indictment/NN of/IN the/DT 85-year-old/JJ general/NN ./.
 
 (ROOT
   (S
@@ -220,8 +206,6 @@ det(general-27, the-25)
 amod(general-27, 85-year-old-26)
 prep_of(indictment-23, general-27)
 
-Guzman/NNP submitted/VBD his/PRP$ explanation/NN Tuesday/NNP ,/, but/CC its/PRP$ contents/NNS were/VBD unknown/VBN ./.
-
 (ROOT
   (S
     (S
@@ -246,8 +230,6 @@ poss(contents-9, its-8)
 nsubjpass(unknown-11, contents-9)
 auxpass(unknown-11, were-10)
 conj_but(submitted-2, unknown-11)
-
-The/DT court/NN is/VBZ to/TO reconvene/VB Wednesday/NN or/CC Thursday/NN to/TO hear/VB arguments/NNS from/IN lawyers/NNS on/IN both/DT sides/NNS ./.
 
 (ROOT
   (S
@@ -286,8 +268,6 @@ prep_from(hear-10, lawyers-13)
 det(sides-16, both-15)
 prep_on(lawyers-13, sides-16)
 
-The/DT court/NN panel/NN also/RB blocked/VBD actions/NNS related/VBN to/TO the/DT indictment/NN ,/, including/VBG a/DT prohibition/NN on/IN Pinochet/NNP traveling/VBG abroad/RB ./.
-
 (ROOT
   (S
     (NP (DT The) (NN court) (NN panel))
@@ -324,8 +304,6 @@ prep_on(prohibition-14, Pinochet-16)
 vmod(Pinochet-16, traveling-17)
 advmod(traveling-17, abroad-18)
 
-Pinochet/NNP ,/, meanwhile/RB ,/, remained/VBD at/IN his/PRP$ country/NN house/NN southwest/JJS of/IN Santiago/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Pinochet))
@@ -349,8 +327,6 @@ nn(house-9, country-8)
 prep_at(remained-5, house-9)
 xcomp(remained-5, southwest-10)
 prep_of(southwest-10, Santiago-12)
-
-Minor/NNP scuffles/VBZ broke/NN among/IN Pinochet/NNP 's/POS supporters/NNS and/CC opponents/NNS outside/VBP the/DT court/NN building/NN during/IN the/DT 90-minute/JJ session/NN ./.
 
 (ROOT
   (S
@@ -387,8 +363,6 @@ det(session-17, the-15)
 amod(session-17, 90-minute-16)
 prep_during(outside-10, session-17)
 
-Police/NNP separated/VBD them/PRP ./.
-
 (ROOT
   (S
     (NP (NNP Police))
@@ -399,8 +373,6 @@ Police/NNP separated/VBD them/PRP ./.
 nsubj(separated-2, Police-1)
 root(ROOT-0, separated-2)
 dobj(separated-2, them-3)
-
-Guzman/NNP indicted/VBD Pinochet/NNP ,/, holding/VBG him/PRP responsible/JJ for/IN the/DT actions/NNS by/IN the/DT ``Caravan/NN of/IN Death/NNP ,''/IN a/DT military/JJ party/NN that/WDT killed/VBD 73/CD political/JJ prisoners/NNS shortly/RB after/IN the/DT 1973/CD coup/NN in/IN which/WDT Pinochet/NNP ousted/VBD Marxist/NNP President/NNP Salvador/NNP Allende/NNP ./.
 
 (ROOT
   (S
@@ -472,8 +444,6 @@ nn(Allende-37, President-35)
 nn(Allende-37, Salvador-36)
 dobj(ousted-33, Allende-37)
 
-Pinochet/NNP was/VBD charged/VBN with/IN homicide/NN for/IN 55/CD victims/NNS whose/WP$ bodies/NNS were/VBD recovered/VBN and/CC kidnapping/VBG for/IN 18/NNS who/WP remain/VBP unaccounted/VBN for/IN ./.
-
 (ROOT
   (S
     (NP (NNP Pinochet))
@@ -522,8 +492,6 @@ nsubj(remain-18, 18-16)
 rcmod(18-16, remain-18)
 acomp(remain-18, unaccounted-19)
 prep(unaccounted-19, for-20)
-
-Right-wing/VBG members/NNS of/IN congress/NN ,/, defense/NN lawyers/NNS ,/, retired/VBD army/JJ generals/NNS and/CC other/JJ backers/NNS of/IN Pinochet/NNP want/VBP Guzman/JJ ousted/VBN from/IN the/DT case/NN ,/, claiming/VBG he/PRP has/VBZ acted/VBN in/IN an/DT arbitrary/JJ and/CC irregular/JJ manner/NN that/WDT violates/VBZ Pinochet/NNP 's/POS rights/NNS ./.
 
 (ROOT
   (S
@@ -605,8 +573,6 @@ rcmod(manner-33, violates-35)
 poss(rights-38, Pinochet-36)
 dobj(violates-35, rights-38)
 
-Ambrosio/NNP Rodriguez/NNP ,/, a/DT key/JJ member/NN of/IN Pinochet/NNP 's/POS legal/JJ team/NN ,/, said/VBD complaints/NNS against/IN Guzman/NNP will/MD be/VB brought/VBN to/TO the/DT Supreme/NNP Court/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -651,8 +617,6 @@ det(Court-23, the-21)
 nn(Court-23, Supreme-22)
 prep_to(brought-19, Court-23)
 
-Guzman/NNP 's/POS actions/NNS are/VBP ``denigrating/VBG for/IN the/DT courts/NNS ,''/IN an/DT association/NN of/IN retired/JJ army/JJ generals/NNS said/VBD ./.
-
 (ROOT
   (S
     (NP
@@ -684,8 +648,6 @@ amod(generals-15, retired-13)
 amod(generals-15, army-14)
 prep_of(association-11, generals-15)
 advcl(``denigrating-5, said-16)
-
-And/CC right-wing/VBG Congressmen/NNP Ivan/NNP Moreira/NNP and/CC Cristian/NNP Leay/NNP said/VBD Guzman/NNP should/MD ``immediately/RB be/VB removed/VBN ''/'' from/IN the/DT case/NN ./.
 
 (ROOT
   (S (CC And)
@@ -724,8 +686,6 @@ ccomp(said-9, removed-14)
 det(case-18, the-17)
 prep_from(removed-14, case-18)
 
-The/DT increased/JJ criticism/NN of/IN Guzman/NNP came/VBD as/IN the/DT court/NN reviewed/VBD his/PRP$ reasons/NNS for/IN indicting/VBG Pinochet/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -757,8 +717,6 @@ poss(reasons-12, his-11)
 dobj(reviewed-10, reasons-12)
 prepc_for(reviewed-10, indicting-14)
 dobj(indicting-14, Pinochet-15)
-
-The/DT day/NN before/RB ,/, amid/JJ indications/NNS of/IN discontent/NN in/IN the/DT military/NN over/IN the/DT indictment/NN ,/, the/DT court/NN had/VBD given/VBN the/DT judge/NN a/DT 24-hour/JJ deadline/NN to/TO do/VB so/RB ./.
 
 (ROOT
   (S
@@ -812,8 +770,6 @@ aux(do-26, to-25)
 vmod(deadline-24, do-26)
 advmod(do-26, so-27)
 
-The/DT main/NN complaint/NN against/IN Guzman/NNP is/VBZ that/IN he/PRP indicted/VBD Pinochet/RB before/IN questioning/VBG him/PRP ,/, as/IN is/VBZ mandated/VBN by/IN law/NN ./.
-
 (ROOT
   (S
     (NP
@@ -854,8 +810,6 @@ mark(mandated-17, as-15)
 auxpass(mandated-17, is-16)
 advcl(indicted-9, mandated-17)
 agent(mandated-17, law-19)
-
-The/DT judge/NN 's/POS indictment/NN said/VBD Pinochet/NNP answered/VBD two/CD written/JJ questionnaires/VBZ sent/VBN to/TO him/PRP while/IN he/PRP was/VBD under/IN house/NN arrest/NN in/IN London/NNP until/IN last/JJ March/NNP ./.
 
 (ROOT
   (S
@@ -909,8 +863,6 @@ prep_in(arrest-19, London-21)
 amod(March-24, last-23)
 prep_until(was-16, March-24)
 
-Guzman/NNP said/VBD those/DT written/JJ questionnaires/VBZ must/MD be/VB considered/VBN the/DT mandatory/JJ interrogation/NN ./.
-
 (ROOT
   (S
     (NP (NNP Guzman))
@@ -939,8 +891,6 @@ det(interrogation-11, the-9)
 amod(interrogation-11, mandatory-10)
 dobj(considered-8, interrogation-11)
 
-Pinochet/NNP 's/POS defense/NN rejects/VBZ that/IN argument/NN ./.
-
 (ROOT
   (S
     (NP
@@ -955,8 +905,6 @@ poss(defense-3, Pinochet-1)
 nsubj(rejects-4, defense-3)
 root(ROOT-0, rejects-4)
 prep_that(rejects-4, argument-6)
-
-The/DT defense/NN also/RB protested/VBD that/IN Guzman/NNP indicted/VBD Pinochet/NNP without/IN first/RB permitting/VBG the/DT mental/JJ and/CC neurological/JJ tests/NNS he/PRP had/VBD ordered/VBN Pinochet/RB to/TO undergo/JJ to/TO determine/VB his/PRP$ fitness/NN to/TO stand/VB trial/NN ./.
 
 (ROOT
   (S
@@ -1026,8 +974,6 @@ aux(stand-28, to-27)
 vmod(fitness-26, stand-28)
 dobj(stand-28, trial-29)
 
-The/DT judge/NN insisted/VBD Tuesday/NNP that/IN he/PRP has/VBZ acted/VBN according/VBG to/TO the/DT law/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (NN judge))
@@ -1055,8 +1001,6 @@ prepc_according_to(acted-8, to-10)
 det(law-12, the-11)
 pobj(acted-8, law-12)
 
-``I/NNP am/NN at/IN the/DT disposition/NN of/IN our/PRP$ courts/NNS ./.
-
 (ROOT
   (S
     (NP (NNP ``I))
@@ -1074,8 +1018,6 @@ det(disposition-5, the-4)
 prep_at(am-2, disposition-5)
 poss(courts-8, our-7)
 prep_of(disposition-5, courts-8)
-
-I/PRP think/VBP I/PRP have/VBP made/VBN a/DT very/RB good/JJ investigation/NN ,''/IN he/PRP told/VBD Associated/VBN Press/NNP Television/NNP News/NNP ./.
 
 (ROOT
   (S
@@ -1113,8 +1055,6 @@ dep(told-12, Associated-13)
 nn(News-16, Press-14)
 nn(News-16, Television-15)
 dobj(Associated-13, News-16)
-
-The/DT Supreme/NNP Court/NNP _/, which/WDT has/VBZ the/DT authority/NN to/TO remove/VB Guzman/NNP from/IN the/DT case/NN _/NN has/VBZ also/RB asked/VBN Guzman/NNP to/TO explain/VB why/JJ he/PRP sent/VBD a/DT letter/NN of/IN support/NN to/TO Clara/NNP Szczaranski/NNP ,/, a/DT state/NN prosecutor/NN who/WP was/VBD a/DT plaintiff/NN against/IN Pinochet/NNP when/WRB he/PRP was/VBD stripped/VBN of/IN his/PRP$ congressional/JJ immunity/NN ./.
 
 (ROOT
   (S
@@ -1215,8 +1155,6 @@ poss(immunity-49, his-47)
 amod(immunity-49, congressional-48)
 prep_of(stripped-45, immunity-49)
 
-Szczaranski/NNP has/VBZ been/VBN criticized/VBN by/IN Pinochet/NNP supporters/NNS in/IN Congress/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Szczaranski))
@@ -1236,8 +1174,6 @@ root(ROOT-0, criticized-4)
 nn(supporters-7, Pinochet-6)
 agent(criticized-4, supporters-7)
 prep_in(criticized-4, Congress-9)
-
-The/DT appeals/NNS hearings/NNS may/MD take/VB two/CD or/CC three/CD days/NNS ./.
 
 (ROOT
   (S
@@ -1260,8 +1196,6 @@ num(days-9, two-6)
 conj_or(two-6, three-8)
 num(days-9, three-8)
 tmod(take-5, days-9)
-
-The/DT case/NN is/VBZ expected/VBN to/TO reach/VB the/DT Supreme/NNP Court/NNP ,/, since/IN both/DT sides/NNS have/VBP said/VBD they/PRP will/MD appeal/VB a/DT negative/JJ ruling/NN ./.
 
 (ROOT
   (S
@@ -1307,8 +1241,6 @@ ccomp(said-15, appeal-18)
 det(ruling-21, a-19)
 amod(ruling-21, negative-20)
 dobj(appeal-18, ruling-21)
-
-Rodriguez/NNP ,/, Pinochet/NNP 's/POS lawyer/NN ,/, said/VBD Tuesday/NNP 's/POS decision/NN ``allows/VBZ us/PRP to/TO calmly/VB prepare/JJ to/TO state/NN our/PRP$ case/NN in/IN court/NN tomorrow/NN .''/.
 
 (ROOT
   (S
@@ -1358,8 +1290,6 @@ prep_in(case-19, court-21)
 tmod(calmly-14, tomorrow-22)
 punct(said-7, .''-23)
 
-He/PRP indicated/VBD that/IN the/DT defense/NN will/MD center/JJ its/PRP$ arguments/NNS on/IN the/DT alleged/VBN ``irregular/JJ and/CC arbitrary/JJ ''/'' actions/NNS by/IN Guzman/NNP ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -1401,8 +1331,6 @@ amod(actions-17, arbitrary-15)
 prep_on(arguments-9, actions-17)
 conj_and(the-11, actions-17)
 prep_by(actions-17, Guzman-19)
-
-Anti-Pinochet/JJ attorney/NN Alfonso/NNP Insunza/NNP ,/, however/NN ,/, said/VBD the/DT ruling/VBG ``in/NN no/DT way/NN anticipates/VBZ ''/'' what/WP may/MD happen/VB with/IN the/DT indictment/NN ./.
 
 (ROOT
   (S

@@ -1,5 +1,3 @@
-APW20001224.2108.0553/DT NEWS/NNP STORY/NNPS 2000-12-24/CD 22:02:08/CD
-
 (ROOT
   (NP
     (NP (DT APW20001224.2108.0553))
@@ -12,14 +10,10 @@ dep(APW20001224.2108.0553-1, STORY-3)
 num(22:02:08-5, 2000-12-24-4)
 dep(APW20001224.2108.0553-1, 22:02:08-5)
 
-Iran-Jews/JJ
-
 (ROOT
   (ADJP (JJ Iran-Jews)))
 
 root(ROOT-0, Iran-Jews-1)
-
-Treatment/NN of/IN Non-Muslims/NNP Questioned/VBD
 
 (ROOT
   (S
@@ -32,8 +26,6 @@ Treatment/NN of/IN Non-Muslims/NNP Questioned/VBD
 nsubj(Questioned-4, Treatment-1)
 prep_of(Treatment-1, Non-Muslims-3)
 root(ROOT-0, Questioned-4)
-
-TEHRAN/NNP ,/, Iran/NNP [AP/NNP ]/NNP _/NNP Iran/NNP 's/POS only/JJ Jewish/JJ legislator/NN on/IN Sunday/NN criticized/VBN the/DT treatment/NN of/IN non-Muslims/NNS in/IN the/DT country/NN ,/, the/DT Islamic/NNP Republic/NNP News/NNP Agency/NNP reported/VBD ./.
 
 (ROOT
   (S
@@ -82,8 +74,6 @@ nn(Agency-27, Republic-25)
 nn(Agency-27, News-26)
 nsubj(reported-28, Agency-27)
 root(ROOT-0, reported-28)
-
-``I/NNP call/NN on/IN the/DT Muslim/NNP religious/JJ leaders/NNS and/CC the/DT officials/NNS of/IN the/DT judiciary/JJ to/TO pay/VB more/RBR attention/NN to/TO the/DT rights/NNS of/IN non-Muslim/JJ families/NNS as/RB far/RB as/IN issues/NNS such/JJ as/IN blood/DT money/NN and/CC the/DT verdicts/NNS of/IN the/DT courts/NNS are/VBP concerned/VBN ,''/, said/VBD Maurice/NNP Motamed/NNP ,/, the/DT sole/NN Jewish/JJ representative/NN in/IN Iran/NNP 's/POS 290-seat/JJ parliament/NN ./.
 
 (ROOT
   (SINV
@@ -181,8 +171,6 @@ poss(parliament-53, Iran-50)
 amod(parliament-53, 290-seat-52)
 prep_in(representative-48, parliament-53)
 
-Iran/NNP 's/POS criminal/JJ laws/NNS award/RB twice/JJ as/IN much/JJ blood/NN money/NN _/IN financial/JJ compensation/NN to/TO a/DT murder/NN victim/NN 's/POS family/NN _/NN to/TO Muslims/NNP than/IN to/TO non-Muslims/JJ ./.
-
 (ROOT
   (NP
     (NP
@@ -227,8 +215,6 @@ prep(twice-6, than-23)
 pcomp(than-23, to-24)
 pobj(to-24, non-Muslims-25)
 
-Motamed/NNP ,/, speaking/VBG during/IN a/DT session/NN at/IN the/DT Majlis/NNP ,/, or/CC parliament/NN ,/, also/RB criticized/JJ government/NN recruitment/NN policies/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -263,8 +249,6 @@ nn(policies-18, government-16)
 nn(policies-18, recruitment-17)
 root(ROOT-0, policies-18)
 
-Iran/JJ maintains/NNS that/IN all/DT of/IN its/PRP$ citizens/NNS ,/, regardless/NNS of/IN their/PRP$ race/NN or/CC religion/NN ,/, enjoy/JJ equal/JJ rights/NNS ./.
-
 (ROOT
   (NP
     (NP (JJ Iran) (NNS maintains))
@@ -297,8 +281,6 @@ conj_or(race-12, religion-14)
 amod(rights-18, enjoy-16)
 amod(rights-18, equal-17)
 appos(maintains-2, rights-18)
-
-Iranian/JJ Jews/NNS are/VBP allowed/VBN to/TO practice/VB aspects/NNS of/IN their/PRP$ religion/NN but/CC are/VBP forbidden/VBN to/TO teach/VB Hebrew/NNP ./.
 
 (ROOT
   (S
@@ -340,8 +322,6 @@ aux(teach-15, to-14)
 xcomp(forbidden-13, teach-15)
 dobj(teach-15, Hebrew-16)
 
-There/EX were/VBD 80,000/CD Jews/NNS in/IN Iran/NNP just/RB before/IN the/DT 1979/CD Islamic/JJ revolution/NN ,/, but/CC the/DT community/NN has/VBZ dwindled/VBN to/TO 25,000/CD ./.
-
 (ROOT
   (S
     (S
@@ -381,8 +361,6 @@ aux(dwindled-18, has-17)
 conj_but(were-2, dwindled-18)
 prep_to(dwindled-18, 25,000-20)
 
-It/PRP remains/VBZ the/DT largest/JJS Jewish/JJ community/NN in/IN the/DT Middle/NNP East/NNP outside/VBP Israel/NNP ./.
-
 (ROOT
   (S
     (NP (PRP It))
@@ -408,8 +386,6 @@ nn(East-10, Middle-9)
 prep_in(community-6, East-10)
 ccomp(remains-2, outside-11)
 dobj(outside-11, Israel-12)
-
-Iran/NNP came/VBD under/IN intense/NN international/JJ pressure/NN last/JJ year/NN after/IN it/PRP arrested/VBD 13/CD Iranian/JJ Jews/NNS and/CC later/RBR convicted/JJ 10/CD of/IN spying/VBG for/IN Israel/NNP ./.
 
 (ROOT
   (S

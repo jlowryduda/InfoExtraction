@@ -1,5 +1,3 @@
-NYT20001023.2203.0479/NNP NEWS/NNP STORY/NNP 2000-10-23/CD 22:33:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001023.2203.0479) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(22:33:00-5, 2000-10-23-4)
 dep(STORY-3, 22:33:00-5)
-
-A3907/CD &Cx1f/NN ;/: taf-z/NNP u/NNP p/NNP BC-CAMPAIGN-ADS-NYT/NNP &LR/NNP ;/: 10-23/CD 0836/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0836-11, 10-23-10)
 dep(&LR-8, 0836-11)
 
-BC-CAMPAIGN-ADS-NYT/NNP
-
 (ROOT
   (NP (NNP BC-CAMPAIGN-ADS-NYT)))
 
 root(ROOT-0, BC-CAMPAIGN-ADS-NYT-1)
-
-DEMOCRATS/NNP HAMMER/NNP AT/NNP BUSH'S/NNP TEXAS/NNP RECORD/.
 
 (ROOT
   (NP (NNP DEMOCRATS) (NNP HAMMER) (NNP AT) (NNP BUSH'S) (NNP TEXAS) (. RECORD)))
@@ -51,8 +43,6 @@ nn(TEXAS-5, AT-3)
 nn(TEXAS-5, BUSH'S-4)
 root(ROOT-0, TEXAS-5)
 punct(TEXAS-5, RECORD-6)
-
-&UR/NNS ;/: By/NNP PETER/NNP MARKS/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -86,8 +76,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -100,8 +88,6 @@ nn(&QC-4, News-2)
 nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
-
-Intensifying/VBG their/PRP$ assault/NN on/IN Gov./NNP George/NNP W./NNP Bush/NNP 's/POS job/NN performance/NN ,/, national/JJ and/CC local/JJ Democratic/JJ officials/NNS fanned/VBD out/RP to/TO nearly/RB 100/CD cities/NNS in/IN 20/CD hotly/RB contested/VBN states/NNS Monday/NNP to/TO introduce/VB a/DT new/JJ video/NN that/IN savages/NNP Bush/NNP 's/POS record/NN in/IN Texas/NNP on/IN matters/NNS like/IN air/NN quality/NN ,/, schools/NNS ,/, medical/JJ care/NN and/CC improving/VBG living/VBG conditions/NNS for/IN the/DT poor/NN ./.
 
 (ROOT
   (S
@@ -209,8 +195,6 @@ conj_and(quality-46, conditions-55)
 det(poor-58, the-57)
 prep_for(conditions-55, poor-58)
 
-The/DT 10-minute/JJ tape/NN ,/, titled/JJ ``Texans/NNS :/: In/IN Their/NNP Own/NNP Words/NNPS ,''/NNP is/VBZ the/DT latest/JJS in/IN a/DT series/NN of/IN attacks/NNS by/IN the/DT Democrats/NNPS on/IN Bush/NNP 's/POS five/CD years/NNS in/IN office/NN ./.
-
 (ROOT
   (S
     (NP
@@ -263,8 +247,6 @@ poss(years-28, Bush-25)
 num(years-28, five-27)
 prep_on(Democrats-23, years-28)
 prep_in(years-28, office-30)
-
-While/RB the/DT party/NN appears/NNS to/TO be/VB counting/VBG largely/RB on/IN local/JJ news/NN outlets/VBZ to/TO convey/VB the/DT video/NN 's/POS message/NN to/TO voters/NNS ,/, the/DT Democratic/JJ Party/NNP has/VBZ also/RB been/VBN running/VBG commercials/NNS in/IN cities/NNS like/IN Seattle/NN ,/, Des/NNP Moines/NNPS ,/, Iowa/NNP ,/, and/CC Tampa/NNP ,/, Fla./NNP ,/, to/TO attack/VB the/DT governor/NN 's/POS handling/NN of/IN issues/NNS of/IN local/JJ concern/NN ./.
 
 (ROOT
   (S
@@ -367,8 +349,6 @@ dobj(attack-46, handling-50)
 prep_of(handling-50, issues-52)
 amod(concern-55, local-54)
 prep_of(issues-52, concern-55)
-
-The/DT latest/JJS spots/NNS by/IN the/DT Bush/NNP campaign/NN and/CC the/DT Republican/NNP Party/NNP ,/, meanwhile/RB ,/, take/VB a/DT much/JJ softer/NN tack/NN :/: In/IN fact/NN ,/, two/CD new/JJ Bush/NNP commercials/NNS that/WDT began/VBP running/VBG Monday/NNP in/IN many/JJ swing/VBG states/NNS merely/RB reiterate/VBP the/DT governor/NN 's/POS thoughts/NNS and/CC ideas/NNS about/IN education/NN ,/, an/DT issue/NN he/PRP has/VBZ promoted/VBN on/IN television/NN since/IN the/DT New/NNP Hampshire/NNP primary/NN ./.
 
 (ROOT
   (S
@@ -475,8 +455,6 @@ nn(primary-58, New-56)
 nn(primary-58, Hampshire-57)
 prep_since(promoted-51, primary-58)
 
-``Parents/NNS need/VBP tools/NNS to/TO help/VB them/PRP protect/VB and/CC nurture/VB their/PRP$ families/NNS ,''/, Bush/NNP says/VBZ in/IN one/CD of/IN the/DT new/JJ spots/NNS ./.
-
 (ROOT
   (S
     (S
@@ -523,8 +501,6 @@ det(spots-20, the-18)
 amod(spots-20, new-19)
 prep_of(one-16, spots-20)
 
-In/IN the/DT other/JJ ,/, he/PRP says/VBZ ,/, ``How/NNP come/VBP the/DT hard/JJ things/NNS don't/TO get/VB done/NN ?/.
-
 (ROOT
   (S
     (PP (IN In)
@@ -557,8 +533,6 @@ aux(get-14, don't-13)
 xcomp(come-9, get-14)
 dobj(get-14, done-15)
 
-Because/IN they're/RB hard/JJ ./.
-
 (ROOT
   (FRAG
     (PP (IN Because)
@@ -570,8 +544,6 @@ Because/IN they're/RB hard/JJ ./.
 root(ROOT-0, Because-1)
 pcomp(Because-1, they're-2)
 dep(they're-2, hard-3)
-
-If/IN we/PRP want/VBP to/TO make/VB sure/JJ no/DT child/NN gets/VBZ left/VBN behind/IN in/IN America/NNP ,/, we/PRP need/VBP the/DT courage/NN to/TO do/VB some/DT tough/JJ things/NNS .''/.
 
 (ROOT
   (S
@@ -626,8 +598,6 @@ det(things-23, some-21)
 amod(things-23, tough-22)
 dobj(do-20, things-23)
 punct(need-16, .''-24)
-
-The/DT Democrats/NNPS '/POS continuing/NN emphasis/NN on/IN Bush/NNP 's/POS home-state/JJ record/NN is/VBZ a/DT reflection/NN of/IN a/DT strategy/NN of/IN attack/NN that/WDT has/VBZ been/VBN tried/VBN in/IN all/DT recent/JJ elections/NNS against/IN sitting/JJ or/CC former/JJ governors/NNS who/WP secure/VBP their/PRP$ party/NN nomination/NN for/IN president/NN ./.
 
 (ROOT
   (S
@@ -699,8 +669,6 @@ poss(nomination-36, their-34)
 nn(nomination-36, party-35)
 dobj(secure-33, nomination-36)
 prep_for(secure-33, president-38)
-
-In/IN the/DT last/JJ 25/CD years/NNS ,/, political/JJ analysts/NNS say/VBP ,/, the/DT tactic/NN has/VBZ succeeded/VBN only/RB once/RB ,/, when/WRB then-Vice/NNP President/NNP George/NNP Bush/NNP famously/RB disparaged/VBD Michael/NNP S./NNP Dukakis/NNP '/POS record/NN in/IN Massachusetts/NNP on/IN pollution/NN in/IN Boston/NNP Harbor/NNP and/CC shortcomings/NNS in/IN a/DT state/NN prison/NN furlough/NN program/NN ./.
 
 (ROOT
   (S
@@ -776,8 +744,6 @@ nn(program-44, prison-42)
 nn(program-44, furlough-43)
 prep_in(shortcomings-38, program-44)
 
-``Every/JJ time/NN a/DT governor/NN runs/NNS ,/, the/DT opponent/NN attacks/NNS his/PRP$ record/NN ./.
-
 (ROOT
   (NP
     (NP (JJ ``Every) (NN time))
@@ -799,8 +765,6 @@ nn(attacks-9, opponent-8)
 appos(runs-5, attacks-9)
 poss(record-11, his-10)
 dep(attacks-9, record-11)
-
-But/CC three/CD out/RB of/IN the/DT last/JJ four/CD times/NNS ,/, the/DT governor/NN has/VBZ won/VBN ,''/IN Darrell/NNP West/NNP ,/, a/DT political/JJ science/NN professor/NN at/IN Brown/NNP University/NNP who/WP analyzes/VBZ campaign/NN advertising/NN ,/, said/VBD of/IN similar/JJ attacks/NNS faced/VBN by/IN Jimmy/NNP Carter/NNP ,/, Ronald/NNP Reagan/NNP and/CC Bill/NNP Clinton/NNP ./.
 
 (ROOT
   (S (CC But)
@@ -878,8 +842,6 @@ nn(Clinton-43, Bill-42)
 agent(faced-34, Clinton-43)
 conj_and(Carter-37, Clinton-43)
 
-The/DT sharp/JJ critiques/NNS issued/VBN by/IN the/DT Gore/NNP campaign/NN and/CC its/PRP$ supporters/NNS ,/, West/NNP said/VBD ,/, have/VBP placed/VBN the/DT Democrats/NNPS in/IN an/DT unconventional/JJ position/NN ./.
-
 (ROOT
   (S
     (NP
@@ -920,8 +882,6 @@ dobj(placed-17, Democrats-19)
 det(position-23, an-21)
 amod(position-23, unconventional-22)
 prep_in(placed-17, position-23)
-
-``There/RB 's/VBZ been/VBN a/DT role/NN reversal/NN in/IN this/DT election/NN ,/, because/IN typically/RB the/DT challenger/NN goes/VBZ on/IN attack/NN and/CC the/DT incumbent/NN stays/NNS above/IN the/DT fray/NN ,''/IN he/PRP observed/VBD ./.
 
 (ROOT
   (S
@@ -978,8 +938,6 @@ mark(observed-27, ,''-25)
 nsubj(observed-27, he-26)
 rcmod(fray-24, observed-27)
 
-``And/RB here/RB you/PRP have/VBP Gore/RB playing/VBG the/DT challenger/NN role/NN .''/.
-
 (ROOT
   (S
     (ADVP (RB ``And))
@@ -1001,8 +959,6 @@ det(role-9, the-7)
 nn(role-9, challenger-8)
 dobj(playing-6, role-9)
 punct(have-4, .''-10)
-
-In/IN its/PRP$ new/JJ video/NN ,/, the/DT Democratic/JJ National/NNP Committee/NNP interviews/VBZ several/JJ Texans/NNPS with/IN complaints/VBZ about/IN what/WP they/PRP say/VBP are/VBP the/DT Bush/NNP administration/NN 's/POS neglectful/JJ attitudes/NNS about/IN their/PRP$ problems/NNS ./.
 
 (ROOT
   (S
@@ -1057,8 +1013,6 @@ ccomp(say-18, attitudes-25)
 poss(problems-28, their-27)
 prep_about(attitudes-25, problems-28)
 
-One/CD segment/NN features/VBZ the/DT destitute/NN hamlets/NNS ,/, or/CC colonias/NNS ,/, that/WDT are/VBP home/NN to/TO some/DT of/IN the/DT poorest/JJS Texans/NNPS ./.
-
 (ROOT
   (S
     (NP (CD One) (NN segment))
@@ -1099,8 +1053,6 @@ prep_to(home-13, some-15)
 det(poorest-18, the-17)
 prep_of(some-15, poorest-18)
 rcmod(hamlets-6, Texans-19)
-
-``Governor/NNP Bush/NNP has/VBZ never/RB visited/VBN a/DT colonia/NN ,/, so/RB to/TO the/DT extent/NN that/IN that/DT shows/VBZ how/WRB much/JJ of/IN a/DT priority/NN it/PRP is/VBZ for/IN him/PRP ,/, may/MD the/DT American/JJ public/NN decide/NN ,''/IN a/DT former/JJ colonia/NN resident/JJ comments/NNS ./.
 
 (ROOT
   (SINV
@@ -1165,8 +1117,6 @@ amod(comments-36, former-33)
 nn(comments-36, colonia-34)
 amod(comments-36, resident-35)
 prep_,''(decide-30, comments-36)
-
-The/DT Bush/NNP campaign/NN took/VBD issue/NN with/IN that/DT assertion/NN ,/, declaring/VBG in/IN a/DT statement/NN that/IN the/DT governor/NN had/VBD visited/VBN colonias/NNS ``three/`` times/NNS ''/'' while/IN inspecting/VBG flood/JJ damage/NN and/CC being/VBG briefed/VBN on/IN water/NN and/CC sewage/NN problems/NNS ./.
 
 (ROOT
   (S
@@ -1234,8 +1184,6 @@ conj_and(water-31, sewage-33)
 nn(problems-34, sewage-33)
 prep_on(briefed-29, problems-34)
 
-Some/DT of/IN the/DT video/NN 's/POS interviewees/NNS have/VBP been/VBN seen/VBN on/IN television/NN this/DT year/NN before/RB ./.
-
 (ROOT
   (S
     (NP
@@ -1265,8 +1213,6 @@ prep_on(seen-9, television-11)
 det(year-13, this-12)
 dep(television-11, year-13)
 advmod(seen-9, before-14)
-
-Tamara/NNP Maschino/NNP ,/, for/IN example/NN ,/, a/DT resident/NN of/IN the/DT Clear/NNP Lake/NNP area/NN of/IN Houston/NNP ,/, criticizes/VBZ Bush/NNP for/IN his/PRP$ lack/NN of/IN attention/NN to/TO pollution/VB problems/NNS from/IN chemical/NN plants/NNS near/IN her/PRP$ home/NN ./.
 
 (ROOT
   (S
@@ -1328,8 +1274,6 @@ prep_from(pollution-25, plants-29)
 poss(home-32, her-31)
 prep_near(plants-29, home-32)
 
-``We/NNP went/VBD to/TO Governor/NNP Bush/NNP 's/POS office/NN and/CC spoke/NN with/IN John/NNP Howard/NNP ,/, his/PRP$ top/JJ environmental/JJ aide/NN ,''/, Maschino/NNP says/VBZ in/IN the/DT video/NN ./.
-
 (ROOT
   (S
     (S
@@ -1373,8 +1317,6 @@ root(ROOT-0, says-20)
 det(video-23, the-22)
 prep_in(says-20, video-23)
 
-``We/RB met/VB him/PRP for/IN over/IN an/DT hour/NN ./.
-
 (ROOT
   (S
     (ADVP (RB ``We))
@@ -1393,8 +1335,6 @@ pcomp(for-4, over-5)
 det(hour-7, an-6)
 pobj(over-5, hour-7)
 
-Nothing/VBG happened/VBN .''/.
-
 (ROOT
   (S
     (S
@@ -1405,8 +1345,6 @@ Nothing/VBG happened/VBN .''/.
 csubj(happened-2, Nothing-1)
 root(ROOT-0, happened-2)
 punct(happened-2, .''-3)
-
-Maschino/NNP also/RB appeared/VBD in/IN an/DT attack/NN advertisement/NN broadcast/NN in/IN the/DT spring/NN by/IN the/DT Sierra/NNP Club/NNP ,/, in/IN which/WDT similar/JJ accusations/NNS were/VBD leveled/VBN ./.
 
 (ROOT
   (S
@@ -1448,8 +1386,6 @@ amod(accusations-20, similar-19)
 nsubjpass(leveled-22, accusations-20)
 auxpass(leveled-22, were-21)
 rcmod(Club-15, leveled-22)
-
-Joe/NNP Andrew/NNP ,/, national/JJ chairman/NN of/IN the/DT Democratic/JJ National/NNP Committee/NNP ,/, said/VBD the/DT aim/NN of/IN the/DT video/NN was/VBD to/TO personalize/VB the/DT policy/NN differences/NNS between/IN Bush/NNP and/CC Vice/NNP President/NNP Al/NNP Gore/NNP ./.
 
 (ROOT
   (S
@@ -1507,8 +1443,6 @@ nn(Gore-30, President-28)
 nn(Gore-30, Al-29)
 prep_between(differences-23, Gore-30)
 conj_and(Bush-25, Gore-30)
-
-``It/JJ becomes/NNS about/IN people/NNS ,/, not/RB politics/NNS ,/, when/WRB you/PRP hear/VBP the/DT individuals/NNS ,''/PRP said/VBD Andrew/NNP ,/, who/WP traveled/VBD to/TO Maine/NNP Monday/NNP to/TO show/VB the/DT video/NN to/TO reporters/NNS and/CC voters/NNS at/IN a/DT community/NN center/NN in/IN Portland/NNP and/CC on/IN a/DT college/NN campus/NN in/IN Bangor/NNP ./.
 
 (ROOT
   (S
@@ -1598,8 +1532,6 @@ nn(campus-41, college-40)
 prep_on(show-24', campus-41)
 prep_in(campus-41, Bangor-43)
 
-``We/NNP got/VBD 100/CD percent/NN of/IN the/DT TV/NNP stations/NNS in/IN Maine/NNP ''/'' to/TO attend/VB the/DT events/NNS ,/, he/PRP added/VBD ./.
-
 (ROOT
   (S
     (S
@@ -1636,8 +1568,6 @@ det(events-15, the-14)
 dobj(attend-13, events-15)
 nsubj(added-18, he-17)
 root(ROOT-0, added-18)
-
-Terry/NNP Holt/NNP ,/, communications/NNS director/NN for/IN Victory/JJ 2000/CD ,/, the/DT campaign/NN arm/NN of/IN the/DT Republican/NNP National/NNP Committee/NNP ,/, said/VBD the/DT video/NN was/VBD the/DT latest/JJS in/IN a/DT series/NN of/IN Democratic/JJ efforts/NNS to/TO get/VB a/DT prerecorded/JJ message/NN out/IN through/IN news/DT organizations/NNS ./.
 
 (ROOT
   (S
@@ -1707,8 +1637,6 @@ advmod(get-32, out-36)
 det(organizations-39, news-38)
 prep_through(out-36, organizations-39)
 
-``The/IN Gore/NNP campaign/NN has/VBZ been/VBN very/RB willing/JJ to/TO produce/VB television/NN spots/NNS for/IN the/DT purposes/NNS of/IN a/DT press/NN release/NN ,''/, he/PRP said/VBD ,/, adding/VBG that/IN it/PRP was/VBD a/DT fairly/RB economical/JJ tool/NN ./.
-
 (ROOT
   (S
     (SBAR (IN ``The)
@@ -1769,8 +1697,6 @@ advmod(economical-29, fairly-28)
 amod(tool-30, economical-29)
 ccomp(adding-23, tool-30)
 
-``You/PRP can/MD produce/VB a/DT spot/JJ today/NN for/IN $10,000/CD ,''/, Holt/NNP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -1796,8 +1722,6 @@ prep_for(today-6, $10,000-8)
 punct(said-11, ,''-9)
 nsubj(said-11, Holt-10)
 root(ROOT-0, said-11)
-
-``During/VBG the/DT Republican/NNP convention/NN they/PRP unveiled/VBD four/CD that/IN I/PRP don't/VBP think/VB anyone/NN ever/RB saw/. .''/.
 
 (ROOT
   (S
@@ -1831,8 +1755,6 @@ dobj(think-11, anyone-12)
 advmod(think-11, ever-13)
 punct(ever-13, saw-14)
 punct(unveiled-6, .''-15)
-
-NYT-10-23-00/CD 2233EDT/CD
 
 (ROOT
   (FRAG

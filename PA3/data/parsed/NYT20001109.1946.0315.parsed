@@ -1,5 +1,3 @@
-NYT20001109.1946.0315/NNP NEWS/NNP STORY/NNP 2000-11-09/CD 20:10:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001109.1946.0315) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(20:10:00-5, 2000-11-09-4)
 dep(STORY-3, 20:10:00-5)
-
-A3555/CD &Cx1f/NN ;/: taf-z/NNP u/NNP p/NNP BC-ELN-NADER-NYT/NNP &LR/NNP ;/: 11-09/CD 0796/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0796-11, 11-09-10)
 dep(&LR-8, 0796-11)
 
-BC-ELN-NADER-NYT/NNP
-
 (ROOT
   (NP (NNP BC-ELN-NADER-NYT)))
 
 root(ROOT-0, BC-ELN-NADER-NYT-1)
-
-NADER/NNP VOTERS/NNP GO/NNP ONLINE/NNP TO/NNP EXPRESS/NNP ANGER/NNP ,/, REGRET/NNP AND/NNP SOME/NNP SUPPORT/NNP
 
 (ROOT
   (NP
@@ -59,8 +51,6 @@ nn(SUPPORT-12, REGRET-9)
 nn(SUPPORT-12, AND-10)
 nn(SUPPORT-12, SOME-11)
 appos(ANGER-7, SUPPORT-12)
-
-&UR/NNS ;/: By/NNP JAMES/NNP DAO/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -94,8 +84,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -112,8 +100,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-WASHINGTON/NNP _/NNP Ralph/NNP Nader/NNP may/MD not/RB be/VB feeling/VBG any/DT regrets/NNS about/IN his/PRP$ Green/NNP Party/NNP presidential/JJ campaign/NN ,/, but/CC some/DT visitors/NNS to/TO the/DT chat/NN room/NN on/IN Nader2000.org/NNP ,/, Nader/NNP 's/POS official/JJ campaign/NN website/NN ,/, sounded/VBN as/IN if/IN a/DT bad/NN hangover/NN had/VBD come/VBN crashing/VBG down/RB on/IN them/PRP ./.
 
 (ROOT
   (S
@@ -191,8 +177,6 @@ xcomp(come-41, crashing-42)
 advmod(crashing-42, down-43)
 prep_on(crashing-42, them-45)
 
-There/EX was/VBD this/DT entry/NN ,/, for/IN instance/NN ,/, posted/VBN Thursday/NN morning/NN by/IN a/DT writer/NN named/VBN ``wreckz/NNP '':/.
-
 (ROOT
   (S
     (NP (EX There))
@@ -226,8 +210,6 @@ vmod(writer-14, named-15)
 dobj(named-15, ``wreckz-16)
 punct(was-2, '':-17)
 
-``I/NNP ,/, too/RB ,/, feel/VB I/PRP should/MD apologize/VB to/TO America/NNP ./.
-
 (ROOT
   (S
     (NP (NNP ``I))
@@ -251,8 +233,6 @@ aux(apologize-8, should-7)
 root(ROOT-0, apologize-8)
 prep_to(apologize-8, America-10)
 
-I/PRP was/VBD duped/VBN ./.
-
 (ROOT
   (S
     (NP (PRP I))
@@ -263,8 +243,6 @@ I/PRP was/VBD duped/VBN ./.
 nsubjpass(duped-3, I-1)
 auxpass(duped-3, was-2)
 root(ROOT-0, duped-3)
-
-Ralph/NNP Nader/NNP 's/POS enjoyment/NN of/IN all/DT of/IN this/DT is/VBZ an/DT indication/NN of/IN a/DT man/NN more/RBR concerned/JJ with/IN vindictive/JJ politics/NNS than/IN the/DT future/NN of/IN our/PRP$ country/NN and/CC planet/NN ./.
 
 (ROOT
   (S
@@ -317,8 +295,6 @@ prep_of(future-22, country-25)
 prep_of(future-22, planet-27)
 conj_and(country-25, planet-27)
 
-I/PRP am/VBP no/RB longer/RB a/DT member/NN of/IN the/DT Green/NNP Party/NNP ./.
-
 (ROOT
   (S
     (NP (PRP I))
@@ -339,8 +315,6 @@ root(ROOT-0, member-6)
 det(Party-10, the-8)
 nn(Party-10, Green-9)
 prep_of(member-6, Party-10)
-
-Instead/RB ,/, I/PRP 'm/VBP a/DT member/NN of/IN the/DT green/JJ movement/NN _/IN a/DT movement/NN without/IN Ralph/NNP Nader/NNP .''/.
 
 (ROOT
   (S
@@ -374,8 +348,6 @@ nn(Nader-16, Ralph-15)
 prep_without(movement-13, Nader-16)
 punct(member-6, .''-17)
 
-Or/IN this/DT one/NN ,/, also/RB posted/VBN Thursday/NN morning/NN ,/, from/IN ``Noni/NNP '':/.
-
 (ROOT
   (S
     (PP (IN Or)
@@ -399,8 +371,6 @@ tmod(posted-6, Thursday-7)
 tmod(posted-6, morning-8)
 prep_from(posted-6, ``Noni-11)
 punct(posted-6, '':-12)
-
-``I/NNP saw/VBD an/DT interview/NN with/IN Ralph/NNP Nader/NNP today/NN and/CC he/PRP seemed/VBD to/TO be/VB enjoying/VBG what/WP has/VBZ happened/VBN !/.
 
 (ROOT
   (S
@@ -443,8 +413,6 @@ nsubj(happened-17, what-15)
 aux(happened-17, has-16)
 ccomp(enjoying-14, happened-17)
 
-I/PRP 've/VBP never/RB seen/VBN him/PRP smile/VB so/RB broadly/RB ./.
-
 (ROOT
   (S
     (NP (PRP I))
@@ -466,8 +434,6 @@ ccomp(seen-4, smile-6)
 advmod(broadly-8, so-7)
 advmod(smile-6, broadly-8)
 
-I/PRP regret/VBP my/PRP$ support/NN ./.
-
 (ROOT
   (S
     (NP (PRP I))
@@ -479,8 +445,6 @@ nsubj(regret-2, I-1)
 root(ROOT-0, regret-2)
 poss(support-4, my-3)
 dobj(regret-2, support-4)
-
-Nader/NNP ,/, you/PRP 're/VBP a/DT well-intending/JJ man/NN and/CC I/PRP agree/VBP with/IN most/JJS of/IN your/PRP$ positions/NNS ./.
 
 (ROOT
   (S
@@ -513,8 +477,6 @@ prep_with(agree-10, most-12)
 poss(positions-15, your-14)
 prep_of(most-12, positions-15)
 
-But/CC the/DT symbolic/JJ run/NN for/IN the/DT White/NNP House/NNP has/VBZ destroyed/VBN our/PRP$ Party/NNP and/CC our/PRP$ cause/NN ./.
-
 (ROOT
   (S (CC But)
     (NP
@@ -544,8 +506,6 @@ poss(cause-15, our-14)
 dobj(destroyed-10, cause-15)
 conj_and(Party-12, cause-15)
 
-Very/NN bad/NN things/NNS are/VBP in/IN our/PRP$ future/NN ./.
-
 (ROOT
   (S
     (NP (NN Very) (NN bad) (NNS things))
@@ -561,8 +521,6 @@ root(ROOT-0, are-4)
 poss(future-7, our-6)
 prep_in(are-4, future-7)
 
-You/PRP should/MD not/RB be/VB smiling/VBG ./.
-
 (ROOT
   (S
     (NP (PRP You))
@@ -576,8 +534,6 @@ aux(smiling-5, should-2)
 neg(smiling-5, not-3)
 aux(smiling-5, be-4)
 root(ROOT-0, smiling-5)
-
-And/CC we/PRP ,/, the/DT misled/JJ ,/, should/MD feel/VB shame/NN for/IN what/WP we/PRP 've/VBP done/FW .''/FW
 
 (ROOT
   (S (CC And)
@@ -611,8 +567,6 @@ root(ROOT-0, 've-13)
 nn(.''-15, done-14)
 dobj('ve-13, .''-15)
 
-The/DT remarks/NNS expressed/VBD fears/NNS that/IN votes/NNS for/IN Nader/NNP may/MD have/VB put/VBN Gov/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NNS remarks))
@@ -642,8 +596,6 @@ aux(put-11, have-10)
 ccomp(expressed-3, put-11)
 dobj(put-11, Gov-12)
 
-George/NNP W./NNP Bush/NNP in/IN a/DT position/NN to/TO defeat/VB Vice/NNP President/NNP Al/NNP Gore/NNP ./.
-
 (ROOT
   (NP
     (NP (NNP George) (NNP W.) (NNP Bush))
@@ -666,8 +618,6 @@ nn(Gore-12, Vice-9)
 nn(Gore-12, President-10)
 nn(Gore-12, Al-11)
 dobj(defeat-8, Gore-12)
-
-In/IN Florida/NNP ,/, where/WRB Gore/NNP trailed/VBN Bush/NNP by/IN only/RB a/DT few/JJ hundred/JJ votes/NNS Thursday/NN ,/, a/DT shift/NN of/IN just/RB a/DT fraction/NN of/IN Nader/NNP 's/POS 95,000/CD votes/NNS could/MD have/VB given/VBN the/DT state/NN ,/, and/CC the/DT White/NNP House/NNP ,/, to/TO Gore/NNP ,/, the/DT most/RBS likely/JJ major-party/NN alternative/NN for/IN Nader/NNP 's/POS supporters/NNS ./.
 
 (ROOT
   (S
@@ -754,8 +704,6 @@ appos(Gore-39, alternative-45)
 poss(supporters-49, Nader-47)
 prep_for(alternative-45, supporters-49)
 
-John/NNP Ruth/NNP ,/, for/IN example/NN ,/, wrote/VBD on/IN the/DT Nader2000/NNP site/NN Thursday/NN morning/NN that/IN he/PRP voted/VBD for/IN Nader/NN because/IN he/PRP thought/VBD they/PRP ``shared/VBD a/DT common/JJ goal/NN ''/'' but/CC that/IN he/PRP was/VBD now/RB regretting/VBG it/PRP ./.
-
 (ROOT
   (S
     (NP
@@ -827,8 +775,6 @@ ccomp(voted-16, regretting-33)
 conj_but(thought-21, regretting-33)
 dobj(regretting-33, it-34)
 
-``/`` Gore/JJ [despite/NN what/WP you/PRP have/VBP said/VBN ]/NNP is/VBZ NOT/RB an/DT environmental/JJ clone/NN of/IN G.W./NNP Bush/NNP ./.
-
 (ROOT
   (S (`` ``)
     (NP
@@ -863,8 +809,6 @@ root(ROOT-0, clone-13)
 nn(Bush-16, G.W.-15)
 prep_of(clone-13, Bush-16)
 
-Because/IN of/IN your/PRP$ actions/NNS and/CC statements/NNS prior/NN to/TO Nov/NNP ./.
-
 (ROOT
   (FRAG
     (PP (IN Because)
@@ -885,8 +829,6 @@ pobj(of-2, actions-4)
 pobj(of-2, statements-6)
 conj_and(actions-4, statements-6)
 prep_prior_to(actions-4, Nov-9)
-
-7th/NN ,/, we/PRP are/VBP on/IN the/DT brink/NN of/IN a/DT Bush/NNP presidency/NN ./.
 
 (ROOT
   (S
@@ -909,8 +851,6 @@ prep_on(are-4, brink-7)
 det(presidency-11, a-9)
 nn(presidency-11, Bush-10)
 prep_of(brink-7, presidency-11)
-
-No/DT money/NN ,/, no/DT support/NN ,/, no/DT respect/NN for/IN you/PRP ,/, Ralph/NNP ,/, ever/RB again/RB !''/.
 
 (ROOT
   (NP
@@ -940,8 +880,6 @@ appos(money-2, Ralph-12)
 advmod(again-15, ever-14)
 advmod(Ralph-12, again-15)
 punct(money-2, !''-16)
-
-And/CC in/IN Oregon/NNP ,/, a/DT state/NN that/WDT was/VBD still/RB too/RB close/JJ to/TO call/VB Thursday/NN afternoon/NN ,/, Nader/NNP won/VBD about/IN 5/CD percent/NN of/IN the/DT vote/NN _/IN enough/JJ to/TO cause/VB some/DT Nader/NNP voters/NNS to/TO feel/VB morning-after/NN qualms/NNS ./.
 
 (ROOT
   (S (CC And)
@@ -1014,8 +952,6 @@ aux(feel-33, to-32)
 xcomp(cause-28, feel-33)
 nn(qualms-35, morning-after-34)
 dobj(feel-33, qualms-35)
-
-Julie/NNP Quastler/NNP ,/, 28/CD ,/, who/WP voted/VBD for/IN Nader/NNP in/IN Portland/NNP ,/, said/VBD on/IN Wednesday/NN that/IN she/PRP was/VBD feeling/VBG ``a/IN little/JJ alarmed/NN and/CC disappointed/VBD ''/'' that/IN Bush/NNP seemed/VBD on/IN the/DT brink/NN of/IN winning/VBG the/DT presidency/NN _/, suggesting/VBG that/IN she/PRP did/VBD not/RB accept/VB Nader/NNP 's/POS assertion/NN that/IN the/DT two/CD parties/NNS were/VBD equally/RB bad/RB ./.
 
 (ROOT
   (S
@@ -1121,8 +1057,6 @@ ccomp(accept-42, were-50)
 advmod(bad-52, equally-51)
 advmod(were-50, bad-52)
 
-``I/PRP 'm/VBP just/RB so/IN sad/RB ,''/, she/PRP said/VBD ./.
-
 (ROOT
   (S
     (NP (PRP ``I))
@@ -1144,8 +1078,6 @@ advmod(said-8, sad-5)
 punct(said-8, ,''-6)
 nsubj(said-8, she-7)
 advcl('m-2, said-8)
-
-``Bush/NN is/VBZ probably/RB going/VBG to/TO be/VB our/PRP$ president/NN and/CC Nader/NNP didn't/VBP get/VB his/PRP$ 5/CD percent/NN ./.
 
 (ROOT
   (S
@@ -1182,8 +1114,6 @@ poss(percent-15, his-13)
 num(percent-15, 5-14)
 dobj(get-12, percent-15)
 
-It/PRP seems/VBZ like/IN a/DT lose-lose/JJ end/NN result/NN in/IN some/DT ways/NNS .''/.
-
 (ROOT
   (S
     (NP (PRP It))
@@ -1204,8 +1134,6 @@ prep_like(seems-2, result-7)
 det(ways-10, some-9)
 prep_in(result-7, ways-10)
 punct(seems-2, .''-11)
-
-Winning/VBG 5/CD percent/NN of/IN the/DT vote/NN nationwide/NN would/MD have/VB qualified/VBN the/DT Green/NNP Party/NNP for/IN millions/NNS of/IN dollars/NNS in/IN federal/JJ campaign/NN funds/NNS in/IN 2004/CD ./.
 
 (ROOT
   (SINV
@@ -1252,8 +1180,6 @@ nn(funds-21, campaign-20)
 prep_in(dollars-17, funds-21)
 prep_in(funds-21, 2004-23)
 
-But/CC Quastler/JJR ,/, the/DT development/NN director/NN for/IN a/DT nonprofit/NN cafe/NN ,/, said/VBD she/PRP did/VBD not/RB feel/VB guilty/JJ about/IN her/PRP$ vote/NN ./.
-
 (ROOT
   (S (CC But)
     (NP
@@ -1292,8 +1218,6 @@ acomp(feel-16, guilty-17)
 poss(vote-20, her-19)
 prep_about(feel-16, vote-20)
 
-``I/NNP voted/VBN for/IN Nader/NN because/IN he/PRP was/VBD most/RBS aligned/VBN with/IN my/PRP$ values/NNS ,''/, she/PRP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -1326,8 +1250,6 @@ prep_with(aligned-9, values-12)
 punct(said-15, ,''-13)
 nsubj(said-15, she-14)
 root(ROOT-0, said-15)
-
-Of/NNP course/NN ,/, there/EX were/VBD also/RB countless/JJ verbal/NN high-fives/VBZ among/IN Nader/NNP supporters/NNS Thursday/NN who/WP felt/VBP the/DT Green/NNP Party/NNP had/VBD sent/VBN a/DT bracing/NN wake-up/JJ call/NN to/TO the/DT two/CD major/JJ parties/NNS ./.
 
 (ROOT
   (S
@@ -1388,8 +1310,6 @@ num(parties-29, two-27)
 amod(parties-29, major-28)
 prep_to(sent-20, parties-29)
 
-``Stand/NN tall/NN and/CC proud/NN ,/, fellow/JJ Nader/NNP supporters/NNS ,''/, said/VBD one/CD message/NN on/IN the/DT Nader2000/NNP site/NN signed/VBD GO/NNP LOOK/NNP ELSEWHERE/NNP FOR/NNP SCAPEGOATS/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -1433,8 +1353,6 @@ nn(SCAPEGOATS-22, ELSEWHERE-20)
 nn(SCAPEGOATS-22, FOR-21)
 dobj(signed-17, SCAPEGOATS-22)
 
-``We/NNP fought/VBD the/DT good/JJ fight/NN for/IN what/WP we/PRP believed/VBD in/RP ./.
-
 (ROOT
   (S
     (NP (NNP ``We))
@@ -1460,8 +1378,6 @@ nsubj(believed-9, we-8)
 prepc_for(fight-5, believed-9)
 prt(believed-9, in-10)
 
-This/DT does/VBZ not/RB make/VB us/PRP villains/NNS .''/.
-
 (ROOT
   (S
     (NP (DT This))
@@ -1480,8 +1396,6 @@ nsubj(villains-6, us-5)
 xcomp(make-4, villains-6)
 punct(make-4, .''-7)
 
-Such/JJ sentiments/NNS seemed/VBD particularly/RB strong/JJ in/IN Florida/NNP ./.
-
 (ROOT
   (S
     (NP (JJ Such) (NNS sentiments))
@@ -1497,8 +1411,6 @@ root(ROOT-0, seemed-3)
 advmod(strong-5, particularly-4)
 acomp(seemed-3, strong-5)
 prep_in(seemed-3, Florida-7)
-
-Dorothy/NNP Byrne/NNP ,/, a/DT state/NN coordinator/NN for/IN the/DT Florida/NNP Green/NNP Party/NNP ,/, said/VBD she/PRP had/VBD been/VBN inundated/VBN with/IN angry/NN phone/NN calls/NNS and/CC e-mails/NNS from/IN Democrats/NNP ,/, but/CC has/VBZ yet/RB to/TO receive/VB one/CD regretful/JJ note/NN from/IN a/DT Nader/NNP voter/NN ./.
 
 (ROOT
   (S
@@ -1568,8 +1480,6 @@ det(voter-38, a-36)
 nn(voter-38, Nader-37)
 prep_from(receive-31, voter-38)
 
-``I/NNP can/MD see/VB positives/NNS for/IN the/DT Greens/NNP with/IN either/NNP Bush/NNP or/CC Gore/NNP being/VBG president/NN ,''/IN she/PRP said/VBD ./.
-
 (ROOT
   (S
     (NP (NNP ``I))
@@ -1608,8 +1518,6 @@ mark(said-17, ,''-15)
 nsubj(said-17, she-16)
 advcl(see-3, said-17)
 
-``If/NNP Gore/NNP was/VBD in/RB ,/, we/PRP wouldn't/VBD have/VBP to/TO worry/VB about/IN women/NN 's/POS reproductive/JJ rights/NNS ./.
-
 (ROOT
   (S
     (S
@@ -1643,8 +1551,6 @@ xcomp(have-8, worry-10)
 poss(rights-15, women-12)
 amod(rights-15, reproductive-14)
 prep_about(worry-10, rights-15)
-
-But/CC his/PRP$ record/NN on/IN the/DT environment/NN is/VBZ so/RB abysmal/JJ I/PRP don't/VBP see/VB how/WRB Bush/NNP can/MD be/VB any/DT worse/NN .''/.
 
 (ROOT
   (S (CC But)
@@ -1686,8 +1592,6 @@ cop(worse-18, be-16)
 det(worse-18, any-17)
 ccomp(see-12, worse-18)
 punct(abysmal-9, .''-19)
-
-Barbara/NNP Lange/NNP ,/, the/DT Everglades/NNP chairwoman/NN for/IN the/DT Florida/NNP chapter/NN of/IN the/DT Sierra/NNP Club/NNP ,/, said/VBD she/PRP and/CC other/JJ environmentalists/NNS voted/VBN for/IN Nader/NNP because/IN Gore/NNP had/VBD not/RB taken/VBN a/DT stand/NN against/IN the/DT development/NN of/IN a/DT commercial/JJ airport/NN near/IN the/DT Everglades/NNS ./.
 
 (ROOT
   (S
@@ -1761,8 +1665,6 @@ prep_of(development-33, airport-37)
 det(Everglades-40, the-39)
 prep_near(airport-37, Everglades-40)
 
-``I/NNP voted/VBD my/PRP$ conscience/NN ,''/, she/PRP said/VBD ./.
-
 (ROOT
   (S
     (NP (NNP ``I))
@@ -1782,8 +1684,6 @@ punct(said-7, ,''-5)
 nsubj(said-7, she-6)
 dep(voted-2, said-7)
 
-``And/`` I/PRP 'm/VBP okay/RB with/IN that/WDT .''/.
-
 (ROOT
   (S
     (NP (`` ``And) (PRP I))
@@ -1799,8 +1699,6 @@ root(ROOT-0, 'm-3)
 advmod('m-3, okay-4)
 prep_with('m-3, that-6)
 punct('m-3, .''-7)
-
-Patricia/NNP Newell/NNP ,/, an/DT organizer/NN for/IN Nader/NNP at/IN the/DT University/NNP of/IN Florida/NNP in/IN Gainesville/NNP ,/, said/VBD that/IN Nader/NNP had/VBD won/VBN far/RB fewer/JJR votes/NNS in/IN Florida/NNP than/IN his/PRP$ supporters/NNS had/VBD expected/VBN _/TO due/JJ ,/, she/PRP said/VBD ,/, to/TO ``scare/VB tactics/NNS ''/'' by/IN the/DT Democrats/NNPS ./.
 
 (ROOT
   (S
@@ -1887,8 +1785,6 @@ dobj(``scare-38, tactics-39)
 det(Democrats-43, the-42)
 prep_by(``scare-38, Democrats-43)
 
-``Anyone/NN who/WP voted/VBN with/IN Nader/NNP on/IN Tuesday/NNP knew/NNP exactly/RB what/WP they/PRP were/VBD doing/VBG ,''/IN she/PRP said/VBD ./.
-
 (ROOT
   (S
     (NP
@@ -1926,8 +1822,6 @@ aux(doing-13, were-12)
 rcmod(knew-8, doing-13)
 prep_,''(doing-13, she-15)
 root(ROOT-0, said-16)
-
-``On/IN the/DT contrary/JJ to/TO feeling/VBG guilty/NN ,/, they/PRP feel/VBP very/RB good/JJ about/IN sticking/NN with/IN the/DT candidate/NN that/IN they/PRP felt/VBP was/VBD best/RBS .''/.
 
 (ROOT
   (S
@@ -1972,8 +1866,6 @@ ccomp(feel-9, felt-19)
 ccomp(felt-19, was-20)
 advmod(was-20, best-21)
 punct(feel-9, .''-22)
-
-NYT-11-09-00/CD 2010EST/CD
 
 (ROOT
   (FRAG

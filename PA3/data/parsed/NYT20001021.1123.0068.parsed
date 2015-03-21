@@ -1,5 +1,3 @@
-NYT20001021.1123.0068/NNP NEWS/NNP STORY/NNP 2000-10-21/CD 11:23:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001021.1123.0068) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(11:23:00-5, 2000-10-21-4)
 dep(STORY-3, 11:23:00-5)
-
-A1772/CD &Cx1f/NN ;/: taf-z/NNP u/NNP i/NNP BC-POPE-RETIRE-NYT/NNP &LR/NNP ;/: 10-21/CD 0573/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0573-11, 10-21-10)
 dep(&LR-8, 0573-11)
 
-BC-POPE-RETIRE-NYT/NNP
-
 (ROOT
   (NP (NNP BC-POPE-RETIRE-NYT)))
 
 root(ROOT-0, BC-POPE-RETIRE-NYT-1)
-
-CARDINAL'S/NNP BOOK/NNP FUELS/NNP TALK/NNP THAT/NNP POPE/NNP WILL/NNP STEP/NNP DOWN/NNP
 
 (ROOT
   (NP (NNP CARDINAL'S) (NNP BOOK) (NNP FUELS) (NNP TALK) (NNP THAT) (NNP POPE) (NNP WILL) (NNP STEP) (NNP DOWN)))
@@ -54,8 +46,6 @@ nn(DOWN-9, POPE-6)
 nn(DOWN-9, WILL-7)
 nn(DOWN-9, STEP-8)
 root(ROOT-0, DOWN-9)
-
-&UR/NNS ;/: By/NNP ALESSANDRA/NNP STANLEY/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -89,8 +79,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -107,8 +95,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-ROME/NNP _/NNP Fueling/NNP speculation/NN that/IN John/NNP Paul/NNP II/NNP might/MD retire/VB at/IN the/DT end/NN of/IN this/DT year/NN ,/, a/DT Belgian/JJ cardinal/NN says/VBZ he/PRP believes/VBZ that/IN the/DT frail/NN ,/, ailing/VBG pope/NN could/MD do/VB exactly/RB that/WDT ./.
 
 (ROOT
   (S
@@ -175,8 +161,6 @@ ccomp(believes-23, do-31)
 advmod(that-33, exactly-32)
 xcomp(do-31, that-33)
 
-``It/PRP would/MD not/RB surprise/VB me/PRP if/IN the/DT pope/NN were/VBD to/TO retire/VB after/IN 2000/CD ,''/NN says/VBZ Cardinal/NNP Godfried/NNP Danneels/NNS in/IN a/DT book/NN to/TO be/VB published/VBN on/IN Monday/NNP in/IN Belgium/NNP ./.
-
 (ROOT
   (S
     (NP (PRP ``It))
@@ -234,8 +218,6 @@ vmod(book-21, published-24)
 prep_on(published-24, Monday-26)
 prep_in(published-24, Belgium-28)
 
-``He/NNP wanted/VBD at/IN all/DT costs/NNS to/TO reach/VB the/DT Jubilee/NNP year/NN 2000/CD ,/, but/CC I/PRP consider/VBP him/PRP capable/NN of/IN retiring/VBG afterward/NN .''/.
-
 (ROOT
   (S
     (S
@@ -277,8 +259,6 @@ dobj(consider-15, capable-17)
 amod(afterward-20, retiring-19)
 prep_of(capable-17, afterward-20)
 punct(wanted-2, .''-21)
-
-Danneels/NNS is/VBZ not/RB the/DT first/JJ Roman/NNP Catholic/NNP Church/NNP official/NN to/TO broach/VB a/DT topic/JJ considered/VBN taboo/NN at/IN the/DT Vatican/NNP ,/, but/CC he/PRP is/VBZ the/DT highest-ranking/JJ leader/NN to/TO address/VB the/DT question/NN so/IN openly/RB ./.
 
 (ROOT
   (S
@@ -339,8 +319,6 @@ npadvmod(so-30, question-29)
 advmod(address-27, so-30)
 advmod(address-27, openly-31)
 
-The/DT Vatican/NNP spokesman/NN ,/, Joaquin/NNP Navarro-Valls/NNP ,/, issued/VBN a/DT terse/NN reaction/NN ,/, saying/VBG ``this/PRP is/VBZ the/DT personal/JJ opinion/NN of/IN Cardinal/NNP Danneels/NNS that/WDT we/PRP do/VBP not/RB confirm/VB .''/.
-
 (ROOT
   (S
     (NP
@@ -393,8 +371,6 @@ neg(confirm-26, not-25)
 rcmod(opinion-18, confirm-26)
 punct(issued-8, .''-27)
 
-The/DT cardinal/JJ spoke/NN in/IN answer/NN to/TO a/DT question/NN in/IN an/DT interview/NN included/VBN in/IN his/PRP$ book/NN ,/, ``Frankly/JJ Speaking/NN :/: Six/NNP Conversations/NNS with/IN the/DT Cardinal/NNP .''/.
-
 (ROOT
   (NP
     (NP
@@ -439,8 +415,6 @@ dep(spoke-3, Conversations-21)
 det(Cardinal-24, the-23)
 prep_with(Conversations-21, Cardinal-24)
 punct(spoke-3, .''-25)
-
-Speculation/NN that/IN John/NNP Paul/NNP might/MD step/VB down/RB if/IN his/PRP$ health/NN deteriorates/VBZ to/TO the/DT extent/NN that/IN he/PRP cannot/VBD fulfill/VB his/PRP$ duties/NNS has/VBZ echoed/VBN around/IN the/DT church/NN ever/RB since/IN he/PRP turned/VBD 75/CD ,/, the/DT mandatory/NN retirement/NN age/NN for/IN bishops/NNS ,/, in/IN 1995/CD ./.
 
 (ROOT
   (S
@@ -519,8 +493,6 @@ appos(75-30, age-35)
 prep_for(age-35, bishops-37)
 prep_in(turned-29, 1995-40)
 
-The/DT rumors/NNS grew/NN louder/NN as/IN the/DT pope/NN visibly/RB weakened/VBN and/CC this/DT year/NN passed/VBD his/PRP$ 80th/JJ birthday/NN ,/, the/DT age/NN at/IN which/WDT cardinals/NNS become/VBN ineligible/JJ to/TO vote/VB in/IN a/DT conclave/NN for/IN the/DT next/JJ pope/NN ./.
-
 (ROOT
   (S
     (NP
@@ -584,8 +556,6 @@ prep_in(vote-26, conclave-29)
 det(pope-33, the-31)
 amod(pope-33, next-32)
 prep_for(conclave-29, pope-33)
-
-In/IN January/NNP ,/, Bishop/NNP Karl/NNP Lehmann/NNP ,/, leader/NN of/IN the/DT German/NNP Bishops/NNPS Conference/NNP ,/, unleashed/VBD a/DT flurry/NN of/IN articles/NNS in/IN the/DT Italian/JJ press/NN when/WRB he/PRP told/VBD a/DT questioner/NN on/IN German/NNP radio/NN that/IN he/PRP believed/VBD that/IN the/DT pope/NN would/MD resign/VB for/IN the/DT good/NN of/IN the/DT church/NN if/IN he/PRP felt/VBD he/PRP could/MD not/RB fulfill/VB his/PRP$ papal/JJ functions/NNS ./.
 
 (ROOT
   (S
@@ -688,8 +658,6 @@ poss(functions-55, his-53)
 amod(functions-55, papal-54)
 dobj(fulfill-52, functions-55)
 
-The/DT pope/NN ,/, whose/WP$ speech/NN is/VBZ slurred/VBN and/CC who/WP shakes/VBZ badly/RB because/RB of/IN a/DT neurological/JJ disorder/NN ,/, has/VBZ nevertheless/JJ marshaled/VBD his/PRP$ strength/NN to/TO preside/VB over/IN this/DT year/NN 's/POS Jubilee/NN ,/, a/DT Holy/NNP Year/NN of/IN the/DT church/NN ./.
-
 (ROOT
   (S
     (NP
@@ -761,8 +729,6 @@ appos(Jubilee-29, Year-33)
 det(church-36, the-35)
 prep_of(Year-33, church-36)
 
-Once/IN the/DT Holy/NNP Year/NNP ends/NNS on/IN Jan/NNP ./.
-
 (ROOT
   (FRAG
     (PP (IN Once)
@@ -778,8 +744,6 @@ nn(ends-5, Holy-3)
 nn(ends-5, Year-4)
 pobj(Once-1, ends-5)
 prep_on(ends-5, Jan-7)
-
-6/CD ,/, however/RB ,/, many/JJ wonder/NN whether/IN he/PRP might/MD retire/VB ./.
 
 (ROOT
   (NP
@@ -805,8 +769,6 @@ mark(retire-10, whether-7)
 nsubj(retire-10, he-8)
 aux(retire-10, might-9)
 dep(wonder-6, retire-10)
-
-The/DT pope/NN has/VBZ not/RB addressed/VBN the/DT issue/NN directly/RB ,/, but/CC his/PRP$ few/JJ comments/NNS on/IN the/DT subject/JJ suggest/NN that/IN he/PRP is/VBZ determined/VBN to/TO serve/VB out/IN his/PRP$ full/JJ term/NN ./.
 
 (ROOT
   (S
@@ -858,8 +820,6 @@ xcomp(determined-21, serve-23)
 poss(term-27, his-25)
 amod(term-27, full-26)
 prep_out(serve-23, term-27)
-
-On/IN his/PRP$ 75th/JJ birthday/NN ,/, he/PRP told/VBD an/DT audience/NN of/IN pilgrims/NNS at/IN St./NNP Peter's/NNP ,/, referring/VBG to/TO God/NNP ,/, ``I/NNP leave/VBD it/PRP to/TO him/PRP to/TO decide/VB when/WRB and/CC how/WRB he/PRP wants/VBZ to/TO relieve/VB me/PRP of/IN this/DT service/NN .''/.
 
 (ROOT
   (S
@@ -936,8 +896,6 @@ det(service-37, this-36)
 prep_of(relieve-33, service-37)
 punct(leave-21, .''-38)
 
-The/DT pope/NN keeps/VBZ up/RP a/DT full/JJ schedule/NN ,/, and/CC the/DT Vatican/NN says/VBZ he/PRP wants/VBZ to/TO make/VB other/JJ important/JJ trips/NNS in/IN 2001/CD ./.
-
 (ROOT
   (S
     (S
@@ -982,8 +940,6 @@ amod(trips-19, important-18)
 dobj(make-16, trips-19)
 prep_in(make-16, 2001-21)
 
-There/EX is/VBZ no/DT detailed/JJ procedure/NN for/IN a/DT papal/JJ resignation/NN ,/, and/CC little/JJ precedent/NN ./.
-
 (ROOT
   (S
     (NP (EX There))
@@ -1010,8 +966,6 @@ amod(precedent-13, little-12)
 prep_for(procedure-5, precedent-13)
 conj_and(resignation-9, precedent-13)
 
-The/DT last/JJ pope/NN to/TO resign/VB voluntarily/RB was/VBD Celestine/JJ V/NN in/IN 1294/CD ./.
-
 (ROOT
   (S
     (NP (DT The) (JJ last) (NN pope)
@@ -1036,8 +990,6 @@ cop(V-9, was-7)
 amod(V-9, Celestine-8)
 root(ROOT-0, V-9)
 prep_in(V-9, 1294-11)
-
-But/CC canon/NN law/NN does/VBZ allow/VB a/DT pope/NN to/TO resign/VB ,/, saying/VBG it/PRP is/VBZ valid/JJ as/IN long/JJ as/IN the/DT pope/NN does/VBZ it/PRP freely/RB ./.
 
 (ROOT
   (S (CC But)
@@ -1085,8 +1037,6 @@ nsubj(does-20, pope-19)
 advcl(valid-14, does-20)
 dobj(does-20, it-21)
 advmod(does-20, freely-22)
-
-There/EX are/VBP no/DT explicit/NN instructions/NNS on/IN how/WRB the/DT Vatican/NNP should/MD function/NN if/IN a/DT pope/NN had/VBD a/DT stroke/JJ or/CC went/VBD into/IN a/DT coma/NN and/CC could/MD not/RB express/VB his/PRP$ wishes/NNS ./.
 
 (ROOT
   (S
@@ -1147,8 +1097,6 @@ prepc_on(instructions-5, express-26)
 conj_and(should-10, express-26)
 poss(wishes-28, his-27)
 dobj(express-26, wishes-28)
-
-The/DT Rev./NNP Thomas/NNP J./NNP Reese/NNP ,/, an/DT American/JJ Jesuit/NN who/WP wrote/VBD a/DT book/NN on/IN Vatican/NNP procedure/NN ,/, ``Inside/IN the/DT Vatican/NN :/: The/DT Politics/NNPS and/CC Organization/NNP of/IN the/DT Catholic/NNP Church/NNP ,''/NNP said/VBD ,/, ``The/`` real/JJ problem/NN is/VBZ if/IN the/DT pope/NN can/MD no/RB longer/JJR govern/NN ,/, and/CC is/VBZ incapable/JJ of/IN resigning/VBG .''/.
 
 (ROOT
   (NP
@@ -1242,8 +1190,6 @@ conj_and(wrote-11, incapable-47)
 prepc_of(incapable-47, resigning-49)
 punct(Reese-5, .''-50)
 
-Some/DT reform-minded/JJ Catholics/NNS believe/VBP that/IN it/PRP would/MD be/VB healthier/JJR for/IN the/DT church/NN if/IN popes/NNS resigned/VBD when/WRB their/PRP$ health/NN failed/VBD ./.
-
 (ROOT
   (S
     (NP (DT Some) (JJ reform-minded) (NNS Catholics))
@@ -1286,8 +1232,6 @@ advmod(failed-19, when-16)
 poss(health-18, their-17)
 nsubj(failed-19, health-18)
 advcl(resigned-15, failed-19)
-
-Traditionalists/NNS reject/VBP all/DT talk/NN of/IN papal/JJ resignations/NNS ,/, fearful/JJ that/IN such/JJ a/DT precedent/NN would/MD undermine/VB the/DT special/JJ nature/NN of/IN papal/JJ authority/NN ,/, which/WDT Catholics/NNPS believe/VBP comes/NNS directly/RB from/IN God/NNP ./.
 
 (ROOT
   (S
@@ -1347,8 +1291,6 @@ rcmod(authority-21, believe-25)
 dobj(believe-25, comes-26)
 advmod(believe-25, directly-27)
 prep_from(believe-25, God-29)
-
-NYT-10-21-00/CD 1123EDT/CD
 
 (ROOT
   (FRAG

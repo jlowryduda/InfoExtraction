@@ -1,5 +1,3 @@
-APW20001001.2021.0521/DT NEWS/NNP STORY/NNPS 2000-10-01/CD 20:56:35/CD
-
 (ROOT
   (NP
     (NP (DT APW20001001.2021.0521))
@@ -12,14 +10,10 @@ dep(APW20001001.2021.0521-1, STORY-3)
 num(20:56:35-5, 2000-10-01-4)
 dep(APW20001001.2021.0521-1, 20:56:35-5)
 
-Egypt-Assad/RB
-
 (ROOT
   (ADVP (RB Egypt-Assad)))
 
 root(ROOT-0, Egypt-Assad-1)
-
-Syrian/JJ President/NNP Travels/NNP To/TO Egypt/VB
 
 (ROOT
   (S
@@ -32,8 +26,6 @@ nn(Travels-3, President-2)
 nsubj(Egypt-5, Travels-3)
 aux(Egypt-5, To-4)
 root(ROOT-0, Egypt-5)
-
-CAIRO/NNP ,/, Egypt/NNP [AP/NNP ]/NNP _/, In/IN his/PRP$ foreign/JJ policy/NN debut/NN as/IN Syria/NNP 's/POS president/NN ,/, Bashar/NNP Assad/NNP met/NN Sunday/NN with/IN Egyptian/NNP President/NNP Hosni/NNP Mubarak/NNP in/IN talks/NNS on/IN Mideast/NNP peace/NN and/CC the/DT escalating/VBG violence/NN in/IN the/DT Palestinian/JJ territories/NNS ./.
 
 (ROOT
   (S
@@ -97,8 +89,6 @@ det(territories-38, the-36)
 amod(territories-38, Palestinian-37)
 prep_in(violence-34, territories-38)
 
-Assad/RB ,/, on/IN his/PRP$ first/JJ trip/NN abroad/RB since/IN becoming/VBG president/NN in/IN July/NNP ,/, also/RB dealt/NN with/IN the/DT issue/NN of/IN Iraq/NNP in/IN the/DT talks/NNS with/IN Mubarak/NNP ,/, Egyptian/JJ Foreign/NNP Minister/NNP Amr/NNP Mussa/NNP said/VBD ./.
-
 (ROOT
   (S
     (ADVP (RB Assad))
@@ -156,8 +146,6 @@ nn(Mussa-31, Minister-29)
 nn(Mussa-31, Amr-30)
 nsubj(said-32, Mussa-31)
 root(ROOT-0, said-32)
-
-The/DT Syrian/JJ leader/NN 's/POS visit/NN came/VBD on/IN a/DT fourth/JJ day/NN of/IN clashes/NNS that/WDT have/VBP raged/VBN in/IN the/DT West/NNP Bank/NNP ,/, Gaza/NNP Strip/NNP and/CC Jerusalem/NNP ,/, leaving/VBG more/RBR than/IN two/CD dozen/NNS Palestinians/NNPS dead/RB ./.
 
 (ROOT
   (S
@@ -221,8 +209,6 @@ num(dozen-30, two-29)
 iobj(leaving-26, dozen-30)
 dobj(leaving-26, Palestinians-31)
 advmod(Palestinians-31, dead-32)
-
-``There/RB is/VBZ complete/JJ agreement/NN [between/VBN Mubarak/NNP and/CC Assad/RB ]/JJ as/IN to/TO the/DT seriousness/NN of/IN the/DT situation/NN and/CC that/IN the/DT negative/JJ repercussions/NNS would/MD adversely/RB effect/NN the/DT peace/NN process/NN ,/, which/WDT is/VBZ in/IN itself/PRP in/IN a/DT very/RB precarious/JJ state/NN ,''/, Moussa/NNP said/VBD ./.
 
 (ROOT
   (SINV
@@ -305,8 +291,6 @@ punct(Moussa-39, ,''-38)
 nsubj(said-40, Moussa-39)
 rcmod(state-37, said-40)
 
-Assad/RB ,/, 35/CD ,/, has/VBZ focused/VBN on/IN domestic/JJ issues/NNS since/IN his/PRP$ father/NN ,/, Hafez/NNP Assad/NNP ,/, died/VBD in/IN June/NNP after/IN 30/CD years/NNS in/IN power/NN ./.
-
 (ROOT
   (S
     (ADVP (RB Assad))
@@ -350,8 +334,6 @@ num(years-22, 30-21)
 prep_after(died-17, years-22)
 prep_in(years-22, power-24)
 
-He/PRP has/VBZ taken/VBN steps/NNS to/TO modernize/VB his/PRP$ nation/NN 's/POS bureaucracy/NN and/CC revive/VB its/PRP$ stagnant/JJ economy/NN ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -384,8 +366,6 @@ conj_and(modernize-6, revive-12)
 poss(economy-15, its-13)
 amod(economy-15, stagnant-14)
 dobj(revive-12, economy-15)
-
-``This/PRP was/VBD the/DT first/JJ meeting/NN of/IN the/DT first/JJ visit/NN of/IN President/NNP Bashar/NNP Assad/NNP after/IN the/DT funeral/NN of/IN his/PRP$ father/NN ,/, so/IN it/PRP was/VBD only/RB normal/JJ for/IN the/DT discussions/NNS to/TO have/VB a/DT general/JJ tone/NN .../:
 
 (ROOT
   (S
@@ -446,8 +426,6 @@ det(tone-33, a-31)
 amod(tone-33, general-32)
 dobj(have-30, tone-33)
 
-in/IN addition/NN to/TO certain/JJ specifics/NNS of/IN special/JJ importance/NN to/TO both/DT countries/NNS and/CC the/DT Arab/NNP world/NN ,''/, Moussa/NNP said/VBD ./.
-
 (ROOT
   (S
     (PP (IN in)
@@ -483,8 +461,6 @@ punct(said-18, ,''-16)
 nsubj(said-18, Moussa-17)
 root(ROOT-0, said-18)
 
-The/DT late/JJ Syrian/JJ president/NN rarely/RB traveled/VBD abroad/RB ./.
-
 (ROOT
   (S
     (NP (DT The) (JJ late) (JJ Syrian) (NN president))
@@ -500,8 +476,6 @@ nsubj(traveled-6, president-4)
 advmod(traveled-6, rarely-5)
 root(ROOT-0, traveled-6)
 advmod(traveled-6, abroad-7)
-
-In/IN his/PRP$ last/JJ few/JJ years/NNS ,/, however/NN ,/, he/PRP had/VBD sent/VBN Bashar/NNP ,/, educated/VBN as/IN an/DT eye/NN doctor/NN ,/, on/IN foreign/JJ trips/NNS as/IN part/NN of/IN his/PRP$ grooming/NN to/TO become/VB president/NN ./.
 
 (ROOT
   (S
@@ -557,8 +531,6 @@ aux(become-29, to-28)
 vmod(grooming-27, become-29)
 xcomp(become-29, president-30)
 
-Prospects/NNS appear/VBP dim/JJ for/IN progress/NN on/IN either/RB the/DT Syrian/JJ or/CC Palestinian/JJ peace/NN track/NN ./.
-
 (ROOT
   (S
     (NP (NNS Prospects))
@@ -583,8 +555,6 @@ amod(track-13, Palestinian-11)
 nn(track-13, peace-12)
 prep_on(appear-2, track-13)
 conj_or(Syrian-9, track-13)
-
-The/DT deadlock/NN in/IN Palestinian/JJ -Israeli/JJ talks/NNS is/VBZ exacerbated/VBN by/IN the/DT worst/JJ violence/NN in/IN four/CD years/NNS ./.
 
 (ROOT
   (S
@@ -613,8 +583,6 @@ amod(violence-12, worst-11)
 agent(exacerbated-8, violence-12)
 num(years-15, four-14)
 prep_in(violence-12, years-15)
-
-Syria/NNP 's/POS government/NN -run/JJ media/NN said/VBD last/JJ week/NN that/IN no/DT progress/NN could/MD be/VB expected/VBN now/RB because/IN of/IN the/DT U.S./NNP elections/NNS and/CC Israeli/NNP Prime/NNP Minister/NNP Ehud/NNP Barak/NNP 's/POS precarious/JJ situation/NN as/IN leader/NN of/IN a/DT minority/NN government/NN ./.
 
 (ROOT
   (S
@@ -675,8 +643,6 @@ det(government-35, a-33)
 nn(government-35, minority-34)
 prep_of(leader-31, government-35)
 
-Syrian/JJ -Israeli/JJ peace/NN negotiations/NNS broke/VBD down/RP in/IN January/NNP ,/, with/IN Syria/NNP demanding/VBG a/DT full/JJ withdrawal/NN from/IN the/DT Golan/NNP Heights/NNP ,/, a/DT strategic/JJ plateau/NN captured/VBN by/IN Israel/NNP in/IN 1967/CD ./.
-
 (ROOT
   (S
     (NP (JJ Syrian) (JJ -Israeli) (NN peace) (NNS negotiations))
@@ -725,8 +691,6 @@ vmod(plateau-23, captured-24)
 agent(captured-24, Israel-26)
 prep_in(captured-24, 1967-28)
 
-Israel/NNP insists/VBZ on/IN waiting/VBG to/TO settle/VB borders/NNS until/IN it/PRP knows/VBZ what/WP it/PRP will/MD gain/VB by/IN returning/VBG Golan/NNP land/NN ./.
-
 (ROOT
   (S
     (NP (NNP Israel))
@@ -771,8 +735,6 @@ prepc_by(gain-14, returning-16)
 nn(land-18, Golan-17)
 dobj(returning-16, land-18)
 
-Assad/NNP has/VBZ made/VBN it/PRP clear/JJ he/PRP intends/VBZ to/TO follow/VB his/PRP$ father/NN 's/POS course/NN in/IN any/DT negotiations/NNS with/IN Israel/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Assad))
@@ -814,8 +776,6 @@ dobj(follow-9, course-13)
 det(negotiations-16, any-15)
 prep_in(follow-9, negotiations-16)
 prep_with(follow-9, Israel-18)
-
-Mubarak/NNP and/CC Assad/NNP met/NN after/IN a/DT week/NN when/WRB Russia/NNP ,/, France/NNP ,/, Jordan/NNP and/CC Yemen/NNP sent/VBD planes/NNS to/TO Baghdad/RB ,/, challenging/VBG U.N./NNP sanctions/NNS imposed/VBD on/IN Iraq/NNP after/IN its/PRP$ 1990/CD invasion/NN of/IN Kuwait/NNP ./.
 
 (ROOT
   (S
@@ -881,8 +841,6 @@ num(invasion-30, 1990-29)
 prep_after(imposed-24, invasion-30)
 prep_of(invasion-30, Kuwait-32)
 
-Iraq/NNP is/VBZ hoping/VBG other/JJ Arab/NN countries/NNS will/MD follow/VB ,/, despite/IN U.S./NNP complaints/NNS ,/, easing/VBG its/PRP$ isolation/NN ./.
-
 (ROOT
   (S
     (NP (NNP Iraq))
@@ -914,8 +872,6 @@ prep_despite(follow-8, complaints-12)
 xcomp(follow-8, easing-14)
 poss(isolation-16, its-15)
 dobj(easing-14, isolation-16)
-
-Moussa/NNP said/VBD the/DT presidents/NNS discussed/VBD the/DT situation/NN in/IN Iraq/NNP and/CC would/MD return/VB to/TO it/PRP Monday/NNP ./.
 
 (ROOT
   (S
@@ -951,8 +907,6 @@ ccomp(said-2, return-12)
 conj_and(discussed-5, return-12)
 prep_to(return-12, it-14)
 tmod(return-12, Monday-15)
-
-However/RB ,/, he/PRP would/MD not/RB comment/VB on/IN whether/IN Syria/NNP and/CC Egypt/NNP were/VBD planning/VBG to/TO send/VB planes/NNS to/TO Baghdad/RB ./.
 
 (ROOT
   (S
@@ -996,8 +950,6 @@ dobj(send-15, planes-16)
 prep(send-15, to-17)
 pobj(to-17, Baghdad-18)
 
-Egypt/NNP and/CC Syria/NNP are/VBP on/IN good/JJ terms/NNS ,/, but/CC they/PRP have/VBP had/VBN their/PRP$ differences/NNS ./.
-
 (ROOT
   (S
     (S
@@ -1027,8 +979,6 @@ aux(had-12, have-11)
 conj_but(are-4, had-12)
 poss(differences-14, their-13)
 dobj(had-12, differences-14)
-
-Hafez/NNP Assad/NNP 's/POS attempts/NNS to/TO rally/RB Arab/NNP leaders/NNS to/TO present/VB a/DT unified/JJ front/NN against/IN Israel/NNP gained/VBD little/JJ ground/NN ./.
 
 (ROOT
   (S
@@ -1066,8 +1016,6 @@ prep_against(front-13, Israel-15)
 root(ROOT-0, gained-16)
 amod(ground-18, little-17)
 dobj(gained-16, ground-18)
-
-He/PRP derided/VBD Egypt/VBN for/IN signing/VBG a/DT peace/NN treaty/NN with/IN Israel/NNP in/IN 1979/CD ./.
 
 (ROOT
   (S

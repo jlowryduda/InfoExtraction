@@ -1,5 +1,3 @@
-APW20001124.1811.0405/DT NEWS/NNP STORY/NNPS 2000-11-24/CD 18:11:15/CD
-
 (ROOT
   (NP
     (NP (DT APW20001124.1811.0405))
@@ -12,14 +10,10 @@ dep(APW20001124.1811.0405-1, STORY-3)
 num(18:11:15-5, 2000-11-24-4)
 dep(APW20001124.1811.0405-1, 18:11:15-5)
 
-Germany-Music-Piracy/JJ
-
 (ROOT
   (ADJP (JJ Germany-Music-Piracy)))
 
 root(ROOT-0, Germany-Music-Piracy-1)
-
-Hewlett-Packard/NNP To/TO Pay/NNP German/NNP Fees/.
 
 (ROOT
   (NP
@@ -32,8 +26,6 @@ root(ROOT-0, Hewlett-Packard-1)
 nn(German-4, Pay-3)
 prep_to(Hewlett-Packard-1, German-4)
 punct(Hewlett-Packard-1, Fees-5)
-
-FRANKFURT/NNP ,/, Germany/NNP [AP/NNP ]/, _/DT Computer/NNP giant/NN Hewlett-Packard/NNP Corp/NNP ./.
 
 (ROOT
   (NP
@@ -54,8 +46,6 @@ nn(Corp-10, Computer-7)
 nn(Corp-10, giant-8)
 nn(Corp-10, Hewlett-Packard-9)
 prep([AP-4, Corp-10)
-
-has/VBZ become/VBN the/DT first/JJ company/NN to/TO be/VB snagged/VBN by/IN a/DT German/NNP law/NN requiring/VBG firms/NNS to/TO pay/VB fees/NNS for/IN making/VBG CD/NN burners/NNS that/WDT are/VBP being/VBG used/VBN to/TO illegally/RB lift/VB the/DT latest/JJS hits/NNS off/IN the/DT World/NNP Wide/NNP Web/NNP ./.
 
 (ROOT
   (S
@@ -132,8 +122,6 @@ nn(Web-36, World-34)
 nn(Web-36, Wide-35)
 prep_off(lift-28, Web-36)
 
-The/DT case/NN sets/VBZ the/DT stage/NN for/IN other/JJ European/JJ countries/NNS to/TO possibly/RB adopt/VB similar/JJ rules/NNS to/TO stem/VB an/DT epidemic/JJ that/WDT cost/VB the/DT music/NN industry/NN an/, estimated/VBD $5/CD billion/CD last/JJ year/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (NN case))
@@ -198,8 +186,6 @@ dobj(estimated-25, billion-27)
 amod(year-29, last-28)
 tmod(estimated-25, year-29)
 
-But/CC analysts/NNS blasted/VBD the/DT agreement/NN reached/VBD Thursday/JJ as/IN another/DT example/NN of/IN Germany/NNP 's/POS notorious/JJ thatch/NN of/IN regulations/NNS ./.
-
 (ROOT
   (S (CC But)
     (NP (NNS analysts))
@@ -235,8 +221,6 @@ amod(thatch-15, notorious-14)
 prep_of(example-10, thatch-15)
 prep_of(thatch-15, regulations-17)
 
-``The/JJ manufacturers/NNS are/VBP scapegoats/NNS ,''/, said/VBD Robert/NNP Labatt/NNP ,/, a/DT new/JJ media/NN analyst/NN at/IN research/NN group/NN Gartner/NNP ./.
-
 (ROOT
   (SINV
     (S
@@ -269,8 +253,6 @@ appos(Labatt-8, analyst-13)
 nn(Gartner-17, research-15)
 nn(Gartner-17, group-16)
 prep_at(analyst-13, Gartner-17)
-
-``It/PRP 's/VBZ the/DT individual/JJ works/NNS of/IN art/NN ,/, books/NNS ,/, songs/NNS ,/, videos/NNS ,/, that/WDT need/VBP to/TO be/VB protected/VBN .''/.
 
 (ROOT
   (S
@@ -314,8 +296,6 @@ aux(protected-19, to-17)
 auxpass(protected-19, be-18)
 xcomp(need-16, protected-19)
 punct(works-5, .''-20)
-
-Many/JJ of/IN Germany/NNP 's/POS neighbors/NNS ,/, including/VBG France/NNP ,/, Italy/NNP and/CC Greece/NNP ,/, have/VBP similar/JJ laws/NNS meant/NN to/TO protect/VB authors/NNS and/CC musicians/NNS by/IN nailing/VBG makers/NNS of/IN equipment/NN used/VBN to/TO violate/VB copyright/JJ laws/NNS ./.
 
 (ROOT
   (S
@@ -383,8 +363,6 @@ xcomp(used-28, violate-30)
 amod(laws-32, copyright-31)
 dobj(violate-30, laws-32)
 
-But/CC the/DT laws/NNS date/VBP back/RB decades/NNS and/CC focus/NN on/IN devices/NNS like/IN tape/NN recorders/NNS and/CC video/NN players/NNS ./.
-
 (ROOT
   (S (CC But)
     (NP (DT the) (NNS laws))
@@ -415,8 +393,6 @@ prep_like(devices-10, recorders-13)
 nn(players-16, video-15)
 prep_like(devices-10, players-16)
 conj_and(recorders-13, players-16)
-
-The/DT German/NNP case/NN against/IN Hewlett-Packard/NNP extends/VBZ Germany/NNP 's/POS pre-existing/JJ law/NN into/IN the/DT digital/JJ age/NN ,/, when/WRB such/JJ things/NNS as/IN CD/NN burners/NNS ,/, computer/NN printers/NNS ,/, hard/JJ drives/NNS and/CC high-speed/JJ modems/NNS make/VBP it/PRP easier/NN to/TO copy/VB and/CC transfer/VB copyrighted/JJ items/NNS ./.
 
 (ROOT
   (S
@@ -496,8 +472,6 @@ conj_and(copy-35, transfer-37)
 amod(items-39, copyrighted-38)
 dobj(copy-35, items-39)
 
-According/VBG to/TO the/DT International/JJ Federation/NN of/IN the/DT Phonographic/NNP Industry/NNP ,/, about/IN 500/CD million/CD CDs/NNS are/VBP pirated/VBN annually/RB by/IN people/NNS creating/VBG their/PRP$ own/JJ CDs/NNS from/IN downloaded/JJ tunes/NNS off/IN the/DT Internet/NNP ./.
-
 (ROOT
   (S
     (PP (VBG According)
@@ -549,8 +523,6 @@ prep_from(creating-20, tunes-26)
 det(Internet-29, the-28)
 prep_off(pirated-16, Internet-29)
 
-More/RB than/IN 25/CD million/CD pirated/JJ music/NN files/NNS are/VBP available/JJ online/NN ,/, the/DT group/NN estimates/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -577,8 +549,6 @@ dep(available-9, online-10)
 det(estimates-14, the-12)
 nn(estimates-14, group-13)
 appos(online-10, estimates-14)
-
-All/NNP told/VBD ,/, that/WDT racked/VBD up/RP a/DT $1/JJ billion/CD for/IN Europe/NNP 's/POS $10/CD billion/CD music/NN industry/NN last/JJ year/NN ,/, and/CC cost/NN EU/IN governments/NNS around/IN $72/CD million/CD in/IN lost/VBN tax/IN revenues/NNS ,/, the/DT group/NN says/VBZ ./.
 
 (ROOT
   (S
@@ -647,8 +617,6 @@ det(group-33, the-32)
 nsubj(says-34, group-33)
 root(ROOT-0, says-34)
 
-Several/JJ lawsuits/NNS have/VBP been/VBN filed/VBN around/IN the/DT world/NN ,/, including/VBG an/DT ongoing/NN lawsuit/NN a/DT number/NN of/IN record/NN companies/NNS have/VBP brought/VBN against/IN Napster/NNP Inc/NNP .,/. whose/WP$ software/NN allows/VBZ users/NNS to/TO easily/RB swap/JJ music/NN files/NNS ./.
-
 (ROOT
   (S
     (NP (JJ Several) (NNS lawsuits))
@@ -712,8 +680,6 @@ amod(files-33, swap-31)
 nn(files-33, music-32)
 prep_to(allows-27, files-33)
 
-GEMA/NNP ,/, German/NNP 's/POS main/NN licensing/VBG group/NN ,/, targeted/VBN Hewlett-Packard/NNP as/IN a/DT test/NN case/NN in/IN May/NNP ,/, reasoning/VBG that/IN the/DT company/NN leads/VBZ the/DT German/NNP market/NN leader/NN in/IN CD/NN burners/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -769,8 +735,6 @@ dobj(leads-22, leader-26)
 nn(burners-29, CD-28)
 prep_in(leader-26, burners-29)
 
-But/CC Hewlett-Packard/NNP dug/NN in/IN its/PRP$ heels/NNS when/WRB it/PRP was/VBD ordered/VBN to/TO pay/VB 30/CD marks/NNS [$12.90/CD ]/NN for/IN each/DT CD/NN burner/NN sold/VBD in/IN Germany/NNP since/IN February/NNP 1998/CD ./.
-
 (ROOT
   (S (CC But)
     (NP
@@ -822,8 +786,6 @@ root(ROOT-0, sold-21)
 prep_in(sold-21, Germany-23)
 prep_since(sold-21, February-25)
 num(February-25, 1998-26)
-
-The/DT legal/JJ battle/NN continued/VBN until/IN Thursday/NN ,/, when/WRB an/DT agreement/NN was/VBD reached/VBN to/TO have/VB Hewlett-Packard/NNP pay/VBP 3.60/CD marks/NNS [$1.54/CD ]/NN for/IN each/DT unit/NN sold/VBD during/IN that/DT period/NN while/IN agreeing/VBG to/TO pay/VB 12/CD marks/NNS [$5.16/CD ]/NN for/IN each/DT one/CD sold/VBN in/IN the/DT future/NN ./.
 
 (ROOT
   (S
@@ -912,8 +874,6 @@ vmod(one-38, sold-39)
 det(future-42, the-41)
 prep_in(sold-39, future-42)
 
-Hewlett-Packard/NNP spokeswoman/VBD Jeannette/NNP Weisschuh/NNP refused/VBD to/TO say/VB how/WRB much/JJ that/WDT would/MD set/VB the/DT company/NN back/RB ./.
-
 (ROOT
   (S
     (NP (NNP Hewlett-Packard))
@@ -951,8 +911,6 @@ ccomp(say-7, set-12)
 det(company-14, the-13)
 dobj(set-12, company-14)
 advmod(set-12, back-15)
-
-But/CC she/PRP criticized/VBD the/DT settlement/NN for/IN putting/VBG Hewlett-Packard/NNP at/IN a/DT disadvantage/NN against/IN foreign/JJ online/NN retailers/NNS who/WP ,/, unburdened/VBN by/IN such/JJ fees/NNS ,/, can/MD sell/VB cheaper/VB CD/NN burners/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -1006,8 +964,6 @@ xcomp(sell-24, cheaper-25)
 nn(burners-27, CD-26)
 dobj(cheaper-25, burners-27)
 
-``This/NNP was/VBD a/DT trial/NN to/TO set/VB an/DT example/NN for/IN the/DT whole/JJ market/NN ,''/, said/VBD Weisschuh/NNP ./.
-
 (ROOT
   (S
     (NP (NNP ``This))
@@ -1041,8 +997,6 @@ prep_for(set-6, market-12)
 nsubj(said-14, ,''-13)
 rcmod(market-12, said-14)
 dobj(said-14, Weisschuh-15)
-
-``It/NNP 's/POS unfair/NN to/TO the/DT consumers/NNS who/WP have/VBP to/TO pay/VB more/RBR and/CC unfair/NN to/TO the/DT manufacturers/NNS because/IN it/PRP gives/VBZ us/PRP a/DT competitive/JJ disadvantage/NN .''/.
 
 (ROOT
   (S
@@ -1094,8 +1048,6 @@ det(disadvantage-23, a-21)
 amod(disadvantage-23, competitive-22)
 dobj(gives-19, disadvantage-23)
 punct(gives-19, .''-24)
-
-Other/NN companies/NNS selling/VBG CD/NN burners/NNS in/IN Germany/NNP will/MD also/RB be/VB subject/JJ to/TO the/DT fees/NNS ,/, which/WDT could/MD vary/VB depending/VBG on/IN what/WP kind/NN of/IN agreement/NN they/PRP reach/NN with/IN GEMA/NNP ./.
 
 (ROOT
   (S
@@ -1154,8 +1106,6 @@ dep(reach-26, they-25)
 dobj(depending-19, reach-26)
 prep_with(reach-26, GEMA-28)
 
-The/DT Hewlett-Packard/NNP settlement/NN is/VBZ expected/VBN to/TO set/VB a/DT benchmark/NN ,/, however/RB ./.
-
 (ROOT
   (S
     (NP (DT The) (NNP Hewlett-Packard) (NN settlement))
@@ -1180,8 +1130,6 @@ xcomp(expected-5, set-7)
 det(benchmark-9, a-8)
 dobj(set-7, benchmark-9)
 advmod(set-7, however-11)
-
-Currently/RB ,/, equipment/NN manufacturers/NNS pay/VBP 2.50/CD marks/NNS [$1.07/CD ]/NN for/IN each/DT cassette/NN recorder/NN and/CC 18/CD marks/NNS [$7.74/CD ]/NN for/IN each/DT video/NN recorder/VB sold/VBN in/IN Germany/NNP ./.
 
 (ROOT
   (S
@@ -1232,8 +1180,6 @@ prep_for(]-18, video-21)
 rcmod(marks-7, recorder-22)
 dep(recorder-22, sold-23)
 prep_in(sold-23, Germany-25)
-
-The/DT fees/NNS ,/, which/WDT are/VBP not/RB collected/VBN by/IN the/DT government/NN ,/, are/VBP distributed/VBN by/IN GEMA/NNP to/TO copyright/VB owners/NNS through/IN recording/VBG houses/NNS and/CC music/NN distributors/NNS ./.
 
 (ROOT
   (S

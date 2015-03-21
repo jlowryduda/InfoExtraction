@@ -1,5 +1,3 @@
-APW20001209.0634.0303/DT NEWS/NNP STORY/NNPS 2000-12-09/CD 06:44:38/CD
-
 (ROOT
   (NP
     (NP (DT APW20001209.0634.0303))
@@ -12,14 +10,10 @@ dep(APW20001209.0634.0303-1, STORY-3)
 num(06:44:38-5, 2000-12-09-4)
 dep(APW20001209.0634.0303-1, 06:44:38-5)
 
-EU-Summit/NN
-
 (ROOT
   (NP (NN EU-Summit)))
 
 root(ROOT-0, EU-Summit-1)
-
-France/NNP 's/POS Chirac/NNP Fights/NNP EU/NNP Deadlock/NNP
 
 (ROOT
   (NP
@@ -34,8 +28,6 @@ nn(Fights-4, Chirac-3)
 dep(France-1, Fights-4)
 nn(Deadlock-6, EU-5)
 dep(France-1, Deadlock-6)
-
-NICE/NNP ,/, France/NNP [AP/NNP ]/, _/DT One/CD after/IN another/DT ,/, late/RB into/IN the/DT night/NN ,/, the/DT leaders/NNS of/IN Europe/NNP filed/VBN into/IN a/DT small/JJ ,/, windowless/JJ room/NN for/IN private/JJ chats/NNS with/IN French/JJ President/NNP Jacques/NNP Chirac/NNP that/WDT could/MD determine/VB the/DT future/NN of/IN the/DT European/JJ Union/NNP ./.
 
 (ROOT
   (S
@@ -113,8 +105,6 @@ det(Union-43, the-41)
 amod(Union-43, European-42)
 prep_of(future-39, Union-43)
 
-Chirac/NNP was/VBD fighting/VBG to/TO break/VB a/DT deadlock/NN over/IN how/WRB to/TO modify/VB the/DT 15-nation/JJ EU/NNP 's/POS decision-making/JJ mechanisms/NNS to/TO cope/VB with/IN its/PRP$ planned/JJ expansion/NN into/IN the/DT former/JJ communist/NN East/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Chirac))
@@ -170,8 +160,6 @@ det(communist-27, the-25)
 amod(communist-27, former-26)
 prep_into(cope-19, communist-27)
 xcomp(modify-11, East-28)
-
-On/IN Saturday/NNP morning/NN ,/, after/IN he/PRP 'd/VBD finished/VBN seeing/VBG the/DT other/JJ 14/CD EU/NNP leaders/NNS ,/, Chirac/NNP was/VBD scheduled/VBN to/TO send/VB them/PRP a/DT draft/JJ Treaty/NN of/IN Nice/NNP _/IN a/DT blueprint/NN for/IN running/VBG the/DT bloc/NN of/IN 370/CD million/CD people/NNS as/IN it/PRP prepares/VBZ for/IN a/DT dozen/JJ new/JJ members/NNS ./.
 
 (ROOT
   (S
@@ -260,8 +248,6 @@ amod(members-45, dozen-43)
 amod(members-45, new-44)
 prep_for(prepares-40, members-45)
 
-His/PRP$ efforts/NNS ,/, which/WDT took/VBD place/NN in/IN the/DT midst/NN of/IN a/DT crucial/JJ three-day/JJ EU/NN summit/NN in/IN this/DT French/JJ resort/NN city/NN ,/, were/VBD a/DT step/NN toward/IN the/DT agreement/NN that/IN everyone/NN gathered/VBN here/RB says/VBZ is/VBZ necessary/JJ _/, but/CC nobody/JJ thinks/NNS will/MD be/VB easy/JJ ./.
-
 (ROOT
   (S
     (S
@@ -341,8 +327,6 @@ aux(easy-41, will-39)
 cop(easy-41, be-40)
 conj_but(step-24, easy-41)
 
-``Everybody/NNP has/VBZ to/TO be/VB prepared/VBN to/TO take/VB a/DT step/NN toward/NN compromise/NN ,''/IN Chirac/NNP told/VBD a/DT news/NN conference/NN as/IN he/PRP prepared/VBD to/TO host/VB the/DT talks/NNS ./.
-
 (ROOT
   (S
     (NP (NNP ``Everybody))
@@ -397,8 +381,6 @@ aux(host-22, to-21)
 xcomp(prepared-20, host-22)
 det(talks-24, the-23)
 dobj(host-22, talks-24)
-
-Failure/NN to/TO find/VB an/DT agreement/NN before/IN the/DT summit/NN ends/NNS could/MD push/VB the/DT EU/NNP into/IN a/DT prolonged/JJ crisis/NN and/CC dash/VB the/DT hopes/NNS of/IN Poles/NNS ,/, Hungarians/NNPS ,/, Czechs/NNPS and/CC others/NNS seeking/VBG to/TO join/VB the/DT EU/NN over/IN the/DT next/JJ two/CD or/CC three/CD years/NNS ./.
 
 (ROOT
   (S
@@ -478,8 +460,6 @@ num(years-41, three-40)
 prep_over(EU-34, years-41)
 conj_or(two-38, years-41)
 
-Painfully/RB aware/RB of/IN the/DT high/JJ stakes/NNS ,/, leaders/NNS were/VBD hopeful/JJ an/DT agreement/NN could/MD be/VB reached/VBN as/IN the/DT summit/NN ,/, which/WDT started/VBD Thursday/NNP ,/, drags/NNS on/IN through/IN the/DT weekend/NN ./.
-
 (ROOT
   (S
     (S
@@ -539,8 +519,6 @@ pcomp(on-25, through-26)
 det(weekend-28, the-27)
 pobj(through-26, weekend-28)
 
-``I/NNP don't/NNP want/VBP to/TO speculate/VB about/IN failure/NN ,''/NNS Swedish/JJ Prime/NNP Minister/NNP Goeran/NNP Persson/NNP told/VBD reporters/NNS after/IN his/PRP$ 15-minute/JJ meeting/NN with/IN Chirac/NNP ./.
-
 (ROOT
   (S
     (S
@@ -580,8 +558,6 @@ amod(meeting-19, 15-minute-18)
 prep_after(told-14, meeting-19)
 prep_with(told-14, Chirac-21)
 
-``I/NNP don't/NNP think/VBP that/WDT is/VBZ in/IN the/DT cards/NNS ./.
-
 (ROOT
   (S
     (NP (NNP ``I) (NNP don't))
@@ -601,8 +577,6 @@ nsubj(is-5, that-4)
 ccomp(think-3, is-5)
 det(cards-8, the-7)
 prep_in(is-5, cards-8)
-
-All/JJ political/JJ logic/JJ tells/NNS me/PRP we'll/MD finally/RB find/VB an/DT agreement/NN over/IN how/WRB to/TO distribute/VB power/NN .''/.
 
 (ROOT
   (S
@@ -638,8 +612,6 @@ prepc_over(agreement-10, distribute-14)
 dobj(distribute-14, power-15)
 punct(find-8, .''-16)
 
-Chirac/NNP has/VBZ a/DT particular/JJ problem/NN ./.
-
 (ROOT
   (S
     (NP (NNP Chirac))
@@ -652,8 +624,6 @@ root(ROOT-0, has-2)
 det(problem-5, a-3)
 amod(problem-5, particular-4)
 dobj(has-2, problem-5)
-
-As/IN the/DT EU/NNP 's/POS current/JJ chairman/NN ,/, he/PRP 's/VBZ supposed/JJ to/TO broker/VB a/DT compromise/NN ./.
 
 (ROOT
   (S
@@ -683,8 +653,6 @@ aux(broker-12, to-11)
 xcomp(supposed-10, broker-12)
 det(compromise-14, a-13)
 dobj(broker-12, compromise-14)
-
-But/CC he/PRP 's/VBZ also/RB defending/VBG France/NNP 's/POS corner/NN in/IN a/DT fight/NN with/IN Germany/NNP _/, the/DT summit/NN 's/POS knottiest/JJS problem/NN ./.
 
 (ROOT
   (S (CC But)
@@ -722,8 +690,6 @@ det(summit-16, the-15)
 poss(problem-19, summit-16)
 amod(problem-19, knottiest-18)
 prep(Germany-13, problem-19)
-
-Although/IN every/NN nation/NN is/VBZ fighting/VBG to/TO maximize/VB its/PRP$ voice/NN in/IN the/DT reformed/JJ union/NN ,/, other/JJ leaders/NNS believe/VBP summit/VB success/NN hinges/NNS on/IN resolving/VBG the/DT wrangle/NN between/IN Paris/NNP and/CC Berlin/NNP over/IN who/WP controls/VBZ the/DT most/RBS votes/NNS in/IN the/DT EU/NNP 's/POS policy-setting/JJ councils/NNS ./.
 
 (ROOT
   (S
@@ -802,8 +768,6 @@ poss(councils-40, EU-37)
 amod(councils-40, policy-setting-39)
 prep_in(votes-34, councils-40)
 
-Germany/NNP ,/, its/PRP$ population/NN swollen/VBN to/TO 82/CD million/CD by/IN reunification/NN ,/, wants/VBZ its/PRP$ voting/NN weight/VBD increased/VBN to/TO reflect/VB its/PRP$ position/NN as/IN the/DT EU/NNP 's/POS biggest/JJS nation/NN ./.
-
 (ROOT
   (S
     (NP
@@ -855,8 +819,6 @@ poss(nation-26, EU-23)
 amod(nation-26, biggest-25)
 prep_as(reflect-18, nation-26)
 
-France/NNP says/VBZ that/DT strikes/NNS at/IN the/DT heart/NN of/IN postwar/NN Franco/NNP -German/NNP parity/NN ,/, which/WDT formed/VBD the/DT foundation/NN of/IN Europe/NNP 's/POS drive/JJ for/IN unity/NN ./.
-
 (ROOT
   (S
     (NP (NNP France))
@@ -904,8 +866,6 @@ prep_of(foundation-17, Europe-19)
 possessive(Europe-19, 's-20)
 amod(Europe-19, drive-21)
 prep_for(Europe-19, unity-23)
-
-Paris/NNP defends/VBZ a/DT status/NN quo/NN that/WDT gives/VBZ Germany/NNP equal/JJ voting/NN rights/NNS with/IN France/NNP ,/, Italy/NNP and/CC Britain/NNP even/RB though/IN they/PRP each/DT have/VBP fewer/JJR than/IN 60/CD million/CD citizens/NNS ./.
 
 (ROOT
   (S
@@ -961,8 +921,6 @@ number(million-26, 60-25)
 num(citizens-27, million-26)
 dobj(have-22, citizens-27)
 
-Meanwhile/RB ,/, smaller/JJR nations/NNS are/VBP struggling/VBG to/TO avoid/VB having/VBG their/PRP$ rights/NNS overwhelmed/VBN by/IN the/DT maneuvers/NNS of/IN the/DT ``big/NNP four/CD .''/.
-
 (ROOT
   (S
     (ADVP (RB Meanwhile))
@@ -1004,8 +962,6 @@ prep_of(maneuvers-15, ``big-18)
 num(``big-18, four-19)
 punct(struggling-6, .''-20)
 
-Although/IN no/DT early/JJ breakthrough/NN was/VBD in/IN sight/NN ,/, leaders/NNS hinted/VBD the/DT group/NN was/VBD edging/VBG toward/IN a/DT deal/NN ./.
-
 (ROOT
   (S
     (SBAR (IN Although)
@@ -1040,8 +996,6 @@ aux(edging-14, was-13)
 ccomp(hinted-10, edging-14)
 det(deal-17, a-16)
 prep_toward(edging-14, deal-17)
-
-``I/NNP came/VBD away/IN reasonably/RB optimistic/JJ ,''/IN French/JJ Prime/NNP Minister/NNP Lionel/NNP Jospin/NNP said/VBD after/IN one/CD round/NN of/IN talks/NNS Thursday/NN ./.
 
 (ROOT
   (S
@@ -1080,8 +1034,6 @@ prep_after(said-12, round-15)
 nn(Thursday-18, talks-17)
 prep_of(round-15, Thursday-18)
 
-``We/IN can't/NNS say/VBP there/RB was/VBD movement/NN ,/, but/CC maybe/NN there/RB was/VBD a/DT willingness/NN to/TO move/VB .''/.
-
 (ROOT
   (S
     (S
@@ -1118,8 +1070,6 @@ conj_but(movement-6, willingness-13)
 aux(move-15, to-14)
 vmod(willingness-13, move-15)
 punct(movement-6, .''-16)
-
-Suggestions/NNS of/IN compromise/NN appeared/VBN on/IN the/DT contentious/JJ issue/NN of/IN how/WRB many/JJ seats/NNS each/DT nation/NN has/VBZ on/IN the/DT EU/NNP 's/POS executive/NN body/NN ,/, the/DT European/NNP Commission/NNP ./.
 
 (ROOT
   (S
@@ -1170,8 +1120,6 @@ pobj(on-16, body-21)
 det(Commission-25, the-23)
 nn(Commission-25, European-24)
 appos(body-21, Commission-25)
-
-To/TO prevent/VB the/DT Commission/NNP from/IN becoming/VBG top-heavy/NN after/IN the/DT expansion/NN ,/, bigger/JJR nations/NNS have/VBP agreed/VBN to/TO give/VB up/RP their/PRP$ second/JJ seat/NN ,/, so/RB all/DT will/MD have/VB one/CD each/DT ./.
 
 (ROOT
   (S
@@ -1230,8 +1178,6 @@ aux(have-26, will-25)
 parataxis(agreed-15, have-26)
 dobj(have-26, one-27)
 dep(one-27, each-28)
-
-Plans/NNPS to/TO go/VB beyond/NN that/WDT ,/, to/TO introduce/VB a/DT rotation/NN where/WRB some/DT would/MD be/VB temporarily/RB without/IN a/DT seat/NN ,/, were/VBD likely/JJ to/TO be/VB shelved/VBN ./.
 
 (ROOT
   (S
@@ -1292,8 +1238,6 @@ aux(shelved-24, to-22)
 auxpass(shelved-24, be-23)
 xcomp(likely-21, shelved-24)
 
-A/DT compromise/NN also/RB seemed/VBD likely/JJ on/IN another/DT central/JJ issue/NN _/IN replacing/VBG unanimous/JJ voting/NN with/IN majority/NN decisions/NNS on/IN a/DT number/NN of/IN issues/NNS ,/, including/VBG transport/NN and/CC environmental/JJ protection/NN ./.
-
 (ROOT
   (S
     (NP (DT A) (NN compromise))
@@ -1344,8 +1288,6 @@ conj_and(transport-24, environmental-26)
 nn(protection-27, environmental-26)
 prep_including(seemed-4, protection-27)
 
-But/CC unanimous/JJ decisions/NNS were/VBD expected/VBN to/TO remain/VB the/DT rule/NN on/IN the/DT most/RBS sensitive/JJ topics/NNS ,/, such/JJ as/IN taxation/NN ,/, immigration/NN and/CC social/JJ security/NN ./.
-
 (ROOT
   (S (CC But)
     (NP (JJ unanimous) (NNS decisions))
@@ -1390,8 +1332,6 @@ conj_and(taxation-18, immigration-20)
 amod(security-23, social-22)
 prep_such_as(rule-9, security-23)
 conj_and(taxation-18, security-23)
-
-Despite/IN the/DT guarded/JJ confidence/NN ,/, the/DT leaders/NNS were/VBD aware/JJ that/IN hours/VBZ _/TO possibly/RB days/NNS _/: of/IN grueling/VBG negotiations/NNS were/VBD likely/JJ still/RB ahead/RB of/IN them/PRP after/IN they/PRP receive/VBP Chirac/NNP 's/POS treaty/NN draft/NN with/IN their/PRP$ breakfast/NN croissants/NNS Saturday/NN ./.
 
 (ROOT
   (S
@@ -1464,8 +1404,6 @@ nn(croissants-35, breakfast-34)
 prep_with(draft-31, croissants-35)
 xcomp(receive-27, Saturday-36)
 
-Meanwhile/RB ,/, few/JJ felt/NNS like/IN jeopardizing/VBG the/DT negotiations/NNS by/IN going/VBG public/NN with/IN the/DT details/NNS ./.
-
 (ROOT
   (S
     (ADVP (RB Meanwhile))
@@ -1496,8 +1434,6 @@ dobj(going-10, public-11)
 det(details-14, the-13)
 prep_with(going-10, details-14)
 
-``We/RB are/VBP in/IN clerical/JJ sessions/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -1511,8 +1447,6 @@ nsubj(are-2, ``We-1)
 root(ROOT-0, are-2)
 amod(sessions-5, clerical-4)
 prep_in(are-2, sessions-5)
-
-You/PRP know/VBP about/IN the/DT secret/NN of/IN the/DT confessional/JJ ,/, and/CC so/IN I/PRP can't/VBP comment/VB ,''/IN Spanish/JJ Foreign/NNP Minister/NNP Josep/NNP Pique/NNP said/VBD ./.
 
 (ROOT
   (S

@@ -1,5 +1,3 @@
-APW20001130.2108.0849/DT NEWS/NNP STORY/NNPS 2000-11-30/CD 21:13:04/CD
-
 (ROOT
   (NP
     (NP (DT APW20001130.2108.0849))
@@ -12,14 +10,10 @@ dep(APW20001130.2108.0849-1, STORY-3)
 num(21:13:04-5, 2000-11-30-4)
 dep(APW20001130.2108.0849-1, 21:13:04-5)
 
-Britain-Homosexual-Consent/JJ
-
 (ROOT
   (ADJP (JJ Britain-Homosexual-Consent)))
 
 root(ROOT-0, Britain-Homosexual-Consent-1)
-
-Britain/NNP Forces/NNP Through/NNP Consent/NNP Law/NNP
 
 (ROOT
   (NP (NNP Britain) (NNP Forces) (NNP Through) (NNP Consent) (NNP Law)))
@@ -29,8 +23,6 @@ nn(Law-5, Forces-2)
 nn(Law-5, Through-3)
 nn(Law-5, Consent-4)
 root(ROOT-0, Law-5)
-
-LONDON/NNP [AP/NNP ]/, _/CD After/IN three/CD defeats/NNS in/IN the/DT House/NNP of/IN Lords/NNP ,/, Britain/NNP 's/POS Labor/NNP government/NN resorted/VBD to/TO rarely/RB used/VBN powers/NNS Thursday/NN to/TO pass/VB legislation/NN lowering/VBG the/DT age/NN of/IN consent/NN for/IN homosexuals/NNS from/IN 18/CD to/TO 16/CD ./.
 
 (ROOT
   (S
@@ -103,8 +95,6 @@ number(16-37, 18-35)
 dep(16-37, to-36)
 prep_from(lowering-27, 16-37)
 
-House/NNP of/IN Commons/NNPS speaker/NN Michael/NNP Martin/NNP said/VBD he/PRP was/VBD invoking/VBG the/DT Parliament/NNP Act/NNP to/TO force/VB through/IN a/DT Sexual/JJ Offenses/NNS Bill/NNP that/WDT makes/VBZ the/DT age/NN of/IN consent/NN the/DT same/JJ for/IN both/DT homosexuals/NNS and/CC heterosexuals/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -172,8 +162,6 @@ prep_for(makes-22, homosexuals-31)
 prep_for(makes-22, heterosexuals-33)
 conj_and(homosexuals-31, heterosexuals-33)
 
-It/PRP became/VBD law/NN after/IN being/VBG given/VBN Royal/NNP Assent/NNP by/IN Queen/NNP Elizabeth/NNP II/NNP ./.
-
 (ROOT
   (S
     (NP (PRP It))
@@ -198,8 +186,6 @@ dobj(given-6, Assent-8)
 nn(II-12, Queen-10)
 nn(II-12, Elizabeth-11)
 agent(given-6, II-12)
-
-Lawmakers/NNS in/IN the/DT House/NNP of/IN Commons/NNPS overwhelmingly/RB approved/VBN the/DT bill/NN earlier/RBR this/DT year/NN ,/, but/CC the/DT House/NNP of/IN Lords/NNPS this/DT month/NN rejected/VBD it/PRP for/IN the/DT third/JJ time/NN ./.
 
 (ROOT
   (S
@@ -251,8 +237,6 @@ det(time-27, the-25)
 amod(time-27, third-26)
 prep_for(rejected-22, time-27)
 
-The/DT Lords/NNS '/POS powers/NNS ,/, however/NN ,/, are/VBP limited/JJ to/TO delaying/VBG legislation/NN by/IN blocking/VBG it/PRP and/CC bouncing/VBG it/PRP back/RB to/TO the/DT House/NNP of/IN Commons/NNPS ./.
-
 (ROOT
   (S
     (NP
@@ -302,8 +286,6 @@ det(House-22, the-21)
 prep_to(bouncing-17, House-22)
 prep_of(House-22, Commons-24)
 
-The/DT Parliament/NNP Act/NNP was/VBD created/VBN to/TO ensure/VB that/IN the/DT will/MD of/IN the/DT country/NN 's/POS elected/VBD lawmakers/NNS prevails/NNS ./.
-
 (ROOT
   (S
     (NP (DT The) (NNP Parliament) (NNP Act))
@@ -341,8 +323,6 @@ ccomp(ensure-7, elected-15)
 nn(prevails-17, lawmakers-16)
 dobj(elected-15, prevails-17)
 
-The/DT bill/NN brings/NNS Britain/NNP in/IN line/NN with/IN most/JJS other/JJ European/JJ Union/NNP nations/NNS ./.
-
 (ROOT
   (NP
     (NP (DT The) (NN bill) (NNS brings))
@@ -367,8 +347,6 @@ amod(nations-12, other-9)
 amod(nations-12, European-10)
 nn(nations-12, Union-11)
 dep(most-8, nations-12)
-
-``It/NNP is/VBZ a/DT reform/NN which/WDT ,/, in/IN my/PRP$ personal/JJ view/NN ,/, is/VBZ long/JJ overdue/JJ and/CC is/VBZ only/RB right/RB for/IN a/DT country/NN that/WDT has/VBZ a/DT history/NN of/IN reform/NN and/CC challenging/NN prejudice/NN ,''/, said/VBD Home/NNP Secretary/NNP Jack/NNP Straw/NNP ,/, Britain/NNP 's/POS top/JJ law/NN enforcement/NN officer/NN ./.
 
 (ROOT
   (SINV
@@ -450,8 +428,6 @@ nn(officer-43, law-41)
 nn(officer-43, enforcement-42)
 appos(Straw-36, officer-43)
 
-``This/NNP act/NN will/MD help/VB us/PRP to/TO build/VB a/DT safe/NN ,/, just/RB and/CC tolerant/NN society/NN ,''/IN he/PRP added/VBD ./.
-
 (ROOT
   (S
     (NP (NNP ``This) (NN act))
@@ -493,8 +469,6 @@ mark(added-17, ,''-15)
 nsubj(added-17, he-16)
 rcmod(society-14, added-17)
 
-Angela/NNP Mason/NNP ,/, director/NN of/IN the/DT gay/NN rights/NNS group/NN Stonewall/NNP ,/, said/VBD Parliament/NNP 's/POS action/NN was/VBD ``a/DT great/JJ step/NN toward/NN equality/NN .''/.
-
 (ROOT
   (S
     (NP
@@ -535,8 +509,6 @@ nn(equality-21, step-19)
 nn(equality-21, toward-20)
 ccomp(said-12, equality-21)
 punct(said-12, .''-22)
-
-``When/CD the/DT history/NN books/VBZ come/VBN to/TO be/VB written/VBN I/PRP believe/VBP it/PRP will/MD be/VB seen/VBN as/IN the/DT moment/NN when/WRB this/DT country/NN finally/RB began/VBD to/TO change/VB ,/, when/WRB lesbians/NNS and/CC gay/NN men/NNS started/VBD to/TO take/VB our/PRP$ place/NN as/IN equal/JJ members/NNS of/IN society/NN ,''/, she/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -637,8 +609,6 @@ punct(said-43, ,''-41)
 nsubj(said-43, she-42)
 root(ROOT-0, said-43)
 
-Peter/NNP Tatchell/NNP ,/, of/IN the/DT group/NN OutRage/NN !,/, said/VBD :/: ``This/NNP victory/NN is/VBZ a/DT welcome/JJ and/CC historic/JJ milestone/NN in/IN the/DT long/JJ struggle/NN for/IN gay/NN human/JJ rights/NNS .''/.
-
 (ROOT
   (S
     (S
@@ -688,8 +658,6 @@ nn(rights-26, gay-24)
 amod(rights-26, human-25)
 prep_for(struggle-22, rights-26)
 punct(said-9, .''-27)
-
-``My/JJ only/JJ regret/NN is/VBZ that/IN it/PRP has/VBZ taken/VBN 33/CD years/NNS during/IN which/WDT time/NN hundreds/NNS of/IN gay/NN men/NNS have/VBP been/VBN unjustly/JJ jailed/NN for/IN victimless/JJ relationships/NNS .''/.
 
 (ROOT
   (S
@@ -741,8 +709,6 @@ amod(relationships-24, victimless-23)
 prep_for(jailed-21, relationships-24)
 punct(is-4, .''-25)
 
-However/RB ,/, family/NN values/NNS campaigner/NN and/CC Conservative/JJ ex-Leader/NN of/IN the/DT Lords/NNPS Baroness/NNP Young/NNP accused/VBD the/DT government/NN of/IN behaving/VBG in/IN a/DT ``completely/RB dictatorial/JJ manner/NN ''/'' toward/NN Parliament/NNP ./.
-
 (ROOT
   (S
     (ADVP (RB However))
@@ -790,8 +756,6 @@ prep_in(behaving-18, manner-23)
 prep(behaving-18, toward-25)
 dep(toward-25, Parliament-26)
 
-Straw/NNP dismissed/VBD the/DT criticism/NN ./.
-
 (ROOT
   (S
     (NP (NNP Straw))
@@ -803,8 +767,6 @@ nsubj(dismissed-2, Straw-1)
 root(ROOT-0, dismissed-2)
 det(criticism-4, the-3)
 dobj(dismissed-2, criticism-4)
-
-``In/IN the/DT circumstances/NNS I/PRP believe/VBP that/IN the/DT use/NN of/IN the/DT Parliament/NNP Act/NNP in/IN this/DT case/NN is/VBZ proper/NN and/CC justified/VBD ,''/IN he/PRP said/VBD ./.
 
 (ROOT
   (S
@@ -851,8 +813,6 @@ conj_and(believe-5, justified-19)
 mark(said-22, ,''-20)
 nsubj(said-22, he-21)
 advcl(justified-19, said-22)
-
-Five/JJ years/NNS ago/RB ,/, Parliament/NNP narrowly/RB rejected/VBD lowering/VBG the/DT age/NN of/IN consent/NN for/IN homosexuals/NNS to/TO 16/CD ,/, reducing/VBG it/PRP instead/RB from/IN 21/CD to/TO 18/CD ./.
 
 (ROOT
   (S
@@ -902,8 +862,6 @@ advmod(reducing-18, instead-20)
 number(18-24, 21-22)
 dep(18-24, to-23)
 prep_from(reducing-18, 18-24)
-
-Homosexual/JJ sex/NN between/IN adults/NNS ceased/JJ to/TO be/VB a/DT crime/JJ in/IN Britain/NNP three/CD decades/NNS ago/RB ./.
 
 (ROOT
   (NP

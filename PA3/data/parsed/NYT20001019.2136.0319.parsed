@@ -1,5 +1,3 @@
-NYT20001019.2136.0319/NNP NEWS/NNP STORY/NNP 2000-10-19/CD 21:50:10/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001019.2136.0319) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(21:50:10-5, 2000-10-19-4)
 dep(STORY-3, 21:50:10-5)
-
-A0185/CD &Cx1f/NN ;/: taf-z/NNP u/NNP p/NNP BC-BUSH-LETTERMAN-NYT/NNP &LR/NNP ;/: 10-19/CD 0410/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0410-11, 10-19-10)
 dep(&LR-8, 0410-11)
 
-BC-BUSH-LETTERMAN-NYT/NNP
-
 (ROOT
   (NP (NNP BC-BUSH-LETTERMAN-NYT)))
 
 root(ROOT-0, BC-BUSH-LETTERMAN-NYT-1)
-
-ALL/NNP JOKING/NNP ASIDE/NNP ,/, BUSH/NNP FACES/NNP LETTERMAN/NNP
 
 (ROOT
   (NP
@@ -54,8 +46,6 @@ root(ROOT-0, ASIDE-3)
 nn(LETTERMAN-7, BUSH-5)
 nn(LETTERMAN-7, FACES-6)
 appos(ASIDE-3, LETTERMAN-7)
-
-&UR/NNS ;/: By/NNP ALISON/NNP MITCHELL/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -89,8 +79,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -107,8 +95,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-It/PRP started/VBD like/IN a/DT normal/JJ night/NN on/IN the/DT ``Late/JJ Show/NNP with/IN David/NNP Letterman/NNP .''/.
 
 (ROOT
   (S
@@ -135,8 +121,6 @@ nn(Letterman-13, David-12)
 prep_with(started-2, Letterman-13)
 punct(started-2, .''-14)
 
-Expecting/VBG Gov/NNP ./.
-
 (ROOT
   (S
     (VP (VBG Expecting)
@@ -145,8 +129,6 @@ Expecting/VBG Gov/NNP ./.
 
 root(ROOT-0, Expecting-1)
 dobj(Expecting-1, Gov-2)
-
-George/NNP W./NNP Bush/NNP as/IN his/PRP$ guest/NN ,/, Letterman/NNP quizzed/VBD an/DT audience/NN member/NN about/IN Texas/NNP ./.
 
 (ROOT
   (S
@@ -175,8 +157,6 @@ nn(member-12, audience-11)
 dobj(quizzed-9, member-12)
 prep_about(quizzed-9, Texas-14)
 
-He/PRP showed/VBD footage/NN of/IN the/DT governor/NN emerging/VBG from/IN a/DT black/JJ car/NN ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -201,8 +181,6 @@ det(car-11, a-9)
 amod(car-11, black-10)
 prep_from(emerging-7, car-11)
 
-He/PRP brought/VBD up/RP Bush/NNP 's/POS open/JJ mike/JJ faux/JJ pas/NNS about/IN a/DT reporter/NN ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -226,8 +204,6 @@ amod(pas-9, faux-8)
 dobj(brought-2, pas-9)
 det(reporter-12, a-11)
 prep_about(pas-9, reporter-12)
-
-But/CC quickly/RB after/IN that/DT Letterman/NNP had/VBD a/DT surprise/NN for/IN anyone/NN who/WP was/VBD expecting/VBG a/DT normal/JJ night/NN of/IN comedy/JJ _/NNS and/CC from/IN the/DT look/NN of/IN it/PRP ,/, Bush/NNP was/VBD also/RB surprised/VBN ./.
 
 (ROOT
   (S (CC But)
@@ -293,8 +269,6 @@ auxpass(surprised-30, was-28)
 advmod(surprised-30, also-29)
 root(ROOT-0, surprised-30)
 
-The/DT host/NN grilled/VBD the/DT Republican/NNP presidential/JJ candidate/NN on/IN the/DT death/NN penalty/NN ,/, the/DT bombing/NN of/IN a/DT Navy/NNP ship/NN in/IN Yemen/NNP ,/, violence/NN in/IN the/DT Middle/NNP East/NNP and/CC pollution/NN in/IN Texas/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NN host))
@@ -350,8 +324,6 @@ dobj(grilled-3, pollution-28)
 conj_and(candidate-7, pollution-28)
 prep_in(pollution-28, Texas-30)
 
-He/PRP hardly/RB seemed/VBD to/TO be/VB joking/JJ ,/, even/RB though/IN he/PRP punctured/VBD his/PRP$ questions/NNS with/IN his/PRP$ trademark/NN laugh/NN ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -388,8 +360,6 @@ poss(laugh-17, his-15)
 nn(laugh-17, trademark-16)
 prep_with(punctured-11, laugh-17)
 
-Bush/NNP did/VBD get/VB in/IN some/DT good/JJ lines/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Bush))
@@ -405,8 +375,6 @@ root(ROOT-0, get-3)
 det(lines-7, some-5)
 amod(lines-7, good-6)
 prep_in(get-3, lines-7)
-
-Asked/IN whether/IN he/PRP thought/VBD he/PRP had/VBD done/RB well/RB in/IN the/DT debate/NN ,/, he/PRP said/VBD ,/, ``well/MD a/DT lot/NN of/IN folks/NNS don't/VBP think/VB I/PRP can/MD string/VB a/DT sentence/NN together/NN so/IN when/WRB I/PRP was/VBD able/JJ to/TO do/VB so/RB ,/, the/DT expectations/NNS were/VBD so/RB low/JJ that/IN all/DT I/PRP had/VBD to/TO do/VB was/VBD say/VB ,/, `Hi/NN ,/, I/PRP 'm/VBP George/JJ W./NNP Bush/NNP .''/.
 
 (ROOT
   (S
@@ -534,8 +502,6 @@ nn(Bush-58, W.-57)
 root(ROOT-0, Bush-58)
 punct(Bush-58, .''-59)
 
-But/CC soon/NN Letterman/NNP was/VBD bearing/VBG in/IN on/IN the/DT death/NN penalty/NN ,/, saying/VBG ``we/TO make/VB a/DT lot/NN of/IN jokes/NNS about/IN you/PRP electrocuting/VBG people/NNS in/IN Texas/NNP ''/'' and/CC asking/VBG whether/IN there/EX was/VBD some/DT circumstance/NN that/WDT would/MD change/VB Bush/NNP 's/POS position/NN on/IN capital/NN punishment/NN ./.
-
 (ROOT
   (S (CC But)
     (NP (NN soon) (NNP Letterman))
@@ -619,8 +585,6 @@ dobj(change-35, position-38)
 nn(punishment-41, capital-40)
 prep_on(change-35, punishment-41)
 
-``Well/NNP obviously/RB if/IN the/DT system/NN were/VBD unfair/NN ,/, I/PRP 'd/MD think/VB about/IN it/PRP ''/'' Bush/NNP said/VBD ./.
-
 (ROOT
   (S
     (NP (NNP ``Well))
@@ -658,8 +622,6 @@ prep_about(think-11, it-13)
 nsubj(said-16, Bush-15)
 rcmod(it-13, said-16)
 
-``You/CC know/VB it/PRP 's/VBZ a/DT serious/JJ business/NN ./.
-
 (ROOT
   (S
     (NP (CC ``You))
@@ -678,8 +640,6 @@ cop(business-7, 's-4)
 det(business-7, a-5)
 amod(business-7, serious-6)
 ccomp(know-2, business-7)
-
-I/PRP hope/VBP that/IN you/PRP 're/VBP not/RB laughing/VBG at/IN the/DT expense/NN of/IN victims/NNS or/CC other/JJ people/NNS who/WP are/VBP put/VBN to/TO death/VB of/IN course/NN .''/.
 
 (ROOT
   (S
@@ -733,8 +693,6 @@ xcomp(put-18, death-20)
 prep_of(death-20, course-22)
 punct(hope-2, .''-23)
 
-Letterman/NNP pressed/VBD ,/, ``Nothing/VBG you/PRP can/MD imagine/VB would/MD cause/VB a/DT change/NN of/IN heart/NN here/RB ?''/.
-
 (ROOT
   (S
     (NP (NNP Letterman))
@@ -770,8 +728,6 @@ dobj(cause-9, change-11)
 prep_of(change-11, heart-13)
 advmod(cause-9, here-14)
 punct(pressed-2, ?''-15)
-
-Bush/NNP said/VBD he/PRP might/MD change/VB his/PRP$ mind/NN if/IN he/PRP did/VBD not/RB think/VB that/IN executions/NNS saved/VBN lives/NNS ./.
 
 (ROOT
   (S
@@ -812,8 +768,6 @@ nsubj(saved-15, executions-14)
 ccomp(think-12, saved-15)
 dobj(saved-15, lives-16)
 
-``Or/CC perhaps/RB if/IN someone/RB were/VBD wrongly/RB executed/VBN ?''/.
-
 (ROOT
   (S
     (VP (CC ``Or)
@@ -837,8 +791,6 @@ advmod(executed-7, wrongly-6)
 root(ROOT-0, executed-7)
 punct(executed-7, ?''-8)
 
-Letterman/NNP said/VBD ./.
-
 (ROOT
   (S
     (NP (NNP Letterman))
@@ -847,8 +799,6 @@ Letterman/NNP said/VBD ./.
 
 nsubj(said-2, Letterman-1)
 root(ROOT-0, said-2)
-
-``Well/NNP ,/, definitely/RB on/IN that/DT of/IN course/NN ,''/NN allowed/VBD the/DT governor/NN ./.
 
 (ROOT
   (S
@@ -873,8 +823,6 @@ prep_of(that-5, ,''-8)
 root(ROOT-0, allowed-9)
 det(governor-11, the-10)
 dobj(allowed-9, governor-11)
-
-Soon/NN the/DT two/CD were/VBD debating/VBG Bush/NNP 's/POS plan/NN for/IN oil/NN drilling/NN in/IN a/DT nature/NN preserve/NN in/IN Alaska/NNP and/CC smog/NN in/IN Texas/NNP ./.
 
 (ROOT
   (S
@@ -919,8 +867,6 @@ prep_in(debating-5, smog-19)
 conj_and(preserve-15, smog-19)
 prep_in(smog-19, Texas-21)
 
-``Don't/NNP you/PRP have/VBP bad/VBN air/NN pollution/NN down/RB in/IN Texas/NNP ,''/, the/DT host/NN wondered/VBD ./.
-
 (ROOT
   (S
     (NP
@@ -952,8 +898,6 @@ punct(host-12, ,''-10)
 det(host-12, the-11)
 prep(bad-4, host-12)
 root(ROOT-0, wondered-13)
-
-Bush/NNP said/VBD ``it/NN 's/POS getting/VBG better/RBR ''/'' and/CC noted/VBD ``we/PRP have/VBP a/DT lot/NN of/IN cars/NNS .''/.
 
 (ROOT
   (S
@@ -993,8 +937,6 @@ det(lot-13, a-12)
 dobj(have-11, lot-13)
 prep_of(lot-13, cars-15)
 punct(said-2, .''-16)
-
-A/DT taping/NN of/IN a/DT ``Saturday/NN Night/VBN Live/NNP ''/'' to/TO be/VB shown/VBN the/DT weekend/NN before/IN Election/NNP Day/NNP went/VBD more/RBR as/IN planned/JJ ./.
 
 (ROOT
   (S
@@ -1037,8 +979,6 @@ root(ROOT-0, went-17)
 advmod(as-19, more-18)
 advmod(planned-20, as-19)
 acomp(went-17, planned-20)
-
-But/CC there/EX had/VBD to/TO be/VB several/JJ retakes/NNS because/IN Bush/NNP ,/, usually/RB a/DT chronic/JJ word/NN mangler/NN ,/, could/MD not/RB produce/VB the/DT effect/NN on/IN command/NN ./.
 
 (ROOT
   (S (CC But)
@@ -1085,8 +1025,6 @@ det(effect-21, the-20)
 dobj(produce-19, effect-21)
 prep_on(produce-19, command-23)
 
-Told/NNP to/TO mispronounce/VB the/DT word/NN ``ambivalent/NN ''/'' for/IN comic/JJ effect/NN ,/, he/PRP kept/VBD pronouncing/VBG it/PRP correctly/RB ./.
-
 (ROOT
   (S
     (S
@@ -1119,8 +1057,6 @@ root(ROOT-0, kept-13)
 xcomp(kept-13, pronouncing-14)
 dobj(pronouncing-14, it-15)
 advmod(pronouncing-14, correctly-16)
-
-NYT-10-19-00/CD 2150EDT/CD
 
 (ROOT
   (FRAG

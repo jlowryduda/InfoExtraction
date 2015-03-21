@@ -1,5 +1,3 @@
-APW20001129.1802.0602/DT NEWS/NNP STORY/NNPS 2000-11-29/CD 18:28:28/CD
-
 (ROOT
   (NP
     (NP (DT APW20001129.1802.0602))
@@ -12,14 +10,10 @@ dep(APW20001129.1802.0602-1, STORY-3)
 num(18:28:28-5, 2000-11-29-4)
 dep(APW20001129.1802.0602-1, 18:28:28-5)
 
-Copley-Sale/JJ
-
 (ROOT
   (ADJP (JJ Copley-Sale)))
 
 root(ROOT-0, Copley-Sale-1)
-
-Sale/JJ of/IN Copley/NNP Newspaper/NNP Delayed/VBN
 
 (ROOT
   (ADJP (JJ Sale)
@@ -32,8 +26,6 @@ root(ROOT-0, Sale-1)
 nn(Newspaper-4, Copley-3)
 prep_of(Sale-1, Newspaper-4)
 vmod(Newspaper-4, Delayed-5)
-
-CHICAGO/NNP [AP/NNP ]/NNP _/, A/DT federal/JJ judge/NN has/VBZ issued/VBN a/DT temporary/JJ restraining/VBG order/NN against/IN Copley/NNP Press/NNPS Inc./NNP blocking/VBG the/DT sale/NN of/IN The/DT News/NNP Sun/NNP in/IN Waukegan/NNP to/TO Hollinger/NNP International/NNP ./.
 
 (ROOT
   (S
@@ -85,8 +77,6 @@ prep_of(sale-20, Sun-24)
 prep_in(Sun-24, Waukegan-26)
 nn(International-29, Hollinger-28)
 prep_to(blocking-18, International-29)
-
-The/DT judge/NN 's/POS ruling/NN was/VBD prompted/VBN by/IN a/DT lawsuit/NN filed/VBN last/JJ week/NN by/IN the/DT union/NN representing/VBG editorial/JJ workers/NNS at/IN the/DT paper/NN ,/, which/WDT claims/VBZ the/DT sale/NN would/MD not/RB require/VB Hollinger/JJR to/TO honor/VB a/DT collective-bargaining/NN agreement/NN reached/VBD between/IN the/DT paper/NN and/CC employees/NNS ./.
 
 (ROOT
   (S
@@ -170,8 +160,6 @@ prep_between(reached-36, paper-39)
 prep_between(reached-36, employees-41)
 conj_and(paper-39, employees-41)
 
-Lawyers/NNS for/IN the/DT Chicago/NNP Newspaper/NNP Guild/NNP say/VBP language/NN in/IN the/DT agreement/NN is/VBZ ``not/VBN satisfactory/JJ .''/.
-
 (ROOT
   (S
     (NP
@@ -204,8 +192,6 @@ auxpass(``not-13, is-12)
 ccomp(say-7, ``not-13)
 xcomp(``not-13, satisfactory-14)
 punct(say-7, .''-15)
-
-U.S./NNP District/NNP Judge/NNP Blanche/NNP Manning/NNP on/IN Tuesday/NNP barred/VBD the/DT sale/NN of/IN the/DT paper/NN for/IN at/IN least/JJS 10/CD days/NNS ,/, giving/VBG Copley/NNP time/NN to/TO reword/VB the/DT agreement/NN ./.
 
 (ROOT
   (S
@@ -256,8 +242,6 @@ aux(reword-24, to-23)
 vmod(time-22, reword-24)
 det(agreement-26, the-25)
 dobj(reword-24, agreement-26)
-
-``If/IN the/DT sale/NN were/VBD allowed/VBN to/TO proceed/VB ,/, the/DT union/NN would/MD be/VB without/IN a/DT legal/JJ remedy/NN and/CC would/MD suffer/VB the/DT irreparable/JJ harm/NN of/IN having/VBG the/DT [agreement/NN ]/IN being/VBG rendered/VBN a/DT nullity/NN ,''/IN Manning/NNP wrote/VBD ./.
 
 (ROOT
   (S
@@ -328,8 +312,6 @@ mark(wrote-34, ,''-32)
 nsubj(wrote-34, Manning-33)
 advcl(rendered-29, wrote-34)
 
-After/IN the/DT hearing/NN ,/, lawyers/NNS for/IN Copley/NNP would/MD not/RB say/VB if/IN they/PRP would/MD appeal/VB Manning/NNP 's/POS restraining/VBG order/NN ./.
-
 (ROOT
   (S
     (PP (IN After)
@@ -368,8 +350,6 @@ possessive(Manning-15, 's-16)
 dep(appeal-14, restraining-17)
 dobj(restraining-17, order-18)
 
-Calls/NNS to/TO Douglas/NNP A./NN Darch/NNP ,/, an/DT attorney/NN for/IN Copley/NNP ,/, were/VBD not/RB immediately/RB returned/VBN on/IN Wednesday/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -403,8 +383,6 @@ neg(returned-15, not-13)
 advmod(returned-15, immediately-14)
 root(ROOT-0, returned-15)
 prep_on(returned-15, Wednesday-17)
-
-The/DT guild/NN has/VBZ filed/VBN a/DT grievance/NN to/TO have/VB the/DT matter/NN arbitrated/VBN with/IN Copley/NNP before/IN the/DT sale/NN is/VBZ completed/VBN ./.
 
 (ROOT
   (S
@@ -444,8 +422,6 @@ det(sale-16, the-15)
 nsubjpass(completed-18, sale-16)
 auxpass(completed-18, is-17)
 advcl(arbitrated-11, completed-18)
-
-Hollinger/NNP International/NNP ,/, owner/NN of/IN the/DT Chicago/NNP Sun-Times/NNPS and/CC the/DT Daily/JJ Southtown/NN in/IN Tinley/NNP Park/NNP ,/, is/VBZ attempting/VBG to/TO acquire/VB The/DT News/NNP Sun/NNP and/CC other/JJ northern/JJ Illinois/NNS Copley/NNP newspapers/NNS ,/, including/VBG The/DT Courier/NNP News/NNP in/IN Elgin/NNP ,/, The/DT Beacon/NNP News/NNP in/IN Aurora/NNP and/CC The/DT Herald/NNP News/NNP in/IN Joliet/NNP ./.
 
 (ROOT
   (S
@@ -533,8 +509,6 @@ nn(News-46, Herald-45)
 prep_including(acquire-20, News-46)
 conj_and(News-34, News-46)
 prep_in(News-46, Joliet-48)
-
-Although/IN the/DT ruling/NN did/VBD not/RB mention/VB the/DT other/JJ Copley/NNP Press/NNP papers/NNS ,/, it/PRP is/VBZ expected/VBN that/IN The/DT News/NNP Sun/NNP issue/NN will/MD have/VB be/VB resolved/VBN before/IN the/DT sale/NN of/IN the/DT entire/JJ group/NN is/VBZ finalized/VBN ./.
 
 (ROOT
   (S

@@ -1,5 +1,3 @@
-NYT20001211.2158.0448/NNP NEWS/NNP STORY/NNP 2000-12-11/CD 22:35:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001211.2158.0448) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(22:35:00-5, 2000-12-11-4)
 dep(STORY-3, 22:35:00-5)
-
-A7071/CD &Cx1f/NN ;/: taf-z/NNP u/NNP s/NNP BC-BBA-CONE-ROYALS-NYT/NNP &LR/NNP ;/: 12-11/CD 0203/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0203-11, 12-11-10)
 dep(&LR-8, 0203-11)
 
-BC-BBA-CONE-ROYALS-NYT/NNP
-
 (ROOT
   (NP (NNP BC-BBA-CONE-ROYALS-NYT)))
 
 root(ROOT-0, BC-BBA-CONE-ROYALS-NYT-1)
-
-ROYALS/NNP OFFER/NNP CONE/NNP A/NNP ROLE/NNP AS/NNP RELIEVER/.
 
 (ROOT
   (NP (NNP ROYALS) (NNP OFFER) (NNP CONE) (NNP A) (NNP ROLE) (NNP AS) (. RELIEVER)))
@@ -53,8 +45,6 @@ nn(AS-6, ROLE-5)
 root(ROOT-0, AS-6)
 punct(AS-6, RELIEVER-7)
 
-c.2000/CD N.Y/NNP ./.
-
 (ROOT
   (NP
     (NP (CD c.2000))
@@ -63,8 +53,6 @@ c.2000/CD N.Y/NNP ./.
 
 root(ROOT-0, c.2000-1)
 appos(c.2000-1, N.Y-2)
-
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -82,8 +70,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-When/WRB David/NNP Cone/NNP heard/NN about/IN the/DT Mets/NNPS filling/VBG out/RP their/PRP$ pitching/NN rotation/NN Monday/NNP _/NNP and/CC ending/VBG their/PRP$ interest/NN in/IN signing/VBG him/PRP _/IN he/PRP was/VBD already/RB considering/VBG a/DT proposition/NN to/TO work/VB as/IN a/DT late-inning/JJ reliever/NN for/IN the/DT Kansas/NNP City/NNP Royals/NNP ./.
 
 (ROOT
   (S
@@ -160,8 +146,6 @@ nn(Royals-39, Kansas-37)
 nn(Royals-39, City-38)
 prep_for(reliever-34, Royals-39)
 
-Cone/NNP ,/, the/DT former/JJ Yankees/NNP right-hander/NN ,/, received/VBD a/DT telephone/NN call/NN Sunday/NN night/NN from/IN his/PRP$ former/JJ teammate/NN George/NNP Brett/NNP ,/, currently/RB vice/NN president/NN for/IN baseball/NN operations/NNS with/IN the/DT Royals/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -210,8 +194,6 @@ prep_for(president-23, operations-26)
 det(Royals-29, the-28)
 prep_with(received-8, Royals-29)
 
-He/PRP asked/VBD Cone/NNP if/IN he/PRP would/MD be/VB interested/JJ in/IN being/VBG a/DT setup/NN man/NN or/CC a/DT closer/NN for/IN Kansas/NNP City/NNP ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -253,8 +235,6 @@ conj_or(man-13, closer-16)
 nn(City-19, Kansas-18)
 prep_for(closer-16, City-19)
 
-``It/NNP 's/POS intriguing/JJ ,''/NN Cone/NNP said/VBD ./.
-
 (ROOT
   (S
     (NP
@@ -270,8 +250,6 @@ nn(Cone-5, ,''-4)
 nsubj(said-6, Cone-5)
 root(ROOT-0, said-6)
 
-``It/NNP got/VBD me/PRP thinking/VBG ./.
-
 (ROOT
   (S
     (NP (NNP ``It))
@@ -285,8 +263,6 @@ nsubj(got-2, ``It-1)
 root(ROOT-0, got-2)
 nsubj(thinking-4, me-3)
 dep(got-2, thinking-4)
-
-I/PRP have/VBP to/TO give/VB it/PRP some/DT thought/NN ,/, because/IN I/PRP 've/VBP been/VBN a/DT starter/NN .''/.
 
 (ROOT
   (S
@@ -321,8 +297,6 @@ cop(starter-14, been-12)
 det(starter-14, a-13)
 advcl(have-2, starter-14)
 punct(have-2, .''-15)
-
-Cone/NNP ,/, a/DT Kansas/NNP City/NNP native/JJ ,/, was/VBD originally/RB signed/VBN by/IN the/DT Royals/NNP and/CC broke/NN into/IN the/DT majors/NNS with/IN the/DT team/NN ./.
 
 (ROOT
   (S
@@ -365,8 +339,6 @@ prep_into(signed-10, majors-18)
 det(team-21, the-20)
 prep_with(majors-18, team-21)
 
-The/DT Mets/NNPS had/VBD little/JJ contact/NN with/IN Cone/NNP 's/POS agent/JJ before/IN they/PRP signed/VBD the/DT pitchers/NNS Kevin/NNP Appier/NNP and/CC Steve/NNP Trachsel/NNP on/IN Monday/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NNPS Mets))
@@ -408,8 +380,6 @@ nn(Trachsel-19, Steve-18)
 dobj(signed-12, Trachsel-19)
 conj_and(Appier-16, Trachsel-19)
 prep_on(Appier-16, Monday-21)
-
-``I/NNP wish/JJ I/PRP would've/VBP had/VBD a/DT chance/NN to/TO talk/VB to/TO them/PRP face/NN to/TO face/VB ,''/PRP said/VBD Cone/NNP ,/, who/WP believes/VBZ his/PRP$ options/NNS will/MD become/VB clearer/NN after/IN the/DT winter/NN meetings/NNS are/VBP over/RB ./.
 
 (ROOT
   (S
@@ -485,8 +455,6 @@ nsubj(over-31, meetings-29)
 cop(over-31, are-30)
 advcl(become-24, over-31)
 
-The/DT Boston/NNP Red/NNP Sox/NNP and/CC Baltimore/NNP Orioles/NNS are/VBP among/IN the/DT other/JJ teams/NNS expressing/VBG interest/NN in/IN Cone/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NNP Boston) (NNP Red) (NNP Sox)
@@ -517,8 +485,6 @@ prep_among(are-8, teams-12)
 vmod(teams-12, expressing-13)
 dobj(expressing-13, interest-14)
 prep_in(interest-14, Cone-16)
-
-NYT-12-11-00/CD 2235EST/CD
 
 (ROOT
   (FRAG

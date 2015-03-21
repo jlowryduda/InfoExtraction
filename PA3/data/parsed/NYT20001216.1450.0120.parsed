@@ -1,5 +1,3 @@
-NYT20001216.1450.0120/NNP NEWS/NNP STORY/NNP 2000-12-16/CD 15:24:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001216.1450.0120) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(15:24:00-5, 2000-12-16-4)
 dep(STORY-3, 15:24:00-5)
-
-A2255/CD &Cx1f/NN ;/: taf-z/NN u/IN a/DT BC-EXP-AMBULANCE-UNWANTE/JJ 12-16/CD 0486/CD
 
 (ROOT
   (NP
@@ -30,14 +26,10 @@ amod(0486-9, BC-EXP-AMBULANCE-UNWANTE-7)
 num(0486-9, 12-16-8)
 prep_u(taf-z-4, 0486-9)
 
-BC-EXP-AMBULANCE-UNWANTED-NYT/NNP
-
 (ROOT
   (NP (NNP BC-EXP-AMBULANCE-UNWANTED-NYT)))
 
 root(ROOT-0, BC-EXP-AMBULANCE-UNWANTED-NYT-1)
-
-AS/NNP HOSPITAL/NNP CROWDING/NNP GROWS/NNP ,/, EMERGENCY/NNP CARE/NNP SUFFERS/.
 
 (ROOT
   (NP
@@ -53,8 +45,6 @@ root(ROOT-0, GROWS-4)
 nn(CARE-7, EMERGENCY-6)
 appos(GROWS-4, CARE-7)
 punct(GROWS-4, SUFFERS-8)
-
-&UR/NNS ;/: By/NNP CAREY/NNP GOLDBERG/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -88,8 +78,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -106,8 +94,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-BOSTON/NNP _/NNP Michael/NNP McNamara/NNP 's/POS ambulance/NN took/VBD the/DT call/NN :/: an/DT 89-year-old/JJ woman/NN with/IN cancer/NN ,/, abdominal/JJ pain/NN ,/, possibly/RB a/DT broken/NN hip/NN after/IN a/DT fall/NN ./.
 
 (ROOT
   (S
@@ -152,8 +138,6 @@ nn(hip-23, broken-22)
 appos(cancer-15, hip-23)
 det(fall-26, a-25)
 prep_after(took-7, fall-26)
-
-Normally/RB ,/, McNamara/NNP ,/, an/DT emergency/NN medical/JJ technician/NN ,/, would/MD have/VB taken/VBN her/PRP$ to/TO Massachusetts/NNP General/NNP Hospital/NNP ,/, to/TO the/DT doctors/NNS who/WP care/NN for/IN her/PRP$ ./.
 
 (ROOT
   (S
@@ -202,8 +186,6 @@ dep(care-23, doctors-21)
 rcmod(doctors-21, care-23)
 prep_for(care-23, her-25)
 
-But/CC ,/, he/PRP had/VBD to/TO tell/VB her/PRP$ ,/, the/DT hospital/JJ was/VBD turning/VBG down/RP ambulances/NNS at/IN the/DT moment/NN ./.
-
 (ROOT
   (S (CC But)
     (PRN (, ,)
@@ -241,8 +223,6 @@ dobj(turning-12, ambulances-14)
 det(moment-17, the-16)
 prep_at(ambulances-14, moment-17)
 
-He/PRP had/VBD told/VBD several/JJ other/JJ patients/NNS the/DT same/JJ thing/NN that/IN afternoon/NN ,/, he/PRP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -273,8 +253,6 @@ prep_that(thing-9, afternoon-11)
 nsubj(said-14, he-13)
 root(ROOT-0, said-14)
 
-And/CC similar/JJ things/NNS on/IN many/JJ other/JJ days/NNS as/IN well/RB ./.
-
 (ROOT
   (FRAG (CC And)
     (NP
@@ -293,8 +271,6 @@ amod(days-7, other-6)
 prep_on(things-3, days-7)
 prep(things-3, as-8)
 pcomp(as-8, well-9)
-
-This/DT year/NN ,/, Massachusetts/NNP General/NNP ,/, considered/VBN one/CD of/IN the/DT country/NN 's/POS best/JJS hospitals/NNS ,/, has/VBZ been/VBN ``on/VBN diversion/NN ''/'' for/IN about/IN 45/CD hours/NNS every/JJ week/NN ;/: and/CC on/IN average/NN ,/, two/CD of/IN the/DT city/NN 's/POS emergency/NN rooms/NNS close/RB to/TO ambulances/NNS at/IN some/DT point/NN every/NN day/NN ./.
 
 (ROOT
   (S
@@ -378,8 +354,6 @@ nn(day-46, point-44)
 nn(day-46, every-45)
 prep_at(ambulances-41, day-46)
 
-For/IN years/NNS it/PRP was/VBD all/DT but/CC unheard/NN of/IN in/IN most/JJS cities/NNS for/IN a/DT hospital/JJ to/TO regularly/RB hang/VBG out/RP a/DT ``No/JJ Vacancy/NN ''/'' sign/NN for/IN ambulance/NN crews/NNS ./.
-
 (ROOT
   (S
     (PP (IN For)
@@ -429,8 +403,6 @@ dobj(hang-17, Vacancy-21)
 prep_for(cities-11, sign-23)
 nn(crews-26, ambulance-25)
 prep_for(sign-23, crews-26)
-
-But/CC in/IN recent/JJ months/NNS ,/, in/IN cities/NNS from/IN Boston/NNP to/TO San/NNP Francisco/NNP ,/, Phoenix/NNP to/TO Denver/NNP ,/, it/PRP has/VBZ become/VBN common/JJ ,/, to/TO the/DT alarm/NN of/IN doctors,/DT paramedics/NNS and/CC patients/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -485,8 +457,6 @@ det(paramedics-28, doctors,-27)
 prep_of(alarm-25, paramedics-28)
 prep_of(alarm-25, patients-30)
 conj_and(paramedics-28, patients-30)
-
-Now/RB some/DT are/VBP worrying/VBG openly/RB that/IN patient/JJ care/NN is/VBZ suffering/VBG because/IN of/IN the/DT extra/JJ minutes/NNS spent/NN in/IN ambulances/NNS and/CC because/RB of/IN the/DT emergency-room/NN crowding/NN that/WDT causes/VBZ the/DT diversions/NNS in/IN the/DT first/JJ place/NN ./.
 
 (ROOT
   (S
@@ -552,8 +522,6 @@ det(place-32, the-30)
 amod(place-32, first-31)
 prep_in(diversions-28, place-32)
 
-``Virtually/RB every/JJ major/JJ metropolitan/NN area/NN ,/, and/CC many/JJ rural/JJ areas/NNS ,/, are/VBP struggling/VBG with/IN this/DT issue/NN ,''/, said/VBD Dr/NNP ./.
-
 (ROOT
   (S
     (ADVP (RB ``Virtually))
@@ -590,8 +558,6 @@ punct(struggling-13, ,''-17)
 dep(struggling-13, said-18)
 dobj(said-18, Dr-19)
 
-Arthur/NNP Kellermann/NNP ,/, chairman/NN of/IN emergency/NN medicine/NN at/IN Emory/JJ University/NNP School/NN of/IN Medicine/NNP ./.
-
 (ROOT
   (NP
     (NP (NNP Arthur) (NNP Kellermann))
@@ -616,8 +582,6 @@ amod(School-11, Emory-9)
 nn(School-11, University-10)
 prep_at(medicine-7, School-11)
 prep_of(chairman-4, Medicine-13)
-
-``They/PRP 're/VBP seeing/VBG eight/NN or/CC 10/CD or/CC 12/CD hospitals/NNS in/IN a/DT major/JJ urban/NN market/NN simultaneously/RB on/IN EMS/NNP diversion/NN because/RB ,/, say/VBP ,/, they/PRP have/VBP no/DT inpatient/NN beds/NNS or/CC critical/JJ care/NN beds/NNS .''/.
 
 (ROOT
   (S
@@ -677,8 +641,6 @@ nn(beds-31, care-30)
 dobj(have-24, beds-31)
 conj_or(beds-27, beds-31)
 punct(have-24, .''-32)
-
-The/DT problem/NN ,/, Kellermann/NNP and/CC other/JJ emergency/NN doctors/NNS said/VBD ,/, is/VBZ not/RB only/RB the/DT crowding/NN of/IN the/DT emergency/NN rooms/NNS themselves/VBZ ;/: it/PRP is/VBZ also/RB the/DT crowding/NN of/IN acute-care/JJ hospital/JJ beds/NNS in/IN general/NN ./.
 
 (ROOT
   (S
@@ -740,8 +702,6 @@ amod(beds-30, acute-care-28)
 amod(beds-30, hospital-29)
 prep_of(crowding-26, beds-30)
 prep_in(beds-30, general-32)
-
-A/DT survey/NN this/DT year/NN of/IN more/JJR than/IN 60/CD emergency/NN department/NN directors/NNS by/IN the/DT Massachusetts/NNP College/NNP of/IN Emergency/NNP Physicians/NNPS found/VBD that/IN more/JJR than/IN 80/CD percent/NN of/IN them/PRP had/VBD been/VBN forced/VBN to/TO divert/VB ambulances/NNS and/CC about/IN 38/CD percent/JJ said/VBD they/PRP had/VBD seen/VBN ``adverse/JJ outcomes/NNS ''/'' as/IN a/DT result/NN of/IN crowding/NN ./.
 
 (ROOT
   (S
@@ -839,8 +799,6 @@ det(result-46, a-45)
 prep_as(seen-40, result-46)
 prep_of(result-46, crowding-48)
 
-But/CC some/DT remain/VBP cautious/JJ about/IN declaring/VBG a/DT crisis/NN ,/, among/IN them/PRP Dr/NNP ./.
-
 (ROOT
   (S (CC But)
     (NP (DT some))
@@ -867,8 +825,6 @@ det(crisis-8, a-7)
 dobj(declaring-6, crisis-8)
 prep_among(Dr-12, them-11)
 rcmod(crisis-8, Dr-12)
-
-Dennis/NNP S./NNP O'Leary/NNP ,/, president/NN of/IN the/DT Joint/NNP Commission/NNP on/IN Accreditation/NNP of/IN Healthcare/NNP Organizations/NNP ,/, an/DT agency/NN that/WDT certifies/VBZ hospital/JJ quality/NN ,/, who/WP has/VBZ said/VBD the/DT system/NN would/MD ``muddle/VB through/IN ''/'' the/DT problem/NN ./.
 
 (ROOT
   (NP
@@ -934,8 +890,6 @@ aux(``muddle-29, would-28)
 ccomp(said-25, ``muddle-29)
 det(problem-33, the-32)
 prep_through(``muddle-29, problem-33)
-
-In/IN a/DT telephone/NN interview/NN ,/, O'Leary/NNP said/VBD that/IN it/PRP still/RB needed/VBD to/TO be/VB scientifically/RB proved/VBN that/IN the/DT increased/JJ diversions/NNS were/VBD a/DT trend/NN and/CC not/RB the/DT kind/NN of/IN sporadic/JJ surges/NNS that/WDT have/VBP mysteriously/RB appeared/VBN and/CC disappeared/VBD before/RB ./.
 
 (ROOT
   (S
@@ -1016,16 +970,12 @@ ccomp(said-7, disappeared-35)
 conj_and(needed-11, disappeared-35)
 advmod(disappeared-35, before-36)
 
-Dr/NNP ./.
-
 (ROOT
   (FRAG
     (NP (NNP Dr))
     (. .)))
 
 root(ROOT-0, Dr-1)
-
-Alan/NNP Woodward/NNP ,/, chief/JJ of/IN emergency/NN services/NNS at/IN Emerson/NNP Hospital/NNP in/IN Concord/NNP ,/, begged/VBD to/TO differ/VB ./.
 
 (ROOT
   (S
@@ -1062,8 +1012,6 @@ root(ROOT-0, begged-14)
 aux(differ-16, to-15)
 xcomp(begged-14, differ-16)
 
-``Muddling/VBG costs/NNS lives/NNS ,''/, he/PRP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -1080,8 +1028,6 @@ dobj(``Muddling-1, lives-3)
 punct(said-6, ,''-4)
 nsubj(said-6, he-5)
 root(ROOT-0, said-6)
-
-He/PRP said/VBD O'Leary/NNP ``is/NNP unaware/NN of/IN the/DT problem/NN and/CC the/DT magnitude/NN to/TO which/WDT it/PRP 's/VBZ grown/VBN .''/.
 
 (ROOT
   (S
@@ -1118,8 +1064,6 @@ nsubjpass(grown-16, it-14)
 auxpass(grown-16, 's-15)
 rcmod(unaware-5, grown-16)
 punct(said-2, .''-17)
-
-NYT-12-16-00/CD 1524EST/CD
 
 (ROOT
   (FRAG

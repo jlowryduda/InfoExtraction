@@ -1,5 +1,3 @@
-APW20001006.0338.0184/CD NEWS/NNP STORY/NNP 2000-10-06/CD 04:05:46/CD
-
 (ROOT
   (NP
     (NP (CD APW20001006.0338.0184))
@@ -12,14 +10,10 @@ dep(APW20001006.0338.0184-1, STORY-3)
 num(04:05:46-5, 2000-10-06-4)
 dep(APW20001006.0338.0184-1, 04:05:46-5)
 
-Debate-Veeps-TV/JJ
-
 (ROOT
   (ADJP (JJ Debate-Veeps-TV)))
 
 root(ROOT-0, Debate-Veeps-TV-1)
-
-TV/NNP Pundits/NNPS Give/NNP Debate/NNP High/NNP Marks/NNP
 
 (ROOT
   (NP
@@ -32,8 +26,6 @@ root(ROOT-0, Give-3)
 nn(Marks-6, Debate-4)
 nn(Marks-6, High-5)
 dep(Give-3, Marks-6)
-
-LOS/NNP ANGELES/NNP [AP/NNP ]/NNP _/, The/DT Dick/NNP Cheney/NNP -Joe/NNP Lieberman/NNP debate/NN was/VBD praised/VBN by/IN some/DT TV/NNP commentators/NNS as/IN an/DT exercise/NN in/IN good/JJ manners/NNS and/CC condemned/VBN by/IN others/NNS as/IN bad/JJ politics/NNS ./.
 
 (ROOT
   (S
@@ -85,8 +77,6 @@ conj_and(praised-13, condemned-25)
 prep_by(condemned-25, others-27)
 amod(politics-30, bad-29)
 prep_as(others-27, politics-30)
-
-``Highly/RB civilized/VBN ,/, in/IN many/JJ ways/NNS they/PRP articulated/VBD the/DT positions/NNS of/IN their/PRP$ campaigns/NNS more/JJR effectively/RB than/IN the/DT top/NN of/IN their/PRP$ ticket/NN when/WRB they/PRP met/RB in/IN Boston/NNP ,''/, Tom/NNP Brokaw/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -147,8 +137,6 @@ appos(Brokaw-29, Tom-28)
 prep_in(met-24, Brokaw-29)
 advcl(articulated-8, said-30)
 
-``Give/JJ it/PRP a/DT rave/JJ ,''/NN said/VBD CBS/NNP anchor/NN Dan/NNP Rather/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -169,8 +157,6 @@ nn(Rather-10, CBS-7)
 nn(Rather-10, anchor-8)
 nn(Rather-10, Dan-9)
 dobj(said-6, Rather-10)
-
-This/DT will/MD go/VB down/RB as/IN the/DT best/JJS vice/NN presidential/JJ joint/NN appearance/NN on/IN television/NN since/IN the/DT television/NN era/NN in/IN presidential/JJ and/CC vice/NN presidential/JJ campaigns/NN began/NN .''/.
 
 (ROOT
   (S
@@ -217,8 +203,6 @@ nn(began-24, campaigns-23)
 dep(vice-21, began-24)
 punct(go-3, .''-25)
 
-His/PRP$ colleague/NN ,/, Bob/NNP Schieffer/NNP ,/, wondered/VBD whether/IN their/PRP$ ``bosses/NNS ,''/IN George/NNP W./NNP Bush/NNP and/CC Al/NNP Gore/NNP ,/, were/VBD watching/VBG ./.
-
 (ROOT
   (S
     (NP
@@ -257,8 +241,6 @@ conj_and(Bush-14, Gore-17)
 aux(watching-20, were-19)
 ccomp(wondered-7, watching-20)
 
-Instant/JJ polls/NNS and/CC in-studio/JJ audiences/NNS also/RB gave/VBD the/DT vice/NN presidential/JJ candidates/VBZ high/JJ marks/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -288,8 +270,6 @@ ccomp(gave-7, candidates-11)
 amod(marks-13, high-12)
 dobj(candidates-11, marks-13)
 
-But/CC some/DT observers/NNS pronounced/VBN themselves/VBZ frustrated/VBN by/IN the/DT debate/NN ./.
-
 (ROOT
   (S (CC But)
     (NP
@@ -309,8 +289,6 @@ root(ROOT-0, themselves-5)
 dep(themselves-5, frustrated-6)
 det(debate-9, the-8)
 prep_by(frustrated-6, debate-9)
-
-Fox/NNP News/NNP Channel/NNP 's/POS Mort/NNP Kondracke/NNP called/VBD it/PRP ``an/VBD opportunity/NN wasted/VBN by/IN Cheney/NNP to/TO go/VB after/IN Gore/NNP .''/.
 
 (ROOT
   (S
@@ -349,8 +327,6 @@ aux(go-15, to-14)
 xcomp(wasted-11, go-15)
 prep_after(go-15, Gore-17)
 punct(called-7, .''-18)
-
-``Maybe/RB somebody/RB could/MD have/VB given/VBN the/DT candidates/VBZ a/DT hot/JJ foot/NN or/CC put/VB a/DT joy/JJ buzzer/NN on/IN their/PRP$ seat/NN ,''/, said/VBD his/PRP$ colleague/NN ,/, Fred/JJ Barnes/NNS ./.
 
 (ROOT
   (SINV
@@ -404,8 +380,6 @@ nsubj(put-12, colleague-22)
 amod(Barnes-25, Fred-24)
 appos(colleague-22, Barnes-25)
 
-Conservative/JJ commentator/NN Bill/NNP Kristol/NNP ,/, also/RB on/IN FNC/NNP ,/, said/VBD ``the/NNP Bush/NNP campaign/NN failed/VBD to/TO do/VB what/WP it/PRP had/VBD to/TO do/VB .../:
-
 (ROOT
   (S
     (NP
@@ -456,8 +430,6 @@ ccomp(do-16, had-19)
 aux(do-21, to-20)
 xcomp(had-19, do-21)
 
-which/WDT to/TO assault/NN al/IN Gore/NNP 's/POS policies/NNS and/CC his/PRP$ credibility/NN .''/.
-
 (ROOT
   (FRAG
     (WHNP (WDT which))
@@ -481,8 +453,6 @@ poss(credibility-10, his-9)
 prep_to(which-1, credibility-10)
 conj_and(assault-3, credibility-10)
 punct(which-1, .''-11)
-
-ABC/NNP 's/POS Sam/NNP Donaldson/NNP asked/VBD plaintively/RB when/WRB it/PRP was/VBD decreed/VBN that/IN campaigners/NNS had/VBD to/TO act/VB like/IN ``gentlemen/CD and/CC ladies/NNS .''/.
 
 (ROOT
   (S
@@ -531,8 +501,6 @@ prep_like(act-15, ladies-19)
 conj_and(``gentlemen-17, ladies-19)
 punct(asked-5, .''-20)
 
-``I/PRP think/VBP that/IN 's/POS nonsense/NN ,''/, Donaldson/NNP said/VBD ./.
-
 (ROOT
   (S
     (NP (PRP ``I))
@@ -557,8 +525,6 @@ punct(nonsense-5, ,''-6)
 nsubj(said-8, Donaldson-7)
 parataxis(nonsense-5, said-8)
 
-The/DT night/NN was/VBD put/VBN in/IN perspective/JJ ./.
-
 (ROOT
   (S
     (NP (DT The) (NN night))
@@ -573,8 +539,6 @@ nsubjpass(put-4, night-2)
 auxpass(put-4, was-3)
 root(ROOT-0, put-4)
 prep_in(put-4, perspective-6)
-
-ABC/NNP anchorman/VBD Peter/NNP Jennings/NNS ,/, who/WP noted/VBD that/DT ``bottom/NN of/IN the/DT ticket/NN ''/'' doesn't/NN necessarily/RB have/VBP that/IN much/JJ affect/NN on/IN voter/NN decisions/NNS ./.
 
 (ROOT
   (S
@@ -619,8 +583,6 @@ prep_that(have-16, affect-19)
 nn(decisions-22, voter-21)
 prep_on(have-16, decisions-22)
 
-NBC/NNP 's/POS Tim/NNP Russert/NNP of/IN predicted/VBD the/DT veep/NN debate/NN 's/POS ``effect/NN on/IN the/DT election/NN will/MD practically/RB be/VB nonexistent/JJ .''/.
-
 (ROOT
   (S
     (NP
@@ -659,8 +621,6 @@ advmod(nonexistent-18, practically-16)
 cop(nonexistent-18, be-17)
 ccomp(predicted-6, nonexistent-18)
 punct(predicted-6, .''-19)
-
-A/DT group/NN of/IN undecided/JJ voters/NNS recruited/VBN by/IN NBC/NNP in/IN Tampa/NNP ,/, Fla/NNP .,/, were/VBD impressed/VBN with/IN both/DT candidates/NNS _/, and/CC ,/, with/IN a/DT non-show/JJ of/IN hands/NNS ,/, all/DT indicated/JJ they/PRP remained/VBD on/IN the/DT fence/NN ./.
 
 (ROOT
   (S
@@ -727,8 +687,6 @@ rcmod(indicated-29, remained-31)
 det(fence-34, the-33)
 prep_on(remained-31, fence-34)
 
-On/IN Tuesday/NNP ,/, an/DT estimated/VBD 46.5/CD million/CD people/NNS watched/VBD the/DT first/JJ presidential/JJ debate/NN between/IN Gore/NNP and/CC Bush/NNP ,/, which/WDT some/DT commentators/NNS deemed/VBN rancorous/JJ ./.
-
 (ROOT
   (S
     (PP (IN On)
@@ -778,8 +736,6 @@ nsubj(deemed-22, commentators-21)
 rcmod(debate-13, deemed-22)
 acomp(deemed-22, rancorous-23)
 
-Lieberman/NNP and/CC Cheney/NNP were/VBD probably/RB on/IN their/PRP$ best/JJS behavior/NN because/IN focus/NN groups/NNS told/VBD the/DT campaigns/NN that/WDT conflict/VBZ doesn't/JJ pay/NN ,/, commentators/NNS mused/VBD ./.
-
 (ROOT
   (S
     (S
@@ -826,8 +782,6 @@ amod(pay-19, doesn't-18)
 dobj(conflict-17, pay-19)
 nsubj(mused-22, commentators-21)
 root(ROOT-0, mused-22)
-
-That/DT Gore/NNP -Bush/JJ audience/NN was/VBD comparable/JJ to/TO the/DT 46.1/CD million/CD people/NNS who/WP watched/VBD the/DT first/JJ duel/NN between/IN President/NNP Clinton/NNP and/CC Bob/NNP Dole/NNP four/CD years/NNS ago/RB ,/, but/CC fell/VBD short/NN of/IN the/DT all-time/JJ record/NN :/: 80/CD million/CD people/NNS watched/VBD President/NNP Carter/NNP and/CC Ronald/NNP Reagan/NNP square/VB off/RP in/IN 1980/CD ./.
 
 (ROOT
   (S
@@ -920,8 +874,6 @@ ccomp(watched-38, square-44)
 prt(square-44, off-45)
 prep_in(square-44, 1980-47)
 
-Cheney/NNP and/CC Lieberman/NNP ,/, with/IN moderator/NN Bernie/NNP Shaw/NNP ,/, met/NN at/IN Centre/JJ College/NNP in/IN Danville/NNP ,/, Ky/NNP .,/, for/IN their/PRP$ only/JJ debate/NN ./.
-
 (ROOT
   (S
     (NP (NNP Cheney)
@@ -959,8 +911,6 @@ poss(debate-22, their-20)
 amod(debate-22, only-21)
 pobj(for-19, debate-22)
 
-Bush/NNP and/CC Gore/NNP have/VBP two/CD more/RBR debates/NNS scheduled/VBD ,/, on/IN Oct/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Bush)
@@ -986,8 +936,6 @@ advmod(two-5, more-6)
 nsubj(scheduled-8, debates-7)
 rcmod(two-5, scheduled-8)
 prep_on(scheduled-8, Oct-11)
-
-11/CD and/CC 17/CD ./.
 
 (ROOT
   (NP

@@ -1,5 +1,3 @@
-APW20001216.2012.0590/CD NEWS/NNP STORY/NNP 2000-12-16/CD 21:08:48/CD
-
 (ROOT
   (NP
     (NP (CD APW20001216.2012.0590))
@@ -12,14 +10,10 @@ dep(APW20001216.2012.0590-1, STORY-3)
 num(21:08:48-5, 2000-12-16-4)
 dep(APW20001216.2012.0590-1, 21:08:48-5)
 
-Alabama-Tornadoes/RB
-
 (ROOT
   (ADVP (RB Alabama-Tornadoes)))
 
 root(ROOT-0, Alabama-Tornadoes-1)
-
-Alabama/NNP Tornadoes/VBZ Wreak/NNP Havoc/NNP
 
 (ROOT
   (SINV
@@ -33,8 +27,6 @@ root(ROOT-0, Tornadoes-2)
 nn(Havoc-4, Wreak-3)
 nsubj(Tornadoes-2, Havoc-4)
 
-TUSCALOOSA/NNP ,/, Ala/NNP ./.
-
 (ROOT
   (NP
     (NP (NNP TUSCALOOSA))
@@ -44,8 +36,6 @@ TUSCALOOSA/NNP ,/, Ala/NNP ./.
 
 root(ROOT-0, TUSCALOOSA-1)
 appos(TUSCALOOSA-1, Ala-3)
-
-[AP/NNP ]/NNP _/, Tornadoes/VBZ destroyed/VBN homes/NNS and/CC overturned/JJ cars/NNS in/IN several/JJ areas/NNS of/IN Alabama/NNP on/IN Saturday/NNP and/CC more/JJR than/IN two/CD dozen/JJ people/NNS were/VBD reported/VBN injured/JJ ./.
 
 (ROOT
   (S
@@ -96,8 +86,6 @@ auxpass(reported-24, were-23)
 conj_and(Tornadoes-4, reported-24)
 dobj(reported-24, injured-25)
 
-At/IN least/JJS one/CD person/NN was/VBD killed/VBN in/IN Tuscaloosa/NNP ,/, said/VBD Debbie/NNP Watson/NNP ,/, spokeswoman/NN for/IN the/DT Tuscaloosa/NNP County/NNP Emergency/NNP Management/NNP Agency/NNP ./.
-
 (ROOT
   (SINV
     (S
@@ -135,8 +123,6 @@ nn(Agency-21, County-18)
 nn(Agency-21, Emergency-19)
 nn(Agency-21, Management-20)
 prep_for(spokeswoman-14, Agency-21)
-
-Twisters/NNS struck/VB just/RB before/IN noon/NN in/IN the/DT state/NN 's/POS rural/JJ southeastern/JJ corner/NN ,/, then/RB hit/VB Tuscaloosa/NNP and/CC the/DT northern/JJ part/NN of/IN the/DT state/NN as/IN lines/NNS of/IN thunderstorms/NNS swept/NN across/IN the/DT South/NNP ./.
 
 (ROOT
   (S
@@ -193,8 +179,6 @@ prep_of(lines-25, swept-28)
 det(South-31, the-30)
 prep_across(hit-15, South-31)
 
-The/DT Tuscaloosa/NNP twister/NN struck/VB a/DT subdivision/NN ,/, Watson/NNP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -214,8 +198,6 @@ det(subdivision-6, a-5)
 dobj(struck-4, subdivision-6)
 nsubj(said-9, Watson-8)
 root(ROOT-0, said-9)
-
-The/DT National/NNP Weather/NNP Service/NNP said/VBD there/RB was/VBD extensive/JJ damage/NN ./.
 
 (ROOT
   (S
@@ -238,8 +220,6 @@ cop(damage-9, was-7)
 amod(damage-9, extensive-8)
 ccomp(said-5, damage-9)
 
-Twenty-one/JJ people/NNS were/VBD injured/JJ ,/, according/VBG to/TO broadcast/VB reports/NNS ./.
-
 (ROOT
   (S
     (NP (JJ Twenty-one) (NNS people))
@@ -260,8 +240,6 @@ root(ROOT-0, injured-4)
 aux(broadcast-8, to-7)
 prepc_according(injured-4, broadcast-8)
 dobj(broadcast-8, reports-9)
-
-Another/NNP tornado/NN hit/NN Geneva/NNP ,/, near/IN the/DT Alabama/NNP -Florida/NNP line/NN ,/, said/VBD Mayor/NNP Warren/NNP Beck/NNP ./.
 
 (ROOT
   (S
@@ -288,8 +266,6 @@ nn(Beck-15, Mayor-13)
 nn(Beck-15, Warren-14)
 dobj(said-12, Beck-15)
 
-He/PRP said/VBD vehicles/NNS were/VBD overturned/JJ and/CC homes/NNS were/VBD destroyed/VBN ./.
-
 (ROOT
   (S
     (S
@@ -315,8 +291,6 @@ ccomp(said-2, overturned-5)
 nsubjpass(destroyed-9, homes-7)
 auxpass(destroyed-9, were-8)
 conj_and(said-2, destroyed-9)
-
-Geneva/NNP County/NNP Emergency/NNP Management/NNP Agency/NNP director/NN Margaret/NNP Mixon/NNP said/VBD eight/JJ people/NNS were/VBD injured/JJ ,/, two/CD of/IN them/PRP severely/RB ./.
 
 (ROOT
   (S
@@ -352,8 +326,6 @@ ccomp(said-9, injured-13)
 appos(injured-13, two-15)
 prep_of(two-15, them-17)
 advmod(injured-13, severely-18)
-
-That/DT tornado/NN also/RB damaged/VBD about/IN a/DT half-dozen/JJ homes/NNS in/IN Dale/NNP County/NNP ,/, destroying/VBG a/DT peanut/NN mill/NN at/IN Abbeville/NNP and/CC damaging/VBG a/DT textile/JJ mill/NN ,/, authorities/NNS said/VBD ./.
 
 (ROOT
   (S
@@ -402,8 +374,6 @@ dobj(damaging-20, mill-23)
 nsubj(said-26, authorities-25)
 root(ROOT-0, said-26)
 
-Dale/NNP County/NNP Commissioner/NNP Buddy/NNP Stapleton/NNP said/VBD he/PRP counted/VBD about/IN a/DT half-dozen/JJ homes/NNS hit/VBP near/IN Newton/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Dale) (NNP County) (NNP Commissioner) (NNP Buddy) (NNP Stapleton))
@@ -434,8 +404,6 @@ amod(homes-12, half-dozen-11)
 nsubj(hit-13, homes-12)
 advcl(counted-8, hit-13)
 prep_near(hit-13, Newton-15)
-
-In/IN northern/JJ Alabama/NNP ,/, about/IN eight/JJ homes/NNS were/VBD reported/VBN destroyed/VBN and/CC trees/NNS and/CC power/NN lines/NNS were/VBD toppled/VBN in/IN Limestone/NNP County/NNP ./.
 
 (ROOT
   (S

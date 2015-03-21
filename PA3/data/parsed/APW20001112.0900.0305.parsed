@@ -1,5 +1,3 @@
-APW20001112.0900.0305/CD NEWS/NNP STORY/NNP 2000-11-12/CD 10:42:53/CD
-
 (ROOT
   (NP
     (NP (CD APW20001112.0900.0305))
@@ -12,14 +10,10 @@ dep(APW20001112.0900.0305-1, STORY-3)
 num(10:42:53-5, 2000-11-12-4)
 dep(APW20001112.0900.0305-1, 10:42:53-5)
 
-Indonesia-Aceh/JJ
-
 (ROOT
   (ADJP (JJ Indonesia-Aceh)))
 
 root(ROOT-0, Indonesia-Aceh-1)
-
-6/CD Die/NN in/IN Indonesia/NNP 's/POS Aceh/NNP Province/NNP
 
 (ROOT
   (NP
@@ -34,8 +28,6 @@ root(ROOT-0, Die-2)
 poss(Province-7, Indonesia-4)
 nn(Province-7, Aceh-6)
 prep_in(Die-2, Province-7)
-
-BANDA/NNP ACEH/NNP ,/, Indonesia/NNP [AP/NNP ]/, _/DT Police/NNP searched/VBN for/IN separatist/JJ activists/NNS in/IN Indonesia/NNP 's/POS war-torn/JJ Aceh/NNP province/NN Sunday/NN after/IN tens/NNS of/IN thousands/NNS of/IN people/NNS rallied/VBD demanding/VBG an/DT independence/NN referendum/NN ./.
 
 (ROOT
   (S
@@ -91,8 +83,6 @@ xcomp(rallied-26, demanding-27)
 det(referendum-30, an-28)
 nn(referendum-30, independence-29)
 dobj(demanding-27, referendum-30)
-
-The/DT bodies/NNS of/IN six/CD people/NNS were/VBD found/VBN in/IN the/DT eastern/JJ part/NN of/IN the/DT region/NN Sunday/NN ,/, raising/VBG the/DT death/NN toll/NN from/IN four/CD days/NNS of/IN violence/NN to/TO 25/CD ,/, local/JJ hospital/NN officials/NNS and/CC police/NN said/VBD ./.
 
 (ROOT
   (S
@@ -153,8 +143,6 @@ conj_and(officials-31, police-33)
 nsubj(said-34, police-33)
 root(ROOT-0, said-34)
 
-Two/NNP were/VBD soldiers/NNS ,/, they/PRP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -171,8 +159,6 @@ cop(soldiers-3, were-2)
 ccomp(said-6, soldiers-3)
 nsubj(said-6, they-5)
 root(ROOT-0, said-6)
-
-Most/JJS of/IN the/DT civilian/JJ victims/NNS were/VBD shot/VBN by/IN security/NN forces/NNS ./.
 
 (ROOT
   (S
@@ -194,8 +180,6 @@ auxpass(shot-7, were-6)
 root(ROOT-0, shot-7)
 nn(forces-10, security-9)
 agent(shot-7, forces-10)
-
-Indonesia/NNP 's/POS reformist-minded/JJ President/NN Abdurrahman/NNP Wahid/NNP has/VBZ blamed/VBN the/DT army/NN and/CC police/NN for/IN the/DT deaths/NNS ./.
 
 (ROOT
   (S
@@ -226,8 +210,6 @@ dobj(blamed-8, police-12)
 conj_and(army-10, police-12)
 det(deaths-15, the-14)
 prep_for(army-10, deaths-15)
-
-In/IN the/DT provincial/JJ capital/NN Banda/NNP Aceh/NNP ,/, Indonesian/JJ security/NN forces/VBZ opened/VBN fire/NN at/IN two/CD cars/NNS after/IN the/DT rally/RB Saturday/JJ night/NN ,/, injuring/VBG six/CD local/JJ residents/NNS ./.
 
 (ROOT
   (S
@@ -272,8 +254,6 @@ num(residents-25, six-23)
 amod(residents-25, local-24)
 dobj(injuring-22, residents-25)
 
-Security/NNP forces/VBZ patrolled/VBN the/DT city/NN in/IN armored/JJ vehicles/NNS ,/, and/CC officers/NNS carried/VBD out/RP random/NN identification/NN checks/NNS ,/, looking/VBG for/IN separatist/JJ leaders/NNS ./.
-
 (ROOT
   (S
     (S
@@ -315,8 +295,6 @@ vmod(carried-12, looking-18)
 amod(leaders-21, separatist-20)
 prep_for(looking-18, leaders-21)
 
-Police/NNP blocked/VBD off/RP roads/NNS and/CC prevented/VBD thousands/NNS from/IN returning/VBG home/NN ./.
-
 (ROOT
   (S
     (NP (NNP Police))
@@ -343,8 +321,6 @@ dobj(prevented-6, thousands-7)
 prepc_from(prevented-6, returning-9)
 dobj(returning-9, home-10)
 
-Intercity/NNP buses/NNS were/VBD shut/JJ down/RB ./.
-
 (ROOT
   (S
     (NP (NNP Intercity) (NNS buses))
@@ -358,8 +334,6 @@ nsubj(shut-4, buses-2)
 cop(shut-4, were-3)
 root(ROOT-0, shut-4)
 advmod(shut-4, down-5)
-
-Local/NNP media/NNP reports/NNS estimated/VBD that/IN up/RB to/TO 100,000/CD people/NNS rallied/VBD Saturday/NN in/IN Banda/NNP Aceh/NNP ,/, demanding/VBG a/DT U.N/NNP .-supervised/JJ vote/NN for/IN independence/NN ./.
 
 (ROOT
   (S
@@ -402,8 +376,6 @@ amod(vote-20, .-supervised-19)
 dobj(demanding-16, vote-20)
 prep_for(vote-20, independence-22)
 
-Witnesses/NNS put/VBD the/DT figure/NN at/IN about/IN 30,000/CD ./.
-
 (ROOT
   (S
     (NP (NNS Witnesses))
@@ -421,8 +393,6 @@ dobj(put-2, figure-4)
 prep(put-2, at-5)
 pcomp(at-5, about-6)
 pobj(about-6, 30,000-7)
-
-The/DT rally/NN 's/POS organizers/NNS accused/VBN security/JJ forces/NNS of/IN preventing/VBG pro-independence/NN residents/NNS from/IN reaching/VBG the/DT capital/NN for/IN the/DT rally/NN ,/, which/WDT last/JJ year/NN attracted/VBN an/DT estimated/VBN 250,000/CD people/NNS ./.
 
 (ROOT
   (S
@@ -473,8 +443,6 @@ det(people-27, an-24)
 amod(people-27, estimated-25)
 num(people-27, 250,000-26)
 dobj(attracted-23, people-27)
-
-Separatists/NNS have/VBP fought/VBN since/IN 1975/CD for/IN independence/NN in/IN Aceh/NNP ,/, which/WDT is/VBZ rich/NN in/IN oil/NN and/CC gas/NNS and/CC has/VBZ a/DT population/NN of/IN about/IN 4.1/CD million/CD people/NNS ./.
 
 (ROOT
   (S
@@ -534,8 +502,6 @@ number(million-25, 4.1-24)
 num(people-26, million-25)
 pobj(about-23, people-26)
 
-At/IN least/JJS 5,500/CD people/NNS have/VBP been/VBN killed/VBN there/RB in/IN the/DT past/JJ decade/NN ./.
-
 (ROOT
   (S
     (NP
@@ -561,8 +527,6 @@ advmod(killed-7, there-8)
 det(decade-12, the-10)
 amod(decade-12, past-11)
 prep_in(killed-7, decade-12)
-
-The/DT government/NN plans/VBZ to/TO meet/VB with/IN the/DT rebel/NN group/NN ,/, the/DT Free/NNP Aceh/NNP Movement/NNP ,/, in/IN Switzerland/NNP this/DT week/NN to/TO try/VB to/TO stem/VB the/DT recent/JJ escalation/NN in/IN bloodshed/VBD ./.
 
 (ROOT
   (S
@@ -619,8 +583,6 @@ dobj(stem-23, escalation-26)
 mark(bloodshed-28, in-27)
 advcl(stem-23, bloodshed-28)
 
-Both/DT sides/NNS signed/VBD a/DT truce/NN in/IN Geneva/NNP on/IN June/NNP 2/CD ,/, but/CC the/DT violence/NN has/VBZ continued/VBN ,/, killing/VBG at/IN least/JJS 227/CD people/NNS since/IN then/RB ./.
-
 (ROOT
   (S
     (S
@@ -667,8 +629,6 @@ dobj(killing-18, people-22)
 prep(killing-18, since-23)
 pobj(since-23, then-24)
 
-Meanwhile/RB ,/, a/DT U.N/NNP ./.
-
 (ROOT
   (FRAG
     (ADVP (RB Meanwhile))
@@ -679,8 +639,6 @@ Meanwhile/RB ,/, a/DT U.N/NNP ./.
 dep(U.N-4, Meanwhile-1)
 det(U.N-4, a-3)
 root(ROOT-0, U.N-4)
-
-Security/NNP Council/NNP fact-finding/JJ team/NN arrived/VBD Sunday/NN in/IN East/NNP Timor/NNP ,/, which/WDT won/VBP broke/NN from/IN Indonesia/NNP last/JJ year/NN ./.
 
 (ROOT
   (S
@@ -717,8 +675,6 @@ prep_from(won-12, Indonesia-15)
 amod(year-17, last-16)
 tmod(arrived-5, year-17)
 
-The/DT mission/NN was/VBD to/TO assess/VB the/DT security/NN situation/NN on/IN the/DT island/NN after/IN the/DT deaths/NNS of/IN three/CD U.N/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NN mission))
@@ -754,8 +710,6 @@ det(deaths-14, the-13)
 prep_after(assess-5, deaths-14)
 prep_of(deaths-14, three-16)
 appos(three-16, U.N-17)
-
-aid/JJ workers/NNS in/IN Indonesian/JJ West/NNP Timor/NNP in/IN September/NNP ./.
 
 (ROOT
   (NP

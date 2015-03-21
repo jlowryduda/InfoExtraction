@@ -1,5 +1,3 @@
-APW20001030.1921.0538/DT NEWS/NNP STORY/NNPS 2000-10-30/CD 19:59:00/CD
-
 (ROOT
   (NP
     (NP (DT APW20001030.1921.0538))
@@ -12,21 +10,15 @@ dep(APW20001030.1921.0538-1, STORY-3)
 num(19:59:00-5, 2000-10-30-4)
 dep(APW20001030.1921.0538-1, 19:59:00-5)
 
-Indonesia-US/NNP
-
 (ROOT
   (NP (NNP Indonesia-US)))
 
 root(ROOT-0, Indonesia-US-1)
 
-U.S/NNS ./.
-
 (ROOT
   (NP (NNS U.S) (. .)))
 
 root(ROOT-0, U.S-1)
-
-Embassy/JJ in/IN Jakarta/NNP Still/RB Closed/VBD
 
 (ROOT
   (S
@@ -42,8 +34,6 @@ nsubj(Closed-5, Embassy-1)
 prep_in(Embassy-1, Jakarta-3)
 advmod(Closed-5, Still-4)
 root(ROOT-0, Closed-5)
-
-JAKARTA/NNP ,/, Indonesia/NNP [AP/NNP ]/NNP _/, The/DT U.S/NNP ./.
 
 (ROOT
   (NP
@@ -63,8 +53,6 @@ punct(U.S-8, _-6)
 det(U.S-8, The-7)
 prep(]-5, U.S-8)
 
-ambassador/JJ sharply/JJ criticizes/NNS Indonesia/NNP 's/POS reform/NN efforts/NNS ./.
-
 (ROOT
   (NP
     (NP (JJ ambassador) (JJ sharply) (NNS criticizes))
@@ -81,8 +69,6 @@ root(ROOT-0, criticizes-3)
 poss(reform-6, Indonesia-4)
 dep(criticizes-3, reform-6)
 dep(reform-6, efforts-7)
-
-Indonesian/JJ leaders/NNS criticize/IN him/PRP right/RB back/RB ,/, calling/VBG him/PRP an/DT interfering/JJ bully/RB ./.
 
 (ROOT
   (S
@@ -110,8 +96,6 @@ det(interfering-11, an-10)
 npadvmod(bully-12, interfering-11)
 advmod(calling-8, bully-12)
 
-Angry/NNP Indonesians/NNPS search/NN hotels/NNS for/IN Americans/NNPS ./.
-
 (ROOT
   (NP
     (NP (NNP Angry) (NNPS Indonesians))
@@ -127,8 +111,6 @@ nn(hotels-4, search-3)
 dep(Indonesians-2, hotels-4)
 prep_for(hotels-4, Americans-6)
 
-The/DT U.S/NNP ./.
-
 (ROOT
   (FRAG
     (NP (DT The) (NNP U.S))
@@ -136,8 +118,6 @@ The/DT U.S/NNP ./.
 
 det(U.S-2, The-1)
 root(ROOT-0, U.S-2)
-
-Embassy/JJ closes/NNS its/PRP$ doors/NNS to/TO the/DT public/NN ./.
 
 (ROOT
   (NP
@@ -154,8 +134,6 @@ poss(doors-4, its-3)
 dep(closes-2, doors-4)
 det(public-7, the-6)
 prep_to(doors-4, public-7)
-
-Relations/NNS between/IN the/DT United/NNP States/NNPS and/CC this/DT sprawling/NN southeast/RB Asian/JJ nation/NN have/VBP soured/VBN in/IN recent/JJ months/NNS ,/, poisoned/VBN in/IN part/NN by/IN bitter/NN exchanges/NNS between/IN the/DT U.S/NNP ./.
 
 (ROOT
   (S
@@ -207,8 +185,6 @@ prep_by(poisoned-18, exchanges-23)
 det(U.S-26, the-25)
 prep_between(poisoned-18, U.S-26)
 
-ambassador/JJ and/CC local/JJ officials/NNS ./.
-
 (ROOT
   (NP
     (NP
@@ -220,8 +196,6 @@ ambassador/JJ and/CC local/JJ officials/NNS ./.
 root(ROOT-0, ambassador-1)
 amod(officials-4, local-3)
 conj_and(ambassador-1, officials-4)
-
-The/DT problem/NN has/VBZ been/VBN compounded/VBN by/IN anger/NN in/IN Indonesia/NNP ,/, the/DT world/NN 's/POS most/JJS populous/JJ Muslim/NNP country/NN ,/, over/IN Washington/NNP 's/POS stance/NN on/IN the/DT Israeli/NNP -Palestinian/JJ violence/NN _/IN many/JJ here/RB say/VBP the/DT United/NNP States/NNPS has/VBZ taken/VBN Israel/NNP 's/POS side/NN ./.
 
 (ROOT
   (S
@@ -294,8 +268,6 @@ ccomp(say-31, taken-36)
 poss(side-39, Israel-37)
 dobj(taken-36, side-39)
 
-Add/IN the/DT factors/NNS together/NN ,/, and/CC U.S/NNP ./.
-
 (ROOT
   (FRAG
     (PP (IN Add)
@@ -312,8 +284,6 @@ nn(together-4, factors-3)
 pobj(Add-1, together-4)
 pobj(Add-1, U.S-7)
 conj_and(together-4, U.S-7)
-
-officials/NNS don't/VBP like/IN what/WP they/PRP see/VBP :/: They/PRP have/VBP advised/JJ U.S/NNS ./.
 
 (ROOT
   (S
@@ -343,8 +313,6 @@ parataxis(don't-2, have-9)
 amod(U.S-11, advised-10)
 dobj(have-9, U.S-11)
 
-citizens/NNS in/IN Indonesia/NNP to/TO be/VB wary/JJ ./.
-
 (ROOT
   (NP
     (NP (NNS citizens))
@@ -362,8 +330,6 @@ aux(wary-6, to-4)
 cop(wary-6, be-5)
 vmod(citizens-1, wary-6)
 
-On/IN Monday/NNP ,/, the/DT U.S/NNP ./.
-
 (ROOT
   (FRAG
     (PP (IN On))
@@ -376,8 +342,6 @@ prep(Monday-2, On-1)
 root(ROOT-0, Monday-2)
 det(U.S-5, the-4)
 dep(Monday-2, U.S-5)
-
-Embassy/JJ condemned/JJ what/WP it/PRP described/VBN as/IN ``hostile/JJ actions/NNS ''/'' that/IN threaten/RB American/JJ lives/NNS and/CC endanger/JJR relations/NNS along/RB with/IN trade/NN ,/, investment/NN and/CC tourism/NN :/:
 
 (ROOT
   (NP
@@ -424,8 +388,6 @@ prep_along_with(lives-13, investment-21)
 conj_and(trade-19, investment-21)
 prep_along_with(lives-13, tourism-23)
 conj_and(trade-19, tourism-23)
-
-_Over/RB the/DT weekend/NN ,/, Islamic/JJ militants/NNS went/VBD to/TO hotels/NNS in/IN the/DT central/JJ Javanese/JJ city/NN of/IN Solo/NN ,/, demanding/VBG that/IN American/NNP tourists/NNS leave/VBP the/DT country/NN within/IN 48/CD hours/NNS ./.
 
 (ROOT
   (S
@@ -475,8 +437,6 @@ det(country-24, the-23)
 dobj(leave-22, country-24)
 num(hours-27, 48-26)
 prep_within(country-24, hours-27)
-
-_The/JJ <ORG-e6/JJ type="NOM"><FAC-e25/JJ type="NOM">embassy</NN located/VBD across/IN Jakarta/NNP 's/POS main/NN park/NN from/IN the/DT presidential/JJ palace/NN ,/, suspended/VBD its/PRP$ public/JJ functions/NNS for/IN at/IN least/JJS a/DT week/NN after/IN a/DT series/NN of/IN protests/NNS and/CC threats/NNS ./.
 
 (ROOT
   (SINV
@@ -531,8 +491,6 @@ prep_of(series-27, protests-29)
 prep_of(series-27, threats-31)
 conj_and(protests-29, threats-31)
 
-Muslim/NNP youths/VBZ recently/RB staged/VBN a/DT half/NN dozen/VBN rallies/NNS in/IN front/NN of/IN the/DT embassy/JJ to/TO protest/VB Washington/NNP 's/POS perceived/JJ bias/NNS in/IN favor/NN of/IN Israel/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Muslim))
@@ -580,8 +538,6 @@ dobj(protest-15, bias-19)
 prep_in(protest-15, favor-21)
 prep_of(favor-21, Israel-23)
 
-_The/IN U.S/NNP ./.
-
 (ROOT
   (FRAG
     (PP (IN _The)
@@ -590,8 +546,6 @@ _The/IN U.S/NNP ./.
 
 root(ROOT-0, _The-1)
 pobj(_The-1, U.S-2)
-
-consulate/NN in/IN Indonesia/NNP 's/POS second-largest/JJ city/NN ,/, Surabaya/NNP ,/, also/RB has/VBZ been/VBN attacked/VBN ,/, and/CC American/NNP and/CC Israeli/NNP flags/NNS are/VBP regularly/RB burned/VBN in/IN the/DT streets/NNS ./.
 
 (ROOT
   (S
@@ -642,15 +596,11 @@ conj_and(attacked-13, burned-22)
 det(streets-25, the-24)
 prep_in(burned-22, streets-25)
 
-_A/NNP U.S/NNP ./.
-
 (ROOT
   (NP (NNP _A) (NNP U.S) (. .)))
 
 nn(U.S-2, _A-1)
 root(ROOT-0, U.S-2)
-
-tourist/NN was/VBD detained/VBN and/CC accused/VBD of/IN spying/VBG after/IN photographing/VBG a/DT riot/NN in/IN the/DT province/NN of/IN Irian/JJ Jaya/NNP ./.
 
 (ROOT
   (S
@@ -687,8 +637,6 @@ prep_in(photographing-9, province-14)
 amod(Jaya-17, Irian-16)
 prep_of(province-14, Jaya-17)
 
-Just/RB a/DT year/NN ago/RB ,/, Washington/NNP was/VBD offering/VBG enthusiastic/JJ backing/NN for/IN Indonesia/NNP 's/POS nascent/JJ democracy/NN ./.
-
 (ROOT
   (S
     (ADVP
@@ -718,8 +666,6 @@ dobj(offering-8, backing-10)
 poss(democracy-15, Indonesia-12)
 amod(democracy-15, nascent-14)
 prep_for(backing-10, democracy-15)
-
-But/CC in/IN the/DT months/NNS since/IN ,/, reform/NN has/VBZ stalled/VBN amid/JJ rampant/NN violence/NN ,/, political/JJ infighting/NN and/CC scandal/NN ./.
 
 (ROOT
   (S (CC But)
@@ -754,8 +700,6 @@ dobj(stalled-9, infighting-15)
 conj_and(violence-12, infighting-15)
 dobj(stalled-9, scandal-17)
 conj_and(violence-12, scandal-17)
-
-Sectarian/JJ fighting/NN regularly/RB claims/VBZ lives/NNS in/IN several/JJ Indonesian/JJ regions/NNS and/CC pro-Indonesian/JJ militias/NNS continue/VBP to/TO attack/VB peacekeepers/NNS in/IN East/NNP Timor/NNP ,/, the/DT territory/NN that/WDT gained/VBD independence/NN from/IN Indonesia/NNP last/JJ year/NN ./.
 
 (ROOT
   (S
@@ -817,8 +761,6 @@ prep_from(gained-24, Indonesia-27)
 amod(year-29, last-28)
 tmod(gained-24, year-29)
 
-Such/JJ problems/NNS have/VBP led/VBN to/TO growing/VBG discord/NN between/IN Indonesian/JJ officials/NNS and/CC U.S/NNS ./.
-
 (ROOT
   (S
     (NP (JJ Such) (NNS problems))
@@ -844,16 +786,12 @@ prep_between(discord-7, officials-10)
 prep_between(discord-7, U.S-12)
 conj_and(officials-10, U.S-12)
 
-Ambassador/NNP Robert/NNP Gelbard/NNP ./.
-
 (ROOT
   (NP (NNP Ambassador) (NNP Robert) (NNP Gelbard) (. .)))
 
 nn(Gelbard-3, Ambassador-1)
 nn(Gelbard-3, Robert-2)
 root(ROOT-0, Gelbard-3)
-
-Gelbard/NNP arrived/VBD in/IN Jakarta/NNP last/JJ year/NN after/IN earning/VBG a/DT reputation/NN as/IN a/DT tough/NN talker/NN as/IN President/NNP Clinton/NNP 's/POS envoy/NN to/TO the/DT Balkans/NNPS ./.
 
 (ROOT
   (S
@@ -893,8 +831,6 @@ poss(envoy-19, Clinton-17)
 prep_as(talker-14, envoy-19)
 det(Balkans-22, the-21)
 prep_to(earning-8, Balkans-22)
-
-Among/DT other/JJ things/NNS ,/, he/PRP has/VBZ publicly/RB insisted/VBN that/IN Indonesia/NNP 's/POS government/NN make/VBP good/JJ on/IN promises/NNS to/TO take/VB difficult/JJ steps/NNS to/TO fix/VB the/DT economy/NN and/CC bring/VB to/TO justice/VB those/DT responsible/JJ for/IN the/DT bloody/JJ destruction/NN of/IN East/NNP Timor/NNP after/IN the/DT independence/NN vote/NN ./.
 
 (ROOT
   (S
@@ -976,8 +912,6 @@ det(independence-40, the-39)
 prep_after(Timor-37, independence-40)
 dobj(justice-28, vote-41)
 
-Indonesian/JJ lawmakers/NNS have/VBP been/VBN irritated/VBN by/IN Gelbard/NNP 's/POS blunt/JJ style/NN :/: They/PRP prefer/VBP to/TO conduct/NN politics/NNS in/IN a/DT polite/NN and/CC non-confrontational/JJ way/NN that/IN follows/VBZ the/DT traditions/NNS of/IN the/DT main/NN island/NN of/IN Java/NNP ./.
-
 (ROOT
   (S
     (S
@@ -1041,8 +975,6 @@ nn(island-30, main-29)
 prep_of(traditions-26, island-30)
 prep_of(island-30, Java-32)
 
-Last/JJ week/NN some/DT members/NNS of/IN a/DT parliamentary/JJ committee/NN urged/VBD the/DT government/NN to/TO declare/VB Gelbard/NNP ``persona/NNP non/NNP grata/NNP .''/.
-
 (ROOT
   (S
     (NP (JJ Last) (NN week))
@@ -1076,8 +1008,6 @@ nn(grata-17, non-16)
 dobj(declare-13, grata-17)
 punct(urged-9, .''-18)
 
-The/DT call/NN was/VBD rejected/VBN by/IN President/NNP Abdurrahman/NNP Wahid/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NN call))
@@ -1094,8 +1024,6 @@ root(ROOT-0, rejected-4)
 nn(Wahid-8, President-6)
 nn(Wahid-8, Abdurrahman-7)
 agent(rejected-4, Wahid-8)
-
-``We/JJ don't/NN hate/NN America/NNP as/IN a/DT nation/NN ,/, but/CC we/PRP regret/VBP the/DT ambassador/JJ ,''/NN commission/NN chairman/NN Ananta/NNP Baharuddin/NNP said/VBD at/IN a/DT committee/NN hearing/NN ./.
 
 (ROOT
   (S
@@ -1137,8 +1065,6 @@ det(hearing-23, a-21)
 nn(hearing-23, committee-22)
 prep_at(said-19, hearing-23)
 
-Legislators/NNS accuse/VBP Gelbard/NNP and/CC Washington/NNP of/IN bullying/VBG the/DT government/NN ./.
-
 (ROOT
   (S
     (NP (NNS Legislators))
@@ -1161,8 +1087,6 @@ conj_and(Gelbard-3, Washington-5)
 prepc_of(Gelbard-3, bullying-7)
 det(government-9, the-8)
 dobj(bullying-7, government-9)
-
-Military/NNP leaders/NNS accuse/VB them/PRP of/IN interfering/NN in/IN Indonesia/NNP 's/POS internal/JJ affairs/NNS ./.
 
 (ROOT
   (S
@@ -1187,8 +1111,6 @@ poss(affairs-11, Indonesia-8)
 amod(affairs-11, internal-10)
 prep_in(interfering-6, affairs-11)
 
-In/IN September/NNP ,/, three/CD of/IN the/DT U.N/NNP ./.
-
 (ROOT
   (FRAG
     (PP (IN In)
@@ -1204,8 +1126,6 @@ prep_in(three-4, September-2)
 root(ROOT-0, three-4)
 det(U.N-7, the-6)
 prep_of(three-4, U.N-7)
-
-workers/NNS stationed/VBN in/IN East/NNP Timor/NNP were/VBD killed/VBN in/IN Indonesian/JJ -controlled/JJ West/NNP Timor/NNP ./.
 
 (ROOT
   (S
@@ -1230,8 +1150,6 @@ amod(Timor-12, Indonesian-9)
 amod(Timor-12, -controlled-10)
 nn(Timor-12, West-11)
 prep_in(killed-7, Timor-12)
-
-The/DT United/NNP States/NNPS is/VBZ seen/VBN as/IN the/DT driving/VBG force/NN behind/IN international/JJ pressure/NN on/IN Indonesia/NNP in/IN the/DT wake/NN of/IN those/DT deaths/NNS ,/, said/VBD Dewi/NNP Fortuna/NNP Anwar/NNP ,/, an/DT adviser/NN to/TO Wahid/NNP 's/POS predecessor/NN ,/, B.J./NNP Habibie/NNP ./.
 
 (ROOT
   (SINV
@@ -1295,8 +1213,6 @@ prep_to(adviser-28, predecessor-32)
 nn(Habibie-35, B.J.-34)
 appos(predecessor-32, Habibie-35)
 
-``People/JJ find/NN it/PRP very/RB unfair/JJ that/IN the/DT United/NNP States/NNPS harshly/RB criticizes/VBZ Indonesia/NNP over/IN the/DT deaths/NNS of/IN three/CD U.N/NNP ./.
-
 (ROOT
   (S
     (NP (JJ ``People))
@@ -1338,8 +1254,6 @@ prep_over(Indonesia-12, deaths-15)
 prep_of(deaths-15, three-17)
 xcomp(criticizes-11, U.N-18)
 
-workers/NNS and/CC then/RB does/VBZ not/RB condemn/VB Israel/NNP over/IN the/DT deaths/NNS of/IN more/JJR than/IN 100/CD Palestinians/NNPS ,''/, she/PRP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -1380,8 +1294,6 @@ punct(said-18, ,''-16)
 nsubj(said-18, she-17)
 root(ROOT-0, said-18)
 
-``Countries/NNS going/VBG through/IN transition/NN are/VBP always/RB more/RBR nationalistic/JJ and/CC sensitive/JJ to/TO outside/VB influences/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -1415,8 +1327,6 @@ aux(outside-12, to-11)
 xcomp(sensitive-10, outside-12)
 dobj(outside-12, influences-13)
 
-But/CC this/DT is/VBZ also/RB a/DT matter/NN of/IN personality/NN ,''/, Anwar/NNP said/VBD ./.
-
 (ROOT
   (S (CC But)
     (NP (DT this))
@@ -1442,8 +1352,6 @@ prep_of(matter-6, personality-8)
 punct(said-11, ,''-9)
 nsubj(said-11, Anwar-10)
 dep(matter-6, said-11)
-
-``What/JJ Gelbard/NNP has/VBZ been/VBN up/RP to/TO has/VBZ been/VBN the/DT straw/NN that/WDT has/VBZ broken/VBN the/DT camel/NN 's/POS back/RB .''/.
 
 (ROOT
   (S
@@ -1486,8 +1394,6 @@ xcomp(broken-13, camel-15)
 possessive(camel-15, 's-16)
 advmod(broken-13, back-17)
 punct(been-4, .''-18)
-
-Gelbard/NNP was/VBD not/RB available/JJ for/IN comment/NN Monday/NNP ,/, but/CC in/IN the/DT past/NN has/VBZ maintained/VBN that/IN the/DT United/NNP States/NNPS still/RB strongly/RB supports/NNS democratic/JJ reforms/NNS in/IN Indonesia/NNP ./.
 
 (ROOT
   (S
@@ -1539,8 +1445,6 @@ amod(reforms-23, democratic-22)
 nsubj(maintained-14, reforms-23)
 prep_in(reforms-23, Indonesia-25)
 
-Anwar/NNP and/CC others/NNS warn/VBP that/IN anti-American/JJ sentiment/NN could/MD rise/VB ,/, particularly/RB among/IN Wahid/NNP 's/POS political/JJ opponents/NNS ,/, who/WP are/VBP pressing/VBG for/IN his/PRP$ resignation/NN ./.
-
 (ROOT
   (S
     (NP
@@ -1587,8 +1491,6 @@ aux(pressing-20, are-19)
 rcmod(opponents-16, pressing-20)
 poss(resignation-23, his-22)
 prep_for(pressing-20, resignation-23)
-
-``But/NN just/RB remember/JJR ,/, if/IN relations/NNS are/VBP allowed/VBN to/TO deteriorate/VB any/DT further/JJ ,/, Indonesia/NNP and/CC its/PRP$ people/NNS have/VBP far/RB more/RBR to/TO lose/VB than/IN the/DT United/NNP States/NNPS does/VBZ ,''/RB The/DT Jakarta/NNP Post/NNP said/VBD in/IN an/DT editorial/JJ Monday/NNP ./.
 
 (ROOT
   (S
@@ -1665,8 +1567,6 @@ det(Monday-36, an-34)
 amod(Monday-36, editorial-35)
 prep_in(said-32, Monday-36)
 
-The/DT United/NNP States/NNPS gives/VBZ Indonesia/NNP millions/NNS of/IN dollars/NNS in/IN aid/JJ and/CC is/VBZ a/DT major/JJ market/NN for/IN the/DT country/NN 's/POS exports/NNS ./.
-
 (ROOT
   (S
     (NP (DT The) (NNP United) (NNPS States))
@@ -1706,8 +1606,6 @@ det(country-18, the-17)
 poss(exports-20, country-18)
 prep_for(market-15, exports-20)
 
-President/NNP Wahid/NNP initially/RB enjoyed/VBN warm/NN relations/NNS with/IN the/DT United/NNP States/NNPS ./.
-
 (ROOT
   (S
     (NP (NNP President) (NNP Wahid))
@@ -1727,8 +1625,6 @@ dobj(enjoyed-4, relations-6)
 det(States-10, the-8)
 nn(States-10, United-9)
 prep_with(enjoyed-4, States-10)
-
-As/IN Indonesia/NNP 's/POS first/JJ democratically/JJ chosen/JJ head/NN of/IN state/NN in/IN four/CD decades/NNS ,/, he/PRP visited/VBD Clinton/NNP twice/NN at/IN the/DT White/NNP House/NNP ,/, and/CC Washington/NNP has/VBZ been/VBN a/DT strong/JJ supporter/NN of/IN International/NNP Monetary/NNP Fund/NNP aid/VBD to/TO Indonesia/NNP ./.
 
 (ROOT
   (S
@@ -1792,8 +1688,6 @@ prep_of(supporter-29, Fund-33)
 vmod(Fund-33, aid-34)
 prep_to(aid-34, Indonesia-36)
 
-However/RB ,/, relations/NNS became/VBD strained/VBN after/IN Wahid/NNP 's/POS commitment/NN to/TO reform/VB appeared/VBN to/TO waver/VB ./.
-
 (ROOT
   (S
     (ADVP (RB However))
@@ -1826,8 +1720,6 @@ dep(reform-11, appeared-12)
 aux(waver-14, to-13)
 xcomp(appeared-12, waver-14)
 
-They/PRP deteriorated/VBD further/RBR when/WRB Wahid/NNP made/VBD an/DT official/NN visit/NN to/TO Cuba/NNP ./.
-
 (ROOT
   (S
     (NP (PRP They))
@@ -1853,8 +1745,6 @@ det(visit-9, an-7)
 nn(visit-9, official-8)
 dobj(made-6, visit-9)
 prep_to(made-6, Cuba-11)
-
-He/PRP has/VBZ also/RB announced/VBD plans/NNS to/TO travel/VB to/TO Iraq/NNP ./.
 
 (ROOT
   (S

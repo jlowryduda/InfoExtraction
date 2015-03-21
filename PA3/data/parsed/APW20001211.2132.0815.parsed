@@ -1,5 +1,3 @@
-APW20001211.2132.0815/DT NEWS/NNP STORY/NNPS 2000-12-11/CD 21:55:42/CD
-
 (ROOT
   (NP
     (NP (DT APW20001211.2132.0815))
@@ -12,14 +10,10 @@ dep(APW20001211.2132.0815-1, STORY-3)
 num(21:55:42-5, 2000-12-11-4)
 dep(APW20001211.2132.0815-1, 21:55:42-5)
 
-SOC-MLS-Lawsuit/NN
-
 (ROOT
   (NP (NN SOC-MLS-Lawsuit)))
 
 root(ROOT-0, SOC-MLS-Lawsuit-1)
-
-Major/NNP League/NNP Soccer/NNP Wins/NNP Lawsuit/NNP
 
 (ROOT
   (NP (NNP Major) (NNP League) (NNP Soccer) (NNP Wins) (NNP Lawsuit)))
@@ -29,8 +23,6 @@ nn(Lawsuit-5, League-2)
 nn(Lawsuit-5, Soccer-3)
 nn(Lawsuit-5, Wins-4)
 root(ROOT-0, Lawsuit-5)
-
-BOSTON/NNP [AP/NNP ]/, _/DT Major/NNP League/NNP Soccer/NNP scored/VBD a/DT victory/NN over/IN its/PRP$ players/NNS on/IN Monday/NNP when/WRB a/DT jury/NN decided/VBD that/IN the/DT league/NN was/VBD not/RB a/DT monopoly/NN with/IN the/DT power/NN to/TO depress/VB salaries/NNS ./.
 
 (ROOT
   (S
@@ -93,8 +85,6 @@ aux(depress-31, to-30)
 vmod(power-29, depress-31)
 dobj(depress-31, salaries-32)
 
-The/DT class-action/NN antitrust/RB lawsuit/VBD filed/VBN in/IN federal/JJ court/NN claimed/VBD that/IN MLS/NNP owners/NNS conspired/VBN with/IN the/DT U.S./NNP Soccer/NN Federation/NN to/TO eliminate/VB competition/NN for/IN Division/NNP I/PRP soccer/VBP players/NNS ./.
-
 (ROOT
   (S
     (NP (DT The) (NN class-action))
@@ -151,8 +141,6 @@ prep_for(competition-21, Division-23)
 nsubj(soccer-25, I-24)
 rcmod(competition-21, soccer-25)
 dobj(soccer-25, players-26)
-
-But/CC after/IN about/IN a/DT day/NN of/IN deliberation/NN ,/, the/DT jury/NN found/VBD that/DT plenty/NN of/IN competition/NN existed/VBN _/IN in/IN Europe/NNP ,/, in/IN Latin/NNP America/NNP ,/, and/CC in/IN minor/NN and/CC indoor/NN leagues/NNS in/IN the/DT United/NNP States/NNPS ./.
 
 (ROOT
   (S (CC But)
@@ -218,8 +206,6 @@ det(States-34, the-32)
 nn(States-34, United-33)
 prep_in(existed-16, States-34)
 
-``We/JJ couldn't/NN have/VBP told/VBD the/DT players/NNS ,/, 'Take/IN it/PRP or/CC leave/VB it/PRP ,'/, because/IN they/PRP had/VBD other/JJ places/NNS to/TO go/VB ,''/PRP said/VBD Michael/NNP Cardozo/NNP ,/, an/DT attorney/NN for/IN MLS/NNP ./.
-
 (ROOT
   (SINV
     (S
@@ -282,8 +268,6 @@ det(attorney-27, an-26)
 appos(Cardozo-24, attorney-27)
 prep_for(attorney-27, MLS-29)
 
-The/DT players/NNS will/MD appeal/VB the/DT verdict/NN ,/, attorney/NN Jeffrey/NNP Kessler/NNP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -306,8 +290,6 @@ nn(Kessler-10, attorney-8)
 nn(Kessler-10, Jeffrey-9)
 nsubj(said-11, Kessler-10)
 root(ROOT-0, said-11)
-
-Jurors/NNS told/VBD The/DT Associated/JJ Press/NN that/IN they/PRP were/VBD impressed/VBN by/IN the/DT testimony/NN of/IN former/JJ deputy/NN commissioner/NN Sunil/NNP Gulati/NNP ,/, who/WP compiled/VBD a/DT chart/NN noting/NN that/WDT MLS/NNP players/NNS had/VBD come/VBN from/IN and/CC gone/NN to/TO professional/JJ leagues/NNS in/IN dozens/NNS of/IN other/JJ countries/NNS ./.
 
 (ROOT
   (S
@@ -386,8 +368,6 @@ prep_in(leagues-35, dozens-37)
 amod(countries-40, other-39)
 prep_of(dozens-37, countries-40)
 
-But/CC the/DT players/NNS argued/VBD that/IN only/RB 20/CD percent/NN of/IN MLS/NNP players/NNS had/VBD international/JJ options/NNS ./.
-
 (ROOT
   (S (CC But)
     (NP (DT the) (NNS players))
@@ -415,8 +395,6 @@ prep_of(percent-8, players-11)
 ccomp(argued-4, had-12)
 amod(options-14, international-13)
 dobj(had-12, options-14)
-
-Others/NNS were/VBD turned/VBN away/JJ because/IN of/IN visa/NN and/CC work-permit/JJ requirements/NNS or/CC other/JJ limits/NNS on/IN the/DT use/NN of/IN foreign/JJ players/NNS ./.
 
 (ROOT
   (S
@@ -455,8 +433,6 @@ det(use-16, the-15)
 prep_on(turned-3, use-16)
 amod(players-19, foreign-18)
 prep_of(use-16, players-19)
-
-``All/NNP we/PRP want/VBP is/VBZ an/DT agreement/NN between/IN labor/NN and/CC management/NN ,''/NN said/VBD Garth/NNP Lagerway/NNP ,/, the/DT Miami/NNP Fusion/NNP goalkeeper/NN and/CC player/NN representative/NN ./.
 
 (ROOT
   (SINV
@@ -503,8 +479,6 @@ appos(Lagerway-14, goalkeeper-19)
 nn(representative-22, player-21)
 appos(Lagerway-14, representative-22)
 conj_and(goalkeeper-19, representative-22)
-
-``All/NNP that/WDT 's/VBZ happened/VBN in/IN the/DT history/NN of/IN this/DT league/NN is/VBZ the/DT league/NN telling/VBG us/PRP what/WP we/PRP had/VBD to/TO accept/VB .''/.
 
 (ROOT
   (S
@@ -555,8 +529,6 @@ ccomp(telling-14, had-18)
 aux(accept-20, to-19)
 xcomp(had-18, accept-20)
 punct(league-13, .''-21)
-
-Because/IN the/DT jury/NN sided/VBN with/IN the/DT owners/NNS that/IN the/DT market/NN was/VBD not/RB limited/JJ to/TO Division/NNP I/PRP soccer/VBP in/IN this/DT country/NN ,/, it/PRP did/VBD not/RB have/VB to/TO answer/VB any/DT of/IN the/DT other/JJ questions/NNS ./.
 
 (ROOT
   (S
@@ -620,8 +592,6 @@ dobj(answer-27, any-28)
 det(questions-32, the-30)
 amod(questions-32, other-31)
 prep_of(any-28, questions-32)
-
-At/IN the/DT heart/NN of/IN the/DT players/NNS '/POS case/NN was/VBD the/DT claim/NN that/WDT ,/, if/IN not/RB for/IN the/DT exclusion/NN of/IN other/JJ Division/NNP I/NNP leagues/NNS ,/, there/EX could/MD be/VB a/DT thriving/JJ marketplace/NN for/IN soccer/NN leagues/NNS and/CC players/NNS in/IN this/DT country/NN ./.
 
 (ROOT
   (SINV
@@ -688,8 +658,6 @@ conj_and(leagues-33, players-35)
 det(country-38, this-37)
 prep_in(marketplace-30, country-38)
 
-However/RB ,/, the/DT jury/NN found/VBD that/IN two/CD topflight/NN leagues/NNS would/MD oversaturate/VB the/DT limited/JJ American/JJ interest/NN in/IN the/DT sport/NN ./.
-
 (ROOT
   (S
     (ADVP (RB However))
@@ -722,8 +690,6 @@ amod(interest-15, American-14)
 dobj(oversaturate-11, interest-15)
 det(sport-18, the-17)
 prep_in(oversaturate-11, sport-18)
-
-``It/PRP was/VBD our/PRP$ feeling/NN that/IN if/IN these/DT two/CD leagues/NNS had/VBD been/VBN in/IN place/NN ,/, both/DT would/MD be/VB bankrupt/NN ,''/IN juror/JJ Tina/NNP Hart/NNP told/VBD the/DT AP/NNP ./.
 
 (ROOT
   (S
@@ -775,8 +741,6 @@ advcl(bankrupt-18, told-23)
 det(AP-25, the-24)
 dobj(told-23, AP-25)
 
-``There/RB isn't/VBN enough/JJ demand/NN for/IN it/PRP .''/.
-
 (ROOT
   (SINV
     (ADVP (RB ``There))
@@ -793,8 +757,6 @@ amod(demand-4, enough-3)
 nsubj(isn't-2, demand-4)
 prep_for(demand-4, it-6)
 punct(isn't-2, .''-7)
-
-MLS/NNS owners/NNS claimed/VBD that/IN they/PRP have/VBP lost/VBN $250/CD million/CD since/IN 1995/CD ,/, even/RB without/IN competition/NN ./.
 
 (ROOT
   (S
@@ -828,8 +790,6 @@ dobj(lost-7, million-9)
 prep_since(million-9, 1995-11)
 advmod(million-9, even-13)
 prep_without(lost-7, competition-15)
-
-A/DT decision/NN against/IN them/PRP would/MD have/VB been/VBN tripled/VBN under/IN antitrust/NN law/NN and/CC then/RB applied/VBD to/TO other/JJ players/NNS in/IN the/DT class/NN ,/, which/WDT could/MD have/VB put/VBN it/PRP into/IN the/DT tens/NNS of/IN millions/NNS of/IN dollars/NNS ./.
 
 (ROOT
   (S
@@ -896,8 +856,6 @@ det(tens-29, the-28)
 prep_into(put-25, tens-29)
 prep_of(tens-29, millions-31)
 prep_of(millions-31, dollars-33)
-
-The/DT case/NN had/VBD been/VBN closely/RB watched/VBN at/IN the/DT start/NN when/WRB players/NNS claimed/VBD that/IN the/DT ``single-entity/NN ''/'' structure/NN of/IN the/DT league/NN _/IN a/DT centralized/JJ ownership/NN mimicked/VBD by/IN every/NN new/JJ sports/NNS league/NN formed/VBD since/IN MLS/NNP _/, was/VBD itself/PRP an/DT antitrust/JJ violation/NN ./.
 
 (ROOT
   (SINV
@@ -971,8 +929,6 @@ det(violation-39, an-37)
 amod(violation-39, antitrust-38)
 nsubj(formed-31, violation-39)
 
-That/DT claim/NN was/VBD thrown/VBN out/RP before/IN trial/NN ./.
-
 (ROOT
   (S
     (NP (DT That) (NN claim))
@@ -989,8 +945,6 @@ auxpass(thrown-4, was-3)
 root(ROOT-0, thrown-4)
 prt(thrown-4, out-5)
 prep_before(thrown-4, trial-7)
-
-Kessler/NNP said/VBD it/PRP would/MD be/VB appealed/VBN ,/, along/RB with/IN this/DT jury/NN 's/POS verdict/NN ./.
 
 (ROOT
   (S
@@ -1018,8 +972,6 @@ ccomp(said-2, appealed-6)
 det(jury-11, this-10)
 poss(verdict-13, jury-11)
 prep_along_with(appealed-6, verdict-13)
-
-But/CC Monday/NNP 's/POS decision/NN is/VBZ a/DT setback/NN for/IN the/DT players/NNS in/IN that/DT case/NN as/RB well/RB ./.
 
 (ROOT
   (S (CC But)
@@ -1050,8 +1002,6 @@ prep_in(players-10, case-13)
 advmod(well-15, as-14)
 mwe(well-15, as-14)
 advmod(setback-7, well-15)
-
-The/DT league/NN has/VBZ argued/VBN that/IN the/DT jury/NN 's/POS definition/NN of/IN the/DT market/NN will/MD apply/VB to/TO _/VB and/CC undercut/NN _/IN that/DT case/NN as/RB well/RB ./.
 
 (ROOT
   (S

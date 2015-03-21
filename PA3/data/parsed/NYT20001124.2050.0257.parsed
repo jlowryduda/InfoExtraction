@@ -1,5 +1,3 @@
-NYT20001124.2050.0257/NNP NEWS/NNP STORY/NNP 2000-11-24/CD 20:52:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001124.2050.0257) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(20:52:00-5, 2000-11-24-4)
 dep(STORY-3, 20:52:00-5)
-
-A0034/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-ASIAN-ECONOMIES-NYT/NNP &LR/NNP ;/: 11-24/CD 0750/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0750-11, 11-24-10)
 dep(&LR-8, 0750-11)
 
-BC-ASIAN-ECONOMIES-NYT/NNP
-
 (ROOT
   (NP (NNP BC-ASIAN-ECONOMIES-NYT)))
 
 root(ROOT-0, BC-ASIAN-ECONOMIES-NYT-1)
-
-EXPANDING/NNP ASIAN/NNP ECONOMIES/NNP DEFY/NNP CAUTIOUS/NNP FORECASTS/NNP BY/NNP INTERNATIONAL/NNP
 
 (ROOT
   (NP (NNP EXPANDING) (NNP ASIAN) (NNP ECONOMIES) (NNP DEFY) (NNP CAUTIOUS) (NNP FORECASTS) (NNP BY) (NNP INTERNATIONAL)))
@@ -53,8 +45,6 @@ nn(INTERNATIONAL-8, CAUTIOUS-5)
 nn(INTERNATIONAL-8, FORECASTS-6)
 nn(INTERNATIONAL-8, BY-7)
 root(ROOT-0, INTERNATIONAL-8)
-
-ECONOMISTS/NNP &LR/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: By/NNP MARK/NNP LANDLER/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -96,8 +86,6 @@ dep(&LR-2, &UR-17)
 dep(&UR-17, c.2000-19)
 appos(c.2000-19, N.Y-20)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -114,8 +102,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-HONG/NNP KONG/NNP _/NNP For/IN most/JJS of/IN this/DT year/NN ,/, Asia/NNP 's/POS economies/NNS have/VBP performed/VBN a/DT sort/NN of/IN levitating/VBG act/JJ _/NN growing/VBG by/IN double-digit/NN rates/NNS month/NN after/IN month/NN even/RB as/IN economists/NNS predicted/VBD they/PRP would/MD fall/VB to/TO earth/NN ./.
 
 (ROOT
   (S
@@ -184,8 +170,6 @@ nsubj(fall-34, they-32)
 aux(fall-34, would-33)
 ccomp(predicted-31, fall-34)
 prep_to(fall-34, earth-36)
-
-That/DT dichotomy/NN was/VBD on/IN vivid/NN display/NN here/RB Friday/NN :/: Hong/NNP Kong/NNP reported/VBD that/IN its/PRP$ economic/JJ output/NN surged/VBD 10.4/CD percent/NN in/IN the/DT third/JJ quarter/NN ,/, and/CC it/PRP raised/VBD its/PRP$ projection/NN for/IN full-year/JJ growth/NN to/TO 10/CD percent/NN from/IN 8.5/CD percent/JJ ./.
 
 (ROOT
   (S
@@ -257,8 +241,6 @@ prep_to(raised-27, percent-35)
 prep_from(percent-35, 8.5-37)
 amod(8.5-37, percent-38)
 
-Yet/RB a/DT block/NN away/NN ,/, the/DT International/NNP Monetary/NNP Fund/NNP warned/VBD in/IN a/DT news/NN conference/NN that/WDT Asian/VBD economies/NNS could/MD be/VB hit/VBN hard/JJ by/IN soaring/VBG oil/NN prices/NNS and/CC turmoil/NN in/IN the/DT financial/JJ markets/NNS ./.
-
 (ROOT
   (S
     (S
@@ -319,8 +301,6 @@ det(markets-31, the-29)
 amod(markets-31, financial-30)
 prep_in(turmoil-27, markets-31)
 
-The/DT IMF/NNP said/VBD a/DT $5/JJ increase/NN in/IN the/DT price/NN of/IN a/DT barrel/NN of/IN oil/NN could/MD slow/VB the/DT growth/NN rates/NNS of/IN Asian/JJ countries/NNS next/JJ year/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (NNP IMF))
@@ -367,8 +347,6 @@ prep_of(rates-19, countries-22)
 amod(year-24, next-23)
 tmod(slow-16, year-24)
 
-``The/JJ prospects/NNS for/IN growth/NN in/IN 2001/CD have/VBP weakened/VBN ,''/NNP said/VBD David/NNP Robinson/NNP ,/, assistant/NN director/NN of/IN research/NN at/IN the/DT fund/NN ./.
-
 (ROOT
   (S
     (NP
@@ -411,8 +389,6 @@ prep_of(director-15, research-17)
 det(fund-20, the-19)
 prep_at(said-10, fund-20)
 
-``There/RB has/VBZ also/RB been/VBN increased/JJ political/JJ instability/NN across/IN the/DT world/NN ,/, not/RB least/JJS in/IN Asia/NNP .''/.
-
 (ROOT
   (SINV
     (ADVP (RB ``There))
@@ -444,8 +420,6 @@ neg(instability-7, not-12)
 dep(instability-7, least-13)
 prep_in(instability-7, Asia-15)
 punct(increased-5, .''-16)
-
-Several/JJ Asian/JJ countries/NNS _/IN notably/RB the/DT Philippines/NNPS ,/, Taiwan/NNP ,/, and/CC Indonesia/NNP _/NNP have/VBP been/VBN gripped/VBN by/IN political/JJ tumult/NN in/IN recent/JJ weeks/NNS ./.
 
 (ROOT
   (S
@@ -489,8 +463,6 @@ amod(tumult-19, political-18)
 agent(gripped-16, tumult-19)
 amod(weeks-22, recent-21)
 prep_in(tumult-19, weeks-22)
-
-The/DT Philippines/NNPS president/NN ,/, Joseph/NNP Estrada/NNP ,/, was/VBD impeached/VBN last/JJ week/NN ,/, while/IN Chen/NNP Shui-bian/NNP ,/, the/DT president/NN of/IN Taiwan/NNP ,/, is/VBZ trying/VBG to/TO fend/VB off/RP a/DT recall/JJ vote/NN ./.
 
 (ROOT
   (S
@@ -547,8 +519,6 @@ det(vote-29, a-27)
 amod(vote-29, recall-28)
 dobj(fend-25, vote-29)
 
-Even/RB in/IN more/RBR stable/JJ countries/NNS ,/, like/IN Malaysia/NNP and/CC South/NNP Korea/NNP ,/, Robinson/NNP said/VBD the/DT Fund/NNP was/VBD concerned/VBN by/IN the/DT haphazard/NN pace/NN of/IN economic/JJ reforms/NNS ./.
-
 (ROOT
   (S
     (ADVP (RB Even)
@@ -596,8 +566,6 @@ agent(concerned-18, pace-22)
 amod(reforms-25, economic-24)
 prep_of(pace-22, reforms-25)
 
-In/IN many/JJ countries/NNS ,/, the/DT banks/NNS and/CC corporations/NNS remain/VBP financially/RB shaky/JJ ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -619,8 +587,6 @@ nsubj(remain-9, corporations-8)
 root(ROOT-0, remain-9)
 advmod(shaky-11, financially-10)
 acomp(remain-9, shaky-11)
-
-``We/PRP 're/VBP still/RB seeing/VBG chaebols/NNS in/IN deep/NN trouble/NN ,''/, he/PRP said/VBD ,/, referring/VBG to/TO Korea/NNP 's/POS heavily/JJ indebted/JJ conglomerates/NNS ./.
 
 (ROOT
   (S
@@ -661,8 +627,6 @@ amod(indebted-18, heavily-17)
 amod(conglomerates-19, indebted-18)
 prep_to(referring-13, conglomerates-19)
 
-But/CC Robinson/NNP acknowledged/VBD that/IN these/DT weaknesses/NNS had/VBD not/RB yet/RB been/VBN reflected/VBN in/IN the/DT economic/JJ performance/NN of/IN the/DT countries/NNS ./.
-
 (ROOT
   (S (CC But)
     (NP (NNP Robinson))
@@ -697,8 +661,6 @@ amod(performance-15, economic-14)
 prep_in(reflected-11, performance-15)
 det(countries-18, the-17)
 prep_of(performance-15, countries-18)
-
-On/IN Tuesday/NNP ,/, South/NNP Korea/NNP reported/VBD a/DT 9.2/CD percent/JJ increase/NN in/IN its/PRP$ third-quarter/JJ output/NN _/IN beating/VBG the/DT estimates/NNS of/IN most/JJS analysts/NNS and/CC extending/VBG a/DT string/NN of/IN powerful/JJ quarters/NNS ./.
 
 (ROOT
   (S
@@ -751,8 +713,6 @@ det(string-25, a-24)
 dobj(extending-23, string-25)
 amod(quarters-28, powerful-27)
 prep_of(string-25, quarters-28)
-
-Indonesia/NNP ,/, Malaysia/NNP ,/, and/CC Singapore/NNP have/VBP also/RB beaten/VBN expectations/NNS ,/, while/IN Hong/NNP Kong/NNP 's/POS growth/NN rate/NN was/VBD nearly/RB three/CD percentage/NN points/NNS above/IN a/DT median/JJ forecast/NN of/IN 12/CD economists/NNS surveyed/VBN by/IN Bloomberg/NNP News/NNP ./.
 
 (ROOT
   (S
@@ -813,8 +773,6 @@ vmod(economists-29, surveyed-30)
 nn(News-33, Bloomberg-32)
 agent(surveyed-30, News-33)
 
-Like/IN other/JJ Asian/JJ economies/NNS ,/, Hong/NNP Kong/NNP has/VBZ been/VBN buoyed/VBN by/IN an/DT unquenchable/JJ appetite/NN for/IN its/PRP$ exports/NNS ,/, principally/RB in/IN the/DT United/NNP States/NNPS ./.
-
 (ROOT
   (S
     (PP (IN Like)
@@ -853,8 +811,6 @@ det(States-23, the-21)
 nn(States-23, United-22)
 prep_in(buoyed-10, States-23)
 
-Exports/NNS surged/VBD 17.7/CD percent/NN in/IN the/DT third/JJ quarter/NN ./.
-
 (ROOT
   (S
     (NP (NNS Exports))
@@ -872,8 +828,6 @@ dobj(surged-2, percent-4)
 det(quarter-8, the-6)
 amod(quarter-8, third-7)
 prep_in(percent-4, quarter-8)
-
-Hong/NNP Kong/NNP has/VBZ done/FW a/FW particularly/RB booming/VBG business/NN in/IN repackaging/VBG and/CC shipping/VBG goods/NNS from/IN mainland/NN China/NNP ./.
 
 (ROOT
   (S
@@ -911,8 +865,6 @@ dobj(repackaging-10, goods-13)
 nn(China-16, mainland-15)
 prep_from(repackaging-10, China-16)
 
-Consumer/NNP spending/NN rose/VBD by/IN a/DT much/JJ less/RBR impressive/JJ 5.6/CD percent/NN ,/, as/IN retail/NN sales/NNS slackened/VBN from/IN the/DT second/JJ quarter/NN ./.
-
 (ROOT
   (S
     (NP (NNP Consumer) (NN spending))
@@ -948,8 +900,6 @@ det(quarter-19, the-17)
 amod(quarter-19, second-18)
 prep_from(slackened-15, quarter-19)
 
-And/CC consumer/NN prices/NNS fell/VBD 2/CD percent/JJ ,/, extending/VBG a/DT decline/NN that/WDT began/VBD during/IN the/DT crisis/NN ./.
-
 (ROOT
   (S (CC And)
     (NP (NN consumer) (NNS prices))
@@ -982,8 +932,6 @@ nsubj(began-12, decline-10)
 rcmod(decline-10, began-12)
 det(crisis-15, the-14)
 prep_during(began-12, crisis-15)
-
-Ian/NNP Perkin/NNP ,/, chief/JJ economist/NN at/IN the/DT Hong/NNP Kong/NNP General/NNP Chamber/NNP of/IN Commerce/NNP said/VBD the/DT double-digit/NN growth/NN in/IN Hong/NNP Kong/NNP and/CC other/JJ Asian/JJ countries/NNS masked/VBD their/PRP$ underlying/JJ condition/NN ./.
 
 (ROOT
   (S
@@ -1035,8 +983,6 @@ poss(condition-28, their-26)
 amod(condition-28, underlying-27)
 dobj(masked-25, condition-28)
 
-While/RB the/DT region/NN 's/POS growth/NN in/IN exports/NNS has/VBZ been/VBN torrid/VBN ,/, domestic/JJ demand/NN has/VBZ remained/VBN tenuous/JJ ./.
-
 (ROOT
   (S
     (SBAR (RB While)
@@ -1072,8 +1018,6 @@ aux(remained-15, has-14)
 root(ROOT-0, remained-15)
 acomp(remained-15, tenuous-16)
 
-``We/IN haven't/NN built/VBN up/RP our/PRP$ domestic/JJ economies/NNS yet/RB ,''/, he/PRP said/VBD ./.
-
 (ROOT
   (S
     (PP (IN ``We)
@@ -1100,8 +1044,6 @@ punct(said-11, ,''-9)
 nsubj(said-11, he-10)
 root(ROOT-0, said-11)
 
-``The/JJ recovery/NN has/VBZ relied/VBN almost/RB completely/RB on/IN export/JJ growth/NN ./.
-
 (ROOT
   (S
     (NP (JJ ``The) (NN recovery))
@@ -1120,8 +1062,6 @@ advmod(completely-6, almost-5)
 advmod(relied-4, completely-6)
 amod(growth-9, export-8)
 prep_on(relied-4, growth-9)
-
-``If/NNP consumer/NN spending/NN slows/VBZ down/RB in/IN the/DT States/NNPS ,/, it/PRP will/MD have/VB a/DT devastating/JJ effect/NN on/IN Asia/NNP ,''/NNP said/VBD Perkin/NNP ./.
 
 (ROOT
   (S
@@ -1162,8 +1102,6 @@ prep_on(effect-15, ,''-18)
 vmod(,''-18, said-19)
 dobj(said-19, Perkin-20)
 
-``2001/CD could/MD be/VB a/DT crunch/JJ year/NN .''/.
-
 (ROOT
   (S
     (NP (CD ``2001))
@@ -1179,8 +1117,6 @@ det(year-6, a-4)
 amod(year-6, crunch-5)
 root(ROOT-0, year-6)
 punct(year-6, .''-7)
-
-Robinson/NNP of/IN the/DT IMF/NNP was/VBD similarly/RB wary/JJ about/IN next/JJ year/NN ./.
 
 (ROOT
   (S
@@ -1202,8 +1138,6 @@ advmod(wary-7, similarly-6)
 root(ROOT-0, wary-7)
 amod(year-10, next-9)
 prep_about(wary-7, year-10)
-
-In/IN October/NNP ,/, the/DT IMF/NNP projected/VBD that/IN the/DT world/NN economy/NN would/MD grow/VB 4.2/CD percent/JJ in/IN 2001/CD ,/, while/IN Asia/NNP as/IN a/DT region/NN would/MD grow/VB 6.6/CD percent/NN ./.
 
 (ROOT
   (S
@@ -1255,8 +1189,6 @@ advcl(grow-12, grow-24)
 num(percent-26, 6.6-25)
 dobj(grow-24, percent-26)
 
-On/IN Friday/NNP ,/, Robinson/NNP said/VBD the/DT growth/NN rate/NN could/MD be/VB lower/JJR ,/, though/JJ he/PRP would/MD not/RB say/VB by/IN how/WRB much/JJ ./.
-
 (ROOT
   (S
     (PP (IN On)
@@ -1299,8 +1231,6 @@ ccomp(though-13, say-17)
 advmod(much-20, how-19)
 prep_by(say-17, much-20)
 
-A/DT principal/JJ culprit/NN of/IN possibly/RB slower/JJR growth/NN is/VBZ the/DT dependence/NN of/IN many/JJ Asian/JJ countries/NNS on/IN imported/JJ oil/NN ./.
-
 (ROOT
   (S
     (NP
@@ -1334,8 +1264,6 @@ prep_of(dependence-10, countries-14)
 amod(oil-17, imported-16)
 prep_on(countries-14, oil-17)
 
-Oil/NN prices/NNS have/VBP risen/VBN $5/JJ per/NN barrel/NN since/IN the/DT IMF/NNP issued/VBN its/PRP$ semi-annual/JJ economic/JJ outlook/NN in/IN October/NNP ./.
-
 (ROOT
   (S
     (NP (NN Oil) (NNS prices))
@@ -1366,8 +1294,6 @@ amod(outlook-15, semi-annual-13)
 amod(outlook-15, economic-14)
 dobj(issued-11, outlook-15)
 prep_in(issued-11, October-17)
-
-Asia/NNP has/VBZ little/JJ control/NN over/IN oil/NN ,/, but/CC Robinson/NNP said/VBD the/DT region/NN could/MD improve/VB its/PRP$ economic/JJ prospects/NNS by/IN calming/VBG its/PRP$ political/JJ waters/NNS ./.
 
 (ROOT
   (S
@@ -1414,8 +1340,6 @@ poss(waters-22, its-20)
 amod(waters-22, political-21)
 dobj(calming-19, waters-22)
 
-One/CD bright/JJ spot/NNS in/IN the/DT Asian/JJ landscape/NN is/VBZ China/NNP ,/, which/WDT is/VBZ on/IN track/NN to/TO record/NN 8/CD percent/JJ growth/NN in/IN 2000/CD ./.
-
 (ROOT
   (S
     (NP
@@ -1457,8 +1381,6 @@ num(growth-19, 8-17)
 amod(growth-19, percent-18)
 rcmod(China-9, growth-19)
 prep_in(growth-19, 2000-21)
-
-Robinson/NNP said/VBD the/DT main/NN question/NN facing/VBG Chinese/JJ leaders/NNS was/VBD whether/IN they/PRP need/VBP to/TO spend/VB billions/NNS of/IN dollars/NNS in/IN public/JJ funds/NNS to/TO further/JJ stimulate/VB an/DT economy/NN that/WDT was/VBD already/RB expanding/VBG ./.
 
 (ROOT
   (S
@@ -1528,8 +1450,6 @@ aux(expanding-29, was-27)
 advmod(expanding-29, already-28)
 rcmod(economy-25, expanding-29)
 
-Like/NNP Perkin/NNP ,/, Robinson/NNP said/VBD Asia/NNP 's/POS future/JJ depended/VBN in/IN large/JJ part/NN on/IN the/DT health/NN of/IN the/DT United/NNP States/NNPS ./.
-
 (ROOT
   (S
     (NP (NNP Like) (NNP Perkin) (, ,) (NNP Robinson))
@@ -1563,8 +1483,6 @@ prep_on(depended-9, health-15)
 det(States-19, the-17)
 nn(States-19, United-18)
 prep_of(health-15, States-19)
-
-But/CC he/PRP disputed/VBD those/DT who/WP predict/VBP dramatically/RB slowing/VBG growth/NN _/IN the/DT so-called/JJ hard/JJ landing/NN _/NN for/IN the/DT American/JJ economy/NN ./.
 
 (ROOT
   (S (CC But)
@@ -1605,8 +1523,6 @@ det(economy-19, the-17)
 amod(economy-19, American-18)
 prep_for(_-15, economy-19)
 
-``The/IN chances/NNS of/IN that/DT happening/NN are/VBP less/RBR than/IN 40/CD percent/JJ ,''/, he/PRP said/VBD ,/, ``substantially/RB less/RBR .''/.
-
 (ROOT
   (S
     (SBAR (IN ``The)
@@ -1639,8 +1555,6 @@ root(ROOT-0, said-13)
 advmod(less-16, ``substantially-15)
 advmod(said-13, less-16)
 punct(said-13, .''-17)
-
-NYT-11-24-00/CD 2052EST/CD
 
 (ROOT
   (FRAG

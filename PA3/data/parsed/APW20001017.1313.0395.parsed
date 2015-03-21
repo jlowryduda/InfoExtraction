@@ -1,5 +1,3 @@
-APW20001017.1313.0395/DT NEWS/NNP STORY/NNPS 2000-10-17/CD 13:42:09/CD
-
 (ROOT
   (NP
     (NP (DT APW20001017.1313.0395))
@@ -12,14 +10,10 @@ dep(APW20001017.1313.0395-1, STORY-3)
 num(13:42:09-5, 2000-10-17-4)
 dep(APW20001017.1313.0395-1, 13:42:09-5)
 
-Herblock's-Acid-Pen/NNP
-
 (ROOT
   (NP (NNP Herblock's-Acid-Pen)))
 
 root(ROOT-0, Herblock's-Acid-Pen-1)
-
-Congress/NNP Library/NNP Honors/NNP Cartoonist/NNP
 
 (ROOT
   (NP (NNP Congress) (NNP Library) (NNP Honors) (NNP Cartoonist)))
@@ -28,8 +22,6 @@ nn(Cartoonist-4, Congress-1)
 nn(Cartoonist-4, Library-2)
 nn(Cartoonist-4, Honors-3)
 root(ROOT-0, Cartoonist-4)
-
-WASHINGTON/NNP [AP/NNP ]/, _/DT Herbert/NNP Lawrence/NNP Block/NNP is/VBZ not/RB subtle/JJ ./.
 
 (ROOT
   (S
@@ -51,8 +43,6 @@ prep([AP-2, Block-7)
 cop(subtle-10, is-8)
 neg(subtle-10, not-9)
 root(ROOT-0, subtle-10)
-
-But/CC then/RB subtlety/NN is/VBZ not/RB a/DT trait/NN of/IN political/JJ cartoonists/NNS ,/, a/DT trade/NN that/WDT Block/MD _/VB better/RBR known/JJ as/IN Herblock/NNP _/, has/VBZ plied/VBN for/IN the/DT past/JJ 71/CD years/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -107,8 +97,6 @@ det(years-28, the-25)
 amod(years-28, past-26)
 num(years-28, 71-27)
 prep_for(plied-23, years-28)
-
-From/NNP his/PRP$ base/NN on/IN The/DT Washington/NNP Post/NNP 's/POS editorial/JJ page/NN ,/, Herblock/NNP has/VBZ sprayed/VBN ink/RB on/IN big/JJ issues/NNS and/CC big/JJ shots/NNS ,/, from/IN Vietnam/NNP to/TO Watergate/VB and/CC the/DT Soviet/NNP bear/NN ,/, from/IN presidents/NNS Truman/NNP to/TO Nixon/NNP and/CC Clinton/NNP ./.
 
 (ROOT
   (S
@@ -180,8 +168,6 @@ prep_to(Truman-34, Nixon-36)
 prep_to(Truman-34, Clinton-38)
 conj_and(Nixon-36, Clinton-38)
 
-``You/PRP see/VBP a/DT cartoon/NN in/IN the/DT newspapers/NNS and/CC it/PRP goes/VBZ `Boom/JJ !/.
-
 (ROOT
   (S
     (S
@@ -208,15 +194,11 @@ nsubj(goes-10, it-9)
 conj_and(see-2, goes-10)
 acomp(goes-10, `Boom-11)
 
-Bang/NNP !'''/.
-
 (ROOT
   (NP (NNP Bang) (. !''')))
 
 root(ROOT-0, Bang-1)
 punct(Bang-1, !'''-2)
-
-Herblock/NNP ,/, who/WP turned/VBD 91/CD on/IN Friday/NNP ,/, once/RB told/VBD a/DT reporter/NN ./.
 
 (ROOT
   (S
@@ -246,8 +228,6 @@ root(ROOT-0, told-10)
 det(reporter-12, a-11)
 dobj(told-10, reporter-12)
 
-Tuesday/NNP ,/, a/DT retrospective/NN of/IN his/PRP$ work/NN goes/VBZ on/IN display/NN at/IN the/DT Library/NNP of/IN Congress/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Tuesday))
@@ -276,8 +256,6 @@ prep_on(goes-8, display-10)
 det(Library-13, the-12)
 prep_at(goes-8, Library-13)
 prep_of(Library-13, Congress-15)
-
-Lately/RB ,/, his/PRP$ shrapnel/NN has/VBZ stung/VBN Slobodan/JJ Milosevic/NNP ,/, Yasser/NNP Arafat/NNP ,/, the/DT National/NNP Rifle/NNP Association/NNP and/CC others/NNS ./.
 
 (ROOT
   (S
@@ -313,8 +291,6 @@ dobj(stung-6, Association-16)
 conj_and(Milosevic-8, Association-16)
 dobj(stung-6, others-18)
 conj_and(Milosevic-8, others-18)
-
-Al/NNP Gore/NNP and/CC George/NNP W./NNP Bush/NNP have/VBP taken/VBN fire/NN ,/, and/CC whoever/JJ wins/NNS in/IN November/NNP will/MD take/VB more/JJR ./.
 
 (ROOT
   (S
@@ -354,8 +330,6 @@ aux(take-17, will-16)
 conj_and(taken-8, take-17)
 dobj(take-17, more-18)
 
-They/PRP can/MD ask/VB Clinton/NNP ./.
-
 (ROOT
   (S
     (NP (PRP They))
@@ -368,8 +342,6 @@ nsubj(ask-3, They-1)
 aux(ask-3, can-2)
 root(ROOT-0, ask-3)
 dobj(ask-3, Clinton-4)
-
-Few/NNP Herblock/NNP targets/NNS ,/, however/RB ,/, were/VBD as/RB favored/JJ as/IN Nixon/NNP ,/, drawn/NN with/IN deep-set/JJ ,/, malevolent/JJ eyes/NNS ,/, five/CD o'clock/NN shadow/NN and/CC ,/, when/WRB he/PRP was/VBD vice/NN president/NN in/IN Eisenhower/NNP 's/POS administration/NN ,/, with/IN a/DT bloodstained/JJ hatchet/NN in/IN hand/NN ./.
 
 (ROOT
   (S
@@ -441,8 +413,6 @@ amod(hatchet-38, bloodstained-37)
 prep_with(president-29, hatchet-38)
 prep_in(hatchet-38, hand-40)
 
-But/CC Herblock/NNP offered/VBD a/DT truce/NN when/WRB Nixon/NNP was/VBD elected/VBN president/NN in/IN 1968/CD ./.
-
 (ROOT
   (S (CC But)
     (NP (NNP Herblock))
@@ -472,8 +442,6 @@ advcl(offered-3, elected-9)
 dobj(elected-9, president-10)
 prep_in(president-10, 1968-12)
 
-He/PRP gave/VBD Nixon/NNP a/DT shave/NN ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -487,8 +455,6 @@ root(ROOT-0, gave-2)
 iobj(gave-2, Nixon-3)
 det(shave-5, a-4)
 dobj(gave-2, shave-5)
-
-``I/NNP gave/VBD him/PRP a/DT chance/NN ,/, but/CC after/IN a/DT while/NN people/NNS saw/, he/PRP was/VBD the/DT same/JJ old/JJ Nixon/NNP ,''/NNP Herblock/NNP said/VBD in/IN an/DT interview/NN Monday/NNP ./.
 
 (ROOT
   (S
@@ -540,8 +506,6 @@ det(interview-24, an-23)
 prep_in(said-21, interview-24)
 tmod(said-21, Monday-25)
 
-Herblock/NNP also/RB was/VBD an/DT unrelenting/JJ opponent/NN of/IN Sen/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Herblock))
@@ -560,8 +524,6 @@ det(opponent-6, an-4)
 amod(opponent-6, unrelenting-5)
 root(ROOT-0, opponent-6)
 prep_of(opponent-6, Sen-8)
-
-Joe/NNP McCarthy/NNP ,/, and/CC the/DT artist/NN coined/VBD the/DT term/NN McCarthyism/NN ./.
 
 (ROOT
   (S
@@ -583,8 +545,6 @@ root(ROOT-0, coined-7)
 det(McCarthyism-10, the-8)
 nn(McCarthyism-10, term-9)
 dobj(coined-7, McCarthyism-10)
-
-For/IN a/DT March/NNP 29/CD ,/, 1950/CD ,/, cartoon/NN he/PRP drew/VBD four/CD Republican/NNP stalwarts/NNS hauling/VBG a/DT reluctant/JJ GOP/NNP elephant/NN toward/IN a/DT teetering/NN stack/NN of/IN tar/NN buckets/NNS ,/, topped/VBN by/IN a/DT dripping/JJ barrel/NN labeled/VBD ``McCarthyism/, ''/'' and/CC a/DT little/JJ platform/NN above/IN that/WDT ./.
 
 (ROOT
   (S
@@ -651,8 +611,6 @@ dobj(labeled-32, platform-38)
 conj_and(``McCarthyism-33, platform-38)
 prep_above(labeled-32, that-40)
 
-He/PRP and/CC the/DT library/JJ agree/VBP that/WDT was/VBD the/DT origin/NN of/IN the/DT word/NN _/IN ``with/JJ no/DT thought/NN of/IN creating/VBG a/DT new/JJ term/NN ,''/IN Herblock/NNP wrote/VBD later/RBR ./.
-
 (ROOT
   (S
     (NP
@@ -706,8 +664,6 @@ nsubj(wrote-24, Herblock-23)
 advcl(creating-18, wrote-24)
 advmod(wrote-24, later-25)
 
-In/IN the/DT caption/NN ,/, the/DT elephant/JJ says/VBZ :/: ``You/NNP mean/NN I'm/NNP supposed/VBD to/TO stand/VB on/IN that/WDT ?''/.
-
 (ROOT
   (S
     (S
@@ -741,8 +697,6 @@ aux(stand-14, to-13)
 xcomp(supposed-12, stand-14)
 prep_on(stand-14, that-16)
 punct(says-7, ?''-17)
-
-Still/RB ,/, McCarthy/NNP ,/, Herblock/NNP noted/VBD ,/, even/RB adopted/VBN the/DT term/NN as/IN a/DT title/NN for/IN a/DT book/NN ``McCarthyism/NN :/: The/DT Fight/NN for/IN America/NNP .''/.
 
 (ROOT
   (S
@@ -786,8 +740,6 @@ dep(title-14, Fight-21)
 prep_for(Fight-21, America-23)
 punct(noted-6, .''-24)
 
-Every/NN president/NN has/VBZ had/VBN his/PRP$ turn/NN under/IN Herblock/NNP 's/POS pen/NN ./.
-
 (ROOT
   (S
     (NP (NN Every) (NN president))
@@ -809,8 +761,6 @@ dobj(had-4, turn-6)
 poss(pen-10, Herblock-8)
 prep_under(had-4, pen-10)
 
-Other/NNP subjects/VBZ include/VBP U.S/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Other))
@@ -825,8 +775,6 @@ nsubj(subjects-2, Other-1)
 root(ROOT-0, subjects-2)
 ccomp(subjects-2, include-3)
 dobj(include-3, U.S-4)
-
-intervention/NN in/IN Vietnam/NNP ,/, Soviet/NNP and/CC Chinese/JJ oppression/NN ,/, nuclear/JJ weapons/NNS ,/, curtailed/VBD voting/VBG rights/NNS for/IN the/DT District/NNP of/IN Columbia/NNP ,/, slum/NN housing/NN ,/, campaign/NN fund/NN raising/NN ,/, drunk/VB drivers/NNS and/CC racism/NN ./.
 
 (ROOT
   (S
@@ -889,8 +837,6 @@ dobj(drunk-29, drivers-30)
 dobj(drunk-29, racism-32)
 conj_and(drivers-30, racism-32)
 
-He/PRP apparently/RB has/VBZ no/DT intention/NN of/IN retiring/VBG any/DT time/NN soon/NN from/IN the/DT Post/NNP ,/, where/WRB he/PRP has/VBZ toiled/VBN for/IN 54/CD years/NNS ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -933,8 +879,6 @@ aux(toiled-18, has-17)
 rcmod(Post-13, toiled-18)
 num(years-21, 54-20)
 prep_for(toiled-18, years-21)
-
-At/IN a/DT reception/NN Monday/NNP ,/, James/NNP H./NNP Billington/NNP ,/, the/DT librarian/JJ of/IN Congress/NNP ,/, said/VBD Herblock/NNP 's/POS cartoons/NNS will/MD be/VB seen/VBN 100/CD years/NNS from/IN now/RB ./.
 
 (ROOT
   (S
@@ -985,8 +929,6 @@ npadvmod(from-24, years-23)
 prep(seen-21, from-24)
 pobj(from-24, now-25)
 
-To/TO that/WDT ,/, the/DT artist/JJ said/VBD :/: ``Yes/NNPS ,/, and/CC I/PRP hope/VBP they/PRP will/MD be/VB saying/VBG 'That/NN was/VBD a/DT good/JJ one/CD this/DT morning/NN .'''/.
-
 (ROOT
   (S
     (S
@@ -1034,8 +976,6 @@ parataxis(said-6, one-21)
 det(morning-23, this-22)
 tmod(one-21, morning-23)
 punct(said-6, .'''-24)
-
-Jean/NNP Rickard/NNP ,/, Herblock/NNP 's/POS assistant/NN for/IN 43/CD years/NNS ,/, said/VBD the/DT cartoonist/NN goes/VBZ to/TO the/DT office/NN daily/RB to/TO keep/VB close/RB to/TO the/DT news/NN and/CC check/VB his/PRP$ facts/NNS ./.
 
 (ROOT
   (S
@@ -1093,8 +1033,6 @@ xcomp(goes-14, check-26)
 conj_and(keep-20, check-26)
 poss(facts-28, his-27)
 dobj(check-26, facts-28)
-
-``I/NNP was/VBD just/RB about/IN to/TO turn/NN in/IN a/DT finished/JJ cartoon/NN one/CD day/NN ,''/IN Herblock/NNP writes/VBZ in/IN the/DT catalog/NN to/TO the/DT show/NN ,/, ``only/RB to/TO learn/VB that/IN a/DT major/JJ story/NN had/VBD broken/VBN and/CC kept/VBD the/DT newsroom/NN people/NNS too/RB busy/JJ to/TO tell/VB me/PRP about/IN it/PRP ./.
 
 (ROOT
   (S
@@ -1181,8 +1119,6 @@ xcomp(kept-33, tell-40)
 dobj(tell-40, me-41)
 prep_about(tell-40, it-43)
 
-The/DT quick/JJ return/NN to/TO the/DT drawing/VBG board/NN to/TO produce/VB a/DT new/JJ cartoon/NN in/IN minutes/NNS was/VBD an/DT experience/NN I/PRP wouldn't/VBD want/VBP to/TO repeat/VB .''/.
-
 (ROOT
   (S
     (NP
@@ -1232,8 +1168,6 @@ aux(repeat-22, to-21)
 xcomp(want-20, repeat-22)
 punct(experience-17, .''-23)
 
-Born/NNP and/CC raised/VBD in/IN Chicago/NNP ,/, Herblock/NNP 's/POS first/JJ full-time/JJ cartoonist/NN 's/POS job/NN was/VBD on/IN the/DT Chicago/NNP Daily/NNP News/NNP ./.
-
 (ROOT
   (S
     (VP
@@ -1268,8 +1202,6 @@ det(News-19, the-16)
 nn(News-19, Chicago-17)
 nn(News-19, Daily-18)
 prep_on(was-14, News-19)
-
-His/PRP$ father/NN ,/, a/DT chemist/NN and/CC contributor/NN to/TO humor/VB magazines/NNS ,/, suggested/VBN joining/VBG the/DT first/JJ and/CC last/JJ syllables/NNS of/IN his/PRP$ name/NN ./.
 
 (ROOT
   (S
@@ -1316,8 +1248,6 @@ dobj(joining-13, syllables-18)
 poss(name-21, his-20)
 prep_of(syllables-18, name-21)
 
-His/PRP$ first/JJ cartoon/NN for/IN the/DT News/NNP _/IN April/NNP 24/CD ,/, 1929/CD _/, blasted/VBD the/DT timber/NN industry/NN ./.
-
 (ROOT
   (S
     (NP
@@ -1344,8 +1274,6 @@ root(ROOT-0, blasted-13)
 det(industry-16, the-14)
 nn(industry-16, timber-15)
 dobj(blasted-13, industry-16)
-
-It/PRP was/VBD a/DT bleak/NN view/NN of/IN rough-cut/NN tree/NN stumps/NNS stretching/VBG to/TO the/DT horizon/NN ,/, with/IN an/DT ironic/JJ quote/NN from/IN the/DT poet/JJ Henry/NNP Wadsworth/NNP Longfellow/NNP :/: ``This/NNP is/VBZ the/DT forest/JJS primeval/NN .''/.
 
 (ROOT
   (S
@@ -1398,8 +1326,6 @@ det(primeval-30, the-28)
 amod(primeval-30, forest-29)
 parataxis(view-5, primeval-30)
 punct(view-5, .''-31)
-
-Since/NNP then/RB Herblock/NNP has/VBZ published/VBN a/DT dozen/JJ books/NNS ,/, won/NN three/CD Pulitzer/NNP Prizes/NNPS and/CC shared/VBD in/IN a/DT fourth/NN ./.
 
 (ROOT
   (S

@@ -1,5 +1,3 @@
-APW20001018.1350.0453/DT NEWS/NNP STORY/NNPS 2000-10-18/CD 14:20:24/CD
-
 (ROOT
   (NP
     (NP (DT APW20001018.1350.0453))
@@ -12,14 +10,10 @@ dep(APW20001018.1350.0453-1, STORY-3)
 num(14:20:24-5, 2000-10-18-4)
 dep(APW20001018.1350.0453-1, 14:20:24-5)
 
-Social-Security/NN
-
 (ROOT
   (NP (NN Social-Security)))
 
 root(ROOT-0, Social-Security-1)
-
-Social/NNP Security/NNP Checks/NNP To/TO Jump/NNP
 
 (ROOT
   (NP
@@ -31,8 +25,6 @@ nn(Checks-3, Social-1)
 nn(Checks-3, Security-2)
 root(ROOT-0, Checks-3)
 prep_to(Checks-3, Jump-5)
-
-WASHINGTON/NNP [AP/NNP ]/NNP _/, The/DT 45.2/CD million/CD Americans/NNPS getting/VBG Social/JJ Security/NN checks/NNS will/MD see/VB them/PRP grow/NN by/IN 3.5/CD percent/JJ next/JJ year/NN ,/, the/DT biggest/JJS cost-of-living/JJ increase/NN in/IN almost/RB a/DT decade/NN ./.
 
 (ROOT
   (S
@@ -88,8 +80,6 @@ advmod(decade-30, almost-28)
 det(decade-30, a-29)
 prep_in(increase-26, decade-30)
 
-That/DT 's/VBZ because/IN inflation/NN has/VBZ picked/VBN up/RP speed/NN ,/, almost/RB entirely/RB a/DT reflection/NN of/IN surging/VBG energy/NN prices/NNS ./.
-
 (ROOT
   (S
     (NP (DT That))
@@ -125,8 +115,6 @@ dep(speed-8, reflection-13)
 amod(prices-17, surging-15)
 nn(prices-17, energy-16)
 prep_of(reflection-13, prices-17)
-
-The/DT increases/NNS ,/, which/WDT will/MD begin/VB showing/VBG up/RP in/IN benefit/NN payments/NNS for/IN January/NNP ,/, were/VBD announced/VBN by/IN Social/NNP Security/NNP based/VBN on/IN inflation/NN figures/NNS released/VBN Wednesday/NN by/IN the/DT Labor/NNP Department/NNP ./.
 
 (ROOT
   (S
@@ -185,8 +173,6 @@ det(Department-29, the-27)
 nn(Department-29, Labor-28)
 agent(released-24, Department-29)
 
-The/DT cost-of-living/JJ announcement/NN comes/VBZ just/RB weeks/NNS before/IN Americans/NNPS elect/VB a/DT new/JJ president/NN Nov/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (JJ cost-of-living) (NN announcement))
@@ -216,16 +202,12 @@ amod(president-12, new-11)
 iobj(elect-9, president-12)
 dobj(elect-9, Nov-13)
 
-7/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 7))
     (. .)))
 
 root(ROOT-0, 7-1)
-
-Florida/NNP and/CC Pennsylvania/NNP _/NNP among/IN the/DT tossup/NN states/NNS in/IN the/DT presidential/JJ race/NN _/MD have/VB a/DT large/JJ number/NN of/IN older/NN people/NNS ,/, who/WP tend/NN to/TO be/VB the/DT most/RBS likely/JJ to/TO vote/VB ./.
 
 (ROOT
   (S
@@ -288,15 +270,11 @@ aux(vote-30, to-29)
 ccomp(have-14, vote-30)
 xcomp(have-14, vote-30)
 
-Texas/NNP Gov/NNP ./.
-
 (ROOT
   (NP (NNP Texas) (NNP Gov) (. .)))
 
 nn(Gov-2, Texas-1)
 root(ROOT-0, Gov-2)
-
-George/NNP W./NNP Bush/NNP ,/, the/DT Republican/NNP presidential/JJ nominee/NN ,/, and/CC Vice/NNP President/NNP Al/NNP Gore/NNP ,/, the/DT Democrat/NNP ,/, have/VBP repeatedly/RB clashed/VBN over/RP Social/JJ Security/NN ./.
 
 (ROOT
   (S
@@ -339,8 +317,6 @@ root(ROOT-0, clashed-21)
 prt(clashed-21, over-22)
 amod(Security-24, Social-23)
 dobj(clashed-21, Security-24)
-
-Bush/NNP proposes/VBZ allowing/VBG individuals/NNS some/DT control/NN over/IN how/WRB to/TO invest/VB their/PRP$ retirement/NN funds/NNS ,/, while/IN Gore/NNP says/VBZ that/WDT would/MD threaten/VB the/DT long-term/JJ solvency/NN of/IN the/DT nation/NN 's/POS huge/NN retirement/NN system/NN ./.
 
 (ROOT
   (S
@@ -403,8 +379,6 @@ nn(system-30, huge-28)
 nn(system-30, retirement-29)
 prep_of(solvency-23, system-30)
 
-The/DT 3.5/CD percent/JJ increase/NN was/VBD the/DT largest/JJS since/IN a/DT 3.7/CD percent/JJ rise/NN in/IN 1992/CD ./.
-
 (ROOT
   (S
     (NP (DT The)
@@ -431,8 +405,6 @@ num(rise-12, 3.7-10)
 amod(rise-12, percent-11)
 prep_since(largest-7, rise-12)
 prep_in(largest-7, 1992-14)
-
-It/PRP means/VBZ the/DT average/JJ monthly/JJ check/NN for/IN retirees/NNS will/MD rise/VB by/IN $29/CD to/TO $845/CD next/JJ year/NN ,/, up/RB from/IN $816/CD this/DT year/NN ./.
 
 (ROOT
   (S
@@ -475,8 +447,6 @@ advmod(rise-10, up-18)
 prep_from(up-18, $816-20)
 det(year-22, this-21)
 tmod(up-18, year-22)
-
-That/DT compares/VBZ with/IN an/DT increase/NN of/IN 2.4/CD percent/JJ for/IN 2000/CD ,/, which/WDT translated/VBD into/IN an/DT average/NN of/IN $19/DT a/DT month/NN more/RBR for/IN retirees/NNS ./.
 
 (ROOT
   (S
@@ -522,8 +492,6 @@ det(month-20, a-19)
 dep(average-16, month-20)
 advmod(month-20, more-21)
 prep_for(translated-13, retirees-23)
-
-In/IN addition/NN to/TO retirement/NN checks/NNS ,/, the/DT increases/NNS affect/VBP Social/JJ Security/NNP benefits/VBZ paid/VBN to/TO disabled/VB workers/NNS and/CC families/NNS whose/WP$ breadwinners/NNS have/VBP died/VBN ./.
 
 (ROOT
   (S
@@ -574,8 +542,6 @@ nsubj(died-22, breadwinners-20)
 aux(died-22, have-21)
 rcmod(workers-16, died-22)
 
-The/DT maximum/JJ monthly/JJ payment/NN for/IN low-income/JJ individuals/NNS receiving/VBG Supplemental/NNP Security/NNP Income/NNP ,/, known/VBN as/IN SSI/NNP ,/, also/RB will/MD rise/VB by/IN 3.5/CD percent/JJ ./.
-
 (ROOT
   (S
     (NP
@@ -615,8 +581,6 @@ root(ROOT-0, rise-19)
 prep_by(rise-19, 3.5-21)
 amod(3.5-21, percent-22)
 
-That/WDT will/MD boost/VB the/DT maximum/JJ monthly/JJ SSI/NNP check/NN by/IN $18/CD to/TO $530/CD ./.
-
 (ROOT
   (S
     (NP (WDT That))
@@ -641,8 +605,6 @@ number($530-12, $18-10)
 dep($530-12, to-11)
 prep_by(check-8, $530-12)
 
-For/IN a/DT couple/NN ,/, the/DT SSI/NNP maximum/NN goes/VBZ up/RB $27/CD to/TO $796/CD ./.
-
 (ROOT
   (S
     (PP (IN For)
@@ -666,8 +628,6 @@ number($796-12, $27-10)
 dep($796-12, to-11)
 pobj(up-9, $796-12)
 
-Increased/JJ payments/NNS to/TO SSI/NNP recipients/NNS will/MD begin/VB on/IN Dec/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -688,16 +648,12 @@ aux(begin-7, will-6)
 root(ROOT-0, begin-7)
 prep_on(begin-7, Dec-9)
 
-29/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 29))
     (. .)))
 
 root(ROOT-0, 29-1)
-
-``The/IN annual/JJ cost-of-living/JJ adjustment/NN is/VBZ one/CD of/IN the/DT most/RBS critically/JJ important/JJ features/NNS of/IN the/DT Social/JJ Security/NN program/NN ,''/, said/VBD Social/NNP Security/NNP Commissioner/NNP Kenneth/NNP Apfel/NNP ./.
 
 (ROOT
   (SINV
@@ -740,8 +696,6 @@ nn(Apfel-24, Security-21)
 nn(Apfel-24, Commissioner-22)
 nn(Apfel-24, Kenneth-23)
 nsubj(one-6, Apfel-24)
-
-``For/CC the/DT elderly/RB ,/, it/PRP guarantees/VBZ that/IN their/PRP$ foundation/NN of/IN retirement/NN income/NN will/MD remain/VB strong/JJ for/IN as/RB long/JJ as/IN they/PRP live/VBP .''/.
 
 (ROOT
   (S
@@ -787,8 +741,6 @@ mark(live-21, as-19)
 nsubj(live-21, they-20)
 advcl(remain-14, live-21)
 punct(guarantees-6, .''-22)
-
-Separately/RB ,/, the/DT Department/NNP of/IN Health/NNP and/CC Human/NNP Services/NNP announced/VBD that/IN the/DT monthly/JJ Medicare/NN premium/JJ deducted/VBN from/IN most/JJS elderly/RB and/CC disabled/VBD Americans/NNPS '/POS Social/NNP Security/NNP checks/NNS for/IN insurance/NN coverage/NN of/IN doctors/NNS '/POS office/NN visits/NNS will/MD increase/VB by/IN $4.50/CD to/TO $50/CD in/IN 2001/CD ./.
 
 (ROOT
   (S
@@ -869,8 +821,6 @@ dep($50-40, to-39)
 prep_by(increase-36, $50-40)
 prep_in($50-40, 2001-42)
 
-The/DT increase/NN ,/, which/WDT takes/VBZ effect/NN Jan/NNP ./.
-
 (ROOT
   (FRAG
     (NP (DT The) (NN increase))
@@ -889,8 +839,6 @@ nsubj(takes-5, which-4)
 dep(increase-2, takes-5)
 iobj(takes-5, effect-6)
 dobj(takes-5, Jan-7)
-
-1/CD ,/, reflects/VBZ higher/RBR health-care/JJ costs/NNS and/CC changes/NNS in/IN Medicare/NN law/NN ./.
 
 (ROOT
   (SINV
@@ -917,8 +865,6 @@ conj_and(costs-6, changes-8)
 nn(law-11, Medicare-10)
 prep_in(costs-6, law-11)
 
-It/PRP is/VBZ not/RB based/VBN on/IN the/DT cost-of-living/VBG adjustment/NN tied/VBN to/TO the/DT CPI/NNP ./.
-
 (ROOT
   (S
     (NP (PRP It))
@@ -942,8 +888,6 @@ prep_on(based-4, adjustment-8)
 vmod(adjustment-8, tied-9)
 det(CPI-12, the-11)
 prep_to(tied-9, CPI-12)
-
-Since/NNP 1975/CD ,/, the/DT benefit/NN cost-of-living/VBG adjustment/NN has/VBZ been/VBN automatic/JJ ,/, requiring/VBG no/DT vote/NN by/IN Congress/NNP ./.
 
 (ROOT
   (S
@@ -974,8 +918,6 @@ xcomp(automatic-10, requiring-12)
 neg(vote-14, no-13)
 dobj(requiring-12, vote-14)
 prep_by(requiring-12, Congress-16)
-
-It/PRP is/VBZ calculated/VBN based/VBN on/IN changes/NNS in/IN the/DT Consumer/NNP Price/NNP Index/NNP _/IN the/DT government/NN 's/POS inflation/NN yardstick/NN _/NN from/IN the/DT third/JJ quarter/NN of/IN one/CD year/NN to/TO the/DT corresponding/JJ quarter/NN of/IN the/DT next/JJ ./.
 
 (ROOT
   (S
@@ -1032,8 +974,6 @@ prep_to(year-25, quarter-29)
 det(next-32, the-31)
 prep_of(quarter-29, next-32)
 
-Because/IN of/IN tame/NN inflation/NN ,/, the/DT yearly/RB benefit/JJ boosts/NNS have/VBP been/VBN below/JJ 3.0/CD percent/JJ since/IN 1994/CD ./.
-
 (ROOT
   (S
     (PP (IN Because)
@@ -1070,8 +1010,6 @@ dep(below-12, 3.0-13)
 amod(below-12, percent-14)
 prep_since(below-12, 1994-16)
 
-The/DT 1999/CD increase/NN of/IN 1.3/CD percent/JJ ,/, matched/VBD a/DT record/NN low/NN set/VBN in/IN 1987/CD ./.
-
 (ROOT
   (S
     (NP
@@ -1098,8 +1036,6 @@ nn(low-11, record-10)
 dobj(matched-8, low-11)
 vmod(low-11, set-12)
 prep_in(set-12, 1987-14)
-
-More/NNP recently/RB ,/, consumer/NN prices/NNS have/VBP been/VBN edging/VBG up/RB ,/, largely/RB because/IN of/IN higher/JJR energy/NN costs/NNS ./.
 
 (ROOT
   (S
@@ -1131,8 +1067,6 @@ advmod(edging-8, largely-11)
 amod(costs-16, higher-14)
 nn(costs-16, energy-15)
 prep_because_of(edging-8, costs-16)
-
-Crude-oil/NNP prices/NNS hit/VBP a/DT 10-year/JJ high/NN in/IN September/NNP ,/, contributing/VBG to/TO costlier/VB gasoline/NN and/CC heating/VBG oil/NN ./.
 
 (ROOT
   (S
@@ -1170,8 +1104,6 @@ dep(hit-3, heating-15)
 conj_and(contributing-10, heating-15)
 dobj(heating-15, oil-16)
 
-While/RB overall/JJ inflation/NN is/VBZ rising/VBG ,/, it/PRP is/VBZ still/RB moderate/JJ compared/VBN with/IN other/JJ periods/NNS ./.
-
 (ROOT
   (S
     (S
@@ -1200,8 +1132,6 @@ root(ROOT-0, moderate-10)
 prepc_compared_with(moderate-10, with-12)
 amod(periods-14, other-13)
 pobj(moderate-10, periods-14)
-
-Double-digit/NNP inflation/NN in/IN the/DT late/JJ 1970s/NNS ,/, for/IN example/NN ,/, drove/VB the/DT cost-of-living/VBG increase/NN up/RB to/TO 14.3/CD percent/NN in/IN 1980/CD ./.
 
 (ROOT
   (S
@@ -1237,8 +1167,6 @@ advmod(increase-14, up-15)
 num(percent-18, 14.3-17)
 prep_to(up-15, percent-18)
 prep_in(increase-14, 1980-20)
-
-Social/NNP Security/NNP also/RB announced/VBD Wednesday/NN that/IN for/IN working/VBG Americans/NNPS ,/, the/DT maximum/JJ annual/JJ earnings/NNS subject/JJ to/TO Social/NNP Security/NNP taxes/VBZ next/JJ year/NN will/MD rise/VB to/TO $80,400/CD from/IN $76,200/CD ./.
 
 (ROOT
   (S
@@ -1293,8 +1221,6 @@ ccomp(taxes-19, rise-23)
 prep_to(rise-23, $80,400-25)
 prep_from(rise-23, $76,200-27)
 
-That/DT limit/NN along/IN with/IN the/DT Social/JJ Security/NN tax/NN rate/NN of/IN 6.2/CD percent/JJ is/VBZ set/VBN by/IN law/NN ./.
-
 (ROOT
   (S
     (NP (DT That) (NN limit))
@@ -1323,14 +1249,10 @@ auxpass(set-14, is-13)
 root(ROOT-0, set-14)
 agent(set-14, law-16)
 
-___/.
-
 (ROOT
   (NP (. ___)))
 
 root(ROOT-0, ___-1)
-
-On/IN the/DT Web/NN :/:
 
 (ROOT
   (PP (IN On)
@@ -1340,8 +1262,6 @@ On/IN the/DT Web/NN :/:
 root(ROOT-0, On-1)
 det(Web-3, the-2)
 pobj(On-1, Web-3)
-
-Social/JJ Security/JJ Administration/NN :/: http:/.
 
 (ROOT
   (NP

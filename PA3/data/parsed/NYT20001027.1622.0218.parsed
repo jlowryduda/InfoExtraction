@@ -1,5 +1,3 @@
-NYT20001027.1622.0218/NNP NEWS/NNP STORY/NNP 2000-10-27/CD 16:29:10/.
-
 (ROOT
   (NP
     (NP (NNP NYT20001027.1622.0218) (NNP NEWS) (NNP STORY))
@@ -11,8 +9,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 dep(STORY-3, 2000-10-27-4)
 punct(STORY-3, 16:29:10-5)
-
-A8589/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-MICROSOFT-THEFT-NYT/NNP &LR/NNP ;/: 10-27/CD 0437/CD
 
 (ROOT
   (NP
@@ -34,14 +30,10 @@ dep(&Cx1f-2, &LR-8)
 number(0437-11, 10-27-10)
 dep(&LR-8, 0437-11)
 
-BC-MICROSOFT-THEFT-NYT/NNP
-
 (ROOT
   (NP (NNP BC-MICROSOFT-THEFT-NYT)))
 
 root(ROOT-0, BC-MICROSOFT-THEFT-NYT-1)
-
-MICROSOFT/NNP SAYS/NNP HACKERS/NNP VIEWED/NNP SOURCE/NNP CODES/.
 
 (ROOT
   (NP (NNP MICROSOFT) (NNP SAYS) (NNP HACKERS) (NNP VIEWED) (NNP SOURCE) (. CODES)))
@@ -52,8 +44,6 @@ nn(SOURCE-5, HACKERS-3)
 nn(SOURCE-5, VIEWED-4)
 root(ROOT-0, SOURCE-5)
 punct(SOURCE-5, CODES-6)
-
-&UR/NNS ;/: By/NNP JOHN/NNP MARKOFF/NNP and/CC JOHN/NNP SCHWARTZ/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -92,8 +82,6 @@ dep(&QL-13, &UR-15)
 dep(&UR-1, c.2000-17)
 appos(c.2000-17, N.Y-18)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -110,8 +98,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-Computer/NNP intruders/NNS broke/VBP into/IN Microsoft/NNP Corp./NNP and/CC were/VBD able/JJ to/TO view/VB some/DT of/IN the/DT company/NN 's/POS source/NN code/NN ,/, the/DT basic/JJ program/NN instructions/NNS ,/, for/IN a/DT future/JJ software/NN product/NN ,/, the/DT company/NN said/VBD Friday/NNP ./.
 
 (ROOT
   (S
@@ -174,8 +160,6 @@ det(company-32, the-31)
 nsubj(said-33, company-32)
 root(ROOT-0, said-33)
 tmod(said-33, Friday-34)
-
-But/CC the/DT unknown/NN culprits/NNS ,/, who/WP had/VBD access/NN to/TO some/DT of/IN the/DT company/NN 's/POS computers/NNS for/IN an/DT undetermined/JJ period/NN ,/, were/VBD not/RB able/JJ to/TO view/VB or/CC steal/VB the/DT company/NN 's/POS crucial/JJ source/JJ code/NN for/IN its/PRP$ Windows/NNP or/CC Office/NNP software/NN ,/, a/DT company/NN spokesman/NN said/VBD Friday/NNP afternoon/NN ./.
 
 (ROOT
   (S
@@ -262,8 +246,6 @@ root(ROOT-0, said-44)
 tmod(said-44, Friday-45)
 dobj(said-44, afternoon-46)
 
-``The/IN situation/NN appears/NNS to/TO be/VB narrower/JJR than/IN originally/RB thought/JJ ,''/NN said/VBD the/DT spokesman/NN ,/, Mark/NNP Murray/NNP ./.
-
 (ROOT
   (SINV
     (PP (IN ``The)
@@ -298,8 +280,6 @@ det(spokesman-13, the-12)
 nsubj(said-11, spokesman-13)
 nn(Murray-16, Mark-15)
 appos(spokesman-13, Murray-16)
-
-``The/IN investigation/NN shows/VBZ no/DT evidence/NN that/IN the/DT intruder/NN gained/VBD any/DT access/NN to/TO our/PRP$ Windows/NNS or/CC Office/NN products/NNS .''/.
 
 (ROOT
   (SINV
@@ -336,8 +316,6 @@ prep_to(gained-9, products-17)
 conj_or(Windows-14, products-17)
 punct(shows-3, .''-18)
 
-The/DT company/NN said/VBD Friday/NN that/IN it/PRP had/VBD contacted/VBN the/DT FBI/NNP to/TO help/VB track/IN the/DT perpetrators/NNS ./.
-
 (ROOT
   (S
     (NP (DT The) (NN company))
@@ -371,8 +349,6 @@ aux(help-12, to-11)
 xcomp(contacted-8, help-12)
 det(perpetrators-15, the-14)
 prep_track(help-12, perpetrators-15)
-
-The/DT Wall/NNP Street/NNP Journal/NNP said/VBD the/DT break-in/NN was/VBD discovered/VBN on/IN Wednesday/NNP and/CC had/VBD enabled/VBN the/DT intruders/NNS to/TO send/VB information/NN back/RB to/TO a/DT computer/NN address/NN in/IN Russia/NNP ./.
 
 (ROOT
   (S
@@ -425,8 +401,6 @@ det(address-24, a-22)
 nn(address-24, computer-23)
 prep_to(send-18, address-24)
 prep_in(address-24, Russia-26)
-
-``We/RB 've/VBP received/VBN information/NN from/IN Microsoft/NNP that/IN we/PRP are/VBP evaluating/VBG at/IN this/DT time/NN ,/, and/CC it/PRP 's/VBZ premature/JJ to/TO say/VB anything/NN else/NN ,''/, said/VBD Roberta/NNP Burroughs/NNP ,/, spokeswoman/NN for/IN the/DT Seattle/JJ field/NN office/NN of/IN the/DT FBI/NNP ./.
 
 (ROOT
   (SINV
@@ -502,8 +476,6 @@ nn(office-33, field-32)
 prep_for(spokeswoman-28, office-33)
 det(FBI-36, the-35)
 prep_of(office-33, FBI-36)
-
-Speaking/VBG earlier/RB to/TO Microsoft/NNP programmers/NNS and/CC reporters/NNS at/IN a/DT seminar/NN in/IN Stockholm/NNP ,/, Sweden/NNP ,/, Steven/NNP Ballmer/NNP ,/, the/DT company/NN 's/POS chief/JJ executive/NN ,/, said/VBD ,/, ``It/NNP is/VBZ clear/RB that/IN hackers/NNS did/VBD see/IN some/DT of/IN our/PRP$ source/NN code/NN ,''/IN Reuters/NNS and/CC The/DT Associated/JJ Press/NNP reported/VBD ./.
 
 (ROOT
   (S
@@ -584,8 +556,6 @@ nsubj(reported-45, Press-44)
 dep(said-25, reported-45)
 conj_and(is-28, reported-45)
 
-Ballmer/NNP said/VBD the/DT burglars/NNS had/VBD not/RB changed/VBN any/DT software/NN ,/, allaying/VBG fears/NNS that/IN a/DT virus/NN might/MD be/VB hidden/VBN inside/JJ future/JJ releases/NNS of/IN Microsoft/NNP products/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Ballmer))
@@ -634,8 +604,6 @@ amod(releases-21, future-20)
 dobj(hidden-18, releases-21)
 nn(products-24, Microsoft-23)
 prep_of(releases-21, products-24)
-
-``I/NNP can/MD assure/VB you/PRP that/IN we/PRP know/VBP that/IN there/RB has/VBZ been/VBN no/DT compromise/NN of/IN the/DT integrity/NN of/IN the/DT source/NN code/NN ,/, that/IN it/PRP has/VBZ not/RB been/VBN modified/VBN or/CC tampered/VBD with/IN in/IN any/DT way/NN ,''/IN he/PRP added/VBD ./.
 
 (ROOT
   (S
@@ -713,8 +681,6 @@ mark(added-36, ,''-34)
 nsubj(added-36, he-35)
 advcl(tampered-29, added-36)
 
-Microsoft/NNP has/VBZ shared/VBN some/DT of/IN the/DT source/NN code/NN with/IN partner/NN companies/NNS ,/, but/CC in/IN general/JJ it/PRP vigorously/RB guards/VBZ that/IN information/NN from/IN outsiders/NNS ./.
-
 (ROOT
   (S
     (S
@@ -757,8 +723,6 @@ advmod(guards-18, vigorously-17)
 conj_but(shared-3, guards-18)
 prep_that(guards-18, information-20)
 prep_from(guards-18, outsiders-22)
-
-Other/RB operating/VBG systems/NNS ,/, which/WDT compete/VBP with/IN Microsoft/NNP 's/POS ,/, are/VBP based/VBN on/IN open/JJ source/NN code/NN ,/, which/WDT allows/VBZ anyone/NN to/TO read/VB ,/, and/CC alter/NN ,/, the/DT underlying/JJ code/NN ./.
 
 (ROOT
   (S
@@ -819,8 +783,6 @@ nsubj(allows-19, alter-25)
 det(code-29, the-27)
 amod(code-29, underlying-28)
 appos(alter-25, code-29)
-
-But/CC Microsoft/NNP has/VBZ rebuffed/VBN requests/NNS to/TO open/VB some/DT or/CC all/DT of/IN it/PRP s/VBD operating/VBG code/NN to/TO the/DT public/NN ,/, arguing/VBG that/IN this/DT would/MD hurt/VB it/PRP s/IN business/NN and/CC curtail/NN it/PRP s/VBD incentives/VBZ to/TO develop/VB new/JJ products/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -902,8 +864,6 @@ xcomp(incentives-32, develop-34)
 amod(products-36, new-35)
 dobj(develop-34, products-36)
 
-The/DT Wall/NNP Street/NNP Journal/NNP 's/POS Web/NNP site/NN reported/VBD Friday/NN that/IN hackers/NNS gained/VBD access/NN with/IN a/DT software/NN program/NN called/VBD QAZ/NNP Trojan/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -943,8 +903,6 @@ prep_with(access-13, program-17)
 ccomp(gained-12, called-18)
 nn(Trojan-20, QAZ-19)
 dobj(called-18, Trojan-20)
-
-That/DT program/NN could/MD have/VB infected/VBN one/CD of/IN the/DT company/NN 's/POS computers/NNS ,/, allowing/VBG the/DT hackers/NNS to/TO use/VB other/JJ programs/NNS to/TO gain/VB access/NN to/TO Microsoft/NNP 's/POS internal/JJ corporate/JJ network/NN ./.
 
 (ROOT
   (S
@@ -1000,8 +958,6 @@ poss(network-28, Microsoft-24)
 amod(network-28, internal-26)
 amod(network-28, corporate-27)
 prep_to(gain-21, network-28)
-
-NYT-10-27-00/CD 1629EDT/CD
 
 (ROOT
   (FRAG

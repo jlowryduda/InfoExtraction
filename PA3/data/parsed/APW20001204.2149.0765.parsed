@@ -1,5 +1,3 @@
-APW20001204.2149.0765/DT NEWS/NNP STORY/NNPS 2000-12-04/CD 21:55:56/CD
-
 (ROOT
   (NP
     (NP (DT APW20001204.2149.0765))
@@ -12,14 +10,10 @@ dep(APW20001204.2149.0765-1, STORY-3)
 num(21:55:56-5, 2000-12-04-4)
 dep(APW20001204.2149.0765-1, 21:55:56-5)
 
-FBC-Georgia-Donnan/JJ
-
 (ROOT
   (ADJP (JJ FBC-Georgia-Donnan)))
 
 root(ROOT-0, FBC-Georgia-Donnan-1)
-
-Georgia/NNP Fires/VBZ Coach/NNP Jim/NNP Donnan/NNP
 
 (ROOT
   (S
@@ -33,8 +27,6 @@ nn(Donnan-5, Coach-3)
 nn(Donnan-5, Jim-4)
 dobj(Fires-2, Donnan-5)
 
-ATHENS/NNP ,/, Ga/NNP ./.
-
 (ROOT
   (NP
     (NP (NNP ATHENS))
@@ -44,8 +36,6 @@ ATHENS/NNP ,/, Ga/NNP ./.
 
 root(ROOT-0, ATHENS-1)
 appos(ATHENS-1, Ga-3)
-
-[AP/NNP ]/NNP _/, Georgia/NNP fired/VBD football/NN coach/NN Jim/NNP Donnan/NNP Monday/NNP after/IN a/DT disappointing/JJ 7-4/JJ season/NN that/IN started/VBN with/IN the/DT Bulldogs/NNP ranked/VBD No/DT ./.
 
 (ROOT
   (S
@@ -85,8 +75,6 @@ prep_with(started-17, Bulldogs-20)
 ccomp(fired-5, ranked-21)
 dobj(ranked-21, No-22)
 
-10/CD and/CC picked/VBD to/TO win/VB the/DT SEC/NNP East/NNP ,/, his/PRP$ players/NNS said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -115,8 +103,6 @@ dobj(win-5, East-8)
 poss(players-11, his-10)
 nsubj(said-12, players-11)
 root(ROOT-0, said-12)
-
-``I/NNP thought/VBD he/PRP would/MD be/VB around/RB another/DT year/NN ,''/RB said/VBD quarterback/DT Cory/JJ Phillips/NNS ,/, who/WP was/VBD at/IN a/DT team/NN meeting/NN at/IN which/WDT Donnan/NNP told/VBD the/DT team/NN he/PRP had/VBD been/VBN dismisssed/JJ ./.
 
 (ROOT
   (SINV
@@ -188,8 +174,6 @@ aux(dismisssed-30, had-28)
 cop(dismisssed-30, been-29)
 rcmod(team-26, dismisssed-30)
 
-``I/PRP 'm/VBP a/DT little/JJ bit/NN shocked/VBD ./.
-
 (ROOT
   (S
     (NP (PRP ``I))
@@ -208,8 +192,6 @@ amod(bit-5, little-4)
 root(ROOT-0, bit-5)
 rcmod(bit-5, shocked-6)
 
-It/PRP 's/VBZ an/DT unsettling/JJ feeling/NN .''/.
-
 (ROOT
   (S
     (NP (PRP It))
@@ -223,8 +205,6 @@ det(feeling-5, an-3)
 amod(feeling-5, unsettling-4)
 root(ROOT-0, feeling-5)
 punct(feeling-5, .''-6)
-
-Athletic/JJ director/NN Vince/NNP Dooley/NNP had/VBD given/VBN Donnan/NNP a/DT vote/NN of/IN confidence/NN just/RB last/JJ month/NN ./.
 
 (ROOT
   (S
@@ -253,8 +233,6 @@ prep_of(vote-9, confidence-11)
 advmod(confidence-11, just-12)
 amod(month-14, last-13)
 dep(confidence-11, month-14)
-
-But/CC the/DT players/NNS said/VBD Dooley/NNP told/VBD them/PRP that/IN school/NN president/NN Michael/NNP Adams/NNP made/VBD the/DT decision/NN to/TO fire/VB Donnan/NNP ./.
 
 (ROOT
   (S (CC But)
@@ -295,8 +273,6 @@ aux(fire-17, to-16)
 vmod(decision-15, fire-17)
 dobj(fire-17, Donnan-18)
 
-The/DT athletic/JJ department/NN scheduled/VBD a/DT late/JJ afternoon/NN to/TO discuss/VB the/DT program/NN but/CC details/NNS were/VBD not/RB disclosed/VBN ./.
-
 (ROOT
   (S
     (S
@@ -329,8 +305,6 @@ nsubjpass(disclosed-16, details-13)
 auxpass(disclosed-16, were-14)
 neg(disclosed-16, not-15)
 conj_but(scheduled-4, disclosed-16)
-
-Dooley/NNP said/VBD last/JJ month/NN the/DT coach/NN would/MD not/RB be/VB fired/VBN even/RB though/IN the/DT Bulldogs/NNP fell/VBD short/JJ of/IN preseason/NN predictions/NNS that/WDT had/VBD them/PRP winning/VBG SEC/NNP 's/POS East/NNP ./.
 
 (ROOT
   (S
@@ -388,8 +362,6 @@ ccomp(had-21, winning-23)
 poss(East-26, SEC-24)
 dobj(winning-23, East-26)
 
-Criticism/NNP of/IN Donnan/NNP increased/VBD a/DT week/NN later/RB ,/, after/IN Georgia/NNP Tech/NNP beat/NN Georgia/NNP for/IN the/DT third/JJ straight/JJ year/NN ,/, the/DT Bulldogs/NNP '/POS longest/JJS losing/VBG streak/VB in/IN the/DT bitter/NN rivalry/NN since/IN the/DT early/JJ 1960s/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -446,8 +418,6 @@ det(1960s-33, the-31)
 amod(1960s-33, early-32)
 prep_since(rivalry-29, 1960s-33)
 
-A/DT win/NN over/IN Georgia/NNP Tech/NNP would/MD have/VB put/VBN Georgia/NNP in/IN position/NN for/IN a/DT New/NNP Year/NNP 's/POS Day/NNP bowl/NN game/NN ,/, but/CC the/DT loss/NNS left/VBD the/DT No/DT ./.
-
 (ROOT
   (S
     (S
@@ -495,8 +465,6 @@ conj_but(put-8, left-24)
 dep(No-26, the-25)
 dobj(left-24, No-26)
 
-24/CD Bulldogs/NNS in/IN the/DT Oahu/NNP Bowl/NNP against/IN Virginia/NNP ./.
-
 (ROOT
   (NP
     (NP (CD 24) (NNS Bulldogs))
@@ -512,8 +480,6 @@ det(Bowl-6, the-4)
 nn(Bowl-6, Oahu-5)
 prep_in(Bulldogs-2, Bowl-6)
 prep_against(Bulldogs-2, Virginia-8)
-
-Phillips/NNS said/VBD players/NNS asked/VBD Dooley/NNP if/IN Donnan/NNP could/MD coach/VB the/DT team/NN in/IN the/DT bowl/NN game/NN ./.
 
 (ROOT
   (S
@@ -550,8 +516,6 @@ det(game-15, the-13)
 nn(game-15, bowl-14)
 prep_in(team-11, game-15)
 
-If/IN not/RB ,/, Phillips/NNS said/VBD ,/, players/NNS were/VBD considering/VBG voting/NN against/IN accepting/VBG the/DT bid/NN ./.
-
 (ROOT
   (S
     (FRAG (IN If) (RB not))
@@ -581,8 +545,6 @@ dobj(considering-9, voting-10)
 prepc_against(considering-9, accepting-12)
 det(bid-14, the-13)
 dobj(accepting-12, bid-14)
-
-The/DT 55-year-old/JJ Donnan/NNP ,/, who/WP came/VBD to/TO Georgia/NNP for/IN the/DT 1996/CD season/NN from/IN Division/NNP I-AA/NNP Marshall/NNP ,/, has/VBZ been/VBN linked/VBN to/TO coaching/VBG vacancies/IN the/DT past/JJ three/CD years/NNS ./.
 
 (ROOT
   (S
@@ -632,8 +594,6 @@ amod(years-27, past-25)
 num(years-27, three-26)
 prep_vacancies(coaching-22, years-27)
 
-Donnan/NNP has/VBZ a/DT career/NN record/NN of/IN 103-40/CD ,/, including/VBG 39-19/CD at/IN Georgia/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Donnan))
@@ -658,8 +618,6 @@ dobj(has-2, record-5)
 prep_of(record-5, 103-40-7)
 prep_including(record-5, 39-19-10)
 prep_at(39-19-10, Georgia-12)
-
-He/PRP has/VBZ failed/JJ ,/, however/RB ,/, against/IN Georgia/NNP 's/POS biggest/JJS rivals/NNS ,/, going/VBG 6-14/CD against/IN Georgia/NNP Tech/NNP ,/, Florida/NNP ,/, Auburn/NNP and/CC Tennessee/NNP ./.
 
 (ROOT
   (S
@@ -702,8 +660,6 @@ conj_and(Tech-17, Auburn-21)
 prep_against(going-13, Tennessee-23)
 conj_and(Tech-17, Tennessee-23)
 
-``Obviously/RB you/PRP 're/VBP expected/VBN at/IN the/DT University/NNP of/IN Georgia/NNP to/TO beat/VB the/DT big/JJ rivals/NNS ,''/, Phillips/NNS said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -742,8 +698,6 @@ punct(said-17, ,''-15)
 nsubj(said-17, Phillips-16)
 root(ROOT-0, said-17)
 
-``We/PRP do/VBP have/VBP a/DT losing/JJ record/NN against/IN them/PRP .''/.
-
 (ROOT
   (S
     (NP (PRP ``We))
@@ -765,8 +719,6 @@ amod(record-6, losing-5)
 dobj(have-3, record-6)
 prep_against(record-6, them-8)
 punct(do-2, .''-9)
-
-He/PRP rejected/VBD a/DT five-year/JJ ,/, $4.25-million/JJ offer/NN from/IN North/NNP Carolina/NNP in/IN 1997/CD ,/, and/CC was/VBD said/VBD to/TO be/VB a/DT candidate/NN the/DT following/VBG season/NN at/IN Oklahoma/NNP ,/, where/WRB he/PRP was/VBD a/DT former/JJ assistant/NN ./.
 
 (ROOT
   (SINV
@@ -831,8 +783,6 @@ det(assistant-32, a-30)
 amod(assistant-32, former-31)
 rcmod(Oklahoma-25, assistant-32)
 
-The/DT North/NNP Carolina/NNP job/NN is/VBZ open/VBN again/RB after/IN Carl/NNP Torbush/NNP was/VBD fired/VBN earlier/RBR this/DT year/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (NNP North) (NNP Carolina) (NN job))
@@ -862,8 +812,6 @@ advcl(open-6, fired-12)
 advmod(year-15, earlier-13)
 det(year-15, this-14)
 tmod(fired-12, year-15)
-
-Donnan/NNP is/VBZ a/DT native/JJ of/IN Burlington/NNP ,/, N.C./NNP ,/, and/CC played/VBD at/IN North/NNP Carolina/NNP State/NNP ./.
 
 (ROOT
   (S

@@ -1,5 +1,3 @@
-APW20001209.0634.0301/CD NEWS/NNP STORY/NNP 2000-12-09/CD 06:42:09/.
-
 (ROOT
   (NP
     (NP (CD APW20001209.0634.0301))
@@ -12,14 +10,10 @@ dep(APW20001209.0634.0301-1, STORY-3)
 dep(APW20001209.0634.0301-1, 2000-12-09-4)
 punct(2000-12-09-4, 06:42:09-5)
 
-Recount-Bush/JJ
-
 (ROOT
   (ADJP (JJ Recount-Bush)))
 
 root(ROOT-0, Recount-Bush-1)
-
-Bush/NNP Retreating/NNP After/IN Court/NNP Setback/NNP
 
 (ROOT
   (FRAG
@@ -31,8 +25,6 @@ nn(Retreating-2, Bush-1)
 root(ROOT-0, Retreating-2)
 nn(Setback-5, Court-4)
 prep_after(Retreating-2, Setback-5)
-
-AUSTIN/NNP ,/, Texas/NNP [AP/NNP ]/NNP _/NNP Gov/NNP ./.
 
 (ROOT
   (NP
@@ -47,8 +39,6 @@ nn(Gov-7, [AP-4)
 nn(Gov-7, ]-5)
 nn(Gov-7, _-6)
 appos(AUSTIN-1, Gov-7)
-
-George/NNP W./NNP Bush/NNP is/VBZ retreating/VBG to/TO the/DT solitude/NN of/IN his/PRP$ central/JJ Texas/NNP ranch/NN after/IN a/DT stunning/NN court/NN setback/NN in/IN the/DT long/JJ drawn-out/NN presidential/JJ contest/NN ./.
 
 (ROOT
   (S
@@ -87,8 +77,6 @@ amod(contest-24, long-21)
 nn(contest-24, drawn-out-22)
 amod(contest-24, presidential-23)
 prep_in(setback-18, contest-24)
-
-The/DT Texas/NNP governor/NN and/CC Republican/NNP nominee/NN was/VBD described/VBN as/IN in/IN good/JJ spirits/NNS ,/, but/CC disappointed/VBD after/IN Friday/NNP 's/POS Florida/NNP Supreme/NNP Court/NNP order/NN for/IN an/DT immediate/JJ recount/NN of/IN so-called/JJ undervotes/NNS missed/VBD in/IN machine/NN tallies/NNS ./.
 
 (ROOT
   (S
@@ -149,8 +137,6 @@ advcl(disappointed-15, missed-30)
 nn(tallies-33, machine-32)
 prep_in(missed-30, tallies-33)
 
-The/DT dispirited/JJ Bush/NNP camp/NN had/VBD hoped/VBN for/IN a/DT victory/NN celebration/NN in/IN the/DT streets/NNS of/IN Austin/NNP this/DT weekend/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (JJ dispirited) (NNP Bush) (NN camp))
@@ -181,8 +167,6 @@ prep_in(celebration-10, streets-13)
 prep_of(streets-13, Austin-15)
 det(weekend-17, this-16)
 dobj(hoped-6, weekend-17)
-
-Instead/RB ,/, Bush/NNP and/CC his/PRP$ wife/NN ,/, Laura/NNP ,/, were/VBD headed/VBN back/RB Saturday/NN to/TO the/DT isolated/JJ 1,600-acre/JJ ranch/NN about/IN a/DT two-hour/JJ drive/JJ north/NN of/IN here/RB ,/, where/WRB he/PRP has/VBZ spent/JJ much/JJ of/IN his/PRP$ time/NN since/IN the/DT election/NN ./.
 
 (ROOT
   (S
@@ -252,8 +236,6 @@ prep_of(spent-30, time-34)
 det(election-37, the-36)
 prep_since(time-34, election-37)
 
-No/DT public/JJ appearances/NNS were/VBD planned/VBN throughout/IN the/DT weekend/NN ./.
-
 (ROOT
   (S
     (NP (DT No) (JJ public) (NNS appearances))
@@ -270,8 +252,6 @@ auxpass(planned-5, were-4)
 root(ROOT-0, planned-5)
 det(weekend-8, the-7)
 prep_throughout(planned-5, weekend-8)
-
-And/CC ,/, unlike/JJ other/JJ recent/JJ Bush/NNP visits/NNS to/TO the/DT ranch/NN near/IN Waco/NNP ,/, Texas/NNP ,/, no/DT plans/NNS were/VBD made/VBN to/TO bring/VB reporters/NNS out/RB for/IN picture-taking/JJ sessions/NNS with/IN prominent/NN visitors/NNS or/CC would-be/JJ members/NNS of/IN a/DT Bush/NNP Cabinet/NNP ./.
 
 (ROOT
   (S (CC And)
@@ -334,8 +314,6 @@ det(Cabinet-36, a-34)
 nn(Cabinet-36, Bush-35)
 prep_of(members-32, Cabinet-36)
 
-``We/NNP 've/MD run/VB out/RB of/IN reaction/NN ,''/NNP Bush/NNP spokesman/NN Dan/NNP Bartlett/NNP said/VBD Friday/NNP night/NNP ./.
-
 (ROOT
   (S
     (S
@@ -363,8 +341,6 @@ root(ROOT-0, said-12)
 nn(night-14, Friday-13)
 tmod(said-12, night-14)
 
-``Obviously/RB ,/, everybody/NN was/VBD disappointed/VBN .''/.
-
 (ROOT
   (S
     (ADVP (RB ``Obviously))
@@ -379,8 +355,6 @@ nsubjpass(disappointed-5, everybody-3)
 auxpass(disappointed-5, was-4)
 root(ROOT-0, disappointed-5)
 punct(disappointed-5, .''-6)
-
-Juleanna/NNP Glover/NNP Weiss/NNP ,/, a/DT spokeswoman/NN in/IN the/DT Bush/NNP -Cheney/NNP transition/NN headquarters/NNS in/IN McLean/NNP ,/, Va/NNP .,/, called/VBD the/DT development/NN ``just/IN another/DT dip/NN in/IN the/DT roller/NN coaster/NN .''/.
 
 (ROOT
   (S
@@ -426,8 +400,6 @@ nn(coaster-27, roller-26)
 prep_in(called-18, coaster-27)
 punct(called-18, .''-28)
 
-But/CC Bush/NNP officials/NNS did/VBD little/RB to/TO hide/VB their/PRP$ obvious/JJ dismay/NN with/IN Friday/NNP 's/POS 4-3/JJ state/NN Supreme/NNP Court/NNP ruling/VBG favoring/VBG Democrat/NNP Al/NNP Gore/NNP ./.
-
 (ROOT
   (S (CC But)
     (NP (NNP Bush) (NNS officials))
@@ -469,8 +441,6 @@ vmod(ruling-18, favoring-19)
 nn(Gore-22, Democrat-20)
 nn(Gore-22, Al-21)
 dobj(favoring-19, Gore-22)
-
-Republicans/NNPS were/VBD briefly/RB buoyed/VBN by/IN a/DT pair/NN of/IN court/NN rulings/NNS on/IN absentee/NN ballots/NNS that/IN went/VBD in/IN Bush/NNP 's/POS favor/NN in/IN Seminole/NNP and/CC Martin/NNP counties/NNS earlier/RB Friday/NNP ./.
 
 (ROOT
   (S
@@ -522,8 +492,6 @@ prep_in(went-15, counties-24)
 advmod(Friday-26, earlier-25)
 tmod(went-15, Friday-26)
 
-But/CC the/DT upbeat/NN mood/VBD quickly/RB evaporated/VBN with/IN the/DT state/NN Supreme/NNP Court/NNP ruling/VBG ./.
-
 (ROOT
   (S (CC But)
     (NP (DT the) (NN upbeat))
@@ -547,8 +515,6 @@ nn(Court-11, state-9)
 nn(Court-11, Supreme-10)
 prep_with(evaporated-6, Court-11)
 vmod(Court-11, ruling-12)
-
-``Obviously/RB ,/, [Bush/JJ ]/NN was/VBD a/DT good/JJ bit/NN happier/NN after/IN the/DT Seminole/NN and/CC Martin/NNP decisions/NNS than/IN he/PRP was/VBD after/IN this/DT 4-3/JJ decision/NN ,''/, said/VBD James/NNP A./NNP Baker/NNP III/NNP ,/, the/DT head/NN of/IN Bush/NNP 's/POS legal/JJ team/NN and/CC a/DT former/JJ secretary/NN of/IN state/NN ./.
 
 (ROOT
   (SINV
@@ -623,8 +589,6 @@ amod(secretary-40, former-39)
 prep_of(head-31, secretary-40)
 conj_and(team-36, secretary-40)
 prep_of(secretary-40, state-42)
-
-Still/RB ,/, he/PRP added/VBD ,/, ``Governor/NNP Bush/NNP is/VBZ in/IN fine/NN spirits/NNS and/CC quite/VBP prepared/JJ to/TO see/VB this/DT through/IN to/TO its/PRP$ ultimate/JJ conclusion/NN because/IN he/PRP feels/NNS very/RB confidently/RB that/IN he/PRP has/VBZ won/VBN this/DT election/NN and/CC won/VBD it/PRP more/JJR than/IN one/CD time/NN .''/.
 
 (ROOT
   (S
@@ -712,8 +676,6 @@ num(time-40, one-39)
 dobj(won-35, time-40)
 punct(is-8, .''-41)
 
-Bush/NNP went/VBD on/IN with/IN a/DT party/NN at/IN the/DT governor/NN 's/POS mansion/NN for/IN his/PRP$ staff/NN and/CC his/PRP$ Secret/JJ Service/NNP detail/NN Friday/NNP evening/NN ./.
-
 (ROOT
   (S
     (NP (NNP Bush))
@@ -752,8 +714,6 @@ prep_for(mansion-11, detail-19)
 conj_and(staff-14, detail-19)
 dep(party-6, Friday-20)
 tmod(went-2, evening-21)
-
-Even/RB before/IN the/DT court/NN setback/NN ,/, Bush/NNP was/VBD more/RBR muted/JJ Friday/NN than/IN he/PRP has/VBZ been/VBN in/IN days/NNS ,/, perhaps/RB reflecting/VBG an/DT understanding/NN gleaned/VBN from/IN his/PRP$ lawyers/NNS that/IN the/DT Florida/NNP high/JJ court/NN could/MD rule/VB against/IN him/PRP ./.
 
 (ROOT
   (S
@@ -817,8 +777,6 @@ aux(rule-33, could-32)
 ccomp(gleaned-23, rule-33)
 prep_against(rule-33, him-35)
 
-``We/PRP 're/VBP prepared/VBN ,/, if/IN need/VBP be/VB ,/, to/TO take/VB our/PRP$ case/NN back/RB to/TO the/DT [U.S/NNP .]/NNP Supreme/NNP Court/NNP ,''/, he/PRP told/VBD reporters/NNS ./.
-
 (ROOT
   (S
     (S
@@ -864,8 +822,6 @@ punct(told-22, ,''-20)
 nsubj(told-22, he-21)
 root(ROOT-0, told-22)
 dobj(told-22, reporters-23)
-
-As/IN to/TO whether/IN the/DT trailing/VBG candidate/NN should/MD concede/VB the/DT race/NN rather/RB than/IN prolong/VBG the/DT process/NN in/IN the/DT courts/NNS ,/, Bush/NNP said/VBD ,/, ``Each/NNP candidate/NN is/VBZ going/VBG to/TO have/VB to/TO decide/VB to/TO make/VB the/DT decision/NN that/IN 's/POS best/JJS for/IN the/DT country/NN .''/.
 
 (ROOT
   (S
@@ -949,8 +905,6 @@ det(country-40, the-39)
 prep_for(best-37, country-40)
 punct(going-26, .''-41)
 
-As/IN news/NN of/IN Friday/NNP 's/POS ruling/JJ spread/NN ,/, pro-Gore/JJ demonstrators/NNS began/VBD to/TO congregate/VB outside/IN the/DT governor/NN 's/POS mansion/NN ./.
-
 (ROOT
   (S
     (PP (IN As)
@@ -986,8 +940,6 @@ det(governor-16, the-15)
 poss(mansion-18, governor-16)
 prep_outside(congregate-13, mansion-18)
 
-They/PRP were/VBD then/RB matched/VBN by/IN supporters/NNS of/IN Bush/NNP and/CC running/VBG mate/NN Dick/NNP Cheney/NNP ./.
-
 (ROOT
   (S
     (NP (PRP They))
@@ -1017,8 +969,6 @@ nn(Cheney-13, mate-11)
 nn(Cheney-13, Dick-12)
 dobj(running-10, Cheney-13)
 
-Car/NNP horns/NNS blared/VBD and/CC at/IN times/NNS competing/VBG demonstrators/NNS shouted/VBD at/IN one/CD another/DT ./.
-
 (ROOT
   (S
     (NP (NNP Car) (NNS horns))
@@ -1047,8 +997,6 @@ nsubj(shouted-9, demonstrators-8)
 rcmod(times-6, shouted-9)
 prep_at(shouted-9, one-11)
 dep(one-11, another-12)
-
-By/NNP nightfall/NNP ,/, however/NN ,/, the/DT demonstrators/NNS had/VBD all/DT left/VBN and/CC the/DT mansion/NN was/VBD quiet/RB _/RB even/RB though/IN the/DT party/NN was/VBD going/VBG on/IN inside/NN ./.
 
 (ROOT
   (S

@@ -1,5 +1,3 @@
-APW20001218.2221.0727/DT NEWS/NNP STORY/NNPS 2000-12-18/CD 22:42:15/CD
-
 (ROOT
   (NP
     (NP (DT APW20001218.2221.0727))
@@ -12,14 +10,10 @@ dep(APW20001218.2221.0727-1, STORY-3)
 num(22:42:15-5, 2000-12-18-4)
 dep(APW20001218.2221.0727-1, 22:42:15-5)
 
-Weatherpage-Weather/NNP
-
 (ROOT
   (NP (NNP Weatherpage-Weather)))
 
 root(ROOT-0, Weatherpage-Weather-1)
-
-Snow/NNP Spreads/NNPS Throughout/VBD the/DT Midwest/JJS
 
 (ROOT
   (S
@@ -32,8 +26,6 @@ nsubj(Throughout-3, Spreads-2)
 root(ROOT-0, Throughout-3)
 det(Midwest-5, the-4)
 dobj(Throughout-3, Midwest-5)
-
-The/DT latest/JJS in/IN a/DT series/NN of/IN storms/NNS spread/RB fresh/JJ snow/NN across/IN the/DT upper/NN Midwest/JJS on/IN Monday/NNP ,/, closing/VBG schools/NNS and/CC disrupting/VBG travel/NN ./.
 
 (ROOT
   (S
@@ -80,8 +72,6 @@ dobj(closing-18, schools-19)
 conj_and(closing-18, disrupting-21)
 dobj(disrupting-21, travel-22)
 
-Up/NN to/TO 8/CD inches/NNS of/IN snow/NN had/VBD fallen/VBN by/IN midday/NN at/IN Rockwell/NNP ,/, Iowa/NNP ,/, and/CC more/JJR than/IN 4/DT inches/NNS had/VBD fallen/VBN on/IN southern/JJ Minnesota/NNP ./.
-
 (ROOT
   (S
     (S
@@ -127,8 +117,6 @@ aux(fallen-22, had-21)
 conj_and(fallen-8, fallen-22)
 amod(Minnesota-25, southern-24)
 prep_on(fallen-22, Minnesota-25)
-
-An/DT area/NN of/IN low/JJ pressure/NN area/NN over/IN the/DT Midwest/JJS carried/VBD light/JJ to/TO moderate/VB snow/JJ across/JJ parts/NNS of/IN Nebraska/NNP ,/, Iowa/NNP ,/, Minnesota/NNP ,/, Wisconsin/NNP ,/, northern/JJ Missouri/NNP ,/, Illinois/NNP ,/, Indiana/NNP ,/, and/CC Michigan/NNP ./.
 
 (ROOT
   (S
@@ -178,8 +166,6 @@ prep_of(parts-16, Indiana-31)
 dobj(moderate-13, Michigan-34)
 conj_and(parts-16, Michigan-34)
 
-Schools/NNP and/CC some/DT businesses/NNS closed/VBD in/IN parts/NNS of/IN Nebraska/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -201,8 +187,6 @@ nsubj(closed-5, businesses-4)
 root(ROOT-0, closed-5)
 prep_in(closed-5, parts-7)
 prep_of(parts-7, Nebraska-9)
-
-Snowplows/NNS were/VBD pulled/VBN off/RP the/DT roads/NNS in/IN northeastern/JJ Nebraska/NNP 's/POS Cuming/NNP County/NNP during/IN the/DT morning/NN because/IN of/IN hazardous/NN driving/VBG conditions/NNS and/CC snowdrifts/NNS ./.
 
 (ROOT
   (S
@@ -244,8 +228,6 @@ vmod(hazardous-18, driving-19)
 dobj(driving-19, conditions-20)
 dobj(driving-19, snowdrifts-22)
 conj_and(conditions-20, snowdrifts-22)
-
-Travel/NNP was/VBD discouraged/VBN in/IN Minnesota/NNP as/IN blowing/VBG snow/JJ cut/NN visibility/NN to/TO less/RBR than/IN half/PDT a/DT mile/NN and/CC about/IN three/CD dozen/NNS school/NN districts/VBZ canceled/VBN classes/NNS ./.
 
 (ROOT
   (S
@@ -297,8 +279,6 @@ rcmod(dozen-20, districts-22)
 amod(classes-24, canceled-23)
 dobj(districts-22, classes-24)
 
-Wisconsin/NNP also/RB had/VBD scattered/VBN school/NN closings/NNS ./.
-
 (ROOT
   (S
     (NP (NNP Wisconsin))
@@ -314,8 +294,6 @@ aux(scattered-4, had-3)
 root(ROOT-0, scattered-4)
 nn(closings-6, school-5)
 dobj(scattered-4, closings-6)
-
-A/DT line/NN of/IN mixed/JJ precipitation/NN trailed/VBD southward/RB from/IN the/DT storm/NN system/NN ,/, spreading/VBG scattered/VBD show/VB showers/NNS and/CC freezing/JJ rain/NN into/IN western/JJ sections/NNS of/IN Kentucky/NNP and/CC Tennessee/NNP ./.
 
 (ROOT
   (S
@@ -369,8 +347,6 @@ prep_of(sections-22, Kentucky-24)
 prep_of(sections-22, Tennessee-26)
 conj_and(Kentucky-24, Tennessee-26)
 
-Farther/NNP south/NN ,/, scattered/VBD rain/NN showers/NNS extended/VBN across/IN Arkansas/NNP ,/, Mississippi/NNP ,/, and/CC Louisiana/NNP and/CC into/IN eastern/JJ Texas/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Farther) (NN south))
@@ -404,8 +380,6 @@ prep_across(extended-7, Louisiana-14)
 conj_and(Arkansas-9, Louisiana-14)
 amod(Texas-18, eastern-17)
 prep_into(extended-7', Texas-18)
-
-Those/JJ showers/NNS were/VBD expected/VBN to/TO move/VB eastward/NN into/IN Alabama/NNP ,/, Georgia/NNP ,/, and/CC northwestern/JJ Florida/NNP during/IN the/DT night/NN ./.
 
 (ROOT
   (S
@@ -444,8 +418,6 @@ prep_into(move-6, Florida-15)
 conj_and(Alabama-9, Florida-15)
 det(night-18, the-17)
 prep_during(move-6, night-18)
-
-Farther/NNP west/JJS ,/, isolated/VBN snow/JJ showers/NNS were/VBD scattered/VBN over/IN parts/NNS of/IN Wyoming/VBG ,/, western/JJ South/NNP Dakota/NNP ,/, eastern/JJ Colorado/NNP ,/, and/CC western/JJ sections/NNS of/IN Nebraska/NNP and/CC Kansas/NNP ./.
 
 (ROOT
   (S
@@ -498,8 +470,6 @@ prep_of(sections-23, Nebraska-25)
 prep_of(sections-23, Kansas-27)
 conj_and(Nebraska-25, Kansas-27)
 
-In/IN the/DT Northeast/NNP ,/, a/DT few/JJ light/JJ snow/JJ showers/NNS were/VBD scattered/VBN from/IN Pennsylvania/NNP across/NNS upstate/VBP New/NNP York/NNP into/IN northern/JJ New/NNP England/NNP ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -536,8 +506,6 @@ dobj(upstate-15, York-17)
 amod(England-21, northern-19)
 nn(England-21, New-20)
 prep_into(upstate-15, England-21)
-
-Elsewhere/RB ,/, fog/VBG formed/VBN in/IN some/DT western/JJ parts/NNS of/IN Washington/NNP ,/, and/CC showers/NNS were/VBD expected/VBN to/TO move/VB into/IN the/DT region/NN from/IN the/DT Pacific/NNP ./.
 
 (ROOT
   (S
@@ -586,8 +554,6 @@ det(region-20, the-19)
 prep_into(move-17, region-20)
 det(Pacific-23, the-22)
 prep_from(region-20, Pacific-23)
-
-Monday/NNP 's/POS temperatures/NNS around/IN the/DT Lower/NNP 48/CD ranged/VBD from/IN a/DT morning/NN low/NN of/IN 11/CD below/JJ zero/NN at/IN Phillips/NNS ,/, Wis./NNP ,/, to/TO midday/VB readings/NNS of/IN 77/CD at/IN Oceanside/NNP ,/, Calif/NNP .,/NNP and/CC Brownsville/NNP ,/, Texas/NNP ./.
 
 (ROOT
   (S
@@ -652,8 +618,6 @@ nn(Texas-35, Brownsville-33)
 prep_at(midday-23, Texas-35)
 conj_and(Oceanside-28, Texas-35)
 
-The/DT lowest/JJS wind/NN chill/NN was/VBD 58/CD below/NN at/IN Jamestown/NNP ,/, N.D/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (JJS lowest) (NN wind) (NN chill))
@@ -674,14 +638,10 @@ root(ROOT-0, below-7)
 nn(N.D-11, Jamestown-9)
 prep_at(below-7, N.D-11)
 
-___/.
-
 (ROOT
   (NP (. ___)))
 
 root(ROOT-0, ___-1)
-
-On/IN the/DT Net/NN :/:
 
 (ROOT
   (PP (IN On)
@@ -691,8 +651,6 @@ On/IN the/DT Net/NN :/:
 root(ROOT-0, On-1)
 det(Net-3, the-2)
 pobj(On-1, Net-3)
-
-National/NNP Weather/NNP Service/NNP :/: http:/.
 
 (ROOT
   (NP
@@ -705,8 +663,6 @@ nn(Service-3, Weather-2)
 root(ROOT-0, Service-3)
 dep(Service-3, http:-5)
 
-Intellicast/NNP :/: http:/.
-
 (ROOT
   (NP
     (NP (NNP Intellicast))
@@ -715,8 +671,6 @@ Intellicast/NNP :/: http:/.
 
 root(ROOT-0, Intellicast-1)
 dep(Intellicast-1, http:-3)
-
-Weather/NNP Channel/NNP :/: http:/.
 
 (ROOT
   (NP

@@ -1,5 +1,3 @@
-APW20001211.0507.0196/DT NEWS/NNP STORY/NNPS 2000-12-11/CD 05:16:27/CD
-
 (ROOT
   (NP
     (NP (DT APW20001211.0507.0196))
@@ -12,14 +10,10 @@ dep(APW20001211.0507.0196-1, STORY-3)
 num(05:16:27-5, 2000-12-11-4)
 dep(APW20001211.0507.0196-1, 05:16:27-5)
 
-CAR-Obit-Parkhurst/JJ
-
 (ROOT
   (ADJP (JJ CAR-Obit-Parkhurst)))
 
 root(ROOT-0, CAR-Obit-Parkhurst-1)
-
-Cycle/NN World/NNP Magazine/NNP Publisher/NNP Dies/NNPS
 
 (ROOT
   (NP
@@ -32,8 +26,6 @@ nn(Dies-5, Magazine-3)
 nn(Dies-5, Publisher-4)
 dep(Cycle-1, Dies-5)
 
-COSTA/NNP MESA/NNP ,/, Calif/NNP ./.
-
 (ROOT
   (NP
     (NP (NNP COSTA) (NNP MESA))
@@ -44,8 +36,6 @@ COSTA/NNP MESA/NNP ,/, Calif/NNP ./.
 nn(MESA-2, COSTA-1)
 root(ROOT-0, MESA-2)
 appos(MESA-2, Calif-4)
-
-[AP/NNP ]/NNP _/, Joseph/NNP Conrad/NNP Parkhurst/NNP ,/, who/WP founded/VBD the/DT motorcycle/NN magazine/NN Cycle/NN World/NNP in/IN 1962/CD ,/, has/VBZ died/VBN ./.
 
 (ROOT
   (S
@@ -81,8 +71,6 @@ prep_in(founded-9, 1962-16)
 aux(died-19, has-18)
 root(ROOT-0, died-19)
 
-He/PRP was/VBD 74/CD ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -93,8 +81,6 @@ He/PRP was/VBD 74/CD ./.
 nsubj(74-3, He-1)
 cop(74-3, was-2)
 root(ROOT-0, 74-3)
-
-Parkhurst/NNP had/VBD lung/VBN cancer/NN and/CC died/VBD Tuesday/NNP as/IN a/DT result/NN of/IN a/DT blood/JJ clot/NN in/IN his/PRP$ lung/NN ,/, his/PRP$ wife/NN Claire/IN Parkhurst/NNP told/VBD the/DT Los/NNP Angeles/NNP Times/NNP for/IN Sunday/NNP editions/NNS ./.
 
 (ROOT
   (S
@@ -150,8 +136,6 @@ nn(Times-27, Angeles-26)
 dobj(told-23, Times-27)
 nn(editions-30, Sunday-29)
 prep_for(Times-27, editions-30)
-
-Cycle/NNP World/NNP brought/VBD objective/JJ journalism/NN to/TO motorcycle/VB periodicals/NNS by/IN offering/VBG road/NN tests/NNS and/CC a/DT more/JJR critical/JJ eye/NN than/IN other/JJ fan/JJ -oriented/JJ magazines/NNS ,/, said/VBD analyst/NN Don/NNP Brown/NNP of/IN DJB/NNP Associates/NNPS LLC/NNP of/IN Irvine/NNP ./.
 
 (ROOT
   (SINV
@@ -214,8 +198,6 @@ nn(LLC-31, Associates-30)
 prep_of(Brown-27, LLC-31)
 prep_of(LLC-31, Irvine-33)
 
-In/IN its/PRP$ first/JJ year/NN ,/, Cycle/NNP World/NNP became/VBD _/DT and/CC remains/VBZ _/IN the/DT largest/JJS motorcycle/NN magazine/NN in/IN the/DT world/NN ,/, Brown/NNP and/CC others/NNS said/VBD ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -263,8 +245,6 @@ prep_in(magazine-16, others-23)
 conj_and(world-19, others-23)
 advcl(remains-11, said-24)
 
-It/PRP boasts/VBZ a/DT monthly/JJ circulation/NN of/IN 315,000/CD and/CC its/PRP$ closest/NN rival/NN is/VBZ the/DT German/NNP magazine/NN Das/NNP Motorrad/NNP ./.
-
 (ROOT
   (S
     (S
@@ -296,8 +276,6 @@ nn(Motorrad-17, German-14)
 nn(Motorrad-17, magazine-15)
 nn(Motorrad-17, Das-16)
 conj_and(boasts-2, Motorrad-17)
-
-``Joe/PRP was/VBD a/DT true/JJ pioneer/NN in/IN our/PRP$ business/NN ,''/NNS said/VBD current/JJ Cycle/NN World/NNP publisher/VB Larry/NNP Little/NNP ./.
 
 (ROOT
   (SINV
@@ -331,8 +309,6 @@ ccomp(said-10, publisher-14)
 nn(Little-16, Larry-15)
 nsubj(said-10, Little-16)
 
-``It/PRP was/VBD kind/NN of/IN a/DT breaking/NN of/IN a/DT good/JJ old/JJ boy/JJ network/NN of/IN American/JJ motorcycles/NNS ./.
-
 (ROOT
   (S
     (NP (PRP ``It))
@@ -362,8 +338,6 @@ prep_of(breaking-6, network-12)
 amod(motorcycles-15, American-14)
 prep_of(network-12, motorcycles-15)
 
-Joe/NNP did/VBD not/RB shun/VB the/DT Japanese/JJ makers/NNS .''/.
-
 (ROOT
   (S
     (NP (NNP Joe))
@@ -380,8 +354,6 @@ det(makers-7, the-5)
 amod(makers-7, Japanese-6)
 dobj(shun-4, makers-7)
 punct(shun-4, .''-8)
-
-Born/NNP in/IN Jonesboro/NNP ,/, Ark/NNP .,/VBD on/IN Oct/NNP ./.
 
 (ROOT
   (S
@@ -401,8 +373,6 @@ prep_in(Born-1, Jonesboro-3)
 nsubj(.,-6, Ark-5)
 root(ROOT-0, .,-6)
 prep_on(.,-6, Oct-8)
-
-20/CD ,/, 1926/CD ,/, Parkhurst/NNP moved/VBD with/IN his/PRP$ family/NN to/TO California/NNP ./.
 
 (ROOT
   (S
@@ -427,8 +397,6 @@ root(ROOT-0, moved-6)
 poss(family-9, his-8)
 prep_with(moved-6, family-9)
 prep_to(moved-6, California-11)
-
-He/PRP served/VBD in/IN 1954-56/CD as/IN a/DT clerk/NN in/IN an/DT Army/NNP Reserves/NNPS office/NN ,/, then/RB took/VBD a/DT job/NN as/IN art/JJ director/NN of/IN Road/NNP &/CC Track/NNP magazine/NN in/IN Newport/NNP Beach/NNP ./.
 
 (ROOT
   (SINV
@@ -481,8 +449,6 @@ conj_and(Road-22, Track-24)
 nsubj(took-15, magazine-25)
 nn(Beach-28, Newport-27)
 prep_in(magazine-25, Beach-28)
-
-He/PRP later/RB quit/VB to/TO spend/VB a/DT year/NN traveling/NN in/IN Europe/NNP and/CC returned/VBD to/TO become/VB art/JJ director/NN of/IN Carting/VBG World/NNP ,/, a/DT go-cart/JJ magazine/NN ,/, in/IN 1960/CD ./.
 
 (ROOT
   (S
@@ -540,8 +506,6 @@ amod(magazine-23, go-cart-22)
 appos(World-19, magazine-23)
 prep_in(World-19, 1960-26)
 
-While/RB working/VBG ,/, Parkhurst/NNP began/VBD dreaming/VBG of/IN Cycle/NN World/NNP ./.
-
 (ROOT
   (S
     (S
@@ -563,8 +527,6 @@ root(ROOT-0, began-5)
 xcomp(began-5, dreaming-6)
 nn(World-9, Cycle-8)
 prep_of(dreaming-6, World-9)
-
-He/PRP thought/VBD that/IN Road/NNP &/CC Track/NNP 's/POS consumer/NN approach/NN could/MD serve/VB motorcyclists/NNS ,/, said/VBD Joe/NNP Rusz/NNP ,/, a/DT senior/JJ editor/NN at/IN Road/NNP &/CC Track/NNP ./.
 
 (ROOT
   (SINV
@@ -614,8 +576,6 @@ appos(Rusz-16, editor-20)
 prep_at(editor-20, Road-22)
 prep_at(editor-20, Track-24)
 conj_and(Road-22, Track-24)
-
-Parkhurst/NNP also/RB loved/VBD riding/VBG motorcycles/NNS and/CC once/RB told/VBD a/DT friend/NN that/IN he/PRP ``could/VBD never/RB find/VBP something/VBG worthwhile/RB to/TO read/VB about/IN them/PRP ,''/, Little/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -675,8 +635,6 @@ punct(said-24, ,''-22)
 nsubj(said-24, Little-23)
 ccomp(read-19, said-24)
 
-Parkhurst/NNP later/RBR merged/VBN with/IN another/DT company/NN that/WDT owned/VBD Road/NNP &/CC Track/NNP to/TO become/VB Bond/NNP Publishing/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Parkhurst))
@@ -716,8 +674,6 @@ xcomp(owned-8, become-13)
 nn(Publishing-15, Bond-14)
 xcomp(become-13, Publishing-15)
 
-He/PRP sold/VBD both/DT magazines/NNS in/IN the/DT early/JJ 1970s/NNS ,/, said/VBD his/PRP$ wife/NN of/IN 22/CD years/NNS ./.
-
 (ROOT
   (SINV
     (S
@@ -746,8 +702,6 @@ poss(wife-12, his-11)
 nsubj(said-10, wife-12)
 num(years-15, 22-14)
 prep_of(wife-12, years-15)
-
-Since/NNP 1979/CD ,/, he/PRP has/VBZ written/VBN and/CC published/VBD the/DT Motorcycle/NN Business/NN Newsletter/NNP ,/, a/DT biweekly/JJ for/IN industry/NN insiders/NNS ./.
 
 (ROOT
   (S
@@ -789,8 +743,6 @@ amod(insiders-18, biweekly-15)
 prep_for(biweekly-15, industry-17)
 appos(Newsletter-12, insiders-18)
 
-In/IN addition/NN to/TO his/PRP$ wife/NN ,/, Parkhurst/NNP is/VBZ survived/VBN by/IN a/DT brother/NN ,/, John/NNP Parkhurst/NNP of/IN Hemet/NNP ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -822,8 +774,6 @@ agent(survived-9, brother-12)
 nn(Parkhurst-15, John-14)
 appos(brother-12, Parkhurst-15)
 prep_of(Parkhurst-15, Hemet-17)
-
-A/DT memorial/NN is/VBZ planned/VBN for/IN January/NNP ./.
 
 (ROOT
   (S

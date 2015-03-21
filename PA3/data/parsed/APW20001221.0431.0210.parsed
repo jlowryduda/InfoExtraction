@@ -1,5 +1,3 @@
-APW20001221.0431.0210/DT NEWS/NNP STORY/NNPS 2000-12-21/CD 05:28:52/CD
-
 (ROOT
   (NP
     (NP (DT APW20001221.0431.0210))
@@ -12,14 +10,10 @@ dep(APW20001221.0431.0210-1, STORY-3)
 num(05:28:52-5, 2000-12-21-4)
 dep(APW20001221.0431.0210-1, 05:28:52-5)
 
-Inaugural-Committee/JJ
-
 (ROOT
   (ADJP (JJ Inaugural-Committee)))
 
 root(ROOT-0, Inaugural-Committee-1)
-
-Bush/NNP Names/NNP Inaugural/NNP Committee/NNP
 
 (ROOT
   (NP (NNP Bush) (NNP Names) (NNP Inaugural) (NNP Committee)))
@@ -28,8 +22,6 @@ nn(Committee-4, Bush-1)
 nn(Committee-4, Names-2)
 nn(Committee-4, Inaugural-3)
 root(ROOT-0, Committee-4)
-
-WASHINGTON/NNP [AP/NNP ]/NNP _/NNP President/NNP -elect/NNP Bush/NNP named/VBD his/PRP$ nine-member/NN inaugural/JJ committee/NN Wednesday/NN ,/, stacking/VBG it/PRP with/IN individuals/NNS who/WP helped/VBD him/PRP raise/VBP a/DT record/NN $100/CD million/CD for/IN his/PRP$ presidential/JJ race/NN ./.
 
 (ROOT
   (S
@@ -88,8 +80,6 @@ poss(race-30, his-28)
 amod(race-30, presidential-29)
 prep_for(million-26, race-30)
 
-Fred/NNP Meyer/NNP ,/, chairman/NN of/IN Victory/JJ 2000/CD ,/, the/DT joint/NN effort/NN between/IN the/DT Bush/NNP campaign/NN and/CC the/DT Republican/NNP National/NNP Committee/NNP ,/, was/VBD named/VBN chairman/NN of/IN the/DT inaugural/JJ committee/NN ./.
-
 (ROOT
   (S
     (NP
@@ -138,8 +128,6 @@ dobj(named-23, chairman-24)
 det(committee-28, the-26)
 amod(committee-28, inaugural-27)
 prep_of(chairman-24, committee-28)
-
-Four/CC other/JJ committee/NN members/NNS raised/VBD at/IN least/JJS $100,000/CD for/IN Bush/NNP 's/POS campaign/NN :/: Bill/NNP DeWitt/NNP and/CC Mercer/NNP Reynolds/NNPS ,/, co-chairs/VBZ of/IN the/DT Ohio-based/JJ investment/NN firm/NN of/IN Reynolds,/NNP DeWitt/NNP and/CC Company/NNP ;/: Brad/NNP Freeman/NNP ,/, a/DT California/NNP investor/NN ;/: and/CC Florida/NNP developer/NN Al/NNP Hoffman/NNP ,/, who/WP was/VBD finance/NN chairman/NN for/IN Jeb/NNP Bush/NNP 's/POS gubernatorial/JJ campaign/NN and/CC chairman/NN of/IN his/PRP$ inaugural/JJ committee/NN ./.
 
 (ROOT
   (S
@@ -252,8 +240,6 @@ poss(committee-60, his-58)
 amod(committee-60, inaugural-59)
 prep_of(chairman-56, committee-60)
 
-Freeman/NNP ,/, co-chairman/NN of/IN the/DT RNC/NNP gala/NN at/IN the/DT Republican/NNP National/NNP Convention/NNP in/IN Philadelphia/NNP that/IN raised/VBD a/DT record/NN $10.1/CD million/CD ,/, was/VBD named/VBN finance/NN chairman/NN of/IN the/DT inaugural/JJ committee/NN ./.
-
 (ROOT
   (S
     (NP
@@ -309,8 +295,6 @@ det(committee-29, the-27)
 amod(committee-29, inaugural-28)
 prep_of(chairman-25, committee-29)
 
-GOP/NNP national/JJ committeewoman/NN Julie/NNP Finley/NNP ,/, another/DT veteran/NN fund-raiser/NN ,/, was/VBD named/VBN finance/NN co-chairwoman/NN ./.
-
 (ROOT
   (S
     (NP
@@ -335,8 +319,6 @@ auxpass(named-12, was-11)
 root(ROOT-0, named-12)
 nn(co-chairwoman-14, finance-13)
 dobj(named-12, co-chairwoman-14)
-
-Jeanne/NNP Johnson/NNP Phillips/NNPS of/IN Texas/NNP ,/, who/WP has/VBZ raised/VBN money/NN for/IN Bush/NNP and/CC ran/VBD his/PRP$ 1995/CD gubernatorial/JJ inauguration/NN ,/, was/VBD named/VBN executive/NN director/NN of/IN the/DT inaugural/JJ committee/NN ./.
 
 (ROOT
   (S
@@ -391,8 +373,6 @@ det(committee-27, the-25)
 amod(committee-27, inaugural-26)
 prep_of(director-23, committee-27)
 
-Phillips/NNS was/VBD deputy/JJ chairwoman/NN of/IN operations/NNS for/IN Victory/JJ 2000/CD ./.
-
 (ROOT
   (S
     (NP (NNS Phillips))
@@ -413,8 +393,6 @@ root(ROOT-0, chairwoman-4)
 prep_of(chairwoman-4, operations-6)
 amod(2000-9, Victory-8)
 prep_for(operations-6, 2000-9)
-
-The/DT committee/NN members/NNS met/NN Wednesday/NN with/IN representatives/NNS of/IN the/DT Joint/NNP Congressional/NNP Committee/NNP on/IN Inaugural/JJ Ceremonies/NNS to/TO discuss/VB plans/NNS for/IN the/DT Jan/NNP ./.
 
 (ROOT
   (S
@@ -457,8 +435,6 @@ dobj(discuss-17, plans-18)
 det(Jan-21, the-20)
 prep_for(plans-18, Jan-21)
 
-20/CD ceremony/NN ./.
-
 (ROOT
   (NP
     (NP (CD 20))
@@ -467,8 +443,6 @@ prep_for(plans-18, Jan-21)
 
 root(ROOT-0, 20-1)
 dep(20-1, ceremony-2)
-
-Meanwhile/RB ,/, representatives/VBZ of/IN several/JJ progressive/JJ organizations/NNS are/VBP making/VBG their/PRP$ own/JJ plans/NNS for/IN Jan/NNP ./.
 
 (ROOT
   (S
@@ -496,8 +470,6 @@ poss(plans-12, their-10)
 amod(plans-12, own-11)
 dobj(making-9, plans-12)
 prep_for(making-9, Jan-14)
-
-20/CD :/: protests/NNS against/IN Bush/NNP 's/POS positions/NNS on/IN such/JJ issues/NNS as/IN free/JJ trade/NN ,/, overhauling/VBG the/DT campaign/NN finance/NN system/NN ,/, the/DT death/NN penalty/NN and/CC the/DT environment/NN ./.
 
 (ROOT
   (NP
@@ -545,8 +517,6 @@ conj_and(system-19, penalty-23)
 det(environment-26, the-25)
 dobj(overhauling-15, environment-26)
 conj_and(system-19, environment-26)
-
-The/DT groups/NNS hope/VBP to/TO infiltrate/VB the/DT crowd/NN at/IN the/DT inauguration/NN and/CC hold/JJ anti-Bush/JJ signs/NNS aloft/RB ,/, and/CC plan/VB a/DT week-long/JJ series/NN of/IN programs/NNS to/TO highlight/VB their/PRP$ objections/NNS to/TO the/DT new/JJ administration/NN ./.
 
 (ROOT
   (S
@@ -608,8 +578,6 @@ det(administration-31, the-29)
 amod(administration-31, new-30)
 prep_to(highlight-25, administration-31)
 
-``Because/NNP Bush/NNP won/NN ,/, there/EX 's/VBZ more/RBR of/IN an/DT interest/NN to/TO protest/VB ,''/PRP said/VBD protest/JJS coordinator/NN Adam/NNP Eidinger/NNP ,/, a/DT veteran/NN of/IN demonstrations/NNS at/IN both/DT national/JJ political/JJ conventions/NNS this/DT summer/NN ./.
-
 (ROOT
   (S
     (NP
@@ -669,8 +637,6 @@ amod(conventions-28, political-27)
 prep_at(demonstrations-23, conventions-28)
 det(summer-30, this-29)
 tmod(said-14, summer-30)
-
-``He/IN needs/NNS to/TO understand/NN that/IN more/JJR than/IN half/NN of/IN the/DT American/JJ public/NN feels/NNS that/IN he/PRP does/VBZ not/RB represent/VB them/PRP .''/.
 
 (ROOT
   (PP (IN ``He)

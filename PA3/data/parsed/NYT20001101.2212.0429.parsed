@@ -1,5 +1,3 @@
-NYT20001101.2212.0429/NNP NEWS/NNP STORY/NNP 2000-11-01/CD 22:12:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001101.2212.0429) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(22:12:00-5, 2000-11-01-4)
 dep(STORY-3, 22:12:00-5)
-
-A4398/CD &Cx1f/NN ;/: taf-z/NNP u/NNP f/NNP BC-AOL-MARKETPLACE-NYT/NNP &LR/NNP ;/: 11-01/CD 0711/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0711-11, 11-01-10)
 dep(&LR-8, 0711-11)
 
-BC-AOL-MARKETPLACE-NYT/NNP
-
 (ROOT
   (NP (NNP BC-AOL-MARKETPLACE-NYT)))
 
 root(ROOT-0, BC-AOL-MARKETPLACE-NYT-1)
-
-MARKET/NNP PLACE/NNP :/: TIME/NNP WARNER/NNP HOLDERS/NNP LOOK/NNP FOR/NNP HAPPY/NNP DAYS/NNP AFTER/NNP THE/NNP AOL/NNP
 
 (ROOT
   (NP
@@ -60,8 +52,6 @@ nn(AOL-13, DAYS-10)
 nn(AOL-13, AFTER-11)
 nn(AOL-13, THE-12)
 dep(PLACE-2, AOL-13)
-
-MERGER/NNP &QL/NNP ;/: By/NNP ALEX/NNP BERENSON/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -95,8 +85,6 @@ dep(&LR-9, &QL-11)
 dep(&QL-2, &UR-13)
 dep(&UR-13, c.2000-15)
 appos(c.2000-15, N.Y-16)
-
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNS ;/: &UR/NNS ;/: &LR/NNS ;/: Back/NNP in/IN January/NNP ,/, when/WRB Internet/NNP stocks/NNS were/VBD hot/RB ,/, America/NNP Online/NNP agreed/VBD to/TO buy/VB Time/NNP Warner/NNP with/IN AOL/NNP stock/NN ./.
 
 (ROOT
   (NP
@@ -162,8 +150,6 @@ dobj(buy-28, Warner-30)
 nn(stock-33, AOL-32)
 prep_with(Warner-30, stock-33)
 
-The/DT deal/NN ,/, if/IN approved/VBN by/IN regulators/NNS ,/, would/MD leave/VB AOL/NNP shareholders/NNS with/IN 55/CD percent/NN of/IN the/DT merged/JJ company/NN ,/, even/RB though/IN Time/NNP Warner/NNP 's/POS revenue/NN and/CC cash/NN flow/NN are/VBP far/RB greater/JJ ./.
-
 (ROOT
   (S
     (NP
@@ -221,8 +207,6 @@ cop(greater-32, are-30)
 advmod(greater-32, far-31)
 advcl(leave-10, greater-32)
 
-Since/NNP then/RB ,/, AOL/NNP 's/POS stock/NN has/VBZ fallen/VBN by/IN almost/RB a/DT third/JJ ,/, destroying/VBG most/JJS of/IN the/DT premium/JJ the/DT company/NN had/VBD offered/VBN for/IN control/NN of/IN Time/NNP Warner/NNP ./.
-
 (ROOT
   (S
     (S
@@ -276,8 +260,6 @@ rcmod(most-15, offered-22)
 prep_for(offered-22, control-24)
 nn(Warner-27, Time-26)
 prep_of(control-24, Warner-27)
-
-So/RB a/DT Time/NNP Warner/NNP shareholder/NN might/MD conclude/VB that/IN America/NNP Online/NNP 's/POS chairman/NN ,/, Stephen/NNP Case/NNP ,/, had/VBD bamboozled/VBN his/PRP$ Time/NNP Warner/NNP counterpart/NN ,/, Gerald/NNP Levin/NNP ,/, into/IN taking/VBG AOL/NNP 's/POS shares/NNS at/IN the/DT worst/NN possible/JJ time/NN ./.
 
 (ROOT
   (S (RB So)
@@ -339,8 +321,6 @@ det(worst-34, the-33)
 prep_at(taking-28, worst-34)
 amod(time-36, possible-35)
 dobj(taking-28, time-36)
-
-``Short/JJ term/NN ,/, anyone/NN objective/NN would/MD say/VB probably/RB Steve/NNP got/VBD the/DT better/RBR part/NN of/IN the/DT deal/NN ,''/NN said/VBD Larry/NNP Haverty/NNP ,/, a/DT senior/JJ vice/NN president/NN at/IN State/NNP Street/NNP Research/NNP in/IN Boston/NNP and/CC a/DT longtime/JJ media/NN investor/NN ./.
 
 (ROOT
   (S
@@ -409,8 +389,6 @@ nn(investor-36, media-35)
 dobj(said-18, investor-36)
 conj_and(Haverty-20, investor-36)
 
-But/CC Haverty/NNP ,/, like/IN many/JJ other/JJ Time/NNP Warner/NNP shareholders/NNS and/CC industry/NN analysts/NNS ,/, hardly/RB cares/VBZ ./.
-
 (ROOT
   (S (CC But)
     (NP
@@ -438,8 +416,6 @@ prep_like(Haverty-2, analysts-12)
 conj_and(shareholders-9, analysts-12)
 advmod(cares-15, hardly-14)
 root(ROOT-0, cares-15)
-
-With/IN the/DT merger/NN likely/JJ to/TO be/VB completed/VBN later/RBR this/DT month/NN ,/, he/PRP predicts/VBZ that/IN the/DT merged/JJ company/NN will/MD grow/VB quickly/RB by/IN combining/VBG AOL/NNP 's/POS marketing/NN skills/NNS and/CC captive/JJ base/NN of/IN online/NN users/NNS with/IN Time/NNP Warner/NNP 's/POS huge/JJ library/NN of/IN films/NNS ,/, magazines/NNS and/CC the/DT like/JJ and/CC its/PRP$ relationships/NNS with/IN major/JJ advertisers/NNS ./.
 
 (ROOT
   (S
@@ -536,8 +512,6 @@ conj_and(library-38, relationships-48)
 amod(advertisers-51, major-50)
 prep_with(relationships-48, advertisers-51)
 
-``The/IN deal/NN strategically/RB and/CC financially/RB makes/VBZ all/PDT the/DT sense/NN in/IN the/DT world/NN ,''/, Haverty/NNP said/VBD ./.
-
 (ROOT
   (SINV
     (PP (IN ``The)
@@ -569,8 +543,6 @@ prep_in(makes-6, world-12)
 punct(said-15, ,''-13)
 nsubj(said-15, Haverty-14)
 dep(makes-6, said-15)
-
-``Five/JJ years/NNS out/RB ,/, if/IN you/PRP 're/VBP a/DT shareholder/NN in/IN this/DT company/NN ,/, you/PRP 're/VBP going/VBG to/TO be/VB a/DT happy/NN camper/NN .''/.
 
 (ROOT
   (S
@@ -617,8 +589,6 @@ nn(camper-21, happy-20)
 xcomp(going-16, camper-21)
 punct(going-16, .''-22)
 
-That/DT view/NN is/VBZ widely/RB shared/VBN ./.
-
 (ROOT
   (S
     (NP (DT That) (NN view))
@@ -632,8 +602,6 @@ nsubjpass(shared-5, view-2)
 auxpass(shared-5, is-3)
 advmod(shared-5, widely-4)
 root(ROOT-0, shared-5)
-
-``Strategically/RB ,/, it/PRP makes/VBZ a/DT lot/NN of/IN sense/NN ,''/, said/VBD Tom/NNP Wolzien/NNP of/IN Sanford/NNP C./NNP Bernstein/NNP ./.
 
 (ROOT
   (S
@@ -668,8 +636,6 @@ nn(Bernstein-16, Sanford-14)
 nn(Bernstein-16, C.-15)
 prep_of(Wolzien-12, Bernstein-16)
 
-``These/JJ companies/NNS fill/IN the/DT holes/NNS of/IN the/DT other/JJ one/NN ./.
-
 (ROOT
   (NP
     (NP (JJ ``These) (NNS companies))
@@ -687,8 +653,6 @@ det(one-9, the-7)
 amod(one-9, other-8)
 prep_of(companies-2, one-9)
 
-They/PRP 're/VBP subscription-advertising/VBG combo/JJ models/NNS ./.
-
 (ROOT
   (S
     (NP (PRP They))
@@ -702,8 +666,6 @@ aux(subscription-advertising-3, 're-2)
 root(ROOT-0, subscription-advertising-3)
 amod(models-5, combo-4)
 dobj(subscription-advertising-3, models-5)
-
-The/DT reality/NN is/VBZ the/DT pieces/NNS are/VBP very/RB compatible/JJ .''/.
 
 (ROOT
   (S
@@ -726,8 +688,6 @@ cop(compatible-8, are-6)
 advmod(compatible-8, very-7)
 rcmod(pieces-5, compatible-8)
 punct(pieces-5, .''-9)
-
-To/TO be/VB sure/JJ ,/, the/DT recent/JJ history/NN of/IN big/JJ media/NN mergers/NNS is/VBZ hardly/RB comforting/VBG for/IN shareholders/NNS in/IN either/NN AOL/NNP or/CC Time/NNP Warner/NNP ./.
 
 (ROOT
   (S
@@ -771,8 +731,6 @@ prep_in(shareholders-16, AOL-19)
 nn(Warner-22, Time-21)
 prep_in(shareholders-16, Warner-22)
 conj_or(AOL-19, Warner-22)
-
-Disney/NNP stumbled/VBD badly/RB after/IN it/PRP bought/VBD Capital/JJ Cities/NNS in/IN 1996/CD ,/, and/CC Time/NNP Warner/NNP stagnated/VBN for/IN five/CD years/NNS after/IN it/PRP was/VBD created/VBN in/IN 1990/CD by/IN the/DT merger/NN of/IN Time/NNP and/CC Warner/NNP ./.
 
 (ROOT
   (S
@@ -834,8 +792,6 @@ agent(created-22, merger-27)
 prep_of(merger-27, Time-29)
 prep_of(merger-27, Warner-31)
 conj_and(Time-29, Warner-31)
-
-``Huge/JJ deals/NNS are/VBP really/RB hard/JJ to/TO do/VB and/CC create/VB a/DT lot/NN of/IN uncertainty/JJ ,''/NNS said/VBD Roger/NNP McNamee/NNP of/IN Integral/NNP Capital/NNP ,/, which/WDT sold/VBD its/PRP$ 404,000/CD AOL/NNP shares/NNS the/DT day/NN the/DT merger/NN was/VBD announced/VBN ./.
 
 (ROOT
   (SINV
@@ -904,8 +860,6 @@ det(merger-31, the-30)
 nsubjpass(announced-33, merger-31)
 auxpass(announced-33, was-32)
 dep(sold-23, announced-33)
-
-But/CC if/IN the/DT merged/JJ company/NN can/MD overcome/VB that/IN hurdle/NN ,/, it/PRP will/MD have/VB big/JJ advantages/NNS over/IN Disney/NNP and/CC other/JJ traditional/JJ media/NN companies/NNS ,/, which/WDT are/VBP still/RB struggling/VBG to/TO figure/VB out/RP how/WRB they/PRP can/MD profit/VB from/IN the/DT Internet/NNP ,/, said/VBD Jessica/NNP Reif/NNP of/IN Merrill/NNP Lynch/NNP ./.
 
 (ROOT
   (S (CC But)
@@ -995,8 +949,6 @@ dobj(said-39, Reif-41)
 nn(Lynch-44, Merrill-43)
 prep_of(Reif-41, Lynch-44)
 
-``Given/CD the/DT multiple/NN distribution/NN platforms/NNS that/IN they/PRP have/VBP ,/, it/PRP 's/VBZ obviously/RB a/DT very/RB powerful/JJ consumer/NN engine/NN ,''/, Reif/NNP said/VBD ./.
-
 (ROOT
   (S
     (NP
@@ -1043,8 +995,6 @@ punct(Reif-19, ,''-18)
 prep(engine-17, Reif-19)
 root(ROOT-0, said-20)
 
-``There/RB 's/VBZ a/DT reason/NN that/IN you/PRP see/VBP Disney/NNP and/CC to/TO a/DT lesser/NN extent/JJ NBC/NNP screaming/NN in/IN Washington/NNP .''/.
-
 (ROOT
   (SINV
     (ADVP (RB ``There))
@@ -1083,8 +1033,6 @@ nn(screaming-15, NBC-14)
 nsubj(reason-4, screaming-15)
 prep_in(screaming-15, Washington-17)
 punct(reason-4, .''-18)
-
-John/NNP Schreiber/NNP ,/, an/DT assistant/NN portfolio/NN manager/NN at/IN Janus/NNP Capital/NNP ,/, the/DT mutual/JJ fund/NN company/NN that/WDT is/VBZ Time/NNP Warner/NNP 's/POS largest/JJS shareholder/NN ,/, with/IN more/JJR than/IN 120/CD million/CD shares/NNS ,/, said/VBD the/DT companies/NNS had/VBD already/RB begun/JJ to/TO demonstrate/VB how/WRB they/PRP would/MD work/VB together/NN ./.
 
 (ROOT
   (S
@@ -1170,8 +1118,6 @@ aux(work-42, would-41)
 ccomp(demonstrate-38, work-42)
 dobj(work-42, together-43)
 
-For/IN example/NN ,/, AOL/NNP has/VBZ pitched/VBN Time/NNP Warner/NNP 's/POS magazines/NNS to/TO its/PRP$ users/NNS ,/, resulting/VBG in/IN hundreds/NNS of/IN thousands/NNS of/IN new/JJ subscriptions/NNS ./.
-
 (ROOT
   (S
     (PP (IN For)
@@ -1211,8 +1157,6 @@ quantmod(thousands-19, of-18)
 prep_in(resulting-15, thousands-19)
 amod(subscriptions-22, new-21)
 prep_of(thousands-19, subscriptions-22)
-
-And/CC the/DT companies/NNS are/VBP trying/VBG to/TO sell/VB big/JJ advertisers/NNS on/IN deals/NNS that/WDT will/MD reach/VB both/DT America/NNP Online/NN users/NNS and/CC the/DT people/NNS who/WP watch/VBD Time/NNP Warner/NNP cable/JJ channels/NNS and/CC read/VB its/PRP$ magazines/NNS ,/, Schreiber/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -1286,8 +1230,6 @@ dobj(read-29, magazines-31)
 nsubj(said-34, Schreiber-33)
 root(ROOT-0, said-34)
 
-``Once/IN the/DT merger/NN closes/NNS ,/, I/PRP think/VBP you/PRP 'll/MD see/VB some/DT very/RB powerful/JJ cross-promotional/JJ deals/NNS across/IN all/DT of/IN Time/NNP Warner/NNP 's/POS advertisers/NNS ,''/, he/PRP said/VBD ./.
-
 (ROOT
   (S
     (PP (IN ``Once)
@@ -1337,8 +1279,6 @@ prep_of(all-17, advertisers-22)
 punct(said-25, ,''-23)
 nsubj(said-25, he-24)
 dep(see-10, said-25)
-
-Schreiber/NNP also/RB says/VBZ the/DT risk/NN of/IN cultural/JJ clashes/NNS between/IN the/DT companies/NNS is/VBZ limited/JJ ,/, because/IN the/DT companies/NNS disclosed/VBN publicly/RB where/WRB top/JJ executives/NNS would/MD stand/VB in/IN the/DT combined/JJ company/NN only/RB a/DT few/JJ weeks/NNS after/IN the/DT merger/NN was/VBD announced/VBN ./.
 
 (ROOT
   (S
@@ -1416,8 +1356,6 @@ auxpass(announced-37, was-36)
 advcl(stand-24, announced-37)
 ccomp(stand-24, announced-37)
 
-So/RB people/NNS who/WP feel/VBP their/PRP$ responsibilities/NNS have/VBP been/VBN diminished/VBN have/VBP had/VBN months/NNS to/TO look/VB for/IN new/JJ jobs/NNS ,/, and/CC some/DT have/VBP already/RB left/VBN ,/, he/PRP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -1479,8 +1417,6 @@ ccomp(said-26, left-23)
 nsubj(said-26, he-25)
 root(ROOT-0, said-26)
 
-Given/CD the/DT strength/NN he/PRP sees/VBZ in/IN the/DT combined/JJ company/NN ,/, Schreiber/NNP said/VBD the/DT question/NN of/IN whether/IN Levin/NNP could/MD have/VB negotiated/VBN a/DT better/JJR deal/NN with/IN America/NNP Online/NNP is/VBZ moot/RB ./.
-
 (ROOT
   (S
     (S
@@ -1537,8 +1473,6 @@ prep_with(negotiated-20, Online-26)
 ccomp(said-12, is-27)
 advmod(is-27, moot-28)
 
-Shares/NNS in/IN cable/JJ companies/NNS like/IN Comcast/NNP have/VBP fallen/VBN 15/CD percent/JJ or/CC more/RBR this/DT year/NN ,/, while/IN big/JJ media/NN companies/NNS have/VBP been/VBN flat/JJ or/CC up/RB slightly/RB ./.
-
 (ROOT
   (S
     (NP
@@ -1591,8 +1525,6 @@ advmod(slightly-25, up-24)
 advcl(fallen-8, slightly-25)
 conj_or(flat-22, slightly-25)
 
-So/RB ``it/NN 's/POS not/RB as/RB if/IN Time/NNP Warner/NNP shareholders/NNS have/VBP lost/VBN out/RB on/IN a/DT great/JJ deal/NN of/IN upside/NN ,''/, Schreiber/NNP said/VBD ./.
-
 (ROOT
   (S (RB So)
     (NP
@@ -1632,8 +1564,6 @@ prep_of(deal-16, upside-18)
 punct(Schreiber-20, ,''-19)
 nsubj(said-21, Schreiber-20)
 root(ROOT-0, said-21)
-
-NYT-11-01-00/CD 2212EST/CD
 
 (ROOT
   (FRAG

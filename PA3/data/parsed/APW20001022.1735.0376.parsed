@@ -1,5 +1,3 @@
-APW20001022.1735.0376/CD NEWS/NNP STORY/NNP 2000-10-22/CD 17:50:56/CD
-
 (ROOT
   (NP
     (NP (CD APW20001022.1735.0376))
@@ -12,14 +10,10 @@ dep(APW20001022.1735.0376-1, STORY-3)
 num(17:50:56-5, 2000-10-22-4)
 dep(APW20001022.1735.0376-1, 17:50:56-5)
 
-Alps-Flooding/JJ
-
 (ROOT
   (ADJP (JJ Alps-Flooding)))
 
 root(ROOT-0, Alps-Flooding-1)
-
-Five/NNP Alps/NNP Landslide/NNP Victims/NNP Buried/VBD
 
 (ROOT
   (S
@@ -31,8 +25,6 @@ nn(Victims-4, Alps-2)
 nn(Victims-4, Landslide-3)
 nsubj(Buried-5, Victims-4)
 root(ROOT-0, Buried-5)
-
-ROME/NNP ,/, Italy/NNP [AP/NNP ]/NNP _/, A/DT little/JJ mountain/NN village/NN in/IN northern/JJ Italy/NNP buried/VBD five/CD victims/NNS of/IN last/JJ week/NN 's/POS devastating/NN high/JJ water/NN and/CC mudslides/NNS on/IN Sunday/NN ,/, the/DT day/NN a/DT state/NN of/IN emergency/NN finally/RB ran/VBD out/RP ./.
 
 (ROOT
   (S
@@ -100,8 +92,6 @@ advmod(ran-36, finally-35)
 rcmod(day-30, ran-36)
 prt(ran-36, out-37)
 
-Floodwaters/NNS throughout/IN the/DT region/NN ,/, including/VBG the/DT raging/VBG Po/NNP River/NNP ,/, have/VBP ebbed/VBN ,/, emptying/VBG into/IN the/DT Adriatic/JJ and/CC revealing/VBG a/DT rising/VBG toll/NN of/IN damage/NN ./.
-
 (ROOT
   (S
     (NP
@@ -146,8 +136,6 @@ amod(toll-23, rising-22)
 dobj(revealing-20, toll-23)
 prep_of(toll-23, damage-25)
 
-Some/DT roads/NNS and/CC bridges/NNS are/VBP still/RB closed/JJ and/CC could/MD remain/VB so/RB for/IN some/DT time/NN ,/, officials/NNS say/VBP ./.
-
 (ROOT
   (S
     (S
@@ -185,8 +173,6 @@ det(time-14, some-13)
 prep_for(remain-10, time-14)
 nsubj(say-17, officials-16)
 root(ROOT-0, say-17)
-
-The/DT death/NN toll/NN from/IN the/DT raging/VBG floodwaters/NNS and/CC fearsome/JJ mudslides/NNS reached/VBD 37/CD combined/VBN for/IN the/DT Alpine/NNP region/NN of/IN northern/JJ Italy/NNP and/CC southern/JJ Switzerland/NNP ./.
 
 (ROOT
   (S
@@ -232,8 +218,6 @@ amod(Switzerland-23, southern-22)
 prep_of(region-17, Switzerland-23)
 conj_and(Italy-20, Switzerland-23)
 
-Eighteen/CD of/IN those/DT were/VBD from/IN the/DT Valle/JJ d'Aosta/NN in/IN the/DT Italian/JJ Alps/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -257,8 +241,6 @@ prep_from(were-4, d'Aosta-8)
 det(Alps-12, the-10)
 amod(Alps-12, Italian-11)
 prep_in(d'Aosta-8, Alps-12)
-
-At/IN the/DT church/NN of/IN San/NNP Maurizio/NNP in/IN Fenis/NNP ,/, a/DT mountain/NN hamlet/NN near/IN the/DT city/NN of/IN Aosta/NNP ,/, villagers/NNS paid/VBD their/PRP$ final/JJ respects/NNS to/TO five/CD local/JJ victims/NNS ./.
 
 (ROOT
   (S
@@ -307,8 +289,6 @@ num(victims-27, five-25)
 amod(victims-27, local-26)
 prep_to(paid-20, victims-27)
 
-Among/DT them/PRP ,/, double/JJ losses/NNS for/IN two/CD families/NNS _/IN a/DT father/NN and/CC son/NN in/IN one/CD ,/, a/DT mother/NN and/CC daughter/NN in/IN another/DT ./.
-
 (ROOT
   (NP
     (NP (DT Among) (PRP them))
@@ -351,8 +331,6 @@ appos(them-2, daughter-20)
 conj_and(mother-18, daughter-20)
 prep_in(mother-18, another-22)
 
-Amid/IN the/DT grief/NN in/IN communities/NNS throughout/IN the/DT stricken/JJ area/NN ,/, life/NN was/VBD slowly/RB returning/VBG to/TO something/VBG resembling/VBG normal/NN ./.
-
 (ROOT
   (S
     (PP (IN Amid)
@@ -389,8 +367,6 @@ root(ROOT-0, returning-14)
 prepc_to(returning-14, something-16)
 vmod(something-16, resembling-17)
 xcomp(resembling-17, normal-18)
-
-But/CC thousands/NNS were/VBD still/RB unable/JJ to/TO go/VB back/RB to/TO their/PRP$ drenched/JJ or/CC damaged/JJ homes/NNS and/CC a/DT huge/JJ task/NN of/IN rebuilding/VBG lay/NN ahead/RB ./.
 
 (ROOT
   (S (CC But)
@@ -440,8 +416,6 @@ conj_and(homes-14, task-18)
 prepc_of(task-18, rebuilding-20)
 dobj(rebuilding-20, lay-21)
 advmod(rebuilding-20, ahead-22)
-
-Authorities/NNS estimate/VBP the/DT damage/NN in/IN the/DT hundreds/NNS of/IN million/CD of/IN dollars/NNS ./.
 
 (ROOT
   (S

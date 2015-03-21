@@ -1,5 +1,3 @@
-APW20001103.1315.0364/DT NEWS/NNP STORY/NNPS 2000-11-03/CD 14:10:45/CD
-
 (ROOT
   (NP
     (NP (DT APW20001103.1315.0364))
@@ -12,14 +10,10 @@ dep(APW20001103.1315.0364-1, STORY-3)
 num(14:10:45-5, 2000-11-03-4)
 dep(APW20001103.1315.0364-1, 14:10:45-5)
 
-FBC-Rutgers-Shea/NN
-
 (ROOT
   (NP (NN FBC-Rutgers-Shea)))
 
 root(ROOT-0, FBC-Rutgers-Shea-1)
-
-Source/NN :/: Rutgers/NNPS Coach/NNP To/TO Resign/NNP
 
 (ROOT
   (NP
@@ -35,8 +29,6 @@ nn(Coach-4, Rutgers-3)
 dep(Source-1, Coach-4)
 prep_to(Coach-4, Resign-6)
 
-PISCATAWAY/NNP ,/, N.J/NNP ./.
-
 (ROOT
   (NP
     (NP (NNP PISCATAWAY))
@@ -46,8 +38,6 @@ PISCATAWAY/NNP ,/, N.J/NNP ./.
 
 root(ROOT-0, PISCATAWAY-1)
 appos(PISCATAWAY-1, N.J-3)
-
-[AP/NNP ]/NNP _/NNP Terry/NNP Shea/NNP ,/, who/WP failed/VBD to/TO produce/VB a/DT winning/VBG season/NN in/IN four-plus/JJ years/NNS at/IN Rutgers/NNS ,/, will/MD step/VB down/RB as/IN coach/NN at/IN the/DT end/NN of/IN this/DT season/NN ,/, a/DT source/JJ close/NN to/TO the/DT school/NN told/VBD The/DT Associated/JJ Press/NNP Friday/NNP ./.
 
 (ROOT
   (S
@@ -125,8 +115,6 @@ amod(Press-41, Associated-40)
 dobj(told-38, Press-41)
 tmod(told-38, Friday-42)
 
-Shea/NNP ,/, who/WP has/VBZ an/DT 11-41/JJ record/NN ,/, agreed/VBD to/TO resign/VB after/IN meeting/NN with/IN athletic/JJ director/NN Robert/NNP E./NNP Mulcahy/NNP on/IN Thursday/NNP afternoon/NN ,/, according/VBG to/TO the/DT source/NN ,/, who/WP spoke/VBD on/IN the/DT condition/NN of/IN anonymity/NN ./.
-
 (ROOT
   (S
     (NP
@@ -194,8 +182,6 @@ det(condition-33, the-32)
 prep_on(spoke-30, condition-33)
 prep_of(condition-33, anonymity-35)
 
-The/DT Star-Ledger/NNP of/IN Newark/NNP ,/, Gannett/NNP Newspapers/NNPS and/CC The/DT Record/NNP of/IN Hackensack/NNP reported/VBD Friday/NN that/IN Shea/NNP agreed/VBD to/TO resign/VB ./.
-
 (ROOT
   (S
     (NP
@@ -239,8 +225,6 @@ nsubj(resign-19, Shea-16)
 ccomp(reported-13, agreed-17)
 aux(resign-19, to-18)
 xcomp(agreed-17, resign-19)
-
-Mulcahy/NNP and/CC Shea/NNP signed/VBD off/RB on/IN his/PRP$ resignation/NN around/IN 7:30/CD p.m/NN .,/, and/CC Shea/NNP then/RB held/VBD a/DT meeting/NN with/IN his/PRP$ football/NN team/NN at/IN 9:30/CD p.m/NN .,/IN the/DT source/NN said/VBD ./.
 
 (ROOT
   (S
@@ -296,8 +280,6 @@ det(source-28, the-27)
 nsubj(said-29, source-28)
 advcl(held-16, said-29)
 
-Rutgers/NNS athletic/JJ director/NN Robert/NNP E./NNP Mulcahy/NNP called/VBD a/DT news/NN conference/NN for/IN Friday/NN at/IN noon/NN EST/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -326,8 +308,6 @@ prep_for(called-7, Friday-12)
 prep_at(called-7, noon-14)
 dobj(called-7, EST-15)
 
-``That/NNP 's/POS when/WRB it/PRP will/MD happen/VB ,''/IN the/DT source/NN said/VBD ./.
-
 (ROOT
   (S
     (NP (NNP ``That) (POS 's))
@@ -352,8 +332,6 @@ mark(said-10, ,''-7)
 det(source-9, the-8)
 nsubj(said-10, source-9)
 advcl(happen-6, said-10)
-
-Telephone/NNP calls/NNS to/TO Mulcahy/NNP and/CC Rutgers/NNPS sports/NNS information/NN director/NN John/NNP Wooding/NNP by/IN The/DT Associated/JJ Press/NN were/VBD not/RB immediately/RB returned/VBN ./.
 
 (ROOT
   (S
@@ -393,8 +371,6 @@ neg(returned-19, not-17)
 advmod(returned-19, immediately-18)
 root(ROOT-0, returned-19)
 
-The/DT Scarlet/JJ Knights/NNS are/VBP 3-5/JJ overall/JJ and/CC 0-5/JJ in/IN the/DT Big/NNP East/NNP Conference/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (JJ Scarlet) (NNS Knights))
@@ -419,8 +395,6 @@ det(Conference-13, the-10)
 nn(Conference-13, Big-11)
 nn(Conference-13, East-12)
 prep_in(0-5-8, Conference-13)
-
-They/PRP have/VBP a/DT bye/NN this/DT weekend/NN ,/, then/RB finish/JJ the/DT season/NN with/IN games/NNS against/IN West/NNP Virginia/NNP ,/, Notre/RB Dame/NN and/CC Syracuse/NN ./.
 
 (ROOT
   (S
@@ -464,8 +438,6 @@ advmod(finish-9, Notre-18)
 amod(bye-4, Dame-19)
 amod(bye-4, Syracuse-21)
 conj_and(Dame-19, Syracuse-21)
-
-After/IN Rutgers/NNS posted/VBD a/DT 1-10/JJ record/NN last/JJ season/NN ,/, Mulcahy/NNP told/VBD Shea/NNP he/PRP had/VBD to/TO have/VB a/DT winning/JJ record/NN this/DT season/NN and/CC the/DT team/NN had/VBD to/TO avoid/VB the/DT one-sided/JJ losses/NNS that/WDT embarrassed/VBD the/DT school/NN in/IN recent/JJ years/NNS ./.
 
 (ROOT
   (S
@@ -549,8 +521,6 @@ dobj(embarrassed-32, school-34)
 amod(years-37, recent-36)
 prep_in(embarrassed-32, years-37)
 
-After/IN opening/VBG the/DT season/NN with/IN wins/NNS over/IN Villanova/NNP ,/, a/DT Division/NNP IAA/NNP program/NN ,/, and/CC Buffalo/NNP ,/, which/WDT recently/RB announced/VBD its/PRP$ coach/NN would/MD not/RB be/VB returning/VBG next/JJ season/NN ,/, Rutgers/NNPS lost/VBD its/PRP$ next/JJ five/CD games/NNS by/IN a/DT combined/JJ 232-43/CD margin/NN ./.
-
 (ROOT
   (S
     (PP (IN After)
@@ -624,8 +594,6 @@ amod(margin-40, combined-38)
 num(margin-40, 232-43-39)
 prep_by(games-35, margin-40)
 
-The/DT skid/NN ended/VBN last/JJ week/NN with/IN a/DT victory/NN over/IN winless/JJ Navy/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NN skid))
@@ -647,8 +615,6 @@ det(victory-8, a-7)
 prep_with(ended-3, victory-8)
 amod(Navy-11, winless-10)
 prep_over(victory-8, Navy-11)
-
-Shea/NNP replaced/VBD the/DT fired/JJ Doug/NNP Graber/NNP in/IN 1996/CD with/IN hopes/NNS of/IN building/NN a/DT program/NN with/IN a/DT Bill/NNP Walsh/NNP -type/FW West/NNP Coast/NNP offense/NN ./.
 
 (ROOT
   (S
@@ -690,8 +656,6 @@ nn(Coast-21, West-20)
 prep_with(program-14, Coast-21)
 prep_of(hopes-10, offense-22)
 
-Shea/NNP never/RB got/VBD the/DT talent/NN to/TO make/VB it/PRP happen/NN ./.
-
 (ROOT
   (S
     (NP (NNP Shea))
@@ -716,8 +680,6 @@ vmod(talent-5, make-7)
 nsubj(happen-9, it-8)
 xcomp(make-7, happen-9)
 
-He/PRP posted/VBD records/NNS of/IN 2-9/CD ,/, 0-11/CD ,/, 5-6/CD and/CC 1-10/CD ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -741,8 +703,6 @@ dobj(posted-2, 0-11-7)
 num(0-11-7, 5-6-9)
 dobj(posted-2, 1-10-11)
 conj_and(0-11-7, 1-10-11)
-
-His/PRP$ five/CD wins/NNS in/IN 1998/CD after/IN going/VBG winless/JJ the/DT year/NN before/IN were/VBD enough/JJ to/TO earn/VB him/PRP Big/NNP East/NNP Coach/NNP of/IN the/DT Year/NNP ./.
 
 (ROOT
   (S
@@ -790,8 +750,6 @@ dobj(earn-15, Coach-19)
 det(Year-22, the-21)
 prep_of(Coach-19, Year-22)
 
-Rutgers/NNS was/VBD 4-29/CD in/IN Big/NNP East/NNP play/VB during/IN Shea/NNP 's/POS tenure/NN ,/, including/VBG 1-16/CD in/IN league/NN road/NN games/NNS ./.
-
 (ROOT
   (S
     (NP (NNS Rutgers))
@@ -826,8 +784,6 @@ nn(games-18, league-16)
 nn(games-18, road-17)
 prep_in(1-16-14, games-18)
 
-The/DT Scarlet/NNP Knights/NNPS gave/VBD up/RP 40/CD or/CC more/JJR points/NNS in/IN 23/CD games/NNS under/IN Shea/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NNP Scarlet) (NNPS Knights))
@@ -857,8 +813,6 @@ dobj(gave-4, points-9)
 num(games-12, 23-11)
 prep_in(points-9, games-12)
 prep_under(gave-4, Shea-14)
-
-Shea/NNP has/VBZ one/CD year/NN remaining/VBG on/IN his/PRP$ contract/NN ,/, which/WDT has/VBZ a/DT base/JJ salary/NN of/IN $160,000/CD ./.
 
 (ROOT
   (S
@@ -895,8 +849,6 @@ amod(salary-14, base-13)
 dobj(has-11, salary-14)
 prep_of(salary-14, $160,000-16)
 
-Rutgers/NNS reportedly/RB had/VBD started/VBN compiling/VBG a/DT short/JJ list/NN of/IN candidates/NNS to/TO replace/VB Shea/NNP ./.
-
 (ROOT
   (S
     (NP (NNS Rutgers))
@@ -927,8 +879,6 @@ prep_of(list-8, candidates-10)
 aux(replace-12, to-11)
 vmod(compiling-5, replace-12)
 dobj(replace-12, Shea-13)
-
-It/PRP includes/VBZ head/RB coaches/NNS Gary/JJ Darnell/NNP of/IN Western/NNP Michigan/NNP ,/, Gary/NNP Pinkel/NNP of/IN Toledo/NNP and/CC two/CD coordinators/NNS _/IN Miami/NNP defensive/JJ coordinator/NN Greg/NNP Schiano/NNP and/CC Notre/NNP Dame/NNP offensive/JJ coordinator/NN Kevin/NNP Rogers/NNPS ./.
 
 (ROOT
   (S

@@ -1,5 +1,3 @@
-NYT20001114.0210.0200/CD NEWS/NNP STORY/NNP 2000-11-14/CD 15:53:00/CD
-
 (ROOT
   (NP
     (NP (CD NYT20001114.0210.0200))
@@ -11,8 +9,6 @@ nn(STORY-3, NEWS-2)
 dep(NYT20001114.0210.0200-1, STORY-3)
 num(15:53:00-5, 2000-11-14-4)
 dep(NYT20001114.0210.0200-1, 15:53:00-5)
-
-A8685/CD &Cx1f/NN ;/: taf-z/NNP u/NNP d/NNP BC-SIMPLE-COOKING-NYT/NNP &LR/NNP ;/: 11-14/CD 0619/CD
 
 (ROOT
   (NP
@@ -34,14 +30,10 @@ dep(&Cx1f-2, &LR-8)
 number(0619-11, 11-14-10)
 dep(&LR-8, 0619-11)
 
-BC-SIMPLE-COOKING-NYT/NNP
-
 (ROOT
   (NP (NNP BC-SIMPLE-COOKING-NYT)))
 
 root(ROOT-0, BC-SIMPLE-COOKING-NYT-1)
-
-PUDDING/NNP ,/, SWEET/NNP AND/NNP NOT/NNP
 
 (ROOT
   (NP
@@ -53,8 +45,6 @@ root(ROOT-0, PUDDING-1)
 nn(NOT-5, SWEET-3)
 nn(NOT-5, AND-4)
 appos(PUDDING-1, NOT-5)
-
-&UR/NNS ;/: By/NNP MARK/NNP HULBERT/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -88,8 +78,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -106,8 +94,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-NEW/NNP YORK/NNP _/NNP Bread/NNP pudding/VBG is/VBZ one/CD of/IN the/DT most/RBS traditional/JJ American/JJ dishes/NNS ;/: cookbooks/NNS from/IN the/DT 18th/JJ century/NN have/VBP recipes/NNS for/IN it/PRP that/WDT are/VBP more/RBR or/CC less/RBR the/DT same/JJ as/IN what/WP we/PRP make/VBP today/NN ./.
 
 (ROOT
   (S
@@ -181,8 +167,6 @@ dobj(make-34, what-32)
 nsubj(make-34, we-33)
 prepc_as(are-25, make-34)
 tmod(make-34, today-35)
-
-But/CC bread/RB pudding/VBG is/VBZ also/RB a/DT minimalist/NN sort/NN of/IN dish/JJ ,/, no/DT more/RBR than/IN dry/JJ bread/RB mixed/JJ together/NN with/IN milk/NN and/CC eggs/NNS and/CC whatever/JJR flavor/NN strikes/VBZ the/DT cook/NN ,/, and/CC then/RB baked/VBD until/IN it/PRP is/VBZ rich/NN and/CC custardy/NN ./.
 
 (ROOT
   (S (CC But)
@@ -259,8 +243,6 @@ advcl(baked-32, rich-36)
 advcl(baked-32, custardy-38)
 conj_and(rich-36, custardy-38)
 
-It/PRP can/MD be/VB savory/NN or/CC sweet/NN ,/, and/CC either/RB makes/VBZ a/DT simple/NN ,/, interesting/JJ substitute/NN for/IN a/DT standard/JJ part/NN of/IN the/DT Thanksgiving/VBG meal/NN ./.
-
 (ROOT
   (S
     (NP (PRP It))
@@ -302,8 +284,6 @@ det(meal-23, the-21)
 amod(meal-23, Thanksgiving-22)
 prep_of(part-19, meal-23)
 
-Savory/NNP bread/RB pudding/VBG is/VBZ a/DT luxurious/JJ side/NN dish/NN that/WDT can/MD be/VB served/VBN in/IN place/NN of/IN stuffing/NN ./.
-
 (ROOT
   (S
     (NP
@@ -338,8 +318,6 @@ aux(served-12, can-10)
 auxpass(served-12, be-11)
 rcmod(dish-8, served-12)
 prep_in_place_of(served-12, stuffing-16)
-
-Or/CC it/PRP can/MD be/VB the/DT extra/JJ stuffing/NN that/IN everyone/NN always/VBZ wants/NNS [but/VBP not/RB dry/VB like/IN the/DT usual/JJ kind/NN baked/VBD outside/VB a/DT turkey/NN can/MD be/VB ]./.
 
 (ROOT
   (S (CC Or)
@@ -395,8 +373,6 @@ aux(be-24, can-23)
 ccomp(outside-20, be-24)
 punct(stuffing-7, ].-25)
 
-My/NNP basic/JJ recipe/NN combines/VBZ the/DT cubed/NN bread/RB ,/, eggs/NNS and/CC milk/NN with/IN a/DT couple/NN of/IN cheeses/NNS ./.
-
 (ROOT
   (S
     (NP (NNP My) (JJ basic) (NN recipe))
@@ -428,8 +404,6 @@ conj_and(cubed-6, milk-11)
 det(couple-14, a-13)
 prep_with(combines-4, couple-14)
 prep_of(couple-14, cheeses-16)
-
-[If/IN you/PRP 're/VBP desperate/JJ for/IN oven/JJ space/NN ,/, bake/IN it/PRP and/CC then/RB heat/VBD it/PRP just/RB before/IN serving/NN ,/, or/CC serve/NN it/PRP at/IN room/NN temperature/NN .]/IN You/PRP can/MD make/VB it/PRP without/IN the/DT mushrooms/NNS ,/, too/RB ./.
 
 (ROOT
   (S
@@ -498,8 +472,6 @@ det(mushrooms-32, the-31)
 prep_without(make-28, mushrooms-32)
 advmod(make-28, too-34)
 
-The/DT pudding/VBG can/MD also/RB be/VB varied/VBN by/IN adding/VBG a/DT pinch/NN of/IN thyme/NN or/CC sage/NN ,/, chopped/VBD nuts/NNS or/CC cooked/JJ chestnuts/NNS ,/, or/CC about/IN a/DT cup/NN of/IN grated/JJ sweet/NN potato/NN or/CC chopped/VBD scallions/NNS ./.
-
 (ROOT
   (S
     (NP (DT The) (VBG pudding))
@@ -564,8 +536,6 @@ prep_of(about-23, potato-29)
 conj_or(varied-6, chopped-31)
 dobj(chopped-31, scallions-32)
 
-If/IN you/PRP want/VBP a/DT pudding/VBG that/WDT tastes/VBZ more/RBR like/IN stuffing/NN ,/, just/RB add/IN chopped/VBN celery/NN ,/, onions/NNS ,/, carrots/NNS and/CC herbs/NNS ./.
-
 (ROOT
   (S
     (SBAR (IN If)
@@ -610,8 +580,6 @@ conj_and(celery-15, carrots-19)
 dobj(chopped-14, herbs-21)
 conj_and(celery-15, herbs-21)
 
-Sweet/RB bread/RB pudding/VBG is/VBZ made/VBN the/DT same/JJ way/NN ,/, but/CC with/IN fewer/JJR ingredients/NNS ./.
-
 (ROOT
   (S
     (S
@@ -642,8 +610,6 @@ conj_but(made-5, with-11)
 amod(ingredients-13, fewer-12)
 pobj(with-11, ingredients-13)
 
-I/PRP use/VB maple/JJ syrup/JJ instead/NN of/IN sugar/NN for/IN the/DT extra/JJ flavor/NN and/CC moisture/NN ./.
-
 (ROOT
   (S
     (NP (PRP I))
@@ -670,8 +636,6 @@ amod(flavor-11, extra-10)
 prep_for(sugar-7, flavor-11)
 prep_for(sugar-7, moisture-13)
 conj_and(flavor-11, moisture-13)
-
-You/PRP can/MD add/VB more/RBR spices/NNS ,/, including/VBG a/DT small/JJ grating/NN of/IN nutmeg/NN ,/, chopped/VBN crystallized/JJ ginger/NN ,/, raisins/NNS or/CC prunes/NNS soaked/VBD in/IN Armagnac/NNP ./.
 
 (ROOT
   (S
@@ -719,8 +683,6 @@ nsubj(soaked-21, prunes-20)
 root(ROOT-0, soaked-21)
 prep_in(soaked-21, Armagnac-23)
 
-The/DT kind/NN of/IN bread/RB you/PRP choose/VBP makes/VBZ a/DT difference/NN ./.
-
 (ROOT
   (S
     (NP
@@ -742,8 +704,6 @@ prepc_of(kind-2, choose-6)
 root(ROOT-0, makes-7)
 det(difference-9, a-8)
 dobj(makes-7, difference-9)
-
-Fluffy/NNP packaged/VBD white/JJ bread/NN disappears/NNS ;/: the/DT crusts/NNS of/IN crisp/JJ baguettes/NNS and/CC peasant/JJ breads/NNS never/RB become/VBN tender/NN ./.
 
 (ROOT
   (S
@@ -781,8 +741,6 @@ conj_and(baguettes-11, breads-14)
 neg(become-16, never-15)
 parataxis(packaged-2, become-16)
 xcomp(become-16, tender-17)
-
-For/IN savory/JJ pudding/VBG ,/, stick/NN to/TO long/JJ ,/, wide/JJ inexpensive/JJ loaves/NNS ,/, usually/RB called/VBN Italian/JJ bread/NN ;/: for/IN sweet/NN pudding/VBG ,/, stale/JJ hallah/NN is/VBZ best/JJS ./.
 
 (ROOT
   (S
@@ -826,8 +784,6 @@ amod(hallah-23, stale-22)
 nsubj(best-25, hallah-23)
 cop(best-25, is-24)
 root(ROOT-0, best-25)
-
-And/CC make/VB sure/JJ the/DT bread/NN is/VBZ thoroughly/RB and/CC evenly/RB soaked/VBD before/IN it/PRP 's/VBZ baked/JJ ;/: I/PRP like/VB to/TO submerge/VB the/DT bread/NN with/IN a/DT weighted/JJ plate/NN before/IN baking/NN ./.
 
 (ROOT
   (S (CC And)
@@ -891,8 +847,6 @@ amod(plate-25, weighted-24)
 prep_with(bread-21, plate-25)
 prep_before(submerge-19, baking-27)
 
-Then/RB you/PRP don't/VBP even/RB have/VBP to/TO stir/VB ./.
-
 (ROOT
   (S (RB Then)
     (NP (PRP you))
@@ -913,8 +867,6 @@ ccomp(don't-3, have-5)
 aux(stir-7, to-6)
 xcomp(have-5, stir-7)
 
-&UR/NNS ;/: SWEET/NNP BREAD/NNP PUDDING/NNP &LR/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNS &UR))
@@ -927,8 +879,6 @@ nn(&LR-6, SWEET-3)
 nn(&LR-6, BREAD-4)
 nn(&LR-6, PUDDING-5)
 dep(&UR-1, &LR-6)
-
-&UR/NNP ;/: Time/NN :/: 1/CD hour/NN ,/, largely/RB unattended/VBD &LR/NN ;/:
 
 (ROOT
   (S
@@ -954,8 +904,6 @@ advmod(unattended-9, largely-8)
 root(ROOT-0, unattended-9)
 dobj(unattended-9, &LR-10)
 
-4/DT tablespoons/NNS butter/NN
-
 (ROOT
   (NP
     (NP (DT 4) (NNS tablespoons))
@@ -964,8 +912,6 @@ dobj(unattended-9, &LR-10)
 det(tablespoons-2, 4-1)
 root(ROOT-0, tablespoons-2)
 dep(tablespoons-2, butter-3)
-
-6/CD cups/NNS white/JJ bread/RB ,/, cut/NN or/CC torn/NN into/IN 1-inch/JJ chunks/NNS
 
 (ROOT
   (NP
@@ -990,8 +936,6 @@ conj_or(cut-6, torn-8)
 amod(chunks-11, 1-inch-10)
 prep_into(cut-6, chunks-11)
 
-2/CD cups/NNS half-and-half/.
-
 (ROOT
   (NP (CD 2) (NNS cups) (. half-and-half)))
 
@@ -999,16 +943,12 @@ num(cups-2, 2-1)
 root(ROOT-0, cups-2)
 punct(cups-2, half-and-half-3)
 
-4/CD eggs/NNS
-
 (ROOT
   (X
     (NP (CD 4) (NNS eggs))))
 
 num(eggs-2, 4-1)
 root(ROOT-0, eggs-2)
-
-}/DT cup/NN maple/VB syrup/NN or/CC sugar/NN
 
 (ROOT
   (FRAG
@@ -1025,16 +965,12 @@ dobj(maple-3, syrup-4)
 dobj(maple-3, sugar-6)
 conj_or(syrup-4, sugar-6)
 
-{/DT teaspoon/NN cinnamon/NN
-
 (ROOT
   (NP (DT {) (NN teaspoon) (NN cinnamon)))
 
 det(cinnamon-3, {-1)
 nn(cinnamon-3, teaspoon-2)
 root(ROOT-0, cinnamon-3)
-
-Pinch/NNP salt/NN ./.
 
 (ROOT
   (NP
@@ -1045,16 +981,12 @@ Pinch/NNP salt/NN ./.
 root(ROOT-0, Pinch-1)
 dep(Pinch-1, salt-2)
 
-1/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 1))
     (. .)))
 
 root(ROOT-0, 1-1)
-
-Butter/NNP an/DT 8-inch/JJ souffle/NN or/CC baking/NN dish/JJ ,/, and/CC add/JJ bread/NN ./.
 
 (ROOT
   (NP
@@ -1080,8 +1012,6 @@ amod(bread-11, dish-7)
 conj_and(dish-7, add-10)
 amod(bread-11, add-10)
 dep(souffle-4, bread-11)
-
-Cut/NNP remaining/VBG butter/NN into/IN bits/NNS ,/, and/CC combine/NN with/IN all/DT other/JJ ingredients/NNS ;/: pour/NNS over/IN bread/RB ./.
 
 (ROOT
   (NP
@@ -1117,8 +1047,6 @@ dep(Cut-1, pour-14)
 prep(pour-14, over-15)
 pobj(over-15, bread-16)
 
-Submerge/NNP bread/RB with/IN weighted/JJ plate/NN ,/, and/CC turn/NN oven/NNS to/TO 350/CD degrees/NNS ./.
-
 (ROOT
   (NP
     (NP (NNP Submerge))
@@ -1142,16 +1070,12 @@ conj_and(plate-5, oven-9)
 num(degrees-12, 350-11)
 prep_to(Submerge-1, degrees-12)
 
-2/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 2))
     (. .)))
 
 root(ROOT-0, 2-1)
-
-When/WRB oven/JJ is/VBZ hot/RB ,/, remove/VBP the/DT plate/NN and/CC bake/NN until/IN pudding/VBG is/VBZ just/RB set/VBN ,/, 35/CD to/TO 45/CD minutes/NNS ./.
 
 (ROOT
   (S
@@ -1199,8 +1123,6 @@ dep(45-19, to-18)
 num(minutes-20, 45-19)
 dobj(set-15, minutes-20)
 
-Serve/JJ with/IN or/CC without/IN whipped/JJ cream/NN ./.
-
 (ROOT
   (NP
     (NP (JJ Serve))
@@ -1215,8 +1137,6 @@ conj_or(Serve-1, Serve-1')
 amod(cream-6, whipped-5)
 prep_with(Serve-1, cream-6)
 prep_without(Serve-1', cream-6)
-
-Yield/NNP :/: 6/CD or/CC more/JJR servings/NNS ./.
 
 (ROOT
   (NP
@@ -1234,8 +1154,6 @@ num(servings-6, 6-3)
 conj_or(6-3, more-5)
 num(servings-6, more-5)
 dep(Yield-1, servings-6)
-
-Variation/NN :/: To/TO make/VB chocolate/JJ bread/NN pudding/VBG ,/, melt/VBZ 2/CD ounces/NNS chopped/VBD bittersweet/JJ chocolate/NN in/IN the/DT milk/NN ,/, let/VB cool/NN slightly/RB and/CC add/RB to/TO mixture/VB ./.
 
 (ROOT
   (NP
@@ -1289,8 +1207,6 @@ aux(mixture-25, to-24)
 dep(Variation-1, mixture-25)
 conj_and(make-4, mixture-25)
 
-&UR/NNS ;/: SAVORY/NNP BREAD/NNP PUDDING/NNP &LR/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNS &UR))
@@ -1303,8 +1219,6 @@ nn(&LR-6, SAVORY-3)
 nn(&LR-6, BREAD-4)
 nn(&LR-6, PUDDING-5)
 dep(&UR-1, &LR-6)
-
-&UR/NNP ;/: Time/NN :/: 1/CD hour/NN ,/, largely/RB unattended/VBD &LR/NN ;/:
 
 (ROOT
   (S
@@ -1329,8 +1243,6 @@ dep(&UR-1, hour-6)
 advmod(unattended-9, largely-8)
 root(ROOT-0, unattended-9)
 dobj(unattended-9, &LR-10)
-
-2/CD tablespoons/NNS butter/NN or/CC olive/JJ oil/NN ,/, plus/VBZ more/RBR for/IN greasing/VBG the/DT pan/NN
 
 (ROOT
   (FRAG
@@ -1362,8 +1274,6 @@ prepc_for(plus-8, greasing-11)
 det(pan-13, the-12)
 dobj(greasing-11, pan-13)
 
-6/CD cups/NNS dense/FW white/FW bread/RB ,/, cut/NN or/CC torn/NN into/IN 1-inch/JJ chunks/NNS
-
 (ROOT
   (FRAG
     (NP
@@ -1390,8 +1300,6 @@ conj_or(bread-5, torn-9)
 amod(chunks-12, 1-inch-11)
 prep_into(cups-2, chunks-12)
 
-2/CD cups/NNS milk/NN
-
 (ROOT
   (NP
     (NP (CD 2) (NNS cups))
@@ -1401,16 +1309,12 @@ num(cups-2, 2-1)
 root(ROOT-0, cups-2)
 dep(cups-2, milk-3)
 
-4/CD eggs/NNS
-
 (ROOT
   (X
     (NP (CD 4) (NNS eggs))))
 
 num(eggs-2, 4-1)
 root(ROOT-0, eggs-2)
-
-Salt/NNP and/CC fresh/JJ black/JJ pepper/NN
 
 (ROOT
   (NP
@@ -1423,8 +1327,6 @@ amod(pepper-5, fresh-3)
 amod(pepper-5, black-4)
 conj_and(Salt-1, pepper-5)
 
-2/CD ounces/NNS grated/VBN Parmesan/NNP
-
 (ROOT
   (S
     (NP (CD 2) (NNS ounces))
@@ -1435,8 +1337,6 @@ num(ounces-2, 2-1)
 nsubj(grated-3, ounces-2)
 root(ROOT-0, grated-3)
 dobj(grated-3, Parmesan-4)
-
-4/DT ounces/NNS freshly/RB grated/VBN semisoft/NN cheese/NN ,/, like/IN Emmenthal/NNP
 
 (ROOT
   (S
@@ -1457,8 +1357,6 @@ nn(cheese-6, semisoft-5)
 dobj(grated-4, cheese-6)
 prep_like(grated-4, Emmenthal-9)
 
-1/CD cup/NN sliced/VBN shiitake/IN mushroom/JJ caps/NNS ./.
-
 (ROOT
   (S
     (NP (CD 1) (NN cup))
@@ -1473,16 +1371,12 @@ root(ROOT-0, sliced-3)
 amod(caps-6, mushroom-5)
 prep_shiitake(sliced-3, caps-6)
 
-1/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 1))
     (. .)))
 
 root(ROOT-0, 1-1)
-
-Butter/NNP or/CC oil/VB an/DT 8-inch/JJ souffle/NN or/CC baking/NN dish/JJ ,/, and/CC put/VBD bread/RB in/IN it/PRP ./.
 
 (ROOT
   (NP
@@ -1517,8 +1411,6 @@ conj_and(dish-9, put-12)
 advmod(put-12, bread-13)
 prep_in(put-12, it-15)
 
-Combine/NNP everything/NN but/CC shiitakes/NNS ,/, and/CC pour/NN over/IN bread/RB ./.
-
 (ROOT
   (NP
     (NP (NNP Combine) (NN everything))
@@ -1540,8 +1432,6 @@ pobj(but-3, pour-7)
 conj_and(shiitakes-4, pour-7)
 prep(everything-2, over-8)
 pobj(over-8, bread-9)
-
-Submerge/NNP bread/RB with/IN a/DT weighted/JJ plate/NN ,/, and/CC turn/NN oven/NNS to/TO 350/CD degrees/NNS ./.
 
 (ROOT
   (NP
@@ -1568,8 +1458,6 @@ prep_with(Submerge-1, oven-10)
 conj_and(plate-6, oven-10)
 num(degrees-13, 350-12)
 prep_to(Submerge-1, degrees-13)
-
-Heat/NNP 2/CD tablespoons/NNS butter/NN or/CC oil/NN in/IN a/DT saute/JJ pan/NN ,/, add/JJ shiitakes/NNS and/CC saute/NN until/IN tender/NN ,/, about/IN 10/CD minutes/NNS ./.
 
 (ROOT
   (S
@@ -1614,16 +1502,12 @@ advmod(tender-17, about-19)
 num(minutes-21, 10-20)
 pobj(about-19, minutes-21)
 
-2/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 2))
     (. .)))
 
 root(ROOT-0, 2-1)
-
-Remove/NNP plate/NN ,/, and/CC stir/NN in/IN mushrooms/NNS ./.
 
 (ROOT
   (NP
@@ -1643,8 +1527,6 @@ dep(Remove-1, plate-2)
 dep(Remove-1, stir-5)
 conj_and(plate-2, stir-5)
 prep_in(stir-5, mushrooms-7)
-
-Bake/RB until/IN pudding/VBG is/VBZ just/RB set/VBN ,/, 35/CD to/TO 45/CD minutes/NNS ./.
 
 (ROOT
   (S
@@ -1673,8 +1555,6 @@ dep(45-10, to-9)
 num(minutes-11, 45-10)
 dobj(set-6, minutes-11)
 
-Yield/NNP :/: At/IN least/JJS 6/CD servings/NNS ./.
-
 (ROOT
   (NP
     (NP (NNP Yield))
@@ -1690,8 +1570,6 @@ mwe(At-3, least-4)
 pobj(At-3, least-4)
 num(servings-6, 6-5)
 dep(Yield-1, servings-6)
-
-NYT-11-14-00/CD 1553EST/CD
 
 (ROOT
   (FRAG

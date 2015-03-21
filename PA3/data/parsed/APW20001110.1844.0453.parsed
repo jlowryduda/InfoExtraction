@@ -1,5 +1,3 @@
-APW20001110.1844.0453/DT NEWS/NNP STORY/NNPS 2000-11-10/CD 19:11:39/CD
-
 (ROOT
   (NP
     (NP (DT APW20001110.1844.0453))
@@ -12,14 +10,10 @@ dep(APW20001110.1844.0453-1, STORY-3)
 num(19:11:39-5, 2000-11-10-4)
 dep(APW20001110.1844.0453-1, 19:11:39-5)
 
-Lockerbie-Trial/NNP
-
 (ROOT
   (NP (NNP Lockerbie-Trial)))
 
 root(ROOT-0, Lockerbie-Trial-1)
-
-Lockerbie/NNP Trial/NNP Hears/NNP Terrorist/NNP
 
 (ROOT
   (NP (NNP Lockerbie) (NNP Trial) (NNP Hears) (NNP Terrorist)))
@@ -28,8 +22,6 @@ nn(Terrorist-4, Lockerbie-1)
 nn(Terrorist-4, Trial-2)
 nn(Terrorist-4, Hears-3)
 root(ROOT-0, Terrorist-4)
-
-AMSTERDAM/NNP ,/, Netherlands/NNPS [AP/NNP ]/NNP _/, A/DT Palestinian/JJ terrorist/NN began/VBD his/PRP$ testimony/NN Friday/NN in/IN the/DT trial/NN of/IN two/CD Libyans/NNPS accused/VBD of/IN bombing/VBG Pan/NNP Am/NNP Flight/NNP 103/CD ,/, describing/VBG his/PRP$ role/NN in/IN attacks/NNS against/IN Israel/NNP in/IN the/DT 1970s/NNS ./.
 
 (ROOT
   (SINV
@@ -96,8 +88,6 @@ prep_against(attacks-32, Israel-34)
 det(1970s-37, the-36)
 prep_in(describing-28, 1970s-37)
 
-Mohammed/NNP Abu/NNP Talb/NNP ,/, whose/WP$ appearance/NN at/IN the/DT special/JJ Scottish/JJ <FAC-e6/JJ type="NOM"><ORG-e56/JJ type="NOM">court</NN had/VBD been/VBN delayed/VBN for/IN weeks/NNS ,/, testified/VBN for/IN the/DT prosecution/NN ./.
-
 (ROOT
   (S
     (NP
@@ -138,8 +128,6 @@ prep_for(delayed-16, weeks-18)
 root(ROOT-0, testified-20)
 det(prosecution-23, the-22)
 prep_for(testified-20, prosecution-23)
-
-He/PRP was/VBD called/VBN in/IN an/DT effort/NN to/TO discredit/VB the/DT defendants/NNS '/POS claim/NN that/IN his/PRP$ group/NN ,/, the/DT Palestine/NNP Popular/NNP Struggle/NNP Front/NNP ,/, played/VBD a/DT role/NN in/IN the/DT 1988/CD bombing/NN over/IN Lockerbie/NNP ,/, Scotland/NNP ./.
 
 (ROOT
   (S
@@ -197,8 +185,6 @@ prep_in(played-23, bombing-29)
 nn(Scotland-33, Lockerbie-31)
 prep_over(played-23, Scotland-33)
 
-Abu/NNP Talb/NNP ,/, the/DT last/JJ major/JJ prosecution/NN witness/NN ,/, has/VBZ been/VBN jailed/VBN in/IN Sweden/NNP for/IN attacks/NNS against/IN Jewish/JJ and/CC American/JJ targets/NNS in/IN Europe/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -240,8 +226,6 @@ amod(targets-21, American-20)
 prep_against(attacks-16, targets-21)
 prep_in(jailed-12, Europe-23)
 
-He/PRP has/VBZ denied/VBN any/DT involvement/NN in/IN the/DT Lockerbie/NNP bombing/NN ,/, which/WDT killed/VBD 270/CD people/NNS ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -271,8 +255,6 @@ nsubj(killed-12, bombing-9)
 rcmod(bombing-9, killed-12)
 num(people-14, 270-13)
 dobj(killed-12, people-14)
-
-He/PRP admitted/VBD carrying/VBG out/RP a/DT terrorist/JJ attack/NN in/IN Denmark/NNP in/IN 1985/CD that/IN killed/VBD a/DT Jewish/JJ civilian/NN ./.
 
 (ROOT
   (S
@@ -310,8 +292,6 @@ det(civilian-16, a-14)
 amod(civilian-16, Jewish-15)
 dobj(killed-13, civilian-16)
 
-Defendants/NNS Abdel/NNP Basset/NNP Ali/NNP al-Megrahi/NNP and/CC Lamen/NNP Khalifa/NNP Fhimah/NNP blame/NN Abu/NNP Talb/NNP and/CC other/JJ Palestinians/NNS for/IN the/DT 1988/CD attack/NN ./.
-
 (ROOT
   (NP
     (NP (NNS Defendants))
@@ -345,8 +325,6 @@ conj_and(al-Megrahi-5, Palestinians-15)
 det(attack-19, the-17)
 num(attack-19, 1988-18)
 prep_for(Palestinians-15, attack-19)
-
-Prosecutors/NNS say/VBP the/DT two/CD defendants/NNS ,/, who/WP are/VBP alleged/VBN to/TO be/VB Libyan/NNP secret/JJ agents/NNS ,/, sent/VBD a/DT suitcase/NN from/IN the/DT Mediterranean/NNP island/NN of/IN Malta/NNP carrying/VBG an/DT explosives/VBZ -laden/JJ cassette/NN recorder/NN and/CC routed/VBD it/PRP through/IN Frankfurt/NNP ,/, Germany/NNP ,/, to/TO the/DT doomed/JJ airliner/NN in/IN London/NNP ./.
 
 (ROOT
   (S
@@ -432,8 +410,6 @@ amod(airliner-42, doomed-41)
 prep_to(routed-32, airliner-42)
 prep_in(airliner-42, London-44)
 
-Dressed/VBN in/IN a/DT plain/NN dark/NN suit/NN and/CC tie/NN ,/, Abu/NNP Talb/NNP was/VBD flanked/VBN by/IN Scottish/JJ prison/NN guards/NNS as/IN he/PRP took/VBD the/DT witness/NN stand/NN ,/, separated/VBN from/IN the/DT public/JJ gallery/NN by/IN a/DT wall/NN of/IN bulletproof/NN glass/NN ./.
-
 (ROOT
   (S
     (S
@@ -495,8 +471,6 @@ agent(separated-25, wall-32)
 nn(glass-35, bulletproof-34)
 prep_of(wall-32, glass-35)
 
-He/PRP was/VBD questioned/VBN by/IN prosecutor/NN Alan/NNP Turnbull/NNP ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -512,8 +486,6 @@ root(ROOT-0, questioned-3)
 nn(Turnbull-7, prosecutor-5)
 nn(Turnbull-7, Alan-6)
 agent(questioned-3, Turnbull-7)
-
-The/DT Egyptian/JJ -born/JJ Palestinian/JJ told/VBD judges/NNS that/IN he/PRP deserted/VBD the/DT Egyptian/JJ army/NN in/IN the/DT mid-1970s/NNS ,/, fleeing/VBG to/TO Lebanon/NNP via/IN Jordan/NNP with/IN a/DT false/JJ passport/NN ./.
 
 (ROOT
   (S
@@ -562,8 +534,6 @@ det(passport-25, a-23)
 amod(passport-25, false-24)
 prep_with(fleeing-17, passport-25)
 
-He/PRP obtained/VBD a/DT fake/JJ Moroccan/NNP passport/NN before/IN joining/VBG the/DT Palestine/NNP Popular/NNP Struggle/NNP Front/NNP in/IN 1974/CD ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -592,8 +562,6 @@ nn(Front-13, Struggle-12)
 dobj(joining-8, Front-13)
 prep_in(Front-13, 1974-15)
 
-``I/NNP undertook/NN various/JJ missions/NNS ,''/IN 46-year-old/JJ Abu/NNP Talb/NNP said/VBD ,/, describing/VBG his/PRP$ terrorist/JJ past/NN against/IN Israel/NNP ./.
-
 (ROOT
   (S
     (NP (NNP ``I) (NN undertook) (JJ various) (NNS missions))
@@ -620,8 +588,6 @@ poss(past-14, his-12)
 amod(past-14, terrorist-13)
 dobj(describing-11, past-14)
 prep_against(describing-11, Israel-16)
-
-``In/IN the/DT beginning/NN ,/, I/PRP was/VBD doing/VBG military/JJ operations/NNS ,/, and/CC then/RB I/PRP went/VBD to/TO security/NN ,/, after/IN which/WDT I/PRP was/VBD the/DT special/JJ bodyguard/NN of/IN the/DT secretary-general/JJ of/IN the/DT organizations/NNS .''/.
 
 (ROOT
   (S
@@ -681,8 +647,6 @@ det(organizations-30, the-29)
 prep_of(secretary-general-27, organizations-30)
 punct(doing-7, .''-31)
 
-The/DT trial/NN resumed/VBD this/DT week/NN after/IN a/DT month/NN of/IN delays/NNS following/VBG the/DT disclosure/NN that/IN new/JJ evidence/NN surfaced/VBN on/IN another/DT group/NN ,/, the/DT Damascus/NNP -based/JJ Palestinian/JJ Front/NN for/IN the/DT Liberation/NN of/IN Palestine-General/JJ Command/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NN trial))
@@ -738,8 +702,6 @@ prep_for(resumed-3, Liberation-29)
 amod(Command-32, Palestine-General-31)
 prep_of(Liberation-29, Command-32)
 
-The/DT PFLP-GC/NNP ,/, like/IN the/DT PPSF/NNP ,/, was/VBD initially/RB suspected/VBN in/IN the/DT Lockerbie/NNP attack/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (NNP PFLP-GC))
@@ -764,8 +726,6 @@ root(ROOT-0, suspected-10)
 det(attack-14, the-12)
 nn(attack-14, Lockerbie-13)
 prep_in(suspected-10, attack-14)
-
-On/IN Wednesday/NNP ,/, Scottish/JJ judges/NNS asked/VBD Syria/NNP to/TO hand/VB over/RP a/DT document/NN that/WDT could/MD help/VB prove/VB who/WP blew/VBD up/RP the/DT New/NNP York/NNP -bound/NN jetliner/NN ./.
 
 (ROOT
   (S
@@ -819,8 +779,6 @@ nn(jetliner-24, York-22)
 nn(jetliner-24, -bound-23)
 dobj(blew-18, jetliner-24)
 
-Defense/NN lawyer/NN Bill/NNP Taylor/NNP said/VBD the/DT document/NN contains/VBZ information/NN on/IN German/NNP police/NN raids/NNS of/IN an/DT alleged/VBN Palestinian/JJ terrorist/NN base/NN months/NNS before/IN the/DT bombing/NN ./.
-
 (ROOT
   (S
     (NP (NN Defense) (NN lawyer) (NNP Bill) (NNP Taylor))
@@ -860,8 +818,6 @@ prep_of(information-9, months-20)
 det(bombing-23, the-22)
 prep_before(contains-8, bombing-23)
 
-In/IN the/DT ``Autumn/NN Leaves/VBZ ''/'' operation/NN ,/, police/NN entered/VBD a/DT PFLP-GC/JJ hide-out/NN in/IN Neuss/NNP ,/, Germany/NNP ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -891,8 +847,6 @@ amod(hide-out-12, PFLP-GC-11)
 dobj(entered-9, hide-out-12)
 nn(Germany-16, Neuss-14)
 prep_in(entered-9, Germany-16)
-
-They/PRP found/VBD an/DT explosive/JJ device/NN similar/JJ to/TO one/CD that/IN triggered/VBD the/DT Pan/NNP Am/NNP explosion/NN ./.
 
 (ROOT
   (S
@@ -924,8 +878,6 @@ det(explosion-14, the-11)
 nn(explosion-14, Pan-12)
 nn(explosion-14, Am-13)
 dobj(triggered-10, explosion-14)
-
-The/DT judges/NNS did/VBD not/RB explain/VB what/WP the/DT requested/VBN document/NN contained/VBD or/CC how/WRB it/PRP came/VBD to/TO be/VB in/IN Syrian/JJ hands/NNS ./.
 
 (ROOT
   (S

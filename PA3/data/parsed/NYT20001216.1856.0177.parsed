@@ -1,5 +1,3 @@
-NYT20001216.1856.0177/NNP NEWS/NNP STORY/NNP 2000-12-16/CD 18:58:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001216.1856.0177) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(18:58:00-5, 2000-12-16-4)
 dep(STORY-3, 18:58:00-5)
-
-A2361/CD &Cx1f/NN ;/: taf-z/JJ u/NN i/IN BC-HAIDER-POPE-1STLD-WRI/NNP 12-16/CD 0803/CD
 
 (ROOT
   (NP
@@ -32,14 +28,10 @@ prep_i(u-5, BC-HAIDER-POPE-1STLD-WRI-7)
 num(BC-HAIDER-POPE-1STLD-WRI-7, 12-16-8)
 dep(u-5, 0803-9)
 
-BC-HAIDER-POPE-1STLD-WRITETHRU-TRIM-NYT/JJ
-
 (ROOT
   (ADJP (JJ BC-HAIDER-POPE-1STLD-WRITETHRU-TRIM-NYT)))
 
 root(ROOT-0, BC-HAIDER-POPE-1STLD-WRITETHRU-TRIM-NYT-1)
-
-RIGHT-WINGER/NNP FROM/NNP AUSTRIA/NNP MEETS/NNP POPE/NNP AND/NNP FEW/NNP CHEER/.
 
 (ROOT
   (NP (NNP RIGHT-WINGER) (NNP FROM) (NNP AUSTRIA) (NNP MEETS) (NNP POPE) (NNP AND) (NNP FEW) (. CHEER)))
@@ -52,8 +44,6 @@ nn(FEW-7, POPE-5)
 nn(FEW-7, AND-6)
 root(ROOT-0, FEW-7)
 punct(FEW-7, CHEER-8)
-
-[SUBS/NNS to/TO add/VB graf/JJ 5/CD on/IN clashes/NNS w/IN police/NN :/: ``After/NNP Haider/NNP left/VBD the/DT area/NN ...'']]/IN &QL/NNP ;/: &UR/NNS ;/: By/NNP ALESSANDRA/NNP STANLEY/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (S
@@ -115,8 +105,6 @@ dep(&QL-17, &UR-30)
 num(N.Y-33, c.2000-32)
 dep(&QL-17, N.Y-33)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -133,8 +121,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-ROME/NNP _/NNP In/IN an/DT encounter/NN bracketed/VBN by/IN political/JJ clashes/NNS and/CC public/JJ protest/NN ,/, Pope/NNP John/NNP Paul/NNP II/NNP met/VB briefly/RB on/IN Saturday/NN at/IN the/DT Vatican/NN with/IN Joerg/NNP Haider/NNP ,/, the/DT far-right/JJ Austrian/NNP politician/JJ ,/, who/WP is/VBZ persona/RB non/JJ grata/NN to/TO many/JJ Europeans/NNS ./.
 
 (ROOT
   (S
@@ -212,8 +198,6 @@ dep(met-18, grata-38)
 amod(Europeans-41, many-40)
 prep_to(grata-38, Europeans-41)
 
-Haider/NNP ,/, leading/VBG a/DT group/NN of/IN 250/CD Austrians/NNPS and/CC presenting/VBG a/DT gift/NN of/IN an/DT 80-foot/JJ Christmas/NNP tree/NN from/IN Carinthia/NNP ,/, the/DT state/NN of/IN which/WDT he/PRP is/VBZ governor/NN ,/, did/VBD not/RB receive/VB a/DT private/JJ audience/NN with/IN the/DT pope/NN ./.
-
 (ROOT
   (S
     (NP (NNP Haider))
@@ -282,8 +266,6 @@ dobj(receive-31, audience-34)
 det(pope-37, the-36)
 prep_with(receive-31, pope-37)
 
-The/DT Vatican/NNP spokesman/NN ,/, Joaquin/NNP Navarro-Valls/NNP ,/, explained/VBD that/IN Haider/NNP and/CC Bishop/NNP Egon/NNP Kapellari/NNP of/IN Carinthia/NNP spoke/NNS with/IN the/DT pope/NN for/IN a/DT few/JJ minutes/NNS before/IN the/DT meeting/NN only/RB to/TO exchange/NN greetings/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -336,8 +318,6 @@ prep_before(explained-8, meeting-27)
 advmod(meeting-27, only-28)
 nn(greetings-31, exchange-30)
 prep_to(only-28, greetings-31)
-
-But/CC Haider/NNP ,/, who/WP seems/VBZ to/TO relish/VB even/RB hostile/JJ attention/NN ,/, walked/VBD across/JJ St./NNP Peter's/NNP Square/NN to/TO the/DT Vatican/NN from/IN his/PRP$ nearby/JJ hotel/NN separately/RB from/IN the/DT rest/NN of/IN the/DT delegation/NN ,/, which/WDT included/VBD his/PRP$ wife/NN and/CC two/CD children/NNS ./.
 
 (ROOT
   (S (CC But)
@@ -413,8 +393,6 @@ num(children-38, two-37)
 dobj(included-33, children-38)
 conj_and(wife-35, children-38)
 
-He/PRP was/VBD surrounded/VBN by/IN a/DT tense/NN phalanx/NN of/IN security/NN officers/NNS and/CC jostling/VBG cameramen/NN ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -441,8 +419,6 @@ prep_of(phalanx-7, officers-10)
 amod(cameramen-13, jostling-12)
 prep_of(phalanx-7, cameramen-13)
 conj_and(officers-10, cameramen-13)
-
-For/IN weeks/NNS Italian/JJ Jewish/JJ groups/NNS ,/, World/NNP War/NNP II/NNP veterans/NNPS and/CC leftist/JJ political/JJ parties/NNS have/VBP staged/VBN protests/NNS against/IN a/DT meeting/NN between/IN the/DT pope/NN and/CC Haider/NNP ,/, arguing/VBG that/IN a/DT papal/JJ encounter/NN would/MD lend/VB the/DT Austrian/NNP politician/JJ legitimacy/NN ./.
 
 (ROOT
   (S
@@ -511,8 +487,6 @@ nn(legitimacy-37, Austrian-35)
 amod(legitimacy-37, politician-36)
 dobj(lend-33, legitimacy-37)
 
-On/IN Saturday/NNP ,/, about/IN 1,000/CD students/NNS marched/VBN in/IN another/DT section/NN of/IN central/JJ Rome/NNP ,/, carrying/VBG banners/NNS that/WDT read/VB ``Haider/NN ?/.
-
 (ROOT
   (S
     (PP (IN On)
@@ -551,8 +525,6 @@ nsubj(read-18, that-17)
 root(ROOT-0, read-18)
 dobj(read-18, ``Haider-19)
 
-No/DT thank/NN you/PRP .''/.
-
 (ROOT
   (NP
     (NP (DT No) (NN thank))
@@ -563,8 +535,6 @@ neg(thank-2, No-1)
 root(ROOT-0, thank-2)
 dep(thank-2, you-3)
 punct(thank-2, .''-4)
-
-No/DT demonstrations/NNS were/VBD allowed/VBN near/IN St./NNP Peter's/NNP ,/, and/CC security/NN around/IN the/DT tree/NN ,/, which/WDT was/VBD erected/VBN in/IN the/DT middle/NN of/IN St./NNP Peter's/NNP Square/NNP ,/, was/VBD discreetly/RB tightened/VBN ./.
 
 (ROOT
   (S
@@ -618,8 +588,6 @@ auxpass(tightened-28, was-26)
 advmod(tightened-28, discreetly-27)
 conj_and(allowed-4, tightened-28)
 
-After/IN Haider/NNP left/VBD the/DT area/NN ,/, scores/VBZ of/IN protesters/NNS clashed/VBN with/IN riot/NN police/NNS ,/, who/WP fired/VBD tear/JJ gas/NNS to/TO disperse/VB the/DT crowds/NNS ./.
-
 (ROOT
   (S
     (SBAR (IN After)
@@ -667,8 +635,6 @@ vmod(fired-16, disperse-20)
 det(crowds-22, the-21)
 dobj(disperse-20, crowds-22)
 
-Four/NNP people/NNS were/VBD slightly/RB injured/JJ and/CC two/CD were/VBD detained/VBN ,/, the/DT Italian/JJ news/NN agency/NN ANSA/NNP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -701,8 +667,6 @@ nn(ANSA-15, news-13)
 nn(ANSA-15, agency-14)
 nsubj(said-16, ANSA-15)
 root(ROOT-0, said-16)
-
-Jewish/JJ merchants/NNS in/IN Rome/NNP announced/VBD they/PRP would/MD turn/VB off/RP their/PRP$ lights/NNS to/TO protest/VB Haider/NNP 's/POS presence/NN in/IN Rome/NNP ./.
 
 (ROOT
   (S
@@ -744,8 +708,6 @@ vmod(turn-8, protest-13)
 poss(presence-16, Haider-14)
 dobj(protest-13, presence-16)
 prep_in(presence-16, Rome-18)
-
-When/WRB reporters/NNS asked/VBN Haider/NNP about/IN this/DT action/NN ,/, he/PRP retorted/VBD ,/, ``If/IN they/PRP want/VBP to/TO save/VB electricity/NN ,/, let/VB them/PRP .''/.
 
 (ROOT
   (S
@@ -795,8 +757,6 @@ dobj(save-16, electricity-17)
 dep(retorted-10, let-19)
 dobj(let-19, them-20)
 punct(retorted-10, .''-21)
-
-Inside/IN an/DT ornate/JJ reception/NN room/NN in/IN the/DT papal/JJ apartments/NNS ,/, Haider/NNP ,/, a/DT Roman/NNP Catholic/NNP ,/, kissed/VBD the/DT pope/NN 's/POS ring/NN and/CC sat/NN in/IN the/DT front/JJ row/NN with/IN other/JJ dignitaries/NNS facing/VBG the/DT pope/NN 's/POS armchair/NN ./.
 
 (ROOT
   (S
@@ -856,8 +816,6 @@ det(pope-33, the-32)
 poss(armchair-35, pope-33)
 dobj(facing-31, armchair-35)
 
-Haider/NNP wore/VBZ a/DT blue/JJ business/NN suit/NN ,/, but/CC many/JJ in/IN his/PRP$ group/NN wore/NN traditional/JJ costumes/NNS and/CC sang/VBG Christmas/NNP carols/NNS ./.
-
 (ROOT
   (S
     (S
@@ -894,8 +852,6 @@ conj_but(wore-2, sang-17)
 conj_and(many-9, sang-17)
 nn(carols-19, Christmas-18)
 dobj(sang-17, carols-19)
-
-The/DT pope/NN thanked/VBD the/DT visitors/NNS for/IN the/DT tree/NN but/CC made/VBD no/DT mention/NN of/IN such/JJ issues/NNS as/IN racism/NN and/CC immigration/NN ,/, which/WDT have/VBP tracked/VBN Haider/NNP 's/POS tense/NN visit/NN to/TO Italy/NNP ./.
 
 (ROOT
   (S
@@ -953,8 +909,6 @@ poss(visit-27, Haider-24)
 nn(visit-27, tense-26)
 dobj(tracked-23, visit-27)
 prep_to(tracked-23, Italy-29)
-
-A/DT copy/NN of/IN the/DT pope/NN 's/POS recently/RB released/JJ New/NNP Year/NNP 's/POS Day/NNP message/NN of/IN peace/NN ,/, which/WDT calls/VBZ for/IN countries/NNS to/TO welcome/JJ immigrants/NNS and/CC avoid/JJ intolerance/NN ,/, was/VBD distributed/VBN to/TO leaders/NNS of/IN the/DT delegation/NN ./.
 
 (ROOT
   (S
@@ -1015,8 +969,6 @@ root(ROOT-0, distributed-29)
 prep_to(distributed-29, leaders-31)
 det(delegation-34, the-33)
 prep_of(leaders-31, delegation-34)
-
-After/IN the/DT meeting/NN ,/, Haider/NNP told/VBD reporters/NNS that/IN he/PRP had/VBD not/RB discussed/JJ political/JJ issues/NNS with/IN the/DT pope/NN ,/, that/WDT John/NNP Paul/NNP II/NNP had/VBD given/VBN the/DT group/NN a/DT ``warm/NN welcome/NN ''/'' and/CC that/DT ``he/NNP seemed/VBD very/RB happy/JJ with/IN the/DT gift/NN .''/.
 
 (ROOT
   (S
@@ -1090,8 +1042,6 @@ det(gift-39, the-38)
 prep_with(seemed-34, gift-39)
 punct(told-6, .''-40)
 
-Indeed/NNP ,/, in/IN the/DT past/JJ the/DT pope/NN has/VBZ stirred/VBN controversy/JJ by/IN meeting/NN with/IN former/JJ U.N/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Indeed))
@@ -1119,8 +1069,6 @@ acomp(stirred-9, controversy-10)
 prep_by(controversy-10, meeting-12)
 amod(U.N-15, former-14)
 prep_with(stirred-9, U.N-15)
-
-secretary/JJ -general/JJ Kurt/NNP Waldheim/NNP ,/, whose/WP$ activities/NNS in/IN the/DT Nazi/NNP era/NN came/VBD under/IN question/NN ,/, and/CC Fidel/NNP Castro/NNP ./.
 
 (ROOT
   (S
@@ -1158,8 +1106,6 @@ dobj(secretary-1, Castro-18)
 conj_and(Waldheim-4, Castro-18)
 poss(activities-7, Castro-18)
 
-[BEGIN/NNP OPTIONAL/NNP TRIM/NNP ]/.
-
 (ROOT
   (NP (NNP [BEGIN) (NNP OPTIONAL) (NNP TRIM) (. ])))
 
@@ -1167,8 +1113,6 @@ nn(TRIM-3, [BEGIN-1)
 nn(TRIM-3, OPTIONAL-2)
 root(ROOT-0, TRIM-3)
 punct(TRIM-3, ]-4)
-
-When/WRB Haider/NNP arrived/VBN in/IN Venice/NNP earlier/RBR this/DT week/NN ,/, protesters/NNS on/IN boats/NNS threw/IN stones/NNS and/CC fireworks/NNS along/IN the/DT canals/NNS ./.
 
 (ROOT
   (FRAG
@@ -1211,8 +1155,6 @@ conj_and(stones-14, fireworks-16)
 det(canals-19, the-18)
 prep_along(stones-14, canals-19)
 
-Haider/NNP 's/POS comments/NNS criticizing/VBG Italy/NNP 's/POS immigration/NN policy/NN as/IN ``too/`` generous/JJ ''/'' were/VBD denounced/VBN by/IN President/NNP Carlo/NNP Azeglio/NNP Ciampi/NNP ./.
-
 (ROOT
   (NP
     (NP
@@ -1249,8 +1191,6 @@ nn(Ciampi-19, President-16)
 nn(Ciampi-19, Carlo-17)
 nn(Ciampi-19, Azeglio-18)
 agent(denounced-14, Ciampi-19)
-
-The/DT comments/NNS set/VBN off/RP an/DT election/NN campaign/NN storm/NN ,/, as/IN leaders/NNS of/IN Italy/NNP 's/POS left-wing/JJ government/NN leveraged/VBD the/DT dislike/NN of/IN Haider/NNP to/TO cast/VB a/DT shadow/NN on/IN Italy/NNP 's/POS own/JJ right-wing/VBG parties/NNS ./.
 
 (ROOT
   (S
@@ -1308,8 +1248,6 @@ amod(parties-31, own-29)
 amod(parties-31, right-wing-30)
 prep_on(shadow-25, parties-31)
 
-The/DT coalition/NN of/IN Italy/NNP 's/POS center-right/JJ opposition/NN includes/VBZ the/DT formerly/JJ separatist/NN and/CC still/RB fiercely/RB right-wing/VBG party/NN ,/, the/DT Northern/NNP League/NNP ,/, which/WDT ,/, like/IN Haider/NNP 's/POS Freedom/NNP Party/NNP ,/, opposes/VBZ immigration/NN ./.
-
 (ROOT
   (S
     (NP
@@ -1366,8 +1304,6 @@ prep_like(opposes-30, Party-28)
 rcmod(League-20, opposes-30)
 dobj(opposes-30, immigration-31)
 
-On/IN Friday/NNP ,/, Prime/NNP Minister/NNP Giuliano/NNP Amato/NNP denounced/VBD Haider/NNP 's/POS comments/NNS as/IN ``unacceptable/JJ ''/'' and/CC said/VBD he/PRP would/MD complain/VB to/TO Chancellor/NNP Wolfgang/NNP Schuessel/NNP of/IN Austria/NNP ./.
-
 (ROOT
   (S
     (PP (IN On)
@@ -1415,8 +1351,6 @@ nn(Schuessel-23, Wolfgang-22)
 prep_to(complain-19, Schuessel-23)
 prep_of(Schuessel-23, Austria-25)
 
-Italy/NNP is/VBZ not/RB the/DT only/JJ European/JJ country/NN to/TO have/VB fierce/RB reservations/NNS about/IN Haider/NNP ,/, but/CC it/PRP has/VBZ had/VBN more/RBR direct/JJ exposure/NN ./.
-
 (ROOT
   (S
     (S
@@ -1460,8 +1394,6 @@ conj_but(country-7, had-18)
 advmod(direct-20, more-19)
 amod(exposure-21, direct-20)
 dobj(had-18, exposure-21)
-
-The/DT Austrian/NNP leader/NN has/VBZ made/VBN several/JJ visits/NNS to/TO northern/JJ Italy/NNP ,/, where/WRB his/PRP$ friendship/NN with/IN some/DT right-wing/JJ mayors/NNS _/, and/CC suggestions/NNS that/IN southern/JJ Austria/NNP and/CC parts/NNS of/IN northern/JJ Italy/NNP should/MD merge/VB into/IN a/DT ``maxi-region/NN ''/'' _/IN have/VBP enraged/VBN Italy/NNP 's/POS center-left/JJ government/NN ./.
 
 (ROOT
   (S
@@ -1541,8 +1473,6 @@ poss(government-42, Italy-39)
 amod(government-42, center-left-41)
 dobj(enraged-38, government-42)
 
-[END/NNP OPTIONAL/NNP TRIM/NNP ]/.
-
 (ROOT
   (NP (NNP [END) (NNP OPTIONAL) (NNP TRIM) (. ])))
 
@@ -1550,8 +1480,6 @@ nn(TRIM-3, [END-1)
 nn(TRIM-3, OPTIONAL-2)
 root(ROOT-0, TRIM-3)
 punct(TRIM-3, ]-4)
-
-Some/DT people/NNS in/IN Haider/NNP 's/POS delegation/NN said/VBD they/PRP were/VBD disappointed/VBN by/IN the/DT clamor/NN surrounding/VBG Saturday/NNP 's/POS visit/NN ./.
 
 (ROOT
   (S
@@ -1589,8 +1517,6 @@ agent(disappointed-10, clamor-13)
 vmod(clamor-13, surrounding-14)
 poss(visit-17, Saturday-15)
 dobj(surrounding-14, visit-17)
-
-``The/IN Christmas/NNP tree/NN has/VBZ nothing/VBG to/TO do/VB with/IN politics/NNS ,''/, said/VBD Frank/NNP Telsnig/NNP ,/, 22/CD ,/, a/DT teacher/NN from/IN Weitensfeld/NNP ,/, as/IN he/PRP prepared/VBD to/TO play/VB saxophone/NN in/IN the/DT delegation/NN 's/POS band/NN ./.
 
 (ROOT
   (SINV
@@ -1660,8 +1586,6 @@ det(delegation-30, the-29)
 poss(band-32, delegation-30)
 prep_in(play-26, band-32)
 
-``I/NNP didn't/NN vote/NN for/IN Haider/NNP ,/, but/CC this/DT is/VBZ not/RB about/IN him/PRP ./.
-
 (ROOT
   (S
     (NP
@@ -1686,8 +1610,6 @@ conj_but(Haider-5, this-8)
 root(ROOT-0, is-9)
 neg(is-9, not-10)
 prep_about(is-9, him-12)
-
-It/PRP is/VBZ about/IN Christmas/NNP ,/, and/CC this/DT is/VBZ not/RB the/DT right/NN place/NN or/CC the/DT right/JJ time/NN for/IN these/DT protests/NNS .''/.
 
 (ROOT
   (S
@@ -1726,8 +1648,6 @@ conj_or(place-12, time-16)
 det(protests-19, these-18)
 prep_for(time-16, protests-19)
 punct(is-2, .''-20)
-
-NYT-12-16-00/CD 1858EST/CD
 
 (ROOT
   (FRAG

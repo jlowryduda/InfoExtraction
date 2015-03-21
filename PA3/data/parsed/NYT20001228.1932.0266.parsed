@@ -1,5 +1,3 @@
-NYT20001228.1932.0266/NNP NEWS/NNP STORY/NNP 2000-12-28/CD 19:44:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001228.1932.0266) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(19:44:00-5, 2000-12-28-4)
 dep(STORY-3, 19:44:00-5)
-
-A3852/CD &Cx1f/NN ;/: taf-z/NNP u/NNP i/NNP BC-HAITI-U.S.-NYT/NNP &LR/NNP ;/: 12-28/CD 0497/CD
 
 (ROOT
   (NP
@@ -33,14 +29,10 @@ dep(&Cx1f-2, &LR-8)
 number(0497-11, 12-28-10)
 dep(&LR-8, 0497-11)
 
-BC-HAITI-U.S.-NYT/NNP
-
 (ROOT
   (NP (NNP BC-HAITI-U.S.-NYT)))
 
 root(ROOT-0, BC-HAITI-U.S.-NYT-1)
-
-HAITI'S/NNP PRESIDENT-ELECT/NNP PLEDGES/NNP REFORMS/NNP IN/NNP A/NNP LETTER/NNP TO/NNP CLINTON/NNP
 
 (ROOT
   (NP (NNP HAITI'S) (NNP PRESIDENT-ELECT) (NNP PLEDGES) (NNP REFORMS) (NNP IN) (NNP A) (NNP LETTER) (NNP TO) (NNP CLINTON)))
@@ -54,8 +46,6 @@ nn(CLINTON-9, A-6)
 nn(CLINTON-9, LETTER-7)
 nn(CLINTON-9, TO-8)
 root(ROOT-0, CLINTON-9)
-
-&UR/NNS ;/: By/NNP DAVID/NNP GONZALEZ/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -89,8 +79,6 @@ dep(&UR-1, &UR-12)
 dep(&UR-12, c.2000-14)
 appos(c.2000-14, N.Y-15)
 
-Times/NNP News/NNP Service/NNP &QC/NNP ;/: &LR/NNS ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &QC))
@@ -107,8 +95,6 @@ nn(&QC-4, Service-3)
 root(ROOT-0, &QC-4)
 dep(&QC-4, &LR-6)
 dep(&LR-6, &QL-8)
-
-MIAMI/NNP _/NNP Seeking/VBG to/TO mend/VB tattered/VBN relations/NNS with/IN his/PRP$ opposition/NN and/CC the/DT international/JJ community/NN ,/, Haiti/NNP 's/POS president-elect/JJ ,/, Jean-Bertrand/JJ Aristide/NNP ,/, has/VBZ assured/VBN President/NNP Clinton/NNP that/IN he/PRP is/VBZ committed/VBN to/TO a/DT broad/JJ range/NN of/IN governmental/JJ and/CC political/JJ reforms/NNS ,/, including/VBG a/DT runoff/NN for/IN 10/CD contested/VBN Senate/NNP seats/NNS that/WDT had/VBD caused/VBN an/DT electoral/JJ crisis/NN ./.
 
 (ROOT
   (S
@@ -209,8 +195,6 @@ det(crisis-54, an-52)
 amod(crisis-54, electoral-53)
 dobj(caused-51, crisis-54)
 
-In/IN a/DT letter/NN sent/VBN to/TO Clinton/NNP on/IN Wednesday/NNP and/CC made/VBD public/NN by/IN the/DT White/NNP House/NNP on/IN Thursday/NN ,/, Aristide/NNP also/RB said/VBD he/PRP would/MD include/VB opposition/NN members/NNS in/IN his/PRP$ government/NN ,/, consult/NN with/IN them/PRP in/IN establishing/VBG an/DT electoral/JJ council/NN and/CC let/VB the/DT Organization/NN of/IN American/NNP States/NNPS monitor/NN the/DT human/JJ rights/NNS situation/NN ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -302,8 +286,6 @@ amod(situation-50, human-48)
 nn(situation-50, rights-49)
 dep(monitor-46, situation-50)
 
-Opposition/NN groups/NNS ,/, which/WDT had/VBD boycotted/VBN the/DT November/NNP election/NN ,/, recently/RB vowed/VBN to/TO set/VB up/RP a/DT parallel/JJ government/NN to/TO press/NN Aristide/NN after/IN his/PRP$ inauguration/NN on/IN Feb/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -356,16 +338,12 @@ poss(inauguration-24, his-23)
 prep_after(set-14, inauguration-24)
 prep_on(inauguration-24, Feb-26)
 
-7/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 7))
     (. .)))
 
 root(ROOT-0, 7-1)
-
-The/DT letter/NN appears/NNS to/TO be/VB an/DT attempt/NN not/RB only/RB to/TO calm/VB the/DT concerns/NNS of/IN the/DT current/JJ American/JJ administration/NN ,/, but/CC also/RB to/TO reach/VB out/RP to/TO the/DT next/JJ one/NN ./.
 
 (ROOT
   (S
@@ -420,8 +398,6 @@ det(one-28, the-26)
 amod(one-28, next-27)
 prep_to(reach-23, one-28)
 
-In/IN it/PRP ,/, the/DT Haitian/NNP president-elect/NN addressed/VBD a/DT total/NN of/IN eight/JJ points/NNS discussed/VBD last/JJ week/NN with/IN an/DT American/JJ delegation/NN led/VBN by/IN a/DT special/JJ envoy/NN ,/, Anthony/NNP Lake/NNP ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -469,8 +445,6 @@ amod(envoy-24, special-23)
 agent(led-20, envoy-24)
 nn(Lake-27, Anthony-26)
 appos(envoy-24, Lake-27)
-
-``I/NNP confirm/NN my/PRP$ commitment/NN to/TO the/DT points/NNS made/VBD therein/RB ,''/JJ Aristide/NNP said/VBD in/IN the/DT letter/NN ,/, ``confident/JJ that/IN they/PRP will/MD help/VB strengthen/VB the/DT ties/NNS between/IN our/PRP$ two/CD nations/NNS where/WRB democracy/NN and/CC peace/NN will/MD flourish/VB .''/.
 
 (ROOT
   (S
@@ -544,8 +518,6 @@ aux(flourish-34, will-33)
 advcl(help-21, flourish-34)
 punct(confirm-2, .''-35)
 
-Since/NNP 1994/CD ,/, when/WRB it/PRP sent/VBD 20,000/CD troops/NNS to/TO restore/VB Aristide/NNP to/TO power/NN after/IN he/PRP was/VBD toppled/VBN in/IN a/DT coup/NN ,/, the/DT Clinton/NNP administration/NN has/VBZ sought/VBN to/TO bolster/VB democracy/NN in/IN Haiti/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Since) (CD 1994))
@@ -610,8 +582,6 @@ xcomp(sought-26, bolster-28)
 dobj(bolster-28, democracy-29)
 prep_in(bolster-28, Haiti-31)
 
-But/CC more/JJR recently/RB the/DT United/NNP States/NNPS has/VBZ withheld/VBN direct/JJ aid/NN ,/, conditioning/VBG its/PRP$ resumption/NN on/IN free/JJ and/CC fair/NN elections/NNS and/CC progress/NN in/IN the/DT fight/NN against/IN the/DT drug/JJ trade/NN ./.
-
 (ROOT
   (S (CC But)
     (ADVP (JJR more))
@@ -662,8 +632,6 @@ prep_in(conditioning-12, fight-24)
 det(trade-28, the-26)
 amod(trade-28, drug-27)
 prep_against(fight-24, trade-28)
-
-Describing/VBG the/DT letter/NN as/IN ``a/JJ real/JJ opening/NN ,''/IN a/DT senior/JJ Clinton/NNP administration/NN official/NN said/VBD :/: ``It/NN 's/VBZ up/RB to/TO the/DT opposition/NN and/CC the/DT new/JJ administration/NN whether/IN or/CC not/RB they/PRP wish/JJ to/TO pursue/VB it/PRP ./.
 
 (ROOT
   (S
@@ -730,8 +698,6 @@ aux(pursue-32, to-31)
 xcomp(wish-30, pursue-32)
 dobj(pursue-32, it-33)
 
-I/PRP hope/VBP they/PRP do/VBP ,/, because/IN I/PRP do/VBP not/RB see/VB a/DT good/JJ alternative/NN .''/.
-
 (ROOT
   (S
     (NP (PRP I))
@@ -762,8 +728,6 @@ det(alternative-13, a-11)
 amod(alternative-13, good-12)
 dobj(see-10, alternative-13)
 punct(hope-2, .''-14)
-
-Another/DT administration/NN official/NN said/VBD the/DT talks/NNS last/JJ week/NN involved/VBD no/DT quid/JJ pro/NN quo/NN ,/, although/IN all/DT sides/NNS knew/VBP that/IN a/DT resolution/NN of/IN Haiti/NNP 's/POS political/JJ quagmire/NN could/MD result/VB in/IN the/DT release/NN of/IN hundreds/NNS of/IN millions/NNS of/IN dollars/NNS in/IN desperately/RB needed/JJ aid/NN ./.
 
 (ROOT
   (S
@@ -842,8 +806,6 @@ advmod(needed-40, desperately-39)
 amod(aid-41, needed-40)
 prep_in(dollars-37, aid-41)
 
-``I/PRP think/VBP Aristide/NNP is/VBZ aware/JJ he/PRP has/VBZ got/VBD a/DT skeptical/JJ administration/NN coming/VBG into/IN Washington/NNP and/CC sees/VBZ the/DT need/NN to/TO mend/VB fences/NNS and/CC to/TO at/IN least/JJS commit/NN to/TO some/DT significant/JJ things/NNS ,''/IN the/DT official/NN said/VBD ./.
-
 (ROOT
   (S
     (NP (PRP ``I))
@@ -919,8 +881,6 @@ det(official-33, the-32)
 nsubj(said-34, official-33)
 advcl(sees-16, said-34)
 
-``If/IN he/PRP follows/VBZ through/IN ,/, they/PRP are/VBP very/RB significant/JJ .''/.
-
 (ROOT
   (S
     (SBAR (IN ``If)
@@ -943,8 +903,6 @@ cop(significant-9, are-7)
 advmod(significant-9, very-8)
 root(ROOT-0, significant-9)
 punct(significant-9, .''-10)
-
-The/DT biggest/JJ stumbling/VBG block/NN to/TO normal/JJ relations/NNS with/IN the/DT United/NNP States/NNPS has/VBZ been/VBN the/DT controversy/JJ over/IN the/DT May/NNP 21/CD legislative/JJ and/CC local/JJ elections/NNS ./.
 
 (ROOT
   (S
@@ -985,8 +943,6 @@ number(legislative-20, 21-19)
 root(ROOT-0, legislative-20)
 amod(elections-23, local-22)
 conj_and(legislative-20, elections-23)
-
-Ten/NNP Senate/NNP seats/NNS were/VBD awarded/VBN to/TO candidates/NNS of/IN Aristide/NNP 's/POS Lavalas/NNP party/NN through/IN a/DT vote/NN counting/VBG method/DT later/RBR discredited/VBN by/IN the/DT international/JJ community/NN ./.
 
 (ROOT
   (S
@@ -1032,8 +988,6 @@ det(community-23, the-21)
 amod(community-23, international-22)
 agent(discredited-19, community-23)
 
-The/DT method/NN gave/VBD the/DT Lavalas/NNP candidates/VBZ a/DT first-round/NN victory/NN even/RB though/IN the/DT candidates/NNS had/VBD failed/JJ to/TO win/VB an/DT outright/JJ majority/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (NN method))
@@ -1074,8 +1028,6 @@ dep(failed-15, win-17)
 det(majority-20, an-18)
 amod(majority-20, outright-19)
 dobj(win-17, majority-20)
-
-NYT-12-28-00/CD 1944EST/CD
 
 (ROOT
   (FRAG

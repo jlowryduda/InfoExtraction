@@ -1,5 +1,3 @@
-APW20001017.2123.0809/DT NEWS/NNP STORY/NNPS 2000-10-17/CD 21:40:51/CD
-
 (ROOT
   (NP
     (NP (DT APW20001017.2123.0809))
@@ -12,14 +10,10 @@ dep(APW20001017.2123.0809-1, STORY-3)
 num(21:40:51-5, 2000-10-17-4)
 dep(APW20001017.2123.0809-1, 21:40:51-5)
 
-Space-Shuttle/JJ
-
 (ROOT
   (ADJP (JJ Space-Shuttle)))
 
 root(ROOT-0, Space-Shuttle-1)
-
-Astronauts/NNS Install/NNP Power/NNP Equipment/NNP
 
 (ROOT
   (NP
@@ -31,8 +25,6 @@ nn(Equipment-4, Install-2)
 nn(Equipment-4, Power-3)
 dep(Astronauts-1, Equipment-4)
 
-CAPE/NNP CANAVERAL/NNP ,/, Fla/NNP ./.
-
 (ROOT
   (NP
     (NP (NNP CAPE) (NNP CANAVERAL))
@@ -43,8 +35,6 @@ CAPE/NNP CANAVERAL/NNP ,/, Fla/NNP ./.
 nn(CANAVERAL-2, CAPE-1)
 root(ROOT-0, CANAVERAL-2)
 appos(CANAVERAL-2, Fla-4)
-
-[AP/NNP ]/NNP _/NNP Two/NNP spacewalking/VBG astronauts/NNS clamped/VBD power/NN equipment/NN onto/IN the/DT international/JJ space/NN station/NN on/IN Tuesday/NNP and/CC inadvertently/RB added/JJ to/TO the/DT collection/NN of/IN junk/NN whizzing/VBG around/IN Earth/NNP ./.
 
 (ROOT
   (S
@@ -98,8 +88,6 @@ prep_of(collection-22, junk-24)
 xcomp(clamped-7, whizzing-25)
 prep_around(whizzing-25, Earth-27)
 
-A/DT cap/NN for/IN a/DT depressurization/NN valve/NN floated/VBD away/RB moments/NNS after/IN Bill/NNP McArthur/NNP emerged/VBD from/IN space/NN shuttle/NN Discovery/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -132,8 +120,6 @@ advcl(floated-7, emerged-13)
 nn(Discovery-17, space-15)
 nn(Discovery-17, shuttle-16)
 prep_from(emerged-13, Discovery-17)
-
-The/DT aluminum/JJ cover/NN ,/, about/IN the/DT size/NN of/IN a/DT gas/NN cap/NN on/IN a/DT car/NN ,/, bounced/VBD against/IN the/DT space/NN station/NN ,/, then/RB against/IN the/DT shuttle/NN robot/NN arm/NN ./.
 
 (ROOT
   (S
@@ -178,8 +164,6 @@ nn(arm-27, shuttle-25)
 nn(arm-27, robot-26)
 prep_against(bounced-16, arm-27)
 
-Then/RB it/PRP was/VBD gone/NN ./.
-
 (ROOT
   (S (RB Then)
     (NP (PRP it))
@@ -191,8 +175,6 @@ advmod(gone-4, Then-1)
 nsubj(gone-4, it-2)
 cop(gone-4, was-3)
 root(ROOT-0, gone-4)
-
-``It/PRP was/VBD a/DT nice/NN billiard/NN shot/VBD ,''/IN McArthur/NNP radioed/VBD ./.
 
 (ROOT
   (S
@@ -218,8 +200,6 @@ rcmod(billiard-5, shot-6)
 mark(radioed-9, ,''-7)
 nsubj(radioed-9, McArthur-8)
 advcl(shot-6, radioed-9)
-
-``It/NNP 's/POS become/VB the/DT latest/JJS addition/NN to/TO tiny/VB bodies/NNS orbiting/VBG the/DT Earth/NNP .''/.
 
 (ROOT
   (S
@@ -253,8 +233,6 @@ det(Earth-12, the-11)
 dobj(orbiting-10, Earth-12)
 punct(``It-1, .''-13)
 
-Mission/NNP Control/NNP said/VBD the/DT lost/VBD cap/NN was/VBD no/DT reason/NN for/IN concern/NN ./.
-
 (ROOT
   (S
     (NP (NNP Mission) (NNP Control))
@@ -284,8 +262,6 @@ neg(reason-9, no-8)
 ccomp(lost-5, reason-9)
 prep_for(reason-9, concern-11)
 
-Its/NNS tether/VBP either/RB came/VBD loose/JJ or/CC broke/NN ./.
-
 (ROOT
   (S
     (NP (NNS Its))
@@ -304,8 +280,6 @@ dep(tether-2, came-4)
 dobj(came-4, loose-5)
 dobj(came-4, broke-7)
 conj_or(loose-5, broke-7)
-
-The/DT main/JJ purpose/NN of/IN Tuesday/NNP 's/POS spacewalk/NN _/IN the/DT third/NN in/IN as/IN many/JJ days/NNS _/, was/VBD to/TO mount/VB two/CD power/NN converters/NNS on/IN the/DT space/NN station/NN 's/POS new/JJ aluminum/NN framework/NN ,/, or/CC truss/NN ./.
 
 (ROOT
   (S
@@ -364,8 +338,6 @@ prep_on(mount-18, framework-29)
 prep_on(mount-18, truss-32)
 conj_or(framework-29, truss-32)
 
-Astronaut/DT Leroy/NNP Chiao/NNP performed/VBD the/DT job/NN from/IN the/DT end/NN of/IN Discovery/NNP 's/POS robot/NN arm/NN ./.
-
 (ROOT
   (S
     (NP (DT Astronaut) (NNP Leroy) (NNP Chiao))
@@ -392,8 +364,6 @@ poss(arm-14, Discovery-11)
 nn(arm-14, robot-13)
 prep_of(end-9, arm-14)
 
-He/PRP removed/VBD the/DT 175-pound/JJ converters/NNS one/CD by/IN one/NN from/IN the/DT shuttle/NN cargo/NN bay/NN ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -418,8 +388,6 @@ det(bay-13, the-10)
 nn(bay-13, shuttle-11)
 nn(bay-13, cargo-12)
 prep_from(removed-2, bay-13)
-
-From/NNP inside/VB the/DT shuttle/NN ,/, Michael/NNP Lopez-Alegria/NNP used/VBD the/DT robot/NN arm/NN to/TO give/VB Chiao/NNP a/DT lift/NN ./.
 
 (ROOT
   (S
@@ -453,8 +421,6 @@ vmod(used-8, give-13)
 iobj(give-13, Chiao-14)
 det(lift-16, a-15)
 dobj(give-13, lift-16)
-
-The/DT converters/NNS will/MD be/VB used/VBN to/TO regulate/VB power/NN once/IN a/DT pair/NN of/IN solar/JJ wings/NNS _/IN stretching/VBG 240/CD feet/NNS from/IN tip/NN to/TO tip/JJ _/NNS are/VBP installed/VBN during/IN the/DT next/JJ construction/NN mission/NN ,/, in/IN December/NNP ./.
 
 (ROOT
   (S
@@ -518,8 +484,6 @@ nn(mission-30, construction-29)
 prep_during(installed-25, mission-30)
 prep_in(installed-25, December-33)
 
-Chiao/NNP and/CC McArthur/NNP clearly/RB enjoyed/VBN their/PRP$ 240-mile-high/JJ construction/NN work/NN ./.
-
 (ROOT
   (S
     (NP (NNP Chiao)
@@ -539,8 +503,6 @@ poss(work-9, their-6)
 amod(work-9, 240-mile-high-7)
 nn(work-9, construction-8)
 dobj(enjoyed-5, work-9)
-
-``How/NNP would/MD you/PRP like/VB to/TO live/VB on/IN this/DT thing/NN for/IN a/DT few/JJ months/NNS ?''/.
 
 (ROOT
   (S
@@ -572,8 +534,6 @@ amod(months-13, few-12)
 prep_for(thing-9, months-13)
 punct(would-2, ?''-14)
 
-McArthur/NNP asked/VBD ./.
-
 (ROOT
   (S
     (NP (NNP McArthur))
@@ -582,8 +542,6 @@ McArthur/NNP asked/VBD ./.
 
 nsubj(asked-2, McArthur-1)
 root(ROOT-0, asked-2)
-
-``I/PRP think/VBP that/WDT would/MD be/VB pretty/JJ cool/NN ,''/IN Chiao/NNP replied/VBD ./.
 
 (ROOT
   (S
@@ -611,8 +569,6 @@ ccomp(think-2, cool-7)
 mark(replied-10, ,''-8)
 nsubj(replied-10, Chiao-9)
 advcl(cool-7, replied-10)
-
-By/IN the/DT time/NN the/DT seven-hour/JJ spacewalk/NN ended/VBN ,/, the/DT two/CD had/VBD completed/VBN all/DT their/PRP$ cable/JJ connections/NNS ,/, toolbox/NN work/NN and/CC other/JJ chores/NNS ./.
 
 (ROOT
   (S
@@ -655,8 +611,6 @@ amod(chores-22, other-21)
 dobj(completed-12, chores-22)
 conj_and(connections-16, chores-22)
 
-One/CD spacewalk/NN remains/NNS ./.
-
 (ROOT
   (NP
     (NP (CD One) (NN spacewalk))
@@ -666,8 +620,6 @@ One/CD spacewalk/NN remains/NNS ./.
 num(spacewalk-2, One-1)
 root(ROOT-0, spacewalk-2)
 dep(spacewalk-2, remains-3)
-
-On/IN Wednesday/NNP ,/, Lopez-Alegria/NNP and/CC Jeff/NNP Wisoff/NNP will/MD go/VB back/RB out/RB to/TO clean/VB the/DT top/NN of/IN the/DT truss/NN for/IN the/DT arrival/NN of/IN the/DT solar/JJ wings/NNS ,/, test/JJS their/PRP$ mini/NN jetpacks/NNS and/CC practice/NN carrying/VBG each/DT other/JJ ./.
 
 (ROOT
   (S
@@ -736,8 +688,6 @@ vmod(practice-32, carrying-33)
 det(other-35, each-34)
 dobj(carrying-33, other-35)
 
-NASA/NNP wants/VBZ to/TO see/VB how/WRB hard/JJ it/PRP would/MD be/VB for/IN a/DT spacewalker/NN to/TO rescue/VB an/DT incapacitated/JJ colleague/NN ./.
-
 (ROOT
   (S
     (NP (NNP NASA))
@@ -777,8 +727,6 @@ det(colleague-17, an-15)
 amod(colleague-17, incapacitated-16)
 dobj(rescue-14, colleague-17)
 
-When/WRB Discovery/NNP pulls/VBZ away/RB Friday/NNP ,/, it/PRP will/MD leave/VB behind/IN 10/CD tons/NNS of/IN new/JJ space/NN station/NN pieces/NNS ./.
-
 (ROOT
   (S
     (SBAR
@@ -814,8 +762,6 @@ nn(pieces-17, space-15)
 nn(pieces-17, station-16)
 prep_of(tons-12, pieces-17)
 
-The/DT station/NN 's/POS first/JJ permanent/JJ crew/NN is/VBZ supposed/VBN to/TO arrive/VB in/IN early/JJ November/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -843,14 +789,10 @@ xcomp(supposed-8, arrive-10)
 amod(November-13, early-12)
 prep_in(arrive-10, November-13)
 
-___/.
-
 (ROOT
   (NP (. ___)))
 
 root(ROOT-0, ___-1)
-
-On/IN the/DT Net/NN :/:
 
 (ROOT
   (PP (IN On)
@@ -860,8 +802,6 @@ On/IN the/DT Net/NN :/:
 root(ROOT-0, On-1)
 det(Net-3, the-2)
 pobj(On-1, Net-3)
-
-NASA/NNP :/: http:/.
 
 (ROOT
   (NP

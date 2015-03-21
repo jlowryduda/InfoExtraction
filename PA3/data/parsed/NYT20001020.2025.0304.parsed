@@ -1,5 +1,3 @@
-NYT20001020.2025.0304/NNP NEWS/NNP STORY/NNP 2000-10-20/CD 20:27:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001020.2025.0304) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(20:27:00-5, 2000-10-20-4)
 dep(STORY-3, 20:27:00-5)
-
-A1398/CD &Cx1f/NN ;/: taf-z/JJ s/NN f/IN BC-MIDEAST-STOCKS-$ADV22/JJ 10-20/CD 0718/CD
 
 (ROOT
   (NP
@@ -30,14 +26,10 @@ amod(0718-9, BC-MIDEAST-STOCKS-$ADV22-7)
 num(0718-9, 10-20-8)
 prep_f(s-5, 0718-9)
 
-BC-MIDEAST-STOCKS-$ADV22-NYT/JJ
-
 (ROOT
   (ADJP (JJ BC-MIDEAST-STOCKS-$ADV22-NYT)))
 
 root(ROOT-0, BC-MIDEAST-STOCKS-$ADV22-NYT-1)
-
-INVESTORS/NNP FEEL/NNP EFFECTS/NNP OF/NNP MIDEAST/NNP VIOLENCE/NNP
 
 (ROOT
   (NP (NNP INVESTORS) (NNP FEEL) (NNP EFFECTS) (NNP OF) (NNP MIDEAST) (NNP VIOLENCE)))
@@ -48,8 +40,6 @@ nn(VIOLENCE-6, EFFECTS-3)
 nn(VIOLENCE-6, OF-4)
 nn(VIOLENCE-6, MIDEAST-5)
 root(ROOT-0, VIOLENCE-6)
-
-[For/PRP$ release/JJ Sunday/NN ,/, Oct/NNP ./.
 
 (ROOT
   (NP
@@ -62,8 +52,6 @@ poss(Sunday-3, [For-1)
 amod(Sunday-3, release-2)
 root(ROOT-0, Sunday-3)
 appos(Sunday-3, Oct-5)
-
-22/CD ]/IN &QL/NNP ;/: &UR/NNS ;/: By/NNP JOSEPH/NNP B/NNP ./.
 
 (ROOT
   (NP
@@ -85,8 +73,6 @@ dep(22-1, &UR-5)
 prep(&UR-5, By-7)
 nn(B-9, JOSEPH-8)
 dep(By-7, B-9)
-
-TREASTER/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNS ;/: &UR/NNS ;/: c.2000/CD N.Y/NNP ./.
 
 (ROOT
   (NP
@@ -113,8 +99,6 @@ dep(&QL-6, &UR-8)
 dep(&LR-2, c.2000-10)
 appos(c.2000-10, N.Y-11)
 
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
-
 (ROOT
   (NP
     (NP (NNP Times) (NNP News) (NNP Service) (NNP &LR))
@@ -131,8 +115,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-In/IN just/RB two/CD weeks/NNS this/DT month/NN ,/, as/IN investors/NNS worried/VBN whether/IN the/DT violence/NN in/IN the/DT Middle/NNP East/NNP would/MD escalate/VB into/IN war/NN ,/, the/DT stock/NN market/NN in/IN Israel/NNP fell/VBD 16/CD percent/JJ ./.
 
 (ROOT
   (S
@@ -189,8 +171,6 @@ root(ROOT-0, fell-28)
 number(percent-30, 16-29)
 acomp(fell-28, percent-30)
 
-In/IN Egypt/NNP ,/, the/DT market/NN dropped/VBD 20/CD percent/JJ ./.
-
 (ROOT
   (S
     (PP (IN In)
@@ -208,8 +188,6 @@ nsubj(dropped-6, market-5)
 root(ROOT-0, dropped-6)
 number(percent-8, 20-7)
 acomp(dropped-6, percent-8)
-
-But/CC for/IN most/JJS American/JJ investors/NNS ,/, many/JJ of/IN whom/JJ buy/VB their/PRP$ stocks/NNS through/IN mutual/JJ funds/NNS ,/, the/DT impact/NN was/VBD more/RBR diffuse/JJ ,/, though/JJ still/RB strong/JJ ./.
 
 (ROOT
   (S (CC But)
@@ -254,8 +232,6 @@ root(ROOT-0, diffuse-21)
 dep(diffuse-21, though-23)
 advmod(diffuse-21, still-24)
 dep(diffuse-21, strong-25)
-
-While/RB few/JJ investors/NNS own/VBP funds/NNS containing/VBG many/JJ Middle/JJ Eastern/JJ companies/NNS ,/, partly/RB because/IN there/RB are/VBP not/RB that/IN many/JJ around/RB to/TO buy/VB ,/, they/PRP nonetheless/JJ felt/VB the/DT effects/NNS of/IN the/DT region/NN 's/POS volatility/NN ./.
 
 (ROOT
   (S
@@ -318,8 +294,6 @@ dobj(felt-25, effects-27)
 det(region-30, the-29)
 poss(volatility-32, region-30)
 prep_of(effects-27, volatility-32)
-
-Wall/NNP Street/NNP and/CC other/JJ global/JJ markets/NNS were/VBD concerned/VBN that/IN the/DT violence/NN would/MD translate/VB into/IN higher/JJR oil/NN prices/NNS _/, which/WDT it/PRP did/VBD ,/, briefly/RB _/, and/CC that/IN those/DT prices/NNS ,/, in/IN turn/NN ,/, could/MD lead/VB to/TO inflation/NN and/CC higher/JJR interest/NN rates/NNS ./.
 
 (ROOT
   (S
@@ -398,8 +372,6 @@ nn(rates-40, interest-39)
 prep_to(lead-34, rates-40)
 conj_and(inflation-36, rates-40)
 
-That/DT line/NN of/IN thinking/VBG played/VBD a/DT big/JJ role/NN in/IN the/DT 379-point/JJ drop/NN in/IN the/DT Dow/NNP Jones/NNP industrial/JJ average/NN and/CC the/DT 93-point/JJ drop/NN in/IN the/DT Nasdaq/NNP composite/JJ index/NN on/IN Oct/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -448,8 +420,6 @@ nn(index-27, Nasdaq-25)
 amod(index-27, composite-26)
 prep_in(drop-22, index-27)
 prep_on(played-5, Oct-29)
-
-12/CD _/IN the/DT day/NN that/IN a/DT Palestinian/JJ mob/NN mauled/VBD two/CD Israeli/NNP soldiers/NNS ,/, Israel/NNP retaliated/VBD with/IN rocket/NN attacks/NNS and/CC terrorists/NNS blew/IN a/DT hole/NN in/IN a/DT United/NNP States/NNPS warship/NN in/IN Yemen/NNP ./.
 
 (ROOT
   (S
@@ -505,8 +475,6 @@ nn(warship-28, States-27)
 prep_in(hole-23, warship-28)
 prep_in(retaliated-15, Yemen-30)
 
-Last/JJ week/NN ,/, Israeli/NNP and/CC Palestinian/NNP leaders/NNS agreed/VBD to/TO the/DT terms/NNS of/IN a/DT cease-fire/JJ after/IN clashes/NNS in/IN the/DT West/NNP Bank/NNP and/CC the/DT Gaza/NNP Strip/NNP ./.
-
 (ROOT
   (S
     (NP (JJ Last) (NN week))
@@ -549,8 +517,6 @@ det(Strip-24, the-22)
 nn(Strip-24, Gaza-23)
 prep_in(clashes-16, Strip-24)
 conj_and(Bank-20, Strip-24)
-
-``For/JJ American/JJ investors/NNS ,/, the/DT oil/NN effect/NN was/VBD much/RB more/JJR significant/NN than/IN the/DT direct/JJ effect/NN on/IN Middle/NNP East/NNP companies/NNS ,''/, said/VBD Grace/NNP Pineda/NNP ,/, who/WP manages/VBZ the/DT $132/CD million/CD Developing/VBG Capital/NNP Markets/NNPS fund/NN for/IN Merrill/NNP Lynch/NNP ./.
 
 (ROOT
   (S
@@ -619,8 +585,6 @@ dobj(Developing-30, fund-33)
 nn(Lynch-36, Merrill-35)
 prep_for(Developing-30, Lynch-36)
 
-The/DT fund/NN has/VBZ about/IN 5/CD percent/NN of/IN its/PRP$ money/NN in/IN Israel/NNP and/CC about/IN 0.5/CD percent/NN in/IN Egypt/NNP ./.
-
 (ROOT
   (S
     (NP (DT The) (NN fund))
@@ -656,8 +620,6 @@ conj_and(about-4, about-13)
 num(percent-15, 0.5-14)
 pobj(about-13, percent-15)
 prep_in(percent-15, Egypt-17)
-
-From/NNP late/RB September/NNP ,/, when/WRB the/DT latest/JJS trouble/NN erupted/VBN in/IN the/DT Middle/NNP East/NNP ,/, through/IN last/JJ week/NN ,/, the/DT broad/NN markets/NNS and/CC several/JJ categories/NNS of/IN mutual/JJ funds/NNS lost/VBD ground/NN in/IN the/DT United/NNP States/NNPS ./.
 
 (ROOT
   (S
@@ -716,8 +678,6 @@ det(States-33, the-31)
 nn(States-33, United-32)
 prep_in(lost-28, States-33)
 
-In/IN the/DT most/RBS violent/JJ period/NN ,/, Oct/NNP ./.
-
 (ROOT
   (FRAG
     (PP (IN In)
@@ -735,8 +695,6 @@ advmod(violent-4, most-3)
 amod(period-5, violent-4)
 pobj(In-1, period-5)
 appos(period-5, Oct-7)
-
-5/CD through/IN 12/CD ,/, equity/NN income/NN funds/NNS were/VBD down/RB 4.80/CD percent/NN ,/, according/VBG to/TO Lipper/NNP Inc/NNP ./.
 
 (ROOT
   (S
@@ -768,8 +726,6 @@ prepc_according_to(were-8, to-14)
 nn(Inc-16, Lipper-15)
 pobj(were-8, Inc-16)
 
-Growth/NNP funds/NNS were/VBD off/RP 7.79/CD percent/JJ ,/, and/CC growth-and-income/JJ funds/NNS 6.12/CD percent/JJ ./.
-
 (ROOT
   (S
     (S
@@ -798,8 +754,6 @@ amod(funds-10, growth-and-income-9)
 dep(percent-12, funds-10)
 npadvmod(percent-12, 6.12-11)
 conj_and(percent-6, percent-12)
-
-Those/JJ funds/NNS generally/RB do/VBP not/RB contain/VB shares/NNS of/IN Middle/NNP Eastern/NNP companies/NNS ,/, yet/IN the/DT trouble/NN in/IN the/DT region/NN was/VBD among/IN several/JJ factors/NNS _/IN along/RB with/IN a/DT general/JJ sell-off/NN in/IN technology/NN and/CC telecommunications/NN stocks/NNS _/VBP that/IN brought/VBD down/RB prices/NNS ./.
 
 (ROOT
   (S
@@ -872,8 +826,6 @@ ccomp(_-34, brought-36)
 prt(brought-36, down-37)
 dobj(brought-36, prices-38)
 
-Emerging-markets/NNS funds/NNS declined/VBD 7.17/CD percent/JJ over/IN that/DT period/NN ./.
-
 (ROOT
   (S
     (NP (NNS Emerging-markets) (NNS funds))
@@ -892,8 +844,6 @@ npadvmod(percent-5, 7.17-4)
 acomp(declined-3, percent-5)
 det(period-8, that-7)
 prep_over(declined-3, period-8)
-
-Although/IN many/JJ of/IN those/DT funds/NNS invest/VB in/IN Middle/NNP Eastern/NNP companies/NNS ,/, the/DT ripple/NN effect/NN of/IN the/DT threat/NN to/TO oil/VB affected/VBN them/PRP most/RBS ,/, analysts/NNS and/CC fund/NN managers/NNS said/VBD ./.
 
 (ROOT
   (S
@@ -952,8 +902,6 @@ conj_and(analysts-24, managers-27)
 nsubj(said-28, managers-27)
 root(ROOT-0, said-28)
 
-And/CC those/DT funds/NNS '/POS investments/NNS in/IN the/DT region/NN are/VBP still/RB relatively/RB small/JJ ,/, usually/RB less/RBR than/IN 10/CD percent/NN of/IN the/DT portfolios/NNS ./.
-
 (ROOT
   (S (CC And)
     (NP
@@ -993,8 +941,6 @@ num(percent-18, 10-17)
 dep(small-12, percent-18)
 det(portfolios-21, the-20)
 prep_of(percent-18, portfolios-21)
-
-``Most/RB of/IN the/DT markets/NNS in/IN the/DT Middle/NNP East/NNP are/VBP insignificant/JJ in/IN terms/NNS of/IN the/DT amount/NN of/IN capital/NN invested/VBN in/IN them/PRP from/IN the/DT United/NNP States/NNPS ,''/NNP said/VBD Mark/NNP Madden/NNP ,/, manager/NN of/IN the/DT $250/CD million/CD Pioneer/NNP Emerging/NNP Markets/NNPS fund/NN .''/.
 
 (ROOT
   (SINV
@@ -1066,8 +1012,6 @@ nn(fund-38, Markets-37)
 prep_of(manager-30, fund-38)
 punct(said-26, .''-39)
 
-Madden/NNP invests/VBZ mainly/RB in/IN Mexico/NNP ,/, Brazil/NNP and/CC Korea/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Madden))
@@ -1087,8 +1031,6 @@ prep_in(invests-2, Brazil-7)
 conj_and(Mexico-5, Brazil-7)
 prep_in(invests-2, Korea-9)
 conj_and(Mexico-5, Korea-9)
-
-About/DT 5/CD percent/NN of/IN his/PRP$ portfolio/NN is/VBZ in/IN Israel/NNP and/CC less/JJR than/IN 1/CD percent/JJ is/VBZ in/IN Egypt/NN ./.
 
 (ROOT
   (S
@@ -1123,8 +1065,6 @@ num(percent-14, 1-13)
 nsubj(is-15, percent-14)
 conj_and(is-7, is-15)
 prep_in(is-15, Egypt-17)
-
-Except/NN during/IN such/JJ tense/NN times/NNS in/IN the/DT Middle/NNP East/NNP ,/, analysts/NNS and/CC fund/NN managers/NNS said/VBD ,/, fluctuations/NNS in/IN the/DT United/NNP States/NNPS markets/NNS ,/, the/DT biggest/NN and/CC most/RBS dynamic/JJ in/IN the/DT world/NN ,/, are/VBP more/RBR likely/JJ to/TO influence/VB share/NN prices/NNS in/IN the/DT Middle/NNP East/NNP than/IN vice/NN versa/NN ./.
 
 (ROOT
   (S
@@ -1211,8 +1151,6 @@ prep_in(prices-39, East-43)
 nn(versa-46, vice-45)
 prep_than(influence-37, versa-46)
 
-``The/DT first/JJ thing/NN overseas/RB traders/NNS want/VBP to/TO know/VB when/WRB they/PRP come/VBP in/IN in/IN the/DT morning/NN is/VBZ ,/, `What/NN did/VBD the/DT Nasdaq/NNP and/CC the/DT Dow/NNP do/VBP ?'''/.
-
 (ROOT
   (S
     (NP
@@ -1273,8 +1211,6 @@ nsubj(do-25, Dow-24)
 ccomp(did-19, do-25)
 punct(is-16, ?'''-26)
 
-said/VBD Howard/NNP Klein/NNP ,/, an/DT institutional/JJ broker/NN specializing/NN in/IN emerging/VBG markets/NNS at/IN SG/NNP Cowen/NNP Securities/NNPS in/IN New/NNP York/NNP ./.
-
 (ROOT
   (S
     (VP (VBD said)
@@ -1308,8 +1244,6 @@ prep_at(markets-11, Securities-15)
 nn(York-18, New-17)
 prep_in(Securities-15, York-18)
 
-Traders/NNS in/IN Israel/NNP in/IN particular/JJ have/VB their/PRP$ eyes/NNS on/IN the/DT Nasdaq/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -1334,8 +1268,6 @@ poss(eyes-8, their-7)
 dobj(have-6, eyes-8)
 det(Nasdaq-11, the-10)
 prep_on(eyes-8, Nasdaq-11)
-
-Their/PRP$ country/NN is/VBZ also/RB home/NN to/TO global/JJ technology/NN ,/, telecommunications/NN and/CC pharmaceutical/JJ companies/NNS ,/, which/WDT depend/VBP on/IN economic/JJ currents/NNS in/IN the/DT United/NNP States/NNPS and/CC Europe/NNP much/RB more/JJR than/IN on/IN developments/NNS in/IN the/DT Middle/NNP East/NNP ./.
 
 (ROOT
   (S
@@ -1402,8 +1334,6 @@ det(East-34, the-32)
 nn(East-34, Middle-33)
 prep_in(developments-30, East-34)
 
-Shares/NNS of/IN many/JJ Israeli/NNP companies/NNS are/VBP sold/VBN as/IN American/JJ Depository/NN Receipts/NNPS on/IN the/DT Nasdaq/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -1433,8 +1363,6 @@ prep_as(sold-7, Receipts-11)
 det(Nasdaq-14, the-13)
 prep_on(Receipts-11, Nasdaq-14)
 
-Only/RB a/DT handful/NN of/IN small/JJ funds/NNS concentrate/VBP on/IN the/DT Middle/NNP East/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -1455,8 +1383,6 @@ root(ROOT-0, concentrate-7)
 det(East-11, the-9)
 nn(East-11, Middle-10)
 prep_on(concentrate-7, East-11)
-
-One/CD of/IN them/PRP ,/, the/DT $25/CD million/CD American/JJ Israel/NNP Index/NNP mutual/JJ fund/NN ,/, is/VBZ made/VBN up/RP exclusively/RB of/IN Israeli/NNP companies/NNS ,/, 16/JJ traded/NN on/IN the/DT Tel/NNP Aviv/NNP exchange/NN and/CC 19/CD on/IN the/DT Nasdaq/NNP ./.
 
 (ROOT
   (S
@@ -1517,8 +1443,6 @@ conj_and(companies-20, 19-30)
 det(Nasdaq-33, the-32)
 prep_on(19-30, Nasdaq-33)
 
-Like/NNP more/RBR broadly/RB based/VBN mutual/JJ funds/NNS ,/, its/PRP$ shares/NNS fell/VBD during/IN the/DT recent/JJ turmoil/NN ./.
-
 (ROOT
   (S
     (S
@@ -1547,8 +1471,6 @@ det(turmoil-14, the-12)
 amod(turmoil-14, recent-13)
 prep_during(fell-10, turmoil-14)
 
-But/CC its/PRP$ investors/NNS remained/VBD confident/JJ ./.
-
 (ROOT
   (S (CC But)
     (NP (PRP$ its) (NNS investors))
@@ -1561,8 +1483,6 @@ poss(investors-3, its-2)
 nsubj(remained-4, investors-3)
 root(ROOT-0, remained-4)
 acomp(remained-4, confident-5)
-
-In/IN the/DT last/JJ few/JJ weeks/NNS ,/, money/NN flowing/NN into/IN the/DT fund/NN far/RB exceeded/VBD redemptions/NNS ./.
 
 (ROOT
   (S
@@ -1589,8 +1509,6 @@ prep_into(flowing-8, fund-11)
 advmod(exceeded-13, far-12)
 root(ROOT-0, exceeded-13)
 dobj(exceeded-13, redemptions-14)
-
-NYT-10-20-00/CD 2027EDT/CD
 
 (ROOT
   (FRAG

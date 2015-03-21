@@ -1,5 +1,3 @@
-NYT20001125.1558.0117/NNP NEWS/NNP STORY/NNP 2000-11-25/CD 15:58:00/CD
-
 (ROOT
   (FRAG
     (NP (NNP NYT20001125.1558.0117) (NNP NEWS) (NNP STORY))
@@ -10,8 +8,6 @@ nn(STORY-3, NEWS-2)
 root(ROOT-0, STORY-3)
 num(15:58:00-5, 2000-11-25-4)
 dep(STORY-3, 15:58:00-5)
-
-A0481/CD &Cx1f/NN ;/: taf-z/NN u/IN a/DT BC-MICH-HUNTING-ACCIDENT/JJ 11-25/CD 0651/CD
 
 (ROOT
   (NP
@@ -30,14 +26,10 @@ amod(0651-9, BC-MICH-HUNTING-ACCIDENT-7)
 num(0651-9, 11-25-8)
 prep_u(taf-z-4, 0651-9)
 
-BC-MICH-HUNTING-ACCIDENTS-NYT/NNP
-
 (ROOT
   (NP (NNP BC-MICH-HUNTING-ACCIDENTS-NYT)))
 
 root(ROOT-0, BC-MICH-HUNTING-ACCIDENTS-NYT-1)
-
-SAFETY/NNP WORRIES/NNP INCREASE/NNP AS/NNP MICHIGAN/NNP HUNTERS/NNP TAKE/NNP GUNS/NNP UP/NNP TREES/.
 
 (ROOT
   (NP (NNP SAFETY) (NNP WORRIES) (NNP INCREASE) (NNP AS) (NNP MICHIGAN) (NNP HUNTERS) (NNP TAKE) (NNP GUNS) (NNP UP) (. TREES)))
@@ -53,8 +45,6 @@ nn(UP-9, GUNS-8)
 root(ROOT-0, UP-9)
 punct(UP-9, TREES-10)
 
-&UR/NNS ;/: c.2000/CD N.Y/NNP ./.
-
 (ROOT
   (NP
     (NP (NNS &UR))
@@ -65,8 +55,6 @@ punct(UP-9, TREES-10)
 root(ROOT-0, &UR-1)
 num(N.Y-4, c.2000-3)
 dep(&UR-1, N.Y-4)
-
-Times/NNP News/NNP Service/NNP &LR/NNP ;/: &QC/NNP ;/: &QL/NNP ;/:
 
 (ROOT
   (NP
@@ -84,8 +72,6 @@ nn(&LR-4, Service-3)
 root(ROOT-0, &LR-4)
 dep(&LR-4, &QC-6)
 dep(&QC-6, &QL-8)
-
-GROSSE/NNP POINTE/NNP PARK/NNP ,/, Mich./NNP _/, It/PRP is/VBZ deer/JJ hunting/VBG season/NN in/IN Michigan/NNP ,/, and/CC hunters/NNS who/WP climb/VBP trees/NNS with/IN loaded/JJ shotguns/NNS have/VBP state/NN officials/NNS redoubling/VBG safety/NN education/NN efforts/NNS ./.
 
 (ROOT
   (S
@@ -146,8 +132,6 @@ nn(efforts-29, safety-27)
 nn(efforts-29, education-28)
 dobj(redoubling-26, efforts-29)
 
-Two/NNP men/NNS have/VBP been/VBN killed/JJ ,/, and/CC a/DT third/NN has/VBZ been/VBN injured/VBN since/IN the/DT hunting/VBG season/NN opened/VBN on/IN Nov/NNP ./.
-
 (ROOT
   (S
     (S
@@ -186,16 +170,12 @@ prep_since(injured-12, season-16)
 vmod(season-16, opened-17)
 prep_on(opened-17, Nov-19)
 
-15/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 15))
     (. .)))
 
 root(ROOT-0, 15-1)
-
-All/NNP three/CD accidents/NNS involved/VBN shotguns/NNS ,/, elevated/JJ platforms/NNS and/CC a/DT practice/NN relatively/RB new/JJ to/TO Michigan/NNP hunters/NNS _/VBP shooting/VBG at/IN deer/NN from/IN trees/NNS ./.
 
 (ROOT
   (S
@@ -241,8 +221,6 @@ xcomp(_-17, shooting-18)
 prep_at(shooting-18, deer-20)
 prep_from(shooting-18, trees-22)
 
-The/DT Michigan/NNP season/NN ,/, one/CD of/IN the/DT busiest/NN ,/, continues/NNS through/IN Nov/NNP ./.
-
 (ROOT
   (NP
     (NP (DT The) (NNP Michigan) (NN season))
@@ -267,16 +245,12 @@ prep_of(one-5, busiest-8)
 appos(season-3, continues-10)
 prep_through(continues-10, Nov-12)
 
-30/CD ./.
-
 (ROOT
   (FRAG
     (NP (CD 30))
     (. .)))
 
 root(ROOT-0, 30-1)
-
-Firearm/NNP hunting/VBG from/IN elevated/JJ platforms/NNS has/VBZ long/RB been/VBN legal/JJ in/IN other/JJ states/NNS with/IN heavy/NN hunting/NN ,/, like/IN New/NNP York/NNP and/CC Pennsylvania/NNP ./.
 
 (ROOT
   (S
@@ -316,8 +290,6 @@ nn(York-19, New-18)
 prep_like(legal-9, York-19)
 prep_like(legal-9, Pennsylvania-21)
 conj_and(York-19, Pennsylvania-21)
-
-But/CC the/DT practice/NN is/VBZ only/RB in/IN its/PRP$ third/JJ season/NN in/IN Michigan/NNP ,/, and/CC officials/NNS say/VBP it/PRP appears/VBZ that/DT hunters/NNS still/RB have/VBP a/DT lot/NN to/TO learn/VB about/IN safety/NN ./.
 
 (ROOT
   (S (CC But)
@@ -373,8 +345,6 @@ dobj(have-21, lot-23)
 aux(learn-25, to-24)
 vmod(lot-23, learn-25)
 prep_about(learn-25, safety-27)
-
-Lt./NNP Suzanne/NNP Koppelo/NNP ,/, hunter/NN safety/NN administrator/NN of/IN the/DT law/NN enforcement/NN division/NN of/IN the/DT Michigan/NNP Department/NNP of/IN Natural/NNP Resources/NNPS &UR/NNP ;/: ,/, &LR/NNP ;/: said/VBD that/IN since/IN firearm/NN platform/NN hunting/VBG began/NN in/IN Michigan/NNP there/EX had/VBD been/VBN seven/VBN shooting/VBG accidents/NNS linked/VBN to/TO the/DT practice/NN ./.
 
 (ROOT
   (S
@@ -451,8 +421,6 @@ vmod(accidents-39, linked-40)
 det(practice-43, the-42)
 prep_to(linked-40, practice-43)
 
-Three/NNP were/VBD fatal/JJ ./.
-
 (ROOT
   (S
     (NP (NNP Three))
@@ -463,8 +431,6 @@ Three/NNP were/VBD fatal/JJ ./.
 nsubj(fatal-3, Three-1)
 cop(fatal-3, were-2)
 root(ROOT-0, fatal-3)
-
-Two/NNP hunters/VBZ shot/JJ themselves/NNS on/IN platforms/NNS and/CC another/DT was/VBD killed/VBN on/IN the/DT ground/NN by/IN a/DT hunter/JJ shooting/NN from/IN a/DT platform/NN ./.
 
 (ROOT
   (S
@@ -503,8 +469,6 @@ amod(shooting-17, hunter-16)
 agent(killed-10, shooting-17)
 det(platform-20, a-19)
 prep_from(shooting-17, platform-20)
-
-``If/PRP hunters/NNS exercised/VBD the/DT kind/NN of/IN caution/NN one/NN would/MD expect/VB at/IN heights/NNS of/IN 20-some/JJ feet/NN ,/, it/PRP would/MD be/VB almost/RB a/DT nonissue/JJ ,''/NN said/VBD Koppelo/NNP ./.
 
 (ROOT
   (S
@@ -558,8 +522,6 @@ root(ROOT-0, ,''-23)
 rcmod(,''-23, said-24)
 dobj(said-24, Koppelo-25)
 
-``But/NN given/VBN human/JJ nature/NN ,/, that/WDT 's/VBZ not/RB the/DT case/NN .''/.
-
 (ROOT
   (FRAG
     (NP (NN ``But))
@@ -584,8 +546,6 @@ neg(case-10, not-8)
 det(case-10, the-9)
 rcmod(nature-4, case-10)
 punct(nature-4, .''-11)
-
-More/RB than/IN 750,000/CD licensed/JJ hunters/NNS are/VBP taking/VBG to/TO the/DT Michigan/NNP woods/VBZ this/DT year/NN ,/, where/WRB they/PRP are/VBP expected/VBN to/TO kill/VB about/IN 500,000/CD of/IN the/DT state/NN 's/POS 1.9/CD million/CD deer/NN ./.
 
 (ROOT
   (SINV
@@ -648,8 +608,6 @@ number(million-28, 1.9-27)
 num(deer-29, million-28)
 prep_of(500,000-22, deer-29)
 
-The/DT numbers/NNS reinforce/VBP the/DT need/NN to/TO improve/VB education/NN about/IN platform/NN hunting/VBG with/IN firearms/NNS ,/, Koppelo/NNP said/VBD ./.
-
 (ROOT
   (S
     (S
@@ -686,8 +644,6 @@ prep_with(hunting-11, firearms-13)
 nsubj(said-16, Koppelo-15)
 root(ROOT-0, said-16)
 
-The/DT practice/NN is/VBZ more/RBR commonly/JJ associated/VBN with/IN hunters/NNS using/VBG bows/NNS and/CC arrows/NNS ./.
-
 (ROOT
   (S
     (NP (DT The) (NN practice))
@@ -715,8 +671,6 @@ vmod(hunters-8, using-9)
 dobj(using-9, bows-10)
 dobj(using-9, arrows-12)
 conj_and(bows-10, arrows-12)
-
-Instead/RB of/IN hiding/VBG on/IN the/DT ground/NN or/CC walking/VBG through/IN the/DT woods/NNS ,/, they/PRP wait/VBP quietly/RB ,/, typically/RB at/IN a/DT height/NN of/IN 15/CD to/TO 20/CD feet/NNS ,/, and/CC fire/NN down/RB at/IN deer/NN that/IN wander/NN below/NN ./.
 
 (ROOT
   (S
@@ -779,8 +733,6 @@ advmod(fire-28, down-29)
 prep_at(down-29, deer-31)
 nn(below-34, wander-33)
 prep_that(fire-28, below-34)
-
-Despite/IN the/DT hunter/NN killed/VBN from/IN the/DT platform/NN ,/, Sgt./NNP Larry/NNP D./NNP Sargent/NNP ,/, hunter/VBP education/NN field/NN coordinator/NN for/IN the/DT law/NN enforcement/NN division/NN ,/, says/VBZ the/DT practice/NN does/VBZ offer/VBP one/CD safety/NN advantage/NN :/: errant/NN shots/NNS typically/RB thump/RB harmlessly/RB to/TO the/DT ground/NN ,/, rather/RB than/IN whistling/VBG through/IN the/DT woods/NNS and/CC striking/VBG other/JJ people/NNS ./.
 
 (ROOT
   (S
@@ -869,8 +821,6 @@ conj_and(whistling-44, striking-49)
 amod(people-51, other-50)
 dobj(striking-49, people-51)
 
-The/DT problems/NNS primarily/RB arise/VBP when/WRB hunters/NNS get/VBP in/IN and/CC out/RB of/IN position/NN ./.
-
 (ROOT
   (S
     (NP (DT The) (NNS problems))
@@ -901,8 +851,6 @@ prep(get-7, out-10)
 conj_and(in-8, out-10)
 dep(in-8, of-11)
 pobj(of-11, position-12)
-
-``It/NNP 's/POS kind/NN of/IN hard/JJ climbing/VBG a/DT tree/NN with/IN a/DT gun/JJ ,''/NN Rob/NNP Williams/NNP said/VBD ,/, as/IN he/PRP and/CC a/DT hunting/JJ partner/NN ,/, Art/NNP Bush/NNP ,/, waited/VBN on/IN a/DT recent/JJ morning/NN in/IN a/DT conventional/JJ earthbound/NN hunting/VBG blind/NN about/IN 20/CD miles/NNS west/JJS of/IN Detroit/NNP ./.
 
 (ROOT
   (NP
@@ -981,8 +929,6 @@ prep_about(hunting-36, miles-40)
 dep(miles-40, west-41)
 prep_of(kind-3, Detroit-43)
 
-For/IN Williams/NNP ,/, Rule/IN No/DT ./.
-
 (ROOT
   (FRAG
     (PP (IN For)
@@ -998,8 +944,6 @@ root(ROOT-0, For-1)
 pobj(For-1, Williams-2)
 appos(Williams-2, Rule-4)
 dep(Rule-4, No-5)
-
-1/CD is/VBZ not/RB to/TO climb/VB a/DT tree/NN with/IN a/DT loaded/JJ gun/NN ./.
 
 (ROOT
   (S
@@ -1024,8 +968,6 @@ dobj(climb-5, tree-7)
 det(gun-11, a-9)
 amod(gun-11, loaded-10)
 prep_with(climb-5, gun-11)
-
-He/PRP says/VBZ that/IN when/WRB he/PRP hunts/VBZ from/IN a/DT platform/NN he/PRP climbs/VBD up/RB with/IN a/DT rope/NN dangling/NN from/IN his/PRP$ belt/NN to/TO his/PRP$ gun/NN ,/, which/WDT he/PRP leaves/VBZ unloaded/VBN on/IN the/DT ground/NN ./.
 
 (ROOT
   (S
@@ -1086,8 +1028,6 @@ dep(leaves-26, unloaded-27)
 det(ground-30, the-29)
 prep_on(unloaded-27, ground-30)
 
-When/WRB he/PRP is/VBZ secure/NN in/IN his/PRP$ stand/NN ,/, he/PRP pulls/VBZ his/PRP$ gun/VBN up/RP after/IN him/PRP and/CC loads/VBZ it/PRP ./.
-
 (ROOT
   (S
     (SBAR
@@ -1128,8 +1068,6 @@ prep_after(up-13, him-15)
 conj_and(pulls-10, loads-17)
 dobj(loads-17, it-18)
 
-Sargent/NNP says/VBZ this/DT is/VBZ proper/NN procedure/NN ./.
-
 (ROOT
   (S
     (NP (NNP Sargent))
@@ -1147,8 +1085,6 @@ nsubj(procedure-6, this-3)
 cop(procedure-6, is-4)
 nn(procedure-6, proper-5)
 ccomp(says-2, procedure-6)
-
-One/CD accident/NN this/DT year/NN ,/, however/NN ,/, illustrates/VBZ the/DT importance/NN of/IN following/VBG each/DT step/NN of/IN the/DT safety/NN procedures/NNS ./.
 
 (ROOT
   (S
@@ -1185,8 +1121,6 @@ dobj(following-12, step-14)
 det(procedures-18, the-16)
 nn(procedures-18, safety-17)
 prep_of(step-14, procedures-18)
-
-A/DT 16-year-old/JJ hunter/NN used/VBD a/DT haul/JJ line/NN ,/, but/CC it/PRP was/VBD tied/VBN to/TO the/DT trigger/NN guard/NN and/CC he/PRP left/VBD the/DT gun/NN loaded/VBD ,/, Koppelo/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -1239,8 +1173,6 @@ ccomp(left-19, loaded-22)
 nsubj(said-25, Koppelo-24)
 root(ROOT-0, said-25)
 
-The/DT teen-ager/NN 's/POS gun/NN went/VBD off/RB and/CC he/PRP was/VBD shot/VBN in/IN the/DT foot/NN ./.
-
 (ROOT
   (S
     (S
@@ -1269,8 +1201,6 @@ conj_and(went-5, shot-10)
 det(foot-13, the-12)
 prep_in(shot-10, foot-13)
 
-Others/NNS are/VBP hurt/JJ falling/VBG out/RP of/IN trees/NNS ./.
-
 (ROOT
   (S
     (NP (NNS Others))
@@ -1288,8 +1218,6 @@ aux(hurt-3, are-2)
 root(ROOT-0, hurt-3)
 xcomp(hurt-3, falling-4)
 prep_out_of(falling-4, trees-7)
-
-Koppelo/NNP said/VBD that/DT state/NN officials/NNS were/VBD trying/VBG to/TO keep/VB count/NN of/IN these/DT injuries/NNS but/CC that/IN it/PRP was/VBD difficult/JJ ,/, since/IN they/PRP relied/VBD on/IN hunters/NNS reporting/VBG minor/NN accidents/NNS ./.
 
 (ROOT
   (S
@@ -1353,8 +1281,6 @@ vmod(hunters-24, reporting-25)
 nn(accidents-27, minor-26)
 dobj(reporting-25, accidents-27)
 
-``A/NNP lot/NN of/IN guys/NNS are/VBP embarrassed/VBN ,''/, Sargent/NNP said/VBD ./.
-
 (ROOT
   (S
     (NP
@@ -1377,8 +1303,6 @@ root(ROOT-0, embarrassed-6)
 punct(said-9, ,''-7)
 nsubj(said-9, Sargent-8)
 ccomp(embarrassed-6, said-9)
-
-``They/NNP 'll/MD say/VB they/PRP fell/VBD working/VBG in/IN the/DT yard/NN or/CC something/NN .''/.
 
 (ROOT
   (S
@@ -1408,8 +1332,6 @@ prep_in(working-6, yard-9)
 prep_in(working-6, something-11)
 conj_or(yard-9, something-11)
 punct(say-3, .''-12)
-
-Others/NNS ,/, Koppelo/NNP says/VBZ ,/, do/VBP not/RB want/VB to/TO report/VB accidents/NNS for/IN fear/JJ the/DT law/NN will/MD be/VB changed/VBN ./.
 
 (ROOT
   (S
@@ -1449,8 +1371,6 @@ nsubjpass(changed-18, law-15)
 aux(changed-18, will-16)
 auxpass(changed-18, be-17)
 advcl(report-10, changed-18)
-
-And/CC she/PRP adds/VBZ that/DT though/JJ anecdotal/JJ reports/NNS show/VBP Michigan/NNP 's/POS large/JJ hunting/JJ population/NN to/TO be/VB taking/VBG slowly/RB to/TO firearm/NN deer/VB hunting/VBG from/IN platforms/NNS ,/, most/RBS expect/VBP the/DT practice/NN to/TO catch/VB on/IN as/IN it/PRP has/VBZ in/IN other/JJ states/NNS ./.
 
 (ROOT
   (S
@@ -1529,8 +1449,6 @@ pcomp(on-31, in-35)
 amod(states-37, other-36)
 pobj(in-35, states-37)
 
-As/IN Peter/NNP Thompson/NNP ,/, a/DT 16-year-old/JJ hunter/NN ,/, said/VBD ,/, ``Usually/RB the/DT deer/NN don't/VBD look/VB up/RP .''/.
-
 (ROOT
   (S
     (SBAR (IN As)
@@ -1564,8 +1482,6 @@ root(ROOT-0, don't-14)
 ccomp(don't-14, look-15)
 prt(look-15, up-16)
 punct(don't-14, .''-17)
-
-NYT-11-25-00/CD 1558EST/CD
 
 (ROOT
   (FRAG

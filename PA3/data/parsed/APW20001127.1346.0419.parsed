@@ -1,5 +1,3 @@
-APW20001127.1346.0419/DT NEWS/NNP STORY/NNPS 2000-11-27/CD 14:24:22/CD
-
 (ROOT
   (NP
     (NP (DT APW20001127.1346.0419))
@@ -12,14 +10,10 @@ dep(APW20001127.1346.0419-1, STORY-3)
 num(14:24:22-5, 2000-11-27-4)
 dep(APW20001127.1346.0419-1, 14:24:22-5)
 
-BBA-Rangers-Rodriguez/NNP
-
 (ROOT
   (NP (NNP BBA-Rangers-Rodriguez)))
 
 root(ROOT-0, BBA-Rangers-Rodriguez-1)
-
-A-Rod/JJ To/TO Meet/VB With/IN Texas/NNP Rangers/NNPS
 
 (ROOT
   (ADJP (JJ A-Rod)
@@ -34,8 +28,6 @@ aux(Meet-3, To-2)
 xcomp(A-Rod-1, Meet-3)
 nn(Rangers-6, Texas-5)
 prep_with(Meet-3, Rangers-6)
-
-ARLINGTON/NNP ,/, Texas/NNP [AP/NNP ]/, _/DT One/CD of/IN baseball/NN 's/POS biggest/JJS free-agent/JJ prizes/NNS ,/, Alex/NNP Rodriguez/NNP is/VBZ getting/VBG red-carpet/JJ treatment/NN from/IN the/DT Texas/NNP Rangers/NNPS ./.
 
 (ROOT
   (S
@@ -76,8 +68,6 @@ det(Rangers-24, the-22)
 nn(Rangers-24, Texas-23)
 prep_from(getting-18, Rangers-24)
 
-And/CC even/RB the/DT Dallas/NNP Stars/NNPS are/VBP lending/VBG a/DT hand/NN in/IN trying/VBG to/TO win/VB over/IN the/DT All-Star/JJ shortstop/NN ./.
-
 (ROOT
   (S (CC And)
     (ADVP (RB even))
@@ -110,8 +100,6 @@ xcomp(trying-11, win-13)
 det(shortstop-17, the-15)
 amod(shortstop-17, All-Star-16)
 prep_over(win-13, shortstop-17)
-
-Rodriguez/NNP and/CC agent/JJ Scott/NNP Boras/NNP were/VBD expected/VBN to/TO meet/VB Monday/NNP with/IN Rangers/NNPS owner/NN Tom/NNP Hicks/NNS ./.
 
 (ROOT
   (S
@@ -147,8 +135,6 @@ prep_with(meet-9, owner-13)
 nn(Hicks-15, Tom-14)
 dobj(meet-9, Hicks-15)
 
-He/PRP will/MD be/VB joined/VBN by/IN general/JJ manager/NN Doug/NNP Melvin/NNP ,/, manager/NN Johnny/NNP Oates/NNPS and/CC several/JJ players/NNS ./.
-
 (ROOT
   (S
     (NP (PRP He))
@@ -180,8 +166,6 @@ dep(manager-11, Oates-13)
 amod(players-16, several-15)
 dep(manager-11, players-16)
 conj_and(Oates-13, players-16)
-
-The/DT team/NN 's/POS bid/NN for/IN Rodriguez/NNP hasn't/VBP been/VBN slowed/VBN by/IN the/DT expected/JJ demand/NN of/IN at/IN least/JJS a/DT 10-year/JJ contract/NN ,/, in/IN the/DT range/NN of/IN $20/CD million/CD a/DT year/NN ,/, loaded/VBN with/IN fringe/JJ benefits/NNS ./.
 
 (ROOT
   (S
@@ -241,8 +225,6 @@ dep(million-26, year-28)
 vmod(range-23, loaded-30)
 amod(benefits-33, fringe-32)
 prep_with(loaded-30, benefits-33)
-
-``We/JJ feel/NN at/IN the/DT expense/NN of/IN last/JJ year/NN ,/, we/PRP have/VBP our/PRP$ roster/NN where/WRB we/PRP don't/VBD have/VBP to/TO trade/VB people/NNS to/TO make/VB this/DT work/NN ,''/, Melvin/NNP said/VBD in/IN the/DT Fort/NNP Worth/NNP Star-Telegram/NNP on/IN Monday/NNP ./.
 
 (ROOT
   (S
@@ -315,8 +297,6 @@ nn(Star-Telegram-32, Worth-31)
 prep_in(said-27, Star-Telegram-32)
 prep_on(said-27, Monday-34)
 
-``I/PRP 'm/VBP not/RB saying/VBG we/PRP have/VBP all/PDT the/DT money/NN in/IN the/DT world/NN ,/, but/CC we/PRP don't/VBP have/VBP to/TO bust/VB our/PRP$ budget/NN completely/RB ./.
-
 (ROOT
   (S
     (S
@@ -365,8 +345,6 @@ poss(budget-21, our-20)
 dobj(bust-19, budget-21)
 advmod(bust-19, completely-22)
 
-We/PRP 're/VBP in/IN a/DT better/JJR position/NN than/IN most/JJS other/JJ clubs/NN .''/.
-
 (ROOT
   (S
     (NP (PRP We))
@@ -389,8 +367,6 @@ dep(other-9, most-8)
 amod(clubs-10, other-9)
 prep_than(position-6, clubs-10)
 punct('re-2, .''-11)
-
-Stars/NNS center/JJ Mike/NNP Modano/NNP is/VBZ being/VBG called/VBN in/IN to/TO help/VB show/VB Rodriguez/NNP around/IN the/DT Dallas-Fort/NNP Worth/NNP area/NN and/CC tell/NN him/PRP why/VBD it/PRP would/MD be/VB a/DT great/JJ place/NN to/TO play/VB ./.
 
 (ROOT
   (S
@@ -456,8 +432,6 @@ ccomp(why-21, place-27)
 aux(play-29, to-28)
 vmod(place-27, play-29)
 
-Melvin/NNP said/VBD he/PRP doesn't/VBD expect/VB the/DT Rangers/NNS to/TO make/VB a/DT formal/JJ offer/NN until/IN they/PRP can/MD gauge/VB the/DT level/NN of/IN interest/NN from/IN Rodriguez/NNP ./.
-
 (ROOT
   (S
     (NP (NNP Melvin))
@@ -506,8 +480,6 @@ det(level-18, the-17)
 dobj(gauge-16, level-18)
 prep_of(level-18, interest-20)
 prep_from(gauge-16, Rodriguez-22)
-
-The/DT 25-year-old/JJ shortstop/NN ,/, who/WP hit/VBP .316/CD with/IN 41/CD homers/NNS and/CC 132/CD RBIs/NNS at/IN Seattle/JJ last/JJ season/NN ,/, also/RB reportedly/RB has/VBZ been/VBN targeted/VBN by/IN the/DT Chicago/NNP White/NNP Sox/NNP ,/, Los/NNP Angeles/NNP Dodgers/NNP ,/, New/NNP York/NNP Mets/NNPS and/CC Atlanta/NNP Braves/NNPS ./.
 
 (ROOT
   (S
@@ -578,8 +550,6 @@ nn(Braves-39, Atlanta-38)
 agent(targeted-23, Braves-39)
 conj_and(Sox-28, Braves-39)
 
-The/DT Mariners/NNPS ,/, Rodriguez/NNP 's/POS team/NN the/DT past/JJ six/CD years/NNS ,/, also/RB wanted/VBD to/TO re-sign/VB him/PRP ./.
-
 (ROOT
   (S
     (NP
@@ -613,8 +583,6 @@ root(ROOT-0, wanted-13)
 aux(re-sign-15, to-14)
 xcomp(wanted-13, re-sign-15)
 dobj(re-sign-15, him-16)
-
-``This/NNP gives/VBZ us/PRP a/DT chance/NN to/TO tell/VB him/PRP about/IN our/PRP$ organization/NN and/CC the/DT direction/NN we/PRP 're/VBP going/VBG ,/, answer/JJR any/DT questions/NNS they/PRP might/MD have/VB about/IN us/PRP ,''/, Melvin/NNP said/VBD ./.
 
 (ROOT
   (S
@@ -683,8 +651,6 @@ punct(said-29, ,''-27)
 nsubj(said-29, Melvin-28)
 dep(tell-7, said-29)
 
-Some/DT even/RB have/VBP a/DT neighborhood/NN _/IN the/DT fashionable/JJ Dallas/NNP suburb/NN of/IN Highland/NNP Park/NNP _/, picked/VBD out/RB for/IN Rodriguez/NNP ./.
-
 (ROOT
   (S
     (NP (DT Some))
@@ -720,8 +686,6 @@ punct(have-3, _-14)
 dep(have-3, picked-15)
 prt(picked-15, out-16)
 prep_for(picked-15, Rodriguez-18)
-
-Neighbors/NNS of/IN one/CD available/JJ residence/NN _/IN a/DT five-bedroom/JJ spread/NN worth/IN $11.95/CD million/CD _/NNS would/MD include/VB Hicks/NNS ,/, Modano/NNP and/CC Dallas/NNP Cowboys/NNP owner/NN Jerry/NNP Jones/NNP ./.
 
 (ROOT
   (S
@@ -769,8 +733,6 @@ nn(Jones-24, Jerry-23)
 dobj(include-15, Jones-24)
 conj_and(Hicks-16, Jones-24)
 
-``Alex/NNP needs/VBZ to/TO buy/VB this/DT house/NN ,''/IN Ronda/NNP Needham/NNP ,/, a/DT listing/JJ agent/NN ,/, told/VBD The/DT Dallas/NNP Morning/NNP News/NNP ./.
-
 (ROOT
   (S
     (NP (NNP ``Alex))
@@ -809,8 +771,6 @@ nn(News-19, Dallas-17)
 nn(News-19, Morning-18)
 dobj(told-15, News-19)
 
-``The/JJ people/NNS who/WP own/VBP this/DT house/NN set/VBD it/PRP up/RB around/IN their/PRP$ two/CD baseball-playing/JJ sons/NNS ./.
-
 (ROOT
   (S
     (NP
@@ -841,8 +801,6 @@ num(sons-14, two-12)
 amod(sons-14, baseball-playing-13)
 prep_around(up-9, sons-14)
 
-It/PRP 's/VBZ a/DT very/RB sports-minded/JJ house/NN .''/.
-
 (ROOT
   (S
     (NP (PRP It))
@@ -859,8 +817,6 @@ advmod(sports-minded-5, very-4)
 amod(house-6, sports-minded-5)
 root(ROOT-0, house-6)
 punct(house-6, .''-7)
-
-The/DT Mets/NNPS ,/, once/RB considered/VBN the/DT favorites/NNS to/TO get/VB Rodriguez/NNP ,/, have/VBP slowed/VBN their/PRP$ chase/NN ./.
 
 (ROOT
   (S
@@ -895,8 +851,6 @@ root(ROOT-0, slowed-13)
 poss(chase-15, their-14)
 dobj(slowed-13, chase-15)
 
-General/NNP manager/NN Steve/NNP Phillips/NNPS publicly/VBP criticized/VBN some/DT of/IN the/DT demands/NNS supposedly/RB made/VBN by/IN Boras/NNP ./.
-
 (ROOT
   (S
     (NP
@@ -929,8 +883,6 @@ advmod(made-12, supposedly-11)
 root(ROOT-0, made-12)
 prep_by(made-12, Boras-14)
 
-But/CC the/DT agent/NN says/VBZ Rodriguez/NNP is/VBZ making/VBG no/DT special/JJ demands/NNS ./.
-
 (ROOT
   (S (CC But)
     (NP (DT the) (NN agent))
@@ -953,8 +905,6 @@ ccomp(says-4, making-7)
 neg(demands-10, no-8)
 amod(demands-10, special-9)
 dobj(making-7, demands-10)
-
-``I/NNP can't/NN anticipate/IN any/DT change/NN that/WDT would/MD draw/VB us/PRP back/RB into/IN it/PRP ,''/, Phillips/NNS said/VBD ./.
 
 (ROOT
   (S
