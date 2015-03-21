@@ -87,12 +87,12 @@ def extract_features(lines):
                 parses = infile.read()
                 parses = parses.split('\n\n')
                 parses = [sent for sent in parses if len(sent) > 0]
-                constituents = [s for i, s in enumerate(parses) if i % 3 == 1]
+                constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
-                                if i % 3 == 2]
+                                if i % 2 == 1]
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
-                  '|BT|',
+                  '\t|BT|',
                   get_tree(line, constituents, 'leaves'),
                   '|ET|']
         features.append([f for f in f_list if f is not None])
@@ -129,6 +129,7 @@ if __name__ == "__main__":
     else:
         file_name = sys.argv[1]
         label_name = sys.argv[2]
+        file_type = sys.argv[3]
         if file_type == 'train':
             train = True
         else:
