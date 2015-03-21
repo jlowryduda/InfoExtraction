@@ -29,7 +29,7 @@ def clean_string(s):
 def get_label(line):
     """
     For a line in the training file, return the relation type between
-    the mentions in that line ('yes' or 'no').
+    the mentions in that line ('no_rel' or the relation type).
     """
     return line[0]
 
@@ -56,6 +56,15 @@ def interceding_in(line, sents):
 
 
 def get_tree(line, constituents, attribute):
+    """
+    Find the subtree rooted at the lowest common ancestor of the two mentions
+    in the potential relation pair, and convert that to a string with all
+    intervening whitespace stripped out to be used as a feature.
+
+    Eventually, we'll use the "attribute" parameter to specify which attribute
+    in the tree we want to highlight instead of the leaves, but that's for
+    another day.
+    """
     if int(line[2]) == int(line[8]):
         tree = constituents[int(line[2])]
         subtree = tree.treeposition_spanning_leaves(int(line[3]), int(line[10]))
@@ -63,10 +72,12 @@ def get_tree(line, constituents, attribute):
         subtree_lines = subtree_string.splitlines()
         tree = [t.strip() for t in subtree_lines]
         tree = ' '.join(tree)
+        # The SVM-light-TK documentation suggests that no spaces are allowed
+        # between sets of parentheses, so:
         tree = tree.replace(') (', ')(')
         return tree
     else:
-        return 'None'
+        return '()'
     
 
 def extract_features(lines):
@@ -84,6 +95,8 @@ def extract_features(lines):
             with open(j_path + curr_file + '.json', 'r') as infile:
                 sents = json.load(infile)
             with open(p_path + curr_file + '.parsed', 'r') as infile:
+                # Constituency parses and dependency parses are separated by
+                # two new line characters.
                 parses = infile.read()
                 parses = parses.split('\n\n')
                 parses = [sent for sent in parses if len(sent) > 0]
