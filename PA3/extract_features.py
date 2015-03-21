@@ -55,16 +55,40 @@ def interceding_in(line, sents):
     pass
 
 
-def get_tree(line, constituents, attribute):
+def minimum_complete_tree(line, constituents):
     """
-    Find the subtree rooted at the lowest common ancestor of the two mentions
-    in the potential relation pair, and convert that to a string with all
-    intervening whitespace stripped out to be used as a feature.
+    Given a line with the indices of two mentions and a list of constituent
+    parses, produce the minimum complete tree spanning those two mentions.
+    """
+    if int(line[2]) == int(line[8]):
+        tree = constituents[int(line[2])]
+        subtree_indices = tree.treeposition_spanning_leaves(int(line[3]),
+                                                            int(line[10]))
+        subtree = tree[subtree_indices]
+        return tree_to_string(subtree)
+    else:
+        return '()'
+    
+
+def tree_to_string(subtree):
+    """
+    Given a subtree, convert it to a string with all intervening whitespace
+    stripped out to be used as a feature.
 
     Eventually, we'll use the "attribute" parameter to specify which attribute
     in the tree we want to highlight instead of the leaves, but that's for
     another day.
     """
+    subtree_string = subtree.pprint()
+    subtree_lines = subtree_string.splitlines()
+    tree = [t.strip() for t in subtree_lines]
+    tree = ' '.join(tree)
+    # The SVM-light-TK documentation suggests that no spaces are allowed
+    # between sets of parentheses, so:
+    string = tree.replace(') (', ')(')
+    return string
+
+    
     if int(line[2]) == int(line[8]):
         tree = constituents[int(line[2])]
         subtree = tree.treeposition_spanning_leaves(int(line[3]), int(line[10]))
@@ -106,7 +130,7 @@ def extract_features(lines):
                 constituents = [Tree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   '\t|BT|',
-                  get_tree(line, constituents, 'leaves'),
+                  minimum_complete_tree(line, constituents),
                   '|ET|']
         features.append([f for f in f_list if f is not None])
     return features
