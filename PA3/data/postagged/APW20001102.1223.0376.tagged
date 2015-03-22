@@ -4,7 +4,7 @@ Israel-Explosion_NN
 
 Explosion_NNP Rocks_NNP Jerusalem_NNP Market_NNP 
 
-JERUSALEM_NNP (AP_NNP )_NNP __, A_DT car_NN bomb_NN exploded_VBD Thursday_NN in_IN a_DT crowded_JJ outdoor_NN market_NN in_IN the_DT heart_NN of_IN Jerusalem_NNP ,_, killing_NN at_IN least_JJS two_CD people_NNS ,_, police_NN said_VBD ._. 
+JERUSALEM_NNP [AP_NNP ]_NNP __, A_DT car_NN bomb_NN exploded_VBD Thursday_NN in_IN a_DT crowded_JJ outdoor_NN market_NN in_IN the_DT heart_NN of_IN Jerusalem_NNP ,_, killing_NN at_IN least_JJS two_CD people_NNS ,_, police_NN said_VBD ._. 
 
 
 Ambulances_NNS raced_VBD to_TO the_DT Mahane_NNP Yehuda_NNP market_NN ,_, which_WDT sells_VBZ food_NN ,_, vegetables_NNS and_CC clothing_NN in_IN Jewish_JJ west_JJ Jerusalem_NN ._. 

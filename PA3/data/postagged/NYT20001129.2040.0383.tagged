@@ -6,8 +6,8 @@ BC-R-ELN-FLA-CONTEST-ART-NYT_NNP
 
 GORE_NNP LAWYERS_NNP WANT_NNP FLORIDA_NNP HIGH_NNP COURT_NNP TO_NNP HANDLE_NNP RECOUNT_NNP ,_, AND_NNP 
 
-QUICKLY_IN &LR_NN ;_: &QL_NNP ;_: (Repeating_NN ;_: this_DT is_VBZ now_RB a_DT New_NNP York_NNP Times_NNP front-page_JJ story_NN )_IN &QL_NNP ;_: (ART_JJ ADV_NN :_: Graphic_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP graphic_JJ clients_NNS ._. 
-Nonsubscribers_NNS can_MD purchase_VB one-time_JJ rights_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .)_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP DAVID_NNP FIRESTONE_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
+QUICKLY_IN &LR_NN ;_: &QL_NNP ;_: [Repeating_NN ;_: this_DT is_VBZ now_RB a_DT New_NNP York_NNP Times_NNP front-page_JJ story_NN ]_IN &QL_NNP ;_: [ART_JJ ADV_NN :_: Graphic_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP graphic_JJ clients_NNS ._. 
+Nonsubscribers_NNS can_MD purchase_VB one-time_JJ rights_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .]_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP DAVID_NNP FIRESTONE_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
 Times_NNP News_NNP Service_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNP ;_: 
 
 TALLAHASSEE_NNP ,_, Fla._NNP __POS Lawyers_NNS for_IN Vice_NNP President_NNP Al_NNP Gore_NNP said_VBD Wednesday_NNP their_PRP$ only_JJ chance_NN for_IN victory_NN in_IN his_PRP$ contest_NN of_IN the_DT Florida_NNP election_NN would_MD be_VB shattered_VBN if_IN they_PRP have_VBP to_TO wait_VB until_IN Saturday_NNP to_TO begin_VB counting_VBG disputed_JJ ballots_NNS ,_, and_CC they_PRP began_VBD an_DT appeal_NN to_TO the_DT Florida_NNP Supreme_NNP Court_NNP to_TO do_VB the_DT counting_VBG itself_PRP ,_, immediately_RB ._. 

@@ -6,8 +6,8 @@ BC-GORE-ART-515&AMP;ADD-NYT_JJ
 
 GORE_NNP CAMP_NNP PLANS_NNP TO_NNP ASSAIL_NNP BUSH'S_NNP RECORD_. 
 
-(ART_JJ ADV_NN :_: Photo_NNP NYT12_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP photo_NNP clients_NNS ._. 
-Nonsubscribers_NNS can_MD purchase_VB one-time_JJ rights_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .)_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP KEVIN_NNP SACK_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
+[ART_JJ ADV_NN :_: Photo_NNP NYT12_NNP is_VBZ being_VBG sent_VBN to_TO NYT_NNP photo_NNP clients_NNS ._. 
+Nonsubscribers_NNS can_MD purchase_VB one-time_JJ rights_NNS by_IN calling_VBG 888-603-1036_CD or_CC 888-346-9867_CD .]_JJ &QL_NNS ;_: &UR_NNS ;_: By_NNP KEVIN_NNP SACK_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNS ;_: &UR_NNS ;_: c.2000_CD N.Y_NNP ._. 
 Times_NNP News_NNP Service_NNP &LR_NNP ;_: &QC_NNP ;_: &QL_NNP ;_: 
 
 LONGBOAT_NNP KEY_NNP ,_, Fla._NNP __NNP As_IN Vice_NNP President_NNP Al_NNP Gore_NNP fends_NNS off_RP intensified_JJ attacks_NNS on_IN his_PRP$ credibility_NN ,_, his_PRP$ campaign_NN and_CC Democratic_JJ surrogates_NNS are_VBP planning_VBG a_DT multimedia_NN offensive_JJ this_DT week_NN that_IN assails_DT Bush_NNP for_IN his_PRP$ record_NN in_IN Texas_NNP and_CC his_PRP$ occasional_JJ slips_NNS of_IN the_DT tongue_NN ,_, Gore_NNP aides_NNS said_VBD Sunday_NNP ._. 
@@ -54,7 +54,7 @@ In_IN addition_NN ,_, Lieberman_NNP will_MD be_VB dispatched_VBN to_TO Texas_NNP
 Other_NNP surrogates_NNS ,_, including_VBG members_NNS of_IN Congress_NNP ,_, also_RB will_MD be_VB used_VBN ,_, said_VBD Douglas_NNP Hattaway_NNP ,_, a_DT Gore_JJ spokesman_NN ._. 
 
 
-(STORY_NNP CAN_NNP END_NNP HERE_NNP __NNP OPTIONAL_NNP MATERIAL_NNP FOLLOWS_NNP )_. 
+[STORY_NNP CAN_NNP END_NNP HERE_NNP __NNP OPTIONAL_NNP MATERIAL_NNP FOLLOWS_NNP ]_. 
 
 This_DT is_VBZ not_RB a_DT new_JJ role_NN for_IN Lieberman_NNP ._. 
 He_PRP traveled_VBD to_TO Houston_NNP in_IN late_JJ September_NNP to_TO attack_VB Bush_NNP 's_POS environmental_JJ record_NN at_IN a_DT park_NN in_IN the_DT shadow_NN of_IN an_DT oil_NN refinery_NN ._. 
