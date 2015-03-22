@@ -1,5 +1,5 @@
 #!/bin/bash
 for file in *.parsed
 do
-    echo mv $file ${file/.tagged/}
+    mv $file ${file/.tagged/}
 done
