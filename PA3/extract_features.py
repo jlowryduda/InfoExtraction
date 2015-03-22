@@ -3,6 +3,7 @@ import os
 import json
 import re
 from nltk.tree import Tree
+from AttributeTree import AttributeTree as ATree
 
 def read_from_file(filename):
     """
@@ -65,6 +66,7 @@ def minimum_complete_tree(line, constituents):
         subtree_indices = tree.treeposition_spanning_leaves(int(line[3]),
                                                             int(line[10]))
         subtree = tree[subtree_indices]
+        subtree = populate_entity_type(line, subtree)
         return tree_to_string(subtree)
     else:
         return '()'
@@ -88,30 +90,35 @@ def tree_to_string(subtree):
     string = tree.replace(') (', ')(')
     return string
 
-    
-    if int(line[2]) == int(line[8]):
-        tree = constituents[int(line[2])]
-        subtree = tree.treeposition_spanning_leaves(int(line[3]), int(line[10]))
-        subtree_string = tree[subtree].pprint()
-        subtree_lines = subtree_string.splitlines()
-        tree = [t.strip() for t in subtree_lines]
-        tree = ' '.join(tree)
-        # The SVM-light-TK documentation suggests that no spaces are allowed
-        # between sets of parentheses, so:
-        tree = tree.replace(') (', ')(')
-        return tree
-    else:
-        return '()'
-    
+
+def populate_entity_type(line, subtree):
+    """
+    Given a subtree containing the two mentions in the line, populate the nodes
+    in the subtree representing those mentions with the entity_type attribute
+    that matches the mention.
+    """
+    entity_1 = line[5]
+    entity_2 = line[11]
+    span_1 = range(int(line[3]), int(line[4]))
+    span_2 = range(int(line[9]), int(line[10]))
+    leaves_1 = [subtree.leaf_treeposition(index) for index in span_1]
+    leaves_2 = [subtree.leaf_treeposition(index) for index in span_2]
+    for index in leaves_1:
+        # Leave off last index to move up from the leaf to its parent node 
+        subtree[index[:-1]].entity_type = entity_1
+    for index in leaves_2:
+        subtree[index[:-1]].entity_type = entity_2
+    return subtree
+
 
 def extract_features(lines):
     """
     Given lines of data, extracts features.
     """
     features = []
-    curr_file = None
     j_path = os.getcwd() + '/data/jsons/'
     p_path = os.getcwd() + '/data/parsed/'
+    curr_file = None
     for line in lines:
         if line[1] != curr_file:
             curr_file = line[1]
@@ -127,7 +134,7 @@ def extract_features(lines):
                 constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 2 == 1]
-                constituents = [Tree.fromstring(c) for c in constituents]
+                constituents = [ATree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   '\t|BT|',
                   minimum_complete_tree(line, constituents),
