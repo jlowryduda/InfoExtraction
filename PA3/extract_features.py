@@ -63,14 +63,44 @@ def minimum_complete_tree(line, constituents):
     """
     if int(line[2]) == int(line[8]):
         tree = constituents[int(line[2])]
+        tree = ATree.fromstring(tree)
+        tree = populate_entity_type(line, tree)
         subtree_indices = tree.treeposition_spanning_leaves(int(line[3]),
                                                             int(line[10]))
         subtree = tree[subtree_indices]
-        subtree = populate_entity_type(line, subtree)
         return tree_to_string(subtree)
     else:
         return '()'
-    
+
+
+def path_enclosed_tree(line, constituents):
+    """
+    Given a line with the indices of two mentions and a list of constituent
+    parses, produce the path enclosed tree spanning those two mentions.
+    """
+    if int(line[2]) == int(line[8]):
+        tree = constituents[int(line[2])]
+        tree = ATree.fromstring(tree)
+        tree = populate_entity_type(line, tree)
+        subtree_indices = tree.treeposition_spanning_leaves(int(line[3]),
+                                                            int(line[10]))
+        subtree = tree[subtree_indices]
+        # AND THEN WE DO SOME TREE-TRIMMING STUFF AS DISCUSSED:
+        
+        
+def get_independent_node(subtree, mention_index, trimmed_index):
+    """
+    Given a subtree, the leaf index of the mention within that subtree, and the
+    index of a leaf to be trimmed from the subtree, get the index list of the
+    part of the tree to be trimmed.
+    """
+    mention_indices = subtree.leaf_treeposition(mention_index)
+    trimmed_indices = subtree.leaf_treeposition(trimmed_index)
+    for i in range(min(len(mention_indices), len(trimmed_indices))):
+        if mention_indices[i] != trimmed_indices[i]:
+            break
+    return trimmed_indices[:i + 1]
+
 
 def tree_to_string(subtree):
     """
@@ -91,7 +121,7 @@ def tree_to_string(subtree):
     return string
 
 
-def populate_entity_type(line, subtree):
+def populate_entity_type(line, tree):
     """
     Given a subtree containing the two mentions in the line, populate the nodes
     in the subtree representing those mentions with the entity_type attribute
@@ -101,14 +131,14 @@ def populate_entity_type(line, subtree):
     entity_2 = line[11]
     span_1 = range(int(line[3]), int(line[4]))
     span_2 = range(int(line[9]), int(line[10]))
-    leaves_1 = [subtree.leaf_treeposition(index) for index in span_1]
-    leaves_2 = [subtree.leaf_treeposition(index) for index in span_2]
+    leaves_1 = [tree.leaf_treeposition(index) for index in span_1]
+    leaves_2 = [tree.leaf_treeposition(index) for index in span_2]
     for index in leaves_1:
         # Leave off last index to move up from the leaf to its parent node 
-        subtree[index[:-1]].entity_type = entity_1
+        tree[index[:-1]].entity_type = entity_1
     for index in leaves_2:
-        subtree[index[:-1]].entity_type = entity_2
-    return subtree
+        tree[index[:-1]].entity_type = entity_2
+    return tree
 
 
 def extract_features(lines):
@@ -134,7 +164,6 @@ def extract_features(lines):
                 constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 2 == 1]
-                constituents = [ATree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   '\t|BT|',
                   minimum_complete_tree(line, constituents),
