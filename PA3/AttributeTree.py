@@ -1,6 +1,6 @@
-from nltk.tree import Tree
+from nltk.tree import ParentedTree
 
-class AttributeTree(Tree):
+class AttributeTree(ParentedTree):
     def __init__(self, node, children=None):
         super(self.__class__, self).__init__(node, children)
         self.token = None

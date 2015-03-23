@@ -79,13 +79,33 @@ def path_enclosed_tree(line, constituents):
     parses, produce the path enclosed tree spanning those two mentions.
     """
     if int(line[2]) == int(line[8]):
+        # Get full tree:
         tree = constituents[int(line[2])]
         tree = ATree.fromstring(tree)
         tree = populate_entity_type(line, tree)
-        subtree_indices = tree.treeposition_spanning_leaves(int(line[3]),
-                                                            int(line[10]))
-        subtree = tree[subtree_indices]
-        # AND THEN WE DO SOME TREE-TRIMMING STUFF AS DISCUSSED:
+        # Get pointers to the specific mentions in the tree:
+        pointer_mention_1 = tree.leaf_treeposition(int(line[3]))
+        pointer_mention_2 = tree.leaf_treeposition(int(line[10]) - 1)
+
+        # Remove all right siblings from mention 2, moving up to root
+        # (We do this first so as not to screw up indices for left siblings)
+        curr = tree[pointer_mention_2[:-1]]
+        while curr.parent():
+            while curr.right_sibling():
+                del tree[curr.right_sibling().treeposition()]
+            curr = curr.parent()
+
+        # Remove all left siblings from mention 1, moving up to root:
+        curr = tree[pointer_mention_1[:-1]]
+        while curr.parent():
+            while curr.left_sibling():
+                del tree[curr.left_sibling().treeposition()]
+            curr = curr.parent()
+
+        # Return trimmed tree:
+        return tree_to_string(tree)
+    else:
+        return '()'
         
         
 def get_independent_node(subtree, mention_index, trimmed_index):
@@ -166,7 +186,9 @@ def extract_features(lines):
                                 if i % 2 == 1]
         f_list = [get_label(line),
                   '\t|BT|',
-                  minimum_complete_tree(line, constituents),
+                  #minimum_complete_tree(line, constituents),
+                  #'|BT|',
+                  path_enclosed_tree(line, constituents),
                   '|ET|']
         features.append([f for f in f_list if f is not None])
     return features
