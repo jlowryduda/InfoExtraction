@@ -37,7 +37,7 @@ def get_label(line):
 def entity_type_pair(line):
     """
     Returns a string containing entity types of both mentions, a la
-    Jiang et al. 
+    Jiang et al.
     """
     return line[5] + "-" + line[11]
 
@@ -106,8 +106,8 @@ def path_enclosed_tree(line, constituents):
         return tree_to_string(tree)
     else:
         return '()'
-        
-        
+
+
 def get_independent_node(subtree, mention_index, trimmed_index):
     """
     Given a subtree, the leaf index of the mention within that subtree, and the
@@ -154,11 +154,26 @@ def populate_entity_type(line, tree):
     leaves_1 = [tree.leaf_treeposition(index) for index in span_1]
     leaves_2 = [tree.leaf_treeposition(index) for index in span_2]
     for index in leaves_1:
-        # Leave off last index to move up from the leaf to its parent node 
+        # Leave off last index to move up from the leaf to its parent node
         tree[index[:-1]].entity_type = entity_1
     for index in leaves_2:
         tree[index[:-1]].entity_type = entity_2
     return tree
+
+
+def get_bow_tree(line, constituents):
+    """
+    Return a bag-of-words tree representation, ex.
+    |BT| (BOW (What *)(does *)(S.O.S. *)(stand *)(for *)(? *))
+    """
+    pet = path_enclosed_tree(line, constituents)
+    tree = Tree.fromstring(pet)
+    leaves = set(tree.leaves())
+    output = "(BOW "
+    for leave in leaves:
+        output += "(" + leave + " *)"
+    output += ")"
+    return output
 
 
 def extract_features(lines):
@@ -184,11 +199,13 @@ def extract_features(lines):
                 constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 2 == 1]
+                get_bow_tree(line, constituents)
         f_list = [get_label(line),
                   '\t|BT|',
                   #minimum_complete_tree(line, constituents),
+                  #get_bow_tree(line, constituents),
                   #'|BT|',
-                  path_enclosed_tree(line, constituents),
+                  #path_enclosed_tree(line, constituents),
                   '|ET|']
         features.append([f for f in f_list if f is not None])
     return features
