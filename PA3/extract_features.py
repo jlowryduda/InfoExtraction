@@ -37,7 +37,7 @@ def get_label(line):
 def entity_type_pair(line):
     """
     Returns a string containing entity types of both mentions, a la
-    Jiang et al. 
+    Jiang et al.
     """
     return line[5] + "-" + line[11]
 
@@ -103,23 +103,9 @@ def path_enclosed_tree(line, constituents):
             curr = curr.parent()
 
         # Return trimmed tree:
-        return tree_to_string(tree)
+        return tree
     else:
-        return '()'
-        
-        
-def get_independent_node(subtree, mention_index, trimmed_index):
-    """
-    Given a subtree, the leaf index of the mention within that subtree, and the
-    index of a leaf to be trimmed from the subtree, get the index list of the
-    part of the tree to be trimmed.
-    """
-    mention_indices = subtree.leaf_treeposition(mention_index)
-    trimmed_indices = subtree.leaf_treeposition(trimmed_index)
-    for i in range(min(len(mention_indices), len(trimmed_indices))):
-        if mention_indices[i] != trimmed_indices[i]:
-            break
-    return trimmed_indices[:i + 1]
+        return ATree('S', [''])
 
 
 def tree_to_string(subtree):
@@ -154,11 +140,37 @@ def populate_entity_type(line, tree):
     leaves_1 = [tree.leaf_treeposition(index) for index in span_1]
     leaves_2 = [tree.leaf_treeposition(index) for index in span_2]
     for index in leaves_1:
-        # Leave off last index to move up from the leaf to its parent node 
+        # Leave off last index to move up from the leaf to its parent node
         tree[index[:-1]].entity_type = entity_1
     for index in leaves_2:
         tree[index[:-1]].entity_type = entity_2
     return tree
+
+
+def get_entity_tree(line, constituents):
+    tree = path_enclosed_tree(line, constituents)
+    indices = [tree.leaf_treeposition(i) for i in range(len(tree.leaves()))]
+    for i in indices:
+        entity_type = tree[i[:-1]].entity_type
+        if entity_type:
+            tree[i] = entity_type
+        else:
+            tree[i] = '*'
+    return tree
+
+
+def get_bow_tree(line, constituents):
+    """
+    Return a bag-of-words tree representation, ex.
+    (BOW (What *)(does *)(S.O.S. *)(stand *)(for *)(? *))
+    """
+    tree = path_enclosed_tree(line, constituents)
+    leaves = set(tree.leaves())
+    output = "(BOW "
+    for leaf in leaves:
+        output += "(" + leaf + " *)"
+    output += ")"
+    return output
 
 
 def extract_features(lines):
@@ -184,11 +196,15 @@ def extract_features(lines):
                 constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 2 == 1]
+                get_bow_tree(line, constituents)
         f_list = [get_label(line),
-                  '\t|BT|',
-                  #minimum_complete_tree(line, constituents),
-                  #'|BT|',
-                  path_enclosed_tree(line, constituents),
+                  '|BT|',
+                  #tree_to_string(minimum_complete_tree(line, constituents)),
+                  get_bow_tree(line, constituents),
+                  '|BT|',
+                  tree_to_string(path_enclosed_tree(line, constituents)),
+                  '|BT',
+                  tree_to_string(get_entity_tree(line, constituents)),
                   '|ET|']
         features.append([f for f in f_list if f is not None])
     return features
