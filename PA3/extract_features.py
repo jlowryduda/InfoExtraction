@@ -4,6 +4,7 @@ import json
 import re
 from nltk.tree import Tree
 from AttributeTree import AttributeTree as ATree
+from nltk.corpus import wordnet as wn
 
 def read_from_file(filename):
     """
@@ -68,12 +69,12 @@ def minimum_complete_tree(line, constituents):
         subtree_indices = tree.treeposition_spanning_leaves(int(line[3]),
                                                             int(line[10]))
         subtree = tree[subtree_indices]
-        return tree_to_string(subtree)
+        return subtree
     else:
-        return '()'
+        return ATree('S', [''])
 
 
-def path_enclosed_tree(line, constituents):
+def path_enclosed_tree(line, constituents, mentions=None, hypernyms=None):
     """
     Given a line with the indices of two mentions and a list of constituent
     parses, produce the path enclosed tree spanning those two mentions.
@@ -82,7 +83,10 @@ def path_enclosed_tree(line, constituents):
         # Get full tree:
         tree = constituents[int(line[2])]
         tree = ATree.fromstring(tree)
-        tree = populate_entity_type(line, tree)
+        if mentions:
+            tree = populate_entity_type(line, tree, mentions)
+        if hypernyms:
+            tree = populate_hypernym(line, tree, hypernyms)
         # Get pointers to the specific mentions in the tree:
         pointer_mention_1 = tree.leaf_treeposition(int(line[3]))
         pointer_mention_2 = tree.leaf_treeposition(int(line[10]) - 1)
@@ -127,35 +131,55 @@ def tree_to_string(subtree):
     return string
 
 
-def populate_entity_type(line, tree):
+def populate_entity_type(line, tree, mentions):
     """
     Given a subtree containing the two mentions in the line, populate the nodes
     in the subtree representing those mentions with the entity_type attribute
     that matches the mention.
     """
-    entity_1 = line[5]
-    entity_2 = line[11]
-    span_1 = range(int(line[3]), int(line[4]))
-    span_2 = range(int(line[9]), int(line[10]))
-    leaves_1 = [tree.leaf_treeposition(index) for index in span_1]
-    leaves_2 = [tree.leaf_treeposition(index) for index in span_2]
-    for index in leaves_1:
-        # Leave off last index to move up from the leaf to its parent node
-        tree[index[:-1]].entity_type = entity_1
-    for index in leaves_2:
-        tree[index[:-1]].entity_type = entity_2
+    index_span = range(int(line[3]), int(line[10]))
+    leaf_indices = [tree.leaf_treeposition(index) for index in index_span]
+    for i, index in enumerate(leaf_indices):
+        if str(index_span[i]) in mentions[line[2]]:
+            tree[index[:-1]].entity_type = mentions[line[2]][str(index_span[i])]
+        else:
+            tree[index[:-1]].entity_type = '*'
     return tree
 
 
-def get_entity_tree(line, constituents):
-    tree = path_enclosed_tree(line, constituents)
-    indices = [tree.leaf_treeposition(i) for i in range(len(tree.leaves()))]
-    for i in indices:
-        entity_type = tree[i[:-1]].entity_type
-        if entity_type:
-            tree[i] = entity_type
-        else:
-            tree[i] = '*'
+def populate_hypernym(line, tree, hypernym_file):
+    """
+    Given a subtree containing two mentions in the line, populate the nodes
+    in the subtree representing those mentions with the hypernym attribute
+    that matches the mention.
+    """
+    index_span = range(int(line[3]), int(line[10]))
+    hypernyms = [hypernym_file[int(line[2])][index][1] for index in index_span]
+    leaf_indices = [tree.leaf_treeposition(index) for index in index_span]
+    for i, index in enumerate(leaf_indices):
+        tree[index[:-1]].hypernym = hypernyms[i]
+    return tree
+
+
+def get_tree_by_attribute(line, constituents, attribute, data_structure):
+    if attribute == 'entity_type':
+        tree = path_enclosed_tree(line, constituents, mentions=data_structure)
+        indices = [tree.leaf_treeposition(i) for i in range(len(tree.leaves()))]
+        for i in indices:
+            entity_type = tree[i[:-1]].entity_type
+            if entity_type:
+                tree[i] = entity_type
+            else:
+                tree[i] = '*'
+    elif attribute == 'hypernym':
+        tree = path_enclosed_tree(line, constituents, hypernyms=data_structure)
+        indices = [tree.leaf_treeposition(i) for i in range(len(tree.leaves()))]
+        for i in indices:
+            hypernym = tree[i[:-1]].hypernym
+            if hypernym:
+                tree[i] = hypernym
+            else:
+                tree[i] = '*'
     return tree
 
 
@@ -173,13 +197,16 @@ def get_bow_tree(line, constituents):
     return output
 
 
-def extract_features(lines):
+def extract_features(lines, filename):
     """
     Given lines of data, extracts features.
     """
     features = []
     j_path = os.getcwd() + '/data/jsons/'
     p_path = os.getcwd() + '/data/parsed/'
+    h_path = os.getcwd() + '/data/hypernyms/'
+    with open(j_path + filename + '.original.json', 'r') as infile:
+        mention_file = json.load(infile)
     curr_file = None
     for line in lines:
         if line[1] != curr_file:
@@ -197,14 +224,22 @@ def extract_features(lines):
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 2 == 1]
                 get_bow_tree(line, constituents)
+            with open(h_path + curr_file + '.json', 'r') as infile:
+                hypernym_file = json.load(infile)
         f_list = [get_label(line),
                   '|BT|',
                   #tree_to_string(minimum_complete_tree(line, constituents)),
                   get_bow_tree(line, constituents),
                   '|BT|',
                   tree_to_string(path_enclosed_tree(line, constituents)),
-                  '|BT',
-                  tree_to_string(get_entity_tree(line, constituents)),
+                  '|BT|',
+                  tree_to_string(get_tree_by_attribute(line, constituents,
+                                                       'entity_type',
+                                                       mention_file[curr_file])),
+                  '|BT|',
+                  tree_to_string(get_tree_by_attribute(line, constituents,
+                                                       'hypernym',
+                                                       hypernym_file)),
                   '|ET|']
         features.append([f for f in f_list if f is not None])
     return features
@@ -246,19 +281,5 @@ if __name__ == "__main__":
         else:
             train = False
         lines = read_from_file(file_name)
-        features = extract_features(lines)
+        features = extract_features(lines, file_name)
         write_to_file(file_name, features, label_name, train)
-
-"""
-if __name__ == "__main__":
-    file_name = 'dev' #sys.argv[1]
-    label_name = 'PHYS.Located' #sys.argv[2]
-    file_type = 'train'
-    if file_type == 'train':
-        train = True
-    else:
-        train = False
-    lines = read_from_file(file_name)
-    features = extract_features(lines)
-    write_to_file(file_name, features, label_name, train)
-"""
