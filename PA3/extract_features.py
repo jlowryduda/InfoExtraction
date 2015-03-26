@@ -74,19 +74,20 @@ def minimum_complete_tree(line, constituents):
         return ATree('S', [''])
 
 
-def path_enclosed_tree(line, constituents, mentions=None, hypernyms=None):
+def path_enclosed_tree(line, constituents, attributes, attrib):
     """
     Given a line with the indices of two mentions and a list of constituent
     parses, produce the path enclosed tree spanning those two mentions.
+    Additionally take a data structure of attributes by token and a string
+    representing the specific attribute we're interested in, and produce the
+    tree with that attribute as the leaves.
     """
     if int(line[2]) == int(line[8]):
         # Get full tree:
         tree = constituents[int(line[2])]
         tree = ATree.fromstring(tree)
-        if mentions:
-            tree = populate_entity_type(line, tree, mentions)
-        if hypernyms:
-            tree = populate_hypernym(line, tree, hypernyms)
+        if attrib != 'token':
+            tree = populate_by_attribute(line, tree, attributes, attrib)
         # Get pointers to the specific mentions in the tree:
         pointer_mention_1 = tree.leaf_treeposition(int(line[3]))
         pointer_mention_2 = tree.leaf_treeposition(int(line[10]) - 1)
@@ -116,10 +117,6 @@ def tree_to_string(subtree):
     """
     Given a subtree, convert it to a string with all intervening whitespace
     stripped out to be used as a feature.
-
-    Eventually, we'll use the "attribute" parameter to specify which attribute
-    in the tree we want to highlight instead of the leaves, but that's for
-    another day.
     """
     subtree_string = subtree.pprint()
     subtree_lines = subtree_string.splitlines()
@@ -131,64 +128,30 @@ def tree_to_string(subtree):
     return string
 
 
-def populate_entity_type(line, tree, mentions):
+def populate_by_attribute(line, tree, attributes, attrib):
     """
-    Given a subtree containing the two mentions in the line, populate the nodes
-    in the subtree representing those mentions with the entity_type attribute
-    that matches the mention.
-    """
-    index_span = range(int(line[3]), int(line[10]))
-    leaf_indices = [tree.leaf_treeposition(index) for index in index_span]
-    for i, index in enumerate(leaf_indices):
-        if str(index_span[i]) in mentions[line[2]]:
-            tree[index[:-1]].entity_type = mentions[line[2]][str(index_span[i])]
-        else:
-            tree[index[:-1]].entity_type = '*'
-    return tree
-
-
-def populate_hypernym(line, tree, hypernym_file):
-    """
-    Given a subtree containing two mentions in the line, populate the nodes
-    in the subtree representing those mentions with the hypernym attribute
-    that matches the mention.
+    Takes a line from an input data file such as train, dev, or test;
+    a tree representing the sentence indicated in that line;
+    a data structure which can be indexed into by sentence and token to retrieve
+    various attributes of that token such as hypernym and entity type;
+    and a string representing which attribute we want to get.
+    Goes through the tree for each index between the two mentions, replacing
+    the leaf with the value of whatever attributes was supplied as a parameter.
     """
     index_span = range(int(line[3]), int(line[10]))
-    hypernyms = [hypernym_file[int(line[2])][index][1] for index in index_span]
+    attribs = [attributes[int(line[2])][index][attrib] for index in index_span]
     leaf_indices = [tree.leaf_treeposition(index) for index in index_span]
     for i, index in enumerate(leaf_indices):
-        tree[index[:-1]].hypernym = hypernyms[i]
+        tree[index] = attribs[i]
     return tree
 
 
-def get_tree_by_attribute(line, constituents, attribute, data_structure):
-    if attribute == 'entity_type':
-        tree = path_enclosed_tree(line, constituents, mentions=data_structure)
-        indices = [tree.leaf_treeposition(i) for i in range(len(tree.leaves()))]
-        for i in indices:
-            entity_type = tree[i[:-1]].entity_type
-            if entity_type:
-                tree[i] = entity_type
-            else:
-                tree[i] = '*'
-    elif attribute == 'hypernym':
-        tree = path_enclosed_tree(line, constituents, hypernyms=data_structure)
-        indices = [tree.leaf_treeposition(i) for i in range(len(tree.leaves()))]
-        for i in indices:
-            hypernym = tree[i[:-1]].hypernym
-            if hypernym:
-                tree[i] = hypernym
-            else:
-                tree[i] = '*'
-    return tree
-
-
-def get_bow_tree(line, constituents):
+def get_bow_tree(line, constituents, attributes):
     """
     Return a bag-of-words tree representation, ex.
     (BOW (What *)(does *)(S.O.S. *)(stand *)(for *)(? *))
     """
-    tree = path_enclosed_tree(line, constituents)
+    tree = path_enclosed_tree(line, constituents, attributes, 'token')
     leaves = set(tree.leaves())
     output = "(BOW "
     for leaf in leaves:
@@ -202,18 +165,15 @@ def extract_features(lines, filename):
     Given lines of data, extracts features.
     """
     features = []
-    j_path = os.getcwd() + '/data/jsons/'
+    a_path = os.getcwd() + '/data/attributes/'
     p_path = os.getcwd() + '/data/parsed/'
-    h_path = os.getcwd() + '/data/hypernyms/'
-    with open(j_path + filename + '.original.json', 'r') as infile:
-        mention_file = json.load(infile)
     curr_file = None
     for line in lines:
         if line[1] != curr_file:
             curr_file = line[1]
             print(curr_file)
-            with open(j_path + curr_file + '.json', 'r') as infile:
-                sents = json.load(infile)
+            with open(a_path + curr_file + '.json', 'r') as infile:
+                attributes = json.load(infile)
             with open(p_path + curr_file + '.parsed', 'r') as infile:
                 # Constituency parses and dependency parses are separated by
                 # two new line characters.
@@ -223,23 +183,19 @@ def extract_features(lines, filename):
                 constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 2 == 1]
-                get_bow_tree(line, constituents)
-            with open(h_path + curr_file + '.json', 'r') as infile:
-                hypernym_file = json.load(infile)
         f_list = [get_label(line),
                   '|BT|',
                   #tree_to_string(minimum_complete_tree(line, constituents)),
-                  get_bow_tree(line, constituents),
+                  get_bow_tree(line, constituents, attributes),
                   '|BT|',
-                  tree_to_string(path_enclosed_tree(line, constituents)),
+                  tree_to_string(path_enclosed_tree(line, constituents,
+                                                    attributes, 'token')),
                   '|BT|',
-                  tree_to_string(get_tree_by_attribute(line, constituents,
-                                                       'entity_type',
-                                                       mention_file[curr_file])),
+                  tree_to_string(path_enclosed_tree(line, constituents,
+                                                    attributes, 'entity_type')),
                   '|BT|',
-                  tree_to_string(get_tree_by_attribute(line, constituents,
-                                                       'hypernym',
-                                                       hypernym_file)),
+                  tree_to_string(path_enclosed_tree(line, constituents,
+                                                    attributes, 'hypernym')),
                   '|ET|']
         features.append([f for f in f_list if f is not None])
     return features
