@@ -166,8 +166,8 @@ def get_wm1(line, flat_features_dict):
     words = [clean_string(t) for t in line[7].split("_")]
     output = []
     for word in words:
-        if word in flat_features_dict.feature_dict:
-            feature_id = flat_features_dict.feature_dict[word]["wm1"]
+        if word in flat_features_dict:
+            feature_id = flat_features_dict[word]
             output.append((int(feature_id), "1"))
     return output
 
@@ -175,10 +175,30 @@ def get_wm2(line, flat_features_dict):
     words = [clean_string(t) for t in line[13].split("_")]
     output = []
     for word in words:
-        if word in flat_features_dict.feature_dict:
-            feature_id = flat_features_dict.feature_dict[word]["wm2"]
+        if word in flat_features_dict:
+            feature_id = flat_features_dict[word]
             output.append((int(feature_id), "1"))
     return output
+
+
+def wb_null(line):
+    """
+    If there is no word between mentions.
+    """
+    if (line[2] == line[8]) and (line[4] == line[9]):
+        feature_id = flat_features_dict['wb_null']
+        return (int(feature_id), "1") 
+
+def word_between(line, attributes):
+    """
+    If there is one word between the mentions, return that word.
+    """
+    sentence_no = line[2]
+    index_1 = line[3]
+    index_2 = line[9]
+    # LOL THIS IS NOT DONE YET I NEED TO SLEEP GONNA DO MORE TMR <3
+    attributes[index_1]
+
 
 
 def gather_flat_features(flat_f):
@@ -197,7 +217,8 @@ def extract_features(lines, filename):
     features = []
     a_path = os.getcwd() + '/data/attributes/'
     p_path = os.getcwd() + '/data/parsed/'
-    flat_features_list = ["wm1", "wm2"]
+    s_path = os.getcwd() + '/data/jsons/'
+    flat_features_list = ["wm1", "wm2", "wb_null"]
     flat_features_dict = FeatureDict("./vocabulary", flat_features_list)
     curr_file = None
     for line in lines:
@@ -217,7 +238,8 @@ def extract_features(lines, filename):
                                 if i % 2 == 1]
 
         flat_f = [get_wm1(line, flat_features_dict),
-                  get_wm2(line, flat_features_dict)]
+                  get_wm2(line, flat_features_dict),
+                  wb_null(line)]
 
         f_list = [get_label(line),
                   '|BT|',
