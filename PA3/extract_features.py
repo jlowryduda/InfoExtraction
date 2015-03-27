@@ -4,10 +4,10 @@ import json
 import re
 import itertools
 import operator
+import pickle
 from nltk.tree import Tree
 from feature_dict import FeatureDict
 from AttributeTree import AttributeTree as ATree
-from nltk.corpus import wordnet as wn
 
 
 def read_from_file(filename):
@@ -206,11 +206,9 @@ def gather_flat_features(flat_f):
     flat_f = [str(feature_id) + ":" + value for feature_id, value in flat_f]
     flat_f = " ".join(flat_f)
     flat_f = "|BV| " + flat_f + " |EV|"
-    print "flat"
-    print flat_f
     return flat_f
 
-def extract_features(lines, filename):
+def extract_features(lines, filename, feature_dict=None):
     """
     Given lines of data, extracts features.
     """
@@ -218,9 +216,13 @@ def extract_features(lines, filename):
     a_path = os.getcwd() + '/data/attributes/'
     p_path = os.getcwd() + '/data/parsed/'
     s_path = os.getcwd() + '/data/jsons/'
-    flat_features_dict = FeatureDict()
+    # When we're training, feature_dict will be None so we'll build one from
+    # scratch. If test, we'll fetch the preexisting one from the parameter.
+    if not feature_dict:
+        flat_features_dict = FeatureDict()
+    else:
+        flat_features_dict = feature_dict
     curr_file = None
-    print "hi1"
     for line in lines:
         if line[1] != curr_file:
             curr_file = line[1]
@@ -241,9 +243,6 @@ def extract_features(lines, filename):
                   get_wm2(line, flat_features_dict),
                   wb_null(line, flat_features_dict)]
 
-        print "hi"
-
-
         f_list = [get_label(line),
                   '|BT|',
                   #tree_to_string(minimum_complete_tree(line, constituents)),
@@ -260,16 +259,23 @@ def extract_features(lines, filename):
                   '|ET|',
                   gather_flat_features(flat_f)]
         features.append([f for f in f_list if f is not None])
+        
+    # When feature_dict was None, we were training so now we save the
+    # feature_dict we created for when we test.
+    if not feature_dict:
+        with open('feature_dict.obj', 'w') as outfile:
+            pickle.dump(flat_features_dict, outfile)
     return features
 
-def write_to_file(filename, features, label=None, train=False):
+def write_to_file(filename, features, file_type, label=None):
     """
     Write resulting features to a feature file.  If this isn't training data,
     produce two files, one with labels and one without.  The label parameter
     indicates whether we want to re-write the file as a binary classification
     of that specific label.
     """
-    with open(os.getcwd() + '/data/' + filename + '.labeled', 'w') as outfile:
+    path = os.getcwd() + '/data/' + filename
+    with open(path + '.labeled', 'w') as outfile:
         for feature in features:
             if label and (feature[0] != label):
                 feature[0] = '-1'
@@ -277,8 +283,8 @@ def write_to_file(filename, features, label=None, train=False):
                 feature[0] = '1'
             outfile.write(' '.join(feature))
             outfile.write('\n')
-    if not train:
-        with open(os.getcwd() + '/data/' + filename + '.nolabel', 'w') as outfile:
+    if file_type != 'test':
+        with open(path + '.nolabel', 'w') as outfile:
             for feature in features:
                 outfile.write(' '.join(feature[1:]))
                 outfile.write('\n')
@@ -294,9 +300,10 @@ if __name__ == "__main__":
         label_name = sys.argv[2]
         file_type = sys.argv[3]
         if file_type == 'train':
-            train = True
+            feature_dict = None
         else:
-            train = False
+            with open('feature_dict.obj', 'r') as infile:
+                feature_dict = pickle.load(infile)
         lines = read_from_file(file_name)
-        features = extract_features(lines, file_name)
-        write_to_file(file_name, features, label_name, train)
+        features = extract_features(lines, file_name, feature_dict)
+        write_to_file(file_name, features, file_type, label_name)
