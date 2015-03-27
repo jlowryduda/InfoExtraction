@@ -2,7 +2,7 @@ import nltk
 
 class FeatureDict:
     """
-    Map features to indices. Initialize with a list of feature names.
+    Map features (or anything) to indices.
     Heavily inspired by Plotnick's CodeBook class.
     """
     def __init__(self):
