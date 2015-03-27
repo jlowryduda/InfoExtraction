@@ -12,8 +12,6 @@ class FeatureDict:
         self.feature_dict =\
             dict((feature, index) for index, feature in enumerate(feature_set))
         self.read_vocabulary()
-        for item in self.vocab:
-            self.add(item)
 
 
     def __contains__(self, item):
