@@ -2,7 +2,10 @@ import sys
 import os
 import json
 import re
+import itertools
+import operator
 from nltk.tree import Tree
+from feature_dict import FeatureDict
 from AttributeTree import AttributeTree as ATree
 from nltk.corpus import wordnet as wn
 
@@ -159,6 +162,33 @@ def get_bow_tree(line, constituents, attributes):
     output += ")"
     return output
 
+def get_wm1(line, flat_features_dict):
+    words = [clean_string(t) for t in line[7].split("_")]
+    output = []
+    for word in words:
+        if word in flat_features_dict.feature_dict:
+            feature_id = flat_features_dict.feature_dict[word]["wm1"]
+            output.append((int(feature_id), "1"))
+    return output
+
+def get_wm2(line, flat_features_dict):
+    words = [clean_string(t) for t in line[13].split("_")]
+    output = []
+    for word in words:
+        if word in flat_features_dict.feature_dict:
+            feature_id = flat_features_dict.feature_dict[word]["wm2"]
+            output.append((int(feature_id), "1"))
+    return output
+
+
+def gather_flat_features(flat_f):
+    flat_f = list(itertools.chain(*flat_f))
+    flat_f = list(set(flat_f))
+    flat_f = sorted(flat_f, key=operator.itemgetter(0))
+    flat_f = [str(feature_id) + ":" + value for feature_id, value in flat_f]
+    flat_f = " ".join(flat_f)
+    flat_f = "|BV| " + flat_f + " |EV|"
+    return flat_f
 
 def extract_features(lines, filename):
     """
@@ -167,6 +197,8 @@ def extract_features(lines, filename):
     features = []
     a_path = os.getcwd() + '/data/attributes/'
     p_path = os.getcwd() + '/data/parsed/'
+    flat_features_list = ["wm1", "wm2"]
+    flat_features_dict = FeatureDict("./vocabulary", flat_features_list)
     curr_file = None
     for line in lines:
         if line[1] != curr_file:
@@ -183,6 +215,10 @@ def extract_features(lines, filename):
                 constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 2 == 1]
+
+        flat_f = [get_wm1(line, flat_features_dict),
+                  get_wm2(line, flat_features_dict)]
+
         f_list = [get_label(line),
                   '|BT|',
                   #tree_to_string(minimum_complete_tree(line, constituents)),
@@ -196,7 +232,8 @@ def extract_features(lines, filename):
                   '|BT|',
                   tree_to_string(path_enclosed_tree(line, constituents,
                                                     attributes, 'hypernym')),
-                  '|ET|']
+                  '|ET|',
+                  gather_flat_features(flat_f)]
         features.append([f for f in f_list if f is not None])
     return features
 
