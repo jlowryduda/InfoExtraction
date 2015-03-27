@@ -10,15 +10,8 @@ from feature_dict import FeatureDict
 from AttributeTree import AttributeTree as ATree
 
 
-def read_from_file(filename):
-    """
-    Read in data from file and do preprocessing on it for later use.
-    """
-    with open(os.getcwd() + '/data/' + filename + '.original', 'r') as infile:
-        lines = infile.readlines()
+### HELPER METHODS ###
 
-    lines = [line.split() for line in lines]
-    return lines
 
 def clean_string(s):
     """Helper function that does some basic preprocessing on a string"""
@@ -37,25 +30,9 @@ def get_label(line):
     """
     return line[0]
 
-def entity_type_pair(line):
-    """
-    Returns a string containing entity types of both mentions, a la
-    Jiang et al.
-    """
-    return line[5] + "-" + line[11]
 
-def interceding_in(line, sents):
-    """
-    Returns true if the two mentions appear in the same sentence, the second
-    mention is of type GPE, and the word "in" appears between the two mentions.
-    """
-    if int(line[2]) == int(line[8]) and line[11] == 'GPE':
-        sent = sents[int(line[2])]
-        interceding_span = sent[int(line[4]):int(line[9])]
-        tokens = [clean_string(item[0]) for item in interceding_span]
-        if 'in' in tokens:
-            return "interceding_in=True"
-    pass
+### TREE METHODS ###
+
 
 def minimum_complete_tree(line, constituents):
     """
@@ -72,6 +49,7 @@ def minimum_complete_tree(line, constituents):
         return subtree
     else:
         return ATree('S', [''])
+
 
 def path_enclosed_tree(line, constituents, attributes, attrib):
     """
@@ -111,19 +89,6 @@ def path_enclosed_tree(line, constituents, attributes, attrib):
     else:
         return ATree('S', [''])
 
-def tree_to_string(subtree):
-    """
-    Given a subtree, convert it to a string with all intervening whitespace
-    stripped out to be used as a feature.
-    """
-    subtree_string = subtree.pprint()
-    subtree_lines = subtree_string.splitlines()
-    tree = [t.strip() for t in subtree_lines]
-    tree = ' '.join(tree)
-    # The SVM-light-TK documentation suggests that no spaces are allowed
-    # between sets of parentheses, so:
-    string = tree.replace(') (', ')(')
-    return string
 
 def populate_by_attribute(line, tree, attributes, attrib):
     """
@@ -142,6 +107,22 @@ def populate_by_attribute(line, tree, attributes, attrib):
         tree[index] = attribs[i]
     return tree
 
+
+def tree_to_string(subtree):
+    """
+    Given a subtree, convert it to a string with all intervening whitespace
+    stripped out to be used as a feature.
+    """
+    subtree_string = subtree.pprint()
+    subtree_lines = subtree_string.splitlines()
+    tree = [t.strip() for t in subtree_lines]
+    tree = ' '.join(tree)
+    # The SVM-light-TK documentation suggests that no spaces are allowed
+    # between sets of parentheses, so:
+    string = tree.replace(') (', ')(')
+    return string
+
+
 def get_bow_tree(line, constituents, attributes):
     """
     Return a bag-of-words tree representation, ex.
@@ -155,6 +136,41 @@ def get_bow_tree(line, constituents, attributes):
     output += ")"
     return output
 
+
+### FLAT FEATURE METHODS ###
+
+
+def entity_type_pair(line, flat_features_dict):
+    """
+    Returns a string containing entity types of both mentions, a la
+    Jiang et al.
+    """
+    feature = line[5] + "-" + line[11]
+    if (feature) in flat_features_dict:
+        feature_id = flat_features_dict[(feature)]
+    else:
+        feature_id = flat_features_dict.add((feature))
+    return [(int(feature_id), "1")]
+
+
+def interceding_in(line, attributes, flat_features_dict):
+    """
+    Returns true if the two mentions appear in the same sentence, the second
+    mention is of type GPE, and the word "in" appears between the two mentions.
+    """
+    if int(line[2]) == int(line[8]) and line[11] == 'GPE':
+        sent = attributes[int(line[2])]
+        interceding_span = sent[int(line[4]):int(line[9])]
+        tokens = [clean_string(item['token']) for item in interceding_span]
+        if ("interceding_in") in flat_features_dict:
+            feature_id = flat_features_dict[("interceding_in")]
+        else:
+            feature_id = flat_features_dict.add(("interceding_in"))
+        if 'in' in tokens:
+            return [(int(feature_id), "1")]
+    return []
+
+
 def get_wm1(line, flat_features_dict):
     words = [clean_string(t) for t in line[7].split("_")]
     output = []
@@ -166,6 +182,7 @@ def get_wm1(line, flat_features_dict):
         output.append((int(feature_id), "1"))
     return output
 
+
 def get_wm2(line, flat_features_dict):
     words = [clean_string(t) for t in line[13].split("_")]
     output = []
@@ -176,6 +193,7 @@ def get_wm2(line, flat_features_dict):
             feature_id = flat_features_dict.add((word, "wm2"))
         output.append((int(feature_id), "1"))
     return output
+
 
 def wb_null(line, flat_features_dict):
     """
@@ -189,6 +207,7 @@ def wb_null(line, flat_features_dict):
         return [(int(feature_id), "1")]
     return []
 
+
 def word_between(line, attributes):
     """
     If there is one word between the mentions, return that word.
@@ -199,6 +218,7 @@ def word_between(line, attributes):
     # LOL THIS IS NOT DONE YET I NEED TO SLEEP GONNA DO MORE TMR <3
     attributes[index_1]
 
+
 def gather_flat_features(flat_f):
     flat_f = list(itertools.chain(*flat_f))
     flat_f = list(set(flat_f))
@@ -208,6 +228,47 @@ def gather_flat_features(flat_f):
     flat_f = "|BV| " + flat_f + " |EV|"
     return flat_f
 
+
+### FILE READ/WRITE METHODS ###
+
+
+def read_from_file(filename):
+    """
+    Read in data from file and do preprocessing on it for later use.
+    """
+    with open(os.getcwd() + '/data/' + filename + '.original', 'r') as infile:
+        lines = infile.readlines()
+
+    lines = [line.split() for line in lines]
+    return lines
+
+
+def write_to_file(filename, features, file_type, label=None):
+    """
+    Write resulting features to a feature file.  If this isn't training data,
+    produce two files, one with labels and one without.  The label parameter
+    indicates whether we want to re-write the file as a binary classification
+    of that specific label.
+    """
+    path = os.getcwd() + '/data/' + filename
+    with open(path + '.labeled', 'w') as outfile:
+        for feature in features:
+            if label and (feature[0] != label):
+                feature[0] = '-1'
+            else:
+                feature[0] = '1'
+            outfile.write(' '.join(feature))
+            outfile.write('\n')
+    if file_type != 'test':
+        with open(path + '.nolabel', 'w') as outfile:
+            for feature in features:
+                outfile.write(' '.join(feature[1:]))
+                outfile.write('\n')
+
+
+### FEATURE EXTRACTION METHOD ###
+
+
 def extract_features(lines, filename, feature_dict=None):
     """
     Given lines of data, extracts features.
@@ -215,7 +276,6 @@ def extract_features(lines, filename, feature_dict=None):
     features = []
     a_path = os.getcwd() + '/data/attributes/'
     p_path = os.getcwd() + '/data/parsed/'
-    s_path = os.getcwd() + '/data/jsons/'
     # When we're training, feature_dict will be None so we'll build one from
     # scratch. If test, we'll fetch the preexisting one from the parameter.
     if not feature_dict:
@@ -241,7 +301,9 @@ def extract_features(lines, filename, feature_dict=None):
 
         flat_f = [get_wm1(line, flat_features_dict),
                   get_wm2(line, flat_features_dict),
-                  wb_null(line, flat_features_dict)]
+                  wb_null(line, flat_features_dict),
+                  interceding_in(line, attributes, flat_features_dict),
+                  entity_type_pair(line, flat_features_dict)]
 
         f_list = [get_label(line),
                   '|BT|',
@@ -267,27 +329,7 @@ def extract_features(lines, filename, feature_dict=None):
             pickle.dump(flat_features_dict, outfile)
     return features
 
-def write_to_file(filename, features, file_type, label=None):
-    """
-    Write resulting features to a feature file.  If this isn't training data,
-    produce two files, one with labels and one without.  The label parameter
-    indicates whether we want to re-write the file as a binary classification
-    of that specific label.
-    """
-    path = os.getcwd() + '/data/' + filename
-    with open(path + '.labeled', 'w') as outfile:
-        for feature in features:
-            if label and (feature[0] != label):
-                feature[0] = '-1'
-            else:
-                feature[0] = '1'
-            outfile.write(' '.join(feature))
-            outfile.write('\n')
-    if file_type != 'test':
-        with open(path + '.nolabel', 'w') as outfile:
-            for feature in features:
-                outfile.write(' '.join(feature[1:]))
-                outfile.write('\n')
+
 
 
 if __name__ == "__main__":
