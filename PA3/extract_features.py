@@ -20,7 +20,6 @@ def read_from_file(filename):
     lines = [line.split() for line in lines]
     return lines
 
-
 def clean_string(s):
     """Helper function that does some basic preprocessing on a string"""
     s = s.replace("`", "")
@@ -30,7 +29,6 @@ def clean_string(s):
         s = s[1:]
     s = s.lower()
     return s
-
 
 def get_label(line):
     """
@@ -46,7 +44,6 @@ def entity_type_pair(line):
     """
     return line[5] + "-" + line[11]
 
-
 def interceding_in(line, sents):
     """
     Returns true if the two mentions appear in the same sentence, the second
@@ -59,7 +56,6 @@ def interceding_in(line, sents):
         if 'in' in tokens:
             return "interceding_in=True"
     pass
-
 
 def minimum_complete_tree(line, constituents):
     """
@@ -76,7 +72,6 @@ def minimum_complete_tree(line, constituents):
         return subtree
     else:
         return ATree('S', [''])
-
 
 def path_enclosed_tree(line, constituents, attributes, attrib):
     """
@@ -116,7 +111,6 @@ def path_enclosed_tree(line, constituents, attributes, attrib):
     else:
         return ATree('S', [''])
 
-
 def tree_to_string(subtree):
     """
     Given a subtree, convert it to a string with all intervening whitespace
@@ -130,7 +124,6 @@ def tree_to_string(subtree):
     # between sets of parentheses, so:
     string = tree.replace(') (', ')(')
     return string
-
 
 def populate_by_attribute(line, tree, attributes, attrib):
     """
@@ -149,7 +142,6 @@ def populate_by_attribute(line, tree, attributes, attrib):
         tree[index] = attribs[i]
     return tree
 
-
 def get_bow_tree(line, constituents, attributes):
     """
     Return a bag-of-words tree representation, ex.
@@ -167,30 +159,35 @@ def get_wm1(line, flat_features_dict):
     words = [clean_string(t) for t in line[7].split("_")]
     output = []
     for word in words:
-        if word in flat_features_dict:
-            feature_id = flat_features_dict[word]
-            output.append((int(feature_id), "1"))
+        if (word, "wm1") in flat_features_dict:
+            feature_id = flat_features_dict[(word, "wm1")]
+        else:
+            feature_id = flat_features_dict.add((word, "wm1"))
+        output.append((int(feature_id), "1"))
     return output
 
 def get_wm2(line, flat_features_dict):
     words = [clean_string(t) for t in line[13].split("_")]
     output = []
     for word in words:
-        if word in flat_features_dict:
-            feature_id = flat_features_dict[word]
-            output.append((int(feature_id), "1"))
+        if (word, "wm2") in flat_features_dict:
+            feature_id = flat_features_dict[(word, "wm2")]
+        else:
+            feature_id = flat_features_dict.add((word, "wm2"))
+        output.append((int(feature_id), "1"))
     return output
-
 
 def wb_null(line, flat_features_dict):
     """
     If there is no word between mentions.
     """
     if (line[2] == line[8]) and (line[4] == line[9]):
-        feature_id = flat_features_dict['wb_null']
-        return [(int(feature_id), "1")] 
-    return [] 
-        
+        if ("wb_null") in flat_features_dict:
+            feature_id = flat_features_dict['wb_null']
+        else:
+            feature_id = flat_features_dict.add(("wb_null"))
+        return [(int(feature_id), "1")]
+    return []
 
 def word_between(line, attributes):
     """
@@ -202,8 +199,6 @@ def word_between(line, attributes):
     # LOL THIS IS NOT DONE YET I NEED TO SLEEP GONNA DO MORE TMR <3
     attributes[index_1]
 
-
-
 def gather_flat_features(flat_f):
     flat_f = list(itertools.chain(*flat_f))
     flat_f = list(set(flat_f))
@@ -211,6 +206,8 @@ def gather_flat_features(flat_f):
     flat_f = [str(feature_id) + ":" + value for feature_id, value in flat_f]
     flat_f = " ".join(flat_f)
     flat_f = "|BV| " + flat_f + " |EV|"
+    print "flat"
+    print flat_f
     return flat_f
 
 def extract_features(lines, filename):
@@ -221,9 +218,9 @@ def extract_features(lines, filename):
     a_path = os.getcwd() + '/data/attributes/'
     p_path = os.getcwd() + '/data/parsed/'
     s_path = os.getcwd() + '/data/jsons/'
-    flat_features_list = ["wm1", "wm2", "wb_null"]
-    flat_features_dict = FeatureDict("./vocabulary", flat_features_list)
+    flat_features_dict = FeatureDict()
     curr_file = None
+    print "hi1"
     for line in lines:
         if line[1] != curr_file:
             curr_file = line[1]
@@ -243,7 +240,9 @@ def extract_features(lines, filename):
         flat_f = [get_wm1(line, flat_features_dict),
                   get_wm2(line, flat_features_dict),
                   wb_null(line, flat_features_dict)]
-        
+
+        print "hi"
+
 
         f_list = [get_label(line),
                   '|BT|',
@@ -262,7 +261,6 @@ def extract_features(lines, filename):
                   gather_flat_features(flat_f)]
         features.append([f for f in f_list if f is not None])
     return features
-
 
 def write_to_file(filename, features, label=None, train=False):
     """
