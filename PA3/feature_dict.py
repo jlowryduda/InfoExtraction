@@ -24,6 +24,6 @@ class FeatureDict:
     def add(self, item):
         """Add an item with a generated index."""
         if item not in self:
-            index = len(self)
+            index = len(self) + 1
             self.feature_dict[item] = index
-        return len(self.feature_dict)       
+        return len(self.feature_dict) + 1     
