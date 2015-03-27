@@ -9,6 +9,7 @@ from feature_dict import FeatureDict
 from AttributeTree import AttributeTree as ATree
 from nltk.corpus import wordnet as wn
 
+
 def read_from_file(filename):
     """
     Read in data from file and do preprocessing on it for later use.
@@ -181,13 +182,15 @@ def get_wm2(line, flat_features_dict):
     return output
 
 
-def wb_null(line):
+def wb_null(line, flat_features_dict):
     """
     If there is no word between mentions.
     """
     if (line[2] == line[8]) and (line[4] == line[9]):
         feature_id = flat_features_dict['wb_null']
-        return (int(feature_id), "1") 
+        return [(int(feature_id), "1")] 
+    return [] 
+        
 
 def word_between(line, attributes):
     """
@@ -239,7 +242,8 @@ def extract_features(lines, filename):
 
         flat_f = [get_wm1(line, flat_features_dict),
                   get_wm2(line, flat_features_dict),
-                  wb_null(line)]
+                  wb_null(line, flat_features_dict)]
+        
 
         f_list = [get_label(line),
                   '|BT|',
