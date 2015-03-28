@@ -4,9 +4,7 @@ import json
 import re
 from nltk.tree import ParentedTree
 
-##################
-# HELPER METHODS #
-##################
+### HELPER METHODS ###
 
 def clean_string(s):
     """Helper function that does some basic preprocessing on a string"""
@@ -18,14 +16,12 @@ def clean_string(s):
     s = s.lower()
     return s
 
-
 def get_label(line):
     """
     For a line in the training file, return the relation type between
     the mentions in that line ('no_rel' or the relation type).
     """
     return line[0]
-
 
 def read_from_file(filename):
     """
@@ -36,7 +32,6 @@ def read_from_file(filename):
 
     lines = [line.split() for line in lines]
     return lines
-
 
 def geo_identity(line, geo_dict):
     """
@@ -131,6 +126,7 @@ def get_head(tree):
 #################
 
 
+
 def entity_type_pair(line):
     """
     Returns a string containing entity types of both mentions, a la
@@ -184,7 +180,7 @@ def governing_constituents(line, constituents):
     we use the parent of its subtree.
     """
     tree = constituents[int(line[2])]
-    
+
     # Mention 1:
     start_1 = int(line[3])
     end_1 = int(line[4])
@@ -193,7 +189,7 @@ def governing_constituents(line, constituents):
     else:
         subtree = tree[tree.treeposition_spanning_leaves(start_1, end_1)[:-1]]
         label_1 = subtree.label()
-        
+
     # Mention 2:
     start_2 = int(line[9])
     end_2 = int(line[10])
@@ -208,8 +204,11 @@ def tree_distance(line, constituents):
     tree = constituents[int(line[2])]
     path_up, path_down = get_paths(tree, int(line[3]), int(line[10]) - 1)
     return "tree_distance=" + str(len(path_up + path_down))
-    
+
 def get_wm1(line):
+    """
+    Return the words in the first mention
+    """
     words = [clean_string(t) for t in line[7].split("_")]
     output = []
     for word in words:
@@ -217,6 +216,9 @@ def get_wm1(line):
     return " ".join(output)
 
 def get_wm2(line):
+    """
+    Return the words in the second mention
+    """
     words = [clean_string(t) for t in line[13].split("_")]
     output = []
     for word in words:
@@ -242,6 +244,7 @@ def word_between(line, attributes):
         word_between = attributes[sentence_no][index_1_end]['token']
         return "word_between=" + word_between
     pass
+
 
 def head_mention(line, constituents, mention_number):
     """
@@ -269,6 +272,77 @@ def head_mention(line, constituents, mention_number):
 ####################
 # Extract Features #
 ####################
+
+def get_wbf(line, attributes):
+    """
+    first word in between when at least two words in between
+    """
+    sentence_no = int(line[2])
+    index_1_end = int(line[4])
+    index_2_start = int(line[9])
+    if (line[2] == line[8]) and (index_2_start-index_1_end >= 2):
+        first_word_between = attributes[sentence_no][index_1_end]['token']
+        return "first_word_between=" + first_word_between
+    pass
+
+def get_wbl(line, attributes):
+    """
+    last word in between when at least two words in between
+    """
+    sentence_no = int(line[2])
+    index_1_end = int(line[4])
+    index_2_start = int(line[9])
+    if (line[2] == line[8]) and (index_2_start-index_1_end >= 2):
+        last_word_between = attributes[sentence_no][index_2_start - 1]['token']
+        return "last_word_between=" + last_word_between
+    pass
+
+def first_word_before_m1(line, attributes):
+    """
+    Return the first word before mention 1
+    """
+    sentence_no = int(line[2])
+    index_1_start = int(line[3])
+    if index_1_start > 0:
+        first_before_m1 = attributes[sentence_no][index_1_start-1]['token']
+        return "first_word_before_m1=" + first_before_m1
+    pass
+
+def second_word_before_m1(line, attributes):
+    """
+    Return the second word before mention 1
+    """
+    sentence_no = int(line[2])
+    index_1_start = int(line[3])
+    if index_1_start > 1:
+        first_before_m1 = attributes[sentence_no][index_1_start-2]['token']
+        return "first_word_before_m1=" + first_before_m1
+    pass
+
+def first_word_after_m2(line, attributes):
+    """
+    Return the first word ater mention 2
+    """
+    sentence_no = int(line[2])
+    index_2_end = int(line[10])
+    try:
+        first_word_after_m2 = attributes[sentence_no][index_2_end]['token']
+        return "first_word_after_m1" + first_word_after_m2
+    except:
+        pass
+
+def second_word_after_m2(line, attributes):
+    """
+    Returns the second word after mention 2
+    """
+    sentence_no = int(line[2])
+    index_2_end = int(line[10])
+    try:
+        second_word_after_m2 = attributes[sentence_no][index_2_end + 1]['token']
+        return "second_word_after_m1" + second_word_after_m2
+    except:
+        pass
+
 
 def extract_features(lines):
     """
@@ -301,6 +375,12 @@ def extract_features(lines):
                   get_wm2(line),
                   wb_null(line),
                   word_between(line, attributes),
+                  #get_wbf(line, attributes),
+                  #get_wbl(line, attributes),
+                  first_word_before_m1(line, attributes),
+                  #second_word_before_m1(line, attributes),
+                  first_word_after_m2(line, attributes),
+                  #second_word_after_m2(line, attributes),
                   token_distance(line),
                   governing_constituents(line, constituents),
                   tree_distance(line, constituents)
