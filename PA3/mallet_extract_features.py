@@ -4,6 +4,7 @@ import json
 import re
 import nltk
 from nltk.tree import ParentedTree
+from nltk.tree import Tree
 from nltk.corpus import conll2000
 
 ### HELPER METHODS ###
@@ -108,35 +109,35 @@ def get_head(tree):
     Determine the head of an NP constituent using Collins' (Collins, 1999)
     head-finding algorithm.
     """
-    if tree[-1].label() == "POS":
+    if tree[-1][1] == "POS":
         # If the last word is tagged POS, return the previous word
-        return " ".join(tree[-2].leaves())
+        return tree[-2][0]
     else:
-        for e in reversed(tree):
+        for token, tag in reversed(tree):
             # Else search from right to left to find a child that is an NN, NNP,
             # NNPS, NX, POS, or JJR
-            if e.label() in ["NN", "NNP", "NNPS", "NX", "POS", "JJR"]:
-                return " ".join(e.leaves())
-        for e in tree:
+            if tag in ["NN", "NNP", "NNPS", "NX", "POS", "JJR"]:
+                return token
+        for token, tag in tree:
             # Else search from left to right for the first child which is an NP
-            if e.label() == "NP":
-                return " ".join(e.leaves())
-        for e in reversed(tree):
+            if tag == "NP":
+                return token
+        for token, tag in reversed(tree):
             # Else search from right to left to find a child that is a $, ADJP,
             # PRP
-            if e.label() in ["$", "ADJP", "PRP"]:
-                return " ".join(e.leaves())
-        for e in reversed(tree):
+            if tag in ["$", "ADJP", "PRP"]:
+                return token
+        for token, tag in reversed(tree):
             # Else search from right to left to find a child that is a CD
-            if e.label() == "CD":
-                return " ".join(e.leaves())
-        for e in reversed(tree):
+            if tag == "CD":
+                return token
+        for token, tag in reversed(tree):
             # Else search from right to left to find a child that is a JJ, JJS,
             # RB or QP
-            if e.label() in ["JJ", "JJS", "RB", "QP"]:
-                return " ".join(e.leaves())
+            if tag in ["JJ", "JJS", "RB", "QP"]:
+                return token
         # Else return the last word
-        return " ".join(tree[-1].leaves())
+        return tree[-1][0]
 
 #################
 # Flat features #
@@ -222,6 +223,36 @@ def tree_distance(line, constituents):
     path_up, path_down = get_paths(tree, int(line[3]), int(line[10]) - 1)
     return "tree_distance=" + str(len(path_up + path_down))
 
+
+def head_mention(line, attributes, mention_number, chunker):
+    """
+    Returns the head of the NP immediately governing the mention stipulated
+    """
+    sent = [(item['token'], item['pos']) for item in attributes[int(line[2])]]
+    chunks = chunker.parse(sent)
+
+    if mention_number == 1:
+        start = int(line[3])
+        end = int(line[4]) - 1
+    elif mention_number == 2:
+        start = int(line[9])
+        end = int(line[10]) - 1
+
+    # Assume the head of the chunk is the last token in the chunk
+    if chunks[chunks.leaf_treeposition(start)[:-1]].label() == 'S':
+        head = chunks.leaves()[start][0]
+    elif chunks[chunks.leaf_treeposition(start)[:-1]].label() == 'NP':
+        head = get_head(chunks[chunks.leaf_treeposition(start)[:-1]])
+    if mention_number == 1:
+        return "head_mention_1=" + head
+    elif mention_number == 2:
+        return "head_mention_2=" + head
+
+
+#################
+# WORD FEATURES #
+#################
+
 def get_wm1(line):
     """
     Return the words in the first mention
@@ -261,34 +292,6 @@ def word_between(line, attributes):
         word_between = attributes[sentence_no][index_1_end]['token']
         return "word_between=" + word_between
     pass
-
-
-def head_mention(line, attributes, mention_number, chunker):
-    """
-    Returns the head of the NP immediately governing the mention stipulated
-    """
-    sent = [(item['token'], item['pos']) for item in attributes[int(line[2])]]
-    chunks = chunker.parse(sent)
-
-    if mention_number == 1:
-        start = int(line[3])
-        end = int(line[4]) - 1
-    elif mention_number == 2:
-        start = int(line[9])
-        end = int(line[10]) - 1
-
-    # Assume the head of the chunk is the last token in the chunk
-    chunk = chunks[chunks.leaf_treeposition(end)[:-1]].leaves()[-1][0]
-    if mention_number == 1:
-        return "head_mention_1=" + head
-    elif mention_number == 2:
-        return "head_mention_2=" + head
-
-
-
-####################
-# Extract Features #
-####################
 
 def get_wbf(line, attributes):
     """
@@ -360,6 +363,11 @@ def second_word_after_m2(line, attributes):
     except:
         pass
 
+
+##################
+# CHUNK FEATURES #
+##################
+
 def no_interceding_chunk(line, attributes, chunker):
     sent = [(item['token'], item['pos']) for item in attributes[int(line[2])]]
     chunks = chunker.parse(sent)
@@ -369,6 +377,16 @@ def no_interceding_chunk(line, attributes, chunker):
             return
     return "no_interceding_chunk=1"
 
+def number_interceding_chunks(line, attributes, chunker):
+    sent = [(item['token'], item['pos']) for item in attributes[int(line[2])]]
+    chunks = chunker.parse(sent)
+    tree_index_mention_1 = chunks.leaf_treeposition(int(line[4]))[0]
+    tree_index_mention_2 = chunks.leaf_treeposition(int(line[9]))[0]
+    i = 0
+    for item in chunks[tree_index_mention_1:tree_index_mention_2]:
+        if isinstance(item, Tree):
+            i += 1
+    return "number_interceding_chunks=" + str(i)
 
 def path_of_phrase_labels(line, constituents, attributes):
     if int(line[2]) == int(line[8]):
@@ -400,6 +418,11 @@ def path_of_phrase_labels(line, constituents, attributes):
         output_path = "_".join(output_path)
         return "path=" + output_path
     pass
+
+####################
+# Extract Features #
+####################
+
 
 def extract_features(lines):
     """
@@ -434,19 +457,21 @@ def extract_features(lines):
                   get_wm2(line),
                   wb_null(line),
                   word_between(line, attributes),
+                  no_interceding_chunk(line, attributes, chunker),
+                  token_distance(line),
+                  governing_constituents(line, constituents),
+                  tree_distance(line, constituents),
+                  #
+                  #path_of_phrase_labels(line, constituents, attributes),
+                  #head_mention(line, attributes, 1, chunker),
+                  #head_mention(line, attributes, 2, chunker),
+                  #number_interceding_chunks(line, attributes, chunker),
                   #get_wbf(line, attributes),
                   #get_wbl(line, attributes),
                   #first_word_before_m1(line, attributes),
                   #second_word_before_m1(line, attributes),
                   #first_word_after_m2(line, attributes),
                   #second_word_after_m2(line, attributes),
-                  token_distance(line),
-                  governing_constituents(line, constituents),
-                  tree_distance(line, constituents),
-                  path_of_phrase_labels(line, constituents, attributes),
-                  #head_mention(line, attributes, 1, chunker),
-                  #head_mention(line, attributes, 2, chunker)
-                  no_interceding_chunk(line, attributes, chunker)
                   ]
         features.append([f for f in f_list if f is not None])
     return features
