@@ -2,7 +2,7 @@ import sys
 import os
 import json
 import re
-from nltk.tree import Tree
+from nltk.tree import ParentedTree
 
 ### HELPER METHODS ###
 
@@ -56,7 +56,37 @@ def geo_identity(line, geo_dict):
             return "geo_identity=True"
     pass
 
+def get_paths(tree, start, end):
+    """
+    Given a tree, and the indices of the starting and ending leaves,
+    calculates the path up from the start leaf to the lowest common ancestor
+    and the path down from the lowest common ancestor to the end leaf.
+    """
 
+    # Find tree positions of start and end leaves:
+    start_pos = tree.leaf_treeposition(start)
+    end_pos = tree.leaf_treeposition(end-1)
+
+    # Find tree position of subtree rooted at lowest common ancestor:
+    for i in range(min(len(start_pos), len(end_pos))):
+        if start_pos[i] != end_pos[i]:
+            break
+    subtree_pos = start_pos[:i]
+
+    # Refer to tree positions of start and end leaves in terms of subtree:
+    revised_start = start_pos[len(subtree_pos):]
+    revised_end = end_pos[len(subtree_pos):]
+
+    # Calculate paths:
+    path_up = [tree[subtree_pos][revised_start[:i]].label()
+               for i in range(len(revised_start))]
+    path_up.reverse()
+
+    path_down = [tree[subtree_pos][revised_end[:i]].label()
+                 for i in range(len(revised_end))]
+
+    # Resulting path_up ends with, path_down starts with, dominating NP
+    return path_up, path_down
 
 ####
 # Flat features
@@ -85,8 +115,45 @@ def interceding_in(line, attributes): #GET THE ATTRIBUTES
     pass
 
 def token_distance(line):
+    """
+    Returns the distance between the last token of the first mention
+    and the first token of the second mention
+    """
     return "token_distance=" + str(int(line[9]) - int(line[4]))
 
+def governing_constituents(line, constituents):
+    """
+    Returns the constituent labels of constituents governing each mention, in
+    a pair such as 'NP-PP'.  If the mention is a single token, we use the
+    grandparent of its part-of-speech constituent.  If it's multiple tokens,
+    we use the parent of its subtree.
+    """
+    tree = constituents[int(line[2])]
+    
+    # Mention 1:
+    start_1 = int(line[3])
+    end_1 = int(line[4])
+    if end_1 - start_1 == 1:
+        label_1 = tree[tree.leaf_treeposition(start_1)[:-3]].label()
+    else:
+        subtree = tree[tree.treeposition_spanning_leaves(start_1, end_1)[:-1]]
+        label_1 = subtree.label()
+        
+    # Mention 2:
+    start_2 = int(line[9])
+    end_2 = int(line[10])
+    if end_2 - start_2 == 1:
+        label_2 = tree[tree.leaf_treeposition(start_2)[:-3]].label()
+    else:
+        subtree = tree[tree.treeposition_spanning_leaves(start_2, end_2)[:-1]]
+        label_2 = subtree.label()
+    return "governing_constituents=" + label_1 + "-" + label_2
+
+def tree_distance(line, constituents):
+    tree = constituents[int(line[2])]
+    path_up, path_down = get_paths(tree, int(line[3]), int(line[10]) - 1)
+    return "tree_distance=" + str(len(path_up + path_down))
+    
 def get_wm1(line):
     words = [clean_string(t) for t in line[7].split("_")]
     output = []
@@ -143,7 +210,7 @@ def extract_features(lines):
                 constituents = [s for i, s in enumerate(parses) if i % 2 == 0]
                 dependencies = [s.split('\n') for i, s in enumerate(parses)
                                 if i % 2 == 1]
-                constituents = [Tree.fromstring(c) for c in constituents]
+                constituents = [ParentedTree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   entity_type_pair(line),
                   interceding_in(line, attributes),
@@ -151,7 +218,9 @@ def extract_features(lines):
                   get_wm2(line),
                   wb_null(line),
                   word_between(line, attributes),
-                  token_distance(line)
+                  token_distance(line),
+                  governing_constituents(line, constituents),
+                  tree_distance(line, constituents)
                   ]
         features.append([f for f in f_list if f is not None])
     return features
