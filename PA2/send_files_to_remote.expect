@@ -3,40 +3,40 @@
 #Copy train.features.labeled to a remote machine
 spawn scp train.features.labeled libenson@gnomic.cs.brandeis.edu:ie
 expect "assword:"
-send "utopia63ltd\r"
+send "YOURPASSWORD\r"
 interact
 
 
 #Copy dev.features.nolabel to a remote machine
 spawn scp dev.features.nolabel libenson@gnomic.cs.brandeis.edu:ie
 expect "assword:"
-send "utopia63ltd\r"
+send "YOURPASSWORD\r"
 interact
 
 
 #Copy dev.features.labeled to a remote machine
 spawn scp dev.features.labeled libenson@gnomic.cs.brandeis.edu:ie
 expect "assword:"
-send "utopia63ltd\r"
+send "YOURPASSWORD\r"
 interact
 
 
 #Copy test.features.nolabel to a remote machine
 spawn scp test.features.nolabel libenson@gnomic.cs.brandeis.edu:ie
 expect "assword:"
-send "utopia63ltd\r"
+send "YOURPASSWORD\r"
 interact
 
 
 #Copy test.features.labeled to a remote machine
 spawn scp test.features.labeled libenson@gnomic.cs.brandeis.edu:ie
 expect "assword:"
-send "utopia63ltd\r"
+send "YOURPASSWORD\r"
 interact
 
 
 #Stay at Brandeis machine
 #spawn ssh libenson@gnomic.cs.brandeis.edu:ie
 #expect "assword:"
-#send "utopia63ltd\r"
+#send "YOURPASSWORD\r"
 #interact
