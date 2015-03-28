@@ -76,13 +76,16 @@ def interceding_in(line, attributes): #GET THE ATTRIBUTES
     Returns true if the two mentions appear in the same sentence, the second
     mention is of type GPE, and the word "in" appears between the two mentions.
     """
-    if int(line[2]) == int(line[8]) and line[11] == 'GPE':
+    if int(line[2]) == int(line[8]) and line[11] in ('GPE', 'FAC'):
         sent = attributes[int(line[2])]
         interceding_span = sent[int(line[4]):int(line[9])]
         tokens = [clean_string(item['token']) for item in interceding_span]
         if 'in' in tokens:
             return "interceding_in=True"
     pass
+
+def token_distance(line):
+    return "token_distance=" + str(int(line[9]) - int(line[4]))
 
 def get_wm1(line):
     words = [clean_string(t) for t in line[7].split("_")]
@@ -147,7 +150,8 @@ def extract_features(lines):
                   get_wm1(line),
                   get_wm2(line),
                   wb_null(line),
-                  word_between(line, attributes)
+                  word_between(line, attributes),
+                  token_distance(line)
                   ]
         features.append([f for f in f_list if f is not None])
     return features
@@ -157,15 +161,14 @@ def write_to_file(filename, features, train=False):
     Write resulting features to a feature file.  If this isn't training data,
     produce two files, one with labels and one without.
     """
-    lines = [' '.join(f) for f in features]
     with open(filename + '.labeled', 'w') as outfile:
-        for line in lines:
-            outfile.write(line)
+        for f in features:
+            outfile.write(' '.join(f))
             outfile.write('\n')
     if not train:
         with open(filename + '.nolabel', 'w') as outfile:
-            for line in lines:
-                outfile.write(line[1:])
+            for f in features:
+                outfile.write(' '.join(f[1:]))
                 outfile.write('\n')
 
 
