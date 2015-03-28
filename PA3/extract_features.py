@@ -248,24 +248,35 @@ def read_from_file(filename):
     lines = [line.split() for line in lines]
     return lines
 
+def get_labels(lines):
+    label_dict = dict()
+    for line in lines:
+        if line[0] in label_dict:
+            label_dict[line[0]] += 1
+        else:
+            label_dict[line[0]] = 1
+    del label_dict['no_rel']
+    return label_dict
 
-def write_to_file(filename, features, file_type, label=None):
+
+def write_to_file(filename, features):
     """
     Write resulting features to a feature file.  If this isn't training data,
     produce two files, one with labels and one without.  The label parameter
     indicates whether we want to re-write the file as a binary classification
     of that specific label.
     """
-    path = os.getcwd() + '/data/' + filename
-    with open(path + '.labeled', 'w') as outfile:
-        for feature in features:
-            if label and (feature[0] != label):
-                feature[0] = '-1'
-            else:
-                feature[0] = '1'
-            outfile.write(' '.join(feature))
-            outfile.write('\n')
-    if file_type != 'test':
+    path = os.getcwd() + '/data/results_by_label/' + filename + '.'
+    for label in get_labels(lines):
+        with open(path + label + '.labeled', 'w') as outfile:
+            for feature in features:
+                if feature[0] != label:
+                    l = '-1 '
+                else:
+                    l = '1 '
+                outfile.write(l + ' '.join(feature[1:]))
+                outfile.write('\n')
+    if file_name != 'test':
         with open(path + '.nolabel', 'w') as outfile:
             for feature in features:
                 outfile.write(' '.join(feature[1:]))
@@ -340,19 +351,17 @@ def extract_features(lines, filename, feature_dict=None):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 4:
+    if len(sys.argv) != 2:
         print("Specify an input filename (with no extension) a feature label"
               "to do binary classification on, and either 'train' or 'test'"
               "depending on datatype")
     else:
         file_name = sys.argv[1]
-        label_name = sys.argv[2]
-        file_type = sys.argv[3]
-        if file_type == 'train':
+        if file_name == 'train':
             feature_dict = None
         else:
             with open('feature_dict.obj', 'r') as infile:
                 feature_dict = pickle.load(infile)
         lines = read_from_file(file_name)
         features = extract_features(lines, file_name, feature_dict)
-        write_to_file(file_name, features, file_type, label_name)
+        write_to_file(file_name, features)
