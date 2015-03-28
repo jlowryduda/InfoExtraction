@@ -150,7 +150,7 @@ def entity_type_pair(line, flat_features_dict):
         feature_id = flat_features_dict[(feature)]
     else:
         feature_id = flat_features_dict.add((feature))
-    return [(int(feature_id), "1")]
+    return [(feature_id, "1")]
 
 
 def interceding_in(line, attributes, flat_features_dict):
@@ -167,7 +167,7 @@ def interceding_in(line, attributes, flat_features_dict):
         else:
             feature_id = flat_features_dict.add(("interceding_in"))
         if 'in' in tokens:
-            return [(int(feature_id), "1")]
+            return [(feature_id, "1")]
     return []
 
 
@@ -179,7 +179,7 @@ def get_wm1(line, flat_features_dict):
             feature_id = flat_features_dict[(word, "wm1")]
         else:
             feature_id = flat_features_dict.add((word, "wm1"))
-        output.append((int(feature_id), "1"))
+        output.append((feature_id, "1"))
     return output
 
 
@@ -191,7 +191,7 @@ def get_wm2(line, flat_features_dict):
             feature_id = flat_features_dict[(word, "wm2")]
         else:
             feature_id = flat_features_dict.add((word, "wm2"))
-        output.append((int(feature_id), "1"))
+        output.append((feature_id, "1"))
     return output
 
 
@@ -204,20 +204,26 @@ def wb_null(line, flat_features_dict):
             feature_id = flat_features_dict['wb_null']
         else:
             feature_id = flat_features_dict.add(("wb_null"))
-        return [(int(feature_id), "1")]
+        return [(feature_id, "1")]
     return []
 
 
-def word_between(line, attributes):
+def word_between(line, attributes, flat_features_dict):
     """
     If there is one word between the mentions, return that word.
     """
-    sentence_no = line[2]
-    index_1 = line[3]
-    index_2 = line[9]
-    # LOL THIS IS NOT DONE YET I NEED TO SLEEP GONNA DO MORE TMR <3
-    attributes[index_1]
-
+    sentence_no = int(line[2])
+    index_1_end = int(line[4])
+    index_2_start = int(line[9])
+    if (line[2] == line[8]) and (index_2_start-index_1_end == 1):
+        word_between =\
+        line[7], attributes[sentence_no][index_1_end]['token'], line[13]
+        if (word_between, "wb") in flat_features_dict:
+            feature_id = flat_features_dict[(word_between, "wb")]
+        else:
+            feature_id = flat_features_dict.add((word_between, "wb"))
+        return [(feature_id, "1")]
+    return []
 
 def gather_flat_features(flat_f):
     flat_f = list(itertools.chain(*flat_f))
@@ -303,7 +309,8 @@ def extract_features(lines, filename, feature_dict=None):
                   get_wm2(line, flat_features_dict),
                   wb_null(line, flat_features_dict),
                   interceding_in(line, attributes, flat_features_dict),
-                  entity_type_pair(line, flat_features_dict)]
+                  word_between(line, attributes, flat_features_dict), 
+                 entity_type_pair(line, flat_features_dict)]
 
         f_list = [get_label(line),
                   '|BT|',
