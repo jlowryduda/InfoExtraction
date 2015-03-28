@@ -2,9 +2,26 @@ import sys
 import os
 import json
 import re
+import nltk
 from nltk.tree import ParentedTree
+from nltk.corpus import conll2000
 
 ### HELPER METHODS ###
+
+# Taken directly from NLTK book:
+class UnigramChunker(nltk.ChunkParserI):
+    def __init__(self, train_sents):
+        train_data = [[(t,c) for w,t,c in nltk.chunk.tree2conlltags(sent)]
+                      for sent in train_sents]
+        self.tagger = nltk.UnigramTagger(train_data)
+
+    def parse(self, sentence):
+        pos_tags = [pos for (word,pos) in sentence]
+        tagged_pos_tags = self.tagger.tag(pos_tags)
+        chunktags = [chunktag for (pos, chunktag) in tagged_pos_tags]
+        conlltags = [(word, pos, chunktag) for ((word,pos),chunktag)
+                     in zip(sentence, chunktags)]
+        return nltk.chunk.conlltags2tree(conlltags)
 
 def clean_string(s):
     """Helper function that does some basic preprocessing on a string"""
@@ -246,22 +263,22 @@ def word_between(line, attributes):
     pass
 
 
-def head_mention(line, constituents, mention_number):
+def head_mention(line, attributes, mention_number, chunker):
     """
     Returns the head of the NP immediately governing the mention stipulated
     """
-    tree = constituents[int(line[2])]
+    sent = [(item['token'], item['pos']) for item in attributes[int(line[2])]]
+    chunks = chunker.parse(sent)
+
     if mention_number == 1:
         start = int(line[3])
-        end = int(line[4])
+        end = int(line[4]) - 1
     elif mention_number == 2:
         start = int(line[9])
-        end = int(line[10])
-    subtree = tree[tree.treeposition_spanning_leaves(start, end)]
-    if isinstance(subtree, ParentedTree):
-        head = get_head(subtree)
-    else:
-        head = subtree
+        end = int(line[10]) - 1
+
+    # Assume the head of the chunk is the last token in the chunk
+    chunk = chunks[chunks.leaf_treeposition(end)[:-1]].leaves()[-1][0]
     if mention_number == 1:
         return "head_mention_1=" + head
     elif mention_number == 2:
@@ -343,6 +360,16 @@ def second_word_after_m2(line, attributes):
     except:
         pass
 
+def no_interceding_chunk(line, attributes, chunker):
+    sent = [(item['token'], item['pos']) for item in attributes[int(line[2])]]
+    chunks = chunker.parse(sent)
+    span = range(int(line[4]), int(line[9]))
+    for index in span:
+        if chunks[chunks.leaf_treeposition(index)[:-1]].label() == 'NP':
+            return    
+    return "no_interceding_chunk=1"
+
+
 
 def extract_features(lines):
     """
@@ -351,6 +378,8 @@ def extract_features(lines):
     features = []
     a_path = os.getcwd() + '/data/attributes/'
     p_path = os.getcwd() + '/data/parsed/'
+    train_chunks = conll2000.chunked_sents('train.txt', chunk_types=['NP'])
+    chunker = UnigramChunker(train_chunks)
     curr_file = None
     for line in lines:
     	if line[1] != curr_file:
@@ -377,15 +406,16 @@ def extract_features(lines):
                   word_between(line, attributes),
                   #get_wbf(line, attributes),
                   #get_wbl(line, attributes),
-                  first_word_before_m1(line, attributes),
+                  #first_word_before_m1(line, attributes),
                   #second_word_before_m1(line, attributes),
-                  first_word_after_m2(line, attributes),
+                  #first_word_after_m2(line, attributes),
                   #second_word_after_m2(line, attributes),
                   token_distance(line),
                   governing_constituents(line, constituents),
-                  tree_distance(line, constituents)
-                  #head_mention(line, constituents, 1),
-                  #head_mention(line, constituents, 2)
+                  tree_distance(line, constituents),
+                  #head_mention(line, attributes, 1, chunker),
+                  #head_mention(line, attributes, 2, chunker)
+                  no_interceding_chunk(line, attributes, chunker)
                   ]
         features.append([f for f in f_list if f is not None])
     return features
