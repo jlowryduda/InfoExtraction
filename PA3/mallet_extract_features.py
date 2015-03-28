@@ -4,7 +4,9 @@ import json
 import re
 from nltk.tree import ParentedTree
 
-### HELPER METHODS ###
+##################
+# HELPER METHODS #
+##################
 
 def clean_string(s):
     """Helper function that does some basic preprocessing on a string"""
@@ -88,9 +90,45 @@ def get_paths(tree, start, end):
     # Resulting path_up ends with, path_down starts with, dominating NP
     return path_up, path_down
 
-####
-# Flat features
-####
+
+def get_head(tree):
+    """
+    Determine the head of an NP constituent using Collins' (Collins, 1999)
+    head-finding algorithm.
+    """
+    if tree[-1].label() == "POS":
+        # If the last word is tagged POS, return the previous word
+        return " ".join(tree[-2].leaves())
+    else:
+        for e in reversed(tree):
+            # Else search from right to left to find a child that is an NN, NNP,
+            # NNPS, NX, POS, or JJR
+            if e.label() in ["NN", "NNP", "NNPS", "NX", "POS", "JJR"]:
+                return " ".join(e.leaves())
+        for e in tree:
+            # Else search from left to right for the first child which is an NP
+            if e.label() == "NP":
+                return " ".join(e.leaves())
+        for e in reversed(tree):
+            # Else search from right to left to find a child that is a $, ADJP,
+            # PRP
+            if e.label() in ["$", "ADJP", "PRP"]:
+                return " ".join(e.leaves())
+        for e in reversed(tree):
+            # Else search from right to left to find a child that is a CD
+            if e.label() == "CD":
+                return " ".join(e.leaves())
+        for e in reversed(tree):
+            # Else search from right to left to find a child that is a JJ, JJS,
+            # RB or QP
+            if e.label() in ["JJ", "JJS", "RB", "QP"]:
+                return " ".join(e.leaves())
+        # Else return the last word
+        return " ".join(tree[-1].leaves())
+
+#################
+# Flat features #
+#################
 
 
 def entity_type_pair(line):
@@ -101,17 +139,34 @@ def entity_type_pair(line):
     feature = line[5] + "-" + line[11]
     return "entity_type_pair=" + feature
 
-def interceding_in(line, attributes): #GET THE ATTRIBUTES
+def mention_1_possessive(line, attributes):
+    sent = attributes[int(line[2])]
+    if sent[int(line[4])-1]['pos'] == 'PRP$':
+        return "mention_1_possessive=1"
+    pass
+
+def interceding_prep(line, attributes):
     """
-    Returns true if the two mentions appear in the same sentence, the second
-    mention is of type GPE, and the word "in" appears between the two mentions.
+    If a preposition appears between the two mentions, return that preposition.
     """
-    if int(line[2]) == int(line[8]) and line[11] in ('GPE', 'FAC'):
-        sent = attributes[int(line[2])]
-        interceding_span = sent[int(line[4]):int(line[9])]
-        tokens = [clean_string(item['token']) for item in interceding_span]
-        if 'in' in tokens:
-            return "interceding_in=True"
+    sent = attributes[int(line[2])]
+    interceding_span = sent[int(line[4]):int(line[9])]
+    tokens = [clean_string(item['token']) for item in interceding_span
+              if item['pos'] == 'IN']
+    if tokens:
+        return "interceding_prep=" + tokens[-1]
+    pass
+
+def interceding_conj(line, attributes):
+    """
+    If a conjunction appears between the two mentions, return that conjunction.
+    """
+    sent = attributes[int(line[2])]
+    interceding_span = sent[int(line[4]):int(line[9])]
+    tokens = [clean_string(item['token']) for item in interceding_span
+              if item['pos'] == 'CC']
+    if tokens:
+        return "interceding_conj=" + tokens[0]
     pass
 
 def token_distance(line):
@@ -188,6 +243,32 @@ def word_between(line, attributes):
         return "word_between=" + word_between
     pass
 
+def head_mention(line, constituents, mention_number):
+    """
+    Returns the head of the NP immediately governing the mention stipulated
+    """
+    tree = constituents[int(line[2])]
+    if mention_number == 1:
+        start = int(line[3])
+        end = int(line[4])
+    elif mention_number == 2:
+        start = int(line[9])
+        end = int(line[10])
+    subtree = tree[tree.treeposition_spanning_leaves(start, end)]
+    if isinstance(subtree, ParentedTree):
+        head = get_head(subtree)
+    else:
+        head = subtree
+    if mention_number == 1:
+        return "head_mention_1=" + head
+    elif mention_number == 2:
+        return "head_mention_2=" + head
+
+
+
+####################
+# Extract Features #
+####################
 
 def extract_features(lines):
     """
@@ -213,7 +294,9 @@ def extract_features(lines):
                 constituents = [ParentedTree.fromstring(c) for c in constituents]
         f_list = [get_label(line),
                   entity_type_pair(line),
-                  interceding_in(line, attributes),
+                  mention_1_possessive(line, attributes),
+                  interceding_prep(line, attributes),
+                  interceding_conj(line, attributes),
                   get_wm1(line),
                   get_wm2(line),
                   wb_null(line),
@@ -221,6 +304,8 @@ def extract_features(lines):
                   token_distance(line),
                   governing_constituents(line, constituents),
                   tree_distance(line, constituents)
+                  #head_mention(line, constituents, 1),
+                  #head_mention(line, constituents, 2)
                   ]
         features.append([f for f in f_list if f is not None])
     return features
