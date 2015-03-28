@@ -22,7 +22,6 @@ def get_label(line):
     For a line in the training file, return the relation type between
     the mentions in that line ('no_rel' or the relation type).
     """
-    print line[0]
     return line[0]
 
 
@@ -70,7 +69,6 @@ def entity_type_pair(line):
     Jiang et al.
     """
     feature = line[5] + "-" + line[11]
-    print "entity_type_pair=" + feature
     return "entity_type_pair=" + feature
 
 def interceding_in(line, attributes): #GET THE ATTRIBUTES
@@ -83,7 +81,6 @@ def interceding_in(line, attributes): #GET THE ATTRIBUTES
         interceding_span = sent[int(line[4]):int(line[9])]
         tokens = [clean_string(item['token']) for item in interceding_span]
         if 'in' in tokens:
-            print "interceding_in=True"
             return "interceding_in=True"
     pass
 
@@ -92,7 +89,6 @@ def get_wm1(line):
     output = []
     for word in words:
         output.append("wm1_" + word + "=True")
-    print " ".join(output)
     return " ".join(output)
 
 def get_wm2(line):
@@ -100,7 +96,6 @@ def get_wm2(line):
     output = []
     for word in words:
         output.append("wm2_" + word + "=True")
-    print " ".join(output)
     return " ".join(output)
 
 def wb_null(line):
@@ -108,7 +103,6 @@ def wb_null(line):
     If there is no word between mentions.
     """
     if (line[2] == line[8]) and (line[4] == line[9]):
-        print "wb_null=True"
         return "wb_null=True"
     pass
 
@@ -116,11 +110,14 @@ def word_between(line, attributes):
     """
     If there is one word between the mentions, return that word.
     """
-    sentence_no = line[2]
-    index_1 = line[3]
-    index_2 = line[9]
-    # LOL THIS IS NOT DONE YET I NEED TO SLEEP GONNA DO MORE TMR <3
-    attributes[index_1]
+    sentence_no = int(line[2])
+    index_1_end = int(line[4])
+    index_2_start = int(line[9])
+    if (line[2] == line[8]) and (index_2_start-index_1_end == 1):
+        word_between = attributes[sentence_no][index_1_end]['token']
+        return "word_between=" + word_between
+    pass
+
 
 def extract_features(lines):
     """
@@ -149,8 +146,8 @@ def extract_features(lines):
                   interceding_in(line, attributes),
                   get_wm1(line),
                   get_wm2(line),
-                  wb_null(line)
-                  #word_between(line, attributes)
+                  wb_null(line),
+                  word_between(line, attributes)
                   ]
         features.append([f for f in f_list if f is not None])
     return features
