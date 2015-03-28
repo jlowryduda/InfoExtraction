@@ -366,10 +366,40 @@ def no_interceding_chunk(line, attributes, chunker):
     span = range(int(line[4]), int(line[9]))
     for index in span:
         if chunks[chunks.leaf_treeposition(index)[:-1]].label() == 'NP':
-            return    
+            return
     return "no_interceding_chunk=1"
 
 
+def path_of_phrase_labels(line, constituents, attributes):
+    if int(line[2]) == int(line[8]):
+        tree = constituents[int(line[2])]
+        pointer_mention_1 = tree.leaf_treeposition(int(line[3]))
+        pointer_mention_2 = tree.leaf_treeposition(int(line[10]) - 1)
+
+        # get path up from mention 1
+        curr = tree[pointer_mention_1[:-1]]
+        path_up = []
+        while curr.parent():
+            path_up.append(curr.parent().label())
+            curr = curr.parent()
+
+        # get path down from the root to mention 2
+        path_down = []
+        curr = tree[pointer_mention_2[:-1]]
+        while curr.parent():
+            path_down.append(curr.parent().label())
+            curr = curr.parent()
+        path_down = list(reversed(path_down))
+        path = path_up + path_down
+
+        # remove repetitions, ex. NP NP NP ---> NP
+        output_path = []
+        for index, element in enumerate(path):
+            if index == 0 or element != output_path[-1]:
+                output_path.append(element)
+        output_path = "_".join(output_path)
+        return "path=" + output_path
+    pass
 
 def extract_features(lines):
     """
@@ -413,6 +443,7 @@ def extract_features(lines):
                   token_distance(line),
                   governing_constituents(line, constituents),
                   tree_distance(line, constituents),
+                  path_of_phrase_labels(line, constituents, attributes),
                   #head_mention(line, attributes, 1, chunker),
                   #head_mention(line, attributes, 2, chunker)
                   no_interceding_chunk(line, attributes, chunker)
