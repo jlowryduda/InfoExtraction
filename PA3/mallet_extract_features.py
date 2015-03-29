@@ -103,7 +103,6 @@ def get_paths(tree, start, end):
     # Resulting path_up ends with, path_down starts with, dominating NP
     return path_up, path_down
 
-
 def get_head(tree):
     """
     Determine the head of an NP constituent using Collins' (Collins, 1999)
@@ -139,11 +138,10 @@ def get_head(tree):
         # Else return the last word
         return tree[-1][0]
 
+
 #################
 # Flat features #
 #################
-
-
 
 def entity_type_pair(line):
     """
@@ -223,10 +221,9 @@ def tree_distance(line, constituents):
     path_up, path_down = get_paths(tree, int(line[3]), int(line[10]) - 1)
     return "tree_distance=" + str(len(path_up + path_down))
 
-
 def head_mention(line, attributes, mention_number, chunker):
     """
-    Returns the head of the NP immediately governing the mention stipulated
+    Returns the head of the NP chunk immediately governing the mention stipulated
     """
     sent = [(item['token'], item['pos']) for item in attributes[int(line[2])]]
     chunks = chunker.parse(sent)
@@ -419,6 +416,59 @@ def path_of_phrase_labels(line, constituents, attributes):
         return "path=" + output_path
     pass
 
+
+#######################
+# DEPENDENCY FEATURES #
+#######################
+
+######################
+# Semantic Resources #
+######################
+
+def entity_1_type_country(line, attributes, geo_dict):
+    """
+    The entity type of one mention when the other mention is a country name
+    """
+    sent_number = int(line[2])
+    mention_1_start = int(line[3])
+    mention_1 = clean_string(" ".join(line[7].split("_")))
+    mention_1_type = attributes[sent_number][mention_1_start]['entity_type']
+    try:
+        cond = "country" in geo_dict[mention_1] and mention_2_type == "PER"
+    except:
+        cond = False
+    if cond:
+        return "entity_1_country=True"
+    pass
+
+
+def entity_2_type_country(line, attributes, geo_dict):
+    sent_number = int(line[2])
+    mention_2_start = int(line[9])
+    mention_2 = clean_string(" ".join(line[13].split("_")))
+    mention_2_type = attributes[sent_number][mention_2_start]['entity_type']
+    try:
+        cond = "country" in geo_dict[mention_2] and mention_1_type == "PER"
+    except:
+        cond = False
+    if cond:
+        return "entity_2_type_country=True"
+    pass
+
+def possessive_plus_family(line, attributes):
+    """
+    set(b1).intersection(b2)
+    """
+    sent = attributes[int(line[2])]
+    family = ["father", "mother", "parents", "wife", "husband", "kids",
+              "children", "grandchildren", "sons", "son", "daughter", "brother",
+              "sister", "niece", "nephew", "cousin", "aunt", "uncle"]
+    if sent[int(line[4])-1]['pos'] == 'PRP$':
+        if set(line[13].split("_")).intersection(family):
+            return "possessive_plus_family=True"
+    pass
+
+
 ####################
 # Extract Features #
 ####################
@@ -438,8 +488,12 @@ def extract_features(lines):
     	if line[1] != curr_file:
             curr_file = line[1]
             print(curr_file)
+            #with open('demo_dict.json', 'r') as infile:
+                #demo_dict = json.load(infile)
             with open(a_path + curr_file + '.json', 'r') as infile:
                 attributes = json.load(infile)
+            with open('geo_knowledge.json', 'r') as infile:
+                geo_dict = json.load(infile)
             with open(p_path + curr_file + '.parsed', 'r') as infile:
                 parses = infile.read()
                 parses = parses.split('\n\n')
@@ -461,6 +515,10 @@ def extract_features(lines):
                   token_distance(line),
                   governing_constituents(line, constituents),
                   tree_distance(line, constituents),
+                  possessive_plus_family(line, attributes),
+                  #entity_2_type_country(line, attributes, geo_dict),
+                  #entity_1_type_country(line, attributes, geo_dict),
+                  #entity_type_country(line, attributes, geo_dict),
                   #
                   #path_of_phrase_labels(line, constituents, attributes),
                   #head_mention(line, attributes, 1, chunker),
