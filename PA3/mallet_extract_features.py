@@ -548,8 +548,7 @@ def extract_features(lines):
                   #first_word_before_m1(line, attributes),
                   #second_word_before_m1(line, attributes),
                   #first_word_after_m2(line, attributes),
-                  #second_word_after_m2(line, attributes),
-                  ]
+                  #second_word_after_m2(line, attributes)]
         features.append([f for f in f_list if f is not None])
     return features
 
