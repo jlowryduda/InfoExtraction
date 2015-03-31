@@ -5,9 +5,8 @@ import re
 import itertools
 import operator
 import pickle
-from nltk.tree import Tree
+from nltk.tree import Tree, ParentedTree
 from feature_dict import FeatureDict
-from AttributeTree import AttributeTree as ATree
 
 
 ### HELPER METHODS ###
@@ -41,14 +40,14 @@ def minimum_complete_tree(line, constituents):
     """
     if int(line[2]) == int(line[8]):
         tree = constituents[int(line[2])]
-        tree = ATree.fromstring(tree)
+        tree = ParentedTree.fromstring(tree)
         tree = populate_entity_type(line, tree)
         subtree_indices = tree.treeposition_spanning_leaves(int(line[3]),
                                                             int(line[10]))
         subtree = tree[subtree_indices]
         return subtree
     else:
-        return ATree('S', [''])
+        return ParentedTree('S', [''])
 
 
 def path_enclosed_tree(line, constituents, attributes, attrib):
@@ -62,7 +61,7 @@ def path_enclosed_tree(line, constituents, attributes, attrib):
     if int(line[2]) == int(line[8]):
         # Get full tree:
         tree = constituents[int(line[2])]
-        tree = ATree.fromstring(tree)
+        tree = ParentedTree.fromstring(tree)
         if attrib != 'token':
             tree = populate_by_attribute(line, tree, attributes, attrib)
         # Get pointers to the specific mentions in the tree:
@@ -87,7 +86,7 @@ def path_enclosed_tree(line, constituents, attributes, attrib):
         # Return trimmed tree:
         return tree
     else:
-        return ATree('S', [''])
+        return ParentTree('S', [''])
 
 
 def populate_by_attribute(line, tree, attributes, attrib):
