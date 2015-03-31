@@ -3,7 +3,7 @@ import os
 import json
 import re
 import nltk
-from nltk.tree import ParentedTree
+from nltk.tree import Tree, ParentedTree
 from nltk.corpus import conll2000
 
 ##################
@@ -536,19 +536,19 @@ def extract_features(lines):
                   pos1(line, attributes),
                   pos2(line, attributes),
                   possessive_plus_family(line, attributes),
-                  entity_1_type_country(line, attributes, geo_dict),
-                  entity_2_type_country(line, attributes, geo_dict),
-                  entity_type_country(line, attributes, geo_dict),
                   path_of_phrase_labels(line, constituents, attributes),
                   head_mention(line, attributes, 1, chunker),
-                  head_mention(line, attributes, 2, chunker),
                   number_interceding_chunks(line, attributes, chunker),
                   get_wbf(line, attributes),
-                  get_wbl(line, attributes),
-                  #first_word_before_m1(line, attributes),
+                  first_word_before_m1(line, attributes),
+                  first_word_after_m2(line, attributes),
+                  #second_word_after_m2(line, attributes),
+                  #entity_1_type_country(line, attributes, geo_dict),
+                  #entity_2_type_country(line, attributes, geo_dict),
+                  #head_mention(line, attributes, 2, chunker),
+                  #get_wbl(line, attributes),
                   #second_word_before_m1(line, attributes),
-                  #first_word_after_m2(line, attributes),
-                  #second_word_after_m2(line, attributes)]
+                  ]
         features.append([f for f in f_list if f is not None])
     return features
 
